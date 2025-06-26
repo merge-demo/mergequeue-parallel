@@ -2006,7 +2006,6 @@ acetophenone
 archshepherd
 acetosalicylic
 amphodiplopia
-anticipatory
 acetosoluble
 aurocyanide
 acetostearin
@@ -12595,6 +12594,7 @@ arrayan
 aesopic
 advene
 allochroite
+anticipatory
 aneurysm
 aeriferous
 algosis
