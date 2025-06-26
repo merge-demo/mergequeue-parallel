@@ -3645,7 +3645,6 @@ bailiffwick
 booboo
 balloonfishes
 bergut
-batsman
 barrelsful
 besetting
 benzophenol
@@ -15815,6 +15814,7 @@ blite
 beelol
 bratticer
 benaming
+batsman
 bromaurate
 bromauric
 brombenzamide
