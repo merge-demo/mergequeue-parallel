@@ -11594,6 +11594,7 @@ disconnects
 denotable
 devillike
 disconsent
+domitian
 dithering
 discerpibility
 disconsideration
@@ -15479,7 +15480,6 @@ dissociability
 dowelling
 domite
 doggery
-domitian
 dacus
 domn
 dermatoglyphic
