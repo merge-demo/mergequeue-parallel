@@ -5084,6 +5084,7 @@ disfigures
 dextrogyrate
 denaturization
 desensitizers
+diskette
 dendraspis
 doomwatcher
 daler
@@ -12659,7 +12660,6 @@ definitized
 dextroses
 didy
 dyskeratosis
-diskette
 discernibleness
 diskindness
 diskography
