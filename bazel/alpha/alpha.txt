@@ -20598,6 +20598,7 @@ arthropomata
 arthrorheumatism
 arthrocele
 anaudic
+astrand
 ambulatoriums
 agistor
 aquamanalia
@@ -25194,7 +25195,6 @@ axonophora
 amentula
 azophenetole
 allantochorion
-astrand
 americanization
 anticlactic
 arsono
