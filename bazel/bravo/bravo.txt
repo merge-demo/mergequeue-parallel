@@ -11973,6 +11973,7 @@ birmingham
 brothelry
 bostons
 bogymen
+burnt
 bogland
 budgerigah
 bytalk
@@ -17748,7 +17749,6 @@ bumfs
 burnside
 bilharzia
 baculiticone
-burnt
 bretelle
 backfill
 biobibliography

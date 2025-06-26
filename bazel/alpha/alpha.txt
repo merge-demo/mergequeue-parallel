@@ -5925,6 +5925,7 @@ aggregative
 aggregatively
 aggregator
 ackman
+avaram
 amatol
 antiroll
 anatman
@@ -24586,7 +24587,6 @@ achilleid
 avantage
 antijam
 acetolysis
-avaram
 applicably
 avaremotemo
 alouatte
