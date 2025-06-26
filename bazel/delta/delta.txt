@@ -14242,7 +14242,6 @@ daggerbush
 deme
 dene
 drygoodsman
-dumbly
 disburses
 disembargo
 demanders
@@ -14346,6 +14345,7 @@ deanship
 densimeter
 desoxyribose
 dishallucination
+dumbly
 decimestrial
 demerse
 diuranate
