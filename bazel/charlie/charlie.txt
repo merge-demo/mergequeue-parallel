@@ -12387,6 +12387,7 @@ coracohyoid
 cholent
 crack
 chloroanaemia
+compensated
 caudiform
 coroplasty
 coulters
@@ -20569,7 +20570,6 @@ compendiums
 counterterror
 coremia
 compenetration
-compensated
 compensates
 cerrero
 conglomerates
