@@ -11601,7 +11601,6 @@ board
 boarded
 besmudged
 blastoffs
-boardinghouse
 boardings
 boardsmanship
 boatloads
@@ -12714,6 +12713,7 @@ benchless
 baianism
 backhander
 brennschluss
+boardinghouse
 bookcases
 bushmaster
 blastophthoric
