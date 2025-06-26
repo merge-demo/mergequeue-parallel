@@ -2544,7 +2544,6 @@ diachrony
 declassifies
 diplophonic
 disequality
-discus
 dorsocephalic
 declensionally
 declensions
@@ -14065,6 +14064,7 @@ dyspepsies
 draughtman
 distributary
 distributaries
+discus
 designative
 doocot
 distribute
