@@ -2563,6 +2563,7 @@ acousticolateral
 acousticon
 acousticophobia
 acoustoelectric
+ankushes
 acpt
 anacahuite
 acquaint
@@ -13393,7 +13394,6 @@ ankush
 aristulate
 archphylarch
 ankusha
-ankushes
 anomala
 anlace
 anlaces
