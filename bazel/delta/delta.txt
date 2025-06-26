@@ -2380,7 +2380,6 @@ dwyka
 deciders
 dubitante
 disownment
-disguisements
 diplontic
 dismantlement
 dayakker
@@ -8892,6 +8891,7 @@ dibstone
 degustation
 doziness
 depthwise
+disguisements
 dibutyrin
 debituminize
 deflexure
