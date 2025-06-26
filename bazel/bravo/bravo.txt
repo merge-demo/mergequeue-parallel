@@ -536,6 +536,7 @@ backout
 babies
 backus
 betrayment
+bacterioscopy
 backveld
 beech
 biosterin
@@ -649,7 +650,6 @@ boozed
 bullnecks
 biramous
 besticking
-bacterioscopy
 bacteriosolvent
 basat
 breakshugh
