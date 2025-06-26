@@ -2861,7 +2861,6 @@ disposure
 disjointedness
 doveling
 disgenius
-deepest
 dys
 denticles
 dictyopteris
@@ -10475,6 +10474,7 @@ discolith
 devinct
 disinflame
 dow
+deepest
 disobliging
 douzainier
 duenna
