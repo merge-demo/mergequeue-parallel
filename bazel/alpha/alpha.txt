@@ -14506,7 +14506,6 @@ anthroponomy
 abner
 adultress
 anthroponomics
-anthroponomist
 allect
 anthropopathy
 antipathies
@@ -20297,6 +20296,7 @@ achromobacterieae
 arrowlet
 adermine
 arrowlike
+anthroponomist
 aminoazobenzene
 arrowplate
 abortifacient

@@ -8926,6 +8926,7 @@ biodynamics
 buccinoid
 blattered
 bocal
+breeder
 billons
 bioecological
 bounty
@@ -14990,7 +14991,6 @@ barraters
 breedable
 borderies
 bendlet
-breeder
 breakneck
 breeders
 breedy
