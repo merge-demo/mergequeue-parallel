@@ -5728,6 +5728,7 @@ colocates
 catched
 catcher
 coccidioides
+choosiness
 commensurately
 concretions
 coriin
@@ -11846,7 +11847,6 @@ chooser
 choosers
 choosier
 cryotherapy
-choosiness
 chadar
 chop
 consentant
