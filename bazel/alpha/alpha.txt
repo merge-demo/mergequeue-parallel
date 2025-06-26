@@ -8492,7 +8492,6 @@ alkaloids
 alkalosis
 alkalous
 alkalurops
-algorithms
 alkamine
 arguer
 alkanes
@@ -17554,6 +17553,7 @@ appendency
 appendicalgia
 ausonian
 archiblast
+algorithms
 ascii
 alienees
 appendiceal
