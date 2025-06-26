@@ -2952,7 +2952,6 @@ canthal
 curling
 cantharic
 cantharidae
-cake
 chytrid
 cantharidate
 cantharides
@@ -19834,6 +19833,7 @@ cassareep
 comely
 coursings
 comelier
+cake
 comeling
 comendite
 comers
