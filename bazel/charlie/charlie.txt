@@ -5798,7 +5798,6 @@ cojoin
 catechizes
 cheveys
 callicarpa
-coeldership
 coyotillo
 catechumenal
 catechumenism
@@ -23254,6 +23253,7 @@ consubstantive
 consuetudinal
 consul
 consulage
+coeldership
 coloclysis
 chirurgical
 concertizes
