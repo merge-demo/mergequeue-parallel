@@ -3905,7 +3905,6 @@ ballotage
 bd
 boracium
 buttonholes
-beteela
 butternose
 bdellium
 bdelliums
@@ -11004,6 +11003,7 @@ belikely
 bribemonger
 blackface
 bident
+beteela
 buggymen
 babysit
 besmoking
