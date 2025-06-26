@@ -1443,7 +1443,6 @@ bathtubful
 balinghasay
 bromeosin
 bridling
-balister
 boycottism
 balistes
 blatherskite
@@ -5123,6 +5122,7 @@ borderers
 baffle
 boussingaultite
 bunrakus
+balister
 beflecked
 bookless
 bradytelic
