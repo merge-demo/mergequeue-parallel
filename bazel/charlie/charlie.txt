@@ -7327,7 +7327,6 @@ chimera
 clamper
 chimar
 captious
-centurist
 coroners
 cherishes
 ceorl
@@ -15908,6 +15907,7 @@ chronomancy
 cleft
 cleidagra
 calms
+centurist
 chamal
 cadaverize
 cleidocostal
