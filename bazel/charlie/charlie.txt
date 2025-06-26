@@ -998,7 +998,6 @@ claretian
 capuche
 calanque
 calantas
-chromocenter
 chondroid
 calapite
 caprelline
@@ -17140,6 +17139,7 @@ coadjutant
 campement
 calculagraph
 covotary
+chromocenter
 commonweal
 coemptional
 champ
