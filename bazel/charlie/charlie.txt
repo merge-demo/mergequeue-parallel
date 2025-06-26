@@ -19087,6 +19087,7 @@ colliculus
 cometographer
 collidin
 cetacea
+craniofacial
 cepous
 collier
 cuprite
@@ -28121,7 +28122,6 @@ cussos
 celebrities
 condenseries
 cranioclasty
-craniofacial
 craniognomic
 carbonadoing
 cristated
