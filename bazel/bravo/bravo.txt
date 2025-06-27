@@ -1594,7 +1594,6 @@ ballflower
 bifurcate
 ballywack
 basalt
-benzanilide
 boldface
 bursati
 baudronses
@@ -15940,6 +15939,7 @@ bufotenin
 brutish
 bronchocephalitis
 bronchoconstriction
+benzanilide
 baptistries
 blennorrhagic
 benjy
