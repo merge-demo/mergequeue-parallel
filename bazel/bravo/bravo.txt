@@ -8606,7 +8606,6 @@ beeswinged
 becowards
 billiards
 billyboy
-bivalved
 brules
 billies
 billyhood
@@ -15053,6 +15052,7 @@ begot
 brents
 bearance
 brere
+bivalved
 beekeeper
 baffles
 bressummer
