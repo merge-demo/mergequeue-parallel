@@ -7477,7 +7477,6 @@ bitterest
 bettor
 bullfighter
 barbaric
-betulin
 blackmailer
 babushkas
 beneaped
@@ -9009,6 +9008,7 @@ biomathematics
 bets
 biome
 byp
+betulin
 biomechanical
 begrims
 brilliancy

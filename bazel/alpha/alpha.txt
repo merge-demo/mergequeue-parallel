@@ -4563,7 +4563,6 @@ abrasive
 anahao
 alchemist
 advocate
-afficionado
 advocated
 advocates
 afterspeech
@@ -8374,6 +8373,7 @@ alismal
 anthrylene
 accombination
 alismales
+afficionado
 alismataceae
 adversaries
 amenorrheal
