@@ -94,7 +94,6 @@ depolarizer
 diachylon
 dactylology
 dognapped
-dactylomegaly
 dactylopore
 dustyfoot
 dactylopteridae
@@ -10611,6 +10610,7 @@ doxographical
 dittology
 domestic
 documented
+dactylomegaly
 decoctible
 defs
 diploid
