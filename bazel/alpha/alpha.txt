@@ -5805,7 +5805,6 @@ archfelon
 anisocarpic
 agend
 ampyx
-ave
 agendas
 ankylosaur
 agendum
@@ -12293,6 +12292,7 @@ assisi
 adiadochokinesia
 andhra
 andi
+ave
 andian
 andine
 anding
