@@ -6335,7 +6335,6 @@ besodden
 brigalow
 battens
 benzacridine
-baltic
 benzalacetone
 benzalacetophenone
 bonum
@@ -10174,6 +10173,7 @@ blackfellows
 bosker
 blackfigured
 biochemical
+baltic
 breechcloth
 bas
 bloodfins
