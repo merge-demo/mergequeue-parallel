@@ -10057,7 +10057,6 @@ amble
 apanteles
 ambleocarpus
 ambler
-awakes
 aphthonite
 amahs
 appulsive
@@ -17611,6 +17610,7 @@ advisership
 apolaustic
 antiagglutination
 agouta
+awakes
 appestat
 apostlehood
 appestats
