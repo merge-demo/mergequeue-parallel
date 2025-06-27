@@ -2921,7 +2921,6 @@ barrelmaker
 boules
 brassavola
 bracketed
-barrelwise
 barren
 barretor
 bloodybones
@@ -9291,6 +9290,7 @@ byproducts
 burgaudine
 blackguardism
 beadles
+barrelwise
 biprong
 baseball
 begloomed
