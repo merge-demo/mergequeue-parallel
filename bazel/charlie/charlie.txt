@@ -5881,6 +5881,7 @@ capuli
 culminant
 contiguous
 cubistically
+cytolytic
 caterbrawl
 catercap
 catercorner
@@ -14881,7 +14882,6 @@ calker
 curassow
 counterglow
 cytolist
-cytolytic
 chian
 cytologic
 cytologically
