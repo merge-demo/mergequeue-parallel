@@ -5645,6 +5645,7 @@ correlativism
 chlorococcum
 cataphora
 cataphoresis
+cryptology
 cataphoretically
 cataphoria
 cataphract
@@ -29332,7 +29333,6 @@ cryptoheretic
 cryptolite
 cytochalasin
 cryptolith
-cryptology
 conspiracies
 callas
 consubstantiality
