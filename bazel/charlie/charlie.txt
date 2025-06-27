@@ -21852,7 +21852,6 @@ calypter
 caravanist
 confabulatory
 caracul
-counterdecree
 confact
 cartelizing
 cigarito
@@ -27219,6 +27218,7 @@ cannery
 chlorhydrate
 catbird
 coetus
+counterdecree
 counterwave
 counterweigh
 counterweight
