@@ -3795,6 +3795,7 @@ cenacle
 clouters
 conficient
 carbineer
+criterium
 carbines
 carbinols
 commensality
@@ -31293,7 +31294,6 @@ curbstone
 curbstoner
 curcas
 curch
-criterium
 curculio
 curculionidae
 calvatia
