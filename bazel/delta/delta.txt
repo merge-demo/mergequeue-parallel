@@ -3139,7 +3139,6 @@ defeasibility
 dacryohelcosis
 doorbell
 dinnery
-defeasive
 defeated
 directs
 downs
@@ -11504,6 +11503,7 @@ disuniform
 denominator
 daps
 dissectional
+defeasive
 disconformity
 demiparallel
 deepened
