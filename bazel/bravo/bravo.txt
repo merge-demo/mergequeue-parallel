@@ -7121,7 +7121,6 @@ beefless
 besped
 beaugregories
 babblish
-becalmed
 bawdiness
 bespell
 bespelled
@@ -13298,6 +13297,7 @@ bugproof
 backlet
 buckling
 botanica
+becalmed
 boweryish
 bandoleered
 bacteriologically
