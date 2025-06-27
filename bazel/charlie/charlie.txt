@@ -2777,7 +2777,6 @@ cannibalized
 chimps
 cluttering
 cannibalizing
-coelomes
 cannibally
 cableman
 cannie
@@ -26674,6 +26673,7 @@ choked
 counterintelligence
 counterexpostulation
 counteradvance
+coelomes
 colossuswise
 catagories
 cheatingly
