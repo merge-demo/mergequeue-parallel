@@ -6601,7 +6601,6 @@ bahima
 berberidaceae
 broils
 berberidaceous
-berberis
 berberry
 berceuses
 bournous
@@ -10298,6 +10297,7 @@ befleaed
 befoulers
 blackwater
 blackweed
+berberis
 brachycerous
 bladderet
 bladdery
