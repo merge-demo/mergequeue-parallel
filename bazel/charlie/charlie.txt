@@ -13356,7 +13356,6 @@ cyclope
 churchwarden
 cyclopedias
 cyclopedical
-cyclopentanone
 curlyhead
 covenanting
 candlestand
@@ -30002,6 +30001,7 @@ cannoned
 chirothesia
 croton
 consulated
+cyclopentanone
 crotonaldehyde
 crotonate
 crotonyl

@@ -17893,7 +17893,6 @@ absorbents
 apprompt
 aloud
 approof
-appropinquate
 appropinquation
 amalgamation
 appropinquity
@@ -20127,6 +20126,7 @@ arrayals
 arraign
 arraignable
 atroce
+appropinquate
 agaricales
 absently
 adverts
