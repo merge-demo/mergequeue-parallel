@@ -618,7 +618,6 @@ bastiment
 bacteriodiagnosis
 bromates
 benomyls
-behearse
 bacterid
 birdcages
 baraka
@@ -7777,6 +7776,7 @@ basoko
 blessings
 bethwine
 biajaiba
+behearse
 bialate
 bidonville
 berain
