@@ -17115,6 +17115,7 @@ coachwise
 cully
 coachwright
 coact
+conceals
 coacting
 constituently
 coaction
@@ -21139,7 +21140,6 @@ concealedness
 concealer
 concealing
 consolatoriness
-conceals
 coleopteran
 concededly
 couplets
