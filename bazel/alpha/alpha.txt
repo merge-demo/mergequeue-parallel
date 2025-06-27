@@ -726,6 +726,7 @@ anticytotoxin
 astrofel
 abovedeck
 azygomatous
+aphanite
 aboveproof
 abovesaid
 abovestairs
@@ -7033,7 +7034,6 @@ asporogenous
 arthropathy
 ameiotic
 allocation
-aphanite
 allonge
 akenes
 avgases
