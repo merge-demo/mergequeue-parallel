@@ -7871,6 +7871,7 @@ actinology
 alphitomancy
 advent
 aleyrodes
+advenience
 auricular
 adumbral
 aleknight
@@ -12722,7 +12723,6 @@ areality
 appellors
 anthropophagit
 angioblastic
-advenience
 angiocardiographies
 anileness
 aulophyte

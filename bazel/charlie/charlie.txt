@@ -6689,6 +6689,7 @@ cedriret
 cedrol
 corticiform
 cherte
+copulable
 cedrus
 crioceris
 cardiosymphysis
@@ -17967,7 +17968,6 @@ coelection
 coelector
 cloacean
 cephalomyitis
-copulable
 chololith
 captiving
 colpocele
