@@ -4908,6 +4908,7 @@ clomben
 carrotwood
 carrousel
 circumfused
+cres
 carrousels
 chaetodontid
 corallinaceae
@@ -28767,7 +28768,6 @@ cornutine
 chafer
 crepusculine
 catenary
-cres
 cresc
 comparativeness
 cordelier

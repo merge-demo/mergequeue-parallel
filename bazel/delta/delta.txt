@@ -17586,7 +17586,6 @@ drunk
 drunkards
 desuperheater
 dogbite
-davach
 drunkenwise
 dirtiest
 dryopteris
@@ -18613,6 +18612,7 @@ dusttight
 dustuk
 decentring
 decimalising
+davach
 dustups
 digitus
 debugger
