@@ -6005,7 +6005,6 @@ borderlines
 bellyfuls
 bemaim
 bushet
-bemangle
 bemar
 bouncingly
 bevaring
@@ -7533,6 +7532,7 @@ businessman
 bevil
 bevillain
 befell
+bemangle
 bigeye
 bashaws
 bedote
