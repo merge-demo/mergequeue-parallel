@@ -984,7 +984,6 @@ boohooed
 burnous
 boat
 bayamos
-brownier
 brigand
 bayano
 birlie
@@ -6843,6 +6842,7 @@ broiders
 bertrum
 bullarium
 beachy
+brownier
 broadsided
 ber
 beruffed
