@@ -603,7 +603,6 @@ bacteriaceae
 blooddrops
 bacteriaemia
 bacterially
-bacterioblast
 brooched
 bactericide
 beethoven
@@ -11881,6 +11880,7 @@ biotaxy
 bodonid
 bromic
 barming
+bacterioblast
 bodrage
 boors
 boysenberries
