@@ -17222,7 +17222,6 @@ anagoge
 anatifa
 apophysis
 autopsying
-aspersoria
 apophlegm
 appointe
 apophlegmatic
@@ -19144,6 +19143,7 @@ abducting
 arctisca
 arctium
 arctogaean
+aspersoria
 arctoidean
 arctos
 arctosis
