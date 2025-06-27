@@ -3546,6 +3546,7 @@ adelphous
 adempt
 ademption
 adipsous
+antehistoric
 azole
 ascesis
 assedat
@@ -14045,7 +14046,6 @@ antehall
 antehypophysis
 aedoeagus
 amices
-antehistoric
 aeolopantalon
 amentia
 antejudiciary

@@ -10537,6 +10537,7 @@ dundee
 delaminate
 divinize
 dipyrenous
+dermatomic
 dipyridyl
 dichter
 diosmose
@@ -14178,7 +14179,6 @@ disunify
 disorientates
 dolesman
 diastatically
-dermatomic
 disunion
 drolly
 download
