@@ -1086,6 +1086,7 @@ calciform
 centesimos
 calcifugal
 calcifugous
+chloroid
 calcigenous
 chamaesiphonaceous
 calcimined
@@ -11355,7 +11356,6 @@ chloroformization
 chloroforms
 chlorogenic
 chloroguanide
-chloroid
 curably
 chloroma
 cooptative
