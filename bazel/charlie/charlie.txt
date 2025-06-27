@@ -6752,7 +6752,6 @@ cohesions
 celebrants
 celebrate
 comiakin
-celebratedly
 celebrater
 celebrates
 celebrationis
@@ -21451,6 +21450,7 @@ concocter
 counteraddress
 concoctions
 cornerpiece
+celebratedly
 conspectuity
 calcination
 carotic
