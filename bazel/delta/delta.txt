@@ -3645,6 +3645,7 @@ disquantity
 dermatoxerasia
 deglut
 dec
+doeskins
 disarrangement
 decubation
 denounced
@@ -12431,7 +12432,6 @@ dishevelling
 delomorphic
 dismissingly
 duodenogram
-doeskins
 diakineses
 dishley
 diamond
