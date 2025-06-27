@@ -10014,7 +10014,6 @@ dimitry
 decamped
 democratian
 demoiselle
-dauded
 dirigomotor
 dermohemia
 divinable
@@ -13826,6 +13825,7 @@ dindle
 distain
 distaining
 distance
+dauded
 denumeration
 diatomic
 demast
