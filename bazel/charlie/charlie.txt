@@ -8358,7 +8358,6 @@ chalkline
 chantage
 columnated
 chalkone
-chalkos
 chalkotheke
 chalkpit
 chalkrail
@@ -10908,6 +10907,7 @@ chipwood
 chiquito
 clavate
 chiral
+chalkos
 clerids
 cardstock
 contortioned
