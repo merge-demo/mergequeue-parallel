@@ -16850,6 +16850,7 @@ commercialized
 corporealist
 comarca
 clowder
+compacture
 clowders
 clower
 clownade
@@ -20410,7 +20411,6 @@ compactor
 compactors
 compacts
 comites
-compacture
 chives
 crumbliness
 compadre
