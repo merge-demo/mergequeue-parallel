@@ -2944,6 +2944,7 @@ currawong
 canter
 canterburian
 cladosporium
+cyanosite
 curlpaper
 custumals
 cryptoprocta
@@ -13078,7 +13079,6 @@ cyanoplatinous
 cyanose
 cyanoses
 chemitype
-cyanosite
 cyanotic
 chatting
 cyanotype
