@@ -1579,7 +1579,6 @@ ballyhoo
 ballyrags
 bioelectrogenetic
 belat
-ballised
 biradial
 britches
 binate
@@ -18366,6 +18365,7 @@ bland
 bordrage
 bimesters
 buz
+ballised
 buzane
 blawort
 bortsch
