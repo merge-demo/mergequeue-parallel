@@ -4133,7 +4133,6 @@ bearishly
 brit
 bearm
 birdwatch
-barbastel
 bagwigs
 baddishness
 bearward
@@ -17717,6 +17716,7 @@ beshouts
 birling
 bookways
 bombshell
+barbastel
 burned
 burner
 benempt
