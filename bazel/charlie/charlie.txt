@@ -12051,7 +12051,6 @@ cutes
 chorograph
 chorographer
 continuately
-chorographical
 criticizable
 cyanacetic
 chorographically
@@ -26913,6 +26912,7 @@ countermand
 countermandable
 commelinaceae
 craniological
+chorographical
 contemner
 cushioniness
 certhiidae
