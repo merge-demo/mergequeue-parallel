@@ -8950,6 +8950,7 @@ balked
 biogases
 biogenesis
 bleachground
+banc
 birddom
 beliked
 beautifiers
@@ -9138,7 +9139,6 @@ biostatic
 biostatical
 buffleheaded
 bletting
-banc
 beefburger
 bhaktas
 bubbybush
