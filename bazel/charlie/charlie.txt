@@ -8994,6 +8994,7 @@ censers
 chemisms
 chargable
 combmaker
+calc
 charge
 chargeable
 ciphertext
@@ -28270,7 +28271,6 @@ certioration
 considerance
 choroidoiritis
 cryptogrammic
-calc
 crassities
 crassly
 crassulaceae
