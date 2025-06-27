@@ -10872,6 +10872,7 @@ aitches
 anticult
 amphib
 afrits
+apostolicity
 ammonolyzing
 ammophilous
 athwarthawse
@@ -17337,7 +17338,6 @@ aerophagy
 amidin
 arias
 abstracts
-apostolicity
 aerobacteriologically
 agoramania
 aliment
