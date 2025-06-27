@@ -6876,6 +6876,7 @@ airspace
 airspaces
 ancience
 architectonica
+atavic
 apostolic
 anterin
 alec
@@ -22434,7 +22435,6 @@ antivirotic
 affrap
 accessioned
 atavi
-atavic
 atavism
 anarchosyndicalism
 allegheny
