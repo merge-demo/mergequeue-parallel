@@ -7175,7 +7175,6 @@ drawboring
 deerkill
 desulphurize
 depauperate
-depullulation
 diplospondylism
 doves
 dubbeltje
@@ -12081,6 +12080,7 @@ disenthral
 dehisces
 disgorging
 discoplacentalia
+depullulation
 disenthralled
 disenthrone
 dicalcic
