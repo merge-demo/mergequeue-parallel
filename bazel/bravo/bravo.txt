@@ -3400,7 +3400,6 @@ bastardism
 blather
 bastardized
 bastardizes
-bastardliness
 birimose
 bullfoot
 biophysically
@@ -16793,6 +16792,7 @@ babungera
 briony
 banging
 blaffert
+bastardliness
 brachycephaly
 buffa
 brumbee
