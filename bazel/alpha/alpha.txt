@@ -12296,7 +12296,6 @@ andi
 andian
 andine
 anding
-alternateness
 apophysial
 abruptly
 andirin
@@ -17959,6 +17958,7 @@ allods
 approximator
 appt
 arteriotomy
+alternateness
 aggrandise
 alemonger
 anchoritism
