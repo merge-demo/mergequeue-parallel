@@ -1569,7 +1569,6 @@ dairyman
 deadpanned
 deadpans
 depayse
-deadweight
 daikering
 deadwork
 deaerated
@@ -16643,6 +16642,7 @@ denunciable
 dragoonage
 dragrope
 disedification
+deadweight
 decades
 dexterousness
 debiteuse
