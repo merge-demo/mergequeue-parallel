@@ -4725,7 +4725,6 @@ demitranslucence
 demits
 demitted
 denticulately
-dilutive
 duties
 dipterologist
 demiurgeous
@@ -5409,6 +5408,7 @@ dentulous
 dentural
 dermatology
 diametrally
+dilutive
 duodenas
 dentures
 dish
