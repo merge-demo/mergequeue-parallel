@@ -5990,7 +5990,6 @@ agility
 auxotrophic
 antemortal
 agilities
-attorneyship
 avdp
 amidofluoride
 aging
@@ -24304,6 +24303,7 @@ antihistamines
 accessoriusorii
 ambles
 autopore
+attorneyship
 autoportraiture
 antiparalytical
 autopotent
