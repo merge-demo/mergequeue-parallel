@@ -7900,6 +7900,7 @@ bogwoods
 bloodthirsty
 bibliopegy
 bituminisation
+burntness
 bibliopegically
 bibbons
 browser
@@ -12485,7 +12486,6 @@ bdls
 brawniness
 bondstone
 bondswoman
-burntness
 bather
 bagpiped
 buphthalmos
