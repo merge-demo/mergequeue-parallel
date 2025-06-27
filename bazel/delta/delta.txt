@@ -11496,6 +11496,7 @@ doest
 defalcations
 discolorment
 discolouring
+direxit
 disconnectiveness
 discolourization
 discourt
@@ -13862,7 +13863,6 @@ differency
 dystaxias
 discomfiture
 dedicational
-direxit
 dysteleologist
 dammers
 distelfink
