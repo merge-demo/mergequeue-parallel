@@ -10264,7 +10264,6 @@ bratty
 bellweather
 bulldogs
 biborate
-belly
 boracic
 blacksmithing
 biochemy
@@ -15232,6 +15231,7 @@ biwa
 butomaceae
 beach
 brecken
+belly
 bisharin
 blueblaw
 bestrewed
