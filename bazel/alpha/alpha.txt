@@ -2854,7 +2854,6 @@ acronymized
 acronymizing
 anchorage
 adessive
-ancylopoda
 aeolipyle
 archimpressionist
 acroparalysis
@@ -4976,6 +4975,7 @@ apologising
 alkylogen
 anile
 aerophyte
+ancylopoda
 assessory
 aerophobic
 aerophor
