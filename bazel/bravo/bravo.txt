@@ -5071,6 +5071,7 @@ buirdly
 bandoline
 bilingual
 balefire
+bromoiodid
 biocatalyst
 basenet
 befezzed
@@ -9284,7 +9285,6 @@ bipolarization
 besmear
 biporose
 bipotentiality
-bromoiodid
 bipotentialities
 biprism
 byproducts
