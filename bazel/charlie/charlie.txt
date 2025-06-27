@@ -8015,6 +8015,7 @@ cf
 cfd
 ch
 cha
+cruce
 colloquized
 catchweed
 chaa
@@ -30144,7 +30145,6 @@ commissionated
 confections
 cannstatt
 crubeen
-cruce
 crucethouse
 canonise
 crucial
