@@ -38,6 +38,7 @@ cineols
 causable
 cocozelle
 caballero
+cyclic
 caballo
 ceratopteridaceous
 caballos
@@ -13249,7 +13250,6 @@ cyclesmith
 castoridae
 crookbilled
 cannonproof
-cyclic
 cyclical
 cyclizing
 cyclically
