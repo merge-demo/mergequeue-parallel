@@ -11746,6 +11746,7 @@ analemmata
 analepses
 agrege
 analeptic
+arteriograph
 analgesics
 argyrocephalous
 allargando
@@ -20456,7 +20457,6 @@ admov
 asterospondylous
 arteriocapillary
 arteriogenesis
-arteriograph
 ahorseback
 adenectopia
 arteriographic
