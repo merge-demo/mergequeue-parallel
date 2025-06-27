@@ -6815,7 +6815,6 @@ dented
 dedicates
 diaconate
 desize
-decompositional
 desklike
 diphrelatic
 dunks
@@ -6926,6 +6925,7 @@ discomposes
 desoxalic
 dichromasy
 decanter
+decompositional
 desoxyribonucleic
 dialled
 despair
