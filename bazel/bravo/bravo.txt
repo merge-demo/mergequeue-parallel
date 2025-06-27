@@ -1427,7 +1427,6 @@ batoneer
 bouffants
 bops
 bedazzled
-bedye
 brankier
 begroan
 bight
@@ -2742,6 +2741,7 @@ beefy
 blam
 beachside
 burthenman
+bedye
 baronduki
 borromean
 bibliolater
