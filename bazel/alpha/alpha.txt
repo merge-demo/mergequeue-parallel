@@ -6333,6 +6333,7 @@ agriot
 agriotypidae
 allotypical
 agrypnia
+apposition
 agrypnotic
 acajou
 agroan
@@ -17778,7 +17779,6 @@ antiaris
 apposers
 alida
 arras
-apposition
 appositive
 annexed
 amobarbital
