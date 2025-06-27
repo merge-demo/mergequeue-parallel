@@ -3864,6 +3864,7 @@ cavilled
 carbonide
 convalescent
 cacophonical
+choplogic
 carbonify
 clept
 chewbark
@@ -11864,7 +11865,6 @@ chopins
 colory
 coinquinate
 converter
-choplogic
 choplogical
 choregi
 cryptomonad
