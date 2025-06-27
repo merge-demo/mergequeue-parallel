@@ -5625,7 +5625,6 @@ dichromatopsia
 depersonalise
 depersonalising
 desponded
-depersonalized
 discipled
 deflated
 dacelo
@@ -10489,6 +10488,7 @@ dister
 droits
 diphtheria
 diphtherian
+depersonalized
 dogberrydom
 deda
 diphtheric
