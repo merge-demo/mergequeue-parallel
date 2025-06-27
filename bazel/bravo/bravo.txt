@@ -11079,6 +11079,7 @@ blockheadish
 blockheads
 blockholer
 beveto
+barky
 bedrip
 bilirubinic
 billy
@@ -14876,7 +14877,6 @@ breakthrough
 bayoneted
 breakthroughs
 breakweather
-barky
 brain
 bankings
 brachets

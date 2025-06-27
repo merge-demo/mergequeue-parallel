@@ -5570,7 +5570,6 @@ depancreatize
 drawrod
 drainermen
 deoxygenized
-demicolumn
 depascent
 delphinoid
 deuteronomy
@@ -14986,6 +14985,7 @@ decoloriser
 dermatoid
 disarmer
 dialoger
+demicolumn
 doeling
 defrauders
 doer
