@@ -2717,6 +2717,7 @@ betrothals
 balandrana
 beladies
 barognosis
+budlike
 bellypiece
 batholitic
 baroko
@@ -12460,7 +12461,6 @@ boukit
 bescrawl
 booklists
 bisymmetrically
-budlike
 boohoo
 bondmaids
 befoulier
