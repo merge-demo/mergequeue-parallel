@@ -1712,7 +1712,6 @@ blur
 bravehearted
 biasing
 blackbrush
-buccate
 borzois
 baloney
 bryan
@@ -10125,6 +10124,7 @@ bellied
 berbers
 bootleggers
 buphthalmia
+buccate
 bedells
 bloodguilty
 blackbird
