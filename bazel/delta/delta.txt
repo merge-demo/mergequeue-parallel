@@ -3471,7 +3471,6 @@ dorism
 defoil
 dorsabdominally
 dorsobranchiata
-defoliants
 defoliate
 defoliations
 disjunct
@@ -12820,6 +12819,7 @@ downhaul
 dyemaking
 deliquiesce
 demiparadise
+defoliants
 didelphia
 dismals
 disman
