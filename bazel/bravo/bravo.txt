@@ -5858,6 +5858,7 @@ berseem
 bribeworthy
 baigneuse
 bellies
+bruges
 bellyful
 bestrews
 boor
@@ -6545,7 +6546,6 @@ bequalm
 bioblast
 bklr
 bequeathed
-bruges
 blooping
 biokinetics
 boson
