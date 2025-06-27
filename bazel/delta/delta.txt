@@ -5676,6 +5676,7 @@ diopsidic
 depigmentate
 depigmentation
 depigmentize
+dithyrambus
 dissidence
 devilized
 dynamite
@@ -14285,7 +14286,6 @@ dephilosophize
 devotionate
 demarcature
 dithyrambs
-dithyrambus
 dominicker
 denotationally
 dytiscid
