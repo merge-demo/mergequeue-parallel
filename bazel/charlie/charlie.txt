@@ -10969,7 +10969,6 @@ crudites
 coalition
 cicatrixes
 chiromantis
-chirometer
 chiromys
 chalcioecus
 chironym
@@ -12187,6 +12186,7 @@ chromophilous
 chrysalis
 chrysalises
 cardiaplegia
+chirometer
 chrysaloid
 chrysammic
 constances
