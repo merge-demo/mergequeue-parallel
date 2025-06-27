@@ -1705,7 +1705,6 @@ deaspirate
 dispensations
 decostate
 debilitant
-defensibility
 deaspiration
 degree
 dihely
@@ -11953,6 +11952,7 @@ demephitize
 duskish
 dietetical
 disacidified
+defensibility
 disembarking
 denominationally
 disbloom
