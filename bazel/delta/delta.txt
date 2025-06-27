@@ -1511,6 +1511,7 @@ dedoggerelize
 deacons
 demobilizes
 deactivate
+dispenses
 discoglossid
 distractedly
 dallies
@@ -10957,7 +10958,6 @@ dampishly
 datolite
 diallist
 draggles
-dispenses
 disforestation
 doublethinking
 dorsoradial

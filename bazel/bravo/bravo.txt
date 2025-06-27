@@ -8139,6 +8139,7 @@ bidiagonal
 bidimensional
 barble
 befouls
+bindheimite
 biding
 bidirectional
 biophagy
@@ -15432,7 +15433,6 @@ babyish
 brannerite
 bereaved
 batonnier
-bindheimite
 bystander
 brimly
 bifollicular
