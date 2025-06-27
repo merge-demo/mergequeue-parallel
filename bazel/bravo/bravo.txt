@@ -433,6 +433,7 @@ backpedaling
 backpiece
 backplane
 brachiostrophosis
+bumbershoot
 bushwas
 backrush
 backscatter
@@ -13957,7 +13958,6 @@ boxhauling
 boxhauls
 bowwow
 bethels
-bumbershoot
 blitzes
 bibulosity
 becluster
