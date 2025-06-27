@@ -10064,6 +10064,7 @@ downgyved
 demist
 disordain
 dynactinometer
+diols
 deratize
 dazedly
 depair
@@ -15621,7 +15622,6 @@ digor
 doomsayer
 doomsday
 dacryocystotome
-diols
 decussating
 doomster
 defaulters
