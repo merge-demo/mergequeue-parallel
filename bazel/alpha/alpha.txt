@@ -15076,7 +15076,6 @@ anemotropic
 applied
 antiecclesiastic
 analcimes
-abaci
 adjectivitis
 axofugal
 administrator
@@ -17313,6 +17312,7 @@ animalcules
 anaesthetic
 autothermy
 aposteme
+abaci
 aposteriori
 arctogaea
 aerogun
