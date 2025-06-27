@@ -25488,7 +25488,6 @@ chincona
 capsidae
 corollitic
 cespitose
-corpsmen
 cochlitis
 coromandel
 coromell
@@ -25586,6 +25585,7 @@ corporationer
 corporationism
 countergift
 coituses
+corpsmen
 chasable
 corporations
 calquing
