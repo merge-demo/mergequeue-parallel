@@ -5937,7 +5937,6 @@ bisnagas
 bouillabaisse
 belostomidae
 belotte
-bowden
 broadening
 bechancing
 benzalcyanhydrin
@@ -14093,6 +14092,7 @@ brachyhieric
 bikol
 berlinite
 burkites
+bowden
 behaviour
 brachiolaria
 bogusness
