@@ -715,7 +715,6 @@ antiaesthetic
 aggressiveness
 aboulia
 antinomy
-aboulic
 amyloplastic
 abounder
 abounding
@@ -6059,6 +6058,7 @@ aglaia
 aglance
 aglaos
 aglaozonia
+aboulic
 alkanal
 agleaf
 acetify

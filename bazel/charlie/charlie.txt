@@ -16806,6 +16806,7 @@ clouee
 culpon
 cyclosporous
 congested
+congeries
 cloughs
 cloured
 cotyliform
@@ -30964,7 +30965,6 @@ chromoplastid
 cumber
 consumptiveness
 clacked
-congeries
 cumberer
 cumbering
 catostomid
