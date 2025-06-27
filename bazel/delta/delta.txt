@@ -10759,6 +10759,7 @@ dragonlike
 dips
 dipsacaceous
 deipnosophist
+disgood
 dipsaceae
 disavow
 depriver
@@ -13532,7 +13533,6 @@ diocletian
 dissuadable
 disseason
 disseat
-disgood
 diphyodont
 donnism
 datelines
