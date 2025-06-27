@@ -1629,6 +1629,7 @@ devotional
 daunter
 dicephalus
 darkhaired
+dibber
 deerhair
 deallocations
 deprival
@@ -5585,7 +5586,6 @@ depeinct
 dependabilities
 donatistic
 deintellectualize
-dibber
 dustfall
 draftable
 depended

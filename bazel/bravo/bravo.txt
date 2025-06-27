@@ -8073,7 +8073,6 @@ bicornous
 booklift
 bartend
 bagroom
-belligerents
 bicornuate
 bicornute
 beshadow
@@ -11301,6 +11300,7 @@ bummle
 byelorussian
 bachelor
 blowlamp
+belligerents
 blown
 bananas
 blowoff
