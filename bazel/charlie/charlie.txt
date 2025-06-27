@@ -24879,7 +24879,6 @@ coralberries
 coproduct
 coralbush
 coralene
-craving
 coralist
 coralita
 coralla
@@ -31247,6 +31246,7 @@ curaras
 caulker
 curari
 casaba
+craving
 coenospecific
 curarines
 crossbanded
