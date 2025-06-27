@@ -8185,7 +8185,6 @@ chainless
 counteractions
 crosscheck
 chumping
-craspedon
 chainlike
 confrontal
 chainmaker
@@ -26021,6 +26020,7 @@ citied
 contagionist
 coypu
 cosenator
+craspedon
 cosentiency
 consignor
 cosentient
