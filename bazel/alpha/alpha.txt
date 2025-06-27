@@ -8973,6 +8973,7 @@ arrythmia
 angiostenosis
 allophylus
 astounding
+araphostic
 amphilogy
 annale
 allophones
@@ -11981,7 +11982,6 @@ avionics
 anas
 athumia
 anasa
-araphostic
 aralkylated
 anasarcous
 arteriosclerosis
