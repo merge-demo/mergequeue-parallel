@@ -5764,6 +5764,7 @@ deconsider
 depoh
 decd
 depolarise
+diaulos
 depolarization
 dernly
 depolarize
@@ -18674,7 +18675,6 @@ dwarfisms
 darwinically
 detersively
 dwarfs
-diaulos
 dwindled
 dwindlement
 deports
