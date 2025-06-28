@@ -1575,7 +1575,6 @@ backrushes
 bifidity
 beknighting
 brummagem
-ballyhoo
 ballyrags
 bioelectrogenetic
 belat
@@ -1836,6 +1835,7 @@ battlepiece
 bollito
 bullary
 barricos
+ballyhoo
 besotter
 bandeau
 betula
