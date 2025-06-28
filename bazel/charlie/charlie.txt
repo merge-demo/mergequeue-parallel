@@ -181,7 +181,6 @@ cystoscopies
 cotinga
 caboshed
 cabotage
-clangored
 cabotin
 cristineaux
 cabotinage
@@ -8570,6 +8569,7 @@ cataclysmatic
 congealedness
 chimbley
 corslet
+clangored
 chanca
 chance
 chanceably
