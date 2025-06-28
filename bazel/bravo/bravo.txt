@@ -1235,6 +1235,7 @@ barathron
 blok
 barkers
 bala
+burga
 balaam
 bedabbled
 balabos
@@ -13755,7 +13756,6 @@ bouzoukia
 bouzoukis
 bloat
 bescurf
-burga
 bufflehorn
 bovaristic
 burgout
