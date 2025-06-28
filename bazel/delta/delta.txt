@@ -18174,7 +18174,6 @@ deltohedra
 dumps
 dissective
 dumsola
-decussorium
 disdiaclastic
 distrust
 dunbird
@@ -18545,6 +18544,7 @@ dirging
 durndest
 deraignment
 disharmonizing
+decussorium
 deviltries
 denuding
 debars
