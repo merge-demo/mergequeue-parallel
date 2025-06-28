@@ -18641,6 +18641,7 @@ coindicant
 coiner
 comparograph
 comme
+congenite
 concoction
 coyness
 cerebration
@@ -29549,7 +29550,6 @@ criticastry
 criticisms
 chontal
 cousin
-congenite
 confoundedness
 canoeman
 criticiser
