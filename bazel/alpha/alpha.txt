@@ -6822,6 +6822,7 @@ airmark
 attention
 atomizes
 alezan
+asynartetic
 astomatous
 aphorises
 apanages
@@ -25174,7 +25175,6 @@ axometry
 aetheogamic
 aethusa
 anthropomantist
-asynartetic
 avera
 angrite
 axoneure
