@@ -1325,6 +1325,7 @@ demissive
 dwarfing
 draftsperson
 dompt
+decapetalous
 dauntingly
 damagement
 dart
@@ -6735,7 +6736,6 @@ dacron
 dimedone
 dispeopled
 didunculus
-decapetalous
 disacidify
 date
 designatum
