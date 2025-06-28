@@ -8614,7 +8614,6 @@ chanciness
 campion
 calthrops
 chancing
-chancito
 crapes
 chanco
 clearing
@@ -12353,6 +12352,7 @@ condylura
 christological
 corseted
 christophe
+chancito
 churrworm
 coastside
 christopher
