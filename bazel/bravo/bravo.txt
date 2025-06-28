@@ -3942,7 +3942,6 @@ beachdrops
 biliment
 bloedite
 bowed
-bumpiest
 bisulphate
 backstays
 boltspreet
@@ -11522,6 +11521,7 @@ blunged
 bourrasque
 blunger
 blunk
+bumpiest
 berrypicker
 bdellid
 blameworthiness
