@@ -7872,7 +7872,6 @@ alphitomancy
 advent
 aleyrodes
 auricular
-adumbral
 aleknight
 agreat
 avouched
@@ -12531,6 +12530,7 @@ aflaunt
 anubis
 anepigraphous
 amollish
+adumbral
 algae
 amorists
 anepithymia
