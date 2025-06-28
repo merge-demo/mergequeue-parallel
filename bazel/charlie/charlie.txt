@@ -10804,7 +10804,6 @@ crash
 chalkcutter
 chorisos
 castigatories
-cheeter
 chinners
 chinny
 creedist
@@ -25387,6 +25386,7 @@ cornice
 costodiaphragmatic
 choragus
 corniced
+cheeter
 collaud
 creamery
 centrifuged
