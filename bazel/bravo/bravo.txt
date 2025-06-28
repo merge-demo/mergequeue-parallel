@@ -12796,6 +12796,7 @@ blemisher
 bookstores
 biforked
 bigaroon
+bemat
 bucolic
 bullfice
 baskerville
@@ -13316,7 +13317,6 @@ brachioradialis
 botanizes
 bulbless
 balsamed
-bemat
 bradburya
 botaurus
 blooie
