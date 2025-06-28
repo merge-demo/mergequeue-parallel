@@ -8238,7 +8238,6 @@ conjunctivae
 chairwarmer
 chairwomen
 cyanocitta
-chaiseless
 chaises
 comfortabilities
 circumbendibuses
@@ -10322,6 +10321,7 @@ chick
 chelidosaurus
 chickabiddy
 chemosorb
+chaiseless
 cachoeira
 clactonian
 cyanidation
