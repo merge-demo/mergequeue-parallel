@@ -10742,7 +10742,6 @@ dipppier
 diprimary
 doubtingly
 dipropellant
-deficit
 diprotic
 dianoialogy
 daughter
@@ -16351,6 +16350,7 @@ daven
 divergently
 discinoid
 downsizing
+deficit
 defensible
 dichord
 dovetails
