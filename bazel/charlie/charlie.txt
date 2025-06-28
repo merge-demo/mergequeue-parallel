@@ -2547,6 +2547,7 @@ candlemaking
 candlemas
 crewel
 childproof
+catheads
 cacqueteuse
 candlenut
 candlepins
@@ -14573,7 +14574,6 @@ cist
 cankerwort
 chamoised
 cerilla
-catheads
 cyst
 consoler
 continuantly
