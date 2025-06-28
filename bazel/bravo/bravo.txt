@@ -7031,7 +7031,6 @@ bacteritic
 besmudge
 beamless
 bronzite
-besmudges
 baalist
 bespouses
 boxhaul
@@ -12581,6 +12580,7 @@ bagpiping
 bonne
 bubbly
 bonnet
+besmudges
 brachelytra
 bonnethead
 bedway
