@@ -6116,6 +6116,7 @@ catspaw
 catstane
 catstep
 catstick
+catted
 cafeterias
 catstitch
 catstitcher
@@ -6133,7 +6134,6 @@ cattalo
 cattaloes
 cattalos
 cyaniding
-catted
 catter
 crottels
 consubsist
