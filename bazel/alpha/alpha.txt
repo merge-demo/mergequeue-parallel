@@ -1284,7 +1284,6 @@ arteriodiastasis
 acarocecidium
 apologia
 archminister
-antemask
 acarodermatitis
 androlepsia
 amay
@@ -17415,6 +17414,7 @@ apotropous
 anthomedusan
 anaesthatic
 aldimine
+antemask
 abstracter
 apoxesis
 apoxyomenos
