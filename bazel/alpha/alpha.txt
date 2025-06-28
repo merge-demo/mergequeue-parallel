@@ -6195,7 +6195,6 @@ absolver
 agonizingness
 agoranomus
 alnager
-agoraphobiac
 antiferment
 aquerne
 agoraphobic
@@ -13740,6 +13739,7 @@ anophthalmos
 anopia
 amusable
 abortuses
+agoraphobiac
 altimeter
 accrementition
 ancyrene
