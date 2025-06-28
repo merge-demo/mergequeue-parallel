@@ -3894,7 +3894,6 @@ bbs
 bassly
 burn
 beliquor
-balaniferous
 birdweed
 banksia
 biassedly
@@ -15327,6 +15326,7 @@ brierroot
 bonnetless
 brieve
 beanier
+balaniferous
 beslings
 birthstone
 brigaded
