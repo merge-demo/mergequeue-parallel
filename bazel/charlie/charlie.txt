@@ -9144,6 +9144,7 @@ charr
 charras
 charre
 charred
+copulatively
 charrette
 consenescence
 charrier
@@ -10120,7 +10121,6 @@ chest
 curing
 chesterfield
 chesterfieldian
-copulatively
 chestfuls
 chesty
 chestier
