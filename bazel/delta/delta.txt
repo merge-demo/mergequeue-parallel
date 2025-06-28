@@ -6923,6 +6923,7 @@ desorption
 drollist
 desoxalate
 discomposes
+dysanagnosia
 desoxalic
 dichromasy
 decanter
@@ -13149,7 +13150,6 @@ dispersing
 dispersoidological
 dynastid
 dispersonate
-dysanagnosia
 dondia
 dismasting
 dispersonification
