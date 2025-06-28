@@ -6605,7 +6605,6 @@ dynamiters
 desegmented
 damoiselle
 dirdum
-disordination
 dephlegmated
 doubtsome
 desegregated
@@ -13149,6 +13148,7 @@ dispersing
 dispersoidological
 dynastid
 dispersonate
+disordination
 dysanagnosia
 dondia
 dismasting
