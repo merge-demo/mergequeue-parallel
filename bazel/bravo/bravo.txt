@@ -9904,7 +9904,6 @@ babasco
 bitterheartedness
 becapped
 birdlife
-bitterishness
 begulfs
 buildup
 bitterness
@@ -16826,6 +16825,7 @@ baillonella
 buffier
 buffiest
 blighties
+bitterishness
 birdcalls
 buzzer
 battak
