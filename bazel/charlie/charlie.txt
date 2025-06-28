@@ -13462,6 +13462,7 @@ catchingly
 craniognomy
 courageously
 ciderish
+compellably
 ciderkin
 crozzle
 condemnation
@@ -21695,7 +21696,6 @@ campiness
 conditionality
 conditionalize
 conditionally
-compellably
 centralisation
 casson
 cassises
