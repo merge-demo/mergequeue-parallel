@@ -5674,7 +5674,6 @@ distract
 debe
 diopsidic
 depigmentate
-depigmentation
 depigmentize
 dissidence
 devilized
@@ -10885,6 +10884,7 @@ daised
 dirked
 dhabb
 drawbored
+depigmentation
 dwayne
 disthene
 disguisable
