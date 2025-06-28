@@ -7697,6 +7697,7 @@ alconde
 alcoothionic
 alcor
 artsy
+aposiopesis
 alcoran
 apposiopestic
 aminity
@@ -17269,7 +17270,6 @@ aport
 aportlast
 aposaturnium
 aposia
-aposiopesis
 alleviant
 aposiopetic
 arbalest
