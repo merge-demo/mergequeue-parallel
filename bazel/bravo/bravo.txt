@@ -11225,6 +11225,7 @@ bestrapped
 blotchiness
 buckeye
 blote
+brickle
 beaker
 boder
 batterfang
@@ -15196,7 +15197,6 @@ beglerbeg
 bricklayer
 bricklayers
 bummery
-brickle
 bulbospinal
 bricklike
 beclose
