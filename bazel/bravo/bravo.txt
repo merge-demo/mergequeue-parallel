@@ -9644,7 +9644,6 @@ barterers
 blatti
 bryozoum
 batiste
-bisyllabic
 benefactions
 burao
 bisyllabism
@@ -11923,6 +11922,7 @@ betutored
 bewrought
 basinasial
 baggily
+bisyllabic
 bogach
 becrush
 bushelwoman
