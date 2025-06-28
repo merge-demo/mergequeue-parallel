@@ -11064,7 +11064,6 @@ chiseling
 commoned
 chiselled
 chiseller
-chiselly
 chisellike
 chiselling
 coevolvedcoevolves
@@ -18231,6 +18230,7 @@ coexpand
 coexpanded
 coexperiencer
 coextend
+chiselly
 catchment
 coextends
 creep
