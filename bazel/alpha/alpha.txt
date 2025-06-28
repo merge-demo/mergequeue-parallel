@@ -7661,6 +7661,7 @@ appetition
 anaudia
 alcoholicity
 antonymic
+archfiend
 aberroscope
 autoprothesis
 alcoholimeter
@@ -18781,7 +18782,6 @@ adstipulate
 artamidae
 archeus
 archexorcist
-archfiend
 aroma
 archflamen
 archfoe
