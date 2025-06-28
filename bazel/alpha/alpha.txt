@@ -11472,7 +11472,6 @@ ascospore
 amusers
 attractors
 abbatical
-authenticators
 amarelles
 astrologous
 acidimetric
@@ -15479,6 +15478,7 @@ antimixing
 algum
 antioxygenating
 alabastrum
+authenticators
 aspectual
 antimodel
 asparkle
