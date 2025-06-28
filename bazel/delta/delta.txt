@@ -4585,6 +4585,7 @@ demilitarization
 descendible
 dehydrogenase
 dibranchiate
+disphenoid
 demilitarized
 dentaliidae
 disselboom
@@ -17360,7 +17361,6 @@ droopier
 droopiest
 demarcators
 doney
-disphenoid
 drow
 drop
 delilah
