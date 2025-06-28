@@ -802,6 +802,7 @@ abridgments
 abris
 abristle
 abroach
+anemometrographically
 abrocome
 abrogable
 abrogate
@@ -12476,7 +12477,6 @@ anemometrically
 attenuated
 amanuenses
 arterial
-anemometrographically
 alfilaria
 azoturia
 anemonal
