@@ -12420,6 +12420,7 @@ astart
 autonomical
 ajonjoli
 atomiferous
+anisanthous
 axisymmetry
 ajowan
 adequateness
@@ -13210,7 +13211,6 @@ aberrant
 anisanilide
 annotated
 african
-anisanthous
 aswell
 anisate
 armories
