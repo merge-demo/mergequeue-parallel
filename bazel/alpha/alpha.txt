@@ -12887,6 +12887,7 @@ adoptees
 aire
 ango
 angoise
+alphabet
 angola
 angolese
 assertoric
@@ -20188,7 +20189,6 @@ arrest
 arrestation
 astern
 acromioclavicular
-alphabet
 aeipathy
 arrester
 alphanumerically
