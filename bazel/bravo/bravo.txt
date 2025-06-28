@@ -2355,7 +2355,6 @@ barbulate
 barbulyie
 blastomycin
 barbwire
-barbwires
 burseraceae
 bullpout
 betatter
@@ -3518,6 +3517,7 @@ blackroot
 bathed
 bellower
 bathes
+barbwires
 backslidden
 bicondylar
 baryons
