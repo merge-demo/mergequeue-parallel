@@ -5903,7 +5903,6 @@ caterpillarlike
 chelerythrin
 caterpillars
 caters
-caterva
 colporrhea
 cates
 catesbaea
@@ -10298,6 +10297,7 @@ chicer
 casabe
 cnidocyst
 concordable
+caterva
 committer
 champerator
 cantharidin
