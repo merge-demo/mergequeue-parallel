@@ -3875,6 +3875,7 @@ autarkik
 adjudicated
 adjudication
 adjudications
+ampullary
 agglutinin
 adjudicative
 anaphora
@@ -11392,7 +11393,6 @@ ampul
 admonitory
 anhydremia
 apodosis
-ampullary
 ampullate
 ampullated
 amphioxus
