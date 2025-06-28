@@ -2341,7 +2341,6 @@ charmers
 canalla
 colorcasted
 canalled
-canallers
 canals
 cylindrocellular
 cumin
@@ -18820,6 +18819,7 @@ cabochon
 concentrical
 coleophoridae
 coleopter
+canallers
 coleoptera
 chalcedonic
 cardiotoxic

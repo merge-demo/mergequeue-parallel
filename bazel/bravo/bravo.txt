@@ -8567,7 +8567,6 @@ biller
 blackeye
 brantcorn
 brawlis
-billeted
 billeter
 bilabe
 boweries
@@ -12542,6 +12541,7 @@ bonhomies
 boni
 bony
 burtonize
+billeted
 boniata
 bloodshot
 barnage
