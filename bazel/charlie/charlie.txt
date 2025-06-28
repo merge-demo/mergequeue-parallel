@@ -5977,6 +5977,7 @@ cathepsin
 cathern
 catties
 catheterisation
+critize
 catheterise
 clienteles
 coiffes
@@ -29568,7 +29569,6 @@ cultivatable
 cabals
 chopine
 critiqued
-critize
 cosmic
 critling
 coadunating
