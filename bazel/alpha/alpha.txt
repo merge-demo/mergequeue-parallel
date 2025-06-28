@@ -14912,6 +14912,7 @@ abneural
 anticommercialism
 academical
 amoeboid
+apices
 airstrip
 anticommerciality
 anachronic
@@ -16836,7 +16837,6 @@ ampullariidae
 apraxia
 apically
 aumoniere
-apices
 apician
 accomplices
 apicillary
