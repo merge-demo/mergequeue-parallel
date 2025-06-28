@@ -6060,7 +6060,6 @@ brahmanical
 bort
 bablah
 bloated
-boathead
 bollard
 bemartyr
 buttstrap
@@ -15950,6 +15949,7 @@ biffy
 bronchodilator
 brideship
 bogieman
+boathead
 bronchoegophony
 boudin
 bronchogenic
