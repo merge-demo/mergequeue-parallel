@@ -3397,7 +3397,6 @@ coagencies
 capple
 cappuccino
 chandu
-crackiness
 caprate
 coagulatory
 caprella
@@ -5896,6 +5895,7 @@ caterers
 cytolymph
 catering
 cateringly
+crackiness
 copras
 caterpillar
 caterpillared

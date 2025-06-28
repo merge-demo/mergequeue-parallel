@@ -16804,6 +16804,7 @@ decolorate
 decussation
 demitube
 dyscrasial
+decimalising
 divinise
 detritivorous
 dichroscopic
@@ -18612,7 +18613,6 @@ denudational
 dusttight
 dustuk
 decentring
-decimalising
 dustups
 digitus
 debugger
