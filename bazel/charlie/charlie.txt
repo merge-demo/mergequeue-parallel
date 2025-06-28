@@ -4135,6 +4135,7 @@ cardinalship
 cardings
 cardioarterial
 cardiocarpum
+chloragogue
 cardiocele
 chevronelly
 cardiocirrhosis
@@ -11199,7 +11200,6 @@ cephalorachidian
 chloracne
 criminaldom
 chloraemia
-chloragogue
 chloral
 chloralformamide
 cupelling
