@@ -8459,7 +8459,6 @@ dialogizing
 devesting
 dialonian
 dorsocervically
-dorsiventrally
 dials
 ds
 dithalous
@@ -8482,6 +8481,7 @@ dibutyl
 diamat
 dermochrome
 diambic
+dorsiventrally
 diamegnetism
 diamesogamous
 disclike
