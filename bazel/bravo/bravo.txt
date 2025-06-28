@@ -10106,6 +10106,7 @@ blair
 blackbine
 befrets
 blackback
+bescurvy
 blackballed
 blanching
 blackballs
@@ -17890,7 +17891,6 @@ bookman
 beauship
 bivium
 bushelers
-bescurvy
 bolshies
 bushelfuls
 busheling
