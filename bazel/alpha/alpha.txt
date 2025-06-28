@@ -13407,7 +13407,6 @@ artiste
 anna
 alibies
 annabergite
-antiminsion
 antimnemonic
 annaly
 annalia
@@ -23524,6 +23523,7 @@ alforjas
 amply
 adventuring
 andaqui
+antiminsion
 antignostic
 amperemeter
 aunthood
