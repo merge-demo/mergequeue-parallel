@@ -19853,6 +19853,7 @@ cometaria
 cabulla
 closh
 cometlike
+cowbanes
 cometography
 coeloblastic
 cometology
@@ -27625,7 +27626,6 @@ collided
 chamfered
 croquette
 convive
-cowbanes
 cariosity
 corticosteroid
 cowberry
