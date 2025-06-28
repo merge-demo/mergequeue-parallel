@@ -8590,6 +8590,7 @@ copybook
 chancellors
 califates
 chancellorship
+changelessness
 chancellorships
 chancelor
 capillaire
@@ -8674,7 +8675,6 @@ cynosural
 curtness
 complementaries
 cohesionless
-changelessness
 changelings
 changement
 cuissard
