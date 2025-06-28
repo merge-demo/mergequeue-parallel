@@ -6521,6 +6521,7 @@ doxological
 descends
 deviability
 dialectic
+doby
 dircaean
 dynel
 deerstalker
@@ -14737,7 +14738,6 @@ despumate
 doats
 dirking
 dobby
-doby
 distender
 doblon
 dobos
