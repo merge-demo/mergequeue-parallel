@@ -4215,7 +4215,6 @@ cardoon
 conure
 cardoons
 cardophagus
-clearwing
 carbamido
 carnet
 chiron
@@ -5404,6 +5403,7 @@ cyclopism
 castigate
 contemplativeness
 citraconic
+clearwing
 castigations
 chivariing
 castigator

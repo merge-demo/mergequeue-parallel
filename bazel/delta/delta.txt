@@ -4684,7 +4684,6 @@ depas
 didynamia
 diploglossate
 demisemiquaver
-delineable
 drysalter
 demisemitone
 dislodging
@@ -9106,6 +9105,7 @@ defang
 demifarthing
 dermatophobia
 defigure
+delineable
 dictionarian
 dorsoabdominal
 dispensers
