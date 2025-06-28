@@ -15596,7 +15596,6 @@ diathermize
 donzella
 donzels
 doob
-diazobenzene
 doodab
 dowdyish
 dehnstufe
@@ -15905,6 +15904,7 @@ dosing
 dubs
 dosinia
 dehairer
+diazobenzene
 doped
 darjeeling
 dakerhens
