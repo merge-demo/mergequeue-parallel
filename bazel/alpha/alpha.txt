@@ -13827,6 +13827,7 @@ anounou
 affix
 anour
 asher
+animalities
 anovesical
 anovulant
 anovulatory
@@ -14572,7 +14573,6 @@ antiaditis
 asuang
 antiadministration
 audiogram
-animalities
 antiagglutinative
 androsphinges
 antiaggression

@@ -9487,7 +9487,6 @@ dozener
 digeneous
 decubitus
 dissert
-digenetic
 digenetica
 digue
 daydreamers
@@ -16152,6 +16151,7 @@ dournesses
 douroucouli
 dissimulates
 dousing
+digenetic
 dout
 desorbing
 domable
