@@ -9447,7 +9447,6 @@ danaidean
 dechlore
 demilitarizing
 diamin
-diffusible
 diffusibleness
 diffusing
 deuteranomalous
@@ -13084,6 +13083,7 @@ dispendiously
 debasing
 dispensate
 devoutly
+diffusible
 diffracted
 drooped
 dispensation
