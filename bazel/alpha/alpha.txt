@@ -4460,7 +4460,6 @@ amounting
 acrography
 adventual
 adventured
-adventuresome
 agyrate
 aprocta
 anabaptist
@@ -25021,6 +25020,7 @@ awlwort
 aweary
 awlworts
 awmous
+adventuresome
 awn
 airing
 awned
