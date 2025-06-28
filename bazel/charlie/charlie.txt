@@ -1005,7 +1005,6 @@ caprelline
 calappidae
 calas
 colourtype
-cohoba
 calascione
 cydonia
 calastic
@@ -8229,6 +8228,7 @@ chondroclasis
 chairmanship
 congrid
 chairmanships
+cohoba
 checkoff
 chairmender
 chairpersons
