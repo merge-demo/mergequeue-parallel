@@ -13004,7 +13004,6 @@ catamenial
 continentality
 cyanides
 cyanidrosis
-clothes
 cyanids
 cyanimide
 cyanine
@@ -22261,6 +22260,7 @@ conglaciate
 cornered
 conglobate
 circumlocutional
+clothes
 conglobating
 cobhead
 cameleers
