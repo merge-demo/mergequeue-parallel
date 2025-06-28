@@ -1274,6 +1274,7 @@ bilocellate
 buckskinned
 baryonic
 bluejays
+buffalofish
 boreades
 begrutch
 boater
@@ -16800,7 +16801,6 @@ bacterioid
 bicolligate
 buffable
 buffalo
-buffalofish
 buffaloing
 biflagellate
 buffball
