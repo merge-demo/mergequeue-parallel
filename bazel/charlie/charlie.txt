@@ -1155,7 +1155,6 @@ counterrampant
 calculableness
 calculably
 cosing
-confabular
 calculatedly
 contango
 calculatedness
@@ -22615,6 +22614,7 @@ connivance
 connivancy
 connivantly
 connive
+confabular
 concertanti
 chug
 clinker
