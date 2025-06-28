@@ -2140,6 +2140,7 @@ bantu
 bantus
 bandon
 bewield
+boyd
 blandfordia
 botrychium
 backup
@@ -10228,7 +10229,6 @@ belshazzar
 blackleg
 blacklegged
 betattering
-boyd
 breakpoints
 blacklisted
 blacklister
