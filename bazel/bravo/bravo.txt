@@ -8380,7 +8380,6 @@ bitore
 bigonial
 besotted
 bigots
-bombyxes
 bastian
 bashawdom
 bigwig
@@ -10131,6 +10130,7 @@ blackbird
 blackbirder
 belknap
 buckbush
+bombyxes
 blackbody
 bloodings
 blackbuck
