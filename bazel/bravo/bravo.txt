@@ -9989,6 +9989,7 @@ berbery
 barrenness
 bivector
 biventer
+brainfag
 bayonetting
 bulkin
 bizarrerie
@@ -11802,7 +11803,6 @@ bardolphian
 bock
 bullishly
 bioresearch
-brainfag
 bigamists
 breechblock
 bocoy
