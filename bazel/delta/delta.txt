@@ -3144,7 +3144,6 @@ defeated
 directs
 downs
 diluviate
-disgout
 dissimulated
 defeatism
 drouths
@@ -8501,6 +8500,7 @@ deterge
 directionize
 dodecyl
 diamins
+disgout
 draconitic
 downgrades
 diamondback
