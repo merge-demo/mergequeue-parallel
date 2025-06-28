@@ -5763,6 +5763,7 @@ depoetize
 deconsider
 depoh
 decd
+desemer
 depolarise
 depolarization
 dernly
@@ -6884,7 +6885,6 @@ drossless
 desmosite
 diaphote
 deft
-desemer
 dispositor
 deglutitory
 desoeuvre
