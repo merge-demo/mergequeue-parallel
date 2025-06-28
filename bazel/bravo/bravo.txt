@@ -1936,7 +1936,6 @@ bandsawn
 bandsman
 bandstand
 beacon
-boronia
 beseechment
 bocaccios
 broadly
@@ -5440,6 +5439,7 @@ behaviorists
 behavioural
 brachioradial
 blepharoceridae
+boronia
 biweeklies
 brisling
 brooklynite
