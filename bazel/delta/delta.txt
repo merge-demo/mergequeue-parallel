@@ -433,6 +433,7 @@ dhourra
 discoursers
 dairous
 dairt
+decompoundable
 dais
 deducer
 disinthrall
@@ -2660,7 +2661,6 @@ decomposing
 decomposure
 digne
 dogwatches
-decompoundable
 diffractional
 decompoundly
 decompress
