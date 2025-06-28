@@ -3427,7 +3427,6 @@ deflore
 dubash
 disgarland
 deceleron
-deflower
 damnosa
 dentagra
 deflowered
@@ -9723,6 +9722,7 @@ dialysate
 deliquesces
 doorcase
 disposableness
+deflower
 dipneusti
 dispense
 daphnias
