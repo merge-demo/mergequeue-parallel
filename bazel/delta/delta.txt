@@ -1267,7 +1267,6 @@ datsuns
 disband
 dysodyle
 doitrified
-dardanarius
 disturbed
 daturism
 delusive
@@ -3685,6 +3684,7 @@ degraduate
 digitinervate
 degravate
 demipike
+dardanarius
 degreaser
 dacryohemorrhea
 degreases
