@@ -2110,7 +2110,6 @@ accedence
 achilleas
 agglutinations
 allopatry
-antadiform
 achilleine
 abnormalness
 achilles
@@ -20407,6 +20406,7 @@ adaptively
 artefacts
 analyticity
 abstemiously
+antadiform
 anaglyphoscope
 autosymnoia
 apiolin

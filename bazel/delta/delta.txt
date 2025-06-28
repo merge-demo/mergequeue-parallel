@@ -11018,7 +11018,6 @@ demonial
 disagreements
 disrelation
 disagreing
-dethronable
 dioptroscopy
 demonlike
 disseizure
@@ -15547,6 +15546,7 @@ dongola
 drams
 doni
 diopsides
+dethronable
 deliquesced
 disvalued
 derobe
