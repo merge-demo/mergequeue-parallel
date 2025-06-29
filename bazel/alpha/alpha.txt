@@ -4604,7 +4604,6 @@ aeciospore
 aecioteliospore
 abigeus
 adversed
-aedeagi
 aedeagus
 aediculae
 aedicule
@@ -14368,6 +14367,7 @@ anthracometric
 abecedarium
 abnormalist
 anthracosaurus
+aedeagi
 anthracosis
 abox
 anthracothere
