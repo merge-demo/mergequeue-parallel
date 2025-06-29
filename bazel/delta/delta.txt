@@ -2230,6 +2230,7 @@ drongo
 drivescrew
 dreint
 drch
+dagged
 dartre
 danes
 dishelm
@@ -9244,7 +9245,6 @@ disguiser
 dentinoma
 dieing
 deprovincialize
-dagged
 dramshops
 derat
 dyeings
