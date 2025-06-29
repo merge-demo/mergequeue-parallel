@@ -3437,6 +3437,7 @@ brushfire
 brigade
 basto
 baguios
+baxterian
 bucklandite
 bibliolatrous
 bovine
@@ -8664,7 +8665,6 @@ bidiurnal
 braches
 bilophodont
 boshvark
-baxterian
 brattish
 boiko
 barbecues
