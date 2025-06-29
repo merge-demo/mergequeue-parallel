@@ -5627,7 +5627,6 @@ agal
 agalactic
 appoggiaturas
 agalaxia
-anisomelus
 agalena
 agalenidae
 ambalam
@@ -14511,6 +14510,7 @@ allect
 anthropopathy
 antipathies
 areas
+anisomelus
 aquaplaned
 aestival
 aneurysmatic
