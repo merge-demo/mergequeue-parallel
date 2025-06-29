@@ -9050,7 +9050,6 @@ brev
 biophagism
 biophilous
 biophysic
-biophysiography
 balibuntal
 biophysiology
 butterier
@@ -10951,6 +10950,7 @@ bellhop
 byerlite
 batement
 benchmar
+biophysiography
 blinkingly
 blinter
 batel
