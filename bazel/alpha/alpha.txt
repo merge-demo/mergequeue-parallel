@@ -4706,7 +4706,6 @@ aeonist
 aridly
 aide
 aeons
-animatist
 aphrodisia
 afterglide
 alaihi
@@ -19650,6 +19649,7 @@ aristate
 aristeas
 alertness
 armaria
+animatist
 aristeia
 aristida
 aristides
