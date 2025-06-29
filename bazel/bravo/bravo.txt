@@ -5345,6 +5345,7 @@ breviers
 beglue
 blastomas
 beerage
+betime
 begnaw
 biharmonic
 balmy
@@ -7381,7 +7382,6 @@ bighting
 beautifications
 boluses
 blindfolds
-betime
 blotching
 betinge
 blithers
