@@ -24693,7 +24693,6 @@ cambrics
 corimelaena
 copperskin
 ciderist
-coppersmith
 coppersmithing
 copperware
 copperwing
@@ -26662,6 +26661,7 @@ cottonweed
 chemoautotrophic
 cobus
 carotins
+coppersmith
 counteractively
 cardiectomy
 cavish
