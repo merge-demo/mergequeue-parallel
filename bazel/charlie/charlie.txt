@@ -4353,7 +4353,6 @@ caricaceous
 cotemporaneous
 carcinology
 cattleya
-caricatura
 caricatural
 caricature
 chud
@@ -6919,6 +6918,7 @@ celtiberian
 celticize
 celtidaceae
 celtiform
+caricatura
 celtillyrians
 consortiums
 celtis
