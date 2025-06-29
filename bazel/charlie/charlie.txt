@@ -1354,6 +1354,7 @@ calycozoan
 cutify
 cephalobranchiate
 curveball
+cotans
 caliculate
 calyculate
 cavernitis
@@ -28913,7 +28914,6 @@ cry
 cryable
 cephalhydrocele
 cholestane
-cotans
 cryanesthesia
 criant
 carbonigenous
