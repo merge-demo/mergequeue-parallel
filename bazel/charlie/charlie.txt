@@ -6261,7 +6261,6 @@ christine
 cauldrife
 casquette
 ctenoidei
-calcaneocuboid
 cauldrifeness
 cauldrons
 cottar
@@ -9453,6 +9452,7 @@ cromwell
 chaws
 chawstick
 citoyen
+calcaneocuboid
 chazan
 chazanim
 chazans
