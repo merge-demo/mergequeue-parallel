@@ -139,6 +139,7 @@ crudes
 cabled
 cablegram
 cablegrams
+cankerwort
 cruors
 cistaceae
 cablelaid
@@ -14570,7 +14571,6 @@ clefs
 chang
 cissus
 cist
-cankerwort
 chamoised
 cerilla
 catheads
