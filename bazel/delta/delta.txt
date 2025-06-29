@@ -16431,6 +16431,7 @@ deadishness
 dozed
 dodecahedrons
 dozens
+driftlet
 dishpan
 dimorphous
 disports
@@ -18496,7 +18497,6 @@ dissentiently
 durain
 discussants
 dementi
-driftlet
 declamator
 duramater
 duramens
