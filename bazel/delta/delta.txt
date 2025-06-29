@@ -8362,7 +8362,6 @@ dialectologist
 dargue
 daemonies
 disruptable
-dioestrum
 duchies
 dialed
 depredation
@@ -11933,6 +11932,7 @@ debonaire
 diseasedness
 diseases
 diseconomy
+dioestrum
 diastemata
 dolerites
 diselenid

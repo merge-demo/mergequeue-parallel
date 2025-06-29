@@ -1472,7 +1472,6 @@ archipallial
 acclimatisation
 affixable
 acclimatise
-anticynically
 acclimatised
 acclimatiser
 acclimatising
@@ -3719,6 +3718,7 @@ adhesional
 adhesive
 architraved
 adhesiveness
+anticynically
 astrogeny
 aggers
 apposes
