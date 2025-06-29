@@ -887,7 +887,6 @@ cajeputole
 cajeputs
 cajolement
 celure
-cajolements
 coagulating
 contrapuntalist
 cajolery
@@ -10640,6 +10639,7 @@ chylophyllously
 cabalistically
 collielike
 circumspection
+cajolements
 cashbook
 chylopoetic
 chylopoiesis
