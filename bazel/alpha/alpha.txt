@@ -23857,7 +23857,6 @@ authigenetic
 antiozonant
 authigenous
 aurite
-authored
 anisocotyly
 arabizing
 amphibologism
@@ -24790,6 +24789,7 @@ agromyza
 avis
 aflare
 ambagitory
+authored
 augitite
 atractaspis
 almas
