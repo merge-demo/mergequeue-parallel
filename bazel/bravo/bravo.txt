@@ -7161,7 +7161,6 @@ besprinkle
 bibliology
 briskish
 bandhor
-biaxial
 bonduc
 backless
 besprinkles
@@ -10519,6 +10518,7 @@ bewigged
 blastophoral
 blueprinter
 breakage
+biaxial
 bradyuria
 blameworthy
 bashlik
