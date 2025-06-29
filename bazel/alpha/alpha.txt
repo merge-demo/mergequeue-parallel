@@ -2583,7 +2583,6 @@ alterableness
 acquest
 armenite
 aromatite
-actutate
 arriswise
 acquiesce
 addiction
@@ -10687,6 +10686,7 @@ anointing
 aminoketone
 antitheistical
 aminolysis
+actutate
 aminomalonic
 analities
 aminopeptidase
