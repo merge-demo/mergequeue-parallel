@@ -3116,6 +3116,7 @@ disestablisher
 disbodied
 demihuman
 destructibleness
+deink
 defamy
 delegating
 desmoneme
@@ -11097,7 +11098,6 @@ disillusioned
 doppelkummel
 demonetisation
 denitrified
-deink
 dandyling
 decentness
 dundreary

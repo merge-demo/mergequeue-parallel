@@ -5506,6 +5506,7 @@ affodill
 auriculo
 azox
 antisialic
+apteria
 aftermilk
 animadverts
 aftermost
@@ -23248,7 +23249,6 @@ appetitiveness
 atune
 acolhua
 athenee
-apteria
 anthelmintic
 atweel
 angiospermic
