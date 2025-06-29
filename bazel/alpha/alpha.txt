@@ -9487,6 +9487,7 @@ alternate
 alternated
 aftertaste
 alternately
+audiviser
 apheretic
 achier
 assaugement
@@ -13569,7 +13570,6 @@ annulations
 annulet
 anthems
 annulets
-audiviser
 annullate
 annuller
 annulling
