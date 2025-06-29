@@ -6173,6 +6173,7 @@ deregulations
 dichromatism
 drumloid
 ducatoon
+dieresis
 deregulatory
 dowsabels
 dereign
@@ -9286,7 +9287,6 @@ dier
 dyer
 dementis
 dochmii
-dieresis
 discharging
 dihydrazone
 disemic
