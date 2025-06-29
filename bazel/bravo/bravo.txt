@@ -9708,6 +9708,7 @@ bathybian
 bisporous
 beadrolls
 blaewort
+barbudo
 bayeta
 bizes
 benj
@@ -16156,7 +16157,6 @@ birth
 backswimmer
 brothers
 blowdown
-barbudo
 braird
 bilbie
 brotherwort
