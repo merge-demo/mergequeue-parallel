@@ -1759,6 +1759,7 @@ baluch
 bitripinnatifid
 broquery
 baronnes
+byplace
 becollier
 buses
 biretta
@@ -8867,7 +8868,6 @@ bathypelagic
 bioaccumulation
 bioactivities
 bioassaying
-byplace
 bioastronautics
 belch
 biobibliographer
