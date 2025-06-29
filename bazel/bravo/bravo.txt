@@ -6584,7 +6584,6 @@ berates
 breakaway
 blastospheric
 balnibarbi
-berattle
 bakehead
 boatside
 borickite
@@ -13078,6 +13077,7 @@ boreiad
 bannister
 brawnier
 bugseeds
+berattle
 boodleism
 borel
 borers
