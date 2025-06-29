@@ -7701,6 +7701,7 @@ alcoran
 apposiopestic
 aminity
 alcoranic
+amphigenesis
 aff
 aphetically
 amarna
@@ -17159,7 +17160,6 @@ apological
 apologies
 apologised
 adenogenesis
-amphigenesis
 apologists
 adoxaceae
 axiolitic
