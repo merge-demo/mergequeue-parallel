@@ -5175,6 +5175,7 @@ caseworks
 caseworm
 casha
 cashableness
+clinohedral
 cashaws
 carida
 contek
@@ -16281,7 +16282,6 @@ cardiamorphia
 clinographic
 countryish
 chlamydosporic
-clinohedral
 celeriac
 clinohedrite
 crewcut
