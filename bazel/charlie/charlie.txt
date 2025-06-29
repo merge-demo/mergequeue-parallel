@@ -5372,7 +5372,6 @@ castellany
 crizzling
 castellanies
 castellano
-castellans
 cinerararia
 chaufer
 castellate
@@ -19300,6 +19299,7 @@ colon
 colonaded
 colonate
 colonelcies
+castellans
 colonels
 colonelships
 conductorless
