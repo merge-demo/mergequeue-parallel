@@ -14014,7 +14014,6 @@ distortions
 delocalise
 differentiable
 distorts
-dolomitising
 dentoid
 diphosphide
 donary
@@ -16438,6 +16437,7 @@ doziest
 deviousness
 dozzle
 dozzled
+dolomitising
 dr
 draba
 disassembles
