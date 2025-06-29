@@ -7094,7 +7094,6 @@ centerable
 cutup
 centerboard
 centerer
-centerfold
 compania
 coofs
 chelators
@@ -27855,6 +27854,7 @@ crescendoed
 crabber
 crabbery
 carnivaler
+centerfold
 crabby
 casa
 crabbiest
