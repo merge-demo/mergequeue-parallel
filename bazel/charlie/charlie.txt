@@ -16594,7 +16594,6 @@ cloisterer
 columellate
 clappermaclaw
 cloistering
-comal
 croupes
 chirm
 cloisterly
@@ -24955,6 +24954,7 @@ cystine
 chummiest
 corbicula
 corbiculate
+comal
 cellulolytic
 corbiculum
 corbie
