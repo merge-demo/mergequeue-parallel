@@ -4726,7 +4726,6 @@ carnie
 chlamydospore
 creditorship
 contested
-collages
 carpeting
 carpetlayer
 carpetmaking
@@ -28281,6 +28280,7 @@ curtnesses
 cratchins
 crate
 crateman
+collages
 clitic
 calor
 cratemen
