@@ -8785,7 +8785,6 @@ diatonic
 doodle
 dungannonite
 diatreme
-diatribe
 diaulic
 decorably
 doge
@@ -16040,6 +16039,7 @@ drent
 duryodhana
 doublethink
 driveline
+diatribe
 drainboard
 denigrate
 dabster
