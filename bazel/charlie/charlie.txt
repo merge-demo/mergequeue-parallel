@@ -2937,6 +2937,7 @@ chestily
 chorioids
 cantdog
 cantdogs
+curarize
 compensatively
 cantefable
 childlier
@@ -6039,7 +6040,6 @@ catholicoi
 catholicon
 clinkers
 catholicos
-curarize
 coraciiform
 cleg
 cyanide
