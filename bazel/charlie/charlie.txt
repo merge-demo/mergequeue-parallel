@@ -1027,6 +1027,7 @@ calatrava
 calavance
 calbroben
 calcaire
+cervicoauricular
 calcanea
 chimpanzee
 calcanean
@@ -7855,7 +7856,6 @@ cichloid
 cerviciplex
 cervicispinal
 cervicitis
-cervicoauricular
 chippable
 cervicobasilar
 cervicobregmatic
