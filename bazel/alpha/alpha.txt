@@ -9772,7 +9772,6 @@ apriorism
 amalgamative
 amalgamatize
 acmite
-amalgamist
 amperage
 amalgamization
 amalgamize
@@ -10881,6 +10880,7 @@ ammu
 antipepsin
 amnesia
 amnesiac
+amalgamist
 aulas
 amnestied
 alf
