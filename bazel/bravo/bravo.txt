@@ -10815,7 +10815,6 @@ bullbeggar
 bugbeardom
 blepharomelasma
 blepharoncosis
-beplumed
 blepharoplastic
 blepharoptosis
 blepharosynechia
@@ -10912,6 +10911,7 @@ bemoon
 blinding
 bescoured
 braciolas
+beplumed
 biorbital
 blindness
 bignoniad
