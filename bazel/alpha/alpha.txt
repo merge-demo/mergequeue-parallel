@@ -7794,6 +7794,7 @@ aldoside
 aldosterone
 aldosteronism
 abiezer
+arterialise
 aldrins
 arba
 ausubos
@@ -9800,7 +9801,6 @@ aeroplane
 aposthia
 amanous
 antiauxin
-arterialise
 amante
 airbrush
 augurer
