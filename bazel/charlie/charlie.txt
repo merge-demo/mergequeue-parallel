@@ -8761,7 +8761,6 @@ cartboot
 chapapote
 cacoxenite
 cassican
-cartwheels
 coto
 chaparejos
 chaparral
@@ -11981,6 +11980,7 @@ choreutic
 crevassing
 chorial
 cilician
+cartwheels
 choriamb
 choriambic
 chorometry
