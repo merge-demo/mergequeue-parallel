@@ -7060,6 +7060,7 @@ agaricin
 akhoond
 abnerval
 akhundzada
+ambiguity
 acajous
 abantes
 akia
@@ -10021,7 +10022,6 @@ appel
 anticipator
 arousing
 ambigu
-ambiguity
 anorthitite
 ambilateralaterally
 amtrac

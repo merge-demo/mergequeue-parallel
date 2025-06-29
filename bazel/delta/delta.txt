@@ -8315,6 +8315,7 @@ doombook
 dialyzer
 diagrams
 dentin
+dlvy
 db
 dispossess
 droob
@@ -14714,7 +14715,6 @@ decasemic
 deviative
 dks
 dankest
-dlvy
 diademed
 deburse
 dm
