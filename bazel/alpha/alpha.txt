@@ -11640,6 +11640,7 @@ ambuling
 anticarnivorous
 acoria
 asperates
+animo
 anaematosis
 arhythmically
 arrage
@@ -13180,7 +13181,6 @@ apraxias
 animize
 amaltas
 anilidic
-animo
 academizing
 alchem
 anientise
