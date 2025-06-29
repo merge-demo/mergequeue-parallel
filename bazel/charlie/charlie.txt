@@ -28068,6 +28068,7 @@ carpentership
 chondroblast
 crampits
 crampon
+craterkin
 crampons
 crampoon
 carefree
@@ -28296,7 +28297,6 @@ crateriform
 cratering
 comatik
 cerithioid
-craterkin
 chromites
 craterless
 craterlet
