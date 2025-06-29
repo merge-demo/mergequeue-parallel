@@ -14114,7 +14114,6 @@ amphivorous
 auriga
 adjusts
 awesomeness
-agglutinogenic
 anarthrous
 achlamydate
 antepasts
@@ -17673,6 +17672,7 @@ aganippe
 axhead
 applejohn
 analogice
+agglutinogenic
 antidotism
 apples
 applewoman
