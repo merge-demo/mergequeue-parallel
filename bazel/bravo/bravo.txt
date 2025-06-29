@@ -6051,6 +6051,7 @@ bowenite
 bradyphasia
 blanquillos
 butcherless
+babirussa
 balarama
 bole
 bilabial
@@ -7340,7 +7341,6 @@ bugi
 bethesda
 biangular
 boatels
-babirussa
 bootstrap
 bethink
 boatswain
