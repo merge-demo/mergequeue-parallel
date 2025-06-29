@@ -25303,6 +25303,7 @@ cornbinks
 coidentity
 chaplainship
 cornbole
+corporeals
 cornbottle
 clistocarp
 commemorating
@@ -25600,7 +25601,6 @@ corporealization
 coagule
 corporeally
 cravenhearted
-corporeals
 corporeity
 crankier
 corporeous
