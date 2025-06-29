@@ -3014,7 +3014,6 @@ dealings
 dangleberries
 dies
 dismantling
-deepfreeze
 dilettantish
 deepgoing
 dawsoniaceous
@@ -14110,6 +14109,7 @@ distritbuting
 debasedness
 divines
 dolomites
+deepfreeze
 debauchery
 dingy
 displace
