@@ -15134,7 +15134,6 @@ dogmatised
 dressoirs
 dogmatizer
 dispensator
-discotheques
 darkeners
 dowdiness
 doctorship
@@ -18443,6 +18442,7 @@ duplication
 dogsbody
 duplicators
 duncehood
+discotheques
 daidle
 dysphemize
 diamondbacks
