@@ -16031,7 +16031,6 @@ antirheumatic
 autoexcitation
 anaptyxes
 antiricin
-antiritualist
 autoradiographic
 antiromantic
 antirrhinum
@@ -22607,6 +22606,7 @@ athink
 athyria
 acronymous
 agneaux
+antiritualist
 athyrid
 archegoniophore
 averruncate
