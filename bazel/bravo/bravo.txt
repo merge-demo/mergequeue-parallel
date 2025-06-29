@@ -1813,6 +1813,7 @@ bemuse
 banal
 bananaland
 benzyls
+bangers
 bridgewall
 bananivorous
 banatite
@@ -10889,7 +10890,6 @@ bibbling
 blindball
 bindable
 befingered
-bangers
 boxball
 barracker
 buttals
