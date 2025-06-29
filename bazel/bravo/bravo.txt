@@ -3942,7 +3942,6 @@ beachdrops
 biliment
 bloedite
 bowed
-bumpiest
 bisulphate
 backstays
 boltspreet
@@ -13651,6 +13650,7 @@ bouquetiere
 backsplice
 bescorching
 bladder
+bumpiest
 blab
 bloodsucker
 baud
