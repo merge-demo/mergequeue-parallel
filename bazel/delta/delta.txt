@@ -4311,7 +4311,6 @@ dramatize
 delusionary
 dumpish
 delusions
-delusively
 deporting
 dichotomous
 digallate
@@ -14735,6 +14734,7 @@ discommission
 dibrach
 despumate
 doats
+delusively
 dirking
 dobby
 doby
