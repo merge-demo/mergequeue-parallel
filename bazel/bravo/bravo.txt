@@ -291,6 +291,7 @@ belar
 back
 brachiocubital
 backache
+belaying
 burrknot
 bocardo
 backadation
@@ -5628,7 +5629,6 @@ buzzwig
 brokenness
 buccaneers
 belah
-belaying
 bogie
 belam
 bettas

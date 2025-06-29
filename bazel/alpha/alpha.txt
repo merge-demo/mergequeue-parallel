@@ -2452,7 +2452,6 @@ acnida
 anadicrotic
 airily
 angiofibroma
-antiperthite
 apprehendingly
 acoasm
 acetin
@@ -7503,6 +7502,7 @@ albuminized
 anchovies
 albuminofibrin
 albuminoid
+antiperthite
 arthrodiae
 autotelic
 anonymities
