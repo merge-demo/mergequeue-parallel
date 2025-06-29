@@ -9649,7 +9649,6 @@ acrotarsial
 aluminums
 alohas
 alumish
-alumite
 adagio
 anticonvulsant
 alumnae
@@ -20959,6 +20958,7 @@ anthesteria
 anapanapa
 antiatom
 ascidiae
+alumite
 antihuff
 ascidians
 ascidiate
