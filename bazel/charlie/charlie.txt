@@ -11701,7 +11701,6 @@ conjugably
 cequi
 clerkdoms
 cardiopneumatic
-cholla
 cryogen
 chollas
 choller
@@ -31821,6 +31820,7 @@ cuticulate
 chrysothamnus
 codamine
 cutiduris
+cholla
 cuties
 cytotoxic
 cutin
