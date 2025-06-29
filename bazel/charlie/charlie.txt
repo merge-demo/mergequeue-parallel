@@ -15011,6 +15011,7 @@ citrins
 citrocola
 coumarouna
 citrometer
+clapping
 citromyces
 citron
 cenobium
@@ -15431,7 +15432,6 @@ clappered
 chitchatting
 clappers
 cutinization
-clapping
 claps
 consecratedness
 clapstick
