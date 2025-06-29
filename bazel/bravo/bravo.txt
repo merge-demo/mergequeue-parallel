@@ -1524,7 +1524,6 @@ ballads
 ballahou
 balete
 baralipton
-bloodmonger
 blackware
 ballas
 baronetised
@@ -15639,6 +15638,7 @@ bacteriosis
 bisulcated
 bosoming
 bacteriohemolysin
+bloodmonger
 bauxitite
 bundlet
 bluster
