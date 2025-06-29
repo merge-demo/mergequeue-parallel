@@ -1879,6 +1879,7 @@ bandiness
 bascunan
 bryology
 bewend
+browallia
 bonaght
 battutos
 bevies
@@ -14046,7 +14047,6 @@ brachycephalism
 bragging
 berust
 brachycephalization
-browallia
 brigandism
 bestudded
 bedravel
