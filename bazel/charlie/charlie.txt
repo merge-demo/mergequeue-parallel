@@ -5269,6 +5269,7 @@ cassata
 coalitions
 cassation
 caveats
+cheveril
 cerin
 cassegrain
 chromomeric
@@ -10158,7 +10159,6 @@ chevener
 cheventayn
 cheverel
 cheveret
-cheveril
 cahoot
 circumfusing
 celioncus
