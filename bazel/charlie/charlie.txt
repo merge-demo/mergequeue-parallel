@@ -10399,7 +10399,6 @@ chiefery
 cyatholith
 chiefest
 cervalet
-conveyorizer
 chiefish
 chiefling
 chieftain
@@ -13169,6 +13168,7 @@ climbingfishes
 catchable
 cycases
 cytogenies
+conveyorizer
 coverless
 cudgelled
 cicatrice
