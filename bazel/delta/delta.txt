@@ -5786,7 +5786,6 @@ depolish
 davened
 draughts
 depolished
-deaconed
 depolishes
 depoliticized
 donia
@@ -5950,6 +5949,7 @@ dotard
 dissipations
 dolerin
 demonstration
+deaconed
 dispossessing
 deep
 dowy
