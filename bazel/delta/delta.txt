@@ -15457,7 +15457,6 @@ dishwares
 demideify
 dijudication
 demibarrel
-damoisel
 dines
 diclinic
 dominick
@@ -16518,6 +16517,7 @@ deadwoods
 draegermen
 dadder
 dynamogenic
+damoisel
 dolichocephalism
 dulciana
 diadrom
