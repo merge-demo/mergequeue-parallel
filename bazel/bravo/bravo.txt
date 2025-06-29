@@ -7040,6 +7040,7 @@ benzines
 besnowing
 besognier
 besoil
+besneer
 bookcraft
 butterwoman
 bioplasms
@@ -13175,7 +13176,6 @@ barded
 belive
 bridgemaker
 bovines
-besneer
 bullhorns
 baronize
 bangtail
