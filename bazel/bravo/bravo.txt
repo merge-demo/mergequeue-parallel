@@ -3173,6 +3173,7 @@ bhaga
 bollandist
 blastozooid
 bromelia
+bowstring
 beadily
 basidia
 basidigital
@@ -13922,7 +13923,6 @@ billback
 burka
 brushoffs
 boskages
-bowstring
 burial
 bacteriotropic
 binoculate
