@@ -13316,6 +13316,7 @@ antecedent
 anisostaminous
 anisosthenic
 anisostichous
+alexas
 anisostomous
 animose
 anisotonic
@@ -14946,7 +14947,6 @@ anadrom
 apagoges
 anticonstitution
 anticonstitutional
-alexas
 anticonstitutionally
 amorosity
 apicula

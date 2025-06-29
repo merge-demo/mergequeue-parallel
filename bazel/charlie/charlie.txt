@@ -7243,6 +7243,7 @@ centring
 centrings
 clivia
 cavaedia
+centerwise
 centriole
 chalazogam
 codebreak
@@ -13379,7 +13380,6 @@ crabbit
 curvated
 cycloplegic
 cyclopteridae
-centerwise
 cyclopteroid
 compactification
 czarist
