@@ -15952,7 +15952,6 @@ adnex
 angelfish
 autoloading
 antirabies
-antirachitic
 aponeurositis
 anisomelia
 antirachitically
@@ -17882,6 +17881,7 @@ approaching
 anemometer
 approbated
 anosia
+antirachitic
 anachronist
 approbating
 approbations
