@@ -14745,7 +14745,6 @@ dobson
 dactyloscopic
 detained
 decahedral
-doctorbird
 doc
 drainerman
 dekametre
@@ -15482,6 +15481,7 @@ doggery
 domitian
 dacus
 domn
+doctorbird
 dermatoglyphic
 ductule
 domnei
