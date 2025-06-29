@@ -3605,7 +3605,6 @@ blithelike
 batidaceous
 becrowds
 beshouted
-batiking
 boise
 boloneys
 birlinn
@@ -12525,6 +12524,7 @@ bowker
 bonewort
 bauk
 barbellulae
+batiking
 backdoor
 blazed
 bonfires
