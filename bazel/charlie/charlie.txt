@@ -8566,6 +8566,7 @@ champleve
 chams
 chamsin
 compositionally
+commissurotomies
 cataclysmatic
 congealedness
 chimbley
@@ -20171,7 +20172,6 @@ commissure
 confederacy
 calceolately
 chalcidic
-commissurotomies
 commit
 commitment
 clavecinist
