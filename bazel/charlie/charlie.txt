@@ -10500,7 +10500,6 @@ childish
 cogeneric
 created
 childless
-childly
 contacting
 childliest
 conceptualizing
@@ -21540,6 +21539,7 @@ concubinate
 chatelaine
 carpenteria
 conchinine
+childly
 concubine
 chasteningly
 concubines
