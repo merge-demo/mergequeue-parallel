@@ -11421,7 +11421,6 @@ assets
 artinite
 aneroids
 alterations
-apiphobia
 amsath
 antholysis
 antisquama
@@ -18431,6 +18430,7 @@ arbitration
 arbitrative
 ambages
 appetent
+apiphobia
 adzer
 arbitratrix
 acquirements
