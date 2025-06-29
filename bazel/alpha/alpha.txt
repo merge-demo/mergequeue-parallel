@@ -12265,7 +12265,6 @@ antipestilent
 academised
 ambay
 amiranha
-andamenta
 allopatric
 astrophotography
 andantino
@@ -18738,6 +18737,7 @@ alebench
 angioneoplasm
 archenia
 ailantine
+andamenta
 archeocyte
 acneform
 archeolithic
