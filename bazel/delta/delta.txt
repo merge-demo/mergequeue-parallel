@@ -281,6 +281,7 @@ daguerreotyped
 daguerreotyping
 digitonin
 dreadnaught
+disagreement
 docken
 debugged
 disassiduity
@@ -6710,7 +6711,6 @@ diascopy
 deadhead
 desiderata
 debagged
-disagreement
 dahabiyas
 desiderated
 demikindred
