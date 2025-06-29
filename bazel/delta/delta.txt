@@ -3920,6 +3920,7 @@ derivation
 dactyloid
 dejects
 dejecture
+downplays
 dejeration
 dejeuner
 dekadrachm
@@ -16310,7 +16311,6 @@ dissidently
 dvaita
 downpipe
 downplay
-downplays
 dozenth
 disagreeable
 decidability
