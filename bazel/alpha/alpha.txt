@@ -11390,7 +11390,6 @@ absinthe
 admire
 ampul
 admonitory
-anhydremia
 apodosis
 ampullary
 ampullate
@@ -16611,6 +16610,7 @@ aperient
 aperients
 albronze
 aperiodically
+anhydremia
 ambulanced
 average
 aperiodicity
