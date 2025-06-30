@@ -4970,7 +4970,6 @@ coulometry
 cartist
 cartloads
 clicket
-cartmaking
 cartobibliography
 columbia
 cartogram
@@ -31668,6 +31667,7 @@ caseins
 consumed
 cochurchwarden
 civies
+cartmaking
 cushy
 cyclarthrodial
 casked
