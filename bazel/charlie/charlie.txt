@@ -22322,7 +22322,6 @@ coting
 congregational
 closeout
 caterwauling
-congregationalism
 cosmogony
 congregationalist
 circumnavigated
@@ -28293,6 +28292,7 @@ cephalothoracic
 carabineer
 cabotages
 crateriform
+congregationalism
 cratering
 comatik
 cerithioid
