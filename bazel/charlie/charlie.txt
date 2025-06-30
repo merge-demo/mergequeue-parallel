@@ -3334,7 +3334,6 @@ chelates
 caponata
 chloroacetic
 capone
-caponette
 caponier
 caponiere
 caponiers
@@ -12780,6 +12779,7 @@ chamaesaura
 crippingly
 cuisinary
 chulpa
+caponette
 cabassou
 chultun
 copyism
