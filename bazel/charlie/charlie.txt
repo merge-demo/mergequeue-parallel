@@ -4003,6 +4003,7 @@ carcharodont
 correctify
 carcinemia
 croquettes
+chokeberry
 carcinogenesis
 carcinogenic
 carcinoid
@@ -11531,7 +11532,6 @@ calumnies
 costless
 chokage
 chairer
-chokeberry
 certif
 catastrophically
 chokeberries
