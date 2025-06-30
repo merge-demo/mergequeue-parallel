@@ -3018,6 +3018,7 @@ cantingness
 clairschach
 concent
 cantles
+carraway
 cantlet
 cantline
 cantling
@@ -4837,7 +4838,6 @@ chronobarometer
 carragheenin
 conceitless
 carrat
-carraway
 cortinate
 carrel
 curveting
