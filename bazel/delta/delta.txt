@@ -6395,6 +6395,7 @@ dustmen
 diplotene
 disassociation
 dorsiventral
+discourteously
 derodidymus
 derog
 demeanour
@@ -17641,7 +17642,6 @@ dromornis
 dtd
 dielectrical
 dicranterian
-discourteously
 dtente
 diplococci
 draftee
