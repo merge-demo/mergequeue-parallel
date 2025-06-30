@@ -1420,7 +1420,6 @@ disoccident
 deprest
 disparagingly
 dispenditure
-dawnward
 dud
 drooliest
 dipropyl
@@ -3694,6 +3693,7 @@ degreewise
 dorsers
 degressive
 dactylopterus
+dawnward
 daunting
 daffish
 dictamnus
