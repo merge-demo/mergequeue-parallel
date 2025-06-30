@@ -15347,7 +15347,6 @@ acalypterae
 antilegomena
 antilemic
 abrosia
-antilethargic
 antiliberal
 appetizer
 antiliberalness
@@ -24539,6 +24538,7 @@ ammonea
 auxospore
 anachorism
 anticommunism
+antilethargic
 aniba
 auxotonic
 auxotox
