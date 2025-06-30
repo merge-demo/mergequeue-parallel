@@ -9594,7 +9594,6 @@ computational
 checks
 chapatty
 checkstring
-cuissen
 checksum
 construct
 checksumming
@@ -11185,6 +11184,7 @@ chlamydobacteriales
 clamours
 castrations
 chlamydosaurus
+cuissen
 chlamydoselachidae
 chlamydozoa
 chlamydozoan
