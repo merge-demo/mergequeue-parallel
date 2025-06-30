@@ -6430,6 +6430,7 @@ cephaloplegic
 cautioner
 cautioners
 cornutus
+calcarea
 cienega
 cautiones
 canard
@@ -29743,7 +29744,6 @@ croodle
 challenged
 cheder
 colpheg
-calcarea
 confessory
 crookbacked
 crookbill
