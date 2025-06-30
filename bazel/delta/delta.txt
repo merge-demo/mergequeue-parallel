@@ -1758,7 +1758,6 @@ dustheaps
 doorpost
 deaving
 debacle
-decolorization
 drydenism
 disregardfully
 dorsolum
@@ -14027,6 +14026,7 @@ distractive
 defending
 dumpling
 disproportion
+decolorization
 disorb
 distractively
 dicycle
