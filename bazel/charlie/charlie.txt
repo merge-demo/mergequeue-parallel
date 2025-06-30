@@ -11514,7 +11514,6 @@ choile
 choiler
 choir
 choirboys
-choired
 choirlike
 conoidally
 choristoma
@@ -24351,6 +24350,7 @@ cooled
 changepocket
 crosshairs
 cavally
+choired
 cooley
 capitatum
 cirsotome
