@@ -6325,7 +6325,6 @@ dermatotherapy
 depurated
 dermatozoon
 deadens
-dermatozoonosis
 deutzias
 dryophyllum
 dermatozzoa
@@ -17050,6 +17049,7 @@ dressline
 dumas
 divinityship
 discumber
+dermatozoonosis
 denning
 draftily
 dobbed
