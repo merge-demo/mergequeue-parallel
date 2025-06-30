@@ -599,6 +599,7 @@ chamaeprosopic
 capsicin
 cadweed
 competitorship
+coenzyme
 cadwell
 cinerarium
 caracal
@@ -1602,7 +1603,6 @@ calls
 callum
 calluna
 calamarioid
-coenzyme
 creasy
 calmant
 cytopathology
