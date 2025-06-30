@@ -4905,7 +4905,6 @@ apterygogenea
 aeroides
 astrogator
 amido
-aerolites
 avulsions
 admonitioner
 aerolithology
@@ -12539,6 +12538,7 @@ annelidian
 appenditious
 aligns
 aeropleustic
+aerolites
 aucupate
 avowter
 acinetarian
