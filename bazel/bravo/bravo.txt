@@ -4209,6 +4209,7 @@ beaucoup
 beaued
 biblicistic
 barometrography
+borborygmus
 brl
 beaufet
 belittling
@@ -13032,7 +13033,6 @@ bagattini
 borboridae
 borborygmatic
 biggin
-borborygmus
 bettongia
 bacteriolysis
 bagataway
