@@ -8031,7 +8031,6 @@ crystalliform
 clottedness
 chablis
 coelarium
-crannog
 caliches
 clergies
 chabouk
@@ -19278,6 +19277,7 @@ colodyspepsia
 cuidado
 coloenteritis
 closefitting
+crannog
 colog
 choel
 colognes
