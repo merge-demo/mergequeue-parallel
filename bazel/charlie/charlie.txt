@@ -1618,7 +1618,6 @@ crureus
 calmest
 calmier
 calmiest
-coeducationally
 calming
 calmness
 calmnesses
@@ -16475,6 +16474,7 @@ conjecturer
 cloaklet
 cathodic
 culbert
+coeducationally
 cowichan
 citrange
 costumist
