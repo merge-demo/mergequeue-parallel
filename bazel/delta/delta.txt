@@ -12898,7 +12898,6 @@ discepting
 dissatisfies
 dismortgaging
 divisionism
-dismountable
 drawls
 dismounted
 dryope
@@ -14095,6 +14094,7 @@ districted
 districting
 defoaming
 decarnate
+dismountable
 divoto
 deltarium
 districtly
