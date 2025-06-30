@@ -3804,7 +3804,6 @@ carbodynamite
 carbohemoglobin
 calamodendron
 cribbling
-carbohydrase
 cannibalism
 carbohydrate
 cardiotrophia
@@ -9957,6 +9956,7 @@ calqued
 chemotherapist
 countersignatures
 carcinomas
+carbohydrase
 crackjaw
 chemotic
 cephalotaceous
