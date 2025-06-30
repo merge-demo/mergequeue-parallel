@@ -12477,7 +12477,6 @@ attenuated
 amanuenses
 arterial
 anemometrographically
-alfilaria
 azoturia
 anemonal
 anemone
@@ -19927,6 +19926,7 @@ ammine
 armour
 armourbearer
 avalanched
+alfilaria
 adossed
 armoured
 armourer

@@ -3197,6 +3197,7 @@ blatters
 basifugal
 barkpeel
 biltong
+brimmimg
 basigynium
 basilarchia
 blotchily
@@ -8862,7 +8863,6 @@ binturong
 bastant
 binukau
 bleariness
-brimmimg
 bathypelagic
 bioaccumulation
 bioactivities
