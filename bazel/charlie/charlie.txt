@@ -8524,7 +8524,6 @@ clubridden
 champaks
 cholines
 commensalistic
-champart
 champe
 cayuvava
 champer
@@ -17874,6 +17873,7 @@ codfisher
 counterpassion
 coniophora
 congressive
+champart
 codfishing
 clysterize
 chrestomathy
