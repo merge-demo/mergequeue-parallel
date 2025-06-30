@@ -10364,7 +10364,6 @@ consultory
 critchfield
 canariote
 chickwit
-chicle
 chamberfellow
 chicly
 chicness
@@ -29575,6 +29574,7 @@ coadunating
 critters
 crittur
 cardiokinetic
+chicle
 consular
 crivetz
 constraint
