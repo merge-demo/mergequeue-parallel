@@ -659,6 +659,7 @@ abbreviated
 autotomic
 azumbre
 azoted
+acidometry
 abominations
 abominator
 albugineous
@@ -2292,7 +2293,6 @@ acidology
 acidometer
 afflation
 anacardium
-acidometry
 antinationalization
 asmear
 acidophilic
