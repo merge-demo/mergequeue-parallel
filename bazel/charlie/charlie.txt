@@ -9130,7 +9130,6 @@ coimplicant
 charpai
 capacitates
 crataegus
-charpit
 canape
 charpoys
 costing
@@ -31487,6 +31486,7 @@ currycombing
 carpolite
 costa
 conductory
+charpit
 currycombs
 cogitators
 curricula
