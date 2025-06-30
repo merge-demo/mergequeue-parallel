@@ -1958,7 +1958,6 @@ alveolites
 acce
 acetyltropeine
 acetylurea
-analyse
 advehent
 armorial
 acetins
@@ -11493,6 +11492,7 @@ anabantid
 arguses
 avast
 aeneus
+analyse
 advertisement
 anabantidae
 anabaptistic
