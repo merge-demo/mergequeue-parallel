@@ -15413,7 +15413,6 @@ clapboarding
 cleidomastoid
 clapboards
 clapcake
-chortled
 coran
 caulkings
 clapdish
@@ -29073,6 +29072,7 @@ credendum
 crimsonness
 crimsons
 crin
+chortled
 crinal
 ceresine
 contrapone
