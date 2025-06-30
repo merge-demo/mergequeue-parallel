@@ -2668,6 +2668,7 @@ decompresses
 detectaphone
 demiplacate
 decompressive
+deodorizer
 dogies
 duckies
 dcollet
@@ -18638,7 +18639,6 @@ disbursals
 deluded
 dutymonger
 deactivations
-deodorizer
 disalignment
 decasyllable
 denunciatively

@@ -15390,7 +15390,6 @@ abscised
 antiloquy
 asafoetida
 antilottery
-antimacassar
 antimacassars
 amidocaffeine
 antimalaria
@@ -16582,6 +16581,7 @@ anabrosis
 apaturia
 augustness
 acknowledgeable
+antimacassar
 ascribed
 aped
 apedom
