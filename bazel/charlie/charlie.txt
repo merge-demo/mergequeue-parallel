@@ -11591,7 +11591,6 @@ contestation
 cleavingly
 chold
 choleate
-cholecyanine
 couchee
 cholecystectasia
 cholecystectomy
@@ -30970,6 +30969,7 @@ cumbering
 catostomid
 cumberland
 codefendants
+cholecyanine
 cumberless
 coix
 cumbersomeness
