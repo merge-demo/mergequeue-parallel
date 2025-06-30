@@ -2906,6 +2906,7 @@ bioenvironmentaly
 barrelfuls
 baguettes
 blind
+bootikins
 benefactor
 bushers
 barreling
@@ -7376,7 +7377,6 @@ betides
 bego
 brazilin
 bombous
-bootikins
 bighting
 beautifications
 boluses
