@@ -3049,7 +3049,6 @@ breachy
 barwal
 bannack
 blague
-benzophenoxazine
 boilerworks
 breather
 blastplate
@@ -8811,6 +8810,7 @@ beraking
 bettering
 biniodide
 berakoth
+benzophenoxazine
 biniou
 binitarianism
 bubonic
