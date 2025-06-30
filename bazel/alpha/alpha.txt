@@ -5745,6 +5745,7 @@ agrised
 amplifier
 ashmen
 agastric
+anatomizing
 awacs
 apickaback
 ancestor
@@ -12093,7 +12094,6 @@ anatomize
 anatomized
 anatomizer
 advisiveness
-anatomizing
 anatopism
 antiphlogistic
 adorally
