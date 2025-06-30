@@ -3415,7 +3415,6 @@ briny
 bastards
 biotechnologicaly
 bioptic
-barrelfishes
 baster
 bastille
 bastilles
@@ -13272,6 +13271,7 @@ bogeyed
 branchstand
 bouche
 bangs
+barrelfishes
 bromide
 bullydom
 blitzkriegs
