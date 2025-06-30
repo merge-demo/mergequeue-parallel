@@ -10959,7 +10959,6 @@ curators
 chirological
 chirologically
 classicalness
-cartelism
 cokers
 crost
 ceramic
@@ -24535,6 +24534,7 @@ copelata
 copeman
 copemate
 copending
+cartelism
 colonialist
 calorizes
 copenetrate

@@ -529,6 +529,7 @@ dermaskeleton
 dama
 damageability
 disodic
+dealate
 damageably
 detonatable
 damaged
@@ -1592,7 +1593,6 @@ deafness
 deairing
 discernableness
 deairs
-dealate
 drupelet
 dealbate
 daks
