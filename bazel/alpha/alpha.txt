@@ -15282,7 +15282,6 @@ aidless
 admeasured
 archontic
 antihierarchies
-antihierarchism
 amortise
 antihygienic
 akepiros
@@ -24670,6 +24669,7 @@ averral
 apparatuses
 alii
 adelopod
+antihierarchism
 angiogenic
 antiracial
 averroist
