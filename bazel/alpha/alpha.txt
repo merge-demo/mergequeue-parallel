@@ -194,6 +194,7 @@ aleshot
 azophen
 algebras
 acatastasia
+apostrophi
 antimiasmatic
 afraid
 abbeystede
@@ -920,7 +921,6 @@ actinopterygii
 alforge
 absolutions
 airworthiest
-apostrophi
 adversant
 absolutist
 absolutistically
