@@ -9330,6 +9330,7 @@ barman
 backarrow
 birchwood
 baccaras
+botryolite
 bindweb
 barcaroles
 birdbander
@@ -16321,7 +16322,6 @@ breadthen
 baddeleyite
 bacchius
 brujeria
-botryolite
 benchmarking
 balalaikas
 brujos
