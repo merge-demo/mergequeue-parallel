@@ -7737,6 +7737,7 @@ ciceros
 caramelising
 cermets
 commissar
+climath
 cern
 cavaliership
 cityward
@@ -19587,7 +19588,6 @@ clours
 columbate
 columbeion
 collarinos
-climath
 columbiad
 columbid
 columbidae
