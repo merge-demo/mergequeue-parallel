@@ -137,6 +137,7 @@ cardiolith
 catholici
 crudes
 cabled
+characterising
 cablegram
 cablegrams
 cruors
@@ -8912,7 +8913,6 @@ characterise
 characterised
 columnize
 cumulus
-characterising
 chanted
 clodbreaker
 cuniform
