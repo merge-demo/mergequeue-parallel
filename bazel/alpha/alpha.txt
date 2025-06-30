@@ -8889,7 +8889,6 @@ allodial
 anteroflexion
 allodiality
 asherim
-amphistomoid
 apiaries
 alloeostropha
 areason
@@ -16303,6 +16302,7 @@ antiuratic
 antiurease
 acetazolamide
 autotrepanation
+amphistomoid
 angioplerosis
 adulteries
 antecaecal
