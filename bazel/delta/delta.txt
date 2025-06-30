@@ -4396,6 +4396,7 @@ demarcatordemarcators
 disks
 demarchy
 dinical
+distort
 demaree
 dying
 demarkation
@@ -8734,7 +8735,6 @@ diogenite
 decors
 delicioso
 diastrophically
-distort
 diatesseron
 diathermance
 dichrooscopic
