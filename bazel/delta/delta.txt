@@ -8775,7 +8775,6 @@ diatomist
 dot
 debadge
 diaporesis
-demimonk
 decime
 distastefully
 dentalgia
@@ -18516,6 +18515,7 @@ dustwoman
 diocesans
 decolonisation
 disownable
+demimonk
 demisavage
 durbars
 dissonate
