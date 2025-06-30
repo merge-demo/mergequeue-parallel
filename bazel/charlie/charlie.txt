@@ -2458,7 +2458,6 @@ carpers
 cirrostome
 coffeeberry
 cancrinite
-cancrisocial
 cancroid
 clientele
 contuse
@@ -14911,6 +14910,7 @@ cytopathogenicity
 cytopathologic
 cytopathological
 cachucho
+cancrisocial
 coenactor
 condominate
 cytopathologically
