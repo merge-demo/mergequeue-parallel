@@ -3072,7 +3072,6 @@ dentaria
 defacer
 dentiscalp
 desole
-delible
 designated
 daddock
 degradand
@@ -8469,6 +8468,7 @@ dialuric
 diamagnet
 diamagnetic
 diamagnetism
+delible
 dredging
 diamant
 ditrochee
