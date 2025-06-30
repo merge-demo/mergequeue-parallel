@@ -16247,7 +16247,6 @@ anilid
 antitintinnabularian
 atmidometry
 argentous
-antitypal
 antityphoid
 amaroid
 antitypical
@@ -16495,6 +16494,7 @@ amurcous
 agathism
 analyzers
 aortomalaxis
+antitypal
 arabianize
 alkaptonuria
 antichoromanic
