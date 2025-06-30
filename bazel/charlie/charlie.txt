@@ -15251,6 +15251,7 @@ clairvoyances
 clairvoyancy
 clairvoyant
 chinaberry
+culicifuge
 claystone
 curtained
 cynomoriaceous
@@ -30782,7 +30783,6 @@ culices
 cramble
 cytoparaplastin
 culicifugal
-culicifuge
 culicinae
 canisiana
 cistic
