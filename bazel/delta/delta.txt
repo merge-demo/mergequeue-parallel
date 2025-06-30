@@ -8289,6 +8289,7 @@ diagonalizable
 diagonalization
 diagnosing
 dandyprat
+downtowns
 duel
 diagonals
 demoded
@@ -14676,7 +14677,6 @@ dizoic
 dizzen
 dizzies
 dealcoholization
-downtowns
 dizzily
 dramaturgic
 doter
