@@ -7518,6 +7518,7 @@ ceratoid
 cartellist
 ceratonia
 cicerones
+chais
 counterbrace
 cardamoms
 chlorophyl
@@ -22751,7 +22752,6 @@ cribration
 centralism
 carucated
 conscionableness
-chais
 consciously
 consciousness
 conscive
