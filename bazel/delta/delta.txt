@@ -9969,6 +9969,7 @@ densimetry
 dimyaria
 downwardness
 dimidiate
+deviators
 dispart
 dimidiation
 dissinew
@@ -12236,7 +12237,6 @@ deltoidal
 durous
 detector
 deluding
-deviators
 dysfunctions
 disfurnish
 disfurnished
