@@ -2938,6 +2938,7 @@ boobishness
 blobby
 barricaded
 beltian
+bitterling
 benedicts
 barricaders
 barricadoes
@@ -3373,7 +3374,6 @@ bobbishly
 bassie
 betsey
 bassinet
-bitterling
 basson
 blastodermatic
 bassoonists
