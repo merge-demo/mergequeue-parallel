@@ -5851,7 +5851,6 @@ dextrocerebral
 depositors
 dowel
 dressings
-divestible
 deposits
 dulcitol
 dichotomously
@@ -7846,6 +7845,7 @@ dorsad
 devourer
 devourers
 discourseless
+divestible
 doers
 danziger
 devouringly
