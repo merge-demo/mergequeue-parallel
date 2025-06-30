@@ -5097,7 +5097,6 @@ blazoning
 befittingness
 boundedness
 breek
-beflag
 barkevikite
 bamboo
 binits
@@ -15600,6 +15599,7 @@ boner
 bailage
 bezette
 buskle
+beflag
 brittleness
 batrachotoxin
 belder
