@@ -2214,7 +2214,6 @@ campos
 conuropsis
 circumfusile
 capotes
-campshed
 campsheeting
 campsite
 compasser
@@ -16070,6 +16069,7 @@ computative
 collusion
 clevises
 clew
+campshed
 casemated
 counterbeating
 clewgarnet

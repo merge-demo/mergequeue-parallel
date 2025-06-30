@@ -4307,6 +4307,7 @@ agazed
 aktiebolag
 antickt
 anorthic
+anatolian
 aterian
 adsmith
 atelectasis
@@ -6613,7 +6614,6 @@ ailed
 aileron
 adradius
 aboon
-anatolian
 aporetical
 amidoketone
 albedos
