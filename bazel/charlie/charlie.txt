@@ -19077,7 +19077,6 @@ calycanthemy
 colletside
 combustibilities
 cresorcin
-colly
 collibert
 confineless
 colliculate
@@ -19941,6 +19940,7 @@ coml
 confessionals
 conjugating
 commandable
+colly
 commandatory
 commanded
 confervaceae
