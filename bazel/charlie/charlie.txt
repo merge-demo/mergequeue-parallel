@@ -16496,7 +16496,6 @@ christliness
 clobber
 clobbered
 clobbers
-cloche
 clochette
 clockbird
 comodato
@@ -29450,6 +29449,7 @@ crisscrossed
 crisscrosses
 crisset
 cryst
+cloche
 crystaling
 commentatorially
 cantharis
