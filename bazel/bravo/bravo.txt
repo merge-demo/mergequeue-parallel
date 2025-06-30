@@ -10000,6 +10000,7 @@ bn
 baroscopical
 bargainor
 biverb
+brocatello
 beblear
 bedfast
 bivocal
@@ -15692,7 +15693,6 @@ boatowner
 bacillogenous
 brocatelle
 beowulf
-brocatello
 brocatels
 billionths
 baptist
