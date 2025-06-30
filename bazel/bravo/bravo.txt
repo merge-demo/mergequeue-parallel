@@ -15838,7 +15838,6 @@ blushet
 boliche
 buzzes
 bromelins
-batler
 bryozoa
 biphasic
 bromes
@@ -16135,6 +16134,7 @@ boughless
 bdellidae
 balklines
 brotheler
+batler
 bulla
 brimstony
 bristletail
