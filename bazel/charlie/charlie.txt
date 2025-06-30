@@ -5481,7 +5481,6 @@ conchobor
 chains
 cutaneal
 casuistically
-cyclopedia
 casuistry
 catpipe
 colic
@@ -12378,6 +12377,7 @@ carcinogen
 chromatician
 chromaticness
 chromatid
+cyclopedia
 conuses
 chromatin
 caucasoids
