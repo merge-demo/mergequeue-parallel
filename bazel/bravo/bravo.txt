@@ -2130,7 +2130,6 @@ banter
 banterers
 bloodlessness
 bantery
-boxfishes
 bantering
 banteringly
 banty
@@ -17949,6 +17948,7 @@ berserk
 bathybic
 bostrychid
 baryta
+boxfishes
 bushwahs
 basemen
 bushlike
