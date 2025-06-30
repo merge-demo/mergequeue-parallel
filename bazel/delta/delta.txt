@@ -3699,7 +3699,6 @@ daffish
 dictamnus
 disentitling
 degust
-dasnt
 degusted
 dregginess
 dewlaps
@@ -10684,6 +10683,7 @@ delegati
 dermostenosis
 drabby
 dyspeptic
+dasnt
 danainae
 dinornithoid
 diminuting
