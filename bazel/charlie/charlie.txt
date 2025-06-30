@@ -2230,7 +2230,6 @@ campus
 chromatic
 campusses
 campward
-chametz
 cerebrotomy
 claiming
 camshach
@@ -10058,6 +10057,7 @@ cherrystone
 cherrystones
 canephors
 cephalotripsy
+chametz
 chersydridae
 chert
 childishness
