@@ -443,7 +443,6 @@ borecole
 backscraper
 backset
 basename
-brushless
 brinjaree
 begalls
 betowered
@@ -2627,6 +2626,7 @@ barkless
 battening
 bandusia
 barkometer
+brushless
 bescorch
 batrachite
 beeth
