@@ -4679,6 +4679,7 @@ caroubier
 conjurership
 cryology
 carousal
+conditionals
 coverture
 carousals
 cabmen
@@ -7401,7 +7402,6 @@ cephalodiscida
 cephalodiscus
 curtains
 cephalodium
-conditionals
 cephalofacial
 cephalogram
 cephaloid

@@ -2580,6 +2580,7 @@ desistence
 diplocephalous
 decoat
 decoct
+dithyrambic
 demiquaver
 dashes
 decocting
@@ -14183,7 +14184,6 @@ disunion
 drolly
 download
 disunites
-dithyrambic
 disunity
 disprofess
 deteriorism
