@@ -3643,7 +3643,6 @@ deglycerin
 deglory
 disquantity
 dermatoxerasia
-deglut
 dec
 disarrangement
 decubation
@@ -3871,6 +3870,7 @@ deciduous
 dicellate
 deionizations
 dichroiscope
+deglut
 diatropic
 dyspnoea
 deionize
