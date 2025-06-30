@@ -4614,7 +4614,6 @@ bedecked
 bedrid
 bebannered
 bedecking
-bulletproofed
 broadens
 bedehouse
 byrewards
@@ -14310,6 +14309,7 @@ bianchite
 bragly
 beneficiaire
 broachers
+bulletproofed
 blubbing
 barefit
 benthos
