@@ -3173,7 +3173,6 @@ affrighting
 audiometrist
 approvement
 antiscians
-anamnia
 admonished
 acropathy
 actualistic
@@ -3987,6 +3986,7 @@ administerings
 aeschylus
 athodyd
 administrant
+anamnia
 allegiantly
 administrates
 antihemolytic
