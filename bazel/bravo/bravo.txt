@@ -3306,7 +3306,6 @@ bathflower
 bandurria
 basketmaking
 bonnets
-batikuling
 basketware
 bluecoat
 basketwoman
@@ -14537,6 +14536,7 @@ brandyball
 bounciest
 branchiostomous
 branchireme
+batikuling
 branchless
 banefulness
 bollocks
