@@ -2113,7 +2113,6 @@ decancellated
 disciplinarian
 dermatalgia
 debaser
-decipher
 decandria
 didst
 decandrous
@@ -17486,6 +17485,7 @@ dipleurogenesis
 drowning
 drowses
 drowsier
+decipher
 dumous
 damnyankee
 discarder
