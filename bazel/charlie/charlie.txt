@@ -1572,7 +1572,6 @@ corrobboree
 callorhynchidae
 callosal
 chronographs
-callose
 crafts
 calloses
 callosities
@@ -15251,6 +15250,7 @@ clairvoyances
 clairvoyancy
 clairvoyant
 chinaberry
+callose
 claystone
 curtained
 cynomoriaceous
