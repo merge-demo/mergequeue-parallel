@@ -12989,7 +12989,6 @@ anhaemolytic
 anhalamine
 ataraxics
 anhalonidine
-anhalonin
 anhalonine
 antioptimistic
 ackton
@@ -25271,6 +25270,7 @@ azymite
 azimuth
 azimuthal
 acceded
+anhalonin
 aulete
 azimuths
 azine
