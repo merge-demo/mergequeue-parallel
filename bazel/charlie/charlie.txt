@@ -10320,6 +10320,7 @@ calctuffs
 chichling
 chick
 chelidosaurus
+cymoscope
 chickabiddy
 chemosorb
 cachoeira
@@ -13687,7 +13688,6 @@ cymophanous
 cymophenol
 cercopithecoid
 cymophobia
-cymoscope
 coattests
 christabel
 chalazal
