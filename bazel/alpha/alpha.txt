@@ -1811,6 +1811,7 @@ afterage
 anthropomorphous
 acephalist
 adumbratively
+aristas
 acephalocyst
 alveloz
 assembles
@@ -19248,7 +19249,6 @@ arenilitic
 arenites
 anthraquinonyl
 alberca
-aristas
 absentmindedly
 arenoid
 australis
