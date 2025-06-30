@@ -10596,6 +10596,7 @@ botherer
 bransle
 blatting
 blattodea
+benzoxy
 blattoid
 brinny
 boresomely
@@ -16286,7 +16287,6 @@ bespete
 brugh
 brugnatellite
 bizone
-benzoxy
 bluehearted
 broomsquire
 bulimic
