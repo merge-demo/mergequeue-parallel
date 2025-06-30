@@ -4979,6 +4979,7 @@ comminate
 cartography
 cypseli
 cartographic
+cyanocobalamine
 cartographical
 cartographically
 carton
@@ -13042,7 +13043,6 @@ clough
 curpel
 cyanochroia
 cyanocobalamin
-cyanocobalamine
 cyanoderma
 catchland
 cantrap
