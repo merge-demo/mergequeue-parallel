@@ -2869,7 +2869,6 @@ acrophonic
 astrol
 ascophorous
 acropodium
-acropoleis
 acuminated
 acropolitan
 acropora
@@ -19511,6 +19510,7 @@ autecious
 anesthesiant
 asynchronous
 aramayoite
+acropoleis
 accede
 argumentator
 adjacency
