@@ -16644,7 +16644,6 @@ dragoonage
 dragrope
 disedification
 decades
-dexterousness
 debiteuse
 deathbeds
 dragstaff
@@ -17878,6 +17877,7 @@ duelers
 duelist
 duelistic
 disinfest
+dexterousness
 dispatchers
 durgan
 disacknowledgements

@@ -10032,6 +10032,7 @@ brutisms
 bixaceae
 bixaceous
 blondeness
+blenny
 brabagious
 bixin
 blackfoot
@@ -18068,7 +18069,6 @@ bustlers
 bustles
 biologize
 bustlingly
-blenny
 bloom
 banzais
 busts
