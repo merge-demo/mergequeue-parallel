@@ -9725,7 +9725,6 @@ cheetahs
 cheetul
 casse
 coagent
-cheewink
 cheezit
 chef
 chefs
@@ -28143,6 +28142,7 @@ cleistotcia
 calibrations
 communitorium
 craniomalacia
+cheewink
 craniomaxillary
 cataloging
 craniometry
