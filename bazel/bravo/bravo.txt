@@ -1473,7 +1473,6 @@ bastardise
 balkiest
 balkiness
 baloo
-balking
 budgy
 backbiter
 boyarisms
@@ -4856,6 +4855,7 @@ briefings
 bedsitter
 batmen
 backwraps
+balking
 baudekins
 by
 beltwise
