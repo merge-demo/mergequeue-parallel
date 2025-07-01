@@ -21548,7 +21548,6 @@ concubitancy
 concubitous
 conculcate
 concupy
-concupiscence
 colin
 concupiscible
 concupiscibleness
@@ -29607,6 +29606,7 @@ crocanthemum
 croceic
 croceine
 crocetin
+concupiscence
 ceratospongiae
 croche
 crocheted
