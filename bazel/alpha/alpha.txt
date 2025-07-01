@@ -19622,7 +19622,6 @@ arion
 ariose
 arrowless
 ariot
-aculeiform
 amidone
 arisaid
 alterius
@@ -19783,6 +19782,7 @@ acutate
 armamentarium
 autoskeleton
 antigalactic
+aculeiform
 attachable
 avigators
 armangite
