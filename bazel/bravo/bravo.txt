@@ -12697,7 +12697,6 @@ bordures
 bubbles
 bulbine
 burlecue
-bieennia
 boogum
 bourd
 bolshevism
@@ -14501,6 +14500,7 @@ branchiae
 bradyglossia
 belittler
 breeks
+bieennia
 bravados
 branchicolous
 besoothing
