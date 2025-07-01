@@ -2065,7 +2065,6 @@ disproportionally
 decal
 dodecylic
 dilatory
-decalage
 dinghy
 decalcifies
 dartle
@@ -3591,6 +3590,7 @@ debunker
 desexualization
 degass
 degassed
+decalage
 disappears
 dodecant
 degaussing
