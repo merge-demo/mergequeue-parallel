@@ -1580,6 +1580,7 @@ ballyrags
 bioelectrogenetic
 belat
 ballised
+bijou
 biradial
 britches
 binate
@@ -8398,7 +8399,6 @@ bijasal
 bijections
 bree
 bijective
-bijou
 bhandar
 bubs
 burbankian

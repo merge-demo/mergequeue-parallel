@@ -4892,7 +4892,6 @@ dormmice
 denicotinize
 demonish
 demagnetized
-devotionary
 demonishness
 disozonize
 dismaying
@@ -13423,6 +13422,7 @@ disform
 diffusion
 dennstaedtia
 disrated
+devotionary
 disgenic
 demultiplexes
 dandelions
