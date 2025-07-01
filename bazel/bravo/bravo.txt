@@ -2896,7 +2896,6 @@ batuque
 botanical
 bundies
 beglew
-beartongue
 blennometritis
 bonair
 bankweed
@@ -5189,6 +5188,7 @@ bounces
 befriending
 beleaf
 barns
+beartongue
 beadhouse
 bracteal
 bondfolk
