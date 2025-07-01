@@ -13987,7 +13987,6 @@ authorizers
 antebrachium
 amouret
 akeake
-antecavern
 antecedaneously
 antecede
 anapes
@@ -21651,6 +21650,7 @@ agistator
 antisi
 aerotonometer
 assentors
+antecavern
 asseize
 asself
 ayyubid
