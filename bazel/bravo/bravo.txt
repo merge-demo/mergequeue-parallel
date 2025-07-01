@@ -4280,6 +4280,7 @@ bebog
 blessing
 boggish
 brabbled
+bedlam
 bembecidae
 bathyscaph
 battledore
@@ -13768,7 +13769,6 @@ bovinities
 buffered
 buffet
 blesseder
-bedlam
 bogs
 boatful
 bovld
