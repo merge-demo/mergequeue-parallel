@@ -9460,6 +9460,7 @@ apyrene
 alteration
 abettals
 althein
+architeuthis
 amphophil
 abbot
 alterative
@@ -12022,7 +12023,6 @@ anastasimon
 anastasimos
 anastasius
 anemosis
-architeuthis
 anastate
 anastatus
 anastigmat
