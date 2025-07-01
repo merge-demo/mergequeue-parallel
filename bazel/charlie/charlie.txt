@@ -8935,7 +8935,6 @@ cassinette
 characters
 chasmogamy
 companiable
-cycads
 charadrii
 compendiousness
 charadriiformes
@@ -25587,6 +25586,7 @@ corporationism
 countergift
 coituses
 chasable
+cycads
 corporations
 calquing
 corporatist
