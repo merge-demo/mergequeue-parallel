@@ -10759,7 +10759,6 @@ dragonlike
 dips
 dipsacaceous
 deipnosophist
-dipsaceae
 disavow
 depriver
 dun
@@ -18534,6 +18533,7 @@ desulfurization
 darbs
 durians
 differ
+dipsaceae
 duricrust
 duridine
 desmidiaceae
