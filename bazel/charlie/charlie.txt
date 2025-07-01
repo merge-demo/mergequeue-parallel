@@ -7317,7 +7317,6 @@ century
 coda
 centurial
 concerto
-covenably
 centuriator
 conehead
 centuries
@@ -7634,6 +7633,7 @@ corydaline
 cophouse
 cerebrifugal
 cartoonists
+covenably
 cerebrize
 cerebrocardiac
 chairman
