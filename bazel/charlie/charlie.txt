@@ -918,6 +918,7 @@ cakewalking
 caressant
 carnotite
 caky
+cervicohumeral
 clientelage
 consecration
 cols
@@ -8480,7 +8481,6 @@ capeskin
 chamise
 chamises
 chamiso
-cervicohumeral
 caryopteris
 chamlet
 chamm
