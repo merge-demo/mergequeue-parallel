@@ -5730,7 +5730,6 @@ badman
 beliers
 blemishing
 belies
-braziery
 believability
 believer
 believers
@@ -13131,6 +13130,7 @@ bovids
 borning
 bornite
 baksheesh
+braziery
 bornites
 bornitic
 berob
