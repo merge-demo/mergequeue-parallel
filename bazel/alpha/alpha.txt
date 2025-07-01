@@ -5340,7 +5340,6 @@ aficionada
 aficionadas
 antiloemic
 afifi
-autogiro
 aecia
 afikomen
 afire
@@ -14763,6 +14762,7 @@ anticeremoniousness
 antichamber
 avener
 antiscii
+autogiro
 abbreviations
 antichance
 animatograph
