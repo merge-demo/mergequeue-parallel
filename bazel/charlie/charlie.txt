@@ -10135,7 +10135,6 @@ chetopod
 ceonocyte
 chetrum
 chlorohydrin
-consanguinities
 chetvert
 centrifugalise
 cyrtosis
@@ -12011,6 +12010,7 @@ chiefdom
 chorioidocyclitis
 coffeewood
 chorioidoiritis
+consanguinities
 catcalling
 choriomata
 chorions

@@ -5500,7 +5500,6 @@ boxed
 bardic
 bootyless
 beelines
-bobbled
 beydom
 bechained
 beige
@@ -12737,6 +12736,7 @@ breadthriders
 bookishness
 boxty
 breviate
+bobbled
 barrenwort
 barging
 ballant
