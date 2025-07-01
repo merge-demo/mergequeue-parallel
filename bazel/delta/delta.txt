@@ -2733,7 +2733,6 @@ devonshire
 dictates
 dissembling
 decore
-dewcup
 decorist
 dragged
 durum
@@ -10702,6 +10701,7 @@ derationalize
 dreadlessness
 demorage
 disendower
+dewcup
 drownproofing
 doyle
 disorganizing
