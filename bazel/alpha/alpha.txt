@@ -3091,6 +3091,7 @@ avowableness
 antispast
 arthrodia
 amplidyne
+affluents
 aequipalpia
 arthropody
 actinostome
@@ -14428,7 +14429,6 @@ atheromata
 anthropoclimatology
 acetaldehydase
 anthropodeoxycholic
-affluents
 achenium
 anthropogenic
 addictiveness
