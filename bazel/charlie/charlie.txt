@@ -14907,6 +14907,7 @@ complected
 cheapies
 cajolingly
 cytopathogenic
+cigar
 cytopathogenicity
 cytopathologic
 cytopathological
@@ -19991,7 +19992,6 @@ conjectural
 commassation
 carot
 commassee
-cigar
 commata
 claustra
 commaterial
