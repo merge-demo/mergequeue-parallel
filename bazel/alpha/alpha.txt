@@ -3909,7 +3909,6 @@ absinthes
 adjust
 animalculum
 asters
-adjustably
 abdal
 astre
 armozeen
@@ -14950,6 +14949,7 @@ alexas
 anticonstitutionally
 amorosity
 apicula
+adjustably
 alcamine
 anagnostes
 anticontagionist
