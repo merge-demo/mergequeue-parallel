@@ -13864,7 +13864,6 @@ bottomrying
 barleybird
 brooch
 biduous
-bang
 bowheads
 bowie
 balr
@@ -17060,6 +17059,7 @@ bullberry
 bitake
 baluga
 bullboat
+bang
 babylonite
 bullcomber
 bucentaur
