@@ -6,6 +6,7 @@ aahing
 aahs
 ampullae
 aaliis
+asclepiadic
 apocatastatic
 acromyodous
 anaitis
@@ -20994,7 +20995,6 @@ asclepiadae
 acerbating
 aircheck
 asclepiadean
-asclepiadic
 autosender
 asclepian
 asclepidin
