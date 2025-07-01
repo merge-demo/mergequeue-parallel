@@ -1526,7 +1526,6 @@ calliperer
 callipering
 callipers
 copopoda
-cocanucos
 crystal
 calliphorid
 celosia
@@ -11783,6 +11782,7 @@ chondrocostal
 chondrocranial
 circuitous
 chondrodystrophy
+cocanucos
 chondrodystrophia
 chondroditic
 couthest
