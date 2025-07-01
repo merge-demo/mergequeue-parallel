@@ -5982,7 +5982,6 @@ dingly
 damascening
 destalinize
 discussible
-dayfly
 deprogrammed
 drillstock
 dottling
@@ -14369,6 +14368,7 @@ dhaman
 diurna
 diurnal
 deuterogenic
+dayfly
 diurnally
 drug
 diurnals
