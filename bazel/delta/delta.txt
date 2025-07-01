@@ -3343,7 +3343,6 @@ discloister
 dicot
 dayment
 distressfulness
-dismast
 denims
 dullery
 definitor
@@ -18298,6 +18297,7 @@ delicts
 davenports
 diuretically
 desultorily
+dismast
 draftproof
 dunnish
 dunnite
