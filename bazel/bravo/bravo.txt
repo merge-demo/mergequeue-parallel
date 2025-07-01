@@ -10753,6 +10753,7 @@ backspierer
 bharata
 bossship
 bangiaceous
+beekeeper
 boron
 birdbrained
 beggarism
@@ -15053,7 +15054,6 @@ begot
 brents
 bearance
 brere
-beekeeper
 baffles
 bressummer
 binocular
