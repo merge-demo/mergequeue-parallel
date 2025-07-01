@@ -5448,7 +5448,6 @@ denunciator
 discrownment
 detd
 dauk
-denver
 disprover
 divagational
 detachable
@@ -8583,6 +8582,7 @@ druggists
 diaphone
 diaphones
 diaphony
+denver
 diaphysial
 diaphonic
 denegation
