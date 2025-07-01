@@ -17406,7 +17406,6 @@ apothesine
 anteportico
 amercers
 apotome
-apyretic
 asmalte
 apotropaically
 azlons
@@ -20420,6 +20419,7 @@ antimodernness
 artery
 augments
 arteria
+apyretic
 associating
 ariegite
 amplifications
