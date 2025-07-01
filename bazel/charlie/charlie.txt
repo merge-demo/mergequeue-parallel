@@ -18276,6 +18276,7 @@ coffeetime
 coffer
 corridor
 cofferdam
+corks
 claudetite
 chaetophorales
 cephalotome
@@ -25266,7 +25267,6 @@ consultant
 chiromant
 corkline
 calendars
-corks
 corkscrew
 cosmologists
 cyanotrichite
