@@ -739,6 +739,7 @@ badging
 buddhism
 banksman
 bifrost
+brethel
 badiaga
 breathy
 boneshaw
@@ -8622,7 +8623,6 @@ bartram
 billionism
 billionth
 braggartism
-brethel
 beldames
 bookable
 brightsomeness
