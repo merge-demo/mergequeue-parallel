@@ -8148,6 +8148,7 @@ boltonias
 boathouses
 bountith
 bidree
+barycentric
 bottle
 bindweeds
 bidri
@@ -15658,7 +15659,6 @@ broadloom
 bulbilis
 bands
 bogglebo
-barycentric
 barbering
 battarism
 brunonia
