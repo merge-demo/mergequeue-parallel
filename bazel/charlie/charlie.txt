@@ -104,6 +104,7 @@ cabezone
 cabful
 cabiai
 canephorus
+ceraunophone
 cronish
 cabildo
 cabildos
@@ -15273,7 +15274,6 @@ clamant
 circumnavigatory
 clamantly
 clamaroo
-ceraunophone
 cywydd
 clamative
 clamatory
