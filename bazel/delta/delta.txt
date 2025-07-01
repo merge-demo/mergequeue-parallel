@@ -4707,7 +4707,6 @@ disproved
 dapple
 dreamsiness
 disintoxicate
-demitasses
 demythologization
 demythologizations
 diplomatize
@@ -6796,6 +6795,7 @@ desynonymize
 dopatta
 demodex
 desiodothyroxine
+demitasses
 dryerman
 desirableness
 disseminated
