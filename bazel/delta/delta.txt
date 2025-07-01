@@ -4389,6 +4389,7 @@ ductal
 dispersonalize
 demarcates
 demandant
+diaphoresis
 demarcation
 daphnaceae
 demarcations
@@ -17211,7 +17212,6 @@ disintricate
 drysne
 dictyonema
 director
-diaphoresis
 depletory
 drive
 deermeat
