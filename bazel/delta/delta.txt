@@ -7276,7 +7276,6 @@ dextrally
 disarrest
 deteriorating
 deterioration
-deuce
 data
 dear
 dicyan
@@ -12212,6 +12211,7 @@ disherent
 disfortune
 dramatism
 diomedea
+deuce
 disbandment
 doors
 directional
