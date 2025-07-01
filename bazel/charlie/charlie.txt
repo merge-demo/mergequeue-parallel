@@ -6656,6 +6656,7 @@ cecrops
 codifier
 cecum
 cecums
+cowperitis
 cecutiency
 cedar
 cedary
@@ -24987,7 +24988,6 @@ casually
 cordaitaceae
 cordaitaceous
 cordaites
-cowperitis
 circumpolar
 cordal
 cordate
