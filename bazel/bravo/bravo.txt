@@ -175,7 +175,6 @@ bibliopegist
 besweeten
 bombastic
 babudom
-butternut
 baburd
 bellerophon
 bac
@@ -1619,6 +1618,7 @@ bacaba
 balloonet
 buddah
 bickering
+butternut
 brattier
 balloonflower
 balloonish
