@@ -1545,7 +1545,6 @@ diagenetic
 deadheartedness
 deady
 decoic
-dominancy
 defilades
 duopolist
 deadish
@@ -14216,6 +14215,7 @@ disyoked
 doublet
 disvisor
 dungs
+dominancy
 dynamoelectric
 donatism
 disvoice
