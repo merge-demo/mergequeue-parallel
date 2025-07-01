@@ -4818,7 +4818,6 @@ dwaibly
 deaconing
 dodecatylic
 deair
-disseizor
 dadouchos
 diemaker
 dentalizing
@@ -14922,6 +14921,7 @@ dallas
 dodecafid
 dodecahedral
 doctorate
+disseizor
 dieselization
 dodecahydrate
 duodenojejunostomy
