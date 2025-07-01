@@ -14931,7 +14931,6 @@ anticonfederative
 anticonformity
 antiaristocracy
 arthropterous
-annulled
 amidohexose
 antilogy
 avyayibhava
@@ -24557,6 +24556,7 @@ aciliate
 acalyptrate
 arthrodynia
 availed
+annulled
 aftosa
 asynaptic
 abstractness
