@@ -3448,7 +3448,6 @@ doigte
 defluvium
 demimark
 dang
-defoamed
 diacetylmorphine
 damozels
 defoamer
@@ -9711,6 +9710,7 @@ detacwable
 dika
 dampened
 dieter
+defoamed
 dispersedelement
 desulphurization
 dikaryophasic
