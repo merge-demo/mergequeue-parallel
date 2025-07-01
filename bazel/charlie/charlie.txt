@@ -4909,7 +4909,6 @@ carrotwood
 carrousel
 circumfused
 carrousels
-chaetodontid
 corallinaceae
 carageen
 carses
@@ -21735,6 +21734,7 @@ casteism
 chimarikan
 crizzle
 claustrophobia
+chaetodontid
 condolers
 camden
 condoles
