@@ -57,7 +57,6 @@ dacryocyst
 dacryocystitis
 diarchial
 dacryocystoptosis
-dacryocystosyringotomy
 derham
 dacryolithiasis
 desmoma
@@ -13263,6 +13262,7 @@ dislocator
 dicrotic
 dispositional
 dispositioned
+dacryocystosyringotomy
 disharmonical
 decentralisation
 dispositions
