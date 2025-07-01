@@ -14111,7 +14111,6 @@ amygdaline
 antepalatal
 aliveness
 amphivorous
-auriga
 adjusts
 awesomeness
 agglutinogenic
@@ -20266,6 +20265,7 @@ alaloi
 astonied
 auxil
 allotriuria
+auriga
 afocal
 arrogates
 attitudinizing
