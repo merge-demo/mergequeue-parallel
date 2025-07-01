@@ -7500,7 +7500,6 @@ detested
 diachylum
 documenters
 dichapetalum
-devalue
 deurwaarder
 dipsadinae
 doorwise
@@ -13315,6 +13314,7 @@ dishevelments
 directrix
 disproportional
 disparities
+devalue
 dossety
 disproportionately
 demographics
