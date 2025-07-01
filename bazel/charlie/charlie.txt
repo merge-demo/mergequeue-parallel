@@ -1280,7 +1280,6 @@ chromophotograph
 calfkill
 calfless
 calflike
-calfling
 calfskin
 creatural
 calgary
@@ -2763,6 +2762,7 @@ cannelon
 chintzes
 castrametation
 cannelons
+calfling
 cannelure
 clatsop
 cannoneers
