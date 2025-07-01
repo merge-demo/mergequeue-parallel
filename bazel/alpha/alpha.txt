@@ -17195,6 +17195,7 @@ adeptship
 apomorphin
 archimago
 aspired
+autovivisection
 apomorphine
 althaeas
 almudes
@@ -24477,7 +24478,6 @@ autoturning
 autourine
 autovalet
 autovalve
-autovivisection
 apologal
 ag
 autoxidation
