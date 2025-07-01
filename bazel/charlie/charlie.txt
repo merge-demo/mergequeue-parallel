@@ -21069,7 +21069,6 @@ chargfaires
 coms
 comsat
 clostridial
-comsomol
 competingly
 cray
 countertheory
@@ -24028,6 +24027,7 @@ copperworks
 conventions
 coralwort
 convents
+comsomol
 conventual
 converge
 cuspal
