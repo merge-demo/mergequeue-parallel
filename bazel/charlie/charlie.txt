@@ -6303,6 +6303,7 @@ cecchine
 cabbaged
 caulocarpic
 caulomic
+colossi
 caulosarc
 caulotaxis
 caulote
@@ -28002,7 +28003,6 @@ caprid
 craniopuncture
 cachexia
 craigmontite
-colossi
 craik
 cinnamoyl
 crayon
