@@ -12931,7 +12931,6 @@ anguiped
 afterhatch
 acutes
 anguishes
-adjuvants
 antipriming
 anguishing
 anisogamic
@@ -18600,6 +18599,7 @@ alkalescent
 angerly
 archaeostoma
 angelinformal
+adjuvants
 archaeostomata
 airbags
 archaeotherium
