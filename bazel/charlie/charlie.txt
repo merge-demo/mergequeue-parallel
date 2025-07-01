@@ -19133,6 +19133,7 @@ chaptrel
 collinsite
 collinsonia
 colliquable
+crystallizability
 colliquate
 collyria
 collyridian
@@ -31537,7 +31538,6 @@ cursory
 cratered
 cuproid
 cursorily
-crystallizability
 cursoriness
 cursorious
 coffeecake

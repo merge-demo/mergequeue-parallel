@@ -20168,7 +20168,6 @@ arrastra
 acidulation
 arratel
 amylohydrolytic
-asclepieion
 apothem
 arrau
 assiduously
@@ -22293,6 +22292,7 @@ astroglia
 actify
 arcturia
 ananas
+asclepieion
 agenda
 asteriskless
 apophorometer
