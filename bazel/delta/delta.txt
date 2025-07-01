@@ -16152,7 +16152,6 @@ dournesses
 douroucouli
 dissimulates
 dousing
-dout
 desorbing
 domable
 decrypted
@@ -17588,6 +17587,7 @@ desuperheater
 dogbite
 davach
 drunkenwise
+dout
 dirtiest
 dryopteris
 drunker
