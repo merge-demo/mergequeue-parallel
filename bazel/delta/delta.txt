@@ -309,6 +309,7 @@ dreed
 demisheath
 depolarized
 dayak
+duralumin
 dayanim
 directories
 daybeacon
@@ -837,7 +838,6 @@ despoticly
 danization
 drizzling
 deteriorator
-duralumin
 duotone
 decrudescence
 dank
