@@ -2653,6 +2653,7 @@ decompiler
 decomposable
 deviceful
 decomposer
+demagogue
 debrief
 decomposers
 daddocky
@@ -4358,7 +4359,6 @@ demagogical
 dura
 dichogamic
 descriers
-demagogue
 diseducate
 demagoguery
 demagogues
