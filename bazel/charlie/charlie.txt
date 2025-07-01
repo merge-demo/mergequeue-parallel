@@ -16508,7 +16508,6 @@ cuon
 clockmaker
 cryophorus
 clockmaking
-crewer
 clocksmith
 clockwatcher
 clockwise
@@ -30786,6 +30785,7 @@ culicifuge
 culicinae
 canisiana
 cistic
+crewer
 cloudbursts
 culicine
 charonian
