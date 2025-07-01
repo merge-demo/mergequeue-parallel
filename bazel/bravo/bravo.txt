@@ -15715,7 +15715,6 @@ beclogged
 brochophony
 brocht
 brochure
-balisier
 babblishly
 brock
 bombsight
@@ -16999,6 +16998,7 @@ bibliothecarial
 bedaubs
 bulger
 boyhood
+balisier
 belier
 bersim
 bulgiest
