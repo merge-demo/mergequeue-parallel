@@ -12979,7 +12979,6 @@ cyan
 cyanamid
 conspires
 coextension
-chipling
 coaxially
 cyanate
 cyanates
@@ -18988,6 +18987,7 @@ collations
 cesti
 collatitious
 cloine
+chipling
 collative
 ceste
 chickahominy
