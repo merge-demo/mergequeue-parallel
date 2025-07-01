@@ -24,7 +24,6 @@ bureaucratist
 bangy
 brachial
 bionergy
-babbitted
 beshell
 beneceptive
 boneheaded
@@ -1415,6 +1414,7 @@ balefires
 barmbrack
 balefully
 branned
+babbitted
 baleys
 blanketed
 baleise
