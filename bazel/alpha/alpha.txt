@@ -6380,7 +6380,6 @@ antivenom
 agrostologic
 antiresonance
 amorado
-attempering
 alnascharism
 agrote
 agrotechny
@@ -23756,6 +23755,7 @@ assistantship
 allicit
 amatorious
 anticivism
+attempering
 allelomorphism
 apostatic
 amatories
