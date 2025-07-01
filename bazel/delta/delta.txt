@@ -987,7 +987,6 @@ darius
 doubleprecision
 dark
 darked
-darkeys
 darkens
 disruptions
 deformeter
@@ -3057,6 +3056,7 @@ diester
 downward
 diuretic
 deewan
+darkeys
 dehydrogenising
 durzada
 disinvolvement
