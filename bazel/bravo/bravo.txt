@@ -5716,7 +5716,6 @@ birler
 balausta
 belied
 borofluoric
-bridalty
 blatancy
 beliefful
 bikram
@@ -12447,6 +12446,7 @@ bogum
 bowyang
 brisbane
 bedriddenness
+bridalty
 bootlegged
 bonfire
 biphenyl
