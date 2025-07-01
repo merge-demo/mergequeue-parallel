@@ -2705,6 +2705,7 @@ braconids
 barnstormer
 barnstorming
 besmearing
+bisantler
 borages
 brutalisation
 bogomile
@@ -9559,7 +9560,6 @@ bught
 biblist
 bodewash
 breeching
-bisantler
 bonapartean
 bothridium
 burucha
