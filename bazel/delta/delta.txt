@@ -2479,7 +2479,6 @@ dirigent
 deckhand
 dovekies
 duckwing
-deckle
 disslander
 dulls
 diatropism
@@ -13612,6 +13611,7 @@ disservice
 decisteres
 dalai
 disserviceably
+deckle
 dysgnosia
 disservices
 dkm
