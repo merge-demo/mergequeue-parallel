@@ -3053,7 +3053,6 @@ benzophenoxazine
 boilerworks
 breather
 blastplate
-beholdingness
 bating
 badminton
 barware
@@ -18055,6 +18054,7 @@ benzoin
 backflow
 betoken
 baptizable
+beholdingness
 biologies
 bustled
 beefwood
