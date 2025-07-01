@@ -10437,6 +10437,7 @@ antshrike
 ametropia
 ametrous
 amhar
+antisialagogue
 afterbirths
 alcade
 amharic
@@ -16111,7 +16112,6 @@ antisexist
 antiship
 angiasthenia
 antishipping
-antisialagogue
 amphitryon
 antisideric
 antisilverite

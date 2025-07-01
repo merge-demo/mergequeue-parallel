@@ -8272,6 +8272,7 @@ cercomonas
 compressing
 caracoli
 chalazium
+classbook
 chandam
 curatical
 cellulomonas
@@ -15571,7 +15572,6 @@ claspers
 claspt
 classable
 coplanarity
-classbook
 classed
 cyclicism
 classers
