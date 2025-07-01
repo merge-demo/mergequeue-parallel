@@ -2129,6 +2129,7 @@ channeler
 campers
 chiloma
 coadjacence
+canonizations
 campesinos
 campestral
 campfight
@@ -17350,7 +17351,6 @@ coarsely
 cranched
 coarsened
 coarseness
-canonizations
 chickory
 coarsening
 coarsens

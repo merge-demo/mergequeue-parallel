@@ -6523,7 +6523,6 @@ deviability
 dialectic
 dircaean
 dynel
-deerstalker
 descension
 descensionist
 descensive
@@ -8797,6 +8796,7 @@ decagonal
 declassifications
 dismalities
 diazin
+deerstalker
 drayman
 death
 droners
