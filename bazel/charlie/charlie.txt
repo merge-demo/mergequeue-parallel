@@ -1864,6 +1864,7 @@ crampet
 containers
 cologne
 cotwin
+clavieristic
 calicoed
 cordwains
 chickling
@@ -23264,7 +23265,6 @@ consulates
 consulship
 consulships
 coloquintida
-clavieristic
 consulta
 captors
 carminate
