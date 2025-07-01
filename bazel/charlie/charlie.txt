@@ -16604,6 +16604,7 @@ cantish
 capsules
 cloisterwise
 cloistral
+counterlighting
 concoagulation
 cloit
 chamisos
@@ -31778,7 +31779,6 @@ custumal
 cut
 collicle
 cutaneously
-counterlighting
 circumspectively
 collegiality
 cutaways
