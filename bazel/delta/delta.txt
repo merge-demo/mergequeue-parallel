@@ -2547,7 +2547,6 @@ disequality
 discus
 dorsocephalic
 declensionally
-declensions
 decretist
 declimatize
 driblets
@@ -16926,6 +16925,7 @@ dullishly
 dobchick
 damboard
 dreams
+declensions
 diphylla
 dolcinist
 diarrheic
