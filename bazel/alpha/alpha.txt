@@ -9121,7 +9121,6 @@ allusiveness
 allutterly
 alluvials
 autism
-allhallow
 abhorring
 alky
 aristogenetic
@@ -18606,6 +18605,7 @@ archaeotherium
 agriotypus
 archai
 anthropologic
+allhallow
 archaic
 acing
 anisol
