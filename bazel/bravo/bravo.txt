@@ -3554,6 +3554,7 @@ bien
 bathysophical
 bathysphere
 bigmouths
+bestrowing
 boliviano
 bathythermograph
 bathkol
@@ -5961,7 +5962,6 @@ buyouts
 ballistic
 bemadam
 bushier
-bestrowing
 beltie
 boogerman
 babiche
