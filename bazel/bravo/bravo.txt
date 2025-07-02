@@ -4759,6 +4759,7 @@ binnacle
 bedral
 bedraped
 bedraping
+blueball
 bedread
 bedrench
 baldling
@@ -17242,7 +17243,6 @@ bumbles
 bootlaces
 bumbling
 bumbo
-blueball
 bumboat
 bumclock
 biguttulate
