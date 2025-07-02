@@ -6035,6 +6035,7 @@ derogated
 depthways
 disoccupy
 deadman
+detergence
 dandered
 drayages
 depurate
@@ -15512,7 +15513,6 @@ drag
 daymen
 diapery
 donator
-detergence
 discodactyl
 decongestants
 dispell
