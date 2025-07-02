@@ -22703,7 +22703,6 @@ apropos
 amplificator
 atloid
 atloidean
-arousals
 anility
 adenophthalmia
 adsorbates
@@ -25048,6 +25047,7 @@ andranatomy
 awoken
 awols
 archistome
+arousals
 almah
 awork
 aworry
