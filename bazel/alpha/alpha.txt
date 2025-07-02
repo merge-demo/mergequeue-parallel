@@ -11279,7 +11279,6 @@ aerodontic
 atrabiliousness
 amphisilidae
 amphispermous
-amphisporangiate
 amphistoma
 africans
 achillean
@@ -20572,6 +20571,7 @@ aedegi
 arthromere
 arthromeric
 arthrometer
+amphisporangiate
 afterplay
 adamantoma
 arthrometry
