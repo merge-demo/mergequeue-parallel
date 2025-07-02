@@ -5352,7 +5352,6 @@ bult
 ballroom
 begone
 boxlike
-billbergia
 begonia
 begoniales
 backslapping
@@ -6156,6 +6155,7 @@ barograph
 benedictively
 bulimoid
 betide
+billbergia
 barquette
 badaxe
 bolshevizing
