@@ -2030,6 +2030,7 @@ acidolysis
 achaean
 asphyctic
 antiexpressionistic
+assignation
 agglutinating
 acropathology
 amidoxy
@@ -7131,7 +7132,6 @@ aphicidal
 aku
 akule
 appalto
-assignation
 al
 archaeus
 autoregulation
