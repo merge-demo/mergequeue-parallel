@@ -64,6 +64,7 @@ beauclerk
 bigoted
 babcock
 babe
+bifaces
 bead
 bolbonac
 bogfern
@@ -8208,7 +8209,6 @@ beswarming
 burls
 byeworkman
 besqueeze
-bifaces
 bifacial
 bifara
 bootleger
