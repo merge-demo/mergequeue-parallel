@@ -2871,7 +2871,6 @@ ascophorous
 acropodium
 acropoleis
 acuminated
-acropolitan
 acropora
 asthenope
 acarologist
@@ -21844,6 +21843,7 @@ apostle
 androgonidium
 acrocephaly
 autovaccination
+acropolitan
 associatedness
 andesine
 associateship
