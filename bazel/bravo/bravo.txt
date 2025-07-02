@@ -11208,6 +11208,7 @@ beprank
 bloopers
 bloops
 begumming
+basil
 blooth
 blosmy
 biglandular
@@ -16331,7 +16332,6 @@ biter
 brulee
 beknottedness
 belligerence
-basil
 buzzardly
 brulzies
 biloculate
