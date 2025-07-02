@@ -5160,6 +5160,7 @@ casemented
 casements
 caseolysis
 caseose
+clepsydrae
 caseous
 caserios
 chronal
@@ -11685,7 +11686,6 @@ clethra
 columbanian
 cholesterinic
 cholesterol
-clepsydrae
 cholesterolemia
 cholesteroluria
 choletelin
