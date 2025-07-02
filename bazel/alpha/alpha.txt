@@ -13316,7 +13316,6 @@ antecedent
 anisostaminous
 anisosthenic
 anisostichous
-anisostomous
 animose
 anisotonic
 amphitheatral
@@ -24058,6 +24057,7 @@ abrine
 apogenous
 arrtez
 autoette
+anisostomous
 accessories
 azimide
 antigenicity
