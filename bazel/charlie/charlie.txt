@@ -18385,6 +18385,7 @@ conterminant
 cognac
 curdier
 crookeries
+cunye
 centime
 cognacs
 cognate
@@ -29495,7 +29496,6 @@ choragium
 crystalloidal
 crystallomagnetic
 cravers
-cunye
 crystallomancy
 crystallometry
 continuist
