@@ -11786,6 +11786,7 @@ bocce
 bugbears
 beefheaded
 burgled
+bittock
 boilerhouse
 barcas
 benefactrixes
@@ -14104,7 +14105,6 @@ bistipular
 brachiorrheuma
 blot
 babbage
-bittock
 bugged
 butsudan
 bumbaze
