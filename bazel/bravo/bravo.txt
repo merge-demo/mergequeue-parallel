@@ -5752,7 +5752,6 @@ bribes
 belime
 bedsheets
 barrator
-bechance
 blastophthoria
 belittle
 bailees
@@ -13190,6 +13189,7 @@ bumper
 borzoi
 boschneger
 brigue
+bechance
 bisext
 brachystomata
 bender
