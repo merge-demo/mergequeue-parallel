@@ -13561,7 +13561,6 @@ bitangential
 bougar
 bouge
 brogued
-brighella
 bioscopes
 bacchian
 bough
@@ -17129,6 +17128,7 @@ bullier
 beltir
 backheel
 bim
+brighella
 bullies
 broll
 bezaleel
