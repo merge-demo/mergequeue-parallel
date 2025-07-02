@@ -4418,6 +4418,7 @@ demasting
 dematerialisation
 dematerialised
 donal
+derivant
 disproportionation
 dioeciousness
 disclaimed
@@ -6211,7 +6212,6 @@ derisiveness
 dejeuners
 deferable
 derival
-derivant
 dendrogaea
 dillier
 derivates
