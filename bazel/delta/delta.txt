@@ -3092,6 +3092,7 @@ depleting
 dialecticize
 defalcating
 defalcation
+declinator
 defalk
 dipteral
 defamation
@@ -11716,7 +11717,6 @@ dehumidification
 disclaim
 doctrinarian
 disencourage
-declinator
 disprobabilization
 dashy
 discourteousness
