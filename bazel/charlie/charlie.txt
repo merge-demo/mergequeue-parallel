@@ -6508,7 +6508,6 @@ cavernous
 cavernously
 cavernulous
 caves
-cavetti
 calusar
 conchie
 cavetto
@@ -28311,6 +28310,7 @@ cratometer
 cratometry
 carobs
 cumberment
+cavetti
 cratons
 cohos
 craunches
