@@ -1720,6 +1720,7 @@ dispensible
 diobol
 deathiness
 dilos
+disleal
 discantus
 duckpond
 dysenteric
@@ -3948,7 +3949,6 @@ derivationally
 dotage
 douser
 duopoly
-disleal
 deyship
 demagnification
 deliberation
