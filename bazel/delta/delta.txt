@@ -8833,7 +8833,6 @@ dipala
 diazoma
 diazomethane
 diazonium
-demethylation
 diazotype
 dromicia
 disadvise
@@ -17865,6 +17864,7 @@ dev
 developmentalist
 diagnosis
 drabbletailed
+demethylation
 duecentist
 derbies
 debutante

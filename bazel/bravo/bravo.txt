@@ -16255,6 +16255,7 @@ barogram
 brickmaker
 bromoketone
 brinjaul
+bescratch
 browzer
 biennial
 brr
@@ -18326,7 +18327,6 @@ bombardon
 brewst
 botherheaded
 buttons
-bescratch
 breviaries
 biasness
 buttonwood
