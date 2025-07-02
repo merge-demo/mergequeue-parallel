@@ -17714,6 +17714,7 @@ aversation
 applies
 antispasis
 applique
+autocide
 appliqueing
 appliques
 assorters
@@ -23967,7 +23968,6 @@ abutilons
 atmometer
 albertina
 autochthonousness
-autocide
 autocinesis
 acetylbiuret
 alumnus
