@@ -3385,6 +3385,7 @@ capped
 cappelletti
 capper
 ciseleurs
+checksums
 cappiest
 capping
 cervelas
@@ -11089,7 +11090,6 @@ cyclicly
 coalize
 chitimacha
 chitimachan
-checksums
 coappears
 chitinoid
 chitinous
