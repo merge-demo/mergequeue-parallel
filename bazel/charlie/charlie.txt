@@ -1554,7 +1554,6 @@ callitrichaceae
 callitrichaceous
 conducibly
 cystitome
-callitris
 crenitic
 chaplanry
 cartographer
@@ -11273,6 +11272,7 @@ canaut
 chloridellidae
 coattail
 chlorides
+callitris
 covers
 chloridic
 chloridized
