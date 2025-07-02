@@ -5089,6 +5089,7 @@ beneficiary
 bunted
 befitted
 beyship
+boffos
 befittingly
 blacklead
 baselines
@@ -11642,7 +11643,6 @@ boatbuilding
 boathook
 boathouse
 backbends
-boffos
 baccare
 boating
 bistipuled
