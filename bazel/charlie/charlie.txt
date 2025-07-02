@@ -9942,7 +9942,6 @@ choochoo
 chemotaxy
 collocatory
 chemotaxonomy
-chemotaxonomic
 controls
 comma
 carices
@@ -14204,6 +14203,7 @@ circulatable
 cabbalize
 circulated
 cyanhydrate
+chemotaxonomic
 circulation
 circulations
 circulative
