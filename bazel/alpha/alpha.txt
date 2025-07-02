@@ -4226,7 +4226,6 @@ appending
 armorer
 alchornea
 adrad
-alumen
 abime
 abaka
 adreamed
@@ -10394,6 +10393,7 @@ axe
 androgen
 archheresy
 anatomisable
+alumen
 amerinds
 assisa
 ailuromania
