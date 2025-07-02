@@ -7052,7 +7052,6 @@ centals
 coolies
 chock
 centaur
-centaurdom
 cuvette
 centaurea
 carretta
@@ -25429,6 +25428,7 @@ cornstone
 cajang
 czars
 cornua
+centaurdom
 comdt
 cornual
 cornuated
