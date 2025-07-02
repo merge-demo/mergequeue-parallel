@@ -5488,6 +5488,7 @@ backiebird
 behoved
 basting
 behoves
+bepelt
 behoving
 battements
 babbitts
@@ -8338,7 +8339,6 @@ buttonholing
 bye
 biggish
 bayadeer
-bepelt
 bedstock
 bigheaded
 balk
