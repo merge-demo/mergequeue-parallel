@@ -4163,7 +4163,6 @@ cymric
 cardiologic
 clubbers
 cariogenic
-cardiologist
 cardiologists
 cardiomegaly
 cyclus
@@ -18640,6 +18639,7 @@ coincorporate
 coindicant
 coiner
 comparograph
+cardiologist
 comme
 concoction
 coyness
