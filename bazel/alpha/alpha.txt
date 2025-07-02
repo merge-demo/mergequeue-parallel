@@ -3142,6 +3142,7 @@ achtel
 advolution
 activation
 active
+actuation
 academising
 aweather
 apostrophized
@@ -3192,7 +3193,6 @@ aphis
 ashlar
 actuating
 alpist
-actuation
 acturience
 acuaesthesia
 alids

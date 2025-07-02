@@ -17511,6 +17511,7 @@ craniometer
 citropsis
 curculionid
 coble
+cowl
 cobleman
 cuttings
 campanist
@@ -27693,7 +27694,6 @@ chaussures
 cowk
 cowkine
 coordinately
-cowl
 cowle
 citrin
 conduits
