@@ -13392,7 +13392,6 @@ cyclorrhapha
 coulomb
 curatize
 cycloscope
-cycloserine
 centuply
 cyclosis
 cyclospondyli
@@ -22409,6 +22408,7 @@ coniferous
 conifers
 cnidoscolus
 chevy
+cycloserine
 conification
 coniform
 cacana
