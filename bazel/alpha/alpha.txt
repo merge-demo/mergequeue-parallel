@@ -1093,7 +1093,6 @@ apparelled
 abundancy
 apyrase
 abundant
-anachronical
 abundantly
 abune
 abura
@@ -15799,6 +15798,7 @@ antipyonin
 antithrombin
 alert
 antipyretics
+anachronical
 antipyrin
 accustomedness
 antipyrine
