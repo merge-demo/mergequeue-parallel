@@ -13572,7 +13572,6 @@ baroco
 bismutosmaltite
 biomagnetic
 bobbysocks
-bearded
 bivane
 boughy
 boughpots
@@ -15555,6 +15554,7 @@ bakhtiari
 biomagnetism
 banlieue
 biopsychical
+bearded
 born
 bromacetanilide
 bristlelike
