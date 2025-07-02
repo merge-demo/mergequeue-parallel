@@ -2186,7 +2186,6 @@ campyloneuron
 cavesson
 cakey
 campylotropal
-campylotropous
 campimeter
 conches
 configuring
@@ -15004,6 +15003,7 @@ citrination
 citrine
 coqueluche
 congressmen
+campylotropous
 cytopharynxes
 citrinin
 citrinins
