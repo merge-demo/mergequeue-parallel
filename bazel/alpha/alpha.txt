@@ -12875,7 +12875,6 @@ anglophile
 awkward
 acinetaria
 antidoron
-anglophilic
 autotype
 adenine
 anglophilism
@@ -19225,6 +19224,7 @@ areic
 arena
 arenaria
 annam
+anglophilic
 auditives
 aquarii
 arenariae
