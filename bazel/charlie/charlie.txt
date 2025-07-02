@@ -15239,6 +15239,7 @@ curtailments
 clairseach
 caplan
 carpetwork
+cognises
 cloisteral
 cardiemphraxia
 compresses
@@ -18406,7 +18407,6 @@ calpulli
 corporal
 coenosarcal
 cognisant
-cognises
 coarct
 countergambit
 cognised
