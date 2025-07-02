@@ -3647,7 +3647,6 @@ deglut
 dec
 disarrangement
 decubation
-denounced
 despisement
 delinquencies
 designed
@@ -9171,6 +9170,7 @@ depressives
 dandering
 didymis
 demonetised
+denounced
 didynamian
 disculpation
 didynamic
