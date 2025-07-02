@@ -12926,7 +12926,6 @@ achromate
 approaches
 addictively
 anguine
-anguineal
 anguiped
 afterhatch
 acutes
@@ -12964,6 +12963,7 @@ apologist
 angulous
 angulus
 antepone
+anguineal
 anticomplementary
 angust
 antinihilism
