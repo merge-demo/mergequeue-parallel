@@ -5804,6 +5804,7 @@ depopulation
 dunged
 denitrize
 depopulative
+denis
 dowve
 demipuppet
 dovekeys
@@ -15452,7 +15453,6 @@ doming
 domini
 decalomania
 demurer
-denis
 dishwares
 demideify
 dijudication
