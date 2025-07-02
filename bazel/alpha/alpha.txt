@@ -10324,7 +10324,6 @@ amentiform
 aplodiorite
 aerobe
 asseveratively
-aments
 addressability
 amenuse
 anorthoclase
@@ -16807,6 +16806,7 @@ allodialist
 aphrodision
 aphrodistic
 aphrodite
+aments
 agname
 acritol
 aphtha
