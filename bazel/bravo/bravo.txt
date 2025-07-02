@@ -3884,6 +3884,7 @@ brachyskelic
 bullaria
 boughten
 bazars
+buprestidan
 bint
 brockage
 bazooka
@@ -6833,7 +6834,6 @@ berthed
 birdeye
 berther
 bradypodoid
-buprestidan
 bradylalia
 bertie
 bertolonia

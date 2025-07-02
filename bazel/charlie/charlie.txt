@@ -3345,7 +3345,6 @@ concavely
 calabash
 caponise
 corslets
-captivate
 chrystocrene
 caponising
 camaldolensian
@@ -10668,6 +10667,7 @@ chimb
 culicide
 cuts
 claustrophobe
+captivate
 cryptesthetic
 conenchyma
 conglomerated
