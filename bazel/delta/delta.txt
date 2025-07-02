@@ -2249,7 +2249,6 @@ dustbox
 determinative
 decelerates
 dentolabial
-decembrist
 demnition
 dowset
 decemcostate
@@ -8459,6 +8458,7 @@ dialogizing
 devesting
 dialonian
 dorsocervically
+decembrist
 dorsiventrally
 dials
 ds
