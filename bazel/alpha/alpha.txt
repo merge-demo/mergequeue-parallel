@@ -6897,7 +6897,6 @@ alanyls
 assailment
 amende
 aglyphous
-aptian
 aventine
 airview
 angakoks
@@ -14303,6 +14302,7 @@ anthol
 anodes
 apiaceous
 antireaction
+aptian
 aniseikonia
 antholite
 anthology
