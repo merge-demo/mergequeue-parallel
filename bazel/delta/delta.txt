@@ -2564,7 +2564,6 @@ declivent
 derive
 declivity
 ducklingship
-deanthropomorphize
 dangled
 detoured
 dermobranchia
@@ -4031,6 +4030,7 @@ dibasicity
 dialing
 dipteros
 dirten
+deanthropomorphize
 delegations
 delegator
 discomposedly
