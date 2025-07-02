@@ -7297,6 +7297,7 @@ disseized
 diffusivity
 dollies
 diaxone
+duodecimfid
 disturbor
 desiccative
 doukhobor
@@ -18339,7 +18340,6 @@ duotriacontane
 disinclinations
 dryas
 didachist
-duodecimfid
 demonstrant
 dalarnian
 dizziest
