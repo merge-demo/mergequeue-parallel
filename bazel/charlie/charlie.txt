@@ -22980,7 +22980,6 @@ chartophylax
 consolatrix
 console
 crossfire
-chambermaids
 companyless
 copist
 consoles
@@ -27877,6 +27876,7 @@ comeatable
 calotin
 conquians
 crabut
+chambermaids
 crabweed
 coreid
 crabwise
