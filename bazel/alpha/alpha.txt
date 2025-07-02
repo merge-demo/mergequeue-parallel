@@ -10129,7 +10129,6 @@ apolog
 ambreic
 ambrein
 archdiocese
-adytum
 ambrettolide
 arthralgia
 ambry
@@ -10514,6 +10513,7 @@ amidofluorid
 amidogen
 amidoguaiacol
 automacy
+adytum
 aromatites
 abusing
 articled
