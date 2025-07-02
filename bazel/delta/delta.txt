@@ -5297,6 +5297,7 @@ densimetric
 dilatometry
 danaro
 diglottic
+dithecous
 disscepter
 deligated
 drammer
@@ -13029,7 +13030,6 @@ diotrephes
 dopiness
 disparity
 disruptability
-dithecous
 dispeed
 dispark
 declarer
