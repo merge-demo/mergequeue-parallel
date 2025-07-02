@@ -5300,6 +5300,7 @@ afforce
 afford
 alkines
 affordable
+actresses
 argoletier
 afforested
 afforesting
@@ -5455,7 +5456,6 @@ afterdate
 antifoam
 amadou
 afternote
-actresses
 afterdeal
 afterdeck
 adipomata
