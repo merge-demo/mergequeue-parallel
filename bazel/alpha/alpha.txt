@@ -6874,7 +6874,6 @@ airohydrogen
 airsome
 airspace
 airspaces
-ancience
 architectonica
 apostolic
 anterin
@@ -19799,6 +19798,7 @@ armatures
 armband
 albation
 anarchal
+ancience
 arcane
 armchair
 ast
