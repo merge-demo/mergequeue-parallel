@@ -3346,7 +3346,6 @@ allegorize
 azomethine
 antipope
 arbored
-adapters
 adapting
 acknowledging
 abelmoschus
@@ -6572,6 +6571,7 @@ aquaculture
 aigrette
 adenomeningeal
 afterbeat
+adapters
 aiguelle
 aymaran
 astatizer
