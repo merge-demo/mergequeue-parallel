@@ -2061,6 +2061,7 @@ campagi
 coquettes
 counteraverment
 campagna
+cannibalistic
 campagne
 conli
 campaign
@@ -27612,7 +27613,6 @@ cowardy
 cowardice
 chrobat
 cowardish
-cannibalistic
 chionophobia
 chuffiest
 coecum
