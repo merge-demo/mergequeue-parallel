@@ -3064,6 +3064,7 @@ berascaling
 bathetic
 basalts
 brecciating
+benefactory
 basaltware
 bombiccite
 basaree
@@ -14256,7 +14257,6 @@ braehead
 bulblet
 bronchiogenic
 brochidodromous
-benefactory
 begoud
 brens
 branchiosaur
