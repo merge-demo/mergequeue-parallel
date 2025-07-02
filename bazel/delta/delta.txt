@@ -1375,7 +1375,6 @@ dysesthetic
 davies
 duotriode
 dayless
-decephalize
 diorites
 daviesite
 dictyotaceous
@@ -14952,6 +14951,7 @@ discretionarily
 demonising
 dichromat
 disponing
+decephalize
 digammas
 dominates
 descrying
