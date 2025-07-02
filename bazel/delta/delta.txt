@@ -6417,6 +6417,7 @@ disincorporating
 deferentially
 desmology
 dillisk
+dtset
 derotremata
 denization
 demarcate
@@ -9335,7 +9336,6 @@ deobstruent
 dietic
 decolorant
 dietitians
-dtset
 diplomat
 dietotherapy
 dietotoxic
