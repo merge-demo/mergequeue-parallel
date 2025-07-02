@@ -11830,7 +11830,6 @@ analogue
 analphabet
 antiparliamentary
 analphabete
-angelus
 acyanopsia
 awink
 acceptedly
@@ -17389,6 +17388,7 @@ apothecium
 antitrope
 arbitrement
 areologic
+angelus
 applot
 airship
 antiarchi
