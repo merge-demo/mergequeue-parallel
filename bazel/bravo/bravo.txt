@@ -8759,7 +8759,6 @@ bedrown
 bungo
 beezer
 binaphthyl
-bletia
 binaries
 binately
 betuckered
@@ -9801,6 +9800,7 @@ bubblebow
 blandest
 bisulfate
 bromatology
+bletia
 buries
 bocca
 bitable
