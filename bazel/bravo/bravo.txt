@@ -5349,7 +5349,6 @@ begnaw
 biharmonic
 balmy
 bult
-ballroom
 begone
 boxlike
 billbergia
@@ -12132,6 +12131,7 @@ benzofluorene
 bannets
 basti
 bannition
+ballroom
 boldos
 besmutch
 bealing
