@@ -10570,7 +10570,6 @@ cardon
 cirsocele
 cymbocephaly
 cryptoclimatology
-cicadae
 chill
 cyclanthaceous
 chilla
@@ -12267,6 +12266,7 @@ chrysophenin
 chrysophilist
 chrysophyte
 chromonemic
+cicadae
 chrysopid
 chrysopidae
 chrysoprase
