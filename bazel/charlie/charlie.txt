@@ -10154,7 +10154,6 @@ chevaliers
 chippewa
 categorizers
 compagnie
-chevener
 cheventayn
 cheverel
 cheveret
@@ -22620,6 +22619,7 @@ chug
 clinker
 connived
 chromochalcography
+chevener
 connives
 captance
 caliper
