@@ -9445,7 +9445,6 @@ birkremite
 boldine
 batonga
 botonee
-birl
 begrease
 bulimiac
 btl
@@ -11632,6 +11631,7 @@ boaster
 boastfully
 boastfulness
 bacchus
+birl
 boasts
 bryologist
 bosket
