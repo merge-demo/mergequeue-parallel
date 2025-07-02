@@ -552,7 +552,6 @@ cadism
 cashmirian
 camlets
 cadlock
-colourlessly
 cadmia
 cadmic
 cateran
@@ -27099,6 +27098,7 @@ clinologic
 configurable
 countershine
 chemosorptive
+colourlessly
 copaiye
 countershock
 counterside
