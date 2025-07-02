@@ -294,6 +294,7 @@ backache
 burrknot
 bocardo
 backadation
+branchiostomid
 brumbies
 blossomy
 beflecks
@@ -14532,7 +14533,6 @@ belugite
 bedumbed
 branchiostegidae
 branchiostoma
-branchiostomid
 brandyball
 bounciest
 branchiostomous
