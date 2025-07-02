@@ -7976,7 +7976,6 @@ cetologist
 cetomorpha
 cumular
 celiomyalgia
-cetomorphic
 cetonia
 cetonian
 curwhibble
@@ -25857,6 +25856,7 @@ corse
 chemoautotrophically
 contradicting
 cornish
+cetomorphic
 cakewalk
 corseleting
 curvirostral
