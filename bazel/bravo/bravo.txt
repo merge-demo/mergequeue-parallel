@@ -4626,6 +4626,7 @@ bens
 barry
 boeing
 basigamy
+bothrium
 buxus
 bedevilling
 barbershops
@@ -13381,7 +13382,6 @@ bandage
 ballhawks
 bothriocephalus
 brosimum
-bothrium
 bothrodendron
 blackcap
 bisulc
