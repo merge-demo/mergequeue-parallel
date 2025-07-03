@@ -5849,6 +5849,7 @@ crawling
 chateau
 cateye
 catel
+carroty
 coelongated
 catelectrode
 capstones
@@ -30802,7 +30803,6 @@ cullage
 cullays
 crackerberries
 cullas
-carroty
 cytotechnology
 cochleary
 conchologize
