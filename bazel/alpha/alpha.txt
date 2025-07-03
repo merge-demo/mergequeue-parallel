@@ -12961,7 +12961,6 @@ apolitically
 anguloa
 angulosplenial
 apologist
-angulous
 angulus
 antepone
 anticomplementary
@@ -24621,6 +24620,7 @@ apodeipna
 avenary
 avenge
 actinomycin
+angulous
 achromatic
 absurdness
 avengeful
