@@ -2088,6 +2088,7 @@ buyers
 bannocks
 boilinglike
 bivittate
+becoming
 banovina
 banquet
 bundist
@@ -5061,7 +5062,6 @@ bibracteolate
 bemas
 bewith
 befeather
-becoming
 beeswax
 bodger
 biloculine
