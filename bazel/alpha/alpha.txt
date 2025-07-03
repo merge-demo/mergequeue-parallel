@@ -6730,6 +6730,7 @@ adopt
 airbrushing
 airburst
 arresting
+ark
 autositic
 airbusses
 aircraftman
@@ -19599,7 +19600,6 @@ arylating
 annotate
 arylation
 ariled
-ark
 arylide
 arillate
 affricative

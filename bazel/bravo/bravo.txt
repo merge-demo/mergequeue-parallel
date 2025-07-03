@@ -15810,7 +15810,6 @@ bromacetone
 bromamide
 brininess
 barrows
-besomer
 blite
 beelol
 bratticer
@@ -16935,6 +16934,7 @@ benzalaniline
 borax
 burdensomely
 buick
+besomer
 bizarre
 buildings
 blunder
