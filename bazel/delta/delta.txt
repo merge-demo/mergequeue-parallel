@@ -6029,7 +6029,6 @@ diobols
 denizen
 demonetization
 delimiting
-disapprove
 dermatonosus
 derogated
 depthways
@@ -8626,6 +8625,7 @@ dibatis
 dystaxia
 diapsida
 dyskinetic
+disapprove
 deathin
 douanier
 dyarchy
