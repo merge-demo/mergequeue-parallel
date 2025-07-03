@@ -5986,6 +5986,7 @@ catheterization
 cense
 catheterized
 commonality
+craniotomy
 cerastium
 catheterizes
 cathetometer
@@ -28161,7 +28162,6 @@ chimerism
 cranioscopist
 craniotome
 cameos
-craniotomy
 craniotopography
 craniums
 crankcases
