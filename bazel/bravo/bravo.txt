@@ -9341,6 +9341,7 @@ backsides
 besmother
 bescours
 brazed
+bugeyes
 buttering
 brines
 birdbaths
@@ -16888,7 +16889,6 @@ bugdom
 barretry
 brassbound
 beneficiate
-bugeyes
 baddy
 bonducs
 bespurred
