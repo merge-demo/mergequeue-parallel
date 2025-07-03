@@ -15003,7 +15003,6 @@ deflocculator
 dogana
 dizziness
 disillusionizing
-desperation
 disjection
 dogaressa
 diaspinae
@@ -16597,6 +16596,7 @@ dragomanate
 disharmonic
 decompile
 disclaims
+desperation
 daman
 dissimilated
 denunciate
