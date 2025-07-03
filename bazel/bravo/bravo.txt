@@ -12803,7 +12803,6 @@ bookward
 bookwards
 byronite
 bookworm
-bookwright
 booleans
 booleys
 bardy
@@ -17269,6 +17268,7 @@ bugala
 bummack
 bikeways
 brechan
+bookwright
 backlighting
 bleachers
 bedegar
