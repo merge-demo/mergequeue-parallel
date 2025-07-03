@@ -4449,6 +4449,7 @@ conelrads
 caritative
 carity
 caritive
+connote
 circumfusion
 colubridae
 companionage
@@ -22635,7 +22636,6 @@ ceratitoid
 connotations
 connotative
 connotatively
-connote
 crymotherapy
 connoted
 connoting
