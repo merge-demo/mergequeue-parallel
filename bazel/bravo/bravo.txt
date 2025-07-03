@@ -4928,7 +4928,6 @@ beefier
 bequest
 beefiest
 beefsteak
-beeftongue
 beefwoods
 beegerite
 bootlick
@@ -7706,6 +7705,7 @@ bedrenches
 bhagat
 bromonaphthalene
 bridging
+beeftongue
 bhagavat
 bivouacking
 bookrack
