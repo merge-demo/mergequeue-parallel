@@ -21723,7 +21723,6 @@ chaffering
 condo
 condoled
 condolence
-calyptro
 condolent
 cruiserweight
 cuna
@@ -27590,6 +27589,7 @@ covillager
 covine
 clinquant
 censes
+calyptro
 cymatium
 coving
 carapus
