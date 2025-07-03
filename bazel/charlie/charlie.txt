@@ -999,7 +999,6 @@ capuche
 calanque
 calantas
 chromocenter
-chondroid
 calapite
 caprelline
 calappidae
@@ -20772,6 +20771,7 @@ complice
 complicity
 complied
 campodea
+chondroid
 crossbolted
 compliment
 cricketings
