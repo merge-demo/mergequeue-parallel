@@ -3352,6 +3352,7 @@ camaldolensian
 commissariat
 coderives
 caponize
+chirognomic
 crispate
 caponized
 contrasty
@@ -10937,7 +10938,6 @@ cautel
 cornu
 chirognomy
 cerement
-chirognomic
 crain
 chirognomically
 chirognomist

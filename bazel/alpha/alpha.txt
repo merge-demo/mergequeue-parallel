@@ -12027,6 +12027,7 @@ anastate
 anastatus
 anastigmat
 anastigmatic
+anhydroglocose
 alichel
 aborning
 archaeologian
@@ -13025,7 +13026,6 @@ anhydridization
 asocial
 afterroll
 anhydridize
-anhydroglocose
 anhidrosis
 anhidrotic
 archespsporia
