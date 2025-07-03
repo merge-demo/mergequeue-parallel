@@ -279,7 +279,6 @@ dependently
 doradilla
 daguerreotyped
 daguerreotyping
-digitonin
 dreadnaught
 docken
 debugged
@@ -12654,6 +12653,7 @@ diskelion
 disker
 dystomic
 disgusted
+digitonin
 dumplings
 definitized
 dextroses
