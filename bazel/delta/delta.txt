@@ -10,7 +10,6 @@ degradation
 dabby
 dogbane
 demerara
-drawstrings
 dermatoheteroplasty
 dabblingness
 dabchicks
@@ -12309,6 +12308,7 @@ disgrading
 discreating
 disgruntlement
 driblet
+drawstrings
 duplicities
 denitration
 demigrate
