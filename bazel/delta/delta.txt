@@ -5880,6 +5880,7 @@ deprecating
 doorbrand
 desolations
 diachoresis
+dunging
 demeaning
 disconcert
 deprecative
@@ -7148,7 +7149,6 @@ disworship
 dudeen
 directively
 desulfuring
-dunging
 desulfurisation
 diplopiaphobia
 diipolia
