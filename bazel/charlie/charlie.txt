@@ -3385,7 +3385,6 @@ capped
 cappelletti
 capper
 ciseleurs
-cappiest
 capping
 cervelas
 cyclopite
@@ -12623,6 +12622,7 @@ chantecler
 cercle
 cafetiere
 chronologizing
+cappiest
 chronomantic
 chronomastix
 chronometer
