@@ -12657,6 +12657,7 @@ amb
 angelicalness
 angelicic
 angelicize
+apothegmatical
 angelicness
 angelico
 acetylize
@@ -23451,7 +23452,6 @@ achroma
 amicus
 august
 augustal
-apothegmatical
 antidemocracy
 ammoniaemia
 augustine
