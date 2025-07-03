@@ -8631,7 +8631,6 @@ aspiringness
 anta
 allegiance
 ancylostoma
-allegiancy
 allegiant
 astronautically
 allegorically
@@ -9059,6 +9058,7 @@ assertiveness
 acquiescing
 assagais
 aftermarriage
+allegiancy
 allower
 acylamido
 arcubos
