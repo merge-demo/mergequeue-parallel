@@ -19306,7 +19306,6 @@ argaile
 absorptively
 annexure
 asse
-argal
 argala
 apiin
 acontius
@@ -20201,6 +20200,7 @@ assaulting
 arrgt
 arrha
 arrhenal
+argal
 arrhenatherum
 amaryllideous
 alerter
