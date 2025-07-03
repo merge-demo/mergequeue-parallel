@@ -1053,6 +1053,7 @@ babyhouse
 behowling
 becost
 barrulet
+bunted
 blousier
 buzzards
 bailors
@@ -5086,7 +5087,6 @@ braised
 berberia
 bespotted
 beneficiary
-bunted
 befitted
 beyship
 befittingly
