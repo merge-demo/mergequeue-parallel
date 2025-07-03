@@ -3728,6 +3728,7 @@ candor
 carauna
 coventrize
 caravaneer
+circumvolving
 cyclists
 cosmogonize
 caravaner
@@ -17975,7 +17976,6 @@ coelectron
 centrist
 ciborium
 clubwood
-circumvolving
 coelentera
 cubicle
 colics
