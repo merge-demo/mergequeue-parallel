@@ -2393,6 +2393,7 @@ coffined
 canceled
 canceleer
 canceler
+castanet
 cancellable
 contrasters
 cyprinidae
@@ -21075,7 +21076,6 @@ cray
 countertheory
 comstockeries
 comtes
-castanet
 comtesse
 citrates
 comtian
