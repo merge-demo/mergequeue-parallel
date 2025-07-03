@@ -2631,7 +2631,6 @@ acranial
 aethalia
 assignor
 acrasias
-advertizer
 apartment
 aking
 acrawl
@@ -8311,6 +8310,7 @@ arundinaceous
 alimentariness
 austrophilism
 alimentation
+advertizer
 amusgo
 abstractly
 alimentativeness
