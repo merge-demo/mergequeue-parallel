@@ -7839,7 +7839,6 @@ cerussite
 centaurid
 cervantic
 chaffiest
-choosing
 cervantite
 cruor
 consternating
@@ -28143,6 +28142,7 @@ cleistotcia
 calibrations
 communitorium
 craniomalacia
+choosing
 craniomaxillary
 cataloging
 craniometry

@@ -5239,7 +5239,6 @@ breadboards
 barkeeps
 begar
 bandos
-bodingly
 basaltic
 bicentenary
 bimastoid
@@ -9857,6 +9856,7 @@ burnsian
 buccobranchial
 banderols
 baldpated
+bodingly
 bitmap
 buccaneering
 bimbos
