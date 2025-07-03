@@ -9425,6 +9425,7 @@ chavel
 chavender
 compart
 chavicin
+cloot
 chomp
 chiot
 chavicol
@@ -16650,7 +16651,6 @@ clonus
 cloof
 chymaqueous
 chemicoluminescence
-cloot
 clootie
 chargeling
 clop
