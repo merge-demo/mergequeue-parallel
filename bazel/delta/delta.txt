@@ -4352,7 +4352,6 @@ diversicolored
 demagogic
 daubster
 diamondiferous
-diacritical
 dods
 demagogical
 dura
@@ -4706,6 +4705,7 @@ dimissory
 disproved
 dapple
 dreamsiness
+diacritical
 disintoxicate
 demitasses
 demythologization
