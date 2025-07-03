@@ -9381,7 +9381,6 @@ deutoplasmic
 dunces
 differentiability
 differentiae
-differentials
 darkle
 dismembering
 differentiant
@@ -12480,6 +12479,7 @@ deracinate
 declassifying
 doubtably
 dancette
+differentials
 dexterity
 defy
 disilicide
