@@ -19946,7 +19946,6 @@ astrologe
 antigen
 araliophyllum
 applauding
-archdeanery
 acclimatization
 aryballos
 armplate
@@ -21183,6 +21182,7 @@ autoharp
 axil
 ashplants
 anisogynous
+archdeanery
 aneurysmally
 alonso
 anapophysis
