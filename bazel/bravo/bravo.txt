@@ -6920,6 +6920,7 @@ beseems
 beseen
 burglariously
 bajan
+buffoon
 burgundian
 bazaar
 bedrugging
@@ -16842,7 +16843,6 @@ bufflehead
 breekums
 buffont
 bloodleaf
-buffoon
 buffooneries
 benzoxycamphor
 balancelle

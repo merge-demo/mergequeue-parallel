@@ -1688,7 +1688,6 @@ calorimetrically
 calorimotor
 calorist
 calorizing
-cawing
 calosoma
 calotermes
 calothrix
@@ -12382,6 +12381,7 @@ conuses
 chromatin
 caucasoids
 chromatype
+cawing
 chromatist
 coracohyoid
 cholent
