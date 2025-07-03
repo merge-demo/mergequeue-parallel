@@ -1729,7 +1729,6 @@ aeroelastics
 accusable
 accusal
 accusant
-animadvert
 aristocracies
 accusants
 accusation
@@ -4793,6 +4792,7 @@ aequoreal
 aerobioscope
 aerobiosis
 addleheaded
+animadvert
 aerobiotic
 aerobious
 awedly
