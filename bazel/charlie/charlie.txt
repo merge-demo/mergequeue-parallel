@@ -11710,6 +11710,7 @@ claries
 corruptness
 cholo
 chaver
+coenthrone
 cholochrome
 cholocyanine
 cinematographic
@@ -18141,7 +18142,6 @@ cacopharyngia
 coenotype
 coenotypic
 coenotrope
-coenthrone
 colatorium
 coenunuri
 coleochaetaceae
