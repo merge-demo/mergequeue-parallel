@@ -4145,7 +4145,6 @@ adoptabilities
 ammonals
 aphrasia
 adjag
-apoapsis
 armorers
 anabaptistically
 arquebusier
@@ -12917,6 +12916,7 @@ averil
 abcess
 angiopoietic
 antiegoism
+apoapsis
 algicide
 ammeos
 actaeonidae
