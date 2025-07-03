@@ -9325,7 +9325,6 @@ birched
 buttle
 besugo
 birchers
-bewater
 barman
 backarrow
 birchwood
@@ -12092,6 +12091,7 @@ bolas
 bedell
 bartsia
 balmacaan
+bewater
 biglenoid
 bolboxalis
 blushingly
