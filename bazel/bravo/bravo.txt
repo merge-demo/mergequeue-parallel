@@ -3354,7 +3354,6 @@ bassalia
 bootable
 brythonic
 baculum
-benzilic
 bassan
 bassanite
 biotechnics
@@ -13088,6 +13087,7 @@ branders
 bedusk
 belfry
 boresight
+benzilic
 beblubber
 boresome
 backblocks
