@@ -226,7 +226,6 @@ bradyesthesia
 banditries
 beslimed
 brainpower
-biofog
 bandicoot
 baccy
 banishments
@@ -11625,6 +11624,7 @@ burns
 bevels
 bacauan
 blacks
+biofog
 bizant
 boarwood
 boas
