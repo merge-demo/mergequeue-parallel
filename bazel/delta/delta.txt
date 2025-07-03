@@ -2099,6 +2099,7 @@ daunts
 dissembles
 doab
 duddies
+discloak
 despoilment
 decameron
 digraph
@@ -14199,7 +14200,6 @@ dynamoscope
 deathful
 disuse
 disbranching
-discloak
 disuses
 disutility
 disinsection
