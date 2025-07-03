@@ -10700,7 +10700,6 @@ batonne
 boroughmongery
 blepharoplegia
 bronzine
-bosuns
 banksias
 bleymes
 blellums
@@ -14205,6 +14204,7 @@ bradycrotic
 boutiques
 bloodstroke
 bradydactylia
+bosuns
 bepowder
 belamour
 biomechanics
