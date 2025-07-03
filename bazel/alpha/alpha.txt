@@ -5638,7 +5638,6 @@ angiomatous
 afunction
 aquafortist
 agalma
-antipeptone
 ardea
 arctically
 angulatosinuous
@@ -7791,6 +7790,7 @@ aldols
 aldose
 aguador
 aldoside
+antipeptone
 aldosterone
 aldosteronism
 abiezer
