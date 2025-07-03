@@ -8580,6 +8580,7 @@ bassaris
 berylline
 brauneberger
 brachysm
+blister
 brachiofacial
 billfishes
 blepharolithiasis
@@ -15253,7 +15254,6 @@ bullying
 belles
 bridewell
 being
-blister
 birdwitted
 bridewort
 bridge
