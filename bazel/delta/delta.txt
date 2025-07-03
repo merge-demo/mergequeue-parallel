@@ -2510,6 +2510,7 @@ declarative
 deligation
 demieagle
 discomorula
+doll
 druith
 dorothea
 decemdentate
@@ -13744,7 +13745,6 @@ devastatingly
 disproval
 diatoms
 dracma
-doll
 dissolubleness
 disproving
 dorhawks

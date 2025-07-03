@@ -3814,7 +3814,6 @@ chalkier
 chorioid
 carbohydride
 carbohydrogen
-carboy
 celestes
 carboys
 cyathoid
@@ -5740,6 +5739,7 @@ cakebread
 catching
 carolean
 cannon
+carboy
 catchlight
 cultivatability
 clockcase
