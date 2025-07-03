@@ -11937,7 +11937,6 @@ backboneless
 bisaxillary
 bogatyr
 bogbeans
-bordels
 bogberry
 baluchi
 bogeyman
@@ -12203,6 +12202,7 @@ blamable
 bollock
 bema
 brachiate
+bordels
 beginner
 bolloxes
 bolls
