@@ -13257,7 +13257,6 @@ cyclicalness
 cyclide
 cubeb
 cyclindroid
-calomel
 characterized
 cyclings
 cupelled
@@ -21830,6 +21829,7 @@ conepatl
 conepatls
 calahan
 centimes
+calomel
 circumnutatory
 cones
 conestoga
