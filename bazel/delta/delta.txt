@@ -4594,6 +4594,7 @@ demiliterate
 deflectional
 despotical
 dalmatian
+diluter
 demilustre
 diaskeuasis
 demiman
@@ -14258,7 +14259,6 @@ drawees
 downplaying
 descamisados
 diter
-diluter
 ditertiary
 disyokes
 dreadnoughts
