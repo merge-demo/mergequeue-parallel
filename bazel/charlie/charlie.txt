@@ -12487,6 +12487,7 @@ chromogen
 chromogene
 chromogenesis
 cingulate
+controversy
 chamaecrista
 cranemanship
 chromoisomer
@@ -23869,7 +23870,6 @@ controversal
 compositeness
 cauterized
 carbro
-controversy
 controversialism
 controversialist
 cytotrophoblast
