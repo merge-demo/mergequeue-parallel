@@ -8285,7 +8285,6 @@ dizzy
 draped
 disputableness
 diagonal
-diagonalizable
 diagonalization
 diagnosing
 dandyprat
@@ -10865,6 +10864,7 @@ depthen
 dirged
 dirgelike
 dirgeman
+diagonalizable
 debts
 dirgy
 doggedly
