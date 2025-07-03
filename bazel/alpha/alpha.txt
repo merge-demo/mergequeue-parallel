@@ -11564,6 +11564,7 @@ aiery
 anacharis
 antilytic
 abilities
+antitypal
 anachromasis
 acatharsy
 apodes
@@ -16247,7 +16248,6 @@ anilid
 antitintinnabularian
 atmidometry
 argentous
-antitypal
 antityphoid
 amaroid
 antitypical
