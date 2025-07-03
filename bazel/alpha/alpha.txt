@@ -14619,7 +14619,6 @@ antiaquatic
 acroesthesia
 anaspidacea
 antiar
-antiarin
 antilogarithm
 anthropomorphism
 alchemical
@@ -18315,6 +18314,7 @@ antiunionist
 araliaceous
 astronomers
 astronauts
+antiarin
 aralie
 algaroba
 amerindian
