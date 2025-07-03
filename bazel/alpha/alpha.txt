@@ -7364,7 +7364,6 @@ alienate
 achromat
 albetad
 albi
-aquiparous
 albian
 albicans
 animadversiveness
@@ -14589,6 +14588,7 @@ angiectopia
 anchorless
 anthropogeographer
 antischolastically
+aquiparous
 antiamusement
 aurichalcite
 ascertainment
