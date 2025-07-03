@@ -11529,7 +11529,6 @@ apathus
 auxiliarly
 aper
 appositions
-anabolism
 accinging
 anabolize
 albuminise
@@ -12432,6 +12431,7 @@ anecdotically
 aegagropile
 appealed
 aftmost
+anabolism
 anechoic
 antireducing
 amazed
