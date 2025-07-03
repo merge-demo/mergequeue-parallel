@@ -3626,6 +3626,7 @@ curtaxe
 caracol
 coauthoring
 caracoling
+commentated
 curliest
 crustate
 caracolite
@@ -20070,7 +20071,6 @@ comment
 commentable
 commentarialism
 corky
-commentated
 cragsmen
 commentative
 credulous
