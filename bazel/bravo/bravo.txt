@@ -4255,7 +4255,6 @@ beriming
 blunderheadedness
 beaverize
 beaverkin
-bosnian
 beaverskin
 branded
 beckett
@@ -5563,6 +5562,7 @@ bejezebel
 bejuco
 bontebucks
 bagnette
+bosnian
 barrette
 basihyoid
 bloodguiltless
