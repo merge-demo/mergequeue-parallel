@@ -1788,7 +1788,6 @@ adulce
 acellular
 acemila
 antilepton
-allocthonous
 ahaaina
 acerb
 acromioscapular
@@ -23187,6 +23186,7 @@ armageddonist
 alangiaceae
 antagonizable
 achroite
+allocthonous
 attracter
 attractingly
 actability
