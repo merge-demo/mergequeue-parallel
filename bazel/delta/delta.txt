@@ -378,6 +378,7 @@ doupion
 daimiate
 daimiel
 davallia
+derelinquish
 daimyo
 dawdlers
 dreadness
@@ -6184,7 +6185,6 @@ doeuvre
 droshkies
 dolours
 detailedly
-derelinquish
 decrepitness
 derencephalus
 derestrict
