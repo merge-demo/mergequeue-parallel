@@ -1729,7 +1729,6 @@ deathlessness
 deathlikeness
 dundees
 deathliness
-deathrates
 deaths
 deathsman
 discrepating
@@ -6182,6 +6181,7 @@ dereistic
 derelicts
 doeuvre
 droshkies
+deathrates
 dolours
 detailedly
 derelinquish
