@@ -17070,6 +17070,7 @@ apodyteria
 adverb
 apodyterium
 apods
+asthenosphere
 azotizing
 apoenzyme
 apofenchene
@@ -18132,7 +18133,6 @@ advowee
 ascender
 aplanospore
 arminian
-asthenosphere
 atip
 aquatone
 acidemias
