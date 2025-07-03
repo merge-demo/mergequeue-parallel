@@ -14468,7 +14468,6 @@ anthropologists
 anthropometer
 anthropometry
 anuloma
-anthropometric
 acrocarpi
 allan
 anthropometrist
@@ -25368,6 +25367,7 @@ azotorrhea
 actualisation
 absolutists
 alveolated
+anthropometric
 azovernine
 anatomy
 autopsychorhythmia
