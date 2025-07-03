@@ -11718,6 +11718,7 @@ bardolatry
 birthmate
 bestubbled
 bonneted
+butcha
 bobcoat
 bobeche
 benchmarked
@@ -18102,7 +18103,6 @@ bind
 bergander
 bouderie
 butch
-butcha
 bedoyo
 bolbanac
 butcher
