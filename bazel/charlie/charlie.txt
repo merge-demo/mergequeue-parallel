@@ -3782,6 +3782,7 @@ chlorpikrin
 cheerios
 civilist
 carbazole
+coguardian
 carbeen
 carbene
 cantorian
@@ -17915,7 +17916,6 @@ calcigerous
 controlled
 codling
 classlessness
-coguardian
 codman
 carneous
 codol
