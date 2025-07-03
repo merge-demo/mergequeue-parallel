@@ -948,7 +948,6 @@ azoflavine
 absorbing
 altitudinous
 absorpt
-absorptiometer
 allegeable
 alive
 analcites
@@ -11179,6 +11178,7 @@ amphicytula
 astrobiologists
 amphicoelous
 aldeament
+absorptiometer
 albifying
 amongst
 amphicondyla
