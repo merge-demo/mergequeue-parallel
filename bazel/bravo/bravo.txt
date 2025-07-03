@@ -1555,6 +1555,7 @@ ballerina
 ballet
 balletomane
 benzotrifuran
+beamlet
 brocked
 bigged
 blastiest
@@ -16210,7 +16211,6 @@ bricklining
 beluga
 browniest
 blackguardize
-beamlet
 bindwith
 bahuts
 bottomland
