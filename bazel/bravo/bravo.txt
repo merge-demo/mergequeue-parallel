@@ -5691,6 +5691,7 @@ biogeochemical
 bibliotaph
 beleper
 bicycle
+burgoyne
 balandra
 butterpaste
 bridegroomship
@@ -17618,7 +17619,6 @@ basote
 breath
 blay
 bunchflower
-burgoyne
 burgomasters
 burgomastership
 balladwise
