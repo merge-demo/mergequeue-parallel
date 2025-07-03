@@ -2964,7 +2964,6 @@ cantharidized
 cantharus
 clotter
 chank
-carabini
 cleverest
 caustic
 chilitis
@@ -28240,6 +28239,7 @@ cyclometries
 counteragitation
 crapshooters
 crumlet
+carabini
 colchyte
 crare
 crashed

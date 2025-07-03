@@ -1831,7 +1831,6 @@ bowlin
 bandaid
 bandala
 buggery
-bandanaed
 battlepiece
 bollito
 bullary
@@ -11086,6 +11085,7 @@ bioral
 blockiest
 bevelling
 blocking
+bandanaed
 borborygmic
 benzimidazole
 biomorphic
