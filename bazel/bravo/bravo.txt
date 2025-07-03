@@ -395,7 +395,6 @@ baseballdom
 baht
 bullocky
 beri
-ballium
 butterball
 bermudite
 bewailed
@@ -9218,6 +9217,7 @@ backhauling
 bourbonesque
 bipedality
 bipeds
+ballium
 bipeltate
 bipennate
 brunches
