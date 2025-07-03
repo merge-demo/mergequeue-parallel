@@ -3692,7 +3692,6 @@ aquariist
 aburabozu
 adfluxion
 alligator
-adfreezing
 adhafera
 agones
 adhaka
@@ -18761,6 +18760,7 @@ acetonurometer
 arches
 albumosuria
 apehood
+adfreezing
 archespores
 autonephrectomy
 archesporial
