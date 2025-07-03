@@ -3176,7 +3176,6 @@ antiscians
 anamnia
 admonished
 acropathy
-actualistic
 alphabeted
 actuality
 alcayde
@@ -14217,6 +14216,7 @@ antevert
 anteverting
 americanist
 anthdia
+actualistic
 anthroposociologist
 albs
 ammonite
