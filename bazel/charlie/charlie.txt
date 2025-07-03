@@ -2889,6 +2889,7 @@ canopus
 chairlady
 canos
 canossa
+counterwheel
 canotier
 canreply
 cubi
@@ -27224,7 +27225,6 @@ counterweigh
 counterweight
 counterweighted
 counterweights
-counterwheel
 counterwilling
 counterwitness
 counterwork
