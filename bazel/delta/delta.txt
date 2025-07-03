@@ -5704,7 +5704,6 @@ disrobe
 dentelliere
 deplaning
 dylan
-dawdled
 drumler
 deplant
 disvertebrate
@@ -10025,6 +10024,7 @@ defensor
 dasyatidae
 dimness
 decisiveness
+dawdled
 dermatographism
 dysacousma
 deuteroscopic
