@@ -3212,6 +3212,7 @@ defendable
 dikast
 dolmenic
 demimondaine
+dentalized
 dissentient
 distrainor
 defendant
@@ -5321,7 +5322,6 @@ diancecht
 dentality
 dentaliums
 dakoit
-dentalized
 delphinapterus
 dentallia
 dentaphone
