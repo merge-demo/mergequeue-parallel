@@ -9194,7 +9194,6 @@ dihexahedron
 daubry
 decapods
 dreamfully
-dowses
 diductively
 didunculinae
 djasakid
@@ -11025,6 +11024,7 @@ disseizure
 dayblush
 deboistness
 diasystem
+dowses
 disaligned
 disalliege
 deoxidization
