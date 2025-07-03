@@ -2593,6 +2593,7 @@ dartars
 deignous
 deoxygenation
 decodon
+desiredness
 demiurges
 diswarrened
 dahomeyan
@@ -3769,7 +3770,6 @@ dehorner
 diplography
 deadlily
 dehorners
-desiredness
 dehorning
 disconcertingly
 developers
