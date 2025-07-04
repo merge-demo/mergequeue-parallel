@@ -6954,6 +6954,7 @@ calorimetric
 cementatory
 chlorobromomethane
 curvirostres
+curving
 charros
 cementer
 cementers
@@ -31630,7 +31631,6 @@ carpingly
 curvimeter
 curvinerved
 curviness
-curving
 curviserial
 curvital
 curvities
