@@ -2365,6 +2365,7 @@ bilertinned
 barcella
 biopic
 barcelona
+basics
 boxwork
 blip
 bebeeru
@@ -9165,7 +9166,6 @@ booklouse
 bruted
 banksides
 biotins
-basics
 beefhead
 biogeographer
 biotypes
