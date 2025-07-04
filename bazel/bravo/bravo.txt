@@ -4626,7 +4626,6 @@ bens
 barry
 boeing
 basigamy
-buxus
 bedevilling
 barbershops
 borities
@@ -8870,6 +8869,7 @@ bioassaying
 byplace
 bioastronautics
 belch
+buxus
 biobibliographer
 barleysick
 bioblastic
