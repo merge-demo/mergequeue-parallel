@@ -1572,6 +1572,7 @@ corrobboree
 callorhynchidae
 callosal
 chronographs
+comites
 callose
 crafts
 calloses
@@ -20409,7 +20410,6 @@ cancerdrops
 compactor
 compactors
 compacts
-comites
 compacture
 chives
 crumbliness
