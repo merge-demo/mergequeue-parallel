@@ -9844,7 +9844,6 @@ dillymen
 durangite
 doorstops
 demasculinising
-disenfranchise
 dills
 delusiveness
 dillseed
@@ -17725,6 +17724,7 @@ dubiety
 demutization
 dubio
 devot
+disenfranchise
 diene
 discoloredness
 discriminateness
