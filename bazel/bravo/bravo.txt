@@ -401,7 +401,6 @@ bermudite
 bewailed
 bladderpod
 bathinette
-backlings
 balletic
 bummed
 bixbyite
@@ -1318,6 +1317,7 @@ balantidic
 bearlike
 balaos
 baroquely
+backlings
 benzamino
 barbed
 balases
