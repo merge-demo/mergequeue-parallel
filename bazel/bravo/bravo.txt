@@ -1660,7 +1660,6 @@ bogtrot
 ballsier
 boycotter
 ballsiest
-bengali
 befur
 ballstock
 ballup
@@ -7646,6 +7645,7 @@ backened
 biogenies
 beeper
 burgling
+bengali
 bewraps
 belesprit
 bewrapt
