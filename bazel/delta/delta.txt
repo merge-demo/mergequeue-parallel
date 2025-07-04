@@ -4286,7 +4286,6 @@ destructible
 deltidia
 dineros
 danseuses
-deltohedron
 dogvanes
 dauerlauf
 delubra
@@ -4725,6 +4724,7 @@ demitranslucence
 demits
 demitted
 denticulately
+deltohedron
 dilutive
 duties
 dipterologist
