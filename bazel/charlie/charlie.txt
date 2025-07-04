@@ -12890,6 +12890,7 @@ cognisance
 chauth
 churchite
 cirrhopod
+clockworks
 cladine
 ceratitidae
 cosmogonic
@@ -22065,7 +22066,6 @@ conflicts
 catabiotic
 cheltenham
 conflow
-clockworks
 confluent
 confluxes
 confluxibility
