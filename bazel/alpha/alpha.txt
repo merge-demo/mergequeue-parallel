@@ -13292,7 +13292,6 @@ abassin
 anisophylly
 anisophyllous
 afterchurch
-atbash
 apace
 anisopod
 ataraxias
@@ -14808,6 +14807,7 @@ antichthones
 acuan
 azoology
 astrognosy
+atbash
 autospray
 antimachinery
 anticyclic
