@@ -10246,7 +10246,6 @@ chiasmatype
 counterformula
 clockings
 chiasmic
-cleruchic
 chiasms
 coset
 chiasmus
@@ -21709,6 +21708,7 @@ crackling
 cinchonism
 conditioner
 champagne
+cleruchic
 conditions
 condititivia
 carboxydomonas

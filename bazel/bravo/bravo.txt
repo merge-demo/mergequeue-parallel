@@ -1398,6 +1398,7 @@ baldpatedness
 bulter
 baldrib
 balds
+bivial
 baculums
 bale
 baleare
@@ -1820,7 +1821,6 @@ becharm
 billycans
 bancha
 bonhomie
-bivial
 bipunctate
 beslime
 bullose
