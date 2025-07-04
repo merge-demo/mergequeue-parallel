@@ -7953,7 +7953,6 @@ dedendum
 diaplex
 decemplicate
 dexterously
-dextrad
 dextral
 directed
 dextran
@@ -8249,6 +8248,7 @@ diorism
 diadochian
 diadochic
 diadochite
+dextrad
 dethroner
 diadochokinesia
 diadoumenos
