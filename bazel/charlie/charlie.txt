@@ -4515,7 +4515,6 @@ chortling
 cosponsorship
 carnages
 casamarca
-carnalite
 culverin
 carnalize
 counterexposition
@@ -7857,6 +7856,7 @@ cervicispinal
 cervicitis
 cervicoauricular
 chippable
+carnalite
 cervicobasilar
 cervicobregmatic
 cobitis

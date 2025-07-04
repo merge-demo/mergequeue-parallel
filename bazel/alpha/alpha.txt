@@ -18770,7 +18770,6 @@ archetypal
 arabian
 anhydremic
 almaciga
-archetypes
 attributive
 asymmetrically
 archettos
@@ -21362,6 +21361,7 @@ asparagic
 asparagyl
 antiglyoxalase
 asparagin
+archetypes
 arachnactis
 asparamic
 aproned
