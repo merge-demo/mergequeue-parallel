@@ -5162,6 +5162,7 @@ caseolysis
 caseose
 caseous
 caserios
+chromolithographic
 chronal
 cyphering
 caserne
@@ -12504,7 +12505,6 @@ colent
 chromolithic
 concanavalin
 chromolithography
-chromolithographic
 chromomere
 chondrosarcoma
 chromone
