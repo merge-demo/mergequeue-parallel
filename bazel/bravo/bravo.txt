@@ -4550,7 +4550,6 @@ bedaggle
 berrybush
 beguard
 beday
-babul
 biddable
 bedamned
 beweep
@@ -9114,6 +9113,7 @@ benzonitrol
 beclout
 birds
 bushwhacking
+babul
 bistournage
 biennia
 bicalcarate
