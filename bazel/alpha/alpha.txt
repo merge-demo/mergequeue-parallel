@@ -8918,6 +8918,7 @@ alloyage
 aeroporotomy
 alloiogenesis
 attitude
+abjectness
 alloiometric
 adjustments
 acrogenic
@@ -21497,7 +21498,6 @@ aurorean
 aspidistras
 aspidium
 aspidobranchiata
-abjectness
 antidominican
 aspidobranchiate
 acocanthera
