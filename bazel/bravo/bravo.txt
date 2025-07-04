@@ -5345,7 +5345,6 @@ breviers
 beglue
 blastomas
 beerage
-begnaw
 biharmonic
 balmy
 bult
@@ -8942,6 +8941,7 @@ blueberries
 bioethics
 belltopperdom
 barricados
+begnaw
 boskiness
 bozzetto
 burnishment
