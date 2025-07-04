@@ -7910,7 +7910,6 @@ allomerized
 adorningly
 aristippus
 aleppo
-alerce
 alerse
 agglutinates
 alerta
@@ -24804,6 +24803,7 @@ avocado
 adaption
 avocadoes
 augmentatively
+alerce
 avocat
 aud
 avocations
