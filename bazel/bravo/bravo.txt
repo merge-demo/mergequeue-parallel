@@ -5936,7 +5936,6 @@ belostomatidae
 bisnagas
 bouillabaisse
 belostomidae
-belotte
 bowden
 broadening
 bechancing
@@ -6366,6 +6365,7 @@ bibs
 benzanthrone
 bifarious
 bipolarize
+belotte
 ballbuster
 begalling
 begrace
