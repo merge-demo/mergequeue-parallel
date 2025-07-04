@@ -9787,7 +9787,6 @@ descender
 decolourization
 dilatometer
 dilatometrically
-dilator
 dynamometers
 dilatoriness
 daypeep
@@ -13528,6 +13527,7 @@ dissceptre
 deceivance
 denaturized
 dolesome
+dilator
 diocletian
 dissuadable
 disseason
