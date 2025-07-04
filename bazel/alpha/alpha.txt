@@ -19671,6 +19671,7 @@ aristodemocracies
 anthericum
 aftermeal
 aristodemocratical
+assign
 ancle
 anticivilian
 alkalinise
@@ -21761,7 +21762,6 @@ assiege
 auricula
 assiette
 assify
-assign
 absorbedness
 assignability
 astrodynamics
