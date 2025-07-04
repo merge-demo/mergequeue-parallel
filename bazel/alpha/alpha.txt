@@ -17313,7 +17313,6 @@ animalcules
 anaesthetic
 autothermy
 aposteme
-aposteriori
 arctogaea
 aerogun
 apostil
@@ -19464,6 +19463,7 @@ accessoriness
 argolian
 accumulativeness
 assaults
+aposteriori
 adenotomy
 acad
 animatism
