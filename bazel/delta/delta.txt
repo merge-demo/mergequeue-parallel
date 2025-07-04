@@ -2450,6 +2450,7 @@ decipherably
 deciphered
 damgalnunna
 drepane
+diplomats
 deciphering
 dunghill
 destrudo
@@ -10641,7 +10642,6 @@ discogastrula
 diplomatology
 diauli
 decompressing
-diplomats
 dysporomorph
 drawfile
 diplonema
