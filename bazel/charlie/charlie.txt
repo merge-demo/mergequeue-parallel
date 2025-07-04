@@ -2704,7 +2704,6 @@ cankerbird
 carriable
 conder
 cankereat
-cankered
 cankeredly
 codders
 cephalosporium
@@ -9604,6 +9603,7 @@ catechize
 cubiculum
 capacitively
 checkweighmen
+cankered
 closeted
 checkwork
 cosmologist
