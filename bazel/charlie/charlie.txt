@@ -12708,7 +12708,6 @@ cottier
 cyanastrum
 campoody
 curches
-chucklers
 chuckles
 chucklesome
 chiavetta
@@ -20614,6 +20613,7 @@ competitrix
 compilable
 cofounded
 curvilinearly
+chucklers
 compilations
 compilator
 compiled
