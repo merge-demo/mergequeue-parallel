@@ -4821,6 +4821,7 @@ deair
 disseizor
 dadouchos
 diemaker
+doodad
 dentalizing
 disenslave
 demography
@@ -7064,7 +7065,6 @@ destinezite
 driveable
 dessous
 devall
-doodad
 durst
 dessus
 destabilization
