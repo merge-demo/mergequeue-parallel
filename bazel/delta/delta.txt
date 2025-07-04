@@ -13927,6 +13927,7 @@ deodand
 daemonian
 disdainous
 dachs
+designators
 distillmint
 distinction
 dertrum
@@ -15550,7 +15551,6 @@ diopsides
 deliquesced
 disvalued
 derobe
-designators
 dement
 dewanny
 disuniformity
