@@ -14035,6 +14035,7 @@ antedating
 astur
 anapests
 academize
+apothecium
 antedorsal
 antefact
 animadverting
@@ -17385,7 +17386,6 @@ afret
 apothecial
 archenemy
 aurichlorohydric
-apothecium
 antitrope
 arbitrement
 areologic
