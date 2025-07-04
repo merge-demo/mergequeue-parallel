@@ -8805,7 +8805,6 @@ deuterodome
 diapering
 diazins
 dulcifying
-defeat
 defrocking
 dequeen
 dragsmen
@@ -14531,6 +14530,7 @@ dad
 demurest
 diformin
 damaging
+defeat
 dyeing
 detruncated
 disintegratory
