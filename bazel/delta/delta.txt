@@ -6313,7 +6313,6 @@ dermatorrhagia
 drossy
 dial
 dendrolatry
-dislaurel
 dermatosclerosis
 dissentiency
 dermatoses
@@ -13845,6 +13844,7 @@ derogatively
 dysphemia
 dogeared
 distasteful
+dislaurel
 disappointment
 defoliated
 distastefulness
