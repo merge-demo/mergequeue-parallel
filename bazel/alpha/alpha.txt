@@ -653,6 +653,7 @@ abomasus
 appetize
 abominably
 abominate
+allegiances
 avifaunal
 adulates
 abbreviated
@@ -16693,7 +16694,6 @@ acara
 aphanozygous
 adenolipomatosis
 adverbless
-allegiances
 auburn
 annunciated
 apharsathacites
