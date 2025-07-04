@@ -2584,7 +2584,6 @@ bulletined
 bedevils
 barytocelestite
 barytone
-barytons
 busing
 bears
 brittlely
@@ -6977,6 +6976,7 @@ basad
 beshrews
 bebrine
 beshrivel
+barytons
 beshroud
 bensil
 bigmitt
