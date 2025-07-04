@@ -2306,7 +2306,6 @@ cobs
 cithrens
 carthaginian
 canaler
-chimeres
 caprone
 chylocyst
 cipher
@@ -31867,6 +31866,7 @@ cransier
 cuttage
 caccabis
 crowfooted
+chimeres
 cuttail
 cutterhead
 chemicals
