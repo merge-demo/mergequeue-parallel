@@ -6500,7 +6500,6 @@ dispossesses
 desmarestiaceae
 descendable
 descendants
-dimensioned
 dipeptid
 dentellated
 disqualification
@@ -18136,6 +18135,7 @@ domatophobia
 dumose
 decamp
 diorthoses
+dimensioned
 dock
 domiciliation
 dumosity
