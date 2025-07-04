@@ -1289,6 +1289,7 @@ daceloninae
 dauding
 dicotyledones
 dogate
+datch
 desorb
 directest
 daughterly
@@ -18500,7 +18501,6 @@ driftlet
 declamator
 duramater
 duramens
-datch
 duffer
 durances
 downcast
