@@ -3635,7 +3635,6 @@ bioplasm
 batoon
 biconjugate
 backsettler
-batophobia
 benzdioxazine
 balloonery
 bepierce
@@ -8430,6 +8429,7 @@ bookmen
 bilalo
 bacony
 bilamellate
+batophobia
 beaverette
 bilamellated
 bocage
