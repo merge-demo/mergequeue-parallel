@@ -15208,7 +15208,6 @@ benchers
 bridale
 basehearted
 bridally
-bridals
 boneheads
 brimstonewort
 briarberry
@@ -16853,6 +16852,7 @@ burhead
 bichromatic
 bathysophic
 buffoonish
+bridals
 bungle
 baret
 birostrated
