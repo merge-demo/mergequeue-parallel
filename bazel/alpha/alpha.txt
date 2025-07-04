@@ -7092,6 +7092,7 @@ akkadist
 akmite
 aftershock
 arthroderm
+acetimetry
 aerocartograph
 actuator
 anointers
@@ -15257,7 +15258,6 @@ aminoacetanilide
 arcadings
 anisotropal
 antigraph
-acetimetry
 antigravitate
 akey
 awalim
