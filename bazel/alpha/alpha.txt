@@ -2630,6 +2630,7 @@ acrania
 acranial
 aethalia
 assignor
+antisnapper
 acrasias
 advertizer
 apartment
@@ -16139,7 +16140,6 @@ antismoking
 assurant
 arpanet
 araliaephyllum
-antisnapper
 antisocial
 ardelio
 antisocialist
