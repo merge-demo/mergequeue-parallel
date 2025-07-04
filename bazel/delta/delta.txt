@@ -5002,7 +5002,6 @@ demounts
 dempsters
 deaerate
 demulcents
-diphycercy
 demulsibility
 demulsification
 diseasedly
@@ -7252,6 +7251,7 @@ dyingly
 detente
 dicotyl
 dimetric
+diphycercy
 detenu
 detenue
 desulfurize
