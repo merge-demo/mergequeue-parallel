@@ -2386,6 +2386,7 @@ cumbly
 canavali
 canavalia
 cremerie
+comarca
 crambly
 correlatively
 canc
@@ -16848,7 +16849,6 @@ castling
 coauditor
 commercialized
 corporealist
-comarca
 clowder
 clowders
 clower
