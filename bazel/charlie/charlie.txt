@@ -3570,6 +3570,7 @@ capturing
 curricular
 capuan
 capuched
+centrifugate
 chortler
 counterbase
 conacaste
@@ -7234,7 +7235,6 @@ catawba
 clamors
 centrifugaller
 cladoceran
-centrifugate
 centrifuge
 centrifugence
 centrifuging

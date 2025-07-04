@@ -546,6 +546,7 @@ dextrorotation
 demobilized
 dieback
 designations
+dumpish
 dialyzing
 diplosis
 deliverers
@@ -4309,7 +4310,6 @@ donar
 decoagulated
 dramatize
 delusionary
-dumpish
 delusions
 delusively
 deporting
