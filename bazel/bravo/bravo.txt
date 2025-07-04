@@ -4022,7 +4022,6 @@ bom
 banditti
 butled
 beambird
-beamed
 beeve
 bedrock
 beamers
@@ -5450,6 +5449,7 @@ bandying
 bandura
 basebred
 beheaded
+beamed
 beheader
 beheira
 beachward
