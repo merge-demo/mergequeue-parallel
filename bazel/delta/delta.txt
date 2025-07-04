@@ -11897,7 +11897,6 @@ doux
 deathblow
 dehypnotized
 decumbency
-dragoonade
 daguerreotypic
 disdar
 disdein
@@ -15732,6 +15731,7 @@ deflectors
 dissava
 dorbel
 dorbugs
+dragoonade
 defeatist
 dorcastry
 diadermic

@@ -7618,6 +7618,7 @@ boons
 bewitchingly
 bewitchingness
 brownprint
+burgher
 bewitchment
 bewizard
 blandished
@@ -17593,7 +17594,6 @@ baseballs
 burggrave
 burghbote
 brandished
-burgher
 bristling
 burgherage
 beguine
