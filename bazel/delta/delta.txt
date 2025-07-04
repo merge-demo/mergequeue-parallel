@@ -15732,6 +15732,7 @@ deflectors
 dissava
 dorbel
 dorbugs
+desiccates
 defeatist
 dorcastry
 diadermic
@@ -18054,7 +18055,6 @@ dermestoid
 derail
 disturbing
 drometer
-desiccates
 dullity
 disgaveling
 droned
