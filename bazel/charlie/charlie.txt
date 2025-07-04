@@ -374,7 +374,6 @@ chlorals
 cacolet
 citronella
 cacology
-cosseted
 cacomagician
 cacomelia
 cacomistle
@@ -29184,6 +29183,7 @@ cryophyllite
 cryophyte
 criophore
 crannogs
+cosseted
 chlordiazepoxide
 crownband
 cryoscopy
