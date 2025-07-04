@@ -20486,6 +20486,7 @@ cocarboxylase
 cacaxte
 conelet
 compartmentalization
+cloning
 celliferous
 chappaul
 compartmentalizing
@@ -28321,7 +28322,6 @@ cravat
 capmaker
 cravats
 cravatting
-cloning
 chytra
 circuitor
 crave
