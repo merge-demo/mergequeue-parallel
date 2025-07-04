@@ -2539,6 +2539,7 @@ dimorphs
 dumbfounded
 dweller
 declassification
+digesters
 derringer
 diachrony
 declassifies
@@ -9830,7 +9831,6 @@ dillesk
 daimones
 denumerable
 deicer
-digesters
 dumetose
 dillydally
 diabolically
