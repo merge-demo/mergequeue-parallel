@@ -3955,7 +3955,6 @@ adman
 admeasure
 antiquatedness
 admeasurer
-adumbrant
 admeasuring
 amimide
 afforced
@@ -6501,6 +6500,7 @@ acrogynae
 antidomestic
 amphiphloic
 ayacahuite
+adumbrant
 arbutase
 athbash
 ay
