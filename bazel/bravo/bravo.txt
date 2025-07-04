@@ -9277,7 +9277,6 @@ bantamweights
 blanch
 becafico
 bipod
-bipods
 botches
 bipolarity
 bipolarization
@@ -18319,6 +18318,7 @@ bridgebuilding
 banked
 beths
 bioelectricities
+bipods
 blennuria
 brahmans
 brightens

@@ -11538,6 +11538,7 @@ chokeberries
 chaetangiaceae
 compester
 chokedamp
+crancelin
 chokeys
 camerata
 congenetic
@@ -28950,7 +28951,6 @@ convocated
 cricetidae
 chrysal
 curtseyed
-crancelin
 crimmy
 cricetids
 cricetus
