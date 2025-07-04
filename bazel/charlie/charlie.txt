@@ -12581,6 +12581,7 @@ cacothes
 concurrences
 concubitus
 chronaxie
+cocinero
 chronaxies
 chronic
 chronica
@@ -14793,7 +14794,6 @@ cladosiphonic
 coordinate
 coenamor
 coccinellid
-cocinero
 chiarooscuros
 cityness
 cotyle
