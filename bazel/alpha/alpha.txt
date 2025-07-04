@@ -21484,7 +21484,6 @@ arrowroot
 asphodel
 aspy
 aspics
-aspidiaria
 aspidinol
 aladdinize
 aspidiske
@@ -22104,6 +22103,7 @@ astigmat
 arabize
 aeroneurosis
 adolescents
+aspidiaria
 absorbedly
 astigmatometer
 atrocoeruleus
