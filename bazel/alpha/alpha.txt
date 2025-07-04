@@ -1571,6 +1571,7 @@ accordingly
 amritas
 amalg
 accordion
+astrologous
 accordionist
 accordionists
 adamical
@@ -11474,7 +11475,6 @@ attractors
 abbatical
 authenticators
 amarelles
-astrologous
 acidimetric
 amusette
 aptate
