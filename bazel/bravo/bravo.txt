@@ -4645,7 +4645,6 @@ broadgage
 brunhild
 breakfastless
 beltmaking
-bhikhari
 briquetted
 bedfellows
 buildable
@@ -8992,6 +8991,7 @@ bronzen
 bioinstrument
 biolinguistics
 belted
+bhikhari
 biolyses
 bouleverse
 beneficium
