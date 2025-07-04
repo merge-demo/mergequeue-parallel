@@ -6811,7 +6811,6 @@ beaut
 buhls
 barytosulphate
 badian
-bookery
 bersagliere
 berserker
 brittles
@@ -11835,6 +11834,7 @@ betrinket
 birthing
 bard
 briareus
+bookery
 browbeater
 bootlegging
 banking
