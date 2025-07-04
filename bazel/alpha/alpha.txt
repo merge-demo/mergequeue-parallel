@@ -13325,7 +13325,6 @@ anisotropically
 anencephalotrophia
 archimorphic
 anisotropies
-anystidae
 anhydrating
 anisum
 antileveling
@@ -18452,6 +18451,7 @@ anthropoidal
 arboraceous
 anticorset
 arboral
+anystidae
 amphicondylous
 allotype
 averish
