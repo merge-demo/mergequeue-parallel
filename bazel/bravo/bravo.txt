@@ -5034,7 +5034,6 @@ bristle
 bedunces
 bronzings
 beetroots
-becarve
 beeweed
 beewise
 blithesomeness
@@ -15715,6 +15714,7 @@ beclogged
 brochophony
 brocht
 brochure
+becarve
 balisier
 babblishly
 brock
