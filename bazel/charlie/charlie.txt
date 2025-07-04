@@ -9041,6 +9041,7 @@ cryptal
 charism
 charisma
 counterpointe
+crataeva
 charismata
 chokecherry
 consuete
@@ -28274,7 +28275,6 @@ calc
 crassities
 crassly
 crassulaceae
-crataeva
 champlain
 cratches
 curtnesses
