@@ -10300,7 +10300,6 @@ dioctahedral
 dioctophyme
 deave
 defaulting
-diodontidae
 dioecy
 dioecia
 demurred
@@ -13551,6 +13550,7 @@ demeritorious
 disquisitive
 disrelishable
 diogenic
+diodontidae
 dissentment
 diagraphic
 dissemination
