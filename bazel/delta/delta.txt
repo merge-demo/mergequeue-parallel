@@ -1885,7 +1885,6 @@ debouche
 disbench
 disconcertingness
 discourse
-debouchment
 debout
 deervetch
 donging
@@ -13384,6 +13383,7 @@ disunited
 disbandments
 doability
 djinn
+debouchment
 disquisitorial
 diazoamin
 depression
