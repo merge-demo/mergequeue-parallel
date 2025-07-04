@@ -8878,7 +8878,6 @@ bungaloid
 berakot
 biocenology
 brontolith
-blankmindedness
 bulgar
 biocenosis
 burgraviate
@@ -14397,6 +14396,7 @@ bacteroides
 bicyclo
 braggadocios
 bemocked
+blankmindedness
 bisischiadic
 brainpan
 brainpans
