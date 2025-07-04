@@ -5972,6 +5972,7 @@ disorderedness
 deprivable
 degrader
 departements
+disme
 dimethylnitrosamine
 deprivals
 deceiver
@@ -12842,7 +12843,6 @@ democratization
 dystectic
 dismasted
 denned
-disme
 decast
 dipteran
 dismembrator
