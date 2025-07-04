@@ -630,7 +630,6 @@ derbukka
 dioptoscopy
 decoyman
 dinoflagellata
-deploitation
 damnify
 dearth
 damnificatus
@@ -9219,6 +9218,7 @@ dieb
 dusterman
 delaine
 diebacks
+deploitation
 dictyopteran
 dehydrogenation
 diecious
