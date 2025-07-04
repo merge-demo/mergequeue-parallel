@@ -18225,6 +18225,7 @@ debarked
 dogra
 duneland
 dunelike
+deports
 doeglic
 darzee
 deftest
@@ -18677,6 +18678,5 @@ dwarfs
 diaulos
 dwindled
 dwindlement
-deports
 dwindles
 dwindling
