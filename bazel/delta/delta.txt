@@ -5248,7 +5248,6 @@ depolarisation
 deafer
 denotatively
 dampens
-denotativeness
 denotatum
 deacidifying
 denotes
@@ -18195,6 +18194,7 @@ duncical
 delamination
 dharani
 dispensary
+denotativeness
 dilatator
 duncish
 diplodus
