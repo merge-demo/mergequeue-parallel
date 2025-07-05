@@ -5097,7 +5097,6 @@ audition
 aethionema
 aetiogenic
 arsenides
-almagest
 aetiologies
 aloelike
 aetiologist
@@ -24377,6 +24376,7 @@ antagonise
 autosight
 albuminuric
 autosymbolic
+almagest
 autosymbolical
 autosymbolically
 augmentationer
