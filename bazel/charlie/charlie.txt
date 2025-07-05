@@ -1128,7 +1128,6 @@ chromatosphere
 calcite
 calcitestaceous
 carollers
-cuppers
 cloddiness
 calcitic
 calcitrant
@@ -14528,6 +14527,7 @@ cirsotomy
 cirsotomies
 cirterion
 cyrtoceras
+cuppers
 chergui
 courantos
 cyrtometer

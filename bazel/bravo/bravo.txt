@@ -7136,7 +7136,6 @@ butterlike
 bespill
 bathygraphic
 bastardies
-blurters
 besplatter
 bicarbs
 bespoke
@@ -17611,6 +17610,7 @@ bradykinetic
 bulldozes
 backster
 brenda
+blurters
 barricadoing
 burglarproofs
 burglars
