@@ -20345,6 +20345,7 @@ communization
 cuarta
 contumeliousness
 choruser
+chessmen
 coeloblastula
 couseranite
 chakra
@@ -23717,7 +23718,6 @@ crappers
 class
 contralto
 conjunctural
-chessmen
 cothurned
 cyclomyarian
 condensance
