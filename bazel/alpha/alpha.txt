@@ -1075,7 +1075,6 @@ antitorpedo
 abulia
 atticizing
 amphiboliferous
-abulias
 axhammered
 accolent
 apt
@@ -8574,6 +8573,7 @@ antiphonal
 archaeologically
 allachesthesia
 allagite
+abulias
 arborolatry
 ailuroid
 allagostemonous
