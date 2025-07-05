@@ -3042,7 +3042,6 @@ dowress
 decarbonized
 desegregation
 deers
-deerstalkers
 detailist
 deerstalking
 deerweed
@@ -15893,6 +15892,7 @@ deoxidizer
 dossiers
 diamondize
 dorty
+deerstalkers
 daikers
 documentor
 dosed
