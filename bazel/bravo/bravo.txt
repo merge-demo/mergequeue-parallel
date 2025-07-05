@@ -14348,6 +14348,7 @@ binomen
 burstones
 braidism
 braidist
+brewership
 braids
 bifidly
 brayera
@@ -15106,7 +15107,6 @@ baldicoot
 bronchotyphoid
 brickliner
 benting
-brewership
 brewhouse
 brewhouses
 bulked
