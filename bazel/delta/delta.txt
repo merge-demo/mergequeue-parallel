@@ -493,6 +493,7 @@ dislustering
 dalf
 daliance
 dalibarda
+demarches
 dismantler
 dalle
 diamylene
@@ -2786,7 +2787,6 @@ dorsalward
 disharmonize
 decremeter
 dicyemida
-demarches
 deftnesses
 duodecahedral
 dint
