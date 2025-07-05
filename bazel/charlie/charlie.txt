@@ -2817,7 +2817,6 @@ crispening
 chebeck
 cannulae
 cannulate
-circumscribe
 carajura
 cursitor
 cannulating
@@ -17070,6 +17069,7 @@ coabound
 coabsume
 cytodieretic
 coacceptor
+circumscribe
 coacervate
 censuring
 coachbuilder
