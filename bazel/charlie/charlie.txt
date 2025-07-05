@@ -2841,6 +2841,7 @@ canones
 cardooer
 canonesses
 canonicalization
+clift
 cultivable
 cinctures
 canonicalized
@@ -16148,7 +16149,6 @@ calamints
 cliffside
 cliffsman
 cliffweed
-clift
 clifty
 crystallitis
 clarify

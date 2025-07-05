@@ -3087,7 +3087,6 @@ defaillance
 defaitiste
 defalcated
 diethyltryptamine
-digraphs
 depleting
 dialecticize
 defalcating
@@ -16970,6 +16969,7 @@ drearness
 drecks
 dermatherm
 demihorse
+digraphs
 dullness
 downcurve
 dredgeful
