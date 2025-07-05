@@ -3439,6 +3439,7 @@ capriform
 caprigenous
 caprylic
 cymene
+coexerted
 caprylyl
 coat
 caprylone
@@ -18219,7 +18220,6 @@ calumniousness
 cryochoric
 coexecutor
 collectiveness
-coexerted
 cheeked
 coexerting
 condescends
