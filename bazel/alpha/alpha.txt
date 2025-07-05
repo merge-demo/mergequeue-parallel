@@ -3001,6 +3001,7 @@ assamar
 asbolin
 actinographic
 autotomy
+arrish
 actinoid
 allopelagic
 actinoids
@@ -3808,7 +3809,6 @@ angiorrhexis
 anteropygal
 adipolytic
 adipoma
-arrish
 articulary
 adipopexia
 adipopexis
