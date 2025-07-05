@@ -9456,7 +9456,6 @@ anerethisia
 alterably
 archaeocyte
 anythingarian
-apyrene
 alteration
 abettals
 althein
@@ -25349,6 +25348,7 @@ ankylosis
 azotemic
 amphitheatered
 azotenesis
+apyrene
 alimonies
 armit
 angiosis
