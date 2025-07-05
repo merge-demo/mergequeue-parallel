@@ -19126,7 +19126,6 @@ arctan
 arctation
 attendances
 arteriectasia
-abusable
 antepretonic
 antiparliamenteer
 alemannic
@@ -19710,6 +19709,7 @@ arenose
 arithmetic
 autophthalmoscope
 aoudads
+abusable
 albarellos
 antechurch
 arithmetizations
