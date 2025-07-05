@@ -3312,7 +3312,6 @@ atresic
 atelets
 andean
 adamellite
-allosyndesis
 antihierarchic
 adamine
 arborescence
@@ -4257,6 +4256,7 @@ adrenitis
 archcount
 adrenochrome
 adrenocortical
+allosyndesis
 adrenocorticotrophic
 ammonolysis
 afterstain
