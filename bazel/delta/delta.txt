@@ -1590,6 +1590,7 @@ disembrace
 digression
 deafness
 deairing
+disperse
 discernableness
 deairs
 dealate
@@ -13546,7 +13547,6 @@ defterdar
 deputation
 disaccharose
 dungeoner
-disperse
 demeritorious
 disquisitive
 disrelishable
