@@ -7775,7 +7775,6 @@ academias
 aurae
 aphidicide
 aldazine
-aldoheptose
 aargh
 aldoketene
 aldol
@@ -18680,6 +18679,7 @@ amblyopia
 archcrown
 arointed
 arthrosterigma
+aldoheptose
 archd
 archdeaconries
 archdefender
