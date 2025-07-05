@@ -7336,7 +7336,6 @@ dextropedal
 diphenylenimide
 detorsion
 deashed
-disagreed
 deutonephron
 disvulnerability
 determiner
@@ -15166,6 +15165,7 @@ dyaus
 deponent
 doddering
 dohickey
+disagreed
 doyenne
 diprotodont
 deduction
