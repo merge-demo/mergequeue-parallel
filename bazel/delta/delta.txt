@@ -3331,6 +3331,7 @@ dilatant
 depurge
 deliriate
 diastem
+diplotaxis
 demitting
 desisted
 destiny
@@ -10689,7 +10690,6 @@ dinornithoid
 diminuting
 dawties
 diplostichous
-diplotaxis
 dissipating
 durned
 draws
