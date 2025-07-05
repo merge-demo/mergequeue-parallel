@@ -14401,7 +14401,6 @@ abiotrophy
 arsenical
 anthratriol
 anthraxylon
-anthrenus
 agriculturalists
 anthribidae
 antipharisaic
@@ -16468,6 +16467,7 @@ antimicrobial
 aogiri
 astrally
 aristogenesis
+anthrenus
 aonach
 asaddle
 altica
