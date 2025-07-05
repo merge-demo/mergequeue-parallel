@@ -4845,7 +4845,6 @@ brightened
 bustard
 becrusts
 berean
-bedunced
 bacchantes
 bourgeon
 benames
@@ -5148,6 +5147,7 @@ budworm
 before
 biotic
 borings
+bedunced
 boomorah
 broadside
 beggarer
