@@ -7577,7 +7577,6 @@ ascophyllum
 alcatras
 anastomos
 astragal
-amidist
 alcazaba
 alcazar
 adamance
@@ -20699,6 +20698,7 @@ antipragmatically
 ambach
 artificialism
 artificiality
+amidist
 amesaces
 artificialities
 artilize
