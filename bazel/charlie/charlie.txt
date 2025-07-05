@@ -11369,6 +11369,7 @@ chlorometry
 categorem
 coopted
 capman
+circumundulation
 chloromycetin
 curbed
 chloronitrate
@@ -21475,7 +21476,6 @@ cowyard
 cumquats
 concordably
 concordal
-circumundulation
 concordance
 concordancer
 commands
