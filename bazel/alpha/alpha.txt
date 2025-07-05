@@ -6642,6 +6642,7 @@ archaeol
 ailuropoda
 ailurus
 ailweed
+autocar
 appassionatamente
 alcoholate
 ageustia
@@ -23935,7 +23936,6 @@ antilogarithms
 aftertrial
 apostatised
 aerator
-autocar
 alumnal
 autocarist
 antiwar
