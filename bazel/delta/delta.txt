@@ -3378,7 +3378,6 @@ defleas
 downlinks
 deflect
 dichotomic
-driftfishes
 disinhuming
 darer
 deflecting
@@ -8349,6 +8348,7 @@ duim
 darkishness
 damoclean
 ditrigonally
+driftfishes
 dockmaster
 dialectical
 dialectician
