@@ -428,7 +428,6 @@ dairywomen
 descanting
 dayrooms
 deities
-dodrantal
 dhourra
 discoursers
 dairous
@@ -11297,6 +11296,7 @@ distributional
 deadeyes
 dimmable
 discarded
+dodrantal
 dulceness
 dalliers
 drainageway
