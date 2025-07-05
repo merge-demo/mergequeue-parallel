@@ -2634,7 +2634,6 @@ barlafumble
 blurred
 basilinna
 buckstall
-bescour
 befriend
 bogyisms
 barbitals
@@ -11528,6 +11527,7 @@ blameworthiness
 buckaroos
 blunket
 blunnen
+bescour
 blunt
 befuddlements
 blunthearted

@@ -7515,7 +7515,6 @@ dogtrots
 drosera
 decocainize
 deutencephalon
-dumfounding
 deuteranomaly
 deuteranope
 deuterate
@@ -13562,6 +13561,7 @@ disseminations
 digredient
 depeopling
 disseminative
+dumfounding
 discretionary
 dissimulators
 dissension
