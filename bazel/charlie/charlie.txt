@@ -5830,7 +5830,6 @@ cannabins
 crinose
 currish
 categorise
-categorised
 chansonnier
 cultivated
 cochlearia
@@ -26494,6 +26493,7 @@ cotton
 cottonbush
 chumpishness
 cogitantly
+categorised
 cottoner
 crockeries
 cottonian
