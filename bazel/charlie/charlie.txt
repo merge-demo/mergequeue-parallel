@@ -15467,7 +15467,6 @@ claribella
 cellifugal
 chuddar
 cruzadoes
-clarifiant
 clarificant
 clarification
 clarifier
@@ -20934,6 +20933,7 @@ compressively
 compressometer
 compressors
 comprest
+clarifiant
 compriest
 collating
 chambering
