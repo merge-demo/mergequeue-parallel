@@ -13926,7 +13926,6 @@ cinnabar
 cinnabarine
 cinnabars
 cinnamaldehyde
-collaborationism
 cinnamate
 cinnamein
 cinnamene
@@ -20551,6 +20550,7 @@ carpogenic
 crumpling
 clarkia
 cipherable
+collaborationism
 costerdom
 colorability
 clayware
