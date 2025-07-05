@@ -11399,6 +11399,7 @@ amphioxus
 ampulliform
 affrightfully
 ampullula
+astronomize
 amputate
 amputates
 amputating
@@ -22355,7 +22356,6 @@ astronomical
 archin
 ajenjo
 astronomics
-astronomize
 anaphalantiasis
 aragallus
 astrophel
