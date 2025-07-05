@@ -26958,7 +26958,6 @@ counterobjection
 counterobligation
 counteroffensive
 chevet
-counteroffer
 counteropening
 counteropponent
 culotte
@@ -27563,6 +27562,7 @@ colloquialist
 cadency
 cupmaker
 coves
+counteroffer
 covet
 cerealin
 covetable
