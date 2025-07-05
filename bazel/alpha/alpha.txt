@@ -12151,6 +12151,7 @@ assistive
 ancestorially
 alcoholisation
 ancestors
+amperemeter
 ancestral
 ancestrally
 ancestry
@@ -23525,7 +23526,6 @@ amply
 adventuring
 andaqui
 antignostic
-amperemeter
 aunthood
 antiprophet
 aunty
