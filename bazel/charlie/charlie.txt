@@ -10937,7 +10937,6 @@ cautel
 cornu
 chirognomy
 cerement
-chirognomic
 crain
 chirognomically
 chirognomist
@@ -27181,6 +27180,7 @@ countertraction
 countertransference
 cystonectous
 countertraverse
+chirognomic
 countertreason
 clattertrap
 corbelling
