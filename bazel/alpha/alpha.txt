@@ -10111,7 +10111,6 @@ ajangle
 azedarach
 amorphous
 amboynas
-amboinese
 ambolic
 ambomalleal
 antenatus
@@ -16379,6 +16378,7 @@ antonym
 antonymy
 antonymies
 antonyms
+amboinese
 antoniniani
 antoninianus
 appointed
