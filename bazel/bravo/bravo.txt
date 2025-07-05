@@ -1496,7 +1496,6 @@ bespottedness
 beglad
 bemadamed
 ballades
-boser
 bacteremia
 borstal
 bistable
@@ -1881,6 +1880,7 @@ bryology
 bewend
 bonaght
 battutos
+boser
 bevies
 batukite
 bishoplike
