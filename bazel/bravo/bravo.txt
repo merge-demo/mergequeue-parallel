@@ -3572,7 +3572,6 @@ bibliomaniacal
 batholithic
 batholiths
 balaamite
-butchers
 balconet
 barkentine
 bathometer
@@ -12088,6 +12087,7 @@ bokom
 bola
 bolag
 bosey
+butchers
 bolas
 bedell
 bartsia
