@@ -13999,7 +13999,6 @@ cynosures
 cynosurus
 cynotherapy
 cynoxylon
-cinquains
 counterrevolutionize
 cinquanter
 cinque
@@ -30505,6 +30504,7 @@ conciliar
 counterweighed
 cubby
 cavin
+cinquains
 cubbyhouse
 cubbing
 codein
