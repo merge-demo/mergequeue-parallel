@@ -2936,6 +2936,7 @@ coverts
 chestily
 chorioids
 cantdog
+cloning
 cantdogs
 compensatively
 cantefable
@@ -28321,7 +28322,6 @@ cravat
 capmaker
 cravats
 cravatting
-cloning
 chytra
 circuitor
 crave
