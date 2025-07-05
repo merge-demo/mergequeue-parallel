@@ -1769,7 +1769,6 @@ bivvy
 balzarine
 bam
 bufonidae
-bluntish
 brittled
 bamalip
 bamban
@@ -11504,6 +11503,7 @@ bispore
 bethwack
 bluish
 bombload
+bluntish
 blumes
 benighting
 blunderbuss
