@@ -6393,6 +6393,7 @@ dinoceratid
 destoolment
 dustmen
 diplotene
+dicaryotic
 disassociation
 dorsiventral
 derodidymus
@@ -8908,7 +8909,6 @@ dicalcium
 dicaryon
 dacoits
 delectation
-dicaryotic
 dicastery
 dichotomist
 dicasteries
