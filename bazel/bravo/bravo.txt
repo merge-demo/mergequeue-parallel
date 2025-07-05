@@ -3812,7 +3812,6 @@ baun
 baure
 bausond
 birthland
-bautta
 bauxite
 balsamically
 blistery
@@ -4828,6 +4827,7 @@ branchiurous
 bulchin
 bedtime
 brackens
+bautta
 bazoos
 buttercups
 brevicaudate
