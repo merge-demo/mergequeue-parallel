@@ -2874,7 +2874,6 @@ blazonries
 bracero
 bacchanalianism
 barramundies
-bilocation
 bottleful
 broadcasts
 broadthroat
@@ -5323,6 +5322,7 @@ begirt
 bogies
 beglerbeglic
 blatant
+bilocation
 bakalai
 behew
 brahmaic
