@@ -21566,6 +21566,7 @@ concrescible
 coercer
 cofinal
 concurring
+counterplan
 concurs
 christologist
 concursion
@@ -26992,7 +26993,6 @@ cuprum
 clericalism
 counterplay
 counterplayer
-counterplan
 carassow
 counterplead
 corrido
