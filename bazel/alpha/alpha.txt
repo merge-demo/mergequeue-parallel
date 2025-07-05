@@ -3216,7 +3216,6 @@ abscam
 aryanize
 acuminose
 autecisms
-animalculist
 acupunctuation
 antilevelling
 acupuncturation
@@ -11976,6 +11975,7 @@ agba
 armagnac
 anarthrosis
 anarthrously
+animalculist
 anarthrousness
 avionics
 anas
