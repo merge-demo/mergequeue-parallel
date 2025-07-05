@@ -4579,7 +4579,6 @@ accessional
 advoteresse
 anastrophe
 apish
-ascomycetal
 aviary
 advowsons
 advt
@@ -19394,6 +19393,7 @@ argentum
 antiparliamentarist
 antiegotism
 anaconda
+ascomycetal
 aestivator
 argh
 aphelilions
