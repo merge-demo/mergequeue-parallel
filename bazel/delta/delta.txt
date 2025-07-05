@@ -13901,7 +13901,6 @@ dotardy
 druthers
 distichal
 demisable
-diadelphia
 distichlis
 dephased
 dimerous
@@ -17397,6 +17396,7 @@ dropping
 disframe
 declaims
 departmentalisation
+diadelphia
 droppings
 drops
 dialoguing
