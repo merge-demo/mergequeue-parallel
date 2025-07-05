@@ -23380,6 +23380,7 @@ centenarianism
 containing
 covert
 contains
+cuspule
 canzonetta
 courtby
 contakion
@@ -31711,7 +31712,6 @@ cusping
 cur
 cuspis
 cusps
-cuspule
 crests
 coopery
 cond
