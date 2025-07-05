@@ -3883,7 +3883,6 @@ disinteresting
 dissceptred
 decorationist
 deionizer
-dissipatedness
 deipnophobia
 disembarkations
 disprized
@@ -15684,6 +15683,7 @@ dopebook
 demonstrator
 discased
 distemperance
+dissipatedness
 dopey
 decrements
 doper
