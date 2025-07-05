@@ -9107,7 +9107,6 @@ demifarthing
 dermatophobia
 defigure
 dictionarian
-dorsoabdominal
 dispensers
 didactylous
 dropsywort
@@ -17250,6 +17249,7 @@ deferrizing
 directionality
 distanced
 driftweed
+dorsoabdominal
 degged
 drivewell
 driving
