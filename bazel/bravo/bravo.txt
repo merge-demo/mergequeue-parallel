@@ -5451,7 +5451,6 @@ bandura
 basebred
 beheaded
 beheader
-beheira
 beachward
 bulletmaking
 blubbery
@@ -8098,6 +8097,7 @@ bailments
 bicuspid
 bruxism
 bonging
+beheira
 bulk
 burrobrush
 bid

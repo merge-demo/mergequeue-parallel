@@ -13939,6 +13939,7 @@ cautionings
 cautivo
 cinnamodendron
 chondroclast
+clinophobia
 cusconin
 cinnamol
 cinnamonic
@@ -21163,7 +21164,6 @@ conceiver
 conceiving
 codomestication
 concelebrate
-clinophobia
 concelebrates
 concelebration
 classer
