@@ -3897,6 +3897,7 @@ adjunctly
 adjuration
 analogia
 amidine
+arguer
 aisling
 adjuratory
 aneuria
@@ -8494,7 +8495,6 @@ alkalous
 alkalurops
 algorithms
 alkamine
-arguer
 alkanes
 alkanet
 allicholly
