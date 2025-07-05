@@ -2955,7 +2955,6 @@ drawstop
 deducted
 doxycycline
 debunking
-deductible
 deciduata
 delinquent
 depositional
@@ -10507,6 +10506,7 @@ dilutedness
 dendrodra
 disordeine
 diphthonging
+deductible
 diphthongisation
 demolishes
 deisticalness
