@@ -92,6 +92,7 @@ bori
 baldachins
 babhan
 balafo
+biannual
 barkened
 beastliest
 bespout
@@ -672,7 +673,6 @@ brioche
 bicorne
 bombo
 bungey
-biannual
 begall
 bronchiolitis
 bathyesthesia
