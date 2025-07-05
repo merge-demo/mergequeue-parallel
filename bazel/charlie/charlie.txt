@@ -1693,7 +1693,6 @@ calosoma
 calotermes
 calothrix
 calotype
-cyclodiolefine
 calotypic
 calotypist
 crossbolt
@@ -28147,6 +28146,7 @@ craniomaxillary
 cataloging
 craniometry
 championship
+cyclodiolefine
 capronyl
 craniometrist
 craniopathic
