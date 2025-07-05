@@ -6760,7 +6760,6 @@ decontaminative
 discant
 desucration
 desilicify
-desilicified
 desiliconization
 dribbed
 doubly
@@ -18046,6 +18045,7 @@ dullbrained
 dovecotes
 donna
 dullest
+desilicified
 dauted
 dullification
 dambrod
