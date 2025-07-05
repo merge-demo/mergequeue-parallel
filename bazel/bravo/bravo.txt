@@ -7448,7 +7448,6 @@ bepewed
 betterments
 bulbocavernous
 bivouacks
-brabblingly
 bushelled
 baldnesses
 bettermost
@@ -9256,6 +9255,7 @@ bacterioidal
 bedouinism
 bothersomeness
 biacuminate
+brabblingly
 balewort
 bracteiform
 byplay
