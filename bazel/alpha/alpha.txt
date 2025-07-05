@@ -11247,7 +11247,6 @@ ascicidia
 alephzero
 auguries
 ains
-aphaniptera
 ameen
 amphipod
 amphipoda
@@ -14919,6 +14918,7 @@ antimagnetic
 anticommunistic
 anticommunistical
 anticommunistically
+aphaniptera
 anticompetitive
 anticomplement
 anticonductor
