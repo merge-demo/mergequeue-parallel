@@ -6154,6 +6154,7 @@ abrim
 agon
 agonal
 aurorae
+apollinian
 agoniada
 antiparabema
 ascendency
@@ -22345,7 +22346,6 @@ adlegation
 astrometry
 astrometric
 astronaut
-apollinian
 astronavigator
 astronomer
 astronomy
