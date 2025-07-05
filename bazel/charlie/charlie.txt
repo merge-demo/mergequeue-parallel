@@ -16332,7 +16332,6 @@ clipboard
 clipboards
 clypeal
 clypeastridea
-clypeastrina
 clypeastroid
 carnivaller
 clypeate
@@ -28802,6 +28801,7 @@ cresegol
 cargo
 cresyl
 cresylate
+clypeastrina
 cresylic
 cresylite
 cresyls
