@@ -6848,7 +6848,6 @@ ber
 beruffed
 brusqueness
 bilic
-berwick
 boldness
 bummaree
 berzelianite
@@ -9305,6 +9304,7 @@ barringtonia
 ballcarrier
 biquintile
 boles
+berwick
 bastaard
 biracial
 bavenite
