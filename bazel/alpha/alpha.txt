@@ -8187,7 +8187,6 @@ atavist
 aln
 alterne
 aliamenta
-antarctalia
 alias
 aleutians
 alibangbang
@@ -14311,6 +14310,7 @@ anthologically
 anthologies
 autobiographies
 asphyxiates
+antarctalia
 alberto
 anthologised
 anthologising
