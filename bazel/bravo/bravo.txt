@@ -3750,7 +3750,6 @@ blackening
 buncombe
 biocontrol
 basialveolar
-begger
 bobflies
 battute
 burratine
@@ -16674,6 +16673,7 @@ bilaan
 bakwiri
 buckhounds
 bucklum
+begger
 backstair
 bucky
 besa
