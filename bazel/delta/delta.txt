@@ -4188,7 +4188,6 @@ delists
 delit
 demonstratorship
 dob
-delitescent
 deliverer
 disincorporate
 daurna
@@ -17582,6 +17581,7 @@ drums
 decalcifier
 drumstick
 drumwood
+delitescent
 drunk
 drunkards
 desuperheater
