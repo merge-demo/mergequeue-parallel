@@ -2350,7 +2350,6 @@ acylating
 advertised
 assigning
 adytta
-aphorism
 acylogen
 acyloin
 acyloins
@@ -20209,6 +20208,7 @@ ascham
 arrope
 airwash
 abb
+aphorism
 anthropophuism
 archdeaconate
 alsinaceous
