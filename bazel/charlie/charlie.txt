@@ -3202,6 +3202,7 @@ capework
 capful
 caphar
 corsaint
+camptodrome
 clistogastra
 cotillon
 capias
@@ -3462,7 +3463,6 @@ convoking
 caprizant
 caldron
 caproin
-camptodrome
 capron
 causeuse
 comprehends
