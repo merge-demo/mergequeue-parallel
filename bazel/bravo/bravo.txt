@@ -565,6 +565,7 @@ backwind
 backwinded
 balladmongering
 backwood
+blurted
 burdens
 backwoods
 balladling
@@ -6753,7 +6754,6 @@ bermes
 bourgeoisify
 bagaudae
 biked
-blurted
 beardom
 brawler
 bacchiuchii
