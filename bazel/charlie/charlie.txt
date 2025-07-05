@@ -4942,7 +4942,6 @@ cartelistic
 cassava
 carter
 clown
-carters
 cartesian
 cartful
 carthame
@@ -27308,6 +27307,7 @@ coupons
 coups
 chemicking
 comodo
+carters
 circumciser
 coupstick
 coupure
