@@ -284,7 +284,6 @@ dreadnaught
 docken
 debugged
 disassiduity
-doliolidae
 diploperistomic
 diagraming
 dodoism
@@ -8071,6 +8070,7 @@ dhaw
 dialleli
 derfness
 deanimalize
+doliolidae
 devilment
 daftardar
 dhyana
