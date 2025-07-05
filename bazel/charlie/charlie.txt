@@ -13950,6 +13950,7 @@ cinnamons
 cinnolin
 cynocephalic
 cynocephalous
+ciphers
 chakazi
 cheerer
 chalicotherioid
@@ -23130,7 +23131,6 @@ constipates
 constipation
 constituency
 cytostatic
-ciphers
 clerked
 constituencies
 cantillated
