@@ -3044,7 +3044,6 @@ desegregation
 deers
 deerstalkers
 detailist
-deerstalking
 deerweed
 deerweeds
 dollyway
@@ -5809,6 +5808,7 @@ demipuppet
 dovekeys
 decaliter
 deportability
+deerstalking
 deportations
 decriminalized
 dissipatedly
