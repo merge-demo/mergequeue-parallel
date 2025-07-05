@@ -2320,7 +2320,6 @@ androcles
 acierated
 acierates
 adc
-abbreviatory
 athetoid
 absorbed
 acieration
@@ -4913,6 +4912,7 @@ apocamphoric
 aerolitic
 aerological
 antepartum
+abbreviatory
 aeromancer
 aeromechanic
 alphameric
