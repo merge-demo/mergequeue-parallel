@@ -10818,6 +10818,7 @@ drawnly
 directexamination
 diluteness
 divaricatingly
+deflow
 diseur
 directionalize
 directionally
@@ -16985,7 +16986,6 @@ docentship
 dayan
 drencher
 disappearing
-deflow
 dill
 demonocracy
 designee
