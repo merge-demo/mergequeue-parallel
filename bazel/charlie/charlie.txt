@@ -8291,7 +8291,6 @@ chalcidicum
 chalcidiform
 caird
 chalcidoid
-conocarp
 cadalene
 chalcocite
 compotatory
@@ -12956,6 +12955,7 @@ clodpolls
 critism
 chut
 coronoid
+conocarp
 cleidocranial
 chute
 clangorously
