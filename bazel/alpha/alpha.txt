@@ -10491,7 +10491,6 @@ assertorily
 amidation
 aliofar
 amide
-amidide
 acoelous
 antileft
 adscript
@@ -16004,6 +16003,7 @@ antireflexive
 antireformer
 antireligion
 alkalising
+amidide
 arctian
 antireligiously
 absolvable
