@@ -7347,7 +7347,6 @@ constitution
 conicity
 carnelians
 cryptolunatic
-chloro
 cephala
 caucasus
 crushes
@@ -12754,6 +12753,7 @@ chugalug
 chugalugged
 candidas
 chauvinists
+chloro
 cholecystoileostomy
 canalage
 clawsick
