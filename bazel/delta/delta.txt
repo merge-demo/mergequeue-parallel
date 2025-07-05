@@ -1706,6 +1706,7 @@ dispensations
 decostate
 debilitant
 defensibility
+dentex
 deaspiration
 degree
 dihely
@@ -8120,7 +8121,6 @@ daphnoid
 diluvion
 depilates
 duodial
-dentex
 developpes
 distributions
 decidable
