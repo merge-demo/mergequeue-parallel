@@ -5296,7 +5296,6 @@ cassiepeia
 cassimere
 caurus
 cassina
-corymbed
 cassinian
 cyathophylline
 cassinos
@@ -15353,6 +15352,7 @@ coexist
 clangful
 clanging
 clangingly
+corymbed
 corticoefferent
 clangorous
 corridored
