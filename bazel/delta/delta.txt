@@ -2442,7 +2442,6 @@ drydenian
 diaeresis
 decipherability
 dand
-devilled
 doctrinarily
 deucing
 disintegrative
@@ -16921,6 +16920,7 @@ displacing
 dreamiest
 dreamily
 dreamless
+devilled
 dreamlikeness
 dullishly
 dobchick
