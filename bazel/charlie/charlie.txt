@@ -11002,7 +11002,6 @@ chiropodous
 chiropompholyx
 chiropraxis
 contraposita
-chiroptera
 chiropterygian
 chiropterite
 chiros
@@ -20513,6 +20512,7 @@ compassionately
 candidateship
 compassionateness
 catalepsy
+chiroptera
 compassive
 coinhere
 compassivity
