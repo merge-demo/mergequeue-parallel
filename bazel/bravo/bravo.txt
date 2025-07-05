@@ -4820,6 +4820,7 @@ bedstraw
 bedstraws
 bedstring
 boundedly
+bryndza
 beautiless
 broadwise
 bedswerver
@@ -15454,7 +15455,6 @@ bondless
 bolshevistically
 besnuff
 brindlish
-bryndza
 bleaters
 balloonfish
 bearskins
