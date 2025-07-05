@@ -5677,6 +5677,7 @@ belecture
 beledgered
 burbush
 brutedom
+barie
 biers
 belemnitic
 ballast
@@ -13565,7 +13566,6 @@ brighella
 bioscopes
 bacchian
 bough
-barie
 ballproof
 bibliokleptomania
 baroco
