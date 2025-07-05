@@ -2583,6 +2583,7 @@ decoct
 demiquaver
 dashes
 decocting
+dermatophone
 decoctive
 deaminizing
 demishirt
@@ -12680,7 +12681,6 @@ duplicability
 dinitrobenzene
 dissolute
 disleafed
-dermatophone
 diffrangibility
 disleaved
 disjointure
