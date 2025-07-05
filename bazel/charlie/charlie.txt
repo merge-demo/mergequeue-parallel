@@ -11993,6 +11993,7 @@ collunarium
 consol
 cachina
 chorioallantoic
+computative
 chorioallantoid
 chorioallantois
 centrifugation
@@ -16066,7 +16067,6 @@ cyanins
 cuculiform
 cotypes
 clablaria
-computative
 collusion
 clevises
 clew
