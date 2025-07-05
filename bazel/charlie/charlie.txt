@@ -8863,7 +8863,6 @@ camelot
 cloudless
 conceptualisation
 chaptalize
-cymbalaria
 chapter
 canonries
 chapteral
@@ -31390,6 +31389,7 @@ curiologically
 curiologics
 comparability
 chewable
+cymbalaria
 colophon
 colubaria
 curios
