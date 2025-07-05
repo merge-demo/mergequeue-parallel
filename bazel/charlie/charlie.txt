@@ -19358,7 +19358,6 @@ clubbing
 cadmean
 colopexy
 colopexia
-colopexotomy
 colophene
 circumambulates
 cranny
@@ -24502,6 +24501,7 @@ coparent
 compartmentation
 coparents
 caroigne
+colopexotomy
 copartiment
 circles
 commandrie
