@@ -8775,7 +8775,6 @@ chapatties
 chapattis
 codify
 connectant
-chapbook
 carbonylating
 caconym
 chape
@@ -10364,6 +10363,7 @@ consultory
 critchfield
 canariote
 chickwit
+chapbook
 chicle
 chamberfellow
 chicly
