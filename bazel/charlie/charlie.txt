@@ -15785,7 +15785,6 @@ cleam
 confectioneries
 clean
 cardiology
-cleaned
 chloramine
 cleanest
 chinching
@@ -25876,6 +25875,7 @@ convertable
 corset
 corsetier
 concluding
+cleaned
 corsetiere
 conicalness
 corseting

@@ -4528,7 +4528,6 @@ divulse
 demicircular
 divulsor
 drowningly
-defence
 demicuirass
 doxologies
 danubian
@@ -14814,6 +14813,7 @@ dockhouse
 dilambdodont
 deringers
 dockyards
+defence
 docking
 dockization
 dockland
