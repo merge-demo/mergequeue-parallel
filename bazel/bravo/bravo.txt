@@ -12590,7 +12590,6 @@ bonnetiere
 bonnetlike
 bonnibel
 blurts
-bimethyl
 bibbers
 blottesque
 batter
@@ -12916,6 +12915,7 @@ bureaucratese
 boot
 big
 bhandari
+bimethyl
 bootees
 battlemented
 blunging
