@@ -8663,7 +8663,6 @@ chimneying
 corcopali
 changedale
 calpac
-commissaryship
 concocting
 claires
 changeful
@@ -16964,6 +16963,7 @@ churchly
 clumsiest
 clumsily
 coenosteal
+commissaryship
 choule
 chondromyoma
 cynic
