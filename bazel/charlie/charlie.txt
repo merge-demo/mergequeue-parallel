@@ -14647,6 +14647,7 @@ correlated
 cystocarcinoma
 cystocele
 cystocolostomy
+colpoplasty
 cystodynia
 cystoelytroplasty
 chromene
@@ -19537,7 +19538,6 @@ caledonian
 casimires
 cowpony
 convenientness
-colpoplasty
 chromogenetic
 colpoptosis
 colporrhagia

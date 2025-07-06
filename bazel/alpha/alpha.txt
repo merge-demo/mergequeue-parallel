@@ -973,6 +973,7 @@ abstainers
 abstaining
 abstains
 annectant
+abderite
 assis
 abstemious
 astron
@@ -20969,7 +20970,6 @@ ascidioid
 assation
 abolete
 ascidioida
-abderite
 archipelago
 ascidioidea
 ascyphous
