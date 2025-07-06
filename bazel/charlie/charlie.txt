@@ -28329,7 +28329,6 @@ craved
 craven
 churchmen
 clans
-coheretic
 cravened
 cravening
 cravenly
@@ -28898,6 +28897,7 @@ culminations
 campit
 complanar
 cyclospondylic
+coheretic
 crewing
 cutwal
 calendarer
