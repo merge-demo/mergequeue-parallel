@@ -1515,7 +1515,6 @@ discoglossid
 distractedly
 dallies
 dartman
-deactivates
 delphinium
 disciplinarity
 dextrously
@@ -2378,6 +2377,7 @@ decidence
 destabilized
 dwyka
 deciders
+deactivates
 dubitante
 disownment
 disguisements

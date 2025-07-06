@@ -12899,6 +12899,7 @@ armored
 arcidae
 appanages
 angraecum
+anomiacea
 angry
 angriness
 angstroms
@@ -13696,7 +13697,6 @@ antileak
 avant
 anomatheca
 anomia
-anomiacea
 acquiet
 atrabilarian
 anomie
