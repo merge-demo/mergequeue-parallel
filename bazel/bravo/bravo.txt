@@ -2940,6 +2940,7 @@ barricaded
 beltian
 benedicts
 barricaders
+belemnoidea
 barricadoes
 brainsick
 blayk
@@ -11011,7 +11012,6 @@ beweeping
 botryopterid
 blitzkrieging
 brache
-belemnoidea
 backstairs
 bladelike
 bargello
