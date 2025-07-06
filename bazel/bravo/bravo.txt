@@ -2135,7 +2135,6 @@ bantering
 banteringly
 banty
 betangle
-bribery
 bantu
 bantus
 bandon
@@ -15898,6 +15897,7 @@ bromomania
 bopper
 barbeyaceae
 biose
+bribery
 bookmarker
 bucrania
 broguish

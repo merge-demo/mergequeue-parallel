@@ -9972,7 +9972,6 @@ cheneau
 cheneaus
 collaborations
 crystallophyllian
-conspurcate
 cambists
 crescographic
 caseconv
@@ -25343,6 +25342,7 @@ corner
 cornerback
 cornerer
 cornering
+conspurcate
 crang
 cornerstone
 cornerways
