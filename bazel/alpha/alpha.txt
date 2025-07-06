@@ -6489,6 +6489,7 @@ arboretum
 ahunt
 azocyclic
 antireality
+arctos
 ahush
 ahuula
 amatorially
@@ -19145,7 +19146,6 @@ arctisca
 arctium
 arctogaean
 arctoidean
-arctos
 arctosis
 acetylasalicylic
 allituric
