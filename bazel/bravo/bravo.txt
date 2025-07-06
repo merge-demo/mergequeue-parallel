@@ -4927,7 +4927,6 @@ bunomastodontidae
 beefier
 bequest
 beefiest
-beefsteak
 beeftongue
 beefwoods
 beegerite
@@ -7685,6 +7684,7 @@ bordured
 benelux
 bezoars
 bewared
+beefsteak
 bobbed
 bezpopovets
 barged
