@@ -4237,6 +4237,7 @@ dogcart
 depasturing
 dyslogy
 debtors
+demeanour
 delphically
 dasyurus
 delphin
@@ -6397,7 +6398,6 @@ disassociation
 dorsiventral
 derodidymus
 derog
-demeanour
 doronicum
 derogate
 denuclearization
