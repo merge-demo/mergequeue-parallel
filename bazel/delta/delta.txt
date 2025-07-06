@@ -267,7 +267,6 @@ dissuitable
 dagoba
 dagobas
 doxologized
-desynaptic
 dizzard
 dagomba
 dagswain
@@ -2693,6 +2692,7 @@ demitrain
 deconsideration
 decontaminates
 decontaminating
+desynaptic
 diatessaron
 dortiness
 dejectly
