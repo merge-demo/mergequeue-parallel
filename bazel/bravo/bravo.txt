@@ -1924,7 +1924,6 @@ bandora
 biotechs
 brevipen
 bandore
-baselard
 bandrol
 beatific
 befuddles
@@ -15825,6 +15824,7 @@ bowwort
 bluntly
 butyls
 beno
+baselard
 bloodstainedness
 babiism
 bloomsburian
