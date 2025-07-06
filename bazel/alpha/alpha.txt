@@ -6317,6 +6317,7 @@ agriculturist
 agriculturists
 aftergood
 agrilus
+alecs
 aureola
 abohms
 agrimony
@@ -20835,7 +20836,6 @@ arundo
 asaphus
 asarabacca
 asarin
-alecs
 asarite
 assignat
 anatomizable
