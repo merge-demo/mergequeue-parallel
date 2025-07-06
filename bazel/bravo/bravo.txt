@@ -2296,7 +2296,6 @@ bordrag
 blype
 businessese
 bizet
-beanball
 backrest
 botryomyces
 betokened
@@ -4438,6 +4437,7 @@ blushwort
 bike
 buriels
 boomeranged
+beanball
 bootee
 beclowned
 billard
