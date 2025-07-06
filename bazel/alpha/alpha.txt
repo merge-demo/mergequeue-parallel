@@ -5476,7 +5476,6 @@ aftergrowth
 antipathy
 acton
 acetonylidene
-afterguard
 anaerobious
 afterharm
 afterheat
@@ -17766,6 +17765,7 @@ apportionments
 anastatic
 apposability
 aspergillales
+afterguard
 aegialitis
 attacapan
 appose
