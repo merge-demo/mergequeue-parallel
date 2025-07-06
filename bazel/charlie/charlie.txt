@@ -7466,7 +7466,6 @@ ceramal
 ceramals
 chacun
 caback
-cerambycid
 coruscations
 cerambycidae
 ceramicite
@@ -10794,6 +10793,7 @@ chinker
 chinkerinchee
 chinky
 ctenidia
+cerambycid
 chinkier
 cleverality
 catalytically

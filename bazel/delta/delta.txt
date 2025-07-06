@@ -8833,7 +8833,6 @@ dipala
 diazoma
 diazomethane
 diazonium
-demethylation
 diazotype
 dromicia
 disadvise
@@ -10059,6 +10058,7 @@ denudement
 dimpsy
 dimwittedly
 demodulation
+demethylation
 detailer
 downgyved
 demist
