@@ -19222,6 +19222,7 @@ arefact
 alodium
 areg
 areic
+alalia
 arena
 arenaria
 annam
@@ -23111,7 +23112,6 @@ alytarch
 appercipient
 akelas
 attestations
-alalia
 azotous
 accommodativeness
 accomplice
