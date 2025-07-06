@@ -10723,7 +10723,6 @@ dawting
 dearticulation
 dah
 dryworker
-dowcote
 dipodomys
 dipolar
 dingar
@@ -15336,6 +15335,7 @@ dwamish
 dolores
 dermatophytic
 dolorimeter
+dowcote
 dolorimetrically
 delusional
 dialler
