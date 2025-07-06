@@ -1227,6 +1227,7 @@ allograft
 antimedically
 amidst
 acanthodes
+apochromatic
 acanthodidae
 acanthodini
 alcoholise
@@ -1774,7 +1775,6 @@ aromata
 acecaffine
 acleistocardia
 anemia
-apochromatic
 acedy
 acediamin
 acediamine
