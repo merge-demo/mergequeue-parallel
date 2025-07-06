@@ -303,7 +303,6 @@ baal
 backpacker
 burdensomeness
 biogeny
-beaune
 brachiocyllosis
 benignancies
 bourgeoises
@@ -16322,6 +16321,7 @@ baddeleyite
 bacchius
 brujeria
 botryolite
+beaune
 benchmarking
 balalaikas
 brujos
