@@ -5097,7 +5097,6 @@ blazoning
 befittingness
 boundedness
 breek
-beflag
 barkevikite
 bamboo
 binits
@@ -15797,6 +15796,7 @@ battiks
 broletti
 bi
 broletto
+beflag
 boagane
 bedrabble
 benzthiophen
