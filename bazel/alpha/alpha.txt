@@ -1730,6 +1730,7 @@ accusable
 accusal
 accusant
 animadvert
+arrectary
 aristocracies
 accusants
 accusation
@@ -3126,7 +3127,6 @@ abrazitic
 actionizing
 alkalifiable
 actionless
-arrectary
 acclimatation
 auchenia
 actipylea
