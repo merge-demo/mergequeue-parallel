@@ -8502,7 +8502,6 @@ chamorro
 copalcocote
 chromotherapist
 cherished
-chamos
 chamosite
 cribbage
 chamotte
@@ -21747,6 +21746,7 @@ crabbed
 condominiums
 condoms
 cyanoethylate
+chamos
 condonable
 condonance
 condonation
