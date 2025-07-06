@@ -4562,6 +4562,7 @@ betrunk
 buckteeth
 buglewort
 bicellular
+brushite
 backjaw
 bedarkening
 bedaub
@@ -11593,7 +11594,6 @@ becomma
 badgeman
 boa
 buteo
-brushite
 budgeted
 boanergism
 bisontine
