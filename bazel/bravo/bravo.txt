@@ -3800,7 +3800,6 @@ baul
 barrington
 boreas
 baulked
-bearbane
 bequeaths
 bucerotes
 behight
@@ -5667,6 +5666,7 @@ beldams
 bacchar
 bilify
 belderroot
+bearbane
 bodgie
 beleaguering
 bongar
