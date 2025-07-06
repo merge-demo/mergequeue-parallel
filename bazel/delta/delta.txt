@@ -3353,7 +3353,6 @@ dentils
 doles
 dagos
 deturn
-defis
 deflagrable
 dialling
 decolor
@@ -15879,6 +15878,7 @@ dorsosacral
 dishumor
 dorsoscapular
 dorsothoracic
+defis
 diablotin
 discoursed
 dialdehyde
