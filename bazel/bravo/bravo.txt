@@ -197,7 +197,6 @@ bristleless
 bipartition
 balneum
 bandido
-bitt
 bouillone
 baccated
 bacchanalian
@@ -7651,6 +7650,7 @@ belesprit
 bewrapt
 bepride
 bewreck
+bitt
 befreckle
 bewry
 bankroller
