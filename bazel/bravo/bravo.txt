@@ -1895,6 +1895,7 @@ branle
 bandle
 bedrel
 blastoff
+basipterygium
 bushcraft
 breadwinners
 bandmaster
@@ -3272,7 +3273,6 @@ basommatophora
 burdie
 basipodite
 blank
-basipterygium
 battle
 baratheas
 believe
