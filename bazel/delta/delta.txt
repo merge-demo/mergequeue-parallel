@@ -3222,7 +3222,6 @@ defenestrating
 dayside
 derricking
 defenseless
-defenselessly
 defenselessness
 devitalising
 distend
@@ -13974,6 +13973,7 @@ debits
 diactin
 daubreelite
 dichroism
+defenselessly
 deys
 distomatous
 daubed
