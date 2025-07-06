@@ -6593,7 +6593,6 @@ aquiline
 antinuke
 agorae
 aik
-aikane
 automatictacessing
 aikido
 apogalacteum
@@ -19766,6 +19765,7 @@ armadilla
 armadillididae
 adductors
 acetylide
+aikane
 antimedievalist
 armadillidium
 archplotter
