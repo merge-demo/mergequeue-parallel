@@ -9335,7 +9335,6 @@ chattery
 chattermag
 caprification
 chattermagging
-chatters
 chatti
 carbohydrates
 chattier
@@ -10279,6 +10278,7 @@ compleated
 chicago
 caffling
 chicalote
+chatters
 counterimitate
 campanulated
 columboid
