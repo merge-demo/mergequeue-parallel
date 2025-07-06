@@ -5378,7 +5378,6 @@ chaufer
 castellate
 castellation
 castellatus
-creolization
 circumposition
 cyanformic
 copulates
@@ -15701,6 +15700,7 @@ clausule
 cheekily
 clausure
 claut
+creolization
 clavacin
 clavae
 centres
