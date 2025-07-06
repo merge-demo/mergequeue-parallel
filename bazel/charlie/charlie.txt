@@ -2551,7 +2551,6 @@ cacqueteuse
 candlenut
 candlepins
 chemist
-cerevis
 candler
 candlerent
 concealed
@@ -18415,6 +18414,7 @@ chatchkas
 chirimoya
 compactedness
 cognition
+cerevis
 cucullated
 conclude
 canmaking
