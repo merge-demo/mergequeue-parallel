@@ -19479,7 +19479,6 @@ colossian
 charas
 colossians
 colosso
-chemises
 colossochelys
 colostomies
 compositous
@@ -24113,6 +24112,7 @@ convertism
 convertite
 comfortless
 convertive
+chemises
 choriocapillary
 caterership
 convertoplane
