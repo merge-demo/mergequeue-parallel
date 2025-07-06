@@ -11964,7 +11964,6 @@ aboriginals
 anareta
 amara
 anaretical
-anarithia
 arc
 asymtotes
 anarthric
@@ -21781,6 +21780,7 @@ amiced
 assimilates
 assimilating
 andoroba
+anarithia
 aerophobia
 assimilationist
 abede
