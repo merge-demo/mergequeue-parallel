@@ -4162,7 +4162,6 @@ deliquiate
 deliquium
 demisolde
 demagnetised
-dianthuses
 debye
 deguelin
 deliration
@@ -18399,6 +18398,7 @@ duodrama
 dacryoblenorrhea
 dorrs
 divulgers
+dianthuses
 duogravure
 decelerations
 dauncy
