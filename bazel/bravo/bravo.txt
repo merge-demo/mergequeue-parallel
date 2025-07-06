@@ -2124,7 +2124,6 @@ bidstand
 bantam
 bantamize
 bismar
-burette
 banteng
 banter
 banterers
@@ -2230,6 +2229,7 @@ barbarically
 blandiloquous
 barbequing
 bourage
+burette
 baalshem
 buddler
 bassoons
