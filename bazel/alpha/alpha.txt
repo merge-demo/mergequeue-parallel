@@ -14083,7 +14083,6 @@ antennariidae
 antennata
 antennate
 antennifer
-antefixes
 abranchial
 acanthurus
 acraturesis
@@ -21990,6 +21989,7 @@ anaerobism
 astatize
 alejandro
 alphanumerical
+antefixes
 allelisms
 avenous
 astricting
