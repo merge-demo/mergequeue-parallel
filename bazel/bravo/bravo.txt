@@ -11623,7 +11623,6 @@ boarspear
 balloter
 burns
 bevels
-bacauan
 blacks
 bizant
 boarwood
@@ -14085,6 +14084,7 @@ burgul
 baring
 brachygnathia
 brachygnathism
+bacauan
 blackberries
 barytine
 boarders

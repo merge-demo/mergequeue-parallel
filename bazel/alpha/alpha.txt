@@ -5530,7 +5530,6 @@ aftershafted
 acetylcholinic
 archdruid
 almagests
-aftershave
 aftershocks
 aftersound
 afterspring
@@ -12669,6 +12668,7 @@ angellike
 almoravid
 angelolatry
 arthrography
+aftershave
 antiquarism
 angelological
 angelomachy
