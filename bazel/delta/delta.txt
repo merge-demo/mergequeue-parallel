@@ -3755,7 +3755,6 @@ delegated
 disprove
 desmitis
 dehkan
-durmasts
 decimate
 defaceable
 dehonestation
@@ -10372,6 +10371,7 @@ dioptrical
 diorama
 daroo
 dioramas
+durmasts
 diophantine
 driftpiece
 dowsing
