@@ -6942,7 +6942,6 @@ balmony
 beshadowed
 beauxite
 briolette
-biplosive
 breediness
 betail
 baselessness
@@ -10495,6 +10494,7 @@ beeflower
 blastochyle
 blastocoel
 blastocoele
+biplosive
 blastodisc
 becharming
 blatjang
