@@ -6736,6 +6736,7 @@ bayesian
 berlin
 browsability
 broomstaff
+barbiturates
 blitter
 balaamitical
 beeishness
@@ -16025,7 +16026,6 @@ babesiosis
 broaden
 brontology
 bollards
-barbiturates
 bearpaw
 burgessdom
 brontosauruses
