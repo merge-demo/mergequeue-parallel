@@ -291,6 +291,7 @@ abdominothoracic
 acquiescent
 abdominous
 abducens
+alkenyl
 abducentes
 abduces
 articulate
@@ -8518,7 +8519,6 @@ antepredicamental
 alkedavy
 alkekengi
 alkene
-alkenyl
 amp
 alkes
 awreck
