@@ -6067,6 +6067,7 @@ antidotary
 albata
 aliases
 avianized
+apophony
 aglycon
 altair
 aeonian
@@ -13479,7 +13480,6 @@ annihilationist
 annihilationistic
 arrobas
 annihilationistical
-apophony
 autocremation
 annihilative
 anonymousness
