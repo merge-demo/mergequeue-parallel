@@ -1953,7 +1953,6 @@ beeway
 beworms
 bacteriophage
 bandwidth
-bagginess
 bandworm
 boogiewoogie
 baylet
@@ -4924,6 +4923,7 @@ bract
 bilobular
 blackwash
 bunomastodontidae
+bagginess
 beefier
 bequest
 beefiest
