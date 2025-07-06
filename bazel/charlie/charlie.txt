@@ -12732,6 +12732,7 @@ conventioneer
 chudders
 clingingness
 countervail
+calumniatory
 crape
 chudic
 charnels
@@ -22567,7 +22568,6 @@ connaturalize
 cosech
 connaturalness
 connature
-calumniatory
 connaught
 connectable
 connected
