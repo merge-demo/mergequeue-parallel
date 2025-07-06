@@ -3449,6 +3449,7 @@ defluvium
 demimark
 dang
 defoamed
+decentness
 diacetylmorphine
 damozels
 defoamer
@@ -11099,7 +11100,6 @@ demonetisation
 denitrified
 deink
 dandyling
-decentness
 dundreary
 disarmed
 dermobranchiata
