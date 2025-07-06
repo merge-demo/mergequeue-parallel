@@ -578,6 +578,7 @@ caducean
 caducecei
 caducei
 caduceus
+centimos
 coinhabitant
 caduciary
 caducibranch
@@ -7153,7 +7154,6 @@ centimetres
 cullion
 calfs
 centimo
-centimos
 commonplaceism
 centipedes
 crossties
