@@ -5606,7 +5606,6 @@ deperdit
 duffel
 determiners
 discussive
-dictyosiphonaceae
 drisheen
 dedecoration
 detering
@@ -17726,6 +17725,7 @@ demutization
 dubio
 devot
 diene
+dictyosiphonaceae
 discoloredness
 discriminateness
 derivate
