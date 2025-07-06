@@ -13229,7 +13229,6 @@ cyclamine
 cyclane
 cataphonic
 crepitate
-clin
 craftsmanlike
 chetahs
 coworker
@@ -22034,6 +22033,7 @@ confit
 caesalpiniaceous
 confiteor
 confiture
+clin
 coolidge
 comparts
 confix
