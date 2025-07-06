@@ -8535,6 +8535,7 @@ champerties
 chalaze
 champertor
 carbolxylol
+chiffer
 champertous
 cephalomotor
 champy
@@ -13643,7 +13644,6 @@ cymenes
 cimeter
 coproite
 crankest
-chiffer
 cimices
 cimicide
 cene

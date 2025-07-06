@@ -8722,7 +8722,6 @@ bulldoggish
 bullethead
 betoss
 bottomry
-brule
 barhopping
 bimetals
 breislakite
@@ -12399,6 +12398,7 @@ bonagh
 bonaire
 bonang
 bonapartism
+brule
 bonapartist
 bigotries
 betterly
