@@ -14517,7 +14517,6 @@ dividend
 dividends
 dividendus
 divident
-decertification
 dromograph
 dividivis
 diaphanometer
@@ -14756,6 +14755,7 @@ docents
 dedolomitize
 docetae
 dermostosis
+decertification
 dobbies
 docetize
 deerstand
