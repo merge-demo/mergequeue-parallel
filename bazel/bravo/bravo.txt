@@ -3035,6 +3035,7 @@ biobibliographical
 bdellostomatidae
 baruria
 barvel
+brutage
 baleful
 beduin
 brainwashing
@@ -15630,7 +15631,6 @@ bromeliaceous
 bacteriologist
 beakerful
 broadcloth
-brutage
 bayonet
 broadeners
 broadenings
