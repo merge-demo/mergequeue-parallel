@@ -14892,7 +14892,6 @@ cytomegalovirus
 cytomere
 carefully
 cytomicrosome
-citrated
 cordages
 cytomorphological
 cyton
@@ -25639,6 +25638,7 @@ corpusculous
 chairlift
 corradial
 corradiate
+citrated
 corradiated
 correality
 cnida
