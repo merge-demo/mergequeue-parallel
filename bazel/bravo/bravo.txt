@@ -6703,6 +6703,7 @@ bemixes
 bunsenite
 berigora
 beryl
+betrample
 beryllonate
 berimed
 beseemly
@@ -14830,7 +14831,6 @@ breadroot
 breadstitch
 burnet
 blackwork
-betrample
 bechalking
 berms
 breadwinner
