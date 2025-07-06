@@ -14692,6 +14692,7 @@ catch
 concomitancy
 cystopyelitis
 coquelicot
+coldproof
 cystoplegia
 cystoproctostomy
 cystopteris
@@ -18796,7 +18797,6 @@ coldish
 coldnesses
 coldong
 cloddishness
-coldproof
 ceras
 curchy
 controversies
