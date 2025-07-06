@@ -4160,7 +4160,6 @@ delinter
 deliquescing
 deliquiate
 deliquium
-demisolde
 demagnetised
 dianthuses
 debye
@@ -8038,6 +8037,7 @@ dysthymic
 dialects
 defences
 derbylite
+demisolde
 defenestration
 doylt
 dietician
