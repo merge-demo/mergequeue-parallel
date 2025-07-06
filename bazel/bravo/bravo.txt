@@ -10163,6 +10163,7 @@ blackens
 bakalei
 blacketeer
 blackfeet
+broomer
 blankard
 brakeage
 barrelhouses
@@ -13445,7 +13446,6 @@ backtracker
 bottlebrush
 beeriness
 bedless
-broomer
 balkan
 bionomics
 bryophytes
