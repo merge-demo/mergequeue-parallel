@@ -3804,6 +3804,7 @@ bearbane
 bequeaths
 bucerotes
 behight
+brioches
 broccoli
 bhoy
 bugging
@@ -15493,7 +15494,6 @@ batted
 backshish
 beardlike
 bargeload
-brioches
 blase
 bisso
 bitwise
