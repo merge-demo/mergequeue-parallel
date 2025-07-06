@@ -5637,6 +5637,7 @@ dei
 dozy
 desaturation
 daying
+dollar
 depetalize
 disorganiser
 disprivilege
@@ -11440,7 +11441,6 @@ discloud
 dingus
 disclusion
 dispauper
-dollar
 deoccidentalize
 discoactine
 documentation
