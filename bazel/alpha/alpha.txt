@@ -6244,7 +6244,6 @@ agraphic
 acrocyanosis
 aylet
 agraria
-aerotactic
 abvolt
 antitrinitarian
 adjectively
@@ -12571,6 +12570,7 @@ anesthesis
 archrascal
 asarh
 anesthetization
+aerotactic
 anesthetize
 anesthetized
 achromotrichia
