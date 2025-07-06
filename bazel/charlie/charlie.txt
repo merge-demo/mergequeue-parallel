@@ -4176,7 +4176,6 @@ cardiomyopathy
 cardioncus
 camshaft
 cardionecrosis
-cannibal
 cardioneurosis
 cardiopath
 cardiopathic
@@ -8115,6 +8114,7 @@ capitulum
 chaferies
 chafers
 caranx
+cannibal
 chafes
 chafewax
 calycanth
