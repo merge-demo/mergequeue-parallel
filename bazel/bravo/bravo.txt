@@ -6656,6 +6656,7 @@ bergall
 becrimes
 bergamasca
 bergamasche
+bourbonism
 bergamask
 bergamo
 blastoma
@@ -7525,7 +7526,6 @@ blastocolla
 balsamweed
 barrelmaking
 boneache
-bourbonism
 bestower
 bogwood
 betaine
