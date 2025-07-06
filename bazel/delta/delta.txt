@@ -9357,7 +9357,6 @@ diewise
 dyewood
 diezeugmenon
 depolymerizing
-decinormal
 dread
 disorders
 dif
@@ -15821,6 +15820,7 @@ demolishment
 daring
 dioscoreaceae
 disocclude
+decinormal
 disalign
 dorsales
 dorsalgia
