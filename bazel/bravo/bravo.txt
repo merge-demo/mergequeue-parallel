@@ -10115,7 +10115,6 @@ bielorouss
 brogh
 blat
 beshriek
-bazar
 blackband
 blackberrylike
 bunkload
@@ -10735,6 +10734,7 @@ biti
 benzalhydrazine
 balian
 bandfish
+bazar
 bogijiab
 birthplace
 brachistocephali
