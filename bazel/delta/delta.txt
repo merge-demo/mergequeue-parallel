@@ -9590,6 +9590,7 @@ duellos
 diglots
 desmatippus
 dendritiform
+dietal
 disenchantment
 diglottist
 duumvir
@@ -14617,7 +14618,6 @@ demosthenic
 developmentary
 decupling
 divorcive
-dietal
 depaysee
 disenthroning
 devs
