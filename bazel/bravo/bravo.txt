@@ -8171,7 +8171,6 @@ benzopinacone
 blimpish
 busybodied
 beardie
-brontophobia
 bash
 banishes
 buffalos
@@ -10884,6 +10883,7 @@ bioflavonoid
 blin
 burnup
 beadledom
+brontophobia
 biggity
 bibbling
 blindball
