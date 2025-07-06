@@ -2275,6 +2275,7 @@ arachnephobia
 avgasses
 acidifying
 acidite
+antialcoholic
 allogamous
 axminster
 adustiosis
@@ -14581,7 +14582,6 @@ antienergistic
 antiaggressively
 antiaggressiveness
 antialbumin
-antialcoholic
 antialcoholism
 antialcoholist
 antialdoxime

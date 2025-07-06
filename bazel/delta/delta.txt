@@ -573,6 +573,7 @@ domical
 dambonitol
 derived
 dialers
+despecialize
 decolonized
 daunch
 damfool
@@ -6950,7 +6951,6 @@ despecialization
 disembarrassed
 dispute
 domineer
-despecialize
 defying
 despecificate
 despecification
