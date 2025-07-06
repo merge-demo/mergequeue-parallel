@@ -1752,7 +1752,6 @@ calumnious
 calumniously
 canephor
 calusa
-calutron
 condores
 comporting
 carbonylate
@@ -9887,6 +9886,7 @@ coprophilic
 copperytailed
 chemistry
 chemists
+calutron
 countess
 chemitypy
 chancrous
