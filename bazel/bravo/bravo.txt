@@ -9660,6 +9660,7 @@ bushily
 bandmasters
 bisymmetrical
 bigg
+bowbent
 borate
 bisync
 broombush
@@ -13785,7 +13786,6 @@ blungers
 burker
 brunion
 baddishly
-bowbent
 bowdichia
 bloodily
 beboppers
