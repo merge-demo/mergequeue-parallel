@@ -5821,7 +5821,6 @@ bryozoan
 batfish
 bonasa
 bellhouse
-belli
 buckstone
 bellyache
 biremes
@@ -7176,6 +7175,7 @@ berhymes
 bullyboys
 bawling
 bevatron
+belli
 brambliest
 bifoliate
 brightly
