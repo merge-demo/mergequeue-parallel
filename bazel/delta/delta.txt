@@ -8770,6 +8770,7 @@ diatomicity
 duetted
 dinting
 defocusses
+deuteride
 deescalations
 diatomist
 dot
@@ -16838,7 +16839,6 @@ debaters
 dissuited
 drawgate
 dividers
-deuteride
 dishonorary
 disvaluing
 drawings
