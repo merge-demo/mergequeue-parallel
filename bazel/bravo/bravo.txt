@@ -2932,6 +2932,7 @@ battalias
 bigeyes
 bennettitaceous
 barrets
+bulleting
 blindeyes
 boundaries
 boobishness
@@ -9649,7 +9650,6 @@ benefactions
 burao
 bisyllabism
 braize
-bulleting
 bisimine
 biggening
 breaches

@@ -10388,6 +10388,7 @@ callid
 classing
 chided
 chiders
+crin
 corrigendum
 cedarbird
 chilies
@@ -29072,7 +29073,6 @@ crimsoned
 credendum
 crimsonness
 crimsons
-crin
 crinal
 ceresine
 contrapone
