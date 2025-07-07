@@ -588,6 +588,7 @@ blessers
 birdie
 bibliolatry
 bowfins
+biguttate
 baconize
 baconweed
 bierkeller
@@ -4895,7 +4896,6 @@ bourbons
 belaud
 blackeyes
 bolderian
-biguttate
 bobac
 burrowstown
 beef
