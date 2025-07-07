@@ -11128,7 +11128,6 @@ chittack
 chitted
 chitter
 chitterling
-chutney
 chitters
 capillaries
 chiurm
@@ -13061,6 +13060,7 @@ cludder
 cyanophyceae
 counterpointed
 confervoideae
+chutney
 cyanophycean
 cyanophyceous
 crunchingness
