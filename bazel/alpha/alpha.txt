@@ -5030,7 +5030,6 @@ albruna
 allantoidal
 aerotonometric
 antepagmenta
-aerotropism
 allantois
 aeruginous
 aerugo
@@ -24665,6 +24664,7 @@ aeneid
 antidiastase
 amelioration
 abscising
+aerotropism
 acnode
 averral
 apparatuses

@@ -2247,6 +2247,7 @@ deflex
 domineerer
 dustbox
 determinative
+dhobie
 decelerates
 dentolabial
 decembrist
@@ -8077,7 +8078,6 @@ dhyana
 declivate
 dhobee
 dhoby
-dhobie
 dealcoholist
 diaclase
 dhobis
