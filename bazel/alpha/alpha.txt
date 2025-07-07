@@ -2208,7 +2208,6 @@ archangel
 apimania
 achromatization
 achromatize
-achromatocyte
 arctalian
 aerosolizing
 achromatope
@@ -16548,6 +16547,7 @@ apart
 actinologue
 automaker
 antarctogaean
+achromatocyte
 abusee
 apartheid
 accessibly
