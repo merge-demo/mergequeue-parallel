@@ -6680,7 +6680,6 @@ drawarm
 dipneedle
 danders
 deregulates
-deserving
 diabetics
 diorite
 despisedness
@@ -17182,6 +17181,7 @@ decachord
 dreary
 decorums
 dogmatiser
+deserving
 disentrammel
 dimensions
 dryopithecus
