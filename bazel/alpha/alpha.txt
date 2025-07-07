@@ -2693,7 +2693,6 @@ alco
 acrylates
 anthodia
 autotoxicosis
-acrylics
 arietta
 auriculoid
 autolithography
@@ -13237,6 +13236,7 @@ autocoid
 anisocercal
 acetifying
 applaud
+acrylics
 anisochromatic
 achaemenian
 anisocytosis
