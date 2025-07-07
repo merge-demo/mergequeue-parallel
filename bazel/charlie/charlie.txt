@@ -13174,6 +13174,7 @@ cudgelled
 cicatrice
 colocolo
 cicatrices
+clathroid
 cicatricle
 copastorate
 cicatricula
@@ -15633,7 +15634,6 @@ clathrarian
 clathrate
 choose
 clathrinidae
-clathroid
 clathrose
 cranes
 camelkeeper
