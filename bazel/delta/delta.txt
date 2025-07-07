@@ -1153,7 +1153,6 @@ detrited
 decrementing
 dasyuridae
 dasyurine
-dactylopatagium
 delineatory
 dassent
 deadheads
@@ -17468,6 +17467,7 @@ devitrified
 drouking
 deprehension
 deforcer
+dactylopatagium
 drouth
 dopas
 delphacid
