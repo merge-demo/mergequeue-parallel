@@ -5789,7 +5789,6 @@ catalyzator
 circumspective
 catechismal
 catechistic
-catechistical
 catechists
 catechization
 catechizer
@@ -12118,6 +12117,7 @@ chounce
 coalesced
 cholorrhea
 choupic
+catechistical
 chouquette
 chous
 chouse
