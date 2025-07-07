@@ -6906,6 +6906,7 @@ bondservant
 basalia
 beseam
 beseeches
+bryophyllum
 bisannual
 bluegills
 birlers
@@ -15504,7 +15505,6 @@ biedermeier
 buglet
 bryonia
 belloot
-bryophyllum
 bouncy
 brios
 babirusa
