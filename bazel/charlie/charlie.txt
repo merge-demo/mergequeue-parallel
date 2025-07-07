@@ -10518,6 +10518,7 @@ childridden
 chloropsia
 childship
 childward
+cervisial
 childwife
 canities
 childwite
@@ -31747,7 +31748,6 @@ consubstantiationist
 cystenchymatous
 customariness
 customer
-cervisial
 customers
 customhouses
 copernicia
