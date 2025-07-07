@@ -2705,7 +2705,6 @@ carriable
 conder
 cankereat
 cankered
-cankeredly
 codders
 cephalosporium
 cording
@@ -3908,6 +3907,7 @@ carbonuria
 calcined
 clarity
 contradistinguish
+cankeredly
 celibacies
 compleat
 carborundum
