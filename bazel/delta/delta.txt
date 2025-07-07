@@ -4885,7 +4885,6 @@ dodlet
 deaneries
 ductile
 declive
-durrie
 demonises
 dispersity
 dormmice
@@ -7788,6 +7787,7 @@ desidious
 devoir
 destabilizing
 devoirs
+durrie
 dholes
 devolatilised
 dosimetries
