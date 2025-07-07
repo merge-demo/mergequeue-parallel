@@ -12249,6 +12249,7 @@ borocaine
 bemud
 bainite
 bolstered
+bursa
 bolsterer
 battologised
 boardwalk
@@ -15279,7 +15280,6 @@ boarship
 bisbeeite
 bighead
 bordarius
-bursa
 batrachidae
 bridgetin
 brailled
