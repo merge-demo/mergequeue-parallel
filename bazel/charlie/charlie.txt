@@ -5740,7 +5740,6 @@ cakebread
 catching
 carolean
 cannon
-catchlight
 cultivatability
 clockcase
 cowpock
@@ -12289,6 +12288,7 @@ chrissie
 cecotomy
 christadelphian
 cabrito
+catchlight
 chirimoyer
 carrytale
 coynesses
