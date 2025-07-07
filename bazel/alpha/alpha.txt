@@ -7939,7 +7939,6 @@ arbitrage
 archidium
 alethoscope
 anthogenous
-aletocyte
 autochromy
 anticombination
 augural
@@ -23945,6 +23944,7 @@ afterbay
 autocarpian
 achatinella
 autocarpic
+aletocyte
 acenaphthenyl
 anatherum
 autocatalyses

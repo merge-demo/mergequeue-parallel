@@ -16283,6 +16283,7 @@ countryish
 chlamydosporic
 clinohedral
 celeriac
+copperer
 clinohedrite
 crewcut
 cornerman
@@ -24675,7 +24676,6 @@ cola
 corage
 carpospore
 copperbottom
-copperer
 curare
 copperhead
 constructionism
