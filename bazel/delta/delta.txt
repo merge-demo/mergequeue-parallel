@@ -1234,7 +1234,6 @@ datil
 devotement
 dating
 datisca
-disaffirmative
 dothienenteritis
 disloign
 diarrheal
@@ -10772,6 +10771,7 @@ decessor
 dipsie
 declared
 decarboxylize
+disaffirmative
 drainspout
 drools
 dipsomaniac
