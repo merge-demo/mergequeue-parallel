@@ -7663,6 +7663,7 @@ bilabiate
 bezan
 biplace
 bezanty
+borazons
 brassiness
 bargain
 bezants
@@ -7993,7 +7994,6 @@ berhyming
 bichloride
 biffin
 bichord
-borazons
 bioxalate
 bichos
 bichromatize
