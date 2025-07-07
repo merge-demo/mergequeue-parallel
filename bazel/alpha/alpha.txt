@@ -13549,7 +13549,6 @@ annuitants
 aquarists
 aestheticize
 antislaveryism
-authenticator
 anemophily
 annuities
 annular
@@ -21419,6 +21418,7 @@ asperly
 aerologic
 avys
 amphiprostyle
+authenticator
 aerophysicist
 aspermatic
 achter

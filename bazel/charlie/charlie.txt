@@ -24157,7 +24157,6 @@ convictment
 convictor
 convicts
 crosshatch
-convince
 cephalophus
 convinced
 convincement
@@ -30882,6 +30881,7 @@ cultic
 caecity
 cultigens
 cultish
+convince
 cerasin
 carboyed
 cultism
