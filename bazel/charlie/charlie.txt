@@ -8366,7 +8366,6 @@ circumflect
 catechizable
 calycanthemous
 chalkworker
-challah
 centriciput
 challahs
 challas
@@ -11456,6 +11455,7 @@ choanoflagellate
 choanoflagellida
 cotta
 choanophorous
+challah
 cataplasm
 choanosome
 choate
