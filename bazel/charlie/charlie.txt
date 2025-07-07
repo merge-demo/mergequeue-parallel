@@ -3470,7 +3470,6 @@ craniovertebral
 capsella
 calyptras
 capshore
-capsian
 ceruses
 capsicums
 carvacrol
@@ -9522,6 +9521,7 @@ concupiscent
 callityping
 crojik
 check
+capsian
 communizing
 checkage
 capsulized
