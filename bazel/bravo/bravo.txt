@@ -1226,7 +1226,6 @@ becreep
 baldachined
 brownout
 beeswaxes
-blackshirt
 bakshishes
 benedick
 bakuba
@@ -12881,6 +12880,7 @@ bangster
 bkpt
 barthian
 breastwise
+blackshirt
 boong
 bearwood
 bourignonist
