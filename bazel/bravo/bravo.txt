@@ -9781,6 +9781,7 @@ bystreets
 bistres
 boeotarch
 brights
+bellical
 borg
 bewitching
 bookish
@@ -12670,7 +12671,6 @@ braccia
 bestowable
 boogeymen
 bane
-bellical
 buhrs
 bec
 bolivares

@@ -579,6 +579,7 @@ caducecei
 caducei
 caduceus
 coinhabitant
+countably
 caduciary
 caducibranch
 copiously
@@ -26625,7 +26626,6 @@ countability
 cellos
 corbels
 ciliolum
-countably
 coccyges
 cicatrizant
 clads
