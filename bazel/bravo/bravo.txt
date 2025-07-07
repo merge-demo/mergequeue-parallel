@@ -11523,6 +11523,7 @@ bourrasque
 blunger
 blunk
 berrypicker
+brews
 bdellid
 blameworthiness
 buckaroos
@@ -12929,7 +12930,6 @@ boothage
 boothale
 baronetcies
 badge
-brews
 bedspread
 bitterblain
 boothes
