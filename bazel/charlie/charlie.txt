@@ -9057,6 +9057,7 @@ colloq
 charities
 condition
 charityless
+confervae
 caridoid
 cloaks
 comus
@@ -21906,7 +21907,6 @@ checkstrap
 congregate
 corpusculated
 chamberwoman
-confervae
 conferval
 combe
 clof
