@@ -2603,7 +2603,6 @@ dessertspoonfuls
 draffy
 dacoitage
 disinformation
-decoke
 deathtraps
 decoll
 deguelia
@@ -4159,6 +4158,7 @@ doggerelled
 delinter
 deliquescing
 deliquiate
+decoke
 deliquium
 demisolde
 demagnetised
