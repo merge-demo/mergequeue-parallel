@@ -2627,6 +2627,7 @@ barkless
 battening
 bandusia
 barkometer
+bradawl
 bescorch
 batrachite
 beeth
@@ -15071,7 +15072,6 @@ brettice
 betty
 brickwork
 blisterweed
-bradawl
 breva
 burbs
 breveting
