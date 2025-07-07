@@ -6923,6 +6923,7 @@ bajan
 burgundian
 bazaar
 bedrugging
+bure
 barchan
 bitumed
 brandywine
@@ -16986,7 +16987,6 @@ bulbously
 bowedness
 bulbule
 bespoken
-bure
 bhil
 blazoner
 beeping
