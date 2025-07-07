@@ -4698,7 +4698,6 @@ carped
 carpellary
 cytinaceous
 composograph
-carpenters
 charlock
 carpet
 carpetbag
@@ -5544,6 +5543,7 @@ ceratothecal
 cardiological
 catacumba
 catadicrotic
+carpenters
 cronie
 cursal
 catadicrotism
