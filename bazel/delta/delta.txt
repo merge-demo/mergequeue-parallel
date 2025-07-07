@@ -1421,7 +1421,6 @@ deprest
 disparagingly
 dispenditure
 dawnward
-dud
 drooliest
 dipropyl
 dawpate
@@ -8453,6 +8452,7 @@ deliver
 dolia
 defiledness
 dreep
+dud
 demipremiss
 diabetophobia
 dialogizing
