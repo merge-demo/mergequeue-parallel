@@ -2649,7 +2649,6 @@ delinquents
 decompensations
 dasylirion
 doorkeeper
-decompiler
 decomposable
 deviceful
 decomposer
@@ -4538,6 +4537,7 @@ destruction
 demiculverin
 dodgiest
 divulsed
+decompiler
 demidistance
 diaphane
 diabetogenic
