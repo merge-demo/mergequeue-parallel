@@ -2518,6 +2518,7 @@ cardiophobe
 candymaking
 candiru
 candite
+cicatriculae
 candytuft
 curryfavel
 candyweed
@@ -13586,7 +13587,6 @@ companionable
 cymae
 cymagraph
 cimaise
-cicatriculae
 cafe
 colament
 cymaise
