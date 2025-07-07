@@ -5974,6 +5974,7 @@ degrader
 departements
 dimethylnitrosamine
 deprivals
+delusionist
 deceiver
 deprivement
 disconcerts
@@ -12960,7 +12961,6 @@ doddard
 demivoice
 discriminability
 dolomitized
-delusionist
 disfavourer
 decomplex
 disorderer
