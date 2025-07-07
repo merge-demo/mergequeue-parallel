@@ -8351,6 +8351,7 @@ alipin
 abbie
 apophylaxis
 antecloset
+alkapton
 acappella
 arbitrational
 afforestment
@@ -8504,7 +8505,6 @@ amebocyte
 autophyllogeny
 alkanol
 alkaphrah
-alkapton
 alkaptone
 ascent
 alkaptonuric
