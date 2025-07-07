@@ -1514,7 +1514,6 @@ callynteria
 callionymidae
 coachers
 crookkneed
-clepe
 calliope
 concertos
 celtomaniac
@@ -20793,6 +20792,7 @@ corkmaker
 complin
 cranioplasty
 concessively
+clepe
 complines
 complins
 complot

@@ -4474,7 +4474,6 @@ despairfulness
 doubtingness
 demesgne
 dudleyite
-dithioic
 dolos
 diapyesis
 demesman
@@ -12812,6 +12811,7 @@ diathermancy
 doubty
 diploes
 dismail
+dithioic
 dismal
 dialogs
 dorsomedian
