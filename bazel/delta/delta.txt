@@ -4809,6 +4809,7 @@ darwin
 dangs
 dpt
 dilated
+dimmer
 detours
 dismisser
 defenestrated
@@ -10020,7 +10021,6 @@ dermohemia
 divinable
 dinothere
 dimly
-dimmer
 defensor
 dasyatidae
 dimness

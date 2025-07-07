@@ -358,7 +358,6 @@ beehives
 backet
 bangala
 bigha
-bloman
 brushes
 backfills
 backfires
@@ -4475,6 +4474,7 @@ becrippled
 beira
 becrippling
 bronchiectatic
+bloman
 bisulphite
 bluenose
 becroak
