@@ -13589,7 +13589,6 @@ cimaise
 cicatriculae
 cafe
 colament
-cymaise
 cort
 calorisator
 cathartically
@@ -14124,6 +14123,7 @@ compend
 chocked
 cookwares
 crocodile
+cymaise
 coriandrol
 chloritoid
 cleruchial
