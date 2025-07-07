@@ -278,6 +278,7 @@ degermed
 dependently
 doradilla
 daguerreotyped
+dibrom
 daguerreotyping
 digitonin
 dreadnaught
@@ -12048,7 +12049,6 @@ diaspidinae
 deambulatory
 disenmesh
 dyehouse
-dibrom
 donut
 deacon
 disensanity
