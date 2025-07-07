@@ -7648,7 +7648,6 @@ alcogene
 ascogonium
 antiphilosophical
 alcohate
-assertorically
 alcohol
 alcoholature
 annot
@@ -19874,6 +19873,7 @@ arrogating
 arsenobenzene
 arming
 armings
+assertorically
 avn
 autor
 analogized
