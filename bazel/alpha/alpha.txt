@@ -814,7 +814,6 @@ angiomegaly
 abronia
 abrood
 abrook
-abrotanum
 atrabiliary
 albinism
 abrotine
@@ -16477,6 +16476,7 @@ assimilate
 athyridae
 alodially
 ascertained
+abrotanum
 aortal
 aortarctia
 achaenocarp
