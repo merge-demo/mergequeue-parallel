@@ -6225,6 +6225,7 @@ boneen
 benet
 brazas
 beneventan
+beaconed
 bibliography
 bijugous
 benevolency
@@ -6990,7 +6991,6 @@ barrico
 besiegers
 bedeman
 bromism
-beaconed
 bradyacousia
 beslap
 beslave
