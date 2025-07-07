@@ -197,7 +197,6 @@ deforesting
 debitumenize
 dealfish
 daemons
-daemonurgist
 defecant
 dak
 deemstership
@@ -224,6 +223,7 @@ decemlocular
 dripless
 drukpa
 daftberry
+daemonurgist
 dusty
 denticate
 diarrhoea
