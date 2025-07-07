@@ -11861,6 +11861,7 @@ donatively
 domineered
 dbl
 discurtain
+dephased
 discusses
 discussion
 dominations
@@ -13903,7 +13904,6 @@ distichal
 demisable
 diadelphia
 distichlis
-dephased
 dimerous
 distichous
 discina
