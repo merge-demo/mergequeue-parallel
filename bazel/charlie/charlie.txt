@@ -7558,7 +7558,6 @@ chivvy
 canroyer
 caressing
 cacoenthes
-cercarial
 coloni
 cercarian
 corpuscular
@@ -16535,6 +16534,7 @@ canchi
 clodlet
 clubfellow
 clodpated
+cercarial
 cadential
 cloes
 cloff
