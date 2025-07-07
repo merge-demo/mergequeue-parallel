@@ -13970,7 +13970,6 @@ advancer
 astrologian
 achronychous
 antebaptismal
-andesyte
 albigenses
 acculturational
 adjustation
@@ -20324,6 +20323,7 @@ arsenites
 anarchic
 afley
 androids
+andesyte
 arrogate
 antenarial
 alonsoa
