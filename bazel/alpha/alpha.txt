@@ -12428,7 +12428,6 @@ anecdotes
 anecdotic
 anecdotical
 anova
-anecdotically
 aegagropile
 appealed
 aftmost
@@ -13850,6 +13849,7 @@ anseis
 anselm
 anser
 anserated
+anecdotically
 annullation
 anserine
 ashen
