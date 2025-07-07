@@ -8141,7 +8141,6 @@ barble
 befouls
 biding
 bidirectional
-biophagy
 beliefs
 bania
 boltonias
@@ -10285,6 +10284,7 @@ ballsy
 blacktongue
 byroniana
 benzoquinoline
+biophagy
 blacktopping
 blacktops
 blastoporphyritic
