@@ -3645,6 +3645,7 @@ disquantity
 dermatoxerasia
 deglut
 dec
+dins
 disarrangement
 decubation
 denounced
@@ -10271,7 +10272,6 @@ dressing
 dermoosseous
 destry
 dinotherian
-dins
 dinted
 dintless
 ducal
