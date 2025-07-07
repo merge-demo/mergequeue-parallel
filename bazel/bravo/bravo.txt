@@ -5522,6 +5522,7 @@ beethovian
 beyondness
 borshts
 baryton
+barres
 bewares
 birding
 beisa
@@ -14761,7 +14762,6 @@ brazer
 brazers
 brows
 brazier
-barres
 ballooner
 bradypepsia
 burgheress
