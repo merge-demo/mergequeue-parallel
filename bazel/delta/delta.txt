@@ -3261,6 +3261,7 @@ deionized
 doublethought
 dominie
 departs
+decongest
 defibrillated
 dominants
 defibrillating
@@ -7013,7 +7014,6 @@ destroyers
 despoiler
 disabilities
 despoilers
-decongest
 decamps
 discreditably
 dogfaces
