@@ -10685,6 +10685,7 @@ coptic
 calci
 cavies
 caribou
+cholesterate
 cytoplasmic
 chimes
 chymes
@@ -13768,7 +13769,6 @@ cullions
 cincinnal
 cincinni
 causatum
-cholesterate
 cinclides
 camphire
 composture
