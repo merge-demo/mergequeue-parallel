@@ -12917,7 +12917,6 @@ churidars
 canvassy
 cyclized
 cupidity
-churinga
 churingas
 churl
 convoys
@@ -13403,6 +13402,7 @@ concurrent
 cleaners
 cyclostyle
 cyclostoma
+churinga
 chasers
 ceration
 ciphony
