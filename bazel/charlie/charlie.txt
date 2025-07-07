@@ -5742,6 +5742,7 @@ carolean
 cannon
 catchlight
 cultivatability
+costrels
 clockcase
 cowpock
 caudillism
@@ -26648,7 +26649,6 @@ counterabut
 counteracted
 colada
 counteracter
-costrels
 chessart
 compilation
 counteraction
