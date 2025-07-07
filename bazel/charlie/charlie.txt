@@ -28611,6 +28611,7 @@ camphines
 corkite
 coapt
 cedule
+collectivization
 confectiones
 colemanite
 civilizes
@@ -31505,7 +31506,6 @@ curring
 currock
 clupeoids
 culiciform
-collectivization
 coservant
 cursa
 curse
