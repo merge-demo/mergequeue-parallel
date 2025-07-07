@@ -2914,6 +2914,7 @@ backbiting
 blanco
 beslab
 bited
+besting
 broad
 barrelled
 billfish
@@ -9228,7 +9229,6 @@ bipetalous
 bucciniform
 brended
 bobbinet
-besting
 biphenylene
 biphenol
 berrying
