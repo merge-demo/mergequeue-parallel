@@ -1317,7 +1317,6 @@ cantador
 carious
 cryptogrammatist
 chaucer
-calycate
 calyceraceae
 cardioparplasis
 calices
@@ -18327,6 +18326,7 @@ cofounds
 cofreighter
 cofunction
 cystidia
+calycate
 cretification
 cogencies
 cogener
