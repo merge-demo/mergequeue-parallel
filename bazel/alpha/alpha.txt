@@ -20750,7 +20750,6 @@ aet
 astrantia
 artlike
 artocarpaceae
-artocarpeous
 artocarpous
 artolater
 aliner
@@ -21656,6 +21655,7 @@ asself
 ayyubid
 assembl
 assemblable
+artocarpeous
 assemblance
 aphthous
 assemble
