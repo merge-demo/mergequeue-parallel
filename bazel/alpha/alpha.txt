@@ -13923,7 +13923,6 @@ antaiva
 anolian
 antalgesic
 antalgics
-antalgol
 abmodality
 antalkalies
 acraspeda
@@ -15145,6 +15144,7 @@ antiexpansion
 antiexpansionism
 antiexpressionism
 antiexpressionist
+antalgol
 antiexpressive
 ammocoetoid
 antepredicament
