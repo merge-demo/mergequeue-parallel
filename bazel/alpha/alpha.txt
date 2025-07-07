@@ -6743,7 +6743,6 @@ aircraftsman
 aneurine
 affrontiveness
 aircraftsmen
-aircraftswoman
 aircraftwoman
 aircrew
 aortae
@@ -23679,6 +23678,7 @@ aleppine
 aurous
 aurrescu
 anchtherium
+aircraftswoman
 aurulent
 anagrammatical
 anisuria
