@@ -1448,6 +1448,7 @@ dazed
 deuteroplasm
 dories
 dispulp
+discomforts
 dazement
 deckhouses
 dazes
@@ -11523,7 +11524,6 @@ dieticians
 derivationist
 deuteropathic
 discomfortingly
-discomforts
 discomycete
 discomycetous
 druggy
