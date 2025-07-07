@@ -7640,6 +7640,7 @@ anisil
 alcyonium
 alcippe
 airplaned
+amahs
 axolemma
 antefurca
 actual
@@ -10059,7 +10060,6 @@ ambleocarpus
 ambler
 awakes
 aphthonite
-amahs
 appulsive
 axmen
 antiformant
