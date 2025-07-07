@@ -576,7 +576,6 @@ backwoodsy
 bacon
 balkar
 baubee
-balisaur
 baconian
 bishopric
 breaths
@@ -10612,6 +10611,7 @@ blaws
 bentonitic
 bailie
 bronchiole
+balisaur
 brigittine
 bajulate
 blaze
