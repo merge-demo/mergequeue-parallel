@@ -4618,7 +4618,6 @@ dartoic
 demineralizing
 demiofficial
 demiorbit
-dendrolagus
 dustlike
 dolichocrany
 depths
@@ -8247,6 +8246,7 @@ dissectors
 dulcor
 diorism
 diadochian
+dendrolagus
 diadochic
 diadochite
 dethroner

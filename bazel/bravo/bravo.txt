@@ -1112,7 +1112,6 @@ betrayals
 bedimmed
 boatload
 brindled
-bluethroat
 brewmaster
 boyg
 breakwind
@@ -9439,6 +9438,7 @@ brunoniaceae
 burnetize
 bedirties
 bourride
+bluethroat
 birkeniidae
 birky
 birkremite
