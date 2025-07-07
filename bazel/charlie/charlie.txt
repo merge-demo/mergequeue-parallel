@@ -2957,6 +2957,7 @@ chytrid
 cantharidate
 cantharides
 coation
+cephalofacial
 cantharidian
 cycloacetylene
 cantharidize
@@ -7402,7 +7403,6 @@ cephalodiscus
 curtains
 cephalodium
 conditionals
-cephalofacial
 cephalogram
 cephaloid
 culminates
