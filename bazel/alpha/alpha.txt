@@ -8840,7 +8840,6 @@ allocate
 anglophobes
 autoimmunization
 allocating
-asthmatics
 allocations
 amyosthenia
 afterdated
@@ -15676,6 +15675,7 @@ antiparliamental
 anterospinal
 assapanick
 axons
+asthmatics
 antiparliamentarians
 acraniate
 antiparticles
