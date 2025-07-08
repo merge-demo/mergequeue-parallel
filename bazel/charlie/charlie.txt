@@ -3561,7 +3561,6 @@ calvarias
 captives
 comatulae
 captor
-capturable
 catechized
 capture
 captured
@@ -30192,6 +30191,7 @@ crucilly
 cruck
 cyclize
 crud
+capturable
 canful
 crudded
 convivialize
