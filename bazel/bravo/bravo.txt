@@ -605,6 +605,7 @@ bacteriaemia
 bacterially
 bacterioblast
 brooched
+basiophthalmite
 bactericide
 beethoven
 bidget
@@ -936,7 +937,6 @@ baker
 brumby
 bahadur
 beverage
-basiophthalmite
 bahay
 bahaist
 blocs
