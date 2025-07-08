@@ -5432,6 +5432,7 @@ disc
 docosanoic
 denuder
 dermolysis
+deuzan
 douched
 dialysation
 dissonant
@@ -7596,7 +7597,6 @@ dracaenas
 dribber
 deutschland
 deutzia
-deuzan
 discernible
 drou
 doublewidth
