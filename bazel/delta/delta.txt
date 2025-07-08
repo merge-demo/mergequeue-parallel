@@ -5100,6 +5100,7 @@ dendrium
 diminishes
 decuria
 derailed
+drate
 donatary
 decalogist
 dendrochirota
@@ -12636,7 +12637,6 @@ disjected
 discourage
 duntle
 daredevils
-drate
 delegant
 dertrotheca
 doomsman
