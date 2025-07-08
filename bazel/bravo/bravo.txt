@@ -2197,7 +2197,6 @@ bibbled
 baysmelts
 bemaddens
 barathra
-barato
 buxaceae
 bontebok
 baghla
@@ -5067,6 +5066,7 @@ bodger
 biloculine
 beferned
 befetished
+barato
 buirdly
 bandoline
 bilingual
