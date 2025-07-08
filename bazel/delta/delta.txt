@@ -4340,7 +4340,6 @@ diacranteric
 decomposes
 dhoney
 deplores
-demagnetizing
 devilbird
 devoutness
 durning
@@ -9943,6 +9942,7 @@ deformational
 dimers
 dimes
 dimetallic
+demagnetizing
 dimeter
 dermatauxe
 discophorous
