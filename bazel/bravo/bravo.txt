@@ -3802,6 +3802,7 @@ boreas
 baulked
 bearbane
 bequeaths
+bodying
 bucerotes
 behight
 broccoli
@@ -13606,7 +13607,6 @@ bailiffry
 boogaloo
 boullework
 biurate
-bodying
 besand
 bowstrings
 boult
