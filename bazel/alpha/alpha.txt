@@ -11024,6 +11024,7 @@ archegone
 assais
 amorphus
 amort
+adaptively
 amuguis
 amortising
 amortizable
@@ -20403,7 +20404,6 @@ artcraft
 antitypes
 acceptableness
 appeared
-adaptively
 artefacts
 analyticity
 abstemiously
