@@ -139,6 +139,7 @@ babirusas
 brimmer
 brabantine
 basicranial
+barbone
 bedimpled
 bedash
 boolian
@@ -4460,7 +4461,6 @@ biurea
 becram
 braid
 becramp
-barbone
 bursicle
 blenniidae
 bustling
