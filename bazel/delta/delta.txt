@@ -2921,7 +2921,6 @@ dedication
 drafting
 disfavor
 duodecimals
-dedicatory
 dedicatorily
 doggoner
 dedicators
@@ -15845,6 +15844,7 @@ deuteron
 detects
 daffodowndilly
 deluge
+dedicatory
 dissertations
 demidome
 disenfranchising
