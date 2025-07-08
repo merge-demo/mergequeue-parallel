@@ -12790,7 +12790,6 @@ concelebrating
 chumashan
 chumawi
 chummage
-chummed
 congelifract
 crepidoma
 chummery
@@ -13542,6 +13541,7 @@ cylindrenchyma
 cylindric
 cylindrically
 cylindricity
+chummed
 cylindricule
 cylindriform
 calpack
