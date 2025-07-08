@@ -10506,6 +10506,7 @@ diphthongation
 dilutedness
 dendrodra
 disordeine
+distringas
 diphthonging
 diphthongisation
 demolishes
@@ -14100,7 +14101,6 @@ deltarium
 districtly
 dsr
 districts
-distringas
 diisatogen
 descendents
 decarhinus
