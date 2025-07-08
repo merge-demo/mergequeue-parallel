@@ -10470,7 +10470,6 @@ bathmic
 biacuru
 blason
 becoom
-blasphemed
 blasphemes
 blasphemies
 blasphemous
@@ -17512,6 +17511,7 @@ bitrochanteric
 burdenless
 blasty
 bookrest
+blasphemed
 burdenous
 bleep
 blabs
