@@ -6809,7 +6809,6 @@ berrier
 berries
 beaut
 buhls
-barytosulphate
 badian
 bookery
 bersagliere
@@ -17307,6 +17306,7 @@ bore
 bathochromatism
 benzotrifluoride
 bopyrus
+barytosulphate
 buddling
 boutel
 bucoliast
