@@ -1795,7 +1795,6 @@ debases
 duyker
 doggoned
 daggerlike
-debate
 disemboguing
 delusterant
 dung
@@ -16902,6 +16901,7 @@ dreading
 demonstrandum
 distemperment
 descriptory
+debate
 dreadly
 dreadlocks
 dreadnought
