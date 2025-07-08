@@ -5765,6 +5765,7 @@ counterinsurgents
 catclaw
 cate
 catechesis
+conchate
 catechetic
 congenator
 conduceability
@@ -21304,7 +21305,6 @@ couponed
 cardiomalacia
 conchae
 conchal
-conchate
 chemigrapher
 cunonia
 chummy
