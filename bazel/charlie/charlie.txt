@@ -11254,7 +11254,6 @@ coemperor
 chlorhydric
 chloriamb
 chloriambus
-chloric
 chlorid
 chicanos
 chloridate
@@ -11521,6 +11520,7 @@ choristoma
 circularizer
 choirman
 conspirers
+chloric
 colonizations
 corelysis
 choirmasters
