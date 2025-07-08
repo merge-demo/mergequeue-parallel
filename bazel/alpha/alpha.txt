@@ -17112,7 +17112,6 @@ apographic
 apographical
 apohyal
 autosensitization
-acuminous
 apoidea
 astucity
 aoristic
@@ -18103,6 +18102,7 @@ ambracan
 anemometers
 adenosclerosis
 aeolid
+acuminous
 aquarid
 allowably
 anticontagiousness
