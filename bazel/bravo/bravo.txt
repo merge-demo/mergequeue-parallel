@@ -1838,7 +1838,6 @@ bullary
 barricos
 besotter
 bandeau
-betula
 bancus
 backstabber
 bandelette
@@ -8000,6 +7999,7 @@ bichromatize
 bedebt
 bellworts
 bicyanide
+betula
 bicyclers
 bicyclic
 bicyclism
