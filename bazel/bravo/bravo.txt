@@ -5436,7 +5436,6 @@ bars
 boshvarks
 behaviored
 betravel
-behaviorists
 behavioural
 brachioradial
 blepharoceridae
@@ -15836,6 +15835,7 @@ bromeigon
 bromeikon
 blushet
 boliche
+behaviorists
 buzzes
 bromelins
 batler
