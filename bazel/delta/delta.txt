@@ -5270,7 +5270,6 @@ deprehensible
 denouncer
 dissymmetry
 dens
-densate
 diogenean
 deerstealer
 deallocation
@@ -12489,6 +12488,7 @@ devisee
 demurring
 disyllabized
 dumky
+densate
 discontinuations
 disconform
 disillusionising
