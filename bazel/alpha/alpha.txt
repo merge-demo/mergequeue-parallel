@@ -4162,7 +4162,6 @@ antitarnish
 aleyard
 adoptian
 anacoustic
-adoptianism
 agalwood
 agin
 acinuni
@@ -8658,6 +8657,7 @@ anastomosis
 autotheater
 amygdaloidal
 acetate
+adoptianism
 annunciatory
 asteroxylaceae
 allegorized
