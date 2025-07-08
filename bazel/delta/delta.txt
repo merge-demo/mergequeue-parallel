@@ -3324,7 +3324,6 @@ definitiones
 disregards
 duplications
 definitions
-definitise
 dekastere
 dormant
 dilatant
@@ -4435,6 +4434,7 @@ demeanor
 doit
 disallowableness
 disembark
+definitise
 demeanored
 dissidents
 douper
