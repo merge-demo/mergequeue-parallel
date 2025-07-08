@@ -6716,6 +6716,7 @@ ceilometer
 couac
 ceylonite
 ceils
+chroniclers
 compound
 counterquestion
 coathangers
@@ -13832,7 +13833,6 @@ cascavel
 creationist
 cetologies
 codification
-chroniclers
 cantons
 crestfallen
 carrageen
