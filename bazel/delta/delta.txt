@@ -12243,6 +12243,7 @@ disfurnished
 dangerless
 desulfurating
 deathshot
+dejerator
 dervishes
 disfurniture
 donax
@@ -18487,7 +18488,6 @@ dyschronous
 detractively
 dacryoma
 dupper
-dejerator
 denat
 dirca
 dendroica
