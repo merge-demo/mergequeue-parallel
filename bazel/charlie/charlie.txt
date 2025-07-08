@@ -14751,7 +14751,6 @@ calixtus
 citatory
 canvassers
 cookery
-cite
 citer
 citers
 cites
@@ -16854,6 +16853,7 @@ clowders
 clower
 clownade
 clownage
+cite
 clownery
 capitative
 clowneries
