@@ -130,6 +130,7 @@ abatage
 abate
 acronychally
 abated
+anthrophore
 apocrustic
 abater
 alanyl
@@ -14417,7 +14418,6 @@ ackey
 accensor
 always
 antiuating
-anthrophore
 anthropical
 acquisition
 anthropobiology
