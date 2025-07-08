@@ -5762,7 +5762,6 @@ demonland
 depoetize
 deconsider
 depoh
-decd
 depolarise
 depolarization
 dernly
@@ -18306,6 +18305,7 @@ dagger
 dextorsal
 doray
 desmepithelium
+decd
 danaan
 dunpickle
 debtorship
