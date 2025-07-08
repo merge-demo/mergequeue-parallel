@@ -9060,7 +9060,6 @@ charityless
 caridoid
 cloaks
 comus
-chicadee
 charking
 chiels
 charlady
@@ -28850,6 +28849,7 @@ cretefaction
 callisection
 creticism
 coturnix
+chicadee
 cretics
 cretify
 cavalla
