@@ -16645,7 +16645,6 @@ cosponsorships
 circut
 clonos
 clonothrix
-carangus
 clonus
 cloof
 chymaqueous
@@ -27916,6 +27915,7 @@ commendable
 cracking
 crackings
 crackle
+carangus
 crackled
 crackles
 crackless
