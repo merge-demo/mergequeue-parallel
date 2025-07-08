@@ -16330,6 +16330,7 @@ downsitting
 describable
 dragonism
 dainteth
+drunk
 deplored
 dedolency
 decanate
@@ -17582,7 +17583,6 @@ drums
 decalcifier
 drumstick
 drumwood
-drunk
 drunkards
 desuperheater
 dogbite
