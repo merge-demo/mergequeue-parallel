@@ -14820,7 +14820,6 @@ cascan
 citizens
 cytoanalyzer
 catharsis
-cis
 copremia
 cytoarchitectural
 cytoblast
@@ -20082,6 +20081,7 @@ commentators
 commentatorship
 cre
 carboned
+cis
 commented
 chromatioideae
 commenter
