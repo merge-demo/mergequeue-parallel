@@ -12365,7 +12365,6 @@ anchietin
 androgens
 anticomplex
 androgyn
-androgynal
 arillode
 androgyne
 androgyneity
@@ -19281,6 +19280,7 @@ areopagite
 areopagitica
 alaite
 astacus
+androgynal
 amplexation
 anodine
 anticonservative
