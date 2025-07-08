@@ -10667,7 +10667,6 @@ brunissure
 belt
 bouleuteria
 blearyeyedness
-bevel
 brotulid
 begarnish
 blearing
@@ -10973,6 +10972,7 @@ bookcase
 blissom
 bebotch
 blockman
+bevel
 balden
 buxomer
 blistered
