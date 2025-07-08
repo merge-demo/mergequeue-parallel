@@ -3018,6 +3018,7 @@ cantingness
 clairschach
 concent
 cantles
+concertini
 cantlet
 cantline
 cantling
@@ -21254,7 +21255,6 @@ concertedness
 cicatrose
 curtseys
 charismas
-concertini
 concertinist
 cordiform
 counterfeited
