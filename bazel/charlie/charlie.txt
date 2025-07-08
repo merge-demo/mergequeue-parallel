@@ -8648,6 +8648,7 @@ cymaphen
 circumadjacent
 chandui
 chandul
+crossway
 chane
 caitiff
 chaneling
@@ -29950,7 +29951,6 @@ crosstown
 carcinologist
 crosstrack
 crosstree
-crossway
 crossways
 cetid
 calcification
