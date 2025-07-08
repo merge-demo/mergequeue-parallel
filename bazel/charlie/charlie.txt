@@ -12302,6 +12302,7 @@ christendom
 christener
 christeners
 christening
+cyathus
 christens
 christhood
 carburator
@@ -13104,7 +13105,6 @@ cyathiform
 connivent
 cyathophyllum
 cyathos
-cyathus
 confest
 cibarial
 ceroxyle
