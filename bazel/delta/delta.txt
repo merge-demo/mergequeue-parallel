@@ -14914,7 +14914,6 @@ dormancy
 drail
 dodderers
 dodders
-doddie
 delitous
 disengagement
 dodecade
@@ -15308,6 +15307,7 @@ dealbuminize
 dollmaker
 dissectible
 durante
+doddie
 dendroclastic
 decelerate
 droopt
