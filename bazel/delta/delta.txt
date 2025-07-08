@@ -14881,7 +14881,6 @@ denigratory
 docudramas
 document
 disinfector
-documentable
 deist
 documental
 delimer
@@ -15432,6 +15431,7 @@ derisions
 desperacy
 disillusionist
 digestedness
+documentable
 deforestation
 detoxify
 dragonet
