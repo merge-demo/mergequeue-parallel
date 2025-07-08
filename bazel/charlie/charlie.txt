@@ -2042,6 +2042,7 @@ coburgess
 camouflage
 camouflageable
 camouflager
+colorless
 contradictorily
 camouflagers
 camouflagic
@@ -19460,7 +19461,6 @@ cheaping
 cincholoiponic
 calcitonin
 chimaeridae
-colorless
 cephalopagus
 carbohydrazide
 cup
