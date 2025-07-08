@@ -8775,7 +8775,6 @@ askant
 anglist
 anticeremonially
 allie
-allied
 allies
 alligated
 acceders
@@ -19343,6 +19342,7 @@ argentan
 autochrome
 anacrisis
 acephalite
+allied
 argentate
 assortedness
 aseptify
