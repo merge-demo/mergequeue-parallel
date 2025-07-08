@@ -12484,7 +12484,6 @@ capetonian
 chromoctye
 chromodermatosis
 chromogen
-chromogene
 chromogenesis
 cingulate
 chamaecrista
@@ -28238,6 +28237,7 @@ crapple
 capreolus
 cyclometries
 counteragitation
+chromogene
 crapshooters
 crumlet
 colchyte

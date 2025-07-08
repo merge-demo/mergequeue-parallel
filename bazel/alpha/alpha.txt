@@ -13325,7 +13325,6 @@ anisotropically
 anencephalotrophia
 archimorphic
 anisotropies
-anystidae
 anhydrating
 anisum
 antileveling
@@ -21820,6 +21819,7 @@ assistful
 acalycine
 ascents
 assistless
+anystidae
 assith
 archons
 adnumber
