@@ -760,7 +760,6 @@ betrays
 betterer
 bellybutton
 badland
-badlands
 buba
 bat
 brushcut
@@ -9938,6 +9937,7 @@ bituminized
 burnbeat
 bucktail
 bedivere
+badlands
 bana
 bedrivelling
 bituminoid
