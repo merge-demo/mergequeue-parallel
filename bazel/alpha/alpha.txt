@@ -6808,6 +6808,7 @@ airlessness
 anchistopoda
 airlift
 airlifting
+appeacher
 airlifts
 airlike
 airline
@@ -17327,7 +17328,6 @@ apostles
 apostleship
 apostleships
 amassers
-appeacher
 apostoli
 apostolian
 apostolical
