@@ -2455,7 +2455,6 @@ capelline
 cancrine
 cicatrix
 carpers
-cirrostome
 coffeeberry
 cancrinite
 cancrisocial
@@ -20661,6 +20660,7 @@ complaisantly
 coenenchyma
 complant
 chiromancer
+cirrostome
 complect
 cottierism
 collapsible
