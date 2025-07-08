@@ -4731,7 +4731,6 @@ dipterologist
 demiurgeous
 downswings
 decking
-derealization
 declaration
 demiurgos
 dipmeter
@@ -10714,6 +10713,7 @@ danelaw
 doublewords
 dipodic
 dipodid
+derealization
 deleble
 destained
 diglot
