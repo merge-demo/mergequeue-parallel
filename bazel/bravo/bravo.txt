@@ -529,6 +529,7 @@ backtender
 ballyhooing
 backtenter
 beggingwise
+bandon
 blennioid
 backtracking
 backtracks
@@ -2138,7 +2139,6 @@ betangle
 bribery
 bantu
 bantus
-bandon
 bewield
 blandfordia
 botrychium
