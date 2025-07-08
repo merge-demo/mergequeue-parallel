@@ -5829,7 +5829,6 @@ cestodaria
 cannabins
 crinose
 currish
-categorise
 categorised
 chansonnier
 cultivated
@@ -18266,6 +18265,7 @@ coffeehouse
 coffeehouses
 coffeeman
 classico
+categorise
 clayed
 coffeepots
 coffeeroom
