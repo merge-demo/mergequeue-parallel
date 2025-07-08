@@ -7426,7 +7426,6 @@ botrydium
 betrend
 braveries
 betrothing
-betrothment
 betroths
 bromine
 betrousered
@@ -8039,6 +8038,7 @@ betrumpet
 bicolorous
 betrayal
 bicolors
+betrothment
 beadleism
 bicoloured
 biconcave
