@@ -6953,6 +6953,7 @@ coaugment
 calorimetric
 cementatory
 chlorobromomethane
+catholicizer
 curvirostres
 charros
 cementer
@@ -22109,7 +22110,6 @@ carragheen
 confounded
 chironomic
 cromerian
-catholicizer
 contrivance
 caickle
 confounder
