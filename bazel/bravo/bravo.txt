@@ -9842,6 +9842,7 @@ based
 backswording
 bolelia
 balladry
+brattiness
 bebleed
 beknight
 brail
@@ -13477,7 +13478,6 @@ baronethood
 bottomers
 bottoming
 biotelemetry
-brattiness
 betweenness
 balderdash
 benefic
