@@ -3889,7 +3889,6 @@ aversely
 agonied
 aphidian
 adjugate
-adjument
 alarmed
 argentamide
 adjunctively
@@ -23389,6 +23388,7 @@ alvina
 alleviaters
 auditorium
 addition
+adjument
 anagrammatist
 alginate
 avanious
