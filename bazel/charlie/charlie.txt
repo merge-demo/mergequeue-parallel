@@ -12864,7 +12864,6 @@ commonplacer
 crackback
 camellias
 chuprassie
-church
 courageousness
 churchcraft
 churches
@@ -26274,6 +26273,7 @@ cervicicardiac
 coloradans
 cursoriidae
 causational
+church
 crowfoots
 colorimetric
 countersea
