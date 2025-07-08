@@ -1604,7 +1604,6 @@ diadrome
 derision
 disenrol
 damagingly
-decl
 dealcoholize
 dinoceratan
 deutsche
@@ -13278,6 +13277,7 @@ distrusted
 demogenic
 deuteranomal
 daidly
+decl
 deleerit
 deutomerite
 dementate
