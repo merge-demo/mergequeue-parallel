@@ -6888,6 +6888,7 @@ benkulen
 buicks
 bioluminescent
 bescourge
+bernicles
 baboos
 buckeroos
 bust
@@ -7189,7 +7190,6 @@ bessie
 bestad
 biarticulated
 bacteriemia
-bernicles
 bierstube
 bestay
 burleys
