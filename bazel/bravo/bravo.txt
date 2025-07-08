@@ -9874,7 +9874,6 @@ barnacles
 beneficiaries
 biaxially
 bitser
-bitsy
 birled
 bioscope
 brotherly
@@ -16166,6 +16165,7 @@ betweenwhiles
 bezaleelian
 bithynian
 bridget
+bitsy
 brotuliform
 brouette
 brougham
