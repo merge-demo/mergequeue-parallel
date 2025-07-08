@@ -6824,6 +6824,7 @@ desks
 dragade
 destined
 deslime
+dissolutive
 dissoconch
 desmachyme
 dialyzate
@@ -12542,7 +12543,6 @@ dochter
 decrowned
 decani
 diffeomorphic
-dissolutive
 delbert
 disinfestant
 dewclawed
