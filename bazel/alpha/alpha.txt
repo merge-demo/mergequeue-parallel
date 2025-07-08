@@ -18217,7 +18217,6 @@ alsoon
 arabians
 andarko
 amity
-arabica
 accentuator
 arabicism
 agush
@@ -19699,6 +19698,7 @@ aristotelean
 aristotelianism
 aristotelism
 acicula
+arabica
 aristotype
 aristotle
 arytenoepiglottic
