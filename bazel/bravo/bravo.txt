@@ -2039,6 +2039,7 @@ banknotes
 brasserie
 bedeguar
 buffoonesque
+belly
 bicollaterality
 bankrolled
 bankrolling
@@ -10264,7 +10265,6 @@ bratty
 bellweather
 bulldogs
 biborate
-belly
 boracic
 blacksmithing
 biochemy
