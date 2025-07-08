@@ -14400,7 +14400,6 @@ amelia
 abiotrophy
 arsenical
 anthratriol
-anthraxylon
 anthrenus
 agriculturalists
 anthribidae
@@ -23592,6 +23591,7 @@ archicyte
 auribromide
 appellate
 anhaematopoiesis
+anthraxylon
 aurichloride
 auricyanhydric
 anapaests
