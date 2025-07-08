@@ -18641,7 +18641,6 @@ coindicant
 coiner
 comparograph
 comme
-concoction
 coyness
 cerebration
 castanian
@@ -19900,6 +19899,7 @@ comices
 cognominal
 comicocynical
 curlicues
+concoction
 conjugally
 comicocratic
 comicography
