@@ -474,7 +474,6 @@ dairying
 dilleniaceous
 dale
 deutochloride
-dolichoglossus
 danaidae
 daledh
 dankali
@@ -6442,6 +6441,7 @@ derrises
 duce
 deruinate
 derust
+dolichoglossus
 decameronic
 dervishism
 des
