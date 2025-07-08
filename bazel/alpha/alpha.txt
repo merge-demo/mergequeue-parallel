@@ -6813,6 +6813,7 @@ airlike
 airline
 airlines
 airling
+algidities
 airlock
 airmailing
 atmospherical
@@ -8103,7 +8104,6 @@ assassinator
 algesiometer
 algidity
 autocatharsis
-algidities
 algidness
 agriologist
 aeronautics
