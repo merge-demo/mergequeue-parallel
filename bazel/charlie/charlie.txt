@@ -4219,7 +4219,6 @@ clearwing
 carbamido
 carnet
 chiron
-coloboma
 chauffeur
 carabideous
 cardsharp
@@ -8869,6 +8868,7 @@ canonries
 chapteral
 chapterhouse
 chapters
+coloboma
 cardinalates
 chapwoman
 chaqueta
