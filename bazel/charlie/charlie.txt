@@ -21494,6 +21494,7 @@ cheiropompholyx
 concordatory
 concordatum
 concorder
+clinospore
 concordity
 circline
 centumvir
@@ -23738,7 +23739,6 @@ chuffy
 contraposaune
 contrapose
 contraposed
-clinospore
 chalcograph
 contraposit
 cataplexy
