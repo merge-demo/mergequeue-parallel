@@ -6144,7 +6144,6 @@ chromophobe
 copernicans
 celiotomy
 corrobori
-chimaeroidei
 cornfactor
 cattycornered
 cattyman
@@ -23778,6 +23777,7 @@ contrarotation
 conjunctival
 centrifugal
 contrascriptural
+chimaeroidei
 contrast
 cosec
 costocolic
