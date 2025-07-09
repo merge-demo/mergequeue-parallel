@@ -853,7 +853,6 @@ devoicing
 dowered
 disorchard
 dankishness
-discardable
 disprovement
 delesseria
 developability
@@ -2754,6 +2753,7 @@ determinants
 decorticosis
 disoperation
 decortization
+discardable
 decorum
 diamber
 dirige
