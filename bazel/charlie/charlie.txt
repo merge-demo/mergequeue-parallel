@@ -880,7 +880,6 @@ cayuses
 cajan
 capitare
 cajaputs
-cazibi
 cajeput
 climaxes
 cajeputole
@@ -19602,6 +19601,7 @@ colonizing
 creophagist
 columbine
 covin
+cazibi
 climactic
 chamfrons
 cusp
