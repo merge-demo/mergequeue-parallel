@@ -6364,7 +6364,6 @@ bestowed
 bai
 bibs
 benzanthrone
-bifarious
 bipolarize
 ballbuster
 begalling
@@ -6930,6 +6929,7 @@ besetment
 besetters
 blessed
 besew
+bifarious
 borghi
 boccaccio
 betrim
