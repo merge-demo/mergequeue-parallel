@@ -4267,7 +4267,6 @@ carer
 chyometer
 capsulotome
 caress
-cir
 caressed
 captainries
 caresser
@@ -24393,6 +24392,7 @@ calyculus
 carbonic
 cooncans
 coonhound
+cir
 carey
 coonhounds
 coony
