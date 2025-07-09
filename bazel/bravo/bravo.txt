@@ -8755,7 +8755,6 @@ behests
 barycentre
 birchen
 binal
-bedrown
 bungo
 beezer
 binaphthyl
@@ -11349,6 +11348,7 @@ buttonhook
 bluchers
 bludge
 belouke
+bedrown
 bludged
 bludgeon
 bludgeons
