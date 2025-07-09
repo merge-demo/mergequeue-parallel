@@ -6288,7 +6288,6 @@ caulk
 casbahs
 caulkers
 crustation
-callosomarginal
 calyptrogyne
 caulks
 chymists
@@ -27172,6 +27171,7 @@ calcines
 countertype
 cooter
 classisms
+callosomarginal
 countertouch
 chait
 cacotrophic
