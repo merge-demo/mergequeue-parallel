@@ -3791,7 +3791,6 @@ beerish
 benzole
 beauish
 beatrice
-befleck
 bronchoplegia
 baratte
 brutus
@@ -7401,6 +7400,7 @@ beneceptor
 botryose
 beton
 basigamous
+befleck
 beclasps
 betony
 betonies
