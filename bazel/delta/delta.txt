@@ -4125,7 +4125,6 @@ dihybrid
 disreason
 delimitating
 delimitation
-delimiter
 deviational
 displumed
 departments
@@ -7156,6 +7155,7 @@ deamidase
 desulfurising
 dinotheriidae
 desulfurizer
+delimiter
 desulfurizing
 demolitions
 dynamometric
