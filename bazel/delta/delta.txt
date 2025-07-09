@@ -6501,6 +6501,7 @@ desmarestiaceae
 descendable
 descendants
 dimensioned
+demultiplexing
 dipeptid
 dentellated
 disqualification
@@ -7215,7 +7216,6 @@ disafforest
 desulfurised
 doomsdays
 dehiscence
-demultiplexing
 detainee
 detaining
 disinfecter
