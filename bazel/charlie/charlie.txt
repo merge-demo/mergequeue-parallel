@@ -15517,7 +15517,6 @@ coachs
 celestialness
 clarkias
 coapostate
-competently
 crocker
 confraternization
 claro
@@ -17196,6 +17195,7 @@ coaggregate
 condottieri
 coaggregation
 coagitate
+competently
 computationally
 cladophoraceae
 coagitator
