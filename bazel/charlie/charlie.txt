@@ -5067,6 +5067,7 @@ casablanca
 casalty
 citywards
 colat
+clowns
 casanova
 casaques
 casas
@@ -28488,7 +28489,6 @@ creative
 conphaseolin
 cutability
 creativity
-clowns
 creatorhood
 creatotoxism
 columellae
