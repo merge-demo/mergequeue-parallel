@@ -18827,6 +18827,7 @@ archidiaconate
 affair
 archididascalos
 arouse
+abnormal
 archidome
 antapoplectic
 alacrities
@@ -23337,7 +23338,6 @@ adient
 antimephitic
 alleged
 audients
-abnormal
 asphyxial
 arteriopathy
 athetize
