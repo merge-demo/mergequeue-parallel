@@ -8736,7 +8736,6 @@ backslashes
 bimillionaire
 breastbone
 buoyancies
-battish
 bubblingly
 bimodality
 bimodule
@@ -14669,6 +14668,7 @@ backworm
 brassiere
 brassieres
 blackhander
+battish
 brassies
 beatas
 belili
