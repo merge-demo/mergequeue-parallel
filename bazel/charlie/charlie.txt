@@ -949,7 +949,6 @@ chunter
 cholick
 charpais
 calaite
-calamancoes
 calamander
 calamansi
 calamar
@@ -8532,6 +8531,7 @@ cynegetic
 cardinalate
 checke
 champerties
+calamancoes
 chalaze
 champertor
 carbolxylol
