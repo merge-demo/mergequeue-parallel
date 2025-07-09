@@ -7404,6 +7404,7 @@ cephalodium
 conditionals
 cephalofacial
 cephalogram
+confirmations
 cephaloid
 culminates
 cuticles
@@ -21996,7 +21997,6 @@ confirmable
 cionocranial
 confirmation
 confirmational
-confirmations
 curvant
 carlina
 confirmatory
