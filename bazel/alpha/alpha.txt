@@ -16561,7 +16561,6 @@ apast
 apatan
 antihierarchically
 absolutive
-abiogenesis
 acolytes
 apatela
 apatetic
@@ -23117,6 +23116,7 @@ accommodativeness
 accomplice
 architecturesque
 attestator
+abiogenesis
 antiseption
 attested
 attester
