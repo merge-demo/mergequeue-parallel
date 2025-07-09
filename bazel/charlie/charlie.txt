@@ -14557,7 +14557,6 @@ cismontanism
 counterappeal
 cisplatine
 cispontine
-cisrhenane
 cissampelos
 conster
 cissy
@@ -19169,6 +19168,7 @@ collock
 cowfish
 compartmentalizes
 collocutor
+cisrhenane
 cogitations
 collodion
 crushproof
