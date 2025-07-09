@@ -3266,7 +3266,6 @@ dominants
 defibrillating
 dalles
 doty
-deteriority
 deterging
 dragoons
 drostden
@@ -8683,6 +8682,7 @@ delousing
 demagogies
 divulgate
 decoymen
+deteriority
 defecating
 drumbling
 discoast
