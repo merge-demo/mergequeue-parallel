@@ -16698,6 +16698,7 @@ closes
 closeting
 crampit
 chthonic
+coronae
 cylindroma
 crusading
 campoo
@@ -25499,7 +25500,6 @@ chickens
 coronadite
 coronado
 coronados
-coronae
 crepidomata
 cavitates
 coronagraph
