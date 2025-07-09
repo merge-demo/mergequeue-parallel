@@ -9618,6 +9618,7 @@ dignotion
 dependants
 deuterons
 dyslexias
+dolphin
 digonal
 demirobe
 digoneutism
@@ -15341,7 +15342,6 @@ delusional
 dialler
 diffuse
 disposedly
-dolphin
 dirling
 dolphinfish
 dolphinlike
