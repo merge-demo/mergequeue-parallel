@@ -6892,7 +6892,6 @@ chartaceous
 cellulosic
 contented
 cellulosing
-cellulosity
 correllated
 cellulosities
 caphtor
@@ -22068,6 +22067,7 @@ conflow
 clockworks
 confluent
 confluxes
+cellulosity
 confluxibility
 confluxible
 champert
