@@ -705,7 +705,6 @@ absorbency
 alcyonaria
 abortive
 afebrile
-apophysate
 abortiveness
 allegorising
 american
@@ -6020,6 +6019,7 @@ aposaturn
 affiances
 agist
 allamanda
+apophysate
 aretalogy
 agists
 agit
