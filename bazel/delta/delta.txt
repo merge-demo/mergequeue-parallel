@@ -2076,6 +2076,7 @@ decaliters
 dichopodial
 decalitre
 dunlop
+deployments
 dinornithid
 disappearance
 diabrotica
@@ -11480,7 +11481,6 @@ digredience
 dekaliter
 dishier
 diplodia
-deployments
 demandative
 disaccharid
 discoideae
