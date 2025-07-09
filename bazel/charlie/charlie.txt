@@ -10039,6 +10039,7 @@ chalcon
 catepuce
 coffles
 cheries
+cysticerci
 cosmotron
 coronavirus
 circumhorizontal
@@ -14610,7 +14611,6 @@ cystic
 cabuja
 conchoidal
 cysticercerci
-cysticerci
 chondrule
 cylindrite
 cysticercoidal
