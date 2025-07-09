@@ -1197,6 +1197,7 @@ dataries
 depeach
 datasetname
 dithers
+deliquescence
 datcha
 disparison
 demiassignation
@@ -4094,7 +4095,6 @@ deliciousness
 debouches
 delict
 deaquation
-deliquescence
 divertila
 delictual
 disobeyed
