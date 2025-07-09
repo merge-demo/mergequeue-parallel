@@ -2962,6 +2962,7 @@ barriness
 barringer
 broadcasters
 barrios
+bunny
 boulevard
 barrister
 bootless
@@ -17435,7 +17436,6 @@ baltis
 bunking
 babeldom
 browny
-bunny
 bunnia
 bunnies
 bunodont

@@ -17198,6 +17198,7 @@ drippers
 deddy
 diathermotherapy
 drippier
+delimitize
 damans
 dynamoneure
 dowily
@@ -17620,7 +17621,6 @@ disrates
 dichotomisation
 druses
 dishevels
-delimitize
 drusy
 dreamfulness
 druther
