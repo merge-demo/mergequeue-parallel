@@ -14740,6 +14740,7 @@ cairns
 citadel
 cital
 countersynod
+chaldee
 cytase
 cytasic
 cytasters
@@ -22816,7 +22817,6 @@ consentient
 cronstedtite
 consenting
 consentingly
-chaldee
 consentive
 consentment
 consents
