@@ -17489,7 +17489,6 @@ cobblestone
 clepsydras
 cobblestoned
 chokeweed
-cobbling
 cobbra
 cobbs
 carabins
@@ -19604,6 +19603,7 @@ columbine
 covin
 climactic
 chamfrons
+cobbling
 cusp
 crocky
 copesetic
