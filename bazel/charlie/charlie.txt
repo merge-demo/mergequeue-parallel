@@ -3067,7 +3067,6 @@ canvas
 chaffinches
 chiasmodon
 croppa
-cycadeous
 canvasado
 canvasbacks
 canvasers
@@ -31141,6 +31140,7 @@ cupeller
 conscripts
 cupellers
 cupflower
+cycadeous
 centrode
 cupfulfuls
 canvassing
