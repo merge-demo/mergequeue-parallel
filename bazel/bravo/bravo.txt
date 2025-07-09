@@ -14678,7 +14678,6 @@ brasslike
 baignoire
 bagio
 brast
-brat
 brutter
 blender
 bridemaiden
@@ -17824,6 +17823,7 @@ backbit
 boddle
 berkowitz
 bunkerman
+brat
 bursiculate
 bursitis
 bestialise
