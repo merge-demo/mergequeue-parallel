@@ -15363,7 +15363,6 @@ brighten
 brainwork
 brightish
 brightsmith
-banged
 bandannaed
 bertha
 bechauffeur
@@ -16237,6 +16236,7 @@ buyback
 bubo
 blockading
 bluenesses
+banged
 brownouts
 bhajan
 boree
