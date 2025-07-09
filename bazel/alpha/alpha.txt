@@ -6656,7 +6656,6 @@ aimee
 artize
 aimer
 anc
-alkaliferous
 accredits
 aimless
 acropolis
@@ -18485,6 +18484,7 @@ acceptees
 austrophile
 arboricoline
 arboricolous
+alkaliferous
 arboriculture
 abject
 ateknia
