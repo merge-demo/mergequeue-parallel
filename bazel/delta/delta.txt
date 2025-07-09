@@ -6344,7 +6344,6 @@ dermestidae
 dermic
 delint
 daltonism
-dermis
 dermises
 drawbores
 dermoblast
@@ -10367,6 +10366,7 @@ dioptra
 dioptrate
 depurative
 demove
+dermis
 dioptric
 dioptrical
 diorama
