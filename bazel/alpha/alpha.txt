@@ -118,7 +118,6 @@ appraisals
 anthood
 antiheroes
 assertive
-antiphrasis
 aulostoma
 asialia
 abasic
@@ -21553,6 +21552,7 @@ antu
 anamniote
 aristoi
 algolagnist
+antiphrasis
 asquare
 anlage
 approvable
