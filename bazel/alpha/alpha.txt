@@ -6470,7 +6470,6 @@ ahoy
 amaranthoid
 aholds
 ahom
-ahorse
 ahriman
 ahs
 ablare
@@ -24987,6 +24986,7 @@ arnotta
 awfuller
 archicoele
 awhape
+ahorse
 abdali
 awheft
 antheriferous
