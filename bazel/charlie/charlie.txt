@@ -8454,7 +8454,6 @@ counterattractively
 catchers
 chamecephaly
 chamecephalic
-chamecephalous
 chamecephalus
 cannibals
 chameleon
@@ -28921,6 +28920,7 @@ corke
 cuphea
 crib
 crybaby
+chamecephalous
 cooperant
 coarse
 centrolecithal
