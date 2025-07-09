@@ -11667,7 +11667,6 @@ dipetalous
 discordantness
 distributution
 discorded
-discordous
 dotishness
 didest
 demiditone
@@ -14770,6 +14769,7 @@ denticular
 dayshine
 downcasts
 decrepitating
+discordous
 deceptional
 delimitative
 diazide
