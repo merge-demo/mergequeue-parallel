@@ -5506,7 +5506,6 @@ dissolubility
 deadest
 dorsiventrality
 deoxidize
-doryphoros
 deoxygenated
 depaints
 divestitures
@@ -12941,6 +12940,7 @@ deniability
 dimensionless
 disomatic
 doubtmonger
+doryphoros
 dognaping
 discolor
 disaffectedness
