@@ -3744,7 +3744,6 @@ biologists
 beachwear
 battues
 bourdis
-batture
 bielded
 blackening
 buncombe
@@ -17921,6 +17920,7 @@ beminstrel
 bravoite
 bushless
 baillie
+batture
 bareness
 bottega
 bern
