@@ -2239,6 +2239,7 @@ camshachle
 countershear
 camshafts
 camstane
+cygnets
 caval
 camstone
 canaliculization
@@ -14761,7 +14762,6 @@ citharexylum
 citharist
 coprophiliac
 coesite
-cygnets
 citharoedi
 chaplets
 cholesteryl
