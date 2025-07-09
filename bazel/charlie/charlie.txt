@@ -9038,7 +9038,6 @@ cerebbella
 chalchihuitl
 conceivability
 cryptal
-charism
 charisma
 counterpointe
 charismata
@@ -9703,6 +9702,7 @@ cheesecutter
 caramba
 cognizably
 concursus
+charism
 cheeselep
 cheeselip
 cephalochorda
