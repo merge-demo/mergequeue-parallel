@@ -21437,7 +21437,6 @@ cyetic
 conclusory
 calybite
 conclusum
-caseful
 chapellage
 concoagulate
 congestions
@@ -31393,6 +31392,7 @@ chewable
 colophon
 colubaria
 curios
+caseful
 cheminee
 cartridges
 curiosa
