@@ -494,6 +494,7 @@ camisados
 cadee
 cadelles
 craggedness
+checkerbelly
 calendaric
 cadences
 cadencies
@@ -9537,7 +9538,6 @@ chaetites
 checkbooks
 calculated
 checker
-checkerbelly
 centrolepidaceous
 checkerbellies
 checkerberry
