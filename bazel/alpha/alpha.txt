@@ -60,7 +60,6 @@ abaddon
 abadejo
 abadengo
 abadia
-aerially
 argusfish
 arcadian
 attendees
@@ -5246,6 +5245,7 @@ assisan
 axis
 atelic
 anchoretish
+aerially
 apartments
 anthriscus
 affirmations
