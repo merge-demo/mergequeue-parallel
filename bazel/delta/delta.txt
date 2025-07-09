@@ -7980,7 +7980,6 @@ drowse
 diagnosticated
 dorsibranch
 drawpoint
-drunkometer
 dextroglucose
 distensive
 deserver
@@ -11813,6 +11812,7 @@ discriminatively
 despatch
 discriminativeness
 discriminator
+drunkometer
 dashingly
 dirigibility
 diegueno
