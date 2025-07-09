@@ -9527,7 +9527,6 @@ altheas
 altheine
 amylophosphate
 althing
-althionic
 apholates
 ablution
 asterikos
@@ -15790,6 +15789,7 @@ antiphthisic
 amberiferous
 ascendant
 antiepileptic
+althionic
 amphisbaenian
 authorization
 antipyics
