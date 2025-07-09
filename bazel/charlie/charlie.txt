@@ -24275,7 +24275,6 @@ chiropter
 cowbird
 coseier
 cooboos
-chiogenes
 cysticarpium
 cooch
 caricaturists
@@ -28151,6 +28150,7 @@ capronyl
 craniometrist
 craniopathic
 craniopharyngeal
+chiogenes
 code
 craniorhachischisis
 countercheck
