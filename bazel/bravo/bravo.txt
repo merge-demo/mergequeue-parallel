@@ -3357,7 +3357,6 @@ baculum
 benzilic
 bassan
 bassanite
-biotechnics
 bassetta
 blockbuster
 bays
@@ -17609,6 +17608,7 @@ bearlet
 burglarizing
 bradykinetic
 bulldozes
+biotechnics
 backster
 brenda
 barricadoing
