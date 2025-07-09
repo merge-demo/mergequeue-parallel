@@ -2113,6 +2113,7 @@ decancellated
 disciplinarian
 dermatalgia
 debaser
+demesne
 decipher
 decandria
 didst
@@ -12484,7 +12485,6 @@ dexterity
 defy
 disilicide
 deboise
-demesne
 devisee
 demurring
 disyllabized
