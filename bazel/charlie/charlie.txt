@@ -7346,7 +7346,6 @@ commercer
 constitution
 conicity
 carnelians
-cryptolunatic
 chloro
 cephala
 caucasus
@@ -18521,6 +18520,7 @@ croceus
 candidest
 cowthwort
 calmer
+cryptolunatic
 cohesible
 cleidoscapular
 cohesively
