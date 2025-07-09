@@ -15132,7 +15132,6 @@ disfrequent
 dogmatise
 dogmatised
 dressoirs
-dogmatizer
 dispensator
 discotheques
 darkeners
@@ -17554,6 +17553,7 @@ decolour
 disassimilation
 dynamiter
 drumliest
+dogmatizer
 desisting
 drumline
 disappeared
