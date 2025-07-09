@@ -1217,6 +1217,7 @@ drivehead
 disembarkation
 disemplane
 disobligation
+doggies
 dateless
 datelessness
 denizate
@@ -8827,7 +8828,6 @@ deeryard
 diazoimide
 dyschroia
 dixieland
-doggies
 dredges
 dipala
 diazoma
