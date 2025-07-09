@@ -14234,6 +14234,7 @@ aramaean
 anthelices
 amphibolies
 anthelix
+amercements
 archaeomagnetism
 anthelminthic
 anthem
@@ -15207,7 +15208,6 @@ antiformin
 animater
 antifouling
 antihydropin
-amercements
 autobasidiomycetes
 accendible
 asparagine
