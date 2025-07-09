@@ -15678,7 +15678,6 @@ assapanick
 axons
 antiparliamentarians
 acraniate
-antiparticles
 addice
 antipasch
 antipastic
@@ -25091,6 +25090,7 @@ armorplated
 axiate
 atmos
 anatiferous
+antiparticles
 axiferous
 antimonarchists
 argumentation
