@@ -7208,7 +7208,6 @@ alamonti
 archpillar
 afgod
 alamort
-alamosite
 alan
 alange
 antigonococcic
@@ -17439,6 +17438,7 @@ appallment
 availability
 appalls
 adducers
+alamosite
 appanage
 arthrostraca
 appanaged
