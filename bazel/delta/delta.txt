@@ -10367,6 +10367,7 @@ dioptra
 dioptrate
 depurative
 demove
+doffer
 dioptric
 dioptrical
 diorama
@@ -13704,7 +13705,6 @@ disulphuric
 dialkyl
 danegeld
 donates
-doffer
 diatomiferous
 diplasion
 demetrian
