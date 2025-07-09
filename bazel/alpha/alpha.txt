@@ -11195,7 +11195,6 @@ amphid
 astrosphere
 amphophile
 amphidetic
-amphidiarthrosis
 assimilator
 aryans
 amphidisc
@@ -23465,6 +23464,7 @@ auh
 acrimonies
 autoprogressive
 auhuhu
+amphidiarthrosis
 anthracitization
 auklets
 auksinai
