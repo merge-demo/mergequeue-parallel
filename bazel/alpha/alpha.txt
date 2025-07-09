@@ -2327,7 +2327,6 @@ acieration
 appurtenance
 acies
 acyesis
-altometer
 acanthopod
 amourist
 acyetic
@@ -23635,6 +23634,7 @@ authorize
 aurigation
 agrionid
 aurigerous
+altometer
 aurigo
 aurigraphy
 akanekunik
