@@ -700,6 +700,7 @@ bombardo
 breathable
 banjo
 baddie
+bungerly
 betimber
 bathtubs
 bathetically
@@ -14885,7 +14886,6 @@ butterflylike
 breastbeam
 bysacki
 burut
-bungerly
 bitthead
 breaster
 breastfast
