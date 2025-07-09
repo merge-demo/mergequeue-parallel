@@ -6798,6 +6798,7 @@ costard
 celibatic
 conducent
 celibatist
+collat
 coroun
 celibatory
 celidography
@@ -18525,7 +18526,6 @@ cohesible
 cleidoscapular
 cohesively
 cribber
-collat
 cohibit
 cohibition
 cohibitor
