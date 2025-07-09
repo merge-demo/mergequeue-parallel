@@ -14471,6 +14471,7 @@ betray
 brakie
 blastophitic
 bramble
+bacillite
 brambleberry
 brambles
 barfed
@@ -18140,7 +18141,6 @@ babuina
 buteonine
 bods
 boisseaux
-bacillite
 balsamize
 beknit
 biffins
