@@ -488,7 +488,6 @@ dalesfolk
 droughtiest
 dustblu
 disrupter
-daleths
 dislustering
 dalf
 daliance
@@ -6171,6 +6170,7 @@ deregulationize
 dicolic
 deregulations
 dichromatism
+daleths
 drumloid
 ducatoon
 deregulatory
