@@ -6257,7 +6257,6 @@ agariciform
 agre
 agreation
 attemptability
-ambushes
 archpiece
 agreeability
 agreeable
@@ -11480,6 +11479,7 @@ amusette
 aptate
 amusia
 amusias
+ambushes
 antinatural
 amusingness
 amusive
