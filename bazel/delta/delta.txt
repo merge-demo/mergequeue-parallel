@@ -3569,7 +3569,6 @@ drawbeam
 dissheathe
 dehwar
 defuze
-dolman
 dakoities
 dissociative
 degage
@@ -14418,6 +14417,7 @@ drossed
 diversifiable
 diversification
 disporous
+dolman
 duckboat
 diarch
 diversified
