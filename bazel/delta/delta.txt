@@ -9972,7 +9972,6 @@ dimidiate
 dispart
 dimidiation
 dissinew
-downcourt
 dodecatoic
 dipneustal
 dogmata
@@ -18234,6 +18233,7 @@ dhoolies
 dungarees
 dispirem
 dungas
+downcourt
 doghearted
 dungbeck
 demioctangular
