@@ -8643,7 +8643,6 @@ distilment
 diary
 diaglyph
 disimprove
-diarist
 dibbuk
 denatured
 diarrhea
@@ -11824,6 +11823,7 @@ decemberly
 diacodion
 disgregate
 dyscrinism
+diarist
 discrown
 dipchick
 discrowned
