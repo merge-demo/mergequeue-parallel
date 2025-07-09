@@ -1038,6 +1038,7 @@ darndest
 darnels
 destandardize
 diplohedral
+dovewood
 dishes
 diacodium
 deas
@@ -11530,7 +11531,6 @@ druggy
 dirham
 defter
 dunciad
-dovewood
 discommendation
 dheneb
 dedanim
