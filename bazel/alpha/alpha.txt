@@ -4806,7 +4806,6 @@ anears
 annuisance
 anamniota
 accords
-almucantar
 ashlered
 absterse
 anatolic
@@ -22160,6 +22159,7 @@ astoop
 abjoint
 anolympiad
 amorphy
+almucantar
 anticlassicist
 anecdotalism
 attributing
