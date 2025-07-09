@@ -6019,7 +6019,6 @@ catholic
 courtesans
 cardinalated
 cryptostomata
-catholicalness
 chalkography
 catholicisation
 choreographs
@@ -28617,6 +28616,7 @@ civilizes
 creeshed
 creeshes
 cavillation
+catholicalness
 cornball
 cremaster
 calendarian
