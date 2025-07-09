@@ -11670,7 +11670,6 @@ choleriform
 cholerigenous
 chelicerate
 cholerine
-choleroid
 cholerophobia
 cholestanol
 camphylene
@@ -21919,6 +21918,7 @@ confessant
 confessary
 coelomopore
 cornfield
+choleroid
 clubrooms
 confessedly
 confesser
