@@ -10112,6 +10112,7 @@ chessist
 chirimen
 chessner
 chessom
+contractions
 claves
 chesstree
 cerias
@@ -23656,7 +23657,6 @@ contractibly
 cattlegate
 contractility
 contractionist
-contractions
 contractly
 contractor
 contractors
