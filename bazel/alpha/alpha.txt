@@ -9313,7 +9313,6 @@ alphabetiform
 antrectomy
 alopeke
 alophas
-alorcinic
 alosa
 alouette
 androsphinxes
@@ -19082,6 +19081,7 @@ availers
 archtreasurership
 archturncoat
 archvampire
+alorcinic
 archvillainy
 assuages
 anisylidene
