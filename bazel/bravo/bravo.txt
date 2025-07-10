@@ -851,7 +851,6 @@ bloody
 bagdi
 bunters
 begoniaceae
-bauxites
 bicolour
 bagful
 barasingha
@@ -14671,6 +14670,7 @@ brassieres
 blackhander
 brassies
 beatas
+bauxites
 belili
 bestraught
 brassish
