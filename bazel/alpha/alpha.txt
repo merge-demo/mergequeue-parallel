@@ -4077,7 +4077,6 @@ agrief
 antihypertensives
 antilyssic
 admonitionist
-antenna
 anabranch
 anabasis
 acrasia
@@ -5350,6 +5349,7 @@ almight
 aflat
 agons
 argans
+antenna
 aflow
 acumen
 aflower
