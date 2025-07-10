@@ -1896,7 +1896,6 @@ acetars
 acetation
 acetbromamide
 acetenyl
-actinostomal
 acethydrazide
 ablock
 accreted
@@ -4763,6 +4762,7 @@ aerifies
 antiparabemata
 adglutinate
 aeriform
+actinostomal
 abasement
 aberdevine
 azygous
