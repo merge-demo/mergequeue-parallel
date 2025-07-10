@@ -5251,7 +5251,6 @@ dampens
 denotativeness
 denotatum
 deacidifying
-denotes
 docetistic
 destructuralize
 denoting
@@ -18450,6 +18449,7 @@ dactylograph
 demichamfron
 diagometer
 decarbonised
+denotes
 disulphuret
 degreased
 dints
