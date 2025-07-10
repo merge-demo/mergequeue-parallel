@@ -7766,7 +7766,6 @@ ceroplasty
 ceroplastic
 ceroplastics
 cyanocrystallin
-cerosin
 cerote
 chastises
 cabas
@@ -16851,6 +16850,7 @@ corporealist
 comarca
 clowder
 clowders
+cerosin
 clower
 clownade
 clownage
