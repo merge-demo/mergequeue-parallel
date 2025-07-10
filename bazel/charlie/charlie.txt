@@ -2057,7 +2057,6 @@ chests
 cosherer
 camp
 campa
-campagi
 coquettes
 counteraverment
 campagna
@@ -31494,6 +31493,7 @@ curricularize
 cardiomyoliposis
 chid
 currier
+campagi
 chirivita
 curryfavour
 campstools
