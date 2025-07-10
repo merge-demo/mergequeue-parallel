@@ -12578,6 +12578,7 @@ bardane
 bonk
 begrudging
 bagpiping
+bulby
 bonne
 bubbly
 bonnet
@@ -16963,7 +16964,6 @@ bulb
 blandishers
 behears
 bonser
-bulby
 bidens
 buckskins
 bulbier
