@@ -11094,7 +11094,6 @@ coappears
 chitinoid
 chitinous
 chitins
-chitlin
 chitling
 chitlings
 cowbirds
@@ -26465,6 +26464,7 @@ crub
 cotsetland
 cotswold
 calctuff
+chitlin
 curn
 cottae
 chatelains
