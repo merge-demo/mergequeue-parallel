@@ -16345,7 +16345,6 @@ clypeolar
 clypeus
 cyanomethaemoglobin
 clipped
-clippers
 clippie
 convenienced
 clippingly
@@ -27614,6 +27613,7 @@ chrobat
 cowardish
 cannibalistic
 chionophobia
+clippers
 chuffiest
 coecum
 cowardly
