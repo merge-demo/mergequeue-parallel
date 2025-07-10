@@ -1841,6 +1841,7 @@ bandeau
 betula
 bancus
 backstabber
+bolognan
 bandelette
 banderma
 banderol
@@ -12217,7 +12218,6 @@ balustered
 backslidingness
 banque
 beld
-bolognan
 bolognas
 bolognese
 balaenopteridae
