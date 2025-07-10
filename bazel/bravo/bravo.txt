@@ -12079,6 +12079,7 @@ bulbilla
 boites
 baltetei
 balladier
+bulten
 bojo
 bokhara
 baronized
@@ -17214,7 +17215,6 @@ bolograph
 bumbailiffship
 basidigitalia
 batardeau
-bulten
 bandores
 borsch
 biltongs
