@@ -5339,7 +5339,6 @@ afghans
 aficionada
 aficionadas
 antiloemic
-afifi
 autogiro
 aecia
 afikomen
@@ -5585,6 +5584,7 @@ aswing
 aga
 alimonied
 auspiciously
+afifi
 antilopinae
 acrocoracoid
 agacante
