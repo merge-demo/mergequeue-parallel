@@ -4406,6 +4406,7 @@ adure
 andia
 antipuritan
 adust
+antetype
 adustion
 ascalabota
 absurdities
@@ -7891,7 +7892,6 @@ abolishes
 antimedieval
 aliptteria
 alembicated
-antetype
 alembroth
 alemite
 alemmal
