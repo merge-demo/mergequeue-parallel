@@ -11682,6 +11682,7 @@ cholesteremia
 charoset
 chowdered
 clethra
+cretins
 columbanian
 cholesterinic
 cholesterol
@@ -24135,7 +24136,6 @@ convexness
 convexo
 convexoconcave
 cadbote
-cretins
 colascione
 convicinity
 cattabu

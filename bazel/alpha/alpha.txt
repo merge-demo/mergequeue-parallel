@@ -2015,7 +2015,6 @@ acetotoluid
 accessible
 alima
 archdisturber
-abanic
 aphnology
 acetotoluidine
 acetous
@@ -6332,6 +6331,7 @@ animate
 agriot
 agriotypidae
 allotypical
+abanic
 agrypnia
 agrypnotic
 acajou
