@@ -601,6 +601,7 @@ beclothed
 bacteremic
 bacteriaceae
 blooddrops
+bisectional
 bacteriaemia
 bacterially
 bacterioblast
@@ -17364,7 +17365,6 @@ buccinator
 bungee
 bunger
 bijection
-bisectional
 bunghole
 biathlons
 brachistochronic
