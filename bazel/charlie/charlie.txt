@@ -10744,7 +10744,6 @@ chinche
 choise
 cytoarchitecture
 cataloger
-clammersome
 chincherinchee
 chromous
 classrooms
@@ -23643,6 +23642,7 @@ consultancy
 capmakers
 cuplike
 cubalaya
+clammersome
 countableness
 contracyclical
 contract

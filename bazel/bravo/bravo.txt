@@ -2617,7 +2617,6 @@ broncs
 barkier
 bravery
 beduchess
-bescoundrel
 bantamweight
 birdhouses
 bilges
@@ -13556,6 +13555,7 @@ bremeness
 bopster
 baizing
 bougainvilliidae
+bescoundrel
 bite
 bitangential
 bougar
