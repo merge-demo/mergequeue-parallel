@@ -20166,7 +20166,6 @@ arrases
 acoelomata
 arrastra
 acidulation
-arratel
 amylohydrolytic
 asclepieion
 apothem
@@ -20591,6 +20590,7 @@ arthroplastic
 archness
 arthropodal
 abmhos
+arratel
 archaists
 arthropodous
 arthropods
