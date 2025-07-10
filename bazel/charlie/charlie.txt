@@ -9529,6 +9529,7 @@ checkback
 checkbite
 checkbits
 checkbook
+chemises
 chachalaca
 cableways
 cirrigerous
@@ -19479,7 +19480,6 @@ colossian
 charas
 colossians
 colosso
-chemises
 colossochelys
 colostomies
 compositous
