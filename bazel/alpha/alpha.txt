@@ -12920,7 +12920,6 @@ antiegoism
 algicide
 ammeos
 actaeonidae
-anguillula
 ahsan
 achromate
 approaches
@@ -20694,6 +20693,7 @@ artifactually
 artifex
 aerobiology
 artificial
+anguillula
 adverted
 antipragmatically
 ambach
