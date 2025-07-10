@@ -6474,6 +6474,7 @@ benzothiophene
 benzotrichloride
 bolection
 benzoxyacetic
+brachygraphical
 blanchers
 bisulcate
 bulldogged
@@ -14088,7 +14089,6 @@ brachygnathism
 blackberries
 barytine
 boarders
-brachygraphical
 brachyhieric
 bikol
 berlinite
