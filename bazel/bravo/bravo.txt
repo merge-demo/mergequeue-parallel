@@ -11517,7 +11517,6 @@ buttonbur
 barotaxis
 birthday
 bullae
-bemurmurs
 blunged
 bourrasque
 blunger
@@ -14625,6 +14624,7 @@ brashiness
 balducta
 blepharoadenitis
 bookplates
+bemurmurs
 bluets
 brokery
 brasil
