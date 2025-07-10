@@ -9609,6 +9609,7 @@ departisanize
 deglazes
 dignitary
 dignitarian
+desulphurated
 discuss
 demophoon
 doubloons
@@ -17274,7 +17275,6 @@ downbend
 disthrone
 dictyogenous
 degausses
-desulphurated
 debt
 disseizee
 droghlin
