@@ -9839,7 +9839,6 @@ diapaused
 discanonize
 debcle
 disrupture
-descendingly
 dillymen
 durangite
 doorstops
@@ -10750,6 +10749,7 @@ durions
 driftages
 deferrers
 dat
+descendingly
 decompensatory
 diarthrosis
 discreditable
