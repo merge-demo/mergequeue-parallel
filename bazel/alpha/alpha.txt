@@ -5750,7 +5750,6 @@ apickaback
 ancestor
 agata
 apertured
-agate
 admen
 agates
 affeerment
@@ -8773,6 +8772,7 @@ alliciency
 allicient
 askant
 anglist
+agate
 anticeremonially
 allie
 allied
