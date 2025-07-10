@@ -23924,6 +23924,7 @@ cricke
 conurus
 conus
 cypris
+coverlets
 cytometer
 chirl
 conusance
@@ -27551,7 +27552,6 @@ campfire
 coverings
 comped
 cower
-coverlets
 circumambiently
 consumation
 coverlids
