@@ -12255,7 +12255,6 @@ chrysomelid
 chrysomyia
 chrysomonadales
 corpuscles
-chrysopa
 chrysopal
 chrysopee
 commonership
@@ -27211,6 +27210,7 @@ countervindication
 countervolley
 chymiferous
 confederatio
+chrysopa
 countervote
 correlation
 counterwager
