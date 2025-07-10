@@ -13257,6 +13257,7 @@ algarde
 ateeter
 annueler
 aorticorenal
+arty
 anisomyodian
 amtrak
 aortopathy
@@ -20632,7 +20633,6 @@ amaine
 antieugenic
 annunciates
 arthur
-arty
 artiad
 advertising
 artichoke
