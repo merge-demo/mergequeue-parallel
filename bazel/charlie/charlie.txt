@@ -19132,7 +19132,6 @@ cristate
 chaptrel
 collinsite
 collinsonia
-colliquable
 colliquate
 collyria
 collyridian
@@ -26002,6 +26001,7 @@ choreography
 calamagrostis
 cosecs
 chancelleries
+colliquable
 cosectarian
 cardcase
 cosectional
