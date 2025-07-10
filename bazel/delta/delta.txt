@@ -8441,6 +8441,7 @@ disciplines
 deliveror
 dialog
 ditties
+defeminisation
 defibrinize
 dialogers
 dialogged
@@ -17599,7 +17600,6 @@ decastylar
 duant
 dentigerous
 dandelion
-defeminisation
 downloaded
 dorsalis
 denicotinizing
