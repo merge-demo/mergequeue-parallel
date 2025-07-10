@@ -42,6 +42,7 @@ dacite
 deservedly
 dacitic
 didymus
+declinations
 discriminatingness
 dackered
 daduchus
@@ -3776,7 +3777,6 @@ developers
 disour
 dehorns
 decaudate
-declinations
 dioptometry
 doughlike
 dehorted

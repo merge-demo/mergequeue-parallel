@@ -5760,6 +5760,7 @@ contribute
 catchweight
 catchword
 catchwork
+clavicles
 cabasset
 counterinsurgents
 catclaw
@@ -15740,7 +15741,6 @@ clavicythetheria
 clavicittern
 contraction
 clavicle
-clavicles
 cannas
 clavicorn
 clavicornes
