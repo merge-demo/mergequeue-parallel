@@ -11455,6 +11455,7 @@ degumming
 draconis
 distorted
 desertless
+dichrooscope
 diverted
 discide
 discoboli
@@ -14291,7 +14292,6 @@ denotationally
 dytiscid
 dytiscus
 ditokous
-dichrooscope
 dibasic
 ditolyl
 ditremid
