@@ -7593,7 +7593,6 @@ antislavery
 acned
 araeosystyle
 auxographic
-alcestis
 atrocity
 agau
 asylum
@@ -12483,6 +12482,7 @@ anemonal
 anemone
 aerography
 anticreator
+alcestis
 avidities
 albuminiform
 anemony
