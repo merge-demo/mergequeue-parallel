@@ -4720,7 +4720,6 @@ bedewing
 bedlamize
 bloomeria
 blennorrhinia
-bedlamized
 bedlamizing
 bedlamps
 boottopping
@@ -6057,6 +6056,7 @@ bilabial
 bemocking
 bibliological
 brahmanical
+bedlamized
 bort
 bablah
 bloated
