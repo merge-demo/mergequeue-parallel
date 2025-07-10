@@ -2524,7 +2524,6 @@ divulgater
 disregarder
 declare
 drailing
-declaredly
 declares
 dimaris
 daneworts
@@ -13243,6 +13242,7 @@ dapedium
 dispondee
 demythologise
 dahms
+declaredly
 disponent
 doges
 disserved
