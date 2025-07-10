@@ -3776,6 +3776,7 @@ argufier
 alentours
 ariel
 asconia
+antenumber
 anchorwise
 ametabole
 adieu
@@ -14093,7 +14094,6 @@ antiegoistically
 antennule
 antenodal
 antenor
-antenumber
 antimonarchic
 adrostal
 antenuptial
