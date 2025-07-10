@@ -15748,7 +15748,6 @@ clavicotomy
 clavicular
 clavicularium
 claviculate
-chrysohermidin
 chirotype
 clima
 chrysograph
@@ -28408,6 +28407,7 @@ creachy
 cread
 cohortation
 creaght
+chrysohermidin
 crystallized
 creak
 catalecticant
