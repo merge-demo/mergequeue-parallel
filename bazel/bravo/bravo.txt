@@ -9315,7 +9315,6 @@ bifolia
 boyang
 balourdise
 bloviating
-beany
 bawdry
 baldricked
 buzuki
@@ -14311,6 +14310,7 @@ bragly
 beneficiaire
 broachers
 blubbing
+beany
 barefit
 benthos
 brahmachari
