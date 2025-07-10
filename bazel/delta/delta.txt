@@ -2769,7 +2769,6 @@ daun
 draughtiness
 dian
 dreche
-druggist
 docudrama
 decreasingly
 dairymen
@@ -5052,6 +5051,7 @@ denasalize
 disconsolateness
 dictamen
 denasalized
+druggist
 dequeued
 difluoride
 downdraft
