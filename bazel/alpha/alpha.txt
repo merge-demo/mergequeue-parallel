@@ -5385,6 +5385,7 @@ anomiidae
 axed
 acinous
 apothecaries
+antepretonic
 alkalizable
 aspout
 anthomania
@@ -19127,7 +19128,6 @@ arctation
 attendances
 arteriectasia
 abusable
-antepretonic
 antiparliamenteer
 alemannic
 analogion
