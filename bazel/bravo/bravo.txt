@@ -7856,6 +7856,7 @@ bartizan
 bibitory
 bohmite
 biblical
+bubs
 bobsledders
 bels
 benamed
@@ -8400,7 +8401,6 @@ bree
 bijective
 bijou
 bhandar
-bubs
 burbankian
 bannerfish
 bijwoner
