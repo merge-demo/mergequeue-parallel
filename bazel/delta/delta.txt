@@ -986,7 +986,6 @@ dithematic
 darius
 doubleprecision
 dark
-darked
 darkeys
 darkens
 disruptions
@@ -4145,6 +4144,7 @@ decodes
 daschagga
 dankish
 deitate
+darked
 deintellectualization
 delineator
 decapitated
