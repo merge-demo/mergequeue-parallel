@@ -16728,6 +16728,7 @@ cloth
 clothe
 clothed
 confusional
+compactly
 calathian
 clothesbag
 clothesyard
@@ -20401,7 +20402,6 @@ compactible
 crampedness
 categorizations
 cincinnus
-compactly
 conciliatingly
 chondrodynia
 catabolize
