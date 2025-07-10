@@ -2645,6 +2645,7 @@ barleybrake
 broadener
 barleycorn
 bournonite
+bendlet
 bilge
 basidiophore
 bimensal
@@ -14989,7 +14990,6 @@ begift
 barraters
 breedable
 borderies
-bendlet
 breeder
 breakneck
 breeders
