@@ -11409,6 +11409,7 @@ announcers
 amputations
 ammines
 anime
+adjudicature
 amputees
 amreeta
 amrit
@@ -23789,7 +23790,6 @@ anabohitsite
 antiphrastically
 autacoidal
 autaesthesy
-adjudicature
 atlantoaxial
 amidols
 autarch
