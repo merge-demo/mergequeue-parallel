@@ -2519,7 +2519,6 @@ atypical
 aratory
 aconitums
 artmobile
-aposiopeses
 abasgi
 acontia
 ambidexter
@@ -15434,6 +15433,7 @@ archisperm
 antimere
 antimerging
 antimerina
+aposiopeses
 antimerism
 antimesia
 archetypically
