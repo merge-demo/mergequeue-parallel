@@ -2817,7 +2817,6 @@ duplicative
 defi
 deferred
 declarator
-decried
 desistive
 deerflys
 disulphonate
@@ -4362,6 +4361,7 @@ demagogue
 diseducate
 demagoguery
 demagogues
+decried
 demal
 daylit
 diode
