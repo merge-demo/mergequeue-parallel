@@ -7733,6 +7733,7 @@ bathyscaphe
 buxerry
 bhikshu
 brakehand
+buffoonish
 bullan
 breakover
 brocard
@@ -16852,7 +16853,6 @@ blended
 burhead
 bichromatic
 bathysophic
-buffoonish
 bungle
 baret
 birostrated
