@@ -13723,7 +13723,6 @@ bircher
 biophyte
 banqueted
 braccio
-billetwood
 balneatory
 boutefeu
 bouteria
@@ -16758,6 +16757,7 @@ boswell
 buddleia
 bunkhouses
 blockhole
+billetwood
 buddleias
 bicarbonate
 begari
