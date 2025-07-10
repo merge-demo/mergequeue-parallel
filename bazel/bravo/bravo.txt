@@ -7392,7 +7392,6 @@ betises
 byproduct
 botrycymose
 birdbath
-baze
 braker
 busyworks
 boomdas
@@ -17815,6 +17814,7 @@ bursars
 bursch
 bianisidine
 becompass
+baze
 belord
 brocade
 brachistocephalous
