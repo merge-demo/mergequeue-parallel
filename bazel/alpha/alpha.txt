@@ -14203,7 +14203,6 @@ acephal
 anterosuperior
 autocystoplasty
 aupaka
-antesignanus
 antesternal
 antesternum
 antesuperior
@@ -24801,6 +24800,7 @@ avital
 avitaminosis
 anoxic
 avocado
+antesignanus
 adaption
 avocadoes
 augmentatively
