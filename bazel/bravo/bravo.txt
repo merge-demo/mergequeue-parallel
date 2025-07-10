@@ -10603,7 +10603,6 @@ boundingly
 besayle
 bereft
 bohemia
-blaunner
 bein
 blawing
 blawn
@@ -11058,6 +11057,7 @@ blockaded
 bruet
 bibberies
 bedwarfed
+blaunner
 blockboard
 beblain
 bishareen

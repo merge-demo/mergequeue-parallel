@@ -5751,6 +5751,7 @@ drivellers
 disrepair
 deplore
 deplorer
+detainee
 deplumated
 disposes
 deplumes
@@ -7216,7 +7217,6 @@ desulfurised
 doomsdays
 dehiscence
 demultiplexing
-detainee
 detaining
 disinfecter
 detar
