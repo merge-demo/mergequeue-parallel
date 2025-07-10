@@ -20120,6 +20120,7 @@ arracks
 accumulatively
 ametabolism
 approx
+arkoses
 array
 arrayal
 archmystagogue
@@ -21036,7 +21037,6 @@ aerobiont
 aclydes
 ascorbic
 ascosporic
-arkoses
 ascothoracica
 aerographer
 ascribable
