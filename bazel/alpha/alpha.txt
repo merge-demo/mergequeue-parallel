@@ -3781,6 +3781,7 @@ ametabole
 adieu
 attame
 altin
+asclepidin
 adight
 adin
 araneose
@@ -20997,7 +20998,6 @@ asclepiadean
 asclepiadic
 autosender
 asclepian
-asclepidin
 asclepidoid
 asclepin
 adamant
