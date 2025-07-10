@@ -190,7 +190,6 @@ abbe
 abbey
 acarocecidia
 archapostate
-aleshot
 azophen
 algebras
 acatastasia
@@ -9491,6 +9490,7 @@ apheretic
 achier
 assaugement
 aphengescope
+aleshot
 alternater
 abets
 alternatingly
