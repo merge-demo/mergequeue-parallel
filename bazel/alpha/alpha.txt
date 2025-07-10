@@ -10271,7 +10271,6 @@ ars
 ameliorates
 adenotyphoid
 algins
-anacrusis
 allice
 amomales
 ameliorations
@@ -18535,6 +18534,7 @@ acarids
 annulated
 arcadias
 ardure
+anacrusis
 aulos
 arcading
 arcana
