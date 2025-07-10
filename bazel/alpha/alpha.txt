@@ -4091,7 +4091,6 @@ admonitrix
 alkalinize
 admrx
 archetypist
-appendectomies
 adnascent
 adnate
 adnation
@@ -19689,6 +19688,7 @@ aristology
 anamite
 anglesmith
 aristological
+appendectomies
 aristologist
 aristomonarchy
 aristophanic
