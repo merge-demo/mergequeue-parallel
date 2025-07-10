@@ -2390,6 +2390,7 @@ deciduoma
 discommendable
 deciduously
 dimercuric
+dicatalexis
 decyl
 deciles
 decylic
@@ -8295,7 +8296,6 @@ demoded
 deducting
 diagonalwise
 denudate
-dicatalexis
 demonization
 diagonial
 diagonic
