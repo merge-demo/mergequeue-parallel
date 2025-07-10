@@ -1936,6 +1936,7 @@ bandsawn
 bandsman
 bandstand
 beacon
+botswana
 boronia
 beseechment
 bocaccios
@@ -15918,7 +15919,6 @@ bimetallistic
 banderoling
 bilaciniate
 brooding
-botswana
 bronchiarctia
 babyship
 belated
