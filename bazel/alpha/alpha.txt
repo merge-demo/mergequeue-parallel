@@ -9779,6 +9779,7 @@ amalgamize
 amalic
 amalrician
 argosine
+ascupart
 ambery
 anopsias
 accommodationist
@@ -25187,7 +25188,6 @@ amirate
 autoblast
 axonometric
 asprete
-ascupart
 adviceful
 abusiveness
 axonophora
