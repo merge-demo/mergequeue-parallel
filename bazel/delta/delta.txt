@@ -6444,7 +6444,6 @@ deruinate
 derust
 decameronic
 dervishism
-des
 dispensative
 desensitized
 drudgeries
@@ -9460,6 +9459,7 @@ diffusions
 diffusive
 diffusors
 diabolus
+des
 diner
 diether
 disenroll
