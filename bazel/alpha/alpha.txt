@@ -4057,6 +4057,7 @@ arachnomorphae
 adempted
 applausive
 azygobranchiata
+angiocarpous
 abomasal
 admixt
 admixtion
@@ -12727,7 +12728,6 @@ angiocardiographies
 anileness
 aulophyte
 angiocarpic
-angiocarpous
 aubergine
 angiocholecystitis
 angiodermatitis
