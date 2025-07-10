@@ -13523,7 +13523,6 @@ adaptability
 albuminization
 annotator
 auxiliar
-annotators
 arrendator
 assonant
 allusory
@@ -19450,6 +19449,7 @@ arglebargle
 arglebargled
 arglebargling
 argled
+annotators
 apoaconitine
 antimedication
 arith
