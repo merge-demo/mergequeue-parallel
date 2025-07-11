@@ -6401,7 +6401,6 @@ benzobis
 bromacetate
 busynesses
 backsliding
-benzocaine
 buts
 bardo
 bacteriostasis
@@ -18314,6 +18313,7 @@ bowlegs
 buttony
 bluenosed
 brink
+benzocaine
 buttoning
 bridgebuilding
 banked
