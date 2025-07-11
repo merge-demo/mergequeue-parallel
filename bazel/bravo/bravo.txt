@@ -9729,7 +9729,6 @@ bullbats
 balding
 bombylious
 begobs
-barleduc
 bacillus
 botticellian
 brichette
@@ -15282,6 +15281,7 @@ bordarius
 bursa
 batrachidae
 bridgetin
+barleduc
 brailled
 bondmaid
 benzidine
