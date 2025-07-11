@@ -3421,7 +3421,6 @@ deliberandum
 deuteroalbumose
 deerlet
 dasyuroid
-doddy
 dyscratic
 deflore
 dubash
@@ -3601,6 +3600,7 @@ declaredness
 dripping
 dextrogyre
 dinosauric
+doddy
 dinornithiformes
 degenerate
 desulphurizer
