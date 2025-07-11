@@ -4439,6 +4439,7 @@ adrenomedullary
 antisplasher
 agamobia
 assaut
+ambient
 advective
 advects
 advena
@@ -9215,7 +9216,6 @@ almud
 amides
 almude
 advocaat
-ambient
 arriviste
 aphodius
 antiknock
