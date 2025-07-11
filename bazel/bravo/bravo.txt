@@ -467,7 +467,6 @@ bronzers
 blaspheming
 bibliographic
 benzhydroxamic
-brontosauri
 backspaced
 backspacefile
 backspacer
@@ -12208,6 +12207,7 @@ bolloxes
 bolls
 bunkum
 bollworm
+brontosauri
 blizzardly
 bolo
 bicron
