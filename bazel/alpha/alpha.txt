@@ -11068,7 +11068,6 @@ ampelidae
 archespore
 anoxia
 alaskan
-authoring
 ampelography
 apter
 ampelographist
@@ -19509,6 +19508,7 @@ argumenta
 argumental
 autecious
 anesthesiant
+authoring
 asynchronous
 aramayoite
 accede
