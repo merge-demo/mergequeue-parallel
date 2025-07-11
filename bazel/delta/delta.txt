@@ -3275,6 +3275,7 @@ defibrinate
 dropax
 defier
 defiers
+diagonic
 drogues
 disguisal
 deracinated
@@ -8298,7 +8299,6 @@ denudate
 dicatalexis
 demonization
 diagonial
-diagonic
 drum
 diagram
 drahthaar

@@ -8572,7 +8572,6 @@ chimbley
 corslet
 chanca
 chance
-chanceably
 clow
 chemosterilants
 chanced
@@ -18275,6 +18274,7 @@ continuant
 coffeetime
 coffer
 corridor
+chanceably
 cofferdam
 claudetite
 chaetophorales
