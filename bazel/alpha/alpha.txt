@@ -2553,7 +2553,6 @@ allylene
 alumins
 aljamiah
 arctomys
-acoumetry
 adjection
 acouometer
 adjacently
@@ -25033,6 +25032,7 @@ awninged
 akala
 awnings
 awnless
+acoumetry
 assassinated
 ablepsia
 allodium
