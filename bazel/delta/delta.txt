@@ -3354,6 +3354,7 @@ doles
 dagos
 deturn
 defis
+dozinesses
 deflagrable
 dialling
 decolor
@@ -3711,7 +3712,6 @@ dehair
 denudates
 desuetude
 defiantly
-dozinesses
 dehydrate
 dehydrates
 dehydrator
