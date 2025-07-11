@@ -14416,7 +14416,6 @@ applyment
 ackey
 accensor
 always
-antiuating
 anthrophore
 anthropical
 acquisition
@@ -23764,6 +23763,7 @@ austrianize
 acoustic
 aldermanry
 austrians
+antiuating
 annite
 austric
 austrine
