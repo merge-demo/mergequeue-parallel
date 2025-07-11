@@ -6167,6 +6167,7 @@ adjutantship
 aegerian
 aerolitics
 arteriorrhagia
+andesyte
 agonic
 agonise
 axillas
@@ -13970,7 +13971,6 @@ advancer
 astrologian
 achronychous
 antebaptismal
-andesyte
 albigenses
 acculturational
 adjustation
