@@ -13726,7 +13726,6 @@ disturbation
 discoids
 defends
 doorplate
-divalent
 dejecta
 demulsion
 dissociations
@@ -18541,6 +18540,7 @@ durity
 diphthonged
 dekalitre
 durmast
+divalent
 dirging
 durndest
 deraignment
