@@ -188,7 +188,6 @@ daedaloid
 diel
 diaplasma
 dozen
-daedalous
 divulgated
 defilable
 decontamination
@@ -15261,6 +15260,7 @@ dolichosauri
 dameworts
 dracaenaceae
 dolichosauria
+daedalous
 dolichuric
 duplexer
 doliidae
