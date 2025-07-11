@@ -7197,7 +7197,6 @@ bestamp
 bestand
 bestatued
 burrito
-brogues
 bacteriocyte
 bijous
 besteads
@@ -10565,6 +10564,7 @@ biomicroscopy
 bivinyls
 bermudians
 bezoardic
+brogues
 bespeech
 blatherskites
 baptisteries
