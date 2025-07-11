@@ -4272,6 +4272,7 @@ dismaler
 deltalike
 diluvial
 disacknowledge
+detruncation
 deltas
 digitals
 dukeling
@@ -7467,7 +7468,6 @@ dubhgall
 distalia
 detruding
 disulphid
-detruncation
 damneder
 dodgery
 detrusion
