@@ -3828,6 +3828,7 @@ carbolics
 centricity
 carbolising
 carbolize
+chaldean
 carbolized
 carbolizes
 carbolizing
@@ -8317,7 +8318,6 @@ coween
 cronyism
 canadianisms
 chalcus
-chaldean
 chiver
 caucused
 caricetum
