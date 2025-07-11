@@ -14004,7 +14004,6 @@ distorters
 distress
 dystonias
 dismount
-distorting
 dactylioglyphy
 diffusionism
 decasualising
@@ -17850,6 +17849,7 @@ dyophysitical
 devoutless
 denervate
 dabb
+distorting
 dudgen
 duole
 desubstantialize
