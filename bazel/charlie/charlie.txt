@@ -1696,6 +1696,7 @@ calotype
 cyclodiolefine
 calotypic
 calotypist
+chytrid
 crossbolt
 congratulated
 calotte
@@ -2953,7 +2954,6 @@ curling
 cantharic
 cantharidae
 cake
-chytrid
 cantharidate
 cantharides
 coation
