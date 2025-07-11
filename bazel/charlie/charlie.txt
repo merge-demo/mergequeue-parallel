@@ -323,7 +323,6 @@ cloddiest
 cacochymical
 cacochroia
 cyanometries
-clinorhombic
 cerebralization
 cacodaemoniac
 cacodaemonial
@@ -21611,6 +21610,7 @@ corbeled
 crateris
 condense
 condensed
+clinorhombic
 condensedness
 condensers
 condenses
