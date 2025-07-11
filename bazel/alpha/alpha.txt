@@ -583,7 +583,6 @@ ampleness
 abnormalcies
 adjure
 abnormalising
-abnormalize
 abnormalized
 anatomical
 abnormous
@@ -14894,6 +14893,7 @@ axised
 alkenes
 anticlockwise
 asphaltum
+abnormalize
 anticlogging
 averroism
 anticoagulant
