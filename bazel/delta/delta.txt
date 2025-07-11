@@ -7029,7 +7029,6 @@ despond
 deface
 despondence
 despondencies
-dar
 despondentness
 desponder
 despondingly
@@ -7429,6 +7428,7 @@ docetism
 destructibility
 detractions
 detrainment
+dar
 detraque
 deathsmen
 detrect
