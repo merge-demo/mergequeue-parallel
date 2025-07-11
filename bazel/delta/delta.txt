@@ -10122,6 +10122,7 @@ dogfight
 dilatable
 dynamomorphic
 dislustring
+disembodiment
 dynamophone
 decentralised
 dynamos
@@ -11965,7 +11966,6 @@ disembitter
 disembocation
 domicils
 diesels
-disembodiment
 disembodiments
 disembogued
 diarian
