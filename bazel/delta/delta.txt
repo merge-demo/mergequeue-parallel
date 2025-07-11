@@ -2550,7 +2550,6 @@ declensionally
 declensions
 decretist
 declimatize
-driblets
 declinational
 decasualization
 dipneumones
@@ -5838,6 +5837,7 @@ deposito
 depositor
 daytime
 deleatur
+driblets
 dichronous
 dysraphia
 dujan
