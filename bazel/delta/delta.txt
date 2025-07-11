@@ -11257,7 +11257,6 @@ dysbulic
 duodecimo
 damnatory
 dunnaging
-disburdenment
 disgage
 donnybrooks
 disbury
@@ -12880,6 +12879,7 @@ dyebeck
 demerited
 daren
 dismissal
+disburdenment
 dismissals
 dismissed
 distemperate
