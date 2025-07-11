@@ -21782,6 +21782,7 @@ couleur
 conductive
 conductometer
 clerkish
+cervelats
 corrosional
 cremaillere
 cheatable
@@ -25258,7 +25259,6 @@ corker
 corkers
 corkier
 chytridiaceous
-cervelats
 ciliola
 crome
 corklike
