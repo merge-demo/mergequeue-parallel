@@ -1674,6 +1674,7 @@ burton
 butyrinase
 boko
 betokens
+bacillogenic
 balmonies
 bloodroot
 balmoral
@@ -10328,7 +10329,6 @@ balsamea
 byrlakin
 batfowling
 beauism
-bacillogenic
 blahs
 balatas
 bulbophyllum
