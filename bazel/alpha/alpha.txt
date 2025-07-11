@@ -319,7 +319,6 @@ antiminsia
 abed
 anthophyte
 anguis
-avar
 appeals
 agnomical
 armomancy
@@ -10195,6 +10194,7 @@ antiscripturism
 archive
 autogauge
 agathokakological
+avar
 ambuscado
 ambuscadoed
 ambushers
