@@ -2801,7 +2801,6 @@ decrescent
 deknight
 dichotomising
 decretalist
-dogey
 despumating
 desalinization
 deedbote
@@ -6224,6 +6223,7 @@ demising
 daredevil
 ditted
 decemvir
+dogey
 derivativeness
 dacoit
 derivedness
