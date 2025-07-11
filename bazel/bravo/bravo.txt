@@ -558,6 +558,7 @@ biggishness
 batrachium
 bunt
 baccharis
+bescorn
 brith
 bandboxical
 bib
@@ -1312,7 +1313,6 @@ bate
 binational
 balanorrhagia
 balanta
-bescorn
 bottine
 balantidic
 bearlike
