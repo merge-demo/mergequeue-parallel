@@ -2550,7 +2550,6 @@ declensionally
 declensions
 decretist
 declimatize
-driblets
 declinational
 decasualization
 dipneumones
@@ -16619,6 +16618,7 @@ dragonflies
 dossers
 deprecated
 didelphian
+driblets
 dragonhood
 downily
 deveins

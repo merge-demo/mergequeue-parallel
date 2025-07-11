@@ -5076,7 +5076,6 @@ cerianthus
 casate
 closemouthed
 casava
-cuber
 cellepora
 canaliform
 crowsteps
@@ -23320,6 +23319,7 @@ consumpted
 corrasive
 consumptional
 consumptions
+cuber
 consumptive
 consumptively
 coordinates
