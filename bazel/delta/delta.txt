@@ -2508,7 +2508,6 @@ declivitously
 declarations
 declarative
 deligation
-demieagle
 discomorula
 druith
 dorothea
@@ -9057,6 +9056,7 @@ distortive
 debel
 dicots
 dicoumarin
+demieagle
 disembed
 defailment
 depravate
