@@ -13978,7 +13978,6 @@ cynomolgus
 cynomoriaceae
 cytosome
 comptible
-cynomorium
 cynomorphic
 caber
 chloroanemia
@@ -17643,6 +17642,7 @@ coccolite
 counterresolution
 calabashes
 cardiodysneuria
+cynomorium
 cavilingness
 columelliform
 catamite
