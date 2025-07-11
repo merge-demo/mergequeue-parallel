@@ -3756,7 +3756,6 @@ adiated
 anaboly
 adiathermal
 adiathermancy
-antioxidase
 alcoranist
 alure
 arcticologist
@@ -5260,6 +5259,7 @@ affixal
 affixation
 affixed
 andantinos
+antioxidase
 androsin
 affixers
 affixes
