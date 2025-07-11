@@ -5097,7 +5097,6 @@ blazoning
 befittingness
 boundedness
 breek
-beflag
 barkevikite
 bamboo
 binits
@@ -9564,6 +9563,7 @@ bonapartean
 bothridium
 burucha
 boeotia
+beflag
 bogue
 bluejack
 battlements
