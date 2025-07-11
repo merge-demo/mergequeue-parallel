@@ -5034,6 +5034,7 @@ aerotropism
 allantois
 aeruginous
 aerugo
+ariadne
 aerugos
 aes
 amparo
@@ -22287,7 +22288,6 @@ archae
 antiauthoritarianism
 astrogeology
 astrogeologist
-ariadne
 anniversaries
 astroglia
 actify
