@@ -7272,7 +7272,6 @@ catechist
 centrodesmus
 centrodorsal
 centroids
-cyanophilous
 conte
 centromere
 centromeric
@@ -18755,6 +18754,7 @@ clinching
 communist
 choleokinase
 colas
+cyanophilous
 cucurbital
 colascioni
 colate
