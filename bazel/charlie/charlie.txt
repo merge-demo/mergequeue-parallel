@@ -21928,7 +21928,6 @@ crystallogy
 confessingly
 confessional
 confessionalism
-confessionally
 chirographary
 confessor
 confessorship
@@ -27007,6 +27006,7 @@ contestable
 chronical
 counterpoison
 cara
+confessionally
 cunctatorship
 counterposition
 counterposting
