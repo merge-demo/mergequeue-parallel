@@ -641,7 +641,6 @@ bacteriophages
 bacteriophagy
 bacteriopsonin
 butting
-bendable
 barfing
 bellwethers
 butchering
@@ -2291,6 +2290,7 @@ bicarbonates
 besoothed
 beearn
 barbequed
+bendable
 barber
 bordrag
 blype
