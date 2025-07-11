@@ -8130,7 +8130,6 @@ bioherms
 binocularity
 bourbon
 bug
-blasphemer
 beslubber
 beltmaker
 besieging
@@ -16380,6 +16379,7 @@ brunistic
 burniebee
 baaskap
 brunnichia
+blasphemer
 barred
 bushed
 blastocheme
