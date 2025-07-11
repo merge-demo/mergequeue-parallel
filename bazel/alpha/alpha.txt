@@ -18118,7 +18118,6 @@ adelomorphous
 aquascope
 alltud
 aquate
-arithmetician
 aquatic
 anaptomorphus
 aquatics
@@ -24711,6 +24710,7 @@ anahita
 aviarist
 anteceding
 absinths
+arithmetician
 ashamedly
 accosted
 adyta
