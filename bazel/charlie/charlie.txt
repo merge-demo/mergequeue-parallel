@@ -5061,6 +5061,7 @@ carvoepra
 carwash
 clamatorial
 carwashes
+codo
 chider
 carzey
 casablanca
@@ -5806,7 +5807,6 @@ cutthroats
 concourses
 catechumens
 catechumenship
-codo
 catechutannic
 conquest
 coumarate
