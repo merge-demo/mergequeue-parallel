@@ -3149,7 +3149,6 @@ capelan
 capelans
 capelin
 cornette
-capeline
 chondrocele
 crocked
 capelins
@@ -11609,6 +11608,7 @@ cholecystis
 complimenting
 cholecystitis
 cozies
+capeline
 christophany
 cholecystnephrostomy
 cupellation
