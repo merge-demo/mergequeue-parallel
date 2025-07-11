@@ -871,7 +871,6 @@ beamsmen
 baggie
 bountifulness
 baggier
-baggings
 businesslike
 battlegrounds
 blackheads
@@ -6263,6 +6262,7 @@ beakful
 benne
 bennes
 beveling
+baggings
 bungalow
 bennets
 bootlace
