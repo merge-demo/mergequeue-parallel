@@ -11601,6 +11601,7 @@ board
 boarded
 besmudged
 blastoffs
+bruchidae
 boardinghouse
 boardings
 boardsmanship
@@ -13004,7 +13005,6 @@ balanid
 boracite
 boracous
 borage
-bruchidae
 bueno
 barbecued
 bombarde
