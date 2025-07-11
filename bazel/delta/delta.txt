@@ -9053,7 +9053,6 @@ drowsiness
 disowns
 decerebrated
 dicotyls
-distortive
 debel
 dicots
 dicoumarin
@@ -11883,6 +11882,7 @@ disdained
 disdainer
 deterrable
 dihelium
+distortive
 diallagoid
 disdainfulness
 delations
