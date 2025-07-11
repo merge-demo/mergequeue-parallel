@@ -11120,6 +11120,7 @@ captains
 coccobacillus
 cardiologies
 collembolic
+cimbric
 chytridiose
 chytridiosis
 chytroi
@@ -13633,7 +13634,6 @@ cymbopogon
 cote
 cimbrian
 cotsetle
-cimbric
 canalised
 clovene
 cyme

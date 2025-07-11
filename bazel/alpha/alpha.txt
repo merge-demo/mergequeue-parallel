@@ -924,7 +924,6 @@ apostrophi
 adversant
 absolutist
 absolutistically
-absolutize
 absolutory
 absolvatory
 absolve
@@ -17031,6 +17030,7 @@ antes
 apocrenic
 apocrine
 agatha
+absolutize
 apocryph
 apocryphalness
 actuates
