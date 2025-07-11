@@ -3012,6 +3012,7 @@ dermapteran
 deeper
 dealings
 dangleberries
+ditetragonal
 dies
 dismantling
 deepfreeze
@@ -18207,7 +18208,6 @@ didascalar
 downfallen
 depersonalize
 delights
-ditetragonal
 dentatocostate
 diamagnetometer
 disfellowship
