@@ -854,6 +854,7 @@ dowered
 disorchard
 dankishness
 discardable
+deaminize
 disprovement
 delesseria
 developability
@@ -1648,7 +1649,6 @@ daws
 daw
 dextraural
 deamination
-deaminize
 deaminized
 deammonation
 deashing
