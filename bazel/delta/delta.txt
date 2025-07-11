@@ -1872,6 +1872,7 @@ deboned
 debones
 defiantness
 dissipativity
+dirigibles
 deafening
 dobies
 disablement
@@ -10330,7 +10331,6 @@ dionysia
 dionysiac
 dionysiacally
 dionysus
-dirigibles
 diastrophy
 dionize
 dioon
