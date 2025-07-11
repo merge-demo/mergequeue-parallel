@@ -1982,7 +1982,6 @@ bespatters
 blet
 boobialla
 bangled
-bangles
 beleave
 bias
 bigeminate
@@ -17379,6 +17378,7 @@ bamboozler
 baetylic
 blencorn
 bungtown
+bangles
 blithered
 bungwall
 bacillemia
