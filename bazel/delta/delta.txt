@@ -5395,7 +5395,6 @@ deceptory
 dribbler
 decorative
 dentistical
-dentistry
 dentists
 dentition
 detribalizing
@@ -18368,6 +18367,7 @@ departmentalizes
 duodenocholecystostomy
 duodenocholedochotomy
 defossion
+dentistry
 depolishing
 diaphanoscope
 desecrating
