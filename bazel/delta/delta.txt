@@ -2785,7 +2785,6 @@ dop
 dorsalward
 disharmonize
 decremeter
-dicyemida
 demarches
 deftnesses
 duodecahedral
@@ -17434,6 +17433,7 @@ droseraceae
 droseraceous
 droplets
 dildo
+dicyemida
 deliquate
 disequilibrate
 drosometer
