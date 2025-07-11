@@ -21689,6 +21689,7 @@ coplotting
 conumerary
 claviculus
 conditionalist
+conservatorium
 cassytha
 cartoons
 campiness
@@ -22866,7 +22867,6 @@ conservatoires
 conservator
 conservatory
 conservatorial
-conservatorium
 crystograph
 conservators
 conservatorship
