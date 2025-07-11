@@ -7792,7 +7792,6 @@ baluchitheria
 biangulous
 biannually
 bhagavata
-biarchy
 biarcuate
 biarcuated
 biarticulate
@@ -9358,6 +9357,7 @@ blirt
 bonniness
 beau
 bluebush
+biarchy
 butter
 bottommost
 birded
