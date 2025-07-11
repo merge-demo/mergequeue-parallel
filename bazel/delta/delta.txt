@@ -13851,6 +13851,7 @@ distastefulness
 denom
 dialling
 displuviate
+dedicate
 dross
 displaces
 distater
@@ -17450,7 +17451,6 @@ drosser
 discalceate
 drawdown
 dagaba
-dedicate
 dilatorily
 disserts
 diazoimido
