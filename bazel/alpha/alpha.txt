@@ -17579,7 +17579,6 @@ acuesthesia
 appendorontgenography
 antheximeter
 appendotome
-activist
 astroid
 adjoining
 appentice
@@ -22133,6 +22132,7 @@ arius
 allocrotonic
 anticholinergic
 astomia
+activist
 astone
 amici
 allylamine
