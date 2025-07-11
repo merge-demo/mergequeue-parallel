@@ -1615,7 +1615,6 @@ calmed
 cylindraceous
 centrobaric
 crureus
-calmest
 calmier
 calmiest
 coeducationally
@@ -22811,6 +22810,7 @@ consented
 consenter
 curium
 consenters
+calmest
 consentience
 consentient
 cronstedtite
