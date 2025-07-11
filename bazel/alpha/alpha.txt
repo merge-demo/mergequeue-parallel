@@ -3566,7 +3566,6 @@ adenocarcinoma
 adenocarcinomas
 adenocarcinomata
 adenochondroma
-antipellagric
 adenochrome
 apts
 andric
@@ -10777,6 +10776,7 @@ amlikar
 amlong
 ammelide
 apothecary
+antipellagric
 ammer
 avidness
 adderbolt
