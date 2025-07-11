@@ -3423,7 +3423,6 @@ deerlet
 dasyuroid
 doddy
 dyscratic
-deflore
 dubash
 disgarland
 deceleron
@@ -8097,6 +8096,7 @@ dhooties
 distinctively
 dhootis
 diphenan
+deflore
 denaturant
 domesticated
 dysgenetic
