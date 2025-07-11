@@ -16994,7 +16994,6 @@ choledochoplasty
 consols
 cluricaune
 clusia
-clusiaceae
 clusiaceous
 chorio
 carbocer
@@ -26879,6 +26878,7 @@ counterinterest
 catheti
 copperproof
 cuprodescloizite
+clusiaceae
 counterinvestment
 counterirritation
 cystopyelonephritis
