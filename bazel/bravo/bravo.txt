@@ -2486,7 +2486,6 @@ billbugs
 bucchero
 bargaining
 beechwoods
-burian
 bhut
 bedark
 brachyoura
@@ -7195,6 +7194,7 @@ bestay
 burleys
 bestamp
 bestand
+burian
 bestatued
 burrito
 brogues
