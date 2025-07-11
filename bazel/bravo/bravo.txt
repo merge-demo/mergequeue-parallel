@@ -11130,7 +11130,6 @@ bullionist
 bloodcurdling
 bloodcurdlingly
 booboos
-bloodies
 bloodiness
 blooding
 balanic
@@ -15389,6 +15388,7 @@ brillante
 brilliance
 braata
 birefraction
+bloodies
 bereave
 bixa
 bono
