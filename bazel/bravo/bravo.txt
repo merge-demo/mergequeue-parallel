@@ -729,7 +729,6 @@ balada
 badgeringly
 boyish
 bizcacha
-brinjal
 badgerlike
 bending
 befoul
@@ -6079,6 +6078,7 @@ bol
 ballmine
 belswagger
 bemuzzling
+brinjal
 brainless
 ben
 biostatistics
