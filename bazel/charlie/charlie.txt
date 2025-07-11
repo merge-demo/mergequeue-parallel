@@ -4024,6 +4024,7 @@ carcinomatosis
 carpetweed
 cellophane
 cholers
+centrifugal
 cornhusk
 carcinomatous
 carcinomorphic
@@ -23776,7 +23777,6 @@ curlicued
 contrariwise
 contrarotation
 conjunctival
-centrifugal
 contrascriptural
 contrast
 cosec
