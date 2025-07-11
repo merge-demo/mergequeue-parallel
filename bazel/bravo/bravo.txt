@@ -4787,6 +4787,7 @@ bougee
 bedroll
 bedrooms
 bruckle
+bemadden
 bedrowse
 bandicoots
 bedrugged
@@ -6027,7 +6028,6 @@ bementite
 bemete
 bimillennia
 busybodies
-bemadden
 bemiring
 burrs
 bandlimited
