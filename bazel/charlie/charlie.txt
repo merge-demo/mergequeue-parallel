@@ -1498,7 +1498,6 @@ cedulas
 curraghs
 calligrapha
 chemurgy
-calligraphers
 calligraphy
 calligraphic
 chiba
@@ -10199,6 +10198,7 @@ cameography
 chewier
 captivity
 chmn
+calligraphers
 congealability
 chomping
 collectioner
