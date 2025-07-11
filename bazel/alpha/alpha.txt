@@ -14203,6 +14203,7 @@ acephal
 anterosuperior
 autocystoplasty
 aupaka
+averish
 antesignanus
 antesternal
 antesternum
@@ -18454,7 +18455,6 @@ anticorset
 arboral
 amphicondylous
 allotype
-averish
 arborary
 amias
 arborea

@@ -6804,7 +6804,6 @@ celidography
 chatteringly
 celiectomy
 choriphyllous
-celiemia
 celiocele
 celiocyesis
 coadministrator
@@ -31536,6 +31535,7 @@ cundite
 cursory
 cratered
 cuproid
+celiemia
 cursorily
 crystallizability
 cursoriness
