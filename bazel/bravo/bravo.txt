@@ -7949,6 +7949,7 @@ balsamum
 biblists
 butanone
 bowlders
+banc
 buoyed
 blockwood
 bushido
@@ -9138,7 +9139,6 @@ biostatic
 biostatical
 buffleheaded
 bletting
-banc
 beefburger
 bhaktas
 bubbybush
