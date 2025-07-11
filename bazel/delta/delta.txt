@@ -1420,7 +1420,6 @@ disoccident
 deprest
 disparagingly
 dispenditure
-dawnward
 dud
 drooliest
 dipropyl
@@ -9264,6 +9263,7 @@ debarkation
 dance
 duckstone
 disilluded
+dawnward
 discolour
 decorament
 divined
