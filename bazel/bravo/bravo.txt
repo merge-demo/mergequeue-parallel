@@ -7688,6 +7688,7 @@ bewared
 bobbed
 bezpopovets
 barged
+bhandari
 boatbuilder
 bountiousness
 bezzle
@@ -12915,7 +12916,6 @@ byssogenous
 bureaucratese
 boot
 big
-bhandari
 bootees
 battlemented
 blunging
