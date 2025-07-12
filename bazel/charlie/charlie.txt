@@ -2187,7 +2187,6 @@ cavesson
 cakey
 campylotropal
 campylotropous
-campimeter
 conches
 configuring
 camping
@@ -28601,6 +28600,7 @@ chammies
 creepmouse
 creeps
 creese
+campimeter
 creeses
 colleague
 cinchonine
