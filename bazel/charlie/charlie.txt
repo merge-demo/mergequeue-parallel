@@ -3021,7 +3021,6 @@ cantles
 cantlet
 cantline
 cantling
-canto
 confederatism
 cortege
 colander
@@ -7240,6 +7239,7 @@ centrifugence
 centrifuging
 coffeehousing
 centring
+canto
 centrings
 clivia
 cavaedia
