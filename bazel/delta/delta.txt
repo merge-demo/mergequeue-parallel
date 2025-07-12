@@ -7628,7 +7628,6 @@ drapping
 devata
 devaul
 deoxygenating
-degaussed
 deveined
 disbursements
 domicil
@@ -10245,6 +10244,7 @@ dinkeys
 despise
 dinkier
 dinkiest
+degaussed
 dinking
 dinkly
 defatting
