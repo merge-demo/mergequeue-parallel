@@ -2585,7 +2585,6 @@ bedevils
 barytocelestite
 barytone
 barytons
-busing
 bears
 brittlely
 barytophyllite
@@ -13760,6 +13759,7 @@ bufflehorn
 bovaristic
 burgout
 bovate
+busing
 besmirching
 bovinely
 bezil
