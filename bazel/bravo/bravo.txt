@@ -2080,7 +2080,6 @@ bcf
 baldest
 blesses
 bannerols
-bannisters
 birthmarks
 bioflavinoid
 bannock
@@ -12437,6 +12436,7 @@ bless
 bondar
 bockerel
 bastardly
+bannisters
 bonderize
 belabored
 bloodline
