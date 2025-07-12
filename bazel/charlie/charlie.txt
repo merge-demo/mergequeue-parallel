@@ -25123,7 +25123,6 @@ combinantive
 corers
 cores
 carbonates
-chlorospinel
 coresign
 coresonant
 convento
@@ -28585,6 +28584,7 @@ catoptrical
 cheliferous
 creel
 critics
+chlorospinel
 cactuses
 correllation
 creen
