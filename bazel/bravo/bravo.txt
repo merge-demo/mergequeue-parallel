@@ -2128,6 +2128,7 @@ burette
 banteng
 banter
 banterers
+bigram
 bloodlessness
 bantery
 boxfishes
@@ -2467,7 +2468,6 @@ baphomet
 bereason
 bibliophilism
 binotic
-bigram
 baresthesia
 bottom
 busies
