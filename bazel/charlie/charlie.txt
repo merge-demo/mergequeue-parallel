@@ -12550,7 +12550,6 @@ chromoptometer
 colourationally
 chromoptometrical
 coadjacency
-chromoscopy
 capacitances
 coobah
 chromosomally
@@ -20755,6 +20754,7 @@ complicacy
 ceramiaceae
 complicant
 coelomate
+chromoscopy
 camphanic
 complicate
 complicated
