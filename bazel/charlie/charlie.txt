@@ -22329,7 +22329,6 @@ circumnavigated
 congregations
 conciator
 congregative
-congreso
 congress
 coxarthropathy
 calcaria
@@ -31507,6 +31506,7 @@ clupeoids
 culiciform
 collectivization
 coservant
+congreso
 cursa
 curse
 cursedly
