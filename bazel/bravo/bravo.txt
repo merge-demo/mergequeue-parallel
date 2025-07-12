@@ -2214,7 +2214,6 @@ barbados
 blobs
 barbaloin
 badineur
-bung
 bandgap
 barbara
 barbary
@@ -4744,6 +4743,7 @@ bedouins
 bauckiebird
 bedown
 bradding
+bung
 brunts
 bedpans
 bries
