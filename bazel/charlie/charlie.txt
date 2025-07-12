@@ -13476,7 +13476,6 @@ cydonium
 cie
 cierge
 cierzo
-cierzos
 certificator
 courb
 cyesis
@@ -19405,6 +19404,7 @@ colorate
 coloration
 colorational
 colorative
+cierzos
 centrifugally
 condemnably
 cere
