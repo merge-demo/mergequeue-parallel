@@ -5427,6 +5427,7 @@ bigarreau
 behaved
 bronchium
 behaver
+balducta
 bicollateral
 behaving
 brainteasers
@@ -14622,7 +14623,6 @@ brasher
 brashiest
 babylonians
 brashiness
-balducta
 blepharoadenitis
 bookplates
 bluets
