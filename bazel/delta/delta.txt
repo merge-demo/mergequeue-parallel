@@ -1152,7 +1152,6 @@ dade
 detrited
 decrementing
 dasyuridae
-dasyurine
 dactylopatagium
 delineatory
 dassent
@@ -13746,6 +13745,7 @@ diatoms
 dracma
 doll
 dissolubleness
+dasyurine
 disproving
 dorhawks
 dissolutely
