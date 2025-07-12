@@ -7767,6 +7767,7 @@ ceroplastic
 ceroplastics
 cyanocrystallin
 cerosin
+cephid
 cerote
 chastises
 cabas
@@ -17894,7 +17895,6 @@ codifies
 cue
 codifying
 codilla
-cephid
 codille
 coding
 codirected
