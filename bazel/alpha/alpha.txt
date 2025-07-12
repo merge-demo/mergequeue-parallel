@@ -2267,7 +2267,6 @@ acetamid
 acidiferous
 argil
 adderfish
-alaric
 arthrozoic
 avoidably
 abruptedly
@@ -5302,6 +5301,7 @@ alkines
 affordable
 argoletier
 afforested
+alaric
 afforesting
 anticogitative
 afformative
