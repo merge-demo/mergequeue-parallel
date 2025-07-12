@@ -13787,6 +13787,7 @@ desultor
 dysspermatism
 ditrochous
 disspirit
+dotages
 disspread
 disstate
 dissuaded
@@ -15937,7 +15938,6 @@ desaminase
 downcried
 dewaxes
 daydream
-dotages
 doubleword
 dotal
 dotardism
