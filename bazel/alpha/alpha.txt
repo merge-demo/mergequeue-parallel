@@ -11741,6 +11741,7 @@ aerosporin
 aiawong
 analemma
 analemmas
+amphitropal
 aconitum
 analemmata
 analepses
@@ -13956,7 +13957,6 @@ aryepiglottic
 ablatively
 antarctically
 antarctogaea
-amphitropal
 antas
 antatrophic
 ante
