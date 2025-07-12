@@ -2641,7 +2641,6 @@ chaetetes
 conversationalist
 composes
 cobbers
-chimp
 canework
 chuckling
 compliably
@@ -29988,6 +29987,7 @@ cytinus
 crotaphitic
 crotaphytus
 crotch
+chimp
 citicism
 crotcheteer
 crotcheting
