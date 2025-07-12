@@ -10026,7 +10026,6 @@ chermish
 cocopans
 clanjamfray
 chernites
-chernomorish
 cooried
 chernozem
 cuprammonia
@@ -21126,6 +21125,7 @@ concatenates
 coequating
 concatenator
 concatervate
+chernomorish
 concause
 cyclist
 capitals
