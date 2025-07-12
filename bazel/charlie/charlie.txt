@@ -2060,6 +2060,7 @@ campa
 campagi
 coquettes
 counteraverment
+corregimiento
 campagna
 campagne
 conli
@@ -3280,7 +3281,6 @@ capitol
 clingier
 crayfishing
 capitolian
-corregimiento
 capitoline
 capitolium
 capitula
