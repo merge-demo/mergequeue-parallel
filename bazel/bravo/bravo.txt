@@ -2122,7 +2122,6 @@ bantayan
 buckshots
 bidstand
 bantam
-bantamize
 bismar
 burette
 banteng
@@ -10303,6 +10302,7 @@ bladderet
 bladdery
 bladderlike
 biblism
+bantamize
 bladderseed
 bladderwort
 blading
