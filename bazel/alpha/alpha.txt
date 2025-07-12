@@ -521,6 +521,7 @@ asperities
 ablastous
 ablated
 ablates
+afetal
 astroite
 adenomatous
 ablations
@@ -5133,7 +5134,6 @@ antireticular
 anticommunist
 afenil
 autochanger
-afetal
 affability
 apyrexia
 affable
