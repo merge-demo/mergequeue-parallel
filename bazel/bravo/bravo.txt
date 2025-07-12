@@ -7226,7 +7226,6 @@ bloomsbury
 bestiary
 backdating
 byelorussia
-bur
 boundable
 bestiarian
 bestiarist
@@ -15176,6 +15175,7 @@ brickbat
 buttonholed
 borish
 branchiosauria
+bur
 brickbatting
 brickcroft
 ballistocardiography
