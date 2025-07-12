@@ -3605,7 +3605,6 @@ dinornithiformes
 degenerate
 desulphurizer
 diagrammatize
-dicta
 diodont
 docosane
 dignification
@@ -15700,6 +15699,7 @@ didrachma
 defatted
 decollator
 doric
+dicta
 dopped
 detractiveness
 disaffect
