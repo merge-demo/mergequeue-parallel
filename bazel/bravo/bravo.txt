@@ -13163,6 +13163,7 @@ borreria
 blephariglottis
 batholith
 bandoliered
+becomes
 bonanzas
 borrowable
 barocyclonometer
@@ -13488,7 +13489,6 @@ bioxide
 bricken
 blennotorrhea
 bottomried
-becomes
 bookshelves
 bottstick
 botuliform
