@@ -10513,7 +10513,6 @@ deisticalness
 dozent
 dalar
 daglock
-diphthongize
 desulphuret
 diphthongizing
 daubentoniidae
@@ -16082,6 +16081,7 @@ dolichosaurus
 dimpliest
 doughbird
 dartoid
+diphthongize
 desperately
 disorderedly
 doughface
