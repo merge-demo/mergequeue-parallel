@@ -1671,6 +1671,7 @@ deadeners
 dottel
 dephysicalization
 decrementless
+diadoumenos
 dehumanisation
 debonnaire
 dismissive
@@ -8251,7 +8252,6 @@ diadochic
 diadochite
 dethroner
 diadochokinesia
-diadoumenos
 diaene
 drumbeat
 diaeretic
