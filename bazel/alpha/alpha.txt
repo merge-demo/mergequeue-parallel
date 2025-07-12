@@ -6251,7 +6251,6 @@ adjectively
 animative
 aggress
 aladinist
-agrarianly
 agrauleum
 agariciform
 agre
@@ -6500,6 +6499,7 @@ albahaca
 acrogynae
 antidomestic
 amphiphloic
+agrarianly
 ayacahuite
 arbutase
 athbash
