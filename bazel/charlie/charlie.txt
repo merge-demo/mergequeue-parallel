@@ -6748,7 +6748,6 @@ celeb
 capicha
 clition
 celebrant
-cohesions
 celebrants
 celebrate
 comiakin
@@ -18993,6 +18992,7 @@ ceste
 chickahominy
 catouse
 collator
+cohesions
 chorotega
 couldna
 clumped
