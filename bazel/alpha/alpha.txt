@@ -20176,7 +20176,6 @@ arrearage
 arrearages
 amoles
 alphabetise
-arrears
 arrendation
 argentometric
 arrenotoky
@@ -21486,6 +21485,7 @@ aspy
 aspics
 aspidiaria
 aspidinol
+arrears
 aladdinize
 aspidiske
 autotypies
