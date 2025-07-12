@@ -13402,7 +13402,6 @@ bialys
 blanche
 brushing
 bedeswoman
-bartisans
 bulgier
 birles
 botryllus
@@ -16140,6 +16139,7 @@ brimstony
 bristletail
 bayonetted
 brothels
+bartisans
 brazilians
 breweries
 bibliomanianism
