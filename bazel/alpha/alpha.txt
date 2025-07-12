@@ -175,6 +175,7 @@ abbadide
 acolapissa
 anakes
 abbasi
+anemochore
 abbasside
 abbate
 advertizable
@@ -12462,7 +12463,6 @@ arccosine
 adipogenic
 anemobiagraph
 anemochord
-anemochore
 anemochorous
 appropriated
 aimlessness
