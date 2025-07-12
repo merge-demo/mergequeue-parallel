@@ -1874,6 +1874,7 @@ defiantness
 dissipativity
 deafening
 dobies
+degreeless
 disablement
 deborah
 daktylos
@@ -18625,7 +18626,6 @@ dutchmen
 debagging
 dagbane
 dedicatorial
-degreeless
 duty
 dutiability
 disdains
