@@ -11499,6 +11499,7 @@ chogset
 cussed
 choy
 choiceful
+cricetus
 cantatrici
 choicelessness
 consumers
@@ -28953,7 +28954,6 @@ curtseyed
 crancelin
 crimmy
 cricetids
-cricetus
 cricked
 crickey
 cricket
