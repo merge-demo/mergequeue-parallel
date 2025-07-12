@@ -18121,7 +18121,6 @@ aquate
 arithmetician
 aquatic
 anaptomorphus
-aquatics
 aquatile
 atamans
 arhats
@@ -19839,6 +19838,7 @@ allotropes
 adpao
 acapsular
 adeptest
+aquatics
 acquereur
 armida
 armied
