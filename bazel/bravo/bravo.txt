@@ -11455,7 +11455,6 @@ bluestockings
 bolthead
 bluetit
 bluffly
-bullhoof
 bejade
 bulbul
 bluetongue
@@ -13288,6 +13287,7 @@ bandlessness
 bota
 botany
 bilboquet
+bullhoof
 brominated
 birdmen
 blennies
