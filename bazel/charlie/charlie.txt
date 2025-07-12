@@ -2455,6 +2455,7 @@ capelline
 cancrine
 cicatrix
 carpers
+cydonian
 cirrostome
 coffeeberry
 cancrinite
@@ -13470,7 +13471,6 @@ chlorinates
 counterturn
 cydippe
 cofeatures
-cydonian
 confederator
 cydonium
 cie

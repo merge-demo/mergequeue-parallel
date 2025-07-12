@@ -8692,7 +8692,6 @@ bimanous
 bradsot
 bodysurf
 bournless
-bimanually
 breechloading
 basaltes
 barbadoes
@@ -9244,6 +9243,7 @@ bipinnatipartite
 butyrals
 bow
 bipinnatisect
+bimanually
 bobsledding
 brighter
 bipyramid
