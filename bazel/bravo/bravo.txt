@@ -4903,6 +4903,7 @@ battled
 beefalo
 beefaloes
 basketweaving
+bedwards
 bloodedness
 beefalos
 birefringence
@@ -7105,7 +7106,6 @@ bespeaks
 bespecked
 boffola
 backrun
-bedwards
 bumaree
 boehmeria
 blastocyte
