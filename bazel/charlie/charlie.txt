@@ -24933,6 +24933,7 @@ combfishes
 corantoes
 chumpivilca
 centesimi
+chart
 chan
 crowbill
 capitaling
@@ -27983,7 +27984,6 @@ craggily
 craglike
 crags
 carthusian
-chart
 cessions
 celtic
 cragwork
