@@ -15633,6 +15633,7 @@ approvableness
 afrite
 alcedininae
 albify
+altitonant
 antioptionist
 antiorthodoxy
 agile
@@ -20688,7 +20689,6 @@ antarchy
 augmenting
 acquitment
 artifactitious
-altitonant
 artifacts
 artifactually
 artifex
