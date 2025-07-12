@@ -8153,7 +8153,6 @@ dalk
 disambiguate
 disventure
 delineate
-domesticized
 dragginess
 diacatholicon
 diacaustic
@@ -18615,6 +18614,7 @@ decentring
 decimalising
 dustups
 digitus
+domesticized
 debugger
 dusun
 dollarwise
