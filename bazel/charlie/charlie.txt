@@ -5172,7 +5172,6 @@ caseum
 caseweed
 cordis
 caseworks
-caseworm
 casha
 cashableness
 cashaws
@@ -21091,6 +21090,7 @@ conal
 castorin
 civilize
 couchette
+caseworm
 consociated
 conalbumin
 conamarin
