@@ -2694,6 +2694,7 @@ canis
 canistel
 crevice
 canjac
+choirs
 cank
 circumnavigations
 chokestrap
@@ -18104,7 +18105,6 @@ coenobe
 chaffered
 coenoby
 concludency
-choirs
 coenobiar
 catostomoid
 cissoid
