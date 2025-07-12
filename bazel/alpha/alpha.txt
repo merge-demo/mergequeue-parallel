@@ -2588,7 +2588,6 @@ arriswise
 acquiesce
 addiction
 acquiesced
-acanthopterous
 alginates
 acquiescement
 acquiescence
@@ -5403,6 +5402,7 @@ afrikanderdom
 afrit
 adeliza
 armary
+acanthopterous
 adored
 aulic
 agaces
