@@ -5429,7 +5429,6 @@ bronchium
 behaver
 bicollateral
 behaving
-brainteasers
 brakes
 bathylimnetic
 bars
@@ -12699,6 +12698,7 @@ bulbine
 burlecue
 bieennia
 boogum
+brainteasers
 bourd
 bolshevism
 blunderheaded
