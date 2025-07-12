@@ -1724,6 +1724,7 @@ broon
 byline
 boutonniere
 belorussian
+bludging
 baronial
 baloskion
 bulbels
@@ -4423,7 +4424,6 @@ boojum
 beclog
 becoiffed
 bulkiness
-bludging
 beclogs
 bretonian
 bilabials
