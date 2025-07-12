@@ -14129,6 +14129,7 @@ chloritoid
 cleruchial
 circassic
 capivi
+conns
 corpuscle
 circe
 circean
@@ -23910,7 +23911,6 @@ choirwise
 contusioned
 contusions
 contusive
-conns
 cicadellidae
 chaffing
 clysmic
