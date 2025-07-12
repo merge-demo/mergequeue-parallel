@@ -14095,6 +14095,7 @@ berlinite
 burkites
 behaviour
 brachiolaria
+brechans
 bogusness
 brachiopoda
 baldy
@@ -14955,7 +14956,6 @@ brecciated
 brecham
 bursar
 brechams
-brechans
 breakfaster
 bullfeast
 blepharorrhaphy
