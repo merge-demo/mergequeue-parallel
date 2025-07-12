@@ -7914,7 +7914,6 @@ alerce
 alerse
 agglutinates
 alerta
-anorak
 abstractionists
 alerters
 autotropically
@@ -22755,6 +22754,7 @@ avilaria
 airbrushes
 adjurers
 atocha
+anorak
 atoke
 assemblages
 alphenic
