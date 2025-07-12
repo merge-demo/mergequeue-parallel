@@ -19656,7 +19656,6 @@ aristides
 aristocracy
 abstainment
 aristocratic
-aristocraticalness
 alphyn
 aggregates
 aristocraticism
@@ -23924,6 +23923,7 @@ anthropoidea
 antitypy
 autobiology
 autoboat
+aristocraticalness
 archipelagos
 autoboating
 autobuses
