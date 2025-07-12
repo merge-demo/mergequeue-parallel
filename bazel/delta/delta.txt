@@ -2864,6 +2864,7 @@ disgenius
 deepest
 dys
 denticles
+desulphuret
 dictyopteris
 decumbent
 disfurnishment
@@ -10514,7 +10515,6 @@ dozent
 dalar
 daglock
 diphthongize
-desulphuret
 diphthongizing
 daubentoniidae
 didos
