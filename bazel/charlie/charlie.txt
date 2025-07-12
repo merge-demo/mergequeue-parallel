@@ -14526,7 +14526,6 @@ cirsophthalmia
 completable
 cirsotomy
 cirsotomies
-cirterion
 cyrtoceras
 chergui
 courantos
@@ -15965,6 +15964,7 @@ clepsine
 cleptobioses
 conics
 coadministration
+cirterion
 coryphylly
 cobelligerent
 cold
