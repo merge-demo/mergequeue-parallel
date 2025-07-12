@@ -3079,7 +3079,6 @@ accentuated
 ambling
 axonemal
 amsterdam
-atmosteon
 antimartyr
 alphonso
 agrionia
@@ -5145,6 +5144,7 @@ anaxonia
 aflicker
 authoritarianism
 affectations
+atmosteon
 affected
 adorners
 acidophil
