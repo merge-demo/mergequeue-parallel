@@ -11728,7 +11728,6 @@ dorms
 dockman
 discoverer
 decancellation
-dodoes
 discoverture
 deplume
 discradle
@@ -15692,6 +15691,7 @@ dopy
 demoniacal
 dopier
 dogstone
+dodoes
 desi
 docile
 dunce
