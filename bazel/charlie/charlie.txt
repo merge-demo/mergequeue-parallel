@@ -8740,7 +8740,6 @@ campagnols
 chantingly
 chantment
 carman
-commonest
 cheiloplasties
 chantry
 chanukah
@@ -30500,6 +30499,7 @@ cubane
 cubangle
 cubanite
 cubatory
+commonest
 contraclockwise
 conciliar
 counterweighed
