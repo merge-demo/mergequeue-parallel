@@ -190,7 +190,6 @@ diaplasma
 dozen
 daedalous
 divulgated
-defilable
 decontamination
 daemony
 deforesting
@@ -6269,6 +6268,7 @@ drupe
 dermatoconiosis
 dermatodynia
 demisability
+defilable
 distrainer
 dermatography
 dezincation
