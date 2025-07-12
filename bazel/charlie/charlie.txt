@@ -1292,7 +1292,6 @@ compulsatory
 calibers
 colunar
 calibrated
-calibrater
 calibrates
 cloison
 catchwater
@@ -29899,6 +29898,7 @@ crosshackle
 crosshair
 crosshand
 crosshatches
+calibrater
 cogwheel
 coadjutator
 crosshatching
