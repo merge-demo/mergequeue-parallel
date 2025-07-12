@@ -977,7 +977,6 @@ cervidae
 calamines
 cypseline
 confiscating
-calamining
 cadastre
 calamint
 cableway
@@ -13252,6 +13251,7 @@ cannonproof
 cyclic
 cyclical
 cyclizing
+calamining
 cyclically
 cyclicalness
 cyclide
