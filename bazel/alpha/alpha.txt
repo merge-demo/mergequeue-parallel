@@ -12006,7 +12006,6 @@ anaspides
 abducent
 alpenhorns
 autocratical
-abduced
 anastases
 admiral
 assentation
@@ -14907,6 +14906,7 @@ anticoagulin
 anticolic
 anticomment
 adiathermic
+abduced
 appetizers
 abneural
 anticommercialism
