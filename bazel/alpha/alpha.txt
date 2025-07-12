@@ -13248,7 +13248,6 @@ anonol
 anisodactyli
 anamnesis
 assailing
-asnort
 anisodactylic
 axilemma
 anisogamete
@@ -16756,6 +16755,7 @@ aphyric
 annunciators
 aphislion
 acinetina
+asnort
 aphlogistic
 archbancs
 amberina
