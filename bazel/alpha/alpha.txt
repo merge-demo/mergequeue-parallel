@@ -6032,6 +6032,7 @@ agitated
 agitation
 agitational
 azotite
+apometabolism
 agitations
 allorrhyhmia
 actor
@@ -14329,7 +14330,6 @@ acrostically
 anaphrodisia
 anthophilian
 anthophyllitic
-apometabolism
 attractancy
 anthophora
 ancyloceras
