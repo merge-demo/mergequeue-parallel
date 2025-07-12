@@ -6732,6 +6732,7 @@ airburst
 arresting
 autositic
 airbusses
+avowance
 aircraftman
 atenist
 aquas
@@ -23710,7 +23711,6 @@ auslaute
 auspex
 anisopodous
 acetifier
-avowance
 alto
 auspice
 authenticated
