@@ -14813,7 +14813,6 @@ antimachinery
 anticyclic
 arrondi
 alife
-anticyclical
 apocodeine
 anticyclogenesis
 anticyclolysis
@@ -14932,6 +14931,7 @@ anticonformity
 antiaristocracy
 arthropterous
 annulled
+anticyclical
 amidohexose
 antilogy
 avyayibhava
