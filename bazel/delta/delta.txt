@@ -9049,7 +9049,6 @@ disruption
 dicotylidae
 defrauding
 deinosaur
-drowsiness
 disowns
 decerebrated
 dicotyls
@@ -13398,6 +13397,7 @@ doolees
 diamido
 disquiparancy
 demo
+drowsiness
 disemprison
 dissentients
 delighted
