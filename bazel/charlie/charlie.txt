@@ -5291,7 +5291,6 @@ cassididae
 cotsetla
 cassidulina
 cassiduloid
-charterage
 cassiepeia
 cassimere
 caurus
@@ -10629,6 +10628,7 @@ chilogrammo
 cubic
 conservatoire
 corybantic
+charterage
 cosmopolis
 chilomastix
 chylomicron
