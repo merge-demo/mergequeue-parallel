@@ -9481,7 +9481,6 @@ dibatag
 doomfulness
 delaw
 demode
-doppelganger
 davidsonite
 dozener
 digeneous
@@ -17304,6 +17303,7 @@ demilion
 dermatophytosis
 delphinius
 distinguishably
+doppelganger
 drolling
 delighter
 drollishness
