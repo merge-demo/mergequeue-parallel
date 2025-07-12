@@ -4954,6 +4954,7 @@ beennut
 beent
 bimedial
 bonework
+baldrick
 beeped
 burgware
 bumblings
@@ -14823,7 +14824,6 @@ breadmaker
 breadman
 breadness
 brogueneer
-baldrick
 bungled
 breadnuts
 breadroot
