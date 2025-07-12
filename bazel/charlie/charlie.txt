@@ -18561,7 +18561,6 @@ chevrons
 cohune
 callianassa
 choloidic
-cohunes
 catnache
 corselet
 comparition
@@ -25231,6 +25230,7 @@ cladode
 coryphaei
 coryphaenoididae
 compearance
+cohunes
 confucians
 coryphee
 coryphene
