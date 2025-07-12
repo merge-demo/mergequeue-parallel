@@ -1355,7 +1355,6 @@ doyennes
 derry
 deworm
 dave
-davenport
 disna
 disableness
 dollars
@@ -6730,6 +6729,7 @@ desidiose
 designable
 dhutis
 dissolutions
+davenport
 designates
 dacron
 dimedone
