@@ -352,6 +352,7 @@ aerophone
 ask
 aberrance
 abdicate
+acutate
 anglians
 aberrancy
 anthraceniferous
@@ -19779,7 +19780,6 @@ amphicyonidae
 armagnacs
 autochthonous
 alteratively
-acutate
 armamentarium
 autoskeleton
 antigalactic

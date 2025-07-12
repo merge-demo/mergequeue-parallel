@@ -2487,7 +2487,6 @@ dishonourary
 declaim
 dichorisandra
 dresser
-declaimer
 dilaters
 declamatory
 decibar
@@ -15590,6 +15589,7 @@ donsky
 donum
 donzel
 discovering
+declaimer
 doubt
 divelled
 diathermize
