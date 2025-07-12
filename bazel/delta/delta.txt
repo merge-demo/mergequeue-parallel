@@ -4675,7 +4675,6 @@ demipectinate
 denarius
 diswench
 demiscible
-dicebox
 denticulate
 demise
 demisecond
@@ -5245,6 +5244,7 @@ desired
 dicty
 dine
 depolarisation
+dicebox
 deafer
 denotatively
 dampens
