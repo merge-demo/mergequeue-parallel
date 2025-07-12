@@ -9185,7 +9185,6 @@ almoign
 almon
 anga
 almonage
-almonds
 angina
 almonership
 almonry
@@ -23665,6 +23664,7 @@ anesis
 auroch
 aurochses
 answer
+almonds
 anthropogeography
 aurophore
 aurorally
