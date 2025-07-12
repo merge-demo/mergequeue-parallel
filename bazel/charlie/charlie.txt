@@ -10078,7 +10078,6 @@ composers
 cherubim
 cherubimic
 cherubimical
-cherublike
 crystalize
 calzone
 cherusci
@@ -27079,6 +27078,7 @@ counterriposte
 counterroll
 counterround
 counters
+cherublike
 crotchety
 compressedly
 causability
