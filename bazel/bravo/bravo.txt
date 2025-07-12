@@ -5063,6 +5063,7 @@ bewith
 befeather
 becoming
 beeswax
+blattidae
 bodger
 biloculine
 beferned
@@ -9969,7 +9970,6 @@ bryum
 balustraded
 besauce
 baresma
-blattidae
 brevirostral
 bivalency
 bawdy
