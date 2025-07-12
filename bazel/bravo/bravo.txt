@@ -582,7 +582,6 @@ bishopric
 breaths
 bistro
 baconianism
-baconism
 brutishly
 blessers
 birdie
@@ -15878,6 +15877,7 @@ beice
 bodysurfing
 broomball
 bansela
+baconism
 beshower
 bethumb
 barbaralalia
