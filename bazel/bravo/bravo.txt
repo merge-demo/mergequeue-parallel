@@ -868,7 +868,6 @@ baggara
 bawcock
 beseechingly
 beamsmen
-baggie
 bountifulness
 baggier
 baggings
@@ -16439,6 +16438,7 @@ brushpopper
 brashier
 brushwood
 brushwork
+baggie
 burdock
 beecher
 brusker
