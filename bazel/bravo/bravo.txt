@@ -3383,6 +3383,7 @@ busiest
 broider
 bewall
 bittor
+benedicks
 boehmenism
 berascaled
 bryophytic
@@ -6136,7 +6137,6 @@ bends
 bendwise
 begay
 balaneutics
-benedicks
 benedicta
 broughta
 butcherbroom
