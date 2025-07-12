@@ -16286,7 +16286,6 @@ celeriac
 clinohedrite
 crewcut
 cornerman
-compagination
 clinohumite
 childermas
 constringency
@@ -17098,6 +17097,7 @@ coachmen
 contestably
 cormoid
 chorobates
+compagination
 countertrench
 colpostat
 comptometer
