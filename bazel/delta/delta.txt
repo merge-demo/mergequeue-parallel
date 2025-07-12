@@ -1318,7 +1318,6 @@ didappers
 daunt
 daunted
 dhobies
-daunters
 daffy
 dipentine
 demissive
@@ -5974,6 +5973,7 @@ degrader
 departements
 dimethylnitrosamine
 deprivals
+daunters
 deceiver
 deprivement
 disconcerts
