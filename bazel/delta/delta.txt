@@ -2983,7 +2983,6 @@ deedier
 deonerate
 decillion
 deedily
-deediness
 diabolos
 deeding
 directorates
@@ -15806,6 +15805,7 @@ doomage
 deflorations
 dorsa
 dentiparous
+deediness
 dramatizer
 diallela
 dorsabdominal
