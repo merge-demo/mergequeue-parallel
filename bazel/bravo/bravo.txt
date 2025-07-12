@@ -14863,7 +14863,6 @@ buttercup
 belis
 bostonians
 breakoff
-byssolite
 breakout
 breakpoint
 breaks
@@ -15022,6 +15021,7 @@ breezier
 breezily
 bepuzzle
 bountifully
+byssolite
 breeziness
 bolling
 biseptate
