@@ -12757,6 +12757,7 @@ bookmarks
 bastardisation
 bhoots
 bookmobiles
+barographic
 baroni
 burlesk
 bookpress
@@ -13931,7 +13932,6 @@ bactritoid
 bowstrung
 behavior
 bowtell
-barographic
 backpointer
 byspell
 broadened
