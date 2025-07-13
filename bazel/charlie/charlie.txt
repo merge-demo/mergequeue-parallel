@@ -5535,6 +5535,7 @@ cyanamide
 counterattacks
 catacorner
 catacorolla
+chatelain
 ceaselessly
 catacoustics
 cwms
@@ -9284,7 +9285,6 @@ chondrogenous
 chateaugray
 chateaus
 chateaux
-chatelain
 cordmaker
 chatelaines
 chemotherapists
