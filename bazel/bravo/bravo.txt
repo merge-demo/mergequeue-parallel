@@ -4626,6 +4626,7 @@ bens
 barry
 boeing
 basigamy
+brachydactylic
 buxus
 bedevilling
 barbershops
@@ -12722,7 +12723,6 @@ bowet
 booker
 boatkeeper
 billion
-brachydactylic
 bailsmen
 brahminism
 bookfold

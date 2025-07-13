@@ -5012,7 +5012,6 @@ argas
 aerosteam
 antapex
 aerotaxis
-actinodrome
 agacant
 argo
 aerotechnical
@@ -20672,6 +20671,7 @@ articulations
 adenoblast
 articulative
 anteroventrally
+actinodrome
 amphisbaenic
 agrostographic
 alwise
