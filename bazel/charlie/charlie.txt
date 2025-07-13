@@ -25318,6 +25318,7 @@ corncrib
 centripetal
 corncribs
 corncrusher
+cabals
 ce
 coldbloodedness
 corncutter
@@ -29565,7 +29566,6 @@ criticship
 criticule
 critique
 cultivatable
-cabals
 chopine
 critiqued
 critize

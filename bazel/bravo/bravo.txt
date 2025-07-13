@@ -2739,7 +2739,6 @@ bombax
 boroughship
 barometers
 beefy
-blam
 beachside
 burthenman
 baronduki
@@ -5676,6 +5675,7 @@ brining
 belecture
 beledgered
 burbush
+blam
 brutedom
 biers
 belemnitic
