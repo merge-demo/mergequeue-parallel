@@ -17149,7 +17149,6 @@ carduus
 coadjutorship
 coadjutress
 coadjutrix
-coadjuvate
 crasser
 coadminister
 civic
@@ -21370,6 +21369,7 @@ conciliatoriness
 confidentiary
 concilium
 chavish
+coadjuvate
 cineasts
 concinnity
 concinnities
