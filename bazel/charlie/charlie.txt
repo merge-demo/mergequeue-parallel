@@ -2067,6 +2067,7 @@ campaign
 clotheshorses
 campaigners
 campaigns
+condylomas
 colostric
 campana
 campane
@@ -4034,7 +4035,6 @@ carcinosarcoma
 coloreds
 chloralide
 chinanta
-condylomas
 culpableness
 card
 cardaissin
