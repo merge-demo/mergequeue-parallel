@@ -2954,7 +2954,6 @@ cantharic
 cantharidae
 cake
 chytrid
-cantharidate
 cantharides
 coation
 cantharidian
@@ -3926,6 +3925,7 @@ chronoscopy
 carbuncular
 carbunculation
 carbungi
+cantharidate
 cometographical
 cardiograms
 ceratopsidae
