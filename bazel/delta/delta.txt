@@ -224,7 +224,6 @@ decemlocular
 dripless
 drukpa
 daftberry
-dusty
 denticate
 diarrhoea
 dojos
@@ -17865,6 +17864,7 @@ dev
 developmentalist
 diagnosis
 drabbletailed
+dusty
 duecentist
 derbies
 debutante
