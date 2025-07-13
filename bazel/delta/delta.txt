@@ -1951,7 +1951,6 @@ disyllabism
 deburr
 divulgatory
 debus
-decanally
 debused
 doohickey
 debusing
@@ -15409,6 +15408,7 @@ domett
 demicivilized
 deipara
 dorical
+decanally
 demoralisation
 domiciled
 dissipator
