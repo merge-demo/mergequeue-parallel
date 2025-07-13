@@ -2035,7 +2035,6 @@ acropathology
 amidoxy
 achafe
 achagua
-amoret
 apsychical
 apocope
 achalasia
@@ -8654,6 +8653,7 @@ antibishop
 agametes
 autistic
 anotropia
+amoret
 anastomosis
 autotheater
 amygdaloidal
