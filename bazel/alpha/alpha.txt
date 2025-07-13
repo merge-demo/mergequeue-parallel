@@ -22805,7 +22805,6 @@ alcali
 atones
 adnations
 argilloid
-anocarpous
 atony
 atonicity
 ageusia
@@ -22830,6 +22829,7 @@ atragene
 amphineura
 atrament
 atramentous
+anocarpous
 avowedness
 alloploidy
 atremata
