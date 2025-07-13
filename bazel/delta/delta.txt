@@ -10783,7 +10783,6 @@ database
 dipstick
 diazotize
 divinization
-dipteraceae
 dipterygian
 discontiguous
 dipteryx
@@ -15672,6 +15671,7 @@ doover
 doozers
 dowieism
 didascaliae
+dipteraceae
 diobely
 dracunculus
 devilishly
