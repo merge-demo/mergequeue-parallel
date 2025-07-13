@@ -12530,7 +12530,6 @@ chromophobic
 calamistrate
 clairvoyants
 chromophore
-chromophorous
 chromophotography
 chromophotographic
 cranky
@@ -14532,6 +14531,7 @@ chergui
 courantos
 cyrtometer
 calcavella
+chromophorous
 cyrtomium
 cyrtopia
 ciruela
