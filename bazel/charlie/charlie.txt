@@ -14310,7 +14310,6 @@ circumlitio
 circumlittoral
 circumlocute
 circumlocution
-cypripedin
 circumlocutionist
 centrisms
 circumlocutions
@@ -20035,6 +20034,7 @@ cinemelodrama
 cocorico
 commendation
 ciliograde
+cypripedin
 commendations
 charlotte
 capiturlary
