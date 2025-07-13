@@ -18025,7 +18025,6 @@ confutative
 cephalothecal
 coeloplanula
 chartreuse
-coelospermous
 cryptocephala
 corteise
 coelozoic
@@ -26098,6 +26097,7 @@ chiefdoms
 conspiratorial
 cosmism
 cosmisms
+coelospermous
 cosmist
 cotyledonous
 cadgy
