@@ -5670,7 +5670,6 @@ agapae
 aftertouch
 antimonarchist
 agamist
-antiegoistical
 agamogenetically
 agamogony
 agamoid
@@ -23241,6 +23240,7 @@ attunement
 attunes
 apteryges
 ablation
+antiegoistical
 atua
 atule
 abessive

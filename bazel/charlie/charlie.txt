@@ -10426,6 +10426,7 @@ carabinero
 chifferobe
 causalgia
 cosmocratic
+cloggy
 chiffony
 citizenries
 chiffonier
@@ -31829,7 +31830,6 @@ cutinise
 coliiformes
 cretic
 cutinised
-cloggy
 cammas
 campestrian
 cutinising
