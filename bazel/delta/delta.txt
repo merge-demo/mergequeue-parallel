@@ -13493,7 +13493,6 @@ disruly
 dehepatize
 dairymaid
 dippable
-diatomite
 disruptive
 decemvirate
 disruptor
@@ -14689,6 +14688,7 @@ drill
 djebels
 djehad
 deferens
+diatomite
 djellabah
 dampest
 djerib
