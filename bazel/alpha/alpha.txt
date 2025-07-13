@@ -11955,7 +11955,6 @@ anarchism
 aftergrind
 anarchist
 anarchists
-archeologically
 anarcho
 anarchosyndicalist
 antisophistry
@@ -15052,6 +15051,7 @@ algraphic
 antidogmatism
 aquarium
 antidogmatist
+archeologically
 alogian
 aciduria
 appast
