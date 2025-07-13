@@ -6541,7 +6541,6 @@ aids
 afterripening
 arbalestre
 antiheterolysin
-apocarpous
 aiel
 anoraks
 asplanchnic
@@ -6858,6 +6857,7 @@ attestive
 asphyctous
 academies
 addie
+apocarpous
 ambagiously
 archlexicographer
 axillant
