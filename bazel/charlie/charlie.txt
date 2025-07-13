@@ -13347,7 +13347,6 @@ cycloolefine
 cycloolefinic
 cyclop
 cyclopaedia
-civetlike
 cayleyan
 cyclopaedist
 coquito
@@ -17540,6 +17539,7 @@ cerion
 coemployed
 centavos
 cobwebby
+civetlike
 convicted
 coca
 cherup
