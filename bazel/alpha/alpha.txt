@@ -6469,6 +6469,7 @@ ahmedi
 ahoy
 amaranthoid
 aholds
+ant
 ahom
 ahorse
 ahriman
@@ -13880,7 +13881,6 @@ apophthegmatist
 amorously
 abstrusely
 abkhas
-ant
 ahong
 antheroid
 antae
