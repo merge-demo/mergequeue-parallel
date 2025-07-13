@@ -8317,6 +8317,7 @@ bowermaiden
 boche
 biotitic
 burundi
+browbeater
 benzenes
 biggen
 biggened
@@ -11835,7 +11836,6 @@ betrinket
 birthing
 bard
 briareus
-browbeater
 bootlegging
 banking
 bodybuilding
