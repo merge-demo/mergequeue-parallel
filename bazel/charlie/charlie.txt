@@ -8091,7 +8091,6 @@ chaetognatha
 cityscape
 chaetophobia
 crumples
-chaetophoraceous
 cuvierian
 chaetophorous
 chaetopod
@@ -26012,6 +26011,7 @@ cosegment
 cosey
 chimesmaster
 coseiest
+chaetophoraceous
 coadjutive
 catharine
 coseism
