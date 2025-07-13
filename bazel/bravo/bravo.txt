@@ -3625,6 +3625,7 @@ bipinnately
 batlon
 blackball
 budded
+bepinch
 bumbleberry
 betacism
 bakehouses
@@ -3688,7 +3689,6 @@ batteryman
 batterman
 bullockman
 bindlet
-bepinch
 baylike
 batty
 barny
