@@ -7932,7 +7932,6 @@ brambleberries
 billetty
 becudgeled
 bibliopolically
-bibliopolist
 befall
 bibliosoph
 bibliotaphe
@@ -13322,6 +13321,7 @@ botaurus
 blooie
 beeswings
 birdyback
+bibliopolist
 beetlestone
 badmen
 botched
