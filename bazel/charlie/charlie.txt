@@ -4349,7 +4349,6 @@ calpacked
 candier
 carica
 caricaceae
-caricaceous
 cotemporaneous
 carcinology
 cattleya
@@ -7809,6 +7808,7 @@ certiorate
 certis
 certitudes
 circularized
+caricaceous
 certosa
 certose
 certosina
