@@ -545,7 +545,6 @@ adore
 abler
 ataraxies
 amidophosphoric
-amyotrophia
 actualize
 ablude
 autonomous
@@ -18095,6 +18094,7 @@ aquaplaning
 aquaregia
 apoise
 aquarelle
+amyotrophia
 aquarial
 armoring
 adepter
