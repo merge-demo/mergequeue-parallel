@@ -7359,7 +7359,6 @@ balusters
 bewig
 bassness
 bookmaker
-bethorning
 buffcoat
 blanketmaking
 basest
@@ -14062,6 +14061,7 @@ bakehouse
 bicuspidate
 brachydactylism
 bebusy
+bethorning
 bottlebird
 brachydodromous
 boc
