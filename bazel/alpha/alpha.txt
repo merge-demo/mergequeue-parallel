@@ -5681,6 +5681,7 @@ appealers
 antiedemic
 antinaturalist
 augusta
+anchoveta
 aminoacetone
 aganice
 ambrosia
@@ -12195,7 +12196,6 @@ anchorman
 auriculae
 anchormen
 asthmatically
-anchoveta
 anchusa
 argumentatively
 amazonite
