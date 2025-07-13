@@ -2668,6 +2668,7 @@ decompresses
 detectaphone
 demiplacate
 decompressive
+drowse
 dogies
 duckies
 dcollet
@@ -7976,7 +7977,6 @@ desulphuration
 daphnes
 dedicature
 disincorporation
-drowse
 diagnosticated
 dorsibranch
 drawpoint
