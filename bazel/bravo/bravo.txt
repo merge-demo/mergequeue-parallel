@@ -1414,6 +1414,7 @@ battable
 balefires
 barmbrack
 balefully
+byerite
 branned
 baleys
 blanketed
@@ -17402,7 +17403,6 @@ begrudged
 belinurus
 bipersonal
 bytownite
-byerite
 bushbaby
 blindest
 bestriding
