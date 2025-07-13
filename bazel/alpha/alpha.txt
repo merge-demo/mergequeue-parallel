@@ -4371,6 +4371,7 @@ antifebrile
 accollee
 adulterine
 adulterize
+ammos
 antonella
 acastus
 antiprism
@@ -10875,7 +10876,6 @@ afrits
 ammonolyzing
 ammophilous
 athwarthawse
-ammos
 ammotherapy
 ammu
 antipepsin
