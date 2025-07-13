@@ -25393,7 +25393,6 @@ centrifuged
 coarsish
 crotcheted
 cornicles
-corniculer
 corniferous
 cornific
 centesimally
@@ -26287,6 +26286,7 @@ carmel
 cyclostomate
 cheung
 costochondral
+corniculer
 costogenic
 costoinferior
 clinandrium
