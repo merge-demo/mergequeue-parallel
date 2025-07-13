@@ -285,7 +285,6 @@ axiomatic
 affiant
 abnormals
 abdominoscopy
-agas
 admiratively
 abdominothoracic
 acquiescent
@@ -22330,6 +22329,7 @@ astriction
 astrologistic
 anagrammatise
 astrologize
+agas
 advancers
 astromancer
 astromantic
