@@ -986,7 +986,6 @@ archdeacon
 abstergent
 absterges
 antituberculin
-amphigastrula
 averages
 abstersiveness
 aggregable
@@ -16009,6 +16008,7 @@ antireligiously
 absolvable
 antiremonstrant
 archprince
+amphigastrula
 antipot
 anoa
 afflictions
