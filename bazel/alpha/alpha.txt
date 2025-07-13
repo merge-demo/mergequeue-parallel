@@ -3252,6 +3252,7 @@ arborise
 authorcraft
 aedine
 acutilingual
+aethalioid
 axal
 antinosarian
 abloom
@@ -16116,7 +16117,6 @@ amphitryon
 antisideric
 antisilverite
 antisymmetry
-aethalioid
 africanization
 allusion
 alloys
