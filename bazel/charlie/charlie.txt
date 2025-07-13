@@ -26690,6 +26690,7 @@ chende
 cloisters
 counterassociation
 cammock
+cruelness
 careering
 counterattack
 capellane
@@ -30218,7 +30219,6 @@ cruel
 crueller
 cruellest
 cruelly
-cruelness
 cruels
 communbus
 cruent
