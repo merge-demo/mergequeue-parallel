@@ -19076,7 +19076,6 @@ collets
 calycanthemy
 colletside
 combustibilities
-cresorcin
 colly
 collibert
 confineless
@@ -28168,6 +28167,7 @@ crankcases
 celebres
 colter
 crankdisk
+cresorcin
 cuckooed
 crosscutter
 cranked
