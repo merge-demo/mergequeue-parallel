@@ -13303,6 +13303,7 @@ crass
 cyclohexanone
 cyclohexatriene
 cyclohexyl
+cryochoric
 cycloheximide
 chetverik
 cataloguer
@@ -18216,7 +18217,6 @@ crisscross
 coevolution
 coimplicate
 calumniousness
-cryochoric
 coexecutor
 collectiveness
 coexerted
