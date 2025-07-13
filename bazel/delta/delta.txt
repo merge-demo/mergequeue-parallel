@@ -8243,7 +8243,6 @@ dados
 disspreading
 diadochy
 damasked
-dissectors
 dulcor
 diorism
 diadochian
@@ -12637,6 +12636,7 @@ discourage
 duntle
 daredevils
 drate
+dissectors
 delegant
 dertrotheca
 doomsman
