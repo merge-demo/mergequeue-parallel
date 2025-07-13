@@ -12203,7 +12203,6 @@ dichocarpism
 dribblement
 dysphonic
 disflesh
-disfoliage
 disrelate
 disfoliaged
 distich
@@ -17523,6 +17522,7 @@ druggery
 druggets
 dendroidea
 doorhawk
+disfoliage
 depredations
 drawability
 ditrocha
