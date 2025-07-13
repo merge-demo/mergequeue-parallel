@@ -14120,7 +14120,6 @@ achlamydate
 antepasts
 antepectus
 anthropopsychic
-agatine
 alopathic
 anaces
 airwomen
@@ -14942,6 +14941,7 @@ almain
 anticonservatism
 anticonservativeness
 auricularis
+agatine
 anadrom
 apagoges
 anticonstitution
