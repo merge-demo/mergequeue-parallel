@@ -21291,7 +21291,6 @@ concessit
 craniate
 concessiveness
 computerite
-concessor
 concessory
 concettism
 conch
@@ -23773,6 +23772,7 @@ cellae
 contrariousness
 cacesthesia
 curlicued
+concessor
 contrariwise
 contrarotation
 conjunctival
