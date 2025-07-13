@@ -19010,7 +19010,6 @@ constables
 collectibility
 collectible
 collection
-cinnamon
 collectivise
 collectivism
 collectivist
@@ -26991,6 +26990,7 @@ combretum
 cuprum
 clericalism
 counterplay
+cinnamon
 counterplayer
 counterplan
 carassow
