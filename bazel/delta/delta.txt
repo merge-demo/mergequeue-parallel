@@ -8990,6 +8990,7 @@ desirably
 dichotomize
 demographic
 demonstrably
+differingly
 dub
 despoticalness
 dail
@@ -14909,7 +14910,6 @@ dependencies
 deglute
 dodded
 dodder
-differingly
 dormancy
 drail
 dodderers
