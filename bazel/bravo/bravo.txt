@@ -12220,7 +12220,6 @@ beld
 bolognan
 bolognas
 bolognese
-balaenopteridae
 birdling
 blizzardy
 besmut
@@ -14628,6 +14627,7 @@ bookplates
 bluets
 brokery
 brasil
+balaenopteridae
 bronzing
 bloodthirstily
 blackballing
