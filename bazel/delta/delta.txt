@@ -7389,7 +7389,6 @@ demiadult
 detonating
 decenyl
 detonation
-digest
 disowned
 detonations
 dusking
@@ -10875,6 +10874,7 @@ desulfuriser
 dominicans
 dipppiest
 drogherman
+digest
 disyoke
 deindustrialize
 daekon
