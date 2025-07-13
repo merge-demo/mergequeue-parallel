@@ -4768,7 +4768,6 @@ bureaucratic
 bhalu
 burglarizes
 barque
-bibracteate
 billfold
 brainish
 barbarize
@@ -17944,6 +17943,7 @@ buffo
 bowwows
 belga
 bushwack
+bibracteate
 bonewood
 berserk
 bathybic
