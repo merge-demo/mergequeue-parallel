@@ -6501,7 +6501,6 @@ confiner
 cambodia
 cavelike
 cavemen
-cavernal
 cavernlike
 cavernoma
 cavernous
@@ -18711,6 +18710,7 @@ coislander
 clogs
 cleading
 coistril
+cavernal
 commutate
 coital
 conflictful

@@ -3523,7 +3523,6 @@ bicondylar
 baryons
 becudgel
 bimini
-bathycentesis
 benincasa
 burgages
 beuniformed
@@ -10206,6 +10205,7 @@ boastings
 blackgums
 brachia
 badawi
+bathycentesis
 brollies
 boars
 beaverlike
