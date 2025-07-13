@@ -12724,7 +12724,6 @@ boatkeeper
 billion
 brachydactylic
 bailsmen
-brahminism
 bookfold
 biometric
 bookhood
@@ -15677,6 +15676,7 @@ broadsides
 breakfront
 broadsiding
 broadspread
+brahminism
 broadsword
 bejig
 bamangwato
