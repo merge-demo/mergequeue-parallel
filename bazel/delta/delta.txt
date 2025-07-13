@@ -2799,6 +2799,7 @@ delphinus
 duodecahedron
 decrescent
 deknight
+demurrer
 dichotomising
 decretalist
 dogey
@@ -8231,7 +8232,6 @@ depart
 diaderm
 diadic
 disabusing
-demurrer
 decouples
 dyadics
 diadkokinesia
