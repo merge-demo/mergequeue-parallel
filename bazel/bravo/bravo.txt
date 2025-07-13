@@ -5686,6 +5686,7 @@ belayed
 bowssen
 bentstar
 boer
+blows
 barony
 biogeochemical
 bibliotaph
@@ -11306,7 +11307,6 @@ bananas
 blowoff
 blowouts
 blowproof
-blows
 bleachability
 barograms
 boneyard
