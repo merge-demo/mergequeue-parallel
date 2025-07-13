@@ -15348,7 +15348,6 @@ dolphinlike
 dolphins
 discountenance
 design
-distilleries
 dismit
 deafforestation
 dolphus
@@ -16384,6 +16383,7 @@ downtown
 debar
 downtrampling
 downtreading
+distilleries
 dicynodont
 disserviceable
 detray
