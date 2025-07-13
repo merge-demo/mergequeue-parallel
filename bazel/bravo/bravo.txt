@@ -6365,7 +6365,6 @@ bai
 bibs
 benzanthrone
 bifarious
-bipolarize
 ballbuster
 begalling
 begrace
@@ -12175,6 +12174,7 @@ byrled
 brabbler
 boleweed
 biometeorology
+bipolarize
 blandiloquence
 bolewort
 baklawas
