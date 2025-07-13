@@ -10656,6 +10656,7 @@ bandspreading
 bernese
 bollies
 bishopscap
+burnish
 bleaky
 buist
 bleakness
@@ -17728,7 +17729,6 @@ burnfire
 baskonize
 burningly
 buckeens
-burnish
 burnishable
 brachiorrhachidian
 burnisher
