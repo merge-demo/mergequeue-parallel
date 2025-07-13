@@ -13030,7 +13030,6 @@ blether
 bacilliculture
 bagattini
 borboridae
-borborygmatic
 biggin
 borborygmus
 bettongia
@@ -15528,6 +15527,7 @@ brewsterite
 barbacan
 brises
 brisker
+borborygmatic
 buttonmould
 broadcasted
 bluehead
