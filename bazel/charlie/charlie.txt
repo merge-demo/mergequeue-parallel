@@ -1455,7 +1455,6 @@ curupay
 calisthenics
 calite
 calyx
-carbonometry
 coecal
 continents
 careening
@@ -18326,6 +18325,7 @@ caesaropapism
 cofounds
 cofreighter
 cofunction
+carbonometry
 cystidia
 cretification
 cogencies
