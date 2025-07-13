@@ -8701,7 +8701,6 @@ allelotropism
 alleluia
 applesauce
 alleluiah
-amnesiacs
 alleluias
 appareled
 alleluiatic
@@ -16968,6 +16967,7 @@ apodemata
 apneustic
 apnoea
 abominating
+amnesiacs
 adiaphoretic
 ayahausca
 apoatropine
