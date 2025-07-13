@@ -4893,7 +4893,6 @@ archdapifership
 aquavalent
 auncel
 asexuals
-atame
 alluvivia
 arake
 aerohydrous
@@ -5139,6 +5138,7 @@ apyrexia
 affable
 ambilaevous
 affaite
+atame
 affect
 affectable
 anaxonia
