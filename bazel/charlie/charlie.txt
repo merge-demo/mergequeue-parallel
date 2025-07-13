@@ -20002,7 +20002,6 @@ cheerily
 commeasurable
 commeasure
 commeasured
-commeasuring
 commeddle
 commelina
 capers
@@ -27455,6 +27454,7 @@ chemicophysics
 cidarid
 couturiere
 cankerweed
+commeasuring
 couturieres
 couturiers
 chanduy

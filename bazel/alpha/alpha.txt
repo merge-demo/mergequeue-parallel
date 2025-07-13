@@ -4483,7 +4483,6 @@ adverbially
 acloud
 aggerose
 adverbiation
-adverbs
 adversatively
 ambushed
 anthropophysiography
@@ -24047,6 +24046,7 @@ antiblack
 ascidiozooid
 autoecy
 adventitiously
+adverbs
 autoecic
 accumulations
 autoecism
