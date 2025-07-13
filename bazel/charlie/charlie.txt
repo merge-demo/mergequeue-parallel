@@ -20032,7 +20032,6 @@ coloslossuses
 crim
 cheweler
 cinemelodrama
-cocorico
 commendation
 ciliograde
 commendations
@@ -23856,6 +23855,7 @@ caimitillo
 contrives
 control
 controling
+cocorico
 controllable
 controllably
 controller
