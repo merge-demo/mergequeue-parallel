@@ -2431,6 +2431,7 @@ brodder
 blowout
 benignantly
 bathic
+baruria
 brawner
 bareges
 barehead
@@ -3033,7 +3034,6 @@ briery
 bellows
 biobibliographical
 bdellostomatidae
-baruria
 barvel
 baleful
 beduin
