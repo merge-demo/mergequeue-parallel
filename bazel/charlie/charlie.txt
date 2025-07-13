@@ -798,7 +798,6 @@ cahows
 cahuilla
 cay
 caquetoires
-cayapo
 criticisable
 caid
 caids
@@ -27483,6 +27482,7 @@ chelicerae
 curtailer
 covariable
 cathartical
+cayapo
 cheongsam
 coal
 cobwebbed
