@@ -8902,7 +8902,6 @@ bioclimatic
 bowwoman
 bioclimatician
 bioclimatology
-bathwater
 bavoso
 blabber
 bussed
@@ -14690,6 +14689,7 @@ brattice
 bratticing
 beggarweed
 brelan
+bathwater
 brattie
 betrothal
 biobibliographic
