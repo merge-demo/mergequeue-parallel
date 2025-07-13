@@ -924,7 +924,6 @@ apostrophi
 adversant
 absolutist
 absolutistically
-absolutize
 absolutory
 absolvatory
 absolve
@@ -2898,6 +2897,7 @@ accidentiality
 anacromyodian
 advisive
 acrostical
+absolutize
 approvably
 acrostichoid
 acrostichum
