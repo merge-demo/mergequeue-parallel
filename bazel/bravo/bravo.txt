@@ -4397,6 +4397,7 @@ bonzian
 barrable
 butyrousness
 bickers
+baret
 bushwhacker
 bathyseism
 beclaw
@@ -16854,7 +16855,6 @@ bichromatic
 bathysophic
 buffoonish
 bungle
-baret
 birostrated
 bootheel
 buffoonishness
