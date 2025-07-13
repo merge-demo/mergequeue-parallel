@@ -5988,7 +5988,6 @@ catheterized
 commonality
 cerastium
 catheterizes
-cathetometer
 cartopper
 cathetusti
 cathexes
@@ -12236,6 +12235,7 @@ clangula
 chaoticness
 chrysobalanus
 chrysoberyl
+cathetometer
 chrysobull
 cinchonising
 chrysocarpous
