@@ -26979,7 +26979,6 @@ countersuggestion
 counterparry
 counterpart
 counterpassant
-counterpendent
 culpa
 conjugable
 chartae
@@ -31175,6 +31174,7 @@ cuppings
 clerklike
 commulation
 corantos
+counterpendent
 communities
 cloudling
 curtseying
