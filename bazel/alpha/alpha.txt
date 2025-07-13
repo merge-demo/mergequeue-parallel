@@ -1240,7 +1240,6 @@ anlia
 acanthophorous
 aboded
 acanthopodous
-aqueously
 acanthopomatous
 acanthopteran
 acanthopterygian
@@ -9652,6 +9651,7 @@ alumish
 alumite
 adagio
 anticonvulsant
+aqueously
 alumnae
 alumni
 arrythmic
