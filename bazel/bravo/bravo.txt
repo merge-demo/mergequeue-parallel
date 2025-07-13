@@ -1733,7 +1733,6 @@ balsamation
 blasthole
 balsaminaceae
 beneplacit
-balsamine
 basongo
 become
 balsamitic
@@ -6266,6 +6265,7 @@ beveling
 bungalow
 bennets
 bootlace
+balsamine
 bookism
 battalions
 barndoor
