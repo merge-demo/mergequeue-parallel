@@ -8485,7 +8485,6 @@ alacreatinine
 alkalize
 alkalizer
 alkalizes
-acuate
 alkalizing
 alkaloid
 alkaloids
@@ -11157,6 +11156,7 @@ amphibrach
 amia
 amphibrachic
 amphicarpaea
+acuate
 amphicarpia
 autallotriomorphic
 aptitudinal
