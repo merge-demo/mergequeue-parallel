@@ -6439,6 +6439,7 @@ benzophenothiazine
 benzophloroglucinol
 baculi
 benedight
+blemisher
 benzophthalazine
 breakup
 benzil
@@ -12792,7 +12793,6 @@ beseemed
 baudekin
 belladonna
 bookstand
-blemisher
 bookstores
 biforked
 bigaroon
