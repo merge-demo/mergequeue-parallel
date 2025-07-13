@@ -1673,7 +1673,6 @@ counterdiscipline
 calorifical
 calorification
 cardiograph
-calappa
 currishly
 curelessly
 calorifics
@@ -18949,6 +18948,7 @@ collapsing
 collarbird
 collarbone
 collard
+calappa
 carillonned
 criticise
 conductorship
