@@ -5870,7 +5870,6 @@ dimagnesic
 depraver
 dragonfly
 dewaxing
-deadtongue
 dags
 dentaries
 dermatocoptic
@@ -13681,6 +13680,7 @@ discase
 djellabas
 dyssynergy
 disobeyer
+deadtongue
 decagramme
 diatryma
 dogberries
