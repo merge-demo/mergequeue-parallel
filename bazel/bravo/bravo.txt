@@ -5110,7 +5110,6 @@ babery
 bentwood
 biquadrantal
 balanites
-beflannel
 bureaucrat
 beflap
 beflea
@@ -17032,6 +17031,7 @@ befavour
 beachlamar
 bihydrazine
 bulkish
+beflannel
 bull
 bushbeck
 boiette
