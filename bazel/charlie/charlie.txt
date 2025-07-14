@@ -16211,7 +16211,6 @@ chaunting
 clime
 counterpenalty
 cavidae
-climograph
 conversazioni
 clinamen
 clinamina
@@ -21840,6 +21839,7 @@ constructionists
 cleaner
 confabs
 confabulate
+climograph
 cimbal
 connivery
 calcium
