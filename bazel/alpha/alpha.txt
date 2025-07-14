@@ -5330,7 +5330,6 @@ anidiomatic
 affrontive
 adenose
 affronts
-affuse
 affusion
 afghan
 anapnea
@@ -22585,6 +22584,7 @@ aratinga
 atheromatosis
 atheroscleroses
 abaised
+affuse
 archbuffoon
 ateuchi
 atherosclerosis
