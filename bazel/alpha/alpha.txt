@@ -20743,7 +20743,6 @@ acholias
 aspiculate
 angico
 autophobia
-alicant
 artlessness
 animalcule
 aet
@@ -23705,6 +23704,7 @@ amyotrophy
 ausforming
 aushar
 acerbically
+alicant
 arrent
 auslaute
 auspex
