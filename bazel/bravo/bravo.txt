@@ -2493,7 +2493,6 @@ brachyoura
 barge
 bergere
 bargelike
-beet
 bravura
 bargellos
 beswinge
@@ -16198,6 +16197,7 @@ browless
 baritones
 botonnee
 bundy
+beet
 berrypicking
 bluejackets
 browned
