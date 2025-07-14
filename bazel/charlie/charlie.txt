@@ -3743,6 +3743,7 @@ companeros
 caravel
 confuse
 caravels
+confider
 cosen
 caraway
 caraways
@@ -21958,7 +21959,6 @@ confidentialness
 cormorants
 confidently
 confidentness
-confider
 confiders
 confiding
 coppa
