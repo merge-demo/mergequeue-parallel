@@ -12807,6 +12807,7 @@ bookwright
 booleans
 booleys
 bardy
+barthian
 booly
 backhanding
 betatters
@@ -12879,7 +12880,6 @@ bifoil
 bacchiac
 bangster
 bkpt
-barthian
 breastwise
 boong
 bearwood
