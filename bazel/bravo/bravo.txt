@@ -5999,6 +5999,7 @@ bouldering
 bosslet
 begripe
 bellarmine
+blatch
 bemaddened
 boob
 borderlines
@@ -10541,7 +10542,6 @@ bulbocodium
 bibless
 bootikin
 backlash
-blatch
 bouviers
 boychiks
 bambuco
