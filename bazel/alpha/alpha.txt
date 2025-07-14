@@ -12794,6 +12794,7 @@ angiotelectasia
 administerd
 angiotenosis
 angiotensinase
+antithyroid
 agrogeologically
 armata
 arbitrations
@@ -16241,7 +16242,6 @@ antithesism
 antithetic
 achropsia
 arcosoliulia
-antithyroid
 algolagnic
 anilid
 antitintinnabularian
