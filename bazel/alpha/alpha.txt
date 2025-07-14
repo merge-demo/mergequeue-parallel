@@ -3974,6 +3974,7 @@ akolouthia
 agings
 arghoul
 adminicular
+apnoea
 anableps
 adminiculation
 attical
@@ -16966,7 +16967,6 @@ agrammatical
 apneusis
 apodemata
 apneustic
-apnoea
 abominating
 adiaphoretic
 ayahausca
