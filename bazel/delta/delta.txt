@@ -3946,7 +3946,6 @@ deference
 dekes
 derivationally
 dotage
-douser
 duopoly
 disleal
 deyship
@@ -11119,6 +11118,7 @@ dulled
 dorhawk
 dotless
 dissertator
+douser
 disarticulating
 disarticulation
 detruded
