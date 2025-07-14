@@ -8578,7 +8578,6 @@ billets
 brainlike
 bassaris
 berylline
-brauneberger
 brachysm
 brachiofacial
 billfishes
@@ -15343,6 +15342,7 @@ brigantia
 brigantines
 brigatry
 brigetty
+brauneberger
 beliquoring
 bekick
 burgensic
