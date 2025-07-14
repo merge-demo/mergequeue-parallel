@@ -2479,7 +2479,6 @@ bruting
 blurriest
 bandelet
 barfish
-bargainable
 bushranging
 buckraming
 billbugs
@@ -10285,6 +10284,7 @@ ballsy
 blacktongue
 byroniana
 benzoquinoline
+bargainable
 blacktopping
 blacktops
 blastoporphyritic
