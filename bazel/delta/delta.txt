@@ -7991,7 +7991,6 @@ diphenylthiourea
 dorosternal
 dextrolimonene
 dolorousness
-dichlorobenzene
 dimethylaniline
 dimensive
 dookit
@@ -8321,6 +8320,7 @@ droob
 dissimile
 defocus
 diagraphs
+dichlorobenzene
 diagredium
 dermatopathia
 diaguitas
