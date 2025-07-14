@@ -10387,7 +10387,6 @@ chide
 callid
 classing
 chided
-chiders
 corrigendum
 cedarbird
 chilies
@@ -14292,6 +14291,7 @@ clubhouse
 camelopardidae
 circumgestation
 circumgyrate
+chiders
 circumgyratory
 camisado
 circumincession
