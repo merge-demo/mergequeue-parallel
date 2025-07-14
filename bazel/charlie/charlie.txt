@@ -4860,6 +4860,7 @@ carriages
 crosstie
 carriagesmith
 cinchonicin
+cowls
 carriageway
 carryall
 carrick
@@ -23660,7 +23661,6 @@ contractions
 contractly
 contractor
 contractors
-cowls
 contracts
 contractu
 contractually
