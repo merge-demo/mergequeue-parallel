@@ -13373,6 +13373,7 @@ cyclopy
 counteract
 cyclopia
 coccomyces
+cognizable
 cyclopic
 consolement
 crabbit
@@ -18424,7 +18425,6 @@ cognitive
 cognitively
 cokelike
 cognitivity
-cognizable
 cognizableness
 cognizance
 chetrums
