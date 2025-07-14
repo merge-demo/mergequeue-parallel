@@ -7741,7 +7741,6 @@ bowstave
 bhishti
 bhistie
 bhisties
-berake
 bhojpuri
 brim
 bhokra
@@ -9291,6 +9290,7 @@ byproducts
 burgaudine
 blackguardism
 beadles
+berake
 biprong
 baseball
 begloomed
