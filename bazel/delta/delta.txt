@@ -2008,6 +2008,7 @@ decaffeinize
 decury
 disregardable
 dogleg
+drawglove
 dogwoods
 devance
 decagynous
@@ -13432,7 +13433,6 @@ disregard
 demiglace
 dought
 dumbheaded
-drawglove
 dimetient
 disregardant
 disregarded

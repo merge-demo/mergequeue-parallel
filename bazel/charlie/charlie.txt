@@ -14128,6 +14128,7 @@ coriandrol
 chloritoid
 cleruchial
 circassic
+climacterical
 capivi
 corpuscle
 circe
@@ -21507,7 +21508,6 @@ concourse
 cliqueless
 confessions
 calycle
-climacterical
 celestialize
 concresce
 concrescence
