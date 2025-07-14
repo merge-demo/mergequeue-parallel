@@ -12348,6 +12348,7 @@ anticourt
 angelocracy
 anisotropic
 androclinia
+abdominohysterotomy
 androclinium
 androclus
 androconium
@@ -22562,7 +22563,6 @@ atheneums
 aerates
 annalism
 athenor
-abdominohysterotomy
 agnition
 atheologically
 athericera
