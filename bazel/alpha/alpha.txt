@@ -19316,6 +19316,7 @@ arithmetics
 argals
 arrayer
 acolytus
+arty
 ambrosian
 appius
 allergins
@@ -20632,7 +20633,6 @@ amaine
 antieugenic
 annunciates
 arthur
-arty
 artiad
 advertising
 artichoke
