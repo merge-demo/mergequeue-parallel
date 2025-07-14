@@ -617,7 +617,6 @@ bostangi
 bastiment
 bacteriodiagnosis
 bromates
-benomyls
 behearse
 bacterid
 birdcages
@@ -7902,6 +7901,7 @@ bibliopegy
 bituminisation
 bibliopegically
 bibbons
+benomyls
 browser
 blanketry
 btu
