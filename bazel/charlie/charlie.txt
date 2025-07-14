@@ -9450,7 +9450,6 @@ carbonero
 chitarrino
 coying
 cromwell
-chaws
 chawstick
 citoyen
 chazan
@@ -17265,6 +17264,7 @@ commoderate
 communicativeness
 chambrel
 curseder
+chaws
 coalier
 coaliest
 coenzymatically
