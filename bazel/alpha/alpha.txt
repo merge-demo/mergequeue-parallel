@@ -10041,7 +10041,6 @@ aluminoferric
 avitaminoses
 ambitendency
 arriver
-arteriococcygeal
 acondylous
 analysability
 ambitendent
@@ -10700,6 +10699,7 @@ angulometer
 arachne
 adulterants
 aphronitre
+arteriococcygeal
 anorthography
 aminopurine
 aminoquin
