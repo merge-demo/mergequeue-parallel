@@ -1215,7 +1215,6 @@ bakli
 baymen
 bearhide
 biodynamic
-bakra
 bruchus
 backslid
 beleaguers
@@ -8178,6 +8177,7 @@ buffalos
 baldpate
 byeman
 ballote
+bakra
 bienly
 browpost
 boyism

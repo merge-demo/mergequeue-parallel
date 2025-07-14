@@ -1489,6 +1489,7 @@ doarium
 deked
 deaconate
 demigorge
+decemstriate
 delphinoidea
 downer
 discourager
@@ -2264,7 +2265,6 @@ decemplex
 dissocialize
 decempunctate
 doused
-decemstriate
 dowsers
 disceptator
 dithioglycol
