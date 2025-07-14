@@ -9908,7 +9908,6 @@ abepithymia
 amatito
 awaste
 acerata
-alveolodental
 airers
 adminiculate
 anticlastic
@@ -12691,6 +12690,7 @@ awed
 angerona
 angeronalia
 angers
+alveolodental
 angetenar
 angevin
 anacatadidymus
