@@ -7907,7 +7907,6 @@ doh
 dewing
 disjoin
 degrease
-discommon
 disrump
 decongested
 diffidently
@@ -12152,6 +12151,7 @@ disexcommunicate
 detrition
 duckiest
 deprecation
+discommon
 dreggy
 denitrificant
 dramaturgy
