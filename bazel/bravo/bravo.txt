@@ -5586,6 +5586,7 @@ bekissed
 bekisses
 bouleuterion
 befoolment
+belows
 borons
 beknighted
 ballistite
@@ -13123,7 +13124,6 @@ basophil
 bleedings
 bornane
 bornean
-belows
 borneol
 borneols
 belaced
