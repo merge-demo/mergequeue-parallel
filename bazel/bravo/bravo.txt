@@ -852,6 +852,7 @@ bagdi
 bunters
 begoniaceae
 bauxites
+basketlike
 bicolour
 bagful
 barasingha
@@ -1585,7 +1586,6 @@ britches
 binate
 ballista
 boilermaker
-basketlike
 beatinest
 beyerite
 ballistician
