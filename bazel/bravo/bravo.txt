@@ -2725,7 +2725,6 @@ backward
 boylas
 beltline
 bullbat
-brigandishly
 bismutoplagionite
 barolo
 bm
@@ -10618,6 +10617,7 @@ blaze
 blazers
 blazes
 blazy
+brigandishly
 bridgeheads
 brahmanhood
 bicepses
