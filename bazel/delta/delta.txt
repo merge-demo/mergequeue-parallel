@@ -3868,7 +3868,6 @@ dimwit
 defoams
 diviningly
 deciduous
-dicellate
 deionizations
 dichroiscope
 diatropic
@@ -5217,6 +5216,7 @@ diaheliotropic
 detruncating
 devoid
 diazoamino
+dicellate
 denitrifier
 destructors
 denitrifying
