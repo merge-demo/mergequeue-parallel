@@ -7496,7 +7496,6 @@ bully
 berhymed
 bistre
 bleariest
-betwine
 betwixt
 biserrate
 brachypodine
@@ -10009,6 +10008,7 @@ bombings
 bivoluminous
 bivouaced
 bivouacked
+betwine
 balaphon
 brawlys
 bodes
