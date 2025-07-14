@@ -16318,7 +16318,6 @@ bruiter
 bruits
 borofluorin
 breadthen
-baddeleyite
 bacchius
 brujeria
 botryolite
@@ -18058,6 +18057,7 @@ baptizable
 biologies
 bustled
 beefwood
+baddeleyite
 bullrings
 boast
 bislings
