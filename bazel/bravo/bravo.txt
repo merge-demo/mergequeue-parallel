@@ -3517,7 +3517,6 @@ brookites
 blackroot
 bathed
 bellower
-bathes
 backslidden
 bicondylar
 baryons
@@ -12361,6 +12360,7 @@ bombing
 beautifies
 buttoned
 benzoxyphenanthrene
+bathes
 broguery
 bonkers
 byronize
