@@ -13510,6 +13510,7 @@ authigenic
 atomical
 armada
 acropodia
+apostume
 alberich
 azeotropism
 amoebida
@@ -18555,7 +18556,6 @@ arccos
 appomattoc
 astrocaryum
 arced
-apostume
 assiduousness
 anhematosis
 arces
