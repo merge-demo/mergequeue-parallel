@@ -9211,6 +9211,7 @@ chase
 chaseable
 chased
 corbeilles
+cocitizen
 chases
 chashitsu
 chasm
@@ -17706,7 +17707,6 @@ cocinera
 cocircular
 cultrirostres
 catodont
-cocitizen
 cocitizenship
 cockade
 colour
