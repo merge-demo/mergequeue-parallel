@@ -7143,7 +7143,6 @@ centiliter
 cadent
 chimed
 centillionth
-centiloquy
 casziel
 canton
 caliculus
@@ -28522,6 +28521,7 @@ carapaced
 credences
 coring
 credencive
+centiloquy
 conditioning
 credenda
 confluently
