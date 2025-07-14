@@ -6122,7 +6122,6 @@ agnations
 amphi
 agnel
 acetobenzoic
-agnification
 agnize
 affranchised
 antiinstitutionalists
@@ -14630,6 +14629,7 @@ antiaristocracies
 arauna
 arteriectasis
 alpinisms
+agnification
 ariidae
 accordantly
 antinormal
