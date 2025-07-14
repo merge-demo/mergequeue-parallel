@@ -3815,6 +3815,7 @@ adipopexis
 adiposeness
 adiposity
 acrook
+allwork
 abdominoscope
 adiposogenital
 aslope
@@ -9133,7 +9134,6 @@ ametropic
 allwhere
 accipitres
 applejack
-allwork
 antiquate
 allworthy
 afrikaner

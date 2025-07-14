@@ -9315,6 +9315,7 @@ bifolia
 boyang
 balourdise
 bloviating
+batful
 beany
 bawdry
 baldricked
@@ -15666,7 +15667,6 @@ broadlooms
 bourrides
 barbarously
 binuclear
-batful
 butyric
 broadsider
 burnished
