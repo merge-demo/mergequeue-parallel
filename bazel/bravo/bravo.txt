@@ -15461,7 +15461,6 @@ bearskins
 brinehouse
 brineless
 bombardment
-bakery
 bratstva
 bibliopegistic
 breakbone
@@ -16705,6 +16704,7 @@ biospheres
 buckras
 bawdstrot
 bolyaian
+bakery
 bucks
 blinders
 bucksaw
