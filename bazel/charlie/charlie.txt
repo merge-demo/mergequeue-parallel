@@ -1617,6 +1617,7 @@ centrobaric
 crureus
 calmest
 calmier
+cimmerian
 calmiest
 coeducationally
 calming
@@ -13663,7 +13664,6 @@ cnemidophorus
 crematories
 carnosities
 cimmeria
-cimmerian
 cimmerianism
 cirrhosis
 cymodoceaceae
