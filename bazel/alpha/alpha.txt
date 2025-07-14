@@ -6845,6 +6845,7 @@ acieral
 airplot
 alines
 airport
+awfulness
 ady
 airposts
 asst
@@ -15588,7 +15589,6 @@ ardently
 attacked
 allegorister
 arcus
-awfulness
 archangels
 antinome
 adders
