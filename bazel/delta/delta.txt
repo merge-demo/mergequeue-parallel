@@ -10124,6 +10124,7 @@ dynamomorphic
 dislustring
 dynamophone
 decentralised
+dactyls
 dynamos
 dadoing
 dynamostatic
@@ -17561,7 +17562,6 @@ drumlinoid
 decelerated
 dactylate
 diatomous
-dactyls
 drumlins
 dorsiferous
 diciest
