@@ -20707,7 +20707,6 @@ atheisms
 alphean
 artilleries
 avodire
-artilleryman
 achillein
 artillerymen
 apprehensiveness
@@ -23991,6 +23990,7 @@ algocyan
 anthracnosis
 ansate
 autocopist
+artilleryman
 acrophonies
 avitic
 archaeography
