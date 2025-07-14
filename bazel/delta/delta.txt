@@ -657,6 +657,7 @@ decapitalize
 damped
 desquamated
 dukely
+dullery
 deafen
 dampers
 dudgeons
@@ -3345,7 +3346,6 @@ dayment
 distressfulness
 dismast
 denims
-dullery
 definitor
 dorsosternal
 dogmouth
