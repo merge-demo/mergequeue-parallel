@@ -7074,6 +7074,7 @@ centauromachia
 censured
 centenar
 constringent
+chirology
 carrefour
 carroches
 cheap
@@ -10954,7 +10955,6 @@ chirography
 candlelighted
 chirographical
 chirolas
-chirology
 curators
 chirological
 chirologically

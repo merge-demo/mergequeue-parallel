@@ -4940,6 +4940,7 @@ beehive
 busser
 bandy
 beek
+bawls
 balkers
 bergamot
 betanaphthol
@@ -12385,7 +12386,6 @@ beele
 boonk
 bombonne
 bombora
-bawls
 beswarmed
 bombus
 bombardelle
