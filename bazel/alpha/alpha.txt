@@ -4443,6 +4443,7 @@ advective
 advects
 advena
 airbrushed
+annulettee
 ascended
 anchylosis
 adventitial
@@ -6177,7 +6178,6 @@ agonistics
 agonize
 ajoure
 arvicolinae
-annulettee
 ambisextrous
 allodian
 agonizedly
