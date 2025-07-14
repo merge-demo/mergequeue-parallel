@@ -12484,6 +12484,7 @@ dexterity
 defy
 disilicide
 deboise
+derogations
 demesne
 devisee
 demurring
@@ -12695,7 +12696,6 @@ diviners
 doxologically
 diacids
 duane
-derogations
 dyslexics
 dreadfully
 drury
