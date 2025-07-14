@@ -7743,6 +7743,7 @@ archisphere
 aldermanical
 assistency
 aration
+amylum
 aldermanity
 aldermanlike
 anacrotism
@@ -10643,7 +10644,6 @@ amylosis
 armamentary
 amiloun
 amyls
-amylum
 abib
 amin
 antimonarchial
