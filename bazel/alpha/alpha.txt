@@ -2127,6 +2127,7 @@ aptness
 acroteral
 achilous
 achylous
+antedon
 alts
 adawlut
 arend
@@ -24996,7 +24997,6 @@ awhile
 atlatls
 awhir
 awhirl
-antedon
 awikiwiki
 asymmetral
 argid
