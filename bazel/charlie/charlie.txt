@@ -4812,6 +4812,7 @@ carport
 carpos
 chibouk
 carposporangial
+cering
 catalase
 carlist
 carposporous
@@ -7716,7 +7717,6 @@ cerimans
 cerine
 chunkily
 cerynean
-cering
 cerinthe
 culprits
 couniversal
