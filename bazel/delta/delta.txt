@@ -2948,6 +2948,7 @@ diegesis
 diplasiasmus
 deduces
 droil
+divulged
 dolt
 deducibility
 deducibly
@@ -14640,7 +14641,6 @@ daubreeite
 divulgation
 demoralised
 divulge
-divulged
 diminuted
 drivelling
 delawarean
