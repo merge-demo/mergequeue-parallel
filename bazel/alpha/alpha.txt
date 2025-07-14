@@ -13412,7 +13412,6 @@ antimnemonic
 annaly
 annalia
 annaline
-antigrammaticalness
 apathetic
 annalistic
 annalists
@@ -20558,6 +20557,7 @@ atlantes
 anurous
 arthrodonteae
 alteza
+antigrammaticalness
 actinomere
 arthroempyema
 arthrogastran
