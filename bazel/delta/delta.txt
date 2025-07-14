@@ -5475,7 +5475,6 @@ deoppilation
 dep
 doss
 deordination
-deorganization
 deistic
 decolouriser
 deorganize
@@ -17873,6 +17872,7 @@ doctrine
 durationless
 dishmaking
 dueled
+deorganization
 deathday
 duelers
 duelist
