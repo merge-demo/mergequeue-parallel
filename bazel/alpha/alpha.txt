@@ -5968,6 +5968,7 @@ aggroupment
 aghan
 aghas
 aghlabite
+autarkist
 aghori
 allottee
 autoantibody
@@ -23808,7 +23809,6 @@ autarkies
 allosaurus
 anisostichus
 andoke
-autarkist
 aute
 autechoscope
 arising
