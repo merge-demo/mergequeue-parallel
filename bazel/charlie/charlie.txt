@@ -4891,6 +4891,7 @@ connivers
 carrollite
 carromatas
 carromed
+coroners
 carroms
 carroon
 collied
@@ -7328,7 +7329,6 @@ clamper
 chimar
 captious
 centurist
-coroners
 cherishes
 ceorl
 cep
