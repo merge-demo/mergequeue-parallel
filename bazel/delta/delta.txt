@@ -1314,7 +1314,6 @@ demodulator
 daunder
 departure
 daundering
-didappers
 daunt
 daunted
 dhobies
@@ -18018,6 +18017,7 @@ disquisitionary
 damping
 dulcitude
 dacryocystalgia
+didappers
 duteous
 desmoneoplasm
 dulcose
