@@ -3159,6 +3159,7 @@ accidentary
 allogenic
 aid
 avadavat
+appellor
 alagao
 actory
 alliterativeness
@@ -17534,7 +17535,6 @@ appellativeness
 anchory
 arriccioci
 appellee
-appellor
 aminobenzene
 antifederalist
 alcedo
