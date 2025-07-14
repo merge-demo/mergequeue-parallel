@@ -1432,7 +1432,6 @@ calyptoblastea
 chapiters
 calyptoblastic
 criticize
-calyptorhynchus
 calyptraea
 cradleman
 calyptranthes
@@ -5574,6 +5573,7 @@ catalexes
 catalexis
 catalin
 curule
+calyptorhynchus
 cauponation
 coxing
 contentful
