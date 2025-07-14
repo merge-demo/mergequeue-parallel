@@ -8885,7 +8885,6 @@ characeae
 characids
 cataria
 cheville
-coriariaceous
 characine
 creasiest
 coercibly
@@ -14225,6 +14224,7 @@ circumambulator
 circumanal
 circumantarctic
 circumarticular
+coriariaceous
 circumaviate
 circumaviator
 cowlike
