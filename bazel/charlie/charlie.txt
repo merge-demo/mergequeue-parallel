@@ -9691,6 +9691,7 @@ cheeros
 castoroides
 coinfer
 cafuso
+crateman
 cheesebox
 cheeseburger
 cheeseburgers
@@ -28280,7 +28281,6 @@ cratches
 curtnesses
 cratchins
 crate
-crateman
 clitic
 calor
 cratemen
