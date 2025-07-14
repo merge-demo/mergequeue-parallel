@@ -1795,7 +1795,6 @@ debases
 duyker
 doggoned
 daggerlike
-debate
 disemboguing
 delusterant
 dung
@@ -14859,6 +14858,7 @@ disfranchise
 doctress
 due
 discombobulation
+debate
 diffide
 drafted
 duologs
