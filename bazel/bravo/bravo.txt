@@ -1920,7 +1920,6 @@ bandoleros
 brockle
 bandor
 baaskaap
-bandora
 biotechs
 brevipen
 bandore
@@ -14972,6 +14971,7 @@ burnut
 bredbergite
 baumhauerite
 bredes
+bandora
 bredestitch
 boss
 betainogen
