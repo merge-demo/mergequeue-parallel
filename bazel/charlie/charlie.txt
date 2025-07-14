@@ -2122,6 +2122,7 @@ campcraft
 campe
 cryal
 camped
+capper
 campephagine
 camper
 coniopterygidae
@@ -3383,7 +3384,6 @@ capparid
 capparis
 capped
 cappelletti
-capper
 ciseleurs
 cappiest
 capping
