@@ -9456,6 +9456,7 @@ citoyen
 chazan
 chazanim
 chazans
+cognominal
 chazanut
 chazy
 circularwise
@@ -19897,7 +19898,6 @@ critical
 comicalness
 cubited
 comices
-cognominal
 comicocynical
 curlicues
 conjugally
