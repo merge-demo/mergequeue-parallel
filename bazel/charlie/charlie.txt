@@ -7496,7 +7496,6 @@ cerates
 ceratiasis
 ceratiid
 ceratins
-ceratioid
 capsuligerous
 caffle
 ceratitis
@@ -26359,6 +26358,7 @@ cans
 coteen
 coteful
 cotele
+ceratioid
 curlers
 cotemporanean
 cotemporaneously
