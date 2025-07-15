@@ -2093,6 +2093,7 @@ achievable
 anviling
 automania
 achievement
+antidiphtheritic
 antecedents
 agamogenetic
 ardor
@@ -15036,7 +15037,6 @@ achromatizing
 antidiphtheria
 anapsida
 angelophanic
-antidiphtheritic
 acidify
 antidisciplinarian
 antidysenteric

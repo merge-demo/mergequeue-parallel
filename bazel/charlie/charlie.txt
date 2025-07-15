@@ -2655,7 +2655,6 @@ canfields
 cantillating
 canfuls
 cangan
-charterist
 clumsiness
 cangy
 cangia
@@ -26186,6 +26185,7 @@ cosmozoism
 cantharidism
 calabazilla
 clinchingness
+charterist
 chanceman
 cosovereignty
 cospecies
