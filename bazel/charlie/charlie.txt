@@ -17375,7 +17375,6 @@ coassume
 crystallic
 coassuming
 chrysolite
-coast
 coastal
 coastally
 cg
@@ -19808,6 +19807,7 @@ comebacker
 cephalochordate
 chontalan
 cymotrichous
+coast
 cecomorphae
 chalehs
 catechols
