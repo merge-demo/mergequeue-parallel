@@ -7010,7 +7010,6 @@ danae
 despoil
 despoiled
 destroyers
-despoiler
 disabilities
 despoilers
 decongest
@@ -16742,6 +16741,7 @@ distributedly
 drammock
 drypoint
 disadvised
+despoiler
 dewily
 drammocks
 dicey
