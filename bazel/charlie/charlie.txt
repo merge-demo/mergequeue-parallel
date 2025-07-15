@@ -20252,7 +20252,6 @@ commonsensically
 commonweals
 commorancies
 commorient
-commorse
 costeen
 commorth
 commot
@@ -27501,6 +27500,7 @@ covassal
 cove
 coadunate
 courtzilite
+commorse
 coved
 clavately
 covey
