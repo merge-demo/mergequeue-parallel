@@ -13044,7 +13044,6 @@ blancard
 biennials
 besteading
 blackberry
-bucking
 bordering
 balangay
 bolster
@@ -15391,6 +15390,7 @@ braata
 birefraction
 bereave
 bixa
+bucking
 bono
 beflout
 benetted
