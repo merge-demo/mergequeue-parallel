@@ -11426,6 +11426,7 @@ disclimax
 dialogite
 drossing
 dastardy
+disgospelize
 dockyard
 dissuader
 demivotary
@@ -12285,7 +12286,6 @@ disgorges
 dromedarist
 disgospel
 diminuendos
-disgospelize
 disappoint
 disgracer
 dipicrate
