@@ -4578,7 +4578,6 @@ belial
 biddelian
 beats
 bedazement
-bedazzle
 blared
 banters
 bowsprit
@@ -13879,6 +13878,7 @@ bilious
 birches
 bedrite
 bowing
+bedazzle
 bowings
 bowkail
 blad
