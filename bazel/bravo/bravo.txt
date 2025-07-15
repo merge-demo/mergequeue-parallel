@@ -3842,6 +3842,7 @@ backslappers
 bawcocks
 branniest
 bawdier
+baptize
 bawdies
 bestrow
 bricklaying
@@ -7240,7 +7241,6 @@ breaching
 blades
 beveled
 bestraddled
-baptize
 bute
 bituminised
 beshear
