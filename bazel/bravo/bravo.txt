@@ -518,6 +518,7 @@ backstops
 backstrapped
 backstreet
 blastophoric
+burped
 bombsights
 butomaceous
 backstroke
@@ -17757,7 +17758,6 @@ brainchildren
 basileus
 browsage
 bravadoes
-burped
 blucher
 butomus
 blackishly
