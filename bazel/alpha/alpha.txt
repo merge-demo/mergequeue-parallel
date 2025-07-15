@@ -17104,6 +17104,7 @@ avocets
 anisochromia
 aculeata
 apogeotropism
+anoli
 apogon
 autolaryngoscopy
 afterfuture
@@ -21294,7 +21295,6 @@ adorning
 autist
 asynergy
 asynergia
-anoli
 adamantly
 annuluses
 asyngamy

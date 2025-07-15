@@ -3032,6 +3032,7 @@ cantoner
 cellocut
 cantoning
 cantonize
+corers
 colectomy
 countergager
 cantoral
@@ -25120,7 +25121,6 @@ coinstantaneous
 corequisite
 corer
 combinantive
-corers
 cores
 carbonates
 chlorospinel
