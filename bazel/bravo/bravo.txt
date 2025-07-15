@@ -2312,6 +2312,7 @@ bagger
 bartholomite
 blameably
 baobab
+ballyragged
 biasways
 barbican
 breloque
@@ -3592,7 +3593,6 @@ bathrooms
 bazigar
 babas
 boutade
-ballyragged
 bridelace
 banilad
 bathukolpian
