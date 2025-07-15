@@ -10841,7 +10841,6 @@ bhikku
 banished
 blethe
 bromomethane
-balate
 blethered
 bletilla
 bronteum
@@ -14998,6 +14997,7 @@ byzantian
 brunneous
 bengalic
 bepillared
+balate
 brachyceric
 bacteriol
 babite
