@@ -3467,6 +3467,7 @@ bitterworm
 batarde
 bullaces
 batatas
+burdash
 batavi
 ballan
 buzzsaw
@@ -13073,7 +13074,6 @@ buddhic
 bored
 borsches
 boreen
-burdash
 boreiad
 bannister
 brawnier
