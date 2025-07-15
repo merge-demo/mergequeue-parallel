@@ -6158,7 +6158,6 @@ draperies
 dissector
 derbend
 debauch
-derby
 deploringly
 discostomatous
 derecho
@@ -7628,6 +7627,7 @@ drapping
 devata
 devaul
 deoxygenating
+derby
 degaussed
 deveined
 disbursements
