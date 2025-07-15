@@ -12419,7 +12419,6 @@ antiprimer
 astart
 autonomical
 ajonjoli
-atomiferous
 axisymmetry
 ajowan
 adequateness
@@ -17663,6 +17662,7 @@ alborak
 assistantships
 applausively
 acquirability
+atomiferous
 appleblossom
 appled
 airborne
