@@ -2786,7 +2786,6 @@ dorsalward
 disharmonize
 decremeter
 dicyemida
-demarches
 deftnesses
 duodecahedral
 dint
@@ -9714,6 +9713,7 @@ dieter
 dispersedelement
 desulphurization
 dikaryophasic
+demarches
 dikaryophyte
 demission
 dikaryophytic
