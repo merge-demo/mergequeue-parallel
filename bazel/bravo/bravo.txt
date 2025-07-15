@@ -10853,6 +10853,7 @@ bonism
 blew
 blewits
 blick
+biophyte
 batekes
 bongrace
 betone
@@ -13720,7 +13721,6 @@ brunswick
 boustrophedon
 bloomer
 bircher
-biophyte
 banqueted
 braccio
 billetwood
