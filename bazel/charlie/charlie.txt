@@ -11782,7 +11782,6 @@ consonantalizing
 chondrocostal
 chondrocranial
 circuitous
-chondrodystrophy
 chondrodystrophia
 chondroditic
 couthest
@@ -16718,6 +16717,7 @@ clot
 centronucleus
 compatriotism
 clotbur
+chondrodystrophy
 covings
 clapbread
 carpetbeater
