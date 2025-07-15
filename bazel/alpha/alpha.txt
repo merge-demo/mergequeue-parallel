@@ -5233,7 +5233,6 @@ affinities
 affinition
 affinitive
 affirmable
-asiaticism
 abreacted
 arabizes
 acupress
@@ -11405,6 +11404,7 @@ amputating
 amputation
 aboding
 amputational
+asiaticism
 announcers
 amputations
 ammines
