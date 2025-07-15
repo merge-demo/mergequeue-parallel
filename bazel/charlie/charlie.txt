@@ -9907,7 +9907,6 @@ chemophysiology
 chemoprophyalctic
 cycle
 chemoprophylactic
-cruiser
 coaxer
 candent
 chemoreception
@@ -28397,6 +28396,7 @@ crazyweed
 crc
 canzo
 crcao
+cruiser
 chromosome
 crche
 chorioidoretinitis
