@@ -4657,7 +4657,6 @@ aegina
 aeginetan
 aegipan
 aegyptilla
-agonisingly
 aegisthus
 aegithognathae
 anguillule
@@ -16373,6 +16372,7 @@ antoecians
 agitator
 ascogonia
 anticonvention
+agonisingly
 adramelech
 antoinette
 antonym
