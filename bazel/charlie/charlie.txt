@@ -28289,7 +28289,6 @@ crater
 cachet
 crossfiring
 conine
-cephalothoracic
 carabineer
 cabotages
 crateriform
@@ -31531,6 +31530,7 @@ cursives
 clerkage
 chorused
 chromosomes
+cephalothoracic
 cursorary
 cundite
 cursory
