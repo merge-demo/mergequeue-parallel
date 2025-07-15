@@ -7614,7 +7614,6 @@ bewitcher
 bewitches
 bryological
 beswink
-boons
 bewitchingly
 bewitchingness
 brownprint
@@ -9843,6 +9842,7 @@ backswording
 bolelia
 balladry
 bebleed
+boons
 beknight
 brail
 bathyl
