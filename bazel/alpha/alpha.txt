@@ -20606,7 +20606,6 @@ arthroses
 arthrosynovitis
 analecta
 acequias
-arthrosis
 aeromagnetic
 arilli
 adderwort
@@ -25003,6 +25002,7 @@ argid
 apama
 amplex
 awing
+arthrosis
 antiprohibitionist
 awiwi
 alimentative
