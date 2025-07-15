@@ -843,7 +843,6 @@ charbroils
 cainitic
 cayos
 caique
-caiquejee
 caiques
 cairene
 cairn
@@ -4500,6 +4499,7 @@ combing
 coldheartedness
 carmelitess
 carmeloite
+caiquejee
 carmen
 counts
 carmine
