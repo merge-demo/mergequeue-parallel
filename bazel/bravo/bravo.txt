@@ -10779,6 +10779,7 @@ biorhythmic
 bronchomotor
 bleo
 barbicanage
+bettors
 befuddlers
 bywords
 befrill
@@ -14370,7 +14371,6 @@ braillewriter
 boloman
 bambino
 brailling
-bettors
 braincap
 brachiferous
 braincase
