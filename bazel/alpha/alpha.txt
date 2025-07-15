@@ -16996,6 +16996,7 @@ acouophonia
 apocalyptist
 ables
 apocarp
+ascending
 apocarpy
 amaethon
 apocarps
@@ -20917,7 +20918,6 @@ ascendants
 ascendence
 aftershaves
 arbitrament
-ascending
 alaster
 ascendingly
 azodicarboxylic
