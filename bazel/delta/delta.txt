@@ -162,6 +162,7 @@ depasturable
 dissatisfying
 droughty
 dado
+demurral
 drugstore
 doltishly
 dareall
@@ -13814,7 +13815,6 @@ dissunder
 deflexible
 deerskin
 dialogistically
-demurral
 driftpin
 dramatis
 dogvane
