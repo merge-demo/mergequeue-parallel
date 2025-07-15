@@ -10607,6 +10607,7 @@ amylodyspepsia
 agrypnias
 amylogenic
 aget
+autognostic
 axerophthol
 archoptoma
 attend
@@ -24094,7 +24095,6 @@ autogyros
 adcon
 ambulators
 andiron
-autognostic
 articulus
 acanthocarpous
 axopetal
