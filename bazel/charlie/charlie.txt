@@ -3349,7 +3349,6 @@ captivate
 chrystocrene
 caponising
 camaldolensian
-commissariat
 coderives
 caponize
 crispate
@@ -20766,6 +20765,7 @@ cytode
 complicates
 complicative
 complicator
+commissariat
 complicators
 calesa
 complice
