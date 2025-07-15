@@ -11256,7 +11256,6 @@ chloriamb
 chloriambus
 chloric
 chlorid
-chicanos
 chloridate
 cardol
 conturb
@@ -27298,6 +27297,7 @@ carling
 cleric
 couplings
 chelifer
+chicanos
 cattiness
 coupon
 cornbrash
