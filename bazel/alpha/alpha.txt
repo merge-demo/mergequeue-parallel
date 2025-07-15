@@ -842,7 +842,6 @@ agaves
 araeotic
 absaroka
 allergy
-assertors
 aerosols
 acesodyne
 abscissas
@@ -13782,6 +13781,7 @@ akmudar
 anorectous
 anoretic
 anorexy
+assertors
 alloxyproteic
 anorexics
 anorexigenic
