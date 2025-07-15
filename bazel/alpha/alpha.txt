@@ -11891,6 +11891,7 @@ anaphases
 anaphe
 apperception
 apexing
+autocoherer
 ancille
 anaphylactically
 araliaceae
@@ -24874,7 +24875,6 @@ avower
 amphithect
 astronavigation
 avshar
-autocoherer
 acknown
 ayenbite
 attractableness
