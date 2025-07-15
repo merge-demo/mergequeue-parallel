@@ -1586,7 +1586,6 @@ binate
 ballista
 boilermaker
 basketlike
-beatinest
 beyerite
 ballistician
 brachioganoidei
@@ -4170,6 +4169,7 @@ bulgy
 beastman
 barracoutas
 beastship
+beatinest
 beat
 benches
 beatae
