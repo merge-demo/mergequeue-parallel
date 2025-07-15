@@ -3605,7 +3605,6 @@ blithelike
 batidaceous
 becrowds
 beshouted
-batiking
 boise
 boloneys
 birlinn
@@ -5225,6 +5224,7 @@ beggarhood
 bergamots
 befurbelowed
 birdikin
+batiking
 befurred
 begabled
 bowla
