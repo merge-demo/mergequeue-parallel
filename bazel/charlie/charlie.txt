@@ -667,7 +667,6 @@ cybernated
 caesurae
 caesuric
 caf
-cinefilm
 cafardise
 charka
 chicky
@@ -12990,6 +12989,7 @@ cubs
 cubature
 counterspying
 cyanformate
+cinefilm
 chockful
 chloropal
 consecution
