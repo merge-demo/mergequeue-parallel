@@ -784,7 +784,6 @@ baphometic
 baeria
 baetyl
 begod
-browniness
 bldr
 blautok
 baetulus
@@ -5076,6 +5075,7 @@ basenet
 befezzed
 broiderer
 befile
+browniness
 befilmed
 befilth
 bathoses
