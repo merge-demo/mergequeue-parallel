@@ -1523,6 +1523,7 @@ callipash
 coorieing
 callipees
 calliperer
+curvilinear
 callipering
 callipers
 copopoda
@@ -16309,7 +16310,6 @@ convector
 clinopodium
 conterminous
 constrainment
-curvilinear
 civilise
 citronize
 copsewooded

@@ -5446,7 +5446,6 @@ brooklynite
 bilch
 baviere
 balai
-bandying
 bandura
 basebred
 beheaded
@@ -6729,6 +6728,7 @@ brilliantine
 berkeleianism
 bushelman
 berkelium
+bandying
 berkovets
 berkovtsi
 bedull
