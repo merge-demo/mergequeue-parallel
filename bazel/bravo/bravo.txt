@@ -5274,6 +5274,7 @@ bronzed
 biogeochemistry
 bundlings
 byssin
+banjore
 bigot
 burrier
 beggary
@@ -6821,7 +6822,6 @@ barnumize
 berskin
 balize
 berhyme
-banjore
 bert
 blowhole
 berteroa
