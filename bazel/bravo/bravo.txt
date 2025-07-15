@@ -608,6 +608,7 @@ brooched
 bactericide
 beethoven
 bidget
+bananist
 bacterin
 beggiatoa
 bacteriochlorophyll
@@ -11544,7 +11545,6 @@ blup
 barbs
 blurb
 blurbist
-bananist
 balladries
 budless
 bordellos
