@@ -8831,7 +8831,6 @@ doggies
 dredges
 dipala
 diazoma
-diazomethane
 diazonium
 demethylation
 diazotype
@@ -8958,6 +8957,7 @@ dichloramine
 dichloride
 dichloroacetic
 dichlorodifluoromethane
+diazomethane
 densher
 domiciling
 dharana

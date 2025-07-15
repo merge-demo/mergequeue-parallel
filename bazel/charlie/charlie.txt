@@ -10456,7 +10456,6 @@ chigoes
 chih
 conquered
 coryphaena
-clinocephalic
 courtiery
 chihfu
 cephalograph
@@ -12563,6 +12562,7 @@ committitur
 cadjan
 cranemen
 chromotypy
+clinocephalic
 cynegetics
 chilotomies
 chromotypography
