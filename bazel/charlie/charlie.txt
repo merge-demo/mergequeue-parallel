@@ -7375,7 +7375,6 @@ cephalism
 cephalitis
 cephalization
 cephaloauricular
-cephalobranchiata
 chelicera
 cerusites
 carneys
@@ -17933,6 +17932,7 @@ codpitchings
 carwitchet
 cods
 cephalanthus
+cephalobranchiata
 codswallop
 coueism
 channels

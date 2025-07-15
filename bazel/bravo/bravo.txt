@@ -611,6 +611,7 @@ bidget
 bacterin
 beggiatoa
 bacteriochlorophyll
+buncoing
 bacteriocin
 bathylite
 bostangi
@@ -17315,7 +17316,6 @@ bunchy
 bunchier
 bunchily
 bunchiness
-buncoing
 berthing
 brucellas
 blotches
