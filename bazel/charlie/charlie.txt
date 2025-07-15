@@ -22634,7 +22634,6 @@ connotation
 ceratitoid
 connotations
 connotative
-connotatively
 connote
 crymotherapy
 connoted
@@ -23983,6 +23982,7 @@ convenances
 convene
 comedically
 communaliser
+connotatively
 convened
 convener
 counterexcommunication
