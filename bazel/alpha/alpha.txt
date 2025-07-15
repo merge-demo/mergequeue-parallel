@@ -22338,6 +22338,7 @@ apophyges
 aliments
 astrometeorology
 astrometeorological
+antical
 aforenamed
 ancestrial
 allegorization
@@ -25233,7 +25234,6 @@ azaserine
 aldine
 ammonal
 azelaic
-antical
 azeotrope
 abstrict
 azeotropic
