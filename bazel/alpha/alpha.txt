@@ -7676,6 +7676,7 @@ ambigenous
 alcoholist
 abelicea
 aeneous
+applied
 adaw
 antiromance
 alcoholize
@@ -15073,7 +15074,6 @@ antidromically
 apparance
 antidrug
 anemotropic
-applied
 antiecclesiastic
 analcimes
 abaci
