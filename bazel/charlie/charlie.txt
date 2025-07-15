@@ -376,6 +376,7 @@ citronella
 cacology
 cosseted
 cacomagician
+coastguardsmen
 cacomelia
 cacomistle
 cacomixle
@@ -17383,7 +17384,6 @@ coastguardman
 cheapskates
 contemplator
 coastguardsman
-coastguardsmen
 cacheted
 cruder
 coastland
