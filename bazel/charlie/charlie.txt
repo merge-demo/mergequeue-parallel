@@ -5550,7 +5550,6 @@ catadicrotism
 cartbote
 capitulations
 coenosarcous
-coulometer
 catadioptrical
 catadioptrics
 catadrome
@@ -16556,6 +16555,7 @@ cheddite
 cnidosac
 cloghaun
 cloghead
+coulometer
 carboxyl
 cowsharn
 cosmos
