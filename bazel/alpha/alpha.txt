@@ -8256,6 +8256,7 @@ acquent
 anthropopithecus
 aliening
 alienism
+arability
 alienisms
 alienist
 abulic
@@ -18226,7 +18227,6 @@ articulationes
 arabiyeh
 apparel
 acquisitum
-arability
 arabin
 arabinic
 arabinosic
