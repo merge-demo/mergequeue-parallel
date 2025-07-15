@@ -1019,7 +1019,6 @@ darkmans
 disannexation
 dineutron
 dozily
-daggly
 darkskin
 disseises
 darksomeness
@@ -12242,6 +12241,7 @@ disfurnish
 disfurnished
 dangerless
 desulfurating
+daggly
 deathshot
 dervishes
 disfurniture
