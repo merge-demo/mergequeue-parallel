@@ -6944,7 +6944,6 @@ aphorizer
 ayu
 ayubite
 aminoplast
-avocationally
 aedilities
 acetanisidine
 anatomizes
@@ -12505,6 +12504,7 @@ androgonial
 anemotactic
 augurers
 anemotaxis
+avocationally
 anemotropism
 amandus
 aggregatae
