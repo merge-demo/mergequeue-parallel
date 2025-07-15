@@ -4950,7 +4950,6 @@ bedight
 bosher
 bassos
 beelzebul
-beennut
 beent
 bimedial
 bonework
@@ -5911,6 +5910,7 @@ betaines
 bradmaker
 bellwort
 belock
+beennut
 beloeilite
 basimesostasis
 belomancy
