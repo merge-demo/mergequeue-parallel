@@ -6658,6 +6658,7 @@ aimer
 anc
 alkaliferous
 accredits
+andaste
 aimless
 acropolis
 authorise
@@ -12269,7 +12270,6 @@ andamenta
 allopatric
 astrophotography
 andantino
-andaste
 antiposition
 annunciate
 almicore
