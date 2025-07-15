@@ -12387,7 +12387,6 @@ bombonne
 bombora
 bawls
 beswarmed
-bombus
 bombardelle
 bomi
 bomos
@@ -16323,6 +16322,7 @@ bacchius
 brujeria
 botryolite
 benchmarking
+bombus
 balalaikas
 brujos
 beglerbeglik
