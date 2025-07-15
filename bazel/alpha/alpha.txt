@@ -11308,6 +11308,7 @@ amphithyra
 ana
 amphithyron
 apetalies
+anastrophia
 amphithura
 amphipnous
 ayuntamientos
@@ -12038,7 +12039,6 @@ acrologic
 anastomus
 arugula
 anastrophy
-anastrophia
 advocator
 advisements
 activital
