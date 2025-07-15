@@ -7509,7 +7509,6 @@ degger
 dibase
 dioxin
 disentwine
-denda
 deusan
 dogtrots
 drosera
@@ -13427,6 +13426,7 @@ disgenic
 demultiplexes
 dandelions
 disrecommendation
+denda
 digitalis
 disregard
 demiglace
