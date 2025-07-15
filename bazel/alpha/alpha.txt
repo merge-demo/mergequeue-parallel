@@ -5240,7 +5240,6 @@ acupress
 affirmably
 aplysia
 annet
-achaetous
 arnica
 assisan
 axis
@@ -24454,6 +24453,7 @@ autotoxic
 autotractor
 autotransformer
 autotransplantation
+achaetous
 autostethoscope
 aurotellurite
 aetheric
