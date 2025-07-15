@@ -3444,7 +3444,6 @@ basts
 banuyo
 basural
 bovarism
-basuto
 bancos
 buphaga
 bander
@@ -13138,6 +13137,7 @@ borofluohydric
 boroglycerine
 borohydride
 branchiopulmonata
+basuto
 boronatrocalcite
 borophenylic
 bororoan
