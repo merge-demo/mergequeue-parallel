@@ -3563,7 +3563,6 @@ comatulae
 captor
 capturable
 catechized
-capture
 captured
 captures
 capturing
@@ -14090,6 +14089,7 @@ cytoplasmically
 cypridinoid
 cyprina
 cyprinid
+capture
 cheiromancy
 cyprinids
 cypriniform
