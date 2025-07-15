@@ -5581,6 +5581,7 @@ catalinite
 catalyse
 craterellus
 copr
+classless
 cofactor
 catalyses
 catalyte
@@ -20257,7 +20258,6 @@ costeen
 commorth
 commot
 commotions
-classless
 craziness
 commove
 commoved
