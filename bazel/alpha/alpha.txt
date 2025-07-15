@@ -9212,7 +9212,6 @@ antiethnic
 almuces
 antimilitarism
 almud
-amides
 almude
 advocaat
 ambient
@@ -20135,6 +20134,7 @@ amateurism
 anodon
 arraigned
 aerosats
+amides
 arraigning
 alpines
 allolalic
