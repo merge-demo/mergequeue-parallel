@@ -16663,6 +16663,7 @@ bucker
 belait
 buckers
 befringed
+buttoner
 borosilicate
 bubblelike
 bucketmaking
@@ -18304,7 +18305,6 @@ basaltoid
 buttonbush
 borealis
 bivalve
-buttoner
 buttoners
 buttonholder
 bedel
