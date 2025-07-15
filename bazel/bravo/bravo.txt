@@ -1096,7 +1096,6 @@ bypassed
 brevetted
 bransolder
 bromius
-barless
 baseless
 bloodnoun
 buxine
@@ -13838,6 +13837,7 @@ bituberculated
 bullgine
 binominal
 bidential
+barless
 brewing
 bedplates
 bowerlet
