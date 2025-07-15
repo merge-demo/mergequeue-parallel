@@ -8445,7 +8445,6 @@ chambray
 copei
 colloquist
 calyciferous
-comport
 chambrays
 chambranle
 caressive
@@ -20727,6 +20726,7 @@ complexional
 carioling
 complexionary
 chemiphotic
+comport
 complexioned
 complexionless
 cultivar
