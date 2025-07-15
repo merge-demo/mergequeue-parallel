@@ -9696,7 +9696,6 @@ bejumble
 bismuthous
 belfried
 busking
-balanoglossus
 barway
 beringed
 bismutosphaerite
@@ -10001,6 +10000,7 @@ baroscopical
 bargainor
 biverb
 beblear
+balanoglossus
 bedfast
 bivocal
 bossism
