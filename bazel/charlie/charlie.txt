@@ -6104,7 +6104,6 @@ canaan
 clippable
 catoptrically
 curtise
-catoptrite
 catoptromantic
 catoquina
 chelonidae
@@ -7425,6 +7424,7 @@ cephalopathy
 cephalopharyngeal
 cephalophyma
 cephalophine
+catoptrite
 cryostats
 cervisia
 cryoprobe
