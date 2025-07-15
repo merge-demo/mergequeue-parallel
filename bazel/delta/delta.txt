@@ -5043,7 +5043,6 @@ dramaturgical
 dename
 denaries
 denarinarii
-deluder
 dropshots
 denaro
 dejectedness
@@ -15902,6 +15901,7 @@ doser
 datura
 dogproof
 dosing
+deluder
 dubs
 dosinia
 dehairer
