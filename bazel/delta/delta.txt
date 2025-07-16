@@ -12442,7 +12442,6 @@ dimerlie
 diastereoisomer
 dishome
 dishonor
-distendedness
 dishonorer
 doctrinairism
 deresinize
@@ -16746,6 +16745,7 @@ dewily
 drammocks
 dicey
 desalt
+distendedness
 disclaimer
 disauthorize
 dramshop
