@@ -15103,6 +15103,7 @@ antiejaculation
 alterants
 apsidal
 antiemetic
+angolans
 antiempiric
 antiempirically
 apothecia
@@ -22085,7 +22086,6 @@ allegiare
 azo
 ascensive
 asthmas
-angolans
 asthmatic
 arviculture
 amassed
