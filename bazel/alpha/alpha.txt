@@ -18834,7 +18834,6 @@ anaemia
 appointee
 archidoxis
 archie
-airy
 archmonarchist
 alights
 assemblers
@@ -20266,6 +20265,7 @@ alaloi
 astonied
 auxil
 allotriuria
+airy
 afocal
 arrogates
 attitudinizing
