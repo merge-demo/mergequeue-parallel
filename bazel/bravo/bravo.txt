@@ -2143,7 +2143,6 @@ bewield
 blandfordia
 botrychium
 backup
-blahlaut
 baptisias
 biddy
 bonehead
@@ -12899,6 +12898,7 @@ beauticians
 boost
 bromizes
 bruin
+blahlaut
 biblicolegal
 babassus
 burdenable
