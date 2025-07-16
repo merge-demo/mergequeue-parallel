@@ -4920,6 +4920,7 @@ dishmonger
 discage
 diluting
 dialogist
+darogah
 demonologer
 demonology
 demonologically
@@ -17296,7 +17297,6 @@ droller
 diademing
 drollery
 drolleries
-darogah
 drollest
 doroscentral
 dischase
