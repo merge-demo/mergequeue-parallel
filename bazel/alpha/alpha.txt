@@ -14907,7 +14907,6 @@ anticoagulin
 anticolic
 anticomment
 adiathermic
-appetizers
 abneural
 anticommercialism
 academical
@@ -19912,6 +19911,7 @@ adenofibrosis
 anagnorisis
 apperceived
 arterialized
+appetizers
 anemochoric
 abstrusenesses
 armorless
