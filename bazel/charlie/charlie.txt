@@ -571,6 +571,7 @@ convokes
 colloque
 confort
 caduac
+chasselas
 cruiseway
 commilitant
 catalineta
@@ -741,7 +742,6 @@ causations
 cleaning
 cagers
 corners
-chasselas
 cages
 cocoa
 colonelship
