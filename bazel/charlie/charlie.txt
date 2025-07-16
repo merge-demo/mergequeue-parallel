@@ -10483,7 +10483,6 @@ citification
 commorant
 cheapside
 charlottesville
-cosurety
 chilblained
 chilcat
 child
@@ -27265,6 +27264,7 @@ chlorophane
 countrifiedness
 countryfiedness
 countryfolk
+cosurety
 closewing
 countryman
 congeable
