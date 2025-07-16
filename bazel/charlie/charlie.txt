@@ -4265,7 +4265,6 @@ careme
 carene
 carer
 chyometer
-capsulotome
 caress
 cir
 caressed
@@ -22174,6 +22173,7 @@ chickee
 confusion
 confusions
 confusticate
+capsulotome
 clapmatch
 confustication
 confutability
