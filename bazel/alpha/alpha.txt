@@ -19091,7 +19091,6 @@ archwag
 archways
 arceuthobium
 anciens
-arcifera
 arcifinious
 arciform
 archoptosis
@@ -19899,6 +19898,7 @@ armload
 armlock
 armonicas
 armor
+arcifera
 armoracia
 akuammin
 adonises
