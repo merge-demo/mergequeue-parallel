@@ -1215,6 +1215,7 @@ datebook
 dibstones
 drivehead
 disembarkation
+damnation
 disemplane
 disobligation
 dateless
@@ -16931,7 +16932,6 @@ dolcinist
 diarrheic
 delirament
 dreamscape
-damnation
 dreamsy
 displeasingness
 devisability
