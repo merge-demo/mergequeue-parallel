@@ -11626,7 +11626,6 @@ anacusis
 anadems
 anadenia
 anadesm
-anadicrotism
 anadidymus
 antimasonic
 anadyomene
@@ -24911,6 +24910,7 @@ apetaloid
 awake
 awakeable
 awakened
+anadicrotism
 alkermes
 algometer
 alopekai
