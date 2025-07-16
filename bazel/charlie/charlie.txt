@@ -7957,7 +7957,6 @@ ceterach
 cetes
 ceti
 cetic
-cocytus
 ceticide
 chitinization
 cetyl
@@ -30151,6 +30150,7 @@ crucial
 contraceptionist
 cruciality
 crucially
+cocytus
 courge
 crucian
 crucianella
