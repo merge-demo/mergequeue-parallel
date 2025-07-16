@@ -9101,7 +9101,6 @@ deafest
 dictyogen
 dictyoid
 diction
-disparage
 defang
 demifarthing
 dermatophobia
@@ -17756,6 +17755,7 @@ disposer
 drunt
 dispossessed
 ducaton
+disparage
 ducats
 dewiness
 ducdame
