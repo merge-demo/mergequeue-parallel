@@ -17351,6 +17351,7 @@ avoirdupois
 apostrophied
 aways
 amplification
+adenylpyrophosphate
 anticrotalic
 apostrophising
 apostrophize
@@ -21330,7 +21331,6 @@ aslant
 aglethead
 aslaver
 antidraft
-adenylpyrophosphate
 asleep
 aslumber
 arolla

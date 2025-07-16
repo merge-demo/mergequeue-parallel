@@ -2937,6 +2937,7 @@ chestily
 chorioids
 cantdog
 cantdogs
+cottonseeds
 compensatively
 cantefable
 childlier
@@ -26507,7 +26508,6 @@ cottonocracy
 cottonseed
 clotheshorse
 chalcedonies
-cottonseeds
 camomile
 cephalopodic
 cottontails
