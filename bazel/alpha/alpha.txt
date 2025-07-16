@@ -9891,6 +9891,7 @@ augurs
 amassment
 areaways
 argean
+averments
 acetonization
 amateur
 arietid
@@ -24658,7 +24659,6 @@ averment
 annuli
 acinetarian
 anopheline
-averments
 admove
 aureolae
 aeneid
