@@ -1480,7 +1480,6 @@ boyarisms
 blighter
 balkish
 bodaciously
-bahadurs
 beggar
 boroglycerate
 barras
@@ -8834,6 +8833,7 @@ buckbean
 bari
 banalities
 bromothymol
+bahadurs
 battery
 bedrivels
 bummalos
