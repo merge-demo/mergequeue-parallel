@@ -147,7 +147,6 @@ anhinga
 alloyed
 axles
 abators
-apar
 abattised
 abattises
 antiracism
@@ -17864,6 +17863,7 @@ aborting
 apprizer
 apprizers
 apprizes
+apar
 apprizing
 appro
 amate
