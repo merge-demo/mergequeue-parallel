@@ -2761,7 +2761,6 @@ daddies
 disheritor
 drawhorse
 decousu
-dives
 deceptious
 dihydrate
 decrassified
@@ -3835,6 +3834,7 @@ defail
 denigrative
 donkey
 dialyzator
+dives
 dicier
 disjecting
 duplexed
