@@ -4559,7 +4559,6 @@ benzylpenicillin
 bemingles
 bowelless
 betrunk
-buckteeth
 buglewort
 bicellular
 backjaw
@@ -17825,6 +17824,7 @@ boddle
 berkowitz
 bunkerman
 bursiculate
+buckteeth
 bursitis
 bestialise
 benzbitriazole
