@@ -9356,7 +9356,6 @@ conjunctive
 chaudfroid
 chauffage
 chauffer
-chauffeured
 chauffeuring
 crankplate
 chauffeurship
@@ -25236,6 +25235,7 @@ coryphee
 coryphene
 coryphodon
 camachile
+chauffeured
 choledochectomy
 corystoid
 corita
