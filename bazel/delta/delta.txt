@@ -2034,7 +2034,6 @@ degamis
 dentatocrenate
 dayward
 damageableness
-decahedrons
 dominical
 decahydronaphthalene
 dramaturge
@@ -18368,6 +18367,7 @@ departmentalizes
 duodenocholecystostomy
 duodenocholedochotomy
 defossion
+decahedrons
 depolishing
 diaphanoscope
 desecrating
