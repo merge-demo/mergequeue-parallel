@@ -10870,7 +10870,6 @@ culvert
 chipmunk
 claviharp
 chipmunks
-chrysochrous
 chipolata
 coleopteroid
 cordwain
@@ -22840,6 +22839,7 @@ cognateness
 clamourer
 consertion
 chemophysiological
+chrysochrous
 conservacy
 conservancy
 coutelle
