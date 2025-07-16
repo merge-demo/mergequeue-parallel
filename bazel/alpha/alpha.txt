@@ -7845,6 +7845,7 @@ angiospermae
 alectoromancy
 amphibiological
 alectoropodous
+asclepiadean
 alectryomachy
 arrentable
 alectryomancy
@@ -20993,7 +20994,6 @@ asclepiadaceae
 asclepiadae
 acerbating
 aircheck
-asclepiadean
 asclepiadic
 autosender
 asclepian
