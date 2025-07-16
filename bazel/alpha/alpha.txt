@@ -2723,6 +2723,7 @@ ammonation
 acroarthritis
 acroasphyxia
 acroatic
+acquired
 acrobacy
 alfurese
 arrestant
@@ -17822,7 +17823,6 @@ anaclisis
 andamento
 ascots
 amblers
-acquired
 apprehending
 algraphy
 awan
