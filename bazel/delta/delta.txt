@@ -7902,7 +7902,6 @@ dooryard
 dissymmetrical
 dewflower
 distantly
-doxographer
 doh
 dewing
 disjoin
@@ -14061,6 +14060,7 @@ dishorner
 dragging
 depravation
 decommissioning
+doxographer
 dyspepsies
 draughtman
 distributary

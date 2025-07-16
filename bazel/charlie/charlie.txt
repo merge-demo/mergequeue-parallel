@@ -3805,6 +3805,7 @@ carbohemoglobin
 calamodendron
 cribbling
 carbohydrase
+conchoidal
 cannibalism
 carbohydrate
 cardiotrophia
@@ -14608,7 +14609,6 @@ compactions
 compotier
 cystic
 cabuja
-conchoidal
 cysticercerci
 cysticerci
 chondrule
