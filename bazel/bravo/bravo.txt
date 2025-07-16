@@ -555,7 +555,6 @@ bipartible
 blastema
 befriendment
 biggishness
-batrachium
 bunt
 baccharis
 brith
@@ -4083,6 +4082,7 @@ beanstalk
 begrain
 boehmenist
 bestiaries
+batrachium
 boondoggles
 behalves
 bearbaiter
