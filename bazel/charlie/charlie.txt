@@ -104,7 +104,6 @@ cabezone
 cabful
 cabiai
 canephorus
-cronish
 cabildo
 cabildos
 cabin
@@ -26721,6 +26720,7 @@ counterbore
 counterbored
 celandine
 counterborer
+cronish
 counterboring
 counterboulle
 counterbracing
