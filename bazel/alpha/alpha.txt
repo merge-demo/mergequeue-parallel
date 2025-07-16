@@ -8775,7 +8775,6 @@ askant
 anglist
 anticeremonially
 allie
-allied
 allies
 alligated
 acceders
@@ -13110,6 +13109,7 @@ animalillio
 arracacia
 adenostemonous
 androgametangium
+allied
 animalise
 animando
 animalising
