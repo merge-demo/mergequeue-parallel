@@ -990,6 +990,7 @@ darked
 darkeys
 darkens
 disruptions
+disformity
 deformeter
 delusory
 daffling
@@ -2003,7 +2004,6 @@ desugars
 decaedron
 decaffeinate
 depicted
-disformity
 decaffeinize
 decury
 disregardable

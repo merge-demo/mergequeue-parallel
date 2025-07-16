@@ -3015,6 +3015,7 @@ beigel
 belee
 beckons
 brimmers
+butomus
 beachhead
 bartonella
 backswordsman
@@ -17759,7 +17760,6 @@ browsage
 bravadoes
 burped
 blucher
-butomus
 blackishly
 broodless
 biostatistic
