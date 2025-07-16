@@ -4947,7 +4947,6 @@ bioclimatologies
 beekeepers
 beekeeping
 bedight
-bosher
 bassos
 beelzebul
 beennut
@@ -15455,6 +15454,7 @@ bolshevistically
 besnuff
 brindlish
 bryndza
+bosher
 bleaters
 balloonfish
 bearskins
