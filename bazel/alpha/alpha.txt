@@ -17702,7 +17702,6 @@ applicative
 applicatively
 applicatory
 applicators
-appliedly
 afterdischarge
 applier
 adoxies
@@ -23709,6 +23708,7 @@ arrent
 auslaute
 auspex
 anisopodous
+appliedly
 acetifier
 avowance
 alto
