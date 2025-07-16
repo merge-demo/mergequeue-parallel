@@ -3145,7 +3145,6 @@ bashyle
 balanopsidales
 baka
 baptisin
-berylloid
 bataleur
 bashmuric
 biperforate
@@ -6083,6 +6082,7 @@ brainless
 ben
 biostatistics
 benacus
+berylloid
 benamee
 breadboard
 botanizing
