@@ -1525,6 +1525,7 @@ callipees
 calliperer
 callipering
 callipers
+cosinusoid
 copopoda
 cocanucos
 crystal
@@ -6993,7 +6994,6 @@ crowdedness
 confects
 cenesthetic
 cotyligerous
-cosinusoid
 cenizo
 cenobe
 codable
