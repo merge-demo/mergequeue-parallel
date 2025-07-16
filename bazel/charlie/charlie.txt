@@ -2107,7 +2107,6 @@ captivator
 campanular
 campanulariae
 campanularidae
-campanulatae
 campanulate
 chondrosarcomata
 campanulous
@@ -3873,6 +3872,7 @@ consultively
 courie
 carbonylene
 chalukyan
+campanulatae
 carbonimeter
 carbonimide
 choultries
