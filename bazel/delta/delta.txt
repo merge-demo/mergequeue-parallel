@@ -2693,7 +2693,6 @@ demitrain
 deconsideration
 decontaminates
 decontaminating
-diatessaron
 dortiness
 dejectly
 decontaminators
@@ -5384,6 +5383,7 @@ demonio
 diazenithal
 dentinalgia
 donnees
+diatessaron
 disgruntle
 dawned
 denting
