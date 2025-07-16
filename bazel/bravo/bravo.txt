@@ -6919,7 +6919,6 @@ beseemliness
 beseems
 beseen
 burglariously
-bajan
 burgundian
 bazaar
 bedrugging
@@ -8188,6 +8187,7 @@ benefice
 bathroom
 bienvenue
 bayaderes
+bajan
 burfish
 bier
 broid
