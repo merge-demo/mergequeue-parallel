@@ -2627,6 +2627,7 @@ barkless
 battening
 bandusia
 barkometer
+basifacial
 bescorch
 batrachite
 beeth
@@ -3867,7 +3868,6 @@ bezels
 bodyhood
 bidding
 beforesaid
-basifacial
 bawneen
 bawra
 barklyite
