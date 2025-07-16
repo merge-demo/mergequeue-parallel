@@ -15663,7 +15663,6 @@ antirun
 apolline
 aurothiosulphate
 antiparallel
-androidal
 algieba
 amphitokous
 antiparallelogram
@@ -17963,6 +17962,7 @@ aggrandise
 alemonger
 anchoritism
 agt
+androidal
 agnomination
 arnatta
 anglimaniac
