@@ -21462,7 +21462,6 @@ ambiances
 asphyxia
 arretine
 apotypic
-asphyxias
 auxoaction
 asphyxiated
 antiphase
@@ -24506,6 +24505,7 @@ anywhereness
 auxiliary
 armsize
 abhor
+asphyxias
 aerophile
 auxiliaries
 androcracy
