@@ -15967,7 +15967,6 @@ conics
 coadministration
 coryphylly
 cobelligerent
-cold
 cleptomaniac
 clerestoried
 cliched
@@ -25834,6 +25833,7 @@ corollas
 corruptious
 cattily
 contretemps
+cold
 corruptive
 corruptively
 coprinae
