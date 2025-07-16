@@ -3852,7 +3852,6 @@ adjoinant
 anticipated
 angoumian
 agaphite
-adjoinedly
 analphabetism
 apprises
 amalgamating
@@ -5154,6 +5153,7 @@ affectibility
 affecting
 acrorhagus
 affectingly
+adjoinedly
 antitangent
 affection
 apostasies
