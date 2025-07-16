@@ -15921,7 +15921,6 @@ antiquarian
 antiquarianism
 antelope
 anticonscience
-axeman
 avulses
 andantes
 antiquarianize
@@ -25288,6 +25287,7 @@ archaistic
 arvicola
 adenofibroma
 allthorn
+axeman
 abeyant
 asymmetrical
 atmospheric
