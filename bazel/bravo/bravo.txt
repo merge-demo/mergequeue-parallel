@@ -8753,6 +8753,7 @@ blightbird
 beagling
 behests
 barycentre
+biometry
 birchen
 binal
 bedrown
@@ -16593,7 +16594,6 @@ beltings
 blastogeny
 bilaminated
 buccin
-biometry
 berascals
 bousy
 botryogen
