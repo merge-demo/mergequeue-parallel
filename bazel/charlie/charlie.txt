@@ -21384,7 +21384,6 @@ concionator
 coydog
 concionatory
 credulously
-conciseness
 clocks
 cosponsor
 concision
@@ -27780,6 +27779,7 @@ coxcombity
 coxcomically
 cenobitical
 cytocentrum
+conciseness
 coxed
 cissing
 commie
