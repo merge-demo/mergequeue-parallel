@@ -5568,7 +5568,6 @@ catalects
 cycledom
 cedre
 comicoprosaic
-crushingly
 catalepsis
 catalexes
 catalexis
@@ -13990,6 +13989,7 @@ chemoreceptivities
 cynophobe
 cynophobia
 counterchange
+crushingly
 cynopithecidae
 cynopithecoid
 cynorrhoda
