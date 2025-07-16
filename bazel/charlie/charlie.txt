@@ -123,6 +123,7 @@ cabinetworker
 cabinetworking
 cabinlike
 crafter
+customable
 cabio
 chemisorptive
 costotransverse
@@ -299,7 +300,6 @@ caciques
 cosmolined
 countenances
 construers
-customable
 cornflakes
 caciquism
 cacked
