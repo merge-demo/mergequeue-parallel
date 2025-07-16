@@ -9433,6 +9433,7 @@ cowedly
 chaw
 chawbacon
 chawbuck
+comparators
 chawdron
 cornerwise
 chawer
@@ -31910,7 +31911,6 @@ cuvettes
 cuvy
 cuzceno
 cwierc
-comparators
 carbolineate
 coleopttera
 cotyledonar
