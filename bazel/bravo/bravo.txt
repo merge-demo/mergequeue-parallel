@@ -6472,7 +6472,6 @@ biternate
 benzothiofuran
 benzothiophene
 benzotrichloride
-bolection
 benzoxyacetic
 blanchers
 bisulcate
@@ -13810,6 +13809,7 @@ baseplate
 brachychronic
 blabberer
 benjamite
+bolection
 butters
 biocides
 bywoner

@@ -5608,7 +5608,6 @@ cariousness
 centi
 crochet
 catalogia
-contractible
 catalogical
 carking
 choiceless
@@ -11247,6 +11246,7 @@ chuffier
 curtail
 christiania
 chlorenchyma
+contractible
 coassistance
 chlorguanide
 chlorhexidine
