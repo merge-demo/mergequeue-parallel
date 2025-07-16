@@ -5025,6 +5025,7 @@ desexing
 deposed
 dinamode
 decussion
+dissolvable
 delustered
 diplopy
 duellers
@@ -5883,7 +5884,6 @@ diachoresis
 demeaning
 disconcert
 deprecative
-dissolvable
 deprecator
 deprecatory
 deoxidised
