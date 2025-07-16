@@ -5790,7 +5790,6 @@ deaconed
 depolishes
 depoliticized
 donia
-depoliticizes
 dredged
 dreck
 depones
@@ -8890,6 +8889,7 @@ dropperful
 dovens
 dibstone
 degustation
+depoliticizes
 doziness
 depthwise
 dibutyrin
