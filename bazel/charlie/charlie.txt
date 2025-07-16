@@ -9353,7 +9353,6 @@ creditableness
 chauchat
 cuorin
 conjunctive
-chaudfroid
 chauffage
 chauffer
 chauffeured
@@ -30772,6 +30771,7 @@ conchitic
 culches
 ceroon
 culerage
+chaudfroid
 christmastide
 childbeds
 chousing
