@@ -2323,7 +2323,6 @@ bathonian
 barbierite
 busyish
 bromite
-briber
 barbita
 barbital
 brighteners
@@ -10776,6 +10775,7 @@ beavered
 boody
 bibulus
 biorhythmic
+briber
 bronchomotor
 bleo
 barbicanage
