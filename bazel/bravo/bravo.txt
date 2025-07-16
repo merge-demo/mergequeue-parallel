@@ -6900,7 +6900,6 @@ bescreening
 beseige
 biliverdic
 bescribble
-botchers
 bescutcheon
 bondservant
 basalia
@@ -12203,6 +12202,7 @@ blamable
 bollock
 bema
 brachiate
+botchers
 beginner
 bolloxes
 bolls
