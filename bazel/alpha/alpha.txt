@@ -15909,6 +15909,7 @@ anagram
 antipsalmist
 acidimeter
 armill
+abscession
 accidia
 antipsychotic
 angloman
@@ -17585,7 +17586,6 @@ adjoining
 appentice
 arouser
 adjudges
-abscession
 antimask
 andreaeaceae
 appenzell
