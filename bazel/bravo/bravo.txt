@@ -11090,7 +11090,6 @@ borborygmic
 benzimidazole
 biomorphic
 broil
-baobabs
 blockmaker
 bimmeler
 blockpate
@@ -13894,6 +13893,7 @@ beedi
 bowles
 balwarra
 bowlful
+baobabs
 bowly
 breastworks
 bowlike
