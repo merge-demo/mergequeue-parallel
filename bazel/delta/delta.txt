@@ -982,6 +982,7 @@ dekadarchy
 daringness
 dit
 darings
+dismail
 dithematic
 darius
 doubleprecision
@@ -12811,7 +12812,6 @@ dismayfully
 diathermancy
 doubty
 diploes
-dismail
 dismal
 dialogs
 dorsomedian
