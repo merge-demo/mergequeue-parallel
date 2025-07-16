@@ -9387,7 +9387,6 @@ butterflying
 brimse
 basidial
 boastless
-buriti
 baronetship
 bullyrook
 bulges
@@ -15162,6 +15161,7 @@ backslash
 batwa
 bribing
 bellowsmaker
+buriti
 bloater
 breastplough
 blunted
