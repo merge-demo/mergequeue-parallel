@@ -16338,7 +16338,6 @@ carnivaller
 clypeate
 conspicuous
 caraco
-clypeated
 clypeiform
 clypeola
 clypeolar
@@ -28620,6 +28619,7 @@ cavillation
 cornball
 cremaster
 calendarian
+clypeated
 cremasterial
 cremasteric
 cremate

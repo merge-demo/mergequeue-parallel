@@ -6055,7 +6055,6 @@ dodge
 deputational
 doctus
 driegh
-dandiprat
 deputationize
 deliberatively
 dealkalize
@@ -16775,6 +16774,7 @@ draughtboard
 daub
 draughtier
 divulsive
+dandiprat
 decastylos
 darg
 decrials
