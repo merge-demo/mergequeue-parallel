@@ -1335,7 +1335,6 @@ capitulatory
 cabellerote
 calycled
 curveted
-cistvaen
 cossyrite
 calicles
 calycles
@@ -6705,6 +6704,7 @@ clamoring
 celestine
 ceilers
 ceilidh
+cistvaen
 ceilidhe
 connexivum
 ceiling
