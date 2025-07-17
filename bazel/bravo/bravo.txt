@@ -484,7 +484,6 @@ broomier
 backspang
 bibliothecal
 boatbill
-backspier
 besom
 beseeched
 betatron
@@ -4233,6 +4232,7 @@ begaud
 begat
 beardless
 benthamic
+backspier
 beautified
 bathomania
 beautifier
