@@ -3187,7 +3187,6 @@ dummkopf
 defedation
 dictums
 dasyures
-damselflies
 dudelsack
 dashpot
 defeit
@@ -7747,6 +7746,7 @@ devirginate
 deils
 dram
 digger
+damselflies
 dysarthrosis
 defoliage
 devise
