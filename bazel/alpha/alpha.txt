@@ -10073,7 +10073,6 @@ attractant
 absinthic
 amblyomma
 abrupt
-angrier
 amblyopic
 amblyoscope
 arles
@@ -15588,6 +15587,7 @@ ardently
 attacked
 allegorister
 arcus
+angrier
 awfulness
 archangels
 antinome
