@@ -6920,7 +6920,6 @@ beseems
 beseen
 burglariously
 bajan
-burgundian
 bazaar
 bedrugging
 barchan
@@ -15412,6 +15411,7 @@ bullule
 brilliantly
 brilliants
 brilliantwise
+burgundian
 brilliolette
 brills
 baculites
