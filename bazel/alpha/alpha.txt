@@ -12409,7 +12409,6 @@ aberrometer
 animalia
 aneared
 arnement
-admensuration
 anecdysis
 antianaphylactogen
 algesis
@@ -20640,6 +20639,7 @@ acidimetrical
 aspirates
 arefy
 austerus
+admensuration
 allude
 asterion
 articulacy
