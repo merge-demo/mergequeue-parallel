@@ -8169,7 +8169,6 @@ albino
 autecological
 antipyic
 algorithmic
-algorithmically
 alguifou
 alhagi
 apprehends
@@ -20690,6 +20689,7 @@ acquitment
 artifactitious
 altitonant
 artifacts
+algorithmically
 artifactually
 artifex
 aerobiology
