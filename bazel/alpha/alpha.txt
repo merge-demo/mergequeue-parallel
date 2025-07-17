@@ -17957,7 +17957,6 @@ atomy
 approximativeness
 allods
 approximator
-appt
 arteriotomy
 aggrandise
 alemonger
@@ -24575,6 +24574,7 @@ avalanche
 amantadine
 avalanches
 avalanching
+appt
 assortive
 avalent
 avalon
