@@ -4382,6 +4382,7 @@ backswing
 brise
 bonairness
 brolly
+bugeyed
 bagne
 breakwater
 behoney
@@ -15090,7 +15091,6 @@ breviloquent
 bushhammer
 breviradiate
 blithely
-bugeyed
 brevit
 battalia
 brevity
