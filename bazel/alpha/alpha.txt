@@ -11057,7 +11057,6 @@ anathematiser
 amovable
 acronarcotic
 abatic
-amove
 amylolytic
 ampangabeite
 archsin
@@ -13714,6 +13713,7 @@ ayegreen
 anomuran
 abhorrer
 anonaceous
+amove
 animalised
 assertrix
 acanthaceae
