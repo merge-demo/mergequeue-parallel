@@ -16410,6 +16410,7 @@ clitch
 clite
 counterplea
 clites
+conceals
 cleridae
 clithe
 clithral
@@ -21139,7 +21140,6 @@ concealedness
 concealer
 concealing
 consolatoriness
-conceals
 coleopteran
 concededly
 couplets
