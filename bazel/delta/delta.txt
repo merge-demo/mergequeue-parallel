@@ -1454,7 +1454,6 @@ dazes
 dazy
 dazzle
 dawnstreak
-discriminative
 diffusor
 dasypaedal
 discolorated
@@ -11234,6 +11233,7 @@ developpe
 divinity
 disboweling
 disbowelled
+discriminative
 disbranch
 duffies
 disbranched
