@@ -906,7 +906,6 @@ bdellotomy
 bowstaff
 bagpipers
 bandyball
-bardiglio
 bismarine
 boscage
 bagrationite
@@ -4323,6 +4322,7 @@ beccafico
 buttressing
 beccaficoes
 bealtuinn
+bardiglio
 beccaficos
 becchi
 bpi
