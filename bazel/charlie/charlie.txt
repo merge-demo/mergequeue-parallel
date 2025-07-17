@@ -16269,7 +16269,6 @@ coliform
 camphorize
 clinocephaly
 clinocephalous
-canonicalness
 charlatanically
 cobrother
 clinoclasite
@@ -28297,6 +28296,7 @@ cratering
 comatik
 cerithioid
 craterkin
+canonicalness
 chromites
 craterless
 craterlet
