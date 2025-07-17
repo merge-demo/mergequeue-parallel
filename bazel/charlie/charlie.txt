@@ -5963,7 +5963,6 @@ cathect
 cathected
 cathection
 cathects
-cathedra
 cathedraled
 cathedralesque
 cavorter
@@ -18466,6 +18465,7 @@ cograil
 conjecture
 chilipepper
 crestmoreite
+cathedra
 chaogenous
 coguarantor
 chaotical
