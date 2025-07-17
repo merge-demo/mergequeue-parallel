@@ -5348,7 +5348,6 @@ beerage
 begnaw
 biharmonic
 balmy
-bult
 ballroom
 begone
 boxlike
@@ -9745,6 +9744,7 @@ bioenergetics
 beside
 boatie
 byssoid
+bult
 buckskin
 bedragglement
 bissonata
