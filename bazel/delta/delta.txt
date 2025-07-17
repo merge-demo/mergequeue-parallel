@@ -3448,7 +3448,6 @@ doigte
 defluvium
 demimark
 dang
-defoamed
 diacetylmorphine
 damozels
 defoamer
@@ -7092,6 +7091,7 @@ dermophyte
 disincentive
 destinism
 decretion
+defoamed
 deriv
 dicyemid
 drowsed
