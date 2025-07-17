@@ -15338,7 +15338,6 @@ bother
 brigadier
 brachypterous
 brigandine
-bandhu
 brigantia
 brigantines
 brigatry
@@ -17307,6 +17306,7 @@ bore
 bathochromatism
 benzotrifluoride
 bopyrus
+bandhu
 buddling
 boutel
 bucoliast
