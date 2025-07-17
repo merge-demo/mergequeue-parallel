@@ -8909,7 +8909,6 @@ dicaryon
 dacoits
 delectation
 dicaryotic
-dicastery
 dichotomist
 dicasteries
 dicastic
@@ -16815,6 +16814,7 @@ dissenters
 dreeing
 disconsonant
 difficult
+dicastery
 drawcut
 devex
 drawee
