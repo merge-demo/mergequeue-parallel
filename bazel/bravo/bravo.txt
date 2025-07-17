@@ -7956,7 +7956,6 @@ buibui
 biblus
 banate
 boanbura
-balistraria
 borborygmi
 bodymaker
 billing
@@ -16793,6 +16792,7 @@ babungera
 briony
 banging
 blaffert
+balistraria
 brachycephaly
 buffa
 brumbee
