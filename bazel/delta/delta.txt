@@ -13154,6 +13154,7 @@ dondia
 dismasting
 dispersonification
 dispetal
+discriminable
 dysphasia
 damps
 diplophonia
@@ -17716,7 +17717,6 @@ dampener
 dubbin
 disused
 demipauldron
-discriminable
 dedifferentiation
 decanonization
 dubbins
