@@ -919,7 +919,6 @@ bagsful
 bequirtle
 bazookaman
 bassalian
-barbeled
 bravely
 bidarkas
 beseemingly
@@ -13829,6 +13828,7 @@ bdl
 bashilange
 bulbuls
 bemuddy
+barbeled
 baggy
 brephic
 bowelling
