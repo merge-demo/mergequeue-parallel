@@ -620,7 +620,6 @@ acacetin
 abolisher
 anagraph
 atelomitic
-anathematism
 abolishers
 astigmatism
 alastrim
@@ -4122,6 +4121,7 @@ adod
 aullay
 adolescence
 ascabart
+anathematism
 adolescent
 argentarii
 apasote
