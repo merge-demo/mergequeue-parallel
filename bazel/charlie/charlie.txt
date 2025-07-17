@@ -9956,7 +9956,6 @@ chemotherapy
 calqued
 chemotherapist
 countersignatures
-carcinomas
 crackjaw
 chemotic
 cephalotaceous
@@ -11603,6 +11602,7 @@ countermeasure
 cholecystenterorrhaphy
 cholecystenterostomy
 cholecystgastrostomy
+carcinomas
 carburisation
 cholecystic
 cholecystis
