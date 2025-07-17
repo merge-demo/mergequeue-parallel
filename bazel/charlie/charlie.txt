@@ -4336,7 +4336,6 @@ cestracion
 chytridiales
 concertstck
 caribe
-cauterised
 caribed
 calyphyomy
 corrupted
@@ -14986,6 +14985,7 @@ citraconate
 citral
 cambaye
 citramontane
+cauterised
 cothurns
 citrangeade
 carronade
