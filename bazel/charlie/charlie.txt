@@ -15235,7 +15235,6 @@ catamneses
 centipede
 conforms
 cade
-curtailments
 clairseach
 caplan
 carpetwork
@@ -27121,6 +27120,7 @@ countrywide
 countersinks
 countersleight
 countersnarl
+curtailments
 counterspy
 counterspies
 coverage
