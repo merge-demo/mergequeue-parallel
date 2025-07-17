@@ -4569,7 +4569,6 @@ ballplayer
 benzoylglycine
 barks
 besuit
-bundeli
 borborus
 bedaubing
 bloodstone
@@ -12549,6 +12548,7 @@ balsamroot
 bourgeoning
 brails
 brontogram
+bundeli
 bridehead
 boniface
 bonification

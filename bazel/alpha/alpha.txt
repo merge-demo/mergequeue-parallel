@@ -7015,6 +7015,7 @@ adoniram
 armature
 althorns
 avick
+ammeline
 aphyllous
 autoist
 attiring
@@ -11595,7 +11596,6 @@ agglutinationist
 amal
 anacleticum
 addleplot
-ammeline
 anacoenoses
 acepots
 anacolutha
