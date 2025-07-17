@@ -10540,7 +10540,6 @@ chakar
 chiliastic
 chiliasts
 chilicote
-chilidogs
 coropo
 chylidrosis
 coevolutionary
@@ -28796,6 +28795,7 @@ crescentlike
 crescentoid
 crescents
 crescentwise
+chilidogs
 crescively
 cantino
 cresegol
