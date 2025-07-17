@@ -15093,6 +15093,7 @@ blithely
 bugeyed
 brevit
 battalia
+borderless
 brevity
 brevities
 bretwalda
@@ -16813,7 +16814,6 @@ brachyprism
 buffeted
 brotchen
 botchiness
-borderless
 buffeters
 bistros
 boldheartedness
