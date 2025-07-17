@@ -11600,7 +11600,6 @@ cholecystectomized
 clammier
 chimachima
 countermeasure
-cholecystenterorrhaphy
 cholecystenterostomy
 cholecystgastrostomy
 carburisation
@@ -30666,6 +30665,7 @@ chuppoth
 cuddies
 cuddyhole
 cheero
+cholecystenterorrhaphy
 cuddleable
 cuddled
 cuddlesome
