@@ -6424,6 +6424,7 @@ benzoglyoxaline
 bastioned
 benzohydrol
 benzoylated
+bolti
 becuna
 benzoylation
 benzoinated
@@ -13247,7 +13248,6 @@ baromacrometer
 bossed
 boanergean
 bosselation
-bolti
 barysphere
 buffbar
 broadest
