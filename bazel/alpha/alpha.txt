@@ -3354,7 +3354,6 @@ algetic
 aseethe
 adaptions
 adaptitude
-azurite
 adaptive
 amortizement
 attending
@@ -8599,6 +8598,7 @@ allantoides
 allantoin
 associationalism
 analyzer
+azurite
 allantoinase
 ampullosity
 allantoinuria
