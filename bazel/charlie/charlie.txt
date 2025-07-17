@@ -2479,7 +2479,6 @@ certitude
 clang
 cacodemonic
 cassidony
-colloidally
 circumnatant
 candescence
 candy
@@ -15459,6 +15458,7 @@ clarendon
 clares
 claret
 cervantes
+colloidally
 cheerio
 coppas
 clary
