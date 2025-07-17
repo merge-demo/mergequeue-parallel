@@ -7050,7 +7050,6 @@ akha
 angus
 archaeornis
 akhara
-andante
 akhyana
 astrild
 anecdotalist
@@ -15986,6 +15985,7 @@ antirealism
 antirealist
 askoye
 angekut
+andante
 arbitrageur
 antirealistically
 asyndetically
