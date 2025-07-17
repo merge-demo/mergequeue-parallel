@@ -2210,6 +2210,7 @@ cheiropodist
 camponotus
 coteline
 counterhammering
+chalukya
 campos
 conuropsis
 circumfusile
@@ -10000,7 +10001,6 @@ chequer
 chequered
 chequers
 creosoted
-chalukya
 chequerwork
 chequin
 cherchez
