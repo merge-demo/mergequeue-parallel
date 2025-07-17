@@ -16932,7 +16932,6 @@ aplanatic
 aplanatism
 ately
 airways
-aplanogamete
 aplasia
 areally
 antifermentative
@@ -23944,6 +23943,7 @@ ambiences
 afterbay
 autocarpian
 achatinella
+aplanogamete
 autocarpic
 acenaphthenyl
 anatherum
