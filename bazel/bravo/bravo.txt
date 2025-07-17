@@ -2526,6 +2526,7 @@ burmite
 brillolette
 barid
 bronchostenosis
+brattish
 bereaving
 burgus
 barye
@@ -8665,7 +8666,6 @@ braches
 bilophodont
 boshvark
 baxterian
-brattish
 boiko
 barbecues
 bilos
