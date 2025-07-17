@@ -10586,7 +10586,6 @@ diatomean
 diacrisis
 diplococcemia
 disleaf
-dermatomycosis
 digammate
 dashiki
 denote
@@ -14498,6 +14497,7 @@ dihelios
 decoupling
 deckhouse
 degauss
+dermatomycosis
 diphyzooid
 devitaminize
 deliveries
