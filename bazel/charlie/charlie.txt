@@ -1346,7 +1346,6 @@ calicoback
 configurate
 calycocarpum
 calicoes
-calycoideous
 concur
 colourlessness
 calycozoa
@@ -22091,6 +22090,7 @@ chowders
 conformationally
 couvert
 conformations
+calycoideous
 conformator
 conformed
 conformer
