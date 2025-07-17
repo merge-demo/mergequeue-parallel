@@ -6986,7 +6986,6 @@ cenation
 cencerro
 coumarane
 chappe
-cenesthesis
 cletch
 christmasberry
 crowdedness
@@ -11004,6 +11003,7 @@ chiropraxis
 contraposita
 chiroptera
 chiropterygian
+cenesthesis
 chiropterite
 chiros
 chirospasm
