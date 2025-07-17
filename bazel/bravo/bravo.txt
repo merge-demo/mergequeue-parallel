@@ -3502,7 +3502,6 @@ bogglish
 broadax
 batete
 brabbling
-balotade
 blue
 byroads
 batfishes
@@ -8325,6 +8324,7 @@ bakepan
 barbarous
 brahmani
 biliate
+balotade
 biggy
 biggie
 beribboned
