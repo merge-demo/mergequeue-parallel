@@ -6448,6 +6448,7 @@ cavalero
 cardinalist
 curarizes
 cavalier
+celomata
 cavaliere
 choregic
 cation
@@ -6903,7 +6904,6 @@ celom
 cytherean
 chauvinistically
 chilliness
-celomata
 celoscope
 consultee
 celotomies
