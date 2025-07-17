@@ -17304,7 +17304,6 @@ agathaea
 aumail
 apostatize
 apostatizing
-apostaxis
 apostem
 atrophiated
 armigeral
@@ -22236,6 +22235,7 @@ astrionics
 asynartete
 ableeze
 arterials
+apostaxis
 autopsychology
 astrobiologies
 alrighty
