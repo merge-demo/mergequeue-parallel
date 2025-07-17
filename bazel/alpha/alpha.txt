@@ -8868,7 +8868,6 @@ allochiria
 adaptionism
 alcoves
 allochlorophyll
-antigropelos
 allochroic
 allochthon
 aumbries
@@ -17864,6 +17863,7 @@ aborting
 apprizer
 apprizers
 apprizes
+antigropelos
 apprizing
 appro
 amate
