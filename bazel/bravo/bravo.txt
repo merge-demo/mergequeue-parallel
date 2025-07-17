@@ -138,7 +138,6 @@ berengarianism
 babirusas
 brimmer
 brabantine
-basicranial
 bedimpled
 bedash
 boolian
@@ -9525,6 +9524,7 @@ banality
 besots
 birthnight
 birthplaces
+basicranial
 bogota
 backfilled
 blackened
