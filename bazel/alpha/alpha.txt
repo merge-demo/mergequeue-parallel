@@ -14362,7 +14362,6 @@ achromacyte
 anthracomancy
 anthracomarti
 ambulancing
-analepsis
 antiprelatism
 anthracometric
 abecedarium
@@ -15533,6 +15532,7 @@ antethem
 acetabulum
 antimoniuretted
 antimonopolistic
+analepsis
 antimonopolization
 allantoidian
 antimoral
