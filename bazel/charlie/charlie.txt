@@ -8520,6 +8520,7 @@ chamfering
 characterstring
 champaka
 conducts
+cicindelidae
 clubridden
 champaks
 cholines
@@ -12814,7 +12815,6 @@ chumship
 comdia
 chumships
 clonism
-cicindelidae
 chumulu
 curbing
 coelogastrula
