@@ -2371,6 +2371,7 @@ companator
 chinbones
 canarian
 canaries
+chomped
 cohobates
 canarine
 calces
@@ -17568,7 +17569,6 @@ cocamama
 cocao
 caped
 cocarde
-chomped
 cocash
 cocause
 cocautioner
