@@ -1175,6 +1175,7 @@ bajury
 blackbelly
 bonnaz
 bewails
+bewigged
 bakal
 biasteric
 bajoire
@@ -10515,7 +10516,6 @@ blastoneuropore
 billionaire
 bogan
 blastophyllum
-bewigged
 blastophoral
 blueprinter
 breakage
