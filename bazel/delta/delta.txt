@@ -5591,6 +5591,7 @@ draftable
 depended
 dolichopellic
 dependence
+diplomat
 desensitizes
 dependency
 dependingly
@@ -9336,7 +9337,6 @@ dietic
 decolorant
 dietitians
 dtset
-diplomat
 dietotherapy
 dietotoxic
 detersive
