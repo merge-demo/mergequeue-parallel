@@ -14637,6 +14637,7 @@ anthryl
 alternative
 arabized
 apostrophe
+averrhoa
 aortographies
 adelges
 antiaristocratically
@@ -21806,7 +21807,6 @@ assyroid
 abutted
 amitroles
 assish
-averrhoa
 assishly
 adapted
 aplacophoran
