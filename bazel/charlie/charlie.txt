@@ -5180,7 +5180,6 @@ carida
 contek
 cashbooks
 caesural
-cambism
 cravo
 cavendish
 continuando
@@ -28507,6 +28506,7 @@ crebricostate
 crebrisulcate
 coteau
 conceited
+cambism
 canny
 crebrous
 creche
