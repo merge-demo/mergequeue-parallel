@@ -2343,7 +2343,6 @@ decadally
 devocalising
 dotriacontane
 decessit
-decerebrating
 daikon
 dechemicalize
 doctorfish
@@ -16963,6 +16962,7 @@ doz
 dunkard
 dazedness
 domus
+decerebrating
 drearing
 drearisome
 drearly

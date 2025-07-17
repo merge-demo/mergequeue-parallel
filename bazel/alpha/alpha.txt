@@ -7668,7 +7668,6 @@ autoconverter
 asterin
 alcoholised
 alcoholysis
-aguinaldos
 aspirins
 aphorised
 antepyretic
@@ -19963,6 +19962,7 @@ amyelinic
 armure
 aggros
 armures
+aguinaldos
 arn
 achromatinic
 agacella
