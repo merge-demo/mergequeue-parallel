@@ -16051,7 +16051,6 @@ antisavage
 anticlassicalism
 astringe
 antiscabious
-adminiculum
 antiscale
 arteritis
 autocoenobium
@@ -19650,6 +19649,7 @@ aristate
 aristeas
 alertness
 armaria
+adminiculum
 aristeia
 aristida
 aristides
