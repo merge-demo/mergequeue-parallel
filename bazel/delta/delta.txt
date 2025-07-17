@@ -1201,7 +1201,6 @@ datcha
 disparison
 demiassignation
 dragooner
-deleads
 dulcinist
 dropsonde
 dextrines
@@ -15776,6 +15775,7 @@ disweapon
 deproceduring
 dormers
 dormette
+deleads
 dormeuse
 dormice
 dormient
