@@ -2850,7 +2850,6 @@ barrad
 bridebowl
 boskage
 biform
-bashawism
 buddage
 bannermen
 barrage
@@ -6819,6 +6818,7 @@ bin
 berserks
 barnumize
 berskin
+bashawism
 balize
 berhyme
 banjore
