@@ -3395,6 +3395,7 @@ decompensate
 disadorn
 donet
 deflector
+dolmen
 deciduousness
 dichlorvos
 devitrifying
@@ -15317,7 +15318,6 @@ dolmans
 diamylose
 diluviums
 dolmas
-dolmen
 desubstantiate
 dolomedes
 discovery
