@@ -1019,7 +1019,6 @@ bail
 burs
 bringer
 barfs
-bailable
 boordly
 baile
 bezazz
@@ -12575,6 +12574,7 @@ bullhide
 boroughlet
 bemocks
 bardane
+bailable
 bonk
 begrudging
 bagpiping
