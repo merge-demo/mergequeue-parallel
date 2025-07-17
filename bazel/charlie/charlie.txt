@@ -1001,6 +1001,7 @@ calantas
 chromocenter
 chondroid
 calapite
+cubangle
 caprelline
 calappidae
 calas
@@ -30497,7 +30498,6 @@ cubages
 cubicovariant
 corozos
 cubane
-cubangle
 cubanite
 cubatory
 contraclockwise
