@@ -6142,7 +6142,6 @@ dropout
 dimission
 durgen
 deader
-deckedout
 derated
 diphtheroid
 derater
@@ -11439,6 +11438,7 @@ duplicitous
 discloud
 dingus
 disclusion
+deckedout
 dispauper
 dollar
 deoccidentalize
