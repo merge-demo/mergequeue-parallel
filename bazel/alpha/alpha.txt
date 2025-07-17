@@ -4671,6 +4671,7 @@ aegrotat
 acroterion
 abush
 aetheling
+agglomerate
 antedawn
 aeluroid
 acrotisms
@@ -5859,7 +5860,6 @@ axospermous
 arneb
 aggiornamenti
 assemblies
-agglomerate
 anychia
 agglomerated
 agglomerates
