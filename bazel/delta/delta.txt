@@ -6014,6 +6014,7 @@ deed
 depsides
 discommoded
 dept
+dos
 diaschistic
 depth
 dispraise
@@ -8562,7 +8563,6 @@ diaper
 dyschromatopsia
 duchy
 dethrone
-dos
 dewbeam
 didacts
 diaphanometric
