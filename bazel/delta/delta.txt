@@ -1314,7 +1314,6 @@ demodulator
 daunder
 departure
 daundering
-didappers
 daunt
 daunted
 dhobies
@@ -12130,6 +12129,7 @@ disestablishmentarianism
 disestablismentarian
 diddler
 disreputed
+didappers
 drapers
 doorknobs
 dialogism
