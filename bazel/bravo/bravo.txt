@@ -6054,6 +6054,7 @@ butcherless
 balarama
 bole
 bilabial
+bellworts
 bemocking
 bibliological
 brahmanical
@@ -7998,7 +7999,6 @@ bioxalate
 bichos
 bichromatize
 bedebt
-bellworts
 bicyanide
 bicyclers
 bicyclic
