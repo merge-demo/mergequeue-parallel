@@ -897,7 +897,6 @@ dap
 dapedius
 disburdens
 dinornithine
-danio
 dokimastic
 dudman
 daphni
@@ -7826,6 +7825,7 @@ devotedly
 devotedness
 dialogistical
 defalcator
+danio
 devoting
 dalecarlian
 disallowed
