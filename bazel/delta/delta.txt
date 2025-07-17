@@ -2078,7 +2078,6 @@ decalitre
 dunlop
 dinornithid
 disappearance
-diabrotica
 disencumbering
 dinoflagellida
 decurvation
@@ -6485,6 +6484,7 @@ disencumber
 diffusedly
 deranged
 descanted
+diabrotica
 descantist
 descants
 discriminators
