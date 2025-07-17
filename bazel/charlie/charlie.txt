@@ -1236,7 +1236,6 @@ cauliferous
 calenda
 counterfaller
 chlored
-cambrel
 cameo
 calendarial
 chusite
@@ -4130,6 +4129,7 @@ cardinalitian
 cubed
 chancellor
 cardinalities
+cambrel
 cardinally
 cardinalship
 cardings
