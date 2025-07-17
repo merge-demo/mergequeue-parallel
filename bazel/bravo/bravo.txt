@@ -6807,7 +6807,6 @@ berrichonne
 bosquet
 berrier
 berries
-beaut
 buhls
 barytosulphate
 badian
@@ -7232,6 +7231,7 @@ bestiarian
 bestiarist
 bestirs
 bestock
+beaut
 bestow
 bestowment
 burgee
