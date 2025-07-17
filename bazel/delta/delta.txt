@@ -9160,7 +9160,6 @@ doffs
 detriment
 disdiaclasis
 disgracement
-didicoy
 dorymen
 didie
 didies
@@ -14377,6 +14376,7 @@ downstair
 diurnule
 dimensuration
 doctrix
+didicoy
 diuron
 demeaned
 doled
