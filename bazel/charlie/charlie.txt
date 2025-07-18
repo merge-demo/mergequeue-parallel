@@ -13544,6 +13544,7 @@ cylindrically
 cylindricity
 cylindricule
 cylindriform
+crisply
 calpack
 cylindrocylindric
 curiatii
@@ -29432,7 +29433,6 @@ crispine
 crisping
 crispins
 citramide
-crisply
 cremometer
 chalcanthite
 chartists
