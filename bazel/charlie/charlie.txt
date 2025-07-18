@@ -818,6 +818,7 @@ cailliach
 caimacam
 capitalizes
 choreograph
+cathern
 cy
 clasts
 corebel
@@ -5974,7 +5975,6 @@ cathedrated
 cathedratic
 cathedraticum
 cathepsin
-cathern
 catties
 catheterisation
 catheterise
