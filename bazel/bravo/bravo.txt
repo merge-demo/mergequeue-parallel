@@ -9098,7 +9098,6 @@ biosciences
 bulrushes
 bestrows
 befits
-buzzwigs
 boylikeness
 bioscopy
 bioscopic
@@ -10721,6 +10720,7 @@ blend
 bestill
 blendwater
 bowhead
+buzzwigs
 blenheim
 bibl
 belap
