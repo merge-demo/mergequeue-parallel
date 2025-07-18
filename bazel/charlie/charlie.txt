@@ -13192,7 +13192,6 @@ cicatrisive
 cicatrizate
 caudicle
 canalize
-craniographer
 cicatrization
 cott
 cicatrizer
@@ -20289,6 +20288,7 @@ chorographies
 communed
 communer
 chemopallidectomy
+craniographer
 cashiers
 communes
 catamnesis
