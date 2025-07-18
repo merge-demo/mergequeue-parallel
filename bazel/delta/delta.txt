@@ -1556,6 +1556,7 @@ diplomata
 disposition
 determinatively
 desitive
+depetalize
 disembody
 deadlocking
 duplicia
@@ -5637,7 +5638,6 @@ dei
 dozy
 desaturation
 daying
-depetalize
 disorganiser
 disprivilege
 detainingly
