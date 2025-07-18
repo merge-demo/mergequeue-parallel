@@ -4413,6 +4413,7 @@ artisanry
 adustive
 amang
 aldoxime
+agathism
 adv
 archbanc
 argue
@@ -16492,7 +16493,6 @@ augelite
 antefixa
 aortoiliac
 amurcous
-agathism
 analyzers
 aortomalaxis
 arabianize
