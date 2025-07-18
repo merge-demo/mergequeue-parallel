@@ -2624,7 +2624,6 @@ bilges
 barking
 botanise
 barkless
-battening
 bandusia
 barkometer
 bescorch
@@ -16368,6 +16367,7 @@ buzzgloak
 bufagin
 brunelliaceae
 bicuculline
+battening
 biscayen
 buchnera
 brunelliaceous
