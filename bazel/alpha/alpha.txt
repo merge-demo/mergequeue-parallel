@@ -13181,7 +13181,6 @@ animize
 amaltas
 anilidic
 animo
-academizing
 alchem
 anientise
 achtelthaler
@@ -16642,6 +16641,7 @@ alioth
 ammochryse
 acceder
 apertures
+academizing
 aperu
 aperulosid
 apes
