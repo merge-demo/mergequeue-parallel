@@ -15817,7 +15817,6 @@ cleanses
 cynosura
 cleanskin
 cleanskins
-cleanup
 conveniently
 chelaship
 colonized
@@ -26619,6 +26618,7 @@ counseling
 counsellable
 counsellor
 chilopodan
+cleanup
 counsellors
 counselor
 countability
