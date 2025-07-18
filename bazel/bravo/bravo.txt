@@ -2036,6 +2036,7 @@ beachless
 bristly
 biophysicist
 banknotes
+bacterioscopic
 brasserie
 bedeguar
 buffoonesque
@@ -3278,7 +3279,6 @@ baratheas
 believe
 brisant
 basiradial
-bacterioscopic
 basirostral
 basiscopic
 bacterial
