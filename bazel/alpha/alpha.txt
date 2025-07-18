@@ -12326,7 +12326,6 @@ andreas
 anhematopoiesis
 andrena
 anopluriform
-andrewartha
 albitophyre
 andria
 allumine
@@ -23246,6 +23245,7 @@ atule
 abessive
 appetitiveness
 atune
+andrewartha
 acolhua
 athenee
 apteria
