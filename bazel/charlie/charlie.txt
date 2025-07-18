@@ -5010,6 +5010,7 @@ claptrap
 cartwheel
 coannex
 catarrhine
+confessionals
 cryptogramma
 couchantly
 cartwheeler
@@ -19938,7 +19939,6 @@ cuscuses
 comitje
 chunters
 coml
-confessionals
 conjugating
 commandable
 commandatory
