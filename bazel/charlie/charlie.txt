@@ -6997,6 +6997,7 @@ cosinusoid
 cenizo
 cenobe
 codable
+chemotropic
 capitellar
 cenobies
 cenobites
@@ -31385,7 +31386,6 @@ curio
 curiolofic
 culinarily
 curiologic
-chemotropic
 curiologically
 curiologics
 comparability
