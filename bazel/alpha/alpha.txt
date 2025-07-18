@@ -8160,7 +8160,6 @@ algor
 attar
 alienor
 adynamias
-absorptive
 almsmoney
 algorismic
 archaean
@@ -13148,6 +13147,7 @@ animating
 amphibolic
 animatingly
 animation
+absorptive
 amoks
 areosystyle
 animatistic
