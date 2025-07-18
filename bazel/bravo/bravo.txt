@@ -13278,7 +13278,6 @@ blitzkriegs
 boswellian
 boswelliana
 boulders
-beng
 bowge
 boswellism
 briquettes
@@ -16092,6 +16091,7 @@ buprestid
 beardtongue
 broomballer
 blasphemers
+beng
 biologic
 broomiest
 bulletins
