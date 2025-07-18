@@ -5545,6 +5545,7 @@ bilineated
 babist
 bebled
 breeziest
+barlow
 blamer
 bierstubes
 bejesuit
@@ -10981,7 +10982,6 @@ bunodonta
 botaurinae
 blisteringly
 branchedness
-barlow
 bicuspids
 blithe
 burliest
