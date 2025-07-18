@@ -1068,7 +1068,6 @@ abterminal
 archreactionary
 aphelion
 abthainrie
-abubble
 abuilding
 abuleia
 antitorpedo
@@ -9152,6 +9151,7 @@ almandine
 aeginetic
 almandines
 alme
+abubble
 ardhamagadhi
 antiputrefaction
 anaemias
