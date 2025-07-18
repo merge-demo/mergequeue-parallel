@@ -10609,7 +10609,6 @@ celebrator
 chillroom
 chills
 chillsome
-countermove
 chouka
 chemolytic
 chillumchee
@@ -12701,6 +12700,7 @@ chucklehead
 conjugateness
 chuckleheaded
 cumaceous
+countermove
 coached
 causelessness
 chuckleheadedness
