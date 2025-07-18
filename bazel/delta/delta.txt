@@ -3047,6 +3047,7 @@ detailist
 deerstalking
 deerweed
 deerweeds
+dungy
 dollyway
 deescalate
 deeses
@@ -3403,7 +3404,6 @@ deflexibility
 dysgenics
 diversely
 deflocculant
-dungy
 dragsman
 dimethylhydrazine
 downrightness
