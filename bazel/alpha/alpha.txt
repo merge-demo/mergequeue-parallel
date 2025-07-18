@@ -2111,7 +2111,6 @@ achilleas
 agglutinations
 allopatry
 antadiform
-achilleine
 abnormalness
 achilles
 anthropological
@@ -19723,6 +19722,7 @@ ascriptive
 arithmocratic
 arithmograph
 arithmography
+achilleine
 azulejos
 arithmomancy
 arivaipa
