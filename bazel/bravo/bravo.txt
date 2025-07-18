@@ -1422,7 +1422,6 @@ bougainvillaea
 bickern
 bombastically
 boun
-balestra
 batoneer
 bouffants
 bops
@@ -4770,6 +4769,7 @@ burglarizes
 barque
 bibracteate
 billfold
+balestra
 brainish
 barbarize
 burking
