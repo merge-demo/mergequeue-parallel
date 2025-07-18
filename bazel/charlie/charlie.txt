@@ -4914,7 +4914,6 @@ corallinaceae
 carageen
 carses
 cogitable
-carsick
 carsickness
 caviteno
 carrottop
@@ -6255,6 +6254,7 @@ cutinises
 cfs
 chloralism
 caul
+carsick
 cubically
 cartouch
 christine
