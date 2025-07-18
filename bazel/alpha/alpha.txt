@@ -171,6 +171,7 @@ abbacies
 archizoic
 antistrumatic
 abbacomes
+autotype
 abbadide
 acolapissa
 anakes
@@ -12876,7 +12877,6 @@ awkward
 acinetaria
 antidoron
 anglophilic
-autotype
 adenine
 anglophilism
 anglophobia
