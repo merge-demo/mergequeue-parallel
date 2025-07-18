@@ -9331,6 +9331,7 @@ dog
 diethylstilboestrol
 dekaliters
 disploded
+degum
 deobstruent
 dietic
 decolorant
@@ -11958,7 +11959,6 @@ denominationally
 disbloom
 disembarks
 dentifrices
-degum
 decrease
 deutovum
 disembitter
