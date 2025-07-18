@@ -4710,6 +4710,7 @@ disintoxicate
 demitasses
 demythologization
 demythologizations
+demitube
 diplomatize
 demythologizer
 duodecimal
@@ -16802,7 +16803,6 @@ drawback
 drawbar
 decolorate
 decussation
-demitube
 dyscrasial
 divinise
 detritivorous
