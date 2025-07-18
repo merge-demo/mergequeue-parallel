@@ -2807,7 +2807,6 @@ archostenosis
 autocamping
 acromicria
 antimeres
-acromimia
 acromiocoracoid
 amateurishly
 acculturative
@@ -6553,6 +6552,7 @@ alectrionidae
 americanumancestors
 aigialosaur
 aigialosauridae
+acromimia
 aigialosaurus
 antasthenic
 apolarity
