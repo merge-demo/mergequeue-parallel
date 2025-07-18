@@ -7915,6 +7915,7 @@ chain
 clapotis
 cessionaire
 castaway
+ceration
 cessor
 cesspipe
 cesspit
@@ -13404,7 +13405,6 @@ cleaners
 cyclostyle
 cyclostoma
 chasers
-ceration
 ciphony
 capon
 czarism
