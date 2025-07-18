@@ -12464,6 +12464,7 @@ chromitite
 conacre
 courtroom
 chromium
+coontail
 chromiums
 chromize
 crocard
@@ -19220,7 +19221,6 @@ corporally
 collotyped
 curries
 collotypy
-coontail
 cornhusks
 conjunctives
 clitterclatter
