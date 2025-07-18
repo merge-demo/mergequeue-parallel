@@ -8805,6 +8805,7 @@ chapelry
 combflower
 chapelries
 cinerins
+cusinero
 chapels
 chiasmi
 chapelward
@@ -31686,7 +31687,6 @@ cushionlike
 cushions
 cushitic
 cusie
-cusinero
 consent
 cusk
 collodium
