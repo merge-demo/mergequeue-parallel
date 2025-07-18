@@ -12498,6 +12498,7 @@ disillusionments
 disgorge
 discomycetes
 dana
+disaccharidase
 den
 disillusive
 demodulations
@@ -14797,7 +14798,6 @@ dilatancy
 discutable
 docker
 dipicrylamin
-disaccharidase
 docket
 devouring
 doggie
