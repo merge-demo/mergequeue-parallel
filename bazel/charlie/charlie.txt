@@ -28677,6 +28677,7 @@ clarisse
 consequentially
 classific
 canonicalize
+crypticness
 crenel
 chroococcus
 coloniser
@@ -29245,7 +29246,6 @@ caracols
 crypteroniaceae
 cryptical
 cryptically
-crypticness
 coupled
 covenantally
 crypto
