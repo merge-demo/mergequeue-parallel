@@ -11369,7 +11369,6 @@ amplicative
 angerless
 autoelectrolytic
 annats
-amplify
 amplificate
 aftercause
 amplificative
@@ -17820,6 +17819,7 @@ aerologies
 acetnaphthalide
 anaclisis
 andamento
+amplify
 ascots
 amblers
 acquired
