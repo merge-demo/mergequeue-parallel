@@ -8469,6 +8469,7 @@ dialuric
 diamagnet
 diamagnetic
 diamagnetism
+diazotic
 dredging
 diamant
 ditrochee
@@ -13407,7 +13408,6 @@ disquisite
 dermophlebitis
 distillment
 despoliation
-diazotic
 diarsenide
 disesteem
 decolourize
