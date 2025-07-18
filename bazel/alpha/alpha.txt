@@ -4461,7 +4461,6 @@ acrography
 adventual
 adventured
 adventuresome
-agyrate
 aprocta
 anabaptist
 adventuresomes
@@ -14892,6 +14891,7 @@ amphigouri
 anticlinorium
 axised
 alkenes
+agyrate
 anticlockwise
 asphaltum
 anticlogging
