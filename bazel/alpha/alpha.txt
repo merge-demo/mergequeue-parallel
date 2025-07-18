@@ -14673,7 +14673,6 @@ antibigotry
 axiologies
 antibilious
 antibiont
-antibiosis
 anaglyphic
 antidumping
 antibiotic
@@ -16405,6 +16404,7 @@ antrotomy
 aspring
 antrovert
 assiduities
+antibiosis
 atropic
 antrustion
 ants
