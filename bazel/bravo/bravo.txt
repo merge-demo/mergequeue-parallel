@@ -3351,6 +3351,7 @@ basiphobia
 buccheros
 branchiopulmonate
 bassalia
+brodeglass
 bootable
 brythonic
 baculum
@@ -15420,7 +15421,6 @@ banns
 brimfullness
 brongniardite
 blazon
-brodeglass
 braggishly
 boundary
 bilboes
