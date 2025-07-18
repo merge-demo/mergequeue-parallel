@@ -8892,6 +8892,7 @@ bonedog
 buggeries
 biddings
 bandoras
+brattled
 baisakh
 biocycle
 biocycles
@@ -14695,7 +14696,6 @@ betrothal
 biobibliographic
 bowpots
 bowlings
-brattled
 benumbment
 brattling
 bratwurst

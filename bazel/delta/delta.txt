@@ -6608,6 +6608,7 @@ dirdum
 disordination
 dephlegmated
 doubtsome
+detonations
 desegregated
 desegregates
 destroyed
@@ -7391,7 +7392,6 @@ decenyl
 detonation
 digest
 disowned
-detonations
 dusking
 demean
 detonative
