@@ -239,7 +239,6 @@ achariaceous
 abbreviation
 ascebc
 abbreviators
-abc
 abcissa
 abcoulomb
 aba
@@ -1005,6 +1004,7 @@ abstractedly
 additives
 abstractest
 ambilateral
+abc
 adequacy
 abstraction
 abstractional
