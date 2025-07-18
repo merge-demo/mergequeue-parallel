@@ -7941,6 +7941,7 @@ cestoids
 cestraction
 chairs
 colessees
+caudalward
 cestrian
 cestrum
 conned
@@ -18584,7 +18585,6 @@ coiffures
 coiffuring
 coifing
 conner
-caudalward
 catheptic
 canonists
 coigne
