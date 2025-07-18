@@ -7088,6 +7088,7 @@ bedazzlement
 bespangle
 bespangling
 bespate
+bornyl
 brickbatted
 bezzant
 bennetweed
@@ -13601,7 +13602,6 @@ beardlessness
 blinded
 boulimia
 berate
-bornyl
 bailiffry
 boogaloo
 boullework
