@@ -7025,7 +7025,6 @@ diabolepsy
 despoils
 diversiflorous
 decadence
-despond
 deface
 despondence
 despondencies
@@ -9833,6 +9832,7 @@ deicer
 digesters
 dumetose
 dillydally
+despond
 diabolically
 dejectile
 diapaused
