@@ -8804,6 +8804,7 @@ allis
 aristocrat
 alliterate
 acescence
+alfarga
 alcidae
 alliterates
 await
@@ -19642,7 +19643,6 @@ apl
 aristae
 aficionados
 affirmatively
-alfarga
 aluminic
 aristarchian
 aristarchies
