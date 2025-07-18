@@ -4009,7 +4009,6 @@ carcinoid
 compartmental
 crystalloluminescence
 carcinolysin
-cycadiform
 carcinological
 carcinoma
 carbocyclic
@@ -11263,6 +11262,7 @@ conturb
 chloridated
 consuls
 chloride
+cycadiform
 crocodiloid
 crackups
 calderon
