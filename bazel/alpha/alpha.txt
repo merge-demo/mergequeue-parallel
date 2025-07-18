@@ -297,6 +297,7 @@ articulate
 atonic
 apothece
 abducted
+atelomyelia
 ataxic
 abductions
 amatorio
@@ -22486,7 +22487,6 @@ atelo
 atelocephalous
 ateloglossia
 abacist
-atelomyelia
 ateloprosopia
 acoenaesthesia
 abhorrency
