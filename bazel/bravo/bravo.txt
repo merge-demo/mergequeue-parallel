@@ -1296,7 +1296,6 @@ bari
 brahmism
 brushet
 balanoid
-boteroll
 beknown
 betorcinol
 bradycinesia
@@ -13151,6 +13150,7 @@ borough
 bouquetin
 biseriate
 boroughmonger
+boteroll
 blaspheme
 basileis
 bankrupts
