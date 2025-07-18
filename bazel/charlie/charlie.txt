@@ -5020,7 +5020,6 @@ cartwhip
 carucage
 counterprove
 carucarius
-clipsheets
 carucate
 carum
 coachwork
@@ -9627,6 +9626,7 @@ chanfrin
 cheefuller
 cheek
 cheekbone
+clipsheets
 cheekbones
 counteracting
 cheekfuls
