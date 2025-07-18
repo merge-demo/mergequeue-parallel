@@ -3508,7 +3508,6 @@ byroads
 batfishes
 biri
 bondholder
-batfowl
 batfowled
 bassists
 batfowls
@@ -3551,6 +3550,7 @@ brushy
 battleground
 berkeleyite
 bien
+batfowl
 bathysophical
 bathysphere
 bigmouths
