@@ -8369,7 +8369,6 @@ chalkworker
 challah
 centriciput
 challahs
-challas
 contraponend
 chamicuro
 calcifuge
@@ -25710,6 +25709,7 @@ citators
 chlormethylic
 calctufa
 correspondentship
+challas
 colophan
 ceruminous
 caripeta
