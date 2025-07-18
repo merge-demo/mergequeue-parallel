@@ -11284,7 +11284,6 @@ amphistoma
 africans
 achillean
 asyllabic
-apriori
 amphitene
 amphithalamus
 amplexifoliate
@@ -21559,6 +21558,7 @@ approvable
 asquint
 anallagmatis
 authorising
+apriori
 asramas
 ablute
 assacu
