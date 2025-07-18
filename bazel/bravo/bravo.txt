@@ -61,6 +61,7 @@ beebreads
 babblings
 bothsidedness
 beauclerk
+buggymen
 bigoted
 babcock
 babe
@@ -11004,7 +11005,6 @@ belikely
 bribemonger
 blackface
 bident
-buggymen
 babysit
 besmoking
 beweeping
