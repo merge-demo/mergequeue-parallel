@@ -4516,7 +4516,6 @@ advertizes
 advice
 advices
 advisableness
-adiaphorism
 advisal
 antheridial
 allentiacan
@@ -17037,6 +17036,7 @@ actuates
 argumentive
 alliterations
 amourette
+adiaphorism
 ammoniac
 anthroponomical
 arefaction
