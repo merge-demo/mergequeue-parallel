@@ -2387,6 +2387,7 @@ aciniform
 anatomicophysiological
 aggrate
 acinus
+antimonide
 aedes
 acipenserine
 acipenseroid
@@ -9996,7 +9997,6 @@ ambicoloration
 annoyously
 abseiled
 ambidexterity
-antimonide
 aquapuncture
 anthocephalous
 ambidexterities
