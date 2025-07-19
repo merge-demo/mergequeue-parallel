@@ -7208,7 +7208,6 @@ alamonti
 archpillar
 afgod
 alamort
-alamosite
 alan
 alange
 antigonococcic
@@ -7917,6 +7916,7 @@ alerta
 anorak
 abstractionists
 alerters
+alamosite
 autotropically
 alerting
 alertly

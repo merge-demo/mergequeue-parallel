@@ -2469,6 +2469,7 @@ bibliophilism
 binotic
 bigram
 baresthesia
+brand
 bottom
 busies
 blens
@@ -3953,7 +3954,6 @@ bestsellers
 barytes
 behavers
 beachheads
-brand
 bnf
 bespy
 beaching
