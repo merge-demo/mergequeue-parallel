@@ -2425,6 +2425,7 @@ degorder
 decimetre
 demoid
 decimolar
+dodecamerous
 drainpipe
 diplacusis
 downgoing
@@ -2977,7 +2978,6 @@ deedfully
 decannulation
 dyadically
 democratist
-dodecamerous
 daguerreotypist
 deedier
 deonerate
