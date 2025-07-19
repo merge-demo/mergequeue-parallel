@@ -5820,7 +5820,6 @@ distalwards
 deportment
 dourines
 desmotropism
-dacker
 deepnesses
 decoupled
 deposer
@@ -11580,6 +11579,7 @@ deglamorize
 disconformities
 disconjure
 doggiest
+dacker
 drinkless
 disconnectedness
 diphtheroidal
