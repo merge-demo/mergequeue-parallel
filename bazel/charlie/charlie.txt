@@ -10077,6 +10077,7 @@ chord
 composers
 cherubim
 cherubimic
+chauffers
 cherubimical
 cherublike
 crystalize
@@ -26896,7 +26897,6 @@ cubiform
 carpogonial
 counterlatration
 counterlaw
-chauffers
 counterlegislation
 conant
 counterly
