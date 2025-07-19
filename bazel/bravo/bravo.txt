@@ -718,7 +718,6 @@ binful
 bransles
 berrendo
 badger
-breeches
 backyard
 bogwort
 badgerer
@@ -17486,6 +17485,7 @@ backstopping
 battlefields
 burbly
 bonnie
+breeches
 bantling
 bacitracin
 bedip
