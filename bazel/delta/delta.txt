@@ -6705,7 +6705,6 @@ desyatin
 desicate
 dubonnets
 desman
-desiderable
 diascopy
 deadhead
 desiderata
@@ -18011,6 +18010,7 @@ dehydrogenizer
 dulciloquent
 delouses
 dungon
+desiderable
 diplex
 denitrated
 disgallant
