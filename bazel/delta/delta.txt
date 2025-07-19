@@ -9077,6 +9077,7 @@ dictamina
 dictaphone
 dernier
 drinkproof
+delations
 dictaphones
 dictating
 dabbers
@@ -11885,7 +11886,6 @@ deterrable
 dihelium
 diallagoid
 disdainfulness
-delations
 deflagrating
 drawknives
 dentel
