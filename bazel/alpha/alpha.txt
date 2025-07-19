@@ -10290,7 +10290,6 @@ amenable
 anorganism
 atoll
 anticheater
-amenably
 assess
 amenance
 amydon
@@ -23242,6 +23241,7 @@ attunes
 apteryges
 ablation
 atua
+amenably
 atule
 abessive
 appetitiveness
