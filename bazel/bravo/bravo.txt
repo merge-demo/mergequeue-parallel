@@ -10125,7 +10125,6 @@ bellied
 berbers
 bootleggers
 buphthalmia
-bedells
 bloodguilty
 blackbird
 blackbirder
@@ -14507,6 +14506,7 @@ besoothing
 branchiest
 branchiferous
 birthrates
+bedells
 broma
 binman
 branchiness
