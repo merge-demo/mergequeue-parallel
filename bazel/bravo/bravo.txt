@@ -3639,7 +3639,6 @@ batophobia
 benzdioxazine
 balloonery
 bepierce
-batrachian
 bifrontal
 bailiffwick
 booboo
@@ -18156,6 +18155,7 @@ botanicas
 bashless
 bacillicide
 butyryls
+batrachian
 butyrin
 byssinosis
 besonnet
