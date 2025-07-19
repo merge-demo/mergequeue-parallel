@@ -6991,6 +6991,7 @@ arolium
 angulodentate
 ajuga
 ajutment
+assisting
 akal
 akali
 akalimba
@@ -10360,7 +10361,6 @@ aftertax
 astigmatizer
 accredited
 autodiffusion
-assisting
 astuteness
 angiotonase
 aneled
