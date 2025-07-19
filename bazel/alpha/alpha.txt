@@ -12543,7 +12543,6 @@ aucupate
 avowter
 acinetarian
 anankes
-anergia
 andy
 androgynic
 anergias
@@ -23174,6 +23173,7 @@ agilely
 attorney
 allayer
 accumulator
+anergia
 arrhythmias
 attorneydom
 assenters
