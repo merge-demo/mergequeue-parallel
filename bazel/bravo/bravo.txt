@@ -1120,7 +1120,6 @@ battercake
 belonesite
 bairns
 bootful
-berne
 banquets
 backwall
 borates
@@ -3067,6 +3066,7 @@ brecciating
 basaltware
 bombiccite
 basaree
+berne
 boycotting
 bestness
 bealach
