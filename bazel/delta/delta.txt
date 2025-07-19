@@ -13549,6 +13549,7 @@ dungeoner
 disperse
 demeritorious
 disquisitive
+discontinual
 disrelishable
 diogenic
 dissentment
@@ -16855,7 +16856,6 @@ dilettante
 drawloom
 dungari
 dorestane
-discontinual
 dipleuric
 determinativeness
 discharity
