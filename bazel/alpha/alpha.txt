@@ -16680,6 +16680,7 @@ aphanisia
 atalanta
 aphanisis
 atropaceous
+arthrostome
 arteriotomies
 allocatee
 amalgamations
@@ -20613,7 +20614,6 @@ adderwort
 albumen
 arthrospore
 arthrosteitis
-arthrostome
 arthrostomy
 ainu
 apeptic
