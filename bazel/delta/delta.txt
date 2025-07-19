@@ -449,6 +449,7 @@ disseats
 daysides
 deprevation
 daysmen
+disaffect
 dayspring
 direst
 disthrall
@@ -15702,7 +15703,6 @@ decollator
 doric
 dopped
 detractiveness
-disaffect
 dopper
 dopperbird
 demot
