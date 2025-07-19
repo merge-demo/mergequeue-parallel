@@ -4798,7 +4798,6 @@ bits
 bedside
 bedsonia
 bedsonias
-bescribbling
 bedsore
 bakers
 bemirrorment
@@ -16334,6 +16333,7 @@ belligerence
 basil
 buzzardly
 brulzies
+bescribbling
 biloculate
 brumbie
 bedew
