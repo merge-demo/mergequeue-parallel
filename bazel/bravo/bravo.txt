@@ -6238,7 +6238,6 @@ buckjumper
 benic
 benight
 buzzed
-bandalore
 benighter
 barked
 blackboy
@@ -14013,6 +14012,7 @@ blandly
 bracciale
 breadbaskets
 braccianite
+bandalore
 boobyish
 brace
 bemouth
