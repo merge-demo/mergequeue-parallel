@@ -1886,6 +1886,7 @@ disbench
 disconcertingness
 discourse
 debouchment
+decorous
 debout
 deervetch
 donging
@@ -3980,7 +3981,6 @@ dispensatorily
 delaminating
 disclosable
 dort
-decorous
 dooley
 dissertating
 dominatingly
