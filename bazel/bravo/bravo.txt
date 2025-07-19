@@ -12535,6 +12535,7 @@ bypast
 borrows
 bannimus
 beaus
+bowline
 bedposts
 burseeds
 biham
@@ -13897,7 +13898,6 @@ bowlful
 bowly
 breastworks
 bowlike
-bowline
 bacalaos
 baptizee
 biochemist
