@@ -2090,7 +2090,6 @@ definitizing
 doses
 dynasts
 dissyllabism
-defenseman
 decameral
 daintify
 doline
@@ -16760,6 +16759,7 @@ downline
 drapetomania
 draping
 diswood
+defenseman
 drastic
 dirtfarmer
 drastically
