@@ -12038,7 +12038,6 @@ acrologic
 anastomus
 arugula
 anastrophy
-anastrophia
 advocator
 advisements
 activital
@@ -21515,6 +21514,7 @@ aelurophobia
 apoplectically
 aspirating
 aspiration
+anastrophia
 aspiree
 aspirer
 aspirers
