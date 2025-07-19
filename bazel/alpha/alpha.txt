@@ -2069,7 +2069,6 @@ aeropulse
 autoscopy
 andantini
 acheron
-apostematous
 acheronian
 achroous
 acherontical
@@ -14286,6 +14285,7 @@ airns
 anthochlorine
 abaze
 authorially
+apostematous
 arrided
 apocryphate
 amerce
