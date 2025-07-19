@@ -16449,7 +16449,6 @@ cliver
 clivers
 clivis
 clivus
-clk
 clo
 cloaca
 cloacae
@@ -23305,6 +23304,7 @@ consumer
 consumerist
 consumes
 cardioblast
+clk
 consuming
 consumingly
 consummated

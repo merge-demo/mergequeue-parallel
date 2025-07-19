@@ -796,6 +796,7 @@ abridger
 anapeiratic
 acurative
 argles
+aft
 abridgers
 abridging
 abridgments
@@ -5411,7 +5412,6 @@ antiputrid
 aerobiological
 afrormosia
 afshah
-aft
 afteract
 alexin
 afterattack
