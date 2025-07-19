@@ -2963,7 +2963,6 @@ diaphanotype
 describers
 decemfid
 deductio
-deductions
 dwarfism
 distrainment
 deductive
@@ -8105,6 +8104,7 @@ desugar
 durzi
 dhourras
 dispersedye
+deductions
 dhritarashtra
 disables
 dhundia
