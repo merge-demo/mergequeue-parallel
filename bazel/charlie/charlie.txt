@@ -12849,7 +12849,6 @@ chunks
 chunner
 chuntered
 chrysotherapy
-chupatty
 crases
 countermanifesto
 crithmene
@@ -23095,6 +23094,7 @@ comminute
 constantan
 constantine
 constantinian
+chupatty
 constantinopolitan
 catechumenate
 canvassed

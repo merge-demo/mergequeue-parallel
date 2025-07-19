@@ -4655,7 +4655,6 @@ deaness
 divaricating
 dawsoniaceae
 disagglomeration
-disfunction
 dittoing
 dichelyma
 demirilievo
@@ -12063,6 +12062,7 @@ demantoid
 dijudicated
 disensure
 disentail
+disfunction
 deprecatively
 disentangle
 dissensious
