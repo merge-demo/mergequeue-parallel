@@ -3501,7 +3501,6 @@ demembration
 deformability
 droughermen
 disknow
-distomum
 demographical
 delvers
 deformable
@@ -12494,6 +12493,7 @@ disconform
 disillusionising
 disdeceive
 decimalize
+distomum
 disillusionments
 disgorge
 discomycetes
