@@ -10393,7 +10393,6 @@ allantoic
 axe
 androgen
 archheresy
-anatomisable
 amerinds
 assisa
 ailuromania
@@ -11295,6 +11294,7 @@ anilin
 amphitheatric
 amphitheatrical
 agrope
+anatomisable
 aniliid
 amphithecia
 aregenerative
