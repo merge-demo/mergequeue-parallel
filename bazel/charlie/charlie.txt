@@ -8073,6 +8073,7 @@ caryophyllaceous
 chador
 chadors
 chaenolobus
+coiffured
 chaetae
 chemin
 chaetal
@@ -18579,7 +18580,6 @@ coiffeur
 coiffeurs
 coiffeuses
 coolheaded
-coiffured
 coiffures
 coiffuring
 coifing
