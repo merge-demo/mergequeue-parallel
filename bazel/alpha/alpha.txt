@@ -3251,7 +3251,6 @@ acutest
 arborise
 authorcraft
 aedine
-acutilingual
 axal
 antinosarian
 abloom
@@ -8166,6 +8165,7 @@ algorismic
 archaean
 algorist
 albino
+acutilingual
 autecological
 antipyic
 algorithmic
