@@ -3067,7 +3067,6 @@ disgustfully
 disquietingly
 deadliness
 downbent
-doohickus
 dentaria
 defacer
 dentiscalp
@@ -15929,6 +15928,7 @@ dentines
 dormition
 devilwood
 dims
+doohickus
 distileries
 dossmen
 dissemblies
