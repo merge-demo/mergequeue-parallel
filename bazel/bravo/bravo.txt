@@ -14283,7 +14283,6 @@ bruiters
 braggy
 bibliophilic
 braggier
-bontok
 bullpates
 beerishly
 bhotiya
@@ -15502,6 +15501,7 @@ beadlet
 bryony
 biedermeier
 buglet
+bontok
 bryonia
 belloot
 bryophyllum
