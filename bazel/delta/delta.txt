@@ -3258,7 +3258,6 @@ domesticate
 defiber
 dystomous
 deionized
-doublethought
 dominie
 departs
 defibrillated
@@ -10464,6 +10463,7 @@ diodon
 delace
 disglorify
 disinterring
+doublethought
 diphenyls
 dispowder
 disfigurative
