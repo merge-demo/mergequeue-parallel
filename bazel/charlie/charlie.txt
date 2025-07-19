@@ -2633,6 +2633,7 @@ cursaro
 coign
 caner
 camelopardel
+cleanest
 canes
 caprellidae
 canescence
@@ -15787,7 +15788,6 @@ clean
 cardiology
 cleaned
 chloramine
-cleanest
 chinching
 cleanhanded
 capistrate
