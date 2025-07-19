@@ -1261,6 +1261,7 @@ calenders
 calendric
 calendrical
 calendula
+cothurni
 calendulas
 calendulin
 calentural
@@ -12406,7 +12407,6 @@ chromatopathia
 celebe
 chromatophil
 chromatophile
-cothurni
 chromatophilic
 chromatophilous
 chromatophobia
