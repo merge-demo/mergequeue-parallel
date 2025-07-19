@@ -4600,6 +4600,7 @@ carnous
 carns
 chamaecistus
 caro
+crain
 cuarto
 caroa
 colleger
@@ -10938,7 +10939,6 @@ cornu
 chirognomy
 cerement
 chirognomic
-crain
 chirognomically
 chirognomist
 cerebrates
