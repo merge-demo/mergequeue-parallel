@@ -7613,7 +7613,6 @@ coneighboring
 cactales
 cerebrals
 cardiopericarditis
-cerebrated
 cosmopolite
 cycloparaffin
 chivaried
@@ -23890,6 +23889,7 @@ channelwards
 contubernial
 contumacy
 ciceronic
+cerebrated
 contumacious
 chipyard
 cantel
