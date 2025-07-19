@@ -3187,6 +3187,7 @@ dummkopf
 defedation
 dictums
 dasyures
+duchy
 damselflies
 dudelsack
 dashpot
@@ -8560,7 +8561,6 @@ dehydrofreeze
 diet
 diaper
 dyschromatopsia
-duchy
 dethrone
 dos
 dewbeam
