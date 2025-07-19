@@ -21930,7 +21930,6 @@ confessional
 confessionalism
 confessionally
 chirographary
-confessor
 confessorship
 confetti
 conocephalus
@@ -27543,6 +27542,7 @@ coverchief
 cannulated
 cerberean
 covercle
+confessor
 coprolalia
 carangidae
 covered
