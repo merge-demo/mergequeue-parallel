@@ -1069,6 +1069,7 @@ archreactionary
 aphelion
 abthainrie
 abubble
+apneusis
 abuilding
 abuleia
 antitorpedo
@@ -16963,7 +16964,6 @@ americanizer
 apneumona
 apneumonous
 agrammatical
-apneusis
 apodemata
 apneustic
 apnoea
