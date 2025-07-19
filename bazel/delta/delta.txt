@@ -8613,7 +8613,6 @@ diversional
 dinosaurian
 destroying
 dicotyledons
-doormaking
 driftland
 dewan
 dissatisfied
@@ -10175,6 +10174,7 @@ deminatured
 dinetic
 dinette
 denazifies
+doormaking
 desilicating
 danai
 dusks

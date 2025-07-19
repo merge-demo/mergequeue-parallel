@@ -2081,7 +2081,6 @@ campaniles
 colloquiquiums
 campaniliform
 chicayote
-campanini
 casseroled
 campanistic
 cuecas
@@ -23906,6 +23905,7 @@ castlery
 casinos
 contuses
 contusion
+campanini
 choirwise
 contusioned
 contusions
