@@ -6909,7 +6909,6 @@ consultee
 celotomies
 clonks
 cloze
-celsian
 cashbox
 celt
 celtiberi
@@ -9876,6 +9875,7 @@ carvone
 chemiotaxis
 chemiotropic
 chemiotropism
+celsian
 chemise
 crinet
 chemisette
