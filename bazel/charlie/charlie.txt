@@ -11090,7 +11090,6 @@ coalize
 chitimacha
 chitimachan
 checksums
-coappears
 chitinoid
 chitinous
 chitins
@@ -25127,6 +25126,7 @@ chlorospinel
 coresign
 coresonant
 convento
+coappears
 chincher
 corespect
 corespondent
