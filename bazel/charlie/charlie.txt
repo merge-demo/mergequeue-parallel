@@ -1927,6 +1927,7 @@ constant
 camelopardus
 cloghad
 counterflashing
+candyfloss
 camelry
 camelus
 castalia
@@ -2758,7 +2759,6 @@ congruences
 counterembowed
 cannelle
 caliche
-candyfloss
 cannelon
 chintzes
 castrametation
