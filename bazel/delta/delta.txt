@@ -7748,6 +7748,7 @@ deils
 dram
 digger
 dysarthrosis
+doggrel
 defoliage
 devise
 dayton
@@ -15103,7 +15104,6 @@ doggoning
 detant
 dislady
 difunctional
-doggrel
 dogget
 doggrelize
 dottrels
