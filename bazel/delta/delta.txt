@@ -8083,7 +8083,6 @@ diaclase
 dhobis
 duchesse
 dysacusia
-delve
 dhooly
 dowiness
 dictyonine
@@ -10444,6 +10443,7 @@ demersion
 dictyostelic
 dipcoat
 disreputable
+delve
 dipetto
 dismayingness
 diphasic
