@@ -6714,6 +6714,7 @@ antemetic
 air
 agribusiness
 anaphorical
+anchylose
 airable
 avenue
 airan
@@ -23508,7 +23509,6 @@ autotoxicity
 appennage
 augmented
 aumery
-anchylose
 analgen
 aumildar
 aaronical
