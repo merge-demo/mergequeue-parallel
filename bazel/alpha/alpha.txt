@@ -242,6 +242,7 @@ abbreviators
 abc
 abcissa
 abcoulomb
+atheromata
 aba
 aggraded
 abdat
@@ -14424,7 +14425,6 @@ anthropobiology
 automaton
 anthropocentric
 amission
-atheromata
 anthropoclimatology
 acetaldehydase
 anthropodeoxycholic
