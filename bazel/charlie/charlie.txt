@@ -11413,7 +11413,6 @@ chloroplasts
 cosmonautics
 coenamorment
 commences
-chiastic
 chloroplatinous
 chloroprene
 creature
@@ -26370,6 +26369,7 @@ cotenancy
 cotenant
 cotenants
 cotenure
+chiastic
 concaved
 cinderlike
 centricipital
