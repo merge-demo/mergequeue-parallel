@@ -4094,6 +4094,7 @@ archetypist
 appendectomies
 adnascent
 adnate
+autotelegraph
 adnation
 alecithic
 adjudicates
@@ -24417,7 +24418,6 @@ autosuggestionist
 adversarious
 argentol
 autosuppression
-autotelegraph
 autotelism
 antiserum
 autoanticomplement
