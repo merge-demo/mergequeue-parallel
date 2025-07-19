@@ -3777,7 +3777,6 @@ captress
 ciconia
 carbasus
 carbazic
-carbazylic
 chlorpikrin
 cheerios
 civilist
@@ -12630,6 +12629,7 @@ crom
 citolers
 chronometers
 chronometric
+carbazylic
 chronometrically
 chronon
 choppily
