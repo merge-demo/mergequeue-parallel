@@ -4280,7 +4280,6 @@ bebog
 blessing
 boggish
 brabbled
-bembecidae
 bathyscaph
 battledore
 bacterious
@@ -15612,6 +15611,7 @@ baulkiest
 broaches
 blimpishness
 burgundies
+bembecidae
 batterable
 buffone
 barrenest
