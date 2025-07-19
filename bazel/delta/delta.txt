@@ -5224,7 +5224,6 @@ denizenation
 diquats
 dyscrased
 drumbler
-denizenship
 despraise
 dis
 dellenite
@@ -12196,6 +12195,7 @@ depositure
 degausser
 despiciency
 demander
+denizenship
 depurates
 duply
 disambiguates

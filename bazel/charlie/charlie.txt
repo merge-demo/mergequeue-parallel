@@ -7938,6 +7938,7 @@ capitulary
 carouses
 cestoidean
 cestoids
+chayota
 cestraction
 chairs
 colessees
@@ -16722,7 +16723,6 @@ covings
 clapbread
 carpetbeater
 clote
-chayota
 clomb
 cloth
 clothe
