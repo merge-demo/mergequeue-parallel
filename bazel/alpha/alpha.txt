@@ -3309,7 +3309,6 @@ adamantoblast
 adamas
 archery
 atresic
-atelets
 andean
 adamellite
 allosyndesis
@@ -22858,6 +22857,7 @@ atrial
 antipodeans
 atrible
 anabaptize
+atelets
 assonance
 alkylol
 atrichic
