@@ -2584,7 +2584,6 @@ demiquaver
 dashes
 decocting
 decoctive
-deaminizing
 demishirt
 decoctum
 drudgery
@@ -16237,6 +16236,7 @@ description
 diploidion
 destuff
 duplicated
+deaminizing
 devourment
 depurant
 dacryocystoblennorrhea
