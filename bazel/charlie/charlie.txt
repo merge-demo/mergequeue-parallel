@@ -1023,6 +1023,7 @@ cher
 compression
 calaththi
 calathus
+chattelizing
 calatrava
 calavance
 calbroben
@@ -9312,7 +9313,6 @@ chattelhood
 cacks
 constructiveness
 chattelism
-chattelizing
 chattels
 calamities
 chatter
