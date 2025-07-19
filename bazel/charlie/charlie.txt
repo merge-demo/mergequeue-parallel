@@ -24448,6 +24448,7 @@ cavefishes
 cooree
 coorie
 convoker
+cucujid
 coories
 coos
 counterpractice
@@ -30609,7 +30610,6 @@ cuckoopintle
 cucoline
 cucuy
 chunnia
-cucujid
 cucujus
 callitype
 cucularis
