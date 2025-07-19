@@ -3692,7 +3692,6 @@ decadescent
 daffadowndilly
 degreewise
 dorsers
-degressive
 dactylopterus
 daunting
 daffish
@@ -7792,6 +7791,7 @@ dholes
 devolatilised
 dosimetries
 dryrot
+degressive
 diplospondyli
 dagestan
 depeople
