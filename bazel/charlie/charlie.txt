@@ -5916,7 +5916,6 @@ catfalls
 catfight
 creeled
 catfish
-catfoot
 catfooted
 chhatri
 catgut
@@ -7434,6 +7433,7 @@ crusher
 cephalopodous
 cephalopterus
 cephaloridine
+catfoot
 cadus
 copecks
 cephalosome
