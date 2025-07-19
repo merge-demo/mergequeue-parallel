@@ -14995,7 +14995,6 @@ contorsion
 chlorpropamide
 chromoplasm
 counterparallel
-crossjack
 citreous
 citric
 citril
@@ -23995,6 +23994,7 @@ compliancies
 conveniences
 curin
 chubb
+crossjack
 conveniency
 conveniencies
 convenient
