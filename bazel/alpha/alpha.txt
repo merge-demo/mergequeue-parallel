@@ -10890,6 +10890,7 @@ amerindic
 allegorical
 amniocentesis
 amniochorial
+aenigma
 auxanology
 amniomancy
 amnionata
@@ -21730,7 +21731,6 @@ altropathy
 asservilize
 asses
 appetibility
-aenigma
 anionics
 antifertilizer
 anagogically
