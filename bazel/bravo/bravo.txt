@@ -1143,7 +1143,6 @@ ballard
 baiting
 baittle
 baywoods
-bodhisat
 ballasting
 balladized
 baiza
@@ -10305,6 +10304,7 @@ bladderlike
 biblism
 bladderseed
 bladderwort
+bodhisat
 blading
 blade
 beleaguerer
