@@ -6241,7 +6241,6 @@ dithyramb
 degrades
 drabness
 dipsades
-disbenchment
 dactylopodite
 dermanaplasty
 dermapterous
@@ -11016,6 +11015,7 @@ disagreeing
 degranulation
 demonial
 disagreements
+disbenchment
 disrelation
 disagreing
 dethronable
