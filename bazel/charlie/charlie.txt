@@ -5469,6 +5469,7 @@ casualist
 curvesome
 casuals
 casualty
+craniostenosis
 casuariiformes
 chloramide
 casuarina
@@ -24260,7 +24261,6 @@ crescendi
 chirographer
 confessing
 chaka
-craniostenosis
 convulsions
 clostridia
 convulsive

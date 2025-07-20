@@ -3195,7 +3195,6 @@ de
 dogdom
 deciding
 douses
-defeminized
 dipsadine
 dryth
 drool
@@ -6614,6 +6613,7 @@ destroyed
 dilettant
 denumerative
 dipentene
+defeminized
 decipherable
 digested
 deprecations
