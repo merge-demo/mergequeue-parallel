@@ -16236,6 +16236,7 @@ counterreligion
 cline
 clines
 caudexes
+coparent
 clinger
 crankness
 crossbeak
@@ -24498,7 +24499,6 @@ coparcener
 coparceny
 coparenary
 civilizations
-coparent
 compartmentation
 coparents
 caroigne
