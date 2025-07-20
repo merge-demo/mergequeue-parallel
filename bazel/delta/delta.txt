@@ -3596,7 +3596,6 @@ dodecant
 degaussing
 destituting
 diatonous
-degener
 declaredness
 dripping
 dextrogyre
@@ -9825,6 +9824,7 @@ decaphyllous
 deckpipe
 dysoxidize
 dipsos
+degener
 dermatocyst
 dillesk
 daimones
