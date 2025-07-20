@@ -1882,6 +1882,7 @@ bewend
 bonaght
 battutos
 bevies
+biolytic
 batukite
 bishoplike
 biostatics
@@ -16274,7 +16275,6 @@ bleared
 boussingaultia
 brucellosis
 barely
-biolytic
 brucia
 brucin
 brucine
