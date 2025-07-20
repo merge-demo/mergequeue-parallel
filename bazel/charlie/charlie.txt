@@ -14597,7 +14597,6 @@ cyclolith
 cystelcosis
 cosmologic
 cistercian
-choppy
 cistercianism
 cisternae
 cariocas
@@ -26889,6 +26888,7 @@ crosne
 colliquativeness
 copperleaf
 counterlath
+choppy
 corticospinal
 counterlathed
 comingle
