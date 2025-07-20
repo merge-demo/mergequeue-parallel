@@ -6856,7 +6856,6 @@ danuri
 desmogenous
 dreariment
 desmography
-desmoids
 disproportionalness
 draughted
 drawgear
@@ -11123,6 +11122,7 @@ disarticulating
 disarticulation
 detruded
 disarticulator
+desmoids
 disasinize
 deliciously
 descriptors
