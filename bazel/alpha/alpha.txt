@@ -5605,7 +5605,6 @@ almeidina
 aminoaciduria
 agag
 ashkenazic
-amygdale
 andabatarian
 aeschylean
 again
@@ -13251,6 +13250,7 @@ assailing
 asnort
 anisodactylic
 axilemma
+amygdale
 anisogamete
 anisogametes
 algarde
