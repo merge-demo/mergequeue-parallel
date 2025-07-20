@@ -13473,7 +13473,6 @@ disillusionment
 disguiseless
 despotism
 disrobement
-disrober
 douzaine
 danseur
 debi
@@ -17604,6 +17603,7 @@ downloaded
 dorsalis
 denicotinizing
 drupa
+disrober
 dysthyroidism
 drupel
 dispunishable
