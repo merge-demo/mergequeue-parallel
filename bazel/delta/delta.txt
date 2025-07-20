@@ -15931,7 +15931,6 @@ devilwood
 dims
 distileries
 dossmen
-dissemblies
 decamerous
 desaminase
 downcried
@@ -18670,6 +18669,7 @@ dwarfer
 dwarfishness
 documentarily
 derogatoriness
+dissemblies
 dwarfisms
 darwinically
 detersively
