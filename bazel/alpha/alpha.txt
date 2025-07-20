@@ -6678,7 +6678,6 @@ ainaleh
 anthropoclimatologist
 arachic
 acardia
-antireligiosity
 aine
 antheral
 antinegro
@@ -23554,6 +23553,7 @@ auramin
 auramine
 asterisms
 aurang
+antireligiosity
 aborters
 alleviates
 aureation
