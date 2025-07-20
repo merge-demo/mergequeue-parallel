@@ -11714,6 +11714,7 @@ cholochrome
 cholocyanine
 cinematographic
 crossroading
+cammas
 convell
 chololithic
 cholones
@@ -31830,7 +31831,6 @@ coliiformes
 cretic
 cutinised
 cloggy
-cammas
 campestrian
 cutinising
 cutinize
