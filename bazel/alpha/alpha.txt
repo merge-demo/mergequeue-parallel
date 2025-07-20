@@ -13908,7 +13908,6 @@ algist
 apronlike
 antagonists
 anniellidae
-antagonization
 aclu
 antagonizes
 agonothet
@@ -21890,6 +21889,7 @@ arnottos
 alternations
 assorted
 alethiologic
+antagonization
 assorter
 assortments
 anthropophagic
