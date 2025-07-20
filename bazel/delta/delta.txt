@@ -2853,6 +2853,7 @@ dramatizations
 donors
 dynatron
 decumanus
+detonative
 daphnin
 dolomitised
 diskos
@@ -7394,7 +7395,6 @@ disowned
 detonations
 dusking
 demean
-detonative
 detonize
 detour
 duncifying
