@@ -10540,7 +10540,6 @@ accoy
 amidulin
 abnegating
 absinthiating
-avidly
 amyelencephalous
 apomictically
 adenoidism
@@ -22486,6 +22485,7 @@ atelo
 atelocephalous
 ateloglossia
 abacist
+avidly
 atelomyelia
 ateloprosopia
 acoenaesthesia
