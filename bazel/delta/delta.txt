@@ -4294,7 +4294,6 @@ deluce
 delude
 dishonored
 dipperful
-detribalized
 debruising
 disyllabic
 dunal
@@ -8427,6 +8426,7 @@ detentes
 diallagic
 dogmaticalness
 diallagite
+detribalized
 deadwort
 dt
 decimetres
