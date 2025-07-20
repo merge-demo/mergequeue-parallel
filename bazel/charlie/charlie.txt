@@ -1898,7 +1898,6 @@ cambridge
 catostomidae
 chaumer
 cambuca
-cambuscan
 came
 camel
 comforted
@@ -10896,6 +10895,7 @@ chippies
 choledocholithiasis
 chippiest
 chipping
+cambuscan
 chippings
 castaneous
 clerk
