@@ -236,7 +236,6 @@ descending
 dinnertime
 dorsula
 displanting
-diff
 discrepencies
 duotoned
 discorrespondency
@@ -4292,6 +4291,7 @@ dauerlauf
 delubra
 deluce
 delude
+diff
 dishonored
 dipperful
 detribalized
