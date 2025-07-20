@@ -543,6 +543,7 @@ ablend
 ablepharon
 adore
 abler
+avowals
 ataraxies
 amidophosphoric
 amyotrophia
@@ -24864,7 +24865,6 @@ avowable
 aveny
 avowably
 adenographer
-avowals
 archrebel
 avowed
 aseptic
