@@ -11436,6 +11436,7 @@ barad
 babuma
 boatheader
 bairnliest
+boarspear
 bluepoint
 bluepoints
 blueprint
@@ -11619,7 +11620,6 @@ brachyural
 blockishly
 biunivocal
 barche
-boarspear
 balloter
 burns
 bevels
