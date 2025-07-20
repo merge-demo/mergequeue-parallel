@@ -9399,7 +9399,6 @@ dasypodidae
 differer
 differs
 dextrorsely
-duncify
 deprive
 difficileness
 difficilitate
@@ -12996,6 +12995,7 @@ dottrel
 didric
 disorients
 disown
+duncify
 downing
 dysoxidation
 defrayment
