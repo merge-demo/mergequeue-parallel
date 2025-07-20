@@ -1315,7 +1315,6 @@ balanta
 bescorn
 bottine
 balantidic
-bearlike
 balaos
 baroquely
 benzamino
@@ -4364,6 +4363,7 @@ bowman
 benedictive
 boehmites
 brickier
+bearlike
 bullimong
 becky
 becking
