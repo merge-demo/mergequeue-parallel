@@ -9455,7 +9455,6 @@ chawstick
 citoyen
 chazan
 chazanim
-chazans
 chazanut
 chazy
 circularwise
@@ -18535,6 +18534,7 @@ chandlering
 collieries
 cohobator
 choushes
+chazans
 ceratocystis
 cohol
 coholders
