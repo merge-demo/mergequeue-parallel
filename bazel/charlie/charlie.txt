@@ -3955,6 +3955,7 @@ cameist
 carburetting
 carburettor
 calendared
+census
 carburised
 contributed
 carlylism
@@ -7043,7 +7044,6 @@ censure
 censureless
 coexecutant
 coddling
-census
 caecitis
 censusing
 centage

@@ -6495,6 +6495,7 @@ burge
 backdate
 bellon
 bepatched
+barrio
 bettergates
 bailo
 boxings
@@ -18164,7 +18165,6 @@ bosses
 biogenase
 butyrometer
 barometrically
-barrio
 butyrometric
 botchwork
 begorry
