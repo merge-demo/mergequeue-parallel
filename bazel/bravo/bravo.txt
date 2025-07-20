@@ -1351,7 +1351,6 @@ borderlands
 balbusard
 beggarliness
 burlap
-brayed
 butterbump
 betwixen
 balconies
@@ -11679,6 +11678,7 @@ beneficience
 boattail
 blazoners
 bosks
+brayed
 boatward
 boatwright
 bob
