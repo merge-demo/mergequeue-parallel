@@ -5621,7 +5621,6 @@ constabulary
 cataloguing
 clankety
 cataloguist
-catalonian
 cataloon
 catalos
 catalufa
@@ -11828,6 +11827,7 @@ contemperate
 chondrosternal
 collyba
 chondrotomy
+catalonian
 chonk
 collaborate
 calfhood
