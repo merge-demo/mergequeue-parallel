@@ -119,7 +119,6 @@ baconic
 blurrily
 bludgeoned
 babylike
-babillard
 babylon
 butylating
 backtrace
@@ -1958,6 +1957,7 @@ bandworm
 boogiewoogie
 baylet
 baneberry
+babillard
 benzoflavine
 bullragging
 bentiness
