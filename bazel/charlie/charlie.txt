@@ -9753,6 +9753,7 @@ cribwork
 cheilodipteridae
 cheilodipterus
 cheiloplasty
+cevadilla
 cheilostomata
 cheilostomatous
 censer
@@ -14370,7 +14371,6 @@ circumradiuses
 charitable
 claver
 conferring
-cevadilla
 conamed
 circumrotate
 circumrotated
