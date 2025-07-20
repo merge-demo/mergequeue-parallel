@@ -12337,6 +12337,7 @@ andriana
 abnormally
 acquaintant
 andrias
+annotating
 andrite
 antlions
 acervuli
@@ -15767,7 +15768,6 @@ ascendent
 antiphonary
 amathophobia
 articulatorily
-annotating
 autonoetic
 accinged
 ahankara
