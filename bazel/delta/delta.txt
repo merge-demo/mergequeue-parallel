@@ -1554,7 +1554,6 @@ dhanush
 demand
 diplomata
 disposition
-determinatively
 desitive
 disembody
 deadlocking
@@ -6285,6 +6284,7 @@ dermatomyces
 deploredness
 diplokaryon
 dweeble
+determinatively
 doldrums
 diact
 dermatoneurosis
