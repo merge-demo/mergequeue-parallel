@@ -496,7 +496,6 @@ dalibarda
 dismantler
 dalle
 diamylene
-desmotropic
 dividing
 dalliances
 dallied
@@ -8450,6 +8449,7 @@ devide
 deconcentrator
 deported
 deliver
+desmotropic
 dolia
 defiledness
 dreep
