@@ -435,7 +435,6 @@ abilitable
 ability
 anomaly
 abilla
-anicular
 abilo
 acinetinan
 arugolas
@@ -13412,6 +13411,7 @@ antimnemonic
 annaly
 annalia
 annaline
+anicular
 antigrammaticalness
 apathetic
 annalistic
