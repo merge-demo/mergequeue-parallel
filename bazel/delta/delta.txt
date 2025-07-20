@@ -3064,7 +3064,6 @@ dairi
 defacement
 defacements
 disgustfully
-disquietingly
 deadliness
 downbent
 doohickus
@@ -5058,6 +5057,7 @@ downdraft
 devotes
 doand
 dextrocardia
+disquietingly
 darci
 doorstead
 deemphasis
