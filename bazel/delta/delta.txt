@@ -2811,7 +2811,6 @@ dictionary
 deprivers
 discind
 deuteroglobulose
-decretorian
 dithymol
 duplicative
 defi
@@ -11718,6 +11717,7 @@ doctrinarian
 disencourage
 declinator
 disprobabilization
+decretorian
 dashy
 discourteousness
 discoach
