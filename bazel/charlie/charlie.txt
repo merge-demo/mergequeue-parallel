@@ -5002,7 +5002,6 @@ chevrony
 cartulary
 cartularies
 carapache
-collaring
 cartware
 cabossed
 confervoid
@@ -15633,6 +15632,7 @@ clathrarian
 clathrate
 choose
 clathrinidae
+collaring
 clathroid
 clathrose
 cranes
