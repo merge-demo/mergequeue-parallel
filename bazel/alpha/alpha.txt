@@ -4336,7 +4336,6 @@ adularescence
 assertorial
 arthritic
 ankylomerism
-anilidoxime
 adularias
 aubretia
 athetesis
@@ -9069,6 +9068,7 @@ absterged
 alloxans
 arsenicalism
 anthesis
+anilidoxime
 alloxantin
 anthracoid
 alloxuraemia
