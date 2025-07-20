@@ -3111,7 +3111,6 @@ archigonocyte
 antimonous
 action
 albiflorous
-antagonizer
 allotrophic
 actionably
 assoc
@@ -5853,6 +5852,7 @@ acetylator
 aggenerate
 agger
 aroints
+antagonizer
 autostoper
 archdepredator
 axospermous
