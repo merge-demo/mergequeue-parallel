@@ -30013,7 +30013,6 @@ crotons
 crotophaga
 crottal
 concentrically
-complaintive
 crottle
 crouch
 crouchant
@@ -31746,6 +31745,7 @@ customaries
 consubstantiationist
 cystenchymatous
 customariness
+complaintive
 customer
 cervisial
 customers
