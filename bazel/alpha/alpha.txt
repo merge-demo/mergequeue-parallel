@@ -3606,6 +3606,7 @@ adenomyoma
 adenomyxosarcoma
 adenoncus
 adenoneural
+aplodiorite
 antiradiation
 alkalimetrically
 arrestees
@@ -10321,7 +10322,6 @@ allotheria
 ankylopoietic
 autompne
 amentiform
-aplodiorite
 aerobe
 asseveratively
 aments
