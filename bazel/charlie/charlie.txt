@@ -25912,7 +25912,6 @@ corticium
 corticoafferent
 corticoline
 calories
-corticolous
 corruptibly
 corticose
 corticosteroids
@@ -30336,6 +30335,7 @@ coadventuress
 compt
 cabaretier
 crurotarsal
+corticolous
 crus
 champed
 chocolatier
