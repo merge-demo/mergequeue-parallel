@@ -3731,7 +3731,6 @@ awol
 adiabat
 adumbrate
 antecedal
-adiadochokinesis
 adiadokokinesia
 adiagnostic
 adiamorphic
@@ -5654,6 +5653,7 @@ agamete
 angulates
 agami
 agamy
+adiadochokinesis
 ascigerous
 agamian
 appendicitis
