@@ -8656,7 +8656,6 @@ behear
 billtong
 basins
 bilobe
-besiegingly
 bilobed
 bilocular
 biloculina
@@ -13081,6 +13080,7 @@ bugseeds
 boodleism
 borel
 borers
+besiegingly
 barajillo
 bangling
 bowlmaker
