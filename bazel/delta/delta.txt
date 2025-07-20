@@ -1628,6 +1628,7 @@ deobstruct
 devotional
 daunter
 dicephalus
+decentration
 darkhaired
 deerhair
 deallocations
@@ -18562,7 +18563,6 @@ dyslexic
 disbarment
 diffeomorphism
 deaconal
-decentration
 dush
 dusked
 ditchdigger
