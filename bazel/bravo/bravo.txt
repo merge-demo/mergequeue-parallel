@@ -1936,6 +1936,7 @@ bandsawn
 bandsman
 bandstand
 beacon
+bombardiers
 boronia
 beseechment
 bocaccios
@@ -12298,7 +12299,6 @@ bombace
 behang
 byrls
 bioscientist
-bombardiers
 bombarding
 benzyl
 bumblebomb
