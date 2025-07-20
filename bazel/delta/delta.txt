@@ -7853,7 +7853,6 @@ diaphanie
 devouringness
 deranger
 divesting
-diprotodon
 divertise
 donnered
 duomos
@@ -11590,6 +11589,7 @@ disconnection
 diplococcic
 disconnector
 demicannon
+diprotodon
 disconnects
 denotable
 devillike
