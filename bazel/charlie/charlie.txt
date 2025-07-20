@@ -5847,7 +5847,6 @@ categorizes
 communicants
 crawling
 chateau
-cateye
 catel
 coelongated
 catelectrode
@@ -12371,6 +12370,7 @@ cenote
 claimless
 chromate
 conjunction
+cateye
 chromates
 chrysomonadine
 chromatically
