@@ -7054,7 +7054,6 @@ balor
 balsamous
 beryciform
 blepharedema
-balantidiosis
 brideknot
 bussings
 belletrist
@@ -10411,6 +10410,7 @@ burgrave
 biosynthesis
 bravado
 birdbrains
+balantidiosis
 beadsman
 bragged
 buonamano
