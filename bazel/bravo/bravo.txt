@@ -2688,7 +2688,6 @@ barnard
 benightment
 barnbrack
 brachyprosopic
-betweenbrain
 beelzebub
 barneys
 bourr
@@ -11514,6 +11513,7 @@ bangia
 blunderhead
 beachie
 buttonbur
+betweenbrain
 barotaxis
 birthday
 bullae
