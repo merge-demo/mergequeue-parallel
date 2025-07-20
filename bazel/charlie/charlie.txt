@@ -6919,7 +6919,6 @@ celtiberian
 celticize
 celtidaceae
 celtiform
-celtillyrians
 consortiums
 celtis
 celtish
@@ -12717,6 +12716,7 @@ chucklingly
 cirrocumular
 counterchanging
 chaine
+celtillyrians
 chuckwalla
 chapeling
 cogovernment
