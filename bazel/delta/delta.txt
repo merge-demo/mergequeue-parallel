@@ -4012,7 +4012,6 @@ duplex
 delectated
 devitalise
 deputized
-distune
 delectating
 damnously
 distributivity
@@ -14358,6 +14357,7 @@ difficile
 demogorgon
 democratical
 divagatory
+distune
 dermatologic
 diureticalness
 dialyzed
