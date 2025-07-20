@@ -146,7 +146,6 @@ bacin
 bourne
 banister
 basidiocarp
-biocoenosis
 beeheaded
 beachcomb
 butyrically
@@ -3361,6 +3360,7 @@ biotechnics
 bassetta
 blockbuster
 bays
+biocoenosis
 bandstands
 beforetimes
 basiophthalmous
