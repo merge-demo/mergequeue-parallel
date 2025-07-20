@@ -9388,6 +9388,7 @@ brimse
 basidial
 boastless
 buriti
+broggle
 baronetship
 bullyrook
 bulges
@@ -10771,7 +10772,6 @@ beclart
 bureaucracy
 beethovenish
 bolectioned
-broggle
 beavered
 boody
 bibulus
