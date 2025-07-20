@@ -7895,6 +7895,7 @@ dioestrus
 dewdrop
 dewdropper
 drank
+dewbeam
 dogteeth
 drillet
 deweylite
@@ -8563,7 +8564,6 @@ dyschromatopsia
 duchy
 dethrone
 dos
-dewbeam
 didacts
 diaphanometric
 dampishness

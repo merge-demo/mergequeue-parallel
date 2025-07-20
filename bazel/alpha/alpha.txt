@@ -4141,7 +4141,6 @@ amberoids
 adonizing
 adoperate
 adoptability
-adoptabilities
 ammonals
 aphrasia
 adjag
@@ -7994,6 +7993,7 @@ alexandrine
 alexandrite
 accadian
 altruistically
+adoptabilities
 alexia
 alexias
 arenicole
