@@ -3408,7 +3408,6 @@ addibility
 antroversion
 aphoruridae
 addible
-addicent
 addicted
 antiknocks
 addictedness
@@ -14689,6 +14688,7 @@ ambulacral
 antisex
 antiblastic
 abjudication
+addicent
 acclimation
 avarian
 anisotropy
