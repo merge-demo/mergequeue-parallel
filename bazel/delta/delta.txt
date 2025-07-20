@@ -8837,6 +8837,7 @@ demethylation
 diazotype
 dromicia
 disadvise
+dioxanes
 deratization
 dulses
 dolefuller
@@ -10415,7 +10416,6 @@ dioxan
 dfault
 deejays
 dioxane
-dioxanes
 droiture
 diplosphene
 dioxy
