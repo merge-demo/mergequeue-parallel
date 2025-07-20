@@ -5120,6 +5120,7 @@ bombable
 bunkery
 belching
 borderers
+baybolt
 baffle
 boussingaultite
 bunrakus
@@ -15239,7 +15240,6 @@ bridesmaid
 bridesmaids
 blunges
 bridesmen
-baybolt
 bridestake
 broodlet
 barnlike
