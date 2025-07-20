@@ -1978,6 +1978,7 @@ diced
 drover
 demyelinate
 dominated
+dynamogeny
 deflection
 decadactylous
 descloizite
@@ -10108,7 +10109,6 @@ dehydrogeniser
 dangers
 debilitation
 dynamogenesis
-dynamogeny
 dauphins
 dynamograph
 dauerschlaf
