@@ -6241,7 +6241,6 @@ dithyramb
 degrades
 drabness
 dipsades
-disbenchment
 dactylopodite
 dermanaplasty
 dermapterous
@@ -8770,6 +8769,7 @@ diatomicity
 duetted
 dinting
 defocusses
+disbenchment
 deescalations
 diatomist
 dot
