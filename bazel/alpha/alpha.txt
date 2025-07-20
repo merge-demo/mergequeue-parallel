@@ -18840,6 +18840,7 @@ alights
 assemblers
 archiepiscopacy
 abomasa
+artolater
 ardrigh
 archiepiscopal
 automatons
@@ -20752,7 +20753,6 @@ artlike
 artocarpaceae
 artocarpeous
 artocarpous
-artolater
 aliner
 artolatry
 amianthiform
