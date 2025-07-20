@@ -2844,7 +2844,6 @@ canonicalization
 cultivable
 cinctures
 canonicalized
-canonicalizes
 circumventive
 congealer
 cremor
@@ -15765,6 +15764,7 @@ clawed
 clawer
 cubbishly
 clawers
+canonicalizes
 clawing
 clawk
 colobium
