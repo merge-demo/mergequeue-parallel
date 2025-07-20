@@ -548,7 +548,6 @@ amidophosphoric
 amyotrophia
 actualize
 ablude
-autonomous
 abluent
 abluents
 aventurine
@@ -13193,6 +13192,7 @@ animous
 animus
 administrationist
 animuses
+autonomous
 anyone
 anionic
 amiles
