@@ -21850,7 +21850,6 @@ cassian
 cytopharynges
 calypter
 caravanist
-confabulatory
 caracul
 counterdecree
 confact
@@ -27732,6 +27731,7 @@ cowry
 cowrie
 cowries
 calina
+confabulatory
 cowroid
 crescentic
 catbrier
