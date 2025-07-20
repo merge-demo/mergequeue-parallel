@@ -4687,6 +4687,7 @@ aenigmatite
 aeolia
 ated
 aeolic
+achromic
 animisms
 alluvial
 alveolarly
@@ -7445,7 +7446,6 @@ albrecht
 albricias
 albright
 arable
-achromic
 agelong
 agma
 albuginaceae
