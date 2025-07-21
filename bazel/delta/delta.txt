@@ -2288,7 +2288,6 @@ decentering
 discomfortableness
 daidled
 dirtplate
-decenters
 disaggregation
 digestors
 deliberant
@@ -8457,6 +8456,7 @@ demipremiss
 diabetophobia
 dialogizing
 devesting
+decenters
 dialonian
 dorsocervically
 dorsiventrally

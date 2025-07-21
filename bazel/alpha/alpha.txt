@@ -18488,7 +18488,6 @@ arboricolous
 arboriculture
 abject
 ateknia
-arte
 aporobranchia
 arborists
 arsmetrike
@@ -23930,6 +23929,7 @@ autobuses
 anglo
 autobusses
 ariettes
+arte
 autocall
 antilogarithms
 aftertrial
