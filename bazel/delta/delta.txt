@@ -8607,7 +8607,6 @@ directions
 digressionary
 daphnioid
 diapirs
-diaplases
 disk
 diversional
 dinosaurian
@@ -9215,6 +9214,7 @@ denazification
 demilance
 devilman
 ditriglyph
+diaplases
 dieb
 dusterman
 delaine

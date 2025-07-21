@@ -10869,7 +10869,6 @@ chiplet
 culvert
 chipmunk
 claviharp
-chipmunks
 chrysochrous
 chipolata
 coleopteroid
@@ -24222,6 +24221,7 @@ contakia
 candled
 caponised
 craped
+chipmunks
 convolvulaceae
 convolvulaceous
 convolvulad
