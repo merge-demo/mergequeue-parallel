@@ -18339,6 +18339,7 @@ cisoceanic
 cholerically
 crenelled
 cogger
+coruler
 coggers
 cogging
 coggledy
@@ -19964,7 +19965,6 @@ commandite
 commandless
 cruentate
 cyp
-coruler
 commandment
 chronophotographic
 cozzes
