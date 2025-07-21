@@ -175,7 +175,6 @@ abbadide
 acolapissa
 anakes
 abbasi
-abbasside
 abbate
 advertizable
 ashtray
@@ -3114,6 +3113,7 @@ albiflorous
 antagonizer
 allotrophic
 actionably
+abbasside
 assoc
 avertin
 adalat
