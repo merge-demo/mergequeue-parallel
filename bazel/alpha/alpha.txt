@@ -18843,7 +18843,6 @@ abomasa
 ardrigh
 archiepiscopal
 automatons
-archiepiscopality
 aboiteaus
 abridge
 acritical
@@ -25283,6 +25282,7 @@ anisogamous
 azoch
 amylophosphoric
 articulateness
+archiepiscopality
 argyropelecus
 archaistic
 arvicola
