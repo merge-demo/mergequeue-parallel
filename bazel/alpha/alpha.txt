@@ -15677,7 +15677,6 @@ anterospinal
 assapanick
 axons
 antiparliamentarians
-acraniate
 antiparticles
 addice
 antipasch
@@ -23409,6 +23408,7 @@ augend
 adversity
 antiantidote
 aquiform
+acraniate
 agitable
 augends
 anatomicophysiologic
