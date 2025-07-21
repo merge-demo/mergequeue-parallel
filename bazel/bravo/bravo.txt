@@ -1539,7 +1539,6 @@ ballastic
 ballata
 brisked
 batikulin
-ballatoon
 backcasts
 brunetteness
 berri
@@ -12760,6 +12759,7 @@ bookmobiles
 baroni
 burlesk
 bookpress
+ballatoon
 bookracks
 blacklegging
 baronry
