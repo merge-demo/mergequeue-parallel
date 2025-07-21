@@ -121,7 +121,6 @@ determinability
 dadaism
 dipterocecidium
 dadaistic
-desmarestiaceous
 denticule
 determinableness
 diddered
@@ -12883,6 +12882,7 @@ dismissal
 dismissals
 dismissed
 distemperate
+desmarestiaceous
 dismisses
 dismissing
 dismissory
