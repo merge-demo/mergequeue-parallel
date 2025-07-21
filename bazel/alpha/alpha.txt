@@ -1240,6 +1240,7 @@ anlia
 acanthophorous
 aboded
 acanthopodous
+antisideric
 aqueously
 acanthopomatous
 acanthopteran
@@ -16113,7 +16114,6 @@ angiasthenia
 antishipping
 antisialagogue
 amphitryon
-antisideric
 antisilverite
 antisymmetry
 aethalioid
