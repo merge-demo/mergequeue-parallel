@@ -4049,7 +4049,6 @@ beamman
 bskt
 beamroom
 baragnosis
-blitzkrieged
 beams
 bargees
 bantlings
@@ -9821,6 +9820,7 @@ barbicans
 bowdlerization
 barrels
 balawa
+blitzkrieged
 beamy
 biternately
 beworried
