@@ -5858,7 +5858,6 @@ berseem
 bribeworthy
 baigneuse
 bellies
-bellyful
 bestrews
 boor
 beadier
@@ -9924,6 +9923,7 @@ bittings
 boodle
 budders
 boget
+bellyful
 bitubercular
 bellyflaught
 bedticking
