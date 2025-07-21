@@ -14102,7 +14102,6 @@ anteoccupation
 anteocular
 accessability
 amy
-apriline
 anteoperculum
 anteorbital
 albopannin
@@ -21668,6 +21667,7 @@ assemblyman
 assemblywoman
 aerohydrotherapy
 assentaneous
+apriline
 assentator
 assentatory
 apoikia
