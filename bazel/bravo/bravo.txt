@@ -2926,6 +2926,7 @@ barren
 barretor
 bloodybones
 billowed
+besetter
 bonus
 beath
 battalias
@@ -3135,7 +3136,6 @@ basepoint
 baser
 brazen
 blanda
-besetter
 biddie
 bayete
 bashers
