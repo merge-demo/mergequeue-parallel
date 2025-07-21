@@ -3525,7 +3525,6 @@ dismissable
 digitalizing
 decadarchy
 defrayed
-doom
 deperition
 defrayers
 defraying
@@ -7859,6 +7858,7 @@ donnered
 duomos
 dukery
 devove
+doom
 discombobulates
 dalcassian
 dermestes

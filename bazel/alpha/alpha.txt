@@ -18786,6 +18786,7 @@ aroma
 archflamen
 archfoe
 archfool
+allurers
 ancestresses
 aluminothermic
 angloid
@@ -20786,7 +20787,6 @@ aligreek
 arundiferous
 avouter
 allophylic
-allurers
 arupa
 ampulate
 arusha
