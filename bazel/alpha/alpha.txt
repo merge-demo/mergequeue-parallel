@@ -3776,6 +3776,7 @@ argufier
 alentours
 ariel
 asconia
+archiprelatical
 anchorwise
 ametabole
 adieu
@@ -14494,7 +14495,6 @@ admirability
 arborean
 anthropomorphisms
 amphitricha
-archiprelatical
 anthropomorphitical
 anthropomorphized
 anthropomorphology
