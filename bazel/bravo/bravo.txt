@@ -13012,7 +13012,6 @@ bibles
 baptismally
 boraginaceous
 borago
-bugger
 bedamn
 boran
 boranes
@@ -16407,6 +16406,7 @@ brushback
 butt
 bladesmith
 basilar
+bugger
 bestick
 betrace
 botas
