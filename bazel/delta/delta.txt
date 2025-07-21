@@ -4352,6 +4352,7 @@ diversicolored
 demagogic
 daubster
 diamondiferous
+dextral
 diacritical
 dods
 demagogical
@@ -7954,7 +7955,6 @@ diaplex
 decemplicate
 dexterously
 dextrad
-dextral
 directed
 dextran
 doruck
