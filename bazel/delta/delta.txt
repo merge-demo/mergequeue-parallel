@@ -6094,7 +6094,6 @@ dramaticism
 dognapper
 disaster
 dauntlessly
-deputizing
 degraders
 debriefed
 dandle
@@ -16069,6 +16068,7 @@ drossier
 douceness
 despitous
 douceur
+deputizing
 dakir
 dextrins
 doucker

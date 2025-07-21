@@ -13324,7 +13324,6 @@ anisotrope
 anisotropically
 anencephalotrophia
 archimorphic
-anisotropies
 anystidae
 anhydrating
 anisum
@@ -16543,6 +16542,7 @@ alisanders
 apanthropia
 androphorum
 aparejos
+anisotropies
 apargia
 apart
 actinologue
