@@ -12006,6 +12006,7 @@ braula
 bidigitate
 bromeliad
 babysitting
+bombora
 bunkhouse
 biogens
 bohora
@@ -12384,7 +12385,6 @@ bergeres
 beele
 boonk
 bombonne
-bombora
 bawls
 beswarmed
 bombus
