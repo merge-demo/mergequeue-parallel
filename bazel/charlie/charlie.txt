@@ -2532,7 +2532,6 @@ corporeal
 chaldaical
 candlefishes
 collogued
-candleholder
 candlelight
 candlelighter
 chaloth
@@ -19948,6 +19947,7 @@ commandedness
 courtesying
 coelacanthine
 classicised
+candleholder
 commandeer
 centenarians
 corbeling
