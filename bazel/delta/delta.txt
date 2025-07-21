@@ -3066,7 +3066,6 @@ defacements
 disgustfully
 disquietingly
 deadliness
-downbent
 doohickus
 dentaria
 defacer
@@ -14064,6 +14063,7 @@ decommissioning
 dyspepsies
 draughtman
 distributary
+downbent
 distributaries
 designative
 doocot
