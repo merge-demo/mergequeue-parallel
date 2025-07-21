@@ -7371,7 +7371,6 @@ chequering
 cephalina
 cephaline
 cephalins
-cephalism
 cephalitis
 cephalization
 cephaloauricular
@@ -9713,6 +9712,7 @@ cheesemongering
 cheeseparer
 canaster
 cerebrasthenic
+cephalism
 caravaning
 cheeseparing
 cheesewood
