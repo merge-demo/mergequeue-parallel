@@ -15142,7 +15142,6 @@ anteconsonantal
 antievolutionist
 alectoromorphae
 antiexpansion
-antiexpansionism
 antiexpressionism
 antiexpressionist
 antiexpressive
@@ -22894,6 +22893,7 @@ aly
 an
 awls
 antimaterialism
+antiexpansionism
 affectless
 atrociously
 assidaean
