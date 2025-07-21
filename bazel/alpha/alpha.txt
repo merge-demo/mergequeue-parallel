@@ -17481,7 +17481,6 @@ appd
 abjuratory
 acetarsone
 appeach
-antitrismus
 amblyacousia
 appeachment
 antiantienzyme
@@ -25237,6 +25236,7 @@ antical
 azeotrope
 abstrict
 azeotropic
+antitrismus
 azerbaijani
 azerbaijanian
 azha
