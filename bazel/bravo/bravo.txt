@@ -11637,7 +11637,6 @@ bryologist
 bosket
 boatage
 bacterioscopical
-barspoon
 boatbuilding
 boathook
 boathouse
@@ -12511,6 +12510,7 @@ becarpeting
 bonesetting
 broadness
 broncholith
+barspoon
 bacquet
 bilberries
 boneshaker
