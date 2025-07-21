@@ -9660,6 +9660,7 @@ dihedron
 dhootie
 discipleship
 dishumour
+dries
 dowing
 dihybridism
 dihybrids
@@ -17096,7 +17097,6 @@ drie
 disconcertedness
 drawlink
 delhi
-dries
 diphtheriaphor
 dingwall
 dashers
