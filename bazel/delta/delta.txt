@@ -1740,7 +1740,6 @@ deathtime
 diverticular
 diphyllobothrium
 deathtrap
-devocalization
 downtimes
 drof
 deathward
@@ -8213,6 +8212,7 @@ diaconica
 depotentiation
 dragooning
 deputable
+devocalization
 dactylic
 drabbets
 diacranterian
