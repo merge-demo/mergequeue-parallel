@@ -15752,7 +15752,6 @@ dendrochronologist
 deuterocone
 diphosphid
 denunciation
-dismarch
 deescalation
 disintegrates
 dewools
@@ -15920,6 +15919,7 @@ decapodiform
 dosser
 dosseret
 dulcian
+dismarch
 dempster
 dosses
 dossy
