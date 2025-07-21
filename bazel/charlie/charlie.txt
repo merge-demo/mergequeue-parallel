@@ -6781,7 +6781,6 @@ cadiueio
 conjectures
 celestialized
 crustacea
-canstick
 compartmentally
 caruncle
 celestify
@@ -9722,6 +9721,7 @@ chevre
 convocate
 cheesing
 cheetahs
+canstick
 cheetul
 casse
 coagent
