@@ -7969,7 +7969,6 @@ aleuronic
 aleurons
 aleut
 aleutic
-alevin
 agnatically
 aprilis
 argan
@@ -19448,6 +19447,7 @@ astir
 abjure
 arglebargle
 arglebargled
+alevin
 arglebargling
 argled
 apoaconitine
