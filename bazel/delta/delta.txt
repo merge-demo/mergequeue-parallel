@@ -4513,7 +4513,6 @@ deradelphus
 demibob
 dendrological
 demibuckram
-dysprosium
 decadentism
 demicanon
 disjointedly
@@ -9966,6 +9965,7 @@ drear
 direly
 dimetry
 densimetry
+dysprosium
 dimyaria
 downwardness
 dimidiate
