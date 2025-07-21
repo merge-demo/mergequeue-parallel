@@ -4525,7 +4525,6 @@ confederative
 catapults
 carbine
 cephalogenesis
-carnallite
 colluvies
 churchshot
 carnalness
@@ -6459,6 +6458,7 @@ catchpenny
 cavalierishness
 cavalierism
 cavalierly
+carnallite
 cytogenous
 cavalierness
 cavaliers
