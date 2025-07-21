@@ -7580,6 +7580,7 @@ cercopithecidae
 catodon
 cercopithecus
 cimbri
+conus
 cramberry
 cercosporella
 canalisation
@@ -23922,7 +23923,6 @@ conundrums
 conurbation
 cricke
 conurus
-conus
 cypris
 cytometer
 chirl
