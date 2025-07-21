@@ -180,6 +180,7 @@ abbate
 advertizable
 ashtray
 aerologist
+agaricaceous
 abbatial
 anabathmoi
 aeolotropism
@@ -5718,7 +5719,6 @@ autocoder
 aphodian
 agaricaceae
 adepts
-agaricaceous
 agaricine
 agaricoid
 agarics

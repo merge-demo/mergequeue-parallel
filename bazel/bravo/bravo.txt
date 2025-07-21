@@ -8613,7 +8613,6 @@ billyhood
 billiken
 backscatters
 byrlady
-batteau
 buhrmill
 baldacchino
 behind
@@ -10495,6 +10494,7 @@ beeflower
 blastochyle
 blastocoel
 blastocoele
+batteau
 blastodisc
 becharming
 blatjang
