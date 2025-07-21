@@ -12648,7 +12648,6 @@ bonze
 butterhead
 bonzer
 betattered
-betided
 belluine
 bushgoats
 bewrite
@@ -17679,6 +17678,7 @@ batell
 bemajesty
 bordage
 blackfin
+betided
 blueings
 burlaps
 boomlets
