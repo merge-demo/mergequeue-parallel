@@ -2492,7 +2492,6 @@ bedark
 brachyoura
 barge
 bergere
-bargelike
 beet
 bravura
 bargellos
@@ -6815,6 +6814,7 @@ bookery
 bersagliere
 berserker
 brittles
+bargelike
 bin
 berserks
 barnumize

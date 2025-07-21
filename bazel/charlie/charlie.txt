@@ -19258,7 +19258,6 @@ couma
 cousins
 colluvium
 copolymerous
-cooperating
 colmars
 cisandine
 colmose
@@ -30577,6 +30576,7 @@ concarnation
 cuboid
 conopholis
 cuboidal
+cooperating
 cuneocuboid
 caldera
 cellarette
