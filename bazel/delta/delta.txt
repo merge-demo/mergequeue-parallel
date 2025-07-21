@@ -2564,6 +2564,7 @@ declivent
 derive
 declivity
 ducklingship
+datolite
 deanthropomorphize
 dangled
 detoured
@@ -10954,7 +10955,6 @@ dodecahydrated
 disacquaint
 dayglows
 dampishly
-datolite
 diallist
 draggles
 dispenses
