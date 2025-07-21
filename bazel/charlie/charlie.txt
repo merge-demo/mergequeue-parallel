@@ -17046,7 +17046,6 @@ cnemis
 cneorum
 cytotrophy
 cnicin
-cnidae
 cnidarian
 cnidian
 crayoned
@@ -21116,6 +21115,7 @@ cuckoopint
 cycloheptanone
 carcerist
 chordacentrum
+cnidae
 concassation
 cherishers
 concatenate
