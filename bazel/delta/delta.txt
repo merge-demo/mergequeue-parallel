@@ -4335,7 +4335,6 @@ demagnetisation
 dovelet
 detraining
 divisiveness
-demagnetising
 diacranteric
 decomposes
 dhoney
@@ -5407,6 +5406,7 @@ disrate
 diasene
 dentulous
 dentural
+demagnetising
 dermatology
 diametrally
 duodenas
