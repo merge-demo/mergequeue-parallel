@@ -4564,7 +4564,6 @@ buglewort
 bicellular
 backjaw
 bedarkening
-bedaub
 ballplayer
 benzoylglycine
 barks
@@ -6672,6 +6671,7 @@ bakshishing
 beneception
 bergy
 bergylt
+bedaub
 berginization
 berglet
 branchipodidae
