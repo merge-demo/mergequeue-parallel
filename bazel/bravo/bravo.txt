@@ -2647,7 +2647,6 @@ barleycorn
 bournonite
 bilge
 basidiophore
-bimensal
 bellying
 bable
 bribeable
@@ -5602,6 +5601,7 @@ blimpishly
 bel
 behoovingly
 bela
+bimensal
 beluchi
 burgonets
 bruscus
