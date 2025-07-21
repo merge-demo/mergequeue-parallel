@@ -1630,6 +1630,7 @@ ballotade
 boud
 boyarism
 blier
+bipedism
 burletta
 butyrous
 bilobated
@@ -11119,7 +11120,6 @@ benzazine
 byard
 basophobia
 bache
-bipedism
 bloodbath
 bougies
 bygane
