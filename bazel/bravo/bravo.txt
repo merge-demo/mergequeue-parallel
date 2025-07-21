@@ -13268,6 +13268,7 @@ bosthoon
 bostonian
 banderillas
 burglar
+bisulcated
 bogeyed
 branchstand
 bouche
@@ -15636,7 +15637,6 @@ broadeners
 broadenings
 bribee
 bacteriosis
-bisulcated
 bosoming
 bacteriohemolysin
 bauxitite
