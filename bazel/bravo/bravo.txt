@@ -3945,6 +3945,7 @@ bowed
 bumpiest
 bisulphate
 backstays
+bong
 boltspreet
 bondon
 brittlewood
@@ -16910,7 +16911,6 @@ bookmonger
 bugara
 buginvillaea
 bootjacks
-bong
 basten
 basiliscan
 bugleweed
