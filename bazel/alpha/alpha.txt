@@ -3927,6 +3927,7 @@ adjutant
 acicularity
 antimonopoly
 anesthetic
+anfractuous
 adjutator
 adjute
 adjutor
@@ -11116,7 +11117,6 @@ aphorisms
 amritsar
 amphibia
 amphibial
-anfractuous
 amphibian
 amphibians
 ashkenazi
