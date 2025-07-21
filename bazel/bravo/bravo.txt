@@ -7144,6 +7144,7 @@ boethusian
 birdsong
 basso
 bespotting
+basking
 bespouse
 booties
 backstick
@@ -9065,7 +9066,6 @@ bunching
 bearbaiting
 biopoiesis
 bonzery
-basking
 bolloxed
 bipectinated
 biunity
