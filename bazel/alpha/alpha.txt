@@ -13303,7 +13303,6 @@ archworkmaster
 astricted
 actinoscopy
 anisopoda
-antilogies
 administratress
 allegretto
 anisoptera
@@ -16472,6 +16471,7 @@ aonach
 asaddle
 altica
 aorist
+antilogies
 advertises
 assimilate
 athyridae
