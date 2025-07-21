@@ -7412,7 +7412,6 @@ downgone
 dischargee
 detoxication
 detoxicator
-detoxifier
 draperess
 directress
 disapproved
@@ -13092,6 +13091,7 @@ delimitations
 deprisure
 dustlessness
 degami
+detoxifier
 deutocarbonate
 dispensatively
 displicency
