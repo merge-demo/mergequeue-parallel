@@ -7400,7 +7400,6 @@ amvis
 apteryx
 albines
 albiness
-antithrombic
 albinic
 antiphrastical
 ananias
@@ -15355,6 +15354,7 @@ ansel
 antilibration
 antilife
 afforcement
+antithrombic
 antipolitics
 atterrate
 antisepticised
