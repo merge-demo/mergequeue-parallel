@@ -1306,7 +1306,6 @@ bury
 bedbug
 bedust
 boleite
-bacterioprecipitin
 bishophood
 bate
 binational
@@ -15453,6 +15452,7 @@ bans
 bondless
 bolshevistically
 besnuff
+bacterioprecipitin
 brindlish
 bryndza
 bleaters
