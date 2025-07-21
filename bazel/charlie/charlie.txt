@@ -10659,7 +10659,6 @@ cogon
 cephalomancy
 chimakuan
 chimaphila
-consummates
 causatively
 chymase
 callaloos
@@ -30235,6 +30234,7 @@ creepie
 cucurbit
 cruets
 cruised
+consummates
 controllers
 cruises
 cruising
