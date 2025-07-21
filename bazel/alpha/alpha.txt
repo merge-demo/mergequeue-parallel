@@ -11918,6 +11918,7 @@ anaplasty
 anosmia
 anaplerosis
 anaplerotic
+articulately
 alligations
 appendiculata
 axoneme
@@ -20660,7 +20661,6 @@ articulars
 articulata
 alcantara
 articulated
-articulately
 adjudgeable
 aborsement
 amimia
