@@ -3198,7 +3198,6 @@ coverlet
 craked
 citruses
 capewise
-capework
 capful
 caphar
 corsaint
@@ -31028,6 +31027,7 @@ commonplaceness
 calescence
 crepe
 colorize
+capework
 caprocks
 cumsha
 cumshaw
