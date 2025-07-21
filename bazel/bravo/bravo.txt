@@ -8563,7 +8563,6 @@ barricading
 billboards
 beshawled
 billbug
-biller
 blackeye
 brantcorn
 brawlis
@@ -9634,6 +9633,7 @@ baptists
 bilateral
 bishopling
 biol
+biller
 bishopstool
 bishopweed
 bobbinets
