@@ -12171,7 +12171,6 @@ chresmology
 chrestomathics
 chrestomathies
 celluliferous
-chimere
 chria
 chris
 calibogus
@@ -24055,6 +24054,7 @@ conversantly
 conversation
 conversationable
 competency
+chimere
 coactor
 crimpy
 conversational
