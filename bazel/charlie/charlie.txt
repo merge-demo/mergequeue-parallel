@@ -8147,6 +8147,7 @@ coracosteon
 continent
 carcer
 chaffron
+cora
 chondri
 clavicornia
 chaffs
@@ -16744,7 +16745,6 @@ catchingness
 cosuitor
 culla
 chocolaty
-cora
 clothespins
 centroplasm
 clothespresses
