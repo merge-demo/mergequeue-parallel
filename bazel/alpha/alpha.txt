@@ -8361,6 +8361,7 @@ aliptic
 aporia
 amoebidae
 alypum
+athyridae
 amarelle
 aliquant
 aliquots
@@ -16474,7 +16475,6 @@ altica
 aorist
 advertises
 assimilate
-athyridae
 alodially
 ascertained
 aortal
