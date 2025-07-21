@@ -12311,7 +12311,6 @@ affranchising
 andorite
 adultly
 andorobo
-andorran
 andouillet
 andragogy
 apometaboly
@@ -18637,6 +18636,7 @@ archaizer
 archaizing
 agonista
 archangelic
+andorran
 archangelica
 antisupernatural
 archangelical
