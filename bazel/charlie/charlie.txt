@@ -22003,7 +22003,6 @@ confirmatory
 craniosacral
 colicin
 confirmed
-confirmedness
 corticostriate
 confirmer
 cibarious
@@ -24284,6 +24283,7 @@ cooches
 chondrophore
 coodle
 cooed
+confirmedness
 corrades
 cameloid
 cormus
