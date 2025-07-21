@@ -1116,7 +1116,6 @@ bluethroat
 brewmaster
 boyg
 breakwind
-battercake
 belonesite
 bairns
 bootful
@@ -4716,6 +4715,7 @@ bedlamitish
 bedub
 bovid
 bibliogenesis
+battercake
 bedewing
 bedlamize
 bloomeria
