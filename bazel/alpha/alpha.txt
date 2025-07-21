@@ -6417,6 +6417,7 @@ amphipneusta
 ameliorant
 agujon
 anaplasis
+afforestable
 aphroditic
 acidaemia
 agunah
@@ -24899,7 +24900,6 @@ accommodatively
 awaited
 antiqued
 abstention
-afforestable
 abeyancies
 awaiters
 accoladed
