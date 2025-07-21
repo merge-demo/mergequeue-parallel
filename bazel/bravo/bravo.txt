@@ -1610,7 +1610,6 @@ beauties
 balloen
 ballone
 bullbird
-ballones
 boiguacu
 ballonne
 bewrays
@@ -4796,6 +4795,7 @@ brakesman
 befancy
 bits
 bedside
+ballones
 bedsonia
 bedsonias
 bescribbling
