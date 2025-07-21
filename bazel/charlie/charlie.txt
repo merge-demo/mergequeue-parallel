@@ -16793,7 +16793,6 @@ cycloheptane
 congregativeness
 cloudlike
 cloudology
-comptrollership
 clouds
 cloudship
 cursedest
@@ -19848,6 +19847,7 @@ cyclostrophic
 charade
 comestion
 cometary
+comptrollership
 cryobiology
 cometaria
 cabulla
