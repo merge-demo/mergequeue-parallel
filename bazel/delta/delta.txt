@@ -5377,7 +5377,6 @@ dentil
 discussional
 dentiled
 dimin
-delivery
 disappropriation
 drub
 demonio
@@ -17447,6 +17446,7 @@ drossel
 diabology
 dyspituitarism
 drosser
+delivery
 discalceate
 drawdown
 dagaba
