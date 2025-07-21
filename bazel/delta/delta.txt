@@ -5214,9 +5214,9 @@ doghole
 decephalization
 deathly
 diaheliotropic
-detruncating
 devoid
 diazoamino
+detruncating
 denitrifier
 destructors
 denitrifying
