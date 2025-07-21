@@ -10820,7 +10820,6 @@ chinoa
 chinoidin
 coped
 confusers
-ceorls
 chinoleine
 chinoline
 clowring
@@ -15275,6 +15274,7 @@ clamantly
 clamaroo
 ceraunophone
 cywydd
+ceorls
 clamative
 clamatory
 cartooned
