@@ -7013,6 +7013,7 @@ destroyers
 despoiler
 disabilities
 despoilers
+disequalizer
 decongest
 decamps
 discreditably
@@ -12113,7 +12114,6 @@ disentwining
 dipodomyinae
 dividableness
 dysepulotical
-disequalizer
 draftiness
 dormitory
 dyserethisia
