@@ -4861,7 +4861,6 @@ by
 beltwise
 bandcase
 baffing
-beduncing
 botchiest
 bagobo
 bewrapped
@@ -9683,6 +9682,7 @@ bismuth
 bismuthal
 bumblefoot
 bromids
+beduncing
 bismuthate
 burhinus
 birchbark
