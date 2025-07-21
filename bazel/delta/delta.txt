@@ -1680,6 +1680,7 @@ dendrobatinae
 dupability
 disadvantage
 dignity
+doorjamb
 dearsenicator
 dispond
 dobl
@@ -4229,7 +4230,6 @@ dibbers
 deloused
 dribs
 decimal
-doorjamb
 delphacidae
 disincorporated
 dewberry
