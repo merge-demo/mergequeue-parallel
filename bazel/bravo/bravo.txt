@@ -2297,7 +2297,6 @@ blype
 businessese
 bizet
 beanball
-backrest
 botryomyces
 betokened
 budgerygah
@@ -6294,6 +6293,7 @@ bensh
 bluffness
 brulzie
 binnacles
+backrest
 benshee
 blepharitis
 benshi
