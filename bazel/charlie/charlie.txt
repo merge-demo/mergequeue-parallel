@@ -8342,7 +8342,6 @@ courtyard
 chalina
 coonskin
 complexity
-carbure
 corallet
 choyroot
 chalinitis
@@ -13351,6 +13350,7 @@ civetlike
 cayleyan
 cyclopaedist
 coquito
+carbure
 chinning
 cyclope
 churchwarden
