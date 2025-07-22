@@ -1170,7 +1170,6 @@ anisodactyle
 acadialite
 alpenstocker
 acadie
-amorphic
 absorbability
 actinian
 alkalifies
@@ -8700,6 +8699,7 @@ aldehydase
 allelotropism
 alleluia
 applesauce
+amorphic
 alleluiah
 amnesiacs
 alleluias

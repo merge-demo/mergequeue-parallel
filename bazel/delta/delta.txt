@@ -7444,7 +7444,6 @@ deviate
 dancer
 drumfire
 disequilibriums
-disseised
 detrivorous
 dervish
 damn
@@ -8246,6 +8245,7 @@ damasked
 dissectors
 dulcor
 diorism
+disseised
 diadochian
 diadochic
 diadochite
