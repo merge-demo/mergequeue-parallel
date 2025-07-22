@@ -1536,7 +1536,6 @@ calliphorine
 callipygous
 callippic
 callirrhoe
-callisaurus
 callisteia
 callistephus
 callisthenic
@@ -20496,6 +20495,7 @@ corundum
 composition
 compartments
 celticist
+callisaurus
 compass
 compassability
 compassable
