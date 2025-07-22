@@ -8232,6 +8232,7 @@ chairmanships
 checkoff
 chairmender
 chairpersons
+carpal
 chairway
 cryptogamian
 conjunctivae
@@ -8472,7 +8473,6 @@ carilloneur
 cradock
 conscientiously
 chamfron
-carpal
 chamian
 consecrative
 chamisal
