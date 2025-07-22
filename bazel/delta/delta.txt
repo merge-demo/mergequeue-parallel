@@ -2405,7 +2405,6 @@ decima
 decimalism
 dueling
 decimalist
-decimalization
 displeases
 decimalizes
 dreamlit
@@ -8248,6 +8247,7 @@ dulcor
 diorism
 diadochian
 diadochic
+decimalization
 diadochite
 dethroner
 diadochokinesia
