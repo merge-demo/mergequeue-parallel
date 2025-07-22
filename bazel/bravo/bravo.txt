@@ -15424,6 +15424,7 @@ brodeglass
 braggishly
 boundary
 bilboes
+barricadoing
 breaststroker
 breadberry
 bodoni
@@ -17611,7 +17612,6 @@ bradykinetic
 bulldozes
 backster
 brenda
-barricadoing
 burglarproofs
 burglars
 basote
