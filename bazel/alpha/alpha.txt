@@ -14132,7 +14132,6 @@ allergic
 amphithere
 antepenultimate
 azoimide
-angiitis
 anthocyan
 antepirrhema
 anteporticoes
@@ -21782,6 +21781,7 @@ assimilates
 assimilating
 andoroba
 aerophobia
+angiitis
 assimilationist
 abede
 assinego
