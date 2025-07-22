@@ -1966,6 +1966,7 @@ downligging
 debutant
 dau
 downcastly
+desisted
 dragbar
 dupondidii
 disvalue
@@ -3332,7 +3333,6 @@ depurge
 deliriate
 diastem
 demitting
-desisted
 destiny
 domesticable
 dynamometry
