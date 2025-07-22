@@ -6371,6 +6371,7 @@ begalling
 begrace
 buffalofishes
 benzein
+besoot
 bellyfish
 blinks
 benzenediazonium
@@ -7059,7 +7060,6 @@ brideknot
 bussings
 belletrist
 boppers
-besoot
 beaterman
 biometricist
 burelle
