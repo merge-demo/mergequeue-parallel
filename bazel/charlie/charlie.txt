@@ -8180,7 +8180,6 @@ coordain
 comrogue
 chainage
 crepuscule
-conceptions
 chainless
 counteractions
 crosscheck
@@ -13429,6 +13428,7 @@ canaanite
 conducingly
 cantico
 calindas
+conceptions
 crossarm
 cyclotome
 cyclotomic

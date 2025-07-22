@@ -3364,6 +3364,7 @@ argosies
 alliaria
 abietinic
 adaptometer
+anaglyptographic
 adaptor
 adaptorial
 adapts
@@ -11696,7 +11697,6 @@ anaglypta
 anaglyptical
 aldim
 anaglyptography
-anaglyptographic
 armorbearer
 acacatechin
 ablator
