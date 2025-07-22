@@ -12635,6 +12635,7 @@ chronon
 choppily
 chronons
 chefrinia
+camerawork
 chronophotography
 chronoscopic
 chronoscopically
@@ -13481,7 +13482,6 @@ certificator
 courb
 cyesis
 cif
-camerawork
 cig
 cigarette
 cystenchyma
