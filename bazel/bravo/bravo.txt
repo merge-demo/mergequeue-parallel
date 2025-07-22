@@ -4541,7 +4541,6 @@ bater
 bool
 bedabble
 beagles
-barricadoed
 bunch
 behavioristic
 butterjags
@@ -10645,6 +10644,7 @@ bleacherite
 bleachfield
 bedarken
 braye
+barricadoed
 boardy
 bleachyard
 bleachworks
