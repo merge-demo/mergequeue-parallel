@@ -5508,7 +5508,6 @@ azox
 antisialic
 aftermilk
 animadverts
-aftermost
 afternoons
 afternose
 ausgespielt
@@ -9168,6 +9167,7 @@ almerian
 appointments
 ardeae
 abranchiate
+aftermost
 alpigene
 almeriite
 almice
