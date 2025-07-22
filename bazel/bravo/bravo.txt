@@ -10234,6 +10234,7 @@ blacklisted
 blacklister
 beparse
 blacklists
+bauxitite
 brainer
 beclamour
 ballow
@@ -15639,7 +15640,6 @@ bacteriosis
 bisulcated
 bosoming
 bacteriohemolysin
-bauxitite
 bundlet
 bluster
 botulismus
