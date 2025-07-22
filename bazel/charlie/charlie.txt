@@ -8681,6 +8681,7 @@ cuissard
 changeovers
 chiefs
 changer
+corf
 columbic
 crudwort
 changers
@@ -9266,7 +9267,6 @@ chastiment
 chastise
 chastiser
 clapperboard
-corf
 chastity
 chastities
 chockstone
