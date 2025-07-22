@@ -6997,6 +6997,7 @@ akalimba
 akamai
 annoyed
 akamatsu
+aphanitic
 akan
 akania
 amicable
@@ -16731,7 +16732,6 @@ accidentals
 anteaters
 antiorthodox
 abjudicating
-aphanitic
 aphetize
 armours
 aphidivorous
