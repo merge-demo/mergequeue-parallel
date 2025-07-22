@@ -11598,6 +11598,7 @@ cholecystectomy
 cingulum
 cholecystectomized
 clammier
+cham
 chimachima
 countermeasure
 cholecystenterorrhaphy
@@ -18981,7 +18982,6 @@ collateralness
 collaterals
 canzone
 corved
-cham
 collates
 collation
 collations
