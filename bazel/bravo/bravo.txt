@@ -7175,7 +7175,6 @@ besra
 berhymes
 bullyboys
 bawling
-bevatron
 brambliest
 bifoliate
 brightly
@@ -7303,6 +7302,7 @@ blowby
 betanglement
 beulah
 burners
+bevatron
 bicipitous
 bottier
 birde
