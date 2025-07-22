@@ -6883,7 +6883,6 @@ cryptesthesia
 conscientiousness
 curares
 cytologist
-cellulitis
 cellulofibrous
 celluloid
 confabbing
@@ -27264,6 +27263,7 @@ cephalanthous
 chlorophane
 countrifiedness
 countryfiedness
+cellulitis
 countryfolk
 closewing
 countryman
