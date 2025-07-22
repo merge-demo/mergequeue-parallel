@@ -2135,6 +2135,7 @@ bantering
 banteringly
 banty
 betangle
+brave
 bribery
 bantu
 bantus
@@ -17806,7 +17807,6 @@ bursae
 bursary
 backstroked
 bacterizing
-brave
 begani
 bursarial
 blypes
