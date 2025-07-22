@@ -1715,6 +1715,7 @@ ada
 adventry
 accursed
 adamsite
+asperite
 amniatic
 amerikani
 accursedness
@@ -11343,7 +11344,6 @@ antonina
 ampyxes
 amigas
 ample
-asperite
 amplect
 answerably
 amplectant
