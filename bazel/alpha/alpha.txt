@@ -5710,6 +5710,7 @@ answers
 amphistome
 afeared
 agapeti
+asseverated
 agapetid
 agennetic
 aciculate
@@ -13296,7 +13297,6 @@ atbash
 apace
 anisopod
 ataraxias
-asseverated
 ancient
 agree
 archworkmaster
