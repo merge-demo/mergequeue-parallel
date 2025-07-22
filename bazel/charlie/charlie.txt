@@ -3712,7 +3712,6 @@ carapine
 canvasback
 cucumaria
 carara
-cheneaux
 carat
 computability
 changos
@@ -28029,6 +28028,7 @@ cyphers
 craking
 crakow
 cram
+cheneaux
 crimine
 conicine
 cigarets
