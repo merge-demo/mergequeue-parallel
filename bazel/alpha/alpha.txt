@@ -8001,7 +8001,6 @@ alexine
 airier
 almanner
 apodeixis
-arabinose
 advisee
 alexipyretic
 alexis
@@ -8763,6 +8762,7 @@ alliance
 accoast
 anschluss
 appet
+arabinose
 alliancing
 alliant
 allicampane
