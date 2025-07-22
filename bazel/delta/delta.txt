@@ -12215,7 +12215,6 @@ diomedea
 disbandment
 doors
 directional
-dormie
 dodoisms
 drapes
 dottles
@@ -13503,6 +13502,7 @@ dismissers
 diss
 dissait
 diblastula
+dormie
 dissatisfaction
 dissatisfactions
 dissatisfactory
