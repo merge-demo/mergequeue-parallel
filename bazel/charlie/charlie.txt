@@ -2687,7 +2687,6 @@ caninities
 caninus
 conflagrated
 coleorhizae
-canion
 chromophile
 canions
 canis
@@ -21105,6 +21104,7 @@ conationalistic
 comelily
 curatic
 conations
+canion
 conative
 conflab
 coercions
