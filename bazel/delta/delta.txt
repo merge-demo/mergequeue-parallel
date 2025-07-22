@@ -7976,7 +7976,6 @@ desulphuration
 daphnes
 dedicature
 disincorporation
-drowse
 diagnosticated
 dorsibranch
 drawpoint
@@ -16661,6 +16660,7 @@ dialectologic
 drails
 dereligion
 devests
+drowse
 driech
 derangements
 digamists
