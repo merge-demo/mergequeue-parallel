@@ -7520,6 +7520,7 @@ ceratonia
 cicerones
 counterbrace
 cardamoms
+clearness
 chlorophyl
 ceria
 ceratophyllaceous
@@ -21225,7 +21226,6 @@ conceptualizes
 cotuit
 charadrioid
 comenic
-clearness
 concern
 cabber
 chopped
