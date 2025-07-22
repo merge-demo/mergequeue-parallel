@@ -354,6 +354,7 @@ beemaster
 backen
 biblicoliterary
 backer
+belayed
 beehives
 backet
 bangala
@@ -5682,7 +5683,6 @@ belemnitic
 ballast
 bairnlier
 belemnoid
-belayed
 bowssen
 bentstar
 boer
