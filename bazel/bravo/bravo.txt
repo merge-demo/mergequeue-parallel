@@ -1559,7 +1559,6 @@ brocked
 bigged
 blastiest
 ballets
-brevetcy
 blowtube
 ballgame
 ballgames
@@ -18163,6 +18162,7 @@ begets
 bosses
 biogenase
 butyrometer
+brevetcy
 barometrically
 barrio
 butyrometric
