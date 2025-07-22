@@ -4747,7 +4747,6 @@ bradding
 brunts
 bedpans
 bries
-beeball
 besplit
 bedpost
 bypasses
@@ -12880,6 +12879,7 @@ bacchiac
 bangster
 bkpt
 barthian
+beeball
 breastwise
 boong
 bearwood
