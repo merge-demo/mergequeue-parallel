@@ -12493,6 +12493,7 @@ bone
 bejaundice
 bumpily
 bonebreaker
+bagatelle
 boned
 bonedry
 bonefish
@@ -12608,7 +12609,6 @@ bonnwis
 bionomist
 bonorum
 bisector
-bagatelle
 bills
 brainchild
 brigantine
