@@ -6602,7 +6602,6 @@ carid
 cheroot
 cdg
 cdr
-cesspool
 cosmonaut
 celibates
 ceanothus
@@ -13921,6 +13920,7 @@ cynipidae
 churoya
 cynipoid
 cynism
+cesspool
 cyanocarbonic
 cinnabar
 cinnabarine

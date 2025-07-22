@@ -2998,6 +2998,7 @@ actinograph
 aporobranchiata
 antipodes
 assamar
+angola
 asbolin
 actinographic
 autotomy
@@ -12887,7 +12888,6 @@ adoptees
 aire
 ango
 angoise
-angola
 angolese
 assertoric
 angora
