@@ -1489,7 +1489,6 @@ backboards
 ball
 ballad
 barillas
-bartholinitis
 beflounce
 ballade
 bespottedness
@@ -9154,6 +9153,7 @@ biotechnologically
 bathysmal
 bowl
 botanists
+bartholinitis
 becalmment
 biotelemetries
 biotical
