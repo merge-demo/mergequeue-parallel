@@ -2365,7 +2365,6 @@ acetoveratrone
 asseverates
 acinaciform
 amorism
-acinar
 acouchy
 albardine
 aldopentose
@@ -22111,6 +22110,7 @@ astigmatometry
 aesthiology
 arthrosporous
 aquench
+acinar
 astigmatoscope
 astigmatoscopy
 astigmic
