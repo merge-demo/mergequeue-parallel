@@ -7909,6 +7909,7 @@ cipolin
 cessible
 copperplate
 cyclorrhaphous
+calvaria
 clinician
 cession
 chain
@@ -8467,7 +8468,6 @@ chamfer
 cabirean
 chamfers
 chamfrain
-calvaria
 carilloneur
 cradock
 conscientiously
