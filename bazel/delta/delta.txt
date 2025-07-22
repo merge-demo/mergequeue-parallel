@@ -12927,6 +12927,7 @@ dummying
 disoccluded
 disoccluding
 diductor
+deoxidizer
 deepwatermen
 dairy
 disimprovement
@@ -15889,7 +15890,6 @@ disrating
 defecated
 daft
 demonesses
-deoxidizer
 dossiers
 diamondize
 dorty
