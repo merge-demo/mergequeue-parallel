@@ -16835,7 +16835,6 @@ antihelminthic
 ampullariidae
 apraxia
 apically
-aumoniere
 apices
 apician
 accomplices
@@ -18584,6 +18583,7 @@ archaeolith
 admedian
 archaeolithic
 archaeologer
+aumoniere
 arching
 artemisic
 adoral
