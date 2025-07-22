@@ -27608,7 +27608,6 @@ chesteine
 cyanidin
 caesuras
 cowages
-cowardy
 cowardice
 chrobat
 cowardish
@@ -31318,6 +31317,7 @@ curdly
 curdoo
 conceivably
 cured
+cowardy
 cornix
 cureless
 corypha
