@@ -3676,7 +3676,6 @@ degradement
 deplorers
 dozing
 depsid
-disrupt
 dewal
 decimalisation
 discalced
@@ -8284,6 +8283,7 @@ dispopularize
 dizzy
 draped
 disputableness
+disrupt
 diagonal
 diagonalizable
 diagonalization
