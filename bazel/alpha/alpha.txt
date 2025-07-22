@@ -12309,6 +12309,7 @@ amalett
 autotoxemia
 affranchising
 andorite
+announcing
 adultly
 andorobo
 andorran
@@ -13533,7 +13534,6 @@ announce
 anthropophagical
 announced
 astrophyllite
-announcing
 appaloosa
 annualized
 annually
