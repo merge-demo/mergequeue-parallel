@@ -10469,7 +10469,6 @@ dispowder
 disfigurative
 diphenoxylate
 diphysite
-dosimeters
 damask
 discolith
 devinct
@@ -17852,6 +17851,7 @@ denervate
 dabb
 dudgen
 duole
+dosimeters
 desubstantialize
 dunst
 despatcher
