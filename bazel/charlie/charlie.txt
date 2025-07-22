@@ -166,7 +166,6 @@ caboche
 caboched
 cabocle
 caboclo
-coploughing
 carcinogens
 cachinnator
 cabomba
@@ -7825,6 +7824,7 @@ connoissance
 cylindricalness
 ceruleous
 ceratophrys
+coploughing
 cerulific
 cerulignol
 cerumen
