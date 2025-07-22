@@ -11880,7 +11880,6 @@ aftersend
 anapaestically
 ancientness
 ataraxic
-anew
 amenism
 anapaite
 aviational
@@ -17393,6 +17392,7 @@ applot
 airship
 antiarchi
 apothegmatically
+anew
 apothegmatist
 atriensis
 apothegmatize
