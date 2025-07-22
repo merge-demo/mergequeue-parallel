@@ -8384,7 +8384,6 @@ bombyxes
 bastian
 bashawdom
 bigwig
-bigwigged
 bigwiggery
 biomass
 beryllia
@@ -11957,6 +11956,7 @@ bogged
 boggier
 bogginess
 boggle
+bigwigged
 blastemas
 boggler
 bannerol
