@@ -1213,7 +1213,6 @@ calef
 calefacient
 craunched
 caudad
-calefactive
 coterell
 crzette
 coattails
@@ -14536,6 +14535,7 @@ cyrtomium
 cyrtopia
 ciruela
 cosets
+calefactive
 cirurgian
 cyrus
 craspedote
