@@ -9839,7 +9839,6 @@ crucialness
 cunit
 chemehuevi
 chemiatric
-chemical
 chapeless
 chalybean
 corrugates
@@ -14237,6 +14236,7 @@ conception
 circumboreal
 callityped
 choleic
+chemical
 calyptrogen
 carpellum
 cyclotella
