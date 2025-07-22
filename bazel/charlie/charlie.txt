@@ -17357,7 +17357,6 @@ coarsens
 coarser
 coarticulate
 coarticulation
-claylike
 companionways
 coassert
 coasserter
@@ -17395,6 +17394,7 @@ channeled
 condensible
 churchmaster
 coastward
+claylike
 coatdress
 coated
 coatee
