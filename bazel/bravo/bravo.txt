@@ -4188,6 +4188,7 @@ batholite
 bouchees
 beatitude
 bandel
+binauricular
 bestially
 bioscientific
 beatles
@@ -6101,7 +6102,6 @@ bedrift
 buccinidae
 bataan
 boarskin
-binauricular
 benchership
 bodge
 blusters
