@@ -11666,7 +11666,6 @@ anaesthesis
 abeltree
 almondlike
 appearanced
-anaesthetically
 anthropomantic
 anaesthetization
 avoke
@@ -23238,6 +23237,7 @@ alans
 abatjour
 attempted
 attunement
+anaesthetically
 attunes
 apteryges
 ablation
