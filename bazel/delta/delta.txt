@@ -11131,7 +11131,6 @@ denaturised
 defrayals
 discographic
 disassent
-disassimilate
 darin
 disassimilative
 disassociable
@@ -13887,6 +13886,7 @@ dermatopathophobia
 drowns
 disalike
 dyslexia
+disassimilate
 dissavage
 dipter
 distensions
