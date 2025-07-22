@@ -3324,6 +3324,7 @@ definitiones
 disregards
 duplications
 definitions
+dossal
 definitise
 dekastere
 dormant
@@ -4255,7 +4256,6 @@ diddest
 delphinic
 defeasibleness
 delphiniums
-dossal
 delphinoidine
 distaffs
 delphocurarine
