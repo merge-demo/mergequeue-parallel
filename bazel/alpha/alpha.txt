@@ -3309,6 +3309,7 @@ adamantoblast
 adamas
 archery
 atresic
+awfulness
 atelets
 andean
 adamellite
@@ -15588,7 +15589,6 @@ ardently
 attacked
 allegorister
 arcus
-awfulness
 archangels
 antinome
 adders
