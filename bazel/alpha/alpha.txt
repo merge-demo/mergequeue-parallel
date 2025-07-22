@@ -2061,6 +2061,7 @@ altitudinal
 acheiria
 aboveboard
 acidulousness
+article
 antidromic
 achenes
 alphabets
@@ -20049,7 +20050,6 @@ autobiographical
 accipitral
 aromatophor
 apollos
-article
 arline
 allness
 annuary
