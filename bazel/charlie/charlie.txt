@@ -4644,6 +4644,7 @@ caroluses
 carom
 clubbily
 carombolette
+crematory
 caromel
 caroming
 coucher
@@ -28636,7 +28637,6 @@ caulerpaceae
 changa
 cremations
 cremator
-crematory
 commissionate
 crematorial
 crematoriria
