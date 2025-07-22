@@ -2332,7 +2332,6 @@ determinant
 dummied
 dysodile
 decertation
-disappointments
 dwarfest
 dielike
 discriminate
@@ -7652,6 +7651,7 @@ developer
 developes
 diswarn
 developing
+disappointments
 didelphis
 dysmenorrhagia
 development
