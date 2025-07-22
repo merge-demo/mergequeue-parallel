@@ -633,7 +633,6 @@ dinoflagellata
 deploitation
 damnify
 dearth
-damnificatus
 disoccupation
 debarration
 damnifies
@@ -10707,6 +10706,7 @@ doyle
 disorganizing
 deferring
 diiodide
+damnificatus
 disbutton
 deepen
 dipnoans
