@@ -12909,7 +12909,6 @@ churchwardenize
 churchwardens
 churchwardenship
 clistocarpous
-climb
 churchwoman
 churchwomen
 churel
@@ -16251,6 +16250,7 @@ clingingly
 clinia
 clinically
 condensations
+climb
 cask
 clinicopathological
 clinkant
