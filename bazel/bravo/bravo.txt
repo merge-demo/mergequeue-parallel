@@ -14655,6 +14655,7 @@ brassages
 brassard
 bearing
 brenthis
+brachioganoid
 briefing
 brassart
 brassarts
@@ -17692,7 +17693,6 @@ burlet
 butterfly
 biotically
 blarney
-brachioganoid
 bumblekite
 banbury
 behove
