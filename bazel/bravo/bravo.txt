@@ -1798,6 +1798,7 @@ blocklike
 bromohydrin
 bamming
 blennocystitis
+bacteriostatic
 becobweb
 bizardite
 bepurple
@@ -5220,7 +5221,6 @@ ballistophobia
 bumpkinet
 berating
 bardish
-bacteriostatic
 beggarhood
 bergamots
 befurbelowed

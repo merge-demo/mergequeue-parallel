@@ -892,6 +892,7 @@ decolourised
 dantophilist
 dinned
 daoine
+dactyl
 decks
 dap
 dapedius
@@ -12361,7 +12362,6 @@ discredited
 diaphototropic
 dutchess
 detracted
-dactyl
 dithyrambically
 dromaeognathous
 dielectrics
