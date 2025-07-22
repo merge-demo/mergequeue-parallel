@@ -8175,7 +8175,6 @@ brontophobia
 bash
 banishes
 buffalos
-baldpate
 byeman
 ballote
 bienly
@@ -8446,6 +8445,7 @@ belabouring
 bilati
 boggart
 billions
+baldpate
 bilbi
 bundu
 bilby
