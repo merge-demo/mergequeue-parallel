@@ -11321,7 +11321,6 @@ claritude
 cwo
 checkups
 clothbound
-chlorocarbonate
 chlorochromic
 chlorococcaceae
 cologned
@@ -17809,6 +17808,7 @@ codas
 cardialgic
 coddy
 coddle
+chlorocarbonate
 coddler
 calculous
 coddlers
