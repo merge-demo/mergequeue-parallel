@@ -3212,6 +3212,7 @@ defendable
 dikast
 dolmenic
 demimondaine
+disproportional
 dissentient
 distrainor
 defendant
@@ -13313,7 +13314,6 @@ disprofitable
 disproofs
 dishevelments
 directrix
-disproportional
 disparities
 dossety
 disproportionately
