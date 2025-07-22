@@ -3494,7 +3494,6 @@ downheartedness
 dentiform
 draftswoman
 droopiness
-deform
 diasters
 doughmaker
 demembration
@@ -14568,6 +14567,7 @@ dollop
 duckwife
 degomme
 divisional
+deform
 diachronicness
 durio
 divisionary
