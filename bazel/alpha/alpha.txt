@@ -1192,7 +1192,6 @@ acamar
 allethrin
 alchemising
 acana
-acanonical
 acanth
 acantha
 acanthaceous
@@ -9099,6 +9098,7 @@ accendibility
 alliterational
 afternight
 allured
+acanonical
 allurement
 aerosat
 anemonin
