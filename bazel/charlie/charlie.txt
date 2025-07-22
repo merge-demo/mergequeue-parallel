@@ -5983,7 +5983,6 @@ coiffes
 catheterised
 catheterism
 catheterization
-cense
 catheterized
 commonality
 cerastium
@@ -7304,6 +7303,7 @@ centuples
 codbank
 chaldese
 centuplicate
+cense
 centuplicating
 civility
 chucking
