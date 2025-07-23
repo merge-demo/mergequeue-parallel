@@ -3189,6 +3189,7 @@ blowzily
 basidiospore
 basidiosporous
 batiked
+bearish
 bodiless
 backwoodsman
 bathtub
@@ -4123,7 +4124,6 @@ bearhug
 babirousa
 bilicyanin
 bearhugs
-bearish
 bigoniac
 belltopper
 broths
