@@ -6525,7 +6525,6 @@ dircaean
 dynel
 deerstalker
 descension
-descensionist
 descensive
 donor
 descent
@@ -9816,6 +9815,7 @@ dilettantism
 dilettantist
 diligence
 diligences
+descensionist
 diligent
 dilis
 dillenia
