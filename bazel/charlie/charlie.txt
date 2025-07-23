@@ -7341,6 +7341,7 @@ crossroads
 cepes
 civ
 conchitis
+coexisting
 clincher
 commercer
 constitution
@@ -18226,7 +18227,6 @@ condescends
 coexerts
 coexistence
 comicodidactic
-coexisting
 coexpand
 coexpanded
 coexperiencer
