@@ -10233,7 +10233,6 @@ analgesidae
 ameboid
 ameboidism
 amedeo
-arytenoid
 ameed
 ameer
 anemophile
@@ -13314,6 +13313,7 @@ anisopteran
 absolvitory
 antecedent
 anisostaminous
+arytenoid
 anisosthenic
 anisostichous
 anisostomous

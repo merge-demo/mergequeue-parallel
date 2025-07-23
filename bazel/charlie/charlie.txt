@@ -14978,7 +14978,6 @@ cytotropic
 cytotropism
 cytovirin
 careys
-cinquain
 cycler
 cytozzoa
 coelacanthoid
@@ -16583,6 +16582,7 @@ cloysome
 chondrolipoma
 cloisonless
 chancering
+cinquain
 cloisonn
 cloisonne
 convival
