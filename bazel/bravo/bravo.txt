@@ -7284,7 +7284,6 @@ balti
 beta
 bedraggle
 betacaine
-betacismus
 betag
 bacteriform
 bubbliest
@@ -17781,6 +17780,7 @@ basementless
 base
 braiders
 burrhead
+betacismus
 burrheaded
 burrheadedness
 baroneted
