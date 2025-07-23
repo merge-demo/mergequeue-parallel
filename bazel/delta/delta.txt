@@ -6329,7 +6329,6 @@ dermatozoonosis
 deutzias
 dryophyllum
 dermatozzoa
-dermatrophia
 disgrade
 dephlegmatory
 dermenchysis
@@ -17615,6 +17614,7 @@ driftwind
 debatefully
 drupiferous
 diffinity
+dermatrophia
 diaphragms
 disrates
 dichotomisation
