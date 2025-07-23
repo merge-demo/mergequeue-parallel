@@ -3429,7 +3429,6 @@ blendure
 blepharopyorrhea
 badgerly
 bastions
-barabbas
 boughpot
 bef
 bastite
@@ -13550,6 +13549,7 @@ barristers
 bratina
 bouffe
 botulin
+barabbas
 bumpiness
 bouffon
 bremeness
