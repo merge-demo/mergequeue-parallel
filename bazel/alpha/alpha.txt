@@ -293,7 +293,6 @@ abdominous
 abducens
 abducentes
 abduces
-articulate
 atonic
 apothece
 abducted
@@ -15437,6 +15436,7 @@ antimerina
 antimerism
 antimesia
 archetypically
+articulate
 antimetathetic
 acrogens
 azonic
