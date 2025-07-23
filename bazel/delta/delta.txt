@@ -2809,7 +2809,6 @@ donatory
 decretively
 dictionary
 deprivers
-discind
 deuteroglobulose
 decretorian
 dithymol
@@ -9998,6 +9997,7 @@ droved
 declassee
 diolefine
 droner
+discind
 dodged
 diminution
 deeplier
