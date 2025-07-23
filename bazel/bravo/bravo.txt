@@ -5977,7 +5977,6 @@ benchmarks
 biauriculate
 brecciate
 bawdily
-beltman
 belts
 bloodspilling
 beadlike
@@ -10823,6 +10822,7 @@ blepharosphincterectomy
 bunchberry
 bulldoggy
 blepharostenosis
+beltman
 beeswing
 blanca
 blepharotomy
