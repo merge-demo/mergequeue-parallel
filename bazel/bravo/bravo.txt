@@ -3009,7 +3009,6 @@ branglement
 bopping
 biomasses
 burgesses
-bartizans
 becarpets
 beigel
 belee
@@ -8826,6 +8825,7 @@ binnogue
 blink
 battel
 backstrap
+bartizans
 bepill
 binocularly
 binoculars
