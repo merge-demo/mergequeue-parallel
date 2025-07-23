@@ -5833,6 +5833,7 @@ distome
 depositation
 dartlike
 disgorgement
+dispositive
 dreiling
 deposito
 depositor
@@ -11465,7 +11466,6 @@ degassing
 dissuasive
 discodactylous
 damasse
-dispositive
 deskbound
 dyotheletic
 dividuous
