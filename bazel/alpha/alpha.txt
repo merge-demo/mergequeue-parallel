@@ -19240,7 +19240,6 @@ another
 anlas
 arenicola
 arenicolite
-atechnic
 anagrammed
 arenicolous
 awfullest
@@ -22057,6 +22056,7 @@ asterozoa
 annalist
 ampongue
 ancestries
+atechnic
 antistat
 anthracosilicosis
 asthamatic
