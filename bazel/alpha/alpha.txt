@@ -4532,7 +4532,6 @@ acuity
 advisees
 advisement
 atli
-arranger
 adviser
 apparatchiki
 advisers
@@ -22341,6 +22340,7 @@ astrometeorological
 aforenamed
 ancestrial
 allegorization
+arranger
 adlegation
 astrometry
 astrometric
