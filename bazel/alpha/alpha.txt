@@ -12002,6 +12002,7 @@ antimachination
 amphitheatrically
 acromiohyoid
 attributable
+autoagglutinin
 anaspides
 abducent
 alpenhorns
@@ -23896,7 +23897,6 @@ acrology
 antiscepticism
 anepiploic
 autoagglutinating
-autoagglutinin
 autoalarm
 autoalkylation
 autoanalytic
