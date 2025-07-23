@@ -11665,6 +11665,7 @@ boatmen
 boats
 boatsetter
 bisymmetric
+buffoonish
 badju
 boatsteerer
 biracialism
@@ -16852,7 +16853,6 @@ blended
 burhead
 bichromatic
 bathysophic
-buffoonish
 bungle
 baret
 birostrated
