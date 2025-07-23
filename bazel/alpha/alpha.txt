@@ -12186,7 +12186,6 @@ angiometer
 altruism
 almach
 anchorite
-astate
 archinfamy
 anchoritess
 alignment
@@ -23043,6 +23042,7 @@ authoritarianisms
 amylin
 attemptive
 aortism
+astate
 agglomerations
 attendance
 agnominal
