@@ -928,7 +928,6 @@ buddhology
 branny
 bagwigged
 belcher
-bogey
 bagwyn
 bustier
 bagwork
@@ -11652,6 +11651,7 @@ berend
 boxhead
 buchmanite
 boatless
+bogey
 banjoes
 bewonder
 brahminist
