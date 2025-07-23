@@ -10705,7 +10705,6 @@ aminopurine
 aminoquin
 acquests
 aminosuccinamic
-applicants
 araru
 aminosulphonic
 amins
@@ -12041,6 +12040,7 @@ anastrophy
 anastrophia
 advocator
 advisements
+applicants
 activital
 anat
 anatase
