@@ -6981,7 +6981,6 @@ ceratinous
 culm
 caruage
 cenaculum
-cloglike
 cenation
 cencerro
 coumarane
@@ -25066,6 +25065,7 @@ coreflexed
 chinked
 curtation
 coregency
+cloglike
 coregent
 courtlet
 coregnancy
