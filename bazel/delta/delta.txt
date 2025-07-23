@@ -4026,7 +4026,6 @@ doorsill
 delegates
 delegateship
 dermographism
-digressiveness
 dibasicity
 dialing
 dipteros
@@ -16718,6 +16717,7 @@ detractor
 dramatisable
 dramatiser
 duret
+digressiveness
 divisionistic
 dabble
 deliberalize
