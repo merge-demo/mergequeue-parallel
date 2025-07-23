@@ -12753,6 +12753,7 @@ bookmakers
 bidarka
 begarie
 baguet
+bullet
 bookmarks
 bastardisation
 bhoots
@@ -17080,7 +17081,6 @@ bulldozed
 banefully
 bulldozing
 beduck
-bullet
 bulleted
 byepath
 bequeather
