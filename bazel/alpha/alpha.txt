@@ -8257,7 +8257,6 @@ anthropopithecus
 aliening
 alienism
 alienisms
-alienist
 abulic
 alienists
 alienize
@@ -24654,6 +24653,7 @@ anthroropolith
 accordant
 alai
 andesite
+alienist
 averment
 annuli
 acinetarian
