@@ -5130,6 +5130,7 @@ drakes
 degrade
 duplicating
 dendrohyrax
+dismask
 deneutralization
 dacryoadenalgia
 dendrolater
@@ -11165,7 +11166,6 @@ dyslectic
 doeg
 decciare
 danite
-dismask
 dogmatist
 divinities
 defectibility
