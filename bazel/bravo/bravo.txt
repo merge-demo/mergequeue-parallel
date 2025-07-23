@@ -14060,7 +14060,6 @@ brachydactylia
 beniseed
 bakehouse
 bicuspidate
-brachydactylism
 bebusy
 bottlebird
 brachydodromous
@@ -14956,6 +14955,7 @@ brecham
 bursar
 brechams
 brechans
+brachydactylism
 breakfaster
 bullfeast
 blepharorrhaphy
