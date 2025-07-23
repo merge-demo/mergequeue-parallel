@@ -7810,7 +7810,6 @@ certis
 certitudes
 circularized
 certosa
-certose
 certosina
 canewares
 certosino
@@ -31137,6 +31136,7 @@ cupcakes
 cupel
 cupeling
 clinometria
+certose
 cupeller
 conscripts
 cupellers
