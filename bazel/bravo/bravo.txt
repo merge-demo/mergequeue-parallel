@@ -8176,6 +8176,7 @@ bash
 banishes
 buffalos
 baldpate
+blacknob
 byeman
 ballote
 bienly
@@ -17460,7 +17461,6 @@ brawlie
 bastardizing
 bromohydrate
 bipinnatiparted
-blacknob
 buphthalmum
 buplever
 buprestidae
