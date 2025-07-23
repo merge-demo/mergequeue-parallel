@@ -20431,7 +20431,6 @@ apotropaic
 apprecate
 aerogenous
 arteriagra
-arterialize
 arteriarctia
 arteriectopia
 ananda
@@ -20852,6 +20851,7 @@ agoniatites
 asbest
 absenter
 avowe
+arterialize
 associative
 apis
 ambulating
