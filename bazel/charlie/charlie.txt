@@ -10634,6 +10634,7 @@ chilomastix
 chylomicron
 chylopericardium
 chylophylly
+connect
 chylophyllous
 crunchily
 chylophyllously
@@ -18730,7 +18731,6 @@ conglobation
 cojusticiar
 confessionalian
 campily
-connect
 coke
 clinocephalism
 coker
