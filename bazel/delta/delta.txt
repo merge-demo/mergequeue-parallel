@@ -3455,7 +3455,6 @@ defoamer
 dryer
 doltishness
 dichlorohydrin
-despotisms
 dishlike
 duodecimally
 dashboards
@@ -5587,6 +5586,7 @@ donatistic
 deintellectualize
 dibber
 dustfall
+despotisms
 draftable
 depended
 dolichopellic
