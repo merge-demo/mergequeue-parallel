@@ -1004,7 +1004,6 @@ calapite
 caprelline
 calappidae
 calas
-colourtype
 cohoba
 calascione
 cydonia
@@ -13432,6 +13431,7 @@ calindas
 crossarm
 cyclotome
 cyclotomic
+colourtype
 camisias
 cyclotomies
 counterfeitment
