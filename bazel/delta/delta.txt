@@ -8564,6 +8564,7 @@ duchy
 dethrone
 dos
 dewbeam
+droppage
 didacts
 diaphanometric
 dampishness
@@ -17410,7 +17411,6 @@ dribblers
 decollimate
 dividual
 destool
-droppage
 diffraction
 decennia
 didascaly

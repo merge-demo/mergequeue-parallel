@@ -6195,7 +6195,6 @@ absolver
 agonizingness
 agoranomus
 alnager
-agoraphobiac
 antiferment
 aquerne
 agoraphobic
@@ -13150,6 +13149,7 @@ animatingly
 animation
 amoks
 areosystyle
+agoraphobiac
 animatistic
 applaudingly
 animato
