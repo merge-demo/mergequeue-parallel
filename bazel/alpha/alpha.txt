@@ -1576,6 +1576,7 @@ accordionists
 adamical
 albuminocholia
 andalusian
+apothem
 autoportrait
 aconin
 airwoman
@@ -20169,7 +20170,6 @@ acidulation
 arratel
 amylohydrolytic
 asclepieion
-apothem
 arrau
 assiduously
 arrearage
