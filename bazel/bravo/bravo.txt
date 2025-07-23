@@ -2068,7 +2068,6 @@ backseats
 boidae
 backgeared
 babai
-barefooted
 bollixing
 bannat
 baulky
@@ -8902,6 +8901,7 @@ bioclimatic
 bowwoman
 bioclimatician
 bioclimatology
+barefooted
 bathwater
 bavoso
 blabber
