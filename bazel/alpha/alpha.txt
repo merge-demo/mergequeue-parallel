@@ -3784,7 +3784,6 @@ altin
 adight
 adin
 araneose
-anguineous
 apparentation
 adynamia
 adion
@@ -11698,6 +11697,7 @@ aldim
 anaglyptography
 anaglyptographic
 armorbearer
+anguineous
 acacatechin
 ablator
 acnodes
