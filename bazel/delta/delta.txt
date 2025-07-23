@@ -11143,7 +11143,6 @@ dimerize
 dorlach
 doupioni
 dumbfound
-disastrous
 drippy
 dreparnaudia
 dissipater
@@ -16939,6 +16938,7 @@ dobber
 doless
 dzerin
 dianthaceae
+disastrous
 dyspeptics
 drearfully
 directive
