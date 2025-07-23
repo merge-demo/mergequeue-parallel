@@ -2303,7 +2303,6 @@ defensory
 dekaparsec
 dermatropic
 dactylioglyphic
-danglement
 drat
 diacetyls
 delectations
@@ -4420,6 +4419,7 @@ dematerialised
 donal
 disproportionation
 dioeciousness
+danglement
 disclaimed
 dematerialize
 dematerialized
