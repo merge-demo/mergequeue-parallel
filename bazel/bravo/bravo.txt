@@ -13758,7 +13758,6 @@ bescurf
 burga
 bufflehorn
 bovaristic
-burgout
 bovate
 besmirching
 bovinely
@@ -14981,6 +14980,7 @@ barramundis
 bemusedly
 brimfull
 buro
+burgout
 barelegged
 breechcloths
 biosatellite
