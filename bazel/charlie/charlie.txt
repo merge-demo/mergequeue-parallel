@@ -3210,6 +3210,7 @@ cushaw
 capillarectasia
 cyrtograph
 carmetta
+codium
 chinoiserie
 capilli
 capilliculture
@@ -15591,7 +15592,6 @@ cordially
 confoundedly
 chabasie
 classicolatry
-codium
 classier
 classiest
 classify
