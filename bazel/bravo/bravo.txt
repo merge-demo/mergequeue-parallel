@@ -3733,7 +3733,6 @@ battologize
 bronchiocele
 bookmaking
 britska
-batts
 blowpipe
 barytocalcite
 befouler
@@ -4225,6 +4224,7 @@ beauty
 brachyphalangia
 bracing
 bentlet
+batts
 brumstone
 beautydom
 butylic
