@@ -5621,6 +5621,7 @@ bewigs
 barbitone
 businessmen
 bardes
+befooled
 byelaws
 bedeen
 beladying
@@ -7827,7 +7828,6 @@ belauds
 bronzy
 bursautee
 bibbing
-befooled
 bibble
 bamboozle
 bibbler
