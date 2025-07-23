@@ -2676,7 +2676,6 @@ autoplastically
 auctioning
 arquebus
 azelfafage
-acridophagus
 accreditment
 acriflavin
 alepidote
@@ -4706,6 +4705,7 @@ aeonist
 aridly
 aide
 aeons
+acridophagus
 animatist
 aphrodisia
 afterglide
