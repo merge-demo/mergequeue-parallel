@@ -4,7 +4,6 @@ archnesses
 amyotaxia
 aahing
 aahs
-ampullae
 aaliis
 apocatastatic
 acromyodous
@@ -264,6 +263,7 @@ abditory
 apelet
 abdom
 anhydrides
+ampullae
 autoserotherapy
 arian
 arsines
