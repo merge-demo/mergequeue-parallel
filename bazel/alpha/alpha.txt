@@ -2944,7 +2944,6 @@ axisymmetric
 appalment
 appendages
 ashless
-antozonite
 antiheroism
 actinias
 actinic
@@ -20527,6 +20526,7 @@ arthritical
 afterswarm
 affrontingness
 arthritically
+antozonite
 alphabetising
 abseiling
 allophytoid

@@ -1479,6 +1479,7 @@ dingbats
 definiendum
 deformers
 diazines
+diemakers
 deacetylate
 duststorm
 donas
@@ -9272,7 +9273,6 @@ dislegitimate
 drawcard
 digitaliform
 drys
-diemakers
 duckie
 dehumidifying
 dossils
