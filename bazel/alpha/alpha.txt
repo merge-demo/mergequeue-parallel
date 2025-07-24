@@ -12158,6 +12158,7 @@ autocue
 ancestrian
 allodge
 ancha
+araignee
 asgard
 albuminimetry
 anchat
@@ -18297,7 +18298,6 @@ alowe
 aragonspath
 araguane
 araguato
-araignee
 arain
 arains
 antrotome
