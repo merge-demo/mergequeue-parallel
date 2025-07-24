@@ -3071,6 +3071,7 @@ doohickus
 dentaria
 defacer
 dentiscalp
+diagnoses
 desole
 delible
 designated
@@ -5907,7 +5908,6 @@ depredate
 depredated
 depredationist
 definitiveness
-diagnoses
 deleting
 droshky
 depredatory
