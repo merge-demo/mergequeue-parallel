@@ -3387,7 +3387,6 @@ capper
 ciseleurs
 cappiest
 capping
-cervelas
 cyclopite
 chemotropism
 coenact
@@ -12416,6 +12415,7 @@ chromatophoric
 canthectomy
 chevroned
 cnidophobia
+cervelas
 culebra
 chromatopsia
 chromatoptometer

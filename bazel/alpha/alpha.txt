@@ -2270,7 +2270,6 @@ adderfish
 alaric
 arthrozoic
 avoidably
-abruptedly
 arachnephobia
 avgasses
 acidifying
@@ -3958,6 +3957,7 @@ admeasurer
 adumbrant
 admeasuring
 amimide
+abruptedly
 afforced
 anthus
 ankuses
