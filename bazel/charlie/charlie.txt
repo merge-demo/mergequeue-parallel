@@ -5786,7 +5786,6 @@ cardisophistical
 calipered
 catechism
 catalyzator
-circumspective
 catechismal
 catechistic
 catechistical
@@ -6335,6 +6334,7 @@ chilectropion
 cabrie
 calycular
 causal
+circumspective
 cacique
 candystick
 causality
