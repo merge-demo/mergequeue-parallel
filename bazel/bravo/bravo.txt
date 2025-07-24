@@ -6880,7 +6880,6 @@ branchings
 blibe
 bruchid
 bacteririum
-benignity
 blackmailed
 bacteriotoxic
 benignancy
@@ -9217,6 +9216,7 @@ bogo
 backhauling
 bourbonesque
 bipedality
+benignity
 bipeds
 bipeltate
 bipennate
