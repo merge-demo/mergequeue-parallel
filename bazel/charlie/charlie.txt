@@ -13812,6 +13812,7 @@ cinema
 cinemactic
 cinemagoer
 circumlocutionary
+coryphodont
 cinemagoers
 cinemas
 cinematheque
@@ -26190,7 +26191,6 @@ chanceman
 cosovereignty
 cospecies
 cospecific
-coryphodont
 cosphered
 cosplendor
 caeciliae
