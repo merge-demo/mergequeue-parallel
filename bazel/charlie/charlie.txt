@@ -9910,6 +9910,7 @@ chemoprophylactic
 cruiser
 coaxer
 candent
+crystallod
 chemoreception
 chemoreceptive
 chemoreceptivity
@@ -29479,7 +29480,6 @@ crystallochemical
 calvinist
 chaldaism
 chati
-crystallod
 crystallogeny
 crystallogenical
 cymbiform
