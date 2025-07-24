@@ -7508,7 +7508,6 @@ beveil
 bevelled
 bardism
 belayer
-beveller
 bookbinder
 bardelle
 biathlon
@@ -11376,6 +11375,7 @@ bluebells
 bepistoled
 bons
 bescorches
+beveller
 bluebill
 bustic
 berairou
