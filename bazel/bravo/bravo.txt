@@ -6740,7 +6740,6 @@ blitter
 balaamitical
 beeishness
 bathmotropic
-brontosaurus
 berlinize
 berloque
 berm
@@ -10861,6 +10860,7 @@ blickies
 blighia
 britskas
 bloodlike
+brontosaurus
 blastomycetic
 blowgun
 blighters
