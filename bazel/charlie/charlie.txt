@@ -5834,7 +5834,6 @@ categorised
 chansonnier
 cultivated
 cochlearia
-chemicopharmaceutical
 cuemanship
 cleaves
 categorization
@@ -10692,6 +10691,7 @@ caseoses
 ctenophorous
 coprolite
 compassless
+chemicopharmaceutical
 chymia
 chymics
 chymify
