@@ -3123,6 +3123,7 @@ capacitativly
 coldness
 can
 capacitive
+coryphaei
 cenotaphies
 cyclopes
 capacitor
@@ -25228,7 +25229,6 @@ cumidine
 coriolanus
 cailleach
 cladode
-coryphaei
 coryphaenoididae
 compearance
 confucians

@@ -9803,7 +9803,6 @@ bisulfate
 bromatology
 buries
 bocca
-bitable
 bidialectal
 bytalks
 bitanhol
@@ -16454,6 +16453,7 @@ borasque
 bruskly
 bruskness
 bozal
+bitable
 breathableness
 bequote
 bulbomedullary
