@@ -11158,7 +11158,6 @@ chivey
 cephalanthium
 chiliadal
 coronitis
-caboclos
 cyphonautes
 chiviatite
 clavaria
@@ -30049,6 +30048,7 @@ croups
 crouse
 crousely
 croustade
+caboclos
 curriculum
 cabbagewood
 crout
