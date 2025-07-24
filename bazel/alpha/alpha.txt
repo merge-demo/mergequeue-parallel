@@ -17827,6 +17827,7 @@ apprehending
 algraphy
 awan
 apprest
+autodiagnostic
 argininephosphoric
 avosets
 apprehensively
@@ -24008,7 +24009,6 @@ autodecremented
 aerodynamic
 affeeble
 autodepolymerization
-autodiagnostic
 artemas
 aviador
 alutaceous
