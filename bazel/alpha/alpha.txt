@@ -17278,7 +17278,6 @@ apositia
 antisiphonal
 aclinal
 apositic
-ashram
 acetonize
 antiagglutinant
 archpatriarch
@@ -19895,6 +19894,7 @@ armlessness
 armlets
 aiguellette
 armlike
+ashram
 armload
 armlock
 armonicas
