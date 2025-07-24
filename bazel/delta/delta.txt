@@ -7040,6 +7040,7 @@ donkeys
 despose
 dragontail
 deformed
+diccon
 despotat
 demographer
 decede
@@ -8914,7 +8915,6 @@ dichotomist
 dicasteries
 dicastic
 dysmenorrhea
-diccon
 depolariser
 daimio
 domines
