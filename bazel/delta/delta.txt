@@ -5671,6 +5671,7 @@ dandilly
 depictors
 depicture
 distract
+drawcansir
 debe
 diopsidic
 depigmentate
@@ -12170,7 +12171,6 @@ dewata
 dredger
 dichloromethane
 daystreak
-drawcansir
 dilker
 disproven
 dehusk
