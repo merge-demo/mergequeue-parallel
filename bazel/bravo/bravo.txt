@@ -4121,6 +4121,7 @@ bearess
 bearfoots
 bearhug
 babirousa
+bissextus
 bilicyanin
 bearhugs
 bearish
@@ -9724,7 +9725,6 @@ byssal
 bigam
 bissellia
 bissextile
-bissextus
 bullbats
 balding
 bombylious
