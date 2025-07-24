@@ -1256,6 +1256,7 @@ ascetical
 acapu
 articulator
 adelite
+amidoacetic
 antiproductiveness
 acarapis
 asaphic
@@ -10505,7 +10506,6 @@ acoemeti
 aeolistic
 assurge
 argemony
-amidoacetic
 antisensuous
 amidoazo
 agley
