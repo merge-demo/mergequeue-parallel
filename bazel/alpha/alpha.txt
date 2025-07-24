@@ -10527,7 +10527,6 @@ apollonia
 anandrous
 auguration
 antihypnotic
-ameliorativ
 amidoplast
 amaryllid
 amidoplastid
@@ -12588,6 +12587,7 @@ alleviations
 aneuploidy
 aneuric
 aneurilemmic
+ameliorativ
 avoidance
 amentiferae
 aleuron
