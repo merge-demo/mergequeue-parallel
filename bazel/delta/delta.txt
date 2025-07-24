@@ -12493,6 +12493,7 @@ discontinuations
 disconform
 disillusionising
 disdeceive
+decasyllable
 decimalize
 disillusionments
 disgorge
@@ -18640,7 +18641,6 @@ dutymonger
 deactivations
 deodorizer
 disalignment
-decasyllable
 denunciatively
 disforest
 drowsily
