@@ -7331,7 +7331,6 @@ anglesite
 avenues
 adjuvant
 albedo
-antidisestablishmentarian
 alum
 albedometer
 albee
@@ -10794,6 +10793,7 @@ anorexias
 aselline
 aljofaina
 alzheimer
+antidisestablishmentarian
 ammites
 ammo
 amphibological
