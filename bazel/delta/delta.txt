@@ -11134,7 +11134,6 @@ disassent
 disassimilate
 darin
 disassimilative
-disassociable
 disinherits
 disassociate
 disassociates
@@ -18214,6 +18213,7 @@ disfellowship
 deadlocks
 dermatorrhoea
 dode
+disassociable
 decurrent
 dunderfunk
 debbies

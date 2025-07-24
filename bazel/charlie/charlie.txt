@@ -125,7 +125,6 @@ cabinlike
 crafter
 cabio
 chemisorptive
-costotransverse
 cabiria
 cabirian
 circumcised
@@ -1150,6 +1149,7 @@ cotwal
 chlamydophore
 crunches
 chilopoda
+costotransverse
 calculability
 counterrampant
 calculableness
