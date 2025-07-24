@@ -13257,7 +13257,6 @@ cyclicalness
 cyclide
 cubeb
 cyclindroid
-calomel
 characterized
 cyclings
 cupelled
@@ -29689,6 +29688,7 @@ coetanean
 croises
 croisette
 cambiform
+calomel
 croissant
 croissante
 crojack
