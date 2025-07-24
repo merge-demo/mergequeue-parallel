@@ -8840,6 +8840,7 @@ bummalos
 benzol
 balsamiferous
 braeface
+borotungstate
 binomenclature
 bilimbi
 barrelhead
@@ -13146,7 +13147,6 @@ bube
 brucite
 borosalicylic
 bywalk
-borotungstate
 borough
 bouquetin
 biseriate
