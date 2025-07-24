@@ -19317,7 +19317,6 @@ coresidence
 chelem
 colonialists
 coctoprecipitin
-colonialize
 chortles
 colonializing
 crystic
@@ -27931,6 +27930,7 @@ clockface
 convergement
 crackmans
 cracknel
+colonialize
 crackpots
 copulate
 cracks
