@@ -22166,6 +22166,7 @@ confucius
 crambambuli
 confusability
 circummured
+connives
 confusedly
 confusedness
 confuser
@@ -22620,7 +22621,6 @@ chug
 clinker
 connived
 chromochalcography
-connives
 captance
 caliper
 clodded
