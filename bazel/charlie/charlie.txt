@@ -2223,6 +2223,7 @@ campsites
 coronofacial
 cretinizing
 campstool
+conchometry
 camptonite
 camptosorus
 cabaan
@@ -4704,7 +4705,6 @@ carpet
 carpetbag
 carpetbagger
 carpetbaggery
-conchometry
 catty
 compatibles
 crazies
