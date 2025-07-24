@@ -3044,6 +3044,7 @@ azotise
 abdominoanterior
 anilinophilous
 arvicole
+aristeia
 alligatoring
 alluvion
 advertisements
@@ -19650,7 +19651,6 @@ aristate
 aristeas
 alertness
 armaria
-aristeia
 aristida
 aristides
 aristocracy
