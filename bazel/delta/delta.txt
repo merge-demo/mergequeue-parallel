@@ -6408,7 +6408,6 @@ derogating
 deceivableness
 derogative
 derogator
-derogatory
 dooja
 dermovaccine
 dischurch
@@ -15763,6 +15762,7 @@ diaxonic
 disyntheme
 dater
 dicht
+derogatory
 drubbly
 dicyanine
 dogshore
