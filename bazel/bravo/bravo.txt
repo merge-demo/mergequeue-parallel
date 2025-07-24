@@ -6277,7 +6277,6 @@ bubas
 blatantly
 brush
 braceleted
-bimodulus
 benni
 bennies
 benomyl
@@ -18227,6 +18226,7 @@ bottlelike
 butterfish
 besquirt
 botching
+bimodulus
 blubberingly
 butterfishes
 butterflied
