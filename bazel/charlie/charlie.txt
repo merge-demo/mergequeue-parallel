@@ -10452,7 +10452,6 @@ chigga
 chiggers
 congession
 consorts
-chigoes
 chih
 conquered
 coryphaena
@@ -29344,6 +29343,7 @@ cryptomonadales
 conchite
 clones
 coadjutement
+chigoes
 coshering
 cryptomonadina
 cryptonema
