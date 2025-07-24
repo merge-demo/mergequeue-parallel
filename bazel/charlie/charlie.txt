@@ -11993,6 +11993,7 @@ collunarium
 consol
 cachina
 chorioallantoic
+coemptional
 chorioallantoid
 chorioallantois
 centrifugation
@@ -17141,7 +17142,6 @@ campement
 calculagraph
 covotary
 commonweal
-coemptional
 champ
 coadjutor
 coadjutors
