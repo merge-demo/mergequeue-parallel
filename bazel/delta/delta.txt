@@ -12211,7 +12211,6 @@ descendibility
 disherent
 disfortune
 dramatism
-diomedea
 disbandment
 doors
 directional
@@ -15692,6 +15691,7 @@ dopy
 demoniacal
 dopier
 dogstone
+diomedea
 desi
 docile
 dunce
