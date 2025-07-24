@@ -902,7 +902,6 @@ absyrtus
 amylon
 absis
 absistos
-absit
 absoil
 absterging
 antient
@@ -24383,6 +24382,7 @@ augmentationer
 ambushing
 autosyn
 aarrgh
+absit
 autosyndesis
 appreciable
 autostyly
