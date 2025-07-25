@@ -6440,7 +6440,6 @@ benzophloroglucinol
 baculi
 benedight
 benzophthalazine
-breakup
 benzil
 banewort
 bibliothecaire
@@ -16638,6 +16637,7 @@ buchnerite
 balconette
 buchonite
 buck
+breakup
 bayamo
 buckaroo
 bombazet
