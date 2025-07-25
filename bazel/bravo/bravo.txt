@@ -13244,6 +13244,7 @@ bructeri
 bossdoms
 burghal
 baromacrometer
+bewhistle
 bossed
 boanergean
 bosselation
@@ -16735,7 +16736,6 @@ bahama
 blinder
 biacetyls
 bucrane
-bewhistle
 bromised
 babis
 bullyingly
