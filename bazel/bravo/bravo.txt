@@ -15670,7 +15670,6 @@ batful
 butyric
 broadsider
 burnished
-borrovian
 begroaned
 botanophile
 broadsides
@@ -16941,6 +16940,7 @@ blunder
 bloodstained
 begirded
 bondelswarts
+borrovian
 bedewoman
 buildups
 bordure
