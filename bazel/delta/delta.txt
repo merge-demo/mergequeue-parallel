@@ -3345,7 +3345,6 @@ dayment
 distressfulness
 dismast
 denims
-dullery
 definitor
 dorsosternal
 dogmouth
@@ -5476,6 +5475,7 @@ dep
 doss
 deordination
 deorganization
+dullery
 deistic
 decolouriser
 deorganize

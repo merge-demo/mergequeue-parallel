@@ -4936,6 +4936,7 @@ aeronaut
 aeronautic
 aeronautical
 aeronomer
+ampoule
 amyliferous
 aumil
 aeronomy
@@ -13487,7 +13488,6 @@ annihilatory
 annihilators
 antimodernism
 attice
-ampoule
 archartist
 anniversalily
 anniversary
