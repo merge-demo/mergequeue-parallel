@@ -3312,6 +3312,7 @@ atresic
 atelets
 andean
 adamellite
+afterstretch
 allosyndesis
 antihierarchic
 adamine
@@ -5535,7 +5536,6 @@ aftershocks
 aftersound
 afterspring
 anhele
-afterstretch
 amphitriaene
 autosuggestive
 acetylaminobenzene
