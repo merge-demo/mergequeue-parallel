@@ -1937,7 +1937,6 @@ acetylglycine
 apologetical
 acetylhydrazine
 attentional
-aotus
 acetylid
 acetylizable
 aversive
@@ -7411,6 +7410,7 @@ atmid
 albinisms
 albinistic
 albinos
+aotus
 antivenin
 albinotic
 antitypic
