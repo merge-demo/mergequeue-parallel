@@ -14532,7 +14532,6 @@ belugite
 bedumbed
 branchiostegidae
 branchiostoma
-branchiostomid
 brandyball
 bounciest
 branchiostomous
@@ -14711,6 +14710,7 @@ bacury
 beribbon
 bonbonniere
 baluchistan
+branchiostomid
 bowdlerize
 brauronian
 brava
