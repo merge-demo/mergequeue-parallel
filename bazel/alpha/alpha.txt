@@ -9593,6 +9593,7 @@ anisomeles
 alture
 altus
 algivorous
+androids
 aluco
 alpaca
 amazia
@@ -20323,7 +20324,6 @@ anticonceptionist
 arsenites
 anarchic
 afley
-androids
 arrogate
 antenarial
 alonsoa
