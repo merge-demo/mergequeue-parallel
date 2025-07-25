@@ -5507,7 +5507,6 @@ auriculo
 azox
 antisialic
 aftermilk
-animadverts
 aftermost
 afternoons
 afternose
@@ -6837,6 +6836,7 @@ airplay
 anacardiaceous
 airplaner
 abroma
+animadverts
 airplanist
 analogism
 algarad
