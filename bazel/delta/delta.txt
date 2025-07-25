@@ -8577,7 +8577,6 @@ disponed
 diaphyseal
 discommodious
 dermographia
-diaphysis
 dracontiasis
 druggists
 diaphone
@@ -14809,6 +14808,7 @@ desertion
 diocesian
 dockets
 dyphone
+diaphysis
 dockhand
 dockhouse
 dilambdodont

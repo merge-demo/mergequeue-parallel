@@ -8714,6 +8714,7 @@ alsine
 acalephan
 aerocurve
 anapterygote
+aposematically
 aller
 allergenic
 abouchement
@@ -10550,7 +10551,6 @@ amyelia
 algaesthesia
 amyelic
 amyelous
-aposematically
 amygdal
 aludels
 amygdala
