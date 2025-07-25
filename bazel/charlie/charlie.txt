@@ -9531,6 +9531,7 @@ checkbits
 checkbook
 chachalaca
 cableways
+chondrology
 cirrigerous
 climatically
 chaetites
@@ -23281,7 +23282,6 @@ complainers
 consultants
 crossbred
 consultantship
-chondrology
 clitoriditis
 consultary
 consultatively
