@@ -15635,6 +15635,7 @@ choose
 clathrinidae
 clathroid
 clathrose
+comandra
 cranes
 camelkeeper
 clathrulate
@@ -19692,7 +19693,6 @@ cutis
 catocala
 cinematics
 chaptering
-comandra
 capetown
 cheir
 consolidant

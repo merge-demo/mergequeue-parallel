@@ -5560,6 +5560,7 @@ diversities
 deadlatch
 diaminogene
 dx
+despoticalness
 dimmock
 departmentalism
 departmentalization
@@ -8991,7 +8992,6 @@ dichotomize
 demographic
 demonstrably
 dub
-despoticalness
 dail
 dihydride
 dated
