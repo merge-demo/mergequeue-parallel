@@ -6657,7 +6657,6 @@ codifier
 cecum
 cecums
 cecutiency
-cedar
 cedary
 conveyable
 convolvement
@@ -28137,6 +28136,7 @@ cranioid
 craniol
 craniology
 craniologist
+cedar
 craniom
 custards
 cleistotcia
