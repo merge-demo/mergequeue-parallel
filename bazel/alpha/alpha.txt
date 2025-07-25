@@ -19317,6 +19317,7 @@ argals
 arrayer
 acolytus
 ambrosian
+autokinetic
 appius
 allergins
 anoplothere
@@ -24156,7 +24157,6 @@ autokinesis
 arythmia
 aetosaurian
 apteryxes
-autokinetic
 assuage
 ampalea
 autolaryngoscopic
