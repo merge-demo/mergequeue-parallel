@@ -1718,7 +1718,6 @@ baloney
 bryan
 buskers
 brokerage
-bodgery
 brachypyramid
 broon
 byline
@@ -4687,6 +4686,7 @@ borotungstic
 bordereaux
 birlings
 bedimple
+bodgery
 bedimpling
 bulllike
 bluegown
