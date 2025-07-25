@@ -10161,7 +10161,6 @@ amoeboidism
 antithetically
 ambulancer
 acenesthesia
-ambulante
 ambulated
 atropinism
 ambulates
@@ -17778,6 +17777,7 @@ antiaris
 apposers
 alida
 arras
+ambulante
 apposition
 appositive
 annexed
