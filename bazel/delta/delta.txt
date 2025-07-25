@@ -2935,7 +2935,6 @@ dedifferentiated
 dedifferentiating
 dedignation
 developist
-dimanganion
 displayer
 dedit
 dediticiancy
@@ -9530,6 +9529,7 @@ digestment
 dittography
 declinature
 diastataxic
+dimanganion
 debenzolize
 desiliconize
 discussable
