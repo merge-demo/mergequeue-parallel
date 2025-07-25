@@ -14559,7 +14559,6 @@ cisplatine
 cispontine
 cisrhenane
 cissampelos
-conster
 cissy
 compassionless
 cissies
@@ -16995,6 +16994,7 @@ consols
 cluricaune
 clusia
 clusiaceae
+conster
 clusiaceous
 chorio
 carbocer
