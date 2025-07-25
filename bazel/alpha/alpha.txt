@@ -10096,6 +10096,7 @@ ambocoelia
 adelpholite
 alumin
 aspirin
+anniversary
 atmological
 amoraic
 aggadic
@@ -13490,7 +13491,6 @@ attice
 ampoule
 archartist
 anniversalily
-anniversary
 arthrorrhagia
 anniverse
 azobenzene
