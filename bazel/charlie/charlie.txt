@@ -6847,6 +6847,7 @@ concaveness
 celliform
 cellist
 cellite
+curtana
 currs
 continua
 cellmates
@@ -31569,7 +31570,6 @@ curtal
 cuddles
 cobdenism
 curtalaxes
-curtana
 coho
 curtate
 controversialists
