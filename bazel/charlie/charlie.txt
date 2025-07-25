@@ -24544,7 +24544,6 @@ copepoda
 chromolithograph
 cleistothecopsis
 cyzicene
-coplaintiff
 coper
 copernican
 creatophagous
@@ -29244,6 +29243,7 @@ cryptarchy
 caracols
 crypteroniaceae
 cryptical
+coplaintiff
 cryptically
 crypticness
 coupled
