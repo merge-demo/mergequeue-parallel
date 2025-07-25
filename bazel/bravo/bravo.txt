@@ -3391,7 +3391,6 @@ basswood
 burghership
 berceau
 brelaw
-byrrus
 bedsores
 bastardised
 blushing
@@ -10187,6 +10186,7 @@ begrime
 badgering
 binghi
 broomy
+byrrus
 bassing
 bagmaking
 bitreadle
