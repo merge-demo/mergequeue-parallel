@@ -4632,7 +4632,6 @@ caroling
 catholical
 carolinians
 carolitic
-carditic
 caoba
 caroller
 carols
@@ -11051,6 +11050,7 @@ chirt
 chirurgeon
 crimean
 chirurgeonly
+carditic
 cavern
 chirurgery
 chis
