@@ -12829,6 +12829,7 @@ congressman
 counterinsult
 chunder
 chung
+cylindrically
 camassia
 chunga
 conceits
@@ -13540,7 +13541,6 @@ cylindrelloid
 cryptographic
 cylindrenchyma
 cylindric
-cylindrically
 cylindricity
 cylindricule
 cylindriform
