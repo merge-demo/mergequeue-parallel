@@ -18908,6 +18908,7 @@ coliseum
 colossus
 cestoid
 colistin
+chlorophoenicite
 coypou
 colitic
 colitises
@@ -28344,7 +28345,6 @@ counterdraft
 christenhead
 cravingness
 cravings
-chlorophoenicite
 comportment
 cymbalers
 califate
