@@ -9502,6 +9502,7 @@ afterend
 attemperate
 angakut
 alternatively
+assumptiveness
 alternativeness
 alternatives
 angioblast
@@ -18775,7 +18776,6 @@ attributive
 asymmetrically
 archettos
 assever
-assumptiveness
 archeunuch
 adstipulate
 artamidae
