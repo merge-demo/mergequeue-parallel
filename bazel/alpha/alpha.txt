@@ -13356,6 +13356,7 @@ ankerites
 ankylenteron
 acmaesthesia
 ankylocheilia
+apostolos
 ankylodactylia
 antiinflammatory
 ankylodontia
@@ -22122,7 +22123,6 @@ alluviate
 algologist
 astigmoscope
 astylar
-apostolos
 astipulation
 anhydromyelia
 advised
