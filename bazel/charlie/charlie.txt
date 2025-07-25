@@ -17676,7 +17676,6 @@ containerized
 cochleae
 cochlear
 crystallograph
-cochleariform
 cochleiform
 cyclophrenia
 comedy
@@ -21213,6 +21212,7 @@ conceptualism
 conceptualist
 coronaries
 contrasted
+cochleariform
 cricoidectomy
 cananaean
 conceptualize
