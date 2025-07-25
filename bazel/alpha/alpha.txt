@@ -14367,7 +14367,6 @@ antiprelatism
 anthracometric
 abecedarium
 abnormalist
-anthracosaurus
 anthracosis
 abox
 anthracothere
@@ -23372,6 +23371,7 @@ aluminosilicate
 audiphone
 ababdeh
 auditable
+anthracosaurus
 arteriovenous
 auditing
 aftersong
