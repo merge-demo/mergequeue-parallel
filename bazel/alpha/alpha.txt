@@ -3132,6 +3132,7 @@ auchenia
 actipylea
 activate
 apologete
+arrowlike
 autocatalytically
 amphogenic
 apanthropy
@@ -20296,7 +20297,6 @@ ayin
 achromobacterieae
 arrowlet
 adermine
-arrowlike
 aminoazobenzene
 arrowplate
 abortifacient
