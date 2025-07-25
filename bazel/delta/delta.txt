@@ -5561,7 +5561,6 @@ deadlatch
 diaminogene
 dx
 dimmock
-departmentalism
 departmentalization
 departmentalized
 dorper
@@ -11203,6 +11202,7 @@ dammaret
 disbelievers
 diascordium
 droich
+departmentalism
 dazingly
 dratted
 disbelieves
