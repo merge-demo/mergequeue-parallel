@@ -7244,7 +7244,6 @@ assumably
 abbess
 alarmclock
 abstract
-alexanders
 abamps
 alarmedly
 alarmingly
@@ -10743,6 +10742,7 @@ arsenoferratin
 amphirhine
 atwitter
 affa
+alexanders
 antiphthisical
 asterisked
 amissible
