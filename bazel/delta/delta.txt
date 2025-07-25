@@ -3892,7 +3892,6 @@ deathfully
 deirid
 deis
 deiseal
-deisidaimonia
 disquieting
 deism
 decentred
@@ -8843,6 +8842,7 @@ dolefuller
 douricouli
 displacements
 diazotized
+deisidaimonia
 devolatilising
 dodecagonal
 divination

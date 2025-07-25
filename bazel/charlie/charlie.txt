@@ -4110,6 +4110,7 @@ cameoing
 cornmaster
 condalia
 cardin
+conveniencies
 cardinal
 cardinalfish
 croslet
@@ -23996,7 +23997,6 @@ conveniences
 curin
 chubb
 conveniency
-conveniencies
 convenient
 convening
 casing
