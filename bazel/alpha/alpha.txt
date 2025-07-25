@@ -14177,7 +14177,6 @@ anastaltic
 aesculapian
 ascriptitii
 allomorph
-arapahite
 agglutinant
 aeroscopic
 arent
@@ -16369,6 +16368,7 @@ antodontalgic
 aberrated
 antoeci
 antoecian
+arapahite
 antoecians
 agitator
 ascogonia
