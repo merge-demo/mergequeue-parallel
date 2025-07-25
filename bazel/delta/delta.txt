@@ -10510,6 +10510,7 @@ diphthonging
 diphthongisation
 demolishes
 deisticalness
+devast
 dozent
 dalar
 daglock
@@ -14055,7 +14056,6 @@ denominable
 distressing
 deglamorization
 distressingly
-devast
 dockyardman
 dishorner
 dragging
