@@ -4703,6 +4703,7 @@ charlock
 carpet
 carpetbag
 carpetbagger
+counterbored
 carpetbaggery
 conchometry
 catty
@@ -26718,7 +26719,6 @@ calamitously
 counterblast
 counterborder
 counterbore
-counterbored
 celandine
 counterborer
 counterboring
