@@ -4271,7 +4271,6 @@ deltahedra
 dismaler
 deltalike
 diluvial
-disacknowledge
 deltas
 digitals
 dukeling
@@ -7995,6 +7994,7 @@ dichlorobenzene
 dimethylaniline
 dimensive
 dookit
+disacknowledge
 dolichofacial
 daemonic
 delicatessens
