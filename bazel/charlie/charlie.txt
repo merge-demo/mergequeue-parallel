@@ -9037,6 +9037,7 @@ chaplaincy
 cerebbella
 chalchihuitl
 conceivability
+curial
 cryptal
 charism
 charisma
@@ -28552,7 +28553,6 @@ checkerwork
 creditive
 creditless
 creditor
-curial
 creditress
 creditrix
 crednerite
