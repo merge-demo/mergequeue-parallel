@@ -782,6 +782,7 @@ daubers
 delusters
 dovecote
 diuretical
+daft
 danegelds
 dungeon
 dermititis
@@ -15887,7 +15888,6 @@ devilship
 deiced
 disrating
 defecated
-daft
 demonesses
 deoxidizer
 dossiers
