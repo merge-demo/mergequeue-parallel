@@ -1121,7 +1121,6 @@ belonesite
 bairns
 bootful
 berne
-banquets
 backwall
 borates
 botete
@@ -1972,6 +1971,7 @@ bronchoscopy
 brachydactyl
 bulbous
 bombard
+banquets
 ballocks
 banghy
 basilicas
