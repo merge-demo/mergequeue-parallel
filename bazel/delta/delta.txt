@@ -994,7 +994,6 @@ deformeter
 delusory
 daffling
 dypnone
-darker
 dolorimetric
 darkest
 distichously
@@ -6845,6 +6844,7 @@ dvorak
 dolichoblond
 definition
 disfranchisers
+darker
 donataries
 desmine
 degenerates
