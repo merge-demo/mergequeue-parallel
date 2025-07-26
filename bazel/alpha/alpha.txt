@@ -13707,7 +13707,6 @@ aythya
 anomodontia
 anomoeomery
 anticommercially
-anomophyllous
 anomouran
 anomphalous
 ayegreen
@@ -17303,6 +17302,7 @@ apostatism
 agathaea
 aumail
 apostatize
+anomophyllous
 apostatizing
 apostaxis
 apostem
