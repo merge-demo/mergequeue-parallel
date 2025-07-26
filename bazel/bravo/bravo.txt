@@ -10962,6 +10962,7 @@ blacksmiths
 bafta
 billowy
 blips
+boyship
 boehmenite
 bliss
 branchiostegous
@@ -12063,7 +12064,6 @@ boyo
 boyology
 battiest
 boiserie
-boyship
 boisterous
 brangling
 boistous
