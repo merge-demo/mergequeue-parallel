@@ -8896,7 +8896,6 @@ charity
 castigating
 charact
 cutouts
-charactered
 capitalist
 costocoracoid
 charactery
@@ -28975,6 +28974,7 @@ cricoid
 cricoids
 couper
 cricopharyngeal
+charactered
 cricothyreotomy
 choosey
 cojuror
