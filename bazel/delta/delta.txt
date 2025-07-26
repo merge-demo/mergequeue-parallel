@@ -9803,7 +9803,6 @@ dilection
 duomo
 dilemite
 dipleurobranchiate
-dilemmatic
 drizzlingly
 disulfoxide
 domino
@@ -13332,6 +13331,7 @@ dustpoint
 dispurvey
 disputability
 dolichocephali
+dilemmatic
 dotters
 decident
 diactinal
