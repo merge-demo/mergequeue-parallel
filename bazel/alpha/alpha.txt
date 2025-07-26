@@ -2838,7 +2838,6 @@ apicoectomy
 amylopsase
 annona
 acronyctous
-acronym
 acrotreta
 arctocephalus
 arteriolith
@@ -12004,6 +12003,7 @@ acromiohyoid
 attributable
 anaspides
 abducent
+acronym
 alpenhorns
 autocratical
 abduced
