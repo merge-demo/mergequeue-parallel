@@ -3187,6 +3187,7 @@ carapace
 clusters
 capersome
 capersomeness
+cursa
 cranches
 calista
 cobb
@@ -31507,7 +31508,6 @@ clupeoids
 culiciform
 collectivization
 coservant
-cursa
 curse
 cursedly
 cursedness
