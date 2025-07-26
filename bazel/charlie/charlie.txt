@@ -2873,7 +2873,6 @@ canonizing
 churchreeve
 canonry
 canons
-canonship
 canoodles
 counsinhood
 canopy
@@ -31938,6 +31937,7 @@ czarish
 chufa
 creophagy
 czaritza
+canonship
 czaritzas
 crookback
 czech
