@@ -4773,7 +4773,6 @@ billfold
 brainish
 barbarize
 burking
-barrener
 bracker
 brachylogy
 bedriveling
@@ -14744,6 +14743,7 @@ biaxillary
 brawnily
 bloodsuckers
 budbreak
+barrener
 blacklegs
 babel
 brightener
