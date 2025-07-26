@@ -9436,7 +9436,6 @@ durabilities
 diffrangible
 discontentive
 dissoluble
-diffusate
 dipnoous
 djinni
 duplicator
@@ -9639,6 +9638,7 @@ doctordom
 dollie
 digressional
 digressive
+diffusate
 digressory
 dastard
 dartsman
