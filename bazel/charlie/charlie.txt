@@ -1595,7 +1595,6 @@ cholecystalgia
 clarice
 counterpaled
 cinderella
-corded
 concertize
 coassumed
 calls
@@ -11695,6 +11694,7 @@ choline
 coryphaenidae
 cholinic
 caitifty
+corded
 cotangents
 cholinolytic
 conjugably
