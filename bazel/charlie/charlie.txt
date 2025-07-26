@@ -4653,7 +4653,6 @@ convictiveness
 caronic
 cliffless
 caroome
-caroon
 causingness
 carnic
 caroteel
@@ -30263,6 +30262,7 @@ crumenal
 crumhorn
 caingin
 chanson
+caroon
 crummed
 crummer
 celiotomies
