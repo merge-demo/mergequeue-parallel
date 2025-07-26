@@ -2941,7 +2941,6 @@ compensatively
 cantefable
 childlier
 currawong
-canter
 canterburian
 cladosporium
 curlpaper
@@ -19453,6 +19452,7 @@ conges
 colorisms
 cystous
 coloristically
+canter
 cadded
 comer
 crosscrosslet
