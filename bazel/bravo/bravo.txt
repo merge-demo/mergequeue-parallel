@@ -3381,6 +3381,7 @@ bioelectrogenesis
 blockades
 busiest
 broider
+bacterize
 bewall
 bittor
 boehmenism
@@ -17036,7 +17037,6 @@ bull
 bushbeck
 boiette
 brachiocephalic
-bacterize
 berceaunette
 biblioclasm
 burrawang

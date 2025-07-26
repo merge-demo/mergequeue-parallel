@@ -18571,6 +18571,7 @@ antisepsis
 annuent
 acarophilous
 acini
+aureal
 archaeographic
 archaeographical
 asterisking
@@ -21520,7 +21521,6 @@ aspirer
 aspirers
 alliterator
 abboccato
-aureal
 adorns
 aspiringly
 anabata
