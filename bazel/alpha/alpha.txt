@@ -9129,6 +9129,7 @@ anemometric
 antacid
 alluvious
 assortative
+adjacencies
 ametropic
 allwhere
 accipitres
@@ -17679,7 +17680,6 @@ applewoman
 adopts
 applewood
 apply
-adjacencies
 anthorine
 appliable
 appliance
