@@ -1324,6 +1324,7 @@ dipentine
 demissive
 dwarfing
 draftsperson
+driverless
 dompt
 dauntingly
 damagement
@@ -2845,7 +2846,6 @@ diaclasis
 decubiti
 ditheism
 deculturate
-driverless
 decuman
 deperm
 desensitizations
