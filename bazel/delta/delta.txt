@@ -5259,7 +5259,6 @@ duplification
 deeping
 denouement
 denouements
-denounce
 disputativeness
 dynamogenously
 devalued
@@ -6330,6 +6329,7 @@ deutzias
 dryophyllum
 dermatozzoa
 dermatrophia
+denounce
 disgrade
 dephlegmatory
 dermenchysis
