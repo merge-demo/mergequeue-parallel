@@ -3500,7 +3500,6 @@ adducted
 adducting
 ataxiagram
 abdicates
-agcy
 asperses
 alcoholic
 anesthyl
@@ -14789,6 +14788,7 @@ aforetime
 anglicisms
 ascomycetes
 abnormalise
+agcy
 antichrists
 abearance
 acetylcyanide
