@@ -7753,6 +7753,7 @@ devise
 dayton
 domiciliary
 diplotegia
+distaste
 defeasance
 devised
 decongests
@@ -13839,7 +13840,6 @@ diabolarchy
 distancing
 distannic
 disjoining
-distaste
 deceptitious
 derogatively
 dysphemia
