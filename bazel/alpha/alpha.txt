@@ -12514,6 +12514,7 @@ anthribid
 anencephalic
 actinotrocha
 archpoet
+antihierarchy
 archidiaconal
 angka
 arithmocracy
@@ -15277,7 +15278,6 @@ antilopine
 antihero
 azulejo
 anticonscriptive
-antihierarchy
 aidless
 admeasured
 archontic
