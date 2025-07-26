@@ -9613,6 +9613,7 @@ cascading
 cheddar
 commentating
 cheddites
+cupules
 crooked
 cheders
 chedite
@@ -31213,7 +31214,6 @@ cupule
 convertible
 ceratophyte
 ceramicists
-cupules
 curvatures
 complacencies
 convulsible
