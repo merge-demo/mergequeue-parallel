@@ -5804,7 +5804,6 @@ acculturizing
 archfelon
 anisocarpic
 agend
-ampyx
 ave
 agendas
 ankylosaur
@@ -19632,6 +19631,7 @@ athyrium
 aas
 attitudinal
 alexandrianism
+ampyx
 aleyrodid
 arisen
 albolite
