@@ -9166,7 +9166,6 @@ charter
 charterer
 charterers
 charterhouse
-chartering
 charterism
 charterless
 chartermaster
@@ -31627,6 +31626,7 @@ colling
 chlorohydrocarbon
 curvilinead
 carpingly
+chartering
 curvimeter
 curvinerved
 curviness
