@@ -165,7 +165,6 @@ dado
 drugstore
 doltishly
 dareall
-dadoes
 deiparous
 dadoxylon
 desireful
@@ -17879,6 +17878,7 @@ duelist
 duelistic
 disinfest
 dispatchers
+dadoes
 durgan
 disacknowledgements
 dinks

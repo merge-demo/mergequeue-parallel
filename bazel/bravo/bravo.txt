@@ -6170,7 +6170,6 @@ blastide
 basin
 brookie
 bohor
-baske
 benefactress
 benign
 benefactrices
@@ -16681,6 +16680,7 @@ buckishness
 buddled
 buckism
 buckland
+baske
 bilkers
 buckle
 blacked
