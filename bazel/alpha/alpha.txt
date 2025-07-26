@@ -8508,6 +8508,7 @@ alkapton
 alkaptone
 ascent
 alkaptonuric
+airproof
 alkarsin
 ancipital
 alkarsine
@@ -9388,7 +9389,6 @@ antilobium
 alphonist
 alphonse
 alphonsin
-airproof
 atonalism
 alphonsine
 alphosis
