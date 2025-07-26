@@ -3659,7 +3659,6 @@ dermatoplasty
 demodicidae
 dawish
 diploic
-deprogrammer
 dioestrous
 deglutition
 deglutitious
@@ -6789,6 +6788,7 @@ drafts
 detachments
 desinence
 desinent
+deprogrammer
 dallying
 desinential
 defectious
