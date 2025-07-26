@@ -3631,7 +3631,6 @@ adenosine
 anatomised
 adenostoma
 ailanthic
-adenotyphus
 antislickens
 alphabetist
 attenuant
@@ -18977,6 +18976,7 @@ amaryllis
 argusfishes
 archmonarch
 amadavats
+adenotyphus
 anguish
 archmugwump
 archantiquary
