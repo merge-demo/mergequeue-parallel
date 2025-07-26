@@ -4983,7 +4983,6 @@ disomus
 demotions
 deraign
 deferent
-dysmeromorph
 discreated
 demarking
 declivitous
@@ -5215,6 +5214,7 @@ decephalization
 deathly
 diaheliotropic
 detruncating
+dysmeromorph
 devoid
 diazoamino
 denitrifier
