@@ -2047,6 +2047,7 @@ acharya
 autoimmune
 acharne
 afrikander
+americana
 acharnement
 achatina
 achatinidae
@@ -2441,7 +2442,6 @@ affettuosos
 anatomicobiological
 acne
 acquiring
-americana
 adipic
 acnemia
 argumentum
