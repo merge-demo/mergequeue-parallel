@@ -12090,7 +12090,6 @@ bolag
 bosey
 bolas
 bedell
-bartsia
 balmacaan
 biglenoid
 bolboxalis
@@ -12998,6 +12997,7 @@ ballyhoos
 boppist
 brideless
 bloomers
+bartsia
 bombazine
 beliquored
 balanid
