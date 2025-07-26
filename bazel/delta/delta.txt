@@ -13190,7 +13190,6 @@ dilly
 display
 displayable
 dumaist
-depositive
 dongolas
 diazole
 dovetailed
@@ -14681,6 +14680,7 @@ dizzily
 dramaturgic
 doter
 diagnose
+depositive
 djagoong
 disemboguement
 djave
