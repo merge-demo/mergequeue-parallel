@@ -10319,7 +10319,6 @@ charlies
 calctuffs
 chichling
 chick
-chelidosaurus
 chickabiddy
 chemosorb
 cachoeira
@@ -31271,6 +31270,7 @@ charkha
 curatrices
 carabid
 coagula
+chelidosaurus
 curatrix
 curb
 citronellal
