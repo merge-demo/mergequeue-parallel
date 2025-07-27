@@ -10089,7 +10089,6 @@ blaasop
 bedawee
 birlieman
 boxfish
-butties
 blabbered
 barytic
 bewhiskered
@@ -12122,6 +12121,7 @@ burbler
 backstop
 boldly
 blackmail
+butties
 brahminic
 baedekers
 boldnesses
