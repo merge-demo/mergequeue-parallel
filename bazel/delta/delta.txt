@@ -944,7 +944,6 @@ dueful
 dadaistically
 drolushness
 detonational
-departed
 dizzardly
 dardan
 dodecastyle
@@ -3725,6 +3724,7 @@ delapse
 dehydrochlorinase
 dinumeration
 dowlas
+departed
 dehydrochlorinate
 daytale
 dehydrocorticosterone
