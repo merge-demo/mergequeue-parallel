@@ -7658,7 +7658,6 @@ bullwhip
 bahar
 barranca
 bairnteem
-balanidae
 bilabiate
 bezan
 biplace
@@ -16832,6 +16831,7 @@ battak
 butut
 betas
 benvenuto
+balanidae
 balkline
 biomaterial
 beam
