@@ -4029,6 +4029,7 @@ beamers
 beamfilling
 beeware
 bivalvous
+belemnites
 beamhouse
 bibliophobe
 backbreaker
@@ -7699,7 +7700,6 @@ bereareft
 backfilling
 bezzo
 bhabar
-belemnites
 blaine
 bacchanalization
 bedrenches
