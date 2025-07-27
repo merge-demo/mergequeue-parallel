@@ -10415,7 +10415,6 @@ ametabolia
 angulose
 alikulufan
 anglogaean
-ametabolic
 accidents
 ametallous
 apa
@@ -23170,6 +23169,7 @@ amorousness
 astraddle
 attorn
 attornare
+ametabolic
 agilely
 attorney
 allayer
