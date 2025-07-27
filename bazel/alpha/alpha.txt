@@ -6775,7 +6775,6 @@ amyctic
 airfares
 airfield
 airflow
-airflows
 antimoralist
 aglipayan
 airfoil
@@ -18017,6 +18016,7 @@ abatises
 apsis
 adsorptive
 alcoholics
+airflows
 aptenodytes
 apteral
 areolate
