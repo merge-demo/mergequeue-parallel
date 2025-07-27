@@ -8725,6 +8725,7 @@ bottomry
 brule
 barhopping
 bimetals
+blesseder
 breislakite
 bolsters
 babyfied
@@ -13767,7 +13768,6 @@ bestrowed
 bovinities
 buffered
 buffet
-blesseder
 bedlam
 bogs
 boatful
