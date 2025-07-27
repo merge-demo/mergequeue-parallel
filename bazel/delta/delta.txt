@@ -6545,7 +6545,6 @@ dolorimetry
 describability
 dobra
 dulciloquy
-diacritic
 degradedness
 dichlorhydrin
 described
@@ -10394,6 +10393,7 @@ discrimination
 dictronics
 diosmosed
 diosmosing
+diacritic
 dispreading
 defenders
 departures
