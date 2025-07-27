@@ -4748,6 +4748,7 @@ asterionella
 acarology
 anaretic
 antihum
+anthropopathism
 aorists
 aeriality
 aerials
@@ -14516,7 +14517,6 @@ aestival
 aneurysmatic
 anthropopathically
 anteclassical
-anthropopathism
 amethodical
 anthropophagy
 abiogenesist

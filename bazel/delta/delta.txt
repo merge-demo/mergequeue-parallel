@@ -5253,7 +5253,6 @@ denotatum
 deacidifying
 denotes
 docetistic
-destructuralize
 denoting
 duplification
 deeping
@@ -14906,6 +14905,7 @@ demonism
 dowitcher
 dolorifuge
 dependencies
+destructuralize
 deglute
 dodded
 dodder
