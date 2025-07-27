@@ -8827,7 +8827,6 @@ blink
 battel
 backstrap
 bepill
-binocularly
 binoculars
 binodose
 buckbean
@@ -13195,6 +13194,7 @@ brachystomata
 bender
 begemmed
 boschveld
+binocularly
 boulevardize
 bewit
 bose
