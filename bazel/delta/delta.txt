@@ -2737,7 +2737,6 @@ dewcup
 decorist
 dragged
 durum
-demilancer
 dammars
 disfeatured
 defeaters
@@ -11481,6 +11480,7 @@ dekaliter
 dishier
 diplodia
 deployments
+demilancer
 demandative
 disaccharid
 discoideae
