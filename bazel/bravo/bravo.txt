@@ -1233,7 +1233,6 @@ bakuba
 bediaper
 barathron
 blok
-barkers
 bala
 balaam
 bedabbled
@@ -17804,6 +17803,7 @@ bambini
 bundobust
 bursae
 bursary
+barkers
 backstroked
 bacterizing
 brave
