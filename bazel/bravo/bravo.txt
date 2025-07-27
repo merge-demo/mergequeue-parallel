@@ -11334,6 +11334,7 @@ bls
 blub
 blickey
 blubbed
+bronchoscopic
 bootlicker
 bursting
 bhar
@@ -15978,7 +15979,6 @@ backstitching
 bronchorrhaphy
 bronchorrhea
 bronchos
-bronchoscopic
 barr
 benempted
 bronchoscopist
