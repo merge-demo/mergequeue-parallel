@@ -1643,7 +1643,6 @@ divergency
 dentimeter
 deamidation
 deaminase
-digitize
 daws
 daw
 dextraural
@@ -6061,6 +6060,7 @@ deliberatively
 dealkalize
 deceitfully
 denunciative
+digitize
 disillusion
 dammit
 dolesomeness
