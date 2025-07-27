@@ -8825,6 +8825,7 @@ chaplain
 canulated
 chaplaincies
 chaplains
+chromatophilic
 curiboca
 crackup
 carpocapsa
@@ -12407,7 +12408,6 @@ celebe
 chromatophil
 chromatophile
 cothurni
-chromatophilic
 chromatophilous
 chromatophobia
 chromatophore
