@@ -4003,7 +4003,6 @@ beakerman
 butterroot
 bellite
 beakermen
-bountiful
 bunraku
 byegaein
 birdseeds
@@ -13510,6 +13509,7 @@ boneyards
 botulisms
 brief
 brodequin
+bountiful
 briquette
 bouch
 bouchaleen
