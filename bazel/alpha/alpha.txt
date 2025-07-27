@@ -1770,6 +1770,7 @@ anticosine
 asphyxies
 adularia
 arabis
+antirenter
 aromata
 acecaffine
 acleistocardia
@@ -16014,7 +16015,6 @@ anoa
 afflictions
 antirennin
 archiepiscopally
-antirenter
 aldehol
 acinacious
 astelic
