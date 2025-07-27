@@ -13836,6 +13836,7 @@ bower
 bowerbird
 bituberculated
 bullgine
+bibliopolic
 binominal
 bidential
 brewing
@@ -14700,7 +14701,6 @@ benumbment
 brattling
 bratwurst
 banus
-bibliopolic
 brauna
 burgheristh
 britannic
