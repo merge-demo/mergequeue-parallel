@@ -1353,7 +1353,6 @@ denierage
 diatomin
 doyennes
 derry
-deworm
 dave
 davenport
 disna
@@ -16635,6 +16634,7 @@ dilutant
 detesting
 dragonwort
 dabber
+deworm
 desoxyribonuclease
 dragoonable
 dation
