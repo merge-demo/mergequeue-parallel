@@ -4818,6 +4818,7 @@ beshrouded
 bolometer
 bedstraw
 bedstraws
+bewilderment
 bedstring
 boundedly
 beautiless
@@ -7606,7 +7607,6 @@ bemadams
 boasting
 bibliopegic
 bribri
-bewilderment
 bewinged
 bewitched
 boughed
