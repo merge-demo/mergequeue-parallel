@@ -22538,7 +22538,6 @@ conk
 canonises
 conkanee
 conked
-conker
 conservative
 concredit
 conkers
@@ -27695,6 +27694,7 @@ cowkine
 coordinately
 cowl
 cowle
+conker
 citrin
 conduits
 cacomixl
