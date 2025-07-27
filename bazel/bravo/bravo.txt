@@ -2122,7 +2122,6 @@ bantayan
 buckshots
 bidstand
 bantam
-bantamize
 bismar
 burette
 banteng
@@ -9870,6 +9869,7 @@ balonea
 brasilete
 bytownitite
 babysat
+bantamize
 barnacles
 beneficiaries
 biaxially
