@@ -13118,6 +13118,7 @@ beaned
 bority
 brachycephalous
 bkbndr
+bloomy
 billholder
 basophil
 bleedings
@@ -16633,7 +16634,6 @@ bucharest
 buchloe
 bunkoing
 burros
-bloomy
 buchnerite
 balconette
 buchonite
