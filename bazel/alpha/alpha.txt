@@ -13733,6 +13733,7 @@ anonymuncule
 anoopsia
 anophele
 angeldom
+auscult
 anopheles
 anophelinae
 anophoria
@@ -24727,7 +24728,6 @@ aviating
 aniline
 appleberry
 axonost
-auscult
 aviations
 argilloferruginous
 aviatoriality
