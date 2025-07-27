@@ -4877,7 +4877,6 @@ detickers
 demonical
 decadal
 deathcups
-diestrum
 dognapers
 durableness
 demonise
@@ -10706,6 +10705,7 @@ drownproofing
 doyle
 disorganizing
 deferring
+diestrum
 diiodide
 disbutton
 deepen
