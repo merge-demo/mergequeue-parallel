@@ -1940,7 +1940,6 @@ dobla
 deckload
 doze
 dicrotism
-debunkers
 dispergated
 debunks
 disedify
@@ -7602,6 +7601,7 @@ drou
 doublewidth
 diddikai
 darking
+debunkers
 darwinistic
 deva
 dequeuing
