@@ -15987,7 +15987,6 @@ dottiest
 dotlet
 derrickman
 doto
-devocalize
 divinail
 doggoneder
 distressedly
@@ -17417,6 +17416,7 @@ didascaly
 direction
 dibblers
 disjoinable
+devocalize
 decream
 dropsies
 dermopteran
