@@ -3921,7 +3921,6 @@ dactyloid
 dejects
 dejecture
 dejeration
-dejeuner
 dekadrachm
 dekagramme
 doggerelize
@@ -5691,6 +5690,7 @@ dobbing
 depilating
 depilatory
 depilatories
+dejeuner
 duplicando
 discos
 decerniture
