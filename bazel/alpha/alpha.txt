@@ -3267,6 +3267,7 @@ analogist
 acutonodose
 aurene
 anthropomorphist
+aesculapian
 avigator
 acxoyatl
 autophotograph
@@ -14174,7 +14175,6 @@ anteroexternal
 anterofixation
 autobahns
 anastaltic
-aesculapian
 ascriptitii
 allomorph
 arapahite
