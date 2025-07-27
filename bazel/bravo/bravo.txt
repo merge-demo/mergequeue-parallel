@@ -9443,7 +9443,6 @@ birkeniidae
 birky
 birkremite
 boldine
-batonga
 botonee
 birl
 begrease
@@ -14103,6 +14102,7 @@ brachiopode
 bistipular
 brachiorrheuma
 blot
+batonga
 babbage
 bittock
 bugged
