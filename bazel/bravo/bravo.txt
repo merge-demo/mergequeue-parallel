@@ -4706,6 +4706,7 @@ beekmantown
 bedizens
 bedkey
 biplanal
+billions
 bandpass
 braved
 braze
@@ -8445,7 +8446,6 @@ bilaterally
 belabouring
 bilati
 boggart
-billions
 bilbi
 bundu
 bilby
