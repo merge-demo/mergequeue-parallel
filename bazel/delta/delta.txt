@@ -2197,7 +2197,6 @@ dowries
 decasepalous
 disfigured
 decasyllabon
-dreich
 derivedly
 diatomaceae
 desultoriness
@@ -11581,6 +11580,7 @@ disconformities
 disconjure
 doggiest
 drinkless
+dreich
 disconnectedness
 diphtheroidal
 diphead
