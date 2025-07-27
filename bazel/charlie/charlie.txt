@@ -21943,7 +21943,6 @@ confidants
 centaurs
 counterproductivity
 coseismic
-confidence
 confidency
 cosmogenic
 confident
@@ -28735,6 +28734,7 @@ curran
 cole
 creosotes
 creosotic
+confidence
 cocircularity
 clericity
 crepey
