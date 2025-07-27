@@ -3429,7 +3429,6 @@ abiliment
 allotheism
 additiment
 amarillos
-additionary
 additionist
 attapulgite
 afterwort
@@ -10651,6 +10650,7 @@ agio
 aminate
 aminded
 amines
+additionary
 avoy
 antiloimic
 asok
