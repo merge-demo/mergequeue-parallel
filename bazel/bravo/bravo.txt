@@ -1885,7 +1885,6 @@ bevies
 batukite
 bishoplike
 biostatics
-bougeron
 bandit
 beshrew
 bretwaldadom
@@ -17420,6 +17419,7 @@ bunkering
 blackouts
 bunkermen
 bitume
+bougeron
 bunkers
 beard
 burler
