@@ -2570,7 +2570,6 @@ acquaintanceship
 acquisible
 acquaintanceships
 asymmetrocarpous
-acquaintancy
 archbishop
 adorsed
 aspiratory
@@ -9815,6 +9814,7 @@ aptal
 amarantaceae
 attornment
 amarantaceous
+acquaintancy
 aguilawood
 acquiescently
 amaranth
