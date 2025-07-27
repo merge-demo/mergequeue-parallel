@@ -4240,6 +4240,7 @@ debtors
 delphically
 dasyurus
 delphin
+disconnector
 doeskin
 drabbish
 delphine
@@ -11588,7 +11589,6 @@ dermococcus
 disconnecting
 disconnection
 diplococcic
-disconnector
 demicannon
 disconnects
 denotable

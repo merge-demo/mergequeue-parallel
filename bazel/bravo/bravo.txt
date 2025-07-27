@@ -2267,7 +2267,6 @@ bathochromy
 bellman
 brownly
 burlily
-barbastelle
 barbate
 beblister
 bucculatrix
@@ -9681,6 +9680,7 @@ bismite
 bankrupcy
 bismuth
 bismuthal
+barbastelle
 bumblefoot
 bromids
 bismuthate
