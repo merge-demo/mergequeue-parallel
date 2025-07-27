@@ -3521,6 +3521,7 @@ bathes
 backslidden
 bicondylar
 baryons
+blanched
 becudgel
 bimini
 bathycentesis
@@ -10376,7 +10377,6 @@ bergomask
 bumbler
 ballist
 brays
-blanched
 blanches
 blancmange
 buntlines
