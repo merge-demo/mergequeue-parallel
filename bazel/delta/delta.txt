@@ -11761,7 +11761,6 @@ discreetly
 declarant
 didler
 disobligatory
-dioscorine
 discrepancies
 decanormal
 discrepancries
@@ -17454,6 +17453,7 @@ dedicate
 dilatorily
 disserts
 diazoimido
+dioscorine
 drostdy
 diabaterial
 droughts
