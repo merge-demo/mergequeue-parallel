@@ -4868,6 +4868,7 @@ dustermen
 dilleniad
 demonetizing
 disembogue
+defamer
 deciduary
 decumana
 doweries
@@ -13126,7 +13127,6 @@ discoverability
 diaphototropism
 dethyroidism
 decompositions
-defamer
 dipeptidase
 diocese
 disperple

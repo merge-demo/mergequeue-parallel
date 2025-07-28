@@ -1853,6 +1853,7 @@ befogging
 barkinji
 bandfile
 bandfiled
+biophilous
 bandh
 burdon
 brownism
@@ -9048,7 +9049,6 @@ burnouts
 biontic
 brev
 biophagism
-biophilous
 biophysic
 biophysiography
 balibuntal
