@@ -3103,7 +3103,6 @@ deterrers
 demiseason
 disadvantaging
 defamations
-defamatory
 dipygus
 diseaseful
 daubing
@@ -15545,6 +15544,7 @@ dualists
 desensitize
 dongola
 drams
+defamatory
 doni
 diopsides
 deliquesced
