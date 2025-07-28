@@ -12251,6 +12251,7 @@ carapa
 chattelized
 cupbearers
 chrysome
+commensals
 chrysomelid
 chrysomyia
 chrysomonadales
@@ -20052,7 +20053,6 @@ chemurgies
 cadmus
 commensally
 campodeid
-commensals
 commensurability
 commensurable
 cajoled
