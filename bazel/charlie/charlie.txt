@@ -86,7 +86,6 @@ cabbie
 crenelate
 cabbies
 cabble
-cabbled
 cabbler
 chars
 cabdriving
@@ -26891,6 +26890,7 @@ copperleaf
 counterlath
 corticospinal
 counterlathed
+cabbled
 comingle
 cubiform
 carpogonial
