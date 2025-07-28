@@ -3970,6 +3970,7 @@ beacons
 buoyancy
 beadeye
 beader
+broadcloth
 bellmaker
 barnhardtite
 baalitical
@@ -15629,7 +15630,6 @@ bonnetieres
 bromeliaceous
 bacteriologist
 beakerful
-broadcloth
 brutage
 bayonet
 broadeners
