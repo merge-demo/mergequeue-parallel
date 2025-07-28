@@ -4276,7 +4276,6 @@ deltas
 digitals
 dukeling
 dook
-desipiency
 dopaminergic
 disputatious
 delthyrial
@@ -16796,6 +16795,7 @@ dravite
 draw
 dongon
 disreputation
+desipiency
 diarrhoeic
 disorganized
 drawback
