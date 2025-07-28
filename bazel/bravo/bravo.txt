@@ -13722,6 +13722,7 @@ bloomer
 bircher
 biophyte
 banqueted
+bowless
 braccio
 billetwood
 balneatory
@@ -18283,7 +18284,6 @@ buffoonism
 bamah
 buttyman
 biblioclast
-bowless
 buttinski
 bankshall
 bourout
