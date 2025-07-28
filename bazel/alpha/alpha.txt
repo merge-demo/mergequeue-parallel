@@ -17030,7 +17030,6 @@ apocopes
 antes
 apocrenic
 apocrine
-agatha
 apocryph
 apocryphalness
 actuates
@@ -22347,6 +22346,7 @@ astrometric
 astronaut
 apollinian
 astronavigator
+agatha
 astronomer
 astronomy
 aeschynomene
