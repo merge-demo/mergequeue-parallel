@@ -4156,7 +4156,6 @@ cardiographies
 cardiohepatic
 cardioid
 courche
-calandrinia
 cumflutter
 cortaro
 cymric
@@ -9944,6 +9943,7 @@ collocatory
 chemotaxonomy
 chemotaxonomic
 controls
+calandrinia
 comma
 carices
 chemotherapeutical
