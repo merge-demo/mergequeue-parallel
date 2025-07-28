@@ -7368,7 +7368,6 @@ cephalhematoma
 coracovertebral
 cephalic
 chequering
-cephalina
 cephaline
 cephalins
 cephalism
@@ -9890,6 +9889,7 @@ chemists
 countess
 chemitypy
 chancrous
+cephalina
 chemizo
 colligated
 cornucopia
