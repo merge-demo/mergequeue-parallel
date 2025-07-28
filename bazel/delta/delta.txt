@@ -8833,7 +8833,6 @@ dipala
 diazoma
 diazomethane
 diazonium
-demethylation
 diazotype
 dromicia
 disadvise
@@ -12865,6 +12864,7 @@ devitrify
 dichoree
 dewworm
 diacoele
+demethylation
 decalcify
 dubhe
 drywalls
