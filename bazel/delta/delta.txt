@@ -3612,7 +3612,6 @@ dignification
 dragonhead
 degenerately
 degenerateness
-degenerating
 degenerescence
 diammonium
 degeneroos
@@ -13868,6 +13867,7 @@ dammers
 distelfink
 decemflorous
 decipherment
+degenerating
 distemper
 dollship
 ductileness
