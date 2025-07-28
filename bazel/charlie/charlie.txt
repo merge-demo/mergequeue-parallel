@@ -1847,6 +1847,7 @@ camball
 chobdar
 cambarus
 cambered
+collembolic
 croc
 cambering
 cambeva
@@ -11119,7 +11120,6 @@ chytridiaceae
 captains
 coccobacillus
 cardiologies
-collembolic
 chytridiose
 chytridiosis
 chytroi
