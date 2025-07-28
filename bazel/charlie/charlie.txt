@@ -15602,7 +15602,6 @@ curites
 crustaceous
 classificator
 culicidae
-classificatory
 classified
 clopping
 cotwinned
@@ -16952,6 +16951,7 @@ clumping
 clumpish
 capitano
 clumpishness
+classificatory
 cohere
 clumps
 canavalin
