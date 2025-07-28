@@ -14059,6 +14059,7 @@ bowpot
 brachydactylia
 beniseed
 bakehouse
+bugginess
 bicuspidate
 brachydactylism
 bebusy
@@ -16903,7 +16904,6 @@ bushboy
 bussu
 beudanite
 baloch
-bugginess
 bemeaned
 buginese
 bookmonger
