@@ -13090,7 +13090,6 @@ anima
 animable
 atrichia
 archaeopteris
-animacule
 animadversal
 animadversional
 almuten
@@ -24544,6 +24543,7 @@ auxotonic
 auxotox
 auxotroph
 auxotrophy
+animacule
 avadana
 autocade
 absinthiate
