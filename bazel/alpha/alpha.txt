@@ -11450,6 +11450,7 @@ amula
 amulas
 armaments
 aloemodin
+aphides
 avengeress
 acrinyl
 aporrhea
@@ -20243,7 +20244,6 @@ abstracting
 altschin
 arrimby
 anthologise
-aphides
 akasha
 animalcula
 arrivals

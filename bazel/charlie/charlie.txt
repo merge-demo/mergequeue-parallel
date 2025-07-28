@@ -8662,7 +8662,6 @@ composit
 chimneying
 corcopali
 changedale
-calpac
 commissaryship
 concocting
 claires
@@ -15195,6 +15194,7 @@ candiel
 contangos
 claibornian
 construal
+calpac
 commanderies
 claye
 clayey
