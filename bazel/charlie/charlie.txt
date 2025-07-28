@@ -2800,6 +2800,7 @@ conglutination
 cannoneer
 capitella
 chemicophysiological
+controling
 calycozoon
 comfortful
 clownish
@@ -23855,7 +23856,6 @@ cookmaid
 caimitillo
 contrives
 control
-controling
 controllable
 controllably
 controller
