@@ -5118,7 +5118,6 @@ brainier
 begirdle
 bombable
 bunkery
-belching
 borderers
 baffle
 boussingaultite
@@ -8652,6 +8651,7 @@ bebization
 brochette
 balcone
 bubalis
+belching
 behear
 billtong
 basins
