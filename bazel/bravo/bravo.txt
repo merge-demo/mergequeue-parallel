@@ -16941,6 +16941,7 @@ blunder
 bloodstained
 begirded
 bondelswarts
+bulletlike
 bedewoman
 buildups
 bordure
@@ -17092,7 +17093,6 @@ bulletining
 batches
 bulletless
 basecoat
-bulletlike
 burghmote
 braconniere
 breadseller
