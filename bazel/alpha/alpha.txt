@@ -13756,7 +13756,6 @@ anoplonemertini
 aphelenchus
 acerola
 anoplotherioid
-anoplotherium
 autocrator
 arrowed
 amid
@@ -15664,6 +15663,7 @@ apolline
 aurothiosulphate
 antiparallel
 androidal
+anoplotherium
 algieba
 amphitokous
 antiparallelogram
