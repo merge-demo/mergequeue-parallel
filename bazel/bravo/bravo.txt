@@ -8466,6 +8466,7 @@ bileve
 bilewhit
 bavardage
 bootjack
+byssiferous
 bouteloua
 bals
 bilgeway
@@ -12255,7 +12256,6 @@ boardwalk
 biabo
 brake
 briefless
-byssiferous
 bolt
 boltage
 biasses
