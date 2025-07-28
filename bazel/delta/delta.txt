@@ -2107,6 +2107,7 @@ decamethonium
 decametric
 decan
 decanal
+dismast
 decancellate
 dominator
 decancellated
@@ -3343,7 +3344,6 @@ discloister
 dicot
 dayment
 distressfulness
-dismast
 denims
 dullery
 definitor
