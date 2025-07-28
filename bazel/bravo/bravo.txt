@@ -4774,7 +4774,6 @@ brainish
 barbarize
 burking
 barrener
-bracker
 brachylogy
 bedriveling
 bauleah
@@ -17582,6 +17581,7 @@ burgeon
 burgeoning
 bastillion
 barbel
+bracker
 bonnive
 briefed
 boyfriends
