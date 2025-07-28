@@ -2929,7 +2929,6 @@ billowed
 bonus
 beath
 battalias
-bigeyes
 bennettitaceous
 barrets
 blindeyes
@@ -8767,6 +8766,7 @@ bulginess
 berghaan
 binaural
 blow
+bigeyes
 binbashi
 birotatory
 bobbysoxers
