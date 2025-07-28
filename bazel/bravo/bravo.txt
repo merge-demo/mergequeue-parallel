@@ -5189,7 +5189,6 @@ bounces
 befriending
 beleaf
 barns
-beadhouse
 bracteal
 bondfolk
 byee
@@ -15679,6 +15678,7 @@ broadsiding
 broadspread
 broadsword
 bejig
+beadhouse
 bamangwato
 bromethyl
 brob
