@@ -14681,7 +14681,6 @@ csi
 customarily
 campodeiform
 cystophora
-calumet
 cystophore
 cistophorus
 coadjustment
@@ -24608,6 +24607,7 @@ carbonate
 chiggak
 cypripedium
 copingstone
+calumet
 chaplainry
 copiopia
 copiosity
