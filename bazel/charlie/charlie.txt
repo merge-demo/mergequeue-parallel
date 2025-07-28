@@ -3079,7 +3079,6 @@ canvasing
 causata
 canvasser
 canzona
-canzones
 canzonet
 caodaism
 caodaist
@@ -12745,6 +12744,7 @@ crinite
 catakinesis
 concede
 cobaltous
+canzones
 cataloguize
 chuff
 chuffer
