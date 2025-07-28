@@ -12365,7 +12365,6 @@ anchietin
 androgens
 anticomplex
 androgyn
-androgynal
 arillode
 androgyne
 androgyneity
@@ -20495,6 +20494,7 @@ automatically
 artesian
 areographic
 artful
+androgynal
 aforesaid
 antienvironmentalist
 artgum
