@@ -4236,7 +4236,6 @@ coronated
 carecloth
 cadetcy
 cared
-conversant
 careens
 chauri
 career
@@ -27031,6 +27030,7 @@ counterprocess
 counterproductive
 counterproductively
 counterprogramming
+conversant
 counterproject
 cyclitis
 counterpronunciamento
