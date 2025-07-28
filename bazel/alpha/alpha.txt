@@ -1342,7 +1342,6 @@ accelerable
 animalizing
 accelerando
 argentojarosite
-amnesias
 affiliated
 atom
 aiolis
@@ -5276,6 +5275,7 @@ aquarian
 actinocarp
 afflated
 ataxia
+amnesias
 afflatus
 absent
 afflicted
