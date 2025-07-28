@@ -106,7 +106,6 @@ cabiai
 canephorus
 cronish
 cabildo
-cabildos
 cabin
 cabined
 calinago
@@ -15862,6 +15861,7 @@ chocker
 clearstoried
 cascara
 commis
+cabildos
 cleat
 cleated
 cleats
