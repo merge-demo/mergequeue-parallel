@@ -5906,7 +5906,6 @@ deforceor
 depredate
 depredated
 depredationist
-definitiveness
 diagnoses
 deleting
 droshky
@@ -7365,6 +7364,7 @@ dethronements
 dethrones
 discommodes
 dwight
+definitiveness
 dianil
 demasculinize
 datsun
