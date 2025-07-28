@@ -6328,7 +6328,6 @@ deadens
 dermatozoonosis
 deutzias
 dryophyllum
-dermatozzoa
 dermatrophia
 disgrade
 dephlegmatory
@@ -15044,6 +15043,7 @@ discernibly
 dogfights
 diagrammatically
 divus
+dermatozzoa
 demirhumb
 doggedness
 demonographer
