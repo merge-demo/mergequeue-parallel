@@ -4333,7 +4333,6 @@ dermophytic
 dem
 demagnetisation
 dovelet
-detraining
 divisiveness
 demagnetising
 diacranteric
@@ -15158,6 +15157,7 @@ dipolarization
 dogstones
 dogtie
 degenerated
+detraining
 dogtooth
 diabetogenous
 delegare
