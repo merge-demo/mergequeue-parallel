@@ -1200,7 +1200,6 @@ aeacus
 adjustor
 acanthad
 anhaematosis
-acanthia
 arette
 acanthial
 anthropogenetic
@@ -20429,6 +20428,7 @@ artistes
 allomorphic
 apotropaic
 apprecate
+acanthia
 aerogenous
 arteriagra
 arterialize

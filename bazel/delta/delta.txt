@@ -14178,7 +14178,6 @@ disunify
 disorientates
 dolesman
 diastatically
-dermatomic
 disunion
 drolly
 download
@@ -17480,6 +17479,7 @@ deertongue
 delegatee
 drove
 drovers
+dermatomic
 dereism
 drownd
 dipleurogenesis
