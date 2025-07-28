@@ -12995,7 +12995,6 @@ antioptimistic
 ackton
 anhalouidine
 antisimoniacal
-annihilable
 anharmonic
 aluniferous
 achloropsia
@@ -17688,6 +17687,7 @@ appliances
 appliant
 appendectomy
 arenous
+annihilable
 applicable
 androgonia
 applicableness
