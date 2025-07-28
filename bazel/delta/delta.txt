@@ -4710,7 +4710,6 @@ disintoxicate
 demitasses
 demythologization
 demythologizations
-diplomatize
 demythologizer
 duodecimal
 discretionally
@@ -10474,6 +10473,7 @@ damask
 discolith
 devinct
 disinflame
+diplomatize
 dow
 disobliging
 douzainier
