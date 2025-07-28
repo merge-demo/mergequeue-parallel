@@ -6563,7 +6563,6 @@ browis
 berakah
 bushgoat
 breadstuff
-bosnisch
 bewelcome
 bavarois
 beaming
@@ -15454,6 +15453,7 @@ bondless
 bolshevistically
 besnuff
 brindlish
+bosnisch
 bryndza
 bleaters
 balloonfish
