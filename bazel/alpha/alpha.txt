@@ -20763,7 +20763,6 @@ artotype
 artotypy
 artou
 arts
-asqueal
 artsman
 alkylates
 applicate
@@ -23703,6 +23702,7 @@ auscultatory
 ausform
 amyotrophy
 ausforming
+asqueal
 aushar
 acerbically
 arrent
