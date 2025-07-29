@@ -1456,7 +1456,6 @@ calisthenics
 calite
 calyx
 carbonometry
-coecal
 continents
 careening
 calkers
@@ -31269,6 +31268,7 @@ curativeness
 curatorium
 charkha
 curatrices
+coecal
 carabid
 coagula
 curatrix
