@@ -1380,7 +1380,6 @@ chantages
 caliga
 caligate
 caligation
-caliginosity
 caliginous
 caliginously
 cyanin
@@ -18309,6 +18308,7 @@ chalana
 convexes
 coffret
 chiming
+caliginosity
 coffrets
 coffs
 cofighter
