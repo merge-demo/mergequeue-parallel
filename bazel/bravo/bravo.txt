@@ -4112,6 +4112,7 @@ beards
 birthroot
 bombazette
 beggarwoman
+binately
 bedrenched
 bras
 broozled
@@ -8761,7 +8762,6 @@ beezer
 binaphthyl
 bletia
 binaries
-binately
 betuckered
 bulginess
 berghaan
