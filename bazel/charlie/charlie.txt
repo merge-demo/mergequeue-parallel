@@ -16861,7 +16861,6 @@ clownheal
 coadjutrices
 clowning
 clownship
-crinkle
 cymtia
 cataclysms
 clubable
@@ -29459,6 +29458,7 @@ crystallin
 crystalling
 crystallisability
 caramel
+crinkle
 correctedness
 cueist
 cerographic
