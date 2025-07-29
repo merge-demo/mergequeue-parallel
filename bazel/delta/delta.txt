@@ -3918,7 +3918,6 @@ dejection
 devested
 derivation
 dactyloid
-dejects
 dejecture
 dejeration
 dejeuner
@@ -15721,6 +15720,7 @@ dipylon
 dysaptation
 desaurin
 deteriorates
+dejects
 dorado
 doralium
 discovers
