@@ -13889,7 +13889,6 @@ basibregmatic
 bitbrace
 boloball
 bowleg
-bowleggedness
 beedi
 bowles
 balwarra
@@ -15789,6 +15788,7 @@ backlasher
 brokerly
 bradykinesia
 barding
+bowleggedness
 beryllium
 broking
 bushfighter
