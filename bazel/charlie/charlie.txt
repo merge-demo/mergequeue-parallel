@@ -23586,6 +23586,7 @@ choeropsis
 cribbages
 cassiaceae
 capfuls
+currans
 continuously
 civilization
 continuum
@@ -31453,7 +31454,6 @@ currachs
 curragh
 centavo
 currajong
-currans
 currant
 completions
 chresards
