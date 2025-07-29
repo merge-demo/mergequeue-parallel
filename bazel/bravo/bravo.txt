@@ -9769,7 +9769,6 @@ bistort
 bistorts
 bistred
 beknights
-bradylexia
 baronetage
 basiating
 blemish
@@ -13308,6 +13307,7 @@ botanics
 bridechamber
 botanies
 botanist
+bradylexia
 botanize
 brushmen
 boswellizing

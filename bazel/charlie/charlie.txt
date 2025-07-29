@@ -3483,7 +3483,6 @@ capsizal
 crunt
 cabalistical
 capsizes
-capsizing
 clerklier
 capernaitish
 capsomer
@@ -13699,6 +13698,7 @@ cocuisa
 chuffed
 claimable
 coincidental
+capsizing
 cymosely
 cervine
 casefied
