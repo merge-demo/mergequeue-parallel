@@ -4765,7 +4765,6 @@ baldling
 blast
 bedribble
 bureaucratic
-bhalu
 burglarizes
 barque
 bibracteate
@@ -14715,6 +14714,7 @@ bowdlerize
 brauronian
 brava
 bravade
+bhalu
 bronchophthisis
 blastostyle
 bennet
