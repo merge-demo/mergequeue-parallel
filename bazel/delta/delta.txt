@@ -1059,6 +1059,7 @@ devonite
 darshan
 dampening
 dorsomesal
+diallelon
 darsonval
 deontology
 disbanding
@@ -18359,7 +18360,6 @@ declension
 duodenation
 degelation
 dyestuff
-diallelon
 duodene
 duodenitis
 denominationalism
