@@ -3344,6 +3344,7 @@ cotyledon
 concavely
 calabash
 caponise
+counteroffer
 corslets
 captivate
 chrystocrene
@@ -26958,7 +26959,6 @@ counterobjection
 counterobligation
 counteroffensive
 chevet
-counteroffer
 counteropening
 counteropponent
 culotte
