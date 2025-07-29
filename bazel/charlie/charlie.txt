@@ -19719,7 +19719,6 @@ combatable
 chroma
 chrismale
 combatant
-cimbalom
 combater
 combaters
 combating
@@ -25360,6 +25359,7 @@ cornetti
 cornettino
 cornettist
 cornetto
+cimbalom
 committent
 causticization
 corneule
