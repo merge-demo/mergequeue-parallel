@@ -6022,7 +6022,6 @@ cryptostomata
 catholicalness
 chalkography
 catholicisation
-choreographs
 catholicised
 catholicist
 chaitya
@@ -23533,6 +23532,7 @@ corycavidin
 californite
 contignation
 contiguity
+choreographs
 circumferent
 continentaler
 continentalize
