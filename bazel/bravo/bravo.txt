@@ -2223,7 +2223,6 @@ blastier
 bast
 ballism
 bridgebote
-barbarianizing
 bandog
 bevesselled
 barbarically
@@ -12586,6 +12585,7 @@ bonnethead
 bedway
 bagie
 basinerved
+barbarianizing
 bonnetiere
 bonnetlike
 bonnibel
