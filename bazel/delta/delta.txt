@@ -12908,7 +12908,6 @@ dermaptera
 disnatured
 disnew
 drachmae
-drawspan
 delving
 deorientalize
 disobeying
@@ -16845,6 +16844,7 @@ drawings
 deliquescent
 dissociable
 dendrodus
+drawspan
 diaphanoscopy
 deprecatingly
 drillbit

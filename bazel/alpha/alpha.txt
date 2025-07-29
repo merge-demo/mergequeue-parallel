@@ -4032,7 +4032,6 @@ asci
 admissive
 automan
 astrophotometrical
-amaracus
 admissory
 acromion
 asarotum
@@ -7122,6 +7121,7 @@ arimasp
 abietineous
 allophore
 akroter
+amaracus
 akroteria
 arithmetization
 akroterion
