@@ -1228,6 +1228,7 @@ candlewood
 calefactories
 calefy
 calelectric
+confabs
 caprice
 cumulostratus
 camporees
@@ -21838,7 +21839,6 @@ counterpose
 confab
 constructionists
 cleaner
-confabs
 confabulate
 cimbal
 connivery
