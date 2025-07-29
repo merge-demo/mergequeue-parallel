@@ -3702,6 +3702,7 @@ battledores
 baldly
 barotraumata
 bronteon
+bandonion
 battlefronts
 bringall
 brucella
@@ -9809,7 +9810,6 @@ bytalks
 bitanhol
 bitartrate
 beneplacito
-bandonion
 biteable
 begin
 bongo
