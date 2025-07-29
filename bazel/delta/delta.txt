@@ -2176,7 +2176,6 @@ disinvestment
 diphyozooid
 decoloration
 decarburise
-decarburising
 diakonika
 despiritualize
 differing
@@ -5340,6 +5339,7 @@ dialkylamine
 distitle
 defiant
 donis
+decarburising
 dolor
 dentatoserrate
 decennary
