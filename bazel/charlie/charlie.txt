@@ -25825,7 +25825,6 @@ corrupting
 chuser
 coolant
 corruptingly
-cimicid
 cocooning
 corruption
 corruptionist
@@ -31845,6 +31844,7 @@ cutlasses
 congealed
 cutlassfishes
 confusive
+cimicid
 cutleriaceous
 cutleries
 cutlers
