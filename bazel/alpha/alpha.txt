@@ -5586,7 +5586,6 @@ aga
 alimonied
 auspiciously
 antilopinae
-acrocoracoid
 agacante
 accrue
 axbreaker
@@ -9011,6 +9010,7 @@ annotates
 allotypy
 antipapist
 angelon
+acrocoracoid
 annulata
 akoluthia
 algebraized
