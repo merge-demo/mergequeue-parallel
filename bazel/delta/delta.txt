@@ -1208,6 +1208,7 @@ dextrines
 dialyzers
 diapasonal
 dermatoskeleton
+diallelus
 dreggier
 daystars
 drumly
@@ -8431,7 +8432,6 @@ deadwort
 dt
 decimetres
 dishonorably
-diallelus
 dysphasic
 drowned
 diallings
