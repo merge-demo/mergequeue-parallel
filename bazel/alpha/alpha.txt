@@ -3564,6 +3564,7 @@ adenization
 adenoacanthoma
 adenocarcinoma
 adenocarcinomas
+amenage
 adenocarcinomata
 adenochondroma
 antipellagric
@@ -21382,7 +21383,6 @@ aspen
 aspens
 asper
 amnesties
-amenage
 alluvia
 asperate
 artefact
