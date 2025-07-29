@@ -5483,6 +5483,7 @@ deregister
 disenablement
 deorsum
 deorsumversion
+decare
 deossification
 deuterostomatous
 deota
@@ -17666,7 +17667,6 @@ dagame
 dioscorein
 deratizing
 dualize
-decare
 desulphurating
 disapprovingly
 dystopia
