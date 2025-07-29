@@ -7840,7 +7840,6 @@ bibelot
 balneography
 botchka
 bearable
-bibelots
 bibenzyl
 bookers
 biberon
@@ -15608,6 +15607,7 @@ branchage
 briza
 bangiaceae
 broacher
+bibelots
 baulkiest
 broaches
 blimpishness
