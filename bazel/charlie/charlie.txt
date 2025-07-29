@@ -558,7 +558,6 @@ cadmic
 cateran
 convito
 cadmium
-crabsidle
 cadmiumize
 cadmiums
 christianography
@@ -21886,6 +21885,7 @@ chaetosema
 chastisement
 conventionalist
 cuspated
+crabsidle
 conferences
 conferential
 conferral
