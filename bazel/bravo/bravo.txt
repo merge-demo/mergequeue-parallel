@@ -11665,6 +11665,7 @@ boatmen
 boats
 boatsetter
 bisymmetric
+bleeze
 badju
 boatsteerer
 biracialism
@@ -17983,7 +17984,6 @@ bothriolepis
 burntly
 busily
 busine
-bleeze
 beguiler
 businesses
 beadeyes
