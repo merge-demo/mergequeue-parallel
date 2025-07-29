@@ -6056,7 +6056,6 @@ deputational
 doctus
 driegh
 dandiprat
-deputationize
 deliberatively
 dealkalize
 deceitfully
@@ -9874,6 +9873,7 @@ dentile
 diesis
 discouragingness
 dolichohieric
+deputationize
 dynamometamorphism
 diluvia
 disarmament
