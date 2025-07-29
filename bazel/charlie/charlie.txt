@@ -8374,7 +8374,6 @@ contraponend
 chamicuro
 calcifuge
 challengeful
-challenger
 challengers
 challenging
 challie
@@ -30312,6 +30311,7 @@ crunkle
 cabombas
 countervaunt
 comm
+challenger
 crunodes
 clifflet
 countervairy

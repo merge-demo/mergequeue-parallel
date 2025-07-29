@@ -1750,6 +1750,7 @@ archiereus
 accuse
 amidships
 accused
+avidous
 accusers
 achatour
 accusing
@@ -24759,7 +24760,6 @@ abacot
 angioasthenia
 alexines
 avidity
-avidous
 arithmetized
 anitrogenous
 avifauna
