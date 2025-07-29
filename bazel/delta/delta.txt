@@ -1222,6 +1222,7 @@ datelessness
 denizate
 disserve
 datelining
+deprecators
 datemark
 disenter
 dentalise
@@ -15573,7 +15574,6 @@ dereligionize
 dittander
 donnerd
 donnick
-deprecators
 donnock
 diazoles
 donought
