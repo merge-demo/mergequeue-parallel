@@ -8277,7 +8277,6 @@ demegoric
 diiodid
 deathcup
 diploetic
-diagnostician
 dantist
 diagnosticians
 dispopularize
@@ -15275,6 +15274,7 @@ dolium
 darogha
 dureful
 distinguishability
+diagnostician
 dosiology
 drainway
 disrupts
