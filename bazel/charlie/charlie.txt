@@ -4561,7 +4561,6 @@ coccostean
 capsule
 cotoxo
 clapperdudgeon
-carnied
 carniferrin
 colorcast
 carnifex
@@ -16229,6 +16228,7 @@ clinches
 cenanthous
 charmingly
 clinchingly
+carnied
 capkin
 chargeability
 cathedratical
