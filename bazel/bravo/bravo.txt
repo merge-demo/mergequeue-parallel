@@ -8583,7 +8583,6 @@ brachysm
 brachiofacial
 billfishes
 blepharolithiasis
-bradypode
 bellflower
 balkanized
 bhuts
@@ -9938,6 +9937,7 @@ bituminized
 burnbeat
 bucktail
 bedivere
+bradypode
 bana
 bedrivelling
 bituminoid
