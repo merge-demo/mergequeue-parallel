@@ -10634,6 +10634,7 @@ blazonry
 bowllike
 beyliks
 bleach
+bifidate
 branchiosaurus
 bluebutton
 bleachable
@@ -17067,7 +17068,6 @@ batoidei
 barcarole
 brokerages
 beclamor
-bifidate
 barrel
 bulldoggedness
 bearder
