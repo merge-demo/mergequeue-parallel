@@ -13900,7 +13900,6 @@ disty
 dotardy
 druthers
 distichal
-demisable
 diadelphia
 distichlis
 dephased
@@ -16946,6 +16945,7 @@ disbelieve
 drearies
 danseuse
 desterilizing
+demisable
 diabrotic
 doohinkey
 dermatograph
