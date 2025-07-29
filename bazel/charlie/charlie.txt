@@ -5706,6 +5706,7 @@ catathymic
 catatony
 catatonic
 coeloglossum
+clapboarding
 countersignal
 catawampous
 catawamptiously
@@ -15409,7 +15410,6 @@ crenelated
 claosaurus
 clapboard
 caenolestes
-clapboarding
 cleidomastoid
 clapboards
 clapcake
