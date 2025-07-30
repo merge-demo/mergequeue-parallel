@@ -6354,7 +6354,6 @@ benzamide
 benzoxate
 badgerbrush
 benzamine
-biblic
 billbroking
 barrer
 brike
@@ -17532,6 +17531,7 @@ burds
 brutalizing
 burweeds
 barraged
+biblic
 bricklay
 bureaucratization
 breastpiece
