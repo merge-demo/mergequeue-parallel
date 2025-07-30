@@ -2416,7 +2416,6 @@ afoam
 adoxography
 acknowledger
 anaerobia
-aconic
 acknowledgers
 aistopodes
 archwife
@@ -10051,6 +10050,7 @@ asquirm
 ambivalence
 aiger
 ambiversion
+aconic
 ambivert
 arrect
 amble
