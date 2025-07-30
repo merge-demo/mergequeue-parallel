@@ -2258,6 +2258,7 @@ dyewoods
 decemfoliate
 dogmas
 decempedal
+daftly
 demotion
 dominiums
 decemplex
@@ -15813,7 +15814,6 @@ dihydroxytoluene
 depicting
 dipsacus
 decenniad
-daftly
 deponed
 diseasy
 dictions
