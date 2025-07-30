@@ -4743,7 +4743,6 @@ abbreviator
 authoritatively
 avaunt
 anthologizing
-aftermath
 asterionella
 acarology
 anaretic
@@ -23047,6 +23046,7 @@ agglomerations
 attendance
 agnominal
 aaronitic
+aftermath
 aggressor
 annunciable
 analytic
