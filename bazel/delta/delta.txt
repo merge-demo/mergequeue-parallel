@@ -6806,7 +6806,6 @@ distruster
 desirer
 drachma
 daira
-desires
 dihedrons
 desirous
 desirousness
@@ -7407,6 +7406,7 @@ dehorter
 dicyclist
 deemphasizes
 discussed
+desires
 detoxicated
 downgone
 dischargee
