@@ -9997,7 +9997,6 @@ annoyously
 abseiled
 ambidexterity
 antimonide
-aquapuncture
 anthocephalous
 ambidexterities
 ambidextral
@@ -17848,6 +17847,7 @@ asuri
 appressoria
 appressorial
 anticold
+aquapuncture
 anabathmos
 apiology
 appressorium

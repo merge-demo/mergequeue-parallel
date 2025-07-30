@@ -6930,6 +6930,7 @@ besetment
 besetters
 blessed
 besew
+bitter
 borghi
 boccaccio
 betrim
@@ -9882,7 +9883,6 @@ bitstock
 beasties
 besmirches
 bitstone
-bitter
 besee
 bitterbloom
 bitterbur
