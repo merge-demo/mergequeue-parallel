@@ -5117,6 +5117,7 @@ beflea
 brainier
 begirdle
 bombable
+billetwood
 bunkery
 belching
 borderers
@@ -13723,7 +13724,6 @@ bircher
 biophyte
 banqueted
 braccio
-billetwood
 balneatory
 boutefeu
 bouteria
