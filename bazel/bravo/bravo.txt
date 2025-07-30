@@ -4831,7 +4831,6 @@ brackens
 bazoos
 buttercups
 brevicaudate
-bath
 boilerless
 brainstorm
 bedumbs
@@ -8525,6 +8524,7 @@ baronne
 birch
 butyryl
 bearhound
+bath
 bisections
 biliteral
 biliteralism
