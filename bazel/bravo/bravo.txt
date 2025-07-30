@@ -4029,7 +4029,6 @@ beamers
 beamfilling
 beeware
 bivalvous
-beamhouse
 bibliophobe
 backbreaker
 bedolt
@@ -15227,6 +15226,7 @@ bedclothes
 brizz
 bridemaid
 blastomycetous
+beamhouse
 bahur
 biwa
 butomaceae

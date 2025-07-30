@@ -792,6 +792,7 @@ cahokia
 circulating
 circumvent
 chesboil
+coloration
 calidity
 cahot
 cahows
@@ -19402,7 +19403,6 @@ consecrating
 colorant
 colorants
 colorate
-coloration
 colorational
 colorative
 centrifugally
