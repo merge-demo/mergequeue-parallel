@@ -9763,6 +9763,7 @@ cheiranthus
 cheirogaleus
 cheirography
 cheirolin
+craniate
 cymbal
 cheirology
 ciconiidae
@@ -21288,7 +21289,6 @@ concessional
 chausseemeile
 concessions
 concessit
-craniate
 concessiveness
 computerite
 concessor
