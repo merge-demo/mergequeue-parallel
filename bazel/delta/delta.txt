@@ -7340,7 +7340,6 @@ disagreed
 deutonephron
 disvulnerability
 determiner
-diameters
 didine
 determinism
 dunnest
@@ -14405,6 +14404,7 @@ doubtable
 divebomb
 dogmatists
 divellent
+diameters
 downstage
 dispireme
 divergement
