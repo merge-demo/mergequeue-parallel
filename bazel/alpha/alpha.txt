@@ -10162,7 +10162,6 @@ antithetically
 ambulancer
 acenesthesia
 ambulante
-ambulated
 atropinism
 ambulates
 apachette
@@ -17114,6 +17113,7 @@ apohyal
 autosensitization
 acuminous
 apoidea
+ambulated
 astucity
 aoristic
 apoious
