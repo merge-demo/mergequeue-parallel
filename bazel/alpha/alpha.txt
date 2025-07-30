@@ -19290,7 +19290,6 @@ aminodiphenyl
 afield
 arere
 arerola
-arest
 aretaics
 arete
 automatist
@@ -23555,6 +23554,7 @@ auramine
 asterisms
 aurang
 aborters
+arest
 alleviates
 aureation
 aurantia
