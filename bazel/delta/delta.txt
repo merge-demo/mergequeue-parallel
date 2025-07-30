@@ -8149,7 +8149,6 @@ denitrificator
 detrusive
 du
 diabolization
-dalk
 disambiguate
 disventure
 delineate
@@ -15647,6 +15646,7 @@ discomfiting
 doorpiece
 drivel
 dowl
+dalk
 dawdle
 doghouses
 detumescent
