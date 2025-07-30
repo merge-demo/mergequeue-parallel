@@ -1729,6 +1729,7 @@ deathlessness
 deathlikeness
 dundees
 deathliness
+demultiplex
 deathrates
 deaths
 deathsman
@@ -6782,7 +6783,6 @@ diathermic
 desilvers
 devitrification
 diotocardia
-demultiplex
 daeva
 dendroceratina
 drafts
