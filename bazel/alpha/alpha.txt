@@ -8550,7 +8550,6 @@ aphthae
 anabolin
 agastache
 aerograms
-alkin
 avarish
 anthologize
 alkyne
@@ -11263,6 +11262,7 @@ aminoformic
 amphirhinal
 antiprecipitin
 acalycinous
+alkin
 amphisarca
 aqua
 aperitifs
