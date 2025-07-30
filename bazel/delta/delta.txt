@@ -2998,7 +2998,6 @@ deemie
 decrepitate
 dorian
 denicotine
-deoxidizing
 dactylorhiza
 destructiveness
 deemphasized
@@ -15114,6 +15113,7 @@ doghood
 doghouse
 dogie
 doglegging
+deoxidizing
 doglegs
 doglike
 dekabrist
