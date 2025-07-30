@@ -2487,7 +2487,6 @@ bucchero
 bargaining
 beechwoods
 burian
-bhut
 bedark
 brachyoura
 barge
@@ -18290,6 +18289,7 @@ bourout
 buttled
 bonspells
 buttock
+bhut
 balachan
 banyans
 buttocked
