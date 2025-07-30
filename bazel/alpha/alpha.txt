@@ -11260,6 +11260,7 @@ antiusurious
 amdahl
 amidoazobenzene
 aminoformic
+antikenotoxin
 amphirhinal
 antiprecipitin
 acalycinous
@@ -15324,7 +15325,6 @@ ackee
 abatements
 angioparalysis
 adulterate
-antikenotoxin
 abwatt
 antiketogenesis
 actinobranchia
