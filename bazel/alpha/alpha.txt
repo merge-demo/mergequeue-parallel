@@ -8833,6 +8833,7 @@ adolescency
 anthophore
 allobroges
 allobrogical
+apadana
 allocatable
 absorption
 airmails
@@ -16513,7 +16514,6 @@ acutorsion
 apache
 attained
 apachite
-apadana
 apaesthetic
 astronautic
 apaesthetize
