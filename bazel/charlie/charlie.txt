@@ -11595,6 +11595,7 @@ cholecyanine
 couchee
 cholecystectasia
 cholecystectomy
+centaurial
 cingulum
 cholecystectomized
 clammier
@@ -30397,7 +30398,6 @@ crusted
 creedlessness
 crusty
 crustier
-centaurial
 cosignificative
 crustific
 crustily
