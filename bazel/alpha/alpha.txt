@@ -3359,6 +3359,7 @@ adaptive
 amortizement
 attending
 ankou
+apicitis
 apostemation
 argosies
 alliaria
@@ -16840,7 +16841,6 @@ apices
 apician
 accomplices
 apicillary
-apicitis
 alimentive
 apickback
 aerothermodynamics
