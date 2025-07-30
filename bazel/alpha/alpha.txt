@@ -2950,7 +2950,6 @@ actinias
 actinic
 actinide
 akene
-attentat
 archenteron
 axtree
 aulostomi
@@ -23653,6 +23652,7 @@ auriscalp
 auriscalpia
 auriscope
 auriscopy
+attentat
 anchoritish
 auriscopic
 aurist
