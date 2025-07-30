@@ -5105,7 +5105,6 @@ axones
 administerial
 apprenticed
 arabana
-appreciation
 aetiologue
 affreux
 aetiotropically
@@ -15138,6 +15137,7 @@ appoggiature
 aggregating
 antievolution
 antievolutionary
+appreciation
 anteconsonantal
 antievolutionist
 alectoromorphae

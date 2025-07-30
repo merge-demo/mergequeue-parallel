@@ -3079,7 +3079,6 @@ bulbils
 bambuk
 blindfold
 bibliothec
-benzedrine
 baculite
 blabby
 baseballer
@@ -10769,6 +10768,7 @@ brags
 blennosis
 beclart
 bureaucracy
+benzedrine
 beethovenish
 bolectioned
 broggle
