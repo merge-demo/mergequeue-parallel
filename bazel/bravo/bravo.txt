@@ -2405,6 +2405,7 @@ bromoiodide
 bardolph
 barbion
 brotherhood
+bowwows
 bards
 bardship
 backaching
@@ -17941,7 +17942,6 @@ bangle
 bedsides
 breezes
 buffo
-bowwows
 belga
 bushwack
 bonewood
