@@ -14439,7 +14439,6 @@ baragouinish
 brainwood
 brairded
 bratticed
-birdman
 barricado
 breamed
 biometrist
@@ -17664,6 +17663,7 @@ beplague
 burkundauze
 berlines
 badassed
+birdman
 bushwah
 bridegod
 bulies
