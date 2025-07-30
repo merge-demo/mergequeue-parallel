@@ -19937,7 +19937,6 @@ angusticlave
 armpiece
 astrolater
 ananthropism
-aramis
 avengement
 achillea
 aldononose
@@ -24503,6 +24502,7 @@ auxesis
 auxetic
 aghorapanthi
 anywhereness
+aramis
 auxiliary
 armsize
 abhor
