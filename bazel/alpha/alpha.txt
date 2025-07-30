@@ -1430,7 +1430,6 @@ accessioner
 accessive
 anoplocephalic
 aurichalcum
-awlessness
 alg
 atka
 accessorize
@@ -9125,6 +9124,7 @@ allhallow
 abhorring
 alky
 aristogenetic
+awlessness
 anemometric
 antacid
 alluvious
