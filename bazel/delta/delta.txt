@@ -1608,7 +1608,6 @@ decl
 dealcoholize
 dinoceratan
 deutsche
-disorientated
 didymia
 deisin
 disfranchising
@@ -15353,6 +15352,7 @@ dismit
 deafforestation
 dolphus
 dryfat
+disorientated
 displeasured
 doating
 domage
