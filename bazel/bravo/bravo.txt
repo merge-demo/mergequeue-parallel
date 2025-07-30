@@ -10481,7 +10481,6 @@ blastemal
 blunderingly
 bemaster
 blastemic
-bopyrid
 blaster
 blastid
 blasting
@@ -17306,6 +17305,7 @@ bun
 bore
 bathochromatism
 benzotrifluoride
+bopyrid
 bopyrus
 buddling
 boutel
