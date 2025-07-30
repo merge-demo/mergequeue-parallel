@@ -4527,7 +4527,6 @@ bestrided
 betulinol
 becursed
 babesia
-becurses
 becurst
 basommatophorous
 becushioned
@@ -6762,6 +6761,7 @@ bucketfull
 buffoons
 bionic
 buccinae
+becurses
 bechalks
 beshrouding
 brakesmen
