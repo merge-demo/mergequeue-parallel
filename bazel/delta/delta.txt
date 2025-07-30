@@ -2040,6 +2040,7 @@ decahydronaphthalene
 dramaturge
 disaccommodate
 downhanging
+doppio
 decay
 dadding
 dramas
@@ -15709,7 +15710,6 @@ demot
 disespouse
 deflorescence
 dopping
-doppio
 dactyloscopy
 dorab
 daiquiris
