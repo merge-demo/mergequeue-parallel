@@ -3418,7 +3418,6 @@ ampassy
 argentinitrate
 addictives
 abodah
-autofluorescence
 arthroclasia
 adding
 addison
@@ -3928,6 +3927,7 @@ acicularity
 antimonopoly
 anesthetic
 adjutator
+autofluorescence
 adjute
 adjutor
 aqueity

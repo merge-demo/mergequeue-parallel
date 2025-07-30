@@ -15181,6 +15181,7 @@ coleosporiaceae
 colyba
 cladus
 claes
+calcining
 criminosis
 condecent
 crumbled
@@ -28705,7 +28706,6 @@ crenic
 contin
 creephole
 cyrilla
-calcining
 clung
 crenothrix
 crenula
