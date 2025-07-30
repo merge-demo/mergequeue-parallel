@@ -3742,6 +3742,7 @@ caravanserial
 companeros
 caravel
 confuse
+centurial
 caravels
 cosen
 caraway
@@ -7315,7 +7316,6 @@ countertenor
 carbonados
 century
 coda
-centurial
 concerto
 covenably
 centuriator
