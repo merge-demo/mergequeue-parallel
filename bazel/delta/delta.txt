@@ -7619,7 +7619,6 @@ devas
 dird
 ditch
 devastating
-dancingly
 devastation
 disabler
 devastative
@@ -12271,6 +12270,7 @@ disglut
 dysgonic
 dehortation
 dundavoe
+dancingly
 dishwater
 dataflow
 dispatriated
