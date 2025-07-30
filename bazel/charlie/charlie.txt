@@ -5273,6 +5273,7 @@ cerin
 cassegrain
 chromomeric
 cassegrainian
+caricatured
 casseroling
 carinule
 cataleptic
@@ -9175,7 +9176,6 @@ cryptograms
 cindered
 chartist
 chartless
-caricatured
 chartography
 chartographic
 crystalline
