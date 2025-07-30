@@ -7878,7 +7878,6 @@ cosignatory
 cervixes
 cervoid
 cervuline
-cervus
 cesare
 cesareans
 cesarevitch
@@ -29984,6 +29983,7 @@ craniotomies
 choromania
 crotaphite
 chartism
+cervus
 cytinus
 crotaphitic
 crotaphytus
