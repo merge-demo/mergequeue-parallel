@@ -3733,6 +3733,7 @@ drepanoid
 didact
 dehydrogenate
 dawtet
+dissheathed
 distillable
 disentangled
 designlessness
@@ -13623,7 +13624,6 @@ diagrydium
 dissever
 disseverment
 dimethylketone
-dissheathed
 daddums
 dosimetrist
 deliverance
