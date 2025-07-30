@@ -10919,6 +10919,7 @@ disabled
 doorplates
 defrayer
 deterges
+dishome
 divulgement
 dioeciodimorphous
 dentelated
@@ -12440,7 +12441,6 @@ defers
 dishmop
 dimerlie
 diastereoisomer
-dishome
 dishonor
 distendedness
 dishonorer
