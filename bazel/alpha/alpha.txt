@@ -14555,6 +14555,7 @@ arrogative
 affectus
 amenorrhoeic
 antidiphtheric
+arteriomotor
 anththeridia
 achar
 affirmativeness
@@ -20470,7 +20471,6 @@ arteriomalacia
 accomplishment
 aerophilatelic
 arteriometer
-arteriomotor
 arterionecrosis
 antiasthmatic
 arterioplasty
