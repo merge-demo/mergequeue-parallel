@@ -9313,7 +9313,6 @@ daguerreotyper
 dewar
 dietaries
 deosculate
-disploding
 dictatress
 dialogues
 dieters
@@ -9584,6 +9583,7 @@ diprismatic
 deevilick
 digitron
 dialogising
+disploding
 digladiating
 decken
 duellos
