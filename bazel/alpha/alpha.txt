@@ -20705,6 +20705,7 @@ artilize
 artillery
 atheisms
 alphean
+awls
 artilleries
 avodire
 artilleryman
@@ -22892,7 +22893,6 @@ archdiocesan
 atrochous
 aly
 an
-awls
 antimaterialism
 affectless
 atrociously
