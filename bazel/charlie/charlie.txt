@@ -2420,7 +2420,6 @@ corroborators
 convenes
 chastize
 cancerigenic
-catechol
 cancerism
 cystidiums
 conemaking
@@ -4706,6 +4705,7 @@ carpetbagger
 carpetbaggery
 conchometry
 catty
+catechol
 compatibles
 crazies
 cyathi
