@@ -25404,6 +25404,7 @@ conies
 cornin
 consignable
 corning
+centervelic
 cornishman
 cornless
 cornloft
@@ -29541,7 +29542,6 @@ critic
 criticality
 criticalness
 coendured
-centervelic
 colophonist
 criticaster
 criticasterism
