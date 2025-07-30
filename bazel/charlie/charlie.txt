@@ -5919,7 +5919,6 @@ catfish
 catfoot
 catfooted
 chhatri
-catgut
 chancellorism
 cath
 cackling
@@ -12054,6 +12053,7 @@ continuately
 chorographical
 criticizable
 cyanacetic
+catgut
 chorographically
 choroiditis
 coronene
