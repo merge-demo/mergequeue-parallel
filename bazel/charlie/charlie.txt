@@ -1849,7 +1849,6 @@ cambarus
 cambered
 croc
 cambering
-cambeva
 cambia
 cambiata
 charlatanry
@@ -16013,6 +16012,7 @@ cypraeid
 comprint
 carcinosis
 clerkless
+cambeva
 cerecloths
 clerkliness
 chlorocarbon
