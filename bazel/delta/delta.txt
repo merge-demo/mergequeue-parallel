@@ -1429,7 +1429,6 @@ diminished
 dandruffy
 dawsonia
 dawt
-dictional
 diseasefulness
 disinfect
 dihydrosphingosine
@@ -16625,6 +16624,7 @@ deveins
 dissent
 drumlier
 dwellers
+dictional
 decorates
 dragonish
 dragonize
