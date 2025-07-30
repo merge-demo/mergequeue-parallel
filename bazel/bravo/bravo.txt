@@ -9147,6 +9147,7 @@ barotropy
 banderlog
 behalf
 bianchi
+benumbment
 beshag
 badgir
 ballgown
@@ -14696,7 +14697,6 @@ biobibliographic
 bowpots
 bowlings
 brattled
-benumbment
 brattling
 bratwurst
 banus
