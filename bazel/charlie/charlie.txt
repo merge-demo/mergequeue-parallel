@@ -3298,6 +3298,7 @@ crusilee
 capitulate
 capitulates
 capitulator
+compressing
 capituliform
 curlewberry
 cystolithic
@@ -8269,7 +8270,6 @@ cyanol
 counterferment
 camise
 cercomonas
-compressing
 caracoli
 chalazium
 chandam
