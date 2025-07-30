@@ -3938,6 +3938,7 @@ brocatel
 barhal
 bastardizations
 beachcombers
+befog
 beachdrops
 biliment
 bloedite
@@ -11582,7 +11583,6 @@ blusterers
 blustering
 basilicalike
 blusterously
-befog
 behindsight
 bounced
 bathers
