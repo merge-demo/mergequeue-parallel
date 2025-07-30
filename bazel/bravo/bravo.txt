@@ -4302,6 +4302,7 @@ boebera
 barly
 becall
 becalm
+barquette
 becalming
 biaural
 beakiest
@@ -6156,7 +6157,6 @@ barograph
 benedictively
 bulimoid
 betide
-barquette
 badaxe
 bolshevizing
 bitolyl
