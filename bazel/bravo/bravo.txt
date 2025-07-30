@@ -245,7 +245,6 @@ bastinadoed
 bactrites
 betrothed
 bathyanesthesia
-bachelordom
 bachelorette
 bachelorhood
 bachelorly
@@ -17795,6 +17794,7 @@ burrock
 banjoists
 buoyances
 breakback
+bachelordom
 burroweed
 burrows
 benevolent
