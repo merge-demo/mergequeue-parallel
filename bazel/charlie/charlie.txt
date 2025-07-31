@@ -3677,7 +3677,6 @@ caramelized
 clangoring
 caramels
 commendam
-carancha
 carancho
 caranday
 carandas
@@ -16174,6 +16173,7 @@ climacus
 climant
 climata
 celebesian
+carancha
 climatal
 corticate
 climatarchic
