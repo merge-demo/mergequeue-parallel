@@ -2644,6 +2644,7 @@ anamirta
 acred
 acreman
 acremen
+altostratus
 acres
 atonally
 aggravated
@@ -9571,7 +9572,6 @@ altimetry
 altogetherness
 altoist
 altos
-altostratus
 altrices
 antipart
 antivolition
