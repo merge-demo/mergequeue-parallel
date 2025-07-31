@@ -4260,7 +4260,6 @@ adrenocortical
 adrenocorticotrophic
 ammonolysis
 afterstain
-anaspida
 albuminosis
 adrenocorticotropic
 anthracolithic
@@ -20318,6 +20317,7 @@ arseniopleite
 autolith
 arsenious
 amplifiers
+anaspida
 arsenism
 anticonceptionist
 arsenites
