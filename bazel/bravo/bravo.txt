@@ -12088,6 +12088,7 @@ bokom
 bola
 bolag
 bosey
+basidigitalia
 bolas
 bedell
 bartsia
@@ -17212,7 +17213,6 @@ bulrush
 boonies
 bolograph
 bumbailiffship
-basidigitalia
 batardeau
 bulten
 bandores
