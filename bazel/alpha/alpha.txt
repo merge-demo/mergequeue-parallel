@@ -17005,6 +17005,7 @@ apoquinine
 apocentricity
 aymoro
 acroscleroderma
+astrometry
 apocha
 automorphic
 apocholic
@@ -22342,7 +22343,6 @@ aforenamed
 ancestrial
 allegorization
 adlegation
-astrometry
 astrometric
 astronaut
 apollinian
