@@ -896,6 +896,7 @@ decks
 dap
 dapedius
 disburdens
+dithyramb
 dinornithine
 danio
 dokimastic
@@ -6237,7 +6238,6 @@ derma
 damascened
 digametic
 dermabrasion
-dithyramb
 degrades
 drabness
 dipsades
