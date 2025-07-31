@@ -13,7 +13,6 @@ cabaho
 cabal
 condylarthrous
 cryptostoma
-chevance
 chaenomeles
 cows
 corkmaking
@@ -11231,6 +11230,7 @@ cryptozonia
 calvinists
 clinged
 carousers
+chevance
 chloranthy
 constuprate
 codomain
