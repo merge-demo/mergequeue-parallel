@@ -932,6 +932,7 @@ calabari
 cornices
 collared
 colpotomy
+coauthorship
 calorically
 canterburies
 calaboose
@@ -10139,7 +10140,6 @@ consanguinities
 chetvert
 centrifugalise
 cyrtosis
-coauthorship
 chevachee
 chevage
 careened
