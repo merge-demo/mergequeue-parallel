@@ -5470,7 +5470,6 @@ baptised
 behymn
 brutes
 behither
-berrigan
 bechamel
 bonce
 briefers
@@ -14681,6 +14680,7 @@ brast
 brat
 brutter
 blender
+berrigan
 bridemaiden
 bronzify
 blunderer
