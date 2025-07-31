@@ -11069,7 +11069,6 @@ archespore
 anoxia
 alaskan
 authoring
-ampelography
 apter
 ampelographist
 ascensional
@@ -14996,6 +14995,7 @@ antigyrous
 anticryptic
 aglossate
 airbus
+ampelography
 auk
 anosphresia
 antiliberals
