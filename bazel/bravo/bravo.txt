@@ -2518,6 +2518,7 @@ bucca
 beflowers
 bariatrician
 banderilla
+beadroll
 bariatrics
 baric
 barycenter
@@ -10939,7 +10940,6 @@ beaneries
 beckets
 bartonia
 brooms
-beadroll
 blinker
 balancewise
 bitterful
