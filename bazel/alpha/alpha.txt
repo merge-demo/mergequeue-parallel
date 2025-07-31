@@ -6284,7 +6284,6 @@ accorded
 agrement
 agrestial
 archduchess
-agrestic
 agrestical
 agria
 awapuhi
@@ -17908,6 +17907,7 @@ appropriations
 appropriativeness
 algometric
 appropriator
+agrestic
 appellative
 ayelp
 appropriators
