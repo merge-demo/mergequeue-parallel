@@ -25565,7 +25565,6 @@ corpora
 corporacy
 corporacies
 calcic
-corporalcy
 corporale
 corporalism
 corporality
@@ -28552,6 +28551,7 @@ checkerwork
 creditive
 creditless
 creditor
+corporalcy
 curial
 creditress
 creditrix
