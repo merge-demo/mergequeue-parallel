@@ -6293,7 +6293,6 @@ calyptrogyne
 caulks
 chymists
 conferrer
-capuchins
 catalases
 cofermentation
 colourize
@@ -19418,6 +19417,7 @@ colorbreed
 colorcasting
 calvus
 colorcasts
+capuchins
 colorectitis
 colorectostomy
 chrisomloosing
