@@ -1017,7 +1017,6 @@ balcony
 burnweed
 bail
 burs
-bringer
 barfs
 bailable
 boordly
@@ -3072,6 +3071,7 @@ bestness
 bealach
 barques
 bonitas
+bringer
 boithrin
 butylene
 basculation
