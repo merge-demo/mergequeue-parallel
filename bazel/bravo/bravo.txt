@@ -6268,7 +6268,6 @@ bennets
 bootlace
 bookism
 battalions
-barndoor
 biuret
 bosporus
 bessera
@@ -10239,6 +10238,7 @@ beclamour
 ballow
 banian
 backwater
+barndoor
 bisexual
 buds
 blackmailers
