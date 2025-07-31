@@ -5552,7 +5552,6 @@ dermoskeletal
 department
 departmental
 disrobers
-desiccate
 dealation
 diphyllous
 departmentalised
@@ -12095,6 +12094,7 @@ drepanaspis
 disentomb
 disentombment
 disclaimers
+desiccate
 deplaceable
 disentrail
 disentrainment

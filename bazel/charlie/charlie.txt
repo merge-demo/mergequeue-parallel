@@ -12447,7 +12447,6 @@ chiffchaff
 chromides
 chromididae
 chromidiosome
-circuses
 carolers
 chromidium
 compositae
@@ -26312,6 +26311,7 @@ costraight
 cloudberries
 chasteness
 choleromania
+circuses
 costs
 caddices
 costume
