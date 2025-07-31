@@ -10652,7 +10652,6 @@ diplont
 delisting
 diplonts
 diplophase
-difficultness
 dosology
 deviously
 dulias
@@ -12616,6 +12615,7 @@ disintoxication
 dankness
 daud
 disintrench
+difficultness
 dysyntribite
 deodorise
 dephase
