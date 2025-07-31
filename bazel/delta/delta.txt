@@ -6930,7 +6930,6 @@ desoxyribonucleic
 dialled
 despair
 delirous
-drunken
 dirgeful
 despairful
 doctrinism
@@ -10029,6 +10028,7 @@ dermatographism
 dysacousma
 deuteroscopic
 debriefs
+drunken
 disopinion
 dimoric
 demigoddess
