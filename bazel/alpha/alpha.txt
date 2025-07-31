@@ -2913,7 +2913,6 @@ acroteria
 acroterial
 ablactation
 acrotism
-acrotrophic
 acrotrophoneurosis
 assary
 aesthetician
@@ -14743,6 +14742,7 @@ altiscope
 anticaustic
 affreighter
 anticensorial
+acrotrophic
 amusee
 ammonitish
 antidromal
