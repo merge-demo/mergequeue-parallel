@@ -8374,7 +8374,6 @@ decigrams
 doricize
 decaffeinates
 dialycarpous
-dialin
 dialiness
 diacetic
 dilution
@@ -15205,6 +15204,7 @@ dedolomitizing
 dewooling
 dottle
 decahydrate
+dialin
 dressily
 dimna
 defunctness
