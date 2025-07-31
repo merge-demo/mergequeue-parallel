@@ -9930,6 +9930,7 @@ bedticking
 bordelaise
 bielectrolysis
 bauson
+boronatrocalcite
 bastardice
 burk
 bituminate
@@ -13138,7 +13139,6 @@ borofluohydric
 boroglycerine
 borohydride
 branchiopulmonata
-boronatrocalcite
 borophenylic
 bororoan
 beadman

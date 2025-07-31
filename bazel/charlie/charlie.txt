@@ -25194,7 +25194,6 @@ cads
 cyanicide
 clocking
 corymbiate
-corymbiated
 craylet
 coachlet
 corymblike
@@ -26477,6 +26476,7 @@ cottagers
 cottars
 cahuy
 cottas
+corymbiated
 cotte
 cotted
 cotter
