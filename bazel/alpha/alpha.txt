@@ -9542,6 +9542,7 @@ altilik
 altiloquence
 academia
 arenig
+antennal
 altimeters
 anthema
 alchemistry
@@ -14160,7 +14161,6 @@ anteri
 adelphogamy
 anterioyancer
 alkylbenzenesulfonate
-antennal
 achech
 argalas
 autolavage
