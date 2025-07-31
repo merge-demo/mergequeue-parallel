@@ -790,7 +790,6 @@ abridgable
 anticlassicalist
 anisotropical
 abitibi
-abridgement
 abridgements
 abridger
 anapeiratic
@@ -23375,6 +23374,7 @@ auditable
 arteriovenous
 auditing
 aftersong
+abridgement
 alkalescency
 abelmosks
 agnail

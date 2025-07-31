@@ -9700,7 +9700,6 @@ balanoglossus
 barway
 beringed
 bismutosphaerite
-bisnaga
 bispinose
 bispinous
 bramah
@@ -11470,6 +11469,7 @@ begemming
 bedoctor
 blintze
 biddery
+bisnaga
 bluewoods
 berapt
 billposter
