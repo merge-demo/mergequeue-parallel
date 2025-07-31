@@ -6836,6 +6836,7 @@ caudal
 cellarmen
 cellars
 chirologies
+chequerwork
 charivariing
 cellarwoman
 cellblock
@@ -10001,7 +10002,6 @@ chequered
 chequers
 creosoted
 chalukya
-chequerwork
 chequin
 cherchez
 chercock
