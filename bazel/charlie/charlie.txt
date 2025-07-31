@@ -6369,7 +6369,6 @@ causidical
 causon
 counterassurance
 caustical
-caustically
 causticism
 celticism
 causticity
@@ -20068,6 +20067,7 @@ commensurations
 corking
 comment
 commentable
+caustically
 commentarialism
 corky
 commentated
