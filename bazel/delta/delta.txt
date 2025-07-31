@@ -553,7 +553,6 @@ damar
 detains
 damars
 decoratory
-devocate
 doesnt
 delivers
 disfranchiser
@@ -15472,6 +15471,7 @@ delocalising
 doorway
 dominique
 despairingly
+devocate
 dewanship
 deboners
 dominule
