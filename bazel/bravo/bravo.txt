@@ -10100,7 +10100,6 @@ blabbers
 blabbing
 blabmouth
 beamish
-behave
 blackamoors
 blair
 blackbine
@@ -17706,6 +17705,7 @@ braconid
 bankeress
 broach
 bicornes
+behave
 buyer
 burma
 brackets
