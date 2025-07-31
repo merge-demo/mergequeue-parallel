@@ -126,7 +126,6 @@ crafter
 cabio
 chemisorptive
 costotransverse
-cabiria
 cabirian
 circumcised
 cabiric
@@ -27320,6 +27319,7 @@ connexionalism
 couranto
 courantoes
 calumniator
+cabiria
 courants
 centralizers
 courap
