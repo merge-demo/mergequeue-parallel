@@ -11156,7 +11156,6 @@ ablegation
 amphibrach
 amia
 amphibrachic
-amphicarpaea
 amphicarpia
 autallotriomorphic
 aptitudinal
@@ -24294,6 +24293,7 @@ autopoisonous
 acclimatize
 autopolar
 autopolyploid
+amphicarpaea
 academically
 autopolyploidy
 autopolo
