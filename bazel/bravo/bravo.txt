@@ -7869,6 +7869,7 @@ bibliofilm
 blepharosymphysis
 botaniser
 boiling
+biconsonantal
 biocatalytic
 bibliographies
 bibliographize
@@ -8051,7 +8052,6 @@ boildown
 bayberry
 butcherous
 bastonite
-biconsonantal
 barnburner
 biconvexity
 brawned
