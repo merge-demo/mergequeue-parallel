@@ -3000,7 +3000,6 @@ barters
 brujo
 blood
 bullace
-bartholomewtide
 bartisan
 ballrooms
 barflies
@@ -5220,6 +5219,7 @@ ballistophobia
 bumpkinet
 berating
 bardish
+bartholomewtide
 bacteriostatic
 beggarhood
 bergamots
