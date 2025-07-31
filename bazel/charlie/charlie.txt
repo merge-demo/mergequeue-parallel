@@ -198,7 +198,6 @@ cytisus
 cotutor
 certifiableness
 committal
-cohort
 cabresta
 cabrestas
 classicalities
@@ -16909,6 +16908,7 @@ clubroom
 casebooks
 clubroots
 clubs
+cohort
 clubstart
 clubster
 carpogonium
