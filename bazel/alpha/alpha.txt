@@ -3186,7 +3186,6 @@ actualness
 allochromatic
 alstonine
 assident
-abstersion
 actuary
 aphis
 ashlar
@@ -4033,6 +4032,7 @@ admissive
 automan
 astrophotometrical
 amaracus
+abstersion
 admissory
 acromion
 asarotum
