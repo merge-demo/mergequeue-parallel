@@ -14069,7 +14069,6 @@ antemedial
 alining
 antemeridian
 anukit
-antemetallic
 anestrus
 antemillennial
 antemingent
@@ -24185,6 +24184,7 @@ alienicolae
 autoluminescent
 automa
 abbasid
+antemetallic
 automata
 archdean
 automatable
