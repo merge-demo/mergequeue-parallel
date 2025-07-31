@@ -9672,6 +9672,7 @@ bysmalith
 bismark
 boulder
 baltimorean
+beastdom
 bladed
 besmiles
 bismerpund
@@ -10268,7 +10269,6 @@ belly
 boracic
 blacksmithing
 biochemy
-beastdom
 botargo
 biflorous
 beehead
