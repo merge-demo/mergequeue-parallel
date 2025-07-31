@@ -8605,7 +8605,6 @@ belatedly
 beeswinged
 becowards
 billiards
-billyboy
 bivalved
 brules
 billies
@@ -8820,6 +8819,7 @@ binna
 bowering
 binned
 binny
+billyboy
 bumpered
 bondman
 binnogue
