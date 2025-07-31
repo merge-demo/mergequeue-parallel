@@ -8113,6 +8113,7 @@ drawable
 dhurra
 detrimentalness
 definienda
+defensive
 di
 diabetes
 diaphyses
@@ -14838,7 +14839,6 @@ doctorally
 dumontite
 downspout
 doctored
-defensive
 doctorfishes
 decomponible
 doctorhood
