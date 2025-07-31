@@ -10555,6 +10555,7 @@ diplacuses
 diple
 dipleural
 docetically
+doubtingly
 defected
 dionysian
 dimeric
@@ -10740,7 +10741,6 @@ dippings
 draff
 dipppier
 diprimary
-doubtingly
 dipropellant
 deficit
 diprotic
