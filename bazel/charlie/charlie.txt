@@ -15202,6 +15202,7 @@ clayer
 contchar
 clayier
 centetes
+cuprein
 clayiest
 calotermitid
 clayiness
@@ -26410,7 +26411,6 @@ cotylosaur
 coinferring
 cotylosaurian
 connu
-cuprein
 cotingoid
 chancel
 cotype
