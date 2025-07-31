@@ -6922,6 +6922,7 @@ burglariously
 bajan
 burgundian
 bazaar
+beroll
 bedrugging
 barchan
 bitumed
@@ -18080,7 +18081,6 @@ bibliophily
 brazilins
 briguer
 but
-beroll
 booklet
 boatsman
 barrancos
