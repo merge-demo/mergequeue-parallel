@@ -8623,7 +8623,6 @@ cohesibility
 chancriform
 chancroid
 chrestomathic
-chainstitch
 chancroidal
 chorgi
 chandala
@@ -10496,6 +10495,7 @@ contaminations
 childes
 coronally
 caph
+chainstitch
 childish
 cogeneric
 created
