@@ -715,6 +715,7 @@ antiaesthetic
 aggressiveness
 aboulia
 antinomy
+allergin
 aboulic
 amyloplastic
 abounder
@@ -8722,7 +8723,6 @@ arrhythmous
 atheology
 ankylotome
 actinopod
-allergin
 allergists
 allerion
 assurable
