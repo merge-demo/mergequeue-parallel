@@ -2142,7 +2142,6 @@ decapitates
 decapitation
 decapitations
 disassemble
-downfall
 dicecup
 decalcomanias
 decapodal
@@ -9294,6 +9293,7 @@ debite
 digitalic
 dateableness
 dyes
+downfall
 dammer
 damfoolish
 deanathematize
