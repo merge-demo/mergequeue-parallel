@@ -7348,7 +7348,6 @@ balaenoptera
 bocklogged
 bisinuation
 bullidae
-bilbies
 byrlaw
 bibliolatrist
 becumber
@@ -13177,6 +13176,7 @@ bridgemaker
 bovines
 besneer
 bullhorns
+bilbies
 baronize
 bangtail
 brachycephalize
