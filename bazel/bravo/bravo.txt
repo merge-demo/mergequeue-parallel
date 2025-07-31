@@ -4565,6 +4565,7 @@ bicellular
 backjaw
 bedarkening
 bedaub
+bradyphrenia
 ballplayer
 benzoylglycine
 barks
@@ -14210,7 +14211,6 @@ belamour
 biomechanics
 bradypeptic
 bradyphrasia
-bradyphrenia
 bradypnea
 bodrag
 bloodtest
