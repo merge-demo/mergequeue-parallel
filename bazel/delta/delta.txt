@@ -7012,7 +7012,6 @@ despoiled
 destroyers
 despoiler
 disabilities
-despoilers
 decongest
 decamps
 discreditably
@@ -11087,6 +11086,7 @@ detergents
 disappreciation
 deciatine
 disapprobatory
+despoilers
 disappropriate
 diabolisation
 drakonite
