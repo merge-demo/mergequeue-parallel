@@ -4830,7 +4830,6 @@ amphibiology
 aloma
 abrasiveness
 amability
-anthoecology
 amphistomous
 aerodynamics
 ambitionist
@@ -7559,6 +7558,7 @@ alcaydes
 acounter
 amoskeag
 abote
+anthoecology
 alcalde
 anthropocentricity
 alcaldes
