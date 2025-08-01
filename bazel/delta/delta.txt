@@ -140,7 +140,6 @@ draughtmanship
 deviascope
 dekko
 dinar
-dyophone
 daddles
 dowdyism
 daffodillies
@@ -9806,6 +9805,7 @@ dipleurobranchiate
 dilemmatic
 drizzlingly
 disulfoxide
+dyophone
 domino
 dclass
 devaster
