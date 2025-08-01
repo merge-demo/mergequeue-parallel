@@ -5216,7 +5216,6 @@ deathly
 diaheliotropic
 detruncating
 devoid
-diazoamino
 denitrifier
 destructors
 denitrifying
@@ -17721,6 +17720,7 @@ dedifferentiation
 decanonization
 dubbins
 dicarbonate
+diazoamino
 dubiety
 demutization
 dubio
