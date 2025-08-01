@@ -5119,7 +5119,6 @@ begirdle
 bombable
 bunkery
 belching
-borderers
 baffle
 boussingaultite
 bunrakus
@@ -8612,6 +8611,7 @@ billies
 billyhood
 billiken
 backscatters
+borderers
 byrlady
 batteau
 buhrmill
