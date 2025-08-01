@@ -15074,7 +15074,6 @@ civilizationally
 chawan
 contemns
 civilized
-civilizee
 civilizer
 chrismatine
 civilite
@@ -19979,6 +19978,7 @@ ceraunomancy
 commandoman
 canfieldite
 commandos
+civilizee
 colove
 cheery
 commandry
