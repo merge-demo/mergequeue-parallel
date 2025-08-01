@@ -13930,6 +13930,7 @@ bowstringed
 bactritoid
 bowstrung
 behavior
+bewitchful
 bowtell
 barographic
 backpointer
@@ -16577,7 +16578,6 @@ bougainvillea
 bacillary
 bubonocele
 beamster
-bewitchful
 bracings
 buccally
 buenos
