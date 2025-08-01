@@ -1711,6 +1711,7 @@ degree
 dihely
 depersonalization
 daredevilry
+dialing
 desponsate
 dyad
 dishwiping
@@ -4028,7 +4029,6 @@ delegateship
 dermographism
 digressiveness
 dibasicity
-dialing
 dipteros
 dirten
 delegations
