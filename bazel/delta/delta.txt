@@ -14576,6 +14576,7 @@ disposing
 domine
 detents
 divisions
+doryanthes
 divisive
 divisively
 develope
@@ -15742,7 +15743,6 @@ demiturned
 disgig
 dukhn
 dacryocystocele
-doryanthes
 doricism
 dorylinae
 dyemaker
