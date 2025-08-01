@@ -4630,7 +4630,6 @@ aljoba
 antrostomus
 arthriticine
 aegagropila
-ataxias
 antimeric
 amblingly
 apologiser
@@ -21064,6 +21063,7 @@ annexal
 ase
 asea
 asearch
+ataxias
 alhet
 animalculine
 asecretory
