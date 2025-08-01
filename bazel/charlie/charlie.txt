@@ -22698,7 +22698,6 @@ cryosphere
 conquerer
 conquerers
 conqueress
-conquering
 conquerment
 conqueror
 coster
@@ -23483,6 +23482,7 @@ caprock
 coniothyrium
 conterminable
 centinormal
+conquering
 callorhynchus
 carbonarism
 conterminously
