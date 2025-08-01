@@ -7753,6 +7753,7 @@ devise
 dayton
 domiciliary
 diplotegia
+downhill
 defeasance
 devised
 decongests
@@ -8746,7 +8747,6 @@ demonstrate
 decorousness
 demoting
 diathermies
-downhill
 dislimned
 dendrophil
 dispensatrix
