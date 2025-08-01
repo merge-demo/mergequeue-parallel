@@ -3951,7 +3951,6 @@ duopoly
 disleal
 deyship
 demagnification
-deliberation
 drumfish
 dislikeable
 dodo
@@ -7681,6 +7680,7 @@ debell
 deviance
 dimples
 deviancy
+deliberation
 deemed
 dogcatcher
 difform
