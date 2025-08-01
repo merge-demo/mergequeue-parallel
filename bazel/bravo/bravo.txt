@@ -11532,7 +11532,6 @@ blunt
 befuddlements
 blunthearted
 botanized
-bilateralness
 balance
 biosystematist
 brownshirt
@@ -13208,6 +13207,7 @@ boshbok
 breadthless
 boshes
 brevirostrines
+bilateralness
 bosjesman
 bizen
 boustrophedonic
