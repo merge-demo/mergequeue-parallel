@@ -2733,7 +2733,6 @@ devonshire
 dictates
 dissembling
 decore
-dewcup
 decorist
 dragged
 durum
@@ -17611,6 +17610,7 @@ drupelets
 drupeole
 detoxification
 during
+dewcup
 driftwind
 debatefully
 drupiferous
