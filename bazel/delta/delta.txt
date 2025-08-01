@@ -2929,6 +2929,7 @@ deaconry
 ducatus
 divagation
 dechlorination
+doublethinking
 dansk
 diacope
 dedifferentiated
@@ -10959,7 +10960,6 @@ diallist
 draggles
 dispenses
 disforestation
-doublethinking
 dorsoradial
 digressions
 dumpiest
