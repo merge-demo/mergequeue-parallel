@@ -3625,7 +3625,6 @@ distentions
 degerming
 degerms
 discerptive
-douzeper
 disked
 deontological
 degging
@@ -10506,6 +10505,7 @@ diphthongation
 dilutedness
 dendrodra
 disordeine
+douzeper
 diphthonging
 diphthongisation
 demolishes
