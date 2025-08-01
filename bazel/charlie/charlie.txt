@@ -16942,6 +16942,7 @@ clum
 clumber
 clump
 contemper
+coadvice
 caline
 cycadean
 cloistress
@@ -17180,7 +17181,6 @@ coadunite
 coadventure
 coadventured
 coadventuring
-coadvice
 coaffirmation
 coafforest
 coaged
