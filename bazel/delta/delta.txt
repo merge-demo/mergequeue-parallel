@@ -5362,6 +5362,7 @@ dealable
 dorsoventrad
 derider
 dorsimesal
+deceptiously
 disblame
 decoyed
 daraf
@@ -18382,7 +18383,6 @@ douches
 duodenoscopy
 digmeat
 duodenostomy
-deceptiously
 deuteroconid
 dihalo
 depside
