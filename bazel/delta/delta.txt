@@ -6928,7 +6928,6 @@ dichromasy
 decanter
 desoxyribonucleic
 dialled
-despair
 delirous
 drunken
 dirgeful
@@ -18172,6 +18171,7 @@ depositaries
 dumpoke
 deltohedra
 dumps
+despair
 dissective
 dumsola
 decussorium
