@@ -3601,7 +3601,6 @@ adenologaditis
 airmonger
 adenological
 adenomycosis
-adenomyofibroma
 adenomyoma
 adenomyxosarcoma
 adenoncus
@@ -23250,6 +23249,7 @@ acolhua
 athenee
 apteria
 anthelmintic
+adenomyofibroma
 atweel
 angiospermic
 artfulness
