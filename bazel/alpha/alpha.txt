@@ -4951,7 +4951,6 @@ auriculate
 admissibleness
 aeropathy
 aerope
-aeroperitoneum
 anticipatorily
 aeroperitonia
 avondbloem
@@ -16325,6 +16324,7 @@ ammoniuria
 attacker
 aldoses
 aal
+aeroperitoneum
 anticommutative
 aked
 antivivisectionist

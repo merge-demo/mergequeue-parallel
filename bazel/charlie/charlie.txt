@@ -11324,6 +11324,7 @@ clothbound
 chlorocarbonate
 chlorochromic
 chlorococcaceae
+chromodermatosis
 cologned
 chlorococcales
 coincider
@@ -12482,7 +12483,6 @@ chromocollotype
 chromocratic
 capetonian
 chromoctye
-chromodermatosis
 chromogen
 chromogene
 chromogenesis
