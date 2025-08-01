@@ -1155,7 +1155,6 @@ dasyuridae
 dasyurine
 dactylopatagium
 delineatory
-dassent
 deadheads
 dicaeology
 dodecaphony
@@ -5571,6 +5570,7 @@ drawrod
 drainermen
 deoxygenized
 demicolumn
+dassent
 depascent
 delphinoid
 deuteronomy
