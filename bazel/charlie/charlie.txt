@@ -2000,7 +2000,6 @@ camillus
 camino
 camion
 camions
-camisa
 camisadoes
 classicising
 cloddy
@@ -5294,6 +5293,7 @@ cassiduloid
 charterage
 cassiepeia
 cassimere
+camisa
 caurus
 cassina
 corymbed

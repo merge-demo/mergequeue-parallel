@@ -1904,6 +1904,7 @@ danzig
 didus
 dissenterism
 dances
+determinantal
 debriefings
 debris
 debrominate
@@ -7303,7 +7304,6 @@ doukhobor
 devisers
 defecters
 distruss
-determinantal
 damosels
 defecation
 donnie
