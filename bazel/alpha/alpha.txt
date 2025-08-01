@@ -7739,7 +7739,6 @@ alectoromorphous
 aldermanate
 aldermancy
 aldermaness
-archisphere
 aldermanical
 assistency
 aration
@@ -9690,6 +9689,7 @@ alvearies
 alvearium
 alveated
 alveolariform
+archisphere
 ararauna
 alveolate
 alveolation
