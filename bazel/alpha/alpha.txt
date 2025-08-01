@@ -1272,7 +1272,6 @@ avian
 asexualizing
 acaridean
 angelical
-acariform
 acarina
 acrasy
 acarine
@@ -13331,6 +13330,7 @@ anisum
 antileveling
 appinite
 appraiser
+acariform
 adjudicata
 aneuploid
 archleader
