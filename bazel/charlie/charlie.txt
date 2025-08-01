@@ -1542,7 +1542,6 @@ callistephus
 callisthenic
 cossid
 cenotaphic
-communising
 chemostat
 callisto
 callithrix
@@ -17777,6 +17776,7 @@ cocobolo
 condemnate
 cockalan
 cc
+communising
 cocreate
 cocreated
 cocreating
