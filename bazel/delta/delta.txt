@@ -8701,7 +8701,6 @@ dovekey
 diastalsis
 diastases
 diglossia
-disgustedness
 dryads
 discrediting
 dialectology
@@ -10557,6 +10556,7 @@ dipleural
 docetically
 defected
 dionysian
+disgustedness
 dimeric
 decalcomaniac
 dipleurulas
