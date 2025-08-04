@@ -19692,7 +19692,6 @@ cinematics
 chaptering
 comandra
 capetown
-cheir
 consolidant
 comanic
 comarum
@@ -28702,6 +28701,7 @@ crenelles
 crenels
 crengle
 chromidiogamy
+cheir
 crenic
 contin
 creephole
