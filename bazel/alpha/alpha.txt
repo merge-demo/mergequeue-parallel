@@ -5290,7 +5290,6 @@ agrionidae
 affluence
 affluently
 affluxion
-albedograph
 afforce
 afford
 alkines
@@ -18848,6 +18847,7 @@ archigonic
 autotomising
 archiheretical
 aldohexose
+albedograph
 archikaryon
 ausu
 aposafranine
