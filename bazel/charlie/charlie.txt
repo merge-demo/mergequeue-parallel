@@ -4731,7 +4731,6 @@ clubability
 captivation
 carpets
 chant
-concolorous
 carpetweb
 change
 comeliest
@@ -9112,6 +9111,7 @@ charnockite
 covarecan
 charnockites
 charnu
+concolorous
 conglomeratic
 compartmentalized
 culturalist
