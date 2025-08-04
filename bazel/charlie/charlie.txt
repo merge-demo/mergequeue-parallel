@@ -7726,6 +7726,7 @@ corambis
 chloroplatinite
 cermet
 cyamid
+conventicular
 ciceros
 caramelising
 cermets
@@ -24010,7 +24011,6 @@ convented
 coelicolist
 cylinderlike
 conventicle
-conventicular
 convention
 conventional
 cutlassfish
