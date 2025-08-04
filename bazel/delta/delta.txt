@@ -6923,6 +6923,7 @@ desorption
 drollist
 desoxalate
 discomposes
+dimness
 desoxalic
 dichromasy
 decanter
@@ -10023,7 +10024,6 @@ dimly
 dimmer
 defensor
 dasyatidae
-dimness
 decisiveness
 dermatographism
 dysacousma
