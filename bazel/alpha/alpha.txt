@@ -6203,7 +6203,6 @@ agorot
 agos
 anteprostatic
 agouara
-agouty
 amarth
 autarkic
 anachronically
@@ -20408,6 +20407,7 @@ anaglyphoscope
 autosymnoia
 apiolin
 artemision
+agouty
 artemisium
 anchoretical
 autoptical
