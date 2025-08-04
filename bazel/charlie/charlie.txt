@@ -5106,6 +5106,7 @@ cascalote
 calenturist
 coagulant
 compsognathus
+coparallel
 cascaras
 crosslighted
 coolly
@@ -30129,7 +30130,6 @@ citee
 crowstick
 crowstone
 crowtoe
-coparallel
 calycanthaceae
 crozers
 curat
