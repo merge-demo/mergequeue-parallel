@@ -6542,7 +6542,6 @@ asplanchnic
 aeromechanical
 aeolina
 ayenst
-antibaryon
 alectrionidae
 americanumancestors
 aigialosaur
@@ -21397,6 +21396,7 @@ anthelion
 aspergilli
 amberlike
 anatira
+antibaryon
 anosmatic
 aspergillin
 amitoses
