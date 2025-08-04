@@ -8339,6 +8339,7 @@ dyakish
 dg
 dialcohol
 dialect
+divebomb
 decolourized
 disequalize
 diplogenetic
@@ -14401,7 +14402,6 @@ dolicholus
 divaricator
 divast
 doubtable
-divebomb
 dogmatists
 divellent
 downstage
