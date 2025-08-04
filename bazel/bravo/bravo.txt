@@ -2551,6 +2551,7 @@ bactrian
 backtalk
 barile
 barilla
+blackberries
 blackie
 basiglandular
 baryon
@@ -14081,7 +14082,6 @@ burgul
 baring
 brachygnathia
 brachygnathism
-blackberries
 barytine
 boarders
 brachygraphical
