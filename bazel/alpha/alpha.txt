@@ -5836,7 +5836,6 @@ ageometrical
 advisor
 absence
 anophyte
-ager
 agers
 autogenous
 ages
@@ -21120,6 +21119,7 @@ avulse
 appetitional
 antinode
 axmaking
+ager
 ashamed
 autosomatognostic
 antinaturalness
