@@ -7836,7 +7836,6 @@ dissertationist
 dinoceras
 deckhands
 diadochokinesis
-dyothelism
 dwelling
 dil
 devour
@@ -9913,6 +9912,7 @@ doctrinable
 dimber
 doek
 dimensible
+dyothelism
 desilicification
 dace
 dimensionally
