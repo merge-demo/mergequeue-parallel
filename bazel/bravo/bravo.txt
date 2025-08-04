@@ -2738,7 +2738,6 @@ barometers
 beefy
 blam
 beachside
-burthenman
 baronduki
 borromean
 bibliolater
@@ -4248,6 +4247,7 @@ bitypic
 beriming
 blunderheadedness
 beaverize
+burthenman
 beaverkin
 bosnian
 beaverskin

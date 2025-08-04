@@ -12828,7 +12828,6 @@ anglepod
 anglepods
 amianthine
 arousement
-angletouch
 angletwitch
 allays
 anglewise
@@ -21753,6 +21752,7 @@ agathodaemon
 assidually
 aecial
 advowson
+angletouch
 assiege
 auricula
 assiette
