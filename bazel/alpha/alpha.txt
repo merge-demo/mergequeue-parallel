@@ -14360,7 +14360,6 @@ awunctive
 achromacyte
 anthracomancy
 anthracomarti
-ambulancing
 analepsis
 antiprelatism
 anthracometric
@@ -19998,6 +19997,7 @@ alimentum
 aroid
 aroideous
 alfonsin
+ambulancing
 aroides
 aroids
 acidulating
