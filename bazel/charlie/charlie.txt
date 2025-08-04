@@ -2694,7 +2694,6 @@ canions
 canis
 canistel
 crevice
-canjac
 cank
 circumnavigations
 chokestrap
@@ -7488,6 +7487,7 @@ conciliatory
 cerasus
 cerata
 cerate
+canjac
 commerced
 checkmates
 culilawan
