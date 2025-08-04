@@ -18622,6 +18622,7 @@ acroanesthesia
 achylia
 architraval
 archaises
+anormality
 archaising
 archaism
 ati
@@ -24443,7 +24444,6 @@ archaeologists
 autotomize
 autotomized
 aerothermodynamic
-anormality
 ambitiously
 arthrocarcinoma
 autotomizing
