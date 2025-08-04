@@ -4840,7 +4840,6 @@ becrusts
 berean
 bedunced
 bacchantes
-bourgeon
 benames
 bartholomew
 blizz
@@ -5751,6 +5750,7 @@ bechance
 blastophthoria
 belittle
 bailees
+bourgeon
 burnettize
 bifurcous
 bewailingly
