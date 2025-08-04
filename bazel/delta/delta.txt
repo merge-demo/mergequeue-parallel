@@ -4461,7 +4461,6 @@ dementing
 decayers
 demeore
 deincrustant
-decap
 dependant
 delftware
 demerit
@@ -4656,6 +4655,7 @@ divaricating
 dawsoniaceae
 disagglomeration
 disfunction
+decap
 dittoing
 dichelyma
 demirilievo
