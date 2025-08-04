@@ -14160,6 +14160,7 @@ dispread
 disulfoxid
 dhobi
 defective
+diffinity
 demandingness
 decedent
 disulfuric
@@ -17616,7 +17617,6 @@ during
 driftwind
 debatefully
 drupiferous
-diffinity
 diaphragms
 disrates
 dichotomisation
