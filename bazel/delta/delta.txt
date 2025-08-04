@@ -3872,7 +3872,6 @@ dicellate
 deionizations
 dichroiscope
 diatropic
-dyspnoea
 deionize
 degraduation
 decastyle
@@ -13173,6 +13172,7 @@ directiveness
 dysphonia
 dysphotic
 dysphrasia
+dyspnoea
 diabolonian
 detrimental
 dollardee
