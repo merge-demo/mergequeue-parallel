@@ -12661,7 +12661,6 @@ acetylize
 angelina
 attle
 angelize
-alliterated
 angelized
 angellike
 almoravid
@@ -25104,6 +25103,7 @@ androphonomania
 axilla
 axillae
 antiamylase
+alliterated
 axillar
 argyrite
 axillaries
