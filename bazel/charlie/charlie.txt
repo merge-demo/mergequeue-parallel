@@ -2802,7 +2802,6 @@ chemicophysiological
 calycozoon
 comfortful
 clownish
-cannonier
 cannoning
 cannonries
 cyrtandraceae
@@ -3368,6 +3367,7 @@ capot
 capotasto
 capotastos
 choicest
+cannonier
 chronographically
 celsius
 carrots
