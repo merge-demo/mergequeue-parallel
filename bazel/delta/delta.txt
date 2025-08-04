@@ -5112,7 +5112,6 @@ downhearted
 dispone
 dissipated
 disterr
-destitute
 ductings
 dravya
 dipsomania
@@ -9573,6 +9572,7 @@ disemboweled
 disinfestation
 digitising
 desulphurise
+destitute
 digitizes
 digitizing
 desorbed
