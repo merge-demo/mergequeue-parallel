@@ -18724,7 +18724,6 @@ amative
 archegosaurus
 auletrides
 archelenis
-archelogy
 archelon
 archemastry
 airdrops
@@ -22347,6 +22346,7 @@ apollinian
 astronavigator
 astronomer
 astronomy
+archelogy
 aeschynomene
 aphototropism
 astronomical
