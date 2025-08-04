@@ -5104,6 +5104,7 @@ babery
 bentwood
 biquadrantal
 balanites
+bookshop
 beflannel
 bureaucrat
 beflap
@@ -12777,7 +12778,6 @@ banderilleros
 bookselling
 bescreened
 boloney
-bookshop
 betoyan
 bonanza
 bakutu
