@@ -9047,7 +9047,6 @@ biophilous
 biophysic
 biophysiography
 balibuntal
-biophysiology
 butterier
 brachycephalies
 berrettino
@@ -14466,6 +14465,7 @@ boatyards
 banyan
 bakunda
 betray
+biophysiology
 brakie
 blastophitic
 bramble
