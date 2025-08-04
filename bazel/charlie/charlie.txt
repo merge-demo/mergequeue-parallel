@@ -7540,7 +7540,6 @@ chastened
 ceratostomataceae
 cytococcus
 cimicidae
-ceratostomella
 cheliceral
 ceratotheca
 cypridinidae
@@ -27978,6 +27977,7 @@ craftworker
 crag
 craggan
 countersignature
+ceratostomella
 craggy
 chromoscopic
 cataphylla
