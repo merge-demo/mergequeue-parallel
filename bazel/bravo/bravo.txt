@@ -9859,7 +9859,6 @@ bito
 bicalvous
 bitonalities
 belibeling
-batakan
 balonea
 brasilete
 bytownitite
@@ -10151,6 +10150,7 @@ blackcods
 bathochrome
 blues
 blackdamp
+batakan
 bellhanger
 blackener
 billette

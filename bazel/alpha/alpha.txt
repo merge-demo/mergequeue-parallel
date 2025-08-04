@@ -1493,6 +1493,7 @@ antlerless
 acclivitous
 acroceraunian
 afoot
+airsome
 acclivous
 accloy
 accoil
@@ -6866,7 +6867,6 @@ asarta
 airsickness
 antinationalists
 airohydrogen
-airsome
 airspace
 airspaces
 ancience
