@@ -12425,6 +12425,7 @@ deplantation
 drybrush
 desecate
 disheriting
+dulness
 deforms
 dishevelled
 dishevelling
@@ -18070,7 +18071,6 @@ deflexing
 demihearse
 devoto
 dialectologies
-dulness
 dogskin
 dongs
 dungol
