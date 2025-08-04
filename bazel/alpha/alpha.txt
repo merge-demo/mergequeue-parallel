@@ -147,7 +147,6 @@ alloyed
 axles
 abators
 apar
-abattised
 abattises
 antiracism
 azurites
@@ -15434,6 +15433,7 @@ antimerina
 antimerism
 antimesia
 archetypically
+abattised
 antimetathetic
 acrogens
 azonic
