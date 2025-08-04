@@ -3881,7 +3881,6 @@ bedlamp
 bifidated
 baxtone
 brachyskelic
-bullaria
 boughten
 bazars
 bint
@@ -8786,6 +8785,7 @@ basoche
 bual
 brewer
 bindweed
+bullaria
 bacillophobia
 bynedestin
 bassirilievi
