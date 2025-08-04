@@ -850,6 +850,7 @@ delegatory
 danke
 drycoal
 dawted
+dependent
 defix
 devoicing
 dowered
@@ -10799,7 +10800,6 @@ dipterocarpous
 dipterocarpus
 delay
 divas
-dependent
 dipterus
 dotterel
 diptychs
