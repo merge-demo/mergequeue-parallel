@@ -12999,6 +12999,7 @@ arrowy
 anhedral
 anhedron
 anhelation
+attendances
 anhelose
 anhemitonic
 anhemolytic
@@ -19121,7 +19122,6 @@ arthropoda
 arcosolium
 arctan
 arctation
-attendances
 arteriectasia
 abusable
 antepretonic
