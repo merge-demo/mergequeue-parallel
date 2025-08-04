@@ -18401,7 +18401,6 @@ cementum
 cognisable
 chiragrical
 catholicized
-cognisableness
 calpulli
 corporal
 coenosarcal
@@ -19063,6 +19062,7 @@ colleted
 commentatorial
 colleterium
 chelone
+cognisableness
 colletes
 colletia
 colletidae
