@@ -1042,7 +1042,6 @@ adlai
 abstrusities
 aphlaston
 absume
-avellaneous
 absurd
 anesthesiologist
 animators
@@ -25361,6 +25360,7 @@ azotic
 azotises
 azotize
 absinthism
+avellaneous
 adaptative
 azotoluene
 azotorrhea
