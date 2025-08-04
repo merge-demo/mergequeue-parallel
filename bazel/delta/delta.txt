@@ -4683,7 +4683,6 @@ didynamia
 diploglossate
 demisemiquaver
 delineable
-drysalter
 demisemitone
 dislodging
 decem
@@ -8641,6 +8640,7 @@ disimprove
 diarist
 dibbuk
 denatured
+drysalter
 diarrhea
 dows
 decarchy
