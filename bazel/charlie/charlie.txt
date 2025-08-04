@@ -7220,7 +7220,6 @@ centrev
 chivalrous
 containedly
 centric
-centricae
 cremant
 clodpate
 centrically
@@ -15924,6 +15923,7 @@ cleistogamously
 cringe
 catalectic
 cleistogeny
+centricae
 clinium
 camauro
 cleithral

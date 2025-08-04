@@ -1015,7 +1015,6 @@ boraces
 barmecidal
 balcony
 burnweed
-bail
 burs
 bringer
 barfs
@@ -4608,6 +4607,7 @@ bedecked
 bedrid
 bebannered
 bedecking
+bail
 bulletproofed
 broadens
 bedehouse
