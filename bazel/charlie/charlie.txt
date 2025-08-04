@@ -17888,7 +17888,6 @@ camas
 codicils
 codicology
 codifications
-cycasin
 codifiers
 codifies
 cue
@@ -25524,6 +25523,7 @@ chitchatty
 coronel
 chamaerrhine
 coronership
+cycasin
 chasidim
 coroneted
 chaise
