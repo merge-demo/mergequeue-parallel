@@ -11365,7 +11365,6 @@ chaneled
 chloromata
 chloromelanite
 chlorometer
-chloromethane
 chlorometry
 categorem
 coopted
@@ -30387,6 +30386,7 @@ crustade
 charted
 cresotinic
 crustalogy
+chloromethane
 crustalogical
 crustalogist
 cyrenaic

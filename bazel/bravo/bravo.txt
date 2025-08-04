@@ -3439,7 +3439,6 @@ basts
 banuyo
 basural
 bovarism
-basuto
 bancos
 blizzardous
 buphaga
@@ -9388,6 +9387,7 @@ buriti
 baronetship
 bullyrook
 bulges
+basuto
 birdless
 bimucronate
 balbutiate
