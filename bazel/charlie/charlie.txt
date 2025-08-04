@@ -8009,7 +8009,6 @@ cevine
 cevitamic
 cismontane
 contes
-cf
 cfd
 ch
 cha
@@ -26671,6 +26670,7 @@ cardiectomy
 cavish
 conflagrate
 concrescent
+cf
 counteractivity
 counteracts
 columbium
