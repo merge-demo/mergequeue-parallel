@@ -5737,6 +5737,7 @@ criniere
 catchie
 catchiest
 cakebread
+conicoid
 catching
 carolean
 cannon
@@ -18109,7 +18110,6 @@ coenobiar
 catostomoid
 cissoid
 coenobioid
-conicoid
 contentless
 cardinalism
 compactile
