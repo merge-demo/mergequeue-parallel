@@ -24334,6 +24334,7 @@ cookishly
 colloquia
 convert
 charbroiling
+counterdeclaration
 coconstituent
 cookout
 craniophore
@@ -26763,7 +26764,6 @@ cubitometacarpal
 capelocracy
 countercurrentwise
 counterdance
-counterdeclaration
 cucumis
 counterdemonstrate
 counterdeputation
