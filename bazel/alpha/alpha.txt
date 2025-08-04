@@ -76,7 +76,6 @@ abalone
 abalones
 abama
 archineuron
-abecedary
 aband
 abandon
 androecial
@@ -12045,6 +12044,7 @@ ardebs
 anatases
 abattoir
 anatexis
+abecedary
 ancestress
 apogamically
 aspartate
