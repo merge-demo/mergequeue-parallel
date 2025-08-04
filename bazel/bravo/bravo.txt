@@ -2784,6 +2784,7 @@ baronries
 briggs
 baroque
 baconer
+brochantite
 bowsprits
 butchered
 bureaus
@@ -15702,7 +15703,6 @@ broccolis
 broch
 benzophenazine
 brochant
-brochantite
 bananaquit
 beneficiating
 broche
