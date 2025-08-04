@@ -9491,7 +9491,6 @@ barristership
 birretta
 barney
 beslabber
-binomialism
 blunderers
 birring
 backachy
@@ -17767,6 +17766,7 @@ biostatistic
 blepharoadenoma
 breedings
 basyl
+binomialism
 burping
 burps
 burrbark
