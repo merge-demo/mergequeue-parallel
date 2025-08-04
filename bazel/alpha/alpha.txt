@@ -3398,6 +3398,7 @@ addend
 anaerobically
 avenine
 anchylosed
+agoramania
 antedonin
 addendums
 adder
@@ -17334,7 +17335,6 @@ arias
 abstracts
 apostolicity
 aerobacteriologically
-agoramania
 aliment
 ampuls
 apostrophes
