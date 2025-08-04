@@ -2488,7 +2488,6 @@ bhut
 bedark
 brachyoura
 barge
-bergere
 bargelike
 beet
 bravura
@@ -16913,6 +16912,7 @@ bong
 basten
 basiliscan
 bugleweed
+bergere
 bressomer
 bugling
 buglosses
