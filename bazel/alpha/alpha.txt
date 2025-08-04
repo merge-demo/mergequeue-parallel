@@ -3125,7 +3125,6 @@ actiones
 actionist
 abrazitic
 actionizing
-alkalifiable
 actionless
 arrectary
 acclimatation
@@ -5131,6 +5130,7 @@ accend
 afd
 antireticular
 anticommunist
+alkalifiable
 afenil
 autochanger
 afetal
