@@ -2583,6 +2583,7 @@ decoat
 decoct
 demiquaver
 dashes
+doings
 decocting
 decoctive
 deaminizing
@@ -8529,7 +8530,6 @@ deschampsia
 dianoia
 dwarflike
 duster
-doings
 dealkylation
 diffided
 diantre
