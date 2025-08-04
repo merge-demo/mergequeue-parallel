@@ -8697,7 +8697,6 @@ diastalses
 dum
 dovekey
 diastalsis
-diastases
 diglossia
 disgustedness
 dryads
@@ -16453,6 +16452,7 @@ dolichocercic
 decidement
 derivately
 defogger
+diastases
 dwaible
 delirate
 diachyma
