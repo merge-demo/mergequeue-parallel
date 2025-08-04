@@ -10905,6 +10905,7 @@ chippings
 castaneous
 clerk
 chipproof
+comforter
 crucifying
 clocher
 chypre
@@ -25866,7 +25867,6 @@ corseleting
 curvirostral
 cloudier
 chalets
-comforter
 corseque
 contralti
 carraran
