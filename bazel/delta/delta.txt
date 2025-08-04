@@ -2584,7 +2584,6 @@ decoct
 demiquaver
 dashes
 decocting
-decoctive
 deaminizing
 demishirt
 decoctum
@@ -12042,6 +12041,7 @@ diadelphic
 durdum
 daryl
 disclamation
+decoctive
 disengaged
 defiable
 disengaging
