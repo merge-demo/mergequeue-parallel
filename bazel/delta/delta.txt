@@ -2454,7 +2454,6 @@ drepane
 deciphering
 dunghill
 destrudo
-decipium
 diphase
 diplodocus
 dipyre
@@ -12712,6 +12711,7 @@ disperiwig
 diacromyodian
 disliked
 disliken
+decipium
 duma
 drawshave
 dislikeness
