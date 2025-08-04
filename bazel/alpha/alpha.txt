@@ -2187,6 +2187,7 @@ achrodextrinase
 achroglobin
 achroiocythaemia
 apod
+archon
 anguinidae
 assessably
 alginic
@@ -18983,7 +18984,6 @@ adhering
 astronautical
 airmailed
 archocele
-archon
 archonship
 archonships
 acichlorid

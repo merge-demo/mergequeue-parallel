@@ -1229,7 +1229,6 @@ blackshirt
 bakshishes
 benedick
 bakuba
-bediaper
 barathron
 blok
 barkers
@@ -6322,6 +6321,7 @@ bentonite
 bents
 benu
 benumbed
+bediaper
 benumbingly
 benumbs
 besodden
