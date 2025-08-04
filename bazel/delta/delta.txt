@@ -2058,7 +2058,6 @@ decaying
 diopsimeter
 diety
 dummy
-dauntlessness
 defaced
 datchas
 devolution
@@ -15097,6 +15096,7 @@ doggish
 deads
 doggishness
 doggle
+dauntlessness
 doggo
 distinguisher
 dehors
