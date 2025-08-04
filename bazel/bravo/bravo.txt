@@ -5330,7 +5330,6 @@ biannulate
 becurry
 blueheads
 bethesdas
-burrer
 bivariate
 beglide
 burkers
@@ -5737,6 +5736,7 @@ beamful
 bloomery
 blankite
 budge
+burrer
 bencite
 believingly
 brerd
