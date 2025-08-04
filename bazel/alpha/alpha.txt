@@ -7947,7 +7947,6 @@ amaranths
 altarpiece
 aleukaemic
 argasid
-aleukemic
 account
 auscultations
 aleurobius
@@ -9360,6 +9359,7 @@ adamancies
 amidating
 antiprotease
 anguishful
+aleukemic
 austringer
 alphamerically
 archtyrant
