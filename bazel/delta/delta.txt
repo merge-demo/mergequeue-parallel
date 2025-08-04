@@ -17069,7 +17069,6 @@ demibrute
 disaggregated
 despume
 dryades
-dryadetum
 drused
 divinely
 damners
@@ -18668,6 +18667,7 @@ dwale
 draffiest
 dwalm
 dwarfer
+dryadetum
 dwarfishness
 documentarily
 dwarfisms
