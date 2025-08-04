@@ -7578,7 +7578,6 @@ boogiewoogie
 bloodripe
 begiggle
 barnacle
-bewhisker
 biplicate
 bleater
 burele
@@ -9871,6 +9870,7 @@ balonea
 brasilete
 bytownitite
 babysat
+bewhisker
 barnacles
 beneficiaries
 biaxially
