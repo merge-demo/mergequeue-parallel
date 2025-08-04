@@ -8301,7 +8301,6 @@ diagonial
 diagonic
 drum
 diagram
-drahthaar
 demobilize
 diagrammed
 diagrammer
@@ -10181,6 +10180,7 @@ dusks
 dislip
 devulgarize
 diluvian
+drahthaar
 duckbills
 deadly
 dingdonged
