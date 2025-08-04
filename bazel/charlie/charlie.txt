@@ -14711,6 +14711,7 @@ cariole
 cystose
 conurbations
 clayman
+crowfeet
 coliander
 cystospastic
 cited
@@ -30089,7 +30090,6 @@ crower
 crowers
 conductors
 centuried
-crowfeet
 creditability
 crowhop
 cushewbird
