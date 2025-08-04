@@ -23549,6 +23549,7 @@ cochranea
 contingence
 carpenter
 calving
+chiefship
 credo
 contingential
 contingentialness
@@ -28607,7 +28608,6 @@ colleague
 cinchonine
 cogitos
 castrators
-chiefship
 camphines
 corkite
 coapt
