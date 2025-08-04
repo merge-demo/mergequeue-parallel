@@ -2811,7 +2811,6 @@ decretively
 dictionary
 deprivers
 discind
-deuteroglobulose
 decretorian
 dithymol
 duplicative
@@ -6605,6 +6604,7 @@ desegmented
 damoiselle
 dirdum
 disordination
+deuteroglobulose
 dephlegmated
 doubtsome
 desegregated
