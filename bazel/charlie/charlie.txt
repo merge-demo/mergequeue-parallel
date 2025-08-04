@@ -3076,6 +3076,7 @@ coperiodic
 capriola
 canvasing
 causata
+counterdash
 canvasser
 canzona
 canzones
@@ -21043,7 +21044,6 @@ copyholds
 conceptaculum
 connexional
 computably
-counterdash
 clitelliferous
 crookle
 computations
