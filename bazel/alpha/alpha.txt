@@ -8466,7 +8466,6 @@ alisos
 alkalisation
 alkalise
 alkalised
-affrayed
 antejentacular
 alkaliser
 adjoint
@@ -21127,6 +21126,7 @@ ashamnu
 ashangos
 aggrandizers
 ashanti
+affrayed
 ardass
 archilla
 ashake
