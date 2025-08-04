@@ -4139,6 +4139,7 @@ bacons
 biomedical
 blenched
 backbend
+botch
 beastily
 beastish
 bowbells
@@ -14473,7 +14474,6 @@ brambleberry
 brambles
 barfed
 branchy
-botch
 balanophorin
 battleful
 brame
