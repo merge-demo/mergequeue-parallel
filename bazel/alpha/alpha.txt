@@ -8010,6 +8010,7 @@ alfaje
 alfaki
 alfalfas
 aer
+ayyubid
 anapaest
 algesia
 alfaqui
@@ -21650,7 +21651,6 @@ aerotonometer
 assentors
 asseize
 asself
-ayyubid
 assembl
 assemblable
 assemblance
