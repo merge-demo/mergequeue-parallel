@@ -13242,7 +13242,6 @@ bossed
 boanergean
 bosselation
 bolti
-barysphere
 buffbar
 broadest
 bogomil
@@ -16151,6 +16150,7 @@ brothering
 brotherred
 brailed
 birth
+barysphere
 backswimmer
 brothers
 blowdown
