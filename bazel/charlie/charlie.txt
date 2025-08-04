@@ -21482,6 +21482,7 @@ circumundulation
 concordance
 concordancer
 commands
+corporacies
 curliewurly
 cardiophobia
 concordances
@@ -25568,7 +25569,6 @@ corp
 corpn
 corpora
 corporacy
-corporacies
 calcic
 corporalcy
 corporale
