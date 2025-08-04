@@ -3522,6 +3522,7 @@ aircoaches
 alectryon
 apetalae
 acceptation
+authotype
 adelarthrosomatous
 azoospermia
 angionosis
@@ -23881,7 +23882,6 @@ authorless
 authors
 aeries
 anociation
-authotype
 admiringly
 arborator
 aster
