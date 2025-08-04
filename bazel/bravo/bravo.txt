@@ -3287,6 +3287,7 @@ bothering
 basisphenoidal
 basitemporal
 blippers
+bacalaos
 beguilers
 balao
 besotment
@@ -13893,7 +13894,6 @@ bowly
 breastworks
 bowlike
 bowline
-bacalaos
 baptizee
 biochemist
 bowsman
