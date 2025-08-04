@@ -2190,7 +2190,6 @@ briscola
 bararite
 barathea
 barbellate
-bibbled
 baysmelts
 bemaddens
 barathra
@@ -10860,6 +10859,7 @@ bloodlike
 blastomycetic
 blowgun
 blighters
+bibbled
 bestowing
 bribetaker
 burroughs

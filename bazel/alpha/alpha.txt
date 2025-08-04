@@ -2172,6 +2172,7 @@ achordal
 alqueire
 amyelotrophy
 achordata
+anisopleural
 achordate
 achorion
 anarya
@@ -11689,7 +11690,6 @@ anagyrine
 anagyris
 anaglyph
 annulism
-anisopleural
 anaglyphs
 anaglypta
 anaglyptical
