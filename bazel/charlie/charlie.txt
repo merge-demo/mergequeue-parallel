@@ -3617,6 +3617,7 @@ caraboid
 carabus
 caracara
 carack
+causse
 caracks
 caracoa
 cumanagoto
@@ -22932,7 +22933,6 @@ consignificative
 consignificator
 consignifying
 cylindroidal
-causse
 consigning
 consignments
 consiliary
