@@ -6971,7 +6971,6 @@ brachinus
 bleacherman
 beastbane
 bewildering
-basad
 beshrews
 bebrine
 beshrivel
@@ -11546,6 +11545,7 @@ barbs
 blurb
 blurbist
 bananist
+basad
 balladries
 budless
 bordellos
