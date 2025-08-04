@@ -14646,6 +14646,7 @@ arcs
 acraze
 afrogaea
 accentuate
+archchronicler
 association
 antiatheistic
 apepsia
@@ -18667,7 +18668,6 @@ archchampion
 archcheater
 archchemic
 antiopelmous
-archchronicler
 archconfraternity
 agalite
 anticonventionally
