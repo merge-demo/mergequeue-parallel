@@ -21980,7 +21980,6 @@ configurative
 configure
 configures
 coxcombry
-confinable
 confine
 comports
 confined
@@ -26443,6 +26442,7 @@ courbache
 cotransduction
 cotransfuse
 cotranslator
+confinable
 cotranspire
 cotransubstantiate
 commiserable
