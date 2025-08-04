@@ -12079,7 +12079,6 @@ bojo
 bokhara
 baronized
 boronic
-bokharan
 bokom
 bola
 bolag
@@ -17838,6 +17837,7 @@ burster
 blutwurst
 bursty
 bitterhead
+bokharan
 barabara
 brouille
 botein
