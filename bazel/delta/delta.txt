@@ -2723,7 +2723,6 @@ discounsel
 diplopterous
 deedful
 dassy
-domoid
 deductibility
 decoration
 discursory
@@ -5840,6 +5839,7 @@ depositor
 daytime
 deleatur
 dichronous
+domoid
 dysraphia
 dujan
 disambiguation
