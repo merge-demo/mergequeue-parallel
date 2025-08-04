@@ -3648,6 +3648,7 @@ bardolater
 bunsen
 books
 blissfully
+brightly
 batsmen
 batt
 bobadilism
@@ -7170,7 +7171,6 @@ bawling
 bevatron
 brambliest
 bifoliate
-brightly
 bessel
 believes
 bessemer
