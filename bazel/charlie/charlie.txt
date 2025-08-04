@@ -5743,6 +5743,7 @@ catching
 carolean
 cannon
 catchlight
+certes
 cultivatability
 clockcase
 cowpock
@@ -23711,7 +23712,6 @@ cruciform
 contragredience
 contragredient
 contrayerva
-certes
 contraindicant
 ciliospinal
 contraindicated
