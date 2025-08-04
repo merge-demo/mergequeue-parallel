@@ -6998,6 +6998,7 @@ bepaid
 beslobber
 besluit
 bespread
+boracite
 besmile
 besmiled
 besmirch
@@ -12996,7 +12997,6 @@ bloomers
 bombazine
 beliquored
 balanid
-boracite
 boracous
 borage
 bruchidae
