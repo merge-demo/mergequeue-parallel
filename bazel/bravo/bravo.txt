@@ -7524,7 +7524,6 @@ businessman
 bevil
 bevillain
 befell
-bigeye
 bashaws
 bedote
 breezeless
@@ -13101,6 +13100,7 @@ blowzier
 brahui
 boride
 benchmen
+bigeye
 bregmatic
 boringness
 bilging
