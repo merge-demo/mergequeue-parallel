@@ -2152,7 +2152,6 @@ brutism
 baptising
 butterless
 barleyhood
-baptismal
 bandsaw
 baptisms
 badgers
@@ -13467,6 +13466,7 @@ bottlenose
 bottlers
 brachytic
 bottlestone
+baptismal
 bottling
 blemishes
 borstall
