@@ -5169,6 +5169,7 @@ bordereau
 befretting
 befume
 buoyage
+baseball
 befriended
 bullyrags
 budgets
@@ -9289,7 +9290,6 @@ burgaudine
 blackguardism
 beadles
 biprong
-baseball
 begloomed
 befit
 bleezy

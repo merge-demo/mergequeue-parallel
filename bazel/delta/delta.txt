@@ -4203,6 +4203,7 @@ dunstable
 discolorization
 dicyanogen
 desynapsis
+diffracting
 dells
 distinct
 deserter
@@ -6531,7 +6532,6 @@ donor
 descent
 despert
 dekameter
-diffracting
 deschool
 decretals
 dirtbird
