@@ -8981,6 +8981,7 @@ bummerish
 brattles
 bioherm
 besotting
+breathiness
 baybush
 bulrushlike
 bronzen
@@ -14938,7 +14939,6 @@ bravuraish
 blennophlogisma
 breathes
 boarstaff
-breathiness
 bookishly
 breathingly
 bepaper
