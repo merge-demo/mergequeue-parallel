@@ -4806,7 +4806,6 @@ completion
 carport
 carpos
 chibouk
-carposporangial
 catalase
 carlist
 carposporous
@@ -14443,6 +14442,7 @@ coking
 circumventor
 conveyorized
 ceriomyces
+carposporangial
 cered
 callously
 citrus
