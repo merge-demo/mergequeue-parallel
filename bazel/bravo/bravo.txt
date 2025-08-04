@@ -6708,6 +6708,7 @@ burghs
 busto
 babbles
 berytidae
+bidets
 boblet
 bortzes
 bergh
@@ -12511,7 +12512,6 @@ bacquet
 bilberries
 boneshaker
 bridesman
-bidets
 backbeat
 befavor
 brunizems
