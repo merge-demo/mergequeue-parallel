@@ -2448,7 +2448,6 @@ doctrinarily
 deucing
 disintegrative
 decipherably
-deciphered
 damgalnunna
 drepane
 deciphering
@@ -15744,6 +15743,7 @@ disgig
 dukhn
 dacryocystocele
 doryanthes
+deciphered
 doricism
 dorylinae
 dyemaker
