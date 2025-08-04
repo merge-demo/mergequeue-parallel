@@ -1375,6 +1375,7 @@ chinos
 cheven
 chutneys
 chantages
+clopping
 caliga
 caligate
 caligation
@@ -15604,7 +15605,6 @@ classificator
 culicidae
 classificatory
 classified
-clopping
 cotwinned
 censive
 curriers
