@@ -4385,7 +4385,6 @@ bunyas
 bebeerin
 bennettitales
 bovenland
-briskness
 bakeboard
 bonzian
 barrable
@@ -11314,6 +11313,7 @@ barse
 baith
 bespoused
 blowsier
+briskness
 blowtorches
 bromos
 bossiness
