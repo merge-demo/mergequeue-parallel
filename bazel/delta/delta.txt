@@ -9945,7 +9945,6 @@ dimers
 dimes
 dimetallic
 dimeter
-dermatauxe
 discophorous
 dimethylbenzene
 disneyland
@@ -16771,6 +16770,7 @@ drats
 discomfortable
 dratting
 draught
+dermatauxe
 distal
 draughtboard
 daub
