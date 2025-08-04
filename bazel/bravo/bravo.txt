@@ -4047,7 +4047,6 @@ blitzkrieged
 beams
 bargees
 bantlings
-bean
 brickred
 begottenness
 bedeafen
@@ -4094,6 +4093,7 @@ bodysurfs
 bowmaking
 beelbow
 brushproof
+bean
 beardfishes
 beswarms
 botulinum
