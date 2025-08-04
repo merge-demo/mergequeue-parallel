@@ -9577,6 +9577,7 @@ checkpoints
 commonize
 checkrack
 casehardens
+credibly
 cricotracheotomy
 checkrein
 checkroll
@@ -28541,7 +28542,6 @@ credere
 credible
 concealers
 crimogenic
-credibly
 creditable
 clava
 coinfinite
