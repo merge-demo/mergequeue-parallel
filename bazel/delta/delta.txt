@@ -5302,7 +5302,6 @@ defat
 degasifier
 diatomaceoid
 denouncers
-detestable
 detinue
 dentale
 dissimulate
@@ -16973,6 +16972,7 @@ dermatherm
 demihorse
 dullness
 downcurve
+detestable
 dredgeful
 disintegrate
 discerp
