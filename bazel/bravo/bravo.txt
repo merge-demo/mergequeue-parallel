@@ -5974,7 +5974,6 @@ beltless
 benchmarks
 biauriculate
 brecciate
-bawdily
 beltman
 belts
 bloodspilling
@@ -14189,6 +14188,7 @@ bashlyks
 bradawls
 bryanite
 bag
+bawdily
 bespot
 bradbury
 bradyauxesis
