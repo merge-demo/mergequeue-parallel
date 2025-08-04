@@ -4218,7 +4218,6 @@ delocalize
 dermoreaction
 decrustation
 dretch
-delocalizing
 dextrorotatary
 decrement
 denigrators
@@ -9759,6 +9758,7 @@ duffles
 depositee
 decenary
 dilatatory
+delocalizing
 dehydromucic
 disablers
 detin
