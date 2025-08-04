@@ -844,6 +844,7 @@ cainitic
 cayos
 caique
 caiquejee
+cyanogenesis
 caiques
 cairene
 cairn
@@ -12122,7 +12123,6 @@ chouquette
 chous
 chouse
 choused
-cyanogenesis
 chousers
 choush
 configurationist
