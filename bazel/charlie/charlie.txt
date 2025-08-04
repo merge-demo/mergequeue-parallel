@@ -16412,6 +16412,7 @@ clites
 cleridae
 clithe
 clithral
+chapped
 clitia
 copolymerizations
 chromobacterieae
@@ -21247,7 +21248,6 @@ chinbeak
 chatwood
 concertante
 countersank
-chapped
 concertation
 counter
 concertato
