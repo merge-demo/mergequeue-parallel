@@ -6154,6 +6154,7 @@ antiparabema
 ascendency
 atellan
 avirulent
+antennule
 activable
 audile
 amyluria
@@ -14087,7 +14088,6 @@ acraturesis
 antennula
 antennular
 antiegoistically
-antennule
 antenodal
 antenor
 antenumber
