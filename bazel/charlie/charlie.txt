@@ -11453,7 +11453,6 @@ consultations
 choanate
 choanephora
 cystopyelography
-choanocyte
 choanoflagellate
 choanoflagellida
 cotta
@@ -21796,6 +21795,7 @@ culmy
 concentive
 corresponsive
 conductometric
+choanocyte
 conductor
 conductorial
 commoners
