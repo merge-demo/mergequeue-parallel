@@ -1119,7 +1119,6 @@ breakwind
 battercake
 belonesite
 bairns
-bootful
 berne
 banquets
 backwall
@@ -2523,6 +2522,7 @@ barycenter
 bemused
 burmite
 brillolette
+bootful
 barid
 bronchostenosis
 bereaving
