@@ -16844,6 +16844,7 @@ buffont
 bloodleaf
 buffoon
 buffooneries
+barometz
 benzoxycamphor
 balancelle
 blastoderm
@@ -17474,7 +17475,6 @@ betes
 bioecologist
 buqshas
 brambrack
-barometz
 babyhood
 buran
 burans
