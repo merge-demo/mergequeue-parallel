@@ -7617,7 +7617,6 @@ cerebrated
 cosmopolite
 cycloparaffin
 chivaried
-chiasmodontidae
 charer
 cerebrations
 cerebri
@@ -29536,6 +29535,7 @@ criterions
 cerealist
 crith
 crithidia
+chiasmodontidae
 crithomancy
 critic
 criticality
