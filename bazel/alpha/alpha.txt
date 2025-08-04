@@ -14550,7 +14550,6 @@ antidepressants
 anthropurgic
 anthroxanic
 arrogative
-affectus
 amenorrhoeic
 antidiphtheric
 anththeridia
@@ -25312,6 +25311,7 @@ azohumic
 azoic
 appellancy
 azoles
+affectus
 azolla
 azon
 adrenal
