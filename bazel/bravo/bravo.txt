@@ -3178,7 +3178,6 @@ barotactic
 breadth
 ballerinas
 bauta
-beknave
 baclava
 bravish
 blowzily
@@ -3624,6 +3623,7 @@ bumbleberry
 betacism
 bakehouses
 brazenfacedly
+beknave
 botchery
 billheads
 bioplasm
