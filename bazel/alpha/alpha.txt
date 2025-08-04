@@ -11815,7 +11815,6 @@ anteroventral
 analogize
 appropriation
 analogon
-antihemorrheidal
 analogous
 asterinidae
 ailing
@@ -20630,6 +20629,7 @@ antieugenic
 annunciates
 arthur
 arty
+antihemorrheidal
 artiad
 advertising
 artichoke
