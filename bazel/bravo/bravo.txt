@@ -3977,6 +3977,7 @@ beadlehood
 besiegement
 beadmen
 blepharophimosis
+brahminism
 barometrograph
 beads
 builds
@@ -12720,7 +12721,6 @@ boatkeeper
 billion
 brachydactylic
 bailsmen
-brahminism
 bookfold
 biometric
 bookhood

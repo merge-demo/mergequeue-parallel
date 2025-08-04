@@ -8228,7 +8228,6 @@ diadelphous
 diadema
 depart
 diaderm
-diadic
 disabusing
 demurrer
 decouples
@@ -10547,6 +10546,7 @@ denominationalize
 diplantidian
 drynaria
 diplarthrism
+diadic
 dilapidator
 disencumbers
 decentest
