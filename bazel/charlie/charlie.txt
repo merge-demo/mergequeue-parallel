@@ -9883,6 +9883,7 @@ caliciform
 choosy
 chemisorb
 cardiotherapy
+coiffure
 coprophilic
 copperytailed
 chemistry
@@ -23179,7 +23180,6 @@ counterpoise
 constrainedness
 carroll
 choiak
-coiffure
 constrainingly
 cubbyhole
 constraints
