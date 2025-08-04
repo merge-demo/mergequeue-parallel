@@ -6911,7 +6911,6 @@ declaimant
 darkness
 desolator
 dryhouse
-didymium
 dependents
 dognap
 discolors
@@ -11489,6 +11488,7 @@ discoideae
 despatchers
 debriding
 devisings
+didymium
 decencies
 dionysiacal
 discoloration
