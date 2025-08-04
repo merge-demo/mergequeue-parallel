@@ -22872,6 +22872,7 @@ collapsable
 conservatoires
 conservator
 conservatory
+curtsied
 conservatorial
 conservatorium
 crystograph
@@ -31582,7 +31583,6 @@ curtesies
 curtilage
 curtlax
 curtsy
-curtsied
 curucaneca
 catcalled
 curucucu
