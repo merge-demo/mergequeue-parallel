@@ -1229,7 +1229,6 @@ blackshirt
 bakshishes
 benedick
 bakuba
-bediaper
 barathron
 blok
 barkers
@@ -7125,6 +7124,7 @@ batan
 bonking
 breadthwise
 butterlike
+bediaper
 bespill
 bathygraphic
 bastardies
