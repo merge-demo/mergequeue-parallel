@@ -1027,7 +1027,6 @@ disseises
 darksomeness
 darksum
 domineers
-danalite
 daguerrean
 decimeter
 dharmasutra
@@ -2322,6 +2321,7 @@ downwash
 deceptive
 deceptively
 deceptiveness
+danalite
 dinichthyid
 deafnesses
 decerebrate
