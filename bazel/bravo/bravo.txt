@@ -1955,7 +1955,6 @@ bacteriophage
 bandwidth
 bagginess
 bandworm
-boogiewoogie
 baylet
 baneberry
 benzoflavine
@@ -7575,6 +7574,7 @@ beweeper
 beweeps
 bombilate
 bastardize
+boogiewoogie
 bloodripe
 begiggle
 barnacle
