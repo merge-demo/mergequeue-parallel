@@ -6584,7 +6584,6 @@ borickite
 berberi
 breastrope
 bout
-biohazard
 berberid
 bricked
 brutality
@@ -8880,6 +8879,7 @@ burgraviate
 burgess
 branchiopodan
 beslow
+biohazard
 biochemic
 bromvogel
 boeotian
