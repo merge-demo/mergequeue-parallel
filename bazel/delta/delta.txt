@@ -13810,7 +13810,6 @@ dissuasion
 depravedly
 dirndls
 dissuasively
-detruncate
 dengues
 dissuit
 duhat
@@ -14029,6 +14028,7 @@ distraction
 distractions
 distractive
 defending
+detruncate
 dumpling
 disproportion
 disorb
