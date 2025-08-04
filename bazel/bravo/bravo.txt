@@ -8966,7 +8966,6 @@ bushlet
 bohemias
 basilysis
 biogeographical
-biogeographically
 bobo
 blankety
 bunchbacked
@@ -17132,6 +17131,7 @@ bullies
 broll
 bezaleel
 bombards
+biogeographically
 bullyism
 bintangor
 brushmaking
