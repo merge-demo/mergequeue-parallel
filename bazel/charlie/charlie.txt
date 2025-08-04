@@ -1325,7 +1325,6 @@ cathartin
 calycifloral
 cascabels
 calyciflorate
-caliciform
 calycinal
 calycine
 calderium
@@ -9881,6 +9880,7 @@ chemise
 crinet
 chemisette
 chemism
+caliciform
 choosy
 chemisorb
 cardiotherapy
