@@ -3032,7 +3032,6 @@ cellocut
 cantoning
 cantonize
 colectomy
-countergager
 cantoral
 cantoria
 cardsharps
@@ -26158,6 +26157,7 @@ cosmopolitan
 cosmopolitanisation
 coastline
 cosmopolitanise
+countergager
 charcutiers
 cosmopolitanising
 centurions
