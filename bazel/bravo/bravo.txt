@@ -4419,6 +4419,7 @@ bereavement
 boojum
 beclog
 becoiffed
+bendlet
 bulkiness
 bludging
 beclogs
@@ -14990,7 +14991,6 @@ begift
 barraters
 breedable
 borderies
-bendlet
 breeder
 breakneck
 breeders
