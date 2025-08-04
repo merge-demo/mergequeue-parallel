@@ -2407,6 +2407,7 @@ bardship
 backaching
 biocoenoses
 boobies
+beggable
 bronteana
 bardulph
 bruiser
@@ -16421,7 +16422,6 @@ barbouillage
 bluenoser
 bloodshotten
 bendys
-beggable
 bejazz
 besmell
 brevetting
