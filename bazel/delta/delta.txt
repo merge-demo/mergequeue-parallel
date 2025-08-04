@@ -2299,7 +2299,6 @@ dhurrie
 decentralize
 dewatering
 decentralizing
-daphne
 defensory
 dekaparsec
 dermatropic
@@ -15802,6 +15801,7 @@ dumka
 dorp
 diphthongalize
 dorpers
+daphne
 dorr
 doomage
 deflorations
