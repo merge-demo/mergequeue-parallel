@@ -901,7 +901,6 @@ disburdens
 dinornithine
 danio
 dokimastic
-dudman
 daphni
 daphnia
 detractors
@@ -2535,6 +2534,7 @@ dwined
 declasses
 dorn
 disjudication
+dudman
 declassicize
 dimorphs
 dumbfounded
