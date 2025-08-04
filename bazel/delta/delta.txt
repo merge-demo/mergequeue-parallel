@@ -5835,6 +5835,7 @@ depositation
 dartlike
 disgorgement
 dreiling
+discommoning
 deposito
 depositor
 daytime
@@ -13040,7 +13041,6 @@ dithecous
 dispeed
 dispark
 declarer
-discommoning
 diplosphenal
 dwang
 drownds
