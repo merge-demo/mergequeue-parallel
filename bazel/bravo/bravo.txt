@@ -1906,7 +1906,6 @@ bandanas
 bergama
 bandogs
 bediademed
-barken
 bandoleer
 burlesquely
 backhoes
@@ -12439,6 +12438,7 @@ bloodline
 bonderman
 bankera
 boii
+barken
 bogum
 bowyang
 brisbane

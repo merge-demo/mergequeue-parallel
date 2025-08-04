@@ -269,7 +269,6 @@ arsines
 abdominalian
 appurtenances
 accuracy
-autotropism
 abdominally
 aeroacoustic
 aguamas
@@ -20076,6 +20075,7 @@ arousable
 aunter
 aschistic
 acantharia
+autotropism
 acmic
 alloclase
 armenia
