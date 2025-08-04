@@ -22045,7 +22045,6 @@ asterope
 amnestic
 accordature
 amphibichnite
-anaunter
 asterophyllite
 asterophyllites
 adorno
@@ -25193,6 +25192,7 @@ amentula
 azophenetole
 allantochorion
 astrand
+anaunter
 americanization
 anticlactic
 arsono

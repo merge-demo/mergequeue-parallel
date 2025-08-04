@@ -3380,7 +3380,6 @@ bewall
 bittor
 boehmenism
 berascaled
-bryophytic
 botanizer
 basswood
 burghership
@@ -13016,6 +13015,7 @@ bevomit
 borani
 barkan
 bootstrapping
+bryophytic
 borasca
 bemeet
 borassus
