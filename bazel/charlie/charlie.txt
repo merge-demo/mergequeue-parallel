@@ -12133,7 +12133,6 @@ chout
 culturist
 chowanoc
 chowchows
-clockwork
 chowhound
 coapprehend
 cyclopaedically
@@ -19030,6 +19029,7 @@ collectorate
 collectors
 circumscissile
 collectress
+clockwork
 crisped
 colleen
 college
