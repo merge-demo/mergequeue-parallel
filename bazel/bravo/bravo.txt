@@ -10495,7 +10495,6 @@ becharming
 blatjang
 bakestone
 biologistic
-bepastured
 blastogenic
 baizes
 bridgewards
@@ -17048,6 +17047,7 @@ brodekin
 bullate
 bullback
 bullbaiting
+bepastured
 belduque
 bibb
 boulterer
