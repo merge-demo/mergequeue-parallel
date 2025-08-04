@@ -17654,6 +17654,7 @@ creativeness
 coccosteus
 chickadees
 coccothraustes
+continuer
 coccothraustine
 coccothrinax
 calabozo
@@ -23581,7 +23582,6 @@ continue
 continued
 continuedness
 comprovincial
-continuer
 cytostome
 continuers
 continuing
