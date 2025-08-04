@@ -4335,7 +4335,6 @@ arthritic
 ankylomerism
 anilidoxime
 adularias
-aubretia
 athetesis
 adulate
 adulated
@@ -19646,6 +19645,7 @@ aristeas
 alertness
 armaria
 aristeia
+aubretia
 aristida
 aristides
 aristocracy
