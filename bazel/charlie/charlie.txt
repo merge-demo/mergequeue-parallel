@@ -19168,7 +19168,6 @@ collocational
 crojiks
 collocative
 collock
-cowfish
 compartmentalizes
 collocutor
 cogitations
@@ -30176,6 +30175,7 @@ compursion
 cogue
 carbonising
 ceramist
+cowfish
 cerotype
 cornuses
 christ
