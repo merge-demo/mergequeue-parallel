@@ -10113,6 +10113,7 @@ ambomalleal
 antenatus
 acrologue
 ambon
+asynaptic
 ambones
 alertest
 ambonnay
@@ -24555,7 +24556,6 @@ acalyptrate
 arthrodynia
 availed
 aftosa
-asynaptic
 abstractness
 availer
 antimachine
