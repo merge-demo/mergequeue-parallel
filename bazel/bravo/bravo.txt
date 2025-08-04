@@ -3083,6 +3083,7 @@ betraying
 boodledom
 beautify
 bucrnia
+barbered
 bloodcurdler
 benben
 baseborn
@@ -3487,7 +3488,6 @@ bargemen
 bogging
 bitterhearted
 bateleur
-barbered
 bovista
 bouchal
 bulldoggishly
