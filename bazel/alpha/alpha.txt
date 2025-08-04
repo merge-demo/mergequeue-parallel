@@ -8424,6 +8424,7 @@ alkahestic
 agalaxy
 allopath
 advertency
+antiphrases
 aortoptosis
 alkahestica
 anesthesiometer
@@ -15779,7 +15780,6 @@ aborigine
 antiphons
 assistants
 alloisomeric
-antiphrases
 antiphrastic
 antiphthisic
 amberiferous

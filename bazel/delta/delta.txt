@@ -1223,6 +1223,7 @@ dateless
 datelessness
 denizate
 disserve
+deist
 datelining
 datemark
 disenter
@@ -14885,7 +14886,6 @@ docudramas
 document
 disinfector
 documentable
-deist
 documental
 delimer
 dactylose
