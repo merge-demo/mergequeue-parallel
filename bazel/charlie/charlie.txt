@@ -4881,6 +4881,7 @@ carryouts
 crosshatched
 carritches
 carriwitchet
+concomitance
 carrocci
 carroch
 connivers
@@ -21468,7 +21469,6 @@ chilostomata
 counterfeiting
 caesaropopism
 counterplotting
-concomitance
 concomitant
 concommitant
 concommitantly
