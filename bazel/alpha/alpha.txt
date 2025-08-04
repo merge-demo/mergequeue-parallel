@@ -9225,7 +9225,6 @@ alnein
 awest
 authenticating
 alnicoes
-alnilam
 alnitak
 attry
 alnitham
@@ -9998,6 +9997,7 @@ aquapuncture
 anthocephalous
 ambidexterities
 ambidextral
+alnilam
 andrenid
 avidya
 ambidextrously
