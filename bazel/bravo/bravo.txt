@@ -3427,7 +3427,6 @@ bastions
 barabbas
 boughpot
 bef
-bastite
 brushfire
 brigade
 basto
@@ -12431,6 +12430,7 @@ berberins
 bondage
 bless
 bondar
+bastite
 bockerel
 bastardly
 bonderize
