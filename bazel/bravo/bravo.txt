@@ -8518,7 +8518,6 @@ bafaro
 baronne
 birch
 butyryl
-bearhound
 bisections
 biliteral
 biliteralism
@@ -17538,6 +17537,7 @@ blepharoclonus
 bureaucratizes
 boletic
 bureaucratizing
+bearhound
 brisket
 buret
 bodock
