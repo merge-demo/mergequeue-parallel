@@ -18483,6 +18483,7 @@ arboricolous
 arboriculture
 abject
 ateknia
+assuefaction
 arte
 aporobranchia
 arborists
@@ -20877,7 +20878,6 @@ amidid
 aphasias
 ascariasis
 aerodynamicist
-assuefaction
 anticlassicalness
 ascarid
 amytal

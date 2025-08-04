@@ -1283,7 +1283,6 @@ calfling
 calfskin
 creatural
 calgary
-caliban
 cunea
 calaverite
 caliber
@@ -8519,6 +8518,7 @@ characterstring
 champaka
 conducts
 clubridden
+caliban
 champaks
 cholines
 commensalistic
