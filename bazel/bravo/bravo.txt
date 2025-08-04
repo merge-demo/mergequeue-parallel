@@ -7204,6 +7204,7 @@ bearberry
 bestialised
 brannigan
 boulevardier
+boxhauling
 bellbirds
 bestialist
 bruscha
@@ -13949,7 +13950,6 @@ brussels
 bullring
 boxhauled
 brierberry
-boxhauling
 boxhauls
 bowwow
 bethels
