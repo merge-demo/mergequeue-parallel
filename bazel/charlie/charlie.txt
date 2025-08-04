@@ -4956,6 +4956,7 @@ conduct
 cartilagines
 chancroids
 cartilaginoid
+cellarway
 cartels
 cartilaginous
 carting
@@ -7783,7 +7784,6 @@ caryatidic
 cfi
 certifiability
 categorematic
-cellarway
 certifiable
 certificate
 certificated
