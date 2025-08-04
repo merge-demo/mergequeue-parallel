@@ -6944,7 +6944,6 @@ celtuce
 closefisted
 cembalo
 cembalon
-cystogenous
 curiousnesses
 cembalos
 chrome
@@ -30881,6 +30880,7 @@ culti
 cultic
 caecity
 cultigens
+cystogenous
 cultish
 cerasin
 carboyed
