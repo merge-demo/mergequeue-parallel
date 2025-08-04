@@ -12729,6 +12729,7 @@ cabbagelike
 cracowe
 courtesied
 countermarch
+convenances
 cassone
 conventioneer
 chudders
@@ -23984,7 +23985,6 @@ conveyors
 creamsacs
 campanili
 chamaesiphon
-convenances
 convene
 comedically
 communaliser
