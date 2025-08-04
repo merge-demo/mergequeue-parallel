@@ -2720,6 +2720,7 @@ cankerroot
 cauponize
 cankers
 cultivators
+cleave
 comedowns
 carbamyl
 coff
@@ -31598,7 +31599,6 @@ cervicide
 creatinine
 cururos
 catawbas
-cleave
 cornett
 cheet
 chaton
