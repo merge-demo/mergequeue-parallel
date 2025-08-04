@@ -9519,7 +9519,6 @@ birthmark
 biographee
 banality
 besots
-birthnight
 birthplaces
 bogota
 backfilled
@@ -10437,6 +10436,7 @@ beachboy
 bastion
 boghole
 bimuscular
+birthnight
 boyards
 barytostrontianite
 blaoner
