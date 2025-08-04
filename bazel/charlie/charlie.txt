@@ -14161,7 +14161,6 @@ chimonanthus
 circuiteer
 clyer
 chullpa
-continues
 cementless
 circuiting
 carbaryl
@@ -21869,6 +21868,7 @@ confecting
 confection
 confectionary
 confectioner
+continues
 confed
 confederalist
 confederate
