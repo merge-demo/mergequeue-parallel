@@ -12872,7 +12872,6 @@ boonfellow
 behorror
 bifoil
 bacchiac
-bangster
 bkpt
 barthian
 breastwise
@@ -18020,6 +18019,7 @@ busman
 bondmanship
 busmen
 beaux
+bangster
 benda
 busses
 bussing
