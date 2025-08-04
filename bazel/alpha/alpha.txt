@@ -2713,6 +2713,7 @@ astringent
 arriba
 any
 ambosexual
+activeness
 acroaesthesia
 archives
 acroamatic
@@ -14841,7 +14842,6 @@ antilogs
 anticipations
 anticipative
 attensity
-activeness
 antinepotic
 ateleological
 antliate
