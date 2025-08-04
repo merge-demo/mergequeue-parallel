@@ -4931,7 +4931,6 @@ defervescence
 demonry
 dubiosities
 dispersive
-dovishness
 demonstrated
 dehiscing
 demonstrater
@@ -12074,6 +12073,7 @@ disentanglement
 daymare
 depurition
 disentangling
+dovishness
 disputeless
 divinises
 daguerreotypy
