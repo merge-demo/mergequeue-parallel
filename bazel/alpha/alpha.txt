@@ -1942,6 +1942,7 @@ acetylizable
 aversive
 anamirtin
 acetylization
+aculeus
 ammonization
 acetylizer
 acetylizing
@@ -5362,7 +5363,6 @@ aforementioned
 anemoclastic
 allod
 attainers
-aculeus
 arrhinia
 agenesic
 aforetimes
