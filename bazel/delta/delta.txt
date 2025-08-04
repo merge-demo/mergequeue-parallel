@@ -5406,7 +5406,6 @@ diasene
 dentulous
 dentural
 dermatology
-diametrally
 duodenas
 dentures
 dish
@@ -12911,6 +12910,7 @@ disnaturalization
 deviator
 dermaptera
 disnatured
+diametrally
 disnew
 drachmae
 drawspan
