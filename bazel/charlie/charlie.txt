@@ -7041,6 +7041,7 @@ cutlips
 censure
 censureless
 coexecutant
+contumax
 coddling
 census
 caecitis
@@ -24821,7 +24822,6 @@ curlycue
 colourfast
 coquicken
 cartload
-contumax
 coquille
 corrade
 crosiers
