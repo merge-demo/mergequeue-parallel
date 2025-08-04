@@ -5289,7 +5289,6 @@ attaining
 aluminosity
 avadavats
 agrionidae
-affloof
 affluence
 affluently
 affluxion
@@ -21774,6 +21773,7 @@ antimeningococcic
 amebas
 animadversive
 assigns
+affloof
 assilag
 amiced
 assimilates
