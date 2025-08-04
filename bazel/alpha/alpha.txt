@@ -13283,7 +13283,6 @@ amphistyly
 acetarious
 anorexic
 aquilawood
-anisotropism
 anisomyarian
 anisomyodous
 anisopetalous
@@ -14546,6 +14545,7 @@ authorizations
 anthropotomical
 alhandal
 antidiphtherin
+anisotropism
 anticline
 aliency
 antidepressants
