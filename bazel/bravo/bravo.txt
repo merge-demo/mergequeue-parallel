@@ -3486,7 +3486,6 @@ batcher
 bargemen
 bogging
 bitterhearted
-bateau
 bateleur
 barbered
 bovista
@@ -10384,6 +10383,7 @@ bootholder
 blandation
 balsamo
 blackmails
+bateau
 barodynamics
 blander
 bewailer
