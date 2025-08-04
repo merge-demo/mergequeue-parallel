@@ -953,7 +953,6 @@ analcites
 absorptional
 aggregate
 actinopoda
-anarthria
 algific
 adulterately
 antichymosin
@@ -3884,6 +3883,7 @@ adjudicators
 amores
 aversely
 agonied
+anarthria
 aphidian
 adjugate
 adjument
