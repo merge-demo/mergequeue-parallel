@@ -10150,6 +10150,7 @@ ambrosio
 aesture
 ambsace
 ambsaces
+anagrammatic
 ambulacra
 ambulacriform
 acuation
@@ -11706,7 +11707,6 @@ anagogics
 advecting
 annoying
 annoyment
-anagrammatic
 anagrammatically
 aneles
 appaumee

@@ -4711,7 +4711,6 @@ bedub
 bovid
 bibliogenesis
 bedewing
-bedlamize
 bloomeria
 blennorrhinia
 bedlamized
@@ -18258,6 +18257,7 @@ buttermonger
 bice
 bagworm
 buttermouth
+bedlamize
 bronzier
 butternuts
 barstool
