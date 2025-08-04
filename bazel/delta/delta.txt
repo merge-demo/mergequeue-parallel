@@ -3014,7 +3014,6 @@ dealings
 dangleberries
 dies
 dismantling
-deepfreeze
 dilettantish
 deepgoing
 dawsoniaceous
@@ -9058,6 +9057,7 @@ debel
 dicots
 dicoumarin
 disembed
+deepfreeze
 defailment
 depravate
 dermatoplast
