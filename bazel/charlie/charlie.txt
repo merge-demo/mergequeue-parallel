@@ -1047,7 +1047,6 @@ chiliaedron
 counsellorship
 calcariferous
 cribo
-choristry
 calcariform
 chugalugs
 conventicles
@@ -19798,6 +19797,7 @@ combusting
 combustion
 combustious
 combustive
+choristry
 combusts
 captained
 combwise
