@@ -11651,6 +11651,7 @@ anaerobation
 acrocentric
 anaerobion
 apocrisiary
+andirons
 anaerobiont
 anaerobiosis
 anaerobiotic
@@ -12301,7 +12302,6 @@ andirine
 abashments
 aeromantic
 anopisthograph
-andirons
 amalett
 autotoxemia
 affranchising
