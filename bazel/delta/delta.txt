@@ -11111,7 +11111,6 @@ daturas
 disseated
 disennui
 disarms
-dishonouring
 disarray
 dictatorial
 disarrays
@@ -15326,6 +15325,7 @@ discovery
 dolomite
 derries
 dose
+dishonouring
 dolomitic
 descriptives
 dorididae
