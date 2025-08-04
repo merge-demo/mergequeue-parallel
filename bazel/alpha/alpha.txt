@@ -4472,7 +4472,6 @@ adventurism
 acheirus
 atelopodia
 adventurous
-adventurousness
 ankle
 antebridal
 aglycone
@@ -13999,6 +13998,7 @@ antecedency
 aimers
 antecedental
 antecedently
+adventurousness
 antecedes
 aloedary
 antechamber
