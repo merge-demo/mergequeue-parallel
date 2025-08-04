@@ -5968,7 +5968,6 @@ defeatee
 depreter
 depriment
 deprint
-depriorize
 disorderedness
 deprivable
 degrader
@@ -7246,6 +7245,7 @@ daguilla
 darklings
 delubrum
 deverbative
+depriorize
 desolately
 dyingly
 detente
