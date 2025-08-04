@@ -27207,7 +27207,6 @@ coprocessor
 countervallation
 countervalue
 coxarthrocace
-countervenom
 countervibration
 countervindication
 countervolley
@@ -31159,6 +31158,7 @@ cupolaed
 crushable
 cupolaing
 cupolaman
+countervenom
 cupolar
 cotman
 carole
