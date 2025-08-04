@@ -474,7 +474,6 @@ dalapons
 distomatidae
 dairying
 dilleniaceous
-dale
 deutochloride
 dolichoglossus
 danaidae
@@ -14344,6 +14343,7 @@ dubiously
 desmocytoma
 dittographic
 dutcher
+dale
 ditrochean
 dynastical
 deanship
