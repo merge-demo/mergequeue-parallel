@@ -2787,7 +2787,6 @@ baconer
 bowsprits
 butchered
 bureaus
-barites
 bolding
 betulaceous
 baroqueness
@@ -8046,6 +8045,7 @@ bastonite
 biconsonantal
 barnburner
 biconvexity
+barites
 brawned
 browband
 bicorn
