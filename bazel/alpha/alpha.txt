@@ -5221,7 +5221,6 @@ affinely
 alogia
 acromiodeltoid
 affines
-anthomedusae
 affinitative
 alemanni
 aggerate
@@ -21945,6 +21944,7 @@ assurer
 arthrotrauma
 arabesque
 anticeremonial
+anthomedusae
 albumenizing
 accelerations
 assuringly
