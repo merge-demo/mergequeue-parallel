@@ -6422,6 +6422,7 @@ acquitting
 asterism
 aha
 ahamkara
+adventist
 autoclaves
 antienthusiasm
 angiosperms
@@ -11714,7 +11715,6 @@ arbitrators
 anagrammatism
 anagrammatizing
 anagrams
-adventist
 anahau
 ainsells
 anay
