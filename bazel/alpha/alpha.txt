@@ -4033,6 +4033,7 @@ amaracus
 admissory
 acromion
 asarotum
+archband
 admit
 allowanced
 abaxile
@@ -18646,7 +18647,6 @@ anatocism
 adelaide
 archarchitect
 accusably
-archband
 archbeacon
 addlebrain
 archbeadle
