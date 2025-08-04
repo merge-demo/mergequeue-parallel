@@ -1488,7 +1488,6 @@ arhythmical
 accolated
 acclinate
 amidocyanogen
-acclivities
 antlerless
 acclivitous
 acroceraunian
@@ -4941,6 +4940,7 @@ aeronomics
 antisymmetric
 anthropopathia
 armrest
+acclivities
 amphisbaenid
 auriculate
 admissibleness
