@@ -1573,7 +1573,6 @@ accordionist
 accordionists
 adamical
 albuminocholia
-andalusian
 autoportrait
 aconin
 airwoman
@@ -14535,6 +14534,7 @@ apostematic
 anthroposociology
 altarlet
 adoretus
+andalusian
 aphorismatic
 anthroposophy
 anthropoteleoclogy
