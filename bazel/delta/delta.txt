@@ -1396,7 +1396,6 @@ desipient
 diligentia
 disintegrable
 dulcid
-dechoralize
 dawdy
 deportation
 dawdling
@@ -3812,6 +3811,7 @@ deicides
 deicing
 dismutation
 deictical
+dechoralize
 dissevered
 decommissions
 devilkin
