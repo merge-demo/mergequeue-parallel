@@ -7859,7 +7859,6 @@ bombs
 bibliofilm
 blepharosymphysis
 botaniser
-boiling
 biocatalytic
 bibliographies
 bibliographize
@@ -10884,6 +10883,7 @@ biggity
 bibbling
 blindball
 bindable
+boiling
 befingered
 bangers
 boxball
