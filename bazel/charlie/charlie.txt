@@ -2746,7 +2746,6 @@ clarigation
 cinerama
 consorting
 cannach
-cannalling
 clubhauling
 comedietta
 cannat
@@ -24138,6 +24137,7 @@ convexoconcave
 cadbote
 cretins
 colascione
+cannalling
 convicinity
 cattabu
 charon
