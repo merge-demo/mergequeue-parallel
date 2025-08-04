@@ -20745,7 +20745,6 @@ angico
 autophobia
 alicant
 artlessness
-animalcule
 aet
 astrantia
 artlike
@@ -23899,6 +23898,7 @@ autoalarm
 autoalkylation
 autoanalytic
 auriculariae
+animalcule
 anseriformes
 actinophonic
 aeolotropic
