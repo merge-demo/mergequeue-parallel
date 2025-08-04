@@ -1002,6 +1002,7 @@ bioavailability
 butadiene
 baiginet
 biparental
+batholith
 brichen
 bronchiocrisis
 bulse
@@ -13155,7 +13156,6 @@ borrasca
 borrel
 borreria
 blephariglottis
-batholith
 bandoliered
 bonanzas
 borrowable
