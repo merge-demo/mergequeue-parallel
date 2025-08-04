@@ -5945,7 +5945,6 @@ belowground
 brandenburgs
 biggety
 broadpiece
-brontothere
 buffaloes
 beltane
 belauding
@@ -12607,6 +12606,7 @@ bisector
 bagatelle
 bills
 brainchild
+brontothere
 brigantine
 blackballer
 bloodroots
