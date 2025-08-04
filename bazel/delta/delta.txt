@@ -2050,7 +2050,6 @@ dreidls
 dermatotomy
 daikered
 devotion
-diarial
 dimedon
 demivierge
 debilities
@@ -16100,6 +16099,7 @@ deboshed
 doughier
 doughiest
 drawlingness
+diarial
 doughiness
 dwindle
 denshire
