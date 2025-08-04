@@ -11971,7 +11971,6 @@ diesels
 disembodiment
 disembodiments
 disembogued
-diarian
 deceases
 disembowel
 derout
@@ -15013,6 +15012,7 @@ diaspinae
 disarmature
 dogmatics
 disobstruct
+diarian
 dogbanes
 domestics
 dogberry
