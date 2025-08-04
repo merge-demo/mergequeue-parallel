@@ -3519,7 +3519,6 @@ capsulolenticular
 capsulopupillary
 chromospheres
 cuirie
-capsulorrhaphy
 convocationally
 capsulotomy
 coccoid
@@ -8273,6 +8272,7 @@ chalazium
 chandam
 curatical
 cellulomonas
+capsulorrhaphy
 causewayed
 chalazoidite
 cercarias
