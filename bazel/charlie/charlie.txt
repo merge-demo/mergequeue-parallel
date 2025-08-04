@@ -8948,7 +8948,6 @@ cremains
 charadrius
 charango
 chorioidal
-colibacillosis
 chuddars
 cotylophorous
 charases
@@ -23238,6 +23237,7 @@ cyamus
 cardiatomy
 coalitionist
 construes
+colibacillosis
 ciceroning
 constuctor
 circumstantiated
