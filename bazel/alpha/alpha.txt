@@ -5444,7 +5444,6 @@ aftercost
 aftercrop
 acanthodian
 aftercure
-affrontment
 afterdays
 afterdate
 antifoam
@@ -24201,6 +24200,7 @@ autocoids
 adactyl
 asemasia
 antepatriarchal
+affrontment
 automative
 antronasal
 acutenaculum
