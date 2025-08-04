@@ -4006,7 +4006,6 @@ carcinogenic
 carcinoid
 compartmental
 crystalloluminescence
-carcinolysin
 cycadiform
 carcinological
 carcinoma
@@ -24953,6 +24952,7 @@ cholagogue
 corbeils
 corbelled
 corbet
+carcinolysin
 corby
 cannet
 cystine
