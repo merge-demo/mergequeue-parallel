@@ -10116,6 +10116,7 @@ chessom
 claves
 chesstree
 cerias
+clammersome
 cosmopolitanly
 chest
 curing
@@ -10745,7 +10746,6 @@ chinche
 choise
 cytoarchitecture
 cataloger
-clammersome
 chincherinchee
 chromous
 classrooms
