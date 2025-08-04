@@ -12809,6 +12809,7 @@ angiotripsy
 angiotrophic
 aweto
 antiepicenter
+arachnactis
 angiport
 autoinductive
 anaemic
@@ -21358,7 +21359,6 @@ asparagic
 asparagyl
 antiglyoxalase
 asparagin
-arachnactis
 asparamic
 aproned
 astigmia
