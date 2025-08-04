@@ -3968,7 +3968,6 @@ chinee
 carcajou
 carcajous
 carcake
-carcanet
 carousel
 carcanetted
 carcases
@@ -16234,6 +16233,7 @@ cathedratical
 counterreligion
 cline
 clines
+carcanet
 caudexes
 clinger
 crankness
