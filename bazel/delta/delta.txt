@@ -2910,7 +2910,6 @@ dedd
 dedecorous
 divide
 desmodont
-duodecimomos
 dedicant
 dedicatee
 dichotic
@@ -8318,6 +8317,7 @@ dispossess
 droob
 dissimile
 defocus
+duodecimomos
 diagraphs
 diagredium
 dermatopathia
