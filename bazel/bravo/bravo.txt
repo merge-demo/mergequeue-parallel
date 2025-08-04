@@ -3500,6 +3500,7 @@ brabbling
 balotade
 blue
 byroads
+bubastid
 batfishes
 biri
 bondholder
@@ -16549,7 +16550,6 @@ beefish
 bubals
 bragget
 belling
-bubastid
 backorder
 blightingly
 bubby
