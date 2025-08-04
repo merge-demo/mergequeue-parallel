@@ -7887,6 +7887,7 @@ driveways
 dewclaws
 diaphonia
 dites
+ductor
 dianthus
 dewdamp
 dioestrus
@@ -17834,7 +17835,6 @@ ductless
 drinkable
 darktown
 darrell
-ductor
 dowdies
 ductules
 drawlatch
