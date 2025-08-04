@@ -9891,7 +9891,6 @@ countess
 chemitypy
 chancrous
 chemizo
-colligated
 cornucopia
 chastizer
 curiological
@@ -26533,6 +26532,7 @@ conjecturable
 cheverons
 coucal
 couchancy
+colligated
 couchant
 couths
 clothesmen
