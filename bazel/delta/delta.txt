@@ -7876,6 +7876,7 @@ distemonous
 dewaters
 drofland
 disard
+disputator
 desmocyte
 dispenser
 dihydrogen
@@ -13353,7 +13354,6 @@ deflators
 disputatiously
 disputatiousness
 dishorse
-disputator
 disputeful
 dacrydium
 disfeature
