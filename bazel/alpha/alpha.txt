@@ -12226,7 +12226,6 @@ ancyrean
 accentuating
 ancistrocladaceous
 ancistroid
-ancodont
 anubing
 ancoly
 ancome
@@ -15418,6 +15417,7 @@ antimediaevalist
 antimediaevally
 antimedical
 antimedicine
+ancodont
 anaptomorphidae
 antimedievalism
 antimedievally
