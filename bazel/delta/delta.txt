@@ -9968,6 +9968,7 @@ dimetry
 densimetry
 dimyaria
 downwardness
+detects
 dimidiate
 dispart
 dimidiation
@@ -15843,7 +15844,6 @@ dorsiflex
 does
 dorsiflexion
 deuteron
-detects
 daffodowndilly
 deluge
 dissertations
