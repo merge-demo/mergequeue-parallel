@@ -14855,6 +14855,7 @@ doctorize
 distinctness
 distributive
 diallage
+dubiousness
 doctorless
 diffusibly
 disorderly
@@ -17732,7 +17733,6 @@ discoloredness
 discriminateness
 derivate
 debugs
-dubiousness
 deportees
 delegative
 dubitable
