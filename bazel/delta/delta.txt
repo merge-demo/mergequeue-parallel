@@ -6399,7 +6399,6 @@ derodidymus
 derog
 demeanour
 doronicum
-derogate
 denuclearization
 derogates
 diglyceride
@@ -17853,6 +17852,7 @@ devoutless
 denervate
 dabb
 dudgen
+derogate
 duole
 desubstantialize
 dunst
