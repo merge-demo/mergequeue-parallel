@@ -2528,7 +2528,6 @@ algesic
 acopyrine
 acopon
 acor
-acorea
 atomistic
 aecidia
 acorus
@@ -24263,6 +24262,7 @@ autopepsia
 astrophysical
 autophagous
 autophyte
+acorea
 autophytic
 albespyne
 aberdonian
