@@ -6238,7 +6238,6 @@ blackboy
 brittlestem
 basidiolichenes
 breedling
-benin
 bebop
 balloonist
 brats
@@ -13885,6 +13884,7 @@ bitbrace
 boloball
 bowleg
 bowleggedness
+benin
 beedi
 bowles
 balwarra
