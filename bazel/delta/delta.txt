@@ -1528,7 +1528,6 @@ deactivation
 deactivators
 distressedness
 doublure
-deadlier
 deaden
 droops
 docked
@@ -6533,6 +6532,7 @@ despert
 dekameter
 diffracting
 deschool
+deadlier
 decretals
 dirtbird
 devocalise
