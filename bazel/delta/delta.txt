@@ -6184,7 +6184,6 @@ derelicts
 doeuvre
 droshkies
 dolours
-detailedly
 derelinquish
 decrepitness
 derencephalus
@@ -12137,6 +12136,7 @@ dp
 deutoscolex
 deescalates
 dorbie
+detailedly
 disparager
 delusion
 dognaps
