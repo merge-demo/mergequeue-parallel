@@ -10437,6 +10437,7 @@ antshrike
 ametropia
 ametrous
 amhar
+acalycinous
 afterbirths
 alcade
 amharic
@@ -11262,7 +11263,6 @@ amidoazobenzene
 aminoformic
 amphirhinal
 antiprecipitin
-acalycinous
 amphisarca
 aqua
 aperitifs
