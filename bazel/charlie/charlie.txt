@@ -24929,7 +24929,6 @@ coranto
 crazier
 caproate
 cynopodous
-corolliform
 cocaigne
 caulophyllum
 componentwise
@@ -29021,6 +29020,7 @@ countersecurity
 chesterlite
 criminalistics
 criminality
+corolliform
 circulatory
 criminally
 comestibles
