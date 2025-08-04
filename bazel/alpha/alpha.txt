@@ -6148,7 +6148,6 @@ avengers
 abrim
 agon
 agonal
-aurorae
 agoniada
 antiparabema
 ascendency
@@ -12057,6 +12056,7 @@ anathematising
 alchemize
 antambulacral
 accepter
+aurorae
 anticonstitutionalism
 anathematize
 aegeriid
