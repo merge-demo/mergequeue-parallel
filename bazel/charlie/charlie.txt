@@ -5057,7 +5057,6 @@ carvoepra
 carwash
 clamatorial
 carwashes
-chider
 carzey
 casablanca
 casalty
@@ -10909,6 +10908,7 @@ chipwood
 chiquito
 clavate
 chiral
+chider
 clerids
 cardstock
 contortioned
