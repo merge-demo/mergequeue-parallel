@@ -13286,7 +13286,6 @@ anisopetalous
 abassin
 anisophylly
 anisophyllous
-afterchurch
 atbash
 apace
 anisopod
@@ -20585,6 +20584,7 @@ anencephaly
 abdaria
 appete
 abruptiones
+afterchurch
 arthroplastic
 archness
 arthropodal
