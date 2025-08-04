@@ -17314,7 +17314,6 @@ cephalemia
 coannexed
 coannexes
 coannihilate
-clarions
 corresol
 churrigueresque
 coapparition
@@ -18428,6 +18427,7 @@ cognizance
 chetrums
 cognizant
 cognize
+clarions
 conveyancer
 cognized
 cognizes
