@@ -740,7 +740,6 @@ antivaccination
 abrade
 angaralite
 accourt
-aphid
 amurca
 acceptingness
 aureoling
@@ -7851,6 +7850,7 @@ alefzero
 alehouse
 averrable
 amor
+aphid
 aleikoum
 alboranite
 accidentality
