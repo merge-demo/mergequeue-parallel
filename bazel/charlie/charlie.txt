@@ -2351,7 +2351,6 @@ cranesbill
 canangium
 chaetognathous
 cicer
-carby
 canap
 consummator
 cabriole
@@ -6888,6 +6887,7 @@ cytologist
 cellulitis
 cellulofibrous
 celluloid
+carby
 confabbing
 cellulomonadeae
 chartaceous
