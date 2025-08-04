@@ -7248,6 +7248,7 @@ chymous
 centripetence
 centriscid
 clarine
+conspection
 centriscidae
 cups
 centriscoid
@@ -23062,7 +23063,6 @@ conspecies
 crenotherapy
 cotula
 conspecific
-conspection
 coccosphere
 conspectus
 cullying
