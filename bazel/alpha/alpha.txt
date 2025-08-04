@@ -3451,7 +3451,6 @@ addle
 adenosis
 acyloxymethane
 addlebrained
-allegation
 addlehead
 arisaema
 addleheadedness
@@ -5306,6 +5305,7 @@ anticogitative
 afformative
 affrayers
 affraying
+allegation
 affrays
 affranchise
 affreightment

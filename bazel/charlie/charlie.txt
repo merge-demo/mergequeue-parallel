@@ -22533,7 +22533,6 @@ conjurations
 cesar
 conjured
 conjurement
-canel
 championlike
 conjures
 conjuring
@@ -30168,6 +30167,7 @@ chimango
 clachs
 chemicoengineering
 cruciferae
+canel
 crucify
 crucificial
 counterbond
