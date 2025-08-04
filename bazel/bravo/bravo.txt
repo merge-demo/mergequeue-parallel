@@ -908,6 +908,7 @@ bandyball
 bardiglio
 bismarine
 boscage
+beltian
 bagrationite
 bagre
 berryless
@@ -2933,7 +2934,6 @@ boundaries
 boobishness
 blobby
 barricaded
-beltian
 benedicts
 barricaders
 barricadoes
