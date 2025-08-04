@@ -8067,7 +8067,6 @@ colloquy
 catsup
 civilianization
 cragged
-caryophyllaceous
 chador
 chadors
 chaenolobus
@@ -15928,6 +15927,7 @@ clinium
 camauro
 cleithral
 cicatrisate
+caryophyllaceous
 cannabinaceae
 choree
 comedown
