@@ -5866,6 +5866,7 @@ bellyman
 biunique
 biogenetical
 bunty
+battel
 balopticon
 bellmaking
 banquo
@@ -8819,7 +8820,6 @@ bumpered
 bondman
 binnogue
 blink
-battel
 backstrap
 bepill
 binocularly
