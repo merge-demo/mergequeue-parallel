@@ -6293,7 +6293,6 @@ benshi
 benson
 briefs
 brandsolder
-becassine
 bentgrass
 beshames
 brachycatalectic
@@ -13992,6 +13991,7 @@ biophagous
 brabble
 brabblers
 bismuthiferous
+becassine
 beep
 bicycling
 boxmaking
