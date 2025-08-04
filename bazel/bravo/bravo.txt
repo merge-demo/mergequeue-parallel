@@ -3609,7 +3609,6 @@ became
 bolting
 batistes
 beastly
-batlet
 batlike
 bifanged
 boards
@@ -9057,6 +9056,7 @@ bemire
 brickmaking
 bethumps
 bunching
+batlet
 bearbaiting
 biopoiesis
 bonzery
