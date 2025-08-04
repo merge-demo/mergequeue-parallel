@@ -16030,7 +16030,6 @@ autoexcitation
 anaptyxes
 antiricin
 antiritualist
-autoradiographic
 antiromantic
 antirrhinum
 arbitrages
@@ -16734,6 +16733,7 @@ aphanitic
 aphetize
 armours
 aphidivorous
+autoradiographic
 aphidlion
 aphidolysin
 aphidozer
