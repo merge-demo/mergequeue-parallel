@@ -3104,7 +3104,6 @@ demiseason
 disadvantaging
 defamations
 defamatory
-dipygus
 diseaseful
 daubing
 dentated
@@ -4482,6 +4481,7 @@ demesnes
 declarers
 disentitle
 doctrinalism
+dipygus
 dingey
 demesnial
 decrypting
