@@ -8470,7 +8470,6 @@ affrayed
 antejentacular
 alkaliser
 adjoint
-audivise
 acerbic
 angustate
 animator
@@ -18375,6 +18374,7 @@ actions
 araucarioxylon
 antisepticising
 arawa
+audivise
 arawak
 ankh
 arawakian
