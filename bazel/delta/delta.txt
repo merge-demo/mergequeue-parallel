@@ -1726,7 +1726,6 @@ duckpond
 dysenteric
 deathless
 decumaria
-deathlessness
 deathlikeness
 dundees
 deathliness
@@ -7261,6 +7260,7 @@ deterged
 desertlike
 dilettantship
 dendrachate
+deathlessness
 dishware
 disconcertedly
 decliner
