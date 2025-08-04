@@ -7387,7 +7387,6 @@ discount
 demoniacally
 demiadult
 detonating
-decenyl
 detonation
 digest
 disowned
@@ -12939,6 +12938,7 @@ downswing
 dowment
 deniability
 dimensionless
+decenyl
 disomatic
 doubtmonger
 dognaping
