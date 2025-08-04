@@ -2417,6 +2417,7 @@ adoxography
 acknowledger
 anaerobia
 aconic
+afterhatch
 acknowledgers
 aistopodes
 archwife
@@ -12926,7 +12927,6 @@ addictively
 anguine
 anguineal
 anguiped
-afterhatch
 acutes
 anguishes
 adjuvants
