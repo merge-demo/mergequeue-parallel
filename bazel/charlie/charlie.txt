@@ -1169,6 +1169,7 @@ concaves
 calculator
 calculatory
 calculators
+confitent
 chorically
 calculer
 causationist
@@ -27056,7 +27057,6 @@ counterpull
 counterpuncture
 counterpush
 counterquartered
-confitent
 caneva
 celibatarian
 counterraid
