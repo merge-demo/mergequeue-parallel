@@ -19858,6 +19858,7 @@ accessable
 armilla
 armillae
 armillary
+asserta
 armillaria
 annist
 achaemenidian
@@ -21684,7 +21685,6 @@ antiberiberin
 assents
 asseour
 assert
-asserta
 assertable
 asserted
 assagaied
