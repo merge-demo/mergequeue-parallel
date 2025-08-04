@@ -10398,7 +10398,6 @@ ailuromania
 amerveil
 acanthophis
 arendator
-actualizes
 abarticular
 acetates
 amesite
@@ -16633,6 +16632,7 @@ apertural
 athrob
 affrighter
 acid
+actualizes
 antihumanism
 alioth
 ammochryse
