@@ -905,7 +905,6 @@ bdellotomy
 bowstaff
 bagpipers
 bandyball
-bardiglio
 bismarine
 boscage
 beltian
@@ -2659,6 +2658,7 @@ backlins
 berrugate
 barm
 bollixes
+bardiglio
 begrimming
 bututs
 barmaster
