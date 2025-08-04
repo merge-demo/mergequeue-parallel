@@ -11822,6 +11822,7 @@ diegueno
 disembrangle
 deferrals
 dislodges
+descendibility
 discriminoid
 decemberly
 diacodion
@@ -12211,7 +12212,6 @@ disfoliage
 disrelate
 disfoliaged
 distich
-descendibility
 disherent
 disfortune
 dramatism

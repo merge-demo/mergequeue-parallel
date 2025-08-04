@@ -2617,7 +2617,6 @@ beduchess
 bescoundrel
 bantamweight
 birdhouses
-bilges
 barking
 botanise
 barkless
@@ -5376,6 +5375,7 @@ begrimed
 bandusian
 bedeafened
 begrimer
+bilges
 branchi
 begrimes
 begriming
