@@ -11812,6 +11812,7 @@ crystall
 consonantally
 chondroprotein
 cult
+colonette
 chondropterygian
 chondropterygious
 chondrosarcomatous
@@ -19305,7 +19306,6 @@ conductorless
 coloner
 cupuliferae
 colones
-colonette
 colongitude
 colony
 colonial
