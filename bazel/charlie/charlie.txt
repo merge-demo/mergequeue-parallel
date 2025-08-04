@@ -9895,6 +9895,7 @@ chancrous
 chemizo
 colligated
 cornucopia
+ctenodont
 chastizer
 curiological
 chemokinesis
@@ -30448,7 +30449,6 @@ chiefless
 copelate
 cascables
 cellulocutaneous
-ctenodont
 cellulifugally
 ctenodus
 coffinite
