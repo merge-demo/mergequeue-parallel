@@ -2956,7 +2956,6 @@ deducibility
 deducibly
 drawstop
 deducted
-doxycycline
 debunking
 deductible
 deciduata
@@ -4355,6 +4354,7 @@ daubster
 diamondiferous
 diacritical
 dods
+doxycycline
 demagogical
 dura
 dichogamic
