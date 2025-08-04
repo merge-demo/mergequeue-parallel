@@ -2267,7 +2267,6 @@ canadianize
 compassionable
 catchwords
 counterlathing
-centaurus
 canadine
 corresponds
 canadite
@@ -26148,6 +26147,7 @@ cercopidae
 cosmonautical
 countdowns
 cosmonautically
+centaurus
 creekside
 cervelat
 cosmonauts
