@@ -615,7 +615,6 @@ bacteriocin
 bathylite
 bostangi
 bastiment
-bacteriodiagnosis
 bromates
 benomyls
 behearse
@@ -1730,6 +1729,7 @@ bulbels
 belittled
 baladine
 balsamation
+bacteriodiagnosis
 blasthole
 balsaminaceae
 beneplacit
