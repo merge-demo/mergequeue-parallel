@@ -216,6 +216,7 @@ daffier
 discussing
 defection
 daffiness
+date
 daffing
 daffodilly
 drifted
@@ -6736,7 +6737,6 @@ dispeopled
 didunculus
 decapetalous
 disacidify
-date
 designatum
 designedly
 designedness
