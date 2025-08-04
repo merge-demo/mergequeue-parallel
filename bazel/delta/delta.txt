@@ -706,7 +706,6 @@ danceability
 danceable
 demoniacs
 danced
-diddled
 debauchment
 degasification
 dancers
@@ -15682,6 +15681,7 @@ demobilisation
 determine
 dopchick
 dopebook
+diddled
 demonstrator
 discased
 distemperance
