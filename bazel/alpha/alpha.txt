@@ -6790,7 +6790,6 @@ airified
 airiness
 arecales
 atmolyses
-anacamptometer
 airish
 acerbophobia
 airless
@@ -21551,6 +21550,7 @@ aristoi
 algolagnist
 asquare
 anlage
+anacamptometer
 approvable
 asquint
 anallagmatis

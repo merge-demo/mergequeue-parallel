@@ -13141,6 +13141,7 @@ cibolero
 cibols
 columnea
 ciboney
+compline
 cibophobia
 cryptocarpic
 cyborg
@@ -22975,7 +22976,6 @@ chili
 cive
 cryptic
 coracoids
-compline
 consocies
 caustified
 consolations
