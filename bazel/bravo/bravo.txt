@@ -6330,7 +6330,6 @@ battens
 benzacridine
 baltic
 benzalacetone
-benzalacetophenone
 bonum
 benzalazine
 benzalcohol
@@ -18309,6 +18308,7 @@ buttoners
 buttonholder
 bedel
 bennis
+benzalacetophenone
 bilirubinemia
 bowlegs
 buttony
