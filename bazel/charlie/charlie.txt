@@ -28011,7 +28011,6 @@ crayon
 crayoning
 crayonist
 crayonists
-chalkosideric
 cinnamomic
 concoctor
 cancel
@@ -29115,6 +29114,7 @@ crinkles
 crinkly
 chloroacetate
 carcassless
+chalkosideric
 crinklier
 czarisms
 concretization
