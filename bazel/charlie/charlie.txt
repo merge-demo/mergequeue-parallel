@@ -1375,6 +1375,7 @@ chinos
 cheven
 chutneys
 chantages
+clopping
 caliga
 caligate
 caligation
@@ -7731,6 +7732,7 @@ corambis
 chloroplatinite
 cermet
 cyamid
+conventicular
 ciceros
 caramelising
 cermets
@@ -15604,7 +15606,6 @@ classificator
 culicidae
 classificatory
 classified
-clopping
 cotwinned
 censive
 curriers
@@ -15756,6 +15757,7 @@ claviger
 carshops
 clavilux
 coy
+comodo
 carlisle
 clavipectoral
 chips
@@ -24009,7 +24011,6 @@ convented
 coelicolist
 cylinderlike
 conventicle
-conventicular
 convention
 conventional
 cutlassfish
@@ -27309,7 +27310,6 @@ couponless
 coupons
 coups
 chemicking
-comodo
 circumciser
 coupstick
 coupure
