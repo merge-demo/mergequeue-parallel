@@ -3795,7 +3795,6 @@ acetabuliform
 adipinic
 autotransplant
 adipocellulose
-adipocere
 adipoceriform
 adipoid
 angiology
@@ -12440,6 +12439,7 @@ anelectrode
 appui
 anelectrotonus
 ahmadiya
+adipocere
 antidotically
 akeki
 anilic
