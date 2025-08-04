@@ -4853,7 +4853,6 @@ carri
 cetaceous
 carry
 carriage
-carriageable
 carriageful
 clachans
 carriages
@@ -28241,6 +28240,7 @@ crapple
 capreolus
 cyclometries
 counteragitation
+carriageable
 crapshooters
 crumlet
 colchyte
