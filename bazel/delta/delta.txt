@@ -13340,6 +13340,7 @@ dotters
 decident
 diactinal
 dariole
+danaide
 disputacity
 disfen
 delayers
@@ -18663,7 +18664,6 @@ descendance
 diligently
 disobey
 dioptral
-danaide
 dwale
 draffiest
 dwalm
