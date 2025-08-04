@@ -384,6 +384,7 @@ daimyo
 dawdlers
 dreadness
 daimios
+diviners
 dadap
 daimyos
 drinkers
@@ -12695,7 +12696,6 @@ dishmaker
 dogger
 desexualize
 deformities
-diviners
 doxologically
 diacids
 duane
