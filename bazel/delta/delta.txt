@@ -3711,6 +3711,7 @@ dehair
 denudates
 desuetude
 defiantly
+dolor
 dozinesses
 dehydrate
 dehydrates
@@ -5338,7 +5339,6 @@ dialkylamine
 distitle
 defiant
 donis
-dolor
 dentatoserrate
 decennary
 disputable
