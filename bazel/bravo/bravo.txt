@@ -4501,7 +4501,6 @@ blankest
 brigadiership
 burnsides
 becudgelling
-batata
 balushai
 becudgels
 befleaing
@@ -12129,6 +12128,7 @@ bannets
 basti
 bannition
 boldos
+batata
 besmutch
 bealing
 boldu
