@@ -9711,7 +9711,6 @@ cheesemongery
 cheesemongering
 cheeseparer
 canaster
-cerebrasthenic
 caravaning
 cheeseparing
 cheesewood
@@ -18590,6 +18589,7 @@ coignes
 cutted
 condenseries
 coigny
+cerebrasthenic
 coequalize
 callitrichidae
 coigue
