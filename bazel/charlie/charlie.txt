@@ -8205,7 +8205,6 @@ cleanups
 cattiest
 chainsmith
 chimneyed
-chainwale
 coldslaw
 countertrades
 calliophone
@@ -9692,6 +9691,7 @@ catholiciser
 cheeros
 castoroides
 coinfer
+chainwale
 cafuso
 cheesebox
 cheeseburger
