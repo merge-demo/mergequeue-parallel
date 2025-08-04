@@ -20500,6 +20500,7 @@ compass
 compassability
 compassable
 compassed
+clodpates
 cotham
 cobwebbiest
 compasses
@@ -24326,7 +24327,6 @@ cooky
 cookie
 cookishly
 colloquia
-clodpates
 convert
 charbroiling
 coconstituent
