@@ -7728,7 +7728,6 @@ bullan
 breakover
 brocard
 bhindi
-bowstave
 bhishti
 bhistie
 bhisties
@@ -16202,6 +16201,7 @@ browned
 buscarl
 brandishers
 brownest
+bowstave
 bednighted
 brownies
 bricklining
