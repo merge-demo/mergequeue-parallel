@@ -6941,7 +6941,6 @@ dunamis
 despairfully
 despairing
 desparple
-disturber
 downsinking
 decadation
 despatches
@@ -11762,6 +11761,7 @@ debtor
 discreetly
 declarant
 didler
+disturber
 disobligatory
 dioscorine
 discrepancies
