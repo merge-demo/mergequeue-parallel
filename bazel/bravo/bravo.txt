@@ -5166,7 +5166,6 @@ broiler
 butles
 bluebead
 bordereau
-befretting
 befume
 buoyage
 befriended
@@ -8067,6 +8066,7 @@ bartend
 bagroom
 belligerents
 bicornuate
+befretting
 bicornute
 beshadow
 bicorporate

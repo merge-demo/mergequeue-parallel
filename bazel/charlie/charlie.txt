@@ -2288,6 +2288,7 @@ canaille
 canailles
 cymoid
 chargeship
+chirographer
 commonwealth
 cytopahgous
 canakin
@@ -24263,7 +24264,6 @@ const
 criminated
 cerebritis
 crescendi
-chirographer
 confessing
 chaka
 craniostenosis
