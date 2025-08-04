@@ -4896,6 +4896,7 @@ archagitator
 anoestrus
 aerolite
 argumentatory
+arauan
 apterygogenea
 aeroides
 astrogator
@@ -18364,7 +18365,6 @@ arase
 aragonite
 arati
 araua
-arauan
 araucanian
 araucaria
 anarchize

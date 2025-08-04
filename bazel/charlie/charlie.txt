@@ -2440,7 +2440,6 @@ cancha
 canchalagua
 cropsickness
 cherubically
-cancion
 cancionero
 canciones
 cancri
@@ -7601,6 +7600,7 @@ cowan
 charpie
 cerebellocortex
 cerebellorubral
+cancion
 cerebellum
 creator
 cleidarthritis
