@@ -781,7 +781,6 @@ cahier
 corniche
 chunking
 cristae
-cahincic
 cahita
 coprophagan
 continency
@@ -29092,6 +29091,7 @@ compter
 cringingness
 chookie
 chlorophylliferous
+cahincic
 cornflour
 cringle
 chlorometric
