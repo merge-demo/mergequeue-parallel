@@ -2327,7 +2327,6 @@ brighteners
 barbiton
 barbituism
 barbituric
-bluetick
 barbiturism
 barreler
 benzoperoxide
@@ -4336,6 +4335,7 @@ beche
 becheck
 bibliotherapeutic
 befool
+bluetick
 bechic
 bechignoned
 bacchanalize

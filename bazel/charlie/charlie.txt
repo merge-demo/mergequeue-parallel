@@ -7334,7 +7334,6 @@ characterizations
 cholangioitis
 crisis
 cepaceous
-cepe
 crossroads
 cepes
 civ
@@ -14780,6 +14779,7 @@ city
 citybuster
 citicorp
 canamary
+cepe
 closen
 culler
 coursy
