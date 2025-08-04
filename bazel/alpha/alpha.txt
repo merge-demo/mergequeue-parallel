@@ -19944,6 +19944,7 @@ araliophyllum
 applauding
 archdeanery
 acclimatization
+aquatically
 aryballos
 armplate
 armrack
@@ -22006,7 +22007,6 @@ adhesives
 abecedaria
 astereognosis
 asteriidae
-aquatically
 admirance
 achromatophilic
 abaculus
