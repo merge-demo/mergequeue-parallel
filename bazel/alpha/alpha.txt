@@ -1370,7 +1370,6 @@ awingly
 accentors
 accents
 auxillary
-accentual
 accentually
 appertise
 accension
@@ -5110,6 +5109,7 @@ aetiologue
 affreux
 aetiotropically
 aetites
+accentual
 aetobatidae
 ancien
 aphoria
