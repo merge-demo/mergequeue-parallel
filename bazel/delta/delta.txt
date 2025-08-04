@@ -4722,6 +4722,7 @@ duello
 demitranslucence
 demits
 demitted
+disgarnish
 denticulately
 dilutive
 duties
@@ -12250,7 +12251,6 @@ deathshot
 dervishes
 disfurniture
 donax
-disgarnish
 descartes
 deliberativeness
 dossiere
