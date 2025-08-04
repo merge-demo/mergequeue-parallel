@@ -372,7 +372,6 @@ backfriend
 bottegas
 backgame
 backgammon
-barbarical
 barwares
 breaststroke
 background
@@ -13966,6 +13965,7 @@ boxroom
 bromatium
 barwise
 bacteriofluorescin
+barbarical
 backstage
 borghese
 brooders
