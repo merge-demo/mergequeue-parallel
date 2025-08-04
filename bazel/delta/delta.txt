@@ -274,6 +274,7 @@ dagomba
 dagswain
 daguerreotype
 dolichopodous
+diphenylthiourea
 dhotee
 degermed
 dependently
@@ -7985,7 +7986,6 @@ deserver
 demological
 dextrolactic
 despotes
-diphenylthiourea
 dorosternal
 dextrolimonene
 dolorousness
