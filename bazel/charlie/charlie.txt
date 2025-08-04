@@ -21148,7 +21148,6 @@ coleopteran
 concededly
 couplets
 conceders
-concedes
 chao
 calchaquian
 crampfishes
@@ -25640,6 +25639,7 @@ completed
 corpuscularity
 corpuscule
 corpusculous
+concedes
 chairlift
 corradial
 corradiate
