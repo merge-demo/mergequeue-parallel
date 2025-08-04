@@ -15101,7 +15101,6 @@ doggo
 distinguisher
 dehors
 determinable
-doggonest
 doggoning
 detant
 dislady
@@ -16589,6 +16588,7 @@ draghound
 darwinian
 diplostemony
 dragline
+doggonest
 dragman
 durant
 dragoman
