@@ -3711,7 +3711,6 @@ canvasback
 cucumaria
 carara
 cheneaux
-carat
 computability
 changos
 coconspirator
@@ -28533,6 +28532,7 @@ countercampaign
 croomia
 cueva
 cystines
+carat
 credentials
 credently
 crawleyroot
