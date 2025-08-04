@@ -22766,7 +22766,6 @@ announces
 antidyscratic
 atomic
 alkalemia
-atomically
 atomician
 ambroids
 assimilative
@@ -25046,6 +25045,7 @@ andranatomy
 awoken
 awols
 archistome
+atomically
 almah
 awork
 aworry
