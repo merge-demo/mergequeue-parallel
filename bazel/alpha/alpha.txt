@@ -16078,7 +16078,6 @@ albatross
 articling
 apomictic
 antisensitizing
-antiseptic
 actinomycese
 asseverate
 antiseptically
@@ -19533,6 +19532,7 @@ aphanitism
 asbestic
 ary
 aria
+antiseptic
 angas
 antasphyctic
 autoslip
