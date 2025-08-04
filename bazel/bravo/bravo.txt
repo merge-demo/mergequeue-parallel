@@ -12852,7 +12852,6 @@ birkies
 baresarks
 bedelve
 beware
-bucketeer
 boomster
 boomtown
 beauts
@@ -17239,6 +17238,7 @@ bolographically
 bumblers
 bumbles
 bootlaces
+bucketeer
 bumbling
 bumbo
 blueball
