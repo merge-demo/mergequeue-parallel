@@ -13139,7 +13139,6 @@ detonates
 desynonymization
 dispersers
 disperses
-dispersibility
 dissolution
 dentilabial
 daces
@@ -16571,6 +16570,7 @@ dragger
 draggers
 draggier
 diacritics
+dispersibility
 drearier
 destinies
 delomorphous
