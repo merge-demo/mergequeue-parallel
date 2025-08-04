@@ -6600,7 +6600,6 @@ dhooti
 delimits
 desegmentation
 dynamiters
-desegmented
 damoiselle
 dirdum
 disordination
@@ -9053,6 +9052,7 @@ disowns
 decerebrated
 dicotyls
 distortive
+desegmented
 debel
 dicots
 dicoumarin
