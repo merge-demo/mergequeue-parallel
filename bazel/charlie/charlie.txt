@@ -23549,6 +23549,7 @@ cochranea
 contingence
 carpenter
 calving
+colophonate
 credo
 contingential
 contingentialness
@@ -25804,7 +25805,6 @@ corrosives
 chironomy
 calcars
 corrosivity
-colophonate
 cinclidotus
 corrugant
 corrugate
