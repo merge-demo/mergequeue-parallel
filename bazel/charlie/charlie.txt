@@ -6829,7 +6829,6 @@ celioscope
 cella
 cellarage
 cellared
-chamoix
 cellaress
 chanceable
 caudal
@@ -8302,6 +8301,7 @@ chalcography
 caucho
 chalcographic
 chalcographical
+chamoix
 chalcographist
 chalcolithic
 coadunation
