@@ -6367,7 +6367,6 @@ dermoneurosis
 decent
 downtrod
 discordful
-dolus
 discontinuing
 dislimn
 divorcing
@@ -9839,6 +9838,7 @@ dejectile
 diapaused
 discanonize
 debcle
+dolus
 disrupture
 descendingly
 dillymen
