@@ -3753,7 +3753,6 @@ depot
 domitic
 delegated
 disprove
-desmitis
 dehkan
 durmasts
 decimate
@@ -15258,6 +15257,7 @@ dendrobium
 dybbukim
 dishouse
 dolichocranial
+desmitis
 duopolistic
 dolichopsyllidae
 dolichosauri
