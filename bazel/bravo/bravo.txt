@@ -12567,6 +12567,7 @@ beauing
 bistroic
 bonitarian
 bonity
+batheable
 bullhide
 boroughlet
 bemocks
@@ -14259,7 +14260,6 @@ brens
 branchiosaur
 binnite
 bobber
-batheable
 bouillon
 bigotry
 begrudger
