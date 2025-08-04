@@ -3352,7 +3352,6 @@ bassalia
 bootable
 brythonic
 baculum
-benzilic
 bassan
 bassanite
 biotechnics
@@ -13915,6 +13914,7 @@ bulbaceous
 bowshots
 bombarder
 backstopped
+benzilic
 backhauled
 billback
 burka
