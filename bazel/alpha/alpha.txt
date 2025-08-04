@@ -9140,6 +9140,7 @@ anticaste
 almacigo
 anaspid
 amphiarthrosis
+autoscope
 alman
 authenticatable
 afterchance
@@ -24367,7 +24368,6 @@ antialexin
 agoraphobia
 ankylomele
 arksutite
-autoscope
 autoscopic
 atrabiliar
 antivivisection
