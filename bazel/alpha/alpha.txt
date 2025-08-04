@@ -3853,7 +3853,6 @@ adjoinedly
 analphabetism
 apprises
 amalgamating
-adjoiner
 allioniaceae
 adjoints
 apieces
@@ -11878,6 +11877,7 @@ anapaestically
 ancientness
 ataraxic
 anew
+adjoiner
 amenism
 anapaite
 aviational

@@ -14504,7 +14504,6 @@ degauss
 diphyzooid
 devitaminize
 deliveries
-drouk
 douter
 decemviri
 duumvirate
@@ -17768,6 +17767,7 @@ diagraph
 dorsigrade
 dwining
 dopesheet
+drouk
 disembroil
 democrats
 damper
