@@ -392,7 +392,6 @@ defension
 deployable
 disembargoing
 dimmet
-daimons
 ditches
 divineness
 dehydrogenization
@@ -946,6 +945,7 @@ dueful
 dadaistically
 drolushness
 detonational
+daimons
 departed
 dizzardly
 dardan
