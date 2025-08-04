@@ -11591,6 +11591,7 @@ dermococcus
 disconnecting
 disconnection
 diplococcic
+digitalein
 disconnector
 demicannon
 disconnects
@@ -14584,7 +14585,6 @@ divisively
 develope
 decomposition
 divisor
-digitalein
 desalinize
 divergenge
 dondine
