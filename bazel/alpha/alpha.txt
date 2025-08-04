@@ -15541,6 +15541,7 @@ aquage
 artiodactyl
 apsychia
 altrose
+aeration
 antimoralistic
 antimorality
 antimusical
@@ -16817,7 +16818,6 @@ aphthong
 aporose
 admittedly
 asphalted
-aeration
 anaerobe
 appenage
 apiaca

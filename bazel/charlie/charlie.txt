@@ -1290,6 +1290,7 @@ caliber
 compulsatory
 calibers
 colunar
+chanceless
 calibrated
 calibrater
 calibrates
@@ -8581,7 +8582,6 @@ chancefulness
 chancey
 chanceled
 cardiacea
-chanceless
 cestoda
 chancelloress
 copybook
