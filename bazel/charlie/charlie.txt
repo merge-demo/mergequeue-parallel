@@ -9172,7 +9172,6 @@ chartermaster
 charters
 cryptograms
 cindered
-chartist
 chartless
 caricatured
 chartography
@@ -19049,6 +19048,7 @@ combattant
 collembola
 collembole
 cokernut
+chartist
 collembolous
 checkweighman
 collenchyme
