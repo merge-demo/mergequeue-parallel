@@ -5943,7 +5943,6 @@ decompression
 demultiplexed
 dishling
 dollmaking
-demagnetizer
 depressional
 dulia
 depressions
@@ -7117,6 +7116,7 @@ desynchronizing
 demonstratable
 destroy
 divisionally
+demagnetizer
 dollops
 dietical
 dolthead
