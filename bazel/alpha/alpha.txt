@@ -15404,7 +15404,6 @@ antiprogressive
 androlepsy
 asslike
 antimason
-antimasonry
 antimasque
 antimasquer
 afterstrain
@@ -24123,6 +24122,7 @@ autohypnotically
 acemetae
 anomic
 abscessing
+antimasonry
 autoimmunity
 appledrone
 appealability
