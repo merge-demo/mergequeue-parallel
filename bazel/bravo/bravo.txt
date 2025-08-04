@@ -9772,7 +9772,6 @@ blemish
 bemixing
 biophysicochemical
 bathhouses
-bystreet
 bystreets
 bistres
 boeotarch
@@ -16822,6 +16821,7 @@ bioecology
 bubalises
 bietle
 bucketman
+bystreet
 black
 baillonella
 buffier
