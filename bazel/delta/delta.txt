@@ -2571,7 +2571,6 @@ detoured
 dermobranchia
 durable
 decartelized
-declutch
 divise
 duad
 discouragements
@@ -18290,6 +18289,7 @@ detrains
 dioptrics
 dialyzability
 demijohn
+declutch
 demiourgoi
 dingledangle
 disintegration
