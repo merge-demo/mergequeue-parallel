@@ -1906,7 +1906,6 @@ bandanas
 bergama
 bandogs
 bediademed
-barken
 bandoleer
 burlesquely
 backhoes
@@ -8194,6 +8193,7 @@ boone
 battailous
 bluebuck
 biethnic
+barken
 binds
 baryes
 baccar
