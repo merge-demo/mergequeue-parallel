@@ -17567,6 +17567,7 @@ amenities
 ancillaries
 appendicularia
 aboulias
+astrobiologies
 azygosperm
 appendiculate
 alectoris
@@ -22235,7 +22236,6 @@ asynartete
 ableeze
 arterials
 autopsychology
-astrobiologies
 alrighty
 afterdrops
 androseme
