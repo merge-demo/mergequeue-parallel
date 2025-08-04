@@ -6920,7 +6920,6 @@ barchan
 bitumed
 brandywine
 besetment
-besetters
 blessed
 besew
 borghi
@@ -17541,6 +17540,7 @@ bureaucratizing
 brisket
 buret
 bodock
+besetters
 burets
 blowfishes
 bedirtied
