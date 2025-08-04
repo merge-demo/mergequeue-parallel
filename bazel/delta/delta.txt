@@ -11220,7 +11220,6 @@ dispersoidology
 dogmatized
 disbenched
 dispauperize
-disbenching
 dribblet
 decarbonylation
 dispair
@@ -12976,6 +12975,7 @@ dullhead
 dactylitis
 disordering
 drupal
+disbenching
 downwith
 decasyllables
 disordinance
