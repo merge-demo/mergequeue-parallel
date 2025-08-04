@@ -14906,7 +14906,6 @@ anticolic
 anticomment
 adiathermic
 appetizers
-abneural
 anticommercialism
 academical
 amoeboid
@@ -19096,6 +19095,7 @@ antiperistatically
 asexualise
 antialien
 arcite
+abneural
 adherences
 aeolsklavier
 anaerobes
