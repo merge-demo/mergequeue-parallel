@@ -5707,7 +5707,6 @@ brimmered
 belicoseness
 belie
 birler
-balausta
 belied
 borofluoric
 bridalty
@@ -12080,6 +12079,7 @@ bokhara
 baronized
 boronic
 bokharan
+balausta
 bokom
 bola
 bolag
