@@ -5273,7 +5273,6 @@ dens
 densate
 diogenean
 deerstealer
-deallocation
 dalapon
 densely
 daviely
@@ -18650,6 +18649,7 @@ discountenanced
 disseisor
 duvetines
 duvetynes
+deallocation
 dux
 desquamate
 devaporation
