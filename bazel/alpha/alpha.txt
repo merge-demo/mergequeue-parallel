@@ -15136,6 +15136,7 @@ appoggiature
 aggregating
 antievolution
 antievolutionary
+arethusas
 anteconsonantal
 antievolutionist
 alectoromorphae
@@ -19291,7 +19292,6 @@ arest
 aretaics
 arete
 automatist
-arethusas
 aretinian
 anticoagulating
 arew
