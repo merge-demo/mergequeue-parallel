@@ -2893,6 +2893,7 @@ degratia
 duopolies
 doughs
 decurvature
+deuterocone
 decus
 decarbonizing
 decuss
@@ -15750,7 +15751,6 @@ dyemaker
 deflectometer
 dakota
 dendrochronologist
-deuterocone
 diphosphid
 denunciation
 dismarch
