@@ -365,6 +365,7 @@ daylights
 deutomalar
 duoviri
 decise
+devise
 desalters
 dayman
 droughtiness
@@ -7748,7 +7749,6 @@ dram
 digger
 dysarthrosis
 defoliage
-devise
 dayton
 domiciliary
 diplotegia
