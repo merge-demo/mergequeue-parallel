@@ -500,6 +500,7 @@ cadencies
 cadencing
 casitas
 choosableness
+cyclose
 cadenette
 corregidores
 crumbers
@@ -10812,7 +10813,6 @@ chinny
 creedist
 chinnier
 chinniest
-cyclose
 chino
 caleches
 clorargyrite
