@@ -15656,7 +15656,6 @@ afterfriend
 antiparagraphe
 assalto
 antirun
-apolline
 aurothiosulphate
 antiparallel
 androidal
@@ -17513,6 +17512,7 @@ advantages
 acratia
 appeasing
 atalantis
+apolline
 archenemies
 appeasingly
 anthologists
