@@ -7233,7 +7233,6 @@ centrifugalize
 catawba
 clamors
 centrifugaller
-cladoceran
 centrifugate
 centrifuge
 centrifugence
@@ -10069,6 +10068,7 @@ chanoyu
 cherubfish
 cherubfishes
 cherubic
+cladoceran
 chowder
 cabernet
 cherubical
