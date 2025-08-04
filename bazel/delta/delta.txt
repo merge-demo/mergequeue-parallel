@@ -4203,7 +4203,6 @@ dunstable
 discolorization
 dicyanogen
 desynapsis
-dells
 distinct
 deserter
 dyspneic
@@ -12254,6 +12253,7 @@ disgarnish
 descartes
 deliberativeness
 dossiere
+dells
 demoniacism
 drubbing
 desegregate
