@@ -6796,7 +6796,6 @@ celibacy
 contrivancy
 costard
 celibatic
-conducent
 celibatist
 coroun
 celibatory
@@ -15262,6 +15261,7 @@ claiver
 crucigerous
 ceromancy
 claywares
+conducent
 clayweed
 caam
 colours
