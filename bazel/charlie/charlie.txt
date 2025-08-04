@@ -4554,7 +4554,6 @@ chartula
 coacervating
 citoler
 carnets
-carny
 coccostean
 capsule
 cotoxo
@@ -9600,6 +9599,7 @@ checksumming
 castro
 chromogenous
 catechize
+carny
 cubiculum
 capacitively
 checkweighmen
