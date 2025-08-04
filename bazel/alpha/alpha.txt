@@ -2846,7 +2846,6 @@ abiogeneses
 adati
 acronymic
 akvavits
-acronomy
 agonium
 apium
 abidal
@@ -3069,6 +3068,7 @@ anthrarufin
 amberous
 adonize
 antidicomarianite
+acronomy
 apocryphalist
 actinophrys
 actinopteran
