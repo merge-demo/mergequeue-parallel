@@ -15077,6 +15077,7 @@ analcimes
 abaci
 adjectivitis
 axofugal
+atomises
 administrator
 atrocious
 advential
@@ -22778,7 +22779,6 @@ accubation
 aunters
 antepagment
 atomised
-atomises
 atomism
 atomisms
 agathaumas
