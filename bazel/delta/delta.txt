@@ -797,6 +797,7 @@ dangerously
 deduced
 dangerousness
 distention
+demarcates
 dangle
 danglers
 deniable
@@ -4386,7 +4387,6 @@ deliberator
 dishonourableness
 ductal
 dispersonalize
-demarcates
 demandant
 demarcation
 daphnaceae
