@@ -5280,7 +5280,6 @@ cassette
 cacological
 cassy
 charabancs
-cichoraceous
 cassia
 cassicus
 cassidid
@@ -26384,6 +26383,7 @@ cotes
 cycloidian
 cerenkov
 cothon
+cichoraceous
 cothouse
 cothurn
 cothurnus
