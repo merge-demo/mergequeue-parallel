@@ -4674,7 +4674,6 @@ cronying
 carotinoid
 corespondency
 carotol
-carouba
 caroubier
 conjurership
 cryology
@@ -6362,6 +6361,7 @@ causerie
 causers
 causes
 cgm
+carouba
 crimison
 causeuses
 cannellated
