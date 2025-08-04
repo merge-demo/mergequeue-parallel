@@ -1396,6 +1396,7 @@ confisk
 cadmopone
 clochards
 carfuls
+chameleonize
 calinut
 chrismatories
 caliologist
@@ -11705,7 +11706,6 @@ cholla
 cryogen
 chollas
 choller
-chameleonize
 claries
 corruptness
 cholo
