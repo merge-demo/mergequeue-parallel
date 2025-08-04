@@ -4289,7 +4289,6 @@ dineros
 danseuses
 deltohedron
 dogvanes
-dauerlauf
 delubra
 deluce
 delude
@@ -17050,6 +17049,7 @@ doberman
 dressline
 dumas
 divinityship
+dauerlauf
 discumber
 denning
 draftily

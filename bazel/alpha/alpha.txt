@@ -15493,7 +15493,6 @@ arricci
 auxochromic
 astrophysics
 anthracnose
-abstracted
 angelot
 actualized
 arrack
@@ -21809,6 +21808,7 @@ assishly
 adapted
 aplacophoran
 accipter
+abstracted
 assistance
 agleam
 averring
