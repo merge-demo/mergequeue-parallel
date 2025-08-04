@@ -14229,7 +14229,6 @@ butterer
 birls
 bemadaming
 beteach
-bradytrophic
 bateman
 bousoukis
 britzkas
@@ -17022,6 +17021,7 @@ bulkage
 boldfaces
 burt
 bulkhead
+bradytrophic
 bulkheading
 bulky
 bulkier
