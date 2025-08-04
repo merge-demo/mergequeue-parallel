@@ -7095,7 +7095,6 @@ deriv
 dicyemid
 drowsed
 dissuasions
-deterrently
 domajig
 disintegrous
 destituent
@@ -14706,6 +14705,7 @@ describe
 dowers
 doxies
 disagrees
+deterrently
 dolent
 djuka
 diaskeuast
