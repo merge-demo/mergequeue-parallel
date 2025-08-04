@@ -1574,6 +1574,7 @@ chronographs
 callose
 crafts
 calloses
+coffrets
 callosities
 choleuria
 conductimetric
@@ -18308,7 +18309,6 @@ chalana
 convexes
 coffret
 chiming
-coffrets
 coffs
 cofighter
 cellmate
