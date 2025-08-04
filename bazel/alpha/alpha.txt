@@ -2066,6 +2066,7 @@ aeropulse
 autoscopy
 andantini
 acheron
+airmen
 apostematous
 acheronian
 achroous
@@ -24248,7 +24249,6 @@ autonym
 aceldama
 autonomasy
 afeard
-airmen
 alliteral
 autonomy
 amusing
