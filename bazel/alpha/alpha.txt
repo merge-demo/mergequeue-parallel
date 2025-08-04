@@ -5896,7 +5896,6 @@ altimettrically
 aggrandizable
 afterglows
 aggrandize
-aggrandizement
 assiento
 athlete
 arborization
@@ -11558,6 +11557,7 @@ alveolae
 alefnull
 albinoism
 anacephalize
+aggrandizement
 amanitin
 aiery
 anacharis
