@@ -5249,6 +5249,7 @@ champacs
 cassan
 cyans
 chefdom
+cystoscopic
 consecute
 calemes
 cassandra
@@ -10988,7 +10989,6 @@ commenceable
 chiropody
 cheekish
 comitatus
-cystoscopic
 chiropodial
 chiropodic
 chiropodical
