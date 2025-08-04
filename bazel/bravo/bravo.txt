@@ -7029,6 +7029,7 @@ bespouses
 boxhaul
 boma
 benzines
+browses
 besnowing
 besognier
 besoil
@@ -9685,7 +9686,6 @@ birchbark
 bismuthide
 bethanked
 beneficing
-browses
 bezzled
 bismuthinite
 bejumble
