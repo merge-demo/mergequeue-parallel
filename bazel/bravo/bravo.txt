@@ -11611,6 +11611,7 @@ britzka
 boardwalks
 battledored
 benefactrix
+butyr
 bolis
 brachyural
 blockishly
@@ -16620,7 +16621,6 @@ broomy
 bucconinae
 buccopharyngeal
 bucculae
-butyr
 bloused
 bisons
 bardlet
