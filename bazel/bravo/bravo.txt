@@ -2091,6 +2091,7 @@ banquet
 bundist
 blindish
 banqueting
+beadier
 beseem
 buddhistic
 besteer
@@ -5855,7 +5856,6 @@ bellies
 bellyful
 bestrews
 boor
-beadier
 boldoine
 bemoaning
 barbermonger
