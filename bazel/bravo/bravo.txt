@@ -1805,7 +1805,6 @@ buzzy
 brimming
 bacteriaceous
 beglads
-bardiness
 blancmanger
 banak
 bemuse
@@ -9154,6 +9153,7 @@ botanists
 becalmment
 biotelemetries
 biotical
+bardiness
 bobwhite
 bespreads
 beanstalks
