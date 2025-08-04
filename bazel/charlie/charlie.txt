@@ -2116,7 +2116,6 @@ campbellisms
 campbellites
 costumery
 cixiid
-capriciousness
 campcraft
 campe
 cryal
@@ -28328,6 +28327,7 @@ circuitor
 crave
 craved
 craven
+capriciousness
 churchmen
 clans
 coheretic
