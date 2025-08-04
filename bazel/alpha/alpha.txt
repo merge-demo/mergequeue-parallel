@@ -11801,7 +11801,6 @@ abas
 appulsion
 analoga
 attractance
-analogy
 analogic
 anteposition
 anaximandrian
@@ -17944,6 +17943,7 @@ allodiaries
 arteriophlebotomy
 approximates
 approximating
+analogy
 apocalyptism
 approximation
 approximations
