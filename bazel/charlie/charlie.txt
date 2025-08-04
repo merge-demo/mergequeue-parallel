@@ -12539,7 +12539,6 @@ colonists
 creakiest
 cattycorner
 chromoplast
-congelation
 countergauger
 charmer
 coachmaking
@@ -15296,6 +15295,7 @@ ctn
 calamospermae
 chivalry
 capricornus
+congelation
 clamjamfery
 clamjamfry
 clammed
