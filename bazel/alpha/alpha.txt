@@ -4434,7 +4434,6 @@ afghani
 accumulate
 adrenomedullary
 antisplasher
-agamobia
 assaut
 advective
 advects
@@ -13386,6 +13385,7 @@ ameban
 awny
 ankush
 aristulate
+agamobia
 archphylarch
 ankusha
 ankushes
