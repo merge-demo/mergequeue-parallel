@@ -3217,6 +3217,7 @@ autecisms
 animalculist
 acupunctuation
 antilevelling
+adamantine
 acupuncturation
 aleberry
 approachabl
@@ -5870,7 +5871,6 @@ agglutination
 arenaceous
 arri
 agglutinative
-adamantine
 agglutinatively
 aarrghh
 agamobium
