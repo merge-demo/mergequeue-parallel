@@ -10425,7 +10425,6 @@ acceptances
 adstipulation
 alchymy
 amethystine
-amethodically
 ametoecious
 absurdum
 aurigid
@@ -12734,6 +12733,7 @@ angiogeny
 anyway
 angiography
 angiographic
+amethodically
 angiohemophilia
 anhelous
 anachronously
