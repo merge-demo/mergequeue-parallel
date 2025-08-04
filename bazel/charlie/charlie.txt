@@ -752,6 +752,7 @@ cagework
 coordinators
 consonantising
 couturier
+claviers
 caggy
 conjurors
 cagy
@@ -2769,7 +2770,6 @@ cannequin
 colts
 cancerphobia
 cannetille
-claviers
 cereless
 cannibalization
 cannibalized
