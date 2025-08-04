@@ -14399,7 +14399,6 @@ cointers
 corniness
 cystorrhagia
 circumspheral
-circumsphere
 circumstances
 connarite
 circumstancing
@@ -15881,6 +15880,7 @@ cleavers
 coremaker
 clamb
 cleche
+circumsphere
 capacitance
 clechee
 constants
