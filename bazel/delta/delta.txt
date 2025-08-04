@@ -4796,6 +4796,7 @@ democraw
 decodable
 demodectic
 deboist
+dolichopellic
 deaved
 diadochokinetic
 dromophobia
@@ -5590,7 +5591,6 @@ dibber
 dustfall
 draftable
 depended
-dolichopellic
 dependence
 desensitizes
 dependency
