@@ -5145,7 +5145,6 @@ anaxonia
 aflicker
 authoritarianism
 affectations
-affected
 adorners
 acidophil
 affectedly
@@ -8732,6 +8731,7 @@ autohybridization
 antiquities
 antitragi
 aread
+affected
 alleviated
 alleviater
 abnormalizing
