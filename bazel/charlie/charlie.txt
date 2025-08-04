@@ -7968,7 +7968,6 @@ curdwort
 cratometric
 cetiosaurian
 cetology
-contumacities
 corixidae
 cetologist
 cetomorpha
@@ -24197,6 +24196,7 @@ concertantes
 colleterial
 compost
 cunning
+contumacities
 convocations
 convocative
 convocator
