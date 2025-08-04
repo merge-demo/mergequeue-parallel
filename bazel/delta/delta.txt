@@ -1951,7 +1951,6 @@ dermohumeral
 disyllabism
 deburr
 divulgatory
-debus
 decanally
 debused
 doohickey
@@ -15760,6 +15759,7 @@ dewools
 disbuds
 doris
 dorsomedial
+debus
 diaxonic
 disyntheme
 dater
