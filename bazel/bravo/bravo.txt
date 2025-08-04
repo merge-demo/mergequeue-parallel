@@ -2691,7 +2691,6 @@ barneys
 bourr
 britannian
 bestayed
-barnyard
 beastings
 butein
 bottomries
@@ -7307,6 +7306,7 @@ brazera
 bufidin
 bursters
 borides
+barnyard
 betear
 betel
 buttwood
