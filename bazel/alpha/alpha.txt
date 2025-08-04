@@ -8671,6 +8671,7 @@ archigenesis
 askeses
 australoid
 alleyite
+assegai
 alleys
 automatonlike
 alleyway
@@ -17185,7 +17186,6 @@ athletocracy
 agrafe
 adoxa
 apomixes
-assegai
 apomixis
 apomorphia
 angia
