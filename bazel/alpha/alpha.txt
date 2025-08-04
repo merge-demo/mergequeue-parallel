@@ -1787,6 +1787,7 @@ acemila
 antilepton
 allocthonous
 ahaaina
+akerite
 acerb
 acromioscapular
 acenaphthylene
@@ -7038,7 +7039,6 @@ akepiro
 aker
 amdt
 apogeal
-akerite
 aketon
 altiloquent
 akha
