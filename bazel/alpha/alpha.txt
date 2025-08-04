@@ -108,7 +108,6 @@ abashes
 achromatous
 astony
 abashless
-abashlessly
 apiocrinite
 aludra
 astonying
@@ -5483,6 +5482,7 @@ afterhend
 anatifae
 afterhope
 afterhours
+abashlessly
 arsenophagy
 antimonarchistic
 agues
