@@ -2923,7 +2923,6 @@ barren
 barretor
 bloodybones
 billowed
-bonus
 beath
 battalias
 bigeyes
@@ -9262,6 +9261,7 @@ batfowler
 brownie
 broncholithiasis
 bewearied
+bonus
 beshrewing
 blockader
 biplane
