@@ -1952,7 +1952,6 @@ disyllabism
 deburr
 divulgatory
 debus
-decanally
 debused
 doohickey
 debusing
@@ -7841,6 +7840,7 @@ dwelling
 dil
 devour
 dorsad
+decanally
 devourer
 devourers
 discourseless
