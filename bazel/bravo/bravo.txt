@@ -3436,6 +3436,7 @@ bucklandite
 bibliolatrous
 bovine
 basts
+biogenous
 banuyo
 basural
 bovarism
@@ -8414,7 +8415,6 @@ bikkurim
 biosynthetically
 bloodworm
 balkier
-biogenous
 blackwood
 bilayer
 burp
