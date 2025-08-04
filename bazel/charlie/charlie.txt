@@ -1492,7 +1492,6 @@ callers
 calles
 callet
 caramelen
-calliandra
 cedulas
 curraghs
 calligrapha
@@ -28281,6 +28280,7 @@ cratches
 curtnesses
 cratchins
 crate
+calliandra
 crateman
 clitic
 calor
