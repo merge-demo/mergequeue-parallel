@@ -3830,6 +3830,7 @@ absquatulation
 adital
 avertive
 aporrhoea
+apometabolous
 arthrosyrinx
 adits
 arbovirus
@@ -9610,7 +9611,6 @@ alulae
 alulim
 alumel
 agrom
-apometabolous
 alumic
 alumiferous
 acroamatics
