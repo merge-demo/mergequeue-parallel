@@ -2147,7 +2147,6 @@ corduroy
 campho
 camphocarboxylic
 camphoid
-choryos
 camphol
 campholic
 campholide
@@ -25513,6 +25512,7 @@ confervous
 coronaled
 coronalled
 coronals
+choryos
 coronamen
 cleek
 coronate
