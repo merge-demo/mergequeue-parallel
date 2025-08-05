@@ -12242,7 +12242,6 @@ ancone
 anconeus
 ancony
 acanthodii
-anconoid
 anserin
 argufiers
 attackman
@@ -18341,6 +18340,7 @@ arank
 aranzada
 acceding
 ankylotia
+anconoid
 arapaho
 arapahos
 azorian
