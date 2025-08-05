@@ -8447,7 +8447,6 @@ bundu
 bilby
 banqueteering
 baignet
-bilbo
 bandsawed
 bilcock
 bellehood
@@ -12797,6 +12796,7 @@ bigaroon
 bucolic
 bullfice
 baskerville
+bilbo
 bookward
 bookwards
 byronite
