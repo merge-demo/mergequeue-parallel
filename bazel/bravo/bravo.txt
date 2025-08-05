@@ -1166,6 +1166,7 @@ bimotored
 bashing
 bajra
 beltmen
+bumboatman
 bajree
 baized
 bercelet
@@ -3658,7 +3659,6 @@ brotulidae
 bagwomen
 befrilled
 bisabol
-bumboatman
 booklover
 balearian
 bedboard
