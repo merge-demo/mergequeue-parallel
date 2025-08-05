@@ -8268,7 +8268,6 @@ cercomonas
 compressing
 caracoli
 chalazium
-chandam
 curatical
 cellulomonas
 causewayed
@@ -13620,6 +13619,7 @@ centricality
 crapshooting
 cymbalists
 cymballed
+chandam
 cob
 cymballing
 cymbalom
