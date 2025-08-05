@@ -8450,6 +8450,7 @@ dolia
 defiledness
 dreep
 demipremiss
+directions
 diabetophobia
 dialogizing
 devesting
@@ -8599,7 +8600,6 @@ demonship
 dimercury
 diaphtherin
 dulcifies
-directions
 digressionary
 daphnioid
 diapirs
