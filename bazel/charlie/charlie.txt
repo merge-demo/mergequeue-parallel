@@ -3058,6 +3058,7 @@ cantwise
 canula
 canulae
 canulas
+creatress
 chthonophagy
 canulates
 comatic
@@ -28494,7 +28495,6 @@ creatorhood
 creatotoxism
 columellae
 caromed
-creatress
 caecectomy
 creatureling
 creatures
