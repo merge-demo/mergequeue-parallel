@@ -8382,6 +8382,7 @@ bigwiggery
 biomass
 beryllia
 bigwigs
+baa
 babu
 brachygraphic
 byhand
@@ -11360,7 +11361,6 @@ bluebeard
 buff
 buntings
 bobooti
-baa
 bogydom
 befame
 burgwere
