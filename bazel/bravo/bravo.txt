@@ -4857,6 +4857,7 @@ bandcase
 baffing
 beduncing
 botchiest
+begowned
 bagobo
 bewrapped
 beekite
@@ -5361,7 +5362,6 @@ bacteriogenic
 bonace
 besoothement
 begowk
-begowned
 buyable
 begray
 bromobenzene
