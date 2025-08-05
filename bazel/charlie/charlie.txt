@@ -7318,6 +7318,7 @@ concerto
 covenably
 centuriator
 conehead
+chamaecrista
 centuries
 cupidone
 cataractous
@@ -12487,7 +12488,6 @@ chromogen
 chromogene
 chromogenesis
 cingulate
-chamaecrista
 cranemanship
 chromoisomer
 chromoisomeric
