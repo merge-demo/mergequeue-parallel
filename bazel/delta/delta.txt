@@ -12786,7 +12786,6 @@ doored
 disloyalties
 dislove
 dandlingly
-desirously
 deforcement
 dunk
 debouch
@@ -17866,6 +17865,7 @@ dudleya
 dev
 developmentalist
 diagnosis
+desirously
 drabbletailed
 duecentist
 derbies
