@@ -3196,7 +3196,6 @@ capeweed
 coverlet
 craked
 citruses
-capewise
 capework
 capful
 caphar
@@ -9121,6 +9120,7 @@ charontas
 cardplayer
 coleophora
 charophyta
+capewise
 courantes
 cannily
 cabala
