@@ -8112,7 +8112,6 @@ boondocks
 bookkeepers
 becarpet
 barbadian
-bitters
 beemen
 bided
 bidene
@@ -13431,6 +13430,7 @@ bensell
 brightsome
 belowstairs
 blunts
+bitters
 basifixed
 buncombes
 bibliotheca
