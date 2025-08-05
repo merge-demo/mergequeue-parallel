@@ -438,6 +438,7 @@ dairous
 dairt
 dais
 deducer
+dingthrift
 disinthrall
 donjons
 drenchers
@@ -823,7 +824,6 @@ donnert
 downpours
 danic
 danicism
-dingthrift
 dwell
 dams
 dyscrystalline
