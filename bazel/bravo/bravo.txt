@@ -1040,6 +1040,7 @@ biogeographic
 bailiffs
 busway
 bustiest
+bersim
 boyaus
 basanite
 bersil
@@ -16997,7 +16998,6 @@ bedaubs
 bulger
 boyhood
 belier
-bersim
 bulgiest
 bagnut
 benztrioxazine
