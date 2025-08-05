@@ -6526,7 +6526,6 @@ cavyyard
 caviled
 canmaker
 cavilers
-cavilingly
 craftsmen
 ceraunogram
 cronkness
@@ -21529,6 +21528,7 @@ concretive
 cholangiographic
 concretively
 concretized
+cavilingly
 contraprovectant
 comblike
 concretor
