@@ -308,6 +308,7 @@ dayabhaga
 dreed
 demisheath
 depolarized
+decursively
 dayak
 dayanim
 directories
@@ -16046,7 +16047,6 @@ dockers
 diacoelosis
 dekagrams
 doublette
-decursively
 driftman
 dinophyceae
 dodgeful
