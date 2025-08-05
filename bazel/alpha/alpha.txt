@@ -3377,7 +3377,6 @@ antiecclesiastical
 adaxial
 adazzle
 afforded
-adcons
 acidophile
 autopticity
 anchorer
@@ -9946,6 +9945,7 @@ abele
 ambarella
 activator
 ambari
+adcons
 authenticities
 assayer
 ambary
