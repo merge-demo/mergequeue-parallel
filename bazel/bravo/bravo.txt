@@ -6183,6 +6183,7 @@ beneficial
 beneficialness
 beneficiaryship
 beneficiated
+boskiness
 bloodthirsting
 brassiest
 bassorin
@@ -8937,7 +8938,6 @@ blueberries
 bioethics
 belltopperdom
 barricados
-boskiness
 bozzetto
 burnishment
 barberess
