@@ -1047,6 +1047,7 @@ bailiwick
 bridler
 benzothiopyran
 brasswork
+bannerline
 bailiwicks
 bolete
 babyhouse
@@ -2070,7 +2071,6 @@ barefooted
 bollixing
 bannat
 baulky
-bannerline
 bannerole
 blossomry
 bronchus
