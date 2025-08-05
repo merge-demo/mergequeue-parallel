@@ -17460,7 +17460,6 @@ apparats
 apparatus
 arist
 appareling
-apparency
 apparentements
 airify
 anoxyscope
@@ -20176,6 +20175,7 @@ alphabetise
 arrears
 arrendation
 argentometric
+apparency
 arrenotoky
 arrentation
 arreption
