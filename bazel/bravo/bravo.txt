@@ -6269,7 +6269,6 @@ bungalow
 bennets
 bootlace
 bookism
-battalions
 barndoor
 biuret
 bosporus
@@ -9785,6 +9784,7 @@ borg
 bewitching
 bookish
 barleymow
+battalions
 bistriate
 beddable
 breeze
