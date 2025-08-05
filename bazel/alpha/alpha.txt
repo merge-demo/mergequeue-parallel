@@ -8158,6 +8158,7 @@ archaean
 algorist
 albino
 autecological
+anapest
 antipyic
 algorithmic
 algorithmically
@@ -10918,7 +10919,6 @@ amoebae
 abel
 amoebaea
 alipata
-anapest
 aillt
 algerita
 abyssinians
