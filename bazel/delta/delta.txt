@@ -10970,7 +10970,6 @@ disadvantaged
 disadvantageousness
 deminude
 disadventure
-disadvising
 dysaesthesia
 dropvie
 downgrade
@@ -13102,6 +13101,7 @@ displicency
 diastyle
 dispensatory
 detrain
+disadvising
 develed
 dispensatress
 dadaisms
