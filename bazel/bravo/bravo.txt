@@ -5911,6 +5911,7 @@ bellwort
 belock
 beloeilite
 basimesostasis
+bescoured
 belomancy
 belonephobia
 belonger
@@ -10908,7 +10909,6 @@ butterbush
 blindfoldedness
 bemoon
 blinding
-bescoured
 braciolas
 biorbital
 blindness
