@@ -20605,7 +20605,6 @@ congreve
 competitive
 competitiveness
 competitor
-competitory
 conjugal
 cascol
 competitors
@@ -21224,6 +21223,7 @@ chrysamine
 conceptualized
 chonta
 conks
+competitory
 conceptualizes
 cotuit
 charadrioid
