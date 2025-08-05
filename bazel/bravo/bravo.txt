@@ -11565,6 +11565,7 @@ ballismus
 byronism
 brogger
 blush
+bogeyed
 blushed
 banga
 bandannas
@@ -13261,7 +13262,6 @@ bosthoon
 bostonian
 banderillas
 burglar
-bogeyed
 branchstand
 bouche
 bangs
