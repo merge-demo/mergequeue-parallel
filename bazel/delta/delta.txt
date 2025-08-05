@@ -8777,7 +8777,6 @@ distastefully
 dentalgia
 demythologisation
 dichogamy
-diatonic
 doodle
 dungannonite
 diatreme
@@ -12000,6 +11999,7 @@ disemploy
 disroots
 dooket
 disulfuret
+diatonic
 dorados
 disemployment
 disenable
