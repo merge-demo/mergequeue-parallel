@@ -9279,7 +9279,6 @@ diencephalon
 docibleness
 dienes
 dier
-dyer
 dementis
 dochmii
 dieresis
@@ -14368,6 +14367,7 @@ deadheaded
 diurn
 dhaman
 diurna
+dyer
 diurnal
 deuterogenic
 diurnally
