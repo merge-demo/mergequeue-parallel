@@ -3187,6 +3187,7 @@ basidiospore
 basidiosporous
 batiked
 bodiless
+bellowslike
 backwoodsman
 bathtub
 bipontine
@@ -5888,7 +5889,6 @@ beerocracy
 bellowsful
 bargainer
 beride
-bellowslike
 bellpull
 belltail
 balloons
