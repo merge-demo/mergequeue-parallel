@@ -1042,6 +1042,7 @@ chloroplastid
 channellers
 calcareous
 chironomidae
+croisette
 calcareousness
 capitalise
 chiliaedron
@@ -29688,7 +29689,6 @@ croise
 croisee
 coetanean
 croises
-croisette
 cambiform
 croissant
 croissante
