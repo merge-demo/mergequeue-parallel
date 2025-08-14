@@ -8779,7 +8779,6 @@ dentalgia
 demythologisation
 dichogamy
 doodle
-dungannonite
 diatreme
 diatribe
 diaulic
@@ -16606,6 +16605,7 @@ dragonade
 denotative
 donjon
 dactylopius
+dungannonite
 denotations
 decorations
 drosophilae
