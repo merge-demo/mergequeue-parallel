@@ -2227,6 +2227,7 @@ derrire
 dosages
 drongo
 drivescrew
+doris
 dreint
 drch
 dartre
@@ -15758,7 +15759,6 @@ deescalation
 disintegrates
 dewools
 disbuds
-doris
 dorsomedial
 diaxonic
 disyntheme
