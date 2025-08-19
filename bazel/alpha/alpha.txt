@@ -12779,6 +12779,7 @@ ascher
 armorwise
 ammocoetid
 angioscope
+amphirhina
 arlington
 angiosymphysis
 adry
@@ -19806,7 +19807,6 @@ armenic
 agapetidae
 axinomancy
 armenoid
-amphirhina
 armer
 assaulted
 aspires
