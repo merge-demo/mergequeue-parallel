@@ -9705,7 +9705,6 @@ bispinous
 bramah
 bathybian
 bisporous
-beadrolls
 blaewort
 bayeta
 bizes
@@ -13491,6 +13490,7 @@ bottstick
 botuliform
 botulins
 bashaw
+beadrolls
 breastful
 bangboard
 botulinus
