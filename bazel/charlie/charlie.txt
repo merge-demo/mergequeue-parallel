@@ -12684,7 +12684,6 @@ childkind
 chucker
 chuckfarthing
 chuckhole
-chaule
 clergywomen
 convinces
 chucky
@@ -19708,6 +19707,7 @@ copintank
 catogene
 chemisorption
 clefts
+chaule
 comatiks
 comatosely
 countercharged
