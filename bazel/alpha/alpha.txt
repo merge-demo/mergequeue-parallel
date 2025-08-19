@@ -367,7 +367,6 @@ avoyer
 abesse
 abetments
 ambulant
-andesitic
 arsenide
 abetted
 anagignoskomena
@@ -2381,6 +2380,7 @@ aggrate
 acinus
 aedes
 acipenserine
+andesitic
 acipenseroid
 acipenseroidei
 archpapist
