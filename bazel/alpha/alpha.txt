@@ -16336,6 +16336,7 @@ adscription
 ameiurus
 antiwear
 abiological
+apiaceae
 amictus
 affiliates
 antiwedge
@@ -16824,7 +16825,6 @@ aeration
 anaerobe
 appenage
 apiaca
-apiaceae
 apiararies
 apiarian
 apiarians
