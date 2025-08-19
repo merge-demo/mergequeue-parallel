@@ -5978,7 +5978,6 @@ cathepsin
 cathern
 catties
 catheterisation
-catheterise
 clienteles
 coiffes
 catheterised
@@ -20778,6 +20777,7 @@ complicators
 calesa
 complice
 complicity
+catheterise
 complied
 campodea
 crossbolted
