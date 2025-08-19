@@ -880,6 +880,7 @@ cayuga
 cayugan
 cayugas
 cayuse
+curf
 cayuses
 cajan
 capitare
@@ -17547,7 +17548,6 @@ cobwebby
 convicted
 coca
 cherup
-curf
 cocaceous
 coempt
 chorioepitheliomas
