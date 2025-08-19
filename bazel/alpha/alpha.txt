@@ -10470,7 +10470,6 @@ appredicate
 amicably
 amphipodous
 antiphonical
-amical
 amarettos
 answerableness
 anaxagorize
@@ -10666,6 +10665,7 @@ arrhythmy
 acetylized
 afflicts
 agamae
+amical
 aminoacetophenetidine
 aminoanthraquinone
 apodictically
