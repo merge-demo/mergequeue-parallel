@@ -1570,6 +1570,7 @@ denunciating
 dairyman
 deadpanned
 deadpans
+disambiguating
 depayse
 deadweight
 daikering
@@ -11042,7 +11043,6 @@ dobbers
 divides
 deanthropomorphic
 dialyphyllous
-disambiguating
 defamingly
 dogmatising
 disanalogy

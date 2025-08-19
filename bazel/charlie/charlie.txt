@@ -3272,6 +3272,7 @@ capite
 christianized
 capitellate
 canteen
+collegiums
 capitellum
 capitle
 cerebrum
@@ -20920,7 +20921,6 @@ comprehensiveness
 campership
 coleoptile
 chenopodiaceous
-collegiums
 comprend
 compresbyterial
 compresence
