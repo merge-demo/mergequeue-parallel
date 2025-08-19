@@ -4635,7 +4635,6 @@ carolinians
 carolitic
 carditic
 caoba
-caroller
 carols
 carolus
 chemicocautery
@@ -13362,6 +13361,7 @@ cyclopaedist
 coquito
 chinning
 cyclope
+caroller
 churchwarden
 cyclopedias
 cyclopedical
