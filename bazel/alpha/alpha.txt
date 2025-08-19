@@ -11258,6 +11258,7 @@ avidious
 amphiprostylar
 antiusurious
 amdahl
+antiseptic
 amidoazobenzene
 aminoformic
 amphirhinal
@@ -16079,7 +16080,6 @@ albatross
 articling
 apomictic
 antisensitizing
-antiseptic
 actinomycese
 asseverate
 antiseptically
