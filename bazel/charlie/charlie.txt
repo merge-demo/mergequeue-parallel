@@ -1264,7 +1264,6 @@ calenders
 calendric
 calendrical
 calendula
-calendulas
 calendulin
 calentural
 chivalries
@@ -31607,6 +31606,7 @@ curvative
 curvature
 cozy
 clingstone
+calendulas
 curve
 constructed
 curvedly
