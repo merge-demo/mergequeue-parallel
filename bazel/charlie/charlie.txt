@@ -14134,6 +14134,7 @@ cookwares
 crocodile
 coriandrol
 chloritoid
+corta
 cleruchial
 circassic
 capivi
@@ -31149,7 +31150,6 @@ cupidinous
 cupidities
 congealment
 cupidon
-corta
 cupiuba
 cupless
 cavities
