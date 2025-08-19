@@ -2020,6 +2020,7 @@ benefitted
 banjorine
 banjuke
 bv
+bathymetry
 beflecking
 bank
 bankalachi
@@ -3532,7 +3533,6 @@ binode
 blonds
 bathylithic
 bipinnaria
-bathymetry
 bathymetrical
 bathing
 bastinadoes

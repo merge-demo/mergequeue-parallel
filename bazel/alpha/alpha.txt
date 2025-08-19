@@ -1827,7 +1827,6 @@ acerae
 arcual
 acerate
 acerated
-anastomotic
 aceratherium
 anteresurrection
 acerbate
@@ -3186,6 +3185,7 @@ assident
 abstersion
 actuary
 aphis
+anastomotic
 ashlar
 actuating
 alpist
