@@ -1095,7 +1095,6 @@ declamations
 dentatosetaceous
 dialectically
 das
-dase
 dasewe
 dash
 designado
@@ -4184,6 +4183,7 @@ dishonourable
 divagate
 disherit
 delisk
+dase
 delists
 delit
 demonstratorship
