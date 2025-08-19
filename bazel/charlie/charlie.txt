@@ -21335,6 +21335,7 @@ cinchonised
 counterblow
 concho
 conchoids
+choanocyte
 communicableness
 conchol
 conchometer
@@ -21801,7 +21802,6 @@ culmy
 concentive
 corresponsive
 conductometric
-choanocyte
 conductor
 conductorial
 commoners
