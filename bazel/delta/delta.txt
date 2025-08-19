@@ -3828,6 +3828,7 @@ deign
 describes
 disunities
 deigned
+disavowable
 diwan
 deigns
 defail
@@ -18157,7 +18158,6 @@ dive
 dishearten
 devote
 dissceptring
-disavowable
 digress
 dump
 disreputably
