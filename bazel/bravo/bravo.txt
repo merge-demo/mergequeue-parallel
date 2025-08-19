@@ -2240,7 +2240,6 @@ barbarity
 barbarities
 barbarization
 blateroon
-boucle
 brigid
 birdclapper
 bannerwise
@@ -7090,6 +7089,7 @@ briquetting
 bespeak
 bodyless
 biggings
+boucle
 bimorphs
 bushing
 bespeaking
