@@ -4038,7 +4038,6 @@ admittable
 admittance
 admittatur
 admitted
-agitpunkt
 ampliation
 aedoeagi
 astarte
@@ -9664,6 +9663,7 @@ alundum
 artiphyllous
 appendices
 arcadic
+agitpunkt
 abulyeit
 anacahuita
 acis
