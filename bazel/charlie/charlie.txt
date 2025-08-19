@@ -11004,7 +11004,6 @@ canvaslike
 chiropodistry
 callan
 chiropodists
-cfh
 chiropodous
 chiropompholyx
 chiropraxis
@@ -14998,6 +14997,7 @@ citral
 cambaye
 citramontane
 cothurns
+cfh
 citrangeade
 carronade
 capsize
