@@ -799,6 +799,7 @@ deduced
 dangerousness
 distention
 demarcates
+decimals
 dangle
 danglers
 deniable
@@ -2413,7 +2414,6 @@ dreamlit
 deceived
 disaffiliation
 dane
-decimals
 decimates
 desmohemoblast
 dropkick
