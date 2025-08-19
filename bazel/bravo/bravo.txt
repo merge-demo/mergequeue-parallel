@@ -6866,7 +6866,6 @@ bishopless
 baronetized
 besaile
 bipartizan
-bubbling
 brachycephalic
 besan
 bescab
@@ -7991,6 +7990,7 @@ bichloride
 biffin
 bichord
 borazons
+bubbling
 bioxalate
 bichos
 bichromatize
