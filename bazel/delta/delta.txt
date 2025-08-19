@@ -5293,7 +5293,6 @@ danaro
 diglottic
 disscepter
 deligated
-drammer
 density
 defat
 degasifier
@@ -5500,6 +5499,7 @@ dibbles
 deoxidisation
 dsnames
 dissolubility
+drammer
 deadest
 dorsiventrality
 deoxidize
