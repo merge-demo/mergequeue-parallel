@@ -1154,7 +1154,6 @@ dade
 detrited
 decrementing
 dasyuridae
-dasyurine
 dactylopatagium
 delineatory
 dassent
@@ -9848,6 +9847,7 @@ disenfranchise
 dills
 delusiveness
 dillseed
+dasyurine
 deputations
 dimetria
 distends

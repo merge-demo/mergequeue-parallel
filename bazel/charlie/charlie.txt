@@ -25093,7 +25093,6 @@ coreigner
 coreigns
 corejoice
 corelated
-corelates
 corelating
 chemosurgical
 corelational
@@ -31494,6 +31493,7 @@ chid
 currier
 chirivita
 curryfavour
+corelates
 campstools
 curriing
 currying
