@@ -25177,6 +25177,7 @@ clinocephalus
 coriaria
 coriariaceae
 coriaus
+countertype
 corybant
 corporealize
 corybantian
@@ -27175,7 +27176,6 @@ counterthreat
 cellulipetal
 candidating
 calcines
-countertype
 cooter
 classisms
 countertouch
