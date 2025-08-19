@@ -13324,6 +13324,7 @@ anystidae
 anhydrating
 anisum
 antileveling
+atlantosaurus
 appinite
 appraiser
 adjudicata
@@ -22694,7 +22695,6 @@ antigenically
 antipopulationist
 atlantoodontoid
 autokrator
-atlantosaurus
 atlases
 apropos
 amplificator
