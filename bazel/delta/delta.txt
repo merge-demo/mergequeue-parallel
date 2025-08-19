@@ -3806,6 +3806,7 @@ deice
 disseizoress
 defibrillation
 deicers
+devalued
 defacingly
 deicides
 deicing
@@ -5256,7 +5257,6 @@ denouements
 denounce
 disputativeness
 dynamogenously
-devalued
 denouncement
 denouncements
 digladiate

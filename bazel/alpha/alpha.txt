@@ -3300,7 +3300,6 @@ adamantean
 anisodactylous
 antipolyneuritic
 adamantinoma
-adamantness
 adamantoblast
 adamas
 archery
@@ -12892,6 +12891,7 @@ angoras
 angostura
 angouleme
 armored
+adamantness
 arcidae
 appanages
 angraecum
