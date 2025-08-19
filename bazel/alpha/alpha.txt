@@ -13352,6 +13352,7 @@ amucks
 anker
 ankerhold
 ankerites
+additamentary
 ankylenteron
 acmaesthesia
 ankylocheilia
@@ -14291,7 +14292,6 @@ authorially
 arrided
 apocryphate
 amerce
-additamentary
 anthoecological
 anthoecologist
 application
