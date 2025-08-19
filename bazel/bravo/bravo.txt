@@ -9057,7 +9057,6 @@ bemire
 brickmaking
 bethumps
 bunching
-bearbaiting
 biopoiesis
 bonzery
 basking
@@ -11677,6 +11676,7 @@ blazoners
 bosks
 boatward
 boatwright
+bearbaiting
 bob
 biennales
 burglarize
