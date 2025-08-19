@@ -9767,6 +9767,7 @@ amalgamatize
 acmite
 amalgamist
 amperage
+abruptly
 amalgamization
 amalgamize
 amalic
@@ -12295,7 +12296,6 @@ andine
 anding
 alternateness
 apophysial
-abruptly
 andirin
 andirine
 abashments
