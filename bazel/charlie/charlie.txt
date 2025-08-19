@@ -13754,7 +13754,6 @@ cinchonas
 cinchonic
 cinchonicine
 cinchonidia
-cinchonidine
 cinchonin
 cowleech
 cinchoninic
@@ -21611,6 +21610,7 @@ callot
 condensary
 counteroffensives
 crustless
+cinchonidine
 condensaries
 condensates
 cultivars
