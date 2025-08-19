@@ -17749,7 +17749,6 @@ apport
 apportionable
 arctangent
 ampule
-apportioner
 antiproductionist
 arrantness
 anthophoridae
@@ -20558,6 +20557,7 @@ arthroempyema
 arthrogastran
 alfet
 aeaean
+apportioner
 anesthetists
 aphthitalite
 azrael
