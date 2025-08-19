@@ -11853,7 +11853,6 @@ barbedness
 bellowed
 beento
 braggest
-barcan
 bondswomen
 benote
 beperiwigged
@@ -16271,6 +16270,7 @@ brucellae
 bleared
 boussingaultia
 barrios
+barcan
 brucellosis
 barely
 biolytic
