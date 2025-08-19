@@ -5860,7 +5860,6 @@ catella
 ctenodactyl
 catena
 catenae
-catenane
 cremates
 claybanks
 catenarian
@@ -15005,6 +15004,7 @@ contorsion
 chlorpropamide
 chromoplasm
 counterparallel
+catenane
 crossjack
 citreous
 citric
