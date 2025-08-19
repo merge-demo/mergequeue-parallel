@@ -8712,6 +8712,7 @@ buffe
 bushbeater
 bozine
 barrett
+besmut
 beseeching
 befortune
 beaverite
@@ -12217,7 +12218,6 @@ bolognese
 balaenopteridae
 birdling
 blizzardy
-besmut
 broos
 bolographic
 broggerite
