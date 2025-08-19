@@ -6,7 +6,6 @@ blepharosyndesmitis
 braille
 baalim
 baalize
-baals
 browning
 bloodalley
 bocces
@@ -3139,6 +3138,7 @@ besetter
 biddie
 bayete
 bashers
+baals
 bashibazouk
 brocket
 bashyle
