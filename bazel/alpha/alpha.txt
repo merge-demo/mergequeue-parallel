@@ -15270,7 +15270,6 @@ angiemphraxis
 antigravity
 antigrowth
 affectible
-antihalation
 alcantarines
 antiharmonist
 antihelix
@@ -20326,6 +20325,7 @@ antistrike
 alem
 aistopod
 arsenization
+antihalation
 amphimacer
 arsenobenzol
 arsenobismite
