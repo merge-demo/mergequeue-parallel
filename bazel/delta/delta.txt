@@ -5021,7 +5021,6 @@ disroot
 desexing
 deposed
 dinamode
-decussion
 delustered
 diplopy
 duellers
@@ -8242,6 +8241,7 @@ dados
 disspreading
 diadochy
 damasked
+decussion
 dissectors
 dulcor
 diorism

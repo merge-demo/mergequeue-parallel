@@ -9462,7 +9462,6 @@ alterative
 altercated
 altercating
 alterers
-argiopoidea
 anglicanum
 acupunctuate
 apses
@@ -15521,6 +15520,7 @@ alguacil
 antilapse
 architectonics
 analyzable
+argiopoidea
 anthropophagi
 aquaplanes
 antimonies
