@@ -3893,7 +3893,6 @@ adjuration
 analogia
 amidine
 aisling
-adjuratory
 aneuria
 adjured
 adjurer
@@ -23515,6 +23514,7 @@ alvin
 albuminogenous
 approximate
 arrythmically
+adjuratory
 antherid
 alinit
 aumrie

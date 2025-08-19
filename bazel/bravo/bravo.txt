@@ -2308,6 +2308,7 @@ bagger
 bartholomite
 blameably
 baobab
+babylonish
 biasways
 barbican
 breloque
@@ -5893,7 +5894,6 @@ bellpull
 belltail
 balloons
 benumbedness
-babylonish
 bucconasal
 bentwoods
 bluer
