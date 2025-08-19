@@ -1575,7 +1575,6 @@ beknighting
 brummagem
 ballyhoo
 ballyrags
-bioelectrogenetic
 belat
 ballised
 biradial
@@ -15275,6 +15274,7 @@ burseraceous
 bohawn
 bechalk
 boarship
+bioelectrogenetic
 bisbeeite
 bighead
 bordarius
