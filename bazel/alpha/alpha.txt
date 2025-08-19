@@ -1095,7 +1095,6 @@ abune
 abura
 ausubo
 aburban
-amphodelite
 aburton
 artemisia
 atestine
@@ -15446,6 +15445,7 @@ alone
 antimetropia
 antimetropic
 antimycotic
+amphodelite
 alphatoluic
 antimilitary
 amoralism
