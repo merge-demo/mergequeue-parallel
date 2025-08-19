@@ -1939,6 +1939,7 @@ beseechment
 bocaccios
 broadly
 bagnio
+buttstrapping
 balances
 bandstring
 bathymetric
@@ -8008,7 +8009,6 @@ bewilderedness
 borsht
 beslipper
 bespatterer
-buttstrapping
 bicircular
 bitemporal
 byname
