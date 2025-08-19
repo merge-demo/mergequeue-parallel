@@ -8837,7 +8837,6 @@ bummalos
 benzol
 balsamiferous
 braeface
-binomenclature
 bilimbi
 barrelhead
 binomially
@@ -10344,6 +10343,7 @@ buffability
 bamboozlers
 breviature
 bordman
+binomenclature
 boil
 boozers
 blame
