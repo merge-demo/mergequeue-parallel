@@ -7410,7 +7410,6 @@ detoxication
 detoxicator
 detoxifier
 draperess
-directress
 disapproved
 diamicton
 devest
@@ -16627,6 +16626,7 @@ deveins
 dissent
 drumlier
 dwellers
+directress
 decorates
 dragonish
 dragonize
