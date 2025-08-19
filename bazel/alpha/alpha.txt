@@ -2811,6 +2811,7 @@ alienness
 antenniform
 areometer
 acromiohumeral
+aunters
 acromiosternal
 antichurchian
 acromiothoracic
@@ -22773,7 +22774,6 @@ adelphoi
 alpinely
 ataxaphasia
 accubation
-aunters
 antepagment
 atomised
 atomism
