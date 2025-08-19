@@ -2107,7 +2107,6 @@ digraph
 dihydrol
 decamethonium
 decametric
-decan
 decanal
 decancellate
 dominator
@@ -12380,6 +12379,7 @@ decolorised
 depone
 deepening
 decempartite
+decan
 didymiums
 decoagulation
 dishaunt
