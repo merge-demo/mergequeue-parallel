@@ -5089,6 +5089,7 @@ bunted
 befitted
 beyship
 befittingly
+bisimine
 blacklead
 baselines
 bowellike
@@ -9648,7 +9649,6 @@ burao
 bisyllabism
 braize
 bulleting
-bisimine
 biggening
 breaches
 bullish
