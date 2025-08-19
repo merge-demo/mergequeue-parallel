@@ -2214,6 +2214,7 @@ cheiropodist
 camponotus
 coteline
 counterhammering
+capeadores
 campos
 conuropsis
 circumfusile
@@ -3146,7 +3147,6 @@ connexion
 craterid
 cape
 chequerboard
-capeadores
 capel
 capelan
 capelans
