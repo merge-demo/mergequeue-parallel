@@ -7082,6 +7082,7 @@ akmite
 aftershock
 arthroderm
 aerocartograph
+amidic
 actuator
 anointers
 akmuddar
@@ -15743,7 +15744,6 @@ agonistical
 antipewism
 astonished
 aviolite
-amidic
 antiphylloxeric
 anisopodal
 aspiculous

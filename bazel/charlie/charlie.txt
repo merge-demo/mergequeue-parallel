@@ -2901,6 +2901,7 @@ chartophylaxes
 congenialize
 cant
 connectionless
+compar
 crayfish
 cantabank
 canonic
@@ -30862,7 +30863,6 @@ courbash
 cathop
 cosmologygy
 culpeo
-compar
 culpose
 crickety
 considerability
