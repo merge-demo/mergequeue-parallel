@@ -6125,7 +6125,6 @@ deraigning
 divest
 dispirits
 derailing
-demiworld
 derailment
 diplomatism
 decocts
@@ -12482,6 +12481,7 @@ deracinate
 declassifying
 doubtably
 dancette
+demiworld
 dexterity
 defy
 disilicide
