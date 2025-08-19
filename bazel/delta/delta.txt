@@ -2251,7 +2251,6 @@ dentolabial
 decembrist
 demnition
 dowset
-decemcostate
 durax
 dyewoods
 decemfoliate
@@ -9705,6 +9704,7 @@ defiliation
 dillies
 dicerion
 definitive
+decemcostate
 demicircle
 detacwable
 dika
