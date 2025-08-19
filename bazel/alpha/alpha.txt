@@ -3788,7 +3788,6 @@ amphitruo
 amphithuron
 acetabuliform
 adipinic
-autotransplant
 adipocellulose
 adipoceriform
 adipoid
@@ -13511,6 +13510,7 @@ amputated
 aphidophagous
 annotative
 amaurotic
+autotransplant
 annotatively
 ablate
 adaptability
