@@ -3861,6 +3861,7 @@ adjt
 aleyrodidae
 adjudging
 adjudgment
+appropriation
 adjudicate
 antihierarchal
 autarkik
@@ -11811,7 +11812,6 @@ analogise
 analogised
 anteroventral
 analogize
-appropriation
 analogon
 antihemorrheidal
 analogous

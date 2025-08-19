@@ -9440,7 +9440,6 @@ disenthralment
 diffuses
 danaidean
 dechlore
-demilitarizing
 diamin
 diffusible
 diffusibleness
@@ -14243,6 +14242,7 @@ deme
 dene
 drygoodsman
 dumbly
+demilitarizing
 disburses
 disembargo
 demanders
