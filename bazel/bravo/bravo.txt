@@ -5814,7 +5814,6 @@ blueprinted
 brassworker
 becrawling
 bromization
-bedlamic
 bombyliidae
 bryozoan
 batfish
@@ -8521,6 +8520,7 @@ baronne
 birch
 butyryl
 bearhound
+bedlamic
 bisections
 biliteral
 biliteralism

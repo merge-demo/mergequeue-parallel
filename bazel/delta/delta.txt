@@ -1055,7 +1055,6 @@ dimeters
 decarch
 dorsodynia
 doling
-darraign
 dacryocystorhinostomy
 depositions
 darrein
@@ -12653,6 +12652,7 @@ diskelion
 disker
 dystomic
 disgusted
+darraign
 dumplings
 definitized
 dextroses
