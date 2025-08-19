@@ -10891,6 +10891,7 @@ allegorical
 amniocentesis
 amniochorial
 auxanology
+anisocratic
 amniomancy
 amnionata
 acclamation
@@ -23270,7 +23271,6 @@ aubusson
 auca
 accusingly
 aboveground
-anisocratic
 aucaner
 autota
 aftertimes
