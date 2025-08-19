@@ -8621,6 +8621,7 @@ decigramme
 dibatis
 dystaxia
 diapsida
+discolored
 dyskinetic
 deathin
 douanier
@@ -11489,7 +11490,6 @@ decencies
 dionysiacal
 discoloration
 discolorations
-discolored
 doest
 defalcations
 discolorment
