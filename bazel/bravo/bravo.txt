@@ -10671,7 +10671,6 @@ blearness
 blears
 bleated
 butcherdom
-bleaty
 bleating
 bibliognostic
 bluejoint
@@ -16157,6 +16156,7 @@ barbudo
 braird
 bilbie
 brotherwort
+bleaty
 brotocrystal
 bromoform
 betweenwhiles
