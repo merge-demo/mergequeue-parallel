@@ -4744,6 +4744,7 @@ bedown
 bradding
 brunts
 bedpans
+bulletining
 bries
 beeball
 besplit
@@ -17084,7 +17085,6 @@ bulletheadedness
 baptornis
 bayard
 bromian
-bulletining
 batches
 bulletless
 basecoat
