@@ -5145,7 +5145,6 @@ affecters
 affectibility
 affecting
 acrorhagus
-affectingly
 antitangent
 affection
 apostasies
@@ -8465,6 +8464,7 @@ alkalised
 affrayed
 antejentacular
 alkaliser
+affectingly
 adjoint
 audivise
 acerbic
