@@ -5026,6 +5026,7 @@ crusades
 canaanites
 carunculae
 caruncular
+consecute
 cohue
 carunculated
 carunculous
@@ -5248,7 +5249,6 @@ champacs
 cassan
 cyans
 chefdom
-consecute
 calemes
 cassandra
 conc
