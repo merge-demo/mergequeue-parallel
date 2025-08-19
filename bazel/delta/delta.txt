@@ -11908,7 +11908,6 @@ dishonorableness
 disdiapason
 disdodecahedroid
 delegatus
-doughtiness
 distinguished
 dalliance
 dropsical
@@ -13276,6 +13275,7 @@ disconformable
 daylily
 dispossed
 distrusted
+doughtiness
 demogenic
 deuteranomal
 daidly
