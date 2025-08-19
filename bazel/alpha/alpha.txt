@@ -2515,6 +2515,7 @@ aratory
 aconitums
 artmobile
 aposiopeses
+abruptest
 abasgi
 acontia
 ambidexter
@@ -15063,7 +15064,6 @@ appraise
 agnosias
 antidoted
 amethyst
-abruptest
 amphitokal
 aspherical
 antidoting
