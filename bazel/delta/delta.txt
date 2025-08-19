@@ -10365,7 +10365,6 @@ downtrends
 discophore
 dioptra
 dioptrate
-depurative
 demove
 dioptric
 dioptrical
@@ -12943,6 +12942,7 @@ dowment
 deniability
 dimensionless
 decenyl
+depurative
 disomatic
 doubtmonger
 dognaping
