@@ -5745,6 +5745,7 @@ admen
 agates
 affeerment
 appal
+antennal
 amberjack
 adiabatically
 aviation
@@ -14161,7 +14162,6 @@ anteri
 adelphogamy
 anterioyancer
 alkylbenzenesulfonate
-antennal
 achech
 argalas
 autolavage
