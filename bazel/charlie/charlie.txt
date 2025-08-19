@@ -762,6 +762,7 @@ collybist
 clairvoyance
 cagiest
 cagily
+chitchatting
 clock
 chicomecoatl
 cartouches
@@ -15433,7 +15434,6 @@ clapper
 clapperclaw
 cloragen
 clappered
-chitchatting
 clappers
 cutinization
 clapping

@@ -1907,7 +1907,6 @@ bodiced
 bubonalgia
 bandanas
 bergama
-bandogs
 bediademed
 barken
 bandoleer
@@ -12285,6 +12284,7 @@ brunetness
 blanquillo
 buddles
 bawds
+bandogs
 brusquely
 bombinae
 backwardly
