@@ -7025,6 +7025,7 @@ deface
 despondence
 despondencies
 dar
+displacements
 despondentness
 desponder
 despondingly
@@ -8833,7 +8834,6 @@ deratization
 dulses
 dolefuller
 douricouli
-displacements
 diazotized
 devolatilising
 dodecagonal
