@@ -3022,7 +3022,6 @@ bookbinderies
 bubba
 bartramian
 bartree
-banish
 beetmister
 burlesks
 balsaming
@@ -6676,6 +6675,7 @@ bergy
 bergylt
 berginization
 berglet
+banish
 branchipodidae
 bicycloheptane
 baseheartedness
