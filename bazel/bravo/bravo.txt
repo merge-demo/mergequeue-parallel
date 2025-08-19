@@ -2957,7 +2957,6 @@ blennioidea
 barriness
 barringer
 broadcasters
-barrios
 boulevard
 barrister
 bootless
@@ -16270,6 +16269,7 @@ bode
 brucellae
 bleared
 boussingaultia
+barrios
 brucellosis
 barely
 biolytic
