@@ -12348,7 +12348,6 @@ androclus
 androconium
 annotinous
 antichristianly
-agialid
 aspergilliform
 attribute
 androgametophore
@@ -25255,6 +25254,7 @@ actuaries
 auriform
 aminosis
 amnestying
+agialid
 azimene
 antepenultima
 academus
