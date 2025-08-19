@@ -1499,6 +1499,7 @@ bacteremia
 borstal
 bistable
 booked
+borrow
 bedsick
 balladic
 balladised
@@ -8218,7 +8219,6 @@ blowtorch
 biflagelate
 bewaring
 boring
-borrow
 biflex
 benchfellow
 beginger

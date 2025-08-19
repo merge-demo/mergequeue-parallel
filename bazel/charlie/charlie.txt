@@ -19735,7 +19735,6 @@ chrysanthemum
 crokinole
 carbone
 combatting
-connoisseur
 commixed
 chowdering
 combfish
@@ -27682,6 +27681,7 @@ clockers
 chincloth
 cowier
 copalms
+connoisseur
 cowiest
 carnage
 cowing
