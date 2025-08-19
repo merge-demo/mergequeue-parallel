@@ -9051,7 +9051,6 @@ assagais
 aftermarriage
 allower
 acylamido
-arcubos
 arthrosporic
 alcahest
 alloxan
@@ -14303,6 +14302,7 @@ apiaceous
 antireaction
 aniseikonia
 antholite
+arcubos
 anthology
 anthological
 anthologically
