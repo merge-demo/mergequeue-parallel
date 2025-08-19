@@ -5651,7 +5651,6 @@ br
 barristerial
 bathrobe
 busheller
-bovovaccination
 belches
 blowpipes
 bytime
@@ -7241,6 +7240,7 @@ balearic
 bestrew
 bearwoods
 bladdernut
+bovovaccination
 bestrewment
 britts
 bestrewn
