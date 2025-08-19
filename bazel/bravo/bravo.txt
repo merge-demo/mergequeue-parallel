@@ -6708,7 +6708,6 @@ beryllonate
 berimed
 beseemly
 berimes
-bradypnoea
 bering
 beneficences
 broughtas
@@ -9219,6 +9218,7 @@ bogo
 backhauling
 bourbonesque
 bipedality
+bradypnoea
 bipeds
 bipeltate
 bipennate
