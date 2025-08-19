@@ -6208,7 +6208,6 @@ derisiveness
 dejeuners
 deferable
 derival
-derivant
 dendrogaea
 dillier
 derivates
@@ -13303,6 +13302,7 @@ dispraisingly
 diversion
 dutched
 dole
+derivant
 disprince
 destituted
 disprivacied
