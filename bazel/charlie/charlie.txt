@@ -15034,7 +15034,6 @@ citrous
 citrullus
 cittern
 cavorts
-chalcidoidea
 citterns
 citua
 cytulae
@@ -18232,6 +18231,7 @@ countermessage
 comicodidactic
 coexisting
 coexpand
+chalcidoidea
 coexpanded
 coexperiencer
 coextend
