@@ -4934,7 +4934,6 @@ costars
 classical
 cartelistic
 cassava
-carter
 clown
 carters
 cartesian
@@ -21691,6 +21690,7 @@ cheiromegaly
 condistillation
 conditionable
 conditionalism
+carter
 coplotting
 conumerary
 claviculus
