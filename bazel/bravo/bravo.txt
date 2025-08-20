@@ -3120,7 +3120,6 @@ bonnes
 burghemot
 bronchography
 bleat
-briskly
 brachiating
 beturbaned
 basenjis
@@ -3347,6 +3346,7 @@ blankeel
 brans
 bassa
 balaenicipites
+briskly
 basiphobia
 buccheros
 branchiopulmonate
