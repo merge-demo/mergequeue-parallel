@@ -3404,7 +3404,6 @@ caprate
 coagulatory
 clitoric
 capreol
-capreolar
 canonizant
 capreolary
 capreolate
@@ -30500,6 +30499,7 @@ corozos
 cubane
 cubangle
 cubanite
+capreolar
 cubatory
 contraclockwise
 conciliar

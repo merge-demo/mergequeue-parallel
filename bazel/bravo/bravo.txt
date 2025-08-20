@@ -10822,7 +10822,6 @@ blepharostenosis
 beeswing
 blanca
 blepharotomy
-blere
 beckon
 behooved
 blesboks
@@ -13453,6 +13452,7 @@ beer
 bought
 bleeding
 bottleman
+blere
 benzin
 bepun
 brayer
