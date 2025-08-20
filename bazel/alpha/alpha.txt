@@ -12174,6 +12174,7 @@ aminish
 anchorets
 amblyopsis
 angiometer
+allothigene
 altruism
 almach
 anchorite
@@ -17910,7 +17911,6 @@ approved
 approvedly
 attesting
 antiempirical
-allothigene
 approvers
 authenticate
 amphidesmous
