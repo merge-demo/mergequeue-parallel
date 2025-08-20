@@ -23119,7 +23119,6 @@ chuddahs
 chamberletted
 constate
 curettement
-confers
 celtically
 constellate
 coystrel
@@ -27979,6 +27978,7 @@ craftwork
 craftworker
 crag
 craggan
+confers
 countersignature
 craggy
 chromoscopic
