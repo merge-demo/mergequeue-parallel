@@ -3911,7 +3911,6 @@ dinobryon
 deixis
 decreases
 diduce
-daphnite
 desilicated
 deja
 dejection
@@ -4417,6 +4416,7 @@ demasting
 dematerialisation
 dematerialised
 donal
+daphnite
 disproportionation
 dioeciousness
 disclaimed
