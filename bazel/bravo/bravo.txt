@@ -4592,6 +4592,7 @@ boanerges
 bouts
 bucklered
 beddingroll
+bangster
 bubble
 bogans
 bewilderingly
@@ -12872,7 +12873,6 @@ boonfellow
 behorror
 bifoil
 bacchiac
-bangster
 bkpt
 barthian
 breastwise
