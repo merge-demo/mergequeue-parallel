@@ -13859,6 +13859,7 @@ brooch
 biduous
 bang
 bowheads
+bretelle
 bowie
 balr
 blatter
@@ -17747,7 +17748,6 @@ burnside
 bilharzia
 baculiticone
 burnt
-bretelle
 backfill
 biobibliography
 burnwood
