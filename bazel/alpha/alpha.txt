@@ -4185,6 +4185,7 @@ acquisita
 acentric
 adorers
 apophlegmatism
+aster
 adoringly
 abomas
 adorn
@@ -23883,7 +23884,6 @@ anociation
 authotype
 admiringly
 arborator
-aster
 anthropometrically
 autisms
 autoabstract
