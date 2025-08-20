@@ -10808,7 +10808,6 @@ branchiate
 blepharochromidrosis
 balow
 bullbeggar
-bugbeardom
 blepharomelasma
 blepharoncosis
 beplumed
@@ -16064,6 +16063,7 @@ brook
 brooke
 bounteous
 babiana
+bugbeardom
 bedrape
 brumalia
 baluster
