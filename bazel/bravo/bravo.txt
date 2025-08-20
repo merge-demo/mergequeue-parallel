@@ -9684,6 +9684,7 @@ bromids
 bismuthate
 burhinus
 birchbark
+bedrolls
 bismuthide
 bethanked
 beneficing
@@ -17767,7 +17768,6 @@ binomialism
 burping
 burps
 burrbark
-bedrolls
 balaenoid
 burrers
 burrfish
