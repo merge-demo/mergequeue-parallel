@@ -3134,7 +3134,6 @@ clone
 capanna
 capanne
 cystolithectomy
-caparison
 caparisoned
 caparisoning
 caparisons
@@ -14573,6 +14572,7 @@ cisrhenane
 cissampelos
 conster
 cissy
+caparison
 compassionless
 cissies
 cissoidal
