@@ -6442,7 +6442,6 @@ benzoquinoxaline
 balau
 benzosulfimide
 biophysiologist
-barbaresque
 benzosulphimide
 botanises
 bedlamer
@@ -12713,6 +12712,7 @@ bookcases
 bushmaster
 blastophthoric
 bibliographically
+barbaresque
 bowet
 booker
 boatkeeper
