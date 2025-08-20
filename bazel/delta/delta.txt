@@ -5116,6 +5116,7 @@ dravya
 dipsomania
 dafla
 dendrocoelan
+daunomycin
 dendrocoele
 dendrocolaptidae
 desipience
@@ -8918,7 +8919,6 @@ decaisnea
 dice
 diceboard
 dilemi
-daunomycin
 diceman
 dicentras
 dipyramid

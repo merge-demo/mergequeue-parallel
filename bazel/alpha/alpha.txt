@@ -2459,7 +2459,6 @@ acockbill
 alcoholizable
 antireduction
 acocotl
-amaga
 acoela
 acoelomate
 acoelomatous
@@ -19509,6 +19508,7 @@ actinobacillus
 arguments
 arranged
 attroupement
+amaga
 attemperator
 auriculated
 argusianus
