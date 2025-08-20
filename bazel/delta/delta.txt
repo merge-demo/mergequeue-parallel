@@ -7080,7 +7080,6 @@ destigmatization
 destigmatizing
 destination
 dunelands
-deliliria
 destines
 dz
 dollhood
@@ -15563,6 +15562,7 @@ donkeyman
 draffman
 decahedra
 draegerman
+deliliria
 dessert
 directness
 donkeywork
