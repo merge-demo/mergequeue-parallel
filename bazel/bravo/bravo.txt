@@ -2700,6 +2700,7 @@ bottomries
 batch
 beadflush
 barnman
+babite
 braconids
 barnstormer
 barnstorming
@@ -14998,7 +14999,6 @@ bengalic
 bepillared
 brachyceric
 bacteriol
-babite
 binapthyl
 befetter
 betiding
