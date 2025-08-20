@@ -15090,7 +15090,6 @@ antiecclesiasticism
 aggrandisement
 athena
 antieducation
-antieducational
 antieducationalist
 assist
 almemor
@@ -15637,6 +15636,7 @@ antioptionist
 antiorthodoxy
 agile
 antioxidants
+antieducational
 aeolididae
 afterking
 alderling
