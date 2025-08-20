@@ -8411,7 +8411,6 @@ dialists
 deacetylated
 dragboat
 dispreader
-dorsal
 disunite
 decked
 dialyze
@@ -16250,6 +16249,7 @@ delenda
 disabling
 doubter
 downcome
+dorsal
 dogtail
 downcomes
 downcoming
