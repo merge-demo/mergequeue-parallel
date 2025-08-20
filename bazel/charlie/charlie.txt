@@ -15967,7 +15967,6 @@ cleanly
 cleped
 clepsydra
 contorniate
-clepsine
 cleptobioses
 conics
 coadministration
@@ -23901,6 +23900,7 @@ ciguatera
 contumely
 consisted
 chadlock
+clepsine
 culling
 contumelious
 contund
