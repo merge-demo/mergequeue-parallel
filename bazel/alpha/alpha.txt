@@ -12813,7 +12813,6 @@ angiport
 autoinductive
 anaemic
 angkhak
-ammoniticone
 aeroscopically
 angle
 angled
@@ -14403,6 +14402,7 @@ anthraxylon
 anthrenus
 agriculturalists
 anthribidae
+ammoniticone
 antipharisaic
 antimonate
 airwise

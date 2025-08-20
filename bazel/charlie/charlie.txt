@@ -9568,6 +9568,7 @@ checklist
 checkman
 congruencies
 checkmate
+calixtus
 chirosophist
 chiotilla
 checkmating
@@ -14759,7 +14760,6 @@ chowchow
 coralberry
 cheapskate
 citational
-calixtus
 citatory
 canvassers
 cookery
