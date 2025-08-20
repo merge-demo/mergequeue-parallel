@@ -6543,6 +6543,7 @@ bklr
 bequeathed
 bruges
 blooping
+bolthead
 biokinetics
 boson
 bartramiaceae
@@ -11446,7 +11447,6 @@ bananalander
 bivious
 barytones
 bluestockings
-bolthead
 bluetit
 bluffly
 bullhoof
