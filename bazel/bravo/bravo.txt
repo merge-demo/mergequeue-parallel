@@ -10599,7 +10599,6 @@ brinny
 boresomely
 boundingly
 besayle
-bereft
 bohemia
 blaunner
 bein
@@ -15911,6 +15910,7 @@ blattering
 burgh
 bromuret
 bromus
+bereft
 birdlet
 bronchadenitis
 bimetallistic
