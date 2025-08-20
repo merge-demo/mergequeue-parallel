@@ -2312,7 +2312,6 @@ biasways
 barbican
 breloque
 bathyscape
-barbicel
 bemitred
 barbicels
 bathonian
@@ -11985,6 +11984,7 @@ bipack
 bogong
 biod
 bimetallism
+barbicel
 bacchical
 bogtrotting
 bimillenary
