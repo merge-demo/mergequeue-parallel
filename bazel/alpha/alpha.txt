@@ -18380,7 +18380,6 @@ ankh
 arawakian
 anteriority
 antlion
-amboceptor
 actinistia
 archdeacons
 antiquely
@@ -24466,6 +24465,7 @@ argalis
 araliad
 artier
 appeased
+amboceptor
 algomian
 alkalinization
 arithmogram
