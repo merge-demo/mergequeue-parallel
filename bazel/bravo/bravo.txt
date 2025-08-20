@@ -14320,7 +14320,6 @@ bikini
 bounciness
 brahmanism
 brahmanist
-brahmanistic
 brahmanize
 benched
 bracers
@@ -17259,6 +17258,7 @@ beating
 burseed
 berretta
 beman
+brahmanistic
 blastogenetic
 bookshelf
 bugala
