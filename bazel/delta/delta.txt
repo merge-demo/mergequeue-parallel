@@ -8848,7 +8848,6 @@ dibbing
 deliberates
 deterring
 drachmas
-dibbled
 degame
 dybbuk
 dominantly
@@ -11925,6 +11924,7 @@ defectively
 deductile
 diseased
 deifying
+dibbled
 dissyllabify
 dianoetic
 debonaire
