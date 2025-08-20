@@ -1344,7 +1344,6 @@ brod
 botrylle
 backdrops
 borderlands
-balbusard
 beggarliness
 burlap
 brayed
@@ -8813,6 +8812,7 @@ bink
 binna
 bowering
 binned
+balbusard
 binny
 bumpered
 bondman
