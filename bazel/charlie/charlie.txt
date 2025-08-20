@@ -2613,6 +2613,7 @@ cryptocrystallization
 columnar
 cyamelide
 castile
+codline
 caned
 canela
 canelas
@@ -17917,7 +17918,6 @@ codirects
 codiscoverer
 codist
 codivine
-codline
 calcigerous
 controlled
 codling
