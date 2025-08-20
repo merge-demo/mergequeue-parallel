@@ -1049,6 +1049,7 @@ chironomidae
 croisette
 calcareousness
 capitalise
+coinheritance
 chiliaedron
 counsellorship
 calcariferous
@@ -16566,7 +16567,6 @@ carboxyl
 cowsharn
 cosmos
 calendar
-coinheritance
 correlative
 clogmaking
 clogwheel
