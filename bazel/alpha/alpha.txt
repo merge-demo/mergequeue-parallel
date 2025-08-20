@@ -14207,7 +14207,6 @@ aupaka
 antesignanus
 antesternal
 antesternum
-antesuperior
 arboretums
 antisyndication
 antetemple
@@ -15871,6 +15870,7 @@ antelopine
 antiprelate
 antiprelatic
 aliquot
+antesuperior
 antiprelatist
 archils
 antipriest
