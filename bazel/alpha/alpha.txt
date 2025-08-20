@@ -15518,7 +15518,6 @@ anthropophagi
 aquaplanes
 antimonies
 antimonious
-antimonium
 anemoses
 antimoniuret
 anatine
@@ -19606,6 +19605,7 @@ arion
 ariose
 arrowless
 ariot
+antimonium
 aculeiform
 amidone
 arisaid
