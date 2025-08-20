@@ -2935,6 +2935,7 @@ attrahent
 axisymmetric
 appalment
 appendages
+allophanic
 ashless
 antozonite
 antiheroism
@@ -8962,7 +8963,6 @@ allophanamid
 allophanate
 allophanates
 atypicality
-allophanic
 acredula
 allophyle
 arrow
