@@ -5857,6 +5857,7 @@ agglomeratic
 agglomeration
 agglomerative
 apical
+analyses
 anartismos
 agglutinate
 analytically
@@ -11760,7 +11761,6 @@ aparavidya
 analysers
 abstentions
 aerides
-analyses
 antimoniate
 analysis
 analyst

@@ -3650,6 +3650,7 @@ clangor
 cocineras
 caragana
 caraganas
+curate
 crateful
 carageens
 chromatography
@@ -31256,7 +31257,6 @@ crocoites
 canids
 communisation
 curarizing
-curate
 curates
 curatess
 cliency
