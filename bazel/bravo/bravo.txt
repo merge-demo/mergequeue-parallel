@@ -10921,7 +10921,6 @@ backscratcher
 blackamoor
 beshiver
 bumps
-beetler
 biloquist
 biclinia
 bridleless
@@ -15343,6 +15342,7 @@ brigantia
 brigantines
 brigatry
 brigetty
+beetler
 beliquoring
 bekick
 burgensic
