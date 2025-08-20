@@ -3853,6 +3853,7 @@ bullpouts
 babus
 bawdrics
 bawdries
+baltimorean
 boreal
 bawl
 bevelment
@@ -9667,7 +9668,6 @@ bisks
 bysmalith
 bismark
 boulder
-baltimorean
 bladed
 besmiles
 bismerpund

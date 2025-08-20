@@ -1230,6 +1230,7 @@ cnemic
 chalcidica
 calefactory
 candlewood
+collating
 calefactories
 calefy
 calelectric
@@ -20944,7 +20945,6 @@ compressometer
 compressors
 comprest
 compriest
-collating
 chambering
 comprisal
 controllability
