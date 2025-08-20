@@ -6848,7 +6848,6 @@ degenerates
 dextrocardial
 dendrograph
 desmodynia
-desmodontidae
 danuri
 desmogenous
 dreariment
@@ -12365,6 +12364,7 @@ detracted
 dactyl
 dithyrambically
 dromaeognathous
+desmodontidae
 dielectrics
 discharged
 differentiates

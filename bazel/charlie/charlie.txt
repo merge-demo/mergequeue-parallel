@@ -2671,7 +2671,6 @@ canichanan
 canicola
 canicula
 completest
-creamer
 canidia
 carbonylation
 canikin
@@ -12310,6 +12309,7 @@ christener
 christeners
 christening
 christens
+creamer
 christhood
 carburator
 cryptography
