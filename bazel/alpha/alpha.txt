@@ -13398,7 +13398,6 @@ artiste
 anna
 alibies
 annabergite
-antiminsion
 antimnemonic
 annaly
 annalia
@@ -18281,6 +18280,7 @@ aggie
 anabaptistical
 alowe
 aragonspath
+antiminsion
 araguane
 araguato
 araignee
