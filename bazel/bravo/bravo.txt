@@ -3388,6 +3388,7 @@ bryophytic
 botanizer
 basswood
 burghership
+bewailer
 berceau
 brelaw
 byrrus
@@ -10387,7 +10388,6 @@ blackmails
 bateau
 barodynamics
 blander
-bewailer
 bookdom
 bullism
 bowk
