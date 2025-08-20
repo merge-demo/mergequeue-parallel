@@ -7180,7 +7180,6 @@ biarticulated
 bacteriemia
 bernicles
 bierstube
-bestay
 burleys
 bestamp
 bestand
@@ -15572,6 +15571,7 @@ bewigging
 bonairly
 bristols
 britain
+bestay
 buzzardlike
 biting
 britannically
