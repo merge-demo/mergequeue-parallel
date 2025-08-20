@@ -13035,7 +13035,6 @@ dromiceiidae
 dyspareunia
 deliria
 diotrephes
-dopiness
 disparity
 disruptability
 dithecous
@@ -17691,6 +17690,7 @@ diecase
 dichotomistic
 drays
 downlying
+dopiness
 democratifiable
 desmonosology
 duodenojejunal
