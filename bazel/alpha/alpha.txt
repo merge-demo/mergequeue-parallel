@@ -7040,7 +7040,6 @@ akhyana
 astrild
 anecdotalist
 akhissar
-akhlame
 agaricin
 akhoond
 abnerval
@@ -22637,6 +22636,7 @@ aggies
 athonite
 atonia
 athort
+akhlame
 athrill
 acker
 athrive
