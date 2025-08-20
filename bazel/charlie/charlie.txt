@@ -611,7 +611,6 @@ cloakless
 coorg
 cephalalgy
 ctenodipterini
-caecilia
 caeciliidae
 chiropod
 citizenizing
@@ -23916,6 +23915,7 @@ contuses
 contusion
 choirwise
 contusioned
+caecilia
 contusions
 contusive
 conns
