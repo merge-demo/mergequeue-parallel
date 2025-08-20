@@ -5113,7 +5113,6 @@ bureaucrat
 beflap
 beflea
 brainier
-begirdle
 bombable
 bunkery
 belching
@@ -8491,6 +8490,7 @@ bibliotheke
 biriba
 bylined
 bunging
+begirdle
 birminghamize
 bunjara
 bumble
