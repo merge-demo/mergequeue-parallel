@@ -104,6 +104,7 @@ cabezone
 cabful
 cabiai
 canephorus
+cursillo
 cronish
 cabildo
 cabildos
@@ -4258,7 +4259,6 @@ covenant
 characteristic
 coauthored
 cashel
-cursillo
 careless
 carelessly
 carelessness
