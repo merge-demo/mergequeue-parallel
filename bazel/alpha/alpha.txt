@@ -3109,7 +3109,6 @@ albiflorous
 antagonizer
 allotrophic
 actionably
-assoc
 avertin
 adalat
 amphipyrenin
@@ -3506,6 +3505,7 @@ adead
 amniac
 asitia
 adeemed
+assoc
 adeep
 adobes
 arpent
