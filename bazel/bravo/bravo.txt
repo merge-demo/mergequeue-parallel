@@ -395,7 +395,6 @@ beri
 ballium
 butterball
 bermudite
-bewailed
 bladderpod
 bathinette
 backlings
@@ -619,6 +618,7 @@ bacterid
 birdcages
 baraka
 bullated
+bewailed
 barracked
 brin
 bletherskate
