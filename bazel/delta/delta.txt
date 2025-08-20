@@ -17502,6 +17502,7 @@ devoices
 densities
 drubbers
 disbody
+displeasurement
 drubble
 deletery
 drubly
@@ -17939,7 +17940,6 @@ dockage
 dulcin
 disenchanting
 dissembled
-displeasurement
 dufrenoysite
 dufter
 dosage

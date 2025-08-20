@@ -4848,7 +4848,6 @@ blizz
 blephara
 briefings
 bedsitter
-batmen
 backwraps
 baudekins
 by
@@ -13680,6 +13679,7 @@ broideress
 balanceman
 blenchers
 bowlfuls
+batmen
 brashly
 bridged
 barwin
