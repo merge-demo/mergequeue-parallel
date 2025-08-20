@@ -5955,6 +5955,7 @@ cathartides
 contorting
 chevied
 carburized
+concrescible
 cathartolinum
 cathect
 cathected
@@ -21565,7 +21566,6 @@ concurrently
 cellarets
 concurrentness
 corsepresent
-concrescible
 coercer
 cofinal
 concurring
