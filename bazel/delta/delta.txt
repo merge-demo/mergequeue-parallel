@@ -6530,7 +6530,6 @@ decretals
 dirtbird
 devocalise
 dreggily
-descort
 differentiators
 dosa
 dolorimetry
@@ -9689,6 +9688,7 @@ dalasis
 disasterly
 dowcet
 diverting
+descort
 diiodoform
 debiting
 dipteron
