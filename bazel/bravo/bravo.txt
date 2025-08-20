@@ -7485,7 +7485,6 @@ biomicroscope
 bowne
 besant
 burtree
-bully
 berhymed
 bistre
 bleariest
@@ -11312,6 +11311,7 @@ biologism
 blowse
 bargeman
 barse
+bully
 baith
 bespoused
 blowsier
