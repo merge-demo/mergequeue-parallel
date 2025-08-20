@@ -8003,7 +8003,6 @@ antimoniureted
 alfaje
 alfaki
 alfalfas
-aer
 ayyubid
 anapaest
 algesia
@@ -11951,6 +11950,7 @@ anarchism
 aftergrind
 anarchist
 anarchists
+aer
 archeologically
 anarcho
 anarchosyndicalist
