@@ -9558,6 +9558,7 @@ cabbalah
 carpodacus
 cardanic
 capos
+chair
 checkhook
 checky
 cityful
@@ -23832,7 +23833,6 @@ charpoy
 chewink
 cannonades
 contrib
-chair
 clavel
 contributable
 civilisedness
