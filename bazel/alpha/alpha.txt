@@ -5329,7 +5329,6 @@ afghans
 aficionada
 aficionadas
 antiloemic
-afifi
 autogiro
 aecia
 afikomen
@@ -11455,6 +11454,7 @@ argolic
 acaulose
 arteriolar
 amex
+afifi
 adenophore
 appetites
 algoristic
