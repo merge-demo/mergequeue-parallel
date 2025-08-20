@@ -1326,7 +1326,6 @@ dipentine
 demissive
 dwarfing
 draftsperson
-dompt
 dauntingly
 damagement
 dart
@@ -5395,6 +5394,7 @@ dentists
 dentition
 detribalizing
 denaturalizing
+dompt
 dolldom
 dilating
 dielytra
