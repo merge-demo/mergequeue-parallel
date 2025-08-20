@@ -8678,6 +8678,7 @@ bahada
 birching
 branners
 bimalar
+biedermeier
 bimana
 boras
 bimanal
@@ -15499,7 +15500,6 @@ bitwise
 bimas
 beadlet
 bryony
-biedermeier
 buglet
 bryonia
 belloot
