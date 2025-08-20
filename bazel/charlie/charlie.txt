@@ -9818,7 +9818,6 @@ citolas
 chelydre
 cyclonical
 crepance
-chelydroid
 condignness
 chrematistics
 ceylon
@@ -27854,6 +27853,7 @@ craal
 craaling
 courtezanship
 craals
+chelydroid
 crabbedness
 crescendoed
 crabber
