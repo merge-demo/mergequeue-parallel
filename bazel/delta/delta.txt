@@ -7331,7 +7331,6 @@ dalesmen
 disemploying
 douceurs
 determined
-dextropedal
 diphenylenimide
 detorsion
 deashed
@@ -12122,6 +12121,7 @@ dysergasia
 determining
 diplopodous
 disert
+dextropedal
 detergency
 ducts
 downshifting
