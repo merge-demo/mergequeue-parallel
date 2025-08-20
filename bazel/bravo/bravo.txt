@@ -6697,6 +6697,7 @@ berycoidea
 barpost
 berycomorphi
 bemixes
+brawlis
 bunsenite
 berigora
 beryl
@@ -8560,7 +8561,6 @@ billbug
 biller
 blackeye
 brantcorn
-brawlis
 billeted
 billeter
 bilabe

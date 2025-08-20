@@ -10381,7 +10381,6 @@ defervescing
 dioramic
 diordinal
 duplet
-distraint
 disgregation
 diorthotic
 dipotassic
@@ -17921,6 +17920,7 @@ duffadar
 dinman
 demarcating
 dumpier
+distraint
 duffed
 doublers
 dispermous
