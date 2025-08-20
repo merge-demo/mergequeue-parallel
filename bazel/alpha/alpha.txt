@@ -1080,6 +1080,7 @@ acetylenediurein
 anjan
 albertustaler
 amnia
+ancestorial
 abuna
 askew
 abundance
@@ -5803,7 +5804,6 @@ amovability
 agene
 ataxite
 ageneses
-ancestorial
 anthropomorphise
 agenesis
 agenetic
