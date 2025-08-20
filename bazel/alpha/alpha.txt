@@ -10719,6 +10719,7 @@ animosities
 anabolitic
 antaphrodisiac
 aqueoigneous
+apprize
 alevins
 amire
 amyris
@@ -17852,7 +17853,6 @@ apprising
 antioxidizing
 allomerize
 apprizal
-apprize
 aborting
 apprizer
 apprizers
