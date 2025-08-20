@@ -12252,6 +12252,7 @@ descartes
 deliberativeness
 dossiere
 demoniacism
+disyllabized
 drubbing
 desegregate
 dysadaptation
@@ -12489,7 +12490,6 @@ deboise
 demesne
 devisee
 demurring
-disyllabized
 dumky
 discontinuations
 disconform
