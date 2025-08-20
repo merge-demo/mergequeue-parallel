@@ -7768,7 +7768,6 @@ cerosin
 cerote
 chastises
 cabas
-cerotin
 chorogi
 cerotypes
 confirmedly
@@ -25310,6 +25309,7 @@ cassoulet
 cornbinks
 coidentity
 chaplainship
+cerotin
 cornbole
 cornbottle
 clistocarp

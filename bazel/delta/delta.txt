@@ -6145,6 +6145,7 @@ dijudicant
 duperies
 deservedness
 deratized
+datura
 derats
 deratted
 defatigation
@@ -15903,7 +15904,6 @@ dosed
 deboning
 discounts
 doser
-datura
 dogproof
 dosing
 dubs
