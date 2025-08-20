@@ -3199,6 +3199,7 @@ demoniac
 defenceable
 dekle
 doftberry
+disembarkment
 diphthongising
 doughbelly
 defencive
@@ -18406,7 +18407,6 @@ demagogy
 duolog
 duologues
 doubtedly
-disembarkment
 demilune
 demonstrable
 duopsonistic
