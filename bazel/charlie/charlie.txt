@@ -6922,6 +6922,7 @@ circularizers
 cofaster
 celtiberian
 celticize
+carangidae
 celtidaceae
 celtiform
 celtillyrians
@@ -27549,7 +27550,6 @@ cannulated
 cerberean
 covercle
 coprolalia
-carangidae
 covered
 coverer
 campfire
