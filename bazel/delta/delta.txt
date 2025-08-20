@@ -2037,6 +2037,7 @@ decahedrons
 dominical
 decahydronaphthalene
 dramaturge
+disbutton
 disaccommodate
 downhanging
 decay
@@ -10708,7 +10709,6 @@ doyle
 disorganizing
 deferring
 diiodide
-disbutton
 deepen
 dipnoans
 danelaw
