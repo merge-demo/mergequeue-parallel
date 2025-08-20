@@ -6113,6 +6113,7 @@ bulbel
 bhd
 barricader
 bend
+bester
 bub
 bendee
 bullwhips
@@ -13341,7 +13342,6 @@ both
 bradyphagia
 bothersome
 bothered
-bester
 brender
 botherment
 bothers
