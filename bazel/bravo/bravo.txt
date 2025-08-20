@@ -9829,6 +9829,7 @@ begums
 bites
 birefringent
 bebat
+boreen
 bytes
 bitewing
 beryx
@@ -13064,7 +13065,6 @@ borecoles
 buddhic
 bored
 borsches
-boreen
 burdash
 boreiad
 bannister
