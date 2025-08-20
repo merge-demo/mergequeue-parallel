@@ -5632,6 +5632,7 @@ dozy
 desaturation
 daying
 demographical
+diamins
 depetalize
 disorganiser
 disprivilege
@@ -8490,7 +8491,6 @@ downset
 deterge
 directionize
 dodecyl
-diamins
 draconitic
 downgrades
 diamondback
