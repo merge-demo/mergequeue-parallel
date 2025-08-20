@@ -7061,7 +7061,6 @@ duramen
 destinezite
 driveable
 dessous
-devall
 doodad
 durst
 dessus
@@ -10338,6 +10337,7 @@ dioon
 diophysite
 dealates
 darwinite
+devall
 diphthongic
 dunkling
 diosmin

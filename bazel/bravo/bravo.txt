@@ -11409,6 +11409,7 @@ brownian
 bekko
 bestrut
 bastionet
+bose
 boxthorn
 bagplant
 bluey
@@ -13188,7 +13189,6 @@ begemmed
 boschveld
 boulevardize
 bewit
-bose
 baston
 boselaphus
 bannockburn
