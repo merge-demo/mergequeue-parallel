@@ -9846,6 +9846,7 @@ cowardliness
 clubroot
 combattants
 carpologist
+coze
 chemick
 calanid
 chemicker
@@ -27804,7 +27805,6 @@ coxswains
 containerizes
 camouflaged
 coxwains
-coze
 casette
 contraire
 craquelures

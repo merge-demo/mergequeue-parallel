@@ -8458,7 +8458,6 @@ acetonyl
 abapical
 alkalinuria
 alkalisable
-apotheosizing
 aristolochiaceae
 alisos
 alkalisation
@@ -20164,6 +20163,7 @@ assiduously
 arrearage
 arrearages
 amoles
+apotheosizing
 alphabetise
 arrears
 arrendation
