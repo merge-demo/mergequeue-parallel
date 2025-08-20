@@ -1611,7 +1611,6 @@ coenzyme
 creasy
 calmant
 cytopathology
-conveyor
 calmecac
 cyathophylloid
 courtrooms
@@ -17261,6 +17260,7 @@ coalescent
 combustibility
 coalesces
 coalescing
+conveyor
 choya
 coalfield
 coalfitter

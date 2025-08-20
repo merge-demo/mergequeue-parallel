@@ -11651,6 +11651,7 @@ anaerobation
 acrocentric
 anaerobion
 apocrisiary
+aperea
 anaerobiont
 anaerobiosis
 anaerobiotic
@@ -16603,7 +16604,6 @@ apercus
 aforegoing
 arterioplania
 autocratic
-aperea
 ataxy
 alang
 aperient
