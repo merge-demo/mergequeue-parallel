@@ -2914,6 +2914,7 @@ disorientating
 dedication
 drafting
 disfavor
+dispurse
 duodecimals
 dedicatory
 dedicatorily
@@ -13330,7 +13331,6 @@ dysprosia
 devant
 disproves
 disprovide
-dispurse
 distillate
 daintier
 datism
