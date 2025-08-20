@@ -2172,6 +2172,7 @@ camphorwood
 calvinize
 conference
 campi
+considerer
 concurrency
 campy
 campier
@@ -21030,7 +21031,6 @@ consolidate
 compunctionless
 cyanean
 crofterize
-considerer
 carouser
 cyclian
 compunctiously
