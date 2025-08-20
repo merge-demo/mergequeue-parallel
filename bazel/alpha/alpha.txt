@@ -15008,7 +15008,6 @@ anticritical
 anticritically
 astrose
 apetalousness
-attestant
 anticrochet
 antics
 applicatorily
@@ -19781,6 +19780,7 @@ aminovaleric
 anguiform
 armarian
 adaptivity
+attestant
 armarium
 armariumaria
 atli
