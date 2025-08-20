@@ -8121,7 +8121,6 @@ bidiagonal
 bidimensional
 barble
 befouls
-biding
 bidirectional
 biophagy
 beliefs
@@ -17117,6 +17116,7 @@ bygones
 bullheads
 bidialectalism
 buckwheater
+biding
 basophilous
 barbera
 brab
