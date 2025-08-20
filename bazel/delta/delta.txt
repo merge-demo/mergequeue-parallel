@@ -7551,7 +7551,6 @@ drawout
 derner
 dunziekte
 desilverization
-decursive
 deuterosy
 deuterostoma
 drubber
@@ -12768,6 +12767,7 @@ docimasy
 dyslogistic
 doily
 disloyal
+decursive
 dotardly
 drawfiling
 donative
