@@ -10105,7 +10105,6 @@ antiegoistic
 arilled
 ajangle
 azedarach
-amorphous
 amboynas
 amboinese
 ambolic
@@ -20870,6 +20869,7 @@ asbolite
 aryballi
 anguria
 ascanius
+amorphous
 ascape
 amidid
 aphasias
