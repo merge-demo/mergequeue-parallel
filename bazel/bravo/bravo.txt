@@ -11735,7 +11735,6 @@ boorish
 behung
 buzzword
 bobol
-biconvex
 bedamns
 bedwarfs
 brynza
@@ -16728,6 +16727,7 @@ ballett
 bucorvus
 bowknots
 billheading
+biconvex
 burrower
 bahama
 blinder
