@@ -7525,7 +7525,6 @@ cardamoms
 chlorophyl
 ceria
 ceratophyllaceous
-chaos
 crinch
 ceratophyllum
 ceratophyta
@@ -18456,6 +18455,7 @@ chemitypies
 carterly
 cognovit
 coude
+chaos
 cognovits
 chondromata
 conspiratorially
