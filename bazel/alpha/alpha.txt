@@ -7613,7 +7613,6 @@ alcicornium
 acetary
 antisepticist
 alcidine
-audiometry
 alcine
 atomist
 apportionate
@@ -12635,6 +12634,7 @@ angel
 angela
 artemis
 artophophoria
+audiometry
 anthodium
 arsenicize
 ameliorated
