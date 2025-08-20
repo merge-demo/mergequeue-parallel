@@ -1055,6 +1055,7 @@ blousier
 buzzards
 bailors
 birdlimed
+bewildered
 bestraddle
 borosalicylate
 bailey
@@ -15644,7 +15645,6 @@ bundlet
 bluster
 botulismus
 blastomycetes
-bewildered
 burr
 bedog
 beholder
