@@ -15318,6 +15318,7 @@ clamming
 clammyweed
 clamored
 clamorer
+cricketlike
 clamorers
 clamorist
 clamorous
@@ -28966,7 +28967,6 @@ chuckler
 cicindelid
 countervengeance
 cigaret
-cricketlike
 coercibility
 crickle
 chandrakanta
