@@ -7892,6 +7892,7 @@ alength
 alenu
 atonics
 alepine
+assailableness
 alepole
 ashcans
 activistic
@@ -21578,7 +21579,6 @@ allometry
 assaying
 assail
 adenectopic
-assailableness
 angleberry
 anthophagous
 amatorial
