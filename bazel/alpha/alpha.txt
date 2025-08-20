@@ -12128,7 +12128,6 @@ anattos
 anatum
 anaunters
 aggressive
-anax
 ablaut
 anaxagorean
 andira
@@ -22348,6 +22347,7 @@ astronomer
 astronomy
 aeschynomene
 aphototropism
+anax
 astronomical
 archin
 ajenjo
