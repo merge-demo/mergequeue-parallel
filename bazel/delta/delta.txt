@@ -2252,7 +2252,6 @@ decembrist
 demnition
 dowset
 decemcostate
-durax
 dyewoods
 decemfoliate
 dogmas
@@ -13659,6 +13658,7 @@ diedral
 dissimilate
 depletion
 disacquaintance
+durax
 dissimilating
 dissimilative
 dangered
