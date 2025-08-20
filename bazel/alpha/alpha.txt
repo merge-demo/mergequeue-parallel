@@ -6345,6 +6345,7 @@ agromyzidae
 agron
 alamos
 ascaricidal
+avalvular
 agronome
 aspidocephali
 autoignition
@@ -20812,7 +20813,6 @@ aconitin
 asaph
 affectate
 arachnidism
-avalvular
 arcate
 antiparasitically
 asaphia
