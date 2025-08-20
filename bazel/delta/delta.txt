@@ -7884,7 +7884,6 @@ dites
 dianthus
 dewdamp
 dioestrus
-dewdrop
 dewdropper
 drank
 dogteeth
@@ -13518,6 +13517,7 @@ downtrodden
 dissaving
 djinny
 dysgraphia
+dewdrop
 deticks
 demonomy
 dissavs
