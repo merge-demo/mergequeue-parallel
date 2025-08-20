@@ -3106,7 +3106,6 @@ daubing
 dentated
 dislade
 defamed
-dilogical
 duxes
 disestablisher
 disbodied
@@ -13723,6 +13722,7 @@ disengagedness
 dadas
 dystrophies
 decorously
+dilogical
 dunt
 despoiling
 diphosgene
