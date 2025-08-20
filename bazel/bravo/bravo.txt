@@ -12862,6 +12862,7 @@ barracuda
 boon
 boondogglers
 brevifoliate
+bludgeoner
 bibliog
 blipped
 boondoggling
@@ -15393,7 +15394,6 @@ bixa
 bono
 beflout
 benetted
-bludgeoner
 bifurcations
 boxthorns
 battledoring
