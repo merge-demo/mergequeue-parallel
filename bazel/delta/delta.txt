@@ -6859,6 +6859,7 @@ desmoncus
 dissention
 danknesses
 dryobalanops
+drevel
 dragnet
 deadflat
 deltic
@@ -14635,7 +14636,6 @@ desulfovibrio
 disillusionary
 duodenectomy
 dyaster
-drevel
 dibucaine
 dialogued
 debag
