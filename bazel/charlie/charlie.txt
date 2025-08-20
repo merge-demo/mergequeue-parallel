@@ -8571,7 +8571,6 @@ cataclysmatic
 congealedness
 chimbley
 corslet
-chanca
 chance
 chanceably
 clow
@@ -29827,6 +29826,7 @@ crowders
 celiogastrotomy
 confederating
 croquignole
+chanca
 crore
 colloguing
 classman
