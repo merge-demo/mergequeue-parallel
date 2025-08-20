@@ -1571,6 +1571,7 @@ befiddle
 bacchanal
 ballies
 backrushes
+bitumens
 bifidity
 beknighting
 brummagem
@@ -3232,7 +3233,6 @@ brome
 babydom
 birder
 binormal
-bitumens
 bolted
 basilweed
 basinal
