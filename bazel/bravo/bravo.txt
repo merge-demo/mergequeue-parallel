@@ -10881,6 +10881,7 @@ burnup
 beadledom
 biggity
 bibbling
+bifid
 blindball
 bindable
 befingered
@@ -17686,7 +17687,6 @@ blisterous
 burlesquer
 boviculture
 burlesquing
-bifid
 burlet
 butterfly
 biotically
