@@ -19615,6 +19615,7 @@ childhoods
 columel
 coachmanship
 ciliata
+centimolar
 chromaticism
 columellar
 coextensiveness
@@ -19629,7 +19630,6 @@ camphors
 columnarian
 calamaries
 columnate
-centimolar
 cupseed
 columnates
 columnation
