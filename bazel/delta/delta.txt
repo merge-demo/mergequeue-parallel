@@ -5562,7 +5562,6 @@ departmentalism
 departmentalization
 departmentalized
 dorper
-departmentally
 depancreatize
 drawrod
 drainermen
@@ -12371,6 +12370,7 @@ differentiates
 disharmonious
 drias
 disharmonised
+departmentally
 disharmonising
 deflexion
 demasculinized
