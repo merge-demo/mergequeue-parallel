@@ -211,7 +211,6 @@ cowgirls
 carpological
 cabrilla
 cabrillas
-cabrit
 cabs
 cabstands
 cabuya
@@ -1630,6 +1629,7 @@ calmnesses
 coemployee
 calochortaceae
 contraceptives
+cabrit
 calodaemon
 cephaleuros
 calodemon
