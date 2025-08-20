@@ -3271,7 +3271,6 @@ anacamptically
 anomurous
 agawam
 adactylous
-automatograph
 adad
 agalawood
 autoepilation
@@ -19151,6 +19150,7 @@ arcuale
 arcualia
 acrita
 arcuate
+automatograph
 agallochum
 aristotelic
 allotypies
