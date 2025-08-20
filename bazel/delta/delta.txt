@@ -2173,7 +2173,6 @@ difda
 disinvestment
 diphyozooid
 decoloration
-decarburise
 decarburising
 diakonika
 despiritualize
@@ -14178,6 +14177,7 @@ dammish
 daywork
 deringer
 dunair
+decarburise
 disunify
 disorientates
 dolesman

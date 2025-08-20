@@ -8994,6 +8994,7 @@ charette
 censers
 chemisms
 chargable
+crystallography
 combmaker
 charge
 chargeable
@@ -29490,7 +29491,6 @@ contractibleness
 cageot
 cloak
 chileanize
-crystallography
 crystalloid
 concretism
 choragium
