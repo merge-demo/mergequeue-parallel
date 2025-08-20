@@ -3196,7 +3196,6 @@ cobb
 cultivation
 cede
 cacochymic
-capeweed
 coverlet
 craked
 citruses
@@ -21343,6 +21342,7 @@ conchometer
 conchospiral
 cowboys
 conchostraca
+capeweed
 corotated
 computed
 conchs
