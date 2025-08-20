@@ -2023,6 +2023,7 @@ bidactyl
 bloodstones
 bankcard
 bethought
+babehood
 banky
 banknote
 beachless
@@ -16715,7 +16716,6 @@ bedfoot
 bucktooth
 bucktoothed
 bucku
-babehood
 buckwagon
 boodie
 buckwheatlike
