@@ -2510,7 +2510,6 @@ candids
 crawlie
 cantorial
 countermands
-coasters
 candies
 cueing
 candying
@@ -17988,6 +17987,7 @@ cubicle
 colics
 cattlehide
 coelenterate
+coasters
 catharses
 crotin
 coelenterates
