@@ -3138,6 +3138,7 @@ dinnery
 defeasive
 defeated
 directs
+desmarestia
 downs
 diluviate
 disgout
@@ -7805,7 +7806,6 @@ daylighted
 diathetic
 diplospondylic
 dispending
-desmarestia
 devolving
 devon
 devons

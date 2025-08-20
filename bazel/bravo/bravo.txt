@@ -1350,6 +1350,7 @@ beggarliness
 burlap
 brayed
 butterbump
+bilboes
 betwixen
 balconies
 bacule
@@ -15422,7 +15423,6 @@ blazon
 brodeglass
 braggishly
 boundary
-bilboes
 breaststroker
 breadberry
 bodoni
