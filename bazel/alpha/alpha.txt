@@ -9149,6 +9149,7 @@ antiputrefaction
 anaemias
 averter
 animations
+amphipodiform
 apollonistic
 almemars
 alienly
@@ -19412,7 +19413,6 @@ antisemite
 argillaceous
 anmia
 affectively
-amphipodiform
 awarder
 argillic
 aspalathus
