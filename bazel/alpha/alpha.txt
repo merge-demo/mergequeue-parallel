@@ -3582,7 +3582,6 @@ adenoidal
 adenoidectomy
 aluminous
 atactiform
-ailurophobia
 adroitest
 adenolymphocele
 asexualized
@@ -17205,6 +17204,7 @@ anagoge
 anatifa
 apophysis
 autopsying
+ailurophobia
 aspersoria
 apophlegm
 appointe
