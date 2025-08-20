@@ -4527,6 +4527,7 @@ bathroot
 bater
 bool
 bedabble
+beaten
 beagles
 barricadoed
 bunch
@@ -9839,7 +9840,6 @@ brail
 bathyl
 bitheism
 bisegment
-beaten
 bullnecked
 baccated
 brucins
