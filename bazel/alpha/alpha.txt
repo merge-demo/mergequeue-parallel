@@ -12422,6 +12422,7 @@ ajowan
 adequateness
 anecdote
 anecdotes
+attollent
 anecdotic
 anecdotical
 anova
@@ -23162,7 +23163,6 @@ accroach
 avunculate
 attntrp
 anthropidae
-attollent
 amorousness
 astraddle
 attorn
