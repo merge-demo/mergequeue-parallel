@@ -5546,7 +5546,6 @@ disattire
 debunked
 deutomala
 dermoskeletal
-department
 departmental
 disrobers
 desiccate
@@ -15229,6 +15228,7 @@ demagoguism
 dididae
 disbalance
 doleance
+department
 delectably
 daimonic
 directory
