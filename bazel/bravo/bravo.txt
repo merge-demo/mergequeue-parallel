@@ -2191,6 +2191,7 @@ bararite
 barathea
 barbellate
 bibbled
+benthoses
 baysmelts
 bemaddens
 barathra
@@ -6314,7 +6315,6 @@ benthonic
 bevors
 benthoscope
 bemoat
-benthoses
 bacteriolysin
 backwashes
 blockhouses
