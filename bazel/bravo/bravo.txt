@@ -311,7 +311,6 @@ bedright
 birkenhead
 biolith
 booter
-bakeware
 backslided
 backberend
 backbite
@@ -4101,6 +4100,7 @@ beswarms
 botulinum
 beardy
 blanchimeter
+bakeware
 bearding
 balminess
 beslimer
