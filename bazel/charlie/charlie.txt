@@ -9370,7 +9370,6 @@ carcoon
 cerris
 custos
 chauk
-catagmatic
 chaukidari
 castrate
 chullo
@@ -10668,6 +10667,7 @@ cephalomancy
 chimakuan
 chimaphila
 consummates
+catagmatic
 causatively
 chymase
 callaloos

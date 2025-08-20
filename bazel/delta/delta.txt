@@ -12776,6 +12776,7 @@ disloyal
 dotardly
 drawfiling
 donative
+docs
 disloyalist
 disloyally
 disloyalty
@@ -14837,7 +14838,6 @@ detests
 docoglossate
 diswarren
 decidua
-docs
 doctor
 doctorally
 dumontite
