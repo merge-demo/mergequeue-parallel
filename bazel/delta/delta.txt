@@ -11425,7 +11425,6 @@ drossing
 dastardy
 dockyard
 dissuader
-demivotary
 determinoid
 debug
 discloser
@@ -17234,6 +17233,7 @@ drivellingly
 driven
 durries
 devulcanization
+demivotary
 drivenness
 drouthiest
 drivepipe
