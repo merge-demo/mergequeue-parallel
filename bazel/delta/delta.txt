@@ -2439,6 +2439,7 @@ decyne
 drydenian
 diaeresis
 decipherability
+doughs
 dand
 devilled
 doctrinarily
@@ -2888,7 +2889,6 @@ defeminising
 dihysteria
 degratia
 duopolies
-doughs
 decurvature
 decus
 decarbonizing
