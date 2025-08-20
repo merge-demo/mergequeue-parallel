@@ -107,7 +107,6 @@ bounderishly
 blackguardly
 bladderwrack
 balanophore
-burlies
 baroclinity
 biforine
 balu
@@ -11803,6 +11802,7 @@ brainfag
 bigamists
 breechblock
 bocoy
+burlies
 bod
 barebone
 bodach

@@ -5587,7 +5587,6 @@ cyclopean
 cabalassou
 consigne
 calotermitidae
-cassinoid
 careerism
 contortively
 catercousin
@@ -25424,6 +25423,7 @@ cornmeals
 cornmuse
 corno
 collegians
+cassinoid
 chewet
 curlew
 cornpipe
