@@ -1499,6 +1499,7 @@ bacteremia
 borstal
 bistable
 booked
+bandworm
 borrow
 bedsick
 balladic
@@ -1952,7 +1953,6 @@ beworms
 bacteriophage
 bandwidth
 bagginess
-bandworm
 baylet
 baneberry
 benzoflavine

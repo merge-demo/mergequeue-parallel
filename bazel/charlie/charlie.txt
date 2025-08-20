@@ -3801,6 +3801,7 @@ carbines
 carbinols
 commensality
 carboazotine
+catoptrics
 conrail
 carbodynamite
 carbohemoglobin
@@ -24096,7 +24097,6 @@ citycism
 chirping
 croatian
 cricothyroid
-catoptrics
 commiserator
 converso
 chomper
