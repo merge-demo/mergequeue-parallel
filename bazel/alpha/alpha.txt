@@ -1277,6 +1277,7 @@ arteriodiastasis
 acarocecidium
 apologia
 archminister
+anaglyptography
 antemask
 acarodermatitis
 androlepsia
@@ -11695,7 +11696,6 @@ anaglyphs
 anaglypta
 anaglyptical
 aldim
-anaglyptography
 anaglyptographic
 armorbearer
 acacatechin
