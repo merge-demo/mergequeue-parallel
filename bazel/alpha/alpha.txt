@@ -6945,7 +6945,6 @@ aivers
 aiwan
 annamitic
 adobo
-aywhere
 aizoon
 archworker
 atrioventricular
@@ -8163,6 +8162,7 @@ alguifou
 alhagi
 apprehends
 antependium
+aywhere
 alhambra
 alhambraic
 asteria
