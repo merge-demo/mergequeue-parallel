@@ -370,6 +370,7 @@ cacoglossia
 comitragedy
 cloudlets
 cacographic
+camshaft
 chlorals
 cacolet
 citronella
@@ -4175,7 +4176,6 @@ cardiometric
 cardiomyomalacia
 cardiomyopathy
 cardioncus
-camshaft
 cardionecrosis
 cannibal
 cardioneurosis
