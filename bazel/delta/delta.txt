@@ -3303,7 +3303,6 @@ defines
 deionizes
 definiens
 derencephalocele
-dolabre
 decigram
 definish
 decolored
@@ -13766,6 +13765,7 @@ druxy
 dissour
 disenshroud
 dissolves
+dolabre
 dreamboat
 desugaring
 degression
