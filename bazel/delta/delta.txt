@@ -7990,7 +7990,6 @@ daemonic
 delicatessens
 dionaea
 dishonoured
-discording
 deemsters
 demanganize
 deliberate
@@ -10831,6 +10830,7 @@ deviscerate
 dispartment
 dissave
 discolorate
+discording
 deviates
 directorially
 departing
