@@ -3635,7 +3635,6 @@ discoblastic
 deglazing
 duckling
 dubbing
-deglycerin
 deglory
 disquantity
 dermatoxerasia
@@ -16323,6 +16322,7 @@ downriver
 defended
 downshift
 downshifted
+deglycerin
 downshore
 dephlegmatize
 dibbler
