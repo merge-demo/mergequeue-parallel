@@ -6185,7 +6185,6 @@ ceraunoscope
 cupolas
 catwalk
 conqueringly
-chancier
 calycule
 catwise
 convictive
@@ -18387,6 +18386,7 @@ conformers
 cogmen
 claypan
 chenevixite
+chancier
 conterminant
 cognac
 curdier
