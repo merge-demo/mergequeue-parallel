@@ -2529,7 +2529,6 @@ daneworts
 diplococcus
 declaring
 dwined
-declasses
 dorn
 disjudication
 declassicize
@@ -5997,6 +5996,7 @@ drawling
 deprostrate
 draughtiest
 downbeats
+declasses
 darcy
 doctorlike
 doubledamn
