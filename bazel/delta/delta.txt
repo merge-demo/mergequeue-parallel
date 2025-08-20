@@ -1537,6 +1537,7 @@ drippings
 dices
 deputising
 dyssodia
+dignification
 deadfalls
 deviler
 dim
@@ -3604,7 +3605,6 @@ diagrammatize
 dicta
 diodont
 docosane
-dignification
 dragonhead
 degenerately
 degenerateness

@@ -1008,7 +1008,6 @@ chondroid
 calapite
 caprelline
 calappidae
-calas
 colourtype
 cohoba
 calascione
@@ -13149,6 +13148,7 @@ cibols
 columnea
 ciboney
 cibophobia
+calas
 cryptocarpic
 cyborg
 ceros
