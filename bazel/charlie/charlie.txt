@@ -3339,6 +3339,7 @@ capone
 caponette
 caponier
 caponiere
+cyclistic
 caponiers
 canicide
 cavilling
@@ -10264,7 +10265,6 @@ chiastoneural
 chiastoneury
 chalone
 cubanize
-cyclistic
 chiastoneurous
 couteaux
 cringed
