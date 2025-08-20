@@ -1172,7 +1172,6 @@ dodecaphony
 diiamb
 donnybrook
 diachoretic
-dextrinize
 dogfall
 desmotropy
 discepted
@@ -6792,6 +6791,7 @@ disseminated
 dojo
 dietzeite
 desiredly
+dextrinize
 distruster
 desirer
 drachma
