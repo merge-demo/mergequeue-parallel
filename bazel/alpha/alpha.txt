@@ -4128,7 +4128,6 @@ arterialization
 adonite
 adonized
 amberoids
-adonizing
 adoperate
 adoptability
 adoptabilities
@@ -9969,6 +9968,7 @@ amberite
 amicron
 artiller
 arrival
+adonizing
 amberjacks
 atraumatic
 allege
