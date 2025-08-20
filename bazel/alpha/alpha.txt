@@ -3980,7 +3980,6 @@ administerings
 aeschylus
 athodyd
 administrant
-allegiantly
 administrates
 antihemolytic
 alabastrons
@@ -18888,6 +18887,7 @@ appetizingly
 abedge
 archipelagian
 antigens
+allegiantly
 aghastness
 archipelagoes
 autocatheterism
