@@ -10516,6 +10516,7 @@ blueprinter
 breakage
 bradyuria
 blameworthy
+brisances
 bashlik
 blastoporal
 blastosphere
@@ -15518,7 +15519,6 @@ bryozoon
 belyingly
 brique
 bilbos
-brisances
 bination
 barometer
 benefactive

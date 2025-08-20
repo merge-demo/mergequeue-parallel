@@ -5312,6 +5312,7 @@ cassiopeid
 cassiopeium
 cladrastis
 cramps
+compony
 cassis
 crampy
 courtling
@@ -20831,7 +20832,6 @@ crocodilian
 componential
 challoth
 components
-compony
 comportable
 comportance
 cenosity
