@@ -2230,7 +2230,6 @@ blandiloquous
 barbequing
 bourage
 baalshem
-buddler
 bassoons
 barbarise
 barbarised
@@ -14498,6 +14497,7 @@ branchellion
 blattoidea
 babroot
 beadle
+buddler
 branchiae
 bradyglossia
 belittler
