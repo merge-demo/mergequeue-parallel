@@ -6205,7 +6205,6 @@ americanitis
 attirement
 agrace
 ahold
-agrafes
 agraffe
 alimental
 analemmatic
@@ -16509,6 +16508,7 @@ apagoge
 anophthalmus
 apagogic
 arumlike
+agrafes
 apagogically
 apagogue
 apay
