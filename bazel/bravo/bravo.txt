@@ -732,7 +732,6 @@ bandsawing
 badges
 badging
 buddhism
-banksman
 bifrost
 badiaga
 breathy
@@ -17928,6 +17927,7 @@ bakuninism
 bearbine
 bioclean
 bushmaking
+banksman
 branial
 bibliopoly
 bushman
