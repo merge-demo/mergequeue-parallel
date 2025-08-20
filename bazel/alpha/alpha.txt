@@ -11394,7 +11394,6 @@ anhydremia
 apodosis
 ampullary
 ampullate
-ampullated
 amphioxus
 ampulliform
 affrightfully
@@ -20719,6 +20718,7 @@ appendixed
 avicularian
 anaphoria
 agoniadin
+ampullated
 airths
 artist
 artistic
