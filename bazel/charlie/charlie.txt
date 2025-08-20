@@ -6087,7 +6087,6 @@ coagulable
 catnapping
 caddle
 catnaps
-catnep
 chilotomy
 catnip
 catnips
@@ -16348,6 +16347,7 @@ clypeated
 clypeiform
 clypeola
 clypeolar
+catnep
 clypeus
 cyanomethaemoglobin
 clipped

@@ -7637,7 +7637,6 @@ biacetylene
 backened
 biogenies
 beeper
-burgling
 bewraps
 belesprit
 bewrapt
@@ -13141,6 +13140,7 @@ bywalk
 borotungstate
 borough
 bouquetin
+burgling
 biseriate
 boroughmonger
 blaspheme
