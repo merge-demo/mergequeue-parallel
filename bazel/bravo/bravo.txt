@@ -3464,7 +3464,6 @@ biosis
 bitterworm
 batarde
 bullaces
-batatas
 batavi
 ballan
 buzzsaw
@@ -12790,6 +12789,7 @@ baudekin
 belladonna
 bookstand
 blemisher
+batatas
 bookstores
 biforked
 bigaroon
