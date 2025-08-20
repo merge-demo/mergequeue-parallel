@@ -19,7 +19,6 @@ branch
 babassu
 beringite
 babasu
-bureaucratist
 bangy
 brachial
 bionergy
@@ -594,6 +593,7 @@ berstel
 billmen
 beclothed
 bacteremic
+bureaucratist
 bacteriaceae
 blooddrops
 bacteriaemia
