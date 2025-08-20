@@ -9348,6 +9348,7 @@ budding
 bewrathed
 brinish
 baroscope
+besquirt
 baleless
 bushi
 blirt
@@ -18224,7 +18225,6 @@ blackwort
 bourran
 bottlelike
 butterfish
-besquirt
 botching
 blubberingly
 butterfishes
