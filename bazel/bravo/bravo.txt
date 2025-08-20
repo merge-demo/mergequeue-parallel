@@ -12427,7 +12427,6 @@ bipinnatifid
 berberins
 bondage
 bless
-bondar
 bockerel
 bastardly
 bonderize
@@ -17916,6 +17915,7 @@ belton
 brahmanda
 bungy
 besour
+bondar
 beminstrel
 bravoite
 bushless
