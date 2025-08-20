@@ -7202,6 +7202,7 @@ dotting
 detaches
 dicast
 demijohns
+disbranching
 demulsifying
 detailing
 detain
@@ -14202,7 +14203,6 @@ disusage
 dynamoscope
 deathful
 disuse
-disbranching
 discloak
 disuses
 disutility

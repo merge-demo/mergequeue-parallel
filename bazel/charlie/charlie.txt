@@ -18405,6 +18405,7 @@ calorize
 cognatus
 cementum
 cognisable
+corpn
 chiragrical
 catholicized
 calpulli
@@ -25569,7 +25570,6 @@ commemorized
 coroutines
 clericum
 corp
-corpn
 corpora
 corporacy
 calcic
