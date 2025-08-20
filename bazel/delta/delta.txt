@@ -767,7 +767,6 @@ dandled
 dopaoxidase
 dandler
 dandlers
-dispurpose
 drawn
 devolatilize
 dandles
@@ -4657,6 +4656,7 @@ decap
 dittoing
 dichelyma
 demirilievo
+dispurpose
 deflea
 demonastery
 donn
