@@ -2370,6 +2370,7 @@ belabors
 barcoo
 bemoisten
 besplash
+betattering
 bardcraft
 barde
 beleve
@@ -10220,7 +10221,6 @@ bloodletter
 belshazzar
 blackleg
 blacklegged
-betattering
 boyd
 breakpoints
 blacklisted
