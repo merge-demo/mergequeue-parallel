@@ -14964,7 +14964,6 @@ aeroducts
 anticonventional
 anticonventionalist
 anticor
-anticorn
 anticorona
 anticorrosiveness
 alsatia
@@ -19775,6 +19774,7 @@ armamentarium
 autoskeleton
 antigalactic
 attachable
+anticorn
 avigators
 armangite
 aminovaleric
