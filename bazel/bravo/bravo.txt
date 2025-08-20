@@ -900,6 +900,7 @@ bookland
 bdellotomy
 bowstaff
 bagpipers
+barkiest
 bandyball
 bardiglio
 bismarine
@@ -2391,7 +2392,6 @@ bowdlerised
 bardings
 becalms
 bardlike
-barkiest
 bardling
 brinks
 bilaterality
