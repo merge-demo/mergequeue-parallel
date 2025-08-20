@@ -9287,7 +9287,6 @@ bipotentialities
 biprism
 byproducts
 burgaudine
-blackguardism
 beadles
 biprong
 baseball
@@ -10705,6 +10704,7 @@ bogeys
 blemishment
 brandies
 blemmatrope
+blackguardism
 brooches
 blandisher
 boutell
