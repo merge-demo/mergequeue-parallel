@@ -2189,6 +2189,7 @@ anomalipod
 actinal
 aperistalsis
 abattue
+abides
 adventuristic
 achromaticity
 achromatisation
@@ -10800,7 +10801,6 @@ addossed
 albumoses
 alloantibody
 antirent
-abides
 apparentement
 activizing
 acierage
