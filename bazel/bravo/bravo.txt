@@ -2035,7 +2035,6 @@ bristly
 biophysicist
 banknotes
 brasserie
-bedeguar
 buffoonesque
 bicollaterality
 bankrolled
@@ -11924,6 +11923,7 @@ becrush
 bushelwoman
 barographs
 betutor
+bedeguar
 bimeby
 bourns
 bailiff
