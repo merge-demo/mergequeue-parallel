@@ -22611,7 +22611,6 @@ cuffed
 coaevals
 connexes
 cantabri
-cheesemonger
 connexiva
 cringer
 connexure
@@ -25682,6 +25681,7 @@ conoid
 centupled
 corregimientos
 chaucerianism
+cheesemonger
 correl
 coolaman
 correlatable

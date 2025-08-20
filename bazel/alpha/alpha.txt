@@ -8211,6 +8211,7 @@ arfillite
 alicoche
 alicula
 anomies
+amdahl
 aliculae
 advisably
 allot
@@ -11256,7 +11257,6 @@ antiballistic
 avidious
 amphiprostylar
 antiusurious
-amdahl
 amidoazobenzene
 aminoformic
 amphirhinal
