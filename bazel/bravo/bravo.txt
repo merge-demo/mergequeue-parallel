@@ -3193,7 +3193,6 @@ backwoodsman
 bathtub
 bipontine
 blatters
-basifugal
 barkpeel
 biltong
 basigynium
@@ -10020,6 +10019,7 @@ benefiter
 bywalking
 buckleya
 biwinter
+basifugal
 blackfisher
 benzolate
 blowbacks
