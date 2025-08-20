@@ -10956,7 +10956,6 @@ disacquaint
 dayglows
 dampishly
 datolite
-diallist
 draggles
 dispenses
 disforestation
@@ -11543,6 +11542,7 @@ discommodiously
 decapitating
 downton
 dunker
+diallist
 dovekie
 discommodities
 disubstituted
