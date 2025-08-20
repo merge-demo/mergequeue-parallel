@@ -16588,7 +16588,6 @@ apeek
 apeirophobia
 apeling
 apelles
-acuminate
 apenteric
 athirst
 amphigonic
@@ -17110,6 +17109,7 @@ apographical
 apohyal
 autosensitization
 acuminous
+acuminate
 apoidea
 astucity
 aoristic
