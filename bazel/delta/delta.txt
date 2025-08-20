@@ -9106,6 +9106,7 @@ defang
 demifarthing
 dermatophobia
 defigure
+dysplasia
 dictionarian
 dorsoabdominal
 dispensers
@@ -13199,7 +13200,6 @@ diazole
 dovetailed
 displants
 demoralize
-dysplasia
 determination
 durums
 displat
