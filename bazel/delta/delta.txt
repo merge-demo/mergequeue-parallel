@@ -6379,7 +6379,6 @@ defined
 dioc
 ducula
 demurrable
-dietary
 doegling
 doctrinized
 derned
@@ -9119,6 +9118,7 @@ drinkability
 dailiness
 devow
 drubbed
+dietary
 discernable
 depickle
 dunted
