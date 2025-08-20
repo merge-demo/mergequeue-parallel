@@ -3233,7 +3233,6 @@ capital
 chevronny
 capitaldom
 capitaled
-capitalisable
 capitalised
 capitalising
 cynocrambaceae
@@ -8700,6 +8699,7 @@ corresponder
 celosias
 channelized
 cannaceae
+capitalisable
 commiseration
 chitlins
 chibol
