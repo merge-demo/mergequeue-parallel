@@ -282,6 +282,7 @@ daguerreotyping
 digitonin
 dreadnaught
 docken
+dimensum
 debugged
 disassiduity
 doliolidae
@@ -9917,7 +9918,6 @@ dace
 dimensionally
 dimensioning
 degummer
-dimensum
 disangularize
 diphenyl
 dimer
