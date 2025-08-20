@@ -11211,7 +11211,6 @@ archpractice
 amphigamous
 amphigastrium
 aspersed
-amphigean
 amphigene
 amphigenous
 aminating
@@ -22969,6 +22968,7 @@ attagal
 attagen
 amygdalaceae
 attaghan
+amphigean
 acquirenda
 acuchi
 avantlay
