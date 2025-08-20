@@ -2239,6 +2239,7 @@ bragless
 barbarity
 barbarities
 barbarization
+blesboks
 blateroon
 boucle
 brigid
@@ -10825,7 +10826,6 @@ blepharotomy
 blere
 beckon
 behooved
-blesboks
 blessedness
 blesser
 befriz
