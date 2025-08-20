@@ -10345,7 +10345,6 @@ chainsmen
 chartographist
 chickenberry
 counterpole
-citoyens
 chickenbill
 chickenbreasted
 chickened
@@ -25521,6 +25520,7 @@ coronals
 coronamen
 cleek
 coronate
+citoyens
 calp
 corrosible
 calibrators
