@@ -2758,6 +2758,7 @@ cannel
 coeno
 cannellate
 congruences
+cimbaloms
 counterembowed
 cannelle
 caliche
@@ -13627,7 +13628,6 @@ cymballed
 cob
 cymballing
 cymbalom
-cimbaloms
 cymbalon
 cubicles
 cymbel
