@@ -12375,7 +12375,6 @@ chromaphore
 chromas
 coffeeweed
 cenote
-claimless
 chromate
 conjunction
 chromates
@@ -17586,6 +17585,7 @@ coccal
 conducible
 coccerin
 corr
+claimless
 coccic
 chrisoms
 coccidae

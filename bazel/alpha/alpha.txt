@@ -10623,7 +10623,6 @@ accusator
 advenae
 ampelidaceae
 amylom
-amylopectin
 acorns
 amyloplast
 appertaining
@@ -17579,6 +17578,7 @@ activist
 astroid
 adjoining
 appentice
+amylopectin
 arouser
 adjudges
 abscession
