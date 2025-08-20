@@ -4927,6 +4927,7 @@ aeronautical
 aeronomer
 amyliferous
 aumil
+archibald
 aeronomy
 aeronomic
 aeronomical
@@ -21620,7 +21621,6 @@ astrospectroscopic
 antiquer
 assaulter
 attainably
-archibald
 assaultive
 assausive
 affixing
