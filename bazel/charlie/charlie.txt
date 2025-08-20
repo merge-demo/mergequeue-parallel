@@ -3193,7 +3193,6 @@ cranches
 calista
 cobb
 cultivation
-cede
 cacochymic
 capeweed
 coverlet
@@ -19194,6 +19193,7 @@ cinenchym
 colloidality
 citylike
 colloider
+cede
 coalsheds
 czarship
 colloidochemical
