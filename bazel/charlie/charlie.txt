@@ -11715,7 +11715,6 @@ choller
 chameleonize
 claries
 corruptness
-cholo
 chaver
 cholochrome
 cholocyanine
@@ -20073,6 +20072,7 @@ codings
 commensuration
 commensurations
 corking
+cholo
 comment
 commentable
 commentarialism

@@ -1865,6 +1865,7 @@ befoam
 bloodier
 bella
 bandidos
+barpost
 baronetizing
 bushie
 bandie
@@ -6694,7 +6695,6 @@ burnings
 berycoid
 bansalague
 berycoidea
-barpost
 berycomorphi
 bemixes
 bunsenite
