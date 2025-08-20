@@ -4433,7 +4433,6 @@ concettist
 caryopilite
 caryopsis
 courthouses
-caripuna
 cariri
 caririan
 commoner
@@ -9236,6 +9235,7 @@ chassed
 chromatopathic
 chasseing
 chassepot
+caripuna
 chassepots
 chiarooscurist
 chasseurs
