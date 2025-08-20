@@ -11620,6 +11620,7 @@ christophany
 cholecystnephrostomy
 cupellation
 cholecystocolostomy
+cueball
 cognisability
 colonialization
 cholecystogastrostomy
@@ -25102,7 +25103,6 @@ consolation
 caimakam
 coreligionist
 cooperancy
-cueball
 calipers
 colophonian
 corema
