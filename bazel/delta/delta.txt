@@ -1658,7 +1658,6 @@ dichastic
 demarks
 derrieres
 deanships
-deanthropomorphism
 diasynthesis
 deanthropomorphization
 deappetizing
@@ -2745,6 +2744,7 @@ dacryelcosis
 daemonurgy
 devitalizing
 darbies
+deanthropomorphism
 decortication
 dematerialization
 decorticator
