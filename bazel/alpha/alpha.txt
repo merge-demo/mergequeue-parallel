@@ -10926,6 +10926,7 @@ amoebalike
 amoebas
 astipulate
 asmolder
+areolar
 aggregatory
 amperometric
 architecturalist
@@ -19252,7 +19253,6 @@ areography
 areographical
 adjunction
 areolae
-areolar
 aluminothermics
 areolas
 areocentric
