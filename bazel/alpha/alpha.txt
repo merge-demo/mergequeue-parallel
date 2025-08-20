@@ -16762,7 +16762,6 @@ aphorize
 aphorized
 abos
 aphorizes
-aphorizing
 aphototactic
 asbestoses
 ancienter
@@ -21355,6 +21354,7 @@ asparagyl
 antiglyoxalase
 asparagin
 arachnactis
+aphorizing
 asparamic
 aproned
 astigmia
