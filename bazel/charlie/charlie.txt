@@ -10574,7 +10574,6 @@ chukkers
 comprehension
 chilion
 citizenhood
-cardon
 cirsocele
 cymbocephaly
 cryptoclimatology
@@ -24820,6 +24819,7 @@ coquette
 cleome
 coquettishly
 curlycue
+cardon
 colourfast
 coquicken
 cartload
