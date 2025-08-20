@@ -8466,7 +8466,6 @@ dialuric
 diamagnet
 diamagnetic
 diamagnetism
-dredging
 diamant
 ditrochee
 deflexed
@@ -11180,6 +11179,7 @@ devicefulness
 duraplasty
 distressful
 dichromic
+dredging
 disbanded
 disoppilate
 decanted
