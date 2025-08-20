@@ -13098,7 +13098,6 @@ antiphilosophic
 alemannish
 ahrendahronon
 anabolite
-animala
 animalic
 anopsy
 aminosulphonic
@@ -23689,6 +23688,7 @@ academic
 androphobia
 auscultates
 athrong
+animala
 auscultating
 apism
 auscultation
