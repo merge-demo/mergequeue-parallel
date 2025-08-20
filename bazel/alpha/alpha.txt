@@ -7400,7 +7400,6 @@ albinos
 antivenin
 albinotic
 antitypic
-astragaloscaphoid
 aesthesis
 albion
 allogamies
@@ -9934,6 +9933,7 @@ almoravides
 allovers
 amazons
 amazulu
+astragaloscaphoid
 aphthongal
 abayah
 afferently
