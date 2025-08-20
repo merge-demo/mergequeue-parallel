@@ -4468,7 +4468,6 @@ ankle
 antebridal
 aglycone
 atelectatic
-adverbial
 adverbially
 acloud
 aggerose
@@ -19444,6 +19443,7 @@ arglebargle
 arglebargled
 arglebargling
 argled
+adverbial
 apoaconitine
 antimedication
 arith
