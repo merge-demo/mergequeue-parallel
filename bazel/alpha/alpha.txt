@@ -2512,7 +2512,6 @@ atypical
 aratory
 aconitums
 artmobile
-aposiopeses
 abruptest
 abasgi
 acontia
@@ -8607,6 +8606,7 @@ autosuggestibility
 alkoxid
 allectory
 architectonically
+aposiopeses
 atmophile
 allegata
 allegate
