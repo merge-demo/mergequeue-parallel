@@ -2833,7 +2833,6 @@ apicoectomy
 amylopsase
 annona
 acronyctous
-acronym
 acrotreta
 arctocephalus
 arteriolith
@@ -21038,6 +21037,7 @@ aerographer
 ascribable
 agrobiologically
 antidogmatical
+acronym
 ascribe
 artificer
 arcosolia
