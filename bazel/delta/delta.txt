@@ -8826,7 +8826,6 @@ dyschroia
 dixieland
 doggies
 dredges
-dipala
 diazoma
 diazomethane
 diazonium
@@ -17580,6 +17579,7 @@ drumreads
 demential
 drumroll
 drumrolls
+dipala
 drums
 decalcifier
 drumstick

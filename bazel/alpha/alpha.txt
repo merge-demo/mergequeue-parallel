@@ -22332,6 +22332,7 @@ astromancer
 astromantic
 astromeda
 apophyges
+australioid
 aliments
 astrometeorology
 astrometeorological
@@ -23746,7 +23747,6 @@ aspish
 alcogel
 australian
 australianism
-australioid
 acquit
 australopithecinae
 assistantship
