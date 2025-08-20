@@ -12273,7 +12273,6 @@ basswoods
 begrave
 blindly
 bonellia
-barbarea
 bindis
 budgeteer
 brunetness
@@ -13247,6 +13246,7 @@ broadest
 bogomil
 bosset
 barebacked
+barbarea
 bonducnut
 bedstaff
 bokard
