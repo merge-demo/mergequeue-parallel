@@ -2517,7 +2517,6 @@ bucca
 beflowers
 bariatrician
 banderilla
-bariatrics
 baric
 barycenter
 bemused
@@ -4035,6 +4034,7 @@ bannerets
 becolme
 benetnasch
 babbie
+bariatrics
 bartletts
 beatille
 bulgers
