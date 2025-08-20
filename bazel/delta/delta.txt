@@ -10436,7 +10436,6 @@ dipartition
 dominicks
 dermatoma
 dekkos
-demersion
 dictyostelic
 dipcoat
 disreputable
@@ -14082,6 +14081,7 @@ dryopithecinae
 dispensable
 deluging
 diabantite
+demersion
 distributionist
 divariant
 deservingness
