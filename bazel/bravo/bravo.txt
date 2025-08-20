@@ -6626,7 +6626,6 @@ beetlers
 bacharach
 bukh
 bodyplate
-barbers
 beant
 bereaves
 boninesses
@@ -17484,6 +17483,7 @@ burbly
 bonnie
 bantling
 bacitracin
+barbers
 bedip
 budmash
 bystanders
