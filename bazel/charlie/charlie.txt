@@ -4164,7 +4164,6 @@ cymric
 cardiologic
 clubbers
 cariogenic
-cardiologist
 cardiologists
 cardiomegaly
 cyclus
@@ -10333,6 +10332,7 @@ chemosorb
 cachoeira
 clactonian
 cyanidation
+cardiologist
 comfortable
 chickamauga
 chickasaw
