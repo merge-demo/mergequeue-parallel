@@ -10506,7 +10506,6 @@ blastomyces
 blastomycete
 benignities
 beadsmen
-blastoneuropore
 billionaire
 bogan
 blastophyllum
@@ -16691,6 +16690,7 @@ bebilya
 buckleless
 baklavas
 bankbooks
+blastoneuropore
 bleached
 bodycheck
 bellybuttons
