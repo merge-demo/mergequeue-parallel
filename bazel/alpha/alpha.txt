@@ -318,7 +318,6 @@ antiminsia
 abed
 anthophyte
 anguis
-avar
 appeals
 agnomical
 armomancy
@@ -15730,6 +15729,7 @@ allodification
 agileness
 antiperspirants
 automobiling
+avar
 acronycal
 anterolaterally
 atremble
