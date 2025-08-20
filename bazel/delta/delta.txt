@@ -6737,7 +6737,6 @@ date
 designatum
 designedly
 designedness
-detachability
 displeasureable
 delibate
 designment
@@ -7784,6 +7783,7 @@ devoir
 destabilizing
 devoirs
 dholes
+detachability
 devolatilised
 dosimetries
 dryrot
