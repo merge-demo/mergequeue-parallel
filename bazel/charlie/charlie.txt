@@ -2705,7 +2705,6 @@ clingfish
 canker
 cankerberry
 cankerbird
-carriable
 conder
 cankereat
 cankered
@@ -23867,6 +23866,7 @@ contrives
 control
 controling
 controllable
+carriable
 controllably
 controller
 churner
