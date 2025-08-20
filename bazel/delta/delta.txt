@@ -2849,6 +2849,7 @@ desensitizations
 dramatizations
 donors
 dynatron
+devisable
 decumanus
 daphnin
 dolomitised
@@ -3733,7 +3734,6 @@ dawtet
 distillable
 disentangled
 designlessness
-devisable
 dehydrogenated
 dehydrogenisation
 dehydrogenized

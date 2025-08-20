@@ -1840,6 +1840,7 @@ bandeau
 betula
 bancus
 backstabber
+bantling
 bandelette
 banderma
 banderol
@@ -17482,7 +17483,6 @@ backstopping
 battlefields
 burbly
 bonnie
-bantling
 bacitracin
 bedip
 budmash
