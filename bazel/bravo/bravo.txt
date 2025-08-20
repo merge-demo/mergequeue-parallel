@@ -4764,6 +4764,7 @@ burglarizes
 barque
 bibracteate
 billfold
+bilkis
 brainish
 barbarize
 burking
@@ -8533,7 +8534,6 @@ bilking
 boglander
 bonny
 bateful
-bilkis
 batrachophidia
 bilks
 bushveld
