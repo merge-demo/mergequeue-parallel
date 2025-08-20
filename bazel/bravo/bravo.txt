@@ -10121,7 +10121,6 @@ blackberrylike
 bunkload
 bacchant
 bilaminate
-bellied
 berbers
 bootleggers
 buphthalmia
@@ -10816,6 +10815,7 @@ bugbeardom
 blepharomelasma
 blepharoncosis
 beplumed
+bellied
 blepharoplastic
 blepharoptosis
 blepharosynechia
