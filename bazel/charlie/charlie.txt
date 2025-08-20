@@ -746,7 +746,6 @@ chasselas
 cages
 cocoa
 colonelship
-cagester
 cogrediency
 chlornal
 cagework
@@ -3210,6 +3209,7 @@ cushaw
 capillarectasia
 cyrtograph
 carmetta
+cagester
 chinoiserie
 capilli
 capilliculture
