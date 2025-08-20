@@ -6400,6 +6400,7 @@ axanthopsia
 acerbas
 antignostical
 amphipneusta
+antitetanic
 ameliorant
 agujon
 anaplasis
@@ -16274,7 +16275,6 @@ amylamine
 acetanilide
 ariki
 antitragal
-antitetanic
 accusive
 antitragicus
 aricine
