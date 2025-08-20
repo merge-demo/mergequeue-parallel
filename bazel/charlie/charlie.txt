@@ -7469,6 +7469,7 @@ ceramals
 chacun
 caback
 cerambycid
+contchar
 coruscations
 cerambycidae
 ceramicite
@@ -15208,7 +15209,6 @@ commanderies
 claye
 clayey
 clayer
-contchar
 clayier
 centetes
 clayiest
