@@ -5396,7 +5396,6 @@ begrutten
 beguess
 beguilement
 biunial
-beguilements
 biferous
 banstickle
 bloodripeness
@@ -9230,6 +9229,7 @@ biphenylene
 biphenol
 berrying
 bashfulness
+beguilements
 bronchioli
 bipinnariae
 bastnasite
