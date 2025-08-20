@@ -3094,7 +3094,6 @@ caoutchoucin
 cap
 calandria
 capa
-conferrable
 capability
 charks
 capable
@@ -18684,6 +18683,7 @@ coinstantaneousness
 coinsurance
 coinsurer
 chichituna
+conferrable
 coinsuring
 cointense
 codesigns
