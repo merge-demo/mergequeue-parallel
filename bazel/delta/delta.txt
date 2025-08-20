@@ -1850,7 +1850,6 @@ daubries
 deblateration
 deblock
 disappointer
-dijudicate
 distensibilities
 depiction
 decretal
@@ -18521,6 +18520,7 @@ durbars
 dissonate
 dured
 decollated
+dijudicate
 disparting
 disorganizers
 decriers

@@ -8171,6 +8171,7 @@ buffalos
 baccillla
 baldpate
 byeman
+baham
 ballote
 bienly
 browpost
@@ -15902,7 +15903,6 @@ bucrania
 broguish
 bromoprotein
 bromouracil
-baham
 barbated
 bromphenol
 backbitten
