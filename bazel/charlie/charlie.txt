@@ -5565,7 +5565,6 @@ catalanganes
 catalatic
 catalects
 cycledom
-cedre
 comicoprosaic
 crushingly
 catalepsis
@@ -8592,6 +8591,7 @@ califates
 chancellorship
 chancellorships
 chancelor
+cedre
 capillaire
 calathidium
 chancels
