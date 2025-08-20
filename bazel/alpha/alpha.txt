@@ -6288,7 +6288,6 @@ airs
 amphionic
 agricole
 agricolist
-atsara
 ambulances
 agricolous
 anticonventionalism
@@ -22361,6 +22360,7 @@ astrobiological
 antipapacy
 archaisms
 algarobas
+atsara
 archetypally
 acrisia
 astrophysicist
