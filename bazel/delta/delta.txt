@@ -5723,7 +5723,6 @@ daftlike
 depletions
 danton
 depletive
-denutrition
 decarboxylating
 delthyrium
 deploy
@@ -11113,6 +11112,7 @@ disarray
 dictatorial
 disarrays
 disarranges
+denutrition
 do
 discernibility
 dulled
