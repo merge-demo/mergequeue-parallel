@@ -11645,7 +11645,6 @@ bistipuled
 boation
 bittacle
 berend
-boxhead
 buchmanite
 boatless
 banjoes
@@ -13649,6 +13648,7 @@ baud
 bande
 broidery
 berth
+boxhead
 binocs
 blennorrhea
 balkingly
