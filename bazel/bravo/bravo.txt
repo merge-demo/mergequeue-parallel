@@ -12020,6 +12020,7 @@ boyard
 bartholomean
 brawling
 boyau
+barysphere
 buybacks
 bilinigrin
 bronchiolus
@@ -13240,7 +13241,6 @@ bossed
 boanergean
 bosselation
 bolti
-barysphere
 buffbar
 broadest
 bogomil
