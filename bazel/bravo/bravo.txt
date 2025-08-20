@@ -6783,7 +6783,6 @@ benetting
 beroidae
 betimes
 berossos
-beround
 bendability
 berreaves
 bolos
@@ -17847,6 +17846,7 @@ burthens
 backwashing
 burthensome
 burtonization
+beround
 blockheadedly
 burundians
 burushaski
