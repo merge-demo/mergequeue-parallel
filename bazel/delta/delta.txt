@@ -8278,7 +8278,6 @@ deathcup
 diploetic
 diagnostician
 dantist
-diagnosticians
 dispopularize
 dizzy
 draped
@@ -12963,6 +12962,7 @@ diphyes
 demihague
 doddard
 demivoice
+diagnosticians
 discriminability
 dolomitized
 delusionist
