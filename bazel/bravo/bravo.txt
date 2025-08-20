@@ -1918,6 +1918,7 @@ bandoleros
 brockle
 bandor
 baaskaap
+banalities
 bandora
 biotechs
 brevipen
@@ -8829,7 +8830,6 @@ binoculars
 binodose
 buckbean
 bari
-banalities
 bromothymol
 battery
 bedrivels
