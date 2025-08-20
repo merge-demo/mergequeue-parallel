@@ -9124,7 +9124,6 @@ assortative
 ametropic
 allwhere
 accipitres
-applejack
 allwork
 antiquate
 allworthy
@@ -19194,6 +19193,7 @@ amygdophenin
 awabi
 arduousness
 armet
+applejack
 ardurous
 amphipneust
 alumina
