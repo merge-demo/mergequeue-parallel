@@ -8335,7 +8335,6 @@ chaliced
 chalicosis
 chalicothere
 chalicotheriid
-crummable
 chalicotheriidae
 cephalohumeralis
 chantress
@@ -14801,6 +14800,7 @@ cityfolk
 churned
 citigradae
 cigale
+crummable
 cladosiphonic
 coordinate
 coenamor
