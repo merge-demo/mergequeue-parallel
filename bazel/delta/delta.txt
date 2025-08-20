@@ -5888,7 +5888,6 @@ deprecatory
 deoxidised
 desensitization
 degradingness
-dregless
 deprecatorily
 dirk
 depreciable
@@ -6208,6 +6207,7 @@ derisiveness
 dejeuners
 deferable
 derival
+dregless
 derivant
 dendrogaea
 dillier

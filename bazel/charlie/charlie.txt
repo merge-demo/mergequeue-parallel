@@ -25658,6 +25658,7 @@ correctest
 cyclostomidae
 club
 correctible
+chilopod
 confirmatorily
 cubicly
 correctionalist
@@ -26837,7 +26838,6 @@ counterfeitly
 captaculum
 cudava
 chittering
-chilopod
 counterfeits
 counterfessed
 counterfire
