@@ -11094,7 +11094,6 @@ determinateness
 disapprovals
 disapproves
 disillusioned
-doppelkummel
 demonetisation
 denitrified
 deink
@@ -14662,6 +14661,7 @@ divulsing
 divulsion
 divvy
 derating
+doppelkummel
 depressing
 diallel
 dixain

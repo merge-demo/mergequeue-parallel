@@ -11941,7 +11941,6 @@ chordotomy
 chore
 caviare
 chorea
-choreal
 choreatic
 circumflant
 cuchan
@@ -13427,6 +13426,7 @@ cedent
 cyclothymiac
 coenobite
 cocci
+choreal
 contractile
 czarists
 cyclothymic
