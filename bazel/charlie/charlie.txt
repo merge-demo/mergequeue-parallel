@@ -9796,7 +9796,6 @@ chelated
 cattish
 chelating
 chelator
-chelerythrine
 collisions
 chelicer
 cysts
@@ -27980,6 +27979,7 @@ craggy
 chromoscopic
 cataphylla
 craggily
+chelerythrine
 craglike
 crags
 carthusian
