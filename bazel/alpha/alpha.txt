@@ -61,7 +61,6 @@ abadejo
 abadengo
 abadia
 aerially
-argusfish
 arcadian
 attendees
 abaiser
@@ -10059,6 +10058,7 @@ antiformant
 amblycephalus
 amblychromatic
 amblydactyla
+argusfish
 amblygonal
 allergology
 amblygonite
