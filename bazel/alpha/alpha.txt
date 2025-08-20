@@ -5280,7 +5280,6 @@ attaining
 aluminosity
 avadavats
 agrionidae
-affluence
 affluently
 affluxion
 albedograph
@@ -7183,6 +7182,7 @@ alamire
 antiwhite
 alamodality
 accresce
+affluence
 alamode
 alamodes
 ascogonidia

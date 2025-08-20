@@ -7740,6 +7740,7 @@ dissociation
 diastataxy
 deformative
 devirginate
+defining
 deils
 dram
 digger
@@ -9629,7 +9630,6 @@ digrediency
 decenaries
 devolatilization
 delicious
-defining
 dingo
 divinised
 digressed
