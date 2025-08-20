@@ -5883,6 +5883,7 @@ demeaning
 disconcert
 deprecative
 dissolvable
+dibromobenzene
 deprecator
 deprecatory
 deoxidised
@@ -12471,7 +12472,6 @@ dishwasher
 dishwashers
 distemperature
 dishwashings
-dibromobenzene
 doglegged
 dard
 drissel
