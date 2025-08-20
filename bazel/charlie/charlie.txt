@@ -7914,7 +7914,6 @@ cessor
 cesspipe
 cesspit
 cesspits
-contrastment
 cesspools
 cineraceous
 congruous
@@ -31778,6 +31777,7 @@ cut
 collicle
 cutaneously
 counterlighting
+contrastment
 circumspectively
 collegiality
 cutaways
