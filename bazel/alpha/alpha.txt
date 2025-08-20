@@ -4467,7 +4467,6 @@ adventurous
 ankle
 antebridal
 aglycone
-atelectatic
 adverbial
 adverbially
 acloud
@@ -11976,6 +11975,7 @@ anarthrousness
 avionics
 anas
 athumia
+atelectatic
 anasa
 araphostic
 aralkylated
