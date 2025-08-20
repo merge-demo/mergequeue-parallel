@@ -42,7 +42,6 @@ dacite
 deservedly
 dacitic
 didymus
-discriminatingness
 dackered
 daduchus
 demount
@@ -1909,6 +1908,7 @@ debris
 debrominate
 diandrian
 disapprobations
+discriminatingness
 dacryd
 deferments
 desire

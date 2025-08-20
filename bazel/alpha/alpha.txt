@@ -7951,7 +7951,6 @@ aleuronat
 absi
 aleurone
 antimicrobic
-argynnis
 annotto
 aleuronic
 aleurons
@@ -17464,6 +17463,7 @@ appareling
 apparency
 apparentements
 airify
+argynnis
 anoxyscope
 apparently
 apparitional
