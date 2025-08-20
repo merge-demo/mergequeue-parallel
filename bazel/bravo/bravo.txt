@@ -3875,6 +3875,7 @@ blamelessness
 bawties
 beechnuts
 bedlamp
+boughed
 bifidated
 baxtone
 brachyskelic
@@ -7601,7 +7602,6 @@ bribri
 bewilderment
 bewinged
 bewitched
-boughed
 bewitcher
 bewitches
 bryological
