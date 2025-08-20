@@ -23040,7 +23040,6 @@ agnominal
 aaronitic
 aggressor
 annunciable
-analytic
 airdropped
 attended
 attendee
@@ -23225,6 +23224,7 @@ amoretto
 atropinization
 attune
 analgesia
+analytic
 attunely
 alans
 abatjour
