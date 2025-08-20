@@ -8262,7 +8262,6 @@ cuckooflower
 cyanol
 counterferment
 camise
-cercomonas
 compressing
 caracoli
 chalazium
@@ -17355,6 +17354,7 @@ coarseness
 canonizations
 chickory
 coarsening
+cercomonas
 coarsens
 coarser
 coarticulate
