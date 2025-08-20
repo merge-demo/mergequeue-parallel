@@ -13713,7 +13713,6 @@ boustrophedon
 bloomer
 bircher
 biophyte
-banqueted
 braccio
 billetwood
 balneatory
@@ -15407,6 +15406,7 @@ beheading
 brilliantined
 beiges
 boba
+banqueted
 bullule
 brilliantly
 brilliants

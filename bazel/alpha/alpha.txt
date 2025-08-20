@@ -5699,7 +5699,6 @@ adduceable
 answers
 amphistome
 afeared
-agapeti
 agapetid
 agennetic
 aciculate
@@ -6783,6 +6782,7 @@ airiness
 arecales
 atmolyses
 anacamptometer
+agapeti
 airish
 acerbophobia
 antelabium
