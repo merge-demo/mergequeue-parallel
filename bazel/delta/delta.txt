@@ -10981,7 +10981,6 @@ disaffecting
 dashnak
 dilutor
 disaffiliated
-disaffinity
 demibrigade
 disaffirmance
 dheri
@@ -14330,6 +14329,7 @@ disdaining
 disseminates
 decardinalize
 didymoid
+disaffinity
 decrial
 dittying
 dandified
