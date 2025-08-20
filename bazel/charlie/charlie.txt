@@ -16745,7 +16745,6 @@ clotheslines
 clothesman
 crypts
 cheerful
-carbamoyl
 catchingness
 cosuitor
 culla
@@ -17894,6 +17893,7 @@ camas
 codicils
 codicology
 codifications
+carbamoyl
 cycasin
 codifiers
 codifies
