@@ -2641,7 +2641,6 @@ discriminably
 decian
 dozers
 deepens
-decompensated
 discernably
 decompensating
 delinquents
@@ -2920,6 +2919,7 @@ disfavor
 duodecimals
 dedicatory
 dedicatorily
+decompensated
 doggoner
 dedicators
 deaconry
