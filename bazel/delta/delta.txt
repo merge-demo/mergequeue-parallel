@@ -5020,7 +5020,6 @@ desexing
 deposed
 dinamode
 delustered
-diplopy
 duellers
 demure
 diplographical
@@ -9750,6 +9749,7 @@ dodecahedron
 distillations
 durometer
 drivingly
+diplopy
 duffles
 depositee
 decenary
