@@ -1145,6 +1145,7 @@ dispaint
 demonstrative
 detick
 digitogenin
+dactylus
 dasypus
 diparentum
 dasystephana
@@ -8659,7 +8660,6 @@ diaschisis
 discourtesy
 diffused
 dilative
-dactylus
 dato
 diaschisma
 doomlike
