@@ -10710,6 +10710,7 @@ chimla
 chimleys
 cynicalness
 cutlass
+cantinier
 calciclase
 chytridial
 cantharidated
@@ -24153,7 +24154,6 @@ convictfish
 convictfishes
 convictible
 carfax
-cantinier
 conviction
 convictional
 civilizatory
