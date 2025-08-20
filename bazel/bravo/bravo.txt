@@ -5539,7 +5539,6 @@ bilineated
 babist
 bebled
 breeziest
-blamer
 bierstubes
 bejesuit
 bejewel
@@ -8016,6 +8015,7 @@ bbls
 bickerer
 bailsman
 breathalyse
+blamer
 blastomere
 breathiest
 betorn
