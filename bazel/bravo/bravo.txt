@@ -2476,7 +2476,6 @@ benzoiodohydrin
 bultow
 bruting
 blurriest
-bandelet
 barfish
 bargainable
 bushranging
@@ -7561,6 +7560,7 @@ bewary
 bewaste
 beweary
 besottedness
+bandelet
 botflies
 brainworker
 banagos
