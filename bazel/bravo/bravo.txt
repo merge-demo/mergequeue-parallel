@@ -2792,7 +2792,6 @@ bureaus
 barites
 bolding
 betulaceous
-baroqueness
 blonder
 brazee
 barmie
@@ -14354,6 +14353,7 @@ bougainvillia
 burry
 braies
 batteuse
+baroqueness
 bleeping
 bonier
 busticate
