@@ -4629,7 +4629,6 @@ dejecting
 derere
 decard
 disorienting
-digenous
 doblones
 dellies
 disroof
@@ -14468,6 +14467,7 @@ dindymene
 divertibility
 diverticle
 daibutsu
+digenous
 disguisedness
 disruptment
 diverticulitis
