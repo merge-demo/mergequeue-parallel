@@ -8408,6 +8408,7 @@ chaluka
 catacrotic
 chalumeau
 collegium
+cardioptosis
 capercailye
 chalumeaux
 chalutzim
@@ -30522,7 +30523,6 @@ correctives
 cubelium
 carsten
 cubera
-cardioptosis
 cure
 cubers
 cubes
