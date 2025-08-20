@@ -10220,7 +10220,6 @@ bondhold
 bloodletter
 belshazzar
 blackleg
-blacklegged
 betattering
 boyd
 breakpoints
@@ -12965,6 +12964,7 @@ boozier
 booziest
 bookmate
 balawu
+blacklegged
 banausic
 bipennated
 bombycillidae
