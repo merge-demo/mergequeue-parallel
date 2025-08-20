@@ -14521,7 +14521,6 @@ anthroposociology
 altarlet
 adoretus
 andalusian
-aphorismatic
 anthroposophy
 anthropoteleoclogy
 anthropotheist
@@ -15615,6 +15614,7 @@ anet
 antiopiumist
 astronomically
 approvableness
+aphorismatic
 afrite
 alcedininae
 albify
