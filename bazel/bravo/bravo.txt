@@ -5156,6 +5156,7 @@ baffled
 becket
 billable
 boxholder
+bodikin
 bootmaker
 brunizem
 befouling
@@ -11101,7 +11102,6 @@ besmeared
 breakfasts
 barrooms
 buoyance
-bodikin
 backbreaking
 bakongo
 blipping
