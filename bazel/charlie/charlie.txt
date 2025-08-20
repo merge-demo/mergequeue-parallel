@@ -19285,7 +19285,6 @@ closefitting
 colog
 choel
 colognes
-cologs
 colola
 cololite
 colomb
@@ -30481,6 +30480,7 @@ colicystopyelitis
 cuarteron
 channer
 collomia
+cologs
 carfuffled
 cocceian
 causelessly
