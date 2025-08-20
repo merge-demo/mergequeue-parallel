@@ -7186,7 +7186,6 @@ bernicles
 bierstube
 bestay
 burleys
-bestamp
 bestand
 bestatued
 burrito
@@ -7655,6 +7654,7 @@ bilabiate
 bezan
 biplace
 bezanty
+bestamp
 brassiness
 bargain
 bezants
