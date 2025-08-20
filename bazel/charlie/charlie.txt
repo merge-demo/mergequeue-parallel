@@ -4225,7 +4225,6 @@ chauffeur
 carabideous
 cardsharp
 cardsharping
-chlorites
 contrade
 cavaliered
 chinatown
@@ -18577,6 +18576,7 @@ considerateness
 clypeole
 coif
 coiffed
+chlorites
 caustics
 clavers
 coiffeur
