@@ -15351,7 +15351,6 @@ antilemic
 abrosia
 antilethargic
 antiliberal
-appetizer
 antiliberalness
 ansel
 antilibration
@@ -18886,6 +18885,7 @@ auricle
 archipallium
 appetizingly
 abedge
+appetizer
 archipelagian
 antigens
 aghastness

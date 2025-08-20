@@ -8493,7 +8493,6 @@ bylined
 bunging
 birminghamize
 bunjara
-bumble
 balsameaceae
 beaches
 bemusk
@@ -17119,6 +17118,7 @@ bullheads
 bidialectalism
 buckwheater
 basophilous
+bumble
 barbera
 brab
 bestial
