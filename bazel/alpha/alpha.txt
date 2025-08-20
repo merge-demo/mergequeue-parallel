@@ -16844,7 +16844,6 @@ antiinstitutionalist
 apicolysis
 annotater
 amentulum
-apposable
 apicular
 anymore
 adequation
@@ -20172,6 +20171,7 @@ arrears
 arrendation
 argentometric
 arrenotoky
+apposable
 arrentation
 arreption
 acantholimon
