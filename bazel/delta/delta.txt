@@ -10222,7 +10222,6 @@ denuclearize
 decemvirs
 dingman
 doven
-declassified
 dings
 despises
 dzeron
@@ -14246,6 +14245,7 @@ daggerbush
 deme
 dene
 drygoodsman
+declassified
 dumbly
 demilitarizing
 disburses
