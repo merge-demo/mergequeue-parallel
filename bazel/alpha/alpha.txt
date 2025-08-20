@@ -1255,7 +1255,6 @@ antiproductiveness
 acarapis
 asaphic
 acarari
-ardelia
 acarian
 acariasis
 acarid
@@ -13885,6 +13884,7 @@ antheroid
 antae
 antaean
 antaeus
+ardelia
 alvelos
 antefuture
 advantaging
