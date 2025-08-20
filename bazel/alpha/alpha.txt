@@ -12873,7 +12873,6 @@ awkward
 acinetaria
 antidoron
 anglophilic
-autotype
 adenine
 anglophilism
 anglophobia
@@ -24064,6 +24063,7 @@ autofrettage
 autogamic
 autogamies
 autogamous
+autotype
 afreets
 antifeministic
 approvedness
