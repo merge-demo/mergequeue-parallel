@@ -8801,6 +8801,7 @@ binh
 bounden
 besets
 bini
+barycentric
 beraking
 bettering
 biniodide
@@ -15658,7 +15659,6 @@ broadloom
 bulbilis
 bands
 bogglebo
-barycentric
 barbering
 battarism
 brunonia
