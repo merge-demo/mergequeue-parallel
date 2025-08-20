@@ -6251,7 +6251,6 @@ bombay
 benitier
 benjamin
 benjaminite
-bound
 bridgeway
 boletus
 benjamins
@@ -14676,6 +14675,7 @@ bestraught
 brassish
 brasslike
 baignoire
+bound
 bagio
 brast
 brat
