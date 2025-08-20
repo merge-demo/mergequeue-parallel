@@ -1289,7 +1289,6 @@ densified
 dryermen
 declinate
 disfranchisements
-daceloninae
 dauding
 dicotyledones
 dogate
@@ -15163,6 +15162,7 @@ degenerated
 dogtooth
 diabetogenous
 delegare
+daceloninae
 demographist
 dyaus
 deponent
