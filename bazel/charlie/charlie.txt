@@ -2719,7 +2719,6 @@ cankerfret
 calcemia
 cankery
 cannoneering
-cankering
 cankerroot
 cauponize
 cankers
@@ -28263,6 +28262,7 @@ clinic
 craspedodromous
 craves
 craspedota
+cankering
 circumstantial
 calumets
 craspedotal
