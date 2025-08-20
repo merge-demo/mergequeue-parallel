@@ -14584,7 +14584,6 @@ divisively
 develope
 decomposition
 divisor
-digitalein
 desalinize
 divergenge
 dondine
@@ -14690,6 +14689,7 @@ doubtfully
 drill
 djebels
 djehad
+digitalein
 deferens
 djellabah
 dampest
