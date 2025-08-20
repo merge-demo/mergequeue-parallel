@@ -5763,6 +5763,7 @@ bamboozled
 bell
 bonos
 bretwaldaship
+brachyural
 bellacoola
 bellatrix
 bungler
@@ -11611,7 +11612,6 @@ boardwalks
 battledored
 benefactrix
 bolis
-brachyural
 blockishly
 biunivocal
 barche
