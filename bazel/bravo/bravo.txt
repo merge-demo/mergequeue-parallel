@@ -3085,6 +3085,7 @@ boodledom
 beautify
 bucrnia
 bloodcurdler
+becrawled
 benben
 baseborn
 becher
@@ -17349,7 +17350,6 @@ basiotribe
 breviary
 beneplacity
 bentincks
-becrawled
 beachier
 bogledom
 bliny

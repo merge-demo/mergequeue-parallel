@@ -10324,7 +10324,6 @@ chichipe
 carvyl
 corometer
 charlies
-calctuffs
 chichling
 chick
 chelidosaurus
@@ -11110,6 +11109,7 @@ candours
 carloads
 calamus
 cocos
+calctuffs
 codeless
 chiton
 cageling
