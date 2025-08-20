@@ -3360,6 +3360,7 @@ deflagrator
 deflating
 discommend
 drumslade
+disangularize
 dreng
 diversifolious
 deuteronomical
@@ -9918,7 +9919,6 @@ dimensionally
 dimensioning
 degummer
 dimensum
-disangularize
 diphenyl
 dimer
 deludable
