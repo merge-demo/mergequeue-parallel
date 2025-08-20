@@ -14582,6 +14582,7 @@ clefs
 chang
 cissus
 cist
+cinuran
 cankerwort
 chamoised
 cerilla
@@ -29751,7 +29752,6 @@ crookbacked
 crookbill
 castral
 crookedbacked
-cinuran
 commencement
 consignment
 conbinas
