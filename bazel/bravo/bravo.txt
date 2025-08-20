@@ -8684,7 +8684,6 @@ bimanal
 binoxalate
 bimanous
 bradsot
-bodysurf
 bournless
 bimanually
 breechloading
@@ -10840,6 +10839,7 @@ bromomethane
 balate
 blethered
 bletilla
+bodysurf
 bronteum
 blets
 bonhomme
