@@ -8255,6 +8255,7 @@ bigae
 bywork
 battological
 bewake
+boustrophedon
 benzophosphinic
 brakehead
 bedsteads
@@ -13709,7 +13710,6 @@ bouser
 bousouki
 bousoukia
 brunswick
-boustrophedon
 bloomer
 bircher
 biophyte
