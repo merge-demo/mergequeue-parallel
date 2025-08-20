@@ -5361,6 +5361,7 @@ castaways
 casted
 crankled
 creditabilities
+cowshot
 criminol
 casteisms
 concessive
@@ -27744,7 +27745,6 @@ corkscrews
 connecters
 cowshed
 cowsheds
-cowshot
 chough
 cowshut
 cowskin
