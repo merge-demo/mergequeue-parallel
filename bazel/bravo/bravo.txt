@@ -5491,6 +5491,7 @@ battements
 babbitts
 behowled
 broken
+beround
 brouze
 bey
 bindi
@@ -6783,7 +6784,6 @@ benetting
 beroidae
 betimes
 berossos
-beround
 bendability
 berreaves
 bolos
