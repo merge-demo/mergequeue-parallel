@@ -6205,7 +6205,6 @@ barbless
 buchmanism
 befinger
 biliary
-boarishly
 buttinsky
 breedbate
 blackleggery
@@ -16832,6 +16831,7 @@ betas
 benvenuto
 balkline
 biomaterial
+boarishly
 beam
 bigger
 buffing
