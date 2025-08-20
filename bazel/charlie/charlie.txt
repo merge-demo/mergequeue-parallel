@@ -14938,6 +14938,7 @@ coldturkey
 coprozoic
 cytophil
 cytophilic
+curacy
 cytula
 consulting
 consignors
@@ -27321,7 +27322,6 @@ courage
 courageous
 courager
 cherubs
-curacy
 connexionalism
 couranto
 courantoes
