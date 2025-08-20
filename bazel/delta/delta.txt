@@ -446,6 +446,7 @@ diathermous
 daises
 defiance
 discept
+driver
 debates
 defensative
 disseats
@@ -17236,7 +17237,6 @@ devulcanization
 drivenness
 drouthiest
 drivepipe
-driver
 despising
 drivers
 diol
