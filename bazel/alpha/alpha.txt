@@ -11445,6 +11445,7 @@ amula
 amulas
 armaments
 aloemodin
+asininities
 avengeress
 acrinyl
 aporrhea
@@ -21295,7 +21296,6 @@ asyngamy
 anconeous
 asyngamic
 asininity
-asininities
 asyntactic
 asyntrophy
 asiphonogama
