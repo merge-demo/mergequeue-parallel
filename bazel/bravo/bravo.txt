@@ -13467,7 +13467,6 @@ blemishes
 borstall
 baronethood
 bottomers
-bottoming
 biotelemetry
 brattiness
 betweenness
@@ -15540,6 +15539,7 @@ bescent
 beast
 bussy
 barbule
+bottoming
 boardable
 brisking
 bemired
