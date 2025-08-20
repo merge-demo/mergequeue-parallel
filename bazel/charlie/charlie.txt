@@ -3492,7 +3492,6 @@ capsomere
 capsomers
 capstan
 capstans
-capstone
 capsula
 cons
 capsular
@@ -27259,6 +27258,7 @@ coenoblast
 countries
 closelipped
 caravanner
+capstone
 countrify
 counterpoles
 crebrity

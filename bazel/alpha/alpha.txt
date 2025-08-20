@@ -3860,7 +3860,6 @@ arylamino
 adjoust
 adjt
 aleyrodidae
-adjudging
 adjudgment
 appropriation
 adjudicate
@@ -11927,6 +11926,7 @@ anapsid
 australopithecus
 anapterygota
 andes
+adjudging
 anapterygotism
 amphoriskoi
 ariettas
