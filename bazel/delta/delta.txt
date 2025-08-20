@@ -6451,7 +6451,6 @@ documenter
 drizzled
 drugshop
 danseusse
-desagrement
 demitone
 deplumation
 dictatrix
@@ -18483,6 +18482,7 @@ dipterous
 diose
 dislocation
 dupped
+desagrement
 dyschronous
 detractively
 dacryoma
