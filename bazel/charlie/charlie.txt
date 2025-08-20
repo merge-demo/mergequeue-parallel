@@ -225,7 +225,6 @@ cheiroline
 cacaesthesia
 cacajao
 cacam
-cacanapa
 cacara
 chthonophagia
 cacas
@@ -21766,6 +21765,7 @@ condone
 condonement
 condoner
 condoners
+cacanapa
 cypriotes
 condones
 clematis
