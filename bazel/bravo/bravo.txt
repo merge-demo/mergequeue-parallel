@@ -634,7 +634,6 @@ bacteriophagy
 bacteriopsonin
 butting
 bendable
-barfing
 bellwethers
 butchering
 boozed
@@ -9829,6 +9828,7 @@ birefringent
 bebat
 bytes
 bitewing
+barfing
 beryx
 based
 backswording
