@@ -350,6 +350,7 @@ aberr
 aerophone
 ask
 aberrance
+aglyphodont
 abdicate
 anglians
 aberrancy
@@ -6072,7 +6073,6 @@ ann
 aglypha
 analogal
 articular
-aglyphodont
 algodonite
 aback
 awaken
