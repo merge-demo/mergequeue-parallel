@@ -5510,6 +5510,7 @@ deoxyribonucleotide
 disportive
 diaphragm
 dogtrot
+defaulter
 darter
 dolichos
 digging
@@ -14455,7 +14456,6 @@ daltonian
 divertedly
 diverters
 disillusionized
-defaulter
 disjointing
 daising
 divvers
