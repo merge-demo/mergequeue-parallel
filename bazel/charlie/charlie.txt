@@ -25324,6 +25324,7 @@ corncrake
 crustiest
 corncrib
 centripetal
+coterminousness
 corncribs
 corncrusher
 ce
@@ -26384,7 +26385,6 @@ coterie
 ciminite
 concavities
 centipoise
-coterminousness
 cotes
 cycloidian
 cerenkov
