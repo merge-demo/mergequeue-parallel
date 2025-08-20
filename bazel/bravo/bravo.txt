@@ -11497,7 +11497,6 @@ bluggy
 bispore
 bethwack
 bluish
-bombload
 blumes
 benighting
 blunderbuss
@@ -14535,6 +14534,7 @@ branchiostomid
 brandyball
 bounciest
 branchiostomous
+bombload
 branchireme
 branchless
 banefulness
