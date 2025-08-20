@@ -4352,7 +4352,6 @@ blackhearted
 bilingualism
 becircled
 botfly
-beck
 bowman
 benedictive
 boehmites
@@ -12799,6 +12798,7 @@ byronite
 bookworm
 bookwright
 booleans
+beck
 booleys
 bardy
 booly
