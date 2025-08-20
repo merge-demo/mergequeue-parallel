@@ -2985,6 +2985,7 @@ bess
 bidirectionally
 boist
 bartenders
+barbarisation
 benzene
 bartending
 bulbiferous
@@ -5369,7 +5370,6 @@ buyable
 begray
 bromobenzene
 barodynamic
-barbarisation
 burly
 birne
 begrett
