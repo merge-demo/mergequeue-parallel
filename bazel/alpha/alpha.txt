@@ -1937,6 +1937,7 @@ anamirtin
 acetylization
 aculeus
 ammonization
+alectoromancy
 acetylizer
 acetylizing
 acetylmethylcarbinol
@@ -7829,7 +7830,6 @@ arbors
 apachism
 alectoromachy
 angiospermae
-alectoromancy
 amphibiological
 alectoropodous
 alectryomachy
