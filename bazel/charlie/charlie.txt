@@ -1946,7 +1946,6 @@ crotalid
 checkered
 camera
 capitols
-counterwill
 cumulose
 cyprinodont
 camerae
@@ -20306,6 +20305,7 @@ chansons
 communicant
 communicate
 czarinian
+counterwill
 convertibles
 cousinly
 communicating
