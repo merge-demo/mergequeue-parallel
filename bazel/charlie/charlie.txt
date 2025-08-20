@@ -5435,7 +5435,6 @@ confront
 casaque
 castlewards
 castlewise
-castock
 clepes
 castoffs
 castores
@@ -15395,6 +15394,7 @@ coldfinch
 clankingly
 cornfloor
 clankless
+castock
 chaldaic
 cuyas
 chloropia
