@@ -13636,7 +13636,6 @@ dissilient
 dolichurus
 dermatobia
 dissyllabic
-dasypaedic
 documentarian
 dissyllabification
 dissyllabised
@@ -16213,6 +16212,7 @@ deallocates
 defats
 doweress
 dunches
+dasypaedic
 dent
 dowery
 derailer
