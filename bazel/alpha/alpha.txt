@@ -12799,7 +12799,6 @@ asemia
 almners
 awardable
 acetylsalol
-angiotonic
 abjunction
 angiotribe
 angiotripsy
@@ -20321,6 +20320,7 @@ androids
 arrogate
 antenarial
 alonsoa
+angiotonic
 antistrike
 alem
 aistopod
