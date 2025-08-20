@@ -6481,7 +6481,6 @@ cossetted
 cavatina
 chawl
 cavatine
-cavdia
 collogues
 celebrating
 cavea
@@ -15332,6 +15331,7 @@ clamour
 contune
 cordant
 copalchi
+cavdia
 clamouring
 collembolan
 clamourist
