@@ -9532,7 +9532,6 @@ desiliconize
 discussable
 digestor
 digestory
-decide
 digesture
 dinarzade
 dolose
@@ -11248,6 +11247,7 @@ dysbulia
 diazo
 detoxifies
 disannulment
+decide
 deckers
 devitrifiable
 dysbulic
