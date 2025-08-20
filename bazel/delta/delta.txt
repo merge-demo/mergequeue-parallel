@@ -7590,6 +7590,7 @@ deutzia
 deuzan
 discernible
 drou
+dhoty
 doublewidth
 diddikai
 darking
@@ -9144,7 +9145,6 @@ disciflorous
 dispunct
 decagons
 didelphid
-dhoty
 dichoptic
 didelphidae
 discursive
