@@ -9436,7 +9436,6 @@ cowedly
 chaw
 chawbacon
 chawbuck
-chawdron
 cornerwise
 chawer
 comitative
@@ -24312,6 +24311,7 @@ colalgia
 cooing
 cyclovertebral
 cooingly
+chawdron
 cottonpicking
 cooja
 cook
