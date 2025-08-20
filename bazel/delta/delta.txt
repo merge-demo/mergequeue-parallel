@@ -91,6 +91,7 @@ deploying
 disqualifiable
 dotty
 depolarizer
+dampened
 diachylon
 dactylology
 dognapped
@@ -9700,7 +9701,6 @@ decemcostate
 demicircle
 detacwable
 dika
-dampened
 dieter
 dispersedelement
 desulphurization
