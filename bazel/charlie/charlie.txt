@@ -11779,7 +11779,6 @@ chondroalbuminoid
 chondroangioma
 credential
 chondroarthritis
-contestant
 chondroblastoma
 chondrocyte
 coniomycetes
@@ -21599,6 +21598,7 @@ concutient
 crepitacula
 cuneator
 condemn
+contestant
 convent
 condemnations
 condemnatory

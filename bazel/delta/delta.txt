@@ -4696,6 +4696,7 @@ demystify
 demystification
 dismantle
 demisuit
+diabolonian
 dumminess
 dithyrambos
 diphthongous
@@ -13172,7 +13173,6 @@ directiveness
 dysphonia
 dysphotic
 dysphrasia
-diabolonian
 detrimental
 dollardee
 dispicion
