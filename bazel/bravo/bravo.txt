@@ -266,7 +266,6 @@ buried
 blotless
 balancedness
 brontosaur
-bacillariaceous
 bedfellow
 bacillarieae
 bacillariophyta
@@ -8614,6 +8613,7 @@ bookable
 brightsomeness
 bowling
 bryales
+bacillariaceous
 benzo
 billman
 blechnum
