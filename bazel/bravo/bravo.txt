@@ -3908,6 +3908,7 @@ booksellerish
 bombardier
 bocstaff
 brickbats
+birdbanding
 bdelloura
 bassette
 bdellouridae
@@ -9491,7 +9492,6 @@ blunderers
 birring
 backachy
 bonder
-birdbanding
 bdellostoma
 birses
 birsit
