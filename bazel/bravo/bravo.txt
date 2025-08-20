@@ -11276,6 +11276,7 @@ basketries
 blowguns
 butling
 blatchang
+bucketer
 bronchoesophagoscopy
 beshackle
 blowholes
@@ -13396,7 +13397,6 @@ bartisans
 bulgier
 birles
 botryllus
-bucketer
 brachyceral
 batonistic
 brachycome

@@ -16612,7 +16612,6 @@ cloisterwise
 cloistral
 concoagulation
 cloit
-chamisos
 cloke
 cutaway
 conniver
@@ -24401,6 +24400,7 @@ calyculus
 carbonic
 cooncans
 coonhound
+chamisos
 carey
 coonhounds
 coony
