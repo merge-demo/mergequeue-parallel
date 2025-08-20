@@ -11959,7 +11959,6 @@ atrium
 aboriginals
 anareta
 amara
-anaretical
 anarithia
 arc
 asymtotes
@@ -15861,6 +15860,7 @@ altho
 annotations
 antidynasty
 amazingly
+anaretical
 antipragmatism
 alienates
 antipragmatist
