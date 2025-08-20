@@ -15064,6 +15064,7 @@ cilantros
 connixation
 civile
 clydeside
+carvel
 civilest
 cardiod
 civilian
@@ -23340,7 +23341,6 @@ carua
 coarsen
 chimane
 contactant
-carvel
 circumstantiations
 contactile
 coatracks
