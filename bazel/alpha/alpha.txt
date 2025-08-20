@@ -317,6 +317,7 @@ abecedarians
 antiminsia
 abed
 anthophyte
+admiralties
 anguis
 avar
 appeals
@@ -4001,7 +4002,6 @@ admirably
 admirals
 autoeciousness
 admiralty
-admiralties
 actinobacillotic
 atalan
 admiration
