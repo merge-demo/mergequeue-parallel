@@ -8693,7 +8693,6 @@ barbadoes
 bourbonist
 bimastic
 boatbill
-bengal
 backberand
 bimaxillary
 bobsleigh
@@ -12544,6 +12543,7 @@ brails
 brontogram
 bridehead
 boniface
+bengal
 bonification
 bolshevik
 bonyfish

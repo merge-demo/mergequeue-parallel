@@ -16236,7 +16236,6 @@ argali
 arish
 antithesism
 antithetic
-achropsia
 arcosoliulia
 antithyroid
 algolagnic
@@ -16701,6 +16700,7 @@ atees
 arrestee
 aphasiacs
 aphasics
+achropsia
 ambience
 anabaptized
 averse
