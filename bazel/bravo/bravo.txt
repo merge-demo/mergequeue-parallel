@@ -12071,7 +12071,6 @@ boatmaster
 bradycauma
 bulbilla
 boites
-baltetei
 balladier
 bojo
 bokhara
@@ -12718,6 +12717,7 @@ billion
 brachydactylic
 bailsmen
 brahminism
+baltetei
 bookfold
 biometric
 bookhood
