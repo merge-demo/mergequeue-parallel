@@ -5967,6 +5967,7 @@ depriment
 deprint
 depriorize
 disorderedness
+donorship
 deprivable
 degrader
 departements
@@ -13544,7 +13545,6 @@ disassociated
 disseisee
 dortiship
 deglamorized
-donorship
 defterdar
 deputation
 disaccharose

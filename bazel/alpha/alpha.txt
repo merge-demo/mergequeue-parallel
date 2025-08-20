@@ -9345,6 +9345,7 @@ alphabetiser
 amanda
 alphabetized
 arbalos
+azaleas
 alphabetizer
 alphabetizers
 acroblast
@@ -25224,7 +25225,6 @@ azafran
 angiocyst
 acast
 aucht
-azaleas
 azande
 antediluvially
 azaserine
