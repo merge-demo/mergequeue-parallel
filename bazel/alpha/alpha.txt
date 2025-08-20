@@ -874,7 +874,6 @@ aflatus
 amurcosity
 absentminded
 aerobics
-absentness
 avicennism
 aiver
 abshenry
@@ -15493,6 +15492,7 @@ antimonarchal
 antimonarchally
 arricci
 auxochromic
+absentness
 astrophysics
 anthracnose
 angelot
