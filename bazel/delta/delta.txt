@@ -5118,7 +5118,6 @@ dipsomania
 dafla
 dendrocoelan
 dendrocoele
-dendrocolaptidae
 dendrocolaptine
 dendroctonus
 dendrodic
@@ -8737,6 +8736,7 @@ distort
 diatesseron
 diathermance
 dichrooscopic
+dendrocolaptidae
 disenfranchisements
 dorsonuchal
 diathermy
