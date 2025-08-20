@@ -10112,6 +10112,7 @@ collab
 chipchap
 chessdom
 chesser
+chipyard
 cabinda
 chesses
 chessylite
@@ -23900,7 +23901,6 @@ contubernial
 contumacy
 ciceronic
 contumacious
-chipyard
 cantel
 ciguatera
 contumely
