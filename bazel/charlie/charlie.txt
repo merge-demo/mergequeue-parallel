@@ -1127,7 +1127,6 @@ calciprivic
 calypterae
 cardiant
 carpale
-caveatee
 calcispongiae
 chromatosphere
 calcite
@@ -31940,6 +31939,7 @@ creophagy
 czaritza
 czaritzas
 crookback
+caveatee
 czech
 czechish
 czechization
