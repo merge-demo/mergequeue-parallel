@@ -5243,7 +5243,6 @@ basaltic
 bicentenary
 bimastoid
 bullyragged
-basophils
 beaky
 bunkmate
 begarlanded
@@ -6849,6 +6848,7 @@ boldness
 bummaree
 berzelianite
 burley
+basophils
 baroi
 bes
 bushpig
