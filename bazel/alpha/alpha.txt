@@ -5133,6 +5133,7 @@ affectable
 anaxonia
 aflicker
 authoritarianism
+autotroph
 affectations
 adorners
 acidophil
@@ -20900,7 +20901,6 @@ ascend
 ascendable
 amortisseur
 antirust
-autotroph
 ascendance
 ascendancy
 ascendantly
