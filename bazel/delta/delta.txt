@@ -8768,7 +8768,6 @@ diatomeae
 diatomicity
 duetted
 dinting
-defocusses
 deescalations
 diatomist
 dot
@@ -9385,6 +9384,7 @@ darkle
 dismembering
 differentiant
 daggy
+defocusses
 differentiate
 dioscoreaceous
 differentiator
