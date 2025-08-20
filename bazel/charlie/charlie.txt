@@ -6809,7 +6809,6 @@ celiectomy
 choriphyllous
 celiemia
 celiocele
-celiocyesis
 coadministrator
 churchiness
 celiocolpotomy
@@ -20591,6 +20590,7 @@ cherishable
 compensator
 compensatory
 cotillions
+celiocyesis
 compensators
 compenser
 compere
