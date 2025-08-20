@@ -5864,6 +5864,7 @@ claybanks
 catenarian
 catenas
 caudaite
+chincona
 catenate
 crooisite
 catenating
@@ -25495,7 +25496,6 @@ corollet
 cholecystonephrostomy
 corolliferous
 corollifloral
-chincona
 capsidae
 corollitic
 cespitose
