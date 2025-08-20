@@ -10473,6 +10473,7 @@ dosimeters
 damask
 discolith
 devinct
+dulcamara
 disinflame
 dow
 disobliging
@@ -17986,7 +17987,6 @@ dukkeripen
 dehydrase
 dukuma
 dulat
-dulcamara
 diverticulum
 dulce
 decemvii

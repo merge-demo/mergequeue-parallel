@@ -6470,7 +6470,6 @@ coenuri
 cachinnation
 cavalryman
 crinigerous
-cavalrymen
 carbazide
 coryl
 cavate
@@ -24337,6 +24336,7 @@ cookishly
 colloquia
 convert
 charbroiling
+cavalrymen
 coconstituent
 cookout
 craniophore
