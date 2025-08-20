@@ -5702,7 +5702,6 @@ beclap
 belgrade
 bombasine
 bora
-butterback
 birefracting
 backwasher
 belialic
@@ -10078,6 +10077,7 @@ backsey
 bks
 bkt
 beflum
+butterback
 baboosh
 bicephalic
 blaasop
