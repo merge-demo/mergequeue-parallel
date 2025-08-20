@@ -19826,7 +19826,6 @@ aethon
 animalization
 archthief
 armhole
-armhoop
 allotropes
 adpao
 acapsular
@@ -24257,6 +24256,7 @@ autonomist
 autonomize
 asphaltlike
 amphotericin
+armhoop
 autoparasitism
 autopelagic
 abulomania
