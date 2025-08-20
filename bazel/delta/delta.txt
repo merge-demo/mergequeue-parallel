@@ -5922,6 +5922,7 @@ dyscrasy
 depressed
 disaccustomed
 dandyisms
+discomfortable
 dispender
 depressibilities
 deozonization
@@ -16770,7 +16771,6 @@ dratchell
 decoction
 drownded
 drats
-discomfortable
 dratting
 draught
 distal
