@@ -21232,7 +21232,6 @@ asilidae
 acronycta
 archeostome
 asparaguses
-asilus
 astr
 albuminizing
 asymbolia
@@ -21411,6 +21410,7 @@ asperity
 anthrol
 attrib
 associationist
+asilus
 abdicating
 asperly
 aerologic
