@@ -1725,7 +1725,6 @@ boutonniere
 belorussian
 baronial
 baloskion
-bulbels
 belittled
 baladine
 balsamation
@@ -15747,6 +15746,7 @@ brogueries
 beneficence
 becaps
 bove
+bulbels
 backstrokes
 backhandedly
 besonio

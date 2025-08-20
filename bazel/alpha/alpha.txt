@@ -3623,7 +3623,6 @@ acuating
 arrant
 adenosine
 anatomised
-adenostoma
 ailanthic
 adenotyphus
 antislickens
@@ -13979,6 +13978,7 @@ arrhythmia
 antebath
 anomalurus
 aldamin
+adenostoma
 antebellum
 aht
 automobilistic
