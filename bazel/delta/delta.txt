@@ -13883,6 +13883,7 @@ dendritically
 drinn
 distemperer
 distempering
+deertongue
 distemperoid
 distenant
 distending
@@ -17478,7 +17479,6 @@ drouthier
 defame
 definitude
 datums
-deertongue
 delegatee
 drove
 drovers
