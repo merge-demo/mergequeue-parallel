@@ -20517,7 +20517,6 @@ compassing
 coasting
 compassion
 compassionate
-couthiness
 compassionately
 candidateship
 compassionateness
@@ -28074,6 +28073,7 @@ crampits
 crampon
 compromis
 crampons
+couthiness
 crampoon
 carefree
 cran
