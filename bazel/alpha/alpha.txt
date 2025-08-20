@@ -13963,6 +13963,7 @@ anteambulation
 anteater
 advancer
 astrologian
+archchampion
 achronychous
 antebaptismal
 andesyte
@@ -18661,7 +18662,6 @@ alerts
 aloeroot
 archbuilder
 altaite
-archchampion
 archcheater
 archchemic
 antiopelmous
