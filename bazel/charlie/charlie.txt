@@ -1698,7 +1698,6 @@ calosoma
 calotermes
 calothrix
 calotype
-cyclodiolefine
 calotypic
 calotypist
 crossbolt
@@ -15135,6 +15134,7 @@ clackama
 circumtropical
 chinsed
 clacker
+cyclodiolefine
 clackety
 clacking
 clacks
