@@ -2687,7 +2687,6 @@ duels
 dareful
 deconsecrated
 detailedness
-demitrain
 deconsideration
 decontaminates
 decontaminating
@@ -7113,6 +7112,7 @@ degras
 diseasing
 dorsocaudal
 desynchronizing
+demitrain
 demonstratable
 destroy
 divisionally
