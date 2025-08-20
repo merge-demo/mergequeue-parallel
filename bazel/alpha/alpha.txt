@@ -596,7 +596,6 @@ abodement
 actification
 antarctic
 aphasic
-alexic
 auditoria
 abodes
 adipolysis
@@ -25212,6 +25211,7 @@ airgraph
 acanthocephala
 axwort
 acquirable
+alexic
 antiliturgical
 az
 ascogonidium
