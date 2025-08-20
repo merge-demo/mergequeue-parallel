@@ -4023,7 +4023,6 @@ agentival
 admissibility
 asci
 admissive
-automan
 astrophotometrical
 amaracus
 admissory
@@ -7635,6 +7634,7 @@ alcogene
 ascogonium
 antiphilosophical
 alcohate
+automan
 assertorically
 alcohol
 alcoholature
