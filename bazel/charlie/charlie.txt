@@ -7042,7 +7042,6 @@ cutlips
 censure
 censureless
 coexecutant
-coddling
 census
 caecitis
 censusing
@@ -11538,6 +11537,7 @@ chokage
 chairer
 chokeberry
 certif
+coddling
 catastrophically
 chokeberries
 chaetangiaceae
