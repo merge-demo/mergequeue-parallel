@@ -940,7 +940,6 @@ canterburies
 calaboose
 cycloidei
 canelle
-calabrian
 calabrians
 calabur
 changedness
@@ -22073,6 +22072,7 @@ conflicts
 catabiotic
 cheltenham
 conflow
+calabrian
 clockworks
 confluent
 confluxes
