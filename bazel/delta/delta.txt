@@ -17260,6 +17260,7 @@ driving
 disclamatory
 drizzles
 drunkeries
+deadlocks
 demulsifier
 dacryolith
 dressmake
@@ -18209,7 +18210,6 @@ ditetragonal
 dentatocostate
 diamagnetometer
 disfellowship
-deadlocks
 dermatorrhoea
 dode
 decurrent
