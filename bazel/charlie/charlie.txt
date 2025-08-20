@@ -8611,7 +8611,6 @@ chancy
 cardiodynamics
 crossruff
 chanciest
-chanciness
 campion
 calthrops
 chancing
@@ -27662,6 +27661,7 @@ cowhand
 cowherb
 cowherds
 cytoarchitecturally
+chanciness
 clavicornate
 capeworks
 caliver

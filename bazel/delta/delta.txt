@@ -12638,7 +12638,6 @@ discourage
 duntle
 daredevils
 drate
-delegant
 dertrotheca
 doomsman
 defaultant
@@ -17859,6 +17858,7 @@ dunst
 despatcher
 dezincing
 dudishness
+delegant
 dudism
 diaconicum
 defilement
