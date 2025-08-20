@@ -2933,7 +2933,6 @@ dedifferentiating
 dedignation
 developist
 dimanganion
-displayer
 dedit
 dediticiancy
 dedogmatize
@@ -7254,6 +7253,7 @@ detenu
 detenue
 desulfurize
 detenues
+displayer
 dephlegmator
 deter
 deterged
