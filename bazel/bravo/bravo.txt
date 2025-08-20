@@ -6478,7 +6478,6 @@ borderings
 bergmannite
 beothukan
 bellicose
-bullseye
 braggartly
 bepainted
 basidiogenetic
@@ -15491,6 +15490,7 @@ brinksmanship
 batted
 backshish
 beardlike
+bullseye
 bargeload
 brioches
 blase
