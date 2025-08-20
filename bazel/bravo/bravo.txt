@@ -5349,7 +5349,6 @@ biharmonic
 balmy
 bult
 ballroom
-begone
 boxlike
 billbergia
 begonia
@@ -7484,6 +7483,7 @@ biomicroscope
 bowne
 besant
 burtree
+begone
 bully
 berhymed
 bistre
