@@ -6764,6 +6764,7 @@ antimoralist
 aglipayan
 airfoil
 airfoils
+actualising
 adiate
 airglow
 airglows
@@ -13930,7 +13931,6 @@ antaranga
 ampalaya
 altogether
 astronomien
-actualising
 amnioclepsis
 antarchist
 antievolutional
