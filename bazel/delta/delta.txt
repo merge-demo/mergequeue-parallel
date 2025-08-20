@@ -1534,6 +1534,7 @@ droops
 docked
 deadening
 drippings
+disinheritable
 dices
 deputising
 dyssodia
@@ -12563,7 +12564,6 @@ divertible
 disingenuousness
 dicaryophase
 detonator
-disinheritable
 diuturnity
 disinheritance
 dinaphthyl

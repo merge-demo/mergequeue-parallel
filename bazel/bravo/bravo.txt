@@ -1033,7 +1033,6 @@ bailieries
 botargos
 bailieship
 biogeographic
-bailiffs
 busway
 bustiest
 bersim
@@ -1955,6 +1954,7 @@ bagginess
 bandworm
 baylet
 baneberry
+bailiffs
 benzoflavine
 bullragging
 bentiness
