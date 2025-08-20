@@ -2206,7 +2206,6 @@ desray
 deacidify
 decreative
 dendrophile
-decasualise
 decasualised
 disgavel
 decasualized
@@ -15386,6 +15385,7 @@ daudit
 decrystallization
 domesday
 darbyite
+decasualise
 decongestion
 domesdays
 domesticality
