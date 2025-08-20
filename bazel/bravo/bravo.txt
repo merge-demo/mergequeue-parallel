@@ -10770,7 +10770,6 @@ bolectioned
 broggle
 beavered
 boody
-bibulus
 biorhythmic
 bronchomotor
 bleo
@@ -17651,6 +17650,7 @@ burked
 bonnetman
 belletrists
 blithebread
+bibulus
 buncos
 bringela
 barbettes
