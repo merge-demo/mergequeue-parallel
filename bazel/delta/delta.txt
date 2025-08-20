@@ -365,6 +365,7 @@ defames
 daylights
 deutomalar
 duoviri
+domoid
 decise
 devise
 desalters
@@ -2720,7 +2721,6 @@ discounsel
 diplopterous
 deedful
 dassy
-domoid
 deductibility
 decoration
 discursory
