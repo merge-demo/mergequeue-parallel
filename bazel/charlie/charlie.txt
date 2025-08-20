@@ -442,6 +442,7 @@ cactoid
 crocodilean
 cactus
 copying
+colunar
 civilisable
 chancered
 cactuslike
@@ -1294,7 +1295,6 @@ calaverite
 caliber
 compulsatory
 calibers
-colunar
 calibrated
 calibrater
 calibrates
