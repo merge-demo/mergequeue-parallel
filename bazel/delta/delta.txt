@@ -3543,7 +3543,6 @@ daybeam
 demoniast
 deoxygenizing
 developedness
-defunct
 descendence
 discredence
 dawcock
@@ -17578,6 +17577,7 @@ duteousness
 drumming
 drumreads
 demential
+defunct
 drumroll
 drumrolls
 drums

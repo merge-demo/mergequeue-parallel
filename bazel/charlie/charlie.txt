@@ -364,7 +364,6 @@ carper
 cacogastric
 cacogenesis
 cacogenic
-capsulate
 cacogeusia
 cacoglossia
 comitragedy
@@ -6471,6 +6470,7 @@ cachinnation
 cavalryman
 crinigerous
 cavalrymen
+capsulate
 carbazide
 coryl
 cavate
