@@ -6502,7 +6502,6 @@ cavekeeper
 cavelet
 confiner
 cambodia
-cavelike
 cavemen
 cavernal
 cavernlike
@@ -12273,6 +12272,7 @@ chrysophanic
 chrysophenin
 chrysophilist
 chrysophyte
+cavelike
 chromonemic
 chrysopid
 chrysopidae

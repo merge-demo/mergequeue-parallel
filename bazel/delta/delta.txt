@@ -1290,7 +1290,6 @@ disfranchisements
 daceloninae
 dauding
 dicotyledones
-dogate
 desorb
 directest
 daughterly
@@ -5644,6 +5643,7 @@ dorsumbonal
 dentistries
 deuterotokous
 dogtrick
+dogate
 dephycercal
 demounting
 demythologised
