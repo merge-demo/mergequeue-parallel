@@ -1550,7 +1550,6 @@ batterer
 blauboks
 baller
 beclowning
-ballerina
 ballet
 balletomane
 benzotrifuran
@@ -12720,6 +12719,7 @@ bailsmen
 brahminism
 bookfold
 biometric
+ballerina
 bookhood
 bloodhounds
 bookings
