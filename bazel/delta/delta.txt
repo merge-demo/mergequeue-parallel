@@ -3527,6 +3527,7 @@ defrayers
 defraying
 desaturate
 defraudation
+draparnaldia
 desiccated
 desmomyaria
 dufoil
@@ -8416,7 +8417,6 @@ disunite
 decked
 dialyze
 deflation
-draparnaldia
 daemonelix
 dialyzes
 disnaturing
