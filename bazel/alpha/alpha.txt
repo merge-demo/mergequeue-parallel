@@ -13726,7 +13726,6 @@ anonyme
 aeolian
 anonymity
 anonymously
-anonymuncule
 anoopsia
 anophele
 angeldom
@@ -18985,6 +18984,7 @@ archonship
 archonships
 acichlorid
 archontia
+anonymuncule
 archoplasmic
 acquits
 archorrhagia
