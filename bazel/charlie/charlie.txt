@@ -18004,7 +18004,6 @@ chromoplasmic
 concept
 coeligenous
 coelin
-cantharellus
 coelioscopy
 czechic
 chipboard
@@ -27578,6 +27577,7 @@ canaba
 conoplain
 covetiveness
 cerargyrite
+cantharellus
 covetous
 choffer
 choucroute
