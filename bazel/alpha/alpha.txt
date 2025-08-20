@@ -4648,6 +4648,7 @@ anguillule
 aegophony
 aegrotant
 alabastron
+arboresque
 archiving
 azazel
 askile
@@ -18453,7 +18454,6 @@ arango
 azofier
 allwhither
 axiology
-arboresque
 arboret
 aardwolf
 apprizement
