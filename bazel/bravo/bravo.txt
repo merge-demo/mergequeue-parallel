@@ -7144,7 +7144,6 @@ backsets
 brashest
 bespray
 ballute
-bespreng
 besprent
 betweenity
 bocking
@@ -14654,6 +14653,7 @@ bullwhack
 brassages
 brassard
 bearing
+bespreng
 brenthis
 briefing
 brassart
