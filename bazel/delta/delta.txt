@@ -200,6 +200,7 @@ daemons
 daemonurgist
 defecant
 dak
+dividuous
 deemstership
 dysgenic
 disciplinarianism
@@ -11468,7 +11469,6 @@ damasse
 dispositive
 deskbound
 dyotheletic
-dividuous
 dilatingly
 downturned
 discoglossidae
