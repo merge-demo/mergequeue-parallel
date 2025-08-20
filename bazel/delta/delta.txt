@@ -1560,6 +1560,7 @@ defilades
 duopolist
 deadish
 dysgenesic
+damsel
 dhanush
 demand
 diplomata
@@ -5915,7 +5916,6 @@ decryptions
 duplicity
 deprehend
 disprofit
-damsel
 diploptera
 dyscrasy
 depressed
