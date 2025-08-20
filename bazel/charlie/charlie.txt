@@ -4734,7 +4734,6 @@ carpetmaking
 clubability
 captivation
 carpets
-chant
 concolorous
 carpetweb
 change
@@ -30999,6 +30998,7 @@ coumalin
 cumic
 campanian
 cumyl
+chant
 congos
 clead
 ceriops
