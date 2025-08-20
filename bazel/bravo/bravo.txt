@@ -1288,7 +1288,6 @@ bassarid
 blowsiest
 bloke
 bittocks
-burgomaster
 bari
 brahmism
 brushet
@@ -3389,6 +3388,7 @@ botanizer
 basswood
 burghership
 berceau
+burgomaster
 brelaw
 byrrus
 bedsores
