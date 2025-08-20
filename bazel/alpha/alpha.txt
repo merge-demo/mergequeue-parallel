@@ -42,6 +42,7 @@ aerometeorograph
 abaciscus
 apian
 absorbancy
+abreacts
 aquativeness
 astrakhan
 arcella
@@ -769,7 +770,6 @@ abrazo
 antirevolutionaries
 aviarists
 allurements
-abreacts
 aepyornis
 ascites
 abreast
