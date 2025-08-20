@@ -1008,7 +1008,6 @@ definement
 darkies
 darkish
 dinornithic
-draughtsmen
 darkled
 disquietudes
 displanted
@@ -2896,6 +2895,7 @@ decuss
 decussate
 decussatively
 desideratum
+draughtsmen
 disyllabizing
 decussoria
 decwriter
