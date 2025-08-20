@@ -204,7 +204,6 @@ abbevillian
 abolishments
 acridyl
 ambystomidae
-abby
 apotactite
 antidotal
 antibacchic
@@ -20719,6 +20718,7 @@ artiness
 artiodactyla
 aerocolpos
 artiodactylous
+abby
 appendixed
 avicularian
 anaphoria

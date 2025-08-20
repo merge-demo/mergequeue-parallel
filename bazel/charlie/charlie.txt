@@ -2095,6 +2095,7 @@ campanology
 croaker
 coalmonger
 campanological
+cardiographer
 conjunctly
 campanologically
 coniology
@@ -4150,7 +4151,6 @@ calfret
 coalheugh
 chronologists
 cardiogram
-cardiographer
 cardiographic
 creels
 cardiographies
