@@ -8473,6 +8473,7 @@ deflexed
 dooxidize
 dextro
 decrowns
+desalinize
 daimonology
 deration
 dibutyl
@@ -14588,7 +14589,6 @@ develope
 decomposition
 divisor
 digitalein
-desalinize
 divergenge
 dondine
 divisorial
