@@ -13039,6 +13039,7 @@ crystallogenesis
 cyanoacetate
 cobenignity
 cyanoacetic
+chithe
 currencies
 cyanoacrylate
 cyanoaurate
@@ -29512,7 +29513,6 @@ crystallurgy
 ceruminiferous
 companion
 coroniform
-chithe
 crystals
 cristatella
 cryste
