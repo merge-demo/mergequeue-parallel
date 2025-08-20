@@ -4010,7 +4010,6 @@ disintensify
 depencil
 duplex
 delectated
-devitalise
 deputized
 distune
 delectating
@@ -16152,6 +16151,7 @@ dourest
 dournesses
 douroucouli
 dissimulates
+devitalise
 dousing
 dout
 desorbing
