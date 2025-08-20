@@ -10045,7 +10045,6 @@ beautician
 blamability
 byzants
 bilander
-boomerang
 bizarreness
 blacklisting
 burys
@@ -12353,6 +12352,7 @@ broideries
 bombing
 beautifies
 buttoned
+boomerang
 benzoxyphenanthrene
 broguery
 bonkers

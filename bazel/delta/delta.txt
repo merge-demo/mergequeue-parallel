@@ -8149,6 +8149,7 @@ du
 diabolization
 dalk
 disambiguate
+dormitories
 disventure
 delineate
 domesticized
@@ -15783,7 +15784,6 @@ dormice
 dormient
 dormilona
 dormitive
-dormitories
 detachably
 dissenting
 dimwits
