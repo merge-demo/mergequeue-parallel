@@ -9076,6 +9076,7 @@ charleys
 compaa
 ctrl
 charlene
+chiaroscuro
 chinaberries
 charles
 corpore
@@ -13210,7 +13211,6 @@ cicelies
 ciceronage
 ciceroni
 ciceronian
-chiaroscuro
 clon
 ciceronianisms
 ciceronianist

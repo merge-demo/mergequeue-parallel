@@ -2604,7 +2604,6 @@ acquisitional
 acquisitive
 acquisitively
 advocatess
-acquisitor
 antibrachial
 acetiam
 amphigonous
@@ -8071,6 +8070,7 @@ aquaduct
 algates
 algazel
 aquatical
+acquisitor
 arylate
 algebraical
 algebraically
