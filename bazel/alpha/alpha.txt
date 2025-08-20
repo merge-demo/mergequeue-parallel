@@ -11323,7 +11323,6 @@ amphitropous
 amphioxis
 anargyros
 amphiumidae
-alegar
 antixerophthalmic
 abomasi
 amphodarch
@@ -17606,6 +17605,7 @@ appestats
 attemper
 appetence
 anodynous
+alegar
 automobilist
 appetibleness
 acinaces
