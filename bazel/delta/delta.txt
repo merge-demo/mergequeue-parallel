@@ -3498,7 +3498,6 @@ deformability
 droughermen
 disknow
 distomum
-demographical
 delvers
 deformable
 darkey
@@ -5635,6 +5634,7 @@ dei
 dozy
 desaturation
 daying
+demographical
 depetalize
 disorganiser
 disprivilege
