@@ -8058,7 +8058,6 @@ dero
 dharmas
 dolorously
 discombobulated
-dumpies
 dharmic
 dharnas
 dhaura
@@ -12314,6 +12313,7 @@ duplicities
 denitration
 demigrate
 desynchronize
+dumpies
 diphosphate
 diaconia
 delineates
