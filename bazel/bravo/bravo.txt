@@ -2134,6 +2134,7 @@ bantu
 bantus
 bandon
 bewield
+barbellulae
 blandfordia
 botrychium
 backup
@@ -12517,7 +12518,6 @@ bonetail
 bowker
 bonewort
 bauk
-barbellulae
 backdoor
 blazed
 bonfires
