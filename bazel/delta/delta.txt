@@ -10301,7 +10301,6 @@ dioctahedral
 dioctophyme
 deave
 defaulting
-diodontidae
 dioecy
 dioecia
 demurred
@@ -12466,6 +12465,7 @@ detrital
 dishumanize
 deipnodiplomatic
 dimethylmethane
+diodontidae
 dagon
 dishwasher
 dishwashers
