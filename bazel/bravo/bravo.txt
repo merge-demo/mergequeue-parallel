@@ -7859,6 +7859,7 @@ bombs
 bibliofilm
 blepharosymphysis
 botaniser
+brangling
 boiling
 biocatalytic
 bibliographies
@@ -12059,7 +12060,6 @@ battiest
 boiserie
 boyship
 boisterous
-brangling
 boistous
 boistously
 boistousness
