@@ -1505,7 +1505,6 @@ accolled
 apparens
 accomplishers
 accommodableness
-accommodate
 avicularimorphae
 accommodated
 adscriptive
@@ -19835,6 +19834,7 @@ armiferous
 agnoetae
 attributives
 abhenries
+accommodate
 axiniform
 armiger
 armigeri
