@@ -1447,7 +1447,6 @@ accipitrine
 adeuism
 accite
 acclaim
-acclaimable
 amblyope
 acclaimer
 almemar
@@ -9962,6 +9961,7 @@ ambeer
 ambeers
 angioneurotic
 amber
+acclaimable
 anciency
 analogues
 autoregressive
