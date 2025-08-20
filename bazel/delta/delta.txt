@@ -4572,7 +4572,6 @@ dukhobor
 dynastically
 demilawyer
 diwans
-demilitarisation
 demilitarise
 demilitarised
 demilitarising
@@ -9007,6 +9006,7 @@ depopulators
 digastric
 decollate
 dicyanin
+demilitarisation
 dehydrofroze
 dicycly
 draughtsman
