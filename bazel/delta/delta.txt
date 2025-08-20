@@ -6463,7 +6463,6 @@ desalinated
 diaereses
 deafeningly
 dodecanoic
-desalinator
 dendrogaean
 disperge
 departmentalising
@@ -14376,6 +14375,7 @@ diurnal
 deuterogenic
 diurnally
 drug
+desalinator
 diurnals
 devaunt
 downstair
