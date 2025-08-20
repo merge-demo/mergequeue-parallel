@@ -1671,7 +1671,6 @@ derides
 dyne
 deposition
 deadeners
-dottel
 dephysicalization
 decrementless
 dehumanisation
@@ -5441,6 +5440,7 @@ docilely
 disinure
 denunciator
 discrownment
+dottel
 detd
 dauk
 denver
