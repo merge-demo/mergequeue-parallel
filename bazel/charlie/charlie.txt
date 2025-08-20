@@ -3159,6 +3159,7 @@ capelins
 capella
 coatimondie
 closemouth
+calycanthemous
 caper
 caperbush
 capercaillie
@@ -8365,7 +8366,6 @@ chalkpit
 chalkrail
 circumflect
 catechizable
-calycanthemous
 chalkworker
 challah
 centriciput
