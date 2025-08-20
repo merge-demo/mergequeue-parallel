@@ -3018,7 +3018,6 @@ actinomycestal
 areche
 accomplishing
 autochton
-actinomycete
 arbtrn
 allogeneity
 actinomycosis
@@ -18731,6 +18730,7 @@ archemastry
 airdrops
 absinthol
 apotropaism
+actinomycete
 alebench
 angioneoplasm
 archenia

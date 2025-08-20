@@ -10001,6 +10001,7 @@ cajuputs
 chequebook
 croup
 chequer
+corrival
 citations
 chequered
 chequers
@@ -25747,7 +25748,6 @@ coronal
 cleruch
 corrigibly
 corrigiola
-corrival
 corrivality
 corrivalry
 corrivalship
