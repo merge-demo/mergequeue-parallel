@@ -1535,6 +1535,7 @@ docked
 deadening
 drippings
 dices
+discommoning
 deputising
 dyssodia
 deadfalls
@@ -5830,7 +5831,6 @@ depositation
 dartlike
 disgorgement
 dreiling
-discommoning
 deposito
 depositor
 daytime
