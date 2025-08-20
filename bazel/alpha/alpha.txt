@@ -11654,7 +11654,6 @@ anaerobiont
 anaerobiosis
 anaerobiotic
 anaerobium
-avanti
 anaerophyte
 anaphylactic
 amatols
@@ -16324,6 +16323,7 @@ antiwaste
 ameerate
 adscription
 ameiurus
+avanti
 antiwear
 abiological
 apiaceae
