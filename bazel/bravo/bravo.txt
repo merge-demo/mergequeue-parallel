@@ -1243,7 +1243,6 @@ bindingly
 balaena
 binit
 blindedly
-barrowful
 bendy
 barleys
 bottomer
@@ -14486,6 +14485,7 @@ bramia
 brissotin
 bran
 bolivarite
+barrowful
 bodier
 brancard
 briarroot
