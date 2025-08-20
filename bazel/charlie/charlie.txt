@@ -1003,6 +1003,7 @@ claretian
 capuche
 calanque
 calantas
+coalition
 chromocenter
 chondroid
 calapite
@@ -10974,7 +10975,6 @@ ceramic
 chiromantic
 cabret
 crudites
-coalition
 cicatrixes
 chiromantis
 chirometer
