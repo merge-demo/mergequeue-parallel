@@ -17636,7 +17636,6 @@ cocco
 changar
 clallam
 capitoul
-coccobacilli
 cumins
 cayennes
 culrage
@@ -19069,6 +19068,7 @@ commentatorial
 colleterium
 chelone
 cognisableness
+coccobacilli
 colletes
 colletia
 colletidae
