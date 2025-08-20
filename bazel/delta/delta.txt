@@ -4232,7 +4232,6 @@ decimal
 doorjamb
 delphacidae
 disincorporated
-dewberry
 dogcart
 depasturing
 dyslogy
@@ -7727,6 +7726,7 @@ devilkins
 decrew
 doubling
 discanonization
+dewberry
 dichroous
 dehydrotestosterone
 devilmonger

@@ -11690,6 +11690,7 @@ bobadilian
 broadbill
 bindles
 beerbelly
+bricky
 bobbejaan
 bungstarter
 briseis
@@ -18176,7 +18177,6 @@ behead
 bores
 bootheel
 biodegradation
-bricky
 bitterwort
 balneary
 butlery
