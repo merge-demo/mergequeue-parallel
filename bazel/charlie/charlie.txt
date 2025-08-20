@@ -8190,7 +8190,6 @@ chainman
 chainmen
 celiomyositis
 cultists
-campanulaceous
 crashers
 coelastrum
 chainsman
@@ -29740,6 +29739,7 @@ croodle
 challenged
 cheder
 colpheg
+campanulaceous
 calcarea
 confessory
 crookbacked
