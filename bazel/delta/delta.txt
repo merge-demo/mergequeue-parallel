@@ -811,6 +811,7 @@ dangle
 danglers
 deniable
 dearths
+dysacousia
 disannex
 dulcorate
 della
@@ -4363,7 +4364,6 @@ demal
 daylit
 diode
 discriminous
-dysacousia
 demanded
 dissyllabized
 dewlap
