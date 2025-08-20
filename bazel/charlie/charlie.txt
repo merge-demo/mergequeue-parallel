@@ -9316,7 +9316,6 @@ cacks
 constructiveness
 chattelism
 chattelizing
-chattels
 calamities
 chatter
 cheimaphobia
@@ -31050,6 +31049,7 @@ cumulatively
 chervonets
 cumulativeness
 countersunk
+chattels
 cumulene
 cossacks
 clinked
