@@ -10706,6 +10706,7 @@ bogeys
 blemishment
 brandies
 blemmatrope
+breakfront
 brooches
 blandisher
 boutell
@@ -15673,7 +15674,6 @@ borrovian
 begroaned
 botanophile
 broadsides
-breakfront
 broadsiding
 broadspread
 broadsword
