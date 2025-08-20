@@ -8725,7 +8725,6 @@ chanteuses
 chanticleer
 chanticleers
 chantier
-curiousness
 capreomycin
 chanties
 chantilly
@@ -15531,6 +15530,7 @@ crocker
 confraternization
 claro
 claroes
+curiousness
 collegian
 claromontane
 claros
