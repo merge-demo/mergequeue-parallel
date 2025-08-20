@@ -5780,7 +5780,6 @@ depolymerize
 deadpay
 depolish
 davened
-draughts
 depolished
 deaconed
 depolishes
@@ -13216,6 +13215,7 @@ decelerometer
 dielec
 disreverence
 displeasing
+draughts
 discountenancer
 displeasures
 dilations
