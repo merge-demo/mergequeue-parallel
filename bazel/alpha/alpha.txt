@@ -6575,6 +6575,7 @@ aiguilles
 aiguillette
 anthropoids
 ayins
+arrows
 aquiline
 antinuke
 agorae
@@ -20295,7 +20296,6 @@ arrowlike
 aminoazobenzene
 arrowplate
 abortifacient
-arrows
 arrowsmith
 arrowworm
 arroz

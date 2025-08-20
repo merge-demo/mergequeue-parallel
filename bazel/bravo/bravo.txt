@@ -605,7 +605,6 @@ bactericide
 beethoven
 bidget
 bacterin
-beggiatoa
 bacteriochlorophyll
 bacteriocin
 bathylite
@@ -16306,6 +16305,7 @@ brownwort
 bollworms
 biovular
 broadswords
+beggiatoa
 bicarb
 bleatingly
 bdft
