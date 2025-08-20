@@ -4357,7 +4357,6 @@ contaminator
 cooptation
 chimeras
 casuists
-consecrated
 caricology
 cloches
 crisper
@@ -31318,6 +31317,7 @@ cornix
 cureless
 corypha
 curelessness
+consecrated
 curer
 coadjument
 curers
