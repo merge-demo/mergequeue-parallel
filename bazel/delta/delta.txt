@@ -7705,6 +7705,7 @@ dealerdom
 deviled
 demonically
 devilet
+dot
 duits
 dismembrate
 defuse
@@ -8771,7 +8772,6 @@ dinting
 defocusses
 deescalations
 diatomist
-dot
 debadge
 diaporesis
 demimonk

@@ -4558,6 +4558,7 @@ buglewort
 bicellular
 backjaw
 bedarkening
+brahmanist
 bedaub
 ballplayer
 benzoylglycine
@@ -14318,7 +14319,6 @@ bookboard
 bikini
 bounciness
 brahmanism
-brahmanist
 brahmanistic
 brahmanize
 benched
