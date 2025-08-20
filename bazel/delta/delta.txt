@@ -4350,6 +4350,7 @@ dronel
 diversicolored
 demagogic
 daubster
+dreidl
 diamondiferous
 diacritical
 dods
@@ -10217,7 +10218,6 @@ distillation
 dinging
 dingleberry
 dingled
-dreidl
 denuclearize
 decemvirs
 dingman
