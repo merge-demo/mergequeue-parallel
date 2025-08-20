@@ -7312,6 +7312,7 @@ diphthongia
 diphthongization
 determinated
 driftwood
+diapausing
 determinately
 dirtiness
 drownding
@@ -8334,7 +8335,6 @@ dyak
 diaka
 dapper
 duskly
-diapausing
 dyakish
 dg
 dialcohol
