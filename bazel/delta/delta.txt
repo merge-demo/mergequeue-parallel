@@ -6615,7 +6615,6 @@ deadborn
 duddie
 desiccants
 dichotomised
-decretory
 dragsawing
 domestications
 demonstrativeness
@@ -17759,6 +17758,7 @@ drunt
 dispossessed
 ducaton
 ducats
+decretory
 dewiness
 ducdame
 defector
