@@ -12239,7 +12239,6 @@ anserin
 argufiers
 attackman
 ancora
-ancraophobia
 ancress
 ancresses
 anda
@@ -14545,6 +14544,7 @@ affirmativeness
 anti
 antiabolitionist
 antiabortion
+ancraophobia
 acrotic
 antiabrin
 abacination
