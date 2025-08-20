@@ -1483,7 +1483,6 @@ ballad
 barillas
 bartholinitis
 beflounce
-ballade
 bespottedness
 beglad
 bemadamed
@@ -16069,6 +16068,7 @@ bidery
 boskiest
 brookier
 brookite
+ballade
 beneficient
 barbarianized
 battling
