@@ -3248,7 +3248,6 @@ arborise
 authorcraft
 aedine
 acutilingual
-axal
 antinosarian
 abloom
 acutilobate
@@ -9005,6 +9004,7 @@ antipapist
 angelon
 annulata
 akoluthia
+axal
 algebraized
 allotments
 allotransplantation
