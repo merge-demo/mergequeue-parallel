@@ -10918,7 +10918,6 @@ doorplates
 defrayer
 deterges
 divulgement
-dioeciodimorphous
 dentelated
 doohinkus
 dignitas
@@ -16240,6 +16239,7 @@ defusing
 description
 diploidion
 destuff
+dioeciodimorphous
 duplicated
 devourment
 depurant
