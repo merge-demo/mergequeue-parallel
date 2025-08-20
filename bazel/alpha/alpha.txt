@@ -3984,7 +3984,6 @@ allegiantly
 administrates
 antihemolytic
 alabastrons
-aboves
 administration
 administrational
 administrative
@@ -8629,6 +8628,7 @@ astronautically
 allegorically
 acidosis
 aqueduct
+aboves
 allegorisation
 allegorise
 afear

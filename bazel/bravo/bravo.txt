@@ -2754,7 +2754,6 @@ backtack
 brownstone
 bailouts
 becapping
-boose
 buboed
 boatloading
 bookies
@@ -4916,6 +4915,7 @@ bilobular
 blackwash
 bunomastodontidae
 beefier
+boose
 bequest
 beefiest
 beefsteak
