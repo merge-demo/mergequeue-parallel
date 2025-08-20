@@ -5869,7 +5869,6 @@ bellylike
 bellyman
 biunique
 biogenetical
-bunty
 balopticon
 bellmaking
 banquo
@@ -13264,6 +13263,7 @@ bouche
 bangs
 bromide
 bullydom
+bunty
 blitzkriegs
 boswellian
 boswelliana
