@@ -3608,7 +3608,6 @@ dignification
 dragonhead
 degenerately
 degenerateness
-degenerating
 degenerescence
 diammonium
 degeneroos
@@ -10968,6 +10967,7 @@ disadvance
 dreamingful
 disadvancing
 disadvantaged
+degenerating
 disadvantageousness
 deminude
 disadventure
