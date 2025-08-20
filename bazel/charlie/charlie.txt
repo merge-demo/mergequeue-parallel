@@ -6462,7 +6462,6 @@ coccygodynia
 coenuri
 cachinnation
 cavalryman
-crinigerous
 cavalrymen
 carbazide
 coryl
@@ -16054,6 +16053,7 @@ clethraceous
 crinoid
 clethrionomys
 cleuks
+crinigerous
 cephaletron
 caleche
 comprizal
