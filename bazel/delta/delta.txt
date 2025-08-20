@@ -10945,6 +10945,7 @@ daimon
 dunder
 duretto
 depictive
+disvisage
 disacknowledgement
 dyingness
 dysacousis
@@ -14213,7 +14214,6 @@ dicer
 damage
 daboia
 derotrematous
-disvisage
 disyoked
 doublet
 disvisor
