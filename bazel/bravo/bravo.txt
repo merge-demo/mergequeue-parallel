@@ -3897,7 +3897,6 @@ biassedly
 bch
 borsholder
 bchs
-ballotage
 bd
 boracium
 buttonholes
@@ -11415,6 +11414,7 @@ bluey
 bathhouse
 bluejacket
 bluejacks
+ballotage
 blueline
 blennophthalmia
 bluelines
