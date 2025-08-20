@@ -26391,7 +26391,6 @@ cycloidian
 cerenkov
 cothon
 cothouse
-cothurn
 cothurnus
 coticed
 coruscate
@@ -30586,6 +30585,7 @@ cuboids
 chondropharyngeal
 colloquium
 cubomedusan
+cothurn
 cubometatarsal
 cubonavicular
 cubti
