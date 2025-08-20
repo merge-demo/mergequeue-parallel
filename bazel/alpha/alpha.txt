@@ -11776,7 +11776,6 @@ antinational
 animalisation
 arecolin
 analytique
-analyzability
 arnoseris
 arcuately
 anticynicism
@@ -24448,6 +24447,7 @@ autotomous
 astragals
 autotoxic
 autotractor
+analyzability
 autotransformer
 autotransplantation
 autostethoscope
