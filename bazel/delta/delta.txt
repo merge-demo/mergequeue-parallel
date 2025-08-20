@@ -832,7 +832,6 @@ disembalm
 danielle
 dalbergia
 demicylindrical
-delignate
 danism
 dreamtime
 disinterested
@@ -17229,6 +17228,7 @@ decemberish
 drivelingly
 driveller
 deutonymphal
+delignate
 drivellingly
 driven
 durries
