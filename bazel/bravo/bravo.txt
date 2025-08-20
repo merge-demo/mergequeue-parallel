@@ -2004,6 +2004,7 @@ bronchocele
 bandcutter
 bhaiachara
 banisher
+bovista
 banishing
 banishment
 banyuls
@@ -3492,7 +3493,6 @@ bogging
 bitterhearted
 bateleur
 barbered
-bovista
 bouchal
 bulldoggishly
 blindfoldedly
