@@ -1014,7 +1014,6 @@ balcony
 burnweed
 bail
 burs
-bringer
 barfs
 bailable
 boordly
@@ -3060,6 +3059,7 @@ berascaling
 bathetic
 beaufet
 basalts
+bringer
 brecciating
 basaltware
 bombiccite
