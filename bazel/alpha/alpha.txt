@@ -8517,7 +8517,6 @@ amp
 alkes
 awreck
 alkyd
-alkyds
 agone
 alkies
 assessable
@@ -25235,6 +25234,7 @@ antical
 azeotrope
 abstrict
 azeotropic
+alkyds
 azerbaijani
 azerbaijanian
 azha
