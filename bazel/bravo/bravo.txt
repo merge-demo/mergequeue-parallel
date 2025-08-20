@@ -2997,7 +2997,6 @@ barters
 brujo
 blood
 bullace
-bartholomewtide
 bartisan
 ballrooms
 barflies
@@ -5336,6 +5335,7 @@ beglide
 burkers
 bor
 beglooms
+bartholomewtide
 begloze
 brokenly
 bultell
