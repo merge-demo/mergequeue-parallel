@@ -12861,6 +12861,7 @@ cornuate
 cecile
 chuppahs
 chuprassy
+camerieri
 canasta
 calorite
 commonplacer
@@ -31465,7 +31466,6 @@ contorta
 current
 colorimetry
 currently
-camerieri
 cardicentesis
 currentness
 currentwise

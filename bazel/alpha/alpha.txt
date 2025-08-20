@@ -11881,6 +11881,7 @@ anaphases
 anaphe
 apperception
 apexing
+astrometry
 ancille
 anaphylactically
 araliaceae
@@ -22335,7 +22336,6 @@ aforenamed
 ancestrial
 allegorization
 adlegation
-astrometry
 astrometric
 astronaut
 apollinian
