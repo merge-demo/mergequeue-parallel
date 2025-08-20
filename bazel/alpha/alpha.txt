@@ -4937,6 +4937,7 @@ anthropopathia
 armrest
 amphisbaenid
 auriculate
+aginner
 admissibleness
 aeropathy
 aerope
@@ -5984,7 +5985,6 @@ aging
 appeasable
 amidmost
 agynic
-aginner
 audacious
 anamnionic
 apoplectiform

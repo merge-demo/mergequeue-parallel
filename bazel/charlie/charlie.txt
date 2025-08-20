@@ -691,7 +691,6 @@ caffeins
 coctoantigen
 carries
 caffeism
-cud
 colometry
 caffeol
 caffeone
@@ -6842,6 +6841,7 @@ chirologies
 charivariing
 cellarwoman
 cellblock
+cud
 celled
 centennium
 cellepore
