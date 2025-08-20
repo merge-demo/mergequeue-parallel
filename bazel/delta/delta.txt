@@ -6303,7 +6303,6 @@ dualities
 dermatoplastic
 deluminize
 deozonizer
-decolonization
 debatter
 dermatorrhagia
 drossy
@@ -9312,6 +9311,7 @@ deosculate
 disploding
 dictatress
 dialogues
+decolonization
 dieters
 discriminal
 daphnad
