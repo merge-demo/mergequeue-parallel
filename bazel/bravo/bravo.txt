@@ -2236,6 +2236,7 @@ bragless
 barbarity
 barbarities
 barbarization
+blesboks
 blateroon
 brigid
 birdclapper
@@ -10825,7 +10826,6 @@ blepharotomy
 blere
 beckon
 behooved
-blesboks
 blessedness
 blesser
 befriz
