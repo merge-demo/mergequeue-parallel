@@ -11745,6 +11745,7 @@ copygraphed
 clinal
 choluteca
 chomps
+crosslap
 contabescent
 cuffle
 commissionary
@@ -12618,7 +12619,6 @@ chronograph
 chronographer
 chronography
 choreas
-crosslap
 cauterizing
 circumventable
 chronoisothermal
