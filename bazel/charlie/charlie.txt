@@ -11619,6 +11619,7 @@ cozies
 christophany
 cholecystnephrostomy
 cupellation
+cytotrophy
 cholecystocolostomy
 cognisability
 colonialization
@@ -17051,7 +17052,6 @@ castorized
 cnemidium
 cnemis
 cneorum
-cytotrophy
 cnicin
 cnidae
 cnidarian
