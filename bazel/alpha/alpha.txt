@@ -5921,6 +5921,7 @@ aggrege
 allopathy
 amphigoric
 alimenter
+ascending
 aggressed
 ancilia
 arrogancy
@@ -20913,7 +20914,6 @@ ascendants
 ascendence
 aftershaves
 arbitrament
-ascending
 alaster
 ascendingly
 azodicarboxylic
