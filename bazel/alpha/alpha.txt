@@ -10052,6 +10052,7 @@ ambleocarpus
 ambler
 awakes
 aphthonite
+ampullate
 amahs
 appulsive
 axmen
@@ -11391,7 +11392,6 @@ admonitory
 anhydremia
 apodosis
 ampullary
-ampullate
 ampullated
 amphioxus
 ampulliform

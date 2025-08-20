@@ -1332,6 +1332,7 @@ bingy
 burelage
 bedways
 balaustine
+brachyprosopic
 bunks
 bacteriophagous
 bobbles
@@ -2686,7 +2687,6 @@ bewaitered
 barnard
 benightment
 barnbrack
-brachyprosopic
 betweenbrain
 beelzebub
 barneys
