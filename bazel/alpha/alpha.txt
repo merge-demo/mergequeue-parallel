@@ -10535,6 +10535,7 @@ accoy
 amidulin
 abnegating
 absinthiating
+anaplerotic
 avidly
 amyelencephalous
 apomictically
@@ -11913,7 +11914,6 @@ anaplasmoses
 anaplasty
 anosmia
 anaplerosis
-anaplerotic
 alligations
 appendiculata
 axoneme
