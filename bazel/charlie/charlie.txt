@@ -672,7 +672,6 @@ cafardise
 charka
 chicky
 casuarinaceous
-cryptanalytic
 cafenet
 cafetal
 counterreformation
@@ -12060,6 +12059,7 @@ criticizable
 cyanacetic
 chorographically
 choroiditis
+cryptanalytic
 coronene
 choroidocyclitis
 choroidoretinitis
