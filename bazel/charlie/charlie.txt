@@ -24061,7 +24061,6 @@ camarillas
 cosmonautic
 conversantly
 conversation
-conversationable
 competency
 coactor
 crimpy
@@ -27583,6 +27582,7 @@ choffer
 choucroute
 climacium
 cheeriest
+conversationable
 covetously
 covibrate
 covibration
