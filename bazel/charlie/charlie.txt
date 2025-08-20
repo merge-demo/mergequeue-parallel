@@ -16301,7 +16301,6 @@ clinoid
 clinology
 clinometer
 clinometry
-clinometric
 cantos
 canisters
 clinometrical
@@ -26679,6 +26678,7 @@ conflagrate
 concrescent
 counteractivity
 counteracts
+clinometric
 columbium
 choked
 counterintelligence
