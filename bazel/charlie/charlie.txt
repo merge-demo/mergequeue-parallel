@@ -22997,7 +22997,6 @@ chambermaids
 companyless
 copist
 consoles
-consolette
 consolidated
 cerebrin
 consolidation
@@ -24996,6 +24995,7 @@ cordaitaceae
 cordaitaceous
 cordaites
 cowperitis
+consolette
 circumpolar
 cordal
 cordate
