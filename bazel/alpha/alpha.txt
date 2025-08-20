@@ -10866,6 +10866,7 @@ assemblage
 archeological
 ammonolytic
 aitches
+autocopist
 anticult
 amphib
 afrits
@@ -23989,7 +23990,6 @@ axmaster
 algocyan
 anthracnosis
 ansate
-autocopist
 acrophonies
 avitic
 archaeography
