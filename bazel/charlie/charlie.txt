@@ -7926,7 +7926,6 @@ cineraceous
 congruous
 chromophotolithograph
 cataphoretic
-cest
 cesta
 catafalque
 cestidae
@@ -27866,6 +27865,7 @@ crabbily
 crabbing
 crabcatcher
 cytohyaloplasm
+cest
 concerting
 crabeating
 canchas

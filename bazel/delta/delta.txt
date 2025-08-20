@@ -8926,6 +8926,7 @@ diceman
 dicentras
 dipyramid
 dyads
+digged
 defiatory
 diceras
 dmod
@@ -9539,7 +9540,6 @@ dinarzade
 dolose
 disapproval
 diggable
-digged
 deuterostome
 demonstrational
 dighted
