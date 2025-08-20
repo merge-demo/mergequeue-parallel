@@ -4549,7 +4549,6 @@ carnegiea
 carneyed
 cabiritic
 cosession
-convulsed
 carnelian
 carneole
 coroner
@@ -15456,6 +15455,7 @@ claques
 claqueur
 conducement
 clarain
+convulsed
 clare
 corrodible
 clarence
