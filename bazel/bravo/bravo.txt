@@ -10302,6 +10302,7 @@ bladderseed
 bladderwort
 blading
 blade
+burdening
 beleaguerer
 besmircher
 bosporian
@@ -13523,7 +13524,6 @@ butterbough
 barnacled
 bibliophile
 bra
-burdening
 baling
 bobs
 binucleolate
