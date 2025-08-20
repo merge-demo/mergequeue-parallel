@@ -264,7 +264,6 @@ brarow
 bacillariaceae
 baldric
 buried
-blotless
 balancedness
 brontosaur
 bedfellow
@@ -5228,6 +5227,7 @@ blanky
 beworming
 boarcite
 basification
+blotless
 breadboards
 barkeeps
 begar
