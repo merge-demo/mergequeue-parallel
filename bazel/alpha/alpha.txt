@@ -2528,7 +2528,6 @@ acorea
 atomistic
 aecidia
 acorus
-acosmism
 acosmist
 athecata
 acost
@@ -16118,6 +16117,7 @@ aviatorial
 adeps
 antiskid
 aloofness
+acosmism
 andron
 abreact
 antismoking
