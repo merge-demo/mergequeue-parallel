@@ -1783,7 +1783,6 @@ acemila
 antilepton
 allocthonous
 ahaaina
-acerb
 acromioscapular
 acenaphthylene
 adiphenine
@@ -8463,6 +8462,7 @@ alkalise
 alkalised
 affrayed
 antejentacular
+acerb
 alkaliser
 affectingly
 adjoint
