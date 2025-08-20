@@ -10816,6 +10816,7 @@ anaesthetics
 angleworms
 asphodelaceae
 amphibryous
+ascertains
 arm
 ammonia
 ammoniacs
@@ -20927,7 +20928,6 @@ ascertain
 accomplishable
 ascertainably
 ascertaining
-ascertains
 ascescency
 ascescent
 asceses
