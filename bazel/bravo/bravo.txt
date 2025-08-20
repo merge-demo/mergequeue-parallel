@@ -3514,7 +3514,6 @@ brookites
 blackroot
 bathed
 bellower
-bathes
 backslidden
 bicondylar
 baryons
@@ -13606,6 +13605,7 @@ boogaloo
 boullework
 biurate
 bodying
+bathes
 besand
 bowstrings
 boult
