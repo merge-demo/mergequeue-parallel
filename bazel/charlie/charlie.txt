@@ -10617,6 +10617,7 @@ celebrator
 chillroom
 chills
 chillsome
+conemaker
 countermove
 chouka
 chemolytic
@@ -25550,7 +25551,6 @@ coronium
 cremocarp
 coronofrontal
 catenates
-conemaker
 crenelation
 canvasman
 coronopus
