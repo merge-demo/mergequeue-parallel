@@ -2905,7 +2905,6 @@ congenialize
 cant
 connectionless
 compar
-crayfish
 cantabank
 canonic
 curatively
@@ -3654,6 +3653,7 @@ crateful
 carageens
 chromatography
 caraibe
+crayfish
 caraipa
 chronometrical
 commercializing
