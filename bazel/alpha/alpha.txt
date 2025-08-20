@@ -4472,7 +4472,6 @@ adverbial
 adverbially
 acloud
 aggerose
-adverbiation
 adverbs
 adversatively
 ambushed
@@ -24391,6 +24390,7 @@ amphikaryon
 almistry
 azlactone
 afterdinner
+adverbiation
 antecommunion
 altruistic
 autosomal
