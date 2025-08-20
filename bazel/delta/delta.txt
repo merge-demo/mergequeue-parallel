@@ -6976,7 +6976,6 @@ dispatcher
 dartrous
 despisableness
 downfalls
-despiser
 desertness
 disqualifying
 distills
@@ -14064,6 +14063,7 @@ dishorner
 dragging
 depravation
 decommissioning
+despiser
 dyspepsies
 draughtman
 distributary

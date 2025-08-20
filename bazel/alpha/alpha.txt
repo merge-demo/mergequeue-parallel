@@ -5606,6 +5606,7 @@ apicad
 againsay
 against
 avellano
+ampelite
 ancillae
 affatuate
 againstand
@@ -11902,7 +11903,6 @@ alkoxide
 anaphoral
 acron
 anthropozoic
-ampelite
 admixes
 anaphroditic
 ajee
