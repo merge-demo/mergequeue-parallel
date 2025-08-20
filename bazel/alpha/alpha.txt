@@ -18697,6 +18697,7 @@ archducal
 anschauung
 arumin
 ancientry
+aminosis
 adinidan
 archdukes
 axioms
@@ -25253,7 +25254,6 @@ azygote
 atabal
 actuaries
 auriform
-aminosis
 amnestying
 azimene
 antepenultima
