@@ -5071,7 +5071,6 @@ denaturalized
 drovy
 demographers
 denaturants
-dueller
 denaturing
 duplicand
 diminishingturns
@@ -17431,6 +17430,7 @@ dinarchy
 diener
 dadaist
 diabolo
+dueller
 duvetyns
 droseraceae
 droseraceous
