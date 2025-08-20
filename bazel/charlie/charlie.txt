@@ -11353,7 +11353,6 @@ chlorofluoromethane
 ceylanite
 chloroformate
 churched
-chalcophanite
 chloroformic
 conged
 cubica
@@ -20739,6 +20738,7 @@ complexioned
 complexionless
 cultivar
 cahuapana
+chalcophanite
 chronologic
 complexive
 chrematist
