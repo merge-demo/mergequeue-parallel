@@ -3356,7 +3356,6 @@ apostemation
 argosies
 alliaria
 abietinic
-adaptometer
 adaptor
 adaptorial
 adapts
@@ -7271,6 +7270,7 @@ annoyers
 alation
 achage
 aeolharmonica
+adaptometer
 alauda
 aphakic
 autophotometry
