@@ -6159,7 +6159,6 @@ agonise
 axillas
 agonised
 agonistarch
-aesthetics
 agonistics
 agonize
 ajoure
@@ -17374,6 +17373,7 @@ antiadiaphorist
 afret
 apothecial
 archenemy
+aesthetics
 aurichlorohydric
 apothecium
 antitrope
