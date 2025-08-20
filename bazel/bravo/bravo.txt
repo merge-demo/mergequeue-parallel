@@ -1888,7 +1888,6 @@ bougeron
 bandit
 beshrew
 bretwaldadom
-balant
 brooded
 branle
 bandle
@@ -16293,6 +16292,7 @@ bossing
 bifurcal
 brattices
 bubonoceze
+balant
 breadths
 brachyuranic
 bihari
