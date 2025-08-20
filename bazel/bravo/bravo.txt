@@ -14427,6 +14427,7 @@ blackbeetle
 bingee
 bathochromic
 breeds
+buglet
 bowralite
 bigamy
 bursal
@@ -15500,7 +15501,6 @@ bimas
 beadlet
 bryony
 biedermeier
-buglet
 bryonia
 belloot
 bryophyllum
