@@ -4473,6 +4473,7 @@ dolos
 diapyesis
 demesman
 depravities
+disclimax
 demesnes
 declarers
 disentitle
@@ -11415,7 +11416,6 @@ doctrinize
 disclass
 deuterogenesis
 dermorhynchous
-disclimax
 dialogite
 drossing
 dastardy
