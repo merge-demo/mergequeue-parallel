@@ -1933,7 +1933,6 @@ debtless
 desilverized
 dwines
 downby
-dominoes
 dreader
 depressant
 dobla
@@ -3478,6 +3477,7 @@ dorosacral
 decompressed
 deflator
 demagnetise
+dominoes
 deforced
 depressors
 deforces
