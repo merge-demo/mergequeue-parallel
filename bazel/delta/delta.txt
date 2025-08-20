@@ -3595,7 +3595,6 @@ diatonous
 degener
 declaredness
 dripping
-dextrogyre
 dinosauric
 dinornithiformes
 degenerate
@@ -9769,6 +9768,7 @@ deceive
 desugarize
 didodecahedral
 dudley
+dextrogyre
 diffracts
 days
 dilatedness
