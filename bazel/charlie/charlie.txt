@@ -6097,7 +6097,6 @@ catoblepas
 catocarthartic
 catoctin
 catogenic
-categorizing
 catonian
 cheesemongerly
 catonically
@@ -17646,6 +17645,7 @@ coccogoneae
 concyclically
 coccoidal
 coccolite
+categorizing
 counterresolution
 calabashes
 cardiodysneuria
