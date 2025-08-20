@@ -14553,7 +14553,6 @@ divinister
 deallocating
 dissimuler
 discoverers
-divinized
 divinizes
 demarche
 dismembrated
@@ -18663,6 +18662,7 @@ descendance
 diligently
 disobey
 dioptral
+divinized
 danaide
 dwale
 draffiest
