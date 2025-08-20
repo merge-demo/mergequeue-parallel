@@ -7070,6 +7070,7 @@ biodegrade
 barbute
 besouth
 bespake
+binoxide
 blaming
 bedazzlement
 bespangle
@@ -17014,7 +17015,6 @@ braces
 bulimus
 baler
 bimahs
-binoxide
 bishoping
 bulkage
 boldfaces
