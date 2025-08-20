@@ -6724,7 +6724,6 @@ bepimple
 brilliantine
 berkeleianism
 bushelman
-berkelium
 berkovets
 berkovtsi
 bedull
@@ -10251,6 +10250,7 @@ beavering
 batara
 brominism
 blennorrhoea
+berkelium
 bilobiate
 boolean
 biofeedback
