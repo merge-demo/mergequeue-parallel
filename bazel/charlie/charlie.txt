@@ -6824,6 +6824,7 @@ chondroskeleton
 cubhood
 cerianthoid
 clearway
+costated
 celioparacentesis
 cerinthian
 cowshard
@@ -26242,7 +26243,6 @@ costar
 costarred
 chuffiness
 costata
-costated
 cloacas
 congrio
 cedron
