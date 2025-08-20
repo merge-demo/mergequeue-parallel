@@ -5775,7 +5775,6 @@ deliberating
 debater
 duree
 disjoint
-descriptor
 decasualizing
 depolymerize
 deadpay
@@ -10293,6 +10292,7 @@ dismettled
 dowed
 doggonedest
 deconcentrating
+descriptor
 disaccustom
 doornail
 dioctahedral
