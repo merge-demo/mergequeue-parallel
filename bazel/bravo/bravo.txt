@@ -13517,7 +13517,6 @@ bichromate
 bouchon
 boisterousness
 boudeuse
-becursing
 backhanded
 butterbough
 barnacled
@@ -14007,6 +14006,7 @@ bracae
 blandly
 bracciale
 breadbaskets
+becursing
 braccianite
 boobyish
 brace

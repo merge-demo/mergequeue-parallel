@@ -6541,6 +6541,7 @@ aigialosaur
 aigialosauridae
 aigialosaurus
 antasthenic
+artiodactylous
 apolarity
 aiglet
 alectoriae
@@ -20718,7 +20719,6 @@ artillerists
 artiness
 artiodactyla
 aerocolpos
-artiodactylous
 appendixed
 avicularian
 anaphoria
