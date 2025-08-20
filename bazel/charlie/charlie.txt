@@ -4286,6 +4286,7 @@ commerce
 caretake
 caretaker
 caretakers
+cuprous
 caretaking
 chastisers
 chondrosteous
@@ -27467,7 +27468,6 @@ credenciveness
 curlingly
 couvades
 coaeval
-cuprous
 couxia
 chronicity
 covalences
