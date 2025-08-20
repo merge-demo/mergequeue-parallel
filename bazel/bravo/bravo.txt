@@ -5459,7 +5459,6 @@ behemoth
 beetling
 behemoths
 behenate
-behenic
 blusteringly
 bemixed
 booing
@@ -11709,6 +11708,7 @@ bobbish
 bais
 belfast
 bobcats
+behenic
 binmen
 beboss
 bardolatry
