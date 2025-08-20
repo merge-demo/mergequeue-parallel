@@ -13283,7 +13283,6 @@ acetarious
 anorexic
 aquilawood
 anisomyarian
-anisomyodous
 anisopetalous
 abassin
 anisophylly
@@ -14844,6 +14843,7 @@ austrian
 antilogs
 anticipations
 anticipative
+anisomyodous
 attensity
 activeness
 antinepotic

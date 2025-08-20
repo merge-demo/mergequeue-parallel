@@ -1597,7 +1597,6 @@ deairs
 dealate
 drupelet
 dealbate
-daks
 doe
 dinginess
 drawer
@@ -11470,6 +11469,7 @@ deskbound
 dyotheletic
 dividuous
 dilatingly
+daks
 downturned
 discoglossidae
 dieted
