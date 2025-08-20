@@ -4368,7 +4368,6 @@ caricous
 craker
 crestfish
 caridean
-chirarthritis
 cirrhous
 carien
 cariform
@@ -12365,6 +12364,7 @@ cresting
 chromaffinic
 chromamamin
 corelate
+chirarthritis
 chromammine
 corticopeduncular
 chromaphore
