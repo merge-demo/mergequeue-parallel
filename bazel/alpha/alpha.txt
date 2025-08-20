@@ -4192,7 +4192,6 @@ adorned
 apartado
 affy
 attestation
-argentation
 automorph
 antiaircraft
 astichous
@@ -10281,6 +10280,7 @@ agathosma
 ammonocarbonic
 amenability
 amenable
+argentation
 anorganism
 atoll
 anticheater
