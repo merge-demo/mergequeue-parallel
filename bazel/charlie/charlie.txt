@@ -12981,7 +12981,6 @@ chutzpa
 carbanion
 chutzpanik
 concentre
-cuesta
 cia
 crystallised
 cyan
@@ -20330,6 +20329,7 @@ coupling
 communis
 carpeted
 communise
+cuesta
 crofting
 chudder
 carrotier

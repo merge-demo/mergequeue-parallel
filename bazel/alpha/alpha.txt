@@ -14666,7 +14666,6 @@ antibacteriolytic
 anaglyptograph
 antiballooner
 antibalm
-antibasilican
 antibenzaldoxime
 appealer
 ascon
@@ -21015,6 +21014,7 @@ arvos
 avariciously
 absconders
 anthelae
+antibasilican
 afteryears
 asthorin
 anomural
