@@ -3517,6 +3517,7 @@ capsulogenous
 cataphyllum
 capsulolenticular
 capsulopupillary
+cfi
 chromospheres
 cuirie
 capsulorrhaphy
@@ -7780,7 +7781,6 @@ cetin
 certainty
 certhia
 caryatidic
-cfi
 certifiability
 categorematic
 certifiable
