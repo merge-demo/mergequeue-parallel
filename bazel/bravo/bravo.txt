@@ -10166,6 +10166,7 @@ backstone
 basketballs
 blackfellows
 bosker
+bovoid
 blackfigured
 biochemical
 breechcloth
@@ -14337,7 +14338,6 @@ brahmsian
 batocrinidae
 bray
 braided
-bovoid
 binaurally
 binomen
 burstones
