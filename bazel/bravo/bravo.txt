@@ -4178,7 +4178,6 @@ blacktop
 beatifies
 batholite
 bouchees
-beatitude
 bandel
 bestially
 bioscientific
@@ -13962,6 +13961,7 @@ blitzes
 bibulosity
 becluster
 boxing
+beatitude
 boxmaker
 boxman
 bickiron
