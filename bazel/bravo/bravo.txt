@@ -2364,6 +2364,7 @@ blip
 bebeeru
 barcone
 banshie
+beylical
 brakemen
 belabors
 barcoo
@@ -18373,7 +18374,6 @@ bepaint
 bespatter
 buzz
 buzzard
-beylical
 beasts
 bluebook
 balaustre
