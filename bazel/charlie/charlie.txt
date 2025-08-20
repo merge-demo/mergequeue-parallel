@@ -15869,7 +15869,6 @@ clearstoried
 cascara
 commis
 cleat
-cleated
 cleats
 cyclonologist
 cheilitis
@@ -22870,6 +22869,7 @@ condensable
 conservations
 chondromas
 checkbit
+cleated
 coxcombically
 conservativeness
 commoves
