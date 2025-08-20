@@ -15300,6 +15300,7 @@ clamcracker
 crabfish
 clame
 cheeseboard
+clerestory
 clamflat
 ctn
 calamospermae
@@ -23210,7 +23211,6 @@ crevass
 constringing
 cajon
 construability
-clerestory
 construable
 cataractine
 cabernets
