@@ -2093,7 +2093,6 @@ definitizing
 doses
 dynasts
 dissyllabism
-defenseman
 decameral
 daintify
 doline
@@ -3911,6 +3910,7 @@ dinobryon
 deixis
 decreases
 diduce
+defenseman
 daphnite
 desilicated
 deja
