@@ -12888,7 +12888,6 @@ calorifacient
 churchy
 churchianity
 churchyard
-crawlways
 churchyards
 churchier
 churchified
@@ -18128,6 +18127,7 @@ coenodioecism
 coenoecic
 coefficacy
 chousingha
+crawlways
 coenogenesis
 cryptococcic
 craps
