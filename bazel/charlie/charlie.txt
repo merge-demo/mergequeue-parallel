@@ -17502,7 +17502,6 @@ cobbs
 carabins
 calixtin
 categorematically
-crowning
 cobdenite
 cobelief
 cobeliever
@@ -21235,6 +21234,7 @@ cotuit
 charadrioid
 comenic
 clearness
+crowning
 concern
 cabber
 chopped
