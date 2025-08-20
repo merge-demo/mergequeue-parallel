@@ -4130,7 +4130,6 @@ bagwigs
 baddishness
 bearward
 bearwort
-boanthropy
 bravadoing
 beasthood
 bacons
@@ -15275,6 +15274,7 @@ bechalk
 boarship
 bioelectrogenetic
 bisbeeite
+boanthropy
 bighead
 bordarius
 bursa
