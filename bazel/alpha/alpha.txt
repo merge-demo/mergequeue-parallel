@@ -2281,6 +2281,7 @@ acetaminol
 acidnesses
 administrants
 acidology
+aphorism
 acidometer
 afflation
 anacardium
@@ -2342,7 +2343,6 @@ acylating
 advertised
 assigning
 adytta
-aphorism
 acylogen
 acyloin
 acyloins
