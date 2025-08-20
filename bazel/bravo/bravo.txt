@@ -3054,7 +3054,6 @@ bating
 badminton
 barware
 boneblack
-barksome
 basale
 berascaling
 bathetic
@@ -6537,6 +6536,7 @@ bejabbers
 bepuffed
 beetleheaded
 brandi
+barksome
 bequalm
 bioblast
 bklr
