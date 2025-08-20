@@ -1568,7 +1568,6 @@ crawlway
 cyders
 commonwealthism
 cuddle
-circumundulate
 callop
 camphorate
 cancerwort
@@ -4942,6 +4941,7 @@ clown
 carters
 cartesian
 cartful
+circumundulate
 carthame
 counterradiation
 ceramists
