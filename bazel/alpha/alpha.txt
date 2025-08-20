@@ -4803,7 +4803,6 @@ aspidobranchia
 aviatrix
 asideness
 archisupreme
-aerocyst
 armlet
 adoptionism
 aerocraft
@@ -10934,6 +10933,7 @@ apologize
 azotate
 adrenals
 amoebicide
+aerocyst
 alb
 audiencer
 attabal
