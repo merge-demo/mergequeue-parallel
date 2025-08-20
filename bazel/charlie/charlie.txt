@@ -8572,6 +8572,7 @@ chanceably
 clow
 chemosterilants
 chanced
+comme
 categorical
 chanceful
 cadrans
@@ -18643,7 +18644,6 @@ coincorporate
 coindicant
 coiner
 comparograph
-comme
 concoction
 coyness
 cerebration
