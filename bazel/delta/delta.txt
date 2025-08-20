@@ -2808,6 +2808,7 @@ decretively
 dictionary
 deprivers
 discind
+dysurias
 decretorian
 dithymol
 duplicative
@@ -14196,7 +14197,6 @@ deeds
 delegation
 disuniting
 dysuria
-dysurias
 deals
 disusage
 dynamoscope
