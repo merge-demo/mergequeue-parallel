@@ -8384,6 +8384,7 @@ atrienses
 ayllu
 aliunde
 asternia
+antiroyal
 algenib
 acuerdo
 alives
@@ -18520,7 +18521,6 @@ arcading
 arcana
 aggravate
 antipatriarchally
-antiroyal
 allurer
 aperch
 araminta
