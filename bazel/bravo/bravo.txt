@@ -4944,6 +4944,7 @@ boyardism
 beekeepers
 beekeeping
 bedight
+bloodcurdling
 bosher
 bassos
 beelzebul
@@ -11122,7 +11123,6 @@ bazookas
 bums
 bacchanalia
 bullionist
-bloodcurdling
 bloodcurdlingly
 booboos
 bloodies
