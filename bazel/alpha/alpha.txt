@@ -1065,6 +1065,7 @@ abthainrie
 abubble
 abuilding
 abuleia
+applesnits
 antitorpedo
 allegers
 abulia
@@ -7182,7 +7183,6 @@ accresce
 alamode
 alamodes
 ascogonidia
-applesnits
 aneroid
 abstrusion
 alexandrines
