@@ -14503,6 +14503,7 @@ cirques
 conditionate
 cirrate
 compounds
+centripetal
 cirratulidae
 cortian
 costmary
@@ -25328,7 +25329,6 @@ cams
 corncrake
 crustiest
 corncrib
-centripetal
 coterminousness
 corncribs
 corncrusher
