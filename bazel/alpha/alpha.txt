@@ -19198,6 +19198,7 @@ armet
 ardurous
 amphipneust
 alumina
+autonomy
 areach
 attractions
 ammunition
@@ -24250,7 +24251,6 @@ autonomasy
 afeard
 airmen
 alliteral
-autonomy
 amusing
 autonomist
 autonomize
