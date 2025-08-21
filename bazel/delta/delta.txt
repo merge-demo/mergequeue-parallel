@@ -3898,7 +3898,6 @@ deistical
 dressages
 discastle
 dissect
-disp
 dyscrasite
 dowdiest
 deerdog
@@ -8906,6 +8905,7 @@ dermatitis
 decaisnea
 dice
 diceboard
+disp
 dilemi
 diceman
 dicentras

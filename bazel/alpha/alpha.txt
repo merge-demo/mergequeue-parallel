@@ -2650,6 +2650,7 @@ atomizes
 abrasiometer
 anticyclonic
 attent
+antislickens
 affords
 alismoid
 aegritude
@@ -3627,7 +3628,6 @@ anatomised
 adenostoma
 ailanthic
 adenotyphus
-antislickens
 alphabetist
 attenuant
 abbacies
