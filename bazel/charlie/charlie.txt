@@ -1699,7 +1699,6 @@ calotermes
 calothrix
 calotype
 cyclodiolefine
-calotypic
 calotypist
 crossbolt
 congratulated
@@ -4892,6 +4891,7 @@ carryouts
 crosshatched
 carritches
 carriwitchet
+calotypic
 carrocci
 carroch
 connivers
