@@ -4412,7 +4412,6 @@ boojum
 beclog
 becoiffed
 bendlet
-bulkiness
 bludging
 beclogs
 bretonian
@@ -6721,6 +6720,7 @@ berlinize
 berloque
 berm
 berme
+bulkiness
 bossiest
 bathe
 bologna
