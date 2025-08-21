@@ -2523,7 +2523,6 @@ daneworts
 diplococcus
 declaring
 dwined
-declasses
 dorn
 disjudication
 declassicize
@@ -13408,6 +13407,7 @@ diazoamin
 depression
 deevey
 disquietedness
+declasses
 disquieter
 disquietingness
 disquietly
