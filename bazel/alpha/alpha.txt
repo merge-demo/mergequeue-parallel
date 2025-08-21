@@ -4202,7 +4202,6 @@ antiaircraft
 astichous
 astore
 ados
-acromegalia
 anisaldoxime
 austenite
 anamneses
@@ -21827,6 +21826,7 @@ archons
 adnumber
 assyth
 antiemperor
+acromegalia
 avenalin
 assythment
 assize
