@@ -4030,6 +4030,7 @@ choosingly
 carcinomatoid
 carcinomatosis
 carpetweed
+connotative
 cellophane
 cholers
 cornhusk
@@ -22655,7 +22656,6 @@ connotate
 connotation
 ceratitoid
 connotations
-connotative
 connotatively
 connote
 crymotherapy
