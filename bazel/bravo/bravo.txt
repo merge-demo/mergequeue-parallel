@@ -3643,7 +3643,6 @@ barrelsful
 besetting
 benzophenol
 bardolater
-bunsen
 books
 blissfully
 blout
@@ -13108,6 +13107,7 @@ basophil
 bleedings
 bornane
 bornean
+bunsen
 belows
 borneol
 borneols

@@ -8528,7 +8528,6 @@ alkies
 assessable
 asmoke
 airplane
-accelerograph
 alkylarylsulfonate
 anallergic
 abrahamic
@@ -9547,6 +9546,7 @@ altimeters
 anthema
 alchemistry
 ammocetes
+accelerograph
 altimetrically
 abadite
 arrives
