@@ -8530,7 +8530,6 @@ disaccharides
 disbud
 doree
 diapause
-diapauses
 donaries
 decarburize
 dodecastylos
@@ -11520,6 +11519,7 @@ diaphragmatic
 demarch
 dismounts
 dieticians
+diapauses
 derivationist
 deuteropathic
 discomfortingly
