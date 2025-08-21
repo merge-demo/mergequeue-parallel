@@ -18282,7 +18282,6 @@ chartings
 coffeegrower
 cantinas
 carbonari
-coffeegrowing
 cladothrix
 cuss
 capelets
@@ -26925,6 +26924,7 @@ countermanding
 countermaneuver
 countermanifestoes
 countfish
+coffeegrowing
 columbotitanate
 colorable
 chevaux
