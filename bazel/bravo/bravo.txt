@@ -2213,7 +2213,6 @@ barba
 bayards
 boneheadedness
 bromize
-barbados
 blobs
 barbaloin
 badineur
@@ -10362,6 +10361,7 @@ bespirit
 blamelessly
 blamers
 beode
+barbados
 behaviorally
 brachering
 bebait
