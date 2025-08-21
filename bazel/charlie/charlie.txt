@@ -22441,7 +22441,6 @@ coextensive
 chemosensitivity
 cormophyte
 coniines
-conylene
 conrey
 conimene
 ceric
@@ -31670,6 +31669,7 @@ cushy
 cyclarthrodial
 casked
 coth
+conylene
 cushiness
 cushing
 cushion
