@@ -12468,7 +12468,6 @@ anemographically
 anemologic
 avoided
 anticonfederationist
-anemometrically
 attenuated
 amanuenses
 arterial
@@ -21847,6 +21846,7 @@ apostle
 androgonidium
 acrocephaly
 autovaccination
+anemometrically
 associatedness
 andesine
 associateship

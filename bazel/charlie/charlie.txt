@@ -14798,7 +14798,6 @@ city
 citybuster
 citicorp
 canamary
-closen
 culler
 coursy
 cowering
@@ -17073,6 +17072,7 @@ cnidopod
 conoids
 confoundable
 cnidosis
+closen
 cardiacs
 capernoity
 coabode
