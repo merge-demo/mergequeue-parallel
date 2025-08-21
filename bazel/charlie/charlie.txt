@@ -10798,6 +10798,7 @@ centraxonia
 chinela
 chines
 cinched
+coronadite
 chinfest
 contentious
 colleaguesmanship
@@ -25509,7 +25510,6 @@ chronoscopv
 coronach
 coronachs
 chickens
-coronadite
 coronado
 coronados
 coronae
