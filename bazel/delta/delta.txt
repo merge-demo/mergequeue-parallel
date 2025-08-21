@@ -6941,7 +6941,6 @@ despecification
 desperado
 darky
 dioptre
-digits
 desperados
 dorsointercostal
 dichasial
@@ -7772,6 +7771,7 @@ devoir
 destabilizing
 devoirs
 dholes
+digits
 detachability
 devolatilised
 dosimetries
