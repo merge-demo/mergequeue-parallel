@@ -14735,7 +14735,6 @@ circumspection
 cystoproctostomy
 cystopteris
 cystoptosis
-cystopus
 cystoradiography
 contentiously
 cairo
@@ -17002,6 +17001,7 @@ corregidors
 crowner
 clunking
 clunter
+cystopus
 coutille
 clupanodonic
 clupea
