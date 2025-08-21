@@ -774,7 +774,6 @@ building
 baedekerian
 baphometic
 baeria
-baetyl
 begod
 browniness
 bldr
@@ -3698,6 +3697,7 @@ blackthorn
 battings
 battledores
 baldly
+baetyl
 barotraumata
 bronteon
 battlefronts
