@@ -674,7 +674,6 @@ caesurae
 caesuric
 caf
 cinefilm
-chapacura
 cafardise
 charka
 chicky
@@ -13709,6 +13708,7 @@ cymodoceaceae
 counterirritate
 condominiia
 cymograph
+chapacura
 cymographic
 cornerstones
 complexionist
