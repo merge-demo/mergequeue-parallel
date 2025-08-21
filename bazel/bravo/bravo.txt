@@ -5307,6 +5307,7 @@ bezzants
 bipinnate
 bugbite
 beginning
+bisiliac
 bemirement
 beginnings
 begird
@@ -8002,7 +8003,6 @@ bick
 brainwashes
 bicycler
 bluebooks
-bisiliac
 bbls
 bickerer
 bailsman
