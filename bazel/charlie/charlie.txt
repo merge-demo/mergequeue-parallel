@@ -14686,6 +14686,7 @@ cystocele
 cystocolostomy
 cystodynia
 cystoelytroplasty
+characin
 carpophaga
 cystoepithelioma
 complemental
@@ -24550,7 +24551,6 @@ cleistothecopsis
 cyzicene
 coplaintiff
 coper
-characin
 copernican
 creatophagous
 citrinous
