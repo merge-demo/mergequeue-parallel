@@ -5554,7 +5554,6 @@ catacromyodian
 conicein
 ceratothecal
 cardiological
-catacumba
 catadicrotic
 cronie
 cursal
@@ -14442,6 +14441,7 @@ chronometry
 circumstantiality
 circumstantialities
 circumstantialness
+catacumba
 circumstantiate
 circumstantiating
 circumstantiation
