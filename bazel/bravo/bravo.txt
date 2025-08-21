@@ -1526,6 +1526,7 @@ baralipton
 bloodmonger
 blackware
 ballas
+barbouillage
 baronetised
 ballastage
 beeherd
@@ -16418,7 +16419,6 @@ bollixed
 brushful
 brushier
 bunkoed
-barbouillage
 bloodshotten
 bendys
 bluenoser
