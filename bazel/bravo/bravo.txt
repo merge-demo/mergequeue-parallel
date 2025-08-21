@@ -526,6 +526,7 @@ backtracking
 backtracks
 backout
 babies
+becripple
 backus
 betrayment
 backveld
@@ -6741,7 +6742,6 @@ bernacle
 bernardina
 bernardine
 bonneter
-becripple
 bottlehead
 bernice
 begaze

@@ -8025,7 +8025,6 @@ alfaquis
 alfenide
 alferes
 aefaldness
-alferez
 authentical
 alfileria
 astert
@@ -8691,6 +8690,7 @@ anoxidative
 anemology
 alleleu
 allelic
+alferez
 allelism
 almes
 alternationist
