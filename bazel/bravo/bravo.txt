@@ -385,7 +385,6 @@ bovarist
 backhaul
 backhauls
 bossy
-backhoe
 bemoans
 backhouses
 backy
@@ -899,6 +898,7 @@ bunions
 bookland
 bdellotomy
 bowstaff
+backhoe
 bagpipers
 bandyball
 bardiglio
