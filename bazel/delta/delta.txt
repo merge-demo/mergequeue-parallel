@@ -15122,6 +15122,7 @@ doglegging
 doglegs
 doglike
 dekabrist
+dactyls
 dufrenite
 delicti
 dedicative
@@ -17559,7 +17560,6 @@ drumlinoid
 decelerated
 dactylate
 diatomous
-dactyls
 drumlins
 dorsiferous
 diciest
