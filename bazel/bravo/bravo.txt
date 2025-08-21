@@ -6221,7 +6221,6 @@ buckjumper
 benic
 benight
 buzzed
-bandalore
 benighter
 barked
 blackboy
@@ -12113,6 +12112,7 @@ borborygm
 burbler
 boldly
 blackmail
+bandalore
 brahminic
 baedekers
 boldnesses
