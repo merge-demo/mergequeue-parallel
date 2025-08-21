@@ -4012,6 +4012,7 @@ crystalloluminescence
 cycadiform
 carcinological
 carcinoma
+counterannouncement
 carbocyclic
 curtesy
 carcinomata
@@ -26690,7 +26691,6 @@ counteragency
 counteragitate
 counteralliance
 cyanosed
-counterannouncement
 counterapse
 counterarch
 compulsative
