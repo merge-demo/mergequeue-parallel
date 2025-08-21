@@ -2381,7 +2381,6 @@ bardcraft
 barde
 beleve
 buckhorn
-brabant
 branchling
 bobtails
 bardesanite
@@ -3188,6 +3187,7 @@ bangwaketsi
 barotactic
 breadth
 ballerinas
+brabant
 bauta
 beknave
 baclava

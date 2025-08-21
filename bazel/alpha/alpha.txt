@@ -1765,7 +1765,6 @@ anticosine
 asphyxies
 adularia
 arabis
-aromata
 acecaffine
 acleistocardia
 anemia
@@ -15853,6 +15852,7 @@ asplenium
 anthracemia
 antiportable
 apollonicon
+aromata
 anthoxanthin
 anglicizing
 adenoid
