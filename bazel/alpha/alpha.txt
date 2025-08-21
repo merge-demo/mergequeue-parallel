@@ -13704,6 +13704,7 @@ anomodontia
 anomoeomery
 anticommercially
 anomophyllous
+autoptic
 anomouran
 anomphalous
 ayegreen
@@ -24318,7 +24319,6 @@ applecart
 autopsies
 ambrose
 abaters
-autoptic
 autoptically
 aeromancy
 attractionally
