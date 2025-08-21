@@ -3631,7 +3631,6 @@ ailanthic
 adenotyphus
 alphabetist
 attenuant
-abbacies
 anachoret
 alimenting
 attempre
@@ -5206,6 +5205,7 @@ affiliating
 apery
 abohm
 ampitheater
+abbacies
 attackable
 anapterygotous
 alingual
