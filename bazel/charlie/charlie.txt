@@ -3483,7 +3483,6 @@ capsizable
 capsizal
 crunt
 cabalistical
-capsizes
 capsizing
 clerklier
 capernaitish
@@ -22771,6 +22770,7 @@ conscribing
 conscript
 counterfeiters
 conscripting
+capsizes
 conscriptional
 clambering
 conscriptions
