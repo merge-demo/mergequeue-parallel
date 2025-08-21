@@ -9665,6 +9665,7 @@ cheep
 courtierism
 cheeped
 cheeper
+civilizable
 cynodontia
 capernaite
 cheepers
@@ -15109,7 +15110,6 @@ countercondemnation
 cipollino
 circuitable
 compunctive
-civilizable
 civilizationally
 chawan
 contemns
