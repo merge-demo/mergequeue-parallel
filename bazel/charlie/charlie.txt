@@ -4758,6 +4758,7 @@ conclaves
 carpincho
 carping
 canceration
+conchometer
 carpiodes
 carpium
 carpocace
@@ -21349,7 +21350,6 @@ concho
 conchoids
 communicableness
 conchol
-conchometer
 conchospiral
 cowboys
 conchostraca
