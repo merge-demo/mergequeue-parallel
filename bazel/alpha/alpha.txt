@@ -9329,7 +9329,6 @@ aircraft
 alphabetarian
 acclimatizable
 amphibiontic
-anuran
 acerose
 alphabetic
 alphabetical
@@ -12396,6 +12395,7 @@ androtomy
 ands
 angara
 ayens
+anuran
 azosulphine
 aurantium
 anear
