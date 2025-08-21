@@ -8570,6 +8570,7 @@ allagostemonous
 allah
 astrophysicist
 austafrican
+airfreighter
 allay
 allayers
 allaying
@@ -18400,7 +18401,6 @@ antitussive
 arber
 autolesion
 aviates
-airfreighter
 arbiter
 arbith
 anthragallol
