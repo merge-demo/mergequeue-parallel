@@ -3359,6 +3359,7 @@ caponized
 contrasty
 caponizer
 caponizing
+crankless
 caponniere
 capons
 caporal
@@ -28176,7 +28177,6 @@ crankiness
 cranking
 crankle
 cima
-crankless
 contiguities
 cromfordite
 crankling
