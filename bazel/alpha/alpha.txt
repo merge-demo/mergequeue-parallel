@@ -2125,6 +2125,7 @@ adawlut
 arend
 achymia
 achymous
+autogamy
 azobenzol
 achinese
 adspiration
@@ -17457,7 +17458,6 @@ appar
 apparail
 actinoidea
 apparat
-autogamy
 apiose
 apparatchiks
 apparats
