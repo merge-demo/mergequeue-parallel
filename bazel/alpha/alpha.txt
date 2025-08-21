@@ -11302,7 +11302,6 @@ agrope
 aniliid
 amphithecia
 aregenerative
-amendableness
 anthomyia
 amphithecium
 abjures
@@ -21458,6 +21457,7 @@ adiaphanous
 alluvium
 axolotls
 antityrosinase
+amendableness
 asphalter
 asphaltus
 aceituna
