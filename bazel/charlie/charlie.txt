@@ -4716,7 +4716,6 @@ catty
 compatibles
 crazies
 cyathi
-costalgia
 chapmen
 carpetbaggism
 commuter
@@ -21160,6 +21159,7 @@ concealable
 cadger
 cowy
 concealedly
+costalgia
 concealedness
 concealer
 concealing
