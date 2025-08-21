@@ -770,6 +770,7 @@ biometrical
 bethorn
 blackout
 becker
+beryllosis
 building
 baedekerian
 baphometic
@@ -6885,7 +6886,6 @@ birlers
 beshake
 bentinck
 bendel
-beryllosis
 beastie
 bougainvillaeas
 beseemliness
