@@ -2365,6 +2365,7 @@ boxwork
 blip
 bebeeru
 barcone
+bedarkened
 banshie
 beylical
 brakemen
@@ -8401,7 +8402,6 @@ biogenous
 blackwood
 bilayer
 burp
-bedarkened
 bookmen
 bilalo
 bacony
