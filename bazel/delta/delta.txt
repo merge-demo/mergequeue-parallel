@@ -11237,7 +11237,6 @@ dogbush
 desoxybenzoin
 diacle
 depredator
-domesticability
 dangler
 decrescendos
 depurating
@@ -13120,6 +13119,7 @@ dispeople
 daresay
 deprivative
 depurging
+domesticability
 declivities
 diversifying
 doozer
