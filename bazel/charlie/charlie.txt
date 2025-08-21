@@ -25423,6 +25423,7 @@ cornless
 cornloft
 cornmeal
 ceramicist
+cachetic
 cothurnal
 contumaciousness
 cornmeals
@@ -28112,7 +28113,6 @@ craniectomy
 cled
 craniniums
 craniocele
-cachetic
 cordial
 caunus
 craniocerebral
