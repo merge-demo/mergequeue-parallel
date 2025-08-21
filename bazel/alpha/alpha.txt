@@ -1134,7 +1134,6 @@ aucan
 abutment
 articulant
 assertible
-angiocavernous
 aluminish
 ataghans
 abuttals
@@ -17271,6 +17270,7 @@ acataposis
 apositia
 antisiphonal
 aclinal
+angiocavernous
 apositic
 ashram
 acetonize
