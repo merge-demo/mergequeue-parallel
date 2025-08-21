@@ -12244,6 +12244,7 @@ anserin
 argufiers
 attackman
 antiblackism
+accusative
 ancora
 ancress
 ancresses
@@ -17273,7 +17274,6 @@ ashram
 acetonize
 antiagglutinant
 archpatriarch
-accusative
 allowing
 antitrypsin
 apostacies
