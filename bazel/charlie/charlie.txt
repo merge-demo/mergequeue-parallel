@@ -3972,6 +3972,7 @@ carburometer
 chinee
 carcajou
 carcajous
+chelas
 castor
 carcake
 carcanet
@@ -27181,7 +27182,6 @@ confessors
 cephalogram
 collodionize
 countertruth
-chelas
 corses
 counterturned
 cicatrised
