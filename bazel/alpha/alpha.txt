@@ -4252,7 +4252,6 @@ adrenergic
 anaptychi
 adrenin
 addu
-adrenitis
 archcount
 adrenochrome
 adrenocortical
@@ -7716,6 +7715,7 @@ aldane
 adoors
 alands
 aldea
+adrenitis
 antichresis
 aldebaran
 ambiance
