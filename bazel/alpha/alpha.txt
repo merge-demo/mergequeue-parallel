@@ -13703,7 +13703,6 @@ aythya
 anomodontia
 anomoeomery
 anticommercially
-anomophyllous
 autoptic
 anomouran
 anomphalous
@@ -16867,6 +16866,7 @@ annelida
 astrogonic
 assortment
 anchusin
+anomophyllous
 aluminotype
 antienthusiast
 abridged
