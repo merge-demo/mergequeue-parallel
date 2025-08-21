@@ -1522,7 +1522,6 @@ callionymidae
 coachers
 crookkneed
 clepe
-calliope
 concertos
 celtomaniac
 calliopsis
@@ -2890,6 +2889,7 @@ canoodles
 counsinhood
 canopy
 copesman
+calliope
 canopid
 canopied
 canopies
