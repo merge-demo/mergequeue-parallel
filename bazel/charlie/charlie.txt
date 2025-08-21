@@ -14722,7 +14722,6 @@ campodeiform
 cystophora
 calumet
 cystophore
-cistophorus
 coadjustment
 cystophotography
 coxier
@@ -18278,6 +18277,7 @@ cottonade
 chingma
 coffeeberries
 concocts
+cistophorus
 cohosting
 concessionary
 chartings
