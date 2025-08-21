@@ -14137,7 +14137,6 @@ camstrary
 colusite
 cyprinoidean
 cyprinus
-chasten
 cypriots
 cyproterone
 cypseliform
@@ -23120,6 +23119,7 @@ constantan
 constantine
 constantinian
 constantinopolitan
+chasten
 catechumenate
 canvassed
 constantly
