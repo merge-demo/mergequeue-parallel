@@ -3568,6 +3568,7 @@ degames
 deganglionate
 dystome
 degasify
+dilatometric
 discontinued
 duco
 disembodies
@@ -11361,7 +11362,6 @@ dilacerating
 deodands
 dowhacky
 devoter
-dilatometric
 dehydrogenise
 decorement
 dischevel
