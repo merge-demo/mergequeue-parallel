@@ -4124,7 +4124,6 @@ cornmaster
 condalia
 cardin
 cardinal
-cardinalfish
 croslet
 cancans
 cardinalfishes
@@ -14716,6 +14715,7 @@ cystomyoma
 cystomyxoma
 cystonectae
 cystoneuralgia
+cardinalfish
 cystoparalysis
 csi
 customarily
