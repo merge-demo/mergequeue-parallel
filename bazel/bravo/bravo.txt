@@ -4288,6 +4288,7 @@ bacterious
 bayish
 bebreech
 backcourtman
+bugfish
 bebrother
 blouselike
 bebrush
@@ -11169,7 +11170,6 @@ bumelia
 brutalised
 bloodwite
 bailee
-bugfish
 biquadratic
 bloodworthy
 belched
