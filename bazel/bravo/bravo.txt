@@ -2615,6 +2615,7 @@ bantamweight
 birdhouses
 bilges
 barking
+baddy
 botanise
 barkless
 battening
@@ -16886,7 +16887,6 @@ barretry
 brassbound
 beneficiate
 bugeyes
-baddy
 bonducs
 bespurred
 buggered
