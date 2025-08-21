@@ -3626,7 +3626,6 @@ caraboa
 cinques
 circle
 caraboid
-carabus
 caracara
 carack
 caracks
@@ -25430,6 +25429,7 @@ cothurnal
 contumaciousness
 cornmeals
 cornmuse
+carabus
 corno
 collegians
 chewet

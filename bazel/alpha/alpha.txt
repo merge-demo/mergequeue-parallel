@@ -12260,7 +12260,6 @@ anaclete
 agnes
 antipestilent
 academised
-ambay
 amiranha
 andamenta
 allopatric
@@ -17305,6 +17304,7 @@ animalcules
 anaesthetic
 autothermy
 aposteme
+ambay
 aposteriori
 arctogaea
 aerogun
