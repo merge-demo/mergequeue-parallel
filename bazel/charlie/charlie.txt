@@ -3499,7 +3499,6 @@ capsomer
 capsomere
 capsomers
 capstan
-capstans
 capstone
 capsula
 cons
@@ -6528,6 +6527,7 @@ cavetto
 cavy
 cavia
 cavicorn
+capstans
 cuprocyanide
 calve
 catalogues
