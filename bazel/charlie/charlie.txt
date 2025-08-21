@@ -885,6 +885,7 @@ cayugas
 cayuse
 curf
 cayuses
+cosmochemistry
 cajan
 capitare
 cajaputs
@@ -11992,7 +11993,6 @@ calculabilities
 crestfallenness
 cerites
 cohanim
-cosmochemistry
 choreoid
 crocidolite
 chorepiscopal
