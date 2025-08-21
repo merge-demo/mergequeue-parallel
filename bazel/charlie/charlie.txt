@@ -5712,7 +5712,6 @@ catastrophic
 catastrophist
 catathymic
 catatony
-catatonic
 coeloglossum
 countersignal
 catawampous
@@ -31440,6 +31439,7 @@ churchdom
 curney
 curnies
 curpin
+catatonic
 curple
 calver
 cushioncraft
