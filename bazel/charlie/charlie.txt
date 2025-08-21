@@ -8267,6 +8267,7 @@ carpentry
 chaksi
 chal
 complection
+czechish
 chalaco
 chalah
 crispation
@@ -31941,7 +31942,6 @@ czaritza
 czaritzas
 crookback
 czech
-czechish
 czechization
 caitanyas
 czechoslovak
