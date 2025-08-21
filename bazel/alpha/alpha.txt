@@ -11874,6 +11874,7 @@ anansi
 ananta
 antimasquerade
 anammonide
+antecurvature
 anantherous
 ananthous
 aftersend
@@ -14023,7 +14024,6 @@ antecoxal
 adeleidae
 antecubital
 accompanists
-antecurvature
 anted
 antifungin
 autophytically
