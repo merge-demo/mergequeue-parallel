@@ -18766,7 +18766,6 @@ cokewold
 cokie
 compounding
 crystallology
-circumscribing
 cokuloris
 colaborer
 colacobioses
@@ -29932,6 +29931,7 @@ crossopt
 carposporangia
 crossopterygii
 chromonema
+circumscribing
 crossosomataceous
 contrahent
 crossovers
