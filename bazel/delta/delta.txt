@@ -312,6 +312,7 @@ demisheath
 depolarized
 decursively
 dayak
+dum
 dayanim
 directories
 daybeacon
@@ -8681,7 +8682,6 @@ diaspore
 diaspores
 deoxyribonuclease
 diastalses
-dum
 dovekey
 diastalsis
 diastases
