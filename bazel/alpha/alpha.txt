@@ -14270,7 +14270,6 @@ adrop
 anemograph
 augustinianism
 affableness
-anthesterin
 anthicidae
 anthills
 anthinae
@@ -24111,6 +24110,7 @@ axone
 autohemolytic
 autohemorrhage
 autohexaploid
+anthesterin
 acetylthymol
 arbutuses
 arache
