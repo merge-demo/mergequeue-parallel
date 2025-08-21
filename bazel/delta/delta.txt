@@ -694,7 +694,6 @@ dusio
 dolefish
 drynesses
 danaine
-danaite
 detainer
 deltaic
 dragshoe
@@ -15634,6 +15633,7 @@ defaulters
 domina
 dissentaneous
 decoders
+danaite
 diversionist
 doorhead
 dooryards
