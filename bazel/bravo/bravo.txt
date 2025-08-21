@@ -11754,6 +11754,7 @@ bobsledded
 breathers
 britoness
 burier
+bathycurrent
 bobsleded
 beworry
 bacteriopurpurin
@@ -12304,7 +12305,6 @@ bombardman
 burrfishes
 bungfull
 bacteriophagic
-bathycurrent
 bullwhacker
 betrayer
 bramantesque
