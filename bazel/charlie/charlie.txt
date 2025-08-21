@@ -13524,7 +13524,6 @@ cambibia
 categoricalness
 calcomp
 casting
-cigaritos
 choloepus
 cygneous
 cautions
@@ -29734,6 +29733,7 @@ chinar
 compactify
 cuartillo
 cronian
+cigaritos
 communicated
 coachway
 cronies
