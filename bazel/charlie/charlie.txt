@@ -6370,6 +6370,7 @@ causes
 cgm
 carouba
 crimison
+contumely
 causeuses
 cannellated
 causewaying
@@ -23904,7 +23905,6 @@ ciceronic
 contumacious
 cantel
 ciguatera
-contumely
 consisted
 chadlock
 clepsine
