@@ -8307,7 +8307,6 @@ chalcogen
 chalcogenide
 coenaculum
 comas
-chalcography
 caucho
 chalcographic
 chalcographical
@@ -29115,6 +29114,7 @@ curine
 crink
 crinkled
 crinkles
+chalcography
 crinkly
 chloroacetate
 carcassless
