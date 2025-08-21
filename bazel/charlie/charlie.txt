@@ -736,7 +736,6 @@ cephalata
 cordylanthus
 cageless
 cagelike
-canorous
 cycloses
 cageman
 cager
@@ -12781,6 +12780,7 @@ chugalug
 chugalugged
 candidas
 chauvinists
+canorous
 cholecystoileostomy
 canalage
 clawsick
