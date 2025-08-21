@@ -15664,7 +15664,6 @@ apolline
 aurothiosulphate
 antiparallel
 androidal
-algieba
 amphitokous
 antiparallelogram
 arylamine
@@ -18285,6 +18284,7 @@ aragonian
 archmagirist
 aragonitic
 aggie
+algieba
 anabaptistical
 alowe
 aragonspath
