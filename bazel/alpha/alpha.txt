@@ -18258,6 +18258,7 @@ anatomiless
 aripple
 archangelship
 adsorptiveness
+astrocompass
 arachnean
 arachnid
 aestivation
@@ -22257,7 +22258,6 @@ aplanat
 autoreduction
 avifaunally
 atmologist
-astrocompass
 astrodiagnosis
 aced
 astrodynamic
