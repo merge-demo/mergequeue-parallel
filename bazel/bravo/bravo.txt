@@ -10110,7 +10110,6 @@ blackband
 blackberrylike
 bunkload
 bacchant
-bilaminate
 berbers
 bootleggers
 buphthalmia
@@ -18071,6 +18070,7 @@ biologize
 bustlingly
 blenny
 bloom
+bilaminate
 banzais
 busts
 busulfans
