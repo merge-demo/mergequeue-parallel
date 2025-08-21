@@ -5711,7 +5711,6 @@ disposit
 deplenish
 dialup
 depleteable
-decapodan
 ducape
 depleted
 donkeyback
@@ -13079,6 +13078,7 @@ discocarpium
 decimalised
 daulias
 dispeaceful
+decapodan
 dory
 decampment
 diminutival
