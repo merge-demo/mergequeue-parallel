@@ -5171,6 +5171,7 @@ caserne
 casernes
 caserns
 cases
+catarrhally
 caseum
 caseweed
 cordis
@@ -20887,7 +20888,6 @@ cyclar
 compulsivity
 compotes
 compotiers
-catarrhally
 compotor
 compounded
 cotarnin
