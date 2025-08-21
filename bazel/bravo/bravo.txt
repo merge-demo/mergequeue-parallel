@@ -4695,7 +4695,6 @@ beekmantown
 bedizens
 bedkey
 biplanal
-bandpass
 braved
 braze
 bedlamised
@@ -15641,6 +15640,7 @@ bacteriohemolysin
 bauxitite
 bundlet
 bluster
+bandpass
 botulismus
 blastomycetes
 bewildered
