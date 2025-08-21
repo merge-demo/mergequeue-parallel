@@ -2640,6 +2640,7 @@ canephori
 canephoroi
 canepin
 cheeseflower
+chevet
 cursaro
 coign
 caner
@@ -26966,7 +26967,6 @@ counternecromancy
 counterobjection
 counterobligation
 counteroffensive
-chevet
 counteroffer
 counteropening
 culotte
