@@ -3989,6 +3989,7 @@ ditchdigging
 dominant
 delightedly
 diarize
+desiderated
 delassation
 decompound
 delassement
@@ -6699,7 +6700,6 @@ desiderata
 debagged
 disagreement
 dahabiyas
-desiderated
 demikindred
 diacoustics
 desideration
