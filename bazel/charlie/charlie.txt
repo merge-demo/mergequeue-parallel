@@ -11072,7 +11072,6 @@ chiseled
 curuba
 chiseler
 cheapens
-chiselers
 calorify
 chiseling
 commoned
@@ -17928,6 +17927,7 @@ codirects
 codiscoverer
 codist
 codivine
+chiselers
 codline
 calcigerous
 controlled
