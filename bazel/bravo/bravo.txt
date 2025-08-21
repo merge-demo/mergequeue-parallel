@@ -8474,6 +8474,7 @@ barbre
 bidry
 bibliotheke
 biriba
+bardy
 bylined
 bunging
 begirdle
@@ -12805,7 +12806,6 @@ bookworm
 bookwright
 booleans
 booleys
-bardy
 booly
 backhanding
 betatters
