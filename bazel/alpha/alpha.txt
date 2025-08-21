@@ -676,7 +676,6 @@ anthomyiid
 abord
 aboriginality
 anhydrosis
-aboriginary
 aborigines
 abort
 alderfly
@@ -5319,6 +5318,7 @@ affrightedly
 acarpellous
 annoyful
 affrightful
+aboriginary
 affydavy
 affrightment
 affronte
