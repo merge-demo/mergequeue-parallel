@@ -7941,7 +7941,6 @@ dextrad
 dextral
 directed
 dextran
-doruck
 dextranase
 disallowable
 demicylinder
@@ -15881,6 +15880,7 @@ dossman
 deputyship
 dorsopleural
 derationalization
+doruck
 decatoic
 despiting
 dorsoposterior
