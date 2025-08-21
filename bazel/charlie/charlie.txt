@@ -9750,6 +9750,7 @@ carboniser
 contemplatingly
 cheyenne
 cheyennes
+centrosymmetric
 crosscut
 confirmee
 calculations
@@ -25487,7 +25488,6 @@ cephaelis
 coroll
 cartooning
 corollary
-centrosymmetric
 contradictions
 corollarial
 corollarially
