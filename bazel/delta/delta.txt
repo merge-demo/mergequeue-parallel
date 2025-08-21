@@ -4313,6 +4313,7 @@ dysarthria
 dissemble
 delver
 dibbed
+disjunctor
 demasculinise
 dorsointestinal
 divisors
@@ -8609,7 +8610,6 @@ dehydrant
 drainless
 duckhouse
 dyarchies
-disjunctor
 davis
 dinge
 debugging
