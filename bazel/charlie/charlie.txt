@@ -19015,6 +19015,7 @@ collations
 cesti
 collatitious
 cloine
+crutchlike
 collative
 ceste
 chickahominy
@@ -25535,7 +25536,6 @@ coronership
 chasidim
 coroneted
 chaise
-crutchlike
 cordeliere
 coronets
 coronetted
