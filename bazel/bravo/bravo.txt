@@ -883,6 +883,7 @@ bagnes
 bastnaesite
 bitriseptate
 blowze
+bullboat
 burdies
 broommaking
 bellowers
@@ -17050,7 +17051,6 @@ buttling
 baetylus
 bitake
 baluga
-bullboat
 babylonite
 bullcomber
 bucentaur
