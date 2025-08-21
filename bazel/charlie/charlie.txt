@@ -1359,7 +1359,6 @@ cutify
 cephalobranchiate
 curveball
 caliculate
-calyculate
 cavernitis
 calyculated
 coercing
@@ -20940,6 +20939,7 @@ compresbyterial
 compresence
 compresent
 cai
+calyculate
 compress
 cambogia
 compressed
