@@ -4191,6 +4191,7 @@ damner
 deaconess
 durneder
 dunstable
+doctorhood
 discolorization
 dicyanogen
 desynapsis
@@ -14849,7 +14850,6 @@ doctored
 defensive
 doctorfishes
 decomponible
-doctorhood
 diethylenediamine
 dispensating
 doctorial
