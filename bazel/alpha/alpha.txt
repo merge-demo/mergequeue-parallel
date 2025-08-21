@@ -5734,7 +5734,6 @@ adorner
 angiomatosis
 antiteetotalism
 agasp
-agast
 anomaloscope
 anguillulidae
 antismog
@@ -16632,6 +16631,7 @@ athrob
 affrighter
 acid
 antihumanism
+agast
 alioth
 ammochryse
 acceder
