@@ -3853,6 +3853,7 @@ adjoinant
 anticipated
 angoumian
 agaphite
+anagrammatism
 adjoinedly
 analphabetism
 apprises
@@ -11712,7 +11713,6 @@ appaumee
 annuation
 androgenesis
 arbitrators
-anagrammatism
 anagrammatizing
 anagrams
 adventist
