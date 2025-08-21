@@ -3111,6 +3111,7 @@ antimonous
 action
 albiflorous
 antagonizer
+autoagglutinin
 allotrophic
 actionably
 avertin
@@ -23896,7 +23897,6 @@ acrology
 antiscepticism
 anepiploic
 autoagglutinating
-autoagglutinin
 autoalkylation
 autoanalytic
 auriculariae
