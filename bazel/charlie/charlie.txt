@@ -6702,6 +6702,7 @@ cedrol
 corticiform
 cherte
 cedrus
+cathedrallike
 crioceris
 cardiosymphysis
 cedula
@@ -21605,7 +21606,6 @@ carapato
 cosounding
 compactedly
 cobbly
-cathedrallike
 concussions
 concussive
 concutient
