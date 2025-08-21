@@ -10937,6 +10937,7 @@ amoebalike
 amoebas
 astipulate
 asmolder
+anomia
 aggregatory
 amperometric
 architecturalist
@@ -13691,7 +13692,6 @@ augmenter
 antileak
 avant
 anomatheca
-anomia
 anomiacea
 acquiet
 atrabilarian
