@@ -6498,6 +6498,7 @@ bugology
 banxring
 bepiece
 bepile
+bolo
 bragas
 bolshie
 boca
@@ -12205,7 +12206,6 @@ bolls
 bunkum
 bollworm
 blizzardly
-bolo
 bicron
 bicarbide
 buckhound
