@@ -11122,7 +11122,6 @@ actaeaceae
 amphiarthroses
 aphorisms
 abetment
-amritsar
 amphibia
 amphibial
 anfractuous
@@ -16913,6 +16912,7 @@ aphagia
 anhima
 arrive
 adenovirus
+amritsar
 apjohnite
 aplace
 aplacental
