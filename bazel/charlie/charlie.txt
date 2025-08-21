@@ -11905,6 +11905,7 @@ chorai
 choral
 choralcelo
 causeway
+cleanskins
 chorale
 carmagnoles
 choraleon
@@ -15833,7 +15834,6 @@ codescendant
 cleanses
 cynosura
 cleanskin
-cleanskins
 cleanup
 conveniently
 chelaship
