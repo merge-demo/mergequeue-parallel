@@ -6190,7 +6190,6 @@ deriders
 detractress
 dittograph
 deriding
-divertor
 deringa
 diffuseness
 demonstrability
@@ -12346,6 +12345,7 @@ dysphrenia
 decker
 dishabituate
 deductively
+divertor
 dragomen
 dishabituated
 dishable
