@@ -22383,7 +22383,6 @@ astrospectral
 acrasiaceae
 adversion
 astrotheology
-automatization
 anisostemonous
 astrut
 asturian
@@ -22481,6 +22480,7 @@ agentess
 addicts
 anisoleucocytosis
 ateliotic
+automatization
 atelo
 atelocephalous
 ateloglossia
