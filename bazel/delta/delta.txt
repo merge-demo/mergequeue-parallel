@@ -1174,6 +1174,7 @@ diachoretic
 dogfall
 desmotropy
 discepted
+diplobacterium
 deaminization
 disestablishmentarian
 dastardize
@@ -10555,7 +10556,6 @@ ddname
 derate
 doorsills
 diplexer
-diplobacterium
 diazotate
 deipotent
 dimpling
