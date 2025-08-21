@@ -3285,7 +3285,6 @@ cerebrum
 compenetrate
 corns
 capito
-capitol
 clingier
 crayfishing
 capitolian
@@ -31608,6 +31607,7 @@ calendulas
 curve
 constructed
 curvedly
+capitol
 curver
 chic
 curvesomeness
