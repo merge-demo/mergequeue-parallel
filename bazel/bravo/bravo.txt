@@ -354,6 +354,7 @@ bonassus
 beemaster
 backen
 biblicoliterary
+buddha
 backer
 beehives
 backet
@@ -15780,7 +15781,6 @@ bourguignonne
 biocentric
 bargeer
 binder
-buddha
 beggarwise
 bibacious
 bullied
