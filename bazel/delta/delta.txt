@@ -2529,7 +2529,6 @@ dimorphs
 dumbfounded
 dweller
 declassification
-derringer
 diachrony
 declassifies
 diplophonic
@@ -11076,6 +11075,7 @@ disappropriate
 diabolisation
 drakonite
 determinateness
+derringer
 disapprovals
 disapproves
 disillusioned
