@@ -11759,6 +11759,7 @@ cholos
 choloscopy
 cholterheaded
 choltry
+compeers
 chirrups
 creekstuff
 cholum
@@ -20567,7 +20568,6 @@ compeering
 corinthianesque
 chandelier
 checkerspot
-compeers
 chromatophorous
 compellable
 cultirostres
