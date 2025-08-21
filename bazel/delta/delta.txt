@@ -3247,7 +3247,6 @@ dalles
 doty
 deteriority
 deterging
-dragoons
 drostden
 defibrillatory
 defibrinate
@@ -10009,6 +10008,7 @@ dimness
 decisiveness
 dermatographism
 dysacousma
+dragoons
 deuteroscopic
 debriefs
 disopinion

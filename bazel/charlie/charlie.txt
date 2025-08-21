@@ -6953,6 +6953,7 @@ cembalon
 curiousnesses
 cembalos
 chrome
+craninia
 caecostomy
 cement
 coenocyte
@@ -17471,7 +17472,6 @@ cobalamin
 comb
 cobalt
 cobaltamine
-craninia
 contrude
 crowdweed
 cephaloconic
