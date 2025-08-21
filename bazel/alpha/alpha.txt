@@ -8775,7 +8775,6 @@ antiketogen
 arbutin
 alliciency
 allicient
-askant
 anglist
 anticeremonially
 allie
@@ -15223,6 +15222,7 @@ antifreeze
 antifreezing
 antifriction
 antistate
+askant
 antifrost
 antifundamentalism
 antifungal
