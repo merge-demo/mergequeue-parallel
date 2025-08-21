@@ -151,6 +151,7 @@ backlog
 bassine
 bashara
 bethylidae
+biconnected
 babkas
 beinness
 bradyteleokinesis
@@ -8016,7 +8017,6 @@ bidder
 bullescene
 biconic
 biconically
-biconnected
 boildown
 bayberry
 butcherous
