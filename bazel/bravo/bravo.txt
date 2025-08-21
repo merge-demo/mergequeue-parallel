@@ -13375,7 +13375,6 @@ bothrodendron
 blackcap
 bisulc
 beothuk
-boltant
 bothway
 burgle
 bunched
@@ -17069,6 +17068,7 @@ bearder
 bulldogging
 beadswoman
 bitterwood
+boltant
 bellrags
 bulldoggishness
 bulldozed
