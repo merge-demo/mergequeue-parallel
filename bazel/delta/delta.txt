@@ -2455,6 +2455,7 @@ decipium
 diphase
 diplodocus
 dipyre
+duodenojejunostomies
 decision
 defeatists
 distinctly
@@ -18377,7 +18378,6 @@ dreamish
 dorse
 demulcent
 denudative
-duodenojejunostomies
 dillue
 douches
 duodenoscopy
