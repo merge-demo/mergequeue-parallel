@@ -24890,7 +24890,6 @@ coralberries
 coproduct
 coralbush
 coralene
-craving
 coralist
 coralita
 coralla
@@ -26367,6 +26366,7 @@ commutative
 cotch
 chrysanilin
 coteaux
+craving
 coted
 cling
 cans
