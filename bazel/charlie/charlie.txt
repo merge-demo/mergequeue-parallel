@@ -9781,7 +9781,6 @@ cheilostomatous
 censer
 cheyneys
 cimex
-chromotype
 cheiranthus
 cheirogaleus
 cheirography
@@ -26833,6 +26832,7 @@ counterfeit
 counterfeitly
 captaculum
 cudava
+chromotype
 chittering
 chilopod
 counterfeits
