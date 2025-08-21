@@ -5886,6 +5886,7 @@ dissolvable
 deprecator
 deprecatory
 deoxidised
+dioptry
 desensitization
 degradingness
 dregless
@@ -8863,7 +8864,6 @@ digressing
 dixit
 debilissima
 dibhole
-dioptry
 dualized
 dissyllabize
 diborate
