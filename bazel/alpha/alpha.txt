@@ -2342,7 +2342,6 @@ archontate
 acylates
 acylating
 advertised
-assigning
 adytta
 aphorism
 acylogen
@@ -17675,6 +17674,7 @@ analogice
 antidotism
 apples
 applewoman
+assigning
 adopts
 applewood
 apply
