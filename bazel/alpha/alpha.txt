@@ -7253,7 +7253,6 @@ aerotropic
 abominableness
 alaska
 alaskaite
-alaskans
 asexualising
 alaskas
 alaskite
@@ -14570,6 +14569,7 @@ acacine
 allotrope
 antiacid
 antiaditis
+alaskans
 asuang
 antiadministration
 audiogram
