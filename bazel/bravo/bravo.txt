@@ -2561,6 +2561,7 @@ baryphonia
 bootie
 baryphonic
 banzai
+boringness
 baris
 bodefulness
 bearleap
@@ -13096,7 +13097,6 @@ brahui
 boride
 benchmen
 bregmatic
-boringness
 bilging
 borith
 brewings
