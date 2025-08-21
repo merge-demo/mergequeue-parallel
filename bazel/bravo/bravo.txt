@@ -8296,7 +8296,6 @@ baccharoid
 bakepan
 barbarous
 brahmani
-biliate
 biggy
 biggie
 beribboned
@@ -9196,6 +9195,7 @@ bipedal
 beggared
 bogo
 backhauling
+biliate
 bourbonesque
 bipedality
 bradypnoea

@@ -4235,7 +4235,6 @@ adenalgia
 adenohypophysial
 appoint
 azophosphore
-assertative
 adrenalcortical
 arillodium
 archesporium
@@ -13293,6 +13292,7 @@ asseverated
 ancient
 agree
 archworkmaster
+assertative
 astricted
 actinoscopy
 anisopoda
