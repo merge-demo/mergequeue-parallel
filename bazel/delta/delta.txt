@@ -1150,6 +1150,7 @@ digitogenin
 defedation
 dactylus
 dasypus
+demurrer
 diparentum
 dasystephana
 defencelessly
@@ -8223,7 +8224,6 @@ depart
 diaderm
 diadic
 disabusing
-demurrer
 decouples
 dyadics
 diadkokinesia
