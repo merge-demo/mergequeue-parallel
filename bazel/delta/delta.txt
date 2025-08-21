@@ -9956,7 +9956,6 @@ dimidiate
 dispart
 dimidiation
 dissinew
-dysanalyte
 downcourt
 dodecatoic
 dipneustal
@@ -13163,6 +13162,7 @@ dispersoidological
 dynastid
 dispersonate
 dysanagnosia
+dysanalyte
 dondia
 dismasting
 dispersonification
