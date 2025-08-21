@@ -13448,7 +13448,6 @@ cyclostomatous
 cyclostomes
 cyclostomi
 cedent
-cyclothymiac
 coenobite
 cocci
 contractile
@@ -30823,6 +30822,7 @@ cosuretyship
 causus
 committable
 culmiferous
+cyclothymiac
 culmigenous
 culminal
 culminate
