@@ -6722,7 +6722,6 @@ balaamitical
 beeishness
 bathmotropic
 brontosaurus
-berlinize
 berloque
 berm
 berme
@@ -18238,6 +18237,7 @@ blathering
 balistarius
 besweatered
 butterflower
+berlinize
 bleinerite
 battles
 batik
