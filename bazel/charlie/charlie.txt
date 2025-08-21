@@ -9783,6 +9783,7 @@ cymbal
 cheirology
 ciconiidae
 cheiropatagium
+crankpins
 cleanness
 churchmanship
 cheiropod
@@ -28185,7 +28186,6 @@ crankling
 crankous
 crankpin
 cytolysin
-crankpins
 colipyuria
 churchman
 cranks
