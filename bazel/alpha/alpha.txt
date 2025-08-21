@@ -9409,6 +9409,7 @@ annularity
 alquier
 aversions
 antistater
+antigenically
 aerobated
 assessments
 accumulates
@@ -22684,7 +22685,6 @@ atlantides
 atlantite
 arthrodic
 arrowheaded
-antigenically
 antipopulationist
 atlantoodontoid
 autokrator
