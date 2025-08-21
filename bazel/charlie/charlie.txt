@@ -24393,7 +24393,6 @@ cosmoramic
 coolness
 coolnesses
 cytochemical
-cools
 coolung
 coolweed
 coolwort
@@ -31712,6 +31711,7 @@ cusps
 cuspule
 crests
 coopery
+cools
 cond
 cusser
 caselessly
