@@ -5822,6 +5822,7 @@ agenize
 agenized
 aerial
 agenizing
+autogenous
 agennesis
 agential
 antisyndicalism
@@ -5842,7 +5843,6 @@ absence
 anophyte
 ager
 agers
-autogenous
 ages
 altisonant
 actinocrinidae
