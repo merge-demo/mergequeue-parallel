@@ -22874,6 +22874,7 @@ analepsy
 aegises
 anchorites
 antispace
+actuaries
 aeolism
 atroceruleous
 aroynted
@@ -25250,7 +25251,6 @@ allemontite
 azygoses
 azygote
 atabal
-actuaries
 auriform
 amnestying
 agialid
