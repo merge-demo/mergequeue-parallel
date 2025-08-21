@@ -939,7 +939,6 @@ calabari
 cornices
 collared
 colpotomy
-calorically
 canterburies
 calaboose
 cycloidei
@@ -31324,6 +31323,7 @@ coadjument
 curers
 clubber
 cures
+calorically
 compotation
 curets
 callisthenics

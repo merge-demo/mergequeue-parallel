@@ -7638,6 +7638,7 @@ actual
 alcmene
 alcogene
 ascogonium
+assignable
 antiphilosophical
 alcohate
 assertorically
@@ -21763,7 +21764,6 @@ assign
 absorbedness
 assignability
 astrodynamics
-assignable
 atoningly
 assignably
 assignats
