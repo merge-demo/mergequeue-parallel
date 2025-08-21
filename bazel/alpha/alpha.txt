@@ -9419,6 +9419,7 @@ alruna
 arpeggiated
 antihierarchist
 alshain
+adenotyphoid
 alsike
 amylome
 avoir
@@ -10271,7 +10272,6 @@ auxometer
 anhydrated
 ars
 ameliorates
-adenotyphoid
 algins
 anacrusis
 allice
