@@ -9039,6 +9039,7 @@ carbinyl
 centaurium
 cortex
 chariot
+cheesemaking
 carcerate
 continuo
 charioting
@@ -9726,7 +9727,6 @@ cheeselep
 cheeselip
 cephalochorda
 cheesemaker
-cheesemaking
 cheesemongery
 cheesemongering
 cheeseparer

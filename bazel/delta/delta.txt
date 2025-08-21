@@ -4179,6 +4179,7 @@ delists
 delit
 demonstratorship
 dob
+dearn
 delitescent
 deliverer
 disincorporate
@@ -15418,7 +15419,6 @@ dorical
 demoralisation
 domiciled
 dissipator
-dearn
 domiciles
 domiciliate
 domiciliated
