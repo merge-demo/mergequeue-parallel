@@ -5894,7 +5894,6 @@ butterbur
 bellwether
 betaines
 bradmaker
-bellwort
 belock
 beloeilite
 basimesostasis
@@ -15149,6 +15148,7 @@ backslash
 batwa
 bribing
 bellowsmaker
+bellwort
 bloater
 breastplough
 blunted
