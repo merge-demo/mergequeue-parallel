@@ -24222,7 +24222,6 @@ automen
 archgovernor
 autometry
 autometric
-automysophobia
 assegaied
 automobile
 automobiled
@@ -24826,6 +24825,7 @@ ametabolian
 amphibolostylous
 achenial
 avolitional
+automysophobia
 astraea
 avoset
 avouch
