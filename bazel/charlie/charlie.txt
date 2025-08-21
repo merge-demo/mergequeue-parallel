@@ -2991,6 +2991,7 @@ cingular
 capsulae
 cuthbert
 contradistinction
+cepter
 cantholysis
 commonable
 chaffers
@@ -22141,7 +22142,6 @@ craftsmanly
 corrading
 calix
 clams
-cepter
 catalysts
 commaing
 camsteery
