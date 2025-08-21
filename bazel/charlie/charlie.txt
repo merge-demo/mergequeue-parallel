@@ -7847,7 +7847,6 @@ ceruminal
 costean
 cerumniparous
 chemoautotrophy
-charabancer
 clorinator
 cerussite
 centaurid
@@ -14364,6 +14363,7 @@ circummundane
 circummure
 circummuring
 convolving
+charabancer
 circumnavigable
 circumnavigate
 champers
