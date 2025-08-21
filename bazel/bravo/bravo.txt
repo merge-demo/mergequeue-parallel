@@ -9331,6 +9331,7 @@ brabbles
 besogne
 budding
 bewrathed
+borish
 brinish
 baroscope
 besquirt
@@ -15158,7 +15159,6 @@ brick
 bankruptship
 brickbat
 buttonholed
-borish
 branchiosauria
 brickbatting
 brickcroft
