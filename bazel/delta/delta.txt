@@ -5542,6 +5542,7 @@ department
 departmental
 disrobers
 desiccate
+dunting
 dealation
 diphyllous
 departmentalised
@@ -18322,7 +18323,6 @@ duodynatron
 decryptograph
 dunster
 dunstone
-dunting
 depository
 dasyproctidae
 dishonesties
