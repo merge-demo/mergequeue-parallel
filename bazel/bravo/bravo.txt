@@ -11444,7 +11444,6 @@ bluesmen
 bluestems
 beguiles
 bigeneric
-bananalander
 bivious
 barytones
 bluestockings
@@ -16326,6 +16325,7 @@ brujos
 beglerbeglik
 broadways
 biter
+bananalander
 brulee
 beknottedness
 belligerence
