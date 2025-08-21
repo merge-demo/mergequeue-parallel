@@ -12641,7 +12641,6 @@ anthodium
 arsenicize
 ameliorated
 abroad
-angelate
 angeleen
 angeleyes
 angeles
@@ -22720,6 +22719,7 @@ asgd
 armsful
 atmolysis
 atmolyzation
+angelate
 atmolyze
 afterburners
 atmology
