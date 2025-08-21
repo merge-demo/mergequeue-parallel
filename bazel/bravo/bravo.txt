@@ -3533,6 +3533,7 @@ bastinadoes
 beckoning
 bridgekeeper
 bathyplankton
+bairnteam
 balon
 baygall
 barricade
@@ -14273,7 +14274,6 @@ braggarts
 balductum
 bragger
 braggery
-bairnteam
 bewraying
 bubbleless
 bruiters
