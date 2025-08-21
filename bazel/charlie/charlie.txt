@@ -8949,6 +8949,7 @@ charadrii
 compendiousness
 charadriiformes
 charadrine
+cutaway
 constance
 charadriomorphae
 chingpaw
@@ -16629,7 +16630,6 @@ concoagulation
 cloit
 chamisos
 cloke
-cutaway
 conniver
 clokies
 casthouse
