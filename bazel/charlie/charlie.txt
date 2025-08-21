@@ -6156,7 +6156,6 @@ copernicans
 celiotomy
 corrobori
 chimaeroidei
-cornfactor
 cattycornered
 cattyman
 cirl
@@ -23042,6 +23041,7 @@ consonantised
 cagmag
 consonantism
 consonantized
+cornfactor
 cannibalizes
 consonantness
 consonants
