@@ -1881,6 +1881,7 @@ chickling
 cyanophil
 civvies
 cuttoe
+catapult
 cambium
 croupier
 cessionee
@@ -2879,7 +2880,6 @@ canonising
 canonist
 canonistical
 canonized
-catapult
 carboxyhemoglobin
 cetorhinoid
 canonizer
