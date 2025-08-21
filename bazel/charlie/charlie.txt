@@ -10775,6 +10775,7 @@ chinch
 chinchayote
 chinche
 choise
+campfire
 cytoarchitecture
 cataloger
 chincherinchee
@@ -27549,7 +27550,6 @@ coprolalia
 carangidae
 covered
 coverer
-campfire
 coverings
 comped
 cower
