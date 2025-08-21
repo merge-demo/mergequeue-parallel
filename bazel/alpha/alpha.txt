@@ -8540,7 +8540,6 @@ appendiculariidae
 antiphonetic
 anorexies
 alkylidene
-afterburners
 alkylize
 aphidiinae
 aborts
@@ -22720,6 +22719,7 @@ armsful
 atmolysis
 atmolyzation
 atmolyze
+afterburners
 atmology
 atmologic
 anisotropous

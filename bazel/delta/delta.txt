@@ -5565,7 +5565,6 @@ drainermen
 deoxygenized
 demicolumn
 depascent
-delphinoid
 deuteronomy
 disrepute
 depasture
@@ -7416,6 +7415,7 @@ detracting
 detractingly
 docetism
 destructibility
+delphinoid
 detractions
 detrainment
 detraque
