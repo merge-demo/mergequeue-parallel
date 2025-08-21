@@ -5922,7 +5922,6 @@ defenses
 depressingly
 depressingness
 denuders
-daylighting
 desecrator
 doolee
 decompression
@@ -11117,6 +11116,7 @@ dissertator
 disarticulating
 disarticulation
 detruded
+daylighting
 disarticulator
 disasinize
 deliciously
