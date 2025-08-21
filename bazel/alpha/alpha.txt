@@ -1922,6 +1922,7 @@ admiralships
 andesic
 apparelment
 acetylenic
+antony
 acetylenyl
 acetylfluoride
 appendix
@@ -5072,7 +5073,6 @@ amenia
 alphamerical
 arrantly
 aestivating
-antony
 aestive
 aestuate
 arriding

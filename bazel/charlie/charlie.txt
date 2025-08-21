@@ -4695,7 +4695,6 @@ caroused
 carousels
 carp
 carpaine
-carpalia
 carpals
 chela
 carpathian
@@ -21476,6 +21475,7 @@ coigned
 chilostomata
 counterfeiting
 caesaropopism
+carpalia
 counterplotting
 concomitance
 concomitant
