@@ -6250,6 +6250,7 @@ caudofemoral
 caudolateral
 curstness
 centetidae
+classless
 countershout
 cabbalism
 cetological
@@ -20283,7 +20284,6 @@ costeen
 commorth
 commot
 commotions
-classless
 craziness
 commove
 commoved
