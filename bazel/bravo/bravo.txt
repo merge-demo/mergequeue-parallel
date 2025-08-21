@@ -9553,7 +9553,6 @@ bogue
 bluejack
 battlements
 ballhawk
-biscayan
 biscayanism
 burnover
 barbal
@@ -16200,6 +16199,7 @@ bednighted
 balaam
 brownies
 bricklining
+biscayan
 beluga
 browniest
 blackguardize
