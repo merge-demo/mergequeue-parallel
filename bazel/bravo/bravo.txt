@@ -1253,6 +1253,7 @@ bucketsful
 balaenidae
 bambocciade
 bobbies
+benignity
 boracites
 benzothiazole
 ballyhack
@@ -6852,7 +6853,6 @@ bescatter
 branchings
 blibe
 bruchid
-benignity
 blackmailed
 bacteriotoxic
 benignancy
