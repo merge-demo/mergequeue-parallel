@@ -7098,7 +7098,6 @@ brescian
 bathyscaphes
 bespeckle
 bethylid
-bespeckled
 benzoyls
 blindman
 bespectacled
@@ -14772,6 +14771,7 @@ ballooner
 bradypepsia
 burgheress
 baru
+bespeckled
 brazil
 backropes
 bedraggled
