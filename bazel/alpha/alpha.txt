@@ -2789,7 +2789,6 @@ amaxomania
 agraffee
 acquirer
 acromastitis
-acromegaly
 analogs
 antiscience
 anguishously
@@ -10843,6 +10842,7 @@ arusa
 ammonifies
 ammonifying
 arctiidae
+acromegaly
 ammonion
 ammonitess
 ammonitic
