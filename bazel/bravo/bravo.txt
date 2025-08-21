@@ -4959,7 +4959,6 @@ bumblings
 blesse
 belgae
 barmier
-boulles
 bonaveria
 boltless
 bolases
@@ -13256,6 +13255,7 @@ bosniac
 bucketfuls
 bostanji
 bosthoon
+boulles
 bostonian
 banderillas
 burglar
