@@ -1867,6 +1867,7 @@ adstrict
 advanced
 acetable
 acetabula
+acknowledgeable
 acetabularia
 acetabulous
 atheromas
@@ -16580,7 +16581,6 @@ alula
 anabrosis
 apaturia
 augustness
-acknowledgeable
 ascribed
 aped
 apedom
