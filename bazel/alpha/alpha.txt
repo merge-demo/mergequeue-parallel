@@ -13163,7 +13163,6 @@ animistic
 anabatic
 ambivalency
 accretionary
-apraxias
 animize
 amaltas
 anilidic
@@ -22597,6 +22596,7 @@ athymia
 athymic
 antimonyl
 athing
+apraxias
 athink
 athyria
 acronymous
