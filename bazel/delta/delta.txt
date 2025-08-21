@@ -4669,7 +4669,6 @@ demipectinate
 denarius
 diswench
 demiscible
-dicebox
 denticulate
 demise
 demisecond
@@ -17493,6 +17492,7 @@ discarder
 decuplet
 dimwitted
 drowsihead
+dicebox
 drowte
 dreads
 doubleheaders
