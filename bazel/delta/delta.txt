@@ -12746,6 +12746,7 @@ diasporas
 dislluminate
 dubbings
 difference
+doffing
 dislocability
 dosimetry
 dustcloth
@@ -15004,7 +15005,6 @@ doer
 drake
 doesn
 desiccatory
-doffing
 demiracle
 dhikr
 disconsonancy
