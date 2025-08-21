@@ -2572,7 +2572,6 @@ declutch
 divise
 duad
 discouragements
-deco
 docetist
 desistence
 diplocephalous
@@ -10632,6 +10631,7 @@ diplomatists
 domer
 discogastrula
 diplomatology
+deco
 diauli
 decompressing
 diplomats
