@@ -22289,6 +22289,7 @@ calzoons
 conglomerating
 cordy
 conglomeration
+corticin
 conglomerations
 conglomeritic
 conglutinant
@@ -24467,7 +24468,6 @@ curves
 coosuc
 coot
 cootch
-corticin
 cootfoot
 cooth
 coothay
