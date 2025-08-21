@@ -26,6 +26,7 @@ cabalisms
 cereus
 caragheen
 castratory
+cascarilla
 cnicus
 cabalist
 congii
@@ -12205,7 +12206,6 @@ crossbones
 coronet
 chrysalida
 chrysalidal
-cascarilla
 chrysaline
 chromophilous
 chrysalis
