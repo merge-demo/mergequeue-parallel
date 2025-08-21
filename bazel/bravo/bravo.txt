@@ -2312,6 +2312,7 @@ blameably
 baobab
 babylonish
 biasways
+bilixanthin
 barbican
 breloque
 bathyscape
@@ -4507,7 +4508,6 @@ becudgels
 befleaing
 bocci
 bosons
-bilixanthin
 becuiba
 becurl
 bibliotherapy
