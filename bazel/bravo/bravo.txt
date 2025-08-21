@@ -12363,6 +12363,7 @@ brigades
 biskop
 baskets
 bomble
+botry
 blackbutt
 boombox
 beget
@@ -13564,7 +13565,6 @@ boughy
 boughpots
 boughs
 bougie
-botry
 benefaction
 boodlers
 barite
