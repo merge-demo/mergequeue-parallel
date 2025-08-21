@@ -7136,7 +7136,6 @@ betongue
 besprinkle
 bibliology
 briskish
-bandhor
 biaxial
 bonduc
 backless
@@ -12511,6 +12510,7 @@ boneshaker
 bridesman
 bidets
 backbeat
+bandhor
 befavor
 brunizems
 banians

@@ -8948,6 +8948,7 @@ coffle
 crosshead
 confirming
 cassinette
+coniferin
 characters
 contaction
 chasmogamy
@@ -22420,7 +22421,6 @@ conidium
 conifer
 coniferae
 castrato
-coniferin
 coniferophyte
 cuppier
 creakily
