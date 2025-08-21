@@ -1309,7 +1309,6 @@ catchwater
 calibrating
 calibre
 calibred
-calibres
 chromatophilia
 causative
 cyanohydrin
@@ -7843,6 +7842,7 @@ ceratophrys
 cerulific
 cerulignol
 cerumen
+calibres
 cerumens
 ceruminal
 costean
