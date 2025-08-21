@@ -589,7 +589,6 @@ baconweed
 bierkeller
 bonjour
 barniest
-bricoles
 bibbery
 berstel
 billmen
@@ -10025,6 +10024,7 @@ biwinter
 blackfisher
 benzolate
 blowbacks
+bricoles
 brutisms
 bixaceae
 bixaceous
