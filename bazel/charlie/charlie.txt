@@ -6335,7 +6335,6 @@ catochus
 coheaded
 cumberlandite
 cestos
-caupones
 cetiosauria
 clarinda
 caus
@@ -13807,6 +13806,7 @@ cinclus
 cephalocathartic
 cinct
 crevalles
+caupones
 cincture
 centrifugalizing
 cytidine
