@@ -14225,7 +14225,6 @@ antlered
 anthecologist
 antheia
 auteur
-alegars
 amphipodan
 anthelia
 aramaean
@@ -17463,6 +17462,7 @@ apparatchiks
 apparats
 apparatus
 arist
+alegars
 appareling
 apparency
 apparentements
