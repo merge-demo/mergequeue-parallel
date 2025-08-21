@@ -17244,6 +17244,7 @@ chrysophenine
 coagulator
 coagulators
 chagrined
+coracobrachial
 coaguline
 cestoidea
 coagulometer
@@ -24842,7 +24843,6 @@ coryzas
 coracle
 cathect
 cruciate
-coracobrachial
 clipeus
 calcimeter
 coracobrachialis

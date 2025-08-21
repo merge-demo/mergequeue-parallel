@@ -9962,6 +9962,7 @@ besauce
 baresma
 blattidae
 brevirostral
+brimfullness
 bivalency
 bawdy
 ballottine
@@ -15410,7 +15411,6 @@ brills
 baculites
 bigothero
 banns
-brimfullness
 brongniardite
 blazon
 brodeglass
