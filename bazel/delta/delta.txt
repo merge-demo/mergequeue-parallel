@@ -15263,7 +15263,6 @@ dolichosauri
 dameworts
 dracaenaceae
 dolichosauria
-dolichuric
 duplexer
 doliidae
 dolioform
@@ -17566,6 +17565,7 @@ dorsiferous
 diciest
 drumloidal
 drummer
+dolichuric
 duckhearted
 deathlike
 disavowal
