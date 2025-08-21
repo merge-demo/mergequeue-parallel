@@ -3070,7 +3070,6 @@ basculation
 bulbils
 bambuk
 blindfold
-bibliothec
 benzedrine
 baculite
 blabby
@@ -8781,6 +8780,7 @@ benders
 bines
 bimarine
 bineweed
+bibliothec
 bing
 browed
 biali
