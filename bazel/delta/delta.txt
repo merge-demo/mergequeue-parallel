@@ -3519,7 +3519,6 @@ dismissable
 digitalizing
 decadarchy
 defrayed
-doom
 deperition
 defrayers
 defraying
@@ -12179,6 +12178,7 @@ drawcansir
 dilker
 disproven
 dehusk
+doom
 depthometer
 diacetine
 dha
