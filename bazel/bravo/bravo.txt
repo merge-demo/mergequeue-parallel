@@ -14192,7 +14192,6 @@ brackish
 bacteriological
 banat
 bracon
-bedquilt
 bushwife
 bracteole
 bracteose
@@ -18180,6 +18179,7 @@ behead
 bores
 bootheel
 biodegradation
+bedquilt
 bricky
 bitterwort
 balneary
