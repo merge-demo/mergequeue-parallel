@@ -8936,7 +8936,6 @@ balked
 biogases
 biogenesis
 bleachground
-birddom
 beliked
 beautifiers
 backwort
@@ -17114,6 +17113,7 @@ backliding
 buckass
 bygones
 bullheads
+birddom
 bidialectalism
 buckwheater
 biding
