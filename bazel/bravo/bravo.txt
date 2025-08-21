@@ -3965,7 +3965,6 @@ beader
 bellmaker
 barnhardtite
 baalitical
-beerothite
 beadings
 bumbailiff
 binges
@@ -17236,6 +17235,7 @@ bawlers
 bolographically
 bumblers
 bumbles
+beerothite
 bootlaces
 bumbling
 bumbo
