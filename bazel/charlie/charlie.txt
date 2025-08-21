@@ -5895,7 +5895,6 @@ contiguous
 cubistically
 caterbrawl
 catercap
-catercorner
 camsteary
 catercornered
 catercornerways
@@ -29744,6 +29743,7 @@ crood
 croodle
 challenged
 cheder
+catercorner
 colpheg
 campanulaceous
 calcarea
