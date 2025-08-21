@@ -2031,7 +2031,6 @@ biophysicist
 banknotes
 brasserie
 bedeguar
-buffoonesque
 bicollaterality
 bankrolled
 bankrolling
@@ -14316,6 +14315,7 @@ brahmana
 balloonful
 bookboard
 bikini
+buffoonesque
 bounciness
 brahmanism
 brahmanist
