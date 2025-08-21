@@ -1244,6 +1244,7 @@ devotement
 dating
 datisca
 disaffirmative
+deoxidant
 dothienenteritis
 diarrheal
 discovert
@@ -6708,7 +6709,6 @@ desiderated
 demikindred
 diacoustics
 desideration
-deoxidant
 deathroot
 desiderative
 drunkard
