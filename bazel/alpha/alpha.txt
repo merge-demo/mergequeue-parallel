@@ -11480,7 +11480,6 @@ amarelles
 astrologous
 acidimetric
 amusette
-aptate
 amusia
 amusias
 antinatural
@@ -21912,6 +21911,7 @@ aminize
 assuetude
 annualist
 accessor
+aptate
 avantgarde
 assume
 araneidal
