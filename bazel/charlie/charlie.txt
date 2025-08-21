@@ -12092,7 +12092,6 @@ coheres
 choromanic
 cajolers
 chevreuil
-chorook
 cyclops
 choroti
 chorous
@@ -30621,6 +30620,7 @@ cucule
 credensive
 caryocar
 cerigerous
+chorook
 choregraphic
 cuculiformes
 cephaloclasia
