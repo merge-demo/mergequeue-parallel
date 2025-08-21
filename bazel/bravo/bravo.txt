@@ -9458,6 +9458,7 @@ bashes
 birma
 busted
 bernoo
+bisyllabism
 biggins
 blepharophryplasty
 banya
@@ -9637,7 +9638,6 @@ batiste
 bisyllabic
 benefactions
 burao
-bisyllabism
 braize
 bulleting
 biggening
