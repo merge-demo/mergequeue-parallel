@@ -11535,6 +11535,7 @@ blup
 barbs
 blurb
 blurbist
+bandores
 bananist
 basad
 balladries
@@ -17209,7 +17210,6 @@ bumbailiffship
 basidigitalia
 batardeau
 bulten
-bandores
 borsch
 biltongs
 bulwarked
