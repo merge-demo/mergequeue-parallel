@@ -13598,7 +13598,6 @@ bornyl
 bailiffry
 boogaloo
 boullework
-biurate
 bodying
 besand
 bowstrings
@@ -17853,6 +17852,7 @@ busaos
 bine
 busbar
 busbars
+biurate
 blackstrap
 barotse
 bused
