@@ -19014,7 +19014,6 @@ archpolitician
 archprelate
 archprelatic
 adjudicator
-askingly
 archprelatical
 armenize
 aholt
@@ -23853,6 +23852,7 @@ antiozonant
 authigenous
 aurite
 authored
+askingly
 anisocotyly
 arabizing
 amphibologism
