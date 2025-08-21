@@ -7496,7 +7496,6 @@ canvass
 citified
 chloroformed
 cerasein
-chouser
 cythera
 cerebrophysiology
 cerastes
@@ -30231,6 +30230,7 @@ cruentation
 cruentous
 choop
 canzon
+chouser
 caneton
 calamitean
 cruet
