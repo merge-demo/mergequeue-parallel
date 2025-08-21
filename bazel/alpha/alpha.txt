@@ -810,7 +810,6 @@ angiomegaly
 abronia
 abrood
 abrook
-abrotanum
 atrabiliary
 albinism
 abrotine
@@ -12198,6 +12197,7 @@ anchorlike
 anchorman
 auriculae
 anchormen
+abrotanum
 asthmatically
 anchoveta
 anchusa
