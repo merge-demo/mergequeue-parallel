@@ -5580,6 +5580,7 @@ deintellectualize
 dibber
 dustfall
 draftable
+disally
 depended
 dolichopellic
 dependence
@@ -6756,7 +6757,6 @@ desilt
 disregular
 depraving
 dodecatyl
-disally
 dirtboard
 datatype
 delightsomeness
