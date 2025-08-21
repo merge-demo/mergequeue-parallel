@@ -13675,6 +13675,7 @@ blanketmaker
 branched
 broideress
 balanceman
+bastide
 blenchers
 bowlfuls
 brashly
@@ -15751,7 +15752,6 @@ broigne
 blueprinting
 bunds
 broiled
-bastide
 blare
 beshame
 birthdays
