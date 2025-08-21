@@ -14242,7 +14242,6 @@ ditalini
 dahoman
 dressy
 ditas
-decolourizing
 daggerbush
 deme
 dene
@@ -14570,6 +14569,7 @@ directrixes
 downpouring
 divisibility
 divisibilities
+decolourizing
 divisible
 division
 durango
