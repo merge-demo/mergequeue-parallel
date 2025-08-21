@@ -6603,7 +6603,6 @@ borachio
 berdache
 battuta
 brazenly
-berdash
 byreman
 booming
 birotation
@@ -7830,6 +7829,7 @@ balneography
 botchka
 bearable
 bibelots
+berdash
 bibenzyl
 bookers
 biberon
