@@ -9335,6 +9335,7 @@ aircraft
 alphabetarian
 acclimatizable
 amphibiontic
+anuran
 acerose
 alphabetic
 alphabetical
@@ -16429,7 +16430,6 @@ anural
 aphelinus
 abogado
 acroterteria
-anuran
 acrochordidae
 anuretic
 anury

@@ -613,7 +613,6 @@ cinerarium
 caracal
 cacotrophy
 councilwomen
-caecally
 combwright
 cloakless
 coorg
@@ -8653,6 +8652,7 @@ councilorship
 calais
 cavalieres
 chandlerly
+caecally
 chandlers
 contester
 chylothorax
