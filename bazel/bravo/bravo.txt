@@ -1251,6 +1251,7 @@ barleys
 bottomer
 bruke
 bromochlorophenol
+bricktop
 bucketsful
 balaenidae
 bambocciade
@@ -6002,7 +6003,6 @@ bouncingly
 bevaring
 bemask
 brownistic
-bricktop
 bossier
 befooling
 brewis
