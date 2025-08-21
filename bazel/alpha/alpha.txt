@@ -1474,6 +1474,7 @@ acclimatiser
 acclimatising
 allgood
 aegagrus
+agnate
 algid
 alpinery
 acclimatizer
@@ -6101,7 +6102,6 @@ agminated
 agnails
 agnat
 agnatha
-agnate
 agnathic
 agnathostomata
 advenient
