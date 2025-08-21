@@ -3075,7 +3075,6 @@ dialecticize
 defalcating
 defalcation
 defalk
-dipteral
 defamation
 dingling
 detachableness
@@ -14363,6 +14362,7 @@ diureses
 diuresis
 difficile
 demogorgon
+dipteral
 democratical
 divagatory
 dermatologic
