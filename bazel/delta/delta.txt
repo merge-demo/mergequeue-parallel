@@ -7600,7 +7600,6 @@ devalues
 devas
 dird
 ditch
-devastating
 dancingly
 devastation
 disabler
@@ -10660,6 +10659,7 @@ diplopoda
 discorrespondent
 delocalization
 dissociates
+devastating
 divests
 discerptibleness
 dhuti
