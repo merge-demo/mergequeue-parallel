@@ -6960,6 +6960,7 @@ beastbane
 bewildering
 bebrine
 beshrivel
+balolo
 babblement
 beshroud
 bensil
@@ -8417,7 +8418,6 @@ bilamellate
 beaverette
 bilamellated
 bocage
-balolo
 bleareye
 bittium
 bilaminar
