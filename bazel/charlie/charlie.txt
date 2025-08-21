@@ -1451,7 +1451,6 @@ coracoscapular
 ceriornis
 carnosin
 calisayas
-clave
 chicks
 calistheneum
 curupay
@@ -12195,6 +12194,7 @@ chrestomathies
 celluliferous
 chimere
 chria
+clave
 chris
 calibogus
 caraunda
