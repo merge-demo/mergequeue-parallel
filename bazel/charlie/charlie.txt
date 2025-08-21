@@ -9556,7 +9556,6 @@ checkbooks
 calculated
 checker
 checkerbelly
-centrolepidaceous
 checkerbellies
 checkerberry
 checkerberries
@@ -18201,6 +18200,7 @@ coercionary
 coercitive
 coercive
 coerciveness
+centrolepidaceous
 coercivity
 coerebidae
 coerected
