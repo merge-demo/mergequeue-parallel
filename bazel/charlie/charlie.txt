@@ -522,6 +522,7 @@ counterreply
 cadets
 cataleptoid
 cadetship
+cyclophorus
 cadette
 counterstamp
 cadettes
@@ -25800,7 +25801,6 @@ corrodier
 corrodies
 cetene
 corroding
-cyclophorus
 cepa
 cofound
 corrosibleness
