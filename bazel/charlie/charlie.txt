@@ -759,6 +759,7 @@ conjurors
 cagy
 cagier
 cecil
+crosslets
 collybist
 clairvoyance
 cagiest
@@ -31203,7 +31204,6 @@ cupulae
 cupular
 carlines
 cupulate
-crosslets
 cupule
 convertible
 ceratophyte
