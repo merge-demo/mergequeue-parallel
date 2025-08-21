@@ -4348,7 +4348,6 @@ adulterated
 antiquary
 adulterateness
 arcturus
-adulterating
 adulterator
 antighostism
 adulterators
@@ -15757,6 +15756,7 @@ antiphilosophies
 antiphilosophism
 antiphysically
 antiphysicalness
+adulterating
 appropriament
 antiphlogistian
 asport
