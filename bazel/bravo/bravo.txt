@@ -3440,6 +3440,7 @@ beechdrops
 bastinado
 bastings
 bacteriopathology
+babesiosis
 blendure
 blepharopyorrhea
 badgerly
@@ -16019,7 +16020,6 @@ bacteriolytic
 basnet
 bauge
 blepharospath
-babesiosis
 broaden
 brontology
 bollards
