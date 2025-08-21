@@ -2000,7 +2000,6 @@ baniya
 baning
 bronchocele
 bandcutter
-bhaiachara
 banisher
 bovista
 banishing
@@ -13395,6 +13394,7 @@ brachycome
 brannier
 botryomycoma
 backcomb
+bhaiachara
 biogenetically
 banqueters
 bimbashi
