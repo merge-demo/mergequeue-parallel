@@ -2442,7 +2442,6 @@ bogles
 blencher
 bareheadedness
 bareknuckled
-bdellatomy
 bellabella
 blustery
 barenecked
@@ -12896,6 +12895,7 @@ biblicolegal
 babassus
 burdenable
 birle
+bdellatomy
 bungmaker
 babka
 boosting
