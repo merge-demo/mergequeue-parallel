@@ -1278,7 +1278,6 @@ boater
 balander
 bleaberry
 brachytmema
-bidarkees
 benzopyranyl
 beclouds
 bawdyhouses
@@ -12955,6 +12954,7 @@ bottoms
 blouson
 bittersweet
 boottop
+bidarkees
 biforous
 burgherdom
 betulaceae
