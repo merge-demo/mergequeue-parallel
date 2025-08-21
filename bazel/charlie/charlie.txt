@@ -20478,6 +20478,7 @@ comparable
 comparableness
 comparably
 cionotome
+cubbing
 comparascope
 comminuting
 comparate
@@ -30506,7 +30507,6 @@ counterweighed
 cubby
 cavin
 cubbyhouse
-cubbing
 codein
 cubbishness
 choiring
