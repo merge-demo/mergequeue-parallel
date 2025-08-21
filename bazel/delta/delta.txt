@@ -6300,6 +6300,7 @@ dermatorrhagia
 deliriant
 drossy
 dial
+downweighted
 dendrolatry
 dislaurel
 dermatosclerosis
@@ -9876,7 +9877,6 @@ defacers
 darnings
 dactylosternal
 dissertation
-downweighted
 duocosane
 dispapalize
 deists
