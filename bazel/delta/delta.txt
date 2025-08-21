@@ -1147,6 +1147,7 @@ dispaint
 demonstrative
 detick
 digitogenin
+defedation
 dactylus
 dasypus
 diparentum
@@ -3176,7 +3177,6 @@ defectoscope
 dozenths
 defectum
 dummkopf
-defedation
 dictums
 dasyures
 damselflies
