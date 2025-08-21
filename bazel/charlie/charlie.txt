@@ -4722,6 +4722,7 @@ carnie
 chlamydospore
 creditorship
 contested
+chylopoetic
 collages
 carpeting
 carpetlayer
@@ -10647,7 +10648,6 @@ chylophyllously
 cabalistically
 collielike
 cashbook
-chylopoetic
 chylopoiesis
 chilopsis
 coagulum
