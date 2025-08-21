@@ -7109,7 +7109,6 @@ defiances
 dactylitic
 deplorable
 dyskinesia
-demonomancy
 danzon
 doggishly
 dividuity
@@ -12334,6 +12333,7 @@ decametre
 disemployed
 dinos
 dragonne
+demonomancy
 disgustfulness
 disgustingly
 dealated
