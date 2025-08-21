@@ -9077,6 +9077,7 @@ cloaks
 comus
 chicadee
 charking
+cookies
 chiels
 charlady
 charladies
@@ -24090,7 +24091,6 @@ conversing
 coraled
 conversionary
 campaigning
-cookies
 conversionism
 cypria
 citycism
