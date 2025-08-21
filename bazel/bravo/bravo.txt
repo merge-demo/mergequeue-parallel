@@ -3263,6 +3263,7 @@ backstabbed
 bronzes
 backpacking
 balche
+bazar
 basiotripsy
 boobyism
 bookwork
@@ -10098,7 +10099,6 @@ bielorouss
 brogh
 blat
 beshriek
-bazar
 blackband
 blackberrylike
 bunkload
