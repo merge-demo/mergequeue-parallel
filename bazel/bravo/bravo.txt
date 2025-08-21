@@ -8264,7 +8264,6 @@ bigarades
 budgie
 broodingly
 bigaroons
-butterflyfish
 beak
 bookling
 burden
@@ -14972,6 +14971,7 @@ burtons
 besmoke
 barramundis
 bemusedly
+butterflyfish
 brimfull
 buro
 barelegged
