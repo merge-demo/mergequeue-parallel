@@ -11104,6 +11104,7 @@ disseated
 disennui
 disarms
 dishonouring
+demioctangular
 disarray
 dictatorial
 disarrays
@@ -18234,7 +18235,6 @@ dispirem
 dungas
 doghearted
 dungbeck
-demioctangular
 discussant
 drogermen
 denaturate
