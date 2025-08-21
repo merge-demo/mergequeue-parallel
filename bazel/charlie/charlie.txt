@@ -4892,7 +4892,6 @@ carriwitchet
 carrocci
 carroch
 connivers
-carrollite
 carromatas
 carromed
 carroms
@@ -16377,6 +16376,7 @@ clippingly
 clips
 camleteen
 clipse
+carrollite
 causticizer
 clipsome
 crabmeat
