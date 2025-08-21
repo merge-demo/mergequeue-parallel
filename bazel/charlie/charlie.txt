@@ -2129,7 +2129,6 @@ camper
 coniopterygidae
 channeler
 campers
-chiloma
 coadjacence
 campesinos
 campestral
@@ -5697,6 +5696,7 @@ creamware
 catoptromancy
 catastate
 catasterism
+chiloma
 chilipepper
 catastrophal
 cryptologist
