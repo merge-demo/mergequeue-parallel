@@ -14908,6 +14908,7 @@ demonism
 dowitcher
 dolorifuge
 dependencies
+dialectologic
 deglute
 dodded
 dodder
@@ -16654,7 +16655,6 @@ doctoress
 drayage
 drayhorse
 dipteraceous
-dialectologic
 drails
 dereligion
 devests
