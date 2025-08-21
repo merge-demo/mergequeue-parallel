@@ -1754,6 +1754,7 @@ bumblebeefishes
 baluba
 berogue
 baluch
+bullet
 bitripinnatifid
 broquery
 baronnes
@@ -17072,7 +17073,6 @@ bulldozed
 banefully
 bulldozing
 beduck
-bullet
 bulleted
 byepath
 bequeather
