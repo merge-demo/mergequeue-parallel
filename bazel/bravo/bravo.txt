@@ -12326,7 +12326,6 @@ babaylan
 buckpot
 bombesins
 brightsomeness
-balayeuse
 beeregar
 bombycid
 bantered
@@ -15619,6 +15618,7 @@ benzoazurine
 broadcast
 broadcastings
 bullyragging
+balayeuse
 bonnetieres
 bromeliaceous
 bacteriologist
