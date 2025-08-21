@@ -25041,7 +25041,6 @@ consarn
 chlorargyrite
 cordoned
 cordoning
-cordonnet
 chere
 cordons
 cords
@@ -29989,6 +29988,7 @@ cytinus
 crotaphitic
 crotaphytus
 crotch
+cordonnet
 citicism
 crotcheteer
 conglomerative
