@@ -8480,7 +8480,6 @@ balsameaceae
 beaches
 bemusk
 bylines
-barkle
 bilingually
 bilinguar
 balks
@@ -8881,6 +8880,7 @@ bandoras
 baisakh
 biocycle
 biocycles
+barkle
 botan
 biocidal
 biocide
