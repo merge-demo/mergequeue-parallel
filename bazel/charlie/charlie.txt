@@ -4188,7 +4188,6 @@ cardiometer
 cardiometric
 cardiomyomalacia
 cardiomyopathy
-cardioncus
 camshaft
 cardionecrosis
 cannibal
@@ -13549,6 +13548,7 @@ cartesianism
 cilery
 corsetless
 cilia
+cardioncus
 cloakedly
 ciliate
 ciliated
