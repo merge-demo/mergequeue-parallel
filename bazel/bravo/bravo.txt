@@ -9770,7 +9770,6 @@ bystreets
 bistres
 boeotarch
 brights
-borg
 bewitching
 bookish
 barleymow
@@ -12774,6 +12773,7 @@ booksellerism
 banderilleros
 bookselling
 bescreened
+borg
 boloney
 bookshop
 betoyan
