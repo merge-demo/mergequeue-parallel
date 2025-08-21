@@ -9235,7 +9235,6 @@ devolve
 discontinuor
 drosophilidae
 debarkation
-dance
 duckstone
 disilluded
 discolour
@@ -13035,6 +13034,7 @@ dyspareunia
 deliria
 diotrephes
 disparity
+dance
 disruptability
 dithecous
 dispeed
