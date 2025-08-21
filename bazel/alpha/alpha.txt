@@ -11092,6 +11092,7 @@ amperian
 amphistomum
 attenuation
 awakings
+athetosic
 antiorthodoxly
 amperometer
 anlaute
@@ -23841,7 +23842,6 @@ assignees
 authenticates
 authentication
 apathy
-athetosic
 auganite
 appositively
 angularization
