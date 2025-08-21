@@ -5721,6 +5721,7 @@ believability
 believer
 believers
 beamful
+bureaucratese
 bloomery
 blankite
 budge
@@ -12897,7 +12898,6 @@ bursectomy
 brachigerous
 blanketing
 byssogenous
-bureaucratese
 boot
 big
 bhandari
