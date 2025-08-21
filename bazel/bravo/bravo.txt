@@ -5593,6 +5593,7 @@ beknottedly
 bathythermogram
 basophile
 biotype
+byelaws
 beknow
 blimpishly
 bel
@@ -5618,7 +5619,6 @@ bewigs
 barbitone
 businessmen
 bardes
-byelaws
 bedeen
 beladying
 buzzwig
