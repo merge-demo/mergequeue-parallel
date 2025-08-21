@@ -1507,6 +1507,7 @@ arietation
 accolle
 antinovel
 accolled
+arpeggio
 apparens
 accomplishers
 accommodableness
@@ -6694,7 +6695,6 @@ accepters
 armyworm
 abucco
 alt
-arpeggio
 aeromaechanic
 andrewsite
 abnormities
