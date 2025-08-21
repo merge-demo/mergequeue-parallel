@@ -7063,7 +7063,6 @@ cuvette
 centaurea
 carretta
 cantoned
-clitellum
 centauress
 centaury
 carburetted
@@ -31250,6 +31249,7 @@ curarines
 crossbanded
 curaris
 curarization
+clitellum
 chattily
 copulations
 crocoites
