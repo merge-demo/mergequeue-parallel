@@ -14700,6 +14700,7 @@ cystoma
 cystomas
 corpusculum
 cystometer
+chowk
 cystomyoma
 cystomyxoma
 cystonectae
@@ -26435,7 +26436,6 @@ cotising
 cajuns
 cotitular
 cotland
-chowk
 cotoin
 cubit
 cotorment
