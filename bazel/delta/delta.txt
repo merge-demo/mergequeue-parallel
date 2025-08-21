@@ -1328,7 +1328,6 @@ daunder
 departure
 daundering
 didappers
-daunt
 daunted
 dhobies
 daunters
@@ -13205,6 +13204,7 @@ dovetailed
 displants
 demoralize
 determination
+daunt
 durums
 displat
 displeasance
