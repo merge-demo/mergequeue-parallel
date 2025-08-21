@@ -1087,6 +1087,7 @@ codelight
 callipee
 cantboard
 calciform
+calcaneofibular
 centesimos
 calcifugal
 calcifugous
@@ -21648,7 +21649,6 @@ clearwater
 cancelli
 condescent
 cocciform
-calcaneofibular
 condiction
 chosing
 condictious
