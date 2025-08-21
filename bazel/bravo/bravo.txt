@@ -11217,7 +11217,6 @@ bryonidin
 budorcas
 bizonia
 bestrapped
-blotchiness
 buckeye
 blote
 beaker
@@ -13469,6 +13468,7 @@ brayer
 bottlenest
 bottlenose
 bottlers
+blotchiness
 brachytic
 bottlestone
 baptismal

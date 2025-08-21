@@ -10231,6 +10231,7 @@ analgesidae
 ameboid
 ameboidism
 amedeo
+activist
 arytenoid
 ameed
 ameer
@@ -17571,7 +17572,6 @@ acuesthesia
 appendorontgenography
 antheximeter
 appendotome
-activist
 astroid
 adjoining
 appentice
