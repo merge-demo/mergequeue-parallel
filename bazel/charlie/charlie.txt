@@ -10496,6 +10496,7 @@ commorant
 cheapside
 charlottesville
 cosurety
+coterminously
 chilblained
 chilcat
 child
@@ -21309,7 +21310,6 @@ concha
 corniches
 countenance
 cogitated
-coterminously
 couponed
 cardiomalacia
 conchae
