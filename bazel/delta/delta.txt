@@ -6608,6 +6608,7 @@ desiccants
 dichotomised
 dragsawing
 domestications
+diverge
 demonstrativeness
 doyley
 diaporthe
@@ -15661,7 +15662,6 @@ departement
 directable
 doorstop
 devotionality
-diverge
 diodes
 desensitizer
 deaconize
