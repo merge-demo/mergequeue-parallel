@@ -9248,7 +9248,6 @@ dislegitimate
 drawcard
 digitaliform
 drys
-diemakers
 duckie
 dehumidifying
 dossils
@@ -14631,6 +14630,7 @@ decupling
 divorcive
 dietal
 depaysee
+diemakers
 disenthroning
 devs
 divort
