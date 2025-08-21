@@ -11997,7 +11997,6 @@ choreoid
 crocidolite
 cuittle
 chorepiscopal
-chorepiscope
 catheterize
 canoodling
 cowhages
@@ -27058,6 +27057,7 @@ counterpush
 counterquartered
 confitent
 caneva
+chorepiscope
 celibatarian
 counterraid
 cariniform
