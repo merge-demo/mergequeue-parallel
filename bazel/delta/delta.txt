@@ -1341,6 +1341,7 @@ dart
 dauntingness
 discerners
 daunton
+decipium
 duelli
 definer
 dauphine
@@ -2443,7 +2444,6 @@ drepane
 deciphering
 dunghill
 destrudo
-decipium
 diphase
 diplodocus
 dipyre
