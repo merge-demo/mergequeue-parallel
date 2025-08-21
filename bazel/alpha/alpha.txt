@@ -5377,6 +5377,7 @@ afrasia
 ammocete
 aeonial
 afresca
+aplome
 anomiidae
 axed
 acinous
@@ -16948,7 +16949,6 @@ aplodontiidae
 aplomb
 amygdaliferous
 astond
-aplome
 arrie
 administrable
 amoinder
