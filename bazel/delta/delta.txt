@@ -15844,7 +15844,6 @@ dorsicornu
 dorsiduct
 dorsiflex
 does
-dorsiflexion
 detects
 daffodowndilly
 deluge
@@ -18349,6 +18348,7 @@ dithionic
 duodecimos
 draggiest
 duodedena
+dorsiflexion
 dasi
 duodedenums
 dinah
