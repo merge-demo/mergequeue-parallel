@@ -8240,7 +8240,6 @@ damasked
 decussion
 dissectors
 dulcor
-diorism
 diadochian
 diadochic
 diadochite
@@ -13103,6 +13102,7 @@ delimitations
 deprisure
 dustlessness
 degami
+diorism
 deutocarbonate
 dispensatively
 displicency
