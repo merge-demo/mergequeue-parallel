@@ -12787,6 +12787,7 @@ disloyalty
 decrepity
 doored
 disloyalties
+dulcified
 dislove
 dandlingly
 desirously
@@ -18007,7 +18008,6 @@ disseminator
 deporture
 dentelle
 dyers
-dulcified
 dulcifluous
 defaitisme
 dulcigenic
