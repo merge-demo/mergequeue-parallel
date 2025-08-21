@@ -4049,7 +4049,6 @@ allocates
 admitters
 admitting
 admixed
-arachnomorphae
 adempted
 applausive
 azygobranchiata
@@ -5360,6 +5359,7 @@ afluking
 afore
 aforehand
 aforementioned
+arachnomorphae
 anemoclastic
 allod
 attainers
