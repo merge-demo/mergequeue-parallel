@@ -11910,6 +11910,7 @@ anaplasia
 antimitotic
 anaplasma
 anaplasmoses
+acuminate
 anaplasty
 anosmia
 anaplerosis
@@ -17103,7 +17104,6 @@ apographical
 apohyal
 autosensitization
 acuminous
-acuminate
 apoidea
 astucity
 aoristic
