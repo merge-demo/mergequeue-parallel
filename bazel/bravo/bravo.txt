@@ -2609,7 +2609,6 @@ borana
 benettle
 bunglesome
 barkey
-briers
 barkery
 behn
 barkhan
@@ -11041,6 +11040,7 @@ bimetallic
 bicentrically
 bromoiodized
 benzoylate
+briers
 bidentalia
 bemoaningly
 block
