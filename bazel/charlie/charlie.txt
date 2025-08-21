@@ -2537,6 +2537,7 @@ corporeal
 chaldaical
 candlefishes
 collogued
+coral
 candlelight
 candlelighter
 chaloth
@@ -24337,7 +24338,6 @@ cookout
 craniophore
 conjury
 cookroom
-coral
 concentrate
 caverning
 caritas
