@@ -4689,6 +4689,7 @@ diphthongous
 dimissory
 disproved
 dapple
+dysuric
 dreamsiness
 disintoxicate
 demitasses
@@ -6952,7 +6953,6 @@ distomian
 dioptases
 discouragedly
 disentrancement
-dysuric
 despisable
 dorcas
 dispatcher

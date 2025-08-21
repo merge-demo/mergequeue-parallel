@@ -9818,6 +9818,7 @@ bullyable
 battiness
 bagmen
 barbing
+begumming
 brands
 begums
 bites
@@ -11200,7 +11201,6 @@ bereavers
 beprank
 bloopers
 bloops
-begumming
 blooth
 blosmy
 biglandular
