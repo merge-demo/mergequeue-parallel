@@ -16776,7 +16776,6 @@ clothings
 catharpin
 crimpling
 clots
-clottage
 chaconne
 clotted
 cyanus
@@ -31053,6 +31052,7 @@ cossacks
 clinked
 cynophile
 clearers
+clottage
 cumuli
 chugger
 clinicopathologically
