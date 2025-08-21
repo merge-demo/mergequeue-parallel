@@ -2480,7 +2480,6 @@ disslander
 dulls
 diatropism
 dishonourary
-declaim
 dichorisandra
 dresser
 declaimer
@@ -7344,6 +7343,7 @@ duecentos
 doctrinist
 doyen
 deterrence
+declaim
 disprejudice
 deterrent
 dodunk
