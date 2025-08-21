@@ -11048,6 +11048,7 @@ deliberations
 disanimation
 disannuller
 disentanglements
+decolorimeter
 dyophysite
 disincarcerate
 dipsosis
@@ -11266,7 +11267,6 @@ dogstail
 disburse
 deictic
 duckpins
-decolorimeter
 divinistre
 definability
 deposure
