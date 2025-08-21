@@ -16053,7 +16053,6 @@ bursera
 begum
 bertillonage
 ballonets
-brook
 brooke
 bounteous
 babiana
@@ -17786,6 +17785,7 @@ bearnaise
 bandeng
 burrock
 banjoists
+brook
 buoyances
 breakback
 burroweed
