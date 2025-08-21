@@ -10264,7 +10264,6 @@ chiasmatic
 combretaceae
 chiasmatype
 counterformula
-clockings
 chiasmic
 cleruchic
 chiasms
@@ -31628,6 +31627,7 @@ carpingly
 curvimeter
 curvinerved
 curviness
+clockings
 curviserial
 curvital
 curvities
