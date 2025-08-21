@@ -7148,7 +7148,6 @@ centiday
 centigrado
 cannikin
 copt
-confluences
 centigrams
 centile
 cendre
@@ -9987,6 +9986,7 @@ carcinomas
 crackjaw
 chemotic
 cephalotaceous
+confluences
 chemotrophic
 chemotropically
 chempaduk
