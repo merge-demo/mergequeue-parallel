@@ -2169,6 +2169,7 @@ amyelotrophy
 achordata
 achordate
 achorion
+atrophiated
 anarya
 achillodynia
 achras
@@ -17300,7 +17301,6 @@ apostatize
 apostatizing
 apostaxis
 apostem
-atrophiated
 armigeral
 animalcules
 anaesthetic
