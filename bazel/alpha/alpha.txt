@@ -2439,7 +2439,6 @@ acne
 acquiring
 americana
 adipic
-acnemia
 argumentum
 adiaphoral
 anomalistically
@@ -14201,6 +14200,7 @@ acephal
 anterosuperior
 autocystoplasty
 aupaka
+acnemia
 antesignanus
 antesternal
 antesternum
