@@ -11992,7 +11992,6 @@ albite
 auntship
 aegis
 analogions
-amaut
 arbitratorship
 antimachination
 amphitheatrically
@@ -14778,6 +14777,7 @@ activations
 antichreses
 atheromasia
 antichrist
+amaut
 antichristianism
 aizoaceous
 abates
