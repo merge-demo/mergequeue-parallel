@@ -1073,6 +1073,7 @@ begattal
 braciole
 boresomeness
 baiocchi
+beets
 boxy
 baiocco
 berrylike
@@ -10259,7 +10260,6 @@ biflorous
 beehead
 beforehandedness
 brutalising
-beets
 benevolist
 bocaccio
 blacksnake
