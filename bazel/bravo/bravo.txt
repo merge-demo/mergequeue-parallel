@@ -6425,6 +6425,7 @@ benzopyrazolone
 barquentine
 benzopyrene
 bivouac
+bolts
 benzopyrylium
 breastweed
 bluestem
@@ -11964,7 +11965,6 @@ bytalk
 bogled
 boglet
 beckelite
-bolts
 bogmire
 borine
 baggit
