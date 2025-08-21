@@ -24851,7 +24851,6 @@ chompers
 coracocostal
 christiform
 coracoid
-caplan
 coracoidal
 crazedness
 crocket
@@ -30296,6 +30295,7 @@ crunched
 cruncher
 crunchers
 chooses
+caplan
 cabinetmakers
 creped
 clucks
