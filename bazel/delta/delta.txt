@@ -8249,7 +8249,6 @@ distrito
 diaglyptic
 diagnosed
 diagnostical
-diagnostically
 disenthroned
 diagnosticate
 denitrating
@@ -13118,6 +13117,7 @@ dispensingly
 dispensive
 dispeople
 daresay
+diagnostically
 deprivative
 depurging
 domesticability
