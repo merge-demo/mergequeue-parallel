@@ -6848,7 +6848,6 @@ bescatter
 branchings
 blibe
 bruchid
-bacteririum
 benignity
 blackmailed
 bacteriotoxic
@@ -7481,6 +7480,7 @@ bardism
 belayer
 beveller
 bookbinder
+bacteririum
 bardelle
 biathlon
 bedgery
