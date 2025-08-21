@@ -9064,7 +9064,6 @@ absterged
 alloxans
 arsenicalism
 anthesis
-alloxantin
 anthracoid
 alloxuraemia
 alloxuremia
@@ -14133,6 +14132,7 @@ angiitis
 anthocyan
 antepirrhema
 anteporticoes
+alloxantin
 anteporticos
 anteprohibition
 annonaceous
