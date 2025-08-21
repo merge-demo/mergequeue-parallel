@@ -5655,7 +5655,6 @@ bocher
 busks
 boraciferous
 benjoin
-bylaw
 beldams
 bacchar
 bilify
@@ -6014,6 +6013,7 @@ biphenyls
 bementite
 bemete
 bimillennia
+bylaw
 busybodies
 bemadden
 bemiring
