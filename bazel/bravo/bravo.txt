@@ -11908,6 +11908,7 @@ becrown
 boethian
 boffins
 brackmard
+basten
 balsamodendron
 boffs
 boozify
@@ -16908,7 +16909,6 @@ bugara
 buginvillaea
 bootjacks
 bong
-basten
 basiliscan
 bugleweed
 bressomer
