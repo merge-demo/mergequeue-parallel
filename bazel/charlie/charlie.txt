@@ -13274,6 +13274,7 @@ coworker
 cyclanthus
 cyclase
 cyclases
+circlets
 ciclatoun
 cyclecar
 coralbells
@@ -14185,7 +14186,6 @@ cardcastle
 conservancies
 corticoid
 cyclographer
-circlets
 coonhound
 cochleas
 circocele
