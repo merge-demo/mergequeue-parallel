@@ -6067,7 +6067,6 @@ dispends
 duplicident
 drumlike
 deputed
-demanding
 deselecting
 demolitionary
 deputes
@@ -17416,6 +17415,7 @@ direction
 dibblers
 disjoinable
 decream
+demanding
 dropsies
 dermopteran
 dropt
