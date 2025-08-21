@@ -24942,6 +24942,7 @@ centesimi
 chan
 crowbill
 coldslaw
+countersigning
 clemclemalats
 concentrating
 cubomedusae
@@ -27114,7 +27115,6 @@ cemental
 countersign
 calfbound
 cupful
-countersigning
 countersigns
 countersympathy
 carburet
