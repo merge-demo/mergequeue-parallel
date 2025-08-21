@@ -5983,7 +5983,6 @@ deprograms
 deuteron
 dropforged
 deprome
-demisphere
 drawling
 desertrice
 deprostrate
@@ -13478,6 +13477,7 @@ defamous
 diphyesis
 darnix
 disrespect
+demisphere
 disrespectable
 disrespecter
 disrespectfully
