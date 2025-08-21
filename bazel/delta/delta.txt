@@ -272,7 +272,6 @@ desynaptic
 dizzard
 dagomba
 dagswain
-daguerreotype
 dolichopodous
 dhotee
 degermed
@@ -10310,6 +10309,7 @@ draftmanship
 dighting
 dioecism
 didrachmal
+daguerreotype
 deans
 draughting
 dames
