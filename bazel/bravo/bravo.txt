@@ -7824,7 +7824,6 @@ bibiri
 brad
 barefisted
 bartizan
-bibitory
 bohmite
 biblical
 bobsledders
@@ -15692,6 +15691,7 @@ baptist
 bleaches
 bangkoks
 broccolis
+bibitory
 broch
 benzophenazine
 brochant
