@@ -1321,6 +1321,7 @@ disorder
 dault
 docetic
 dysteleologically
+deprecable
 demodulator
 daunder
 departure
@@ -5868,7 +5869,6 @@ dags
 dentaries
 dermatocoptic
 devotary
-deprecable
 deprecating
 doorbrand
 desolations

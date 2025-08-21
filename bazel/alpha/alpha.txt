@@ -3739,6 +3739,7 @@ adeniform
 anterograde
 adiaphon
 autophagia
+autoalarm
 antimechanist
 annexable
 aichmophobia
@@ -23890,7 +23891,6 @@ antiscepticism
 anepiploic
 autoagglutinating
 autoagglutinin
-autoalarm
 autoalkylation
 autoanalytic
 auriculariae
