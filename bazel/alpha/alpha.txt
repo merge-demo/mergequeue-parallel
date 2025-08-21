@@ -1654,7 +1654,6 @@ atty
 anatomism
 accrual
 accruals
-actualities
 accrued
 accruement
 accruer
@@ -25213,6 +25212,7 @@ acanthocephala
 axwort
 acquirable
 alexic
+actualities
 antiliturgical
 az
 ascogonidium
