@@ -14277,6 +14277,7 @@ carpellum
 cyclotella
 circumbulbar
 circumcallosal
+cuproscheelite
 cuckoos
 corroborating
 contingencies
@@ -31192,7 +31193,6 @@ corrosive
 cuproiodargyrite
 chalque
 cuproplumbite
-cuproscheelite
 cytoplastic
 chromaticity
 cuprose
