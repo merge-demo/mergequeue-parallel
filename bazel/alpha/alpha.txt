@@ -5117,6 +5117,7 @@ afterpart
 automate
 afara
 accend
+ambiency
 afd
 antireticular
 anticommunist
@@ -10005,7 +10006,6 @@ autarkikal
 avellan
 asyllabical
 arbutes
-ambiency
 ambiens
 anomy
 aulostomid
