@@ -3116,7 +3116,6 @@ burghemot
 bronchography
 bleat
 briskly
-brachiating
 beturbaned
 basenjis
 biphase
@@ -8639,6 +8638,7 @@ bubalis
 behear
 billtong
 basins
+brachiating
 bilobe
 besiegingly
 bilobed

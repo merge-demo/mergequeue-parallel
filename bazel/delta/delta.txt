@@ -5638,7 +5638,6 @@ diamins
 depetalize
 disorganiser
 disprivilege
-detainingly
 depravingly
 dorsumbonal
 dentistries
@@ -18198,6 +18197,7 @@ dharani
 dispensary
 duncish
 diplodus
+detainingly
 dechlog
 duncishness
 dermataneuria
