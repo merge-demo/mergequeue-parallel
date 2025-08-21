@@ -7060,7 +7060,6 @@ boweled
 bombidae
 byre
 beknots
-biodegrade
 barbute
 besouth
 bespake
@@ -12321,6 +12320,7 @@ bombed
 bomber
 bedirty
 begroaning
+biodegrade
 balatronic
 bombes
 babaylan
