@@ -9036,7 +9036,6 @@ busheler
 barbershop
 burnouts
 biontic
-brev
 biophagism
 biophilous
 biophysic
@@ -14956,6 +14955,7 @@ brecciated
 brecham
 bursar
 brechams
+brev
 brechans
 breakfaster
 bullfeast
