@@ -5012,6 +5012,7 @@ boite
 banqueteer
 braunschweiger
 beglic
+balustrades
 bloodletting
 beetleheadedness
 breakwaters
@@ -9408,7 +9409,6 @@ bouncily
 bullyhuff
 brattach
 bathman
-balustrades
 benedictus
 bridegroom
 begettal
