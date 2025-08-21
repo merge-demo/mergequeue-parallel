@@ -3973,7 +3973,6 @@ becrawl
 beaconless
 bicycles
 beslur
-beacons
 buoyancy
 beadeye
 beader
@@ -16087,6 +16086,7 @@ buccocervical
 baseman
 bosomy
 brailler
+beacons
 broomshank
 blotting
 broomsticks
