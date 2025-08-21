@@ -11926,7 +11926,6 @@ aesthesia
 adosculation
 anapnoic
 anticlea
-anapodeictic
 annihilates
 anapsid
 australopithecus
@@ -21853,6 +21852,7 @@ associateship
 aim
 ambagious
 aniselike
+anapodeictic
 achoke
 alfaquins
 acopyrin
