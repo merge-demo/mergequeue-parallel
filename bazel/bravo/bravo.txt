@@ -6949,6 +6949,7 @@ beastbane
 bewildering
 bebrine
 beshrivel
+babblement
 beshroud
 bensil
 bigmitt
@@ -16400,7 +16401,6 @@ barque
 benzdioxtriazine
 balsamy
 beshod
-babblement
 brushback
 butt
 bladesmith
