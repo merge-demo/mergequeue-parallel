@@ -10976,7 +10976,6 @@ disaffirmance
 dheri
 dictyosiphon
 disaffirmation
-decidedness
 disaffirming
 dayberry
 dissyllabising
@@ -15724,6 +15723,7 @@ dorab
 daiquiris
 divaporation
 discriminatorily
+decidedness
 dorad
 dernful
 dysaptation
