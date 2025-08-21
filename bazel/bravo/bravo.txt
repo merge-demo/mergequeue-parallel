@@ -2247,6 +2247,7 @@ birdclapper
 bannerwise
 bats
 blastment
+bauhinia
 barbarized
 beleaping
 bona
@@ -8336,7 +8337,6 @@ bemuddled
 brulot
 baryphony
 bankside
-bauhinia
 biserially
 batatilla
 belard
