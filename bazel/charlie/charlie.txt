@@ -555,6 +555,7 @@ camlets
 cadlock
 colourlessly
 cadmia
+contakionkia
 cadmic
 cateran
 convito
@@ -13792,7 +13793,6 @@ cinclides
 camphire
 composture
 cinclis
-contakionkia
 clinah
 cinclus
 cephalocathartic
