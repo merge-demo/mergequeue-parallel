@@ -6629,6 +6629,7 @@ becrimes
 bergamasca
 bergamasche
 bergamask
+butsu
 bergamo
 blastoma
 bobcat
@@ -18205,7 +18206,6 @@ bibliothecary
 bremely
 breech
 busycon
-butsu
 brushiest
 brigbote
 butteraceous
