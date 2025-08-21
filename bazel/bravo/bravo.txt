@@ -4538,6 +4538,7 @@ bater
 bool
 bedabble
 beaten
+busts
 beagles
 barricadoed
 bunch
@@ -18072,7 +18073,6 @@ blenny
 bloom
 bilaminate
 banzais
-busts
 busulfans
 bughouse
 buroo
