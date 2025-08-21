@@ -5957,7 +5957,6 @@ chevied
 carburized
 concrescible
 cathartolinum
-cathect
 cathected
 cathection
 cathects
@@ -24843,6 +24842,7 @@ charissa
 coracii
 coryzas
 coracle
+cathect
 cruciate
 coracobrachial
 clipeus
