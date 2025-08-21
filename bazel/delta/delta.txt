@@ -15808,6 +15808,7 @@ dumka
 dorp
 diphthongalize
 dorpers
+desecrate
 dorr
 doomage
 deflorations
@@ -16177,7 +16178,6 @@ disconsolacy
 dovelikeness
 diminishments
 doo
-desecrate
 dovened
 deoxygenize
 drewite
