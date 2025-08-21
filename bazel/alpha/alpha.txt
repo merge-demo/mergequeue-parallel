@@ -8873,6 +8873,7 @@ allochroic
 allochthon
 aumbries
 ambilevous
+amoebic
 allochthonous
 approves
 adscititiously
@@ -16518,7 +16519,6 @@ apaesthetic
 astronautic
 apaesthetize
 articulatory
-amoebic
 apagoge
 anophthalmus
 apagogic
