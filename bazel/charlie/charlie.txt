@@ -15267,7 +15267,6 @@ conforms
 cade
 curtailments
 clairseach
-caplan
 carpetwork
 cloisteral
 cardiemphraxia
@@ -24854,6 +24853,7 @@ chompers
 coracocostal
 christiform
 coracoid
+caplan
 coracoidal
 crazedness
 crocket
