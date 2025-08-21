@@ -7419,7 +7419,6 @@ curtains
 cephalodium
 conditionals
 cephalofacial
-cephalogram
 cephaloid
 culminates
 cuticles
@@ -27191,6 +27190,7 @@ corbelling
 catholicus
 caprine
 confessors
+cephalogram
 collodionize
 countertruth
 chelas
