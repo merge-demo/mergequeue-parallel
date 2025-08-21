@@ -9561,7 +9561,6 @@ cityful
 circularising
 cacochymia
 checkless
-checklist
 checkman
 congruencies
 checkmate
@@ -12833,6 +12832,7 @@ chaenactis
 chun
 chunam
 camuse
+checklist
 calcifies
 chunari
 congressman
