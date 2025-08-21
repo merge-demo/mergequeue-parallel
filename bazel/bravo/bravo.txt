@@ -5445,6 +5445,7 @@ beheader
 beheira
 beachward
 bulletmaking
+bargeload
 blubbery
 boardmanship
 boatable
@@ -15486,7 +15487,6 @@ batted
 backshish
 beardlike
 bullseye
-bargeload
 brioches
 blase
 bisso
