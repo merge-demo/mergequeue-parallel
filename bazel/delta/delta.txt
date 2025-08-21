@@ -5104,7 +5104,6 @@ ductings
 dravya
 dipsomania
 dafla
-dendrocoelan
 daunomycin
 dendrocoele
 dendrocolaptidae
@@ -18516,6 +18515,7 @@ durations
 durative
 durbachite
 dissimulating
+dendrocoelan
 dustwoman
 diocesans
 decolonisation
