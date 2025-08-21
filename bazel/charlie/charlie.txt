@@ -28248,7 +28248,6 @@ crashingly
 crashproof
 crashworthiness
 changable
-craspedal
 clinic
 craspedodromous
 craves
@@ -29619,6 +29618,7 @@ croci
 crociate
 crocidura
 cosinesses
+craspedal
 crock
 clashy
 cantative
