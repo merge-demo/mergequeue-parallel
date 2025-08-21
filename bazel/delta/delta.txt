@@ -588,7 +588,6 @@ dover
 dwelled
 digenea
 dodecaheddra
-diwata
 decopperization
 downweight
 desmopathologist
@@ -17671,6 +17670,7 @@ dualize
 dvorak
 decare
 desulphurating
+diwata
 disapprovingly
 dystopia
 demonomancy
