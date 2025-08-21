@@ -430,6 +430,7 @@ dorsoanterior
 drinker
 dairywomen
 descanting
+decametric
 ditchwater
 dayrooms
 deities
@@ -2105,7 +2106,6 @@ decameron
 digraph
 dihydrol
 decamethonium
-decametric
 decanal
 decancellate
 dominator
