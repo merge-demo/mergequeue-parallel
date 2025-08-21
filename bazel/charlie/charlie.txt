@@ -2552,6 +2552,7 @@ confraternities
 choosable
 candlelighting
 candlelit
+coituses
 cohusband
 carvels
 candlemaker
@@ -25597,7 +25598,6 @@ corporateness
 corporationer
 corporationism
 countergift
-coituses
 chasable
 corporations
 calquing
