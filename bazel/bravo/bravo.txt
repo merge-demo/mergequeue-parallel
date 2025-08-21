@@ -4070,7 +4070,6 @@ begottenness
 bedeafen
 brooked
 beancod
-beaner
 beanery
 beanfeast
 beanfield
@@ -8022,6 +8021,7 @@ bumping
 bodle
 bleakish
 betrumpet
+beaner
 bicolorous
 betrayal
 bicolors
