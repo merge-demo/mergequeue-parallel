@@ -2973,7 +2973,6 @@ chytrid
 cantharidate
 cantharides
 coation
-cantharidian
 cycloacetylene
 cantharidize
 cantharidized
@@ -19263,6 +19262,7 @@ cutover
 collun
 couthe
 collunaria
+cantharidian
 conceptism
 convincer
 calloo
