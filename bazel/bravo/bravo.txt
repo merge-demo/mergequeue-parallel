@@ -7524,7 +7524,6 @@ becco
 besmoothing
 bonitoes
 bevomiting
-briefer
 bevomits
 bread
 bevvy
@@ -17930,6 +17929,7 @@ bearbine
 bioclean
 bushmaking
 branial
+briefer
 bibliopoly
 bushman
 bisinuate
