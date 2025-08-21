@@ -16322,7 +16322,6 @@ constringency
 contraindicate
 clinoid
 clinology
-clinometer
 clinometry
 cantos
 canisters
@@ -19847,6 +19846,7 @@ counselled
 carassows
 comediant
 chaplin
+clinometer
 comedical
 coprosma
 comediette
