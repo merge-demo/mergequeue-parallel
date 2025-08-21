@@ -2181,7 +2181,6 @@ campy
 campier
 campiest
 campignian
-classroom
 campylite
 campylometer
 cynicist
@@ -4828,6 +4827,7 @@ carrack
 cymulose
 cycling
 corallita
+classroom
 carracks
 chronobarometer
 carragheenin
