@@ -7108,6 +7108,7 @@ caisson
 chisedec
 centerable
 cutup
+corbicula
 centerboard
 centerer
 centerfold
@@ -24966,7 +24967,6 @@ corby
 cannet
 cystine
 chummiest
-corbicula
 corbiculate
 cellulolytic
 corbiculum
