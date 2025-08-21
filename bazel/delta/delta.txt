@@ -2942,6 +2942,7 @@ deductible
 deciduata
 delinquent
 depositional
+derivatively
 discrown
 diaphanotype
 describers
@@ -18572,7 +18573,6 @@ dissimilitude
 dusky
 dessil
 dozer
-derivatively
 dapico
 duikers
 disproportionable
