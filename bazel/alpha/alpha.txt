@@ -1069,6 +1069,7 @@ abubble
 abuilding
 abuleia
 antitorpedo
+allegers
 abulia
 atticizing
 amphiboliferous
@@ -8620,7 +8621,6 @@ atmophile
 allegata
 allegate
 allegations
-allegers
 antiatheistical
 alleges
 autoincremented
