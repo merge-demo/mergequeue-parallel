@@ -94,6 +94,7 @@ corydora
 cabecudo
 capellet
 cabeliau
+cloying
 carcinosarcomas
 cabestro
 cabestros
@@ -13541,7 +13542,6 @@ cornichon
 cartesianism
 cilery
 corsetless
-cloying
 cilia
 cloakedly
 ciliate
