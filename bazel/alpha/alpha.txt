@@ -6975,6 +6975,7 @@ ajoint
 amphoriloquy
 ajourise
 arolium
+apasttra
 angulodentate
 ajuga
 ajutment
@@ -8666,7 +8667,6 @@ allegresse
 allegrettos
 alectrion
 autonomically
-apasttra
 annulosan
 archigenesis
 askeses
