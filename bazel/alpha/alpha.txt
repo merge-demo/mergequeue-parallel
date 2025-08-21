@@ -1872,7 +1872,6 @@ atheromas
 acetabulums
 acetacetic
 autopsic
-acetalize
 acetals
 acetamidin
 arrector
@@ -9361,6 +9360,7 @@ anguishful
 austringer
 alphamerically
 archtyrant
+acetalize
 alphanumerics
 approachers
 areole
