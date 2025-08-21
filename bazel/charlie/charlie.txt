@@ -15276,7 +15276,6 @@ cynomoriaceous
 claith
 clubmen
 clayton
-chinkers
 claiver
 crucigerous
 ceromancy
@@ -28632,6 +28631,7 @@ coccogonium
 condisciple
 chally
 cremation
+chinkers
 cremationism
 cremationist
 coliseums
