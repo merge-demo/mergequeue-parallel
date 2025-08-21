@@ -6681,6 +6681,7 @@ anthemene
 ainhum
 arrivederla
 arthropleure
+axonometry
 amortisable
 alien
 ainoi
@@ -16156,7 +16157,6 @@ antisophist
 antisophistication
 antisoporific
 antispasmodic
-axonometry
 adradially
 antispastic
 aplustre
