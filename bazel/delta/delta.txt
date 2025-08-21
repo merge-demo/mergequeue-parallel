@@ -5802,7 +5802,6 @@ depopulative
 dowve
 demipuppet
 dovekeys
-decaliter
 deportability
 deportations
 decriminalized
@@ -9918,6 +9917,7 @@ dimensioning
 degummer
 disangularize
 diphenyl
+decaliter
 dimer
 deludable
 deboner
