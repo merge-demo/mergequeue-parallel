@@ -7217,6 +7217,7 @@ dimethylamino
 detected
 darns
 disenchantingly
+direful
 detecter
 detecters
 decentralist
@@ -10840,7 +10841,6 @@ desugared
 dapples
 deposable
 deificatory
-direful
 direfully
 dirempt
 direness

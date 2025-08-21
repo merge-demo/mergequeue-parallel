@@ -6945,6 +6945,7 @@ conducibleness
 camis
 ceratomandibular
 clocklike
+crossable
 cranially
 celtuce
 cappadochio
@@ -30621,7 +30622,6 @@ choregraphic
 cuculiformes
 cephaloclasia
 coleopteral
-crossable
 coprology
 cucullate
 contravened
