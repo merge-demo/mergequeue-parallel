@@ -10682,6 +10682,7 @@ derivable
 declinometer
 downstreet
 dogman
+demulcent
 digoxin
 derationalize
 doorboy
@@ -18373,7 +18374,6 @@ desecrating
 duodenoenterostomy
 dreamish
 dorse
-demulcent
 denudative
 duodenojejunostomies
 dillue
