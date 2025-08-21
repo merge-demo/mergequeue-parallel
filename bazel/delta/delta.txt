@@ -12711,7 +12711,6 @@ disperiwig
 diacromyodian
 disliked
 disliken
-duma
 drawshave
 dislikeness
 dikage
@@ -16815,6 +16814,7 @@ dissenters
 dreeing
 disconsonant
 difficult
+duma
 drawcut
 devex
 drawee

@@ -5938,6 +5938,7 @@ convolutionary
 cathay
 cathayan
 cathar
+cribbage
 cathari
 catharina
 carminite
@@ -8508,7 +8509,6 @@ chromotherapist
 cherished
 chamos
 chamosite
-cribbage
 chamotte
 coarbiter
 cauligenous
