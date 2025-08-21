@@ -2842,7 +2842,6 @@ decuman
 deperm
 desensitizations
 dramatizations
-donors
 dynatron
 decumanus
 daphnin
@@ -12829,6 +12828,7 @@ dismals
 disman
 dismantles
 darksome
+donors
 debit
 dishevelment
 dyarchic
