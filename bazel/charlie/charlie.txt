@@ -5373,6 +5373,7 @@ castellany
 crizzling
 castellanies
 castellano
+cosmonaut
 castellans
 cinerararia
 chaufer
@@ -6609,7 +6610,6 @@ cheroot
 cdg
 cdr
 cesspool
-cosmonaut
 celibates
 ceanothus
 cearin
