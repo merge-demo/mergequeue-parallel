@@ -5287,6 +5287,7 @@ cassegrain
 chromomeric
 cassegrainian
 casseroling
+carpophore
 carinule
 cataleptic
 conduced
@@ -13882,7 +13883,6 @@ cinematographies
 cinematographist
 chords
 contortive
-carpophore
 cysticercoid
 carcinophobia
 cinenchyma
