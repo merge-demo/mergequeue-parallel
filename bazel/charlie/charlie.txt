@@ -11009,7 +11009,6 @@ cheekish
 comitatus
 cystoscopic
 chiropodial
-chiropodic
 chiropodical
 caphite
 cavascope
@@ -19301,6 +19300,7 @@ cuidado
 coloenteritis
 closefitting
 colog
+chiropodic
 choel
 cologs
 colola
