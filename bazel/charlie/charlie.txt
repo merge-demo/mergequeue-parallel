@@ -19118,6 +19118,7 @@ callable
 colliflower
 cruset
 colliform
+conurus
 colligate
 colligating
 cookbook
@@ -23929,7 +23930,6 @@ conumerous
 conundrums
 conurbation
 cricke
-conurus
 conus
 cypris
 cytometer
