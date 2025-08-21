@@ -2364,7 +2364,6 @@ acouchy
 albardine
 aldopentose
 acinary
-autolyze
 abridgedly
 acone
 autocondensation
@@ -20664,6 +20663,7 @@ adjudgeable
 aborsement
 amimia
 articulates
+autolyze
 ashlering
 alike
 articulationist
