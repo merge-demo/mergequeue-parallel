@@ -11069,6 +11069,7 @@ drink
 deedy
 denumerability
 decernment
+divisor
 disappendant
 dobras
 dactyliology
@@ -14593,7 +14594,6 @@ divisive
 divisively
 develope
 decomposition
-divisor
 desalinize
 divergenge
 dondine
