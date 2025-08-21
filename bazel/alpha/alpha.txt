@@ -1092,6 +1092,7 @@ abundancy
 apyrase
 abundant
 anachronical
+apert
 abundantly
 abune
 abura
@@ -16622,7 +16623,6 @@ alleger
 aperitif
 acaroid
 apers
-apert
 arsonation
 anticlassically
 apraxic
