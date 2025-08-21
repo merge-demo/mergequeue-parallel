@@ -5183,6 +5183,7 @@ abnegative
 affiance
 affianced
 angakok
+aerophilic
 affiancing
 antievolutionistic
 affiants
@@ -11733,7 +11734,6 @@ autonomies
 anosphrasia
 anchietea
 analcimite
-aerophilic
 aggrieved
 aerosporin
 aiawong
