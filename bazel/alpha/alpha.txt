@@ -444,7 +444,6 @@ abintestate
 amplitudes
 apathist
 acousmas
-abiogenetical
 abiogenetically
 apothems
 anonychia
@@ -1748,6 +1747,7 @@ amidships
 accused
 accusers
 achatour
+abiogenetical
 accusing
 accusor
 accustomation
