@@ -9210,6 +9210,7 @@ damascenes
 dermomuscular
 dwt
 diminutively
+devises
 diedric
 deuteromorphic
 diego
@@ -13677,7 +13678,6 @@ degases
 dissymmetric
 degender
 dampy
-devises
 dynamis
 disturbances
 dissymmetrically
