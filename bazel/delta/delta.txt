@@ -2940,7 +2940,6 @@ drawstop
 deducted
 debunking
 deductible
-deciduata
 delinquent
 depositional
 derivatively
@@ -14754,6 +14753,7 @@ dobos
 dobson
 dactyloscopic
 detained
+deciduata
 decahedral
 doctorbird
 doc
