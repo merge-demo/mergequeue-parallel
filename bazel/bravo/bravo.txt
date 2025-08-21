@@ -1348,6 +1348,7 @@ bacule
 baldachin
 bristliest
 bhaiachari
+bichromic
 bibliotherapist
 blankminded
 brauronia
@@ -17371,7 +17372,6 @@ bunglers
 bungling
 bullit
 bungos
-bichromic
 bamboozler
 baetylic
 blencorn
