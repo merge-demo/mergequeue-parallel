@@ -3919,7 +3919,6 @@ devested
 derivation
 dactyloid
 dejects
-dejecture
 dejeration
 dejeuner
 dekadrachm
@@ -15315,6 +15314,7 @@ dissectible
 durante
 dendroclastic
 decelerate
+dejecture
 droopt
 decalcomania
 didelphyidae
