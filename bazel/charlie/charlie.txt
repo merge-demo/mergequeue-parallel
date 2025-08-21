@@ -8599,6 +8599,7 @@ chancellors
 califates
 chancellorship
 chancellorships
+cilices
 chancelor
 cedre
 capillaire
@@ -13563,7 +13564,6 @@ coolish
 ciliates
 canoness
 catalogued
-cilices
 comedia
 caseating
 ciliella
