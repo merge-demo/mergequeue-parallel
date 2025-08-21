@@ -2432,6 +2432,7 @@ cystidiums
 conemaking
 cancerogenic
 circumcentral
+comitium
 cancerophobe
 cancerophobia
 cancerous
@@ -19960,7 +19961,6 @@ comity
 comitia
 comitial
 colortype
-comitium
 cuscuses
 comitje
 chunters
