@@ -17426,7 +17426,6 @@ clivises
 craythur
 coatie
 cretinized
-coatis
 coatless
 coatrack
 coatroom
@@ -20879,6 +20878,7 @@ compositors
 cashed
 coacted
 compositure
+coatis
 compossible
 cataleptically
 cassalty
