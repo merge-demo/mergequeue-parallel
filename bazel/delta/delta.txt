@@ -4916,7 +4916,6 @@ dialogist
 demonologer
 demonology
 demonologically
-disluster
 duteously
 densitometers
 demonomist
@@ -7387,6 +7386,7 @@ detectability
 detouring
 dermacentor
 daric
+disluster
 detoxicant
 dehorter
 dicyclist
