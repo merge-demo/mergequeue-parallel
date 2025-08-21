@@ -25881,7 +25881,6 @@ corsetry
 continuative
 corsets
 contra
-chopboat
 corsy
 carillonneurs
 corsican
@@ -31249,6 +31248,7 @@ chattily
 copulations
 crocoites
 canids
+chopboat
 communisation
 curarizing
 curate
