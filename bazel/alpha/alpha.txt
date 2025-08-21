@@ -3256,6 +3256,7 @@ abloom
 acutilobate
 acutiplantar
 atterminal
+alevins
 archibenthos
 amnioallantoic
 antinationally
@@ -10723,7 +10724,6 @@ anabolitic
 antaphrodisiac
 aqueoigneous
 apprize
-alevins
 amire
 amyris
 abattis
