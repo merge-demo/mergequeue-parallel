@@ -3561,6 +3561,7 @@ adenoacanthoma
 adenocarcinoma
 adenocarcinomas
 adenocarcinomata
+anaphylactically
 adenochondroma
 antipellagric
 adenochrome
@@ -11889,7 +11890,6 @@ apperception
 apexing
 astrometry
 ancille
-anaphylactically
 araliaceae
 apostrophal
 anaphylactin
