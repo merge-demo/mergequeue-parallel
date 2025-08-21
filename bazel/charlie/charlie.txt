@@ -1596,7 +1596,6 @@ callowest
 cretinization
 clothmaker
 callowman
-cleistogamic
 callowness
 cholecystalgia
 clarice
@@ -28052,6 +28051,7 @@ cramming
 chameleonic
 crammingly
 cramoisies
+cleistogamic
 cramp
 cramped
 colonalgia
