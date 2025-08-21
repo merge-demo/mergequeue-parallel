@@ -1220,6 +1220,7 @@ calef
 calefacient
 craunched
 caudad
+carpintero
 calefactive
 coterell
 crzette
@@ -28438,7 +28439,6 @@ contrepartie
 creance
 chabot
 creancer
-carpintero
 creant
 creased
 countertenors
