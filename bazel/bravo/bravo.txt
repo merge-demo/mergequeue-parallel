@@ -33,7 +33,6 @@ berreave
 beatificate
 berline
 babbittry
-banally
 brachydomal
 bodleian
 brutalizes
@@ -4521,6 +4520,7 @@ becushioned
 befogged
 beglamour
 bed
+banally
 bienness
 biradiated
 bathroot
