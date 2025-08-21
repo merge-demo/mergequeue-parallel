@@ -2070,7 +2070,6 @@ decal
 dodecylic
 dilatory
 decalage
-dinghy
 decalcifies
 dartle
 dendrography
@@ -4961,6 +4960,7 @@ debussy
 demoralizes
 demorphism
 decate
+dinghy
 demospongiae
 demosthenean
 deckels

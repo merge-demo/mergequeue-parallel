@@ -4775,6 +4775,7 @@ clementine
 canicular
 carpocephalum
 caryotins
+counterstroke
 carpocerite
 carpocratian
 carpogam
@@ -27143,7 +27144,6 @@ counterstimulation
 counterstimulus
 counterstock
 counterstratagem
-counterstroke
 cyclopoid
 clientless
 cellulate
