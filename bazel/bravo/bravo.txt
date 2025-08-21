@@ -2131,6 +2131,7 @@ bantering
 banteringly
 banty
 betangle
+beaugregories
 bribery
 bantu
 bantus
@@ -7094,7 +7095,6 @@ blindman
 bespectacled
 beefless
 besped
-beaugregories
 babblish
 becalmed
 bawdiness
