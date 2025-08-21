@@ -3526,6 +3526,7 @@ clamer
 capsulitis
 capsulizing
 cabman
+cneorum
 capsulogenous
 cataphyllum
 capsulolenticular
@@ -17073,7 +17074,6 @@ contributary
 castorized
 cnemidium
 cnemis
-cneorum
 cytotrophy
 cnicin
 cnidae
