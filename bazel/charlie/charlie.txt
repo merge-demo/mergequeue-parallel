@@ -18900,7 +18900,6 @@ chapt
 cathecting
 curvilinearity
 corymbiform
-coliforms
 codisjunct
 communicational
 chaetophoraceae
@@ -31364,6 +31363,7 @@ cystoadenoma
 curiam
 constitutionist
 curiara
+coliforms
 curiate
 chromocollotypy
 clothespin
