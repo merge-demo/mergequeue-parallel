@@ -1590,6 +1590,7 @@ dorsum
 distrouble
 deaf
 dynamogenous
+decimate
 destuffing
 deafened
 dummered
@@ -3741,7 +3742,6 @@ disprove
 desmitis
 dehkan
 durmasts
-decimate
 defaceable
 dehonestation
 disoccupied
