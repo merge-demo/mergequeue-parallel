@@ -3750,7 +3750,6 @@ bacterian
 blastomeric
 batwing
 baysmelt
-beswitch
 betatrons
 batwomen
 brevipennate
@@ -13929,6 +13928,7 @@ belugas
 barylite
 brooky
 boxcars
+beswitch
 bishopful
 barwing
 billete
