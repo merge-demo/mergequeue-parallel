@@ -8693,6 +8693,7 @@ channel
 channelbill
 coendou
 couching
+cresting
 channeling
 clubbish
 channelize
@@ -12369,7 +12370,6 @@ coastside
 christopher
 christos
 christward
-cresting
 chromaffinic
 chromamamin
 corelate
