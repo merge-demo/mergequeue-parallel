@@ -22322,6 +22322,7 @@ apothegm
 achenia
 astrologaster
 astrologers
+aurite
 archcorrupter
 astrology
 astrologically
@@ -23856,7 +23857,6 @@ authigene
 authigenetic
 antiozonant
 authigenous
-aurite
 authored
 askingly
 anisocotyly

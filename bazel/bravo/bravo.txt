@@ -17549,7 +17549,6 @@ bhima
 bobble
 bascule
 broadacre
-bothrops
 burgality
 beaufort
 bouses
@@ -17986,6 +17985,7 @@ bleeze
 beguiler
 businesses
 beadeyes
+bothrops
 babbool
 bennel
 bagle
