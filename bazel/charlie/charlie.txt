@@ -3751,7 +3751,6 @@ caraway
 caraways
 carbachol
 chirata
-carbacidometer
 croceines
 cryoprotective
 carbamate
@@ -13591,6 +13590,7 @@ corenounce
 crozed
 castigative
 ciliotomy
+carbacidometer
 cilium
 chloroformize
 cylix
