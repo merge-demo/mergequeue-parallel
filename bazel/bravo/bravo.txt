@@ -16019,7 +16019,6 @@ broaden
 brontology
 bollards
 barbiturates
-bearpaw
 burgessdom
 brontosauruses
 buying
@@ -16638,6 +16637,7 @@ balconette
 buchonite
 buck
 bayamo
+bearpaw
 buckaroo
 bombazet
 bokmakierie
