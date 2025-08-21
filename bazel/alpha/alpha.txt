@@ -14497,7 +14497,6 @@ anthropomorphitical
 anthropomorphized
 anthropomorphology
 anthropomorphologically
-atta
 anthropomorphously
 arthrozoan
 anthroponomy
@@ -14845,6 +14844,7 @@ anticipations
 anticipative
 attensity
 activeness
+atta
 antinepotic
 ateleological
 antliate
