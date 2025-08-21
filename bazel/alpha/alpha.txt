@@ -10524,6 +10524,7 @@ auguration
 antihypnotic
 ameliorativ
 amidoplast
+amyridaceae
 amaryllid
 amidoplastid
 amidoxyl
@@ -10950,7 +10951,6 @@ asbestine
 amoebobacter
 anglomaniac
 apulse
-amyridaceae
 amoebobacterieae
 amoebocyte
 amoebogeniae
