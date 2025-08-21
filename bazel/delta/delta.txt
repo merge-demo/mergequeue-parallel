@@ -13743,7 +13743,6 @@ despoiling
 diphosgene
 disturbation
 discoids
-doorplate
 divalent
 dejecta
 demulsion
@@ -16377,6 +16376,7 @@ defrost
 downstrokes
 downtake
 desiatin
+doorplate
 duodecane
 dewret
 downthrown
