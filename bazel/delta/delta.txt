@@ -2238,7 +2238,6 @@ danes
 dishelm
 deceit
 dedan
-deceitfulness
 debase
 dinoflagellatae
 dungeonlike
@@ -2843,6 +2842,7 @@ diaclasis
 decubiti
 ditheism
 deculturate
+deceitfulness
 driverless
 decuman
 deperm
