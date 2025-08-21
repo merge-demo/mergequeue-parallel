@@ -11362,7 +11362,6 @@ artels
 alupag
 auguster
 amplexus
-amplexuses
 autocephaly
 absorptance
 ampliative
@@ -14789,6 +14788,7 @@ arabite
 aforetime
 anglicisms
 ascomycetes
+amplexuses
 abnormalise
 antichrists
 abearance
