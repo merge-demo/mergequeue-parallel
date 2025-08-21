@@ -12622,6 +12622,7 @@ cuckoldy
 chronocyclegraph
 crake
 chronocrator
+cutinization
 chronogeneous
 chronogram
 chronogrammatic
@@ -15457,7 +15458,6 @@ clapperclaw
 cloragen
 clappered
 clappers
-cutinization
 clapping
 claps
 consecratedness
