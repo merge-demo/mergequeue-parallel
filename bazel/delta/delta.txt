@@ -13265,6 +13265,7 @@ disponge
 diacetate
 digynia
 despondency
+desoxyribonuclease
 dineric
 disportment
 despise
@@ -16634,7 +16635,6 @@ dilutant
 detesting
 dragonwort
 dabber
-desoxyribonuclease
 dragoonable
 dation
 dirt
