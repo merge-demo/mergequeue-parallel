@@ -9990,7 +9990,6 @@ bivocalized
 bombings
 bivoluminous
 bivouaced
-bivouacked
 balaphon
 brawlys
 bodes
@@ -17533,6 +17532,7 @@ bureaucratization
 breastpiece
 blepharoclonus
 bureaucratizes
+bivouacked
 boletic
 bureaucratizing
 brisket
