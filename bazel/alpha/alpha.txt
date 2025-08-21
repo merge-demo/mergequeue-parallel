@@ -3885,7 +3885,6 @@ amores
 aversely
 agonied
 aphidian
-adjugate
 adjument
 alarmed
 argentamide
@@ -11363,6 +11362,7 @@ auguster
 amplexus
 autocephaly
 absorptance
+adjugate
 ampliative
 aiguiere
 amplication
