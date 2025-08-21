@@ -13979,7 +13979,6 @@ discrepance
 dacryadenalgia
 dorsispinal
 doggones
-defoam
 dunking
 discohexaster
 distomatosis
@@ -14377,6 +14376,7 @@ deadheaded
 diurn
 dhaman
 diurna
+defoam
 dyer
 diurnal
 deuterogenic
