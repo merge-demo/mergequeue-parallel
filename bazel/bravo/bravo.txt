@@ -2126,6 +2126,7 @@ banter
 banterers
 bloodlessness
 bantery
+buzzer
 boxfishes
 bantering
 banteringly
@@ -16826,7 +16827,6 @@ buffier
 buffiest
 blighties
 birdcalls
-buzzer
 battak
 butut
 betas
