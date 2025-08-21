@@ -5584,7 +5584,6 @@ burrio
 brassicaceous
 bacchuslike
 beknottedly
-bathythermogram
 basophile
 biotype
 byelaws
@@ -10701,6 +10700,7 @@ buffle
 benton
 balanophora
 bullweeds
+bathythermogram
 blenching
 blend
 bestill
