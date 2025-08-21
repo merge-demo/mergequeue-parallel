@@ -8234,7 +8234,6 @@ cynips
 chairladies
 cordia
 cordaitalean
-claxons
 chairmaking
 crystallogenetic
 chairmaning
@@ -14986,6 +14985,7 @@ counterpray
 curding
 compactness
 coenogamete
+claxons
 continuedly
 cordites
 chupak

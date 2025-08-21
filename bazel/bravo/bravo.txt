@@ -398,7 +398,6 @@ bewailed
 bladderpod
 bathinette
 backlings
-balletic
 bummed
 bixbyite
 bhutani
@@ -8913,6 +8912,7 @@ bounty
 bioecologically
 balatong
 bioelectrical
+balletic
 byliner
 bioengineering
 basidiomycetes
