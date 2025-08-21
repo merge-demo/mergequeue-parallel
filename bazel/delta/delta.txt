@@ -2271,7 +2271,6 @@ depurator
 decennal
 decennial
 dingdongs
-decennium
 diagraphical
 dohter
 decennoval
@@ -12598,6 +12597,7 @@ dispiritedness
 dextrer
 disintegrity
 disinter
+decennium
 disinterest
 disinterestedly
 disinterestedness
