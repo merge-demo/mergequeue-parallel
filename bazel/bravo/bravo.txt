@@ -5553,7 +5553,6 @@ bagnette
 barrette
 basihyoid
 bloodguiltless
-blackeners
 brutified
 bejuggle
 bejumbles
@@ -16556,6 +16555,7 @@ bubblers
 brachyurus
 bullshitting
 brawny
+blackeners
 bareboats
 bubbletop
 banderoled
