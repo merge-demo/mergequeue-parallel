@@ -5829,6 +5829,7 @@ categorised
 chansonnier
 cultivated
 cochlearia
+cupeled
 chemicopharmaceutical
 cuemanship
 cleaves
@@ -27882,7 +27883,6 @@ corms
 cracca
 craccus
 crachoir
-cupeled
 cracinae
 changuinan
 compurgation
