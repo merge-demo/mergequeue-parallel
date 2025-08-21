@@ -1967,6 +1967,7 @@ cetiosaurus
 camerated
 cameration
 cartage
+coimplicate
 camery
 camerier
 camerine
@@ -18240,7 +18241,6 @@ camorrist
 coevalness
 crisscross
 coevolution
-coimplicate
 calumniousness
 cryochoric
 coexecutor
