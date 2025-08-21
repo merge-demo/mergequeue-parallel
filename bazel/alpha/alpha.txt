@@ -7326,6 +7326,7 @@ avenues
 adjuvant
 albedo
 antidisestablishmentarian
+apposers
 alum
 albedometer
 albee
@@ -17770,7 +17771,6 @@ asterales
 astraeidae
 apposer
 antiaris
-apposers
 alida
 arras
 apposition
