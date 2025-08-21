@@ -10932,7 +10932,6 @@ chypre
 cariacine
 chipwood
 chiquito
-clavate
 chiral
 clerids
 cardstock
@@ -26030,6 +26029,7 @@ cosentiency
 consignor
 cosentient
 crannoge
+clavate
 cosettler
 cosh
 coshed
