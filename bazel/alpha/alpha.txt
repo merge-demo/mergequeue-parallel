@@ -1802,7 +1802,6 @@ acentrous
 alizarine
 anastalsis
 antacrid
-acephali
 afterage
 anthropomorphous
 acephalist
@@ -10069,6 +10068,7 @@ amblydactyla
 argusfish
 amblygonal
 allergology
+acephali
 amblygonite
 attractant
 absinthic
