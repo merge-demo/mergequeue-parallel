@@ -9591,7 +9591,6 @@ algivorous
 aluco
 alpaca
 amazia
-antirennet
 antiepiscopist
 aluconinae
 anthocerotaceae
@@ -17293,6 +17292,7 @@ apostatise
 abthain
 astomatal
 apostatism
+antirennet
 agathaea
 aumail
 apostatize
