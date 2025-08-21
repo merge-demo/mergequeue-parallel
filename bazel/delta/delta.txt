@@ -9318,6 +9318,7 @@ depletable
 diluvions
 depilation
 dietrichite
+dayglow
 duvetine
 dyeware
 delisted
@@ -15858,7 +15859,6 @@ disgusting
 diablerie
 dorsocentral
 diminishing
-dayglow
 disfrancnise
 distillers
 disprovable
