@@ -3321,7 +3321,6 @@ dilatant
 depurge
 deliriate
 diastem
-demitting
 desisted
 destiny
 domesticable
@@ -9676,6 +9675,7 @@ dihydroxysuccinic
 dosshouse
 dulse
 digitise
+demitting
 dalasis
 disasterly
 dowcet
