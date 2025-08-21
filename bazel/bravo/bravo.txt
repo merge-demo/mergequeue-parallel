@@ -7806,6 +7806,7 @@ bicephalous
 bogman
 biface
 bark
+bewail
 bibacity
 belauds
 bronzy
@@ -11243,7 +11244,6 @@ blottier
 bibliophilistic
 bridgeable
 bescouring
-bewail
 burez
 blasts
 brightening
