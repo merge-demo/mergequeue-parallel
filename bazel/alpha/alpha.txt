@@ -5400,7 +5400,6 @@ afrit
 adeliza
 armary
 adored
-aulic
 agaces
 attuned
 antiputrid
@@ -18794,6 +18793,7 @@ archgunner
 archheart
 aoristically
 archheretic
+aulic
 aikuchi
 augends
 archhypocrisy
