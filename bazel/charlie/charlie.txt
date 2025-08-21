@@ -14542,7 +14542,6 @@ counterpuncher
 cirsectomies
 cirsoid
 cirsomphalos
-cirsophthalmia
 completable
 cirsotomy
 cirsotomies
@@ -26140,6 +26139,7 @@ cosmogonists
 cosmography
 cagey
 chigoe
+cirsophthalmia
 cosmographic
 cosmographical
 concomitantly
