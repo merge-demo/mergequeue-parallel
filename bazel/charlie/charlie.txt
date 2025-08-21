@@ -4327,6 +4327,7 @@ carhop
 carhops
 contorted
 cary
+cleanout
 caryatid
 caryatidal
 cigaresque
@@ -15828,7 +15829,6 @@ complexions
 cleanliest
 culottes
 clumpier
-cleanout
 cleansable
 cellists
 cleanse
