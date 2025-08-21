@@ -29785,7 +29785,6 @@ crooner
 cullible
 countermeet
 caliperer
-compoing
 carbanil
 crooners
 crooningly
@@ -31694,6 +31693,7 @@ cuspate
 cusped
 clomped
 cuspid
+compoing
 cuspidal
 cuspidate
 chophouse
