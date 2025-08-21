@@ -4337,7 +4337,6 @@ bushwalking
 bely
 bonspiels
 bombola
-bechuana
 bellhops
 beclang
 burbark
@@ -17008,6 +17007,7 @@ bulimy
 bulimias
 bronchiostenosis
 broomtail
+bechuana
 bayman
 braces
 bulimus
