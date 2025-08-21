@@ -3560,6 +3560,7 @@ captioning
 captiousness
 captivance
 cretion
+concreate
 chaired
 colostral
 captivated
@@ -13887,7 +13888,6 @@ contortive
 cysticercoid
 carcinophobia
 cinenchyma
-concreate
 cinene
 cinenegative
 cineol
