@@ -3108,7 +3108,6 @@ disestablisher
 disbodied
 demihuman
 destructibleness
-defamy
 delegating
 desmoneme
 dihydrite
@@ -15053,6 +15052,7 @@ divus
 demirhumb
 doggedness
 demonographer
+defamy
 dysmetria
 deceivability
 dendroidal
