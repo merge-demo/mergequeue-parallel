@@ -877,6 +877,7 @@ biacromial
 bagmaker
 bagnes
 bastnaesite
+bitriseptate
 blowze
 burdies
 broommaking
@@ -4928,7 +4929,6 @@ bootlick
 bairnliness
 badchan
 bouncing
-bitriseptate
 beehive
 busser
 bandy
