@@ -13198,6 +13198,7 @@ cycadophyta
 craniograph
 cyanochroic
 climbingfishes
+crosshand
 catchable
 cycases
 cytogenies
@@ -29899,7 +29900,6 @@ crossflower
 crossfoot
 crosshackle
 crosshair
-crosshand
 crosshatches
 cogwheel
 coadjutator
