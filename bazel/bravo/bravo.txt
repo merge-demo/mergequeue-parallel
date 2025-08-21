@@ -9835,6 +9835,7 @@ beknight
 brail
 bathyl
 bitheism
+basilar
 bisegment
 bullnecked
 baccated
@@ -16401,7 +16402,6 @@ beshod
 brushback
 butt
 bladesmith
-basilar
 bestick
 betrace
 botas

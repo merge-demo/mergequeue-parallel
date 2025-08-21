@@ -5475,7 +5475,6 @@ deorsum
 deorsumversion
 deossification
 deuterostomatous
-deota
 dissipates
 dyakisdodecahedron
 deoxycorticosterone
@@ -9882,6 +9881,7 @@ determines
 diluvialist
 decorated
 disclander
+deota
 dinars
 diluvianism
 draggingly
