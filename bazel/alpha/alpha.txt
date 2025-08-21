@@ -5891,7 +5891,6 @@ aggrammatism
 approachability
 aggrandised
 abasias
-aggrandising
 aphonics
 altimettrically
 aggrandizable
@@ -15212,6 +15211,7 @@ apicilar
 adarticulation
 antifowl
 arthrolite
+aggrandising
 adapa
 amalgamates
 anthropomorphization
