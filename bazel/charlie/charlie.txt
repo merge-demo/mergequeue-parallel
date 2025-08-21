@@ -7206,6 +7206,7 @@ centralness
 cacodaemonic
 caracas
 centranth
+crystallophyllian
 centrarchid
 centrarchoid
 clar
@@ -9979,7 +9980,6 @@ chenar
 cheneau
 cheneaus
 collaborations
-crystallophyllian
 conspurcate
 cambists
 crescographic
