@@ -123,7 +123,6 @@ determinability
 dadaism
 dipterocecidium
 dadaistic
-denticule
 determinableness
 diddered
 detonated
@@ -1312,6 +1311,7 @@ deoxidizers
 deludingly
 draconism
 dauke
+denticule
 dorsigerous
 disorder
 dault
