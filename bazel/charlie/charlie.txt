@@ -5525,7 +5525,6 @@ catachrestic
 cercariae
 catachrestically
 condemner
-caprioling
 catachthonic
 consummation
 cataclastic
@@ -30985,6 +30984,7 @@ cumbrousness
 crashworthy
 currants
 cumengite
+caprioling
 chromobacterium
 cytochylema
 cumenyl
