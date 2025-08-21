@@ -11978,6 +11978,7 @@ choregus
 choreguses
 contrivers
 choreic
+communicative
 choreiform
 consension
 choreman
@@ -20332,7 +20333,6 @@ convertibles
 cousinly
 communicating
 communication
-communicative
 countrie
 cercospora
 command
