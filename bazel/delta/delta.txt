@@ -2932,7 +2932,6 @@ destinal
 dotingness
 diegesis
 diplasiasmus
-deduces
 droil
 dolt
 deducibility
@@ -14883,6 +14882,7 @@ dotant
 designate
 doctrinate
 doctrines
+deduces
 dragline
 delinition
 disgraces
