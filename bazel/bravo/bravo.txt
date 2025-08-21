@@ -11278,7 +11278,6 @@ beshackle
 blowholes
 blowie
 beryline
-blear
 backups
 blowing
 blowings
@@ -13310,6 +13309,7 @@ blooie
 beeswings
 birdyback
 beetlestone
+blear
 badmen
 botched
 botchedly
