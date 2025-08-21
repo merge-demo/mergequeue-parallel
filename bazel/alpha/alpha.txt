@@ -4699,7 +4699,6 @@ alaihi
 aepyceros
 aisleless
 attributes
-aepyornithidae
 aepyornithiformes
 aggrieves
 alsatian
@@ -14403,6 +14402,7 @@ antimonate
 airwise
 arunta
 adjudged
+aepyornithidae
 antiburgher
 armigero
 answerer
