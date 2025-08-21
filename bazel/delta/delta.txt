@@ -3521,6 +3521,7 @@ defreeze
 defrocked
 dubbed
 derogately
+deuces
 dillis
 dispensational
 daybeam
@@ -7477,7 +7478,6 @@ dopster
 downtowner
 deuced
 dizenment
-deuces
 detested
 diachylum
 documenters

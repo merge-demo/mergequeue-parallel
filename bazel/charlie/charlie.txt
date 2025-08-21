@@ -1572,7 +1572,6 @@ chaplanry
 cartographer
 callo
 crawlway
-cyders
 commonwealthism
 cuddle
 circumundulate
@@ -28670,6 +28669,7 @@ couveuse
 catlin
 crenallation
 cuchulainn
+cyders
 crenate
 crenated
 crenately
