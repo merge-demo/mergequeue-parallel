@@ -6813,7 +6813,6 @@ awry
 airn
 anthropomorphical
 aloadae
-auripuncture
 acetone
 airplay
 anacardiaceous
@@ -10489,6 +10488,7 @@ aliofar
 amide
 amidide
 acoelous
+auripuncture
 antileft
 adscript
 amidins

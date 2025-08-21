@@ -1195,7 +1195,6 @@ dillydallying
 datagram
 datagrams
 doormat
-demibrassart
 devilhood
 datana
 discounting
@@ -4180,6 +4179,7 @@ demonstratorship
 dob
 dearn
 delitescent
+demibrassart
 deliverer
 disincorporate
 daurna
