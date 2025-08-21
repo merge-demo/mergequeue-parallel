@@ -5833,7 +5833,6 @@ categorised
 chansonnier
 cultivated
 cochlearia
-cupeled
 chemicopharmaceutical
 cuemanship
 cleaves
@@ -28247,6 +28246,7 @@ confronting
 cursors
 crasher
 crashes
+cupeled
 caprifigs
 crashing
 crashingly
