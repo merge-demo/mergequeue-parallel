@@ -6061,6 +6061,7 @@ cativo
 cheapo
 catkin
 catkinate
+cilician
 catkins
 curatory
 candify
@@ -11988,7 +11989,6 @@ choreus
 choreutic
 crevassing
 chorial
-cilician
 choriamb
 choriambic
 chorometry
