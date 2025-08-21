@@ -4214,6 +4214,7 @@ armorer
 alchornea
 adrad
 alumen
+astronautics
 abime
 abaka
 adreamed
@@ -9551,7 +9552,6 @@ altiplano
 accise
 altissimo
 agnuses
-astronautics
 altitude
 alkalized
 altitudinarian
