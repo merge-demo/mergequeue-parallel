@@ -13359,7 +13359,6 @@ deaconhood
 defender
 disputation
 disconnected
-delightless
 dodecaphonist
 deflators
 disputatiously
@@ -17903,6 +17902,7 @@ duenesses
 discandy
 disserted
 diddles
+delightless
 duennas
 datable
 duennaship
