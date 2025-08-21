@@ -2152,7 +2152,6 @@ dipterans
 dehydroffrozen
 dehydration
 drowsing
-dinguses
 decapper
 decarbonated
 decarbonating
@@ -10253,6 +10252,7 @@ dealfishes
 dehgan
 donkeyish
 dinosauria
+dinguses
 dressing
 dermoosseous
 destry
