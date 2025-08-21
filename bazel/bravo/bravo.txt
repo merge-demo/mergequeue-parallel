@@ -4554,7 +4554,6 @@ bedarkening
 bedaub
 ballplayer
 benzoylglycine
-barks
 besuit
 bundeli
 borborus
@@ -9688,6 +9687,7 @@ bismuthous
 busking
 balanoglossus
 barway
+barks
 beringed
 bismutosphaerite
 bisnaga
