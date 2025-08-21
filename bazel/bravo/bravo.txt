@@ -7287,6 +7287,7 @@ betaxed
 brazening
 brazera
 bufidin
+buck
 bursters
 borides
 betear
@@ -16633,7 +16634,6 @@ bloomy
 buchnerite
 balconette
 buchonite
-buck
 bayamo
 bearpaw
 buckaroo
