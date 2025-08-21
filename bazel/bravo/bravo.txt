@@ -5236,7 +5236,6 @@ basification
 blotless
 breadboards
 barkeeps
-begar
 bandos
 bodingly
 basaltic
@@ -6761,6 +6760,7 @@ bernicia
 berninesque
 bootprint
 bunnymouth
+begar
 billings
 bylander
 baikerinite
