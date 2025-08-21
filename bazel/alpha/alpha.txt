@@ -5830,6 +5830,7 @@ admitty
 adolph
 agenting
 agentive
+antimethodical
 agentives
 adducing
 archprototype
@@ -15442,7 +15443,6 @@ antimetathetic
 azonic
 aeschynite
 armed
-antimethodical
 apselaphesia
 antimetrical
 alone
