@@ -60,6 +60,7 @@ abacuses
 abaddon
 abadejo
 abadengo
+ayont
 abadia
 aerially
 arcadian
@@ -6694,7 +6695,6 @@ andrewsite
 abnormities
 amalfian
 ainus
-ayont
 antemetic
 air
 agribusiness
