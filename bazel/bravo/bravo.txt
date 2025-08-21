@@ -235,6 +235,7 @@ bumpy
 bestraw
 baccilli
 baccivorous
+bulbule
 bach
 bibliograph
 betonica
@@ -16977,7 +16978,6 @@ bimotor
 beleaguered
 bulbously
 bowedness
-bulbule
 bespoken
 bure
 bhil
