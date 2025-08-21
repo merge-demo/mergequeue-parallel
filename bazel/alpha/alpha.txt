@@ -8763,7 +8763,6 @@ accoast
 anschluss
 appet
 alliancing
-alliant
 allicampane
 anemonol
 antiketogen
@@ -9043,6 +9042,7 @@ aeromotor
 alps
 anticked
 astrictiveness
+alliant
 antimilitaristic
 allowable
 antemarital
