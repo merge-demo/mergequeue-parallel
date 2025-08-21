@@ -4307,7 +4307,6 @@ designatory
 delustering
 deceleration
 dragontail
-delved
 dicacodyl
 dermatopathology
 demimillionaire
@@ -17608,6 +17607,7 @@ drupa
 dysthyroidism
 drupel
 dispunishable
+delved
 drupelets
 drupeole
 detoxification
