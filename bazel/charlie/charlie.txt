@@ -12115,6 +12115,7 @@ crusca
 chockler
 casal
 chorusmaster
+chairwoman
 chorussed
 chorusses
 cathedralic
@@ -13728,7 +13729,6 @@ coattests
 christabel
 chalazal
 cristi
-chairwoman
 chalkboards
 coppras
 cocuisa
