@@ -15294,7 +15294,6 @@ demipriest
 depressanth
 derotremate
 domicile
-dother
 dal
 dollymen
 dolliness
@@ -16097,6 +16096,7 @@ doughhead
 doughy
 derabbinize
 deboshed
+dother
 doughier
 doughiest
 drawlingness
