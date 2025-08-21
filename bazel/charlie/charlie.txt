@@ -2582,7 +2582,6 @@ conners
 candlewicks
 candlewright
 candling
-cynically
 candollea
 candolleaceae
 candolleaceous
@@ -10505,6 +10504,7 @@ caph
 childish
 cogeneric
 created
+cynically
 childless
 childly
 contacting
