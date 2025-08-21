@@ -2749,7 +2749,6 @@ daddies
 disheritor
 drawhorse
 decousu
-dives
 deceptious
 dihydrate
 decrassified
@@ -9815,6 +9814,7 @@ dysoxidize
 dipsos
 dermatocyst
 dillesk
+dives
 daimones
 denumerable
 deicer
