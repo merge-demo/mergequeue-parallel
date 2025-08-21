@@ -13425,6 +13425,7 @@ anormal
 anglicist
 anneal
 artlessly
+axiniform
 annealer
 anneals
 annect
@@ -19836,7 +19837,6 @@ agnoetae
 attributives
 abhenries
 accommodate
-axiniform
 armiger
 armigeri
 armigeros
