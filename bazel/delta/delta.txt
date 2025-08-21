@@ -1806,7 +1806,6 @@ deck
 debases
 duyker
 doggoned
-daggerlike
 debate
 disemboguing
 delusterant
@@ -14813,6 +14812,7 @@ docketing
 dantophily
 desertion
 diocesian
+daggerlike
 dockets
 dyphone
 dockhand
