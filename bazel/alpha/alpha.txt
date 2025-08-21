@@ -2612,7 +2612,6 @@ acetiam
 amphigonous
 assuaging
 acquittal
-acquittance
 almacenista
 acquitted
 alangine
@@ -15723,6 +15722,7 @@ antirevolutionary
 astute
 accostable
 arianists
+acquittance
 anaphoras
 antiperistalsis
 antiperistatic
