@@ -3821,6 +3821,7 @@ acrook
 abdominoscope
 adiposogenital
 aslope
+apsidally
 adiposuria
 adipous
 adnouns
@@ -21713,7 +21714,6 @@ argenticyanide
 assertorical
 alister
 archiphoneme
-apsidally
 amalaita
 assertress
 annunciator
