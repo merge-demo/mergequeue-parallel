@@ -4419,7 +4419,6 @@ advancement
 archimperial
 advancing
 advancive
-advantage
 anezeh
 advantaged
 allothogenous
@@ -8507,6 +8506,7 @@ alkanol
 alkaphrah
 alkapton
 alkaptone
+advantage
 ascent
 alkaptonuric
 alkarsin
