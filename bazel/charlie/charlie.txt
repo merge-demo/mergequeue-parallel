@@ -10400,7 +10400,6 @@ callid
 classing
 chided
 chiders
-corrigendum
 cedarbird
 chilies
 cahoots
@@ -15179,6 +15178,7 @@ cladogenesis
 cladogenetic
 cladogenetically
 cladogenous
+corrigendum
 coracoacromial
 cerebromalacia
 censurer
