@@ -20314,7 +20314,6 @@ arseniferous
 arseniopleite
 autolith
 arsenious
-amplifiers
 arsenism
 anticonceptionist
 arsenites
@@ -24540,6 +24539,7 @@ auxotox
 auxotroph
 auxotrophy
 avadana
+amplifiers
 autocade
 absinthiate
 armorist
