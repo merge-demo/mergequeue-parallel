@@ -9616,7 +9616,6 @@ differentness
 divisi
 digoxins
 downloadable
-digraphically
 digrediency
 devolatilization
 delicious
@@ -10918,6 +10917,7 @@ disabled
 doorplates
 defrayer
 deterges
+digraphically
 divulgement
 dentelated
 doohinkus
