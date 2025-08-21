@@ -8663,7 +8663,6 @@ allegorizer
 antidinic
 allegorizing
 acidific
-astromancy
 allegresse
 allegrettos
 alectrion
@@ -11106,6 +11105,7 @@ asswage
 ampersand
 ampersands
 archpontiff
+astromancy
 amphanthia
 amphanthium
 ampherotokous

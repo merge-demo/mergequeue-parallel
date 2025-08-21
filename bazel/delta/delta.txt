@@ -4989,7 +4989,6 @@ demountable
 devastators
 demounts
 dempsters
-deaerate
 demulcents
 diphycercy
 demulsibility
@@ -12063,6 +12062,7 @@ disentangle
 dissensious
 dentine
 disentanglement
+deaerate
 daymare
 depurition
 disentangling
