@@ -5529,7 +5529,6 @@ beisance
 bouvier
 burled
 beja
-bejant
 bloodwit
 blintz
 bergsonism
@@ -5944,6 +5943,7 @@ buffaloes
 beltane
 belauding
 bimetalic
+bejant
 belter
 buyouts
 ballistic
