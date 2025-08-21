@@ -5414,7 +5414,6 @@ behap
 boarstaff
 bigarreau
 behaved
-bronchium
 behaver
 bicollateral
 behaving
@@ -11631,6 +11630,7 @@ bosket
 boatage
 bacterioscopical
 barspoon
+bronchium
 boatbuilding
 boathook
 boathouse
