@@ -4721,6 +4721,7 @@ chapmen
 carpetbaggism
 commuter
 commas
+contralateral
 choenix
 carpetbags
 counterearth
@@ -23732,7 +23733,6 @@ compunctious
 contraindicates
 contraindications
 cologarithm
-contralateral
 crappers
 class
 contralto
