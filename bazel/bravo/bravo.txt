@@ -144,7 +144,6 @@ bacin
 bourne
 banister
 basidiocarp
-biocoenosis
 beeheaded
 beachcomb
 butyrically
@@ -17029,6 +17028,7 @@ bihydrazine
 bulkish
 bull
 boiette
+biocoenosis
 brachiocephalic
 bacterize
 berceaunette
