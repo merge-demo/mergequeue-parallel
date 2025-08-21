@@ -11916,6 +11916,7 @@ choragion
 choristers
 calashes
 chorai
+cranker
 choral
 choralcelo
 causeway
@@ -28165,7 +28166,6 @@ cardita
 cuckooed
 crosscutter
 cranked
-cranker
 cullis
 crankily
 crankiness
