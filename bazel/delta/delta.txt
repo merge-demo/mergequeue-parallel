@@ -2786,6 +2786,7 @@ demarches
 deftnesses
 duodecahedral
 dint
+diurnals
 drypoints
 dari
 deflectable
@@ -14376,7 +14377,6 @@ diurnal
 deuterogenic
 diurnally
 drug
-diurnals
 devaunt
 downstair
 diurnule
