@@ -11697,6 +11697,7 @@ cervelases
 choleriform
 cholerigenous
 chelicerate
+columel
 cholerine
 choleroid
 cholerophobia
@@ -19637,7 +19638,6 @@ columbotantalate
 crepiness
 confession
 childhoods
-columel
 coachmanship
 ciliata
 centimolar
