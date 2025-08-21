@@ -14711,7 +14711,6 @@ blastostyle
 bennet
 betelnut
 brazened
-borrichia
 braveness
 balaclava
 biscotin
@@ -16795,6 +16794,7 @@ bacterioid
 bicolligate
 buffable
 buffalo
+borrichia
 buffalofish
 buffaloing
 biflagellate
