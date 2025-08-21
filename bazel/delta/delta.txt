@@ -5989,6 +5989,7 @@ dropforged
 deprome
 demisphere
 drawling
+desertrice
 deprostrate
 draughtiest
 downbeats
@@ -14787,7 +14788,6 @@ disabusal
 diaheliotropically
 docimasia
 desmacyte
-desertrice
 dentilated
 docimastical
 decimation
