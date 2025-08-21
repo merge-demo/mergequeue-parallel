@@ -1025,6 +1025,7 @@ calathiscus
 calathos
 crapshooter
 conveyances
+ciguatera
 capsulated
 cher
 compression
@@ -23908,7 +23909,6 @@ contumacy
 ciceronic
 contumacious
 cantel
-ciguatera
 consisted
 chadlock
 clepsine
