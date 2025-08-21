@@ -5137,6 +5137,7 @@ bankers
 batoid
 bromhidrosis
 bloodthirstiness
+bullberry
 baubling
 bimorphemic
 banco
@@ -17047,7 +17048,6 @@ beforetime
 buttling
 baetylus
 barrelling
-bullberry
 bitake
 baluga
 bullboat
