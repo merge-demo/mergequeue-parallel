@@ -3142,7 +3142,6 @@ disgout
 dissimulated
 defeatism
 drouths
-defeats
 defeature
 debted
 daribah
@@ -13199,6 +13198,7 @@ disgruntles
 displaceability
 disleave
 dilly
+defeats
 display
 displayable
 dumaist
