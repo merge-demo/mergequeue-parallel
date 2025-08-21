@@ -15109,7 +15109,6 @@ civilisational
 civilisations
 choanoid
 countercondemnation
-civilises
 cipollino
 circuitable
 compunctive
@@ -25116,6 +25115,7 @@ conglutinated
 commentate
 coremaking
 cricketing
+civilises
 coremorphosis
 colouring
 chromonematic
