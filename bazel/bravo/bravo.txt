@@ -1801,7 +1801,6 @@ bizardite
 bepurple
 banago
 buzzy
-brimming
 bacteriaceous
 beglads
 banak
@@ -15833,6 +15832,7 @@ boliche
 buzzes
 bromelins
 batler
+brimming
 bryozoa
 biphasic
 bromes

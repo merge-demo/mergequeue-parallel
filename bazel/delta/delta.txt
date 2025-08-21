@@ -667,6 +667,7 @@ dukely
 deafen
 dampers
 dudgeons
+defecator
 donnard
 depermed
 dampne
@@ -3141,7 +3142,6 @@ dunnock
 dyothelete
 dowless
 dipsas
-defecator
 daneflower
 defect
 divots
