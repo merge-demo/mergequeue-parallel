@@ -2817,6 +2817,7 @@ cannonries
 cyrtandraceae
 corruptibility
 cannons
+cigale
 coulure
 chedreux
 curvilineal
@@ -14816,7 +14817,6 @@ calycophorae
 cityfolk
 churned
 citigradae
-cigale
 cladosiphonic
 coordinate
 coenamor

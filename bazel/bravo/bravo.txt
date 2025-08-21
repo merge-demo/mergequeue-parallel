@@ -5815,6 +5815,7 @@ biremes
 butlerism
 bandstop
 bellyached
+boardwalk
 bismethyl
 bellyacher
 bellyaches
@@ -12236,7 +12237,6 @@ bainite
 bolstered
 bolsterer
 battologised
-boardwalk
 biabo
 brake
 briefless
