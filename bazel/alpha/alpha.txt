@@ -4587,7 +4587,6 @@ aeacides
 aechmophorus
 athenian
 atlantodidymus
-agitates
 aecidial
 aecidioform
 abjunctive
@@ -4620,6 +4619,7 @@ arillodes
 ambisexualities
 aedilic
 aphrizite
+agitates
 aefald
 aefaldy
 aljoba
