@@ -4679,6 +4679,7 @@ aenigmatite
 aeolia
 ated
 aeolic
+adoptees
 animisms
 alluvial
 alveolarly
@@ -12877,7 +12878,6 @@ anglophobia
 adumbration
 anglophobiac
 antholyza
-adoptees
 aire
 ango
 angoise
