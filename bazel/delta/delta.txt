@@ -13743,7 +13743,6 @@ despoiling
 diphosgene
 disturbation
 discoids
-defends
 doorplate
 divalent
 dejecta
@@ -18354,6 +18353,7 @@ dinah
 dystopias
 duodena
 doubleton
+defends
 duodenate
 declension
 duodenation

@@ -7879,7 +7879,6 @@ anorthoscope
 atropines
 ascella
 afforestation
-agamous
 appropriates
 alembic
 abolishes
@@ -9802,6 +9801,7 @@ arterialise
 amante
 airbrush
 augurer
+agamous
 alloplasmatic
 agst
 amanuensis
