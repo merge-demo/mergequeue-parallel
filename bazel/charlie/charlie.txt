@@ -24712,7 +24712,6 @@ coppices
 crepehanger
 coppin
 charkhana
-corkscrewing
 canyons
 cell
 copping
@@ -30608,6 +30607,7 @@ cucoline
 cucuy
 chunnia
 cucujid
+corkscrewing
 cucujus
 callitype
 cucularis
