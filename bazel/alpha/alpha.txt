@@ -16717,6 +16717,7 @@ aphenoscope
 apheresis
 apheses
 asclepius
+astrobotany
 antiphoner
 allogenically
 aggresses
@@ -22241,7 +22242,6 @@ astrobiologies
 alrighty
 afterdrops
 androseme
-astrobotany
 astrochemistry
 aurignacian
 astrocytic
