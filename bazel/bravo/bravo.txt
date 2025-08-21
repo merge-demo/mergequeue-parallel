@@ -12750,7 +12750,6 @@ bookmarks
 bastardisation
 bhoots
 bookmobiles
-baroni
 burlesk
 bookpress
 bookracks
@@ -18388,6 +18387,7 @@ burghermaster
 bilinite
 buzzies
 budwood
+baroni
 bedarkens
 butylated
 biaxal
