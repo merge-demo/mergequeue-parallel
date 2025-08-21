@@ -3370,7 +3370,6 @@ contrasty
 caponizer
 caponizing
 crankless
-caponniere
 capons
 caporal
 caporals
@@ -3575,6 +3574,7 @@ calvarias
 captives
 comatulae
 captor
+caponniere
 capturable
 catechized
 capture
