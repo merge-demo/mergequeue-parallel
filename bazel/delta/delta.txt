@@ -7329,7 +7329,6 @@ diphenylenimide
 detorsion
 deashed
 disagreed
-deutonephron
 disvulnerability
 determiner
 diameters
@@ -10704,6 +10703,7 @@ disendower
 drownproofing
 doyle
 disorganizing
+deutonephron
 deferring
 diiodide
 disbutton
