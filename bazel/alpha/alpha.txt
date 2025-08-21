@@ -20241,7 +20241,6 @@ aphides
 akasha
 animalcula
 arrivals
-arriving
 atracheate
 arrivism
 arrivist
@@ -24289,6 +24288,7 @@ agnomen
 acetonate
 autopoint
 autopoisonous
+arriving
 acclimatize
 autopolar
 autopolyploid
