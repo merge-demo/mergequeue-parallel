@@ -1492,7 +1492,6 @@ bistable
 booked
 borrow
 bedsick
-balladic
 balladised
 balladism
 braked
@@ -2725,6 +2724,7 @@ bm
 bicolored
 benab
 bonneting
+balladic
 bukeyef
 barology
 barolong
