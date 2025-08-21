@@ -273,6 +273,7 @@ bacillarieae
 bacillariophyta
 buckwasher
 beroe
+barlock
 bacilli
 bacillian
 bacillicidal
@@ -18007,7 +18008,6 @@ barbotte
 babbitt
 busk
 blossomy
-barlock
 burghmoot
 bicornuous
 bromise
