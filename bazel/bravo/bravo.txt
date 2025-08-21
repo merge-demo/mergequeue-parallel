@@ -2080,6 +2080,7 @@ baldest
 blesses
 bannerols
 bannisters
+bizen
 birthmarks
 bioflavinoid
 bannock
@@ -13210,7 +13211,6 @@ breadthless
 boshes
 brevirostrines
 bosjesman
-bizen
 boustrophedonic
 boskier
 boasters
