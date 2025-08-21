@@ -6654,7 +6654,6 @@ cecally
 cecidiologist
 checkweigher
 cacafugo
-cecidomyiidae
 currieries
 cecilite
 cecity
@@ -18542,6 +18541,7 @@ cataractal
 coherent
 coggie
 coherer
+cecidomyiidae
 cohering
 coheritor
 chondrosarcomas
