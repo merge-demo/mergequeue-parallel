@@ -3408,7 +3408,6 @@ addicent
 addicted
 antiknocks
 addictedness
-addicting
 addictions
 ampassy
 argentinitrate
@@ -4417,6 +4416,7 @@ advancement
 archimperial
 advancing
 advancive
+addicting
 anezeh
 advantaged
 allothogenous
