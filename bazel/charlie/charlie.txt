@@ -15062,7 +15062,6 @@ carbonium
 citronalis
 comparison
 citronellol
-citronin
 citrons
 citronwood
 citrous
@@ -21405,6 +21404,7 @@ concionator
 coydog
 concionatory
 credulously
+citronin
 conciseness
 clocks
 cosponsor
