@@ -5916,7 +5916,6 @@ dyscrasy
 depressed
 disaccustomed
 dandyisms
-discomfortable
 darogah
 dispender
 depressibilities
@@ -17655,6 +17654,7 @@ dygogram
 diffusimeter
 deedholder
 doolies
+discomfortable
 drawbacks
 dilogy
 degusting
