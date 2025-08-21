@@ -23832,7 +23832,6 @@ contredanses
 contreface
 coryphees
 contrefort
-contrepartie
 catalyzed
 charpoy
 chewink
@@ -28440,6 +28439,7 @@ cutpurses
 cotarnine
 creams
 cindery
+contrepartie
 creance
 chabot
 creancer
