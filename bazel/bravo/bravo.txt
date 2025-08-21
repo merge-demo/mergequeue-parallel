@@ -4870,7 +4870,6 @@ beaded
 bedeswomen
 blackwashing
 belavendered
-blanket
 boucl
 bedwarfing
 bigotty
@@ -9452,6 +9451,7 @@ batule
 bioinstrumentation
 bronchodilatation
 bathymeter
+blanket
 basaltine
 bemedaled
 bashes
