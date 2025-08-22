@@ -2974,7 +2974,6 @@ antigenic
 aerogeography
 axemaster
 antiprotozoal
-ambitty
 actinoelectricity
 actinogonidiate
 auditors
@@ -16938,6 +16937,7 @@ aplitic
 aplobasalt
 aplodontia
 aplodontiidae
+ambitty
 aplomb
 amygdaliferous
 astond
