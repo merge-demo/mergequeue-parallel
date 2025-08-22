@@ -6299,7 +6299,6 @@ autolithographic
 anamorphote
 anecdotists
 ametrometer
-agriculturist
 agriculturists
 aftergood
 agrilus
@@ -7980,6 +7979,7 @@ alexandrine
 alexandrite
 accadian
 altruistically
+agriculturist
 alexia
 alexias
 arenicole
