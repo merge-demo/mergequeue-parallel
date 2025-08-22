@@ -14223,7 +14223,6 @@ choriambs
 circularly
 circularness
 circulars
-circulatable
 cabbalize
 circulated
 cyanhydrate
@@ -18947,6 +18946,7 @@ collaborating
 celibataire
 collaborationists
 collaborative
+circulatable
 collaboratively
 clomping
 clothworker
