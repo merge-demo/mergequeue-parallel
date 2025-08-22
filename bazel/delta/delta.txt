@@ -2777,7 +2777,6 @@ disharmonize
 decremeter
 dicyemida
 demarches
-deftnesses
 duodecahedral
 dint
 diurnals
@@ -5761,6 +5760,7 @@ depolarization
 dernly
 depolarize
 dextrorsal
+deftnesses
 downstroke
 diaphany
 downloads
