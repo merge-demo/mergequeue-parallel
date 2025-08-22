@@ -1176,6 +1176,7 @@ diiamb
 donnybrook
 diachoretic
 dogfall
+delimitized
 desmotropy
 discepted
 diplobacterium
@@ -4117,7 +4118,6 @@ delimiter
 deviational
 displumed
 departments
-delimitized
 diplomyelia
 deline
 dishonourably
