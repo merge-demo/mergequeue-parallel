@@ -7699,7 +7699,6 @@ boomy
 besin
 behavioral
 bhangi
-bhara
 bharal
 bhat
 burglaries
@@ -17157,6 +17156,7 @@ bullnose
 beewinged
 bullnoses
 bullnut
+bhara
 bullock
 brachialgia
 bullocker
