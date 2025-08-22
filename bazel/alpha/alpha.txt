@@ -12152,7 +12152,6 @@ ancestry
 autocue
 ancestrian
 allodge
-ancha
 asgard
 albuminimetry
 anchat
@@ -13248,6 +13247,7 @@ anisomyodian
 amtrak
 aortopathy
 archibuteo
+ancha
 anisognathism
 anisoiconia
 anisoyl
