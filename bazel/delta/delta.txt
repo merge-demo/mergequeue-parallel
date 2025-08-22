@@ -14727,6 +14727,7 @@ dk
 dkg
 destroys
 dkl
+dockland
 deadener
 decasemic
 deviative
@@ -14832,7 +14833,6 @@ deringers
 dockyards
 docking
 dockization
-dockland
 docklands
 dominica
 dialogue
