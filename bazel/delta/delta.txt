@@ -2301,7 +2301,6 @@ drat
 diacetyls
 delectations
 denizens
-didna
 disseizin
 dilapidate
 determinists
@@ -15808,6 +15807,7 @@ diffugient
 dumka
 dorp
 diphthongalize
+didna
 dorpers
 desecrate
 dorr
