@@ -4717,7 +4717,6 @@ creditorship
 contested
 chylopoetic
 collages
-carpeting
 carpetlayer
 carpetmaking
 clubability
@@ -30637,6 +30636,7 @@ cucurbitaceous
 cucurbite
 clinicist
 cucurbitine
+carpeting
 coequation
 collenchymatic
 cuda
