@@ -5628,7 +5628,6 @@ dozy
 desaturation
 daying
 demographical
-diamins
 depetalize
 disorganiser
 disprivilege
@@ -16472,6 +16471,7 @@ drabbling
 doubler
 drabler
 dextropinene
+diamins
 dublin
 dilutee
 dandifies
