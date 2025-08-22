@@ -12214,7 +12214,6 @@ byplay
 bicarbide
 buckhound
 balustered
-backslidingness
 banque
 beld
 bolognan
@@ -16254,6 +16253,7 @@ browzer
 biennial
 brr
 bullhead
+backslidingness
 bridgemen
 bladelet
 blaeberry
