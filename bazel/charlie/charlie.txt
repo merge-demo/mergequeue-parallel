@@ -2859,7 +2859,6 @@ cephalothoraces
 coambassador
 canonising
 canonist
-canonistical
 canonized
 carboxyhemoglobin
 cetorhinoid
@@ -5134,6 +5133,7 @@ caseic
 chrysographer
 cholecyanin
 cyberneticists
+canonistical
 cherimolla
 casein
 caseinate
