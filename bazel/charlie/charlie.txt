@@ -570,7 +570,6 @@ cyanomaclurin
 cadres
 ciconiiform
 councilors
-convokes
 colloque
 confort
 caduac
@@ -3022,6 +3021,7 @@ cantling
 canto
 confederatism
 cortege
+convokes
 colander
 cantonal
 cantonalism
