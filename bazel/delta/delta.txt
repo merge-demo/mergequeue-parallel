@@ -8551,7 +8551,6 @@ dermographia
 diaphysis
 dracontiasis
 druggists
-diaphone
 diaphones
 diaphony
 diaphysial
@@ -12306,6 +12305,7 @@ diamminobromide
 disgradation
 dappleness
 disincrustion
+diaphone
 disgrading
 discreating
 disgruntlement

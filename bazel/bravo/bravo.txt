@@ -7977,7 +7977,6 @@ bichord
 borazons
 bubbling
 bioxalate
-bichos
 bichromatize
 bedebt
 bellworts
@@ -8888,6 +8887,7 @@ biocycles
 barkle
 botan
 biocidal
+bichos
 biocide
 bioclimatic
 bowwoman
