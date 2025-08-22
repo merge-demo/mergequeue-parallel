@@ -1000,7 +1000,6 @@ dekadarchy
 daringness
 dit
 darings
-dithematic
 darius
 doubleprecision
 dark
@@ -3629,6 +3628,7 @@ dermatoxerasia
 deglut
 dec
 disarrangement
+dithematic
 decubation
 denounced
 despisement
