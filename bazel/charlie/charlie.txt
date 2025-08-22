@@ -2688,7 +2688,6 @@ coleorhizae
 canion
 chromophile
 canions
-canis
 canistel
 crevice
 canjac
@@ -15311,6 +15310,7 @@ clutterer
 casimeres
 cricks
 catholicise
+canis
 clambake
 cycasins
 colfox
