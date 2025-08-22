@@ -1934,7 +1934,6 @@ bagnio
 buttstrapping
 balances
 bandstring
-bathymetric
 brandishes
 bosquets
 bitripartite
@@ -10725,6 +10724,7 @@ backsetting
 blennemesis
 bullets
 blennenteria
+bathymetric
 box
 biti
 benzalhydrazine
