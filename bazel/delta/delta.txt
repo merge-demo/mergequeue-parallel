@@ -5794,7 +5794,6 @@ doodler
 depopulation
 dunged
 denitrize
-depopulative
 dowve
 demipuppet
 dovekeys
@@ -6686,6 +6685,7 @@ diplohedron
 downcurved
 desyatin
 desicate
+depopulative
 dubonnets
 desman
 dipropargyl
