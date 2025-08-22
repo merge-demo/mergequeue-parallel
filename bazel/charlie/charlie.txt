@@ -7039,7 +7039,6 @@ censoriously
 censoriousness
 coenobiod
 censurability
-censurableness
 censurably
 cutlips
 censure
@@ -9267,6 +9266,7 @@ censurers
 ceduous
 chasty
 chastiment
+censurableness
 chastise
 chastiser
 clapperboard
