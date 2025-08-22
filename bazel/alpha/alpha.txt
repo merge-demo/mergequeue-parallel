@@ -14221,7 +14221,6 @@ americanist
 anthdia
 anthroposociologist
 albs
-ammonite
 anticlnoria
 acipenseres
 antlered
@@ -19706,6 +19705,7 @@ arithmocratic
 arithmograph
 arithmography
 azulejos
+ammonite
 arithmomancy
 arivaipa
 amphoral
