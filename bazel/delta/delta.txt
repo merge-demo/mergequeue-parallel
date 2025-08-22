@@ -8220,7 +8220,6 @@ dyadics
 diadkokinesia
 diadochi
 ductible
-depigment
 dados
 disspreading
 diadochy
@@ -10983,6 +10982,7 @@ disaffirming
 dayberry
 dissyllabising
 deepwaterman
+depigment
 decapoda
 dulcinea
 disafforestment
