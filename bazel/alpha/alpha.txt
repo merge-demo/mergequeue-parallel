@@ -19547,6 +19547,7 @@ antitheses
 antemortem
 aryballoi
 antithesize
+abdominohysterotomy
 aryballus
 arybballi
 argol
@@ -22555,7 +22556,6 @@ atheneums
 aerates
 annalism
 athenor
-abdominohysterotomy
 agnition
 atheologically
 athericera
