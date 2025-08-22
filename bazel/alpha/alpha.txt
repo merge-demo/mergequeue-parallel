@@ -6959,7 +6959,6 @@ angulodentate
 ajuga
 ajutment
 akal
-akali
 akalimba
 akamai
 annoyed
@@ -15218,6 +15217,7 @@ albertinian
 actiniarian
 androcratic
 antigalactagogue
+akali
 ageusic
 antigambling
 antiganting
