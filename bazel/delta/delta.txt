@@ -4587,6 +4587,7 @@ dalmatian
 demilustre
 diaskeuasis
 demiman
+deforming
 dali
 disaffectionate
 detax
@@ -10389,7 +10390,6 @@ departures
 detenant
 dishful
 diospyraceous
-deforming
 dyotheism
 daisee
 debonairly
