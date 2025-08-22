@@ -166,7 +166,6 @@ drugstore
 doltishly
 dareall
 dadoes
-deiparous
 dadoxylon
 desireful
 dressage
@@ -8247,6 +8246,7 @@ diaglyphic
 desmopelmous
 dell
 ductus
+deiparous
 distrito
 diaglyptic
 diagnostical
