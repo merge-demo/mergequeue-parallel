@@ -2014,7 +2014,6 @@ beamage
 bronzer
 baptanodon
 benefitted
-banjorine
 banjuke
 bv
 bathymetry
@@ -10799,6 +10798,7 @@ bestripe
 batyphone
 bienvenu
 bedgoer
+banjorine
 bephilter
 bakership
 boul
