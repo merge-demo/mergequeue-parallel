@@ -3281,7 +3281,6 @@ deionizes
 definiens
 derencephalocele
 dolabre
-decigram
 definish
 decolored
 decapitalization
@@ -13475,6 +13474,7 @@ deposing
 dumpily
 disengagements
 distriction
+decigram
 dihexagonal
 dardanium
 disreputableness

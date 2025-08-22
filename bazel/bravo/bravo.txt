@@ -12150,7 +12150,6 @@ bloomkin
 bolero
 bivoltine
 bewormed
-biclavate
 barbarianism
 begrudgingly
 burdeners
@@ -14779,6 +14778,7 @@ blotters
 barmfel
 buffed
 broadhearted
+biclavate
 bloodweed
 bourgeoise
 bobization
