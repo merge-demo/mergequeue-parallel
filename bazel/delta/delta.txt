@@ -4797,7 +4797,6 @@ dpt
 dilated
 detours
 dismisser
-defenestrated
 demodulating
 designless
 dwaibly
@@ -6161,6 +6160,7 @@ deregulation
 deregulationize
 dicolic
 deregulations
+defenestrated
 dichromatism
 drumloid
 ducatoon
