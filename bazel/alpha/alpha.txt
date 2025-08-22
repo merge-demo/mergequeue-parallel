@@ -7853,6 +7853,7 @@ advent
 aleyrodes
 auricular
 adumbral
+antilogarithm
 aleknight
 agreat
 avouched
@@ -14616,7 +14617,6 @@ acroesthesia
 anaspidacea
 antiar
 antiarin
-antilogarithm
 anthropomorphism
 alchemical
 antiarins
