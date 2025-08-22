@@ -21445,6 +21445,7 @@ cyetic
 conclusory
 calybite
 conclusum
+ceinte
 caseful
 chapellage
 concoagulate
@@ -29272,7 +29273,6 @@ confessarius
 clamoured
 conceptualising
 collenchymatous
-ceinte
 cryptoclimate
 checking
 cryptococci
