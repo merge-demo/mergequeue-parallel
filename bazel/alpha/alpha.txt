@@ -439,7 +439,6 @@ abilla
 abilo
 acinetinan
 arugolas
-abintestate
 amplitudes
 apathist
 acousmas
@@ -4583,6 +4582,7 @@ aciculas
 aecidiospore
 aecidiostage
 aglare
+abintestate
 aecidium
 aeciospore
 aecioteliospore
