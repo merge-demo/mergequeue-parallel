@@ -2930,6 +2930,7 @@ absentia
 attrahent
 axisymmetric
 appalment
+allheals
 appendages
 allophanic
 ashless
@@ -18725,7 +18726,6 @@ antecedaneous
 anastomose
 archer
 archerfishes
-allheals
 assurgent
 artfully
 antideflation
