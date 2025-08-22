@@ -13639,7 +13639,6 @@ clouterly
 cymballing
 cymbalom
 cymbalon
-cubicles
 cymbel
 cymbid
 clochard
@@ -22671,6 +22670,7 @@ caseworms
 conocarpus
 conocephalum
 conocuneus
+cubicles
 coderiving
 conodont
 contractiveness
