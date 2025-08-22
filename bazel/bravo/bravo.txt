@@ -8484,7 +8484,6 @@ begirdle
 birminghamize
 bunjara
 bumble
-balsameaceae
 beaches
 bemusk
 bylines
@@ -17462,6 +17461,7 @@ biosystematics
 buprestis
 briskening
 bragwort
+balsameaceae
 biteless
 betes
 bioecologist
