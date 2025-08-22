@@ -12828,7 +12828,6 @@ boo
 baritonal
 boomboxes
 boomed
-bandana
 boozehound
 boominess
 becasse
@@ -16472,6 +16471,7 @@ bluntie
 bewitchedness
 bedlamism
 branchlike
+bandana
 brutalism
 brutalist
 brutalitarianism
