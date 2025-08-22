@@ -4489,6 +4489,7 @@ billeting
 bacchanalias
 bidi
 bumptiously
+biogenous
 brokes
 buffering
 buhrstone
@@ -8406,7 +8407,6 @@ bikkurim
 biosynthetically
 bloodworm
 balkier
-biogenous
 blackwood
 bilayer
 burp
