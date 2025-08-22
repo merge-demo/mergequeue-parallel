@@ -7874,6 +7874,7 @@ alenge
 alength
 alenu
 atonics
+aryl
 alepine
 assailableness
 alepole
@@ -19581,7 +19582,6 @@ anthracomartus
 aplastic
 alternativity
 aril
-aryl
 arylating
 annotate
 arylation
