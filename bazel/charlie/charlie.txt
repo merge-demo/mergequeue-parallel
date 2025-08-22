@@ -1148,7 +1148,6 @@ calcspar
 calcspars
 cotwal
 chlamydophore
-crunches
 chilopoda
 calculability
 counterrampant
@@ -9307,6 +9306,7 @@ compel
 chatsome
 chattah
 chattanooga
+crunches
 colliers
 conceptualists
 chatted
