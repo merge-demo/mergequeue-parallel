@@ -7980,6 +7980,7 @@ bedebt
 bellworts
 bicyanide
 bicyclers
+biopoesis
 bicyclic
 bicyclism
 blastaea
@@ -12237,7 +12238,6 @@ balms
 billet
 bolshevist
 bolshevistic
-biopoesis
 bolshevize
 bolshevized
 boneset
