@@ -9225,7 +9225,6 @@ biphenylene
 biphenol
 berrying
 bashfulness
-beguilements
 bronchioli
 bipinnariae
 bastnasite
@@ -11236,6 +11235,7 @@ bridgeable
 bescouring
 burez
 blasts
+beguilements
 brightening
 benday
 bertrand
