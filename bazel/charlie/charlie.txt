@@ -3691,7 +3691,6 @@ couloirs
 cuadra
 carapaces
 carapacho
-contumacity
 cognates
 carapacic
 carapax
@@ -8178,6 +8177,7 @@ chumping
 craspedon
 chainlike
 confrontal
+contumacity
 chainmaker
 chiropodist
 chainman
