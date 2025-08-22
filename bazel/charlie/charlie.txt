@@ -3374,6 +3374,7 @@ cheddars
 capouches
 cappadocian
 crypted
+cyclocoelic
 cappae
 capparid
 capparis
@@ -13298,7 +13299,6 @@ constableship
 cholecystopexy
 carapacial
 cyclocephaly
-cyclocoelic
 cyclode
 catastrophe
 cyclodiene
