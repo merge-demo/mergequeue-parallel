@@ -7235,7 +7235,6 @@ abominableness
 alaska
 alaskaite
 asexualising
-alaskas
 alaskite
 alastor
 alate
@@ -17999,6 +17998,7 @@ alcoholics
 aptenodytes
 apteral
 areolate
+alaskas
 apterial
 apterygidae
 apterygiformes
