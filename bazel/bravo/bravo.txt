@@ -8056,7 +8056,6 @@ bespousing
 busked
 bluntness
 bicornate
-bowery
 brutal
 bicorned
 bochur
@@ -12144,6 +12143,7 @@ bolelike
 benniseed
 besmoked
 boxtops
+bowery
 burthening
 bikukulla
 beteem

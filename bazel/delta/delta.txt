@@ -5489,7 +5489,6 @@ deoxidative
 dibbles
 deoxidisation
 dsnames
-dissolubility
 deadest
 dorsiventrality
 deoxidize
@@ -10323,6 +10322,7 @@ dioon
 diophysite
 dealates
 darwinite
+dissolubility
 diphthongic
 dunkling
 diosmin
