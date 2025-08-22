@@ -5364,7 +5364,6 @@ ballisticians
 billionaires
 bloodlines
 begorah
-begorra
 brevicipitidae
 bacteriogenic
 bonace
@@ -7713,6 +7712,7 @@ bheesty
 bullaries
 bheestie
 beblot
+begorra
 bespangles
 britten
 bathyscaphe
