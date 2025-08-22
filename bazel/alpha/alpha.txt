@@ -17018,6 +17018,7 @@ alcid
 addy
 arthrotropic
 apocopes
+archspy
 antes
 apocrenic
 apocrine
@@ -19057,7 +19058,6 @@ auryl
 autographic
 archsynagogue
 ade
-archspy
 archspirit
 archsteward
 aquadag
