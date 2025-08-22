@@ -8939,7 +8939,6 @@ charango
 chorioidal
 colibacillosis
 chuddars
-cotylophorous
 charases
 charbocle
 charbonnier
@@ -9377,6 +9376,7 @@ cytodendrite
 chaulmugra
 chaumiere
 chauna
+cotylophorous
 chaunoprockt
 childlikeness
 chlorids
