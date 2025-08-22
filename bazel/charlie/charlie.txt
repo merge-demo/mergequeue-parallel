@@ -6712,7 +6712,6 @@ colligation
 ceinture
 ceyx
 ceja
-clovery
 charcia
 celadon
 complexionally
@@ -11651,6 +11650,7 @@ cholelithiasis
 conchotome
 cholelithic
 cholelithotomy
+clovery
 chastising
 crenellate
 cholelithotripsy
