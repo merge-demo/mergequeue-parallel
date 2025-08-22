@@ -13128,6 +13128,7 @@ ceroxyle
 champaca
 cibarian
 cibaries
+coequality
 chippering
 conyrine
 cibbaria
@@ -26202,7 +26203,6 @@ cosponsoring
 cosponsors
 cossack
 cessant
-coequality
 conform
 crustification
 cyanite
