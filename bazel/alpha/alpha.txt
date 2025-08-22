@@ -921,7 +921,6 @@ absolvent
 arteriotome
 absolves
 asbestoses
-absolving
 absolvitor
 aldolize
 appeasably
@@ -16833,6 +16832,7 @@ alimentive
 apickback
 aerothermodynamics
 allocute
+absolving
 antiinstitutionalist
 apicolysis
 antistatist
