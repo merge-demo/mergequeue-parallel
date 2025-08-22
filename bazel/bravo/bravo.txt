@@ -4722,7 +4722,6 @@ bedlamized
 bedlamizing
 bedlamps
 boottopping
-betitle
 butcherliness
 badmash
 bedlams
@@ -13763,6 +13762,7 @@ bovinely
 bezil
 beshrews
 bestrowed
+betitle
 bovinities
 buffered
 buffet
