@@ -2849,7 +2849,6 @@ adessive
 ancylopoda
 aeolipyle
 archimpressionist
-acroparalysis
 anilopyrine
 amidopyrine
 adaptation
@@ -8278,6 +8277,7 @@ align
 anomoeanism
 aligned
 allotters
+acroparalysis
 archived
 aligning
 aliyah
