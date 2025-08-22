@@ -9078,6 +9078,7 @@ acipenser
 accendibility
 alliterational
 afternight
+athapascan
 allured
 allurement
 aerosat
@@ -22514,7 +22515,6 @@ alliterative
 antinomist
 athanor
 antipathida
-athapascan
 autohemic
 agreers
 athapaskan
