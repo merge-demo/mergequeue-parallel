@@ -6494,7 +6494,6 @@ aided
 amphigamae
 aydendron
 aidenn
-aider
 antiaggressive
 auksinu
 awk
@@ -23931,6 +23930,7 @@ antiwar
 autocarp
 afterbay
 autocarpian
+aider
 achatinella
 autocarpic
 acenaphthenyl
