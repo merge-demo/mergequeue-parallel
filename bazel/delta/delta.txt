@@ -4502,7 +4502,6 @@ demibelt
 dinornithes
 dislink
 deradelphus
-demibob
 dendrological
 demibuckram
 dysprosium
@@ -9462,6 +9461,7 @@ decubitus
 dissert
 digenetic
 digenetica
+demibob
 digue
 daydreamers
 digeny
