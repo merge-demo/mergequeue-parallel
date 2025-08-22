@@ -5420,6 +5420,7 @@ acraldehyde
 alpian
 anele
 afterburning
+auripigment
 abigail
 aftercareer
 aftercast
@@ -23639,7 +23640,6 @@ articles
 aquicultural
 auriphone
 auriphrygia
-auripigment
 aurir
 auris
 auriscalp
