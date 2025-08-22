@@ -12207,6 +12207,7 @@ disrelate
 disfoliaged
 distich
 descendibility
+downbye
 disherent
 disfortune
 dramatism
@@ -15738,7 +15739,6 @@ dorado
 doralium
 discovers
 diabetical
-downbye
 dorask
 dorbeetle
 deflectors
