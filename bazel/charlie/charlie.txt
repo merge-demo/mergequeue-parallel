@@ -6239,7 +6239,6 @@ caudofemoral
 caudolateral
 curstness
 centetidae
-classless
 countershout
 cabbalism
 cetological
@@ -31173,6 +31172,7 @@ cloudling
 curtseying
 cuprene
 cupreous
+classless
 carriers
 cupressus
 campagus
