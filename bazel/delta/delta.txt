@@ -6400,6 +6400,7 @@ derogative
 derogator
 derogatory
 dooja
+disbursals
 dermovaccine
 dischurch
 deplorate
@@ -18635,7 +18636,6 @@ dutied
 denarii
 dipaschal
 dummyism
-disbursals
 deluded
 dutymonger
 deactivations
