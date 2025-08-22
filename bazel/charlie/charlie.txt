@@ -6285,7 +6285,6 @@ caulinar
 caulinary
 ceroplast
 caulis
-cannular
 caulivorous
 choanosomal
 caulk
@@ -24477,6 +24476,7 @@ copaiba
 copaifera
 cupfuls
 copaiva
+cannular
 clr
 courtliness
 clavis
