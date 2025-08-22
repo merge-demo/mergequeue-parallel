@@ -7633,6 +7633,7 @@ antonymic
 aberroscope
 autoprothesis
 alcoholimeter
+antipleion
 autoconverter
 asterin
 alcoholised
@@ -15795,7 +15796,6 @@ aglobulism
 antiplanet
 almochoden
 antiplastic
-antipleion
 advocation
 anethum
 antiplurality
