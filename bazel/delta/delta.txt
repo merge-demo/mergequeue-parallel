@@ -12792,6 +12792,7 @@ disloyalty
 decrepity
 doored
 disloyalties
+divisa
 dulcified
 dislove
 dandlingly
@@ -14568,7 +14569,6 @@ dismembrated
 duodenary
 divinizing
 detribalization
-divisa
 dimethylketol
 diphaser
 directrixes
