@@ -11788,6 +11788,7 @@ attractance
 analogy
 analogic
 anteposition
+ananta
 anaximandrian
 amphicome
 analogical
@@ -11850,7 +11851,6 @@ aqueomercurial
 allergen
 ananke
 anansi
-ananta
 antimasquerade
 anammonide
 antecurvature
