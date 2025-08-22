@@ -9271,6 +9271,7 @@ chastise
 chastiser
 clapperboard
 corf
+collier
 chastity
 chastities
 chockstone
@@ -19103,7 +19104,6 @@ cometographer
 collidin
 cetacea
 cepous
-collier
 cuprite
 chariots
 colliery
