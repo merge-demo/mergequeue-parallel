@@ -9005,7 +9005,6 @@ anapsidan
 aden
 autarkically
 allotriognathi
-allotriomorphic
 allotriophagy
 ambulomancy
 alligatored
@@ -10692,6 +10691,7 @@ adulterants
 aphronitre
 anorthography
 aminopurine
+allotriomorphic
 aminoquin
 acquests
 aminosuccinamic
