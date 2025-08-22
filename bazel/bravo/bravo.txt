@@ -352,6 +352,7 @@ backdrop
 bonassus
 beemaster
 blew
+beweeper
 backen
 biblicoliterary
 buddha
@@ -7553,7 +7554,6 @@ besottedness
 botflies
 brainworker
 banagos
-beweeper
 beweeps
 bombilate
 bastardize
