@@ -8421,7 +8421,6 @@ deflater
 devide
 deconcentrator
 deported
-deliver
 dolia
 defiledness
 dreep
@@ -16842,6 +16841,7 @@ demurely
 decurtate
 daniglacial
 doucepere
+deliver
 disallowances
 decapitable
 dissuited
