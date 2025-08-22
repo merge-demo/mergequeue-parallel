@@ -5220,6 +5220,7 @@ distortedness
 decursion
 denominate
 deek
+diaphote
 desmosis
 declination
 declaimers
@@ -6866,7 +6867,6 @@ desmoscolecidae
 desmoscolex
 drossless
 desmosite
-diaphote
 deft
 desemer
 dispositor
