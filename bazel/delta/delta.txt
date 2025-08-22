@@ -7377,7 +7377,6 @@ digest
 disowned
 detonations
 dusking
-demean
 detonative
 detour
 duncifying
@@ -8727,6 +8726,7 @@ dispensatrix
 deglutinate
 demisacrilege
 diathesis
+demean
 deliquesces
 dirl
 dimps
