@@ -352,7 +352,6 @@ daybreaks
 dreamt
 daygoing
 desiccation
-daiker
 dorylinae
 delightfully
 dcor
@@ -15686,6 +15685,7 @@ doover
 doozers
 dowieism
 didascaliae
+daiker
 diobely
 dracunculus
 devilishly
