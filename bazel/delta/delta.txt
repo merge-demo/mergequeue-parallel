@@ -6001,6 +6001,7 @@ dragons
 diopside
 delictus
 deed
+disregardance
 depsides
 discommoded
 dept
@@ -8307,7 +8308,6 @@ detestableness
 diaclastic
 doryline
 disabused
-disregardance
 diaguite
 dyak
 dapper
