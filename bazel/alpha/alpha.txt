@@ -16478,6 +16478,7 @@ augelite
 antefixa
 aortoiliac
 amurcous
+alodiaries
 agathism
 analyzers
 aortomalaxis
@@ -20921,7 +20922,6 @@ asceticism
 ascetta
 aschaffite
 alpasotes
-alodiaries
 ascian
 amortises
 anachronistical
