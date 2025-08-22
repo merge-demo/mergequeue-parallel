@@ -5780,7 +5780,6 @@ deaconed
 depolishes
 depoliticized
 donia
-depoliticizes
 dredged
 dreck
 depones
@@ -16236,6 +16235,7 @@ dowsets
 densitometer
 dowitchers
 determinedness
+depoliticizes
 dares
 decanters
 derange
