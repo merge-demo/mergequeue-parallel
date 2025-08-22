@@ -6215,7 +6215,6 @@ calanthe
 caudle
 caudles
 caudocephalad
-ceile
 clappering
 caudodorsal
 covertness
@@ -19138,6 +19137,7 @@ collimator
 considered
 collin
 colline
+ceile
 collections
 classicistic
 coxy
