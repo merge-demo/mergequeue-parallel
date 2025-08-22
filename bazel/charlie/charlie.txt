@@ -4363,6 +4363,7 @@ caricaturing
 caricaturist
 courtzilite
 contaminator
+courge
 cooptation
 chimeras
 casuists
@@ -30139,7 +30140,6 @@ crucial
 contraceptionist
 cruciality
 crucially
-courge
 crucian
 crucianella
 chokidar
