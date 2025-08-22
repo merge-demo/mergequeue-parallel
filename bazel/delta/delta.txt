@@ -7298,7 +7298,6 @@ dress
 diphthongia
 diphthongization
 determinated
-driftwood
 diapausing
 determinately
 dirtiness
@@ -10945,6 +10944,7 @@ daimon
 dunder
 duretto
 depictive
+driftwood
 disacknowledgement
 dyingness
 dysacousis
