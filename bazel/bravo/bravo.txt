@@ -2795,7 +2795,6 @@ briggs
 baroque
 baconer
 bowsprits
-butchered
 bureaus
 barites
 bolding
@@ -13246,6 +13245,7 @@ burghal
 baromacrometer
 bossed
 boanergean
+butchered
 bosselation
 bolti
 buffbar

@@ -3337,7 +3337,6 @@ costuming
 censures
 capone
 caponette
-caponier
 caponiere
 caponiers
 canicide
@@ -24524,6 +24523,7 @@ capillus
 chrysidella
 coetaneously
 copehan
+caponier
 copeia
 copelata
 copeman
