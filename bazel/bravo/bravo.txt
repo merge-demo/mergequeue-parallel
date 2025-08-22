@@ -1951,7 +1951,6 @@ beworms
 bacteriophage
 bandwidth
 bagginess
-bandworm
 baylet
 baneberry
 benzoflavine
@@ -1977,6 +1976,7 @@ bangladesh
 bespatters
 blet
 boobialla
+bandworm
 bangled
 bangles
 beleave

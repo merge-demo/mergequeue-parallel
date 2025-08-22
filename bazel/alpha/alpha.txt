@@ -10986,7 +10986,6 @@ atrichous
 afforded
 arcsine
 acetphenetid
-amorite
 amoritic
 astricts
 alma
@@ -16296,6 +16295,7 @@ antiunion
 antiuratic
 antiurease
 acetazolamide
+amorite
 autotrepanation
 angioplerosis
 adulteries
