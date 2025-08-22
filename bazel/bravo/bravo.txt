@@ -9995,7 +9995,6 @@ beblear
 bedfast
 bivocal
 bossism
-bivocalized
 bombings
 bivoluminous
 bivouaced
@@ -13558,6 +13557,7 @@ bouffon
 bremeness
 bopster
 baizing
+bivocalized
 bougainvilliidae
 bite
 bitangential
