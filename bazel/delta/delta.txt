@@ -5905,7 +5905,6 @@ deleting
 droshky
 depredatory
 deontic
-disembargoed
 deodars
 diablene
 duffy
@@ -8611,6 +8610,7 @@ dinge
 debugging
 distilment
 diary
+disembargoed
 diaglyph
 disimprove
 diarist
