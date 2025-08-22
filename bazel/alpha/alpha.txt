@@ -15022,7 +15022,6 @@ antidetonant
 anociassociation
 antidetonating
 actuose
-antidiabetic
 antidicomarian
 aletaster
 antidictionary
@@ -19647,6 +19646,7 @@ aristides
 aristocracy
 abstainment
 aristocratic
+antidiabetic
 aristocraticalness
 alphyn
 aggregates
