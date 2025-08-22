@@ -6039,6 +6039,7 @@ catholicon
 clinkers
 catholicos
 curarize
+chaco
 coraciiform
 cleg
 cyanide
@@ -8047,7 +8048,6 @@ chackled
 chackler
 chacma
 chacmas
-chaco
 chacona
 chaconnes
 caudatolenticular
