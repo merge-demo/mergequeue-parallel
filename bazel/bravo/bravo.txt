@@ -1140,7 +1140,6 @@ baitfish
 buffeter
 ballard
 baiting
-baittle
 baywoods
 bodhisat
 ballasting
@@ -18118,6 +18117,7 @@ bipalium
 brins
 benzal
 bealtared
+baittle
 bloodlettings
 buskin
 butcherer
