@@ -13672,7 +13672,6 @@ dissyllable
 dialecticism
 dashboard
 dignitarial
-distractedness
 dolce
 dissimilars
 dorize
@@ -15817,6 +15816,7 @@ dorpers
 desecrate
 dorr
 doomage
+distractedness
 deflorations
 dorsa
 dentiparous
