@@ -597,6 +597,7 @@ beclothed
 bacteremic
 bacteriaceae
 blooddrops
+bedell
 bacteriaemia
 bacterially
 bacterioblast
@@ -12088,7 +12089,6 @@ bokom
 bola
 bosey
 bolas
-bedell
 bartsia
 balmacaan
 biglenoid
