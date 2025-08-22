@@ -12387,7 +12387,6 @@ disharmonising
 deflexion
 demasculinized
 dwarfishly
-decolorised
 depone
 deepening
 dampened
@@ -15657,6 +15656,7 @@ dooring
 doorknob
 doorless
 destinate
+decolorised
 doormaid
 dietist
 doormats
