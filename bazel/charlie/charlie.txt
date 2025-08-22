@@ -12649,6 +12649,7 @@ chronon
 choppily
 chronons
 chefrinia
+cognoscent
 chronophotography
 chronoscopic
 chronoscopically
@@ -18460,7 +18461,6 @@ carnally
 cathedral
 cognominated
 cognomination
-cognoscent
 changeling
 castelli
 cognoscente
