@@ -1625,7 +1625,6 @@ disorientated
 didymia
 deisin
 disfranchising
-deliverable
 difficulty
 daylong
 dimetrodon
@@ -9280,6 +9279,7 @@ daguerreotyper
 dewar
 dietaries
 deosculate
+deliverable
 disploding
 dictatress
 dialogues
