@@ -4376,7 +4376,6 @@ asthenias
 allemande
 agrypnode
 adumbrative
-anticommercialistic
 adunation
 anybodies
 adunc
@@ -12794,6 +12793,7 @@ abjunction
 angiotribe
 angiotripsy
 angiotrophic
+anticommercialistic
 aweto
 antiepicenter
 angiport
