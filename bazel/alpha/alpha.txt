@@ -8671,7 +8671,6 @@ anoxidative
 anemology
 alleleu
 allelic
-alferez
 allelism
 almes
 alternationist
@@ -13976,6 +13975,7 @@ antebellum
 aht
 automobilistic
 antebrachial
+alferez
 authorizers
 antebrachium
 amouret
