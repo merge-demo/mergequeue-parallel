@@ -4579,7 +4579,6 @@ belial
 biddelian
 beats
 bedazement
-bedazzle
 blared
 banters
 bowsprit
@@ -14818,6 +14817,7 @@ breadfruit
 breadfruits
 bietle
 bristler
+bedazzle
 bluetops
 bronchopulmonary
 bedewer
