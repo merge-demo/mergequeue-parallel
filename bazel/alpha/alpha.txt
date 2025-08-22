@@ -13691,7 +13691,6 @@ alcoholomania
 annoyancer
 augmenter
 antileak
-avant
 anomatheca
 anomiacea
 acquiet
@@ -16732,6 +16731,7 @@ aphidozer
 aphodi
 archipterygium
 angelim
+avant
 amphigonia
 adultoid
 aphydrotropic
