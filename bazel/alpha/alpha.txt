@@ -14692,7 +14692,6 @@ ammonolyzed
 aureously
 antibridal
 ageism
-affright
 amphogeny
 antibubonic
 aeroview
@@ -19955,6 +19954,7 @@ armure
 aggros
 armures
 arn
+affright
 achromatinic
 agacella
 arnatto
