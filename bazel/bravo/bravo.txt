@@ -5929,6 +5929,7 @@ belostomatidae
 bisnagas
 bouillabaisse
 belostomidae
+baryphony
 belotte
 bowden
 broadening
@@ -8344,7 +8345,6 @@ blickeys
 bonamano
 bemuddled
 brulot
-baryphony
 bankside
 biserially
 batatilla
