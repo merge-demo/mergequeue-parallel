@@ -8957,6 +8957,7 @@ djelab
 dioptrometry
 drifter
 dimethoxymethane
+dentonasal
 dom
 deedless
 desirably
@@ -15086,7 +15087,6 @@ drysalteries
 doggers
 dyspnoeas
 dilogarithm
-dentonasal
 democratized
 doggy
 doughboy
