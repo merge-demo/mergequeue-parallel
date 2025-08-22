@@ -11387,7 +11387,6 @@ cressweed
 cotemporary
 chlorophyllase
 chlorophyllian
-chlorophyllide
 choliamb
 catastrophical
 camisadoes
@@ -13127,6 +13126,7 @@ confest
 cibarial
 ceroxyle
 champaca
+chlorophyllide
 cibarian
 cibaries
 chippering
