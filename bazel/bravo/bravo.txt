@@ -1789,7 +1789,6 @@ bambute
 blackheart
 becombed
 baserunning
-belonid
 bruiting
 bechtler
 blocklike
@@ -9420,6 +9419,7 @@ bovidae
 boga
 birectangular
 burh
+belonid
 batteler
 bireme
 bedlids
