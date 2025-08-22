@@ -2915,7 +2915,6 @@ deaconry
 ducatus
 divagation
 dansk
-diacope
 dedifferentiated
 dedifferentiating
 dedignation
@@ -13939,6 +13938,7 @@ distillatory
 deflagrations
 distillery
 dynamogeneses
+diacope
 deodand
 disdainous
 dachs
