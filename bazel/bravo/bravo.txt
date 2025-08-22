@@ -726,6 +726,7 @@ boyish
 bizcacha
 brinjal
 badgerlike
+badmash
 bending
 befoul
 bandsawing
@@ -4721,7 +4722,6 @@ bedlamizing
 bedlamps
 boottopping
 butcherliness
-badmash
 bedlams
 bienseance
 bursula
