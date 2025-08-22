@@ -7461,7 +7461,6 @@ ae
 arditi
 approbation
 atlas
-arminianism
 albuminimeter
 albuminiparous
 acromial
@@ -16396,6 +16395,7 @@ ants
 antsier
 antsiest
 assailable
+arminianism
 accentus
 altarist
 alkargen
