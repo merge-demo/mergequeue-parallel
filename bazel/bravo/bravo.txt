@@ -12223,7 +12223,6 @@ balaenopteridae
 birdling
 blizzardy
 broos
-bolographic
 broggerite
 baluchitherium
 boloism
@@ -16012,6 +16011,7 @@ basnet
 bauge
 blepharospath
 brontology
+bolographic
 bollards
 barbiturates
 burgessdom
