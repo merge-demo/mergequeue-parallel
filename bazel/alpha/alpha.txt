@@ -9784,7 +9784,6 @@ amanitine
 aerifying
 amanitins
 agglomerator
-amanitopsis
 antireforming
 aspergillums
 arteriectomy
@@ -21342,6 +21341,7 @@ asouth
 asp
 aspace
 agnoiology
+amanitopsis
 asparagic
 asparagyl
 antiglyoxalase

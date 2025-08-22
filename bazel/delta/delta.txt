@@ -2576,6 +2576,7 @@ desistence
 diplocephalous
 decoat
 decoct
+disobliges
 demiquaver
 decocting
 decoctive
@@ -12937,7 +12938,6 @@ disoblige
 disobliged
 disobliger
 dognapping
-disobliges
 demobilization
 duff
 darkful
