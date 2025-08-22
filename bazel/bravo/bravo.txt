@@ -2114,7 +2114,6 @@ bosch
 brouillon
 bay
 barring
-borofluoride
 bantayan
 buckshots
 bidstand
@@ -12169,6 +12168,7 @@ beaumontia
 beeps
 beclasped
 broses
+borofluoride
 blarneyed
 boletaceae
 boletes
