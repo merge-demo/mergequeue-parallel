@@ -3217,7 +3217,6 @@ acupuncturation
 aleberry
 approachabl
 azotine
-acquainted
 acupuncturator
 acupuncture
 abonne
@@ -11331,6 +11330,7 @@ abaff
 anobiidae
 amphora
 amphorae
+acquainted
 anthracite
 apiator
 amphore
