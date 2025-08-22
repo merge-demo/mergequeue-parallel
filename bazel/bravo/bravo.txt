@@ -4319,7 +4319,6 @@ beccabunga
 beefer
 birrettas
 beccafico
-buttressing
 beccaficoes
 beccaficos
 becchi
@@ -15424,6 +15423,7 @@ boundary
 bilboes
 breaststroker
 breadberry
+buttressing
 bodoni
 banding
 babyish
