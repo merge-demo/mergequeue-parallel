@@ -6075,7 +6075,6 @@ bemurmure
 bemurmuring
 bittier
 bemuses
-bol
 ballmine
 belswagger
 bemuzzling
@@ -6099,6 +6098,7 @@ benasty
 beholdable
 bedrift
 bataan
+bol
 boarskin
 binauricular
 benchership
