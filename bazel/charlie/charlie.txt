@@ -14946,6 +14946,7 @@ chasmy
 cytopenia
 cytophagic
 cytophagous
+callous
 calcines
 cytopharynx
 coldturkey
@@ -17521,7 +17522,6 @@ cobelief
 cobeliever
 chowderheaded
 coracomandibular
-callous
 coberger
 catechins
 caffeina
