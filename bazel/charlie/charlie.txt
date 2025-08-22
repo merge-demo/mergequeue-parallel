@@ -9046,7 +9046,6 @@ charisms
 cancrophagous
 charisticary
 charitative
-coquettish
 colloq
 charities
 condition
@@ -25308,6 +25307,7 @@ commemorating
 corncake
 causeways
 corncakes
+coquettish
 calamined
 corncobs
 cams
