@@ -1939,7 +1939,6 @@ checkered
 camera
 capitols
 counterwill
-cumulose
 cyprinodont
 camerae
 curbless
@@ -23521,6 +23520,7 @@ contests
 chinquapin
 clodding
 constatations
+cumulose
 contextive
 contex
 context
