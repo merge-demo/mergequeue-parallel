@@ -1496,6 +1496,7 @@ calliandra
 cedulas
 curraghs
 calligrapha
+conjuration
 chemurgy
 calligraphers
 calligraphy
@@ -22537,7 +22538,6 @@ cheekful
 conjuncts
 conjunctur
 conjunctures
-conjuration
 conjurations
 cesar
 conjured
