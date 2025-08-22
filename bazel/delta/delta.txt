@@ -5295,7 +5295,6 @@ denouncers
 detestable
 detinue
 dentale
-dissimulate
 dilettanteish
 degressively
 disher
@@ -11802,6 +11801,7 @@ dismisses
 diplococcoid
 dollarleaf
 delabialize
+dissimulate
 duny
 dosserets
 deinodon
