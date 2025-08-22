@@ -1465,7 +1465,6 @@ biddulphia
 bigwiggedness
 balkans
 bluestocking
-banishment
 blanchingly
 banig
 breathtaking
@@ -16532,6 +16531,7 @@ boringly
 bsh
 butyrochloral
 brasier
+banishment
 blubbered
 btry
 bots
