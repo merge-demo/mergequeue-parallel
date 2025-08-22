@@ -9253,7 +9253,6 @@ bothersomeness
 biacuminate
 balewort
 bracteiform
-byplay
 bottonhook
 bullfrogs
 batfowler
@@ -12211,6 +12210,7 @@ bunkum
 bollworm
 blizzardly
 bicron
+byplay
 bicarbide
 buckhound
 balustered
