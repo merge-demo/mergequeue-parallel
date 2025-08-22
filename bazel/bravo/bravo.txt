@@ -5006,6 +5006,7 @@ biliousness
 bemail
 beetfly
 blowhards
+bultey
 bicameralist
 beethovenian
 bowlines
@@ -12105,7 +12106,6 @@ boldfacing
 boldhearted
 beclip
 beg
-bultey
 burd
 beloid
 borborygm
