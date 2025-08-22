@@ -1835,7 +1835,6 @@ bullary
 barricos
 besotter
 bandeau
-betula
 bancus
 backstabber
 bandelette
@@ -4654,6 +4653,7 @@ breakfastless
 beltmaking
 bhikhari
 briquetted
+betula
 bedfellows
 buildable
 barlows
