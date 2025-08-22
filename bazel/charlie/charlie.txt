@@ -12139,6 +12139,7 @@ chout
 culturist
 chowanoc
 chowchows
+chromosomal
 clockwork
 chowhound
 coapprehend
@@ -18841,7 +18842,6 @@ coleopterology
 catteries
 comediettas
 coleopteron
-chromosomal
 coleoptilum
 chapfallen
 chayote
