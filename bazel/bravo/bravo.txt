@@ -2464,7 +2464,6 @@ batino
 brendan
 bromelin
 barandos
-balaklava
 baphomet
 bereason
 bibliophilism
@@ -11078,6 +11077,7 @@ bankruptlike
 beguines
 blockheadish
 blockheads
+balaklava
 blockholer
 beveto
 bilirubinic
