@@ -1426,7 +1426,6 @@ calypsonian
 cowheel
 calypsos
 charbon
-cholic
 counselorship
 calypters
 confect
@@ -28727,6 +28726,7 @@ cole
 creosotes
 creosotic
 cocircularity
+cholic
 clericity
 crepey
 chiru
