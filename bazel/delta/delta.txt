@@ -7913,6 +7913,7 @@ defrock
 degringolade
 dewlapped
 deuniting
+doormaker
 dewless
 daggled
 dewlike
@@ -15647,7 +15648,6 @@ doorless
 destinate
 doormaid
 dietist
-doormaker
 doormats
 digitorium
 doormen
