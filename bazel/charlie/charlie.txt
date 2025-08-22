@@ -661,7 +661,6 @@ caespitose
 caespitosely
 cinemize
 crownal
-caestus
 creatins
 caestuses
 caesura
@@ -11523,6 +11522,7 @@ conoidally
 choristoma
 circularizer
 choirman
+caestus
 conspirers
 colonizations
 corelysis
