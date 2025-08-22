@@ -15553,6 +15553,7 @@ dongola
 dyspepsia
 drams
 doni
+drammocks
 diopsides
 deliquesced
 disvalued
@@ -16743,7 +16744,6 @@ drammock
 drypoint
 disadvised
 dewily
-drammocks
 dicey
 desalt
 disclaimer
