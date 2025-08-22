@@ -1731,6 +1731,7 @@ accusatives
 arbalests
 archtraitor
 atticized
+aurification
 antediluvian
 accusatory
 abases
@@ -2958,7 +2959,6 @@ alcyon
 adrenolytic
 actinoblast
 actinobranch
-aurification
 abdication
 actinocarpic
 actinochemistry
