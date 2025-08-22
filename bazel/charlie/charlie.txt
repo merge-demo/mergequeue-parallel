@@ -735,7 +735,6 @@ cager
 characterical
 causations
 cleaning
-cagers
 corners
 chasselas
 cages
@@ -5469,6 +5468,7 @@ chloramide
 casuarina
 casuarius
 celeomorph
+cagers
 chamaecyparis
 crunode
 casuistess
