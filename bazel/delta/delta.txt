@@ -2818,7 +2818,6 @@ disequalization
 decastellate
 draggle
 decrypt
-decryption
 dasyus
 decrowning
 detenus
@@ -10154,6 +10153,7 @@ dynes
 desentimentalize
 deminatured
 dinetic
+decryption
 dinette
 denazifies
 desilicating
