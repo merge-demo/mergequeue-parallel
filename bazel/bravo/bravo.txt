@@ -13836,7 +13836,6 @@ baggy
 brephic
 bowelling
 bower
-bowerbird
 bituberculated
 bullgine
 binominal
@@ -17905,6 +17904,7 @@ bushgrass
 bubbled
 bowered
 bushy
+bowerbird
 barton
 badly
 beltane
