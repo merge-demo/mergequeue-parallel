@@ -6805,7 +6805,6 @@ barnumize
 berskin
 balize
 berhyme
-banjore
 bert
 blowhole
 berteroa
@@ -8921,6 +8920,7 @@ bocal
 billons
 bioecological
 bounty
+banjore
 bioecologically
 balatong
 bioelectrical
