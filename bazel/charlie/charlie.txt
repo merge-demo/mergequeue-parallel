@@ -4963,7 +4963,6 @@ columbia
 cartogram
 criniger
 comminate
-cartography
 cypseli
 cartographic
 cartographical
@@ -8946,6 +8945,7 @@ cotylophorous
 charases
 charbocle
 charbonnier
+cartography
 coldheartedly
 crumby
 chancellery
