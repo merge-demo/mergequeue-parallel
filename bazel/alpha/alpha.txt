@@ -8000,7 +8000,6 @@ alfenide
 alferes
 aefaldness
 authentical
-alfileria
 astert
 anthropocosmic
 acrosporous
@@ -22308,6 +22307,7 @@ astrology
 astrologically
 astrologist
 astriction
+alfileria
 astrologistic
 anagrammatise
 astrologize
