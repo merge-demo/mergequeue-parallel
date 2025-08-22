@@ -7654,6 +7654,7 @@ cerebrometer
 cerebron
 cerebronic
 cerebroparietal
+coassuming
 cerebropedal
 coppy
 cerebropsychosis
@@ -17391,7 +17392,6 @@ culpas
 cupola
 coassume
 crystallic
-coassuming
 chrysolite
 coast
 coastal
