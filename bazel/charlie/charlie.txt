@@ -16932,7 +16932,6 @@ cluck
 cyclas
 crotonbug
 chinches
-cometoid
 cypselae
 compendiously
 clucky
@@ -27639,6 +27638,7 @@ cowerers
 camerlingo
 coweringly
 cowers
+cometoid
 cowgrass
 cowhage
 cowhand
