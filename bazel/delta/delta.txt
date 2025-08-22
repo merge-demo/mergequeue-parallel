@@ -7092,6 +7092,7 @@ demesmerize
 descriptiveness
 desto
 disvalues
+diaclinal
 darted
 damselfish
 destour
@@ -13761,7 +13762,6 @@ demulsion
 dissociations
 defluous
 deadlihead
-diaclinal
 dissogeny
 departmentalize
 dissogony
