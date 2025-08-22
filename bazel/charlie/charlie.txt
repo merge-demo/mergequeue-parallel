@@ -5135,7 +5135,6 @@ chrysographer
 cholecyanin
 cyberneticists
 cherimolla
-casein
 caseinate
 cancriform
 canvaser
@@ -9157,6 +9156,7 @@ charshaf
 charsingha
 curvacious
 container
+casein
 charta
 chartable
 charter
