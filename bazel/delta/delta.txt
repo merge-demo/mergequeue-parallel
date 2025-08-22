@@ -4186,7 +4186,6 @@ damner
 deaconess
 durneder
 dunstable
-doctorhood
 discolorization
 dicyanogen
 desynapsis
@@ -4849,6 +4848,7 @@ demonetize
 derotrema
 dextrous
 dyscrasing
+doctorhood
 disappearances
 dactylioglyph
 dermatosis
