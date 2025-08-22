@@ -14287,7 +14287,6 @@ apiaceous
 antireaction
 aniseikonia
 antholite
-arcubos
 anthology
 anthological
 anthologically
@@ -17132,6 +17131,7 @@ anagrammatised
 apology
 apologiae
 asarone
+arcubos
 apologias
 apological
 apologies
