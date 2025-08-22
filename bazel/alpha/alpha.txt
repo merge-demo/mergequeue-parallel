@@ -8001,7 +8001,6 @@ antimoniureted
 alfaje
 alfaki
 alfalfas
-aer
 ayyubid
 anapaest
 algesia
@@ -15909,6 +15908,7 @@ antipsalmist
 acidimeter
 armill
 accidia
+aer
 antipsychotic
 angloman
 appointor
