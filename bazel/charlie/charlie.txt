@@ -6401,6 +6401,7 @@ cribbers
 cilantro
 cautery
 cauteries
+churnings
 cauterisation
 couche
 cauterise
@@ -28636,7 +28637,6 @@ crembalum
 cutties
 cremes
 cremone
-churnings
 chromophilia
 clothilda
 choirboy
