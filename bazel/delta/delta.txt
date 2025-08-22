@@ -5118,7 +5118,6 @@ duplicating
 dendrohyrax
 deneutralization
 dacryoadenalgia
-dendrolater
 desexes
 durwaun
 detect
@@ -12246,6 +12245,7 @@ deathshot
 dervishes
 disfurniture
 donax
+dendrolater
 disgarnish
 descartes
 deliberativeness
