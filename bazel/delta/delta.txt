@@ -4864,7 +4864,6 @@ disrobed
 doweries
 deepness
 dharna
-detickers
 demonical
 decadal
 deathcups
@@ -10439,6 +10438,7 @@ diphenylamine
 diphenylaminechlorarsine
 diphenylchloroarsine
 diospyros
+detickers
 diphenylene
 despend
 diphenylenimine
