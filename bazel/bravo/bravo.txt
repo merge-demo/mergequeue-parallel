@@ -4756,7 +4756,6 @@ bedrabbling
 bauds
 bogway
 bedrails
-binnacle
 bedral
 bedraped
 bedraping
@@ -12046,6 +12045,7 @@ beking
 barbascos
 boyhoods
 bebloom
+binnacle
 balisaurs
 boilable
 bromocresol
