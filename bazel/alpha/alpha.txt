@@ -8160,6 +8160,7 @@ antependium
 alhambra
 asteria
 alhena
+acetazolamide
 apogeotropically
 aaronic
 alhenna
@@ -16292,7 +16293,6 @@ aperitive
 antiunion
 antiuratic
 antiurease
-acetazolamide
 amorite
 autotrepanation
 angioplerosis
