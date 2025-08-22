@@ -13855,7 +13855,6 @@ cantons
 crestfallen
 carrageen
 cochromatography
-cinematically
 cinematizing
 cinematograph
 cinematography
@@ -25460,6 +25459,7 @@ cutdown
 corocleisis
 caricaturable
 corody
+cinematically
 corodiary
 corodiastasis
 convicting
