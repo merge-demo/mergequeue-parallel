@@ -4268,7 +4268,6 @@ beckett
 beaverteen
 bebay
 bogotana
-beballed
 barretter
 bebang
 bebathe
@@ -4546,6 +4545,7 @@ bool
 bedabble
 beaten
 busts
+beballed
 beagles
 barricadoed
 bunch
