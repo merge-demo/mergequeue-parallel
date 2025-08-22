@@ -741,7 +741,6 @@ chasselas
 cages
 cocoa
 colonelship
-cogrediency
 chlornal
 cagework
 coordinators
@@ -16255,6 +16254,7 @@ cathedratical
 counterreligion
 cline
 clines
+cogrediency
 caudexes
 clinger
 crankness

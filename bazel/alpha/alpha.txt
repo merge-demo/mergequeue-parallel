@@ -1220,7 +1220,6 @@ allograft
 antimedically
 amidst
 acanthodes
-acanthodidae
 acanthodini
 alcoholise
 aspirations
@@ -6869,6 +6868,7 @@ aglyphous
 aptian
 aventine
 airview
+acanthodidae
 angakoks
 airway
 aflutter
