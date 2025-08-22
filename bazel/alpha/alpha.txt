@@ -17767,7 +17767,6 @@ antiaris
 alida
 arras
 apposition
-appositive
 annexed
 amobarbital
 apppetible
@@ -19962,6 +19961,7 @@ arnberry
 address
 antiscientifically
 arne
+appositive
 amafingo
 abseil
 arnee
