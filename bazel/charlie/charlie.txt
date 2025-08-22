@@ -4689,7 +4689,6 @@ chela
 carpathian
 carpe
 carped
-carpellary
 cytinaceous
 composograph
 carpenters
@@ -10713,6 +10712,7 @@ chimla
 chimleys
 cynicalness
 cutlass
+carpellary
 calciclase
 chytridial
 cantharidated
