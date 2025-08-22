@@ -121,7 +121,6 @@ chordophone
 clitelline
 cabinetworker
 cabinetworking
-cabinlike
 crafter
 cabio
 chemisorptive
@@ -10645,6 +10644,7 @@ chylophyllous
 crunchily
 chylophyllously
 cabalistically
+cabinlike
 collielike
 cashbook
 chylopoiesis
