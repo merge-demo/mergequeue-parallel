@@ -7257,7 +7257,6 @@ cups
 centriscoid
 centriscus
 centrism
-chalices
 clark
 cinemascope
 comite
@@ -25651,6 +25650,7 @@ club
 correctible
 confirmatorily
 cubicly
+chalices
 correctionalist
 correctioner
 conformities
