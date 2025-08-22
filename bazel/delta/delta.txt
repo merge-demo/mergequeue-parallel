@@ -2710,7 +2710,6 @@ decorating
 dont
 discounsel
 diplopterous
-deedful
 dassy
 domoid
 deductibility
@@ -18211,6 +18210,7 @@ decener
 dundasite
 didascalar
 downfallen
+deedful
 depersonalize
 delights
 ditetragonal
