@@ -4107,6 +4107,7 @@ botulinum
 beardy
 blanchimeter
 bearding
+birostrate
 balminess
 beslimer
 beards
@@ -9476,7 +9477,6 @@ brittling
 babingtonite
 biron
 byronesque
-birostrate
 byronic
 binocles
 beirut
