@@ -3047,7 +3047,6 @@ durzada
 disinvolvement
 dairi
 defacement
-defacements
 disgustfully
 disquietingly
 deadliness
@@ -4777,6 +4776,7 @@ democratising
 directeur
 detailed
 democratism
+defacements
 dillydallied
 democratize
 destaining
