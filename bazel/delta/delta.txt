@@ -1599,7 +1599,6 @@ deadwork
 deaerated
 dorsum
 distrouble
-deaf
 dynamogenous
 decimate
 destuffing
@@ -13929,6 +13928,7 @@ druthers
 distichal
 demisable
 diadelphia
+deaf
 distichlis
 dephased
 dimerous
