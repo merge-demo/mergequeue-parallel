@@ -5039,7 +5039,6 @@ dissents
 dictamen
 denasalized
 dequeued
-difluoride
 downdraft
 devotes
 doand
@@ -11073,6 +11072,7 @@ diamagnetically
 droning
 drink
 deedy
+difluoride
 denumerability
 decernment
 divisor
