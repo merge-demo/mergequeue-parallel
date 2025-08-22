@@ -1554,7 +1554,6 @@ callitris
 crenitic
 chaplanry
 cartographer
-callo
 crawlway
 commonwealthism
 cuddle
@@ -15697,6 +15696,7 @@ claughted
 chapitle
 claughts
 confisticating
+callo
 claus
 catholically
 clausal
