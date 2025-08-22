@@ -1817,7 +1817,6 @@ carucal
 cercelee
 camansi
 camara
-camarade
 camaraderie
 camarasaurus
 camarera
@@ -20690,6 +20689,7 @@ complementative
 complemented
 carotin
 complementer
+camarade
 cooniest
 caudotibial
 complementers
