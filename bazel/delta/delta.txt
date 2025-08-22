@@ -4471,7 +4471,6 @@ disentitle
 doctrinalism
 dingey
 demesnial
-decrypting
 dysmenorrhoeal
 disillusioning
 dendrons
@@ -18385,6 +18384,7 @@ duodenoscopy
 digmeat
 duodenostomy
 deceptiously
+decrypting
 deuteroconid
 dihalo
 depside
