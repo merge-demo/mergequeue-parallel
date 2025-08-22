@@ -3155,6 +3155,7 @@ coatimondie
 closemouth
 caper
 caperbush
+cynghanedd
 capercaillie
 chaulmoogric
 capercut
@@ -13914,7 +13915,6 @@ cinerin
 cinerous
 cingalese
 cortinae
-cynghanedd
 catalysis
 cingle
 cauchemar
