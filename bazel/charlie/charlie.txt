@@ -1094,7 +1094,6 @@ calcimining
 choppin
 crossbarred
 calcinate
-calcinator
 calcine
 chemoreceptivities
 coherently
@@ -14252,6 +14251,7 @@ circumarticular
 circumaviate
 circumaviator
 cowlike
+calcinator
 circumaxial
 circumaxillary
 cymose
