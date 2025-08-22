@@ -758,7 +758,6 @@ badlands
 buba
 bat
 brushcut
-bygoing
 banket
 badmouthed
 badmouths
@@ -3573,6 +3572,7 @@ bathkol
 bipartite
 bathmat
 bathmats
+bygoing
 broodsac
 bereaven
 basion
