@@ -3161,7 +3161,6 @@ dozenths
 dorsers
 defectum
 dummkopf
-dictums
 dasyures
 damselflies
 dudelsack
@@ -7533,6 +7532,7 @@ dihydromorphinone
 dreegh
 deplorably
 dextrogyratory
+dictums
 demidoctor
 dolichocranic
 dilettanteism
