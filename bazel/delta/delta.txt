@@ -9065,7 +9065,6 @@ dictative
 dictatory
 dictatorialness
 deary
-dictatorships
 dictature
 dihexahedral
 dorsals
@@ -14767,6 +14766,7 @@ drainerman
 dekametre
 declinedness
 darnation
+dictatorships
 dioptrically
 docents
 dedolomitize
