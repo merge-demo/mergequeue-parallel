@@ -17400,6 +17400,7 @@ droppers
 diurnalness
 dropping
 disframe
+durationless
 declaims
 departmentalisation
 droppings
@@ -17882,7 +17883,6 @@ derbies
 debutante
 destituteness
 doctrine
-durationless
 dueled
 deathday
 duelers
