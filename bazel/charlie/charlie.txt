@@ -16770,7 +16770,6 @@ crimpling
 clots
 chaconne
 clotted
-cyanus
 carts
 consonantalized
 clotty
@@ -18240,6 +18239,7 @@ coexistence
 countermessage
 comicodidactic
 coexisting
+cyanus
 coexpand
 chalcidoidea
 coexpanded
