@@ -4288,7 +4288,6 @@ carfare
 carfares
 carfloat
 coater
-carfuffle
 capiteaux
 camauros
 centroidal
@@ -22552,6 +22551,7 @@ concredit
 conkers
 corpulency
 commonness
+carfuffle
 castuli
 colorrhaphy
 clammish
