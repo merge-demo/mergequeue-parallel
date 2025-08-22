@@ -2820,6 +2820,7 @@ canoeist
 canoeload
 canoes
 cardiogenesis
+cerements
 cryptoanalyst
 cukes
 canoewood
@@ -7649,7 +7650,6 @@ cerebrospinant
 cerebrosuria
 cerebrovascular
 collarets
-cerements
 cucuyo
 coiffing
 curettes
