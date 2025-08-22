@@ -818,7 +818,6 @@ becomingly
 boltholes
 baft
 bigate
-baftah
 buoyages
 boldheartedly
 bals
@@ -4177,6 +4176,7 @@ beastlings
 bulgy
 beastman
 barracoutas
+baftah
 beastship
 beat
 benches
