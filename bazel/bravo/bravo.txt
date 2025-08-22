@@ -10410,6 +10410,7 @@ banner
 badling
 bronco
 bailwood
+brimborium
 burgrave
 biosynthesis
 bravado
@@ -10454,7 +10455,6 @@ blares
 babiches
 boongary
 blaring
-brimborium
 bedeafens
 boatlike
 blarneys
