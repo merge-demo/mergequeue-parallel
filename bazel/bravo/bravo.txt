@@ -1910,7 +1910,6 @@ bivalent
 birny
 bandolerismo
 buckayros
-bandoleros
 brockle
 bandor
 baaskaap
@@ -9228,6 +9227,7 @@ beguilements
 bronchioli
 bipinnariae
 bastnasite
+bandoleros
 biordinal
 batussi
 bladebone
