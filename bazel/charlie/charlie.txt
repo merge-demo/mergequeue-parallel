@@ -19542,7 +19542,6 @@ colourless
 ceruleum
 colourman
 colpenchyma
-closet
 colpindach
 canzonets
 colpitis
@@ -21848,6 +21847,7 @@ cones
 conestoga
 conf
 counterpose
+closet
 confab
 constructionists
 cleaner
