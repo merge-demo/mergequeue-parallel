@@ -17643,7 +17643,6 @@ applaudably
 ancyroid
 allicin
 applauders
-applauds
 applauses
 armillas
 aponeuroses
@@ -23391,6 +23390,7 @@ audubon
 auf
 aufgabe
 accentuation
+applauds
 anguishous
 auftakt
 aug
