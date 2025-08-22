@@ -908,7 +908,6 @@ confided
 cholesterosis
 cakavci
 cakchikel
-cushily
 caker
 cakette
 chaptalization
@@ -15933,6 +15932,7 @@ cleidocostal
 cleidohyoid
 cleidoic
 chiromance
+cushily
 cherts
 cleidomancy
 cleidorrhexis
