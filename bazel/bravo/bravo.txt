@@ -13354,7 +13354,6 @@ bathyorographical
 benightedly
 bothersomely
 bothy
-beatings
 basivertebral
 bothie
 bardesanist
@@ -14874,6 +14873,7 @@ breakthrough
 bayoneted
 breakthroughs
 breakweather
+beatings
 barky
 brain
 bankings
