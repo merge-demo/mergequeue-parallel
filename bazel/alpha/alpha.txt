@@ -6203,6 +6203,7 @@ agrace
 ahold
 agraffe
 alimental
+akinesis
 analemmatic
 agral
 adiposities
@@ -18044,7 +18045,6 @@ apulian
 artocarpus
 attesters
 apus
-akinesis
 antechoir
 aquacade
 aquacultural
