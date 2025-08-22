@@ -6259,7 +6259,6 @@ antinomic
 antipapal
 angelizing
 arthropathology
-attractable
 accorded
 agrestial
 archduchess
@@ -14354,6 +14353,7 @@ anthracomarti
 analepsis
 antiprelatism
 anthracometric
+attractable
 abecedarium
 abnormalist
 anthracosaurus
