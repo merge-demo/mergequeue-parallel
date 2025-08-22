@@ -17490,6 +17490,7 @@ appearer
 appearers
 appearing
 appears
+acoustic
 arsonic
 absoluter
 appease
@@ -23755,7 +23756,6 @@ apostatic
 amatories
 acicular
 austrianize
-acoustic
 aldermanry
 austrians
 annite
