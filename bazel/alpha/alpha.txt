@@ -17668,7 +17668,6 @@ apples
 applewoman
 assigning
 adopts
-applewood
 apply
 adjacencies
 anthorine
@@ -21401,6 +21400,7 @@ aspergillosis
 alabastra
 acetylsalicylic
 aspergillus
+applewood
 asperifoliae
 asperifoliate
 asperity
