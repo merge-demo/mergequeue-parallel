@@ -4614,7 +4614,6 @@ aphrizite
 agitates
 aefald
 aefaldy
-aljoba
 antrostomus
 arthriticine
 aegagropila
@@ -15961,6 +15960,7 @@ apprehendable
 asterwort
 antirecruiting
 autophonous
+aljoba
 aromatiser
 advisable
 arariba
