@@ -15768,6 +15768,7 @@ disyntheme
 dater
 dicht
 drubbly
+delays
 dicyanine
 dogshore
 dorm
@@ -16908,7 +16909,6 @@ dreadnought
 disport
 dreamful
 demobilizations
-delays
 dreamhole
 dipladenia
 discriminations
