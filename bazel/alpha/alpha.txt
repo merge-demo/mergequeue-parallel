@@ -294,7 +294,6 @@ agas
 admiratively
 abdominothoracic
 acquiescent
-abdominous
 abducens
 abducentes
 abduces
@@ -17094,6 +17093,7 @@ avocets
 anisochromia
 aculeata
 apogeotropism
+abdominous
 apogon
 autolaryngoscopy
 afterfuture
