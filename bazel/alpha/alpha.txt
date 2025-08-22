@@ -8468,7 +8468,6 @@ adjoint
 audivise
 acerbic
 angustate
-animator
 abdomens
 adaptable
 alacreatinine
@@ -9507,6 +9506,7 @@ afrikaans
 alternipetalous
 alternity
 antiluetin
+animator
 asininely
 alternize
 absolved

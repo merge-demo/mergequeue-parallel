@@ -1940,7 +1940,6 @@ debs
 diatonical
 dissilience
 dyophysitism
-defenceless
 demireps
 dallyman
 debtee
@@ -13456,6 +13455,7 @@ demiglace
 dought
 dumbheaded
 drawglove
+defenceless
 dimetient
 disregardant
 disregarded
