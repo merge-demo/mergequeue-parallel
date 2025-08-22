@@ -1717,7 +1717,6 @@ deasil
 dearness
 deaspirate
 dispensations
-decostate
 debilitant
 defensibility
 deaspiration
@@ -2143,6 +2142,7 @@ decapitation
 decapitations
 disassemble
 downfall
+decostate
 dicecup
 decalcomanias
 decapodal
