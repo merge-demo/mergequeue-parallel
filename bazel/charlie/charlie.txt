@@ -9279,6 +9279,7 @@ cooper
 categorize
 chataka
 chatchka
+commutator
 croziers
 coterminal
 chatchke
@@ -20382,7 +20383,6 @@ commutation
 commutatively
 carpogone
 commutativity
-commutator
 commute
 commuted
 cacography
