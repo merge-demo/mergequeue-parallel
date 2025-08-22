@@ -1537,6 +1537,7 @@ callippic
 callirrhoe
 callisaurus
 callisteia
+capsize
 callistephus
 callisthenic
 cossid
@@ -15013,7 +15014,6 @@ cothurns
 cfh
 citrangeade
 carronade
-capsize
 clouring
 contorsion
 chlorpropamide
