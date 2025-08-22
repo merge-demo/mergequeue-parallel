@@ -7630,6 +7630,7 @@ backened
 biogenies
 beeper
 burgling
+borborygmic
 bewraps
 belesprit
 bewrapt
@@ -11083,7 +11084,6 @@ bioral
 blockiest
 bevelling
 blocking
-borborygmic
 benzimidazole
 biomorphic
 broil
