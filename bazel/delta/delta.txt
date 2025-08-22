@@ -3326,6 +3326,7 @@ dentils
 doles
 dagos
 deturn
+dsect
 defis
 deflagrable
 dialling
@@ -12265,7 +12266,6 @@ damndest
 deresinate
 daystar
 dysgenical
-dsect
 dimication
 dobermans
 disglut
