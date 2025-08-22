@@ -4769,7 +4769,6 @@ clementine
 canicular
 carpocephalum
 caryotins
-counterstroke
 carpocerite
 carpocratian
 carpogam
@@ -20300,6 +20299,7 @@ czechoslovakians
 communalize
 ceratoglossus
 communalizer
+counterstroke
 carbophilous
 chorographies
 communed
