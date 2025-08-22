@@ -26488,6 +26488,7 @@ colorations
 cotton
 cottonbush
 chumpishness
+cmdg
 cogitantly
 cottoner
 crockeries
@@ -30067,7 +30068,6 @@ comptrol
 cephalophorous
 chordoid
 crowder
-cmdg
 crowdy
 crowdies
 confecture
