@@ -6272,6 +6272,7 @@ benightedness
 benorth
 benefact
 bensall
+beggared
 barbigerous
 bravadoed
 blossom
@@ -9202,7 +9203,6 @@ bypaths
 buffin
 biped
 bipedal
-beggared
 bogo
 backhauling
 biliate

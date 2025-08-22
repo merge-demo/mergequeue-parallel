@@ -4803,6 +4803,7 @@ aerocraft
 aspheterize
 amas
 amoebous
+arrogates
 arkwright
 aerodynamical
 aerodynamically
@@ -20251,7 +20252,6 @@ astonied
 auxil
 allotriuria
 afocal
-arrogates
 attitudinizing
 acutangular
 adpromission
