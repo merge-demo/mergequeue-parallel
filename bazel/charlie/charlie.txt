@@ -8049,6 +8049,7 @@ complainable
 chimin
 chaccon
 chachalakas
+coverings
 chackchiuma
 chacker
 chackle
@@ -27537,7 +27538,6 @@ coprolalia
 carangidae
 covered
 coverer
-coverings
 comped
 cower
 coverlets

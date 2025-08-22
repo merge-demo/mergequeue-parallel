@@ -2683,7 +2683,6 @@ deconsideration
 decontaminates
 decontaminating
 diatessaron
-dortiness
 dejectly
 decontaminators
 dvornik
@@ -3913,6 +3912,7 @@ dejeration
 dejeuner
 dekadrachm
 dekagramme
+dortiness
 doggerelize
 discommunity
 decumbiture
