@@ -1131,7 +1131,6 @@ bairnwort
 baisemain
 besmears
 benedictine
-bushwa
 betaken
 baiters
 blachong
@@ -8630,6 +8629,7 @@ backfold
 bounceable
 buncoed
 bebization
+bushwa
 brochette
 balcone
 bubalis
