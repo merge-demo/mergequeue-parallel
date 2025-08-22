@@ -11632,6 +11632,7 @@ cholecystolithiasis
 cholecystostomy
 cholecystotomy
 cholecystotomies
+creatures
 choledochal
 culpability
 choledochoduodenostomy
@@ -28482,7 +28483,6 @@ caromed
 creatress
 caecectomy
 creatureling
-creatures
 carapo
 creatureship
 conversibility

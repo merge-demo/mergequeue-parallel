@@ -17094,7 +17094,6 @@ anisochromia
 aculeata
 apogeotropism
 abdominous
-apogon
 autolaryngoscopy
 afterfuture
 apogonid
@@ -22234,6 +22233,7 @@ asynartete
 ableeze
 arterials
 autopsychology
+apogon
 astrobiologies
 alrighty
 afterdrops
