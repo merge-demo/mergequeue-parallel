@@ -961,6 +961,7 @@ calambour
 castellar
 campanulaceae
 calamiferious
+chromoblast
 catenoids
 calaminary
 compensational
@@ -12490,7 +12491,6 @@ congoese
 chromizes
 chromizing
 caswellite
-chromoblast
 chromocyte
 chromocollograph
 chromocollography
