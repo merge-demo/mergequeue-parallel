@@ -3884,7 +3884,6 @@ deiseal
 deisidaimonia
 disquieting
 deism
-decentred
 deistical
 dressages
 discastle
@@ -12474,6 +12473,7 @@ douching
 dislocable
 diastematic
 dishrags
+decentred
 dishtowels
 detrital
 dishumanize

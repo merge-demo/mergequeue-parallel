@@ -3681,6 +3681,7 @@ bucketful
 bally
 belfather
 batteaux
+bedirty
 bonnering
 batteling
 battement
@@ -12314,7 +12315,6 @@ boastingly
 bombasts
 bombed
 bomber
-bedirty
 begroaning
 biodegrade
 balatronic
