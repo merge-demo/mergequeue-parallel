@@ -10871,7 +10871,6 @@ candlepower
 circumcising
 chiopin
 centropomus
-cinnoline
 chip
 chipchop
 chipewyan
@@ -22967,6 +22966,7 @@ choriambi
 consistent
 consistently
 chebacco
+cinnoline
 consistible
 consisting
 cent
