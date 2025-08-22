@@ -15245,6 +15245,7 @@ antigrammatical
 aminoacetanilide
 arcadings
 anisotropal
+ansa
 antigraph
 acetimetry
 antigravitate
@@ -15554,7 +15555,6 @@ azofy
 antineuritic
 antineutral
 amphioxididae
-ansa
 antineutralism
 argyles
 attritive

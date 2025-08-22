@@ -9253,7 +9253,6 @@ bipyramid
 bring
 bipyridyl
 biangulated
-bubale
 beatless
 bacterioidal
 bedouinism
@@ -11458,6 +11457,7 @@ bulbul
 bluetongue
 bedmates
 bluetop
+bubale
 berths
 blueweed
 bravos
