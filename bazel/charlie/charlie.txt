@@ -615,6 +615,7 @@ ctenodipterini
 caeciliidae
 chiropod
 citizenizing
+cavum
 caecotomy
 constrictors
 caedmonian
@@ -4382,7 +4383,6 @@ carillonning
 carillons
 carinae
 carinal
-cavum
 carinas
 chrysene
 carinate
