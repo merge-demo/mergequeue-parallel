@@ -4703,7 +4703,6 @@ aeq
 abaris
 attitudinising
 aequi
-aranein
 allometric
 allogamy
 attemperation
@@ -18469,6 +18468,7 @@ aporobranchia
 arborists
 arsmetrike
 arborize
+aranein
 arborizing
 abaca
 antinion
