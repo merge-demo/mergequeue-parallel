@@ -10248,7 +10248,6 @@ beavering
 batara
 brominism
 blennorrhoea
-berkelium
 bilobiate
 boolean
 biofeedback
@@ -14386,6 +14385,7 @@ boom
 blaw
 braininess
 braining
+berkelium
 blobbing
 baken
 brothellike
