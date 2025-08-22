@@ -5761,7 +5761,6 @@ catechesis
 catechetic
 congenator
 conduceability
-chapatti
 cottony
 concinnating
 catechin
@@ -10366,6 +10365,7 @@ chickpea
 conspirator
 chickpeas
 cerer
+chapatti
 chickstone
 consultory
 critchfield
