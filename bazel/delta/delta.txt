@@ -3335,6 +3335,7 @@ disrestore
 dynagraph
 dithionate
 daggering
+defiladed
 deflagrator
 deflating
 discommend
@@ -17141,7 +17142,6 @@ depositary
 damara
 deacidified
 dislocated
-defiladed
 dryinid
 diffusibility
 divagations
