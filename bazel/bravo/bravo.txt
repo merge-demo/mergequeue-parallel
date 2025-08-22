@@ -5546,6 +5546,7 @@ bejel
 brawly
 bilineated
 babist
+bridehead
 bebled
 breeziest
 bierstubes
@@ -12544,7 +12545,6 @@ balsamroot
 bourgeoning
 brails
 brontogram
-bridehead
 boniface
 birding
 bonification
