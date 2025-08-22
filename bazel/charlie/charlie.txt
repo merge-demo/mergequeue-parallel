@@ -2755,7 +2755,6 @@ cannach
 clubhauling
 comedietta
 cannat
-canned
 cannel
 coeno
 cannellate
@@ -7273,6 +7272,7 @@ centro
 centroacinar
 crawful
 catechist
+canned
 centrodesmus
 centrodorsal
 centroids
