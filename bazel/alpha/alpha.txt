@@ -267,6 +267,7 @@ abdiel
 abditory
 apelet
 abdom
+aerotropism
 anhydrides
 autoserotherapy
 armoire
@@ -5012,7 +5013,6 @@ albruna
 allantoidal
 aerotonometric
 antepagmenta
-aerotropism
 allantois
 aeruginous
 aerugo
