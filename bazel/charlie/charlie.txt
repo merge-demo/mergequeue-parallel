@@ -5144,6 +5144,7 @@ chaprassi
 caseinogen
 caseload
 caseloads
+coincidently
 casemaker
 caprylene
 cackle
@@ -18644,7 +18645,6 @@ coincide
 corpulently
 coincided
 cobbler
-coincidently
 choicy
 caners
 coincidents
