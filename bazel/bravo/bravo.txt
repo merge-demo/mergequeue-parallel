@@ -5446,6 +5446,7 @@ baviere
 balai
 bandying
 bandura
+bisie
 basebred
 beheaded
 beheader
@@ -17623,7 +17624,6 @@ burgundy
 burhel
 burhmoot
 bombic
-bisie
 bickerers
 bicentenarnaries
 barbacou
