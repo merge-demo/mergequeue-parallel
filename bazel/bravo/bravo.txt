@@ -6134,6 +6134,7 @@ bendwise
 begay
 balaneutics
 benedicks
+bartramia
 benedicta
 broughta
 bairns
@@ -10633,7 +10634,6 @@ bleach
 branchiosaurus
 bluebutton
 bleachable
-bartramia
 badon
 beworrying
 becloud
