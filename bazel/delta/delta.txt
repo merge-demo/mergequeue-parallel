@@ -2209,6 +2209,7 @@ decasualise
 decasualised
 disgavel
 decasualized
+deadpanner
 dialectological
 didymous
 decathlons
@@ -3770,7 +3771,6 @@ diallers
 dehumidified
 disimbitter
 deia
-deadpanner
 dyostyle
 detest
 disarticulate
