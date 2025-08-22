@@ -16796,6 +16796,7 @@ allodialist
 aphrodision
 aphrodistic
 aphrodite
+axiomatically
 agname
 acritol
 aphtha
@@ -25120,7 +25121,6 @@ apron
 ambisyllabic
 axiomatical
 aspergil
-axiomatically
 adept
 axiomatization
 aprioristic
