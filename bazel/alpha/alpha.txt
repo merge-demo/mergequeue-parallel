@@ -10002,7 +10002,6 @@ andrenid
 avidya
 ambidextrously
 autarkikal
-avellan
 asyllabical
 arbutes
 ambiens
@@ -19523,6 +19522,7 @@ asbestic
 ary
 aria
 angas
+avellan
 antasphyctic
 autoslip
 acyls
