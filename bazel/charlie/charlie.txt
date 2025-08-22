@@ -11128,7 +11128,6 @@ chits
 chittack
 chitted
 chitter
-chitterling
 chutney
 chitters
 capillaries
@@ -26891,6 +26890,7 @@ comingle
 cubiform
 carpogonial
 counterlatration
+chitterling
 counterlaw
 chauffers
 counterlegislation
