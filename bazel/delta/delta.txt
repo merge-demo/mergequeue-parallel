@@ -14902,6 +14902,7 @@ delimer
 debonaire
 dactylose
 disgregating
+deconcatenate
 disnatural
 dimmers
 drafters
@@ -15616,7 +15617,6 @@ doodlebug
 doodlers
 doodlesack
 demeanors
-deconcatenate
 determinedly
 dool
 duumviri

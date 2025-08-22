@@ -22757,6 +22757,7 @@ announces
 antidyscratic
 atomic
 alkalemia
+anthyllis
 atomically
 atomician
 ambroids
@@ -25074,7 +25075,6 @@ axfetch
 accusativeness
 ascidian
 afflictively
-anthyllis
 amends
 almahs
 axiality
