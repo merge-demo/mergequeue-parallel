@@ -10198,7 +10198,6 @@ boastings
 blackgums
 brachia
 badawi
-brollies
 boars
 beaverlike
 belfried
@@ -10303,6 +10302,7 @@ beleaguerer
 besmircher
 bosporian
 bladewise
+brollies
 bladygrass
 baluchithere
 bisme
