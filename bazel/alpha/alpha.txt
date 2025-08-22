@@ -11860,7 +11860,6 @@ ananite
 anelace
 anankastic
 aqueomercurial
-allergen
 ananke
 anansi
 antimasquerade
@@ -16289,6 +16288,7 @@ antitruster
 antituberculosis
 antituberculotic
 antitumoral
+allergen
 affray
 assoria
 aperitive

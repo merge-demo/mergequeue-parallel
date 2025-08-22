@@ -7287,6 +7287,7 @@ centum
 centums
 colorcaster
 copopsia
+coassume
 catarinite
 cryptococcal
 cohobated
@@ -17395,7 +17396,6 @@ coassist
 coassistant
 culpas
 cupola
-coassume
 crystallic
 chrysolite
 coast
