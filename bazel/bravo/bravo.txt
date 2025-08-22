@@ -2568,7 +2568,6 @@ behowls
 bandaka
 babiroussa
 bochism
-barit
 bracteate
 bidentate
 bolivars
@@ -16558,6 +16557,7 @@ brachiocrural
 bubblement
 beerier
 bubbler
+barit
 bubblers
 brachyurus
 bullshitting
