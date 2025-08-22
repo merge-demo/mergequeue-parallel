@@ -2854,7 +2854,6 @@ astrol
 ascophorous
 acropodium
 acropoleis
-acuminated
 acropolitan
 acropora
 asthenope
@@ -5292,6 +5291,7 @@ affrayers
 affraying
 allegation
 affrays
+acuminated
 affranchise
 affreightment
 adiadokokinesi
