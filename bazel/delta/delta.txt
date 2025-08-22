@@ -6474,7 +6474,6 @@ diffusedly
 deranged
 descanted
 descantist
-descants
 discriminators
 discourtesies
 diastatic
@@ -16239,6 +16238,7 @@ dares
 demagogs
 decanters
 derange
+descants
 dowly
 darneder
 defusing
