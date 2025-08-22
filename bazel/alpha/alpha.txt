@@ -7845,7 +7845,6 @@ alefzero
 alehouse
 averrable
 amor
-aphid
 aleikoum
 alboranite
 accidentality
@@ -25261,6 +25260,7 @@ adultlike
 activating
 acylamidobenzene
 afrikanderism
+aphid
 azimino
 antiphonaries
 azymite
