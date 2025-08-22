@@ -10382,7 +10382,6 @@ duograph
 diazoanhydride
 discrimination
 dictronics
-diosmosed
 diosmosing
 dispreading
 defenders
@@ -15502,6 +15501,7 @@ duffing
 dope
 dompteuse
 doms
+diosmosed
 derve
 don
 dona
