@@ -7333,7 +7333,6 @@ alberttype
 amitosis
 albescent
 alienate
-achromat
 albetad
 albi
 aquiparous
@@ -9253,6 +9252,7 @@ afghanets
 allover
 alogically
 alogotrophy
+achromat
 arkose
 anthropic
 alderwoman
