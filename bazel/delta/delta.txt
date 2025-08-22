@@ -4499,6 +4499,7 @@ demibelt
 dinornithes
 dislink
 deradelphus
+deacidified
 dendrological
 demibuckram
 dysprosium
@@ -17149,7 +17150,6 @@ driftpins
 drifts
 depositary
 damara
-deacidified
 dislocated
 dryinid
 diffusibility
