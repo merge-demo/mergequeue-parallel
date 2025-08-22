@@ -6554,7 +6554,6 @@ beaming
 backplanes
 bagel
 breezy
-bioecologies
 bookkeeping
 browningesque
 banisters
@@ -11248,6 +11247,7 @@ botteghe
 bloubiskop
 bloodguiltiness
 beglobed
+bioecologies
 buckaroo
 begirdled
 blouse
