@@ -11385,6 +11385,7 @@ bandits
 bluebottle
 bingies
 bluebreast
+balance
 badinaged
 build
 bibbed
@@ -11530,7 +11531,6 @@ befuddlements
 blunthearted
 botanized
 bilateralness
-balance
 biosystematist
 brownshirt
 birdwomen
