@@ -3698,6 +3698,7 @@ adhere
 atticists
 adhered
 apophantic
+avital
 adherency
 addiment
 adherend
@@ -24786,7 +24787,6 @@ avision
 areola
 avisos
 ambassadorships
-avital
 avitaminosis
 anoxic
 avocado
