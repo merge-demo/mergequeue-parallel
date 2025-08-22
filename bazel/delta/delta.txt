@@ -542,6 +542,7 @@ disodic
 damageably
 detonatable
 damaged
+dichroic
 detort
 damageous
 deaccessions
@@ -11339,7 +11340,6 @@ discerning
 dingdonging
 dudaim
 doughmaking
-dichroic
 dutchman
 dahabeeyah
 deftly
