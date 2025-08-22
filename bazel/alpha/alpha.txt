@@ -13570,7 +13570,6 @@ aboundingly
 annunciade
 arthropod
 annunciating
-annunciation
 aerated
 amebic
 annunciations
@@ -24780,6 +24779,7 @@ avis
 aflare
 ambagitory
 augitite
+annunciation
 atractaspis
 almas
 avision

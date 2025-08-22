@@ -10169,6 +10169,7 @@ chippewa
 categorizers
 compagnie
 chevener
+carnivaler
 cheventayn
 cheverel
 cheveret
@@ -27838,7 +27839,6 @@ crabbedness
 crescendoed
 crabber
 crabbery
-carnivaler
 crabby
 casa
 crabbiest
