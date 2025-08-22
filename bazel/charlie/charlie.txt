@@ -16847,6 +16847,7 @@ clovered
 chiloplasty
 cloverlay
 citizen
+checkstrap
 clupeidae
 cloverleafs
 cloverleaves
@@ -21914,7 +21915,6 @@ chiasm
 conferruminate
 catslide
 conferted
-checkstrap
 congregate
 corpusculated
 chamberwoman
