@@ -12467,7 +12467,6 @@ befoulier
 botryopteris
 bawhorse
 bondmen
-bullyrock
 bondminder
 bookroom
 bawdrick
@@ -18190,6 +18189,7 @@ belief
 butleries
 butlerlike
 butlers
+bullyrock
 butlership
 bichy
 braggadocianism
