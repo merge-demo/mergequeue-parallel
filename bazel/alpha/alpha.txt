@@ -4259,7 +4259,6 @@ audiologist
 aminolysis
 antrophore
 agrimotor
-adrenotropic
 attestative
 ambitendencies
 ambled
@@ -24303,6 +24302,7 @@ autopotent
 acinacity
 autoproteolysis
 argillomagnesian
+adrenotropic
 autopsy
 autopsical
 altarwise

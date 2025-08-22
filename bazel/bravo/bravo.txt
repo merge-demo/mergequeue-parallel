@@ -5061,7 +5061,6 @@ bemas
 bewith
 befeather
 becoming
-beeswax
 bodger
 biloculine
 beferned
@@ -5499,6 +5498,7 @@ bey
 bindi
 boxed
 bardic
+beeswax
 bootyless
 beelines
 bobbled
