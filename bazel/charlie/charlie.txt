@@ -593,6 +593,7 @@ caryocaraceae
 caduke
 cadwal
 chiromegaly
+coffees
 callaesthetic
 calimanco
 cadwallader
@@ -18292,7 +18293,6 @@ classico
 clayed
 coffeepots
 coffeeroom
-coffees
 counterview
 continuant
 coffeetime
