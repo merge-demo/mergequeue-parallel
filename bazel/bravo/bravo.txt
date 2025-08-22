@@ -4007,7 +4007,6 @@ brevier
 beaked
 beakerman
 butterroot
-bellite
 beakermen
 bountiful
 bunraku
@@ -4179,6 +4178,7 @@ beastship
 beat
 benches
 beatae
+bellite
 beatee
 bleery
 beaters
