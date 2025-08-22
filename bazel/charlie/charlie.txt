@@ -657,6 +657,7 @@ caesaropapist
 choice
 caesious
 caespitose
+charley
 caespitosely
 cinemize
 crownal
@@ -2581,7 +2582,6 @@ candollea
 candolleaceae
 candolleaceous
 carangid
-charley
 chlorotrifluoromethane
 catalan
 candroys
