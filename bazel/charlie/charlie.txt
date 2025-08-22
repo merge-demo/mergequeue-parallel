@@ -6496,6 +6496,7 @@ cavey
 chromoscope
 cavekeeper
 cavelet
+cesarians
 confiner
 cambodia
 cavemen
@@ -7880,7 +7881,6 @@ cesarevitch
 caramelizing
 cesarian
 civilianization
-cesarians
 cruisers
 calcinable
 chinned

@@ -4760,6 +4760,7 @@ aerobatics
 azalea
 aerobee
 anthropolater
+antimaterialist
 aerobia
 asamblea
 ace
@@ -9503,7 +9504,6 @@ altezza
 althaea
 althaein
 acierating
-antimaterialist
 ascomycete
 altheas
 altheine
