@@ -1937,6 +1937,7 @@ bandstring
 brandishes
 bosquets
 bitripartite
+buxerry
 bandwagon
 baahling
 beeway
@@ -7711,7 +7712,6 @@ begorra
 bespangles
 britten
 bathyscaphe
-buxerry
 bhikshu
 brakehand
 bullan

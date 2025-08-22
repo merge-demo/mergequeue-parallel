@@ -2449,7 +2449,6 @@ antiperthite
 apprehendingly
 acoasm
 acetin
-almogavar
 aforethought
 avile
 acocantherin
@@ -10152,6 +10151,7 @@ aesture
 ambsace
 ambsaces
 anagrammatic
+almogavar
 ambulacra
 ambulacriform
 acuation
