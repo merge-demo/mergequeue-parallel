@@ -25258,6 +25258,7 @@ cervelats
 ciliola
 crome
 corklike
+craterkin
 consultant
 chiromant
 corkline
@@ -28279,7 +28280,6 @@ crateriform
 cratering
 comatik
 cerithioid
-craterkin
 chromites
 craterless
 craterlet
