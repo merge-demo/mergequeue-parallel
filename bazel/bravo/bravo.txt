@@ -2578,6 +2578,7 @@ bochism
 barit
 bracteate
 bidentate
+bolivars
 broadwives
 biscuit
 ballons
@@ -11153,7 +11154,6 @@ bisection
 butylation
 bloodstreams
 beforementioned
-bolivars
 boastive
 beparch
 bisdimethylamino
