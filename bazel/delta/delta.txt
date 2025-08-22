@@ -1612,6 +1612,7 @@ deairing
 discernableness
 deairs
 dealate
+didascaly
 drupelet
 dealbate
 daks
@@ -17417,7 +17418,6 @@ destool
 droppage
 diffraction
 decennia
-didascaly
 direction
 dibblers
 disjoinable
