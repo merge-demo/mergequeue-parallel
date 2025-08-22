@@ -9363,7 +9363,6 @@ chauffeured
 chauffeuring
 crankplate
 chauffeurship
-chauffeuse
 concussation
 civy
 carcoon
@@ -25479,6 +25478,7 @@ cephaelis
 coroll
 cartooning
 corollary
+chauffeuse
 contradictions
 corollarial
 corollarially
