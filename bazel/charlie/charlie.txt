@@ -5638,7 +5638,6 @@ crook
 cataphrenic
 cataphrygian
 cataphrygianism
-cyclarthrosis
 cataplane
 cataplasia
 conepate
@@ -20218,6 +20217,7 @@ commodata
 commodate
 cerebropathy
 clerics
+cyclarthrosis
 commodation
 capmint
 coft
