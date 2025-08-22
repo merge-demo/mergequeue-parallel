@@ -12278,7 +12278,6 @@ assisi
 adiadochokinesia
 andhra
 andi
-andian
 andine
 anding
 alternateness
@@ -15663,6 +15662,7 @@ antiparallelogram
 arylamine
 ablet
 antimetathesis
+andian
 antheridiophore
 antiparliament
 antiparliamental
