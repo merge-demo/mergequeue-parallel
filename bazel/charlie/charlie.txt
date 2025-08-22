@@ -11240,6 +11240,7 @@ codomain
 charquid
 chloranthus
 chlorate
+countersea
 chlorcosane
 care
 chlordans
@@ -26276,7 +26277,6 @@ cursoriidae
 causational
 crowfoots
 colorimetric
-countersea
 costoabdominal
 collegianer
 cultured

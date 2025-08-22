@@ -2906,7 +2906,6 @@ dedication
 drafting
 disfavor
 dispurse
-duodecimals
 dedicatory
 dedicatorily
 decompensated
@@ -16811,6 +16810,7 @@ diarrhoeic
 disorganized
 drawback
 drawbar
+duodecimals
 decussation
 demitube
 dyscrasial
