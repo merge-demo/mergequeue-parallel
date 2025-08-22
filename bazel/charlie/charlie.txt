@@ -8800,7 +8800,6 @@ coccolithophorid
 chapellany
 chapelled
 cimnel
-cobnut
 capitaliser
 chapelling
 commonplaces
@@ -15158,6 +15157,7 @@ clacks
 clad
 confated
 cladanthous
+cobnut
 cladding
 couplet
 conducta
