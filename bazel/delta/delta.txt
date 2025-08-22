@@ -3210,7 +3210,6 @@ defensibleness
 downsizes
 dibs
 defensibly
-defensively
 deferentitis
 deferents
 datiscetin
@@ -16304,6 +16303,7 @@ downless
 decator
 downlink
 discharacter
+defensively
 downloading
 downness
 dermographic
