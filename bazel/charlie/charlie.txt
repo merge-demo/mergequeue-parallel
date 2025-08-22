@@ -11151,7 +11151,6 @@ chivarees
 chivari
 chivaris
 chivarra
-chivarras
 chive
 cinecamera
 chivey
@@ -27796,6 +27795,7 @@ contraire
 craquelures
 chelonin
 citharista
+chivarras
 counterquery
 curcuma
 chariotee
