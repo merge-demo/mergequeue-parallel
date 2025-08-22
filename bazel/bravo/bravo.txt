@@ -12103,6 +12103,7 @@ brooks
 bostrychoid
 barristress
 boldfaced
+brickhood
 boldfacedly
 boldfacedness
 boldfacing
@@ -15174,7 +15175,6 @@ billhook
 brickel
 bruit
 biometrically
-brickhood
 bacchar
 buddhists
 basifier
