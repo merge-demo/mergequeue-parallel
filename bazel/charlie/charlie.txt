@@ -2777,7 +2777,6 @@ canning
 cannings
 chiccories
 cannister
-crystallographically
 cannoli
 convally
 cannonaded
@@ -11188,6 +11187,7 @@ chlamyphorus
 chlamyses
 congratulation
 chleuh
+crystallographically
 chloasma
 cephalorachidian
 chloracne
