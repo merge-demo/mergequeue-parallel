@@ -8143,6 +8143,7 @@ conjugant
 chaffwax
 chafing
 chafted
+chimneylike
 cudgeller
 chagan
 chagga
@@ -10714,7 +10715,6 @@ cantharidated
 chalk
 chimneyless
 counterdefender
-chimneylike
 chimneyman
 chimneypiece
 chimopelagic
