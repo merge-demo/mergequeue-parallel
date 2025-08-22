@@ -2684,6 +2684,7 @@ dejectly
 decontaminators
 dvornik
 duci
+diskless
 derails
 dressmakership
 decontrolled
@@ -11767,7 +11768,6 @@ discrepantly
 decaudation
 demasts
 discrepated
-diskless
 discrepation
 dullardism
 dehydrogenize
