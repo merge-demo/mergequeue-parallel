@@ -9805,6 +9805,7 @@ dipsos
 dermatocyst
 dillesk
 dives
+delinquence
 daimones
 denumerable
 deicer
@@ -14130,7 +14131,6 @@ debauchery
 dingy
 displace
 dinotheres
-delinquence
 designees
 deciduitis
 distritos
