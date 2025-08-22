@@ -7241,6 +7241,7 @@ dicotyl
 dimetric
 detenu
 detenue
+days
 desulfurize
 detenues
 dephlegmator
@@ -9744,7 +9745,6 @@ deceive
 desugarize
 didodecahedral
 dudley
-days
 dilatedness
 dreamtide
 diploidion
