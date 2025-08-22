@@ -1504,6 +1504,7 @@ braked
 bronchopleurisy
 blowiest
 brakemaking
+briary
 balladist
 batrachophagous
 bootlegger
@@ -7217,7 +7218,6 @@ bestock
 bestow
 bestowment
 burgee
-briary
 breaching
 blades
 beveled
