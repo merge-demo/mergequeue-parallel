@@ -6370,7 +6370,6 @@ causeuses
 cannellated
 causewaying
 clubfeet
-causidical
 causon
 counterassurance
 caustical
@@ -8664,6 +8663,7 @@ ceratiidae
 cowpeas
 composit
 chimneying
+causidical
 corcopali
 changedale
 calpac
