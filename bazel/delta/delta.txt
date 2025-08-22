@@ -3197,7 +3197,6 @@ dir
 decorativeness
 defenestrating
 dayside
-derricking
 defenseless
 defenselessly
 defenselessness
@@ -17656,6 +17655,7 @@ dygogram
 diffusimeter
 deedholder
 doolies
+derricking
 discomfortable
 drawbacks
 dilogy
