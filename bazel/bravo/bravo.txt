@@ -8906,6 +8906,7 @@ biocoenotic
 biodegradability
 biodegradable
 becassocked
+burlecue
 beleap
 biodegraded
 biodegrading
@@ -12698,7 +12699,6 @@ biotechnology
 bordures
 bubbles
 bulbine
-burlecue
 bieennia
 boogum
 bourd
