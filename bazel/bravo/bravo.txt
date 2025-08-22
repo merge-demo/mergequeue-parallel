@@ -5529,7 +5529,6 @@ beyondness
 borshts
 baryton
 bewares
-birding
 beisa
 brahmas
 bagatine
@@ -12553,6 +12552,7 @@ brails
 brontogram
 bridehead
 boniface
+birding
 bonification
 bolshevik
 bonyfish
