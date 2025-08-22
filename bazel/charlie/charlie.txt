@@ -5338,6 +5338,7 @@ chertier
 castane
 castanea
 chewy
+crescentic
 cylindroconical
 castanean
 cynarctomachy
@@ -27721,7 +27722,6 @@ cherokee
 cowries
 calina
 cowroid
-crescentic
 catbrier
 corkscrews
 connecters
