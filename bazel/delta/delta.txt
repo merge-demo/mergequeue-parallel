@@ -2371,7 +2371,6 @@ decidence
 destabilized
 dwyka
 deciders
-dubitante
 disownment
 disguisements
 diplontic
@@ -12229,6 +12228,7 @@ deliquesce
 dwarfish
 durra
 dovecots
+dubitante
 disfrocking
 declaratively
 dysfunctional
