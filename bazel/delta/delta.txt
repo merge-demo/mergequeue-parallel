@@ -670,7 +670,6 @@ dukely
 deafen
 dampers
 dudgeons
-defecator
 donnard
 depermed
 dampne
@@ -12798,6 +12797,7 @@ duplicatus
 derepression
 dysluite
 delicto
+defecator
 dislustered
 delectate
 drollish
