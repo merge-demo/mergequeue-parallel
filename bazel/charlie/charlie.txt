@@ -5318,7 +5318,6 @@ cassowary
 cassowaries
 carotidean
 commonty
-cassumunar
 cellarers
 cast
 castable
@@ -13538,6 +13537,7 @@ cartesianism
 cilery
 corsetless
 cilia
+cassumunar
 cardioncus
 cloakedly
 ciliate
