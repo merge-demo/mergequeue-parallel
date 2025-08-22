@@ -2538,7 +2538,6 @@ coituses
 cohusband
 carvels
 candlemaker
-candlemaking
 candlemas
 crewel
 childproof
@@ -21499,6 +21498,7 @@ concordances
 cantalas
 concordancy
 concordant
+candlemaking
 classifically
 crescent
 carpidium
