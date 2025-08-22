@@ -1019,7 +1019,6 @@ barmecidal
 balcony
 burnweed
 bail
-burs
 bringer
 barfs
 bailable
@@ -15466,6 +15465,7 @@ bakery
 bratstva
 bibliopegistic
 breakbone
+burs
 bringers
 bodega
 bringeth
