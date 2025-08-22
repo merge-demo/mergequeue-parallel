@@ -6076,6 +6076,7 @@ diaconicon
 digitalization
 dorps
 delicacy
+discoverability
 dilli
 dramaticism
 dognapper
@@ -13137,7 +13138,6 @@ doraskean
 deathy
 dispericraniate
 disenvelop
-discoverability
 diaphototropism
 dethyroidism
 decompositions
