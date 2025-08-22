@@ -8865,6 +8865,7 @@ char
 conveyability
 crouchingly
 chara
+chich
 costae
 charabanc
 compensativeness
@@ -10309,7 +10310,6 @@ champerator
 cantharidin
 chicest
 coccidioidomycosis
-chich
 chicha
 cheiroglossa
 chichevache
