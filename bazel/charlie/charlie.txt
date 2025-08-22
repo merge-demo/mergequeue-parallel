@@ -9537,7 +9537,6 @@ checkbite
 checkbits
 checkbook
 chachalaca
-cableways
 cirrigerous
 climatically
 chaetites
@@ -29179,6 +29178,7 @@ cryoscopy
 colloblast
 candock
 cityless
+cableways
 chanfron
 curavecan
 colicolitis
