@@ -6074,6 +6074,7 @@ diopsis
 deputing
 diaconicon
 digitalization
+directiveness
 dorps
 delicacy
 discoverability
@@ -13178,7 +13179,6 @@ dropouts
 demonophobia
 desiccations
 disguisement
-directiveness
 dysphonia
 dysphotic
 dysphrasia
