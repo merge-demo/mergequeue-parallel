@@ -2730,6 +2730,7 @@ dewcup
 decorist
 dragged
 durum
+daubreelite
 demilancer
 dammars
 disfeatured
@@ -13997,7 +13998,6 @@ distomatosis
 doryphorus
 debits
 diactin
-daubreelite
 dichroism
 deys
 distomatous
