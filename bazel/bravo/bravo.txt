@@ -13076,6 +13076,7 @@ borsches
 boreen
 burdash
 boreiad
+balladeer
 bannister
 brawnier
 bugseeds
@@ -14545,7 +14546,6 @@ branchless
 banefulness
 bollocks
 bancales
-balladeer
 branchlet
 branchman
 brandenburg
