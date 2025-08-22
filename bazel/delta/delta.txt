@@ -17469,6 +17469,7 @@ deforcer
 drouth
 dopas
 delphacid
+determinacy
 desectionalize
 drouthier
 defame
@@ -17962,7 +17963,6 @@ dugongidae
 diminutional
 deliriously
 dugongs
-determinacy
 demandable
 dossals
 dietitian
