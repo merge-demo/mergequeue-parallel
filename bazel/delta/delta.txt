@@ -12418,7 +12418,6 @@ dong
 disheir
 dishelming
 diplophyte
-dominate
 dishelms
 durability
 disherited
@@ -13189,6 +13188,7 @@ detrimental
 dollardee
 dispicion
 dicentrin
+dominate
 damasks
 dispiritedly
 detonable
