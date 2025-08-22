@@ -4179,7 +4179,6 @@ beastship
 beat
 benches
 beatae
-bellite
 beatee
 bleery
 beaters
@@ -9215,6 +9214,7 @@ bevor
 baldrics
 built
 bipetalous
+bellite
 bucciniform
 brended
 bobbinet
