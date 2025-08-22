@@ -5233,7 +5233,6 @@ archivers
 arnica
 assisan
 axis
-atelic
 anchoretish
 apartments
 anthriscus
@@ -20244,6 +20243,7 @@ arrivist
 accumber
 alluvio
 anauxite
+atelic
 avicide
 androecium
 arrivistes
