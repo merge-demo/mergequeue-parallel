@@ -6851,7 +6851,6 @@ botel
 bishopless
 baronetized
 besaile
-bipartizan
 brachycephalic
 besan
 bescab
@@ -10537,6 +10536,7 @@ bipectinate
 bonks
 bulbocodium
 bibless
+bipartizan
 borax
 bootikin
 backlash
