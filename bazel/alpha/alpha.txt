@@ -3186,7 +3186,6 @@ actuary
 aphis
 anastomotic
 ashlar
-actuating
 alpist
 actuation
 acturience
@@ -4188,6 +4187,7 @@ adorers
 apophlegmatism
 aster
 adoringly
+actuating
 abomas
 adorn
 adornation
