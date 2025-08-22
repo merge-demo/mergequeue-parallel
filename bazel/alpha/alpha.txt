@@ -236,6 +236,7 @@ abbreviatable
 abraded
 acantholysis
 actinochemical
+amentia
 abbreviates
 anaqua
 auctorial
@@ -14039,7 +14040,6 @@ aedoeagus
 amices
 antehistoric
 aeolopantalon
-amentia
 antejudiciary
 antelocation
 apholate
