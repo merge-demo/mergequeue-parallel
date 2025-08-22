@@ -6551,6 +6551,7 @@ browis
 berakah
 bushgoat
 breadstuff
+bushels
 bosnisch
 bewelcome
 bavarois
@@ -7959,7 +7960,6 @@ bodegones
 borderside
 bename
 beclad
-bushels
 brusher
 bicarbureted
 bicarburetted
