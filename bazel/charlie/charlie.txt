@@ -5587,7 +5587,6 @@ catchalls
 catalyzers
 compunctionary
 catallactic
-catallum
 cladocerans
 catalo
 cataloes
@@ -15626,6 +15625,7 @@ classificator
 culicidae
 classificatory
 classified
+catallum
 cotwinned
 censive
 curriers
