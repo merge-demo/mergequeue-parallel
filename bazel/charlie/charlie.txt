@@ -3427,7 +3427,6 @@ chunkier
 canyon
 caprifig
 constructionally
-caprifole
 caprifoliaceae
 cincinnatia
 capriform
@@ -18558,6 +18557,7 @@ cohitre
 cohobating
 chandlering
 collieries
+caprifole
 cohobator
 choushes
 ceratocystis
