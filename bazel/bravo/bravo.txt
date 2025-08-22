@@ -4509,6 +4509,7 @@ bae
 bandolero
 brigadiership
 burnsides
+busses
 blastoff
 becudgelling
 batata
@@ -18022,7 +18023,6 @@ bondmanship
 busmen
 beaux
 benda
-busses
 bussing
 bussock
 beneurous
