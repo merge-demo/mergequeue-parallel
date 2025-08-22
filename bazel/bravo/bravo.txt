@@ -7030,6 +7030,7 @@ bowlegged
 bowingly
 balnea
 brothel
+bookbinder
 balor
 balsamous
 beryciform
@@ -7494,7 +7495,6 @@ bevelled
 bardism
 belayer
 beveller
-bookbinder
 bacteririum
 bardelle
 biathlon
