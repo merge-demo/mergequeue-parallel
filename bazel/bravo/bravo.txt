@@ -4630,7 +4630,6 @@ bargee
 bedevilment
 bescarf
 brustling
-baguio
 bioplasmic
 betsileos
 bact
@@ -17510,6 +17509,7 @@ bookrest
 burdenous
 bleep
 blabs
+baguio
 bulbocapnine
 bides
 bee
