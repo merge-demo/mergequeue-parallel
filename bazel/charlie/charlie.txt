@@ -25278,6 +25278,7 @@ coardent
 cormidium
 concolour
 circulin
+cicrumspections
 cormogen
 cormophyta
 cormous
@@ -27275,7 +27276,6 @@ countship
 coupage
 coupe
 couped
-cicrumspections
 cocus
 calked
 czarowitch
