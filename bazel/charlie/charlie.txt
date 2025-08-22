@@ -2413,7 +2413,6 @@ containerize
 chimneys
 cancer
 cancerated
-coyed
 corroborators
 convenes
 chastize
@@ -19562,6 +19561,7 @@ colporrhaphy
 camoufleurs
 colporrhexis
 cleistothecia
+coyed
 colportage
 colporter
 colporteurs
