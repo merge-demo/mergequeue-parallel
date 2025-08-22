@@ -18610,7 +18610,6 @@ catheptic
 canonists
 coigne
 cader
-coignes
 cutted
 condenseries
 coigny
@@ -20625,6 +20624,7 @@ cascol
 competitors
 challengee
 competitrix
+coignes
 compilable
 cofounded
 curvilinearly
