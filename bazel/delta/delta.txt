@@ -7722,6 +7722,7 @@ deviltry
 dissociation
 diastataxy
 deformative
+dipleurule
 devirginate
 deils
 dram
@@ -8163,7 +8164,6 @@ detribalize
 disruptively
 deferrization
 diachronic
-dipleurule
 daer
 diachronically
 dicranum
