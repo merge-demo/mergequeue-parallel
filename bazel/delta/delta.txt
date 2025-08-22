@@ -6643,7 +6643,6 @@ deletes
 doubleganger
 dilemma
 dianisidine
-deplump
 draughtswoman
 desertification
 deserting
@@ -16146,6 +16145,7 @@ douping
 deformity
 deforcing
 dihydrated
+deplump
 dour
 dita
 dognaper
