@@ -7260,7 +7260,6 @@ clarine
 centriscidae
 cups
 centriscoid
-cappadine
 centriscus
 centrism
 chalices
@@ -14872,6 +14871,7 @@ choroidal
 cytoderm
 cytodiagnosis
 cytoecology
+cappadine
 cerebrotonia
 cippi
 coinferred
