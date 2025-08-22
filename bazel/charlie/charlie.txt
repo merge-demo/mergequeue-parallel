@@ -2706,7 +2706,6 @@ cording
 cubitopalmar
 catostomus
 cankerfret
-calcemia
 cankery
 cannoneering
 cankerroot
@@ -29444,6 +29443,7 @@ caramel
 correctedness
 cueist
 cerographic
+calcemia
 creatines
 circuiter
 crystallising
