@@ -12948,7 +12948,6 @@ curmurring
 churlier
 corrugations
 churlishness
-churm
 churn
 canvased
 cowbarn
@@ -20650,6 +20649,7 @@ citrate
 cosmosophy
 cahow
 complacentially
+churm
 complacently
 chantant
 complain
