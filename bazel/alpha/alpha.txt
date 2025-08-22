@@ -7094,7 +7094,6 @@ akrochordite
 arimasp
 abietineous
 allophore
-akroter
 akroteria
 arithmetization
 akroterion
@@ -23745,6 +23744,7 @@ australian
 australianism
 australioid
 acquit
+akroter
 australopithecinae
 assistantship
 allicit
