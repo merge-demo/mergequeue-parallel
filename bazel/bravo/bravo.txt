@@ -14954,6 +14954,7 @@ brechans
 breakfaster
 bullfeast
 blepharorrhaphy
+brinehouse
 billowier
 burny
 brecht
@@ -15454,7 +15455,6 @@ bryndza
 bleaters
 balloonfish
 bearskins
-brinehouse
 brineless
 bombardment
 bakery
