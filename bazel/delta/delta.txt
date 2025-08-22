@@ -8422,7 +8422,6 @@ defibrinize
 dialogers
 dialogged
 droplet
-deflater
 devide
 deconcentrator
 deported
@@ -12400,6 +12399,7 @@ decempartite
 decan
 didymiums
 decoagulation
+deflater
 dishaunt
 deflationary
 dichromaticism
