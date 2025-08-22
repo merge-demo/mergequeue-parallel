@@ -23316,7 +23316,6 @@ consume
 consumedly
 consumeless
 corkiness
-consumer
 consumerist
 consumes
 cardioblast
@@ -30134,6 +30133,7 @@ cruce
 crucethouse
 canonise
 crucial
+consumer
 contraceptionist
 cruciality
 crucially
