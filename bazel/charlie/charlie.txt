@@ -19987,7 +19987,6 @@ croquis
 cassideous
 commandments
 caburn
-ceratops
 commando
 commandoes
 ceraunomancy
@@ -22484,6 +22483,7 @@ counterargument
 conjoin
 crosser
 cottonwood
+ceratops
 cerebrosis
 certainest
 chignoned
