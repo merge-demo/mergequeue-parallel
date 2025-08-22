@@ -4793,6 +4793,7 @@ bemeans
 brakesman
 befancy
 bits
+bondages
 bedside
 bedsonia
 bedsonias
@@ -7877,7 +7878,6 @@ bibliomaniac
 buxerries
 biker
 bibliomanist
-bondages
 bogwoods
 bloodthirsty
 bibliopegy
