@@ -10192,7 +10192,6 @@ bitreadle
 blackguard
 bos
 betokening
-benzenyl
 bookrests
 blackguardry
 baroreceptor
@@ -18103,6 +18102,7 @@ butanols
 bind
 bergander
 bouderie
+benzenyl
 butch
 butcha
 bedoyo
