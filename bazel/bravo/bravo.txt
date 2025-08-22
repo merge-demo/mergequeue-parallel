@@ -13327,7 +13327,6 @@ birdyback
 beetlestone
 blear
 badmen
-botched
 botchedly
 bukat
 botcher
@@ -16007,6 +16006,7 @@ brahmanaspati
 bludgeoning
 bishoprics
 bronk
+botched
 boxwallah
 burgullian
 brontides

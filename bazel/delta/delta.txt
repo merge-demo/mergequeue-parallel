@@ -13941,7 +13941,6 @@ deflagrations
 distillery
 dynamogeneses
 deodand
-daemonian
 disdainous
 dachs
 distillmint
@@ -14317,6 +14316,7 @@ dict
 decolorized
 disbelievingly
 ditt
+daemonian
 device
 dziggetai
 drogerman
