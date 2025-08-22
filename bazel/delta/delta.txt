@@ -6347,7 +6347,6 @@ dermoidectomy
 desexed
 dgag
 dermoneural
-denary
 drassid
 dermoneurosis
 decent
@@ -10294,6 +10293,7 @@ dioicousness
 dipleura
 diolefins
 dicynodon
+denary
 diomate
 discoglossoid
 dearly
