@@ -4659,7 +4659,6 @@ dinic
 demisang
 dulcite
 demisangue
-douzaines
 dereliction
 demipectinate
 denarius
@@ -15430,6 +15429,7 @@ dissipator
 domiciles
 domiciliate
 domiciliated
+douzaines
 demineralizer
 detectivism
 domification
