@@ -2057,6 +2057,7 @@ brine
 banksmen
 bucketed
 banlieu
+basquine
 backseats
 boidae
 backgeared
@@ -13804,7 +13805,6 @@ bemaddening
 buriat
 bedfellowship
 brothy
-basquine
 baseplate
 brachychronic
 blabberer
