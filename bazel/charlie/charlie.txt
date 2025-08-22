@@ -3429,7 +3429,6 @@ caprifig
 constructionally
 caprifole
 caprifoliaceae
-caprifolium
 cincinnatia
 capriform
 caprigenous
@@ -22900,6 +22899,7 @@ consider
 canidae
 considerable
 considerableness
+caprifolium
 chondrofibromatous
 considerably
 compreg

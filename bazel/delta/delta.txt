@@ -9980,7 +9980,6 @@ deaerates
 didactics
 dramaturgist
 doghood
-diminutions
 deener
 diminutive
 dimiss
@@ -11858,6 +11857,7 @@ dispels
 disulphone
 dromomania
 dunked
+diminutions
 denying
 diadems
 diffusionist
