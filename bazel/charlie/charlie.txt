@@ -4222,7 +4222,6 @@ chlorites
 contrade
 cavaliered
 chinatown
-care
 coxalgies
 citeable
 coerect
@@ -11240,6 +11239,7 @@ charquid
 chloranthus
 chlorate
 chlorcosane
+care
 chlordans
 costotransversal
 chlorellaceous
