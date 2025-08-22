@@ -951,6 +951,7 @@ biologicohumanistic
 bahisti
 brassards
 betook
+bigwig
 brooming
 bronchoscopically
 bindle
@@ -8365,7 +8366,6 @@ bigots
 bombyxes
 bastian
 bashawdom
-bigwig
 bigwigged
 bigwiggery
 biomass
