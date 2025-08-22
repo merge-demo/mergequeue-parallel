@@ -5658,7 +5658,6 @@ busks
 boraciferous
 benjoin
 beldams
-bacchar
 bilify
 belderroot
 bodgie
@@ -15177,6 +15176,7 @@ brickel
 bruit
 biometrically
 brickhood
+bacchar
 buddhists
 basifier
 brickyard
