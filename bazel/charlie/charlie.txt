@@ -8718,6 +8718,7 @@ chanteur
 chanteuse
 chanteuses
 chanticleer
+crenelations
 chanticleers
 chantier
 capreomycin
@@ -28665,7 +28666,6 @@ coloniser
 contaminates
 constitutes
 corone
-crenelations
 coplanar
 convergently
 crushers
