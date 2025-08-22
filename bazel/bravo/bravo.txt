@@ -3719,7 +3719,6 @@ barnstorms
 battler
 basocyte
 battleships
-barrace
 blushiness
 buhr
 battlesome
@@ -7375,6 +7374,7 @@ boomdas
 busky
 beneceptor
 botryose
+barrace
 beton
 basigamous
 bise
