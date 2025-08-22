@@ -4678,6 +4678,7 @@ demissory
 demystify
 demystification
 dismantle
+downtrends
 dumminess
 dithyrambos
 diphthongous
@@ -10345,7 +10346,6 @@ denudation
 deducement
 disfavoring
 desilverizer
-downtrends
 discophore
 dioptra
 dioptrate
