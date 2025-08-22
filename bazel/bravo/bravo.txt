@@ -3263,7 +3263,6 @@ bourn
 brattle
 bastardising
 benzols
-bandaite
 bothropic
 babbler
 bloodiest
@@ -5511,6 +5510,7 @@ barracudas
 backers
 beylic
 birdwoman
+bandaite
 bowieful
 brechites
 briefly
