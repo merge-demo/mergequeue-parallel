@@ -1595,7 +1595,6 @@ deadweight
 daikering
 deadwork
 deaerated
-dorsum
 distrouble
 dynamogenous
 decimate
@@ -8423,6 +8422,7 @@ deconcentrator
 deported
 dolia
 defiledness
+dorsum
 dreep
 demipremiss
 diabetophobia
