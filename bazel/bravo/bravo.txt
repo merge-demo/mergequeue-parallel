@@ -1463,6 +1463,7 @@ bices
 balker
 bastardise
 balkiest
+berskin
 balkiness
 baloo
 balking
@@ -6797,7 +6798,6 @@ brittles
 bin
 berserks
 barnumize
-berskin
 balize
 berhyme
 bert
