@@ -6837,7 +6837,6 @@ burley
 basophils
 baroi
 bes
-bushpig
 boaedon
 busboy
 bitulithic
@@ -10916,6 +10915,7 @@ blackamoor
 beshiver
 bumps
 biloquist
+bushpig
 biclinia
 bridleless
 barth
