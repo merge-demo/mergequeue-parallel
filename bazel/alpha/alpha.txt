@@ -3352,7 +3352,6 @@ azurite
 adaptive
 amortizement
 archpiece
-attending
 ankou
 apostemation
 argosies
@@ -12606,6 +12605,7 @@ aporrhaidae
 antistrumous
 antegrade
 anchoretism
+attending
 adrenalone
 adversely
 azoxyanisole
