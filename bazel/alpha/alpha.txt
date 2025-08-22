@@ -742,7 +742,6 @@ abrahamite
 alazor
 anathemas
 aedicula
-aposporic
 alpiniaceae
 angst
 abramis
@@ -16061,6 +16060,7 @@ ande
 auto
 africa
 antiscolic
+aposporic
 antiscorbutical
 antiscriptural
 acrosphacelus
