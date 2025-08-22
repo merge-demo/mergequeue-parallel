@@ -9755,7 +9755,6 @@ breadline
 bossies
 burdocks
 bistipulate
-bistort
 bistorts
 bistred
 beknights
@@ -12766,6 +12765,7 @@ baronry
 begut
 bookseller
 bepreach
+bistort
 bucorvinae
 becloaked
 bioelectric
