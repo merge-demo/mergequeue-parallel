@@ -335,6 +335,7 @@ backchats
 boule
 burg
 beneficially
+bkpr
 backcross
 bewept
 backdates
@@ -652,7 +653,6 @@ beletter
 bronchocavernous
 bynames
 bungles
-bkpr
 boigid
 bacterized
 barefacedly
