@@ -2885,7 +2885,6 @@ decus
 decarbonizing
 decuss
 decussate
-decussatively
 desideratum
 disyllabizing
 decussoria
@@ -3899,6 +3898,7 @@ defenseman
 daphnite
 desilicated
 deja
+decussatively
 dejection
 devested
 derivation
