@@ -9240,7 +9240,6 @@ duckstone
 disilluded
 discolour
 deterge
-decorament
 divined
 dyeline
 dislegitimate
@@ -12645,6 +12644,7 @@ dertrotheca
 doomsman
 defaultant
 descendentalist
+decorament
 descrial
 duplicidentate
 dechemicalization
