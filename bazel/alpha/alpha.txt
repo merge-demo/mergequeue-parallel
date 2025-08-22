@@ -1960,7 +1960,6 @@ acetla
 acetoacetate
 acetoacetic
 absolutism
-amphithurons
 amphidisk
 acetol
 acetometer
@@ -22443,6 +22442,7 @@ alfas
 arachnoidean
 anomalously
 ayre
+amphithurons
 antiputrefactive
 appellants
 anticholinesterase
