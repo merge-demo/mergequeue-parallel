@@ -8112,7 +8112,6 @@ calycanth
 campaspe
 chimaeras
 chafeweed
-chaff
 chaffed
 chaffer
 cymballike
@@ -14444,6 +14443,7 @@ circumtonsillar
 coelelminth
 computate
 cachot
+chaff
 conchologically
 chapacuran
 coifed
