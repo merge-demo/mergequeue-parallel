@@ -1255,6 +1255,7 @@ disaffirmative
 deoxidant
 dothienenteritis
 diarrheal
+derecho
 discovert
 datiscosid
 drosograph
@@ -6154,7 +6155,6 @@ debauch
 derby
 deploringly
 discostomatous
-derecho
 dereferenced
 dereferencing
 deregulated
