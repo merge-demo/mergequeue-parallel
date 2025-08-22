@@ -679,7 +679,6 @@ capparidaceous
 cafetorium
 contributory
 caffeic
-caffeina
 caffeines
 cobblerless
 compensable
@@ -17526,6 +17525,7 @@ coracomandibular
 callous
 coberger
 catechins
+caffeina
 colp
 cobia
 cobiron

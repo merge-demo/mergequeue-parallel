@@ -9527,7 +9527,6 @@ althionic
 apholates
 ablution
 asterikos
-aspidate
 anargyroi
 althorn
 alticamelus
@@ -13569,6 +13568,7 @@ annullate
 annuller
 annulling
 annulment
+aspidate
 annuloid
 autoaddress
 akaakai
