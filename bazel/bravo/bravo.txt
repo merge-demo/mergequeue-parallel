@@ -12952,6 +12952,7 @@ blameless
 breviloquence
 boleros
 berthold
+bleinerite
 boardinghouses
 bootman
 boots
@@ -18241,7 +18242,6 @@ balistarius
 besweatered
 butterflower
 berlinize
-bleinerite
 battles
 batik
 bacteraemia
