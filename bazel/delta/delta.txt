@@ -7793,7 +7793,6 @@ decile
 daylighted
 diathetic
 diplospondylic
-dispending
 desmarestia
 devolving
 devon
@@ -12070,6 +12069,7 @@ daguerreotypy
 diabetics
 dysenterical
 dysenteries
+dispending
 disenthral
 dehisces
 disgorging

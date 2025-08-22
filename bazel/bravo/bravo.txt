@@ -1550,6 +1550,7 @@ beclowning
 ballerina
 ballet
 balletomane
+bapt
 benzotrifuran
 brocked
 bigged
@@ -9881,7 +9882,6 @@ bitterbur
 bittered
 bitterender
 ballooning
-bapt
 bemingling
 baffed
 bismer
