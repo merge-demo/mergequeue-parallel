@@ -3464,6 +3464,7 @@ decompressed
 deflator
 demagnetise
 dominoes
+demobilize
 deforced
 depressors
 deforces
@@ -8282,7 +8283,6 @@ diagonial
 diagonic
 drum
 diagram
-demobilize
 diagrammed
 diagrammer
 drengh

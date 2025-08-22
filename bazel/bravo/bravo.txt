@@ -8423,7 +8423,6 @@ blart
 burblier
 bemusement
 behaviors
-bilaterally
 belabouring
 bilati
 boggart
@@ -9531,6 +9530,7 @@ bulliform
 birthstool
 birthwort
 bitnet
+bilaterally
 brandreth
 breviger
 bakerdom
