@@ -3371,6 +3371,7 @@ carrots
 capote
 cranium
 cyclohexene
+cheddars
 capouches
 cappadocian
 crypted
@@ -21892,7 +21893,6 @@ counties
 confederation
 confederationist
 centrodorsally
-cheddars
 congiary
 coziness
 cancellarian
