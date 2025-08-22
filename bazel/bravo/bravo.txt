@@ -2570,6 +2570,7 @@ baloskionaceae
 babiroussa
 bochism
 bracteate
+barosma
 bidentate
 bolivars
 broadwives
@@ -15725,7 +15726,6 @@ bufotenine
 bavaroise
 brocolis
 bedman
-barosma
 basicities
 brionine
 broderer
