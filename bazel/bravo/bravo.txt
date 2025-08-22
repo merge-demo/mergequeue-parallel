@@ -1876,7 +1876,6 @@ bandiness
 bascunan
 bryology
 bewend
-bonaght
 battutos
 bevies
 batukite
@@ -10151,6 +10150,7 @@ blackener
 billette
 blackens
 blacketeer
+bonaght
 blackfeet
 blankard
 brakeage
