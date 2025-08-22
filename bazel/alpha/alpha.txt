@@ -11213,7 +11213,6 @@ amphigam
 archpractice
 amphigamous
 amphigastrium
-aspersed
 amphigean
 amphigene
 amphigenous
@@ -18747,6 +18746,7 @@ autonephrectomy
 archesporial
 autocades
 archest
+aspersed
 archetypal
 avizandum
 arabian
