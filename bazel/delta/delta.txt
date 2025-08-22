@@ -6526,7 +6526,6 @@ diffracting
 deschool
 decretals
 dirtbird
-devocalise
 dreggily
 differentiators
 dosa
@@ -13360,6 +13359,7 @@ disputacity
 disfen
 delayers
 deaconhood
+devocalise
 defender
 disputation
 disconnected
