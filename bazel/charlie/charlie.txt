@@ -11259,6 +11259,7 @@ chloridated
 consuls
 chloride
 crocodiloid
+coalfishes
 crackups
 calderon
 ceca
@@ -23442,7 +23443,6 @@ chez
 crannoges
 contemporaneousness
 contemporary
-coalfishes
 contemporarily
 contemporising
 contemporize
