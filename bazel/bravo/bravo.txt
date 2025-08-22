@@ -1503,6 +1503,7 @@ borrow
 bedsick
 balladised
 balladism
+baksheeshes
 braked
 bronchopleurisy
 blowiest
@@ -15769,7 +15770,6 @@ banande
 bihalve
 barebones
 beknived
-baksheeshes
 bemires
 bimaculated
 bourguignonne
