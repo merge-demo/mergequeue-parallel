@@ -4926,6 +4926,7 @@ devilwise
 dicondylian
 dacrycystalgia
 dynastic
+duel
 depositum
 demonstrations
 dysbarism
@@ -8268,7 +8269,6 @@ diagonalizable
 diagonalization
 diagnosing
 dandyprat
-duel
 diagonals
 demoded
 deducting
