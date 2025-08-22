@@ -4594,7 +4594,6 @@ cryonics
 carob
 caroba
 caroch
-caroche
 closings
 cyclarthrsis
 cashoos
@@ -30696,6 +30695,7 @@ cued
 chiropterygium
 coeffects
 cheetie
+caroche
 cunctatory
 coempts
 cuemen
