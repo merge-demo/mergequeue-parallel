@@ -5979,6 +5979,7 @@ commonality
 cerastium
 catheterizes
 cathetometer
+cheetahs
 cartopper
 cathetusti
 cathexes
@@ -9717,7 +9718,6 @@ crabeater
 chevre
 convocate
 cheesing
-cheetahs
 cheetul
 casse
 coagent
