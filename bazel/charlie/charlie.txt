@@ -20495,7 +20495,6 @@ compartment
 chemically
 cocarboxylase
 cacaxte
-conelet
 caligation
 celliferous
 chappaul
@@ -25949,6 +25948,7 @@ codicil
 chlamydoselachus
 corve
 cousiny
+conelet
 corvees
 centered
 corven
