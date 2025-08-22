@@ -168,7 +168,6 @@ busboys
 babouvism
 babouvist
 babracot
-babs
 blastocoelic
 bibliopegist
 besweeten
@@ -12826,6 +12825,7 @@ brasses
 burstone
 boolya
 blebs
+babs
 braiding
 barrelhouse
 beefcakes
