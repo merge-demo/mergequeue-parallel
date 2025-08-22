@@ -5698,6 +5698,7 @@ dentelliere
 deplaning
 dylan
 dawdled
+dieselize
 drumler
 deplant
 disvertebrate
@@ -9267,7 +9268,6 @@ dyes
 dammer
 damfoolish
 deanathematize
-dieselize
 dieses
 deforester
 diesters
