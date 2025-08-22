@@ -17185,7 +17185,6 @@ apomorphine
 althaeas
 almudes
 aponeurotic
-antivirus
 aponeurotomy
 aponic
 apoop
@@ -19266,6 +19265,7 @@ awm
 areometrical
 arbutus
 anthologizer
+antivirus
 areopagist
 areopagite
 areopagitica
