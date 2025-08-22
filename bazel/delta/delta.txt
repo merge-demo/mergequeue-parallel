@@ -2188,7 +2188,6 @@ dongolese
 duarch
 disinfective
 decartelization
-decartelize
 decatize
 doggeries
 decartelizing
@@ -18346,6 +18345,7 @@ dithionic
 duodecimos
 draggiest
 duodedena
+decartelize
 dorsiflexion
 dasi
 duodedenums
