@@ -6350,7 +6350,6 @@ dermogastric
 dean
 dermoidal
 dermoidectomy
-desexed
 dgag
 dermoneural
 drassid
@@ -12346,6 +12345,7 @@ disgustingly
 dealated
 dishabilitate
 duras
+desexed
 dishabille
 devilish
 disclosures
