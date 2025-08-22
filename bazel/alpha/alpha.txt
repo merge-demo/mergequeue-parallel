@@ -14228,7 +14228,6 @@ anthelices
 anthelix
 archaeomagnetism
 anthelminthic
-anthem
 anthemas
 anthemata
 agavose
@@ -25248,6 +25247,7 @@ allemontite
 azygoses
 azygote
 atabal
+anthem
 auriform
 amnestying
 agialid
