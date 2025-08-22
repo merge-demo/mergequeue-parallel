@@ -6838,7 +6838,6 @@ caudal
 cellarmen
 cellars
 chirologies
-charivariing
 cellarwoman
 cellblock
 celled
@@ -10729,6 +10728,7 @@ chimneypiece
 chimopelagic
 chymotrypsinogen
 creedalism
+charivariing
 coilsmith
 canthari
 cisgangetic
