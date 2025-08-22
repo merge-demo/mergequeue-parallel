@@ -2007,7 +2007,6 @@ abanic
 aphnology
 acetotoluidine
 amendatory
-acetous
 acetoxyl
 approbatory
 allegoristic
@@ -24287,6 +24286,7 @@ autodiffusion
 autopolyploid
 academically
 autopolyploidy
+acetous
 autopolo
 anomalous
 autopoloist
