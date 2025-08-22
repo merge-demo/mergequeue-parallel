@@ -3338,6 +3338,7 @@ decolor
 disrestore
 dynagraph
 dithionate
+daggering
 deflagrator
 deflating
 discommend
@@ -13949,7 +13950,6 @@ distinctiveness
 diapophyses
 distinguee
 distinguishableness
-daggering
 dobie
 disbosoming
 distinguishedly
