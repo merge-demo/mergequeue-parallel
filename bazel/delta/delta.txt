@@ -1698,6 +1698,7 @@ dispond
 dobl
 dearsenicize
 decoding
+diamondize
 disorganizes
 dearthfu
 disscussive
@@ -15897,7 +15898,6 @@ demonesses
 deoxidizer
 dossiers
 dudes
-diamondize
 dorty
 daikers
 documentor

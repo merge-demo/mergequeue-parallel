@@ -692,7 +692,6 @@ carries
 caffeism
 cud
 colometry
-caffeol
 caffeone
 caffetannic
 caballed
@@ -14918,6 +14917,7 @@ caperdewsie
 cytomegalovirus
 cytomere
 carefully
+caffeol
 cytomicrosome
 citrated
 cordages
