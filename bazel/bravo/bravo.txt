@@ -5259,6 +5259,7 @@ bribability
 blastocyst
 begats
 bolters
+badder
 bastes
 barytons
 bothsided
@@ -6930,7 +6931,6 @@ betail
 baselessness
 betta
 bahai
-badder
 bismuths
 bagheli
 brott
