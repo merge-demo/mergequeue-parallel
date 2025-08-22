@@ -3087,6 +3087,7 @@ blabby
 baseballer
 betraying
 boodledom
+beaky
 beautify
 bucrnia
 bloodcurdler
@@ -5237,7 +5238,6 @@ basaltic
 bicentenary
 bimastoid
 bullyragged
-beaky
 bunkmate
 begarlanded
 baldpates
