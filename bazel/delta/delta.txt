@@ -4077,7 +4077,6 @@ dualistic
 dogcarts
 delicense
 desiccant
-dynamometamorphosed
 deliciae
 deliciouses
 deliciousness
@@ -11989,6 +11988,7 @@ disdainful
 disemploy
 disroots
 dooket
+dynamometamorphosed
 disulfuret
 diatonic
 dorados

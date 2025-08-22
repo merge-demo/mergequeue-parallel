@@ -4052,7 +4052,6 @@ beamman
 bskt
 beamroom
 baragnosis
-blitzkrieged
 beams
 bargees
 bantlings
@@ -14448,6 +14447,7 @@ braireau
 braises
 bendays
 butea
+blitzkrieged
 breezelike
 boregat
 braystone
