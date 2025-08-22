@@ -15593,7 +15593,6 @@ cinevariety
 clasper
 claspers
 claspt
-classable
 coplanarity
 classbook
 classed
@@ -27265,6 +27264,7 @@ cloggiest
 countryseat
 coalboxes
 countryside
+classable
 countryward
 countrywoman
 clap
