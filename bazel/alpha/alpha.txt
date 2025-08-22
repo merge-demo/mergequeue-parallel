@@ -12904,6 +12904,7 @@ athetoids
 angsts
 aldolase
 anguillaria
+antiplethoric
 abey
 amphitheccia
 affirmant
@@ -15806,7 +15807,6 @@ antiplastic
 antipleion
 advocation
 anethum
-antiplethoric
 antiplurality
 anabrotic
 antipodal
