@@ -4571,7 +4571,6 @@ bedaubing
 bloodstone
 boden
 belial
-biddelian
 beats
 bedazement
 blared
@@ -18149,6 +18148,7 @@ boundly
 boweling
 bullyboy
 boschvark
+biddelian
 boogie
 bunco
 benching
