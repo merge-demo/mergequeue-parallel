@@ -2508,7 +2508,6 @@ dorothea
 decemdentate
 dipper
 dibromoacetaldehyde
-declaratorily
 deaminate
 drain
 declarators
@@ -5716,6 +5715,7 @@ depletive
 denutrition
 decarboxylating
 delthyrium
+declaratorily
 deploy
 desipramine
 despotic
