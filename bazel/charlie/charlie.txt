@@ -501,6 +501,7 @@ casitas
 choosableness
 cyclose
 cadenette
+coralloid
 colloidal
 corregidores
 crumbers
@@ -18396,7 +18397,6 @@ cogitator
 cogito
 coglorify
 cogman
-coralloid
 counterbuilding
 conformers
 cogmen
