@@ -8628,7 +8628,6 @@ aggression
 anotto
 aeolomelodicon
 assimilativeness
-avizandum
 accentuates
 aeciotelium
 antiexpressiveness
@@ -18757,6 +18756,7 @@ archesporial
 autocades
 archest
 archetypal
+avizandum
 arabian
 anhydremic
 almaciga
