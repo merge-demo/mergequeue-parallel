@@ -11724,7 +11724,6 @@ claries
 corruptness
 cholo
 chaver
-cholochrome
 cholocyanine
 cinematographic
 crossroading
@@ -11849,6 +11848,7 @@ collaborate
 calfhood
 chontaquiro
 coasted
+cholochrome
 choora
 contents
 catamountain
