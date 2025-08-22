@@ -9585,7 +9585,6 @@ dignities
 drunks
 dignotion
 dependants
-deuterons
 dyslexias
 digonal
 demirobe
@@ -10676,6 +10675,7 @@ diplotaxis
 dissipating
 durned
 draws
+deuterons
 derivable
 declinometer
 downstreet
