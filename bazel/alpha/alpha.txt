@@ -962,6 +962,7 @@ abstainers
 abstaining
 abstains
 annectant
+ammonitiferous
 assis
 abstemious
 astron
@@ -10835,7 +10836,6 @@ ammonion
 ammonitess
 ammonitic
 abstrude
-ammonitiferous
 ammonitoid
 ammonitoidea
 affording
