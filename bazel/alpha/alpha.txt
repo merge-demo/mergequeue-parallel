@@ -8342,7 +8342,6 @@ apophylaxis
 antecloset
 acappella
 arbitrational
-afforestment
 alipteria
 alipterion
 aliptic
@@ -13030,6 +13029,7 @@ antinovels
 ancillas
 assagaiing
 anakinetic
+afforestment
 aradid
 anhysteretic
 agrologist
