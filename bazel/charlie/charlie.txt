@@ -6055,7 +6055,6 @@ candify
 catlike
 crowns
 catling
-catlings
 cairds
 catlins
 craftsperson
@@ -23576,6 +23575,7 @@ cheeky
 catholicising
 caughnawaga
 chaffweed
+catlings
 continuation
 continuatively
 continuativeness
