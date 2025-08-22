@@ -234,7 +234,6 @@ daftness
 descending
 dinnertime
 dorsula
-dolichopsyllidae
 displanting
 diff
 discrepencies
@@ -18212,6 +18211,7 @@ dermataneuria
 decener
 dundasite
 didascalar
+dolichopsyllidae
 downfallen
 deedful
 depersonalize
