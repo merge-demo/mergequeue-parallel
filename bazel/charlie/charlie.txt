@@ -5848,6 +5848,7 @@ categorizer
 chandoo
 categorizes
 communicants
+cestoidean
 crawling
 chateau
 cateye
@@ -7943,7 +7944,6 @@ compete
 coronize
 capitulary
 carouses
-cestoidean
 cestoids
 cestraction
 chairs
