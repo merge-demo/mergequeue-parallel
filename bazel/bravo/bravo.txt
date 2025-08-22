@@ -4612,7 +4612,6 @@ bedecked
 bedrid
 bebannered
 bedecking
-bulletproofed
 broadens
 bedehouse
 byrewards
@@ -9877,6 +9876,7 @@ besee
 bitterbloom
 bitterbur
 bittered
+bulletproofed
 bitterender
 ballooning
 bemingling
