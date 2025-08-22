@@ -15194,6 +15194,7 @@ catalyst
 cladophora
 cladophoraceous
 clunk
+clinamen
 cladoptosis
 consensus
 copilots
@@ -16231,7 +16232,6 @@ counterpenalty
 cavidae
 climograph
 conversazioni
-clinamen
 clinamina
 clinandrdria
 clinch
