@@ -2446,7 +2446,6 @@ coacervation
 cancrid
 collaborationist
 cruzeiro
-capelline
 cancrine
 cicatrix
 carpers
@@ -15624,6 +15623,7 @@ curites
 crustaceous
 classificator
 culicidae
+capelline
 classificatory
 classified
 catallum
