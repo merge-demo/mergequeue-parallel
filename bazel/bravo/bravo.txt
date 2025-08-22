@@ -5169,7 +5169,6 @@ bootmaker
 brunizem
 befouling
 befoulment
-befraught
 befreight
 borosilicic
 baddish
@@ -18197,6 +18196,7 @@ bichy
 braggadocianism
 besprinkler
 buttonlike
+befraught
 butment
 butolism
 beltway
