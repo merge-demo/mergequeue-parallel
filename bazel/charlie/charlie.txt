@@ -10699,7 +10699,6 @@ ctenophorous
 coprolite
 compassless
 chymia
-chymics
 chymify
 confide
 cholinesterase
@@ -20205,6 +20204,7 @@ committible
 committor
 commix
 commixes
+chymics
 chiromantic
 commixing
 chinenses
