@@ -1589,7 +1589,6 @@ clarice
 counterpaled
 cinderella
 corded
-concertize
 coassumed
 calls
 callum
@@ -15756,6 +15755,7 @@ clavicymbal
 clavicytheria
 clavicithern
 chemics
+concertize
 cytologies
 clavicythetheria
 clavicittern
