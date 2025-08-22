@@ -10893,6 +10893,7 @@ availably
 airtight
 amnions
 allodialism
+aramids
 amnios
 amniota
 amidship
@@ -18318,7 +18319,6 @@ aramaism
 aramid
 appledrane
 aramidae
-aramids
 appendical
 aramina
 agriochoeridae
