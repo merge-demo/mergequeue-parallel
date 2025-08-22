@@ -473,6 +473,7 @@ battik
 benzoates
 backspaces
 backspacing
+bucentaur
 butteries
 beestings
 brubu
@@ -17053,7 +17054,6 @@ bitake
 baluga
 babylonite
 bullcomber
-bucentaur
 batoidei
 barcarole
 brokerages
