@@ -4022,7 +4022,6 @@ beala
 byously
 burglarproofing
 buchu
-bom
 banditti
 butled
 beambird
@@ -15426,6 +15425,7 @@ breaststroker
 breadberry
 buttressing
 bodoni
+bom
 banding
 babyish
 brannerite
