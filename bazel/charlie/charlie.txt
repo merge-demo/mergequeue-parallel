@@ -7322,7 +7322,6 @@ characterizations
 cholangioitis
 crisis
 cepaceous
-cepe
 congaing
 crossroads
 cepes
@@ -14136,6 +14135,7 @@ cyrano
 compend
 chocked
 cookwares
+cepe
 crocodile
 coriandrol
 chloritoid
