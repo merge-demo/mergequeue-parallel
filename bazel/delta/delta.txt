@@ -12366,6 +12366,7 @@ dielectrics
 discharged
 differentiates
 disharmonious
+duplexer
 drias
 disharmonised
 departmentally
@@ -15269,7 +15270,6 @@ dolichosauri
 dameworts
 dracaenaceae
 dolichosauria
-duplexer
 doliidae
 dolioform
 dabblings
