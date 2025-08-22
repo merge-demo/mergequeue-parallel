@@ -5955,6 +5955,7 @@ depriment
 deprint
 depriorize
 disorderedness
+dagged
 deprivable
 degrader
 departements
@@ -9219,7 +9220,6 @@ disguiser
 dentinoma
 dieing
 deprovincialize
-dagged
 dramshops
 derat
 dyeings
