@@ -8340,7 +8340,6 @@ arbitrational
 afforestment
 alipteria
 alipterion
-aliptes
 aliptic
 aporia
 amoebidae
@@ -15211,6 +15210,7 @@ antifreeze
 antifreezing
 antifriction
 antistate
+aliptes
 askant
 antifrost
 antifundamentalism

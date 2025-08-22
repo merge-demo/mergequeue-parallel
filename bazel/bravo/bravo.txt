@@ -6718,6 +6718,7 @@ berkovets
 berkovtsi
 bedull
 bayesian
+bonnier
 berlin
 browsability
 broomstaff
@@ -12594,7 +12595,6 @@ bibbers
 blottesque
 batter
 bristlemouths
-bonnier
 backlist
 bonnyish
 beverages
