@@ -90,7 +90,6 @@ dumb
 damps
 deploying
 disqualifiable
-dotty
 depolarizer
 disunity
 dampened
@@ -10441,6 +10440,7 @@ diospyros
 diphenylene
 despend
 diphenylenimine
+dotty
 ditcher
 dug
 diphenylhydantoin
