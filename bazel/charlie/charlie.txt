@@ -1308,7 +1308,6 @@ crewless
 cravatted
 costliest
 contrist
-cesarolite
 caliburno
 colossuses
 crawfished
@@ -25825,6 +25824,7 @@ corruptingly
 cimicid
 cocooning
 corruption
+cesarolite
 corruptionist
 cerographies
 corollas
