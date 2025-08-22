@@ -11791,6 +11791,7 @@ appulsion
 analoga
 attractance
 analogy
+atony
 analogic
 anteposition
 ananta
@@ -22793,7 +22794,6 @@ atones
 adnations
 argilloid
 anocarpous
-atony
 atonicity
 ageusia
 alcelaphus
