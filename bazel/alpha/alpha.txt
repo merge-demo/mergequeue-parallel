@@ -12274,7 +12274,6 @@ autoirrigation
 adipocerite
 alkenna
 anderun
-andesites
 archipresbyter
 andesytes
 andevo
@@ -25361,6 +25360,7 @@ azotises
 azotize
 absinthism
 adaptative
+andesites
 azotoluene
 azotorrhea
 actualisation
