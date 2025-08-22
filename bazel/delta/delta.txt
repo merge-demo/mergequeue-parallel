@@ -13276,7 +13276,6 @@ decohesion
 disposed
 disposedness
 disposement
-disposers
 dislocator
 dicrotic
 dispositional
@@ -15538,6 +15537,7 @@ debut
 doncy
 disheartens
 dampproofing
+disposers
 dondaine
 desertedly
 drawly
