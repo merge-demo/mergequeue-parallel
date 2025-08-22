@@ -467,6 +467,7 @@ disburthen
 daywrit
 dakerhen
 designing
+doughman
 disappointing
 dogcatchers
 dakhini
@@ -8484,7 +8485,6 @@ declassify
 dunites
 desiringly
 denigrating
-doughman
 draffier
 diamondwise
 diamorphine
