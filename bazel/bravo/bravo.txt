@@ -5316,7 +5316,6 @@ breathlessness
 biscuitmaker
 biconical
 bezzants
-bipinnate
 bugbite
 beginning
 bisiliac
@@ -13198,6 +13197,7 @@ begemmed
 boschveld
 boulevardize
 bewit
+bipinnate
 bose
 baston
 boselaphus
