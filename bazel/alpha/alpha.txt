@@ -962,6 +962,7 @@ abstaining
 abstains
 annectant
 ammonitiferous
+augural
 assis
 abstemious
 astron
@@ -7923,7 +7924,6 @@ anthogenous
 aletocyte
 autochromy
 anticombination
-augural
 appliers
 aldehydrol
 aspirators
