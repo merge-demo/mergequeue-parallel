@@ -5127,6 +5127,7 @@ autochanger
 afetal
 affability
 apyrexia
+arrisways
 affable
 ambilaevous
 affaite
@@ -19003,7 +19004,6 @@ archpilferer
 argylls
 archswindler
 adenin
-arrisways
 assyrianize
 absolutely
 acrodactylum
