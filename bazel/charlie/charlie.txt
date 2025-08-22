@@ -4489,7 +4489,6 @@ courages
 carloading
 combatants
 carlock
-cogways
 carlos
 cannaled
 circumference
@@ -28762,6 +28761,7 @@ cresc
 comparativeness
 cordelier
 crescendo
+cogways
 crescendoing
 crescendos
 crescentade
