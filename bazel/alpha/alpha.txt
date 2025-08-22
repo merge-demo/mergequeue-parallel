@@ -6379,6 +6379,7 @@ agudist
 arsonite
 acolous
 agueweeds
+alcor
 aguglia
 arachnidan
 aguilt
@@ -7672,7 +7673,6 @@ alcohols
 ambitionlessly
 alconde
 alcoothionic
-alcor
 artsy
 alcoran
 apposiopestic
