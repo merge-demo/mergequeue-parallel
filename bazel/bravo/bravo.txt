@@ -1152,7 +1152,6 @@ baizas
 bespin
 beseech
 bajardo
-birrs
 bupleurol
 bronzitite
 bile
@@ -11472,6 +11471,7 @@ billposter
 bluffable
 blicky
 bialveolar
+birrs
 bazzite
 baraca
 brunette
