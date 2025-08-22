@@ -4278,7 +4278,6 @@ adrue
 arecaine
 atabrine
 amortizing
-anterevolutionary
 acarida
 actiniferous
 adscititious
@@ -20562,6 +20561,7 @@ arthrometry
 aswithe
 arthroncus
 arthroneuralgia
+anterevolutionary
 articulite
 aetiology
 arthropathic
