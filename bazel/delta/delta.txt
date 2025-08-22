@@ -3021,6 +3021,7 @@ deservings
 dragonfish
 disestablishment
 deerhound
+deploy
 diphthongs
 deucedly
 dowress
@@ -5723,7 +5724,6 @@ denutrition
 decarboxylating
 delthyrium
 declaratorily
-deploy
 desipramine
 despotic
 deplumed
