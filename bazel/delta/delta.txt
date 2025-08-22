@@ -6008,6 +6008,7 @@ diaschistic
 depth
 dispraise
 droopy
+detonize
 devitation
 domajigger
 diagraphics
@@ -7383,7 +7384,6 @@ detonations
 dusking
 demean
 detonative
-detonize
 detour
 duncifying
 detectability
