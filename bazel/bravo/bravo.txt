@@ -4613,7 +4613,6 @@ bedrid
 bebannered
 bedecking
 broadens
-bedehouse
 byrewards
 bullrushes
 bedehouses
@@ -9176,6 +9175,7 @@ bethabara
 beauetry
 bipalmate
 brimfulness
+bedehouse
 booed
 biparasitic
 bobsleding
