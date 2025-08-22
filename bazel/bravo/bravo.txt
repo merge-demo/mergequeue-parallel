@@ -2318,7 +2318,6 @@ barbican
 breloque
 bathyscape
 bemitred
-barbicels
 bathonian
 barbierite
 busyish
@@ -8256,6 +8255,7 @@ biga
 bigae
 bywork
 battological
+barbicels
 bewake
 boustrophedon
 benzophosphinic
