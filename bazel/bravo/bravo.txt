@@ -3772,7 +3772,6 @@ baysmelt
 betatrons
 batwomen
 brevipennate
-beetlestock
 batz
 beldamship
 bestubble
@@ -8237,6 +8236,7 @@ bavarian
 bhavani
 blanketflower
 bifurcated
+beetlestock
 bifurcately
 bifurcating
 bergschrund
