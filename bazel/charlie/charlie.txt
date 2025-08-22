@@ -25327,7 +25327,6 @@ corneas
 cheddaring
 cappelenite
 cornein
-cornel
 cornelia
 coner
 concessioner
@@ -28630,6 +28629,7 @@ crematorial
 crematoriria
 crematorium
 cornicular
+cornel
 cremators
 coronule
 crembalum
