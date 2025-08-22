@@ -81,7 +81,6 @@ balanite
 ballfield
 babelize
 beshlik
-babels
 belinda
 botrytis
 bulwarks
@@ -5551,6 +5550,7 @@ bejesuit
 bejewel
 bromomenorrhea
 blowziest
+babels
 bhava
 biopsies
 blockline
