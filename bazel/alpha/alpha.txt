@@ -2608,7 +2608,6 @@ amphigonous
 assuaging
 acquittal
 almacenista
-acquitted
 alangine
 ashkenazim
 acquitter
@@ -8181,6 +8180,7 @@ adermia
 alice
 anthropogenist
 amishgo
+acquitted
 abyssal
 alichino
 anarchial
