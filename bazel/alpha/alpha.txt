@@ -9801,7 +9801,6 @@ agst
 amanuensis
 amapa
 ainsell
-amarant
 astoned
 aptal
 amarantaceae
@@ -12842,6 +12841,7 @@ anglicisation
 apolysin
 anatabine
 anglicization
+amarant
 apneumatosis
 allineate
 aditio
