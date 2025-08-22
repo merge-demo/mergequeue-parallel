@@ -8221,7 +8221,6 @@ diadkokinesia
 diadochi
 ductible
 depigment
-deossify
 dados
 disspreading
 diadochy
@@ -12308,6 +12307,7 @@ driblet
 duplicities
 denitration
 demigrate
+deossify
 desynchronize
 diphosphate
 diaconia
