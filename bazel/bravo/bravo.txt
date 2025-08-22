@@ -5639,7 +5639,6 @@ blarina
 bridelike
 belate
 babbittess
-belating
 belauded
 balt
 brocks
@@ -17039,6 +17038,7 @@ boorga
 bleakly
 brodekin
 bullate
+belating
 bullback
 bullbaiting
 belduque
