@@ -2288,6 +2288,7 @@ beearn
 barbequed
 barber
 bordrag
+bombproof
 blype
 businessese
 bizet
@@ -15549,7 +15550,6 @@ briss
 brist
 bristlecone
 bufferrers
-bombproof
 baldberry
 bristled
 bakhtiari
