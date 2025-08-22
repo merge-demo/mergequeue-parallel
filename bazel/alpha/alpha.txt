@@ -6996,6 +6996,7 @@ alamedas
 airworthier
 adjiga
 adhibited
+antalgesic
 asporogenous
 arthropathy
 ameiotic
@@ -13911,7 +13912,6 @@ aptyalism
 antaios
 antaiva
 anolian
-antalgesic
 antalgics
 antalgol
 abmodality
