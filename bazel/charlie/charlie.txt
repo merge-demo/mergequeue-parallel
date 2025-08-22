@@ -3965,7 +3965,6 @@ crueler
 carcass
 carcassed
 carcassing
-carcavelhos
 coonjine
 carceag
 camanay
@@ -21488,6 +21487,7 @@ concordal
 circumundulation
 concordance
 concordancer
+carcavelhos
 commands
 corporacies
 curliewurly
