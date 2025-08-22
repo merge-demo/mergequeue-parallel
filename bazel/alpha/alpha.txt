@@ -3030,6 +3030,7 @@ adfreeze
 actinomorphic
 amphitrichous
 azotise
+ammochaetae
 abdominoanterior
 anilinophilous
 arvicole
@@ -10787,7 +10788,6 @@ ammo
 amphibological
 anaglypton
 abhiseka
-ammochaetae
 ammocoetes
 agglutinated
 addossed
