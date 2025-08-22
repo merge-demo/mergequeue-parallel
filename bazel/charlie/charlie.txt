@@ -5507,7 +5507,6 @@ catabolism
 catabolite
 claim
 counterwrite
-congaing
 catachreses
 catachresis
 catachrestic
@@ -7334,6 +7333,7 @@ cholangioitis
 crisis
 cepaceous
 cepe
+congaing
 crossroads
 cepes
 civ
