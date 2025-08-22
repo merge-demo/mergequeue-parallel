@@ -821,6 +821,7 @@ bigate
 baftah
 buoyages
 boldheartedly
+bals
 battologizing
 brecciation
 baga
@@ -8447,7 +8448,6 @@ bilewhit
 bavardage
 bootjack
 bouteloua
-bals
 bilgeway
 bilgier
 bilharzial
