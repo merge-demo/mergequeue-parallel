@@ -21164,6 +21164,7 @@ ashling
 appraised
 abrogator
 angster
+avower
 atropin
 ashochimi
 ashore
@@ -24858,7 +24859,6 @@ avowed
 aseptic
 avowedly
 apotheosis
-avower
 amphithect
 astronavigation
 avshar
