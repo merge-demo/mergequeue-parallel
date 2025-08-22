@@ -4980,6 +4980,7 @@ demotists
 duncedom
 dephosphorize
 draggled
+deprivative
 demountability
 diamb
 demountable
@@ -13127,7 +13128,6 @@ dispensive
 dispeople
 daresay
 diagnostically
-deprivative
 depurging
 domesticability
 diversifying
