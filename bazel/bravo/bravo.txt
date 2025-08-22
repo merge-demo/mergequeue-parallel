@@ -5170,7 +5170,6 @@ bluebead
 bordereau
 breedbate
 befretting
-befume
 buoyage
 befriended
 bullyrags
@@ -15975,6 +15974,7 @@ bronchoscopist
 backbear
 bronchospasm
 blenches
+befume
 bellbottle
 bronchotomy
 bersaglieri
