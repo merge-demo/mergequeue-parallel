@@ -437,6 +437,7 @@ ability
 anomaly
 abilla
 abilo
+ankylotome
 acinetinan
 arugolas
 amplitudes
@@ -8698,7 +8699,6 @@ abouchement
 allergenicity
 arrhythmous
 atheology
-ankylotome
 actinopod
 allergin
 allergists

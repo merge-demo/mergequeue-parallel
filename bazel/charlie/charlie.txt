@@ -7848,7 +7848,6 @@ cervicobuccal
 cervicodynia
 cervicofacial
 canabae
-cervicolabial
 cooeyed
 croh
 cervicomuscular
@@ -30809,6 +30808,7 @@ cullisance
 cannibalish
 colicweed
 consonances
+cervicolabial
 cholates
 cullises
 cinereous
