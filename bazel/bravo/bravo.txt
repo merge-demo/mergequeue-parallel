@@ -2651,6 +2651,7 @@ barleycorn
 bournonite
 bilge
 basidiophore
+branchiurous
 bimensal
 bellying
 bable
@@ -4824,7 +4825,6 @@ beautiless
 broadwise
 bedswerver
 bichrome
-branchiurous
 bulchin
 bedtime
 brackens
