@@ -3662,7 +3662,6 @@ bergut
 batsman
 barrelsful
 besetting
-benzophenol
 bardolater
 books
 blissfully
@@ -5317,6 +5316,7 @@ bipinnate
 bugbite
 beginning
 bisiliac
+benzophenol
 bemirement
 beginnings
 begird
