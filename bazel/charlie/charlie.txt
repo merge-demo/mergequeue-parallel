@@ -16515,6 +16515,7 @@ creamcup
 curvicostate
 cloamen
 christliness
+cursores
 clobber
 clobbered
 clobbers
@@ -31548,7 +31549,6 @@ curtailed
 curtailedly
 curtailing
 compulsiveness
-cursores
 curtails
 curtain
 centrals
