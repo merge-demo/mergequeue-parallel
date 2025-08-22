@@ -7083,6 +7083,7 @@ bannerette
 briquetting
 bespeak
 bodyless
+bummler
 biggings
 boucle
 bimorphs
@@ -17276,7 +17277,6 @@ bantams
 bummel
 bummie
 bumming
-bummler
 barberite
 bumped
 burrowed

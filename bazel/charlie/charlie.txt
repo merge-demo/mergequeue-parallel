@@ -11357,7 +11357,6 @@ chlorofluorocarbon
 chlorofluoromethane
 ceylanite
 chloroformate
-churched
 chloroformic
 conged
 cubica
@@ -25386,6 +25385,7 @@ choragus
 corniced
 collaud
 creamery
+churched
 centrifuged
 coarsish
 crotcheted
