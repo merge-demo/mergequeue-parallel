@@ -3352,6 +3352,7 @@ adaptitude
 azurite
 adaptive
 amortizement
+archpiece
 attending
 ankou
 apostemation
@@ -6240,7 +6241,6 @@ agre
 agreation
 attemptability
 ambushes
-archpiece
 agreeable
 audiovisual
 axils
