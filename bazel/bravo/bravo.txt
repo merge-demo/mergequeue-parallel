@@ -11450,6 +11450,7 @@ bolthead
 bluetit
 bluffly
 bullhoof
+bigger
 bejade
 bulbul
 bluetongue
@@ -16832,7 +16833,6 @@ balkline
 biomaterial
 boarishly
 beam
-bigger
 buffing
 breards
 bufflehead
