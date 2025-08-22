@@ -8856,6 +8856,7 @@ adaptionism
 alcoves
 allochlorophyll
 antigropelos
+acquaintance
 allochroic
 allochthon
 aumbries
@@ -12764,7 +12765,6 @@ aeneolithic
 angioplasty
 asynapsis
 angiopressure
-acquaintance
 angiorrhagia
 angiorrhaphy
 angiorrhea
