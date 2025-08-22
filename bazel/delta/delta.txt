@@ -4851,6 +4851,7 @@ derotrema
 dextrous
 dyscrasing
 disappearances
+dactylioglyph
 dermatosis
 dustermen
 dilleniad
@@ -6463,7 +6464,6 @@ dendrogaean
 disperge
 departmentalising
 decadenza
-dactylioglyph
 disbark
 desands
 desc
