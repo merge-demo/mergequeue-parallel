@@ -4680,7 +4680,6 @@ demissory
 demystify
 demystification
 dismantle
-demisuit
 dumminess
 dithyrambos
 diphthongous
@@ -13872,6 +13871,7 @@ displaces
 distater
 donee
 distaves
+demisuit
 dern
 dioxide
 differency
