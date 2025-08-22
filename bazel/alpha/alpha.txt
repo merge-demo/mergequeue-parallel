@@ -18247,6 +18247,7 @@ adenasthenia
 arsenyl
 anatomiless
 aripple
+adenylpyrophosphate
 archangelship
 adsorptiveness
 astrocompass
@@ -21326,7 +21327,6 @@ aslant
 aglethead
 aslaver
 antidraft
-adenylpyrophosphate
 asleep
 aslumber
 arolla
