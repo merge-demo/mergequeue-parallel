@@ -9420,7 +9420,6 @@ chauvinistic
 cumbrance
 colds
 chavante
-chavantean
 chavel
 chavender
 compart
@@ -10369,6 +10368,7 @@ chickstone
 consultory
 critchfield
 canariote
+chavantean
 chickwit
 chicle
 chamberfellow
