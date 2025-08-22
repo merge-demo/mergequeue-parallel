@@ -228,6 +228,7 @@ abbotric
 allokinesis
 abscision
 alchemistical
+assigners
 aeroliths
 absorptiometric
 abbott
@@ -8894,7 +8895,6 @@ achromatizable
 astroalchemist
 agnathostomatous
 allographic
-assigners
 araneid
 alloyage
 aeroporotomy
