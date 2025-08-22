@@ -8875,6 +8875,7 @@ amphistomoid
 apiaries
 alloeostropha
 areason
+amphibolic
 airlifted
 aporrhaoid
 arrayers
@@ -13126,7 +13127,6 @@ animaters
 apokatastatic
 angekok
 animating
-amphibolic
 animatingly
 animation
 amoks
