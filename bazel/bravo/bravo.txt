@@ -11156,7 +11156,6 @@ boiloff
 balloters
 bloodthirster
 beliquors
-blindages
 beknot
 bitewings
 breveted
@@ -13859,6 +13858,7 @@ blenniid
 baas
 burettes
 besaiel
+blindages
 bottomrying
 barleybird
 brooch
