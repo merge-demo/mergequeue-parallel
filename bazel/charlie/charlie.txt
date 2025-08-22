@@ -4866,7 +4866,6 @@ caplet
 carryon
 combretaceous
 carrions
-carryons
 compense
 carryout
 carryouts
@@ -5469,6 +5468,7 @@ casuarius
 celeomorph
 cagers
 chamaecyparis
+carryons
 crunode
 casuistess
 conchobor
