@@ -4736,7 +4736,6 @@ acarology
 anaretic
 antihum
 aorists
-aeriality
 aerials
 agrologically
 aeric
@@ -24313,6 +24312,7 @@ angulating
 applecart
 autopsies
 ambrose
+aeriality
 abaters
 autoptically
 aeromancy
