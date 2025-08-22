@@ -6005,6 +6005,7 @@ allamanda
 aretalogy
 agists
 agit
+abricot
 afrite
 agitability
 archilowe
@@ -16888,7 +16889,6 @@ arcking
 abnormity
 apiole
 apiologist
-abricot
 apyonin
 apionol
 apiosoma
