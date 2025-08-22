@@ -2282,6 +2282,7 @@ administrants
 acidology
 acidometer
 afflation
+antipathies
 anacardium
 acidometry
 antinationalization
@@ -14498,7 +14499,6 @@ anthroponomics
 anthroponomist
 allect
 anthropopathy
-antipathies
 areas
 aestival
 aneurysmatic
