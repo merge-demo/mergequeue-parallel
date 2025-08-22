@@ -7873,7 +7873,6 @@ cosignatory
 cervixes
 cervoid
 cervuline
-cervus
 cesare
 cesareans
 cesarevitch
@@ -23766,6 +23765,7 @@ contraremonstrance
 contrariant
 contraries
 contrarieties
+cervus
 contrarily
 cosavior
 chancellory
