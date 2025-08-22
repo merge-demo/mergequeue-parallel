@@ -2577,7 +2577,6 @@ diplocephalous
 decoat
 decoct
 demiquaver
-dashes
 decocting
 decoctive
 deaminizing
@@ -7249,6 +7248,7 @@ dephlegmator
 deter
 deterged
 desertlike
+dashes
 dilettantship
 dendrachate
 dishware
