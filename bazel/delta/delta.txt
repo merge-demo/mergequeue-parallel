@@ -9847,7 +9847,6 @@ dilutely
 draffish
 diagonality
 drowsy
-darting
 diluters
 drudgingly
 destuffs
@@ -11326,6 +11325,7 @@ discatter
 derailments
 dethroned
 damolic
+darting
 dumontia
 disced
 devaraja
