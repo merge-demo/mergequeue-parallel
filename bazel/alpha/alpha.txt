@@ -1640,6 +1640,7 @@ according
 assapanic
 achate
 artificialize
+anthologised
 accriminate
 arthuriana
 admiralship
@@ -14308,7 +14309,6 @@ anthologies
 autobiographies
 asphyxiates
 alberto
-anthologised
 anthologising
 appellational
 atomize
