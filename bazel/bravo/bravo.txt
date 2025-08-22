@@ -4420,7 +4420,6 @@ blackfriars
 bandleader
 becloak
 bereavement
-boojum
 beclog
 becoiffed
 bendlet
@@ -10431,6 +10430,7 @@ blankly
 baidya
 bullfinch
 blankness
+boojum
 blanks
 byrewoman
 boltmaking
