@@ -5812,7 +5812,6 @@ datableness
 diaxial
 distalwards
 deportment
-dourines
 desmotropism
 dacker
 deepnesses
@@ -9712,6 +9711,7 @@ dilactic
 dilactone
 dilamination
 dilaniate
+dourines
 dribbling
 doubled
 disconcord
