@@ -7823,6 +7823,7 @@ devour
 dorsad
 devourer
 devourers
+disguises
 discourseless
 doers
 danziger
@@ -12329,7 +12330,6 @@ dulcimer
 dissavage
 displeasurably
 demagnetization
-disguises
 disgulf
 dionaeaceae
 decametre
