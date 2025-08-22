@@ -2132,7 +2132,6 @@ campground
 consarcinate
 camphane
 camphanone
-camphene
 camphenes
 camphine
 cufflinks
@@ -29853,6 +29852,7 @@ crossbill
 crossbite
 capiatur
 curriculums
+camphene
 crossbow
 crossbows
 culgee
