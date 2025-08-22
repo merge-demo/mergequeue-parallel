@@ -6242,6 +6242,7 @@ benitier
 benjamin
 benjaminite
 bridgeway
+britannic
 boletus
 benjamins
 bypass
@@ -14698,7 +14699,6 @@ banus
 bibliopolic
 brauna
 burgheristh
-britannic
 bullwork
 braunite
 braunites
