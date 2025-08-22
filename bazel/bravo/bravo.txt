@@ -6393,7 +6393,6 @@ bobeches
 businesswomen
 bibulous
 bequeath
-benzodiazole
 burdener
 benzofulvene
 bollen
@@ -8262,6 +8261,7 @@ bigamize
 boyars
 betafite
 balaenid
+benzodiazole
 bigamizing
 burstiness
 bedesman
