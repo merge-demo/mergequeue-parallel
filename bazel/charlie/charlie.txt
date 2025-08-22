@@ -14700,6 +14700,7 @@ cystolithiasis
 cystoma
 cystomas
 corpusculum
+cotylopubic
 cystometer
 chowk
 cystomyoma
@@ -26395,7 +26396,6 @@ cotyliscus
 cotylophora
 celtologue
 collide
-cotylopubic
 catatonics
 criminalist
 cotylosacral
