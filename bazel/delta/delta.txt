@@ -463,7 +463,6 @@ daswen
 daytide
 daytimes
 disburthen
-disaccharide
 daywrit
 dakerhen
 designing
@@ -16364,6 +16363,7 @@ downslide
 describent
 downslip
 decibel
+disaccharide
 downslope
 downstairs
 devout
