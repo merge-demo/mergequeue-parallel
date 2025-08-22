@@ -6911,7 +6911,6 @@ dichromasy
 decanter
 desoxyribonucleic
 dialled
-despair
 delirous
 drunken
 dirgeful
@@ -7862,6 +7861,7 @@ depress
 diverseness
 dewatered
 diffluence
+despair
 dissipate
 distemonous
 dewaters

@@ -7466,7 +7466,6 @@ arminianism
 albuminimeter
 albuminiparous
 acromial
-agnomina
 albuminising
 albuminize
 arrested
@@ -22844,6 +22843,7 @@ alochia
 alose
 atria
 asdic
+agnomina
 atrial
 antipodeans
 atrible
