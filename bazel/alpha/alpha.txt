@@ -5497,7 +5497,6 @@ aftermilk
 animadverts
 aftermost
 afternoons
-afternose
 ausgespielt
 alunites
 afterpains
@@ -9331,6 +9330,7 @@ alphabetically
 abbotships
 adenolymphoma
 affectation
+afternose
 alphabeting
 adiposis
 alphabetised
