@@ -734,6 +734,7 @@ badiaga
 breathy
 boneshaw
 bannerman
+beliing
 bushmanship
 badigeon
 bride
@@ -16973,7 +16974,6 @@ biacetyl
 biplosion
 bulbocavernosus
 biochore
-beliing
 bimotor
 beleaguered
 bulbously
