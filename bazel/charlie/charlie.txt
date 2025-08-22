@@ -6663,6 +6663,7 @@ ceders
 copepods
 cottiers
 cedilla
+chatelet
 cedillas
 ceding
 cedis
@@ -11844,7 +11845,6 @@ chontaquiro
 coasted
 choora
 contents
-chatelet
 catamountain
 chazzen
 cycloidal
