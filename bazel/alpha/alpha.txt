@@ -9494,7 +9494,6 @@ alternatively
 alternativeness
 alternatives
 angioblast
-alternifoliate
 axolysis
 afrikaans
 alternipetalous
@@ -12369,6 +12368,7 @@ arborizes
 andromed
 andromeda
 andromedotoxin
+alternifoliate
 amargoso
 andromonoecism
 argilloarenaceous
