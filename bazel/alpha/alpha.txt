@@ -5057,7 +5057,6 @@ aestivate
 avocate
 aestivates
 admonisher
-accosting
 acquainting
 amenia
 alphamerical
@@ -22798,6 +22797,7 @@ atonicity
 ageusia
 alcelaphus
 academism
+accosting
 atorai
 atour
 amitie
