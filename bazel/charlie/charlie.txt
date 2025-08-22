@@ -2994,6 +2994,7 @@ cantholysis
 commonable
 chaffers
 capriole
+clubhands
 colliquation
 cicalas
 claustrum
@@ -16903,7 +16904,6 @@ clubfisted
 clubfoot
 clubfooted
 clubhand
-clubhands
 cerebralgia
 clubhaul
 correctant
