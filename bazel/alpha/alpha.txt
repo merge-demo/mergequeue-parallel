@@ -11259,7 +11259,6 @@ antiprecipitin
 amphisarca
 aqua
 aperitifs
-actuated
 administratorship
 argiopidae
 apiary
@@ -16394,6 +16393,7 @@ antralgia
 antres
 autocollimation
 antrocele
+actuated
 antrophose
 antrorse
 antrorsely

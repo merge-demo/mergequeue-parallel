@@ -6875,6 +6875,7 @@ drailed
 destriers
 dsp
 desolate
+dishcross
 dobroes
 desolated
 dahoons
@@ -12392,7 +12393,6 @@ despairer
 dishcloths
 dupable
 dishclout
-dishcross
 disheart
 disassembly
 disheartenedly
