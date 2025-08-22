@@ -2135,6 +2135,7 @@ achiotes
 alinasal
 achirite
 achkan
+aristeas
 anthophilous
 alcovinometer
 achlorhydria
@@ -19633,7 +19634,6 @@ aluminic
 aristarchian
 aristarchies
 aristate
-aristeas
 alertness
 armaria
 aristeia
