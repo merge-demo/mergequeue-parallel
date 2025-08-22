@@ -1851,7 +1851,6 @@ acertannin
 acerval
 acervate
 acervation
-acervative
 acervulus
 anacoluthia
 atropins
@@ -24848,6 +24847,7 @@ autobiographically
 antejuramentum
 archplutocrat
 ancistrocladus
+acervative
 anthropometrical
 avow
 abashment
