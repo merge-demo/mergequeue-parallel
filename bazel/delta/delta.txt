@@ -1322,7 +1322,6 @@ dauke
 denticule
 dorsigerous
 disorder
-docetic
 dysteleologically
 deprecable
 demodulator
@@ -5857,6 +5856,7 @@ doxologizing
 dreidel
 dimagnesic
 depraver
+docetic
 dragonfly
 dewaxing
 deadtongue
