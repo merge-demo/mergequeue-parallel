@@ -1966,6 +1966,7 @@ bronchoscopy
 brachydactyl
 bulbous
 bombard
+bafaro
 ballocks
 banghy
 basilicas
@@ -8502,7 +8503,6 @@ bronchotomist
 bilipurpurin
 behale
 backboned
-bafaro
 baronne
 birch
 butyryl
