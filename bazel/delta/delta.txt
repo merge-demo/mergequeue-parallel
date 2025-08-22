@@ -3795,7 +3795,6 @@ decommissions
 devilkin
 dreissiger
 dunno
-deific
 dewworm
 dhobey
 deification
@@ -10138,6 +10137,7 @@ draughtsboard
 dynastinae
 denmark
 defervesce
+deific
 drumheads
 derrickmen
 dechloridized

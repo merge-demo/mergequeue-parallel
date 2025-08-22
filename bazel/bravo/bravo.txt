@@ -16714,6 +16714,7 @@ bistorta
 bedfoot
 bucktooth
 bucktoothed
+bemba
 bucku
 buckwagon
 boodie
@@ -17973,7 +17974,6 @@ brigued
 bulldust
 bedpan
 breakups
-bemba
 bobachee
 bromometric
 barkeeper
