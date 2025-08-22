@@ -10332,6 +10332,7 @@ amerces
 amerciable
 amerciament
 agao
+amphibolies
 amercing
 america
 arrayed
@@ -14223,7 +14224,6 @@ amphipodan
 anthelia
 aramaean
 anthelices
-amphibolies
 anthelix
 archaeomagnetism
 anthelminthic
