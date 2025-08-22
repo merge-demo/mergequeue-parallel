@@ -11052,7 +11052,6 @@ amouli
 anathematiser
 amovable
 acronarcotic
-abatic
 amove
 amylolytic
 ampangabeite
@@ -16653,6 +16652,7 @@ aphaeresis
 accompaniment
 allowedly
 aphagias
+abatic
 afterswell
 amidoazobenzol
 aphanes
