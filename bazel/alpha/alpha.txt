@@ -951,7 +951,6 @@ antichymosin
 apprehension
 alkalify
 armloads
-athyreosis
 aristos
 absorptiveness
 absorptivity
@@ -15704,6 +15703,7 @@ afterfermentation
 abkary
 antipatriotically
 antipatriotism
+athyreosis
 apodeme
 algesimeter
 antipeduncular
