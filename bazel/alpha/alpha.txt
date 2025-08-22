@@ -7767,6 +7767,7 @@ aldosterone
 abiezer
 aldrins
 arba
+adaptivity
 ausubos
 arcadianism
 atrickle
@@ -19771,7 +19772,6 @@ armangite
 aminovaleric
 anguiform
 armarian
-adaptivity
 armarium
 armariumaria
 atli
