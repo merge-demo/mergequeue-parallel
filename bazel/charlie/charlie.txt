@@ -26868,7 +26868,6 @@ counterimpulse
 counterindented
 counterindication
 countermining
-counterinfluence
 crochets
 counterinsurgency
 counterinterest
@@ -30820,6 +30819,7 @@ cosuretyship
 causus
 committable
 culmiferous
+counterinfluence
 cyclothymiac
 culmigenous
 culminal
