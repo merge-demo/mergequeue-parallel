@@ -8476,6 +8476,7 @@ caryopteris
 chamlet
 chamm
 chamma
+colonising
 chammy
 calcydon
 citellus
@@ -19362,7 +19363,6 @@ consumingness
 colonisationist
 colonise
 colonised
-colonising
 colonist
 cyrtidae
 colonizable
