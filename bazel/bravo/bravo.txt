@@ -1279,7 +1279,6 @@ begrutch
 boater
 balander
 bleaberry
-brachytmema
 benzopyranyl
 beclouds
 bawdyhouses
@@ -3616,6 +3615,7 @@ bromogelatin
 bathvillite
 brooklet
 bookmobile
+brachytmema
 besought
 blithelike
 batidaceous
