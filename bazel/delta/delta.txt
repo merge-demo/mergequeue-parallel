@@ -13675,7 +13675,6 @@ dorize
 dequantitate
 diedral
 dissimilate
-depletion
 disacquaintance
 dissimilating
 dissimilative
@@ -14021,6 +14020,7 @@ distorting
 dactylioglyphy
 diffusionism
 decasualising
+depletion
 disruptionist
 distortions
 delocalise
