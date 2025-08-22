@@ -10456,7 +10456,6 @@ amyatonic
 amic
 amicability
 amicabilities
-appredicate
 amicably
 amphipodous
 antiphonical
@@ -16564,6 +16563,7 @@ acolytes
 apatela
 apatetic
 agrimonies
+appredicate
 allotrylic
 apathaton
 allelvia
