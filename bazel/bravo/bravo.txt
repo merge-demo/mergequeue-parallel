@@ -3016,7 +3016,6 @@ branglement
 bopping
 biomasses
 burgesses
-bartizans
 becarpets
 beigel
 belee
@@ -16955,6 +16954,7 @@ babylonic
 branchiobdella
 bustic
 bulb
+bartizans
 blandishers
 behears
 bonser
