@@ -5621,7 +5621,6 @@ depersonalise
 depersonalising
 desponded
 depersonalized
-discipled
 deflated
 dacelo
 defrauded
@@ -6142,6 +6141,7 @@ deckedout
 derated
 diphtheroid
 derater
+discipled
 dijudicant
 duperies
 deservedness
