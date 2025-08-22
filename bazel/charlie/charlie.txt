@@ -10561,7 +10561,6 @@ crews
 cherely
 chylifaction
 chylifactory
-chyliferous
 chirruper
 counterpreparation
 chromiferous
@@ -11984,6 +11983,7 @@ crocidolite
 cuittle
 chorepiscopal
 catheterize
+chyliferous
 canoodling
 cowhages
 chondroganoidei
