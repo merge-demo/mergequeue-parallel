@@ -3229,6 +3229,7 @@ bedouin
 basilica
 belverdian
 basilical
+bannerol
 brookable
 backoff
 blushfulness
@@ -11957,7 +11958,6 @@ bogginess
 boggle
 blastemas
 boggler
-bannerol
 bogglers
 boggling
 bessarabian
