@@ -1187,7 +1187,6 @@ buoys
 brawliest
 breth
 burion
-beanfest
 baked
 blepharydatis
 bibliothetic
@@ -15129,6 +15128,7 @@ briard
 bromins
 bromoaurate
 briguing
+beanfest
 baxterianism
 briarean
 biochemists
