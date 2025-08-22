@@ -1862,6 +1862,7 @@ acestes
 acceleration
 achieves
 adstrict
+auride
 advanced
 acetable
 acetabula
@@ -23612,7 +23613,6 @@ apios
 amphisile
 auriculoparietal
 auriculotemporal
-auride
 auriferous
 appreciational
 axlike
