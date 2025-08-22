@@ -3326,7 +3326,6 @@ chrysomelidae
 cogware
 chelates
 caponata
-chloroacetic
 costuming
 censures
 capone
@@ -26250,6 +26249,7 @@ costermonger
 cothy
 costicartilage
 costicartilaginous
+chloroacetic
 costicervical
 caciqueship
 crusader
