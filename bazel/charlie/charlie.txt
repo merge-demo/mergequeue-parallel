@@ -2684,7 +2684,6 @@ coleorhizae
 canion
 chromophile
 canions
-canistel
 crevice
 canjac
 cank
@@ -23878,6 +23877,7 @@ cytotrophoblast
 controversionalist
 chirotonsory
 controverted
+canistel
 controverter
 controvertibility
 controvertible
