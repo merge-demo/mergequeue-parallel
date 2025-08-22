@@ -5384,7 +5384,6 @@ dentition
 detribalizing
 denaturalizing
 dolldom
-dilating
 dielytra
 disrate
 diasene
@@ -5764,6 +5763,7 @@ droves
 deliberating
 debater
 duree
+dilating
 disjoint
 descriptor
 decasualizing
