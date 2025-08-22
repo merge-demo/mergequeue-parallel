@@ -2898,7 +2898,6 @@ acception
 agrements
 auxobody
 acroteria
-acroterial
 ablactation
 acrotism
 acrotrophic
@@ -21562,6 +21561,7 @@ ablute
 assacu
 accompanied
 anthoclinium
+acroterial
 achenodia
 acheilous
 assagai
