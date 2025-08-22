@@ -1153,7 +1153,6 @@ demonstrative
 detick
 digitogenin
 defedation
-dactylus
 dasypus
 demurrer
 diparentum
@@ -16787,6 +16786,7 @@ draughtier
 divulsive
 decastylos
 darg
+dactylus
 decrials
 durandarte
 disseminule
