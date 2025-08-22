@@ -15886,7 +15886,6 @@ clearstarcher
 clearstory
 chocker
 clearstoried
-cascara
 commis
 cleat
 cleats
@@ -27491,6 +27490,7 @@ covassal
 cove
 coadunate
 coved
+cascara
 clavately
 covey
 coveys
