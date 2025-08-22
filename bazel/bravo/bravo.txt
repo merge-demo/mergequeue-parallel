@@ -4020,6 +4020,7 @@ brailing
 barms
 beakless
 beaks
+bilophodont
 beala
 byously
 burglarproofing
@@ -8641,7 +8642,6 @@ bilocular
 biloculina
 bidiurnal
 braches
-bilophodont
 boshvark
 baxterian
 brattish
