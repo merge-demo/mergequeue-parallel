@@ -5697,7 +5697,6 @@ amphistome
 afeared
 agapeti
 agapetid
-agennetic
 aciculate
 atoning
 autocoder
@@ -24873,6 +24872,7 @@ annuloida
 anarchosocialist
 avuncular
 arundinaria
+agennetic
 antineurotoxin
 arterializing
 amblyocarpous
