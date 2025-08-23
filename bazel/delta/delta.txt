@@ -5242,7 +5242,6 @@ dine
 depolarisation
 deafer
 denotatively
-dampens
 denotativeness
 denotatum
 deacidifying
@@ -13092,6 +13091,7 @@ dispatched
 duckish
 disesteeming
 dispatches
+dampens
 drillings
 dimethylsulfoxide
 discocarpium
