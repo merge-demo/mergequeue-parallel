@@ -5991,7 +5991,6 @@ draughtiest
 downbeats
 darcy
 doctorlike
-doubledamn
 deckswabber
 debord
 decuples
@@ -16907,6 +16906,7 @@ dicyclic
 diiambus
 dataria
 drona
+doubledamn
 dumbs
 deprocedured
 dreadable
