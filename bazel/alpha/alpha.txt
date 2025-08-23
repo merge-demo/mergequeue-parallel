@@ -119,7 +119,6 @@ anthood
 antiheroes
 assertive
 antiphrasis
-aulostoma
 apii
 asialia
 abasic
@@ -17465,6 +17464,7 @@ arsonic
 absoluter
 appease
 alclad
+aulostoma
 accusations
 autonomic
 anhydrize
