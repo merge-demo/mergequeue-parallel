@@ -5135,6 +5135,7 @@ bullberry
 baubling
 bimorphemic
 banco
+bainite
 befools
 bridgeport
 budworm
@@ -12236,7 +12237,6 @@ boneset
 benitoite
 borocaine
 bemud
-bainite
 bolstered
 bolsterer
 battologised
