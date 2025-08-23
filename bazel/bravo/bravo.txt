@@ -12463,7 +12463,6 @@ bondmen
 bondminder
 bookroom
 bawdrick
-bierbalk
 bondship
 bondslave
 bondsman
@@ -14338,6 +14337,7 @@ baits
 brahmin
 behowl
 boxkeeper
+bierbalk
 burnable
 basket
 brahminists
