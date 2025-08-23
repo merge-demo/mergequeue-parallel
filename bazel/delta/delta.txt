@@ -815,6 +815,7 @@ danglers
 deniable
 dearths
 dysacousia
+discomposedness
 disannex
 dulcorate
 della
@@ -11567,7 +11568,6 @@ discompliance
 dowry
 discomposed
 derided
-discomposedness
 desmachymatous
 dements
 disconcertment
