@@ -446,7 +446,6 @@ arugolas
 amplitudes
 apathist
 acousmas
-abiogenetically
 apothems
 anonychia
 abioses
@@ -24510,6 +24509,7 @@ auxochrome
 antistimulation
 auxochromous
 ancienty
+abiogenetically
 auxograph
 abamperes
 auxology
