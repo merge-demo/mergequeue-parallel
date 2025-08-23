@@ -5935,6 +5935,7 @@ benzalcyanhydrin
 beden
 backswordmen
 batswing
+byrled
 blitzkrieg
 belast
 berber
@@ -12169,7 +12170,6 @@ borofluoride
 blarneyed
 boletaceae
 boletes
-byrled
 brabbler
 boleweed
 biometeorology
