@@ -5422,7 +5422,6 @@ boarstaff
 bigarreau
 behaved
 behaver
-bicollateral
 behaving
 brainteasers
 brakes
@@ -17334,6 +17333,7 @@ bundles
 bipaliidae
 benzantialdoxime
 bunga
+bicollateral
 blanketer
 brombenzene
 bittern
