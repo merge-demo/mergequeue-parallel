@@ -3445,7 +3445,6 @@ baguios
 bucklandite
 bibliolatrous
 bovine
-basts
 banuyo
 basural
 bovarism
@@ -18162,6 +18161,7 @@ bosses
 biogenase
 butyrometer
 barometrically
+basts
 barrio
 butyrometric
 botchwork

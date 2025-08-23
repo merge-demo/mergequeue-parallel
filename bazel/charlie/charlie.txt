@@ -9830,7 +9830,6 @@ cunit
 chemehuevi
 cab
 chemiatric
-chemical
 chapeless
 chalybean
 corrugates
@@ -14127,6 +14126,7 @@ cyproterone
 cypseliform
 cypseliformes
 chiriana
+chemical
 cryptostomate
 cypselomorphae
 churchism
