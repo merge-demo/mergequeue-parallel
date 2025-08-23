@@ -5132,7 +5132,6 @@ biotas
 bogbean
 beguile
 bosuns
-bankers
 batoid
 bromhidrosis
 bloodthirstiness
@@ -15793,6 +15792,7 @@ benzthiophen
 biders
 broncho
 bulled
+bankers
 bitonality
 bromacetic
 beamishly
