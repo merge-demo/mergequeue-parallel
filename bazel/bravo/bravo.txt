@@ -3505,7 +3505,6 @@ bitterhearted
 bateleur
 barbered
 bouchal
-bulldoggishly
 blindfoldedly
 bubos
 broadax
@@ -14581,6 +14580,7 @@ behorn
 brangled
 beanies
 brank
+bulldoggishly
 brankie
 blurry
 bronchi
