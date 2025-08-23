@@ -5398,6 +5398,7 @@ adeliza
 armary
 adored
 agaces
+assistant
 attuned
 antiputrid
 aerobiological
@@ -12763,7 +12764,6 @@ arlington
 angiosymphysis
 adry
 attacks
-assistant
 angiosporous
 angiostrophy
 angiotasis
