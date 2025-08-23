@@ -11698,7 +11698,6 @@ annuation
 androgenesis
 arbitrators
 anagrammatizing
-anagrams
 adventist
 anahau
 ainsells
@@ -21802,6 +21801,7 @@ assith
 archons
 adnumber
 assyth
+anagrams
 antiemperor
 avenalin
 assythment
