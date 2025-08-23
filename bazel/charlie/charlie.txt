@@ -6857,7 +6857,6 @@ counterreconnaissance
 casketing
 cellular
 caloris
-carbonatization
 cellulated
 corradiating
 cassoni
@@ -20975,6 +20974,7 @@ collating
 chambering
 comprisal
 controllability
+carbonatization
 conceives
 casseroles
 comprise
