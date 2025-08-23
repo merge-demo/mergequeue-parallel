@@ -12427,7 +12427,6 @@ bipinnatifid
 berberins
 bondage
 bless
-bondar
 bockerel
 bastardly
 bonderize
@@ -12968,6 +12967,7 @@ bookmate
 balawu
 banausic
 bipennated
+bondar
 bombycillidae
 bandersnatch
 branchery
