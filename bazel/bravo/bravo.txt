@@ -3743,7 +3743,6 @@ battologize
 bronchiocele
 bookmaking
 britska
-batts
 blowpipe
 barytocalcite
 befouler
@@ -15815,6 +15814,7 @@ bowwort
 bluntly
 butyls
 beno
+batts
 bloodstainedness
 babiism
 bloomsburian
