@@ -8013,7 +8013,6 @@ acidotic
 arithmetically
 amphide
 alforja
-alfreda
 alfresco
 acture
 anthosiderite
@@ -25079,6 +25078,7 @@ armorplated
 axiate
 atmos
 anatiferous
+alfreda
 axiferous
 antimonarchists
 argumentation
