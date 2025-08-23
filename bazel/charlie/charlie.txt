@@ -10943,7 +10943,6 @@ chirogymnast
 cautel
 cornu
 chirognomy
-cerement
 chirognomic
 crain
 chirognomically
@@ -31254,6 +31253,7 @@ chopboat
 communisation
 curarizing
 curate
+cerement
 curates
 curatess
 cliency
