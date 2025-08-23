@@ -9708,6 +9708,7 @@ amoving
 amah
 amahuaca
 assoil
+archbishopric
 amanori
 amain
 andouillette
@@ -18613,7 +18614,6 @@ aridge
 autonetics
 autocephality
 archbishopry
-archbishopric
 acroamata
 archbishoprics
 archbotcher
