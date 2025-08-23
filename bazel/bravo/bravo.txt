@@ -2481,7 +2481,6 @@ bhut
 bedark
 brachyoura
 barge
-bergere
 bargelike
 beet
 bravura
@@ -2581,6 +2580,7 @@ bedevils
 barytocelestite
 barytone
 busing
+bergere
 bears
 brittlely
 barytophyllite
