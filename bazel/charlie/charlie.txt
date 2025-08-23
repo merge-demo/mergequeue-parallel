@@ -1763,7 +1763,6 @@ cordage
 calvary
 caffeate
 countergarrison
-curagh
 calvarial
 calvaries
 calvarium
@@ -9190,6 +9189,7 @@ caulite
 coderive
 cerebrovisceral
 churchlier
+curagh
 conversationize
 chartulae
 chartulary
