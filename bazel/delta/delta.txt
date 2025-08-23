@@ -4263,7 +4263,6 @@ downplayed
 dislocate
 deltahedra
 dismaler
-deltalike
 diluvial
 disacknowledge
 deltas
@@ -16990,6 +16989,7 @@ dullness
 downcurve
 dredgeful
 disintegrate
+deltalike
 discerp
 dithery
 depucel
