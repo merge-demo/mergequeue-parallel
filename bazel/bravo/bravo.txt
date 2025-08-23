@@ -3416,6 +3416,7 @@ bagani
 belzebuth
 balteus
 bummers
+brigantines
 bastardry
 briny
 bastards
@@ -15333,7 +15334,6 @@ brachypterous
 brigandine
 bandhu
 brigantia
-brigantines
 brigatry
 brigetty
 beetler
