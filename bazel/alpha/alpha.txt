@@ -6297,7 +6297,6 @@ agriological
 antiochene
 animate
 agriot
-agriotypidae
 allotypical
 agrypnia
 agrypnotic
@@ -20283,6 +20282,7 @@ anarchic
 afley
 androids
 arrogate
+agriotypidae
 antenarial
 alonsoa
 antistrike

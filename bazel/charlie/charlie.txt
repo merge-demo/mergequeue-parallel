@@ -12200,6 +12200,7 @@ chrysalidal
 chrysaline
 chromophilous
 chrysalis
+compress
 chrysalises
 cardiaplegia
 chrysaloid
@@ -20948,7 +20949,6 @@ compresence
 compresent
 cai
 calyculate
-compress
 cambogia
 compressed
 colluctation
