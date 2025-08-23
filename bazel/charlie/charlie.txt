@@ -11409,7 +11409,6 @@ cunili
 chlorophyllin
 counselful
 chlorophyllite
-chlorophylloid
 chlorophyllous
 cyanopathy
 compulsive
@@ -15548,6 +15547,7 @@ celestialness
 clarkias
 coapostate
 competently
+chlorophylloid
 confraternization
 claro
 claroes
