@@ -2389,7 +2389,6 @@ deciduoma
 discommendable
 deciduously
 dimercuric
-decyl
 deciles
 decylic
 dorsiparous
@@ -10671,6 +10670,7 @@ divests
 discerptibleness
 dhuti
 diplopteryga
+decyl
 dioti
 disaccordance
 diploses
