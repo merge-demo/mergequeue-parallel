@@ -4355,6 +4355,7 @@ boehmites
 brickier
 bullimong
 becky
+bossies
 becking
 bearings
 beckoner
@@ -9737,7 +9738,6 @@ baidak
 bruce
 bedevil
 breadline
-bossies
 burdocks
 bistipulate
 begumming

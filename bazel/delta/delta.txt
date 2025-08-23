@@ -9900,7 +9900,6 @@ disangularize
 diphenyl
 dimer
 deludable
-deboner
 decolonising
 demagog
 deuteronomist
@@ -15309,6 +15308,7 @@ drainway
 disrupts
 dialogized
 dolled
+deboner
 dehull
 dosimeter
 dollia
