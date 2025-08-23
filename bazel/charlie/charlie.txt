@@ -1939,6 +1939,7 @@ camenes
 coveters
 confeder
 cypriote
+coeducational
 crotalid
 checkered
 camera
@@ -18632,7 +18633,6 @@ conchylia
 coiled
 crusie
 coiler
-coeducational
 contractly
 combusted
 clerkhood
