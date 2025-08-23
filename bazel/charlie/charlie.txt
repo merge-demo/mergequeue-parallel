@@ -23788,7 +23788,6 @@ cellae
 contrariousness
 cacesthesia
 curlicued
-contrariwise
 contrarotation
 conjunctival
 centrifugal
@@ -24906,6 +24905,7 @@ coralligerous
 corallin
 corallina
 corallinaceous
+contrariwise
 coralline
 curricle
 cuichunchulli
