@@ -3865,6 +3865,7 @@ anaphora
 asiaticization
 adjudicatory
 aerostats
+autumns
 akinetic
 adjudicators
 amores
@@ -10269,7 +10270,6 @@ assess
 amenance
 amydon
 amending
-autumns
 adornment
 amoebian
 amendment
