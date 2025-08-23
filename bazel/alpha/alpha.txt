@@ -90,7 +90,6 @@ alispheno
 abandoners
 abandoning
 arruague
-abandonment
 accelerator
 antipriestcraft
 adda
@@ -19730,6 +19729,7 @@ aplombs
 amsonia
 achroanthes
 arling
+abandonment
 abrogated
 abundances
 ambystoma
