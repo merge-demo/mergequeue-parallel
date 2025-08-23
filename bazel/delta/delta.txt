@@ -5210,7 +5210,6 @@ deathly
 diaheliotropic
 detruncating
 devoid
-diazoamino
 denitrifier
 destructors
 denitrifying
@@ -9446,6 +9445,7 @@ disenroll
 disheathing
 dehematize
 digamy
+diazoamino
 disobeyal
 digamies
 delphinid
