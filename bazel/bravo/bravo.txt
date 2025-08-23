@@ -7051,7 +7051,6 @@ boweled
 bombidae
 byre
 breviloquent
-beknots
 barbute
 besouth
 bespake
@@ -17426,6 +17425,7 @@ browny
 bunny
 bunnia
 bunnies
+beknots
 bunodont
 brickleness
 bacteroid
