@@ -2041,6 +2041,7 @@ blowtubes
 barreleye
 bouet
 bumbaste
+buffability
 brine
 banksmen
 bucketed
@@ -10328,7 +10329,6 @@ blakeite
 bargepole
 billot
 bounderish
-buffability
 bamboozlers
 breviature
 bordman
