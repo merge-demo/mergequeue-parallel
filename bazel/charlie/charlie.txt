@@ -10167,7 +10167,6 @@ compagnie
 chevener
 carnivaler
 cheventayn
-cheverel
 cheveret
 cheveril
 cahoot
@@ -27168,6 +27167,7 @@ counterthought
 counterthreat
 cellulipetal
 candidating
+cheverel
 cooter
 classisms
 countertouch
