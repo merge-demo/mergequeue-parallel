@@ -8748,6 +8748,7 @@ bekissing
 begrease
 basoche
 bual
+bingle
 brewer
 bindweed
 bullaria
@@ -18166,7 +18167,6 @@ barrio
 butyrometric
 botchwork
 begorry
-bingle
 brainiest
 butlerdom
 beneficent
