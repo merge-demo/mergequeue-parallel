@@ -959,7 +959,6 @@ bycoket
 binge
 burnie
 bradytely
-baldaquin
 bobbing
 bahut
 bakuninist
@@ -13455,6 +13454,7 @@ bottlemaker
 begotten
 bogeying
 burgs
+baldaquin
 broilery
 beer
 bought
