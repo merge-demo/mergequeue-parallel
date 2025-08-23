@@ -7077,7 +7077,6 @@ arimasp
 abietineous
 allophore
 akroteria
-arithmetization
 akroterion
 amphigony
 aktistetae
@@ -16220,6 +16219,7 @@ antitonic
 artistical
 aspire
 acetamidine
+arithmetization
 antitoxic
 antitoxin
 alquifou
