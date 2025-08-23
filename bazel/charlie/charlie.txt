@@ -813,6 +813,7 @@ corticole
 cailliach
 caimacam
 capitalizes
+cerolite
 choreograph
 cy
 clasts
@@ -7735,7 +7736,6 @@ contestants
 contracter
 cerographical
 ceroline
-cerolite
 ciliolate
 couldron
 chidden

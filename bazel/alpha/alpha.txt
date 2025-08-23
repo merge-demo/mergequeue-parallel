@@ -3291,6 +3291,7 @@ adamantoblast
 adamas
 archery
 atresic
+ampulate
 atelets
 andean
 adamellite
@@ -20745,7 +20746,6 @@ avouter
 allophylic
 allurers
 arupa
-ampulate
 arusha
 aryan
 armoried
