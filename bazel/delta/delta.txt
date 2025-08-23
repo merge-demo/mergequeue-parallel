@@ -8167,7 +8167,6 @@ dakotans
 doutous
 deciduae
 decasualize
-detribalize
 disruptively
 deferrization
 diachronic
@@ -15453,6 +15452,7 @@ distoma
 dissemblance
 decempedate
 dendrochronological
+detribalize
 dynamize
 dafter
 dominae
