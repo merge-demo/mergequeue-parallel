@@ -1560,7 +1560,6 @@ bacchanal
 ballies
 backrushes
 bifidity
-beknighting
 brummagem
 ballyhoo
 brads
@@ -13862,6 +13861,7 @@ biduous
 bang
 bowheads
 bretelle
+beknighting
 bowie
 balr
 blatter
