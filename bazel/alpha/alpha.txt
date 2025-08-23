@@ -1255,6 +1255,7 @@ acarari
 acarian
 acariasis
 acarid
+alertness
 acaridan
 accord
 antiutilitarianism
@@ -19600,7 +19601,6 @@ aluminic
 aristarchian
 aristarchies
 aristate
-alertness
 armaria
 aristeia
 aristida

@@ -6893,6 +6893,7 @@ dryhouse
 dependents
 dognap
 discolors
+disshroud
 dahabiyeh
 deadliest
 dactylioglyphtic
@@ -6961,7 +6962,6 @@ despiser
 disqualifying
 distills
 demonisms
-disshroud
 despisingly
 draco
 despite
