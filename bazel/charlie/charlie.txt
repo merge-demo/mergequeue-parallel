@@ -535,6 +535,7 @@ cadgers
 cadgily
 carboxylated
 cadge
+chromocollographic
 canvasser
 cadi
 cadie
@@ -12497,7 +12498,6 @@ caswellite
 chromocyte
 chromocollograph
 chromocollography
-chromocollographic
 circling
 chromocollotype
 chromocratic
