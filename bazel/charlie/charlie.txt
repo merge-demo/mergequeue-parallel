@@ -4441,6 +4441,7 @@ circumfusion
 colubridae
 companionage
 carked
+champing
 canarin
 carl
 coprincipate
@@ -8525,7 +8526,6 @@ caveat
 carle
 contrabassoonist
 champine
-champing
 cryohydric
 carberry
 celebrated
