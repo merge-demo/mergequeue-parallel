@@ -479,7 +479,6 @@ aporrhais
 abyssopelagic
 abyssus
 abit
-abstriction
 agriculture
 alicia
 abbreviate
@@ -9891,6 +9890,7 @@ amaze
 airlocks
 akroterial
 amazedly
+abstriction
 autotrophy
 amazeful
 anatomicopathological
