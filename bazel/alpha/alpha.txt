@@ -2452,6 +2452,7 @@ alcoholizable
 antireduction
 acocotl
 acoela
+amoebida
 acoelomate
 acoelomatous
 autoloaders
@@ -13464,7 +13465,6 @@ armada
 acropodia
 alberich
 azeotropism
-amoebida
 amputated
 aphidophagous
 annotative
