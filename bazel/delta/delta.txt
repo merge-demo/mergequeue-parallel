@@ -2704,6 +2704,7 @@ dassy
 domoid
 deductibility
 decoration
+deckhands
 discursory
 decorator
 diducing
@@ -7812,7 +7813,6 @@ delthyria
 delates
 dissertationist
 dinoceras
-deckhands
 diadochokinesis
 dyothelism
 dwelling
