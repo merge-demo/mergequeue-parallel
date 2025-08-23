@@ -1557,7 +1557,6 @@ alkoranic
 abidden
 autacoids
 accomplisht
-accordance
 accordancy
 accordatura
 agglutinoid
@@ -4157,6 +4156,7 @@ anacoustic
 adoptianism
 agalwood
 agin
+accordance
 acinuni
 adopting
 adopted
