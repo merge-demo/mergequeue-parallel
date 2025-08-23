@@ -1646,6 +1646,7 @@ calophyllum
 calopogon
 chettik
 colport
+chilopodan
 consuetitude
 conferees
 caloreceptor
@@ -26612,7 +26613,6 @@ counselee
 counseling
 counsellable
 counsellor
-chilopodan
 counsellors
 counselor
 countability
