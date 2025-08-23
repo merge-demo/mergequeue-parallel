@@ -5621,7 +5621,6 @@ agalactic
 appoggiaturas
 agalaxia
 anisomelus
-agalena
 agalenidae
 ambalam
 abirritated
@@ -18603,6 +18602,7 @@ archaises
 anormality
 archaising
 archaism
+agalena
 ati
 asporulate
 archaist
