@@ -19509,6 +19509,7 @@ colosso
 chemises
 colossochelys
 colostomies
+coryphodont
 compositous
 colostration
 colostrous
@@ -26193,7 +26194,6 @@ cosovereignty
 cospecies
 catalinite
 cospecific
-coryphodont
 cosphered
 cosplendor
 caeciliae
