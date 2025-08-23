@@ -7018,7 +7018,6 @@ bioplasms
 basing
 branchiostomidae
 ballpoints
-bowlegged
 bowingly
 balnea
 brothel
@@ -12533,6 +12532,7 @@ boni
 bony
 burtonize
 boniata
+bowlegged
 bloodshot
 barnage
 balsamroot
