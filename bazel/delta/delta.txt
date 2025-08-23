@@ -1573,7 +1573,6 @@ diastrophy
 disposition
 determinatively
 desitive
-disembody
 deadlocking
 duplicia
 dipus
@@ -8758,6 +8757,7 @@ diatreme
 diaulic
 decorably
 doge
+disembody
 diazepams
 diazeutic
 dittogram
