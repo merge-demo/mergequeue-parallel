@@ -7129,7 +7129,6 @@ centigrams
 centile
 cendre
 centiles
-caudatum
 catamited
 clunker
 centiliter
@@ -13525,6 +13524,7 @@ cigarillos
 cambibia
 categoricalness
 calcomp
+caudatum
 casting
 choloepus
 cygneous
