@@ -2539,6 +2539,7 @@ bloodberry
 bardel
 barylalia
 beleaped
+bluestockings
 bemoaned
 bactrian
 backtalk
@@ -11431,7 +11432,6 @@ beguiles
 bigeneric
 bivious
 barytones
-bluestockings
 bolthead
 bluetit
 bluffly
