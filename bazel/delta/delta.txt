@@ -4305,7 +4305,6 @@ dragontail
 dicacodyl
 dermatopathology
 demimillionaire
-dysarthria
 dissemble
 delver
 dibbed
@@ -17585,6 +17584,7 @@ demential
 drumroll
 drumrolls
 drums
+dysarthria
 decalcifier
 drumstick
 disconsonancy
