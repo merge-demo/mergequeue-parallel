@@ -2083,7 +2083,6 @@ chicayote
 campanini
 casseroled
 campanistic
-cuecas
 campanologer
 crucis
 campanology
@@ -6511,6 +6510,7 @@ conrectorship
 catharticalness
 caviller
 chemins
+cuecas
 centralize
 cavillous
 cavils
