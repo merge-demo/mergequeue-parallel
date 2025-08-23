@@ -4506,6 +4506,7 @@ demibelt
 dinornithes
 dislink
 deradelphus
+delegatus
 denda
 deacidified
 dendrological
@@ -11908,7 +11909,6 @@ disdenominationalize
 dishonorableness
 disdiapason
 disdodecahedroid
-delegatus
 distinguished
 dalliance
 dropsical
