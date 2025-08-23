@@ -6145,7 +6145,6 @@ deservedness
 deratized
 derats
 deratted
-defatigation
 deratting
 draperies
 dissector
@@ -11374,6 +11373,7 @@ decorement
 dischevel
 dentalization
 disci
+defatigation
 diabases
 dermatocele
 disciflorae
