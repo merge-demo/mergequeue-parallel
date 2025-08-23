@@ -5504,7 +5504,6 @@ coumbite
 cataclysmatist
 cataclysmic
 cataclysmically
-catacomb
 crowboot
 cpm
 cyanamide
@@ -12382,6 +12381,7 @@ chirarthritis
 chromammine
 corticopeduncular
 chromaphore
+catacomb
 chromas
 coffeeweed
 cenote
