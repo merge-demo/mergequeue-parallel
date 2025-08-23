@@ -15129,7 +15129,6 @@ cl
 clabber
 crossover
 clabbered
-clabbery
 clabbering
 clabbers
 cumbent
@@ -16100,6 +16099,7 @@ click
 clicked
 clicker
 comprehensiveness
+clabbery
 corneitis
 clickers
 cosigns
