@@ -8141,7 +8141,6 @@ absorptive
 almsmoney
 algorismic
 archaean
-algorist
 albino
 autecological
 antipyic
@@ -23703,6 +23702,7 @@ auspice
 authenticated
 aerohydroplane
 antisyndicalist
+algorist
 auspicious
 amorphozoa
 auspiciousness
