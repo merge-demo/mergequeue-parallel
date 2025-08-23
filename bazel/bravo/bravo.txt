@@ -2072,7 +2072,6 @@ bivittate
 banovina
 banquet
 bundist
-blindish
 banqueting
 beseem
 buddhistic
@@ -2970,6 +2969,7 @@ barruly
 bedumb
 barsac
 backhatch
+blindish
 becowarding
 bioassay
 blarneyer
