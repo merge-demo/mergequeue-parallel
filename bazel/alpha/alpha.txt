@@ -571,7 +571,6 @@ abn
 abnaki
 abnegates
 anthropomancy
-abnegator
 aesthophysiology
 acriflavine
 abnegators
@@ -16977,6 +16976,7 @@ albus
 ascitic
 arcsin
 archpublican
+abnegator
 apocynthion
 apocynthions
 apocyte
