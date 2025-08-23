@@ -12243,7 +12243,6 @@ andantino
 andaste
 antiposition
 annunciate
-almicore
 antithetics
 agmatine
 anodynia
@@ -18166,6 +18165,7 @@ ara
 antediluvial
 assuagements
 ayen
+almicore
 arabesks
 arabesquely
 alleluja
