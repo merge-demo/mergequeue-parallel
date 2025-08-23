@@ -2206,7 +2206,6 @@ decasualised
 disgavel
 decasualized
 deadpanner
-dialectological
 didymous
 decathlons
 disunionist
@@ -10599,6 +10598,7 @@ diploidic
 dunderbolt
 dominus
 diploidize
+dialectological
 doorman
 diploma
 dolorogenic
