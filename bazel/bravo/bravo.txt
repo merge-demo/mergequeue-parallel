@@ -944,7 +944,6 @@ bahay
 bahaist
 bahamian
 bahamians
-babbitter
 boated
 blitheness
 broadmindedly
@@ -2550,6 +2549,7 @@ baryphonia
 bootie
 baryphonic
 banzai
+babbitter
 boringness
 baris
 bodefulness
