@@ -9353,6 +9353,7 @@ conjunctive
 chaudfroid
 chauffage
 chauffer
+classist
 chauffeured
 chauffeuring
 crankplate
@@ -24328,7 +24329,6 @@ creation
 crull
 confucianist
 creatable
-classist
 corncutting
 coarrange
 cookeite
