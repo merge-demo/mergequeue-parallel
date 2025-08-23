@@ -6055,6 +6055,7 @@ curatory
 candify
 catlike
 crowns
+cymbalists
 catling
 cairds
 catlins
@@ -13643,7 +13644,6 @@ cedarn
 centricality
 crapshooting
 caxon
-cymbalists
 cymballed
 cob
 clouterly
