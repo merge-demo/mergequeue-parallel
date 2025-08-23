@@ -8500,6 +8500,7 @@ cardiogenic
 champagnized
 cesurae
 champak
+crinum
 chamfering
 characterstring
 champaka
@@ -17445,7 +17446,6 @@ coaudience
 collegiugia
 cancelled
 cobitidae
-crinum
 colonoscopy
 careerist
 compile
