@@ -5887,6 +5887,7 @@ anither
 azoxyphenetole
 adversary
 aerogeology
+acad
 amphithecial
 aggravative
 amazonstone
@@ -19415,7 +19416,6 @@ argolian
 accumulativeness
 assaults
 adenotomy
-acad
 animatism
 anecdotal
 argonauta
