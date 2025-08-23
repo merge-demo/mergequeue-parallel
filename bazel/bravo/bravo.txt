@@ -1795,7 +1795,6 @@ blocklike
 bromohydrin
 bamming
 blennocystitis
-becobweb
 bizardite
 bepurple
 banago
@@ -13335,6 +13334,7 @@ botchily
 beglitter
 becrimson
 botella
+becobweb
 botels
 bebrave
 barometry
