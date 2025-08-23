@@ -11920,6 +11920,7 @@ amortize
 adela
 anarchism
 aftergrind
+altarwise
 anarchist
 anarchists
 archeologically
@@ -24295,7 +24296,6 @@ autoproteolysis
 argillomagnesian
 autopsy
 autopsical
-altarwise
 autopsychoanalysis
 aliyas
 autopsychosis
