@@ -7824,6 +7824,7 @@ diadochokinesis
 dyothelism
 dwelling
 dil
+domeykite
 devour
 dorsad
 devourer
@@ -15890,7 +15891,6 @@ dorsolumbar
 deliberators
 destinations
 dankly
-domeykite
 deputise
 detent
 dossman
