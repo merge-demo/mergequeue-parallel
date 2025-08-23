@@ -4045,7 +4045,6 @@ cicada
 cowpox
 cardamom
 cicatrise
-cardamon
 centenary
 cardamons
 cardamum
@@ -11321,6 +11320,7 @@ chloroacetone
 childe
 conservation
 chloroamide
+cardamon
 chloroamine
 cuttlebone
 chloroaurate

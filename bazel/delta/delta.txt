@@ -5464,7 +5464,6 @@ doss
 deordination
 deorganization
 deistic
-decolouriser
 deorganize
 deregister
 disenablement
@@ -17732,6 +17731,7 @@ discriminable
 dedifferentiation
 decanonization
 dubbins
+decolouriser
 dicarbonate
 demutization
 dubio
