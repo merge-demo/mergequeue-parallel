@@ -3480,7 +3480,6 @@ bitterworm
 batarde
 bullaces
 batavi
-ballan
 buzzsaw
 bidar
 biscuiting
@@ -7448,6 +7447,7 @@ bishydroxycoumarin
 betting
 bailies
 bourbonize
+ballan
 bescrape
 bettonga
 bitterest
