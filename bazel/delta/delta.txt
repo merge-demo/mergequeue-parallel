@@ -2784,6 +2784,7 @@ delphinus
 duodecahedron
 decrescent
 deknight
+devas
 dichotomising
 decretalist
 dogey
@@ -7597,7 +7598,6 @@ declinable
 devaluates
 droppingly
 devalues
-devas
 dird
 ditch
 dancingly
