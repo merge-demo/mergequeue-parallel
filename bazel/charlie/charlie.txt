@@ -8984,6 +8984,7 @@ charette
 censers
 chemisms
 chargable
+cyanosed
 combmaker
 charge
 chargeable
@@ -26682,7 +26683,6 @@ cheatingly
 counteragency
 counteragitate
 counteralliance
-cyanosed
 counterapse
 counterarch
 compulsative
