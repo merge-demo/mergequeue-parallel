@@ -212,7 +212,6 @@ bees
 bushrope
 bookiness
 bacchic
-bestirred
 bemoanable
 bloodmobile
 begary
@@ -9402,6 +9401,7 @@ biophotometer
 bouncily
 bullyhuff
 brattach
+bestirred
 bathman
 benedictus
 bridegroom
