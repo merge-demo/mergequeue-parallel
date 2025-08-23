@@ -730,7 +730,6 @@ dancing
 dispence
 distale
 dictagraph
-dodging
 dander
 dandy
 dandiacally
@@ -8313,6 +8312,7 @@ disabused
 diaguite
 dyak
 dapper
+dodging
 duskly
 dyakish
 dg
