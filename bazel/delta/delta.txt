@@ -11183,6 +11183,7 @@ disbanded
 disoppilate
 decanted
 deglaciation
+devisee
 disbands
 depopulate
 disbarring
@@ -12494,7 +12495,6 @@ dexterity
 disilicide
 deboise
 demesne
-devisee
 demurring
 disyllabized
 dumky
