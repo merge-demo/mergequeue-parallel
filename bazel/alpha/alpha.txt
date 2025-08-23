@@ -2852,7 +2852,6 @@ amygdales
 ayapana
 acrophonetic
 avengingly
-acrophonic
 astrol
 ascophorous
 acropodium
@@ -24935,6 +24934,7 @@ arachis
 awave
 atilt
 antitartaric
+acrophonic
 audits
 arroyo
 antiguggler
