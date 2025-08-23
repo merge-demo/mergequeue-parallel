@@ -6701,6 +6701,7 @@ compound
 counterquestion
 coathangers
 colligation
+cellarman
 ceinture
 ceyx
 ceja
@@ -17466,7 +17467,6 @@ coaxy
 clinoaxis
 cordigeri
 coaxial
-cellarman
 coaxing
 coazervate
 contline
