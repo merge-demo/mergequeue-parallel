@@ -1140,6 +1140,7 @@ dashplate
 dropflower
 depaint
 duracine
+disappearance
 diau
 dasyatis
 dire
@@ -2082,7 +2083,6 @@ dichopodial
 decalitre
 dunlop
 dinornithid
-disappearance
 disencumbering
 decurvation
 dixiecrat
