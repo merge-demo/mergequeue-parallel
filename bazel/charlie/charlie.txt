@@ -7634,6 +7634,7 @@ cerebroid
 cirrhosed
 cerebromeningeal
 cerebromeningitis
+cyclitis
 celiopyosis
 carduaceous
 cerebrometer
@@ -27035,7 +27036,6 @@ counterproductively
 counterprogramming
 counterproject
 cookie
-cyclitis
 counterpronunciamento
 cetylene
 counterpropaganda
