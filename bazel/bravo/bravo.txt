@@ -17412,6 +17412,7 @@ bitume
 bunkers
 beard
 burler
+burgoyne
 balsawood
 bewearying
 brocage
@@ -17612,7 +17613,6 @@ basote
 breath
 blay
 bunchflower
-burgoyne
 burgomasters
 burgomastership
 balladwise
