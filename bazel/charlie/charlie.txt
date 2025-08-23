@@ -13757,6 +13757,7 @@ crankcase
 cheve
 cinching
 cincholoipon
+curarizing
 countercharging
 contusing
 counterthwarting
@@ -31251,7 +31252,6 @@ crocoites
 canids
 chopboat
 communisation
-curarizing
 curate
 cerement
 curates
