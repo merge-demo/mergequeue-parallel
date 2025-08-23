@@ -3697,7 +3697,6 @@ breck
 batteryman
 batterman
 bullockman
-bindlet
 bepinch
 baylike
 batty
@@ -15550,6 +15549,7 @@ bristled
 bakhtiari
 biomagnetism
 banlieue
+bindlet
 born
 bromacetanilide
 bristlelike
