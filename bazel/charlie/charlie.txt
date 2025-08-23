@@ -5825,6 +5825,7 @@ coryzal
 corona
 categorized
 categorizer
+chlorpicrin
 chandoo
 categorizes
 communicants
@@ -11433,7 +11434,6 @@ comparatively
 carib
 chemotroph
 caffa
-chlorpicrin
 chlorpromazine
 cheerfulsome
 ciboule
