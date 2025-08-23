@@ -4437,6 +4437,7 @@ adventitiousness
 adventive
 adventively
 apaesthesia
+alimenter
 assassination
 allegorism
 amounting
@@ -5914,7 +5915,6 @@ anatman
 aggrege
 allopathy
 amphigoric
-alimenter
 aggressed
 ancilia
 arrogancy
