@@ -2597,7 +2597,6 @@ bifronted
 bhaiyachara
 biporous
 borana
-benettle
 bunglesome
 barkey
 barkery
@@ -13180,6 +13179,7 @@ bisext
 brachystomata
 bender
 begemmed
+benettle
 boschveld
 boulevardize
 bewit
