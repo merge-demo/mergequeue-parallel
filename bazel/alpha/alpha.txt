@@ -9616,7 +9616,6 @@ aluminose
 aluminosis
 aluminothermy
 acrotarsial
-aluminums
 alohas
 alumish
 alumite
@@ -23964,6 +23963,7 @@ allemands
 autoclaving
 aspheric
 autocollimate
+aluminums
 autocollimators
 autocolony
 autocombustion
