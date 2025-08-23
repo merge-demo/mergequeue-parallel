@@ -17437,7 +17437,6 @@ damlike
 dogeships
 dinarchy
 diener
-diabolo
 duvetyns
 droseraceae
 droseraceous
@@ -18545,6 +18544,7 @@ desmidiaceae
 durity
 diphthonged
 dekalitre
+diabolo
 durmast
 durndest
 deraignment
