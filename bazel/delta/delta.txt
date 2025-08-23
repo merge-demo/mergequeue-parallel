@@ -10602,6 +10602,7 @@ dominus
 diploidize
 dialectological
 doorman
+decasyllables
 diploma
 dolorogenic
 domitable
@@ -12993,7 +12994,6 @@ dullhead
 dactylitis
 disordering
 drupal
-decasyllables
 disordinance
 disordinate
 devastator
