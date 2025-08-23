@@ -10035,7 +10035,6 @@ ambivert
 arrect
 amble
 apanteles
-ambleocarpus
 ambler
 awakes
 aphthonite
@@ -23714,6 +23713,7 @@ austausch
 austemper
 aliped
 aspermia
+ambleocarpus
 austenitic
 austenitizing
 auster
