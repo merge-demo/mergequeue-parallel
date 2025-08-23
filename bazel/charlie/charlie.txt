@@ -6734,6 +6734,7 @@ clition
 celebrant
 cohesions
 celebrants
+cordierite
 celebrate
 comiakin
 celebratedly
@@ -31116,7 +31117,6 @@ cunninghamia
 cobewail
 cunningness
 counterreplying
-cordierite
 cunnings
 chromene
 cunoniaceous
