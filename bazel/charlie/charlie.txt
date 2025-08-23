@@ -3396,7 +3396,6 @@ ciseleurs
 cappiest
 capping
 cervelas
-cyclopite
 chemotropism
 coenact
 comfits
@@ -10013,6 +10012,7 @@ chequin
 cherchez
 chercock
 cherem
+cyclopite
 calcimine
 cherenkov
 cherimoyer
