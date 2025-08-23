@@ -5843,6 +5843,7 @@ divestible
 deposits
 dulcitol
 dichotomously
+doorsteps
 deafforest
 destrier
 disestablishes
@@ -9934,7 +9935,6 @@ discophorous
 dimethylbenzene
 disneyland
 dimethyldiketone
-doorsteps
 debarred
 dimethylsulphoxide
 dekarch
