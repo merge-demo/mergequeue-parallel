@@ -12090,7 +12090,6 @@ aneretic
 anatropal
 anatropia
 antiquers
-andesinite
 arrowheads
 abeyancies
 agremens
@@ -19978,6 +19977,7 @@ aroids
 acidulating
 asparaginic
 agar
+andesinite
 antproof
 arointing
 aroynting
