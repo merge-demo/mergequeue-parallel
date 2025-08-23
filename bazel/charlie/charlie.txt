@@ -15070,7 +15070,6 @@ carbonado
 civet
 civets
 coadjutrice
-carcasing
 curiomaniac
 converses
 citropten
@@ -25255,6 +25254,7 @@ corium
 chiasmal
 chirurgic
 contradistinctively
+carcasing
 cytomitome
 coryza
 cork
