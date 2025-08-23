@@ -7191,6 +7191,7 @@ allele
 aqueoglacial
 albuminose
 alarm
+abatic
 assumably
 abbess
 alarmclock
@@ -16634,7 +16635,6 @@ aphaeresis
 accompaniment
 allowedly
 aphagias
-abatic
 afterswell
 amidoazobenzol
 aphanes
