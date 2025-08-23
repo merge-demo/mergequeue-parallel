@@ -8302,7 +8302,6 @@ canadianisms
 chalcus
 chaldean
 chiver
-caucused
 caricetum
 councillary
 chalder
@@ -31622,6 +31621,7 @@ curvicaudate
 curvifoliate
 courtiers
 colling
+caucused
 chlorohydrocarbon
 curvilinead
 carpingly
