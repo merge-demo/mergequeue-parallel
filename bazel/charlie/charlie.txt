@@ -3608,6 +3608,7 @@ cappy
 colorist
 carabine
 carabiner
+cingulectomies
 carabineros
 claik
 carabines
@@ -13928,7 +13929,6 @@ contiguously
 carina
 cingulectomy
 consumership
-cingulectomies
 chondromalacia
 cicisbei
 cynias
