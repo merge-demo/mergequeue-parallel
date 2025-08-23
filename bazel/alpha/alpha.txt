@@ -3803,7 +3803,6 @@ adiposeness
 adiposity
 acrook
 abdominoscope
-adiposogenital
 aslope
 apsidally
 adiposuria
@@ -9597,6 +9596,7 @@ agrom
 apometabolous
 alumic
 alumiferous
+adiposogenital
 acroamatics
 aeroballistics
 abominates
