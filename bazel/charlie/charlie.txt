@@ -20268,7 +20268,6 @@ classicalize
 commonance
 commoney
 cosmogenesis
-crossword
 commoning
 cambist
 camias
@@ -31484,6 +31483,7 @@ carpolite
 costa
 conductory
 currycombs
+crossword
 cogitators
 curricula
 curricularize
