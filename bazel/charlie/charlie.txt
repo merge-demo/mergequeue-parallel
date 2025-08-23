@@ -5730,7 +5730,6 @@ certes
 cultivatability
 clockcase
 cowpock
-caudillism
 catchline
 catchments
 catchphrase
@@ -15555,6 +15554,7 @@ claroes
 curiousness
 collegian
 claromontane
+caudillism
 claros
 chemotaxis
 contraposition
