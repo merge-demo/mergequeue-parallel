@@ -6564,7 +6564,6 @@ cholecystorrhaphy
 caxiri
 clannish
 commissaries
-caxon
 caxton
 campanula
 confluence
@@ -13647,6 +13646,7 @@ compensation
 cedarn
 centricality
 crapshooting
+caxon
 cymbalists
 cymballed
 cob
