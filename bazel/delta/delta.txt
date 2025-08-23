@@ -3873,7 +3873,6 @@ deathfully
 deirid
 deis
 deiseal
-deisidaimonia
 disquieting
 deism
 deistical
@@ -17351,6 +17350,7 @@ duellistic
 dronishness
 dronkelew
 dronkgrass
+deisidaimonia
 drawhead
 disquisition
 desirers

@@ -2910,7 +2910,6 @@ actiad
 aquatint
 agrarian
 actin
-actinautography
 actinautographic
 abscisse
 actine
@@ -24362,6 +24361,7 @@ antagonise
 autosight
 albuminuric
 autosymbolic
+actinautography
 autosymbolical
 autosymbolically
 augmentationer
