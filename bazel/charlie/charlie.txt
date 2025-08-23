@@ -1134,7 +1134,6 @@ calcitic
 calcitrant
 calcitrate
 cupeller
-cataphatic
 caryopsides
 calcivorous
 chapmanship
@@ -10390,6 +10389,7 @@ callid
 classing
 chided
 chiders
+cataphatic
 cedarbird
 chilies
 cahoots
