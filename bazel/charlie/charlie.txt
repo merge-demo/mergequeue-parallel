@@ -4001,7 +4001,6 @@ carcinogenic
 carcinoid
 compartmental
 crystalloluminescence
-cycadiform
 carcinological
 carcinoma
 counterannouncement
@@ -4408,6 +4407,7 @@ camisas
 carinulate
 concavation
 champain
+cycadiform
 ciconioid
 changeably
 carioles
