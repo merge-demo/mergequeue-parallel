@@ -17685,7 +17685,6 @@ cost
 cocculus
 convertend
 corrivals
-coccus
 chalazogamy
 cushite
 charbroiling
@@ -28907,6 +28906,7 @@ carbonigenous
 corke
 cuphea
 crib
+coccus
 crybaby
 cooperant
 coarse
