@@ -6935,6 +6935,7 @@ desperado
 darky
 dioptre
 desperados
+dunkled
 dorsointercostal
 dichasial
 didgeridoo
@@ -18282,7 +18283,6 @@ duckboards
 diseuse
 demonian
 dustcloths
-dunkled
 dig
 discipline
 diacoca
