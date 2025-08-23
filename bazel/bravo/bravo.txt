@@ -1796,7 +1796,6 @@ bacteriaceous
 beglads
 banak
 bemuse
-banal
 bananaland
 benzyls
 bridgewall
@@ -16517,6 +16516,7 @@ bechern
 blockheadism
 bruzz
 bsf
+banal
 becurse
 bedsit
 blepharophthalmia
