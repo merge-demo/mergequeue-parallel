@@ -5706,7 +5706,6 @@ dialup
 depleteable
 ducape
 depleted
-donkeyback
 dichroite
 daftlike
 depletions
@@ -13164,6 +13163,7 @@ dentilabial
 daces
 derelicta
 dogmatizing
+donkeyback
 dispersing
 dispersoidological
 dynastid
