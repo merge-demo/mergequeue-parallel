@@ -2631,7 +2631,6 @@ decompensations
 dasylirion
 doorkeeper
 decompiler
-decomposable
 deviceful
 decomposer
 debrief
@@ -12660,6 +12659,7 @@ disjunctively
 deseed
 dibble
 disembodying
+decomposable
 diskelion
 downwarp
 disker
