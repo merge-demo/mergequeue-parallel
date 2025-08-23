@@ -6656,7 +6656,6 @@ boneshave
 bodegon
 beribanded
 birdy
-bargeboard
 barbarious
 beriberis
 berycid
@@ -13888,6 +13887,7 @@ bowleggedness
 beedi
 bowles
 balwarra
+bargeboard
 bowlful
 bowly
 breastworks
