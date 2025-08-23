@@ -8985,7 +8985,6 @@ chemisms
 chargable
 cyanosed
 combmaker
-charge
 chargeable
 ciphertext
 collective
@@ -20638,6 +20637,7 @@ compilations
 compilator
 compiled
 compilement
+charge
 cogitatingly
 collineate
 comping
