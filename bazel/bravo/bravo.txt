@@ -1471,7 +1471,6 @@ baloo
 balking
 budgy
 backbiter
-boyarisms
 blighter
 balkish
 bodaciously
@@ -7038,6 +7037,7 @@ beaterman
 biometricist
 burelle
 buccan
+boyarisms
 besort
 blunting
 bitterly
