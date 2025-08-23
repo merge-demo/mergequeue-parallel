@@ -3744,7 +3744,6 @@ bookmaking
 britska
 blowpipe
 barytocalcite
-befouler
 boing
 brahmanic
 biologese
@@ -5655,6 +5654,7 @@ bocher
 busks
 boraciferous
 benjoin
+befouler
 beldams
 bilify
 belderroot
