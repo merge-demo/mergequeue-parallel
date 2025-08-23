@@ -4506,6 +4506,7 @@ demibelt
 dinornithes
 dislink
 deradelphus
+denda
 deacidified
 dendrological
 demibuckram
@@ -7492,7 +7493,6 @@ devachan
 degger
 dibase
 dioxin
-denda
 deusan
 dogtrots
 drosera
