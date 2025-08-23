@@ -5354,7 +5354,6 @@ dentelure
 duftry
 dealable
 dorsoventrad
-derider
 dorsimesal
 disblame
 decoyed
@@ -8477,6 +8476,7 @@ downset
 directionize
 dodecyl
 draconitic
+derider
 downgrades
 diamondback
 diamondbacked
