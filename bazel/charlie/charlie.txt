@@ -11383,7 +11383,6 @@ chloropalladic
 chlorophaeite
 chlorophenol
 charangos
-chlorophenothane
 confirm
 cestuy
 corollate
@@ -16510,6 +16509,7 @@ constrainer
 cloakmaking
 cymbaline
 cloakroom
+chlorophenothane
 cloakrooms
 conquer
 caterwaul
