@@ -381,6 +381,7 @@ daimiate
 daimiel
 davallia
 daimyo
+dol
 dawdlers
 dreadness
 daimios
@@ -18466,7 +18467,6 @@ disprizing
 diagraming
 drovy
 duplify
-dol
 disclosed
 duplified
 duplifying
