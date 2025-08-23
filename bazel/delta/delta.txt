@@ -16666,7 +16666,6 @@ dragoonage
 dragrope
 decades
 dexterousness
-debiteuse
 deathbeds
 dragstaff
 drone
@@ -16848,6 +16847,7 @@ datto
 drawerful
 diametrical
 delaines
+debiteuse
 dominee
 dey
 demurely
