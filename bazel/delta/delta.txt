@@ -15347,7 +15347,6 @@ dolmans
 diamylose
 diluviums
 dolmas
-dolmen
 desubstantiate
 dolomedes
 discovery
@@ -16124,6 +16123,7 @@ dother
 doughier
 doughiest
 drawlingness
+dolmen
 doughiness
 dwindle
 denshire
