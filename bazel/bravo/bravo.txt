@@ -3928,6 +3928,7 @@ behelp
 bdellovibrio
 brushbird
 butanes
+bispinose
 bucculatrix
 baronetical
 bds
@@ -9678,7 +9679,6 @@ barks
 beringed
 bismutosphaerite
 bisnaga
-bispinose
 bispinous
 bramah
 bathybian
