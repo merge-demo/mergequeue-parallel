@@ -771,7 +771,6 @@ caesalpiniaceae
 cagit
 cagot
 consensual
-cogitative
 cagoule
 cagui
 cahenslyism
@@ -11799,6 +11798,7 @@ chondrodystrophy
 chondrodystrophia
 chromogenetic
 chondroditic
+cogitative
 couthest
 connubiate
 chondrofibroma
