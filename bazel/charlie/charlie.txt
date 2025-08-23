@@ -13966,7 +13966,6 @@ carpus
 cinnamons
 cinnolin
 cynocephalic
-cynocephalous
 chakazi
 cheerer
 chalicotherioid
@@ -18896,6 +18895,7 @@ curvilinearity
 corymbiform
 codisjunct
 communicational
+cynocephalous
 chaetophoraceae
 cavil
 crystosphene
