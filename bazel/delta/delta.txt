@@ -6259,7 +6259,6 @@ dermatography
 dezincation
 deblocking
 diplonephridia
-dermatolysis
 duchesnea
 dissipators
 deutobromide
@@ -15840,6 +15839,7 @@ digitoxose
 daftly
 deponed
 diseasy
+dermatolysis
 dictions
 defeatist
 demolishment
