@@ -11429,7 +11429,6 @@ chlorotically
 cantered
 chlorous
 chlorozincate
-chlorpheniramine
 cloggily
 comparatively
 carib
@@ -23034,6 +23033,7 @@ consonancy
 consonant
 consonantal
 consonantalize
+chlorpheniramine
 consonantic
 cavalcade
 consonantised
