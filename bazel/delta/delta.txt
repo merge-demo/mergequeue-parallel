@@ -4990,7 +4990,6 @@ demotists
 duncedom
 dephosphorize
 draggled
-deprivative
 demountability
 diamb
 demountable
@@ -8322,6 +8321,7 @@ draftier
 duim
 darkishness
 damoclean
+deprivative
 ditrigonally
 dockmaster
 dialectical
