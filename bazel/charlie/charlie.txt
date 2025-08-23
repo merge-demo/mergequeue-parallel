@@ -13541,6 +13541,7 @@ countersecure
 cygninae
 companionableness
 cygnus
+calycanthus
 cigua
 cyke
 cyl
@@ -27941,7 +27942,6 @@ cradlesongs
 cradling
 craft
 craftiest
-calycanthus
 conduces
 conferencing
 craftiness
