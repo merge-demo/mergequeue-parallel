@@ -9352,7 +9352,6 @@ chromotherapy
 chalutz
 cordite
 chaucerian
-creditableness
 chauchat
 cuorin
 conjunctive
@@ -26704,6 +26703,7 @@ counterattractive
 costulation
 counteravouch
 counteravouchment
+creditableness
 counterbalanced
 crackerjack
 counterbarrage
