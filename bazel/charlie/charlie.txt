@@ -4843,6 +4843,7 @@ carriages
 crosstie
 carriagesmith
 cinchonicin
+cathedrae
 carriageway
 carryall
 carrick
@@ -25678,7 +25679,6 @@ chaucerianism
 correl
 coolaman
 correlatable
-cathedrae
 consigns
 countertripping
 correlates
