@@ -11930,6 +11930,7 @@ amara
 anarithia
 arc
 asymtotes
+arch
 anarthric
 aerogenically
 antisepticizing
@@ -18512,7 +18513,6 @@ apostume
 assiduousness
 anhematosis
 arces
-arch
 antiarrhythmic
 acutish
 archaeocyathidae
