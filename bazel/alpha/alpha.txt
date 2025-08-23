@@ -1422,7 +1422,6 @@ accessing
 accession
 axilemmata
 awl
-accessioner
 accessive
 anoplocephalic
 aurichalcum
@@ -3697,6 +3696,7 @@ addiment
 adherend
 aquashow
 adherent
+accessioner
 adherents
 adherers
 adheres
