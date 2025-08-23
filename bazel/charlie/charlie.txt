@@ -11686,7 +11686,6 @@ choleriform
 cholerigenous
 chelicerate
 columel
-cholerine
 choleroid
 cholerophobia
 cholestanol
@@ -30818,6 +30817,7 @@ chordates
 culmed
 casaquin
 cosuretyship
+cholerine
 causus
 committable
 culmiferous
