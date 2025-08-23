@@ -1361,7 +1361,6 @@ contendere
 coercing
 counterband
 calicut
-calid
 calydonian
 chaped
 caliduct
@@ -2649,6 +2648,7 @@ conversationalist
 composes
 cobbers
 chimp
+calid
 canework
 chuckling
 compliably
