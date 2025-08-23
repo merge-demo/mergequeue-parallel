@@ -11075,7 +11075,6 @@ chiselly
 chisellike
 chiselling
 coevolvedcoevolves
-collectable
 chiselmouth
 chisels
 chisled
@@ -26630,6 +26629,7 @@ corbels
 ciliolum
 countably
 coccyges
+collectable
 cicatrizant
 clads
 countdom
