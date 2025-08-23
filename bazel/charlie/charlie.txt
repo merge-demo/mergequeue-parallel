@@ -86,7 +86,6 @@ cabbies
 cabble
 cabbled
 cabbler
-chars
 cabdriving
 corydora
 cabecudo
@@ -4844,6 +4843,7 @@ carry
 carriage
 carriageful
 clachans
+chars
 carriages
 crosstie
 carriagesmith
