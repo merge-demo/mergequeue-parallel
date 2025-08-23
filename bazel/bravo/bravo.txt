@@ -6787,6 +6787,7 @@ berrichonne
 bosquet
 berrier
 berries
+burnished
 beaut
 buhls
 barytosulphate
@@ -15669,7 +15670,6 @@ batful
 bilertinned
 butyric
 broadsider
-burnished
 borrovian
 begroaned
 botanophile
