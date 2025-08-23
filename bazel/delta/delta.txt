@@ -7243,7 +7243,6 @@ dyingly
 detente
 dicotyl
 dimetric
-detenu
 detenue
 days
 desulfurize
@@ -15802,6 +15801,7 @@ dialyzation
 dormancies
 dizygotic
 disweapon
+detenu
 deproceduring
 dormers
 dormette
