@@ -2131,6 +2131,7 @@ baptisias
 biddy
 bonehead
 bricksetter
+barreled
 bathybius
 burnishes
 bediapered
@@ -2886,7 +2887,6 @@ barratries
 becrawls
 barratrously
 barrelage
-barreled
 barreleyes
 barrelet
 bookend
