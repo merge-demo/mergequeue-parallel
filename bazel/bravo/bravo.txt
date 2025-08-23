@@ -15664,7 +15664,6 @@ broadlooms
 bourrides
 barbarously
 binuclear
-batful
 bilertinned
 butyric
 broadsider
@@ -15708,6 +15707,7 @@ bigfoot
 brambly
 bruyere
 beclogged
+batful
 brochophony
 brocht
 brochure
