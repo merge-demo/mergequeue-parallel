@@ -2524,6 +2524,7 @@ atomistic
 aecidia
 acorus
 acosmist
+annunciative
 athecata
 acost
 aircoach
@@ -16271,7 +16272,6 @@ angioplerosis
 adulteries
 antecaecal
 amalgamated
-annunciative
 aquabelle
 antivenereal
 antivenins
