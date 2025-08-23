@@ -1294,6 +1294,7 @@ acarpous
 augitic
 acarus
 aeromedicine
+acanthurus
 acatalectic
 apomicts
 atelocardia
@@ -14065,7 +14066,6 @@ antennate
 antennifer
 antefixes
 abranchial
-acanthurus
 acraturesis
 antennula
 antennular
