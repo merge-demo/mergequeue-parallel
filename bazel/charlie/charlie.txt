@@ -19959,7 +19959,6 @@ comitje
 chunters
 coml
 confessionals
-conjugating
 commandable
 commandatory
 commanded
@@ -29266,6 +29265,7 @@ collenchymatous
 cryptoclimate
 checking
 cryptococci
+conjugating
 caulophylline
 clout
 cicoree
