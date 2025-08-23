@@ -3575,6 +3575,7 @@ diatonous
 degener
 declaredness
 dripping
+distater
 dextrogyre
 dinosauric
 dinornithiformes
@@ -13880,7 +13881,6 @@ dialling
 displuviate
 dross
 displaces
-distater
 donee
 distaves
 demisuit

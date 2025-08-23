@@ -2711,7 +2711,6 @@ branching
 barnumism
 bienne
 blitum
-betrothals
 balandrana
 beladies
 barognosis
@@ -5249,6 +5248,7 @@ backmost
 bribability
 blastocyst
 begats
+betrothals
 bolters
 badder
 bastes
