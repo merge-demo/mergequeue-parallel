@@ -897,7 +897,6 @@ absterging
 antient
 amphitron
 absolent
-absolute
 azophosphin
 angelolatry
 atonies
@@ -14680,6 +14679,7 @@ abelite
 antiblue
 antibodies
 antiboxing
+absolute
 andrenidae
 atticism
 antibreakage
