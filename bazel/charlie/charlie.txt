@@ -14715,7 +14715,6 @@ csi
 customarily
 campodeiform
 cystophora
-calumet
 cystophore
 coadjustment
 cystophotography
@@ -25599,6 +25598,7 @@ corporationer
 corporationism
 countergift
 chasable
+calumet
 corporations
 calquing
 corporatist
