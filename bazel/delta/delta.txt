@@ -539,7 +539,6 @@ dalton
 denomination
 dermaskeleton
 dama
-damageability
 disodic
 damageably
 detonatable
@@ -8110,6 +8109,7 @@ duodial
 dentex
 developpes
 distributions
+damageability
 decidable
 drivable
 dinosaurs
