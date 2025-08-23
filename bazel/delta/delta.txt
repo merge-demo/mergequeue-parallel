@@ -26,6 +26,7 @@ deltiology
 dodkin
 dependance
 dabs
+decelerates
 dabsters
 desalinates
 deediest
@@ -2242,7 +2243,6 @@ deflex
 domineerer
 dustbox
 determinative
-decelerates
 dentolabial
 decembrist
 demnition
