@@ -9526,7 +9526,6 @@ altilik
 altiloquence
 academia
 arenig
-altimeters
 anthema
 alchemistry
 ammocetes
@@ -13554,6 +13553,7 @@ anthems
 annulets
 audiviser
 annullate
+altimeters
 annuller
 annulling
 annulment

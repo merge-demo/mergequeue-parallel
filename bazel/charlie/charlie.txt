@@ -16976,7 +16976,6 @@ clumse
 clumsy
 clumsier
 churchly
-clumsiest
 clumsily
 coenosteal
 choule
@@ -23816,6 +23815,7 @@ contravindication
 circumvascular
 contrawise
 contrecoup
+clumsiest
 contredanse
 contredanses
 contreface
