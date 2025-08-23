@@ -4896,7 +4896,6 @@ beefaloes
 basketweaving
 bloodedness
 beefalos
-birefringence
 bilimbis
 blackheartedly
 brig
@@ -18032,6 +18031,7 @@ busthead
 barberries
 bustian
 broadcaster
+birefringence
 beforehand
 bifistular
 bradypod
