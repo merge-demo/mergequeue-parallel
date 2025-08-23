@@ -3598,7 +3598,6 @@ degerm
 donnish
 degerminate
 doated
-degerminator
 distentions
 degerming
 degerms
@@ -4817,6 +4816,7 @@ dispending
 demography
 denigrations
 dichotomically
+degerminator
 disemploys
 demographically
 diptera
