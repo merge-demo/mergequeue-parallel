@@ -1485,7 +1485,6 @@ ballades
 boser
 bacteremia
 borstal
-bistable
 booked
 borrow
 bedsick
@@ -12384,6 +12383,7 @@ bomos
 beloveds
 bon
 backrope
+bistable
 bonacis
 bonagh
 bonaire
