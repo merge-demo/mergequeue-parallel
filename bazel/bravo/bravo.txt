@@ -3434,7 +3434,6 @@ biggah
 beechdrops
 bastinado
 bastings
-bacteriopathology
 babesiosis
 blendure
 blepharopyorrhea
@@ -10487,6 +10486,7 @@ blastomycete
 benignities
 blastoneuropore
 billionaire
+bacteriopathology
 bogan
 blastophyllum
 bewigged
