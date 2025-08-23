@@ -3817,6 +3817,7 @@ deigned
 disavowable
 diwan
 deigns
+deliveryman
 defail
 denigrative
 donkey
@@ -16519,7 +16520,6 @@ douzieme
 drumread
 draconites
 dracontian
-deliveryman
 deepwater
 dandies
 disnumber
