@@ -15508,6 +15508,7 @@ broomstick
 blaubok
 boxes
 bdelloida
+braggat
 barraclade
 braggadocio
 bryozoon
@@ -17515,7 +17516,6 @@ bides
 bee
 bobadilish
 burro
-braggat
 benzotetrazine
 burdensome
 beslushed
