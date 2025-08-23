@@ -2956,6 +2956,7 @@ cantharidae
 cake
 chytrid
 cantharidate
+compsognathus
 cantharides
 coation
 cycloacetylene
@@ -5092,7 +5093,6 @@ cascalho
 cascalote
 calenturist
 coagulant
-compsognathus
 coparallel
 cascaras
 crosslighted
