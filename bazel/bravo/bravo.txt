@@ -1509,7 +1509,6 @@ basted
 ballads
 ballahou
 balete
-baralipton
 bloodmonger
 blackware
 ballas
@@ -3228,6 +3227,7 @@ basilicock
 basilics
 basilidan
 basilidian
+baralipton
 basilidianism
 blash
 brome
