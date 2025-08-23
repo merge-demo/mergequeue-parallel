@@ -986,7 +986,6 @@ aggregable
 abstertion
 anthropopathic
 amassable
-abstinential
 abstinently
 ansae
 abstort
@@ -17528,6 +17527,7 @@ appendicial
 appendicostomy
 airpost
 appendicular
+abstinential
 archorrhea
 antipoetically
 amenities
