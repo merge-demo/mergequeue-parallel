@@ -3719,6 +3719,7 @@ brucella
 barnstorms
 battler
 basocyte
+bethanking
 battleships
 blushiness
 buhr
@@ -7302,7 +7303,6 @@ bambuba
 breve
 betels
 beamiest
-bethanking
 bigotish
 bethankit
 bethel
