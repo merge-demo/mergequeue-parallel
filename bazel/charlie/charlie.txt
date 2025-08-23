@@ -228,6 +228,7 @@ cacatuidae
 cacatuinae
 coactions
 caccagogue
+confluxibility
 currency
 cacciatora
 capeador
@@ -22098,7 +22099,6 @@ calabrian
 clockworks
 confluent
 confluxes
-confluxibility
 confluxible
 champert
 conormal
