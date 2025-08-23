@@ -450,7 +450,6 @@ abiogenetically
 apothems
 anonychia
 abioses
-abiotic
 aimed
 acanthopteri
 abiogenetic
@@ -14539,6 +14538,7 @@ ancraophobia
 acrotic
 antiabrin
 abacination
+abiotic
 antiabsolutist
 acacine
 allotrope
