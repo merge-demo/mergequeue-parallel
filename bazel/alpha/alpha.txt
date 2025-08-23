@@ -12617,6 +12617,7 @@ angelfishes
 alkamine
 arreptitious
 angelic
+agrest
 angelically
 anviled
 alambique
@@ -16192,7 +16193,6 @@ amphivasal
 affixer
 antithenar
 arthrocace
-agrest
 alertedly
 antitheologizing
 audibility
