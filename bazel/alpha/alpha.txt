@@ -637,6 +637,7 @@ anachorism
 aesc
 anemological
 anesthesiologies
+acanthion
 abolitionize
 awide
 abolitionized
@@ -1198,7 +1199,6 @@ acanthia
 arette
 acanthial
 anthropogenetic
-acanthion
 antisun
 amour
 acanthocephalous
