@@ -5109,7 +5109,6 @@ dendrocoele
 dendrocolaptidae
 desipience
 dendrocolaptine
-dendroctonus
 dendrodic
 dendroeca
 drakes
@@ -11115,6 +11114,7 @@ disarrays
 disarranges
 do
 discernibility
+dendroctonus
 dulled
 dorhawk
 dotless
