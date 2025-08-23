@@ -9197,6 +9197,7 @@ aphodius
 antiknock
 almury
 alnage
+autosymbiontic
 alnaschar
 aposiopestic
 alnein
@@ -15467,7 +15468,6 @@ antimodel
 asparkle
 antimodern
 alimentatively
-autosymbiontic
 antimodernist
 antimodernistic
 abstractiveness
