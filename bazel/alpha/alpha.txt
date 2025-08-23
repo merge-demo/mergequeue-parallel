@@ -1875,7 +1875,6 @@ acetacetic
 autopsic
 acetals
 acetamidin
-arrector
 ashkoko
 acetanilid
 abutments
@@ -7298,6 +7297,7 @@ avenues
 adjuvant
 antidiphtheritic
 albedo
+arrector
 antidisestablishmentarian
 apposers
 alum
