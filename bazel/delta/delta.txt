@@ -7920,7 +7920,6 @@ distilery
 dews
 dowitch
 didapper
-doublets
 dicarboxylic
 dex
 deaminate
@@ -8639,6 +8638,7 @@ depertible
 dermatographia
 downstream
 diametrically
+doublets
 diaschisis
 diffused
 dilative
