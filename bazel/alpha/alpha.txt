@@ -11002,7 +11002,6 @@ amorphus
 amort
 amuguis
 amortising
-amortizable
 amortized
 algic
 assibilation
@@ -19088,6 +19087,7 @@ arcticizing
 arista
 arctics
 aby
+amortizable
 acheer
 arctiid
 allokurtic
