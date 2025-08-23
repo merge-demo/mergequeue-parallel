@@ -7075,7 +7075,6 @@ boucle
 bimorphs
 bushing
 bespeaking
-bullalaria
 bespeaks
 bespecked
 boffola
@@ -16348,6 +16347,7 @@ bootlicked
 brummy
 belligerencies
 brumous
+bullalaria
 brumstane
 brunch
 brunched
