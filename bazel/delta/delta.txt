@@ -2506,7 +2506,6 @@ dorothea
 decemdentate
 dipper
 dibromoacetaldehyde
-deaminate
 drain
 declarators
 dotted
@@ -7928,6 +7927,7 @@ didapper
 doublets
 dicarboxylic
 dex
+deaminate
 disponee
 democritean
 dresden
