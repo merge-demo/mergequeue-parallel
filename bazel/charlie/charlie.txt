@@ -9687,7 +9687,6 @@ calcipexy
 cheerled
 cheerlessly
 cheerlessness
-comatulid
 cheerly
 crustedly
 coastman
@@ -25361,6 +25360,7 @@ cornerways
 cornet
 cornetcy
 cornetcies
+comatulid
 cornetfishes
 cornetist
 cornetists
