@@ -28607,7 +28607,6 @@ creeshes
 cavillation
 cornball
 cremaster
-calendarian
 cremasterial
 cremasteric
 cremate
@@ -30640,6 +30639,7 @@ coequation
 collenchymatic
 cuda
 chimalakwe
+calendarian
 chanelled
 caterwauls
 cudbear
