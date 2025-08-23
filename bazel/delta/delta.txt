@@ -11152,7 +11152,6 @@ diaphanous
 donating
 disattaint
 disattune
-defiling
 diplomacy
 dysautonomia
 disavail
@@ -14398,6 +14397,7 @@ doctrix
 dephlegmedness
 diuron
 demeaned
+defiling
 doled
 diva
 divagated
