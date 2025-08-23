@@ -12450,6 +12450,7 @@ barrettes
 bechase
 b
 bells
+biclavate
 boukit
 bescrawl
 booklists
@@ -14783,7 +14784,6 @@ blotters
 barmfel
 buffed
 broadhearted
-biclavate
 bloodweed
 bourgeoise
 bobization
