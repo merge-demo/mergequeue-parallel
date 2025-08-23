@@ -2489,7 +2489,6 @@ bargelike
 beet
 bravura
 bargellos
-beswinge
 begroans
 barger
 bardash
@@ -7915,6 +7914,7 @@ bibliothecarian
 bibliotheque
 bungalows
 batoka
+beswinge
 butic
 begazes
 baseline
