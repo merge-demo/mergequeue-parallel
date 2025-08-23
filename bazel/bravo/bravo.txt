@@ -653,7 +653,6 @@ basat
 breakshugh
 bacteriostatically
 bacteriotherapeutic
-bacteriotherapy
 bechances
 beletter
 bronchocavernous
@@ -4867,6 +4866,7 @@ boucl
 bedwarfing
 bigotty
 bubukle
+bacteriotherapy
 burglarproof
 beebee
 biophysical
