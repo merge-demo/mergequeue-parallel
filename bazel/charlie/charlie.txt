@@ -15266,6 +15266,7 @@ centipede
 conforms
 cade
 curtailments
+copetitioner
 clairseach
 carpetwork
 cloisteral
@@ -15888,7 +15889,6 @@ cleat
 cleats
 cyclonologist
 cheilitis
-copetitioner
 cleavable
 cleavage
 cleavages
