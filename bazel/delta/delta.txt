@@ -8031,6 +8031,7 @@ dhal
 dimension
 dhamnoo
 distinctional
+didos
 dragaded
 dhangar
 demonetising
@@ -10501,7 +10502,6 @@ diphthongize
 desulphuret
 diphthongizing
 daubentoniidae
-didos
 deess
 disputative
 diversifoliate
