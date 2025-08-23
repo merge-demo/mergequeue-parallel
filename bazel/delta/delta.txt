@@ -1645,6 +1645,7 @@ daydrudge
 dealkylate
 daundered
 disassembler
+darting
 deallocate
 deobstruct
 devotional
@@ -9845,7 +9846,6 @@ dilutely
 draffish
 diagonality
 drowsy
-darting
 diluters
 drudgingly
 destuffs
