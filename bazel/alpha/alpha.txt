@@ -6528,7 +6528,6 @@ apolarity
 aiglet
 alectoriae
 aphroditeum
-antsy
 aiglets
 affirms
 aigre
@@ -19551,6 +19550,7 @@ afghanis
 arousal
 airbill
 alchemilla
+antsy
 ariels
 acoupa
 aries
