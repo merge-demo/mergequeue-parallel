@@ -9451,6 +9451,7 @@ chawia
 complaisance
 combinement
 cembali
+cyclohexatriene
 chawing
 chawk
 coruscating
@@ -13333,7 +13334,6 @@ crossrow
 cyclohexanol
 crass
 cyclohexanone
-cyclohexatriene
 cyclohexyl
 cycloheximide
 chetverik
