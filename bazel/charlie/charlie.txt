@@ -4394,7 +4394,6 @@ cusec
 concrew
 cynara
 carinula
-catholics
 camisas
 carinulate
 concavation
@@ -27304,6 +27303,7 @@ coupstick
 coupure
 courage
 courageous
+catholics
 courager
 cherubs
 curacy
