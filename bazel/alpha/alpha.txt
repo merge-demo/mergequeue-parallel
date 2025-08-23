@@ -8294,7 +8294,6 @@ alimentariness
 austrophilism
 alimentation
 amusgo
-abstractly
 alimentativeness
 arsenium
 alimented
@@ -23021,6 +23020,7 @@ anthroponym
 attempter
 athecate
 astonishingness
+abstractly
 anice
 authoritarianisms
 amylin
