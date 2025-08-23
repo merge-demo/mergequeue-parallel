@@ -5797,6 +5797,7 @@ depones
 deponing
 distributee
 deltidium
+docker
 depopulates
 depopulating
 doodler
@@ -14818,7 +14819,6 @@ deplaster
 dodonaea
 dilatancy
 discutable
-docker
 dipicrylamin
 disaccharidase
 docket
