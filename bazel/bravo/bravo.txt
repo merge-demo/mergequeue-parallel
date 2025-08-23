@@ -3707,7 +3707,6 @@ brightest
 batting
 blackthorn
 battings
-battledores
 baldly
 baetyl
 barotraumata
@@ -14844,6 +14843,7 @@ breaghe
 breakability
 bilith
 breakable
+battledores
 breakaxe
 burning
 blameable
