@@ -835,7 +835,6 @@ dashwheel
 danian
 donnert
 downpours
-danic
 danicism
 dwell
 dams
@@ -2222,6 +2221,7 @@ dripped
 diallyl
 doddery
 doweling
+danic
 deckie
 dearsenicate
 divulgences
