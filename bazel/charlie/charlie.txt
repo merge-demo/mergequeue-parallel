@@ -4247,6 +4247,7 @@ carefull
 carefuller
 carefullest
 chemosensitivities
+clericalists
 covenant
 characteristic
 coauthored
@@ -16003,7 +16004,6 @@ clergion
 clergywoman
 culverfoot
 clerical
-clericalists
 crumbum
 clericality
 clericals
