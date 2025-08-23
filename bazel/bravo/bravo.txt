@@ -3873,6 +3873,7 @@ bawled
 bawler
 bawly
 brutalitarian
+bimorph
 bezels
 bidding
 beforesaid
@@ -8615,7 +8616,6 @@ baraza
 billon
 baronizing
 billow
-bimorph
 brie
 balladeroyal
 butterflyfishes
