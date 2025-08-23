@@ -15541,7 +15541,6 @@ antineutrons
 anting
 anorexiant
 antinganting
-antings
 apprehensible
 antinicotine
 allentando
@@ -25060,6 +25059,7 @@ axel
 axemen
 arsine
 axenic
+antings
 axenically
 annual
 antisolar

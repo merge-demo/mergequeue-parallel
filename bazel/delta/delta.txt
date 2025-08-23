@@ -489,7 +489,6 @@ danaidae
 daledh
 dankali
 depreciatively
-dame
 deveining
 declivous
 decistere
@@ -3825,6 +3824,7 @@ disjecting
 duplexed
 dropped
 despatched
+dame
 discommender
 deimos
 daffs
