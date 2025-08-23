@@ -13854,6 +13854,7 @@ distance
 denumeration
 diatomic
 demast
+descried
 doddard
 dryers
 doable
@@ -17750,7 +17751,6 @@ dubitably
 dubitancy
 deflagrates
 discoloring
-descried
 drachmal
 devaluing
 dubitate
