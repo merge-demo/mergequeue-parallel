@@ -12505,6 +12505,7 @@ bowker
 bonewort
 bauk
 backdoor
+burliness
 bonfires
 benchy
 bongoes
@@ -17097,7 +17098,6 @@ bifold
 beseeming
 bullfighters
 beglare
-burliness
 brimfully
 bullfinches
 bullflower
