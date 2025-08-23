@@ -1550,6 +1550,7 @@ deadening
 drippings
 dices
 discommoning
+desertness
 deputising
 dyssodia
 deadfalls
@@ -6956,7 +6957,6 @@ dartrous
 despisableness
 downfalls
 despiser
-desertness
 disqualifying
 distills
 demonisms
