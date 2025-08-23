@@ -3021,6 +3021,7 @@ deploy
 diphthongs
 deucedly
 dowress
+denty
 decarbonized
 desegregation
 deers
@@ -8604,7 +8605,6 @@ dyskinetic
 deathin
 douanier
 dyarchy
-denty
 deadbeat
 dehydrant
 drainless
