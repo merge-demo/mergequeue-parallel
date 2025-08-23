@@ -6877,6 +6877,7 @@ botchers
 bescutcheon
 bondservant
 basalia
+bolas
 beseam
 beseeches
 bisannual
@@ -12083,7 +12084,6 @@ boronic
 bokom
 bola
 bosey
-bolas
 bartsia
 balmacaan
 biglenoid
