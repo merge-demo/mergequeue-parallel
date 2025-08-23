@@ -14344,7 +14344,6 @@ circumlocutory
 circumlunar
 cotraitor
 crepeier
-clodder
 calcographic
 circummundane
 circummure
@@ -19687,6 +19686,7 @@ creeperless
 columnizing
 constitutioner
 colure
+clodder
 constricts
 countreeman
 choregraphically
