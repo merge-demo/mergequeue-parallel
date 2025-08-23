@@ -6723,7 +6723,6 @@ dacron
 dimedone
 dispeopled
 didunculus
-decapetalous
 date
 designatum
 designedly
@@ -6766,6 +6765,7 @@ detestably
 diathermic
 desilvers
 devitrification
+decapetalous
 diotocardia
 demultiplex
 demonized
