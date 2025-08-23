@@ -23036,6 +23036,7 @@ consonancy
 consonant
 consonantal
 consonantalize
+compurgatory
 chlorpheniramine
 consonantic
 cavalcade
@@ -24752,7 +24753,6 @@ complying
 coprophagous
 chymified
 coprophilism
-compurgatory
 crepitaculum
 coprophilous
 coprophyte
