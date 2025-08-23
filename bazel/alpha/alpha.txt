@@ -1980,6 +1980,7 @@ abrogations
 astel
 acerin
 agacante
+adoxography
 acetophenone
 archshepherd
 acetosalicylic
@@ -2394,7 +2395,6 @@ aphicide
 acknowing
 acknowledged
 afoam
-adoxography
 acknowledger
 autolyzes
 anaerobia
