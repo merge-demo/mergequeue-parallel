@@ -2377,7 +2377,6 @@ anatomicophysiological
 aggrate
 acinus
 aedes
-acipenserine
 acipenseroid
 acipenseroidei
 archpapist
@@ -24186,6 +24185,7 @@ antidogmatically
 automatin
 autocoids
 adactyl
+acipenserine
 asemasia
 antepatriarchal
 automative
