@@ -1816,6 +1816,7 @@ bandaged
 bandaging
 bowlin
 bandaid
+babylonism
 bandala
 buggery
 bandanaed
@@ -7143,7 +7144,6 @@ barefoot
 branniness
 bogglingly
 boxiana
-babylonism
 besra
 berhymes
 bullyboys
