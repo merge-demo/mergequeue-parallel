@@ -6135,7 +6135,6 @@ agonal
 aurorae
 agoniada
 antiparabema
-ascendency
 atellan
 avirulent
 activable
@@ -12675,6 +12674,7 @@ amphitrite
 alveolocondylean
 abnormalised
 adaize
+ascendency
 angrily
 antimeristem
 accountants
