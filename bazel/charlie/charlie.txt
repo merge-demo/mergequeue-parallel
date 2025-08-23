@@ -17503,7 +17503,6 @@ cobbin
 cobbing
 cumulite
 causeries
-capax
 cobbled
 cobblerfish
 cobblerism
@@ -29386,6 +29385,7 @@ crypturi
 carites
 crypturidae
 cris
+capax
 cinemese
 chairperson
 crisic
