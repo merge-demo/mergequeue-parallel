@@ -4428,6 +4428,7 @@ banting
 bonasus
 breathtakingly
 bhili
+bartend
 beribers
 beclothes
 blushwort
@@ -8050,7 +8051,6 @@ bicorned
 bochur
 bicornous
 booklift
-bartend
 bagroom
 belligerents
 bicornuate
