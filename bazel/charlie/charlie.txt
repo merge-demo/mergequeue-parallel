@@ -19029,7 +19029,6 @@ cranberry
 ctenoidean
 constables
 collectibility
-collectible
 collection
 cinnamon
 collectivise
@@ -30377,6 +30376,7 @@ creedlessness
 crusty
 crustier
 centaurial
+collectible
 cosignificative
 crustific
 crustily
