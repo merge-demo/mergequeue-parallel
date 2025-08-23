@@ -712,6 +712,7 @@ dopester
 diatom
 deadmelt
 danceability
+defailment
 danceable
 demoniacs
 danced
@@ -9030,7 +9031,6 @@ debel
 dicots
 dicoumarin
 disembed
-defailment
 depravate
 dermatoplast
 dicoumarol
