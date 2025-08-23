@@ -1568,7 +1568,6 @@ ballyhoo
 brads
 ballyrags
 belat
-ballised
 biradial
 britches
 binate
@@ -14659,6 +14658,7 @@ bambusa
 briefing
 brassart
 brassarts
+ballised
 brassbounder
 brasse
 brassey
