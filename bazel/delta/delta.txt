@@ -13685,6 +13685,7 @@ dialecticism
 dashboard
 dignitarial
 dolce
+dullishly
 dissimilars
 dorize
 dequantitate
@@ -16945,7 +16946,6 @@ dreamiest
 dreamily
 dreamless
 dreamlikeness
-dullishly
 dobchick
 damboard
 dreams
