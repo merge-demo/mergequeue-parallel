@@ -957,7 +957,6 @@ absorptivity
 absquatulate
 asperifolious
 abstain
-abstainer
 abstainers
 abstaining
 abstains
@@ -10867,6 +10866,7 @@ ammu
 antipepsin
 amnesia
 amnesiac
+abstainer
 aulas
 amnestied
 alf
