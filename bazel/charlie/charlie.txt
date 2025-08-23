@@ -11674,6 +11674,7 @@ cholera
 cephalospinal
 circumjacent
 choleras
+clockings
 civilising
 cervelases
 choleriform
@@ -31627,7 +31628,6 @@ carpingly
 curvimeter
 curvinerved
 curviness
-clockings
 curviserial
 curvital
 curvities
