@@ -3587,7 +3587,6 @@ boomkins
 bathophobia
 bathos
 bathrobes
-bunkmates
 brach
 balneophysiology
 bulldogger
@@ -7252,6 +7251,7 @@ bethuel
 balti
 beta
 bedraggle
+bunkmates
 betacaine
 betacismus
 buggiest
