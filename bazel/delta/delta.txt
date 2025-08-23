@@ -2402,6 +2402,7 @@ dane
 decimates
 dropkick
 dusken
+demot
 dihydronaphthalene
 decimating
 dacrya
@@ -15728,7 +15729,6 @@ detractiveness
 disaffect
 dopper
 dopperbird
-demot
 disespouse
 deflorescence
 dopping
