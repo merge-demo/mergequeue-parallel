@@ -4187,6 +4187,7 @@ adorer
 acentric
 adorers
 apophlegmatism
+auxanogram
 aster
 adoringly
 actuating
@@ -24480,7 +24481,6 @@ autumn
 autumnity
 autunites
 acroconidium
-auxanogram
 auxanometer
 auxeses
 altercative

@@ -7276,6 +7276,7 @@ centrosoyus
 centrosomic
 centrosphere
 crevassed
+cowson
 cylinderer
 centrums
 cancrizans
@@ -27734,7 +27735,6 @@ chough
 cowshut
 cowskin
 countercommand
-cowson
 criticsm
 cowtown
 cox
