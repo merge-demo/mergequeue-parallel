@@ -2993,7 +2993,6 @@ capriole
 clubhands
 colliquation
 cicalas
-claustrum
 croppies
 canthorrhaphy
 canthotomy
@@ -22321,6 +22320,7 @@ congolese
 coincline
 circumpolygon
 congoleum
+claustrum
 congou
 coessentialness
 corrasion
