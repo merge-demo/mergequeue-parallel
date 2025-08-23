@@ -9118,7 +9118,6 @@ diddies
 doublehung
 disciflorous
 dispunct
-decagons
 didelphid
 dhoty
 dichoptic
@@ -10489,6 +10488,7 @@ diphthongation
 dilutedness
 dendrodra
 disordeine
+decagons
 diphthonging
 diphthongisation
 demolishes
