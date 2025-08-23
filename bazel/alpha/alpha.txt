@@ -2187,7 +2187,6 @@ actinal
 aperistalsis
 abattue
 abides
-adventuristic
 achromaticity
 achromatisation
 acrestaff
@@ -21479,6 +21478,7 @@ aspiquee
 acrothoracica
 aspirant
 agonizing
+adventuristic
 aspirants
 accountancy
 aelurophobia
