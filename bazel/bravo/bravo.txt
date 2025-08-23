@@ -1340,7 +1340,6 @@ brayed
 butterbump
 betwixen
 balconies
-bacule
 baldachin
 bhaiachari
 bichromic
@@ -9373,6 +9372,7 @@ butterflying
 brimse
 basidial
 boastless
+bacule
 buriti
 baronetship
 bullyrook
