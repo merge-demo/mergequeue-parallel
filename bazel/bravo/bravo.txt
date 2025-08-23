@@ -10931,7 +10931,6 @@ brooms
 beadroll
 blinker
 balancewise
-bitterful
 barretors
 blustered
 blinkers
@@ -14454,6 +14453,7 @@ boregat
 braystone
 bigging
 bathyspheres
+bitterful
 bagh
 babying
 brakeless
