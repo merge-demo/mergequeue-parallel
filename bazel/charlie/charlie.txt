@@ -4718,7 +4718,6 @@ carpetlayer
 carpetmaking
 clubability
 captivation
-carpets
 concolorous
 carpetweb
 change
@@ -13769,6 +13768,7 @@ cinchonaceae
 conuzor
 cinchonaceous
 cathedratica
+carpets
 cinchonamine
 cinchonas
 cinchonic
