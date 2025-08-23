@@ -2677,6 +2677,7 @@ brither
 birdcage
 becoward
 bascules
+bebeerine
 balmlike
 barnabas
 bales
@@ -7432,7 +7433,6 @@ bettermost
 bedeviling
 bulbar
 bove
-bebeerine
 bifidities
 betters
 barbeau
