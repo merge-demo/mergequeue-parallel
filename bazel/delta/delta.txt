@@ -16233,6 +16233,7 @@ dialector
 deerskins
 dizens
 deallocates
+downshift
 defats
 doweress
 dunches
@@ -16346,7 +16347,6 @@ diosmotic
 discredits
 dispeace
 defended
-downshift
 downshifted
 downshore
 dephlegmatize
