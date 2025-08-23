@@ -4682,7 +4682,6 @@ carped
 cytinaceous
 composograph
 carpenters
-charlock
 carpet
 carpetbag
 carpetbagger
@@ -9954,6 +9953,7 @@ cretinism
 chemotherapeutics
 chemotherapy
 calqued
+charlock
 chemotherapist
 countersignatures
 carcinomas
