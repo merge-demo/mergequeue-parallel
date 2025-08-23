@@ -11625,6 +11625,7 @@ cholecystogastrostomy
 cholecystogram
 cholecystography
 cholecystokinin
+cyclazocine
 cholecystolithiasis
 cholecystostomy
 cholecystotomy
@@ -15143,7 +15144,6 @@ clabber
 crossover
 clabbered
 clabbery
-cyclazocine
 clabbering
 clabbers
 cumbent
