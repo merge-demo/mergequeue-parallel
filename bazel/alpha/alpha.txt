@@ -10861,7 +10861,6 @@ anticult
 amphib
 afrits
 ammonolyzing
-ammophilous
 athwarthawse
 ammos
 ammotherapy
@@ -11759,6 +11758,7 @@ acrobat
 alamanni
 anathemata
 affinity
+ammophilous
 antinational
 arecolin
 analytique
