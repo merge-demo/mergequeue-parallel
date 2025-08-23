@@ -6919,7 +6919,6 @@ clocklike
 crossable
 cranially
 celtuce
-cappadochio
 closefisted
 cembalo
 cembalon
@@ -12575,6 +12574,7 @@ condensate
 cornercap
 collophore
 chromospheric
+cappadochio
 colytic
 committitur
 cadjan
