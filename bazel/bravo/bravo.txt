@@ -2174,7 +2174,6 @@ boschboks
 bewilders
 bestove
 baramika
-baramin
 bertat
 backflash
 briscola
@@ -2572,6 +2571,7 @@ bolivars
 broadwives
 biscuit
 ballons
+baramin
 balneation
 balanophoraceous
 baryte
