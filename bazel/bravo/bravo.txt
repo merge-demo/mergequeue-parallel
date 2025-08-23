@@ -5558,7 +5558,6 @@ bejewelling
 bejewels
 backstamp
 bejezebel
-bejuco
 bontebucks
 bagnette
 barrette
@@ -17904,6 +17903,7 @@ barton
 badly
 beltane
 bushidos
+bejuco
 bractless
 broadaxes
 bahmanid
