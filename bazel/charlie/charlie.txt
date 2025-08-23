@@ -15130,7 +15130,6 @@ coxalgic
 civitas
 civite
 chinchasuyu
-corrida
 civory
 civvy
 chocalho
@@ -22926,6 +22925,7 @@ consideration
 considerations
 considerativeness
 considerator
+corrida
 copatain
 chromatone
 claddings
