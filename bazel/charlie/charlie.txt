@@ -7567,7 +7567,6 @@ cercolabes
 cercomonad
 cercomonadidae
 cercopid
-cercopithecid
 contracting
 cercopithecidae
 catodon
@@ -16759,6 +16758,7 @@ clote
 chayota
 clomb
 cloth
+cercopithecid
 clothe
 clothed
 confusional
