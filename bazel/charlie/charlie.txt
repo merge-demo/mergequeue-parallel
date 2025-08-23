@@ -2096,6 +2096,7 @@ campanological
 conjunctly
 campanologically
 coniology
+cinenchyma
 campanologist
 capillaceous
 campanologists
@@ -13881,7 +13882,6 @@ chords
 contortive
 cysticercoid
 carcinophobia
-cinenchyma
 cinene
 cinenegative
 cineol
