@@ -5812,7 +5812,6 @@ bellhouse
 belli
 buckstone
 bimillenium
-bellyache
 biremes
 butlerism
 boopic
@@ -10056,6 +10055,7 @@ bergeret
 biblos
 bizz
 bluecoats
+bellyache
 bjorne
 bk
 brazilein
