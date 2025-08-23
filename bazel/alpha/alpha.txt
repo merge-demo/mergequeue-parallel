@@ -5542,6 +5542,7 @@ afterturn
 armory
 arosaguntacook
 aphototaxis
+allez
 aftervision
 actinomycoma
 afterwale
@@ -8722,7 +8723,6 @@ alleviative
 antimaniacal
 alleviatory
 alleviators
-allez
 amolish
 aristolochiales
 autoincrements
