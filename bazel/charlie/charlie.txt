@@ -3647,7 +3647,6 @@ caragana
 caraganas
 crateful
 carageens
-chromatography
 caraibe
 caraipa
 chronometrical
@@ -10611,6 +10610,7 @@ crucifixes
 concremation
 celebrator
 chillroom
+chromatography
 chills
 chillsome
 countermove
