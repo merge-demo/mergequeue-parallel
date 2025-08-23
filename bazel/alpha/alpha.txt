@@ -5705,6 +5705,7 @@ aphodian
 agaricaceae
 adepts
 agaricaceous
+armadillo
 agaricine
 agaricoid
 agarics
@@ -15516,7 +15517,6 @@ antimoral
 antimoralism
 aeroenterectasia
 avale
-armadillo
 ailurophile
 aquage
 artiodactyl
