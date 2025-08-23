@@ -1320,7 +1320,6 @@ chaucer
 calycate
 calyceraceae
 cardioparplasis
-calices
 calyces
 cathartin
 calycifloral
@@ -22100,6 +22099,7 @@ champert
 conormal
 cheateries
 caroach
+calices
 conformability
 cyprinoid
 cashierer
