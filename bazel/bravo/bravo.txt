@@ -1883,6 +1883,7 @@ bushcraft
 breadwinners
 bandmaster
 brainsickly
+barometry
 bando
 besieger
 bodiced
@@ -13338,7 +13339,6 @@ botella
 becobweb
 botels
 bebrave
-barometry
 both
 bradyphagia
 bothersome
