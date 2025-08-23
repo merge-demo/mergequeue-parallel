@@ -1580,7 +1580,6 @@ ballistician
 brachioganoidei
 bifurcate
 ballywack
-basalt
 benzanilide
 boldface
 bursati
@@ -10895,6 +10894,7 @@ blindfolded
 bassus
 butterbush
 blindfoldedness
+basalt
 bemoon
 blinding
 braciolas
