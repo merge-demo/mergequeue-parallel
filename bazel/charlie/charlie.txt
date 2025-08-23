@@ -1129,7 +1129,6 @@ calcite
 calcitestaceous
 carollers
 cuppers
-cloddiness
 calcitic
 calcitrant
 calcitrate
@@ -29337,6 +29336,7 @@ capillariomotor
 ctenii
 cryptophagidae
 courant
+cloddiness
 cryptophyceae
 cryptophytic
 cryptophthalmos
