@@ -904,6 +904,7 @@ dinned
 daoine
 decks
 dap
+diuron
 dapedius
 disburdens
 dinornithine
@@ -14393,7 +14394,6 @@ downstair
 diurnule
 doctrix
 dephlegmedness
-diuron
 demeaned
 defiling
 doled
