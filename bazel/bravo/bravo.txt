@@ -7999,6 +7999,7 @@ bickerer
 bailsman
 breathalyse
 blamer
+basket
 blastomere
 breathiest
 betorn
@@ -14341,7 +14342,6 @@ behowl
 boxkeeper
 bierbalk
 burnable
-basket
 brahminists
 brahmoism
 brahmsian
