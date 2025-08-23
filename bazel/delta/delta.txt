@@ -3191,6 +3191,7 @@ dolmenic
 demimondaine
 dissentient
 distrainor
+decidability
 defendant
 discocephalous
 dir
@@ -16336,7 +16337,6 @@ downplay
 downplays
 dozenth
 disagreeable
-decidability
 douche
 downright
 diosmotic
