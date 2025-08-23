@@ -11085,7 +11085,6 @@ detergents
 disappreciation
 deciatine
 disapprobatory
-disappropriate
 diabolisation
 drakonite
 determinateness
@@ -14585,6 +14584,7 @@ divisibility
 divisibilities
 decolourizing
 divisible
+disappropriate
 division
 durango
 dollop
