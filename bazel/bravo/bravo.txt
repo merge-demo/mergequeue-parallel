@@ -9228,7 +9228,6 @@ batussi
 bladebone
 bipinnarias
 bipinnated
-bipinnatipartite
 butyrals
 bow
 bipinnatisect
@@ -10913,6 +10912,7 @@ blindstories
 brede
 blindweed
 blindworm
+bipinnatipartite
 backscratcher
 blackamoor
 beshiver
