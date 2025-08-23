@@ -15768,6 +15768,7 @@ aborigine
 antiphons
 assistants
 alloisomeric
+aminotriazole
 antiphrases
 antiphrastic
 antiphthisic
@@ -15861,7 +15862,6 @@ antipriest
 astrophotometry
 anno
 antipriesthood
-aminotriazole
 avaritia
 arni
 antiprime
