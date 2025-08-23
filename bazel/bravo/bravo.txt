@@ -11303,6 +11303,7 @@ barograms
 boneyard
 biologism
 blowse
+brethren
 bargeman
 barse
 baith
@@ -16024,7 +16025,6 @@ bleareyed
 bashful
 bronze
 bhotia
-brethren
 bannered
 bronzewing
 bio
