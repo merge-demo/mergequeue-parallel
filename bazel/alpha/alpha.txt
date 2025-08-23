@@ -2548,7 +2548,6 @@ arctomys
 acoumetry
 adjection
 acouometer
-adjacently
 acoup
 abrege
 acousticolateral
@@ -18540,6 +18539,7 @@ agropyron
 automats
 alethiology
 antisepsis
+adjacently
 annuent
 acarophilous
 acini
