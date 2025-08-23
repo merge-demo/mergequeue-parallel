@@ -8359,7 +8359,6 @@ divinify
 dialypetalous
 diplumbic
 dichotomization
-dialysability
 diastolic
 dimerizing
 dermamycosis
@@ -16624,6 +16623,7 @@ denotative
 donjon
 dactylopius
 denotations
+dialysability
 decorations
 drosophilae
 dispromise

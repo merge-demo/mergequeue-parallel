@@ -790,7 +790,6 @@ batrachophobia
 benignness
 blake
 baffies
-bibliotist
 bacalao
 bangalow
 bafflement
@@ -5721,6 +5720,7 @@ believers
 beamful
 basilical
 bureaucratese
+bibliotist
 bloomery
 blankite
 budge
