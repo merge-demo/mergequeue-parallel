@@ -4897,6 +4897,7 @@ admonitioner
 aerolithology
 apocamphoric
 aerolitic
+angakoks
 aerological
 antepartum
 aeromancer
@@ -6866,7 +6867,6 @@ aptian
 aventine
 airview
 acanthodidae
-angakoks
 airway
 aflutter
 astilbe
