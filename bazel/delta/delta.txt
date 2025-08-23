@@ -2179,7 +2179,6 @@ decarboxylization
 decandently
 difda
 diphyozooid
-decoloration
 decarburise
 decarburising
 diakonika
@@ -15371,6 +15370,7 @@ dolphin
 dirling
 dolphinfish
 dolphinlike
+decoloration
 dolphins
 discountenance
 design
