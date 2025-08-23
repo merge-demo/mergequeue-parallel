@@ -8581,7 +8581,6 @@ diaphtherin
 dulcifies
 directions
 digressionary
-daphnioid
 diapirs
 diaplases
 disk
@@ -15084,6 +15083,7 @@ distrains
 distinctify
 determ
 doggerel
+daphnioid
 doggerelism
 doggerelist
 diversly
