@@ -4931,6 +4931,7 @@ amphisbaenid
 auriculate
 admissibleness
 aeropathy
+agenize
 aerope
 aeroperitoneum
 anticipatorily
@@ -5800,7 +5801,6 @@ ageneses
 anthropomorphise
 agenesis
 agenetic
-agenize
 agenized
 aerial
 agenizing
