@@ -4928,7 +4928,6 @@ carthame
 counterradiation
 ceramists
 carthamic
-carthamus
 cutleriaceae
 cartier
 cartiest
@@ -12399,6 +12398,7 @@ chromatype
 chromatist
 coracohyoid
 cholent
+carthamus
 crack
 chloroanaemia
 caudiform
