@@ -6162,7 +6162,6 @@ brookie
 bohor
 baske
 benefactress
-benign
 benefactrices
 bucayo
 blest
@@ -17432,6 +17431,7 @@ bunnies
 bunodont
 brickleness
 bacteroid
+benign
 bunoselenodont
 biatomic
 bandyman

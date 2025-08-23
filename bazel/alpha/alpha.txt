@@ -2064,6 +2064,7 @@ achroous
 acherontical
 aches
 achesoun
+anthophore
 acheulean
 antecell
 accustoms
@@ -8807,7 +8808,6 @@ allobar
 allobaric
 ammonolyses
 adolescency
-anthophore
 allobroges
 allobrogical
 allocatable
