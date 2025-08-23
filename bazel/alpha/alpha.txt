@@ -11626,7 +11626,6 @@ autexousy
 actinometry
 allegory
 aucanian
-ambuling
 anticarnivorous
 acoria
 asperates
@@ -24156,6 +24155,7 @@ aguara
 antherless
 arriccios
 autolithograph
+ambuling
 autoinfection
 autolyzate
 ambuscade
