@@ -5838,7 +5838,6 @@ dextrocerebral
 depositors
 dowel
 dressings
-divestible
 deposits
 dulcitol
 dichotomously
@@ -16454,6 +16453,7 @@ dault
 distad
 dhoora
 doxography
+divestible
 decolourise
 deadishness
 dozed
