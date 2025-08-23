@@ -5589,6 +5589,7 @@ catalogistic
 catalogize
 coleplant
 constabulary
+coptic
 cataloguing
 clankety
 cataloguist
@@ -10683,7 +10684,6 @@ chimer
 chimeral
 chanteys
 chimeric
-coptic
 calci
 cavies
 caribou
