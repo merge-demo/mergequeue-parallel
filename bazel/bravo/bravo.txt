@@ -5879,6 +5879,7 @@ bellpull
 belltail
 balloons
 benumbedness
+botte
 bucconasal
 bentwoods
 bluer
@@ -8264,7 +8265,6 @@ bookling
 burden
 byzantinism
 berberine
-botte
 belittlement
 bigas
 bigbury
