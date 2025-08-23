@@ -9591,7 +9591,6 @@ discuss
 demophoon
 doubloons
 dignities
-drunks
 dignotion
 dependants
 dyslexias
@@ -14982,6 +14981,7 @@ discretionarily
 demonising
 dichromat
 disponing
+drunks
 digammas
 dominates
 descrying
