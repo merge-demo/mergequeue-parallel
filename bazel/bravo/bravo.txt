@@ -2263,7 +2263,6 @@ burlily
 barbastelle
 barbate
 beblister
-bucculatrix
 barbatimao
 branchiosaurian
 barbe
@@ -3933,6 +3932,7 @@ behelp
 bdellovibrio
 brushbird
 butanes
+bucculatrix
 baronetical
 bds
 bucktails
