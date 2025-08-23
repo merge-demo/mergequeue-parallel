@@ -3344,6 +3344,7 @@ caponise
 corslets
 captivate
 chrystocrene
+canonicalize
 caponising
 camaldolensian
 commissariat
@@ -28665,7 +28666,6 @@ cellblocks
 clarisse
 consequentially
 classific
-canonicalize
 crenel
 chroococcus
 coloniser
