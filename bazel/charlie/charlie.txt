@@ -3514,7 +3514,6 @@ clamer
 capsulitis
 capsulizing
 cabman
-cneorum
 capsulogenous
 cataphyllum
 capsulolenticular
@@ -7961,6 +7960,7 @@ cetomorphic
 cetonia
 cetonian
 curwhibble
+cneorum
 cetoniinae
 castigated
 cetorhinid
