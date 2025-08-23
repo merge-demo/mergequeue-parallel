@@ -1993,6 +1993,7 @@ believably
 brachydiagonal
 baning
 bronchocele
+bunchier
 bandcutter
 banisher
 bovista
@@ -17303,7 +17304,6 @@ boutel
 bucoliast
 bunches
 bunchy
-bunchier
 bunchily
 bunchiness
 buncoing
