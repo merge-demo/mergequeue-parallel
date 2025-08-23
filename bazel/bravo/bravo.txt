@@ -9649,7 +9649,6 @@ bisks
 bysmalith
 bismark
 boulder
-baltimorean
 bladed
 besmiles
 bismerpund
@@ -13926,6 +13925,7 @@ benzilic
 backhauled
 billback
 burka
+baltimorean
 brushoffs
 boskages
 bowstring
