@@ -9115,6 +9115,7 @@ charpit
 canape
 charpoys
 costing
+clayen
 cirmcumferential
 calyceraceous
 charqui
@@ -12500,7 +12501,6 @@ chamaenerion
 cerebralize
 chromoleucite
 chromolipoid
-clayen
 choleinic
 clarioned
 chromolith

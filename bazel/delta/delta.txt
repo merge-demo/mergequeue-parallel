@@ -9560,7 +9560,6 @@ draggly
 digitoplantar
 diprismatic
 deevilick
-dialogising
 digladiating
 decken
 duellos
@@ -16204,6 +16203,7 @@ dovening
 demicanton
 desireless
 deplasmolysis
+dialogising
 dovetailwise
 doveweed
 drinkery
