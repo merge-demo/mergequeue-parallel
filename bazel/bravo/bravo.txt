@@ -11652,7 +11652,6 @@ bankerdom
 boatloader
 beigy
 boatmanship
-boatmen
 boats
 boatsetter
 bisymmetric
@@ -13136,6 +13135,7 @@ brucite
 borosalicylic
 bywalk
 borotungstate
+boatmen
 blastful
 borough
 bouquetin
