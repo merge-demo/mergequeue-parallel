@@ -10317,6 +10317,7 @@ balatas
 bulbophyllum
 blithemeat
 blueback
+bookseller
 blagueur
 bacchante
 blains
@@ -12751,7 +12752,6 @@ bookracks
 blacklegging
 baronry
 begut
-bookseller
 bepreach
 bistort
 bucorvinae
