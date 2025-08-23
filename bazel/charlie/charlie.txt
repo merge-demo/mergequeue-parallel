@@ -12638,6 +12638,7 @@ circularize
 chronological
 chronologies
 coalternative
+coexchangeable
 chantecler
 cercle
 cafetiere
@@ -24046,7 +24047,6 @@ conventual
 converge
 cuspal
 concealment
-coexchangeable
 caprimulgi
 cirrolite
 codfisheries
