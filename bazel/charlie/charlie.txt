@@ -2867,6 +2867,7 @@ canonizer
 canonizes
 canonizing
 churchreeve
+carga
 canonry
 canons
 canonship
@@ -4298,7 +4299,6 @@ centroidal
 carfuffling
 carful
 congregationalize
-carga
 cargadores
 chintziness
 casco
