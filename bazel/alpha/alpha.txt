@@ -4141,6 +4141,7 @@ adderwort
 apoapsis
 armorers
 anabaptistically
+arock
 arquebusier
 amalgamable
 ananaplas
@@ -19968,7 +19969,6 @@ aroast
 azophenyl
 anomer
 awearied
-arock
 arsoite
 assurers
 alimentum

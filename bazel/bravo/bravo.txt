@@ -79,6 +79,7 @@ ballfield
 babelize
 beshlik
 belinda
+barometrograph
 botrytis
 bulwarks
 baccarat
@@ -3988,7 +3989,6 @@ beadlehood
 besiegement
 beadmen
 blepharophimosis
-barometrograph
 beads
 builds
 barcelonas
