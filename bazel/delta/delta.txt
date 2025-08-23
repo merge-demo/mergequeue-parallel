@@ -5573,7 +5573,6 @@ depeinct
 dependabilities
 donatistic
 deintellectualize
-dibber
 dustfall
 draftable
 disally
@@ -13431,6 +13430,7 @@ disquietness
 disquietude
 doolees
 disquiparancy
+dibber
 demo
 disemprison
 dissentients
