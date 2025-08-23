@@ -1230,7 +1230,6 @@ daystars
 dieb
 drumly
 datebook
-dibstones
 drivehead
 disembarkation
 disemplane
@@ -16982,6 +16981,7 @@ doz
 dunkard
 dazedness
 domus
+dibstones
 drearing
 drearisome
 drearly

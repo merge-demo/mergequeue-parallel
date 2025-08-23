@@ -20023,7 +20023,6 @@ autobiographical
 accipitral
 aromatophor
 apollos
-article
 arline
 allness
 annuary
@@ -22489,6 +22488,7 @@ athabascan
 athamantid
 acontium
 akinesia
+article
 athanasia
 athanasian
 athanasianism
