@@ -7681,7 +7681,6 @@ aldea
 adrenitis
 antichresis
 aldebaran
-ambiance
 autoplastic
 arbours
 anticonvulsive
@@ -15414,6 +15413,7 @@ antimetrical
 alone
 antimetropia
 antimetropic
+ambiance
 antimycotic
 alphatoluic
 antimilitary
