@@ -8587,7 +8587,6 @@ allectory
 architectonically
 atmophile
 allegata
-allegate
 allegations
 antiatheistical
 alleges
@@ -10581,6 +10580,7 @@ amylodyspepsia
 agrypnias
 amylogenic
 aget
+allegate
 axerophthol
 archoptoma
 attend
