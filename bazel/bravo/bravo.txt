@@ -3129,6 +3129,7 @@ balneotherapeutics
 branchway
 baseplug
 basepoint
+boleros
 baser
 brazen
 blanda
@@ -12940,7 +12941,6 @@ brambled
 berliners
 blameless
 breviloquence
-boleros
 berthold
 bleinerite
 boardinghouses
