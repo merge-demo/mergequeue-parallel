@@ -10851,6 +10851,7 @@ antipepsin
 amnesia
 amnesiac
 abstainer
+arangoes
 aulas
 amnestied
 alf
@@ -18292,7 +18293,6 @@ aficionado
 andromorphous
 araneoidea
 araneologist
-arangoes
 aranyaka
 aruspice
 arank
