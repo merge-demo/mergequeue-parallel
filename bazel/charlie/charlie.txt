@@ -1444,7 +1444,6 @@ calyptrata
 cheapener
 calyptratae
 calyptriform
-calyptrimorphous
 coracoscapular
 ceriornis
 carnosin
@@ -20362,6 +20361,7 @@ coeliomyalgia
 chita
 costlew
 communistic
+calyptrimorphous
 communists
 concessiveness
 communital
