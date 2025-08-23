@@ -4129,7 +4129,6 @@ brockages
 bearishly
 brit
 bombes
-bearm
 birdwatch
 barbastel
 bagwigs
@@ -14491,6 +14490,7 @@ bolivarite
 bodier
 brancard
 briarroot
+bearm
 bahan
 branchiomeric
 branchellion
