@@ -21224,7 +21224,6 @@ conceptionist
 cohanims
 conceptive
 conceptiveness
-conceptual
 conceptualise
 cynthius
 crooning
@@ -29649,6 +29648,7 @@ crocused
 captionless
 commonwealths
 croissants
+conceptual
 casemate
 crocuses
 chronogrammatist
