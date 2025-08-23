@@ -19667,7 +19667,6 @@ aoudads
 albarellos
 antechurch
 arithmetizations
-acrosticheae
 araeostyle
 arythmical
 anteprandial
@@ -20751,6 +20750,7 @@ ampulate
 arusha
 aryan
 armoried
+acrosticheae
 aruspex
 aruspicy
 arteriography
