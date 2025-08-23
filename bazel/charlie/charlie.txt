@@ -8987,6 +8987,7 @@ collective
 clements
 chargeably
 chargeant
+chemopause
 charged
 cupping
 chargee
@@ -25780,7 +25781,6 @@ coccoids
 corrody
 celloist
 corrodiary
-chemopause
 corroded
 corrodibility
 centimeters
