@@ -7364,7 +7364,6 @@ dwine
 demilunes
 depersonalised
 deselect
-discount
 demoniacally
 demiadult
 detonating
@@ -16454,6 +16453,7 @@ demagogs
 dghaisa
 dioscorea
 doxie
+discount
 dault
 distad
 dhoora
