@@ -6725,7 +6725,6 @@ celeb
 capicha
 clition
 celebrant
-cohesions
 celebrants
 cordierite
 celebrate
@@ -15476,6 +15475,7 @@ convulsed
 clare
 corrodible
 clarence
+cohesions
 civilizational
 clarences
 clarenceux
