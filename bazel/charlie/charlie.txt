@@ -8321,6 +8321,7 @@ cephalohumeralis
 chantress
 courtyard
 chalina
+colonisation
 coonskin
 complexity
 carbure
@@ -17734,7 +17735,6 @@ cocitizen
 cocitizenship
 cockade
 colour
-colonisation
 christianization
 connecting
 cockades
