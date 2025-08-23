@@ -3776,7 +3776,6 @@ adight
 adin
 araneose
 anguineous
-apparentation
 adynamia
 adion
 adios
@@ -25164,6 +25163,7 @@ anthropomantist
 asynartetic
 avera
 angrite
+apparentation
 axoneure
 axonia
 aleochara
