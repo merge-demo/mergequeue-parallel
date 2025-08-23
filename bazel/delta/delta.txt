@@ -7492,7 +7492,6 @@ devachan
 degger
 dibase
 dioxin
-denda
 deusan
 dogtrots
 drosera
@@ -9062,6 +9061,7 @@ dictative
 dictatory
 dictatorialness
 deary
+denda
 dictature
 dihexahedral
 dorsals
