@@ -5753,7 +5753,6 @@ aeropause
 ambulative
 agatiferous
 auxetics
-atlatl
 aligner
 author
 agatized
@@ -21104,6 +21103,7 @@ asherah
 ashery
 ashes
 apparence
+atlatl
 attachedly
 avern
 agnean
