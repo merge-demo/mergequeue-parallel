@@ -4765,7 +4765,6 @@ cowlings
 carpoidea
 chalcidid
 carpolith
-confides
 clitellus
 carpology
 corrosibility
@@ -27739,6 +27738,7 @@ cowskin
 countercommand
 criticsm
 cowtown
+confides
 cox
 cohog
 charting
