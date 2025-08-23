@@ -4618,7 +4618,6 @@ bedehouses
 balustrade
 bedemen
 bens
-barry
 boeing
 basigamy
 buxus
@@ -13633,6 +13632,7 @@ bounded
 bridgepot
 bounders
 baxter
+barry
 burladero
 boundless
 bartizaned
