@@ -4909,6 +4909,7 @@ bebelted
 backchat
 beefeater
 bassy
+bushmen
 beefeaters
 barkentines
 burhinidae
@@ -7389,7 +7390,6 @@ betrayed
 bequeathment
 bimarginate
 bedgown
-bushmen
 bolsheviki
 blueys
 boatings
