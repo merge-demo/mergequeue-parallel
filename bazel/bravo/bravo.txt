@@ -6316,7 +6316,6 @@ baltic
 benzalacetone
 benzalacetophenone
 bonum
-benzalazine
 benzalcohol
 bakupari
 benzaldehyde
@@ -10525,6 +10524,7 @@ bambuco
 blate
 blately
 blateness
+benzalazine
 bhisti
 barret
 basters
