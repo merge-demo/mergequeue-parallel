@@ -412,7 +412,6 @@ burgles
 bighorns
 belook
 bacteriorhodopsin
-bwana
 backlit
 betipple
 bailor
@@ -3698,6 +3697,7 @@ batterman
 bullockman
 bepinch
 baylike
+bwana
 batty
 barny
 brookflower
