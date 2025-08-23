@@ -15332,6 +15332,7 @@ clammiest
 coreciprocal
 clamminess
 clamming
+cloit
 clammyweed
 clamored
 clamorer
@@ -16632,7 +16633,6 @@ capsules
 cloisterwise
 cloistral
 concoagulation
-cloit
 chamisos
 cloke
 clokies
