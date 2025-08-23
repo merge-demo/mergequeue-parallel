@@ -2208,7 +2208,6 @@ airplanes
 australia
 achromatosis
 achromobacter
-achromoderma
 amygdalolith
 achromous
 articulability
@@ -17899,6 +17898,7 @@ approximable
 alpinism
 approximal
 athreptic
+achromoderma
 approximants
 ambits
 antiheroic
