@@ -81,7 +81,6 @@ dacoiting
 dactyliography
 depressibility
 debilitating
-dactylion
 dactyliotheca
 digladiator
 deltal
@@ -8263,6 +8262,7 @@ dizzy
 draped
 disputableness
 diagonal
+dactylion
 diagonalizable
 diagonalization
 diagnosing
