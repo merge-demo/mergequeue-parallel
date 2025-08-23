@@ -10952,6 +10952,7 @@ blips
 boehmenite
 bliss
 branchiostegous
+begulf
 bucketshop
 birdcatcher
 bromocamphor
@@ -11096,7 +11097,6 @@ bakongo
 blipping
 berengena
 bidpai
-begulf
 blomstrandine
 blond
 brazing
