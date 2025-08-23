@@ -13396,7 +13396,6 @@ bialys
 blanche
 brushing
 bedeswoman
-bartisans
 bulgier
 birles
 botryllus
@@ -18241,6 +18240,7 @@ butterflower
 berlinize
 battles
 batik
+bartisans
 baburd
 bacteraemia
 bases
