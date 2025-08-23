@@ -4112,6 +4112,7 @@ discomplexion
 dihybrid
 disreason
 delimitating
+drumfire
 delimitation
 delimiter
 deviational
@@ -7425,7 +7426,6 @@ detrimentally
 daroga
 deviate
 dancer
-drumfire
 disequilibriums
 disseised
 detrivorous
