@@ -16974,7 +16974,6 @@ clumping
 clumpish
 capitano
 clumpishness
-cohere
 clumps
 canavalin
 curst
@@ -21447,6 +21446,7 @@ cochairmen
 conclusionally
 conclusive
 coexistency
+cohere
 cnidophorous
 conclusively
 compassionated
