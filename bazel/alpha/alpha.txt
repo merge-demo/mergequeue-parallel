@@ -4398,7 +4398,6 @@ awanyu
 advance
 azurine
 advancedness
-advancement
 archimperial
 advancing
 advancive
@@ -23881,6 +23880,7 @@ antiscepticism
 anepiploic
 autoagglutinating
 autoalkylation
+advancement
 autoanalytic
 auriculariae
 animalcule
