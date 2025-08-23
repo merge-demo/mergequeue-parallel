@@ -7887,7 +7887,6 @@ cessantly
 cessative
 cessavit
 cessed
-cesser
 cesses
 cuttle
 cipolin
@@ -26517,6 +26516,7 @@ cottrel
 cottus
 cotunnite
 culicids
+cesser
 cymbaled
 chemosis
 clingers
