@@ -8955,7 +8955,6 @@ allosome
 allosteric
 allotee
 allotelluric
-allothigenetically
 anthropomorphising
 annihilated
 allothigenic
@@ -11903,6 +11902,7 @@ anaptychus
 anaptyctic
 anaptotic
 anarcestes
+allothigenetically
 anarchy
 auberges
 acanthosis
