@@ -3137,7 +3137,6 @@ capanna
 capanne
 cystolithectomy
 caparison
-caparisoned
 caparisoning
 caparisons
 capataces
@@ -10232,6 +10231,7 @@ chiaroscuros
 chuvash
 coulis
 chias
+caparisoned
 cheesecakes
 cartilages
 chiasma
