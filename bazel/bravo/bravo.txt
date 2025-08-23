@@ -1868,7 +1868,6 @@ battutos
 bevies
 batukite
 bishoplike
-biostatics
 bougeron
 bandit
 beshrew
@@ -8586,6 +8585,7 @@ billyboy
 bivalved
 brules
 billies
+biostatics
 billyhood
 billiken
 backscatters
