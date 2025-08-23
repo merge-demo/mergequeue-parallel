@@ -2813,7 +2813,6 @@ acronic
 adipose
 acronically
 acronych
-armamentaria
 abarthrosis
 acronychal
 acronichally
@@ -21268,6 +21267,7 @@ adorning
 autist
 asynergy
 asynergia
+armamentaria
 anoli
 adamantly
 annuluses
