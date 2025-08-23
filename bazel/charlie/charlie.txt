@@ -807,6 +807,7 @@ contouring
 corban
 cailcedra
 counterrestoration
+coronations
 caille
 corticole
 cailliach
@@ -25529,7 +25530,6 @@ coronate
 calp
 corrosible
 calibrators
-coronations
 chitchatty
 coronel
 chamaerrhine
