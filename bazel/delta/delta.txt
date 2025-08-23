@@ -5640,7 +5640,6 @@ demythologised
 decadents
 dephlegmation
 dastards
-dephlegmedness
 dephlogisticate
 dess
 detache
@@ -14401,6 +14400,7 @@ devaunt
 downstair
 diurnule
 doctrix
+dephlegmedness
 diuron
 demeaned
 doled
