@@ -3613,7 +3613,6 @@ adenostoma
 ailanthic
 adenotyphus
 alphabetist
-attenuant
 anachoret
 alimenting
 attempre
@@ -9756,6 +9755,7 @@ amanist
 airwaybill
 amanitine
 aerifying
+attenuant
 amanitins
 agglomerator
 antireforming
