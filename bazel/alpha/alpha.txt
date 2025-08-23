@@ -1971,7 +1971,6 @@ acetomorphin
 acetomorphine
 acetonaemia
 acetonaemic
-acetonemic
 acetonic
 advances
 antependia
@@ -16084,6 +16083,7 @@ antisymmetry
 aethalioid
 africanization
 allusion
+acetonemic
 alloys
 agarum
 antitryptic
