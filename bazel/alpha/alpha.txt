@@ -5239,7 +5239,6 @@ affixation
 affixed
 andantinos
 androsin
-affixers
 affixes
 affixial
 aspatia
@@ -12705,6 +12704,7 @@ anglophilia
 angioid
 amentum
 angiokeratoma
+affixers
 apocopation
 anthocerotales
 angioleucitis
