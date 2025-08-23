@@ -48,7 +48,6 @@ astrakhan
 arcella
 arguitively
 alkylene
-apothegmatic
 anocithesia
 adstringe
 acineta
@@ -20327,6 +20326,7 @@ anchitherioid
 arses
 arsheen
 arshin
+apothegmatic
 afterimage
 antioxygenic
 arshine
