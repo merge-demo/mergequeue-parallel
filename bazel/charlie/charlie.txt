@@ -12956,7 +12956,6 @@ canvased
 cowbarn
 conducted
 churnful
-churnmilk
 cecidomyiidous
 churns
 churoyan
@@ -23716,6 +23715,7 @@ chakari
 contradistinctly
 contrafacture
 carrosserie
+churnmilk
 contrafissura
 contrafissure
 cruciform
