@@ -1326,7 +1326,6 @@ draconism
 dauke
 denticule
 dorsigerous
-disorder
 dysteleologically
 deprecable
 demodulator
@@ -3045,6 +3044,7 @@ defacement
 doncella
 disgustfully
 disquietingly
+disorder
 deadliness
 downbent
 doohickus
