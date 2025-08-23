@@ -5537,6 +5537,7 @@ deutomala
 dermoskeletal
 department
 departmental
+dimers
 disrobers
 desiccate
 dunting
@@ -9919,7 +9920,6 @@ dewey
 duscle
 duka
 deformational
-dimers
 dimes
 dimetallic
 dimeter
