@@ -7931,7 +7931,6 @@ cestraction
 chairs
 colessees
 cestrian
-cestrum
 conned
 cesural
 cetaceans
@@ -12768,6 +12767,7 @@ chuet
 chueta
 compellation
 chufas
+cestrum
 cinenchymatous
 ceratomania
 crinite
