@@ -1269,7 +1269,6 @@ acarina
 acrasy
 acarine
 acarines
-acarinosis
 anucleate
 acontias
 arteriodiastasis
@@ -16140,6 +16139,7 @@ antispreader
 anticlimaxes
 alkalinised
 adipomatous
+acarinosis
 antispreading
 antistadholder
 aosmic
