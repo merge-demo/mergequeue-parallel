@@ -2868,7 +2868,6 @@ cetorhinoid
 canonizer
 canonizes
 canonizing
-churchreeve
 carga
 canonry
 canons
@@ -22813,6 +22812,7 @@ catnapped
 crinid
 caffeine
 cotyledonoid
+churchreeve
 chelonid
 caulicles
 congiaries
