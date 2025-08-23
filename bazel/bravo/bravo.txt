@@ -1076,7 +1076,6 @@ braciole
 boresomeness
 baiocchi
 beets
-boxy
 baiocco
 berrylike
 burel
@@ -14190,6 +14189,7 @@ brackish
 bacteriological
 banat
 bracon
+boxy
 bushwife
 bracteole
 bracteose
