@@ -672,7 +672,6 @@ decapitalize
 damped
 decemviri
 desquamated
-dukely
 deafen
 dampers
 dudgeons
@@ -5986,6 +5985,7 @@ dollish
 depeculate
 deadeningly
 deprogrammings
+dukely
 deprograms
 deuteron
 dropforged
