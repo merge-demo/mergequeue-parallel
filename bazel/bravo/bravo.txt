@@ -5725,7 +5725,6 @@ bloomery
 blankite
 budge
 bencite
-believingly
 brerd
 burials
 backsight
@@ -15748,6 +15747,7 @@ broigne
 blueprinting
 bunds
 broiled
+believingly
 blare
 beshame
 birthdays
