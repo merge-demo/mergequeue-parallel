@@ -3272,7 +3272,6 @@ basiotripsy
 boobyism
 bookwork
 basipetal
-basommatophora
 burdie
 basipodite
 blank
@@ -13972,6 +13971,7 @@ bickiron
 boxroom
 bromatium
 barwise
+basommatophora
 bacteriofluorescin
 barbarical
 backstage
