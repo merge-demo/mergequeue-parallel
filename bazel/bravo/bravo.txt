@@ -2166,6 +2166,7 @@ bepuddle
 bedward
 bields
 batwoman
+beat
 blushers
 berliner
 bulreedy
@@ -4171,7 +4172,6 @@ beastman
 barracoutas
 baftah
 beastship
-beat
 benches
 beatae
 beatee
