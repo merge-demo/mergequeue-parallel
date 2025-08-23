@@ -1697,7 +1697,6 @@ dears
 dottard
 dendrobatinae
 dupability
-dignity
 dearsenicator
 dispond
 dobl
@@ -6276,6 +6275,7 @@ dividable
 defenser
 dermatomere
 dermatomyces
+dignity
 deploredness
 diplokaryon
 dweeble

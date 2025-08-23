@@ -5019,7 +5019,6 @@ crusades
 canaanites
 carunculae
 caruncular
-consecute
 cohue
 carunculated
 carunculous
@@ -20323,6 +20322,7 @@ chansons
 communicant
 communicate
 czarinian
+consecute
 convertibles
 cousinly
 communicating
