@@ -2539,6 +2539,7 @@ bloodberry
 bardel
 barylalia
 beleaped
+bemoaned
 bactrian
 backtalk
 barile
@@ -6027,7 +6028,6 @@ bellow
 bemoan
 bolter
 bookie
-bemoaned
 baccarats
 bowenite
 bradyphasia

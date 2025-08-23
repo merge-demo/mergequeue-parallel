@@ -5865,7 +5865,6 @@ catenative
 capomo
 compositorial
 catenoid
-catenulate
 cacozyme
 capuli
 culminant
@@ -24213,6 +24212,7 @@ convoying
 carboxypeptidase
 convoked
 centigram
+catenulate
 callbacks
 convolutedly
 colemouse
