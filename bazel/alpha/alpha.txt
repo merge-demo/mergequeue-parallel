@@ -11321,7 +11321,6 @@ amplexicaul
 aeciostage
 awestruck
 amplexicauline
-amphictyonic
 artels
 alupag
 auguster
@@ -18023,6 +18022,7 @@ autosuggest
 aquafortis
 avarices
 aquagreen
+amphictyonic
 aquake
 aqualung
 anglos
