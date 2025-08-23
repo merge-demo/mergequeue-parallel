@@ -14002,6 +14002,7 @@ antedates
 antedating
 astur
 anapests
+antimission
 academize
 antedorsal
 antefact
@@ -15426,7 +15427,6 @@ anandria
 affluentness
 anywhere
 alaudidae
-antimission
 although
 antimissionary
 androconia
