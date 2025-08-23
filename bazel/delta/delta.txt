@@ -2700,7 +2700,6 @@ delectable
 duetto
 decorate
 decorating
-dont
 discounsel
 diplopterous
 dassy
@@ -6955,6 +6954,7 @@ discouragedly
 disentrancement
 despisable
 dorcas
+dont
 dispatcher
 digitron
 dartrous
