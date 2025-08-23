@@ -2001,6 +2001,7 @@ banishing
 banyuls
 baniva
 brittonic
+borofluorin
 blepharohematidrosis
 begetting
 betty
@@ -16311,7 +16312,6 @@ bruited
 baduhenna
 bruiter
 bruits
-borofluorin
 baddeleyite
 bacchius
 brujeria
