@@ -12073,6 +12073,7 @@ choroidocyclitis
 choroidoretinitis
 choroids
 chorology
+cynocrambe
 cylloses
 coheres
 choromanic
@@ -25541,7 +25542,6 @@ confronte
 coronetty
 coronagraphic
 coronilla
-cynocrambe
 coronion
 catting
 coronis
