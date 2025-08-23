@@ -383,7 +383,6 @@ davallia
 daimyo
 dol
 dawdlers
-dreadness
 daimios
 dadap
 daimyos
@@ -10408,6 +10407,7 @@ dfault
 deejays
 dioxane
 dioxanes
+dreadness
 droiture
 diplosphene
 dioxy
