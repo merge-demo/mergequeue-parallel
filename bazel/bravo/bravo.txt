@@ -7178,6 +7178,7 @@ bestench
 bearberry
 bestialised
 brannigan
+bahar
 berascal
 boulevardier
 bellbirds
@@ -7624,7 +7625,6 @@ befreckle
 bewry
 bankroller
 bullwhip
-bahar
 barranca
 bairnteem
 balanidae
