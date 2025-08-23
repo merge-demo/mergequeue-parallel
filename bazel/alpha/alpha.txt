@@ -2468,7 +2468,6 @@ attemperance
 acolyctine
 ascidiferous
 amoebicidal
-acolyth
 aculei
 acolythate
 amphiaster
@@ -19462,6 +19461,7 @@ argumenta
 argumental
 autecious
 asynchronous
+acolyth
 aramayoite
 accede
 argumentator
