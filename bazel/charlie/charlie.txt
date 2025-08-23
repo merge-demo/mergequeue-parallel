@@ -1289,7 +1289,6 @@ calgary
 caliban
 cunea
 calaverite
-caliber
 compulsatory
 calibers
 colunar
@@ -19555,6 +19554,7 @@ colpenchyma
 colpindach
 canzonets
 colpitis
+caliber
 carvers
 colpitises
 colpohyperplasia
