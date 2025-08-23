@@ -3418,6 +3418,7 @@ bastards
 biotechnologicaly
 bioptic
 barrelfishes
+blastodisc
 baster
 befuddlement
 bastille
@@ -10475,7 +10476,6 @@ beeflower
 blastochyle
 blastocoel
 blastocoele
-blastodisc
 becharming
 blatjang
 bakestone
