@@ -10681,7 +10681,6 @@ amins
 aminta
 amyosthenic
 amyotonia
-amir
 amiray
 appendicious
 averting
@@ -14661,6 +14660,7 @@ absolute
 andrenidae
 atticism
 antibreakage
+amir
 ammonolyzed
 aureously
 antibridal
