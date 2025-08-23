@@ -151,6 +151,7 @@ backlog
 bassine
 bashara
 bethylidae
+biblicality
 biconnected
 babkas
 beinness
@@ -7835,7 +7836,6 @@ biblical
 bobsledders
 bels
 benamed
-biblicality
 biblicism
 biblicopsychological
 biblike
