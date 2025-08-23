@@ -626,7 +626,6 @@ barracked
 bletherskate
 bemingle
 bacteriolyze
-bacteriology
 breadnut
 bronchoaspergillosis
 betterness
@@ -12202,6 +12201,7 @@ brimstone
 blamable
 bollock
 bema
+bacteriology
 brachiate
 beginner
 bolloxes

@@ -281,7 +281,6 @@ docken
 dimensum
 debugged
 disassiduity
-doliolidae
 diploperistomic
 domesticates
 dodoism
@@ -5859,6 +5858,7 @@ depraver
 docetic
 dragonfly
 dewaxing
+doliolidae
 deadtongue
 dags
 dentaries
