@@ -4125,7 +4125,6 @@ chancellor
 cardinalities
 cardinally
 cardinalship
-cardings
 cardioarterial
 cardiocarpum
 cardiocele
@@ -12298,6 +12297,7 @@ casement
 chrysopsis
 crispy
 camphorphorone
+cardings
 chrysosperm
 chrysosplenium
 chrysothrix
