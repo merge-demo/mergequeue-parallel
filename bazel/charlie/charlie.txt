@@ -3087,6 +3087,7 @@ canzonet
 caodaism
 caodaist
 caoine
+clothesbrush
 caon
 chawer
 chlorocruorin
@@ -10098,7 +10099,6 @@ campine
 cheslep
 coleochaete
 crestings
-clothesbrush
 chimney
 chesoun
 carloadings

@@ -5323,7 +5323,6 @@ dentata
 discomposing
 dentate
 demonolatry
-disrange
 dentatoangulate
 droud
 ducks
@@ -17103,6 +17102,7 @@ diaconus
 doubletree
 dismally
 diclinies
+disrange
 diaplexus
 datacell
 dimensional
