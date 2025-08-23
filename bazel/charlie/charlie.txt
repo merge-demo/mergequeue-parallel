@@ -7104,7 +7104,6 @@ connotational
 centesm
 corticifugal
 centetid
-centiar
 coryphaenid
 centiares
 copita
@@ -21332,6 +21331,7 @@ conchy
 conchies
 confederatize
 circummigration
+centiar
 ceboid
 counterguerrilla
 conchifera
