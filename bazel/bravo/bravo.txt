@@ -15811,6 +15811,7 @@ bromauric
 brombenzamide
 ballottable
 bumboats
+bunkerage
 belauder
 bowwort
 bluntly
@@ -17400,7 +17401,6 @@ bestriding
 bassoon
 bunker
 bluebird
-bunkerage
 bedtimes
 bandbox
 busy
