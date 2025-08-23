@@ -6323,6 +6323,7 @@ aleucaemic
 agrogeological
 agrology
 aurung
+abatua
 agrologic
 acoine
 afro
@@ -12256,7 +12257,6 @@ almicore
 antithetics
 agmatine
 anodynia
-abatua
 axes
 anders
 autoirrigation
