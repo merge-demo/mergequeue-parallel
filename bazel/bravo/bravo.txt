@@ -10090,6 +10090,7 @@ blackamoors
 blackbine
 befrets
 blackback
+bepity
 blackballed
 blanching
 blackballs
@@ -11821,7 +11822,6 @@ broiden
 baking
 brigands
 braking
-bepity
 brashes
 barriers
 buttonless
