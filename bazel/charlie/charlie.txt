@@ -8704,6 +8704,7 @@ cutters
 chantership
 chanteur
 chanteuse
+codiales
 chanteuses
 chanticleer
 chanticleers
@@ -17907,7 +17908,6 @@ cachaemia
 codheaded
 codiaceae
 chondrotome
-codiales
 codical
 chlamys
 camas
