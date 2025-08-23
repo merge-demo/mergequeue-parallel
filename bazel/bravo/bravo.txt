@@ -5726,7 +5726,6 @@ bureaucratese
 bloomery
 blankite
 budge
-burrer
 bencite
 believingly
 brerd
@@ -12810,6 +12809,7 @@ burstone
 boolya
 blebs
 babs
+burrer
 braiding
 barrelhouse
 beefcakes
