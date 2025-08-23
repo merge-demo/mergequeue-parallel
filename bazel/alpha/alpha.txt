@@ -10242,6 +10242,7 @@ adj
 anhydrization
 asyllabia
 arcticize
+astroglia
 anemious
 acop
 agricolite
@@ -22263,7 +22264,6 @@ astrogeology
 astrogeologist
 ariadne
 anniversaries
-astroglia
 actify
 arcturia
 ananas
