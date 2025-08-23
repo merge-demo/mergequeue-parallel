@@ -9744,6 +9744,7 @@ breadline
 bossies
 burdocks
 bistipulate
+begumming
 bistorts
 bistred
 beknights
@@ -9810,7 +9811,6 @@ bullyable
 battiness
 bagmen
 barbing
-begumming
 brands
 begums
 bites
