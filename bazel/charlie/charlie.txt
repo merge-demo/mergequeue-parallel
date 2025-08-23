@@ -10867,6 +10867,7 @@ candlepower
 circumcising
 chiopin
 centropomus
+concoagulate
 chip
 chipchop
 chipewyan
@@ -21460,7 +21461,6 @@ conclusum
 ceinte
 caseful
 chapellage
-concoagulate
 congestions
 cluniac
 cannibality
