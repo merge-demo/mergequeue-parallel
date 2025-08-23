@@ -7338,6 +7338,7 @@ conchitis
 clincher
 commercer
 constitution
+contenement
 conicity
 carnelians
 cryptolunatic
@@ -23478,7 +23479,6 @@ contendress
 cornstalk
 civil
 contends
-contenement
 contrapuntal
 chimble
 contentable
