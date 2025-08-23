@@ -4516,6 +4516,7 @@ advisees
 advisement
 arranger
 adviser
+alur
 apparatchiki
 advisers
 androcentric
@@ -9664,7 +9665,6 @@ absenting
 antespring
 aprosexia
 autecologic
-alur
 alurgite
 autocephalic
 alushtite
