@@ -9846,7 +9846,6 @@ corrugates
 cowardliness
 clubroot
 combattants
-carpologist
 coze
 chemick
 calanid
@@ -25589,6 +25588,7 @@ concertanto
 corporalship
 corporas
 corporate
+carpologist
 christenmas
 corporately
 corporateness
