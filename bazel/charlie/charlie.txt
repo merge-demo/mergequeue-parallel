@@ -17506,7 +17506,6 @@ cobbin
 cobbing
 cumulite
 causeries
-cobble
 capax
 cobbled
 cobblerfish
@@ -31080,6 +31079,7 @@ cundurango
 cuneal
 cuneately
 cuneatic
+cobble
 cunei
 cuneiform
 cuneiformist
