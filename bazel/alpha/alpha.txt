@@ -2155,7 +2155,6 @@ abradant
 acholous
 arsylene
 acholuric
-abut
 alguazil
 anourous
 achomawi
@@ -10686,6 +10685,7 @@ analities
 aminopeptidase
 anisodactyl
 aminopherase
+abut
 apothec
 aminopyrine
 aminoplastic
