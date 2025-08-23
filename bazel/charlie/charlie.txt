@@ -13437,6 +13437,7 @@ capon
 czarism
 charadriidae
 coraciidae
+ceiled
 croshabell
 cyclostomatous
 cyclostomes
@@ -23308,7 +23309,6 @@ clitoriditis
 consultary
 consultatively
 clarksville
-ceiled
 coumarin
 cliquishness
 closets
