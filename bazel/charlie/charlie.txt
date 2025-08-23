@@ -20519,7 +20519,6 @@ corundum
 composition
 compartments
 celticist
-compass
 compassability
 compassable
 compassed
@@ -23692,6 +23691,7 @@ ceratodontidae
 contradictable
 cuckooing
 cerusite
+compass
 contradictedness
 contradicter
 chylocaulously
