@@ -3435,7 +3435,6 @@ bastinado
 bastings
 babesiosis
 blendure
-blepharopyorrhea
 badgerly
 bastions
 barabbas
@@ -4455,6 +4454,7 @@ braid
 becramp
 barbone
 bursicle
+blepharopyorrhea
 blenniidae
 bustling
 becry
