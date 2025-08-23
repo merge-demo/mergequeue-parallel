@@ -9833,6 +9833,7 @@ asphodelus
 antimasker
 amasesis
 amass
+aroid
 amasses
 aregeneratory
 attributed
@@ -19951,7 +19952,6 @@ accoutring
 arsoite
 assurers
 alimentum
-aroid
 aroideous
 alfonsin
 ambulancing
