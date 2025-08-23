@@ -181,6 +181,7 @@ antimonarchic
 abbate
 advertizable
 ashtray
+acidyl
 aerologist
 abbatial
 anabathmoi
@@ -8011,7 +8012,6 @@ alfur
 alga
 algaecide
 archhouse
-acidyl
 algaeological
 acephalism
 algaeologist
