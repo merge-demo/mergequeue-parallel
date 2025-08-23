@@ -5106,7 +5106,6 @@ anatomicomedical
 af
 avernal
 afterpart
-automate
 afara
 accend
 ambiency
@@ -5833,6 +5832,7 @@ altisonant
 actinocrinidae
 achroiocythemia
 asthenic
+automate
 ambisporangiate
 acetylator
 aggenerate
