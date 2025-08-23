@@ -6320,7 +6320,6 @@ chilectropion
 cabrie
 calycular
 causal
-cacique
 candystick
 causality
 causalities
@@ -26714,6 +26713,7 @@ cars
 counterbattery
 counterbend
 calamitously
+cacique
 counterblast
 counterborder
 counterbore
