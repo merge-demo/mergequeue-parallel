@@ -5059,7 +5059,6 @@ doorstead
 deemphasis
 denationalise
 dexiocardia
-denationalize
 decaesarize
 densification
 dayal
@@ -6416,6 +6415,7 @@ druidic
 deewans
 disadvanced
 derride
+denationalize
 derriere
 dactyli
 discriminatory
