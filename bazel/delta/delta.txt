@@ -4203,7 +4203,6 @@ delocalize
 dermoreaction
 decrustation
 dretch
-dextrorotatary
 decrement
 denigrators
 dicyclica
@@ -11140,6 +11139,7 @@ disassociate
 disassociates
 disasters
 dimerize
+dextrorotatary
 dorlach
 doupioni
 dumbfound
