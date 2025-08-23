@@ -8432,7 +8432,6 @@ alkaline
 andorobo
 ankylostoma
 alkalinity
-alkalinities
 abactor
 augmentations
 archology
@@ -14132,6 +14131,7 @@ antequalm
 abmho
 arduous
 affront
+alkalinities
 assobre
 antereformational
 assyrians
