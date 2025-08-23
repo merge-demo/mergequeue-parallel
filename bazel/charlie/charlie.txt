@@ -24331,7 +24331,6 @@ cookhouse
 currawang
 cookhouses
 cooky
-cookie
 cookishly
 colloquia
 convert
@@ -27031,6 +27030,7 @@ counterproductive
 counterproductively
 counterprogramming
 counterproject
+cookie
 cyclitis
 counterpronunciamento
 cetylene
