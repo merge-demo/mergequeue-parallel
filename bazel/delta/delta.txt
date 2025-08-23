@@ -7900,7 +7900,6 @@ desecration
 delphinite
 draconianism
 desperadoes
-defrock
 degringolade
 dewlapped
 deuniting
@@ -11939,6 +11938,7 @@ doorba
 defeise
 discompose
 dwells
+defrock
 dramatizes
 downrange
 domes

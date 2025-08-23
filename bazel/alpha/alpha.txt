@@ -1360,6 +1360,7 @@ airtightly
 awingly
 accentors
 accents
+acuate
 auxillary
 accentually
 appertise
@@ -8452,7 +8453,6 @@ alacreatinine
 alkalize
 alkalizer
 alkalizes
-acuate
 alkalizing
 alkaloid
 alkaloids
