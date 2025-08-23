@@ -5873,7 +5873,6 @@ diachoresis
 demeaning
 disconcert
 deprecative
-dissolvable
 deprecator
 deprecatory
 deoxidised
@@ -11951,6 +11950,7 @@ disbloom
 disembarks
 dentifrices
 degum
+dissolvable
 decrease
 deutovum
 disembitter
