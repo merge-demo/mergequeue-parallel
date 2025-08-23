@@ -1057,7 +1057,6 @@ curiology
 calced
 calcedon
 caprine
-chukor
 carbamidine
 chitinocalcareous
 circumcisions
@@ -10413,6 +10412,7 @@ chieftain
 chieftaincy
 chieftainess
 chieftainry
+chukor
 complexify
 chieftainries
 concludendi
