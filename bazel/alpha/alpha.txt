@@ -10093,6 +10093,7 @@ acidimetry
 apolog
 ambreic
 ambrein
+accurately
 archdiocese
 adytum
 ambrettolide
@@ -24327,7 +24328,6 @@ antimedievalist
 arg
 autorhythmus
 aselgeia
-accurately
 authorly
 amaroidal
 autorotation
