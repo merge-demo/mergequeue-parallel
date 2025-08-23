@@ -10557,6 +10557,7 @@ amylase
 amylases
 amylate
 aglyphodontia
+aglycosuric
 amildar
 angelicas
 amylemia
@@ -17290,7 +17291,6 @@ arithmometer
 apostille
 argos
 antagonist
-aglycosuric
 apheliotropically
 apostles
 apostleship
