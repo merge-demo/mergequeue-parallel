@@ -711,6 +711,7 @@ duro
 dopester
 diatom
 deadmelt
+dipter
 danceability
 defailment
 danceable
@@ -13911,7 +13912,6 @@ distending
 dermatopathophobia
 drowns
 disalike
-dipter
 distensions
 disprison
 disterminate
