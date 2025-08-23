@@ -17146,6 +17146,7 @@ butyrate
 bullishness
 buffa
 bullition
+bine
 bar
 boggin
 bassi
@@ -17848,7 +17849,6 @@ burushaski
 ballistocardiogram
 bounder
 busaos
-bine
 busbar
 busbars
 biurate
