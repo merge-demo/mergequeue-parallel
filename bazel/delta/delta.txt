@@ -6407,7 +6407,6 @@ denization
 demarcate
 dewans
 diglyphic
-docquet
 druidic
 deewans
 disadvanced
@@ -11818,6 +11817,7 @@ discriminoid
 decemberly
 diacodion
 disgregate
+docquet
 dyscrinism
 dipchick
 discrowned
