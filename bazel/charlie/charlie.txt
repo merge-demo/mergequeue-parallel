@@ -3104,7 +3104,6 @@ capable
 capableness
 clayoquot
 challengingly
-cirque
 cornific
 capabler
 capably
@@ -29211,6 +29210,7 @@ cryptaesthesia
 conflictual
 cryptamnesia
 chattingly
+cirque
 cryptamnesic
 cryptanalytically
 cryptanalytics
