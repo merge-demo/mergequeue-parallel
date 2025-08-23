@@ -3621,6 +3621,7 @@ bus
 birlinn
 batiks
 became
+bleacheries
 bolting
 batistes
 beastly
@@ -10674,7 +10675,6 @@ bodhi
 bethreaten
 bleeped
 bleeps
-bleacheries
 batonne
 boroughmongery
 blepharoplegia
