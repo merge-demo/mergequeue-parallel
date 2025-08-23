@@ -1578,6 +1578,7 @@ dysgenesic
 dhanush
 demand
 diplomata
+diastrophy
 disposition
 determinatively
 desitive
@@ -10325,7 +10326,6 @@ dionysiac
 dionysiacally
 dionysus
 dirigibles
-diastrophy
 dionize
 dioon
 diophysite
