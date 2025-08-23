@@ -6494,7 +6494,6 @@ ayatollah
 aiblins
 antileptic
 arthrodynic
-aidance
 aidant
 anhedonia
 antimatrimonialist
@@ -17205,6 +17204,7 @@ ailurophobia
 aspersoria
 apophlegm
 appointe
+aidance
 apophlegmatic
 anaerobic
 antimaterialistically
