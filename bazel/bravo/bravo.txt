@@ -1617,6 +1617,7 @@ ballotade
 boud
 boyarism
 blier
+benzothiodiazole
 burletta
 butyrous
 bilobated
@@ -6440,7 +6441,6 @@ behoot
 blowup
 benzothiazine
 benzothiazoline
-benzothiodiazole
 bergamiol
 bumpering
 backcloth
