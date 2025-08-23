@@ -8716,7 +8716,6 @@ chanteur
 chanteuse
 chanteuses
 chanticleer
-crenelations
 chanticleers
 chantier
 capreomycin
@@ -22212,6 +22211,7 @@ confutes
 confuting
 cong
 canadians
+crenelations
 conga
 congaed
 culttelli
