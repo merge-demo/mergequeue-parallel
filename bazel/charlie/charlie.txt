@@ -5903,6 +5903,7 @@ catfaced
 constructable
 chivy
 catfacing
+crosscheck
 catfall
 catfalls
 catfight
@@ -8168,7 +8169,6 @@ crepuscule
 conceptions
 chainless
 counteractions
-crosscheck
 chumping
 craspedon
 chainlike
