@@ -16953,7 +16953,6 @@ apoatropine
 apobiotic
 apoblast
 aview
-adhamant
 apocalypse
 apocalypses
 apocalypst
@@ -24383,6 +24382,7 @@ autosomal
 arbalo
 anthrax
 autosomes
+adhamant
 antimiscegenation
 aani
 autosoterism
