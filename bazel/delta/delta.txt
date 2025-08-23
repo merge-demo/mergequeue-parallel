@@ -3717,6 +3717,7 @@ daytale
 dehydrocorticosterone
 drabble
 drepanoid
+diecase
 didact
 dehydrogenate
 dawtet
@@ -17695,7 +17696,6 @@ disgradulate
 duan
 drenching
 declamatoriness
-diecase
 dichotomistic
 drays
 downlying
