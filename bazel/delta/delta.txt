@@ -681,7 +681,6 @@ dextrosuria
 diacetylene
 dampproof
 dyspepsy
-determinist
 doumaist
 distributes
 damselfishes
@@ -14516,6 +14515,7 @@ diverts
 decurrency
 deferment
 divested
+determinist
 doradidae
 dicynodontidae
 davit
