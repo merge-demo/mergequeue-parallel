@@ -7026,7 +7026,6 @@ archaeornis
 akhara
 andante
 akhyana
-astrild
 anecdotalist
 akhissar
 agaricin
@@ -16058,6 +16057,7 @@ antiseismic
 antiselene
 antisemitic
 antisemitism
+astrild
 antisensitivity
 anterior
 ajowans
