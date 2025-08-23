@@ -9711,6 +9711,7 @@ bissextile
 bissextus
 bullbats
 balding
+bricklike
 bombylious
 begobs
 barleduc
@@ -15190,7 +15191,6 @@ bricklayers
 bummery
 brickle
 bulbospinal
-bricklike
 beclose
 blennoid
 backstrip
