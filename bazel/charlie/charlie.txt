@@ -26247,7 +26247,6 @@ costeaning
 costectomy
 costectomies
 costed
-coinmaker
 consultatory
 condylopod
 clutters
@@ -26734,6 +26733,7 @@ counterchanged
 countercharm
 counterclaim
 cirriform
+coinmaker
 counterclaims
 counterclassifications
 countercolored
