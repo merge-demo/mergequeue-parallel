@@ -10894,7 +10894,6 @@ aramids
 amnios
 amniota
 amidship
-amniotes
 antipreparedness
 amniotic
 amniotin
@@ -19785,6 +19784,7 @@ armenoid
 amphirhina
 armer
 assaulted
+amniotes
 aspires
 armers
 autumnal

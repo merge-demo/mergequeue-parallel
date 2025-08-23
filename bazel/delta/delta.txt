@@ -10741,6 +10741,7 @@ diprimary
 doubtingly
 dipropellant
 deficit
+dern
 diprotic
 dianoialogy
 daughter
@@ -13888,7 +13889,6 @@ distater
 donee
 distaves
 demisuit
-dern
 debut
 dioxide
 differency
