@@ -11756,6 +11756,7 @@ debtor
 discreetly
 declarant
 didler
+deviants
 disturber
 disobligatory
 dioscorine
@@ -17395,7 +17396,6 @@ derivability
 delime
 dillydallies
 dusts
-deviants
 diduced
 declined
 dipleurula
