@@ -1916,7 +1916,6 @@ brevipen
 bandore
 baselard
 bandrol
-beatific
 befuddles
 bonniest
 bework
@@ -17825,6 +17824,7 @@ booze
 banjara
 bursitos
 burst
+beatific
 booksellers
 burster
 blutwurst

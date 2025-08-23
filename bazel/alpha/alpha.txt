@@ -14913,7 +14913,6 @@ assassinates
 antozone
 arara
 anticonfederative
-anticonformity
 antiaristocracy
 arthropterous
 annulled
@@ -15390,6 +15389,7 @@ antiprogressive
 androlepsy
 asslike
 antimason
+anticonformity
 antimasque
 antimasquer
 afterstrain
