@@ -881,7 +881,6 @@ decrescendo
 dandling
 deliberative
 deve
-dansy
 dansker
 danta
 droppy
@@ -12001,6 +12000,7 @@ disenchant
 dowd
 dimolecular
 disenchantments
+dansy
 disenchantress
 depluming
 difforme
