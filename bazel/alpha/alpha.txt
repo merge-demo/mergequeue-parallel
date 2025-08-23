@@ -16859,6 +16859,7 @@ apimanias
 apina
 aciculated
 armillated
+averments
 aping
 ameliorative
 apioceridae
@@ -24641,7 +24642,6 @@ averment
 annuli
 acinetarian
 anopheline
-averments
 admove
 aureolae
 aeneid
