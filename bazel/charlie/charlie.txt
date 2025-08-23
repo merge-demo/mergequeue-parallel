@@ -23640,6 +23640,7 @@ chivvies
 courteous
 contr
 contrabandage
+chirpling
 contrabandery
 causticiser
 contrabandista
@@ -29701,7 +29702,6 @@ cromster
 contemporanean
 countermissile
 chronicles
-chirpling
 cromwellian
 cronartium
 caddiing
