@@ -1802,7 +1802,6 @@ adumbratively
 acephalocyst
 alveloz
 assembles
-assyriologist
 acephalous
 alackaday
 adduct
@@ -2053,6 +2052,7 @@ autoscopy
 andantini
 acheron
 apostematous
+assyriologist
 acheronian
 achroous
 acherontical
