@@ -5393,6 +5393,7 @@ denaturalizing
 dolldom
 dielytra
 disrate
+diavolo
 diasene
 dentulous
 dentural
@@ -13618,7 +13619,6 @@ demicritic
 drawnet
 dorcopsis
 dissentive
-diavolo
 datakit
 doggereler
 drawlers
