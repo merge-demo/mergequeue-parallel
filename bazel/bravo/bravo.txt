@@ -10972,7 +10972,6 @@ barlow
 bicuspids
 blithe
 burliest
-baggies
 bijectively
 blithesomely
 bkgd
@@ -17909,6 +17908,7 @@ broadaxes
 bahmanid
 belton
 brahmanda
+baggies
 bungy
 besour
 beminstrel

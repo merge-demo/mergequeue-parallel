@@ -13221,7 +13221,6 @@ displants
 demoralize
 determination
 daunt
-durums
 displat
 displeasance
 daukin
@@ -14087,6 +14086,7 @@ dyspepsies
 draughtman
 distributary
 distributaries
+durums
 designative
 doocot
 distribute
