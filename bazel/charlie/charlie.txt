@@ -5360,7 +5360,6 @@ castellano
 cosmonaut
 castellans
 cinerararia
-chaufer
 castellate
 castellation
 castellatus
@@ -14076,6 +14075,7 @@ cyphomandra
 ciphonies
 cyphonism
 constrain
+chaufer
 celiorrhaphy
 caziques
 cargador
