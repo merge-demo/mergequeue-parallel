@@ -4448,7 +4448,6 @@ ankle
 antebridal
 aglycone
 atelectatic
-adverbial
 adverbially
 acloud
 aggerose
@@ -17397,6 +17396,7 @@ athyris
 appalling
 assigneeship
 appallingness
+adverbial
 alcalzar
 armaturing
 agrestis
