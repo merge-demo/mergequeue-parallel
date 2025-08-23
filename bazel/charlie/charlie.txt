@@ -9651,7 +9651,6 @@ cheepier
 cheepiest
 cheepiness
 ceramidium
-cyathozooid
 cubiculary
 contrabandism
 cheered
@@ -27002,6 +27001,7 @@ curatage
 conjure
 chimneypot
 counterpoints
+cyathozooid
 cataleptiform
 contestable
 chronical
