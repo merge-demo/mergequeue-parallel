@@ -9908,7 +9908,6 @@ blatherer
 bittings
 boodle
 budders
-boget
 bitubercular
 bellyflaught
 bedticking
@@ -16709,6 +16708,7 @@ bedfoot
 bucktooth
 bucktoothed
 bemba
+boget
 bucku
 buckwagon
 boodie
