@@ -5254,7 +5254,6 @@ disputativeness
 denouncement
 denouncements
 digladiate
-deprehensible
 denouncer
 dissymmetry
 dens
@@ -14799,6 +14798,7 @@ dimidiated
 dizdar
 dasycladaceous
 divinator
+deprehensible
 duppy
 disabusal
 diaheliotropically
