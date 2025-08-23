@@ -7396,7 +7396,6 @@ botrydium
 betrend
 braveries
 betrothing
-betrothment
 betroths
 bromine
 betrousered
@@ -9696,6 +9695,7 @@ bacchanalianly
 bedpad
 bisquette
 bissabol
+betrothment
 birdmouthed
 byssal
 bigam
