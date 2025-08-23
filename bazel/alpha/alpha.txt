@@ -12100,6 +12100,7 @@ anatropia
 antiquers
 andesinite
 arrowheads
+abeyancies
 agremens
 anatta
 arachnidium
@@ -24885,7 +24886,6 @@ awaited
 antiqued
 abstention
 afforestable
-abeyancies
 awaiters
 accoladed
 atavisms

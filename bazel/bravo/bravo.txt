@@ -3329,6 +3329,7 @@ brontolith
 boller
 burgoos
 bronchobuster
+barbu
 basoid
 baraithas
 beltine
@@ -16858,7 +16859,6 @@ bullfighting
 brei
 blurring
 bufo
-barbu
 bivalves
 bulbil
 barvell
