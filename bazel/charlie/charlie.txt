@@ -6911,6 +6911,7 @@ celtiform
 celtillyrians
 consortiums
 celtis
+cowal
 celtish
 celtism
 celtium
@@ -27295,7 +27296,6 @@ chelifer
 cattiness
 coupon
 cornbrash
-cowal
 concatenating
 couponless
 coupons
