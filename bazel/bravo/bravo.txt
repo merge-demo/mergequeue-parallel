@@ -1990,7 +1990,6 @@ bandcutter
 banisher
 bovista
 banishing
-banyuls
 baniva
 brittonic
 borofluorin
@@ -9496,6 +9495,7 @@ birthless
 bombycinous
 blastemata
 brayera
+banyuls
 boarfishes
 bacteria
 besaint
