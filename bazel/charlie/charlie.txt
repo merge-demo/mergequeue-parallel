@@ -14579,7 +14579,6 @@ cislunar
 cismontanism
 counterappeal
 cisplatine
-cispontine
 cisrhenane
 cissampelos
 conster
@@ -26421,6 +26420,7 @@ cotorment
 cotoro
 civilizing
 covets
+cispontine
 cotoros
 cellulase
 calligraph
