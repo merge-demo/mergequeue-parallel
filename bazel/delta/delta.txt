@@ -2613,7 +2613,6 @@ dispose
 decolors
 duopsonies
 decolouration
-daedalean
 denunciated
 dogmatism
 decempeda
@@ -7539,6 +7538,7 @@ discriminational
 dextrality
 doncy
 doyly
+daedalean
 deuteroproteose
 drawout
 derner
