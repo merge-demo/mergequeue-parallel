@@ -16442,7 +16442,6 @@ clitia
 copolymerizations
 chromobacterieae
 camenae
-clitoral
 clitoria
 coverers
 cantonese
@@ -27780,6 +27779,7 @@ coquitos
 coxes
 creeper
 chondrogeny
+clitoral
 coxite
 coxitis
 checkouts
