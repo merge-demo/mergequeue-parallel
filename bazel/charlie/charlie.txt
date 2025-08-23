@@ -2781,7 +2781,6 @@ cannibalizing
 coelomes
 cannibally
 cableman
-cannie
 cannier
 canning
 cannings
@@ -11607,6 +11606,7 @@ cholecystectomized
 clammier
 chimachima
 countermeasure
+cannie
 cholecystenterorrhaphy
 cholecystenterostomy
 cholecystgastrostomy
