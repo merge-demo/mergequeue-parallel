@@ -4677,7 +4677,6 @@ carousels
 carp
 carpaine
 carpals
-chela
 carpathian
 carpe
 carped
@@ -16247,6 +16246,7 @@ clinchers
 clinches
 cenanthous
 charmingly
+chela
 clinchingly
 capkin
 chargeability
