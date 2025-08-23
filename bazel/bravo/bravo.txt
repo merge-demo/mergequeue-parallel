@@ -5757,7 +5757,6 @@ bedflower
 beetlehead
 balaghat
 biophysics
-beaverroot
 busying
 bellbinder
 bellbine
@@ -15041,6 +15040,7 @@ blindism
 breird
 brekkle
 baldricks
+beaverroot
 boulevardiers
 bremsstrahlung
 brushmaker
