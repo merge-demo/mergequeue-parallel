@@ -2104,6 +2104,7 @@ doab
 duddies
 despoilment
 decameron
+dissyllabize
 digraph
 dihydrol
 decamethonium
@@ -8846,7 +8847,6 @@ debilissima
 dibhole
 dualized
 diabolatry
-dissyllabize
 diborate
 dibothriocephalus
 daughterless
