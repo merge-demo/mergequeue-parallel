@@ -12811,7 +12811,6 @@ apolysin
 anatabine
 anglicization
 amarant
-apneumatosis
 allineate
 aditio
 anglicized
@@ -22197,6 +22196,7 @@ ablest
 astringents
 astringer
 astrionics
+apneumatosis
 asynartete
 ableeze
 arterials
