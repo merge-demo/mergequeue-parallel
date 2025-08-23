@@ -9802,6 +9802,7 @@ cysts
 chelide
 csardas
 cowheart
+classified
 chelydidae
 centas
 chelidonic
@@ -15628,7 +15629,6 @@ classificator
 culicidae
 capelline
 classificatory
-classified
 catallum
 cotwinned
 censive
