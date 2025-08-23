@@ -1088,7 +1088,6 @@ benefactors
 backword
 blepharelcosis
 bayong
-babongo
 bairagi
 bismarckianism
 bairdi
@@ -17387,6 +17386,7 @@ bombyciform
 beshield
 bewitchments
 blepharosyndesmitis
+babongo
 bunk
 begrudged
 belinurus
