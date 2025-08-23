@@ -7565,7 +7565,6 @@ antilepsis
 antennulary
 accident
 anisokonia
-allograph
 adiactinic
 abstracters
 alchemists
@@ -24930,6 +24929,7 @@ awater
 arachis
 awave
 atilt
+allograph
 antitartaric
 acrophonic
 audits
