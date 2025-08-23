@@ -9324,7 +9324,6 @@ chattered
 chincapin
 chatterers
 circuitously
-cassidoine
 chattererz
 chattery
 chattermag
@@ -12941,6 +12940,7 @@ churingas
 churl
 convoys
 curmurring
+cassidoine
 churlier
 corrugations
 churlishness
