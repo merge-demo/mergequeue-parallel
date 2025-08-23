@@ -831,6 +831,7 @@ chidingness
 cainian
 couteau
 cainish
+canisiana
 contaminated
 carburation
 cainite
@@ -30775,7 +30776,6 @@ cytoparaplastin
 culicifugal
 culicifuge
 culicinae
-canisiana
 cistic
 cloudbursts
 culicine
