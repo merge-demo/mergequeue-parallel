@@ -24819,6 +24819,7 @@ coquets
 chloragogen
 coquette
 cleome
+cantred
 coquettishly
 curlycue
 colourfast
@@ -25846,7 +25847,6 @@ corruptive
 corruptively
 coprinae
 corruptly
-cantred
 corruptor
 conglutinative
 chapper

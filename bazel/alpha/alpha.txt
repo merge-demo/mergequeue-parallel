@@ -3873,7 +3873,6 @@ asiaticization
 adjudicatory
 aerostats
 akinetic
-antistrophically
 adjudicators
 amores
 aversely
@@ -14027,6 +14026,7 @@ antefix
 anaesthyl
 antefurcae
 antehall
+antistrophically
 antehypophysis
 aedoeagus
 amices
