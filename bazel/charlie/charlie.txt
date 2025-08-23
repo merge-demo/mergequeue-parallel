@@ -8460,6 +8460,7 @@ chamisal
 capeskin
 chamise
 chamises
+cladothrix
 chamiso
 cervicohumeral
 caryopteris
@@ -18287,7 +18288,6 @@ chartings
 coffeegrower
 cantinas
 carbonari
-cladothrix
 cuss
 capelets
 coffeehouse
