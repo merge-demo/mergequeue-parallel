@@ -3223,7 +3223,6 @@ bantingize
 bedouin
 basilica
 belverdian
-basilical
 bannerol
 brookable
 backoff
@@ -5726,6 +5725,7 @@ believability
 believer
 believers
 beamful
+basilical
 bureaucratese
 bloomery
 blankite
