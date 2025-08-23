@@ -2539,7 +2539,6 @@ decretist
 declimatize
 driblets
 declinational
-decasualization
 dipneumones
 dimmed
 dynasty
@@ -18558,6 +18557,7 @@ despaired
 derri
 durry
 dappled
+decasualization
 durrin
 durrs
 durukuli
