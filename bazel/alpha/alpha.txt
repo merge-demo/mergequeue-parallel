@@ -6746,7 +6746,6 @@ androcyte
 atraumatic
 airhead
 amorosa
-ascula
 aquiculturist
 auricularly
 aeromarine
@@ -24920,6 +24919,7 @@ awards
 aware
 acheilary
 arrondissements
+ascula
 awareness
 anovular
 awaruite
