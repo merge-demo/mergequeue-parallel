@@ -5402,7 +5402,6 @@ banstickle
 bloodripeness
 briquets
 babelic
-blastomycotic
 bakshish
 begummed
 biolite
@@ -11487,6 +11486,7 @@ budder
 blufter
 bluggy
 bispore
+blastomycotic
 bethwack
 bluish
 blumes
