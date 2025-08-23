@@ -8974,7 +8974,6 @@ biolinguistics
 belted
 biolyses
 bouleverse
-beneficium
 bludgeoneer
 benzazide
 bitting
@@ -10422,6 +10421,7 @@ boviform
 bribetaking
 biune
 beachboy
+beneficium
 bastion
 boghole
 bimuscular
