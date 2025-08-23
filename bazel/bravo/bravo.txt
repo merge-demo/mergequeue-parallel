@@ -4887,6 +4887,7 @@ bourbons
 belaud
 blackeyes
 bolderian
+bitumen
 biguttate
 bobac
 burrowstown
@@ -8655,7 +8656,6 @@ bitterish
 benshea
 bluffed
 bilsh
-bitumen
 bifluorid
 bilsteds
 blepharostat
