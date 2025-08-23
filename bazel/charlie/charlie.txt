@@ -13189,7 +13189,6 @@ cytogenies
 coverless
 cudgelled
 cicatrice
-colocolo
 cicatrices
 cicatricle
 copastorate
@@ -15928,6 +15927,7 @@ cleidocostal
 cleidohyoid
 cleidoic
 chiromance
+colocolo
 cushily
 cherts
 cleidomancy
