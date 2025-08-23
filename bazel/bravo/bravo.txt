@@ -8820,6 +8820,7 @@ braeface
 bejelling
 bilimbi
 barrelhead
+bashless
 binomially
 blondness
 binomials
@@ -18153,7 +18154,6 @@ bunco
 benching
 butyn
 botanicas
-bashless
 bacillicide
 butyryls
 butyrin
