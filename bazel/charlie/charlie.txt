@@ -10330,7 +10330,6 @@ chickamauga
 chickasaw
 catechumenically
 chickees
-clupeiform
 chickell
 chicken
 chainsmen
@@ -27676,6 +27675,7 @@ cowinner
 cowish
 copsole
 circumdate
+clupeiform
 cowitch
 coercionist
 cycloplegia
