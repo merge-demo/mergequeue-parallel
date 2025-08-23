@@ -6104,6 +6104,7 @@ barricader
 bend
 bester
 bub
+bedabbles
 bendee
 bullwhips
 braza
@@ -7974,7 +7975,6 @@ bicyclic
 bicyclism
 blastaea
 bicyclist
-bedabbles
 bostal
 bicycular
 biciliated
