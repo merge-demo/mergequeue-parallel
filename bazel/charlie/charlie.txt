@@ -15181,7 +15181,6 @@ chubbily
 cornucopiae
 cladodontidae
 cladodus
-cladogenesis
 cladogenetic
 cladogenetically
 cladogenous
@@ -25158,6 +25157,7 @@ corfiote
 cathartae
 crampoons
 chrysocale
+cladogenesis
 corge
 cory
 curculionist
