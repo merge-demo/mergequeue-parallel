@@ -2795,6 +2795,7 @@ brazee
 barmie
 bookends
 body
+banting
 barosinusitus
 barosmin
 backwashed
@@ -4418,7 +4419,6 @@ beclogs
 bretonian
 bilabials
 beclothe
-banting
 bonasus
 breathtakingly
 bhili
