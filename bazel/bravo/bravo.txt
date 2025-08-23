@@ -668,7 +668,6 @@ basos
 brioche
 bicorne
 bombo
-bungey
 biannual
 begall
 bronchiolitis
@@ -11454,6 +11453,7 @@ bedoctor
 blintze
 biddery
 borophenol
+bungey
 bluewoods
 bruckleness
 berapt
