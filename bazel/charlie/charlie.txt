@@ -2480,7 +2480,6 @@ candelilla
 conductible
 choraguses
 certitude
-clang
 cacodemonic
 cassidony
 colloidally
@@ -19053,6 +19052,7 @@ collectivizes
 collectivizing
 collectivum
 cocrucify
+clang
 collectorate
 collectors
 circumscissile
