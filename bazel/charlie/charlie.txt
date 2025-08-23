@@ -15388,7 +15388,6 @@ cappella
 clangour
 clangoured
 clangouring
-cakewalks
 campings
 clangours
 clangs
@@ -28996,6 +28995,7 @@ criminalistic
 countersecurity
 chesterlite
 criminalistics
+cakewalks
 criminality
 circulatory
 criminally
