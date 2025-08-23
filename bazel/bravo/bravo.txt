@@ -3672,7 +3672,6 @@ bedboard
 baste
 bucketful
 bally
-belfather
 batteaux
 bedirty
 bonnering
@@ -12379,6 +12378,7 @@ boonk
 bombonne
 bombora
 bawls
+belfather
 beswarmed
 bombus
 bombardelle
