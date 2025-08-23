@@ -1827,6 +1827,7 @@ backstabber
 bandelette
 banderma
 banderol
+blet
 banderole
 bindings
 brigading
@@ -1959,7 +1960,6 @@ bangkok
 bacteriogenous
 bangladesh
 bespatters
-blet
 boobialla
 bandworm
 bangled
