@@ -881,7 +881,6 @@ biacromial
 bagmaker
 bagnes
 bastnaesite
-bitriseptate
 blowze
 bullboat
 burdies
@@ -18139,6 +18138,7 @@ butenyl
 babuina
 buteonine
 bods
+bitriseptate
 boisseaux
 bacillite
 balsamize
