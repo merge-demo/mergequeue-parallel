@@ -20477,7 +20477,6 @@ comparatival
 comparative
 callianassidae
 cacophonia
-comparatives
 cpi
 contratabular
 comparativist
@@ -20876,6 +20875,7 @@ compositely
 composites
 compositing
 compositional
+comparatives
 cacoepist
 conspirational
 compositor
