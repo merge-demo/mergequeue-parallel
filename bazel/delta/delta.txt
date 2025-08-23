@@ -15198,6 +15198,7 @@ dagbamba
 dohickey
 doyenne
 diprotodont
+doghouses
 deduction
 doyens
 disilicid
@@ -15676,7 +15677,6 @@ doorpiece
 drivel
 dowl
 dawdle
-doghouses
 detumescent
 displacement
 derth
