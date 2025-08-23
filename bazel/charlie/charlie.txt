@@ -6551,6 +6551,7 @@ coagulants
 cawney
 clinanthia
 counterpetition
+calliopean
 cylindrosporium
 cardmaker
 cawquaw
@@ -17316,7 +17317,6 @@ coalless
 coalmouse
 commentaries
 counterdrain
-calliopean
 coalpit
 cryptograph
 coalsack
