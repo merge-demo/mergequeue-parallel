@@ -3640,7 +3640,6 @@ arco
 alliteration
 antiquity
 atlantomastoid
-anchorhold
 ambustion
 autere
 agillawood
@@ -12415,6 +12414,7 @@ appui
 anelectrotonus
 ahmadiya
 adipocere
+anchorhold
 antidotically
 akeki
 anilic
