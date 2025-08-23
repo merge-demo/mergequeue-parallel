@@ -7922,6 +7922,7 @@ biblists
 butanone
 bowlders
 buoyed
+bezoar
 blockwood
 bushido
 buibui
@@ -11052,7 +11053,6 @@ bavaroy
 ballyhooer
 brazilette
 basketball
-bezoar
 blocked
 blocker
 brid
