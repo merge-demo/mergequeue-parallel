@@ -14469,6 +14469,7 @@ citrus
 clicky
 circumvest
 circumvoisin
+chophouse
 contrapletal
 circumvolution
 curdler
@@ -31695,7 +31696,6 @@ cuspid
 compoing
 cuspidal
 cuspidate
-chophouse
 cuspides
 chondromyxoma
 cesuras
