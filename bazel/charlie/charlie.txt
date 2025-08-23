@@ -27583,7 +27583,6 @@ caterwauled
 cornicle
 covillager
 covine
-censes
 cymatium
 coving
 carapus
@@ -30221,6 +30220,7 @@ cruised
 controllers
 cruises
 cruising
+censes
 cruive
 cruller
 conglobately

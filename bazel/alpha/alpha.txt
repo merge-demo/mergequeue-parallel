@@ -1136,7 +1136,6 @@ ataghans
 abuttals
 abutters
 abetting
-abwab
 ac
 acacatechol
 acacia
@@ -14914,6 +14913,7 @@ arthropterous
 annulled
 amidohexose
 antilogy
+abwab
 avyayibhava
 asellidae
 androtauric
