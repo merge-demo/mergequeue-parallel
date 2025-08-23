@@ -14847,7 +14847,6 @@ antiaphthic
 aburagiri
 ankaratrite
 ambassadress
-afflictive
 anticlergy
 anticlerical
 anticlericalism
@@ -16224,6 +16223,7 @@ anilid
 antitintinnabularian
 atmidometry
 argentous
+afflictive
 antitypal
 antityphoid
 amaroid
