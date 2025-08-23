@@ -7488,7 +7488,6 @@ devachan
 degger
 dibase
 dioxin
-disentwine
 denda
 deusan
 dogtrots
@@ -9177,6 +9176,7 @@ dye
 dogship
 dalk
 duelled
+disentwine
 desoxycinchonine
 decalog
 diptych
