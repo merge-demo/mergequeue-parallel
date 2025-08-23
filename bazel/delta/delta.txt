@@ -13820,6 +13820,7 @@ dissuaded
 delayed
 dalteen
 debunk
+deertongue
 dissuades
 dissuading
 determinations
@@ -13906,7 +13907,6 @@ distemperedly
 dendritically
 drinn
 distemperer
-deertongue
 distemperoid
 distenant
 distending
