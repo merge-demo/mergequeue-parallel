@@ -10195,7 +10195,6 @@ deripia
 declarable
 dehonestate
 demirevetment
-disallowing
 dinophilea
 distillation
 dinging
@@ -17132,6 +17131,7 @@ diaboleptic
 detenebrate
 driftbolt
 drucken
+disallowing
 duller
 danaid
 driftfish

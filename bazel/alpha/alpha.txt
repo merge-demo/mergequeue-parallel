@@ -14990,7 +14990,6 @@ antidemocrat
 armstrong
 auroras
 alienator
-antidemocratically
 antidemoniac
 asarums
 antidepressant
@@ -25060,6 +25059,7 @@ axebreaker
 appallingly
 anesthetizer
 axel
+antidemocratically
 axemen
 arsine
 axenic
