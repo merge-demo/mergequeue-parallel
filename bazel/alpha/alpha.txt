@@ -9240,6 +9240,7 @@ aloyau
 aloid
 aloin
 aloins
+acidoid
 alois
 aloysia
 ashfall
@@ -17602,7 +17603,6 @@ abatement
 appreciably
 azotobacter
 antipasto
-acidoid
 actinians
 agrostis
 agathology
