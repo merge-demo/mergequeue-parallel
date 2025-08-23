@@ -1642,7 +1642,6 @@ difficulty
 daylong
 dimetrodon
 deodate
-domify
 devertebrated
 daydrudge
 dealkylate
@@ -16167,6 +16166,7 @@ dita
 dognaper
 dourah
 drochuil
+domify
 diolefinic
 dendrocoelous
 dourer
