@@ -2660,7 +2660,6 @@ canfields
 cantillating
 canfuls
 cangan
-charterist
 clumsiness
 cangy
 cangia
@@ -16735,6 +16734,7 @@ closky
 clupeoid
 chilopods
 cinnamonwood
+charterist
 coembody
 clostridian
 culilawan
