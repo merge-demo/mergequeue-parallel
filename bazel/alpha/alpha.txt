@@ -8425,6 +8425,7 @@ alkalinized
 alkalinizes
 arite
 acrolith
+araignee
 antilog
 albicore
 avogram
@@ -18261,7 +18262,6 @@ aragonspath
 antiminsion
 araguane
 araguato
-araignee
 arain
 arains
 antrotome
