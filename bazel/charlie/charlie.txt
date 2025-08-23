@@ -13543,7 +13543,6 @@ ciliated
 ciliately
 coolish
 ciliates
-canoness
 catalogued
 comedia
 caseating
@@ -21400,6 +21399,7 @@ conciseness
 clocks
 cosponsor
 concision
+canoness
 corrugation
 concitation
 cominform
