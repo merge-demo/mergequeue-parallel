@@ -921,7 +921,6 @@ dapifer
 devitalization
 dipnoi
 densus
-discontiguousness
 dominating
 decapsulate
 dioscurian
@@ -7737,6 +7736,7 @@ disastimeter
 decoded
 dogmatization
 desulphurized
+discontiguousness
 deviser
 devising
 direption
