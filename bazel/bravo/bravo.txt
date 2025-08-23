@@ -4579,6 +4579,7 @@ blared
 banters
 bowsprit
 bilker
+beau
 bedazzles
 bedazzlingly
 baptise
@@ -9342,7 +9343,6 @@ baleless
 bushi
 blirt
 bonniness
-beau
 bluebush
 butter
 bottommost

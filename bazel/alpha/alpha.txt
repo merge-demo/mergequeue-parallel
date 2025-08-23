@@ -9166,7 +9166,6 @@ almonries
 antimellin
 apinch
 apeak
-almoravide
 angiochondroma
 antievolutionally
 assumpsit
@@ -18739,6 +18738,7 @@ archespores
 autonephrectomy
 archesporial
 autocades
+almoravide
 archest
 aspersed
 archetypal
