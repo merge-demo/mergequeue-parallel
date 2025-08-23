@@ -2276,6 +2276,7 @@ acidnesses
 administrants
 acidology
 acidometer
+allotting
 afflation
 antipathies
 anacardium
@@ -7780,7 +7781,6 @@ ancistrocladaceae
 abeam
 alecithal
 angler
-allotting
 anniversariness
 aeried
 aleconner
