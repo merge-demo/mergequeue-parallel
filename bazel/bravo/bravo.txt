@@ -2687,7 +2687,6 @@ birefractive
 birdland
 boraxes
 beakhead
-bewaitered
 barnard
 benightment
 barnbrack
@@ -10841,6 +10840,7 @@ batekes
 bongrace
 betone
 blickie
+bewaitered
 blickies
 blighia
 britskas
