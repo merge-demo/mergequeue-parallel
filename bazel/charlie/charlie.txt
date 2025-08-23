@@ -13808,7 +13808,6 @@ cinders
 cindy
 cabbed
 collusive
-cine
 cineangiocardiography
 catery
 cineangiography
@@ -20726,6 +20725,7 @@ complexer
 casserole
 cuinfo
 complexes
+cine
 convolvuli
 consonantise
 complexest
