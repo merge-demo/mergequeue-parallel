@@ -559,7 +559,6 @@ befriendment
 biggishness
 batrachium
 bunt
-baccharis
 brith
 bandboxical
 bib
@@ -14954,6 +14953,7 @@ brecciated
 brecham
 bursar
 brechams
+baccharis
 brev
 brechans
 breakfaster
