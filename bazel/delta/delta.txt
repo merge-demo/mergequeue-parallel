@@ -312,6 +312,7 @@ dayak
 dum
 dayanim
 directories
+doctoring
 daybeacon
 daybed
 devchar
@@ -14863,7 +14864,6 @@ dispensating
 doctorial
 disadjust
 doctorially
-doctoring
 doctorize
 distinctness
 distributive
