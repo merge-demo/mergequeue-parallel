@@ -12791,7 +12791,6 @@ bilbo
 bookwards
 byronite
 bookworm
-bookwright
 booleans
 booleys
 booly
@@ -13799,6 +13798,7 @@ biodyne
 branchiostomid
 bizarres
 bistratal
+bookwright
 bowdlerising
 bemaddening
 buriat
