@@ -6503,7 +6503,6 @@ aidmen
 adjunctive
 aids
 afterripening
-arbalestre
 antiheterolysin
 apocarpous
 aiel
@@ -6770,6 +6769,7 @@ airlifting
 airlifts
 airlike
 airline
+arbalestre
 airlines
 airling
 airmailing
