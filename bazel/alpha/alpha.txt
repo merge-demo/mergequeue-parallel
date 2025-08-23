@@ -6661,7 +6661,6 @@ anthemene
 ainhum
 arthropleure
 axonometry
-amortisable
 alien
 ainoi
 appellatory
@@ -21334,6 +21333,7 @@ amanitopsis
 asparagic
 asparagyl
 antiglyoxalase
+amortisable
 asparagin
 arachnactis
 aphorizing
