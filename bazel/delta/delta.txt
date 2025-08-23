@@ -2063,7 +2063,6 @@ devotion
 diarial
 dimedon
 demivierge
-debilities
 decaying
 diopsimeter
 diety
@@ -14946,6 +14945,7 @@ disengagement
 dodecade
 dallas
 dodecafid
+debilities
 dodecahedral
 doctorate
 dieselization
