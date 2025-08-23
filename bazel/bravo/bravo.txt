@@ -5542,6 +5542,7 @@ bechamels
 bejel
 brawly
 bilineated
+bahaism
 babist
 bridehead
 bebled
@@ -13593,7 +13594,6 @@ bilskirnir
 brairo
 bigener
 brin
-bahaism
 bestorm
 boulework
 bordar
