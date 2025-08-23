@@ -8699,7 +8699,6 @@ dismayed
 dolesomely
 dehumanized
 diastoles
-diastomatic
 davyne
 diastral
 davits
@@ -15909,6 +15908,7 @@ diablotin
 discoursed
 dialdehyde
 dismalize
+diastomatic
 devilship
 deiced
 disrating
