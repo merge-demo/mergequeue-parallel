@@ -15285,7 +15285,6 @@ clubmen
 clayton
 claiver
 crucigerous
-ceromancy
 claywares
 clayweed
 caam
@@ -21671,6 +21670,7 @@ confabulating
 circumspectly
 condylarthra
 condylectomy
+ceromancy
 condyles
 crimsony
 condylion
