@@ -6789,7 +6789,6 @@ dihedrons
 desirous
 desirousness
 dhotis
-dented
 dedicates
 diaconate
 desize
@@ -11279,6 +11278,7 @@ dreamworld
 depolymerized
 discabinet
 discommendableness
+dented
 discamp
 drawstring
 discanted
