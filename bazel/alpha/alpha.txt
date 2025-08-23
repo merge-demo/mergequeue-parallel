@@ -2546,6 +2546,7 @@ acoup
 abrege
 acousticolateral
 acousticon
+aspheterism
 acousticophobia
 acoustoelectric
 acpt
@@ -21419,7 +21420,6 @@ albinisms
 asphalter
 asphaltus
 aceituna
-aspheterism
 akund
 ambiances
 asphyxia
