@@ -220,7 +220,6 @@ caca
 chelydra
 cheiroline
 cacaesthesia
-cacajao
 cacam
 cacara
 chthonophagia
@@ -22039,6 +22038,7 @@ chookies
 count
 confiscates
 confiscation
+cacajao
 confiscations
 confiscators
 churnable
