@@ -7279,7 +7279,6 @@ disquiet
 dazzled
 discompt
 dromaeognathae
-disorientation
 deglutinated
 dowage
 disseized
@@ -11820,6 +11819,7 @@ discriminator
 dashingly
 dirigibility
 diegueno
+disorientation
 disembrangle
 deferrals
 dislodges

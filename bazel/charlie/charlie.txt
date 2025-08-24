@@ -4961,6 +4961,7 @@ cartoonist
 chrysomonadina
 cassettes
 cartouche
+castigable
 curmudgeon
 cust
 costrel
@@ -5366,7 +5367,6 @@ chrysanthemin
 casteth
 crossbench
 castice
-castigable
 confederates
 constatation
 cyclopism
