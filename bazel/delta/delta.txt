@@ -11590,6 +11590,7 @@ disconnects
 denotable
 devillike
 disconsent
+disuniformity
 dithering
 discerpibility
 disconsideration
@@ -15583,7 +15584,6 @@ derobe
 designators
 dement
 dewanny
-disuniformity
 donk
 doloriferous
 donkeyman
