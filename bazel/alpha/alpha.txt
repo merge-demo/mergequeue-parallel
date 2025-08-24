@@ -2489,6 +2489,7 @@ afdecho
 aconital
 aconite
 admass
+antherid
 aconitia
 aisteoir
 aconitine
@@ -20639,7 +20640,6 @@ avid
 arterially
 achakzai
 antarchy
-antherid
 augmenting
 acquitment
 artifactitious
