@@ -13248,7 +13248,6 @@ displat
 displeasance
 daukin
 displeasant
-discursativeness
 dechloridizing
 displeasedly
 decelerometer
@@ -16903,6 +16902,7 @@ donnishness
 dribbet
 diphyletic
 deadlock
+discursativeness
 durwan
 disceptation
 drawtongs
