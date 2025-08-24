@@ -23615,7 +23615,6 @@ auriphrygia
 aurir
 auris
 auriscalp
-auriscalpia
 auriscope
 auriscopy
 anchoritish
@@ -24146,6 +24145,7 @@ autolithograph
 ambuling
 autoinfection
 autolyzate
+auriscalpia
 ambuscade
 autoloader
 autology

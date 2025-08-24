@@ -6177,6 +6177,7 @@ baske
 benefactress
 benefactrices
 bucayo
+berbery
 blest
 beneficed
 baubees
@@ -9981,7 +9982,6 @@ bismuthyl
 binodous
 brinjarries
 brahmic
-berbery
 barrenness
 bivector
 biventer
