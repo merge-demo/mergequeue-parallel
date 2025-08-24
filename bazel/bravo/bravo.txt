@@ -13710,7 +13710,6 @@ bouldery
 bouser
 bousouki
 bousoukia
-brunswick
 bloomer
 bircher
 biophyte
@@ -15553,6 +15552,7 @@ bakhtiari
 biomagnetism
 banlieue
 bindlet
+brunswick
 born
 bromacetanilide
 bristlelike
