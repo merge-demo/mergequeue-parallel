@@ -11721,6 +11721,7 @@ discoverer
 decancellation
 dodoes
 discoverture
+dochmiac
 discradle
 deprivation
 dockhands
@@ -16361,7 +16362,6 @@ drawnwork
 downsized
 diffractions
 druggeries
-dochmiac
 discobolus
 dicoelous
 deplumate
