@@ -22340,7 +22340,6 @@ congresses
 cutocellulose
 clatch
 clustery
-claviform
 congressing
 congressionalist
 congressionally
@@ -25862,6 +25861,7 @@ convertable
 corset
 corsetier
 concluding
+claviform
 corsetiere
 conicalness
 corseting
