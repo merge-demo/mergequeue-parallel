@@ -7603,6 +7603,7 @@ bugseed
 beworries
 beworship
 bedare
+brimstony
 bonaught
 brakiest
 barmen
@@ -16130,7 +16131,6 @@ birdlore
 balklines
 brotheler
 bulla
-brimstony
 bristletail
 bayonetted
 brothels
