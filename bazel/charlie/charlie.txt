@@ -5122,7 +5122,6 @@ canvaser
 chaprassi
 caseinogen
 caseload
-caseloads
 coincidently
 casemaker
 caprylene
@@ -11117,6 +11116,7 @@ chitter
 chutney
 chitters
 capillaries
+caseloads
 chiurm
 chiv
 chivachee
