@@ -4710,7 +4710,6 @@ cyanogenamide
 carphiophiops
 carpholite
 ceiler
-carphology
 carphophis
 carpid
 cogredient
@@ -18381,6 +18380,7 @@ cogitativity
 comparer
 cogitator
 cogito
+carphology
 coglorify
 cogman
 counterbuilding
