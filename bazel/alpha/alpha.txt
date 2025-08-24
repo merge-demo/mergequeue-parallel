@@ -16399,6 +16399,7 @@ acroterteria
 acrochordidae
 anuretic
 anury
+alose
 anuria
 acceptive
 anuric
@@ -22816,7 +22817,6 @@ agy
 anteriorly
 appositional
 alochia
-alose
 atria
 asdic
 agnomina
