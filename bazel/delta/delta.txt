@@ -3229,7 +3229,6 @@ disjects
 dyeleaves
 daughterliness
 dockhead
-disburdening
 domesticate
 defiber
 dystomous
@@ -16659,6 +16658,7 @@ dragoonable
 dation
 dirt
 denunciable
+disburdening
 dragoonage
 dragrope
 decades
