@@ -126,6 +126,7 @@ alcarraza
 abastard
 amoebid
 abatage
+anthracoxen
 abate
 acronychally
 abated
@@ -13994,7 +13995,6 @@ antecedes
 aloedary
 antechamber
 aloetic
-anthracoxen
 accomodate
 antechinomys
 agitpropist
