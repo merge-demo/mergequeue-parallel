@@ -4517,6 +4517,7 @@ duomachy
 devalorize
 developmentist
 district
+dislocatory
 dysphoric
 dulnesses
 deception
@@ -12769,7 +12770,6 @@ drawbars
 dissemblingly
 dantesque
 droughtier
-dislocatory
 drivecap
 detroit
 dodrans
