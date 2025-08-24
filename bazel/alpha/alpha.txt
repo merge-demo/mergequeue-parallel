@@ -4257,7 +4257,6 @@ astructive
 audiologist
 aminolysis
 antrophore
-agrimotor
 attestative
 ambitendencies
 ambled
@@ -23923,6 +23922,7 @@ autocatalysis
 apsinthion
 autocatalyze
 aeolipile
+agrimotor
 aquiferous
 autoceptive
 aminopolypeptidase
