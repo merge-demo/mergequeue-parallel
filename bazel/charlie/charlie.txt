@@ -7067,6 +7067,7 @@ chelators
 colonus
 centerfolds
 cretoria
+commonty
 centering
 centerline
 centermost
@@ -31859,7 +31860,6 @@ consortion
 companionways
 cutout
 collenchyma
-commonty
 cutpurse
 cyclothyme
 casuality
