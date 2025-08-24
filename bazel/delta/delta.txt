@@ -756,7 +756,6 @@ dandifying
 desmognathous
 diselectrification
 didnt
-diselenide
 dominicale
 drapeable
 diapnotic
@@ -9165,6 +9164,7 @@ dy
 dido
 didodecahedron
 didoes
+diselenide
 didonia
 dihexahedron
 daubry
