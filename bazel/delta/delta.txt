@@ -3639,7 +3639,6 @@ despisement
 delinquencies
 designed
 dreamer
-deduce
 deglutinating
 disgracive
 dermatoplasty
@@ -16656,6 +16655,7 @@ dragonish
 dragonize
 drunkeness
 dragonroot
+deduce
 diggings
 dilutant
 detesting
