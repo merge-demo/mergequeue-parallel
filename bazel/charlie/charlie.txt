@@ -11691,7 +11691,6 @@ claries
 corruptness
 cholo
 chaver
-cholocyanine
 cinematographic
 crossroading
 chololithic
@@ -24798,6 +24797,7 @@ cleome
 cantred
 coquettishly
 curlycue
+cholocyanine
 colourfast
 coquicken
 cartload
