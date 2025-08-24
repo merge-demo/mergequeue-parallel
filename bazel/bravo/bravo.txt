@@ -4924,6 +4924,7 @@ bequest
 beefiest
 beefsteak
 beeftongue
+bacteriostasis
 beefwoods
 beegerite
 bootlick
@@ -6381,7 +6382,6 @@ backsliding
 benzocaine
 buts
 bardo
-bacteriostasis
 bobeches
 businesswomen
 bequeath
