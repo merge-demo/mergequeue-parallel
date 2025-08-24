@@ -5187,7 +5187,6 @@ denierer
 denigrated
 denigrates
 dipolarize
-denigrator
 dietine
 denyingly
 demoness
@@ -7207,6 +7206,7 @@ demultiplexing
 detainee
 detaining
 disinfecter
+denigrator
 detar
 detassel
 detat
