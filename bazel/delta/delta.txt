@@ -3756,7 +3756,6 @@ dehorn
 dolcan
 desmose
 dreadful
-dytiscidae
 dehorner
 diplography
 deadlily
@@ -5283,6 +5282,7 @@ diglottic
 disscepter
 deligated
 drammer
+dytiscidae
 density
 defat
 degasifier
