@@ -443,6 +443,7 @@ dayrooms
 deities
 downloaded
 dodrantal
+dextrosinistrally
 dhourra
 discoursers
 dairous
@@ -13980,7 +13981,6 @@ distinguishedly
 distinguishingly
 diaspine
 dentalising
-dextrosinistrally
 dodding
 distinguishment
 deutoplasm
