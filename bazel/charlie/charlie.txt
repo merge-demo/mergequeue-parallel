@@ -1462,7 +1462,6 @@ codworm
 calks
 collet
 callainite
-counterservice
 cystidicolous
 callais
 callaloo
@@ -20354,6 +20353,7 @@ contravariant
 commutable
 canada
 conjee
+counterservice
 clerks
 commutableness
 commutant
