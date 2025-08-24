@@ -3943,6 +3943,7 @@ advect
 admerveylle
 admi
 adminicle
+aruspicy
 anhydrously
 amphiprotic
 adminicula
@@ -20754,7 +20755,6 @@ aryan
 armoried
 acrosticheae
 aruspex
-aruspicy
 arteriography
 arval
 arvejon
