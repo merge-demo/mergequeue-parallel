@@ -16931,7 +16931,6 @@ concussional
 connectional
 clucking
 clue
-continuations
 clued
 clueing
 clueless
@@ -30656,6 +30655,7 @@ cuddling
 crusados
 chiveret
 coses
+continuations
 crawls
 colorer
 cudgel
