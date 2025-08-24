@@ -17159,7 +17159,6 @@ apomecometer
 aoli
 ail
 apometabolic
-apomictical
 aquilegia
 athletocracy
 agrafe
@@ -21041,6 +21040,7 @@ aseity
 aselar
 associator
 asellate
+apomictical
 andabata
 apostates
 anthracitiferous
