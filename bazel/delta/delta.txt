@@ -6336,6 +6336,7 @@ delint
 daltonism
 dermis
 dermises
+diminuendo
 drawbores
 dermoblast
 dendrologist
@@ -12584,7 +12585,6 @@ disinheritance
 dinaphthyl
 deirdre
 dishmaking
-diminuendo
 ditrematous
 disfriar
 disinheritances

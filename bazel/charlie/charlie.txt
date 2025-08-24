@@ -14785,6 +14785,7 @@ cithren
 condign
 city
 citybuster
+cyclonometer
 citicorp
 culler
 coursy
@@ -25592,7 +25593,6 @@ calquing
 corporatist
 cylindricality
 corporative
-cyclonometer
 cassites
 concetti
 corporativism
