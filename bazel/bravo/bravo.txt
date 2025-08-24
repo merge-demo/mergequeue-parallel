@@ -995,7 +995,6 @@ boti
 bioavailability
 butadiene
 biparental
-batholith
 brichen
 bronchiocrisis
 bagpudding
@@ -7961,6 +7960,7 @@ bioxalate
 bichromatize
 bedebt
 bellworts
+batholith
 bicyanide
 bicyclers
 biopoesis
