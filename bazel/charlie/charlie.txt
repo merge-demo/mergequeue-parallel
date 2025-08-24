@@ -3725,6 +3725,7 @@ caravansary
 caravansaries
 caravanserai
 chromoxylography
+consonantism
 caravanserial
 companeros
 caravel
@@ -23037,7 +23038,6 @@ consonantic
 cavalcade
 consonantised
 cagmag
-consonantism
 consonantized
 cornfactor
 connivence
