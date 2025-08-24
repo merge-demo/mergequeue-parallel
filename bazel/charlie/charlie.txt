@@ -17786,7 +17786,6 @@ coct
 coctile
 coction
 chloroformist
-colletes
 condog
 cocuyo
 chromogenous
@@ -23209,6 +23208,7 @@ crevass
 constringing
 cajon
 construability
+colletes
 clerestory
 cataractine
 cabernets
