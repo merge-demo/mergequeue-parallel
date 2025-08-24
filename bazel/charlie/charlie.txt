@@ -4055,6 +4055,7 @@ cardialgy
 caryl
 coevals
 centaurian
+childkind
 cardialgia
 calla
 cardiameter
@@ -12669,7 +12670,6 @@ chubbiest
 chubs
 chuckawalla
 chucked
-childkind
 chucker
 chuckfarthing
 chuckhole
