@@ -4002,7 +4002,6 @@ choosingly
 carcinomatoid
 carcinomatosis
 carpetweed
-connotative
 cellophane
 cholers
 cornhusk
@@ -26380,6 +26379,7 @@ coruscate
 colleter
 cleating
 chlorprophenpyridamine
+connotative
 coticing
 cotidal
 cotylar
