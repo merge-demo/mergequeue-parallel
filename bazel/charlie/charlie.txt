@@ -1524,7 +1524,6 @@ callipers
 copopoda
 cocanucos
 crystal
-calliphorid
 celosia
 calcrete
 calliphoridae
@@ -2980,6 +2979,7 @@ cantholysis
 commonable
 chaffers
 capriole
+calliphorid
 colliquation
 cicalas
 croppies
