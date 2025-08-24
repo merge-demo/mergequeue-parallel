@@ -2212,6 +2212,7 @@ barbequing
 bourage
 baalshem
 bassoons
+betrayers
 barbarise
 barbarised
 benzazimide
@@ -2323,7 +2324,6 @@ barreler
 benzoperoxide
 badarrah
 babakoto
-betrayers
 bourignianism
 braggart
 barboy
