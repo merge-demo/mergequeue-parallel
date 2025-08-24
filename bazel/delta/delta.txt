@@ -17638,7 +17638,6 @@ disrates
 dichotomisation
 druses
 dishevels
-delimitize
 drusy
 dreamfulness
 druther
@@ -17830,6 +17829,7 @@ dashnakist
 ducklet
 ducklings
 deservingly
+delimitize
 duckmeat
 duckpin
 diabolarch
