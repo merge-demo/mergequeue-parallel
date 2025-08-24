@@ -345,7 +345,6 @@ abelmosk
 aftwards
 abends
 amidosulphonal
-autochthony
 aneurismatic
 anacephalaeosis
 absurdist
@@ -12880,6 +12879,7 @@ athetoids
 angsts
 aldolase
 anguillaria
+autochthony
 antiplethoric
 arabite
 abey
