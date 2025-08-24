@@ -7002,7 +7002,6 @@ cuerda
 counterimitation
 censitaire
 champion
-curiosity
 chitchats
 cisalpine
 censored
@@ -17359,6 +17358,7 @@ coarb
 coarrangement
 comptonite
 constrains
+curiosity
 cadis
 coarsely
 colchicine
