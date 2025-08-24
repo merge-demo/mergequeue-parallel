@@ -1356,6 +1356,7 @@ dart
 dauntingness
 discerners
 daunton
+doup
 decipium
 duelli
 definer
@@ -16158,7 +16159,6 @@ doum
 douma
 didynamy
 disharmonise
-doup
 dingee
 douping
 deformity
