@@ -7732,7 +7732,6 @@ defoliage
 dayton
 domiciliary
 diplotegia
-defeasance
 devised
 decongests
 denicotinized
@@ -10926,6 +10925,7 @@ divulgement
 dentelated
 doohinkus
 dignitas
+defeasance
 disabuse
 disbursement
 diapir
