@@ -5300,7 +5300,6 @@ amphicoelian
 affret
 agnosticism
 agglutinable
-affriended
 applying
 affrightedly
 acarpellous
@@ -13525,6 +13524,7 @@ antislaveryism
 authenticator
 anemophily
 annuities
+affriended
 annular
 antihierarchical
 attingence
