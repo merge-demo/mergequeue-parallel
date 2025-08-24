@@ -1620,7 +1620,6 @@ deafness
 deairing
 discernableness
 deairs
-dealate
 didascaly
 drupelet
 dealbate
@@ -17412,6 +17411,7 @@ droppers
 diurnalness
 dropping
 disframe
+dealate
 durationless
 declaims
 departmentalisation
