@@ -5922,7 +5922,6 @@ cathartics
 cosingular
 chistera
 cathartides
-contorting
 chevied
 carburized
 concrescible
@@ -16609,6 +16608,7 @@ chirm
 cloisterly
 cloisterlike
 carburization
+contorting
 cantish
 capsules
 cloisterwise
