@@ -1417,6 +1417,7 @@ alg
 atka
 accessorize
 accessors
+annotating
 acciaccaturas
 accidence
 arsesmart
@@ -15746,7 +15747,6 @@ ascendent
 antiphonary
 amathophobia
 articulatorily
-annotating
 autonoetic
 accinged
 ahankara
