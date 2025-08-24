@@ -21579,7 +21579,6 @@ concurrentness
 corsepresent
 coercer
 cofinal
-concurring
 concurs
 christologist
 concursion
@@ -27216,6 +27215,7 @@ counterwheel
 counterwilling
 counterwitness
 counterwork
+concurring
 counterworker
 counterworking
 committee
