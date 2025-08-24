@@ -15761,6 +15761,7 @@ chrysograph
 claviger
 carshops
 clavilux
+chalices
 coy
 carlisle
 clavipectoral
@@ -25649,7 +25650,6 @@ club
 correctible
 confirmatorily
 cubicly
-chalices
 correctionalist
 correctioner
 conformities
