@@ -10640,6 +10640,7 @@ dunnaged
 diplont
 delisting
 diplonts
+defossion
 diplophase
 difficultness
 dosology
@@ -18378,7 +18379,6 @@ dismantled
 decrew
 departmentalizes
 duodenocholedochotomy
-defossion
 depolishing
 diaphanoscope
 desecrating
