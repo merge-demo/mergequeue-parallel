@@ -6417,7 +6417,6 @@ curvinervate
 cavayard
 cavalcaded
 cavalcades
-cavalero
 cardinalist
 curarizes
 cavalier
@@ -21926,6 +21925,7 @@ chillers
 confervae
 conferval
 combe
+cavalero
 clof
 chinamania
 couhage

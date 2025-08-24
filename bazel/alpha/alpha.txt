@@ -7973,7 +7973,6 @@ alfaki
 alfalfas
 ayyubid
 anapaest
-algesia
 alfaqui
 alfaquin
 apatornis
@@ -21625,6 +21624,7 @@ assembly
 assemblyman
 assemblywoman
 aerohydrotherapy
+algesia
 assentaneous
 assentator
 assentatory
