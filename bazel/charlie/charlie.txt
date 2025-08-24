@@ -8890,7 +8890,6 @@ characterising
 chanted
 clodbreaker
 cuniform
-cumarone
 characterism
 characteristically
 characteristicalness
@@ -14635,6 +14634,7 @@ cohogs
 cystidea
 cystinosis
 cotehardie
+cumarone
 cystidean
 coumarinic
 cryptorchid
