@@ -1314,7 +1314,6 @@ cantador
 carious
 cryptogrammatist
 chaucer
-calycate
 calyceraceae
 cardioparplasis
 calices
@@ -20344,6 +20343,7 @@ cuarta
 contumeliousness
 choruser
 coeloblastula
+calycate
 couseranite
 chakra
 communize
