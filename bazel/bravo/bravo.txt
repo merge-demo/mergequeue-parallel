@@ -3518,7 +3518,6 @@ brookites
 blackroot
 bathed
 bellower
-bathes
 backslidden
 bicondylar
 baryons
@@ -14960,6 +14959,7 @@ brechams
 baccharis
 brev
 brechans
+bathes
 breakfaster
 bullfeast
 brinehouse
