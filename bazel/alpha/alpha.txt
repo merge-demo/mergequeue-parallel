@@ -996,7 +996,6 @@ adviso
 azogreen
 award
 artifice
-arthrochondritis
 antidromous
 abtruse
 aquitanian
@@ -24488,6 +24487,7 @@ aerophile
 auxiliaries
 androcracy
 auxiliate
+arthrochondritis
 abiosis
 anelastic
 amusively
