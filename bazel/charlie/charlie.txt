@@ -8114,6 +8114,7 @@ culicines
 codiniac
 coracosteon
 continent
+countryfied
 carcer
 chaffron
 chondri
@@ -30186,7 +30187,6 @@ cains
 cursed
 crudity
 crudities
-countryfied
 crudle
 cruds
 cruel
