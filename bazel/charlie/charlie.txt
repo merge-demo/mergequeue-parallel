@@ -8907,7 +8907,6 @@ crosshead
 confirming
 cassinette
 coniferin
-characters
 contaction
 chasmogamy
 companiable
@@ -15439,6 +15438,7 @@ clapper
 clapperclaw
 cloragen
 clappered
+characters
 clappers
 clapping
 claps
