@@ -8145,6 +8145,7 @@ counteractions
 chumping
 craspedon
 chainlike
+clericalism
 confrontal
 contumacity
 chainmaker
@@ -26974,7 +26975,6 @@ counterphobic
 counterpicture
 combretum
 cuprum
-clericalism
 counterplay
 counterplayer
 copleased
