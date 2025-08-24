@@ -6879,7 +6879,6 @@ aitch
 asphaltene
 amazement
 appropriately
-akron
 aberrator
 aitchpiece
 amphimixis
@@ -18457,6 +18456,7 @@ arboricolous
 arboriculture
 abject
 ateknia
+akron
 arte
 aporobranchia
 arborists
