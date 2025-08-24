@@ -6733,6 +6733,7 @@ decontaminative
 discant
 desucration
 desilicify
+disbars
 desilicified
 desiliconization
 dribbed
@@ -11193,7 +11194,6 @@ devisee
 disbands
 depopulate
 disbarring
-disbars
 disbase
 dani
 disbeliefs
