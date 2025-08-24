@@ -1652,6 +1652,7 @@ agonists
 accts
 aventail
 amphicentric
+armillate
 accubita
 accubitum
 aphonias
@@ -19819,7 +19820,6 @@ annist
 achaemenidian
 adenopharyngitis
 arightly
-armillate
 armine
 arrogating
 arsenobenzene
