@@ -12295,6 +12295,7 @@ christendie
 christendom
 christener
 christeners
+costander
 christening
 christens
 christhood
@@ -26216,7 +26217,6 @@ contemn
 citydom
 costage
 costally
-costander
 costanoan
 costar
 costarred
