@@ -10044,7 +10044,6 @@ cherrying
 cherrylike
 colyumist
 cherrystone
-cherrystones
 canephors
 cephalotripsy
 chersydridae
@@ -11875,6 +11874,7 @@ choppiness
 cowpuncher
 clancular
 chopstick
+cherrystones
 chopsticks
 chopunnish
 cakes
