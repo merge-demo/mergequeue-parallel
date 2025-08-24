@@ -518,6 +518,7 @@ blumed
 biserial
 billhead
 biscot
+bretwalda
 backstitches
 briming
 broadway
@@ -15091,7 +15092,6 @@ brevit
 battalia
 brevity
 brevities
-bretwalda
 byeworker
 beqwete
 boar
