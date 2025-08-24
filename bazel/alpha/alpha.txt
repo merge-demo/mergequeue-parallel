@@ -10105,7 +10105,6 @@ aniconic
 ambrite
 ambroid
 ambrosiaceae
-ambrosias
 achor
 antalkali
 argine
@@ -15502,6 +15501,7 @@ antethem
 acetabulum
 antimoniuretted
 antimonopolistic
+ambrosias
 antimonopolization
 allantoidian
 antimoral
