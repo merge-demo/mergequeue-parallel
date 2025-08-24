@@ -17751,7 +17751,6 @@ cocksfoot
 coco
 cocoach
 campuses
-cashier
 cocoanut
 chasing
 cocoas
@@ -22378,6 +22377,7 @@ congruity
 congruousness
 congustable
 carpitis
+cashier
 carpophagous
 coerects
 contradicted
