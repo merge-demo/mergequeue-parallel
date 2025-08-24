@@ -457,6 +457,7 @@ discept
 debates
 defensative
 disseats
+demisecond
 daysides
 deprevation
 daysmen
@@ -4668,7 +4669,6 @@ diswench
 demiscible
 denticulate
 demise
-demisecond
 demised
 depas
 didynamia
