@@ -9385,7 +9385,6 @@ carpenterworm
 commiserate
 chausse
 chaussees
-chaussure
 catlap
 coscinodiscaceae
 chautauqua
@@ -29091,6 +29090,7 @@ chalcography
 crinkly
 chloroacetate
 carcassless
+chaussure
 crinklier
 czarisms
 concretization
