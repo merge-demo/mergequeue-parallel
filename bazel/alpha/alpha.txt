@@ -847,7 +847,6 @@ agha
 absconding
 accurse
 absconsa
-abscound
 aphakia
 aftercoming
 absee
@@ -5003,6 +5002,7 @@ actinodrome
 agacant
 argo
 aerotechnical
+abscound
 aerotherapeutics
 attainting
 aerotherapy
