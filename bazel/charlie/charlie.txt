@@ -8685,7 +8685,6 @@ chansonniers
 chantey
 counterlighted
 corrigiolaceae
-conspired
 chantepleure
 chanterelle
 chondroseptum
@@ -29707,6 +29706,7 @@ cuartillo
 cronian
 cigaritos
 communicated
+conspired
 coachway
 cronies
 cronyisms
