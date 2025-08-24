@@ -12070,7 +12070,6 @@ bradycauma
 bulbilla
 boites
 baltetei
-balladier
 bojo
 bokhara
 baronized
@@ -17204,6 +17203,7 @@ bullwort
 bulrush
 boonies
 bolograph
+balladier
 bumbailiffship
 basidigitalia
 batardeau
