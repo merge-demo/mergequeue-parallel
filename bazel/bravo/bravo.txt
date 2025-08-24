@@ -143,6 +143,7 @@ boolian
 bacin
 bourne
 banister
+burkei
 basidiocarp
 beeheaded
 beachcomb
@@ -1720,7 +1721,6 @@ balsamitic
 balsamiticness
 benzoylating
 balsamorrhiza
-burkei
 breakerman
 balsams
 bealtuinn
