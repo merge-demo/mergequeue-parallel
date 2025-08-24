@@ -4707,6 +4707,7 @@ bedlamite
 bastardization
 bedlamitish
 bedub
+bucephalus
 blowback
 bovid
 bibliogenesis
@@ -13819,7 +13820,6 @@ buttery
 babesias
 bunya
 bleachery
-bucephalus
 bowdlerizing
 bowe
 bibcock
