@@ -1791,7 +1791,6 @@ bananaland
 benzyls
 bridgewall
 bananivorous
-banatite
 becharm
 billycans
 bancha
@@ -3311,6 +3310,7 @@ bluecoat
 beid
 batocrinus
 beal
+banatite
 bromargyrite
 basketwork
 blueballs
