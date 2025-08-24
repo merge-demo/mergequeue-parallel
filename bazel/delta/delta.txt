@@ -3292,6 +3292,7 @@ decapitalization
 diadoche
 definite
 definitely
+duramater
 distrait
 definiteness
 dahlin
@@ -18503,7 +18504,6 @@ durain
 dementi
 driftlet
 declamator
-duramater
 duramens
 datch
 duffer
