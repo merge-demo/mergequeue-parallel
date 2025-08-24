@@ -8586,6 +8586,7 @@ batteau
 buhrmill
 baldacchino
 behind
+batchers
 burgees
 bartram
 billionism
@@ -16002,7 +16003,6 @@ brontides
 backsplicing
 bromeliaceae
 bielby
-batchers
 bodo
 bacteriolytic
 basnet
