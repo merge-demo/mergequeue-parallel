@@ -11954,6 +11954,7 @@ choreman
 choreodrama
 choreographed
 choreographer
+cilice
 cypseloid
 choreographers
 choreographic
@@ -28671,7 +28672,6 @@ counterirritant
 culets
 copeck
 cryochore
-cilice
 crenelles
 crenels
 crengle
