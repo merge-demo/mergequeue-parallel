@@ -11694,7 +11694,6 @@ crumenal
 coryphaenidae
 cholinic
 caitifty
-cotangents
 cholinolytic
 conjugably
 cequi
@@ -24727,6 +24726,7 @@ cardioplegia
 coproducer
 cullen
 coproduction
+cotangents
 coprojector
 coprolagnia
 coprolaliac
