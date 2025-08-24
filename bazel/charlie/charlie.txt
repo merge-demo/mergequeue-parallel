@@ -26087,7 +26087,6 @@ chiefdoms
 conspiratorial
 cosmism
 cosmisms
-cosmist
 cotyledonous
 contraprops
 cadgy
@@ -27330,6 +27329,7 @@ coursers
 courses
 coursing
 court
+cosmist
 courtage
 climacterics
 courtal
