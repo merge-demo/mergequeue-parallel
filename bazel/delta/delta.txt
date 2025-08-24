@@ -3820,7 +3820,6 @@ disunities
 deigned
 disavowable
 diwan
-deigns
 deliveryman
 defail
 denigrative
@@ -10066,6 +10065,7 @@ dedal
 dogfought
 definitization
 digoneutic
+deigns
 dignified
 dynamitard
 disqualify
