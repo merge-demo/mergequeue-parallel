@@ -2505,7 +2505,6 @@ abruptest
 abasgi
 acontia
 ambidexter
-acool
 addda
 assumingness
 algesic
@@ -5959,6 +5958,7 @@ anfeeld
 ans
 alcyonoid
 algodon
+acool
 agible
 agiel
 angor
