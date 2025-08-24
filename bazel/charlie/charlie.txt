@@ -8307,6 +8307,7 @@ chalky
 chalkiest
 canapes
 chalkiness
+cytometer
 chalking
 chalklike
 chalkline
@@ -23925,7 +23926,6 @@ conurbation
 cricke
 conus
 cypris
-cytometer
 chirl
 conusance
 conusant
