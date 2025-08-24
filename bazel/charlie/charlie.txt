@@ -5163,7 +5163,6 @@ casher
 catchups
 cinematized
 cashers
-cashes
 cashews
 cashgirl
 cocentric
@@ -16278,6 +16277,7 @@ canonicalness
 charlatanically
 cobrother
 clinoclasite
+cashes
 citifies
 clinodiagonal
 clinodomatic
