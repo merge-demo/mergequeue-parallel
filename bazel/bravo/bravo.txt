@@ -7044,7 +7044,6 @@ besort
 blunting
 bitterly
 babeship
-besot
 baronet
 boodh
 berger
@@ -14213,6 +14212,7 @@ boutiques
 bloodstroke
 bradydactylia
 bepowder
+besot
 belamour
 biomechanics
 bradypeptic
