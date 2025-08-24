@@ -144,6 +144,7 @@ cableless
 cablelike
 cerberic
 chryseis
+colophany
 casterless
 cables
 changeabout
@@ -31337,7 +31338,6 @@ clerete
 curfews
 concordats
 curfs
-colophany
 cury
 causeys
 countertrespass
