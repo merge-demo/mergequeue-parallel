@@ -9959,7 +9959,6 @@ arrival
 adonizing
 amberjacks
 allege
-afraidness
 attachers
 antares
 antisepticise
@@ -12413,6 +12412,7 @@ adar
 anelasticity
 augurship
 aias
+afraidness
 antirationalism
 anelectrode
 appui
