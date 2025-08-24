@@ -639,7 +639,6 @@ arachnidial
 adhibit
 aboma
 abomasum
-abomasus
 appetize
 abominably
 abominate
@@ -18413,6 +18412,7 @@ appendant
 arboloco
 actinocrinus
 arbor
+abomasus
 acrocyst
 anisosepalous
 anthropoidal
