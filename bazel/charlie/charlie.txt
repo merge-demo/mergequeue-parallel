@@ -2559,7 +2559,6 @@ cecidiology
 committeewoman
 chinol
 castellanship
-candlesticks
 cogniser
 candlewaster
 cambial
@@ -18381,6 +18380,7 @@ counterbuilding
 conformers
 cogmen
 claypan
+candlesticks
 chenevixite
 conterminant
 cognac
