@@ -8682,6 +8682,7 @@ chantey
 counterlighted
 corrigiolaceae
 chantepleure
+colossality
 chanterelle
 chondroseptum
 chanters
@@ -19469,7 +19470,6 @@ cerealose
 colors
 cutose
 colossal
-colossality
 colossally
 colossean
 colosseum
