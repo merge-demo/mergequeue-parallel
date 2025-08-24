@@ -5191,7 +5191,6 @@ anapterygotous
 alingual
 anapophysial
 alligation
-affination
 affine
 anteporch
 antiatheistically
@@ -16201,6 +16200,7 @@ audibility
 argali
 arish
 antithesism
+affination
 antithetic
 achropsia
 arcosoliulia
