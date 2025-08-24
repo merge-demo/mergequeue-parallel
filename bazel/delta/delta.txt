@@ -2720,6 +2720,7 @@ devonshire
 dictates
 dissembling
 decore
+docklands
 dewcup
 decorist
 dragged
@@ -14830,7 +14831,6 @@ deringers
 dockyards
 docking
 dockization
-docklands
 dominica
 dialogue
 dolors
