@@ -627,7 +627,6 @@ disegno
 dawut
 deadrize
 disintegrating
-deadhand
 derelinquendi
 definientia
 desilvered
@@ -13745,6 +13744,7 @@ doffer
 diatomiferous
 diplasion
 demetrian
+deadhand
 dashnaktzutiun
 deadfall
 dissite
