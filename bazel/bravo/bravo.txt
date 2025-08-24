@@ -458,7 +458,6 @@ butanal
 balilla
 bugbear
 blolly
-bellyfulls
 benzolize
 besugar
 bronchotetany
@@ -11048,6 +11047,7 @@ benzoylate
 boneshaker
 briers
 bidentalia
+bellyfulls
 bemoaningly
 block
 bidet
