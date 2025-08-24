@@ -6896,7 +6896,6 @@ desorption
 drollist
 desoxalate
 discomposes
-desoxalic
 dichromasy
 decanter
 desoxyribonucleic
@@ -9839,6 +9838,7 @@ draffish
 diagonality
 diluters
 drudgingly
+desoxalic
 destuffs
 dissepimental
 dentile
