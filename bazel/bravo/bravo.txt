@@ -8531,7 +8531,6 @@ bunting
 bedder
 bradycardia
 billabong
-billage
 brumes
 barricading
 billboards
@@ -18285,6 +18284,7 @@ biovulate
 buffoonism
 bamah
 buttyman
+billage
 biblioclast
 bowless
 buttinski
