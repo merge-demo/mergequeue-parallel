@@ -13894,7 +13894,6 @@ bowleggedness
 beedi
 bowles
 balwarra
-bargeboard
 bowlful
 bowly
 breastworks
@@ -14052,6 +14051,7 @@ brachycephali
 brachycephalism
 bragging
 berust
+bargeboard
 brachycephalization
 browallia
 brigandism

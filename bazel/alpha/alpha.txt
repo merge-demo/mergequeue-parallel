@@ -4658,6 +4658,7 @@ aeneas
 affricate
 adawe
 antiradicalism
+amutter
 anchoretic
 aenigmatite
 aeolia
@@ -11453,7 +11454,6 @@ amusias
 antinatural
 amusingness
 amusive
-amutter
 amuze
 advertisable
 amuzzle
