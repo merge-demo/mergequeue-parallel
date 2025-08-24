@@ -24645,7 +24645,6 @@ cryaesthesia
 charcoals
 cerebrating
 copolymer
-copolymerization
 copolymerize
 cossas
 cruciated
@@ -31162,6 +31161,7 @@ cuppin
 chemonite
 cuppings
 clerklike
+copolymerization
 commulation
 corantos
 communities
