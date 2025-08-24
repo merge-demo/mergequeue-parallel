@@ -1899,6 +1899,7 @@ disablement
 deborah
 daktylos
 deicate
+dropline
 debordment
 deboss
 detractive
@@ -16134,7 +16135,6 @@ dragading
 ditherer
 ducamara
 drily
-dropline
 doughtier
 dockside
 deipnosophistic

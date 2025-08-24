@@ -7961,7 +7961,6 @@ arabinose
 advisee
 alexipyretic
 alexis
-alexiteric
 alexiterical
 admirations
 alexius
@@ -22356,6 +22355,7 @@ aristarchy
 asweve
 alchemistic
 ammoniacum
+alexiteric
 at
 ata
 atabals
