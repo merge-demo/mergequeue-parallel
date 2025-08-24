@@ -2291,6 +2291,7 @@ deflux
 decentering
 discomfortableness
 daidled
+devoted
 dirtplate
 decenters
 disaggregation
@@ -7798,7 +7799,6 @@ desirability
 devoration
 drawsheet
 dairyings
-devoted
 dogfishes
 dipsomaniacal
 dissettlement
