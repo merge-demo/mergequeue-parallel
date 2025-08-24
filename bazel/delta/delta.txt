@@ -4718,6 +4718,7 @@ demits
 demitted
 denticulately
 dilutive
+demineralizer
 duties
 demiurgeous
 downswings
@@ -15450,7 +15451,6 @@ dissipator
 domiciles
 domiciliated
 douzaines
-demineralizer
 detectivism
 domification
 distoma
