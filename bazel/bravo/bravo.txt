@@ -3056,7 +3056,6 @@ bathetic
 beaufet
 basalts
 bernardina
-brecciating
 basaltware
 bombiccite
 basaree
@@ -8183,6 +8182,7 @@ bedress
 biff
 broadwayite
 bifilar
+brecciating
 bifilarly
 biflabellate
 bullheadedly
