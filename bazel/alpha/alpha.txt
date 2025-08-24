@@ -1545,6 +1545,7 @@ accomplisht
 accordancy
 accordatura
 agglutinoid
+aponeurosis
 adventureful
 accordaturas
 accorder
@@ -2099,7 +2100,6 @@ auspicial
 achillize
 aerobically
 agave
-aponeurosis
 aptness
 acroteral
 achilous
