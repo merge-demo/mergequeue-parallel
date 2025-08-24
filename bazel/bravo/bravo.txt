@@ -1929,7 +1929,6 @@ bandwagon
 baahling
 beeway
 beworms
-bacteriophage
 bandwidth
 bagginess
 baylet
@@ -13013,6 +13012,7 @@ borassus
 barouchet
 blether
 bacilliculture
+bacteriophage
 bagattini
 bamangwato
 borboridae
