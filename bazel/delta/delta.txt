@@ -14188,7 +14188,6 @@ disulfonic
 dispread
 displaceable
 disulfoxid
-dhobi
 defective
 demandingness
 decedent
@@ -17495,6 +17494,7 @@ defame
 definitude
 datums
 delegatee
+dhobi
 drove
 drovers
 dereism
