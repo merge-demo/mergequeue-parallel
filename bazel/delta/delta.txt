@@ -7893,6 +7893,7 @@ dooryard
 dissymmetrical
 dewflower
 distantly
+doormaking
 doxographer
 doh
 dewing
@@ -8592,7 +8593,6 @@ disk
 dinosaurian
 destroying
 dicotyledons
-doormaking
 dewan
 dissatisfied
 driller
