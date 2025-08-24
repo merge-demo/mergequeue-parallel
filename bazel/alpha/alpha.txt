@@ -1591,7 +1591,6 @@ accounters
 accounting
 accountment
 audioemission
-accounts
 accouplement
 accouter
 apotype
@@ -14290,6 +14289,7 @@ antireaction
 aniseikonia
 antholite
 anthology
+accounts
 anthological
 anthologically
 anthologies
