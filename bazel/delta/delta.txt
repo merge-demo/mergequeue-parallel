@@ -2122,7 +2122,6 @@ decancellated
 disciplinarian
 dermatalgia
 debaser
-decandria
 didst
 decandrous
 discrepate
@@ -17601,6 +17600,7 @@ drumwood
 drunk
 drunkards
 desuperheater
+decandria
 dogbite
 davach
 drunkenwise
