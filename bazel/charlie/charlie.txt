@@ -9194,7 +9194,6 @@ cranage
 cowards
 conservatives
 charwomen
-chase
 chaseable
 chased
 corbeilles
@@ -10232,6 +10231,7 @@ chloasmata
 camacan
 chiasmas
 chiasmata
+chase
 cystoscopy
 chiasmatic
 combretaceae
