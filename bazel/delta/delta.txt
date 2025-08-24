@@ -5418,6 +5418,7 @@ deltidial
 diplomatics
 disc
 docosanoic
+decan
 decard
 denuder
 dermolysis
@@ -12391,7 +12392,6 @@ depone
 deepening
 dampened
 decempartite
-decan
 didymiums
 decoagulation
 deflater
