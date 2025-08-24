@@ -828,6 +828,7 @@ directivity
 dn
 drunkenly
 ditchbank
+dhanush
 danglingly
 dashwheel
 danian
@@ -1579,7 +1580,6 @@ defilades
 duopolist
 deadish
 dysgenesic
-dhanush
 demand
 diplomata
 diastrophy
