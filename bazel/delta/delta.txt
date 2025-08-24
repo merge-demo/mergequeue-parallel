@@ -37,6 +37,7 @@ dachas
 dachshund
 dachshunds
 disaligning
+dural
 devilism
 dacian
 dyce
@@ -9497,7 +9498,6 @@ digesting
 dodecadrachm
 digestively
 distaff
-dural
 digestiveness
 dipteroi
 diamonded
