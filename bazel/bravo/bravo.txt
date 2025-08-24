@@ -2644,7 +2644,6 @@ bable
 bribeable
 barling
 bortz
-bluestone
 bertholletia
 barghest
 breechloader
@@ -13302,6 +13301,7 @@ bandoleered
 bacteriologically
 bradykinesis
 bivaulted
+bluestone
 botanically
 botanics
 bridechamber

@@ -139,6 +139,7 @@ amine
 antiatoms
 alcades
 arecaidine
+animalivora
 abaton
 asperggilli
 anhinga
@@ -13077,7 +13078,6 @@ anathematizing
 anthelions
 animalistic
 androgynous
-animalivora
 apersee
 autographal
 animalivore
