@@ -7994,7 +7994,6 @@ bespatterer
 bicircular
 bitemporal
 byname
-bick
 brainwashes
 bicycler
 bluebooks
@@ -10550,6 +10549,7 @@ blesmol
 blathery
 blackprint
 baretta
+bick
 blathers
 bazookamen
 biomicroscopy
