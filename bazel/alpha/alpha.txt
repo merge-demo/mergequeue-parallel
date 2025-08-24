@@ -20093,7 +20093,6 @@ aerosats
 arraigning
 alpines
 allolalic
-arraignment
 anasarcous
 aurophobia
 allolalia
@@ -20950,6 +20949,7 @@ asclepiadaceae
 asclepiadae
 acerbating
 aircheck
+arraignment
 asclepiadean
 asclepiadic
 assumptively
