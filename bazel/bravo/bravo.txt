@@ -5375,6 +5375,7 @@ begrimed
 bandusian
 bedeafened
 begrimer
+blunderbusses
 branchi
 begrimes
 begriming
@@ -11494,7 +11495,6 @@ blumes
 benighting
 blunderbuss
 borasqueborate
-blunderbusses
 bestare
 bangia
 blunderhead
