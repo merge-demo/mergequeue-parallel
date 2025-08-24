@@ -2993,7 +2993,6 @@ arthritical
 actinometricy
 annotativeness
 actinomyces
-actinomycestal
 areche
 accomplishing
 autochton
@@ -8405,6 +8404,7 @@ alkalimetry
 alkaline
 andorobo
 ankylostoma
+actinomycestal
 alkalinity
 abactor
 augmentations
