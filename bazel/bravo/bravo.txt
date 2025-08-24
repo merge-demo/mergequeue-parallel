@@ -5673,6 +5673,7 @@ biers
 belemnitic
 ballast
 bairnlier
+blendes
 belemnoid
 belayed
 bowssen
@@ -14784,7 +14785,6 @@ breached
 breacher
 beanfeaster
 breachers
-blendes
 belonite
 burritos
 bulborectal
