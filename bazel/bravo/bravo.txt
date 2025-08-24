@@ -786,6 +786,7 @@ baeria
 begod
 browniness
 bldr
+bugginess
 blautok
 baetulus
 boothose
@@ -16893,7 +16894,6 @@ bushboy
 bussu
 beudanite
 baloch
-bugginess
 bemeaned
 buginese
 bookmonger
