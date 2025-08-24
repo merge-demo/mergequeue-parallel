@@ -11783,7 +11783,6 @@ analogous
 asterinidae
 ailing
 analogously
-adendric
 analogousness
 azophenylene
 analogue
@@ -23373,6 +23372,7 @@ anguishous
 arithmomania
 auftakt
 aug
+adendric
 adversifolious
 apomict
 augend
