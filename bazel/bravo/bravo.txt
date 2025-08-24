@@ -1817,6 +1817,7 @@ bancus
 backstabber
 bandelette
 banderma
+bowlike
 banderol
 blet
 banderole
@@ -13896,7 +13897,6 @@ bargeboard
 bowlful
 bowly
 breastworks
-bowlike
 bowline
 bacalaos
 baptizee
