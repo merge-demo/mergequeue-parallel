@@ -14450,6 +14450,7 @@ anthropology
 apostrophised
 adapis
 anthropologists
+arctalia
 anthropometer
 anthropometry
 anuloma
@@ -19504,7 +19505,6 @@ avellan
 antasphyctic
 autoslip
 acyls
-arctalia
 aryanism
 askari
 arianist
