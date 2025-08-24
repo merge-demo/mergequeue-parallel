@@ -13708,6 +13708,7 @@ anophoria
 anophthalmos
 anopia
 amusable
+astomia
 abortuses
 altimeter
 accrementition
@@ -22096,7 +22097,6 @@ aglutition
 arius
 allocrotonic
 anticholinergic
-astomia
 astone
 amici
 apennine
