@@ -10582,6 +10582,7 @@ bister
 brined
 botherer
 bransle
+brigandine
 blatting
 blattodea
 blattoid
@@ -15330,7 +15331,6 @@ bevomited
 bother
 brigadier
 brachypterous
-brigandine
 bandhu
 brigantia
 brigatry
