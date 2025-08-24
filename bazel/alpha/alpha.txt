@@ -12814,7 +12814,6 @@ asteraceous
 anglian
 apportionment
 anglic
-anglicanism
 anglicanisms
 antimonite
 antispiritual
@@ -25066,6 +25065,7 @@ annual
 antisolar
 ausforms
 antiastronomical
+anglicanism
 axfetch
 accusativeness
 ascidian
