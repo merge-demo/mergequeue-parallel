@@ -14674,7 +14674,6 @@ antiblastic
 abjudication
 acclimation
 avarian
-anisotropy
 abelite
 antiblue
 antiboxing
@@ -16064,6 +16063,7 @@ actinomycese
 asseverate
 antiseptically
 antisepticism
+anisotropy
 agateware
 accipiter
 asset
