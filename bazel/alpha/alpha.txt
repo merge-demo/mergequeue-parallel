@@ -17036,7 +17036,6 @@ apodiabolosis
 admonitor
 apodictive
 apodidae
-apodioxis
 apodyteria
 adverb
 apodyterium
@@ -24247,6 +24246,7 @@ analgesist
 autophytography
 abacinate
 autophon
+apodioxis
 antihidrotic
 ablepsy
 autophone
