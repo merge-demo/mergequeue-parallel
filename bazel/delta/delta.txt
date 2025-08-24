@@ -588,6 +588,7 @@ derived
 dialers
 decolonized
 daunch
+dominated
 damfool
 div
 dwelled
@@ -1991,7 +1992,6 @@ desirable
 diced
 drover
 demyelinate
-dominated
 deflection
 decadactylous
 descloizite
