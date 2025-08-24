@@ -17771,7 +17771,6 @@ appreciates
 appreciatingly
 ashet
 appreciativ
-ate
 atrede
 aside
 akoasma
@@ -25134,6 +25133,7 @@ alcoholuria
 axite
 axites
 assault
+ate
 axle
 axled
 appendice
