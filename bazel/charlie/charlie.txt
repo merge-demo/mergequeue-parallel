@@ -31013,7 +31013,6 @@ cumol
 centiliters
 cicala
 cheilanthes
-calescence
 crepe
 colorize
 caprocks
@@ -31326,6 +31325,7 @@ callisthenics
 cinematographers
 clamber
 curetted
+calescence
 curetting
 canales
 cawk
