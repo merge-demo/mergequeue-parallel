@@ -1217,7 +1217,6 @@ brownout
 beeswaxes
 blackshirt
 bakshishes
-benedick
 bete
 bakuba
 bediaper
@@ -6537,6 +6536,7 @@ bushgoat
 breadstuff
 bushels
 bosnisch
+benedick
 bewelcome
 bavarois
 beaming
