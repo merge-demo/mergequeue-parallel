@@ -2477,6 +2477,7 @@ anglicize
 acomous
 abolitionists
 aconative
+acari
 acondylose
 artisan
 avoucher
@@ -7470,7 +7471,6 @@ alloplasm
 albuminorrhea
 albuminoscope
 afterpiece
-acari
 acanthoma
 abyssinian
 anonyms
