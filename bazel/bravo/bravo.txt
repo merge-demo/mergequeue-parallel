@@ -5479,6 +5479,7 @@ brutes
 behither
 berrigan
 bechamel
+brutalised
 bonce
 briefers
 bahmani
@@ -11170,7 +11171,6 @@ beknot
 bitewings
 breveted
 bumelia
-brutalised
 bloodwite
 bailee
 biquadratic
