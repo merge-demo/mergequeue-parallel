@@ -2889,6 +2889,7 @@ batuque
 botanical
 beglew
 beartongue
+bindwith
 blennometritis
 bonair
 bankweed
@@ -16203,7 +16204,6 @@ beluga
 browniest
 blackguardize
 beamlet
-bindwith
 bahuts
 bottomland
 bourock
