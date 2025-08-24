@@ -3963,6 +3963,7 @@ disseisoress
 delayful
 dunlap
 dooli
+deflagrability
 devitalisation
 delaminated
 demonolatrously
@@ -18657,7 +18658,6 @@ deallocation
 dux
 desquamate
 devaporation
-deflagrability
 daishikis
 downlinked
 dvigu
