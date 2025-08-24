@@ -7231,6 +7231,7 @@ clark
 cinemascope
 comite
 cubicone
+concordancer
 crispen
 clubbability
 contributorily
@@ -21490,7 +21491,6 @@ concordably
 concordal
 circumundulation
 concordance
-concordancer
 carcavelhos
 commands
 corporacies
