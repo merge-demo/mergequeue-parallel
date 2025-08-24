@@ -5020,6 +5020,7 @@ baching
 buoying
 bhunder
 beetlike
+brumbee
 babism
 beetrave
 beetrooty
@@ -16792,7 +16793,6 @@ briony
 banging
 blaffert
 brachycephaly
-brumbee
 bacterioid
 bicolligate
 buffable
