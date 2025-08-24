@@ -10413,7 +10413,6 @@ antispermotoxin
 afterbirths
 alcade
 amharic
-amherstite
 asbestus
 amhran
 asherites
@@ -20963,6 +20962,7 @@ aerogenesis
 ascocarp
 ascocarpous
 ascocarps
+amherstite
 abiologically
 amelus
 airports
