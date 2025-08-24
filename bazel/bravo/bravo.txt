@@ -5867,6 +5867,7 @@ bellmaking
 banquo
 backlashed
 bachel
+barbarianize
 buckbrush
 baronship
 bellmanship
@@ -16500,7 +16501,6 @@ bipolar
 bogy
 basic
 bargeese
-barbarianize
 biflorate
 backbiters
 bonders
