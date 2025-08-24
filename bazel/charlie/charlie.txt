@@ -13731,7 +13731,6 @@ carlet
 corolline
 chagal
 cyanometry
-cynareous
 cynaroid
 chromatical
 cinch
@@ -26259,6 +26258,7 @@ cavallas
 costiveness
 changeableness
 calliper
+cynareous
 counterstruggle
 costlessness
 charivari
