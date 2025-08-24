@@ -4333,7 +4333,6 @@ cotemporaneous
 carcinology
 cattleya
 caricatura
-caricatural
 caricature
 chud
 caricaturing
@@ -12375,6 +12374,7 @@ chrysomonadine
 chromatically
 carcinogen
 chromatician
+caricatural
 chromaticness
 chromatid
 conuses

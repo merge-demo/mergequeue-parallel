@@ -7370,6 +7370,7 @@ boomdas
 busky
 busted
 beneceptor
+blankard
 botryose
 barrace
 beton
@@ -10145,7 +10146,6 @@ blackens
 blacketeer
 bonaght
 blackfeet
-blankard
 brakeage
 barrelhouses
 barege
