@@ -6337,7 +6337,6 @@ defensorship
 dermestidae
 dermic
 delint
-daltonism
 dermis
 dermises
 diminuendo
@@ -12689,6 +12688,7 @@ definitized
 dextroses
 downcastness
 didy
+daltonism
 dyskeratosis
 diskette
 discernibleness
