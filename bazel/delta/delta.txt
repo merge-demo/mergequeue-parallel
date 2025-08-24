@@ -3450,7 +3450,6 @@ disavowance
 discontented
 defoedation
 defogged
-disyllable
 dormered
 drogh
 didelphous
@@ -16041,6 +16040,7 @@ dimanganous
 douane
 doub
 downsize
+disyllable
 decrepitude
 debaters
 direct
