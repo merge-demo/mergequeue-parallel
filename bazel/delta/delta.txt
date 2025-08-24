@@ -4766,7 +4766,6 @@ dotations
 dawdles
 durables
 douar
-dogbody
 diander
 depraves
 democratic
@@ -5960,6 +5959,7 @@ deprivals
 deceiver
 deprivement
 disconcerts
+dogbody
 davy
 dingly
 damascening
