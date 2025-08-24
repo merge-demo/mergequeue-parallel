@@ -7551,7 +7551,6 @@ cercosporella
 canalisation
 cercus
 cerdonian
-chanty
 cereal
 carrus
 changeability
@@ -16323,6 +16322,7 @@ clio
 cresses
 clip
 canterer
+chanty
 clipboard
 clipboards
 clypeal
