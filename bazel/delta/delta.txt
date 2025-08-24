@@ -4580,7 +4580,6 @@ demilitarised
 demilitarising
 drawtubes
 demilitarization
-descendible
 dehydrogenase
 dibranchiate
 demilitarized
@@ -12067,6 +12066,7 @@ dibrom
 donut
 deacon
 disensanity
+descendible
 dunderheaded
 discous
 discontinuity
