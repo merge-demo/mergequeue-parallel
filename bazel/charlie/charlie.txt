@@ -7639,6 +7639,7 @@ calcarated
 cerebrospinal
 chaetotaxy
 cerebrospinant
+chickstone
 cerebrosuria
 cerebrovascular
 collarets
@@ -10353,7 +10354,6 @@ conspirator
 chickpeas
 cerer
 chapatti
-chickstone
 consultory
 critchfield
 canariote
