@@ -12813,7 +12813,6 @@ averrer
 avenger
 asteraceous
 anglian
-apportionment
 anglic
 anglicanism
 anglicanisms
@@ -20253,6 +20252,7 @@ arrowleaf
 archipelagic
 ayin
 achromobacterieae
+apportionment
 arrowlet
 adermine
 arrowlike

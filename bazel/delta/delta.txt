@@ -1390,7 +1390,6 @@ definitised
 defroster
 davidian
 davidic
-davidical
 davidist
 desma
 dysesthetic
@@ -5897,6 +5896,7 @@ depredated
 depredationist
 definitiveness
 diagnoses
+davidical
 deleting
 droshky
 depredatory
