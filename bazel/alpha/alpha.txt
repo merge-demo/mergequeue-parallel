@@ -4385,7 +4385,6 @@ adustive
 amang
 aldoxime
 adv
-archbanc
 argue
 advaita
 awanyu
@@ -14189,6 +14188,7 @@ assertorially
 antetypes
 ahypnia
 antevert
+archbanc
 anteverting
 americanist
 anthdia
