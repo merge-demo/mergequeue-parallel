@@ -5949,7 +5949,6 @@ archt
 aggroupment
 aghan
 aghas
-aghlabite
 aghori
 allottee
 autoantibody
@@ -18723,6 +18722,7 @@ acoustically
 allomerization
 agoniatite
 archers
+aghlabite
 acetonurometer
 arches
 albumosuria
