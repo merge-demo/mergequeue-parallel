@@ -6404,6 +6404,7 @@ cloister
 cav
 ceratites
 curvinervate
+ciboules
 cavayard
 cavalcaded
 cavalcades
@@ -13131,7 +13132,6 @@ cryptocarpic
 cyborg
 ceros
 cibory
-ciboules
 cyc
 cicad
 cycadaceae
