@@ -10947,7 +10947,6 @@ bellhop
 byerlite
 batement
 benchmar
-blinkingly
 blinter
 batel
 bilharzic
@@ -14806,6 +14805,7 @@ buckles
 brazilian
 bunked
 billycock
+blinkingly
 baulks
 backwaters
 beefishness
