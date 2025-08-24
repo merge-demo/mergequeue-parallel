@@ -4539,6 +4539,7 @@ clapperdudgeon
 carnied
 carniferrin
 colorcast
+coulter
 carnifex
 carnifexes
 cationic
@@ -26569,7 +26570,6 @@ cornbird
 cystectomies
 coulombmeter
 coulombs
-coulter
 coulterneb
 circumscription
 coulthard
