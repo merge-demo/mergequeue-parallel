@@ -8705,7 +8705,6 @@ chanticleer
 chanticleers
 chantier
 capreomycin
-chanties
 chantilly
 conformity
 connubially
@@ -14374,6 +14373,7 @@ circumradius
 circumradiuses
 charitable
 claver
+chanties
 conferring
 cevadilla
 conamed
