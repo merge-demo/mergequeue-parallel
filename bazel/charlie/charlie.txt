@@ -20419,7 +20419,6 @@ compagnies
 cresols
 condonative
 concamerate
-companable
 companage
 counterword
 cerebroma
@@ -24526,6 +24525,7 @@ copeman
 copemate
 copending
 colonialist
+companable
 clinquant
 calorizes
 copenetrate
