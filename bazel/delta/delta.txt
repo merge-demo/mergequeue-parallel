@@ -6360,7 +6360,6 @@ decent
 downtrod
 discordful
 dolus
-discontinuing
 dislimn
 divorcing
 dugong
@@ -16406,6 +16405,7 @@ downtake
 desiatin
 doorplate
 duodecane
+discontinuing
 dewret
 downthrown
 denaturation
