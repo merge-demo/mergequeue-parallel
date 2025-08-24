@@ -1116,7 +1116,6 @@ bluethroat
 brewmaster
 boyg
 breakwind
-battercake
 belonesite
 berne
 banquets
@@ -6445,6 +6444,7 @@ barangay
 biternate
 benzothiofuran
 benzotrichloride
+battercake
 bolection
 benzoxyacetic
 blanchers
