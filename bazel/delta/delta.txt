@@ -3532,7 +3532,6 @@ developedness
 defunct
 descendence
 debarked
-discredence
 dawcock
 drumlin
 defunction
@@ -13082,6 +13081,7 @@ duckish
 disesteeming
 dispatches
 dampens
+discredence
 drillings
 dimethylsulfoxide
 discocarpium
