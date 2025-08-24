@@ -10140,7 +10140,6 @@ ambulator
 ambulatory
 ambulatoria
 alternating
-anurans
 affluent
 agraphias
 ambulatories
@@ -24588,6 +24587,7 @@ aveloz
 autoheterodyne
 aralkyl
 ambassador
+anurans
 avena
 agouti
 avenage
