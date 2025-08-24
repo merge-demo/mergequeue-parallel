@@ -3267,6 +3267,7 @@ auscultoscope
 acetite
 adagissimo
 achromatise
+astrolabe
 amalgamators
 adai
 arrestors
@@ -22269,7 +22270,6 @@ archaical
 ailurophobic
 assonia
 atechny
-astrolabe
 astrolatry
 astrolithology
 anaesthesiant
