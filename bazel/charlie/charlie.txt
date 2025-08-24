@@ -5000,6 +5000,7 @@ carucate
 carum
 coachwork
 correlational
+coloristic
 caruncles
 caruncula
 crusades
@@ -15236,7 +15237,6 @@ clair
 clairaudience
 countertug
 claire
-coloristic
 conditionalities
 counterclaimed
 clairecole
