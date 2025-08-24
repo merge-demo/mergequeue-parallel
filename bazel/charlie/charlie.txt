@@ -5533,7 +5533,6 @@ catakinomeric
 corkscrewy
 catalanganes
 catalatic
-catalects
 cycledom
 comicoprosaic
 crushingly
@@ -25120,6 +25119,7 @@ corers
 cores
 carbonates
 chlorospinel
+catalects
 coresign
 coresonant
 convento
