@@ -226,6 +226,7 @@ cacara
 chthonophagia
 cacatuidae
 cacatuinae
+clamworm
 coactions
 caccagogue
 confluxibility
@@ -1102,7 +1103,6 @@ cytherea
 cheeser
 calciner
 chomer
-clamworm
 columella
 calcinosis
 calciobiotite
