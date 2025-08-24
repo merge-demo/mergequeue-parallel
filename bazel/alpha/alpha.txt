@@ -21542,6 +21542,7 @@ assayable
 afterpotential
 argyroneta
 assayed
+agnatic
 amorist
 assayers
 assaying
@@ -21755,7 +21756,6 @@ assinuate
 alternanthera
 assyriology
 anaglyphics
-agnatic
 assyriological
 agronomist
 amowt
