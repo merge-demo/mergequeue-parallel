@@ -2195,6 +2195,7 @@ campodeoid
 campody
 campong
 campongs
+cosmo
 convincing
 counterclaiming
 cheiropodist
@@ -26093,7 +26094,6 @@ contraprops
 cadgy
 cressy
 cosmists
-cosmo
 cosmochemical
 consanguineal
 cheese
