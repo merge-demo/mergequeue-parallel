@@ -5171,6 +5171,7 @@ affere
 abnegative
 affianced
 angakok
+assigner
 aerophilic
 affiancing
 antievolutionistic
@@ -11362,7 +11363,6 @@ admirers
 airlight
 abody
 amps
-assigner
 absinthe
 admire
 ampul
