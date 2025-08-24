@@ -8559,6 +8559,7 @@ analyzer
 allantoinase
 ampullosity
 allantoinuria
+asthenical
 acetoxim
 allantoxaidin
 actinouranium
@@ -22035,7 +22036,6 @@ asthenia
 amours
 abampere
 audiograms
-asthenical
 accumulable
 arpeggiando
 arrowstone
