@@ -1556,7 +1556,6 @@ ballhooter
 balli
 burmanniaceous
 burlesques
-befiddle
 bacchanal
 ballies
 backrushes
@@ -8193,6 +8192,7 @@ bifara
 bootleger
 bedress
 biff
+befiddle
 broadwayite
 bifilar
 brecciating
