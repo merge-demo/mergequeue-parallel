@@ -9816,7 +9816,6 @@ dives
 delinquence
 daimones
 denumerable
-deicer
 digesters
 dumetose
 dillydally
@@ -14753,6 +14752,7 @@ decasemic
 deviative
 dks
 dankest
+deicer
 dlvy
 diademed
 deburse
