@@ -4561,7 +4561,6 @@ dogmatician
 dotier
 demihagbut
 dextrocular
-demihake
 demihaque
 demihogshead
 demijambe
@@ -10016,6 +10015,7 @@ deinos
 dimple
 diplomas
 dimpled
+demihake
 deputised
 dimplement
 dorosoma

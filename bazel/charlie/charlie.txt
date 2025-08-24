@@ -7946,7 +7946,6 @@ cetologist
 cetomorpha
 cumular
 celiomyalgia
-cetomorphic
 cetonia
 cetonian
 curwhibble
@@ -22357,6 +22356,7 @@ congressionalist
 congressionally
 corolla
 complementally
+cetomorphic
 congressionist
 coradicate
 congressist
