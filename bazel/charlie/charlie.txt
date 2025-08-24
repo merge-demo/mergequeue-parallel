@@ -12915,7 +12915,6 @@ churchward
 chairmanned
 chemotaxonomist
 cutling
-chummily
 chilliwack
 curried
 churchwardenism
@@ -20031,6 +20030,7 @@ cotillion
 citrylidene
 curmurging
 commencer
+chummily
 commencing
 commenda
 coloslossuses
