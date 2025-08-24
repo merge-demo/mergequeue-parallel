@@ -2111,7 +2111,6 @@ costumery
 cixiid
 capriciousness
 campcraft
-campe
 cryal
 camped
 campephagine
@@ -17207,6 +17206,7 @@ computationally
 coagitator
 coagment
 cleptobiotic
+campe
 coagmentation
 coagonize
 coagriculturist
