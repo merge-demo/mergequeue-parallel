@@ -804,6 +804,7 @@ cayenned
 chattelize
 contouring
 corban
+chalcosine
 cailcedra
 counterrestoration
 coronations
@@ -8274,7 +8275,6 @@ chalcomenite
 chalcone
 chalcopyrite
 chalcosiderite
-chalcosine
 crocodilite
 coween
 cronyism
