@@ -3523,7 +3523,6 @@ blackroot
 bathed
 bellower
 backslidden
-bicondylar
 baryons
 bimini
 bathycentesis
@@ -13574,6 +13573,7 @@ bacchian
 bough
 barie
 ballproof
+bicondylar
 bibliokleptomania
 baroco
 bismutosmaltite

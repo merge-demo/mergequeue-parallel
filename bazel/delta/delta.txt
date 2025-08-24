@@ -4497,6 +4497,7 @@ deficiently
 diceplay
 duress
 demy
+disvalued
 disenjoy
 decahydrated
 dovetailing
@@ -15585,7 +15586,6 @@ doni
 drammocks
 diopsides
 deliquesced
-disvalued
 derobe
 designators
 dement
