@@ -8447,7 +8447,6 @@ bavardage
 bootjack
 bouteloua
 bilgeway
-bilgier
 bilharzial
 beglerbey
 bilharziosis
@@ -11069,6 +11068,7 @@ blocker
 brid
 blockhead
 bifoliolate
+bilgier
 blockheaded
 bankruptlike
 beguines
