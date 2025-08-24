@@ -2508,7 +2508,6 @@ declarations
 declarative
 deligation
 druggist
-demieagle
 discomorula
 druith
 dorothea
@@ -8910,6 +8909,7 @@ deposited
 downdraught
 dioptidae
 disconnect
+demieagle
 dissolvability
 desex
 dichas
