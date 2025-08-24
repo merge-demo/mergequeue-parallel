@@ -6962,6 +6962,7 @@ beslimes
 besliming
 backsheesh
 breme
+brutage
 bepaid
 beslobber
 besluit
@@ -15624,7 +15625,6 @@ bromeliaceous
 bacteriologist
 beakerful
 broadcloth
-brutage
 bayonet
 broadeners
 broadenings
