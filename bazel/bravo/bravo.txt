@@ -7916,6 +7916,7 @@ befall
 bibliosoph
 bibliotaphe
 bibliothecae
+bobotie
 bibliothecarian
 bibliotheque
 bungalows
@@ -17856,7 +17857,6 @@ burling
 brisks
 bestselling
 brawns
-bobotie
 blowfly
 bush
 bloviate
