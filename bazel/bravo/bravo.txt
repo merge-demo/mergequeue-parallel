@@ -6446,7 +6446,6 @@ backcloth
 barangay
 biternate
 benzothiofuran
-benzothiophene
 benzotrichloride
 bolection
 benzoxyacetic
@@ -17551,6 +17550,7 @@ burgality
 beaufort
 bouses
 bakshis
+benzothiophene
 blackpoll
 burgall
 biddance
