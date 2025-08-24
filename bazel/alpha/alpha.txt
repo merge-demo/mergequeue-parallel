@@ -14989,7 +14989,6 @@ antidactyl
 antidemocrat
 armstrong
 auroras
-alienator
 antidemoniac
 asarums
 antidepressant
@@ -16139,6 +16138,7 @@ acidifiant
 alular
 adenia
 antispiritualistic
+alienator
 antithesis
 antispiritually
 agrement

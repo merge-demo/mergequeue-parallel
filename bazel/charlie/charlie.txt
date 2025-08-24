@@ -11809,6 +11809,7 @@ consonantally
 chondroprotein
 cult
 chondropterygian
+coachlet
 construed
 colpohysterotomy
 chondrosin
@@ -25192,7 +25193,6 @@ corymbiate
 corymbiated
 concreteness
 craylet
-coachlet
 corymblike
 corymbose
 capitally
