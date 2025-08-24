@@ -3018,7 +3018,6 @@ deploy
 diphthongs
 deucedly
 dowress
-denty
 decarbonized
 desegregation
 deers
@@ -14855,6 +14854,7 @@ dumontite
 downspout
 doctored
 defensive
+denty
 doctorfishes
 decomponible
 diethylenediamine
