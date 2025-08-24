@@ -98,7 +98,6 @@ auditories
 abarticulation
 agyieus
 abase
-abased
 asap
 abasedly
 abasers
@@ -8417,6 +8416,7 @@ araignee
 antilog
 albicore
 avogram
+abased
 anticausotic
 acetonyl
 abapical
