@@ -11196,7 +11196,6 @@ disbands
 depopulate
 disbarring
 disbars
-disbase
 dani
 disbeliefs
 diarchic
@@ -15683,6 +15682,7 @@ daggers
 departement
 doorstop
 devotionality
+disbase
 diodes
 desensitizer
 deaconize
