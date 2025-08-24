@@ -3269,6 +3269,7 @@ burdie
 basipodite
 blank
 basipterygium
+brodekin
 battle
 baratheas
 believe
@@ -17031,7 +17032,6 @@ barosinusitis
 bullamacow
 boorga
 bleakly
-brodekin
 bullate
 belating
 bullback
