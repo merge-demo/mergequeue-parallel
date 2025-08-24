@@ -316,6 +316,7 @@ daybeacon
 daybed
 devchar
 disembowelment
+dabchick
 dissuasiveness
 dollfaced
 daybill
@@ -6548,7 +6549,6 @@ decilitre
 doddies
 descrive
 descure
-dabchick
 desecrater
 duckfooted
 duet
