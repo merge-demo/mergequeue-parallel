@@ -6500,6 +6500,7 @@ dimensioned
 dipeptid
 dentellated
 disqualification
+disjuncts
 directable
 delignated
 disomatous
@@ -16552,7 +16553,6 @@ dilucidate
 disdainable
 drafter
 diomedes
-disjuncts
 dictated
 dehydrofreezing
 dethroning
