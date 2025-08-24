@@ -2200,7 +2200,6 @@ dongolese
 duarch
 disinfective
 decartelization
-decatize
 doggeries
 decartelizing
 dowries
@@ -8709,6 +8708,7 @@ delicioso
 diastrophically
 distort
 diatesseron
+decatize
 dichrooscopic
 disenfranchisements
 dorsonuchal
