@@ -3096,6 +3096,7 @@ dentated
 dislade
 defamed
 devove
+diverticulum
 dilogical
 duxes
 disestablisher
@@ -14860,7 +14861,6 @@ dolors
 desmectasia
 dennet
 docks
-diverticulum
 dehiscent
 demonologist
 docmac
