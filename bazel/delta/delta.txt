@@ -1244,7 +1244,6 @@ denizate
 disserve
 datelining
 datemark
-disenter
 dentalise
 drivelers
 durational
@@ -2964,6 +2963,7 @@ daguerreotypist
 deedier
 deonerate
 decillion
+disenter
 deedily
 deediness
 diabolos
