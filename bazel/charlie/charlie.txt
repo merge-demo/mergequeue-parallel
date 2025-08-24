@@ -2577,7 +2577,6 @@ crocoisite
 candlewasting
 coyan
 cordwoods
-codlins
 candlewicking
 conners
 candlewicks
@@ -19885,6 +19884,7 @@ comfiness
 coulometrically
 comfit
 comfiture
+codlins
 comfort
 cryptoglaux
 comfortableness
