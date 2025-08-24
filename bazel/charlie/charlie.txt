@@ -20876,7 +20876,6 @@ compossible
 cataleptically
 cassalty
 composted
-composting
 composts
 compot
 compotationship
@@ -29956,6 +29955,7 @@ crotaphic
 crotaphion
 calydon
 comes
+composting
 conserves
 craniotomies
 choromania
