@@ -14112,7 +14112,6 @@ bugged
 butsudan
 bumbaze
 brighteyes
-birdlore
 brachiosaur
 brachiosaurus
 brachyphyllum
@@ -16120,6 +16119,7 @@ boneflower
 boughless
 bicalvous
 bdellidae
+birdlore
 balklines
 brotheler
 bulla
