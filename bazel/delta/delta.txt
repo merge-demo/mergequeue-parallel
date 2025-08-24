@@ -10637,7 +10637,6 @@ deco
 diauli
 decompressing
 diplomats
-dysporomorph
 drawfile
 diplonema
 deuteric
@@ -15730,6 +15729,7 @@ dopier
 dogstone
 desi
 docile
+dysporomorph
 dunce
 dartrose
 didrachma
