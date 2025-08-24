@@ -14833,6 +14833,7 @@ catharsis
 cis
 copremia
 cytoarchitectural
+cleistogene
 cytoblast
 confidences
 cytoblastema
@@ -31557,7 +31558,6 @@ cauliflower
 cortine
 curtainless
 curtays
-cleistogene
 curtal
 cuddles
 cobdenism
