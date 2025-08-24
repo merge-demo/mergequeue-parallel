@@ -26400,7 +26400,6 @@ connu
 cuprein
 cotingoid
 chancel
-cotype
 cusparine
 cotise
 calycophoran
@@ -29886,6 +29885,7 @@ crossite
 contriteness
 cinnamenyl
 crosslegs
+cotype
 complainer
 captived
 criolla
