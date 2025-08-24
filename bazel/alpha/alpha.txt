@@ -944,6 +944,7 @@ antichymosin
 apprehension
 alkalify
 armloads
+ape
 aristos
 absorptiveness
 absorptivity
@@ -7679,7 +7680,6 @@ almadia
 alderamin
 avianize
 asexually
-ape
 alderman
 alectoromorphous
 aldermanate
