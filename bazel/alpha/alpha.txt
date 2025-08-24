@@ -4560,6 +4560,7 @@ apish
 ascomycetal
 aviary
 advowsons
+affectionless
 advt
 aurigal
 adward
@@ -6610,7 +6611,6 @@ ageustia
 aimak
 appertinent
 allotypic
-affectionless
 azotin
 autocamp
 autogiros
