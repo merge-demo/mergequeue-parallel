@@ -11545,7 +11545,6 @@ blup
 barbs
 blurb
 blurbist
-bandores
 bananist
 blacklists
 basad
@@ -12750,6 +12749,7 @@ bookmobiles
 burlesk
 bookpress
 bookracks
+bandores
 blacklegging
 baronry
 begut

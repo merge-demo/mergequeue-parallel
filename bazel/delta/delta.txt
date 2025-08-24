@@ -913,6 +913,7 @@ daoine
 decks
 dap
 diuron
+dictation
 dapedius
 decatholicize
 disburdens
@@ -2015,7 +2016,6 @@ denehole
 dentello
 dimble
 defaecate
-dictation
 dacryocele
 demurely
 decadrachma
