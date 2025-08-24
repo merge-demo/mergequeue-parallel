@@ -10600,6 +10600,7 @@ bicepses
 blusterous
 bluing
 backlands
+both
 bisti
 belemnite
 blazonment
@@ -13331,7 +13332,6 @@ botella
 becobweb
 botels
 bebrave
-both
 bradyphagia
 bothersome
 bothered
