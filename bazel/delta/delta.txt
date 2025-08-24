@@ -4902,6 +4902,7 @@ denature
 dramseller
 demonolater
 drupose
+deducement
 dismality
 dissimilation
 dissecting
@@ -10350,7 +10351,6 @@ deoxidized
 disnature
 drillmasters
 denudation
-deducement
 disfavoring
 desilverizer
 discophore

@@ -11055,7 +11055,6 @@ ampelography
 apter
 ampelographist
 ascensional
-ampelograpny
 ampelopsidin
 abirritative
 ampelopsis
@@ -22339,6 +22338,7 @@ acrasiaceae
 adversion
 astrotheology
 anisostemonous
+ampelograpny
 astrut
 asturian
 aprendiz
