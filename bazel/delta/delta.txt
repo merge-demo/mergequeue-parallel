@@ -5062,7 +5062,6 @@ denaturing
 duplicand
 diminishingturns
 denaturise
-diopsidae
 disfigures
 dextrogyrate
 denaturization
@@ -10358,6 +10357,7 @@ demove
 dioptric
 dioptrical
 diorama
+diopsidae
 daroo
 dioramas
 diophantine
