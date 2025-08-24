@@ -11814,7 +11814,6 @@ consonantally
 chondroprotein
 cult
 chondropterygian
-chondropterygious
 construed
 colpohysterotomy
 chondrosin
@@ -17957,6 +17956,7 @@ cocoanuts
 coedits
 coeducationalism
 coeducationalize
+chondropterygious
 coef
 chromosphere
 contractibility
