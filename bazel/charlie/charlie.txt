@@ -669,7 +669,6 @@ creatins
 caestuses
 caesura
 cybernated
-caesurae
 caesuric
 caf
 cinefilm
@@ -8664,6 +8663,7 @@ changes
 changs
 changuina
 chankings
+caesurae
 channel
 channelbill
 coendou
