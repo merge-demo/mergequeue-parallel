@@ -996,7 +996,6 @@ calanque
 calantas
 chromocenter
 chondroid
-calapite
 caprelline
 calappidae
 calas
@@ -25321,6 +25320,7 @@ cotyliscus
 ce
 coldbloodedness
 corncutter
+calapite
 corndodger
 cornea
 corneal
