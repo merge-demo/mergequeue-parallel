@@ -25688,7 +25688,6 @@ cistophoric
 coppiced
 circumrotating
 correspond
-corresponded
 correspondence
 correspondences
 correspondency
@@ -29146,6 +29145,7 @@ chalazae
 cryophyllite
 cryophyte
 criophore
+corresponded
 crannogs
 chlordiazepoxide
 crownband
