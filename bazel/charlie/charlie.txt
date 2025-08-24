@@ -18245,7 +18245,6 @@ coexperiencer
 coextend
 catchment
 coextends
-creep
 coextent
 conditivia
 cofactors
@@ -25146,6 +25145,7 @@ cathartae
 crampoons
 chrysocale
 cladogenesis
+creep
 corge
 cory
 curculionist
