@@ -16447,6 +16447,7 @@ cliver
 clivers
 clivis
 clivus
+coeffects
 clk
 clo
 cloaca
@@ -30684,7 +30685,6 @@ chides
 camiknickers
 cued
 chiropterygium
-coeffects
 countermachination
 cheetie
 caroche

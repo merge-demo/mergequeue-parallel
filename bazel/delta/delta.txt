@@ -8152,7 +8152,6 @@ dragginess
 diacatholicon
 diacaustic
 diamminonitrate
-delacerate
 diapasons
 destitution
 dipsetic
@@ -15698,6 +15697,7 @@ doorward
 doover
 doozers
 dowieism
+delacerate
 didascaliae
 daiker
 diobely
