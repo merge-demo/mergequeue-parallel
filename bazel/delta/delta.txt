@@ -2626,7 +2626,6 @@ decolours
 decommission
 decommissioned
 dumbbeller
-discriminably
 decian
 dozers
 deepens
@@ -6776,6 +6775,7 @@ dietzeite
 desiredly
 dextrinize
 distruster
+discriminably
 desirer
 drachma
 daira
