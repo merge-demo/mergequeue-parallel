@@ -8383,6 +8383,7 @@ burbankian
 bannerfish
 bijwoner
 beanie
+bonity
 bothriocidaris
 buisson
 bauchle
@@ -12562,7 +12563,6 @@ bonitary
 beauing
 bistroic
 bonitarian
-bonity
 boroughlet
 bemocks
 bardane
