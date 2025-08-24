@@ -3517,7 +3517,6 @@ bathes
 backslidden
 bicondylar
 baryons
-becudgel
 bimini
 bathycentesis
 benincasa
@@ -18277,6 +18276,7 @@ butterworker
 broadaxe
 boulimy
 buttgenbachite
+becudgel
 bolimba
 boomeranging
 burrowing
