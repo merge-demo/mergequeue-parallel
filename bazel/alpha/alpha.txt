@@ -7043,7 +7043,6 @@ arthresthesia
 aroint
 androides
 arythmic
-akkadian
 akkadist
 akmite
 aftershock
@@ -18574,6 +18573,7 @@ archaic
 acing
 anisol
 apogaic
+akkadian
 acalepha
 available
 animability
