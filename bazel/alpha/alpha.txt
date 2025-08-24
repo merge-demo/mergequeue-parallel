@@ -2040,6 +2040,7 @@ altitudinal
 acheiria
 aboveboard
 acidulousness
+antivolition
 antidromic
 achenes
 alphabets
@@ -9542,7 +9543,6 @@ altos
 altostratus
 altrices
 antipart
-antivolition
 aglets
 amygdaloncus
 aworth
