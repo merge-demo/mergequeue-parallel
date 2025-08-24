@@ -3722,7 +3722,6 @@ daytale
 dehydrocorticosterone
 drabble
 drepanoid
-diecase
 didact
 dehydrogenate
 dawtet
@@ -10214,6 +10213,7 @@ despises
 dzeron
 depopularize
 dismortgage
+diecase
 dimethoxy
 dining
 discoplacental
