@@ -911,6 +911,7 @@ decks
 dap
 diuron
 dapedius
+decatholicize
 disburdens
 dinornithine
 danio
@@ -12987,7 +12988,6 @@ dicephalous
 depressionary
 dainful
 demons
-decatholicize
 dosimetrician
 duogravure
 differers
