@@ -847,7 +847,6 @@ bloody
 bagdi
 bunters
 begoniaceae
-bauxites
 bicolour
 bagful
 barasingha
@@ -2275,6 +2274,7 @@ bombproof
 blype
 businessese
 bizet
+bauxites
 bestseller
 beanball
 backrest
