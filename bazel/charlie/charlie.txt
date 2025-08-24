@@ -18919,6 +18919,7 @@ collabent
 collaborates
 collaborating
 celibataire
+computerese
 collaborationists
 collaborative
 circulatable
@@ -21056,7 +21057,6 @@ computatively
 computativeness
 circumstantiates
 computer
-computerese
 computerise
 computerization
 computerizes
