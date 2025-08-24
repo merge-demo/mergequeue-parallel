@@ -9851,7 +9851,6 @@ chemiloon
 chemiluminescence
 chemiotactic
 chemiotaxic
-carvone
 chemiotaxis
 chemiotropic
 cerebropsychosis
@@ -13700,6 +13699,7 @@ claimable
 cymosely
 cervine
 casefied
+carvone
 caleb
 consignatory
 cymraeg
