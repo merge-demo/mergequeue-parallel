@@ -8841,6 +8841,7 @@ dibenzoyl
 depilator
 dialyzable
 deg
+droopt
 dichotomal
 dentatocillitate
 dibenzophenazine
@@ -15348,7 +15349,6 @@ durante
 dendroclastic
 decelerate
 dejecture
-droopt
 decalcomania
 didelphyidae
 dolmans
