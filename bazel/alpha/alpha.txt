@@ -9090,7 +9090,6 @@ allwhere
 accipitres
 applejack
 allwork
-antiquate
 allworthy
 afrikaner
 anthroposophic
@@ -17535,6 +17534,7 @@ algors
 appendancy
 arboricultural
 aouellimiden
+antiquate
 androspore
 appendency
 appendicalgia
