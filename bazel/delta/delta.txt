@@ -12260,6 +12260,7 @@ desegregate
 dysadaptation
 dispeoplement
 deking
+deertongue
 delphinine
 ditone
 disgavelling
@@ -13814,7 +13815,6 @@ disstate
 dissuaded
 delayed
 debunk
-deertongue
 dissuades
 dissuading
 determinations
