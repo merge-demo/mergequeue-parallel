@@ -1302,7 +1302,6 @@ bottine
 balantidic
 bearlike
 balaos
-baroquely
 benzamino
 barbed
 balases
@@ -2805,6 +2804,7 @@ biquadrate
 baroswitch
 barotaxy
 bld
+baroquely
 bitis
 ballgowns
 bulkiest
