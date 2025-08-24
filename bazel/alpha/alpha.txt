@@ -22349,6 +22349,7 @@ asudden
 acetotoluide
 aswarm
 aswash
+auscultascope
 adyton
 aristarchy
 asweve
@@ -23647,7 +23648,6 @@ anagrammatical
 anisuria
 aurums
 alopecurus
-auscultascope
 autoregenerator
 adzes
 andropetalar
