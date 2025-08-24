@@ -13996,6 +13996,7 @@ cinquepace
 cinter
 ceratopsid
 cynthiidae
+coopering
 coeditor
 cintre
 cinura
@@ -24416,7 +24417,6 @@ cooperatives
 coopered
 cooperia
 cooperies
-coopering
 checksummed
 caroli
 coopers
