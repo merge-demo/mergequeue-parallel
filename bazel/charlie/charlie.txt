@@ -4388,6 +4388,7 @@ coheartedness
 cusec
 concrew
 cynara
+collects
 carinula
 camisas
 carinulate
@@ -13010,7 +13011,6 @@ cyanhydrin
 citrean
 cyanic
 cyanid
-collects
 casel
 catamenial
 continentality
