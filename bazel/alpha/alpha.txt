@@ -22736,7 +22736,6 @@ atomically
 atomician
 ambroids
 assimilative
-asterioid
 adelphoi
 alpinely
 ataxaphasia
@@ -24263,6 +24262,7 @@ autopoint
 autopoisonous
 arriving
 acclimatize
+asterioid
 autopolar
 autodiffusion
 autopolyploid
