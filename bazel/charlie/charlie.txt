@@ -4595,7 +4595,6 @@ cochlea
 counterrevolutions
 circlers
 canescene
-chronisotherm
 cangenet
 caryotin
 cutleria
@@ -27887,6 +27886,7 @@ cionoptosis
 crackers
 cradlemaking
 consolidates
+chronisotherm
 cracket
 crackpotism
 cisterns
