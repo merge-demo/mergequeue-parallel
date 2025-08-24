@@ -10906,7 +10906,6 @@ bluelegs
 blindfolded
 bassus
 butterbush
-blindfoldedness
 basalt
 bemoon
 blinding
@@ -15555,6 +15554,7 @@ brunswick
 born
 bromacetanilide
 bristlelike
+blindfoldedness
 brigander
 beingless
 borer
