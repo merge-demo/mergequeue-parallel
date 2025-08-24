@@ -274,6 +274,7 @@ autoserotherapy
 armoire
 arian
 arsines
+aplodontiidae
 abdominalian
 appurtenances
 accuracy
@@ -16919,7 +16920,6 @@ amulet
 aplitic
 aplobasalt
 aplodontia
-aplodontiidae
 ambitty
 aplomb
 amygdaliferous
