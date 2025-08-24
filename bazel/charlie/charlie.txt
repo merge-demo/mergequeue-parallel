@@ -15570,6 +15570,7 @@ cormlike
 cupel
 clasmatocyte
 ccoya
+cupric
 clasmatocytic
 clasmatosis
 cuitle
@@ -22155,7 +22156,6 @@ confraternal
 cigala
 confrere
 circumcorneal
-cupric
 crocheters
 colpeurynter
 confrerie
