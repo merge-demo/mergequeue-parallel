@@ -10039,7 +10039,6 @@ dimplier
 denudement
 dimpsy
 demodulation
-detailer
 downgyved
 demist
 disordain
@@ -13405,6 +13404,7 @@ desanding
 discord
 dunghills
 disputes
+detailer
 disdiaclast
 disputing
 dayflower
