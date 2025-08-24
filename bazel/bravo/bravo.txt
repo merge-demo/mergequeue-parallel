@@ -8041,7 +8041,6 @@ bourrelet
 blanque
 boatman
 buckbeans
-bespousing
 blowbacks
 busked
 bluntness
@@ -10477,6 +10476,7 @@ blasting
 borolanite
 blastings
 blastocele
+bespousing
 batodendron
 brickfielder
 beeflower
