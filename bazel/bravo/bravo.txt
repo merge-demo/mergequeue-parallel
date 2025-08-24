@@ -4531,6 +4531,7 @@ bater
 bool
 bedabble
 beaten
+bouffante
 busts
 beballed
 beagles
@@ -12897,7 +12898,6 @@ bdellatomy
 bungmaker
 babka
 boosting
-bouffante
 bump
 bursectomy
 brachigerous
