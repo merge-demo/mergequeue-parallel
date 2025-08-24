@@ -2945,7 +2945,6 @@ adrenolytic
 actinoblast
 actinobranch
 abdication
-actinocarpic
 actinochemistry
 antifoaming
 actinocrinid
@@ -5102,6 +5101,7 @@ ancien
 aphoria
 anamorphism
 aetomorphae
+actinocarpic
 accessed
 aetosaurus
 almohade
