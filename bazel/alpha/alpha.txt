@@ -7190,7 +7190,6 @@ allele
 aqueoglacial
 albuminose
 alarm
-abatic
 assumably
 abbess
 alarmclock
@@ -9991,6 +9990,7 @@ arboreal
 appel
 anticipator
 arousing
+abatic
 ambigu
 ambiguity
 anorthitite

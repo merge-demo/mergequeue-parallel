@@ -3559,6 +3559,7 @@ capturing
 curricular
 capuan
 capuched
+cinnamic
 chortler
 counterbase
 conacaste
@@ -7442,7 +7443,6 @@ cledge
 ceramium
 ceramographic
 convell
-cinnamic
 canvass
 citified
 chloroformed
