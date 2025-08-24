@@ -2391,6 +2391,7 @@ betowel
 blinkering
 bardolph
 barbion
+bestrow
 brotherhood
 bards
 bardship
@@ -3839,7 +3840,6 @@ bawcocks
 branniest
 bawdier
 bawdies
-bestrow
 bricklaying
 backaches
 belvidere

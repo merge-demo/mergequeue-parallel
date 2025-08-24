@@ -8626,6 +8626,7 @@ chimneying
 causidical
 corcopali
 changedale
+covenance
 calpac
 canccelli
 commissaryship
@@ -27493,7 +27494,6 @@ conceptualistic
 corpus
 cocas
 canephoros
-covenance
 cammed
 covenantal
 corrodant
