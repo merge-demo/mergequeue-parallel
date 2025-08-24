@@ -6133,6 +6133,7 @@ dropout
 dimission
 durgen
 deader
+doylt
 deckedout
 derated
 diphtheroid
@@ -8023,7 +8024,6 @@ dialects
 defences
 derbylite
 defenestration
-doylt
 dietician
 duomi
 dispersion
