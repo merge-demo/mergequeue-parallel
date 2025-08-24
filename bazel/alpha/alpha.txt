@@ -9702,7 +9702,6 @@ amadelphous
 amadous
 androkinin
 ahluwalia
-astrict
 alethiological
 amoving
 amah
@@ -24850,6 +24849,7 @@ amphithect
 astronavigation
 avshar
 autocoherer
+astrict
 acknown
 ayenbite
 attractableness
