@@ -3863,7 +3863,6 @@ carbonimeter
 carbonimide
 choultries
 contrastimulant
-costaea
 chinkle
 criminalness
 cilicism
@@ -31253,6 +31252,7 @@ curate
 cerement
 curates
 curatess
+costaea
 cliency
 curation
 cutworks
