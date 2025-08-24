@@ -1323,6 +1323,7 @@ acc
 accable
 accel
 accelerable
+adjuvants
 animalizing
 amenorrhea
 accelerando
@@ -12901,7 +12902,6 @@ anguineal
 anguiped
 acutes
 anguishes
-adjuvants
 anguishing
 anisogamic
 angula
