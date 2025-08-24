@@ -1805,7 +1805,6 @@ camail
 camailed
 camails
 calzada
-camaka
 camaldolese
 camaldolesian
 camaldule
@@ -30212,6 +30211,7 @@ cruised
 controllers
 caquetoires
 cruises
+camaka
 cruising
 censes
 cruive
