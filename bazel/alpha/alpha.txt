@@ -13392,6 +13392,7 @@ annamite
 annapolis
 annapurna
 annas
+antecolic
 annates
 annattos
 alations
@@ -13995,7 +13996,6 @@ autocatalytic
 antechoirs
 abditive
 axostyle
-antecolic
 antecornu
 antecourt
 antecoxal
