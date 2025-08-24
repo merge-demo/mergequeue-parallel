@@ -6597,7 +6597,6 @@ bluff
 broquineer
 betons
 bannerer
-bere
 butterbox
 brotula
 beetlers
@@ -9926,6 +9925,7 @@ burnbeat
 bedivere
 bana
 bedrivelling
+bere
 bituminoid
 belsire
 bipropellant
