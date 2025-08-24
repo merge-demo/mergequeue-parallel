@@ -2363,7 +2363,6 @@ bemoisten
 bardcraft
 barde
 beleve
-buckhorn
 branchling
 bobtails
 bardesanite
@@ -6196,6 +6195,7 @@ beneighbored
 beneme
 blanker
 baited
+buckhorn
 barrigudo
 barbless
 buchmanism
