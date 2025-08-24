@@ -6365,7 +6365,6 @@ batsmanship
 benzylic
 benziminazole
 bethinking
-bostrychoidal
 benzine
 blackfly
 bubbliness
@@ -8042,6 +8041,7 @@ bicornate
 brutal
 bicorned
 bochur
+bostrychoidal
 bicornous
 booklift
 bagroom
