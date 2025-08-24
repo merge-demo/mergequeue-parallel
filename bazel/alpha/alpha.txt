@@ -1764,7 +1764,6 @@ acediamin
 acediamine
 acedias
 acanthological
-abbreviature
 autopathy
 agalloch
 aceldamas
@@ -9598,6 +9597,7 @@ assheadedness
 amarvel
 aluminyl
 aponeurorrhaphy
+abbreviature
 alviducous
 abominable
 archchief
