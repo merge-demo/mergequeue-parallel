@@ -3977,6 +3977,7 @@ administratrix
 antiliquor
 admirable
 authenticness
+aliptteria
 anlases
 admirably
 admirals
@@ -7833,7 +7834,6 @@ appropriates
 alembic
 abolishes
 antimedieval
-aliptteria
 alembicated
 antetype
 alembroth
