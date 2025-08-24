@@ -3206,7 +3206,6 @@ carmetta
 cagester
 chinoiserie
 capilli
-capilliculture
 cogracious
 clunks
 cosmoid
@@ -25378,6 +25377,7 @@ concertati
 chamades
 cornhusking
 coulombic
+capilliculture
 consummate
 corny
 cornic
