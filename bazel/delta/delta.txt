@@ -4578,6 +4578,7 @@ diwans
 demilitarise
 demilitarised
 demilitarising
+diversipedate
 drawtubes
 demilitarization
 dehydrogenase
@@ -9919,7 +9920,6 @@ diosgenin
 daintihood
 dumba
 dynamic
-diversipedate
 dimerism
 defectuous
 dimerization
