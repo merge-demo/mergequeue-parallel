@@ -12400,7 +12400,6 @@ chromatize
 chromatogenous
 cueman
 cinchonia
-chromatographically
 chromatolysis
 contrastably
 conquerable
@@ -13072,6 +13071,7 @@ counterpointed
 confervoideae
 cyanophycean
 cyanophyceous
+chromatographically
 crunchingness
 craniates
 curies
