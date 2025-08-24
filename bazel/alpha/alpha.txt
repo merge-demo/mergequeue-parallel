@@ -1277,7 +1277,6 @@ acarophobia
 acarotoxic
 audrey
 aerognosy
-acarpelous
 acarpous
 augitic
 acarus
@@ -13619,6 +13618,7 @@ animotheism
 amygdalothripsis
 aposporogony
 allopathies
+acarpelous
 anoetic
 alluviviums
 anogenital
