@@ -4490,7 +4490,6 @@ becudgeling
 bae
 bandolero
 brigadiership
-burnsides
 busses
 blastoff
 becudgelling
@@ -5516,6 +5515,7 @@ babbled
 boatswains
 bawty
 beingness
+burnsides
 brandade
 beethovian
 beyondness
