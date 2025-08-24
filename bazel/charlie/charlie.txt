@@ -15313,7 +15313,6 @@ clamminess
 clamming
 cloit
 clammyweed
-clamored
 clamorer
 cricketlike
 clamorers
@@ -29227,6 +29226,7 @@ crypto
 cryptoagnostic
 coextended
 countercharge
+clamored
 cynogenealogist
 cryptoanalysis
 cryptoanalytically
