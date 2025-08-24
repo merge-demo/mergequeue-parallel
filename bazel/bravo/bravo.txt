@@ -3390,7 +3390,6 @@ busiest
 broider
 bewall
 bittor
-boehmenism
 berascaled
 bryophytic
 botanizer
@@ -9515,6 +9514,7 @@ banyuls
 boarfishes
 bacteria
 besaint
+boehmenism
 branchiostegite
 biographee
 banality
