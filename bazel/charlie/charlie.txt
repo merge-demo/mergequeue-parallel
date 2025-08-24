@@ -11072,7 +11072,6 @@ cyclicly
 coalize
 chitimacha
 chitimachan
-checksums
 coappears
 chitinoid
 chitinous
@@ -27064,6 +27063,7 @@ chivaring
 carditises
 codiaceous
 cwt
+checksums
 continuums
 counterrevolutionist
 counterriposte
