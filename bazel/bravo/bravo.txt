@@ -5477,6 +5477,7 @@ behoof
 broadmouth
 baronets
 behoovefulness
+bota
 barrier
 behooves
 behooving
@@ -13285,7 +13286,6 @@ bosun
 blastoidea
 baaskaaps
 bandlessness
-bota
 botany
 bilboquet
 brominated
