@@ -694,7 +694,6 @@ aspern
 abortions
 absorbency
 alcyonaria
-abortive
 afebrile
 apophysate
 abortiveness
@@ -2684,6 +2683,7 @@ acrimony
 antiscorbutic
 acrimonious
 acrindoline
+abortive
 allamonti
 arak
 acritan
