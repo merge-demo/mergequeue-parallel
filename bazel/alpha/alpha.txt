@@ -15234,6 +15234,7 @@ arcadings
 anisotropal
 ansa
 antigraph
+aortal
 acetimetry
 antigravitate
 akey
@@ -16455,7 +16456,6 @@ athyridae
 axweed
 alodially
 ascertained
-aortal
 aortarctia
 achaenocarp
 aortas
