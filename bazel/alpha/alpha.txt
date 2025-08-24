@@ -5851,7 +5851,6 @@ agglomerated
 agglomerates
 agglomeratic
 agglomeration
-agglomerative
 apical
 anartismos
 agglutinate
@@ -13668,6 +13667,7 @@ anomalogonatous
 anomalon
 anomalonomy
 auxochromism
+agglomerative
 auriculariaceae
 anomalotrophy
 anomalousness
