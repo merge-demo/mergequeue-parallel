@@ -9969,6 +9969,7 @@ bivector
 biventer
 bayonetting
 bulkin
+burgle
 bizarrerie
 bield
 biventral
@@ -13376,7 +13377,6 @@ blackcap
 babyhood
 beothuk
 bothway
-burgle
 bunched
 byth
 botling
