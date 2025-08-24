@@ -20255,7 +20255,6 @@ commonsense
 carpels
 commonsensically
 commonweals
-commorancies
 commorient
 commorse
 costeen
@@ -22845,6 +22844,7 @@ ciconian
 consequential
 communalist
 consequentiality
+commorancies
 consequentialities
 commemorator
 chibrit
