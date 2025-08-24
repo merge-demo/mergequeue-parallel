@@ -280,7 +280,6 @@ appurtenances
 accuracy
 autotropism
 arteriopathy
-abdominally
 aeroacoustic
 aguamas
 abdominals
@@ -10484,6 +10483,7 @@ argemony
 amidoacetic
 antisensuous
 amidoazo
+abdominally
 agley
 anchoic
 amidofluorid
