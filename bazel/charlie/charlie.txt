@@ -4925,7 +4925,6 @@ chirotes
 cleeked
 conduct
 cartilagines
-chancroids
 cartilaginoid
 cellarway
 cartels
@@ -29430,6 +29429,7 @@ crystallin
 crystalling
 crystallisability
 caramel
+chancroids
 correctedness
 cueist
 cerographic
