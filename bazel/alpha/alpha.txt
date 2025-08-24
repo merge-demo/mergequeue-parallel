@@ -1091,7 +1091,6 @@ artemisia
 atestine
 amphioxidae
 abused
-alkalescence
 antilynching
 anagnost
 abuseful
@@ -7573,6 +7572,7 @@ alchemized
 archership
 alchemizing
 alchimy
+alkalescence
 alfilerilla
 amphicarpic
 acrocephalous
