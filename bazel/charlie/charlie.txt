@@ -26457,6 +26457,7 @@ cotsetland
 cotswold
 calctuff
 curn
+crevet
 cottae
 chatelains
 ceiba
@@ -28850,7 +28851,6 @@ calsouns
 crevasses
 chubasco
 crumblement
-crevet
 crevette
 creviced
 chorus
