@@ -2443,7 +2443,6 @@ centgener
 cancha
 canchalagua
 cropsickness
-cherubically
 cancion
 cancionero
 canciones
@@ -28117,6 +28116,7 @@ circumstance
 craniography
 cranioid
 craniol
+cherubically
 craniology
 craniologist
 cinnabarine
