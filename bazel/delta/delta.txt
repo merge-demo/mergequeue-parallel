@@ -11941,7 +11941,6 @@ deductile
 diseased
 deifying
 dissyllabify
-dianoetic
 diseasedness
 diseases
 diseconomy
@@ -16215,6 +16214,7 @@ dialogising
 doveweed
 drinkery
 dowager
+dianoetic
 dits
 dowagers
 dispersions
