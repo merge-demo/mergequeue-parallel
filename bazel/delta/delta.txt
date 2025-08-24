@@ -6304,6 +6304,7 @@ downweighted
 dendrolatry
 dislaurel
 dermatosclerosis
+doodad
 dissentiency
 dermatoses
 devulcanize
@@ -7049,7 +7050,6 @@ destinezite
 driveable
 dessous
 devall
-doodad
 durst
 dessus
 doolie
