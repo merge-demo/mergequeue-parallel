@@ -3213,7 +3213,6 @@ blottesquely
 babbling
 battened
 bicorporeal
-biotechnological
 basilic
 bantingize
 bedouin
@@ -16454,6 +16453,7 @@ bozal
 breathableness
 bequote
 bulbomedullary
+biotechnological
 bursattee
 brusquest
 boucherize
