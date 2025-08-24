@@ -1270,6 +1270,7 @@ anaglyptography
 antemask
 acarodermatitis
 androlepsia
+asleep
 amay
 aesculapian
 apochae
@@ -21289,7 +21290,6 @@ aslant
 aglethead
 aslaver
 antidraft
-asleep
 aslumber
 arolla
 asmack
