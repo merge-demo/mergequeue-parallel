@@ -19875,7 +19875,6 @@ abstrusenesses
 armorless
 antileukemic
 aplopappus
-armors
 apophyge
 anenterous
 artistically
@@ -21114,6 +21113,7 @@ annulli
 authenticalness
 amidoxime
 ashimmer
+armors
 apostacy
 ashing
 afforcing
