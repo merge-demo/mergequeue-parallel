@@ -23135,7 +23135,6 @@ attntrp
 anthropidae
 attollent
 amorousness
-astraddle
 attorn
 attornare
 agilely
@@ -25031,6 +25030,7 @@ algologies
 awoke
 arcanal
 andranatomy
+astraddle
 awoken
 awols
 archistome

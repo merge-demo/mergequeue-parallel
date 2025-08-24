@@ -582,7 +582,6 @@ deiformity
 diiodotyrosine
 didepside
 dipodidae
-dehache
 dropworm
 domical
 dambonitol
@@ -6985,6 +6984,7 @@ dithionite
 diets
 dript
 danae
+dehache
 despoil
 despoiled
 destroyers
