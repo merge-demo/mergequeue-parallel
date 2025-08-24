@@ -7820,7 +7820,6 @@ cervicitis
 cervicoauricular
 chippable
 cervicobasilar
-cervicobregmatic
 cobitis
 cervicobuccal
 cervicodynia
@@ -31460,6 +31459,7 @@ currantworm
 caulking
 countermen
 cuckoldry
+cervicobregmatic
 curred
 contorta
 current
