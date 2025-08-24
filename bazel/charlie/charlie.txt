@@ -5263,6 +5263,7 @@ cassina
 corymbed
 cassinian
 cyathophylline
+cisco
 cassinos
 cassioberry
 conflict
@@ -14529,7 +14530,6 @@ cyrus
 craspedote
 captainess
 chloremic
-cisco
 ciscoes
 cise
 comprisable
