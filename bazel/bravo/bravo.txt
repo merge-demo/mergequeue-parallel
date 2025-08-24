@@ -14362,7 +14362,6 @@ busticate
 brayette
 brailles
 birdcraft
-bockey
 bursiform
 bonebinder
 braillewriter
@@ -16926,6 +16925,7 @@ bizarre
 buildings
 blunder
 bloodstained
+bockey
 begirded
 bondelswarts
 bedewoman
