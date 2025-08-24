@@ -8223,7 +8223,6 @@ bullfist
 brothership
 bespurt
 bulgaric
-biforate
 biforking
 brombenzyl
 beaverwood
@@ -12924,6 +12923,7 @@ brews
 bedspread
 bitterblain
 boothes
+biforate
 boothite
 bearfoot
 bialy
