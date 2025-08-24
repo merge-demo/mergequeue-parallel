@@ -82,7 +82,6 @@ ballfield
 babelize
 beshlik
 belinda
-barometrograph
 botrytis
 bulwarks
 baccarat
@@ -11565,6 +11564,7 @@ blurter
 byrewoman
 balanopsidaceae
 barbecuing
+barometrograph
 blurting
 bedels
 bumblebeefish
