@@ -5161,7 +5161,6 @@ bluebead
 bordereau
 breedbate
 befretting
-buoyage
 befriended
 blennocele
 bullyrags
@@ -15937,6 +15936,7 @@ bibliophilic
 benjy
 bodements
 bromoaurates
+buoyage
 bandless
 biffy
 brideship
