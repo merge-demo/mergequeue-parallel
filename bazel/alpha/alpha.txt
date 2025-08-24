@@ -13637,6 +13637,7 @@ absolutization
 actinolite
 aboriginal
 antivariolous
+aorist
 anomalies
 anomaliflorous
 anomaliped
@@ -16444,7 +16445,6 @@ aristogenesis
 aonach
 asaddle
 altica
-aorist
 advertises
 assimilate
 athyridae
