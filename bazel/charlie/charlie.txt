@@ -3532,7 +3532,6 @@ caption
 carbohydrase
 captioned
 convenably
-captioning
 captiousness
 captivance
 cretion
@@ -26575,6 +26574,7 @@ circumscription
 coulthard
 coumalic
 coumaphos
+captioning
 coumara
 cooption
 coumaran
