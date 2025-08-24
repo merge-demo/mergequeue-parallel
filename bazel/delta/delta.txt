@@ -16412,7 +16412,6 @@ denaturation
 douppioni
 delayage
 downtown
-debar
 downtrampling
 downtreading
 dicynodont
@@ -17353,6 +17352,7 @@ dermatolysis
 dronepipe
 deduct
 devolvement
+debar
 dilatability
 drony
 droningly
