@@ -9008,7 +9008,6 @@ antimilitaristic
 allowable
 antemarital
 apodematal
-allowableness
 antiliberally
 allowancing
 alkalises
@@ -15519,6 +15518,7 @@ antimonopolization
 allantoidian
 antimoral
 antimoralism
+allowableness
 aeroenterectasia
 avale
 ailurophile
