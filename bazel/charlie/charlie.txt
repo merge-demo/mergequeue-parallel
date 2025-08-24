@@ -9698,6 +9698,7 @@ cephalochorda
 cheesemaker
 cheesemongery
 cheesemongering
+categoricalness
 cheeseparer
 canaster
 cerebrasthenic
@@ -13506,7 +13507,6 @@ counterconversion
 craspedum
 cigarillos
 cambibia
-categoricalness
 calcomp
 caudatum
 casting
