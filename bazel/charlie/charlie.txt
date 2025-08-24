@@ -5046,6 +5046,7 @@ coevolve
 colisepsis
 cerianthus
 casate
+crustaceal
 closemouthed
 casava
 cuber
@@ -27328,7 +27329,6 @@ courlan
 charging
 couronne
 coleseed
-crustaceal
 course
 codirectorship
 cosmology
