@@ -10470,7 +10470,6 @@ denotate
 dashikis
 demibath
 diphonia
-dismiss
 duumvirs
 distortion
 dister
@@ -14579,6 +14578,7 @@ demotic
 dyadic
 divinister
 deallocating
+dismiss
 dissimuler
 discoverers
 divinized
