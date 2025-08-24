@@ -4237,7 +4237,6 @@ beautihood
 berbamine
 blattariae
 barest
-burman
 burgonet
 beaverism
 bistoury
@@ -16813,6 +16812,7 @@ botchiness
 borderless
 buffeters
 boldheartedness
+burman
 bioecology
 bubalises
 bucketman
