@@ -3043,7 +3043,6 @@ antjar
 actinophorous
 anthrarufin
 amberous
-adonize
 antidicomarianite
 acronomy
 actinophrys
@@ -22142,6 +22141,7 @@ algums
 anticreep
 astragalocentral
 adz
+adonize
 aponia
 aurated
 alcibiades
