@@ -8086,7 +8086,6 @@ disendowment
 desugar
 durzi
 dhourras
-dispersedye
 dhritarashtra
 disables
 dhundia
@@ -10992,6 +10991,7 @@ dilutor
 disaffiliated
 demibrigade
 disaffirmance
+dispersedye
 dheri
 dictyosiphon
 dreadnoughts
