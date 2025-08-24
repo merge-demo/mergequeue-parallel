@@ -4129,7 +4129,6 @@ chiropractor
 cardiodynia
 calfret
 coalheugh
-chronologists
 cardiogram
 cardiographer
 cardiographic
@@ -14651,6 +14650,7 @@ cystitides
 cystitis
 coz
 correlated
+chronologists
 cystocarcinoma
 cystocele
 cystocolostomy
