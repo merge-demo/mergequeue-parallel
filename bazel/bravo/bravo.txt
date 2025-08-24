@@ -2001,7 +2001,6 @@ beflecking
 bank
 bankalachi
 bidactyl
-bloodstones
 bankcard
 bethought
 babehood
@@ -4759,6 +4758,7 @@ barque
 bibracteate
 billfold
 brainish
+bloodstones
 barbarize
 burking
 barrener
