@@ -1507,7 +1507,6 @@ deformers
 diazines
 deacetylate
 duststorm
-donas
 duppies
 defraudment
 deacetylating
@@ -2741,6 +2740,7 @@ dematerialization
 decorticator
 determinants
 decorticosis
+donas
 disoperation
 decortization
 decorum
