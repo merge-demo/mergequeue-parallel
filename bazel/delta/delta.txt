@@ -7260,6 +7260,7 @@ divinified
 dextrally
 disarrest
 deteriorating
+drowsy
 deterioration
 deuce
 data
@@ -9841,7 +9842,6 @@ duresses
 dilutely
 draffish
 diagonality
-drowsy
 diluters
 drudgingly
 destuffs
