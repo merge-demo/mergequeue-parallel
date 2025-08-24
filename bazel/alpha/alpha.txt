@@ -5307,7 +5307,6 @@ affrightedly
 acarpellous
 annoyful
 affrightful
-aboriginary
 affydavy
 affrightment
 affronte
@@ -11505,6 +11504,7 @@ appositions
 anabolism
 accinging
 anabolize
+aboriginary
 albuminise
 ataxiaphasia
 appellant
