@@ -6423,7 +6423,6 @@ cavalierishness
 cavalierism
 cavalierly
 cytogenous
-cavalierness
 cavaliers
 coccygodynia
 coenuri
@@ -13737,6 +13736,7 @@ cinchonamine
 cinchonic
 cinchonicine
 cinchonidia
+cavalierness
 cinchonidine
 cinchonin
 cowleech
