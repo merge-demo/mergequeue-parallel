@@ -12160,7 +12160,6 @@ archinfamy
 anchoritess
 alignment
 anchorlike
-anchorman
 auriculae
 anchormen
 abrotanum
@@ -14726,6 +14725,7 @@ anticaustic
 affreighter
 anticensorial
 amusee
+anchorman
 ammonitish
 antidromal
 anticensorious
