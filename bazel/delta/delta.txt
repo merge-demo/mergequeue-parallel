@@ -6487,6 +6487,7 @@ dimensioned
 dipeptid
 dentellated
 disqualification
+directable
 delignated
 disomatous
 descendent
@@ -15679,7 +15680,6 @@ derth
 doorstone
 daggers
 departement
-directable
 doorstop
 devotionality
 diodes
