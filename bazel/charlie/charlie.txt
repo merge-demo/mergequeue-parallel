@@ -17081,7 +17081,6 @@ cerulescent
 cynogale
 coabound
 coabsume
-cytodieretic
 coacceptor
 coacervate
 censuring
@@ -26592,6 +26591,7 @@ councillors
 councillorship
 councilman
 councilmanic
+cytodieretic
 councilmen
 conjunctionally
 carbomycin
