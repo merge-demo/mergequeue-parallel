@@ -10725,6 +10725,7 @@ chinche
 choise
 campfire
 cytoarchitecture
+chrominance
 cataloger
 chincherinchee
 chromous
@@ -29606,7 +29607,6 @@ crocking
 creedmore
 crocko
 cystadenoma
-chrominance
 chimariko
 copyholding
 crocodilidae
