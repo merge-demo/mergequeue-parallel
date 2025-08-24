@@ -140,6 +140,7 @@ draughtmanship
 deviascope
 dekko
 dinar
+disrump
 dyophone
 daddles
 dowdyism
@@ -7891,7 +7892,6 @@ dewing
 disjoin
 degrease
 discommon
-disrump
 dschubba
 decongested
 diffidently
