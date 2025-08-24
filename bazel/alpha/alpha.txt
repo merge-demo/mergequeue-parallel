@@ -4020,7 +4020,6 @@ admissory
 acromion
 asarotum
 admit
-allowanced
 acetylacetone
 abaxile
 aldrin
@@ -11743,6 +11742,7 @@ analyt
 acylate
 acrobat
 alamanni
+allowanced
 anathemata
 affinity
 ammophilous
