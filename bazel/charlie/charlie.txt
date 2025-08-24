@@ -11100,6 +11100,7 @@ chitter
 chutney
 chitters
 capillaries
+comb
 caseloads
 chiurm
 chiv
@@ -17448,7 +17449,6 @@ cobaea
 corbeil
 cotters
 cobalamin
-comb
 cobalt
 cobaltamine
 contrude
