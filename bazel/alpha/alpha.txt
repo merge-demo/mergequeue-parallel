@@ -13288,7 +13288,6 @@ amphitheatral
 anisotrope
 anisotropically
 anencephalotrophia
-archimorphic
 anisotropies
 anystidae
 anhydrating
@@ -23624,6 +23623,7 @@ aurists
 assentiveness
 aurited
 ankee
+archimorphic
 aurobromide
 anesis
 auroch
