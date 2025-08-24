@@ -13954,7 +13954,6 @@ dinero
 disorganizer
 distinctity
 dispiritingly
-distinctiveness
 diapophyses
 distinguee
 distinguishableness
@@ -16000,6 +15999,7 @@ dissocial
 dialogize
 dasein
 dotkin
+distinctiveness
 dudish
 distant
 dottiest
