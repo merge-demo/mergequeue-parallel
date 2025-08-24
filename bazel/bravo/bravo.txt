@@ -11080,6 +11080,7 @@ bilgier
 blockheaded
 bankruptlike
 beguines
+blotty
 blockheadish
 balaklava
 blockholer
@@ -11232,7 +11233,6 @@ bezesteen
 borghalpenny
 bespeaker
 bisilicate
-blotty
 bridging
 buckets
 battakhin
