@@ -3901,7 +3901,6 @@ decreases
 diduce
 defenseman
 daphnite
-desilicated
 deja
 decussatively
 dejection
@@ -11110,6 +11109,7 @@ demioctangular
 disarray
 dictatorial
 disarrays
+desilicated
 disarranges
 do
 discernibility
