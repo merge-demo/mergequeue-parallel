@@ -19424,7 +19424,6 @@ colorant
 colorants
 colorate
 coloration
-colorational
 colorative
 centrifugally
 condemnably
@@ -26308,6 +26307,7 @@ costs
 caddices
 costume
 chevrone
+colorational
 costumed
 chlore
 coccygomorphic
