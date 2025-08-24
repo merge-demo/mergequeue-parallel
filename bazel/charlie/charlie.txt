@@ -12510,7 +12510,6 @@ chromonemal
 coincidences
 chromonematal
 cataphracti
-chromoparous
 chromophage
 chromophane
 chromophil
@@ -28466,6 +28465,7 @@ champagnes
 contraorbital
 creationary
 creations
+chromoparous
 creative
 conphaseolin
 cutability
