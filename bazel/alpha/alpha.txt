@@ -17284,6 +17284,7 @@ agathaea
 aumail
 apostatize
 apostatizing
+armoured
 apostaxis
 apostem
 armigeral
@@ -19884,7 +19885,6 @@ armour
 armourbearer
 avalanched
 adossed
-armoured
 armourer
 abiogenist
 antipatriarchal
