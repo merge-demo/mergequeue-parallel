@@ -2433,7 +2433,6 @@ bareheadedness
 bareknuckled
 bellabella
 blustery
-barenecked
 bareknuckle
 blesbucks
 beanpole
@@ -8311,6 +8310,7 @@ benzenes
 biggen
 biggened
 baccharoid
+barenecked
 bakepan
 barbarous
 brahmani
