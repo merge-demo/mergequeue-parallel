@@ -9284,6 +9284,7 @@ aphthongia
 axstone
 alpenglow
 alpenstock
+aswirl
 aerogram
 alpenstocks
 alpestral
@@ -22357,7 +22358,6 @@ adyton
 aristarchy
 asweve
 alchemistic
-aswirl
 ammoniacum
 at
 ata
