@@ -2987,7 +2987,6 @@ cantholysis
 commonable
 chaffers
 capriole
-clubhands
 colliquation
 cicalas
 croppies
@@ -22547,6 +22546,7 @@ cricetine
 conk
 canonises
 conkanee
+clubhands
 conked
 conker
 conservative
