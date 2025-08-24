@@ -8540,6 +8540,7 @@ beshawled
 billbug
 biller
 blackeye
+bombacaceae
 brantcorn
 brawlis
 billeted
@@ -12279,7 +12280,6 @@ boltwork
 bolus
 bomb
 barratrous
-bombacaceae
 bombace
 behang
 buckboard
