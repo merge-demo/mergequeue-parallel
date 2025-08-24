@@ -10956,6 +10956,7 @@ bael
 bellhop
 byerlite
 batement
+balustered
 benchmar
 blinter
 batel
@@ -12215,7 +12216,6 @@ bicron
 byplay
 bicarbide
 buckhound
-balustered
 banque
 beld
 bolognan
