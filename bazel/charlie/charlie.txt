@@ -2504,7 +2504,6 @@ candidatures
 candide
 churls
 candidiasis
-candidness
 candidnesses
 candids
 crawlie
@@ -6890,6 +6889,7 @@ cloze
 celsian
 cashbox
 celt
+candidness
 celtiberi
 circularizers
 cofaster
