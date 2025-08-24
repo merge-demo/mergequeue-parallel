@@ -14822,7 +14822,6 @@ copremia
 cytoarchitectural
 cleistogene
 cytoblast
-confidences
 cytoblastema
 cablese
 cytoblastemal
@@ -30116,6 +30115,7 @@ crts
 coccinella
 commissionated
 confections
+confidences
 cannstatt
 crubeen
 cruce
