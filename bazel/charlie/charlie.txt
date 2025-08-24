@@ -16032,6 +16032,7 @@ chremzel
 clethraceous
 crinoid
 clethrionomys
+corodiastasis
 cleuks
 crinigerous
 cephaletron
@@ -25457,7 +25458,6 @@ caricaturable
 corody
 cinematically
 corodiary
-corodiastasis
 convicting
 corodies
 cocowood
