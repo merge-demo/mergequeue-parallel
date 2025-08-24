@@ -3641,6 +3641,7 @@ cocineras
 caragana
 caraganas
 crateful
+crenellated
 carageens
 caraibe
 caraipa
@@ -28664,7 +28665,6 @@ crushers
 cannophori
 crenelee
 creneling
-crenellated
 counterirritant
 culets
 copeck
