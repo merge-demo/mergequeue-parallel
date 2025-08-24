@@ -5582,6 +5582,7 @@ dependingly
 drouthiness
 depends
 dallack
+decretals
 dispersed
 dramatizable
 dukeship
@@ -6518,7 +6519,6 @@ despert
 dekameter
 diffracting
 deschool
-decretals
 dirtbird
 dreggily
 differentiators
