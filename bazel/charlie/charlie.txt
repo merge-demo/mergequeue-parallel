@@ -22104,6 +22104,7 @@ conformant
 cataclasmic
 chowders
 conformationally
+cres
 couvert
 conformations
 conformator
@@ -28742,7 +28743,6 @@ cornutine
 chafer
 crepusculine
 catenary
-cres
 cresc
 comparativeness
 cordelier
