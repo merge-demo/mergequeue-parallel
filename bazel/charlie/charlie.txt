@@ -1657,7 +1657,6 @@ coagulatory
 catalytical
 carboxylating
 caloric
-caloricity
 caloriduct
 calorie
 claytonia
@@ -13607,6 +13606,7 @@ colament
 cymaise
 cort
 calorisator
+caloricity
 cathartically
 cymaphyte
 cymaphytic
