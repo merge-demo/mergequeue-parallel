@@ -2692,7 +2692,6 @@ canion
 chromophile
 canions
 crevice
-canjac
 cank
 circumnavigations
 chokestrap
@@ -24864,6 +24863,7 @@ conveyers
 cardecu
 corial
 comous
+canjac
 counterprotest
 coalified
 coraggio
