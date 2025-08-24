@@ -7544,6 +7544,7 @@ beweary
 besottedness
 botflies
 brainworker
+bulkin
 banagos
 beweeps
 bombilate
@@ -9976,7 +9977,6 @@ barrenness
 bivector
 biventer
 bayonetting
-bulkin
 burgle
 bizarrerie
 bield
