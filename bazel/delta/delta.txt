@@ -4937,7 +4937,6 @@ dicondylian
 dacrycystalgia
 dynastic
 duel
-depositum
 demonstrations
 dysbarism
 doctrinary
@@ -7295,6 +7294,7 @@ determinantal
 damosels
 donnie
 dress
+depositum
 diphthongia
 diphthongization
 determinated
