@@ -19164,7 +19164,6 @@ collocation
 collocational
 crojiks
 collocative
-collock
 cowfish
 compartmentalizes
 collocutor
@@ -31748,6 +31747,7 @@ cervisial
 customers
 customhouses
 copernicia
+collock
 controvertist
 copresent
 chimlas
