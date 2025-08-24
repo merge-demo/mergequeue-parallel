@@ -2592,7 +2592,6 @@ acquisited
 acquisitional
 acquisitive
 advocatess
-acquisitor
 antibrachial
 acetiam
 amphigonous
@@ -23720,6 +23719,7 @@ achieved
 aspish
 alcogel
 australian
+acquisitor
 australianism
 australioid
 acquit
