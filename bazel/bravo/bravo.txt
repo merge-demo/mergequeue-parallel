@@ -12769,6 +12769,7 @@ banderilleros
 bookselling
 bescreened
 borg
+bihari
 boloney
 bookshop
 betoyan
@@ -16295,7 +16296,6 @@ brattices
 bubonoceze
 breadths
 brachyuranic
-bihari
 butterfingered
 backwash
 bruised
