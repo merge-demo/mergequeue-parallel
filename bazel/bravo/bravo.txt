@@ -7407,7 +7407,6 @@ batrachia
 buboes
 bashalick
 betterment
-bepewed
 betterments
 bulbocavernous
 bivouacks
@@ -12123,6 +12122,7 @@ bealing
 boldu
 butterweed
 boled
+bepewed
 bolelike
 benniseed
 besmoked
