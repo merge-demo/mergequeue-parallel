@@ -10318,7 +10318,6 @@ aerobacteriology
 antihemoglobin
 academician
 aethers
-americanisms
 americanistic
 aftertax
 astigmatizer
@@ -20435,6 +20434,7 @@ antiasthmatic
 arterioplasty
 arteriorenal
 accentless
+americanisms
 amnesty
 airfreight
 arteriospasm
