@@ -16798,6 +16798,7 @@ congregativeness
 cloudlike
 cloudology
 comptrollership
+culiciform
 clouds
 cloudship
 cursedest
@@ -31501,7 +31502,6 @@ costful
 curring
 currock
 clupeoids
-culiciform
 collectivization
 cursa
 curse
