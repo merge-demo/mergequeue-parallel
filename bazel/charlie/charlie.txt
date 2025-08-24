@@ -8291,7 +8291,6 @@ chalder
 coholder
 chaleh
 chalybeate
-chalybes
 chalybite
 chalice
 chancelry
@@ -14984,6 +14983,7 @@ characeae
 cytotaxonomically
 circumcrescent
 covillea
+chalybes
 clavation
 commixt
 cytotechnologist
