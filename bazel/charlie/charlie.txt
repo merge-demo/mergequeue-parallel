@@ -7480,6 +7480,7 @@ ceratoblast
 ceratobranchial
 ceratodidae
 ceratoduses
+cholinesterase
 centrifugalization
 capelet
 coistrils
@@ -10688,7 +10689,6 @@ compassless
 chymia
 chymify
 confide
-cholinesterase
 chiminage
 chimla
 chimleys
