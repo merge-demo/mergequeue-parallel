@@ -12411,7 +12411,6 @@ chevroned
 cnidophobia
 culebra
 chromatopsia
-chromatoptometer
 chromatoptometry
 chromatoscope
 couch
@@ -29516,6 +29515,7 @@ coendured
 centervelic
 colophonist
 criticaster
+chromatoptometer
 criticasterism
 criticastry
 criticisms
