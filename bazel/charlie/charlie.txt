@@ -6737,6 +6737,7 @@ cimborio
 coryphylly
 cypres
 celerities
+chitinoid
 celestas
 celeste
 celiosalpingotomy
@@ -11065,7 +11066,6 @@ coalize
 chitimacha
 chitimachan
 coappears
-chitinoid
 chitinous
 chitins
 chitlin
