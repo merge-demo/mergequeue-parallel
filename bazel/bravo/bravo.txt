@@ -6283,7 +6283,6 @@ benni
 bennies
 benomyl
 backspread
-benightedness
 benorth
 benefact
 bensall
@@ -17350,6 +17349,7 @@ bogledom
 bliny
 bloodmobiles
 bunged
+benightedness
 bylawman
 buccinator
 bushfighter
