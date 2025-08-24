@@ -4855,7 +4855,6 @@ demonetise
 defenestrates
 demonetize
 dextrous
-dyscrasing
 doctorhood
 disappearances
 dactylioglyph
@@ -16463,6 +16462,7 @@ disports
 doziest
 deviousness
 dozzle
+dyscrasing
 dozzled
 dr
 draba
