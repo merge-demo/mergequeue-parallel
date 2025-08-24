@@ -1316,7 +1316,6 @@ barbed
 balases
 balat
 belying
-basellaceous
 balatron
 benzaldiphenyl
 balatte
@@ -4499,6 +4498,7 @@ bandolero
 brigadiership
 busses
 blastoff
+basellaceous
 becudgelling
 batata
 balushai
