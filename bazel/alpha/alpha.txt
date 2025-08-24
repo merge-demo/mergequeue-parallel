@@ -8306,7 +8306,6 @@ antecloset
 acappella
 arbitrational
 alipteria
-alipterion
 aliptic
 aporia
 amoebidae
@@ -16935,6 +16934,7 @@ americanizer
 apneumona
 apneumonous
 agrammatical
+alipterion
 apneusis
 apodemata
 apneustic
