@@ -10482,6 +10482,7 @@ coterminously
 chilblained
 chilcat
 child
+colonist
 childbearing
 childcrowing
 cunni
@@ -19351,7 +19352,6 @@ consumingness
 colonisationist
 colonise
 colonised
-colonist
 cyrtidae
 colonizable
 colonize
