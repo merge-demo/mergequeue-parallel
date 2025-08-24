@@ -6321,7 +6321,6 @@ agromyzidae
 agron
 alamos
 ascaricidal
-avalvular
 agronome
 aspidocephali
 autoignition
@@ -13624,6 +13623,7 @@ anointment
 anticosmetic
 anointments
 awiggle
+avalvular
 articulation
 astrometrical
 addax
