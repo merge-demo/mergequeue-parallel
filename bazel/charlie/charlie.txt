@@ -5553,6 +5553,7 @@ copr
 cofactor
 catalyses
 catalyte
+crumply
 cyclopean
 cabalassou
 consigne
@@ -30255,7 +30256,6 @@ crumping
 compressions
 crumpled
 chorten
-crumply
 cargoose
 crumps
 convoluted
