@@ -18784,7 +18784,6 @@ centeredly
 colchicin
 colchicum
 clavichords
-colchis
 crispily
 catadioptric
 cochaired
@@ -23208,6 +23207,7 @@ constricted
 cobby
 constricting
 constriction
+colchis
 coelomic
 constrictive
 constrictor
