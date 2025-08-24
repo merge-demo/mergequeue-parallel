@@ -2168,7 +2168,6 @@ baramika
 bertat
 backflash
 briscola
-bararite
 barathea
 barbellate
 bibbled
@@ -12459,6 +12458,7 @@ bondsman
 braeman
 burgeoned
 barkingly
+bararite
 bulbose
 bondsmen
 bonify
