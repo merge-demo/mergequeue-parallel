@@ -9354,7 +9354,6 @@ castrate
 chullo
 chaulmaugra
 chaulmoogra
-choralist
 cytodendrite
 chaulmugra
 chaumiere
@@ -14485,6 +14484,7 @@ cipolins
 cirri
 cirribranch
 cirriferous
+choralist
 colonialism
 courtezan
 confidentially
