@@ -20074,6 +20074,7 @@ commensuration
 commensurations
 corking
 comment
+chedlock
 commentable
 commentarialism
 corky
@@ -25723,7 +25724,6 @@ carphosiderite
 corresponsively
 churchlet
 corridas
-chedlock
 corridors
 corriedale
 corrige
