@@ -2194,7 +2194,6 @@ achromatopia
 achromatopsy
 apologizes
 achromatopsia
-airplanes
 australia
 achromatosis
 achromobacter
@@ -6132,6 +6131,7 @@ abhorrers
 agoho
 agoing
 anhingas
+airplanes
 aposepalous
 aplanobacter
 avengers
