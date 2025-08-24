@@ -3553,7 +3553,6 @@ drainpipes
 dingles
 dermatotome
 drawbeam
-dissheathe
 dehwar
 defuze
 dolman
@@ -11788,6 +11787,7 @@ dexamethasone
 distally
 dogblow
 disported
+dissheathe
 debellate
 deoxidising
 diphosphoric
