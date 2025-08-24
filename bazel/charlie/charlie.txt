@@ -16142,7 +16142,6 @@ corosif
 croakiest
 cliffhanger
 cliffhangers
-coextending
 coccogonales
 crystallochemistry
 cliffhanging
@@ -23245,6 +23244,7 @@ construe
 construer
 cyamus
 cardiatomy
+coextending
 coalitionist
 construes
 ciceroning
