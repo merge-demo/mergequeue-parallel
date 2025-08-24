@@ -5154,7 +5154,6 @@ artifactual
 affenpinscher
 affere
 abnegative
-affiance
 affianced
 angakok
 aerophilic
@@ -18895,6 +18894,7 @@ amorality
 architecture
 architectures
 architypographer
+affiance
 amebiasis
 actinine
 atwixt

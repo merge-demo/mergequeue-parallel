@@ -7953,7 +7953,6 @@ dartos
 durenol
 dextrocularity
 desulphuration
-daphnes
 dedicature
 disincorporation
 drowse
@@ -14093,6 +14092,7 @@ docksides
 dryopithecinae
 dispensable
 deluging
+daphnes
 diabantite
 distributionist
 divariant
