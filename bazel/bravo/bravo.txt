@@ -3159,7 +3159,6 @@ bradyseism
 bailing
 bashment
 balkanizing
-basiarachnoiditis
 befanned
 bauld
 burkes
@@ -13250,6 +13249,7 @@ baromacrometer
 bossed
 boanergean
 butchered
+basiarachnoiditis
 bosselation
 bolti
 buffbar
