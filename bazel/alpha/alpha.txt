@@ -6862,6 +6862,7 @@ antipneumococcic
 antiatheism
 anatomopathologic
 alogism
+anticyclone
 acetaldehydrase
 aissor
 ait
@@ -14790,7 +14791,6 @@ anticyclogenesis
 anticyclolysis
 adelops
 aphotic
-anticyclone
 anticyclones
 anticyclonically
 abaculi

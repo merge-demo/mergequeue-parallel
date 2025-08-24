@@ -7795,7 +7795,6 @@ ceruleite
 ceruleolactite
 cravenette
 connoissance
-cylindricalness
 ceruleous
 ceratophrys
 cerulific
@@ -20251,6 +20250,7 @@ classicalize
 commonance
 commoney
 cosmogenesis
+cylindricalness
 commoning
 cambist
 camias
