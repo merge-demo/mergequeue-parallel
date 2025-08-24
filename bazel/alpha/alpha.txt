@@ -6152,7 +6152,6 @@ arteriorrhagia
 agonic
 agonise
 axillas
-agonised
 agonistarch
 agonistics
 agonize
@@ -13958,6 +13957,7 @@ archchampion
 achronychous
 antebaptismal
 andesyte
+agonised
 albigenses
 argyrosis
 acculturational
