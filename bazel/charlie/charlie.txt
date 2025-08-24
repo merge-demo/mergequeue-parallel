@@ -7624,7 +7624,6 @@ cerebroparietal
 coassuming
 cerebropedal
 coppy
-cerebropsychosis
 calade
 coincidentally
 cerebrosclerosis
@@ -9864,6 +9863,7 @@ chemiotaxic
 carvone
 chemiotaxis
 chemiotropic
+cerebropsychosis
 chemiotropism
 chemise
 crinet
