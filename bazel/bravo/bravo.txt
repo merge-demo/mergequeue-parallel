@@ -15778,7 +15778,6 @@ brokerly
 bradykinesia
 barding
 broking
-bushfighter
 brainwash
 battiks
 broletti
@@ -17347,6 +17346,7 @@ bloodmobiles
 bunged
 bylawman
 buccinator
+bushfighter
 bungee
 bunger
 bijection
