@@ -10624,7 +10624,6 @@ dysergia
 doppia
 dolour
 diplomatist
-diplomatists
 domer
 discogastrula
 diplomatology
@@ -13443,6 +13442,7 @@ deliverymen
 disquisit
 disquisite
 dermophlebitis
+diplomatists
 distillment
 despoliation
 diazotic
