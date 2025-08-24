@@ -7026,7 +7026,6 @@ besoil
 bookcraft
 butterwoman
 bioplasms
-basing
 branchiostomidae
 ballpoints
 bowingly
@@ -14547,6 +14546,7 @@ branchlet
 branchman
 brandenburg
 brandenburger
+basing
 brandenburgh
 brandy
 brosy
