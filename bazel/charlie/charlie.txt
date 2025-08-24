@@ -14624,6 +14624,7 @@ cysticercerci
 cysticerci
 chondrule
 cylindrite
+convulsion
 cysticercoidal
 cysticercosis
 cysticerus
@@ -24254,7 +24255,6 @@ convulsibility
 convulsing
 contritely
 constantinople
-convulsion
 conjugates
 conjuncture
 const
