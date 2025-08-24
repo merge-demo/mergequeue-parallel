@@ -1204,6 +1204,7 @@ dunts
 dillydallying
 datagram
 datagrams
+degging
 doormat
 devilhood
 datana
@@ -3616,7 +3617,6 @@ discerptive
 douzeper
 disked
 deontological
-degging
 disguster
 def
 devices
