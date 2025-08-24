@@ -8070,7 +8070,6 @@ billeters
 bicursal
 bailments
 bicuspid
-bruxism
 bonging
 bulk
 burrobrush
@@ -10016,6 +10015,7 @@ bricoles
 brutisms
 bixaceae
 bixaceous
+bruxism
 blondeness
 brabagious
 bixin
