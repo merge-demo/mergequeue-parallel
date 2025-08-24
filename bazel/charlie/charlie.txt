@@ -25797,6 +25797,7 @@ corrosibleness
 coeltera
 corrosived
 corrosively
+collegiality
 corrosiveness
 corrosives
 chironomy
@@ -31776,7 +31777,6 @@ cutaneously
 counterlighting
 contrastment
 circumspectively
-collegiality
 cutaways
 cutback
 carburetor
