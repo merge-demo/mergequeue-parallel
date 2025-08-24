@@ -3627,6 +3627,7 @@ deglamorizing
 disrespectfulness
 deglazed
 discoblastic
+dorsalgia
 deglazing
 duckling
 dubbing
@@ -15854,7 +15855,6 @@ dioscoreaceae
 disocclude
 disalign
 dorsales
-dorsalgia
 dorsalwards
 dorsel
 dorser
