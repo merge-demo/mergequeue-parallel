@@ -6807,6 +6807,7 @@ asst
 airproofs
 aistopoda
 archdolt
+alteregoistic
 aggrieving
 arachin
 asphyctous
@@ -20635,7 +20636,6 @@ articulators
 abelonian
 aces
 antecessor
-alteregoistic
 affrontingly
 avid
 arterially
