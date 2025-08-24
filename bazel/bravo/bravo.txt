@@ -1479,7 +1479,6 @@ bemadamed
 ballades
 boser
 bacteremia
-borstal
 booked
 borrow
 bedsick
@@ -18110,6 +18109,7 @@ ballock
 breakably
 bipalium
 brins
+borstal
 benzal
 bealtared
 baittle
