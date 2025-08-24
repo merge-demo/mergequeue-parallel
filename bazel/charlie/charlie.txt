@@ -6650,7 +6650,6 @@ cherte
 cedrus
 cathedrallike
 crioceris
-cardiosymphysis
 cedula
 cee
 ceibas
@@ -27191,6 +27190,7 @@ correlation
 counterwager
 cervicaprine
 cannery
+cardiosymphysis
 compounding
 chlorhydrate
 catbird
