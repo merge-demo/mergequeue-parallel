@@ -6037,7 +6037,6 @@ cheapo
 catkin
 catkinate
 cilician
-catkins
 curatory
 candify
 catlike
@@ -29337,6 +29336,7 @@ cloddiness
 cryptophyceae
 cryptophytic
 cryptophthalmos
+catkins
 commemorable
 counterdemand
 countian

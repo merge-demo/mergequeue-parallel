@@ -9448,7 +9448,6 @@ delphinid
 displume
 destructively
 digamma
-daggerboard
 demilegato
 downfeed
 digammated
@@ -12591,6 +12590,7 @@ disinheritances
 daturic
 dhole
 deluxe
+daggerboard
 disinheriting
 demyship
 disinhume
