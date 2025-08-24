@@ -14426,7 +14426,6 @@ anthropographic
 anthropoid
 anthropoidean
 anthropol
-anthropolatry
 antigraphy
 anthropolatric
 anthropolite
@@ -20325,6 +20324,7 @@ arsenoxide
 attroopment
 anchitherioid
 arses
+anthropolatry
 arsheen
 arshin
 apothegmatic
