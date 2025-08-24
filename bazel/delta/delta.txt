@@ -6110,7 +6110,6 @@ dendrometer
 deracinating
 domiciliar
 deracination
-divinising
 decurring
 dictyostele
 diatheses
@@ -14554,6 +14553,7 @@ divident
 decertification
 dromograph
 dividivis
+divinising
 diaphanometer
 diwani
 dividualism
