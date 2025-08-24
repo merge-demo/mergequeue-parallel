@@ -10575,7 +10575,6 @@ contort
 conter
 carports
 chiller
-chillers
 confessionary
 comino
 corporational
@@ -21925,6 +21924,7 @@ conferted
 congregate
 corpusculated
 chamberwoman
+chillers
 confervae
 conferval
 combe

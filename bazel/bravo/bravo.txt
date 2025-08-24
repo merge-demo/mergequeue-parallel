@@ -10702,6 +10702,7 @@ backsetting
 blennemesis
 bullets
 blennenteria
+biglot
 bathymetric
 box
 biti
@@ -16293,7 +16294,6 @@ breadths
 brachyuranic
 bihari
 butterfingered
-biglot
 backwash
 bruised
 backtrack
