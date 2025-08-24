@@ -14442,6 +14442,7 @@ divergencies
 distensible
 dishpans
 decay
+demeans
 diverse
 diversify
 drossed
@@ -17935,7 +17936,6 @@ duessa
 delayingly
 duets
 demulce
-demeans
 dazzling
 duetting
 daybeds

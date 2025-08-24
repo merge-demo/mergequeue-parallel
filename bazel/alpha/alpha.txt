@@ -10238,7 +10238,6 @@ ameland
 amelcorn
 alchemister
 amelcorns
-amelet
 amelification
 ameliorable
 ameliorableness
@@ -11519,6 +11518,7 @@ ascribes
 anacamptic
 almighty
 archhead
+amelet
 after
 anacamptics
 antiperistasis
