@@ -1898,7 +1898,6 @@ buckayros
 brockle
 bandor
 baaskaap
-bandora
 biotechs
 brevipen
 bandore
@@ -13375,6 +13374,7 @@ blasted
 bothrenchyma
 bluenoses
 billsticker
+bandora
 bandage
 ballhawks
 bothriocephalus
