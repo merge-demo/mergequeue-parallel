@@ -9759,6 +9759,7 @@ biophysicochemical
 bathhouses
 bystreets
 bistres
+boltmaking
 boeotarch
 brights
 bewitching
@@ -10416,7 +10417,6 @@ bullfinch
 blankness
 boojum
 blanks
-boltmaking
 beesting
 buzziest
 baritone
