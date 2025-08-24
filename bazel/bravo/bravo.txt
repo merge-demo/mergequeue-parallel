@@ -4073,6 +4073,7 @@ bagge
 beans
 beansetter
 beanshooter
+biangulous
 beanstalk
 begrain
 boehmenist
@@ -7751,7 +7752,6 @@ bellum
 birchman
 biangulate
 baluchitheria
-biangulous
 biannually
 bhagavata
 biarchy
