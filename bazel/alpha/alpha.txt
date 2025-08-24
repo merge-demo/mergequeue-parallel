@@ -1200,7 +1200,6 @@ alabastoi
 agalmatolite
 agonothetic
 acanthodei
-acoasma
 associationism
 admissibly
 afforest
@@ -6577,6 +6576,7 @@ acarol
 autosign
 ailsyte
 anthropotoxin
+acoasma
 asteam
 ailuridae
 ankyloblepharon

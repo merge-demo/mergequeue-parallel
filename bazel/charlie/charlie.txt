@@ -13179,7 +13179,6 @@ climbingfishes
 crosshand
 clearheaded
 catchable
-cycases
 cytogenies
 coverless
 cudgelled
@@ -14244,6 +14243,7 @@ cymose
 circumbasal
 circumbendibus
 circumboreal
+cycases
 callityped
 choleic
 calyptrogen
