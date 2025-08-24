@@ -5955,6 +5955,7 @@ bushier
 bestrowing
 beltie
 boogerman
+boviform
 babiche
 belting
 basidiomycete
@@ -10422,7 +10423,6 @@ blanks
 beesting
 buzziest
 baritone
-boviform
 bribetaking
 biune
 beachboy

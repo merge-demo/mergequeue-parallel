@@ -9044,6 +9044,7 @@ dicoumarol
 dicranaceous
 dextrinous
 diverter
+disseminule
 dicrotal
 dicrotous
 dicruridae
@@ -16807,7 +16808,6 @@ darg
 dactylus
 decrials
 durandarte
-disseminule
 draughtsmanship
 drave
 demiflouncing
