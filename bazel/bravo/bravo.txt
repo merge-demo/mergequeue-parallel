@@ -1790,6 +1790,7 @@ beglads
 banak
 bemuse
 bananaland
+bricklike
 benzyls
 bridgewall
 bananivorous
@@ -9712,7 +9713,6 @@ bissextile
 bissextus
 bullbats
 balding
-bricklike
 bombylious
 begobs
 barleduc
