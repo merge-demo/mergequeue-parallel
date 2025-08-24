@@ -5058,6 +5058,7 @@ chlamydomonadaceae
 casave
 casavi
 cascabel
+complexions
 coestate
 cytocide
 chemoprophylaxis
@@ -15811,7 +15812,6 @@ consanguinity
 coiffeuse
 cerebellar
 chainlet
-complexions
 cleanliest
 culottes
 clumpier
