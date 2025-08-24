@@ -11518,6 +11518,7 @@ anacampsis
 abysm
 ascribes
 anacamptic
+agentry
 almighty
 archhead
 amelet
@@ -15954,7 +15955,6 @@ abiotical
 antirailwayist
 alimentative
 atheous
-agentry
 antirape
 attackingly
 ambaree
