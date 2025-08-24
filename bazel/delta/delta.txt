@@ -2126,7 +2126,6 @@ decancellated
 disciplinarian
 dermatalgia
 debaser
-decipher
 decandria
 didst
 decandrous
@@ -18279,6 +18278,7 @@ dubious
 dyslexia
 disputant
 deanery
+decipher
 diagrammeter
 dinaric
 dogged
