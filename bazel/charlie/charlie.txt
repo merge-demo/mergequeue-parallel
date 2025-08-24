@@ -9582,7 +9582,6 @@ checksum
 construct
 checksumming
 castro
-chromogenous
 catechize
 cubiculum
 capacitively
@@ -17797,6 +17796,7 @@ chloroformist
 colletes
 condog
 cocuyo
+chromogenous
 cocullo
 cissy
 cocurator
