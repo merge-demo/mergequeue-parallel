@@ -5206,7 +5206,6 @@ affinitative
 alemanni
 aggerate
 affinities
-affinition
 affinitive
 affirmable
 asiaticism
@@ -9573,6 +9572,7 @@ agrom
 apometabolous
 alumic
 alumiferous
+affinition
 adiposogenital
 animableness
 acroamatics
