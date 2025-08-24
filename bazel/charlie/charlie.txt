@@ -115,7 +115,6 @@ codshead
 cabinetmaking
 capacitated
 cabinetted
-chordophone
 clitelline
 cabinetworker
 cabinetworking
@@ -5219,6 +5218,7 @@ cassabully
 cultist
 carthorse
 custodiam
+chordophone
 crwth
 cassady
 champacs
