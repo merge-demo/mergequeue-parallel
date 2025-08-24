@@ -16347,7 +16347,6 @@ conspicuous
 caraco
 curatrix
 clypeated
-clypeiform
 clypeola
 clypeolar
 clypeus
@@ -27239,6 +27238,7 @@ chitty
 country
 countrieman
 chorioiditis
+clypeiform
 cavillingly
 countries
 closelipped
