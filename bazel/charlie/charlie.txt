@@ -9025,7 +9025,6 @@ cloaks
 comus
 chicadee
 charking
-cookies
 chiels
 charlady
 charladies
@@ -12968,6 +12967,7 @@ cia
 crystallised
 cyan
 cyanamid
+cookies
 conspires
 coextension
 chipling
