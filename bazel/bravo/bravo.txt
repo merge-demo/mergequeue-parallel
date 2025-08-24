@@ -6322,7 +6322,6 @@ bentonite
 bents
 benu
 benumbed
-benumbingly
 benumbs
 brigalow
 battens
@@ -9240,6 +9239,7 @@ batussi
 bladebone
 bipinnarias
 bipinnated
+benumbingly
 butyrals
 bow
 ballottine
