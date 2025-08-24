@@ -4843,6 +4843,7 @@ bedsitter
 batmen
 backwraps
 baudekins
+butterpaste
 by
 benempted
 beltwise
@@ -5683,7 +5684,6 @@ bibliotaph
 beleper
 bicycle
 balandra
-butterpaste
 bridegroomship
 barkpeeling
 bluism
