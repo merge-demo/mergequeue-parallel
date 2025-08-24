@@ -12200,7 +12200,6 @@ chrysanisic
 cushiony
 cochairmanship
 chrysaor
-cont
 chrysazol
 crateral
 chryselectrum
@@ -23449,6 +23448,7 @@ contemporising
 contemporize
 contemporized
 contemptful
+cont
 contemptibility
 contemptible
 counterruin
