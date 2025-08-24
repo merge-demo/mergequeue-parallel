@@ -4564,6 +4564,7 @@ advowsons
 advt
 aurigal
 adward
+apogamy
 adwesch
 anetholes
 aeacides
@@ -17057,7 +17058,6 @@ atropa
 agoranome
 acmes
 audience
-apogamy
 antibody
 appendicle
 apogamies
