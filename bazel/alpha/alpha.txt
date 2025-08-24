@@ -11180,7 +11180,6 @@ assimilator
 aryans
 amphidisc
 acridan
-auroral
 amphidiscophoran
 amphierotism
 antisyphilitic
@@ -22047,6 +22046,7 @@ ascensive
 asthmas
 angolans
 asthmatic
+auroral
 arviculture
 amassed
 asthmatical

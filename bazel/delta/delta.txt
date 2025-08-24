@@ -8529,7 +8529,6 @@ doree
 diapause
 donaries
 decarburize
-dodecastylos
 divinations
 decongesting
 diapedeses
@@ -13279,6 +13278,7 @@ determinator
 draftman
 diapensiaceae
 dorsocephalad
+dodecastylos
 dyspnoeal
 dropkicks
 deserveless
