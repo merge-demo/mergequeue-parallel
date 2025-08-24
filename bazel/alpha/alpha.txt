@@ -11238,6 +11238,7 @@ administratorship
 argiopidae
 apiary
 amphisbaenas
+atroscine
 accordable
 amphisbaenoid
 antimasks
@@ -22899,7 +22900,6 @@ apelike
 astringency
 arroba
 amphispore
-atroscine
 atrous
 ambilaterally
 alikuluf
