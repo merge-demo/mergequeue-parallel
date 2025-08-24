@@ -1846,7 +1846,6 @@ acesodynous
 acestes
 acceleration
 achieves
-adstrict
 auride
 advanced
 acetable
@@ -17064,6 +17063,7 @@ acceptor
 antimarian
 allotropism
 achiever
+adstrict
 assiduous
 afterdeath
 acetoacetanilide
