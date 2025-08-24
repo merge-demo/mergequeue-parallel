@@ -11804,6 +11804,7 @@ antiparliamentary
 analphabete
 angelus
 acyanopsia
+apples
 awink
 acceptedly
 ariolate
@@ -17654,7 +17655,6 @@ axhead
 applejohn
 analogice
 antidotism
-apples
 applewoman
 assigning
 adopts
