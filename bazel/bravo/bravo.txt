@@ -3087,6 +3087,7 @@ bucrnia
 bloodcurdler
 benben
 baseborn
+besprinkle
 becher
 birdlime
 baseburner
@@ -7139,7 +7140,6 @@ betweenity
 bocking
 blowy
 betongue
-besprinkle
 bibliology
 briskish
 biaxial
