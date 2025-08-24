@@ -8788,7 +8788,6 @@ chaperno
 custodia
 chaperonage
 chaperone
-chaperonless
 catesbeiana
 cirsium
 chapes
@@ -31570,6 +31569,7 @@ controversialists
 curtein
 checkable
 coadunatively
+chaperonless
 curteous
 curter
 curtesies
