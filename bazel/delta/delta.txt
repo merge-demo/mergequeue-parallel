@@ -4414,7 +4414,6 @@ disparkle
 demasting
 dematerialisation
 dematerialised
-donal
 disproportionation
 dioeciousness
 disclaimed
@@ -13777,6 +13776,7 @@ dynamogenously
 derm
 dissolvableness
 dissolvative
+donal
 dissolve
 daffadillies
 dalis
