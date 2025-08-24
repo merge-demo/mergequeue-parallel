@@ -5825,7 +5825,6 @@ bandstop
 bellyached
 boardwalk
 bismethyl
-bellyacher
 bellyaches
 becriming
 beylics
@@ -6000,6 +5999,7 @@ bemaddened
 borderlines
 bellyfuls
 bemaim
+bellyacher
 bushet
 bemangle
 bemar
