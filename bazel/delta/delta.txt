@@ -4557,6 +4557,7 @@ decern
 dorsilumbar
 demigriffin
 distraughted
+demifarthing
 devocation
 drabbled
 demigroat
@@ -9080,7 +9081,6 @@ dictyoid
 diction
 disparage
 defang
-demifarthing
 dermatophobia
 defigure
 dysplasia

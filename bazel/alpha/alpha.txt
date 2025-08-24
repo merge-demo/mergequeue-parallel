@@ -5254,6 +5254,7 @@ aspatia
 android
 authorism
 armageddon
+analyzability
 apiales
 aimable
 affixment
@@ -24422,7 +24423,6 @@ autotomous
 astragals
 autotoxic
 autotractor
-analyzability
 autotransformer
 autotransplantation
 autostethoscope
