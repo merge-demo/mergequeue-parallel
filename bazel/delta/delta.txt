@@ -9298,7 +9298,6 @@ dietitians
 dtset
 diplomat
 dietotherapy
-dietotoxic
 detersive
 depletable
 diluvions
@@ -17749,6 +17748,7 @@ dietotoxicity
 delegative
 dubitable
 dichondra
+dietotoxic
 dubitably
 dubitancy
 deflagrates
