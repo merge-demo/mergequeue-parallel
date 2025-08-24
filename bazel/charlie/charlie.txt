@@ -17369,6 +17369,7 @@ canonizations
 chickory
 coarsening
 cercomonas
+cotransubstantiate
 coarsens
 coarser
 coarticulate
@@ -26430,7 +26431,6 @@ cotransfuse
 cotranslator
 confinable
 cotranspire
-cotransubstantiate
 commiserable
 cystocarp
 careenage
