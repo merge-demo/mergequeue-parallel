@@ -6778,6 +6778,7 @@ alezan
 astomatous
 aphorises
 apanages
+admonitor
 amphithurthura
 airmobile
 awry
@@ -17034,7 +17035,6 @@ antistes
 apodemas
 asportation
 apodiabolosis
-admonitor
 apodictive
 apodidae
 apodyteria
