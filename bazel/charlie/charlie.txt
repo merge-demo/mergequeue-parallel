@@ -12073,7 +12073,6 @@ choruses
 chorusing
 chanceries
 crisp
-countermachination
 crusca
 chockler
 casal
@@ -30689,6 +30688,7 @@ camiknickers
 cued
 chiropterygium
 coeffects
+countermachination
 cheetie
 caroche
 cunctatory
