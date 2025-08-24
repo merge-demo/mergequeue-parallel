@@ -3881,7 +3881,6 @@ deselects
 disinteresting
 dissceptred
 decorationist
-deionizer
 dissipatedness
 deipnophobia
 disembarkations
@@ -16966,6 +16965,7 @@ dreamsy
 displeasingness
 devisability
 dobber
+deionizer
 doless
 dzerin
 dianthaceae
