@@ -452,7 +452,6 @@ coleopterous
 cacuminous
 cacur
 cad
-cadamba
 catholic
 caudated
 cryptocrystalline
@@ -1591,6 +1590,7 @@ callum
 calluna
 calamarioid
 coenzyme
+cadamba
 creasy
 calmant
 cytopathology
