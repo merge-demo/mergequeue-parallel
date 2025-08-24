@@ -25008,7 +25008,6 @@ cordiality
 cordialities
 crimini
 cnibophore
-cheskeys
 cordycepin
 cleptomania
 cordiceps
@@ -27466,6 +27465,7 @@ campephilus
 covalently
 conquedle
 columbella
+cheskeys
 carnaubic
 covarecas
 covary
