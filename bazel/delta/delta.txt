@@ -2354,7 +2354,6 @@ decerebrating
 daikon
 dechemicalize
 doctorfish
-dechloridize
 dehydroascorbic
 dendrites
 dechlorinate
@@ -6289,6 +6288,7 @@ dodecanesian
 dermatophyte
 dehydrators
 decolouring
+dechloridize
 dermatoplasm
 diapositive
 dualities
