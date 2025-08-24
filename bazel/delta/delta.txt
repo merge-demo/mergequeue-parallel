@@ -3615,7 +3615,6 @@ deontological
 degging
 disguster
 def
-devices
 deglamorizing
 disrespectfulness
 deglazed
@@ -14398,6 +14397,7 @@ doctrix
 dephlegmedness
 demeaned
 defiling
+devices
 doled
 diva
 divagated
