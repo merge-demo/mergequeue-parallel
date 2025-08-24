@@ -25901,7 +25901,6 @@ catchier
 corticine
 corticipetal
 collegiate
-corticium
 corticoafferent
 corticoline
 calories
@@ -27515,6 +27514,7 @@ culminating
 covenanter
 covenants
 cameroon
+corticium
 covent
 coventrate
 coventry
