@@ -9460,7 +9460,6 @@ bemedaled
 bashes
 birma
 bernoo
-bisyllabism
 biggins
 blepharophryplasty
 banya
@@ -9628,6 +9627,7 @@ baptists
 bilateral
 bishopling
 biol
+bisyllabism
 bishopstool
 bishopweed
 bobbinets
