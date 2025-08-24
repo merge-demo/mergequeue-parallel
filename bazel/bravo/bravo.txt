@@ -7756,7 +7756,6 @@ biangulous
 biannually
 bhagavata
 biarchy
-biarcuate
 biarcuated
 biarticulate
 barrulee
@@ -11524,6 +11523,7 @@ bilateralness
 biosystematist
 brownshirt
 birdwomen
+biarcuate
 brachymetropia
 bestows
 bocedization

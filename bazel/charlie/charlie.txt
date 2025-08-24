@@ -20810,7 +20810,6 @@ complines
 complins
 complot
 caissoned
-canted
 complots
 complotter
 complotting
@@ -26123,6 +26122,7 @@ cagey
 chigoe
 cirsophthalmia
 cosmographic
+canted
 cosmographical
 concomitantly
 cosmographically
