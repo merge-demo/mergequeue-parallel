@@ -3572,6 +3572,7 @@ butchers
 balconet
 barkentine
 bathometer
+brutalizing
 bathometry
 blockmaking
 bathool
@@ -17518,7 +17519,6 @@ burdigalian
 basipoditic
 blowpoint
 burds
-brutalizing
 burweeds
 barraged
 bricklay
