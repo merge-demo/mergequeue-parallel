@@ -3614,6 +3614,7 @@ alphabetist
 anachoret
 alimenting
 attempre
+antidiphtheritic
 agib
 approachless
 adenotome
@@ -7286,7 +7287,6 @@ ariole
 anglesite
 avenues
 adjuvant
-antidiphtheritic
 albedo
 antimetrical
 arrector
