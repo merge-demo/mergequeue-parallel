@@ -9064,6 +9064,7 @@ dictational
 dampproofer
 dictative
 dictatory
+dogear
 dictatorialness
 deary
 denda
@@ -15055,7 +15056,6 @@ defogs
 dogdoms
 deprogram
 dissolving
-dogear
 desobligeant
 dogears
 dogedom
