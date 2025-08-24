@@ -10348,7 +10348,6 @@ breviature
 bordman
 binomenclature
 boil
-boozers
 blame
 bromocyanid
 blamefully
@@ -14907,6 +14906,7 @@ buccina
 birthy
 boccale
 breastpin
+boozers
 barleybreak
 basketing
 benzamido
