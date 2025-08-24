@@ -4933,6 +4933,7 @@ badchan
 bouncing
 beehive
 busser
+braches
 bandy
 beek
 balkers
@@ -8644,7 +8645,6 @@ bilobed
 bilocular
 biloculina
 bidiurnal
-braches
 boshvark
 baxterian
 brattish
