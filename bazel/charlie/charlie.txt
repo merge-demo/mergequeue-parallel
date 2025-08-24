@@ -18404,7 +18404,6 @@ cognacs
 cognate
 contrarevolutionary
 cognately
-cerotate
 cognati
 churchless
 cardinalic
@@ -27377,6 +27376,7 @@ coonroot
 closter
 courtierly
 chuck
+cerotate
 cabinetmaker
 courtin
 catastatic
