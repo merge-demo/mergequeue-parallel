@@ -12021,7 +12021,6 @@ chlorins
 chorist
 cyanuret
 characetum
-choristate
 chorister
 centralization
 coenacting
@@ -18845,6 +18844,7 @@ colessors
 conventionalization
 compliers
 cotan
+choristate
 compiles
 colet
 cobego
