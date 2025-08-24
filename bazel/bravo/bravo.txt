@@ -47,6 +47,7 @@ bundocks
 babbly
 befrogged
 brushable
+bonspiel
 babbit
 baton
 botrytises
@@ -12611,7 +12612,6 @@ beaproned
 bonspell
 buttresses
 barnacling
-bonspiel
 boruca
 bronchocele
 bonteboks
