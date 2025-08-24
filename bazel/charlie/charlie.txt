@@ -12341,7 +12341,6 @@ cephalocyst
 crosswind
 christies
 christlessness
-conductively
 christlike
 christmases
 carafon
@@ -27169,6 +27168,7 @@ countertouch
 chait
 cacotrophic
 circumgyration
+conductively
 chamite
 countertraction
 countertransference
