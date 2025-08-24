@@ -8249,6 +8249,7 @@ dell
 ductus
 distrito
 diaglyptic
+deliver
 diagnostical
 disenthroned
 diagnosticate
@@ -16858,7 +16859,6 @@ dey
 decurtate
 daniglacial
 doucepere
-deliver
 disallowances
 decapitable
 dissuited
