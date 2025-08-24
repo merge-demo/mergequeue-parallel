@@ -1198,7 +1198,6 @@ dreggish
 datably
 divinable
 demoiselles
-datafile
 dimerous
 dunts
 dillydallying
@@ -5557,6 +5556,7 @@ drainermen
 deoxygenized
 demicolumn
 depascent
+datafile
 deuteronomy
 disrepute
 depasture
