@@ -3231,7 +3231,6 @@ authorcraft
 aedine
 acutilingual
 axal
-antinosarian
 abloom
 acutilobate
 acutiplantar
@@ -12728,6 +12727,7 @@ aquiculture
 anglish
 angioparalytic
 angioparesis
+antinosarian
 angiopathy
 agnosis
 aeneolithic
