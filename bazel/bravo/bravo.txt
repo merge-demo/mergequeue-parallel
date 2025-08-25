@@ -1034,7 +1034,6 @@ burnweed
 bail
 bringer
 barfs
-bailable
 boordly
 baile
 bezazz
@@ -12572,6 +12571,7 @@ bonitarian
 boroughlet
 bemocks
 bardane
+bailable
 bonk
 begrudging
 bagpiping

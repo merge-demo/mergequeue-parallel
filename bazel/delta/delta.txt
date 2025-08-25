@@ -2642,7 +2642,6 @@ decomposure
 digne
 desalinate
 dogwatches
-decompoundable
 diffractional
 decompoundly
 decompress
@@ -16338,6 +16337,7 @@ dermographic
 disenthralls
 dissidently
 dvaita
+decompoundable
 downpipe
 downplay
 downplays
