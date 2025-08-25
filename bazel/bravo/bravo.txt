@@ -4588,6 +4588,7 @@ beau
 bedazzles
 bedazzlingly
 baptise
+beseeches
 bedbugs
 bedtick
 bedchair
@@ -6891,7 +6892,6 @@ bondservant
 basalia
 bolas
 beseam
-beseeches
 bisannual
 bluegills
 birlers
