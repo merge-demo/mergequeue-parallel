@@ -13385,7 +13385,6 @@ cycloserine
 centuply
 cyclosis
 cyclospondyli
-cyclosporales
 cuppas
 cyclosporeae
 concurrent
@@ -18426,6 +18425,7 @@ cognitively
 cokelike
 cognitivity
 cognizable
+cyclosporales
 cognizableness
 cryogenic
 cognizance
