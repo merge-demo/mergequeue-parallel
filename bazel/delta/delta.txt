@@ -1162,7 +1162,6 @@ demonstrative
 detick
 digitogenin
 defedation
-dasypus
 demurrer
 diparentum
 dasystephana
@@ -10988,6 +10987,7 @@ disadvantageousness
 deminude
 disadventure
 dysaesthesia
+dasypus
 dropvie
 downgrade
 duettist
