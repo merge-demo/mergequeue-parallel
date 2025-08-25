@@ -7934,6 +7934,7 @@ castigated
 chickadee
 cyamoid
 criteriions
+confesses
 cetorhinus
 cetotolite
 complaintful
@@ -21921,7 +21922,6 @@ cornfield
 clubrooms
 confessedly
 confesser
-confesses
 coiners
 crystallogy
 confessingly
