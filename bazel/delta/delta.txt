@@ -14525,7 +14525,6 @@ dextrogyrous
 divertissements
 divertive
 diverts
-decurrency
 deferment
 divested
 determinist
@@ -15208,6 +15207,7 @@ dipolarization
 dogstones
 dogtie
 degenerated
+decurrency
 dogtooth
 diabetogenous
 delegare
