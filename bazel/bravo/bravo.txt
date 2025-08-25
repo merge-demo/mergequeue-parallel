@@ -2706,7 +2706,6 @@ bridgemaster
 braconids
 barnstormer
 barnstorming
-besmearing
 borages
 brutalisation
 bogomile
@@ -12058,6 +12057,7 @@ brackishness
 boilover
 boils
 boyo
+besmearing
 boyology
 battiest
 boyship
