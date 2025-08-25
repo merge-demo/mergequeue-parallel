@@ -9373,6 +9373,7 @@ birdglue
 bisulfid
 brachtmema
 birdhood
+battalion
 birdhouse
 breezed
 bromous
@@ -18129,7 +18130,6 @@ backstabbing
 betulinamaric
 biogas
 bedfordshire
-battalion
 badmouthing
 butene
 butenyl
