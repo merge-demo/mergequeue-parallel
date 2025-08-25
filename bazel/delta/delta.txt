@@ -3429,6 +3429,7 @@ dumpcart
 dipleurogenetic
 deludher
 duelists
+diaspores
 dehumidifier
 disuniters
 damp
@@ -8676,7 +8677,6 @@ droumy
 downweigh
 defeminised
 diaspore
-diaspores
 deoxyribonuclease
 dovekey
 diastalsis
