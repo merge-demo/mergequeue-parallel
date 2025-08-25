@@ -328,7 +328,6 @@ cacodemon
 cacodemonia
 cowtongue
 cacodemoniac
-chlamydes
 citizendom
 cacodemonial
 cacodemonize
@@ -5372,6 +5371,7 @@ chivariing
 castigator
 castigatory
 castigators
+chlamydes
 camaldolite
 counteractingly
 contradictoriness
