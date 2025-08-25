@@ -13479,7 +13479,6 @@ calcomp
 caudatum
 casting
 choloepus
-cygneous
 cautions
 consubstantialism
 cygnid
@@ -16547,6 +16546,7 @@ cuve
 changoan
 commercialisation
 cheddite
+cygneous
 cnidosac
 cloghaun
 cloghead
