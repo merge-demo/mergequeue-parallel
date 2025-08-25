@@ -5486,7 +5486,6 @@ deoppilation
 dep
 doss
 deordination
-deorganization
 deistic
 deregister
 disenablement
@@ -17897,6 +17896,7 @@ debutante
 destituteness
 darkheartedness
 dueled
+deorganization
 deathday
 duelers
 duelist

@@ -6089,7 +6089,6 @@ agnations
 amphi
 agnel
 acetobenzoic
-agnification
 agnize
 affranchised
 audiophile
@@ -14610,6 +14609,7 @@ aggressively
 antiaristocracies
 arauna
 alpinisms
+agnification
 ariidae
 accordantly
 antinormal
