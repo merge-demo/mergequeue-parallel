@@ -7078,7 +7078,6 @@ centesimo
 caelus
 chicaned
 conciliated
-connotational
 centesm
 corticifugal
 centetid
@@ -8999,6 +8998,7 @@ cryptal
 charism
 charisma
 counterpointe
+connotational
 charismata
 chokecherry
 consuete
