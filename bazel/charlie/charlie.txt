@@ -9022,6 +9022,7 @@ colloq
 charities
 condition
 charityless
+corporeality
 caridoid
 cloaks
 comus
@@ -9269,7 +9270,6 @@ chatelaines
 chemotherapists
 corrosionproof
 conceive
-corporeality
 chathamites
 chatoyant
 carpophyll
