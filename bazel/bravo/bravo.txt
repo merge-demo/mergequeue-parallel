@@ -9483,7 +9483,6 @@ babingtonite
 biron
 byronesque
 byronic
-binocles
 beirut
 brahmaness
 beaconage
@@ -15578,6 +15577,7 @@ britannically
 brashy
 blennophlogosis
 blimy
+binocles
 british
 barwood
 britisher
