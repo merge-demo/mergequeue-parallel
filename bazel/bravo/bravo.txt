@@ -5421,6 +5421,7 @@ bakshish
 begummed
 biolite
 barbacoa
+butcher
 behallow
 bowldering
 betwit
@@ -18101,7 +18102,6 @@ butch
 butcha
 bedoyo
 bolbanac
-butcher
 bupleurum
 boosts
 blocklayer
