@@ -5093,7 +5093,6 @@ callosity
 casehardening
 candida
 caseic
-chrysographer
 cholecyanin
 cyberneticists
 canonistical
@@ -10205,6 +10204,7 @@ chiasma
 cotesian
 chloasmata
 camacan
+chrysographer
 chiasmas
 chiasmata
 chase
