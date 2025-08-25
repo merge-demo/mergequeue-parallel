@@ -4421,7 +4421,6 @@ beclog
 becoiffed
 bendlet
 bludging
-beclogs
 bretonian
 bilabials
 beclothe
@@ -11674,6 +11673,7 @@ boatsetter
 bisymmetric
 badju
 boatsteerer
+beclogs
 biracialism
 buddies
 bactericidally
