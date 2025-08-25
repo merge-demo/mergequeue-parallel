@@ -1144,7 +1144,6 @@ counterrampant
 calculableness
 calculably
 cosing
-confabular
 calculatedly
 contango
 calculatedness
@@ -16229,6 +16228,7 @@ cline
 clines
 caudexes
 clinger
+confabular
 crankness
 crossbeak
 clingfishes
