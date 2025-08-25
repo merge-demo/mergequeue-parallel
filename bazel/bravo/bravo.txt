@@ -3556,7 +3556,6 @@ bastinadoes
 beckoning
 bathyplankton
 bairnteam
-balon
 bibbers
 baygall
 barricade
@@ -16967,6 +16966,7 @@ beleaguered
 bulbously
 bowedness
 bespoken
+balon
 bure
 bhil
 blazoner
