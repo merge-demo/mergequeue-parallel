@@ -3073,6 +3073,7 @@ berascaling
 bathetic
 beaufet
 basalts
+bringal
 bernardina
 basaltware
 bombiccite
@@ -9044,7 +9045,6 @@ ballonet
 booky
 biopsychology
 bidental
-bringal
 bize
 bitentaculate
 busheler

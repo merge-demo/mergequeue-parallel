@@ -9702,7 +9702,6 @@ dieter
 dispersedelement
 desulphurization
 dikaryophasic
-dikaryophyte
 dikaryophytic
 disfiguration
 dikdik
@@ -17127,6 +17126,7 @@ drierman
 decennials
 deconcentrated
 dryfoot
+dikaryophyte
 drift
 driftage
 deficient
