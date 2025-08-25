@@ -10215,7 +10215,6 @@ dings
 despises
 dzeron
 depopularize
-demetallize
 dismortgage
 diecase
 dimethoxy
@@ -12319,6 +12318,7 @@ disenchanted
 delicacies
 debarks
 disgracious
+demetallize
 diplegias
 doublegear
 dogface
