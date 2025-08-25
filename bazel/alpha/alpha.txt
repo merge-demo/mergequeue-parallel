@@ -16545,7 +16545,6 @@ adenomata
 appredicate
 allotrylic
 apathaton
-allelvia
 apathetically
 adipyl
 arear
@@ -25208,6 +25207,7 @@ az
 ascogonidium
 azadirachta
 azadrachta
+allelvia
 attentat
 azafran
 angiocyst
