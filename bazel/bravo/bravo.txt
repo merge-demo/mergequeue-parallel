@@ -9573,6 +9573,7 @@ battlements
 ballhawk
 biscayanism
 burnover
+brailling
 barbal
 beechiest
 biscuitlike
@@ -14373,7 +14374,6 @@ bonebinder
 braillewriter
 boloman
 bambino
-brailling
 bettors
 braincap
 brachiferous
