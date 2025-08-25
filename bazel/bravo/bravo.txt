@@ -1515,7 +1515,6 @@ bootlegger
 balladize
 bedaubed
 balladizing
-biophore
 brutalization
 bichromated
 bezel
@@ -6191,6 +6190,7 @@ bravo
 benefices
 bluebonnet
 bromvoel
+biophore
 blacker
 beneficial
 beneficialness
