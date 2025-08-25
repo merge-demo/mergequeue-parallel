@@ -11427,7 +11427,6 @@ choanoflagellate
 choanoflagellida
 cotta
 choanophorous
-cataplasm
 choanosome
 choate
 cautioned
@@ -16611,6 +16610,7 @@ casthouse
 clomiphene
 clomp
 clomps
+cataplasm
 clonal
 cloned
 cloner
