@@ -8145,7 +8145,6 @@ bindweeds
 bidri
 brutelike
 barmaids
-basidigitale
 bieberite
 bespreading
 blossomed
@@ -11312,6 +11311,7 @@ blowproof
 blows
 bleachability
 barograms
+basidigitale
 boneyard
 biologism
 blowse
