@@ -12524,7 +12524,6 @@ colonists
 creakiest
 cattycorner
 chromoplast
-congelation
 countergauger
 charmer
 coachmaking
@@ -15282,6 +15281,7 @@ clamflat
 calamospermae
 chivalry
 capricornus
+congelation
 clamjamfery
 clammed
 caramelizes
