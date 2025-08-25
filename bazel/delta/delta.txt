@@ -1054,7 +1054,6 @@ darn
 darndest
 darnels
 destandardize
-diplohedral
 dishes
 diacodium
 deas
@@ -17658,6 +17657,7 @@ dicranterian
 discourteously
 dtente
 diplococci
+diplohedral
 draftee
 disapprobation
 dreamed
