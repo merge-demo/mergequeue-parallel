@@ -6333,7 +6333,6 @@ benu
 benumbed
 benumbs
 brigalow
-battens
 benzacridine
 baltic
 benzalacetone
@@ -6743,6 +6742,7 @@ bologna
 bermensch
 bermes
 bourgeoisify
+battens
 bagaudae
 biked
 blurted
