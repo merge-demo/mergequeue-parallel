@@ -5607,7 +5607,6 @@ bacchuslike
 beknottedly
 basophile
 biotype
-byelaws
 beknow
 blimpishly
 bel
@@ -13796,6 +13795,7 @@ brisa
 blindstorey
 bowditch
 bountied
+byelaws
 biotoxins
 bromalbumin
 bowdlerisation
