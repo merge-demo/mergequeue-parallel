@@ -4441,7 +4441,6 @@ bootee
 beclowned
 billard
 bromizer
-bebopper
 blackrag
 behinds
 bailment
@@ -9415,6 +9414,7 @@ brattach
 bestirred
 bathman
 benedictus
+bebopper
 bridegroom
 begettal
 bobwood
