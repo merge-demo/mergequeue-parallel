@@ -13188,7 +13188,6 @@ ciceroni
 ciceronian
 chiaroscuro
 clon
-ciceronianisms
 ciceronianist
 compellability
 colluviums
@@ -28282,6 +28281,7 @@ cratons
 cohos
 craunches
 conilurus
+ciceronianisms
 craunching
 craunchingly
 cravat
