@@ -906,7 +906,6 @@ dantophilist
 dinned
 daoine
 decks
-dap
 diuron
 dictation
 dapedius
@@ -15639,6 +15638,7 @@ determinedly
 dool
 duumviri
 deviable
+dap
 doolfu
 doomed
 doomer
