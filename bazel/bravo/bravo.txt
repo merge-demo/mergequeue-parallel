@@ -3640,6 +3640,7 @@ batlet
 batlike
 bifanged
 boards
+brandyball
 buyides
 biosterol
 baculiform
@@ -14537,7 +14538,6 @@ belugite
 bedumbed
 branchiostegidae
 branchiostoma
-brandyball
 bounciest
 branchiostomous
 bombload
