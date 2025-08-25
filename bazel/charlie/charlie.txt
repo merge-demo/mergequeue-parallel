@@ -10560,7 +10560,6 @@ carports
 chiller
 confessionary
 comino
-corporational
 cotwist
 chillest
 cystocarpic
@@ -13510,6 +13509,7 @@ ciliated
 ciliately
 coolish
 ciliates
+corporational
 catalogued
 comedia
 caseating
