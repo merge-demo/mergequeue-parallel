@@ -3955,6 +3955,7 @@ brocatel
 barhal
 bastardizations
 beachcombers
+befog
 beachdrops
 biliment
 bowed
@@ -11594,7 +11595,6 @@ blancmanger
 blustering
 basilicalike
 blusterously
-befog
 behindsight
 bounced
 bathers

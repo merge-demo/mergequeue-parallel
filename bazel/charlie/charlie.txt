@@ -6753,7 +6753,6 @@ celibacy
 contrivancy
 costard
 celibatic
-conducent
 celibatist
 coroun
 celibatory
@@ -15250,6 +15249,7 @@ clayton
 claiver
 crucigerous
 claywares
+conducent
 clayweed
 caam
 colours
