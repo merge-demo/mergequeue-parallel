@@ -6397,7 +6397,6 @@ dioc
 ducula
 demurrable
 doegling
-doctrinized
 derned
 dysidrosis
 demeritoriously
@@ -7266,6 +7265,7 @@ desolately
 dyingly
 detente
 dicotyl
+doctrinized
 dimetric
 detenue
 days
