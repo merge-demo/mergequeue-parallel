@@ -471,7 +471,6 @@ alfalfa
 abirritating
 akvavit
 aquocellolitis
-abysmal
 agriotes
 abdominous
 abyss
@@ -13214,6 +13213,7 @@ amtrak
 aortopathy
 archibuteo
 ancha
+abysmal
 anisognathism
 anisoiconia
 anisoyl
