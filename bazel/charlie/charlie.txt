@@ -3955,6 +3955,7 @@ coonjine
 carceag
 camanay
 carcel
+chiasmatic
 cheerfulness
 carcels
 chuumnapm
@@ -10210,7 +10211,6 @@ chiasmas
 chiasmata
 chase
 cystoscopy
-chiasmatic
 combretaceae
 chiasmatype
 counterformula
