@@ -40,7 +40,6 @@ caballero
 caballo
 ceratopteridaceous
 caballos
-cardiae
 centillions
 cabanas
 cabane
@@ -2972,6 +2971,7 @@ chaffers
 capriole
 calliphorid
 colliquation
+cardiae
 cicalas
 croppies
 canthorrhaphy

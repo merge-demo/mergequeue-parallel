@@ -5587,7 +5587,6 @@ depatriate
 dispergation
 dkm
 doornails
-depauperize
 dyscrase
 depeinct
 dependabilities
@@ -8111,6 +8110,7 @@ desugar
 durzi
 dhourras
 dhritarashtra
+depauperize
 disables
 dhundia
 disembowelled
