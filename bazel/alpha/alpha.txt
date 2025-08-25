@@ -2376,6 +2376,7 @@ agrising
 argemone
 afterfeed
 ackmen
+asplenioid
 acanthocephali
 aluminized
 anoil
@@ -21488,7 +21489,6 @@ anthesterion
 anisogeny
 aglucone
 automolite
-asplenioid
 adsorbs
 ayurvedas
 alkyl
