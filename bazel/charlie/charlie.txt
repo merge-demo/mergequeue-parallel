@@ -26679,6 +26679,7 @@ counterattestation
 counterattraction
 countercompany
 counterattractive
+curch
 costulation
 counteravouch
 counteravouchment
@@ -31282,7 +31283,6 @@ curbside
 curbstone
 curbstoner
 curcas
-curch
 criterium
 curculio
 curculionidae
