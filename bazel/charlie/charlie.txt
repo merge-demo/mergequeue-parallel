@@ -7591,7 +7591,6 @@ carus
 corrugating
 cooked
 citrulline
-chondric
 corydaline
 cophouse
 cerebrifugal
@@ -18313,6 +18312,7 @@ cofighter
 cellmate
 casearia
 coforeknown
+chondric
 clownishness
 cofounding
 cathedrals
