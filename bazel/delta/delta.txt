@@ -7882,6 +7882,7 @@ desmocyte
 dispenser
 dihydrogen
 demonises
+depone
 dewberries
 dewcap
 disbudder
@@ -12407,7 +12408,6 @@ disharmonising
 deflexion
 demasculinized
 dwarfishly
-depone
 deepening
 dampened
 decempartite
