@@ -1512,6 +1512,7 @@ callipees
 calliperer
 callipering
 callipers
+cosinusoid
 copopoda
 cocanucos
 chugged
@@ -6955,7 +6956,6 @@ crowdedness
 confects
 cenesthetic
 cotyligerous
-cosinusoid
 cenizo
 cenobe
 codable

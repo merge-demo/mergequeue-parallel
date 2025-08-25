@@ -2420,7 +2420,6 @@ bummalo
 benzpinacone
 bareca
 barefaced
-bombacaceous
 baulk
 bradenhead
 brassic
@@ -11662,6 +11661,7 @@ bittacle
 berend
 boxhead
 buchmanite
+bombacaceous
 boatless
 banjoes
 bewonder
