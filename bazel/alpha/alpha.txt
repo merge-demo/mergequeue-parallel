@@ -12600,7 +12600,6 @@ angeleen
 angeleyes
 angeles
 airsick
-angelet
 angelfishes
 alkamine
 arreptitious
@@ -17216,6 +17215,7 @@ apoplex
 absarokite
 apoplexy
 adamantoid
+angelet
 anemometrographic
 archmime
 aporhyolite
