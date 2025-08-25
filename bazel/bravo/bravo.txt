@@ -2184,7 +2184,6 @@ backflash
 briscola
 barathea
 barbellate
-bibbled
 baysmelts
 bemaddens
 barathra
@@ -10863,6 +10862,7 @@ bitterns
 blastomycetic
 blowgun
 blighters
+bibbled
 bestowing
 bribetaker
 burroughs
