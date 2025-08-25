@@ -16014,7 +16014,6 @@ antisag
 antisaloon
 apemantus
 atrophied
-affaire
 antisalooner
 antisavage
 anticlassicalism
@@ -19723,6 +19722,7 @@ archplotter
 armadillos
 astrocyte
 arythmically
+affaire
 annexitis
 aminolytic
 amphicyonidae
