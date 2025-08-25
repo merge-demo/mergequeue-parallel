@@ -8543,7 +8543,6 @@ diaper
 dyschromatopsia
 duchy
 dethrone
-dos
 dewbeam
 didacts
 diaphanometric
@@ -14922,6 +14921,7 @@ document
 disinfector
 documentable
 deist
+dos
 documental
 delimer
 debonaire
