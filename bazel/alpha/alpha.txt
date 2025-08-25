@@ -1413,7 +1413,6 @@ accessive
 anoplocephalic
 aurichalcum
 awlessness
-alg
 atka
 accessorize
 accessors
@@ -12713,6 +12712,7 @@ angiokeratoma
 affixers
 apocopation
 anthocerotales
+alg
 angioleucitis
 annelid
 angiolith
