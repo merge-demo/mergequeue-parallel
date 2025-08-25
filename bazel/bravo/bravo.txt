@@ -1742,6 +1742,7 @@ bruise
 bismutite
 biochemically
 bibliokelpt
+boarish
 balthasar
 baltheus
 belgas
@@ -13263,7 +13264,6 @@ bedstaff
 bokard
 bossily
 bowler
-boarish
 bosniac
 bucketfuls
 bostanji
