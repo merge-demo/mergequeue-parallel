@@ -10408,7 +10408,6 @@ dagga
 dioxan
 dfault
 deejays
-dioxane
 dioxanes
 dreadness
 droiture
@@ -14430,6 +14429,7 @@ dysentery
 durian
 dehydrocorydaline
 durdenite
+dioxane
 detainable
 divarication
 dolicholus
