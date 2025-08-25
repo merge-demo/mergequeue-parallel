@@ -3339,7 +3339,6 @@ deturn
 dsect
 defis
 deflagrable
-dialling
 decolor
 disrestore
 dynagraph
@@ -12868,6 +12867,7 @@ dismarket
 dervishhood
 dunnages
 dicotyledon
+dialling
 devotionally
 dominial
 destructor
