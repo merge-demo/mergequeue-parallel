@@ -7774,6 +7774,7 @@ certosina
 canewares
 certosino
 cerulean
+cheirotherium
 ceruleans
 cerulein
 cache
@@ -22825,7 +22826,6 @@ catchiness
 causticized
 consequency
 combinableness
-cheirotherium
 consequent
 ciconian
 consequential
