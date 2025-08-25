@@ -9661,7 +9661,6 @@ bisischiatic
 bauera
 bisk
 bisks
-bysmalith
 bismark
 boulder
 bladed
@@ -14668,6 +14667,7 @@ brassey
 boxiest
 basketful
 biographically
+bysmalith
 brassicaceae
 backworm
 brassiere
