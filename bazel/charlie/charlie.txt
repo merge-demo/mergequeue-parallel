@@ -6909,7 +6909,6 @@ chrome
 craninia
 caecostomy
 cement
-coenocyte
 cementation
 cloacaline
 chymosins
@@ -11865,6 +11864,7 @@ cherrystones
 chopsticks
 chopunnish
 cakes
+coenocyte
 cultch
 chora
 caselty
