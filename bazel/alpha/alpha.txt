@@ -2147,6 +2147,7 @@ assessionary
 achondritic
 archdevil
 achondroplasia
+acedia
 abatjours
 agrostology
 achordal
@@ -12038,7 +12039,6 @@ anatomicochirurgical
 ammonifier
 arterioverter
 aphodal
-acedia
 anatomicopathologic
 arteriofibrosis
 anatomise
