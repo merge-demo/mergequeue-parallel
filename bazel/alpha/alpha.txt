@@ -13145,6 +13145,7 @@ amaltas
 anilidic
 animo
 academizing
+anteromedial
 alchem
 anientise
 achtelthaler
@@ -14176,7 +14177,6 @@ alismaceae
 anterointernal
 anterolateral
 andreaea
-anteromedial
 automorphically
 agiotages
 anteroom
