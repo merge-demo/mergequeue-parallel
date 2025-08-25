@@ -834,7 +834,6 @@ anam
 amphicyrtous
 abscission
 absconce
-arris
 abscond
 anteport
 absconded
@@ -1910,6 +1909,7 @@ acetylfluoride
 appendix
 affirmance
 acetylglycine
+arris
 apologetical
 attentional
 antimissionary
