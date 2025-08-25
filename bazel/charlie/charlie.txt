@@ -2824,7 +2824,6 @@ churlish
 canones
 cardooer
 canonesses
-canonicalization
 cultivable
 cinctures
 canonicalized
@@ -17436,6 +17435,7 @@ christmas
 coemptionator
 coauthority
 coauthors
+canonicalization
 coawareness
 coaxal
 coaxation
