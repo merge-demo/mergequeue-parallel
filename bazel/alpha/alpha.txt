@@ -18510,7 +18510,6 @@ aromatization
 arcanite
 anvilled
 arcature
-arcatures
 acraeinae
 arcboutant
 arccos
@@ -24054,6 +24053,7 @@ aureoles
 antiresonator
 ammanite
 autoimmunizing
+arcatures
 acrorrheuma
 anachronisms
 acanthi
