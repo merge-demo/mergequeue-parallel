@@ -6889,6 +6889,7 @@ drailed
 destriers
 desolate
 dishcross
+differently
 door
 dobroes
 desolated
@@ -9379,7 +9380,6 @@ differentiator
 defalcates
 dewax
 diplopia
-differently
 dinarchies
 dasypodidae
 differer
