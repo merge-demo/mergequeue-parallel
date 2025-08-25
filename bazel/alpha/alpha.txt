@@ -14792,7 +14792,6 @@ antimachinery
 anticyclic
 arrondi
 alife
-anticyclical
 apocodeine
 anticyclogenesis
 anticyclolysis
@@ -14909,6 +14908,7 @@ anticonfederative
 antiaristocracy
 arthropterous
 annulled
+anticyclical
 amidohexose
 antilogy
 abwab
