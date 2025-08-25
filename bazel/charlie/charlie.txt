@@ -6554,7 +6554,6 @@ ccitt
 custodial
 commentation
 contributions
-charcuterie
 calamitoid
 cdf
 carid
@@ -15746,6 +15745,7 @@ chirotype
 clima
 chrysograph
 claviger
+charcuterie
 carshops
 clavilux
 chalices
