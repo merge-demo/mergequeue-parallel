@@ -3599,7 +3599,6 @@ dinornithiformes
 degenerate
 desulphurizer
 diagrammatize
-dicta
 diodont
 docosane
 dignification
@@ -8070,6 +8069,7 @@ discombobulated
 dumpies
 dharmic
 dharnas
+dicta
 dodecatylic
 dhaura
 dioscuri
