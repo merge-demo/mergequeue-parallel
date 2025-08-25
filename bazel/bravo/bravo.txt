@@ -1601,7 +1601,6 @@ banneret
 brairding
 bestar
 brahms
-beauties
 balloen
 ballone
 bullbird
@@ -13096,6 +13095,7 @@ beryls
 bobbling
 bassarisk
 backfurrow
+beauties
 baalath
 bodyguard
 borid
