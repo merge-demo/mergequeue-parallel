@@ -6615,6 +6615,7 @@ blotter
 bluff
 broquineer
 betons
+balagan
 bannerer
 butterbox
 brotula
@@ -8224,7 +8225,6 @@ bifocal
 balanocele
 berith
 bb
-balagan
 bullfist
 brothership
 bespurt
