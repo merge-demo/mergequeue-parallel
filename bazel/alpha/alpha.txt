@@ -1,4 +1,5 @@
 a
+assigner
 aa
 archnesses
 amyotaxia
@@ -5165,7 +5166,6 @@ affere
 abnegative
 affianced
 angakok
-assigner
 aerophilic
 affiancing
 antievolutionistic
