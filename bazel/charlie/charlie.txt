@@ -13476,7 +13476,6 @@ cigarette
 cystenchyma
 cigarettes
 cigarfish
-counterconversion
 craspedum
 cigarillos
 cambibia
@@ -28698,6 +28697,7 @@ creosote
 casasia
 curran
 cole
+counterconversion
 creosotes
 creosotic
 cholic
