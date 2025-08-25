@@ -12833,7 +12833,6 @@ desertions
 detents
 decafid
 dislustre
-dhoni
 disulphonic
 diffusedness
 deferral
@@ -16521,6 +16520,7 @@ draconid
 douzieme
 dracontian
 deepwater
+dhoni
 dandies
 disnumber
 dracontites
