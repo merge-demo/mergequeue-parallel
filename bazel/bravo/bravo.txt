@@ -3194,7 +3194,6 @@ breadth
 ballerinas
 brabant
 bauta
-beknave
 baclava
 bravish
 blowzily
@@ -3651,6 +3650,7 @@ bumbleberry
 betacism
 bakehouses
 brazenfacedly
+beknave
 botchery
 bioplasm
 batoon
