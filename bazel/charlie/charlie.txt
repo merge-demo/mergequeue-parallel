@@ -1294,7 +1294,6 @@ catchwater
 calibrating
 calibre
 calibred
-chromatophilia
 causative
 cyanohydrin
 caliburn
@@ -27641,6 +27640,7 @@ cowhides
 caravanning
 cancellability
 cowhiding
+chromatophilia
 cowhorn
 camiscia
 copartnery
