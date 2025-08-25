@@ -9091,7 +9091,6 @@ biosciences
 bulrushes
 bestrows
 befits
-buzzwigs
 boylikeness
 bioscopy
 bioscopic
@@ -14208,6 +14207,7 @@ bleu
 bluebottles
 bradycrotic
 boutiques
+buzzwigs
 bloodstroke
 bradydactylia
 bepowder
