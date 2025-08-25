@@ -1068,7 +1068,6 @@ babyhouse
 behowling
 becost
 barrulet
-blousier
 buzzards
 bailors
 birdlimed
@@ -6871,6 +6870,7 @@ bacteriotoxic
 benignancy
 benkulen
 buicks
+blousier
 bioluminescent
 bescourge
 baboos
