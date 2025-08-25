@@ -1540,7 +1540,6 @@ ballastic
 ballata
 brisked
 batikulin
-ballatoon
 backcasts
 brunetteness
 berri
@@ -12749,6 +12748,7 @@ bhoots
 bookmobiles
 burlesk
 bookpress
+ballatoon
 bookracks
 bandores
 blacklegging
