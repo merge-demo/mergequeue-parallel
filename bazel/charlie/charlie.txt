@@ -14615,7 +14615,6 @@ cystinosis
 cotehardie
 cumarone
 cystidean
-coumarinic
 cryptorchid
 catholicism
 corroboratively
@@ -20833,6 +20832,7 @@ challoth
 components
 compony
 comportable
+coumarinic
 comportance
 cenosity
 comported
