@@ -8857,6 +8857,7 @@ allographic
 araneid
 alloyage
 aeroporotomy
+azimuthally
 alloiogenesis
 attitude
 alloiometric
@@ -11087,7 +11088,6 @@ amphibian
 amphibians
 ashkenazi
 amphibiety
-azimuthally
 amphibiotic
 artifices
 amphibium
