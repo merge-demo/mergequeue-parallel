@@ -17886,7 +17886,6 @@ antidecalogue
 absolutes
 approved
 approvedly
-attesting
 antiempirical
 approvers
 authenticate
@@ -20925,6 +20924,7 @@ ascidioida
 abderite
 archipelago
 ascidioidea
+attesting
 ascyphous
 ascyrum
 authorizable
