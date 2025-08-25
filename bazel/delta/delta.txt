@@ -1218,6 +1218,7 @@ datary
 dataries
 depeach
 datasetname
+disowning
 dithers
 datcha
 disparison
@@ -12555,7 +12556,6 @@ dols
 decerns
 dugout
 dungier
-disowning
 disinfecting
 denormalized
 disinfection
