@@ -1150,7 +1150,6 @@ contango
 calculatedness
 chromophilic
 calculates
-calculatingly
 cony
 compeer
 correlate
@@ -7542,6 +7541,7 @@ cimbri
 cramberry
 cercosporella
 canalisation
+calculatingly
 cercus
 cerdonian
 cereal
