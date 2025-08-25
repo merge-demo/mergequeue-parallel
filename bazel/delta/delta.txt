@@ -10180,7 +10180,6 @@ downy
 dasypaedes
 doater
 dinged
-diploids
 daddle
 demihigh
 dingeing
@@ -12333,6 +12332,7 @@ dappleness
 disincrustion
 diaphone
 disgrading
+diploids
 dissuadable
 discreating
 disgruntlement
