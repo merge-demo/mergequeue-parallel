@@ -7233,7 +7233,6 @@ disenchantingly
 direful
 dominations
 detecter
-detecters
 decentralist
 duffels
 digitate
@@ -7349,6 +7348,7 @@ diameters
 didine
 duplification
 determinism
+detecters
 dunnest
 deterministic
 dollbeer
