@@ -16117,7 +16117,6 @@ cliffier
 clifflike
 capacities
 canuck
-cliffs
 creators
 calamints
 conning
@@ -30148,6 +30147,7 @@ ceramist
 colpheg
 cerotype
 cornuses
+cliffs
 christ
 chondroglossus
 crucifixions
