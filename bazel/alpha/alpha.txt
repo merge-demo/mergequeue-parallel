@@ -3201,7 +3201,6 @@ acupuncture
 abonne
 apsides
 acupunctured
-acupuncturing
 antivenomous
 acupuncturist
 acus
@@ -14659,6 +14658,7 @@ anaglyphic
 antibiotic
 antimonopolism
 acousmatic
+acupuncturing
 antibiotically
 anthrohopobiological
 antidiffuser
