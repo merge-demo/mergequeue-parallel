@@ -6560,7 +6560,6 @@ apogalacteum
 anarcestean
 afterburner
 aikinite
-aikona
 agenes
 arbitrarily
 antigorite
@@ -21295,6 +21294,7 @@ agueproof
 ambulantes
 asmodeus
 adurent
+aikona
 antifeudalism
 asoak
 asoka
