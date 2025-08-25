@@ -13945,6 +13945,7 @@ cynogenealogy
 canonistic
 caviars
 cynoglossum
+cusp
 cynognathus
 cynography
 cirripeds
@@ -19606,7 +19607,6 @@ columbine
 covin
 climactic
 chamfrons
-cusp
 crocky
 copesetic
 columbotantalate
