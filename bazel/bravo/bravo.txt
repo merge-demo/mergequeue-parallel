@@ -3674,7 +3674,6 @@ books
 blissfully
 blout
 batsmen
-batt
 bobadilism
 bammed
 brotulidae
@@ -7372,6 +7371,7 @@ blithers
 bailed
 betire
 betis
+batt
 betises
 byproduct
 botrycymose
