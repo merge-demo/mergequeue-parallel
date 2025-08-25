@@ -3511,7 +3511,6 @@ adelphous
 adempt
 adipsous
 azole
-ascesis
 assedat
 arabicize
 agora
@@ -7143,6 +7142,7 @@ afgod
 alamort
 alan
 alange
+ascesis
 antigonococcic
 arthrectomies
 alangium
