@@ -1877,7 +1877,6 @@ concernedly
 clonked
 cambresine
 cuir
-calumnia
 cambric
 cartonnage
 cambricleaf
@@ -10265,6 +10264,7 @@ columboid
 clitoritis
 chicanery
 chicaneries
+calumnia
 chicaners
 convallarin
 chicanes
