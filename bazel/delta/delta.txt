@@ -6474,7 +6474,6 @@ disperge
 departmentalising
 desentimentalize
 decadenza
-disbark
 desands
 desc
 descale
@@ -6493,6 +6492,7 @@ diastatic
 denunciatory
 dime
 daubingly
+disbark
 dorsifixed
 disencumberment
 diag
