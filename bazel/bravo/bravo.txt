@@ -6026,6 +6026,7 @@ brewis
 bribeability
 blephillia
 bemaul
+bipinnarias
 bitterbark
 beme
 bemean
@@ -9238,7 +9239,6 @@ bandoleros
 biordinal
 batussi
 bladebone
-bipinnarias
 bipinnated
 benumbingly
 butyrals

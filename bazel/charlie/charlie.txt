@@ -13324,7 +13324,6 @@ cyclonology
 cycloolefin
 consertal
 chirred
-colob
 chrysophyll
 cycloolefine
 cycloolefinic
@@ -30093,6 +30092,7 @@ complementing
 crownpiece
 coincidency
 crownwork
+colob
 crownwort
 crowshay
 cryocautery
