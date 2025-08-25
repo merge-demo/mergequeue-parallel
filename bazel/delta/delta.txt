@@ -7265,7 +7265,6 @@ detente
 dicotyl
 dimetric
 detenue
-days
 desulfurize
 detenues
 dephlegmator
@@ -8507,6 +8506,7 @@ diandria
 discographer
 dianetics
 divider
+days
 didactically
 dianilid
 dilate
