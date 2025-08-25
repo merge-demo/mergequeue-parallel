@@ -5097,7 +5097,6 @@ capsaicin
 callosity
 casehardening
 candida
-casey
 caseic
 chrysographer
 cholecyanin
@@ -30609,6 +30608,7 @@ cephaloclasia
 coprology
 cucullate
 contravened
+casey
 chilidog
 crustosis
 cuculle
