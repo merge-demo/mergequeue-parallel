@@ -19094,6 +19094,7 @@ callable
 colliflower
 cruset
 colliform
+constat
 conurus
 colligate
 colligating
@@ -23112,7 +23113,6 @@ canvassed
 constantly
 constantness
 camorrista
-constat
 caretaken
 chuddahs
 chamberletted
