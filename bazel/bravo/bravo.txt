@@ -8184,7 +8184,6 @@ byronically
 backspliced
 byestreet
 beatable
-boone
 battailous
 bluebuck
 biethnic
@@ -18293,6 +18292,7 @@ buttinski
 bankshall
 bourout
 buttled
+boone
 bonspells
 buttock
 balachan
