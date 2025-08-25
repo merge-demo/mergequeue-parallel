@@ -6725,6 +6725,7 @@ bedull
 bayesian
 bonnier
 berlin
+barrandite
 browsability
 broomstaff
 blitter
@@ -12234,7 +12235,6 @@ boloism
 byplays
 boutre
 bolshevikian
-barrandite
 bemoult
 bullfights
 boiko
