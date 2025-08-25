@@ -3537,7 +3537,6 @@ developedness
 defunct
 descendence
 debarked
-dawcock
 drumlin
 defunction
 dollface
@@ -3814,6 +3813,7 @@ disaugment
 deifiers
 dressiness
 drepanididae
+dawcock
 despited
 deign
 describes
