@@ -7887,6 +7887,7 @@ coronize
 capitulary
 carouses
 cestoids
+chayota
 cestraction
 chairs
 colessees
@@ -16723,7 +16724,6 @@ covings
 clapbread
 carpetbeater
 clote
-chayota
 clomb
 cloth
 cercopithecid
