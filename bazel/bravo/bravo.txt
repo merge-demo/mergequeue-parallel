@@ -8394,7 +8394,6 @@ brush
 bijou
 bhandar
 bubs
-burbankian
 bannerfish
 bijwoner
 beanie
@@ -11810,6 +11809,7 @@ blennorrheal
 bepommel
 bardolphian
 bock
+burbankian
 bullishly
 bioresearch
 brainfag
