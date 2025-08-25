@@ -18690,7 +18690,6 @@ cointer
 cointerest
 cointerred
 cointerring
-cointersecting
 cointreau
 coinvolve
 coyo
@@ -26650,6 +26649,7 @@ columbium
 choked
 counterintelligence
 counterexpostulation
+cointersecting
 capparidaceae
 counteradvance
 colossuswise

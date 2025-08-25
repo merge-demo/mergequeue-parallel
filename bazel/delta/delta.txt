@@ -6611,7 +6611,6 @@ desegmentation
 dynamiters
 damoiselle
 detache
-dirdum
 disordination
 deuteroglobulose
 dephlegmated
@@ -10250,6 +10249,7 @@ decillionth
 doblons
 diphthong
 defibrination
+dirdum
 decoys
 dynode
 dissolutionist
