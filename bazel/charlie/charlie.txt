@@ -7199,7 +7199,6 @@ centrifuging
 coffeehousing
 centring
 clivia
-cavaedia
 centriole
 chalazogam
 codebreak
@@ -9039,6 +9038,7 @@ corpore
 coulier
 chemakuan
 counterwarmth
+cavaedia
 chrysidid
 charlestons
 curlier
