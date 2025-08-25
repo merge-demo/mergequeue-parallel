@@ -473,6 +473,7 @@ bellonian
 bravoed
 backslide
 bloodshed
+bristlemouth
 blackish
 bronzers
 blaspheming
@@ -3858,7 +3859,6 @@ belvidere
 bedaggered
 bawdiest
 benzoate
-bristlemouth
 birthbed
 bullpouts
 babus
