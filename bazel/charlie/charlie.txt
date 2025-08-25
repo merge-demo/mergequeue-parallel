@@ -5924,7 +5924,6 @@ cathartolinum
 cathected
 cathection
 cathects
-cathedra
 cathedraled
 cathedralesque
 cavorter
@@ -18468,6 +18467,7 @@ centrale
 cograil
 conjecture
 crestmoreite
+cathedra
 chaogenous
 coguarantor
 chaotical
