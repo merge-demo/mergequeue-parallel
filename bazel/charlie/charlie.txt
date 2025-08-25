@@ -7132,6 +7132,7 @@ centrad
 central
 centraler
 cobblery
+cypripedium
 chevelure
 circumscriptively
 cestraciontidae
@@ -24597,7 +24598,6 @@ centigrade
 compellent
 carbonate
 chiggak
-cypripedium
 copingstone
 chaplainry
 copiopia
