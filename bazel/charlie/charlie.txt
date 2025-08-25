@@ -9128,6 +9128,7 @@ charsingha
 curvacious
 container
 casein
+controling
 charta
 chartable
 charter
@@ -23848,7 +23849,6 @@ cookmaid
 caimitillo
 contrives
 control
-controling
 controllable
 carriable
 controllably
