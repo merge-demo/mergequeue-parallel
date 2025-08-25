@@ -5133,7 +5133,6 @@ affectionally
 acreages
 affectionateness
 affections
-affectious
 affective
 advocacies
 affectivity
@@ -10135,6 +10134,7 @@ ambulatory
 ambulatoria
 alternating
 affluent
+affectious
 agraphias
 ambulatories
 ambulatorium
