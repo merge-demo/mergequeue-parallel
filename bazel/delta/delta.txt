@@ -2421,7 +2421,6 @@ downgoing
 daker
 decimole
 dangling
-denizenize
 disimprisonment
 dissipable
 dietetist
@@ -12776,6 +12775,7 @@ difference
 doffing
 dislocability
 dosimetry
+denizenize
 dustcloth
 dehydratase
 doggrels
