@@ -17182,7 +17182,6 @@ coadventure
 coadventured
 coadventuring
 coadvice
-coaffirmation
 coafforest
 coaged
 cablemen
@@ -24361,6 +24360,7 @@ cooling
 concaver
 coolingly
 coolingness
+coaffirmation
 chrysopoetics
 candour
 cosmoramic
