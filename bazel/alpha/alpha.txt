@@ -7851,7 +7851,6 @@ alerta
 anorak
 abstractionists
 alerters
-autotropically
 alerting
 alertly
 ales
@@ -13205,6 +13204,7 @@ asnort
 anisodactylic
 axilemma
 anisogametes
+autotropically
 algarde
 ateeter
 annueler
