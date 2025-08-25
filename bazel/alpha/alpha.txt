@@ -52,7 +52,6 @@ alkylene
 anocithesia
 adstringe
 acineta
-abacus
 annotation
 alcheringa
 anopisthographic
@@ -10357,6 +10356,7 @@ ailuromania
 amerveil
 acanthophis
 arendator
+abacus
 actualizes
 abarticular
 acetates
