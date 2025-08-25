@@ -8808,7 +8808,6 @@ chapournet
 chapournetted
 cottering
 chappal
-chappy
 chappie
 chappies
 cantle
@@ -9068,6 +9067,7 @@ chepster
 charmingness
 charmless
 charmlessly
+chappy
 charmonium
 charms
 cremated
