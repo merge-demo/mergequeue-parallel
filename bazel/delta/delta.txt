@@ -6404,7 +6404,6 @@ dixie
 derogating
 deceivableness
 derogative
-derogator
 derogatory
 dooja
 disbursals
@@ -14372,6 +14371,7 @@ dittographic
 ditrochean
 dynastical
 deanship
+derogator
 densimeter
 desoxyribose
 dishallucination
