@@ -8265,7 +8265,6 @@ diaglyptic
 deliver
 diagnostical
 disenthroned
-diagnosticate
 denitrating
 dinotherium
 dehortatory
@@ -16227,6 +16226,7 @@ doughnuts
 davyum
 deflorate
 dowdier
+diagnosticate
 demophon
 doblas
 dowdily
