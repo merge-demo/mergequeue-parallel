@@ -5471,7 +5471,6 @@ aerarian
 adrenalectomizing
 anoxybiotic
 afterlove
-aftermark
 aftermass
 amomum
 aphidians
@@ -8937,6 +8936,7 @@ allosteric
 allotee
 allotelluric
 anthropomorphising
+aftermark
 annihilated
 allothigenic
 allothimorph
