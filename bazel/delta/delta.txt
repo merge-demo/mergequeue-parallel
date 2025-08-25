@@ -7970,7 +7970,6 @@ demicylinder
 defunctive
 downsteepy
 diathermal
-dismayedness
 decimeters
 dextroaural
 diacanthous
@@ -12832,6 +12831,7 @@ defecator
 dislustered
 delectate
 drollish
+dismayedness
 desertions
 detents
 decafid
