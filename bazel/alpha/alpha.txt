@@ -5954,6 +5954,7 @@ agility
 auxotrophic
 antemortal
 agilities
+amenorrhoeic
 attorneyship
 avdp
 amidofluoride
@@ -14529,7 +14530,6 @@ anthropurgic
 anthroxanic
 arrogative
 affectus
-amenorrhoeic
 antidiphtheric
 acuchi
 anththeridia
