@@ -16824,6 +16824,7 @@ drawback
 drawbar
 duodecimals
 decussation
+daisybush
 demitube
 dyscrasial
 divinise
@@ -17649,7 +17650,6 @@ dinners
 dsname
 dsri
 dispossessory
-daisybush
 dromornis
 dtd
 dielectrical
