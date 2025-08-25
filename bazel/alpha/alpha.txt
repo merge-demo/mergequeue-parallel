@@ -8725,7 +8725,6 @@ allyic
 arbinose
 allying
 allylate
-abecedarius
 astatine
 allylation
 auriculars
@@ -18543,6 +18542,7 @@ atokous
 archaeolith
 anemologic
 admedian
+abecedarius
 archaeolithic
 archaeologer
 arching

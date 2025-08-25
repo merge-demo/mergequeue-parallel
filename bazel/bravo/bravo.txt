@@ -11793,7 +11793,6 @@ buckwheat
 bouquets
 bocasin
 bookshops
-boccarella
 bodings
 bocce
 bugbears
@@ -15946,6 +15945,7 @@ buoyage
 bandless
 biffy
 brideship
+boccarella
 bogieman
 boudin
 bronchogenic
