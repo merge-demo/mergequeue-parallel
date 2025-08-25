@@ -1957,7 +1957,6 @@ dreader
 depressant
 dobla
 deckload
-doze
 debunkers
 dispergated
 debunks
@@ -3709,6 +3708,7 @@ defiantly
 dozinesses
 dehydrate
 dehydrates
+doze
 dehydrator
 dehydrating
 diploidies
