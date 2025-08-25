@@ -4814,6 +4814,7 @@ archhost
 arenite
 areek
 aerodrome
+aluminide
 aerodromes
 arbitrating
 aeroelastic
@@ -9574,7 +9575,6 @@ alumines
 archicontinent
 absfarad
 aggeration
-aluminide
 aluminiferous
 assheadedness
 amarvel
