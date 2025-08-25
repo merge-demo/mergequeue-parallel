@@ -3062,6 +3062,7 @@ cumaldehyde
 coperiodic
 capriola
 canvasing
+capsular
 causata
 canzona
 canzones
@@ -3472,7 +3473,6 @@ capstan
 capstone
 capsula
 cons
-capsular
 conceitedness
 capsulation
 collegatary
