@@ -1518,6 +1518,7 @@ callipering
 callipers
 copopoda
 cocanucos
+chugged
 crystal
 celosia
 calcrete
@@ -12752,7 +12753,6 @@ canalage
 clawsick
 cutie
 construers
-chugged
 chuggers
 ceylonese
 chugging
