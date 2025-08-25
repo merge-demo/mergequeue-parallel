@@ -958,7 +958,6 @@ bagwork
 baker
 brumby
 bahadur
-birthmark
 beverage
 basiophthalmite
 bahay
@@ -13642,6 +13641,7 @@ beggaress
 buttressless
 barrancas
 buttermaking
+birthmark
 brochan
 bacbakiri
 bountyless
