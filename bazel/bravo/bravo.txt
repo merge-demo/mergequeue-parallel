@@ -1391,6 +1391,7 @@ bushings
 baldish
 ballparks
 baldmoney
+boltel
 bryogenin
 baldmoneys
 bellwaver
@@ -2030,7 +2031,6 @@ bankrupt
 bosporan
 burl
 bankruptcy
-boltel
 bravadoism
 bankrupting
 babylonia
