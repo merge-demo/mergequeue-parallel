@@ -1564,7 +1564,6 @@ blastiest
 ballets
 brevetcy
 blowtube
-ballgame
 ballgames
 berley
 ballhooter
@@ -11470,6 +11469,7 @@ begemming
 bedoctor
 blintze
 biddery
+ballgame
 borophenol
 bungey
 bluewoods
