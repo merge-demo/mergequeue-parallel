@@ -3748,7 +3748,6 @@ cantatrices
 convenership
 crocine
 cyclammonium
-carbarn
 captress
 ciconia
 carbasus
@@ -12128,6 +12127,7 @@ crambo
 chancellorate
 cursiveness
 chowses
+carbarn
 chowtime
 cephalocele
 chowtimes
