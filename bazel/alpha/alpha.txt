@@ -18484,6 +18484,7 @@ analytics
 arbute
 arbutean
 arca
+awakenment
 anthropomorphite
 abrogates
 alarmisms
@@ -24893,7 +24894,6 @@ awakeners
 agravic
 awakening
 awakeningly
-awakenment
 ameristic
 awaking
 automotor

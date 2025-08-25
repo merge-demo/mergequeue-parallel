@@ -3634,6 +3634,7 @@ disquantity
 deprint
 dermatoxerasia
 deglut
+deglazes
 dec
 disarrangement
 dithematic
@@ -9597,7 +9598,6 @@ desterilize
 dignifying
 drachm
 departisanize
-deglazes
 dignitary
 dignitarian
 discuss
