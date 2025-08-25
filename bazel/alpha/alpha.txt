@@ -12198,7 +12198,6 @@ anconal
 anticipate
 anconas
 ancone
-anconeus
 ancony
 acanthodii
 anconoid
@@ -22812,6 +22811,7 @@ aurally
 agy
 anteriorly
 appositional
+anconeus
 alochia
 atria
 asdic
