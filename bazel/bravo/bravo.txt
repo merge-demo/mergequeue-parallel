@@ -6433,7 +6433,6 @@ barfy
 benzonaphthol
 benzonitrile
 behedge
-benzophenothiazine
 benzophloroglucinol
 baculi
 benedight
@@ -6981,6 +6980,7 @@ besiegers
 bedeman
 bromism
 beaconed
+benzophenothiazine
 bradyacousia
 beslap
 beslave

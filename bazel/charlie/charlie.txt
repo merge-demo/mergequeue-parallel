@@ -22638,6 +22638,7 @@ connotate
 connotation
 ceratitoid
 connotations
+coleopteral
 connotatively
 connote
 crymotherapy
@@ -30605,7 +30606,6 @@ chorook
 choregraphic
 cuculiformes
 cephaloclasia
-coleopteral
 coprology
 cucullate
 contravened
