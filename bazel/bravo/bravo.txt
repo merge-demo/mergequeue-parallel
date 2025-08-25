@@ -13283,7 +13283,6 @@ blitzkriegs
 boswellian
 boswelliana
 boulders
-beng
 bowge
 brownprint
 boswellism
@@ -16219,6 +16218,7 @@ burlesqued
 bundh
 balun
 boosted
+beng
 bilithon
 brownness
 bandboxy
