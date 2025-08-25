@@ -20783,7 +20783,6 @@ campodea
 crossbolted
 compliment
 cricketings
-coenesthesis
 coalyard
 complimental
 complimentally
@@ -26520,6 +26519,7 @@ comparsa
 cube
 casaun
 cruelhearted
+coenesthesis
 couchings
 couchmaker
 couchmate
