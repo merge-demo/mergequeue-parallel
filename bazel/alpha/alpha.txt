@@ -5852,6 +5852,7 @@ agglutinoscope
 acclaiming
 agglutogenic
 aggrace
+auster
 aggrade
 aggrades
 accademia
@@ -22995,7 +22996,6 @@ anaxon
 attempt
 aleikum
 amblyaphia
-auster
 attemptable
 aeolotropism
 arthurian
