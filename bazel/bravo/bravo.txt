@@ -2697,7 +2697,6 @@ bourr
 boson
 britannian
 bestayed
-barnyard
 beastings
 butein
 bottomries
@@ -7300,6 +7299,7 @@ bufidin
 buck
 bursters
 borides
+barnyard
 betear
 betel
 buttwood
