@@ -17340,7 +17340,6 @@ assemblee
 antifideism
 astrean
 archpatron
-antipapacy
 aestivated
 acceptably
 alhambresque
@@ -24139,6 +24138,7 @@ autoinfection
 autolyzate
 auriscalpia
 ambuscade
+antipapacy
 autoloader
 alangin
 autology
