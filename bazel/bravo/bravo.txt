@@ -3480,6 +3480,7 @@ boyla
 batamote
 biosis
 bitterworm
+billa
 batarde
 bullaces
 baiters
@@ -5843,7 +5844,6 @@ beylics
 baldachini
 blinking
 braciola
-billa
 billowiness
 bellyaching
 bizarrely
