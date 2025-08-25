@@ -3812,7 +3812,6 @@ brutus
 bauhinias
 baul
 barrington
-boreas
 baulked
 bearbane
 bequeaths
@@ -7013,6 +7012,7 @@ barricades
 basilian
 besmouch
 bacteritic
+boreas
 besmudge
 beamless
 bronzite
