@@ -13730,6 +13730,7 @@ banqueted
 braccio
 billetwood
 balneatory
+balun
 boutefeu
 bouteria
 buns
@@ -16209,7 +16210,6 @@ brownist
 balneographer
 burlesqued
 bundh
-balun
 boosted
 beng
 bilithon
