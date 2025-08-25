@@ -9168,6 +9168,7 @@ cartoned
 coalface
 chartularies
 citrene
+chromotypic
 chartulas
 charwoman
 chucklesome
@@ -28413,7 +28414,6 @@ creancer
 creant
 creased
 countertenors
-chromotypic
 creaseless
 creasers
 creases
