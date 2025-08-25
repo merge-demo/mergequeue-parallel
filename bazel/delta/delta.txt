@@ -5369,6 +5369,7 @@ duftry
 dealable
 dorsoventrad
 dorsimesal
+diallists
 dispositions
 disblame
 decoyed
@@ -9582,7 +9583,6 @@ dendritiform
 disenchantment
 diglottist
 duumvir
-diallists
 disgruntled
 dischargers
 dignifiedly
