@@ -16232,6 +16232,7 @@ clinger
 crankness
 crossbeak
 clingfishes
+contoid
 contravenes
 clingy
 clinginess
@@ -23595,7 +23596,6 @@ continuum
 contise
 compendiate
 cognoscenti
-contoid
 contoise
 contorniates
 castrater
