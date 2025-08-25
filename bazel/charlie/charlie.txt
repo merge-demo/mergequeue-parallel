@@ -6625,6 +6625,7 @@ cedarwood
 ceded
 ceders
 copepods
+cretinize
 cottiers
 cedilla
 chatelet
@@ -16362,7 +16363,6 @@ clavodeltoideus
 conchologist
 cliquedom
 cliqueier
-cretinize
 cliqueyness
 cytome
 cliques
