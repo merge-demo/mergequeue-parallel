@@ -6516,6 +6516,7 @@ dipeptid
 dentellated
 disqualification
 directable
+drumroll
 delignated
 disomatous
 descendent
@@ -17591,7 +17592,6 @@ duteousness
 drumming
 drumreads
 demential
-drumroll
 drumrolls
 drums
 dysarthria
