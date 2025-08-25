@@ -5066,6 +5066,7 @@ audition
 aethionema
 aetiogenic
 arsenides
+avoke
 almagest
 aetiologies
 aetiologist
@@ -11626,7 +11627,6 @@ appearanced
 anaesthetically
 anthropomantic
 anaesthetization
-avoke
 ayme
 artal
 anaesthetize
