@@ -23921,7 +23921,6 @@ conurbation
 cricke
 conus
 cypris
-chirl
 conusance
 conusant
 conuzee
@@ -28758,6 +28757,7 @@ chok
 chuckfull
 cines
 crescentlike
+chirl
 crescentoid
 crescents
 crescentwise
