@@ -12068,7 +12068,6 @@ chorusing
 chanceries
 crisp
 crusca
-chockler
 casal
 chorusmaster
 chairwoman
@@ -25009,6 +25008,7 @@ cordicole
 cordillera
 cordilleran
 cordilleras
+chockler
 cordinar
 cordlessly
 convention
