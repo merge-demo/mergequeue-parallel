@@ -12737,7 +12737,6 @@ bhavan
 birdliming
 busters
 beheld
-biometrician
 bunyoro
 bookmakers
 bidarka
@@ -13486,6 +13485,7 @@ boerhavia
 bottomers
 bottoming
 biotelemetry
+biometrician
 brattiness
 betweenness
 balderdash
