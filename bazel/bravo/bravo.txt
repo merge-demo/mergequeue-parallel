@@ -11293,6 +11293,7 @@ blowing
 blowings
 basify
 brigandage
+bushidos
 belage
 bredstitch
 blowiron
@@ -17901,7 +17902,6 @@ bowerbird
 barton
 badly
 beltane
-bushidos
 bejuco
 bractless
 broadaxes
