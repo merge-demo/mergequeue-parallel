@@ -12157,7 +12157,6 @@ chrestomathics
 columbiferous
 chrestomathies
 celluliferous
-chimere
 chria
 clave
 chris
@@ -24049,6 +24048,7 @@ conversantly
 conversation
 conversationable
 competency
+chimere
 coactor
 crimpy
 conversational
