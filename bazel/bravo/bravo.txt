@@ -2485,7 +2485,6 @@ beechwoods
 burian
 bhut
 bedark
-brachyoura
 barge
 bargelike
 beet
@@ -10843,6 +10842,7 @@ bletilla
 bodysurf
 bronteum
 blets
+brachyoura
 bonhomme
 brancardier
 beheads
