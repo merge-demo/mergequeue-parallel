@@ -390,6 +390,7 @@ backgammon
 barwares
 breaststroke
 background
+beakless
 backhand
 backhandedness
 brinjarry
@@ -4014,7 +4015,6 @@ boltheads
 beakiron
 brailing
 barms
-beakless
 beaks
 bilophodont
 beala
