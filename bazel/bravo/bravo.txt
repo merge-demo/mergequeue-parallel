@@ -9432,6 +9432,7 @@ batteler
 bireme
 bedlids
 begeck
+boninesses
 bacteriostat
 babishly
 betassel
@@ -16324,7 +16325,6 @@ biloculate
 brumbie
 bedew
 bemoaner
-boninesses
 bangup
 bioelectrogenetically
 bioelectronics

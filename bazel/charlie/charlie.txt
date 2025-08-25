@@ -11339,7 +11339,6 @@ capman
 chloromycetin
 curbed
 chloronitrate
-cruche
 colonizer
 chloropalladates
 chloropalladic
@@ -25247,6 +25246,7 @@ cervelats
 ciliola
 crome
 corklike
+cruche
 craterkin
 consultant
 chiromant
