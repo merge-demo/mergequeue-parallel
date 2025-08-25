@@ -11958,7 +11958,6 @@ anaspides
 abducent
 alpenhorns
 autocratical
-abduced
 anastases
 admiral
 assentation
@@ -14885,6 +14884,7 @@ anticolic
 anticomment
 autogenetic
 adiathermic
+abduced
 appetizers
 abneural
 anticommercialism
