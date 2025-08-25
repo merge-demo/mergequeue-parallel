@@ -267,7 +267,6 @@ anthropomorphizing
 abdicative
 adze
 abditory
-apelet
 abdom
 alysson
 aerotropism
@@ -594,6 +593,7 @@ aphasic
 auditoria
 abodes
 adipolysis
+apelet
 aboideau
 acrophonically
 aboideaus
