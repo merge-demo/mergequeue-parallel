@@ -14053,7 +14053,6 @@ antemedial
 alining
 antemeridian
 anukit
-antemetallic
 anestrus
 antemingent
 antemundane
@@ -23901,6 +23900,7 @@ anglo
 autobusses
 autocall
 antilogarithms
+antemetallic
 aftertrial
 apostatised
 aerator
