@@ -2671,7 +2671,6 @@ bututs
 barmaster
 bergalith
 benzoic
-blackcock
 barmcloth
 brither
 birdcage
@@ -2866,6 +2865,7 @@ bannermen
 barrage
 barnmen
 banger
+blackcock
 brushland
 barraging
 battologist
