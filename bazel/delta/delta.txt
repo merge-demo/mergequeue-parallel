@@ -7182,6 +7182,7 @@ derailleurs
 dispersement
 drawboring
 deerkill
+depreciated
 desulphurize
 depauperate
 depullulation
@@ -15308,7 +15309,6 @@ doliidae
 dolioform
 dabblings
 dioritic
-depreciated
 defamers
 dolisie
 dolite
