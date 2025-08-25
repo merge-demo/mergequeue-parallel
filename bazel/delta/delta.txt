@@ -5359,6 +5359,7 @@ duftry
 dealable
 dorsoventrad
 dorsimesal
+dispositions
 disblame
 decoyed
 daraf
@@ -13310,7 +13311,6 @@ dispositional
 dispositioned
 disharmonical
 decentralisation
-dispositions
 drowner
 dispositively
 diuretics
