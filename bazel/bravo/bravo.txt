@@ -4185,7 +4185,6 @@ beatifically
 beatification
 baroto
 beatified
-blacktop
 beatifies
 batholite
 bouchees
@@ -14228,6 +14227,7 @@ boobyalla
 bayhead
 bisacromial
 brassware
+blacktop
 bradyseismical
 bradysphygmia
 badrans
