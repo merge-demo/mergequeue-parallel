@@ -5344,7 +5344,6 @@ beglide
 burkers
 bor
 beglooms
-begloze
 brokenly
 bultell
 baidar
@@ -13397,6 +13396,7 @@ blanche
 brushing
 bedeswoman
 bulgier
+begloze
 birles
 botryllus
 bucketer
