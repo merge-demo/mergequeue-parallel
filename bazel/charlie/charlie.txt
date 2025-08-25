@@ -19799,6 +19799,7 @@ combwise
 catapulting
 centurion
 ceraunics
+callidity
 come
 comebacker
 cephalochordate
@@ -29122,7 +29123,6 @@ cheque
 cotillons
 cryoconite
 cryogeny
-callidity
 cradleside
 cryogenics
 cloys
