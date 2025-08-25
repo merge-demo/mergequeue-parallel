@@ -10186,7 +10186,6 @@ dingeing
 dorsoventrally
 duraquara
 dinghee
-dinghies
 disple
 desition
 deeply
@@ -13231,6 +13230,7 @@ disleave
 dilly
 defeats
 display
+dinghies
 displayable
 dumaist
 depositive
