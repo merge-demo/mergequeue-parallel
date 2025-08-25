@@ -19036,7 +19036,6 @@ colleen
 college
 creedless
 collegia
-collegialism
 churchmanly
 clingiest
 collegiateness
@@ -27053,6 +27052,7 @@ cwt
 checksums
 continuums
 counterrevolutionist
+collegialism
 counterriposte
 counterroll
 counterround
