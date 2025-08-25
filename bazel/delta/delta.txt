@@ -7980,7 +7980,6 @@ dextrocularity
 desulphuration
 dedicature
 disincorporation
-drowse
 diagnosticated
 dorsibranch
 drawpoint
@@ -16683,6 +16682,7 @@ dipteraceous
 drails
 dereligion
 devests
+drowse
 driech
 derangements
 digamists
