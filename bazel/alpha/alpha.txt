@@ -13499,7 +13499,6 @@ appaloosa
 annualized
 annually
 apair
-annuals
 annueller
 acrostolion
 albuca
@@ -19310,6 +19309,7 @@ argenteous
 argentic
 azocyanide
 allicins
+annuals
 atacameno
 argentiferous
 amygdaliform
