@@ -5239,6 +5239,7 @@ androsin
 affixes
 affixial
 aspatia
+agunah
 android
 authorism
 armageddon
@@ -6388,7 +6389,6 @@ anaplasis
 aphroditic
 arnold
 acidaemia
-agunah
 aguroth
 apostrophic
 arthromeningitis
