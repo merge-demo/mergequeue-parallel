@@ -24000,7 +24000,6 @@ coelicolist
 cylinderlike
 conventicle
 conventicular
-convention
 conventional
 cutlassfish
 conventionalised
@@ -25015,6 +25014,7 @@ cordilleran
 cordilleras
 cordinar
 cordlessly
+convention
 cordlike
 configured
 cordobas
