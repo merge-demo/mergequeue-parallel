@@ -10334,7 +10334,6 @@ chickpeas
 cerer
 chapatti
 consultory
-critchfield
 canariote
 chavantean
 chickwit
@@ -14152,6 +14151,7 @@ carbaryl
 circuition
 circuitman
 chimerically
+critchfield
 constitutionality
 caldarium
 charruan
