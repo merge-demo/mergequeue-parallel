@@ -5154,7 +5154,6 @@ affectional
 affectionally
 acreages
 affectionateness
-affectioned
 affections
 affectious
 affective
@@ -14738,6 +14737,7 @@ autoindex
 allocution
 anticeremonious
 acceptancy
+affectioned
 archgomeral
 anticeremoniously
 anticeremoniousness

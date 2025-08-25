@@ -1782,7 +1782,6 @@ chatty
 conceptacular
 cann
 calzoneras
-calzones
 consigneeship
 cam
 ciceronize
@@ -4189,6 +4188,7 @@ cardo
 cardona
 cardoncillo
 cardoon
+calzones
 conure
 cardoons
 cardophagus
