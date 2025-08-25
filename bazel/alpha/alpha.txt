@@ -9490,7 +9490,6 @@ althaea
 althaein
 acierating
 ascomycete
-altheas
 altheine
 amylophosphate
 althing
@@ -24376,6 +24375,7 @@ aani
 autosoterism
 auteciously
 architrave
+altheas
 autospore
 argenter
 autosporic
