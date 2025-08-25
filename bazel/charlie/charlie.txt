@@ -19714,7 +19714,6 @@ comatiks
 comatosely
 countercharged
 comatoseness
-comatosity
 comatula
 combaron
 combasou
@@ -23252,6 +23251,7 @@ cadaverousness
 clasps
 consubstantialist
 conformism
+comatosity
 consubstantially
 charrs
 coplotted
