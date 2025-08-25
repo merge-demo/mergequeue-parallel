@@ -12165,7 +12165,6 @@ archcupbearer
 ancientest
 anciently
 ancile
-ancilla
 anticks
 asimen
 ancylopod
@@ -22897,6 +22896,7 @@ atrorubent
 aeoline
 angiocarditis
 apelike
+ancilla
 astringency
 arroba
 amphispore
