@@ -10869,7 +10869,6 @@ debunkment
 diletant
 diadematoida
 desmidiaceous
-digit
 dynameter
 dimerized
 displays
@@ -12805,6 +12804,7 @@ doily
 disloyal
 decursive
 dotardly
+digit
 drawfiling
 donative
 disloyalist
