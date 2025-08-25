@@ -4938,6 +4938,7 @@ arrhal
 alphonsism
 aerophane
 assumptions
+abdicated
 antipopularization
 affiliations
 awaft
@@ -18038,7 +18039,6 @@ aquamarines
 aquanaut
 angdistis
 aquanauts
-abdicated
 agerasia
 acapnia
 ableptically

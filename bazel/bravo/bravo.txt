@@ -2787,7 +2787,6 @@ blotchiest
 begun
 bhp
 barrowman
-balletomanes
 boardable
 buckayro
 baudrons
@@ -12880,6 +12879,7 @@ boophilus
 bys
 bedsheet
 basichromatin
+balletomanes
 banyoro
 bacciform
 boorishness
