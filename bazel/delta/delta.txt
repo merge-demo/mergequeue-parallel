@@ -10379,6 +10379,7 @@ dowsing
 dozened
 derelictly
 defervescing
+digress
 dioramic
 diordinal
 duplet
@@ -18176,7 +18177,6 @@ dive
 dishearten
 devote
 dissceptring
-digress
 downcrying
 dump
 disreputably
