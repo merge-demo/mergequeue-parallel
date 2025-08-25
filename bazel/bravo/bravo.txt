@@ -3305,6 +3305,7 @@ bursal
 basisphenoidal
 basitemporal
 blippers
+bacalaos
 beguilers
 balao
 besotment
@@ -13907,7 +13908,6 @@ bowlful
 bowly
 breastworks
 bowline
-bacalaos
 baptizee
 barehead
 biochemist
