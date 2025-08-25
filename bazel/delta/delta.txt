@@ -1300,7 +1300,6 @@ dramatic
 dumpings
 diastaltic
 decoloured
-daubreite
 dobsons
 dinitro
 densified
@@ -13528,6 +13527,7 @@ disrobes
 decrassify
 disrobing
 disroost
+daubreite
 demiurgism
 dissertated
 disrooting
