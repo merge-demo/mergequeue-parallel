@@ -3896,6 +3896,7 @@ acicularity
 antimonopoly
 anesthetic
 adjutator
+antipriest
 adjute
 adjutor
 abede
@@ -15849,7 +15850,6 @@ antiprelatic
 arbitrations
 aliquot
 archils
-antipriest
 astrophotometry
 anno
 antipriesthood
