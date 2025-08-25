@@ -5384,7 +5384,6 @@ assistant
 attuned
 antiputrid
 aerobiological
-afrormosia
 afshah
 aft
 afteract
@@ -16325,6 +16324,7 @@ ascosporous
 antiworld
 acromyotonia
 alyssums
+afrormosia
 autocrats
 anguidae
 adamancy
