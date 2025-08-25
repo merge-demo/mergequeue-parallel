@@ -1953,7 +1953,6 @@ camery
 camerier
 camerine
 camerinidae
-camerist
 circummigrate
 campanero
 comp
@@ -17281,6 +17280,7 @@ coalifies
 coalifying
 coalite
 cephalacanthidae
+camerist
 counterbalances
 confederated
 cytoplasm
