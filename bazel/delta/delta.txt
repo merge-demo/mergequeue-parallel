@@ -6517,7 +6517,6 @@ descendent
 dolichosoma
 diadromous
 dispositionally
-dissevering
 determinate
 dactylogram
 demounted
@@ -12303,6 +12302,7 @@ dishwater
 dataflow
 dispatriated
 discrepancy
+dissevering
 disgorged
 daviesia
 disendowed
