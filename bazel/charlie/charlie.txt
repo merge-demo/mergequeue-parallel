@@ -7068,6 +7068,7 @@ colonus
 centerfolds
 cretoria
 commonty
+corrigibleness
 centering
 centerline
 centermost
@@ -25717,7 +25718,6 @@ compossibility
 corrigible
 chainbearer
 curassows
-corrigibleness
 coenures
 citrines
 chatta
