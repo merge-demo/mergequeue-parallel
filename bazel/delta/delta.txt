@@ -6512,7 +6512,6 @@ dimensioned
 dipeptid
 dentellated
 disqualification
-disjuncts
 directable
 delignated
 disomatous
@@ -9572,6 +9571,7 @@ decimated
 draggly
 digitoplantar
 diprismatic
+disjuncts
 deevilick
 digladiating
 decken
