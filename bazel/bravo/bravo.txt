@@ -4662,7 +4662,6 @@ barytas
 baniwa
 basketwoman
 bradded
-balletomania
 bedgowns
 besmiling
 bediamonded
@@ -5153,6 +5152,7 @@ bullberry
 baubling
 bimorphemic
 banco
+balletomania
 bainite
 befools
 bridgeport
