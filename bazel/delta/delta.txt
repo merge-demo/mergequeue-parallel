@@ -1839,7 +1839,6 @@ daylilies
 debeige
 douzepers
 declinograph
-doughnut
 debellator
 darapti
 drugmaker
@@ -10858,6 +10857,7 @@ deificatory
 direfully
 dirempt
 direness
+doughnut
 dolly
 developement
 doctrinarianism
