@@ -1267,6 +1267,7 @@ dative
 dorking
 datively
 dreamlore
+desistive
 dimouts
 danthonia
 discal
@@ -2801,7 +2802,6 @@ defi
 deferred
 declarator
 decried
-desistive
 deerflys
 disulphonate
 decrying
