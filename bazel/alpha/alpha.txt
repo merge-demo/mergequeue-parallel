@@ -2919,7 +2919,6 @@ allheals
 appendages
 allophanic
 ashless
-antozonite
 antiheroism
 actinias
 actinic
@@ -20479,6 +20478,7 @@ arrased
 afterswarm
 affrontingness
 arthritically
+antozonite
 alphabetising
 abseiling
 allophytoid
