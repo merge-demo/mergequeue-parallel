@@ -3524,7 +3524,6 @@ azole
 ascesis
 assedat
 arabicize
-austerlitz
 agora
 adendritic
 akenbold
@@ -3911,6 +3910,7 @@ adjute
 adjutor
 abede
 aqueity
+austerlitz
 apologer
 adjutory
 adjutorious
