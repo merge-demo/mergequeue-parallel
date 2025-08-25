@@ -4448,6 +4448,7 @@ adverbiation
 adverbs
 adversatively
 ambushed
+appellation
 anthropophysiography
 acetopyrin
 adversing
@@ -17503,7 +17504,6 @@ appellable
 alburnums
 arsenotherapy
 apheta
-appellation
 appellations
 apophonia
 appellatived
