@@ -3928,6 +3928,7 @@ bocstaff
 brickbats
 birdbanding
 bdelloura
+bigothero
 bassette
 bdellouridae
 behelp
@@ -15405,7 +15406,6 @@ brilliantwise
 brilliolette
 brills
 baculites
-bigothero
 banns
 brongniardite
 blazon
