@@ -7337,7 +7337,6 @@ cephaloauricular
 cephalobranchiata
 chelicera
 cerusites
-carneys
 carks
 comnenian
 cupels
@@ -15715,6 +15714,7 @@ clavi
 chirres
 clavy
 clavicembalist
+carneys
 clavicembalo
 claviceps
 caiarara
