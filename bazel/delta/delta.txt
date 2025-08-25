@@ -6291,7 +6291,6 @@ deploredness
 diplokaryon
 dweeble
 doldrums
-diact
 dermatoneurosis
 dustuck
 disprize
@@ -14830,6 +14829,7 @@ duppy
 disabusal
 diaheliotropically
 docimasia
+diact
 desmacyte
 dentilated
 docimastical
