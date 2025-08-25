@@ -5808,7 +5808,6 @@ ageometrical
 advisor
 absence
 anophyte
-ager
 agers
 ages
 altisonant
@@ -21076,6 +21075,7 @@ avulse
 appetitional
 antinode
 axmaking
+ager
 ashamed
 autosomatognostic
 antinaturalness
