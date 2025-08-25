@@ -5354,7 +5354,6 @@ baidar
 breviers
 beglue
 blastomas
-beerage
 begnaw
 biharmonic
 balmy
@@ -10494,6 +10493,7 @@ bepastured
 blastogenic
 baizes
 bridgewards
+beerage
 backcourt
 bodywood
 burin

@@ -19536,7 +19536,6 @@ colpohyperplasia
 colpoperineoplasty
 colpoperineorrhaphy
 caledonian
-casimires
 cowpony
 convenientness
 colpoplasty
@@ -29140,6 +29139,7 @@ chemawinite
 chalazae
 cryophyllite
 cryophyte
+casimires
 criophore
 corresponded
 crannogs
