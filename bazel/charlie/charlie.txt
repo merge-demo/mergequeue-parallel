@@ -14084,7 +14084,6 @@ copyhold
 condimental
 caecal
 cyprinodontes
-cyprinodontoid
 camstrary
 colusite
 cyprinoidean
@@ -20249,6 +20248,7 @@ commoning
 cambist
 camias
 corrodingly
+cyprinodontoid
 commonsense
 carpels
 commonsensically
