@@ -3021,6 +3021,7 @@ beigel
 belee
 beckons
 brimmers
+butomus
 beachhead
 backswordsman
 bookbinderies
@@ -17745,7 +17746,6 @@ browsage
 bravadoes
 burped
 blucher
-butomus
 blackishly
 broodless
 biostatistic

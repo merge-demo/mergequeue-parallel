@@ -1006,6 +1006,7 @@ darked
 darkeys
 darkens
 disruptions
+disformity
 deformeter
 delusory
 drippier
@@ -2020,7 +2021,6 @@ desugars
 decaedron
 decaffeinate
 depicted
-disformity
 decaffeinize
 decury
 disregardable
