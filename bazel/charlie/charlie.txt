@@ -4560,7 +4560,6 @@ carnivoral
 carnivore
 carnivorism
 cordialness
-carnivorously
 comart
 carnivorousness
 cavalcading
@@ -16880,6 +16879,7 @@ cuprate
 christlikeness
 circumcision
 canaller
+carnivorously
 clubbiness
 careers
 cawny
