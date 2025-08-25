@@ -9538,6 +9538,7 @@ anisomeles
 alture
 altus
 algivorous
+androids
 aluco
 alpaca
 antiepiscopist
@@ -20276,7 +20277,6 @@ anticonceptionist
 arsenites
 anarchic
 afley
-androids
 arrogate
 agriotypidae
 antenarial
