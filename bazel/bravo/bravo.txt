@@ -4647,7 +4647,6 @@ benedicks
 brunhild
 breakfastless
 beltmaking
-bhikhari
 briquetted
 betula
 bedfellows
@@ -8656,6 +8655,7 @@ besiegingly
 bilobed
 bilocular
 biloculina
+bhikhari
 bidiurnal
 boshvark
 baxterian
