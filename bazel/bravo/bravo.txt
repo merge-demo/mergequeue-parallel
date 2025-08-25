@@ -5295,7 +5295,6 @@ bicrescentic
 beggarlike
 boshas
 bullom
-brimless
 bubbies
 batrachoididae
 botulinal
@@ -12445,6 +12444,7 @@ bonderman
 bankera
 boii
 bogum
+brimless
 bowyang
 brisbane
 bedriddenness
