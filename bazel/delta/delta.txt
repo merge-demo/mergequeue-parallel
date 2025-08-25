@@ -1471,7 +1471,6 @@ dispulp
 dazement
 decretorial
 deckhouses
-dazes
 dazy
 dazzle
 dawnstreak
@@ -1859,6 +1858,7 @@ dermatoglyphics
 diplobacillus
 devirginator
 debitum
+dazes
 desponsage
 declaratory
 douvecot

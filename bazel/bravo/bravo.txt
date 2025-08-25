@@ -9060,7 +9060,6 @@ bethumps
 bunching
 biopoiesis
 bonzery
-basking
 bolloxed
 bipectinated
 biunity
@@ -17398,6 +17397,7 @@ bluebird
 bedtimes
 bandbox
 busy
+basking
 boettner
 borzicactus
 brasset
