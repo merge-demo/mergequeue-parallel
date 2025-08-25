@@ -24923,6 +24923,7 @@ combfishes
 corantoes
 chumpivilca
 centesimi
+chart
 chan
 crowbill
 coldslaw
@@ -27955,7 +27956,6 @@ chelerythrine
 craglike
 crags
 carthusian
-chart
 cessions
 celtic
 cragwork
