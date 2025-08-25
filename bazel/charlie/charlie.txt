@@ -4012,7 +4012,6 @@ card
 cardaissin
 convolutely
 cardamine
-catarrhinian
 covido
 claiborne
 cicada
@@ -14356,6 +14355,7 @@ circumradius
 circumradiuses
 charitable
 claver
+catarrhinian
 chanties
 conferring
 cevadilla
