@@ -15567,6 +15567,7 @@ attacked
 allegorister
 arcus
 awfulness
+arrowheaded
 archangels
 antinome
 adders
@@ -22654,7 +22655,6 @@ asaphid
 atlantides
 atlantite
 arthrodic
-arrowheaded
 antipopulationist
 atlantoodontoid
 autokrator
