@@ -13768,7 +13768,6 @@ burgout
 bicycled
 bovate
 besmirching
-bovinely
 bezil
 beshrews
 bestrowed
@@ -17766,6 +17765,7 @@ buzzle
 burrgrailer
 basementless
 base
+bovinely
 braiders
 burrhead
 burrheaded
