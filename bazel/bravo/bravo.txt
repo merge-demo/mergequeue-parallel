@@ -8160,6 +8160,7 @@ blimpish
 busybodied
 beardie
 brontophobia
+bombed
 bash
 banishes
 buffalos
@@ -12323,7 +12324,6 @@ behoovefully
 bombasticness
 boastingly
 bombasts
-bombed
 bomber
 begroaning
 biodegrade
