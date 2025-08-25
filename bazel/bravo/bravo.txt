@@ -15101,7 +15101,6 @@ boar
 brewages
 bogier
 baw
-baldicoot
 bronchotyphoid
 benting
 brewhouse
@@ -17754,6 +17753,7 @@ breedings
 basyl
 binomialism
 burping
+baldicoot
 burps
 burrbark
 balaenoid
