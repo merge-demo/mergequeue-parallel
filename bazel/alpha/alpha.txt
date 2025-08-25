@@ -13617,6 +13617,7 @@ askings
 anoint
 antlerite
 anointed
+altruistic
 arthritism
 austere
 amination
@@ -24361,7 +24362,6 @@ almistry
 azlactone
 afterdinner
 antecommunion
-altruistic
 autosomal
 arbalo
 anthrax
