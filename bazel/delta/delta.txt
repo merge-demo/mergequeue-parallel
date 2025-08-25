@@ -1627,6 +1627,7 @@ dinginess
 drawer
 doweled
 diadrome
+demonise
 derision
 disenrol
 damagingly
@@ -4888,7 +4889,6 @@ deathcups
 diestrum
 dognapers
 durableness
-demonise
 dodlet
 divagate
 deaneries
