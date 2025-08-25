@@ -10866,6 +10866,7 @@ coefficient
 chippewas
 chippy
 cobishop
+curtilage
 cometic
 chloralose
 cowslip
@@ -31574,7 +31575,6 @@ chaperonless
 curteous
 curter
 curtesies
-curtilage
 curtlax
 curtsy
 curtsied
