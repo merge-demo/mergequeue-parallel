@@ -3060,6 +3060,7 @@ antimartyr
 alphonso
 agrionia
 antifeudal
+anatinacea
 ava
 actinost
 actinostereoscopy
@@ -19005,7 +19006,6 @@ allegoric
 arabine
 abderian
 antivenine
-anatinacea
 alit
 absorbant
 alkylamino
