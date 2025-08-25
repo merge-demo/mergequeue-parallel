@@ -8199,7 +8199,6 @@ disload
 drapeability
 druidism
 digitalism
-desertful
 disconvenient
 dedentition
 dicotylous
@@ -17035,6 +17034,7 @@ dreks
 demipesade
 dispensated
 devirilize
+desertful
 dundrearies
 drenches
 diascia
