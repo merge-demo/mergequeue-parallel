@@ -14919,7 +14919,6 @@ callous
 calcines
 cytopharynx
 coldturkey
-coprozoic
 cytophil
 cytophilic
 cytula
@@ -25968,6 +25967,7 @@ capsized
 creatorrhea
 cranioscopical
 contextual
+coprozoic
 clumbers
 chelidonian
 cryptomeria
