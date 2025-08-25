@@ -678,6 +678,7 @@ dudgeons
 donnard
 depermed
 dampne
+dyehouse
 dampness
 dextrosuria
 diacetylene
@@ -12064,7 +12065,6 @@ daymen
 diaspidinae
 deambulatory
 disenmesh
-dyehouse
 dibrom
 donut
 deacon
