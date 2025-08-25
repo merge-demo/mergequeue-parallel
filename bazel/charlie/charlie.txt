@@ -9402,6 +9402,7 @@ cowedly
 chaw
 chawbacon
 chawbuck
+comparators
 chawdron
 cornerwise
 comitative
@@ -31913,7 +31914,6 @@ chassis
 cuvettes
 cuzceno
 cwierc
-comparators
 carbolineate
 coleopttera
 cotyledonar
