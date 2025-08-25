@@ -1325,6 +1325,7 @@ capitulatory
 cabellerote
 calycled
 curveted
+crosne
 cistvaen
 cossyrite
 calicles
@@ -26866,7 +26867,6 @@ counterirritation
 cartonniers
 counterjudging
 counterjumper
-crosne
 colliquativeness
 copperleaf
 counterlath
