@@ -3198,7 +3198,6 @@ dissentient
 distrainor
 decidability
 discocephalous
-dir
 decorativeness
 defenestrating
 dayside
@@ -14133,6 +14132,7 @@ dsr
 districts
 damsel
 distringas
+dir
 diisatogen
 descendents
 decarhinus
