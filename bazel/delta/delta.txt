@@ -4514,7 +4514,6 @@ denda
 deacidified
 dendrological
 dysprosium
-decadentism
 demicanon
 disjointedly
 duomachy
@@ -17139,6 +17138,7 @@ disallowing
 duller
 danaid
 driftfish
+decadentism
 debouching
 divestiture
 drawknot
