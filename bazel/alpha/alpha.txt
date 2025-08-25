@@ -266,7 +266,6 @@ abdications
 anthropomorphizing
 abdicative
 adze
-abdiel
 abditory
 apelet
 abdom
@@ -21196,6 +21195,7 @@ abscess
 asilidae
 acronycta
 archeostome
+abdiel
 asparaguses
 asilus
 astr
