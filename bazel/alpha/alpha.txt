@@ -12141,7 +12141,6 @@ allothigene
 altruism
 almach
 anchorite
-astate
 archinfamy
 anchoritess
 alignment
@@ -23008,6 +23007,7 @@ amylin
 asymmetries
 attemptive
 aortism
+astate
 agglomerations
 attendance
 agnominal
