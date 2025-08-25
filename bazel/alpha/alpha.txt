@@ -667,6 +667,7 @@ anemographic
 aborad
 aboral
 aborally
+avenery
 anthomyiid
 abord
 aboriginality
@@ -20760,7 +20761,6 @@ arx
 arzan
 apportions
 amputator
-avenery
 agrological
 amplifiable
 actium
