@@ -11209,7 +11209,6 @@ alephzero
 auguries
 ains
 aphaniptera
-ameen
 amphipod
 amphipoda
 apostolicism
@@ -14940,6 +14939,7 @@ anticonventionalist
 anticor
 anticorn
 anticorona
+ameen
 anticorrosiveness
 alsatia
 agamospermy
