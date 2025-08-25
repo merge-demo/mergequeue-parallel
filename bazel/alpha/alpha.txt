@@ -1384,7 +1384,6 @@ autoclastic
 acceptee
 actinomycotic
 acceptilated
-aevia
 acceptilation
 acceptingly
 arabesquerie
@@ -5097,6 +5096,7 @@ af
 avernal
 afterpart
 afara
+aevia
 accend
 ambiency
 afd
