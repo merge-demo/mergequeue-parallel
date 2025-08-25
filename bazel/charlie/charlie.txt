@@ -8756,7 +8756,6 @@ chapelled
 cimnel
 capitaliser
 chapelling
-commonplaces
 chapelmaster
 colonises
 chapelry
@@ -24471,6 +24470,7 @@ clr
 courtliness
 clavis
 copaivic
+commonplaces
 copaliferous
 copalite
 copalm

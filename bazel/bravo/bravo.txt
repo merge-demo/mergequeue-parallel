@@ -9204,7 +9204,6 @@ berkeleyism
 bumbee
 bipaschal
 bypaths
-buffin
 biped
 bipedal
 bogo
@@ -15680,6 +15679,7 @@ broadspread
 broadsword
 bejig
 bromethyl
+buffin
 brob
 betorcin
 bolder
