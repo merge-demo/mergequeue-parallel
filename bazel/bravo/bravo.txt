@@ -5968,7 +5968,6 @@ belter
 buyouts
 ballistic
 bemadam
-bushier
 bestrowing
 beltie
 boogerman
@@ -8679,6 +8678,7 @@ bimanous
 bisinuate
 bradsot
 bournless
+bushier
 bimanually
 breechloading
 basaltes
