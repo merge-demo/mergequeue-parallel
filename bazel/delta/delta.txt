@@ -7355,7 +7355,6 @@ detorsion
 deashed
 disagreed
 determiner
-diameters
 didine
 duplification
 determinism
@@ -14443,6 +14442,7 @@ doubtable
 dermatherm
 dogmatists
 divellent
+diameters
 downstage
 dispireme
 divergement
