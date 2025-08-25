@@ -69,7 +69,6 @@ antichthones
 abaiser
 abaisse
 accessaryship
-alanine
 abalienate
 abalienated
 abalienating
@@ -24198,6 +24197,7 @@ automobiles
 amphipyrenin
 amylogen
 angelolater
+alanine
 automobilism
 atomicity
 automobilists
