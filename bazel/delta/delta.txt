@@ -135,6 +135,7 @@ dingier
 deadcenter
 drumsticks
 drawbench
+dasyuroid
 draughtmanship
 deviascope
 dekko
@@ -3407,7 +3408,6 @@ dumbwaiters
 deliberandum
 deuteroalbumose
 deerlet
-dasyuroid
 doddy
 dyscratic
 deflore
