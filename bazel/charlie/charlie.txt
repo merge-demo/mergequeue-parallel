@@ -5516,6 +5516,7 @@ catadioptrics
 catadrome
 catadupe
 catafalco
+clamshell
 catafalques
 civilisation
 catagenetic
@@ -24624,7 +24625,6 @@ copywriters
 causticizing
 chordotonal
 copywriting
-clamshell
 coplanarities
 cozinesses
 coplot
