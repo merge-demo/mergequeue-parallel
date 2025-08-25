@@ -4713,7 +4713,6 @@ abbreviator
 authoritatively
 avaunt
 anthologizing
-aftermath
 asterionella
 acarology
 anaretic
@@ -23013,6 +23012,7 @@ attendance
 agnominal
 alloquialism
 aaronitic
+aftermath
 aggressor
 annunciable
 airdropped
