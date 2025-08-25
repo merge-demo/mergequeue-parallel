@@ -3307,7 +3307,6 @@ celli
 capo
 chaufers
 coughweed
-capoc
 capocchia
 capoche
 crouche
@@ -29330,6 +29329,7 @@ catkins
 commemorable
 counterdemand
 countian
+capoc
 cryptopyic
 cambistry
 cryptopine
