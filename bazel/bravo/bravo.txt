@@ -9520,7 +9520,6 @@ branchiostegite
 biographee
 banality
 besots
-birthnight
 birthplaces
 bogota
 backfilled
@@ -10437,6 +10436,7 @@ blemished
 bastion
 boghole
 bimuscular
+birthnight
 boyards
 barytostrontianite
 blaoner
