@@ -8750,6 +8750,7 @@ alliterates
 await
 actious
 apodixis
+areometric
 alliterationist
 alintatao
 avens
@@ -19232,7 +19233,6 @@ antapocha
 areologies
 attainable
 areometry
-areometric
 awm
 areometrical
 arbutus
