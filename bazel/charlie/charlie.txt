@@ -28700,7 +28700,6 @@ curran
 cole
 creosotes
 creosotic
-cocircularity
 cholic
 clericity
 chiru
@@ -29452,6 +29451,7 @@ chaldaism
 chati
 crystallod
 crystallogeny
+cocircularity
 crystallogenical
 cymbiform
 contractibleness
