@@ -15449,6 +15449,7 @@ cervantes
 cheerio
 coppas
 clary
+cumquat
 claribel
 claribella
 cellifugal
@@ -25668,7 +25669,6 @@ countertripping
 correlates
 chimbe
 champa
-cumquat
 correlatives
 contiguate
 correlativity
