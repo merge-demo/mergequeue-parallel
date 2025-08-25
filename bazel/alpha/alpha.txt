@@ -2161,7 +2161,6 @@ achroglobin
 achroiocythaemia
 apod
 assessably
-alginic
 amphioxides
 anomalipod
 actinal
@@ -16904,6 +16903,7 @@ angliae
 amphorette
 aplanatic
 aplanatism
+alginic
 ately
 airways
 aplanogamete
