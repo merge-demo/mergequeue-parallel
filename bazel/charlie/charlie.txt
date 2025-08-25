@@ -3995,7 +3995,6 @@ corroborees
 cutcheries
 countertierce
 choosingly
-carcinomatoid
 carcinomatosis
 carpetweed
 cellophane
@@ -8674,6 +8673,7 @@ channelure
 cestus
 chronoscope
 chansonette
+carcinomatoid
 commissionaire
 chansonnette
 chansonniers
