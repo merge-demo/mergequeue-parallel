@@ -17155,7 +17155,6 @@ bullnoses
 bullnut
 bhara
 bullock
-brachialgia
 bullocker
 brachydodrome
 beduins
@@ -18355,6 +18354,7 @@ buttwoman
 butterscotch
 buxaceous
 buxbaumiaceae
+brachialgia
 burhel
 brushbush
 bounding
