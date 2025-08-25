@@ -1745,6 +1745,7 @@ biochemically
 bibliokelpt
 boarish
 balthasar
+bellowed
 baltheus
 belgas
 blends
@@ -11863,7 +11864,6 @@ bodykins
 bodilize
 bahuvrihi
 barbedness
-bellowed
 beento
 braggest
 boon
