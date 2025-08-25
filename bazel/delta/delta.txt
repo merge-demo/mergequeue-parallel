@@ -2589,7 +2589,6 @@ decoke
 deathtraps
 decoll
 deguelia
-dumbcow
 dispensaries
 decolletage
 displeaser
@@ -15558,6 +15557,7 @@ dispell
 desist
 deflagrated
 decolorise
+dumbcow
 dealers
 demodulates
 dependableness
