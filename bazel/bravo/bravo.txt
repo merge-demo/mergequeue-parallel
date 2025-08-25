@@ -13942,6 +13942,7 @@ bowstringed
 bactritoid
 bowstrung
 behavior
+bewitchful
 bowtell
 barographic
 backpointer
@@ -16570,7 +16571,6 @@ bacillary
 bubonocele
 bibliopolic
 beamster
-bewitchful
 bracings
 buccally
 buenos
