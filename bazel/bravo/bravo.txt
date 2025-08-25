@@ -3869,6 +3869,7 @@ babus
 bawdrics
 bawdries
 boreal
+buriable
 bawl
 bevelment
 bawled
@@ -14155,7 +14156,6 @@ barbra
 belemnitidae
 brachium
 brachyura
-buriable
 brachyuran
 bezant
 bracingly
