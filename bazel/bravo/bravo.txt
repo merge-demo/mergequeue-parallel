@@ -3690,7 +3690,6 @@ bally
 batteaux
 bedirty
 bonnering
-batteling
 battement
 balladising
 batteners
@@ -9319,6 +9318,7 @@ bilipyrrhin
 birational
 butterwright
 birched
+batteling
 boyard
 buttle
 besugo
