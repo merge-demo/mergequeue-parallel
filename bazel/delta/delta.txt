@@ -8179,7 +8179,6 @@ diachronically
 dicranum
 diacid
 detachment
-duellists
 damselhood
 duple
 deprecate
@@ -14716,6 +14715,7 @@ downtowns
 dizzily
 dramaturgic
 doter
+duellists
 diagnose
 djagoong
 disemboguement
