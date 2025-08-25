@@ -253,7 +253,6 @@ aba
 aggraded
 abdat
 anthranoyl
-apocryphon
 abashing
 admonition
 ataxonomic
@@ -24927,6 +24926,7 @@ allograph
 antitartaric
 acrophonic
 audits
+apocryphon
 arroyo
 antiguggler
 awd
