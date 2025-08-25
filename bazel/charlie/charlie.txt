@@ -16749,7 +16749,6 @@ consonantalized
 clotty
 clotting
 characterful
-cloture
 clotured
 clotures
 confixed
@@ -19327,6 +19326,7 @@ critically
 crassier
 colonies
 colonisability
+cloture
 colonisable
 clinid
 consumingness
