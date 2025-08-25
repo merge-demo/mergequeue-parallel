@@ -3118,7 +3118,6 @@ defaulted
 defaultless
 depauperization
 downfolded
-defaults
 defaulture
 dayworker
 defeasanced
@@ -7682,6 +7681,7 @@ dobzhansky
 drumbled
 divesture
 deunam
+defaults
 debell
 deviance
 dimples
