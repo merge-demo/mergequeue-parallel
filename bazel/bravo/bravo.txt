@@ -4903,7 +4903,6 @@ burrowstown
 beef
 battled
 beefalo
-beefaloes
 basketweaving
 balistarius
 bloodedness
@@ -16314,6 +16313,7 @@ brujos
 beglerbeglik
 burntweed
 broadways
+beefaloes
 biter
 bananalander
 brulee
