@@ -2980,6 +2980,7 @@ barroom
 barruly
 bedumb
 barsac
+bluewing
 backhatch
 blindish
 becowarding
@@ -17833,7 +17834,6 @@ barks
 biga
 burthen
 burthened
-bluewing
 burthens
 backwashing
 burthensome
