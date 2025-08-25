@@ -12963,6 +12963,7 @@ boozier
 booziest
 bookmate
 balawu
+breakable
 banausic
 bipennated
 bondar
@@ -14843,7 +14844,6 @@ breadwinning
 breaghe
 breakability
 bilith
-breakable
 battledores
 breakaxe
 burning
