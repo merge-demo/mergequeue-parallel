@@ -1024,7 +1024,6 @@ absinthial
 acetylcholinesterase
 assignations
 antiwit
-abstrusity
 adlai
 abstrusities
 aphlaston
@@ -5907,6 +5906,7 @@ abortus
 aliency
 amount
 anchylotic
+abstrusity
 acystia
 aggressivity
 aclys
