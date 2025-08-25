@@ -3969,6 +3969,7 @@ bestsellers
 barytes
 behavers
 beachheads
+bobwhites
 brand
 bnf
 bespy
@@ -11779,7 +11780,6 @@ bacopa
 bobtail
 bobtailed
 bothria
-bobwhites
 biopyribole
 besmoothed
 baronesses
