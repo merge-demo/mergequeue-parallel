@@ -10268,6 +10268,7 @@ belly
 boracic
 blacksmithing
 biochemy
+barf
 beastdom
 botargo
 biflorous
@@ -13062,7 +13063,6 @@ balling
 bordun
 bekinkinite
 boccaro
-barf
 boreable
 blizzard
 borecoles
