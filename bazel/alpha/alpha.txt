@@ -84,7 +84,6 @@ amaas
 androecial
 amphipods
 abandoned
-abandoner
 alispheno
 abandoners
 abandoning
@@ -6398,6 +6397,7 @@ ahartalav
 ahaunch
 ahead
 anteoperculum
+abandoner
 ahey
 attenuating
 acquaintances
