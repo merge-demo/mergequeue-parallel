@@ -11596,7 +11596,6 @@ bathers
 brooklime
 bombinate
 becomma
-badgeman
 buteo
 bode
 brushite
@@ -14619,6 +14618,7 @@ buffware
 brasenia
 backspin
 brash
+badgeman
 bucklering
 brasher
 brashiest
