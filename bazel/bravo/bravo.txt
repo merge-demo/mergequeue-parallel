@@ -6703,6 +6703,7 @@ broughtas
 busto
 babbles
 berytidae
+bidets
 boblet
 bortzes
 bergh
@@ -12512,7 +12513,6 @@ bacquet
 bilberries
 budgers
 bridesman
-bidets
 backbeat
 bandhor
 befavor
