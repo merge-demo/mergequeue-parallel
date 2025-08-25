@@ -15162,7 +15162,6 @@ doglegging
 doglegs
 doglike
 dekabrist
-dactyls
 dufrenite
 delicti
 dedicative
@@ -17903,6 +17902,7 @@ disinfest
 dispatchers
 durgan
 disacknowledgements
+dactyls
 dinks
 dayflowers
 docible
