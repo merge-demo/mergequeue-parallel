@@ -7346,7 +7346,6 @@ cozeys
 coprocessors
 cufflink
 cephalocercal
-cushlamochree
 cephalochord
 cowmen
 cephalochordal
@@ -12995,6 +12994,7 @@ continentality
 cyanides
 cyanidrosis
 clothes
+cushlamochree
 cyanids
 cyanimide
 cyanine

@@ -14651,7 +14651,6 @@ appealer
 ascon
 antibibliolatry
 antibigotry
-axiologies
 antibilious
 antibiont
 antibiosis
@@ -15639,6 +15638,7 @@ antiparallel
 androidal
 amphitokous
 antiparallelogram
+axiologies
 arylamine
 ablet
 antimetathesis
