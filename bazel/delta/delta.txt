@@ -8133,7 +8133,6 @@ drivable
 dinosaurs
 diabetometer
 defiled
-demetallize
 demineralize
 denominative
 dwarfling
@@ -10217,6 +10216,7 @@ dings
 despises
 dzeron
 depopularize
+demetallize
 dismortgage
 diecase
 dimethoxy
