@@ -6057,7 +6057,6 @@ ann
 aglypha
 analogal
 articular
-aglyphodont
 algodonite
 aback
 awaken
@@ -7192,6 +7191,7 @@ algovite
 alarmist
 anginas
 anthesterol
+aglyphodont
 alarodian
 animas
 alarum
