@@ -1717,7 +1717,6 @@ deformedness
 deluged
 depressiveness
 dornecks
-desulphur
 devastate
 deasil
 dearness
@@ -2749,6 +2748,7 @@ decrassified
 daun
 draughtiness
 dian
+desulphur
 dryopithecus
 dreche
 deiform
