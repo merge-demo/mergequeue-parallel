@@ -10096,6 +10096,7 @@ bewhiskered
 blabbering
 blabbermouth
 blabbermouths
+breatheableness
 blabbers
 blabbing
 blabmouth
@@ -14936,7 +14937,6 @@ browbeat
 bromol
 brassicas
 breathe
-breatheableness
 bravuraish
 blennophlogisma
 breathes
