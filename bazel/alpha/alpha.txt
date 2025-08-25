@@ -5684,7 +5684,6 @@ atoning
 autocoder
 aphodian
 agaricaceae
-adepts
 agaricaceous
 armadillo
 agaricine
@@ -24489,6 +24488,7 @@ auxinic
 angekkok
 auxinically
 amober
+adepts
 auxoamylase
 actinomycetaceae
 autofecundation

@@ -19051,6 +19051,7 @@ combattant
 collembola
 collembole
 cokernut
+chartist
 collembolous
 checkweighman
 collenchyme
