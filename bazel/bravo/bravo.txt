@@ -1309,7 +1309,6 @@ bury
 bedbug
 bedust
 boleite
-bacterioprecipitin
 bishophood
 benzoylated
 bate
@@ -15453,6 +15452,7 @@ bans
 bondless
 bolshevistically
 besnuff
+bacterioprecipitin
 brindlish
 bryndza
 bleaters
