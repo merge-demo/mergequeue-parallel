@@ -13233,7 +13233,6 @@ defeats
 display
 displayable
 dumaist
-depositive
 dongolas
 diazole
 dovetailed
@@ -14724,6 +14723,7 @@ dramaturgic
 doter
 duellists
 diagnose
+depositive
 djagoong
 disemboguement
 denizate
