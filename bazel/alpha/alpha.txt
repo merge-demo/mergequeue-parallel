@@ -784,7 +784,6 @@ argles
 abridgers
 abridging
 abridgments
-abris
 abristle
 abroach
 abrocome
@@ -16252,6 +16251,7 @@ ad
 acetanilide
 ariki
 antitragal
+abris
 antitetanic
 accusive
 antitragicus
