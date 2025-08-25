@@ -7542,7 +7542,6 @@ bernicle
 bevoiled
 becco
 besmoothing
-billfishes
 bevomiting
 bevomits
 bread
@@ -15187,6 +15186,7 @@ brickyard
 bricking
 brickish
 brickkiln
+billfishes
 brewises
 branchiostegal
 beglerbeg
