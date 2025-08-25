@@ -4263,7 +4263,6 @@ bogotana
 barretter
 bebang
 bebathe
-bebeerus
 bebless
 beblood
 bryonin
@@ -8257,6 +8256,7 @@ benzophosphinic
 brakehead
 bedsteads
 bovarysm
+bebeerus
 bigamies
 bigamist
 bigamize
