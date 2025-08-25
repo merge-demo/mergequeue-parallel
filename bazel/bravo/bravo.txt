@@ -4078,7 +4078,6 @@ beaning
 bromoacetone
 branchier
 beano
-bagge
 beans
 beansetter
 beanshooter
@@ -6527,6 +6526,7 @@ bureaucratical
 bepray
 bepraiser
 bituminizing
+bagge
 bombyx
 brainge
 bepretty
