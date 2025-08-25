@@ -2744,6 +2744,7 @@ daddies
 disheritor
 drawhorse
 decousu
+douane
 deceptious
 dihydrate
 decrassified
@@ -16037,7 +16038,6 @@ doctrinizing
 disaffiliating
 dehumanize
 dimanganous
-douane
 doub
 downsize
 disyllable
