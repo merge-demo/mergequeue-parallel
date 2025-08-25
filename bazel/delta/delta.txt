@@ -8764,7 +8764,6 @@ defocusses
 deescalations
 diatomist
 dot
-debadge
 diaporesis
 demimonk
 decime
@@ -16617,6 +16616,7 @@ dissimilarities
 diatonically
 drongos
 disharmonic
+debadge
 decompile
 disclaims
 daman
