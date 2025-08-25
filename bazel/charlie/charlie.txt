@@ -1411,7 +1411,6 @@ calypso
 corseque
 copals
 calypsoes
-calypsonian
 cowheel
 calypsos
 charbon
@@ -12300,6 +12299,7 @@ cryptography
 classically
 christy
 cardholders
+calypsonian
 christian
 christiana
 christianiadeal
