@@ -2511,6 +2511,7 @@ dotted
 divulgater
 disregarder
 declare
+disassembly
 drailing
 declaredly
 declares
@@ -12424,7 +12425,6 @@ dishcloths
 dupable
 dishclout
 disheart
-disassembly
 disheartenedly
 doubles
 decalin
