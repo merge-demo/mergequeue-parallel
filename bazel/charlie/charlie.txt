@@ -29165,7 +29165,6 @@ cryostat
 cryosurgeon
 cryosurgery
 cryptogamia
-cryosurgical
 crenelating
 coaming
 cyclospermous
@@ -31131,6 +31130,7 @@ ctenostome
 cupboard
 canaling
 cupboards
+cryosurgical
 cupcakes
 cupeling
 clinometria
