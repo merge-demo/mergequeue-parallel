@@ -15927,6 +15927,7 @@ clemency
 carpogonia
 clemencies
 clement
+conjunct
 clementina
 clemently
 clementness
@@ -29680,7 +29681,6 @@ cryptoanalytics
 cultirostral
 crystalitic
 crasis
-conjunct
 codesigned
 confess
 countesses
