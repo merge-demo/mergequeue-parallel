@@ -8600,6 +8600,7 @@ dicotyledons
 dewan
 dissatisfied
 driller
+diascope
 dispunitive
 donatio
 diapophysis
@@ -8657,7 +8658,6 @@ dato
 diaschisma
 doomlike
 delfs
-diascope
 domed
 distracted
 didactyl
