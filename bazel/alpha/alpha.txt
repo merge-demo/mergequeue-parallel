@@ -3008,6 +3008,7 @@ analcime
 actinomycosistic
 alacrify
 aphrodisiac
+agglomerator
 albizia
 actinomyxidia
 ambreate
@@ -9755,7 +9756,6 @@ amanitine
 aerifying
 attenuant
 amanitins
-agglomerator
 antireforming
 aspergillums
 arteriectomy
