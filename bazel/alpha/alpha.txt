@@ -9327,7 +9327,6 @@ alphin
 advectitious
 aquifoliaceae
 agpaite
-alphitomorphous
 ateliosis
 alphol
 amphopeptone
@@ -10241,6 +10240,7 @@ amelu
 anthozooid
 aquila
 alumine
+alphitomorphous
 amen
 agathosma
 ammonocarbonic
