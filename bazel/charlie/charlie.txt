@@ -15424,6 +15424,7 @@ chicane
 cautio
 claptraps
 clapwort
+coscet
 culbuter
 claque
 candescently
@@ -25961,7 +25962,6 @@ corvus
 cos
 cosaque
 coppled
-coscet
 coscinomancy
 chn
 cose

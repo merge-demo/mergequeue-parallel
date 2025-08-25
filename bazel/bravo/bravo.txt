@@ -8454,6 +8454,7 @@ bilection
 bileve
 bavardage
 bootjack
+byssiferous
 bouteloua
 bilgeway
 bilharzial
@@ -12255,7 +12256,6 @@ biabo
 birdbrained
 brake
 briefless
-byssiferous
 bolt
 boltage
 biasses
