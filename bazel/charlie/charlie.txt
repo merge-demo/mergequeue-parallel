@@ -5810,7 +5810,6 @@ communicants
 cestoidean
 crawling
 chateau
-cateye
 catel
 catelectrode
 capstones
@@ -12361,6 +12360,7 @@ cenote
 claimless
 chromate
 conjunction
+cateye
 chromates
 chrysomonadine
 chromatically
