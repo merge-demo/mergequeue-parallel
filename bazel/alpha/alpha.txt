@@ -4374,7 +4374,6 @@ adunc
 aduncate
 amyraldist
 anacard
-aduncity
 aduncous
 aerobus
 adure
@@ -20473,6 +20472,7 @@ amie
 arthrectomy
 avarice
 alae
+aduncity
 assmannshauser
 acousmata
 arthredema
