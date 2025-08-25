@@ -654,7 +654,6 @@ doomfully
 deflowers
 demiatheist
 dynatrons
-damnous
 dusenwind
 damoiseau
 deciduas
@@ -13677,6 +13676,7 @@ dissheathed
 daddums
 dosimetrist
 deliverance
+damnous
 disship
 disshiver
 deletory
