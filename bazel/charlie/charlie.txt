@@ -14555,6 +14555,7 @@ chateaubriand
 clefs
 chang
 cissus
+caballeros
 cist
 cinuran
 cankerwort
@@ -22734,7 +22735,6 @@ consanguine
 coinsured
 chevise
 consanguinean
-caballeros
 consanguineous
 consanguineously
 caulocarpous
