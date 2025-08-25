@@ -1107,7 +1107,6 @@ cabecera
 calciphilia
 centumvirate
 calciphilous
-calciphyre
 calciphobous
 calciprivic
 calypterae
@@ -22099,6 +22098,7 @@ conformationally
 cres
 couvert
 conformations
+calciphyre
 conformator
 conformed
 conformer
