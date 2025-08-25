@@ -3227,7 +3227,6 @@ blottesquely
 babbling
 battened
 bicorporeal
-basilic
 bantingize
 bedouin
 basilica
@@ -6996,6 +6995,7 @@ bepaid
 beslobber
 besluit
 bespread
+basilic
 besmile
 besmiled
 besmirch
