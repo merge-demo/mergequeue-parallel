@@ -526,7 +526,6 @@ dup
 denuclearizes
 dextromanual
 discustom
-dromotropic
 douse
 dallis
 dalmania
@@ -2539,6 +2538,7 @@ declensions
 decretist
 declimatize
 driblets
+dromotropic
 declinational
 dipneumones
 dimmed
