@@ -6938,6 +6938,7 @@ creamed
 cemetery
 copesettic
 cemeterial
+celestial
 concours
 ceratinous
 culm
@@ -31675,7 +31676,6 @@ cushioned
 cushionet
 cushionflower
 cushioning
-celestial
 cushionless
 ciruses
 cushionlike
