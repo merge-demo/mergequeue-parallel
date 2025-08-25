@@ -12378,7 +12378,6 @@ chromatype
 chromatist
 coracohyoid
 cholent
-carthamus
 crack
 chloroanaemia
 caudiform
@@ -19608,6 +19607,7 @@ cusp
 crocky
 copesetic
 columbotantalate
+carthamus
 crepiness
 confession
 childhoods
