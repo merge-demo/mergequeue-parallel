@@ -13945,7 +13945,6 @@ cinofoil
 cynogenealogy
 canonistic
 caviars
-cubbyholes
 cynoglossum
 cynognathus
 cynography
@@ -30874,6 +30873,7 @@ cultish
 cerasin
 carboyed
 cultism
+cubbyholes
 crassulaceous
 coralflower
 cultismo
