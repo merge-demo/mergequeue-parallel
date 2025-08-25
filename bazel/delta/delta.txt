@@ -12476,7 +12476,6 @@ distendedness
 dishonorer
 doctrinairism
 deresinize
-dishonoring
 dirhams
 detestability
 discontentful
@@ -13973,6 +13972,7 @@ dynamogeneses
 diacope
 deodand
 disdainous
+dishonoring
 dachs
 distillmint
 distinction
