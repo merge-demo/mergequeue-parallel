@@ -13796,7 +13796,6 @@ antilapsarian
 agapemonian
 athletics
 anotta
-anotus
 anounou
 affix
 anour
@@ -20301,6 +20300,7 @@ aerobia
 asahel
 antesignani
 arsenophenol
+anotus
 arsenopyrite
 aquaemanalia
 arsenostyracol
