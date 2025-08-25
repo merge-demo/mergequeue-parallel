@@ -5437,7 +5437,6 @@ bigarreau
 behaved
 behaver
 behaving
-brainteasers
 brakes
 bathylimnetic
 bars
@@ -12688,6 +12687,7 @@ bulbine
 bieennia
 brittler
 boogum
+brainteasers
 bourd
 bolshevism
 blunderheaded
