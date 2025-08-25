@@ -1359,6 +1359,7 @@ discerners
 daunton
 doup
 decipium
+dactyliographer
 duelli
 definer
 dauphine
@@ -17095,7 +17096,6 @@ drused
 divinely
 damners
 dentistic
-dactyliographer
 denouncing
 dribbles
 decarbonization

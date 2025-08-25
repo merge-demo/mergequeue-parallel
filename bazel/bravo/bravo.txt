@@ -7649,7 +7649,6 @@ bilabiate
 bezan
 biplace
 bezanty
-bestamp
 brassiness
 bargain
 bezants
@@ -10080,6 +10079,7 @@ bk
 brazilein
 bkg
 backsey
+bestamp
 bks
 bkt
 beflum
