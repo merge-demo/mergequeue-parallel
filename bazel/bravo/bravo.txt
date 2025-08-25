@@ -5382,7 +5382,6 @@ barbarisation
 burly
 birne
 begrett
-begrim
 blithesome
 bethumped
 begrimed
@@ -17730,6 +17729,7 @@ bawbees
 bumfs
 burnside
 bilharzia
+begrim
 baculiticone
 burnt
 backfill
