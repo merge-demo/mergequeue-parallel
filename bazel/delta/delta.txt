@@ -8695,6 +8695,7 @@ dialectology
 diazepam
 diastasimetry
 dipnoan
+dag
 devilfishes
 deraigned
 demobbed
@@ -18099,7 +18100,6 @@ dungol
 dulocracy
 dictograph
 donsy
-dag
 dilling
 disentangles
 dulseman
