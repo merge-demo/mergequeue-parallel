@@ -4947,7 +4947,6 @@ covinously
 crimmers
 cartons
 cartoonist
-chrysomonadina
 cassettes
 cartouche
 castigable
@@ -15013,6 +15012,7 @@ citromyces
 citron
 cenobium
 carbonium
+chrysomonadina
 citronalis
 comparison
 citronellol
