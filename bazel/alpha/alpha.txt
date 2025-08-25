@@ -659,7 +659,6 @@ abomine
 attainer
 antiempiricism
 adjacent
-abondance
 aimara
 apostrophation
 abonnement
@@ -7574,6 +7573,7 @@ absorbencies
 anisil
 alcyonium
 alcippe
+abondance
 airplaned
 axolemma
 antefurca
