@@ -10971,6 +10971,7 @@ blintzes
 blacksmiths
 bafta
 billowy
+brachygrapher
 besoothes
 blips
 boehmenite
@@ -18398,7 +18399,6 @@ boobery
 buzzing
 bibcocks
 brachials
-brachygrapher
 bothlike
 bubber
 bespring
