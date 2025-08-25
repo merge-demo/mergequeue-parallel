@@ -4299,6 +4299,7 @@ adenoids
 adstipulator
 adterminal
 aduana
+anopla
 arrestor
 adularescence
 assertorial
@@ -13719,7 +13720,6 @@ acted
 arteriodialysis
 anopisthographically
 attenuates
-anopla
 anoplonemertean
 apotheosise
 atazir
