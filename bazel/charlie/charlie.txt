@@ -19009,7 +19009,6 @@ ctenoidean
 constables
 collectibility
 collection
-cinnamon
 collectivise
 collectivism
 collectivist
@@ -26970,6 +26969,7 @@ counterpicture
 combretum
 cuprum
 counterplay
+cinnamon
 counterplayer
 copleased
 counterplan
