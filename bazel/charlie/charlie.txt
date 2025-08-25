@@ -22146,7 +22146,6 @@ cigala
 confrere
 circumcorneal
 crocheters
-colpeurynter
 confrerie
 cass
 confricamentum
@@ -25563,6 +25562,7 @@ corporality
 cristivomer
 colugos
 corporalities
+colpeurynter
 corporals
 cytostatically
 citronellic
