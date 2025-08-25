@@ -9931,7 +9931,6 @@ deformational
 dimes
 dimetallic
 dimeter
-dermatauxe
 discophorous
 dimethylbenzene
 disneyland
@@ -16790,6 +16789,7 @@ drownded
 drats
 dratting
 draught
+dermatauxe
 distal
 draughtboard
 daub
