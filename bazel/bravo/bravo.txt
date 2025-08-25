@@ -1930,7 +1930,6 @@ broadly
 bagnio
 buttstrapping
 balances
-bandstring
 brandishes
 bosquets
 bitripartite
@@ -10829,6 +10828,7 @@ blessedness
 blesser
 befriz
 bromate
+bandstring
 boxtree
 bristliest
 blessingly

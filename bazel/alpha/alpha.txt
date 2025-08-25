@@ -472,6 +472,7 @@ akvavit
 aquocellolitis
 abysmal
 agriotes
+abdominous
 abyss
 abysses
 abyssolith
@@ -17078,7 +17079,6 @@ avocets
 anisochromia
 aculeata
 apogeotropism
-abdominous
 autolaryngoscopy
 afterfuture
 apogonid
