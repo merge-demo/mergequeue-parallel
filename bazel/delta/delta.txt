@@ -10614,6 +10614,7 @@ defs
 diploid
 diploidic
 dunderbolt
+dowf
 dominus
 diploidize
 dialectological
@@ -16250,7 +16251,6 @@ diethanolamine
 dowering
 dichogamous
 disinherit
-dowf
 dextroamphetamine
 dowsets
 densitometer
