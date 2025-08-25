@@ -286,6 +286,7 @@ aeroacoustic
 aguamas
 abdominals
 acrospire
+attrition
 abdominocystic
 ailuro
 appunctuation
@@ -23186,7 +23187,6 @@ avania
 attriteness
 atrioporal
 adherescence
-attrition
 apoapsides
 alloisomer
 antitobacconal
