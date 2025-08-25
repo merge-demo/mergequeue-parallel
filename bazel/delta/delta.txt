@@ -767,7 +767,6 @@ decoyer
 dandizette
 dayflies
 decasyllabic
-duvetyne
 destains
 disastrously
 dandled
@@ -3027,6 +3026,7 @@ dowress
 decarbonized
 desegregation
 deers
+duvetyne
 deerstalkers
 detailist
 deep
