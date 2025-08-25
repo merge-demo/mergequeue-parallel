@@ -3892,6 +3892,7 @@ anesthetic
 adjutator
 adjute
 adjutor
+antidotically
 abede
 aqueity
 austerlitz
@@ -12396,7 +12397,6 @@ anelectrotonus
 ahmadiya
 adipocere
 anchorhold
-antidotically
 akeki
 anilic
 anelytrous
