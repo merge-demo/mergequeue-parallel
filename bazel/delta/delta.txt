@@ -5167,6 +5167,7 @@ deadwoods
 dadoed
 denebola
 dulbert
+dustpans
 disburdened
 denervation
 denes
@@ -10306,7 +10307,6 @@ dioecian
 dioeciopolygamous
 disclout
 duodenal
-dustpans
 demonograph
 dioicousness
 dipleura
