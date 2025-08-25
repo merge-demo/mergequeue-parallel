@@ -3030,6 +3030,7 @@ desegregation
 deers
 deerstalkers
 detailist
+deep
 deerstalking
 deerweed
 deerweeds
@@ -5959,7 +5960,6 @@ durant
 dissipations
 dolerin
 dispossessing
-deep
 draggily
 disincrust
 depressomotor
