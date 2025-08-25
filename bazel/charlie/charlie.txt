@@ -4733,6 +4733,7 @@ choanoflagellata
 cowlings
 carpoidea
 chalcidid
+collarbone
 carpolith
 clitellus
 carpology
@@ -18932,7 +18933,6 @@ collapses
 contam
 collapsing
 collarbird
-collarbone
 collard
 carillonned
 criticise
