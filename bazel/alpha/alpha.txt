@@ -7766,7 +7766,6 @@ aleak
 aleatory
 aleatoric
 arustle
-academics
 aquae
 analphabetical
 ancistrocladaceae
@@ -24980,6 +24979,7 @@ atlatls
 awhir
 awhirl
 antedon
+academics
 awikiwiki
 asymmetral
 argid
