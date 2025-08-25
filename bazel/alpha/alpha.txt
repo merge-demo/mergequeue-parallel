@@ -5312,6 +5312,7 @@ affronted
 affrontedness
 affronter
 anidiomatic
+autostethoscope
 affrontive
 adenose
 affronts
@@ -24424,7 +24425,6 @@ autotoxic
 autotractor
 autotransformer
 autotransplantation
-autostethoscope
 aurotellurite
 aetheric
 axlesmith
