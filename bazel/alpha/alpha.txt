@@ -12833,6 +12833,7 @@ antiliturgically
 assot
 anglomane
 anglomania
+antifreezing
 anglophil
 anglophile
 awkward
@@ -15194,7 +15195,6 @@ adapa
 amalgamates
 anthropomorphization
 antifreeze
-antifreezing
 antifriction
 antistate
 aliptes
