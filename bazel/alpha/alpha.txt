@@ -8570,6 +8570,7 @@ alleghenian
 aspiringness
 anta
 allegiance
+anorthopia
 ancylostoma
 allegiancy
 allegiant
@@ -13773,7 +13774,6 @@ anorthographic
 anorthographical
 ala
 anorthophyre
-anorthopia
 adrenocorticotrophin
 anorthose
 afresh

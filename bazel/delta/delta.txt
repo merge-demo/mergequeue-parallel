@@ -12891,7 +12891,6 @@ dominative
 diameter
 dhanvantari
 dysmenorrheic
-dysmeristic
 doryman
 developments
 diabetics
@@ -13815,6 +13814,7 @@ degression
 damndests
 dangering
 downlooker
+dysmeristic
 disbarments
 dissolver
 dissolvingly
