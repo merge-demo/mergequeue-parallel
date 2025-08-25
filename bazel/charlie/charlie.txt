@@ -6254,7 +6254,6 @@ callosomarginal
 caulks
 chymists
 conferrer
-capuchins
 catalases
 colourize
 crescence
@@ -19421,6 +19420,7 @@ colorbreed
 colorcasting
 calvus
 colorcasts
+capuchins
 colorectitis
 colorectostomy
 correspondingly
