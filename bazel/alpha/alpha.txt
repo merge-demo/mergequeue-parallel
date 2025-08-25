@@ -762,7 +762,6 @@ abrazite
 abrazo
 aviarists
 allurements
-aepyornis
 ascites
 abreast
 archenteric
@@ -23387,6 +23386,7 @@ autocomplexes
 augh
 aughtlins
 aughts
+aepyornis
 augite
 augitophyre
 augment
