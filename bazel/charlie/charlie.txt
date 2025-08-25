@@ -14855,6 +14855,7 @@ concitizen
 cytoid
 citoyenne
 confiscated
+caprifigs
 conscious
 coadmiring
 cephalorhachidian
@@ -28214,7 +28215,6 @@ cursors
 crasher
 crashes
 cupeled
-caprifigs
 crashing
 crashingly
 crashproof
