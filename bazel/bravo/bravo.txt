@@ -9685,6 +9685,7 @@ bismuthate
 burhinus
 birchbark
 bedrolls
+babuls
 bismuthide
 bethanked
 beneficing
@@ -14308,7 +14309,6 @@ bandboxes
 bragite
 blimps
 bluet
-babuls
 bessi
 bird
 banners
