@@ -15859,7 +15859,6 @@ antiprime
 antiprinciple
 anureses
 adfiliate
-arrhizous
 adversive
 antiproductive
 antiproductivity
@@ -18615,6 +18614,7 @@ anatocism
 adelaide
 archarchitect
 accusably
+arrhizous
 archband
 archbeacon
 addlebrain
