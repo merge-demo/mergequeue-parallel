@@ -2117,6 +2117,7 @@ disciplinarian
 dermatalgia
 debaser
 didst
+desiredness
 decandrous
 discrepate
 decane
@@ -3754,7 +3755,6 @@ dehorner
 diplography
 deadlily
 dehorners
-desiredness
 dehorning
 disconcertingly
 developers
