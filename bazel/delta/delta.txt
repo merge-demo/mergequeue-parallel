@@ -186,7 +186,6 @@ damas
 decipherer
 daedaloid
 diel
-diaplasma
 dozen
 daedalous
 divulgated
@@ -716,6 +715,7 @@ dipter
 danceability
 defailment
 danceable
+diaplasma
 demoniacs
 danced
 debauchment
