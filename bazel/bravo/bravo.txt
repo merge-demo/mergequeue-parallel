@@ -2269,7 +2269,6 @@ bellyfull
 bewearies
 baister
 birdcatching
-butterine
 barbecuer
 barbellula
 bowwood
@@ -10214,6 +10213,7 @@ bryaceous
 bibulous
 besague
 britany
+butterine
 blackjacking
 blackjacks
 bureaux
