@@ -3281,7 +3281,6 @@ adamantoblast
 adamas
 archery
 atresic
-atelets
 andean
 adamellite
 actorish
@@ -22821,6 +22820,7 @@ aquocapsulitis
 antipodeans
 atrible
 anabaptize
+atelets
 assonance
 alkylol
 atrichic
