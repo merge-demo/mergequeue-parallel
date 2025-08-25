@@ -9678,7 +9678,6 @@ crammed
 categoricalness
 cheeseparer
 canaster
-cerebrasthenic
 caravaning
 cheeseparing
 cheesewood
@@ -18593,6 +18592,7 @@ cader
 cutted
 condenseries
 coigny
+cerebrasthenic
 coequalize
 callitrichidae
 clinching
