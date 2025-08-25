@@ -16016,7 +16016,6 @@ distant
 dotlet
 derrickman
 doto
-devocalize
 divinail
 disinflation
 doggoneder
@@ -17434,6 +17433,7 @@ diffraction
 decennia
 direction
 disjoinable
+devocalize
 decream
 demanding
 dropsies
