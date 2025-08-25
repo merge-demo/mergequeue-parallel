@@ -671,7 +671,6 @@ caesuric
 caf
 cinefilm
 cafardise
-charka
 chicky
 casuarinaceous
 cafenet
@@ -25906,6 +25905,7 @@ cloths
 corticous
 cortile
 coercion
+charka
 cortin
 collaborativeness
 cinerary
