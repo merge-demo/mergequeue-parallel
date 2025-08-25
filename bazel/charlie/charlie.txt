@@ -103,7 +103,6 @@ cabiai
 canephorus
 cronish
 cabildo
-cabildos
 cabin
 cabined
 curucui
@@ -15848,6 +15847,7 @@ clearstory
 chocker
 clearstoried
 commis
+cabildos
 cleat
 cleats
 cyclonologist
