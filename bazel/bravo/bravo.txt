@@ -2020,7 +2020,6 @@ banknote
 beachless
 bristly
 biophysicist
-banknotes
 brasserie
 bedeguar
 bicollaterality
@@ -16812,6 +16811,7 @@ buffeters
 boldheartedness
 burman
 bioecology
+banknotes
 bubalises
 bucketman
 bystreet
