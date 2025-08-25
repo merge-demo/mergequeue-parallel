@@ -2742,6 +2742,7 @@ cimbaloms
 counterembowed
 cannelle
 caliche
+cryptogenous
 candyfloss
 cannelon
 chintzes
@@ -14657,7 +14658,6 @@ cystoidea
 cystoidean
 crime
 cowsucker
-cryptogenous
 confederations
 cystolith
 caduca
