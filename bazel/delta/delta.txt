@@ -4885,7 +4885,6 @@ dharna
 demonical
 decadal
 deathcups
-diestrum
 dognapers
 durableness
 demonise
@@ -10710,6 +10709,7 @@ doyle
 disorganizing
 deutonephron
 deferring
+diestrum
 diiodide
 disbutton
 deepen
