@@ -6324,6 +6324,7 @@ downweighted
 dendrolatry
 dislaurel
 dermatosclerosis
+dingledangle
 demonstrableness
 doodad
 dissentiency
@@ -18300,7 +18301,6 @@ dioptrics
 dialyzability
 demijohn
 demiourgoi
-dingledangle
 disintegration
 dunner
 delicts
