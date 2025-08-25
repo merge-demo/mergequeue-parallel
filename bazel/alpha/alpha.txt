@@ -1947,7 +1947,6 @@ acetoacetic
 absolutism
 amphidisk
 acetol
-acetometer
 acetometry
 accroachment
 affidavits
@@ -16223,6 +16222,7 @@ antitypal
 antityphoid
 amaroid
 antitypical
+acetometer
 antitypous
 amphigouris
 anthochlor
