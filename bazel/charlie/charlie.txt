@@ -7632,7 +7632,6 @@ ceremony
 chrysoeriol
 ceremonial
 chiquero
-ceremonialism
 ceremonialist
 ceremonialize
 ceremonialness
@@ -23276,6 +23275,7 @@ consulates
 consulship
 consulships
 coloquintida
+ceremonialism
 clavieristic
 consulta
 captors
