@@ -1714,7 +1714,6 @@ bryan
 buskers
 biscayner
 brokerage
-bodgery
 brachypyramid
 broon
 byline
@@ -4692,6 +4691,7 @@ borotungstic
 bordereaux
 birlings
 bedimple
+bodgery
 bedimpling
 bulllike
 bluegown
