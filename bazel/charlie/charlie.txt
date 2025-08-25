@@ -11189,6 +11189,7 @@ chlorambucil
 contrasting
 chloramin
 chloramphenicol
+curtation
 caperwort
 chilopodous
 chloranemia
@@ -25050,7 +25051,6 @@ coredeems
 coree
 coreflexed
 chinked
-curtation
 coregency
 coregent
 courtlet
