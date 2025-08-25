@@ -2089,7 +2089,6 @@ agglutinations
 arborolatry
 allopatry
 antadiform
-achilleine
 abnormalness
 achilles
 anthropological
@@ -19674,6 +19673,7 @@ ascriptive
 arithmocratic
 arithmograph
 arithmography
+achilleine
 azulejos
 ammonite
 arithmomancy
