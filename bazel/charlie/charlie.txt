@@ -3311,7 +3311,6 @@ capocchia
 capoche
 crouche
 chrysomelidae
-cogware
 chelates
 caponata
 costuming
@@ -26733,6 +26732,7 @@ coagulums
 countercurrent
 countercurrently
 cubitometacarpal
+cogware
 capelocracy
 countercurrentwise
 counterdance
