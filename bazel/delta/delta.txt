@@ -2849,6 +2849,7 @@ dys
 denticles
 dictyopteris
 decumbent
+dissaturate
 disfurnishment
 deistically
 dugdug
@@ -10911,7 +10912,6 @@ diplograph
 disincrease
 dispermy
 dyslogia
-dissaturate
 discontinuous
 designlessly
 diathermometer
