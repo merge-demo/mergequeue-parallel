@@ -7939,7 +7939,6 @@ curwhibble
 cneorum
 cetoniinae
 castigated
-cetorhinid
 chickadee
 cyamoid
 criteriions
@@ -24181,6 +24180,7 @@ convocation
 chronologically
 convocational
 convocationist
+cetorhinid
 concertantes
 colleterial
 compost

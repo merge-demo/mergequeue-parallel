@@ -2941,7 +2941,6 @@ boundaries
 boobishness
 blobby
 barricaded
-benedicts
 barricaders
 barricadoes
 blayk
@@ -14009,6 +14008,7 @@ boxmaking
 bushtits
 bondable
 burmese
+benedicts
 breastsummer
 brabejum
 berrichon
