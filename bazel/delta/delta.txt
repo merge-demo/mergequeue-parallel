@@ -15296,7 +15296,6 @@ dendrobium
 dishouse
 dolichocranial
 duopolistic
-dolichosauri
 dameworts
 dracaenaceae
 dolichosauria
@@ -16635,6 +16634,7 @@ dragonfishes
 didelph
 dragonflies
 dossers
+dolichosauri
 deprecated
 didelphian
 dragonhood
