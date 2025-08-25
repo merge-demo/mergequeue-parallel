@@ -8992,7 +8992,6 @@ charing
 celadons
 carbinyl
 centaurium
-cortex
 chariot
 cheesemaking
 carcerate
@@ -18195,6 +18194,7 @@ careeners
 cutset
 coesites
 coessential
+cortex
 conversional
 convivialist
 carburize
