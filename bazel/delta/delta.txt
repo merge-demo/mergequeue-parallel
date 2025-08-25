@@ -10786,7 +10786,6 @@ drainspout
 drools
 dipsomaniac
 dietotherapeutics
-dipsomaniacs
 dipsopathy
 daintiest
 database
@@ -15638,6 +15637,7 @@ divelled
 diathermize
 donzella
 donzels
+dipsomaniacs
 doob
 diazobenzene
 doodab
