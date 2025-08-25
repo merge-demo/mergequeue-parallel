@@ -4478,7 +4478,6 @@ antirationalistic
 advertizes
 advice
 advisableness
-adiaphorism
 advisal
 antheridial
 allentiacan
@@ -17014,6 +17013,7 @@ actuates
 argumentive
 alliterations
 amourette
+adiaphorism
 ammoniac
 anthroponomical
 arefaction
