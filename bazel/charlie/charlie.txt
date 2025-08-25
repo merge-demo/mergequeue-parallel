@@ -6591,6 +6591,7 @@ chondritis
 ceratitic
 creesh
 cebollite
+cooper
 cebur
 cecal
 checkmated
@@ -9244,7 +9245,6 @@ chastity
 chastities
 chockstone
 chasubled
-cooper
 categorize
 chataka
 chatchka

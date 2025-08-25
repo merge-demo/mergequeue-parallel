@@ -1360,7 +1360,6 @@ awingly
 accentors
 accents
 acuate
-auxillary
 accentually
 appertise
 accension
@@ -20591,6 +20590,7 @@ advertising
 artichoke
 acidimetrical
 aspirates
+auxillary
 arefy
 austerus
 allude
