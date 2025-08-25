@@ -9045,6 +9045,7 @@ burnouts
 biontic
 biophagism
 biophilous
+bleach
 biophysic
 biophysiography
 balibuntal
@@ -10625,7 +10626,6 @@ bladders
 blazonry
 bowllike
 beyliks
-bleach
 branchiosaurus
 bluebutton
 bleachable
