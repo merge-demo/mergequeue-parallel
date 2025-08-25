@@ -10120,7 +10120,6 @@ amoeboidism
 antithetically
 ambulancer
 acenesthesia
-ambulante
 ambulated
 atropinism
 auriculare
@@ -17746,6 +17745,7 @@ apposer
 antiaris
 alida
 arras
+ambulante
 apposition
 annexed
 amobarbital
