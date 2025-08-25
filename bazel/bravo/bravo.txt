@@ -10067,7 +10067,6 @@ backwatered
 bizygomatic
 boarhound
 biznaga
-bokos
 basidiolichen
 burglarious
 bizones
@@ -16173,6 +16172,7 @@ brought
 barmote
 bignesses
 blandish
+bokos
 bryologies
 breadstuffs
 brouhaha
