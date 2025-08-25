@@ -15825,7 +15825,6 @@ caddice
 clearinghouse
 congratulating
 clearinghouses
-clearings
 cenotaph
 clearish
 clearminded
@@ -28605,6 +28604,7 @@ crematory
 commissionate
 crematorial
 crematoriria
+clearings
 crematorium
 cornicular
 cornel
