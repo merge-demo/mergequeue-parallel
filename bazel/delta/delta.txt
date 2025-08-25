@@ -4159,6 +4159,7 @@ demagnetised
 dianthuses
 debye
 deguelin
+deutovum
 deliration
 delire
 documentary
@@ -11981,7 +11982,6 @@ dentifrices
 degum
 dissolvable
 decrease
-deutovum
 disembitter
 disembocation
 domicils
