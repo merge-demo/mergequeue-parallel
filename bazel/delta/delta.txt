@@ -1176,7 +1176,6 @@ decrementing
 dasyuridae
 dasyurine
 dactylopatagium
-delineatory
 dassent
 dicaeology
 dodecaphony
@@ -6848,6 +6847,7 @@ dextrocardial
 diffidence
 dendrograph
 desmodynia
+delineatory
 desmodontidae
 danuri
 desmogenous
