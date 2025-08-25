@@ -7407,6 +7407,7 @@ detonating
 detonation
 digest
 disowned
+dissilition
 detonations
 dusking
 detonative
@@ -13033,7 +13034,6 @@ downing
 dysoxidation
 defrayment
 dollarfishes
-dissilition
 decasepalous
 disoxygenation
 debacchate
