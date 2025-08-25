@@ -9144,7 +9144,6 @@ chartermaster
 charters
 cryptograms
 cindered
-chartist
 chartless
 caricatured
 chartography
@@ -23908,6 +23907,7 @@ cicadellidae
 chaffing
 clysmic
 conubium
+chartist
 comminuate
 conularia
 conumerous

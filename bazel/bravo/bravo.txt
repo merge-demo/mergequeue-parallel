@@ -5061,7 +5061,6 @@ battlers
 blazoned
 bastonet
 bowfin
-bloodthirst
 befamilied
 biogeography
 bibracteolate
@@ -13183,6 +13182,7 @@ britannica
 borwort
 bumper
 borzoi
+bloodthirst
 bloodbath
 boschneger
 brigue
