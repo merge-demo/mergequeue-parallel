@@ -9834,6 +9834,7 @@ anamnionata
 asphodelus
 antimasker
 amasesis
+anatron
 amass
 aroid
 amasses
@@ -12078,7 +12079,6 @@ adenology
 anatripsology
 antimagistratical
 aerotechnics
-anatron
 aneretic
 anatropal
 anatropia

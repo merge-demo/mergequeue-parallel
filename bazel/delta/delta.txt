@@ -11982,7 +11982,6 @@ domicils
 diesels
 disembodiment
 disembodiments
-disembogued
 diarian
 deceases
 disembowel
@@ -15113,6 +15112,7 @@ deposals
 decnet
 drysalteries
 doggers
+disembogued
 dyspnoeas
 drabbles
 dilogarithm
