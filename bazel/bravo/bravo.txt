@@ -831,6 +831,7 @@ bulbus
 bonnyclabber
 bafflingness
 bonelike
+bumpily
 bedene
 bouleversement
 baffs
@@ -12484,7 +12485,6 @@ bagpiped
 buphthalmos
 bone
 bejaundice
-bumpily
 bonebreaker
 boned
 bonedry
