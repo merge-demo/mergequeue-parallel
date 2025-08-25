@@ -9374,7 +9374,6 @@ avoir
 alsmekill
 alsophila
 adamitic
-alstonia
 amphiblastic
 alstonite
 alstroemeria
@@ -24890,6 +24889,7 @@ algometer
 alopekai
 aralia
 awakeners
+alstonia
 agravic
 awakening
 awakeningly
