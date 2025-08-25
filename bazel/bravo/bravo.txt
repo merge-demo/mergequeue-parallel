@@ -1089,6 +1089,7 @@ bedizenment
 baioc
 begattal
 braciole
+blanketry
 boresomeness
 baiocchi
 beets
@@ -7889,7 +7890,6 @@ bituminisation
 bibliopegically
 bibbons
 browser
-blanketry
 btu
 bibliophagous
 boscages
