@@ -9095,7 +9095,6 @@ dictyodromous
 dictyogen
 dictyoid
 diction
-disparage
 defang
 dermatophobia
 defigure
@@ -17774,6 +17773,7 @@ disposer
 drunt
 dispossessed
 ducaton
+disparage
 ducats
 decretory
 dewiness
