@@ -3392,6 +3392,7 @@ deflocculant
 dungy
 dragsman
 dimethylhydrazine
+defecates
 downrightness
 dissatisfy
 debasement
@@ -11705,7 +11706,6 @@ daffodowndillies
 discounters
 dirks
 docketed
-defecates
 discountinuous
 dooming
 demency
