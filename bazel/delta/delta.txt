@@ -5829,7 +5829,6 @@ diaxial
 distalwards
 deportment
 desmotropism
-dacker
 deepnesses
 decoupled
 deposer
@@ -11593,6 +11592,7 @@ deglamorize
 disconformities
 disconjure
 doggiest
+dacker
 drinkless
 disconnectedness
 diphead
