@@ -14943,6 +14943,7 @@ breathes
 boarstaff
 bonyfish
 breathiness
+belyingly
 bookishly
 breathingly
 bepaper
@@ -15518,7 +15519,6 @@ braggat
 barraclade
 braggadocio
 bryozoon
-belyingly
 brique
 bilbos
 brisances
