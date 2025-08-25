@@ -14134,7 +14134,6 @@ circled
 claudia
 catskin
 cardcastle
-conservancies
 corticoid
 cyclographer
 coonhound
@@ -17418,6 +17417,7 @@ cajeta
 coattending
 conductivities
 cineangiocardiographic
+conservancies
 coattestator
 coattested
 coattesting
