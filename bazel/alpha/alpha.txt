@@ -20657,6 +20657,7 @@ artilize
 artillery
 atheisms
 alphean
+awls
 artilleries
 avodire
 artilleryman
@@ -22857,7 +22858,6 @@ afeard
 atrochous
 aly
 an
-awls
 antimaterialism
 atrociously
 assidaean
