@@ -7215,7 +7215,6 @@ boundable
 bestiarian
 bestiarist
 bestirs
-bestock
 bestow
 bestowment
 burgee
@@ -16487,6 +16486,7 @@ babbittism
 brute
 bushtit
 bangtailed
+bestock
 belaites
 bequeathal
 birr

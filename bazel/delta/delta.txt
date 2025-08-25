@@ -14609,7 +14609,6 @@ disposing
 domine
 divisions
 divisive
-divisively
 develope
 decomposition
 desalinize
@@ -15283,6 +15282,7 @@ disproperty
 declinal
 dolichocephalize
 disawa
+divisively
 disingenuously
 derepress
 disfigurement
