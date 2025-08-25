@@ -9170,7 +9170,6 @@ antiknock
 almury
 alnage
 autosymbiontic
-aposiopestic
 alnein
 awest
 authenticating
@@ -10430,6 +10429,7 @@ actinometer
 antireactive
 apposability
 achimenes
+aposiopestic
 aponogetonaceous
 amianthus
 aisles
