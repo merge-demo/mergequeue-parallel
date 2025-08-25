@@ -2826,7 +2826,6 @@ cardooer
 canonesses
 canonicalization
 cultivable
-cinctures
 canonicalized
 canonicalizes
 congealer
@@ -27518,6 +27517,7 @@ coverages
 cuselite
 coverall
 coveralled
+cinctures
 coveralls
 codeinas
 coils
