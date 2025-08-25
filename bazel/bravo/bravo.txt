@@ -8869,6 +8869,7 @@ belch
 biobibliographer
 barleysick
 bioblastic
+bides
 backwoodsiness
 bungaloid
 berakot
@@ -17510,7 +17511,6 @@ bleep
 blabs
 baguio
 bulbocapnine
-bides
 bee
 bobadilish
 burro
