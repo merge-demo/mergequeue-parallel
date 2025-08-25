@@ -959,7 +959,6 @@ bagwyn
 bustier
 bagwork
 baker
-brumby
 bahadur
 beverage
 basiophthalmite
@@ -17351,6 +17350,7 @@ bunger
 bijection
 bisectional
 bunghole
+brumby
 biathlons
 brachistochronic
 beignets
