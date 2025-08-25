@@ -301,7 +301,6 @@ belar
 back
 brachiocubital
 backache
-burrknot
 bocardo
 backadation
 brumbies
@@ -4034,6 +4033,7 @@ banditti
 butled
 beambird
 beamed
+burrknot
 beeve
 bedrock
 beamers
