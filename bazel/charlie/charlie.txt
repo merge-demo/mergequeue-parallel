@@ -11654,7 +11654,6 @@ cholerigenous
 chelicerate
 columel
 choleroid
-cholerophobia
 cholestanol
 camphylene
 cholesteatoma
@@ -15825,6 +15824,7 @@ clearheadedness
 clearhearted
 caddice
 clearinghouse
+cholerophobia
 congratulating
 clearinghouses
 clearings
