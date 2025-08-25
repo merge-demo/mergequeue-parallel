@@ -18621,7 +18621,6 @@ coyn
 cosmometry
 coinable
 creative
-coinage
 coinages
 coincide
 clemming
@@ -30898,6 +30897,7 @@ cultivator
 cultive
 cultrate
 cultrated
+coinage
 cultriform
 cyclitol
 cults
