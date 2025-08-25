@@ -9874,7 +9874,6 @@ dissected
 disseminate
 deadlines
 defacers
-darnings
 dactylosternal
 dissertation
 duocosane
@@ -11539,6 +11538,7 @@ deuteropathic
 discomfortingly
 discomforts
 discomycete
+darnings
 discomycetous
 druggy
 dirham
