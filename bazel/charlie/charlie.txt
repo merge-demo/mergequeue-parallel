@@ -1099,7 +1099,6 @@ calcinosis
 calciobiotite
 calcioferrite
 calcioscheelite
-calciovolborthite
 calciphylactic
 calciphylaxis
 cabecera
@@ -26440,6 +26439,7 @@ curn
 crevet
 cottae
 chatelains
+calciovolborthite
 ceiba
 copernicanism
 chuckstone
