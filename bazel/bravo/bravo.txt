@@ -2715,7 +2715,6 @@ bogomile
 buoyantly
 branching
 barnumism
-bienne
 blitum
 brainsick
 balandrana
@@ -10879,6 +10878,7 @@ blent
 blattiform
 backpacks
 budgeters
+bienne
 bioflavonoid
 blin
 burnup
