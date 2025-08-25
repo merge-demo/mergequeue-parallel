@@ -12859,7 +12859,6 @@ brevifoliate
 bibliog
 blipped
 boondoggling
-banishers
 bacillogenous
 boonfellow
 behorror
@@ -14251,6 +14250,7 @@ bolden
 burelly
 benzaldoxime
 blites
+banishers
 biographize
 boanbura
 butyne
