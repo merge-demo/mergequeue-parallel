@@ -4529,7 +4529,6 @@ coccostean
 capsule
 cotoxo
 clapperdudgeon
-carnied
 carniferrin
 colorcast
 coulter
@@ -16221,6 +16220,7 @@ cenanthous
 charmingly
 chela
 clinchingly
+carnied
 capkin
 chargeability
 cathedratical
