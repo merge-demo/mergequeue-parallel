@@ -9753,6 +9753,7 @@ amanous
 antiauxin
 arterialise
 amante
+auscultation
 airbrush
 augurer
 agamous
@@ -23657,7 +23658,6 @@ athrong
 animala
 auscultating
 apism
-auscultation
 arilliform
 atlaslike
 anticontagiousness
