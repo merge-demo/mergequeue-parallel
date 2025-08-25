@@ -13521,7 +13521,6 @@ attingence
 augmentative
 algy
 annulary
-annularia
 arrowing
 annulately
 adjourning
@@ -18811,6 +18810,7 @@ assemblers
 archiepiscopacy
 abomasa
 ardrigh
+annularia
 archiepiscopal
 automatons
 archiepiscopality
