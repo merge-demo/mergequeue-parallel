@@ -6525,7 +6525,6 @@ bepart
 beacher
 bepimpling
 bureaucratical
-bepray
 bepraiser
 bituminizing
 bagge
@@ -10993,6 +10992,7 @@ bicuspids
 blithe
 burliest
 bijectively
+bepray
 blithesomely
 bkgd
 benzotriazine
