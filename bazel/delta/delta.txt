@@ -5714,7 +5714,6 @@ dipl
 disrobe
 dentelliere
 deplaning
-dylan
 dawdled
 dieselize
 drumler
@@ -13867,6 +13866,7 @@ dramatis
 dogvane
 decapod
 diamondizing
+dylan
 digram
 discomposingly
 dindle
