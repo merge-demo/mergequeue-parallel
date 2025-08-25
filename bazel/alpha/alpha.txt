@@ -11243,7 +11243,6 @@ abstersion
 amphistoma
 africans
 asyllabic
-apriori
 amphitene
 amphithalamus
 amplexifoliate
@@ -21516,6 +21515,7 @@ approvable
 asquint
 anallagmatis
 authorising
+apriori
 asramas
 ablute
 accompanied
