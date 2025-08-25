@@ -15219,7 +15219,6 @@ anthophila
 ampulla
 amphithyrons
 accent
-alloquialism
 antigenes
 antigigmanic
 annexment
@@ -23016,6 +23015,7 @@ aortism
 agglomerations
 attendance
 agnominal
+alloquialism
 aaronitic
 aggressor
 annunciable
