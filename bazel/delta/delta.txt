@@ -7170,7 +7170,6 @@ desulfurizing
 demolitions
 dynamometric
 depictor
-desulfurs
 daphnetin
 desulphurate
 delatorian
@@ -14002,6 +14001,7 @@ dourade
 dogwatch
 dystocial
 diagenesis
+desulfurs
 discrepance
 dacryadenalgia
 dorsispinal
