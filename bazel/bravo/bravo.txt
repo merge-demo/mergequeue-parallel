@@ -6317,6 +6317,7 @@ bagfuls
 benthonic
 bevors
 benthoscope
+bioenergetics
 bemoat
 benthoses
 bacteriolysin
@@ -9731,7 +9732,6 @@ biramose
 bankbook
 backslapped
 babble
-bioenergetics
 beside
 boatie
 byssoid
