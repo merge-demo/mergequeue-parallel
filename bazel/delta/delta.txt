@@ -11162,7 +11162,6 @@ disassent
 disassimilate
 darin
 disassimilative
-disassociable
 disinherits
 disassociate
 disassociates
@@ -18231,6 +18230,7 @@ dentatocostate
 diamagnetometer
 dermatorrhoea
 dode
+disassociable
 decurrent
 dunderfunk
 dunderheadedness
