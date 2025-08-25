@@ -11750,7 +11750,6 @@ chondrites
 chondritic
 chenica
 chondroadenoma
-chondroalbuminoid
 chondroangioma
 credential
 chondroarthritis
@@ -31292,6 +31291,7 @@ calvatia
 curculios
 cerebratulus
 concordly
+chondroalbuminoid
 cenospecies
 curcumin
 conscionably
