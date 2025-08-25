@@ -1650,7 +1650,6 @@ accruement
 accruer
 adiabatic
 accrues
-accruing
 anaphase
 aerocar
 agonists
@@ -7810,6 +7809,7 @@ antilogarithm
 aleknight
 agreat
 azodiphenyl
+accruing
 afterlife
 adenography
 abandum
