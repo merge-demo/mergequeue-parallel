@@ -6623,6 +6623,7 @@ anc
 accredits
 aimless
 acropolis
+ascomata
 authorise
 aimlessly
 aimore
@@ -8764,7 +8765,6 @@ alliterationist
 alintatao
 avens
 anfractuousness
-ascomata
 ascoma
 apterygote
 afforests
