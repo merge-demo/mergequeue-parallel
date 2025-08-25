@@ -9872,7 +9872,6 @@ arcing
 adagial
 artificious
 avoue
-alternator
 abandonee
 abu
 amaurosis
@@ -13601,6 +13600,7 @@ anodos
 ambivalent
 agomensin
 anoestrum
+alternator
 asked
 animotheism
 amygdalothripsis
