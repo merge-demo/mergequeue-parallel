@@ -339,7 +339,6 @@ allochezia
 abrades
 abelia
 abelian
-alcoate
 auletris
 apodia
 abelmosk
@@ -7625,6 +7624,7 @@ alcoholysis
 aguinaldos
 aspirins
 aphorised
+alcoate
 antepyretic
 ambigenous
 alcoholist
