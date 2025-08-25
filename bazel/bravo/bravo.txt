@@ -1098,7 +1098,6 @@ berrylike
 burel
 bundts
 bayonets
-benefactors
 backword
 blepharelcosis
 bayong
@@ -1753,6 +1752,7 @@ blends
 baltimore
 bumblebeefishes
 baluba
+benefactors
 berogue
 baluch
 bullet
