@@ -11947,7 +11947,6 @@ diseasedness
 diseases
 diseconomy
 diastemata
-dolerites
 diselenid
 dicetyl
 diplostemonous
@@ -18410,6 +18409,7 @@ dauncy
 disheveled
 demagogy
 duolog
+dolerites
 duologues
 doubtedly
 disembarkment
