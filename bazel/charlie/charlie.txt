@@ -6869,7 +6869,6 @@ consultee
 celotomies
 clonks
 cloze
-celsian
 cashbox
 celt
 candidness
@@ -9843,6 +9842,7 @@ chemiotaxis
 chemiotropic
 cerebropsychosis
 chemiotropism
+celsian
 chemise
 crinet
 chemisette
