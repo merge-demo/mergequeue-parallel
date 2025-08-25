@@ -701,6 +701,7 @@ caffoline
 cobwork
 caffre
 camouflet
+cotunnite
 cafh
 coelanaglyphic
 cafila
@@ -26492,7 +26493,6 @@ cottonwick
 cottonwoods
 cottrel
 cottus
-cotunnite
 culicids
 cesser
 cymbaled
