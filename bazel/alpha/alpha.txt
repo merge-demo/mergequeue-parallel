@@ -2625,7 +2625,6 @@ anamirta
 acred
 acreman
 acremen
-acres
 aggravated
 assapan
 antiarcha
@@ -9673,6 +9672,7 @@ alveolosubnasal
 antagonising
 alveolus
 aux
+acres
 alvine
 avestan
 alvissmal
