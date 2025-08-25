@@ -3673,7 +3673,6 @@ coleopterological
 carangin
 chunderous
 carangoid
-chromicize
 coemptive
 chabutra
 cicatrisive
@@ -9049,6 +9048,7 @@ charlet
 costotomies
 charlocks
 cobberer
+chromicize
 charm
 charmed
 cowlick
