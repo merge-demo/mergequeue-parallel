@@ -14012,7 +14012,6 @@ asbestiform
 antedates
 antedating
 astur
-anapests
 antimission
 academize
 antedorsal
@@ -17499,6 +17498,7 @@ appeasingly
 anthologists
 appellability
 appellable
+anapests
 alburnums
 arsenotherapy
 apheta
