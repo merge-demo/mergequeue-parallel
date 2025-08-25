@@ -10367,7 +10367,6 @@ bepainting
 bowpin
 blanc
 beneath
-baltimorite
 bergomask
 bumbler
 ballist
@@ -15049,6 +15048,7 @@ bremsstrahlung
 brushmaker
 bodiment
 bastarda
+baltimorite
 blousons
 begot
 brents
