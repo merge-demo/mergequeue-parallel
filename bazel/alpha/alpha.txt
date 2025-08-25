@@ -3727,6 +3727,7 @@ aichmophobia
 acephalina
 adamantoblastoma
 accomplis
+amphigamous
 adiaphory
 afer
 adiaphorist
@@ -11186,7 +11187,6 @@ amphigaea
 aerostat
 amphigam
 archpractice
-amphigamous
 amphigastrium
 amphigean
 amphigene
