@@ -609,6 +609,7 @@ bowfins
 blanketed
 baconize
 baconweed
+brandisite
 bierkeller
 bonjour
 barniest
@@ -14569,7 +14570,6 @@ billhooks
 blume
 buri
 buggyman
-brandisite
 boyar
 brandling
 binomy
