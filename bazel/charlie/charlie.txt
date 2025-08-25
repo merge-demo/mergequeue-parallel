@@ -1717,6 +1717,7 @@ cortes
 copperah
 cohabiter
 corneine
+chlorogenic
 calumba
 chipped
 coloured
@@ -11326,7 +11327,6 @@ chloroforming
 chromicizing
 chloroformization
 chloroforms
-chlorogenic
 chloroguanide
 chloroid
 curably
