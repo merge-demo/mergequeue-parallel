@@ -2000,7 +2000,6 @@ criticised
 cassique
 camises
 cytosin
-camisole
 cautela
 complicacies
 camisoles
@@ -11969,6 +11968,7 @@ choriamb
 choriambic
 chorometry
 coaggregated
+camisole
 confarreate
 choriambus
 choric

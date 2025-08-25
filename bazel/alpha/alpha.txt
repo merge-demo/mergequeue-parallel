@@ -16973,7 +16973,6 @@ auslander
 amizilis
 axoneuron
 acouophonia
-apocalyptist
 ables
 apocarp
 apocarpy
@@ -19729,6 +19728,7 @@ arythmically
 annexitis
 aminolytic
 amphicyonidae
+apocalyptist
 armagnacs
 autochthonous
 alteratively
