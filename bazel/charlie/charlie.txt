@@ -14863,7 +14863,6 @@ cephalorhachidian
 checkbird
 cytokinesis
 cytokinetic
-captan
 cytokinin
 cytol
 coziest
@@ -23153,6 +23152,7 @@ closing
 ciselure
 consociating
 concuss
+captan
 coxodynia
 cajou
 constitutionalism
