@@ -6257,7 +6257,6 @@ chymists
 conferrer
 capuchins
 catalases
-cofermentation
 colourize
 crescence
 cravingly
@@ -9979,6 +9978,7 @@ chequerwork
 chequin
 cherchez
 chercock
+cofermentation
 cherem
 cyclopite
 calcimine

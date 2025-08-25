@@ -2449,7 +2449,6 @@ alcoholizable
 antireduction
 acocotl
 acoela
-amoebida
 acoelomate
 acoelomatous
 autoloaders
@@ -14855,6 +14854,7 @@ anticlericalist
 acidophilous
 azygobranchia
 ami
+amoebida
 antideflation
 anticly
 algiers
