@@ -7412,6 +7412,7 @@ cephalothoraxes
 cephalotomy
 corozo
 contrate
+chondroplast
 cephalotractor
 cephalotrocha
 cephalotus
@@ -11793,7 +11794,6 @@ chukkas
 chondromyxosarcoma
 chondromucoid
 chondropharyngeus
-chondroplast
 chondroplasty
 crystall
 consonantally
