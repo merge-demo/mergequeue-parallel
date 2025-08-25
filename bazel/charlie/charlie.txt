@@ -18342,7 +18342,6 @@ cachinnated
 cholerically
 crenelled
 cogger
-coggers
 cogging
 coggledy
 cogitate
@@ -23624,6 +23623,7 @@ copestone
 cleping
 choriocarcinomas
 chivvies
+coggers
 courteous
 contr
 contrabandage
