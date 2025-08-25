@@ -4904,7 +4904,6 @@ burrowstown
 beef
 battled
 beefalo
-beefaloes
 basketweaving
 balistarius
 bloodedness
@@ -16095,6 +16094,7 @@ broomstraw
 bonelessness
 befret
 billowing
+beefaloes
 botryomycotic
 banning
 blesbok
