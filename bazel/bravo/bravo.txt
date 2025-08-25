@@ -3635,7 +3635,6 @@ batistes
 beastly
 batlet
 batlike
-bifanged
 boards
 brandyball
 buyides
@@ -11040,6 +11039,7 @@ blusterer
 benefactorship
 basichromiole
 builded
+bifanged
 bettina
 boyfriend
 budgero
