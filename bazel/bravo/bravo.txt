@@ -6619,7 +6619,6 @@ bukh
 bodyplate
 beant
 bereaves
-boninesses
 basioccipital
 biz
 berede
@@ -16327,6 +16326,7 @@ biloculate
 brumbie
 bedew
 bemoaner
+boninesses
 bangup
 bioelectrogenetically
 bioelectronics
