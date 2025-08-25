@@ -557,7 +557,6 @@ accompaniments
 allophite
 ablutionary
 abluvion
-assai
 abmodalities
 airscrew
 acusector
@@ -18461,6 +18460,7 @@ arsmetrike
 arborizing
 abaca
 antinion
+assai
 aphrodisian
 animists
 arborolater
