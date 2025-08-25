@@ -4036,7 +4036,6 @@ beambird
 beamed
 beeve
 bedrock
-beamers
 beamfilling
 beeware
 bivalvous
@@ -14849,6 +14848,7 @@ breakable
 battledores
 breakaxe
 burning
+beamers
 blameable
 baja
 breakers
