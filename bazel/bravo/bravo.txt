@@ -6288,6 +6288,7 @@ benomyl
 backspread
 benorth
 benefact
+betels
 bensall
 beggared
 barbigerous
@@ -7309,7 +7310,6 @@ betelgeuse
 betell
 bambuba
 breve
-betels
 beamiest
 bigotish
 bethankit
