@@ -12618,6 +12618,7 @@ angelicize
 angelicness
 attestive
 angelico
+autometry
 acetylize
 angelina
 attle
@@ -24191,7 +24192,6 @@ automechanism
 antinodes
 automen
 archgovernor
-autometry
 autometric
 assegaied
 automobile

@@ -4595,6 +4595,7 @@ disselboom
 defencelessly
 drossiest
 demilitarizes
+disjunction
 decolorate
 demiliterate
 deflectional
@@ -11713,7 +11714,6 @@ disarranger
 discour
 dimethylanthranilate
 daubiest
-disjunction
 designates
 dyotheletian
 dele
