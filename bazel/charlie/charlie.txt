@@ -25094,6 +25094,7 @@ coremorphosis
 colouring
 chromonematic
 coreometer
+cowbrute
 crocks
 complacential
 coreplastic
@@ -27614,7 +27615,6 @@ cracksman
 carbonadoed
 cowboy
 calumny
-cowbrute
 cervicolumbar
 cowcatchers
 cancelling
