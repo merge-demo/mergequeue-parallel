@@ -2912,6 +2912,7 @@ acting
 actiniae
 absentia
 attrahent
+anciens
 axisymmetric
 appalment
 allheals
@@ -19048,7 +19049,6 @@ archvisitor
 archwag
 archways
 arceuthobium
-anciens
 arcifera
 arcifinious
 arciform
