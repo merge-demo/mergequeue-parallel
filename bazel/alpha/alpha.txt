@@ -6432,6 +6432,7 @@ ahriman
 ahs
 ablare
 achromia
+anticommercialistic
 ahtena
 ahu
 admonitions
@@ -12767,7 +12768,6 @@ abjunction
 angiotribe
 angiotripsy
 angiotrophic
-anticommercialistic
 aweto
 antiepicenter
 angiport
