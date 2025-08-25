@@ -5519,7 +5519,6 @@ catafalco
 catafalques
 civilisation
 catagenetic
-catakinetic
 catakinomeric
 corkscrewy
 catalanganes
@@ -29738,6 +29737,7 @@ continuous
 crookheaded
 crooking
 circule
+catakinetic
 crooknecked
 concessionaires
 causticize
