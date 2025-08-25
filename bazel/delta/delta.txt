@@ -3473,7 +3473,6 @@ demagnetise
 dominoes
 demobilize
 deforced
-depressors
 deforces
 dimittis
 deforciant
@@ -18309,6 +18308,7 @@ davenports
 diuretically
 desultorily
 draftproof
+depressors
 dunnish
 dunnite
 dunnites
