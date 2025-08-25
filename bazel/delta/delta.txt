@@ -3761,7 +3761,6 @@ diplography
 deadlily
 dehorners
 desiredness
-dehorning
 disconcertingly
 developers
 disour
@@ -16350,6 +16349,7 @@ discredits
 dispeace
 defended
 downshifted
+dehorning
 downshore
 dismarch
 dephlegmatize
