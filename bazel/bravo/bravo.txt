@@ -2862,7 +2862,6 @@ bashawism
 buddage
 bannermen
 barrage
-bombycidae
 barnmen
 banger
 brushland
@@ -6002,6 +6001,7 @@ bluewood
 belvedered
 blueblossom
 bridaler
+bombycidae
 benchwarmer
 barothermohygrogram
 boneache
