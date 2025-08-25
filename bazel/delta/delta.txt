@@ -6035,6 +6035,7 @@ delimiting
 disapprove
 dermatonosus
 derogated
+disdaining
 depthways
 disoccupy
 deadman
@@ -14350,7 +14351,6 @@ differentiation
 dittanies
 ditheisms
 ditty
-disdaining
 disseminates
 decardinalize
 didymoid
