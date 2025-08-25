@@ -4977,7 +4977,6 @@ cartwheeler
 consolan
 canopic
 czarowitz
-cartwhip
 carucage
 counterprove
 carucarius
@@ -13753,6 +13752,7 @@ cinchonized
 communiqu
 cinchophen
 cretinoid
+cartwhip
 cinchotine
 cullions
 cincinnal
