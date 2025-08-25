@@ -1000,6 +1000,7 @@ daringness
 dit
 darings
 darius
+diosmosis
 doubleprecision
 dark
 darked
@@ -2138,7 +2139,6 @@ detectors
 diabolology
 downtime
 disturbs
-diosmosis
 decantist
 decaffeinated
 decapitates
