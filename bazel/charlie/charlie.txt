@@ -14000,7 +14000,6 @@ cynthiidae
 coopering
 coeditor
 cintre
-cinura
 cion
 corruptions
 cionitis
@@ -24596,6 +24595,7 @@ chutzpahs
 centigrade
 compellent
 carbonate
+cinura
 chiggak
 cypripedium
 copingstone
