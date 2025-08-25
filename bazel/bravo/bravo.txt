@@ -6934,6 +6934,7 @@ balmony
 beshadowed
 beauxite
 briolette
+bugeyed
 biplosive
 breediness
 betail
@@ -15092,7 +15093,6 @@ besmearer
 bushhammer
 breviradiate
 blithely
-bugeyed
 bawty
 brevit
 battalia
