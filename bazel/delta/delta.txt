@@ -6320,6 +6320,7 @@ decolonization
 despin
 debatter
 dermatorrhagia
+disinflame
 deliriant
 drossy
 dial
@@ -10471,7 +10472,6 @@ dosimeters
 damask
 discolith
 devinct
-disinflame
 dow
 disobliging
 douzainier
