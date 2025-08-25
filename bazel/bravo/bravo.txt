@@ -15193,6 +15193,7 @@ bricklayer
 bricklayers
 bummery
 brickle
+bismosol
 bulbospinal
 beclose
 blennoid
@@ -17686,7 +17687,6 @@ bumblekite
 brucins
 banbury
 behove
-bismosol
 bratchet
 biont
 beanos
