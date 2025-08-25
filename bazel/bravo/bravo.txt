@@ -1546,6 +1546,7 @@ blazer
 blatancies
 balldom
 balled
+banderilla
 batterer
 blauboks
 baller
@@ -2512,7 +2513,6 @@ blameful
 bucca
 beflowers
 bariatrician
-banderilla
 bariatrics
 baric
 barycenter
