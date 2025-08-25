@@ -3731,7 +3731,6 @@ buhr
 battlesome
 brigantes
 bimestrial
-battlestead
 battlewagon
 bronchiectasis
 bovver
@@ -16974,6 +16973,7 @@ beleaguered
 bulbously
 bowedness
 bespoken
+battlestead
 bure
 bhil
 blazoner
