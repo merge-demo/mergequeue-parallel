@@ -14023,6 +14023,7 @@ cyphellate
 cypher
 cipherdom
 causeur
+countrieman
 cyphered
 cipherer
 cipherhood
@@ -27223,7 +27224,6 @@ cardhouse
 countree
 chitty
 country
-countrieman
 chorioiditis
 clypeiform
 cavillingly
