@@ -2554,6 +2554,7 @@ acquest
 armenite
 aromatite
 actutate
+acrite
 arriswise
 acquiesce
 addiction
@@ -2678,7 +2679,6 @@ allamonti
 arak
 acritan
 authorizing
-acrite
 asthenobiosis
 acroa
 astringent
