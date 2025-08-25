@@ -11272,7 +11272,6 @@ avowries
 amphithyra
 ana
 amphithyron
-apetalies
 amphithura
 amphipnous
 ayuntamientos
@@ -16303,6 +16302,7 @@ antivibratory
 antivitalist
 ammoniuria
 attacker
+apetalies
 aldoses
 aal
 aked
