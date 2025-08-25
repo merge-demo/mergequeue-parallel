@@ -3161,7 +3161,6 @@ actualness
 allochromatic
 alstonine
 assident
-abstersion
 actuary
 aphis
 anastomotic
@@ -11239,6 +11238,7 @@ aerodontic
 amphisilidae
 amphispermous
 amphisporangiate
+abstersion
 amphistoma
 africans
 asyllabic
