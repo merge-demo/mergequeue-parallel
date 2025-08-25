@@ -565,6 +565,7 @@ damars
 decoratory
 devocate
 doesnt
+disjunctive
 delivers
 disfranchiser
 deadpanning
@@ -12671,7 +12672,6 @@ decorament
 descrial
 duplicidentate
 dechemicalization
-disjunctive
 disjunctively
 deseed
 dibble
