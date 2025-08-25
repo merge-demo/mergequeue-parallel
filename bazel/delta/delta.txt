@@ -6266,6 +6266,7 @@ desiccator
 dizaine
 dermatatrophia
 dodonaena
+duplicator
 denationalisation
 diabolize
 dermatic
@@ -9428,7 +9429,6 @@ dissoluble
 diffusate
 dipnoous
 djinni
-duplicator
 diffusers
 disenthralment
 diffuses
