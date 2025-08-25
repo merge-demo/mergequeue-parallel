@@ -4611,6 +4611,7 @@ clubbily
 carombolette
 caromel
 caroming
+cutout
 coucher
 caroms
 carone
@@ -6625,6 +6626,7 @@ cedarwood
 ceded
 ceders
 copepods
+cretinize
 cottiers
 cedilla
 chatelet
@@ -10560,7 +10562,6 @@ carports
 chiller
 confessionary
 comino
-corporational
 cotwist
 chillest
 cystocarpic
@@ -13510,6 +13511,7 @@ ciliated
 ciliately
 coolish
 ciliates
+corporational
 catalogued
 comedia
 caseating
@@ -16362,7 +16364,6 @@ clavodeltoideus
 conchologist
 cliquedom
 cliqueier
-cretinize
 cliqueyness
 cytome
 cliques
@@ -17204,6 +17205,7 @@ computationally
 coagitator
 coagment
 cleptobiotic
+creameryman
 campe
 coagmentation
 coagonize
@@ -17591,7 +17593,6 @@ cloddishly
 coccidian
 coccidiidea
 corticotropin
-creameryman
 coccydynia
 correctitude
 cognised
@@ -24112,6 +24113,7 @@ crimples
 convertor
 croaked
 claybrained
+curietherapy
 coenzymes
 conveth
 convex
@@ -31372,7 +31374,6 @@ criosphinges
 cothurnate
 curie
 curiet
-curietherapy
 curying
 cyclopentane
 cerebrosensorial
@@ -31857,7 +31858,6 @@ cutoff
 cutoffs
 consortion
 companionways
-cutout
 collenchyma
 cutpurse
 cyclothyme

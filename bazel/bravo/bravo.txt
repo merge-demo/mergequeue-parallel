@@ -1837,6 +1837,7 @@ backstabber
 bandelette
 banderma
 bowlike
+brachytic
 banderol
 blet
 banderole
@@ -1980,7 +1981,6 @@ bangos
 blubberman
 bundt
 bandlimiting
-brezhnev
 browbeats
 biotopes
 bulrushy
@@ -5497,7 +5497,6 @@ behooves
 behooving
 bacterioprotein
 backiebird
-behoved
 basting
 behoves
 behoving
@@ -6312,6 +6311,7 @@ birkie
 beys
 burying
 benthamism
+billy
 btise
 benthic
 barbar
@@ -6319,6 +6319,7 @@ bagfuls
 benthonic
 bevors
 benthoscope
+bioenergetics
 bemoat
 benthoses
 bacteriolysin
@@ -9733,7 +9734,6 @@ biramose
 bankbook
 backslapped
 babble
-bioenergetics
 beside
 boatie
 byssoid
@@ -10592,6 +10592,7 @@ botherer
 bransle
 brigandine
 blatting
+behoved
 blattodea
 blattoid
 brinny
@@ -11088,7 +11089,6 @@ balaklava
 blockholer
 beveto
 bilirubinic
-billy
 bioral
 blockiest
 bevelling
@@ -11281,7 +11281,6 @@ basketries
 blowguns
 boycotting
 bogtrotting
-butling
 blatchang
 bronchoesophagoscopy
 beshackle
@@ -11837,7 +11836,6 @@ brigands
 braking
 brashes
 barriers
-buttonless
 bodhisattwa
 barfly
 bodybending
@@ -13474,7 +13472,6 @@ bottlenest
 bottlenose
 bottlers
 blotchiness
-brachytic
 bottlestone
 baptismal
 bottling
@@ -16670,6 +16667,7 @@ backstair
 bucky
 besa
 buckishness
+brezhnev
 buddled
 buckism
 buckland
@@ -17252,6 +17250,7 @@ blotched
 bumkin
 bothridiums
 beating
+buttonless
 burseed
 berretta
 beman
@@ -18114,6 +18113,7 @@ bealtared
 baittle
 bloodlettings
 buskin
+butling
 butcherer
 blobbier
 bureaucrats
