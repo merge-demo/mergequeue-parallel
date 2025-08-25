@@ -18465,7 +18465,6 @@ carboxylate
 capillitial
 crystalloblastic
 centrale
-cograil
 conjecture
 crestmoreite
 chaogenous
@@ -20359,6 +20358,7 @@ canada
 conjee
 counterservice
 clerks
+cograil
 commutableness
 commutant
 commutated

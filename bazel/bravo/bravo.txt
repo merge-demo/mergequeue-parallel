@@ -7846,6 +7846,7 @@ bels
 benamed
 biblicism
 biblicopsychological
+bagie
 biblike
 berinse
 bombs
@@ -12581,7 +12582,6 @@ bonnet
 brachelytra
 bonnethead
 bedway
-bagie
 basinerved
 bonnetiere
 bonnetlike
