@@ -1512,6 +1512,7 @@ briary
 balladist
 batrachophagous
 bootlegger
+bonser
 balladize
 bedaubed
 balladizing
@@ -16953,7 +16954,6 @@ bulb
 bartizans
 blandishers
 behears
-bonser
 bulby
 bidens
 bulbier
