@@ -3859,7 +3859,6 @@ akinetic
 adjudicators
 amores
 aversely
-agonied
 aphidian
 adjument
 alarmed
@@ -22889,6 +22888,7 @@ atropidae
 altigraph
 atropine
 atropisms
+agonied
 atropos
 atropous
 anemometrograph
