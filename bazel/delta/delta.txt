@@ -4557,6 +4557,7 @@ dialyses
 demifigure
 demigardebras
 decentres
+dunbird
 detroiter
 demigauntlet
 doting
@@ -18196,7 +18197,6 @@ dumsola
 decussorium
 disdiaclastic
 distrust
-dunbird
 dermatoscopy
 disobedience
 diable
