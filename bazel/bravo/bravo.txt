@@ -996,7 +996,6 @@ bayal
 bottomed
 bosser
 bukidnon
-becompliment
 brogueful
 burnous
 boat
@@ -1240,6 +1239,7 @@ bakuba
 bediaper
 barathron
 buckstone
+becompliment
 blok
 barkers
 bala
