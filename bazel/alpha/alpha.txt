@@ -1641,6 +1641,7 @@ accroides
 accruable
 atty
 anatomism
+aurific
 accrual
 accruals
 accrued
@@ -23587,7 +23588,6 @@ auriferous
 appreciational
 axlike
 aurify
-aurific
 aceology
 agnoetism
 algorism
