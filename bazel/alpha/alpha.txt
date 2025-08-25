@@ -2295,7 +2295,6 @@ androcles
 acierated
 amphoriloquy
 acierates
-adc
 abbreviatory
 athetoid
 absorbed
@@ -14496,6 +14495,7 @@ anthropopathically
 anteclassical
 anthropopathism
 amethodical
+adc
 anthropophagy
 abiogenesist
 allophonic
