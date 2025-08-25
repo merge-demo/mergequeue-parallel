@@ -4348,6 +4348,7 @@ devilbird
 devoutness
 durning
 delimit
+drupe
 duckhood
 dequeue
 diversicolored
@@ -6271,7 +6272,6 @@ diabolize
 dermatic
 dermatitises
 dyschromatoptic
-drupe
 dermatoconiosis
 dermatodynia
 demisability
