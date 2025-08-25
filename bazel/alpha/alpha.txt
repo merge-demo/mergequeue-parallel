@@ -3764,7 +3764,6 @@ anchorwise
 ametabole
 adieu
 attame
-altin
 adight
 adin
 araneose
@@ -12833,6 +12832,7 @@ arpanet
 anglistics
 anglogaea
 anthemwise
+altin
 antennarius
 antiliturgically
 assot
