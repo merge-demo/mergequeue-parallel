@@ -12022,7 +12022,6 @@ centralization
 coenacting
 choristership
 choristic
-choristoblastoma
 choristoneura
 cantharellus
 chorization
@@ -19634,6 +19633,7 @@ columnate
 cupseed
 columnates
 columnation
+choristoblastoma
 crinkleroot
 crystaled
 columner
