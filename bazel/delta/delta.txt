@@ -7386,6 +7386,7 @@ disentangler
 dwight
 demasculinize
 datsun
+disjunctive
 diplopias
 debatement
 deticker
@@ -12672,7 +12673,6 @@ decorament
 descrial
 duplicidentate
 dechemicalization
-disjunctive
 disjunctively
 deseed
 dibble
