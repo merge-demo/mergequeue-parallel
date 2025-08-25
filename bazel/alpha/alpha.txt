@@ -17789,6 +17789,7 @@ acetnaphthalide
 asterochiton
 anaclisis
 andamento
+artotypy
 ascots
 amblers
 acquired
@@ -20715,7 +20716,6 @@ artophagous
 antiproteolysis
 artotype
 antibodies
-artotypy
 artou
 arts
 asqueal
