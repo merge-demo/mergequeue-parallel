@@ -5795,7 +5795,6 @@ categorised
 chansonnier
 cultivated
 cochlearia
-chemicopharmaceutical
 cuemanship
 cleaves
 categorization
@@ -10669,6 +10668,7 @@ corkwoods
 ctenophorous
 coprolite
 compassless
+chemicopharmaceutical
 chymia
 chymify
 confide
