@@ -5681,6 +5681,7 @@ aphodian
 agaricaceae
 adepts
 agaricaceous
+adjusts
 armadillo
 agaricine
 agaricoid
@@ -14093,7 +14094,6 @@ antepalatal
 aliveness
 amphivorous
 auriga
-adjusts
 awesomeness
 agglutinogenic
 anarthrous
