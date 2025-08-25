@@ -6413,6 +6413,7 @@ ahi
 azotometer
 algaesthesis
 antinomian
+angdistis
 amebula
 anticryptically
 ahistoric
@@ -18039,7 +18040,6 @@ aquamanilia
 allyls
 aquamarines
 aquanaut
-angdistis
 aquanauts
 agerasia
 acapnia
