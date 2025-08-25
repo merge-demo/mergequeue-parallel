@@ -2315,7 +2315,6 @@ acanthopod
 amourist
 acyetic
 albeit
-autocrat
 aciform
 abet
 athrepsia
@@ -14023,6 +14022,7 @@ academize
 antedorsal
 antefact
 animadverting
+autocrat
 antefix
 anaesthyl
 antefurcae
