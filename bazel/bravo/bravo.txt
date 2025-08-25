@@ -5126,6 +5126,7 @@ brahminee
 beflea
 brainier
 bombable
+bromoaurate
 bunkery
 belching
 borderers
@@ -15125,7 +15126,6 @@ barsom
 bahuvrihis
 briard
 bromins
-bromoaurate
 briguing
 beanfest
 baxterianism
