@@ -27709,7 +27709,6 @@ cowries
 calina
 cowroid
 catbrier
-corkscrews
 connecters
 cowshed
 cowsheds
@@ -31030,6 +31029,7 @@ canberra
 cumulated
 cerebrate
 cumulately
+corkscrews
 cephalophus
 contemplatively
 carnies
