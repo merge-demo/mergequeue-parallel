@@ -3464,6 +3464,7 @@ bander
 barkpeeler
 boobook
 batable
+byeman
 bracket
 blights
 berzeliite
@@ -8163,7 +8164,6 @@ banishes
 buffalos
 baccillla
 baldpate
-byeman
 ballote
 bienly
 brahmanism
