@@ -2172,7 +2172,6 @@ achrodextrinase
 achroglobin
 achroiocythaemia
 apod
-anguinidae
 assessably
 alginic
 amphioxides
@@ -13542,6 +13541,7 @@ audiviser
 annullate
 altimeters
 annuller
+anguinidae
 annulling
 annulment
 aspidate
