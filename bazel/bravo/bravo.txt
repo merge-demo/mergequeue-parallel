@@ -1533,6 +1533,7 @@ beeherd
 bersiamite
 bulbiform
 bouton
+beyerite
 backsword
 ballaster
 ballastic
@@ -1585,7 +1586,6 @@ ballista
 boilermaker
 basketlike
 beatinest
-beyerite
 ballistician
 brachioganoidei
 ballywack
