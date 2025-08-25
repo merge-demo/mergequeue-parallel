@@ -1676,7 +1676,6 @@ divergency
 dentimeter
 dothiorella
 deamidation
-deaminase
 digitize
 daws
 daw
@@ -2236,6 +2235,7 @@ drongo
 drivescrew
 doris
 dreint
+deaminase
 drch
 dartre
 danes

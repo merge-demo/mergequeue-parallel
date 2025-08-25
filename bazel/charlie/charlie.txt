@@ -6965,7 +6965,6 @@ cenobe
 codable
 capitellar
 cenobies
-cenobites
 cenobitic
 caseworkers
 cenobitically
@@ -7058,6 +7057,7 @@ corbicula
 centerboard
 centerer
 centerfold
+cenobites
 compania
 coofs
 chelators
