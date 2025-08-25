@@ -998,7 +998,6 @@ bosser
 bukidnon
 brogueful
 burnous
-boat
 bayamos
 brownier
 brigand
@@ -17492,6 +17491,7 @@ burbot
 burdalone
 bleak
 brawlers
+boat
 beata
 bromopicrin
 bidenticulate
