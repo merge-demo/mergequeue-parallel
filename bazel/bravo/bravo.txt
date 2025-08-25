@@ -3557,6 +3557,7 @@ beckoning
 bathyplankton
 bairnteam
 balon
+bibbers
 baygall
 barricade
 byronish
@@ -12586,7 +12587,6 @@ bonnetlike
 bonnibel
 blurts
 bimethyl
-bibbers
 blottesque
 batter
 bristlemouths
