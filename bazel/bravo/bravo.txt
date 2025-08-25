@@ -7859,6 +7859,7 @@ bibliographize
 bipyridine
 biblioklept
 burglarising
+bink
 backstitched
 brislings
 bullation
@@ -8804,7 +8805,6 @@ biniou
 binitarianism
 bubonic
 buffaloed
-bink
 binna
 bowering
 binned
