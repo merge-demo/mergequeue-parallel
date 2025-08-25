@@ -1833,7 +1833,6 @@ acerli
 amalgamater
 admonitorial
 acerolas
-agnosy
 acerous
 acertannin
 acerval
@@ -6690,6 +6689,7 @@ agrimonia
 axoplasms
 airdate
 avowing
+agnosy
 animally
 argentarius
 afterband
