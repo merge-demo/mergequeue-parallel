@@ -7249,7 +7249,6 @@ centrums
 cancrizans
 centum
 centums
-colorcaster
 copopsia
 coassume
 catarinite
@@ -14840,6 +14839,7 @@ choroidal
 cytoderm
 cytodiagnosis
 cytoecology
+colorcaster
 cappadine
 cerebrotonia
 cippi
