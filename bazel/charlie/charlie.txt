@@ -4938,7 +4938,6 @@ cartogram
 criniger
 comminate
 cypseli
-cartographic
 cartographical
 cartographically
 carton
@@ -29094,6 +29093,7 @@ cachexy
 casper
 chicagoan
 crinoidean
+cartographic
 crinoids
 cuadrillero
 corundums
