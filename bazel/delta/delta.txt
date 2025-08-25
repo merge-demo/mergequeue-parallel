@@ -8458,7 +8458,6 @@ dialuric
 divisibly
 diamagnet
 diamagnetic
-diamagnetism
 diamant
 ditrochee
 deflexed
@@ -18035,6 +18034,7 @@ dehydrogenizer
 devoting
 dulciloquent
 delouses
+diamagnetism
 dungon
 diplex
 denitrated
