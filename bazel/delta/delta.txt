@@ -8422,6 +8422,7 @@ ditties
 defibrinize
 dialogers
 dialogged
+doorway
 droplet
 devide
 deconcentrator
@@ -15503,7 +15504,6 @@ dihydroxy
 dominionist
 dominions
 delocalising
-doorway
 dominique
 despairingly
 dewanship
