@@ -6717,7 +6717,6 @@ convallamarin
 celebrations
 celebrative
 celebre
-celebrious
 celebrity
 cresotic
 counterinterpretation
@@ -16491,6 +16490,7 @@ creamcup
 curvicostate
 cloamen
 christliness
+celebrious
 cursores
 clobber
 clobbered
