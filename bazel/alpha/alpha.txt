@@ -3108,6 +3108,7 @@ acetaniside
 actipylea
 activate
 apologete
+arrowlike
 autocatalytically
 amphogenic
 apanthropy
@@ -20249,7 +20250,6 @@ achromobacterieae
 apportionment
 arrowlet
 adermine
-arrowlike
 aminoazobenzene
 arrowplate
 abortifacient
