@@ -16457,7 +16457,6 @@ copart
 cheveron
 cutlets
 castellanus
-circulable
 ceriferous
 cloacinal
 cordelled
@@ -23276,6 +23275,7 @@ consulates
 consulship
 consulships
 coloquintida
+circulable
 clavieristic
 consulta
 captors
