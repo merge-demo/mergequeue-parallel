@@ -884,6 +884,7 @@ absyrtus
 amylon
 absis
 absistos
+anthrophore
 absit
 absoil
 absterging
@@ -14403,7 +14404,6 @@ ackey
 accensor
 always
 antiuating
-anthrophore
 anthropical
 acquisition
 anthropobiology
