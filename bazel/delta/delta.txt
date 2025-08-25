@@ -8454,7 +8454,6 @@ dorsocervically
 dorsiventrally
 dials
 ds
-dithalous
 duopsony
 degreed
 dialuric
@@ -18367,6 +18366,7 @@ duodenate
 declension
 degelation
 dyestuff
+dithalous
 diallelon
 dissever
 duodene
