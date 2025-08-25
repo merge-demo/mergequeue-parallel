@@ -15754,7 +15754,6 @@ clavolet
 clawed
 clawer
 cubbishly
-clawers
 clawing
 clawk
 colobium
@@ -16914,6 +16913,7 @@ clubwomen
 cluck
 cyclas
 crotonbug
+clawers
 chinches
 cypselae
 compendiously
