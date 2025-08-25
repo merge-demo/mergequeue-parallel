@@ -3524,7 +3524,6 @@ brabbling
 balotade
 blue
 byroads
-batfishes
 bondholder
 batfowl
 batfowled
@@ -8930,6 +8929,7 @@ buccinoid
 blattered
 bocal
 billons
+batfishes
 bioecological
 bounty
 banjore
