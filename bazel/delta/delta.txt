@@ -814,6 +814,7 @@ deniable
 dearths
 dysacousia
 discomposedness
+decasyllables
 disannex
 dulcorate
 della
@@ -10615,7 +10616,6 @@ dominus
 diploidize
 dialectological
 doorman
-decasyllables
 diploma
 dolorogenic
 domitable
