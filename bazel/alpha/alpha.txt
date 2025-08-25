@@ -5526,7 +5526,6 @@ afterthought
 afterthoughts
 afterthrift
 apastron
-afterturn
 armory
 arosaguntacook
 aphototaxis
@@ -17323,6 +17322,7 @@ amplification
 anticrotalic
 apostrophising
 apostrophize
+afterturn
 apostrophizes
 acidophilus
 apostrophizing
