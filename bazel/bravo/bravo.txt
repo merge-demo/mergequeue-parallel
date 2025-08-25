@@ -1704,7 +1704,6 @@ bedumbing
 benzalphthalide
 bacillariales
 blur
-bravehearted
 biasing
 blackbrush
 buccate
@@ -10271,6 +10270,7 @@ beehead
 beforehandedness
 brutalising
 benevolist
+bravehearted
 bocaccio
 blacksnake
 baneful
