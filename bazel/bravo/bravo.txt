@@ -875,7 +875,6 @@ bicolour
 barasingha
 baggagemaster
 bedamning
-baggager
 benzidin
 beffroy
 borderlight
@@ -17994,6 +17993,7 @@ biking
 bankruptcies
 benevolence
 businesslikeness
+baggager
 blanketeer
 berettas
 brutification
