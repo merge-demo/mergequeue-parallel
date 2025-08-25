@@ -6809,7 +6809,6 @@ desirer
 drachma
 daira
 desires
-dihedrons
 desirous
 desirousness
 dhotis
@@ -8113,6 +8112,7 @@ dhourras
 dhritarashtra
 disables
 dhundia
+dihedrons
 disembowelled
 drawable
 dhurra
