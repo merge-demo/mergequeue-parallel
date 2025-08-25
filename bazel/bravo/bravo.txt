@@ -3017,7 +3017,6 @@ belee
 beckons
 brimmers
 beachhead
-bartonella
 backswordsman
 bookbinderies
 bubba
@@ -4366,6 +4365,7 @@ bearings
 beckoner
 bedizened
 beati
+bartonella
 beckoningly
 balitao
 byward
