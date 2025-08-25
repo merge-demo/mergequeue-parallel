@@ -17403,7 +17403,6 @@ churchmaster
 coastward
 coatdress
 coated
-coatee
 coatees
 clivises
 craythur
@@ -27159,6 +27158,7 @@ countertraction
 countertransference
 cystonectous
 countertraverse
+coatee
 countertreason
 clattertrap
 corbelling
