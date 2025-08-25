@@ -8313,6 +8313,7 @@ calycanthemous
 chalkworker
 challah
 centriciput
+countable
 challahs
 challas
 contraponend
@@ -12633,7 +12634,6 @@ catechisation
 cyperaceous
 chronothermal
 chronotropic
-countable
 collocution
 cheney
 chilidium
