@@ -10636,7 +10636,6 @@ autogenously
 auricularias
 amuses
 abscissions
-amphistylar
 aminization
 amino
 aminoacetic
@@ -16784,6 +16783,7 @@ adlay
 avocational
 anolyte
 allodialist
+amphistylar
 aphrodision
 aphrodistic
 aphrodite
