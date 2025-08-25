@@ -10138,6 +10138,7 @@ acenesthesia
 ambulante
 ambulated
 atropinism
+auriculare
 ambulates
 apachette
 anisogamy
@@ -23568,7 +23569,6 @@ atpoints
 absvolt
 allotropicity
 antiexpressively
-auriculare
 anticreativeness
 acridin
 auriculares
