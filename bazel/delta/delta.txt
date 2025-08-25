@@ -8158,7 +8158,6 @@ diabolization
 disambiguate
 disventure
 delineate
-domesticized
 dragginess
 diacatholicon
 diacaustic
@@ -18620,6 +18619,7 @@ dustuk
 decentring
 decimalising
 digitus
+domesticized
 debugger
 dusun
 dollarwise
