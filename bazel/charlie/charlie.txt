@@ -6326,7 +6326,6 @@ causewaying
 clubfeet
 causon
 counterassurance
-caustical
 caustically
 causticism
 celticism
@@ -21084,6 +21083,7 @@ countertheory
 comstockeries
 comtes
 comtesse
+caustical
 citrates
 comtian
 comtism
