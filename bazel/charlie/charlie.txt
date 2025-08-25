@@ -9421,7 +9421,6 @@ carbonero
 chitarrino
 coying
 cromwell
-chaws
 chawstick
 citoyen
 chazan
@@ -15859,6 +15858,7 @@ cleaveful
 cleavelandite
 contentness
 cleaver
+chaws
 cleavers
 coremaker
 clamb
