@@ -5131,7 +5131,6 @@ brainier
 bombable
 bunkery
 belching
-borderers
 baffle
 boussingaultite
 bunrakus
@@ -8601,6 +8600,7 @@ biostatics
 billyhood
 billiken
 backscatters
+borderers
 byrlady
 batteau
 buhrmill
