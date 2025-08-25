@@ -12024,6 +12024,7 @@ choristership
 choristic
 choristoblastoma
 choristoneura
+cantharellus
 chorization
 chorizo
 corelation
@@ -17997,7 +17998,6 @@ concept
 coeligenous
 coelin
 coadjutive
-cantharellus
 coelioscopy
 czechic
 chipboard
