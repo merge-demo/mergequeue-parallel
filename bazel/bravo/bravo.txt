@@ -269,6 +269,7 @@ bacilary
 bacile
 bacillaceae
 brarow
+biarticulate
 bacillariaceae
 baldric
 buried
@@ -7780,7 +7781,6 @@ biannually
 bhagavata
 biarchy
 biarcuated
-biarticulate
 barrulee
 breccia
 bluings
