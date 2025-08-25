@@ -2520,6 +2520,7 @@ baric
 barycenter
 bemused
 burmite
+boyishness
 brillolette
 bootful
 barid
@@ -4100,7 +4101,6 @@ bedmaking
 blearedness
 beriberi
 betoil
-boyishness
 biassing
 ballistics
 baroclinicity
