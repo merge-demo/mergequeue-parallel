@@ -1877,6 +1877,7 @@ bryology
 bewend
 battutos
 bevies
+biolytic
 batukite
 bishoplike
 bougeron
@@ -16275,7 +16276,6 @@ boussingaultia
 barrios
 brucellosis
 barely
-biolytic
 brucia
 brucin
 brucine
