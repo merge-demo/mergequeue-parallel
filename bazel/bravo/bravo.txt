@@ -8922,7 +8922,6 @@ biodegraded
 biodegrading
 biodynamical
 bridoon
-biodynamics
 buccinoid
 blattered
 bocal
@@ -13202,6 +13201,7 @@ boxboards
 bosh
 boshbok
 boshes
+biodynamics
 brevirostrines
 bosjesman
 boustrophedonic
