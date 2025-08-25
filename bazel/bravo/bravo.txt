@@ -4049,7 +4049,6 @@ bedolt
 brisure
 bumperette
 bannerets
-becolme
 benetnasch
 babbie
 bartletts
@@ -11563,6 +11562,7 @@ blurredness
 basotho
 beauteously
 blurrier
+becolme
 borane
 blurriness
 bloodlust
