@@ -9637,7 +9637,6 @@ dihalogen
 deadline
 drayed
 differentiating
-deepmost
 dihdroxycholecalciferol
 dihedron
 disservices
@@ -15095,6 +15094,7 @@ dolcissimo
 distrains
 distinctify
 determ
+deepmost
 doggerel
 daphnioid
 doggerelism
