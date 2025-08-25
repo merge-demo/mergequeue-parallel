@@ -3963,6 +3963,7 @@ delayer
 disseisoress
 delayful
 dunlap
+diadem
 dooli
 deflagrability
 devitalisation
@@ -13172,7 +13173,6 @@ decompositions
 defamer
 dipeptidase
 disperple
-diadem
 deflourish
 didactive
 dispersedness
