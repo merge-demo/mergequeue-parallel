@@ -10996,7 +10996,6 @@ amortising
 amortized
 algic
 assibilation
-amortizes
 albizias
 atop
 arecaceae
@@ -19923,6 +19922,7 @@ agacella
 arnatto
 arugola
 ammonified
+amortizes
 alexipharmacon
 arnaut
 arnberry
