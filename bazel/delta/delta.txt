@@ -3096,7 +3096,6 @@ diseaseful
 daubing
 dentated
 dislade
-defamed
 devove
 diverticulum
 dilogical
@@ -9151,6 +9150,7 @@ didicoy
 dorymen
 didie
 didies
+defamed
 didym
 devirgination
 didymate
