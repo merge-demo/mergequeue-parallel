@@ -14901,7 +14901,6 @@ cytopathogenicity
 cytopathologic
 cytopathological
 cachucho
-coenactor
 condominate
 cytopathologically
 complish
@@ -26758,6 +26757,7 @@ counterdistinct
 coscinodiscus
 chutzpah
 cooer
+coenactor
 counterdistinguish
 counterdoctrine
 chromogenic

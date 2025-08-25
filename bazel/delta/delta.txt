@@ -5821,7 +5821,6 @@ deportations
 dissipatedly
 dewer
 dainties
-datableness
 diaxial
 distalwards
 deportment
@@ -8041,6 +8040,7 @@ dezincs
 damageable
 dft
 dinobryon
+datableness
 dysthymic
 dialects
 defences
