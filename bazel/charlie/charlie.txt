@@ -19182,7 +19182,6 @@ colloider
 cede
 coalsheds
 czarship
-chemesthesis
 cordless
 cattan
 concrescences
@@ -26489,6 +26488,7 @@ cabuyas
 cottontop
 crankism
 cassias
+chemesthesis
 cottonwick
 cottonwoods
 cottrel

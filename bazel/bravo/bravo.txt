@@ -4653,6 +4653,7 @@ betula
 bedfellows
 buildable
 barlows
+byliny
 bedford
 bouilli
 brothier
@@ -8503,7 +8504,6 @@ balks
 biscanism
 berycine
 bijoux
-byliny
 bebouldered
 braes
 braillist
