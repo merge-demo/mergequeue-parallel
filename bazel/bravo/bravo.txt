@@ -1311,6 +1311,7 @@ bedust
 boleite
 bacterioprecipitin
 bishophood
+benzoylated
 bate
 binational
 balanorrhagia
@@ -6422,7 +6423,6 @@ benzoglycolic
 benzoglyoxaline
 bastioned
 benzohydrol
-benzoylated
 becuna
 benzoylation
 benzoinated
