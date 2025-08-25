@@ -1814,6 +1814,7 @@ bialystoker
 bandaged
 bandaging
 bowlin
+bathoses
 bandaid
 babylonism
 bandala
@@ -5087,7 +5088,6 @@ broiderer
 befile
 befilmed
 befilth
-bathoses
 befire
 befist
 boomerangs
