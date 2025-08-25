@@ -3408,7 +3408,6 @@ deuteroalbumose
 deerlet
 doddy
 dyscratic
-deflore
 dubash
 disgarland
 deceleron
@@ -8102,6 +8101,7 @@ dhooties
 distinctively
 dhootis
 diphenan
+deflore
 denaturant
 deworm
 domesticated
