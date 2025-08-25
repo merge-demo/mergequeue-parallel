@@ -6894,7 +6894,6 @@ cotyla
 clockroom
 compaction
 caffein
-celtization
 conducibleness
 camis
 ceratomandibular
@@ -25113,6 +25112,7 @@ cores
 carbonates
 chlorospinel
 catalects
+celtization
 coresign
 coresonant
 convento
