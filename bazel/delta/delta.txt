@@ -13669,7 +13669,6 @@ dissettle
 dissociality
 diagrydium
 devilizing
-dissever
 disseverment
 dimethylketone
 dissheathed
@@ -18369,6 +18368,7 @@ declension
 degelation
 dyestuff
 diallelon
+dissever
 duodene
 duodenitis
 dampens
