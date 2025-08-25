@@ -11280,7 +11280,6 @@ basketries
 blowguns
 boycotting
 bogtrotting
-butling
 blatchang
 bronchoesophagoscopy
 beshackle
@@ -18114,6 +18113,7 @@ bealtared
 baittle
 bloodlettings
 buskin
+butling
 butcherer
 blobbier
 bureaucrats
