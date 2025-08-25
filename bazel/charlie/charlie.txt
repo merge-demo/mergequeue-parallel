@@ -3924,7 +3924,6 @@ cuffer
 cosponsored
 carburetter
 calcaneoastragalar
-cameist
 carburetting
 carburettor
 calendared
@@ -24493,6 +24492,7 @@ counterquarterly
 copassionate
 countermotion
 clampdown
+cameist
 coradical
 copastor
 councillor
