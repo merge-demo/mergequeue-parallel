@@ -25162,7 +25162,6 @@ coriariaceae
 coriaus
 countertype
 corybant
-corporealize
 corybantian
 corybantiasm
 corybantine
@@ -29323,6 +29322,7 @@ courant
 cloddiness
 cryptophyceae
 cryptophytic
+corporealize
 cryptophthalmos
 catkins
 commemorable
