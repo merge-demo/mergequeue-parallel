@@ -4110,7 +4110,6 @@ botulinum
 beardy
 blanchimeter
 bearding
-birostrate
 balminess
 beslimer
 beards
@@ -8815,6 +8814,7 @@ balbusard
 basigamous
 binny
 bumpered
+birostrate
 bondman
 binnogue
 blink
