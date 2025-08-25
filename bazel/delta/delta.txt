@@ -2902,7 +2902,6 @@ dedicating
 disorientating
 dedication
 drafting
-disfavor
 dispurse
 dedicatory
 dedicatorily
@@ -10904,6 +10903,7 @@ disguisable
 dicaryophyte
 damns
 drudging
+disfavor
 dirty
 debat
 dirtied
