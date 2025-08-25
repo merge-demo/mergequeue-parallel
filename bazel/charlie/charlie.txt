@@ -22102,7 +22102,6 @@ confound
 cellulous
 carragheen
 confounded
-chironomic
 cromerian
 catholicizer
 contrivance
@@ -25910,6 +25909,7 @@ choko
 chaffiness
 cortisol
 cortisols
+chironomic
 cortlandtite
 chloridize
 caulotaxy
