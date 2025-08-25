@@ -147,7 +147,6 @@ colophany
 casterless
 cables
 changeabout
-conor
 cablet
 cabling
 cablish
@@ -6216,6 +6215,7 @@ circularise
 cauking
 cyrtoceracone
 cutinises
+conor
 cfs
 chloralism
 caul
