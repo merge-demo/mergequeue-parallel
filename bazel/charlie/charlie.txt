@@ -10552,6 +10552,7 @@ cirsocele
 cymbocephaly
 cryptoclimatology
 cicadae
+cork
 chill
 cyclanthaceous
 chilla
@@ -25237,7 +25238,6 @@ contradistinctively
 carcasing
 cytomitome
 coryza
-cork
 canoodler
 cocreates
 corkages

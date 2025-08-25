@@ -9401,7 +9401,6 @@ dottels
 demasted
 dolefullest
 dopplerite
-dentirostres
 dautie
 devotionalism
 dulosis
@@ -15375,6 +15374,7 @@ dialler
 diffuse
 disposedly
 dolphin
+dentirostres
 dirling
 dolphinfish
 dolphinlike
