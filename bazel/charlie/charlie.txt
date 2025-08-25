@@ -2206,7 +2206,6 @@ campsites
 ceratophyte
 coronofacial
 cretinizing
-campstool
 camptonite
 camptosorus
 cabaan
@@ -22058,6 +22057,7 @@ conflate
 colauxe
 canellaceae
 calcinize
+campstool
 conflexure
 circumlental
 conflicted
