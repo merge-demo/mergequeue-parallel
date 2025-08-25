@@ -11229,6 +11229,7 @@ chlorguanide
 chlorhexidine
 coemperor
 chlorhydric
+coercibility
 chloriamb
 chloriambus
 chloric
@@ -28925,7 +28926,6 @@ chuckler
 cicindelid
 countervengeance
 cigaret
-coercibility
 crickle
 chandrakanta
 charlatanical
