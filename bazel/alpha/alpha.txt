@@ -5006,6 +5006,7 @@ antepagmenta
 allantois
 aeruginous
 aerugo
+ariadne
 aerugos
 aes
 amparo
@@ -22236,7 +22237,6 @@ archae
 antiauthoritarianism
 astrogeology
 astrogeologist
-ariadne
 anniversaries
 actify
 arcturia
