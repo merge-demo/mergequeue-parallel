@@ -4611,7 +4611,6 @@ bayldonite
 baghouse
 burmanniaceae
 bring
-bothriums
 bilberry
 bedecked
 bedrid
@@ -12774,6 +12773,7 @@ bookselling
 bescreened
 borg
 bihari
+bothriums
 boloney
 bookshop
 betoyan
