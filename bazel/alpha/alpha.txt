@@ -16675,7 +16675,6 @@ aphasia
 atees
 arrestee
 aphasiacs
-aphasics
 ambience
 anabaptized
 averse
@@ -19485,6 +19484,7 @@ attemperator
 auriculated
 argusianus
 arguslike
+aphasics
 alexipharmic
 aglisten
 argutation
