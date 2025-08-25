@@ -6673,7 +6673,6 @@ ainus
 antemetic
 air
 agribusiness
-anaphorical
 airable
 avenue
 airan
@@ -11450,6 +11449,7 @@ amusia
 amusias
 antinatural
 amusingness
+anaphorical
 amusive
 amuze
 advertisable
