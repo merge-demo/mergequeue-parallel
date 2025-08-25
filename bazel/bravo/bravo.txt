@@ -1270,7 +1270,6 @@ balalaika
 birdberry
 batrachiate
 bedim
-balan
 bedstead
 behindhand
 bardie
@@ -12803,6 +12802,7 @@ bronchially
 borocarbide
 brasses
 burstone
+balan
 boolya
 blebs
 babs
