@@ -4842,7 +4842,6 @@ bloomfell
 bedunce
 buskins
 bluebonnets
-brightened
 bustard
 becrusts
 berean
@@ -13178,6 +13177,7 @@ bridgemaker
 bovines
 besneer
 bullhorns
+brightened
 baronize
 bangtail
 brachycephalize
