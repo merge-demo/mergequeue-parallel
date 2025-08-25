@@ -372,6 +372,7 @@ backen
 biblicoliterary
 buddha
 backer
+belayed
 beehives
 backet
 bangala
@@ -5693,7 +5694,6 @@ ballast
 bairnlier
 blendes
 belemnoid
-belayed
 bowssen
 bentstar
 boer
