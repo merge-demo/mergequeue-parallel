@@ -7329,7 +7329,6 @@ cephalic
 chequering
 cephalina
 cephaline
-cephalins
 cephalism
 cephalitis
 cephalization
@@ -14644,6 +14643,7 @@ cystoelytroplasty
 characin
 carpophaga
 cystoepithelioma
+cephalins
 complemental
 crosby
 croceins
