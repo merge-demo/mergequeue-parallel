@@ -3813,7 +3813,6 @@ caladium
 carboluria
 chrisma
 carbomethene
-carbomethoxy
 carbomethoxyl
 carbon
 carbona
@@ -8054,6 +8053,7 @@ concoctions
 concretion
 chafed
 chafery
+carbomethoxy
 cagayan
 ceroxylon
 capitulum
