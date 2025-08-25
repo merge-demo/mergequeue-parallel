@@ -236,7 +236,6 @@ descending
 dinnertime
 dorsula
 displanting
-diff
 discrepencies
 duotoned
 disulphide
@@ -4293,6 +4292,7 @@ dogvanes
 delubra
 deluce
 delude
+diff
 dishonored
 dipperful
 detribalized
