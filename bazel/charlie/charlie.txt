@@ -1913,6 +1913,7 @@ constant
 camelopardus
 cloghad
 counterflashing
+candyfloss
 camelry
 camelus
 castalia
@@ -2741,7 +2742,6 @@ cimbaloms
 counterembowed
 cannelle
 caliche
-candyfloss
 cannelon
 chintzes
 castrametation
