@@ -2706,6 +2706,7 @@ decoration
 deckhands
 discursory
 decorator
+dichroite
 diducing
 deliberated
 disaffiliate
@@ -5725,7 +5726,6 @@ dialup
 depleteable
 ducape
 depleted
-dichroite
 daftlike
 depletions
 danton

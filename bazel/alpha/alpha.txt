@@ -3119,6 +3119,7 @@ active
 academising
 aweather
 apostrophized
+arracacia
 actives
 activin
 activism
@@ -13065,7 +13066,6 @@ aminosulphonic
 avunculize
 animalier
 animalillio
-arracacia
 adenostemonous
 androgametangium
 animalise
