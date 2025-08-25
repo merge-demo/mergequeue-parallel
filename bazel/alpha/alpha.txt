@@ -7560,7 +7560,6 @@ acetary
 antisepticist
 alcidine
 audiometry
-alcine
 atomist
 apportionate
 alcyonacean
@@ -24446,6 +24445,7 @@ autovivisection
 apologal
 ag
 autoxidation
+alcine
 autoxidator
 autoxidizability
 autoxidizable
