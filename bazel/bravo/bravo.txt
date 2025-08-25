@@ -1584,7 +1584,6 @@ beatinest
 beyerite
 ballistician
 brachioganoidei
-bifurcate
 ballywack
 benzanilide
 boldface
@@ -16127,6 +16126,7 @@ balklines
 brotheler
 bulla
 bristletail
+bifurcate
 bayonetted
 brothels
 brazilians
