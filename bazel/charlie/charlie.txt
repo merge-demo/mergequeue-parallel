@@ -13183,6 +13183,7 @@ cott
 cicatrizer
 cicatrizing
 cicelies
+cruciately
 ciceronage
 ciceroni
 ciceronian
@@ -30128,7 +30129,6 @@ crucian
 crucianella
 chokidar
 crucians
-cruciately
 cruciating
 costopulmonary
 cruciation
