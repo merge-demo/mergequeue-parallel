@@ -9594,7 +9594,6 @@ abominable
 archchief
 aluminising
 aluminize
-aluminizes
 anaphroditic
 anticardium
 adobe
@@ -17381,6 +17380,7 @@ apotheosized
 apothesine
 anteportico
 amercers
+aluminizes
 apotome
 apyretic
 asmalte
