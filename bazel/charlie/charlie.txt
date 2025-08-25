@@ -6040,7 +6040,6 @@ catlins
 craftsperson
 cryptoporticus
 canephroi
-cumene
 cameroonian
 casuistical
 catmints
@@ -16315,6 +16314,7 @@ creodonts
 categorist
 clintonia
 clintonite
+cumene
 cashing
 circumagitation
 clamjamfry
