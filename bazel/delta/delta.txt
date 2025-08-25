@@ -11077,7 +11077,6 @@ disannuller
 disentanglements
 decolorimeter
 dyophysite
-disincarcerate
 dipsosis
 disannuls
 disembay
@@ -17549,6 +17548,7 @@ druidess
 dunghilly
 druidical
 denumeral
+disincarcerate
 drouked
 druidisms
 dorsibranchiate
