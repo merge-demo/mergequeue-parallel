@@ -9303,7 +9303,6 @@ carol
 cocceianism
 colometric
 chatterboxes
-chattered
 chincapin
 chatterers
 circuitously
@@ -22019,6 +22018,7 @@ confirms
 ceraunite
 confiscatable
 cynebot
+chattered
 confiscate
 countertrend
 crois

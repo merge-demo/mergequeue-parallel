@@ -12432,7 +12432,6 @@ aimlessness
 antipacifist
 anemography
 anemographically
-anemologic
 avoided
 anticonfederationist
 attenuated
@@ -18539,6 +18538,7 @@ alabamian
 authoritativeness
 atokous
 archaeolith
+anemologic
 admedian
 archaeolithic
 archaeologer
