@@ -5252,6 +5252,7 @@ afflicted
 afflicter
 afflicting
 afflictingly
+abscess
 afflictionless
 abranchian
 archoplasm
@@ -21185,7 +21186,6 @@ asideu
 asiento
 alchemised
 acalyptrata
-abscess
 asilidae
 acronycta
 archeostome
