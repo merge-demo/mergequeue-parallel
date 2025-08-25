@@ -6912,7 +6912,6 @@ drollist
 desoxalate
 discomposes
 dichromasy
-decanter
 desoxyribonucleic
 delirous
 drunken
@@ -13049,6 +13048,7 @@ diphthongized
 deallocated
 dispar
 disparageable
+decanter
 diabolised
 disparagement
 diiodo
