@@ -4904,6 +4904,7 @@ battled
 beefalo
 beefaloes
 basketweaving
+balistarius
 bloodedness
 beefalos
 bilimbis
@@ -18232,7 +18233,6 @@ butterflied
 bounteously
 bienniums
 blathering
-balistarius
 butterflower
 berlinize
 battles
