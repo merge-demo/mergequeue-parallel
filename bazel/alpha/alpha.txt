@@ -3342,7 +3342,6 @@ azurite
 adaptive
 amortizement
 archpiece
-ankou
 apostemation
 argosies
 alliaria
@@ -6484,6 +6483,7 @@ antiserums
 aldebaranium
 ayatollah
 aiblins
+ankou
 antileptic
 arthrodynic
 aidant
