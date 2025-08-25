@@ -316,7 +316,6 @@ dayak
 dum
 dayanim
 directories
-daybeacon
 daybed
 devchar
 disembowelment
@@ -18002,6 +18001,7 @@ domanial
 dukedoms
 dukes
 deifical
+daybeacon
 deseasonalize
 dukkeripen
 dehydrase
