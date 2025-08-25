@@ -5159,7 +5159,6 @@ befools
 bridgeport
 budworm
 biotic
-borings
 boomorah
 broadside
 beggarer
@@ -7705,6 +7704,7 @@ bivouacking
 bookrack
 bigamized
 bugre
+borings
 bagleaves
 bulbotuber
 bhaktimarga
