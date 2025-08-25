@@ -5621,7 +5621,6 @@ dartingness
 dictyosiphonaceae
 drisheen
 dedecoration
-detering
 diamine
 demonstratability
 diabolizing
@@ -10957,6 +10956,7 @@ disaccustomedness
 draymen
 dromioid
 daimon
+detering
 dunder
 duretto
 depictive
