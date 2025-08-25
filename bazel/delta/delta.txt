@@ -11329,7 +11329,6 @@ derailments
 dethroned
 damolic
 dumontia
-disced
 devaraja
 dost
 dalan
@@ -11493,6 +11492,7 @@ debriding
 devisings
 didymium
 decencies
+disced
 dionysiacal
 discoloration
 discolorations

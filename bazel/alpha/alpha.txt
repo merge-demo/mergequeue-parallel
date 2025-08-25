@@ -6702,7 +6702,6 @@ aircraftsmen
 aircraftswoman
 aircraftwoman
 aircrew
-aortae
 agrimonia
 axoplasms
 airdate
@@ -22034,6 +22033,7 @@ accumulable
 arpeggiando
 arrowstone
 archeology
+aortae
 asthenies
 asthenolith
 asthenology
