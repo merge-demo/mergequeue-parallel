@@ -9270,7 +9270,6 @@ dienes
 dier
 dementis
 dochmii
-dieresis
 discharging
 disemic
 decumbiture
@@ -10877,6 +10876,7 @@ dirged
 dirgelike
 dirgeman
 debts
+dieresis
 dirgy
 doggedly
 dhooley
