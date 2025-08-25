@@ -2571,7 +2571,6 @@ disobliges
 demiquaver
 decocting
 decoctive
-deaminizing
 demishirt
 decoctum
 drudgery
@@ -16267,6 +16266,7 @@ description
 destuff
 dioeciodimorphous
 duplicated
+deaminizing
 devourment
 depurant
 dyssynergy
