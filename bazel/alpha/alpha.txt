@@ -1617,7 +1617,6 @@ accrescence
 autogenuous
 alliably
 arsinoitherium
-accrescendo
 accretal
 accretes
 accretions
@@ -22957,6 +22956,7 @@ apprehensions
 attainted
 asepticized
 attaintment
+accrescendo
 adjoiningness
 adenoma
 asterospondyli
