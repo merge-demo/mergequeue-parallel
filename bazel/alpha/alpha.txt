@@ -1114,7 +1114,6 @@ abusious
 aphyllies
 amatrice
 anythingarianism
-automat
 adenectomy
 asymptotic
 abutilon
@@ -6971,6 +6970,7 @@ arthropathy
 ameiotic
 allocation
 aphanite
+automat
 allonge
 akenes
 avgases
