@@ -5535,7 +5535,6 @@ boort
 bringdown
 babbled
 boatswains
-bawty
 beingness
 burnsides
 brandade
@@ -15093,6 +15092,7 @@ bushhammer
 breviradiate
 blithely
 bugeyed
+bawty
 brevit
 battalia
 brevity
