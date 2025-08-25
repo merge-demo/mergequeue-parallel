@@ -22089,6 +22089,7 @@ conformably
 conformal
 complexed
 crosstalk
+connusable
 cloyne
 consistence
 corcass
@@ -22202,7 +22203,6 @@ congealing
 counterrate
 contraband
 cresotate
-connusable
 characterizer
 campanularian
 choicer
