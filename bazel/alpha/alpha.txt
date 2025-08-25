@@ -13769,7 +13769,6 @@ anorthite
 antiparalytic
 anorthitic
 antiliturgic
-anorthographic
 anorthographical
 ala
 anorthophyre
@@ -16719,6 +16718,7 @@ adultoid
 aphydrotropic
 aphydrotropism
 aphilanthropy
+anorthographic
 aphylly
 averring
 abidi

@@ -202,7 +202,6 @@ bandido
 bitt
 bouillone
 bacchanalian
-buddleman
 bacchanals
 blennymenitis
 bhadon
@@ -1338,6 +1337,7 @@ burelage
 bedways
 balaustine
 bunks
+buddleman
 bacteriophagous
 bobbles
 balboa
