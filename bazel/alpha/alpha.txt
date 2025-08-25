@@ -18784,7 +18784,6 @@ agriology
 archibenthic
 archiblastic
 archiblastoma
-astrochemist
 avertedly
 archicantor
 adminstration
@@ -25284,6 +25283,7 @@ arvicola
 adenofibroma
 allthorn
 abeyant
+astrochemist
 asymmetrical
 atmospheric
 anesthetist
