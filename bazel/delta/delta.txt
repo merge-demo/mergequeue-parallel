@@ -1377,7 +1377,6 @@ denierage
 diatomin
 doyennes
 derry
-deworm
 dave
 davenport
 disna
@@ -8094,6 +8093,7 @@ distinctively
 dhootis
 diphenan
 denaturant
+deworm
 domesticated
 dysgenetic
 disendowment
