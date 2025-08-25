@@ -1132,6 +1132,7 @@ abetting
 ac
 acacatechol
 acacia
+aerobatics
 acacian
 acacias
 acaciin
@@ -4752,7 +4753,6 @@ agapemonite
 adductive
 aerobate
 aerobatic
-aerobatics
 azalea
 aerobee
 anthropolater
