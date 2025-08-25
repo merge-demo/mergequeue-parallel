@@ -5699,7 +5699,6 @@ bentstar
 boer
 barony
 biogeochemical
-bibliotaph
 beleper
 bicycle
 balandra
@@ -17874,6 +17873,7 @@ bepaints
 bothroi
 bibliotics
 boodles
+bibliotaph
 boltstrake
 biassed
 busheled

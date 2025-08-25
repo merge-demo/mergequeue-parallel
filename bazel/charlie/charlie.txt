@@ -12573,6 +12573,7 @@ chronic
 chronica
 chronically
 chronicle
+cornix
 chronicled
 chronicling
 chronicon
@@ -31310,7 +31311,6 @@ curdly
 curdoo
 conceivably
 cured
-cornix
 cureless
 corypha
 curelessness
