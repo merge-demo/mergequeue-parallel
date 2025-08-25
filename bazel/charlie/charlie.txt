@@ -19270,7 +19270,6 @@ colmose
 colnaria
 colocate
 chiquest
-colocated
 colocephali
 coryph
 colocynth
@@ -28202,6 +28201,7 @@ crapper
 chrysopoetic
 crappy
 crappie
+colocated
 compoundness
 crapple
 capreolus
