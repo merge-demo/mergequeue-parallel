@@ -2443,6 +2443,7 @@ cruzeiro
 cancrine
 cicatrix
 carpers
+cydonian
 cirrostome
 coffeeberry
 cancrinite
@@ -13458,7 +13459,6 @@ centrales
 counterturn
 cydippe
 cofeatures
-cydonian
 confederator
 cydonium
 cie
