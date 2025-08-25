@@ -3783,7 +3783,6 @@ acrook
 abdominoscope
 aslope
 apsidally
-adiposuria
 adipous
 adnouns
 adipsy
@@ -7897,6 +7896,7 @@ aleurometer
 aleuronat
 absi
 aleurone
+adiposuria
 antimicrobic
 argynnis
 annotto
