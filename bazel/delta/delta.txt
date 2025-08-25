@@ -9827,7 +9827,6 @@ diapaused
 discanonize
 disrupture
 descendingly
-dillymen
 durangite
 doorstops
 decreasingly
@@ -16716,6 +16715,7 @@ deponer
 dedifferentiate
 diplarthrous
 draintile
+dillymen
 deserves
 debouchure
 draisine
