@@ -1238,7 +1238,6 @@ disemplane
 disobligation
 dateless
 datelessness
-denizate
 disserve
 datelining
 datemark
@@ -14723,6 +14722,7 @@ duellists
 diagnose
 djagoong
 disemboguement
+denizate
 djave
 doubtfully
 drill

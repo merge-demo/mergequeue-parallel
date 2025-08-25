@@ -13284,6 +13284,7 @@ cerises
 coadapt
 cyclohexadienyl
 crossrow
+coaters
 cyclohexanol
 crass
 cyclohexanone
@@ -17170,7 +17171,6 @@ coadsorbent
 coprophobic
 caddisfly
 creek
-coaters
 churliest
 crescograph
 chummer
