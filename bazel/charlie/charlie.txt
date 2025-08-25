@@ -12482,6 +12482,7 @@ cerebralize
 chromoleucite
 chromolipoid
 choleinic
+coppled
 clarioned
 chromolith
 cluff
@@ -25959,7 +25960,6 @@ cantiga
 corvus
 cos
 cosaque
-coppled
 coscet
 coscinomancy
 chn

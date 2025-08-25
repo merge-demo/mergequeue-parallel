@@ -3076,7 +3076,6 @@ defaitiste
 defalcated
 doleful
 diethyltryptamine
-digraphs
 depleting
 dialecticize
 defalcating
@@ -6623,6 +6622,7 @@ digested
 deprecations
 deselected
 dysmerogenesis
+digraphs
 deadborn
 duddie
 desiccants
