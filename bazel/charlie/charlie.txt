@@ -10102,7 +10102,6 @@ corallorhiza
 chestnut
 chestnuts
 chet
-cheth
 communalized
 chetopod
 ceonocyte
@@ -27097,6 +27096,7 @@ calfbound
 cupful
 countersigns
 countersympathy
+cheth
 carburet
 countersink
 colical
