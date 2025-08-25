@@ -9323,7 +9323,6 @@ chaucerian
 chauchat
 cuorin
 conjunctive
-chaudfroid
 chauffage
 chauffer
 classist
@@ -30758,6 +30757,7 @@ culches
 countertime
 ceroon
 culerage
+chaudfroid
 christmastide
 childbeds
 chousing
