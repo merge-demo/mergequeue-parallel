@@ -4568,7 +4568,6 @@ buglewort
 bicellular
 backjaw
 bedarkening
-bedaub
 ballplayer
 benzoylglycine
 besuit
@@ -6661,6 +6660,7 @@ bakshishing
 beneception
 bergy
 bergylt
+bedaub
 berginization
 berglet
 banish
