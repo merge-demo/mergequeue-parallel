@@ -8460,7 +8460,6 @@ diamant
 ditrochee
 deflexed
 dooxidize
-dextro
 decrowns
 daimonology
 deration
@@ -13829,6 +13828,7 @@ dacryolin
 dissoul
 desultor
 dashee
+dextro
 dysspermatism
 ditrochous
 disspirit
