@@ -1099,7 +1099,6 @@ columella
 calcinosis
 calciobiotite
 calcioferrite
-calcioscheelite
 calciovolborthite
 calciphylactic
 calciphylaxis
@@ -15384,6 +15383,7 @@ curnie
 clanswoman
 cyanole
 characteristics
+calcioscheelite
 colloidize
 carbolised
 cyprinodontidae
