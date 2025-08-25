@@ -563,7 +563,6 @@ detains
 doketic
 damars
 decoratory
-devocate
 doesnt
 delivers
 disfranchiser
@@ -15516,6 +15515,7 @@ dominions
 delocalising
 dominique
 despairingly
+devocate
 dewanship
 deboners
 dominule
