@@ -18805,7 +18805,6 @@ anaemia
 appointee
 archidoxis
 archie
-airy
 archmonarchist
 assemblers
 archiepiscopacy
@@ -20218,6 +20217,7 @@ alaloi
 astonied
 auxil
 allotriuria
+airy
 afocal
 attitudinizing
 acutangular
