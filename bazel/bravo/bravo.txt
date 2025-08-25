@@ -5029,6 +5029,7 @@ banqueteer
 braunschweiger
 beglic
 balustrades
+blaeberry
 bloodletting
 beetleheadedness
 breakwaters
@@ -6982,7 +6983,6 @@ bedeman
 bromism
 beaconed
 bradyacousia
-blaeberry
 beslap
 beslave
 bearherd
