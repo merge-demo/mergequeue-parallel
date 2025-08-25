@@ -5497,7 +5497,6 @@ behooves
 behooving
 bacterioprotein
 backiebird
-behoved
 basting
 behoves
 behoving
@@ -10592,6 +10591,7 @@ botherer
 bransle
 brigandine
 blatting
+behoved
 blattodea
 blattoid
 brinny
