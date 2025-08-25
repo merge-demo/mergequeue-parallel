@@ -773,6 +773,7 @@ badland
 badlands
 buba
 bat
+borborygmus
 brushcut
 banket
 badmouthed
@@ -13028,7 +13029,6 @@ borboridae
 bourasque
 borborygmatic
 biggin
-borborygmus
 bettongia
 bacteriolysis
 bagataway
