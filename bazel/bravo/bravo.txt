@@ -6508,7 +6508,6 @@ bacteriotrypsin
 booley
 boltropes
 bronchopneumonic
-bephrase
 brachiopodist
 bepicture
 bugology
@@ -16367,6 +16366,7 @@ brunelliaceae
 bicuculline
 biscayen
 buchnera
+bephrase
 brunelliaceous
 barrowist
 battology
