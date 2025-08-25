@@ -9065,6 +9065,7 @@ anemometric
 antacid
 alluvious
 assortative
+adjacencies
 ametropic
 allwhere
 accipitres
@@ -17653,7 +17654,6 @@ assigning
 affectless
 adopts
 apply
-adjacencies
 anthorine
 appliable
 appliance
