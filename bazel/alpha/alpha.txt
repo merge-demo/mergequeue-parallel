@@ -6948,6 +6948,7 @@ ake
 appraisingly
 akebia
 actinia
+ataxinomic
 adoniram
 armature
 althorns
@@ -22400,7 +22401,6 @@ atavistically
 ataxiagraph
 aequorin
 ataxies
-ataxinomic
 aspiratae
 ataxophemia
 attender
