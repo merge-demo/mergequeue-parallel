@@ -8950,7 +8950,6 @@ catholicizing
 chareter
 charette
 censers
-chemisms
 chargable
 cyanosed
 combmaker
@@ -26717,6 +26716,7 @@ counterclassifications
 countercolored
 cliff
 countercompetition
+chemisms
 countercomplaint
 countercompony
 cerophilous
