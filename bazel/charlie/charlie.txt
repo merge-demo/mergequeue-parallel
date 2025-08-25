@@ -6910,6 +6910,7 @@ caecostomy
 cement
 coenocyte
 cementation
+cloacaline
 chymosins
 coaugment
 calorimetric
@@ -16451,7 +16452,6 @@ clo
 cloaca
 cloacae
 cryptanalyzed
-cloacaline
 cents
 connellite
 cholonan
