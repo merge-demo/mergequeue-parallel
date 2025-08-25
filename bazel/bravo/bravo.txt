@@ -4967,6 +4967,7 @@ bonework
 beeped
 burgware
 bumblings
+boatmanship
 blesse
 belgae
 barmier
@@ -11671,7 +11672,6 @@ belace
 bankerdom
 boatloader
 beigy
-boatmanship
 boats
 boatsetter
 bisymmetric
