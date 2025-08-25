@@ -4629,7 +4629,6 @@ dustlike
 dolichocrany
 depths
 disusing
-digitigrade
 demiox
 dharmasmriti
 disenthrall
@@ -17565,6 +17564,7 @@ disgustedly
 dewormed
 drumbles
 depudorate
+digitigrade
 drumfishes
 decolour
 disassimilation
