@@ -9386,7 +9386,6 @@ brimse
 basidial
 boastless
 bacule
-buriti
 baronetship
 bullyrook
 bulges
@@ -10950,6 +10949,7 @@ beadroll
 blinker
 balancewise
 barretors
+buriti
 blustered
 blinkers
 bael
