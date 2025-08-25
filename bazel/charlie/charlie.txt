@@ -17491,6 +17491,7 @@ chokeweed
 cobbling
 cobbra
 cobbs
+compressometer
 carabins
 calixtin
 categorematically
@@ -20940,7 +20941,6 @@ cathetometric
 compressive
 chasubles
 compressively
-compressometer
 compressors
 comprest
 compriest
