@@ -9677,7 +9677,6 @@ amable
 allegatum
 amacratic
 amacrinal
-amadan
 apitong
 asterella
 anticous
@@ -16539,6 +16538,7 @@ antihierarchically
 absolutive
 abiogenesis
 acolytes
+amadan
 apatela
 apatetic
 agrimonies
