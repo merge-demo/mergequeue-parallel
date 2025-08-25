@@ -4765,7 +4765,6 @@ bedrench
 baldling
 blast
 bedribble
-bureaucratic
 bhalu
 burglarizes
 barque
@@ -14261,6 +14260,7 @@ boanbura
 butyne
 byword
 boarding
+bureaucratic
 bandfiling
 braehead
 bulblet
