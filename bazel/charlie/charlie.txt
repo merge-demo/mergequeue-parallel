@@ -8056,6 +8056,7 @@ chafe
 concretion
 chafed
 chafery
+cokes
 cagayan
 ceroxylon
 capitulum
@@ -18734,7 +18735,6 @@ connect
 coke
 clinocephalism
 coker
-cokes
 cokewold
 cokie
 crystallology
