@@ -6919,7 +6919,6 @@ discomposes
 dichromasy
 decanter
 desoxyribonucleic
-dialled
 delirous
 drunken
 dirgeful
@@ -14597,6 +14596,7 @@ divisibility
 divisibilities
 decolourizing
 divisible
+dialled
 disappropriate
 division
 durango
