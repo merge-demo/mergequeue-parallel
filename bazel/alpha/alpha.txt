@@ -12287,7 +12287,6 @@ aortolith
 andriana
 abnormally
 acquaintant
-andrias
 andrite
 antlions
 acervuli
@@ -24717,6 +24716,7 @@ apocaffeine
 apostatical
 aviculariidae
 avicularium
+andrias
 armigers
 abdominoposterior
 acridonium
