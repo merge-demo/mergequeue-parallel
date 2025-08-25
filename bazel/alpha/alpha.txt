@@ -19004,7 +19004,6 @@ arabine
 abderian
 antivenine
 alit
-absorbant
 alkylamino
 alphanumeric
 alveoloclasia
@@ -21442,6 +21441,7 @@ aerosol
 arrowroot
 asphodel
 aspy
+absorbant
 aspics
 aspidiaria
 aspidinol
