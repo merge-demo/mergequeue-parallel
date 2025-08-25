@@ -4936,7 +4936,6 @@ aeroperitonia
 avondbloem
 anomalogonatae
 arrhal
-aerophagia
 alphonsism
 aerophane
 assumptions
@@ -20856,6 +20855,7 @@ averred
 archeologian
 affects
 ascarids
+aerophagia
 adjectivism
 alpinist
 ascaron
