@@ -774,6 +774,7 @@ dandled
 dopaoxidase
 dandler
 dandlers
+dictator
 dispurpose
 drawn
 devolatilize
@@ -16316,7 +16317,6 @@ downier
 disintegrates
 dorsoventrality
 downiest
-dictator
 downiness
 downingia
 diabrosis
