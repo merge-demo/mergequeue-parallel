@@ -3307,6 +3307,7 @@ celli
 capo
 chaufers
 coughweed
+clavicymbal
 capoc
 capocchia
 capoche
@@ -15722,7 +15723,6 @@ caiarara
 clavichord
 caulopteris
 colonialistic
-clavicymbal
 clavicytheria
 clavicithern
 chemics
