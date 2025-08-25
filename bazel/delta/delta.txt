@@ -3703,7 +3703,6 @@ desuetude
 defiantly
 dozinesses
 dehydrate
-dehydrates
 doze
 dehydrator
 dehydrating
@@ -11132,6 +11131,7 @@ disarms
 dishonouring
 demioctangular
 disarray
+dehydrates
 dictatorial
 disarrays
 desilicated
