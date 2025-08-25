@@ -468,7 +468,6 @@ daswen
 daytide
 daytimes
 disburthen
-daywrit
 dakerhen
 designing
 doughman
@@ -15556,6 +15555,7 @@ druses
 detergence
 discodactyl
 decongestants
+daywrit
 dispell
 desist
 deflagrated
