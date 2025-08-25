@@ -1687,7 +1687,6 @@ bagnios
 babbishly
 bowsing
 bogglish
-balneology
 breechesless
 balneological
 bestializing
@@ -3453,6 +3452,7 @@ brushfire
 brigade
 basto
 baguios
+balneology
 bucklandite
 bibliolatrous
 bovine
