@@ -15096,6 +15096,7 @@ bugeyed
 bawty
 brevit
 battalia
+borderless
 brevity
 brevities
 byeworker
@@ -16806,7 +16807,6 @@ brachyprism
 buffeted
 brotchen
 botchiness
-borderless
 buffeters
 boldheartedness
 burman
