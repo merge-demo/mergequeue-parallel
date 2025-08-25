@@ -3362,6 +3362,7 @@ cranium
 cyclohexene
 cheddars
 capouches
+carburating
 cappadocian
 crypted
 cyclocoelic
@@ -19573,7 +19574,6 @@ choanocytal
 colugo
 canaliculi
 cannelated
-carburating
 columbaceous
 columbae
 columban
