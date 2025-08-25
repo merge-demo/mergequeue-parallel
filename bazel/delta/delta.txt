@@ -1839,6 +1839,7 @@ daffle
 disengages
 debeak
 debarbarize
+detrudes
 debeaker
 daylilies
 debeige
@@ -7477,7 +7478,6 @@ debating
 discriminated
 denude
 doctoral
-detrudes
 dubhgall
 distalia
 detruding
