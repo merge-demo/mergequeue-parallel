@@ -2862,7 +2862,6 @@ advisive
 acrostical
 approvably
 acrostichoid
-acrostichum
 acrosticism
 acrostolium
 accoucheur
@@ -15526,6 +15525,7 @@ antimusical
 antimusically
 animalculous
 afront
+acrostichum
 antimusicalness
 antinarcotic
 antinarcotics
