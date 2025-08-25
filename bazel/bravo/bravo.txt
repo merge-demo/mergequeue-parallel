@@ -5309,6 +5309,7 @@ broadband
 birsy
 beghard
 backstab
+blindly
 buddy
 begild
 boltonia
@@ -12276,7 +12277,6 @@ brogans
 boltrope
 basswoods
 begrave
-blindly
 bonellia
 bindis
 bondswoman
