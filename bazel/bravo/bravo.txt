@@ -3145,6 +3145,7 @@ baseplug
 bayadeers
 basepoint
 boleros
+boride
 baser
 brazen
 blanda
@@ -13104,7 +13105,6 @@ bacterioscopist
 bromisation
 blowzier
 brahui
-boride
 bregmatic
 bilging
 braincraft
