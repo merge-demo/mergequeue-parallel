@@ -1358,7 +1358,6 @@ dauphine
 dauphines
 drooping
 drawboard
-drapable
 dauri
 dorter
 dreyfusism
@@ -2083,6 +2082,7 @@ digressingly
 decaliters
 dichopodial
 decalitre
+drapable
 dunlop
 dinornithid
 disencumbering
