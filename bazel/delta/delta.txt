@@ -8131,7 +8131,6 @@ decidable
 drivable
 dinosaurs
 diabetometer
-defiled
 demineralize
 denominative
 dwarfling
@@ -15174,6 +15173,7 @@ disfrequent
 dogmatise
 dogmatised
 dressoirs
+defiled
 dogmatizer
 dispensator
 discotheques
