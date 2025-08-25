@@ -8145,7 +8145,6 @@ dhurnas
 dharmsala
 diacoelia
 desmolase
-dextroduction
 dupping
 diabolise
 diabolising
@@ -8653,6 +8652,7 @@ diarticular
 dias
 depertible
 dermatographia
+dextroduction
 downstream
 diametrically
 doublets
