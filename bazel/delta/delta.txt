@@ -6039,7 +6039,6 @@ depthways
 disoccupy
 deadman
 dandered
-drayages
 depurate
 dulcarnon
 dicliny
@@ -6952,6 +6951,7 @@ desperados
 dunkled
 dorsointercostal
 dichasial
+drayages
 didgeridoo
 derangement
 disimmure
