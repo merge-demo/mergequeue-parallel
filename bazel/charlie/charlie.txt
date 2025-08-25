@@ -3048,6 +3048,7 @@ chthonophagy
 canulates
 comatic
 canun
+cabasset
 canvas
 curbing
 chaffinches
@@ -5722,7 +5723,6 @@ contribute
 catchweight
 catchword
 catchwork
-cabasset
 counterinsurgents
 catclaw
 cate
