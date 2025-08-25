@@ -9032,6 +9032,7 @@ dunned
 deraigns
 dodecuplet
 dicodeine
+debug
 dicoelious
 dicolon
 disbar
@@ -11445,7 +11446,6 @@ dastardy
 dockyard
 dissuader
 determinoid
-debug
 discloser
 disclosive
 disclosure
