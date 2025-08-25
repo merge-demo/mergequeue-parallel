@@ -3460,7 +3460,6 @@ addressograph
 amalgamator
 avaradrano
 addrest
-antisupernaturalistic
 adduced
 archsatrap
 abeyances
@@ -17966,6 +17965,7 @@ aproctous
 aproneer
 amadavat
 apronful
+antisupernaturalistic
 apronstring
 alanins
 adular
