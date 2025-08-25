@@ -8317,7 +8317,6 @@ aporia
 amoebidae
 alypum
 amarelle
-anakinesis
 aliquant
 aliquots
 allosterically
@@ -21952,6 +21951,7 @@ anaerobism
 astatize
 alejandro
 alphanumerical
+anakinesis
 allelisms
 avenous
 astricting
