@@ -7130,7 +7130,6 @@ bespill
 bathygraphic
 bastardies
 blurters
-besplatter
 bicarbs
 bespoke
 boethusian
@@ -8031,6 +8030,7 @@ boce
 bleakish
 betrumpet
 bastiles
+besplatter
 beaner
 bicolorous
 betrayal
