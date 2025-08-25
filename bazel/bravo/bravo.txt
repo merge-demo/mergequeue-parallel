@@ -2491,7 +2491,6 @@ bhut
 bedark
 barge
 bargelike
-beet
 bravura
 bargellos
 begroans
@@ -16193,6 +16192,7 @@ browless
 baritones
 botonnee
 bundy
+beet
 berrypicking
 bluejackets
 browned
