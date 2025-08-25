@@ -6932,7 +6932,6 @@ biplosive
 breediness
 betail
 baselessness
-betta
 bahai
 bismuths
 bagheli
@@ -11019,6 +11018,7 @@ botryopterid
 blitzkrieging
 brache
 belemnoidea
+betta
 backstairs
 bladelike
 bargello
