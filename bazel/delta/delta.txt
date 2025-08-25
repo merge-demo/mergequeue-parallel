@@ -8536,7 +8536,6 @@ diapause
 donaries
 decarburize
 divinations
-decongesting
 diapedeses
 deerwood
 diapedetic
@@ -9979,6 +9978,7 @@ devonian
 droved
 declassee
 diolefine
+decongesting
 droner
 dodged
 diminution
