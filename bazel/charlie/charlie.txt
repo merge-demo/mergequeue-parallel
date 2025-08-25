@@ -511,7 +511,6 @@ cades
 ceremoniary
 chainmaking
 cadet
-canonize
 counterreply
 cesar
 cadets
@@ -17964,6 +17963,7 @@ coelata
 charring
 coelder
 coelebogyne
+canonize
 coelect
 cystonephrosis
 coelection
