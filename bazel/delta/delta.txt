@@ -8065,6 +8065,7 @@ dharma
 durra
 dero
 dharmas
+discriminating
 dolorously
 discombobulated
 dumpies
@@ -11828,7 +11829,6 @@ dissimulate
 duny
 dosserets
 deinodon
-discriminating
 decarboxylation
 dacryuria
 drawbridges
