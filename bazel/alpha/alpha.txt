@@ -7352,7 +7352,6 @@ albinos
 antivenin
 albinotic
 antitypic
-astragaloscaphoid
 aesthesis
 albion
 allogamies
@@ -19066,6 +19065,7 @@ anthropogony
 antiars
 antisepticize
 arclike
+astragaloscaphoid
 arcocentrum
 antipathogenic
 acephaline
