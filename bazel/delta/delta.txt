@@ -3910,6 +3910,7 @@ daphnite
 deja
 decussatively
 dejection
+dirgelike
 devested
 derivation
 dejects
@@ -10875,7 +10876,6 @@ dimerized
 displays
 depthen
 dirged
-dirgelike
 dirgeman
 debts
 dieresis

@@ -10382,7 +10382,6 @@ abbeys
 acceptances
 alchymy
 amethystine
-amethodically
 ametoecious
 absurdum
 aurigid
@@ -12696,6 +12695,7 @@ angiogeny
 anyway
 angiography
 angiographic
+amethodically
 angiohemophilia
 anachronously
 anglophilia
