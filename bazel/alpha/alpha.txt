@@ -3017,6 +3017,7 @@ ammochaetae
 abdominoanterior
 anilinophilous
 arvicole
+aristeia
 alligatoring
 alluvion
 advertisements
@@ -19604,7 +19605,6 @@ aristarchies
 aristate
 alertness
 armaria
-aristeia
 aristida
 aristides
 aristocracy
