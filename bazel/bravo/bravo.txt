@@ -16901,6 +16901,7 @@ bootjacks
 bong
 basiliscan
 bugleweed
+bergere
 bressomer
 bugling
 buglosses
