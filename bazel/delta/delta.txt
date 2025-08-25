@@ -6950,7 +6950,6 @@ dispute
 dropper
 domineer
 despecialize
-defying
 despecificate
 despecification
 desperado
@@ -8175,6 +8174,7 @@ disembodied
 diacetin
 damager
 descenders
+defying
 diaplexal
 dromiacea
 decennially
