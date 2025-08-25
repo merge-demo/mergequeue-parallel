@@ -2318,6 +2318,7 @@ aftercare
 agitative
 artifact
 acylamino
+affidavy
 acylated
 amylodextrin
 awalt
@@ -5168,7 +5169,6 @@ antihemorrhagic
 ais
 allegorists
 almond
-affidavy
 acosmic
 affidavit
 aviso
