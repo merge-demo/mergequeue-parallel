@@ -19588,7 +19588,6 @@ aas
 attitudinal
 alexandrianism
 aleyrodid
-arisen
 albolite
 ariser
 arises
@@ -20551,6 +20550,7 @@ arthrorheumatism
 arthrocele
 anaudic
 ambulatoriums
+arisen
 agistor
 aquamanalia
 anserous
