@@ -6737,7 +6737,6 @@ designedly
 designedness
 displeasureable
 delibate
-designment
 destitutely
 designer
 discerptible
@@ -17836,6 +17835,7 @@ discrete
 deskmen
 ducs
 determents
+designment
 disaggregate
 diluents
 depolarising
