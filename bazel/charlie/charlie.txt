@@ -744,6 +744,7 @@ coordinators
 consonantising
 couturier
 caggy
+calliphorine
 conjurors
 cagy
 cagier
@@ -1517,7 +1518,6 @@ crystal
 celosia
 calcrete
 calliphoridae
-calliphorine
 callipygous
 callippic
 callirrhoe
