@@ -2189,7 +2189,6 @@ campong
 campongs
 cosmo
 convincing
-counterclaiming
 cheiropodist
 camponotus
 coteline
@@ -22073,6 +22072,7 @@ cheltenham
 conflow
 calabrian
 clockworks
+counterclaiming
 confluent
 confluxes
 confluxible
