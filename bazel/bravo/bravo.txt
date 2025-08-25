@@ -1836,6 +1836,7 @@ backstabber
 bandelette
 banderma
 bowlike
+brachytic
 banderol
 blet
 banderole
@@ -13469,7 +13470,6 @@ bottlenest
 bottlenose
 bottlers
 blotchiness
-brachytic
 bottlestone
 baptismal
 bottling
