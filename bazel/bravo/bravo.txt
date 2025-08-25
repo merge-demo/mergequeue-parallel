@@ -3615,6 +3615,7 @@ besought
 blithelike
 batidaceous
 becrowds
+burdock
 beshouted
 batiking
 boise
@@ -16434,7 +16435,6 @@ brushpopper
 brashier
 brushwood
 brushwork
-burdock
 beecher
 brusker
 brushlet
