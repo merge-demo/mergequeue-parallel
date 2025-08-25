@@ -12303,6 +12303,7 @@ dataflow
 dispatriated
 discrepancy
 disgorged
+dermaptera
 daviesia
 disendowed
 drawing
@@ -12939,7 +12940,6 @@ dismounted
 dryope
 disnaturalization
 deviator
-dermaptera
 disnatured
 disnew
 discrimination
