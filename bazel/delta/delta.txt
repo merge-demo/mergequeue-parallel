@@ -14917,7 +14917,6 @@ dragline
 delinition
 disgraces
 drinkably
-decumbently
 denigratory
 docudramas
 document
@@ -17440,6 +17439,7 @@ dermopteran
 doorweed
 dropt
 dropwise
+decumbently
 dropwort
 deviationist
 damlike
