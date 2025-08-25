@@ -1884,6 +1884,7 @@ curs
 cambridge
 catostomidae
 chaumer
+cajava
 cambuca
 cambuscan
 came
@@ -12751,7 +12752,6 @@ centilitre
 chuje
 colewort
 chalta
-cajava
 complices
 chukchi
 chukka
