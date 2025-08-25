@@ -16300,7 +16300,6 @@ clinopodium
 conterminous
 constrainment
 commonplaceness
-curvilinear
 civilise
 chanst
 citronize
@@ -28265,6 +28264,7 @@ cratering
 comatik
 cerithioid
 chromites
+curvilinear
 craterless
 craterlet
 craterlike

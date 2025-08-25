@@ -8905,6 +8905,7 @@ domines
 dermatitis
 decaisnea
 dice
+decurrencies
 diceboard
 disp
 dilemi
@@ -17607,7 +17608,6 @@ drunkenwise
 dirtiest
 dryopteris
 drunker
-decurrencies
 duplicidentata
 dabbler
 dubitant
