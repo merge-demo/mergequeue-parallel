@@ -239,7 +239,6 @@ bellicosities
 boa
 bardism
 biddies
-bumpy
 bestraw
 baccilli
 baccivorous
@@ -13610,6 +13609,7 @@ berggylt
 blinded
 boulimia
 berate
+bumpy
 bornyl
 bailiffry
 boreades
