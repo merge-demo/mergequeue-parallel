@@ -15385,7 +15385,6 @@ bixa
 bono
 beflout
 benetted
-bludgeoner
 bifurcations
 boxthorns
 battledoring
@@ -17231,6 +17230,7 @@ blueball
 bumboat
 bumclock
 biguttulate
+bludgeoner
 batling
 boltings
 bakula
