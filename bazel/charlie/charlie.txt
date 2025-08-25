@@ -14041,7 +14041,6 @@ caziques
 cargador
 cyphosis
 compitum
-cipo
 conservatist
 cippus
 confirmative
@@ -29822,6 +29821,7 @@ crossband
 crossbanding
 canadianism
 crossbar
+cipo
 crossbars
 cerianthid
 compatience
