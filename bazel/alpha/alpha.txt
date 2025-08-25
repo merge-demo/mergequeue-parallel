@@ -2308,6 +2308,7 @@ acyesis
 altometer
 acanthopod
 amourist
+adapid
 acyetic
 albeit
 aciform
@@ -3309,7 +3310,6 @@ adance
 adansonia
 aircrews
 appeasableness
-adapid
 adapt
 anisospore
 apolytikion
