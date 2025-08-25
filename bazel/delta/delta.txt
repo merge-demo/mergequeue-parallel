@@ -2927,7 +2927,6 @@ dwindled
 dedogmatize
 discounted
 dedolation
-destinal
 dotingness
 diegesis
 diplasiasmus
@@ -15184,6 +15183,7 @@ discotheques
 darkeners
 dowdiness
 doctorship
+destinal
 dogmatize
 dogplate
 dogrib
