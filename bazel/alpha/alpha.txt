@@ -11781,7 +11781,6 @@ appreciable
 analogical
 amidomyelin
 analogise
-analogised
 anteroventral
 analogize
 analogon
@@ -25383,6 +25382,7 @@ aztecs
 angiosperm
 azthionium
 azulene
+analogised
 alarmable
 alumbloom
 adopter
