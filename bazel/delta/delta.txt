@@ -8568,7 +8568,6 @@ disponed
 diaphyseal
 discommodious
 dermographia
-diaphysis
 dracontiasis
 druggists
 diaphones
@@ -14855,6 +14854,7 @@ diocesian
 daggerlike
 dockets
 dyphone
+diaphysis
 dockhand
 dockhouse
 dilambdodont
