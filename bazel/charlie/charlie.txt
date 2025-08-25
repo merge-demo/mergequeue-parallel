@@ -2102,7 +2102,6 @@ campbellites
 clairvoyances
 costumery
 cixiid
-capriciousness
 campcraft
 cryal
 camped
@@ -28295,6 +28294,7 @@ circuitor
 crave
 craved
 craven
+capriciousness
 churchmen
 clans
 coheretic
