@@ -16687,6 +16687,7 @@ aphelian
 anthophagy
 audacity
 abstricts
+ajog
 aphemia
 ambidextrous
 aphemic
@@ -17143,7 +17144,6 @@ apologues
 apolousis
 apolune
 araneiform
-ajog
 anaerobian
 apolunes
 apolusis
