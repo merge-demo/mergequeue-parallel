@@ -2011,7 +2011,6 @@ chionanthus
 cornelian
 camooch
 camoodie
-cyperus
 commandants
 camorras
 camorrism
@@ -10276,6 +10275,7 @@ coccidioidomycosis
 chicha
 cheiroglossa
 chichevache
+cyperus
 chichi
 cremating
 canthus
