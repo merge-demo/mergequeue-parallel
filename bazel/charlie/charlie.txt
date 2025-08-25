@@ -228,7 +228,6 @@ clamworm
 coactions
 caccagogue
 confluxibility
-currency
 cacciatora
 capeador
 cacei
@@ -29571,6 +29570,7 @@ croatan
 confrontational
 crinion
 crocanthemum
+currency
 croceic
 croceine
 crocetin
