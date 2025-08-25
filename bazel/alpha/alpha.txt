@@ -6877,7 +6877,6 @@ acetaldehydrase
 aissor
 ait
 ashot
-antiferromagnet
 aitch
 asphaltene
 amazement
@@ -23324,6 +23323,7 @@ abbandono
 airs
 anticreative
 athyroid
+antiferromagnet
 audiotypist
 aceric
 amirates

@@ -4183,7 +4183,6 @@ delists
 delit
 demonstratorship
 dob
-dearn
 delitescent
 demibrassart
 deliverer
@@ -18029,6 +18028,7 @@ deporture
 dentelle
 dyers
 dulcifluous
+dearn
 defaitisme
 dulcigenic
 dehydrogenizer
