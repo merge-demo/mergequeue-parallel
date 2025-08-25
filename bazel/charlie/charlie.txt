@@ -4294,7 +4294,6 @@ caryatid
 caryatidal
 cigaresque
 caryatids
-caribal
 conserving
 cariban
 caribbean
@@ -25967,6 +25966,7 @@ clumbers
 chelidonian
 cryptomeria
 coseat
+caribal
 cosecant
 conducive
 cosecants
