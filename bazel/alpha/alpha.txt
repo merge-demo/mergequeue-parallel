@@ -4941,7 +4941,6 @@ arrhal
 aerophagia
 alphonsism
 aerophane
-aerophilately
 assumptions
 antipopularization
 affiliations
@@ -18065,6 +18064,7 @@ aquarelle
 aquarial
 armoring
 adepter
+aerophilately
 adversariness
 ambracan
 anemometers
