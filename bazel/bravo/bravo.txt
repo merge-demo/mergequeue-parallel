@@ -6588,7 +6588,6 @@ balnibarbi
 berattle
 bakehead
 borickite
-berberi
 breastrope
 bout
 biohazard
@@ -14991,6 +14990,7 @@ brimfull
 buro
 barelegged
 biosatellite
+berberi
 begift
 barraters
 breedable
