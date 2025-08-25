@@ -1497,7 +1497,6 @@ bespottedness
 beglad
 bemadamed
 ballades
-boser
 bacteremia
 booked
 borrow
@@ -10652,6 +10651,7 @@ bollies
 bishopscap
 bleaky
 buist
+boser
 bleakness
 bleaks
 browd
