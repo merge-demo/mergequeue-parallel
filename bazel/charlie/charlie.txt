@@ -14794,7 +14794,6 @@ cladodontid
 cytioderm
 cityscapes
 cytisine
-chamkanni
 couriers
 calocarpum
 citizeness
@@ -21945,6 +21944,7 @@ cymbella
 confidante
 copout
 coresort
+chamkanni
 confidants
 centaurs
 counterproductivity
