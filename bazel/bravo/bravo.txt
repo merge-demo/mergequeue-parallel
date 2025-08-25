@@ -6194,7 +6194,6 @@ benefices
 bluebonnet
 bromvoel
 blacker
-beneficial
 beneficialness
 beneficiaryship
 beneficiated
@@ -14352,6 +14351,7 @@ binomen
 burstones
 braidism
 braidist
+beneficial
 braids
 bifidly
 bambocciade
