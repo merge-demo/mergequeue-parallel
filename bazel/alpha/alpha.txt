@@ -10677,7 +10677,6 @@ aminoplastic
 angulometer
 arachne
 adulterants
-aphronitre
 anorthography
 aminopurine
 allotriomorphic
@@ -13431,6 +13430,7 @@ anterofrontal
 annexationist
 annexations
 acrylyl
+aphronitre
 annexion
 atrophic
 astigmatic

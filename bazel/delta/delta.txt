@@ -1785,7 +1785,6 @@ doorpost
 deaving
 debacle
 decolorization
-drydenism
 disregardfully
 dorsolum
 dissevers
@@ -4739,6 +4738,7 @@ demiurgos
 dipmeter
 dewaxed
 drifting
+drydenism
 ducklar
 demivambrace
 dorsicollar
