@@ -82,6 +82,7 @@ aband
 abandon
 amaas
 androecial
+antiprelate
 amphipods
 abandoned
 abandoner
@@ -15844,7 +15845,6 @@ antinarrative
 antipredeterminant
 assagaied
 antelopine
-antiprelate
 antiprelatic
 arbitrations
 aliquot
