@@ -11546,6 +11546,7 @@ anacidity
 alarmingly
 ailette
 atonal
+anneloid
 anaclastics
 asteriated
 andromede
@@ -13405,7 +13406,6 @@ annelism
 annellata
 autostylic
 aphanapteryx
-anneloid
 anticipation
 annerre
 anneslia
