@@ -7163,6 +7163,7 @@ aquabib
 alantolactone
 assimilability
 appleroot
+anger
 alares
 aspiring
 alary
@@ -12638,7 +12639,6 @@ akhmimic
 antimedicative
 agnamed
 angeluses
-anger
 angered
 adiaphoresis
 alvan
