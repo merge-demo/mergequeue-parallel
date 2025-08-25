@@ -7323,7 +7323,6 @@ cephalaspis
 cocoonery
 condurrite
 cephalate
-cephalhematoma
 coracovertebral
 cephalic
 chequering
@@ -29857,6 +29856,7 @@ crosscutting
 crosse
 crossed
 crossers
+cephalhematoma
 cutcha
 crossest
 catalpas
