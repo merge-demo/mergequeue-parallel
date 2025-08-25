@@ -5943,6 +5943,7 @@ dextrose
 declass
 defenses
 depressingly
+dollarleaf
 depressingness
 denuders
 desecrator
@@ -11821,7 +11822,6 @@ dandification
 demirep
 dismisses
 diplococcoid
-dollarleaf
 delabialize
 dissimulate
 duny
