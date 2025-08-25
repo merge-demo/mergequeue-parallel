@@ -1928,7 +1928,6 @@ bandsman
 bandstand
 beacon
 boronia
-beseechment
 bocaccios
 broadly
 bagnio
@@ -10399,6 +10398,7 @@ braggadocian
 ballooned
 briticism
 badling
+beseechment
 bronco
 bailwood
 brimborium
