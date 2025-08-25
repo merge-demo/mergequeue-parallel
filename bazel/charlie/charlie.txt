@@ -3205,7 +3205,6 @@ coquet
 concatenations
 cellvibrio
 cameleon
-capillitium
 capillose
 capilotade
 caping
@@ -17251,6 +17250,7 @@ coaler
 coalers
 crucifer
 coalescence
+capillitium
 cellarless
 coitions
 candlesnuffer
