@@ -1094,6 +1094,7 @@ ausubo
 aburban
 amphodelite
 aburton
+arulo
 artemisia
 atestine
 amphioxidae
@@ -18986,7 +18987,6 @@ archpirate
 adactylism
 archplagiarist
 asinine
-arulo
 archpolitician
 archprelate
 archprelatic
