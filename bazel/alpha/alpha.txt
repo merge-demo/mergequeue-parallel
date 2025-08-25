@@ -880,7 +880,6 @@ audiometric
 ascidium
 aures
 absyrtus
-amylon
 absis
 absistos
 anthrophore
@@ -22175,6 +22174,7 @@ antefixal
 argentoproteinum
 adrenolysis
 astriferous
+amylon
 autosoteric
 assorts
 astringed

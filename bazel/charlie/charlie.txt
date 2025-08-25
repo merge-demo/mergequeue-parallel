@@ -2549,7 +2549,6 @@ candles
 collaborated
 candleshine
 chaucerism
-candleshrift
 capitalizations
 cecidiology
 committeewoman
@@ -4477,6 +4476,7 @@ comales
 carminette
 corvetto
 controvertibly
+candleshrift
 carmot
 carn
 carnacian
