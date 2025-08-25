@@ -2783,6 +2783,7 @@ duodecahedron
 decrescent
 deknight
 devas
+draftees
 dichotomising
 decretalist
 dogey
@@ -14701,7 +14702,6 @@ dixain
 decentre
 dizain
 decameter
-draftees
 dora
 degradability
 disinvite
