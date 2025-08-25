@@ -5143,6 +5143,7 @@ cashbooks
 caesural
 cambism
 cravo
+contraversion
 cavendish
 continuando
 casheen
@@ -23805,7 +23806,6 @@ contravener
 cardueline
 chlorinous
 contravening
-contraversion
 contravindicate
 chaui
 contravindication
