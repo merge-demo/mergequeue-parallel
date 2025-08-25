@@ -871,7 +871,6 @@ bagdi
 bunters
 begoniaceae
 bicolour
-bagful
 barasingha
 baggagemaster
 bedamning
@@ -1126,6 +1125,7 @@ barkstone
 betrayals
 bedimmed
 boatload
+bagful
 brindled
 bluethroat
 brewmaster

@@ -23405,7 +23405,6 @@ caresses
 contect
 contection
 conteke
-corpselikeness
 contemned
 camletting
 contemnibly
@@ -25109,6 +25108,7 @@ corers
 cores
 carbonates
 chlorospinel
+corpselikeness
 catalects
 celtization
 coresign
