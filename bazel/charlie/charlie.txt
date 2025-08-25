@@ -8528,7 +8528,6 @@ comme
 categorical
 chanceful
 cadrans
-chancefulness
 chancey
 chanceled
 cardiacea
@@ -21320,6 +21319,7 @@ caldadaria
 compulsively
 conchyliated
 convolved
+chancefulness
 conchyliferous
 conchylium
 caerphilly

@@ -21901,7 +21901,6 @@ assurances
 astigmias
 assureds
 arthropodan
-assurer
 arthrotrauma
 arabesque
 anticeremonial
@@ -23833,6 +23832,7 @@ authoress
 authorhood
 acaridae
 authorisable
+assurer
 admonishing
 authorised
 acrobystitis
