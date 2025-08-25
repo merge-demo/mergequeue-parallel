@@ -1059,6 +1059,7 @@ boyaus
 basanite
 bersil
 boroughmaster
+berattle
 bailiwick
 bridler
 benzothiopyran
@@ -6578,7 +6579,6 @@ berates
 breakaway
 blastospheric
 balnibarbi
-berattle
 bakehead
 borickite
 breastrope
