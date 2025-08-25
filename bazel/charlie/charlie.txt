@@ -3246,7 +3246,6 @@ capitan
 capitana
 capitasti
 capitated
-capitatim
 cputime
 capitation
 casimere
@@ -4459,6 +4458,7 @@ clairaudient
 chroococcaceous
 carlo
 courages
+capitatim
 carloading
 combatants
 carlock
