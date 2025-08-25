@@ -5138,7 +5138,6 @@ cases
 catarrhally
 caseum
 caseweed
-cordis
 caseworks
 caseworm
 casha
@@ -19379,6 +19378,7 @@ coloproctitis
 coloptosis
 colopuncture
 coloquintid
+cordis
 craniotabes
 carousing
 cerotic
