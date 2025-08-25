@@ -5448,7 +5448,6 @@ chains
 cutaneal
 casuistically
 cyclopedia
-casuistry
 catpipe
 colic
 conductances
@@ -13618,6 +13617,7 @@ cymbocephalous
 cymbopogon
 cote
 cimbrian
+casuistry
 cotsetle
 cimbric
 canalised
