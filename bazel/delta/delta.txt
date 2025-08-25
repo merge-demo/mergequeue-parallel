@@ -2547,6 +2547,7 @@ dimmed
 dynasty
 declinatory
 declines
+diestruses
 declining
 directrices
 declivent
@@ -8798,7 +8799,6 @@ dragsmen
 diazoalkane
 depeter
 dragonkind
-diestruses
 diazoaminobenzene
 deftness
 dj
