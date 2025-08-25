@@ -8331,6 +8331,7 @@ decolourized
 disequalize
 diplogenetic
 disenactment
+doffing
 dialectal
 draftier
 duim
@@ -12772,7 +12773,6 @@ dislive
 diasporas
 dubbings
 difference
-doffing
 dislocability
 dosimetry
 dustcloth
