@@ -12584,6 +12584,7 @@ bedway
 bagie
 basinerved
 bonnetiere
+boutique
 bonnetlike
 bonnibel
 blurts
@@ -13736,7 +13737,6 @@ bouteria
 buns
 bet
 boutylka
-boutique
 beachfront
 boches
 bouto
