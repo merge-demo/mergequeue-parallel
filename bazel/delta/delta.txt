@@ -10801,7 +10801,6 @@ dipterocarpaceae
 dartingly
 dipterocarpaceous
 deportee
-dipterocarpous
 dipterocarpus
 delay
 divas
@@ -13246,6 +13245,7 @@ decentralization
 displeasant
 dechloridizing
 displeasedly
+dipterocarpous
 decelerometer
 dielec
 disreverence
