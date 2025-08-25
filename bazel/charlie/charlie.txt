@@ -3052,6 +3052,7 @@ canulates
 comatic
 canun
 canvas
+curbing
 chaffinches
 chiasmodon
 croppa
@@ -12810,7 +12811,6 @@ chumships
 clonism
 cicindelidae
 chumulu
-curbing
 coelogastrula
 cantharophilous
 chaenactis
