@@ -14018,6 +14018,7 @@ anapests
 antimission
 academize
 antedorsal
+anatomising
 antefact
 animadverting
 autocrat
@@ -22926,7 +22927,6 @@ attacheship
 administrating
 abaft
 alcazava
-anatomising
 alumium
 arterialisation
 atrabiliousness
