@@ -301,7 +301,6 @@ acquiescent
 abducens
 abducentes
 abduces
-articulate
 atonic
 apothece
 abducted
@@ -15416,6 +15415,7 @@ antimerina
 antimerism
 antimesia
 archetypically
+articulate
 antimetathetic
 azonic
 aeschynite
