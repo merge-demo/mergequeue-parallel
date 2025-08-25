@@ -375,6 +375,7 @@ avoyer
 abesse
 abetments
 ambulant
+adipate
 andesitic
 arsenide
 abetted
@@ -3773,7 +3774,6 @@ anguineous
 adynamia
 adion
 adios
-adipate
 amphitruo
 amphithuron
 acetabuliform
