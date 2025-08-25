@@ -592,7 +592,6 @@ caryocaraceae
 caduke
 cadwal
 chiromegaly
-coffees
 callaesthetic
 calimanco
 cadwallader
@@ -22338,6 +22337,7 @@ clustery
 curacaos
 congressing
 congressionalist
+coffees
 congressionally
 corolla
 complementally
