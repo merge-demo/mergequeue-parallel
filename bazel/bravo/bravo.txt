@@ -9660,6 +9660,7 @@ boolies
 bisischiatic
 bauera
 bisk
+breathily
 bisks
 bysmalith
 bismark
@@ -15343,7 +15344,6 @@ bombe
 bistros
 baronetcy
 benzylidene
-breathily
 brulyiement
 beaveries
 boisseau
