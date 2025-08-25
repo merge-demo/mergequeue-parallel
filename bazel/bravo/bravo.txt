@@ -13914,7 +13914,6 @@ biochemist
 bowsman
 bown
 botanomancy
-bows
 brontograph
 bowsaw
 bowsed
@@ -14800,6 +14799,7 @@ blindling
 breachful
 briefcases
 breadbasket
+bows
 bearability
 budges
 backstretch
