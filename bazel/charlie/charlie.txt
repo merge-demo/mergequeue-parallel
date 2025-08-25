@@ -16670,6 +16670,7 @@ concussant
 clubbiest
 colleagueship
 cyanosis
+colera
 clem
 conglution
 closehanded
@@ -18822,7 +18823,6 @@ coleoptilum
 chapfallen
 chayote
 coleosporium
-colera
 coles
 coleslaw
 cenobian
