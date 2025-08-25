@@ -10670,6 +10670,7 @@ cytoplasmic
 chimes
 chymes
 caseoses
+corkwoods
 ctenophorous
 coprolite
 compassless
@@ -14416,7 +14417,6 @@ cocontractor
 circumvallate
 circumvallated
 circumvallating
-corkwoods
 crepitant
 circumvallation
 circumvented
