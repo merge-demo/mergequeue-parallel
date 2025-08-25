@@ -9669,7 +9669,6 @@ caramba
 cognizably
 concursus
 cheeselep
-cheeselip
 cephalochorda
 cheesemaker
 cheesemongery
@@ -25626,6 +25625,7 @@ colombian
 confinedness
 completed
 corpuscularity
+cheeselip
 corpuscule
 corpusculous
 concedes
