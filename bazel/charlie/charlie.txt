@@ -25670,7 +25670,6 @@ countertripping
 correlates
 chimbe
 champa
-crabapple
 cumquat
 correlatives
 contiguate
@@ -30831,6 +30830,7 @@ covalence
 culming
 culms
 corneocalcareous
+crabapple
 cleithrum
 copaline
 culot
