@@ -3456,7 +3456,6 @@ anybodyd
 antthrush
 addressful
 addressing
-acanthocephalan
 addressograph
 amalgamator
 avaradrano
@@ -15183,6 +15182,7 @@ antiforeignism
 afrown
 antiformin
 animater
+acanthocephalan
 antifouling
 antihydropin
 amercements
