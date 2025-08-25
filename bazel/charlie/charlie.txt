@@ -452,6 +452,7 @@ cacuminous
 cacur
 cad
 catholic
+coagulose
 caudated
 cryptocrystalline
 cadaster
@@ -17225,7 +17226,6 @@ coracobrachial
 coaguline
 cestoidea
 coagulometer
-coagulose
 coahuiltecan
 counterreason
 cantic
