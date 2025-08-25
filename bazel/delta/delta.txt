@@ -1721,6 +1721,7 @@ deformedness
 deluged
 depressiveness
 dornecks
+desulphur
 devastate
 deasil
 dearness
@@ -7164,7 +7165,6 @@ dynamometric
 depictor
 desulfurs
 daphnetin
-desulphur
 desulphurate
 delatorian
 desulphurised
