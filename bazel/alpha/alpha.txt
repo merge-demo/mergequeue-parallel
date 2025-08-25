@@ -2151,7 +2151,6 @@ achondroplasia
 abatjours
 agrostology
 achordal
-alqueire
 amyelotrophy
 achordata
 achordate
@@ -21538,6 +21537,7 @@ argyroneta
 assayed
 agnatic
 amorist
+alqueire
 ascribed
 assayers
 assaying
