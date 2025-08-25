@@ -15921,7 +15921,6 @@ clemencies
 clement
 clementina
 clemently
-clementness
 caballine
 clench
 carbamino
@@ -21471,6 +21470,7 @@ carcavelhos
 commands
 corporacies
 curliewurly
+clementness
 cardiophobia
 concordances
 cantalas
