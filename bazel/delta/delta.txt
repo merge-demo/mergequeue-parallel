@@ -370,7 +370,6 @@ duoviri
 decise
 devise
 desalters
-dayman
 droughtiness
 detruss
 daymares
@@ -5796,6 +5795,7 @@ decasualizing
 depolymerize
 deadpay
 depolish
+dayman
 davened
 depolished
 deaconed
