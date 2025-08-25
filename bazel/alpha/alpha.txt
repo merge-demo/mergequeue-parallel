@@ -5365,6 +5365,7 @@ aspout
 anthomania
 antirestoration
 astylosternus
+ampoules
 africanize
 africanoid
 affrettando
@@ -19855,7 +19856,6 @@ armor
 armoracia
 akuammin
 adonises
-ampoules
 alastors
 armorials
 armoric
