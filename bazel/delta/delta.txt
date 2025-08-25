@@ -9249,7 +9249,6 @@ disparately
 dismerit
 demasculinised
 depender
-devolve
 discontinuor
 drosophilidae
 debarkation
@@ -11851,6 +11850,7 @@ demele
 dyscrinism
 dipchick
 discrowned
+devolve
 dormitary
 discrowns
 daydreamed
