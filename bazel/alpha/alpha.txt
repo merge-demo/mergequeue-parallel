@@ -9377,7 +9377,6 @@ amylome
 avoir
 alsmekill
 alsophila
-adamitic
 alstonia
 amphiblastic
 alstonite
@@ -15004,6 +15003,7 @@ antidepressant
 antidetonant
 anociassociation
 antidetonating
+adamitic
 actuose
 aletaster
 antidictionary
