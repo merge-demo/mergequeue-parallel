@@ -7660,6 +7660,7 @@ diswarn
 developing
 didelphis
 dysmenorrhagia
+disobstruct
 development
 developmental
 developmentally
@@ -15056,7 +15057,6 @@ diaspinae
 disarmature
 domiciliate
 dogmatics
-disobstruct
 dogbanes
 domestics
 dogberry
