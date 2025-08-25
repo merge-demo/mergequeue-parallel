@@ -504,7 +504,6 @@ assonantal
 acidities
 agomphiasis
 amphineurous
-abjurations
 abjurement
 abjurer
 abjurers
@@ -14061,6 +14060,7 @@ antennae
 antennary
 amazers
 antennariid
+abjurations
 antennariidae
 antennata
 antennate
