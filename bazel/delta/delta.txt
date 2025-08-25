@@ -3807,6 +3807,7 @@ dismutation
 deictical
 dissevered
 decommissions
+dodecahedric
 devilkin
 dreissiger
 dunno
@@ -16938,7 +16939,6 @@ dreamhole
 dipladenia
 discriminations
 doubletone
-dodecahedric
 distortable
 damewort
 displacing
