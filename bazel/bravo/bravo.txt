@@ -11347,7 +11347,6 @@ bluntest
 bonds
 bedcap
 blubberers
-bengaline
 balanism
 bestialising
 bankable
@@ -17792,6 +17791,7 @@ bambini
 bundobust
 bursae
 bursary
+bengaline
 backstroked
 bacterizing
 brave
