@@ -10121,6 +10121,7 @@ bacchant
 berbers
 bootleggers
 buphthalmia
+brontogram
 bedells
 bloodguilty
 blackbird
@@ -12539,7 +12540,6 @@ barnage
 balsamroot
 bourgeoning
 brails
-brontogram
 boniface
 birding
 bolshevik
