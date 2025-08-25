@@ -5126,6 +5126,7 @@ caseolysis
 caseose
 caseous
 caserios
+cartway
 chronal
 cyphering
 caserne
@@ -22786,7 +22787,6 @@ consensually
 cycadofilicale
 cordwainery
 cytology
-cartway
 catnapped
 crinid
 caffeine
