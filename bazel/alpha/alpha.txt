@@ -5348,7 +5348,6 @@ apocatastasis
 afoul
 afray
 athrocytosis
-antisymmetrical
 anticensoriousness
 aspirator
 afrasia
@@ -13545,6 +13544,7 @@ annuloid
 autoaddress
 akaakai
 apostasis
+antisymmetrical
 annulosa
 annuls
 annumerate
