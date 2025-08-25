@@ -11128,7 +11128,6 @@ chivarra
 chive
 cinecamera
 chivey
-cephalanthium
 chiliadal
 coronitis
 caboclos
@@ -11526,6 +11525,7 @@ congenetic
 choker
 cratonic
 clipsheet
+cephalanthium
 congelifraction
 coosify
 chokered
