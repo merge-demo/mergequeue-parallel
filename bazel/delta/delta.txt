@@ -3027,6 +3027,7 @@ dowress
 decarbonized
 desegregation
 deers
+deoxygenized
 deerstalkers
 detailist
 deep
@@ -5578,7 +5579,6 @@ dorper
 depancreatize
 drawrod
 drainermen
-deoxygenized
 demicolumn
 depascent
 datafile
