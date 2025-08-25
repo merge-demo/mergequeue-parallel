@@ -77,7 +77,6 @@ abalones
 abama
 antisquama
 archineuron
-abecedary
 aband
 abandon
 amaas
@@ -12002,6 +12001,7 @@ anatases
 actionized
 abattoir
 anatexis
+abecedary
 ancestress
 apogamically
 aspartate
