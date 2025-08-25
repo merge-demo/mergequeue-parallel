@@ -3244,7 +3244,6 @@ diplococcocci
 departs
 defibrillated
 dominants
-defibrillating
 dalles
 doty
 deteriority
@@ -14961,6 +14960,7 @@ dodderers
 dodders
 doddie
 dodecade
+defibrillating
 dallas
 dodecafid
 debilities
