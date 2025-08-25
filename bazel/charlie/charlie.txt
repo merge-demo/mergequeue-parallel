@@ -2538,7 +2538,6 @@ candlemas
 crewel
 childproof
 cacqueteuse
-candlenut
 candlepins
 chemist
 cerevis
@@ -29956,6 +29955,7 @@ conserves
 craniotomies
 choromania
 crotaphite
+candlenut
 chartism
 cytinus
 crotaphitic
