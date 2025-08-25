@@ -662,7 +662,6 @@ ditroite
 damon
 damosel
 drachms
-divorcement
 decapitalize
 damped
 decemviri
@@ -5643,6 +5642,7 @@ deflated
 dacelo
 defrauded
 discouraging
+divorcement
 deathwatches
 duddy
 dei
