@@ -3457,6 +3457,7 @@ ceruses
 capsicums
 carvacrol
 capsid
+cavaedia
 coumarous
 chylosis
 competencies
@@ -7199,7 +7200,6 @@ centrifuging
 coffeehousing
 centring
 clivia
-cavaedia
 centriole
 chalazogam
 codebreak
