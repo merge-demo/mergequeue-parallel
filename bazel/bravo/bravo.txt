@@ -4298,7 +4298,6 @@ blubbers
 bushbodies
 batiker
 boebera
-barly
 becall
 becalm
 becalming
@@ -7347,6 +7346,7 @@ bookmaker
 bethorning
 buffcoat
 beckiron
+barly
 blanketmaking
 basest
 biorhythmicities
