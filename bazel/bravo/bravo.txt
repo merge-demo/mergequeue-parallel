@@ -1377,6 +1377,7 @@ baldcrown
 balded
 balder
 baldfaced
+bharal
 bebed
 bolloxing
 bruisewort
@@ -7714,7 +7715,6 @@ boomy
 besin
 behavioral
 bhangi
-bharal
 bhat
 burglaries
 bunning
