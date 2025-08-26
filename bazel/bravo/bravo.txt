@@ -2943,6 +2943,7 @@ boundaries
 boobishness
 blobby
 barricaded
+bookable
 barricaders
 barricadoes
 blayk
@@ -8624,7 +8625,6 @@ billionth
 braggartism
 brethel
 beldames
-bookable
 brightsomeness
 bowling
 bryales
