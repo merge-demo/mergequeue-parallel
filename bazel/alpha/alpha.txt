@@ -4106,7 +4106,6 @@ aphrasia
 aromatites
 adjag
 adderwort
-apoapsis
 armorers
 anabaptistically
 arock
@@ -6944,6 +6943,7 @@ abdominovesical
 alphabetism
 ake
 appraisingly
+apoapsis
 akebia
 actinia
 adoniram
