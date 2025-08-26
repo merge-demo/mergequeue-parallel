@@ -10411,6 +10411,7 @@ cryptometer
 chiffonnier
 chiffonnieres
 conchinin
+crumply
 chiffons
 continuable
 chifforobe
@@ -30256,7 +30257,6 @@ crumping
 compressions
 crumpled
 chorten
-crumply
 cargoose
 crumps
 convoluted

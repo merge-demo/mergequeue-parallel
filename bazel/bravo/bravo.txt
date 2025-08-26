@@ -5741,7 +5741,6 @@ beliers
 benzacridine
 blemishing
 belies
-braziery
 believability
 believer
 believers
@@ -17363,6 +17362,7 @@ baetylic
 blencorn
 bungtown
 blithered
+braziery
 bungwall
 bacillemia
 breeding
