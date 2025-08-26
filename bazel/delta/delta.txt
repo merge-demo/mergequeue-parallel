@@ -3436,6 +3436,7 @@ dang
 defoamed
 diacetylmorphine
 damozels
+desisting
 defoamer
 dryer
 doltishness
@@ -17576,7 +17577,6 @@ decolour
 disassimilation
 dynamiter
 drumliest
-desisting
 drumline
 disappeared
 drumlinoid
