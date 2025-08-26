@@ -7366,6 +7366,7 @@ cephalomeningitis
 compute
 cleansing
 cephalomere
+chipling
 cyclostylar
 cephalometric
 clysis
@@ -12957,7 +12958,6 @@ cyanamid
 cookies
 conspires
 coextension
-chipling
 coaxially
 cyanate
 cyanates
