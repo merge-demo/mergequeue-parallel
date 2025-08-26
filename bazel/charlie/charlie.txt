@@ -14813,6 +14813,7 @@ chameleons
 chararas
 cytochrome
 cytocyst
+cocoon
 cytoclasis
 caluptra
 cytoclastic
@@ -17747,7 +17748,6 @@ contramure
 coconuco
 coconut
 coconuts
-cocoon
 cocooneries
 charterable
 crimeless
