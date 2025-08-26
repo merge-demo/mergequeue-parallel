@@ -2501,6 +2501,7 @@ borscht
 beruffled
 barghests
 boccia
+bunkie
 blueblack
 beslash
 bassetite
@@ -17409,7 +17410,6 @@ burgoyne
 balsawood
 bewearying
 brocage
-bunkie
 bandwork
 baccalaureat
 boccies
