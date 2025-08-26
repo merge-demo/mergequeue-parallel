@@ -12640,7 +12640,6 @@ arks
 affaires
 akhmimic
 antimedicative
-agnamed
 angeluses
 anger
 angered
@@ -15694,6 +15693,7 @@ anaphoras
 antiperistalsis
 antiperistatic
 apaches
+agnamed
 antiperistatical
 antiperspirant
 allodification
