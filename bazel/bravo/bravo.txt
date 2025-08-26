@@ -15476,7 +15476,6 @@ balaghaut
 byliners
 bestreak
 bromidic
-beclothing
 bionts
 brinksmanship
 bassorin
@@ -16313,6 +16312,7 @@ broadways
 beefaloes
 biter
 bananalander
+beclothing
 brulee
 beknottedness
 basil

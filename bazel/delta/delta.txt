@@ -11053,6 +11053,7 @@ dodecasyllabic
 disaltern
 dobbers
 diaka
+decurrency
 divides
 deanthropomorphic
 dialyphyllous
@@ -14521,7 +14522,6 @@ dextrogyrous
 divertissements
 divertive
 diverts
-decurrency
 deferment
 divested
 determinist
