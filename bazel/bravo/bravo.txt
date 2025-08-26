@@ -6001,6 +6001,7 @@ belonoid
 blocs
 belvedere
 bluewood
+biltongs
 belvedered
 blueblossom
 bridaler
@@ -17195,7 +17196,6 @@ basidigitalia
 batardeau
 bulten
 borsch
-biltongs
 bulwarked
 blanketers
 bowboy
