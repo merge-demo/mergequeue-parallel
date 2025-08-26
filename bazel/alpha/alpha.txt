@@ -4311,7 +4311,6 @@ adulator
 antireacting
 adullamite
 affrayer
-adult
 abencerrages
 adulterant
 adulterated
@@ -6416,6 +6415,7 @@ anticryptically
 ahistoric
 alternant
 autunian
+adult
 animalian
 amphicarpous
 ahmadi
