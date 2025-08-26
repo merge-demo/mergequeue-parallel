@@ -2497,6 +2497,7 @@ aecidia
 acorus
 acosmist
 annunciative
+autoformation
 athecata
 acost
 aircoach
@@ -15527,7 +15528,6 @@ acrostichum
 antimusicalness
 antinarcotic
 antinarcotics
-autoformation
 areoles
 antispasmodics
 acromegalia
