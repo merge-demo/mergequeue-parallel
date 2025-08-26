@@ -10010,7 +10010,6 @@ copartaker
 clansmanship
 ceremonialists
 chalcon
-catepuce
 coffles
 cheries
 cosmotron
@@ -17035,6 +17034,7 @@ cnemidium
 cnemis
 cytotrophy
 cnicin
+catepuce
 cnidae
 cnidarian
 cnidian
