@@ -13552,6 +13552,7 @@ dissait
 diblastula
 dissatisfaction
 dissatisfactions
+devisal
 dissatisfactory
 dissatisfiedly
 doubleleaf
@@ -16201,7 +16202,6 @@ doo
 dovened
 deoxygenize
 drewite
-devisal
 dovening
 demicanton
 desireless
