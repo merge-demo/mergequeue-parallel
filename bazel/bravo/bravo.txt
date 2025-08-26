@@ -5605,7 +5605,6 @@ beknighted
 ballistite
 beknotted
 burrio
-brassicaceous
 bacchuslike
 beknottedly
 basophile
@@ -13612,6 +13611,7 @@ blinded
 boulimia
 berate
 bred
+brassicaceous
 bornyl
 bailiffry
 boreades
