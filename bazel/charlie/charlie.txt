@@ -16476,6 +16476,7 @@ curvicostate
 cloamen
 christliness
 celebrious
+chimane
 cursores
 clobber
 clobbered
@@ -23330,7 +23331,6 @@ cromorna
 curving
 carua
 coarsen
-chimane
 contactant
 circumstantiations
 contactile
