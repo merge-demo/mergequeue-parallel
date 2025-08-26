@@ -732,7 +732,6 @@ cageman
 cager
 characterical
 causations
-cleaning
 corners
 chasselas
 cocoa
@@ -4755,6 +4754,7 @@ carpophyte
 companions
 covariables
 cynosarges
+cleaning
 carpopodite
 carpopoditic
 coordinating
