@@ -4606,6 +4606,7 @@ autocriticism
 amphibologically
 aegemony
 aeger
+aristological
 architectural
 apneal
 agmatology
@@ -19645,7 +19646,6 @@ aristolochin
 aristology
 anamite
 anglesmith
-aristological
 aristologist
 aristomonarchy
 aristophanic
