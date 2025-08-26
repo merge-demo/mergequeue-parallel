@@ -736,7 +736,6 @@ dandydom
 dacryosolenitis
 dishabilitation
 dandie
-doubtless
 depeche
 dandier
 drybrained
@@ -2121,6 +2120,7 @@ debaser
 didst
 desiredness
 decandrous
+doubtless
 discrepate
 decane
 dromedary
