@@ -2626,7 +2626,6 @@ decompensating
 decompensations
 dasylirion
 doorkeeper
-decompiler
 deviceful
 decomposer
 debrief
@@ -9156,6 +9155,7 @@ didie
 didies
 defamed
 didym
+decompiler
 devirgination
 didymate
 depressives
