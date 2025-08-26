@@ -4999,7 +4999,6 @@ albruna
 allantoidal
 aerotonometric
 antepagmenta
-allantois
 aeruginous
 aerugo
 aerugos
@@ -24966,6 +24965,7 @@ arnotta
 awfuller
 archicoele
 awhape
+allantois
 abdali
 awheft
 antheriferous

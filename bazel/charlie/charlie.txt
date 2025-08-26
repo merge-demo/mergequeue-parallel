@@ -21273,7 +21273,6 @@ concessional
 chausseemeile
 concessions
 concessit
-craniate
 computerite
 concessor
 concessory
@@ -28249,6 +28248,7 @@ conine
 cephalothoracic
 carabineer
 cabotages
+craniate
 crateriform
 cratering
 comatik
