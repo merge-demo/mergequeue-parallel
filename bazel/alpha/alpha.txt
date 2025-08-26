@@ -1235,7 +1235,6 @@ acanthuridae
 argyric
 acanthuthi
 acronymically
-acapu
 afflictions
 articulator
 adelite
@@ -4410,6 +4409,7 @@ adventitial
 arquifoux
 aerobiotically
 antiopiumite
+acapu
 adventitious
 adventitiousness
 adventively
