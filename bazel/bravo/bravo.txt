@@ -958,7 +958,6 @@ bagwyn
 bustier
 bagwork
 baker
-bahadur
 beverage
 basiophthalmite
 bahay
@@ -7568,6 +7567,7 @@ bewary
 bewaste
 beweary
 besottedness
+bahadur
 botflies
 brainworker
 bulkin
