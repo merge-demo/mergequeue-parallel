@@ -4521,7 +4521,6 @@ carnets
 carny
 coccostean
 capsule
-cotoxo
 clapperdudgeon
 carnied
 carniferrin
@@ -16762,6 +16761,7 @@ colouristic
 couthy
 cloudy
 cloudiest
+cotoxo
 cloudily
 cloudiness
 clouding
