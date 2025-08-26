@@ -19675,7 +19675,6 @@ arithmomancy
 arivaipa
 amphoral
 arizonian
-anhistous
 arizonians
 arizonite
 achigan
@@ -20606,6 +20605,7 @@ articularly
 articulars
 articulata
 alcantara
+anhistous
 articulated
 articulately
 adjudgeable
