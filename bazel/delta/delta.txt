@@ -2431,7 +2431,6 @@ diaeresis
 decipherability
 doughs
 dand
-devilled
 deucing
 disintegrative
 decipherably
@@ -14221,6 +14220,7 @@ disunites
 dithyrambic
 disprofess
 deteriorism
+devilled
 demobilizing
 deeds
 delegation
