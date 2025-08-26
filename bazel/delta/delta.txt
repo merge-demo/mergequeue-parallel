@@ -1919,7 +1919,6 @@ deciphers
 debriefing
 dowser
 danzig
-didus
 dissenterism
 dances
 debris
@@ -5299,6 +5298,7 @@ deligated
 decolourize
 drammer
 dytiscidae
+didus
 density
 defat
 degasifier
