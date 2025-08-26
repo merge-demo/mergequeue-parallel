@@ -512,7 +512,6 @@ ashtrays
 abl
 ablach
 asperities
-ablastous
 ablated
 ablates
 astroite
@@ -4294,6 +4293,7 @@ aduana
 arrestor
 adularescence
 assertorial
+ablastous
 arthritic
 ankylomerism
 anilidoxime
