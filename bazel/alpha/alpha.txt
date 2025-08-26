@@ -4777,6 +4777,7 @@ almucantar
 ashlered
 absterse
 anatolic
+alcids
 aspidobranchia
 aviatrix
 asideness
@@ -23163,7 +23164,6 @@ adipogenous
 attractor
 asterias
 apneumatic
-alcids
 antship
 acardite
 anglophobic
