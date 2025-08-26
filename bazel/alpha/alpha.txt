@@ -7527,6 +7527,7 @@ auxographic
 alcestis
 atrocity
 agau
+archduxe
 asylum
 arrhythmical
 alchemy
@@ -8901,7 +8902,6 @@ allopalladium
 allopathetic
 achievers
 allopathic
-archduxe
 actiniaria
 allopathically
 allopathist
