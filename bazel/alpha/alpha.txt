@@ -5862,7 +5862,6 @@ aggrandizable
 afterglows
 aggrandize
 aggrandizement
-assiento
 athlete
 arborization
 anither
@@ -8660,6 +8659,7 @@ allelotropy
 allelotropic
 attendantly
 aldehydase
+assiento
 allelotropism
 alleluia
 applesauce

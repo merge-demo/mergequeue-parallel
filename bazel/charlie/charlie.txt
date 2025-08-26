@@ -6832,7 +6832,6 @@ cellulitis
 cellulofibrous
 celluloid
 carby
-confabbing
 cellulomonadeae
 chemotherapeutical
 chartaceous
@@ -21856,6 +21855,7 @@ confection
 confectionary
 confectioner
 continues
+confabbing
 confed
 confederalist
 confederate
