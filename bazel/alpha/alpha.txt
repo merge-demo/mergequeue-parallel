@@ -4791,6 +4791,7 @@ arrogates
 arkwright
 aerodynamical
 aerodynamically
+anchoritism
 appoggiatura
 amphibiology
 aloma
@@ -17925,7 +17926,6 @@ appt
 arteriotomy
 aggrandise
 alemonger
-anchoritism
 agt
 agnomination
 arnatta
