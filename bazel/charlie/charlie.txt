@@ -2880,7 +2880,6 @@ chartophylaxes
 congenialize
 cant
 connectionless
-compar
 crayfish
 cantabank
 canonic
@@ -3578,6 +3577,7 @@ carabidan
 carabidoid
 carabids
 cappy
+compar
 colorist
 carabine
 carabiner
