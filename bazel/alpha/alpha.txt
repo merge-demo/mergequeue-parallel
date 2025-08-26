@@ -16701,7 +16701,6 @@ aphanitic
 aphetize
 armours
 aphidivorous
-autoradiographic
 aphidlion
 aphidolysin
 aphidozer
@@ -23207,6 +23206,7 @@ attunes
 apteryges
 ablation
 atua
+autoradiographic
 atule
 angiocardiographic
 abessive
