@@ -6394,7 +6394,6 @@ ceratites
 curvinervate
 ciboules
 cavayard
-cavalcaded
 cavalcades
 cardinalist
 curarizes
@@ -11500,6 +11499,7 @@ costless
 chokage
 chairer
 chokeberry
+cavalcaded
 certif
 coddling
 catastrophically
