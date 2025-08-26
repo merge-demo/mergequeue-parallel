@@ -5063,7 +5063,6 @@ denationalise
 dexiocardia
 decaesarize
 densification
-dayal
 denaturalised
 denaturalising
 denaturalized
@@ -8853,6 +8852,7 @@ dibbled
 degame
 dybbuk
 dominantly
+dayal
 decentralized
 dibbuks
 defied
