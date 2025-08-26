@@ -5043,7 +5043,6 @@ bhunder
 beetlike
 brumbee
 babism
-beetrave
 beetrooty
 bristle
 branchiosaur
@@ -17013,6 +17012,7 @@ befavour
 beachlamar
 bihydrazine
 bulkish
+beetrave
 bull
 boiette
 biocoenosis
