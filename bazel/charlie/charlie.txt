@@ -9384,6 +9384,7 @@ cumbrance
 colds
 chavante
 chavel
+cursiveness
 chavender
 compart
 chavicin
@@ -12121,7 +12122,6 @@ chows
 causer
 crambo
 chancellorate
-cursiveness
 chowses
 carbarn
 chowtime
