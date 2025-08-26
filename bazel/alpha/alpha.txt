@@ -1458,7 +1458,6 @@ acclimatiser
 acclimatising
 allgood
 aegagrus
-agnate
 algid
 alpinery
 acclimatizer
@@ -8267,6 +8266,7 @@ arundinaceous
 alimentariness
 austrophilism
 alimentation
+agnate
 amusgo
 alimentativeness
 arsenium
