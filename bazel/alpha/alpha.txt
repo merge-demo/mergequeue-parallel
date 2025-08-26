@@ -2024,7 +2024,6 @@ alkalinising
 acheat
 artemisin
 affiliation
-anammonid
 altitudinal
 acheiria
 aboveboard
@@ -6963,6 +6962,7 @@ akeley
 airworthier
 adjiga
 adhibited
+anammonid
 antalgesic
 asporogenous
 arthropathy
