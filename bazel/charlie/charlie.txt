@@ -16154,7 +16154,6 @@ climate
 climates
 corporatively
 climatic
-climatius
 climatize
 climatographical
 climatology
@@ -17294,6 +17293,7 @@ conflux
 coan
 cheliceral
 cotangential
+climatius
 coanimate
 concretes
 cephalemia
