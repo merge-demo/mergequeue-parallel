@@ -9900,7 +9900,6 @@ desilicification
 dace
 dimensionally
 dimensioning
-degummer
 disangularize
 diphenyl
 dimer
@@ -11457,6 +11456,7 @@ dispauper
 dollar
 deoccidentalize
 discoactine
+degummer
 documentation
 diallages
 deedeed
