@@ -227,6 +227,7 @@ daftberry
 denticate
 diarrhoea
 dojos
+dispatcher
 dorstenia
 daftest
 donees
@@ -6964,7 +6965,6 @@ disentrancement
 despisable
 dorcas
 dont
-dispatcher
 digitron
 dartrous
 despisableness
