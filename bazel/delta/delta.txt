@@ -14468,6 +14468,7 @@ dhoul
 deindividuate
 diversity
 dambose
+doubleton
 datedness
 demeter
 diversory
@@ -18360,7 +18361,6 @@ dasi
 duodedenums
 dystopias
 duodena
-doubleton
 defends
 declension
 degelation
