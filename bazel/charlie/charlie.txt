@@ -4926,6 +4926,7 @@ coulometry
 cartist
 cartloads
 clicket
+credo
 cartmaking
 cartobibliography
 columbia
@@ -23534,7 +23535,6 @@ cochranea
 contingence
 carpenter
 calving
-credo
 contingential
 contingentialness
 contingently
