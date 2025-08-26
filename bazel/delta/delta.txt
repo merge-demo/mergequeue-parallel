@@ -14240,6 +14240,7 @@ deathful
 disuse
 disbranching
 discloak
+dastardize
 disuses
 disutility
 disinsection
@@ -16505,7 +16506,6 @@ divulges
 drachen
 devolatilisation
 dracin
-dastardize
 dollhouse
 darken
 depicters
