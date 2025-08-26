@@ -13203,7 +13203,6 @@ demonophobia
 desiccations
 disguisement
 dysphonia
-dysphotic
 dysphrasia
 diabolonian
 detrimental
@@ -17655,6 +17654,7 @@ dicranterian
 discourteously
 dtente
 diplococci
+dysphotic
 diplohedral
 draftee
 disapprobation
