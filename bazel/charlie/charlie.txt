@@ -22943,6 +22943,7 @@ consistences
 consistency
 catalytic
 chemotherapies
+compressedly
 companioning
 clinodome
 consistencies
@@ -27060,7 +27061,6 @@ counterroll
 counterround
 counters
 crotchety
-compressedly
 causability
 counterscalloped
 carpent
