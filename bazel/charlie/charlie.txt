@@ -13516,7 +13516,6 @@ cylindricule
 cylindriform
 calpack
 cylindrocylindric
-curiatii
 counterfeiter
 coughroot
 craniad
@@ -26576,6 +26575,7 @@ cognise
 coked
 cozener
 counite
+curiatii
 conventionalisation
 counsel
 counterpanes
