@@ -2918,7 +2918,6 @@ ducatus
 divagation
 dansk
 dedifferentiated
-dedifferentiating
 dedignation
 depredations
 developist
@@ -15952,6 +15951,7 @@ dehairer
 doped
 darjeeling
 dakerhens
+dedifferentiating
 dorcatherium
 dosis
 deepeningly
