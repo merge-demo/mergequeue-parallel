@@ -549,7 +549,6 @@ ballyhooing
 blokes
 backtenter
 beggingwise
-blennioid
 backtracking
 backtracks
 backout
@@ -15965,6 +15964,7 @@ bronchotomy
 bersaglieri
 braggardism
 bestrewing
+blennioid
 bowess
 bronchotyphus
 bronchotome
