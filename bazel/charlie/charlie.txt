@@ -334,7 +334,6 @@ cacodemonize
 cacodemonomania
 cacodyl
 cedrium
-claustrophobic
 chevrette
 craney
 cornified
@@ -21246,6 +21245,7 @@ charismas
 concertini
 concertinist
 closeups
+claustrophobic
 cordiform
 counterfeited
 concertino
