@@ -6400,6 +6400,7 @@ cardinalist
 curarizes
 cavalier
 cavaliere
+cloxacillin
 choregic
 cation
 contraorbitally
@@ -22195,7 +22196,6 @@ connusable
 characterizer
 campanularian
 choicer
-cloxacillin
 collarman
 courlans
 congeed
