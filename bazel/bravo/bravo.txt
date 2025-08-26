@@ -1317,7 +1317,6 @@ balanta
 bescorn
 bottine
 balantidic
-bearlike
 balaos
 benzamino
 barbed
@@ -18092,6 +18091,7 @@ bibliopegistical
 butanols
 bind
 bergander
+bearlike
 bouderie
 benzenyl
 butch
