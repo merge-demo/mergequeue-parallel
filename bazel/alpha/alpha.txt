@@ -16022,6 +16022,7 @@ antisag
 antisaloon
 apemantus
 atrophied
+armariolum
 affaire
 antisalooner
 antisavage
@@ -17614,7 +17615,6 @@ adsorbents
 amphipleura
 appetitious
 alphabetizes
-armariolum
 arsacidan
 aegeriidae
 acridinic
