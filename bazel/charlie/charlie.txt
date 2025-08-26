@@ -9522,6 +9522,7 @@ carpodacus
 cardanic
 capos
 checkhook
+chlorobenzene
 checky
 cityful
 circularising
@@ -11281,7 +11282,6 @@ cuttlebone
 chloroaurate
 chloroaurite
 cirratulus
-chlorobenzene
 centripetency
 chlorocalcite
 corroboreeing
