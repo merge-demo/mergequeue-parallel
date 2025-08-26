@@ -2674,7 +2674,6 @@ canion
 chromophile
 canions
 crevice
-cank
 circumnavigations
 chokestrap
 clingfish
@@ -21484,6 +21483,7 @@ concordantly
 cheiropompholyx
 concordatory
 cretan
+cank
 concordatum
 concorder
 concordity
