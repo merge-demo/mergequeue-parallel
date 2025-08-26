@@ -14414,7 +14414,6 @@ boxfuls
 blowsed
 brainstorming
 brainstorms
-balkanic
 brainteaser
 brainward
 ballistae
@@ -14664,6 +14663,7 @@ brassey
 boxiest
 basketful
 biographically
+balkanic
 brassicaceae
 backworm
 brassiere
