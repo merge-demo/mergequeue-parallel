@@ -9182,7 +9182,6 @@ chasmed
 caddy
 chondrigenous
 cyclocephaly
-cheths
 clypeolate
 chasmogamous
 chasmophyte
@@ -25606,6 +25605,7 @@ consolamentum
 clankum
 corsair
 cryesthesia
+cheths
 cannula
 closestool
 corpulentness
