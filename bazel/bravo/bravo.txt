@@ -3569,6 +3569,7 @@ brushy
 battleground
 berkeleyite
 bien
+bitsy
 bathysphere
 bigmouths
 boliviano
@@ -9887,7 +9888,6 @@ barnacles
 beneficiaries
 biaxially
 bitser
-bitsy
 birled
 bioscope
 brotherly
