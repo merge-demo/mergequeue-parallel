@@ -8553,7 +8553,6 @@ chainbreak
 chancery
 chances
 chancewise
-chanche
 cycloaddition
 chanchito
 chancy
@@ -31326,6 +31325,7 @@ calorically
 compotation
 curets
 callisthenics
+chanche
 cinematographers
 clamber
 curetted
