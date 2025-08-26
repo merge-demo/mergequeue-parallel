@@ -18852,7 +18852,6 @@ corvisor
 constituting
 cytogene
 colicroot
-colicwort
 cranial
 cervelliere
 colies
@@ -18891,6 +18890,7 @@ colyone
 colipuncture
 coliseum
 colossus
+colicwort
 cestoid
 colistin
 coypou
