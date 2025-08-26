@@ -2775,7 +2775,6 @@ bitonal
 baronetize
 ballistocardiographic
 benzeneazobenzene
-bedcase
 brachyurous
 backbencher
 barong
@@ -15154,6 +15153,7 @@ bellowsmaker
 bohemia
 bellwort
 bloater
+bedcase
 breastplough
 blunted
 bactericidin
