@@ -12086,7 +12086,6 @@ anatomizer
 advisiveness
 anatomizing
 anatopism
-antiphlogistic
 adorally
 allopathetically
 anatox
@@ -19531,6 +19530,7 @@ aryballoi
 antithesize
 abdominohysterotomy
 aryballus
+antiphlogistic
 arybballi
 argol
 aricin
