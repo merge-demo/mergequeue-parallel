@@ -4646,6 +4646,7 @@ dishtowel
 demipomada
 damned
 diazid
+dialogs
 drabbest
 deaconship
 discharm
@@ -12848,7 +12849,6 @@ diathermancy
 doubty
 diploes
 dismal
-dialogs
 dorsomedian
 decreptitude
 downhaul
