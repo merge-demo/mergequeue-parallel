@@ -6379,6 +6379,7 @@ agust
 acquitting
 acalycinous
 asterism
+amebic
 aha
 ahamkara
 autoclaves
@@ -13563,7 +13564,6 @@ annunciade
 arthropod
 annunciating
 aerated
-amebic
 annunciations
 ansated
 airliner
