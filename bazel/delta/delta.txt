@@ -3646,7 +3646,6 @@ dermatoplasty
 demodicidae
 dawish
 diploic
-deprogrammer
 dioestrous
 deglutition
 deglutitious
@@ -14125,6 +14124,7 @@ distributor
 dermal
 distributorship
 demythify
+deprogrammer
 distributress
 dietics
 districted
