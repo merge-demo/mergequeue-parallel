@@ -17384,7 +17384,6 @@ couscouses
 coastlines
 cutleress
 channeled
-condensible
 churchmaster
 coastward
 coatdress
@@ -30822,6 +30821,7 @@ culmigenous
 culminal
 culminate
 compounders
+condensible
 cliqueiest
 cebus
 coeliorrhea
