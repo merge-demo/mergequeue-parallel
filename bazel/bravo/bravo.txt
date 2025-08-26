@@ -10478,7 +10478,6 @@ blaster
 blastid
 blasting
 borolanite
-blastings
 blastocele
 bespousing
 batodendron
@@ -18259,6 +18258,7 @@ buttermouth
 bedlamize
 bronzier
 butternuts
+blastings
 barstool
 batea
 bunuelo
