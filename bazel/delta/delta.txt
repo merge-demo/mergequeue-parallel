@@ -5842,7 +5842,6 @@ depositories
 deploration
 dismarshall
 disauthentic
-dextrocerebral
 depositors
 dowel
 dressings
@@ -6079,6 +6078,7 @@ divaricating
 deucalion
 dispends
 duplicident
+dextrocerebral
 drumlike
 deputed
 deselecting

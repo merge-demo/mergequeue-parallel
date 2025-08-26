@@ -5245,7 +5245,6 @@ begabled
 bowla
 begad
 bedders
-boskopoid
 blanky
 beworming
 boarcite
@@ -11883,6 +11882,7 @@ bodysurfed
 bodysurfer
 benthopelagic
 buteos
+boskopoid
 bodywork
 bodyworks
 bodkin
