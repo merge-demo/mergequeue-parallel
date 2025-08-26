@@ -6098,7 +6098,6 @@ biostatistics
 benacus
 benamee
 breadboard
-botanizing
 benami
 bunton
 boyishly
@@ -18285,6 +18284,7 @@ buttyman
 billage
 biblioclast
 bowless
+botanizing
 buttinski
 bankshall
 bourout
