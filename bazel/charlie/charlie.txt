@@ -1200,7 +1200,6 @@ clape
 commissarial
 calef
 calefacient
-craunched
 caudad
 calefactive
 coterell
@@ -11688,6 +11687,7 @@ chaver
 cinematographic
 crossroading
 chololithic
+craunched
 cholones
 cholophaein
 coven
