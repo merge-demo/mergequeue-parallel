@@ -2125,7 +2125,6 @@ bribery
 bantu
 bantus
 bandon
-bewield
 brahmahood
 barbellulae
 blandfordia
@@ -12244,6 +12243,7 @@ balms
 billet
 bolshevist
 bolshevistic
+bewield
 bolshevize
 bolshevized
 boneset
