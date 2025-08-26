@@ -8947,6 +8947,7 @@ charette
 censers
 chargable
 cyanosed
+coasserter
 combmaker
 chargeable
 ciphertext
@@ -17354,7 +17355,6 @@ coarticulate
 coarticulation
 claylike
 coassert
-coasserter
 coassessor
 chlorellaceae
 caravelle
