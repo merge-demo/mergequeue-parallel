@@ -12037,7 +12037,6 @@ abought
 anatomicochirurgical
 ammonifier
 arterioverter
-aphodal
 acedia
 anatomicopathologic
 arteriofibrosis
@@ -19270,6 +19269,7 @@ argals
 arrayer
 acolytus
 ambrosian
+aphodal
 appius
 allergins
 anoplothere
