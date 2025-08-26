@@ -6426,6 +6426,7 @@ belgium
 benzoglycolic
 benzoglyoxaline
 bastioned
+beebees
 benzohydrol
 becuna
 benzoylation
@@ -7980,7 +7981,6 @@ bribegiving
 bicentric
 bancal
 bicentricity
-beebees
 bardier
 bilineate
 bohemianism
