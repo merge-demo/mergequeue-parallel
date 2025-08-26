@@ -10876,7 +10876,6 @@ desmidiaceous
 digit
 dynameter
 dimerized
-displays
 depthen
 dirged
 dirgelike
@@ -11805,6 +11804,7 @@ discrepantly
 decaudation
 demasts
 discrepated
+displays
 discrepation
 dullardism
 dehydrogenize
