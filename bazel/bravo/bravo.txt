@@ -12244,6 +12244,7 @@ bolshevized
 boneset
 benitoite
 borocaine
+bayonet
 bemud
 bolstered
 bolsterer
@@ -15626,7 +15627,6 @@ bacteriologist
 beakerful
 bariums
 broadcloth
-bayonet
 broadeners
 broadenings
 bribee
