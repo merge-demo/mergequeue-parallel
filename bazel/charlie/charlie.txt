@@ -2193,7 +2193,6 @@ campongs
 cosmo
 convincing
 cheiropodist
-camponotus
 coteline
 counterhammering
 campos
@@ -24024,6 +24023,7 @@ convergences
 comps
 convergency
 columbary
+camponotus
 convergent
 chemoceptor
 converges
