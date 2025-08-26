@@ -6001,6 +6001,7 @@ deprome
 drawling
 desertrice
 deprostrate
+deviscerate
 draughtiest
 downbeats
 darcy
@@ -10838,7 +10839,6 @@ directly
 diphthongised
 dijudicating
 directorate
-deviscerate
 dispartment
 dissave
 discolorate
