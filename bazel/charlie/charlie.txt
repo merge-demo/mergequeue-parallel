@@ -3389,6 +3389,7 @@ capreolate
 chimericalness
 continuua
 capretto
+cote
 capri
 capric
 capriccetto
@@ -13605,7 +13606,6 @@ copartner
 chignons
 cymbocephalous
 cymbopogon
-cote
 cimbrian
 casuistry
 cotsetle
