@@ -7924,6 +7924,7 @@ bibliopolery
 beclasp
 boschbok
 brambleberries
+breviature
 billetty
 becudgeled
 bibliopolically
@@ -10356,7 +10357,6 @@ bargepole
 billot
 bounderish
 bamboozlers
-breviature
 bordman
 binomenclature
 boil
