@@ -6656,7 +6656,6 @@ blastoma
 bobcat
 bronchia
 beezers
-bergaptene
 bedstand
 bimane
 begreen
@@ -8819,6 +8818,7 @@ binna
 bowering
 binned
 balbusard
+bergaptene
 basigamous
 binny
 bumpered
