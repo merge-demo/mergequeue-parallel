@@ -3226,7 +3226,6 @@ capitalistically
 capitalists
 capitalizable
 cubatures
-coremium
 capitalized
 capitalizers
 catecheses
@@ -19706,6 +19705,7 @@ combaron
 combasou
 combat
 combatable
+coremium
 chroma
 chrismale
 combatant
