@@ -17995,7 +17995,6 @@ almsgiver
 arace
 apterygota
 arcanist
-apteryla
 agentship
 apteroid
 aptest
@@ -21218,6 +21217,7 @@ anglewing
 arbitrary
 amakosa
 aceanthrene
+apteryla
 atretic
 asymmetric
 antimythical
