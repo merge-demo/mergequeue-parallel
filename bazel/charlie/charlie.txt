@@ -9214,7 +9214,6 @@ coots
 carritch
 catarrh
 csects
-carettochelydidae
 carbonylic
 chastener
 cashaw
@@ -20280,6 +20279,7 @@ communer
 chemopallidectomy
 cashiers
 communes
+carettochelydidae
 catamnesis
 cytostroma
 communicable
