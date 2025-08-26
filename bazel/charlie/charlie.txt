@@ -10120,7 +10120,6 @@ columnwise
 cheval
 chevalet
 chevalets
-chevalier
 centeredness
 cystencyte
 chevaliers
@@ -15781,6 +15780,7 @@ consanguinity
 coiffeuse
 cerebellar
 chainlet
+chevalier
 cleanliest
 culottes
 clumpier
