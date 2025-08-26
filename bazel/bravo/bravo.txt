@@ -633,7 +633,6 @@ bacterin
 beggiatoa
 bacteriochlorophyll
 bacteriocin
-bathylite
 bostangi
 bastiment
 bacteriodiagnosis
@@ -8157,6 +8156,7 @@ bateaux
 bieldy
 brawlier
 bossa
+bathylite
 bellicoseness
 bielding
 bewinter
