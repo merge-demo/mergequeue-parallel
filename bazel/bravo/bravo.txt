@@ -12466,7 +12466,6 @@ biclavate
 boukit
 bescrawl
 booklists
-bisymmetrically
 budlike
 boohoo
 bondmaids
@@ -14752,6 +14751,7 @@ babel
 brightener
 bedimplies
 braxy
+bisymmetrically
 bardiest
 braxies
 brunt

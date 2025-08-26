@@ -1493,7 +1493,6 @@ accomplishers
 accommodableness
 avicularimorphae
 accommodated
-adscriptive
 accommodating
 accommodatingness
 accommodations
@@ -7534,6 +7533,7 @@ angiomata
 alchemic
 antiviral
 alchemies
+adscriptive
 antilepsis
 antennulary
 accident
