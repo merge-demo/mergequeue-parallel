@@ -6406,7 +6406,6 @@ diglyceride
 dixie
 derogating
 deceivableness
-derogative
 derogatory
 diamonding
 dooja
@@ -17499,6 +17498,7 @@ datums
 delegatee
 dhobi
 drove
+derogative
 drovers
 dereism
 drownd
