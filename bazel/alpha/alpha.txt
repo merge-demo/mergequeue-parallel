@@ -2160,6 +2160,7 @@ actinal
 aperistalsis
 abattue
 abides
+aegirine
 achromaticity
 achromatisation
 acrestaff
@@ -15707,7 +15708,6 @@ apperceive
 abdominocentesis
 agura
 andradite
-aegirine
 antipestilently
 ablauts
 agonistical
