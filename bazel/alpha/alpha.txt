@@ -10542,7 +10542,6 @@ amylan
 attomy
 anorthographically
 amylase
-amylases
 amylate
 aglyphodontia
 aglycosuric
@@ -19163,6 +19162,7 @@ autotypes
 areal
 atuami
 areasoner
+amylases
 areawide
 areca
 arecain
