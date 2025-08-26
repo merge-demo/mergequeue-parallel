@@ -3977,6 +3977,7 @@ admiration
 apatheia
 ailurophilia
 atomise
+apposable
 allylic
 afric
 admired
@@ -20141,7 +20142,6 @@ arrears
 arrendation
 argentometric
 arrenotoky
-apposable
 arrentation
 arreption
 acantholimon
