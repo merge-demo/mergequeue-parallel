@@ -8348,6 +8348,7 @@ alives
 aleiptes
 azygos
 aeolodicon
+appellee
 apathistical
 alivincular
 alix
@@ -17504,7 +17505,6 @@ appellatived
 appellativeness
 anchory
 arriccioci
-appellee
 appellor
 aminobenzene
 antifederalist
