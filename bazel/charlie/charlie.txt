@@ -9451,6 +9451,7 @@ cheapening
 cheapery
 chlorin
 chevon
+chatteration
 commendatory
 cheapest
 cheapish
@@ -18338,7 +18339,6 @@ campal
 cogglety
 culdee
 coggly
-chatteration
 coghle
 crabbish
 cogida
