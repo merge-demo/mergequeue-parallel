@@ -16546,7 +16546,6 @@ coinheritance
 correlative
 clogmaking
 clogwheel
-canners
 clogwyn
 clogwood
 calvinian
@@ -27365,6 +27364,7 @@ courtly
 courtlier
 chow
 courteously
+canners
 chaptered
 courtliest
 croppie
