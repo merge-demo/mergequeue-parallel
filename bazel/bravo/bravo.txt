@@ -3310,7 +3310,6 @@ beguilers
 balao
 besotment
 basitting
-basiventral
 beudantite
 basked
 basketballer
@@ -13546,6 +13545,7 @@ barnacled
 bibliophile
 bra
 burdening
+basiventral
 baling
 bobs
 binucleolate
