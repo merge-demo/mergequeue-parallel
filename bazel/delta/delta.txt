@@ -6261,7 +6261,6 @@ dermatic
 dermatitises
 dyschromatoptic
 drupe
-dermatoconiosis
 dermatodynia
 demisability
 distrainer
@@ -10121,6 +10120,7 @@ disamis
 dexiotropism
 dales
 dynastidan
+dermatoconiosis
 desertress
 dilator
 dynastides
