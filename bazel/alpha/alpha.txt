@@ -11024,6 +11024,7 @@ amorphousness
 affirmatory
 archegone
 assais
+artisanal
 amorphus
 amort
 amuguis
@@ -24815,7 +24816,6 @@ avouchable
 anaptyxis
 asaprol
 animates
-artisanal
 aberrations
 arythmias
 anosmias
