@@ -4595,7 +4595,6 @@ bedazzlingly
 baptise
 bedbugs
 bedtick
-bedchair
 bedchairs
 bellowing
 buntal
@@ -8469,6 +8468,7 @@ babysitter
 byssuses
 bastinadoing
 basoga
+bedchair
 backwards
 batak
 bilifuscin
