@@ -8101,6 +8101,7 @@ anastasis
 aiglette
 algonquin
 algophagous
+anodynes
 algophilia
 agly
 algophilist
@@ -13601,7 +13602,6 @@ anatomist
 addressee
 anodically
 anodyne
-anodynes
 anaphroditous
 anodized
 anodizes
