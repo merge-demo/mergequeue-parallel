@@ -12386,7 +12386,6 @@ bulgarian
 bergeres
 bluebill
 beele
-boonk
 bombonne
 bombora
 belfather
@@ -17334,6 +17333,7 @@ bagman
 bellicosely
 breviary
 beneplacity
+boonk
 bentincks
 becrawled
 beachier
