@@ -4134,6 +4134,7 @@ delineations
 disempower
 dodgasted
 died
+deaired
 decodes
 daschagga
 deitate
@@ -16910,7 +16911,6 @@ disceptation
 drawtongs
 defortify
 decanically
-deaired
 ddt
 dicyclic
 diiambus
