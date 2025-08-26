@@ -686,7 +686,6 @@ brisk
 babua
 basos
 brioche
-bicorne
 bombo
 biannual
 begall
@@ -10122,6 +10121,7 @@ byss
 bielorouss
 brogh
 blat
+bicorne
 beshriek
 blackband
 blackberrylike
