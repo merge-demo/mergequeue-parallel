@@ -10438,7 +10438,6 @@ araba
 amiability
 amiableness
 amiably
-archaeology
 aswooned
 annonce
 aspalax
@@ -11730,6 +11729,7 @@ anchietea
 analcimite
 aggrieved
 annidalin
+archaeology
 aerosporin
 antiritualist
 aiawong
