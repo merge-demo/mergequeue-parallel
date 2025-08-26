@@ -2958,6 +2958,7 @@ blubber
 biuniqueness
 barrigudos
 barrikin
+bindis
 babouche
 bromophenol
 blennioidea
@@ -12284,7 +12285,6 @@ basswoods
 begrave
 blindly
 bonellia
-bindis
 bondswoman
 budgeteer
 brunetness
