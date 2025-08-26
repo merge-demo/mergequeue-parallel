@@ -13427,6 +13427,7 @@ atrophic
 astigmatic
 azedarac
 annicut
+antigravitate
 annie
 annihil
 annihilability
@@ -15231,7 +15232,6 @@ ansa
 antigraph
 aortal
 acetimetry
-antigravitate
 akey
 awalim
 antigravitation
