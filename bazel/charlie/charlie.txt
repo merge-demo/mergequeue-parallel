@@ -7574,6 +7574,7 @@ croaks
 carus
 corrugating
 cooked
+cava
 citrulline
 corydaline
 cophouse
@@ -27119,7 +27120,6 @@ countersuit
 cubehead
 countersun
 countersunken
-cava
 countersurprise
 chrotta
 countersway
