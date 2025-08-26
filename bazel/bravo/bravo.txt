@@ -7247,6 +7247,7 @@ baconist
 basses
 bestridden
 bluesides
+baulking
 blueberry
 bestrides
 boondock
@@ -10202,7 +10203,6 @@ baroreceptor
 beseechers
 blackgum
 beclamored
-baulking
 beachcombing
 boastings
 brachia
