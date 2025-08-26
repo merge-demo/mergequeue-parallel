@@ -2966,7 +2966,6 @@ cantholysis
 commonable
 chaffers
 capriole
-calliphorid
 colliquation
 cardiae
 cicalas
@@ -25378,6 +25377,7 @@ coulombic
 capilliculture
 consummate
 corny
+calliphorid
 cornic
 cornice
 costodiaphragmatic
