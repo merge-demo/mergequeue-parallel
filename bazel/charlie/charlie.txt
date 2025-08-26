@@ -6919,7 +6919,6 @@ cementitious
 carinaria
 claudicate
 cementmaker
-catapan
 candidly
 cementoblast
 cementoma
@@ -15609,6 +15608,7 @@ clat
 clathraceae
 clathraceous
 clathraria
+catapan
 cathidine
 clathrarian
 clathrate
