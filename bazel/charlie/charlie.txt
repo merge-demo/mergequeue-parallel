@@ -3090,7 +3090,6 @@ capably
 cerecloth
 capacify
 cowpat
-centare
 contrabandist
 capacious
 capaciously
@@ -13565,6 +13564,7 @@ cymae
 cymagraph
 cimaise
 cicatriculae
+centare
 cafe
 colament
 cymaise
