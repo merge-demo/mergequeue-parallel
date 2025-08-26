@@ -11485,6 +11485,7 @@ aright
 amphigastria
 anabantid
 arguses
+atramentous
 avast
 aeneus
 anabantidae
@@ -22794,7 +22795,6 @@ archelaus
 atragene
 amphineura
 atrament
-atramentous
 alloploidy
 atremata
 atrematous
