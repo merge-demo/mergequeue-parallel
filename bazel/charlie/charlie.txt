@@ -28122,7 +28122,6 @@ countercheck
 cranioschisis
 conforbably
 cranioscopy
-chimerism
 cranioscopist
 craniotome
 cameos
@@ -29970,6 +29969,7 @@ crenature
 cancerization
 confutation
 crotesco
+chimerism
 cooptive
 cannoned
 chirothesia
