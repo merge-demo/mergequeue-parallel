@@ -5342,7 +5342,6 @@ dialkylamine
 distitle
 defiant
 donis
-dolor
 dentatoserrate
 decennary
 dysaphia
@@ -13285,6 +13284,7 @@ dispoint
 dapedium
 dispondee
 demythologise
+dolor
 dahms
 disponent
 doges
