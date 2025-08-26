@@ -4942,7 +4942,6 @@ carton
 cartoner
 cartonful
 covinously
-crimmers
 cartons
 cartoonist
 chrysomonadina
@@ -12609,6 +12608,7 @@ chronomastix
 chronometer
 crom
 citolers
+crimmers
 chronometers
 chronometric
 chronometrically
