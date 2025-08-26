@@ -646,6 +646,7 @@ azumbre
 azoted
 abominations
 abominator
+arithmocracy
 albugineous
 affably
 abominators
@@ -12479,7 +12480,6 @@ actinotrocha
 archpoet
 archidiaconal
 angka
-arithmocracy
 arvo
 anencephalus
 anenst
