@@ -8555,6 +8555,7 @@ dyschromatopsia
 duchy
 dethrone
 dewbeam
+depthwise
 didacts
 diaphanometric
 dampishness
@@ -8882,7 +8883,6 @@ dovens
 dibstone
 degustation
 doziness
-depthwise
 dibutyrin
 debituminize
 deflexure
