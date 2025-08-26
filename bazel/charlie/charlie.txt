@@ -8446,6 +8446,7 @@ chamos
 chamosite
 chamotte
 coarbiter
+cynosura
 cauligenous
 champagneless
 champagning
@@ -15787,7 +15788,6 @@ crocoite
 cleansers
 codescendant
 cleanses
-cynosura
 cleanskin
 cleanup
 conveniently
