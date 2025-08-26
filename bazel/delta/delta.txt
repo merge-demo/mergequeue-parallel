@@ -6949,6 +6949,7 @@ despecialization
 disembarrassed
 dispute
 dropper
+disleaf
 domineer
 despecialize
 defying
@@ -10584,7 +10585,6 @@ dbrn
 diatomean
 diacrisis
 diplococcemia
-disleaf
 dermatomycosis
 digammate
 dashiki
