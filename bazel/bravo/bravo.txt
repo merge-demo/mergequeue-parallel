@@ -3753,7 +3753,6 @@ bronchiocele
 bookmaking
 britska
 blowpipe
-barytocalcite
 boing
 brahmanic
 biologese
@@ -7844,6 +7843,7 @@ bibelots
 berdash
 bibenzyl
 bookers
+barytocalcite
 biberon
 bibi
 busses
