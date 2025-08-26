@@ -1736,7 +1736,6 @@ discreteness
 dispensible
 diobol
 deathiness
-dilos
 discantus
 duckpond
 dysenteric
@@ -7415,6 +7414,7 @@ duncifying
 detectability
 detouring
 dermacentor
+dilos
 daric
 disluster
 delabialized
