@@ -3256,6 +3256,7 @@ bushland
 broader
 boniform
 bivinyl
+brevilingual
 blunderful
 blacklegism
 besoul
@@ -15081,7 +15082,6 @@ bulging
 braising
 breviconic
 bunkered
-brevilingual
 bestirring
 besmearer
 bushhammer
