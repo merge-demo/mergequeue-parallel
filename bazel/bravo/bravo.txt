@@ -7111,7 +7111,6 @@ byland
 bespeckle
 bethylid
 benzoyls
-blindman
 bespectacled
 beefless
 besped
@@ -9356,6 +9355,7 @@ borish
 brinish
 baroscope
 besquirt
+blindman
 baleless
 bushi
 blirt
