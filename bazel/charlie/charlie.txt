@@ -4591,6 +4591,7 @@ cradler
 caroling
 carolinians
 carolitic
+charitable
 carditic
 caoba
 carols
@@ -14334,7 +14335,6 @@ circumquaque
 circumradii
 circumradius
 circumradiuses
-charitable
 claver
 catarrhinian
 chanties
