@@ -15938,6 +15938,7 @@ antiradiating
 ammi
 accessorius
 arapunga
+arenga
 antiradical
 antiegotist
 alkylamine
@@ -19197,7 +19198,6 @@ amphigonium
 afterhand
 adynamy
 areng
-arenga
 another
 anlas
 arenicola
