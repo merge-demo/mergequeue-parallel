@@ -488,6 +488,7 @@ backswept
 brontosauri
 backspaced
 backspacer
+brattles
 burree
 battik
 benzoates
@@ -8994,7 +8995,6 @@ besleeve
 boulangist
 balei
 bummerish
-brattles
 bioherm
 besotting
 baybush
