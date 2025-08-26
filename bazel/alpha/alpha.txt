@@ -11290,7 +11290,6 @@ anargyros
 amphiumidae
 antixerophthalmic
 abomasi
-amphodarch
 ampholytic
 abaff
 anobiidae
@@ -21006,6 +21005,7 @@ artificer
 arcosolia
 ascription
 ascriptions
+amphodarch
 abuttal
 ascriptitious
 ascriptitius
