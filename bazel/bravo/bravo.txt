@@ -2186,6 +2186,7 @@ briscola
 barathea
 barbellate
 bibbled
+butcherless
 baysmelts
 bemaddens
 barathra
@@ -6064,7 +6065,6 @@ baccarats
 bowenite
 bradyphasia
 blanquillos
-butcherless
 balarama
 bole
 bilabial
