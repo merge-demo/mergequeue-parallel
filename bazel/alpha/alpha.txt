@@ -13771,7 +13771,6 @@ atacamite
 anorthite
 antiparalytic
 anorthitic
-antiliturgic
 anorthographic
 anorthographical
 ala
@@ -17734,6 +17733,7 @@ aegialitis
 attacapan
 appose
 alex
+antiliturgic
 alisphenoid
 asterales
 astraeidae
