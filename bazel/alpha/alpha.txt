@@ -2139,7 +2139,6 @@ assessionary
 achondritic
 archdevil
 achondroplasia
-abatjours
 agrostology
 achordal
 amyelotrophy
@@ -2229,6 +2228,7 @@ acidhead
 azimech
 acidy
 acetamid
+abatjours
 acidiferous
 argil
 adderfish
