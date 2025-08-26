@@ -16274,7 +16274,6 @@ clinology
 clinometry
 cantos
 canisters
-clinometrical
 calendal
 carvol
 clinopinacoid
@@ -24319,6 +24318,7 @@ caverning
 caritas
 cookshop
 cookshops
+clinometrical
 cards
 cookstove
 colligible
