@@ -3055,7 +3055,6 @@ avowableness
 antispast
 airships
 amplidyne
-aequipalpia
 arthropody
 actinostome
 aramus
@@ -7763,6 +7762,7 @@ arustle
 aquae
 analphabetical
 ancistrocladaceae
+aequipalpia
 abeam
 alecithal
 angler
