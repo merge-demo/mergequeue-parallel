@@ -6180,7 +6180,6 @@ copperization
 corbel
 caudebeck
 caudex
-caudices
 cassolette
 condoned
 concise
@@ -28133,6 +28132,7 @@ cuckooed
 crosscutter
 cranked
 cullis
+caudices
 crankily
 crankiness
 cranking
