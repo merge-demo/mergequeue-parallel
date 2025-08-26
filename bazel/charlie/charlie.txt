@@ -2743,7 +2743,6 @@ cannelons
 cannelure
 clatsop
 cannoneers
-chemicovital
 cannequin
 colts
 cancerphobia
@@ -31744,6 +31743,7 @@ cystenchymatous
 customariness
 customer
 cervisial
+chemicovital
 customers
 customhouses
 copernicia
