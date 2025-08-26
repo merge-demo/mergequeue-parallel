@@ -11611,7 +11611,6 @@ choleine
 circinal
 colorization
 cholelith
-cholelithiasis
 conchotome
 cholelithic
 cholelithotomy
@@ -21622,6 +21621,7 @@ condescensiveness
 clearwater
 cancelli
 condescent
+cholelithiasis
 cocciform
 condiction
 chosing
