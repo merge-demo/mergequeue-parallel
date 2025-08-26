@@ -5901,6 +5901,7 @@ despots
 drago
 depreciation
 depreciative
+deglamorized
 deoxygenization
 dryopians
 deforceor
@@ -13587,7 +13588,6 @@ diving
 disassociated
 disseisee
 dortiship
-deglamorized
 donorship
 deputation
 disaccharose
