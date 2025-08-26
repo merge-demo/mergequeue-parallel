@@ -7776,6 +7776,7 @@ angiospermae
 alectoromancy
 amphibiological
 alectoropodous
+apse
 alectryomachy
 arrentable
 alectryomancy
@@ -13441,7 +13442,6 @@ annihilate
 agramed
 antisnob
 accomplish
-apse
 annihilationistic
 annihilationistical
 apophony
