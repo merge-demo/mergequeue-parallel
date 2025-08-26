@@ -8443,6 +8443,7 @@ bilaminar
 blart
 burblier
 bemusement
+babbage
 behaviors
 belabouring
 bilati
@@ -14117,7 +14118,6 @@ brachiopode
 bistipular
 brachiorrheuma
 blot
-babbage
 bittock
 bugged
 butsudan
