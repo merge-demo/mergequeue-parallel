@@ -18709,6 +18709,7 @@ congreet
 celioscopy
 canvasses
 cree
+couples
 coiture
 cojudge
 cabot
@@ -27267,7 +27268,6 @@ couping
 couple
 couplement
 coupler
-couples
 carling
 cleric
 couplings
