@@ -6377,6 +6377,7 @@ ballbuster
 begrace
 bt
 buffalofishes
+bareka
 benzein
 bellyfish
 blinks
@@ -14246,7 +14247,6 @@ bateman
 britzkas
 beloved
 bradley
-bareka
 brocades
 bravoes
 bolden
