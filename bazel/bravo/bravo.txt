@@ -7888,7 +7888,6 @@ brachiation
 boyuna
 baldachinos
 bibliologist
-bedlike
 bradypnoea
 bibliomane
 bams
@@ -9660,6 +9659,7 @@ benefactions
 burao
 braize
 bulleting
+bedlike
 biggening
 breaches
 bullish
