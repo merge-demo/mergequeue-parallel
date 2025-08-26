@@ -2107,6 +2107,7 @@ daunts
 dissembles
 doab
 duddies
+diagnostics
 despoilment
 decameron
 dissyllabize
@@ -16695,7 +16696,6 @@ decertified
 dogging
 drainers
 drainfield
-diagnostics
 duplicate
 disvelop
 drainman

@@ -2076,7 +2076,6 @@ campanologer
 crucis
 campanology
 croaker
-coalmonger
 campanological
 conjunctly
 campanologically
@@ -5865,6 +5864,7 @@ catfalls
 catfight
 creeled
 catfish
+coalmonger
 catfoot
 catfooted
 chhatri
