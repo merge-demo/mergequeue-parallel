@@ -13103,7 +13103,6 @@ bassarisk
 backfurrow
 baalath
 bodyguard
-borid
 bacterioscopist
 bromisation
 blowzier
@@ -18280,6 +18279,7 @@ burrowing
 butty
 biovulate
 buffoonism
+borid
 bamah
 buttyman
 billage
