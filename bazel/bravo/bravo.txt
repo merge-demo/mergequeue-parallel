@@ -10456,7 +10456,6 @@ babiches
 boongary
 blaring
 bedeafens
-boatlike
 blarneys
 bridgetree
 blarny
@@ -14294,6 +14293,7 @@ bontok
 bullpates
 beerishly
 bhotiya
+boatlike
 beamsman
 braggish
 bugloss
