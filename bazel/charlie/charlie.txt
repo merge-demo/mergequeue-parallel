@@ -139,6 +139,7 @@ cruors
 cistaceae
 cablelaid
 cableless
+cogent
 cablelike
 cerberic
 chryseis
@@ -18319,7 +18320,6 @@ cofunction
 cystidia
 cretification
 cogencies
-cogent
 centena
 cleansed
 cogently
