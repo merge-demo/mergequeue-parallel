@@ -162,6 +162,7 @@ depasturable
 dissatisfying
 droughty
 dado
+dacryolith
 drugstore
 doltishly
 dareall
@@ -17280,7 +17281,6 @@ drizzles
 drunkeries
 deadlocks
 demulsifier
-dacryolith
 dressmake
 dureresque
 deuteragonist
