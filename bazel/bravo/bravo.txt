@@ -3937,6 +3937,7 @@ booksellerish
 bombardier
 bocstaff
 brickbats
+bergamasca
 birdbanding
 bdelloura
 bigothero
@@ -6648,7 +6649,6 @@ berewick
 banquettes
 bergall
 becrimes
-bergamasca
 bergamasche
 bergamask
 butsu
