@@ -10294,6 +10294,7 @@ disaccustom
 doornail
 dioctahedral
 dioctophyme
+dubitable
 deave
 defaulting
 diodontidae
@@ -17748,7 +17749,6 @@ dubiousness
 deportees
 dietotoxicity
 delegative
-dubitable
 dichondra
 dietotoxic
 dubitably
