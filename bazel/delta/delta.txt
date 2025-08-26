@@ -6555,7 +6555,6 @@ dogsled
 descriptionless
 dangleberry
 distensile
-designator
 daedal
 deity
 descriptivism
@@ -14416,6 +14415,7 @@ delitous
 demeaned
 defiling
 diva
+designator
 divagated
 divagates
 diphthongal
