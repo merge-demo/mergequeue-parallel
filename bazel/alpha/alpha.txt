@@ -3713,6 +3713,7 @@ adiathermal
 adiathermancy
 antioxidase
 alcoranist
+akroterial
 alure
 arcticologist
 acaridea
@@ -9903,7 +9904,6 @@ amaurosis
 androeccia
 amaze
 airlocks
-akroterial
 amazedly
 abstriction
 autotrophy
