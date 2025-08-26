@@ -1758,7 +1758,6 @@ baluch
 bullet
 bitripinnatifid
 broquery
-baronnes
 becollier
 buses
 biretta
@@ -13081,6 +13080,7 @@ bugseeds
 boodleism
 bernice
 borel
+baronnes
 borers
 barajillo
 bandwagons
