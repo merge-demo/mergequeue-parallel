@@ -7696,7 +7696,6 @@ dihydrazone
 definitional
 dementias
 deviationism
-duodecagon
 diting
 deviations
 deviatory
@@ -16404,6 +16403,7 @@ duodecane
 discontinuing
 dewret
 downthrown
+duodecagon
 denaturation
 douppioni
 delayage
