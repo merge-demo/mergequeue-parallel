@@ -14277,7 +14277,6 @@ creoles
 caligated
 circumintestinal
 circumitineration
-colostomy
 crappin
 circumjacence
 circumjacency
@@ -17147,6 +17146,7 @@ crasser
 coadminister
 civic
 combite
+colostomy
 coadministratrix
 coadmiration
 cuphead
