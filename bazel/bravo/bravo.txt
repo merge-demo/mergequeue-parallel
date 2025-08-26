@@ -144,6 +144,7 @@ bonairly
 boolian
 bacin
 bourne
+botanomancy
 banister
 burkei
 basidiocarp
@@ -13916,7 +13917,6 @@ barehead
 biochemist
 bowsman
 bown
-botanomancy
 bows
 brontograph
 bowsaw
