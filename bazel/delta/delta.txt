@@ -10161,7 +10161,6 @@ devulgarize
 diluvian
 drahthaar
 duckbills
-deadly
 dingdonged
 dues
 dreamy
@@ -17015,6 +17014,7 @@ drencher
 derabbinize
 disappearing
 deflow
+deadly
 dill
 demonocracy
 designee

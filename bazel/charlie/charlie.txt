@@ -17793,7 +17793,6 @@ codas
 cardialgic
 coddy
 coddle
-coddler
 calculous
 coddlers
 coddles
@@ -29864,6 +29863,7 @@ cogwheel
 coadjutator
 crosshatching
 crosshaul
+coddler
 crosshauling
 chipper
 crossings
