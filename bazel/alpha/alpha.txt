@@ -6381,6 +6381,7 @@ aguroth
 apostrophic
 agust
 acquitting
+acalycinous
 asterism
 aha
 ahamkara
@@ -10399,7 +10400,6 @@ antshrike
 ametropia
 ametrous
 amhar
-acalycinous
 antispermotoxin
 afterbirths
 alcade
