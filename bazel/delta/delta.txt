@@ -5077,7 +5077,6 @@ denaturization
 desensitizers
 dendraspis
 doomwatcher
-daler
 dendraxon
 decolorizer
 delightsome
@@ -10849,6 +10848,7 @@ directly
 diphthongised
 dijudicating
 directorate
+daler
 dispartment
 dissave
 discolorate
