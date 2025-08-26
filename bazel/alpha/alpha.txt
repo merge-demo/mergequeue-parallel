@@ -1162,7 +1162,6 @@ alkalifies
 axonopus
 airshed
 acaleph
-advancements
 acalephoid
 anaclastic
 antigod
@@ -21539,6 +21538,7 @@ acetometrically
 anisomerous
 assayable
 afterpotential
+advancements
 argyroneta
 assayed
 agnatic
