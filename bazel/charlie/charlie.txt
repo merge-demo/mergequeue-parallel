@@ -1753,6 +1753,7 @@ caffeate
 countergarrison
 calvarial
 calvaries
+clapper
 calvarium
 calved
 calvin
@@ -15401,7 +15402,6 @@ concentered
 cricketed
 cen
 clappe
-clapper
 clapperclaw
 cloragen
 clappered

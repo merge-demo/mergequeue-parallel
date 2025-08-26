@@ -14451,6 +14451,7 @@ anthropologists
 arctalia
 anthropometer
 anthropometry
+anginal
 anuloma
 anthropometric
 acrocarpi
@@ -16728,7 +16729,6 @@ aphlogistic
 archbancs
 amberina
 alle
-anginal
 antipascha
 atopic
 angiograph
