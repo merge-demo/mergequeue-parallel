@@ -5420,7 +5420,6 @@ biunial
 biferous
 banstickle
 bloodripeness
-briquets
 babelic
 bakshish
 begummed
@@ -10803,6 +10802,7 @@ banjorine
 bephilter
 bakership
 boul
+briquets
 bavin
 bridge
 baulkier
