@@ -11885,7 +11885,6 @@ appendiculata
 axoneme
 aesthesia
 anapnoic
-anticlea
 annihilates
 anapsid
 australopithecus
@@ -19584,6 +19583,7 @@ aas
 attitudinal
 alexandrianism
 aleyrodid
+anticlea
 arisen
 albolite
 ariser
