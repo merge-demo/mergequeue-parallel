@@ -2300,7 +2300,6 @@ aciform
 abet
 athrepsia
 aftercare
-agitative
 artifact
 acylamino
 acylated
@@ -7877,6 +7876,7 @@ archidium
 alethoscope
 anthogenous
 aletocyte
+agitative
 autochromy
 anticombination
 appliers
