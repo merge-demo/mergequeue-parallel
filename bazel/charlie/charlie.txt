@@ -15009,6 +15009,7 @@ cavorts
 citterns
 citua
 cytulae
+cleanable
 colormaking
 ciudad
 cosmesis
@@ -28773,7 +28774,6 @@ cresoxid
 cloyed
 concumbency
 cress
-cleanable
 cassena
 countertail
 cresselle
