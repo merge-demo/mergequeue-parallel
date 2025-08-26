@@ -2454,6 +2454,7 @@ decisional
 decisions
 decisis
 dribbled
+disequality
 dixy
 decisively
 darkened
@@ -2528,7 +2529,6 @@ declassification
 diachrony
 declassifies
 diplophonic
-disequality
 discus
 dorsocephalic
 declensionally
