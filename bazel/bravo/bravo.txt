@@ -7151,6 +7151,7 @@ ballute
 bechance
 bespreng
 besprent
+bachelors
 bocking
 blowy
 betongue
@@ -16597,7 +16598,6 @@ butte
 bavius
 booty
 brainlessly
-bachelors
 buccogingival
 boother
 brember
