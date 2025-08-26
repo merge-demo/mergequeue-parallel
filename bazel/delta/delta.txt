@@ -12067,7 +12067,6 @@ daymen
 diaspidinae
 deambulatory
 diaglyptic
-disenmesh
 dibrom
 donut
 deacon
@@ -17568,6 +17567,7 @@ delegalizing
 doctrinaire
 disgustedly
 dewormed
+disenmesh
 drumbles
 depudorate
 drumfishes
