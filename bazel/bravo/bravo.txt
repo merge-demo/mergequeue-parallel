@@ -4923,6 +4923,7 @@ bebelted
 backchat
 beefeater
 bucconasal
+bangs
 bassy
 bushmen
 beefeaters
@@ -8125,7 +8126,6 @@ beemen
 bided
 bidene
 beblooded
-bangs
 brandise
 biotherapy
 bioherms
