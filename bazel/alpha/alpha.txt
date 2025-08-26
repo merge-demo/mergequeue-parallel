@@ -6380,7 +6380,6 @@ arnold
 acidaemia
 aguroth
 apostrophic
-arthromeningitis
 agust
 acquitting
 asterism
@@ -21667,6 +21666,7 @@ abelmusk
 adiantiform
 asseveratingly
 alfoncino
+arthromeningitis
 argenticyanide
 assertorical
 alister
