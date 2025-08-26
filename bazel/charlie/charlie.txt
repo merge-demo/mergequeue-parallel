@@ -2574,7 +2574,6 @@ chlorotrifluoromethane
 catalan
 candroys
 ceraunograph
-canduc
 crepier
 camphires
 censuses
@@ -23623,6 +23622,7 @@ carroccio
 constituted
 contrabassist
 corkwood
+canduc
 colleries
 calelectrical
 contraception
