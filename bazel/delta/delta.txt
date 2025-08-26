@@ -2753,7 +2753,6 @@ desulphur
 dryopithecus
 dreche
 deiform
-docudrama
 dairymen
 deltoideus
 decreer
@@ -5528,6 +5527,7 @@ disilluminate
 descriptions
 dichotriaene
 drummy
+docudrama
 downheaded
 depardieu
 dinger
