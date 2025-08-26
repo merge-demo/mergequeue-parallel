@@ -7221,6 +7221,7 @@ centrodorsal
 centroids
 cyanophilous
 conte
+chalcidic
 centromere
 centromeric
 centronote
@@ -20159,7 +20160,6 @@ clypeastroidea
 commissure
 confederacy
 calceolately
-chalcidic
 caricatures
 commissurotomies
 commit
