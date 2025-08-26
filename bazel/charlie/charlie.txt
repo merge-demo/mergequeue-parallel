@@ -12835,7 +12835,6 @@ chrysotherapy
 chupatty
 crases
 countermanifesto
-crithmene
 chuppah
 cornuate
 cecile
@@ -27713,6 +27712,7 @@ cowshot
 chough
 cowshut
 cowskin
+crithmene
 countercommand
 criticsm
 cowtown
