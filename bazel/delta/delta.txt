@@ -5853,6 +5853,7 @@ dulcitol
 dichotomously
 doorsteps
 deafforest
+dampener
 destrier
 disestablishes
 desistance
@@ -17731,7 +17732,6 @@ disconfirmation
 disinvestiture
 dubber
 drabnesses
-dampener
 dubbin
 disused
 demipauldron
