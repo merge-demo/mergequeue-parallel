@@ -4055,7 +4055,6 @@ brisure
 bumperette
 bannerets
 benetnasch
-babbie
 bartletts
 bovoid
 beatille
@@ -12400,6 +12399,7 @@ bonapartism
 bonapartist
 bigotries
 betterly
+babbie
 brum
 bassariscus
 buckram
