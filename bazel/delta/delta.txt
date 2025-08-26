@@ -5023,7 +5023,6 @@ demultiplexer
 deurbanize
 dacoited
 demultiplexers
-disroot
 desexing
 deposed
 dinamode
@@ -17567,6 +17566,7 @@ delegalizing
 doctrinaire
 disgustedly
 dewormed
+disroot
 disenmesh
 drumbles
 depudorate
