@@ -3722,7 +3722,6 @@ baetyl
 barotraumata
 bronteon
 bringall
-brucella
 barnstorms
 battler
 basocyte
@@ -14986,6 +14985,7 @@ brimfull
 buro
 barelegged
 biosatellite
+brucella
 berberi
 begift
 barraters
