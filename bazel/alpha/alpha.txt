@@ -14863,7 +14863,6 @@ amphigouri
 axised
 alkenes
 anticlockwise
-asphaltum
 anticlogging
 averroism
 anticoagulant
@@ -16640,6 +16639,7 @@ afterswell
 amidoazobenzol
 aphanes
 arithmeticians
+asphaltum
 aphanisia
 atalanta
 atropaceous

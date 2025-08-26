@@ -18535,7 +18535,6 @@ chronocinematography
 chello
 cill
 cohortative
-cohosh
 circumdiction
 cephalalgia
 crownlet
@@ -20983,6 +20982,7 @@ chipmuck
 compsoa
 canoncito
 clockkeeper
+cohosh
 compsothlypidae
 calligram
 crypteronia
