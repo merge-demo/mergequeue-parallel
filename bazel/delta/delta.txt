@@ -7508,6 +7508,7 @@ decomposability
 demurity
 dopster
 downtowner
+dopas
 deuced
 dizenment
 diachylum
@@ -17485,7 +17486,6 @@ drouking
 deprehension
 deforcer
 drouth
-dopas
 delphacid
 determinacy
 desectionalize
