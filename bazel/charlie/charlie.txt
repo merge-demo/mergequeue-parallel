@@ -25371,7 +25371,6 @@ choragus
 corniced
 collaud
 creamery
-churched
 centrifuged
 coarsish
 crotcheted
@@ -28913,6 +28912,7 @@ chuckler
 cicindelid
 countervengeance
 cigaret
+churched
 crickle
 chandrakanta
 charlatanical

@@ -11505,7 +11505,6 @@ benighting
 blunderbuss
 borasqueborate
 bestare
-bangia
 beachie
 buttonbur
 barotaxis
@@ -13542,6 +13541,7 @@ bra
 burdening
 basiventral
 baling
+bangia
 bobs
 binucleolate
 ballutes
