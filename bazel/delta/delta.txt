@@ -6093,7 +6093,6 @@ dispends
 duplicident
 dextrocerebral
 drumlike
-deputed
 deselecting
 demolitionary
 deputes
@@ -16608,6 +16607,7 @@ dishallow
 doctorly
 descensories
 draggletailed
+deputed
 deuteromycetes
 defensed
 deepsome
