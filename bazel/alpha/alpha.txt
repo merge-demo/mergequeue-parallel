@@ -5167,7 +5167,6 @@ affidavy
 acosmic
 affidavit
 aviso
-affied
 abjured
 affies
 affile
@@ -5557,6 +5556,7 @@ acrocoracoid
 accrue
 axbreaker
 agacerie
+affied
 autotoxis
 austromancy
 agada
