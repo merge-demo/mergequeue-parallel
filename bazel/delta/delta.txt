@@ -4595,7 +4595,6 @@ decolorate
 demiliterate
 deflectional
 despotical
-dalmatian
 demilustre
 diaskeuasis
 demiman
@@ -11604,6 +11603,7 @@ disconnectedness
 diphead
 dermococcus
 disconnecting
+dalmatian
 disconnection
 diplococcic
 disconnector
