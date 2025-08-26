@@ -3268,6 +3268,7 @@ bewhig
 begartered
 bethank
 bisulfide
+beans
 bookkeeps
 bourn
 brattle
@@ -4088,7 +4089,6 @@ beaning
 bromoacetone
 branchier
 beano
-beans
 beansetter
 beanshooter
 biangulous
