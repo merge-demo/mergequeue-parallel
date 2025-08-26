@@ -14218,7 +14218,6 @@ calyptrogen
 carpellum
 cyclotella
 circumbulbar
-circumcallosal
 cuproscheelite
 cuckoos
 corroborating
@@ -21796,6 +21795,7 @@ conduit
 conduplicate
 caterwauler
 crunchable
+circumcallosal
 condurangin
 cone
 communistical
