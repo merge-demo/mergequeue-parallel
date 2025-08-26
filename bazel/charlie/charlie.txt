@@ -479,7 +479,6 @@ caddises
 caddishness
 caddisworm
 chupon
-caddow
 cadeau
 carcinoscorpius
 camisados
@@ -4158,6 +4157,7 @@ circumventive
 cardiosphygmogram
 cardiosphygmograph
 cardiotherapies
+caddow
 clinchpoop
 catmalison
 citternhead
