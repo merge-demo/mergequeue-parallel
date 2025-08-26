@@ -3886,7 +3886,6 @@ carboxylation
 carboxylic
 carboxyls
 carbromal
-carbuncle
 chuckrum
 carbuncles
 chronoscopy
@@ -14254,6 +14253,7 @@ ceratobatrachinae
 clumplike
 ccesser
 circumforaneous
+carbuncle
 circumfulgent
 circumfuse
 celanese
