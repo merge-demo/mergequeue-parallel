@@ -1211,7 +1211,6 @@ denasalizing
 datapac
 decrepitated
 deleterious
-developoid
 disinvolve
 dextrans
 datary
@@ -2566,6 +2565,7 @@ decoct
 disobliges
 demiquaver
 decocting
+developoid
 decoctive
 deaminizing
 demishirt
