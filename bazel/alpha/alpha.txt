@@ -600,6 +600,7 @@ assumedly
 aboiteaux
 allegories
 abolish
+agust
 achromatism
 autovaccine
 abolished
@@ -6382,7 +6383,6 @@ arnold
 acidaemia
 aguroth
 apostrophic
-agust
 acquitting
 acalycinous
 asterism
