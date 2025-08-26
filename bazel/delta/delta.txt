@@ -5974,6 +5974,7 @@ deprivable
 degrader
 dissuasory
 departements
+dissympathize
 dimethylnitrosamine
 deprivals
 deceiver
@@ -13716,7 +13717,6 @@ disturbances
 dissymmetrically
 discoursive
 dissymmettric
-dissympathize
 dictatorialism
 diligency
 devious
