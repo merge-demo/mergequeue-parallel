@@ -1917,7 +1917,6 @@ camelopardus
 cloghad
 counterflashing
 camelry
-camelus
 castalia
 camembert
 conglobated
@@ -29079,6 +29078,7 @@ catherine
 campaniform
 cellulation
 civilisatory
+camelus
 crinogenic
 crinoidea
 cachexy

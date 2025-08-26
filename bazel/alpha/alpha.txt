@@ -17,6 +17,7 @@ aivr
 archerfish
 aaronite
 atwirl
+aker
 antineutrinos
 agreges
 argotic
@@ -6975,7 +6976,6 @@ avgases
 akenobeite
 atavus
 akepiro
-aker
 amdt
 akerite
 aketon
