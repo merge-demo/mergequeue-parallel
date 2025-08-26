@@ -10220,6 +10220,7 @@ counterformula
 chiasmic
 cleruchic
 chiasms
+cannas
 coset
 chiasmus
 cochlidiidae
@@ -15722,7 +15723,6 @@ clavicittern
 contraction
 clavicle
 clavicles
-cannas
 clavicorn
 clavicornes
 clavicotomy
