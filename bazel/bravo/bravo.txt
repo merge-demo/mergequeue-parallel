@@ -5769,7 +5769,6 @@ belittle
 bailees
 burnettize
 bifurcous
-bewailingly
 bamboozled
 bell
 bonos
@@ -14249,6 +14248,7 @@ beloved
 bradley
 brocades
 bravoes
+bewailingly
 bolden
 burelly
 benzaldoxime

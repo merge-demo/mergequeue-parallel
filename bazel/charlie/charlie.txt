@@ -10961,7 +10961,6 @@ chiropodial
 chiropodical
 caphite
 cavascope
-canvaslike
 chiropodistry
 callan
 chiropodists
@@ -20429,6 +20428,7 @@ convergescence
 companionate
 chromophyll
 crowd
+canvaslike
 companionize
 cupressineous
 companionizing
