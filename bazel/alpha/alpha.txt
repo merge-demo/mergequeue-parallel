@@ -19830,7 +19830,6 @@ arming
 armings
 avn
 autor
-analogized
 arminianize
 acupuncturists
 arminianizer
@@ -24513,6 +24512,7 @@ auxotroph
 avadana
 amplifiers
 autocade
+analogized
 absinthiate
 armorist
 avail
