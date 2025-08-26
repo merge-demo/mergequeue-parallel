@@ -10640,7 +10640,6 @@ beworrying
 becloud
 bleacherite
 bleachfield
-bedarken
 braye
 boardy
 bleachyard
@@ -10707,6 +10706,7 @@ blemmatrope
 breakfront
 brooches
 blandisher
+bedarken
 boutell
 buffle
 benton
