@@ -5185,6 +5185,7 @@ borosilicic
 baddish
 baguette
 burbank
+bullpen
 broiler
 butles
 bluebead
@@ -17153,7 +17154,6 @@ baldricked
 blastulae
 brisque
 barkantine
-bullpen
 bullpoll
 bemirror
 bullpup
