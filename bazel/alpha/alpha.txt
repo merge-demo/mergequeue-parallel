@@ -18531,7 +18531,6 @@ annuent
 acarophilous
 archaeographic
 archaeographical
-asterisking
 acerathere
 academial
 archaeolater
@@ -21908,6 +21907,7 @@ arthropodan
 assurer
 arthrotrauma
 arabesque
+asterisking
 anticeremonial
 amphiuma
 assortatively
