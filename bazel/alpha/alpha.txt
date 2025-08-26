@@ -12163,7 +12163,6 @@ archradical
 actinodermatitis
 anchoress
 anchoret
-aminish
 anchorets
 acquittals
 amblyopsis
@@ -15055,6 +15054,7 @@ appraise
 agnosias
 antidoted
 amethyst
+aminish
 amphitokal
 aspherical
 antidoting

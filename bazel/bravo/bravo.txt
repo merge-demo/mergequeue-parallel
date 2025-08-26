@@ -13803,6 +13803,7 @@ bowbent
 bowdichia
 bloodily
 beboppers
+bikol
 brisa
 blindstorey
 bowditch
@@ -14103,7 +14104,6 @@ barytine
 boarders
 brachygraphical
 brachyhieric
-bikol
 berlinite
 burkites
 behaviour
