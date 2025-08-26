@@ -10046,7 +10046,6 @@ cherubim
 cherubimic
 cherubimical
 cherublike
-crystalize
 calzone
 cherusci
 colonialising
@@ -18196,6 +18195,7 @@ coetaneous
 coeternal
 coeternity
 caninity
+crystalize
 coeval
 correspondentship
 craftier
