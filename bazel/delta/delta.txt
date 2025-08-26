@@ -5236,7 +5236,6 @@ denominate
 deek
 diaphote
 desmosis
-declination
 declaimers
 denunciations
 deputy
@@ -16910,6 +16909,7 @@ ddt
 dicyclic
 diiambus
 dataria
+declination
 drona
 doubledamn
 dumbs
