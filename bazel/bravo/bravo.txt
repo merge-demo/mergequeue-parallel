@@ -575,6 +575,7 @@ bootboy
 bipartible
 blastema
 befriendment
+buccinum
 biggishness
 batrachium
 brith
@@ -16584,7 +16585,6 @@ berascals
 bousy
 botryogen
 bessemerizing
-buccinum
 becrampon
 bowmaker
 blackarm
