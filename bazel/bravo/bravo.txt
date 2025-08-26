@@ -3570,6 +3570,7 @@ byronish
 brushy
 battleground
 berkeleyite
+bakula
 bien
 bitsy
 bathysphere
@@ -17223,7 +17224,6 @@ biguttulate
 bludgeoner
 batling
 boltings
-bakula
 braguette
 barbitos
 bap
