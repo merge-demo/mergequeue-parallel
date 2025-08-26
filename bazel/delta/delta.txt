@@ -2298,6 +2298,7 @@ defensory
 dekaparsec
 decoded
 dermatropic
+dustcloths
 dactylioglyphic
 danglement
 drat
@@ -18290,7 +18291,6 @@ decibels
 duckboards
 diseuse
 demonian
-dustcloths
 dig
 discipline
 diacoca
