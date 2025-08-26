@@ -7882,7 +7882,6 @@ cestrian
 conned
 cesural
 cetaceans
-cetaceum
 calpolli
 collieshangie
 cetane
@@ -19288,6 +19287,7 @@ colombina
 crimsonly
 claudius
 citatum
+cetaceum
 colon
 colonaded
 colonate

@@ -5701,6 +5701,7 @@ dermatine
 damayanti
 dipl
 disrobe
+disembarking
 dentelliere
 deplaning
 dawdled
@@ -11970,7 +11971,6 @@ demephitize
 duskish
 dietetical
 disacidified
-disembarking
 denominationally
 disbloom
 disembarks
