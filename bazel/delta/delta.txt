@@ -9689,6 +9689,7 @@ decemcostate
 demicircle
 detacwable
 dika
+dubba
 dieter
 dispersedelement
 desulphurization
@@ -16038,7 +16039,6 @@ dottier
 dragonnade
 dia
 dissimulative
-dubba
 devolutionary
 ditetrahedral
 duodenocholangitis
