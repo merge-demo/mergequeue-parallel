@@ -11594,6 +11594,7 @@ disconformities
 disconjure
 doggiest
 drinkless
+duppy
 disconnectedness
 diphead
 dermococcus
@@ -14822,7 +14823,6 @@ dizdar
 dasycladaceous
 divinator
 deprehensible
-duppy
 disabusal
 diaheliotropically
 docimasia
