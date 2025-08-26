@@ -3048,7 +3048,6 @@ bimetal
 bedspreads
 bakerite
 ballon
-bestials
 brahman
 bacterization
 breachy
@@ -6819,6 +6818,7 @@ berserks
 barnumize
 balize
 berhyme
+bestials
 belauds
 bert
 blowhole

@@ -16747,7 +16747,6 @@ clots
 chaconne
 clotted
 carts
-consonantalized
 clotty
 clotting
 characterful
@@ -28062,6 +28061,7 @@ cranesman
 cranet
 craneway
 chorologist
+consonantalized
 crany
 convincible
 crania
