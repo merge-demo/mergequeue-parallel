@@ -8123,6 +8123,7 @@ duodial
 developpes
 damageability
 decidable
+disbanded
 drivable
 dinosaurs
 diabetometer
@@ -11199,7 +11200,6 @@ devicefulness
 duraplasty
 distressful
 dredging
-disbanded
 disoppilate
 decanted
 deglaciation
