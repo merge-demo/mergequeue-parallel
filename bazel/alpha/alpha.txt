@@ -12242,7 +12242,6 @@ andamenta
 aloelike
 allopatric
 astrophotography
-andantino
 andaste
 antiposition
 annunciate
@@ -21501,6 +21500,7 @@ allegement
 angary
 arthrempyesis
 allegorist
+andantino
 asporogenic
 aphronia
 aspread
