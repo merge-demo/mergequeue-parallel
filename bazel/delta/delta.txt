@@ -8715,7 +8715,6 @@ decors
 delicioso
 diastrophically
 distort
-diatesseron
 decatize
 dichrooscopic
 disenfranchisements
@@ -15377,6 +15376,7 @@ dolores
 dermatophytic
 dolorimeter
 dolorimetrically
+diatesseron
 delusional
 dialler
 diffuse

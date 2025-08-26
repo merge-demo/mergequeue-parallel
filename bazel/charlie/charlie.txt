@@ -29507,7 +29507,6 @@ centervelic
 colophonist
 criticaster
 chromatoptometer
-criticasterism
 criticastry
 criticisms
 cain
@@ -29921,6 +29920,7 @@ crosstrack
 crosstree
 crossway
 crossways
+criticasterism
 cetid
 calcification
 crossweb
