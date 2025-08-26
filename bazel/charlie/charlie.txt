@@ -7181,7 +7181,6 @@ crossing
 corruptest
 centrifugalize
 catawba
-clamors
 centrifugaller
 centrifugate
 centrifuge
@@ -7850,6 +7849,7 @@ cessavit
 cessed
 cesses
 cuttle
+clamors
 cipolin
 cessible
 copperplate
