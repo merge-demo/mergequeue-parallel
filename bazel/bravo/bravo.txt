@@ -9954,6 +9954,7 @@ bituminoid
 belsire
 bipropellant
 bikes
+buttonhole
 bituminosis
 bennettitaceae
 bravas
@@ -10476,7 +10477,6 @@ blasphemies
 blasphemous
 blasphemousness
 bismarckian
-buttonhole
 blastemal
 bemaster
 blastemic
