@@ -4052,6 +4052,7 @@ bannerets
 benetnasch
 babbie
 bartletts
+bovoid
 beatille
 bulgers
 bearcats
@@ -10174,7 +10175,6 @@ backstone
 basketballs
 blackfellows
 bosker
-bovoid
 blackfigured
 biochemical
 breechcloth
