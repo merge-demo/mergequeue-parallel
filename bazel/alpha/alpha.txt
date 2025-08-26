@@ -6978,7 +6978,6 @@ atavus
 akepiro
 aker
 amdt
-apogeal
 akerite
 aketon
 altiloquent
@@ -21293,6 +21292,7 @@ asmack
 acrogenously
 agueproof
 ambulantes
+apogeal
 asmodeus
 adurent
 aikona
