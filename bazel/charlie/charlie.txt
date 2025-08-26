@@ -1367,6 +1367,7 @@ caliginosity
 caliginous
 caliginously
 cyanin
+coassession
 cunctipotent
 cylindrical
 cabbling
@@ -21334,7 +21335,6 @@ concile
 cotbetty
 conciliable
 conciliabule
-coassession
 chaperoning
 clast
 cupped
