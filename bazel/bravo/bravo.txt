@@ -1344,6 +1344,7 @@ bethlehem
 bookdealer
 bioplastic
 balboas
+barleymow
 barrowcoat
 brod
 botrylle
@@ -9786,7 +9787,6 @@ brights
 bewitching
 bookish
 bosses
-barleymow
 battalions
 bistriate
 beddable
