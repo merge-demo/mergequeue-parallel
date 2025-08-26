@@ -125,6 +125,7 @@ costotransverse
 cabiria
 cabirian
 circumcised
+crystallize
 cabiric
 cataclysm
 cable
@@ -29433,7 +29434,6 @@ coprides
 cherishingly
 crystallizable
 crystallization
-crystallize
 crystallizer
 crystallizes
 crystallochemical
