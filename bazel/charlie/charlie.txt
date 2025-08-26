@@ -12228,6 +12228,7 @@ chrysocracy
 chrysography
 crotalaria
 conjointly
+cos
 chrysology
 carapa
 chattelized
@@ -25955,7 +25956,6 @@ corvoid
 corvorant
 cantiga
 corvus
-cos
 cosaque
 coppled
 coscet
