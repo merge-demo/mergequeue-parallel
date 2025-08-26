@@ -11930,6 +11930,7 @@ deathblow
 dehypnotized
 decumbency
 dragoonade
+dotate
 daguerreotypic
 disdar
 disdein
@@ -15290,7 +15291,6 @@ drawlier
 dolefulness
 deathfulness
 dolefuls
-dotate
 disimitate
 dolerophanite
 disproperty
