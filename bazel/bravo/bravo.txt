@@ -3783,6 +3783,7 @@ betatrons
 batwomen
 brevipennate
 batz
+burds
 beldamship
 bolsons
 bestubble
@@ -17516,7 +17517,6 @@ burlesque
 burdigalian
 basipoditic
 blowpoint
-burds
 burweeds
 barraged
 bricklay
