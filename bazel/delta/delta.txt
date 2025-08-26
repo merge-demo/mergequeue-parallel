@@ -12562,7 +12562,6 @@ disowning
 disinfecting
 denormalized
 disinfection
-disinfections
 dochter
 decrowned
 decani
@@ -13625,6 +13624,7 @@ dehydrofrozen
 deerhorn
 decimally
 doodling
+disinfections
 deaurate
 degrain
 dissentingly
