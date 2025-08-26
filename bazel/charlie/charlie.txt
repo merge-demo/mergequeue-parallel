@@ -14998,6 +14998,7 @@ citrometer
 citromyces
 citron
 cenobium
+crotonyl
 carbonium
 citronalis
 comparison
@@ -29976,7 +29977,6 @@ croton
 consulated
 crotonaldehyde
 crotonate
-crotonyl
 crotonylene
 crotonization
 chitchat
