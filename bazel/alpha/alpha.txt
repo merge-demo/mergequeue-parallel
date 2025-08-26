@@ -12854,7 +12854,6 @@ adosculation
 angouleme
 armored
 adamantness
-arcidae
 appanages
 angraecum
 angry
@@ -17348,6 +17347,7 @@ archosyrinx
 alkalamide
 antiadiaphorist
 afret
+arcidae
 apothecial
 archenemy
 aesthetics

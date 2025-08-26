@@ -8806,7 +8806,6 @@ barycentric
 beraking
 bettering
 biniodide
-berakoth
 biniou
 binitarianism
 bubonic
@@ -12275,6 +12274,7 @@ beaupers
 boltmaker
 blee
 bombaster
+berakoth
 begob
 bowfront
 biquartz
