@@ -14024,6 +14024,7 @@ brabejum
 berrichon
 batonist
 beevish
+bristlecone
 blendor
 bracae
 blandly
@@ -15545,7 +15546,6 @@ bemired
 bareboat
 briss
 brist
-bristlecone
 bufferrers
 baldberry
 bristled
