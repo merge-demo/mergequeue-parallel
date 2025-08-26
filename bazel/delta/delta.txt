@@ -18237,6 +18237,7 @@ dunderfunk
 dunderheadedness
 dunderpate
 dynamistic
+debugger
 dzungar
 dogra
 duneland
@@ -18620,7 +18621,6 @@ dustuk
 decentring
 decimalising
 digitus
-debugger
 dusun
 dollarwise
 desightment
