@@ -11452,6 +11452,7 @@ dissuader
 determinoid
 debug
 discloser
+deplete
 disclosive
 disclosure
 diplomaed
@@ -14688,7 +14689,6 @@ diminuted
 delawarean
 dyslalia
 divulger
-deplete
 dianodal
 derisible
 ditalini
