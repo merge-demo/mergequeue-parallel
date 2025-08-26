@@ -9668,6 +9668,7 @@ alveolosubnasal
 antagonising
 alveolus
 aux
+approved
 acres
 alvine
 avestan
@@ -17887,7 +17888,6 @@ anhang
 approvance
 antidecalogue
 absolutes
-approved
 approvedly
 antiempirical
 approvers
