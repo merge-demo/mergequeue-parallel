@@ -11087,7 +11087,6 @@ anfractuous
 amphibian
 amphibians
 ashkenazi
-amphibiety
 azimuthally
 amphibiotic
 artifices
@@ -14314,6 +14313,7 @@ anviltops
 andries
 anthoxanthum
 anisocycle
+amphibiety
 asdics
 abnegate
 apselaphesis
