@@ -11606,6 +11606,7 @@ besmudged
 boardinghouse
 boardings
 boardsmanship
+badju
 boatloads
 blonde
 boardly
@@ -11666,7 +11667,6 @@ boatmanship
 boats
 boatsetter
 bisymmetric
-badju
 boatsteerer
 beclogs
 biracialism
