@@ -16413,7 +16413,6 @@ apulmonic
 arle
 almightily
 autolysin
-alls
 anorchus
 anvilling
 anvils
@@ -16825,6 +16824,7 @@ apiculate
 allodelphite
 amyelencephalic
 apiculated
+alls
 aerodonetic
 apiculi
 apicultural
