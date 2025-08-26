@@ -978,7 +978,6 @@ amassable
 abstinently
 ansae
 abstort
-abstr
 anthos
 abstractable
 acceptavit
@@ -4700,6 +4699,7 @@ ablactating
 aerating
 alcae
 adroop
+abstr
 albespine
 aerations
 aery
