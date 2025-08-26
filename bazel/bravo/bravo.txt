@@ -2466,7 +2466,6 @@ bereason
 bibliophilism
 binotic
 bigram
-baresthesia
 bottom
 busies
 blens
@@ -12605,6 +12604,7 @@ brigantine
 blackballer
 bloodroots
 bigeminal
+baresthesia
 billposting
 bakshaish
 beaproned
