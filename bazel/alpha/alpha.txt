@@ -5350,7 +5350,6 @@ afrasia
 ammocete
 aeonial
 afresca
-aplome
 anomiidae
 axed
 acinous
@@ -9892,6 +9891,7 @@ accented
 antihelixes
 aphanesite
 amazilia
+aplome
 amazing
 antizymotic
 almoravides
