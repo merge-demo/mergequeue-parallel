@@ -2474,7 +2474,6 @@ bifunctional
 benzoiodohydrin
 bricky
 bultow
-bruting
 blurriest
 bandelet
 barfish
@@ -7521,6 +7520,7 @@ barbets
 bluebirds
 blastocolla
 balsamweed
+bruting
 bespin
 barrelmaking
 bourbonism
