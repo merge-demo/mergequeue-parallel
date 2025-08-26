@@ -17922,6 +17922,7 @@ cephalanthus
 codswallop
 coueism
 channels
+cunye
 coedit
 chemotactically
 cowweed
@@ -29457,7 +29458,6 @@ choragium
 crystalloidal
 crystallomagnetic
 cravers
-cunye
 crystallomancy
 crystallometry
 continuist
