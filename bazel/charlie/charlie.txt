@@ -3712,7 +3712,6 @@ caravansary
 caravansaries
 caravanserai
 chromoxylography
-consonantism
 caravanserial
 companeros
 caravel
@@ -6032,6 +6031,7 @@ casuistical
 catmints
 catnap
 cheilotomies
+consonantism
 catnaper
 coagulable
 catnapping
