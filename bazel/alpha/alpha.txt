@@ -5933,7 +5933,6 @@ allottee
 autoantibody
 apardon
 anfeeld
-ans
 alcyonoid
 algodon
 acool
@@ -23335,6 +23334,7 @@ ababdeh
 auditable
 absentation
 arteriovenous
+ans
 auditing
 aftersong
 alkalescency

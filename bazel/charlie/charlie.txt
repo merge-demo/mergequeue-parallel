@@ -8878,6 +8878,7 @@ characterization
 characterize
 characterizing
 characterless
+contratenor
 characterlessness
 characterology
 coffle
@@ -23787,7 +23788,6 @@ contrasts
 contrasuggestible
 cruiskeen
 catface
-contratenor
 contravalence
 cubitoplantar
 contravene
