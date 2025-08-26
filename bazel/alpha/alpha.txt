@@ -18909,6 +18909,7 @@ affiance
 amebiasis
 actinine
 atwixt
+amiant
 alday
 alphabetary
 architricline
@@ -21790,7 +21791,6 @@ anagrams
 antiemperor
 avenalin
 assize
-amiant
 antiprostate
 achmetha
 archform
