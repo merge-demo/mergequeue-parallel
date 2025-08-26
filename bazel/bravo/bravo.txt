@@ -9336,7 +9336,6 @@ barman
 backarrow
 birchwood
 baccaras
-bindweb
 barcaroles
 birdbander
 beggaries
@@ -18105,6 +18104,7 @@ butcherbird
 ballock
 breakably
 bipalium
+bindweb
 brins
 borstal
 benzal
