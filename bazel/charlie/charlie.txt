@@ -19356,7 +19356,6 @@ colophenic
 colophony
 cropland
 cavillatory
-conscriptionist
 cosalite
 colophonic
 colophons
@@ -28701,6 +28700,7 @@ crepine
 creping
 crepis
 colons
+conscriptionist
 churled
 crepitated
 cutesiest
