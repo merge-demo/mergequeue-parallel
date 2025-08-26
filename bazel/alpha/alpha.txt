@@ -81,7 +81,6 @@ abandon
 amaas
 androecial
 amphipods
-abandoned
 alispheno
 abandoners
 abandoning
@@ -12064,6 +12063,7 @@ anatheme
 actuaryship
 anatidae
 amidstream
+abandoned
 anatifer
 adumbrellar
 antiatonement
