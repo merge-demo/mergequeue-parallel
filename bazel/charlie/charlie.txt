@@ -13661,7 +13661,6 @@ castorial
 cymometer
 colature
 cardiarctia
-clavicembali
 cymophane
 cymophanous
 cymophenol
@@ -18406,6 +18405,7 @@ chirimoya
 compactedness
 cognition
 cucullated
+clavicembali
 conclude
 canmaking
 componentry
