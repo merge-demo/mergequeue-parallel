@@ -6285,7 +6285,6 @@ bummler
 bookism
 barndoor
 biuret
-bosporus
 bessera
 blastogenesis
 bubas
@@ -17198,6 +17197,7 @@ balladier
 bumbailiffship
 basidigitalia
 batardeau
+bosporus
 bulten
 borsch
 bulwarked
