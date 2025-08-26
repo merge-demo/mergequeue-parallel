@@ -4744,7 +4744,6 @@ antimaterialist
 autunite
 asamblea
 ace
-aerobiologically
 aconites
 arrivederci
 aerobiologist
@@ -11624,6 +11623,7 @@ anaerobiotic
 anaerobium
 anaerophyte
 anaphylactic
+aerobiologically
 amatols
 anaeroplastic
 anaesthesiology
