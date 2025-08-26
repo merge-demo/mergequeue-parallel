@@ -15573,6 +15573,7 @@ antinormality
 antinormalness
 alembics
 anoxaemia
+asphyxiating
 aphidicolous
 antinovelist
 antinucleons
@@ -21419,7 +21420,6 @@ auxoaction
 asphyxiated
 antiphase
 amarantite
-asphyxiating
 asphyxiation
 asphyxiator
 airbound
