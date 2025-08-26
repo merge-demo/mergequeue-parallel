@@ -5897,7 +5897,6 @@ dirk
 depreciable
 depreciate
 deponents
-depreciatingly
 despots
 drago
 depreciation
@@ -14222,6 +14221,7 @@ diastatically
 dermatomic
 deleter
 disunion
+depreciatingly
 drolly
 disunites
 dithyrambic
