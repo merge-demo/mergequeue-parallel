@@ -8912,7 +8912,6 @@ decurrencies
 diceboard
 disp
 dilemi
-diceman
 dicentras
 dipyramid
 dyads
@@ -13564,6 +13563,7 @@ dysury
 downtrodden
 dissaving
 djinny
+diceman
 dysgraphia
 dreissensia
 dewdrop
