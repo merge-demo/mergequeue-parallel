@@ -6970,6 +6970,7 @@ asporogenous
 arthropathy
 ameiotic
 allocation
+analogue
 aphanite
 allonge
 akenes
@@ -11786,7 +11787,6 @@ ailing
 analogously
 analogousness
 azophenylene
-analogue
 analphabet
 antiparliamentary
 analphabete
