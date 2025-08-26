@@ -16582,7 +16582,6 @@ comal
 croupes
 chirm
 cloisterly
-cloisterlike
 carburization
 contorting
 cantish
@@ -19573,6 +19572,7 @@ columbae
 columban
 capabilities
 columbaria
+cloisterlike
 columbaries
 columbarium
 clours
