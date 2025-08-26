@@ -7665,6 +7665,7 @@ almadia
 alderamin
 avianize
 asexually
+arteria
 alderman
 alectoromorphous
 aldermanate
@@ -20367,7 +20368,6 @@ antiskidding
 antimodernness
 artery
 augments
-arteria
 associating
 ariegite
 amplifications
