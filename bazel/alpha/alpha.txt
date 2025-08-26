@@ -3392,7 +3392,6 @@ additive
 acrogynous
 additivity
 akrabattine
-apesthesia
 additory
 augustin
 appointively
@@ -25122,6 +25121,7 @@ antiduke
 axiomatized
 austenitize
 apertum
+apesthesia
 axiomatizes
 axiomatizing
 alums
