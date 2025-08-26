@@ -10884,6 +10884,7 @@ amnios
 amniota
 amidship
 antipreparedness
+antherids
 amniotic
 amniotin
 alkaligen
@@ -21277,7 +21278,6 @@ ascii
 appreciative
 alexipharmacum
 aftergame
-antherids
 asker
 askewgee
 askip

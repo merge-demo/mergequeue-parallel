@@ -5444,7 +5444,6 @@ brainteasers
 brakes
 bathylimnetic
 bars
-boshvarks
 betravel
 behaviorists
 behavioural
@@ -9848,6 +9847,7 @@ bytes
 bitewing
 barfing
 beryx
+boshvarks
 based
 bronchospasm
 backswording
