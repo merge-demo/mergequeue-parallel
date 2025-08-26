@@ -7030,6 +7030,7 @@ arthroderm
 aerocartograph
 amidic
 actuator
+appreteur
 anointers
 akmuddar
 aknow
@@ -17820,7 +17821,6 @@ anticold
 anabathmos
 apiology
 appressorium
-appreteur
 atherogenic
 apprisers
 apprising
