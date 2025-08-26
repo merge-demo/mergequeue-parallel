@@ -1721,6 +1721,7 @@ dearness
 deaspirate
 dispensations
 debilitant
+disembed
 defensibility
 deaspiration
 degree
@@ -9038,7 +9039,6 @@ desegmented
 debel
 dicots
 dicoumarin
-disembed
 depravate
 dermatoplast
 dicoumarol
