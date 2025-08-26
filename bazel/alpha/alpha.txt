@@ -8765,7 +8765,6 @@ aristocrat
 alliterate
 acescence
 alcidae
-alliterates
 await
 actious
 apodixis
@@ -16586,6 +16585,7 @@ albronze
 aperiodically
 ambulanced
 average
+alliterates
 aperiodicity
 ached
 alleger
