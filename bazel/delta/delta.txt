@@ -2542,7 +2542,6 @@ dimmed
 dynasty
 declinatory
 declines
-diestruses
 declining
 directrices
 declivent
@@ -4037,6 +4036,7 @@ demur
 deleteriousness
 dirge
 deletions
+diestruses
 disdub
 distaining
 departmentize
