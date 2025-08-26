@@ -2157,7 +2157,6 @@ achroiocythaemia
 apod
 assessably
 amphioxides
-anomalipod
 actinal
 aperistalsis
 abattue
@@ -8916,6 +8915,7 @@ allopathist
 audited
 araceae
 agena
+anomalipod
 apprized
 accrescendi
 assurd
