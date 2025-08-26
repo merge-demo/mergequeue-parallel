@@ -6772,7 +6772,6 @@ capless
 celioscope
 cella
 cellarage
-cellared
 chamoix
 cellaress
 chanceable
@@ -14744,6 +14743,7 @@ cholesteryl
 catmint
 circumagitate
 coruscant
+cellared
 comber
 citherns
 cithers
