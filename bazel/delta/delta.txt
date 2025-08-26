@@ -8253,7 +8253,6 @@ desmopelmous
 dell
 ductus
 distrito
-diaglyptic
 deliver
 diagnostical
 disenthroned
@@ -12062,6 +12061,7 @@ discourteous
 daymen
 diaspidinae
 deambulatory
+diaglyptic
 disenmesh
 dibrom
 donut
