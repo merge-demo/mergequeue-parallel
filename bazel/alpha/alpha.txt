@@ -5268,7 +5268,6 @@ argoletier
 afforested
 afforesting
 anticogitative
-afformative
 affrayers
 affraying
 allegation
@@ -5870,6 +5869,7 @@ acad
 amphithecial
 aggravative
 amazonstone
+afformative
 aneurism
 ardeidae
 antroscopy
