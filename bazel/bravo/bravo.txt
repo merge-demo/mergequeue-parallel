@@ -6992,6 +6992,7 @@ bearherd
 bedsite
 bestrid
 beslimes
+besottedly
 besliming
 backsheesh
 breme
@@ -7068,7 +7069,6 @@ baronet
 boodh
 boothian
 bridehouse
-besottedly
 boweled
 bombidae
 byre
