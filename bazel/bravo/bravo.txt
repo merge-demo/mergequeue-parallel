@@ -4543,6 +4543,7 @@ bathroot
 bater
 bool
 bedabble
+bewormed
 beaten
 bouffante
 busts
@@ -12159,7 +12160,6 @@ burlier
 bloomkin
 bolero
 bivoltine
-bewormed
 barbarianism
 begrudgingly
 burdeners
