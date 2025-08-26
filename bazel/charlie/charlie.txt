@@ -26002,7 +26002,6 @@ crannoge
 clavate
 cosettler
 cosh
-coshed
 cosher
 countermanded
 chestiness
@@ -27403,6 +27402,7 @@ cousinhood
 choroidea
 chlorosulphonic
 curupira
+coshed
 cousinry
 cousinries
 cousinship
