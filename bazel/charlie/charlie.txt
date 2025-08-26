@@ -1837,6 +1837,7 @@ cambered
 croc
 cambeva
 cambia
+cosmonautics
 cambiata
 charlatanry
 choregy
@@ -11374,7 +11375,6 @@ chloropicrin
 chloroplast
 chloroplastic
 chloroplasts
-cosmonautics
 coenamorment
 commences
 chiastic
