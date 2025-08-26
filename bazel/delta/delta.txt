@@ -1868,6 +1868,7 @@ depiction
 decretal
 dispunge
 dramaturge
+denominationalize
 dissimulation
 dalespeople
 dispirit
@@ -10539,7 +10540,6 @@ dipyrenous
 dipyridyl
 dichter
 diosmose
-denominationalize
 diplantidian
 drynaria
 diplarthrism
