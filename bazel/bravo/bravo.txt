@@ -12039,7 +12039,6 @@ brachiated
 boid
 boydekyn
 boydom
-boyer
 blub
 beking
 barbascos
@@ -14694,6 +14693,7 @@ bratticing
 brattie
 betrothal
 biobibliographic
+boyer
 bloatedness
 bowpots
 bowlings
