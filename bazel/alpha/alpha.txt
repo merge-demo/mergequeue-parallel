@@ -5804,7 +5804,6 @@ ageometrical
 advisor
 absence
 anophyte
-ager
 agers
 ages
 altisonant
@@ -13142,6 +13141,7 @@ anteromedial
 alchem
 anientise
 achtelthaler
+ager
 animosity
 animoso
 aftosas
