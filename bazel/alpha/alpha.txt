@@ -11044,6 +11044,7 @@ autoput
 amotion
 amotions
 aubade
+anecdotical
 attitudinized
 attics
 antiglare
@@ -12403,7 +12404,6 @@ adequateness
 anecdote
 anecdotes
 anecdotic
-anecdotical
 anova
 anecdotically
 aegagropile
