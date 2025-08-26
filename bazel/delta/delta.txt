@@ -3588,7 +3588,6 @@ degener
 declaredness
 dripping
 distater
-dextrogyre
 dinosauric
 dorsomedian
 dinornithiformes
@@ -11006,6 +11005,7 @@ disaffirmance
 dispersedye
 dheri
 dictyosiphon
+dextrogyre
 dreadnoughts
 disaffirmation
 disaffirming

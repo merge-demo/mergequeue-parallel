@@ -7129,7 +7129,6 @@ cestraciontidae
 centralise
 centralised
 convictively
-celerity
 centralising
 coelosperm
 centrality
@@ -26797,6 +26796,7 @@ counterextension
 circumduce
 counterfact
 carniferous
+celerity
 counterfactual
 chilled
 counterfactually
