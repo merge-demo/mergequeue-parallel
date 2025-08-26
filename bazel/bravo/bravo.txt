@@ -6277,6 +6277,7 @@ beveling
 bungalow
 bennets
 bootlace
+bummler
 bookism
 barndoor
 biuret
@@ -7091,7 +7092,6 @@ bannerette
 briquetting
 bespeak
 bodyless
-bummler
 biggings
 boucle
 bimorphs
