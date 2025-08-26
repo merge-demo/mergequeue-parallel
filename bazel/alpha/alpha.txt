@@ -3159,7 +3159,6 @@ alids
 achingly
 acubens
 attachments
-acuclosure
 acuductor
 acuities
 antiendotoxin
@@ -17666,6 +17665,7 @@ applicable
 androgonia
 applicableness
 asilid
+acuclosure
 amylogenesis
 ambilaterality
 archdespot
