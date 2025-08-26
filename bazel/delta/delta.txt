@@ -2835,6 +2835,7 @@ dissuasive
 deperm
 disaffirm
 desensitizations
+divertissements
 dramatizations
 dynatron
 decumanus
@@ -14524,7 +14525,6 @@ disproof
 dechloridation
 divertisement
 dextrogyrous
-divertissements
 divertive
 diverts
 deferment
