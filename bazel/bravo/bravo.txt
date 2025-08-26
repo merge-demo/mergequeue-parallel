@@ -811,6 +811,7 @@ boothose
 batrachophobia
 benignness
 blake
+biaswise
 baffies
 bacalao
 bangalow
@@ -12696,7 +12697,6 @@ blunderheaded
 boondoggled
 boohooing
 besilver
-biaswise
 bear
 bungarus
 boroughmongering
