@@ -16654,6 +16654,7 @@ akebi
 attidae
 aphanophyre
 acara
+avicularian
 aphanozygous
 adenolipomatosis
 adverbless
@@ -20673,7 +20674,6 @@ aerocolpos
 artiodactylous
 aporobranchia
 appendixed
-avicularian
 anaphoria
 agoniadin
 ampullated
