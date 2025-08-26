@@ -10701,6 +10701,7 @@ aminosuccinamic
 applicants
 araru
 amins
+analogic
 aminta
 amyosthenic
 amyotonia
@@ -11796,7 +11797,6 @@ analoga
 attractance
 analogy
 atony
-analogic
 anteposition
 ananta
 anaximandrian
