@@ -1789,7 +1789,6 @@ afterage
 anthropomorphous
 acephalist
 adumbratively
-acephalocyst
 alveloz
 assembles
 acephalous
@@ -15163,6 +15162,7 @@ antifire
 annunciated
 amylogens
 antiflash
+acephalocyst
 antiecclesiastically
 antiflattering
 argentojarosite
