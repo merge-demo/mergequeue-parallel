@@ -11651,6 +11651,7 @@ anaphylactic
 aerobiologically
 amatols
 anaeroplastic
+astate
 anaesthesiology
 anaesthesis
 abeltree
@@ -12168,7 +12169,6 @@ allothigene
 altruism
 almach
 anchorite
-astate
 archinfamy
 anchoritess
 alignment
