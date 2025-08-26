@@ -2079,7 +2079,6 @@ bivittate
 banovina
 banquet
 bundist
-banqueting
 beseem
 buddhistic
 besteer
@@ -8880,6 +8879,7 @@ belch
 biobibliographer
 barleysick
 bioblastic
+banqueting
 backwoodsiness
 bungaloid
 berakot
