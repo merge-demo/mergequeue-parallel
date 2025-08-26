@@ -4799,7 +4799,6 @@ charitably
 coelomesoblast
 carretera
 carreton
-carri
 cetaceous
 carry
 carriage
@@ -29276,6 +29275,7 @@ cryptogenic
 cryptoglioma
 caried
 centeses
+carri
 custody
 cryptogram
 cryptogrammatic
