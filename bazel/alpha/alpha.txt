@@ -18447,7 +18447,6 @@ abject
 ateknia
 akron
 arte
-aporobranchia
 arborists
 arsmetrike
 arborizing
@@ -20672,6 +20671,7 @@ artiness
 artiodactyla
 aerocolpos
 artiodactylous
+aporobranchia
 appendixed
 avicularian
 anaphoria
