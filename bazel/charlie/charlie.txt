@@ -4536,7 +4536,6 @@ carnificial
 carnifies
 colonel
 cnidocell
-carniform
 consummatory
 chukar
 carnitine
@@ -28952,6 +28951,7 @@ crig
 crying
 crile
 cineast
+carniform
 choanoflagellidae
 climatography
 chastisable
