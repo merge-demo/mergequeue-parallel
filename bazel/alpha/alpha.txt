@@ -6287,6 +6287,7 @@ allotypical
 agrypnia
 agrypnotic
 acajou
+adipopexic
 agroan
 agrobacterium
 agrobiological
@@ -13236,7 +13237,6 @@ archit
 anisoin
 archiater
 anisoles
-adipopexic
 albireo
 axseeds
 aurifex
