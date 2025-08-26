@@ -6378,7 +6378,6 @@ couve
 cerebromedullary
 calcareosiliceous
 compurgatorial
-croisad
 collocationable
 cautioner
 cautioners
@@ -19787,6 +19786,7 @@ combustible
 chambellan
 combustibleness
 combusting
+croisad
 combustion
 combustious
 combustive
