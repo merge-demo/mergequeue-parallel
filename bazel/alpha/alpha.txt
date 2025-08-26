@@ -8489,6 +8489,7 @@ alkylidene
 alkylize
 aphidiinae
 aborts
+aigrettes
 alkyls
 aphthae
 anabolin
@@ -25339,7 +25340,6 @@ azosulphonic
 azotemia
 azotemias
 ankylosis
-aigrettes
 azotemic
 amphitheatered
 azotenesis
