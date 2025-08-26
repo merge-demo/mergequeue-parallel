@@ -1738,7 +1738,6 @@ cascadian
 calumniously
 canephor
 calusa
-calutron
 condores
 comporting
 carbonylate
@@ -29667,6 +29666,7 @@ cunyie
 cocovenantor
 cromlech
 cromme
+calutron
 chillums
 cryptoanalytics
 cultirostral
