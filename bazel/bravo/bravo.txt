@@ -10384,7 +10384,6 @@ blanches
 blancmange
 buntlines
 besnows
-blancmanges
 boskets
 bramantip
 bootholder
@@ -17541,6 +17540,7 @@ bascule
 broadacre
 burgality
 beaufort
+blancmanges
 bouses
 bakshis
 benzothiophene
