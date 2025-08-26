@@ -3449,7 +3449,6 @@ capsian
 ceruses
 capsicums
 carvacrol
-capsid
 coumarous
 chylosis
 competencies
@@ -19395,6 +19394,7 @@ colorate
 coloration
 colorative
 centrifugally
+capsid
 condemnably
 cere
 crossarms
