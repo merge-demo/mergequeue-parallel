@@ -14267,7 +14267,6 @@ dinocerata
 delubrubra
 dormer
 dital
-ditalini
 dahoman
 degusting
 dressy
@@ -14685,6 +14684,7 @@ divulger
 deplete
 dianodal
 derisible
+ditalini
 doomstead
 despicable
 discipliner
