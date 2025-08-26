@@ -3207,7 +3207,6 @@ bellowslike
 backwoodsman
 bathtub
 bipontine
-blatters
 basifugal
 barkpeel
 biltong
@@ -3315,6 +3314,7 @@ beudantite
 basked
 basketballer
 baggiest
+blatters
 beings
 bathflower
 bandurria
