@@ -3857,6 +3857,7 @@ adjurer
 adjures
 aspersorium
 autotyphization
+arabine
 agnes
 absinthes
 ayah
@@ -19006,7 +19007,6 @@ aholt
 apishness
 allegedly
 allegoric
-arabine
 abderian
 antivenine
 alit
