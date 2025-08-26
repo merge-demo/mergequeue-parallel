@@ -6134,7 +6134,6 @@ cupolas
 catwalk
 conqueringly
 chancier
-calycule
 catwise
 convictive
 crusta
@@ -17872,6 +17871,7 @@ chlamys
 camas
 codicils
 codicology
+calycule
 codifications
 carbamoyl
 cycasin
