@@ -7918,7 +7918,6 @@ corixidae
 cetologist
 cetomorpha
 cumular
-celiomyalgia
 cetonia
 cetonian
 curwhibble
@@ -19245,6 +19244,7 @@ collutoria
 collutories
 cafeteria
 collutorium
+celiomyalgia
 colluvial
 chiffonade
 countlessly
