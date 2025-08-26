@@ -2882,7 +2882,6 @@ blazonries
 bacchanalianism
 barramundies
 blanque
-bilocation
 bottleful
 broadcasts
 broadthroat
@@ -5157,6 +5156,7 @@ bromhidrosis
 bloodthirstiness
 bullberry
 baubling
+bilocation
 bimorphemic
 banco
 balletomania

@@ -6090,7 +6090,6 @@ damiana
 diopsis
 deputing
 diaconicon
-digitalization
 directiveness
 dorps
 delicacy
@@ -8222,6 +8221,7 @@ diadema
 depart
 diaderm
 diadic
+digitalization
 disabusing
 decouples
 dyadics
