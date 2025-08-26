@@ -938,6 +938,7 @@ boscage
 beltian
 bagrationite
 bagre
+bayous
 berryless
 biopsychic
 benzoquinone
@@ -15255,7 +15256,6 @@ bighorn
 bridgebuilder
 bridgehead
 bridgemaking
-bayous
 bejan
 benediction
 bridger
