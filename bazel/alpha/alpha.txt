@@ -11175,7 +11175,6 @@ amphidisc
 acridan
 amphidiscophoran
 amphierotism
-antisyphilitic
 aerophilia
 amphigaea
 aerostat
@@ -23987,6 +23986,7 @@ antinationalistic
 autodialing
 autodialled
 antiphysic
+antisyphilitic
 antilacrosse
 autodialling
 autoagglutination
