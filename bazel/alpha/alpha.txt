@@ -746,6 +746,7 @@ admetus
 ack
 ammodytes
 abrash
+arthur
 abrasing
 antisuffragist
 autogyro
@@ -20590,7 +20591,6 @@ arthrozoa
 amaine
 antieugenic
 annunciates
-arthur
 arty
 advertising
 artichoke
