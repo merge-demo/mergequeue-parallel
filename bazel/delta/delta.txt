@@ -6729,6 +6729,7 @@ dacron
 dimedone
 dispeopled
 didunculus
+dits
 date
 designatum
 designedly
@@ -16208,7 +16209,6 @@ doveweed
 drinkery
 dowager
 dianoetic
-dits
 dowagers
 dispersions
 dromical
