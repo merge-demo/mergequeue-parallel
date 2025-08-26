@@ -15068,7 +15068,6 @@ crowing
 civism
 civisms
 civitan
-coxalgic
 civitas
 civite
 chinchasuyu
@@ -15669,6 +15668,7 @@ coenoecium
 claustrophilia
 cassabanana
 circumambulatory
+coxalgic
 chastely
 candidature
 clausula
