@@ -6905,6 +6905,7 @@ curvirostres
 charros
 cackler
 cementer
+coursey
 cementers
 cementification
 cyborgs
@@ -27311,7 +27312,6 @@ coleseed
 course
 codirectorship
 cosmology
-coursey
 coursers
 courses
 coursing
