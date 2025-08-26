@@ -1013,7 +1013,6 @@ baiera
 boti
 bioavailability
 butadiene
-biparental
 brichen
 baldness
 bronchiocrisis
@@ -14111,6 +14110,7 @@ backhooker
 brachiolaria
 bogusness
 brachiopoda
+biparental
 baldy
 beltene
 brachiopode
