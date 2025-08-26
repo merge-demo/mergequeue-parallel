@@ -2520,6 +2520,7 @@ baric
 barycenter
 bemused
 burmite
+bijection
 brillolette
 bootful
 barid
@@ -17346,7 +17347,6 @@ bushfighter
 bushwa
 bungee
 bunger
-bijection
 bisectional
 bunghole
 brumby
