@@ -11094,6 +11094,7 @@ disappearer
 diamagnetically
 droning
 drink
+disequilibrate
 deedy
 difluoride
 denumerability
@@ -17458,7 +17459,6 @@ droseraceae
 droseraceous
 droplets
 deliquate
-disequilibrate
 decarbonising
 drosophilas
 dracontic
