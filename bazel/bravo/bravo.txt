@@ -13946,7 +13946,6 @@ bactritoid
 bowstrung
 behavior
 bowtell
-barographic
 backpointer
 byspell
 broadened
@@ -15813,6 +15812,7 @@ bluntly
 butyls
 beno
 batts
+barographic
 bignonias
 bloodstainedness
 babiism
