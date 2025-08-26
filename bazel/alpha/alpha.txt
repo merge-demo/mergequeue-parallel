@@ -17785,7 +17785,6 @@ apogonidae
 aerologies
 acetnaphthalide
 asterochiton
-anaclisis
 andamento
 artotypy
 ascots
@@ -24535,6 +24534,7 @@ availing
 amapondo
 apollyon
 avails
+anaclisis
 abrogators
 admixture
 ambergrease
