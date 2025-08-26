@@ -4674,7 +4674,6 @@ dereliction
 demipectinate
 denarius
 dustproof
-diswench
 demiscible
 denticulate
 demise
@@ -11750,6 +11749,7 @@ decancellation
 dodoes
 discoverture
 dochmiac
+diswench
 discradle
 deprivation
 dockhands
