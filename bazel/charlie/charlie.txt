@@ -841,7 +841,6 @@ cladoselachidae
 cumbrously
 crackrope
 coamiable
-couverte
 cairngorm
 convictable
 cairngorum
@@ -13331,6 +13330,7 @@ chinning
 cyclope
 caroller
 churchwarden
+couverte
 cyclopedias
 cyclopedical
 cyclopentanone

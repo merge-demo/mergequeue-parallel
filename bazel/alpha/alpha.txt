@@ -4716,7 +4716,6 @@ asterionella
 acarology
 anaretic
 antihum
-aorists
 aerials
 agrologically
 aeric
@@ -8316,6 +8315,7 @@ arbitrational
 alipteria
 aliptic
 aporia
+aorists
 amoebidae
 alypum
 accroach
