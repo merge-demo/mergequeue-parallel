@@ -9473,7 +9473,6 @@ dozener
 digeneous
 decubitus
 dissert
-digenetic
 digenetica
 dividing
 demibob
@@ -14331,6 +14330,7 @@ dytiscus
 ditokous
 dichrooscope
 dibasic
+digenetic
 draisene
 ditolyl
 disharmonies
