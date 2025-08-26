@@ -5825,7 +5825,6 @@ deportment
 desmotropism
 dacker
 deepnesses
-decoupled
 deposer
 deposers
 discouragement
@@ -9982,6 +9981,7 @@ droved
 declassee
 diolefine
 decongesting
+decoupled
 droner
 dodged
 diminution
