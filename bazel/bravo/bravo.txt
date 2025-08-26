@@ -1525,7 +1525,6 @@ blackware
 ballas
 barbouillage
 baronetised
-ballastage
 beeherd
 bersiamite
 bulbiform
@@ -15099,6 +15098,7 @@ byeworker
 beqwete
 boar
 brewages
+ballastage
 bogier
 baw
 bronchotyphoid
