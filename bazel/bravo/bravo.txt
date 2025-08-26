@@ -14216,7 +14216,6 @@ besot
 belamour
 biomechanics
 balloonish
-bradypeptic
 bradyphrasia
 bradyphrenia
 bradypnea
@@ -15516,6 +15515,7 @@ braggadocio
 bryozoon
 blanchers
 belyingly
+bradypeptic
 brique
 bilbos
 brisances
