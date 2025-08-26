@@ -899,7 +899,6 @@ bedrenching
 babishness
 blundering
 biacromial
-bagmaker
 bagnes
 bastnaesite
 blowze
@@ -17924,6 +17923,7 @@ bushmaking
 branial
 bibliopoly
 bushman
+bagmaker
 benignant
 bulbiferous
 busyness
