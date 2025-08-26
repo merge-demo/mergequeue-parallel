@@ -829,7 +829,6 @@ cainish
 canisiana
 contaminated
 carburation
-cainite
 cainitic
 cayos
 caique
@@ -17750,6 +17749,7 @@ charterable
 crimeless
 creagh
 caved
+cainite
 cocoons
 cocopan
 choup
