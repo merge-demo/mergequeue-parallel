@@ -7415,7 +7415,6 @@ belgians
 betread
 barnier
 burglarproofed
-botrydium
 betrend
 braveries
 betrothing
@@ -17784,6 +17783,7 @@ bundobust
 bursae
 bursary
 bengaline
+botrydium
 backstroked
 bacterizing
 brave
