@@ -4268,7 +4268,6 @@ aterian
 adsmith
 atelectasis
 adsmithing
-adelocerous
 adsorb
 autotriploid
 adsorbability
@@ -23424,6 +23423,7 @@ alloplasmatic
 ammoniaemia
 augustine
 abvolts
+adelocerous
 arsenicating
 aotea
 augustinism
