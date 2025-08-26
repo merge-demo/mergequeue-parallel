@@ -5349,7 +5349,6 @@ aspirator
 afrasia
 ammocete
 aeonial
-afresca
 anomiidae
 axed
 acinous
@@ -5947,6 +5946,7 @@ agility
 auxotrophic
 antemortal
 agilities
+afresca
 amenorrhoeic
 attorneyship
 avdp
