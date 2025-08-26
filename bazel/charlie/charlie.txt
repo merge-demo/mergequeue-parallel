@@ -19042,7 +19042,6 @@ collenchyme
 collencyte
 colleri
 collery
-cofferlike
 candyh
 colleted
 commentatorial
@@ -29344,6 +29343,7 @@ cryptoscope
 cryptoscopy
 cryptosplenetic
 cryptostome
+cofferlike
 cryptous
 cryptovalence
 cholane
