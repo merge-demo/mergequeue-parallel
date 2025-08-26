@@ -27740,7 +27740,6 @@ coxcombic
 chondrus
 cordleaf
 cenosite
-coxcombity
 coxcomically
 cenobitical
 cytocentrum
@@ -30049,6 +30048,7 @@ crowdy
 crowdies
 confecture
 crowding
+coxcombity
 crowdle
 crowds
 chromatrope
