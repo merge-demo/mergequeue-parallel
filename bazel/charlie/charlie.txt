@@ -9734,6 +9734,7 @@ crankpins
 cleanness
 churchmanship
 cheiropod
+cherry
 congressed
 cheiropody
 churchgoer
@@ -10008,7 +10009,6 @@ cheries
 cosmotron
 circumhorizontal
 celeries
-cherry
 cherryblossom
 cherried
 cumbu
