@@ -11506,6 +11506,7 @@ compester
 chokedamp
 chokeys
 camerata
+chewable
 congenetic
 choker
 cratonic
@@ -31387,7 +31388,6 @@ chemotropic
 curiologically
 curiologics
 comparability
-chewable
 colophon
 colubaria
 curios
