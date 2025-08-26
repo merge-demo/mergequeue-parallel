@@ -869,6 +869,7 @@ blackboards
 backband
 bootblack
 bloody
+bovid
 bagdi
 bunters
 begoniaceae
@@ -4723,7 +4724,6 @@ bedlamitish
 bedub
 bucephalus
 blowback
-bovid
 bibliogenesis
 bedewing
 bloomeria
