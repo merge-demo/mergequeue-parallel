@@ -8538,7 +8538,6 @@ chancelor
 cedre
 capillaire
 calathidium
-chancels
 chancemen
 corance
 conoscente
@@ -15467,6 +15466,7 @@ clarinettists
 clarini
 chlorates
 clarino
+chancels
 clarinos
 chromid
 clarion
