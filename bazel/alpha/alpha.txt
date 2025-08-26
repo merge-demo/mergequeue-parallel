@@ -6287,6 +6287,7 @@ allotypical
 agrypnia
 agrypnotic
 acajou
+auriscalpium
 adipopexic
 agroan
 agrobacterium
@@ -18212,7 +18213,6 @@ aloose
 araca
 aerospace
 apostatising
-auriscalpium
 aracana
 antefebrile
 arach

@@ -25359,7 +25359,6 @@ cornflower
 cornflowers
 corngrower
 cornhole
-cornhouse
 cornhusker
 concertati
 chamades
@@ -30148,6 +30147,7 @@ colpheg
 cerotype
 cornuses
 cliffs
+cornhouse
 christ
 chondroglossus
 crucifixions
