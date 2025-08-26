@@ -8218,6 +8218,7 @@ boring
 biflex
 benchfellow
 bifluoride
+beshiver
 bifocal
 balanocele
 berith
@@ -10924,7 +10925,6 @@ blindworm
 bipinnatipartite
 backscratcher
 blackamoor
-beshiver
 bumps
 biloquist
 bushpig
