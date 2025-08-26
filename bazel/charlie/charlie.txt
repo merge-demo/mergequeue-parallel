@@ -26224,7 +26224,6 @@ costermonger
 cothy
 costicartilage
 costicartilaginous
-chloroacetic
 costicervical
 caciqueship
 crusader
@@ -30668,6 +30667,7 @@ chuhra
 computerized
 cudgerie
 cuds
+chloroacetic
 cudweed
 czarian
 cudweeds
