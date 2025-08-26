@@ -6786,6 +6786,7 @@ betimes
 berossos
 bendability
 berreaves
+bisso
 bolos
 berret
 berrettas
@@ -15490,7 +15491,6 @@ beardlike
 bullseye
 brioches
 blase
-bisso
 bitwise
 bimas
 beadlet
