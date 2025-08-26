@@ -7612,7 +7612,6 @@ deuzan
 discernible
 drou
 doublewidth
-diddikai
 darking
 darwinistic
 deva
@@ -14684,6 +14683,7 @@ divulge
 divulged
 diminuted
 delawarean
+diddikai
 dyslalia
 divulger
 dianodal
