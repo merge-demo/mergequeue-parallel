@@ -15796,6 +15796,7 @@ dakota
 dendrochronologist
 deuterocone
 diphosphid
+dubs
 denunciation
 deescalation
 dewools
@@ -15947,7 +15948,6 @@ doser
 datura
 dogproof
 dosing
-dubs
 dosinia
 dehairer
 doped
