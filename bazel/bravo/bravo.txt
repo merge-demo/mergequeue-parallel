@@ -2658,7 +2658,6 @@ barling
 bortz
 bertholletia
 barghest
-breechloader
 basiliscus
 backlins
 berrugate
@@ -12072,6 +12071,7 @@ boyo
 besmearing
 boyology
 battiest
+breechloader
 boyship
 boisterous
 brangling
