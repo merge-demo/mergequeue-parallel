@@ -1800,6 +1800,7 @@ bizardite
 bepurple
 banago
 buzzy
+beclowns
 bacteriaceous
 beglads
 banak
@@ -11427,7 +11428,6 @@ bedrail
 beetleweed
 bemuffle
 butyraldehyde
-beclowns
 barad
 babuma
 boatheader
