@@ -6360,6 +6360,7 @@ barrer
 brike
 benzanthracene
 boxboard
+burglarizing
 bestowed
 bai
 bibs
@@ -17598,7 +17599,6 @@ burghmaster
 bowdlerized
 burring
 bearlet
-burglarizing
 bulldozes
 brenda
 burglarproofs
