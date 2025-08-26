@@ -1472,6 +1472,7 @@ decretorial
 deckhouses
 dazy
 dazzle
+discomedusan
 dawnstreak
 discriminative
 diffusor
@@ -11307,7 +11308,6 @@ discamp
 drawstring
 discanted
 dermochelys
-discomedusan
 dragon
 delegacies
 duckwheat
