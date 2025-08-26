@@ -9639,6 +9639,7 @@ druse
 diguanide
 dihalide
 derives
+diakinetic
 deil
 dihalogen
 deadline
@@ -16562,7 +16563,6 @@ dictated
 dehydrofreezing
 dethroning
 draftiest
-diakinetic
 diarrhetic
 decollation
 decorticating
