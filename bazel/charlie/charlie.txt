@@ -513,7 +513,6 @@ canonize
 counterreply
 cesar
 cadets
-cataleptoid
 cadetship
 cyclophorus
 cadette
@@ -27626,6 +27625,7 @@ cowhand
 cowherb
 cowherds
 clavicornate
+cataleptoid
 capeworks
 caliver
 cowhided
