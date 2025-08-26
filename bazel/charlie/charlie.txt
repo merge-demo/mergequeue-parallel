@@ -5267,7 +5267,6 @@ cassiopeium
 cladrastis
 cramps
 cassis
-crampy
 courtling
 cassiterite
 ccws
@@ -24021,6 +24020,7 @@ caprimulgi
 cirrolite
 codfisheries
 convergence
+crampy
 coiling
 cryptocephala
 convergences

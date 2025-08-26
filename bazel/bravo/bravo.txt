@@ -2365,6 +2365,7 @@ boxwork
 blip
 bebeeru
 barcone
+batterfang
 bedarkened
 banshie
 beylical
@@ -11231,7 +11232,6 @@ buckeye
 blote
 beaker
 boder
-batterfang
 brazenness
 bracts
 bf
