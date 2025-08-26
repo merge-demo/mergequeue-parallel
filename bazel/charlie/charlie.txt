@@ -13478,7 +13478,6 @@ cygnid
 commodore
 cygninae
 companionableness
-cygnus
 calycanthus
 cigua
 cyke
@@ -28013,6 +28012,7 @@ chameleonic
 crammingly
 cramoisies
 cleistogamic
+cygnus
 cramp
 cramped
 colonalgia
