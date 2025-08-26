@@ -9917,6 +9917,7 @@ bitternut
 benzoated
 buhl
 biotite
+barrenly
 brachydome
 bitterroot
 backfall
@@ -13711,7 +13712,6 @@ backsliders
 buchanan
 bourtree
 bombination
-barrenly
 betallow
 bdellostomidae
 bezonian
