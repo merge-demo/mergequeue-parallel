@@ -3301,7 +3301,6 @@ bacterioscopic
 basirostral
 basiscopic
 bacterial
-bangiales
 blepharitic
 butleress
 basisidia
@@ -3374,6 +3373,7 @@ bonesetter
 basiphobia
 buccheros
 branchiopulmonate
+bangiales
 bassalia
 bootable
 brythonic
