@@ -1688,7 +1688,6 @@ dearborn
 dumortierite
 dearest
 derides
-dyne
 deposition
 deadeners
 dephysicalization
@@ -10376,6 +10375,7 @@ denudation
 disfavoring
 desilverizer
 discophore
+dyne
 dioptra
 dioptrate
 demove
