@@ -862,6 +862,7 @@ cayuca
 chinless
 commendador
 cosmothetic
+chousers
 cayuga
 cayugan
 cayugas
@@ -12100,7 +12101,6 @@ chous
 chouse
 choused
 cyanogenesis
-chousers
 choush
 configurationist
 cavaleros
