@@ -6512,7 +6512,6 @@ affirms
 aigre
 adambulacral
 ambrology
-alkaligen
 aigret
 atramental
 axmanship
@@ -10882,6 +10881,7 @@ amidship
 antipreparedness
 amniotic
 amniotin
+alkaligen
 amniotitis
 altaltissimo
 atafter
