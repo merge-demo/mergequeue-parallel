@@ -1915,6 +1915,7 @@ debride
 debridement
 dodecylene
 deodorant
+dactylosternal
 deciphers
 debriefing
 dowser
@@ -9864,7 +9865,6 @@ disseminate
 deadlines
 defacers
 darnings
-dactylosternal
 dissertation
 duocosane
 dispapalize
