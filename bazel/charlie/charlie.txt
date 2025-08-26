@@ -8524,6 +8524,7 @@ chemosterilants
 chanced
 comme
 categorical
+corncockle
 chanceful
 cadrans
 chancefulness
@@ -23236,7 +23237,6 @@ conformism
 consubstantially
 charrs
 coplotted
-corncockle
 cockadoodledoo
 consubstantiate
 consubstantiated
