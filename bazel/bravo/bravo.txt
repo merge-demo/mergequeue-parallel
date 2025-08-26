@@ -6750,7 +6750,6 @@ berme
 bulkiness
 bossiest
 bathe
-bologna
 bermensch
 bermes
 bourgeoisify
@@ -13075,6 +13074,7 @@ borecoles
 buddhic
 bored
 boreen
+bologna
 burdash
 boreiad
 balladeer
