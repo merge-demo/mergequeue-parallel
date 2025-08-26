@@ -5551,7 +5551,6 @@ anticorrosion
 afwillite
 afzelia
 adjustable
-aswing
 alimonied
 auspiciously
 antilopinae
@@ -8447,6 +8446,7 @@ alkalizes
 alkalizing
 aerophysicist
 alkaloid
+aswing
 alkaloids
 alkalosis
 alkalous
