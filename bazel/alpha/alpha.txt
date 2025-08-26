@@ -7641,7 +7641,6 @@ alcoothionic
 artsy
 alcoran
 apposiopestic
-aminity
 alcoranic
 aff
 aphetically
@@ -18424,6 +18423,7 @@ arboral
 amphicondylous
 allotype
 averish
+aminity
 arborary
 amias
 arborea
