@@ -2156,6 +2156,7 @@ dawn
 del
 dilatator
 ditheistic
+drayhorse
 dipterans
 dehydroffrozen
 dehydration
@@ -16682,7 +16683,6 @@ dragsters
 demisovereign
 doctoress
 drayage
-drayhorse
 dipteraceous
 drails
 dereligion
