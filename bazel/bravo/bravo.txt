@@ -1527,6 +1527,7 @@ ballastage
 beeherd
 bersiamite
 bulbiform
+branchiate
 bouton
 beyerite
 backsword
@@ -10811,7 +10812,6 @@ baulkier
 birthrate
 blocks
 belier
-branchiate
 blepharochromidrosis
 balow
 bullbeggar
