@@ -9342,7 +9342,6 @@ chullo
 chaulmaugra
 chaulmoogra
 cytodendrite
-chaulmugra
 chaumiere
 chauna
 cotylophorous
@@ -25105,6 +25104,7 @@ cores
 carbonates
 chlorospinel
 corpselikeness
+chaulmugra
 catalects
 celtization
 coresign
