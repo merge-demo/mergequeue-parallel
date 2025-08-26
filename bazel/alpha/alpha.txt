@@ -2040,7 +2040,6 @@ achroous
 acherontical
 aches
 achesoun
-anthophore
 acheulean
 antecell
 accustoms
@@ -3746,6 +3745,7 @@ adios
 amphitruo
 amphithuron
 acetabuliform
+anthophore
 adipinic
 adipocellulose
 adipoceriform
