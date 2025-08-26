@@ -2814,6 +2814,7 @@ baroswitch
 barotaxy
 bld
 baroquely
+bedabble
 bitis
 ballgowns
 bulkiest
@@ -4541,7 +4542,6 @@ biradiated
 bathroot
 bater
 bool
-bedabble
 bewormed
 beaten
 bouffante
