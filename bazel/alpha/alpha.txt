@@ -14230,7 +14230,6 @@ anthemis
 anther
 aecidiomycetes
 antheraea
-antheridia
 antherogenous
 ammiolite
 adnescent
@@ -20724,6 +20723,7 @@ adeodatus
 antbird
 aruac
 affeer
+antheridia
 apicolysis
 arugulas
 arui
