@@ -3670,6 +3670,7 @@ adheres
 abbozzo
 anticipatively
 archivolt
+arenicolite
 adhesion
 adhesional
 adhesive
@@ -19204,7 +19205,6 @@ areng
 another
 anlas
 arenicola
-arenicolite
 atechnic
 anagrammed
 arenicolous
