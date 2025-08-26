@@ -11059,7 +11059,6 @@ amovable
 apiarists
 acronarcotic
 amove
-amylolytic
 ampangabeite
 archsin
 ampasimenite
@@ -15134,6 +15133,7 @@ ammocoetoid
 antepredicament
 antiextreme
 antifaction
+amylolytic
 antifame
 antifanatic
 allocochick
