@@ -14327,7 +14327,6 @@ anthracia
 anthracyl
 alcazars
 anthracin
-almugs
 anthracitic
 acclaims
 anthracic
@@ -19449,6 +19448,7 @@ antepagments
 adscendent
 archeologist
 anoles
+almugs
 amphidromic
 angularize
 andouille
