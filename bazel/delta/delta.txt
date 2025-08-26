@@ -3505,7 +3505,6 @@ deforse
 diplomatic
 dinitrotoluene
 disapproving
-deprivate
 defrayable
 disembarrassment
 dismissable
@@ -14251,6 +14250,7 @@ diazeuxis
 disvisage
 disyoked
 doublet
+deprivate
 disvisor
 dungs
 dynamoelectric
