@@ -13586,7 +13586,6 @@ disseisee
 dortiship
 deglamorized
 donorship
-defterdar
 deputation
 disaccharose
 dungeoner
@@ -15651,6 +15650,7 @@ deviable
 dap
 doolfu
 doomed
+defterdar
 doomer
 disconnections
 dissentaneousness
