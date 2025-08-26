@@ -13043,6 +13043,7 @@ craniates
 curies
 cyanophile
 cyanophoric
+cookstove
 cyanopia
 colloquize
 cyanoplastid
@@ -24312,7 +24313,6 @@ cookshop
 cookshops
 clinometrical
 cards
-cookstove
 colligible
 contumacies
 coreveler
