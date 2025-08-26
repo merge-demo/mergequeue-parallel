@@ -2814,6 +2814,7 @@ bld
 baroquely
 bedabble
 bitis
+bipartisan
 ballgowns
 bulkiest
 baudery
@@ -15118,7 +15119,6 @@ bristlier
 brusk
 beback
 bryaceae
-bipartisan
 biflecnode
 bullionless
 bram
