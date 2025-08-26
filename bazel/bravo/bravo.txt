@@ -7441,7 +7441,6 @@ besmirched
 batrachia
 buboes
 bashalick
-betterment
 betterments
 bulbocavernous
 bivouacks
@@ -15438,6 +15437,7 @@ biometries
 barbitalism
 bromo
 beignet
+betterment
 bihai
 bans
 bondless
