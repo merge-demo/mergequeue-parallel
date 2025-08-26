@@ -2829,7 +2829,6 @@ canonicalizes
 congealer
 cremor
 cadesse
-canonicals
 condiddled
 canonicate
 canonisation
@@ -21998,6 +21997,7 @@ craniosacral
 colicin
 confirmed
 confirmedness
+canonicals
 corticostriate
 confirmer
 cibarious
