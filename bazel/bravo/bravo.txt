@@ -1534,6 +1534,7 @@ beyerite
 backsword
 ballaster
 ballastic
+bovidae
 ballata
 brisked
 batikulin
@@ -9427,7 +9428,6 @@ bebopper
 bridegroom
 begettal
 bobwood
-bovidae
 boga
 birectangular
 burh
