@@ -271,6 +271,7 @@ bacile
 bacillaceae
 brarow
 biarticulate
+bytownitite
 bacillariaceae
 baldric
 buried
@@ -9880,7 +9881,6 @@ belibeling
 batakan
 balonea
 brasilete
-bytownitite
 babysat
 bewhisker
 barnacles
