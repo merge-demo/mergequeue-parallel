@@ -20444,7 +20444,6 @@ arteriostenosis
 admix
 arteriotrepsis
 agyria
-amman
 arterious
 arcticology
 arterioversion
@@ -20962,6 +20961,7 @@ autosender
 asclepian
 asclepidin
 asclepidoid
+amman
 anticommutative
 asclepin
 adamant
