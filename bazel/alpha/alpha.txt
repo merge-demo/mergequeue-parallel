@@ -9162,7 +9162,6 @@ almsmen
 almswoman
 antiethnic
 almuces
-antimilitarism
 almud
 amides
 advocaat
@@ -18463,6 +18462,7 @@ aphrodisian
 animists
 arborolater
 arborvitaes
+antimilitarism
 arcticwards
 arrises
 attitudes
