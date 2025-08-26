@@ -11362,6 +11362,7 @@ ampullate
 amphioxus
 ampulliform
 affrightfully
+avine
 ampullula
 amputate
 amputates
@@ -24746,7 +24747,6 @@ adoptions
 avikom
 appropriable
 avilement
-avine
 avocation
 adorantes
 avions
