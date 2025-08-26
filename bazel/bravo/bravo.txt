@@ -9900,7 +9900,6 @@ bitter
 besee
 bitterbloom
 bitterbur
-bittered
 bulletproofed
 bitterender
 biologically
@@ -11985,6 +11984,7 @@ birmingham
 brothelry
 bogymen
 bogland
+bittered
 budgerigah
 bytalk
 bogled
