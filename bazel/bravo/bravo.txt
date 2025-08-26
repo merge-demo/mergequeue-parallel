@@ -2247,7 +2247,6 @@ butted
 barbasco
 bummil
 bindoree
-brier
 bianco
 bysen
 bactericholia
@@ -7381,6 +7380,7 @@ betinge
 blithers
 bailed
 betire
+brier
 betis
 betises
 byproduct
