@@ -8847,7 +8847,6 @@ dibenzoyl
 depilator
 dialyzable
 deg
-droopt
 dichotomal
 dentatocillitate
 dibenzophenazine
@@ -17356,6 +17355,7 @@ drony
 droningly
 degelatinize
 dronish
+droopt
 dronishness
 dronkelew
 deisidaimonia

@@ -1443,6 +1443,7 @@ calyx
 carbonometry
 coecal
 continents
+capstones
 careening
 calkers
 chowse
@@ -5806,7 +5807,6 @@ chateau
 cateye
 catel
 catelectrode
-capstones
 clothesless
 catelectrotonus
 cretionary
