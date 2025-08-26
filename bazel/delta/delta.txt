@@ -6129,6 +6129,7 @@ decurring
 dictyostele
 diatheses
 dizened
+deliberations
 deraigning
 divest
 dispirits
@@ -11073,7 +11074,6 @@ disanalogy
 deinosauria
 disanalogous
 disanchor
-deliberations
 disanimation
 disannuller
 disentanglements
