@@ -7245,7 +7245,6 @@ defoliating
 dimethylamino
 dalteen
 detected
-darns
 disenchantingly
 direful
 dominations
@@ -8429,6 +8428,7 @@ diallagite
 deadwort
 dt
 decimetres
+darns
 dishonorably
 diallelus
 dysphasic
