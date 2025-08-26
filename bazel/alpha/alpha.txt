@@ -9663,6 +9663,7 @@ alveolite
 angelographer
 achene
 albacea
+andiron
 alveololingual
 alveolosubnasal
 antagonising
@@ -24060,7 +24061,6 @@ acanthi
 autogyros
 adcon
 ambulators
-andiron
 autognostic
 articulus
 acanthocarpous
