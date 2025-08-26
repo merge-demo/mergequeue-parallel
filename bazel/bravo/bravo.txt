@@ -4807,6 +4807,7 @@ bits
 bondages
 bedside
 bedsonia
+blottesque
 bedsonias
 bescribbling
 bedsore
@@ -12586,7 +12587,6 @@ bonnetlike
 bonnibel
 blurts
 bimethyl
-blottesque
 batter
 bristlemouths
 backlist
