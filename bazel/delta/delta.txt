@@ -1613,6 +1613,7 @@ discernableness
 deairs
 didascaly
 drupelet
+depositories
 dealbate
 daks
 doe
@@ -5841,7 +5842,6 @@ dichronous
 dysraphia
 dujan
 disambiguation
-depositories
 deploration
 dismarshall
 disauthentic
