@@ -5134,6 +5134,7 @@ brainier
 bombable
 bromoaurate
 bunkery
+bridesmaid
 belching
 borderers
 baffle
@@ -15227,7 +15228,6 @@ brecken
 bisharin
 blueblaw
 bestrewed
-bridesmaid
 bridesmaids
 blunges
 bridesmen
