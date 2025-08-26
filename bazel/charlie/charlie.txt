@@ -6562,7 +6562,6 @@ conferment
 calamariaceae
 cebalrai
 culteranismo
-cebell
 crystallite
 chemopallidectomies
 cebian
@@ -24422,6 +24421,7 @@ coordinative
 chrisom
 coordinatory
 cavefishes
+cebell
 cooree
 coorie
 convoker
