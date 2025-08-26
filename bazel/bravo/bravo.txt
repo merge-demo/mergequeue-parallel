@@ -759,7 +759,6 @@ bifrost
 badiaga
 breathy
 boneshaw
-bannerman
 beliing
 bushmanship
 badigeon
@@ -10498,6 +10497,7 @@ bodywood
 burin
 blastomyces
 blastomycete
+bannerman
 benignities
 blastoneuropore
 billionaire
