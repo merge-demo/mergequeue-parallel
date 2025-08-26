@@ -3092,6 +3092,7 @@ bambuk
 blindfold
 benzedrine
 baculite
+baccar
 blabby
 baseballer
 betraying
@@ -8204,7 +8205,6 @@ bluebuck
 biethnic
 binds
 baryes
-baccar
 beswarming
 burls
 byeworkman
