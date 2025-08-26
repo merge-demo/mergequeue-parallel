@@ -6363,7 +6363,6 @@ dermoidectomy
 dgag
 dermoneural
 drassid
-dermoneurosis
 decent
 downtrod
 discordful
@@ -17436,6 +17435,7 @@ droppage
 diffraction
 decennia
 direction
+dermoneurosis
 disjoinable
 decream
 demanding
