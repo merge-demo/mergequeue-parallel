@@ -4780,7 +4780,6 @@ democracies
 democrat
 dotations
 dawdles
-durables
 douar
 diander
 depraves
@@ -18657,6 +18656,7 @@ duvetynes
 deallocation
 dux
 desquamate
+durables
 devaporation
 daishikis
 downlinked
