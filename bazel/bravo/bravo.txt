@@ -4507,7 +4507,6 @@ bandolero
 brigadiership
 blastoff
 basellaceous
-becudgelling
 batata
 balushai
 becudgels
@@ -12726,6 +12725,7 @@ bookishness
 boxty
 breviate
 barrenwort
+becudgelling
 barging
 ballant
 booklear
