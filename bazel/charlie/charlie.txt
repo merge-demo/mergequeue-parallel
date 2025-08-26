@@ -8117,6 +8117,7 @@ chaguar
 chahar
 chai
 chay
+closeness
 coordain
 comrogue
 chainage
@@ -16660,7 +16661,6 @@ carse
 cardiodysesthesia
 colophonium
 contratempo
-closeness
 colombier
 cedric
 climbing
