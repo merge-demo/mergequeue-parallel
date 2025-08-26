@@ -3828,6 +3828,7 @@ appropriation
 adjudicate
 antihierarchal
 autarkik
+apokatastatic
 adjudicated
 adjudication
 adjudications
@@ -13093,7 +13094,6 @@ allorrhythmic
 animatedly
 actionable
 animaters
-apokatastatic
 angekok
 animating
 animatingly
