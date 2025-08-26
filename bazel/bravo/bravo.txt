@@ -11444,7 +11444,6 @@ bluepoint
 bluepoints
 blazingly
 bluesy
-bluesman
 bromisms
 beaverkill
 bluesmen
@@ -12033,6 +12032,7 @@ buybacks
 bilinigrin
 blander
 bronchiolus
+bluesman
 boyaux
 bronchostomies
 bicentenaries
