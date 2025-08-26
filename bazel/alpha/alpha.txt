@@ -8810,6 +8810,7 @@ armouries
 audiometries
 alderliefest
 arboroid
+artificership
 allochiria
 adaptionism
 alcoves
@@ -11428,7 +11429,6 @@ astely
 autologist
 attemperately
 amusement
-artificership
 anagennesis
 amusements
 alodiality
