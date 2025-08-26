@@ -15371,6 +15371,7 @@ antiliturgist
 antilocapra
 aerodermectasia
 appetitost
+akonge
 antilochus
 accessless
 angiocholitis
@@ -21164,7 +21165,6 @@ asia
 abusive
 asian
 antennaria
-akonge
 asians
 asiarch
 asiatically
