@@ -5032,7 +5032,6 @@ aestheticism
 aestheticist
 almoin
 aestii
-aestivate
 avocate
 aestivates
 admonisher
@@ -23171,6 +23170,7 @@ attrectation
 adventitia
 araracanga
 azophenol
+aestivate
 accordances
 archicerebra
 attributer
