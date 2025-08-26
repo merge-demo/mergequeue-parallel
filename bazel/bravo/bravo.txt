@@ -1655,7 +1655,6 @@ boycotter
 ballsiest
 bengali
 befur
-ballstock
 ballup
 ballweed
 brehon
@@ -3463,6 +3462,7 @@ bovine
 banuyo
 basural
 bovarism
+ballstock
 basuto
 baitylos
 bridgebuilding
