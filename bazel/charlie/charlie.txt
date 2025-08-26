@@ -3105,7 +3105,6 @@ cooperators
 capacitating
 capacitations
 capacitative
-chorine
 capacitativly
 coldness
 can
@@ -8314,6 +8313,7 @@ contraponend
 chamicuro
 calcifuge
 challengeful
+chorine
 challenger
 challengers
 challenging
