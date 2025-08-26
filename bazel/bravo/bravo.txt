@@ -6230,7 +6230,6 @@ barrigudo
 barbless
 buchmanism
 befinger
-biliary
 buttinsky
 bedraggles
 beetle
@@ -13342,6 +13341,7 @@ benadryl
 bridgeman
 botcheries
 botcherly
+biliary
 botchy
 botchily
 beglitter
