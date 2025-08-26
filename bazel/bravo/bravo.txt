@@ -10442,7 +10442,6 @@ bimuscular
 boyards
 barytostrontianite
 blaoner
-burinist
 belibeled
 backyarder
 blares
@@ -16801,6 +16800,7 @@ boldheartedness
 burman
 bioecology
 banknotes
+burinist
 bubalises
 bucketman
 bystreet
