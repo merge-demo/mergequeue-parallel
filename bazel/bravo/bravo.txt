@@ -11043,6 +11043,7 @@ bifanged
 bettina
 boyfriend
 budgero
+bullit
 bisaccate
 bloating
 burglarized
@@ -17354,7 +17355,6 @@ beignets
 bejeled
 bunglers
 bungling
-bullit
 bungos
 bamboozler
 baetylic
