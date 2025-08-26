@@ -8400,7 +8400,6 @@ bijective
 brush
 bijou
 bhandar
-bubs
 bannerfish
 bijwoner
 beanie
@@ -8533,6 +8532,7 @@ belle
 bumph
 bilking
 boglander
+bubs
 bonny
 bateful
 bilkis
