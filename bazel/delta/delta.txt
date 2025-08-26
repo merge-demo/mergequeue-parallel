@@ -4627,7 +4627,6 @@ depths
 disusing
 digitigrade
 demiox
-dharmasmriti
 disenthrall
 diminutiveness
 dejecting
@@ -13781,6 +13780,7 @@ downrushing
 devolvements
 driveline
 disacryl
+dharmasmriti
 devastatingly
 disproval
 discoidal
