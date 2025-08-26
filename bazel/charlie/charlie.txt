@@ -4194,6 +4194,7 @@ chlorites
 contrade
 cavaliered
 chinatown
+cunni
 coxalgies
 citeable
 coerect
@@ -10466,7 +10467,6 @@ child
 colonist
 childbearing
 childcrowing
-cunni
 childed
 contaminations
 childes
