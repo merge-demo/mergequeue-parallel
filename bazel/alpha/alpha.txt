@@ -16482,6 +16482,7 @@ ap
 anack
 apabhramsa
 agrania
+avalanches
 acutorsion
 apache
 attained
@@ -24542,7 +24543,6 @@ alarming
 actinophryan
 avalanche
 amantadine
-avalanches
 avalanching
 assortive
 avalent
