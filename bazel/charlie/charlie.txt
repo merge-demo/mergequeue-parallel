@@ -1319,7 +1319,6 @@ calyciflorate
 calycinal
 calycine
 calderium
-calicle
 capitulatory
 cabellerote
 calycled
@@ -4395,6 +4394,7 @@ caryophyllus
 cartisane
 cheeks
 concettist
+calicle
 caryopilite
 caryopsis
 courthouses
