@@ -3592,6 +3592,7 @@ dripping
 distater
 dextrogyre
 dinosauric
+dorsomedian
 dinornithiformes
 degenerate
 desulphurizer
@@ -12848,7 +12849,6 @@ diathermancy
 doubty
 diploes
 dismal
-dorsomedian
 decreptitude
 downhaul
 deliquiesce
