@@ -4016,6 +4016,7 @@ dysrhythmia
 dramatically
 delegate
 doorsill
+defilade
 delegates
 delegateship
 dermatosis
@@ -11697,7 +11698,6 @@ discotheque
 discothque
 disengirdle
 diagramed
-defilade
 dehumanised
 discountable
 discountenances
