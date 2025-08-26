@@ -2113,7 +2113,6 @@ channeler
 campers
 coadjacence
 campesinos
-campestral
 campfight
 campground
 consarcinate
@@ -18866,6 +18865,7 @@ cavil
 crystosphene
 colilysin
 caddied
+campestral
 cilioretinal
 colymbidae
 coarcted
