@@ -1914,7 +1914,6 @@ birny
 bandolerismo
 buckayros
 brockle
-bandor
 baaskaap
 biotechs
 brevipen
@@ -3882,6 +3881,7 @@ brutalitarian
 bathukolpic
 bimorph
 bezels
+bandor
 bidding
 beforesaid
 basifacial
