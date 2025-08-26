@@ -19686,6 +19686,7 @@ catocala
 cinematics
 chaptering
 comandra
+countercathexis
 capetown
 cheir
 consolidant
@@ -26698,7 +26699,6 @@ counterbrand
 curted
 confutable
 counterbuff
-countercathexis
 countercause
 counterchanged
 countercharm
