@@ -3311,7 +3311,6 @@ blippers
 beguilers
 balao
 besotment
-basitting
 beudantite
 basked
 basketballer
@@ -9743,6 +9742,7 @@ bigwiggism
 biramose
 bankbook
 backslapped
+basitting
 babble
 beside
 boatie
