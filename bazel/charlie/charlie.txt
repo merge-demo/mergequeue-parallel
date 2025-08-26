@@ -8838,7 +8838,6 @@ characids
 cataria
 cheville
 coriariaceous
-characine
 creasiest
 coercibly
 cuya
@@ -20536,6 +20535,7 @@ checkerspot
 chromatophorous
 compellable
 cultirostres
+characine
 cheirognomy
 compelled
 carpogenic
