@@ -6984,7 +6984,6 @@ amdt
 akerite
 aketon
 altiloquent
-akha
 angus
 archaeornis
 akhara
@@ -14837,6 +14836,7 @@ acceptilate
 anticker
 anticking
 asseth
+akha
 anticlassical
 abrosias
 apprehend
