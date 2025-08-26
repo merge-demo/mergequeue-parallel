@@ -99,7 +99,6 @@ abasedly
 abasers
 abashed
 abashedness
-abashes
 achromatous
 astony
 abashless
@@ -16802,6 +16801,7 @@ ampullariidae
 apraxia
 apically
 aumoniere
+abashes
 apices
 apician
 accomplices
