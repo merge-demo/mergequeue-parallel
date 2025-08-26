@@ -4267,6 +4267,7 @@ dislocate
 deltahedra
 dismaler
 diluvial
+daiquiris
 disacknowledge
 deltas
 digitals
@@ -15755,7 +15756,6 @@ dopping
 doppio
 dactyloscopy
 dorab
-daiquiris
 divaporation
 discriminatorily
 decidedness
