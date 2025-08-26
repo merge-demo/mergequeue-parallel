@@ -12251,7 +12251,6 @@ chrysopid
 chrysopidae
 chrysoprase
 chrysoprasus
-cothe
 chasmic
 counteradvice
 chrysops
@@ -30601,6 +30600,7 @@ cephaloclasia
 coprology
 cucullate
 contravened
+cothe
 casey
 chilidog
 crustosis
