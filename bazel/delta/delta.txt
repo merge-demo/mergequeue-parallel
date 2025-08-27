@@ -4340,7 +4340,6 @@ dimensuration
 devoutness
 durning
 delimit
-duckhood
 dequeue
 diversicolored
 demagogic
@@ -17830,6 +17829,7 @@ dashnakist
 ducklet
 ducklings
 deservingly
+duckhood
 delimitize
 duckmeat
 duckpin
