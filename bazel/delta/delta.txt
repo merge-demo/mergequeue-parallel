@@ -3808,6 +3808,7 @@ diwan
 deliveryman
 defail
 denigrative
+daidling
 dangerful
 donkey
 download
@@ -9689,7 +9690,6 @@ diverting
 descort
 diiodoform
 dipteron
-daidling
 diipenates
 diencephalons
 defiliation
