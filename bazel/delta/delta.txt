@@ -1050,6 +1050,7 @@ driven
 darlingness
 darn
 darndest
+dropwise
 darnels
 destandardize
 dishes
@@ -17445,7 +17446,6 @@ dropsies
 dermopteran
 doorweed
 dropt
-dropwise
 decumbently
 dropwort
 deviationist

@@ -1835,6 +1835,7 @@ bollito
 bullary
 barricos
 besotter
+basketmaker
 bandeau
 bancus
 backstabber
@@ -14719,7 +14720,6 @@ brazened
 braveness
 balaclava
 biscotin
-basketmaker
 bahamas
 bravers
 braves
