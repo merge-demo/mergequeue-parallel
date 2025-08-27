@@ -7418,7 +7418,6 @@ aerophoto
 albumenizer
 albumenoid
 archtreasurer
-albumens
 albumimeter
 aftership
 appraisers
@@ -11881,6 +11880,7 @@ alcaligenes
 anaphases
 anaphe
 apperception
+albumens
 apexing
 astrometry
 ancille
