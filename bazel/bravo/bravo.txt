@@ -5023,6 +5023,7 @@ bubal
 brompicrin
 baching
 buoying
+bovld
 bhunder
 beetlike
 brumbee
@@ -13784,7 +13785,6 @@ buffet
 blesseder
 bragas
 bedlam
-bovld
 brewage
 brontide
 brachydactyly
