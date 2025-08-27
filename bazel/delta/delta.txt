@@ -1720,7 +1720,6 @@ debilitant
 disembed
 defensibility
 deaspiration
-degree
 depersonalization
 daredevilry
 desponsate
@@ -4529,6 +4528,7 @@ drinkableness
 destruction
 demiculverin
 dodgiest
+degree
 divulsed
 demidistance
 diaphane
