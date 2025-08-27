@@ -8993,7 +8993,6 @@ cumarin
 chaplaincy
 cerebbella
 chalchihuitl
-cottontop
 conceivability
 cryptal
 charism
@@ -16698,6 +16697,7 @@ clapbread
 carpetbeater
 clote
 chayota
+cottontop
 clomb
 cloth
 cercopithecid
