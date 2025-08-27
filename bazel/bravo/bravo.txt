@@ -3695,6 +3695,7 @@ baste
 bucketful
 bally
 batteaux
+bastinades
 bedirty
 bonnering
 battement
@@ -9759,7 +9760,6 @@ brainache
 brainwashed
 bacilliparous
 bistephanic
-bastinades
 bistered
 bisters
 bruce
