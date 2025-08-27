@@ -8399,7 +8399,6 @@ counterattractively
 cresswort
 catchers
 chamecephaly
-chamecephalic
 chamecephalous
 chamecephalus
 cannibals
@@ -29616,6 +29615,7 @@ crocused
 captionless
 commonwealths
 croissants
+chamecephalic
 conceptual
 casemate
 chokier
