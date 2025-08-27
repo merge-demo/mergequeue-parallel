@@ -7857,6 +7857,7 @@ devouringness
 deranger
 divesting
 diprotodon
+detonator
 divertise
 donnered
 duomos
@@ -12583,7 +12584,6 @@ defies
 divertible
 disingenuousness
 dicaryophase
-detonator
 disinheritable
 diuturnity
 differentiant
