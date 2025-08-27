@@ -8894,7 +8894,6 @@ dwarfed
 dcbname
 dinergate
 direr
-dry
 dicalcium
 dicaryon
 dacoits
@@ -11115,6 +11114,7 @@ divisor
 disappendant
 dobras
 dactyliology
+dry
 disappreciate
 detergents
 disappreciation
