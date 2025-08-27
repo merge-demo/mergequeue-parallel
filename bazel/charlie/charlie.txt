@@ -19582,7 +19582,6 @@ columbidae
 cobblestones
 cankerous
 costula
-chronanagram
 columbiformes
 condemned
 colonizing
@@ -25015,6 +25014,7 @@ corduroyed
 costiferous
 celotex
 corduroying
+chronanagram
 corduroys
 chiliadic
 choppered
