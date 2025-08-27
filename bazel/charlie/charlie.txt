@@ -12440,6 +12440,7 @@ chromiums
 chromize
 crocard
 chromized
+comportance
 congoese
 chromizes
 chromizing
@@ -20818,7 +20819,6 @@ challoth
 components
 compony
 comportable
-comportance
 cenosity
 comported
 circleting
