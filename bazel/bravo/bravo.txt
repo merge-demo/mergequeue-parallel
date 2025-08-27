@@ -1016,7 +1016,6 @@ blinger
 baidarka
 baidarkas
 baiera
-boti
 bioavailability
 butadiene
 brichen
@@ -4029,6 +4028,7 @@ beambird
 beamed
 beeve
 bedrock
+boti
 beamers
 beamfilling
 beeware
