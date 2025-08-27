@@ -12985,7 +12985,6 @@ anhedral
 anhedron
 anhelation
 anhelose
-anhemitonic
 anhemolytic
 amulla
 anhyd
@@ -17744,6 +17743,7 @@ apportioning
 analphabetic
 agent
 australic
+anhemitonic
 assertory
 apportionments
 anastatic
