@@ -1260,7 +1260,6 @@ acariform
 acarina
 acrasy
 acarine
-acarines
 affrightingly
 anucleate
 acontias
@@ -13697,6 +13696,7 @@ anonaceous
 animalised
 assertrix
 acanthaceae
+acarines
 apopemptic
 albuquerque
 aspergilloses
