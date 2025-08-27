@@ -2997,7 +2997,6 @@ benzene
 bartending
 bartends
 baggywrinkle
-boogyman
 barter
 blechnoid
 barters
@@ -7227,6 +7226,7 @@ blades
 beveled
 bestraddled
 baptize
+boogyman
 bute
 bituminised
 beshear
