@@ -2963,7 +2963,6 @@ bindis
 babouche
 bromophenol
 blennioidea
-barriness
 barringer
 broadcasters
 boulevard
@@ -3020,6 +3019,7 @@ burgesses
 becarpets
 beigel
 belee
+barriness
 beckons
 brimmers
 beachhead
