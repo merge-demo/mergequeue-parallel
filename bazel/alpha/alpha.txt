@@ -483,7 +483,6 @@ aueto
 abjections
 abjective
 amornings
-abjectly
 atlantean
 abjudged
 agelacrinitidae
@@ -10261,6 +10260,7 @@ anhydrated
 ars
 ameliorates
 angiopoietic
+abjectly
 algins
 anacrusis
 amomales
