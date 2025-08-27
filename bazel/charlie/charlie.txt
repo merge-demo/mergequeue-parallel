@@ -11609,7 +11609,6 @@ cholehematin
 colluvia
 choleine
 circinal
-colorization
 cholelith
 conchotome
 cholelithic
@@ -21386,6 +21385,7 @@ coccous
 courtships
 cyanbenzyl
 correspondencies
+colorization
 chimpanzees
 cannonry
 concludable

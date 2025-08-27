@@ -871,6 +871,7 @@ blackboards
 backband
 bootblack
 bloody
+bestial
 bovid
 bagdi
 bunters
@@ -17097,7 +17098,6 @@ basophilous
 blankmindedness
 barbera
 brab
-bestial
 bullier
 briared
 backheel
