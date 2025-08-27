@@ -14277,6 +14277,7 @@ debatable
 debriefings
 dinocerata
 delubrubra
+devourment
 dormer
 dital
 dahoman
@@ -16270,7 +16271,6 @@ description
 destuff
 dioeciodimorphous
 duplicated
-devourment
 depurant
 dyssynergy
 dacryocystoblennorrhea
