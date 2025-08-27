@@ -14261,7 +14261,6 @@ conrector
 circumgenital
 clubhouse
 camelopardidae
-circumgestation
 circumgyrate
 circumgyratory
 camisado
@@ -25857,6 +25856,7 @@ conicalness
 corseting
 ciliferous
 corsetry
+circumgestation
 continuative
 corsets
 contra
