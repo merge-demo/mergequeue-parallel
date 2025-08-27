@@ -14706,7 +14706,6 @@ dora
 degradability
 disinvite
 dainchas
-dubitancy
 deuteropathy
 dizen
 dlr
@@ -18471,6 +18470,7 @@ diagraming
 drovy
 duplify
 disclosed
+dubitancy
 duplified
 duplifying
 duplone
