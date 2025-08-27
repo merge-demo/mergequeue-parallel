@@ -476,7 +476,6 @@ abyssus
 abit
 agriculture
 alicia
-abbreviate
 abiuret
 abjectedness
 attriting
@@ -1571,6 +1570,7 @@ abduction
 amatorian
 accouche
 accouchement
+abbreviate
 accoucheuses
 arclength
 accountable
