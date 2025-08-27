@@ -5054,6 +5054,7 @@ aetiogenic
 arsenides
 almagest
 aetiologies
+antiphonaries
 aetiologist
 axones
 administerial
@@ -25259,7 +25260,6 @@ acylamidobenzene
 afrikanderism
 aphid
 azimino
-antiphonaries
 azymite
 azimuth
 azimuthal
