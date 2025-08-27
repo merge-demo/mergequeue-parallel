@@ -4656,6 +4656,7 @@ demonastery
 diddle
 depose
 dermohemal
+dogplate
 dinic
 demisang
 dulcite
@@ -15194,7 +15195,6 @@ dowdiness
 doctorship
 destinal
 dogmatize
-dogplate
 dogrib
 dreamwise
 dogs
