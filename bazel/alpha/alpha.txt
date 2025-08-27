@@ -13147,7 +13147,6 @@ animistic
 anabatic
 ambivalency
 accretionary
-animize
 amaltas
 anilidic
 animo
@@ -17450,6 +17449,7 @@ alegars
 appareling
 apparency
 apparentements
+animize
 airify
 anoxyscope
 apparently
