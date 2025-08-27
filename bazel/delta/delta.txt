@@ -4699,7 +4699,6 @@ dumminess
 dithyrambos
 diphthongous
 dimissory
-disproved
 dapple
 dysuric
 dreamsiness
@@ -9636,6 +9635,7 @@ digressional
 digressive
 digressory
 dastard
+disproved
 dartsman
 dogmeat
 diddering
