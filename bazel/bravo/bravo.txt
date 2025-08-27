@@ -4087,7 +4087,6 @@ branchier
 beano
 beansetter
 breenge
-beanshooter
 biangulous
 beanstalk
 begrain
@@ -5430,6 +5429,7 @@ bigarreau
 behaved
 behaver
 behaving
+beanshooter
 brainteasers
 brakes
 bathylimnetic
