@@ -2944,7 +2944,6 @@ actinodielectric
 actinodromous
 actinoelectrically
 antigenic
-aerogeography
 axemaster
 antiprotozoal
 actinoelectricity
@@ -9857,6 +9856,7 @@ announcements
 augurs
 amassment
 areaways
+aerogeography
 argean
 amateur
 arietid
