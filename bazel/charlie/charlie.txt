@@ -6194,7 +6194,6 @@ covertness
 caudofemoral
 caudolateral
 curstness
-centetidae
 countershout
 cabbalism
 cetological
@@ -29922,6 +29921,7 @@ cetid
 calcification
 crossweb
 cyclopaedic
+centetidae
 ctenocyst
 crayonstone
 cuarenta
