@@ -13483,7 +13483,6 @@ digitalis
 disregard
 demiglace
 dought
-dumbheaded
 drawglove
 defenceless
 dimetient
@@ -14569,6 +14568,7 @@ dromograph
 dividivis
 divinising
 diaphanometer
+dumbheaded
 diwani
 dividualism
 durr
