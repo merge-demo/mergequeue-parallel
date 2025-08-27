@@ -1403,7 +1403,6 @@ bibliognost
 balds
 baculums
 bale
-baleare
 bajonado
 backjoint
 bathofloric
@@ -2968,6 +2967,7 @@ botts
 broadshare
 beforested
 burrel
+baleare
 barroom
 barruly
 bedumb
