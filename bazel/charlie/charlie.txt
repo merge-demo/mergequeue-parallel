@@ -2820,7 +2820,6 @@ cuprammonium
 canoing
 cuerpo
 canon
-churlish
 canones
 cardooer
 canonesses
@@ -30659,6 +30658,7 @@ cudgeled
 cudgeler
 calymene
 cudgelers
+churlish
 counterwind
 complexometric
 cudgeling
