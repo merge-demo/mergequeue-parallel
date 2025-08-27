@@ -14805,6 +14805,7 @@ cytocyst
 cocoon
 cytoclasis
 caluptra
+corelating
 cytoclastic
 crioboly
 cytococci
@@ -25059,7 +25060,6 @@ coreigns
 corejoice
 corelated
 corelates
-corelating
 chemosurgical
 corelative
 consolation
