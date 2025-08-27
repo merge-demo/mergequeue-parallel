@@ -5444,7 +5444,6 @@ denunciant
 docilely
 disinure
 denunciator
-dermatrophy
 discrownment
 dottel
 detd
@@ -15927,6 +15926,7 @@ dorsosacral
 dishumor
 dorsoscapular
 dorsothoracic
+dermatrophy
 diablotin
 discoursed
 dulcimer
