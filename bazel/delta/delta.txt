@@ -3922,7 +3922,6 @@ dermopathic
 dahlsten
 dorippid
 dollied
-dedolent
 dekare
 dinsome
 disrooted
@@ -15343,6 +15342,7 @@ deuteranopic
 dissociate
 dingmaul
 demipriest
+dedolent
 depressanth
 derotremate
 domicile
