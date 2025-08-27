@@ -13101,7 +13101,6 @@ cybernion
 cressets
 cibol
 conjugacy
-cibola
 cibolero
 cibols
 columnea
@@ -19951,6 +19950,7 @@ corolitic
 commandingly
 commandingness
 commandite
+cibola
 commandless
 cruentate
 cyp
