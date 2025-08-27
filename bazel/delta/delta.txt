@@ -6326,7 +6326,6 @@ diselder
 decrete
 dermatotherapy
 depurated
-dermatozoon
 doughfeet
 deadens
 dermatozoonosis
@@ -6674,6 +6673,7 @@ decadianome
 drawarm
 dipneedle
 danders
+dermatozoon
 deregulates
 deserving
 diorite
