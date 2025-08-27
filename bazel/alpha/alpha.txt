@@ -11840,7 +11840,6 @@ adenoses
 anamorphoscope
 anamorphosis
 azocochineal
-anamorphous
 aspermatous
 ananaples
 anandrarious
@@ -23435,6 +23434,7 @@ academicism
 auh
 acrimonies
 autoprogressive
+anamorphous
 anthracitization
 auklets
 auksinai
