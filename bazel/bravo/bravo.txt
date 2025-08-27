@@ -4170,7 +4170,6 @@ beastlike
 bodywise
 buoyantness
 brinsell
-brickwall
 beastlily
 beclown
 barrow
@@ -13838,6 +13837,7 @@ bowe
 bibcock
 bedikah
 boilers
+brickwall
 bowelled
 beardedness
 bdl
