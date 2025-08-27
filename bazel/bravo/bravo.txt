@@ -6579,6 +6579,7 @@ breastrope
 bout
 biohazard
 berberid
+blateness
 bricked
 brutality
 bundoc
@@ -10534,7 +10535,6 @@ bambuco
 blate
 brooch
 blately
-blateness
 benzalazine
 bhisti
 barret
