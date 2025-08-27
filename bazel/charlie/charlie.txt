@@ -25473,6 +25473,7 @@ coromell
 chronoscopv
 coronach
 coronachs
+consecrated
 chickens
 coronados
 coronae
@@ -31318,7 +31319,6 @@ cornix
 cureless
 corypha
 curelessness
-consecrated
 curer
 coadjument
 curers
