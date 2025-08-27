@@ -782,6 +782,7 @@ argles
 abridgers
 abridging
 abridgments
+adeliza
 abristle
 abroach
 abrocome
@@ -5368,7 +5369,6 @@ arrange
 algometry
 afrikanderdom
 afrit
-adeliza
 armary
 adored
 agaces
