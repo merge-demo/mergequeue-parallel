@@ -1663,6 +1663,7 @@ caricography
 calorifier
 calorigenic
 calorimeters
+chemoreception
 calorimetry
 calorimetrical
 calorimetrically
@@ -9885,7 +9886,6 @@ chemoprophylactic
 cruiser
 coaxer
 candent
-chemoreception
 chemoreceptive
 chemoreceptivity
 chapelgoer
