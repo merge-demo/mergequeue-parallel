@@ -4337,6 +4337,7 @@ delimit
 dequeue
 diversicolored
 demagogic
+dodipole
 decener
 daubster
 diamondiferous
@@ -15011,7 +15012,6 @@ dumbbells
 deridingly
 despectant
 dodgily
-dodipole
 defraud
 destroyingly
 desulfured
