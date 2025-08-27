@@ -4509,7 +4509,6 @@ disjointedly
 duomachy
 devalorize
 developmentist
-district
 dislocatory
 dysphoric
 dulnesses
@@ -7393,6 +7392,7 @@ debatement
 deticker
 dogtoothing
 desertedness
+district
 detinet
 decriminalizes
 deflagration
