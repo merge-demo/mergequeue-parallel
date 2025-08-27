@@ -4548,6 +4548,7 @@ disclosing
 dendrite
 decern
 dorsilumbar
+damia
 demigriffin
 distraughted
 demifarthing
@@ -5182,7 +5183,6 @@ denied
 downwith
 denyer
 didromy
-damia
 downstater
 decarburation
 discomposure
