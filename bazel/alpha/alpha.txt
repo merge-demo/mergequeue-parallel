@@ -12195,6 +12195,7 @@ ancylose
 avanyu
 akaniaceae
 ancylostome
+astond
 ancylostomiasis
 achlorophyllous
 arrame
@@ -16930,7 +16931,6 @@ aplodontia
 ambitty
 aplomb
 amygdaliferous
-astond
 arrie
 autoheterosis
 administrable
