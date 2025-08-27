@@ -3482,7 +3482,6 @@ dentiform
 decayedness
 droopiness
 decadrachmae
-deform
 diasters
 doughmaker
 demembration
@@ -14378,6 +14377,7 @@ disaffinity
 dittying
 dandified
 disadvantages
+deform
 damaskeening
 ditto
 disperato
