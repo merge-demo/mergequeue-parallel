@@ -6975,6 +6975,7 @@ akerite
 aketon
 altiloquent
 angus
+astrobiologies
 archaeornis
 akhara
 andante
@@ -22199,7 +22200,6 @@ arterials
 apparition
 autopsychology
 apogon
-astrobiologies
 alrighty
 afterdrops
 androseme

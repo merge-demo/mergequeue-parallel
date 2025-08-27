@@ -11091,6 +11091,7 @@ chiv
 chivachee
 confirmand
 chivalresque
+cowshot
 chaum
 cosovereign
 controllableness
@@ -27696,7 +27697,6 @@ catbrier
 connecters
 cowshed
 cowsheds
-cowshot
 chough
 cowshut
 cowskin
