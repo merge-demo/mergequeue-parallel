@@ -7329,6 +7329,7 @@ cephalism
 cephalitis
 cephalization
 cephaloauricular
+chimbly
 cephalobranchiata
 chelicera
 cerusites
@@ -10654,7 +10655,6 @@ conenchyma
 conglomerated
 comfortably
 cervicorn
-chimbly
 constructional
 calcaemia
 chime
