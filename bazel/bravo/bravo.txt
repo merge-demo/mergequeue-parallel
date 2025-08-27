@@ -2367,6 +2367,7 @@ barcone
 batterfang
 bedarkened
 banshie
+bendell
 beylical
 brakemen
 belabors
@@ -15853,7 +15854,6 @@ bromination
 beswim
 battlefronts
 berylate
-bendell
 brominize
 breezing
 brionies
