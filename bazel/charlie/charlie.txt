@@ -8779,6 +8779,7 @@ chapiter
 chloranaemia
 chapitral
 chaplain
+concolour
 canulated
 chaplaincies
 chaplains
@@ -25263,7 +25264,6 @@ cormel
 concetto
 coardent
 cormidium
-concolour
 circulin
 cicrumspections
 cormogen

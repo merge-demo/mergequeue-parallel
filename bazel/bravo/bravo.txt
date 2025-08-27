@@ -10376,6 +10376,7 @@ bepainting
 bowpin
 blanc
 beneath
+bombardments
 bergomask
 bumbler
 ballist
@@ -12307,7 +12308,6 @@ bacteriophagic
 bullwhacker
 betrayer
 bramantesque
-bombardments
 bombline
 bowdrill
 bombast
