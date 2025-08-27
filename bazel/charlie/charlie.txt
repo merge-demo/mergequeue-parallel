@@ -3364,7 +3364,6 @@ cappae
 capparid
 capparis
 capped
-cappelletti
 capper
 ciseleurs
 cappiest
@@ -24798,6 +24797,7 @@ conductivity
 coquitlam
 cor
 corabecan
+cappelletti
 closkey
 complications
 corach
