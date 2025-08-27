@@ -5065,7 +5065,6 @@ densification
 denaturalised
 denaturalising
 denaturalized
-demographers
 dueller
 denaturing
 duplicand
@@ -7038,6 +7037,7 @@ dasypygal
 decadence
 despond
 dantonist
+demographers
 deface
 despondence
 despondencies
