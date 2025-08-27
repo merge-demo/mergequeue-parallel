@@ -11027,7 +11027,6 @@ chisellike
 chiselling
 coevolvedcoevolves
 chiselmouth
-chisels
 chisled
 clarkeites
 conichalcite
@@ -13739,6 +13738,7 @@ clinah
 cinclus
 cephalocathartic
 cinct
+chisels
 crevalles
 caupones
 cincture
