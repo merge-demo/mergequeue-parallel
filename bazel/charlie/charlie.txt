@@ -9675,6 +9675,7 @@ cheesecloths
 caramba
 cognizably
 concursus
+chocard
 cheeselep
 cheeselip
 cephalochorda
@@ -23183,7 +23184,6 @@ cardioscope
 constrict
 claudio
 castors
-chocard
 consperg
 cromlechs
 constricted
