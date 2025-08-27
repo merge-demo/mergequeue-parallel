@@ -20389,6 +20389,7 @@ artistes
 allomorphic
 apotropaic
 apprecate
+autoptically
 aerogenous
 arteriagra
 arterialize
@@ -24290,7 +24291,6 @@ autopsies
 ambrose
 aeriality
 abaters
-autoptically
 aeromancy
 attractionally
 alpinists
