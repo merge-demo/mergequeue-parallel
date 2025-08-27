@@ -13242,6 +13242,7 @@ coulometric
 crossrail
 cycloaliphatic
 capricorn
+costs
 cycloalkane
 cyclobothra
 carmakers
@@ -26275,7 +26276,6 @@ costraight
 cloudberries
 chasteness
 choleromania
-costs
 caddices
 costume
 chevrone

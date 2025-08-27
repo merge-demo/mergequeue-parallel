@@ -1290,6 +1290,7 @@ disking
 datsuns
 diatribe
 disband
+demineralizer
 dysodyle
 doitrified
 dardanarius
@@ -4717,7 +4718,6 @@ demits
 demitted
 denticulately
 dilutive
-demineralizer
 duties
 demiurgeous
 downswings
