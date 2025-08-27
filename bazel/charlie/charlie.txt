@@ -20272,7 +20272,6 @@ confederacies
 communalization
 congressional
 czechoslovakians
-ceratoglossus
 communalizer
 counterstroke
 carbophilous
@@ -23264,6 +23263,7 @@ consulate
 curiouser
 consulates
 consulship
+ceratoglossus
 consulships
 coloquintida
 clavieristic
