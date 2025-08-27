@@ -5853,6 +5853,7 @@ deafforest
 dampener
 destrier
 disestablishes
+dewing
 desistance
 depots
 dasyure
@@ -7910,7 +7911,6 @@ dewflower
 distantly
 doormaking
 doxographer
-dewing
 disjoin
 degrease
 discommon
