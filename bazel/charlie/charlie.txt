@@ -964,7 +964,6 @@ calaminaris
 callipygian
 calamine
 cervidae
-calamines
 cypseline
 confiscating
 convolves
@@ -29559,6 +29558,7 @@ crinion
 crocanthemum
 currency
 croceic
+calamines
 croceine
 crocetin
 ceratospongiae
