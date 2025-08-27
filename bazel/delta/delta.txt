@@ -2678,7 +2678,6 @@ diskless
 derails
 dressmakership
 decontrolled
-deconvolution
 dishwash
 devoured
 deconvolve
@@ -13585,6 +13584,7 @@ dissceptered
 dislike
 dissceptre
 deceivance
+deconvolution
 denaturized
 dolesome
 diocletian
