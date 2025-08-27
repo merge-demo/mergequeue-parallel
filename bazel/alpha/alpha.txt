@@ -8359,7 +8359,6 @@ alivincular
 alix
 alizarate
 anesthesiant
-anchovy
 alizarins
 afterloss
 anthrathiophene
@@ -20838,6 +20837,7 @@ ascape
 amidid
 aphasias
 ascariasis
+anchovy
 aerodynamicist
 assuefaction
 anticlassicalness
