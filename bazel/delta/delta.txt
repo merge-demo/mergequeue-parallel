@@ -949,7 +949,6 @@ dures
 darb
 darby
 diapnoic
-dependantly
 deutencephalic
 dunk
 decerp
@@ -11757,6 +11756,7 @@ disworth
 dorms
 dockman
 discoverer
+dependantly
 decancellation
 dodoes
 discoverture
