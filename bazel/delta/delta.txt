@@ -1969,7 +1969,6 @@ debusing
 danger
 duggler
 disseize
-doeskins
 dedans
 demagogies
 disenact
@@ -4735,6 +4734,7 @@ dorsicollar
 diminutivize
 defoliates
 dermonecrotic
+doeskins
 designingly
 daybreak
 dreidels
