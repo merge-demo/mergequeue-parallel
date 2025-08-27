@@ -16346,7 +16346,6 @@ clavodeltoideus
 conchologist
 cliquedom
 cliqueier
-cliqueyness
 cytome
 cliques
 collocalia
@@ -21888,6 +21887,7 @@ conferential
 conferral
 creodont
 conferred
+cliqueyness
 conferrence
 cornerbind
 camalig
