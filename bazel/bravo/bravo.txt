@@ -1870,7 +1870,6 @@ bandidos
 baronetizing
 blepharoncus
 bushie
-bandie
 bandied
 bilinear
 bandikai
@@ -12002,6 +12001,7 @@ biogens
 bohora
 benny
 bombarded
+bandie
 bohunk
 branta
 blusteration
