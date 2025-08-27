@@ -10585,7 +10585,6 @@ brigandine
 blatting
 behoved
 blattodea
-blattoid
 brinny
 boresomely
 boundingly
@@ -12651,6 +12650,7 @@ bestowable
 boogeymen
 bane
 brazilwood
+blattoid
 bellical
 buhrs
 bunion
