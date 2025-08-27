@@ -11980,7 +11980,6 @@ awakenable
 anaschistic
 anaseismic
 anasitch
-anaspadias
 anaspalin
 albite
 auntship
@@ -23613,6 +23612,7 @@ auriphrygia
 aurir
 auris
 auriscalp
+anaspadias
 auriscope
 auriscopy
 anchoritish
