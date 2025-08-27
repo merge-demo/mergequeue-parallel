@@ -15401,7 +15401,6 @@ discountenance
 design
 distilleries
 dismit
-deafforestation
 decanters
 dolphus
 dryfat
@@ -17023,6 +17022,7 @@ designee
 dampish
 discommendably
 debaucheries
+deafforestation
 destining
 dunning
 demipillar
