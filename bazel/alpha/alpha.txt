@@ -12630,7 +12630,6 @@ alkamine
 arreptitious
 angelic
 agrest
-angelically
 anviled
 alambique
 amb
@@ -25398,6 +25397,7 @@ azureness
 antiparagraphic
 antifeudalist
 athamantin
+angelically
 acanthon
 acrobatic
 antiradiant
