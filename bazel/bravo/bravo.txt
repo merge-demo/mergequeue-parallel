@@ -7970,6 +7970,7 @@ bedlight
 berhyming
 bichloride
 biffin
+blindness
 bake
 bichord
 borazons
@@ -10908,7 +10909,6 @@ bemoon
 blinding
 braciolas
 biorbital
-blindness
 bignoniad
 bombers
 blindstories

@@ -4984,6 +4984,7 @@ duncedom
 dephosphorize
 detacher
 draggled
+desmacyte
 demountability
 diamb
 demountable
@@ -14827,7 +14828,6 @@ disabusal
 diaheliotropically
 docimasia
 diact
-desmacyte
 dentilated
 docimastical
 decimation
