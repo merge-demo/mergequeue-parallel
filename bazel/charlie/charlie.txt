@@ -641,6 +641,7 @@ cardiopyloric
 campagnol
 connubialism
 cottage
+cytitis
 caesarian
 caesarism
 caesarist
@@ -9407,7 +9408,6 @@ chawdron
 cornerwise
 comitative
 cpl
-cytitis
 chawers
 chawia
 complaisance
