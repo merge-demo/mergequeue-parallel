@@ -6004,7 +6004,6 @@ blueblossom
 bridaler
 bombycidae
 benchwarmer
-barothermohygrogram
 boneache
 bouldering
 bosslet
@@ -6545,6 +6544,7 @@ bequalm
 bioblast
 bklr
 bequeathed
+barothermohygrogram
 bruges
 blooping
 biokinetics
