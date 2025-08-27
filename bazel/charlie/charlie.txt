@@ -14683,6 +14683,7 @@ cystotome
 cystotomy
 cystotomies
 castellan
+cicatrisate
 cystotrachelotomy
 cadenza
 cycloloma
@@ -15889,7 +15890,6 @@ cleistogeny
 clinium
 camauro
 cleithral
-cicatrisate
 cannabinaceae
 choree
 comedown
