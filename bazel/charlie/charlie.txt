@@ -13366,7 +13366,6 @@ coaling
 consonantly
 cyclorrhapha
 counterpassant
-coulomb
 curatize
 cycloscope
 cycloserine
@@ -30257,6 +30256,7 @@ crumpled
 chorten
 cargoose
 crumps
+coulomb
 convoluted
 cycad
 closest
