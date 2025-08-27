@@ -1556,7 +1556,6 @@ batterer
 blauboks
 baller
 beclowning
-ballerina
 bagass
 ballet
 balletomane
@@ -6571,6 +6570,7 @@ bout
 biohazard
 berberid
 blateness
+ballerina
 bricked
 brutality
 bundoc
