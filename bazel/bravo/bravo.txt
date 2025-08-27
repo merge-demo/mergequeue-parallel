@@ -12540,7 +12540,6 @@ bacubert
 bud
 bonnyvis
 brashness
-boniness
 bellwind
 brant
 brooklike
@@ -14617,6 +14616,7 @@ brash
 badgeman
 bucklering
 brasher
+boniness
 brashiest
 babylonians
 brashiness
