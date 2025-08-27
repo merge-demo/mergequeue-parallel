@@ -3575,7 +3575,6 @@ checkle
 carabidan
 carabidoid
 carabids
-cappy
 compar
 colorist
 carabine
@@ -20680,6 +20679,7 @@ cylindering
 completement
 canzos
 contortuplicate
+cappy
 croftland
 coelian
 completers
