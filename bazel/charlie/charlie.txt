@@ -329,7 +329,6 @@ cacodemoniac
 citizendom
 cacodemonial
 cacodemonize
-cacodemonomania
 cacodyl
 cedrium
 chevrette
@@ -5463,6 +5462,7 @@ catabolism
 catabolite
 claim
 counterwrite
+cacodemonomania
 catachreses
 catachresis
 catachrestic
