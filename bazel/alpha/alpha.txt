@@ -13798,6 +13798,7 @@ anorthographic
 anorthographical
 ala
 anorthophyre
+algarsyf
 anorthopia
 adrenocorticotrophin
 anorthose
@@ -16745,7 +16746,6 @@ atopic
 angiograph
 alopecist
 abscoulomb
-algarsyf
 aphonous
 aphorise
 aphorismer
