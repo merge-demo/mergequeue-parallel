@@ -4822,7 +4822,6 @@ aerodromes
 arbitrating
 aeroelastic
 aeroelasticity
-aerofoil
 adjurors
 aerofoils
 algine
@@ -20595,6 +20594,7 @@ antieugenic
 annunciates
 arty
 advertising
+aerofoil
 artichoke
 acidimetrical
 aspirates
