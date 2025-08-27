@@ -3505,7 +3505,6 @@ bicarpellary
 batboys
 blubberous
 bumbass
-batched
 batcher
 bargemen
 bogging
@@ -10957,6 +10956,7 @@ blacksmiths
 bafta
 billowy
 brachygrapher
+batched
 besoothes
 blips
 boehmenite

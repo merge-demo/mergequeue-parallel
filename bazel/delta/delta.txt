@@ -3074,7 +3074,6 @@ diminutiveness
 defacing
 defacto
 defade
-dichlamydeous
 defaillance
 defaitiste
 defalcated
@@ -5362,6 +5361,7 @@ dentical
 denticle
 dentiferous
 dentification
+dichlamydeous
 dentifrice
 diageotropism
 dentil
