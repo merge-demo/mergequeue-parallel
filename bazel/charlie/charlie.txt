@@ -12223,7 +12223,6 @@ cupbearers
 chrysome
 chrysomelid
 chrysomyia
-chrysomonadales
 corpuscles
 chrysopa
 chrysopal
@@ -18428,6 +18427,7 @@ chemitypies
 carterly
 cognovit
 coude
+chrysomonadales
 cognovits
 chondromata
 conspiratorially
