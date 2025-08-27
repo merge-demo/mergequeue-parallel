@@ -9632,7 +9632,6 @@ dingo
 divinised
 digressed
 distiller
-doctordom
 dollie
 digressional
 digressive
@@ -13100,6 +13099,7 @@ disclaiming
 djinns
 deicidal
 decanol
+doctordom
 drakestone
 dispatch
 divine
