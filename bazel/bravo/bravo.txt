@@ -194,6 +194,7 @@ boh
 baccalaureate
 baccalaureates
 baccalaureus
+bismuthal
 baccara
 baroques
 bdrm
@@ -9672,7 +9673,6 @@ bourette
 bismite
 bismuth
 badinaging
-bismuthal
 bumblefoot
 bromids
 bismuthate
