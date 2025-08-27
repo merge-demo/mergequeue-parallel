@@ -3852,7 +3852,6 @@ adjunctly
 adjuration
 analogia
 amidine
-aneuria
 adjured
 adjurer
 adjures
@@ -22131,6 +22130,7 @@ alw
 ayous
 arthrobranch
 astraeiform
+aneuria
 ateuchus
 astragali
 anathem
