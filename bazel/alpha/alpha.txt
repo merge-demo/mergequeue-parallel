@@ -16875,6 +16875,7 @@ apiologist
 apyonin
 apionol
 apiosoma
+armoires
 apyrases
 apyrexy
 apyrexial
@@ -23275,7 +23276,6 @@ audaean
 audian
 aeciotelia
 aghanee
-armoires
 audibleness
 audibles
 alkoran
