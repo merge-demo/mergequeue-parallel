@@ -7341,6 +7341,7 @@ diapausing
 determinately
 dirtiness
 drownding
+drippage
 dolls
 denegate
 dessa
@@ -17216,7 +17217,6 @@ dysmerism
 dripolator
 deaves
 dribbing
-drippage
 drippers
 deddy
 diathermotherapy
