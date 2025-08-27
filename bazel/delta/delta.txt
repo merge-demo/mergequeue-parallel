@@ -1055,7 +1055,6 @@ darndest
 dropwise
 darnels
 destandardize
-dishes
 diacodium
 deas
 dutra
@@ -10637,6 +10636,7 @@ dolorogenic
 domitable
 dolven
 datapunch
+dishes
 doleritic
 drudger
 deben
