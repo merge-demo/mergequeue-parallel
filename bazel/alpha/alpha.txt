@@ -5110,7 +5110,6 @@ affectations
 adorners
 acidophil
 affectedly
-affecters
 affectibility
 affecting
 acrorhagus
@@ -25088,6 +25087,7 @@ adjustage
 androphonomania
 axilla
 aa
+affecters
 axillae
 antiamylase
 axillar
