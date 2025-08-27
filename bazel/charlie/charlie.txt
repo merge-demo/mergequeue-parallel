@@ -22788,7 +22788,6 @@ chelonid
 caulicles
 congiaries
 consentable
-consentaneity
 consentaneous
 consentaneousness
 continently
@@ -23693,6 +23692,7 @@ contraindicated
 compunctious
 contraindicates
 contraindications
+consentaneity
 cologarithm
 computation
 crappers
