@@ -471,6 +471,7 @@ disthrall
 daswen
 daytide
 daytimes
+daunder
 disburthen
 dakerhen
 designing
@@ -1329,7 +1330,6 @@ dorsigerous
 dysteleologically
 deprecable
 demodulator
-daunder
 departure
 daundering
 didappers
