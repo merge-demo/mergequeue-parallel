@@ -2694,7 +2694,6 @@ butein
 bottomries
 batch
 beadflush
-barnman
 bridgemaster
 braconids
 barnstormer
@@ -15946,6 +15945,7 @@ bassist
 borrelomycetaceae
 bambuseae
 baillone
+barnman
 bronchophony
 bayoneting
 bibionidae
