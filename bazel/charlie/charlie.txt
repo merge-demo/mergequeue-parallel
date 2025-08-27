@@ -19601,7 +19601,6 @@ centimolar
 chromaticism
 columellar
 coextensiveness
-coregence
 counteraffirmation
 columellia
 columelliaceae
@@ -25990,6 +25989,7 @@ cosentiency
 consignor
 cosentient
 crannoge
+coregence
 clavate
 cosettler
 cosh
