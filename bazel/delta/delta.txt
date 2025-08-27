@@ -1217,7 +1217,6 @@ datary
 dataries
 depeach
 datasetname
-dithers
 datcha
 disparison
 delinquents
@@ -12364,6 +12363,7 @@ dictynidae
 diferrion
 discuren
 disproportionableness
+dithers
 disguisay
 darger
 dishwashers
