@@ -1596,7 +1596,6 @@ basketlike
 beatinest
 ballistician
 brachioganoidei
-ballywack
 benzanilide
 boldface
 bursati
@@ -14959,6 +14958,7 @@ brecham
 bursar
 brechams
 baccharis
+ballywack
 brev
 brechans
 bathes
