@@ -2610,7 +2610,6 @@ acred
 acreman
 acremen
 aggravated
-assapan
 antiarcha
 antitheft
 atomizes
@@ -20827,6 +20826,7 @@ asbestous
 anoplotherium
 aldamine
 asbestuses
+assapan
 anhimae
 amnionate
 asbolite

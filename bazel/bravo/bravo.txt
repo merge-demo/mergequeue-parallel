@@ -7810,7 +7810,6 @@ bogman
 biface
 bark
 bewail
-bibacity
 bronzy
 bouet
 bursautee
@@ -8738,6 +8737,7 @@ blightbird
 beagling
 behests
 barycentre
+bibacity
 birchen
 brinston
 binal
