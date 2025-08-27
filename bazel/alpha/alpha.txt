@@ -3941,7 +3941,6 @@ adminiculation
 attical
 aestive
 acetaldehyde
-administer
 anitinstitutionalism
 asystolism
 administering
@@ -16743,6 +16742,7 @@ alle
 antipascha
 atopic
 angiograph
+administer
 alopecist
 abscoulomb
 aphonous
