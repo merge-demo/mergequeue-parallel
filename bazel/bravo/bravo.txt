@@ -288,7 +288,6 @@ barlock
 betterer
 bacilli
 bacillian
-bacillicidal
 beflower
 bacillicidic
 bacilliform
@@ -4430,6 +4429,7 @@ bretonian
 bilabials
 beclothe
 bonasus
+bacillicidal
 breathtakingly
 bhili
 bartend
