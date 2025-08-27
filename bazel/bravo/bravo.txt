@@ -2521,7 +2521,6 @@ bemused
 burmite
 bijection
 brillolette
-bootful
 barid
 bronchostenosis
 bereaving
@@ -12519,6 +12518,7 @@ bonetail
 bowker
 bonewort
 bauk
+bootful
 backdoor
 burliness
 boarded
