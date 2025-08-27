@@ -3337,7 +3337,6 @@ afterpain
 abnormalized
 antiecclesiastical
 adaxial
-adazzle
 acidophile
 autopticity
 anchorer
@@ -8472,6 +8471,7 @@ autophyllogeny
 alkanol
 alkaphrah
 alkapton
+adazzle
 alkaptone
 advantage
 ascent
