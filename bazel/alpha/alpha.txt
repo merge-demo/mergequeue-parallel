@@ -2296,7 +2296,6 @@ acyesis
 altometer
 acanthopod
 amourist
-adapid
 acyetic
 albeit
 aciform
@@ -3381,6 +3380,7 @@ abiliment
 allotheism
 additiment
 amarillos
+adapid
 additionary
 additionist
 attapulgite

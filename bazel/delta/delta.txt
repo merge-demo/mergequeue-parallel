@@ -8146,7 +8146,6 @@ dodginess
 dhurnas
 dharmsala
 diacoelia
-desmolase
 dupping
 diabolise
 diabolising
@@ -10200,6 +10199,7 @@ demirevetment
 dinophilea
 distillation
 drissel
+desmolase
 dinging
 dingleberry
 dingled
