@@ -3182,6 +3182,7 @@ basicerite
 basicity
 baloneys
 benzins
+boarding
 booklores
 bhaga
 bollandist
@@ -14259,7 +14260,6 @@ biographize
 boanbura
 butyne
 byword
-boarding
 bureaucratic
 bandfiling
 braehead
