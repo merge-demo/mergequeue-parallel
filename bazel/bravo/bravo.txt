@@ -8459,7 +8459,6 @@ byssuses
 bastinadoing
 basoga
 bedchair
-backwards
 batak
 bilifuscin
 biosocial
@@ -14648,6 +14647,7 @@ beginners
 bitted
 brasils
 brasque
+backwards
 bloc
 bullwhack
 brassages
