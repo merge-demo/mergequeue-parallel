@@ -975,7 +975,6 @@ cheeses
 calando
 cyclostomous
 cytodifferentiation
-concisest
 claretian
 capuche
 calanque
@@ -1737,6 +1736,7 @@ canephor
 calusa
 condores
 comporting
+concisest
 carbonylate
 calutrons
 calvados
