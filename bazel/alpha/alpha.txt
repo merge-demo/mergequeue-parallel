@@ -9842,7 +9842,6 @@ alfiona
 amasthenic
 accipenser
 aegithalos
-alascan
 amatembu
 attaint
 alloquial
@@ -13243,6 +13242,7 @@ amphistyly
 acetarious
 ailuropus
 anorexic
+alascan
 aquilawood
 anisomyarian
 anisomyodous
