@@ -1094,6 +1094,7 @@ cytherea
 cheeser
 calciner
 chomer
+compasses
 columella
 calcinosis
 calciobiotite
@@ -20490,7 +20491,6 @@ compassed
 clodpates
 cotham
 cobwebbiest
-compasses
 chinchiest
 compassing
 coasting
