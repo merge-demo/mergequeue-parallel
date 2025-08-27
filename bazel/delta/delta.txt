@@ -10943,7 +10943,6 @@ defeasance
 disabuse
 disbursement
 diapir
-disabuses
 dispondaic
 dazzlement
 disacceptance
@@ -17188,6 +17187,7 @@ dryness
 deuterogelatose
 dringle
 disomaty
+disabuses
 decade
 decius
 dimwittedness
