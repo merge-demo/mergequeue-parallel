@@ -7553,7 +7553,6 @@ beloam
 befringes
 begirding
 bewary
-bewaste
 beweary
 besottedness
 bahadur
@@ -14214,6 +14213,7 @@ buzzwigs
 bloodstroke
 bradydactylia
 bepowder
+bewaste
 besot
 belamour
 biomechanics
