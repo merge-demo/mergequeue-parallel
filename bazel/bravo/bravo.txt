@@ -6987,6 +6987,7 @@ besliming
 backsheesh
 breme
 brutage
+brisance
 bepaid
 beslobber
 besluit
@@ -15978,7 +15979,6 @@ barythymia
 basifiers
 boubous
 brainy
-brisance
 brahmanaspati
 bludgeoning
 bishoprics
