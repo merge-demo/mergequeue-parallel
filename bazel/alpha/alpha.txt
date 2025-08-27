@@ -19928,6 +19928,7 @@ armure
 aggros
 armures
 arn
+acutilinguae
 affright
 achromatinic
 agacella
@@ -20111,7 +20112,6 @@ aleck
 arrays
 agdistis
 ahir
-acutilinguae
 arrand
 accursedly
 arrangeable
