@@ -16360,7 +16360,6 @@ describable
 dragonism
 dainteth
 deplored
-disutilize
 dedolency
 decanate
 dromed
@@ -17853,6 +17852,7 @@ desalts
 ductilize
 disambiguated
 ductilized
+disutilize
 ductless
 drinkable
 darktown
