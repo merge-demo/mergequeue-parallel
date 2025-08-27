@@ -646,7 +646,6 @@ bemingle
 bacteriolyze
 breadnut
 bronchoaspergillosis
-betterness
 biscuitmaking
 blinds
 bringela
@@ -1331,6 +1330,7 @@ balatron
 benzaldiphenyl
 balatte
 bankcards
+betterness
 bergfall
 bermudian
 bernoullian
