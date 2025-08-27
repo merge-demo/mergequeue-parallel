@@ -3054,6 +3054,7 @@ defacement
 doncella
 disgustfully
 disquietingly
+diaphragming
 disorder
 deadliness
 downbent
@@ -15882,7 +15883,6 @@ dorsi
 debosh
 dorsibranchiata
 distinctor
-diaphragming
 disprobabilize
 dorsiduct
 dorsiflex
