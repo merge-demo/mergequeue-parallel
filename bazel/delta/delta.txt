@@ -8917,6 +8917,7 @@ dice
 decurrencies
 diceboard
 disp
+drumstick
 dilemi
 dicentras
 dipyramid
@@ -17597,7 +17598,6 @@ drums
 dysarthria
 decalcifier
 devoting
-drumstick
 disconsonancy
 drumwood
 drunk
