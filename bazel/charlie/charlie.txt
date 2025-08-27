@@ -13781,7 +13781,6 @@ cinemagoer
 circumlocutionary
 cinemagoers
 cinemas
-cinematheque
 carsmith
 cheeringly
 comakers
@@ -29103,6 +29102,7 @@ cacodorous
 crioceras
 cinefaction
 crioceratitic
+cinematheque
 companionably
 chirruping
 conferree
