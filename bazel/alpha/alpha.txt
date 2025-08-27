@@ -13795,6 +13795,7 @@ anoscopy
 anatomicosurgical
 anospinal
 arrythmical
+archons
 apollinarianism
 anostraca
 anotherguess
@@ -21782,7 +21783,6 @@ acalycine
 ascents
 assistless
 assith
-archons
 adnumber
 assyth
 anagrams
