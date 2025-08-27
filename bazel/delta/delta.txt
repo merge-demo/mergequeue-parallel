@@ -5048,6 +5048,7 @@ devotes
 doand
 drunkeness
 dextrocardia
+dialect
 darci
 doorstead
 deemphasis
@@ -8332,7 +8333,6 @@ dyakish
 divorcive
 dg
 dialcohol
-dialect
 decolourized
 disequalize
 diplogenetic
