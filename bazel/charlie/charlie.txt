@@ -3440,6 +3440,7 @@ comprehends
 craniovertebral
 capsella
 calyptras
+callidity
 capshore
 capsian
 ceruses
@@ -19786,7 +19787,6 @@ combwise
 catapulting
 centurion
 ceraunics
-callidity
 come
 comebacker
 cephalochordate
