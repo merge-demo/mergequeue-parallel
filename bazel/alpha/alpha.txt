@@ -1470,7 +1470,6 @@ accolated
 acclinate
 amidocyanogen
 acclivities
-antlerless
 acclivitous
 acroceraunian
 afoot
@@ -6204,6 +6203,7 @@ agrapha
 agraphia
 agraphic
 acrocyanosis
+antlerless
 aylet
 agraria
 aerotactic
