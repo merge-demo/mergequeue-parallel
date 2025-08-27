@@ -15688,6 +15688,7 @@ claval
 clavariaceous
 custroun
 chromascope
+coexists
 clavated
 carrie
 cytoryctes
@@ -16887,7 +16888,6 @@ clubman
 cloveroot
 clubmate
 chiccory
-coexists
 crosswort
 clubroom
 casebooks
