@@ -10532,7 +10532,6 @@ abnegating
 absinthiating
 avidly
 amyelencephalous
-apomictically
 adenoidism
 aviator
 automatism
@@ -23506,6 +23505,7 @@ anama
 acrasin
 atmostea
 arsyversy
+apomictically
 actualise
 auntish
 auntly

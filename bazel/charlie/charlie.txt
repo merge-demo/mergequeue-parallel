@@ -1727,6 +1727,7 @@ confusable
 convulsionaries
 chalklike
 cecilia
+coverall
 collectables
 calumniative
 coapprover
@@ -27504,7 +27505,6 @@ containable
 coverable
 coverages
 cuselite
-coverall
 coveralled
 coveralls
 codeinas
