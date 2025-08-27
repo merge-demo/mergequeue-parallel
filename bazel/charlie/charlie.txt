@@ -14162,6 +14162,7 @@ choriambs
 circularly
 circularness
 circulars
+clippers
 cabbalize
 circulated
 cyanhydrate
@@ -16314,7 +16315,6 @@ clypeolar
 clypeus
 cyanomethaemoglobin
 clipped
-clippers
 columniation
 clippie
 convenienced

@@ -4783,7 +4783,6 @@ bedrowse
 bandicoots
 bedrugged
 bedrugs
-bemeans
 brakesman
 befancy
 bits
@@ -18218,6 +18217,7 @@ bandages
 brodie
 bushwhacks
 blackwort
+bemeans
 bourran
 bottlelike
 butterfish
