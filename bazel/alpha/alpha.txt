@@ -5343,6 +5343,7 @@ afoul
 afray
 athrocytosis
 antisymmetrical
+artemision
 anticensoriousness
 aspirator
 afrasia
@@ -20375,7 +20376,6 @@ anaglyphoscope
 autosymnoia
 apiolin
 aelurophobia
-artemision
 artemisium
 anchoretical
 autoptical
