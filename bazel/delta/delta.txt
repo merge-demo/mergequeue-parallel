@@ -5384,7 +5384,6 @@ drumbeating
 deceptory
 dribbler
 decorative
-dentistical
 dentistry
 dentists
 dentition
@@ -12555,6 +12554,7 @@ deceivers
 denaturizer
 dols
 decerns
+dentistical
 dugout
 disowning
 disinfecting
