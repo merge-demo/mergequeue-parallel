@@ -5362,7 +5362,6 @@ afrit
 armary
 adored
 agaces
-assistant
 attuned
 antiputrid
 aerobiological
@@ -8695,6 +8694,7 @@ antimaniacal
 alleviatory
 alleviators
 amolish
+assistant
 aristolochiales
 autoincrements
 allgovite
