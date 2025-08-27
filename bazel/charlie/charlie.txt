@@ -17221,7 +17221,6 @@ cramoisy
 coaled
 coaler
 coalers
-crucifer
 coalescence
 cellarless
 coitions
@@ -26624,6 +26623,7 @@ cottonweed
 chemoautotrophic
 cobus
 carotins
+crucifer
 counteractively
 cardiectomy
 cavish
