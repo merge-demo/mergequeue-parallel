@@ -1519,7 +1519,6 @@ adenemphraxis
 anopsia
 accompliceship
 auricular
-assoin
 ahuatle
 airborn
 adjoin
@@ -6555,6 +6554,7 @@ aileron
 adradius
 aboon
 anatolian
+assoin
 aporetical
 amidoketone
 albedos
