@@ -2454,6 +2454,7 @@ autoserum
 austrasian
 absciss
 amidate
+antanandro
 acoma
 arthropleura
 antluetic
@@ -13937,7 +13938,6 @@ autotransfusion
 antanaclasis
 antelopes
 antanagoge
-antanandro
 actressy
 advoteresse
 antapexes
