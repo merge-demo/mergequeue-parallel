@@ -16563,7 +16563,6 @@ cloisonne
 convival
 carrigeen
 cloisonnism
-cockaded
 cloistered
 cloisterer
 columellate
@@ -24719,6 +24718,7 @@ coprophilism
 crepitaculum
 coprophilous
 coprophyte
+cockaded
 coprophobia
 cessing
 coproprietor
