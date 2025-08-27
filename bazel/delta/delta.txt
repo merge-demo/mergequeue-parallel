@@ -2065,6 +2065,7 @@ demivierge
 decaying
 diopsimeter
 diety
+degusted
 dummy
 dauntlessness
 defaced
@@ -3689,7 +3690,6 @@ dictamnus
 disentitling
 degust
 dasnt
-degusted
 dregginess
 dewlaps
 dorsoepitrochlear
