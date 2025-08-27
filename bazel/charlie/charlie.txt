@@ -2769,7 +2769,6 @@ cannings
 chiccories
 cannister
 cannoli
-convally
 cannonaded
 cohorts
 cannonading
@@ -19070,6 +19069,7 @@ callable
 colliflower
 cruset
 colliform
+convally
 constat
 conurus
 colligate
