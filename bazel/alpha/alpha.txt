@@ -6118,7 +6118,6 @@ alchemise
 adjutantship
 aegerian
 aerolitics
-ancylostomum
 arteriorrhagia
 aduncity
 agonic
@@ -10924,6 +10923,7 @@ amperometric
 architecturalist
 amoebeum
 apologize
+ancylostomum
 azotate
 adrenals
 amoebicide
