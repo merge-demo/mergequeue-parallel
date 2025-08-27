@@ -1433,7 +1433,6 @@ dawnlike
 demimetope
 disoccident
 deprest
-disparagingly
 dispenditure
 dawnward
 dud
@@ -6643,6 +6642,7 @@ deescalated
 deacidification
 denotational
 dissentism
+disparagingly
 defatigated
 duendes
 dustband
