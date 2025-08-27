@@ -5736,7 +5736,6 @@ bibliotist
 bloomery
 blankite
 budge
-bencite
 brerd
 burials
 belight
@@ -15920,6 +15919,7 @@ bogsucker
 bufotenin
 brutish
 bronchocephalitis
+bencite
 bronchoconstriction
 baptistries
 blennorrhagic
