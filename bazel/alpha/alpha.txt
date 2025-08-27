@@ -1466,6 +1466,7 @@ aegagrus
 algid
 alpinery
 acclimatizer
+aleiptic
 anthela
 acclimatizes
 amphipneustic
@@ -7795,7 +7796,6 @@ alboranite
 accidentality
 astropecten
 agammaglobulinemia
-aleiptic
 actinology
 alphitomancy
 advent
