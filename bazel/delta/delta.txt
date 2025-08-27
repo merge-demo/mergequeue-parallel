@@ -526,7 +526,6 @@ droddum
 descended
 disguised
 demicadence
-dallier
 dup
 denuclearizes
 dextromanual
@@ -4777,6 +4776,7 @@ depraves
 dramaturgic
 democratic
 democratisation
+dallier
 democratise
 dispells
 democratised
