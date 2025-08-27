@@ -5609,7 +5609,6 @@ bulletheaded
 btl
 battlement
 blepharal
-bewigs
 barbitone
 businessmen
 beladying
@@ -9104,6 +9103,7 @@ byssine
 bighted
 biosystematic
 bulkheaded
+bewigs
 biosociological
 biocoenose
 brooklets
