@@ -646,7 +646,6 @@ autotomic
 azumbre
 azoted
 abominations
-abominator
 arithmocracy
 albugineous
 affably
@@ -13551,6 +13550,7 @@ amalgamable
 amidated
 annulations
 annulet
+abominator
 anthems
 annulets
 audiviser
