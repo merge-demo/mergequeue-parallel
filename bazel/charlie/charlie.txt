@@ -9574,7 +9574,6 @@ construct
 checksumming
 castro
 catechize
-cubiculum
 capacitively
 checkweighmen
 closeted
@@ -11917,6 +11916,7 @@ choreatic
 circumflant
 cuchan
 chored
+cubiculum
 characteristical
 camata
 calculative
