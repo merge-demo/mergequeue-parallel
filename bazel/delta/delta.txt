@@ -1645,6 +1645,7 @@ dealkylate
 daundered
 disassembler
 darting
+divestment
 deallocate
 deobstruct
 devotional
@@ -4997,7 +4998,6 @@ demounts
 dempsters
 demulcents
 diphycercy
-divestment
 demulsibility
 demulsification
 diseasedly
