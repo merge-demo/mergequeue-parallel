@@ -2705,6 +2705,7 @@ decorator
 dichroite
 diducing
 deliberated
+depart
 disaffiliate
 devonshire
 dictates
@@ -8228,7 +8229,6 @@ darghin
 diadelphian
 diadelphous
 diadema
-depart
 diaderm
 diadic
 digitalization
