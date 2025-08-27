@@ -1778,7 +1778,6 @@ bambochade
 bamboozlement
 bumblingly
 bamboozles
-buttoned
 briars
 bamboozling
 bilanders
@@ -11814,6 +11813,7 @@ boded
 bodefully
 bodegas
 buttes
+buttoned
 broiden
 baking
 brigands
