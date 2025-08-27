@@ -6954,6 +6954,7 @@ disleaf
 domineer
 despecialize
 defying
+dishcloths
 despecificate
 despecification
 desperado
@@ -12436,7 +12437,6 @@ dichromaticism
 deathweed
 dishcloth
 despairer
-dishcloths
 dupable
 dishclout
 disassembly
