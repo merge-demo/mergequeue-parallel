@@ -14114,7 +14114,6 @@ distribution
 decretum
 dragnets
 docksides
-dryopithecinae
 dispensable
 deluging
 daphnes
@@ -14195,6 +14194,7 @@ disulfiram
 doyst
 digitalized
 disulfonic
+dryopithecinae
 dispread
 displaceable
 depurating
