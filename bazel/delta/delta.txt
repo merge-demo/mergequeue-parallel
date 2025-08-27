@@ -3191,7 +3191,6 @@ diphthongising
 doughbelly
 defencive
 dents
-defend
 defendable
 dikast
 dolmenic
@@ -11450,6 +11449,7 @@ disclass
 dermorhynchous
 dialogite
 drossing
+defend
 dastardy
 dockyard
 dissuader
