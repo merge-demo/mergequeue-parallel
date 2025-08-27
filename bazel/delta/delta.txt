@@ -4732,7 +4732,6 @@ drydenism
 ducklar
 demivambrace
 dorsicollar
-drusean
 diminutivize
 defoliates
 dermonecrotic
@@ -5567,6 +5566,7 @@ demicolumn
 depascent
 datafile
 deuteronomy
+drusean
 disrepute
 depasture
 desireable
