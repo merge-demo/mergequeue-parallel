@@ -9532,7 +9532,6 @@ diastataxic
 debenzolize
 desiliconize
 discussable
-digestor
 digestory
 digesture
 dinarzade
@@ -12410,6 +12409,7 @@ dithyrambically
 dromaeognathous
 dielectrics
 discharged
+digestor
 differentiates
 disharmonious
 duplexer
