@@ -10789,7 +10789,6 @@ clorargyrite
 cohelpership
 ceaseless
 chinoa
-chinoidin
 coped
 confusers
 ceorls
@@ -22925,6 +22924,7 @@ consignification
 consignificator
 consignifying
 cylindroidal
+chinoidin
 causse
 consigning
 consignments
