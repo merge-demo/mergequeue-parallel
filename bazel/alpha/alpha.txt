@@ -2471,6 +2471,7 @@ aconelline
 autoactive
 aconine
 afdecho
+amphicyrtic
 aconital
 aconite
 admass
@@ -23659,7 +23660,6 @@ apism
 arilliform
 atlaslike
 anticontagiousness
-amphicyrtic
 anagnorises
 auscultatory
 ausform

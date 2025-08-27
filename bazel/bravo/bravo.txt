@@ -10762,7 +10762,6 @@ bibulus
 biorhythmic
 bronchomotor
 bleo
-barbicanage
 befuddlers
 bywords
 befrill
@@ -17699,6 +17698,7 @@ burner
 benempt
 billian
 blastophaga
+barbicanage
 bemuzzled
 bott
 burnfire
