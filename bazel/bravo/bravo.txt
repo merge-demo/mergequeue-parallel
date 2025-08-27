@@ -5239,7 +5239,6 @@ blotless
 breadboards
 barkeeps
 bandos
-bodingly
 basaltic
 boxwork
 bicentenary
@@ -12008,6 +12007,7 @@ beneficeless
 bartholomean
 brawling
 boyau
+bodingly
 barysphere
 buybacks
 bilinigrin
