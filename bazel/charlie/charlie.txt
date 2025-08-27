@@ -439,7 +439,6 @@ cassavas
 cacuminal
 cartages
 catheretic
-cancelable
 cacumination
 coembodied
 coleopterous
@@ -9069,6 +9068,7 @@ chappy
 charmonium
 charms
 cremated
+cancelable
 charneco
 charnockite
 covarecan

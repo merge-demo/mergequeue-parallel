@@ -2230,7 +2230,6 @@ acetamid
 abatjours
 acidiferous
 argil
-adderfish
 atap
 alaric
 arthrozoic
@@ -16902,6 +16901,7 @@ apjohnite
 antistrophe
 aplace
 aplacental
+adderfish
 aplacentalia
 aplacentaria
 aplacophorous
