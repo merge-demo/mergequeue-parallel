@@ -14711,6 +14711,7 @@ accurateness
 antically
 anticalligraphic
 agnathia
+auricyanic
 anticamera
 anticancer
 attaboy
@@ -24389,7 +24390,6 @@ autosuppression
 autotelegraph
 antiserum
 autoanticomplement
-auricyanic
 autotetraploid
 autotetraploidy
 aeron
