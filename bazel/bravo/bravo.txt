@@ -13085,6 +13085,7 @@ bobbling
 bassarisk
 backfurrow
 baalath
+barvell
 bodyguard
 bacterioscopist
 bromisation
@@ -16840,7 +16841,6 @@ blurring
 bufo
 bivalves
 bulbil
-barvell
 bufotalin
 bufotoxin
 biconcavity
