@@ -10917,6 +10917,7 @@ bipinnatipartite
 backscratcher
 blackamoor
 bumps
+brazer
 biloquist
 bushpig
 biclinia
@@ -14756,7 +14757,6 @@ bicaudal
 bargh
 bugseed
 brazens
-brazer
 brazers
 brows
 brazier
