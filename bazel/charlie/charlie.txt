@@ -5929,7 +5929,6 @@ cathedraticum
 cathepsin
 cathern
 catties
-catheterisation
 catheterise
 clienteles
 coiffes
@@ -11434,6 +11433,7 @@ catery
 chockablock
 casuary
 chronicler
+catheterisation
 chocking
 cockpaddle
 chutes
