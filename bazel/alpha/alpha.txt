@@ -5321,6 +5321,7 @@ acumen
 aflower
 albuminised
 annexionist
+anthroponomy
 amnionic
 adlegiare
 afluking
@@ -14497,7 +14498,6 @@ anthropomorphology
 anthropomorphologically
 anthropomorphously
 arthrozoan
-anthroponomy
 abner
 avaritia
 adultress
