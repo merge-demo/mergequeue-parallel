@@ -1078,7 +1078,6 @@ dampening
 dorsomesal
 darsonval
 deontology
-disbanding
 dartagnan
 darters
 dartled
@@ -16596,6 +16595,7 @@ draggers
 draggier
 diacritics
 dispersibility
+disbanding
 drearier
 destinies
 delomorphous
