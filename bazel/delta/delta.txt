@@ -12835,7 +12835,6 @@ drollish
 dismayedness
 desertions
 detents
-decafid
 dislustre
 disulphonic
 diffusedness
@@ -17881,6 +17880,7 @@ dudgen
 duole
 desubstantialize
 disfellowship
+decafid
 dunst
 despatcher
 dezincing
