@@ -965,6 +965,7 @@ augural
 assis
 abstemious
 astron
+asphaltene
 abstemiousness
 abstentionism
 abstentionist
@@ -6845,7 +6846,6 @@ aissor
 ait
 ashot
 aitch
-asphaltene
 amazement
 appropriately
 aberrator
