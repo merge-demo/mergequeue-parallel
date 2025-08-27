@@ -2503,6 +2503,7 @@ barguest
 barguests
 buzylene
 baria
+berceau
 bedouse
 blameful
 bucca
@@ -3404,7 +3405,6 @@ berascaled
 botanizer
 basswood
 burghership
-berceau
 burgomaster
 brelaw
 byrrus
