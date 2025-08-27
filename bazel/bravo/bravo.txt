@@ -5949,7 +5949,6 @@ beltie
 boogerman
 boviform
 babiche
-belting
 basidiomycete
 ballahoo
 bedroom
@@ -16475,6 +16474,7 @@ bequeathal
 bishops
 budzat
 bandeaux
+belting
 bisonant
 brutely
 blindstitch
