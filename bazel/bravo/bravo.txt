@@ -10882,7 +10882,6 @@ boatwise
 blimey
 brokership
 basis
-blent
 blattiform
 budgeters
 bioflavonoid
@@ -14747,6 +14746,7 @@ budbreak
 blacklegs
 babel
 brightener
+blent
 bedimplies
 bisymmetrically
 bardiest
