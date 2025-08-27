@@ -4296,7 +4296,6 @@ becalm
 becalming
 biaural
 beakiest
-bulkheaded
 bewig
 bulimia
 becap
@@ -9104,6 +9103,7 @@ basiotribe
 byssine
 bighted
 biosystematic
+bulkheaded
 biosociological
 biocoenose
 brooklets
