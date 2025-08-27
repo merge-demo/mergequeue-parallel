@@ -6368,7 +6368,6 @@ drassid
 decent
 downtrod
 discordful
-dolus
 dislimn
 divorcing
 dugong
@@ -15641,6 +15640,7 @@ discriminatingly
 donovan
 dons
 deltahedron
+dolus
 disappointedly
 donsie
 deflocculent
