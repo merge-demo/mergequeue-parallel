@@ -776,6 +776,7 @@ bellybutton
 badland
 badlands
 buba
+bearer
 bat
 borborygmus
 brushcut
@@ -15932,7 +15933,6 @@ bronchogenic
 bushwhack
 bellmaster
 bashed
-bearer
 bemourn
 bronchographic
 blooming
