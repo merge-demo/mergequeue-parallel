@@ -4868,7 +4868,6 @@ carageen
 carses
 cogitable
 carsick
-carsickness
 caviteno
 carrottop
 carstone
@@ -27496,6 +27495,7 @@ coroplast
 creaturehood
 cover
 containable
+carsickness
 coverable
 coverages
 cuselite
