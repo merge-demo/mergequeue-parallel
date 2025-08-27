@@ -2072,7 +2072,6 @@ dummy
 dauntlessness
 defaced
 datchas
-devolution
 disproportionally
 decal
 dodecylic
@@ -4762,6 +4761,7 @@ datatypes
 desperateness
 disnaturalize
 dolente
+devolution
 diffareation
 disrelish
 demiwolf
