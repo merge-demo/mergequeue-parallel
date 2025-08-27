@@ -11661,6 +11661,7 @@ bankerdom
 boatloader
 beigy
 boatmanship
+busied
 boats
 boatsetter
 bisymmetric
@@ -17955,7 +17956,6 @@ baho
 busybodyism
 brachystochrone
 basilosauridae
-busied
 bagirmi
 betties
 brigued
