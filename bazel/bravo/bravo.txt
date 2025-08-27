@@ -1590,6 +1590,7 @@ biradial
 britches
 binate
 ballista
+byplay
 boilermaker
 basketlike
 beatinest
@@ -12207,7 +12208,6 @@ bunkum
 bollworm
 blizzardly
 bicron
-byplay
 blockhouse
 bicarbide
 buckhound
