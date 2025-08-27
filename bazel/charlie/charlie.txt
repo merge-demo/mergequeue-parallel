@@ -1289,6 +1289,7 @@ caliburno
 colossuses
 crawfished
 calycanthin
+causalgia
 cantador
 carious
 cryptogrammatist
@@ -10392,7 +10393,6 @@ chievance
 chieve
 carabinero
 chifferobe
-causalgia
 copei
 cosmocratic
 chiffony
