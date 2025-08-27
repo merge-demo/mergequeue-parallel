@@ -661,6 +661,7 @@ abondance
 aimara
 apostrophation
 abonnement
+addresser
 anemographic
 aborad
 aboral
@@ -3420,7 +3421,6 @@ allotheistic
 actinography
 azores
 addressable
-addresser
 addressers
 anilities
 assignment
