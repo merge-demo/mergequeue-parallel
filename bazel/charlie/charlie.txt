@@ -15835,7 +15835,6 @@ cleats
 cyclonologist
 cheilitis
 cleavable
-cleavage
 cleavages
 cleaveful
 cleavelandite
@@ -28858,6 +28857,7 @@ capsheaf
 chaetognathan
 crex
 cry
+cleavage
 cryable
 cephalhydrocele
 cholestane
