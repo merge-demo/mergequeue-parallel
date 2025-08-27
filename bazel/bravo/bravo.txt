@@ -9918,6 +9918,7 @@ bittings
 boodle
 budders
 bitubercular
+blackleg
 bellyflaught
 bedticking
 bielectrolysis
@@ -10212,7 +10213,6 @@ bootstraps
 bondhold
 bloodletter
 belshazzar
-blackleg
 blacklegged
 betattering
 boyd
