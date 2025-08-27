@@ -5249,6 +5249,7 @@ cotsetla
 cassidulina
 cassiduloid
 charterage
+cistus
 cassiepeia
 cassimere
 caurus
@@ -14698,7 +14699,6 @@ conventionality
 cists
 cistudo
 colonic
-cistus
 citable
 cairns
 citadel
