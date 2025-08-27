@@ -6011,6 +6011,7 @@ brewis
 bribeability
 blephillia
 bekko
+betterments
 bemaul
 bipinnarias
 bitterbark
@@ -7425,7 +7426,6 @@ besmirched
 batrachia
 buboes
 bashalick
-betterments
 bulbocavernous
 bivouacks
 brabblingly
