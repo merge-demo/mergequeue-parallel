@@ -852,7 +852,6 @@ danization
 drizzling
 disbandment
 deteriorator
-duralumin
 duotone
 decrudescence
 dank
@@ -5025,6 +5024,7 @@ deposed
 dinamode
 delustered
 dovecotes
+duralumin
 duellers
 demure
 diplographical
