@@ -15014,6 +15014,7 @@ colormaking
 ciudad
 cosmesis
 carpetless
+collibert
 carbonado
 civet
 civets
@@ -19062,7 +19063,6 @@ comic
 combustibilities
 cresorcin
 colly
-collibert
 confineless
 colliculate
 colonialise
