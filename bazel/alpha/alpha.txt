@@ -9646,7 +9646,6 @@ adulteration
 auspicy
 absenting
 antespring
-aprosexia
 autecologic
 alurgite
 autocephalic
@@ -24841,6 +24840,7 @@ avowably
 avowals
 archrebel
 avowed
+aprosexia
 aseptic
 avowedly
 apotheosis
