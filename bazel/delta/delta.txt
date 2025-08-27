@@ -438,6 +438,7 @@ decametric
 ditchwater
 dayrooms
 deities
+diplogenic
 downloaded
 dodrantal
 dextrosinistrally
@@ -7866,7 +7867,6 @@ dukery
 discombobulates
 dalcassian
 dermestes
-diplogenic
 discouragingly
 diffluent
 dogbodies
