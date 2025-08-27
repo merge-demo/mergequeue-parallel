@@ -4773,7 +4773,6 @@ diethylaminoethanol
 denominated
 democracies
 discuses
-democrat
 dotations
 dawdles
 douar
@@ -15132,6 +15131,7 @@ deformer
 doggerelling
 doggerels
 deposals
+democrat
 decnet
 drysalteries
 doggers
