@@ -9607,7 +9607,6 @@ bongs
 beckoners
 bisglyoxaline
 bakeshops
-brusquerie
 bluest
 bishari
 byblis
@@ -13749,6 +13748,7 @@ boatyard
 bromocyanogen
 besmudging
 boutonnieres
+brusquerie
 boutons
 bradbury
 barrelful
