@@ -9476,7 +9476,6 @@ destructively
 digamma
 demilegato
 downfeed
-digammated
 disworkmanship
 dibatag
 doomfulness
@@ -12422,6 +12421,7 @@ differentiates
 disharmonious
 duplexer
 drias
+digammated
 disharmonised
 departmentally
 disharmonising
