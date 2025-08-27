@@ -4010,7 +4010,6 @@ digressiveness
 dibasicity
 dialing
 dipteros
-dirten
 delegations
 delegator
 discomposedly
@@ -8875,6 +8874,7 @@ dibranch
 duftery
 defiguration
 draglines
+dirten
 dibranchiata
 dropperful
 dovens
