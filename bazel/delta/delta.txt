@@ -5028,7 +5028,6 @@ diplographical
 disnest
 demurrages
 dannie
-demurrant
 dually
 driveling
 defenestrate
@@ -13216,6 +13215,7 @@ dispicion
 dicentrin
 dominate
 damasks
+demurrant
 dispiritedly
 detonable
 didache

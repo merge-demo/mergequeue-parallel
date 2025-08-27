@@ -763,7 +763,6 @@ aviarists
 allurements
 ascites
 abreast
-archenteric
 abreed
 anchylosing
 asyle
@@ -3126,6 +3125,7 @@ actory
 alliterativeness
 actress
 ahems
+archenteric
 antipathogen
 aminic
 arachide
