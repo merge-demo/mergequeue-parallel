@@ -11077,6 +11077,7 @@ chitosans
 capsids
 chitose
 chitrali
+caddis
 chytridiaceae
 captains
 coccobacillus
@@ -11100,7 +11101,6 @@ chivachee
 confirmand
 chivalresque
 chaum
-caddis
 cosovereign
 controllableness
 caprificator
