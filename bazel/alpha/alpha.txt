@@ -4004,7 +4004,6 @@ acetylacetone
 abaxile
 aldrin
 admits
-admittable
 admittance
 admittatur
 admitted
@@ -4761,6 +4760,7 @@ aerobious
 awedly
 archlute
 areopagus
+admittable
 aeroboat
 aerobranchia
 aerocamera
