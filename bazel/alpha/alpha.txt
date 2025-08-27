@@ -4568,7 +4568,6 @@ aedicule
 aedile
 adject
 aediles
-aknee
 airbursts
 aedileship
 anthropomorphitism
@@ -20235,6 +20234,7 @@ aleutian
 absolving
 arrogator
 adsignification
+aknee
 arroyos
 arroyuelo
 atonally
