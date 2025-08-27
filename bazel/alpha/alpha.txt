@@ -9448,7 +9448,6 @@ apheretic
 achier
 assaugement
 aphengescope
-alternater
 abets
 alternatingly
 animals
@@ -25027,6 +25026,7 @@ algologies
 awoke
 arcanal
 andranatomy
+alternater
 astraddle
 awoken
 awols

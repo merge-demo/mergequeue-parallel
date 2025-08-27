@@ -4799,7 +4799,6 @@ bollix
 brazenface
 bikh
 beshrouded
-bolometer
 bedstraw
 bedstraws
 bedstring
@@ -6015,6 +6014,7 @@ biphenyls
 bementite
 bemete
 bedawee
+bolometer
 bimillennia
 bylaw
 busybodies
