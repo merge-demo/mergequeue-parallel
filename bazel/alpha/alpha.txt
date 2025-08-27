@@ -5798,6 +5798,7 @@ anophyte
 agers
 ages
 altisonant
+aspermic
 actinocrinidae
 achroiocythemia
 asthenic
@@ -22423,7 +22424,6 @@ anticholinesterase
 aerogene
 adorability
 aefauld
-aspermic
 acousma
 atechnical
 atef
