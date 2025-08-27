@@ -24502,7 +24502,6 @@ connascent
 chromatodysopia
 cope
 cappers
-capillus
 chrysidella
 coetaneously
 copehan
@@ -29816,6 +29815,7 @@ conflates
 cowslipped
 callow
 crossbeam
+capillus
 crossbeams
 cosmorganic
 choctaws
