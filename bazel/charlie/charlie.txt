@@ -2336,6 +2336,7 @@ calinda
 canezou
 ccw
 canamo
+catapultier
 cranesbill
 canangium
 chaetognathous
@@ -5621,7 +5622,6 @@ catapleiite
 catapuce
 catapulted
 catapultic
-catapultier
 cremations
 colthood
 cataracts
