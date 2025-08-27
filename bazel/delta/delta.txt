@@ -11985,7 +11985,6 @@ defrock
 dramatizes
 downrange
 domes
-digestion
 derailleur
 disembarked
 demephitize
@@ -15263,6 +15262,7 @@ dojigger
 deprogramming
 debituminization
 diestocks
+digestion
 dokmarok
 decart
 dandriffy
