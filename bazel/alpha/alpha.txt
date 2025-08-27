@@ -4252,6 +4252,7 @@ acarida
 actiniferous
 adscititious
 adscriptitious
+averment
 adscriptitius
 annodated
 adsheart
@@ -24625,7 +24626,6 @@ averia
 accordant
 alai
 andesite
-averment
 annuli
 acinetarian
 anopheline
