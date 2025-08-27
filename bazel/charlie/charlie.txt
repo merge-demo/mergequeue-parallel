@@ -13359,7 +13359,6 @@ cycloscope
 cycloserine
 centuply
 cyclosis
-cyclospondyli
 cuppas
 cyclosporeae
 concurrent
@@ -16324,6 +16323,7 @@ clipsome
 crabmeat
 clipt
 conniption
+cyclospondyli
 clique
 censorable
 clags
