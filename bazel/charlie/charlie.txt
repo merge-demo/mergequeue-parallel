@@ -10811,7 +10811,6 @@ chinooks
 centerpieces
 chinotoxine
 cleverishly
-chins
 chinse
 chinsing
 coragio
@@ -23364,6 +23363,7 @@ contained
 containerboard
 containerization
 concordantial
+chins
 containerizing
 chemasthenia
 containerport
