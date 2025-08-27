@@ -1148,6 +1148,7 @@ baisemain
 besmears
 betaken
 blachong
+beudantite
 banqueter
 baitfish
 buffeter
@@ -3314,7 +3315,6 @@ blippers
 beguilers
 balao
 besotment
-beudantite
 basked
 basketballer
 baggiest
