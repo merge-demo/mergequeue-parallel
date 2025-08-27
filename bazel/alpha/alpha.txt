@@ -10374,7 +10374,6 @@ amerinds
 assisa
 adactylia
 ailuromania
-amerveil
 acanthophis
 arendator
 actualizes
@@ -18643,6 +18642,7 @@ amblyopia
 archcrown
 arointed
 arthrosterigma
+amerveil
 archd
 archdeaconries
 archdefender
