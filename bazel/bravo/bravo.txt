@@ -5263,7 +5263,6 @@ bimastoid
 bullyragged
 bunkmate
 begarlanded
-baldpates
 bewired
 begass
 bitless
@@ -5398,6 +5397,7 @@ blunderbusses
 branchi
 begrimes
 begriming
+baldpates
 begrimmed
 brickly
 bot
