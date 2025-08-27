@@ -1712,7 +1712,6 @@ bravehearted
 biasing
 blackbrush
 buccate
-borzois
 baloney
 bryan
 buskers
@@ -11679,6 +11678,7 @@ boatward
 beatably
 boatwright
 bearbaiting
+borzois
 bob
 biennales
 burglarize
