@@ -15034,7 +15034,6 @@ bovinity
 booster
 bason
 brehonship
-blinked
 butterflies
 blindism
 breird
@@ -17843,6 +17842,7 @@ busbar
 busbars
 biurate
 blackstrap
+blinked
 boob
 barotse
 bisetose
