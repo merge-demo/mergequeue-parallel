@@ -23011,7 +23011,6 @@ convenable
 consomm
 camels
 consomme
-consommes
 consonance
 consonancy
 consonant
@@ -31312,6 +31311,7 @@ cottabus
 curdles
 curdly
 curdoo
+consommes
 conceivably
 cured
 cornix
