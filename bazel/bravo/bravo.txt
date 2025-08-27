@@ -8431,6 +8431,7 @@ banqueteering
 baignet
 bandsawed
 bilcock
+blearyeyedness
 bellehood
 bildar
 bullshot
@@ -10649,7 +10650,6 @@ brunissure
 bhava
 belt
 bouleuteria
-blearyeyedness
 bevel
 brotulid
 begarnish
