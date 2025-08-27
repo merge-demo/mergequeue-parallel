@@ -3557,7 +3557,6 @@ defuze
 dolman
 dakoities
 dissociative
-degage
 degames
 deganglionate
 dystome
@@ -7579,6 +7578,7 @@ drawout
 derner
 desilverization
 deuterosy
+degage
 deuterostoma
 drubber
 dutifulness
