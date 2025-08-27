@@ -12374,6 +12374,7 @@ belfather
 beswarmed
 bombus
 bombardelle
+bewitchments
 bomi
 bomos
 beloveds
@@ -17365,7 +17366,6 @@ balldress
 bodies
 bombyciform
 beshield
-bewitchments
 breadthen
 blepharosyndesmitis
 brownish
