@@ -9877,6 +9877,7 @@ bitstock
 beasties
 besmirches
 bitstone
+bunchberry
 bitter
 besee
 bitterbloom
@@ -10807,7 +10808,6 @@ blepharoplastic
 blepharoptosis
 blepharosynechia
 blepharosphincterectomy
-bunchberry
 bulldoggy
 blepharostenosis
 beeswing
