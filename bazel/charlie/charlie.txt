@@ -8033,6 +8033,7 @@ chaetodont
 capercally
 chaetodontidae
 chaetognatha
+crandall
 cityscape
 chaetophobia
 crumples
@@ -28038,7 +28039,6 @@ cranberries
 cranch
 chondrigen
 cranching
-crandall
 curded
 crandallite
 cuspidine
