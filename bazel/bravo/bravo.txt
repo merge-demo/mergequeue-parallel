@@ -1348,6 +1348,7 @@ bacteriophagous
 bobbles
 balboa
 bethlehem
+beehive
 bookdealer
 bioplastic
 balboas
@@ -4932,7 +4933,6 @@ bootlick
 bairnliness
 badchan
 bouncing
-beehive
 busser
 braches
 bandy
