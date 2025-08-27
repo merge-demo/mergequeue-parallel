@@ -17162,7 +17162,6 @@ apomixis
 apomorphia
 angia
 antireductive
-adeptship
 apomorphin
 archimago
 aspired
@@ -24608,6 +24607,7 @@ aventayle
 areopagy
 aventails
 axiom
+adeptship
 alypine
 absumption
 aerialness
