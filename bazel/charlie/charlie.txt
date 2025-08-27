@@ -3132,7 +3132,6 @@ capelans
 capelin
 cornette
 capeline
-chondrocele
 crocked
 capelins
 capella
@@ -9833,6 +9832,7 @@ crucifige
 ciliary
 curtaining
 computist
+chondrocele
 couldnt
 chemiculture
 chemigraphy
