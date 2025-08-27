@@ -8363,7 +8363,6 @@ bombyxes
 bastian
 bashawdom
 bigwigged
-bigwiggery
 biomass
 beryllia
 bigwigs
@@ -14606,6 +14605,7 @@ bassara
 boasted
 branning
 bromoiodism
+bigwiggery
 broadleaves
 bewrayment
 brantails
