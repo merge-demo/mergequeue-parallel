@@ -4138,7 +4138,6 @@ decapitated
 delineature
 delineavit
 delinquency
-decimalise
 despeche
 diagenetically
 disaffiliates
@@ -18539,6 +18538,7 @@ drivage
 desulfurization
 diazohydroxide
 darbs
+decimalise
 durians
 differ
 duricrust
