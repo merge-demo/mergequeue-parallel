@@ -10770,6 +10770,7 @@ amminolytic
 anorexias
 aselline
 aljofaina
+altricial
 analogicalness
 alzheimer
 ammites
@@ -11606,7 +11607,6 @@ anacrogynae
 amba
 anacrogynous
 anacrotic
-altricial
 aerenchyma
 anacruses
 anacrustic
