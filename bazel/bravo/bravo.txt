@@ -138,6 +138,7 @@ babirusas
 brimmer
 brabantine
 basicranial
+bargaining
 bedimpled
 bedash
 braccate
@@ -2478,7 +2479,6 @@ bargainable
 bushranging
 buckraming
 billbugs
-bargaining
 beechwoods
 burian
 bhut
