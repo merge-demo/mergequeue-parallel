@@ -5003,6 +5003,7 @@ alliancer
 agonies
 archaised
 aeronomies
+arabesk
 aesculin
 aplacophora
 aesir
@@ -14247,7 +14248,6 @@ antherogenous
 ammiolite
 adnescent
 angiotensin
-arabesk
 antherozoid
 antherozooidal
 anthers
