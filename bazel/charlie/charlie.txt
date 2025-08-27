@@ -566,6 +566,7 @@ cruiseway
 commilitant
 catalineta
 caducean
+catechistic
 caducecei
 caducei
 caduceus
@@ -5740,7 +5741,6 @@ catechism
 catalyzator
 circumspective
 catechismal
-catechistic
 catechistical
 catechists
 catechization
