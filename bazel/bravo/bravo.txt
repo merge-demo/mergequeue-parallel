@@ -2140,7 +2140,6 @@ blandfordia
 botrychium
 backup
 baptisias
-biddy
 buxomness
 bonehead
 bricksetter
@@ -6494,6 +6493,7 @@ bellon
 bepatched
 bettergates
 bailo
+biddy
 boxings
 bifariously
 boomah
