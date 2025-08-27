@@ -14861,7 +14861,6 @@ aburagiri
 ankaratrite
 ambassadress
 anticlergy
-anticlerical
 anticlericalism
 anticlericalist
 acidophilous
@@ -24093,6 +24092,7 @@ autohypnotically
 acemetae
 anomic
 abscessing
+anticlerical
 antimasonry
 autoimmunity
 athletes
