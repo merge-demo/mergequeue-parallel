@@ -20433,6 +20433,7 @@ chromophyll
 crowd
 canvaslike
 companionize
+carpings
 cupressineous
 companionizing
 callousing
@@ -22870,7 +22871,6 @@ conservatorium
 crystograph
 conservators
 conservatorship
-carpings
 coordinator
 conserve
 conserved
