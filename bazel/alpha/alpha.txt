@@ -1507,7 +1507,6 @@ autochthonously
 accompanyist
 asperggilla
 aphasiac
-accompanimental
 antiapostle
 accompli
 allanitic
@@ -15786,6 +15785,7 @@ ascendant
 antiepileptic
 authorization
 araua
+accompanimental
 alictisal
 autotoxication
 arctitude
