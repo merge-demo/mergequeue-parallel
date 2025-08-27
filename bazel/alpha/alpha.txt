@@ -7044,6 +7044,7 @@ aggradation
 agglomerating
 awber
 ako
+aglycones
 archicytula
 akoasm
 akontae
@@ -9567,7 +9568,6 @@ antiepiscopist
 aluconinae
 anthocerotaceae
 ambier
-aglycones
 araneae
 agendaless
 affairs
