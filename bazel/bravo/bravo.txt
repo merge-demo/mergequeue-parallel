@@ -15158,7 +15158,6 @@ bactericidin
 brushman
 bryce
 babi
-brick
 bankruptship
 brickbat
 buttonholed
@@ -17405,6 +17404,7 @@ baccalaureat
 boccies
 baltis
 bunking
+brick
 babeldom
 browny
 bunny
