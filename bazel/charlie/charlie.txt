@@ -5563,6 +5563,7 @@ crochet
 catalogia
 contractible
 catalogical
+cataractwise
 carking
 choiceless
 carnality
@@ -5628,7 +5629,6 @@ cremations
 colthood
 cataracts
 croconate
-cataractwise
 catarrhal
 col
 catarrhina
