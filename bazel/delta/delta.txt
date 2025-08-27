@@ -2712,7 +2712,6 @@ dictates
 dissembling
 decore
 docklands
-dewcup
 divots
 decorist
 dragged
@@ -11889,6 +11888,7 @@ decentralism
 discurre
 dislikable
 discursify
+dewcup
 divet
 domineered
 dbl
