@@ -1914,7 +1914,6 @@ constant
 camelopardus
 cloghad
 counterflashing
-camelry
 castalia
 camembert
 conglobated
@@ -23707,6 +23706,7 @@ conjunctural
 chessmen
 cothurned
 cyclomyarian
+camelry
 condensance
 converted
 contraltos
