@@ -5718,7 +5718,6 @@ acrocephalia
 abranchiata
 artophoria
 aeroduct
-aguey
 agathis
 agatelike
 agathist
@@ -14709,6 +14708,7 @@ anticarious
 aeronautism
 anticatalase
 armorially
+aguey
 anticatalyst
 anticatalytic
 anticatalytically
