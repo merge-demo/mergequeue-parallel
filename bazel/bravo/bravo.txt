@@ -3400,7 +3400,6 @@ blockades
 busiest
 broider
 bewall
-bittor
 berascaled
 botanizer
 basswood
@@ -3888,6 +3887,7 @@ bawneen
 bawra
 bawsint
 brutalness
+bittor
 blamelessness
 bawties
 beechnuts
