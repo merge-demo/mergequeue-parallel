@@ -14520,6 +14520,7 @@ cise
 comprisable
 checkrail
 ciseaux
+clonorchis
 courante
 cising
 cisium
@@ -16622,7 +16623,6 @@ coadmire
 clonking
 clonorchiasis
 crypt
-clonorchis
 chapeaus
 circumoesophagal
 cosponsorships
