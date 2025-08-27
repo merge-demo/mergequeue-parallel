@@ -10966,7 +10966,6 @@ chiropodous
 chiropompholyx
 chiropraxis
 contraposita
-chiroptera
 chiropterygian
 chiropterite
 chiros
@@ -19820,6 +19819,7 @@ chelydridae
 comedo
 catacumbal
 cassareep
+chiroptera
 comely
 coursings
 comelier
