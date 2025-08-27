@@ -25852,7 +25852,6 @@ corsets
 contra
 corsy
 coom
-carillonneurs
 corsican
 clinical
 chyak
@@ -31386,6 +31385,7 @@ curiolofic
 culinarily
 curiologic
 chemotropic
+carillonneurs
 curiologically
 curiologics
 comparability
