@@ -5800,6 +5800,7 @@ dredged
 dreck
 depones
 deponing
+dented
 distributee
 deltidium
 docker
@@ -11319,7 +11320,6 @@ dreamworld
 depolymerized
 discabinet
 discommendableness
-dented
 discamp
 drawstring
 discanted
