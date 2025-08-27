@@ -5104,6 +5104,7 @@ druggiest
 discomfit
 dedimus
 downhearted
+disproof
 dispone
 dissipated
 disterr
@@ -14525,7 +14526,6 @@ demoralization
 drabbet
 dawdler
 daemones
-disproof
 dechloridation
 divertisement
 dextrogyrous
