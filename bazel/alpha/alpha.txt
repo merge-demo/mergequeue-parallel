@@ -2433,7 +2433,6 @@ anachronize
 antireduction
 acocotl
 acoela
-acoelomate
 acoelomatous
 autoloaders
 anagoges
@@ -17084,6 +17083,7 @@ anisochromia
 aculeata
 apogeotropism
 autolaryngoscopy
+acoelomate
 afterfuture
 apogonid
 apographic
