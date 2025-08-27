@@ -7141,6 +7141,7 @@ corrober
 centralities
 croupy
 chaeta
+characterising
 cyancarbonic
 cither
 chauceriana
@@ -8867,7 +8868,6 @@ characterise
 characterised
 columnize
 cumulus
-characterising
 chanted
 clodbreaker
 cuniform
