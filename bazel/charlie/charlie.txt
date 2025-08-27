@@ -7599,7 +7599,6 @@ calade
 coincidentally
 cerebrosclerosis
 cerebroscope
-codewords
 cerebrose
 cyanoplatinous
 chargers
@@ -17839,6 +17838,7 @@ cabook
 codette
 codfish
 childbed
+codewords
 codfisher
 counterpassion
 coniophora
