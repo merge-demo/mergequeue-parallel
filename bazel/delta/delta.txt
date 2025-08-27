@@ -8342,6 +8342,7 @@ diplogenetic
 disenactment
 doffing
 dialectal
+duadic
 draftier
 duim
 darkishness
@@ -17665,7 +17666,6 @@ draftee
 disapprobation
 dreamed
 dreamsily
-duadic
 difluence
 duads
 dentalmen
