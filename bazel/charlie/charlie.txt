@@ -9904,7 +9904,6 @@ calic
 cameograph
 catalogic
 chronobiology
-chemosorption
 chemosphere
 collateral
 cancers
@@ -9996,6 +9995,7 @@ cassidinae
 creamcake
 champaign
 chermidae
+chemosorption
 chermish
 cocopans
 clanjamfray
