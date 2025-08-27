@@ -3655,7 +3655,6 @@ caramels
 commendam
 carancha
 carancho
-caranday
 carandas
 carangids
 coenaesthesis
@@ -20140,6 +20139,7 @@ commingles
 commingling
 comminuted
 cybercultural
+caranday
 comminution
 corroborate
 chokingly
