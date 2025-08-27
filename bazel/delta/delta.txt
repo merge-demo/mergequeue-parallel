@@ -13272,7 +13272,6 @@ drie
 dinnerless
 doorways
 dyspnea
-distempered
 dyspneas
 ducat
 determinator
@@ -16876,6 +16875,7 @@ deuteride
 dishonorary
 disvaluing
 drawings
+distempered
 deliquescent
 dissociable
 dendrodus
