@@ -1758,7 +1758,6 @@ baluch
 bullet
 bitripinnatifid
 broquery
-becollier
 buses
 biretta
 bedraggling
@@ -15563,6 +15562,7 @@ biting
 britannically
 brashy
 blennophlogosis
+becollier
 blimy
 binocles
 british
