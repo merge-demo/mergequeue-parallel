@@ -2521,6 +2521,7 @@ candlefish
 corporeal
 chaldaical
 candlefishes
+commixes
 collogued
 coral
 candlelight
@@ -8804,7 +8805,6 @@ cachexic
 chapournet
 chapournetted
 cottering
-commixes
 chappal
 chappie
 chappies
