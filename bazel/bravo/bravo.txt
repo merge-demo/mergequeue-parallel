@@ -3378,6 +3378,7 @@ branchiopulmonate
 bangiales
 bassalia
 bootable
+bullnut
 brythonic
 baculum
 bassan
@@ -17133,7 +17134,6 @@ bulletproof
 bullnose
 beewinged
 bullnoses
-bullnut
 bhara
 bullock
 brachialgia
