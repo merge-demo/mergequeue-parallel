@@ -10600,6 +10600,7 @@ acatharsia
 amyloidosis
 anguille
 amyloleucite
+antivenine
 afterwrath
 amylolysis
 arkite
@@ -19002,7 +19003,6 @@ apishness
 allegedly
 allegoric
 abderian
-antivenine
 alit
 alkylamino
 alphanumeric
