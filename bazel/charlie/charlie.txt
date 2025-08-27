@@ -7083,7 +7083,6 @@ cerebriformly
 cannikin
 copt
 centigrams
-centile
 cendre
 centiles
 catamited
@@ -16618,6 +16617,7 @@ clonothrix
 carangus
 clonus
 cloof
+centile
 chymaqueous
 chemicoluminescence
 cloot
