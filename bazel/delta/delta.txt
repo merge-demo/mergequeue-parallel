@@ -3809,7 +3809,6 @@ deign
 describes
 disunities
 deigned
-disavowable
 diwan
 deliveryman
 defail
@@ -9373,6 +9372,7 @@ distraction
 destroyable
 deutoplasmic
 dunces
+disavowable
 differentiability
 differentiae
 differentials

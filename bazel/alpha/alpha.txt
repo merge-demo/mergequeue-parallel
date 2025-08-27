@@ -5330,6 +5330,7 @@ afortiori
 authenticity
 apocatastasis
 afoul
+airable
 afray
 athrocytosis
 antisymmetrical
@@ -6646,7 +6647,6 @@ ainus
 antemetic
 air
 agribusiness
-airable
 avenue
 airan
 airbills
