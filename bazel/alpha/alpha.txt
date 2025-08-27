@@ -14578,7 +14578,6 @@ antianaphylaxis
 anakinetomer
 antianarchic
 antiangular
-antiannexation
 angioplany
 antiannexationist
 acadian
@@ -16254,6 +16253,7 @@ ariki
 antitragal
 abris
 antitetanic
+antiannexation
 accusive
 antitragicus
 aricine
