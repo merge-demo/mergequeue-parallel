@@ -19646,7 +19646,6 @@ agonistic
 actinosphaerium
 amebous
 argonauts
-aristol
 autobiographist
 armeniaceous
 aristolochia
@@ -21754,6 +21753,7 @@ alternanthera
 assyriology
 anaglyphics
 assyriological
+aristol
 agronomist
 amowt
 aspergilla
