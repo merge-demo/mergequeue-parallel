@@ -4039,7 +4039,6 @@ dealership
 dawtie
 darwinians
 describer
-dismail
 delsartean
 dogwinkle
 desperance
@@ -15687,6 +15686,7 @@ detergible
 dooring
 doorknob
 doorless
+dismail
 destinate
 decolorised
 dietist
