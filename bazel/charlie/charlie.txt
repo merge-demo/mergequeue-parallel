@@ -6591,6 +6591,7 @@ currieries
 cecity
 cystoureteritis
 cecitis
+crosshairs
 cecomorphic
 classily
 cecopexy
@@ -24314,7 +24315,6 @@ circumflex
 cool
 cooled
 changepocket
-crosshairs
 cavally
 cooley
 capitatum
