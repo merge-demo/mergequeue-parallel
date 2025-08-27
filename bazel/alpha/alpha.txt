@@ -2428,6 +2428,7 @@ acocantherin
 awaredom
 acockbill
 alcoholizable
+anachronize
 antireduction
 acocotl
 acoela
@@ -11568,7 +11569,6 @@ achamoth
 agars
 afright
 anachronistic
-anachronize
 animalish
 acuerdos
 albuminuria
