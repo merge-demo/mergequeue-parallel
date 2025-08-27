@@ -15668,6 +15668,7 @@ deviable
 dap
 doolfu
 doomed
+declension
 defterdar
 doomer
 disconnections
@@ -18364,7 +18365,6 @@ duodedenums
 dystopias
 duodena
 defends
-declension
 degelation
 dyestuff
 dithalous
