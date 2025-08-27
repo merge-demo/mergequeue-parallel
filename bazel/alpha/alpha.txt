@@ -12198,7 +12198,6 @@ ancylopod
 acneiform
 acrider
 anatropous
-alnico
 ambisexual
 ancylose
 avanyu
@@ -19695,6 +19694,7 @@ arizonians
 arizonite
 achigan
 anuresis
+alnico
 arjun
 anthracometer
 arkansawyer
