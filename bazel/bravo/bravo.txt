@@ -5629,7 +5629,6 @@ bulimoid
 brunet
 baggages
 backlashing
-bima
 blarina
 bridelike
 belate
@@ -8861,6 +8860,7 @@ belch
 biobibliographer
 barleysick
 bioblastic
+bima
 backwoodsiness
 bungaloid
 berakot
