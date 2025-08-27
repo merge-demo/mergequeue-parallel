@@ -4428,7 +4428,6 @@ caseates
 cert
 carli
 choruslike
-crackleware
 carlylean
 carlyleian
 chiromantical
@@ -14153,6 +14152,7 @@ coit
 circularism
 chrysanthemums
 clink
+crackleware
 caulerpa
 colanders
 circularization
