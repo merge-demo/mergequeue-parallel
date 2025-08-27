@@ -8116,7 +8116,6 @@ besieging
 bloodhound
 bidiagonal
 bidimensional
-barble
 befouls
 bidirectional
 biophagy
@@ -13678,6 +13677,7 @@ beckoned
 befoolable
 bespawl
 bourgade
+barble
 bonailie
 bourgeoisie
 bullroarer

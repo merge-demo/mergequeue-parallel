@@ -1814,7 +1814,6 @@ aceratherium
 anteresurrection
 acerbate
 acerbated
-acerbates
 aulacocarpous
 acerber
 angiohydrotomy
@@ -3321,6 +3320,7 @@ apostemation
 answerless
 argosies
 antipoetical
+acerbates
 alliaria
 abietinic
 adaptor
