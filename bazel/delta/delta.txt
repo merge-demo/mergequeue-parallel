@@ -1933,7 +1933,6 @@ deaccession
 darat
 dissatisfyingly
 daedalian
-debruises
 doodles
 debs
 diatonical
@@ -9295,6 +9294,7 @@ diestrous
 drawbridge
 diestrums
 daikering
+debruises
 daguerreotyper
 dewar
 dietaries
