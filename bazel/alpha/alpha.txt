@@ -9834,6 +9834,7 @@ adulterates
 attributed
 amassette
 androids
+antinarrative
 amassing
 attemptability
 attractile
@@ -15845,7 +15846,6 @@ antipragmatism
 alienates
 antipragmatist
 ambrosiaceous
-antinarrative
 antipredeterminant
 assagaied
 antelopine
