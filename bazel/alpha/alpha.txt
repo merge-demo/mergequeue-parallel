@@ -19219,6 +19219,7 @@ areographical
 adjunction
 areolae
 areolar
+autoreduction
 aluminothermics
 areolas
 areocentric
@@ -22209,7 +22210,6 @@ ailerons
 anal
 anhaline
 aplanat
-autoreduction
 avifaunally
 atmologist
 astrodiagnosis
