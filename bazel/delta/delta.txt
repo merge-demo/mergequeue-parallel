@@ -1577,7 +1577,6 @@ diplomata
 diastrophy
 disposition
 determinatively
-desitive
 deadlocking
 duplicia
 dipus
@@ -12523,6 +12522,7 @@ discontinuations
 disconform
 disdeceive
 decimalize
+desitive
 disillusionments
 disgorge
 discomycetes
