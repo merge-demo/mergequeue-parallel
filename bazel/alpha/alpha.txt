@@ -17369,6 +17369,7 @@ airship
 antiarchi
 apothegmatically
 apothegmatist
+autojigger
 atriensis
 apothegmatize
 antiattrition
@@ -24114,7 +24115,6 @@ anquera
 afterlifetime
 autointoxicant
 animalculism
-autojigger
 autojuggernaut
 adornos
 anodynic
