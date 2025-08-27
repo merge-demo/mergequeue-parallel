@@ -3660,6 +3660,7 @@ depsid
 disrupt
 deadheads
 dewal
+discontinuable
 decimalisation
 discalced
 degraduate
@@ -11641,7 +11642,6 @@ deorganize
 disboweled
 discontents
 discontiguity
-discontinuable
 discontinuances
 dambonite
 debuts
