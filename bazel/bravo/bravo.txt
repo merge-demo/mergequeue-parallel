@@ -3245,7 +3245,6 @@ backoff
 blushfulness
 basilicate
 basilicock
-basilics
 basilidan
 basilidian
 baralipton
@@ -7600,6 +7599,7 @@ bewitched
 boughed
 bewitcher
 bewitches
+basilics
 bryological
 beswink
 boons
