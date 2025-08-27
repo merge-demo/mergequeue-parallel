@@ -13503,7 +13503,6 @@ cylindrella
 cylindrelloid
 cryptographic
 cylindrenchyma
-cylindric
 cylindrically
 cylindricity
 cylindricule
@@ -20979,6 +20978,7 @@ compromitted
 crumbling
 cany
 cancerroot
+cylindric
 chipmuck
 compsoa
 canoncito
