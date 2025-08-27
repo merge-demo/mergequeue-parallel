@@ -8629,7 +8629,6 @@ cynosural
 curtness
 complementaries
 cohesionless
-changelessness
 changelings
 changement
 cuissard
@@ -13518,6 +13517,7 @@ cylindrocylindric
 counterfeiter
 coughroot
 craniad
+changelessness
 cyanhidrosis
 cylindroconoidal
 cylindrodendrite
