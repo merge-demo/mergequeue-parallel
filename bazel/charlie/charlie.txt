@@ -12521,7 +12521,6 @@ cassino
 chrysorin
 chromopsia
 chromoptometer
-colourationally
 chromoptometrical
 coadjacency
 chromoscopy
@@ -26809,6 +26808,7 @@ chittering
 chilopod
 counterfeits
 counterfessed
+colourationally
 counterfire
 counterflange
 cruzados
