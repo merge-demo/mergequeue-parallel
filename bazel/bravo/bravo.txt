@@ -891,7 +891,6 @@ beamsmen
 baggie
 bountifulness
 baggier
-baggings
 businesslike
 barbiton
 battlegrounds
@@ -13846,6 +13845,7 @@ bowelling
 bower
 bituberculated
 bullgine
+baggings
 binominal
 bidential
 brewing
