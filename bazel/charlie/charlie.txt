@@ -12389,7 +12389,6 @@ celebe
 chromatophil
 chromatophile
 cothurni
-chromatophilic
 chromatophilous
 chromatophobia
 chromatophore
@@ -18138,6 +18137,7 @@ coleochaetaceae
 coequal
 collars
 campman
+chromatophilic
 coequalness
 chopping
 coequals
