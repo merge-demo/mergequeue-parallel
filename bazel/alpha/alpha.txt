@@ -12343,6 +12343,7 @@ androgenous
 anchietin
 androgens
 anticomplex
+anisylidene
 androgyn
 androgynal
 arillode
@@ -19051,7 +19052,6 @@ archturncoat
 archvampire
 archvillainy
 assuages
-anisylidene
 aphoristic
 archvisitor
 archwag
