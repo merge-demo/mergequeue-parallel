@@ -2496,6 +2496,7 @@ candids
 crawlie
 cantorial
 countermands
+countersignatures
 coasters
 candies
 cueing
@@ -9931,7 +9932,6 @@ chemotherapy
 calqued
 charlock
 chemotherapist
-countersignatures
 carcinomas
 crackjaw
 chemotic
