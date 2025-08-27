@@ -19573,7 +19573,6 @@ arylide
 affricative
 abwatts
 arillus
-ananter
 arils
 acmesthesia
 acylal
@@ -22250,6 +22249,7 @@ anniversaries
 actify
 arcturia
 ananas
+ananter
 allamotti
 agenda
 asteriskless

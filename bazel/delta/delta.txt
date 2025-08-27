@@ -3281,6 +3281,7 @@ defines
 deionizes
 definiens
 derencephalocele
+duet
 dolabre
 definish
 deciduary
@@ -6561,7 +6562,6 @@ descrive
 descure
 desecrater
 duckfooted
-duet
 danburite
 desdemona
 disinvest
