@@ -13550,6 +13550,7 @@ baling
 bangia
 bobs
 binucleolate
+basommatophora
 ballutes
 bembex
 besnowed
@@ -13984,7 +13985,6 @@ bickiron
 boxroom
 bromatium
 barwise
-basommatophora
 bacteriofluorescin
 barbarical
 backstage
