@@ -4119,7 +4119,6 @@ bedrenched
 bras
 broozled
 brachycera
-bordered
 bearfoots
 bearhug
 babirousa
@@ -17857,6 +17856,7 @@ boatbills
 blotchier
 bearbush
 bacilluria
+bordered
 bairnishness
 beholders
 bolides
