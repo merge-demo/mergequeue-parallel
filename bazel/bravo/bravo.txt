@@ -5178,6 +5178,7 @@ befouling
 birdseeds
 befoulment
 befreight
+bacula
 borosilicic
 baddish
 baguette
@@ -5427,7 +5428,6 @@ behallow
 bowldering
 betwit
 behammer
-bacula
 beshine
 breads
 behap
