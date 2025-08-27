@@ -2410,7 +2410,6 @@ boobies
 beggable
 bronteana
 bardulph
-bruiser
 burgouts
 brachyure
 bare
@@ -7082,6 +7081,7 @@ boucle
 bimorphs
 bushing
 bespeaking
+bruiser
 bespeaks
 bespecked
 boffola
