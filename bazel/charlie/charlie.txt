@@ -7816,7 +7816,6 @@ cribrous
 crotchy
 cervicoscapular
 cervicothoracic
-cervicovesical
 cervinae
 cosignatory
 cervixes
@@ -16219,6 +16218,7 @@ clingingly
 clinia
 clinically
 condensations
+cervicovesical
 cask
 clinicopathological
 clinkant
