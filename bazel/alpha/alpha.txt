@@ -12249,7 +12249,6 @@ axes
 anders
 autoirrigation
 adipocerite
-alkenna
 anderun
 archipresbyter
 andesytes
@@ -16054,6 +16053,7 @@ antiselene
 antisemitic
 antisemitism
 astrild
+alkenna
 antisensitivity
 anterior
 ajowans
