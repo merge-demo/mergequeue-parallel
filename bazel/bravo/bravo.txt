@@ -1504,7 +1504,6 @@ beglad
 bemadamed
 ballades
 bacteremia
-booked
 bedsick
 balladised
 balladism
@@ -8439,6 +8438,7 @@ bilection
 bileve
 bavardage
 bootjack
+booked
 bouteloua
 bilgeway
 bilharzial
