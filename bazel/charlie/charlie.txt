@@ -4536,7 +4536,6 @@ carnitine
 collie
 carpologically
 carnival
-carnivalesque
 contrastimulation
 cacomixls
 carnivals
@@ -16634,6 +16633,7 @@ cantref
 cloque
 cloques
 canoodle
+carnivalesque
 cathodically
 cimaroon
 clewed
