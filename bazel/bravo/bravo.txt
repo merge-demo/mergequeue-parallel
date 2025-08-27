@@ -2538,7 +2538,6 @@ brained
 beltways
 burghalpenny
 bloodberry
-bardel
 barylalia
 beleaped
 bluestockings
@@ -7221,6 +7220,7 @@ bestow
 bestowment
 burgee
 breaching
+bardel
 blades
 beveled
 bestraddled
