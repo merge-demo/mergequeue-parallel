@@ -936,6 +936,7 @@ absorptional
 aggregate
 actinopoda
 anarthria
+atelo
 algific
 adulterately
 antichymosin
@@ -22448,7 +22449,6 @@ anisoleucocytosis
 ateliotic
 ausu
 automatization
-atelo
 atelocephalous
 achromats
 ateloglossia
