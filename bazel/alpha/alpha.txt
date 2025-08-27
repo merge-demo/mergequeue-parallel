@@ -8930,7 +8930,6 @@ arrowhead
 auxiliatory
 atloaxoid
 allophanamid
-allophanate
 allophanates
 atypicality
 acredula
@@ -13907,6 +13906,7 @@ algist
 apronlike
 antagonists
 anniellidae
+allophanate
 antagonization
 athletically
 aorta
