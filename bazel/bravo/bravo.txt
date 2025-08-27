@@ -9409,6 +9409,7 @@ bebopper
 bridegroom
 begettal
 bobwood
+bird
 boga
 birectangular
 burh
@@ -14311,7 +14312,6 @@ blimps
 bluet
 brachistocephaly
 bessi
-bird
 banners
 bourignonism
 bianchite

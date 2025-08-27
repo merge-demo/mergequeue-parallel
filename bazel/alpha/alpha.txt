@@ -11490,7 +11490,6 @@ ajaja
 amphitheater
 anabaptists
 angustifoliate
-adenocele
 anabases
 anabasin
 archaeopteryx
@@ -19238,6 +19237,7 @@ areologies
 attainable
 areometry
 awm
+adenocele
 axebreaker
 areometrical
 arbutus
