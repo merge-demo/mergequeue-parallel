@@ -5771,7 +5771,6 @@ agendas
 ankylosaur
 agendum
 agendums
-albescent
 amovability
 agene
 ataxite
@@ -13335,6 +13334,7 @@ ankylenteron
 acmaesthesia
 ankylocheilia
 ankylodactylia
+albescent
 antiinflammatory
 ankylodontia
 assumption
