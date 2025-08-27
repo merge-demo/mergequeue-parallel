@@ -2036,7 +2036,6 @@ dothidella
 daimen
 duplicitas
 decagram
-dourness
 decagrams
 declasse
 despised
@@ -2593,6 +2592,7 @@ deguelia
 dispensaries
 decolletage
 displeaser
+dourness
 doxology
 decollete
 dividingly
