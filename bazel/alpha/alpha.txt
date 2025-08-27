@@ -7357,7 +7357,6 @@ assessor
 apertly
 anilinctus
 albitic
-augustly
 albitite
 acutiator
 anguilla
@@ -10612,6 +10611,7 @@ accusator
 advenae
 ampelidaceae
 amylom
+augustly
 amylopectin
 acorns
 amyloplast
