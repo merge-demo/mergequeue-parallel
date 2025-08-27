@@ -2373,7 +2373,6 @@ autoriser
 accommodatingly
 atrochal
 arisings
-aphicide
 acknowing
 auteciously
 acknowledged
@@ -8736,6 +8735,7 @@ arctoid
 alligatorfish
 alligatorfishes
 allyic
+aphicide
 arbinose
 allying
 allylate
