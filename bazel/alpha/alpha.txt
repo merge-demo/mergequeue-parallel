@@ -16947,7 +16947,6 @@ apneumonous
 agrammatical
 alipterion
 apneusis
-apodemata
 apneustic
 apnoea
 abominating
@@ -20120,6 +20119,7 @@ alyssum
 alc
 arrasene
 actless
+apodemata
 aplectrum
 arrases
 acoelomata
