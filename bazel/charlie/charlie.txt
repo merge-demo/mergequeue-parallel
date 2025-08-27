@@ -12786,7 +12786,6 @@ clonism
 cicindelidae
 chumulu
 coelogastrula
-cantharophilous
 chaenactis
 chun
 chunam
@@ -13590,6 +13589,7 @@ chignons
 cymbocephalous
 cymbopogon
 cimbrian
+cantharophilous
 casuistry
 cimbric
 canalised
