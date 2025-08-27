@@ -16727,7 +16727,6 @@ annunciators
 aphislion
 acinetina
 aphlogistic
-archbancs
 amberina
 alle
 antipascha
@@ -19786,6 +19785,7 @@ antigone
 acronyms
 antisophistic
 armfuls
+archbancs
 antisupernaturalism
 agoroth
 aethon
