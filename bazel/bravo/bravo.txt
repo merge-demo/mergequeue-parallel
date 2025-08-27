@@ -7076,6 +7076,7 @@ bespeak
 bodyless
 biggings
 boucle
+binning
 bimorphs
 bushing
 bespeaking
@@ -13636,7 +13637,6 @@ bouncier
 batteried
 barra
 begladding
-binning
 beclouded
 blepharophyma
 blockaders
