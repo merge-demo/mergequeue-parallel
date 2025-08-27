@@ -20499,6 +20499,7 @@ cwrite
 compatibility
 cladophoraceae
 compatibilities
+crispens
 cainism
 condors
 compatible
@@ -29367,7 +29368,6 @@ crispated
 crispbread
 circassian
 crispened
-crispens
 crispers
 craaled
 chromatogram
