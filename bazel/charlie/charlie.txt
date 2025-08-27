@@ -1521,6 +1521,7 @@ communising
 chemostat
 callisto
 callithrix
+condensary
 callithump
 collegiant
 corruptibilities
@@ -21576,7 +21577,6 @@ crustiness
 condemners
 condemning
 callot
-condensary
 counteroffensives
 crustless
 condensaries
