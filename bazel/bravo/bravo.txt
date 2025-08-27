@@ -3566,6 +3566,7 @@ boliviano
 bathythermograph
 bathkol
 bipartite
+blockhouse
 bathmat
 bathmats
 bygoing
@@ -12203,7 +12204,6 @@ bunkum
 bollworm
 blizzardly
 bicron
-blockhouse
 bicarbide
 buckhound
 banque
