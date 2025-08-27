@@ -5068,6 +5068,7 @@ bushmasters
 broiderer
 befile
 befilmed
+bede
 befilth
 befire
 befist
@@ -17711,7 +17712,6 @@ brahmins
 burnishers
 burnishing
 bookbindery
-bede
 baneberries
 bejumbled
 burnoosed
