@@ -5902,7 +5902,6 @@ deoxygenization
 dryopians
 deforceor
 depredate
-depredated
 depredationist
 definitiveness
 diagnoses
@@ -12910,6 +12909,7 @@ dismissal
 dismissals
 dismissed
 distemperate
+depredated
 dismissing
 dismissory
 discographically
