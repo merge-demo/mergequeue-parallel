@@ -7598,6 +7598,7 @@ bemadams
 boasting
 bibliopegic
 bribri
+bibliotaphe
 bewilderment
 bewinged
 bewitched
@@ -7920,7 +7921,6 @@ bibliopolically
 bibliopolist
 befall
 bibliosoph
-bibliotaphe
 bibliothecae
 bobotie
 bibliothecarian
