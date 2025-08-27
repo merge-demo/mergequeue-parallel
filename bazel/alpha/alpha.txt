@@ -14343,6 +14343,7 @@ anthracyl
 alcazars
 anthracin
 anthracitic
+anagoge
 acclaims
 anthracic
 achira
@@ -17187,7 +17188,6 @@ archicarp
 amorous
 apophysary
 apophyseal
-anagoge
 anatifa
 apophysis
 autopsying
