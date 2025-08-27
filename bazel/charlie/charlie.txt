@@ -103,7 +103,6 @@ canephorus
 cronish
 cabildo
 cabildos
-cabin
 cabined
 curucui
 calinago
@@ -9733,6 +9732,7 @@ cheilostomata
 cheilostomatous
 censer
 cheyneys
+cabin
 cimex
 cheiranthus
 cheirogaleus
