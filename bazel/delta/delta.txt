@@ -3497,7 +3497,6 @@ deuterostomata
 deforse
 diplomatic
 dinitrotoluene
-disapproving
 defrayable
 disembarrassment
 dismissable
@@ -17233,6 +17232,7 @@ dictyonema
 director
 diaphoresis
 depletory
+disapproving
 drive
 deermeat
 disgustingness
