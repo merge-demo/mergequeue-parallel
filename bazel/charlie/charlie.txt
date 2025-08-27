@@ -2226,7 +2226,6 @@ camuning
 cholecystolithotripsy
 camus
 camused
-camuses
 cornemuse
 curricled
 culturization
@@ -26710,6 +26709,7 @@ chemisms
 countercomplaint
 countercompony
 cerophilous
+camuses
 counterconditioning
 countercoupe
 countercourant

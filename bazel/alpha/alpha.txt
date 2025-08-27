@@ -1147,7 +1147,6 @@ apheliotropism
 areae
 aploperistomatous
 aneroidograph
-abacaxi
 academist
 academite
 academization
@@ -19139,6 +19138,7 @@ arder
 ardhanari
 antisceptic
 amphigaean
+abacaxi
 archconsoler
 ardilla
 ardish
