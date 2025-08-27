@@ -16668,6 +16668,7 @@ dragoonable
 dation
 dirt
 denunciable
+disappeared
 disburdening
 dragoonage
 dragrope
@@ -17578,7 +17579,6 @@ disassimilation
 dynamiter
 drumliest
 drumline
-disappeared
 drumlinoid
 decelerated
 dactylate

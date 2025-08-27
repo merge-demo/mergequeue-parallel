@@ -8948,6 +8948,7 @@ belltopperdom
 barricados
 bozzetto
 burnishment
+binman
 barberess
 balked
 biogases
@@ -14508,7 +14509,6 @@ besoothing
 branchiest
 branchiferous
 birthrates
-binman
 branchiness
 butterburr
 blockage
