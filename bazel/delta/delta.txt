@@ -1602,7 +1602,6 @@ dummered
 dawe
 dismasted
 dicyanid
-daydreamlike
 destruct
 deafly
 deafmuteness
@@ -5761,6 +5760,7 @@ depoh
 decd
 depolarise
 depolarization
+daydreamlike
 dernly
 depolarize
 dextrorsal
