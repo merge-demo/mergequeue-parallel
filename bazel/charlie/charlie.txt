@@ -10978,7 +10978,6 @@ circumumbilical
 chirotherian
 chirotherium
 casern
-corrals
 comessation
 crocodilia
 counterinsurgencies
@@ -20847,6 +20846,7 @@ composed
 cacocholia
 canst
 composer
+corrals
 composita
 composite
 creamer
