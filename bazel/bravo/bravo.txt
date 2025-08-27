@@ -90,7 +90,6 @@ baccarat
 bori
 baldachins
 babhan
-balafo
 barkened
 beastliest
 bespout
@@ -16816,6 +16815,7 @@ buffing
 breards
 bufflehead
 breekums
+balafo
 buffont
 bloodleaf
 buffoon
