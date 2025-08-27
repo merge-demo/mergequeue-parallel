@@ -11093,6 +11093,7 @@ asswage
 ampersand
 ampersands
 archpontiff
+ascendancy
 astromancy
 amphanthia
 amphanthium
@@ -20879,7 +20880,6 @@ ascendable
 amortisseur
 antirust
 ascendance
-ascendancy
 ascendantly
 ascendants
 ascendence
