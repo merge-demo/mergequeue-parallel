@@ -5738,6 +5738,7 @@ demit
 deplorabilia
 dextrane
 deplorability
+diachyma
 duals
 dekastere
 deplorableness
@@ -16486,7 +16487,6 @@ derivately
 defogger
 dwaible
 delirate
-diachyma
 drabbler
 datum
 dunnesses
