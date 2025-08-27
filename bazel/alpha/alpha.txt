@@ -12168,6 +12168,7 @@ allothigene
 altruism
 almach
 anchorite
+aguishness
 archinfamy
 anchoritess
 alignment
@@ -20677,7 +20678,6 @@ aurochloride
 amphicrania
 aciculums
 artillerist
-aguishness
 artillerists
 artiness
 artiodactyla
