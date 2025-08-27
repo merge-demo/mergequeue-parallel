@@ -7874,7 +7874,6 @@ cataphoretic
 cest
 cesta
 catafalque
-cestidae
 cestode
 cestodes
 copatron
@@ -16154,6 +16153,7 @@ climatarchic
 climate
 climates
 corporatively
+cestidae
 climatic
 climatize
 climatographical

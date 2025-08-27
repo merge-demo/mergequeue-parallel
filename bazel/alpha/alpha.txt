@@ -12464,6 +12464,7 @@ anticreator
 avidities
 albuminiform
 anemony
+ampulating
 anguillidae
 appetit
 anemopathy
@@ -21437,7 +21438,6 @@ almeries
 asphyxied
 acanthine
 anticritique
-ampulating
 assuaged
 actinula
 arthemis
