@@ -11197,6 +11197,7 @@ amphidisc
 acridan
 amphidiscophoran
 amphierotism
+aversant
 aerophilia
 amphigaea
 aerostat
@@ -24648,7 +24649,6 @@ averruncator
 anzac
 arteriasis
 avers
-aversant
 averseness
 avert
 acknowledgments
