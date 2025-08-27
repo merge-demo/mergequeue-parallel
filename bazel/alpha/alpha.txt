@@ -2426,7 +2426,6 @@ aforethought
 avile
 acocantherin
 awaredom
-acockbill
 alcoholizable
 anachronize
 antireduction
@@ -17080,6 +17079,7 @@ afterfuture
 apogonid
 apographic
 apographical
+acockbill
 apohyal
 acuminous
 apoidea
