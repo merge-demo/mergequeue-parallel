@@ -11223,6 +11223,7 @@ bf
 bezesteen
 borghalpenny
 bespeaker
+bicarbonate
 bisilicate
 bridging
 buckets
@@ -16736,7 +16737,6 @@ buddleia
 bunkhouses
 blockhole
 ballader
-bicarbonate
 begari
 blindfolding
 budger
