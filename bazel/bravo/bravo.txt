@@ -8201,7 +8201,6 @@ bewaring
 boring
 biflex
 benchfellow
-bifluoride
 beshiver
 bifocal
 balanocele
@@ -9605,6 +9604,7 @@ brough
 bakeshops
 bluest
 bishari
+bifluoride
 byblis
 behaviourism
 bothridia
