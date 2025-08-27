@@ -7313,7 +7313,6 @@ dimmy
 disquiet
 dazzled
 discompt
-dromaeognathae
 deglutinated
 dowage
 diffusivity
@@ -11146,6 +11145,7 @@ daturas
 disseated
 disarms
 dishonouring
+dromaeognathae
 demioctangular
 disarray
 dehydrates
