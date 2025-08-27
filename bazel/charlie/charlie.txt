@@ -17279,6 +17279,7 @@ counterdrain
 coalpit
 cryptograph
 coalsack
+chapelman
 coalsacks
 cachucha
 cinematical
@@ -17580,7 +17581,6 @@ coccydynia
 correctitude
 cognised
 coccidioidal
-chapelman
 corvina
 cacoxene
 coccidiosis
