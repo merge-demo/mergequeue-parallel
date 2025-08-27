@@ -2547,7 +2547,6 @@ concealed
 candlers
 casework
 candles
-collaborated
 candleshine
 chaucerism
 candleshrift
@@ -19054,6 +19053,7 @@ combustibilities
 cresorcin
 colly
 confineless
+collaborated
 colliculate
 colonialise
 coatings
