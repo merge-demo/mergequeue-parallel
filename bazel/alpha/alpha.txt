@@ -3417,6 +3417,7 @@ autumnian
 anaerobe
 addn
 acknowledgements
+alvar
 addoom
 addr
 allotheistic
@@ -9637,7 +9638,6 @@ alurgite
 autocephalic
 alushtite
 alvah
-alvar
 anecdotist
 alveary
 alvearies
