@@ -7546,7 +7546,6 @@ chuncho
 chariotry
 calystegia
 cerebellifugal
-charpie
 cerebellocortex
 cerebellorubral
 cerebellum
@@ -9915,6 +9914,7 @@ chemotactic
 cresylene
 choochoo
 chemotaxy
+charpie
 collocatory
 chemotaxonomy
 chemotaxonomic
