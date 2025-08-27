@@ -20790,7 +20790,6 @@ complines
 complins
 complot
 caissoned
-complots
 complotter
 complotting
 complutensian
@@ -22572,6 +22571,7 @@ connective
 connectively
 cleidosternal
 clavichordists
+complots
 convallariaceous
 catholicate
 connector
