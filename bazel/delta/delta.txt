@@ -2830,7 +2830,6 @@ deceitfulness
 driverless
 decuman
 dissuasive
-deperm
 disaffirm
 desensitizations
 divertissements
@@ -15819,6 +15818,7 @@ dicyanine
 dogshore
 dorm
 donec
+deperm
 decries
 downlie
 dialyzation
