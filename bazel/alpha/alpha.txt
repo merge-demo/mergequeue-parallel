@@ -1715,6 +1715,7 @@ aerical
 accusatively
 accusatives
 arbalests
+antheridial
 archtraitor
 atticized
 aurification
@@ -4472,7 +4473,6 @@ advice
 advisableness
 adiaphorism
 advisal
-antheridial
 allentiacan
 acridium
 aune
