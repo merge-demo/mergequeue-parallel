@@ -6005,7 +6005,6 @@ desertrice
 deprostrate
 deviscerate
 draughtiest
-downbeats
 darcy
 doctorlike
 deckswabber
@@ -18346,6 +18345,7 @@ duodecillions
 duodenotomy
 doxy
 duotriacontane
+downbeats
 disinclinations
 dryas
 didachist
