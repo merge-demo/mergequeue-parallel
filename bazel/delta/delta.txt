@@ -3896,7 +3896,6 @@ derivation
 dejects
 dejeration
 dejeuner
-dekadrachm
 dekagramme
 dortiness
 doggerelize
@@ -7659,6 +7658,7 @@ didinium
 developer
 developes
 diswarn
+dekadrachm
 developing
 didelphis
 dysmenorrhagia
