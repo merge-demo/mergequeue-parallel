@@ -11502,7 +11502,6 @@ cratonic
 clipsheet
 cephalanthium
 congelifraction
-coosify
 chokered
 chokerman
 coventry
@@ -26823,6 +26822,7 @@ countergirded
 contest
 counterguard
 counterguerilla
+coosify
 courtless
 coraciiformes
 counterhaft
