@@ -10113,6 +10113,7 @@ blat
 bicorne
 beshriek
 blackband
+befallen
 blackberrylike
 bacchant
 berbers
@@ -16662,7 +16663,6 @@ buckland
 bilkers
 buckle
 brahmsite
-befallen
 buckled
 bebilya
 buckleless
