@@ -99,7 +99,6 @@ abasedly
 abasers
 abashed
 abashedness
-achromatous
 astony
 abashless
 apiocrinite
@@ -2150,6 +2149,7 @@ achillodynia
 antiracer
 ashmolean
 aethereal
+achromatous
 antecabinet
 aphotaxis
 alleviation
