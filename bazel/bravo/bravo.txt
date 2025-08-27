@@ -13446,7 +13446,6 @@ bissext
 begotten
 bogeying
 burgs
-baldaquin
 broilery
 beer
 bought
@@ -14462,6 +14461,7 @@ breechless
 brushlet
 braky
 boatyards
+baldaquin
 banyan
 bakunda
 betray
