@@ -9736,7 +9736,6 @@ acmite
 amalgamist
 amperage
 amalgamization
-amalgamize
 amalic
 aisling
 amalrician
@@ -15665,6 +15664,7 @@ aureolin
 acromania
 acleidian
 anaesthesiologist
+amalgamize
 antipathetic
 astroblast
 appropriative

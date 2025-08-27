@@ -12447,6 +12447,7 @@ caswellite
 chromocyte
 chromocollograph
 chromocollography
+cysticercerci
 circling
 chromocollotype
 chromocratic
@@ -14573,7 +14574,6 @@ compotier
 cystic
 cabuja
 conchoidal
-cysticercerci
 cysticerci
 chondrule
 cylindrite
