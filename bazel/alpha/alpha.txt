@@ -11256,7 +11256,6 @@ amphipod
 amphipoda
 apostolicism
 alienating
-antiballistic
 avidious
 amphiprostylar
 antiusurious
@@ -17667,6 +17666,7 @@ appliable
 appliance
 apocentre
 appliances
+antiballistic
 appliant
 appendectomy
 arenous
