@@ -18441,7 +18441,6 @@ carboxylate
 capillitial
 crystalloblastic
 centrale
-cograil
 conjecture
 crestmoreite
 chaogenous
@@ -25897,6 +25896,7 @@ chaffiness
 cortisol
 cortisols
 chironomic
+cograil
 cortlandtite
 chloridize
 caulotaxy
