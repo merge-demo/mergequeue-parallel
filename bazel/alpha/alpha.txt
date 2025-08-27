@@ -9509,6 +9509,7 @@ alchemistry
 ammocetes
 accelerograph
 altimetrically
+allelopathy
 abadite
 arrives
 aortotomy
@@ -19678,7 +19679,6 @@ astigmias
 araeostyle
 arythmical
 anteprandial
-allelopathy
 ascriptive
 arithmocratic
 arithmograph
