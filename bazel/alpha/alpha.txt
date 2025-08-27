@@ -20142,6 +20142,7 @@ arrears
 arrendation
 argentometric
 arrenotoky
+abstrict
 arrentation
 arreption
 acantholimon
@@ -25225,7 +25226,6 @@ ammonal
 azelaic
 antical
 azeotrope
-abstrict
 azeotropic
 alkyds
 azerbaijani
