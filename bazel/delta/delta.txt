@@ -14394,7 +14394,6 @@ demerse
 diuranate
 dreadingly
 diureide
-deteriorations
 diureses
 diuresis
 difficile
@@ -17920,6 +17919,7 @@ disgrace
 disburser
 deterministically
 durance
+deteriorations
 dejectedly
 donate
 duenas
