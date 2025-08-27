@@ -1119,7 +1119,6 @@ bladish
 bordermark
 bioscience
 brownback
-bairnish
 bairnly
 branky
 barkstone
@@ -16296,6 +16295,7 @@ baddeleyite
 bacchius
 brujeria
 botryolite
+bairnish
 benchmarking
 balalaikas
 brujos
