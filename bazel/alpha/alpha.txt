@@ -8643,7 +8643,6 @@ allelotropy
 allelotropic
 attendantly
 aldehydase
-assiento
 allelotropism
 alleluia
 applesauce
@@ -16964,6 +16963,7 @@ acerra
 alterer
 apocalyptical
 auslander
+assiento
 amizilis
 axoneuron
 acouophonia
