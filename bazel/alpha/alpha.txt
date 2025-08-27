@@ -2152,7 +2152,6 @@ ashmolean
 aethereal
 achromatous
 antecabinet
-aphotaxis
 alleviation
 achrodextrinase
 achroglobin
@@ -4315,6 +4314,7 @@ adulterateness
 arcturus
 adulterator
 antighostism
+aphotaxis
 agalinis
 achieve
 adulterers
