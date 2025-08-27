@@ -5254,7 +5254,6 @@ bicentenary
 bimastoid
 bullyragged
 bunkmate
-begarlanded
 bewired
 begass
 bitless
@@ -14390,6 +14389,7 @@ boom
 blaw
 braininess
 braining
+begarlanded
 berkelium
 blobbing
 besweatered
