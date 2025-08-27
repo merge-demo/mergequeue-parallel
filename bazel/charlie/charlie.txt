@@ -5790,7 +5790,6 @@ cleaves
 categorization
 coryzal
 corona
-categorized
 categorizer
 chlorpicrin
 chandoo
@@ -10122,6 +10121,7 @@ compagnie
 chevener
 carnivaler
 cheventayn
+categorized
 cheveret
 cheveril
 cahoot
