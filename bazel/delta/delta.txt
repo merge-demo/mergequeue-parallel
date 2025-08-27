@@ -13403,7 +13403,6 @@ desanding
 discord
 dunghills
 disputes
-detailer
 disdiaclast
 disputing
 dayflower
@@ -17314,6 +17313,7 @@ druidology
 droller
 diademing
 downgone
+detailer
 drollery
 drolleries
 drollest
