@@ -4166,6 +4166,7 @@ dreikanters
 doctrinization
 dishonourable
 disherit
+drafty
 delisk
 dase
 delists
@@ -12749,7 +12750,6 @@ dioicously
 dacryoadenitis
 declassing
 divel
-drafty
 dialysing
 decodings
 dolabriform
