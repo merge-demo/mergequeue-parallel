@@ -4868,7 +4868,6 @@ bubukle
 bacteriotherapy
 burglarproof
 beebee
-biophysical
 bradystalsis
 bewpers
 beechen
@@ -6341,6 +6340,7 @@ billbroking
 barrer
 brike
 benzanthracene
+biophysical
 boxboard
 burglarizing
 bestowed
