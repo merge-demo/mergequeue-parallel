@@ -10876,7 +10876,6 @@ comforter
 crucifying
 clocher
 chypre
-cariacine
 chipwood
 chiquito
 chiral
@@ -28056,6 +28055,7 @@ craneway
 chorologist
 consonantalized
 crany
+cariacine
 convincible
 crania
 cancerate
