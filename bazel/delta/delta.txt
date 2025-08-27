@@ -3478,7 +3478,6 @@ dislikers
 downheartedness
 dentiform
 decayedness
-droopiness
 decadrachmae
 diasters
 doughmaker
@@ -7647,6 +7646,7 @@ deoxygenating
 degaussed
 deveined
 disbursements
+droopiness
 domicil
 doctrinally
 diathermaneity
