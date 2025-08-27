@@ -2496,7 +2496,6 @@ dove
 dubonnet
 deactivating
 declivitously
-declarations
 declarative
 deligation
 druggist
@@ -18142,6 +18141,7 @@ dadu
 drab
 distichs
 dumfounded
+declarations
 dahlia
 depetticoat
 dammed
