@@ -9907,6 +9907,7 @@ amazing
 antizymotic
 almoravides
 amazons
+asterisms
 amazulu
 aphthongal
 abayah
@@ -23524,7 +23525,6 @@ aura
 aural
 auramin
 auramine
-asterisms
 aurang
 aborters
 alleviates
