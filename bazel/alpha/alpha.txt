@@ -20356,7 +20356,6 @@ angiosteosis
 adrenolysis
 acquiescingly
 arsonate
-arteriorrhaphy
 arseniuret
 antalgic
 arsonists
@@ -25285,6 +25284,7 @@ allthorn
 abeyant
 astrochemist
 asymmetrical
+arteriorrhaphy
 atmospheric
 anesthetist
 afterworking
