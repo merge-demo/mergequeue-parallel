@@ -1751,6 +1751,7 @@ deathtime
 diverticular
 diphyllobothrium
 deathtrap
+dendrophile
 devocalization
 downtimes
 drof
@@ -2204,7 +2205,6 @@ desultoriness
 divvying
 desray
 decreative
-dendrophile
 decasualise
 decasualised
 decasualized
