@@ -13264,7 +13264,6 @@ distritbuted
 drie
 dolphinfish
 dinnerless
-doorways
 dyspnea
 dyspneas
 ducat
@@ -18467,6 +18466,7 @@ danner
 duality
 duplicitously
 disprizing
+doorways
 diagraming
 drovy
 duplify
