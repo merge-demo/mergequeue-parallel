@@ -4184,7 +4184,6 @@ appending
 armorer
 alchornea
 adrad
-alumen
 astronautics
 abime
 abaka
@@ -16621,6 +16620,7 @@ affiche
 apesthetize
 acariatre
 attachment
+alumen
 apetalous
 apexed
 aortoclasia
