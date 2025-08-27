@@ -868,7 +868,6 @@ devoicing
 dowered
 disorchard
 dankishness
-discardable
 disprovement
 drazel
 delesseria
@@ -14261,6 +14260,7 @@ diazeuxis
 disvisage
 disyoked
 doublet
+discardable
 deprivate
 disvisor
 dungs
