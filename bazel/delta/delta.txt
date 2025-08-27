@@ -14473,6 +14473,7 @@ disgeneric
 demeter
 diversory
 disfiguringly
+dromic
 dressmaker
 decenaries
 dimethylamine
@@ -15414,7 +15415,6 @@ dispersoid
 dissimilatory
 diploglossata
 decarboxylate
-dromic
 devoutlessly
 diffusiveness
 descendability
