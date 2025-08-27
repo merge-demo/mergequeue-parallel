@@ -12845,7 +12845,6 @@ adenine
 anglophilism
 anglophobia
 adumbration
-anglophobiac
 antholyza
 aire
 ango
@@ -19764,6 +19763,7 @@ angloman
 atrophias
 alphabetology
 avanters
+anglophobiac
 arsenous
 agapetidae
 axinomancy
