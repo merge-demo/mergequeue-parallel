@@ -5365,6 +5365,7 @@ buyable
 begray
 barodynamic
 barbarisation
+blickeys
 burly
 birne
 begrett
@@ -5539,7 +5540,6 @@ bechamels
 bejel
 brawly
 bilineated
-blickeys
 bahaism
 babist
 bridehead
