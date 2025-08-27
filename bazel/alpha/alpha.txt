@@ -1321,7 +1321,6 @@ acauline
 avows
 acc
 accable
-accel
 accelerable
 adjuvants
 animalizing
@@ -23521,6 +23520,7 @@ auntrous
 auntsary
 austrophil
 attack
+accel
 aura
 aural
 auramin
