@@ -3250,6 +3250,7 @@ canteen
 capitellum
 capitle
 cerebrum
+cathects
 compenetrate
 corns
 capito
@@ -5916,7 +5917,6 @@ concrescible
 cathartolinum
 cathected
 cathection
-cathects
 cathedra
 cathedraled
 cathedralesque
