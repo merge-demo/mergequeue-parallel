@@ -13076,7 +13076,6 @@ confest
 cibarial
 ceroxyle
 champaca
-cibarian
 cibaries
 coequality
 chippering
@@ -14001,6 +14000,7 @@ cyphellae
 cyphellate
 cypher
 cipherdom
+cibarian
 causeur
 countrieman
 cyphered
