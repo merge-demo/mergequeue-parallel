@@ -2828,7 +2828,6 @@ cultivable
 cinctures
 canonicalized
 canonicalizes
-congealer
 cremor
 cadesse
 condiddled
@@ -3767,6 +3766,7 @@ carbines
 carbinols
 commensality
 carboazotine
+congealer
 conrail
 carbodynamite
 carbohemoglobin
