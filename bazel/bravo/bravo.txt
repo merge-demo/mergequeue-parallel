@@ -3533,7 +3533,6 @@ bellower
 backslidden
 baryons
 bimini
-bathycentesis
 benincasa
 burgages
 bore
@@ -15703,6 +15702,7 @@ brocht
 brochure
 boagane
 balisier
+bathycentesis
 babblishly
 brock
 bombsight
