@@ -2992,7 +2992,6 @@ cantily
 cantina
 canting
 cantingly
-cousins
 cantingness
 clairschach
 concent
@@ -6859,6 +6858,7 @@ celotomies
 clonks
 cloze
 celsian
+cousins
 cashbox
 celt
 candidness
