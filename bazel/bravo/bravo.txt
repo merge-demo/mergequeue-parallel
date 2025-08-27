@@ -598,7 +598,6 @@ balkar
 baubee
 balisaur
 baconian
-bishopric
 breaths
 bistro
 baconianism
@@ -17694,6 +17693,7 @@ bookways
 bombshell
 burned
 burner
+bishopric
 benempt
 billian
 blastophaga
