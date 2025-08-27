@@ -26728,7 +26728,6 @@ countercross
 counterculture
 coagulums
 countercurrent
-countercurrently
 cubitometacarpal
 cogware
 capelocracy
@@ -29391,6 +29390,7 @@ cremometer
 chalcanthite
 chartists
 crispness
+countercurrently
 cowwheat
 crisps
 companionway
