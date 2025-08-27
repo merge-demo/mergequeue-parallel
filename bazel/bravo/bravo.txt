@@ -16604,6 +16604,7 @@ bisons
 bardlet
 bulanda
 brevicipitid
+burke
 buchanite
 baronies
 bucharest
@@ -17629,7 +17630,6 @@ blowier
 barrelfish
 bonsai
 bellipotent
-burke
 burked
 bonnetman
 belletrists
