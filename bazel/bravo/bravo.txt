@@ -4973,7 +4973,6 @@ blesse
 belgae
 barmier
 bonaveria
-boltless
 bolases
 beerbachite
 baculere
@@ -12085,6 +12084,7 @@ bokom
 bola
 bosey
 bartsia
+boltless
 balmacaan
 biglenoid
 bolboxalis
