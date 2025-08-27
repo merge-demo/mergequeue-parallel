@@ -17320,7 +17320,6 @@ aerophagy
 amidin
 arias
 abstracts
-apostolicity
 aerobacteriologically
 agoramania
 aliment
@@ -23678,6 +23677,7 @@ acetifier
 avowance
 alto
 auspice
+apostolicity
 authenticated
 aerohydroplane
 antisyndicalist

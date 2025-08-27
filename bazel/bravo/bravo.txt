@@ -3350,7 +3350,6 @@ barbu
 basoid
 baraithas
 beltine
-blennoma
 bayberries
 breast
 balsam
@@ -14843,6 +14842,7 @@ breakability
 bilith
 battledores
 breakaxe
+blennoma
 burning
 blameable
 baja
