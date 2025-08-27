@@ -489,6 +489,7 @@ backspacer
 brattles
 burree
 battik
+bearbind
 benzoates
 backspaces
 backspacing
@@ -17201,7 +17202,6 @@ bubingas
 bumblepuppy
 bespecklement
 bedriveled
-bearbind
 blamably
 bello
 bawlers
