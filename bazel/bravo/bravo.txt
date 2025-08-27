@@ -2057,7 +2057,6 @@ banlieu
 basquine
 backseats
 boidae
-backgeared
 babai
 barefooted
 bollixing
@@ -18337,6 +18336,7 @@ bunkums
 buttress
 buttressed
 bradypodidae
+backgeared
 breviped
 broughams
 brachets
