@@ -5774,7 +5774,6 @@ amovability
 agene
 ataxite
 ageneses
-anthropomorphise
 agenesis
 agenetic
 agenized
@@ -16549,6 +16548,7 @@ apatela
 apatetic
 agrimonies
 adenomata
+anthropomorphise
 appredicate
 allotrylic
 apathaton
