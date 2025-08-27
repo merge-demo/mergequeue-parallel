@@ -25718,7 +25718,6 @@ cleruch
 corrigibly
 corrigiola
 corrival
-corrivality
 corrivalry
 corrivalship
 corrivate
@@ -26742,6 +26741,7 @@ counterdesire
 counterdevelopment
 calcareobituminous
 columnization
+corrivality
 counterdifficulty
 coldest
 counterdigged
