@@ -12089,7 +12089,6 @@ chouan
 chouanize
 committment
 coleus
-cobaltite
 compluvium
 chronostichon
 chounce
@@ -25953,6 +25952,7 @@ coscinomancy
 chn
 cose
 capsized
+cobaltite
 creatorrhea
 cranioscopical
 contextual
