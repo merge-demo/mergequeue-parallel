@@ -6157,7 +6157,6 @@ budget
 buntline
 blepharodyschroia
 benedictinism
-bed
 benedictionary
 bucolical
 briolet
@@ -8056,6 +8055,7 @@ boatman
 buckbeans
 blowbacks
 busked
+bed
 bluntness
 bicornate
 brutal
