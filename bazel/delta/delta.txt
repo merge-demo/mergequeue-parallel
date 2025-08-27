@@ -7514,7 +7514,6 @@ downtowner
 dopas
 deuced
 dizenment
-diachylum
 documenters
 dichapetalum
 devalue
@@ -8409,6 +8408,7 @@ displanted
 diabase
 dialists
 deacetylated
+diachylum
 dragboat
 dispreader
 disunite
