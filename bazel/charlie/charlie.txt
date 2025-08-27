@@ -17420,6 +17420,7 @@ coemptionator
 coauthority
 coauthors
 coawareness
+collaborativeness
 coaxal
 coaxation
 canneries
@@ -25899,7 +25900,6 @@ cortile
 coercion
 charka
 cortin
-collaborativeness
 cinerary
 cortina
 cortinarious
