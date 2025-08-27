@@ -3413,7 +3413,6 @@ bastardism
 burnishable
 blather
 bastardized
-bastardizes
 bastardliness
 birimose
 bullfoot
@@ -5988,6 +5987,7 @@ borderlines
 bellyfuls
 bemaim
 bellyacher
+bastardizes
 bushet
 bemangle
 bemar
