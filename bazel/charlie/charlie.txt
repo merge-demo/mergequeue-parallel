@@ -13599,7 +13599,6 @@ cymbocephalous
 cymbopogon
 cimbrian
 casuistry
-cotsetle
 cimbric
 canalised
 clovene
@@ -29489,6 +29488,7 @@ criterional
 creolin
 criterions
 cerealist
+cotsetle
 crith
 crithidia
 chiasmodontidae
