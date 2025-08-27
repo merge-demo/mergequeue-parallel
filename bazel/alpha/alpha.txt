@@ -8048,7 +8048,6 @@ assassinator
 algesiometer
 algidity
 algidities
-algidness
 agriologist
 aeronautics
 androdynamous
@@ -10904,6 +10903,7 @@ amniota
 amidship
 antipreparedness
 antherids
+algidness
 amniotic
 amniotin
 alkaligen
