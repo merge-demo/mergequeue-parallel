@@ -7905,7 +7905,6 @@ bibliopolically
 bibliopolist
 befall
 bibliosoph
-bibliothecae
 bobotie
 bibliothecarian
 bibliotheque
@@ -14427,6 +14426,7 @@ bigamy
 brainwashjng
 beardlessness
 brainwave
+bibliothecae
 baragouinish
 ballooners
 brainwood
