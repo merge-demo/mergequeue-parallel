@@ -6390,6 +6390,7 @@ dastardliness
 derms
 defined
 dioc
+dissceptered
 ducula
 demurrable
 doegling
@@ -13578,7 +13579,6 @@ deticks
 demonomy
 dissavs
 drumbeater
-dissceptered
 dislike
 dissceptre
 deceivance
