@@ -22899,7 +22899,6 @@ considers
 chequeen
 calyptra
 consign
-consignatary
 consignataries
 counterretreat
 comforting
@@ -30680,6 +30679,7 @@ compassment
 comedist
 chides
 camiknickers
+consignatary
 cued
 chiropterygium
 countermachination
