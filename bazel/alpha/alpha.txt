@@ -18967,6 +18967,7 @@ archocele
 archon
 archonship
 archonships
+autorotation
 acichlorid
 archontia
 anonymuncule
@@ -24313,7 +24314,6 @@ autorhythmus
 aselgeia
 authorly
 amaroidal
-autorotation
 ariocarpus
 atopen
 autorotational
