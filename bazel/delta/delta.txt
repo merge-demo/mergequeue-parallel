@@ -1434,6 +1434,7 @@ desocialize
 dissonancies
 dawnlike
 demimetope
+deis
 disoccident
 deprest
 dispenditure
@@ -3872,7 +3873,6 @@ disprized
 dannemorite
 deathfully
 deirid
-deis
 deiseal
 disquieting
 deism
