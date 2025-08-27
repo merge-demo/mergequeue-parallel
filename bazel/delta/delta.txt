@@ -9018,6 +9018,7 @@ demilitarisation
 dehydrofroze
 dicycly
 draughtsman
+decourse
 diolefin
 duckmole
 disobeyers
@@ -16776,7 +16777,6 @@ disconcerted
 drant
 drape
 disharmonized
-decourse
 dolichocephaly
 downline
 drapetomania
