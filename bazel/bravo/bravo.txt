@@ -4970,6 +4970,7 @@ baculere
 bucconidae
 benweed
 beerhouse
+beezer
 beerhouses
 barbecueing
 beladied
@@ -8732,7 +8733,6 @@ brinston
 binal
 bedrown
 bungo
-beezer
 binaphthyl
 bletia
 binaries

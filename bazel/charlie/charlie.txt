@@ -5088,7 +5088,6 @@ counterenamel
 compeller
 chondrectomy
 caseharden
-capsaicin
 callosity
 casehardening
 candida
@@ -17207,6 +17206,7 @@ cowhearted
 coagulation
 coagulative
 chrysophenine
+capsaicin
 coagulator
 coagulators
 chagrined
