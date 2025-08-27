@@ -1675,6 +1675,7 @@ acculturize
 anarchoindividualist
 accum
 alouettes
+agglomeration
 accumbency
 accumbent
 accumulating
@@ -5819,7 +5820,6 @@ anychia
 agglomerated
 agglomerates
 agglomeratic
-agglomeration
 apical
 anartismos
 agglutinate
