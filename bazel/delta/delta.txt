@@ -9644,7 +9644,6 @@ derives
 diakinetic
 deil
 dihalogen
-deadline
 drayed
 differentiating
 dihdroxycholecalciferol
@@ -16853,6 +16852,7 @@ disconnectedly
 datto
 drawerful
 diametrical
+deadline
 delaines
 debiteuse
 dominee
