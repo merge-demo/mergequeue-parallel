@@ -8860,7 +8860,6 @@ belch
 biobibliographer
 barleysick
 bioblastic
-banqueting
 backwoodsiness
 bungaloid
 berakot
@@ -17589,6 +17588,7 @@ burgraves
 bureaucratized
 burghmaster
 bowdlerized
+banqueting
 burring
 bearlet
 bulldozes
