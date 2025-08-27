@@ -14341,7 +14341,6 @@ acclaims
 anthracic
 achira
 amoyese
-anthracitious
 angiospastic
 achromasia
 awunctive
@@ -17517,6 +17516,7 @@ appellativeness
 anchory
 arriccioci
 appellor
+anthracitious
 aminobenzene
 antifederalist
 alcedo
