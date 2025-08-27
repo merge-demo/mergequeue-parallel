@@ -8226,6 +8226,7 @@ chalcanth
 chalcedony
 cusconine
 calabrasella
+condenses
 chalcedonyx
 chalchuite
 chalcidian
@@ -21591,7 +21592,6 @@ condense
 condensed
 condensedness
 condensers
-condenses
 committeeman
 camphorating
 condescended
