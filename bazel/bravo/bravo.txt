@@ -3965,7 +3965,6 @@ bisulphate
 backstays
 boltspreet
 bondon
-brittlewood
 bawtie
 bestsellers
 barytes
@@ -4081,6 +4080,7 @@ beriberic
 beaniest
 benchboard
 barmy
+brittlewood
 beaning
 bromoacetone
 branchier
