@@ -15109,6 +15109,7 @@ acetanisidide
 appoggiature
 aggregating
 antievolution
+alphabetisation
 antievolutionary
 anteconsonantal
 antievolutionist
@@ -15863,7 +15864,6 @@ adversive
 antiproductive
 antiproductivity
 atacaman
-alphabetisation
 acetobromanilide
 antiprojectivity
 antiprostatic
