@@ -9074,7 +9074,6 @@ dictamina
 dictaphone
 dernier
 drinkproof
-dictaphones
 dictating
 dabbers
 doping
@@ -17533,6 +17532,7 @@ dispope
 dicasts
 donuts
 dianil
+dictaphones
 drugeteria
 drugger
 despeed
