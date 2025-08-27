@@ -10267,6 +10267,7 @@ decoys
 dynode
 dissolutionist
 distresses
+darkling
 derotrematous
 discontinuance
 depute
@@ -18647,7 +18648,6 @@ decasyllable
 denunciatively
 disforest
 drowsily
-darkling
 disubstitution
 discountenanced
 disseisor
