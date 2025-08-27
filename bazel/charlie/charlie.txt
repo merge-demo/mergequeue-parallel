@@ -6386,6 +6386,7 @@ cautioner
 cautioners
 cornutus
 cienega
+cerebronic
 cautiones
 canard
 carbarns
@@ -7595,7 +7596,6 @@ celiopyosis
 carduaceous
 cerebrometer
 cerebron
-cerebronic
 cerebroparietal
 coassuming
 cerebropedal
