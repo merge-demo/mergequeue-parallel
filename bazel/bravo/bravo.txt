@@ -3893,7 +3893,6 @@ bawneen
 bawra
 bawsint
 brutalness
-bawsunt
 blamelessness
 bawties
 beechnuts
@@ -18377,6 +18376,7 @@ buzzard
 beasts
 bluebook
 balaustre
+bawsunt
 byronics
 betweenmaid
 betwattled
