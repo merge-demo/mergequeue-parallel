@@ -15817,7 +15817,6 @@ antipolygamy
 antipolitical
 antipolitically
 athamaunte
-azureous
 acridian
 alpiste
 antipollution
@@ -23629,6 +23628,7 @@ anesis
 auroch
 aurochses
 answer
+azureous
 anthropogeography
 aurophore
 aurore
