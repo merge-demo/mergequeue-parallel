@@ -9932,7 +9932,6 @@ activator
 ambari
 adcons
 authenticities
-assayer
 ambary
 ambaris
 ambas
@@ -10918,6 +10917,7 @@ amniotome
 amoyan
 amobyr
 airbag
+assayer
 amoebae
 abel
 amoebaea
