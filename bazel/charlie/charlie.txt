@@ -2556,7 +2556,6 @@ cecidiology
 committeewoman
 chinol
 castellanship
-cogniser
 candlewaster
 cambial
 crocoisite
@@ -2864,6 +2863,7 @@ corticated
 canopying
 cours
 canopus
+cogniser
 chairlady
 canos
 canossa
