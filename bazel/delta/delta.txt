@@ -601,7 +601,6 @@ downweight
 desmopathologist
 dicyclopentadienyliron
 develin
-drawboy
 dups
 dilutions
 damine
@@ -1829,6 +1828,7 @@ debby
 dislocatedness
 daffle
 disengages
+drawboy
 debeak
 debarbarize
 debeaker
