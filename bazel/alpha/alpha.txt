@@ -5169,7 +5169,6 @@ abohm
 ampitheater
 abbacies
 attackable
-anapterygotous
 alingual
 anapophysial
 alligation
@@ -17283,6 +17282,7 @@ anaesthetic
 autothermy
 aposteme
 ambay
+anapterygotous
 aposteriori
 arctogaea
 aerogun
