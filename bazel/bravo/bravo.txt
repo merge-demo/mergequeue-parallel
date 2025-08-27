@@ -13228,7 +13228,6 @@ beading
 buzzers
 boxberry
 buggier
-bosonic
 barbels
 binocle
 bosporanic
@@ -15394,6 +15393,7 @@ bullule
 brilliantly
 brilliants
 brilliantwise
+bosonic
 brilliolette
 brills
 baculites
