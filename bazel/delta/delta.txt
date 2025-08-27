@@ -9022,7 +9022,6 @@ dicing
 dhow
 dobule
 dasyprocta
-dicynodontia
 duplexs
 diclinous
 distortionless
@@ -15399,6 +15398,7 @@ dolphins
 discountenance
 design
 distilleries
+dicynodontia
 dismit
 decanters
 dolphus

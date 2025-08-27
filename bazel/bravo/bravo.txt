@@ -12833,6 +12833,7 @@ busted
 bodily
 birkies
 baresarks
+blight
 bedelve
 beware
 bucketeer
@@ -17475,7 +17476,6 @@ backspeir
 bucketmaker
 breechcloths
 burbolt
-blight
 beauseant
 bullragged
 burbot
