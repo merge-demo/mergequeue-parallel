@@ -5895,7 +5895,6 @@ aggrege
 allopathy
 amphigoric
 aggressed
-ancilia
 arrogancy
 aggressin
 altered
@@ -8266,6 +8265,7 @@ arundinaceous
 alimentariness
 austrophilism
 alimentation
+ancilia
 agnate
 amusgo
 alimentativeness
