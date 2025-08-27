@@ -2511,7 +2511,6 @@ blameful
 bucca
 bryophytic
 beflowers
-bariatrician
 bariatrics
 baric
 barycenter
@@ -12662,6 +12661,7 @@ brazilwood
 bellical
 buhrs
 bunion
+bariatrician
 bestraddling
 booger
 blancher
