@@ -5314,7 +5314,6 @@ aflow
 acumen
 aflower
 albuminised
-annexionist
 anthroponomy
 amnionic
 adlegiare
@@ -11475,6 +11474,7 @@ amusingness
 anaphorical
 amusive
 amuze
+annexionist
 advertisable
 amuzzle
 anabaenas
