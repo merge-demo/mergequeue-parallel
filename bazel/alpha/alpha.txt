@@ -14753,7 +14753,6 @@ antichance
 animatograph
 amperes
 antichlorine
-antichloristic
 antichlorotic
 antievangelical
 attinge
@@ -18493,6 +18492,7 @@ alarmisms
 autoecholalia
 amboyna
 arcacea
+antichloristic
 aspergation
 alpujarra
 asbestosis
