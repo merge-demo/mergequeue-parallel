@@ -9749,7 +9749,6 @@ churchgoer
 cheiropterygium
 cheirosophy
 cheirospasm
-cheka
 chekan
 croy
 connatal
@@ -28479,6 +28478,7 @@ coring
 credencive
 conditioning
 credenda
+cheka
 confluently
 cassada
 credentialed
