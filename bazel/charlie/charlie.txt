@@ -12837,7 +12837,6 @@ chuprassie
 church
 courageousness
 churchcraft
-churches
 chondrocranium
 churchful
 clatters
@@ -25334,6 +25333,7 @@ carkled
 cornetti
 cornettino
 cornettist
+churches
 cornetto
 committent
 causticization
