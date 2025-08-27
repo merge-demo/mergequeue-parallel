@@ -6840,6 +6840,7 @@ berzelianite
 burley
 basophils
 baroi
+butty
 bes
 boaedon
 busboy
@@ -18273,7 +18274,6 @@ becudgel
 bolimba
 boomeranging
 burrowing
-butty
 biovulate
 buffoonism
 borid
