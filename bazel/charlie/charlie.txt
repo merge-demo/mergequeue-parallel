@@ -7362,7 +7362,6 @@ cuticles
 crepuscle
 cephalology
 cryolites
-cephalom
 coquettishness
 cephalomant
 cephalomeningitis
@@ -31398,6 +31397,7 @@ cartridges
 curiosa
 curiosi
 curiosities
+cephalom
 cremona
 curioso
 curious
