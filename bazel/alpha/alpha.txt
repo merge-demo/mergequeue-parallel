@@ -3101,7 +3101,6 @@ apanthropy
 ableptical
 activated
 activates
-achtel
 advolution
 activation
 active
@@ -11136,6 +11135,7 @@ alkide
 addictive
 analgesis
 amphiboles
+achtel
 amphiboly
 aoristic
 affliction
