@@ -7669,7 +7669,6 @@ alectoromorphous
 aldermanate
 aldermancy
 aldermaness
-archisphere
 aldermanical
 assistency
 aration
@@ -20598,6 +20597,7 @@ auxillary
 arefy
 austerus
 allude
+archisphere
 asterion
 articulacy
 aleuroscope
