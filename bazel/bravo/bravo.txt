@@ -486,7 +486,6 @@ blaspheming
 bibliographic
 benzhydroxamic
 backswept
-brontosauri
 backspaced
 backspacer
 brattles
@@ -13962,6 +13961,7 @@ blackboys
 bleed
 brussels
 bullring
+brontosauri
 boxhauled
 brierberry
 boxhauling
