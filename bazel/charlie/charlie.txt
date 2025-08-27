@@ -1050,7 +1050,6 @@ cowhide
 calceus
 challengable
 costoclavicular
-calchas
 calche
 cordials
 creeling
@@ -8133,6 +8132,7 @@ chainlike
 clericalism
 confrontal
 contumacity
+calchas
 chainmaker
 chiropodist
 chainman
