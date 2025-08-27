@@ -6649,7 +6649,6 @@ berginization
 berglet
 banish
 branchipodidae
-bicycloheptane
 baseheartedness
 bergman
 bergs
@@ -14523,6 +14522,7 @@ betrail
 bilboas
 branchiomere
 baikie
+bicycloheptane
 bibliogony
 bottomless
 branchiopod
