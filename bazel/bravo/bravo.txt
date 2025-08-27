@@ -625,7 +625,6 @@ bacteriaemia
 bacterially
 bacterioblast
 bactericide
-beethoven
 bidget
 bacterin
 beggiatoa
@@ -3644,6 +3643,7 @@ baculiform
 bipinnately
 batlon
 blackball
+beethoven
 budded
 bumbleberry
 betacism
