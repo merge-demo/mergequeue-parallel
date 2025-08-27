@@ -6581,7 +6581,6 @@ archaeol
 ailuropoda
 ailurus
 ailweed
-alcoholate
 ageustia
 aimak
 appertinent
@@ -23825,6 +23824,7 @@ authigenetic
 authigenous
 authored
 anisocotyly
+alcoholate
 arabizing
 amphibologism
 authoress
