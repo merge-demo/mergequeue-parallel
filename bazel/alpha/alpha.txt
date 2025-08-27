@@ -4054,7 +4054,6 @@ admrx
 archetypist
 appendectomies
 adnascent
-adnate
 adnation
 ametabolian
 alecithic
@@ -23393,6 +23392,7 @@ augment
 autotomies
 absolutistic
 augmentable
+adnate
 as
 acopic
 anglophiles
