@@ -7352,7 +7352,6 @@ barly
 blanketmaking
 basest
 biorhythmicities
-becrusting
 bethorns
 befogs
 bethroot
@@ -12968,6 +12967,7 @@ balawu
 breakable
 banausic
 bipennated
+becrusting
 bondar
 bombycillidae
 bandersnatch
