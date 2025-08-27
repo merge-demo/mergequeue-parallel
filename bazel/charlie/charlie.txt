@@ -6704,6 +6704,7 @@ celebrates
 celebrationis
 convallamarin
 celebrations
+climbingfish
 celebrative
 celebre
 celebrity
@@ -16171,7 +16172,6 @@ climbers
 cheetal
 chromosantonin
 caskanet
-climbingfish
 collinearly
 chechen
 chaunting
