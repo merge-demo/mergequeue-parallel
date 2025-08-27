@@ -13612,7 +13612,6 @@ anodos
 ambivalent
 agomensin
 anoestrum
-alternator
 asked
 animotheism
 amygdalothripsis
@@ -16990,6 +16989,7 @@ apochromatism
 archimorula
 albus
 ascitic
+alternator
 arcsin
 archpublican
 abnegator
