@@ -7639,7 +7639,6 @@ ceremoniousness
 canonici
 counterpoint
 congregates
-carreta
 cereous
 celioschisis
 cerebellitis
@@ -12977,6 +12976,7 @@ cyanidrosis
 clothes
 cyanids
 cyanimide
+carreta
 cyanine
 commemorators
 chaldrons
