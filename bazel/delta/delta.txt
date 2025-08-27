@@ -4496,7 +4496,6 @@ duress
 demy
 disvalued
 disenjoy
-decahydrated
 demiangel
 diazotization
 demibeast
@@ -8169,6 +8168,7 @@ disventure
 delineate
 domesticized
 dragginess
+decahydrated
 diacatholicon
 diacaustic
 diamminonitrate

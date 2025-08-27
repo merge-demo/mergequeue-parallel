@@ -3455,7 +3455,6 @@ brushfire
 brigade
 basto
 baguios
-balneology
 bucklandite
 beshamed
 bibliolatrous
@@ -13212,6 +13211,7 @@ brevirostrines
 bosjesman
 boustrophedonic
 boskier
+balneology
 boasters
 bosn
 balneologist
