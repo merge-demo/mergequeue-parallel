@@ -1999,7 +1999,6 @@ bronchocele
 bunchier
 bhagavata
 bandcutter
-banisher
 bovista
 banishing
 baniva
@@ -13764,6 +13763,7 @@ bescurf
 burga
 bufflehorn
 bovaristic
+banisher
 burgout
 bicycled
 bovate
