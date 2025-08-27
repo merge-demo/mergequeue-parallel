@@ -436,7 +436,6 @@ drinker
 dairywomen
 descanting
 decametric
-ditchwater
 dayrooms
 deities
 diplogenic
@@ -9811,6 +9810,7 @@ datsw
 dimethoate
 decaphyllous
 deckpipe
+ditchwater
 designative
 dysoxidize
 dipsos
