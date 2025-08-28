@@ -2034,7 +2034,6 @@ daucus
 decagonally
 dothidella
 daimen
-duplicitas
 decagram
 decagrams
 declasse
@@ -2586,6 +2585,7 @@ draffy
 dacoitage
 disinformation
 decoke
+duplicitas
 decoll
 deguelia
 dispensaries
