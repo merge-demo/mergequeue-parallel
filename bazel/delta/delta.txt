@@ -141,6 +141,7 @@ draughtmanship
 deviascope
 dekko
 dinar
+dola
 disrump
 dyophone
 daddles
@@ -5116,7 +5117,6 @@ durwaun
 detect
 dutcher
 dendrology
-dola
 daubes
 dendrologous
 derivatives
