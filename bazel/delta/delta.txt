@@ -9866,7 +9866,6 @@ deadlines
 defacers
 darnings
 dissertation
-duocosane
 dispapalize
 deists
 downside
@@ -18196,6 +18195,7 @@ dineuric
 discreetest
 depositaries
 dumpoke
+duocosane
 deltohedra
 dumps
 dumsola
