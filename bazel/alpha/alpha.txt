@@ -4893,7 +4893,6 @@ agenizes
 aerometric
 aeronat
 aeronaut
-aeronautic
 aeronautical
 aeronomer
 amyliferous
@@ -10703,6 +10702,7 @@ antaphrodisiac
 aqueoigneous
 apprize
 amire
+aeronautic
 amyris
 abattis
 amyrol
