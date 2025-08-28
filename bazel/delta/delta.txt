@@ -296,7 +296,6 @@ dorsoposteriad
 dodoism
 dingies
 dahabiah
-disaggregated
 demolisher
 dahabieh
 dahabiehs
@@ -7318,6 +7317,7 @@ depositum
 diphthongia
 diphthongization
 determinated
+disaggregated
 diapausing
 determinately
 dirtiness
