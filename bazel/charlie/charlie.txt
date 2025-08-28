@@ -15160,7 +15160,6 @@ claggy
 claggum
 cantala
 commandries
-chonchina
 candiel
 contangos
 claibornian
@@ -23400,6 +23399,7 @@ contemplation
 cryptomnesia
 contemplations
 contemplatist
+chonchina
 coshered
 creatureless
 contemplative
