@@ -12206,6 +12206,7 @@ bollworm
 blizzardly
 bicarbide
 buckhound
+bubals
 banque
 beld
 bolognan
@@ -16523,7 +16524,6 @@ bubales
 basements
 busings
 beefish
-bubals
 bragget
 belling
 bubastid
