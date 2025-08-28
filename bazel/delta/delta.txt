@@ -2635,7 +2635,6 @@ digne
 desalinate
 dogwatches
 decompoundable
-diffractional
 decompoundly
 decompress
 decompresses
@@ -15907,6 +15906,7 @@ deliberators
 destinations
 dankly
 deputise
+diffractional
 detent
 dossman
 deputyship
