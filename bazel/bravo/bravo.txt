@@ -11568,7 +11568,6 @@ blushy
 brierwood
 boychick
 beth
-brightness
 blusterers
 blancmanger
 blustering
@@ -12246,6 +12245,7 @@ briefless
 byssiferous
 bolt
 boltage
+brightness
 biasses
 boltcutter
 brindles
