@@ -16701,6 +16701,7 @@ cloth
 cercopithecid
 clothe
 clothed
+costiferous
 confusional
 calathian
 clothesbag
@@ -25002,7 +25003,6 @@ cystonectous
 craftmanship
 crosscourt
 corduroyed
-costiferous
 celotex
 corduroying
 chronanagram
