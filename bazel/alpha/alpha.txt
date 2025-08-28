@@ -5524,7 +5524,6 @@ afterwise
 afterwit
 axonolipa
 afterword
-afterwork
 agathodemon
 apinage
 aint
@@ -12552,6 +12551,7 @@ anethols
 avertible
 anetiological
 aneuch
+afterwork
 arhatship
 alleviations
 aneuploidy
