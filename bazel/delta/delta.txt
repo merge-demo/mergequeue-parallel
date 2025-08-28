@@ -9231,6 +9231,7 @@ deprovincialize
 dramshops
 derat
 dyeings
+declaiming
 dieldrin
 derelict
 decahedrodra
@@ -10022,7 +10023,6 @@ disparted
 dimorphotheca
 devitalize
 dogwood
-declaiming
 dottle
 dreaming
 deinos
