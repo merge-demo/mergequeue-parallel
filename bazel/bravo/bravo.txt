@@ -4065,7 +4065,6 @@ baragnosis
 beams
 britons
 bargees
-bantlings
 bean
 brickred
 begottenness
@@ -11637,6 +11636,7 @@ baccare
 boating
 bistipuled
 boation
+bantlings
 bahisti
 bittacle
 berend
