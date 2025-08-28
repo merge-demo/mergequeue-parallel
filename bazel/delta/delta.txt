@@ -3403,6 +3403,7 @@ deceleron
 deflower
 damnosa
 dentagra
+delenda
 deflowered
 deflowerer
 dumpcart
@@ -16276,7 +16277,6 @@ downbeard
 doughfoot
 distilled
 defease
-delenda
 disabling
 downcome
 dorsal
