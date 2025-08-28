@@ -2395,7 +2395,6 @@ bardings
 becalms
 bardlike
 barkiest
-bardling
 bilaterality
 bardocucullus
 balarao
@@ -14982,6 +14981,7 @@ burtons
 besmoke
 barramundis
 bemusedly
+bardling
 butterflyfish
 buro
 barelegged
