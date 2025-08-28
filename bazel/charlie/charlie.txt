@@ -8325,7 +8325,6 @@ challenger
 challengers
 challenging
 cosufferer
-cricetid
 challies
 challiho
 challihos
@@ -18848,6 +18847,7 @@ codisjunct
 communicational
 cynocephalous
 chaetophoraceae
+cricetid
 cavil
 crystosphene
 colilysin
