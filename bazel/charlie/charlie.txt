@@ -4598,6 +4598,7 @@ clubbily
 carombolette
 caromel
 caroming
+centriscid
 cutout
 coucher
 caroms
@@ -7191,7 +7192,6 @@ chalazogam
 codebreak
 chymous
 centripetence
-centriscid
 clarine
 centriscidae
 cups
