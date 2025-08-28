@@ -94,7 +94,6 @@ baldachins
 babhan
 barkened
 beastliest
-bespout
 becked
 bumpity
 basset
@@ -4754,6 +4753,7 @@ bedraped
 bedraping
 bedread
 bedrench
+bespout
 baldling
 blast
 bedribble

@@ -9778,7 +9778,6 @@ citolas
 chelydre
 cyclonical
 crepance
-chelydroid
 condignness
 chrematistics
 ceylon
@@ -30287,6 +30286,7 @@ comm
 crunodes
 clifflet
 countervairy
+chelydroid
 chantors
 confrater
 consonantizing
