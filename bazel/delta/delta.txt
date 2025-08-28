@@ -1859,7 +1859,6 @@ dazes
 desponsage
 declaratory
 destour
-douvecot
 disimitation
 deblai
 daubries
@@ -18064,6 +18063,7 @@ dislocations
 diffusiometer
 duler
 dull
+douvecot
 dullard
 debind
 dipotassium
