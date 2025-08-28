@@ -3861,6 +3861,7 @@ animalculum
 asters
 adjustably
 abdal
+alalia
 astre
 armozeen
 adjusting
@@ -23074,7 +23075,6 @@ alytarch
 appercipient
 akelas
 attestations
-alalia
 arrantness
 azotous
 accommodativeness
