@@ -2643,6 +2643,7 @@ decompress
 decompresses
 detectaphone
 demiplacate
+deranged
 decompressive
 dogies
 duckies
@@ -6471,7 +6472,6 @@ dentinoblast
 diversional
 disencumber
 diffusedly
-deranged
 descanted
 descantist
 discriminators
