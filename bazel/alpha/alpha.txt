@@ -5296,7 +5296,6 @@ afghans
 aficionada
 aficionadas
 antiloemic
-afifi
 autogiro
 aecia
 afikomen
@@ -8786,6 +8785,7 @@ airmails
 allocate
 anglophobes
 autoimmunization
+afifi
 allocating
 asthmatics
 allocations
