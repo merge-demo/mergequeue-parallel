@@ -14074,7 +14074,6 @@ antennifer
 antefixes
 abranchial
 acraturesis
-antennula
 antennular
 antiegoistically
 antennule
@@ -17008,6 +17007,7 @@ alcid
 addy
 arthrotropic
 apocopes
+antennula
 archspy
 antes
 apocrenic
