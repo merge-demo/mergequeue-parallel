@@ -11972,6 +11972,7 @@ boglet
 beckelite
 bogmire
 borine
+bulimy
 baggit
 bedwarf
 bogomilian
@@ -16976,7 +16977,6 @@ bulgingly
 breakables
 buggess
 bethinks
-bulimy
 bulimias
 bronchiostenosis
 biconsonantal
