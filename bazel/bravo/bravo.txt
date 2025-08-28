@@ -12366,6 +12366,7 @@ bluebill
 beele
 bombonne
 bombora
+bagie
 belfather
 beswarmed
 bombus
@@ -12564,7 +12565,6 @@ bonnet
 brachelytra
 bonnethead
 bedway
-bagie
 burseed
 basinerved
 bonnetiere
