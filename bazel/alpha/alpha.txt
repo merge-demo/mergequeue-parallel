@@ -18336,6 +18336,7 @@ araponga
 anteroposterior
 anthurium
 araquaju
+atherosperma
 arar
 anaclinal
 aspredinidae
@@ -22563,7 +22564,6 @@ anticrepuscule
 atherosclerotic
 arts
 abnegated
-atherosperma
 abfarads
 atherurus
 accelerant
