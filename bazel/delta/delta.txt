@@ -4547,7 +4547,6 @@ dorsilumbar
 damia
 demigriffin
 distraughted
-demifarthing
 devocation
 drabbled
 demigroat
@@ -9203,6 +9202,7 @@ diptych
 dialyse
 delobranchiata
 diurnation
+demifarthing
 dyeability
 denazification
 demilance
