@@ -7817,7 +7817,6 @@ antimedieval
 alembicated
 antetype
 alembroth
-alemite
 alemmal
 acidoproteolytic
 alen
@@ -14898,6 +14897,7 @@ anachronic
 antimagnetic
 anticommunistic
 anticommunistical
+alemite
 anticommunistically
 anticompetitive
 anticomplement
