@@ -7364,6 +7364,7 @@ boluses
 blindfolds
 betime
 blotching
+blowzy
 betinge
 blithers
 bailed
@@ -11311,7 +11312,6 @@ blowtorches
 bromos
 bossiness
 blowups
-blowzy
 beadrow
 byroad
 bedrug
