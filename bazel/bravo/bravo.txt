@@ -3366,6 +3366,7 @@ basophilic
 basques
 bass
 blankeel
+bedchamber
 brans
 bassa
 balaenicipites
@@ -8838,7 +8839,6 @@ blunthead
 bikinied
 bombycids
 branks
-bedchamber
 bible
 binotonous
 bedeck
