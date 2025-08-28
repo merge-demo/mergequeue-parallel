@@ -3245,6 +3245,7 @@ cyclotomy
 cystenchyme
 capite
 christianized
+cymric
 capitellate
 canteen
 capitellum
@@ -4117,7 +4118,6 @@ courche
 calandrinia
 cumflutter
 cortaro
-cymric
 cardiologic
 clubbers
 cariogenic
