@@ -306,7 +306,6 @@ abducted
 ataxic
 abductions
 amatorio
-allegro
 ampullar
 abductor
 abducts
@@ -13662,6 +13661,7 @@ amentaceous
 anomalogonatous
 anomalon
 anomalonomy
+allegro
 auxochromism
 agglomerative
 auriculariaceae
