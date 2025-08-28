@@ -9042,7 +9042,6 @@ biophagism
 biophilous
 bleach
 biophysic
-biophysiography
 balibuntal
 biophysiology
 butterier
@@ -9724,6 +9723,7 @@ bacillus
 botticellian
 brichette
 bioflavonoid
+biophysiography
 bedridden
 breakages
 beguilingly
