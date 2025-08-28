@@ -6712,7 +6712,6 @@ designedness
 displeasureable
 delibate
 destitutely
-designer
 discerptible
 digestibility
 donicker
@@ -12221,6 +12220,7 @@ degausser
 demander
 depurates
 duply
+designer
 disambiguates
 dichocarpism
 dribblement
