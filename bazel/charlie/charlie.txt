@@ -13392,7 +13392,6 @@ coconino
 ciconiiformes
 ciconine
 cicorees
-copelatae
 cicurate
 coffered
 cicuta
@@ -17421,6 +17420,7 @@ cobaea
 corbeil
 cotters
 cobalamin
+copelatae
 cobalt
 cobaltamine
 contrude
