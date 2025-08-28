@@ -6893,7 +6893,6 @@ burglariously
 bajan
 burgundian
 bousoukis
-bazaar
 bedrugging
 barchan
 bitumed
@@ -12701,6 +12700,7 @@ bookfold
 biometric
 bookhood
 bloodhounds
+bazaar
 bookings
 belamcanda
 blah
