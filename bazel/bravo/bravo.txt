@@ -7972,7 +7972,6 @@ bichord
 borazons
 bubbling
 bioxalate
-bichromatize
 bellworts
 batholith
 bicyanide
@@ -11059,6 +11058,7 @@ blockaded
 bruet
 bibberies
 bedwarfed
+bichromatize
 blockboard
 bishareen
 benegro
