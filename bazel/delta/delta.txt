@@ -13068,6 +13068,7 @@ dispeed
 dispark
 declarer
 diplosphenal
+dormice
 dwang
 drownds
 dain
@@ -15826,7 +15827,6 @@ deproceduring
 dormers
 dormette
 dormeuse
-dormice
 dormient
 dormilona
 dormitive
