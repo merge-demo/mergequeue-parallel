@@ -370,7 +370,6 @@ bradoons
 bilgiest
 bacteroideae
 bathychrome
-bavaroy
 backdrop
 bonassus
 beemaster
@@ -10432,6 +10431,7 @@ baritone
 bribetaking
 biune
 beachboy
+bavaroy
 beneficium
 blemished
 bastion
