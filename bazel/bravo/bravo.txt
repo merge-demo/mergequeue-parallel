@@ -552,7 +552,6 @@ backtender
 ballyhooing
 blokes
 backtenter
-beggingwise
 backtracking
 backtracks
 backout
@@ -16693,6 +16692,7 @@ bids
 bistorta
 bedfoot
 bucktooth
+beggingwise
 bucktoothed
 bemba
 betokened
