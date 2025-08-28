@@ -4274,7 +4274,6 @@ adelina
 antitheistically
 adenoids
 adstipulator
-adterminal
 aduana
 arrestor
 adularescence
@@ -10942,6 +10941,7 @@ amoy
 apinoid
 andrographis
 absenteeism
+adterminal
 amok
 amoke
 anchoritically
