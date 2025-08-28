@@ -1960,6 +1960,7 @@ aberrancies
 acrologically
 alap
 acetophenetidine
+allergen
 anurias
 abrogations
 astel
@@ -16278,7 +16279,6 @@ antitruster
 antituberculosis
 antituberculotic
 antitumoral
-allergen
 affray
 assoria
 aperitive
