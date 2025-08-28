@@ -4630,6 +4630,7 @@ disgust
 dackers
 disemburden
 demipique
+dzerin
 dishtowel
 demipomada
 damned
@@ -16962,7 +16963,6 @@ devisability
 dobber
 deionizer
 doless
-dzerin
 dianthaceae
 dyspeptics
 drearfully
