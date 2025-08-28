@@ -3855,7 +3855,6 @@ adjust
 animalculum
 asters
 adjustably
-abdal
 alalia
 astre
 armozeen
@@ -12434,6 +12433,7 @@ avoided
 anticonfederationist
 attenuated
 amanuenses
+abdal
 arterial
 anemometrographically
 alfilaria
