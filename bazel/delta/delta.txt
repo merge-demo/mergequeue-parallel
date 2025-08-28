@@ -1394,7 +1394,6 @@ desma
 davies
 duotriode
 dayless
-decephalize
 diorites
 daviesite
 dictyotaceous
@@ -2163,6 +2162,7 @@ decapper
 decarbonated
 decarbonating
 decarbonation
+decephalize
 disintegrations
 dante
 disenamor
