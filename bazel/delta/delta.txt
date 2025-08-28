@@ -1896,6 +1896,7 @@ dropline
 debordment
 deboss
 detractive
+distortional
 debouche
 disbench
 disconcertingness
@@ -3829,7 +3830,6 @@ diplocephaly
 darryl
 dodecatheon
 deliveror
-distortional
 discanonized
 dimidiating
 dronishly
