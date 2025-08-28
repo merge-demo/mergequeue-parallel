@@ -4727,6 +4727,7 @@ designingly
 daybreak
 dreidels
 demivirgin
+dawnlight
 demivol
 disbend
 defectionist
@@ -9965,7 +9966,6 @@ denticulation
 daintily
 diminuent
 drossiness
-dawnlight
 ducatoon
 distances
 devonian
