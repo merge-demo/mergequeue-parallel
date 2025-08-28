@@ -779,7 +779,6 @@ abridgement
 annuity
 abridgements
 abridger
-anapeiratic
 acurative
 argles
 abridgers
@@ -16487,6 +16486,7 @@ acutorsion
 apache
 attained
 apachite
+anapeiratic
 apadana
 apaesthetic
 astronautic
