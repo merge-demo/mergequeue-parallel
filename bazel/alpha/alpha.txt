@@ -3170,7 +3170,6 @@ acupuncturation
 aleberry
 approachabl
 azotine
-acupuncturator
 acupuncture
 abonne
 apsides
@@ -16469,6 +16468,7 @@ aortic
 augelite
 antefixa
 aortoiliac
+acupuncturator
 amurcous
 alodiaries
 agathism
