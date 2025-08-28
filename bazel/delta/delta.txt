@@ -6001,6 +6001,7 @@ depth
 dispraise
 droopy
 detonize
+delace
 devitation
 domajigger
 daunii
@@ -10456,7 +10457,6 @@ ditcher
 dug
 dogmatic
 diodon
-delace
 disglorify
 disinterring
 dispowder
