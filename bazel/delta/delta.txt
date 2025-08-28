@@ -7853,7 +7853,6 @@ discouragingly
 diffluent
 dogbodies
 dew
-degentilize
 diatoric
 dewani
 depress
@@ -9704,6 +9703,7 @@ dunitic
 dilactic
 diastematomyelia
 dilactone
+degentilize
 dilamination
 dilaniate
 dourines
