@@ -2186,7 +2186,6 @@ amygdalolith
 achromous
 articulability
 allows
-achronism
 atmograph
 announcement
 albanians
@@ -12795,6 +12794,7 @@ arousement
 angletouch
 anthraxylon
 angletwitch
+achronism
 allays
 anglewise
 averrer
