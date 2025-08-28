@@ -9347,7 +9347,6 @@ dif
 divekeeper
 dactylography
 diffame
-demises
 dietted
 detracts
 dipso
@@ -10610,6 +10609,7 @@ doxographical
 dittology
 domestic
 documented
+demises
 decoctible
 defs
 diploid
