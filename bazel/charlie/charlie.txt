@@ -920,7 +920,6 @@ collared
 colpotomy
 canterburies
 calaboose
-cycloidei
 canelle
 calabrians
 calabur
@@ -3419,6 +3418,7 @@ caprylone
 chivarro
 caprimulgiformes
 chinwood
+cycloidei
 caprin
 candlebeam
 cimelia
