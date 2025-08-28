@@ -5114,6 +5114,7 @@ caseous
 caserios
 cartway
 chronal
+chemotaxis
 cyphering
 caserne
 casernes
@@ -15490,7 +15491,6 @@ collegian
 claromontane
 caudillism
 claros
-chemotaxis
 contraposition
 cowtail
 competitioner
