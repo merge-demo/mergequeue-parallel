@@ -3281,7 +3281,6 @@ bisulfide
 beans
 bookkeeps
 bourn
-brattle
 bastardising
 benzols
 barklyite
@@ -15556,6 +15555,7 @@ backening
 bewigging
 bristols
 britain
+brattle
 buzzardlike
 biting
 britannically
