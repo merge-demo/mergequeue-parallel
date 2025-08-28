@@ -19916,7 +19916,6 @@ cuscuses
 comitje
 chunters
 coml
-confessionals
 commandable
 commandatory
 commanded
@@ -25036,6 +25035,7 @@ coregnant
 coregonid
 coregonidae
 coregonoid
+confessionals
 chlorinate
 coreidae
 caeciform
