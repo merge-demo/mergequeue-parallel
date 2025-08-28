@@ -967,7 +967,6 @@ bagwork
 baker
 beverage
 basiophthalmite
-bahay
 bahaist
 bahamian
 bahamians
@@ -17628,6 +17627,7 @@ boff
 blockish
 boris
 britchel
+bahay
 biennials
 belady
 blowier
