@@ -6823,7 +6823,6 @@ dissoconch
 desmachyme
 dialyzate
 daubery
-dockworker
 decidingly
 dictyoceratina
 desmanthus
@@ -17060,6 +17059,7 @@ drepaniform
 disarmingly
 destructory
 dressier
+dockworker
 dasher
 depressively
 disciplinability
