@@ -7305,6 +7305,7 @@ baseboards
 bali
 betelgeuse
 betell
+banzais
 bambuba
 breve
 betels
@@ -18056,7 +18057,6 @@ bullweeds
 blenny
 bloom
 bilaminate
-banzais
 busulfans
 bughouse
 buroo
