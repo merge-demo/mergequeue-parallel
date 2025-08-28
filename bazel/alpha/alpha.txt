@@ -369,7 +369,6 @@ anticlinorium
 aberuncate
 avoyer
 abesse
-abetments
 ambulant
 adipate
 andesitic
@@ -835,6 +834,7 @@ amphicyrtous
 abscission
 absconce
 arris
+abetments
 abscond
 anteport
 absconded
