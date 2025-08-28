@@ -6794,6 +6794,7 @@ cellmates
 cello
 chambermaid
 celloid
+cremometer
 colubrids
 chairmaker
 cathodofluorescence
@@ -29377,7 +29378,6 @@ crisping
 crispins
 citramide
 crisply
-cremometer
 chalcanthite
 chartists
 crispness
