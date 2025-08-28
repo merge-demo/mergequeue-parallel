@@ -6613,6 +6613,7 @@ alcelaphine
 aubrey
 archking
 allures
+apropos
 anthemene
 ainhum
 arthropleure
@@ -22655,7 +22656,6 @@ antipopulationist
 atlantoodontoid
 autokrator
 atlases
-apropos
 amplificator
 atloid
 atloidean
