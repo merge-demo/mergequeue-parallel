@@ -3707,7 +3707,6 @@ dehydrochlorinate
 daytale
 dehydrocorticosterone
 drabble
-drepanoid
 didact
 dehydrogenate
 dawtet
@@ -13887,6 +13886,7 @@ distastefulness
 denom
 dialling
 displuviate
+drepanoid
 dross
 displaces
 donee
