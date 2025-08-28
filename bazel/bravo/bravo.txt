@@ -9579,7 +9579,6 @@ biscutate
 bisdiapason
 binary
 bicapsular
-bisected
 bandlimits
 bisectors
 bisectrices
@@ -15547,6 +15546,7 @@ brunswick
 born
 bristlelike
 blindfoldedness
+bisected
 brigander
 bronchitis
 beingless
