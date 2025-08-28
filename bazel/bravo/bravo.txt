@@ -4896,6 +4896,7 @@ beefalo
 basketweaving
 balistarius
 bloodedness
+bistered
 beefalos
 bilimbis
 blackheartedly
@@ -9741,7 +9742,6 @@ brainache
 brainwashed
 bacilliparous
 bistephanic
-bistered
 bisters
 bruce
 bedevil
