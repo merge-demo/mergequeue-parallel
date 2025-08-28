@@ -16397,7 +16397,6 @@ devout
 douras
 dispersal
 duckboard
-derelictions
 drainable
 downstate
 defrost
@@ -17119,6 +17118,7 @@ dimensional
 disaffected
 driddle
 dysplastic
+derelictions
 divi
 didle
 droukan
