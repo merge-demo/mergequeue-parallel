@@ -20057,6 +20057,7 @@ commentative
 chai
 credulous
 clee
+curricula
 commentator
 chokecherries
 charcutier
@@ -31493,7 +31494,6 @@ currycombs
 crossword
 centrings
 cogitators
-curricula
 curricularize
 cardiomyoliposis
 chid
