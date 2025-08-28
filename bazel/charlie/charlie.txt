@@ -8114,7 +8114,6 @@ cambion
 chagrins
 chaguar
 chahar
-chai
 chay
 closeness
 coordain
@@ -20058,6 +20057,7 @@ corky
 commentated
 cragsmen
 commentative
+chai
 credulous
 clee
 commentator
