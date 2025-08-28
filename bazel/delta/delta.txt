@@ -3398,7 +3398,6 @@ dubash
 disgarland
 deceleron
 deflower
-damnosa
 dentagra
 delenda
 deflowered
@@ -10990,6 +10989,7 @@ dysaesthesia
 dasypus
 dropvie
 downgrade
+damnosa
 duettist
 dryopithecine
 deconventionalize
