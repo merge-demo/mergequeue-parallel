@@ -1103,6 +1103,7 @@ bluffing
 burel
 bundts
 bayonets
+batteuse
 benefactors
 backword
 blepharelcosis
@@ -14349,7 +14350,6 @@ brayers
 bougainvillia
 burry
 braies
-batteuse
 bleeping
 bonier
 busticate
