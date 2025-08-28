@@ -25466,7 +25466,6 @@ carnationed
 corollaries
 corollet
 cholecystonephrostomy
-corolliferous
 corollifloral
 capsidae
 corollitic
@@ -25931,6 +25930,7 @@ corvidae
 corvillosum
 corvinae
 councilwoman
+corolliferous
 creolize
 centralest
 couthie
