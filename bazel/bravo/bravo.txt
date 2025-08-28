@@ -1366,6 +1366,7 @@ balconies
 baldachin
 bhaiachari
 bichromic
+boothian
 bibliotherapist
 blankminded
 bnf
@@ -7045,7 +7046,6 @@ bitterly
 babeship
 baronet
 boodh
-boothian
 bridehouse
 boweled
 bombidae
