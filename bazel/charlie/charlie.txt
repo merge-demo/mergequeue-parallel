@@ -13,7 +13,6 @@ cabal
 condylarthrous
 cryptostoma
 chevance
-chaenomeles
 cows
 corkmaking
 caught
@@ -14475,6 +14474,7 @@ cirsectomies
 cirsoid
 cirsomphalos
 completable
+chaenomeles
 cirsotomy
 cirsotomies
 cirterion
