@@ -9789,6 +9789,7 @@ chelingas
 chelingos
 cheliped
 chelys
+carboxylase
 cydon
 chellean
 cheloids
@@ -17131,7 +17132,6 @@ colostomy
 coadministratrix
 coadmiration
 cuphead
-carboxylase
 coadmit
 coadmits
 coadmitted
