@@ -741,6 +741,7 @@ backyard
 bogwort
 badgerer
 blundersome
+belouke
 booking
 banana
 balada
@@ -11337,7 +11338,6 @@ bankable
 buttonhook
 bluchers
 bludge
-belouke
 bludged
 bludgeon
 bludgeons
