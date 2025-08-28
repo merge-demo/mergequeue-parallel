@@ -4202,7 +4202,6 @@ beatles
 backchain
 bellmen
 barometric
-brusquer
 beatnik
 beatrix
 becater
@@ -13117,6 +13116,7 @@ belaced
 bovids
 borning
 bornite
+brusquer
 baksheesh
 bornites
 bornitic
