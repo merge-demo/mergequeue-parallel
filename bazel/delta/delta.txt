@@ -3185,7 +3185,6 @@ doughbelly
 defencive
 dents
 defendable
-dikast
 dolmenic
 demimondaine
 dissentient
@@ -6534,6 +6533,7 @@ deity
 descriptivism
 decilitre
 doddies
+dikast
 descrive
 descure
 desecrater
