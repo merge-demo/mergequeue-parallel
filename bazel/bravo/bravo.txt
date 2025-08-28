@@ -1151,6 +1151,7 @@ baisemain
 besmears
 betaken
 blachong
+birefracting
 beudantite
 banqueter
 baitfish
@@ -5698,7 +5699,6 @@ beclap
 belgrade
 bombasine
 bora
-birefracting
 backwasher
 belialic
 bonytail
