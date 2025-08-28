@@ -9626,7 +9626,6 @@ coexistent
 cheering
 cheerlead
 crystallinity
-cheerleader
 caesareanize
 cheerleaders
 clarifies
@@ -28136,6 +28135,7 @@ churchman
 cranks
 crossbarring
 crankshafts
+cheerleader
 corpulent
 crannage
 caesar
