@@ -672,7 +672,6 @@ ditroite
 damon
 damosel
 drachms
-divorcement
 decapitalize
 damped
 decemviri
@@ -5702,6 +5701,7 @@ danton
 depletive
 denutrition
 decarboxylating
+divorcement
 demonised
 delthyrium
 declaratorily
