@@ -6704,7 +6704,6 @@ darnex
 diatribes
 desiderium
 desiderta
-diptycas
 desidiose
 designable
 dhutis
@@ -7639,6 +7638,7 @@ developable
 dealer
 deflocculation
 didinium
+diptycas
 developer
 developes
 diswarn

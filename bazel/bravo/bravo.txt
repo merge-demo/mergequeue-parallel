@@ -2197,6 +2197,7 @@ baghla
 bodword
 blockade
 bostonite
+barter
 bedrivelled
 barauna
 barba
@@ -2999,7 +3000,6 @@ benzene
 bartending
 bartends
 baggywrinkle
-barter
 blechnoid
 barters
 brujo
