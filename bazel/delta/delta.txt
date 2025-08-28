@@ -7784,7 +7784,6 @@ detachability
 devolatilised
 dosimetries
 dryrot
-decumani
 diplospondyli
 dagestan
 depeople
@@ -13287,6 +13286,7 @@ donn
 disserved
 disponge
 diacetate
+decumani
 digynia
 despondency
 desoxyribonuclease
