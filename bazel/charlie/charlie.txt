@@ -2575,7 +2575,6 @@ carangid
 chlorotrifluoromethane
 catalan
 candroys
-ceraunograph
 crepier
 camphires
 censuses
@@ -28594,6 +28593,7 @@ coliseums
 caulerpaceae
 changa
 cremator
+ceraunograph
 crematory
 commissionate
 crematorial
