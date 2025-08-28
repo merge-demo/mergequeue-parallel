@@ -80,6 +80,7 @@ aband
 abandon
 amaas
 androecial
+autarch
 amphipods
 alispheno
 abandoners
@@ -23759,7 +23760,6 @@ autaesthesy
 adjudicature
 atlantoaxial
 amidols
-autarch
 achango
 anticipating
 ascanian
