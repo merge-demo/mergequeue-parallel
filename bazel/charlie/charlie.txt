@@ -1045,7 +1045,6 @@ chitinocalcareous
 circumcisions
 calceolaria
 calceolate
-cowhide
 calceus
 challengable
 costoclavicular
@@ -16254,6 +16253,7 @@ crewcut
 cornerman
 compagination
 clinohumite
+cowhide
 childermas
 constringency
 contraindicate
