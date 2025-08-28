@@ -5173,6 +5173,7 @@ casketed
 caskets
 credens
 casky
+chopping
 clearer
 casking
 casks
@@ -18122,7 +18123,6 @@ collars
 campman
 chromatophilic
 coequalness
-chopping
 coequals
 coequate
 centerward
