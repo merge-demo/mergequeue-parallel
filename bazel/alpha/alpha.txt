@@ -4726,6 +4726,7 @@ aero
 acetylate
 aeroballistic
 agapemonite
+astrosphere
 adductive
 aerobate
 aerobatic
@@ -11181,7 +11182,6 @@ antistrophic
 achaenodon
 amphictyons
 amphid
-astrosphere
 amphophile
 amphidetic
 amphidiarthrosis
