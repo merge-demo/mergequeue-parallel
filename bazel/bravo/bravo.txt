@@ -7545,7 +7545,6 @@ bewailers
 belimousined
 blowpit
 bewailing
-beguilingly
 bandolier
 beloam
 befringes
@@ -9725,6 +9724,7 @@ botticellian
 brichette
 bedridden
 breakages
+beguilingly
 bigwiggism
 biramose
 bankbook
