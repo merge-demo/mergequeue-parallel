@@ -209,7 +209,6 @@ acridyl
 abby
 apotactite
 antidotal
-antibacchic
 alantolic
 apteran
 acology
@@ -5272,6 +5271,7 @@ affrightful
 affydavy
 affrightment
 affronte
+antibacchic
 affronted
 affrontedness
 affronter
