@@ -703,7 +703,6 @@ dusio
 dolefish
 drynesses
 danaine
-deltaic
 dragshoe
 dagassa
 digitised
@@ -7522,6 +7521,7 @@ devachan
 degger
 dibase
 dioxin
+deltaic
 deusan
 dogtrots
 drosera
