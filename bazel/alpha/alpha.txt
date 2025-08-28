@@ -3660,7 +3660,6 @@ archivolt
 arenicolite
 adhesion
 adhesional
-adhesive
 architraved
 adhesiveness
 astrogeny
@@ -22790,6 +22789,7 @@ archelaus
 atragene
 atrament
 alloploidy
+adhesive
 atremata
 atrematous
 apprentices
