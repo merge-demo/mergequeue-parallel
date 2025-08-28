@@ -5504,7 +5504,6 @@ digging
 darlingly
 dermamyiasis
 depainted
-dorbug
 depancreatization
 disilluminate
 descriptions
@@ -9814,6 +9813,7 @@ delinquence
 daimones
 denumerable
 digesters
+dorbug
 dumetose
 dillydally
 diabolically
