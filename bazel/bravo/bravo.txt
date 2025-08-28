@@ -1130,6 +1130,7 @@ barkstone
 betrayals
 bedimmed
 boatload
+bracteolate
 bagful
 brindled
 bluethroat
@@ -9521,7 +9522,6 @@ birthright
 baffeta
 births
 birthstones
-bracteolate
 brontephobia
 bulliform
 birthstool
