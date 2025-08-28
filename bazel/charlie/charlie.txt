@@ -9236,7 +9236,6 @@ chastities
 chockstone
 chasubled
 categorize
-chataka
 chatchka
 commutator
 croziers
@@ -30093,6 +30092,7 @@ crownwort
 crowshay
 cryocautery
 citee
+chataka
 crowstick
 crowstone
 crowtoe
