@@ -2343,6 +2343,7 @@ dehydroascorbic
 dendrites
 dechlorinate
 dillweed
+dorsolateral
 dysgenesis
 diverb
 dechlorinated
@@ -18188,7 +18189,6 @@ dump
 disreputably
 discutient
 duplexing
-dorsolateral
 distream
 dumpled
 dineuric
