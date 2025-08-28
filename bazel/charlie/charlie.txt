@@ -15316,7 +15316,6 @@ clanged
 crowdie
 critturs
 coexist
-clangful
 clanging
 corticoefferent
 clangorous
@@ -19430,6 +19429,7 @@ connoisseurs
 crosscurrents
 colorin
 coloring
+clangful
 colorings
 conges
 colorisms
