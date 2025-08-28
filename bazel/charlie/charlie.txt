@@ -17601,7 +17601,6 @@ changar
 clallam
 capitoul
 cumins
-cayennes
 culrage
 coccochromatic
 coccogone
@@ -19682,6 +19681,7 @@ catogene
 chemisorption
 clefts
 chaule
+cayennes
 comatiks
 comatosely
 countercharged
