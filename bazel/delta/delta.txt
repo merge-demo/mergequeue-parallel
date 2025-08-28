@@ -3875,7 +3875,6 @@ discastle
 dissect
 dekagram
 dyscrasite
-dowdiest
 deerdog
 dewy
 damone
@@ -11250,6 +11249,7 @@ disbenched
 dispauperize
 disbenching
 dribblet
+dowdiest
 decarbonylation
 dispair
 digitigrada
