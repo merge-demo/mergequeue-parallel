@@ -3489,6 +3489,7 @@ deformation
 deflections
 delete
 deformations
+detrudes
 deformedly
 dandily
 downfold
@@ -7477,7 +7478,6 @@ debating
 discriminated
 denude
 doctoral
-detrudes
 dubhgall
 distalia
 detruding
