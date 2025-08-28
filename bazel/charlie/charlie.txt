@@ -24466,6 +24466,7 @@ commandrie
 copartnership
 chronodeik
 counterquarterly
+cleek
 copassionate
 countermotion
 clampdown
@@ -25481,7 +25482,6 @@ coronaled
 coronalled
 coronals
 coronamen
-cleek
 coronate
 commandeer
 calp
