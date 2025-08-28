@@ -229,7 +229,6 @@ allokinesis
 abscision
 alchemistical
 assigners
-aeroliths
 absorptiometric
 abbott
 adenomyxoma
@@ -22603,6 +22602,7 @@ antispadix
 averruncation
 athamantin
 athletism
+aeroliths
 athlothetes
 ascared
 athogen
