@@ -7867,7 +7867,6 @@ diatoric
 dewani
 depress
 diverseness
-dewatered
 diffluence
 despair
 dissipate
@@ -11979,6 +11978,7 @@ derailleur
 disembarked
 demephitize
 duskish
+dewatered
 dietetical
 disacidified
 denominationally
