@@ -6675,6 +6675,7 @@ decharm
 dinitrophenol
 diplohedron
 downcurved
+disacceptance
 desyatin
 desicate
 depopulative
@@ -10940,7 +10941,6 @@ disbursement
 diapir
 dispondaic
 dazzlement
-disacceptance
 deafens
 dannock
 disaccomodate
