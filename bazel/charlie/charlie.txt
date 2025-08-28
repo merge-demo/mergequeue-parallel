@@ -505,7 +505,6 @@ cadet
 canonize
 counterreply
 cesar
-cadets
 cadetship
 cyclophorus
 cadette
@@ -14296,6 +14295,7 @@ circumnutated
 circumnutation
 circumorbital
 circumpacific
+cadets
 circulet
 ciliectomy
 circumpallial
