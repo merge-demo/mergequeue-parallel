@@ -9474,6 +9474,7 @@ althing
 althionic
 apholates
 ablution
+aedoeology
 asterikos
 anargyroi
 althorn
@@ -18478,7 +18479,6 @@ attitudes
 arborway
 arbota
 arbour
-aedoeology
 arbs
 achaemenid
 anasazi
