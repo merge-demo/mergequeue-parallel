@@ -9233,6 +9233,7 @@ collier
 chastity
 chastities
 chockstone
+conducer
 chasubled
 categorize
 chatchka
@@ -31616,7 +31617,6 @@ curvet
 corvets
 curvetted
 curvetting
-conducer
 curvy
 chinwag
 curvicaudate
