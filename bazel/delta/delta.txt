@@ -1733,6 +1733,7 @@ discreteness
 dispensible
 diobol
 densifier
+deterioration
 discantus
 duckpond
 dysenteric
@@ -7268,7 +7269,6 @@ dextrally
 disarrest
 deteriorating
 drowsy
-deterioration
 deuce
 data
 dear
