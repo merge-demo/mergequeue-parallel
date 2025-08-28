@@ -6724,6 +6724,7 @@ acyloxy
 airlift
 airlifting
 airlifts
+anaphylactin
 airlike
 arbalestre
 airlines
@@ -11865,7 +11866,6 @@ astrometry
 ancille
 araliaceae
 apostrophal
-anaphylactin
 autoschediastical
 anaphylactogenic
 anaphylatoxin
