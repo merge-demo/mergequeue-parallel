@@ -16148,6 +16148,7 @@ climatarchic
 climate
 climates
 corporatively
+cerenkov
 cestidae
 climatic
 climatographical
@@ -26340,7 +26341,6 @@ centipoise
 cotes
 cycloidian
 cementlike
-cerenkov
 cothon
 cothouse
 cothurnus
