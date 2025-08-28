@@ -2313,7 +2313,6 @@ demidolmen
 dodecatemory
 downwash
 deceptive
-deceptively
 deceptiveness
 dinichthyid
 deafnesses
@@ -6114,6 +6113,7 @@ deliberations
 deraigning
 divest
 dispirits
+deceptively
 derailing
 demiworld
 derailment
