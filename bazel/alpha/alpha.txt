@@ -16483,7 +16483,6 @@ ap
 anack
 apabhramsa
 agrania
-acutorsion
 apache
 attained
 apachite
@@ -19177,6 +19176,7 @@ anisocercal
 attractions
 ammunition
 autotypes
+acutorsion
 areal
 atuami
 areasoner
