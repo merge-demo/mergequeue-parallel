@@ -3668,6 +3668,7 @@ booboo
 balloonfishes
 bergut
 batsman
+borschts
 barrelsful
 besetting
 bardolater
@@ -17265,7 +17266,6 @@ baths
 blazons
 bumpkin
 bumpkins
-borschts
 bumptious
 blanketweed
 bolstering
