@@ -629,7 +629,6 @@ caeremoniarius
 coynye
 callate
 coatimundi
-caesardom
 caesarean
 caesareans
 cardiopyloric
@@ -11356,6 +11355,7 @@ chloroplastic
 chloroplasts
 coenamorment
 commences
+caesardom
 chiastic
 chloroplatinous
 chloroprene

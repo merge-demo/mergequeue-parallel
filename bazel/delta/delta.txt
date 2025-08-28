@@ -7461,7 +7461,6 @@ defrosts
 dich
 dermoplasty
 dioeciopolygamous
-djellab
 debating
 discriminated
 denude
@@ -16749,6 +16748,7 @@ divellicate
 dramatized
 dramaturgically
 diphtheritic
+djellab
 decreement
 devisceration
 drammage
