@@ -8542,7 +8542,6 @@ asthenical
 allantoxaidin
 aminolysis
 actinouranium
-allegorised
 anisogenous
 allasch
 anecdota
@@ -22335,6 +22334,7 @@ astrophotographic
 astrophotometer
 astroscopy
 autocratorical
+allegorised
 astroscopus
 astrospectral
 acrasiaceae
