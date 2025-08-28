@@ -4777,7 +4777,6 @@ bedroll
 bedrooms
 bruckle
 bedrowse
-bandicoots
 bedrugged
 bedrugs
 brakesman
@@ -14972,6 +14971,7 @@ billitonite
 bunchberries
 bennettites
 burnut
+bandicoots
 bredbergite
 baumhauerite
 bredes
