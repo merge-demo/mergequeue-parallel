@@ -7341,6 +7341,7 @@ determinism
 detecters
 dunnest
 deterministic
+deputise
 dollbeer
 daysman
 duecentos
@@ -15904,7 +15905,6 @@ dorsolumbar
 deliberators
 destinations
 dankly
-deputise
 diffractional
 detent
 dossman
