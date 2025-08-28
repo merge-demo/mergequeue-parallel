@@ -5375,7 +5375,6 @@ castlet
 commercing
 candlesticked
 confront
-casaque
 communism
 castlewards
 castlewise
@@ -7183,6 +7182,7 @@ centrifugence
 centrifuging
 coffeehousing
 centring
+casaque
 clivia
 cavaedia
 centriole
