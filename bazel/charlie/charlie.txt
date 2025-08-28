@@ -2415,7 +2415,6 @@ carnie
 comitium
 cancerophobe
 cancerophobia
-cancerous
 celtophil
 cancerously
 coolth
@@ -16017,6 +16016,7 @@ clever
 cowberries
 cleverer
 cleverish
+cancerous
 clevis
 columbous
 codicilic

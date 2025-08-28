@@ -8123,7 +8123,6 @@ bindweeds
 bidri
 brutelike
 barmaids
-bieberite
 bespreading
 blossomed
 bivalencies
@@ -14777,6 +14776,7 @@ barmfel
 buffed
 broadhearted
 bloodweed
+bieberite
 bourgeoise
 bobization
 breached
