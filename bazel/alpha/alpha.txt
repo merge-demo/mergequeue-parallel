@@ -9092,7 +9092,6 @@ antiputrefaction
 anaemias
 averter
 animations
-apollonistic
 almemars
 alienly
 almendron
@@ -17311,6 +17310,7 @@ av
 apostolically
 ares
 aerophagy
+apollonistic
 amidin
 arias
 abstracts
