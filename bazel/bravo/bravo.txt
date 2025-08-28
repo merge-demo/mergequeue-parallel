@@ -6717,7 +6717,6 @@ broomstaff
 blitter
 balaamitical
 beeishness
-bathmotropic
 brontosaurus
 berloque
 berm
@@ -14635,6 +14634,7 @@ bellevue
 boxerism
 blackishness
 bigmouth
+bathmotropic
 betusked
 brasiletto
 bibliomancy
