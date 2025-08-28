@@ -5247,7 +5247,6 @@ digladiate
 denouncer
 dissymmetry
 dodecane
-dens
 densate
 diogenean
 deerstealer
@@ -10750,6 +10749,7 @@ diprimary
 doubtingly
 dipropellant
 deficit
+dens
 dern
 diprotic
 daughter
