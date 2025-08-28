@@ -5058,7 +5058,6 @@ dueller
 denaturing
 duplicand
 diminishingturns
-denaturise
 disfigures
 dextrogyrate
 denaturization
@@ -10918,6 +10917,7 @@ discontinuous
 designlessly
 diathermometer
 demonologic
+denaturise
 doddart
 desalting
 disculpate
