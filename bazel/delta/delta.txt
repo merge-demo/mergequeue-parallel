@@ -2365,7 +2365,6 @@ decidedly
 decohere
 dewclaw
 decidence
-destabilized
 dwyka
 deciders
 disownment
@@ -6855,6 +6854,7 @@ desmoscolex
 desmosite
 deft
 desemer
+destabilized
 dispositor
 deglutitory
 desoeuvre
