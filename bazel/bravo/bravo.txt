@@ -1829,7 +1829,6 @@ bandaid
 babylonism
 buggery
 bandanaed
-battlepiece
 bollito
 bullary
 barricos
@@ -14382,6 +14381,7 @@ brothellike
 brainlessness
 bacteroides
 bicyclo
+battlepiece
 braggadocios
 bemocked
 bisischiadic
