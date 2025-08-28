@@ -6593,7 +6593,6 @@ bladderless
 borachio
 berdache
 battuta
-brazenly
 byreman
 booming
 birotation
@@ -10666,6 +10665,7 @@ biotics
 bronchorrhagia
 bleats
 bleaunt
+brazenly
 bleb
 blebby
 blastematic
