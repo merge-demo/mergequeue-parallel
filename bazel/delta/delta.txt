@@ -7514,7 +7514,6 @@ dur
 devachan
 degger
 dibase
-dioxin
 deltaic
 deusan
 dogtrots
@@ -15601,6 +15600,7 @@ designators
 dement
 dewanny
 donk
+dioxin
 doloriferous
 donkeyman
 draffman
