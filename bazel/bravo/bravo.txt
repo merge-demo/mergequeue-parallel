@@ -8611,7 +8611,6 @@ billman
 blechnum
 basigenic
 baraza
-billon
 baronizing
 billow
 brie
@@ -11737,6 +11736,7 @@ backpointer
 brynza
 bajocian
 bigarade
+billon
 baroscopic
 breton
 bedecks
