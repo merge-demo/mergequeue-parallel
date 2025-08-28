@@ -3793,7 +3793,6 @@ blksize
 bitterbush
 brujas
 binitarian
-bauble
 bantay
 bootleg
 baubo
@@ -15588,6 +15587,7 @@ bypassing
 beclasping
 boner
 bailage
+bauble
 bezette
 buskle
 brittleness
