@@ -16561,6 +16561,7 @@ cloistered
 cloisterer
 columellate
 clappermaclaw
+clap
 cloistering
 comal
 croupes
@@ -27240,7 +27241,6 @@ countryside
 classable
 countryward
 countrywoman
-clap
 countrywomen
 chymification
 countship
