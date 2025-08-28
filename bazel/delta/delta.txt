@@ -10374,7 +10374,6 @@ driftpiece
 dowsing
 dozened
 derelictly
-defervescing
 digress
 dioramic
 diordinal
@@ -11840,6 +11839,7 @@ discriminating
 decarboxylation
 dacryuria
 drawbridges
+defervescing
 dimitted
 discriminatively
 despatch
