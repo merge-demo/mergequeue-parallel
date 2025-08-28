@@ -7386,6 +7386,7 @@ campbellite
 cephalotaceae
 chalaziferous
 cephalotaxus
+chimley
 cephalothoraxes
 cephalotomy
 corozo
@@ -20450,7 +20451,6 @@ comparisons
 comparted
 customhouse
 compartimenti
-chimley
 comparting
 compartition
 chained

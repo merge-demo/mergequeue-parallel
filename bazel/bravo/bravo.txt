@@ -4367,7 +4367,6 @@ brickier
 bullimong
 becky
 becking
-bearings
 beckoner
 bedizened
 beati
@@ -6067,6 +6066,7 @@ buttstrap
 blacktail
 bemuddlement
 bemuddles
+bearings
 bemuddling
 bemurmur
 bondwoman
