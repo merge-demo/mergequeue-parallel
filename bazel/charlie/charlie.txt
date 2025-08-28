@@ -4271,7 +4271,6 @@ carful
 congregationalize
 cargadores
 chintziness
-casco
 cargason
 campulitropal
 casebook
@@ -14640,6 +14639,7 @@ chowk
 cystomyoma
 cystomyxoma
 cystonectae
+casco
 cystoneuralgia
 cardinalfish
 cystoparalysis
