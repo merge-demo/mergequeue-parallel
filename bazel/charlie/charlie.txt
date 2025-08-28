@@ -9534,7 +9534,6 @@ combmaking
 checkpoints
 con
 commonize
-checkrack
 casehardens
 cricotracheotomy
 checkrein
@@ -28776,6 +28775,7 @@ crestal
 churchwards
 crestline
 chasings
+checkrack
 creta
 chirographic
 commander
