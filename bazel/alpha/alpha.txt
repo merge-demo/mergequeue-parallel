@@ -12121,7 +12121,6 @@ amblygon
 anchisaurus
 aegirite
 antitradition
-anchistea
 anchor
 anchorable
 anchorages
@@ -22297,6 +22296,7 @@ astromantic
 astromeda
 apophyges
 aliments
+anchistea
 astrometeorology
 astrometeorological
 aforenamed
