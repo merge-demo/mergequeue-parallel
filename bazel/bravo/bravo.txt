@@ -3364,7 +3364,6 @@ bushel
 bottlesful
 byordinary
 basophilic
-basques
 bass
 blankeel
 bedchamber
@@ -15952,6 +15951,7 @@ backstitching
 bronchorrhaphy
 bronchorrhea
 bronchos
+basques
 barr
 bronchoscopist
 backbear
