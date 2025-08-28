@@ -3012,7 +3012,6 @@ diluent
 deerfly
 domestication
 diazoate
-deerflies
 deerfood
 digraphic
 deservings
@@ -5856,6 +5855,7 @@ deadtongue
 dags
 dentaries
 dermatocoptic
+deerflies
 devotary
 deprecating
 doorbrand

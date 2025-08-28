@@ -10772,7 +10772,6 @@ affricates
 ammodytoid
 abortionist
 ammonate
-anaesthetics
 angleworms
 asphodelaceae
 amphibryous
@@ -12294,6 +12293,7 @@ anticourt
 angelocracy
 agatine
 anisotropic
+anaesthetics
 androclinia
 androclinium
 androclus
