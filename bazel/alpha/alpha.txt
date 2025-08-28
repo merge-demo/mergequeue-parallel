@@ -9763,6 +9763,7 @@ aguilawood
 acquiescently
 amaranth
 antacids
+alfileria
 amaranthaceae
 appale
 anthologist
@@ -22284,7 +22285,6 @@ astrology
 astrologically
 astrologist
 astriction
-alfileria
 astrologistic
 anagrammatise
 astrologize
