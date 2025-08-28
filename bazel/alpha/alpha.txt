@@ -5361,7 +5361,6 @@ afshah
 aft
 afteract
 alexin
-afterattack
 afterstorm
 appetitive
 avidiously
@@ -19733,6 +19732,7 @@ armadillidium
 archplotter
 armadillos
 astrocyte
+afterattack
 arythmically
 annexitis
 aminolytic
