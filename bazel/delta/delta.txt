@@ -1365,6 +1365,7 @@ definer
 dauphine
 dauphines
 drooping
+disconnects
 drawboard
 dauri
 dorter
@@ -11614,7 +11615,6 @@ dalmatian
 disconnection
 disconnector
 demicannon
-disconnects
 denotable
 devillike
 disconsent
