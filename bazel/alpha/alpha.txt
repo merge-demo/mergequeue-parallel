@@ -1226,7 +1226,6 @@ aboded
 acanthopodous
 aqueously
 acanthopomatous
-acanthopteran
 acanthopterygian
 attached
 acanthopterygii
@@ -13197,6 +13196,7 @@ applaud
 anisochromatic
 achaemenian
 anisocytosis
+acanthopteran
 aval
 apograph
 anisocotyledonous
