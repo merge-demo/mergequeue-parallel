@@ -9093,7 +9093,6 @@ boylikeness
 bioscopy
 bioscopic
 bioastronautical
-bedecorate
 ballistocardiograph
 biosensor
 bearishness
@@ -9481,6 +9480,7 @@ babingtonite
 bookshelf
 biron
 byronesque
+bedecorate
 byronic
 beirut
 brahmaness
