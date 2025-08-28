@@ -3330,7 +3330,6 @@ bluecoat
 beid
 batocrinus
 beal
-banatite
 bromargyrite
 basketwork
 blueballs
@@ -15653,6 +15652,7 @@ bogglebo
 barbering
 battarism
 brunonia
+banatite
 broadlooms
 bourrides
 barbarously
