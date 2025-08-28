@@ -16573,7 +16573,6 @@ capsules
 cloisterwise
 cloistral
 concoagulation
-chamisos
 cloke
 clokies
 casthouse
@@ -25002,6 +25001,7 @@ cystonectous
 craftmanship
 crosscourt
 corduroyed
+chamisos
 costiferous
 celotex
 corduroying
