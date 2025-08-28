@@ -6438,7 +6438,6 @@ ammonea
 ahuula
 amatorially
 ahwal
-amyosthenia
 akamnik
 anomura
 albahaca
@@ -24403,6 +24402,7 @@ autotimer
 autotypy
 autotypic
 autotypography
+amyosthenia
 autotomise
 armbands
 autotomised
