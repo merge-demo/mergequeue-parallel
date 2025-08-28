@@ -1681,7 +1681,6 @@ balmonies
 bloodroot
 balmoral
 benefits
-besoms
 balmorals
 bedticks
 bated
@@ -1929,6 +1928,7 @@ befuddles
 bonniest
 bework
 basilicae
+besoms
 boreus
 bandsawn
 bandsman
