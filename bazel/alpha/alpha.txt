@@ -24146,6 +24146,7 @@ auriscalpia
 ambuscade
 antipapacy
 autoloader
+archistome
 alangin
 autology
 autological
@@ -25033,7 +25034,6 @@ alternater
 astraddle
 awoken
 awols
-archistome
 almah
 awork
 antelation
