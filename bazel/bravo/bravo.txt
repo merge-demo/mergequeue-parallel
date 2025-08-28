@@ -10775,6 +10775,7 @@ boylike
 brutalise
 brosse
 brewster
+bleaty
 bradford
 blacked
 borism
@@ -16134,7 +16135,6 @@ barbudo
 braird
 bilbie
 brotherwort
-bleaty
 brotocrystal
 bromoform
 betweenwhiles
