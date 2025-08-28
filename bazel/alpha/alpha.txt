@@ -4894,7 +4894,6 @@ aerometric
 aeronat
 aeronaut
 aeronautic
-aeronautical
 aeronomer
 amyliferous
 aumil
@@ -22309,6 +22308,7 @@ astronomy
 aeschynomene
 aphototropism
 astronomical
+aeronautical
 archin
 ajenjo
 astronomics
