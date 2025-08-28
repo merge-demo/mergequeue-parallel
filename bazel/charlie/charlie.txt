@@ -23081,7 +23081,6 @@ constantan
 constantine
 constantinian
 constantinopolitan
-chasten
 catechumenate
 canvassed
 constantly
@@ -25758,6 +25757,7 @@ corrosived
 corrosively
 collegiality
 corrosiveness
+chasten
 corrosives
 chironomy
 calcars
