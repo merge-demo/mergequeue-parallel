@@ -10815,7 +10815,6 @@ dipware
 diver
 disadvantageous
 diquat
-dirdums
 disillusionizing
 demirelief
 directdiscourse
@@ -16821,6 +16820,7 @@ drawback
 drawbar
 duodecimals
 decussation
+dirdums
 daisybush
 demitube
 dyscrasial
