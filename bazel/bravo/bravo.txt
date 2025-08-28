@@ -6908,6 +6908,7 @@ barchan
 bitumed
 brandywine
 besetment
+bozo
 besetters
 blessed
 besew
@@ -13988,7 +13989,6 @@ bluecup
 bolometrically
 bensel
 boxwoods
-bozo
 basher
 brittlest
 brontops
