@@ -11797,7 +11797,6 @@ disobligatory
 dioscorine
 discrepancies
 decanormal
-discrepancries
 deterger
 disbrain
 determinating
@@ -12674,6 +12673,7 @@ dibble
 disembodying
 decomposable
 diskelion
+discrepancries
 downwarp
 disker
 dystomic
