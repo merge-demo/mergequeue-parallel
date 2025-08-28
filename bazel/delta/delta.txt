@@ -2252,7 +2252,6 @@ durax
 dyewoods
 decemfoliate
 dogmas
-decempedal
 demotion
 dominiums
 decemplex
@@ -11102,6 +11101,7 @@ diakinesis
 decarbonylate
 disconcertedness
 delphinius
+decempedal
 disappearer
 diamagnetically
 droning
