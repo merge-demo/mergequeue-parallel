@@ -4805,6 +4805,7 @@ bollix
 brazenface
 bikh
 beshrouded
+bradypodoid
 bedstraw
 bedstraws
 bedstring
@@ -6813,7 +6814,6 @@ batten
 berthed
 birdeye
 berther
-bradypodoid
 buprestidan
 bradylalia
 bertie
