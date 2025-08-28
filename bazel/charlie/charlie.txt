@@ -8512,6 +8512,7 @@ chamsin
 compositionally
 cataclysmatic
 congealedness
+curatage
 chimbley
 corslet
 chanca
@@ -26961,7 +26962,6 @@ counterplead
 corrido
 coriandrum
 counterplotter
-curatage
 conjure
 chimneypot
 counterpoints
