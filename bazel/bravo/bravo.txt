@@ -2276,6 +2276,7 @@ bowwood
 belabor
 barbellulate
 boozing
+bathysphere
 blossombill
 broom
 bicarbonates
@@ -3563,7 +3564,6 @@ berkeleyite
 bakula
 bien
 bitsy
-bathysphere
 bigmouths
 boliviano
 bathythermograph
