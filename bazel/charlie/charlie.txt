@@ -9219,7 +9219,6 @@ catarrh
 csects
 carbonylic
 chastener
-cashaw
 chasteners
 coplanation
 chastenment
@@ -20905,6 +20904,7 @@ campership
 coleoptile
 cevennian
 chenopodiaceous
+cashaw
 collegiums
 comprend
 compresbyterial
