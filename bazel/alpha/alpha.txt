@@ -6805,6 +6805,7 @@ ablepharia
 anthranil
 argyranthemous
 antivitalistic
+antierosive
 alkalified
 airtimes
 alanyls
@@ -10264,7 +10265,6 @@ amoebian
 amendment
 amendments
 amene
-antierosive
 amenorrheic
 amenorrho
 amenorrhoea
