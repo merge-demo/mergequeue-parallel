@@ -552,7 +552,6 @@ damageably
 detonatable
 damaged
 dichroic
-detort
 damageous
 deaccessions
 dovyalis
@@ -14087,6 +14086,7 @@ dockyardman
 dishorner
 dragging
 depravation
+detort
 decommissioning
 dyspepsies
 draughtman
