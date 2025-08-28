@@ -3530,7 +3530,6 @@ atropinize
 adenohypersthenia
 adenohypophyseal
 atry
-applyingly
 adenoidal
 adenoidectomy
 aluminous
@@ -23412,6 +23411,7 @@ anarcotin
 algaeology
 auguring
 augurous
+applyingly
 achroma
 amicus
 august
