@@ -3084,7 +3084,6 @@ barques
 bonitas
 boithrin
 butylene
-basculation
 bulbils
 bambuk
 blindfold
@@ -12918,6 +12917,7 @@ biforate
 boothite
 bearfoot
 bialy
+basculation
 bootlegs
 bootlessly
 bootlessness
