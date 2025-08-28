@@ -2085,6 +2085,7 @@ anthropological
 alfin
 afounde
 auspicial
+actinogram
 achillize
 aerobically
 agave
@@ -2949,7 +2950,6 @@ actinogonidiate
 auditors
 anthropopathite
 appear
-actinogram
 aerophore
 appearances
 actinograph
