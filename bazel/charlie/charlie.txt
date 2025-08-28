@@ -9537,6 +9537,7 @@ commonize
 checkrack
 casehardens
 cricotracheotomy
+crawlingly
 checkrein
 checkroll
 compathy
@@ -28309,7 +28310,6 @@ crawlers
 creamometer
 crawlier
 crawliest
-crawlingly
 crawlsome
 crawlspace
 cliented
