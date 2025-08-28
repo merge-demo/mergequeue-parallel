@@ -3693,7 +3693,6 @@ bucketful
 bangalow
 bally
 batteaux
-bastinades
 bedirty
 bonnering
 battement
@@ -16999,6 +16998,7 @@ bulkheading
 bulky
 bulkily
 bitterweed
+bastinades
 befavour
 beachlamar
 bihydrazine
