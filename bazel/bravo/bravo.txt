@@ -7941,6 +7941,7 @@ borderside
 bedunced
 bename
 beclad
+bishop
 brusher
 bicarbureted
 bicarburetted
@@ -9610,7 +9611,6 @@ bifluoride
 byblis
 behaviourism
 bothridia
-bishop
 bummer
 backbeats
 bonete
