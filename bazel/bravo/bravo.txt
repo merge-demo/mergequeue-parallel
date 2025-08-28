@@ -11545,6 +11545,7 @@ becolme
 borane
 blurriness
 bloodlust
+boatmanship
 blurringly
 broaden
 blurter
@@ -11651,7 +11652,6 @@ bankerdom
 butterwife
 boatloader
 beigy
-boatmanship
 busied
 boats
 boatsetter
