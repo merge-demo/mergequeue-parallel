@@ -4697,7 +4697,6 @@ ceiler
 carphophis
 carpid
 cogredient
-conclaves
 carpincho
 carping
 canceration
@@ -16414,6 +16413,7 @@ clivis
 clivus
 coeffects
 clk
+conclaves
 clo
 cloaca
 cloacae
