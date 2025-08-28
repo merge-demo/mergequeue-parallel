@@ -15488,7 +15488,6 @@ buglet
 bryonia
 belloot
 bryophyllum
-bouncy
 babirusa
 broomstick
 blaubok
@@ -17238,6 +17237,7 @@ beman
 brahmanistic
 blastogenetic
 bugala
+bouncy
 bummack
 bikeways
 brechan
