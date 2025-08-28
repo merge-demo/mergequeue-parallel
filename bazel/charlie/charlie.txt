@@ -16697,7 +16697,6 @@ clote
 chayota
 cottontop
 clomb
-cloth
 cercopithecid
 clothe
 clothed
@@ -27887,6 +27886,7 @@ cognosce
 cradlemaker
 cradlemate
 cemeteries
+cloth
 camerlengos
 celeomorphic
 clinoclase

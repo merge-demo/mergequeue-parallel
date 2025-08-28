@@ -10038,7 +10038,6 @@ bairntime
 byzantine
 byzantinize
 buggers
-barmecide
 bottlemaking
 brasser
 beautician
@@ -14255,6 +14254,7 @@ braehead
 bulblet
 bronchiogenic
 brochidodromous
+barmecide
 benefactory
 begoud
 brens
