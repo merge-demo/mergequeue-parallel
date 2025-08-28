@@ -3775,7 +3775,6 @@ dateable
 dynamites
 distrain
 dooputty
-deice
 disseizoress
 defibrillation
 deicers
@@ -17756,6 +17755,7 @@ dichondra
 dietotoxic
 dubitably
 deflagrates
+deice
 discoloring
 drachmal
 devaluing
