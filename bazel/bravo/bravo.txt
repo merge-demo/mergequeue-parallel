@@ -4147,7 +4147,6 @@ broths
 beastishness
 bearishly
 brit
-bombes
 birdwatch
 barbastel
 bagwigs
@@ -5692,6 +5691,7 @@ boer
 barony
 biogeochemical
 bibliotaph
+bombes
 beleper
 bicycle
 balandra
