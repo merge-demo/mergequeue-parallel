@@ -6987,6 +6987,7 @@ censurability
 censurably
 cutlips
 censure
+conative
 censureless
 coexecutant
 census
@@ -21087,7 +21088,6 @@ conationalistic
 comelily
 curatic
 conations
-conative
 conflab
 coercions
 conatus
