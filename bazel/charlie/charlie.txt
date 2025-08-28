@@ -6849,6 +6849,7 @@ celomata
 celoscope
 consultee
 celotomies
+chubascos
 clonks
 cloze
 celsian
@@ -12620,7 +12621,6 @@ chauffeuses
 chthonian
 conciliators
 chub
-chubascos
 coons
 candlepin
 chubby
