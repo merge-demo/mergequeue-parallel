@@ -5396,7 +5396,6 @@ aftercost
 aftercrop
 acanthodian
 aftercure
-affrontment
 afterdays
 antifoam
 amadou
@@ -15477,6 +15476,7 @@ absentness
 astrophysics
 anthracnose
 angelot
+affrontment
 actualized
 arrack
 antimonarchism
