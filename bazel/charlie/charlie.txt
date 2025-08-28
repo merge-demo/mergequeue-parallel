@@ -5157,7 +5157,6 @@ cercis
 cashoo
 cashou
 castory
-casimir
 cartes
 casimiroa
 curarine
@@ -21221,6 +21220,7 @@ cohabitations
 clackers
 chinbeak
 chatwood
+casimir
 concertante
 countersank
 concertation
