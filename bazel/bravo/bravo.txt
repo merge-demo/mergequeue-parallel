@@ -6533,7 +6533,6 @@ bklr
 bequeathed
 barothermohygrogram
 bruges
-blooping
 biokinetics
 bartramiaceae
 buckeyes
@@ -15569,6 +15568,7 @@ blijver
 blandishingly
 britishhood
 britishism
+blooping
 bawls
 boultell
 bodenbenderite
