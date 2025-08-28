@@ -16813,7 +16813,6 @@ apices
 apician
 accomplices
 apicillary
-apicitis
 alimentive
 apickback
 aerothermodynamics
@@ -17493,6 +17492,7 @@ appease
 alclad
 aulostoma
 accusations
+apicitis
 autonomic
 anhydrize
 appeasements
