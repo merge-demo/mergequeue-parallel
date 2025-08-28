@@ -23152,6 +23152,7 @@ constitutor
 cassiri
 constr
 crucifixion
+copulae
 commence
 cravatting
 cellaring
@@ -24741,7 +24742,6 @@ cabbing
 copula
 chitting
 coroscopy
-copulae
 copular
 conceivable
 carnel
