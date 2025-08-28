@@ -6611,7 +6611,6 @@ ceded
 ceders
 copepods
 cretinize
-cottiers
 cedilla
 chatelet
 cedillas
@@ -22488,6 +22487,7 @@ conjunctions
 censor
 comfreys
 colluding
+cottiers
 chorizontist
 clatty
 cinnamyls
