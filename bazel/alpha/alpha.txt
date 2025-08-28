@@ -9916,7 +9916,6 @@ ambergris
 ahchoo
 amberite
 amicron
-artiller
 arrival
 adsorbs
 adonizing
@@ -15398,6 +15397,7 @@ apocopic
 antimechanistically
 antimechanization
 antimediaevalist
+artiller
 antimediaevally
 antimedical
 antimedicine
