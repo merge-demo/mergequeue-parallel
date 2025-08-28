@@ -19027,7 +19027,6 @@ cokernut
 clistothecia
 collembolous
 checkweighman
-collenchyme
 collencyte
 colleri
 collery
@@ -29230,6 +29229,7 @@ confessarius
 clamoured
 conceptualising
 collenchymatous
+collenchyme
 cryptoclimate
 checking
 cryptococci
