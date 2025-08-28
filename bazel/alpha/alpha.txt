@@ -9342,7 +9342,6 @@ annularity
 alquier
 anthomaniac
 aversions
-antistater
 antigenically
 aerobated
 assessments
@@ -9659,6 +9658,7 @@ amabel
 amabile
 amable
 allegatum
+antistater
 amacratic
 amacrinal
 amadan
