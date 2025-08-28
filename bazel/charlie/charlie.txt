@@ -28976,7 +28976,6 @@ cals
 criminologic
 criminological
 criminologically
-cenatory
 criminologies
 criminologist
 carminic
@@ -30800,6 +30799,7 @@ clarigold
 cullionly
 cullisance
 cannibalish
+cenatory
 colicweed
 consonances
 cervicolabial
