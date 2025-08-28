@@ -317,7 +317,6 @@ backare
 baal
 backpacker
 burdensomeness
-biogeny
 beaune
 brachiocyllosis
 benignancies
@@ -13741,6 +13740,7 @@ barehanded
 bandlet
 buccaned
 bedmaker
+biogeny
 blossomtime
 boatyard
 bromocyanogen
