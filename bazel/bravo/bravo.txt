@@ -4406,7 +4406,6 @@ branchiogenous
 begloom
 befleas
 belchers
-bypassing
 becloaks
 blackfriars
 bandleader
@@ -15584,6 +15583,7 @@ blair
 brittany
 brittle
 bunkos
+bypassing
 beclasping
 boner
 bailage
