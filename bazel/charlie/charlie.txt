@@ -46,6 +46,7 @@ cabane
 cabaret
 cabasa
 corder
+cibation
 cabbage
 chuffily
 commends
@@ -24904,7 +24905,6 @@ countersigning
 clemclemalats
 concentrating
 cubomedusae
-cibation
 czaristic
 coraveca
 corbeau
