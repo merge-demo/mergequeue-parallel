@@ -8610,7 +8610,6 @@ dibatis
 dystaxia
 diapsida
 discolored
-dyskinetic
 deathin
 douanier
 dyarchy
@@ -13222,6 +13221,7 @@ decomposed
 diuturnal
 disgruntles
 displaceability
+dyskinetic
 disleave
 dilly
 display
