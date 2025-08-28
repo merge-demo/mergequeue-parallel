@@ -2945,6 +2945,7 @@ barricaded
 bookable
 barricaders
 barricadoes
+boondoggled
 blayk
 breathing
 bemazed
@@ -12675,7 +12676,6 @@ boogum
 bourd
 bolshevism
 blunderheaded
-boondoggled
 boohooing
 besilver
 bear
