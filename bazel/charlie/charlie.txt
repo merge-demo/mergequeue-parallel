@@ -17664,6 +17664,7 @@ cochliodontidae
 cochlite
 cochlospermaceae
 coffeeleaf
+colorate
 cochlospermum
 catatoniac
 cochon
@@ -19378,7 +19379,6 @@ cherubin
 consecrating
 colorant
 colorants
-colorate
 coloration
 colorative
 centrifugally
