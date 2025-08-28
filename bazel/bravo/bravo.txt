@@ -4007,7 +4007,6 @@ builds
 barcelonas
 besquib
 bostryx
-beadswomen
 broadcasting
 begetters
 beadwork
@@ -12258,6 +12257,7 @@ boltmaker
 blee
 bombaster
 berakoth
+beadswomen
 begob
 bowfront
 biquartz
