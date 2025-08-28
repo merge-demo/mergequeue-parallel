@@ -1464,7 +1464,6 @@ algid
 alpinery
 acclimatizer
 aleiptic
-anthela
 acclimatizes
 amphipneustic
 agreeableness
@@ -7914,6 +7913,7 @@ anticynic
 addlepatedness
 alexandrine
 alexandrite
+anthela
 anostosis
 accadian
 altruistically
