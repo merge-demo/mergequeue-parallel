@@ -3902,7 +3902,6 @@ discommunity
 designating
 disherits
 dekameters
-decumani
 dekapode
 duo
 dermopathic
@@ -7785,6 +7784,7 @@ detachability
 devolatilised
 dosimetries
 dryrot
+decumani
 diplospondyli
 dagestan
 depeople
