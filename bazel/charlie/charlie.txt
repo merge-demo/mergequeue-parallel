@@ -1886,7 +1886,6 @@ chaumer
 cajava
 cambuca
 cambuscan
-came
 camel
 comforted
 cameleer
@@ -29715,6 +29714,7 @@ commons
 crookedly
 crookedness
 crookery
+came
 crookesite
 continuous
 crookheaded
