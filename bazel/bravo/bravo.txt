@@ -8652,6 +8652,7 @@ bilsteds
 blepharostat
 bahada
 birching
+barcas
 branners
 bimalar
 bimana
@@ -11777,7 +11778,6 @@ bugbears
 beefheaded
 burgled
 boilerhouse
-barcas
 benefactrixes
 boccias
 boccie
