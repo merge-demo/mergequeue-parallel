@@ -7215,7 +7215,6 @@ centrodorsal
 centroids
 cyanophilous
 conte
-chalcidic
 centromere
 centromeric
 centronote
@@ -21296,6 +21295,7 @@ conchiferous
 caldadaria
 compulsively
 conchyliated
+chalcidic
 convolved
 conchyliferous
 conchylium
