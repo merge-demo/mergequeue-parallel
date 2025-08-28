@@ -13254,7 +13254,6 @@ bedstaff
 bokard
 bossily
 bowler
-bosniac
 bucketfuls
 bostanji
 bosthoon
@@ -17754,6 +17753,7 @@ blepharoconjunctivitis
 buccinal
 buzzle
 burrgrailer
+bosniac
 basementless
 base
 braiders
