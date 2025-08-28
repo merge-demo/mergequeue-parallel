@@ -6495,7 +6495,6 @@ dipeptid
 dentellated
 disqualification
 directable
-drumroll
 delignated
 disomatous
 descendent
@@ -13861,6 +13860,7 @@ dindle
 distain
 distance
 denumeration
+drumroll
 diatomic
 demast
 descried
