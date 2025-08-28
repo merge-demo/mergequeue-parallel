@@ -10608,6 +10608,7 @@ blusterous
 bluing
 backlands
 both
+bullionism
 bisti
 belemnite
 blazonment
@@ -16014,7 +16015,6 @@ bannered
 bronzewing
 bio
 bcd
-bullionism
 blitzbuggy
 bassetted
 broo
