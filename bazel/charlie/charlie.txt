@@ -146,7 +146,6 @@ colophany
 casterless
 cables
 changeabout
-cablet
 cabling
 cablish
 contentiousness
@@ -13405,6 +13404,7 @@ cid
 cidaris
 cheatrie
 carbolating
+cablet
 cymols
 cassida
 catchingly
