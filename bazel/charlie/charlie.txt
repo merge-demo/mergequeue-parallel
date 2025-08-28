@@ -7899,7 +7899,6 @@ cocytus
 ceticide
 chitinization
 cetyl
-cetylic
 caquet
 cebids
 chaetangium
@@ -25096,6 +25095,7 @@ convento
 chincher
 corespect
 corespondent
+cetylic
 cystoflagellate
 coretomy
 chrysalidian
