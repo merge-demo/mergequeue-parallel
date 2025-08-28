@@ -4308,7 +4308,6 @@ disjunctor
 demasculinise
 dorsointestinal
 divisors
-dermophytic
 dem
 demagnetisation
 dovelet
@@ -17178,6 +17177,7 @@ decuries
 decine
 dipygi
 devarshi
+dermophytic
 drilling
 drillman
 discourser
