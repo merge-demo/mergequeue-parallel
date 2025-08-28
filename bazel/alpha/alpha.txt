@@ -12049,7 +12049,6 @@ anatomicochirurgical
 ammonifier
 arterioverter
 acedia
-anatomicopathologic
 arteriofibrosis
 anatomise
 anatomiser
@@ -21469,6 +21468,7 @@ autotypies
 aspidistra
 aminoquinoline
 archaeolatry
+anatomicopathologic
 autobiographal
 aurorean
 aspidistras
