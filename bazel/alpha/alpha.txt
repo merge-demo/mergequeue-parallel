@@ -6438,6 +6438,7 @@ arboretum
 ahunt
 azocyclic
 antireality
+ammonea
 ahuula
 amatorially
 ahwal
@@ -24499,7 +24500,6 @@ abiogenetically
 auxograph
 abamperes
 auxology
-ammonea
 auxospore
 anticommunism
 aniba
