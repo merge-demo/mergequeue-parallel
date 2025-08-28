@@ -8980,7 +8980,6 @@ biographies
 backspang
 besleeve
 boulangist
-balei
 bummerish
 besotting
 baybush
@@ -11645,6 +11644,7 @@ boatless
 banjoes
 bewonder
 brahminist
+balei
 bombardmen
 belace
 bankerdom
