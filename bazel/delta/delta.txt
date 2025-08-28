@@ -401,7 +401,6 @@ deployable
 drumbledore
 disembargoing
 dimmet
-daimons
 dottore
 ditches
 dehydrogenization
@@ -11876,6 +11875,7 @@ devonport
 detoxicate
 doylies
 discerningly
+daimons
 disculpatory
 diaphanousness
 deashes
