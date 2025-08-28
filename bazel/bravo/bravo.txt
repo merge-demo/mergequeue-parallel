@@ -5134,7 +5134,6 @@ bunkery
 bridesmaid
 belching
 borderers
-baffle
 boussingaultite
 bunrakus
 beflecked
@@ -15009,6 +15008,7 @@ benote
 befetter
 betiding
 bicuspidal
+baffle
 breenger
 bogberries
 benedictine
