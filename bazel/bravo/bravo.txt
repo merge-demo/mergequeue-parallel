@@ -16580,6 +16580,7 @@ beltings
 blastogeny
 bilaminated
 buccin
+baroni
 biometry
 berascals
 bousy
@@ -18390,7 +18391,6 @@ bilinite
 bohea
 buzzies
 budwood
-baroni
 bedarkens
 biaxal
 blubbered
