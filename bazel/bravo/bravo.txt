@@ -14894,7 +14894,6 @@ bura
 balantidium
 breastheight
 baldie
-begulfing
 breasthook
 bumpee
 breastie
@@ -17434,6 +17433,7 @@ buntine
 brawlie
 bastardizing
 bromohydrate
+begulfing
 bipinnatiparted
 blacknob
 buphthalmum
