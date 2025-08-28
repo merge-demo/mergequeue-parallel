@@ -2697,6 +2697,7 @@ cankery
 cannoneering
 cankerroot
 cauponize
+carriageable
 cankers
 cultivators
 comedowns
@@ -28179,7 +28180,6 @@ compoundness
 crapple
 capreolus
 cyclometries
-carriageable
 crapshooters
 crumlet
 colchyte
