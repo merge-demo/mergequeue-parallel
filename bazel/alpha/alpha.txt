@@ -14971,7 +14971,6 @@ anticreatively
 anticreativity
 aesculetin
 anticreeping
-anametadromous
 antigyrous
 anticryptic
 aglossate
@@ -17384,6 +17383,7 @@ aves
 apotheosize
 apotheosized
 apothesine
+anametadromous
 anteportico
 amercers
 aluminizes

@@ -3479,6 +3479,7 @@ bracket
 blights
 berzeliite
 batad
+bephrase
 besplash
 barbascoes
 barrages
@@ -6500,7 +6501,6 @@ bacteriotrypsin
 booley
 boltropes
 bronchopneumonic
-bephrase
 brachiopodist
 bepicture
 bugology
