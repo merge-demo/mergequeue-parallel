@@ -3395,7 +3395,6 @@ deuteroalbumose
 deerlet
 doddy
 dyscratic
-deflore
 dubash
 disgarland
 deceleron
@@ -13950,6 +13949,7 @@ derisive
 distyle
 distill
 demiurgic
+deflore
 disinhabit
 denshare
 dramatics
