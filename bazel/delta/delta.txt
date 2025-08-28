@@ -59,7 +59,6 @@ dacryagogue
 dropworts
 discursiveness
 dacryocyst
-dacryocystitis
 diarchial
 dacryocystoptosis
 dacryocystosyringotomy
@@ -6272,6 +6271,7 @@ diplokaryon
 dweeble
 doldrums
 dermatoneurosis
+dacryocystitis
 dustuck
 disprize
 doggier
