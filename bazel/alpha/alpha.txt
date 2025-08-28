@@ -11403,7 +11403,6 @@ amtman
 amtracks
 alephs
 adnexitis
-actinopterygian
 amtracs
 amygdalae
 amu
@@ -15197,6 +15196,7 @@ aliptes
 askant
 antifrost
 antifundamentalism
+actinopterygian
 albertinian
 alkalinized
 actiniarian
