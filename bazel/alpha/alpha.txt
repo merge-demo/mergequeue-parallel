@@ -3794,7 +3794,6 @@ agaphite
 anagrammatism
 adjoinedly
 analphabetism
-apprises
 amalgamating
 adjoiner
 anapaestic
@@ -6374,6 +6373,7 @@ abandoner
 ahey
 attenuating
 acquaintances
+apprises
 aheight
 anthropophysite
 abashedly
