@@ -2494,7 +2494,6 @@ buckraming
 billbugs
 beechwoods
 burian
-bhut
 bedark
 barge
 bargelike
@@ -9480,6 +9479,7 @@ biron
 byronesque
 bedecorate
 byronic
+bhut
 beirut
 brahmaness
 beaconage
