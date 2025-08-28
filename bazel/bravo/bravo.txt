@@ -3945,7 +3945,6 @@ bergamasca
 birdbanding
 bdelloura
 bigothero
-bassette
 bdellouridae
 behelp
 bdellovibrio
@@ -14416,6 +14415,7 @@ bewailment
 boggled
 blackbeetle
 bingee
+bassette
 bathochromic
 breeds
 bowralite
