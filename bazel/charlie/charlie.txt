@@ -2009,6 +2009,7 @@ chionanthus
 cornelian
 camooch
 camoodie
+cantor
 commandants
 camorras
 camorrism
@@ -20612,7 +20613,6 @@ complacence
 chlorella
 complacency
 complacent
-cantor
 citrate
 cosmosophy
 cahow
