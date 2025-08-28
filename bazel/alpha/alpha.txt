@@ -1362,7 +1362,6 @@ accentually
 appertise
 accension
 appointable
-agapanthus
 accept
 acceptability
 agonist
@@ -4344,6 +4343,7 @@ adumbrated
 abductores
 adumbrating
 adumbrations
+agapanthus
 asthenias
 allemande
 adumbrative
