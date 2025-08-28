@@ -618,7 +618,6 @@ bierkeller
 bonjour
 barniest
 bibbery
-berstel
 billmen
 beclothed
 bacteremic
@@ -2562,6 +2561,7 @@ banzai
 babbitter
 boringness
 baris
+berstel
 bodefulness
 bearleap
 bobadil

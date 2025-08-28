@@ -10140,7 +10140,6 @@ ambulatory
 ambulatoria
 alternating
 affluent
-affectious
 agraphias
 ambulatories
 ambulatorium
@@ -21609,6 +21608,7 @@ assecure
 assecution
 amend
 acaudal
+affectious
 achromatophil
 algogenic
 assegaiing
