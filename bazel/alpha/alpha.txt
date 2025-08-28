@@ -6696,6 +6696,7 @@ airfoil
 airfoils
 actualising
 adiate
+accretion
 airglow
 airglows
 airgraphics
@@ -15912,7 +15913,6 @@ antiquated
 anacreontic
 aceanthrenequinone
 abundantia
-accretion
 antiqueness
 antiques
 antiquing
