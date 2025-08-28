@@ -6516,7 +6516,6 @@ doxological
 descends
 deviability
 dialectic
-dircaean
 dynel
 deerstalker
 descension
@@ -17682,6 +17681,7 @@ disty
 dioscorein
 deratizing
 dualize
+dircaean
 diaclase
 dvorak
 decare
