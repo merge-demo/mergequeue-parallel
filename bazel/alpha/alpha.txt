@@ -10274,7 +10274,6 @@ allotheria
 ankylopoietic
 autompne
 amentiform
-aplodiorite
 aerobe
 asseveratively
 advehent
@@ -10667,6 +10666,7 @@ analogic
 aminta
 amyosthenic
 amyotonia
+aplodiorite
 amiray
 asseveratory
 appendicious
