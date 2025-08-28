@@ -7464,7 +7464,6 @@ cytogenetical
 ceratoglossal
 ceratohyal
 consentaneously
-ceratohyoid
 ceratoid
 calves
 cartellist
@@ -22707,6 +22706,7 @@ consacre
 consanguine
 coinsured
 chevise
+ceratohyoid
 consanguinean
 caballeros
 consanguineous
