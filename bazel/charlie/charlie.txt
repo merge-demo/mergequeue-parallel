@@ -4975,7 +4975,6 @@ counterprove
 carucarius
 clipsheets
 carucate
-carum
 coachwork
 correlational
 coloristic
@@ -15631,6 +15630,7 @@ cochins
 cholesterinemia
 claudetites
 coupleress
+carum
 claudicant
 comebacks
 cochineal
