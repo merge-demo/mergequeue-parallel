@@ -8857,6 +8857,7 @@ belch
 biobibliographer
 barleysick
 bioblastic
+brilliance
 bima
 backwoodsiness
 bungaloid
@@ -15365,7 +15366,6 @@ bradytocia
 bicone
 binominous
 brillante
-brilliance
 braata
 birefraction
 bereave
