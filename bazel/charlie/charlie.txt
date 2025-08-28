@@ -888,6 +888,7 @@ cajun
 cajuput
 chemoses
 catharan
+claviature
 cajuputene
 chenar
 colocates
@@ -18457,7 +18458,6 @@ cohead
 celiorrhea
 coheading
 coheads
-claviature
 cassate
 cessations
 cursor
