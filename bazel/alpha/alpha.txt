@@ -11976,7 +11976,6 @@ abducent
 alpenhorns
 autocratical
 abduced
-anastases
 admiral
 assentation
 anastasia
@@ -13596,6 +13595,7 @@ addressee
 anodically
 anodyne
 anaphroditous
+anastases
 anodized
 anodizes
 acoelomous
