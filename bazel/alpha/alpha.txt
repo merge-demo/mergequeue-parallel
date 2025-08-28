@@ -8492,6 +8492,7 @@ aerograms
 alkin
 avarish
 anthologize
+assistanted
 alkyne
 argufy
 alkool
@@ -21779,7 +21780,6 @@ accipter
 abstracted
 assistance
 agleam
-assistanted
 assister
 assistful
 acalycine
