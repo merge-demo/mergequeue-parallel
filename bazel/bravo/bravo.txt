@@ -7768,7 +7768,6 @@ bottomchrome
 bezante
 biallyl
 breach
-bianca
 bellum
 birchman
 biangulate
@@ -9223,6 +9222,7 @@ besting
 biphenylene
 biphenol
 berrying
+bianca
 bashfulness
 bronchioli
 bipinnariae
