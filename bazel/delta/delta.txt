@@ -4067,7 +4067,6 @@ deliciae
 deliciouses
 deliciousness
 debouches
-delict
 deliquescence
 divertila
 delictual
@@ -5640,6 +5639,7 @@ devastates
 depictions
 dermomycosis
 depictment
+delict
 dandilly
 depicture
 distract
