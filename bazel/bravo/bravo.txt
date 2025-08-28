@@ -13760,7 +13760,6 @@ bovaristic
 banisher
 burgout
 bicycled
-bovate
 besmirching
 bovinely
 biochemists
@@ -17705,6 +17704,7 @@ barbicanage
 bemuzzled
 bott
 burnfire
+bovate
 baskonize
 burningly
 buckeens

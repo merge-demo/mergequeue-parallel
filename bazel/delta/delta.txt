@@ -9669,7 +9669,6 @@ dihydroxysuccinic
 dosshouse
 dulse
 digitise
-demitting
 dalasis
 disasterly
 dowcet
@@ -12670,6 +12669,7 @@ dechemicalization
 disjunctively
 deseed
 dolefullest
+demitting
 dibble
 disembodying
 decomposable
