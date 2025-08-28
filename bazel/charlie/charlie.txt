@@ -4116,7 +4116,6 @@ cortaro
 cardiologic
 clubbers
 cariogenic
-cardiologist
 cardiologists
 cardiomegaly
 cyclus
@@ -27265,6 +27264,7 @@ couponless
 coupons
 coups
 chemicking
+cardiologist
 comodo
 circumciser
 coupstick
