@@ -3001,6 +3001,7 @@ concent
 cantles
 cantlet
 cantline
+chromophore
 cantling
 canto
 confederatism
@@ -12476,7 +12477,6 @@ chromophobia
 chromophobic
 calamistrate
 clairvoyants
-chromophore
 conniver
 chromophorous
 chromophotography
