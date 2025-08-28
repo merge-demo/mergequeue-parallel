@@ -11902,7 +11902,6 @@ boffins
 brasset
 brackmard
 basten
-beta
 balsamodendron
 boffs
 boozify
@@ -15533,6 +15532,7 @@ bemired
 bareboat
 briss
 brist
+beta
 bufferrers
 baldberry
 bristled

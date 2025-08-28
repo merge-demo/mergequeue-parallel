@@ -31140,7 +31140,6 @@ cupellers
 cupflower
 centrode
 cupfulfuls
-canvassing
 cupholder
 cupid
 cupidinous
@@ -31402,6 +31401,7 @@ curiosities
 cephalom
 cremona
 curioso
+canvassing
 curious
 collylyria
 curiousest
