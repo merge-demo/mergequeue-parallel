@@ -810,7 +810,6 @@ abruption
 addedly
 abruptness
 apptd
-ambilogy
 algarot
 additur
 abrus
@@ -13148,6 +13147,7 @@ aegithognathous
 animous
 animus
 administrationist
+ambilogy
 animuses
 anyone
 anionic
