@@ -2236,7 +2236,6 @@ dedan
 debase
 dinoflagellatae
 drummed
-diapyetic
 deceiving
 defuzes
 deflex
@@ -8876,6 +8875,7 @@ dwarfed
 dcbname
 dinergate
 direr
+diapyetic
 dicalcium
 dicaryon
 dacoits

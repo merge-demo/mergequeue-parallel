@@ -7556,6 +7556,7 @@ astrohatch
 absorbencies
 anisil
 alcyonium
+asthenies
 alcippe
 airplaned
 axolemma
@@ -22038,7 +22039,6 @@ arpeggiando
 arrowstone
 archeology
 aortae
-asthenies
 asthenolith
 asthenology
 asthenophobia
