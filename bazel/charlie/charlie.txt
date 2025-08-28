@@ -15818,6 +15818,7 @@ caranga
 catnapper
 clearsightedness
 clearstarcher
+costeen
 clearstory
 chocker
 clearstoried
@@ -20230,7 +20231,6 @@ commonsensically
 commonweals
 commorient
 commorse
-costeen
 commorth
 commot
 commotions
