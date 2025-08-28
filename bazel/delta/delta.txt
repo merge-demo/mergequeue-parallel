@@ -3108,7 +3108,6 @@ distoclusion
 defaming
 disability
 downstairs
-domesticity
 duringly
 defaulted
 defaultless
@@ -16143,6 +16142,7 @@ denshire
 daimonistic
 dermathemia
 deathbed
+domesticity
 doughty
 dragading
 ditherer
