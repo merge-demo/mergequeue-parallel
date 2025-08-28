@@ -4058,6 +4058,7 @@ bskt
 beamroom
 baragnosis
 beams
+britons
 bargees
 bantlings
 bean
@@ -15575,7 +15576,6 @@ britishism
 bawls
 boultell
 bodenbenderite
-britons
 barley
 brits
 bridlewise
