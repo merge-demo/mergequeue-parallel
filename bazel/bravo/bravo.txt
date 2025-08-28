@@ -490,7 +490,6 @@ backswept
 backspaced
 backspacer
 brattles
-burree
 battik
 bearbind
 benzoates
@@ -3135,6 +3134,7 @@ bodyshirt
 bifurcates
 biuniquely
 basenesses
+burree
 bunda
 basenji
 blurrer

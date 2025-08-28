@@ -10935,6 +10935,7 @@ chironomid
 chastised
 chaparajos
 coinhabit
+coscet
 chironomus
 cosmologies
 chiroplasty
@@ -25933,7 +25934,6 @@ cantiga
 corvus
 cosaque
 coppled
-coscet
 coscinomancy
 chn
 cose
