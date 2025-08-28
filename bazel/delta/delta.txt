@@ -8408,6 +8408,7 @@ dysphasic
 drowned
 diallings
 dovefoot
+detritus
 deliracy
 disciplines
 dialog
@@ -10638,7 +10639,6 @@ diplomats
 drawfile
 diplonema
 deuteric
-detritus
 dunnaged
 diplont
 delisting
