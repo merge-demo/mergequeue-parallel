@@ -11803,6 +11803,7 @@ consentant
 chopa
 chalcids
 contradictories
+confirmation
 camber
 catechisms
 chopdar
@@ -21972,7 +21973,6 @@ californicus
 claquers
 confirmable
 cionocranial
-confirmation
 confirmational
 confirmations
 curvant
