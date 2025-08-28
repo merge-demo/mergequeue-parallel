@@ -539,6 +539,7 @@ dalmania
 dalmanites
 discocarpous
 dalmatic
+dimities
 dipylon
 dalt
 dawen
@@ -13322,7 +13323,6 @@ diphylleia
 detuned
 dogfish
 demersed
-dimities
 delegalized
 dispractice
 distillates
