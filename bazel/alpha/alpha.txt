@@ -16606,7 +16606,6 @@ adventures
 autoelevation
 apertural
 athrob
-affrighter
 acid
 antihumanism
 agast
@@ -24631,6 +24630,7 @@ aureolae
 aeneid
 antidiastase
 amelioration
+affrighter
 attatched
 abscising
 acnode
