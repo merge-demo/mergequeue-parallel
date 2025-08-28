@@ -6536,7 +6536,6 @@ blooping
 biokinetics
 bartramiaceae
 buckeyes
-bequests
 beray
 buster
 bushelful
@@ -14427,6 +14426,7 @@ beardlessness
 brainwave
 bibliothecae
 baragouinish
+bequests
 ballooners
 brainwood
 brairded
