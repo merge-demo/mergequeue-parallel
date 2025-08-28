@@ -3191,7 +3191,6 @@ capillarectasia
 cyrtograph
 cagester
 chinoiserie
-capilli
 cogracious
 clunks
 cosmoid
@@ -8749,6 +8748,7 @@ cytostome
 chapelries
 cinerins
 chapels
+capilli
 chiasmi
 chapelward
 chaperno
