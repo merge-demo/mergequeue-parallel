@@ -5600,7 +5600,6 @@ beknottedly
 basophile
 biotype
 bingos
-beknow
 blimpishly
 bel
 behoovingly
@@ -11663,6 +11662,7 @@ buddies
 bactericidally
 brandying
 biogen
+beknow
 bilsted
 blindfast
 boomless
