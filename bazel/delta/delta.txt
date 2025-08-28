@@ -2543,7 +2543,6 @@ declining
 directrices
 declivent
 derive
-declivity
 ducklingship
 deanthropomorphize
 dangled
@@ -9921,6 +9920,7 @@ dermatauxe
 discophorous
 dimethylbenzene
 disneyland
+declivity
 dimethyldiketone
 debarred
 dekarch
