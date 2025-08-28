@@ -2670,7 +2670,6 @@ bergalith
 benzoic
 barmcloth
 brither
-birdcage
 becoward
 bascules
 bebeerine
@@ -5726,6 +5725,7 @@ believers
 beamful
 basilical
 bureaucratese
+birdcage
 bibliotist
 bloomery
 blankite
