@@ -2491,6 +2491,7 @@ candidated
 candidates
 candidatures
 candide
+chancellorate
 churls
 candidiasis
 candidnesses
@@ -12107,7 +12108,6 @@ chroatol
 chows
 causer
 crambo
-chancellorate
 chowses
 carbarn
 chowtime
