@@ -813,6 +813,7 @@ dangerously
 deduced
 dangerousness
 distention
+deist
 demarcates
 decimals
 dangle
@@ -14921,7 +14922,6 @@ docudramas
 document
 disinfector
 documentable
-deist
 dos
 documental
 delimer
