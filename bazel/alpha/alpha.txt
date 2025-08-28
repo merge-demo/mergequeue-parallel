@@ -17733,7 +17733,6 @@ algomic
 adonia
 ablaze
 apport
-apportionable
 arctangent
 ampule
 apportioner
@@ -21271,6 +21270,7 @@ asyngamy
 anconeous
 asyngamic
 asininity
+apportionable
 asyntactic
 asyntrophy
 asiphonogama
