@@ -11215,7 +11215,6 @@ asrama
 amphioxuses
 amphipeptone
 assemblymen
-antistalling
 amphiplatyan
 acknowledge
 amphiploidy
@@ -23170,6 +23169,7 @@ accordances
 archicerebra
 attributer
 attributions
+antistalling
 attributively
 attributor
 ammonias
