@@ -6262,7 +6262,6 @@ caunch
 caunos
 caunter
 cooperator
-cephalalgic
 chucks
 caup
 caupo
@@ -9768,6 +9767,7 @@ classified
 chelydidae
 cholagogic
 centas
+cephalalgic
 chelidonic
 chelidonin
 casule
