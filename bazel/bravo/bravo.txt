@@ -15033,7 +15033,6 @@ bregmate
 brachypinacoidal
 brokenheartedness
 brehonia
-bovinity
 booster
 bason
 brehonship
@@ -18276,6 +18275,7 @@ bolimba
 boomeranging
 burrowing
 biovulate
+bovinity
 buffoonism
 borid
 bamah
