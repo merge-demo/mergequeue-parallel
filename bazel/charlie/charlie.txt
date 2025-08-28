@@ -3411,6 +3411,7 @@ caprigenous
 caprylic
 cymene
 caprylyl
+caprock
 coat
 caprylone
 chivarro
@@ -23457,7 +23458,6 @@ coralloidal
 chanidae
 contenu
 cosmozoan
-caprock
 coniothyrium
 conterminable
 centinormal
