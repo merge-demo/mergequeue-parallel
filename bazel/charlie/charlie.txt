@@ -15269,6 +15269,7 @@ clamminess
 clamming
 cloit
 clammyweed
+codilla
 clamorer
 cricketlike
 clamorers
@@ -17859,7 +17860,6 @@ codifiers
 codifies
 cue
 codifying
-codilla
 cephid
 converging
 codille
