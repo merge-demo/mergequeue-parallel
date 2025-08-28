@@ -189,6 +189,7 @@ damas
 demonstration
 decipherer
 daedaloid
+disaffinity
 diel
 dozen
 daedalous
@@ -14358,7 +14359,6 @@ ditty
 disseminates
 decardinalize
 didymoid
-disaffinity
 dittying
 dandified
 disadvantages
