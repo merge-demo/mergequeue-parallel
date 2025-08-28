@@ -9761,7 +9761,6 @@ augurer
 agamous
 agst
 amanuensis
-amapa
 ainsell
 arryish
 astoned
@@ -13172,6 +13171,7 @@ araks
 antiphysician
 anisandrous
 aberrant
+amapa
 anisanilide
 annotated
 african
