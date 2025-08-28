@@ -2614,7 +2614,6 @@ canepin
 cheeseflower
 chevet
 cursaro
-coign
 caner
 camelopardel
 canes
@@ -6326,6 +6325,7 @@ counterclaimant
 cornuted
 chubbiness
 chetive
+coign
 canette
 causticness
 crumpets
