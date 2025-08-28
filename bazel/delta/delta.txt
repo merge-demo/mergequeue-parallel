@@ -3510,6 +3510,7 @@ desaturate
 defraudation
 desiccated
 desmomyaria
+deprehend
 dufoil
 drapery
 drowsiest
@@ -5904,7 +5905,6 @@ diablene
 duffy
 decryptions
 duplicity
-deprehend
 disprofit
 diploptera
 dyscrasy
