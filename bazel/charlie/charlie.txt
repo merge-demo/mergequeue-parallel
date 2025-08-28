@@ -2535,7 +2535,6 @@ candlelighting
 candlelit
 coituses
 cohusband
-carvels
 candlemaker
 candlemas
 crewel
@@ -20033,6 +20032,7 @@ chemurgies
 cadmus
 capybaras
 commensally
+carvels
 campodeid
 commensals
 commensurability
