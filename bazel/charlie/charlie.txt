@@ -1627,7 +1627,6 @@ curler
 calophyllum
 calopogon
 chettik
-colport
 chilopodan
 consuetitude
 conferees
@@ -2068,6 +2067,7 @@ campanini
 casseroled
 campanistic
 campanologer
+colport
 crucis
 campanology
 croaker
