@@ -9235,7 +9235,6 @@ aloysia
 ashfall
 apepsy
 acapulco
-abators
 aniellidae
 ateba
 aloisiite
@@ -16940,6 +16939,7 @@ alphabetization
 aplotaxene
 aliened
 americanizer
+abators
 apneumona
 apneumonous
 agrammatical
