@@ -1827,7 +1827,6 @@ bowlin
 bathoses
 bandaid
 babylonism
-bandala
 buggery
 bandanaed
 battlepiece
@@ -10824,6 +10823,7 @@ bandstring
 boxtree
 bristliest
 blessingly
+bandala
 bider
 bhikku
 banished
