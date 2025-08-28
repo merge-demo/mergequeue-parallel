@@ -1656,6 +1656,7 @@ calorifier
 calorigenic
 calorimeters
 chemoreception
+chromatophore
 calorimetry
 calorimetrical
 calorimetrically
@@ -12369,7 +12370,6 @@ chromatophile
 cothurni
 chromatophilous
 chromatophobia
-chromatophore
 carpel
 chromatophoric
 canthectomy
