@@ -1226,7 +1226,6 @@ dataries
 depeach
 datasetname
 datcha
-disparison
 delinquents
 demiassignation
 dragooner
@@ -4913,6 +4912,7 @@ dovishness
 demonstrated
 dehiscing
 demonstrater
+disparison
 demonstrates
 demonstrationist
 decolorizing
