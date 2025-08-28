@@ -9903,7 +9903,6 @@ cancers
 chemosurgery
 chemotactic
 cresylene
-choochoo
 chemotaxy
 charpie
 collocatory
@@ -10318,6 +10317,7 @@ chicker
 corruptible
 chickhood
 coveting
+choochoo
 coprosterol
 coheir
 chickories
