@@ -594,6 +594,7 @@ derived
 dialers
 decolonized
 dicasteries
+disjointedness
 daunch
 dominated
 damfool
@@ -2839,7 +2840,6 @@ diskos
 depriver
 discretively
 disposure
-disjointedness
 doveling
 disgenius
 deepest
