@@ -6280,7 +6280,6 @@ adipopexic
 agroan
 agrobacterium
 agrobiological
-aparithmesis
 agrobiologist
 antisensuousness
 agrodolce
@@ -23664,6 +23663,7 @@ anticontagiousness
 anagnorises
 auscultatory
 ausform
+aparithmesis
 amyotrophy
 amazia
 aushar
