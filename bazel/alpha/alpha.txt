@@ -21358,6 +21358,7 @@ amnesties
 amenage
 alluvia
 asperate
+aphthoid
 artefact
 azarole
 antitegula
@@ -24971,7 +24972,6 @@ allantois
 abdali
 awheft
 antheriferous
-aphthoid
 anthroic
 awhet
 awhile
