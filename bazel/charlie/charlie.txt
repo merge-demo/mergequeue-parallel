@@ -2992,7 +2992,6 @@ cantilevers
 cantily
 cantina
 canting
-cantingly
 cantingness
 clairschach
 concent
@@ -23315,6 +23314,7 @@ contactile
 coatracks
 circumspect
 coattest
+cantingly
 contorsive
 congests
 coverups
