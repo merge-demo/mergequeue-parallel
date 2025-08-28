@@ -9108,7 +9108,6 @@ dunted
 detraction
 debility
 didactical
-didacticality
 drassidae
 dichondraceae
 daleman
@@ -11777,6 +11776,7 @@ deploredly
 damianist
 darkening
 discard
+didacticality
 discreeter
 drawled
 dermography

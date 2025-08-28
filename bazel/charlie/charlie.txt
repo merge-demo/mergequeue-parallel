@@ -8990,7 +8990,6 @@ collationer
 ceriphs
 chalazia
 charisms
-cancrophagous
 charisticary
 charitative
 colloq
@@ -11615,6 +11614,7 @@ cholerigenous
 chelicerate
 columel
 choleroid
+cancrophagous
 cholerophobia
 cholestanol
 camphylene
