@@ -13146,7 +13146,6 @@ diactine
 dispensingly
 dispensive
 dispeople
-daresay
 diagnostically
 depurging
 domesticability
@@ -15962,6 +15961,7 @@ dossel
 dossels
 drench
 dossennus
+daresay
 decapodiform
 dosser
 dosseret
