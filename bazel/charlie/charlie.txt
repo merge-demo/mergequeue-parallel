@@ -11462,7 +11462,6 @@ choired
 choirlike
 conoidally
 choristoma
-choirman
 caestus
 conspirers
 colonizations
@@ -23529,6 +23528,7 @@ cacopathy
 climature
 chancelled
 conviviality
+choirman
 continuality
 cerebroma
 conchiolin
