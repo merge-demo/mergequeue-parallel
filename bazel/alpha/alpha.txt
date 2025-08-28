@@ -4540,7 +4540,6 @@ aecidial
 aecidioform
 abjunctive
 aciculas
-aecidiospore
 aecidiostage
 aglare
 abintestate
@@ -15743,6 +15742,7 @@ antiphysically
 antiphysicalness
 adulterating
 appropriament
+aecidiospore
 antiphlogistian
 asport
 airmarker
