@@ -12030,7 +12030,6 @@ boycotted
 brachiated
 boid
 boydekyn
-boydom
 blub
 beking
 barbascos
@@ -12471,6 +12470,7 @@ bagpiped
 buphthalmos
 bone
 bejaundice
+boydom
 bonebreaker
 boned
 bonedry
