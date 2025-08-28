@@ -6133,6 +6133,7 @@ balaneutics
 bartramia
 benedicta
 broughta
+balon
 bairns
 butcherbroom
 brevetted
@@ -16955,7 +16956,6 @@ beleaguered
 bulbously
 bowedness
 bespoken
-balon
 bure
 bhil
 blazoner
