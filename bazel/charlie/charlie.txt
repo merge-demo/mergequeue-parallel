@@ -12370,7 +12370,6 @@ canthectomy
 chevroned
 cnidophobia
 culebra
-chromatopsia
 chromatoptometry
 chromatoscope
 couch
@@ -17695,6 +17694,7 @@ cockpit
 couched
 comaking
 chemosmoic
+chromatopsia
 confraternity
 cockroaches
 cozing
