@@ -2860,7 +2860,6 @@ dronet
 didunculinae
 draper
 didunculidae
-deerlike
 decurion
 dispensatories
 deprived
@@ -12949,6 +12948,7 @@ disobliged
 disobliger
 dognapping
 demobilization
+deerlike
 duff
 darkful
 dilleniaceae
