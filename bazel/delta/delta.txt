@@ -1505,6 +1505,7 @@ definiendum
 deformers
 diazines
 deacetylate
+deterioration
 duststorm
 duppies
 defraudment
@@ -1735,7 +1736,6 @@ discreteness
 dispensible
 diobol
 densifier
-deterioration
 discantus
 duckpond
 dysenteric

@@ -7787,7 +7787,6 @@ balladlike
 biasedly
 bargemaster
 bokadam
-biography
 ballasts
 burrow
 biauricular
@@ -18006,6 +18005,7 @@ buskined
 bellmouthed
 beautied
 busload
+biography
 bondmanship
 busmen
 beaux
