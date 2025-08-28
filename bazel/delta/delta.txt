@@ -8690,7 +8690,6 @@ deraigned
 demobbed
 desalinizing
 dichastasis
-diastematomyelia
 dactyliomancy
 deathrate
 depolarizing
@@ -9710,6 +9709,7 @@ diageotropy
 deinoceras
 dunitic
 dilactic
+diastematomyelia
 dilactone
 dilamination
 dilaniate
