@@ -759,6 +759,7 @@ badging
 buddhism
 banksman
 bifrost
+barracker
 badiaga
 breathy
 boneshaw
@@ -10881,7 +10882,6 @@ bindable
 befingered
 bangers
 boxball
-barracker
 blithering
 blasphemy
 bevue
