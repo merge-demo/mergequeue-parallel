@@ -1726,6 +1726,7 @@ collectables
 calumniative
 coapprover
 cheremissian
+cyclobutane
 coyer
 calumniators
 calumnious
@@ -13237,7 +13238,6 @@ costs
 cycloalkane
 cyclobothra
 carmakers
-cyclobutane
 constableship
 cholecystopexy
 carapacial
