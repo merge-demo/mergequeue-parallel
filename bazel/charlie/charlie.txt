@@ -3450,7 +3450,6 @@ capshore
 capsian
 ceruses
 capsicums
-carvacrol
 coumarous
 chylosis
 competencies
@@ -23625,6 +23624,7 @@ countableness
 contracyclical
 contract
 contractable
+carvacrol
 contractant
 contractation
 contractedly
