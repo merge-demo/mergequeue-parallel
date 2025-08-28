@@ -4959,6 +4959,7 @@ aerostatic
 aerostatical
 attainments
 argas
+angioscope
 aerosteam
 antapex
 aerotaxis
@@ -12736,7 +12737,6 @@ archaeocyathus
 ascher
 armorwise
 ammocoetid
-angioscope
 arlington
 angiosymphysis
 adry
