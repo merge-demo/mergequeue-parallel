@@ -838,6 +838,7 @@ abetments
 abscond
 anteport
 absconded
+anther
 apperceptive
 absconder
 agonizes
@@ -14231,7 +14232,6 @@ archflatterer
 algebraists
 anthemion
 anthemis
-anther
 aecidiomycetes
 antheraea
 antherogenous
