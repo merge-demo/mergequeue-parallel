@@ -6927,7 +6927,6 @@ cemetaries
 creamed
 cemetery
 copesettic
-cemeterial
 concours
 ceratinous
 culm
@@ -29921,6 +29920,7 @@ criticasterism
 cetid
 calcification
 crossweb
+cemeterial
 cyclopaedic
 centetidae
 ctenocyst
