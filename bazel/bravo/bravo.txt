@@ -287,7 +287,6 @@ brontosaur
 bedfellow
 bacillarieae
 bacillariophyta
-buckwasher
 beroe
 barlock
 betterer
@@ -10186,6 +10185,7 @@ blackguard
 bos
 betokening
 bookrests
+buckwasher
 baroreceptor
 beseechers
 blackgum
