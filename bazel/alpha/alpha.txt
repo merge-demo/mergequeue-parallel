@@ -7744,7 +7744,6 @@ aeried
 aleconner
 aburst
 antimonopolist
-affecter
 archimandrite
 accorders
 alecost
@@ -11174,6 +11173,7 @@ amphictyons
 amphid
 amphophile
 amphidetic
+affecter
 amphidiarthrosis
 assimilator
 aryans
