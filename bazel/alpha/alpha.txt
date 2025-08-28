@@ -11228,7 +11228,6 @@ ameen
 amphipod
 amphipoda
 apostolicism
-alienating
 avidious
 amphiprostylar
 antiusurious
@@ -13916,6 +13915,7 @@ antalkaline
 antalkalis
 antanacathartic
 autotransfusion
+alienating
 antanaclasis
 antelopes
 antanagoge
