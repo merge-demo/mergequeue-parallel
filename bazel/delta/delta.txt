@@ -3158,7 +3158,6 @@ dislevelment
 despiteous
 dulcineas
 deracine
-deinotherium
 defectors
 dandiest
 dysgeogenous
@@ -17772,6 +17771,7 @@ dispelling
 ducally
 disposer
 drunt
+deinotherium
 dispossessed
 ducaton
 ducats
