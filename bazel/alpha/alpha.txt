@@ -2879,6 +2879,7 @@ actable
 affrighted
 ankus
 actaea
+amylases
 actaeon
 actg
 actualised
@@ -12219,7 +12220,6 @@ ancresses
 anda
 astylospongia
 analog
-amylases
 andabatism
 aphrodisiac
 antinous
