@@ -12008,7 +12008,6 @@ anastomosing
 acrologic
 anastomus
 arugula
-anastrophia
 advocator
 anapaestical
 advisements
@@ -16921,6 +16920,7 @@ aplites
 amulet
 aplitic
 aplobasalt
+anastrophia
 aplodontia
 ambitty
 aplomb
