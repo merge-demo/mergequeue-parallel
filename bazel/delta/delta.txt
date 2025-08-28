@@ -87,7 +87,6 @@ depressibility
 debilitating
 dactyliotheca
 digladiator
-deltal
 dobbin
 damning
 direcly
@@ -6553,6 +6552,7 @@ dipole
 disematism
 deavely
 dendrologic
+deltal
 danda
 dioicous
 desecrates
