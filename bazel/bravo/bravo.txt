@@ -5091,7 +5091,6 @@ braised
 berberia
 bespotted
 beneficiary
-befitted
 beyship
 befittingly
 bisimine
@@ -6630,6 +6629,7 @@ bereshith
 beresite
 brangler
 berets
+befitted
 balancers
 berewick
 banquettes
