@@ -6887,7 +6887,6 @@ desolation
 dovetailer
 declaimant
 darkness
-desolator
 dryhouse
 dependents
 dognap
@@ -12502,6 +12501,7 @@ dagon
 dishwasher
 distemperature
 dishwashings
+desolator
 dibromobenzene
 doglegged
 dard
