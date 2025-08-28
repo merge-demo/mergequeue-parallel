@@ -4614,7 +4614,6 @@ cornelius
 carotenes
 chaser
 carneol
-cursoria
 chinas
 cholangitis
 companero
@@ -7523,6 +7522,7 @@ catodon
 cercopithecus
 cimbri
 cramberry
+cursoria
 cercosporella
 canalisation
 cercus
