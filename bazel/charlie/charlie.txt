@@ -4819,6 +4819,7 @@ carryed
 carrier
 capitulation
 chorioadenoma
+collylyria
 carryings
 carriole
 carrioles
@@ -31404,7 +31405,6 @@ cremona
 curioso
 canvassing
 curious
-collylyria
 curiousest
 curiously
 contrastingly

@@ -7470,7 +7470,6 @@ doctoral
 dubhgall
 distalia
 detruding
-disulphid
 detruncation
 damneder
 dodgery
@@ -13908,6 +13907,7 @@ dammers
 distelfink
 decemflorous
 decipherment
+disulphid
 doatish
 distemper
 dollship
