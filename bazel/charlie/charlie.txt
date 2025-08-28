@@ -7305,7 +7305,6 @@ computus
 coudee
 cephalaspis
 cocoonery
-condurrite
 cephalate
 cephalhematoma
 coracovertebral
@@ -29644,6 +29643,7 @@ coliplication
 cromaltite
 cofathership
 cromer
+condurrite
 corelational
 cunyie
 cocovenantor
