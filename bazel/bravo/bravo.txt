@@ -1615,7 +1615,6 @@ bullbird
 ballones
 boiguacu
 brassards
-ballonne
 bewrays
 bacaba
 balloonet
@@ -4839,6 +4838,7 @@ bacchantes
 bourgeon
 benames
 bartholomew
+ballonne
 blizz
 briefings
 bedsitter
