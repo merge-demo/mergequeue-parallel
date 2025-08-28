@@ -25,6 +25,7 @@ babbitted
 beshell
 beneceptive
 boneheaded
+bespeech
 baccies
 baptises
 babbitting
@@ -10555,7 +10556,6 @@ biomicroscopy
 bivinyls
 bermudians
 bezoardic
-bespeech
 blatherskites
 baptisteries
 blatiform
