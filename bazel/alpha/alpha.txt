@@ -6951,6 +6951,7 @@ ameiotic
 allocation
 analogue
 aphanite
+ambulacriform
 allonge
 akenes
 avgases
@@ -10108,7 +10109,6 @@ ambsaces
 anagrammatic
 almogavar
 ambulacra
-ambulacriform
 acuation
 ambulacrum
 anyways

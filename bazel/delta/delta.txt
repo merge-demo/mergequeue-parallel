@@ -3034,7 +3034,6 @@ deescalate
 deeses
 deepfrozen
 deemphasize
-dorsoapical
 diester
 downward
 diuretic
@@ -6344,6 +6343,7 @@ dermobranchiate
 dangles
 diagrammatical
 dermogastric
+dorsoapical
 dean
 dermoidal
 dermoidectomy
