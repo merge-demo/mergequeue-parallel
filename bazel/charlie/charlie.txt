@@ -24725,7 +24725,6 @@ candlewick
 cops
 catocathartic
 copses
-copsewood
 circs
 copsy
 copsing
@@ -26459,6 +26458,7 @@ cottonmouths
 convects
 cottonocracy
 cottonseed
+copsewood
 clotheshorse
 chalcedonies
 cottonseeds
