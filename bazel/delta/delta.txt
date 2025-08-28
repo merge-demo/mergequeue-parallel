@@ -10508,7 +10508,6 @@ dalar
 denehole
 daglock
 diphthongize
-desulphuret
 diphthongizing
 daubentoniidae
 deess
@@ -13186,6 +13185,7 @@ dispetal
 dysphasia
 diplophonia
 dreamery
+desulphuret
 dysphemism
 dusting
 dysphemistic

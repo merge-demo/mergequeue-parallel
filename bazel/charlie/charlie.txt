@@ -16481,7 +16481,6 @@ clocksmith
 clockwatcher
 clockwise
 clockworked
-clavigerous
 carthamin
 chaldron
 creepage
@@ -26054,6 +26053,7 @@ cosmically
 canterelle
 cystostomy
 chiefdoms
+clavigerous
 conspiratorial
 cosmism
 cosmisms
