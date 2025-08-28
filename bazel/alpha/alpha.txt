@@ -7959,7 +7959,6 @@ alfione
 actinopraxis
 alrune
 airworthy
-acidotic
 arithmetically
 amphide
 alforja
@@ -24009,6 +24008,7 @@ adelphi
 among
 anosphresia
 antidysuric
+acidotic
 atomizers
 antiblack
 ascidiozooid
