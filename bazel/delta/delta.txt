@@ -6273,7 +6273,6 @@ daughters
 dermatopathic
 detested
 davoch
-dodecanesian
 dermatophyte
 dehydrators
 decolouring
@@ -8085,6 +8084,7 @@ dhooly
 dowiness
 disilicic
 delphinidae
+dodecanesian
 dehypnotizing
 descaled
 dhooras

@@ -4213,6 +4213,7 @@ clericalists
 covenant
 characteristic
 coauthored
+clementina
 cashel
 cursillo
 careless
@@ -15901,7 +15902,6 @@ clemency
 carpogonia
 clemencies
 clement
-clementina
 clemently
 contradicter
 caballine
