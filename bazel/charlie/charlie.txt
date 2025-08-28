@@ -7316,7 +7316,6 @@ chequering
 cephalina
 cephaline
 cephalins
-cephalism
 cephalitis
 cephalization
 cephaloauricular
@@ -23211,6 +23210,7 @@ calumniations
 constructorship
 construe
 construer
+cephalism
 cyamus
 cardiatomy
 coextending
