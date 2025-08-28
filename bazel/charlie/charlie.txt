@@ -5020,7 +5020,6 @@ casas
 coevolve
 colisepsis
 cerianthus
-casate
 crustaceal
 closemouthed
 casava
@@ -7424,6 +7423,7 @@ ceramographic
 colchian
 convell
 canvass
+casate
 citified
 chloroformed
 cerasein
