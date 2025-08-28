@@ -8385,7 +8385,6 @@ camanchaca
 camelidae
 chambers
 cachinnate
-chambertin
 chambioa
 chambray
 colloquist
@@ -21733,6 +21732,7 @@ condone
 condonement
 condoner
 condoners
+chambertin
 cacanapa
 cypriotes
 condones
