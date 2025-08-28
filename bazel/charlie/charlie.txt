@@ -10150,6 +10150,7 @@ cumbha
 cronied
 coseasonal
 chevronwise
+clapmatch
 chevrotain
 chevvy
 capsa
@@ -22152,7 +22153,6 @@ confusion
 confusions
 consummations
 confusticate
-clapmatch
 confustication
 confutability
 confutator
