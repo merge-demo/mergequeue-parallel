@@ -14443,6 +14443,7 @@ anthropology
 apostrophised
 adapis
 anthropologists
+aristocratism
 arctalia
 anthropometer
 anthropometry
@@ -19632,7 +19633,6 @@ affabrous
 appeasement
 adenosarcomas
 autodecrement
-aristocratism
 aristocrats
 adrectal
 aristodemocracies

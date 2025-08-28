@@ -5558,6 +5558,7 @@ dkm
 doornails
 dyscrase
 depeinct
+dustheap
 dependabilities
 donatistic
 dustfall
@@ -18604,7 +18605,6 @@ dustee
 demipremise
 dusters
 desperadoism
-dustheap
 dedo
 dustiest
 daincha
