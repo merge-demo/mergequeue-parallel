@@ -12412,7 +12412,6 @@ anemic
 anemically
 arccosine
 adipogenic
-anemobiagraph
 anemochord
 anemochore
 anemochorous
@@ -17108,6 +17107,7 @@ apolar
 amphidiploid
 averin
 achiote
+anemobiagraph
 apolegamic
 apolysis
 apolista
