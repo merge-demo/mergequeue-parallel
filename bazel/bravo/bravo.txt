@@ -1851,7 +1851,6 @@ bowlike
 brachytic
 banderol
 blet
-banderole
 bindings
 brigading
 banders
@@ -2818,6 +2817,7 @@ bruta
 biquadrate
 baroswitch
 barotaxy
+banderole
 bld
 baroquely
 bedabble
