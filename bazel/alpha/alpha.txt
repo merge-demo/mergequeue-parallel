@@ -5227,7 +5227,6 @@ afflated
 ataxia
 afflatus
 absent
-afflicted
 afflicter
 afflicting
 afflictingly
@@ -14343,6 +14342,7 @@ anthracin
 anthracitic
 anagoge
 acclaims
+afflicted
 anthracic
 achira
 amoyese
