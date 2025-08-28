@@ -13261,6 +13261,7 @@ bossily
 bowler
 bucketfuls
 bostanji
+buffering
 bosthoon
 boulles
 biblus
@@ -16531,7 +16532,6 @@ backorder
 blightingly
 bubby
 boehmite
-buffering
 benedictory
 brachiocrural
 bubblement
