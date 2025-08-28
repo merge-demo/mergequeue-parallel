@@ -1172,7 +1172,6 @@ calean
 cystorrhea
 concertina
 calebite
-calebites
 cichar
 coprophilia
 cancerating
@@ -14245,6 +14244,7 @@ clumplike
 ccesser
 circumforaneous
 carbuncle
+calebites
 circumfulgent
 circumfuse
 celanese
