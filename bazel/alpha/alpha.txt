@@ -12468,7 +12468,6 @@ anencephalic
 actinotrocha
 archpoet
 archidiaconal
-angka
 arvo
 anencephalus
 anenst
@@ -14097,6 +14096,7 @@ aliveness
 amphivorous
 auriga
 awesomeness
+angka
 agglutinogenic
 anarthrous
 achlamydate
