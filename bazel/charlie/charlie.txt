@@ -24526,7 +24526,6 @@ copers
 chymotrypsin
 cutches
 coperta
-copes
 chelidon
 cantate
 cophosis
@@ -30476,6 +30475,7 @@ cubangle
 cubanite
 cubatory
 contraclockwise
+copes
 conciliar
 counterweighed
 cubby

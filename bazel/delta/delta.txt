@@ -7350,7 +7350,6 @@ detorsion
 deashed
 disagreed
 determiner
-diameters
 discographical
 didine
 duplification
@@ -16896,6 +16895,7 @@ debasers
 derrick
 demicaponier
 discophile
+diameters
 donnishness
 dribbet
 diphyletic
