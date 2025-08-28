@@ -1646,7 +1646,6 @@ dimetrodon
 deodate
 devertebrated
 daydrudge
-dealkylate
 daundered
 disassembler
 darting
@@ -15485,6 +15484,7 @@ dolichoprosopic
 doctrinarily
 dimity
 daisycutter
+dealkylate
 diapophysial
 directing
 dilators
