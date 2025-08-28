@@ -7305,6 +7305,7 @@ abietene
 annulus
 amusiveness
 antrum
+annotine
 adversus
 alarmists
 animalist
@@ -21900,7 +21901,6 @@ ash
 assumptious
 assumptiousness
 autantitypy
-annotine
 achondroplastic
 affing
 agad
