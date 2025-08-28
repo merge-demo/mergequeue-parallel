@@ -8517,7 +8517,6 @@ corncockle
 chanceful
 cadrans
 chancefulness
-chancey
 chanceled
 cardiacea
 chanceless
@@ -29715,6 +29714,7 @@ crookesite
 continuous
 crookheaded
 crooking
+chancey
 circule
 crooknecked
 concessionaires
