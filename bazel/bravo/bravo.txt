@@ -5501,6 +5501,7 @@ behowled
 broken
 brouze
 bey
+balausta
 bindi
 boxed
 bardic
@@ -5708,7 +5709,6 @@ brimmered
 belicoseness
 belie
 birler
-balausta
 belied
 borofluoric
 baskets
