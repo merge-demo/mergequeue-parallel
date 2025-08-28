@@ -882,7 +882,6 @@ begoniaceae
 bicolour
 barasingha
 baggagemaster
-bedamning
 baggager
 benzidin
 beffroy
@@ -3342,6 +3341,7 @@ boller
 burgoos
 berimes
 bronchobuster
+bedamning
 barbu
 basoid
 baraithas
