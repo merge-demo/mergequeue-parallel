@@ -10771,6 +10771,7 @@ deipnosophist
 dipsaceae
 disavow
 dun
+dubiousness
 discharges
 delocalisation
 donship
@@ -17747,7 +17748,6 @@ discoloredness
 discriminateness
 derivate
 debugs
-dubiousness
 deportees
 dietotoxicity
 delegative
