@@ -11056,6 +11056,7 @@ degusts
 dhoti
 doormaid
 disproportionable
+disprobabilization
 dumfound
 dodecasyllabic
 disaltern
@@ -11740,7 +11741,6 @@ disclaim
 doctrinarian
 disencourage
 declinator
-disprobabilization
 dashy
 discourteousness
 discoach

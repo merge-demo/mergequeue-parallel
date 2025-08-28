@@ -13543,7 +13543,6 @@ bouffancy
 beggarlice
 brunel
 biennale
-biquarterly
 barhop
 bouffant
 brontesque
@@ -16752,6 +16751,7 @@ begladded
 budgeter
 bioassayed
 berycoidean
+biquarterly
 budgies
 bellerophontidae
 budging
