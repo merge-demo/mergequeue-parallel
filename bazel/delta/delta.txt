@@ -5332,7 +5332,6 @@ dorsimesal
 diallists
 dispositions
 disblame
-decoyed
 daraf
 diaphoretic
 displaced
@@ -7777,6 +7776,7 @@ dholes
 digits
 detachability
 devolatilised
+decoyed
 dosimetries
 dryrot
 diplospondyli
