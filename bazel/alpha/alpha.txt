@@ -4167,7 +4167,6 @@ antiaircraft
 astichous
 astore
 ados
-anisaldoxime
 austenite
 anamneses
 autoelectrolysis
@@ -7295,6 +7294,7 @@ albi
 aquiparous
 albian
 albicans
+anisaldoxime
 animadversiveness
 antineologian
 abietineae
