@@ -8721,7 +8721,6 @@ codify
 chapbook
 carbonylating
 caconym
-chape
 coelomatic
 cobriform
 chloe
@@ -17570,6 +17569,7 @@ cacoxene
 coccidiosis
 coccidium
 coccidology
+chape
 coccids
 coccygalgia
 coccygeal
