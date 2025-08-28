@@ -865,6 +865,7 @@ bezique
 bagasses
 badhan
 bruxisms
+brierroot
 beflags
 boohoos
 bleachs
@@ -15306,7 +15307,6 @@ briered
 brandless
 brainwasher
 bagatelles
-brierroot
 bonnetless
 bustian
 beslings
