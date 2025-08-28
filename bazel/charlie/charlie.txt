@@ -5746,6 +5746,7 @@ coeldership
 coyotillo
 catechumenal
 catechumenism
+cuttages
 cutthroats
 concourses
 catechumens
@@ -6725,7 +6726,6 @@ canstick
 compartmentally
 caruncle
 celestify
-cuttages
 celestina
 celestite
 celestitude
