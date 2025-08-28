@@ -2142,7 +2142,6 @@ camphoroyl
 clerkliest
 camporee
 camphorone
-camphorweed
 camphorwood
 calvinize
 conference
@@ -10592,6 +10591,7 @@ cubic
 conservatoire
 corybantic
 cosmopolis
+camphorweed
 chilomastix
 chylomicron
 chylopericardium
