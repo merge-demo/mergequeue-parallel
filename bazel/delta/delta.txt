@@ -4584,7 +4584,6 @@ detax
 dungyard
 disproportionality
 dovish
-demimondain
 disimagine
 dupes
 demimonde
@@ -5975,6 +5974,7 @@ dukely
 deprograms
 deuteron
 dropforged
+demimondain
 deprome
 drawling
 desertrice

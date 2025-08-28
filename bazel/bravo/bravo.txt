@@ -2395,6 +2395,7 @@ bedgowns
 bardesanite
 bardess
 bikinis
+birthing
 bushbeck
 balantidiasis
 brickiest
@@ -11825,7 +11826,6 @@ barfly
 bodybending
 bodybuilder
 betrinket
-birthing
 bard
 briareus
 browbeater
