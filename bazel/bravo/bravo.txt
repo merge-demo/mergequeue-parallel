@@ -13631,7 +13631,6 @@ bridgepot
 bounders
 baxter
 barry
-beewort
 binucleate
 burladero
 boundless
@@ -14334,6 +14333,7 @@ boxkeeper
 bierbalk
 burnable
 brahminists
+beewort
 brahmoism
 brahmsian
 batocrinidae
