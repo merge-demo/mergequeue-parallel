@@ -13095,6 +13095,7 @@ barvell
 bodyguard
 bacterioscopist
 bromisation
+buckling
 brahui
 bregmatic
 bilging
@@ -13291,7 +13292,6 @@ botanic
 baltei
 bobbery
 bugproof
-buckling
 botanica
 boweryish
 bandoleered
