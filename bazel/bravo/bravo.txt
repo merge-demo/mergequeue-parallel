@@ -10752,7 +10752,6 @@ brickwise
 bairnie
 blandishes
 bebatter
-brags
 blennosis
 beclart
 bureaucracy
@@ -16203,6 +16202,7 @@ brownnose
 bereavements
 bloodguilt
 brassy
+brags
 brownnoser
 beachmen
 bubo
