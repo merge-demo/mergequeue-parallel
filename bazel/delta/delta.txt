@@ -2758,7 +2758,6 @@ diamondized
 decreet
 desmogen
 dropsied
-dugal
 dop
 dorsalward
 disharmonize
@@ -8333,6 +8332,7 @@ damoclean
 deprivative
 ditrigonally
 dockmaster
+dugal
 dialectical
 dialectician
 dual
