@@ -17563,6 +17563,7 @@ appendiculate
 alectoris
 acuesthesia
 appendorontgenography
+agathodaemon
 antheximeter
 appendotome
 astroid
@@ -21717,7 +21718,6 @@ archiblastula
 allotropous
 altimetrical
 assidual
-agathodaemon
 assidually
 aecial
 advowson
