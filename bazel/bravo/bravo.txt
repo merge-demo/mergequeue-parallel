@@ -3192,6 +3192,7 @@ booklores
 bhaga
 blastozooid
 bromelia
+burthen
 beadily
 basidia
 basidigital
@@ -17825,7 +17826,6 @@ brouille
 botein
 barks
 biga
-burthen
 burthened
 burthens
 backwashing
