@@ -5678,7 +5678,6 @@ beleapt
 belection
 brining
 belecture
-beledgered
 brutedom
 biers
 belemnitic
@@ -7935,6 +7934,7 @@ buibui
 banate
 balistraria
 borborygmi
+beledgered
 bodymaker
 billing
 barothermogram
