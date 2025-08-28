@@ -6871,7 +6871,6 @@ dishcross
 differently
 door
 dobroes
-desolated
 dahoons
 dealbation
 disinflated
@@ -11886,6 +11885,7 @@ dawing
 despicableness
 deuteroprism
 decentralism
+desolated
 discurre
 dislikable
 discursify
