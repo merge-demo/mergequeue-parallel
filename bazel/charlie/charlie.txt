@@ -25138,6 +25138,7 @@ coriariaceae
 coriaus
 countertype
 corybant
+coverages
 corybantian
 corybantiasm
 corybantine
@@ -27491,7 +27492,6 @@ cover
 containable
 carsickness
 coverable
-coverages
 cuselite
 coveralled
 coveralls
