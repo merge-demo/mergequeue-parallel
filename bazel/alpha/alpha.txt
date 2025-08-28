@@ -1448,6 +1448,7 @@ acclimatement
 acclimates
 agglutinator
 acclimating
+adaty
 archipallial
 acclimatisation
 affixable
@@ -5631,7 +5632,6 @@ ashlared
 ascrive
 amant
 arrowwood
-adaty
 antisacerdotal
 ao
 arnut
