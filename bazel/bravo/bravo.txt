@@ -10861,7 +10861,6 @@ bestowing
 bribetaker
 burroughs
 bouzouki
-bangtails
 britishers
 beelzebubian
 boatwise
@@ -12839,6 +12838,7 @@ bedelve
 beware
 bucketeer
 boomster
+bangtails
 boomtown
 beauts
 biestings
