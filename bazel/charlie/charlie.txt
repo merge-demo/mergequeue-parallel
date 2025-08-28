@@ -11707,6 +11707,7 @@ chondre
 chondrenchyma
 caramelin
 cocomats
+copaliferous
 columbian
 curdiest
 chondrify
@@ -24448,7 +24449,6 @@ clr
 courtliness
 clavis
 copaivic
-copaliferous
 copalite
 copalm
 cynomorpha
