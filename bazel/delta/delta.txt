@@ -7941,6 +7941,7 @@ dexes
 desertward
 disestablismentarianism
 dexiotrope
+demiowl
 dyeable
 dexiotropic
 dishwashing
@@ -16303,7 +16304,6 @@ dipsaceous
 desiderant
 dowels
 decrown
-demiowl
 duchery
 ductilimeter
 divers
