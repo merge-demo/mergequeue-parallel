@@ -3319,7 +3319,6 @@ corslets
 captivate
 chrystocrene
 canonicalize
-caponising
 camaldolensian
 commissariat
 coderives
@@ -8141,6 +8140,7 @@ cultists
 crashers
 coelastrum
 chainsman
+caponising
 capetian
 cleanups
 cattiest
