@@ -9915,7 +9915,6 @@ diosgenin
 daintihood
 dumba
 dynamic
-dimerism
 defectuous
 dimerization
 dewey
@@ -15033,6 +15032,7 @@ duali
 decoloriser
 dermatoid
 disarmer
+dimerism
 dialoger
 doeling
 defrauders
