@@ -2290,6 +2290,7 @@ boozing
 bathysphere
 blossombill
 broom
+bogbeans
 bicarbonates
 besoothed
 beearn
@@ -11926,7 +11927,6 @@ bogart
 backboneless
 bisaxillary
 bogatyr
-bogbeans
 bordels
 bogberry
 baluchi
