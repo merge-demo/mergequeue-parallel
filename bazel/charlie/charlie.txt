@@ -134,7 +134,6 @@ catholici
 crudes
 cabled
 cablegram
-cablegrams
 cruors
 cistaceae
 cablelaid
@@ -28912,6 +28911,7 @@ cricketers
 chuckler
 cicindelid
 countervengeance
+cablegrams
 cigaret
 churched
 crickle
