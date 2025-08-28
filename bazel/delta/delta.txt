@@ -6689,6 +6689,7 @@ desman
 dipropargyl
 desiderable
 diascopy
+distributor
 deadhead
 desiderata
 debagged
@@ -14114,7 +14115,6 @@ divariant
 devouress
 defial
 deservingness
-distributor
 demagnetiser
 dermal
 distributorship
