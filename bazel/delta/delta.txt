@@ -687,7 +687,6 @@ depermed
 dampne
 dyehouse
 dampness
-dextrosuria
 diacetylene
 dampproof
 dyspepsy
@@ -11234,6 +11233,7 @@ diascordium
 droich
 dazingly
 dratted
+dextrosuria
 disbelieves
 disavowals
 daubier
