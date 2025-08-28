@@ -5519,7 +5519,6 @@ cycledom
 comicoprosaic
 crushingly
 catalepsis
-catalexes
 catalexis
 catalin
 cystopyelonephritis
@@ -31249,6 +31248,7 @@ curarization
 clitellum
 chattily
 copulations
+catalexes
 communicability
 crocoites
 canids
