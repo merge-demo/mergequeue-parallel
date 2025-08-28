@@ -4756,7 +4756,6 @@ devi
 disremember
 dilettant
 demobilising
-democracy
 diploneural
 diethylaminoethanol
 denominated
@@ -12244,6 +12243,7 @@ dramatism
 damascenes
 diomedea
 doors
+democracy
 directional
 dormie
 dodoisms
