@@ -4357,7 +4357,6 @@ aerobus
 adure
 andia
 antipuritan
-adust
 adustion
 ascalabota
 absurdities
@@ -19126,6 +19125,7 @@ agallochum
 aristotelic
 allotypies
 arcula
+adust
 antigay
 ardassine
 ardeb
