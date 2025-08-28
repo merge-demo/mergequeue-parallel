@@ -3702,7 +3702,6 @@ adiaphoron
 anisopterous
 adiated
 anaboly
-adiathermal
 adiathermancy
 antioxidase
 alcoranist
@@ -12682,6 +12681,7 @@ anagrammatized
 angioataxia
 areality
 appellors
+adiathermal
 anthropophagit
 angioblastic
 advenience
