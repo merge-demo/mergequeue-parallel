@@ -1723,6 +1723,7 @@ dispensations
 debilitant
 disembed
 defensibility
+dentinalgia
 deaspiration
 depersonalization
 daredevilry
@@ -5354,7 +5355,6 @@ drub
 demonio
 debe
 diazenithal
-dentinalgia
 donnees
 disgruntle
 dawned
