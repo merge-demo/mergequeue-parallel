@@ -1842,7 +1842,6 @@ auride
 advanced
 acetable
 acetabula
-acknowledgeable
 acetabularia
 acetabulous
 antileague
@@ -9088,6 +9087,7 @@ aeginetic
 almandines
 alme
 ardhamagadhi
+acknowledgeable
 antiputrefaction
 anaemias
 averter
