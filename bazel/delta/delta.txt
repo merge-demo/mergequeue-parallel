@@ -4495,7 +4495,6 @@ dysprosium
 demicanon
 disjointedly
 duomachy
-devalorize
 developmentist
 dislocatory
 dysphoric
@@ -7359,6 +7358,7 @@ dodunk
 detersiveness
 disunions
 detestation
+devalorize
 decomponent
 detestations
 dethronement
