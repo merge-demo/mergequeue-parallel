@@ -1774,6 +1774,7 @@ decolorization
 disregardfully
 dorsolum
 dissevers
+designment
 dissociated
 dalradian
 debamboozle
@@ -17841,7 +17842,6 @@ discrete
 deskmen
 ducs
 determents
-designment
 disaggregate
 diluents
 depolarising

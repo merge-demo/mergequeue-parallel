@@ -7429,6 +7429,7 @@ aurifying
 albuminometer
 albuminone
 alepot
+alloxanic
 alloplasm
 albuminorrhea
 albuminoscope
@@ -25386,7 +25387,6 @@ alarmable
 alumbloom
 adopter
 azurean
-alloxanic
 amalgamations
 ampyces
 azured
