@@ -13993,7 +13993,6 @@ dystocia
 dourade
 dogwatch
 dystocial
-diagenesis
 discrepance
 dacryadenalgia
 dorsispinal
@@ -17201,6 +17200,7 @@ drinks
 dynamics
 dansants
 daffiest
+diagenesis
 decachord
 dreary
 dogmatiser
