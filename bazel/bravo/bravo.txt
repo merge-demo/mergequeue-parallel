@@ -3186,7 +3186,6 @@ benzins
 boarding
 booklores
 bhaga
-bollandist
 blastozooid
 bromelia
 beadily
@@ -12350,6 +12349,7 @@ bab
 berime
 band
 bandlimit
+bollandist
 buckshee
 brigades
 biskop
