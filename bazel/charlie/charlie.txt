@@ -5256,7 +5256,6 @@ cassioberry
 conflict
 catamenia
 cassiope
-curvette
 cassiopeia
 cuculus
 cassiopeian
@@ -16356,6 +16355,7 @@ clyses
 clishmaclaver
 clysma
 cribral
+curvette
 cacophonies
 clyssus
 cisele
