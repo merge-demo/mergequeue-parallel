@@ -12793,6 +12793,7 @@ arousement
 angletouch
 anthraxylon
 angletwitch
+amadavats
 achronism
 allays
 anglewise
@@ -18955,7 +18956,6 @@ antewar
 amaryllis
 argusfishes
 archmonarch
-amadavats
 anguish
 aceric
 archmugwump
