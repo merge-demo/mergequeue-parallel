@@ -21263,7 +21263,6 @@ concettism
 conch
 concha
 corniches
-countenance
 cogitated
 couponed
 cardiomalacia
@@ -29680,6 +29679,7 @@ chinar
 compactify
 cuartillo
 cronian
+countenance
 cigaritos
 communicated
 conspired
