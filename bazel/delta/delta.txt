@@ -1384,7 +1384,6 @@ disna
 disableness
 dollars
 daftar
-daunders
 depositing
 david
 definitised
@@ -14631,6 +14630,7 @@ deeming
 diatomine
 disinfeudation
 dentalman
+daunders
 duckeries
 deoxyribonucleoprotein
 dismemberment
