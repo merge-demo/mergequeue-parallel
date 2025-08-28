@@ -2421,6 +2421,7 @@ acoasm
 acetin
 aforethought
 avile
+aphakial
 acocantherin
 awaredom
 alcoholizable
@@ -21826,7 +21827,6 @@ abakas
 amphimorula
 antiegoist
 associationistic
-aphakial
 associatively
 anaphylactogen
 associativeness
