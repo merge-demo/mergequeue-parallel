@@ -12740,7 +12740,6 @@ disli
 dislicense
 disperiwig
 diacromyodian
-disliked
 disliken
 drawshave
 dislikeness
@@ -14867,6 +14866,7 @@ docks
 dehiscent
 demonologist
 docmac
+disliked
 docoglossan
 detests
 docoglossate
