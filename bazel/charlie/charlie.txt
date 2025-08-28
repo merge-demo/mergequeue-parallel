@@ -890,6 +890,7 @@ cajuput
 chemoses
 catharan
 cajuputene
+chenar
 colocates
 coquetting
 confided
@@ -9926,7 +9927,6 @@ chemurgical
 chemurgically
 chen
 chena
-chenar
 cheneau
 cheneaus
 conspurcate
