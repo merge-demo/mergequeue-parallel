@@ -6518,7 +6518,6 @@ bepimpling
 bureaucratical
 bepray
 bepraiser
-bituminizing
 bagge
 bombyx
 bepretty
@@ -10211,6 +10210,7 @@ blackjacking
 blackjacks
 bureaux
 bootstraps
+bituminizing
 bondhold
 bloodletter
 belshazzar
