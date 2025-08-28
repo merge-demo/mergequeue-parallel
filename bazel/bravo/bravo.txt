@@ -4356,6 +4356,7 @@ bemercy
 bushwalking
 bely
 bonspiels
+bubbly
 bombola
 bellhops
 beclang
@@ -12561,7 +12562,6 @@ bonk
 begrudging
 bagpiping
 bonne
-bubbly
 bonnet
 brachelytra
 bonnethead
