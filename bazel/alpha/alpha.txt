@@ -2985,7 +2985,6 @@ analcime
 actinomycosistic
 alacrify
 agglomerator
-albizia
 actinomyxidia
 actinomyxidiida
 aliyos
@@ -22406,6 +22405,7 @@ atavistic
 ansarian
 astonish
 atavistically
+albizia
 ataxiagraph
 aequorin
 ataxies
