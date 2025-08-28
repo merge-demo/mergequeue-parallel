@@ -18028,7 +18028,6 @@ antereformation
 accounsel
 apokreos
 aptote
-apulian
 artocarpus
 attesters
 apus
@@ -20849,6 +20848,7 @@ amidid
 aphasias
 ascariasis
 anchovy
+apulian
 aerodynamicist
 assuefaction
 anticlassicalness
