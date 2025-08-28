@@ -7269,7 +7269,6 @@ captious
 centurist
 coincidental
 coroners
-cherishes
 ceorl
 cep
 characterizations
@@ -14687,6 +14686,7 @@ cystourethritis
 chirurgy
 calyxes
 cystourethrography
+cherishes
 clinopyroxene
 cistron
 cistronic
