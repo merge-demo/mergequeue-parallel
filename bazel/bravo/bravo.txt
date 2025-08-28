@@ -3959,7 +3959,6 @@ boreens
 barbeiro
 beaminess
 brocatel
-barhal
 bastardizations
 beachcombers
 beachdrops
@@ -11376,6 +11375,7 @@ breams
 bandits
 bluebottle
 bingies
+barhal
 bluebreast
 balance
 badinaged
