@@ -17424,7 +17424,6 @@ coaxing
 coazervate
 contline
 coazervation
-cryophilic
 cupbearer
 cobaea
 corbeil
@@ -27338,6 +27337,7 @@ chlorinize
 courtesies
 collectively
 courtezanry
+cryophilic
 croneberry
 courthouse
 commaes
