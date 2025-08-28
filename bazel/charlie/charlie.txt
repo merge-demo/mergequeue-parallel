@@ -11357,6 +11357,7 @@ chloroplasts
 coenamorment
 commences
 chiastic
+cursorary
 chloroplatinous
 chloroprene
 creature
@@ -31534,7 +31535,6 @@ cursives
 clerkage
 chorused
 chromosomes
-cursorary
 cundite
 cursory
 cratered
