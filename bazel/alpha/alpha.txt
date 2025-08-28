@@ -265,7 +265,6 @@ anthropomorphizing
 abdicative
 adze
 abditory
-apelet
 abdom
 alysson
 aerotropism
@@ -16138,6 +16137,7 @@ antispastic
 aplustre
 antispeculation
 aroras
+apelet
 afterimpression
 antispiritualism
 antiophthalmic
