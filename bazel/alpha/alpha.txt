@@ -16621,6 +16621,7 @@ affiche
 apesthetize
 acariatre
 attachment
+arrayer
 alumen
 apetalous
 apexed
@@ -19285,7 +19286,6 @@ aho
 arthrobranchia
 arithmetics
 argals
-arrayer
 acolytus
 ambrosian
 aphodal
