@@ -14010,6 +14010,7 @@ constrain
 chaufer
 celiorrhaphy
 caziques
+compsilura
 cargador
 cyphosis
 compitum
@@ -18013,7 +18014,6 @@ cordaitales
 coembrace
 calcaneal
 cysteine
-compsilura
 coemploying
 coemployment
 chuana
