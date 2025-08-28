@@ -4512,6 +4512,7 @@ chartula
 coacervating
 citoler
 carnets
+choleras
 carny
 coccostean
 conciliatingly
@@ -11619,7 +11620,6 @@ choler
 cholera
 cephalospinal
 circumjacent
-choleras
 clockings
 civilising
 cervelases
