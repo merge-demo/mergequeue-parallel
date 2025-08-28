@@ -5703,7 +5703,6 @@ acrocephalia
 abranchiata
 artophoria
 aeroduct
-agathis
 agatelike
 agathist
 agathodaemonic
@@ -12233,6 +12232,7 @@ antithetics
 agmatine
 anodynia
 axes
+agathis
 anders
 autoirrigation
 adipocerite
