@@ -817,7 +817,6 @@ blake
 biaswise
 baffies
 bacalao
-bangalow
 bafflement
 baklawa
 bonnetmen
@@ -3691,6 +3690,7 @@ balearian
 bedboard
 baste
 bucketful
+bangalow
 bally
 batteaux
 bastinades
