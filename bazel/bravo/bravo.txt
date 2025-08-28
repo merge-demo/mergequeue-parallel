@@ -9112,7 +9112,6 @@ biocoenose
 brooklets
 bullishness
 budzart
-balanoglossida
 bodysuit
 biosome
 biospeleology
@@ -16256,6 +16255,7 @@ boussingaultia
 barrios
 brucellosis
 barely
+balanoglossida
 biolytic
 brucia
 brucin
