@@ -6999,7 +6999,6 @@ besmirchers
 bactris
 billethead
 bankfull
-besmooth
 besmooths
 bleeders
 barricades
@@ -15154,6 +15153,7 @@ bellowsmaker
 bohemia
 bellwort
 bloater
+besmooth
 bedcase
 breastplough
 blunted
