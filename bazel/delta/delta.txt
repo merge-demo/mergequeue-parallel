@@ -2487,7 +2487,6 @@ drysaltery
 dimming
 dermoid
 duplicipennate
-doddered
 disaccommodation
 dove
 dubonnet
@@ -12772,6 +12771,7 @@ diasporas
 dubbings
 difference
 dislocability
+doddered
 dosimetry
 dustcloth
 dehydratase
