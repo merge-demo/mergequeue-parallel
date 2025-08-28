@@ -2616,7 +2616,6 @@ bifronted
 bhaiyachara
 biporous
 borana
-bunglesome
 barkey
 barkery
 barkhan
@@ -17902,6 +17901,7 @@ broadaxes
 bahmanid
 belton
 brahmanda
+bunglesome
 baggies
 bungy
 besour
