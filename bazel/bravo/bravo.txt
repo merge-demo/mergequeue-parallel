@@ -4446,7 +4446,6 @@ billard
 bromizer
 blackrag
 behinds
-bailment
 beached
 bestuur
 becomed
@@ -6618,6 +6617,7 @@ biz
 berede
 berengaria
 bursate
+bailment
 bullbeggar
 bicolourous
 bronchioles
