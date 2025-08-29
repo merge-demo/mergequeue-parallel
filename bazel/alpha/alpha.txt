@@ -13992,7 +13992,6 @@ aloedary
 antechamber
 aloetic
 accomodate
-antechinomys
 agitpropist
 autopilots
 autocatalytic
@@ -20026,6 +20025,7 @@ afterknowledge
 agadic
 aromatous
 austrogaean
+antechinomys
 annals
 aroon
 autoplasty
