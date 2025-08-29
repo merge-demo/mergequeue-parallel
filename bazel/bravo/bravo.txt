@@ -4430,6 +4430,7 @@ bretonian
 bilabials
 beclothe
 bonasus
+blackhander
 bacillicidal
 breathtakingly
 bhili
@@ -14670,7 +14671,6 @@ backworm
 brassiere
 butteriness
 brassieres
-blackhander
 brassies
 beatas
 bestraught
