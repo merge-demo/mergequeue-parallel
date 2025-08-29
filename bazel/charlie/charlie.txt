@@ -6389,7 +6389,6 @@ cavalcades
 cardinalist
 curarizes
 cavalier
-cavaliere
 cloxacillin
 choregic
 cation
@@ -26851,6 +26850,7 @@ colliquativeness
 copperleaf
 counterlath
 corticospinal
+cavaliere
 counterlathed
 comingle
 cubiform
