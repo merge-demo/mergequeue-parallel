@@ -3126,6 +3126,7 @@ cape
 chequerboard
 capeadores
 capel
+chiastoneury
 capelan
 capelans
 capelin
@@ -8465,7 +8466,6 @@ champaka
 conducts
 clubridden
 champaks
-chiastoneury
 cholines
 commensalistic
 champart
