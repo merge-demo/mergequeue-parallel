@@ -544,6 +544,7 @@ cadlock
 colourlessly
 cadmia
 contakionkia
+cheesier
 cadmic
 cateran
 convito
@@ -12594,7 +12595,6 @@ cognoscent
 chronophotography
 chronoscopic
 chronoscopically
-cheesier
 catechisation
 cyperaceous
 chronothermal
