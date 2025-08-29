@@ -4036,7 +4036,6 @@ buchu
 banditti
 butled
 beambird
-beamed
 beeve
 bedrock
 boti
@@ -13631,6 +13630,7 @@ bibulosities
 bounded
 bridgepot
 bounders
+beamed
 baxter
 barry
 beewort
