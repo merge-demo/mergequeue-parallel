@@ -3413,6 +3413,7 @@ caprigenous
 caprylic
 cymene
 caprylyl
+collenchyme
 caprock
 coat
 caprylone
@@ -29220,7 +29221,6 @@ confessarius
 clamoured
 conceptualising
 collenchymatous
-collenchyme
 cryptoclimate
 checking
 cryptococci

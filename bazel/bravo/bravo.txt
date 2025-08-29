@@ -10,7 +10,6 @@ bloodalley
 bocces
 bryozoans
 buddhi
-bowstringing
 bistratose
 babacoote
 babaylanes
@@ -9796,6 +9795,7 @@ bromatology
 buries
 bocca
 bitable
+bowstringing
 bidialectal
 bytalks
 bitanhol
