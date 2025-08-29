@@ -5270,7 +5270,6 @@ affrightful
 affydavy
 affrightment
 affronte
-antibacchic
 affronted
 affrontedness
 affronter
@@ -7793,6 +7792,7 @@ azodiphenyl
 afterlife
 adenography
 abandum
+antibacchic
 anorthoscope
 atropines
 ascella
