@@ -8326,7 +8326,6 @@ draftier
 duim
 darkishness
 damoclean
-deprivative
 ditrigonally
 dockmaster
 dugal
@@ -8845,6 +8844,7 @@ dibenzophenazine
 desilver
 dibenzopyrrole
 disproportionates
+deprivative
 digressing
 dixit
 debilissima
