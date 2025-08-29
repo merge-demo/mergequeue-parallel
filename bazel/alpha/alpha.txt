@@ -1144,7 +1144,6 @@ acclimatized
 academes
 academy
 apheliotropism
-areae
 aploperistomatous
 aneroidograph
 academist
@@ -5076,6 +5075,7 @@ af
 avernal
 afterpart
 afara
+areae
 accend
 ambiency
 afd

@@ -15822,7 +15822,6 @@ clearsightedness
 clearstarcher
 costeen
 clearstory
-chocker
 clearstoried
 commis
 cleat
@@ -26594,6 +26593,7 @@ colourfully
 countenanced
 cyrenian
 countenancer
+chocker
 carbazine
 countenancing
 contracapitalist
