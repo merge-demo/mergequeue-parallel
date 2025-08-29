@@ -3533,7 +3533,6 @@ dislimb
 diethylamine
 disenchanter
 defunctionalize
-defusion
 demidigested
 deformalize
 dibenzyl
@@ -16023,6 +16022,7 @@ dissocial
 dialogize
 dasein
 dotkin
+defusion
 distinctiveness
 dudish
 distant
