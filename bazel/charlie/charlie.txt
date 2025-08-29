@@ -1580,6 +1580,7 @@ calmecac
 cyathophylloid
 courtrooms
 collectibles
+coatrooms
 calmed
 centrobaric
 crureus
@@ -17384,7 +17385,6 @@ cretinized
 coatless
 coatrack
 coatroom
-coatrooms
 coats
 coattend
 cajeta
