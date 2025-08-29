@@ -7689,7 +7689,6 @@ brachydactylous
 bumblebee
 bereareft
 backfilling
-bhabar
 bushelbasket
 belemnites
 blaine
@@ -10885,6 +10884,7 @@ blasphemy
 bevue
 bronchoadenitis
 bunt
+bhabar
 behovely
 benn
 biffing
