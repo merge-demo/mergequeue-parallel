@@ -7098,6 +7098,7 @@ centimo
 centimos
 commonplaceism
 centipedes
+companable
 crossties
 centiplume
 carrozza
@@ -24493,7 +24494,6 @@ copeman
 copemate
 copending
 colonialist
-companable
 clinquant
 calorizes
 copenetrate
