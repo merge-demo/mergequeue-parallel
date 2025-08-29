@@ -1306,6 +1306,7 @@ diphycercal
 dauber
 dauberies
 dramatic
+dermatomyces
 dumpings
 diastaltic
 decoloured
@@ -6255,7 +6256,6 @@ deutobromide
 dividable
 defenser
 dermatomere
-dermatomyces
 dignity
 deploredness
 diplokaryon
