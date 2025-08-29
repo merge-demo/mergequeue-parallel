@@ -10055,7 +10055,6 @@ diselectrify
 dynamism
 dogless
 dozier
-dishonour
 deled
 damply
 dedal
@@ -13668,6 +13667,7 @@ deliverance
 disship
 disshiver
 deletory
+dishonour
 dissiliency
 dissilient
 dolichurus
