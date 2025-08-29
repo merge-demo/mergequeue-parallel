@@ -8634,6 +8634,7 @@ allentato
 agaty
 azulmic
 alsine
+anaglyptographic
 acalephan
 aerocurve
 anapterygote
@@ -11651,7 +11652,6 @@ anaglyphs
 anaglypta
 anaglyptical
 aldim
-anaglyptographic
 armorbearer
 acacatechin
 ablator
