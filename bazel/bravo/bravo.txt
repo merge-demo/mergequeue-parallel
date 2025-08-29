@@ -5638,7 +5638,6 @@ bayz
 buccaneers
 belah
 belaying
-belam
 bettas
 brabblement
 beclamoring
@@ -6923,6 +6922,7 @@ bradyseismic
 bibliopolistic
 beshade
 begrudges
+belam
 beslaver
 balmony
 beshadowed
