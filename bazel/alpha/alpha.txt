@@ -14717,7 +14717,6 @@ anticensorial
 amusee
 anchorman
 ammonitish
-antidromal
 anticensorious
 anticensorship
 anticentralism
@@ -20607,6 +20606,7 @@ advertising
 aerofoil
 alkalizing
 artichoke
+antidromal
 arrestor
 acidimetrical
 aspirates
