@@ -5434,6 +5434,7 @@ colic
 conductances
 cellar
 casuistries
+catan
 cathodoluminescence
 casus
 cat
@@ -5584,7 +5585,6 @@ catamiting
 cordaitean
 costa
 catamount
-catan
 catanadromous
 catapasm
 caducity
