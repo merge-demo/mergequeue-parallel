@@ -4312,6 +4312,7 @@ dorsointestinal
 divisors
 dem
 demagnetisation
+demitasse
 dovelet
 detraining
 divisiveness
@@ -17245,7 +17246,6 @@ deermeat
 disgustingness
 decumbence
 disorganic
-demitasse
 driveled
 deputator
 driveler
