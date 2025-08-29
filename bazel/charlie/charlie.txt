@@ -6687,6 +6687,7 @@ cele
 celeb
 capicha
 clition
+cloamer
 celebrant
 celebrants
 cordierite
@@ -9110,7 +9111,6 @@ coagulin
 controversional
 chloroplastid
 charruas
-cloamer
 charshaf
 charsingha
 curvacious
