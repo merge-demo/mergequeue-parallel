@@ -1666,7 +1666,6 @@ cawing
 calosoma
 calotermes
 calothrix
-calotype
 cyclodiolefine
 calotypist
 crossbolt
@@ -8559,6 +8558,7 @@ chancito
 crapes
 chanco
 clearing
+calotype
 clutcher
 cohesibility
 chancriform

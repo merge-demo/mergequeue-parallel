@@ -5119,6 +5119,7 @@ babery
 bentwood
 biquadrantal
 balanites
+bismuthate
 beflannel
 bureaucrat
 beeps
@@ -9672,7 +9673,6 @@ bismuth
 badinaging
 bumblefoot
 bromids
-bismuthate
 burhinus
 birchbark
 bedrolls
