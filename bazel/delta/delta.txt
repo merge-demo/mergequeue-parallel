@@ -12685,7 +12685,6 @@ diskelion
 discrepancries
 downwarp
 disker
-dystomic
 disgusted
 darraign
 dumplings
@@ -12741,6 +12740,7 @@ dreadfully
 drury
 dissimilarity
 dendric
+dystomic
 disappoints
 dimorphous
 disli
