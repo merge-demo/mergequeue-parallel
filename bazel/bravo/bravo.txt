@@ -8051,6 +8051,7 @@ blowbacks
 busked
 bed
 bluntness
+banque
 bicornate
 brutal
 bicorned
@@ -12206,7 +12207,6 @@ bollworm
 blizzardly
 bicarbide
 buckhound
-banque
 beld
 bolognan
 bolognas

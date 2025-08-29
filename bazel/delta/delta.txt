@@ -407,7 +407,6 @@ dehydrogenization
 daynet
 dihalid
 dainteous
-dainty
 decentralise
 decoder
 diarhemia
@@ -6069,6 +6068,7 @@ deputes
 damiana
 diopsis
 deputing
+dainty
 diaconicon
 directiveness
 dorps
