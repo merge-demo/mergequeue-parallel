@@ -12841,7 +12841,6 @@ dismayable
 dismayfully
 diathermancy
 doubty
-diploes
 decreptitude
 downhaul
 deliquiesce
@@ -16635,6 +16634,7 @@ decorations
 drosophilae
 dispromise
 dragonesque
+diploes
 daphnis
 distr
 darkhearted
