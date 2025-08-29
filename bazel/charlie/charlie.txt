@@ -5597,7 +5597,6 @@ counterargue
 cosmetology
 cataphracted
 cataphractic
-cataphrenia
 crook
 cataphrenic
 cataphrygian
@@ -6870,6 +6869,7 @@ cowal
 celtish
 celtism
 celtium
+cataphrenia
 cotyla
 clockroom
 compaction
