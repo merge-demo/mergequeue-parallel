@@ -2819,7 +2819,6 @@ bruta
 biquadrate
 baroswitch
 barotaxy
-banderole
 bld
 baroquely
 bedabble
@@ -18134,6 +18133,7 @@ bods
 bitriseptate
 boisseaux
 bacillite
+banderole
 beknit
 biffins
 boundly

@@ -10625,7 +10625,6 @@ deben
 diplomates
 diplomatically
 diethyl
-diplomatique
 dysergia
 doppia
 dolour
@@ -11839,6 +11838,7 @@ dissimulate
 duny
 dosserets
 deinodon
+diplomatique
 discriminating
 decarboxylation
 dacryuria
