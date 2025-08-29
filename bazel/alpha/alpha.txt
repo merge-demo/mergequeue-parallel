@@ -17688,6 +17688,7 @@ applicators
 appliedly
 afterdischarge
 applier
+archpall
 adoxies
 alcibiadean
 affirmed
@@ -18980,7 +18981,6 @@ availingly
 athetizing
 ammocoete
 archoverseer
-archpall
 archpastor
 anana
 archphilosopher
