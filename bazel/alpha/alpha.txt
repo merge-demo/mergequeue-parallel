@@ -6000,6 +6000,7 @@ aromatophor
 antidotary
 albata
 aliases
+appendotome
 avianized
 aglycon
 altair
@@ -17566,7 +17567,6 @@ acuesthesia
 appendorontgenography
 agathodaemon
 antheximeter
-appendotome
 astroid
 adjoining
 appentice

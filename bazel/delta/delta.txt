@@ -4380,7 +4380,6 @@ dying
 distends
 demarkation
 deciduate
-daggerbush
 deterrents
 demarked
 dubbeltje
@@ -6857,6 +6856,7 @@ deifies
 desmoscolecidae
 desmoscolex
 desmosite
+daggerbush
 deft
 desemer
 destabilized
