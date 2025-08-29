@@ -139,7 +139,6 @@ drumsticks
 drawbench
 dasyuroid
 draughtmanship
-deviascope
 dekko
 dinar
 dola
@@ -203,6 +202,7 @@ dealfish
 daemons
 daemonurgist
 dechlorination
+deviascope
 defecant
 dak
 deemstership

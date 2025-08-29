@@ -3807,7 +3807,6 @@ bootleg
 baubo
 bauch
 bondoc
-baboon
 browsing
 balancer
 bauckie
@@ -12213,6 +12212,7 @@ bolognas
 bolognese
 balaenopteridae
 birdling
+baboon
 blizzardy
 broggerite
 baluchitherium
