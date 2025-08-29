@@ -7357,6 +7357,7 @@ deterrent
 dodunk
 detersiveness
 disunions
+deflation
 detestation
 devalorize
 decomponent
@@ -8396,7 +8397,6 @@ dragboat
 disunite
 decked
 dialyze
-deflation
 draparnaldia
 daemonelix
 disnaturing
