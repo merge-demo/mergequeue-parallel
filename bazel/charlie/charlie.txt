@@ -511,7 +511,6 @@ cyclophorus
 cadette
 counterstamp
 cadettes
-colorists
 coprecipitating
 competence
 clogmaker
@@ -4914,6 +4913,7 @@ cartilaginoid
 cellarway
 cartels
 cartilaginous
+colorists
 carting
 coulometry
 cartist
