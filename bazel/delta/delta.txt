@@ -2260,7 +2260,6 @@ decemplex
 dissocialize
 decempunctate
 doused
-decemstriate
 disceptator
 dithioglycol
 disentrancement
@@ -16189,6 +16188,7 @@ dournesses
 douroucouli
 dissimulates
 dousing
+decemstriate
 dout
 desorbing
 dematerialized
