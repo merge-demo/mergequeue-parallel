@@ -1858,6 +1858,7 @@ acetanilid
 abutments
 annard
 aetiological
+ananas
 acetars
 acetation
 acetbromamide
@@ -22251,7 +22252,6 @@ ariadne
 anniversaries
 actify
 arcturia
-ananas
 ananter
 allamotti
 agenda
