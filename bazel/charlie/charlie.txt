@@ -4141,7 +4141,6 @@ cardiorrheuma
 cardiorrhexis
 cardiospermum
 celts
-circumventive
 cardiosphygmogram
 cardiosphygmograph
 cardiotherapies
@@ -13663,6 +13662,7 @@ ciliophora
 carlet
 corolline
 chagal
+circumventive
 cyanometry
 cynaroid
 chromatical
