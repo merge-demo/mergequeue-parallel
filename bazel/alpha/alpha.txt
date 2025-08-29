@@ -2548,7 +2548,6 @@ adeems
 alterableness
 acquest
 armenite
-aromatite
 actutate
 acrite
 arriswise
@@ -9711,6 +9710,7 @@ acmite
 amalgamist
 amperage
 amalgamization
+aromatite
 amalic
 aisling
 amalrician
