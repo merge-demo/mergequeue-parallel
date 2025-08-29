@@ -4037,7 +4037,6 @@ autosensitization
 admonitrix
 alkalinize
 admrx
-archetypist
 appendectomies
 adnascent
 adnation
@@ -6866,6 +6865,7 @@ assaulters
 acceptilating
 ayurveda
 attababy
+archetypist
 aivers
 aiwan
 annamitic
