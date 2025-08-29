@@ -13060,6 +13060,7 @@ boreable
 blizzard
 borecoles
 buddhic
+berryman
 bored
 boreen
 bologna
@@ -18263,7 +18264,6 @@ barstool
 batea
 bunuelo
 bde
-berryman
 basque
 brickmason
 badan
