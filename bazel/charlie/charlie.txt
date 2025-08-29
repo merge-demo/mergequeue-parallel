@@ -1116,6 +1116,7 @@ culturology
 calcsinter
 chinnam
 cranioclasis
+canephori
 calcspar
 calcspars
 cotwal
@@ -2608,7 +2609,6 @@ cyanurine
 canephora
 canephorae
 canephore
-canephori
 canephoroi
 canepin
 cheeseflower
