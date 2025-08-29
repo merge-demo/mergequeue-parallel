@@ -3670,6 +3670,7 @@ degreases
 decadescent
 drupaceae
 daffadowndilly
+dromicia
 degreewise
 degressive
 desulphurizing
@@ -8818,7 +8819,6 @@ diazoma
 diazomethane
 diazonium
 diazotype
-dromicia
 disadvise
 dulses
 dolefuller
