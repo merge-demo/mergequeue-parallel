@@ -3002,6 +3002,7 @@ ammochaetae
 abdominoanterior
 anilinophilous
 arvicole
+awakenable
 alligatoring
 alluvion
 advertisements
@@ -11948,7 +11949,6 @@ athumia
 anasa
 araphostic
 aralkylated
-awakenable
 anaschistic
 anaseismic
 anasitch
