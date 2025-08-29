@@ -12711,6 +12711,7 @@ antihemolysin
 angioneurosis
 abernethy
 angionoma
+auxil
 arcabucero
 aquiculture
 anglish
@@ -20228,7 +20229,6 @@ antichristianity
 arrogant
 arrogated
 astonied
-auxil
 allotriuria
 afocal
 attitudinizing
