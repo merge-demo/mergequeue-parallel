@@ -18417,7 +18417,6 @@ cognomination
 castelli
 cognoscente
 cognoscing
-cognoscitive
 chemitypies
 carterly
 cognovit
@@ -18775,6 +18774,7 @@ caddishly
 colectomies
 cacogenics
 cyesiology
+cognoscitive
 coalfish
 conodonts
 consumptivity
