@@ -2125,7 +2125,6 @@ bantam
 bantamize
 bismar
 burette
-banteng
 banter
 banterers
 bloodlessness
@@ -7476,6 +7475,7 @@ biomicroscope
 bowne
 besant
 burtree
+banteng
 bully
 buttinskies
 beheadal
