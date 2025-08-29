@@ -13092,7 +13092,6 @@ ciboney
 cibophobia
 cryptocarpic
 cyborg
-ceros
 cibory
 cyc
 cicad
@@ -28763,6 +28762,7 @@ cassena
 countertail
 cresselle
 cresset
+ceros
 colima
 coffee
 cressiest
