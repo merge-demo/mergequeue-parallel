@@ -3415,6 +3415,7 @@ busiest
 broider
 bookstores
 bewall
+boppers
 berascaled
 botanizer
 basswood
@@ -7040,7 +7041,6 @@ brideknot
 bussings
 bunted
 belletrist
-boppers
 besoot
 beaterman
 biometricist
