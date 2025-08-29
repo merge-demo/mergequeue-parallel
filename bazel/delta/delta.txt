@@ -2075,7 +2075,6 @@ defaced
 datchas
 disproportionally
 decal
-dodecylic
 dilatory
 decalage
 dartle
@@ -14750,6 +14749,7 @@ djuka
 diaskeuast
 dk
 dkg
+dodecylic
 destroys
 dkl
 dockland
