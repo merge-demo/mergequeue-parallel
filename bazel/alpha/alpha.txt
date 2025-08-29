@@ -5842,7 +5842,6 @@ adversary
 aerogeology
 acad
 amphithecial
-aggravative
 amazonstone
 afformative
 aneurism
@@ -9170,6 +9169,7 @@ alodialty
 adenogenous
 aphetize
 atomics
+aggravative
 archdissembler
 argentamin
 aphony
