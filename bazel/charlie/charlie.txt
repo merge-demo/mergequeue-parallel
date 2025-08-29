@@ -10149,6 +10149,7 @@ chevrolets
 chlorodized
 chevron
 chiropatagium
+corresp
 charioteer
 cumbha
 cronied
@@ -30944,7 +30945,6 @@ cumaphyte
 cumaphytic
 coagulations
 cachou
-corresp
 craniostosis
 comprizes
 cheimatophobia
