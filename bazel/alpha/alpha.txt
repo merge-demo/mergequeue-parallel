@@ -29,7 +29,6 @@ anaphoric
 assurate
 artemon
 avernus
-assort
 abac
 ahuehuete
 antecedence
@@ -24722,6 +24721,7 @@ avicularium
 andrias
 armigers
 abdominoposterior
+assort
 acridonium
 arsenohemol
 alitrunk
