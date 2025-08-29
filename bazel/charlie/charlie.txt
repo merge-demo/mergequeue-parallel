@@ -14993,7 +14993,6 @@ citron
 cenobium
 crotonyl
 carbonium
-citronalis
 comparison
 citronellol
 citrons
@@ -24875,6 +24874,7 @@ contrariwise
 coralline
 curricle
 cuichunchulli
+citronalis
 criniferous
 charac
 canonizant
