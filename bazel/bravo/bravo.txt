@@ -5817,7 +5817,6 @@ bombyliidae
 blackneb
 bryozoan
 batfish
-bonasa
 bellhouse
 belli
 bimillenium
@@ -12157,6 +12156,7 @@ bowdlerism
 blaff
 beaumontia
 beaverkin
+bonasa
 beclasped
 broses
 borofluoride

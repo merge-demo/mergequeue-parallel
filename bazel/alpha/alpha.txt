@@ -10512,7 +10512,6 @@ amygdalate
 alcuinian
 amygdalic
 archduchy
-aequian
 amygdalin
 antepenuit
 antiderivative
@@ -19147,6 +19146,7 @@ arder
 ardhanari
 antisceptic
 amphigaean
+aequian
 abacaxi
 archconsoler
 ardilla
