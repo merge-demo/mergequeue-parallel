@@ -739,6 +739,7 @@ dismarry
 dancing
 dispence
 distale
+dioptometer
 dictagraph
 dander
 dandy
@@ -10354,7 +10355,6 @@ diopters
 decumary
 delf
 discounter
-dioptometer
 deoxidized
 disnature
 drillmasters
