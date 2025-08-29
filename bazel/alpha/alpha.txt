@@ -13851,6 +13851,7 @@ answerability
 answered
 answerers
 answeringly
+antically
 aliseptal
 amish
 apophthegmatist
@@ -14688,7 +14689,6 @@ anticachectic
 anticalcimine
 anticalculous
 accurateness
-antically
 agnathia
 auricyanic
 anticamera
