@@ -11046,7 +11046,6 @@ ampelographist
 ascensional
 ampelopsidin
 abirritative
-ampelopsis
 acetamids
 ampelosicyos
 ariosi
@@ -13584,6 +13583,7 @@ anaphroditous
 anastases
 anodized
 anodizes
+ampelopsis
 acoelomous
 ampollosity
 antituberculous
