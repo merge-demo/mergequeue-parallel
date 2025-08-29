@@ -2515,6 +2515,7 @@ beslash
 bassetite
 barguest
 barguests
+bumblebees
 buzylene
 baria
 berceau
@@ -10632,7 +10633,6 @@ boardy
 bleachyard
 bleachworks
 bearableness
-bumblebees
 bleaker
 balanophoraceae
 bandspreading
