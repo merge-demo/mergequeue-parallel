@@ -2698,6 +2698,7 @@ domoid
 deductibility
 decoration
 deckhands
+disjune
 discursory
 decorator
 dichroite
@@ -12114,7 +12115,6 @@ denizened
 demerits
 disentitled
 didelphine
-disjune
 disentitlement
 dudishly
 drepanaspis
