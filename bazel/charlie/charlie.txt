@@ -19259,7 +19259,6 @@ closefitting
 colog
 chiropodic
 choel
-cologs
 colola
 cololite
 colomb
@@ -23286,6 +23285,7 @@ consumeless
 cusk
 corkiness
 consumerist
+cologs
 consumes
 cardioblast
 consuming
