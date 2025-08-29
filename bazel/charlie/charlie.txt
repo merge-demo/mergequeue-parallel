@@ -6290,7 +6290,6 @@ cuprosilicon
 cause
 caused
 cyllosis
-causey
 calesin
 causerie
 causers
@@ -28241,6 +28240,7 @@ curvilinear
 craterless
 craterlet
 craterlike
+causey
 covariance
 cheepily
 copywise
