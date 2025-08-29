@@ -2464,7 +2464,6 @@ decivilize
 dismeasured
 dateline
 deckel
-deporte
 debased
 ditchdown
 dirigent
@@ -5341,6 +5340,7 @@ daraf
 diaphoretic
 displaced
 dentical
+deporte
 denticle
 dentiferous
 dentification
