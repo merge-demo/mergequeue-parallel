@@ -3739,7 +3739,6 @@ acetabuliform
 anthophore
 adipinic
 adipocellulose
-adipoceriform
 adipoid
 angiology
 amati
@@ -15986,6 +15985,7 @@ archprince
 antipot
 anoa
 antirennin
+adipoceriform
 archiepiscopally
 antirenter
 aldehol

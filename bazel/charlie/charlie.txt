@@ -15138,6 +15138,7 @@ catalyst
 cladophora
 cladophoraceous
 clunk
+coronale
 clinamen
 consensus
 copilots
@@ -16545,7 +16546,6 @@ cloyingly
 centralized
 cloyless
 cloyment
-coronale
 caffiso
 compensations
 cloysome
