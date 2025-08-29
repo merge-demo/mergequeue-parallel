@@ -2893,6 +2893,7 @@ dedecorous
 divide
 dustrag
 desmodont
+dismembrate
 duodecimomos
 dedicant
 dedicatee
@@ -7705,7 +7706,6 @@ deviled
 demonically
 devilet
 duits
-dismembrate
 defuse
 devilfish
 decelerators
