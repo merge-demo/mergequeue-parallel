@@ -6897,6 +6897,7 @@ deadliest
 dactylioglyphtic
 desorption
 drollist
+dentin
 desoxalate
 discomposes
 dichromasy
@@ -8293,7 +8294,6 @@ digitation
 doombook
 dialyzer
 diagrams
-dentin
 db
 dispossess
 dissimile
