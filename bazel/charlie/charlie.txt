@@ -16485,7 +16485,6 @@ clockworked
 carthamin
 chaldron
 creepage
-cloddier
 crumster
 crowbell
 crackpottedness
@@ -29139,6 +29138,7 @@ cryosel
 cryospheric
 criosphinx
 chromatospheric
+cloddier
 criosphinxes
 catrigged
 cryostase

@@ -539,6 +539,7 @@ backstops
 backstrapped
 backstreet
 blastophoric
+bebrother
 bombsights
 bismuthiferous
 butomaceous
@@ -4294,7 +4295,6 @@ bebreech
 backcourtman
 bugfish
 benamee
-bebrother
 blouselike
 bebrush
 bebuttoned
