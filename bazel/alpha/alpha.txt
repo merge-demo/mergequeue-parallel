@@ -1181,6 +1181,7 @@ acamar
 allethrin
 alchemising
 acana
+area
 acanonical
 acanth
 acantha
@@ -20165,7 +20166,6 @@ arrestive
 autodigestive
 arrests
 assaulting
-area
 arrha
 appassionatamente
 arrhenal
