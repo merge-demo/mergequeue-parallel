@@ -5001,6 +5001,7 @@ beerpull
 beers
 beest
 blowers
+brachyaxis
 babbools
 bibation
 bindweb
@@ -14047,7 +14048,6 @@ blindstory
 bombastry
 bedangled
 brachiator
-brachyaxis
 brachycephali
 brachycephalism
 bragging
