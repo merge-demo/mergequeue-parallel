@@ -14655,7 +14655,6 @@ cystopyelitis
 coquelicot
 cystoplegia
 circumspection
-cystoproctostomy
 cystopteris
 cystoptosis
 cystoradiography
@@ -24497,6 +24496,7 @@ companable
 clinquant
 calorizes
 copenetrate
+cystoproctostomy
 copenhagen
 copepod
 copepoda
