@@ -2118,7 +2118,6 @@ booms
 bosch
 brouillon
 bay
-barring
 bantayan
 bidstand
 bantam
@@ -11241,6 +11240,7 @@ bertrand
 blotto
 brokenheartedly
 botteghe
+barring
 bloubiskop
 bloodguiltiness
 beglobed
