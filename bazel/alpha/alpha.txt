@@ -1831,6 +1831,7 @@ acerval
 acervate
 acervation
 acervulus
+assassinated
 anacoluthia
 atropins
 acescent
@@ -25017,7 +25018,6 @@ awninged
 akala
 awnings
 awnless
-assassinated
 ablepsia
 allodium
 archical
