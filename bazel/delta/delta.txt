@@ -5310,6 +5310,7 @@ droud
 ducks
 distincter
 dialkylamine
+decolorise
 distitle
 defiant
 donis
@@ -15567,7 +15568,6 @@ daywrit
 dispell
 desist
 deflagrated
-decolorise
 dumbcow
 dealers
 demodulates
