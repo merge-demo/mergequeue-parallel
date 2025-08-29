@@ -22042,6 +22042,7 @@ aortae
 asthenolith
 asthenology
 asthenophobia
+allograph
 anguid
 asthma
 allegiare
@@ -24926,7 +24927,6 @@ awater
 arachis
 awave
 atilt
-allograph
 antitartaric
 acrophonic
 audits
