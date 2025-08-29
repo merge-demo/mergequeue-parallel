@@ -907,7 +907,6 @@ adversant
 absolutist
 absolutistically
 apocrine
-absolutize
 absolutory
 absolvatory
 absolve
@@ -15347,6 +15346,7 @@ adjutancy
 atmiatrics
 antiliturgist
 antilocapra
+absolutize
 aerodermectasia
 appetitost
 akonge
