@@ -7888,7 +7888,6 @@ btu
 bibliophagous
 boscages
 bongoists
-bluntishness
 byron
 bibliophil
 benward
@@ -17801,6 +17800,7 @@ brocade
 bodhi
 brachistocephalous
 blushless
+bluntishness
 berengarian
 boddle
 berkowitz
