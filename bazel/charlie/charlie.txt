@@ -15390,7 +15390,6 @@ clapperclaw
 cloragen
 clappered
 characters
-clappers
 clapping
 claps
 consecratedness
@@ -31725,6 +31724,7 @@ calorizer
 capernoitie
 carian
 custerite
+clappers
 custodee
 custodian
 custodians
