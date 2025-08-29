@@ -12460,7 +12460,6 @@ budlike
 boohoo
 bondmaids
 befoulier
-botryopteris
 bawhorse
 bondmen
 bondminder
@@ -16250,6 +16249,7 @@ brucellae
 bleared
 boussingaultia
 barrios
+botryopteris
 brucellosis
 barely
 balanoglossida
