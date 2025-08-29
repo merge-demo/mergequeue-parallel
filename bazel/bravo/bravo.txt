@@ -8213,7 +8213,6 @@ balanocele
 berith
 bb
 bullfist
-brothership
 bespurt
 bulgaric
 biforking
@@ -18005,6 +18004,7 @@ baseness
 buskined
 bellmouthed
 beautied
+brothership
 busload
 bondmanship
 busmen
