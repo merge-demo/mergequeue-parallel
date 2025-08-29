@@ -6924,7 +6924,6 @@ copesettic
 concours
 ceratinous
 culm
-caruage
 cenaculum
 cloglike
 coloproctitis
@@ -23650,6 +23649,7 @@ cerusite
 compass
 contradictedness
 chylocaulously
+caruage
 cabezons
 classwise
 colliquament
