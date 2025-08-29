@@ -952,6 +952,7 @@ dapson
 dauts
 darac
 detachers
+delapsion
 directives
 dewed
 dures
@@ -10523,7 +10524,6 @@ downfalling
 disaccordant
 dearnesses
 demonetized
-delapsion
 digonoporous
 dollin
 depel
