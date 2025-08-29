@@ -4494,7 +4494,6 @@ dendrological
 dysprosium
 demicanon
 disjointedly
-duomachy
 developmentist
 dislocatory
 dysphoric
@@ -11867,6 +11866,7 @@ daydreamed
 devitalised
 dogma
 defiler
+duomachy
 discruciate
 dived
 dislimning
