@@ -3424,6 +3424,7 @@ defoamed
 diacetylmorphine
 damozels
 desisting
+disangularize
 defoamer
 dryer
 doltishness
@@ -9900,7 +9901,6 @@ desilicification
 dace
 dimensionally
 dimensioning
-disangularize
 diphenyl
 dimer
 deludable
