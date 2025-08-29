@@ -14778,6 +14778,7 @@ astrognosy
 autospray
 antimachinery
 anticyclic
+aenigma
 arrondi
 alife
 anticyclical
@@ -21697,7 +21698,6 @@ acroteric
 altropathy
 asservilize
 asses
-aenigma
 anionics
 antifertilizer
 anagogically
