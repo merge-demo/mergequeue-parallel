@@ -1731,6 +1731,7 @@ accusatrix
 archiereus
 accuse
 amidships
+astuciously
 accused
 accusers
 achatour
@@ -17334,7 +17335,6 @@ apotactic
 apotactici
 adducent
 agriculturalist
-astuciously
 attempered
 apotelesm
 ancients
