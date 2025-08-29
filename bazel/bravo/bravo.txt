@@ -6254,6 +6254,7 @@ benjaminite
 bridgeway
 britannic
 boletus
+between
 benjamins
 bypass
 beakful
@@ -11039,7 +11040,6 @@ bisaccate
 bloating
 burglarized
 bilk
-between
 bloats
 blob
 bimetallic
