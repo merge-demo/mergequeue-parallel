@@ -9305,6 +9305,7 @@ daguerreotyper
 dewar
 dietaries
 deosculate
+deallocates
 deliverable
 disploding
 dictatress
@@ -16247,7 +16248,6 @@ draconic
 dialector
 deerskins
 dizens
-deallocates
 downshift
 dislimned
 defats
