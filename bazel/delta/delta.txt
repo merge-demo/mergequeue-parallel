@@ -10503,7 +10503,6 @@ dendrodra
 disordeine
 decagons
 diphthonging
-diphthongisation
 demolishes
 deisticalness
 dramatist
@@ -11977,6 +11976,7 @@ domes
 derailleur
 disembarked
 demephitize
+diphthongisation
 duskish
 dewatered
 dietetical
