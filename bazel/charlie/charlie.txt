@@ -15716,6 +15716,7 @@ claviculate
 chrysohermidin
 chirotype
 clima
+cursing
 chrysograph
 claviger
 charcuterie
@@ -31524,7 +31525,6 @@ curser
 cursers
 curship
 cornutin
-cursing
 coelenteron
 cursitate
 creirgist
