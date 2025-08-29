@@ -5850,7 +5850,6 @@ dreidel
 dimagnesic
 depraver
 docetic
-dragonfly
 doliolidae
 deadtongue
 dags
@@ -16013,6 +16012,7 @@ deindividualization
 doblones
 desuete
 deviant
+dragonfly
 dotiest
 decolourisation
 desponding
