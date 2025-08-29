@@ -10809,6 +10809,7 @@ abstrude
 ammonitoid
 ammonitoidea
 affording
+archetypes
 ammocoetiform
 antischolastic
 araneids
@@ -18747,7 +18748,6 @@ avizandum
 arabian
 anhydremic
 almaciga
-archetypes
 attributive
 asymmetrically
 archettos
