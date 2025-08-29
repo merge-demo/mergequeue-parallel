@@ -2113,6 +2113,7 @@ digraph
 dihydrol
 decamethonium
 decancellate
+diaphanometer
 dominator
 decancellated
 disciplinarian
@@ -14552,7 +14553,6 @@ decertification
 dromograph
 dividivis
 divinising
-diaphanometer
 dumbheaded
 diwani
 dividualism
