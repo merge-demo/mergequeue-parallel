@@ -2372,7 +2372,6 @@ dwyka
 deciders
 disownment
 disguisements
-diplontic
 dismantlement
 dayakker
 deciduity
@@ -9761,6 +9760,7 @@ dilatedness
 dichorisandra
 dreamtide
 dumpler
+diplontic
 deodaras
 delouse
 decussated
