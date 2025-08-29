@@ -3732,7 +3732,6 @@ baldly
 baetyl
 barotraumata
 bronteon
-bringall
 barnstorms
 battler
 basocyte
@@ -8158,6 +8157,7 @@ buffalos
 baldpate
 ballote
 bienly
+bringall
 brahmanism
 bedrabble
 browpost
