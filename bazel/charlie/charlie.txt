@@ -16570,7 +16570,6 @@ carburization
 contorting
 cantish
 capsules
-cloisterwise
 cloistral
 concoagulation
 chamisos
@@ -22024,6 +22023,7 @@ carf
 conflagration
 conflagrations
 climatologists
+cloisterwise
 convincingness
 conflagrative
 cokey
