@@ -21049,7 +21049,6 @@ conenose
 chiam
 celoms
 catarrh
-comradely
 comradeliness
 comrades
 comradeship
@@ -28992,6 +28991,7 @@ catholicizer
 criminologies
 criminologist
 carminic
+comradely
 colletarium
 criminologists
 criminous
