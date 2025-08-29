@@ -2108,7 +2108,6 @@ doab
 duddies
 diagnostics
 despoilment
-decameron
 dissyllabize
 digraph
 dihydrol
@@ -12562,6 +12561,7 @@ denaturizer
 dols
 decerns
 dentistical
+decameron
 dugout
 disowning
 disinfecting
