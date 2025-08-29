@@ -6830,7 +6830,6 @@ ait
 ashot
 aitch
 amazement
-appropriately
 aberrator
 aitchpiece
 amphimixis
@@ -12397,6 +12396,7 @@ adipocere
 anchorhold
 akeki
 anelytrous
+appropriately
 autolithographer
 anematized
 arsenicated
