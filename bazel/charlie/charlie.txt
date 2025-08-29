@@ -7763,7 +7763,6 @@ cache
 ceruleite
 ceruleolactite
 cravenette
-connoissance
 ceruleous
 ceratophrys
 cerulific
@@ -23515,6 +23514,7 @@ contiguity
 circumferent
 continentaler
 continentalize
+connoissance
 celiitis
 continentals
 cochranea
