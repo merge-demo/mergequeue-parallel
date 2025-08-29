@@ -3708,7 +3708,6 @@ dehydrogenate
 dawtet
 distillable
 dungier
-disentangled
 designlessness
 devisable
 dehydrogenated
@@ -12324,6 +12323,7 @@ debarks
 disgracious
 demetallize
 diplegias
+disentangled
 doublegear
 dogface
 decipolar
