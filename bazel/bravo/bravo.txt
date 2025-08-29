@@ -6017,7 +6017,6 @@ bekko
 betterments
 bemaul
 bipinnarias
-bitterbark
 beme
 bemean
 biphenyls
@@ -9678,6 +9677,7 @@ birchbark
 bedrolls
 babuls
 bismuthide
+bitterbark
 bethanked
 beneficing
 browses

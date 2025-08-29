@@ -3704,7 +3704,6 @@ adiathermancy
 antioxidase
 alcoranist
 akroterial
-alure
 arcticologist
 acaridea
 adiathetic
@@ -21976,6 +21975,7 @@ astereognosis
 asteriidae
 admirance
 achromatophilic
+alure
 abaculus
 archchaplain
 ambrette
