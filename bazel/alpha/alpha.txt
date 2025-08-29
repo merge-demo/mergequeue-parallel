@@ -4959,6 +4959,7 @@ alchera
 aerosolize
 altisonous
 ageratums
+assaulter
 alexinic
 aerosolized
 aerostatic
@@ -21595,7 +21596,6 @@ aminoacetophenone
 anthramin
 alfred
 astrospectroscopic
-assaulter
 assaultive
 assausive
 affixing
