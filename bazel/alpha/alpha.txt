@@ -313,7 +313,6 @@ aquarelles
 annexing
 assumed
 abecedaire
-abecedarian
 autointoxication
 anacara
 acidifiers
@@ -16702,6 +16701,7 @@ aphidivorous
 aphidlion
 aphidolysin
 aphidozer
+abecedarian
 aphodi
 archipterygium
 angelim
