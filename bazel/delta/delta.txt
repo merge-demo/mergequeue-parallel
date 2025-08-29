@@ -1942,7 +1942,6 @@ dissatisfyingly
 daedalian
 doodles
 debs
-diatonical
 dissilience
 dyophysitism
 demireps
@@ -4916,6 +4915,7 @@ demonstrater
 demonstrates
 demonstrationist
 decolorizing
+diatonical
 devilwise
 dicondylian
 dacrycystalgia
