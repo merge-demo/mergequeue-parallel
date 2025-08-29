@@ -5789,7 +5789,6 @@ corona
 categorizer
 chlorpicrin
 chandoo
-categorizes
 communicants
 cestoidean
 crawling
@@ -24443,6 +24442,7 @@ commoned
 coothay
 crotyl
 cootie
+categorizes
 copps
 coelogyne
 cooties
