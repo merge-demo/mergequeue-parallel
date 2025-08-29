@@ -10941,6 +10941,7 @@ chiroplasty
 churchgo
 commenceable
 chiropody
+coper
 cheekish
 comitatus
 cystoscopic
@@ -24504,7 +24505,6 @@ chromolithograph
 cleistothecopsis
 cyzicene
 coplaintiff
-coper
 copernican
 creatophagous
 citrinous
