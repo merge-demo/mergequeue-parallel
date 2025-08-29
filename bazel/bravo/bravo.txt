@@ -109,6 +109,7 @@ blistering
 bounderishly
 blackguardly
 bladderwrack
+blackcoat
 balanophore
 burlies
 baroclinity
@@ -8402,7 +8403,6 @@ belluine
 bedaze
 balita
 blams
-blackcoat
 bikkurim
 biosynthetically
 bloodworm
