@@ -2146,7 +2146,6 @@ decantist
 decaffeinated
 decapitation
 decapitations
-disassemble
 downfall
 decostate
 dicecup
@@ -15403,6 +15402,7 @@ decanters
 dolphus
 dryfat
 displeasured
+disassemble
 doating
 disintegrationist
 domage
