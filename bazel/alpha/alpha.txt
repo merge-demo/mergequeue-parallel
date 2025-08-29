@@ -4236,7 +4236,6 @@ adrue
 arecaine
 atabrine
 amortizing
-acarida
 actiniferous
 adscititious
 adscriptitious
@@ -6998,6 +6997,7 @@ arthresthesia
 aroint
 androides
 arythmic
+acarida
 akkadist
 akmite
 aftershock
