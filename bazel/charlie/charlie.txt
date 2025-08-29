@@ -4766,7 +4766,6 @@ carps
 carpsucker
 cavalierish
 concaving
-connotive
 chem
 crosspost
 cressida
@@ -8962,6 +8961,7 @@ chestnutty
 charicleia
 castigates
 charier
+connotive
 chariest
 curdle
 charily
