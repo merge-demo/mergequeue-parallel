@@ -8502,6 +8502,7 @@ airfreighter
 allay
 allayers
 allaying
+anabatic
 archdukedom
 acyclically
 allanite
@@ -13118,7 +13119,6 @@ animist
 antigraft
 aecium
 animistic
-anabatic
 ambivalency
 accretionary
 amaltas
