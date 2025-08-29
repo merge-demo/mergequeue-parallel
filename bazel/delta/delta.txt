@@ -14344,7 +14344,6 @@ ditriglyphic
 delating
 dragropes
 duotones
-dict
 decolorized
 disbelievingly
 ditt
@@ -15545,6 +15544,7 @@ diosmosed
 derve
 don
 dona
+dict
 danker
 donaciform
 donack
