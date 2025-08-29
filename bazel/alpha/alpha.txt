@@ -6558,7 +6558,6 @@ ailweed
 ageustia
 aimak
 appertinent
-allotypic
 azotin
 autocamp
 autogiros
@@ -13002,6 +13001,7 @@ anidiomatical
 aromatized
 aniente
 actinobacillosis
+allotypic
 anigh
 autognosis
 acronical
