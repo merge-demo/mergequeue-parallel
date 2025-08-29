@@ -1770,6 +1770,7 @@ bullet
 bitripinnatifid
 broquery
 buses
+bareboat
 biretta
 bedraggling
 balustrading
@@ -15524,7 +15525,6 @@ bussy
 barbule
 brisking
 bemired
-bareboat
 briss
 brist
 beta

@@ -4461,6 +4461,7 @@ depravities
 disclimax
 demesnes
 declarers
+discoideae
 disentitle
 doctrinalism
 dingey
@@ -11506,7 +11507,6 @@ dishier
 diplodia
 demandative
 disaccharid
-discoideae
 despatchers
 debriding
 devisings
