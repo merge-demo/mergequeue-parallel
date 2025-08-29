@@ -1037,7 +1037,6 @@ cadish
 calceate
 curiology
 calced
-calcedon
 caprine
 carbamidine
 chitinocalcareous
@@ -4664,6 +4663,7 @@ commas
 contralateral
 choenix
 carpetbags
+calcedon
 counterearth
 ciboria
 catchall
