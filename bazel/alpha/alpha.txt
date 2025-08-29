@@ -8036,7 +8036,6 @@ algoesthesiometer
 aides
 acrologies
 avoidances
-artisanship
 algoid
 adroitness
 anglophiliac
@@ -24261,6 +24260,7 @@ acetous
 autopolyploid
 academically
 autopolyploidy
+artisanship
 autopolo
 anomalous
 autopoloist
