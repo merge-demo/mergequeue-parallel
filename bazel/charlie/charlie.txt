@@ -8120,6 +8120,7 @@ comrogue
 chalkboards
 chainage
 crepuscule
+coraciae
 conceptions
 chainless
 counteractions
@@ -29000,7 +29001,6 @@ criminousness
 crimmer
 copilot
 crymoanesthesia
-coraciae
 coadmires
 commissariats
 cantab
