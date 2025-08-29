@@ -13508,6 +13508,7 @@ decantherous
 dishearten
 dishabited
 disrest
+dolce
 disring
 disillusionment
 disguiseless
@@ -13682,7 +13683,6 @@ dissyllable
 dialecticism
 dashboard
 dignitarial
-dolce
 dullishly
 dissimilars
 dorize

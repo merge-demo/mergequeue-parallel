@@ -17019,7 +17019,6 @@ cnidarian
 cnidian
 crayoned
 cnidoblast
-cnidocil
 cobbed
 coexplosion
 cupmate
@@ -26798,6 +26797,7 @@ crystallogram
 counterfleury
 counterflux
 clodlike
+cnidocil
 counterfoil
 counterforce
 cosmopolitanizing
