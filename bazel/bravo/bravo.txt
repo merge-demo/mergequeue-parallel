@@ -12394,6 +12394,7 @@ brum
 bassariscus
 buckram
 bowknot
+brewed
 befingering
 blindless
 bonbonnieres
@@ -16495,7 +16496,6 @@ brachypinacoid
 bleary
 bern
 brutishness
-brewed
 bechern
 blockheadism
 bruzz
