@@ -5135,6 +5135,7 @@ abnegative
 affianced
 angakok
 aerophilic
+asself
 affiancing
 antievolutionistic
 affiants
@@ -21625,7 +21626,6 @@ antisi
 aerotonometer
 assentors
 asseize
-asself
 assembl
 assemblable
 assemblance
