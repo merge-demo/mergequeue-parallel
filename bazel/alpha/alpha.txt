@@ -7023,7 +7023,6 @@ akpek
 akra
 antitypically
 acclimated
-abacisci
 akre
 akroasis
 akrochordite
@@ -22114,6 +22113,7 @@ anaesthesia
 astonishment
 absurdism
 astonishments
+abacisci
 astoop
 abjoint
 anolympiad
