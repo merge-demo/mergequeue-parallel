@@ -14471,6 +14471,7 @@ cuttanee
 celiectasia
 cirrostratus
 cappagh
+cordoban
 conscription
 cassatas
 counterpuncher
@@ -18259,7 +18260,6 @@ coffering
 cancerite
 cadding
 cyeses
-cordoban
 cofferwork
 christology
 coffin
