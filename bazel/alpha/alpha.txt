@@ -8782,6 +8782,7 @@ adamastor
 aditus
 administered
 allocator
+anticontagiously
 agynary
 acadia
 apocynum
@@ -14923,7 +14924,6 @@ anagnostes
 anticontagionist
 agrin
 anticontagious
-anticontagiously
 aubades
 aeroducts
 anticonventional
