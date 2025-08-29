@@ -8544,6 +8544,7 @@ abaction
 autosuggestibility
 alkoxid
 allectory
+adopters
 architectonically
 atmophile
 allegata
@@ -21568,7 +21569,6 @@ antiexporting
 alacritous
 aweless
 assailer
-adopters
 assailers
 alternize
 axiform
