@@ -3812,7 +3812,6 @@ dangerful
 donkey
 download
 dialyzator
-dicier
 disjecting
 duplexed
 dropped
@@ -11102,6 +11101,7 @@ dullsville
 deadpan
 diakinesis
 decarbonylate
+dicier
 disconcertedness
 delphinius
 decempedal
