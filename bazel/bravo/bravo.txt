@@ -10182,7 +10182,6 @@ bitreadle
 blackguard
 bos
 betokening
-bookrests
 blup
 buckwasher
 baroreceptor
@@ -13288,6 +13287,7 @@ botany
 bilboquet
 brominated
 birdmen
+bookrests
 blennies
 botanic
 baltei
