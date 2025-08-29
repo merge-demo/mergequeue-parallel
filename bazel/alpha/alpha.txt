@@ -16978,7 +16978,6 @@ apocentricity
 aymoro
 acroscleroderma
 argonautic
-arteriectasis
 apocha
 automorphic
 apocholic
@@ -19832,6 +19831,7 @@ armillaria
 annist
 achaemenidian
 adenopharyngitis
+arteriectasis
 arightly
 armine
 arrogating
