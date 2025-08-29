@@ -21240,6 +21240,7 @@ afridi
 asymptomatic
 alizarin
 asymptote
+assyriology
 accompletive
 asymptotes
 asymptotically
@@ -21762,7 +21763,6 @@ atropism
 agueweed
 assinuate
 alternanthera
-assyriology
 anaglyphics
 assyriological
 aristol
