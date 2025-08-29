@@ -9402,7 +9402,6 @@ diphygenic
 disinflating
 diffract
 defense
-dissyllabification
 diffractively
 diviner
 deruralize
@@ -18387,6 +18386,7 @@ duodenoenterostomy
 dreamish
 denudative
 duodenojejunostomies
+dissyllabification
 dillue
 douches
 duodenoscopy
