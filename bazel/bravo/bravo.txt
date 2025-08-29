@@ -2850,7 +2850,6 @@ bitterbump
 buttonmold
 barbery
 barrabora
-barracan
 barrack
 borh
 ballers
@@ -3380,6 +3379,7 @@ balaenicipites
 bonesetter
 basiphobia
 buccheros
+barracan
 branchiopulmonate
 bangiales
 bassalia
