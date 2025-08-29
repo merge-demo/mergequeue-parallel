@@ -9763,7 +9763,6 @@ amaranthine
 ataraxy
 aforeward
 angioglioma
-amaranthus
 amarantine
 amarantus
 advowsance
@@ -22190,6 +22189,7 @@ astriferous
 autosoteric
 assorts
 astringed
+amaranthus
 apostolici
 antipoints
 ablest
