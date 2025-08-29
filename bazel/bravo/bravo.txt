@@ -8820,7 +8820,6 @@ bondman
 blink
 battel
 bepill
-binocularly
 binoculars
 binodose
 buckbean
@@ -12667,6 +12666,7 @@ bepraise
 bronchoconstrictor
 bubblier
 baptized
+binocularly
 butylates
 boysenberry
 bororo
