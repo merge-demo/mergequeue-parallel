@@ -11076,6 +11076,7 @@ besetter
 beveto
 bilirubinic
 bioral
+biotaxy
 blockiest
 bevelling
 barouchet
@@ -11863,7 +11864,6 @@ boardlike
 barmybrained
 birdsall
 bended
-biotaxy
 bodonid
 bromic
 barming
