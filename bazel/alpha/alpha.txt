@@ -21166,7 +21166,6 @@ ashrafi
 auxins
 anticonformist
 advancer
-ashrama
 ashtoreth
 aspartic
 ashvamedha
@@ -22824,6 +22823,7 @@ assonance
 alkylol
 atrichic
 abbogada
+ashrama
 archpriesthood
 annary
 anallantoic
