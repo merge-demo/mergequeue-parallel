@@ -8186,7 +8186,6 @@ binds
 baryes
 burden
 beswarming
-burls
 byeworkman
 bifaces
 bifacial
@@ -12355,6 +12354,7 @@ berime
 band
 bandlimit
 bollandist
+burls
 buckshee
 brigades
 biskop
