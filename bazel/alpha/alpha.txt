@@ -10623,6 +10623,7 @@ aryepiglottidean
 aminobenzaldehyde
 anthrachrysone
 antichrome
+astrophyllite
 aminobenzoic
 antidrag
 appetency
@@ -13491,7 +13492,6 @@ atwain
 announce
 anthropophagical
 announced
-astrophyllite
 announcing
 appaloosa
 annualized
