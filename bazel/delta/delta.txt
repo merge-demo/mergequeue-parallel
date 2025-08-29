@@ -3329,6 +3329,7 @@ dialling
 decolor
 disrestore
 dynagraph
+dollin
 dithionate
 daggering
 defiladed
@@ -10528,7 +10529,6 @@ dearnesses
 demonetized
 delapsion
 digonoporous
-dollin
 depel
 danging
 derangeable
