@@ -9779,6 +9779,7 @@ biophysicochemical
 braved
 bathhouses
 bystreets
+beerothite
 bistres
 boltmaking
 boeotarch
@@ -17209,7 +17210,6 @@ bawlers
 bolographically
 bumblers
 bumbles
-beerothite
 boohooed
 bootlaces
 bumbling
