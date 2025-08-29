@@ -1721,6 +1721,7 @@ atticized
 aurification
 antediluvian
 accusatory
+anomaloscope
 abases
 accusatorial
 accusatorially
@@ -5673,7 +5674,6 @@ adorner
 angiomatosis
 antiteetotalism
 agasp
-anomaloscope
 antismog
 agrised
 amplifier
