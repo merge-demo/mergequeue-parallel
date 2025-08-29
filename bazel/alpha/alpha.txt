@@ -5246,7 +5246,6 @@ albedograph
 afforce
 afford
 alkines
-affordable
 argoletier
 afforested
 afforesting
@@ -6154,6 +6153,7 @@ agr
 aymara
 attirement
 agrace
+affordable
 ahold
 agraffe
 alimental
