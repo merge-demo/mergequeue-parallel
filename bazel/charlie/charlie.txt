@@ -2877,6 +2877,7 @@ cansos
 chartophylaxes
 congenialize
 cant
+crispy
 connectionless
 crayfish
 cantabank
@@ -12234,7 +12235,6 @@ counteradvice
 chrysops
 casement
 chrysopsis
-crispy
 camphorphorone
 cardings
 chrysosperm
