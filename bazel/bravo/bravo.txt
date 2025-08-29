@@ -14140,7 +14140,6 @@ begoggled
 barbra
 belemnitidae
 brachium
-brachyura
 brachyuran
 bezant
 bayed
@@ -16629,6 +16628,7 @@ busker
 banalness
 brassidic
 blocage
+brachyura
 banquetings
 buckeen
 busby
