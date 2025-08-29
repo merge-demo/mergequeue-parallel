@@ -5039,6 +5039,7 @@ astragalectomy
 aether
 advected
 aromacity
+allegorister
 ahrimanian
 affrication
 audition
@@ -15562,7 +15563,6 @@ antinihilist
 ardently
 appendance
 attacked
-allegorister
 arcus
 awfulness
 arrowheaded
