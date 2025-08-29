@@ -8654,6 +8654,7 @@ channelling
 commiseratingly
 channelure
 cestus
+cryst
 chronoscope
 chansonette
 carcinomatoid
@@ -29392,7 +29393,6 @@ chylaqueous
 crisscrossed
 crisscrosses
 crisset
-cryst
 crystaling
 commentatorially
 cantharis
