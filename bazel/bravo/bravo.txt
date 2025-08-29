@@ -5254,6 +5254,7 @@ barkeeps
 bandos
 basaltic
 boxwork
+bartizans
 bicentenary
 bimastoid
 bullyragged
@@ -16932,7 +16933,6 @@ branchiobdella
 bustic
 bitthead
 bulb
-bartizans
 blandishers
 behears
 bonser

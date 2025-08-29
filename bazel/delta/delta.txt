@@ -1347,6 +1347,7 @@ daunters
 daffy
 dipentine
 demissive
+domesticality
 dwarfing
 draftsperson
 dulcetness
@@ -15432,7 +15433,6 @@ darbyite
 decongestion
 defrocks
 domesdays
-domesticality
 disbosom
 doment
 devicefully
