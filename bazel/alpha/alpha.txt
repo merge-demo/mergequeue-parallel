@@ -147,7 +147,6 @@ alef
 apar
 abattised
 abattises
-antiracism
 azurites
 abattoirs
 abattu
@@ -18029,6 +18028,7 @@ artocarpus
 attesters
 apus
 antechoir
+antiracism
 aquacade
 aquacultural
 aquaemanale
