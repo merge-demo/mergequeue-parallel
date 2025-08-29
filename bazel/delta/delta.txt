@@ -14249,6 +14249,7 @@ doldrum
 dismasts
 dramatists
 dicer
+diols
 damage
 daboia
 diazeuxis
@@ -15669,7 +15670,6 @@ digor
 doomsayer
 doomsday
 dacryocystotome
-diols
 decussating
 doomster
 dismissed
