@@ -1662,7 +1662,6 @@ chromatophore
 calorimetry
 calorimetrical
 calorimetrically
-calorimotor
 calorist
 calorizing
 cawing
@@ -3248,6 +3247,7 @@ capitellate
 canteen
 capitellum
 capitle
+calorimotor
 cerebrum
 compenetrate
 corns
