@@ -4898,6 +4898,7 @@ diluting
 dialogist
 demonologer
 demonology
+disecondary
 demonologically
 duteously
 densitometers
@@ -13454,7 +13455,6 @@ diazotic
 diarsenide
 disesteem
 dysgnosia
-disecondary
 dodgy
 decedents
 disquisitor
