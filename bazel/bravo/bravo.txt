@@ -8149,7 +8149,6 @@ bieldy
 brawlier
 bossa
 bathylite
-bellicoseness
 bielding
 bewinter
 benzopinacone
@@ -14982,6 +14981,7 @@ besmoke
 barramundis
 bemusedly
 bardling
+bellicoseness
 butterflyfish
 buro
 barelegged
