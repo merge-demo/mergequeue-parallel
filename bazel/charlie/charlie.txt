@@ -7685,7 +7685,6 @@ cerniture
 croze
 cernuous
 cerographer
-contestants
 contracter
 cerographical
 ceroline
@@ -15563,6 +15562,7 @@ continentalist
 classifiable
 cicatrized
 curites
+contestants
 crustaceous
 classificator
 contubernium

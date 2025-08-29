@@ -3357,7 +3357,6 @@ antroversion
 aphoruridae
 addible
 addicent
-addicted
 antiknocks
 addictedness
 addictions
@@ -19183,6 +19182,7 @@ areasoner
 areawide
 areca
 arecain
+addicted
 arecas
 atmolyzer
 agitatedly
