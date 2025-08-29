@@ -2412,7 +2412,6 @@ carnie
 comitium
 cancerophobe
 cancerophobia
-celtophil
 cancerously
 coolth
 cancerousness
@@ -15954,6 +15953,7 @@ clericism
 conglomerator
 centares
 clerid
+celtophil
 chicaning
 ceder
 comfrey
