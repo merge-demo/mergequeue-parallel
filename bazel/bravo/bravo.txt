@@ -6598,6 +6598,7 @@ berdache
 battuta
 byreman
 booming
+booklore
 birotation
 baryglossia
 blotter
@@ -12717,7 +12718,6 @@ barging
 ballant
 booklear
 brandishing
-booklore
 bhavan
 birdliming
 busters
