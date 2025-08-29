@@ -16229,7 +16229,6 @@ antitypous
 asphalt
 amphigouris
 anthochlor
-antitobacconist
 auscultative
 antitonic
 actinomorphy
@@ -24388,6 +24387,7 @@ autotetraploid
 autotetraploidy
 aeron
 aah
+antitobacconist
 antivenefic
 autothaumaturgist
 appellatively
