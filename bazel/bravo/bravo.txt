@@ -4228,7 +4228,6 @@ bulbonuclear
 blackwasher
 beaumont
 beaupere
-beausire
 batetela
 beauteous
 beauti
@@ -13503,6 +13502,7 @@ boggles
 botulism
 brothel
 bags
+beausire
 bigamistic
 bourre
 beseek
