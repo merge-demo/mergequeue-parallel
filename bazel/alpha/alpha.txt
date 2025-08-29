@@ -3508,6 +3508,7 @@ adenochrome
 apts
 andric
 abnumerable
+antipedal
 adenocystoma
 antepectoral
 adenocystomatous
@@ -4792,7 +4793,6 @@ airphobia
 aerodonetics
 aerodontalgia
 arcanum
-antipedal
 archhost
 arenite
 areek
