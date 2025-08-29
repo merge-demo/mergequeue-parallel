@@ -5953,6 +5953,7 @@ departements
 dissympathize
 dimethylnitrosamine
 deprivals
+diego
 deceiver
 deprivement
 disconcerts
@@ -9216,7 +9217,6 @@ diminutively
 devises
 diedric
 deuteromorphic
-diego
 dodonian
 dioptograph
 destinist
