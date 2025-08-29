@@ -3385,6 +3385,7 @@ bangiales
 bassalia
 bootable
 bullnut
+batteryman
 brythonic
 baculum
 bassan
@@ -3713,7 +3714,6 @@ battered
 beltis
 batterie
 breck
-batteryman
 batterman
 bullockman
 bepinch

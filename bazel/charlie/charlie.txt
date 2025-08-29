@@ -12953,7 +12953,6 @@ cyanic
 cyanid
 casel
 catamenial
-continentality
 cyanides
 cyanidrosis
 clothes
@@ -15776,6 +15775,7 @@ cleanse
 centrarchidae
 crestfallenly
 crocoite
+continentality
 cephalocercal
 cleansers
 codescendant
