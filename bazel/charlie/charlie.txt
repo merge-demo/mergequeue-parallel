@@ -2826,7 +2826,6 @@ canonicalized
 canonicalizes
 cremor
 cadesse
-condiddled
 canonicate
 canonisation
 cornbin
@@ -27285,6 +27284,7 @@ calumniator
 courants
 centralizers
 courap
+condiddled
 couratari
 courbaril
 courbe
