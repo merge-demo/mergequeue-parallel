@@ -6735,7 +6735,6 @@ discant
 desucration
 desilicify
 desilicified
-desiliconization
 dribbed
 doubly
 decollating
@@ -9020,6 +9019,7 @@ deify
 disputers
 dasyproctine
 dunned
+desiliconization
 deraigns
 dodecuplet
 dicodeine
