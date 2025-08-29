@@ -6840,6 +6840,7 @@ dupla
 desmoncus
 danknesses
 dryobalanops
+dorm
 drevel
 dragnet
 deadflat
@@ -15813,7 +15814,6 @@ drubbly
 delays
 dicyanine
 dogshore
-dorm
 donec
 deperm
 decries

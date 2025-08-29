@@ -13315,7 +13315,6 @@ ankylenteron
 acmaesthesia
 ankylocheilia
 ankylodactylia
-albescent
 antiinflammatory
 ankylodontia
 assumption
@@ -21393,6 +21392,7 @@ asperity
 anthrol
 attrib
 associationist
+albescent
 asperly
 azonium
 aerologic
