@@ -9673,7 +9673,6 @@ bumblefoot
 bromids
 bismuthate
 burhinus
-birchbark
 bedrolls
 babuls
 bismuthide
@@ -17057,6 +17056,7 @@ bulletining
 batches
 bulletless
 basecoat
+birchbark
 bulletlike
 burghmote
 braconniere
