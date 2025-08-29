@@ -8745,7 +8745,6 @@ commonplaces
 chapelmaster
 colonises
 chapelry
-combflower
 cytostome
 chapelries
 cinerins
@@ -13929,6 +13928,7 @@ chloroanemia
 cynophilic
 climatotherapy
 cynophilist
+combflower
 chilognath
 cynophobe
 cynophobia

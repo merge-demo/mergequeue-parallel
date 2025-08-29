@@ -11727,7 +11727,6 @@ altocumulus
 africanthropus
 analysation
 aparavidya
-analysers
 abstentions
 aerides
 analyses
@@ -24854,6 +24853,7 @@ ayenbite
 attractableness
 aromas
 antinoness
+analysers
 aponeurotome
 annuloida
 autochrome
