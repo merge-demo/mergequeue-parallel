@@ -2979,7 +2979,6 @@ barringer
 broadcasters
 boulevard
 barrister
-bootless
 banda
 bradykinesia
 botts
@@ -13210,6 +13209,7 @@ bosjesman
 boustrophedonic
 boskier
 balneology
+bootless
 boasters
 bosn
 balneologist
