@@ -8839,6 +8839,7 @@ dibenzoyl
 depilator
 dialyzable
 deg
+dubitancy
 dichotomal
 dentatocillitate
 dibenzophenazine
@@ -18472,7 +18473,6 @@ diagraming
 drovy
 duplify
 disclosed
-dubitancy
 duplified
 duplifying
 duplone
