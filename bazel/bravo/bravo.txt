@@ -4608,6 +4608,7 @@ bewilderingly
 broomwood
 bedeafening
 bayldonite
+bandura
 baghouse
 burmanniaceae
 bring
@@ -5453,7 +5454,6 @@ baviere
 balai
 bardes
 bandying
-bandura
 bisie
 basebred
 beheaded
