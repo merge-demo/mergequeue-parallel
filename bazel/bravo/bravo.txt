@@ -5570,6 +5570,7 @@ biopsies
 blockline
 breastfeeding
 bourbonian
+brownishness
 bejewelling
 bejewels
 backstamp
@@ -16185,7 +16186,6 @@ beamlet
 bahuts
 bottomland
 bourock
-brownishness
 brownist
 balneographer
 burlesqued

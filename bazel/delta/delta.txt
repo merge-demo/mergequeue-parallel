@@ -1191,7 +1191,6 @@ dodecaphony
 diiamb
 donnybrook
 diachoretic
-dogfall
 delimitized
 desmotropy
 discepted
@@ -13658,6 +13657,7 @@ disserviceably
 disserving
 depraved
 displacer
+dogfall
 dissettle
 dissociality
 diagrydium
