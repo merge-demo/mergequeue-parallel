@@ -22142,6 +22142,7 @@ commendableness
 confucius
 crambambuli
 confusability
+chignon
 circummured
 confusedness
 confuser
@@ -25631,7 +25632,6 @@ convincers
 cyanogenic
 circumvolant
 correctory
-chignon
 constitutive
 committals
 cobra
