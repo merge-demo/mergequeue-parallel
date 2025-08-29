@@ -9473,7 +9473,6 @@ battlefront
 birodo
 bisulphide
 brittling
-babingtonite
 bookshelf
 biron
 byronesque
@@ -10501,6 +10500,7 @@ bannerman
 benignities
 blastoneuropore
 billionaire
+babingtonite
 bacteriopathology
 bogan
 blastophyllum
