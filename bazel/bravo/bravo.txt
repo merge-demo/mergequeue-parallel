@@ -2266,6 +2266,7 @@ bindoree
 bianco
 bactericholia
 bide
+battling
 breadthless
 blousiest
 bullhide
@@ -16047,7 +16048,6 @@ brookite
 ballade
 beneficient
 barbarianized
-battling
 buoy
 burgoo
 brio
