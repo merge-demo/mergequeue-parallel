@@ -3585,7 +3585,6 @@ carabiniere
 carabinieri
 cotrespasser
 caraboa
-cinques
 circle
 caraboid
 caracara
@@ -11553,6 +11552,7 @@ cholecystitis
 cozies
 cacographer
 christophany
+cinques
 cholecystnephrostomy
 cupellation
 cholecystocolostomy
