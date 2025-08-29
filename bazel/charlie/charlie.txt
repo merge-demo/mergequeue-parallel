@@ -2762,6 +2762,7 @@ cableman
 cannier
 canning
 cannings
+cine
 chiccories
 cannister
 cannoli
@@ -20690,7 +20691,6 @@ complexer
 casserole
 cuinfo
 complexes
-cine
 convolvuli
 consonantise
 complexest
