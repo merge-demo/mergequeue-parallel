@@ -3277,6 +3277,7 @@ besoul
 basinet
 basinets
 basinful
+balloons
 bewhig
 begartered
 bethank
@@ -5891,7 +5892,6 @@ bargainer
 beride
 bellpull
 belltail
-balloons
 benumbedness
 botte
 bentwoods
