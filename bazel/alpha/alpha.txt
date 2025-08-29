@@ -7218,7 +7218,6 @@ antipetalous
 albutannin
 archlecher
 airspeed
-albarco
 ashur
 aionial
 albarelli
@@ -12631,6 +12630,7 @@ angelomachy
 arragonite
 angelonia
 arks
+albarco
 affaires
 akhmimic
 antimedicative
