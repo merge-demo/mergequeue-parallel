@@ -9571,7 +9571,6 @@ bracon
 biscuitroot
 burnets
 biscuits
-bhutia
 bromides
 bumbledom
 bronchomycosis
@@ -12331,6 +12330,7 @@ bluefins
 bonifaces
 bodysuits
 breakfasting
+bhutia
 bombillas
 bombinating
 bacchantic
