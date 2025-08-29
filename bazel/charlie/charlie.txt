@@ -11850,7 +11850,6 @@ choralcelo
 causeway
 cleanskins
 chorale
-carmagnoles
 choraleon
 chorales
 comradery
@@ -21121,6 +21120,7 @@ conceals
 coleopteran
 concededly
 couplets
+carmagnoles
 conceders
 chao
 crampfishes
