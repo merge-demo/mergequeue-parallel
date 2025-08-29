@@ -6163,6 +6163,7 @@ agral
 adiposities
 agrammaphasia
 agrammatica
+autopsychosis
 accouple
 afterpeak
 agrammatism
@@ -24284,7 +24285,6 @@ autopsy
 autopsical
 autopsychoanalysis
 aliyas
-autopsychosis
 autopsied
 angulating
 applecart
