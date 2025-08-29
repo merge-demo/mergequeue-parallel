@@ -26758,7 +26758,6 @@ counterenergy
 counterengagement
 corporator
 cambiogenetic
-counterengine
 counterenthusiasm
 counterentry
 counterequivalent
@@ -30391,6 +30390,7 @@ crux
 cruxes
 cognominate
 cruzado
+counterengine
 chelicere
 cruzieros
 crwd
