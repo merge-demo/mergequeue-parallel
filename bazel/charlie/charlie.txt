@@ -11259,6 +11259,7 @@ chloroacetone
 childe
 conservation
 chloroamide
+choking
 cardamon
 cuttlebone
 chloroaurate
@@ -11504,7 +11505,6 @@ carnaubyl
 coexertion
 carbonizer
 chokies
-choking
 cordovans
 chokra
 crossosoma
