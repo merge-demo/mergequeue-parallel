@@ -7594,6 +7594,7 @@ bibliopegic
 bribri
 bibliotaphe
 bewilderment
+bientt
 bewinged
 bewitched
 boughed
@@ -8165,7 +8166,6 @@ boyism
 brahmi
 biens
 basilemma
-bientt
 benefice
 bienvenue
 bayaderes
