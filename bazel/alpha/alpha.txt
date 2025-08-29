@@ -9253,7 +9253,6 @@ alpargata
 alpax
 alpeen
 alpen
-aphthongia
 axstone
 alpenglow
 alpenstock
@@ -14878,6 +14877,7 @@ anachronic
 antimagnetic
 anticommunistic
 anticommunistical
+aphthongia
 alemite
 anticommunistically
 anticompetitive
