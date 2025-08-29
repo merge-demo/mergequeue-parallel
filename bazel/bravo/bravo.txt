@@ -5651,7 +5651,6 @@ babbittess
 belauded
 balt
 brocks
-barb
 becuffed
 brumaire
 billyer
@@ -16709,6 +16708,7 @@ billheading
 biconvex
 burrower
 bahama
+barb
 blinder
 biacetyls
 bucrane
