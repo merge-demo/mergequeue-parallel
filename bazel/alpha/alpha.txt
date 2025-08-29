@@ -10219,6 +10219,7 @@ alchemister
 amelcorns
 amelification
 ameliorable
+antiamusement
 ameliorableness
 amylocellulose
 auxometer
@@ -14568,7 +14569,6 @@ angiectopia
 anchorless
 anthropogeographer
 antischolastically
-antiamusement
 aurichalcite
 ascertainment
 antianaphylaxis
