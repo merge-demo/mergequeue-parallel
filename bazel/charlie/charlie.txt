@@ -14640,6 +14640,7 @@ cystomyxoma
 cystonectae
 casco
 cystoneuralgia
+clockmaking
 cardinalfish
 cystoparalysis
 csi
@@ -16477,7 +16478,6 @@ clockless
 cuon
 clockmaker
 cryophorus
-clockmaking
 crewer
 clocksmith
 clockwatcher
