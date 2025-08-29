@@ -6947,7 +6947,6 @@ ameiotic
 allocation
 analogue
 aphanite
-ambulacriform
 allonge
 akenes
 avgases
@@ -11737,6 +11736,7 @@ analyst
 awestricken
 aurei
 amphophilic
+ambulacriform
 analyt
 acylate
 acrobat
