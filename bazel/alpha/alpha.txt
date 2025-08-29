@@ -1367,6 +1367,7 @@ agonist
 amintor
 acceptance
 aggressions
+arithmograph
 absorbent
 aspermous
 acceptancies
@@ -19682,7 +19683,6 @@ arythmical
 anteprandial
 ascriptive
 arithmocratic
-arithmograph
 arithmography
 azulejos
 ammonite
