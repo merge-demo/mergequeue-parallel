@@ -3359,7 +3359,6 @@ crypted
 cyclocoelic
 cappae
 capparid
-capparis
 capped
 capper
 ciseleurs
@@ -14222,6 +14221,7 @@ circulatories
 chumped
 coastguard
 circumesophageal
+capparis
 conventically
 circumfer
 circumferential
