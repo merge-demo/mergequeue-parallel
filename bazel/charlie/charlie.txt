@@ -46,7 +46,6 @@ cabaret
 cabasa
 corder
 cibation
-cabbage
 chuffily
 commends
 coup
@@ -15985,6 +15984,7 @@ cramper
 compromises
 covado
 cleromancy
+cabbage
 canniness
 clerstory
 clansmen
