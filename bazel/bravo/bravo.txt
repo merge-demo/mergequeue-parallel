@@ -5025,7 +5025,6 @@ bhowani
 beetiest
 bombernickel
 beetled
-boite
 banqueteer
 braunschweiger
 beglic
@@ -8256,6 +8255,7 @@ bovarysm
 bebeerus
 bigamies
 bigamist
+boite
 bigamize
 boyars
 betafite

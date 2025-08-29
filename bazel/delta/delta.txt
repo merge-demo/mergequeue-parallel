@@ -5206,7 +5206,6 @@ dsp
 dryopes
 disseminated
 distortedness
-decursion
 denominate
 distemperature
 deek
@@ -8284,6 +8283,7 @@ diagonals
 demoded
 deducting
 diagonalwise
+decursion
 denudate
 dicatalexis
 demonization
