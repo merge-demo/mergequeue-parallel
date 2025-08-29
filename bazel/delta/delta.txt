@@ -3772,7 +3772,6 @@ drillable
 dateable
 dynamites
 distrain
-dooputty
 disseizoress
 defibrillation
 deicers
@@ -13302,6 +13301,7 @@ decohesion
 disposed
 dibblers
 disposedness
+dooputty
 disposement
 dicrotic
 dispositional
