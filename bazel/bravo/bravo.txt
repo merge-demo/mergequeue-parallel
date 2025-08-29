@@ -1138,7 +1138,6 @@ boatload
 bracteolate
 bagful
 brindled
-bluethroat
 brewmaster
 boyg
 belonesite
@@ -16730,6 +16729,7 @@ behemothic
 bigamously
 botocudo
 brandisher
+bluethroat
 bethunder
 buddie
 boswell

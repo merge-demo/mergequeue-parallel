@@ -3067,6 +3067,7 @@ daddock
 degradand
 defaces
 disennoble
+discourt
 decongestive
 diminutiveness
 defacing
@@ -11522,7 +11523,6 @@ discolorment
 discolouring
 disconnectiveness
 discolourization
-discourt
 discombobulate
 disuniform
 denominator
