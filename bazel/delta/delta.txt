@@ -15402,6 +15402,7 @@ dismit
 decanters
 dolphus
 dryfat
+donable
 displeasured
 doating
 disintegrationist
@@ -16000,7 +16001,6 @@ distasting
 doted
 diploplacula
 doters
-donable
 dotes
 dispreads
 decadist

@@ -5002,7 +5002,6 @@ carves
 carvestrene
 carving
 curses
-carvings
 carvoeira
 carvoepra
 carwash
@@ -28754,6 +28753,7 @@ cresoline
 cresorcinol
 cryogenies
 ctg
+carvings
 cresoxy
 cresoxid
 cloyed
