@@ -4931,7 +4931,6 @@ aerophyte
 assessory
 aerophobic
 aerophor
-antithermic
 aloneness
 arrode
 aerophotos
@@ -18112,6 +18111,7 @@ aquavits
 amantillo
 aqueous
 asseverating
+antithermic
 aberuncator
 aporphin
 areel
