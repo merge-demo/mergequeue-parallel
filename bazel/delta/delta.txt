@@ -1043,7 +1043,6 @@ dineutron
 dozily
 daggly
 dissatisfied
-darkskin
 disseises
 darksomeness
 darksum
@@ -15155,6 +15154,7 @@ distinguisher
 dehors
 determinable
 doggonest
+darkskin
 doggoning
 detant
 dislady
