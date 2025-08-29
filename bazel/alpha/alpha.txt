@@ -9579,6 +9579,7 @@ adagio
 agrobiologic
 anticonvulsant
 alumnae
+arvicoline
 abnormal
 arrythmic
 absorbers
@@ -20765,7 +20766,6 @@ aruspex
 arteriography
 arvejon
 arverni
-arvicoline
 anhanga
 amini
 annectent
