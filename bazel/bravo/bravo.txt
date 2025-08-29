@@ -538,6 +538,7 @@ burbling
 backstops
 backstrapped
 backstreet
+brochophony
 blastophoric
 bombsights
 bismuthiferous
@@ -15699,7 +15700,6 @@ bordelaise
 bruyere
 beclogged
 batful
-brochophony
 brocht
 brochure
 boagane
