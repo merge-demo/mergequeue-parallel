@@ -10997,7 +10997,6 @@ antisocially
 amorphously
 amorphousness
 affirmatory
-archegone
 assais
 artisanal
 amorphus
@@ -20207,6 +20206,7 @@ austerity
 abstracting
 altschin
 arrimby
+archegone
 aphides
 akasha
 animalcula
