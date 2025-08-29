@@ -10206,6 +10206,7 @@ badawi
 boars
 beaverlike
 belfried
+bogart
 blackies
 bottomlessness
 bemuslined
@@ -11929,7 +11930,6 @@ betutor
 bourns
 bailiff
 botonn
-bogart
 backboneless
 bisaxillary
 bogatyr
