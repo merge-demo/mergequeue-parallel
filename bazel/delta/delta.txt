@@ -5879,6 +5879,7 @@ deponents
 despots
 drago
 depreciation
+divisa
 depreciative
 deglamorized
 deoxygenization
@@ -12807,7 +12808,6 @@ disloyally
 disloyalty
 decrepity
 doored
-divisa
 dulcified
 dislove
 dandlingly

@@ -11851,7 +11851,6 @@ causeway
 cleanskins
 chorale
 carmagnoles
-choraleon
 chorales
 comradery
 concio
@@ -21303,6 +21302,7 @@ conchostraca
 corotated
 computed
 conchs
+choraleon
 conchubar
 cryptonymic
 coplots
