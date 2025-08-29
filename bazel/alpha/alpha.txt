@@ -11433,7 +11433,6 @@ attractors
 abbatical
 authenticators
 astrologous
-acidimetric
 amusette
 amusia
 amusias
@@ -18837,6 +18836,7 @@ archilute
 archimagus
 augustan
 adenomas
+acidimetric
 archimandrites
 archimedean
 anticommercial
