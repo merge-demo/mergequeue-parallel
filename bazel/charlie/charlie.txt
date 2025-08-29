@@ -11132,7 +11132,6 @@ castrations
 chlamydosaurus
 chlamydoselachidae
 chlamydozoa
-chlamydozoan
 chlamyphore
 carroting
 chlamyphorus
@@ -15872,6 +15871,7 @@ chamal
 cadaverize
 cleidocostal
 cleidohyoid
+chlamydozoan
 cleidoic
 chiromance
 colocolo
