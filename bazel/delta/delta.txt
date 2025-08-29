@@ -717,7 +717,6 @@ dancalite
 duro
 dasht
 dopester
-diatom
 draconites
 deadmelt
 dipter
@@ -6332,6 +6331,7 @@ defensorship
 dermestidae
 dermic
 delint
+diatom
 dermis
 dermises
 diminuendo
