@@ -716,6 +716,7 @@ breathable
 banjo
 baddie
 betimber
+biometrically
 bathtubs
 bathetically
 baddies
@@ -15173,7 +15174,6 @@ billhook
 brickel
 blolly
 bruit
-biometrically
 bacchar
 buddhists
 basifier
