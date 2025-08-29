@@ -11124,7 +11124,6 @@ basophobia
 bache
 bipedism
 bougies
-bygane
 bazookas
 bums
 bacchanalia
@@ -15010,6 +15009,7 @@ benote
 befetter
 betiding
 bicuspidal
+bygane
 baffle
 breenger
 bogberries
