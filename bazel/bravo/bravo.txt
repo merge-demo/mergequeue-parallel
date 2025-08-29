@@ -7497,7 +7497,6 @@ benamidar
 bestowage
 beveil
 bevelled
-belayer
 beveller
 bacteririum
 bardelle
@@ -17829,6 +17828,7 @@ barks
 biga
 burthened
 burthens
+belayer
 backwashing
 burthensome
 burtonization
