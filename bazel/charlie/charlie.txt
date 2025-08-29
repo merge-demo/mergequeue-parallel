@@ -9546,6 +9546,7 @@ cumulant
 conoy
 checkrowed
 checkrower
+collyrium
 checkrowing
 consummatively
 checkrows
@@ -19117,7 +19118,6 @@ collyria
 collyridian
 collyrite
 carder
-collyrium
 cedes
 cystocyte
 collisive
