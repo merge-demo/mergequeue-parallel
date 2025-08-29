@@ -2241,7 +2241,6 @@ debase
 dinoflagellatae
 drummed
 deceiving
-defuzes
 deflex
 domineerer
 dustbox
@@ -6571,6 +6570,7 @@ desecrations
 dhooti
 delimits
 desegmentation
+defuzes
 dynamiters
 damoiselle
 detache

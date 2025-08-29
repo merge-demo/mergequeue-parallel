@@ -20767,7 +20767,6 @@ aruspex
 arteriography
 arvejon
 arverni
-arvicoline
 anhanga
 amini
 annectent
@@ -24063,6 +24062,7 @@ adcon
 ambulators
 autognostic
 articulus
+arvicoline
 acanthocarpous
 axopetal
 anticapitalistic
