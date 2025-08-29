@@ -797,7 +797,6 @@ coronations
 caille
 corticole
 cailliach
-caimacam
 capitalizes
 choreograph
 cy
@@ -28680,6 +28679,7 @@ creosotic
 cholic
 clericity
 chiru
+caimacam
 constringe
 crepes
 coincides
