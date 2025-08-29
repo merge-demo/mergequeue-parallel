@@ -13867,6 +13867,7 @@ distance
 denumeration
 drumroll
 diatomic
+diagrammatician
 demast
 descried
 doddard
@@ -17479,7 +17480,6 @@ dominium
 deskill
 dermatographic
 damascener
-diagrammatician
 dentiroster
 devitrified
 drouking
