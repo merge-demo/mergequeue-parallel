@@ -6279,7 +6279,6 @@ benomyl
 backspread
 benorth
 benefact
-bensall
 beggared
 barbigerous
 bravadoed
@@ -10346,6 +10345,7 @@ billot
 bounderish
 bamboozlers
 bordman
+bensall
 binomenclature
 boil
 blame
