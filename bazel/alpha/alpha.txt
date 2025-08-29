@@ -4072,6 +4072,7 @@ ascabart
 adolescent
 argentarii
 anastrophy
+archimagus
 apasote
 adolphus
 adon
@@ -18834,7 +18835,6 @@ archikaryon
 aposafranine
 archilithic
 archilute
-archimagus
 augustan
 adenomas
 archimandrites
