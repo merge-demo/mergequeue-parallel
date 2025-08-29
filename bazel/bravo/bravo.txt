@@ -3596,6 +3596,7 @@ bathmism
 banker
 befathered
 boozer
+bratling
 bathoflore
 bibliomaniacal
 batholithic
@@ -15810,7 +15811,6 @@ babiism
 bloomsburian
 boilermakers
 bodybuild
-bratling
 bromegrass
 bromeigon
 bromeikon
