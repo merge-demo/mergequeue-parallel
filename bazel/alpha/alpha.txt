@@ -16631,6 +16631,7 @@ abjuration
 accoutrements
 asserters
 anthraconite
+arkansan
 auricomous
 aphacia
 assails
@@ -21059,7 +21060,6 @@ andabata
 apostates
 anthracitiferous
 arterioles
-arkansan
 accommodates
 asexual
 aerily
