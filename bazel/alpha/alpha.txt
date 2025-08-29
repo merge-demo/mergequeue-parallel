@@ -84,6 +84,7 @@ autarch
 amphipods
 alispheno
 abandoners
+adjutantship
 abandoning
 arruague
 accelerator
@@ -6093,7 +6094,6 @@ activable
 audile
 amyluria
 alchemise
-adjutantship
 aegerian
 aerolitics
 arteriorrhagia
