@@ -3002,6 +3002,7 @@ ammochaetae
 abdominoanterior
 anilinophilous
 arvicole
+adiadokokinesi
 alligatoring
 alluvion
 advertisements
@@ -5257,7 +5258,6 @@ affrays
 acuminated
 affranchise
 affreightment
-adiadokokinesi
 amphicoelian
 affret
 agnosticism
