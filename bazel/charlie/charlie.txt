@@ -20039,7 +20039,6 @@ cajoled
 commensurably
 commensurate
 cubla
-commensurateness
 curatorial
 commensurating
 codings
@@ -22118,6 +22117,7 @@ cogitatively
 confraternal
 cigala
 confrere
+commensurateness
 crocheters
 colpeurynter
 confrerie
