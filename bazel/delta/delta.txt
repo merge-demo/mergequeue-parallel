@@ -777,7 +777,6 @@ decasyllabic
 duvetyne
 destains
 disastrously
-dandled
 dopaoxidase
 dandler
 dandlers
@@ -18484,6 +18483,7 @@ delator
 dispersant
 diapers
 diarrheas
+dandled
 distinctive
 dobe
 dermatophony
