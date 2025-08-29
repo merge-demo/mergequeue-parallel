@@ -940,7 +940,6 @@ backhoe
 bagpipers
 bandyball
 bardiglio
-bismarine
 boscage
 beltian
 bagrationite
@@ -15224,6 +15223,7 @@ biwa
 butomaceae
 beach
 brecken
+bismarine
 bisharin
 blueblaw
 bestrewed
