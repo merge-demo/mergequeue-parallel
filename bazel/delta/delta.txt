@@ -7453,7 +7453,6 @@ dipetalous
 daroga
 deviate
 dancer
-disequilibriums
 disseised
 detrivorous
 dervish
@@ -16811,6 +16810,7 @@ deboned
 diplasic
 dudaim
 dangersome
+disequilibriums
 dragomanish
 dravidian
 declamation
