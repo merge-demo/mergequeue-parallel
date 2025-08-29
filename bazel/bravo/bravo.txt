@@ -12099,7 +12099,6 @@ breadnuts
 boldfaced
 brickhood
 boldfacedly
-boldfacedness
 boldfacing
 boldhearted
 beclip
@@ -18166,6 +18165,7 @@ beneficent
 broadhead
 blastopore
 biog
+boldfacedness
 behead
 bores
 bootheel
