@@ -7008,7 +7008,6 @@ actuator
 appreteur
 anointers
 akmuddar
-aknow
 aggradation
 agglomerating
 awber
@@ -10862,6 +10861,7 @@ arietinous
 anhydric
 availably
 airtight
+aknow
 amnions
 allodialism
 aramids
