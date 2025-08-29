@@ -9277,6 +9277,7 @@ bipolarization
 besmear
 biporose
 bipotentiality
+bivocal
 bromoiodid
 bipotentialities
 biprism
@@ -10000,7 +10001,6 @@ bargainor
 biverb
 beblear
 bedfast
-bivocal
 bossism
 bombings
 bivoluminous
