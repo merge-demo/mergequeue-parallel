@@ -9802,7 +9802,6 @@ cunit
 chemehuevi
 cab
 chemiatric
-chapeless
 chalybean
 corrugates
 cowardliness
@@ -18600,6 +18599,7 @@ coincided
 cobbler
 choicy
 coincidents
+chapeless
 coinciding
 cadillacs
 cystomata
