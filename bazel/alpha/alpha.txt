@@ -907,7 +907,6 @@ airworthiest
 apostrophi
 adversant
 absolutist
-absolutistically
 apocrine
 absolutory
 absolvatory
@@ -2133,6 +2132,7 @@ antebellum
 acholoe
 abradant
 acholous
+absolutistically
 arsylene
 acholuric
 alguazil

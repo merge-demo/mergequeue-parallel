@@ -7153,7 +7153,6 @@ defrauding
 desulfurising
 dinotheriidae
 desulfurizer
-desulfurizing
 demolitions
 dynamometric
 depictor
@@ -11223,6 +11222,7 @@ dredging
 disoppilate
 decanted
 deglaciation
+desulfurizing
 devisee
 disbands
 depopulate
