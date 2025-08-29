@@ -323,7 +323,6 @@ cysticercus
 cacodemon
 cacodemonia
 cowtongue
-cacodemoniac
 citizendom
 cacodemonial
 cacodemonize
@@ -30601,6 +30600,7 @@ cuculiformes
 coprology
 cucullate
 contravened
+cacodemoniac
 cothe
 casey
 chilidog
