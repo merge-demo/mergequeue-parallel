@@ -4410,7 +4410,6 @@ bkcy
 blubberer
 bedrivels
 batis
-bendways
 branchiogenous
 begloom
 befleas
@@ -12930,6 +12929,7 @@ bossier
 bara
 bouquiniste
 brambled
+bendways
 berliners
 blameless
 breviloquence
