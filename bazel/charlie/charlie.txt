@@ -5451,7 +5451,6 @@ cabler
 commorancy
 catabolin
 ctenostomatous
-catabolism
 catabolite
 claim
 counterwrite
@@ -14157,6 +14156,7 @@ cyanhydrate
 chaldaei
 circulation
 circulations
+catabolism
 circulative
 carotte
 consciencelessness

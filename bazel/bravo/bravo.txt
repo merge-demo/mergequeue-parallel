@@ -2190,7 +2190,6 @@ boschboks
 bewilders
 bestove
 baramika
-bertat
 backflash
 briscola
 barathea
@@ -15875,6 +15874,7 @@ bopper
 barbeyaceae
 biose
 banksian
+bertat
 bookmarker
 bucrania
 broguish
