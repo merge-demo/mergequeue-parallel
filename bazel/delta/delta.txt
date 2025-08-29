@@ -1989,7 +1989,6 @@ dragbar
 dupondidii
 disvalue
 dopant
-discostate
 debuted
 debuting
 desirable
@@ -3449,6 +3448,7 @@ dorsobranchiata
 defoliants
 defoliate
 defoliations
+discostate
 disjunct
 dichroscope
 decelerating
