@@ -4191,6 +4191,7 @@ delocalised
 delocalize
 dermoreaction
 decrustation
+disconsider
 dretch
 denigrators
 dicyclica
@@ -13000,7 +13001,6 @@ drupal
 disordinance
 disordinate
 devastator
-disconsider
 dysorexia
 dusack
 disorganise
