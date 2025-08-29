@@ -2434,6 +2434,7 @@ drydenian
 diaeresis
 decipherability
 doughs
+dey
 dand
 deucing
 decipherably
@@ -16858,7 +16859,6 @@ deadline
 delaines
 debiteuse
 dominee
-dey
 decurtate
 daniglacial
 draughtsboard
