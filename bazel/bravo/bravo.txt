@@ -7695,6 +7695,7 @@ bhagat
 bissonata
 bromonaphthalene
 bhagavat
+bielectrolysis
 bivouacking
 buckshots
 bookrack
@@ -9926,7 +9927,6 @@ bitubercular
 blackleg
 bellyflaught
 bedticking
-bielectrolysis
 bauson
 bastardice
 burk

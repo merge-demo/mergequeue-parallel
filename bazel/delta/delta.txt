@@ -6263,7 +6263,6 @@ dweeble
 doldrums
 dermatoneurosis
 dacryocystitis
-dustuck
 disprize
 doggier
 deprecates
@@ -15298,6 +15297,7 @@ disproperty
 declinal
 dolichocephalize
 disawa
+dustuck
 dipterist
 divisively
 derepress
