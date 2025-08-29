@@ -6292,7 +6292,6 @@ blepharitis
 benshi
 benson
 brandsolder
-becassine
 bentgrass
 beshames
 brachycatalectic
@@ -14827,6 +14826,7 @@ breadroot
 breadstitch
 burnet
 blackwork
+becassine
 bechalking
 berms
 breadwinner
