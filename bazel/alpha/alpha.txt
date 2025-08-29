@@ -836,7 +836,6 @@ abscission
 absconce
 arris
 abetments
-abscond
 anteport
 absconded
 apperceptive
@@ -6786,6 +6785,7 @@ apostolic
 abo
 alec
 airspeeds
+abscond
 airstream
 aischrolatreia
 adrent
