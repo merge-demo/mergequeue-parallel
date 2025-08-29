@@ -3250,6 +3250,7 @@ defier
 defiers
 drogues
 disguisal
+descendible
 deracinated
 defuzed
 denuded
@@ -12078,7 +12079,6 @@ dibrom
 donut
 deacon
 disensanity
-descendible
 dunderheaded
 discous
 discontinuity
