@@ -1433,7 +1433,6 @@ diploidy
 digresses
 demiurgical
 dawning
-desocialize
 dissonancies
 dawnlike
 demimetope
@@ -17151,6 +17150,7 @@ defectiveness
 decarchies
 ducture
 disgown
+desocialize
 drifty
 dressers
 driftingly
