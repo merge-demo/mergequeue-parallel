@@ -14638,6 +14638,7 @@ antibalm
 antibasilican
 antibenzaldoxime
 appealer
+albuminiferous
 ascon
 antibibliolatry
 antibigotry
@@ -25268,7 +25269,6 @@ azimuthal
 aulete
 azimuths
 azine
-albuminiferous
 azines
 azlon
 azobenzil
