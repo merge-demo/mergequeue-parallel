@@ -13884,7 +13884,6 @@ adscendent
 alloplasmic
 algist
 apronlike
-antagonists
 anniellidae
 allophanate
 antagonization
@@ -19222,6 +19221,7 @@ arenosity
 areography
 areographical
 adjunction
+antagonists
 areolae
 areolar
 autoreduction
