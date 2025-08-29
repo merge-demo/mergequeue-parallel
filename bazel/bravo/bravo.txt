@@ -4399,6 +4399,7 @@ barrable
 butyrousness
 bickers
 bushwhacker
+basements
 bathyseism
 beclaw
 besieged
@@ -16515,7 +16516,6 @@ buaze
 bourreau
 baldmoneys
 bubales
-basements
 busings
 beefish
 bubals
