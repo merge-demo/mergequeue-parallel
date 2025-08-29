@@ -663,7 +663,6 @@ addresser
 anemographic
 aborad
 aboral
-aborally
 anthomyiid
 abord
 aboriginality
@@ -14092,6 +14091,7 @@ anteorbital
 albopannin
 augustinian
 amygdaline
+aborally
 antepalatal
 aliveness
 amphivorous
