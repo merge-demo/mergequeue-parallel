@@ -860,6 +860,7 @@ biochron
 bakli
 bromodeoxyuridine
 billikin
+bawneen
 bacillar
 bezique
 bagasses
@@ -3894,7 +3895,6 @@ bandor
 bidding
 beforesaid
 basifacial
-bawneen
 bawra
 bawsint
 brutalness
