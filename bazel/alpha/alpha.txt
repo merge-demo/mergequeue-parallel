@@ -10654,7 +10654,6 @@ aminoplastic
 angulometer
 arachne
 adulterants
-anorthography
 aminopurine
 allotriomorphic
 aminoquin
@@ -13842,6 +13841,7 @@ askaris
 anstoss
 accessorized
 anstosse
+anorthography
 aesthete
 ansu
 alymphopotent
