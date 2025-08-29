@@ -9290,7 +9290,6 @@ besmear
 biporose
 bipotentiality
 bromoiodid
-bipotentialities
 biprism
 byproducts
 burgaudine
@@ -17364,6 +17363,7 @@ bunyan
 blini
 buninahua
 balaenoidean
+bipotentialities
 borating
 balldress
 bodies
