@@ -2098,7 +2098,6 @@ bivittate
 banovina
 banquet
 bundist
-beseem
 buddhistic
 besteer
 bladeless
@@ -10006,6 +10005,7 @@ biverb
 beblear
 bedfast
 bivocal
+beseem
 bossism
 bombings
 bivoluminous
