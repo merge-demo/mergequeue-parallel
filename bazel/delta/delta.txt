@@ -13331,7 +13331,6 @@ decrees
 dispossession
 damascus
 diphylleia
-detuned
 dogfish
 demersed
 delegalized
@@ -15074,6 +15073,7 @@ defogs
 dogdoms
 deprogram
 dissolving
+detuned
 desobligeant
 dogears
 dogedom
