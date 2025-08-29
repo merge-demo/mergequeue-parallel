@@ -4495,7 +4495,6 @@ aftergo
 anthropophagously
 advisories
 adet
-advisorily
 advisors
 antipill
 advocacy
@@ -15883,6 +15882,7 @@ appointor
 antiputrescent
 antiq
 antiqua
+advisorily
 acetylated
 antiquarian
 antiquarianism
