@@ -105,6 +105,7 @@ bloodstock
 bum
 boddhisattva
 bonsoir
+bitangent
 blistering
 bounderishly
 blackguardly
@@ -1028,7 +1029,6 @@ bagpudding
 bulse
 baign
 barbarizes
-bitangent
 bewitchments
 baigneuses
 beshrewed
