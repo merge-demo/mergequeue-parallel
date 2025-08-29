@@ -5839,6 +5839,7 @@ bemata
 beleaps
 bldg
 bricks
+benefactrix
 bellicism
 beyonds
 bellicist
@@ -11602,7 +11603,6 @@ bioreaction
 britzka
 boardwalks
 battledored
-benefactrix
 bolis
 brachyural
 blockishly
