@@ -9052,7 +9052,6 @@ allhallow
 abhorring
 alky
 anemometric
-antacid
 alluvious
 assortative
 ametropic
@@ -12787,6 +12786,7 @@ anthraxylon
 angletwitch
 amadavats
 achronism
+antacid
 allays
 anglewise
 averrer
