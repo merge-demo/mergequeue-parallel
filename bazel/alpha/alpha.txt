@@ -4018,7 +4018,6 @@ accompanable
 admonishingly
 affinal
 admonishments
-avgas
 anvil
 anoopsias
 agrief
@@ -8138,6 +8137,7 @@ acroscopic
 alick
 abegge
 arfillite
+avgas
 alicoche
 altiscope
 alicula

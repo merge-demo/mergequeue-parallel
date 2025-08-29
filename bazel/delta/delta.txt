@@ -15962,7 +15962,6 @@ dossel
 dossels
 drench
 dossennus
-decapodiform
 dosser
 dosseret
 dulcian
@@ -16758,6 +16757,7 @@ dottler
 digenic
 dramming
 dioecious
+decapodiform
 dorrbeetle
 distributedly
 drammock
