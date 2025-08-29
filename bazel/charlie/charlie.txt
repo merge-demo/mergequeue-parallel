@@ -8206,7 +8206,6 @@ calculated
 cyanol
 counterferment
 camise
-compressing
 caracoli
 chitties
 chalazium
@@ -8297,6 +8296,7 @@ chantage
 columnated
 chalkone
 chalkos
+compressing
 chalkotheke
 chalkpit
 chalkrail
