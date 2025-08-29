@@ -2075,7 +2075,6 @@ datchas
 disproportionally
 diaconicum
 decal
-dodecylic
 dilatory
 decalage
 dartle
@@ -14755,6 +14754,7 @@ djuka
 diaskeuast
 dk
 dkg
+dodecylic
 destroys
 dkl
 dockland
