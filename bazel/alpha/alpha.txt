@@ -5371,7 +5371,6 @@ absorbs
 actinophone
 afterbirth
 atmospheres
-afterblow
 afterbrain
 aerarium
 afterbreast
@@ -24700,6 +24699,7 @@ aviating
 aniline
 appleberry
 axonost
+afterblow
 auscult
 argilloferruginous
 aviatoriality
