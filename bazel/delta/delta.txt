@@ -470,6 +470,7 @@ deprevation
 daysmen
 dayspring
 direst
+deplorer
 disthrall
 deino
 daswen
@@ -5729,7 +5730,6 @@ deplorableness
 drivellers
 disrepair
 deplore
-deplorer
 deplumated
 denunciatively
 disposes
