@@ -1103,6 +1103,7 @@ chromatosphere
 calcite
 calcitestaceous
 cuppers
+coliuria
 calcitic
 calcitrant
 calcitrate
@@ -18882,7 +18883,6 @@ colitises
 colitoxemia
 colyum
 climbs
-coliuria
 colla
 csnet
 countermoving
