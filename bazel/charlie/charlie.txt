@@ -7966,6 +7966,7 @@ clottedness
 chablis
 coelarium
 crannog
+chromotypographic
 caliches
 clergies
 chabouk
@@ -12520,7 +12521,6 @@ cynegetics
 cupper
 chilotomies
 chromotypography
-chromotypographic
 chromotropy
 chromotropic
 cradleboard
