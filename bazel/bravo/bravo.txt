@@ -11478,7 +11478,6 @@ boogie
 baba
 banyoro
 bigamous
-begged
 branchiostegan
 bluffs
 boastfully
@@ -17831,6 +17830,7 @@ burthened
 burthens
 backwashing
 burthensome
+begged
 burtonization
 beround
 blockheadedly

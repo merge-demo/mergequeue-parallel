@@ -13652,6 +13652,7 @@ cymraeg
 cymry
 consuetude
 conduciveness
+coreciprocal
 cynanche
 cutlases
 concentus
@@ -15264,7 +15265,6 @@ clammed
 caramelizes
 clammy
 clammiest
-coreciprocal
 clamminess
 clamming
 cloit
