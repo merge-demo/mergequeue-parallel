@@ -6550,7 +6550,6 @@ cesspool
 celibates
 ceanothus
 cearin
-cognoscible
 ceaselessness
 cryogenically
 carditic
@@ -21846,6 +21845,7 @@ cardiometry
 confecting
 confection
 confectionary
+cognoscible
 confectioner
 continues
 confabbing
