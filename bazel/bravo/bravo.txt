@@ -3160,7 +3160,6 @@ boride
 baser
 brazen
 blanda
-besetter
 biddie
 bayete
 bashers
@@ -11076,6 +11075,7 @@ blotty
 blockheadish
 balaklava
 blockholer
+besetter
 beveto
 bilirubinic
 bioral
