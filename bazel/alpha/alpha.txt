@@ -5191,7 +5191,6 @@ annet
 achaetous
 archivers
 arnica
-assisan
 axis
 anchoretish
 apartments
@@ -8251,6 +8250,7 @@ aline
 antimissioner
 abr
 autoelectronic
+assisan
 alineation
 abridgment
 acraspedote
