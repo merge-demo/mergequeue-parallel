@@ -10527,6 +10527,7 @@ aren
 amygdule
 affirmative
 amygdules
+ancienter
 amigos
 amiidae
 amyl
@@ -16750,7 +16751,6 @@ anecdotalism
 abos
 aphorizes
 aphototactic
-ancienter
 angiokinesis
 approve
 anlet
