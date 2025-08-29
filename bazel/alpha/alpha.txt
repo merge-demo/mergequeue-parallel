@@ -9459,7 +9459,6 @@ althing
 althionic
 apholates
 ablution
-aedoeology
 asterikos
 anargyroi
 althorn
@@ -17023,6 +17022,7 @@ apodal
 apodedeipna
 acrotarsium
 apodeictic
+aedoeology
 aboideaux
 anosmic
 arillate
