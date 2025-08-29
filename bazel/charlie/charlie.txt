@@ -8619,7 +8619,6 @@ cynosural
 curtness
 complementaries
 cohesionless
-changelings
 changement
 cuissard
 changeovers
@@ -31805,6 +31804,7 @@ cuteness
 cutenesses
 collying
 cutesy
+changelings
 cutesier
 coroa
 curvity
