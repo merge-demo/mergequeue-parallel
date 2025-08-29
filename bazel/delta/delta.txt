@@ -4069,7 +4069,6 @@ delicense
 desiccant
 deliciae
 deliciouses
-deliciousness
 debouches
 delict
 deliquescence
@@ -8585,6 +8584,7 @@ diaphorite
 decating
 deuterovitellose
 diaphragmatically
+deliciousness
 decasualisation
 dezincification
 duodenation
