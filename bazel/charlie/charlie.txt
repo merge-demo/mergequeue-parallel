@@ -10864,6 +10864,7 @@ clerk
 chipproof
 comforter
 crucifying
+churching
 clocher
 chypre
 chipwood
@@ -12838,7 +12839,6 @@ churchyards
 churchier
 churchified
 chuckholes
-churching
 crabbedly
 cognisance
 chauth
