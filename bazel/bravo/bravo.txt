@@ -11893,7 +11893,6 @@ brent
 banks
 boatlip
 basipterygial
-borgh
 beild
 blitzing
 boreens
@@ -12549,6 +12548,7 @@ balkans
 bonita
 broderer
 budapest
+borgh
 burse
 bescreens
 bonitary

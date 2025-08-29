@@ -3755,7 +3755,6 @@ arrish
 articulary
 adipopexia
 adipopexis
-adiposeness
 adiposity
 acrook
 abdominoscope
@@ -20173,6 +20172,7 @@ arrhenatherum
 amaryllideous
 alerter
 antagonisable
+adiposeness
 arrope
 airwash
 anthropophuism
