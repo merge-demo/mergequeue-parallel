@@ -19779,7 +19779,6 @@ agapetidae
 axinomancy
 armenoid
 amphirhina
-armer
 assaulted
 amniotes
 aspires
@@ -23674,6 +23673,7 @@ acerbically
 arrent
 auslaute
 auspex
+armer
 anisopodous
 acetifier
 avowance
