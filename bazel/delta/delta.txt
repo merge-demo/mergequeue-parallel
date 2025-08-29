@@ -18250,7 +18250,6 @@ doeglic
 darzee
 deftest
 deputative
-dasycladaceae
 dhoolies
 dungarees
 dispirem
@@ -18317,6 +18316,7 @@ draftproof
 dunnish
 dunnite
 dunnites
+dasycladaceae
 dagger
 dextorsal
 doray
