@@ -7985,7 +7985,6 @@ diphenylthiourea
 dogskin
 dorosternal
 dextrolimonene
-dolorousness
 dichlorobenzene
 dimethylaniline
 dimensive
@@ -9677,6 +9676,7 @@ diverting
 descort
 diiodoform
 dipteron
+dolorousness
 diipenates
 diencephalons
 defiliation
