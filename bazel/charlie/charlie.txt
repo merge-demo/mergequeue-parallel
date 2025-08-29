@@ -8651,6 +8651,7 @@ chitlins
 chibol
 channelled
 channelling
+cypraeidae
 commiseratingly
 channelure
 cestus
@@ -14012,7 +14013,6 @@ chitra
 chemosensitive
 cecca
 crimp
-cypraeidae
 cypraeiform
 confinement
 cypraeoid
