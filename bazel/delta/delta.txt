@@ -3399,7 +3399,6 @@ deceleron
 deflower
 dentagra
 delenda
-deflowered
 deflowerer
 dumpcart
 dipleurogenetic
@@ -12373,6 +12372,7 @@ decametre
 disemployed
 dinos
 disensoul
+deflowered
 dragonne
 demonomancy
 disgustfulness

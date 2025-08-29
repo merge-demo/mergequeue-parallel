@@ -14590,7 +14590,6 @@ antiantitoxin
 antianxiety
 arrenotokous
 antiaphrodisiac
-antiboss
 antiapoplectic
 attaching
 antiaquatic
@@ -14757,6 +14756,7 @@ amaut
 antichristianism
 aizoaceous
 abates
+antiboss
 aforetime
 anglicisms
 ascomycetes
