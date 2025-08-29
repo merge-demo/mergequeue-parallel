@@ -3547,7 +3547,6 @@ alkalimetrically
 arrestees
 aerophysical
 adenoneure
-adenopharyngeal
 adenophlegmon
 antestature
 adenophora
@@ -13317,6 +13316,7 @@ ankylodactylia
 albescent
 antiinflammatory
 ankylodontia
+adenopharyngeal
 assumption
 ankyloglossia
 allergia
