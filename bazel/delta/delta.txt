@@ -3745,7 +3745,6 @@ disour
 dehorns
 decaudate
 declinations
-dioptometry
 doughlike
 dougl
 dehorted
@@ -15361,6 +15360,7 @@ dendroclastic
 decelerate
 dejecture
 decalcomania
+dioptometry
 didelphyidae
 dolmans
 diamylose
