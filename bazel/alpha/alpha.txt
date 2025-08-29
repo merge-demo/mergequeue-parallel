@@ -18207,7 +18207,6 @@ arabinoside
 alibility
 arabism
 abstinent
-arabist
 arabit
 acetometrical
 arabitol
@@ -19907,6 +19906,7 @@ aramis
 achillea
 aldononose
 anchusine
+arabist
 astrologe
 antigen
 addenda
