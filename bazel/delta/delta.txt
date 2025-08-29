@@ -13942,7 +13942,6 @@ diadelphia
 deaf
 distichlis
 dephased
-distichous
 discina
 distil
 derisive
@@ -16834,6 +16833,7 @@ detritivorous
 dichroscopic
 deionization
 deare
+distichous
 dourahs
 dissenters
 dreeing
