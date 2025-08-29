@@ -11979,7 +11979,6 @@ bogmire
 borine
 bulimy
 baggit
-bedwarf
 bogomilian
 bipack
 bogong
@@ -12424,6 +12423,7 @@ bestialism
 barker
 bushiness
 billyo
+bedwarf
 banisterine
 bond
 bipinnatifid
