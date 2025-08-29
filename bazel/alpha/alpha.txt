@@ -6800,6 +6800,7 @@ amende
 aglyphous
 aptian
 aventine
+adelphoi
 airview
 acanthodidae
 airway
@@ -22739,7 +22740,6 @@ atomically
 atomician
 ambroids
 assimilative
-adelphoi
 alpinely
 ataxaphasia
 accubation

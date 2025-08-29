@@ -9658,6 +9658,7 @@ bandmasters
 beclamor
 bisymmetrical
 bigg
+bandwagons
 borate
 bisync
 beadhouses
@@ -13084,7 +13085,6 @@ borel
 baronnes
 borers
 barajillo
-bandwagons
 bangling
 bowlmaker
 blat
