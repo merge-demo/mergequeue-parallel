@@ -8914,6 +8914,7 @@ allopsychic
 allorhythmia
 autobolide
 ataghan
+amphigonic
 arsnicker
 allose
 allosyndetic
@@ -16566,7 +16567,6 @@ apeling
 apelles
 apenteric
 athirst
-amphigonic
 affiliate
 apepsinia
 arean
