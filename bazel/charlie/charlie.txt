@@ -9717,6 +9717,7 @@ cheilostomatous
 censer
 cheyneys
 cabin
+conchite
 cimex
 cheiranthus
 cheirogaleus
@@ -29279,7 +29280,6 @@ cryptomerous
 cryptomnesic
 chrysogen
 cryptomonadales
-conchite
 clones
 coadjutement
 coshering
