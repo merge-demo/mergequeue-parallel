@@ -1547,7 +1547,6 @@ baronetised
 beeherd
 bersiamite
 bulbiform
-branchiate
 bouton
 beyerite
 backsword
@@ -16953,6 +16952,7 @@ beaverteen
 brephic
 biochore
 bimotor
+branchiate
 beleaguered
 bulbously
 bowedness

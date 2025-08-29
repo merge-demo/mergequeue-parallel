@@ -877,7 +877,6 @@ cajolements
 coagulating
 contrapuntalist
 cajolery
-caproic
 crimple
 chloroacetophenone
 cajoles
@@ -28445,6 +28444,7 @@ creatureship
 conversibility
 creaturize
 churchanity
+caproic
 creaze
 crebricostate
 crebrisulcate
