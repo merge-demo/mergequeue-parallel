@@ -9202,7 +9202,6 @@ chaste
 chastelain
 coots
 carritch
-catarrh
 csects
 carbonylic
 chastener
@@ -21045,6 +21044,7 @@ computing
 conenose
 chiam
 celoms
+catarrh
 comradely
 comradeliness
 comrades
