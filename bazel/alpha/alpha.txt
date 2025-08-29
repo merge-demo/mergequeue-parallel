@@ -347,6 +347,7 @@ ambos
 attache
 acarine
 argasidae
+auditive
 aberr
 aerophone
 ask
@@ -7121,7 +7122,6 @@ alangium
 alani
 anchors
 alanin
-auditive
 alanines
 alannah
 alagau
