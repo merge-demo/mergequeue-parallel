@@ -11316,7 +11316,6 @@ chloromelanite
 chlorometer
 chloromethane
 chlorometry
-categorem
 coopted
 capman
 chloromycetin
@@ -22176,6 +22175,7 @@ conge
 cafes
 cohobation
 compeered
+categorem
 congealableness
 criticises
 congealing
