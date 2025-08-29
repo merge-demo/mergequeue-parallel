@@ -4486,7 +4486,6 @@ demibeast
 demibelt
 dinornithes
 dislink
-deradelphus
 delegatus
 denda
 deacidified
@@ -16353,6 +16352,7 @@ discredits
 dispeace
 defended
 downshifted
+deradelphus
 downshore
 desirelessness
 dismarch
