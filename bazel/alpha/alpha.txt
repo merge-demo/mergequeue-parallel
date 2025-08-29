@@ -4589,6 +4589,7 @@ aegean
 autocriticism
 amphibologically
 aegemony
+anthelix
 aeger
 aristological
 architectural
@@ -14219,7 +14220,6 @@ amphipodan
 anthelia
 aramaean
 anthelices
-anthelix
 archaeomagnetism
 anthelminthic
 anthemas

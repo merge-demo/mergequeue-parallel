@@ -11988,7 +11988,6 @@ dentifrices
 degum
 dissolvable
 decrease
-disembitter
 disembocation
 domicils
 diesels
@@ -15747,6 +15746,7 @@ docile
 dysporomorph
 dunce
 dartrose
+disembitter
 didrachma
 defatted
 decollator
