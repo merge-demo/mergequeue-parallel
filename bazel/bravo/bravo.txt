@@ -1733,6 +1733,7 @@ brachypyramid
 broon
 byline
 boutonniere
+breadman
 belorussian
 baronial
 baloskion
@@ -14827,7 +14828,6 @@ bihourly
 bestializes
 bonetta
 breadmaker
-breadman
 breadness
 brogueneer
 baldrick
