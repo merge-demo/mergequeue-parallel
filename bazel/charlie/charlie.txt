@@ -9791,6 +9791,7 @@ cheliped
 chelys
 cydon
 chellean
+counterfoil
 cheloids
 cutinizing
 chelonia
@@ -26798,7 +26799,6 @@ crystallogram
 counterfleury
 counterflux
 clodlike
-counterfoil
 counterforce
 cosmopolitanizing
 carrom
