@@ -4062,7 +4062,6 @@ adnerval
 abutting
 apotracheal
 adventuresomely
-alternisepalous
 adnexal
 adnominal
 adnominally
@@ -24575,6 +24574,7 @@ abada
 anthropophagous
 aveloz
 autoheterodyne
+alternisepalous
 aralkyl
 ambassador
 anurans
