@@ -7649,6 +7649,7 @@ developable
 dealer
 deflocculation
 didinium
+dorsalis
 diptycas
 developer
 developes
@@ -17618,7 +17619,6 @@ duant
 dentigerous
 dandelion
 defeminisation
-dorsalis
 denicotinizing
 drupa
 dysthyroidism
