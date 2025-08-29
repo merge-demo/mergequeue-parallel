@@ -13088,7 +13088,6 @@ actionable
 animaters
 angekok
 animating
-animatingly
 animation
 admirability
 amoks
@@ -23891,6 +23890,7 @@ autobusses
 antilogarithms
 antemetallic
 aftertrial
+animatingly
 apostatised
 aerator
 autocar
