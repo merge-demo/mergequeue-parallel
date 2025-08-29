@@ -7337,6 +7337,7 @@ cephalochordal
 cephalochordata
 cephaloclast
 cephalocone
+coxalgy
 cephalodia
 cephalodymus
 cephalodiscid
@@ -27706,7 +27707,6 @@ cupronickel
 craw
 coxae
 coeloscope
-coxalgy
 crepusculum
 coxalgias
 cholents
