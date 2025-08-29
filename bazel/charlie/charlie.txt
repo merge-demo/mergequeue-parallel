@@ -16764,6 +16764,7 @@ culiciform
 clouds
 cloudship
 cursedest
+coregonine
 chalcophile
 cloudward
 cloudwards
@@ -20598,7 +20599,6 @@ collectarium
 clanjamfrie
 compital
 compitalia
-coregonine
 clastic
 complacence
 chlorella

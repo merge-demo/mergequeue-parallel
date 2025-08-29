@@ -2045,6 +2045,7 @@ bankrupt
 bosporan
 burl
 bankruptcy
+bressummer
 boltel
 bravadoism
 bankrupting
@@ -15055,7 +15056,6 @@ brents
 bearance
 beekeeper
 baffles
-bressummer
 binocular
 brest
 breastplate
