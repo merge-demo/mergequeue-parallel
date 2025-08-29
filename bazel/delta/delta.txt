@@ -6068,7 +6068,6 @@ demolitionary
 deputes
 damiana
 diopsis
-deputing
 diaconicon
 directiveness
 dorps
@@ -13184,6 +13183,7 @@ dysanagnosia
 dondia
 dismasting
 dispersonification
+deputing
 dispetal
 dysphasia
 diplophonia
