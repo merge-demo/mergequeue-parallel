@@ -12865,7 +12865,6 @@ dervishhood
 devotionally
 dominial
 destructor
-dam
 dribblets
 democratization
 dystectic
@@ -17192,6 +17191,7 @@ drilvis
 dryness
 deuterogelatose
 dringle
+dam
 disomaty
 disabuses
 decade
