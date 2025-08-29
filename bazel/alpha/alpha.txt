@@ -3735,7 +3735,6 @@ adion
 adios
 amphitruo
 amphithuron
-acetabuliform
 anthophore
 adipinic
 adipocellulose
@@ -7853,6 +7852,7 @@ acrophobia
 alethopteis
 alethopteroid
 anklebones
+acetabuliform
 archidium
 alethoscope
 anthogenous
