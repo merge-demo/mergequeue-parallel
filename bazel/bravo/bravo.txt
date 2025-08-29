@@ -11492,7 +11492,6 @@ blastomycotic
 bluish
 blumes
 benighting
-blunderbuss
 borasqueborate
 bestare
 beachie
@@ -11668,6 +11667,7 @@ bilsted
 blindfast
 boomless
 baggala
+blunderbuss
 bedding
 beneficience
 boattail

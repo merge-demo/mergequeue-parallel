@@ -5231,6 +5231,7 @@ cassy
 charabancs
 cichoraceous
 cassia
+cywydd
 cassicus
 cassidid
 cassididae
@@ -15239,7 +15240,6 @@ circumnavigatory
 clamantly
 clamaroo
 ceraunophone
-cywydd
 clamatory
 cartooned
 clutterer
