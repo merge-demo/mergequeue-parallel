@@ -5824,7 +5824,6 @@ arsenical
 aggrammatism
 approachability
 aggrandised
-abasias
 aphonics
 altimettrically
 aggrandizable
@@ -19444,6 +19443,7 @@ archaizes
 antimediaeval
 argots
 arguable
+abasias
 arguably
 avoiders
 aerobian
