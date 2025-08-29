@@ -5071,7 +5071,6 @@ biogeography
 bibracteolate
 bemas
 bewith
-befeather
 becoming
 bodger
 biloculine
@@ -8241,6 +8240,7 @@ benzophenone
 basketry
 bigae
 bywork
+befeather
 battological
 barbicels
 bradykinetic

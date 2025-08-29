@@ -19423,6 +19423,7 @@ antimedication
 arith
 argling
 antral
+anomalopteryx
 allspices
 absolvers
 arterioscleroses
@@ -24039,7 +24040,6 @@ afreets
 antifeministic
 adjuncts
 abfarad
-anomalopteryx
 autogeneses
 autogenetically
 autocephalia
