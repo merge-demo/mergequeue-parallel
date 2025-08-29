@@ -1243,6 +1243,7 @@ belemnid
 beds
 bimeby
 bittersweetness
+bibelot
 buxbaumia
 becreep
 baldachined
@@ -7819,7 +7820,6 @@ blooms
 bufonite
 borazon
 bajri
-bibelot
 balneography
 botchka
 bearable
