@@ -16829,7 +16829,6 @@ clownheal
 coadjutrices
 clowning
 clownship
-crinkle
 cymtia
 cataclysms
 clubable
@@ -22183,6 +22182,7 @@ courlans
 congeed
 codder
 cleuch
+crinkle
 congeeing
 congeing
 convict
