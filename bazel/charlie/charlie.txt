@@ -6882,7 +6882,6 @@ crossable
 cranially
 celtuce
 closefisted
-cembalo
 cembalon
 curiousnesses
 cembalos
@@ -26893,6 +26892,7 @@ contemner
 cushioniness
 creedalist
 countermanding
+cembalo
 countermaneuver
 countermanifestoes
 countfish
