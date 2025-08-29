@@ -8658,7 +8658,6 @@ chronoscope
 chansonette
 carcinomatoid
 commissionaire
-chansonnette
 chansonniers
 chantey
 counterlighted
@@ -18521,6 +18520,7 @@ cephalalgia
 crownlet
 consigner
 coenenchymata
+chansonnette
 chilinidae
 callouses
 chibinite
