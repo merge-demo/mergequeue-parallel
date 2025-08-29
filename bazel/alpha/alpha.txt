@@ -2458,7 +2458,6 @@ autoserum
 austrasian
 absciss
 amidate
-antanandro
 acoma
 arthropleura
 antluetic
@@ -22478,6 +22477,7 @@ athamantid
 acontium
 akinesia
 article
+antanandro
 athanasia
 athanasian
 athanasianism
