@@ -3853,7 +3853,6 @@ chromatics
 carbonization
 carbonize
 carbonized
-charlatanism
 carbonizers
 concn
 cartelize
@@ -20084,6 +20083,7 @@ commercial
 commercialised
 centgrave
 chequerwise
+charlatanism
 commercialism
 coenenchymatous
 commercialists
