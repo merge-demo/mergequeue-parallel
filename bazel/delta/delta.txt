@@ -16672,7 +16672,6 @@ dragstaff
 deniably
 drone
 designation
-dilettantes
 dragsters
 demisovereign
 doctoress
@@ -16912,6 +16911,7 @@ ddt
 dicyclic
 diiambus
 dataria
+dilettantes
 declination
 drona
 doubledamn
