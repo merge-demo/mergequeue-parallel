@@ -6820,6 +6820,7 @@ antipneumococcic
 antiatheism
 anatomopathologic
 alogism
+almon
 anticyclone
 acetaldehydrase
 aissor
@@ -9108,7 +9109,6 @@ anticlimactical
 autoallogamous
 almohades
 almoign
-almon
 anga
 almonage
 almonds
