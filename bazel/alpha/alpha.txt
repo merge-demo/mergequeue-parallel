@@ -10939,7 +10939,6 @@ amolilla
 albumoscope
 amomal
 aceite
-alligating
 autoecous
 antibank
 amomis
@@ -25283,6 +25282,7 @@ archaistic
 arvicola
 adenofibroma
 allthorn
+alligating
 abeyant
 astrochemist
 asymmetrical
