@@ -2215,6 +2215,7 @@ bayards
 boneheadedness
 bromize
 blobs
+begobs
 barbaloin
 badineur
 bung
@@ -9718,7 +9719,6 @@ bullbats
 balding
 bricklike
 bombylious
-begobs
 barleduc
 bacillus
 botticellian
