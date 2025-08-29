@@ -16632,6 +16632,7 @@ antilogical
 abjuration
 accoutrements
 asserters
+arsoite
 anthraconite
 auricomous
 aphacia
@@ -19964,7 +19965,6 @@ azophenyl
 anomer
 awearied
 accoutring
-arsoite
 assurers
 alimentum
 aroideous

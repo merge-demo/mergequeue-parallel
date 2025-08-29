@@ -4651,6 +4651,7 @@ bedfellows
 buildable
 barlows
 byliny
+briners
 bedford
 bouilli
 brothier
@@ -5879,7 +5880,6 @@ buckbrush
 baronship
 bellmanship
 bellmouth
-briners
 braggingly
 buttstock
 bellota
