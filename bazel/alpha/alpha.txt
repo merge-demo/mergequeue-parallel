@@ -14197,6 +14197,7 @@ antisyndication
 antetemple
 assertorially
 antetypes
+avowance
 ahypnia
 antevert
 archbanc
@@ -23670,7 +23671,6 @@ auslaute
 auspex
 anisopodous
 acetifier
-avowance
 alto
 auspice
 apostolicity
