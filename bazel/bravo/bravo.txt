@@ -3715,7 +3715,6 @@ batterie
 breck
 batteryman
 batterman
-bullockman
 bepinch
 baylike
 bwana
@@ -13813,6 +13812,7 @@ bemaddening
 buriat
 bedfellowship
 brothy
+bullockman
 baseplate
 bantams
 brachychronic
