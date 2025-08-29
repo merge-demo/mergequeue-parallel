@@ -1241,6 +1241,7 @@ afflictions
 articulator
 adelite
 acarapis
+agists
 asaphic
 acarari
 acarian
@@ -5953,7 +5954,6 @@ agist
 allamanda
 aretalogy
 autophotoelectric
-agists
 agit
 abricot
 afrite
