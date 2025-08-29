@@ -2017,7 +2017,6 @@ camoudie
 coburgess
 camouflage
 camouflageable
-camouflager
 crossgrainedness
 contradictorily
 conolophus
@@ -25743,6 +25742,7 @@ compulsives
 communicatee
 clammer
 corrodies
+camouflager
 cetene
 corroding
 cepa
