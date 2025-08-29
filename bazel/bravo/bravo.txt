@@ -6694,6 +6694,7 @@ babbles
 berytidae
 boblet
 bicultural
+bisulfate
 bortzes
 bergh
 brachiata
@@ -9789,7 +9790,6 @@ bisubstitution
 babblingly
 bubblebow
 blandest
-bisulfate
 bromatology
 buries
 bocca
