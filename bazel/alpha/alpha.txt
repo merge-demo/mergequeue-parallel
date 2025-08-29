@@ -959,6 +959,7 @@ abstainers
 ashplants
 abstaining
 abstains
+acerathere
 annectant
 ammonitiferous
 augural
@@ -18542,7 +18543,6 @@ annuent
 acarophilous
 archaeographic
 archaeographical
-acerathere
 academial
 archaeolater
 alabamian
