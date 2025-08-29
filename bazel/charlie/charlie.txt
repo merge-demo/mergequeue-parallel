@@ -10996,7 +10996,6 @@ cyclospondylous
 chirr
 chirre
 carbides
-chirrs
 coscoroba
 chirrup
 captions
@@ -20131,6 +20130,7 @@ commingler
 commingles
 commingling
 comminuted
+chirrs
 cybercultural
 caranday
 comminution
