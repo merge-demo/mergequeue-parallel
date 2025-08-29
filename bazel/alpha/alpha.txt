@@ -5058,6 +5058,7 @@ aetiotropically
 aetites
 angetenar
 accentual
+archelogy
 aetobatidae
 ancien
 aphoria
@@ -18703,7 +18704,6 @@ amative
 archegosaurus
 auletrides
 archelenis
-archelogy
 archelon
 archemastry
 airdrops
