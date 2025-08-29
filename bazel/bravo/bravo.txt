@@ -1208,7 +1208,6 @@ breth
 burion
 baked
 blepharydatis
-bibliothetic
 bakelite
 bakemeats
 bloop
@@ -1646,6 +1645,7 @@ butyrous
 biocellate
 bilobated
 balloted
+bibliothetic
 balibuntl
 balloting
 ballotist
