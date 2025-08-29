@@ -2270,7 +2270,6 @@ commonwealth
 cytopahgous
 canakin
 canakins
-canal
 cookeys
 canalatura
 completer
@@ -7763,6 +7762,7 @@ ceruleite
 ceruleolactite
 cravenette
 connoissance
+canal
 ceruleous
 ceratophrys
 cerulific

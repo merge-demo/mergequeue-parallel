@@ -1856,7 +1856,6 @@ dermatoglyphics
 devirginator
 debitum
 dazes
-desponsage
 declaratory
 destour
 douvecot
@@ -18595,6 +18594,7 @@ duskness
 dust
 danseurs
 delphian
+desponsage
 dustcart
 devocalisation
 dianoetical
