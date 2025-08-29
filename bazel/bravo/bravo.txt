@@ -3477,7 +3477,6 @@ basuto
 baitylos
 bridgebuilding
 bancos
-buphaga
 bander
 barkpeeler
 boobook
@@ -11885,6 +11884,7 @@ bouillons
 boedromion
 bovovaccine
 ballottine
+buphaga
 brevirostrate
 buggies
 barabora

@@ -237,7 +237,6 @@ dispatcher
 dorstenia
 daftest
 donees
-daftness
 descending
 dinnertime
 dorsula
@@ -7712,6 +7711,7 @@ decelerators
 devily
 detail
 deviling
+daftness
 deeded
 devilishness
 darshana
