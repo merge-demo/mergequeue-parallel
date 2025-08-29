@@ -7046,7 +7046,6 @@ beaterman
 biometricist
 burelle
 buccan
-boyarisms
 besort
 blunting
 bitterly
@@ -8974,6 +8973,7 @@ bobo
 before
 blankety
 bunchbacked
+boyarisms
 biographers
 bossisms
 biographies
