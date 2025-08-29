@@ -200,7 +200,6 @@ baccalaureus
 bismuthal
 baccara
 baroques
-bdrm
 bedin
 bristleless
 bipartition
@@ -17232,6 +17231,7 @@ blotched
 bumkin
 bothridiums
 beating
+bdrm
 buttonless
 berretta
 beman
