@@ -6744,7 +6744,6 @@ anacardiaceous
 airplaner
 abroma
 airplanist
-antiplague
 analogism
 algarad
 appendiculated
@@ -15681,6 +15680,7 @@ ambits
 antipatriarch
 antipatriarchy
 aurinasal
+antiplague
 antipatriot
 antipatriotic
 afterfermentation
