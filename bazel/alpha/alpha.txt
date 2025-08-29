@@ -4242,6 +4242,7 @@ actiniferous
 adscititious
 adscriptitious
 averment
+autophyllogeny
 adscriptitius
 annodated
 adsheart
@@ -8423,7 +8424,6 @@ alkanethiol
 ausforming
 alkanets
 amebocyte
-autophyllogeny
 alkanol
 alkaphrah
 alkapton
