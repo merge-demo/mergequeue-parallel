@@ -10239,7 +10239,6 @@ blackneck
 barratry
 bloomingness
 bosoms
-blackness
 bebump
 bilged
 broomwort
@@ -17895,6 +17894,7 @@ barton
 badly
 beltane
 bejuco
+blackness
 bractless
 broadaxes
 bahmanid

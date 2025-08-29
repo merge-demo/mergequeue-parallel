@@ -8213,7 +8213,6 @@ darghin
 diadelphian
 diadelphous
 diadema
-diaderm
 diadic
 digitalization
 disabusing
@@ -16998,6 +16997,7 @@ dullness
 downcurve
 dredgeful
 disintegrate
+diaderm
 deltalike
 discerp
 dithery
