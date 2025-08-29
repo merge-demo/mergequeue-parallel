@@ -5796,6 +5796,7 @@ cateye
 catel
 catelectrode
 clothesless
+cabber
 catelectrotonus
 cretionary
 colorlessness
@@ -21196,7 +21197,6 @@ charadrioid
 comenic
 clearness
 concern
-cabber
 concernancy
 concerned
 cumbersome
