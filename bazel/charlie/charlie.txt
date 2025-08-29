@@ -7714,7 +7714,6 @@ cyanocrystallin
 cerote
 chastises
 cabas
-cerotin
 chorogi
 cerotypes
 confirmedly
@@ -23941,6 +23940,7 @@ convey
 conveyed
 coonskins
 conveying
+cerotin
 conveyorization
 conjugation
 complicitous
