@@ -12977,7 +12977,6 @@ bopped
 bathless
 bombastical
 bailli
-brigadiers
 beelike
 bedquilts
 befountained
@@ -17435,6 +17434,7 @@ brawlie
 bastardizing
 bromohydrate
 bipinnatiparted
+brigadiers
 blacknob
 buphthalmum
 buplever
