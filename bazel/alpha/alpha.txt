@@ -9301,7 +9301,6 @@ alphas
 alpheus
 alphyl
 appress
-attenuations
 alectoridine
 amphicarpus
 alphyls
@@ -25166,6 +25165,7 @@ apparentation
 axoneure
 axonia
 aleochara
+attenuations
 archduchess
 assahy
 anglican
