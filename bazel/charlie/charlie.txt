@@ -7582,6 +7582,7 @@ cerebromeningeal
 cerebromeningitis
 cyclitis
 celiopyosis
+chalk
 carduaceous
 cerebrometer
 cerebron
@@ -10671,7 +10672,6 @@ carpellary
 calciclase
 chytridial
 cantharidated
-chalk
 chimneyless
 counterdefender
 chimneyman
