@@ -6264,7 +6264,6 @@ dermatomyces
 dignity
 deploredness
 diplokaryon
-dweeble
 doldrums
 dermatoneurosis
 dacryocystitis
@@ -10735,6 +10734,7 @@ dipolar
 domesticates
 dingar
 dumbnesses
+dweeble
 diaculum
 despairs
 depit
