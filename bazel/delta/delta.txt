@@ -5916,7 +5916,6 @@ dextrose
 declass
 defenses
 depressingly
-dollarleaf
 depressingness
 denuders
 desecrator
@@ -6900,6 +6899,7 @@ dahabiyeh
 deadliest
 dactylioglyphtic
 desorption
+dollarleaf
 drollist
 desoxalate
 discomposes
