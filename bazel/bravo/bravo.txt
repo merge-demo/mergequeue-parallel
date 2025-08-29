@@ -16883,7 +16883,6 @@ bootjacks
 bong
 bugleweed
 bressomer
-bugling
 buglosses
 bugong
 bespake
@@ -17059,6 +17058,7 @@ bayard
 billheads
 bromian
 bulletining
+bugling
 batches
 bulletless
 basecoat
