@@ -13154,7 +13154,6 @@ adaptional
 anisado
 alphecca
 askable
-artamus
 anisaldehyde
 araks
 antiphysician
@@ -18496,6 +18495,7 @@ arca
 anthropomorphite
 abrogates
 alarmisms
+artamus
 autoecholalia
 amboyna
 arcacea
