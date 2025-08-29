@@ -19994,7 +19994,6 @@ azonal
 auspices
 aculeate
 aromatic
-aromatical
 abomasusi
 atlanta
 aromatically
@@ -20266,6 +20265,7 @@ arrowlet
 adermine
 arrowlike
 aminoazobenzene
+aromatical
 arrowplate
 abortifacient
 adenectopic
