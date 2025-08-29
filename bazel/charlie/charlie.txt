@@ -9832,7 +9832,6 @@ chemiculture
 chemigraphy
 chemigraphic
 caudotibialis
-chemiloon
 chemiluminescence
 chemiotactic
 chemiotaxic
@@ -25317,6 +25316,7 @@ cornerways
 cornet
 cornetcy
 cornetcies
+chemiloon
 comatulid
 cornetfishes
 cornetist
