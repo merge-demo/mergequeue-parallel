@@ -771,7 +771,6 @@ asyle
 abri
 abrico
 autostrada
-abridgable
 anticlassicalist
 anisotropical
 abitibi
@@ -15247,6 +15246,7 @@ affectible
 antihalation
 alcantarines
 antiharmonist
+abridgable
 antihelix
 aitiotropic
 antilopine
