@@ -7141,7 +7141,6 @@ alantin
 aquabib
 alantolactone
 assimilability
-appleroot
 alares
 aspiring
 alary
@@ -8487,6 +8486,7 @@ alkoxy
 antagonize
 acervately
 abarambo
+appleroot
 antipodagric
 analytical
 alkoxyl
