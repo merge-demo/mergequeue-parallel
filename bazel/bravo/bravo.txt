@@ -8416,7 +8416,6 @@ blackwood
 burp
 bookmen
 bacony
-bilamellate
 beaverette
 bilamellated
 bocage
@@ -16535,6 +16534,7 @@ boehmite
 benedictory
 brachiocrural
 bubblement
+bilamellate
 beerier
 bubbler
 barit
