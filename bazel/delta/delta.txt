@@ -11849,7 +11849,6 @@ discriminatively
 despatch
 discriminator
 dirigibility
-diegueno
 disorientation
 disembrangle
 deferrals
@@ -16779,6 +16778,7 @@ drapetomania
 draping
 diswood
 drastic
+diegueno
 dirtfarmer
 drastically
 debitor
