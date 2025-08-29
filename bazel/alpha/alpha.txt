@@ -1861,7 +1861,6 @@ aetiological
 acetars
 acetation
 acetbromamide
-acetenyl
 actinostomal
 acethydrazide
 ablock
@@ -2889,6 +2888,7 @@ actaeon
 actg
 actualised
 actiad
+acetenyl
 aquatint
 agrarian
 actin
