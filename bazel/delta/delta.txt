@@ -17203,7 +17203,6 @@ dansants
 daffiest
 decachord
 dreary
-dogmatiser
 disentrammel
 dimensions
 dryops
@@ -17614,6 +17613,7 @@ decastylar
 duant
 dentigerous
 dandelion
+dogmatiser
 defeminisation
 dorsalis
 denicotinizing
