@@ -4870,7 +4870,6 @@ counterpoising
 chromatinic
 cartable
 cartaceous
-commutuality
 candlestickward
 cowherbs
 carte
@@ -14148,6 +14147,7 @@ circularizes
 choriambs
 circularly
 circularness
+commutuality
 circulars
 clippers
 caqueteuse
