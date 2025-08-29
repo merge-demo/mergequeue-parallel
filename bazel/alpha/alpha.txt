@@ -17870,6 +17870,7 @@ approbativeness
 approbator
 apprompt
 aloud
+agrope
 approof
 appropinquate
 appropinquation
@@ -21704,7 +21705,6 @@ aenigma
 anionics
 antifertilizer
 anagogically
-agrope
 assessed
 assession
 assessment
