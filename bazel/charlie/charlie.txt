@@ -5300,6 +5300,7 @@ calibered
 castanopsis
 castanospermum
 casted
+chloroacetone
 crankled
 creditabilities
 criminol
@@ -11252,7 +11253,6 @@ cynocephalus
 chesterbed
 ceresin
 chlormethane
-chloroacetone
 childe
 conservation
 chloroamide
