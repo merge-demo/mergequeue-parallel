@@ -7358,7 +7358,6 @@ doctrinist
 doyen
 deterrence
 declaim
-disprejudice
 duogravure
 deterrent
 dodunk
@@ -8998,6 +8997,7 @@ dichromatic
 debonairty
 dispeller
 dahoon
+disprejudice
 discophora
 deficience
 disconanthous
