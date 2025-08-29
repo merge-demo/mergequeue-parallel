@@ -4820,7 +4820,6 @@ accessit
 aerogenes
 abductors
 airplaning
-alomancy
 anticommercialness
 acalephs
 aerogeologist
@@ -15434,6 +15433,7 @@ antimilitarist
 alienship
 antiministerial
 antiministerially
+alomancy
 anandria
 affluentness
 anywhere
