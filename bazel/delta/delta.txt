@@ -10632,6 +10632,7 @@ dolour
 diplomatist
 domer
 discogastrula
+devourment
 diplomatology
 deco
 diauli
@@ -14273,7 +14274,6 @@ debatable
 debriefings
 dinocerata
 delubrubra
-devourment
 dormer
 dital
 dahoman
