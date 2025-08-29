@@ -2861,7 +2861,6 @@ dronet
 didunculinae
 draper
 didunculidae
-decurion
 dispensatories
 deprived
 demented
@@ -11862,6 +11861,7 @@ demele
 dyscrinism
 dipchick
 dormitary
+decurion
 discrowns
 daydreamed
 devitalised
