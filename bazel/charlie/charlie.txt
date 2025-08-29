@@ -1110,7 +1110,6 @@ caryopsides
 calcivorous
 chapmanship
 calcographer
-countermark
 calcography
 culturology
 calcsinter
@@ -18469,6 +18468,7 @@ cepheus
 clericalize
 crosslet
 circlet
+countermark
 champac
 coheirs
 coheirship
