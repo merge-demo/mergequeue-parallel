@@ -5727,7 +5727,6 @@ antiturnpikeism
 arithmetical
 atteal
 agelast
-agelaus
 agelessness
 adradial
 agen
@@ -11602,6 +11601,7 @@ acoria
 asperates
 anaematosis
 arhythmically
+agelaus
 arrage
 assuror
 anaemotropy
