@@ -6568,7 +6568,6 @@ breakaway
 blastospheric
 balnibarbi
 berattle
-bakehead
 borickite
 breastrope
 bout
@@ -9088,6 +9087,7 @@ bargander
 biosciences
 bestrows
 befits
+bakehead
 brasser
 boylikeness
 bioscopy
