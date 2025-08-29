@@ -2038,7 +2038,6 @@ autoscopy
 andantini
 acheron
 apostematous
-assyriologist
 acheronian
 achroous
 acherontical
@@ -13607,6 +13606,7 @@ allopathies
 acarpelous
 anoetic
 alluviviums
+assyriologist
 anogenital
 anogra
 abp
