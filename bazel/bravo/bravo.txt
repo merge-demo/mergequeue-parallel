@@ -11100,7 +11100,6 @@ bathyal
 blockship
 blodite
 besmeared
-breakfasts
 barrooms
 buoyance
 bodikin
@@ -11625,6 +11624,7 @@ boasts
 bryologist
 bosket
 boatage
+breakfasts
 bacterioscopical
 barspoon
 bronchium
