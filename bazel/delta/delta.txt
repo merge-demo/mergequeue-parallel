@@ -4577,7 +4577,6 @@ demilitarizes
 disjunction
 decolorate
 demiliterate
-deflectional
 despotical
 demilustre
 diaskeuasis
@@ -15071,6 +15070,7 @@ dogberryism
 dubbeh
 dandriff
 disbudding
+deflectional
 dogboat
 diathermacy
 defogs
