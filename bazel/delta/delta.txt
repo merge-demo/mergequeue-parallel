@@ -1588,6 +1588,7 @@ deadness
 deadnesses
 denunciating
 dairyman
+disenjoy
 deadpanned
 deadpans
 depayse
@@ -4485,7 +4486,6 @@ diceplay
 duress
 demy
 disvalued
-disenjoy
 demiangel
 diazotization
 demibeast
