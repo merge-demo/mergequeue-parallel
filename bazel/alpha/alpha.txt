@@ -7831,6 +7831,7 @@ alerta
 anorak
 abstractionists
 alerters
+ancipitous
 autotropically
 alerting
 alertly
@@ -14183,7 +14184,6 @@ anterooms
 anteroparietal
 anencephalous
 alchochoden
-ancipitous
 afflatuses
 asepticize
 acephal
