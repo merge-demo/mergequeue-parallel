@@ -9684,6 +9684,7 @@ cheewink
 cheezit
 chef
 chefs
+cyclones
 collocate
 chego
 coruscated
@@ -31027,7 +31028,6 @@ caprocks
 cumsha
 cumshaw
 coelelminthes
-cyclones
 cumulate
 canberra
 cumulated
