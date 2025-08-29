@@ -8455,7 +8455,6 @@ anallergic
 abrahamic
 alkylate
 atremate
-alkylbenzenesulfonates
 alkylic
 appendiculariidae
 antiphonetic
@@ -24525,6 +24524,7 @@ availer
 antimachine
 availing
 amapondo
+alkylbenzenesulfonates
 apollyon
 avails
 abrogators
