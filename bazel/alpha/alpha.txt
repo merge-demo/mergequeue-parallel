@@ -17561,7 +17561,6 @@ appendicularia
 aboulias
 azygosperm
 appendiculate
-alectoris
 acuesthesia
 appendorontgenography
 agathodaemon
@@ -23841,6 +23840,7 @@ authoritarian
 authoritarians
 awarn
 authoritative
+alectoris
 announceable
 archvestryman
 authorizer
