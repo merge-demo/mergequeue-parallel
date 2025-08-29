@@ -5550,6 +5550,7 @@ character
 cariousness
 centi
 crochet
+cotte
 catalogia
 contractible
 catalogical
@@ -26429,7 +26430,6 @@ cottagers
 cottars
 cahuy
 cottas
-cotte
 cotted
 cotter
 cottered
