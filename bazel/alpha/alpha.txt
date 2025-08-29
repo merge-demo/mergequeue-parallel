@@ -5947,7 +5947,6 @@ arnoldist
 aestuous
 aposaturn
 affiances
-agist
 allamanda
 aretalogy
 autophotoelectric
@@ -12214,6 +12213,7 @@ allopatric
 astrophotography
 andaste
 antiposition
+agist
 annunciate
 antithetics
 agmatine
