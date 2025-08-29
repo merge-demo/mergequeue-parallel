@@ -5209,6 +5209,7 @@ denominate
 deek
 diaphote
 desmosis
+difform
 declaimers
 denunciations
 deputy
@@ -7680,7 +7681,6 @@ dimples
 deviancy
 deemed
 dogcatcher
-difform
 deviated
 disenthronement
 disparpled
