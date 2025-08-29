@@ -13700,7 +13700,6 @@ cloots
 clashed
 chambul
 cheers
-colan
 cinchonization
 crunodal
 cinchonize
@@ -19941,6 +19940,7 @@ chromolithographer
 coenenchyme
 commandery
 commanding
+colan
 changeover
 corolitic
 commandingly
