@@ -4097,7 +4097,6 @@ dihybrid
 disreason
 delimitating
 drumfire
-delimitation
 delimiter
 deviational
 displumed
@@ -13856,6 +13855,7 @@ dramatis
 dogvane
 decapod
 diamondizing
+delimitation
 dylan
 digram
 discomposingly
