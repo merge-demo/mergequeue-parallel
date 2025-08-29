@@ -2915,6 +2915,7 @@ barreleyes
 bookend
 batuque
 botanical
+beaconed
 beglew
 beartongue
 bindwith
@@ -6970,7 +6971,6 @@ barrico
 besiegers
 bedeman
 bromism
-beaconed
 benzophenothiazine
 bradyacousia
 beslap
