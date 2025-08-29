@@ -1467,7 +1467,6 @@ cedulas
 curraghs
 calligrapha
 conjuration
-chemurgy
 calligraphers
 calligraphy
 calligraphic
@@ -10285,6 +10284,7 @@ charlies
 calctuffs
 chichling
 chick
+chemurgy
 chelidosaurus
 chickabiddy
 chemosorb

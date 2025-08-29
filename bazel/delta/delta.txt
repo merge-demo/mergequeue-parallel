@@ -328,7 +328,6 @@ daybill
 downcomer
 disinteress
 dourine
-daybooks
 deckman
 desand
 desquamative
@@ -1686,6 +1685,7 @@ deanthropomorphism
 diasynthesis
 deanthropomorphization
 deappetizing
+daybooks
 dearborn
 dumortierite
 dearest
