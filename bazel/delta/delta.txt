@@ -5324,7 +5324,6 @@ despotize
 diatomacean
 dismissers
 decimalized
-demibombard
 disguising
 dysteleology
 displant
@@ -15629,6 +15628,7 @@ diazoles
 donought
 deathlessly
 discriminatingly
+demibombard
 donovan
 dons
 deltahedron
