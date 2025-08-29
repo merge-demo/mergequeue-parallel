@@ -9488,6 +9488,7 @@ antherozooid
 annul
 altiplanicie
 acidize
+antechinomys
 ametaboly
 altiplano
 accise
@@ -13989,7 +13990,6 @@ aloedary
 antechamber
 aloetic
 accomodate
-antechinomys
 agitpropist
 autopilots
 autocatalytic
