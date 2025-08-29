@@ -17979,7 +17979,6 @@ coelodont
 comet
 claymores
 coelom
-coeloma
 coelomata
 companies
 conservatrix
@@ -28781,6 +28780,7 @@ chirographic
 commander
 cretaceous
 comte
+coeloma
 cretaceously
 cretacic
 cymotrichy
