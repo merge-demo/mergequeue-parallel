@@ -942,6 +942,7 @@ centrifugalized
 calamarmar
 cilioflagellate
 calamars
+camphorate
 calambac
 coastmen
 calambour
@@ -1533,7 +1534,6 @@ commonwealthism
 cuddle
 circumundulate
 callop
-camphorate
 cancerwort
 cutcher
 corrobboree
