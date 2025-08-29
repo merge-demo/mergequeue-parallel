@@ -14739,7 +14739,6 @@ antiscii
 abbreviations
 antichance
 animatograph
-amperes
 antichlorine
 antichloristic
 antichlorotic
@@ -23955,6 +23954,7 @@ autocolony
 autocombustion
 autoconduction
 axmaster
+amperes
 algocyan
 anthracnosis
 ansate
