@@ -9257,7 +9257,6 @@ devolve
 discontinuor
 drosophilidae
 debarkation
-duckstone
 disilluded
 discolour
 deterge
@@ -16667,6 +16666,7 @@ dation
 dirt
 denunciable
 disappeared
+duckstone
 disburdening
 dragoonage
 dragrope
