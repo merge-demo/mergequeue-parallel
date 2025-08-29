@@ -10197,6 +10197,7 @@ blackguard
 bos
 betokening
 bookrests
+blup
 buckwasher
 baroreceptor
 beseechers
@@ -11536,7 +11537,6 @@ biarcuate
 brachymetropia
 bestows
 bocedization
-blup
 barbs
 blurb
 blurbist
