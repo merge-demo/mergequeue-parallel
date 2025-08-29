@@ -11762,7 +11762,6 @@ analyzes
 analyzing
 appetibility
 analkalinity
-anallagmatic
 anallantoidean
 acclimature
 antipedobaptist
@@ -16218,6 +16217,7 @@ arcosoliulia
 antithyroid
 algolagnic
 anilid
+anallagmatic
 antitintinnabularian
 atmidometry
 argentous
