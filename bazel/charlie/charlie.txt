@@ -19204,6 +19204,7 @@ cornhusks
 conjunctives
 clitterclatter
 collotypic
+calcic
 cental
 clay
 classifier
@@ -25542,7 +25543,6 @@ corp
 corpn
 corpora
 corporacy
-calcic
 corporalcy
 corporale
 corporalism
