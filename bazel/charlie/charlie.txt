@@ -1585,7 +1585,6 @@ centrobaric
 crureus
 cadillac
 calmest
-calmier
 calmiest
 coeducationally
 calming
@@ -2664,6 +2663,7 @@ canille
 canine
 canines
 caning
+calmier
 counterreprisal
 caniniform
 choledochoenterostomy
