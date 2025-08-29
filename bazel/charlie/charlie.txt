@@ -6210,6 +6210,7 @@ codicilic
 cottar
 caulds
 camize
+coercionary
 caulescent
 caulicle
 caulicole
@@ -18147,7 +18148,6 @@ condylarth
 calendry
 coercers
 coercible
-coercionary
 coercitive
 coercive
 coerciveness

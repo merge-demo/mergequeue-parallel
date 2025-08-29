@@ -9090,7 +9090,6 @@ befits
 boylikeness
 bioscopy
 bioscopic
-bioastronautical
 ballistocardiograph
 biosensor
 bearishness
@@ -16649,6 +16648,7 @@ bilaan
 bakwiri
 buckhounds
 bucklum
+bioastronautical
 backstair
 bucky
 besa
