@@ -4250,7 +4250,6 @@ dislocate
 deltahedra
 dismaler
 diluvial
-daiquiris
 disacknowledge
 deltas
 digitals
@@ -18099,6 +18098,7 @@ dullnesses
 disgavelled
 deglaze
 degreeing
+daiquiris
 drunkelew
 deflexing
 demihearse
