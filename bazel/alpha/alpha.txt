@@ -19662,7 +19662,6 @@ arteriorrhexis
 aristotelean
 aristotelianism
 aristotelism
-acicula
 aristotype
 aristotle
 arytenoepiglottic
@@ -24170,6 +24169,7 @@ aphetism
 argumentative
 automaticity
 antidogmatically
+acicula
 automatin
 autocoids
 adactyl
