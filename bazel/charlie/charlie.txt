@@ -8209,6 +8209,7 @@ calculated
 cyanol
 counterferment
 camise
+coelenterate
 caracoli
 chitties
 chalazium
@@ -17954,7 +17955,6 @@ coelentera
 cubicle
 colics
 cattlehide
-coelenterate
 catharses
 crotin
 coelenterates
