@@ -5754,6 +5754,7 @@ downstroke
 diaphany
 downloads
 diazotizability
+detects
 dimpled
 depolarizers
 droves
@@ -15885,7 +15886,6 @@ disprobabilize
 dorsiduct
 dorsiflex
 does
-detects
 daffodowndilly
 deluge
 dissertations

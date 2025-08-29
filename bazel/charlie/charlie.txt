@@ -11158,6 +11158,7 @@ complexly
 commissioners
 chloralum
 chlorambucil
+chlorphenol
 contrasting
 chloramin
 chloramphenicol
@@ -15230,7 +15231,6 @@ claywares
 clayweed
 caam
 colours
-chlorphenol
 crassina
 clam
 cabriolet
