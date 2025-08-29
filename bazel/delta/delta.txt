@@ -1435,7 +1435,6 @@ desocialize
 dissonancies
 dawnlike
 demimetope
-deis
 disoccident
 deprest
 dispenditure
@@ -8876,6 +8875,7 @@ dibranchiata
 dropperful
 dovens
 dibstone
+deis
 degustation
 doziness
 dibutyrin
