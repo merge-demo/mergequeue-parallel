@@ -1305,6 +1305,7 @@ capitulatory
 cabellerote
 calycled
 curveted
+concordance
 cistvaen
 cossyrite
 calicles
@@ -21442,7 +21443,6 @@ cumquats
 concordably
 concordal
 circumundulation
-concordance
 carcavelhos
 commands
 corporacies
