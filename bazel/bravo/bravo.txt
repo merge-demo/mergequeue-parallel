@@ -6259,6 +6259,7 @@ bypass
 beakful
 benne
 bennes
+burgling
 beveling
 bungalow
 bennets
@@ -7630,7 +7631,6 @@ britishness
 biacetylene
 backened
 beeper
-burgling
 borborygmic
 bewraps
 belesprit
