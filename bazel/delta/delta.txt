@@ -1759,7 +1759,6 @@ devocalization
 downtimes
 drof
 deathward
-dikaryon
 ductility
 docent
 downlier
@@ -7761,6 +7760,7 @@ disastimeter
 dogmatization
 desulphurized
 discontiguousness
+dikaryon
 deviser
 devising
 diverticle
