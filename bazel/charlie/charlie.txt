@@ -4641,6 +4641,7 @@ carpals
 carpathian
 carpe
 carped
+careerist
 cytinaceous
 composograph
 carpenters
@@ -17401,7 +17402,6 @@ cancelled
 chondrin
 cobitidae
 colonoscopy
-careerist
 compile
 concussion
 christmas
