@@ -6455,7 +6455,6 @@ calusar
 conchie
 cavetto
 cavy
-cavia
 cavicorn
 capstans
 cuprocyanide
@@ -20255,6 +20254,7 @@ communal
 chapman
 coccineous
 chitin
+cavia
 cliona
 communalise
 communalism
