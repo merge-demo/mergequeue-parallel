@@ -8038,7 +8038,6 @@ algiomuscular
 algodoncillo
 algoesthesiometer
 aides
-acrologies
 avoidances
 artisanship
 algoid
@@ -21683,6 +21682,7 @@ asseveratingly
 alfoncino
 arthromeningitis
 argenticyanide
+acrologies
 assertorical
 alister
 archiphoneme

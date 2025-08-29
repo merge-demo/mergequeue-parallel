@@ -4201,6 +4201,7 @@ blockaders
 beatifies
 batholite
 bouchees
+beany
 bandel
 bioscientific
 beatles
@@ -9308,7 +9309,6 @@ bifolia
 boyang
 balourdise
 bloviating
-beany
 bawdry
 buzuki
 bilipyrrhin
