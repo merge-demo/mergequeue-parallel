@@ -3514,7 +3514,6 @@ defreeze
 defrocked
 dubbed
 derogately
-deuces
 dillis
 dispensational
 daybeam
@@ -14306,6 +14305,7 @@ disyokes
 dooms
 dithecal
 dither
+deuces
 diffiding
 deporter
 depravers
