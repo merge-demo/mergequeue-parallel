@@ -2227,6 +2227,7 @@ droschken
 derrire
 dosages
 drongo
+dridder
 drivescrew
 doris
 dreint
@@ -12700,7 +12701,6 @@ die
 daubs
 dehorts
 diatrymiformes
-dridder
 disdiplomatize
 dendrobates
 disfavour
