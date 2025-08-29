@@ -3543,6 +3543,7 @@ captures
 capturing
 curricular
 capuan
+chloroacetate
 capuched
 cinnamic
 chortler
@@ -29047,7 +29048,6 @@ crinkled
 crinkles
 chalcography
 crinkly
-chloroacetate
 carcassless
 chaussure
 crinklier
