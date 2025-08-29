@@ -12688,7 +12688,6 @@ brennschluss
 bookcases
 bushmaster
 blastophthoric
-bibliographically
 barbaresque
 bowet
 booker
@@ -17610,6 +17609,7 @@ burgomastership
 balladwise
 bhakta
 burgundy
+bibliographically
 burhmoot
 bombic
 bickerers
