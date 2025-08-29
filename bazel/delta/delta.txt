@@ -8912,7 +8912,6 @@ dmod
 deriving
 deposited
 downdraught
-dioptidae
 disconnect
 demieagle
 dissolvability
@@ -12922,6 +12921,7 @@ dissatisfies
 dismortgaging
 divisionism
 dismountable
+dioptidae
 drawls
 dismounted
 dryope
