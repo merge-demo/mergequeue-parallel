@@ -2003,7 +2003,6 @@ coletit
 camletted
 cammarum
 chionanthus
-cornelian
 camooch
 camoodie
 cantor
@@ -28880,6 +28879,7 @@ cholericly
 cribellum
 cribose
 cribrate
+cornelian
 complicatedness
 cribriform
 cribriformity
