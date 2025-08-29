@@ -6509,7 +6509,6 @@ banxring
 bepiece
 bepile
 bolo
-bolshie
 boca
 bumbled
 blobbiness
@@ -15662,6 +15661,7 @@ borrovian
 begroaned
 botanophile
 broadsides
+bolshie
 broadsiding
 broadspread
 broadsword

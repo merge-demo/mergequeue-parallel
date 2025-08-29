@@ -14950,6 +14950,7 @@ cloud
 cytotropic
 cytotropism
 cytovirin
+considerativeness
 careys
 cinquain
 cycler
@@ -22879,7 +22880,6 @@ codiaeum
 cephalometer
 consideration
 considerations
-considerativeness
 considerator
 corrida
 copatain
