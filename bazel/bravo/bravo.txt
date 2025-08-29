@@ -6610,6 +6610,7 @@ butterbox
 brotula
 beetlers
 bacharach
+bastardizing
 bukh
 bodyplate
 beant
@@ -17432,7 +17433,6 @@ bowermay
 betulites
 buntine
 brawlie
-bastardizing
 bromohydrate
 bipinnatiparted
 blacknob
