@@ -10113,6 +10113,7 @@ ambulancer
 acenesthesia
 ambulante
 ambulated
+alternanthera
 atropinism
 auriculare
 ambulates
@@ -21758,7 +21759,6 @@ assyntite
 atropism
 agueweed
 assinuate
-alternanthera
 anaglyphics
 assyriological
 aristol
