@@ -7220,7 +7220,6 @@ centronote
 couth
 centropomidae
 calyceal
-clarified
 countians
 centrosymmetrical
 centrosoyus
@@ -14896,6 +14895,7 @@ cytophil
 cytophilic
 cytula
 consulting
+clarified
 consignors
 crossopterygian
 cytophysiology
