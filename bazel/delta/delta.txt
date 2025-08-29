@@ -11618,7 +11618,6 @@ disconnects
 denotable
 devillike
 disconsent
-disuniformity
 dithering
 discerpibility
 disconsideration
@@ -12943,6 +12942,7 @@ dustiness
 disoblige
 disobliged
 disobliger
+disuniformity
 dognapping
 demobilization
 deerlike
