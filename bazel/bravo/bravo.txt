@@ -6072,6 +6072,7 @@ bemartyr
 buttstrap
 blacktail
 bemuddlement
+banlieue
 bemuddles
 bemuddling
 bemurmur
@@ -15539,7 +15540,6 @@ baldberry
 bristled
 bakhtiari
 biomagnetism
-banlieue
 bindlet
 brunswick
 born
