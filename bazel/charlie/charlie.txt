@@ -3366,7 +3366,6 @@ capping
 cervelas
 chemotropism
 coenact
-comfits
 cappings
 coagencies
 capple
@@ -7015,6 +7014,7 @@ choledochostomy
 constructure
 centauromachy
 centauromachia
+comfits
 censured
 centenar
 constringent
