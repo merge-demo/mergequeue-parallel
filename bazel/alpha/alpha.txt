@@ -4982,7 +4982,6 @@ adularescent
 albruna
 allantoidal
 aerotonometric
-antepagmenta
 aeruginous
 aerugo
 aerugos
@@ -22269,6 +22268,7 @@ augites
 almug
 astrography
 aspidiotus
+antepagmenta
 acromegalic
 archaical
 ailurophobic

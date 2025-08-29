@@ -9823,7 +9823,6 @@ carcinogenicity
 chemicophysical
 crucifige
 ciliary
-curtaining
 computist
 chondrocele
 couldnt
@@ -19697,6 +19696,7 @@ coremium
 chroma
 chrismale
 combatant
+curtaining
 cimbalom
 combater
 combaters
