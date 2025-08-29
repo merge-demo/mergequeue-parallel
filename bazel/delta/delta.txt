@@ -14853,7 +14853,6 @@ docketing
 dantophily
 desertion
 diocesian
-daggerlike
 dockets
 dyphone
 dockhand
@@ -17116,6 +17115,7 @@ diaplexus
 datacell
 dimensional
 disaffected
+daggerlike
 driddle
 dysplastic
 derelictions
