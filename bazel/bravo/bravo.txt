@@ -6591,7 +6591,6 @@ brutality
 bundoc
 bedevilled
 bahima
-berberidaceae
 broils
 berberidaceous
 berberis
@@ -12216,6 +12215,7 @@ buckhound
 banque
 beld
 bolognan
+berberidaceae
 bolognas
 bolognese
 balaenopteridae
