@@ -8916,6 +8916,7 @@ dioptidae
 disconnect
 demieagle
 dissolvability
+drawl
 desex
 dichas
 dichasia
@@ -11410,7 +11411,6 @@ disciple
 decussis
 depicter
 dispress
-drawl
 disciplinable
 dishfuls
 deferentectomy
