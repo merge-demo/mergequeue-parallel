@@ -6467,6 +6467,7 @@ caviya
 cavyyard
 caviled
 canmaker
+cirrhosed
 cavilers
 cavilingly
 craftsmen
@@ -7577,7 +7578,6 @@ cerebrocardiac
 chairman
 cerebroganglionic
 cerebroid
-cirrhosed
 cerebromeningeal
 cerebromeningitis
 cyclitis
