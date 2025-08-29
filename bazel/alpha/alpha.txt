@@ -49,7 +49,6 @@ arcella
 arguitively
 alkylene
 anocithesia
-adstringe
 acineta
 abacus
 annotation
@@ -24487,6 +24486,7 @@ auxinic
 angekkok
 auxinically
 amober
+adstringe
 auxoamylase
 actinomycetaceae
 autofecundation
