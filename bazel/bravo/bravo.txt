@@ -4884,7 +4884,6 @@ beebee
 bradystalsis
 bewpers
 beechen
-bulgari
 bugled
 beechnut
 breakstone
@@ -11718,6 +11717,7 @@ bahnung
 bobet
 bumkins
 befop
+bulgari
 bolsterwork
 bosselated
 bobfloat
