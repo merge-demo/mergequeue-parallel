@@ -8804,7 +8804,6 @@ chapstick
 concurbit
 camelot
 cloudless
-chaptalize
 cymbalaria
 chapter
 canonries
@@ -17216,6 +17215,7 @@ coalbox
 craterous
 cramoisy
 coaled
+chaptalize
 coaler
 coalers
 coalescence
