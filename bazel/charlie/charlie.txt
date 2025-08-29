@@ -20043,7 +20043,6 @@ commensurateness
 curatorial
 commensurating
 codings
-commensuration
 commensurations
 corking
 comment
@@ -23884,6 +23883,7 @@ conubium
 chartist
 couthier
 comminuate
+commensuration
 conularia
 conumerous
 conundrums
