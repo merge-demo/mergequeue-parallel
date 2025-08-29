@@ -5185,7 +5185,6 @@ burbank
 broiler
 butles
 bluebead
-bordereau
 breedbate
 befretting
 befriended
@@ -6188,6 +6187,7 @@ beneficial
 beneficialness
 beneficiated
 boskiness
+bordereau
 bloodthirsting
 brassiest
 bethflower
