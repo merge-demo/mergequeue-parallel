@@ -6909,7 +6909,6 @@ amicable
 akasa
 akawai
 akazga
-appends
 akazgine
 abdominovesical
 alphabetism
@@ -22222,6 +22221,7 @@ anthropolitic
 avilion
 avion
 antilia
+appends
 accreting
 astrodome
 apoplectical
