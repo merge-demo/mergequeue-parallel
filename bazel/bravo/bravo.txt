@@ -2643,7 +2643,6 @@ barking
 baddy
 botanise
 barkless
-battening
 bandusia
 barkometer
 bescorch
@@ -5550,6 +5549,7 @@ baklava
 bemurmured
 blotted
 beisance
+battening
 bouvier
 burled
 beja

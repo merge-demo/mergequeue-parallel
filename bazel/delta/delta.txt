@@ -782,6 +782,7 @@ duvetyne
 destains
 disastrously
 dandled
+dragboat
 dopaoxidase
 dandler
 dandlers
@@ -8396,7 +8397,6 @@ diabase
 dialists
 deacetylated
 diachylum
-dragboat
 disunite
 decked
 dialyze
