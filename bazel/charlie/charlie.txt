@@ -17693,7 +17693,6 @@ comoid
 charmeuse
 cockaigne
 cockal
-carboloy
 counternoise
 cockpit
 couched
@@ -19514,6 +19513,7 @@ colpoperineoplasty
 colpoperineorrhaphy
 caledonian
 casimires
+carboloy
 cowpony
 convenientness
 colpoplasty
