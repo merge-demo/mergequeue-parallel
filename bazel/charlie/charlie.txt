@@ -6440,7 +6440,6 @@ cavelet
 cesarians
 confiner
 cambodia
-cavemen
 cavernal
 cavernlike
 cavernoma
@@ -15435,6 +15434,7 @@ cruzadoes
 clarifiant
 clarificant
 clarification
+cavemen
 clarifier
 clarifiers
 chiefry
