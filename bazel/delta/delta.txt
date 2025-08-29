@@ -7233,6 +7233,7 @@ discriminates
 decertify
 dolorous
 dandiacal
+diphenyl
 damnified
 disinhumed
 detectible
@@ -9908,7 +9909,6 @@ dace
 dimensionally
 dimensioning
 disangularize
-diphenyl
 dimer
 deludable
 decolonising
