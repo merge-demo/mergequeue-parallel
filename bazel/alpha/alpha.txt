@@ -7172,7 +7172,6 @@ anematize
 atropin
 antiparasitic
 antepaschel
-ansi
 alveololabial
 abominableness
 alaska
@@ -8219,6 +8218,7 @@ autobus
 annex
 aliyoth
 anilao
+ansi
 alikeness
 alikewise
 alternance
