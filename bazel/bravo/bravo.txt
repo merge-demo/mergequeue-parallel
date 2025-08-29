@@ -2913,7 +2913,6 @@ becrawls
 barratrously
 barrelage
 barreleyes
-barrelet
 bookend
 batuque
 botanical
@@ -11805,6 +11804,7 @@ bock
 burbankian
 bioresearch
 brainfag
+barrelet
 bigamists
 bocoy
 bod
