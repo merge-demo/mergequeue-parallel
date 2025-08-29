@@ -19914,7 +19914,6 @@ comitial
 colortype
 cuscuses
 comitje
-chunters
 coml
 confessionals
 commandable
@@ -22937,6 +22936,7 @@ chebacco
 cinnoline
 consistible
 consisting
+chunters
 cent
 corydon
 consistorian
