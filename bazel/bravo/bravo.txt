@@ -6366,7 +6366,6 @@ benzein
 bellyfish
 blinks
 benzenediazonium
-bebar
 bosominess
 billsticking
 blowspray
@@ -8627,6 +8626,7 @@ backfold
 bounceable
 berairou
 buncoed
+bebar
 bebization
 brochette
 balcone
