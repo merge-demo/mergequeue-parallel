@@ -3620,6 +3620,7 @@ disquantity
 deprint
 dermatoxerasia
 deglut
+dognaps
 dec
 disarrangement
 dithematic
@@ -12170,7 +12171,6 @@ dorbie
 detailedly
 disparager
 delusion
-dognaps
 dysesthesia
 disestimation
 deferential
