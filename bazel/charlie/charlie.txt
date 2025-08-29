@@ -14977,7 +14977,6 @@ citrination
 citrine
 coqueluche
 congressmen
-cytopharynxes
 citrinin
 citrinins
 citrins
@@ -31706,6 +31705,7 @@ cuspidor
 cuspids
 cephalopodan
 cusping
+cytopharynxes
 cur
 cuspis
 cusps
