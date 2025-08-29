@@ -5285,7 +5285,6 @@ carotidean
 cellarers
 cast
 castable
-castagnole
 castalides
 cardiopuncture
 chertier
@@ -8118,6 +8117,7 @@ coordain
 comrogue
 chalkboards
 chainage
+castagnole
 crepuscule
 coraciae
 conceptions
