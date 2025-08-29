@@ -3245,7 +3245,6 @@ doty
 deteriority
 deterging
 drostden
-defibrillatory
 dropax
 defier
 defiers
@@ -7321,6 +7320,7 @@ dessa
 deplaned
 dimissorial
 dipneumona
+defibrillatory
 deckings
 dishevely
 durene
