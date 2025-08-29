@@ -7241,7 +7241,6 @@ decourt
 daguilla
 darklings
 delubrum
-deverbative
 desolately
 dyingly
 detente
@@ -14162,6 +14161,7 @@ dubbers
 disturb
 disturbance
 dominican
+deverbative
 divestitive
 demipronation
 dendroid
