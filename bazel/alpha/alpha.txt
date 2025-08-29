@@ -2813,7 +2813,6 @@ apium
 abidal
 avadavat
 acronymized
-acronymizing
 anchorage
 adessive
 ancylopoda
@@ -13839,6 +13838,7 @@ anserines
 antsigne
 anspessade
 askaris
+acronymizing
 anstoss
 accessorized
 anstosse
