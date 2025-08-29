@@ -10302,6 +10302,7 @@ bladdery
 bladderlike
 biblism
 bladderseed
+bridgehead
 bladderwort
 blading
 boxfuls
@@ -12777,7 +12778,6 @@ bucolic
 bullfice
 bilbo
 bookwards
-bridgehead
 byronite
 bookworm
 booleans
