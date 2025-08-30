@@ -8124,7 +8124,6 @@ bidiagonal
 bidimensional
 befouls
 bidirectional
-biophagy
 beliefs
 bania
 boltonias
@@ -10271,6 +10270,7 @@ blacktongue
 bacchanalism
 byroniana
 benzoquinoline
+biophagy
 blacktopping
 blacktops
 blastoporphyritic

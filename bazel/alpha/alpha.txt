@@ -824,7 +824,6 @@ assertors
 acesodyne
 abscissas
 anam
-amphicyrtous
 abscission
 absconce
 arris
@@ -14456,6 +14455,7 @@ amphitricha
 archiprelatical
 anthropomorphitical
 anthropomorphized
+amphicyrtous
 anthropomorphology
 anthropomorphologically
 anthropomorphously
