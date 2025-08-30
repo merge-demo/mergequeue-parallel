@@ -4423,6 +4423,7 @@ coprincipate
 caseates
 cert
 carli
+cotenants
 choruslike
 carlylean
 carlyleian
@@ -26335,7 +26336,6 @@ cozeiest
 circumsaturnian
 cotenancy
 cotenant
-cotenants
 cotenure
 concaved
 cinderlike
