@@ -23280,7 +23280,6 @@ consults
 consumated
 consumating
 cosmopolitical
-consume
 consumedly
 consumeless
 cusk
@@ -31229,6 +31228,7 @@ cabriolets
 curacoa
 county
 curacoas
+consume
 curage
 chisellers
 curaghs

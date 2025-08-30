@@ -1567,7 +1567,6 @@ bovidae
 ballata
 brisked
 batikulin
-ballatoon
 backcasts
 blazer
 balldom
@@ -12733,6 +12732,7 @@ bhoots
 bookmobiles
 burlesk
 bookpress
+ballatoon
 bookracks
 bandores
 blacklegging
