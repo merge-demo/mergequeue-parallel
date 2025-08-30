@@ -4488,6 +4488,7 @@ bureaucratism
 becrowd
 bismanol
 becrowded
+besmiled
 burstwort
 billeting
 bacchanalias
@@ -6996,7 +6997,6 @@ besluit
 bespread
 basilic
 besmile
-besmiled
 besmirch
 bobtailing
 betroth
