@@ -6791,6 +6791,7 @@ aglyphous
 aptian
 aventine
 adelphoi
+aleutic
 airview
 acanthodidae
 acrodromous
@@ -7875,7 +7876,6 @@ annotto
 aleuronic
 aleurons
 aleut
-aleutic
 alevin
 agnatically
 aprilis

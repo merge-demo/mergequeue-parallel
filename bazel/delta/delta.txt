@@ -2716,7 +2716,6 @@ deliberated
 depart
 disaffiliate
 devonshire
-dictates
 dissembling
 decore
 docklands
@@ -3786,6 +3785,7 @@ devalued
 defacingly
 deicides
 deicing
+dictates
 dismutation
 deictical
 dissevered
