@@ -12560,6 +12560,7 @@ bemocks
 bardane
 bonk
 begrudging
+belis
 bagpiping
 bonne
 bonnet
@@ -14850,7 +14851,6 @@ breakings
 bovicide
 breaklist
 buttercup
-belis
 bostonians
 breakoff
 byssolite
