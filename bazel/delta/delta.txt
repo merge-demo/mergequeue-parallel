@@ -2902,7 +2902,6 @@ desmodont
 duodecimomos
 dedicant
 dedicatee
-dichotic
 downbeat
 dedicating
 disorientating
@@ -17180,6 +17179,7 @@ drifts
 depositary
 damara
 dislocated
+dichotic
 dryinid
 diffusibility
 divagations
