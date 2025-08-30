@@ -3800,7 +3800,6 @@ carbona
 carbonaceous
 cuter
 cleavability
-carbonade
 ceratite
 carbonarist
 carbonatation
@@ -10422,6 +10421,7 @@ congession
 consorts
 chigoes
 chih
+carbonade
 conquered
 coryphaena
 clinocephalic
