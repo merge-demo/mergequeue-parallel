@@ -10001,6 +10001,7 @@ amblycephalus
 acinetinan
 amblychromatic
 amblydactyla
+autometric
 argusfish
 amblygonal
 allergology
@@ -24190,7 +24191,6 @@ actinically
 automechanism
 antinodes
 archgovernor
-autometric
 assegaied
 automobile
 automobiled
