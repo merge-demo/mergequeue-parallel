@@ -19854,6 +19854,7 @@ comfit
 comfiture
 codlins
 comfort
+carcerated
 cryptoglaux
 comfortableness
 comfortation
@@ -31736,7 +31737,6 @@ collochemistry
 changing
 customableness
 customably
-carcerated
 catfishes
 customance
 customaries
