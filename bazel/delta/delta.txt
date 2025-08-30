@@ -14057,7 +14057,6 @@ distortions
 delocalise
 differentiable
 distorts
-dolomitising
 dentoid
 draconism
 diphosphide
@@ -16484,6 +16483,7 @@ deviousness
 dozzle
 dyscrasing
 dozzled
+dolomitising
 dr
 disassembles
 drabant
