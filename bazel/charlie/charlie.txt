@@ -9306,6 +9306,7 @@ cordite
 chaucerian
 chauchat
 cuorin
+caligation
 conjunctive
 chaudfroid
 chauffage
@@ -12412,7 +12413,6 @@ chromyl
 chroming
 chromiole
 chromism
-caligation
 chromite
 catechiser
 chromitite
