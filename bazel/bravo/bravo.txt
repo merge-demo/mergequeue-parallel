@@ -14089,7 +14089,6 @@ bogusness
 brachiopoda
 biparental
 baldy
-beltene
 brachiopode
 bistipular
 brachiorrheuma
@@ -17195,6 +17194,7 @@ basseting
 bubingas
 bumblepuppy
 bespecklement
+beltene
 bedriveled
 blamably
 bello
