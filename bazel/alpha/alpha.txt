@@ -18162,6 +18162,7 @@ aquotization
 autopsychic
 aquotize
 antitrochanter
+antiproton
 ar
 ara
 antediluvial
@@ -23938,7 +23939,6 @@ afterproof
 antioptimistical
 addlins
 accerse
-antiproton
 acetobacter
 aube
 autoclave
