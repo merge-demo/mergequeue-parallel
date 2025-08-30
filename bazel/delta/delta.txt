@@ -7885,6 +7885,7 @@ driveways
 dewclaws
 diaphonia
 dites
+ductor
 dianthus
 dewdamp
 denierer
@@ -17862,7 +17863,6 @@ disutilize
 ductless
 drinkable
 darrell
-ductor
 dowdies
 ductules
 drawlatch
