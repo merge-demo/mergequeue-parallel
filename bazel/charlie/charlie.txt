@@ -25221,7 +25221,6 @@ carcasing
 cytomitome
 coryza
 canoodler
-cocreates
 corkages
 corkboard
 conventionalized
@@ -27924,6 +27923,7 @@ craftspeople
 concubinaries
 cheeriness
 craftwork
+cocreates
 craftworker
 crag
 craggan
