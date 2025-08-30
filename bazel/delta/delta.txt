@@ -2372,6 +2372,7 @@ drugget
 deciceronize
 dino
 decidedly
+deregulationize
 decohere
 dewclaw
 decidence
@@ -6159,7 +6160,6 @@ dereferencing
 deregulated
 discrowning
 deregulation
-deregulationize
 dicolic
 defenestrated
 duckhunting
