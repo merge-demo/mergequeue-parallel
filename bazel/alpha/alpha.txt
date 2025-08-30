@@ -2946,6 +2946,7 @@ anthropopathite
 appear
 aerophore
 appearances
+alteratively
 actinograph
 aporobranchiata
 antipodes
@@ -19727,7 +19728,6 @@ amphicyonidae
 apocalyptist
 armagnacs
 autochthonous
-alteratively
 acutate
 armamentarium
 autoskeleton
