@@ -7460,7 +7460,6 @@ cartellist
 ceratonia
 cicerones
 counterbrace
-cardamoms
 chlorophyl
 ceria
 ceratophyllaceous
@@ -31907,6 +31906,7 @@ carcased
 cutwater
 cutweed
 cutwork
+cardamoms
 cutworm
 cutworms
 coldblooded
