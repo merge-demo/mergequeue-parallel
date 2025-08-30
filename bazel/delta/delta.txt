@@ -5359,6 +5359,7 @@ demonio
 debe
 diazenithal
 donnees
+divellent
 disgruntle
 dawned
 denting
@@ -14453,7 +14454,6 @@ divast
 doubtable
 dermatherm
 dogmatists
-divellent
 downstage
 dispireme
 divergement
