@@ -3769,7 +3769,6 @@ deia
 distanceless
 dyostyle
 detest
-disarticulate
 dor
 decency
 disgracia
@@ -6943,6 +6942,7 @@ distomian
 dioptases
 despisable
 dorcas
+disarticulate
 dont
 digitron
 dartrous
