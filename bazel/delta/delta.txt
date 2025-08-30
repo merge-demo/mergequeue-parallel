@@ -1585,6 +1585,7 @@ disposition
 determinatively
 deadlocking
 duplicia
+describe
 dipus
 duskily
 direfulness
@@ -14756,7 +14757,6 @@ darioles
 discute
 djin
 disrespondency
-describe
 dowers
 doxies
 disagrees
