@@ -16688,7 +16688,6 @@ admirer
 aftermast
 accidentals
 anteaters
-antiorthodox
 abjudicating
 aphanitic
 armours
@@ -20917,6 +20916,7 @@ ascidians
 ascidiate
 angelologic
 ascidiform
+antiorthodox
 attour
 ascidioid
 assation

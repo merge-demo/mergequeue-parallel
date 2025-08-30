@@ -366,7 +366,6 @@ describably
 dropling
 daybreaks
 dreamt
-daygoing
 desiccation
 dorylinae
 delightfully
@@ -3064,6 +3063,7 @@ diaphragming
 disorder
 deadliness
 downbent
+daygoing
 digitizer
 doohickus
 dentaria
