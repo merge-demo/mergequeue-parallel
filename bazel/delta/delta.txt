@@ -4611,6 +4611,7 @@ dustlike
 dolichocrany
 depths
 disusing
+disruptable
 digitigrade
 demiox
 disenthrall
@@ -8347,7 +8348,6 @@ dejerate
 dialectologist
 dargue
 daemonies
-disruptable
 dioestrum
 duchies
 dialed
