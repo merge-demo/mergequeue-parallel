@@ -13058,6 +13058,7 @@ animalivore
 animalivorous
 animalize
 animalized
+alethiologic
 atmidometer
 allergist
 animallike
@@ -21847,7 +21848,6 @@ assonants
 arnottos
 alternations
 assorted
-alethiologic
 assorter
 assortments
 asssembler
