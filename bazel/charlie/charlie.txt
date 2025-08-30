@@ -5565,6 +5565,7 @@ catalonian
 cataloon
 catalos
 catalufa
+capricornus
 catalufas
 catamarcan
 choufleur
@@ -15259,7 +15260,6 @@ clame
 clamflat
 calamospermae
 chivalry
-capricornus
 clamjamfery
 clammed
 caramelizes
