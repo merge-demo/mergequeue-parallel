@@ -12723,6 +12723,7 @@ dinitrobenzene
 demesnes
 demi
 dissolute
+dufrenoysite
 disleafed
 dermatophone
 distinguishes
@@ -17972,7 +17973,6 @@ dulcin
 disenchanting
 dissembled
 displeasurement
-dufrenoysite
 dufter
 dosage
 delimitate
