@@ -1150,6 +1150,7 @@ academized
 anterin
 anisodactyle
 alpenstocker
+automatontons
 acadie
 amorphic
 absorbability
@@ -13315,7 +13316,6 @@ ankyloses
 anantherate
 amperages
 averted
-automatontons
 antihumbuggist
 archmarshal
 assafetida
