@@ -9809,7 +9809,6 @@ bowdlerization
 barrels
 balawa
 beamy
-biternately
 beworried
 brassica
 biters
@@ -16045,6 +16044,7 @@ breathful
 bundweed
 bratstvo
 brookweed
+biternately
 brool
 beardtongue
 blasphemers

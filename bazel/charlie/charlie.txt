@@ -7771,6 +7771,7 @@ costean
 cerumniparous
 chemoautotrophy
 clorinator
+conceived
 cerussite
 centaurid
 cervantic
@@ -20560,7 +20561,6 @@ compensators
 compenser
 compere
 compered
-conceived
 cumulous
 compering
 compert
