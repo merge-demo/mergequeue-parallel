@@ -15048,6 +15048,7 @@ chaldaism
 coassists
 civilite
 customhouses
+choanocytal
 casino
 comptly
 civilizers
@@ -19540,7 +19541,6 @@ colubrinae
 colubrine
 clarsach
 colubroid
-choanocytal
 colugo
 canaliculi
 cannelated
