@@ -116,6 +116,7 @@ antiheroes
 assertive
 antiphrasis
 apii
+activist
 asialia
 abasic
 anachueta
@@ -10183,7 +10184,6 @@ analgesidae
 ameboid
 ameboidism
 amedeo
-activist
 arytenoid
 ameed
 ameer
