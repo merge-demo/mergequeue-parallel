@@ -2609,7 +2609,6 @@ decolorising
 dispose
 decolors
 duopsonies
-decolouration
 denunciated
 decempeda
 dryasdust
@@ -14432,6 +14431,7 @@ divagationally
 demagnetizes
 droving
 divan
+decolouration
 doley
 divans
 debatably

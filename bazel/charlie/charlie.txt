@@ -11001,6 +11001,7 @@ chirurgeon
 crimean
 chirurgeonly
 cavern
+coalpits
 chirurgery
 chis
 chiseled
@@ -28329,7 +28330,6 @@ cephaloplegic
 crawm
 cardioids
 cartridge
-coalpits
 craws
 conversations
 craze
