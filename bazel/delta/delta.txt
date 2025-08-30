@@ -8443,7 +8443,6 @@ demipremiss
 diabetophobia
 dialogizing
 devesting
-dialonian
 dorsocervically
 dorsiventrally
 dials
@@ -15712,6 +15711,7 @@ doorpiece
 drivel
 dowl
 detumescent
+dialonian
 displacement
 derth
 doorstone
