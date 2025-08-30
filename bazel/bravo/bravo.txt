@@ -1391,6 +1391,7 @@ bnf
 brauronia
 baldachino
 bootle
+bootlicker
 bowers
 belander
 besneer
@@ -11320,7 +11321,6 @@ blowziness
 bls
 blickey
 blubbed
-bootlicker
 bursting
 bhar
 bluntest
