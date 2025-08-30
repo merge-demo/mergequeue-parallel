@@ -5291,7 +5291,6 @@ acumen
 albuminised
 anthroponomy
 amnionic
-adlegiare
 afluking
 afore
 aforehand
@@ -11893,6 +11892,7 @@ acanthosis
 antique
 anarchical
 anenergia
+adlegiare
 aluminium
 anarchies
 analyzation
