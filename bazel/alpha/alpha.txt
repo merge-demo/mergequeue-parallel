@@ -6068,6 +6068,7 @@ abrim
 agon
 agonal
 aurorae
+apollinian
 agoniada
 antiparabema
 atellan
@@ -22296,7 +22297,6 @@ allegorization
 adlegation
 astrometric
 astronaut
-apollinian
 astronavigator
 astronomer
 arider
