@@ -3835,6 +3835,7 @@ baul
 barrington
 boreas
 baulked
+bisinuation
 bearbane
 bequeaths
 behight
@@ -7334,7 +7335,6 @@ battleground
 boatswain
 balaenoptera
 bocklogged
-bisinuation
 bullidae
 bilbies
 bibliolatrist
