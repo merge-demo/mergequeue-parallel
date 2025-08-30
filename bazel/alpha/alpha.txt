@@ -13628,7 +13628,6 @@ anomaliped
 associations
 afferent
 antemillennial
-anomalism
 anomalist
 anomalistic
 andor
@@ -22150,6 +22149,7 @@ animality
 addressees
 acoemetic
 astragalotibial
+anomalism
 astragalus
 archaeolith
 astrain
