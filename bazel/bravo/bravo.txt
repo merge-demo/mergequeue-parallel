@@ -5514,7 +5514,6 @@ bardic
 beeswax
 bootyless
 beelines
-bobbled
 beydom
 bechained
 billboard
@@ -12710,6 +12709,7 @@ briberies
 bookishness
 boxty
 breviate
+bobbled
 barrenwort
 becudgelling
 barging
