@@ -8044,6 +8044,7 @@ dhanuk
 decoratively
 druxey
 dharma
+deuterons
 durra
 dero
 dharmas
@@ -10687,7 +10688,6 @@ diplostichous
 diplotaxis
 durned
 draws
-deuterons
 derivable
 declinometer
 downstreet

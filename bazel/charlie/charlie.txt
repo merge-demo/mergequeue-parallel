@@ -16084,7 +16084,6 @@ cycloramas
 condylotomy
 choriocarcinomata
 cornopean
-converged
 characinid
 crinkum
 circlewise
@@ -18981,6 +18980,7 @@ cinnamon
 collectivise
 collectivism
 collectivist
+converged
 circumcircle
 collectivistically
 cocainization
