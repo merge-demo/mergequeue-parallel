@@ -904,6 +904,7 @@ cakewalking
 caressant
 carnotite
 caky
+cervicohumeral
 clientelage
 cloragen
 consecration
@@ -8418,7 +8419,6 @@ chamise
 chamises
 cladothrix
 chamiso
-cervicohumeral
 caryopteris
 chamlet
 chamm
