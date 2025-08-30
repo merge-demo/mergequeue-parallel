@@ -1425,6 +1425,7 @@ bulter
 baldrib
 bibliognost
 balds
+bivial
 baculums
 bale
 bajonado
@@ -1836,7 +1837,6 @@ billycans
 brainiest
 bancha
 bonhomie
-bivial
 bipunctate
 beslime
 bullose

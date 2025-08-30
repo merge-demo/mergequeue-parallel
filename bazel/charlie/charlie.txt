@@ -10209,7 +10209,6 @@ combretaceae
 chiasmatype
 counterformula
 chiasmic
-cleruchic
 chiasms
 cannas
 coset
@@ -21684,6 +21683,7 @@ cinchonism
 conditioner
 copyists
 champagne
+cleruchic
 conditions
 condititivia
 carboxydomonas
