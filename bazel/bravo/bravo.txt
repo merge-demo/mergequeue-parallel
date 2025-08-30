@@ -4076,7 +4076,6 @@ beancod
 beanery
 beanfeast
 besqueeze
-beanfield
 bachelry
 brontosaurs
 bronchomucormycosis
@@ -12070,6 +12069,7 @@ bokhara
 baronized
 boronic
 bokom
+beanfield
 bola
 bosey
 bartsia

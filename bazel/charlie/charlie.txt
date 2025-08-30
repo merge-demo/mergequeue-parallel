@@ -16636,7 +16636,6 @@ clos
 clodknocker
 closable
 closeable
-closecross
 closed
 closefistedly
 closefistedness
@@ -17254,6 +17253,7 @@ confederated
 cytoplasm
 cleans
 crumple
+closecross
 coalizer
 coalless
 coalmouse
