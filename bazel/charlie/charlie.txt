@@ -13362,6 +13362,7 @@ ceiled
 croshabell
 cyclostomatous
 cyclostomes
+clarist
 cyclostomi
 cedent
 coenobite
@@ -15475,7 +15476,6 @@ certification
 censorate
 clarissimo
 correption
-clarist
 clarities
 coasts
 calyculi
