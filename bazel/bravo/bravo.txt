@@ -6422,7 +6422,6 @@ benzonaphthol
 benzonitrile
 behedge
 benzophloroglucinol
-baculi
 benedight
 benzophthalazine
 breakup
@@ -14992,6 +14991,7 @@ brunneous
 bengalic
 bepillared
 brachyceric
+baculi
 bacteriol
 babite
 binapthyl
