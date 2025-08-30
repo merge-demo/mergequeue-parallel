@@ -2444,7 +2444,6 @@ dey
 dand
 deucing
 decipherably
-deciphered
 damgalnunna
 disidentify
 drepane
@@ -15803,6 +15802,7 @@ disgig
 dukhn
 dacryocystocele
 doryanthes
+deciphered
 doricism
 dyemaker
 deflectometer
