@@ -2524,6 +2524,7 @@ buzylene
 baria
 berceau
 bedouse
+boccaccio
 blameful
 bucca
 bryophytic
@@ -6910,7 +6911,6 @@ besetters
 blessed
 besew
 borghi
-boccaccio
 betrim
 bradyseismic
 bibliopolistic
