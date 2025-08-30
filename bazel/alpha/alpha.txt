@@ -17881,7 +17881,6 @@ appropriating
 appropriations
 appropriativeness
 algometric
-appropriator
 appellative
 ayelp
 appropriators
@@ -22256,6 +22255,7 @@ armourers
 astrogony
 ammoresinol
 autoaspiration
+appropriator
 astrograph
 astrographer
 assemblywomen
