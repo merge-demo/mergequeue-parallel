@@ -567,7 +567,6 @@ catechistic
 caducecei
 caducei
 caduceus
-coinhabitant
 caduciary
 caducibranch
 copiously
@@ -21729,6 +21728,7 @@ condonance
 condonation
 condone
 condonement
+coinhabitant
 condoner
 condoners
 chambertin
