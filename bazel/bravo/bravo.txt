@@ -1896,7 +1896,6 @@ bemisted
 bandiness
 bryology
 bewend
-battutos
 bevies
 batukite
 bishoplike
@@ -5842,6 +5841,7 @@ bellyaching
 bizarrely
 bellibone
 benevolences
+battutos
 bemata
 beleaps
 bldg
