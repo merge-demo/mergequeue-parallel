@@ -9376,6 +9376,7 @@ dunces
 disavowable
 differentiability
 differentiae
+duct
 differentials
 darkle
 dismembering
@@ -14668,7 +14669,6 @@ demosthenic
 developmentary
 decupling
 dietal
-duct
 defensing
 ducktails
 depaysee
