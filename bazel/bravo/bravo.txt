@@ -2671,7 +2671,6 @@ basidiophore
 branchiurous
 bimensal
 bellying
-bable
 bribeable
 barling
 bortz
@@ -9904,6 +9903,7 @@ buhl
 biotite
 barrenly
 brachydome
+bable
 bitterroot
 backfall
 bittersweetly
