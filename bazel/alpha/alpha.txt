@@ -9824,7 +9824,6 @@ amatembu
 attaint
 alloquial
 announcements
-augurs
 amassment
 areaways
 aerogeography
@@ -22967,6 +22966,7 @@ alluviation
 acrodromous
 attars
 anarthropoda
+augurs
 ahungry
 autorhythmic
 atrabiliarious
