@@ -6079,6 +6079,7 @@ bittier
 bemuses
 ballmine
 belswagger
+brodequin
 bemuzzling
 brainless
 ben
@@ -13508,7 +13509,6 @@ boondoggle
 boneyards
 botulisms
 brief
-brodequin
 briquette
 bouch
 bouchaleen
