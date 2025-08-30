@@ -2915,7 +2915,6 @@ dedication
 drafting
 dispurse
 dedicatory
-dedicatorily
 decompensated
 doggoner
 dedicators
@@ -13953,6 +13952,7 @@ disinhabit
 denshare
 dripolator
 dramatics
+dedicatorily
 diervilla
 dokhma
 deles
