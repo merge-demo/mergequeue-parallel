@@ -20972,6 +20972,7 @@ cylindric
 chipmuck
 compsoa
 canoncito
+chlorinate
 cohosh
 compsothlypidae
 calligram
@@ -25046,7 +25047,6 @@ coregnant
 coregonid
 coregonidae
 coregonoid
-chlorinate
 coreidae
 caeciform
 californians
