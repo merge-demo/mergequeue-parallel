@@ -11422,7 +11422,6 @@ bluesmen
 bluestems
 beguiles
 bivious
-barytones
 bolthead
 bluetit
 bluffly
@@ -16950,6 +16949,7 @@ bowedness
 bespoken
 bure
 bhil
+barytones
 blazoner
 beeping
 batell
