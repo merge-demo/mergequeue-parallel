@@ -4262,7 +4262,6 @@ dismayed
 dismaler
 diluvial
 daiquiris
-disacknowledge
 deltas
 digitals
 dukeling
@@ -16370,6 +16369,7 @@ dismarch
 dephlegmatize
 dibbler
 downsitting
+disacknowledge
 describable
 dainteth
 dudishness

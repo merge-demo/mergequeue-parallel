@@ -17932,7 +17932,6 @@ coelebogyne
 coelect
 cystonephrosis
 coelection
-coelector
 cloacean
 cephalomyitis
 charbroiled
@@ -19390,6 +19389,7 @@ crossarms
 coloraturas
 colorature
 celesta
+coelector
 colorblind
 cartomancies
 colorbreed
