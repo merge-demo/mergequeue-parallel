@@ -6963,7 +6963,6 @@ calciphobic
 cenotaphy
 craighle
 climatologist
-cenotes
 ceremonially
 cenozoology
 cuerda
@@ -27363,6 +27362,7 @@ cerotate
 cabinetmaker
 courtin
 catastatic
+cenotes
 cauldron
 courting
 courtly
