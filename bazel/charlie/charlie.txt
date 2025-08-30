@@ -29535,7 +29535,6 @@ croqueting
 conceptually
 computerlike
 croakers
-croaky
 considerately
 combated
 cebine
@@ -31449,6 +31448,7 @@ currach
 currachs
 connectionism
 curragh
+croaky
 centavo
 currajong
 currans
