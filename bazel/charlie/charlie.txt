@@ -21876,6 +21876,7 @@ conferrers
 cohorn
 counterstain
 crotchet
+copyfitter
 corolliform
 chiasm
 conferruminate
@@ -24560,7 +24561,6 @@ copier
 cerebrogalactose
 criminalese
 copies
-copyfitter
 comvia
 copyfitting
 copygraph
