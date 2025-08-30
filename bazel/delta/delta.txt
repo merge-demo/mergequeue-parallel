@@ -9427,6 +9427,7 @@ diadumenus
 durabilities
 diffrangible
 discontentive
+demyship
 dissoluble
 diffusate
 decampment
@@ -12615,7 +12616,6 @@ dhole
 deluxe
 daggerboard
 disinheriting
-demyship
 disinhume
 disinsectization
 djagatay
