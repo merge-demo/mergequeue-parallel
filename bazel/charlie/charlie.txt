@@ -4818,7 +4818,6 @@ chromatoplasm
 carried
 carryed
 carrier
-capitulation
 carryings
 carriole
 carrioles
@@ -29181,6 +29180,7 @@ cirque
 cryptamnesic
 cryptanalytically
 cryptanalytics
+capitulation
 cryptanalyze
 cothamore
 capybara
