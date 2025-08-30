@@ -4985,7 +4985,6 @@ desmacyte
 demountability
 demountable
 devastators
-demounts
 dempsters
 demulcents
 diphycercy
@@ -10615,6 +10614,7 @@ demises
 decoctible
 defs
 diploid
+demounts
 diploidic
 dunderbolt
 dominus
