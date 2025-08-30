@@ -1082,6 +1082,7 @@ babyhouse
 becost
 barrulet
 blousier
+bates
 buzzards
 bailors
 birdlimed
@@ -1720,7 +1721,6 @@ balunda
 balneotherapy
 balneotherapia
 berdaches
-bates
 bahera
 bedumbing
 benzalphthalide
