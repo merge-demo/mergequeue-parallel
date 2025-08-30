@@ -1531,7 +1531,6 @@ callitrichaceae
 callitrichaceous
 conducibly
 callitris
-crenitic
 chaplanry
 cartographer
 crawlway
@@ -15927,6 +15926,7 @@ comitant
 countertrippant
 cleanly
 cleped
+crenitic
 clepsydra
 contorniate
 cleptobioses
