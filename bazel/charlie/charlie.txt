@@ -4651,6 +4651,7 @@ carpet
 carpetbag
 carpetbagger
 carpetbaggery
+conclusively
 conchometry
 catty
 compatibles
@@ -21391,7 +21392,6 @@ conclusive
 coexistency
 cohere
 cnidophorous
-conclusively
 compassionated
 criterion
 chemicalize
