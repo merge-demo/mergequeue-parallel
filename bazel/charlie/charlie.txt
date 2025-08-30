@@ -1952,7 +1952,6 @@ camerine
 camerinidae
 camerist
 circummigrate
-campanero
 comp
 crenelates
 choliambist
@@ -6186,6 +6185,7 @@ capacity
 circularise
 cauking
 cyrtoceracone
+campanero
 cutinises
 conor
 cfs

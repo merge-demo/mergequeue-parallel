@@ -16708,7 +16708,6 @@ aphanitic
 armours
 aphidivorous
 aphidlion
-aphidolysin
 aphidozer
 abecedarian
 aphodi
@@ -23480,6 +23479,7 @@ alvin
 albuminogenous
 approximate
 arrythmically
+aphidolysin
 adjuratory
 alinit
 aumrie
