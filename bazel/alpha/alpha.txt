@@ -7293,6 +7293,7 @@ albinal
 amvis
 apteryx
 albines
+antelegal
 albiness
 antithrombic
 albinic
@@ -25373,7 +25374,6 @@ anatomy
 autopsychorhythmia
 azoxybenzene
 aboardage
-antelegal
 azoxime
 azoxine
 aegirinolite
