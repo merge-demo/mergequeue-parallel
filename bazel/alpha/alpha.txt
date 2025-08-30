@@ -11211,7 +11211,6 @@ amphipeptone
 assemblymen
 alcyonaria
 antistalling
-amphiplatyan
 acknowledge
 amphiploidy
 ascicidia
@@ -22685,6 +22684,7 @@ atmocausis
 atmocautery
 atmoclastic
 asgd
+amphiplatyan
 armsful
 atmolysis
 atmolyzation
