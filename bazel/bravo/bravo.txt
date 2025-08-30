@@ -1622,6 +1622,7 @@ ballo
 blumea
 bursitises
 begluc
+bandog
 banneret
 brairding
 bestar
@@ -2238,7 +2239,6 @@ bast
 ballism
 bridgebote
 barbarianizing
-bandog
 bevesselled
 barbarically
 blandiloquous
