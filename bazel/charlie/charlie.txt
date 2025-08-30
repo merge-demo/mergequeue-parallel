@@ -1944,7 +1944,6 @@ cameraman
 cameras
 camerate
 carlovingian
-countervolition
 cidaroida
 camerated
 cameration
@@ -23231,6 +23230,7 @@ consubstantiated
 cycadales
 consubstantiating
 culmen
+countervolition
 consubstantive
 chivareed
 consuetudinal
