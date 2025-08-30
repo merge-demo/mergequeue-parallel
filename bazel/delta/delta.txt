@@ -3024,7 +3024,6 @@ deservings
 dragonfish
 disestablishment
 deerhound
-deploy
 diphthongs
 diverberate
 deucedly
@@ -15878,6 +15877,7 @@ demolishment
 daring
 dioscoreaceae
 disalign
+deploy
 dorsales
 dorsalwards
 dorsel
