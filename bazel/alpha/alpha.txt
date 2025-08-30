@@ -12532,7 +12532,6 @@ arrayan
 aesopic
 advene
 allochroite
-aneurysm
 aeriferous
 algosis
 aneurisms
@@ -17626,6 +17625,7 @@ allicin
 applauders
 arsine
 applauses
+aneurysm
 armillas
 aponeuroses
 alborak
