@@ -4752,7 +4752,6 @@ brunts
 bedpans
 bruisers
 bries
-beeball
 besplit
 bedpost
 bypasses
@@ -12858,6 +12857,7 @@ bifoil
 bacchiac
 bkpt
 barthian
+beeball
 breastwise
 boong
 bearwood
