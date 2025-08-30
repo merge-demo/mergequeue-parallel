@@ -8724,6 +8724,7 @@ broos
 blightbird
 beagling
 behests
+basileis
 barycentre
 bibacity
 birchen
@@ -13140,7 +13141,6 @@ biseriate
 busting
 boroughmonger
 blaspheme
-basileis
 bankrupts
 borowolframic
 borrachio
