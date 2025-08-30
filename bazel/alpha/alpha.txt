@@ -2437,7 +2437,6 @@ anteceded
 acanthopore
 abaisance
 apogean
-accuser
 actorship
 attemperance
 acolyctine
@@ -16499,6 +16498,7 @@ allozooid
 alouatta
 apanaging
 apandry
+accuser
 ach
 athanasy
 anadem
