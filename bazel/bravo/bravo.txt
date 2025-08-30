@@ -699,7 +699,6 @@ baculus
 badaga
 badarian
 borsches
-biorgan
 bumbarge
 barnstormed
 behav
@@ -3463,6 +3462,7 @@ blendure
 badgerly
 bastions
 barabbas
+biorgan
 boughpot
 berginization
 bef
