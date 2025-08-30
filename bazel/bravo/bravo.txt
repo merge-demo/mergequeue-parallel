@@ -5946,7 +5946,6 @@ blitzkrieg
 belast
 berber
 belowground
-brandenburgs
 biggety
 broadpiece
 brontothere
@@ -9578,6 +9577,7 @@ bisdiapason
 binary
 bicapsular
 bandlimits
+brandenburgs
 bisectors
 bisectrices
 busybodyness
