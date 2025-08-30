@@ -18085,7 +18085,6 @@ athwart
 analogically
 advowee
 ascender
-aplanospore
 arminian
 asthenosphere
 atip
@@ -21513,6 +21512,7 @@ antirickets
 asprout
 amani
 antu
+aplanospore
 anamniote
 aristoi
 algolagnist
