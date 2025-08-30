@@ -9845,6 +9845,7 @@ choosy
 chemisorb
 cardiotherapy
 coprophilic
+cholecystogastrostomy
 copperytailed
 chemistry
 chemists
@@ -11554,7 +11555,6 @@ cupellation
 cholecystocolostomy
 cognisability
 colonialization
-cholecystogastrostomy
 cholecystogram
 cholecystography
 cholecystokinin
