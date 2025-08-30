@@ -14123,6 +14123,7 @@ capsulize
 circulant
 circular
 colistins
+copula
 chuffing
 coffers
 cryalgesia
@@ -24736,7 +24737,6 @@ copters
 clausilia
 concert
 cabbing
-copula
 chitting
 coroscopy
 copular
