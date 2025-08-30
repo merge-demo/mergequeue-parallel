@@ -2384,7 +2384,6 @@ blip
 bebeeru
 barcone
 batterfang
-bedarkened
 banshie
 bendell
 beylical
@@ -12076,6 +12075,7 @@ biglenoid
 bolboxalis
 blushingly
 backpack
+bedarkened
 biosatellites
 berun
 bold
