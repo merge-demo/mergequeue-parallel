@@ -5,7 +5,6 @@ derek
 downflow
 demibuckram
 dight
-degradation
 dabby
 dogbane
 demerara
@@ -13414,6 +13413,7 @@ duala
 dultie
 distributively
 dyester
+degradation
 discanting
 diasyrm
 doublehorned
