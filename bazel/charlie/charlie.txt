@@ -13024,7 +13024,6 @@ cyanopia
 colloquize
 cyanoplastid
 cyanoplatinite
-cooperative
 cyanose
 cyanoses
 chemitype
@@ -25541,6 +25540,7 @@ corporality
 cristivomer
 colugos
 corporalities
+cooperative
 corporals
 cytostatically
 citronellic
