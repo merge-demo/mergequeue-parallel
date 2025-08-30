@@ -3865,6 +3865,7 @@ breakbones
 billers
 butyrates
 bavian
+buginese
 bluisness
 bodeful
 bawarchi
@@ -16863,7 +16864,6 @@ bussu
 beudanite
 baloch
 bemeaned
-buginese
 bec
 bookmonger
 bestialist

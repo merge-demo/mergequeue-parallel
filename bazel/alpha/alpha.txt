@@ -23412,6 +23412,7 @@ achroma
 amicus
 august
 augustal
+anopheline
 apothegmatical
 alamosite
 antidemocracy
@@ -24628,7 +24629,6 @@ alai
 andesite
 annuli
 acinetarian
-anopheline
 admove
 aureolae
 aeneid
