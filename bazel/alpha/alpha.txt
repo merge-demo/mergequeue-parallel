@@ -2546,7 +2546,6 @@ aromatite
 actutate
 acrite
 arriswise
-acquiesce
 addiction
 acquiesced
 atriocoelomic
@@ -13889,6 +13888,7 @@ antalgol
 abmodality
 antalkalies
 allothigenetic
+acquiesce
 adelea
 antalkaline
 antalkalis
