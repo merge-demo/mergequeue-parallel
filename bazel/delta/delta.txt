@@ -2147,6 +2147,7 @@ diosmosis
 decantist
 decaffeinated
 decapitation
+dorm
 decapitations
 disassemble
 dehydrogenation
@@ -15826,7 +15827,6 @@ drubbly
 delays
 dicyanine
 dogshore
-dorm
 donec
 deperm
 decries
