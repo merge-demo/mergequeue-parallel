@@ -12982,6 +12982,7 @@ dispermic
 dognaping
 deciduous
 discolor
+driftwind
 disaffectedness
 dissociableness
 disoperculate
@@ -17636,7 +17637,6 @@ drupelets
 drupeole
 detoxification
 during
-driftwind
 drupiferous
 dehumanise
 diffinity
