@@ -7006,6 +7006,7 @@ chaetognath
 centauries
 choledochostomy
 constructure
+cyanidrosis
 centauromachy
 centauromachia
 censured
@@ -12953,7 +12954,6 @@ casel
 catamenial
 continentality
 cyanides
-cyanidrosis
 clothes
 cyanids
 cyanimide
