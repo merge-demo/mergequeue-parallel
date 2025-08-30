@@ -6594,6 +6594,7 @@ catheterizes
 codifier
 cecum
 cecums
+cowperitis
 cecutiency
 cedar
 cedary
@@ -24956,7 +24957,6 @@ cordaitaceae
 cordaitaceous
 casamarca
 cordaites
-cowperitis
 circumpolar
 cordal
 cordate
