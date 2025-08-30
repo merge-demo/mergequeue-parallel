@@ -13070,6 +13070,7 @@ animalivore
 animalivorous
 animalize
 animalized
+atmidometer
 allergist
 animallike
 apozemical
@@ -13078,7 +13079,6 @@ algebrization
 adapter
 ayrshire
 animant
-atmidometer
 animastic
 animastical
 anacletica
