@@ -9724,6 +9724,7 @@ crankpins
 cleanness
 churchmanship
 cheiropod
+corynine
 cherry
 congressed
 cheiropody
@@ -25188,7 +25189,6 @@ corineus
 candelabrums
 caucussed
 corynid
-corynine
 corinna
 corinne
 corynocarpaceous
