@@ -11688,6 +11688,7 @@ antiritualist
 aiawong
 analemma
 analemmas
+amphitropal
 aconitum
 analemmata
 agomphosis
@@ -13918,7 +13919,6 @@ aryepiglottic
 adrenotropic
 ablatively
 antarctogaea
-amphitropal
 antas
 antatrophic
 ante
