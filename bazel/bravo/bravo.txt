@@ -5127,6 +5127,7 @@ bentwood
 biquadrantal
 balanites
 beflannel
+balsamy
 bureaucrat
 beeps
 beflap
@@ -16371,7 +16372,6 @@ botanising
 bromellite
 barque
 benzdioxtriazine
-balsamy
 beshod
 brushback
 butt
