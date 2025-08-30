@@ -8857,7 +8857,6 @@ characterism
 characteristically
 characteristicalness
 cucaracha
-characteristicness
 crociary
 characterization
 characterize
@@ -15298,6 +15297,7 @@ checkrow
 clamoursome
 clamped
 clamps
+characteristicness
 coolibah
 clamworms
 corrector
