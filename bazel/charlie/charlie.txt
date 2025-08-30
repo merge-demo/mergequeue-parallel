@@ -15234,6 +15234,7 @@ clayweed
 caam
 colours
 chlorphenol
+columbaries
 crassina
 clam
 cabriolet
@@ -19552,7 +19553,6 @@ columbae
 columban
 columbaria
 cloisterlike
-columbaries
 columbarium
 clours
 columbate
