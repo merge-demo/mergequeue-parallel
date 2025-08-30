@@ -1816,6 +1816,7 @@ doggoned
 debate
 discourager
 delusterant
+disparts
 dung
 distortionist
 demology
@@ -13084,7 +13085,6 @@ distorted
 dexterous
 dinkier
 disfeaturing
-disparts
 deplethoric
 dispassion
 dunfish
