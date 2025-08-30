@@ -16477,6 +16477,7 @@ decolourise
 deadishness
 dozed
 dozens
+driftlet
 dishpan
 disports
 doziest
@@ -18506,7 +18507,6 @@ dynamoelectrical
 dissentiently
 durain
 dementi
-driftlet
 declamator
 duramens
 datch
