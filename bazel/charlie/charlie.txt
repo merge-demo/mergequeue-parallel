@@ -2166,6 +2166,7 @@ cavesson
 cakey
 campylotropal
 campylotropous
+chancelled
 campimeter
 conches
 configuring
@@ -23536,7 +23537,6 @@ contact
 cionectomy
 cacopathy
 climature
-chancelled
 conviviality
 choirman
 continuality
