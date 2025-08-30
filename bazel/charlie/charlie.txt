@@ -2826,6 +2826,7 @@ canones
 cardooer
 canonesses
 canonicalization
+clift
 cultivable
 cinctures
 canonicalized
@@ -16119,7 +16120,6 @@ conning
 cliffside
 cliffsman
 cliffweed
-clift
 clifty
 crystallitis
 clarify
