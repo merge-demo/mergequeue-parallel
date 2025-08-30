@@ -10754,6 +10754,7 @@ amphibological
 anaglypton
 abhiseka
 ammocoetes
+apocrisiary
 agglutinated
 albumoses
 alloantibody
@@ -11602,7 +11603,6 @@ adages
 anaerobation
 acrocentric
 anaerobion
-apocrisiary
 anaerobiont
 anaerobiosis
 anaerobiotic
