@@ -1645,7 +1645,6 @@ anaphase
 aerocar
 agonists
 accts
-aventail
 amphicentric
 armillate
 accubita
@@ -7291,6 +7290,7 @@ angili
 astrogate
 archiepiscopate
 annexe
+aventail
 albyn
 albinal
 amvis
