@@ -3847,7 +3847,6 @@ canister
 carbonitride
 cincinatti
 countertranslation
-charmfulness
 chromatics
 carbonization
 carbonize
@@ -31886,6 +31885,7 @@ chicharra
 circler
 cuttingly
 carioca
+charmfulness
 coercement
 cuttingness
 clarifiable
