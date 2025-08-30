@@ -5515,7 +5515,6 @@ balausta
 bindi
 boxed
 bardic
-blastulas
 beeswax
 bootyless
 beelines
@@ -13233,6 +13232,7 @@ bosporanic
 bosque
 brushfires
 bosques
+blastulas
 blunderings
 bossage
 bossdom
