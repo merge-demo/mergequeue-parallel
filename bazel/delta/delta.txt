@@ -2344,7 +2344,6 @@ decessit
 decerebrating
 daikon
 dechemicalize
-doctorfish
 dehydroascorbic
 dendrites
 dechlorinate
@@ -2515,6 +2514,7 @@ disregarder
 declare
 drailing
 downlinking
+doctorfish
 declaredly
 declares
 dimaris
