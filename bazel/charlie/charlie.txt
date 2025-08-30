@@ -1261,6 +1261,7 @@ cacochymical
 calfling
 calfskin
 creatural
+cub
 calgary
 caliban
 cunea
@@ -30469,7 +30470,6 @@ circumbuccal
 cratch
 calcifugous
 cuartino
-cub
 chilblains
 cubages
 cubicovariant
