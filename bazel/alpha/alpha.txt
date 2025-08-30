@@ -132,7 +132,6 @@ alanyl
 abating
 abatis
 abatised
-alliable
 amine
 antiatoms
 alcades
@@ -7383,6 +7382,7 @@ assured
 autopathography
 aerophoto
 albumenizer
+alliable
 albumenoid
 archtreasurer
 albumimeter
