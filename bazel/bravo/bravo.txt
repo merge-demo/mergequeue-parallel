@@ -3576,7 +3576,6 @@ baygall
 barricade
 byronish
 brushy
-battleground
 berkeleyite
 bakula
 bien
@@ -7330,6 +7329,7 @@ boatels
 babirussa
 bootstrap
 bethink
+battleground
 boatswain
 balaenoptera
 bocklogged
