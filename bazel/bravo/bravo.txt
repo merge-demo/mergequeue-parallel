@@ -2930,6 +2930,7 @@ barrelfuls
 bunnell
 baguettes
 blind
+bootikins
 benefactor
 bushers
 barreling
@@ -7364,7 +7365,6 @@ brinjaree
 betides
 bego
 bombous
-bootikins
 bighting
 beautifications
 boluses
