@@ -7182,7 +7182,6 @@ bacteriocyte
 bijous
 besteads
 besteal
-bedcover
 bested
 bristles
 bromometrical
@@ -17906,6 +17905,7 @@ beminstrel
 bravoite
 bushless
 baillie
+bedcover
 bareness
 bottega
 bushmaker
