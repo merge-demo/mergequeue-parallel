@@ -805,6 +805,7 @@ dialytic
 discussment
 danebrog
 debile
+dkl
 daubers
 delusters
 dovecote
@@ -14762,7 +14763,6 @@ dk
 dkg
 dodecylic
 destroys
-dkl
 dockland
 deadener
 decasemic
