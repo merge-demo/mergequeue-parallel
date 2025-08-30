@@ -10850,6 +10850,7 @@ amnesiac
 abstainer
 arangoes
 aulas
+azotemia
 amnestied
 acream
 allamoth
@@ -25339,7 +25340,6 @@ acylation
 answerable
 agonising
 antheming
-azotemia
 azotemias
 ankylosis
 azotemic
