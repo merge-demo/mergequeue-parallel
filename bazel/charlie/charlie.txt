@@ -16856,6 +16856,7 @@ cerebralgia
 clubhaul
 correctant
 confirmity
+collothun
 caravanned
 clubhauled
 clubhauls
@@ -19176,7 +19177,6 @@ collossians
 cuminole
 cymbaeform
 commodatary
-collothun
 collotype
 cardiospasm
 corporally
