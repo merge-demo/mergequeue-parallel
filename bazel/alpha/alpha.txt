@@ -3486,7 +3486,6 @@ ascesis
 assedat
 arabicize
 agora
-adendritic
 akenbold
 amphibion
 adenemphractic
@@ -20598,6 +20597,7 @@ alkalizing
 artichoke
 antidromal
 arrestor
+adendritic
 acidimetrical
 aspirates
 auxillary
