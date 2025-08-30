@@ -163,7 +163,6 @@ butyrically
 bestab
 backlog
 bassine
-bashara
 bethylidae
 biblicality
 biconnected
@@ -14724,6 +14723,7 @@ boulevards
 bifolium
 bravuras
 baetzner
+bashara
 brawlingly
 brawlsome
 brawnedness
