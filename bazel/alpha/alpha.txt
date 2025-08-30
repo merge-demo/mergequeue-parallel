@@ -2480,6 +2480,7 @@ afdecho
 amphicyrtic
 aconital
 aconite
+adoptabilities
 admass
 antherid
 aconitia
@@ -4094,7 +4095,6 @@ adonized
 amberoids
 adoperate
 adoptability
-adoptabilities
 ammonals
 aphrasia
 aromatites
