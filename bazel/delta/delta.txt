@@ -11958,7 +11958,6 @@ defrosters
 decolonize
 dramm
 dhunchi
-decalescence
 decollimate
 disease
 dentalisation
@@ -16199,6 +16198,7 @@ desorbing
 dematerialized
 domable
 decrypted
+decalescence
 dualist
 douziemes
 dysmeromorphic
