@@ -8853,7 +8853,6 @@ characterisable
 complimenters
 catlinite
 characterise
-characterised
 columnize
 cumulus
 chanted
@@ -25928,6 +25927,7 @@ corvettes
 cadges
 corvidae
 corvillosum
+characterised
 corvinae
 councilwoman
 corolliferous
