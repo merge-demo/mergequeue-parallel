@@ -19762,6 +19762,7 @@ capturer
 corotation
 caesiums
 chromatism
+crests
 copolymers
 combustible
 chambellan
@@ -31707,7 +31708,6 @@ cur
 cuspis
 cusps
 cuspule
-crests
 coopery
 cools
 cond
