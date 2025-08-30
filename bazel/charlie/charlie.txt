@@ -3453,7 +3453,6 @@ capsella
 calyptras
 callidity
 capshore
-capsian
 ceruses
 capsicums
 coumarous
@@ -9475,6 +9474,7 @@ concupiscent
 callityping
 crojik
 check
+capsian
 communizing
 checkage
 capsulized
