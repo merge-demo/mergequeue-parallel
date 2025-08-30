@@ -11185,6 +11185,7 @@ amphigaea
 aerostat
 amphigam
 archpractice
+atoneness
 amphigastrium
 amphigean
 amphigene
@@ -20056,7 +20057,6 @@ arterialised
 aleph
 arpen
 arpents
-atoneness
 ascidia
 arquebuses
 antiracing
