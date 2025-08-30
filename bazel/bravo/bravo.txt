@@ -6363,6 +6363,7 @@ bt
 buffalofishes
 bareka
 benzein
+besoot
 bellyfish
 blinks
 benzenediazonium
@@ -7048,7 +7049,6 @@ bussings
 bunted
 belletrist
 boppers
-besoot
 beaterman
 biometricist
 burelle
