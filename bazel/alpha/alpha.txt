@@ -11588,7 +11588,6 @@ actinometry
 allegory
 aucanian
 anticarnivorous
-acoria
 asperates
 anaematosis
 arhythmically
@@ -24416,6 +24415,7 @@ arthrocarcinoma
 autotomizing
 autotomous
 astragals
+acoria
 autotoxic
 autotractor
 autotransformer
