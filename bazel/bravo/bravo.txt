@@ -575,7 +575,6 @@ backwardation
 blastodermic
 baufrey
 burnooses
-butyl
 bernard
 blit
 backwardness
@@ -4134,6 +4133,7 @@ beggarwoman
 bedrenched
 bras
 broozled
+butyl
 brachycera
 bearfoots
 bearhug
