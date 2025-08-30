@@ -2785,6 +2785,7 @@ decresc
 desalination
 delphinus
 duodecahedron
+dactylioglyphist
 decrescent
 deknight
 devas
@@ -18431,7 +18432,6 @@ doke
 duosecant
 disgraced
 drinky
-dactylioglyphist
 downhauls
 delichon
 dialysepalous
