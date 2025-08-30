@@ -1048,6 +1048,7 @@ blizzards
 bad
 brees
 bunglings
+betraise
 bailiary
 bailiaries
 bargainwise
@@ -2053,7 +2054,6 @@ bravadoism
 bankrupting
 babylonia
 bemock
-betraise
 bacchante
 bankrupture
 basilissa
