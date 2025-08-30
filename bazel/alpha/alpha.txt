@@ -317,6 +317,7 @@ anacara
 acidifiers
 abecedarians
 antiminsia
+archiphoneme
 abed
 anthophyte
 anguis
@@ -21681,7 +21682,6 @@ arthromeningitis
 argenticyanide
 assertorical
 alister
-archiphoneme
 amalaita
 assertress
 annunciator
