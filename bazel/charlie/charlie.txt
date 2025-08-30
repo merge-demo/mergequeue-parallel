@@ -22908,6 +22908,7 @@ consignee
 consignify
 cantorous
 cogeneration
+cooptive
 countersalient
 consignificant
 consignification
@@ -29970,7 +29971,6 @@ cancerization
 confutation
 crotesco
 chimerism
-cooptive
 cannoned
 chirothesia
 croton
