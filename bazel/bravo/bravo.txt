@@ -110,6 +110,7 @@ bounderishly
 blackguardly
 bladderwrack
 blackcoat
+biune
 balanophore
 burlies
 baroclinity
@@ -10422,7 +10423,6 @@ buzziest
 bouncers
 baritone
 bribetaking
-biune
 beachboy
 bavaroy
 beneficium

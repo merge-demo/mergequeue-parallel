@@ -3823,6 +3823,7 @@ duplexed
 dropped
 despatched
 dame
+duvetines
 discommender
 deimos
 daffs
@@ -18650,7 +18651,6 @@ drowsily
 disubstitution
 discountenanced
 disseisor
-duvetines
 duvetynes
 deallocation
 dux
