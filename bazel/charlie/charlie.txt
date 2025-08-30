@@ -2112,6 +2112,7 @@ coniopterygidae
 channeler
 campers
 coadjacence
+canonizations
 campesinos
 campfight
 campground
@@ -17325,7 +17326,6 @@ colchicine
 cranched
 coarsened
 coarseness
-canonizations
 chickory
 coarsening
 cercomonas
