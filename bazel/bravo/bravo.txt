@@ -645,7 +645,6 @@ bostangi
 bastiment
 bacteriodiagnosis
 bromates
-benomyls
 behearse
 bacterid
 backen
@@ -7888,6 +7887,7 @@ bibliopegy
 bituminisation
 bibliopegically
 bibbons
+benomyls
 browser
 btu
 bibliophagous
