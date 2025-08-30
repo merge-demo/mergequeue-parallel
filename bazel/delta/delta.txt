@@ -7011,7 +7011,6 @@ demographers
 deface
 despondence
 despondencies
-dar
 despondentness
 desponder
 despondingly
@@ -7432,6 +7431,7 @@ destructibility
 delphinoid
 detractions
 detrainment
+dar
 detraque
 deathsmen
 detrect
