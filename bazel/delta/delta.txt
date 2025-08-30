@@ -5127,6 +5127,7 @@ dendromecon
 dendron
 druffen
 dindled
+deterministic
 downgrading
 deletion
 drills
@@ -7354,7 +7355,6 @@ duplification
 determinism
 detecters
 dunnest
-deterministic
 deputise
 dollbeer
 daysman
