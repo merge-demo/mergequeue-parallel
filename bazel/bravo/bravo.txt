@@ -5005,6 +5005,7 @@ bibation
 bindweb
 ballonette
 byte
+bridoons
 bilinguist
 boodling
 barukhzy
@@ -11432,7 +11433,6 @@ bullhoof
 bigger
 bejade
 bulbul
-bridoons
 bluetongue
 byth
 bedmates
