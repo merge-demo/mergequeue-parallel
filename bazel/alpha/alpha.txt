@@ -12891,7 +12891,6 @@ athelings
 apolitically
 anguloa
 apologist
-angulous
 angulus
 antepone
 anticomplementary
@@ -15584,6 +15583,7 @@ adret
 assures
 aversion
 affectionately
+angulous
 archeologic
 allomucic
 anesthyl
