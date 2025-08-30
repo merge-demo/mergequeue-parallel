@@ -6780,7 +6780,6 @@ discriminably
 desirer
 drachma
 daira
-desires
 dihedrons
 desirous
 droh
@@ -7411,6 +7410,7 @@ dehorter
 dicyclist
 deemphasizes
 discussed
+desires
 detoxicated
 dischargee
 detoxication
