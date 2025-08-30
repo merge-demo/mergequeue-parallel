@@ -4545,7 +4545,6 @@ demigriffin
 distraughted
 devocation
 drabbled
-demigroat
 dogmatician
 dotier
 demihagbut
@@ -7693,6 +7692,7 @@ disciplinary
 devildom
 dealerdom
 deviled
+demigroat
 durgah
 demonically
 devilet
