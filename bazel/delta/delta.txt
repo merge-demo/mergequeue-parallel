@@ -6226,7 +6226,6 @@ dermapterous
 dermas
 dirgler
 dasypodoid
-delimited
 dialytically
 dippy
 dermasurgery
@@ -18347,6 +18346,7 @@ debussing
 detonate
 duodecastyle
 duodecennial
+delimited
 docibility
 duodecillions
 duodenotomy
