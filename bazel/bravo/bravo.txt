@@ -6619,7 +6619,6 @@ bailment
 bullbeggar
 bicolourous
 bronchioles
-bookful
 boychicks
 berenice
 bereshith
@@ -11308,6 +11307,7 @@ bossiness
 blowups
 beadrow
 byroad
+bookful
 bedrug
 backbearing
 blaugas
