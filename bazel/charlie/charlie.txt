@@ -18224,7 +18224,6 @@ carbonari
 cuss
 capelets
 coffeehouse
-coffeehouses
 coffeeman
 classico
 clayed
@@ -26046,6 +26045,7 @@ cosmecology
 cosmetic
 cosmetically
 calctufas
+coffeehouses
 copperproof
 cliquier
 custrel
