@@ -5577,6 +5577,7 @@ dispersed
 dramatizable
 dukeship
 dothideaceous
+dowp
 depeopled
 danglin
 deperdit
@@ -16443,7 +16444,6 @@ displacements
 deducive
 downwind
 droukit
-dowp
 dowse
 dowsed
 defibrillative
