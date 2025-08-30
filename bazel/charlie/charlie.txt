@@ -9966,6 +9966,7 @@ chequin
 cherchez
 chercock
 cofermentation
+cryptanalyzed
 cherem
 cyclopite
 calcimine
@@ -16417,7 +16418,6 @@ conclaves
 clo
 cloaca
 cloacae
-cryptanalyzed
 cents
 connellite
 cholonan
