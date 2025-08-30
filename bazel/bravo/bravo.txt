@@ -15463,7 +15463,6 @@ bimas
 beadlet
 buzzing
 bryony
-biedermeier
 buildingless
 buglet
 bryonia
@@ -15498,6 +15497,7 @@ bewilder
 bouget
 briskest
 briskets
+biedermeier
 bromlite
 bescent
 beast
