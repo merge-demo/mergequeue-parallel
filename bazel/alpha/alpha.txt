@@ -768,7 +768,6 @@ abrico
 autostrada
 abridgable
 anticlassicalist
-anisotropical
 abitibi
 abridgement
 annuity
@@ -20327,6 +20326,7 @@ arsino
 arsis
 arsle
 arsmetik
+anisotropical
 applewife
 arson
 angiosteosis
