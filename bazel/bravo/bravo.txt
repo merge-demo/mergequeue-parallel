@@ -8556,6 +8556,7 @@ berylline
 brauneberger
 bridled
 brachysm
+blister
 brachiofacial
 blepharolithiasis
 bradypode
@@ -15231,7 +15232,6 @@ bosk
 belles
 bridewell
 being
-blister
 birdwitted
 bridewort
 bighorn
