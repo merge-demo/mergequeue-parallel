@@ -13021,6 +13021,7 @@ bourasque
 borborygmatic
 biggin
 bettongia
+broomshank
 bacteriolysis
 bagataway
 bonded
@@ -16056,7 +16057,6 @@ baseman
 bosomy
 brailler
 beacons
-broomshank
 blotting
 broomstraw
 bonelessness
