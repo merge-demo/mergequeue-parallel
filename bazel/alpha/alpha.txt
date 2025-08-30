@@ -11017,7 +11017,6 @@ aubade
 anecdotical
 attitudinized
 antiglare
-amotus
 amounted
 avoidless
 amounter
@@ -13909,6 +13908,7 @@ allopolyploid
 antaranga
 ampalaya
 altogether
+amotus
 astronomien
 amnioclepsis
 antarchist
