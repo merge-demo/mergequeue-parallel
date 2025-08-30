@@ -1651,7 +1651,6 @@ boyarism
 bylines
 blier
 benzothiodiazole
-burletta
 butyrous
 biocellate
 bilobated
@@ -13900,6 +13899,7 @@ baptizee
 benchmarked
 barehead
 biochemist
+burletta
 bowsman
 bown
 bows
