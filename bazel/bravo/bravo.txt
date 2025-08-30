@@ -2645,7 +2645,6 @@ barking
 baddy
 botanise
 barkless
-battening
 bandusia
 barkometer
 bescorch
@@ -16337,6 +16336,7 @@ blighia
 bufagin
 brunelliaceae
 bicuculline
+battening
 biscayen
 buchnera
 brunelliaceous
