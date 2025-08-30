@@ -218,7 +218,6 @@ barat
 beamlike
 bargainee
 bacchants
-bismanol
 beguiling
 bloodwood
 bolivian
@@ -4481,6 +4480,7 @@ bedead
 becross
 bureaucratism
 becrowd
+bismanol
 becrowded
 burstwort
 billeting
