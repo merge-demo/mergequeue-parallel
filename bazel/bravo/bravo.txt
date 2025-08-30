@@ -9871,7 +9871,6 @@ beneficiaries
 biaxially
 bitser
 birled
-bioscope
 brotherly
 bitstock
 beasties
@@ -10481,6 +10480,7 @@ blastocoele
 becharming
 blatjang
 bakestone
+bioscope
 biologistic
 bepastured
 blastogenic
