@@ -4557,7 +4557,6 @@ colorationally
 carnosine
 carnous
 carns
-chamaecistus
 caro
 cuarto
 caroa
@@ -17533,6 +17532,7 @@ caped
 cocarde
 chomped
 cocash
+chamaecistus
 cocause
 confocal
 cocautioner
