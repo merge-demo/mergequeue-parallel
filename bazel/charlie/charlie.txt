@@ -936,7 +936,6 @@ calaite
 calamancoes
 calamander
 calamansi
-calamar
 calamary
 calamariaceous
 centrifugalized
@@ -28163,6 +28162,7 @@ campgrounds
 cockscomb
 calabrese
 competitress
+calamar
 coulisse
 cururo
 chromaphil
