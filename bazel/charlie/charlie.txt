@@ -13912,7 +13912,6 @@ cirripeds
 cynoid
 contributiveness
 coadjacently
-casusistry
 calliopes
 calombigas
 criminalities
@@ -23156,6 +23155,7 @@ copulae
 commence
 cravatting
 cellaring
+casusistry
 constrainedly
 counterpoise
 constrainedness
