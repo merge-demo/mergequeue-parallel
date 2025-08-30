@@ -727,6 +727,7 @@ chasselas
 cocoa
 colonelship
 chlornal
+conductorship
 cagework
 coordinators
 consonantising
@@ -18912,7 +18913,6 @@ collarbird
 collard
 carillonned
 criticise
-conductorship
 creepered
 cauterant
 coquinas
