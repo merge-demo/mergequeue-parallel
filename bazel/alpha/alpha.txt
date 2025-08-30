@@ -4239,6 +4239,7 @@ autophyllogeny
 adscriptitius
 annodated
 adsheart
+arithromania
 awa
 asprawl
 alablaster
@@ -21988,7 +21989,6 @@ asteroid
 asteroids
 asterolepidae
 andamanese
-arithromania
 adinvention
 asterolepis
 audiometrist
