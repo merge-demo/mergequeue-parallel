@@ -2721,7 +2721,6 @@ dictates
 dissembling
 decore
 docklands
-divots
 decorist
 dragged
 durum
@@ -4809,6 +4808,7 @@ dwaibly
 deaconing
 deair
 disseizor
+divots
 dadouchos
 diemaker
 dentalizing

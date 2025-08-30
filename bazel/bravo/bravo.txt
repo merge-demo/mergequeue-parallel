@@ -9557,7 +9557,6 @@ burnover
 brailling
 barbal
 beechiest
-biscuitlike
 bedismal
 beneficently
 bracon
@@ -17587,6 +17586,7 @@ baclin
 bellyer
 burghers
 burgraves
+biscuitlike
 bureaucratized
 burghmaster
 bowdlerized
