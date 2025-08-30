@@ -11554,7 +11554,6 @@ anacoenoses
 acepots
 analogistic
 anacolutha
-anacoluthic
 anacoluthon
 austerely
 amanita
@@ -21010,6 +21009,7 @@ arcosolia
 ascription
 ascriptions
 amphodarch
+anacoluthic
 abuttal
 ascriptitious
 ascriptitius
