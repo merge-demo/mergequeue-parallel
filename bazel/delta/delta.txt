@@ -441,6 +441,7 @@ dairywomen
 descanting
 decametric
 dayrooms
+diazoma
 deities
 diplogenic
 downloaded
@@ -8816,7 +8817,6 @@ dixieland
 doggies
 dredges
 dipala
-diazoma
 diazomethane
 diazonium
 diazotype
