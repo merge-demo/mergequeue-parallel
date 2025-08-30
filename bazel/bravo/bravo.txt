@@ -5459,7 +5459,6 @@ bandying
 bandura
 bisie
 basebred
-beheaded
 beheader
 beheira
 beachward
@@ -6009,6 +6008,7 @@ bemar
 bouncingly
 bevaring
 bemask
+beheaded
 brownistic
 befooling
 brewis
