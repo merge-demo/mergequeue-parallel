@@ -9198,7 +9198,6 @@ carritch
 csects
 carbonylic
 chastener
-chasteners
 coplanation
 chastenment
 chastens
@@ -22444,6 +22443,7 @@ chromolysis
 cestida
 conjecturing
 cabouca
+chasteners
 counterargument
 conjoin
 chontawood
