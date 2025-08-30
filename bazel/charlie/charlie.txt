@@ -4175,7 +4175,6 @@ clearwing
 carbamido
 carnet
 chiron
-coloboma
 chauffeur
 carabideous
 carburise
@@ -25207,6 +25206,7 @@ camachile
 choledochectomy
 corystoid
 corita
+coloboma
 chubsucker
 cephaldemae
 corium
