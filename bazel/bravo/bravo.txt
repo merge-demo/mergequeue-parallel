@@ -2964,6 +2964,7 @@ blobby
 barricaded
 bookable
 barricaders
+belemnoidea
 barricadoes
 boyism
 boondoggled
@@ -11004,7 +11005,6 @@ besmoking
 beweeping
 botryopterid
 brache
-belemnoidea
 backstairs
 bladelike
 bargello
