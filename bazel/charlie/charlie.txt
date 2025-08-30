@@ -11080,7 +11080,6 @@ capillaries
 comb
 caseloads
 chiurm
-chiv
 chivachee
 confirmand
 chivalresque
@@ -18022,6 +18021,7 @@ coherers
 coppice
 copse
 coenacle
+chiv
 capsidal
 cantharidizing
 collyriums
