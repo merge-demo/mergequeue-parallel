@@ -5983,6 +5983,7 @@ chaco
 coraciiform
 cleg
 cyanide
+cyclothymic
 catholyte
 cathouse
 carryable
@@ -13371,7 +13372,6 @@ coenobite
 cocci
 contractile
 czarists
-cyclothymic
 cocooned
 cyclothure
 casanovanic
