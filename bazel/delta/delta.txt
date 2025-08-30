@@ -59,7 +59,6 @@ discursiveness
 dacryocyst
 diarchial
 dacryocystoptosis
-dacryocystosyringotomy
 derham
 dacryolithiasis
 desmoma
@@ -13318,6 +13317,7 @@ disposement
 dicrotic
 dispositional
 dispositioned
+dacryocystosyringotomy
 disharmonical
 decentralisation
 drowner
