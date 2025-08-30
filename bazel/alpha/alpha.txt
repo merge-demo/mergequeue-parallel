@@ -20705,7 +20705,6 @@ antisophistry
 astrantia
 artlike
 artocarpaceae
-artocarpeous
 artocarpous
 artolater
 aliner
@@ -21616,6 +21615,7 @@ asseize
 asself
 assembl
 assemblable
+artocarpeous
 assemblance
 aphthous
 assemble
