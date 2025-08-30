@@ -11704,7 +11704,6 @@ analgetic
 anticephalalgic
 analgias
 analgic
-abettal
 anticeremonialism
 altocumulus
 africanthropus
@@ -16903,6 +16902,7 @@ areally
 antifermentative
 awkwardly
 axion
+abettal
 aplenty
 alveolars
 affreight
