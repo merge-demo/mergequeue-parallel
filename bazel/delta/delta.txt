@@ -10217,7 +10217,6 @@ dings
 despises
 dzeron
 depopularize
-dismortgage
 diecase
 dimethoxy
 dining
@@ -16462,6 +16461,7 @@ discount
 dault
 distad
 dhoora
+dismortgage
 doxography
 divestible
 decolourise
