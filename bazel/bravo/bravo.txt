@@ -16380,6 +16380,7 @@ brushback
 butt
 bladesmith
 bestick
+buttons
 betrace
 brolly
 bouffage
@@ -18324,7 +18325,6 @@ bombardon
 brewst
 botherheaded
 boosy
-buttons
 bescratch
 breviaries
 balanta
