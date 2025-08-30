@@ -2305,7 +2305,6 @@ barbiturates
 barbequed
 barber
 bordrag
-bombproof
 blype
 bizet
 bauxites
@@ -8937,6 +8936,7 @@ belltopperdom
 barricados
 bozzetto
 binman
+bombproof
 barberess
 balked
 biogases
