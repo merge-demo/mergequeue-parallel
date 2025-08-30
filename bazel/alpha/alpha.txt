@@ -3652,7 +3652,6 @@ anticipatively
 archivolt
 arenicolite
 adhesion
-adhesional
 architraved
 adhesiveness
 astrogeny
@@ -12101,6 +12100,7 @@ anchisaurus
 aegirite
 antitradition
 anchor
+adhesional
 anchorable
 anchorages
 anchorate
