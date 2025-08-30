@@ -160,7 +160,6 @@ caboche
 caboched
 cabocle
 caboclo
-coploughing
 carcinogens
 cachinnator
 cabomba
@@ -13407,6 +13406,7 @@ cheatrie
 carbolating
 cablet
 cymols
+coploughing
 cassida
 catchingly
 craniognomy
