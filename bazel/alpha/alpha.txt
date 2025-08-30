@@ -14882,7 +14882,6 @@ arara
 anticonfederative
 antiaristocracy
 arthropterous
-annulled
 amidohexose
 antilogy
 abwab
@@ -24523,6 +24522,7 @@ aciliate
 acalyptrate
 arthrodynia
 availed
+annulled
 aftosa
 abstractness
 availer
