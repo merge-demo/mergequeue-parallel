@@ -7017,6 +7017,7 @@ beamless
 bronzite
 besmudges
 baalist
+boninesses
 bespouses
 boxhaul
 boma
@@ -9424,7 +9425,6 @@ batteler
 bireme
 bedlids
 begeck
-boninesses
 bacteriostat
 babishly
 betassel
