@@ -784,7 +784,6 @@ abristle
 abroach
 amphineura
 abrocome
-abrogable
 abrogate
 allergies
 anaglyphy
@@ -15381,6 +15380,7 @@ antimechanization
 antimediaevalist
 antimediaevally
 antimedical
+abrogable
 antimedicine
 anaptomorphidae
 antimedievalism
