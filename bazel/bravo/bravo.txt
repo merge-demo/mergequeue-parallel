@@ -895,6 +895,7 @@ benzidin
 beffroy
 borderlight
 bijouterie
+beltway
 bagganet
 baggara
 bawcock
@@ -18181,7 +18182,6 @@ buttonlike
 befraught
 butment
 butolism
-beltway
 bibliokleptomaniac
 butoxy
 bodyguards

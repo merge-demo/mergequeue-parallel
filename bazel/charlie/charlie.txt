@@ -13703,7 +13703,6 @@ cinchonisation
 cinchonise
 cloots
 clashed
-chambul
 cheers
 cinchonization
 crunodal
@@ -22145,6 +22144,7 @@ confucianism
 commendableness
 confucius
 crambambuli
+chambul
 confusability
 circummured
 confusedness
