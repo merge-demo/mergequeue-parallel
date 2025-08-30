@@ -4575,6 +4575,7 @@ bicellular
 backjaw
 bedarkening
 bedaub
+bradyphrenia
 ballplayer
 benzoylglycine
 besuit
@@ -14199,7 +14200,6 @@ belamour
 biomechanics
 balloonish
 bradyphrasia
-bradyphrenia
 bradypnea
 bodrag
 bloodtest
