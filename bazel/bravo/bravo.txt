@@ -634,7 +634,6 @@ bacteriaemia
 bacterially
 bacterioblast
 bactericide
-bidget
 bacterin
 beggiatoa
 bacteriochlorophyll
@@ -12247,6 +12246,7 @@ brightness
 biasses
 boltcutter
 brindles
+bidget
 behold
 boltheading
 boltin
