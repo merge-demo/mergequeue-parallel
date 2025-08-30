@@ -5129,6 +5129,7 @@ bureaucrat
 beeps
 beflap
 brahminee
+bleating
 beflea
 brainier
 bombable
@@ -10654,7 +10655,6 @@ blearness
 blears
 bleated
 butcherdom
-bleating
 bluejoint
 bantin
 bejesus
