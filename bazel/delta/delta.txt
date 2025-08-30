@@ -1475,7 +1475,6 @@ dories
 dispulp
 dazement
 decretorial
-deckhouses
 dazy
 dazzle
 discomedusan
@@ -5892,6 +5891,7 @@ depreciable
 depreciate
 deponents
 despots
+deckhouses
 drago
 depreciation
 depreciative
