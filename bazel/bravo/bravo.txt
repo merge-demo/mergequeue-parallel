@@ -12584,7 +12584,6 @@ bonnnes
 butylamine
 bonnocks
 bonnwis
-bionomist
 bonorum
 bisector
 bagatelle
@@ -13132,6 +13131,7 @@ beadman
 bube
 baited
 brucite
+bionomist
 borosalicylic
 bywalk
 borotungstate
