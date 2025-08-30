@@ -5044,7 +5044,6 @@ brompicrin
 baching
 buoying
 bovld
-bhunder
 beefily
 beetlike
 brumbee
@@ -8450,6 +8449,7 @@ boiled
 bilianic
 boreism
 blear
+bhunder
 biliferous
 babysitter
 byssuses

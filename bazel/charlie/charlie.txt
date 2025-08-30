@@ -12965,7 +12965,6 @@ chaldrons
 contingent
 cyanitic
 columnating
-cretonnes
 cyanize
 conchoidally
 cleeky
@@ -21009,6 +21008,7 @@ compunct
 crassilingual
 compunction
 curvedness
+cretonnes
 catenaries
 consolidate
 compunctionless
