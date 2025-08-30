@@ -6759,7 +6759,6 @@ airsome
 auriphrygiate
 airspace
 airspaces
-ancience
 architectonica
 apostolic
 abo
@@ -19739,6 +19738,7 @@ armatures
 armband
 albation
 anarchal
+ancience
 arcane
 armchair
 aethers
