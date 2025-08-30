@@ -370,7 +370,6 @@ cacomorphosis
 confabulation
 centinel
 chrysin
-caconymic
 cacoon
 cancroids
 calliphora
@@ -11048,6 +11047,7 @@ chitons
 cadence
 chitosamine
 chitosan
+caconymic
 committeeism
 chloridation
 chitosans
