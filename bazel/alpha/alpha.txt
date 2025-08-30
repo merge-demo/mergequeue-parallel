@@ -12312,7 +12312,6 @@ androgynal
 arillode
 androgyne
 androgynia
-androgynies
 angiostomy
 androgone
 acrotomous
@@ -12794,6 +12793,7 @@ antimonite
 assisting
 antispiritual
 anglicans
+androgynies
 abscise
 anglice
 anglicisation
