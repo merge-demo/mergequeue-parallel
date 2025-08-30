@@ -7980,7 +7980,6 @@ dismes
 dartos
 durenol
 dextrocularity
-desulphuration
 dedicature
 disincorporation
 drowse
@@ -8388,6 +8387,7 @@ dirging
 dialysable
 dorobo
 dahabiahs
+desulphuration
 dinitrophenylhydrazine
 dobbins
 dreamlessly
