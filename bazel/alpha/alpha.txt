@@ -5825,7 +5825,6 @@ azoxyphenetole
 adversary
 aerogeology
 acad
-amphithecial
 aggravative
 amazonstone
 afformative
@@ -21360,6 +21359,7 @@ acaricide
 antirealistic
 autosauria
 alantol
+amphithecial
 anthelion
 angelica
 aspergilli
