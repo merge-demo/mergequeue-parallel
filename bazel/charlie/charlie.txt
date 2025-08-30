@@ -4069,6 +4069,7 @@ cardin
 cardinal
 croslet
 cancans
+capabilities
 cardinalfishes
 casuist
 capitate
@@ -19549,7 +19550,6 @@ cannelated
 columbaceous
 columbae
 columban
-capabilities
 columbaria
 cloisterlike
 columbaries
