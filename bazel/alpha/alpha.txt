@@ -5676,7 +5676,6 @@ apickaback
 ancestor
 agata
 apertured
-agate
 admen
 agates
 affeerment
@@ -8684,6 +8683,7 @@ antiketogen
 arbutin
 alliciency
 anglist
+agate
 anticeremonially
 avery
 allie
