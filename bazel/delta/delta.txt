@@ -8307,7 +8307,6 @@ digitation
 doombook
 dialyzer
 diagrams
-dentin
 db
 dispossess
 dissimile
@@ -8479,6 +8478,7 @@ diametral
 diametric
 diamide
 diamides
+dentin
 descanter
 deesis
 dapperest
