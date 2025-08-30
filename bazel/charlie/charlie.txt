@@ -10524,7 +10524,6 @@ chylifying
 chamoises
 ceratozamia
 competitions
-chyliform
 chilina
 cordonazo
 chukkers
@@ -24704,6 +24703,7 @@ carlage
 coprolith
 coprolitic
 coprophagy
+chyliform
 coprophagia
 couril
 coprophagist

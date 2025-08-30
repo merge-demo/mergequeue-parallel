@@ -13499,7 +13499,6 @@ boggles
 botulism
 brothel
 bags
-bigamistic
 bourre
 beseek
 boondoggle
@@ -17020,6 +17019,7 @@ boulterer
 beforetime
 buttling
 baetylus
+bigamistic
 bitake
 baluga
 babylonite
