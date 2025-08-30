@@ -5873,6 +5873,7 @@ diachoresis
 demeaning
 disconcert
 deprecative
+deepwatermen
 deprecator
 deprecatory
 deoxidised
@@ -17280,7 +17281,6 @@ devotee
 decrepitation
 dingoes
 deferrizing
-deepwatermen
 directionality
 distanced
 degged
