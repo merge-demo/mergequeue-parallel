@@ -14552,7 +14552,6 @@ contestate
 campout
 credently
 chaptalizing
-cnidophore
 cysted
 cysteinic
 cysteins
@@ -31560,6 +31559,7 @@ cariamae
 cowlicks
 cauliflower
 cortine
+cnidophore
 curtainless
 curtays
 curtal
