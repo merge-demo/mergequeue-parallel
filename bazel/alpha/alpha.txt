@@ -16638,6 +16638,7 @@ asphaltum
 aphanisia
 atalanta
 atropaceous
+arthrostome
 arteriotomies
 allocatee
 actinomycesous
@@ -20560,7 +20561,6 @@ arilli
 albumen
 arthrospore
 arthrosteitis
-arthrostome
 arthrostomy
 ainu
 apeptic
