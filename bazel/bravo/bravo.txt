@@ -9214,7 +9214,6 @@ bourbonesque
 bipedality
 bipeds
 bipeltate
-bipennate
 brunches
 bevor
 baldrics
@@ -15572,6 +15571,7 @@ brittle
 bunkos
 bypassing
 boner
+bipennate
 bailage
 bauble
 bezette
