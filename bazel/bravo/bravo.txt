@@ -6583,7 +6583,6 @@ backlogged
 bricked
 brutality
 bundoc
-bedevilled
 bahima
 broils
 berberidaceous
@@ -10833,6 +10832,7 @@ buttals
 bromomethane
 balate
 blethered
+bedevilled
 bletilla
 bodysurf
 bronteum
