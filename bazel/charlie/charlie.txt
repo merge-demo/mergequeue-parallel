@@ -8595,7 +8595,6 @@ caitiff
 chaneling
 capitelliform
 changeable
-carcharodon
 chuckram
 ceratiidae
 cowpeas
@@ -11145,6 +11144,7 @@ criminaldom
 chloraemia
 chloragogue
 chloral
+carcharodon
 chloralformamide
 cupelling
 comburimeter
