@@ -19248,7 +19248,6 @@ areometrical
 arbutus
 anthologizer
 antivirus
-areopagist
 areopagite
 areopagitica
 alaite
@@ -21683,6 +21682,7 @@ argenticyanide
 assertorical
 alister
 amalaita
+areopagist
 assertress
 annunciator
 asserts
