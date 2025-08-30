@@ -5049,6 +5049,7 @@ arsenides
 almagest
 aetiologies
 antiphonaries
+achromatise
 aetiologist
 axones
 administerial
@@ -10753,7 +10754,6 @@ aselline
 aljofaina
 altricial
 analogicalness
-achromatise
 alzheimer
 ammites
 ammo
