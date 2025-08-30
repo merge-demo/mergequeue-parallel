@@ -6245,7 +6245,6 @@ breedling
 benin
 bebop
 balloonist
-brats
 benisons
 bombay
 benitier
@@ -11283,6 +11282,7 @@ bananas
 blowoff
 blowouts
 blowproof
+brats
 blows
 bleachability
 barograms
