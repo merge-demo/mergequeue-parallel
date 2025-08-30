@@ -1707,6 +1707,7 @@ accusable
 accusal
 accusant
 animadvert
+arrectary
 aristocracies
 accusants
 accusation
@@ -3080,7 +3081,6 @@ actionist
 abrazitic
 actionizing
 actionless
-arrectary
 acclimatation
 atonements
 auchenia
