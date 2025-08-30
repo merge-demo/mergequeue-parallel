@@ -5620,6 +5620,7 @@ cataracts
 croconate
 catarrhal
 col
+croupiness
 catarrhina
 catarrhous
 catarrhs
@@ -30012,7 +30013,6 @@ cognising
 croupiers
 croupiest
 clowned
-croupiness
 croupon
 croupous
 croups
