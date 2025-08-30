@@ -3,7 +3,6 @@ assigner
 archnesses
 amyotaxia
 aahs
-ampullae
 aaliis
 apocatastatic
 acromyodous
@@ -267,6 +266,7 @@ abdom
 alysson
 aerotropism
 anhydrides
+ampullae
 autoserotherapy
 armoire
 arsines
