@@ -4723,6 +4723,7 @@ arrivederci
 aerobiologist
 awakener
 autocross
+arboreal
 aperture
 amidase
 aequoreal
@@ -9949,7 +9950,6 @@ absurdest
 abounded
 automobility
 acrogamy
-arboreal
 appel
 anticipator
 arousing
