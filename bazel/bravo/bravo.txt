@@ -466,6 +466,7 @@ backscattering
 bandobust
 borecole
 backscraper
+brickly
 backset
 basename
 brushless
@@ -5399,7 +5400,6 @@ begrimes
 begriming
 baldpates
 begrimmed
-brickly
 bot
 brachycardia
 biweekly
