@@ -18874,7 +18874,6 @@ coliphage
 colyone
 colipuncture
 coliseum
-colossus
 colicwort
 cestoid
 colistin
@@ -29239,6 +29238,7 @@ checking
 cryptococci
 conjugating
 caulophylline
+colossus
 calibration
 cryptococcosis
 chinband
