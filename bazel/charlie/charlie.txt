@@ -7684,7 +7684,6 @@ cernuous
 cerographer
 contestants
 contracter
-cerographical
 ceroline
 cerolite
 ciliolate
@@ -21006,6 +21005,7 @@ caramelan
 cypsela
 compunct
 crassilingual
+cerographical
 compunction
 curvedness
 catenaries
