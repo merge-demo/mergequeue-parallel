@@ -5836,6 +5836,7 @@ cateringly
 copras
 caterpillar
 caterpillared
+cochurchwarden
 caterpillarlike
 caterpillars
 caters
@@ -31662,7 +31663,6 @@ cushaws
 caseins
 counteraction
 consumed
-cochurchwarden
 civies
 cushy
 casked
