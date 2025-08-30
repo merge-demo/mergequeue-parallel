@@ -8319,6 +8319,7 @@ buttonholing
 bye
 biggish
 bayadeer
+base
 bepelt
 bedstock
 bigheaded
@@ -17756,7 +17757,6 @@ buzzle
 burrgrailer
 bosniac
 basementless
-base
 braiders
 burrhead
 burrheaded
