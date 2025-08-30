@@ -9140,6 +9140,7 @@ buckone
 barotropy
 banderlog
 bianchi
+benumbment
 beshag
 badgir
 ballgown
@@ -14686,7 +14687,6 @@ boyer
 bloatedness
 bowpots
 brattled
-benumbment
 brattling
 bratwurst
 banus
