@@ -2762,7 +2762,6 @@ cannier
 canning
 cannings
 cine
-chiccories
 cannister
 cannoli
 cannonaded
@@ -10919,6 +10918,7 @@ crost
 cabret
 crudites
 coalition
+chiccories
 cicatrixes
 chiromantis
 chirometer
