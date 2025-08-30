@@ -5375,6 +5375,7 @@ clitocybe
 castles
 cortaderia
 cordies
+cinquecento
 castlet
 commercing
 candlesticked
@@ -27775,7 +27776,6 @@ cozen
 cozenages
 cozened
 cozeners
-cinquecento
 cozeningly
 cozens
 cyclometers
