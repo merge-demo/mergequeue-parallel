@@ -7079,6 +7079,7 @@ centigrams
 cendre
 centiles
 catamited
+coagule
 clunker
 cadent
 chimed
@@ -25564,7 +25565,6 @@ corporative
 concetti
 corporativism
 corporealization
-coagule
 corporeally
 cravenhearted
 corporeals
