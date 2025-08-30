@@ -434,7 +434,6 @@ bacteriorhodopsin
 backlit
 betipple
 bailor
-backlogged
 backouts
 bheesties
 bulimiform
@@ -6576,6 +6575,7 @@ biohazard
 berberid
 blateness
 ballerina
+backlogged
 bricked
 brutality
 bundoc
