@@ -4288,7 +4288,6 @@ bebog
 bhikshu
 blessing
 burghs
-boggish
 brabbled
 bembecidae
 bathyscaph
@@ -15264,6 +15263,7 @@ benzidine
 bridgeward
 bridgework
 bridie
+boggish
 bridle
 blackpot
 bridlers
