@@ -10633,6 +10633,7 @@ appetency
 alinota
 amynodon
 aminoglutaric
+apolysin
 aminoguanidine
 adhesively
 aminoid
@@ -12783,7 +12784,6 @@ androgynies
 abscise
 anglice
 anglicisation
-apolysin
 anatabine
 anglicization
 amarant
