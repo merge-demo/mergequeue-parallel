@@ -10346,6 +10346,7 @@ drunkly
 diopter
 diopters
 decumary
+draped
 delf
 discounter
 deoxidized
@@ -14648,7 +14649,6 @@ daunders
 deoxyribonucleoprotein
 dismemberment
 demureness
-draped
 denotive
 demiurgically
 doorjambs
