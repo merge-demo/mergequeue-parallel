@@ -7726,6 +7726,7 @@ britten
 blondest
 bathyscaphe
 brakehand
+buffoonish
 bullan
 brocard
 bhindi
@@ -16816,7 +16817,6 @@ blended
 burhead
 bichromatic
 bathysophic
-buffoonish
 bungle
 baret
 birostrated
