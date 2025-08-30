@@ -403,7 +403,6 @@ cacotype
 cacotopia
 cacotrophia
 coombs
-ceratocricoid
 consonantize
 chiefer
 cellulipetally
@@ -23573,6 +23572,7 @@ continuum
 contise
 compendiate
 cognoscenti
+ceratocricoid
 contoid
 contoise
 contorniates
