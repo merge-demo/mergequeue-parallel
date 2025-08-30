@@ -3547,7 +3547,6 @@ balotade
 byroads
 bondholder
 batfowl
-batfowled
 bassists
 batfowls
 bestore
@@ -16444,6 +16443,7 @@ brechtian
 badgerweed
 bottlenest
 brutalized
+batfowled
 bucentur
 biliverdin
 bushgoats
