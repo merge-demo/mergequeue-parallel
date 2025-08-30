@@ -9569,6 +9569,7 @@ downtrampling
 disemboweled
 disinfestation
 digitising
+dosing
 desulphurise
 digitizes
 digitizing
@@ -15952,7 +15953,6 @@ discounts
 doser
 datura
 dogproof
-dosing
 dosinia
 dehairer
 doped
