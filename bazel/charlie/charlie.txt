@@ -9945,6 +9945,7 @@ chenfish
 californiana
 chenille
 cascado
+caperer
 consumable
 cheniller
 chenopod
@@ -17239,7 +17240,6 @@ curseder
 coaliest
 coenzymatically
 coalify
-caperer
 coalification
 cephalostyle
 clinopinacoidal
