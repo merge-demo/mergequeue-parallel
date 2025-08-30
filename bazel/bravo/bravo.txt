@@ -1150,6 +1150,7 @@ boatload
 bracteolate
 bagful
 brindled
+boutade
 bluethroat
 brewmaster
 boyg
@@ -3626,7 +3627,6 @@ bookmark
 bathrooms
 bazigar
 babas
-boutade
 ballyragged
 bridelace
 banilad
