@@ -11207,7 +11207,6 @@ chlorhydric
 coercibility
 chloriamb
 chloriambus
-chloric
 chlorid
 chicanos
 chloridate
@@ -11467,6 +11466,7 @@ conoidally
 choristoma
 caestus
 conspirers
+chloric
 colonizations
 corelysis
 choirmasters
