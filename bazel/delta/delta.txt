@@ -4602,6 +4602,7 @@ depictors
 disseise
 demineralization
 dovetail
+dermatosclerosis
 demineralized
 demonstrators
 demineralizes
@@ -6303,7 +6304,6 @@ dial
 downweighted
 dendrolatry
 dislaurel
-dermatosclerosis
 dingledangle
 demonstrableness
 doodad
