@@ -4432,7 +4432,6 @@ bretonian
 bilabials
 beclothe
 bonasus
-bacillicidal
 breathtakingly
 becalming
 bhili
@@ -12395,6 +12394,7 @@ befingering
 blindless
 bonbonnieres
 bibliophilist
+bacillicidal
 basally
 bonav
 banquette
