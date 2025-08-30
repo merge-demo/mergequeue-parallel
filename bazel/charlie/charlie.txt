@@ -11001,7 +11001,6 @@ crimean
 chirurgeonly
 cavern
 chirurgery
-chis
 chiseled
 curuba
 chiseler
@@ -20334,6 +20333,7 @@ catholicoses
 communized
 commutability
 contravariant
+chis
 commutable
 conjee
 counterservice
