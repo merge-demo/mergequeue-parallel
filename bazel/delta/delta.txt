@@ -6129,7 +6129,6 @@ dimission
 durgen
 deader
 doylt
-deckedout
 derated
 diphtheroid
 derater
@@ -9325,6 +9324,7 @@ departmentalizing
 deobstruent
 dietic
 decolorant
+deckedout
 dietitians
 dtset
 diplomat
