@@ -20049,7 +20049,6 @@ comment
 chedlock
 commentable
 commentarialism
-corky
 commentated
 cragsmen
 commentative
@@ -29281,6 +29280,7 @@ cryptolite
 cytochalasin
 cryptolith
 cryptology
+corky
 conspiracies
 callas
 consubstantiality
