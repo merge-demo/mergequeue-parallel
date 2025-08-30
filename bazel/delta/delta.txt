@@ -3138,7 +3138,6 @@ dinnery
 defeasive
 defeated
 directs
-downs
 diluviate
 disgout
 dissimulated
@@ -3498,6 +3497,7 @@ deformedly
 dandily
 downfold
 deuterostomata
+downs
 deforse
 diplomatic
 dinitrotoluene
