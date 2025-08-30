@@ -14138,6 +14138,7 @@ districted
 districting
 defoaming
 decarnate
+dodecahedrons
 divoto
 devant
 deltarium
@@ -16473,7 +16474,6 @@ divestible
 decolourise
 deadishness
 dozed
-dodecahedrons
 dozens
 dishpan
 disports
