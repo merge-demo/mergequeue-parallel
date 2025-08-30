@@ -10621,7 +10621,6 @@ chimaera
 chimaerid
 chimaeroid
 chimakum
-cogon
 cephalomancy
 chimakuan
 chimaphila
@@ -29541,6 +29540,7 @@ combated
 cebine
 croakier
 croakily
+cogon
 croaking
 croape
 croat
