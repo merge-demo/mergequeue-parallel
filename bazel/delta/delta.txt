@@ -6526,6 +6526,7 @@ describability
 dobra
 dulciloquy
 diacritic
+dockman
 degradedness
 dichlorhydrin
 described
@@ -11758,7 +11759,6 @@ discoverable
 distilland
 disworth
 dorms
-dockman
 discoverer
 dependantly
 decancellation
