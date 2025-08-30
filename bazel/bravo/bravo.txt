@@ -6356,7 +6356,6 @@ bai
 bibs
 benzanthrone
 bifarious
-bipolarize
 ballbuster
 begrace
 bt
@@ -12167,6 +12166,7 @@ brabbler
 biparted
 boleweed
 biometeorology
+bipolarize
 blandiloquence
 baklawas
 benzodiazine
