@@ -8020,7 +8020,6 @@ bodle
 boce
 bleakish
 betrumpet
-bastiles
 besplatter
 beaner
 bicolorous
@@ -13841,6 +13840,7 @@ bagreef
 bergsonian
 baptizes
 belittles
+bastiles
 byres
 blasters
 broadtail
