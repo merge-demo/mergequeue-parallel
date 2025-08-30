@@ -11189,6 +11189,7 @@ acropolises
 aerobacter
 algebar
 amphigory
+anthesteriac
 amphigories
 async
 appenders
@@ -20597,7 +20598,6 @@ attacapan
 articulacy
 aleuroscope
 acrobatholithic
-anthesteriac
 articulare
 allelomorph
 astragalonavicular
