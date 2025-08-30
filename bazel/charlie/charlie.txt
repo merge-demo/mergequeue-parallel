@@ -160,7 +160,6 @@ caboche
 caboched
 cabocle
 caboclo
-coploughing
 carcinogens
 cachinnator
 cabomba
@@ -7760,6 +7759,7 @@ ceruleolactite
 cravenette
 ceruleous
 ceratophrys
+coploughing
 cerulific
 cerulignol
 cerumen
