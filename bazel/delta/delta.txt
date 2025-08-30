@@ -395,7 +395,6 @@ dol
 dawdlers
 daimios
 dadap
-daimyos
 drinkers
 daimiote
 defension
@@ -6333,6 +6332,7 @@ deject
 disseminating
 defensorship
 dermestidae
+daimyos
 dermic
 delint
 diatom
