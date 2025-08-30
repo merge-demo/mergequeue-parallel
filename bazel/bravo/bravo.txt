@@ -8830,7 +8830,6 @@ benzol
 balsamiferous
 braeface
 bejelling
-bilimbi
 barrelhead
 bashless
 binomially
@@ -9021,6 +9020,7 @@ babelike
 besmuts
 bion
 byon
+bilimbi
 boredoms
 brasqued
 bionditional
