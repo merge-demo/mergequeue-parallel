@@ -5475,7 +5475,6 @@ cataclysmatist
 cataclysmic
 cataclysmically
 crowboot
-cpm
 cyanamide
 counterattacks
 clusterberry
@@ -17806,6 +17805,7 @@ codeine
 codeines
 crypta
 codelinquent
+cpm
 coden
 codenization
 codens
