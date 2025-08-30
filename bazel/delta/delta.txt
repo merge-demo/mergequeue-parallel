@@ -9511,7 +9511,6 @@ digestible
 dite
 digestibleness
 digestibly
-digestif
 delesseriaceae
 decline
 draftsman
@@ -10021,6 +10020,7 @@ dysacousma
 dragoons
 deuteroscopic
 debriefs
+digestif
 disopinion
 decennal
 dimoric
