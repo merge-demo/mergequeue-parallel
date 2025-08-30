@@ -7374,7 +7374,6 @@ debatement
 deticker
 dogtoothing
 desertedness
-district
 detinet
 decriminalizes
 deflagration
@@ -8943,6 +8942,7 @@ dully
 divinyl
 dichloramine
 dichloride
+district
 dichloroacetic
 dichlorodifluoromethane
 densher
