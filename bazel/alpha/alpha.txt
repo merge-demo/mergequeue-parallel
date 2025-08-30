@@ -9610,6 +9610,7 @@ alvearies
 alvearium
 alveated
 alveolariform
+archisphere
 ararauna
 alveolate
 alveolation
