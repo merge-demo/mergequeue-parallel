@@ -751,7 +751,6 @@ bugles
 braireau
 boyish
 bizcacha
-brinjal
 badgerlike
 badmash
 bending
@@ -15593,6 +15592,7 @@ broaches
 blimpishness
 burgundies
 batterable
+brinjal
 buffone
 barrenest
 boatel
