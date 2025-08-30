@@ -13121,7 +13121,6 @@ ager
 animosity
 animoso
 aftosas
-aegithognathous
 animous
 animus
 administrationist
@@ -18386,6 +18385,7 @@ aquamanile
 accidentalist
 alroot
 arbitration
+aegithognathous
 arbitrative
 ambages
 appetent

@@ -1440,6 +1440,7 @@ battable
 balefires
 barmbrack
 balefully
+byerite
 branned
 baleys
 baleise
@@ -17371,7 +17372,6 @@ bunk
 belinurus
 bipersonal
 bytownite
-byerite
 bushbaby
 blindest
 bestriding
