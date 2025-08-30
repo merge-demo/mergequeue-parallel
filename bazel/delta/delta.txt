@@ -9450,6 +9450,7 @@ derout
 dredge
 dejunkerize
 deuteromyosinose
+distr
 diffusions
 diffusive
 diffusors
@@ -16646,7 +16647,6 @@ drosophilae
 dispromise
 dragonesque
 daphnis
-distr
 darkhearted
 dragonfishes
 didelph
