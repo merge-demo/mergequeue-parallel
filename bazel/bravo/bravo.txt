@@ -3697,7 +3697,6 @@ bardolater
 books
 blout
 batsmen
-batt
 bobadilism
 bammed
 brotulidae
@@ -7377,6 +7376,7 @@ blithers
 betire
 brier
 betis
+batt
 betises
 byproduct
 botrycymose
