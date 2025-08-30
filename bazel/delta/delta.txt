@@ -12259,7 +12259,6 @@ diomedea
 doors
 democracy
 directional
-dormie
 dodoisms
 drapes
 dottles
@@ -13551,6 +13550,7 @@ decagon
 diss
 dissait
 diblastula
+dormie
 dissatisfaction
 dissatisfactions
 devisal
