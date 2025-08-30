@@ -14912,6 +14912,7 @@ cytophysiology
 cookbooks
 corypphaei
 ceased
+clinometrical
 cytopyge
 cantaro
 chimalapa
@@ -24309,7 +24310,6 @@ caverning
 caritas
 cookshop
 cookshops
-clinometrical
 cards
 colligible
 contumacies
