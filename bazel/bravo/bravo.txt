@@ -2840,6 +2840,7 @@ barothermograph
 barothermohygrograph
 barotrauma
 bulgurs
+beverages
 bravest
 bruckled
 busyness
@@ -12578,7 +12579,6 @@ bristlemouths
 backlist
 bicolorous
 bonnyish
-beverages
 boogeyman
 bonnnes
 butylamine
