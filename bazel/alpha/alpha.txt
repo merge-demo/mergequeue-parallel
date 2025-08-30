@@ -457,7 +457,6 @@ aberia
 akrteria
 alsikes
 anthoceros
-abirritate
 anthotropic
 alfalfa
 abirritating
@@ -2134,6 +2133,7 @@ achondroplasia
 agrostology
 achordal
 amyelotrophy
+abirritate
 achordata
 achordate
 achorion
