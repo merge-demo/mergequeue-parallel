@@ -2918,7 +2918,6 @@ cantefable
 childlier
 currawong
 canter
-canterburian
 cladosporium
 curlpaper
 custumals
@@ -15403,6 +15402,7 @@ centrosome
 clapt
 chicane
 cautio
+canterburian
 claptraps
 clapwort
 culbuter
