@@ -2492,7 +2492,6 @@ algesic
 acopyrine
 acopon
 acor
-acorea
 atomistic
 aecidia
 acorus
@@ -24229,6 +24228,7 @@ abulomania
 autopepsia
 astrophysical
 autophyte
+acorea
 autophytic
 albespyne
 autobahn

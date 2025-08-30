@@ -2126,7 +2126,6 @@ coalbin
 conterminate
 corduroy
 campho
-camphocarboxylic
 camphoid
 choryos
 camphol
@@ -6237,6 +6236,7 @@ capuchins
 catalases
 colourize
 crescence
+camphocarboxylic
 cravingly
 cecchine
 cabbaged
