@@ -6187,7 +6187,6 @@ bluebonnet
 bromvoel
 biophore
 blacker
-beneficial
 beneficialness
 beneficiated
 boskiness
@@ -14339,6 +14338,7 @@ binomen
 burstones
 braidism
 braidist
+beneficial
 braids
 bifidly
 bambocciade
