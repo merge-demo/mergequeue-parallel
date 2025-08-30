@@ -3758,6 +3758,7 @@ battlestead
 battlewagon
 bronchiectasis
 bovver
+blacktopping
 beautifully
 behatted
 bibliothque
@@ -10271,7 +10272,6 @@ blacktongue
 bacchanalism
 byroniana
 benzoquinoline
-blacktopping
 blacktops
 blastoporphyritic
 beholden

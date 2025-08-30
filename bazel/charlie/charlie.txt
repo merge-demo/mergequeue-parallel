@@ -9565,6 +9565,7 @@ cascading
 cheddar
 commentating
 cheddites
+cupules
 crooked
 cheders
 chee
@@ -31201,7 +31202,6 @@ cupulate
 cupule
 convertible
 ceramicists
-cupules
 curvatures
 complacencies
 convulsible
