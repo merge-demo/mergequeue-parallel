@@ -1086,6 +1086,7 @@ aburban
 amphodelite
 aburton
 arulo
+ataxite
 artemisia
 atestine
 amphioxidae
@@ -5726,7 +5727,6 @@ agendum
 agendums
 amovability
 agene
-ataxite
 ageneses
 agenesis
 agenetic
