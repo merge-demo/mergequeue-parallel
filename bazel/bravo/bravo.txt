@@ -7899,7 +7899,6 @@ bibliopole
 birdieback
 bibliopolery
 beclasp
-bletheration
 boschbok
 brambleberries
 breviature
@@ -9864,6 +9863,7 @@ brotherly
 bitstock
 beasties
 besmirches
+bletheration
 bitstone
 bunchberry
 bitter
