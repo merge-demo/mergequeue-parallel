@@ -1401,7 +1401,6 @@ calypsos
 charbon
 counselorship
 calypters
-calyptoblastea
 compartmentalization
 chapiters
 calyptoblastic
@@ -23793,6 +23792,7 @@ circumvascular
 contrawise
 contrecoup
 clumsiest
+calyptoblastea
 contredanse
 contredanses
 contreface
