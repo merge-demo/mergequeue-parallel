@@ -13131,6 +13131,7 @@ borophenylic
 bororoan
 beadman
 bube
+basifier
 baited
 brucite
 bionomist
@@ -15165,7 +15166,6 @@ bruit
 biometrically
 bacchar
 buddhists
-basifier
 brickyard
 bricking
 brickish
