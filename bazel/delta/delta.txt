@@ -3977,6 +3977,7 @@ delators
 delaware
 deleaded
 delectability
+deslime
 dampang
 doodling
 depencil
@@ -6797,7 +6798,6 @@ deskman
 desks
 dragade
 destined
-deslime
 dissoconch
 desmachyme
 dialyzate
