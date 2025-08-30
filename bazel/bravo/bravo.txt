@@ -11109,6 +11109,7 @@ blipping
 berengena
 bidpai
 blomstrandine
+bowable
 blond
 benes
 benzazine
@@ -13773,7 +13774,6 @@ brewage
 brontide
 brachydactyly
 bait
-bowable
 bowback
 bushment
 brazes
