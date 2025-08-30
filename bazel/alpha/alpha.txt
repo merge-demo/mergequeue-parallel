@@ -13570,6 +13570,7 @@ anodyne
 anaphroditous
 anastases
 anodized
+alula
 anodizes
 ampelopsis
 acoelomous
@@ -16540,7 +16541,6 @@ antimallein
 ateleiosis
 aouad
 airting
-alula
 anabrosis
 augustness
 aped
