@@ -14341,7 +14341,6 @@ dytiscid
 dytiscus
 ditokous
 dichrooscope
-dibasic
 digenetic
 draisene
 ditolyl
@@ -14449,6 +14448,7 @@ doubtable
 dermatherm
 dogmatists
 divellent
+dibasic
 downstage
 dispireme
 divergement
