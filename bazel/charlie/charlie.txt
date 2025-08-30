@@ -1212,6 +1212,7 @@ cauliferous
 calenda
 counterfaller
 chlored
+carburettor
 cambrel
 cameo
 calendarial
@@ -3913,7 +3914,6 @@ cosponsored
 carburetter
 calcaneoastragalar
 carburetting
-carburettor
 calendared
 carburised
 contrastively
