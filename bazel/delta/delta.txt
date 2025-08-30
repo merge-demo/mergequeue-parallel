@@ -10349,6 +10349,7 @@ ding
 diseuses
 demurrers
 diagrammers
+dogdoms
 ditton
 drunkly
 diopter
@@ -15081,7 +15082,6 @@ deflectional
 dogboat
 diathermacy
 defogs
-dogdoms
 deprogram
 dissolving
 detuned
