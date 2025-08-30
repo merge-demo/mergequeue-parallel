@@ -1407,7 +1407,6 @@ criticize
 commulative
 calyptorhynchus
 calyptraea
-cradleman
 calyptranthes
 compresbyter
 crowstep
@@ -25116,6 +25115,7 @@ culpate
 coreveller
 corevolve
 cryometer
+cradleman
 chlorophyllaceous
 cardmaking
 corruptedly

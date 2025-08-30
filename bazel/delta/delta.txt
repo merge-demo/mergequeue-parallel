@@ -1749,6 +1749,7 @@ deaths
 deathsman
 discrepating
 dumble
+depolishes
 derogation
 disaccord
 deathtime
@@ -5765,7 +5766,6 @@ deadpay
 depolish
 depolished
 deaconed
-depolishes
 depoliticized
 definers
 donia
