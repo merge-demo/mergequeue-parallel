@@ -8201,7 +8201,6 @@ dauby
 diaconica
 depotentiation
 dragooning
-deputable
 dactylic
 drabbets
 diacranterian
@@ -18461,6 +18460,7 @@ dactylograph
 demichamfron
 diagometer
 decarbonised
+deputable
 disulphuret
 degreased
 dints
