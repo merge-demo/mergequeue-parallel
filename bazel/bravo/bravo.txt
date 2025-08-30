@@ -7492,7 +7492,6 @@ booteries
 beurre
 benamidar
 bestowage
-beveil
 bevelled
 beveller
 bacteririum
@@ -11899,6 +11898,7 @@ boerdom
 bethumping
 brulyies
 becrown
+beveil
 boethian
 boffins
 brasset
