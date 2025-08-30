@@ -12408,7 +12408,6 @@ amanuenses
 abdal
 arterial
 anemometrographically
-alfilaria
 azoturia
 anemonal
 anemone
@@ -19873,6 +19872,7 @@ ammine
 armour
 armourbearer
 avalanched
+alfilaria
 adossed
 armourer
 abiogenist

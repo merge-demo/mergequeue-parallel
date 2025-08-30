@@ -3232,6 +3232,7 @@ bipontine
 basifugal
 barkpeel
 biltong
+brimmimg
 basigynium
 banner
 basilarchia
@@ -8852,7 +8853,6 @@ bastant
 bullism
 binukau
 bleariness
-brimmimg
 bathypelagic
 bioaccumulation
 bioactivities
