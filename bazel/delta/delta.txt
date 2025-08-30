@@ -558,6 +558,7 @@ detonatable
 damaged
 dichroic
 damageous
+deceivableness
 deaccessions
 dovyalis
 deliber
@@ -6391,7 +6392,6 @@ derogates
 diglyceride
 dixie
 derogating
-deceivableness
 derogatory
 diamonding
 dooja
