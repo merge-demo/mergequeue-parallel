@@ -9791,6 +9791,7 @@ cydon
 chellean
 counterfoil
 cheloids
+chemotaxonomically
 cutinizing
 chelonia
 contrails
@@ -15509,7 +15510,6 @@ clarseach
 corrodes
 clarsech
 clarseth
-chemotaxonomically
 clart
 clarty
 caries
