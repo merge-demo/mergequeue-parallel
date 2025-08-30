@@ -150,6 +150,7 @@ bacin
 bourne
 botanomancy
 banister
+booboos
 burkei
 basidiocarp
 beeheaded
@@ -11113,7 +11114,6 @@ bacchanalia
 bullionist
 bloodcurdling
 bloodcurdlingly
-booboos
 bloodies
 bloodiness
 blooding
