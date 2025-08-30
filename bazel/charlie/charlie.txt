@@ -9324,7 +9324,6 @@ chullo
 chaulmaugra
 chaulmoogra
 cytodendrite
-chaumiere
 chauna
 cotylophorous
 chaunoprockt
@@ -18129,6 +18128,7 @@ centralistic
 coequates
 coerce
 coerced
+chaumiere
 controversion
 composedly
 cobaltocyanide
