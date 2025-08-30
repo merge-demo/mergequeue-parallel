@@ -8071,7 +8071,6 @@ albino
 autecological
 antipyic
 algorithmic
-algorithmically
 alguifou
 apprehends
 antependium
@@ -20642,6 +20641,7 @@ acquitment
 artifactitious
 altitonant
 artifacts
+algorithmically
 artifactually
 artifex
 advocatrix
