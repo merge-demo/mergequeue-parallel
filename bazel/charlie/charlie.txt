@@ -3386,6 +3386,7 @@ chimericalness
 continuua
 capretto
 cote
+ceilidhe
 capri
 capric
 capriccetto
@@ -6640,7 +6641,6 @@ celestine
 ceilers
 condole
 ceilidh
-ceilidhe
 connexivum
 ceiling
 ceilings
