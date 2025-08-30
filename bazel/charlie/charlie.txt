@@ -8278,7 +8278,6 @@ colonisation
 coonskin
 carbro
 complexity
-carbure
 corallet
 choyroot
 chalinitis
@@ -13299,6 +13298,7 @@ civetlike
 cayleyan
 cyclopaedist
 coquito
+carbure
 chinning
 cyclope
 caroller

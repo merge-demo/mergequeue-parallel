@@ -5216,6 +5216,7 @@ declaimers
 denunciations
 deputy
 denominations
+dicrotous
 desired
 dicty
 dine
@@ -9060,7 +9061,6 @@ dextrinous
 diverter
 disseminule
 dicrotal
-dicrotous
 dicruridae
 delia
 dehort
