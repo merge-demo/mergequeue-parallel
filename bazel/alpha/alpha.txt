@@ -1070,6 +1070,7 @@ askew
 abundance
 accurtation
 apparelled
+aeonicaeonist
 arquated
 abundancy
 apyrase
@@ -4644,7 +4645,6 @@ aeon
 anacrustically
 aeonic
 accommodateness
-aeonicaeonist
 aeonist
 aridly
 aide
