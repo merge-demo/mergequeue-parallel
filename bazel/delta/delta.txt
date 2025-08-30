@@ -2742,7 +2742,6 @@ determinants
 decorticosis
 donas
 disoperation
-decortization
 decorum
 diamber
 dirige
@@ -16711,6 +16710,7 @@ drainfield
 duplicate
 disvelop
 drainman
+decortization
 deregulations
 downsman
 daiva
