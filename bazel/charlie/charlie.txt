@@ -16240,7 +16240,6 @@ clinodiagonal
 clinodomatic
 canzonas
 cardiamorphia
-clinographic
 countryish
 chlamydosporic
 clinohedral
@@ -28336,6 +28335,7 @@ crazycat
 cremocarp
 certainly
 craziest
+clinographic
 crazily
 chlorosilicate
 crazing
