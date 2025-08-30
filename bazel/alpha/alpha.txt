@@ -5912,7 +5912,6 @@ arioso
 agility
 auxotrophic
 antemortal
-agilities
 afresca
 amenorrhoeic
 attorneyship
@@ -16548,6 +16547,7 @@ appredicate
 allotrylic
 apathaton
 apathetically
+agilities
 arear
 apathize
 apathogenic
