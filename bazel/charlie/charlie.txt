@@ -5012,7 +5012,6 @@ carvoepra
 carwash
 clamatorial
 carwashes
-chider
 carzey
 casablanca
 casalty
@@ -10866,6 +10865,7 @@ chypre
 chipwood
 chiquito
 chiral
+chider
 clerids
 creeper
 cardstock
