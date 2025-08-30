@@ -11302,7 +11302,6 @@ aircrewman
 ampicillin
 antonina
 ampyxes
-amigas
 asperite
 amplect
 answerably
@@ -17402,6 +17401,7 @@ assigneeship
 appallingness
 adverbial
 apreynte
+amigas
 alcalzar
 armaturing
 agrestis
