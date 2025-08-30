@@ -12260,6 +12260,7 @@ christener
 christeners
 costander
 christening
+cyathus
 christens
 christhood
 cryptography
@@ -13055,7 +13056,6 @@ culsdesac
 connivent
 cyathophyllum
 cyathos
-cyathus
 confest
 cibarial
 ceroxyle
