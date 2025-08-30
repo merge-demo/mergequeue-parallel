@@ -687,7 +687,6 @@ aspern
 abortions
 absorbency
 afebrile
-apophysate
 abortiveness
 allegorising
 american
@@ -5930,6 +5929,7 @@ aestuous
 aposaturn
 affiances
 allamanda
+apophysate
 aretalogy
 autophotoelectric
 agists
