@@ -7762,7 +7762,6 @@ diglyph
 devisor
 decrier
 dowie
-devitalizes
 drawler
 ductilizing
 daphnephoria
@@ -11215,6 +11214,7 @@ djins
 disavower
 derringers
 depletes
+devitalizes
 desmarestiaceous
 dottily
 devicefulness
