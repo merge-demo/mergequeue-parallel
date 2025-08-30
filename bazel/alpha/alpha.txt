@@ -11224,7 +11224,6 @@ ains
 aphaniptera
 ameen
 amphipod
-amphipoda
 apostolicism
 avidious
 amphiprostylar
@@ -13366,6 +13365,7 @@ anna
 alibies
 annabergite
 antimnemonic
+amphipoda
 annaly
 annalia
 appreve
