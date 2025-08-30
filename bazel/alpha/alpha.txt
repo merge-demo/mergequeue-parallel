@@ -18946,6 +18946,7 @@ astaticism
 adhering
 astronautical
 airmailed
+armorplated
 archocele
 archon
 archonship
@@ -25077,7 +25078,6 @@ accusativeness
 ascidian
 almahs
 axiality
-armorplated
 axiate
 atmos
 anatiferous
