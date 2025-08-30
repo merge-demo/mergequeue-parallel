@@ -5959,6 +5959,7 @@ dissympathize
 dimethylnitrosamine
 drave
 deprivals
+delusionist
 deceiver
 deprivement
 disconcerts
@@ -13001,7 +13002,6 @@ demihague
 demivoice
 discriminability
 dolomitized
-delusionist
 disfavourer
 decomplex
 disorderer
