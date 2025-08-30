@@ -12850,7 +12850,6 @@ disulphonic
 diffusedness
 deferral
 dismay
-doudle
 disconfirm
 dismayable
 dismayfully
@@ -15213,6 +15212,7 @@ dogs
 deromanticize
 dogsbodies
 decalcifying
+doudle
 deleniate
 dentist
 damningness
