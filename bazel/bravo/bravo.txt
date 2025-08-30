@@ -3798,7 +3798,6 @@ batwing
 baysmelt
 bewearied
 betatrons
-batwomen
 brazils
 brevipennate
 batz
@@ -13459,6 +13458,7 @@ bottlenose
 bottlers
 blotchiness
 bottlestone
+batwomen
 baptismal
 bottling
 blemishes
