@@ -16891,7 +16891,6 @@ cypselae
 compendiously
 clucky
 concussional
-connectional
 clucking
 clue
 clued
@@ -25922,6 +25921,7 @@ conelet
 corvees
 centered
 corven
+connectional
 corver
 corves
 corvet
