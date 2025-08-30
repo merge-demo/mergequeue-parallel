@@ -7612,7 +7612,6 @@ airward
 adnascence
 angustia
 alcumy
-ald
 agrito
 adoors
 alands
@@ -21495,6 +21494,7 @@ anthesterion
 anisogeny
 aglucone
 ayurvedas
+ald
 alkyl
 allegement
 angary
