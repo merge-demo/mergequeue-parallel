@@ -2001,7 +2001,6 @@ ancientness
 acropathology
 achafe
 achagua
-amoret
 apsychical
 apocope
 achalasia
@@ -8564,6 +8563,7 @@ antiexpressiveness
 antibishop
 autistic
 anotropia
+amoret
 anastomosis
 autotheater
 amygdaloidal
