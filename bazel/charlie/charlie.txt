@@ -10924,7 +10924,6 @@ coalition
 chiccories
 cicatrixes
 chiromantis
-chirometer
 chiromys
 chalcioecus
 chironym
@@ -21128,6 +21127,7 @@ crampfishes
 collational
 celsia
 conceity
+chirometer
 couches
 czardom
 conceivableness
