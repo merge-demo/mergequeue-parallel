@@ -28683,6 +28683,7 @@ creophagous
 creosol
 creosote
 casasia
+crypto
 curran
 cole
 creosotes
@@ -29196,7 +29197,6 @@ cryptically
 crypticness
 coupled
 covenantally
-crypto
 cryptoagnostic
 coextended
 countercharge
