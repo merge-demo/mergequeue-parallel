@@ -28935,7 +28935,6 @@ cochair
 cricotus
 cheek
 criddle
-cried
 criey
 curiescopy
 crier
@@ -29701,6 +29700,7 @@ cheder
 catercorner
 campanulaceous
 calcarea
+cried
 confessory
 crookbacked
 crookbill
