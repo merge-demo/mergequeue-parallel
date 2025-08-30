@@ -3153,7 +3153,6 @@ caperers
 cheoplastic
 cachepots
 crosshatcher
-calibanism
 collagen
 caperingly
 cribbiter
@@ -28521,6 +28520,7 @@ crustaceans
 curliness
 coelelminthic
 credos
+calibanism
 credulity
 cardiosclerosis
 credulities
