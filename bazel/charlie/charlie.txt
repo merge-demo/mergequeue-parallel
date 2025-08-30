@@ -6395,7 +6395,6 @@ cavaliering
 catchpenny
 cavalierishness
 cavalierism
-cavalierly
 cytogenous
 cavaliers
 coccygodynia
@@ -9800,6 +9799,7 @@ cheloniidae
 cunit
 chemehuevi
 cab
+cavalierly
 chemiatric
 chapeless
 chalybean
