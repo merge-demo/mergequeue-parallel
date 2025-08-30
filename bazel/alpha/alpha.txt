@@ -6031,6 +6031,7 @@ aus
 actinocutitis
 aroeira
 agnations
+aeronautics
 amphi
 agnel
 acetobenzoic
@@ -8006,7 +8007,6 @@ algesiometer
 algidity
 algidities
 agriologist
-aeronautics
 androdynamous
 anthophorous
 aurantiaceous
