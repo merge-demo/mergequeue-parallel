@@ -24430,6 +24430,7 @@ coosers
 coltskin
 coost
 curves
+curvinerved
 coosuc
 coot
 cootch
@@ -31625,7 +31626,6 @@ chlorohydrocarbon
 curvilinead
 carpingly
 curvimeter
-curvinerved
 curviness
 curviserial
 curvital
