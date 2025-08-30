@@ -5006,7 +5006,6 @@ carves
 carvestrene
 carving
 curses
-carvings
 carvoeira
 carvoepra
 carwash
@@ -23818,6 +23817,7 @@ cointise
 contributorial
 contributorship
 civiler
+carvings
 cystospasm
 checkrooms
 contrivable
