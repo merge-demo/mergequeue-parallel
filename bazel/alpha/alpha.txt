@@ -12459,7 +12459,6 @@ apodoses
 affectability
 allesthesia
 aflaunt
-anubis
 anepigraphous
 amollish
 algae
@@ -15157,6 +15156,7 @@ antiformin
 animater
 acanthocephalan
 antifouling
+anubis
 antihydropin
 autobasidiomycetes
 accendible
