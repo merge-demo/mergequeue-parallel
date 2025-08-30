@@ -2323,6 +2323,7 @@ deceptions
 diethylstilbestrol
 demidolmen
 dodecatemory
+diagraming
 downwash
 deceptive
 deceptiveness
@@ -18470,7 +18471,6 @@ duality
 duplicitously
 disprizing
 doorways
-diagraming
 drovy
 duplify
 disclosed
