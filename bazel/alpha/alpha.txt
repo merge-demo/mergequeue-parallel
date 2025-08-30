@@ -5487,6 +5487,7 @@ achromatium
 afterthought
 afterthoughts
 afterthrift
+amvis
 apastron
 afterturn
 armory
@@ -7295,7 +7296,6 @@ archiepiscopate
 annexe
 albyn
 albinal
-amvis
 apteryx
 albines
 albiness
