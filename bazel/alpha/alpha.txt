@@ -9101,7 +9101,6 @@ almeriite
 almice
 almida
 ammonites
-ark
 almira
 almner
 almohad
@@ -22550,6 +22549,7 @@ atheromatosis
 atheroscleroses
 abaised
 archbuffoon
+ark
 ateuchi
 atherosclerosis
 atherosclerotic
