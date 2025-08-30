@@ -2521,6 +2521,7 @@ boccia
 bunkie
 blueblack
 beslash
+bekisses
 bassetite
 barguest
 barguests
@@ -5593,7 +5594,6 @@ basilican
 bewreak
 bekiss
 bekissed
-bekisses
 bouleuterion
 befoolment
 borons
