@@ -17579,7 +17579,6 @@ appert
 appertain
 athematic
 accosts
-appertained
 acrose
 appertainment
 adrostral
@@ -19539,6 +19538,7 @@ ariels
 acoupa
 aries
 antireformist
+appertained
 antistrophize
 attritional
 absorbingly

@@ -15807,7 +15807,6 @@ caddice
 clearinghouse
 congratulating
 clearinghouses
-cenotaph
 clearish
 clearminded
 changemaker
@@ -21020,6 +21019,7 @@ copyholds
 conceptaculum
 corruptibility
 connexional
+cenotaph
 computably
 counterdash
 clitelliferous
