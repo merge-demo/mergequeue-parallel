@@ -5349,7 +5349,6 @@ bivariate
 bifold
 burkers
 bor
-beglooms
 blur
 bultell
 baidar
@@ -13972,6 +13971,7 @@ blastman
 bluecup
 bolometrically
 bensel
+beglooms
 boxwoods
 basher
 brittlest
