@@ -26315,6 +26315,7 @@ cotabulate
 carya
 cotarius
 calander
+counterprogramming
 centipedal
 commutative
 cotch
@@ -27004,7 +27005,6 @@ counterprinciple
 counterprocess
 counterproductive
 counterproductively
-counterprogramming
 counterproject
 cookie
 counterpronunciamento
