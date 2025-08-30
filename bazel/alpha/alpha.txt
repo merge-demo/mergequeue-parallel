@@ -22420,6 +22420,7 @@ aerogene
 adorability
 aefauld
 acousma
+archistome
 atechnical
 atef
 assay
@@ -24145,7 +24146,6 @@ auriscalpia
 ambuscade
 antipapacy
 autoloader
-archistome
 alangin
 autology
 autological
