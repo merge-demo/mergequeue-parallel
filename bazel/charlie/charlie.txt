@@ -11949,6 +11949,7 @@ collunarium
 consol
 cachina
 chorioallantoic
+computative
 chorioallantoid
 chorioallantois
 cuneus
@@ -16038,7 +16039,6 @@ cyanins
 cuculiform
 cotypes
 clablaria
-computative
 collusion
 clevises
 clew
