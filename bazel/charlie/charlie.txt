@@ -9312,6 +9312,7 @@ concussation
 civy
 carcoon
 cerris
+compendency
 custos
 chauk
 catagmatic
@@ -20531,7 +20532,6 @@ compelling
 compellingly
 curblike
 cosines
-compendency
 crucibles
 cheechakos
 compendia
