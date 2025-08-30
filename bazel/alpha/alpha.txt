@@ -1670,6 +1670,7 @@ alkalimeter
 ambiguously
 aphidid
 acculturating
+amyls
 acculturation
 acculturize
 anarchoindividualist
@@ -10598,7 +10599,6 @@ amylosynthesis
 amylosis
 armamentary
 amiloun
-amyls
 amylum
 abib
 amin
