@@ -4600,7 +4600,6 @@ demineralization
 dovetail
 dermatosclerosis
 demineralized
-demonstrators
 demineralizes
 demineralizing
 demiofficial
@@ -11279,6 +11278,7 @@ disboweling
 disbowelled
 disbranch
 duffies
+demonstrators
 disbranched
 dakoits
 dogbush
