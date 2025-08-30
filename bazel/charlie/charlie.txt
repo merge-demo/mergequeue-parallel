@@ -5706,6 +5706,7 @@ counterinsurgents
 catclaw
 cate
 catechesis
+conchate
 catechetic
 congenator
 conduceability
@@ -21268,7 +21269,6 @@ cogitated
 couponed
 conchae
 conchal
-conchate
 chemigrapher
 cunonia
 cocowort
