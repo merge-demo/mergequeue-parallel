@@ -5461,6 +5461,7 @@ aftershaft
 aftershafted
 acetylcholinic
 archdruid
+alabandine
 almagests
 aftershave
 aftershocks
@@ -13982,7 +13983,6 @@ anted
 assaultable
 antifungin
 autophytically
-alabandine
 acrosarcum
 atlantis
 anatomical
