@@ -2710,6 +2710,7 @@ britannian
 bestayed
 barnyard
 beastings
+blackgum
 butein
 bottomries
 batch
@@ -10174,7 +10175,6 @@ blup
 buckwasher
 baroreceptor
 beseechers
-blackgum
 beclamored
 beachcombing
 boastings
