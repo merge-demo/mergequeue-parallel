@@ -2767,6 +2767,7 @@ decurrently
 diamondized
 decreet
 desmogen
+dungyard
 dropsied
 dop
 dorsalward
@@ -4587,7 +4588,6 @@ deforming
 dali
 disaffectionate
 detax
-dungyard
 disproportionality
 dovish
 demimondain
