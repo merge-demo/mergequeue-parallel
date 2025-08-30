@@ -2573,7 +2573,6 @@ chlorotrifluoromethane
 catalan
 culturologist
 candroys
-crepier
 camphires
 censuses
 cyclotrons
@@ -10494,6 +10493,7 @@ chileanization
 chileans
 chylemia
 chiles
+crepier
 concealing
 chyles
 chiliadron

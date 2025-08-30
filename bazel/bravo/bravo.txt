@@ -8592,6 +8592,7 @@ byrlady
 batteau
 buhrmill
 baldacchino
+botanies
 behind
 batchers
 burgees
@@ -13298,7 +13299,6 @@ bluestone
 botanically
 botanics
 bridechamber
-botanies
 botanist
 botanize
 brushmen
