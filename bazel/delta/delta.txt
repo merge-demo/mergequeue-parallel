@@ -5949,7 +5949,6 @@ duchesse
 drew
 depressurize
 disentraced
-dere
 defeatee
 depreter
 depriment
@@ -17429,6 +17428,7 @@ dealate
 durationless
 declaims
 departmentalisation
+dere
 droppings
 drops
 dialoguing
