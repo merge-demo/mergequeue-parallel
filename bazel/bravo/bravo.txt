@@ -9716,7 +9716,6 @@ bricklike
 bombylious
 barleduc
 bacillus
-botticellian
 brichette
 bioflavonoid
 biophysiography
@@ -12701,6 +12700,7 @@ biometric
 bookhood
 bloodhounds
 bazaar
+botticellian
 bookings
 blah
 bryon
