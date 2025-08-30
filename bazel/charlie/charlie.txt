@@ -23235,7 +23235,6 @@ countervolition
 consubstantive
 chivareed
 consuetudinal
-consul
 consulage
 coloclysis
 chirurgical
@@ -27605,6 +27604,7 @@ cowbinds
 clapperclawer
 cracksman
 carbonadoed
+consul
 cowboy
 calumny
 cervicolumbar
