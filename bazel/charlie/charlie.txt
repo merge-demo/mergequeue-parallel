@@ -8292,7 +8292,6 @@ chalking
 chalkline
 chantage
 columnated
-chalkone
 chalkos
 compressing
 chalkotheke
@@ -24510,6 +24509,7 @@ copenetrate
 copenhagen
 copepod
 copepoda
+chalkone
 chromolithograph
 cleistothecopsis
 cyzicene
