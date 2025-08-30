@@ -2617,6 +2617,7 @@ barkary
 befilch
 barkbound
 bamoth
+besluit
 beaued
 barkcutter
 balsameaceous
@@ -6992,7 +6993,6 @@ braless
 brisance
 bepaid
 beslobber
-besluit
 bespread
 basilic
 besmile
