@@ -14071,6 +14071,7 @@ compend
 chocked
 cookwares
 cepe
+creedsman
 crocodile
 coriandrol
 chloritoid
@@ -28530,7 +28531,6 @@ creeded
 calamistrum
 chace
 creeds
-creedsman
 criticizes
 creeker
 creekfish
