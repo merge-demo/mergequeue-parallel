@@ -1853,7 +1853,6 @@ acetacetic
 autopsic
 acetals
 acetamidin
-ashkoko
 acetanilid
 abutments
 annard
@@ -8065,6 +8064,7 @@ alienor
 adynamias
 absorptive
 almsmoney
+ashkoko
 algorismic
 archaean
 albino

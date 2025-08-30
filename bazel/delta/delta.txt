@@ -1479,7 +1479,6 @@ dazzle
 discomedusan
 dawnstreak
 discriminative
-diffusor
 dasypaedal
 discolorated
 dazzler
@@ -15078,6 +15077,7 @@ dandriff
 disbudding
 deflectional
 dogboat
+diffusor
 diathermacy
 defogs
 deprogram
