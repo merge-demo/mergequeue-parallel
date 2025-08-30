@@ -3828,6 +3828,7 @@ carbonify
 clept
 chewbark
 carbonification
+cdg
 chigger
 consultively
 courie
@@ -6535,7 +6536,6 @@ calamitoid
 cdf
 carid
 cheroot
-cdg
 cdr
 cesspool
 celibates
