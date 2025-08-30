@@ -9173,7 +9173,6 @@ cyclocephaly
 clypeolate
 chasmogamous
 chasmophyte
-clavering
 chirruped
 constipating
 chass
@@ -14738,6 +14737,7 @@ coruscant
 cellared
 comber
 citherns
+clavering
 cithers
 cithren
 condign
