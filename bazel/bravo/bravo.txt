@@ -620,6 +620,7 @@ baconize
 baconweed
 bowlings
 bierkeller
+boidae
 bonjour
 barniest
 bibbery
@@ -2072,7 +2073,6 @@ bucketed
 banlieu
 basquine
 backseats
-boidae
 babai
 barefooted
 bollixing
