@@ -5360,7 +5360,6 @@ diageotropism
 dentil
 discussional
 dentiled
-dimin
 delivery
 disappropriation
 drub
@@ -17336,6 +17335,7 @@ delighter
 dorado
 drollishness
 denitrification
+dimin
 drolls
 drome
 dromedarian
