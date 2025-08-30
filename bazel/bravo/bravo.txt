@@ -6713,7 +6713,6 @@ berkovtsi
 bridgekeeper
 bedull
 bayesian
-bonnier
 berlin
 browsability
 broomstaff
@@ -9192,6 +9191,7 @@ balsaminaceous
 balladical
 biparentally
 businesswoman
+bonnier
 blackboard
 bushelmen
 bunolophodont
