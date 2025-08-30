@@ -10103,6 +10103,7 @@ cyrtosis
 coauthorship
 chevachee
 chevage
+confidence
 careened
 columnwise
 cheval
@@ -21926,7 +21927,6 @@ confidants
 centaurs
 counterproductivity
 coseismic
-confidence
 confidency
 cosmogenic
 confident
