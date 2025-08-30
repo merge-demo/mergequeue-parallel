@@ -9395,7 +9395,6 @@ bluecaps
 birdseye
 birdsnest
 bungfu
-bargehouse
 birdstone
 borak
 befitting
@@ -15375,6 +15374,7 @@ brilliantined
 beiges
 boba
 bullule
+bargehouse
 brilliantly
 brilliants
 brilliantwise
