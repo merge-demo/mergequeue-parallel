@@ -3127,7 +3127,6 @@ arachide
 anagrammatising
 antipathetically
 affrighting
-audiometrist
 approvement
 antiscians
 admonished
@@ -21997,6 +21996,7 @@ andamanese
 arithromania
 adinvention
 asterolepis
+audiometrist
 asterope
 amnestic
 accordature
