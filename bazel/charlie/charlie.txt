@@ -27620,6 +27620,7 @@ cowers
 cometoid
 cowhage
 cowhand
+curtays
 cowherb
 cowherds
 cwo
@@ -31561,7 +31562,6 @@ cowlicks
 cauliflower
 cortine
 curtainless
-curtays
 curtal
 cuddles
 cobdenism
