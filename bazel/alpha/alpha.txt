@@ -9734,7 +9734,6 @@ antifungal
 arteriectomy
 aeroplane
 aposthia
-antiauxin
 arterialise
 amante
 auscultation
@@ -17498,6 +17497,7 @@ anacoluthically
 alkalimetric
 acerbest
 anthracaemia
+antiauxin
 amalings
 appeases
 aristogenetic
