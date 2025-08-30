@@ -9074,7 +9074,6 @@ coimplicant
 charpai
 capacitates
 crataegus
-charpit
 canape
 charpoys
 costing
@@ -31485,6 +31484,7 @@ currycombing
 coltoria
 carpolite
 conductory
+charpit
 currycombs
 crossword
 centrings
