@@ -17306,7 +17306,6 @@ chlamydomonadidae
 canonically
 cymogenes
 coaptation
-coapted
 conclamant
 camarada
 coaration
@@ -20011,6 +20010,7 @@ ciliograde
 commendations
 charlotte
 capiturlary
+coapted
 circularizations
 commendatorily
 commended
