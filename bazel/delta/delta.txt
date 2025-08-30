@@ -1302,7 +1302,6 @@ demineralizer
 dysodyle
 doitrified
 dardanarius
-disturbed
 daturism
 delusive
 diphycercal
@@ -5519,6 +5518,7 @@ diaxon
 deparliament
 delighting
 denials
+disturbed
 departer
 devastated
 dehistoricize
