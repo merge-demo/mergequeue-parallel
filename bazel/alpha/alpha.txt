@@ -8830,7 +8830,6 @@ allogeneic
 agenesias
 argolid
 adream
-anisettes
 antisceptical
 achromatizable
 astroalchemist
@@ -12650,6 +12649,7 @@ anginiform
 ashpit
 anginophobia
 anginose
+anisettes
 anginous
 apocenter
 anagrammatized
