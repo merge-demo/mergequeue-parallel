@@ -17864,7 +17864,6 @@ bordered
 bairnishness
 beholders
 bolides
-bepaints
 bothroi
 bibliotics
 boodles
@@ -18343,6 +18342,7 @@ buttresslike
 benedictive
 bromiodide
 bulbs
+bepaints
 butts
 boggy
 bucellas
