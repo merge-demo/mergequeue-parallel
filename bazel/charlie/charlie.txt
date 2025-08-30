@@ -8807,6 +8807,7 @@ canonries
 chapteral
 chapterhouse
 chapters
+coloboma
 cardinalates
 chapwoman
 chaqueta
