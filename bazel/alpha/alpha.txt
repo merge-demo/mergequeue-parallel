@@ -6962,6 +6962,7 @@ azury
 andromonoecious
 anre
 akinesic
+autotransformer
 akinete
 anthecology
 azotes
@@ -24418,7 +24419,6 @@ autotomous
 astragals
 autotoxic
 autotractor
-autotransformer
 autotransplantation
 aurotellurite
 aetheric
