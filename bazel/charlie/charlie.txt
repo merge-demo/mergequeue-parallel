@@ -10329,7 +10329,6 @@ critchfield
 canariote
 chavantean
 chickwit
-chicle
 chamberfellow
 chicly
 chicness
@@ -29522,6 +29521,7 @@ coadunating
 consummative
 crittur
 cardiokinetic
+chicle
 consular
 crivetz
 constraint
