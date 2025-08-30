@@ -11215,7 +11215,6 @@ ascicidia
 alephzero
 auguries
 ains
-aphaniptera
 ameen
 amphipod
 apostolicism
@@ -14871,6 +14870,7 @@ anticommunistical
 aphthongia
 alemite
 anticommunistically
+aphaniptera
 anticompetitive
 anticomplement
 anticonductor
