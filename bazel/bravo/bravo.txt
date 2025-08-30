@@ -198,7 +198,6 @@ bibliopolism
 boh
 baccalaureate
 baccalaureates
-baccalaureus
 bismuthal
 baccara
 baroques
@@ -974,6 +973,7 @@ baker
 beverage
 basiophthalmite
 bahaist
+baccalaureus
 bahamian
 bahamians
 boated
