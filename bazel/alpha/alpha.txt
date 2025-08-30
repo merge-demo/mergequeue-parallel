@@ -17929,7 +17929,6 @@ approximation
 approximations
 approximative
 atomy
-approximativeness
 allods
 approximator
 appt
@@ -22636,6 +22635,7 @@ alkalimetrical
 anthropolithic
 andamentos
 adreno
+approximativeness
 atis
 apostatized
 atlantal
