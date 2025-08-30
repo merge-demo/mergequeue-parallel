@@ -1051,7 +1051,6 @@ bailable
 boordly
 baile
 bezazz
-basqued
 blizzards
 bad
 brees
@@ -7418,6 +7417,7 @@ barnier
 burglarproofed
 betrend
 braveries
+basqued
 betrothing
 betroths
 betrousered
