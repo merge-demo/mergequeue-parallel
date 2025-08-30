@@ -3366,7 +3366,6 @@ capparid
 capped
 capper
 ciseleurs
-cappiest
 capping
 cervelas
 chemotropism
@@ -12577,6 +12576,7 @@ chantecler
 cercle
 cafetiere
 chronologizing
+cappiest
 chronomantic
 chronomastix
 chronometer
