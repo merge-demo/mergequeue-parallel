@@ -447,7 +447,6 @@ bidcock
 beamer
 behaviorism
 backpedal
-basialveolar
 backpedaling
 backpiece
 bolita
@@ -10264,6 +10263,7 @@ benzoquinoline
 blacktopping
 blacktops
 blastoporphyritic
+basialveolar
 beholden
 begnawn
 bepimples
