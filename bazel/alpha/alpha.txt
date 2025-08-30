@@ -19979,7 +19979,6 @@ aroynts
 arolia
 aromal
 artus
-acervatim
 azonal
 auspices
 aculeate
@@ -23737,6 +23736,7 @@ ajimez
 assuredness
 antihistamine
 austrium
+acervatim
 antipedobaptism
 ambash
 agin
