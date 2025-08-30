@@ -8517,6 +8517,7 @@ chance
 chanceably
 chemosterilants
 chanced
+circuitable
 comme
 categorical
 corncockle
@@ -15042,7 +15043,6 @@ civilisations
 choanoid
 countercondemnation
 cipollino
-circuitable
 compunctive
 civilizationally
 chawan
