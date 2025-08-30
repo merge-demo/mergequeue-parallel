@@ -3042,6 +3042,7 @@ belee
 barriness
 beckons
 brimmers
+butomus
 beachhead
 backswordsman
 bookbinderies
@@ -17736,7 +17737,6 @@ bravadoes
 burped
 bangster
 blucher
-butomus
 blackishly
 broodless
 biostatistic
