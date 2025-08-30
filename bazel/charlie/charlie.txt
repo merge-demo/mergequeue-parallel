@@ -7762,6 +7762,7 @@ cerulignol
 cerumen
 calibres
 cerumens
+copraemic
 ceruminal
 cagayan
 costean
@@ -24681,7 +24682,6 @@ closenesses
 copra
 copraemia
 cencerros
-copraemic
 cruisingly
 coprecipitate
 coprecipitated
