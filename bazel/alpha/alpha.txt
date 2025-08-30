@@ -665,6 +665,7 @@ abord
 aboriginality
 anhydrosis
 aborigines
+acidite
 abort
 alderfly
 aborted
@@ -2234,7 +2235,6 @@ abruptedly
 arachnephobia
 avgasses
 acidifying
-acidite
 allogamous
 axminster
 adustiosis
