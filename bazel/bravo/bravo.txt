@@ -9480,7 +9480,6 @@ bedecorate
 byronic
 beirut
 brahmaness
-beaconage
 bemonster
 barristership
 birretta
@@ -10321,6 +10320,7 @@ beauism
 bacillogenic
 blahs
 balatas
+beaconage
 bulbophyllum
 blithemeat
 blueback
