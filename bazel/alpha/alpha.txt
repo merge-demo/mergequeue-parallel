@@ -3301,7 +3301,6 @@ algetic
 aseethe
 adaptions
 adaptitude
-azurite
 adaptive
 amortizement
 archpiece
@@ -8513,6 +8512,7 @@ allantoides
 allantoin
 anticonvellent
 analyzer
+azurite
 allantoinase
 ampullosity
 allantoinuria

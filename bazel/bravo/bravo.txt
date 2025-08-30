@@ -6674,7 +6674,6 @@ berycoid
 bansalague
 berycoidea
 barpost
-berycomorphi
 bemixes
 beret
 bunsenite
@@ -16984,6 +16983,7 @@ bishoping
 bulkage
 boldfaces
 burt
+berycomorphi
 bulkhead
 bulkheading
 bulky
