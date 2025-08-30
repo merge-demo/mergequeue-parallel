@@ -7771,6 +7771,7 @@ adumbral
 antilogarithm
 aleknight
 agreat
+assurant
 azodiphenyl
 afterlife
 adenography
@@ -16094,7 +16095,6 @@ acosmism
 andron
 abreact
 antismoking
-assurant
 antisnapper
 antisocial
 ardelio
