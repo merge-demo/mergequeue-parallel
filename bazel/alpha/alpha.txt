@@ -13264,7 +13264,6 @@ anisotrope
 anisotropically
 anencephalotrophia
 anisotropies
-anystidae
 anhydrating
 abomination
 anisum
@@ -18412,6 +18411,7 @@ anthropoidal
 arboraceous
 anticorset
 arboral
+anystidae
 amphicondylous
 allotype
 averish

@@ -14452,7 +14452,6 @@ conservable
 cirripedial
 cooba
 centiare
-carate
 citrul
 charades
 cirrocumulative
@@ -29084,6 +29083,7 @@ corundums
 crinolette
 chickenweed
 culver
+carate
 crinoline
 crinolines
 crinosity
