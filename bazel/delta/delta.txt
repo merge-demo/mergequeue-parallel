@@ -1506,6 +1506,7 @@ dingbats
 definiendum
 deformers
 diazines
+discophorous
 deacetylate
 duststorm
 duppies
@@ -9936,7 +9937,6 @@ dimes
 dimetallic
 dimeter
 dermatauxe
-discophorous
 dimethylbenzene
 disneyland
 declivity
