@@ -1099,7 +1099,6 @@ caveatee
 calcispongiae
 chromatosphere
 calcite
-calcitestaceous
 cuppers
 calcitic
 calcitrant
@@ -7102,6 +7101,7 @@ centners
 centones
 centonism
 centonization
+calcitestaceous
 centos
 centra
 centrad
