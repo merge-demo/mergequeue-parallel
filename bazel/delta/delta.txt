@@ -10544,7 +10544,6 @@ decentest
 depressants
 defoggers
 depectible
-diplacuses
 diple
 dipleural
 docetically
@@ -17662,6 +17661,7 @@ discourteously
 dtente
 divestiture
 diplococci
+diplacuses
 dysphotic
 diplohedral
 draftee
