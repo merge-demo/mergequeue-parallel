@@ -11724,6 +11724,7 @@ chondroangioma
 credential
 chondroarthritis
 contestant
+codfishery
 chondroblastoma
 chondrocyte
 coniomycetes
@@ -30267,7 +30268,6 @@ cycad
 closest
 confused
 cepolidae
-codfishery
 crunched
 cruncher
 crunchers
