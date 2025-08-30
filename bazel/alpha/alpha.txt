@@ -5038,7 +5038,6 @@ affrication
 audition
 aethionema
 aetiogenic
-arsenides
 almagest
 aetiologies
 antiphonaries
@@ -8724,6 +8723,7 @@ allyou
 arienzo
 aluminography
 allis
+arsenides
 aristocrat
 alliterate
 acescence
