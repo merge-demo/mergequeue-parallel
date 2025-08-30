@@ -11492,6 +11492,7 @@ deadeye
 dehaites
 dislocates
 degumming
+dishumor
 draconis
 desertless
 diverted
@@ -15929,7 +15930,6 @@ despiting
 dialectally
 dorsoposterior
 dorsosacral
-dishumor
 dorsoscapular
 dorsothoracic
 dermatrophy
