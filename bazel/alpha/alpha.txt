@@ -6696,6 +6696,7 @@ anchistopoda
 acyloxy
 airlift
 airlifting
+appeacher
 airlifts
 airlike
 arbalestre
@@ -17286,7 +17287,6 @@ apostles
 apostleship
 apostleships
 amassers
-appeacher
 apostoli
 apostolian
 apostolical
