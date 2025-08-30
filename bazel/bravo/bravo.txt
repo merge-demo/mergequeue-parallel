@@ -3830,7 +3830,6 @@ boreas
 baulked
 bearbane
 bequeaths
-bucerotes
 behight
 broccoli
 bhoy
@@ -4259,6 +4258,7 @@ bitypic
 beriming
 blunderheadedness
 beaverize
+bucerotes
 bosnian
 beaverskin
 branded
