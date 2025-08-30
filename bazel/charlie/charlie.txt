@@ -30061,7 +30061,6 @@ crowed
 crower
 crowers
 conductors
-centuried
 crowfeet
 creditability
 crowhop
@@ -30170,6 +30169,7 @@ crud
 canful
 crudded
 convivialize
+centuried
 carree
 crudding
 crudely
