@@ -11533,7 +11533,6 @@ calciphile
 cleavingly
 chold
 choleate
-cholecyanine
 couchee
 cholecystectasia
 cholecystectomy
@@ -30960,6 +30959,7 @@ cumbering
 catostomid
 cumberland
 codefendants
+cholecyanine
 cumberless
 cadbote
 coix
