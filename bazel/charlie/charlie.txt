@@ -1261,7 +1261,6 @@ cacochymical
 calfling
 calfskin
 creatural
-calgary
 caliban
 cunea
 calaverite
@@ -14390,6 +14389,7 @@ circumvented
 circumventing
 circumvention
 circumventions
+calgary
 coking
 circumventor
 conveyorized
