@@ -1008,7 +1008,6 @@ calathus
 calatrava
 calavance
 calbroben
-calcaire
 chimpanzee
 calcanean
 calcaneoastragaloid
@@ -12188,6 +12187,7 @@ cyanized
 chrismons
 chrisms
 carinatae
+calcaire
 chrysoaristocracy
 conciliative
 clangula
