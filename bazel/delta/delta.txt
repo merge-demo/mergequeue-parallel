@@ -5062,7 +5062,6 @@ doomwatcher
 dendraxon
 decolorizer
 delightsome
-dendriform
 dialer
 dendritic
 dendritical
@@ -9174,6 +9173,7 @@ depressives
 dandering
 didymis
 demonetised
+dendriform
 didynamian
 disculpation
 didynamic
