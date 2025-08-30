@@ -2683,6 +2683,7 @@ crevice
 circumnavigations
 chokestrap
 clingfish
+colonalgia
 canker
 cankerberry
 cankerbird
@@ -28008,7 +28009,6 @@ cleistogamic
 cygnus
 cramp
 cramped
-colonalgia
 cloriodid
 computerize
 cacorrhinia
