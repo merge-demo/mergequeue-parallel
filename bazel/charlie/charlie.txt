@@ -12055,7 +12055,6 @@ coll
 cymbalo
 cerfoil
 clansman
-casula
 chose
 chophouses
 coursed
@@ -28402,6 +28401,7 @@ countertenors
 creaseless
 creasers
 creases
+casula
 creashaks
 chevachie
 childminder

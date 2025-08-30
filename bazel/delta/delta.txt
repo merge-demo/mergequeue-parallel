@@ -8258,7 +8258,6 @@ diagnosticate
 denitrating
 dinotherium
 dehortatory
-demegoric
 diiodid
 deathcup
 diploetic
@@ -10868,6 +10867,7 @@ dirempt
 direness
 doughnut
 dolly
+demegoric
 developement
 diabolifuge
 demophil
