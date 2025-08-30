@@ -9563,7 +9563,6 @@ demissly
 dromaeognathae
 doneness
 digitigradism
-determa
 digitinerved
 dilutes
 depravement
@@ -11605,6 +11604,7 @@ derivers
 discompliance
 dowry
 discomposed
+determa
 derided
 desmachymatous
 dements
