@@ -4669,7 +4669,6 @@ delineable
 demisemitone
 dislodging
 decem
-dualisms
 demiss
 dryopithecid
 disprobative
@@ -11515,6 +11514,7 @@ digredience
 dekaliter
 dishier
 diplodia
+dualisms
 demandative
 disaccharid
 discoideae
