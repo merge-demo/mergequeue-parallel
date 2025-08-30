@@ -16906,7 +16906,6 @@ decadent
 drawspring
 dispersible
 debasers
-derrick
 demicaponier
 discophile
 diameters
@@ -18514,6 +18513,7 @@ downcast
 durani
 divorced
 duraspinalis
+derrick
 duration
 durations
 durative

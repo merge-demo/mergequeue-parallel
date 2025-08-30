@@ -3855,7 +3855,6 @@ bohireen
 bicker
 bucare
 bauxitic
-bowdlerizations
 bavette
 baviaantje
 bulldogism
@@ -16790,6 +16789,7 @@ butut
 betas
 balkline
 biomaterial
+bowdlerizations
 boarishly
 beam
 buffing
