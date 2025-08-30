@@ -937,6 +937,7 @@ bdellotomy
 bowstaff
 ballplayers
 backhoe
+bullock
 bandyball
 bardiglio
 boscage
@@ -17124,7 +17125,6 @@ bullnose
 beewinged
 bullnoses
 bhara
-bullock
 brachialgia
 bullocker
 brachydodrome
