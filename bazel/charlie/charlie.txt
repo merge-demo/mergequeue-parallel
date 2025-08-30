@@ -27575,7 +27575,6 @@ cow
 chesteine
 caesuras
 cowages
-cowardy
 cowardice
 chrobat
 cowardish
@@ -31311,6 +31310,7 @@ curdoo
 consommes
 conceivably
 cured
+cowardy
 cornix
 cureless
 corypha
