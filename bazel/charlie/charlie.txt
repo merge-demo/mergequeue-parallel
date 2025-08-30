@@ -1676,6 +1676,7 @@ calothrix
 calotype
 cyclodiolefine
 calotypist
+chytrid
 crossbolt
 congratulated
 calotte
@@ -2932,7 +2933,6 @@ curling
 cantharic
 cantharidae
 cake
-chytrid
 cantharidate
 compsognathus
 cantharides
