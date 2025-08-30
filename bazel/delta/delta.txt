@@ -2792,7 +2792,6 @@ dogey
 despumating
 desalinization
 deedbote
-donatory
 decretively
 dictionary
 deprivers
@@ -9327,6 +9326,7 @@ deobstruent
 dietic
 decolorant
 deckedout
+donatory
 dietitians
 dtset
 diplomat
