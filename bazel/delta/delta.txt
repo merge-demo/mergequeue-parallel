@@ -6357,7 +6357,6 @@ dejeune
 dermophobe
 duodenum
 dermosclerite
-dermotropic
 dastardliness
 derms
 defined
@@ -15654,6 +15653,7 @@ donzel
 discovering
 doubt
 divelled
+dermotropic
 diathermize
 donzella
 donzels
