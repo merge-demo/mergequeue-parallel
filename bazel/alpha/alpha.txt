@@ -10344,7 +10344,6 @@ assisa
 adactylia
 ailuromania
 acanthophis
-arendator
 actualizes
 abarticular
 acetates
@@ -11136,6 +11135,7 @@ ascaricide
 amphicarpium
 aluconidae
 amphicarpogenous
+arendator
 amphichroic
 arbustum
 anilopyrin
