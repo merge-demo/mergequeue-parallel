@@ -10566,6 +10566,7 @@ demipagan
 disserviceableness
 ddname
 derate
+dosology
 doorsills
 diplexer
 diazotate
@@ -10656,7 +10657,6 @@ diplonts
 defossion
 diplophase
 difficultness
-dosology
 deviously
 dulias
 drey
