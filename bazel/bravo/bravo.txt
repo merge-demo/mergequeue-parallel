@@ -9006,7 +9006,6 @@ biomedicine
 bondieuserie
 baginda
 biomes
-beanlike
 beavery
 babelike
 besmuts
@@ -10681,6 +10680,7 @@ breakfront
 brooches
 blandisher
 bedarken
+beanlike
 boutell
 buffle
 benton
