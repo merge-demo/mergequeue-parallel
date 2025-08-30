@@ -11378,7 +11378,6 @@ attendants
 assets
 aneroids
 alterations
-apiphobia
 amsath
 antholysis
 autolysis
@@ -18389,6 +18388,7 @@ arbitration
 arbitrative
 ambages
 appetent
+apiphobia
 adzer
 arbitratrix
 acquirements
