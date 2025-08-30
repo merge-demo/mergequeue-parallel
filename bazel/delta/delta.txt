@@ -195,6 +195,7 @@ disaffinity
 diel
 dozen
 daedalous
+dockmaster
 divulgated
 defilable
 decontamination
@@ -8325,7 +8326,6 @@ darkishness
 damoclean
 deprivative
 ditrigonally
-dockmaster
 dugal
 dialectical
 dialectician
