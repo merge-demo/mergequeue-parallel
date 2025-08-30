@@ -20449,7 +20449,6 @@ churada
 conventionalism
 coapting
 comparcioner
-comparers
 clatteringly
 comparing
 comparisons
@@ -24781,6 +24780,7 @@ coquette
 cleome
 cantred
 coquettishly
+comparers
 curlycue
 cholocyanine
 colourfast
