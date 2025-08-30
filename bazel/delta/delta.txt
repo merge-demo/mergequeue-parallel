@@ -3461,7 +3461,6 @@ demobilize
 depressors
 deforces
 dimittis
-deforciant
 detention
 dislikers
 downheartedness
@@ -14274,6 +14273,7 @@ deprivate
 disvisor
 dungs
 dynamoelectric
+deforciant
 donatism
 disvoice
 depopulated
