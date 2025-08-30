@@ -8425,6 +8425,7 @@ alkaptone
 advantage
 ascent
 alkaptonuric
+airproof
 alkarsin
 alkarsine
 alkatively
@@ -9311,7 +9312,6 @@ antilobium
 alphonist
 alphonse
 alphonsin
-airproof
 atonalism
 alphonsine
 alphosis
