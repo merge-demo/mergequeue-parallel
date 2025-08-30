@@ -6359,7 +6359,6 @@ alapa
 anzanian
 antecardium
 allantiasis
-adjuvate
 ahi
 azotometer
 algaesthesis
@@ -7355,6 +7354,7 @@ amban
 albugo
 album
 alces
+adjuvate
 algedonic
 admittee
 abhorrences
