@@ -6722,7 +6722,6 @@ apanages
 admonitor
 amphithurthura
 airmobile
-awry
 airn
 anthropomorphical
 aloadae
@@ -19878,6 +19877,7 @@ arterialized
 anemochoric
 abstrusenesses
 armorless
+awry
 antileukemic
 aplopappus
 apophyge
