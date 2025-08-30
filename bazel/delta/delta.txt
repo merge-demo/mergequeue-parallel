@@ -6264,7 +6264,6 @@ defenser
 dermatomere
 dermatomyces
 dignity
-deploredness
 diplokaryon
 doldrums
 dermatoneurosis
@@ -11273,6 +11272,7 @@ digitigrada
 decurved
 doggone
 dentinocemental
+deploredness
 disboard
 drib
 drawdowns
