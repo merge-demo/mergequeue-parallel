@@ -10113,6 +10113,7 @@ dilatable
 dynamomorphic
 dynamophone
 decentralised
+dactyls
 dynamos
 dynamostatic
 dynamotor
