@@ -14487,6 +14487,7 @@ cyrtometer
 calcavella
 cyrtomium
 cyrtopia
+croplands
 ciruela
 cosets
 cirurgian
@@ -29759,7 +29760,6 @@ crophead
 coinsures
 carpellate
 caesural
-croplands
 cropless
 conjugately
 cincinnatian
