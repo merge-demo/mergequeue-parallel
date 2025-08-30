@@ -445,6 +445,7 @@ bidcock
 beamer
 behaviorism
 backpedal
+basialveolar
 backpedaling
 backpiece
 bolita
@@ -3780,7 +3781,6 @@ babysitting
 borracha
 buncombe
 biocontrol
-basialveolar
 begger
 bobflies
 battute

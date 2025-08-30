@@ -4225,6 +4225,7 @@ capsulotome
 caress
 cir
 caressed
+clition
 captainries
 caresser
 clobberer
@@ -6680,7 +6681,6 @@ celature
 cele
 celeb
 capicha
-clition
 cloamer
 celebrant
 celebrants
