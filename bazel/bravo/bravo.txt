@@ -5789,7 +5789,6 @@ bylining
 bechalked
 bellboys
 belay
-belled
 baggageman
 boomlet
 backlogging
@@ -15579,6 +15578,7 @@ bezette
 buskle
 brittleness
 batrachotoxin
+belled
 belder
 britzska
 branchage

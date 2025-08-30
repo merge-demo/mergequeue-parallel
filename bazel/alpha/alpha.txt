@@ -8298,7 +8298,6 @@ anticomet
 aerodromics
 alisp
 autograph
-alisphenoidal
 antiferroelectric
 alite
 aliter
@@ -20540,6 +20539,7 @@ arthrophlogosis
 anencephaly
 abdaria
 afrikaner
+alisphenoidal
 appete
 abruptiones
 afterchurch
