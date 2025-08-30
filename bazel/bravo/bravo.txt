@@ -5918,7 +5918,6 @@ biased
 bronchophonic
 bared
 belonging
-basisphenoid
 bailiffship
 belongs
 bicameral
@@ -13159,6 +13158,7 @@ borrower
 borrowers
 breakless
 bors
+basisphenoid
 butteriest
 barded
 bridgemaker
