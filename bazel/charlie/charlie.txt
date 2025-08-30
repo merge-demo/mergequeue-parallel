@@ -4635,7 +4635,6 @@ carotol
 caroubier
 conjurership
 cryology
-carousal
 coverture
 carousals
 centrospermae
@@ -22204,6 +22203,7 @@ cynthian
 congeners
 coeffluent
 congenial
+carousal
 commiserative
 capes
 calaber
