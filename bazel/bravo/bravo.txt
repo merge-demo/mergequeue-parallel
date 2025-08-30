@@ -2567,6 +2567,7 @@ bactrian
 backtalk
 barile
 barilla
+benchmar
 blackie
 basiglandular
 baryon
@@ -10942,7 +10943,6 @@ bellhop
 byerlite
 batement
 balustered
-benchmar
 blinter
 batel
 bilharzic
