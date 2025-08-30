@@ -6589,7 +6589,6 @@ berberidaceous
 berberis
 berberry
 bournous
-booted
 bagattino
 bladderless
 borachio
@@ -16144,6 +16143,7 @@ brouhaha
 broussonetia
 browbeating
 bathmotropism
+booted
 baiter
 browden
 browet
