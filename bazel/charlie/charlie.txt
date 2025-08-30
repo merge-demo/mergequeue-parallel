@@ -2019,6 +2019,7 @@ camouflage
 camouflageable
 camouflager
 crossgrainedness
+chirimoya
 contradictorily
 conolophus
 camouflagic
@@ -18372,7 +18373,6 @@ coarct
 countergambit
 creepy
 chatchkas
-chirimoya
 compactedness
 cognition
 cucullated
