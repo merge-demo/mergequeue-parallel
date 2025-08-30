@@ -2860,7 +2860,6 @@ anacromyodian
 advisive
 acrostical
 approvably
-acrostichoid
 acrosticism
 acrostolium
 accoucheur
@@ -3069,6 +3068,7 @@ amrita
 actinozoan
 actinozoon
 ablutions
+acrostichoid
 actins
 archigonocyte
 antimonous
