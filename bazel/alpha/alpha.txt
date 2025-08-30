@@ -2173,7 +2173,6 @@ aerosolizing
 achromatope
 achromatophile
 achromatophilia
-achromatopia
 achromatopsy
 apologizes
 achromatopsia
@@ -9047,6 +9046,7 @@ alluvious
 assortative
 ametropic
 allwhere
+achromatopia
 accipitres
 applejack
 allwork
