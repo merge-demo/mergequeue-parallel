@@ -17670,7 +17670,6 @@ applicative
 applicatively
 applicatory
 applicators
-appliedly
 afterdischarge
 applier
 archpall
@@ -23670,6 +23669,7 @@ arrent
 auslaute
 auspex
 anisopodous
+appliedly
 acetifier
 alto
 auspice
