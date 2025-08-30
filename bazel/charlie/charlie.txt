@@ -18167,7 +18167,6 @@ circumesophagal
 coptis
 coessentiality
 centerless
-coessentially
 coestablishment
 cervulus
 coetaneous
@@ -26042,6 +26041,7 @@ chasuble
 cosymmedian
 compurgator
 cosinage
+coessentially
 cosine
 culverineer
 cosiness

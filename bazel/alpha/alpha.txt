@@ -5980,6 +5980,7 @@ antidotary
 albata
 aliases
 avianized
+apophony
 aglycon
 altair
 aeonian
@@ -13428,7 +13429,6 @@ antisnob
 accomplish
 annihilationistic
 annihilationistical
-apophony
 autocremation
 annihilative
 anonymousness
