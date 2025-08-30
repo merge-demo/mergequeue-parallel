@@ -13583,6 +13583,7 @@ bevatrons
 byssi
 bandanna
 backstage
+biguttulate
 bilskirnir
 bigener
 brin
@@ -17208,7 +17209,6 @@ bumbling
 blueball
 bumboat
 bumclock
-biguttulate
 bludgeoner
 batling
 boltings
