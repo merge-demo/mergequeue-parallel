@@ -3870,6 +3870,7 @@ adjutant
 acicularity
 antimonopoly
 anesthetic
+anfractuous
 adjutator
 adjutor
 antidotically
@@ -11087,7 +11088,6 @@ abetment
 amphibia
 antagonizing
 amphibial
-anfractuous
 amphibian
 amphibians
 ashkenazi
