@@ -5562,7 +5562,6 @@ constabulary
 coptic
 cataloguing
 clankety
-cataloguist
 catalonian
 cataloon
 catalos
@@ -7845,6 +7844,7 @@ copperplate
 cyclorrhaphous
 clinician
 cession
+cataloguist
 chain
 clapotis
 cessionaire
