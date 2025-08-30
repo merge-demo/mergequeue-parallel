@@ -1940,7 +1940,6 @@ deferments
 desire
 dawsonite
 deaccession
-darat
 dissatisfyingly
 daedalian
 doodles
@@ -12492,6 +12491,7 @@ diastereoisomer
 dishome
 dishonor
 dishonorer
+darat
 doctrinairism
 deresinize
 dirhams
