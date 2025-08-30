@@ -8531,7 +8531,6 @@ baar
 barih
 bejeweling
 barabra
-baptism
 bo
 bunting
 bedder
@@ -16128,6 +16127,7 @@ bilbie
 brotherwort
 brotocrystal
 bromoform
+baptism
 betweenwhiles
 brasseries
 bezaleelian
