@@ -7495,6 +7495,7 @@ cephalocaudal
 cerberus
 cercal
 calelectricity
+comprehensibleness
 cercaria
 chivvy
 canroyer
@@ -29787,7 +29788,6 @@ croquignole
 crore
 colloguing
 classman
-comprehensibleness
 crores
 consulary
 comfortability
