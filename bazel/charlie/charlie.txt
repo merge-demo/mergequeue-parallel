@@ -14235,7 +14235,6 @@ ceratobatrachinae
 clumplike
 ccesser
 circumforaneous
-carbuncle
 calebites
 circumfulgent
 circumfuse
@@ -29921,6 +29920,7 @@ criticasterism
 cetid
 calcification
 crossweb
+carbuncle
 cemeterial
 cyclopaedic
 centetidae
