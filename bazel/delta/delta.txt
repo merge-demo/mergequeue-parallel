@@ -9826,6 +9826,7 @@ descendingly
 dillymen
 durangite
 doorstops
+deprecation
 decreasingly
 dissyllabized
 demasculinising
@@ -12182,7 +12183,6 @@ disexcommunicate
 detrition
 dewless
 duckiest
-deprecation
 dreggy
 dramaturgy
 disturbant

@@ -16238,6 +16238,7 @@ camphorize
 clinocephaly
 canonicalness
 charlatanically
+chippage
 cobrother
 clinoclasite
 cashes
@@ -24100,7 +24101,6 @@ conveth
 circumcallosal
 convex
 convexedness
-chippage
 cryptoanalytic
 cecropia
 calcific
