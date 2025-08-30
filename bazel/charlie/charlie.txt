@@ -8441,7 +8441,6 @@ chamorro
 copalcocote
 chromotherapist
 cherished
-chamos
 chamosite
 chamotte
 coarbiter
@@ -21722,6 +21721,7 @@ condominiums
 consistorial
 condoms
 cyanoethylate
+chamos
 condonable
 condonance
 condonation
