@@ -5487,7 +5487,6 @@ ceaselessly
 catacoustics
 cwms
 catacromyodian
-conicein
 ceratothecal
 cardiological
 catadicrotic
@@ -19850,6 +19849,7 @@ comfily
 cuspidation
 comfiness
 coulometrically
+conicein
 comfit
 comfiture
 codlins
