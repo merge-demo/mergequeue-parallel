@@ -928,6 +928,7 @@ danio
 dokimastic
 dudman
 daphni
+dollyway
 deducts
 daphnia
 delible
@@ -3041,7 +3042,6 @@ deep
 deerstalking
 deerweed
 deerweeds
-dollyway
 deescalate
 deepfrozen
 deemphasize
