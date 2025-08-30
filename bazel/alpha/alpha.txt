@@ -2523,7 +2523,6 @@ acousticolateral
 acousticon
 aspheterism
 acousticophobia
-acoustoelectric
 acpt
 anacahuite
 acquaint
@@ -24598,6 +24597,7 @@ antisquatting
 avengeful
 ambage
 adventureship
+acoustoelectric
 avenges
 avenging
 adenoiditis
