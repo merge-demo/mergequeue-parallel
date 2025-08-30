@@ -8661,7 +8661,6 @@ bahada
 birching
 barcas
 branners
-bimalar
 bimana
 boras
 bimanal
@@ -11179,6 +11178,7 @@ bloomless
 baptisia
 bartering
 bacteriocidal
+bimalar
 bucksaws
 blooped
 byways
