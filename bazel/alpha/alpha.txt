@@ -1822,7 +1822,6 @@ acerli
 amalgamater
 admonitorial
 acerolas
-agnosy
 acerous
 acertannin
 acerval
@@ -21758,6 +21757,7 @@ agronomist
 amowt
 aspergilla
 autometamorphosis
+agnosy
 assyriologue
 antitubercular
 astrobiology
