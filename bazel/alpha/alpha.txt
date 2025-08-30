@@ -16631,7 +16631,6 @@ antilogical
 abjuration
 accoutrements
 asserters
-anthraconite
 arkansan
 auricomous
 aphacia
@@ -21703,6 +21702,7 @@ agrope
 assessed
 assession
 assessment
+anthraconite
 assessors
 anthophile
 apotheose
