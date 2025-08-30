@@ -3320,7 +3320,6 @@ dorsosternal
 dogmouth
 dentils
 doles
-dagos
 deturn
 dsect
 defis
@@ -12040,6 +12039,7 @@ diatonic
 dorados
 disemployment
 disenable
+dagos
 disharmony
 dissipating
 disenabled

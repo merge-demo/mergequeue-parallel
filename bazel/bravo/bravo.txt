@@ -3329,6 +3329,7 @@ bursal
 basisphenoidal
 basitemporal
 blippers
+bacalaos
 beguilers
 balao
 besotment
@@ -13895,7 +13896,6 @@ balwarra
 bowlful
 breastworks
 bowline
-bacalaos
 baptizee
 benchmarked
 barehead
