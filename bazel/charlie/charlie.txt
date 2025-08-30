@@ -18832,7 +18832,6 @@ chapt
 cathecting
 curvilinearity
 corymbiform
-codisjunct
 communicational
 cynocephalous
 chaetophoraceae
@@ -23952,6 +23951,7 @@ convene
 comedically
 communaliser
 convened
+codisjunct
 convener
 counterexcommunication
 convenery
