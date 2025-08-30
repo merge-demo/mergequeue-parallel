@@ -5306,6 +5306,7 @@ aforetimes
 ascogonial
 afortiori
 authenticity
+autogenous
 apocatastasis
 afoul
 airable
@@ -5737,7 +5738,6 @@ agenetic
 agenized
 aerial
 agenizing
-autogenous
 agennesis
 agential
 antisyndicalism
