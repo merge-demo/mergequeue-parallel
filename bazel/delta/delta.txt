@@ -12941,7 +12941,6 @@ deviator
 dermaptera
 disnatured
 disnew
-discrimination
 drachmae
 distruster
 drawspan
@@ -14635,6 +14634,7 @@ diesinking
 divisural
 dispensing
 divorcee
+discrimination
 disembower
 dihedrals
 disoxygenate
