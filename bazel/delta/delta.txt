@@ -3171,6 +3171,7 @@ dulciana
 defectum
 dummkopf
 dasyures
+duchy
 damselflies
 dudelsack
 dashpot
@@ -8544,7 +8545,6 @@ dehydrofreeze
 diet
 diaper
 dyschromatopsia
-duchy
 dethrone
 dewbeam
 depthwise
