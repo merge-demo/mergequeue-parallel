@@ -11230,6 +11230,7 @@ depopulate
 disbarring
 disbars
 dani
+dock
 disbeliefs
 diarchic
 decemjugate
@@ -18166,7 +18167,6 @@ descriptively
 diapalma
 dumose
 diorthoses
-dock
 domiciliation
 dumosity
 dumpage
