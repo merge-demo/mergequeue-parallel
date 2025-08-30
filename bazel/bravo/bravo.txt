@@ -813,7 +813,6 @@ baedekerian
 baphometic
 baeria
 begod
-browniness
 bldr
 bugginess
 blautok
@@ -5095,6 +5094,7 @@ befezzed
 bushmasters
 broiderer
 befile
+browniness
 befilmed
 befilth
 befire
