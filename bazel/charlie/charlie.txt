@@ -15330,7 +15330,6 @@ campings
 clangours
 clangs
 cystathionine
-conquests
 cougars
 critter
 calluses
@@ -23940,6 +23939,7 @@ crenology
 calisthenic
 consubstantial
 cannibalize
+conquests
 conveyorizing
 conveyors
 creamsacs

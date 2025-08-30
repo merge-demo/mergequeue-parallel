@@ -331,7 +331,6 @@ abeles
 allochezia
 abrades
 abelia
-abelian
 auletris
 apodia
 abelmosk
@@ -16703,6 +16702,7 @@ abecedarian
 aphodi
 archipterygium
 avant
+abelian
 amphigonia
 adultoid
 aphydrotropic
