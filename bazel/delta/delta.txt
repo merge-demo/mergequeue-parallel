@@ -4025,7 +4025,6 @@ daedalidae
 demur
 deleteriousness
 dirge
-deletions
 diestruses
 disdub
 distaining
@@ -14689,6 +14688,7 @@ divulged
 deputational
 diminuted
 delawarean
+deletions
 diddikai
 dyslalia
 divulger
