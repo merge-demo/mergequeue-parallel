@@ -3501,7 +3501,6 @@ defrayable
 disembarrassment
 dismissable
 digitalizing
-decadarchy
 defrayed
 deperition
 defrayers
@@ -10665,6 +10664,7 @@ diplopod
 diplopoda
 discorrespondent
 delocalization
+decadarchy
 diskophile
 devastating
 divests
