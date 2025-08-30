@@ -1216,7 +1216,6 @@ acanthomas
 acanthomeridae
 acanthopanax
 anlia
-acanthophorous
 aboded
 acanthopodous
 aqueously
@@ -12977,6 +12976,7 @@ anhidrosis
 anhidrotic
 archespsporia
 anhydrotic
+acanthophorous
 anhydroxime
 antispirochetic
 antinovels
