@@ -6974,7 +6974,6 @@ bromism
 benzophenothiazine
 bradyacousia
 beslap
-beslave
 bearherd
 bedsite
 bestrid
@@ -14208,6 +14207,7 @@ brimfull
 blacktop
 bradyseismical
 bradysphygmia
+beslave
 badrans
 bolsheviks
 bowels
