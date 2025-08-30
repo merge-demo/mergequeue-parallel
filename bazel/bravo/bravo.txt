@@ -8067,6 +8067,7 @@ bicrural
 broodiness
 biometrics
 bridecup
+bituminized
 bellypinch
 biculturalism
 billeters
@@ -9917,7 +9918,6 @@ bastardice
 burk
 bituminate
 bituminising
-bituminized
 burnbeat
 bedivere
 bana
