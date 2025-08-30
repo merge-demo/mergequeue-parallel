@@ -6903,6 +6903,7 @@ appraisingly
 apoapsis
 akebia
 actinia
+ataxinomic
 adoniram
 armature
 althorns
@@ -22403,7 +22404,6 @@ albizia
 ataxiagraph
 aequorin
 ataxies
-ataxinomic
 aspiratae
 ataxophemia
 attender
