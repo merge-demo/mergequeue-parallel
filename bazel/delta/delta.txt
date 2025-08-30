@@ -2907,7 +2907,6 @@ downbeat
 dedicating
 disorientating
 dedication
-drafting
 dispurse
 dedicatory
 dedicatorily
@@ -17472,6 +17471,7 @@ demotics
 drosophyllum
 demigod
 drossel
+drafting
 diabology
 dyspituitarism
 drosser
