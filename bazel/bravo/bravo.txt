@@ -12373,7 +12373,6 @@ bombora
 bagie
 belfather
 beswarmed
-bombus
 bombardelle
 bomi
 bomos
@@ -16285,6 +16284,7 @@ brujeria
 botryolite
 bairnish
 benchmarking
+bombus
 balalaikas
 brujos
 beglerbeglik
