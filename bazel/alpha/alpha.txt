@@ -14081,7 +14081,6 @@ accessability
 amy
 anthropomorphological
 apriline
-anorchus
 anteorbital
 albopannin
 augustinian
@@ -22062,6 +22061,7 @@ astigmat
 arabize
 aeroneurosis
 adolescents
+anorchus
 absorbedly
 astigmatometer
 atrocoeruleus
