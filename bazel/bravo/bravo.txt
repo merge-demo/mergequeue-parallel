@@ -12460,6 +12460,7 @@ bonify
 bdls
 brawniness
 bondstone
+bowly
 burntness
 bather
 bagpiped
@@ -13889,7 +13890,6 @@ beedi
 bowles
 balwarra
 bowlful
-bowly
 breastworks
 bowline
 bacalaos
