@@ -5959,7 +5959,6 @@ buyouts
 baccillla
 ballistic
 bemadam
-bushier
 bestrowing
 beltie
 boviform
@@ -8672,6 +8671,7 @@ bimanous
 bisinuate
 bradsot
 bournless
+bushier
 bimanually
 breechloading
 basaltes
