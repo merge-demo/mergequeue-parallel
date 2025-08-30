@@ -20025,7 +20025,6 @@ commended
 coaming
 captiously
 curwillet
-commender
 craftsman
 commending
 commendment
@@ -25100,6 +25099,7 @@ coresonant
 convento
 chincher
 corespect
+commender
 corespondent
 cetylic
 cystoflagellate
