@@ -1814,7 +1814,6 @@ debases
 duyker
 doggoned
 debate
-discourager
 delusterant
 disparts
 dung
@@ -4458,6 +4457,7 @@ delftware
 demerit
 dotonidae
 demiluster
+discourager
 damoetas
 drones
 dago
