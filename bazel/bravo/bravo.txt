@@ -3296,6 +3296,7 @@ bronzes
 balche
 bazar
 basiotripsy
+barrenest
 boobyism
 bookwork
 basipetal
@@ -15592,7 +15593,6 @@ burgundies
 batterable
 brinjal
 buffone
-barrenest
 boatel
 bg
 bryce
