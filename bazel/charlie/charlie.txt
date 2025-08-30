@@ -27710,7 +27710,6 @@ cowtown
 confides
 cox
 cohog
-charting
 coxa
 caryophylleous
 cuttlefishes
@@ -31240,6 +31239,7 @@ coenospecific
 curarines
 crossbanded
 curaris
+charting
 curarization
 clitellum
 chattily
