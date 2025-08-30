@@ -3391,6 +3391,7 @@ buccheros
 branchiopulmonate
 bangiales
 bassalia
+brodeglass
 bootable
 bullnut
 brythonic
@@ -15385,7 +15386,6 @@ baculites
 banns
 brongniardite
 blazon
-brodeglass
 braggishly
 boundary
 bilboes
