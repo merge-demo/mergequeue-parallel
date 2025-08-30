@@ -731,7 +731,6 @@ deadmelt
 dipter
 danceability
 defailment
-danceable
 diaplasma
 demoniacs
 danced
@@ -13230,6 +13229,7 @@ dispiteousness
 decomposed
 diuturnal
 displaceability
+danceable
 dyskinetic
 disleave
 dilly
