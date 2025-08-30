@@ -10173,7 +10173,6 @@ blowflies
 bitreadle
 blackguard
 bos
-betokening
 blup
 buckwasher
 baroreceptor
@@ -17663,6 +17662,7 @@ blackfin
 burlaps
 boomlets
 burleycue
+betokening
 blisterous
 burlesquer
 boviculture
