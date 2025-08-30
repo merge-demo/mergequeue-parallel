@@ -3017,7 +3017,6 @@ cellocut
 cantoning
 cantonize
 colectomy
-countergager
 cantoral
 congested
 cantoria
@@ -26130,6 +26129,7 @@ cosmopolises
 cosmopolitan
 coastline
 cosmopolitanise
+countergager
 charcutiers
 cosmopolitanising
 centurions
