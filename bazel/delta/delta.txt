@@ -16041,7 +16041,6 @@ distant
 dotlet
 derrickman
 doto
-devocalize
 divinail
 disinflation
 doggoneder
@@ -17447,6 +17446,7 @@ decennia
 direction
 dermoneurosis
 disjoinable
+devocalize
 decream
 demanding
 districtly
