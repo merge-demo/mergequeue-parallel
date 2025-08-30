@@ -5207,7 +5207,6 @@ dyscrased
 dolina
 drumbler
 denizenship
-despraise
 dellenite
 dimwittedly
 demicoronal
@@ -9168,6 +9167,7 @@ didym
 decompiler
 devirgination
 didymate
+despraise
 depressives
 dandering
 didymis
