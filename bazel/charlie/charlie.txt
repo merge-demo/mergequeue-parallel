@@ -7120,7 +7120,6 @@ centralised
 convictively
 centralising
 coelosperm
-centrality
 canthi
 conusable
 corrober
@@ -16532,6 +16531,7 @@ clogmaking
 clogwheel
 clogwyn
 clogwood
+centrality
 calvinian
 cloy
 cloyedness
