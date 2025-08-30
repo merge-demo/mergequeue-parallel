@@ -13285,7 +13285,6 @@ aggregational
 anywhither
 anywise
 anywither
-anhalonium
 androgenic
 adscripts
 amucks
@@ -17924,6 +17923,7 @@ approximative
 atomy
 allods
 approximator
+anhalonium
 appt
 arteriotomy
 aggrandise
