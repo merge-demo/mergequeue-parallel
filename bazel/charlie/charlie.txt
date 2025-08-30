@@ -6030,7 +6030,6 @@ catnaps
 catnep
 chilotomy
 catnip
-catnips
 comical
 coroado
 catoblepas
@@ -7000,6 +6999,7 @@ centaur
 centaurdom
 cuvette
 centaurea
+catnips
 carretta
 cantoned
 centauress
