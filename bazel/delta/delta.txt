@@ -147,6 +147,7 @@ dekko
 dinar
 dola
 disrump
+dipcoat
 dyophone
 daddles
 dowdyism
@@ -10435,7 +10436,6 @@ dekkos
 demersion
 dictyostelic
 degradingly
-dipcoat
 disreputable
 dipetto
 dismayingness
