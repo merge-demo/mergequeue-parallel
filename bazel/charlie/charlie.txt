@@ -10715,7 +10715,6 @@ classrooms
 corroder
 chinchy
 chinchillas
-chinchillette
 contracivil
 churnability
 chinchona
@@ -27399,6 +27398,7 @@ caddying
 cobaltic
 couscousou
 cousinage
+chinchillette
 corral
 coffeehoused
 clake
