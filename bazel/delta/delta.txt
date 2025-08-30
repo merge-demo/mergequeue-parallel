@@ -5044,7 +5044,6 @@ denaturalising
 denaturalized
 dueller
 denaturing
-duplicand
 disfigures
 dextrogyrate
 denaturization
@@ -11748,6 +11747,7 @@ dehumidification
 doctrinarian
 disencourage
 declinator
+duplicand
 dashy
 discourteousness
 discoach
