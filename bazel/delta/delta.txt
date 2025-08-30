@@ -2235,6 +2235,7 @@ drivescrew
 doris
 dreint
 deaminase
+duci
 drch
 danes
 dishelm
@@ -2680,7 +2681,6 @@ diatessaron
 dejectly
 decontaminators
 dvornik
-duci
 diskless
 derails
 dressmakership
