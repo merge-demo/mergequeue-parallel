@@ -12294,7 +12294,6 @@ androgens
 anticomplex
 anisylidene
 androgyn
-androgynal
 arillode
 androgyne
 androgynia
@@ -19231,6 +19230,7 @@ areopagite
 areopagitica
 alaite
 astacus
+androgynal
 amplexation
 anodine
 areostyle
