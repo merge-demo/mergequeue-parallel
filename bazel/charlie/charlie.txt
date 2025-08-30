@@ -22069,6 +22069,7 @@ conformably
 conformal
 complexed
 crosstalk
+connusable
 cloyne
 consistence
 clamorously
@@ -22178,7 +22179,6 @@ congealing
 counterrate
 contraband
 cresotate
-connusable
 characterizer
 campanularian
 choicer
