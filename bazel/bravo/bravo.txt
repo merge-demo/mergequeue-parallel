@@ -7761,6 +7761,7 @@ bursarship
 balcon
 babylonian
 byronist
+banding
 bravure
 biacid
 basoko
@@ -15392,7 +15393,6 @@ breaststroker
 breadberry
 buttressing
 bodoni
-banding
 babyish
 brannerite
 bereaved
