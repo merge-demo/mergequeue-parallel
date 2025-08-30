@@ -4049,7 +4049,6 @@ boti
 beamers
 beamfilling
 beeware
-bivalvous
 beamhouse
 bibliophobe
 backbreaker
@@ -6171,6 +6170,7 @@ badaxe
 bolshevizing
 bitolyl
 biggonet
+bivalvous
 baikalite
 boof
 budgereegah
