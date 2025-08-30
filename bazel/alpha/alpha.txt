@@ -8479,7 +8479,6 @@ analytical
 assise
 amylophagia
 availabile
-all
 afterfall
 allabuta
 antiphonal
@@ -17381,6 +17380,7 @@ anaesthatic
 aldimine
 abstracter
 apoxesis
+all
 apoxyomenos
 apozem
 angiostomize
