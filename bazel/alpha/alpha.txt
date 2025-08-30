@@ -4659,6 +4659,7 @@ attributes
 aepyornithiformes
 aggrieves
 alsatian
+austerities
 alycompaine
 arvicolous
 aeq
@@ -20295,7 +20296,6 @@ anotus
 arsenopyrite
 aquaemanalia
 arsenostyracol
-austerities
 arcsines
 autopsist
 autoradiography
