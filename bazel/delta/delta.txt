@@ -1926,7 +1926,6 @@ dowser
 danzig
 dustbins
 dissenterism
-dances
 defendant
 discigerous
 debris
@@ -18598,6 +18597,7 @@ delphian
 dustcart
 devocalisation
 dianoetical
+dances
 dustcover
 diatonicism
 dustee
