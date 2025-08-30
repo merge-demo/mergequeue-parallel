@@ -5230,7 +5230,6 @@ breezed
 bettong
 backfatter
 befuddle
-befuddled
 befuddler
 boxberries
 befuddling
@@ -11416,6 +11415,7 @@ babuma
 boatheader
 bairnliest
 bluepoint
+befuddled
 bluepoints
 blazingly
 bluesy
