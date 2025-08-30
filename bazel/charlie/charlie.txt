@@ -14321,7 +14321,6 @@ conferring
 cevadilla
 conamed
 circumrotate
-circumrotated
 cuneonavicular
 circumrotatory
 circumsail
@@ -28820,6 +28819,7 @@ circumarctic
 calsouns
 crevasses
 chubasco
+circumrotated
 crumblement
 crevette
 creviced
