@@ -8916,6 +8916,7 @@ acaena
 aureolas
 allosome
 allosteric
+alumian
 allotelluric
 anthropomorphising
 annihilated
@@ -16985,7 +16986,6 @@ apocyte
 apocopate
 apocopated
 apocopating
-alumian
 artily
 assignments
 alcid
