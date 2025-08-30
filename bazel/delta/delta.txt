@@ -698,7 +698,6 @@ dyspepsy
 doumaist
 distributes
 damselfishes
-damsels
 demist
 damsons
 dan
@@ -4527,6 +4526,7 @@ demiculverin
 dodgiest
 degree
 divulsed
+damsels
 demidistance
 diaphane
 diabetogenic
