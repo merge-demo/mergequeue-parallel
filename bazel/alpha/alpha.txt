@@ -5341,6 +5341,7 @@ arrange
 algometry
 afrikanderdom
 afrit
+ampulla
 armary
 adored
 agaces
@@ -15203,7 +15204,6 @@ advocatory
 angiocarpian
 anthophila
 acanthuses
-ampulla
 ademption
 amphithyrons
 accent
