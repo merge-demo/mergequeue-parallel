@@ -3223,7 +3223,6 @@ basidiosporous
 batiked
 bodiless
 bellowslike
-backwoodsman
 bathtub
 bipontine
 basifugal
@@ -6781,6 +6780,7 @@ busulfan
 berrichonne
 bosquet
 blockheaded
+backwoodsman
 berrier
 berries
 burnished
