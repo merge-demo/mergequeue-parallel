@@ -15608,7 +15608,6 @@ clatter
 cartographers
 clattered
 coxcombries
-countering
 clatterer
 crucifier
 clattery
@@ -19284,6 +19283,7 @@ colony
 colonial
 colonialised
 crabbier
+countering
 cabezones
 coresidence
 chelem
