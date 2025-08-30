@@ -293,6 +293,7 @@ agas
 abdominothoracic
 acquiescent
 abducens
+acquitted
 abducentes
 abduces
 articulate
@@ -8106,7 +8107,6 @@ adermia
 alice
 anthropogenist
 amishgo
-acquitted
 abyssal
 alichino
 anarchial
