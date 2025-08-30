@@ -1000,7 +1000,6 @@ aquitanian
 affluxes
 abstractions
 abstractitious
-abstractive
 athenianly
 antimethodic
 anablepses
@@ -21522,6 +21521,7 @@ algolagnist
 asquare
 anlage
 approvable
+abstractive
 asquint
 anallagmatis
 authorising
