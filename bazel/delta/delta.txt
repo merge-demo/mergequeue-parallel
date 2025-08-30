@@ -1190,7 +1190,6 @@ decrementing
 dasyuridae
 dasyurine
 dactylopatagium
-dassent
 dicaeology
 deervetch
 dodecaphony
@@ -15122,6 +15121,7 @@ doggerel
 daphnioid
 doggerelism
 doggerelist
+dassent
 diversly
 desperate
 doggerelizing
