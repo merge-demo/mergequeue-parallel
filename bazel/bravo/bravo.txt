@@ -10102,6 +10102,7 @@ blackband
 befallen
 blackberrylike
 bacchant
+begulf
 berbers
 bootleggers
 buphthalmia
@@ -10954,7 +10955,6 @@ boehmenite
 bliss
 bitterness
 branchiostegous
-begulf
 bucketshop
 birdcatcher
 bromocamphor
