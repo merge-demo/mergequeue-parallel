@@ -133,7 +133,6 @@ babylonize
 becard
 biological
 balsamaceous
-boarder
 boomer
 biriani
 babion
@@ -16970,6 +16969,7 @@ bulgingly
 breakables
 buggess
 bulimias
+boarder
 bronchiostenosis
 biconsonantal
 broomtail
