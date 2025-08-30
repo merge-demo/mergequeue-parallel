@@ -1565,7 +1565,6 @@ dyssodia
 deadfalls
 deviler
 dim
-deadhearted
 denominant
 deadheartedly
 diagenetic
@@ -5290,6 +5289,7 @@ disher
 darkener
 dentalia
 dentalism
+deadhearted
 decultivate
 droitsman
 dysmorphism
