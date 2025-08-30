@@ -7290,7 +7290,6 @@ desolateness
 discompt
 deglutinated
 dowage
-diffusivity
 dollies
 diaxone
 disturbor
@@ -18533,6 +18532,7 @@ diaplex
 decollated
 disorganizers
 dualism
+diffusivity
 duressor
 deglutitive
 drivage
