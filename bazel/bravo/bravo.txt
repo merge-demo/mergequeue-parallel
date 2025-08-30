@@ -6054,7 +6054,6 @@ baccarats
 bowenite
 bradyphasia
 blanquillos
-balarama
 bole
 bilabial
 bemocking
@@ -6389,6 +6388,7 @@ benziminazole
 bethinking
 benzine
 blackfly
+balarama
 bubbliness
 bromacetate
 busynesses
