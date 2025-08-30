@@ -4139,7 +4139,6 @@ delinter
 deliquescing
 deliquiate
 deliquium
-demisolde
 demagnetised
 dianthuses
 debye
@@ -8032,6 +8031,7 @@ dialects
 defences
 dynasticism
 derbylite
+demisolde
 defenestration
 dietician
 duomi
