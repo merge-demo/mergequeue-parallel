@@ -16951,6 +16951,7 @@ cosignitary
 clupeids
 creatureliness
 classis
+cotes
 cachalot
 caviar
 clupien
@@ -26343,7 +26344,6 @@ coterie
 ciminite
 concavities
 centipoise
-cotes
 cycloidian
 cementlike
 cothon
