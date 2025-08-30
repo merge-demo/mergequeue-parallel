@@ -2822,6 +2822,7 @@ ancylopoda
 aeolipyle
 archimpressionist
 anilopyrine
+aircraftswoman
 amidopyrine
 adaptation
 achromatin
@@ -6641,7 +6642,6 @@ aircraftsman
 aneurine
 affrontiveness
 aircraftsmen
-aircraftswoman
 aircraftwoman
 aircrew
 agrimonia
