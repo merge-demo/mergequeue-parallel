@@ -1150,7 +1150,6 @@ boatload
 bracteolate
 bagful
 brindled
-bluethroat
 brewmaster
 boyg
 belonesite
@@ -9433,6 +9432,7 @@ birgand
 burnetize
 bedirties
 bourride
+bluethroat
 birkeniidae
 birky
 birkremite
