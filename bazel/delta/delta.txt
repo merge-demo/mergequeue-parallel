@@ -5344,7 +5344,6 @@ dysteleology
 displant
 deadheadism
 dentelure
-duftry
 dealable
 dorsoventrad
 dorsimesal
@@ -8761,6 +8760,7 @@ disproportionateness
 diatomales
 dinmont
 dedicated
+duftry
 diatomeae
 diatomicity
 duetted
