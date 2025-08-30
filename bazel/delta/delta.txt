@@ -3811,7 +3811,6 @@ deign
 describes
 disunities
 deigned
-diwan
 deliveryman
 defail
 denigrative
@@ -5399,6 +5398,7 @@ dish
 diamonds
 drown
 duodecimality
+diwan
 denuclearized
 desegregating
 deyhouse
