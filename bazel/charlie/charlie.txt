@@ -102,6 +102,7 @@ cabiai
 canephorus
 cronish
 cabildo
+chloropicrin
 cabildos
 cabined
 curucui
@@ -11353,7 +11354,6 @@ compulsive
 changelessly
 chlorophora
 cameralist
-chloropicrin
 chloroplast
 chloroplastic
 chloroplasts
