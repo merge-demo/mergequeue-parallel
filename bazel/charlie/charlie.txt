@@ -2444,7 +2444,6 @@ cancroid
 clientele
 contuse
 crystallitic
-cancrum
 cancrums
 congruously
 cand
@@ -3921,6 +3920,7 @@ carcajou
 chopped
 carcajous
 chelas
+cancrum
 castor
 carcake
 carcanet
