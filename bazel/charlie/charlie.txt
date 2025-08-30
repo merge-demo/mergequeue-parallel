@@ -18739,7 +18739,6 @@ coistrels
 craters
 cinnamal
 centeredly
-colchicin
 colchicum
 clavichords
 crispily
@@ -26658,6 +26657,7 @@ counterarch
 compulsative
 chaityas
 chende
+colchicin
 cloisters
 counterassociation
 cammock
