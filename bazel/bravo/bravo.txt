@@ -5434,7 +5434,6 @@ behallow
 bowldering
 betwit
 behammer
-beshine
 breads
 behap
 boarstaff
@@ -12742,6 +12741,7 @@ bistort
 bucorvinae
 becloaked
 bioelectric
+beshine
 blowcase
 bullneck
 biparous
