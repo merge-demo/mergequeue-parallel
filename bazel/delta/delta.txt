@@ -5639,7 +5639,6 @@ dephlogisticate
 dess
 dephlogisticated
 disinclose
-dephlogistication
 darst
 displuming
 disseveration
@@ -12516,6 +12515,7 @@ deipnodiplomatic
 dowsers
 dimethylmethane
 dagon
+dephlogistication
 dishwasher
 dishwashings
 dibromobenzene

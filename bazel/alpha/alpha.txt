@@ -3959,7 +3959,6 @@ admiration
 apatheia
 ailurophilia
 atomise
-apposable
 allylic
 afric
 admired
@@ -13002,6 +13001,7 @@ autognosis
 acronical
 ascus
 anil
+apposable
 anilau
 annealed
 ayahs
