@@ -9751,7 +9751,6 @@ appale
 anthologist
 azimethylene
 amaranthine
-ataraxy
 aforeward
 angioglioma
 amaranthus
@@ -16055,6 +16054,7 @@ agateware
 accipiter
 asset
 ascertainable
+ataraxy
 archine
 advection
 anabaptizing
