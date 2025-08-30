@@ -22206,7 +22206,6 @@ abbr
 astrocytomas
 ailerons
 anal
-anhaline
 aplanat
 avifaunally
 atmologist
@@ -24608,6 +24607,7 @@ aveniform
 astatic
 anticreation
 ammonium
+anhaline
 aegithognathism
 avenolith
 avenses
