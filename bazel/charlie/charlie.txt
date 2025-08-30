@@ -19702,6 +19702,7 @@ combater
 combaters
 combating
 combative
+copartnery
 combativeness
 citizenship
 chrysanthemum
@@ -27637,7 +27638,6 @@ claviole
 chromatophilia
 cowhorn
 camiscia
-copartnery
 cowhouse
 ciconiae
 chamaesyce
