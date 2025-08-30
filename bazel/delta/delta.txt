@@ -6416,7 +6416,6 @@ drung
 decenter
 disencumbered
 denizening
-dismemberments
 debellation
 derrises
 duce
@@ -9311,6 +9310,7 @@ dietetic
 dysodontiasis
 decreation
 dismarketed
+dismemberments
 dulcimore
 displode
 defilading

@@ -9161,6 +9161,7 @@ charwomen
 chaseable
 chased
 corbeilles
+cocitizen
 chases
 chashitsu
 chasm
@@ -17671,7 +17672,6 @@ contingentiam
 cocircular
 cultrirostres
 catodont
-cocitizen
 cocitizenship
 cockade
 colour
