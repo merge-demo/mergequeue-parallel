@@ -1917,6 +1917,7 @@ bubonalgia
 bandanas
 bergama
 bediademed
+buggyman
 barken
 bandoleer
 burlesquely
@@ -13219,7 +13220,6 @@ botryoidal
 bosomed
 beading
 buzzers
-buggyman
 boxberry
 buggier
 barbels
