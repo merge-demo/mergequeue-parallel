@@ -5439,6 +5439,7 @@ aftermass
 amomum
 aphidians
 agednesses
+alertly
 affodill
 auriculo
 azox
@@ -7817,7 +7818,6 @@ anticrepuscule
 alerters
 autotropically
 alerting
-alertly
 ales
 anion
 alesan
