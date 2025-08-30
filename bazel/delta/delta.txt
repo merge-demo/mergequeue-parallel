@@ -4072,6 +4072,7 @@ delicense
 desiccant
 deliciae
 deliciouses
+dedications
 debouches
 delict
 deliquescence
@@ -13678,7 +13679,6 @@ documentarian
 dissyllabised
 dunes
 dissyllabizing
-dedications
 dissyllable
 dialecticism
 dashboard
