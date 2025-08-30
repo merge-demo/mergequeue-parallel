@@ -10069,7 +10069,6 @@ cabinda
 chesses
 chessylite
 chessist
-chirimen
 chessner
 chessom
 claves
@@ -28835,6 +28834,7 @@ combo
 coventries
 coadunated
 comparator
+chirimen
 cardiacean
 chrysocolla
 chiffrobe
