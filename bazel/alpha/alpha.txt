@@ -2906,7 +2906,6 @@ appendages
 allophanic
 ashless
 antozonite
-antiheroism
 actinias
 actinic
 actinide
@@ -15833,6 +15832,7 @@ anglers
 altho
 annotations
 antidynasty
+antiheroism
 amazingly
 anaretical
 antipragmatism
