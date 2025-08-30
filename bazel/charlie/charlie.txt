@@ -2248,6 +2248,7 @@ catchwords
 counterlathing
 centaurus
 coalescency
+clinger
 canadine
 corresponds
 canadite
@@ -16198,7 +16199,6 @@ counterreligion
 cline
 clines
 caudexes
-clinger
 crankness
 clingfishes
 contravenes
