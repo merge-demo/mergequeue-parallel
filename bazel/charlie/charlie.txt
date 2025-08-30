@@ -17237,6 +17237,7 @@ caperer
 coalification
 cephalostyle
 clinopinacoidal
+culices
 coalifies
 coalifying
 coalite
@@ -30761,7 +30762,6 @@ chousing
 culett
 climatologic
 culeus
-culices
 cramble
 cytoparaplastin
 culicifugal
