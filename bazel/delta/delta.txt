@@ -1241,6 +1241,7 @@ dextrines
 dialyzers
 diapasonal
 dermatoskeleton
+diallelus
 dreggier
 daystars
 dieb
@@ -8412,7 +8413,6 @@ dt
 decimetres
 darns
 dishonorably
-diallelus
 dysphasic
 drowned
 diallings
