@@ -5791,6 +5791,7 @@ bechalked
 bellboys
 belay
 baggageman
+billabong
 boomlet
 backlogging
 bearably
@@ -8526,7 +8527,6 @@ bo
 bunting
 bedder
 bradycardia
-billabong
 barricading
 billboards
 billbug
