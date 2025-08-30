@@ -389,7 +389,6 @@ coronels
 cacorhythmic
 cacorrhachis
 coterminous
-coelevate
 circumvents
 curns
 copalche
@@ -10295,6 +10294,7 @@ chickamauga
 chickasaw
 catechumenically
 chickees
+coelevate
 chickell
 chicken
 chainsmen
