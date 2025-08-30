@@ -7178,7 +7178,6 @@ bierstube
 bestay
 burleys
 bestand
-bestatued
 burrito
 brogues
 bacteriocyte
@@ -9399,6 +9398,7 @@ bluegums
 belabours
 browpiece
 braider
+bestatued
 biophotometer
 bouncily
 bullyhuff
