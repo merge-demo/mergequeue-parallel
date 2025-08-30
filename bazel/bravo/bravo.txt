@@ -937,7 +937,6 @@ bdellotomy
 bowstaff
 ballplayers
 backhoe
-bagpipers
 bandyball
 bardiglio
 boscage
@@ -6959,6 +6958,7 @@ babblement
 beshroud
 bensil
 bigmitt
+bagpipers
 borlase
 bundook
 bellis
