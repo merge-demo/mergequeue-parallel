@@ -18632,7 +18632,6 @@ archcritic
 amblyopia
 archcrown
 aliipoe
-arointed
 arthrosterigma
 amerveil
 archd
@@ -25313,6 +25312,7 @@ azohumic
 azoic
 appellancy
 azoles
+arointed
 azon
 ambreate
 adrenal
