@@ -4198,7 +4198,6 @@ coronated
 carecloth
 cadetcy
 cared
-conversant
 careens
 cryptomonadina
 career
@@ -27005,6 +27004,7 @@ counterprocess
 counterproductive
 counterproductively
 counterprogramming
+conversant
 counterproject
 cookie
 counterpronunciamento
