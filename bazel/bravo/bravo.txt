@@ -13252,6 +13252,7 @@ bedstaff
 bokard
 bossily
 bowler
+buckra
 bucketfuls
 bostanji
 buffering
@@ -16414,7 +16415,6 @@ bumpkinish
 bluejack
 burrhel
 biscacha
-buckra
 borasque
 bruskly
 bozal
