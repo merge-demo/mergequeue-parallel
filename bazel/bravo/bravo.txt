@@ -8635,6 +8635,7 @@ billtong
 basins
 brachiating
 bilobe
+bespawl
 besiegingly
 bilobed
 bilocular
@@ -13662,7 +13663,6 @@ bourdons
 bourg
 beckoned
 befoolable
-bespawl
 bourgade
 barble
 bonailie
