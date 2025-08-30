@@ -8944,6 +8944,7 @@ collective
 clements
 chargeably
 chargeant
+craniomaxillary
 chemopause
 charged
 cupping
@@ -28095,7 +28096,6 @@ cleistotcia
 calibrations
 communitorium
 craniomalacia
-craniomaxillary
 cataloging
 craniometry
 championship
