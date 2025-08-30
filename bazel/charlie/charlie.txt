@@ -7469,7 +7469,6 @@ crinch
 ceratophyllum
 ceratophyta
 colocephalous
-caneware
 crozier
 ceratopsian
 calapitte
@@ -24030,6 +24029,7 @@ competency
 coactor
 crimpy
 conversational
+caneware
 conversationalists
 conversationally
 conversationism
