@@ -9653,7 +9653,6 @@ concursus
 chapaties
 chocard
 cheeselep
-cheeselip
 cephalochorda
 cheesemaker
 cheesemongery
@@ -25610,6 +25609,7 @@ colombian
 confinedness
 completed
 corpuscularity
+cheeselip
 corpuscule
 corpusculous
 concedes
