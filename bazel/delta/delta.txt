@@ -5199,6 +5199,7 @@ dolmens
 denizenation
 diquats
 dyscrased
+dolina
 drumbler
 denizenship
 despraise
@@ -11427,7 +11428,6 @@ disciplinable
 dishfuls
 deferentectomy
 dippers
-dolina
 disciplinableness
 diabetic
 disciplinal
