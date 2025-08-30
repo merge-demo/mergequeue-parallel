@@ -14114,6 +14114,7 @@ distribute
 dolichocephalic
 dandriffs
 distributer
+deglute
 distributing
 dispace
 distribution
@@ -14968,7 +14969,6 @@ dowitcher
 dolorifuge
 dependencies
 dialectologic
-deglute
 dodded
 dodder
 differingly
