@@ -606,7 +606,6 @@ abolished
 acacetin
 abolisher
 anagraph
-atelomitic
 anathematism
 astigmatism
 alastrim
@@ -7471,6 +7470,7 @@ acounter
 amoskeag
 abote
 alcalde
+atelomitic
 anthropocentricity
 alcaldes
 aculeated
