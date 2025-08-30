@@ -15329,7 +15329,6 @@ brighten
 brainwork
 brightish
 brightsmith
-banged
 bandannaed
 bertha
 bechauffeur
@@ -16195,6 +16194,7 @@ beachmen
 bubo
 blockading
 bluenesses
+banged
 brownouts
 beggarweed
 bhajan
