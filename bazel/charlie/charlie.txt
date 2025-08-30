@@ -22542,7 +22542,6 @@ commotion
 connatural
 connaturality
 cultelli
-connectibility
 cryptanalysis
 connaturalize
 cosech
@@ -30144,6 +30143,7 @@ crucify
 crucificial
 counterbond
 crucifies
+connectibility
 compressor
 compursion
 cogue
