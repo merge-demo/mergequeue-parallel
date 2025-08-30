@@ -5163,7 +5163,6 @@ alligation
 affine
 anteporch
 antiatheistically
-affined
 affinely
 alogia
 acromiodeltoid
@@ -12427,6 +12426,7 @@ antivice
 anticonformities
 allecret
 accessively
+affined
 abrocoma
 apaturia
 attask
