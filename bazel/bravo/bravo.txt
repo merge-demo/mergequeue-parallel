@@ -2445,7 +2445,6 @@ beshawled
 boding
 benignantly
 bathic
-brawner
 bareges
 beery
 baboodom
@@ -16668,6 +16667,7 @@ bedfoot
 bucktooth
 beggingwise
 bucktoothed
+brawner
 bemba
 betokened
 boget
