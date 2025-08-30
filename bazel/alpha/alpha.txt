@@ -12411,6 +12411,7 @@ anemometrographically
 alfilaria
 azoturia
 anemonal
+amylohydrolytic
 anemone
 aerography
 anticreator
@@ -20108,7 +20109,6 @@ arrases
 arrastra
 acidulation
 arratel
-amylohydrolytic
 asclepieion
 apothem
 arrau
