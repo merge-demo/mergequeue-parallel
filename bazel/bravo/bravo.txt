@@ -12476,6 +12476,7 @@ bone
 bejaundice
 boydom
 bonebreaker
+bagatelle
 boned
 bonedry
 bonefish
@@ -12586,7 +12587,6 @@ bonnocks
 bonnwis
 bonorum
 bisector
-bagatelle
 bills
 brainchild
 brigantine
