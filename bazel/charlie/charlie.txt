@@ -825,7 +825,6 @@ cainitic
 cayos
 caique
 caiquejee
-caiques
 cairene
 cairn
 cairned
@@ -3599,6 +3598,7 @@ caracara
 carack
 caracks
 caracoa
+caiques
 cumanagoto
 curtaxe
 caracol
