@@ -16978,7 +16978,6 @@ centrex
 colpeo
 caprella
 clerestories
-clutching
 cymbaleer
 candela
 clutchingly
@@ -19422,6 +19421,7 @@ colorings
 conges
 colorisms
 count
+clutching
 cystous
 coloristically
 cadded

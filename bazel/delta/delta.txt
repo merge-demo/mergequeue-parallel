@@ -9020,7 +9020,6 @@ disobeyers
 dicyclies
 disqualifies
 dicyemata
-diarchies
 disconcerting
 dicyemidae
 dissolvent
@@ -10910,6 +10909,7 @@ dicaryophyte
 damns
 drudging
 disfavor
+diarchies
 dirty
 debat
 dirtied
