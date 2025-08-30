@@ -476,6 +476,7 @@ demisecond
 daysides
 deprevation
 daysmen
+disaffect
 dayspring
 direst
 deplorer
@@ -15766,7 +15767,6 @@ decollator
 doric
 dopped
 detractiveness
-disaffect
 dopper
 dopperbird
 disespouse
