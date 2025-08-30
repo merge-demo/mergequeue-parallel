@@ -3567,6 +3567,7 @@ caqueterie
 corniest
 cioppino
 chagrinned
+clansman
 charadriiform
 carabaos
 cowgirl
@@ -12054,7 +12055,6 @@ creatively
 coll
 cymbalo
 cerfoil
-clansman
 casula
 chose
 chophouses
