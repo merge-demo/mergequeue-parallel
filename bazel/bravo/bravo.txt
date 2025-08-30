@@ -2423,6 +2423,7 @@ bardolph
 barbion
 bestrow
 brotherhood
+bowwows
 bards
 bardship
 backaching
@@ -17926,7 +17927,6 @@ bangle
 bedsides
 breezes
 buffo
-bowwows
 belga
 bushwack
 bonewood
