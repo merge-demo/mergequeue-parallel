@@ -4359,7 +4359,6 @@ diode
 discriminous
 demanded
 dissyllabized
-dewlap
 descrier
 disburden
 defatigable
@@ -9979,6 +9978,7 @@ denticulation
 daintily
 diminuent
 drossiness
+dewlap
 denunciative
 ducatoon
 distances
