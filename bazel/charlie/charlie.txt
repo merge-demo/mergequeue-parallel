@@ -9573,7 +9573,6 @@ coutumier
 cheeful
 chanfrin
 cheefuller
-cheek
 cheekbones
 counteracting
 cheekfuls
@@ -28935,6 +28934,7 @@ compositions
 cynomorphous
 cochair
 cricotus
+cheek
 criddle
 cried
 criey
