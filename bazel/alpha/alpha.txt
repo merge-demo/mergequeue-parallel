@@ -400,7 +400,6 @@ asbestinize
 auxohormone
 abidances
 abide
-anlaut
 abider
 advisability
 abie
@@ -10719,6 +10718,7 @@ amyxorrhea
 ashthroat
 architis
 amlacra
+anlaut
 amlet
 amlikar
 amlong
