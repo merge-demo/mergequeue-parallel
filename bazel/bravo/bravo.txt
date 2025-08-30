@@ -9054,7 +9054,6 @@ bemire
 brickmaking
 bethumps
 bunching
-biopoiesis
 bonzery
 bolloxed
 bipectinated
@@ -15687,6 +15686,7 @@ bibitory
 broch
 brochant
 brochantite
+biopoiesis
 bananaquit
 beneficiating
 broche
