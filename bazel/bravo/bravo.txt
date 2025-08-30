@@ -9791,7 +9791,6 @@ blandest
 bromatology
 buries
 bocca
-bitable
 bidialectal
 bytalks
 bitanhol
@@ -16419,6 +16418,7 @@ biscacha
 borasque
 bruskly
 bozal
+bitable
 breathableness
 bequote
 bulbomedullary
