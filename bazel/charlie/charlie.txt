@@ -4188,6 +4188,7 @@ cardsharp
 cardsharping
 chlorites
 contrade
+cocoyam
 cavaliered
 chinatown
 cunni
@@ -17711,7 +17712,6 @@ cocobola
 cocobolas
 comeupance
 cocobolos
-cocoyam
 cocomat
 coconnection
 coconscious
