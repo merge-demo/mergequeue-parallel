@@ -9376,7 +9376,6 @@ chavender
 compart
 chavicin
 chomp
-chiot
 chavicol
 cautelousness
 cowedly
@@ -26480,6 +26479,7 @@ cottonseeds
 camomile
 cephalopodic
 cottontails
+chiot
 cabuyas
 crankism
 cassias
