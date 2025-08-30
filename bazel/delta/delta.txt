@@ -3787,6 +3787,7 @@ deictical
 dissevered
 decommissions
 devilkin
+dephase
 dreissiger
 dunno
 dewworm
@@ -12656,7 +12657,6 @@ dankness
 daud
 disintrench
 deodorise
-dephase
 dae
 disinvagination
 deepfroze
