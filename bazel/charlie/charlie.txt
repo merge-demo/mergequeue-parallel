@@ -4944,7 +4944,6 @@ costrel
 chiclero
 canalman
 conceptuality
-crystallizing
 chevrony
 cartulary
 cartularies
@@ -30933,6 +30932,7 @@ culvers
 culverwort
 cum
 cants
+crystallizing
 cumay
 currack
 cumal
