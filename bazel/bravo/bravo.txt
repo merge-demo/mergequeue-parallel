@@ -7660,6 +7660,7 @@ bargain
 bezants
 bezazzes
 becloaking
+befooled
 brahmany
 boe
 butterflyer
@@ -7813,7 +7814,6 @@ bronzy
 bouet
 bursautee
 bibbing
-befooled
 bibble
 bamboozle
 bibbler

@@ -3069,6 +3069,7 @@ daddock
 degradand
 defaces
 disennoble
+diminutal
 decongestive
 diminutiveness
 defacing
@@ -8375,7 +8376,6 @@ diplumbic
 dichotomization
 dimerizing
 dermamycosis
-diminutal
 deplanes
 dirging
 dialysable
