@@ -5234,7 +5234,6 @@ boxberries
 befuddling
 beautyship
 ballistophobia
-bumpkinet
 berating
 bardish
 bacteriostatic
@@ -16433,6 +16432,7 @@ bridal
 brusure
 bentang
 bandies
+bumpkinet
 bluntie
 bewitchedness
 bedlamism
