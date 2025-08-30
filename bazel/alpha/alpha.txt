@@ -6451,6 +6451,7 @@ alectrionidae
 americanumancestors
 aigialosaur
 aigialosauridae
+aluco
 aigialosaurus
 antasthenic
 apolarity
@@ -9513,7 +9514,6 @@ anisomeles
 alture
 altus
 algivorous
-aluco
 alpaca
 antiepiscopist
 aluconinae
