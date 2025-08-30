@@ -10515,7 +10515,6 @@ bromal
 buttonhold
 belligerent
 badasses
-blastula
 boswellia
 blastulation
 briton
@@ -15397,6 +15396,7 @@ babyish
 brannerite
 bereaved
 batonnier
+blastula
 bindheimite
 bystander
 brimly
