@@ -6543,7 +6543,6 @@ divorce
 descries
 dodgers
 descript
-dogsled
 descriptionless
 dangleberry
 distensile
@@ -12523,6 +12522,7 @@ disoccupying
 dishwatery
 deracinate
 declassifying
+dogsled
 doubtably
 dancette
 dexterity
