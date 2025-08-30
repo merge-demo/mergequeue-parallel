@@ -12239,6 +12239,7 @@ camphorphorone
 cardings
 chrysosperm
 chrysosplenium
+conferval
 chrysothrix
 chrysotile
 chrysotis
@@ -21889,7 +21890,6 @@ corpusculated
 chamberwoman
 chillers
 confervae
-conferval
 combe
 cavalero
 clof
