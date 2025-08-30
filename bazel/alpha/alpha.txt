@@ -2000,7 +2000,6 @@ antiexpressionistic
 agglutinating
 ancientness
 acropathology
-amidoxy
 achafe
 achagua
 amoret
@@ -21454,6 +21453,7 @@ aspics
 aspidiaria
 aspidinol
 aladdinize
+amidoxy
 angioataxia
 aspidiske
 autotypies
