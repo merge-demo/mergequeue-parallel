@@ -2514,7 +2514,6 @@ astringence
 alumins
 aljamiah
 arctomys
-acoumetry
 adjection
 acouometer
 acoup
@@ -25025,6 +25024,7 @@ awninged
 akala
 awnings
 awnless
+acoumetry
 assassinated
 ablepsia
 archical
