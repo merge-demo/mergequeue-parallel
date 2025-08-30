@@ -4005,7 +4005,6 @@ cardamom
 cicatrise
 centenary
 cardamons
-cardamum
 cardanol
 churchgrith
 chymist
@@ -9516,6 +9515,7 @@ checkmating
 cautioning
 circumferences
 checkpoint
+cardamum
 checkpointed
 checkpointing
 chahars
