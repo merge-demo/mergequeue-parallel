@@ -4171,7 +4171,6 @@ cardoon
 calzones
 conure
 cardoons
-cardophagus
 clearwing
 carbamido
 carnet
@@ -22482,6 +22481,7 @@ conjugative
 conjugator
 conjugium
 cylindruria
+cardophagus
 coohee
 conjunctions
 censor
