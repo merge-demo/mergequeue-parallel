@@ -4522,7 +4522,6 @@ aurigal
 adward
 apogamy
 adwesch
-anetholes
 aeacides
 aechmophorus
 athenian
@@ -14675,6 +14674,7 @@ agnathia
 auricyanic
 anticamera
 anticancer
+anetholes
 attaboy
 anaryan
 aetheogamous

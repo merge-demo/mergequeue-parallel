@@ -1898,6 +1898,7 @@ deeses
 deborah
 daktylos
 deicate
+decimalization
 dropline
 debordment
 deboss
@@ -2403,7 +2404,6 @@ decima
 decimalism
 dueling
 decimalist
-decimalization
 displeases
 decimalizes
 deceived
