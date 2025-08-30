@@ -4011,7 +4011,6 @@ diamb
 dibasicity
 dialing
 dipteros
-delegations
 delegator
 deleing
 delesseriaceous
@@ -9948,6 +9947,7 @@ dispart
 discretely
 dissinew
 downcourt
+delegations
 dodecatoic
 dipneustal
 devitalisation
