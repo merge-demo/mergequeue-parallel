@@ -5831,7 +5831,6 @@ catered
 codpiece
 caterer
 coadore
-caterers
 cytolymph
 catering
 cateringly
@@ -11243,6 +11242,7 @@ chicote
 counterion
 chlorite
 chloritic
+caterers
 carlie
 continuities
 chloritization
