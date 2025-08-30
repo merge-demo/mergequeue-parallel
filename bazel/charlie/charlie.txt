@@ -7091,7 +7091,6 @@ casziel
 canton
 caliculus
 centimetre
-cashmerette
 centimetres
 cullion
 centimo
@@ -15738,6 +15737,7 @@ clawk
 colobium
 calcicole
 clinks
+cashmerette
 clunch
 clawker
 clawless
