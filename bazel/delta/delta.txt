@@ -2799,7 +2799,6 @@ deprivers
 discind
 decretorian
 dithymol
-duplicative
 defi
 deferred
 declarator
@@ -6040,6 +6039,7 @@ diagonally
 daffadowndillies
 dermitis
 depe
+duplicative
 differentiative
 dirtier
 darkrooms
