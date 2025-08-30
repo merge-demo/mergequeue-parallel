@@ -3408,7 +3408,6 @@ alvar
 addoom
 addr
 allotheistic
-actinography
 azores
 addressable
 addressers
@@ -15291,6 +15290,7 @@ anthropomorphize
 antikings
 arachnoidal
 albatros
+actinography
 azelate
 aviatory
 avadhuta

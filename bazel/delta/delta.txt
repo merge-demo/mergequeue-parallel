@@ -10472,6 +10472,7 @@ disfigurative
 diphenoxylate
 deux
 diphysite
+dissuader
 dosimeters
 damask
 discolith
@@ -11466,7 +11467,6 @@ drossing
 defend
 dastardy
 dockyard
-dissuader
 determinoid
 debug
 discloser
