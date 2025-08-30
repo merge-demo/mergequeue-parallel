@@ -3697,7 +3697,6 @@ anisopterous
 adiated
 anaboly
 adiathermancy
-antioxidase
 alcoranist
 akroterial
 alure
@@ -5200,6 +5199,7 @@ affixal
 affixation
 affixed
 andantinos
+antioxidase
 androsin
 affixes
 affixial
