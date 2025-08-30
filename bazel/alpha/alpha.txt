@@ -13503,7 +13503,6 @@ affriended
 annular
 antihierarchical
 attingence
-augmentative
 algy
 annulary
 annularia
@@ -15220,6 +15219,7 @@ antigravitation
 antigravitational
 abusedly
 angiemphraxis
+augmentative
 antigravity
 antigrowth
 affectible
