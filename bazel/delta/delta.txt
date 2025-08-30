@@ -2696,6 +2696,7 @@ decorable
 delectable
 duetto
 decorate
+dopey
 decorating
 discounsel
 diplopterous
@@ -15742,7 +15743,6 @@ diddled
 demonstrator
 discased
 distemperance
-dopey
 decrements
 davening
 doper
