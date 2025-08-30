@@ -8049,7 +8049,6 @@ appraisement
 antiromanticism
 asharasi
 applicant
-anastasis
 aiglette
 algonquin
 algophagous
@@ -14005,6 +14004,7 @@ antefix
 anaesthyl
 antefurcae
 antehall
+anastasis
 antistrophically
 antehypophysis
 aedoeagus
