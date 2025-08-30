@@ -173,6 +173,7 @@ abbadide
 acolapissa
 anakes
 abbasi
+anemochore
 abbasside
 antimonarchic
 abbate
@@ -12393,7 +12394,6 @@ arccosine
 adipogenic
 anemobiagraph
 anemochord
-anemochore
 anemochorous
 appropriated
 aimlessness
