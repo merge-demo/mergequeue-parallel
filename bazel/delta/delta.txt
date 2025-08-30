@@ -4638,7 +4638,6 @@ disbursable
 disfranchised
 deaness
 dawsoniaceae
-disagglomeration
 disfunction
 decap
 dittoing
@@ -13116,6 +13115,7 @@ decimalised
 daulias
 dispeaceful
 decapodan
+disagglomeration
 dory
 decliners
 drollingly
