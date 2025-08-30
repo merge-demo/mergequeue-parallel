@@ -1125,7 +1125,6 @@ designado
 doctorization
 debt
 demagnetisable
-detract
 dashed
 dicentra
 dashedly
@@ -8536,6 +8535,7 @@ disbud
 doree
 diapause
 donaries
+detract
 decarburize
 divinations
 diapedeses
