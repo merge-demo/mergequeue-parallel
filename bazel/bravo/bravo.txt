@@ -9325,7 +9325,6 @@ baccaras
 bindweb
 barcaroles
 birdbander
-beggaries
 belgian
 bespeed
 brendice
@@ -11261,6 +11260,7 @@ basketries
 blowguns
 boycotting
 bogtrotting
+beggaries
 blatchang
 bronchoesophagoscopy
 beshackle
