@@ -17691,7 +17691,6 @@ cockal
 counternoise
 cockpit
 couched
-comaking
 chemosmoic
 chromatopsia
 confraternity
@@ -18353,6 +18352,7 @@ cognac
 curdier
 crookeries
 centime
+comaking
 cognacs
 cognate
 contrarevolutionary
