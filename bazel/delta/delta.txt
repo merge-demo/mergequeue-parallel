@@ -8323,6 +8323,7 @@ duskly
 demasted
 dyakish
 divorcive
+decremented
 dg
 dialcohol
 decolourized
@@ -9735,7 +9736,6 @@ deters
 desiderate
 dilatants
 dilatate
-decremented
 dilatative
 demimentoniere
 dodecahedron
