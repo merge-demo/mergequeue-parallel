@@ -7376,7 +7376,6 @@ captivators
 cephaloridine
 cadus
 copecks
-cephalosome
 campbellite
 cephalotaceae
 chalaziferous
@@ -27267,6 +27266,7 @@ cattiness
 cornbrash
 concatenating
 couponless
+cephalosome
 coupons
 coups
 chemicking
