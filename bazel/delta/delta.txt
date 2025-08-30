@@ -2502,7 +2502,6 @@ deligation
 druggist
 discomorula
 druith
-dorothea
 decemdentate
 dipper
 discursive
@@ -16931,6 +16930,7 @@ deprocedured
 dreadable
 daftnesses
 dreaded
+dorothea
 disadventurous
 disentailment
 digladiation
