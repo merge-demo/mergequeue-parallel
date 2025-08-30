@@ -10784,6 +10784,7 @@ clowring
 chinologist
 chinone
 chinones
+cueva
 chinook
 chinookan
 cutgrasses
@@ -28485,7 +28486,6 @@ credentialed
 carrot
 countercampaign
 croomia
-cueva
 cystines
 cypria
 credentials
