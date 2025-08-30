@@ -14217,7 +14217,6 @@ aecidiomycetes
 antheraea
 antherogenous
 ammiolite
-adnescent
 angiotensin
 antherozoid
 antherozooidal
@@ -17238,6 +17237,7 @@ aclinal
 angiocavernous
 ashram
 acetonize
+adnescent
 antiphonically
 antiagglutinant
 archpatriarch
