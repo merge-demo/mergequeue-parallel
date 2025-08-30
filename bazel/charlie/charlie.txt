@@ -3695,7 +3695,6 @@ caratch
 chevaline
 carates
 candor
-carauna
 coventrize
 caravaneer
 cyclists
@@ -11850,6 +11849,7 @@ chorai
 cranker
 choral
 choralcelo
+carauna
 causeway
 cleanskins
 chorale
