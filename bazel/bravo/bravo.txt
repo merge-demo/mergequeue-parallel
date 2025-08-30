@@ -2119,6 +2119,7 @@ bronchostomy
 betrough
 branchihyal
 bourkha
+bonasa
 borasco
 birthrights
 braccae
@@ -5816,7 +5817,6 @@ bombyliidae
 blackneb
 bryozoan
 batfish
-bonasa
 bellhouse
 belli
 bimillenium
