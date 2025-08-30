@@ -16287,7 +16287,6 @@ animalisation
 alish
 antivibrator
 antivibratory
-antivitalist
 ammoniuria
 attacker
 apetalies
@@ -24210,6 +24209,7 @@ anointer
 amblycephalidae
 anthropophagus
 anorgana
+antivitalist
 autonavigator
 autoxeny
 antipacifism
