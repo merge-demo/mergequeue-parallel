@@ -6312,7 +6312,6 @@ desmohemoblast
 deutzias
 dryophyllum
 dermatozzoa
-dermatrophia
 disgrade
 dephlegmatory
 dermenchysis
@@ -17640,6 +17639,7 @@ during
 drupiferous
 dehumanise
 diffinity
+dermatrophia
 diaphragms
 disrates
 dichotomisation
