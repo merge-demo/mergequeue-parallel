@@ -13980,7 +13980,6 @@ axostyle
 antecornu
 antecourt
 anticapital
-antecoxal
 adeleidae
 antecubital
 accompanists
@@ -14544,6 +14543,7 @@ antiaggressiveness
 antialbumin
 aiming
 antialcoholism
+antecoxal
 antialcoholist
 antialdoxime
 angiectopia
