@@ -1246,7 +1246,6 @@ belemnid
 beds
 bimeby
 bittersweetness
-bibelot
 buxbaumia
 becreep
 baldachined
@@ -3782,6 +3781,7 @@ babysitting
 borracha
 buncombe
 biocontrol
+bibelot
 begger
 bobflies
 battute
