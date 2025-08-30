@@ -8848,7 +8848,6 @@ blackfishes
 behen
 blossom
 binturong
-bastant
 bullism
 binukau
 bleariness
@@ -12002,6 +12001,7 @@ bohunk
 branta
 blusteration
 bootstrapped
+bastant
 bohunks
 beverly
 belligerence
