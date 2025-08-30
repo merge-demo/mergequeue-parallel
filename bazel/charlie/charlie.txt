@@ -2688,7 +2688,6 @@ cankerberry
 cankerbird
 conder
 cankereat
-cankered
 cankeredly
 codders
 chapeaux
@@ -9556,6 +9555,7 @@ castro
 catechize
 capacitively
 checkweighmen
+cankered
 closeted
 checkwork
 cosmologist
