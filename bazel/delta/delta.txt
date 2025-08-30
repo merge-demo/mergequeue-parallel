@@ -291,6 +291,7 @@ digitonin
 dreadnaught
 durn
 docken
+decolourised
 dimensum
 debugged
 disassiduity
@@ -911,7 +912,6 @@ dantology
 dashpots
 dextrin
 dewitt
-decolourised
 dantophilist
 dinned
 daoine
