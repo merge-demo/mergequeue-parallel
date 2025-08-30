@@ -4103,7 +4103,6 @@ antitarnish
 aleyard
 adoptian
 anacoustic
-adoptianism
 agalwood
 accordance
 acinuni
@@ -8568,6 +8567,7 @@ anastomosis
 autotheater
 amygdaloidal
 acetate
+adoptianism
 annunciatory
 asteroxylaceae
 ahimsas
