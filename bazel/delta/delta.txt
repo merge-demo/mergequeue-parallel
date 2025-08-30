@@ -6781,7 +6781,6 @@ desirer
 drachma
 daira
 desires
-dihedrons
 desirous
 droh
 desirousness
@@ -8103,6 +8102,7 @@ dhritarashtra
 depauperize
 disables
 dhundia
+dihedrons
 disembowelled
 disgross
 drawable
