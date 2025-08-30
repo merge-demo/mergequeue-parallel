@@ -6951,7 +6951,6 @@ akhara
 andante
 acalypha
 akhyana
-anecdotalist
 akhissar
 agaricin
 akhoond
@@ -7071,6 +7070,7 @@ alada
 aladdin
 adonic
 antica
+anecdotalist
 afterbreach
 acrylaldehyde
 alagarto
