@@ -2075,7 +2075,6 @@ diarial
 dimedon
 demivierge
 decaying
-diopsimeter
 diety
 degusted
 dummy
@@ -3686,6 +3685,7 @@ disentitling
 degust
 dasnt
 divort
+diopsimeter
 dregginess
 dewlaps
 dorsoepitrochlear
