@@ -23080,7 +23080,6 @@ constantan
 constantine
 constantinian
 constantinopolitan
-catechumenate
 canvassed
 constantly
 constantness
@@ -23320,6 +23319,7 @@ circumspect
 coattest
 cantingly
 contorsive
+catechumenate
 congests
 coverups
 contactor
