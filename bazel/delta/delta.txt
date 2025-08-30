@@ -3190,6 +3190,7 @@ dents
 defendable
 dolmenic
 demimondaine
+disproportional
 dissentient
 distrainor
 decidability
@@ -13363,7 +13364,6 @@ disproofs
 dishevelments
 depicts
 directrix
-disproportional
 disparities
 dossety
 disproportionately
