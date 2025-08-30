@@ -5444,7 +5444,6 @@ auriculo
 azox
 aftermilk
 animadverts
-aftermost
 afternoons
 ausgespielt
 alunites
@@ -9086,6 +9085,7 @@ almerian
 appointments
 ardeae
 abranchiate
+aftermost
 alpigene
 almeriite
 almice
