@@ -14309,6 +14309,7 @@ circumparallelogram
 circumpentagon
 convexed
 circumplanetary
+classicists
 crone
 chrysazin
 circumplicate
@@ -15552,7 +15553,6 @@ classicise
 chromophoric
 classicism
 classicist
-classicists
 cheshire
 cordially
 confoundedly
