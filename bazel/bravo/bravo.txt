@@ -7716,7 +7716,6 @@ bhangi
 bhat
 burglaries
 bunning
-bheesty
 bullaries
 bheestie
 beblot
@@ -14429,6 +14428,7 @@ brairded
 birdman
 barricado
 breamed
+bheesty
 biometrist
 becivet
 bendays

@@ -5918,7 +5918,6 @@ catties
 catheterise
 clienteles
 coiffes
-catheterised
 catheterism
 catheterization
 cense
@@ -7155,6 +7154,7 @@ centreboard
 centred
 centref
 centreless
+catheterised
 centrepiece
 canephoroe
 centrer
