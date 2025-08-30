@@ -583,7 +583,6 @@ delivers
 disfranchiser
 deadpanning
 damaskeen
-dod
 damaskine
 denounces
 diethylmalonylurea
@@ -13945,6 +13944,7 @@ distichlis
 dephased
 distichous
 discina
+dod
 distil
 derisive
 distyle
