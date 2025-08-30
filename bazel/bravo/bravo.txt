@@ -7973,7 +7973,6 @@ bohemianism
 biceps
 bedlight
 berhyming
-bichloride
 biffin
 blindness
 bake
@@ -16802,6 +16801,7 @@ boarishly
 beam
 buffing
 breards
+bichloride
 bufflehead
 breekums
 balafo
