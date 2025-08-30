@@ -9126,7 +9126,6 @@ dailiness
 devow
 drubbed
 dietary
-depickle
 dunted
 detraction
 debility
@@ -9383,6 +9382,7 @@ differentiae
 differentials
 darkle
 dismembering
+depickle
 daggy
 differentiate
 dioscoreaceous
