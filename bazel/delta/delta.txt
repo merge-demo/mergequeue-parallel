@@ -14409,6 +14409,7 @@ deadheaded
 diurn
 dhaman
 diurna
+derri
 defoam
 dyer
 diurnal
@@ -18560,7 +18561,6 @@ denuding
 duros
 drouks
 despaired
-derri
 durry
 dappled
 decasualization
