@@ -7933,6 +7933,7 @@ besmirchment
 balsamum
 biblists
 bowlders
+banc
 buoyed
 bezoar
 blockwood
@@ -9132,7 +9133,6 @@ biostatic
 biostatical
 buffleheaded
 bletting
-banc
 beefburger
 bhaktas
 bubbybush
