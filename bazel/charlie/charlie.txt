@@ -20825,6 +20825,7 @@ compos
 crotalus
 cloverleaf
 corpulence
+clams
 composable
 composant
 cryptoclastic
@@ -22115,7 +22116,6 @@ confragose
 craftsmanly
 corrading
 calix
-clams
 catalysts
 commaing
 camsteery
