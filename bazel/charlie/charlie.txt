@@ -7965,7 +7965,6 @@ clergies
 chabouk
 crankshaft
 chabuk
-chabuks
 chac
 chacate
 complainable
@@ -11731,6 +11730,7 @@ circuitous
 chondrodystrophy
 chondrodystrophia
 chromogenetic
+chabuks
 chondroditic
 cogitative
 couthest
