@@ -483,7 +483,6 @@ daytimes
 daunder
 disburthen
 dakerhen
-designing
 doughman
 disappointing
 dogcatchers
@@ -4571,6 +4570,7 @@ demilawyer
 diwans
 demilitarise
 demilitarised
+designing
 demilitarising
 diversipedate
 drawtubes
