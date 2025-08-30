@@ -3471,7 +3471,6 @@ boughpot
 berginization
 bef
 bastite
-brushfire
 brigade
 basto
 baguios
@@ -17676,6 +17675,7 @@ banbury
 behove
 bratchet
 biont
+brushfire
 beanos
 burlington
 braconid
