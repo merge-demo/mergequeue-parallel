@@ -1982,6 +1982,7 @@ agynous
 anticipatory
 acetosoluble
 aurocyanide
+ambrosterol
 acetostearin
 acetothienone
 acetotoluid
@@ -24662,7 +24663,6 @@ autolyzed
 ambulia
 avertiment
 averts
-ambrosterol
 abbotnullius
 annominate
 aelodicon
