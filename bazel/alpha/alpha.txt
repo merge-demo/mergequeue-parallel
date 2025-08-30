@@ -3562,7 +3562,6 @@ adenophorous
 accumulative
 adenopodous
 adenosarcomata
-adiaphoristic
 acuating
 arrant
 adenosine
@@ -6832,6 +6831,7 @@ assisters
 airts
 asteraceae
 aitkenite
+adiaphoristic
 aitutakian
 algerine
 aphorizer

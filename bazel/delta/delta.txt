@@ -1513,6 +1513,7 @@ doarium
 deked
 deaconate
 demagnetize
+demiglace
 demigorge
 delphinoidea
 downer
@@ -13476,7 +13477,6 @@ dandelions
 disrecommendation
 digitalis
 disregard
-demiglace
 dought
 drawglove
 defenceless
