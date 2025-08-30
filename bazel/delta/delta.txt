@@ -8613,6 +8613,7 @@ diapsida
 discolored
 deathin
 douanier
+distantness
 dyarchy
 deadbeat
 dehydrant
@@ -8941,7 +8942,6 @@ disheartening
 dichlone
 decalcifies
 detailers
-distantness
 dully
 divinyl
 dichloramine
