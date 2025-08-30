@@ -5195,7 +5195,6 @@ appetized
 aerobacteriological
 axon
 affirmers
-affirmingly
 affixal
 affixation
 affixed
@@ -15774,6 +15773,7 @@ antiplanet
 almochoden
 antiplastic
 advocation
+affirmingly
 anethum
 antiplurality
 anabrotic
