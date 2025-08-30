@@ -5217,6 +5217,7 @@ cassata
 coalitions
 cassation
 caveats
+cheveril
 cerin
 cassegrain
 chromomeric
@@ -10119,7 +10120,6 @@ carnivaler
 cheventayn
 categorized
 cheveret
-cheveril
 cahoot
 celioncus
 chevesaile
