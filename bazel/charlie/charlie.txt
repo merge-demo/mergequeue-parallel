@@ -3645,6 +3645,7 @@ caramelisation
 caramelise
 conveyorize
 caramelize
+cogeneration
 caramelized
 clangoring
 caramels
@@ -22908,7 +22909,6 @@ consigned
 consignee
 consignify
 cantorous
-cogeneration
 countersalient
 consignificant
 consignification
