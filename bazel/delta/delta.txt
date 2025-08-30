@@ -4580,7 +4580,6 @@ demiliterate
 despotical
 demilustre
 diaskeuasis
-demiman
 deforming
 dali
 disaffectionate
@@ -14051,6 +14050,7 @@ differentiable
 distorts
 dolomitising
 dentoid
+demiman
 draconism
 diphosphide
 donary
