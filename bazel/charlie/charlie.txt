@@ -19961,6 +19961,7 @@ coinheres
 conjectural
 commassation
 carot
+closet
 commassee
 cigar
 commata
@@ -21806,7 +21807,6 @@ cones
 conestoga
 conf
 counterpose
-closet
 confab
 constructionists
 cleaner
