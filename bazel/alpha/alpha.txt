@@ -12782,7 +12782,6 @@ anglicans
 androgynies
 abscise
 anglice
-anglicisation
 apolysin
 anatabine
 anglicization
@@ -21954,6 +21953,7 @@ aloddia
 adaptably
 arecaceous
 anthemy
+anglicisation
 arethuse
 aprons
 adhesives
