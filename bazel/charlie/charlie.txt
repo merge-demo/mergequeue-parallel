@@ -3687,7 +3687,6 @@ circuituously
 caratacus
 cynoidea
 caratch
-confocally
 chevaline
 carates
 candor
@@ -27048,6 +27047,7 @@ chivaring
 carditises
 codiaceous
 cwt
+confocally
 checksums
 continuums
 counterrevolutionist
