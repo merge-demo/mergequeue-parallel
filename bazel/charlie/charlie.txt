@@ -2920,7 +2920,6 @@ compensatively
 cantefable
 childlier
 currawong
-canter
 canterburian
 cladosporium
 curlpaper
@@ -19432,6 +19431,7 @@ count
 clutching
 cystous
 coloristically
+canter
 cadded
 comer
 chionididae
