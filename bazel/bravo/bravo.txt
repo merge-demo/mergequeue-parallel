@@ -3492,6 +3492,7 @@ boobook
 batable
 byeman
 bronchiarctia
+bevatron
 bracket
 blights
 berzeliite
@@ -7159,7 +7160,6 @@ besra
 berhymes
 bullyboys
 bawling
-bevatron
 brambliest
 bifoliate
 brightly
