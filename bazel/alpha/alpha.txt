@@ -6570,7 +6570,6 @@ anathematic
 ainaleh
 arachic
 acardia
-antireligiosity
 aine
 antheral
 antinegro
@@ -23520,6 +23519,7 @@ aural
 auramin
 auramine
 aurang
+antireligiosity
 aborters
 alleviates
 affiliation
