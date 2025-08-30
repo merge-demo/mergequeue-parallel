@@ -4811,7 +4811,6 @@ accessit
 aerogenes
 abductors
 airplaning
-alomancy
 anticommercialness
 adenomatous
 acalephs
@@ -15417,6 +15416,7 @@ antimilitarist
 alienship
 antiministerial
 antiministerially
+alomancy
 anandria
 affluentness
 anywhere
