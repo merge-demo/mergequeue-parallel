@@ -7096,7 +7096,6 @@ brescian
 bathyscaphes
 byland
 bespeckle
-bethylid
 benzoyls
 bespectacled
 beefless
@@ -14238,6 +14237,7 @@ bewailingly
 bolden
 burelly
 benzaldoxime
+bethylid
 blites
 banishers
 biographize
