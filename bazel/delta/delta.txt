@@ -4913,6 +4913,7 @@ dubiosities
 dispersive
 divulgers
 dovishness
+duration
 demonstrated
 dehiscing
 demonstrater
@@ -18516,7 +18517,6 @@ downcast
 durani
 divorced
 duraspinalis
-duration
 durations
 durative
 durbachite
