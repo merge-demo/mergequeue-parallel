@@ -6167,6 +6167,7 @@ derelicts
 dool
 doeuvre
 droshkies
+deathrates
 dolours
 derelinquish
 decrepitness
