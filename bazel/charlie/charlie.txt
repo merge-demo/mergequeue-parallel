@@ -5329,6 +5329,7 @@ corncob
 crummies
 cibolan
 corv
+chhatri
 casters
 ciliation
 castes
@@ -5852,7 +5853,6 @@ catfish
 coalmonger
 catfoot
 catfooted
-chhatri
 catgut
 chancellorism
 cath
