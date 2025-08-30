@@ -7900,7 +7900,6 @@ cetiosaurian
 cetology
 contumacities
 corixidae
-cetologist
 cetomorpha
 cumular
 cetonia
@@ -18813,6 +18812,7 @@ collegiums
 colubriform
 coli
 crommel
+cetologist
 coly
 chronopher
 contemporaries
