@@ -7693,6 +7693,7 @@ acrolein
 adaptivity
 ausubos
 arcadianism
+acoelomata
 atrickle
 anglicism
 aldrovanda
@@ -14859,7 +14860,6 @@ abneural
 anticommercialism
 academical
 airstrip
-acoelomata
 anticommerciality
 anachronic
 antimagnetic

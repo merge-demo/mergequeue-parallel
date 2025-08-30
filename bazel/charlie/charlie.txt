@@ -1517,7 +1517,6 @@ communising
 chemostat
 callisto
 callithrix
-condensary
 callithump
 collegiant
 corruptibilities
@@ -9678,6 +9677,7 @@ coruscated
 caretakes
 chegoes
 chegre
+condensary
 chilostome
 cuittles
 cherna
