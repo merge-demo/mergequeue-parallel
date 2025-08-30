@@ -9257,7 +9257,6 @@ cagelings
 chattelhood
 cacks
 constructiveness
-chattelism
 chattelizing
 calamities
 chatter
@@ -22210,6 +22209,7 @@ commiserative
 capes
 calaber
 comonte
+chattelism
 ctenophoran
 coppicing
 counterreaction
