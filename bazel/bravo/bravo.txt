@@ -3595,7 +3595,6 @@ bereaven
 basion
 bathmism
 banker
-befathered
 boozer
 bratling
 bathoflore
@@ -14590,6 +14589,7 @@ brotherlike
 bonito
 binodal
 bassara
+befathered
 boasted
 branning
 bromoiodism
