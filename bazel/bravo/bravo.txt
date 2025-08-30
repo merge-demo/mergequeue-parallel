@@ -9984,6 +9984,7 @@ bayonetting
 burgle
 bizarrerie
 bield
+bugweed
 biventral
 broody
 barbell
@@ -16881,7 +16882,6 @@ burrah
 balloonlike
 bugout
 bugs
-bugweed
 blacktopped
 bugwort
 banca
