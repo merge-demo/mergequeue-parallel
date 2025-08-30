@@ -1140,6 +1140,7 @@ compeer
 correlate
 calculational
 concaves
+caligo
 calculator
 calculatory
 calculators
@@ -10717,7 +10718,6 @@ corroder
 chinchy
 chinchillas
 chinchillette
-caligo
 contracivil
 churnability
 chinchona
