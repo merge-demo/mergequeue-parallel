@@ -7941,6 +7941,7 @@ dresden
 dexes
 desertward
 disestablismentarianism
+downsized
 dexiotrope
 demiowl
 dyeable
@@ -16385,7 +16386,6 @@ dorothy
 daffled
 dumpiness
 drawnwork
-downsized
 diffractions
 druggeries
 discobolus
