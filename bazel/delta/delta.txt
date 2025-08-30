@@ -6246,7 +6246,6 @@ dermatotropic
 desiccator
 dizaine
 dermatatrophia
-dodonaena
 duplicator
 denationalisation
 diabolize
@@ -8119,6 +8118,7 @@ definienda
 di
 diabetes
 diaphyses
+dodonaena
 depilates
 duodial
 developpes
