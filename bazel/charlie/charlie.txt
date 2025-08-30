@@ -3570,7 +3570,6 @@ cioppino
 chagrinned
 charadriiform
 carabaos
-carabeen
 cowgirl
 carabidae
 checkle
@@ -24585,6 +24584,7 @@ cypripedium
 copingstone
 chaplainry
 copiopia
+carabeen
 copiosity
 chanteyman
 copious
