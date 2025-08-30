@@ -14076,7 +14076,6 @@ coriandrol
 chloritoid
 corta
 cleruchial
-circassic
 capivi
 corpuscle
 circe
@@ -29114,6 +29113,7 @@ cradleside
 cryogenics
 cloys
 cryogens
+circassic
 catwalks
 clauster
 costards

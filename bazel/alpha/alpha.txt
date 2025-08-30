@@ -9404,7 +9404,6 @@ aclidian
 antilocapridae
 archaeogeology
 arabia
-allochetite
 alternariose
 alternate
 alternated
@@ -22741,6 +22740,7 @@ assimilative
 alpinely
 ataxaphasia
 accubation
+allochetite
 aunters
 antepagment
 ascetical
