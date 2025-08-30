@@ -21470,6 +21470,7 @@ concordity
 circline
 centumvir
 cemetary
+centrisciform
 cluster
 concorporate
 culverts
@@ -23739,7 +23740,6 @@ contrapuntally
 contrapuntist
 contrapunto
 contraregularity
-centrisciform
 conductimeter
 contraremonstrance
 contrariant
