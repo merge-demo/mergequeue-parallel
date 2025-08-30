@@ -5861,7 +5861,6 @@ ackman
 amatol
 antiroll
 anatman
-aggrege
 allopathy
 amphigoric
 aggressed
@@ -6304,6 +6303,7 @@ agrostography
 agrostographical
 algesthesis
 antivenom
+aggrege
 agrostologic
 antiresonance
 amorado
