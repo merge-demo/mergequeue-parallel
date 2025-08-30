@@ -4947,6 +4947,7 @@ curmudgeon
 cust
 costrel
 chiclero
+curcuma
 canalman
 conceptuality
 chevrony
@@ -27764,7 +27765,6 @@ chelonin
 citharista
 chivarras
 counterquery
-curcuma
 chariotee
 circaea
 cozed
