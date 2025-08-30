@@ -5861,6 +5861,7 @@ antiroll
 anatman
 allopathy
 amphigoric
+antiperistaltic
 aggressed
 arrogancy
 aggressin
@@ -22903,7 +22904,6 @@ attacca
 absences
 amphibolite
 akuammine
-antiperistaltic
 attach
 adrowse
 agonothete
