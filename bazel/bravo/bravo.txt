@@ -131,7 +131,6 @@ becard
 biological
 balsamaceous
 boarder
-babyolatry
 boomer
 biriani
 babion
@@ -10382,6 +10381,7 @@ bowk
 backwoodser
 brawer
 browman
+babyolatry
 blandishing
 blandishments
 braggadocian
