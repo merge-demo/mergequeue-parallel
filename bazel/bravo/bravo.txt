@@ -3309,7 +3309,6 @@ basipodite
 blank
 basipterygium
 brodekin
-battle
 baratheas
 believe
 brisant
@@ -17050,6 +17049,7 @@ bulletheadedness
 birdcall
 baptornis
 bayard
+battle
 billheads
 bromian
 bulletining
