@@ -4686,7 +4686,6 @@ authoritatively
 avaunt
 anthologizing
 aftermath
-asterionella
 acarology
 anaretic
 antihum
@@ -15985,6 +15984,7 @@ atmidalbumin
 anaphasic
 adenophyma
 antirevolution
+asterionella
 antirevolutionist
 antirheumatic
 autoexcitation
