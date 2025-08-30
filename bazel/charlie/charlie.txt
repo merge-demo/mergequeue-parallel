@@ -3235,6 +3235,7 @@ capitalizing
 capitalness
 capitan
 capitana
+coelenterata
 capitasti
 capitated
 cputime
@@ -29877,7 +29878,6 @@ captived
 criolla
 containments
 crossleted
-coelenterata
 chopfallen
 carcase
 cuculidae
