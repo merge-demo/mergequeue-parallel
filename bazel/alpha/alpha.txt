@@ -4565,7 +4565,6 @@ aefaldy
 antrostomus
 arthriticine
 aegagropila
-atrocities
 ataxias
 antimeric
 amblingly
@@ -15091,6 +15090,7 @@ alectoromorphae
 antiexpansion
 antiexpansionism
 antiexpressionism
+atrocities
 antiexpressionist
 antiexpressive
 ammocoetoid
