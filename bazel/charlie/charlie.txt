@@ -4499,7 +4499,6 @@ carnate
 corupay
 cordialize
 carnation
-carnationist
 carnations
 carnauba
 carnaubas
@@ -11849,6 +11848,7 @@ chorai
 cranker
 choral
 choralcelo
+carnationist
 causeway
 cleanskins
 chorale
