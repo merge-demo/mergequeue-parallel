@@ -11387,7 +11387,6 @@ ajugas
 archpriestship
 attendants
 assets
-artinite
 aneroids
 alterations
 apiphobia
@@ -19456,6 +19455,7 @@ antepagments
 archeologist
 anoles
 almugs
+artinite
 amphidromic
 angularize
 andouille
