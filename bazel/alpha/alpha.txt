@@ -5823,7 +5823,6 @@ approachability
 aggrandised
 aphonics
 altimettrically
-aggrandizable
 afterglows
 aggrandize
 aggrandizement
@@ -14637,6 +14636,7 @@ albuminiferous
 ascon
 antibibliolatry
 antibigotry
+aggrandizable
 axiologies
 antibilious
 antibiont
