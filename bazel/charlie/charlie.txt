@@ -5450,7 +5450,6 @@ catabatic
 catabibazon
 catabolically
 chickenheartedly
-cabler
 commorancy
 catabolin
 ctenostomatous
@@ -9925,6 +9924,7 @@ cephalotaceous
 confluences
 chemotrophic
 chemotropically
+cabler
 chempaduk
 chemurgical
 chemurgically
