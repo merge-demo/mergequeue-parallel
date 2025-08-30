@@ -17340,7 +17340,6 @@ crownland
 chemigraph
 cimline
 coassist
-coronavirus
 cervine
 coassistant
 culpas
@@ -25630,6 +25629,7 @@ correctest
 cyclostomidae
 club
 correctible
+coronavirus
 confirmatorily
 cubicly
 correctionalist
