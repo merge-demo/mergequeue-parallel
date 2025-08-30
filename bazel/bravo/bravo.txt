@@ -2632,7 +2632,6 @@ belostoma
 bumpkinly
 broncs
 barkier
-bravery
 beduchess
 bescoundrel
 bantamweight
@@ -8423,6 +8422,7 @@ baignet
 bandsawed
 bilcock
 blearyeyedness
+bravery
 bellehood
 bildar
 bencite

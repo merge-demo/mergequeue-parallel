@@ -5525,6 +5525,7 @@ accrue
 axbreaker
 agacerie
 affied
+antibishop
 autotoxis
 austromancy
 agada
@@ -8555,7 +8556,6 @@ assimilativeness
 accentuates
 aeciotelium
 antiexpressiveness
-antibishop
 autistic
 anotropia
 anastomosis
