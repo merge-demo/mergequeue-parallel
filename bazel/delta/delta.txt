@@ -3175,7 +3175,6 @@ dudelsack
 dashpot
 defeit
 de
-dogdom
 deciding
 douses
 defeminized
@@ -15329,6 +15328,7 @@ dittograph
 dracaenaceae
 dolichosauria
 dolioform
+dogdom
 dabblings
 dioritic
 defamers

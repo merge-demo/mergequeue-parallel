@@ -1236,7 +1236,6 @@ calenders
 calendric
 calendrical
 calendula
-calendulin
 calentural
 chivalries
 coolabah
@@ -13638,6 +13637,7 @@ coppras
 cocuisa
 chuffed
 claimable
+calendulin
 cymosely
 casefied
 carvone
