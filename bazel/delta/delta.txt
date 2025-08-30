@@ -6137,7 +6137,6 @@ deader
 doylt
 derated
 diphtheroid
-derater
 discipled
 dijudicant
 duperies
@@ -7743,6 +7742,7 @@ dingiest
 dirgie
 discipliners
 deviltry
+derater
 dissociation
 diastataxy
 deformative
