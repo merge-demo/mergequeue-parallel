@@ -8326,6 +8326,7 @@ bepelt
 bedstock
 bigheaded
 balk
+blennoid
 brusque
 blastocarpous
 bantings
@@ -15179,7 +15180,6 @@ bummery
 brickle
 bismosol
 bulbospinal
-blennoid
 backstrip
 bucketing
 backsliding
