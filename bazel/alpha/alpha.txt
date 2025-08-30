@@ -12295,7 +12295,6 @@ androclinia
 androclinium
 androclus
 androconium
-annotinous
 antichristianly
 aspergilliform
 attribute
@@ -21910,6 +21909,7 @@ assurer
 arthrotrauma
 arabesque
 asterisking
+annotinous
 anticeremonial
 amphiuma
 assortatively
