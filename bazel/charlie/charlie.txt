@@ -5167,7 +5167,6 @@ casings
 consentiently
 casiri
 casita
-casket
 corpl
 conflation
 cellulosed
@@ -8814,6 +8813,7 @@ commanders
 cerosin
 char
 conveyability
+casket
 crouchingly
 chara
 chich
