@@ -4680,7 +4680,6 @@ decem
 dualisms
 demiss
 dryopithecid
-demivolt
 disprobative
 demissory
 demystify
@@ -13564,6 +13563,7 @@ deadwood
 dysury
 downtrodden
 dissaving
+demivolt
 djinny
 diceman
 dysgraphia
