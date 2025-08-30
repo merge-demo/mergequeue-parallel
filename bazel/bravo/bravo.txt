@@ -3475,6 +3475,7 @@ brushfire
 brigade
 basto
 baguios
+baxterian
 bucklandite
 beshamed
 bibliolatrous
@@ -8647,7 +8648,6 @@ biloculina
 bhikhari
 bidiurnal
 boshvark
-baxterian
 brattish
 barbecues
 bilos
