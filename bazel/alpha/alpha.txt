@@ -3477,7 +3477,6 @@ adelphic
 adelphous
 adempt
 adipsous
-azole
 ascesis
 assedat
 arabicize
@@ -14664,6 +14663,7 @@ ageism
 amphogeny
 antibubonic
 antibug
+azole
 avouches
 autopneumatic
 antenoon
