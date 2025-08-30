@@ -7814,7 +7814,6 @@ agglutinates
 alerta
 anorak
 anticrepuscule
-abstractionists
 alerters
 autotropically
 alerting
@@ -15257,6 +15256,7 @@ anthropotomy
 antihypochondriac
 annal
 anticoincidence
+abstractionists
 antihypophora
 acetopiperone
 antihistaminic
