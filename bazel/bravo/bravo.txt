@@ -9751,7 +9751,6 @@ breadline
 burdocks
 bistipulate
 begumming
-bistorts
 bistred
 beknights
 bradylexia
@@ -17606,6 +17605,7 @@ babby
 bunchflower
 burgomasters
 burgomastership
+bistorts
 balladwise
 bhakta
 burgundy
