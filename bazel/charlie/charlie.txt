@@ -12450,6 +12450,7 @@ chromolithic
 concanavalin
 chromolithography
 chromolithographic
+coxswained
 chromomere
 chondrosarcoma
 chromone
@@ -27744,7 +27745,6 @@ coxitis
 checkouts
 coupee
 coxswain
-coxswained
 comrade
 cervicodorsal
 crudelity
