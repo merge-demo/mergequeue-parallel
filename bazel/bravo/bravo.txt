@@ -9895,7 +9895,6 @@ birdlife
 bitterishness
 begulfs
 buildup
-bitterness
 beggarly
 bitternut
 benzoated
@@ -10953,6 +10952,7 @@ besoothes
 blips
 boehmenite
 bliss
+bitterness
 branchiostegous
 begulf
 bucketshop
