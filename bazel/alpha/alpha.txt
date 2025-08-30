@@ -14177,6 +14177,7 @@ adulterators
 aupaka
 acnemia
 antesignanus
+amnesic
 antesternal
 antesternum
 antesuperior
@@ -14240,7 +14241,6 @@ anthicidae
 anthills
 anthinae
 anthine
-amnesic
 albanensian
 anthocarp
 ascertainability
