@@ -6294,7 +6294,6 @@ agrote
 agrotechny
 agrotype
 agrotis
-anerly
 arguta
 asthenopia
 apneas
@@ -8548,6 +8547,7 @@ astronautically
 allegorically
 acidosis
 aqueduct
+anerly
 aboves
 allegorisation
 allegorise
