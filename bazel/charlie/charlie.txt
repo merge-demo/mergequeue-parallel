@@ -18876,6 +18876,7 @@ colossus
 colicwort
 cestoid
 colistin
+chlorophoenicite
 coypou
 colitic
 colitises
@@ -28292,7 +28293,6 @@ counterdraft
 christenhead
 cravingness
 cravings
-chlorophoenicite
 comportment
 califate
 counteragent
