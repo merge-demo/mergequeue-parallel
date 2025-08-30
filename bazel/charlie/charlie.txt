@@ -12539,6 +12539,7 @@ chronica
 chronically
 chronicle
 chronicled
+coachman
 chronicling
 chronicon
 chronics
@@ -29834,7 +29835,6 @@ coxal
 catarrhed
 crossbreeding
 crosscuts
-coachman
 courtier
 coling
 cuttikin

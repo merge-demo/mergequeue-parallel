@@ -15537,6 +15537,7 @@ bindlet
 brunswick
 born
 bristlelike
+berycoidean
 blindfoldedness
 bisected
 brigander
@@ -16747,7 +16748,6 @@ bramantip
 begladded
 budgeter
 bioassayed
-berycoidean
 biquarterly
 budgies
 bellerophontidae
