@@ -10047,7 +10047,6 @@ chervontsi
 chesapeake
 cumidin
 complier
-cheselip
 coxocerite
 cyclogram
 cheskey
@@ -19522,6 +19521,7 @@ colporrhexis
 cleistothecia
 coyed
 colportage
+cheselip
 colporter
 counteragitation
 colporteurs
