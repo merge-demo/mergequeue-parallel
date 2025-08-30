@@ -95,6 +95,7 @@ cabestro
 cabestros
 chalinidae
 cabezon
+casa
 chromeplate
 cabezone
 cabful
@@ -27809,7 +27810,6 @@ crescendoed
 crabber
 crabbery
 crabby
-casa
 crabbiest
 crabbily
 crabbing
