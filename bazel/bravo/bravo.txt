@@ -8451,6 +8451,7 @@ bilgeway
 bilharzial
 beglerbey
 bilharziosis
+brotheler
 boiled
 bilianic
 boreism
@@ -16088,7 +16089,6 @@ bdellidae
 bayogoula
 birdlore
 balklines
-brotheler
 bulla
 bristletail
 bifurcate
