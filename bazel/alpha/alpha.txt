@@ -3770,6 +3770,7 @@ allantochorion
 absquatulation
 adital
 aporrhoea
+apometabolous
 arthrosyrinx
 adits
 arbovirus
@@ -9528,7 +9529,6 @@ ascence
 alulae
 alulim
 agrom
-apometabolous
 alumic
 alumiferous
 affinition
