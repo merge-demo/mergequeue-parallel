@@ -5069,7 +5069,6 @@ decuria
 derailed
 donatary
 decalogist
-dendrochirota
 dessicate
 describing
 disenabling
@@ -7449,6 +7448,7 @@ deviate
 dancer
 disseised
 detrivorous
+dendrochirota
 dervish
 damn
 doggereled
