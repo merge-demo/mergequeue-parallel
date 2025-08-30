@@ -232,7 +232,6 @@ abbott
 adenomyxoma
 abbreviatable
 abraded
-acantholysis
 actinochemical
 amentia
 abbreviates
@@ -10382,6 +10381,7 @@ amethystine
 amethodically
 ametoecious
 absurdum
+acantholysis
 aurigid
 aculeolus
 ametrope
