@@ -3706,7 +3706,6 @@ caravaner
 coroparelcysis
 chetty
 caravans
-caravansary
 caravansaries
 caravanserai
 chromoxylography
@@ -11872,6 +11871,7 @@ congenitalness
 chordamesoderm
 chordamesodermal
 chordamesodermic
+caravansary
 chordate
 chorded
 chordee
