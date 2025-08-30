@@ -15110,7 +15110,6 @@ dysmetria
 deceivability
 dendroidal
 disarrangements
-dolcissimo
 distrains
 distinctify
 determ
@@ -15800,6 +15799,7 @@ doricism
 dyemaker
 deflectometer
 dakota
+dolcissimo
 dendrochronologist
 deuterocone
 diphosphid
