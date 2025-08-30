@@ -10843,6 +10843,7 @@ beheads
 bonism
 blewits
 blick
+biophyte
 batekes
 bongrace
 betone
@@ -13713,7 +13714,6 @@ bousouki
 bousoukia
 bloomer
 bircher
-biophyte
 banqueted
 braccio
 billetwood
