@@ -4291,7 +4291,6 @@ disyllabic
 dunal
 deadishly
 deferent
-devotionist
 deutomalal
 deluges
 disgustful
@@ -7053,6 +7052,7 @@ desserts
 dykage
 dessertspoon
 distillage
+devotionist
 duramen
 destinezite
 driveable

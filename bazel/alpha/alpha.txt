@@ -11703,6 +11703,7 @@ analemma
 analemmas
 aconitum
 analemmata
+agomphosis
 analepses
 agrege
 analeptic
@@ -15268,7 +15269,6 @@ anthropotomy
 antihypochondriac
 annal
 anticoincidence
-agomphosis
 antihypophora
 acetopiperone
 antihistaminic
