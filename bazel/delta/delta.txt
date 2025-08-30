@@ -7622,7 +7622,6 @@ disquiparant
 devata
 devaul
 deoxygenating
-degaussed
 deveined
 disbursements
 droopiness
@@ -10231,6 +10230,7 @@ decatizing
 delitescency
 dinkeys
 dinkiest
+degaussed
 dinking
 dipterus
 defeminization
