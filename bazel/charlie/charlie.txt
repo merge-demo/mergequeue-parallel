@@ -6431,6 +6431,7 @@ crankly
 canell
 cavefish
 cavey
+curassow
 chromoscope
 cavekeeper
 cavelet
@@ -14853,7 +14854,6 @@ czaristic
 citole
 citoles
 calker
-curassow
 counterglow
 cytolist
 cytolytic
