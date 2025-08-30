@@ -1674,7 +1674,6 @@ divergency
 dentimeter
 dothiorella
 deamidation
-digitize
 daws
 daw
 deamination
@@ -4211,6 +4210,7 @@ deloul
 decocted
 digoneutism
 dibbers
+digitize
 decalvant
 deloused
 dribs
