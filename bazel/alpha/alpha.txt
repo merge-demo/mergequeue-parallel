@@ -14058,7 +14058,6 @@ appositely
 antenumber
 adrostal
 antenuptial
-aplasias
 anteoccupation
 anteocular
 accessability
@@ -24985,6 +24984,7 @@ anthroic
 awhet
 awhile
 atlatls
+aplasias
 awhir
 awhirl
 antedon

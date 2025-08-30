@@ -4223,6 +4223,7 @@ dogcart
 depasturing
 dyslogy
 debtors
+demeanour
 delphically
 dasyurus
 dis
@@ -6378,7 +6379,6 @@ disassociation
 dorsiventral
 derodidymus
 derog
-demeanour
 doronicum
 derogate
 denuclearization
