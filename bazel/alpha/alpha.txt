@@ -5698,6 +5698,7 @@ aligner
 author
 agatized
 agatizes
+arthrology
 agatizing
 agatoid
 alarbus
@@ -22579,7 +22580,6 @@ arbitrer
 athletehood
 aflight
 achenodium
-arthrology
 antioptimistically
 amidothiazole
 archy
