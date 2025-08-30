@@ -16151,7 +16151,6 @@ badgeless
 blossoms
 brander
 becrimed
-blastular
 beagle
 bowsery
 browless
@@ -17571,6 +17570,7 @@ burger
 burgers
 becurtained
 baseballs
+blastular
 burggrave
 burghbote
 brandished
