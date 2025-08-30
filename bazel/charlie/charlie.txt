@@ -2341,6 +2341,7 @@ chaetognathous
 cicer
 canap
 consummator
+centralizer
 cabriole
 cubitocutaneous
 celtologist
@@ -7606,7 +7607,6 @@ cucuyo
 coiffing
 curettes
 concessionist
-centralizer
 confinements
 ceremony
 chrysoeriol
