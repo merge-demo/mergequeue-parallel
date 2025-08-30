@@ -10651,7 +10651,6 @@ cavies
 caribou
 cytoplasmic
 chimes
-chymes
 caseoses
 corkwoods
 ctenophorous
@@ -29319,6 +29318,7 @@ cryptopine
 characterizers
 cantator
 concrement
+chymes
 cryptopyrrole
 catalogs
 cryptoproselyte
