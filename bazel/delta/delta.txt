@@ -14290,6 +14290,7 @@ dressy
 ditas
 deme
 dene
+dorsiflex
 drygoodsman
 deflects
 dumbly
@@ -15890,7 +15891,6 @@ dorsibranchiata
 distinctor
 disprobabilize
 dorsiduct
-dorsiflex
 does
 detects
 deluge
