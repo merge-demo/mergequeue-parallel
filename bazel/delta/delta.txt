@@ -7736,6 +7736,7 @@ deils
 dram
 digger
 dysarthrosis
+dormitory
 defoliage
 dayton
 domiciliary
@@ -12149,7 +12150,6 @@ disequalizer
 dorpers
 draftiness
 desight
-dormitory
 dyserethisia
 denominatively
 dysergasia
