@@ -9692,6 +9692,7 @@ bramah
 bathybian
 bisporous
 blaewort
+barbudo
 bayeta
 bizes
 benj
@@ -16111,7 +16112,6 @@ backswimmer
 brothers
 biopsychical
 blowdown
-barbudo
 braird
 bielectrolysis
 bilbie
