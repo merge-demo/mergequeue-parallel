@@ -4875,7 +4875,6 @@ carted
 curtalax
 cartel
 chondriosomes
-calipers
 cesarean
 cakemaker
 circumambages
@@ -9108,6 +9107,7 @@ charterers
 charterhouse
 chartering
 charterism
+calipers
 charterless
 chartermaster
 charters
