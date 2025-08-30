@@ -9271,7 +9271,6 @@ blanch
 bursas
 becafico
 bipod
-bipods
 botches
 bipolarity
 bipolarization
@@ -18317,6 +18316,7 @@ buttoning
 banked
 beths
 bioelectricities
+bipods
 blennuria
 brahmans
 brightens
