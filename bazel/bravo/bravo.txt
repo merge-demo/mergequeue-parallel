@@ -2842,6 +2842,7 @@ bulgurs
 bravest
 bruckled
 busyness
+berycoidea
 barotraumas
 barotropic
 barouche
@@ -6672,7 +6673,6 @@ bambinos
 burnings
 berycoid
 bansalague
-berycoidea
 barpost
 berycomorphi
 bemixes
