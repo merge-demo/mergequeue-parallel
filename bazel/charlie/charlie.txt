@@ -14359,7 +14359,6 @@ circumstantiate
 circumstantiating
 circumstantiation
 circumstellar
-circumtabular
 configurated
 cleopatra
 circumtonsillar
@@ -28472,6 +28471,7 @@ cavillingness
 countersecure
 credal
 chihuahua
+circumtabular
 chevronel
 coitus
 creddock
