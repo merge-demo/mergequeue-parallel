@@ -4573,7 +4573,6 @@ ballplayer
 benzoylglycine
 besuit
 bundeli
-bletheration
 borborus
 bedaubing
 bloodstone
@@ -7905,6 +7904,7 @@ bibliopole
 birdieback
 bibliopolery
 beclasp
+bletheration
 boschbok
 brambleberries
 breviature
