@@ -2070,6 +2070,7 @@ bumbaste
 buffability
 brine
 banksmen
+betatter
 bucketed
 banlieu
 basquine
@@ -2377,7 +2378,6 @@ barbwire
 barbwires
 burseraceae
 bullpout
-betatter
 barhopped
 becut
 barcella
