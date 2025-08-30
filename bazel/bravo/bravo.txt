@@ -3336,7 +3336,6 @@ bonnets
 batikuling
 bathysophical
 basketware
-bluecoat
 beid
 batocrinus
 beal
@@ -11769,6 +11768,7 @@ bocasin
 bookshops
 boccarella
 bodings
+bluecoat
 bocce
 bugbears
 beefheaded
