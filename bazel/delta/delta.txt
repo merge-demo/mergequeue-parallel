@@ -1573,7 +1573,6 @@ deadheartedness
 deady
 disagreeability
 decoic
-dominancy
 defilades
 duopolist
 deadish
@@ -14273,6 +14272,7 @@ discardable
 deprivate
 disvisor
 dungs
+dominancy
 dynamoelectric
 donatism
 disvoice
