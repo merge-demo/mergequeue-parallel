@@ -5509,7 +5509,6 @@ brouze
 bey
 balausta
 bindi
-boxed
 bardic
 beeswax
 bootyless
@@ -7144,6 +7143,7 @@ bocking
 blowy
 betongue
 bibliology
+boxed
 briskish
 biaxial
 bonduc

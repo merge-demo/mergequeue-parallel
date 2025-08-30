@@ -8809,7 +8809,6 @@ archduchesses
 allody
 allodia
 allodial
-anteroflexion
 allodiality
 asherim
 amphistomoid
@@ -19983,6 +19982,7 @@ actinosoma
 auriscopically
 aromatics
 aromatise
+anteroflexion
 adscripted
 aromatitae
 alcoholizing
