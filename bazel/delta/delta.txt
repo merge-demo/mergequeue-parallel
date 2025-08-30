@@ -1234,7 +1234,6 @@ disparison
 delinquents
 demiassignation
 dragooner
-deleads
 dulcinist
 dropsonde
 dextrines
@@ -15838,6 +15837,7 @@ detenu
 deproceduring
 dormers
 dormette
+deleads
 dormeuse
 dormient
 dormilona
