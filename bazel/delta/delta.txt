@@ -3620,6 +3620,7 @@ dermatoxerasia
 deglut
 dognaps
 dec
+dins
 disarrangement
 dithematic
 decubation
@@ -10266,7 +10267,6 @@ dressing
 dermoosseous
 destry
 dinotherian
-dins
 dinted
 dintless
 dislustring
