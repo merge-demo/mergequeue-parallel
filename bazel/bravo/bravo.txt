@@ -11685,6 +11685,7 @@ bindles
 beerbelly
 bobbejaan
 bungstarter
+baalish
 briseis
 brotherred
 benthon
@@ -15709,7 +15710,6 @@ brodiaea
 bilateralistic
 bractlet
 berberin
-baalish
 bilirubin
 brodyagi
 broeboe
