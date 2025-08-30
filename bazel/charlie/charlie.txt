@@ -4580,6 +4580,7 @@ circlers
 canescene
 cangenet
 caryotin
+canalised
 cutleria
 commonage
 caroline
@@ -13579,7 +13580,6 @@ cimbrian
 cantharophilous
 casuistry
 cimbric
-canalised
 clovene
 cyme
 convulsionist
