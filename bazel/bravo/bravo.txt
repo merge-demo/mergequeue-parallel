@@ -1993,7 +1993,6 @@ bespatters
 boobialla
 bandworm
 bangled
-bangles
 beleave
 bias
 bigeminate
@@ -17346,6 +17345,7 @@ bamboozler
 baetylic
 blencorn
 bungtown
+bangles
 blithered
 braziery
 bacillemia
