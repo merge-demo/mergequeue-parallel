@@ -3803,6 +3803,7 @@ angoumian
 agaphite
 anagrammatism
 adjoinedly
+aflagellar
 analphabetism
 amalgamating
 adjoiner
@@ -5294,7 +5295,6 @@ autogiro
 aecia
 afikomen
 afire
-aflagellar
 almight
 aflat
 agons
