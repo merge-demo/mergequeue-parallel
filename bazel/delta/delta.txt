@@ -4352,7 +4352,6 @@ daylit
 diode
 discriminous
 demanded
-dissyllabized
 descrier
 disburden
 defatigable
@@ -9837,6 +9836,7 @@ dillymen
 durangite
 doorstops
 decreasingly
+dissyllabized
 demasculinising
 disenfranchise
 dills
