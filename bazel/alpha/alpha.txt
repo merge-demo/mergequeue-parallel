@@ -21129,7 +21129,6 @@ ashlars
 ashling
 appraised
 abrogator
-angster
 avower
 ashochimi
 ashore
@@ -23874,6 +23873,7 @@ actinophonic
 aeolotropic
 autoasphyxiation
 algicides
+angster
 aphacial
 autoassimilation
 antarchistic
