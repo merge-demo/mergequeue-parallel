@@ -2727,6 +2727,7 @@ anapophyses
 acrodont
 anarithmia
 abalienation
+akroteria
 acrodontism
 agoge
 acrodrome
@@ -7021,7 +7022,6 @@ akrochordite
 arimasp
 abietineous
 allophore
-akroteria
 akroterion
 amphigony
 aktistetae
