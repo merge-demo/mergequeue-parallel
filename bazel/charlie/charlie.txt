@@ -6613,6 +6613,7 @@ cedrela
 coustumier
 cocamine
 cedrene
+champaign
 cedry
 codeia
 cedrin
@@ -9979,7 +9980,6 @@ cherishment
 chermes
 cassidinae
 creamcake
-champaign
 chermidae
 chemosorption
 chermish
