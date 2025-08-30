@@ -4724,7 +4724,6 @@ autunite
 asamblea
 ace
 aconites
-arrivederci
 aerobiologist
 awakener
 autocross
@@ -16014,6 +16013,7 @@ apocrita
 antischolasticism
 anita
 antischool
+arrivederci
 amenta
 anthecological
 adherence

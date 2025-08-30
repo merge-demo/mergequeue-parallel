@@ -23255,7 +23255,6 @@ consulta
 captors
 carminate
 consultable
-crevalle
 carbora
 commote
 calmative
@@ -24706,6 +24705,7 @@ coprojector
 coprolagnia
 coprolaliac
 chernozemic
+crevalle
 carlage
 coprolith
 coprolitic
