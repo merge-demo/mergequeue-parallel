@@ -6331,7 +6331,6 @@ caustification
 caustifying
 campfires
 casefies
-chancre
 cautelous
 cornfed
 camphoronic
@@ -20835,6 +20834,7 @@ canst
 composer
 corrals
 composita
+chancre
 composite
 creamer
 composited
