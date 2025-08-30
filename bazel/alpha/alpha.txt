@@ -9376,6 +9376,7 @@ angiosclerotic
 altazimuth
 alter
 alterable
+aproctous
 anerethisia
 alterably
 archaeocyte
@@ -17956,7 +17957,6 @@ atrazines
 apriority
 aggressors
 apritif
-aproctous
 aproneer
 amadavat
 apronful
