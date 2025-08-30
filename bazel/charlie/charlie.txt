@@ -21004,6 +21004,7 @@ coremiumia
 compulsory
 caramelan
 cypsela
+cellulose
 compunct
 crassilingual
 compunction
@@ -28165,7 +28166,6 @@ competitress
 coulisse
 cururo
 chromaphil
-cellulose
 chapelet
 chantefable
 crantara
