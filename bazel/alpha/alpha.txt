@@ -19804,6 +19804,7 @@ accessable
 armilla
 armillae
 armillary
+asserta
 armillaria
 aphrodisiomaniac
 annist
@@ -21650,7 +21651,6 @@ antiberiberin
 assents
 asseour
 assert
-asserta
 assertable
 asserted
 asserter
