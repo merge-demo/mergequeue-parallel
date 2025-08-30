@@ -310,6 +310,7 @@ asiatical
 aquarelles
 annexing
 assumed
+abstractor
 abecedaire
 autointoxication
 anacara
@@ -1005,7 +1006,6 @@ antimethodic
 anablepses
 amyloidal
 apoda
-abstractor
 abstrahent
 anogenic
 abstricted
