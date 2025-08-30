@@ -11494,6 +11494,7 @@ dislocates
 degumming
 draconis
 desertless
+dichrooscope
 diverted
 discide
 discoboli
@@ -14345,7 +14346,6 @@ denotationally
 dytiscid
 dytiscus
 ditokous
-dichrooscope
 dibasic
 digenetic
 draisene
