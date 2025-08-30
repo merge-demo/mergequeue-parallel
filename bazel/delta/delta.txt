@@ -927,6 +927,7 @@ danio
 dokimastic
 dudman
 daphni
+deducts
 daphnia
 delible
 detractors
@@ -2955,7 +2956,6 @@ dwarfism
 distrainment
 deductive
 deductory
-deducts
 deduplication
 despoliations
 deecodder
