@@ -2935,6 +2935,7 @@ coation
 cycloacetylene
 cantharidize
 cantharidized
+cite
 cantharus
 clotter
 chank
@@ -14710,7 +14711,6 @@ calixtus
 citatory
 canvassers
 cookery
-cite
 citer
 citers
 cites

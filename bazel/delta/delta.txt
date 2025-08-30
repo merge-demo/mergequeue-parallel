@@ -6051,7 +6051,6 @@ depursement
 dipyramidal
 diphenyl
 dodge
-deputational
 deuterogenesis
 doctus
 driegh
@@ -14693,6 +14692,7 @@ divulgation
 demoralised
 divulge
 divulged
+deputational
 diminuted
 delawarean
 diddikai
