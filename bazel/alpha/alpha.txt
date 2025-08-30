@@ -5375,6 +5375,7 @@ afterclause
 aftercome
 australasian
 acrostichic
+abbot
 autocamper
 aftercooler
 almoning
@@ -9385,7 +9386,6 @@ alteration
 abettals
 althein
 amphophil
-abbot
 alterative
 altercated
 altercating
