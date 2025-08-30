@@ -5697,7 +5697,6 @@ adiabatically
 aviation
 acrocephalia
 abranchiata
-artophoria
 aeroduct
 agatelike
 agathist
@@ -24391,6 +24390,7 @@ autotelegraph
 antiserum
 autoanticomplement
 autotetraploid
+artophoria
 autotetraploidy
 aeron
 aah
