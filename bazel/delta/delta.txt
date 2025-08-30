@@ -2106,7 +2106,6 @@ diapasm
 daunts
 dissembles
 doab
-duddies
 diagnostics
 despoilment
 dissyllabize
@@ -11997,6 +11996,7 @@ disacidified
 denominationally
 disbloom
 disembarks
+duddies
 dentifrices
 degum
 dissolvable
