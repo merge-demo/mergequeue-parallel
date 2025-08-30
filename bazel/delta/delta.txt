@@ -12267,7 +12267,6 @@ dwarfish
 dovecots
 dubitante
 disfrocking
-declaratively
 dysfunctional
 dysfunctioning
 deltoidal
@@ -16468,6 +16467,7 @@ dault
 distad
 dhoora
 dismortgage
+declaratively
 doxography
 divestible
 decolourise
