@@ -4673,7 +4673,6 @@ aequi
 aranein
 allometric
 allogamy
-attemperation
 aequor
 altitudes
 aequorins
@@ -6698,6 +6697,7 @@ antelabium
 ambulatorily
 acock
 airlessly
+attemperation
 airlessness
 anchistopoda
 acyloxy
