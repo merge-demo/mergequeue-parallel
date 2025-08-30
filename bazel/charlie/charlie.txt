@@ -12142,7 +12142,6 @@ compress
 chrysalises
 cardiaplegia
 chrysaloid
-chrysammic
 constances
 concausal
 clonk
@@ -29042,6 +29041,7 @@ cervicobrachial
 cystirrhea
 criniculture
 castrensian
+chrysammic
 clinally
 cheesecutter
 colipyelitis
