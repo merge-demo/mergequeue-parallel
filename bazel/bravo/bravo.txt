@@ -2698,7 +2698,6 @@ boraxes
 beakhead
 barnard
 benightment
-barnbrack
 brachyprosopic
 betweenbrain
 beelzebub
@@ -9109,6 +9108,7 @@ bushwhacking
 bistournage
 biennia
 bicalcarate
+barnbrack
 biosystematy
 basiotribe
 byssine
