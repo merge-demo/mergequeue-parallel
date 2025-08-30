@@ -1785,6 +1785,7 @@ biretta
 bedraggling
 balustrading
 bulbed
+biatomic
 bivvy
 balzarine
 bam
@@ -17411,7 +17412,6 @@ brickleness
 bacteroid
 benign
 bunoselenodont
-biatomic
 bandyman
 brulots
 bareboned
