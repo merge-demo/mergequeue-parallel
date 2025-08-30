@@ -3781,7 +3781,6 @@ anastatica
 autoactivation
 adjectives
 acetine
-anagogy
 agyiomania
 amphistomatic
 anaerobiotically
@@ -24607,6 +24606,7 @@ astatic
 anticreation
 ammonium
 aegithognathism
+anagogy
 avenolith
 avenses
 areopagy
