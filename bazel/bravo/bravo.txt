@@ -9045,7 +9045,6 @@ biophilous
 bleach
 biophysic
 balibuntal
-biophysiology
 butterier
 brachycephalies
 berrettino
@@ -14461,6 +14460,7 @@ baldaquin
 banyan
 bakunda
 betray
+biophysiology
 brakie
 blastophitic
 bramble
