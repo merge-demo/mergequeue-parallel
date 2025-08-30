@@ -5444,7 +5444,6 @@ brakes
 bathylimnetic
 bars
 betravel
-behaviorists
 behavioural
 brachioradial
 blepharoceridae
@@ -15806,6 +15805,7 @@ bromegrass
 bromeigon
 bromeikon
 boliche
+behaviorists
 buzzes
 bromelins
 batler
