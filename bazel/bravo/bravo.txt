@@ -3885,6 +3885,7 @@ benzoate
 birthbed
 bullpouts
 babus
+bugology
 bawdrics
 bawdries
 boreal
@@ -6503,7 +6504,6 @@ boltropes
 bronchopneumonic
 brachiopodist
 bepicture
-bugology
 banxring
 bepiece
 bepile
