@@ -2714,6 +2714,7 @@ cidaridae
 cannabine
 cryptographer
 chrysophlyctis
+corbet
 cannabis
 cannabises
 cannabism
@@ -24913,7 +24914,6 @@ chonolith
 cholagogue
 corbeils
 corbelled
-corbet
 carcinolysin
 corby
 cannet
