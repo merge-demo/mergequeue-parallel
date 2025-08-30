@@ -2268,7 +2268,6 @@ arecuna
 aul
 acids
 amenity
-acidulant
 acidulate
 acidulated
 alaunian
@@ -17984,6 +17983,7 @@ apterial
 apterygidae
 apterygiformes
 almsgiver
+acidulant
 arace
 apterygota
 arcanist
