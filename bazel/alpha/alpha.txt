@@ -13447,7 +13447,6 @@ anniversary
 arthrorrhagia
 anniverse
 azobenzene
-annoy
 annoyance
 attributal
 annoyances
@@ -15245,6 +15244,7 @@ archmurderer
 antihierarchism
 amortise
 antihygienic
+annoy
 anelectrotonic
 adenocyst
 antihygienically
