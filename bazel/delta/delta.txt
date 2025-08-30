@@ -855,7 +855,6 @@ disembalm
 danielle
 dogged
 dalbergia
-demicylindrical
 delignate
 danism
 dreamtime
@@ -6144,6 +6143,7 @@ discipled
 dijudicant
 duperies
 deservedness
+demicylindrical
 deratized
 derats
 deratted
