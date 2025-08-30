@@ -13364,7 +13364,6 @@ demographics
 demorphinization
 dispropriate
 dysprosia
-devant
 disproves
 delly
 disprovide
@@ -14133,6 +14132,7 @@ districting
 defoaming
 decarnate
 divoto
+devant
 deltarium
 dsr
 districts
