@@ -14224,7 +14224,6 @@ butterer
 birls
 bemadaming
 beteach
-bradytrophic
 bateman
 borstal
 beloved
@@ -16985,6 +16984,7 @@ bulkage
 boldfaces
 burt
 bulkhead
+bradytrophic
 bulkheading
 bulky
 bulkily
