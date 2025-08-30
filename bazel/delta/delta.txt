@@ -3416,7 +3416,6 @@ diaspores
 dehumidifier
 disuniters
 damp
-defluent
 dragoon
 dunite
 denazified
@@ -13456,6 +13455,7 @@ disquisit
 dermophlebitis
 diplomatists
 distillment
+defluent
 despoliation
 diazotic
 diarsenide
