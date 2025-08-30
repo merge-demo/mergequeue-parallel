@@ -3324,6 +3324,7 @@ dagos
 deturn
 dsect
 defis
+dozinesses
 deflagrable
 dialling
 decolor
@@ -3687,7 +3688,6 @@ disorganising
 denudates
 desuetude
 defiantly
-dozinesses
 dehydrate
 doze
 dehydrator
