@@ -3187,7 +3187,6 @@ algebraize
 acutance
 acutances
 acute
-acutely
 acuter
 armlocks
 adjunct
@@ -22815,6 +22814,7 @@ anteriorly
 appositional
 alochia
 atria
+acutely
 asdic
 agnomina
 atrial
