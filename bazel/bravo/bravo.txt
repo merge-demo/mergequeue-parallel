@@ -5862,7 +5862,6 @@ boor
 beadier
 boldoine
 bemoaning
-barbermonger
 boozily
 bellyland
 bellylike
@@ -18370,6 +18369,7 @@ bland
 buz
 bolsterers
 buzane
+barbermonger
 blawort
 bortsch
 bepaint
