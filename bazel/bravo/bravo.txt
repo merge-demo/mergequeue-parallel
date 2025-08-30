@@ -1696,6 +1696,7 @@ betokens
 balmonies
 bloodroot
 balmoral
+berm
 benefits
 betsy
 balmorals
@@ -6718,7 +6719,6 @@ balaamitical
 beeishness
 brontosaurus
 berloque
-berm
 berme
 bulkiness
 bossiest
