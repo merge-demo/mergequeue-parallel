@@ -5050,7 +5050,6 @@ denaturalized
 dueller
 denaturing
 duplicand
-diminishingturns
 disfigures
 dextrogyrate
 denaturization
@@ -18147,6 +18146,7 @@ dumbwaiter
 desorbs
 dumdum
 dumdums
+diminishingturns
 dadu
 drab
 distichs
