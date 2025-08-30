@@ -5991,7 +5991,6 @@ coversine
 cathud
 catydid
 continuos
-cyclicity
 catiline
 cating
 cativo
@@ -6982,6 +6981,7 @@ cutlips
 censure
 conative
 censureless
+cyclicity
 coexecutant
 census
 caecitis
