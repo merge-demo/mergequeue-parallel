@@ -3241,7 +3241,6 @@ defibrillated
 dominants
 dalles
 doty
-deteriority
 deterging
 drostden
 dropax
@@ -8670,6 +8669,7 @@ decrial
 delousing
 divulgate
 decoymen
+deteriority
 defecating
 drumbling
 discoast
