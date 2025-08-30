@@ -259,7 +259,6 @@ abdicable
 abdicant
 abhorrence
 abdications
-anthropomorphizing
 abdicative
 adze
 abditory
@@ -14204,6 +14203,7 @@ anthelix
 archaeomagnetism
 anthelminthic
 anthemas
+anthropomorphizing
 anthemata
 agavose
 amugis
