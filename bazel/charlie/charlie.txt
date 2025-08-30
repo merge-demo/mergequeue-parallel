@@ -14789,7 +14789,6 @@ cascan
 citizens
 cytoanalyzer
 catharsis
-cis
 copremia
 cytoarchitectural
 cleistogene
@@ -20066,6 +20065,7 @@ commentators
 commentatorship
 cre
 carboned
+cis
 commented
 crepy
 chromatioideae
