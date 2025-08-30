@@ -1133,7 +1133,6 @@ bairn
 bypassed
 bransolder
 bromius
-barless
 baseless
 bloodnoun
 buxine
@@ -13836,6 +13835,7 @@ bower
 baggings
 binominal
 bidential
+barless
 brewing
 bedplates
 bowerlet
