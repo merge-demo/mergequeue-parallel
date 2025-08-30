@@ -7618,6 +7618,7 @@ adrenitis
 antichresis
 aldebaran
 autoplastic
+amphiploid
 arbours
 anticonvulsive
 ariettes
@@ -21267,7 +21268,6 @@ ambicolorate
 asystolic
 actinoida
 antonymous
-amphiploid
 ascii
 appreciative
 alexipharmacum
