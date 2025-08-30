@@ -2993,7 +2993,6 @@ cantilene
 cantilever
 cantilevered
 cantilevers
-cantily
 cantina
 canting
 cantingness
@@ -29509,6 +29508,7 @@ criticism
 cog
 criticizers
 criticizing
+cantily
 criticship
 criticule
 critique
