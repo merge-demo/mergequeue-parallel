@@ -5036,6 +5036,7 @@ affrication
 audition
 aethionema
 aetiogenic
+athlete
 almagest
 aetiologies
 antiphonaries
@@ -5817,7 +5818,6 @@ altimettrically
 afterglows
 aggrandize
 aggrandizement
-athlete
 arborization
 anither
 azoxyphenetole
