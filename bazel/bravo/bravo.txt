@@ -3798,7 +3798,6 @@ batwing
 baysmelt
 bewearied
 betatrons
-batwomen
 brazils
 brevipennate
 batz
@@ -8320,6 +8319,7 @@ buttonholing
 bye
 biggish
 bayadeer
+base
 bepelt
 bedstock
 bigheaded
@@ -13002,6 +13002,7 @@ boran
 boranes
 bradyteleocinesia
 bevomit
+bursar
 borani
 barkan
 bootstrapping
@@ -13457,6 +13458,7 @@ bottlenose
 bottlers
 blotchiness
 bottlestone
+batwomen
 baptismal
 bottling
 blemishes
@@ -14939,7 +14941,6 @@ boatly
 breccias
 brecciated
 brecham
-bursar
 brechams
 baccharis
 ballywack
@@ -16044,7 +16045,6 @@ bundweed
 bratstvo
 brookweed
 brool
-buprestid
 beardtongue
 blasphemers
 biologic
@@ -17756,7 +17756,6 @@ buzzle
 burrgrailer
 bosniac
 basementless
-base
 braiders
 burrhead
 burrheaded
@@ -18289,6 +18288,7 @@ boone
 bonspells
 buttock
 balachan
+buprestid
 buttocked
 buttocker
 bacteriopsonic
