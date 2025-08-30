@@ -2891,7 +2891,6 @@ cantaliver
 cantaloup
 careerer
 cantaloupes
-catboat
 cantando
 cantankerous
 cantankerously
@@ -3509,6 +3508,7 @@ concordat
 captandum
 captate
 colation
+catboat
 captation
 caption
 carbohydrase
