@@ -3362,7 +3362,6 @@ addible
 addicent
 addicted
 antiknocks
-addictedness
 addictions
 ampassy
 addictives
@@ -14658,6 +14657,7 @@ antisex
 arrearage
 antiblastic
 abjudication
+addictedness
 acclimation
 avarian
 abelite
