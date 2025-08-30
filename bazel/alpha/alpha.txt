@@ -6455,6 +6455,7 @@ aigialosaurus
 antasthenic
 apolarity
 aiglet
+alidads
 alectoriae
 aphroditeum
 aiglets
@@ -8132,7 +8133,6 @@ alidad
 archilochian
 aseismic
 agammaglobulinemic
-alidads
 anchored
 aposporous
 anonad
