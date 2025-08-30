@@ -13046,6 +13046,7 @@ cytodieresis
 cyatheaceae
 conclave
 conational
+cinquefoils
 countrypeople
 cyathiform
 culsdesac
@@ -13951,7 +13952,6 @@ commemoratory
 cinquefoil
 corporature
 cinquefoiled
-cinquefoils
 cinquepace
 cinter
 ceratopsid
