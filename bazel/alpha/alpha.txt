@@ -19729,7 +19729,6 @@ autoskeleton
 antigalactic
 attachable
 avigators
-armangite
 aminovaleric
 anguiform
 armarian
@@ -23194,6 +23193,7 @@ abatjour
 attempted
 attunement
 attunes
+armangite
 apteryges
 ablation
 atua
