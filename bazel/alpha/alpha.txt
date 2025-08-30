@@ -11363,7 +11363,6 @@ ampullary
 ampullate
 amphioxus
 ampulliform
-affrightfully
 avine
 ampullula
 amputate
@@ -23681,6 +23680,7 @@ authenticated
 aerohydroplane
 antisyndicalist
 algorist
+affrightfully
 auspicious
 auspiciousness
 arpenteur
