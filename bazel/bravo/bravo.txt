@@ -2296,7 +2296,6 @@ barbellulate
 boozing
 bathysphere
 blossombill
-broom
 bicarbonates
 besoothed
 beearn
@@ -5324,6 +5323,7 @@ bisiliac
 benzophenol
 bemirement
 beginnings
+broom
 begird
 bracing
 broadsheet
