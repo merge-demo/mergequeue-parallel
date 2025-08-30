@@ -4261,6 +4261,7 @@ asbolan
 agazed
 aktiebolag
 antickt
+archbishoprics
 anorthic
 aterian
 adsmith
@@ -18634,7 +18635,6 @@ autonetics
 autocephality
 archbishopry
 acroamata
-archbishoprics
 archbotcher
 aretes
 alerts
