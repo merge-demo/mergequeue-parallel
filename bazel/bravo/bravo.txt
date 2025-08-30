@@ -1472,7 +1472,6 @@ bromeosin
 boneshave
 balister
 boycottism
-balistes
 blatherskite
 battologized
 bodywear
@@ -11485,6 +11484,7 @@ behaves
 bromthymol
 budder
 bluggy
+balistes
 bispore
 blastomycotic
 bluish
