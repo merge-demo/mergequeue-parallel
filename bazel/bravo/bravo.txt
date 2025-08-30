@@ -679,7 +679,6 @@ beletter
 bynames
 bungles
 bacterized
-besets
 barefacedly
 brisk
 babua
@@ -11784,6 +11783,7 @@ boccie
 backstring
 baron
 bluefish
+besets
 bocconia
 byrl
 bepommel
