@@ -6572,7 +6572,6 @@ breastrope
 bout
 biohazard
 berberid
-blateness
 ballerina
 backlogged
 bricked
@@ -9762,6 +9761,7 @@ bistres
 boltmaking
 boeotarch
 brights
+blateness
 bewitching
 bookish
 bosses
