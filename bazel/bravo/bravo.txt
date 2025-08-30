@@ -5444,7 +5444,6 @@ brakes
 bathylimnetic
 bars
 betravel
-behaviorists
 behavioural
 brachioradial
 blepharoceridae
@@ -10700,6 +10699,7 @@ blend
 bestill
 blendwater
 bowhead
+behaviorists
 blenheim
 bibl
 belap

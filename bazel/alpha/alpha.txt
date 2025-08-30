@@ -10435,7 +10435,6 @@ assertorily
 amidation
 aliofar
 amide
-amidide
 acoelous
 auripuncture
 antileft
@@ -15963,6 +15962,7 @@ antireformer
 antireligion
 archaical
 alkalising
+amidide
 arctian
 antireligiously
 absolvable
