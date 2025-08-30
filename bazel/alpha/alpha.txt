@@ -9987,7 +9987,6 @@ ambivalence
 accessioning
 aiger
 ambiversion
-americanitis
 ambivert
 arrect
 amble
@@ -24638,6 +24637,7 @@ aureolae
 aeneid
 antidiastase
 amelioration
+americanitis
 affrighter
 attatched
 abscising
