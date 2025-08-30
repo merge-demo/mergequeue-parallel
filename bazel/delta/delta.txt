@@ -11402,7 +11402,6 @@ deodands
 dowhacky
 devoter
 dehydrogenise
-demodocus
 dischevel
 dentalization
 disci
@@ -12502,6 +12501,7 @@ dischurch
 desulfurate
 dishorn
 douching
+demodocus
 dislocable
 diastematic
 dishrags
