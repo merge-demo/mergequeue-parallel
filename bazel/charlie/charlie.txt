@@ -8878,7 +8878,6 @@ charadrii
 compendiousness
 charadriiformes
 charadrine
-cutaway
 caracas
 cruciformly
 constance
@@ -18360,6 +18359,7 @@ contentment
 cognatic
 calorize
 cognatus
+cutaway
 cementum
 cognisable
 catholicized
