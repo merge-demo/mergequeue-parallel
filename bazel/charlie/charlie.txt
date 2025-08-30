@@ -3091,7 +3091,6 @@ cowpat
 contrabandist
 capacious
 capaciously
-capaciousness
 capacitate
 carbonyl
 cofounder
@@ -9142,6 +9141,7 @@ coderive
 cerebrovisceral
 churchlier
 curagh
+capaciousness
 conversationize
 chartulae
 chartulary
