@@ -6632,6 +6632,7 @@ befitted
 balancers
 berewick
 banquettes
+builtin
 bergall
 becrimes
 bergamasche
@@ -14448,7 +14449,6 @@ brakeload
 bemotto
 brakemaker
 brakeman
-builtin
 baby
 brambling
 brakeroot
