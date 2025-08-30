@@ -1052,6 +1052,7 @@ cordials
 creeling
 calcicolous
 calcicosis
+collateralized
 collyrie
 calciferol
 calcified
@@ -18937,7 +18938,6 @@ collatee
 collaterality
 chuchona
 chaperon
-collateralized
 coccolithophoridae
 converts
 chromonemata
