@@ -8817,6 +8817,7 @@ bepill
 binoculars
 binodose
 buckbean
+bugbane
 bari
 banalities
 bromothymol
@@ -16840,7 +16841,6 @@ bugaboo
 bugaboos
 bugan
 brahm
-bugbane
 bliest
 beaume
 bimetallists
