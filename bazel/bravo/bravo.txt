@@ -2667,6 +2667,7 @@ barleybrake
 broadener
 barleycorn
 bournonite
+bendlet
 bilge
 basidiophore
 branchiurous
