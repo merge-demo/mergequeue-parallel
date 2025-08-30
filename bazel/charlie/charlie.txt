@@ -21627,7 +21627,6 @@ condyles
 crimsony
 condylion
 cariacus
-condyloma
 condylomatous
 condylome
 chamaeleon
@@ -24349,6 +24348,7 @@ candour
 cosmoramic
 coolness
 coolnesses
+condyloma
 cytochemical
 coolung
 coolweed
