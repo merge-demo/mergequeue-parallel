@@ -9831,7 +9831,6 @@ dejectile
 diapaused
 discanonize
 disrupture
-descendingly
 dillymen
 durangite
 doorstops
@@ -10764,6 +10763,7 @@ durions
 driftages
 deferrers
 dat
+descendingly
 decompensatory
 discreditable
 disdenominationalize
