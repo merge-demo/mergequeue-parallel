@@ -4719,6 +4719,7 @@ canicular
 carpocephalum
 caryotins
 carpocerite
+collum
 carpocratian
 carpogam
 carpogamy
@@ -19200,7 +19201,6 @@ calcic
 cental
 clay
 classifier
-collum
 corbed
 cutover
 collun
