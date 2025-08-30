@@ -6758,6 +6758,7 @@ desinent
 dallying
 desinential
 defectious
+decomponent
 desynonymize
 dopatta
 disengagement
@@ -7357,7 +7358,6 @@ detersiveness
 disunions
 detestation
 devalorize
-decomponent
 detestations
 dethronement
 diminute
