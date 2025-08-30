@@ -699,7 +699,6 @@ begall
 bronchiolitis
 bathyesthesia
 baculine
-boiseries
 baculoid
 baculus
 badaga
@@ -3367,6 +3366,7 @@ bayberries
 breast
 balsam
 bellote
+boiseries
 buoyant
 bren
 bethanks
