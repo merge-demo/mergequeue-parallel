@@ -2276,6 +2276,7 @@ canal
 cookeys
 canalatura
 completer
+cerebbella
 cromorne
 canalboat
 charales
@@ -8973,7 +8974,6 @@ chariotman
 collegiately
 cumarin
 chaplaincy
-cerebbella
 chalchihuitl
 conceivability
 cryptal
