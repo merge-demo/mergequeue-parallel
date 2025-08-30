@@ -1174,7 +1174,6 @@ buffeter
 ballard
 baiting
 baywoods
-bodhisat
 ballasting
 burlers
 balladized
@@ -10293,6 +10292,7 @@ biblism
 bladderseed
 bridgehead
 bladderwort
+bodhisat
 blading
 boxfuls
 blade
