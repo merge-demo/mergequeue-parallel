@@ -1696,6 +1696,7 @@ balmonies
 bloodroot
 balmoral
 benefits
+betsy
 balmorals
 bedticks
 bated
@@ -5302,7 +5303,6 @@ behn
 bontebuck
 bigeyes
 brawn
-betsy
 beggiatoaceae
 bemoil
 beggiatoaceous
