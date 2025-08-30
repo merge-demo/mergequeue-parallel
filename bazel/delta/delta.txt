@@ -7821,7 +7821,6 @@ delthyria
 delates
 dissertationist
 dinoceras
-diadochokinesis
 dyothelism
 dwelling
 dil
@@ -14926,6 +14925,7 @@ doctrinate
 doctrines
 deduces
 dragline
+diadochokinesis
 delinition
 disgraces
 drinkably
