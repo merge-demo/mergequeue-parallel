@@ -1468,6 +1468,7 @@ caramelen
 calliandra
 cedulas
 curraghs
+chaetetidae
 calligrapha
 conjuration
 chemurgy
@@ -8007,7 +8008,6 @@ chemin
 chaetal
 carromata
 clanks
-chaetetidae
 chaetifera
 chaetiferous
 cocytean
