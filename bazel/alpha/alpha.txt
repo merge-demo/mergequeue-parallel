@@ -11598,6 +11598,7 @@ anaemotropy
 anaeretic
 astrometeorologist
 adages
+anthropocentric
 anaerobation
 acrocentric
 anaerobion
@@ -14383,7 +14384,6 @@ acquisition
 anthropobiology
 acerbly
 automaton
-anthropocentric
 amission
 atheromata
 anthropoclimatology
