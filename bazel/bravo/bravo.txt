@@ -9207,7 +9207,6 @@ biped
 bipedal
 bogo
 backhauling
-biliate
 bourbonesque
 bipedality
 bipeds
@@ -17694,6 +17693,7 @@ backhands
 beshouts
 birling
 bookways
+biliate
 bombshell
 burned
 burner
