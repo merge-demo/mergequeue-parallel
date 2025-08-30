@@ -10360,7 +10360,6 @@ angulose
 almoravid
 alikulufan
 anglogaean
-ametabolic
 accidents
 ametallous
 apa
@@ -23124,6 +23123,7 @@ attollent
 amorousness
 attorn
 attornare
+ametabolic
 agilely
 attorney
 allayer
