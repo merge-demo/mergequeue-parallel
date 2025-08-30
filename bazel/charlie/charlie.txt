@@ -13708,7 +13708,6 @@ cheers
 cinchonization
 crunodal
 cinchonize
-cinchonized
 communiqu
 cinchophen
 cretinoid
@@ -17928,6 +17927,7 @@ coelata
 charring
 coelder
 coelebogyne
+cinchonized
 coelect
 cystonephrosis
 coelection
