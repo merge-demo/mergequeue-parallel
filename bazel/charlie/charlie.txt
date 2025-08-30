@@ -7939,6 +7939,7 @@ cossets
 cevian
 ceviche
 cevine
+choltry
 cevitamic
 cismontane
 contes
@@ -11674,7 +11675,6 @@ cushier
 cholos
 choloscopy
 cholterheaded
-choltry
 compeers
 chirrups
 creekstuff

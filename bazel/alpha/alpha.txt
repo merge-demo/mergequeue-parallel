@@ -6008,6 +6008,7 @@ aspartokinase
 actinoneuritis
 astrolabes
 arseniuretted
+alcidine
 aglossal
 aglossia
 aglow
@@ -7523,7 +7524,6 @@ acrocephalous
 assument
 acetary
 antisepticist
-alcidine
 audiometry
 atomist
 apportionate
