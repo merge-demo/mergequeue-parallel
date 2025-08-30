@@ -10038,6 +10038,7 @@ chord
 composers
 cherubim
 cherubimic
+chauffers
 cherubimical
 cherublike
 calzone
@@ -26870,7 +26871,6 @@ carpogonial
 counterlatration
 chitterling
 counterlaw
-chauffers
 counterlegislation
 conant
 counterly
