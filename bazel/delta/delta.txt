@@ -5590,7 +5590,6 @@ depeopled
 danglin
 deperdit
 duffel
-determiners
 discussive
 dictyosiphonaceae
 drisheen
@@ -10852,6 +10851,7 @@ dissave
 discolorate
 discording
 deviates
+determiners
 directorially
 departing
 directors
