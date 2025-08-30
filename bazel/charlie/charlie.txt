@@ -7233,6 +7233,7 @@ coassume
 crystallise
 catarinite
 cryptococcal
+cerebroganglionic
 cohobated
 christianize
 centuple
@@ -7571,7 +7572,6 @@ cartoonists
 cerebrize
 cerebrocardiac
 chairman
-cerebroganglionic
 cerebroid
 cerebromeningeal
 cerebromeningitis
