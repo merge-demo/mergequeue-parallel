@@ -929,7 +929,6 @@ absorptiometer
 allegeable
 alive
 analcites
-absorptional
 aggregate
 actinopoda
 anarthria
@@ -3506,6 +3505,7 @@ adenochrome
 apts
 andric
 abnumerable
+absorptional
 antipedal
 adenocystoma
 antepectoral
