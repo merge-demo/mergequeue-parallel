@@ -14182,6 +14182,7 @@ cowlike
 calcinator
 circumaxial
 circumaxillary
+consequentiality
 cymose
 circumbasal
 circumbendibus
@@ -22815,7 +22816,6 @@ consequent
 ciconian
 consequential
 communalist
-consequentiality
 commorancies
 consequentialities
 commemorator

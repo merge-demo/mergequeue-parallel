@@ -17724,7 +17724,6 @@ appointees
 atopy
 appointer
 agapornis
-adherently
 appointers
 analysand
 appointing
@@ -20923,6 +20922,7 @@ amortises
 anachronistical
 ascians
 annexive
+adherently
 apperil
 amphichromatic
 ascidiacea
