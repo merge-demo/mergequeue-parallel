@@ -7824,7 +7824,6 @@ calcinable
 chinned
 cesious
 cesium
-cesiums
 cespititious
 cespititous
 contrite
@@ -26328,6 +26327,7 @@ coteen
 coteful
 cotele
 cotemporanean
+cesiums
 cotemporaneously
 cotemporaries
 clubbable
