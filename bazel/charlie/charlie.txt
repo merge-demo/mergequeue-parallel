@@ -7351,6 +7351,7 @@ cephaloid
 culminates
 cuticles
 crepuscle
+cockaigne
 cephalology
 cryolites
 coquettishness
@@ -17685,7 +17686,6 @@ colliding
 camouflaged
 comoid
 charmeuse
-cockaigne
 cockal
 counternoise
 cockpit
