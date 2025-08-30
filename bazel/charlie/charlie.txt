@@ -10899,6 +10899,7 @@ chirognomic
 crain
 chirognomically
 cerebrates
+chronometric
 contd
 cimmaron
 chirograph
@@ -12585,7 +12586,6 @@ crom
 citolers
 crimmers
 chronometers
-chronometric
 chronometrically
 chronon
 choppily

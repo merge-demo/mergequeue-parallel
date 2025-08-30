@@ -6491,6 +6491,7 @@ blasia
 blockbusters
 binarium
 bepen
+bosun
 beleaguer
 backdown
 bepepper
@@ -13279,7 +13280,6 @@ boulders
 bowge
 brownprint
 briquettes
-bosun
 blastoidea
 baaskaaps
 bandlessness
