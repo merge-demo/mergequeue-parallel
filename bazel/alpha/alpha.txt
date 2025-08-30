@@ -15725,7 +15725,6 @@ asport
 airmarker
 antiphona
 aminobarbituric
-antiphonally
 ascendent
 antiphonary
 amathophobia
@@ -24027,6 +24026,7 @@ accessories
 azimide
 antigenicity
 autofrettage
+antiphonally
 autogamic
 autogamies
 autogamous

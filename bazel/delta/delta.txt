@@ -9799,6 +9799,7 @@ disulfoxide
 domino
 dclass
 devaster
+dactylus
 dilettanti
 delimiters
 decriminalizing
