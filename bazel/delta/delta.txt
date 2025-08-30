@@ -6395,7 +6395,6 @@ dermovaccine
 deplorate
 disincorporating
 deferentially
-desmology
 dillisk
 derotremata
 denization
@@ -15840,6 +15839,7 @@ dormers
 dormette
 dormeuse
 dormient
+desmology
 dormilona
 dormitive
 dormitories
