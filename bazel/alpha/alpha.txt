@@ -5584,7 +5584,6 @@ agama
 awning
 agamemnon
 afterwash
-agamete
 angulates
 anticonservative
 agamy
@@ -9686,6 +9685,7 @@ abandonedly
 adipocerous
 amalekite
 amalfitan
+agamete
 amalgam
 apophonies
 amalgamate
