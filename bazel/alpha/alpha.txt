@@ -10550,7 +10550,6 @@ amylemia
 arenulous
 apostoile
 amylenol
-amylic
 awin
 arride
 amylidene
@@ -23295,6 +23294,7 @@ asphyxial
 athetize
 angelique
 acclimatisable
+amylic
 audiles
 artophorion
 auding
