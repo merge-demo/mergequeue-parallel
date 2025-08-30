@@ -5064,6 +5064,7 @@ dendritical
 deal
 derbyshire
 dendrium
+dx
 diminishes
 decuria
 derailed
@@ -5538,7 +5539,6 @@ departmentalised
 diversities
 deadlatch
 diaminogene
-dx
 dimmock
 departmentalism
 departmentalization
