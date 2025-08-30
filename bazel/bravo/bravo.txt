@@ -5779,7 +5779,6 @@ bullous
 bysen
 barnyards
 bascology
-butylating
 bunn
 bulak
 bellbird
@@ -10325,6 +10324,7 @@ bookseller
 blagueur
 blains
 bestialize
+butylating
 bestialities
 blakeberyed
 bloodalp
