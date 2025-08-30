@@ -7358,7 +7358,6 @@ albuginea
 archivist
 albugines
 amban
-albuginitis
 albugo
 album
 alces
@@ -13631,6 +13630,7 @@ aunt
 absolutization
 actinolite
 aboriginal
+albuginitis
 antivariolous
 aorist
 anomalies
