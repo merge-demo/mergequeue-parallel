@@ -7397,7 +7397,6 @@ bonsela
 bookbinders
 bromated
 betrayed
-bequeathment
 bimarginate
 bedgown
 bolsheviki
@@ -11668,6 +11667,7 @@ beneficience
 boattail
 blazoners
 bosks
+bequeathment
 boatward
 beatably
 boatwright

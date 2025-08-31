@@ -11003,7 +11003,6 @@ chirurgeonly
 cavern
 coalpits
 chirurgery
-chis
 chiseled
 curuba
 chiseler
@@ -27975,6 +27974,7 @@ crakefeet
 concretizing
 cyphers
 crakow
+chis
 cram
 crimine
 conicine
