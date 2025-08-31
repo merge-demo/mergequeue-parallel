@@ -2294,7 +2294,6 @@ discomfortableness
 daidled
 discharm
 devoted
-dirtplate
 dietetic
 decenters
 disaggregation
@@ -15911,6 +15910,7 @@ detent
 dossman
 deputyship
 dorsopleural
+dirtplate
 derationalization
 doruck
 decatoic
