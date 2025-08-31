@@ -3302,7 +3302,6 @@ capone
 caponette
 caponiere
 caponiers
-canicide
 cavilling
 cotyledon
 concavely
@@ -13987,6 +13986,7 @@ cyphellae
 cyphellate
 cypher
 cipherdom
+canicide
 cibarian
 causeur
 countrieman

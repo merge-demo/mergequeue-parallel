@@ -3866,7 +3866,6 @@ acicularity
 antimonopoly
 anesthetic
 adjutator
-adjutor
 antidotically
 abede
 aqueity
@@ -13478,6 +13477,7 @@ assonant
 allusory
 anacardiaceae
 atwain
+adjutor
 announce
 anthropophagical
 announced
