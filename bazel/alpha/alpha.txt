@@ -10409,6 +10409,7 @@ aisles
 amiantuses
 amyatonic
 amic
+assumpt
 amicability
 amicabilities
 amicably
@@ -21886,7 +21887,6 @@ assuming
 astoundment
 assumingly
 assummon
-assumpt
 ash
 assumptious
 assumptiousness
