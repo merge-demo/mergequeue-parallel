@@ -13234,7 +13234,6 @@ displayable
 dumaist
 depositive
 dongolas
-dovetailed
 driftland
 demoralize
 daunt
@@ -17925,6 +17924,7 @@ dracaena
 duenesses
 discandy
 disserted
+dovetailed
 diddles
 duennas
 datable
