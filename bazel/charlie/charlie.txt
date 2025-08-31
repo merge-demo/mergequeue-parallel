@@ -4114,7 +4114,6 @@ cardiomegaly
 cyclus
 cardiomelanosis
 contradivide
-cardiometer
 cardiometric
 cardiomyomalacia
 cardiomyopathy
@@ -19019,6 +19018,7 @@ clan
 cotylosauria
 celling
 craniometric
+cardiometer
 combattant
 collembola
 collembole
