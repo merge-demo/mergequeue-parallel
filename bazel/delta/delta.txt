@@ -6504,6 +6504,7 @@ descensive
 donor
 descent
 despert
+darnings
 dekameter
 diffracting
 deschool
@@ -9870,7 +9871,6 @@ dissected
 disseminate
 deadlines
 defacers
-darnings
 dissertation
 dispapalize
 deists
