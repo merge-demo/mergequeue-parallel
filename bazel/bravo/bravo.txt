@@ -3321,7 +3321,6 @@ bacterial
 blepharitic
 butleress
 bhil
-basisidia
 bedwell
 bothering
 basisphenoidal
@@ -12780,6 +12779,7 @@ bullfice
 bilbo
 bookwards
 byronite
+basisidia
 bookworm
 booleans
 booleys
