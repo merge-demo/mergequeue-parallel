@@ -3011,6 +3011,7 @@ colectomy
 countergager
 cantoral
 congested
+cucumber
 cantoria
 cardsharps
 calabooses
@@ -30620,7 +30621,6 @@ cuculoid
 counterreform
 concinnous
 cucumariidae
-cucumber
 calcular
 collegial
 cucupha
