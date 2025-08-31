@@ -4138,7 +4138,6 @@ brachycera
 bearfoots
 bearhug
 babirousa
-bilicyanin
 bearhugs
 bearish
 bigoniac
@@ -4966,6 +4965,7 @@ beelzebul
 beennut
 beent
 bimedial
+bilicyanin
 bonework
 beeped
 burgware
