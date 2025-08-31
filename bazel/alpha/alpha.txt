@@ -20084,7 +20084,6 @@ allolalic
 anasarcous
 aurophobia
 allolalia
-arraigns
 arraying
 areaway
 anoura
@@ -22700,6 +22699,7 @@ arya
 atmometric
 allheal
 atmosphere
+arraigns
 atmosphereful
 atmosphereless
 antiopium
