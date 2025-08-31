@@ -11583,7 +11583,6 @@ budgeted
 boanergism
 bisontine
 board
-besmudged
 boardinghouse
 boardings
 boardsmanship
@@ -11967,6 +11966,7 @@ boglet
 beckelite
 bogmire
 borine
+besmudged
 bulimy
 baggit
 bogomilian
