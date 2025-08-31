@@ -10563,6 +10563,7 @@ blatted
 boltheader
 bachelorship
 buduma
+buns
 blattid
 bulwand
 burnewin
@@ -13716,7 +13717,6 @@ balneatory
 balun
 boutefeu
 bouteria
-buns
 bet
 boutylka
 boutique
