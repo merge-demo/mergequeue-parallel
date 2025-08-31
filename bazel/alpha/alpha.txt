@@ -8287,7 +8287,6 @@ alismataceae
 archiepiscopal
 adversaries
 amenorrheal
-aliso
 adpress
 alison
 anticomet
@@ -21351,6 +21350,7 @@ asper
 amnesties
 amenage
 alluvia
+aliso
 asperate
 aphthoid
 artefact
