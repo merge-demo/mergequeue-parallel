@@ -8492,7 +8492,6 @@ caesium
 championless
 champions
 cytotaxonomic
-championships
 champleve
 chams
 chamsin
@@ -12211,6 +12210,7 @@ chrysome
 chrysomelid
 chrysomyia
 corpuscles
+championships
 chrysopa
 chrysopal
 chrysopee
