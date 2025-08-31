@@ -9053,6 +9053,7 @@ biopotential
 bowel
 biopsy
 bravissimo
+beaufort
 biopsic
 byssaceous
 bespice
@@ -17531,7 +17532,6 @@ bobble
 bascule
 broadacre
 burgality
-beaufort
 blancmanges
 bouses
 bakshis
