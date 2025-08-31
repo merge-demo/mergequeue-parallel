@@ -4329,7 +4329,6 @@ carien
 cariform
 carijona
 constructs
-canichana
 culvertage
 confidentiality
 carillonneur
@@ -25126,6 +25125,7 @@ coria
 cynipoidea
 ceptor
 coriaceous
+canichana
 coriamyrtin
 corianders
 conditional
