@@ -10848,7 +10848,6 @@ directorships
 deboist
 daedaleous
 desugared
-dapples
 deposable
 deificatory
 direfully
@@ -15114,6 +15113,7 @@ doggerelist
 dassent
 disleaf
 diversly
+dapples
 desperate
 doggerelizing
 disrout
