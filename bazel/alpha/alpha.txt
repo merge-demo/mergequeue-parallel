@@ -1713,7 +1713,6 @@ accusatives
 arbalests
 antheridial
 archtraitor
-atticized
 aurification
 antediluvian
 accusatory
@@ -12170,6 +12169,7 @@ anconal
 anticipate
 anconas
 ancone
+atticized
 anconeus
 ancony
 acanthodii
