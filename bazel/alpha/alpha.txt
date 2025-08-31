@@ -1668,7 +1668,6 @@ anthracomartian
 antjar
 akwapim
 agony
-artiest
 accumulation
 accumulativ
 aquatones
@@ -12744,6 +12743,7 @@ aweto
 antiepicenter
 angiport
 autoinductive
+artiest
 anaemic
 angkhak
 ammoniticone
