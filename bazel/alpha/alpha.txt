@@ -1705,7 +1705,6 @@ accusation
 aerical
 accusatively
 accusatives
-arbalests
 antheridial
 archtraitor
 aurification
@@ -7220,6 +7219,7 @@ anglesite
 avenues
 adjuvant
 albedo
+arbalests
 antimetrical
 arrector
 antidisestablishmentarian
