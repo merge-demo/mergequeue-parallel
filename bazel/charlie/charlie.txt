@@ -2884,6 +2884,7 @@ curatively
 cacaos
 cantabile
 clothesmonger
+cardial
 chalcis
 cantabrian
 cantabrigian
@@ -4021,7 +4022,6 @@ camomiles
 cardiagram
 cardiagraph
 cardiagraphy
-cardial
 cardialgy
 caryl
 coevals
