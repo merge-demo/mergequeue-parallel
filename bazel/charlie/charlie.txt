@@ -8357,6 +8357,7 @@ chamaephyte
 chamaerops
 chamaesiphonales
 chamar
+clavariaceous
 chambered
 colonopathy
 chamberlainry
@@ -15671,7 +15672,6 @@ clavacin
 clavae
 centres
 claval
-clavariaceous
 custroun
 chromascope
 clavated
