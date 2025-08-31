@@ -13275,7 +13275,6 @@ duluth
 dapedium
 dispondee
 demythologise
-dolor
 disponent
 doges
 donn
@@ -15601,6 +15600,7 @@ designators
 dement
 dewanny
 donk
+dolor
 dioxin
 doloriferous
 donkeyman

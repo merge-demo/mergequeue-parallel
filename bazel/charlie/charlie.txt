@@ -7277,6 +7277,7 @@ clincher
 commercer
 constitution
 contenement
+clapping
 conicity
 carnelians
 cryptolunatic
@@ -15403,7 +15404,6 @@ clappe
 clapperclaw
 clappered
 characters
-clapping
 claps
 consecratedness
 clapstick
