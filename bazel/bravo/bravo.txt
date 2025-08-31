@@ -2718,6 +2718,7 @@ braconids
 barnstormer
 barnstorming
 borages
+bewormed
 brutalisation
 bogomile
 buoyantly
@@ -4539,7 +4540,6 @@ biradiated
 bathroot
 bater
 bool
-bewormed
 beaten
 bouffante
 busts
