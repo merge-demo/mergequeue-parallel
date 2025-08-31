@@ -18416,6 +18416,7 @@ anisosepalous
 anthropoidal
 arboraceous
 anticorset
+antelation
 arboral
 amphicondylous
 allotype
@@ -25046,7 +25047,6 @@ astraddle
 awoken
 almah
 awork
-antelation
 anaesthetist
 aggregation
 avascular
