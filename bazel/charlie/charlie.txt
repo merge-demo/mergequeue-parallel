@@ -18799,7 +18799,6 @@ cotan
 choristate
 compiles
 colet
-cobego
 coleur
 clammily
 cassumuniar
@@ -29581,6 +29580,7 @@ crockery
 calkage
 crofter
 cottagey
+cobego
 chartered
 crocketed
 crockets

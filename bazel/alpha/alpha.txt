@@ -37,7 +37,6 @@ abacas
 allseeds
 aurine
 aethogen
-apopetalous
 aerometeorograph
 abaciscus
 apian
@@ -6968,6 +6967,7 @@ akka
 akkad
 austerer
 appense
+apopetalous
 alist
 antler
 agamis
