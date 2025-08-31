@@ -11018,7 +11018,6 @@ clarkeites
 conichalcite
 chistka
 chit
-chitak
 cordoba
 chuckled
 chitarra
@@ -14808,6 +14807,7 @@ chameleons
 chararas
 cytochrome
 cytocyst
+chitak
 cocoon
 cytoclasis
 caluptra
