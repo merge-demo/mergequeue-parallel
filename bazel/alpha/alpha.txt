@@ -1705,6 +1705,7 @@ accusant
 animadvert
 aristocracies
 accusants
+arethuse
 accusation
 aerical
 accusatively
@@ -21957,7 +21958,6 @@ aloddia
 adaptably
 arecaceous
 anthemy
-arethuse
 aprons
 adhesives
 abecedaria
