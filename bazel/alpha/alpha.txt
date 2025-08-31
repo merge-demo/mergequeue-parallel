@@ -1471,7 +1471,6 @@ accolade
 accolades
 anabo
 accoll
-arrastre
 accolle
 antinovel
 accolled
@@ -10735,6 +10734,7 @@ ammeters
 alboin
 aminogen
 anticonstitutionalist
+arrastre
 ammiaceous
 aspergillum
 amminolysis
