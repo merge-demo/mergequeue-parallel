@@ -11591,7 +11591,6 @@ arhythmically
 agelaus
 assuror
 anaemotropy
-anaeretic
 astrometeorologist
 adages
 anaerobation
@@ -12796,6 +12795,7 @@ antirumor
 apperceiving
 anight
 anglings
+anaeretic
 ambulate
 arpanet
 anglistics

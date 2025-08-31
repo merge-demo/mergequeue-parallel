@@ -5135,7 +5135,6 @@ beflea
 brainier
 bombable
 bromoaurate
-bunkery
 bridesmaid
 belching
 borderers
@@ -11355,6 +11354,7 @@ bayness
 blousy
 bitingness
 blueblood
+bunkery
 brasilin
 breams
 bandits
