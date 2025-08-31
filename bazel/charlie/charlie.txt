@@ -17754,6 +17754,7 @@ coct
 coctile
 coction
 chloroformist
+collimating
 condog
 cocuyo
 chromogenous
@@ -30595,7 +30596,6 @@ cucujid
 corkscrewing
 cucujus
 callitype
-collimating
 case
 cachila
 cucule
