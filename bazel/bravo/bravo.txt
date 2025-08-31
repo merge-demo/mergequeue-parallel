@@ -819,7 +819,6 @@ blake
 biaswise
 baffies
 bacalao
-bafflement
 baklawa
 bonnetmen
 blubberhead
@@ -3967,6 +3966,7 @@ beautification
 bodysurfer
 batrachospermum
 beachboys
+bafflement
 barbeiro
 beaminess
 brocatel
