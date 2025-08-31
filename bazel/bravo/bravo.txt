@@ -6169,7 +6169,6 @@ boof
 budgereegah
 butanolide
 blanking
-basin
 brookie
 baske
 benefactress
@@ -9962,6 +9961,7 @@ bivalents
 biognosis
 bivalvia
 bivalvian
+basin
 bivariant
 baddock
 bivascular
