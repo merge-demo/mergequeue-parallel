@@ -5847,6 +5847,7 @@ aliency
 amount
 anchylotic
 acystia
+asyntactic
 aggressivity
 aclys
 aggrievance
@@ -21264,7 +21265,6 @@ anconeous
 asyngamic
 asininity
 apportionable
-asyntactic
 asyntrophy
 asiphonogama
 anomalure
