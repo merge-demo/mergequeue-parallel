@@ -20687,6 +20687,7 @@ artistic
 aftercourse
 ashiver
 aeroplankton
+appartement
 alkylation
 artistry
 ableness
@@ -23404,7 +23405,6 @@ anywhy
 augure
 augured
 anteroposteriorly
-appartement
 anarcotin
 algaeology
 augurous
