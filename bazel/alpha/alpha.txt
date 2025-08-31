@@ -8577,7 +8577,6 @@ acidific
 allegresse
 allegrettos
 alectrion
-autonomically
 annulosan
 archigenesis
 askeses
@@ -24085,6 +24084,7 @@ amblyopsidae
 axone
 autohemolytic
 autohemorrhage
+autonomically
 autohexaploid
 anthesterin
 acetylthymol
