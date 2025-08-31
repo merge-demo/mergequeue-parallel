@@ -10933,6 +10933,7 @@ cicatrixes
 chiromantis
 chiromys
 chalcioecus
+cozinesses
 chironym
 caecum
 chironomid
@@ -24616,7 +24617,6 @@ chordotonal
 copywriting
 clamshell
 coplanarities
-cozinesses
 coplot
 comoquer
 cauqui
