@@ -10912,7 +10912,6 @@ dispermy
 dyslogia
 discontinuous
 designlessly
-diathermometer
 demonologic
 denaturise
 doddart
@@ -12988,6 +12987,7 @@ disfavourer
 decomplex
 disorderer
 discourse
+diathermometer
 doigt
 daughterkin
 dullhead
