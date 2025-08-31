@@ -3670,6 +3670,7 @@ adiamorphic
 adeniform
 anterograde
 adiaphon
+alkalified
 autophagia
 autoalarm
 antimechanist
@@ -6771,7 +6772,6 @@ anthranil
 argyranthemous
 antivitalistic
 antierosive
-alkalified
 airtimes
 alanyls
 assailment
