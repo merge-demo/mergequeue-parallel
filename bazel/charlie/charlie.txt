@@ -11887,6 +11887,7 @@ chordomesoderm
 chordotomy
 chore
 caviare
+cyanoses
 chattah
 choreal
 choreatic
@@ -13029,7 +13030,6 @@ colloquize
 cyanoplastid
 cyanoplatinite
 cyanose
-cyanoses
 chemitype
 cyanosite
 cyanotic
