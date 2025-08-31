@@ -13619,7 +13619,6 @@ begladding
 beclouded
 blepharophyma
 brantail
-bibulosities
 bounded
 bridgepot
 bushel
@@ -16854,6 +16853,7 @@ buggy
 bakshi
 bushboy
 bussu
+bibulosities
 beudanite
 baloch
 bemeaned
