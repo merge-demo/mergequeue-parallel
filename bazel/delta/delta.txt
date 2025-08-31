@@ -3413,7 +3413,6 @@ depsid
 duelists
 diaspores
 dehumidifier
-disuniters
 damp
 dragoon
 dunite
@@ -5161,6 +5160,7 @@ downwith
 denyer
 didromy
 downstater
+disuniters
 decarburation
 discomposure
 denigrated

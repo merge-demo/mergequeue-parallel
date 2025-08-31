@@ -16728,6 +16728,7 @@ angiograph
 administer
 alopecist
 abscoulomb
+assayable
 aphonous
 aphorise
 aphorismer
@@ -21540,7 +21541,6 @@ anteflected
 addict
 acetometrically
 anisomerous
-assayable
 afterpotential
 advancements
 argyroneta
