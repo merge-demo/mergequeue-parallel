@@ -12049,6 +12049,7 @@ battiest
 breechloader
 boyship
 boisterous
+bundobust
 brangling
 boistous
 boistously
@@ -17776,7 +17777,6 @@ benevolent
 burrstone
 bude
 bambini
-bundobust
 bursae
 bursary
 bengaline
