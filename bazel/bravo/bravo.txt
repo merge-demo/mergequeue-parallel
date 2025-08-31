@@ -7521,7 +7521,6 @@ befell
 bigeye
 bashaws
 bedote
-breezeless
 banes
 bevilled
 butterbill
@@ -16759,6 +16758,7 @@ bicolligate
 buffable
 buffalo
 borrichia
+breezeless
 biflagellate
 buffball
 branchiostege
