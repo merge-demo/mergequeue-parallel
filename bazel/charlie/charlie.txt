@@ -10129,6 +10129,7 @@ chevin
 cheviots
 crined
 chevres
+courb
 centuplicated
 chevret
 counterexamples
@@ -13429,7 +13430,6 @@ cierge
 cierzos
 cocainized
 certificator
-courb
 cyesis
 cif
 camerawork
