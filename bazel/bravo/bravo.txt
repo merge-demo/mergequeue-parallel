@@ -740,7 +740,6 @@ backyard
 badgerer
 blundersome
 belouke
-booking
 banana
 balada
 badgeringly
@@ -3377,6 +3376,7 @@ byordinary
 basophilic
 bass
 blankeel
+booking
 bedchamber
 brans
 bassa
