@@ -1877,7 +1877,6 @@ befoam
 bloodier
 bella
 bandidos
-baronetizing
 blepharoncus
 bushie
 bandied
@@ -6276,6 +6275,7 @@ bennies
 benomyl
 backspread
 benorth
+baronetizing
 benefact
 beggared
 barbigerous
