@@ -8765,6 +8765,7 @@ allocator
 anticontagiously
 agynary
 acadia
+angulosity
 apocynum
 allocatur
 astound
@@ -15385,7 +15386,6 @@ aggravable
 argestes
 antimension
 archisperm
-angulosity
 antimere
 antimerging
 antimerina
