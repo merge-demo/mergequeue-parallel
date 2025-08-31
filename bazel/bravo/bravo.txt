@@ -726,6 +726,7 @@ badness
 baff
 blueish
 baboen
+berrier
 bogyland
 browbeaten
 bracketing
@@ -6786,7 +6787,6 @@ berrichonne
 bosquet
 blockheaded
 backwoodsman
-berrier
 berries
 burnished
 beaut
