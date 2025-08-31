@@ -1251,7 +1251,6 @@ acarina
 acrasy
 affrightingly
 anucleate
-acontias
 arteriodiastasis
 acarocecidium
 apologia
@@ -10793,6 +10792,7 @@ academicians
 acater
 arusa
 ammonifies
+acontias
 ammonifying
 arctiidae
 acromegaly
