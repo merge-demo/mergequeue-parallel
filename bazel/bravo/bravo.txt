@@ -14938,6 +14938,7 @@ boatly
 breccias
 brecciated
 brecham
+bacteriohemolysin
 brechams
 baccharis
 ballywack
@@ -15605,7 +15606,6 @@ bribee
 bacteriosis
 bisulcated
 bosoming
-bacteriohemolysin
 bauxitite
 bundlet
 bluster
