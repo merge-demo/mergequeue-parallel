@@ -15595,7 +15595,6 @@ drams
 doni
 drammocks
 deliquesced
-derobe
 designators
 dement
 dewanny
@@ -17243,6 +17242,7 @@ disorganic
 driveled
 deputator
 driveler
+derobe
 decemberish
 drivelingly
 deutonymphal
