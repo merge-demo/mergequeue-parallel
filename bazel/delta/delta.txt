@@ -2296,6 +2296,7 @@ daidled
 discharm
 devoted
 dirtplate
+dietetic
 decenters
 disaggregation
 digestors
@@ -9298,7 +9299,6 @@ dialogues
 dieters
 discriminal
 daphnad
-dietetic
 dysodontiasis
 decreation
 dismarketed

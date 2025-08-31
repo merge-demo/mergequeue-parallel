@@ -4057,7 +4057,6 @@ adod
 aullay
 adolescence
 ascabart
-adolescent
 argentarii
 anastrophy
 apasote
@@ -14422,6 +14421,7 @@ apostrophised
 adapis
 anthropologists
 arctalia
+adolescent
 anthropometer
 anthropometry
 anginal
