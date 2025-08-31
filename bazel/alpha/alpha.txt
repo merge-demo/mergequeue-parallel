@@ -13383,6 +13383,7 @@ anneal
 artlessly
 axiniform
 annealer
+andarko
 anneals
 annect
 adenohypophysis
@@ -18178,7 +18179,6 @@ agoras
 agneau
 alsoon
 arabians
-andarko
 amity
 arabica
 alodies
