@@ -863,6 +863,7 @@ bagasses
 badhan
 bruxisms
 brierroot
+beery
 beflags
 bleachs
 bongos
@@ -2439,7 +2440,6 @@ boding
 benignantly
 bathic
 bareges
-beery
 baboodom
 bisexuality
 bogles
