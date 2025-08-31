@@ -2209,6 +2209,7 @@ acider
 acidhead
 azimech
 acidy
+apologias
 acetamid
 amamau
 abatjours
@@ -17122,7 +17123,6 @@ apology
 apologiae
 asarone
 arcubos
-apologias
 apological
 apologies
 apologised
