@@ -10375,6 +10375,7 @@ aculeolus
 ametrope
 antshrike
 ametropia
+acicular
 ametrous
 amhar
 antispermotoxin
@@ -23725,7 +23726,6 @@ anticivism
 allelomorphism
 apostatic
 amatories
-acicular
 austrianize
 aldermanry
 austrians
