@@ -817,6 +817,7 @@ assertors
 acesodyne
 abscissas
 anam
+alcohate
 amphicyrtous
 abscission
 absconce
@@ -7542,7 +7543,6 @@ alcmene
 alcogene
 assignable
 antiphilosophical
-alcohate
 assertorically
 alcohol
 alcoholature
