@@ -27189,7 +27189,6 @@ compounding
 chlorhydrate
 catbird
 coetus
-counterwave
 counterweigh
 counterweight
 counterweights
@@ -28906,6 +28905,7 @@ crancelin
 crimmy
 cricetids
 cricetus
+counterwave
 cricked
 crickey
 cricket

@@ -4627,6 +4627,7 @@ ambrotype
 aeolis
 aeolist
 aeolotropy
+atrenne
 aeolus
 artichokes
 aesculapian
@@ -22808,7 +22809,6 @@ atren
 atalayas
 ablewhackets
 anodally
-atrenne
 adless
 atrepsy
 aurally
