@@ -6541,7 +6541,6 @@ cryogenically
 carditic
 ceases
 ceasing
-ceasmic
 conferment
 calamariaceae
 convertend
@@ -19938,6 +19937,7 @@ centenarians
 corbeling
 commandeers
 chromolithographer
+ceasmic
 coenenchyme
 commandery
 commanding
