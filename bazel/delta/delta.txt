@@ -7606,6 +7606,7 @@ deval
 devaloka
 drenched
 declinable
+durabilities
 devaluates
 droppingly
 devalues
@@ -9409,7 +9410,6 @@ diffranchise
 dely
 directorial
 diadumenus
-durabilities
 diffrangible
 discontentive
 dissoluble
