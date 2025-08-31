@@ -14878,6 +14878,7 @@ cordages
 cassandras
 cytomorphological
 cyton
+caunus
 cytone
 chorda
 chess
@@ -28069,7 +28070,6 @@ craniocele
 cordial
 controversialist
 congii
-caunus
 calligraphist
 counteracquittance
 cranioclast
