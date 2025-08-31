@@ -2719,6 +2719,7 @@ diducing
 deliberated
 depart
 disaffiliate
+defamous
 devonshire
 dissembling
 decore
@@ -13490,7 +13491,6 @@ dihexagonal
 dardanium
 disreputableness
 dading
-defamous
 diphyesis
 darnix
 disrespect
