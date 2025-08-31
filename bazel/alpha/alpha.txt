@@ -4705,6 +4705,7 @@ adductive
 aerobate
 aerobatic
 azalea
+apportioner
 aerobee
 anthropolater
 antimaterialist
@@ -17721,7 +17722,6 @@ ablaze
 apport
 arctangent
 ampule
-apportioner
 antiproductionist
 anthophoridae
 apportioning
