@@ -4259,7 +4259,6 @@ blattariae
 barest
 burgonet
 beaverism
-bistoury
 bitypic
 beriming
 blunderheadedness
@@ -8366,6 +8365,7 @@ beryllia
 bigwigs
 babu
 brachygraphic
+bistoury
 byhand
 bicarpellate
 bija
