@@ -12420,7 +12420,6 @@ decoagulation
 deflater
 dishaunt
 deflationary
-dichromaticism
 doliidae
 deathweed
 dishcloth
@@ -14425,6 +14424,7 @@ divan
 decolouration
 doley
 divans
+dichromaticism
 debatably
 dysentery
 durian
