@@ -2091,7 +2091,6 @@ dendrography
 demonologies
 digressingly
 decaliters
-dichopodial
 decalitre
 drapable
 dunlop
@@ -4553,6 +4552,7 @@ dotier
 demihagbut
 disavowals
 dextrocular
+dichopodial
 demihaque
 demijambe
 discriminant
