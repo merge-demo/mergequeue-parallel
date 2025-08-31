@@ -5408,7 +5408,6 @@ acetonylidene
 afterguard
 anaerobious
 afterharm
-afterheat
 acalycal
 afterhend
 anatifae
@@ -9650,6 +9649,7 @@ argentina
 amabel
 amabile
 amable
+afterheat
 allegatum
 amacratic
 amacrinal
