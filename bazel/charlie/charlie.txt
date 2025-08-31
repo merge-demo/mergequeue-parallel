@@ -6954,7 +6954,6 @@ craighle
 climatologist
 cenotes
 ceremonially
-cenozoology
 cuerda
 counterimitation
 censitaire
@@ -26678,6 +26677,7 @@ counterattestation
 counterattraction
 countercompany
 counterattractive
+cenozoology
 curch
 costulation
 counteravouch
