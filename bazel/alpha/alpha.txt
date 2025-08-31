@@ -1259,7 +1259,6 @@ acarodermatitis
 androlepsia
 asleep
 amay
-aesculapian
 apochae
 acarophobia
 acarotoxic
@@ -4629,6 +4628,7 @@ aeolist
 aeolotropy
 aeolus
 artichokes
+aesculapian
 anchises
 aeon
 anacrustically
