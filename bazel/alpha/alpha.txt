@@ -10801,6 +10801,7 @@ ammonitoid
 ammonitoidea
 affording
 ammocoetiform
+apraxic
 antischolastic
 araneids
 alongside
@@ -16582,7 +16583,6 @@ acaroid
 apers
 arsonation
 anticlassically
-apraxic
 arrosion
 asyndeta
 alternipinnate
