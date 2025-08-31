@@ -5773,7 +5773,6 @@ deponing
 dented
 distributee
 docker
-depopulates
 depopulating
 deals
 doodler
@@ -17946,6 +17945,7 @@ dinman
 demarcating
 dumpier
 duffed
+depopulates
 doublers
 dispermous
 degasser

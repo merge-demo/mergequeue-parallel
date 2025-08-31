@@ -4674,7 +4674,6 @@ aerations
 aery
 abbreviator
 authoritatively
-avaunt
 anthologizing
 aftermath
 asterionella
@@ -23682,6 +23681,7 @@ antisyndicalist
 algorist
 affrightfully
 auspicious
+avaunt
 auspiciousness
 arpenteur
 abannition
