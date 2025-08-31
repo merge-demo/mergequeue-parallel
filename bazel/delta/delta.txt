@@ -695,6 +695,7 @@ distributes
 damselfishes
 demist
 damsons
+ductule
 dan
 dissonous
 dadayag
@@ -15529,7 +15530,6 @@ domitian
 dacus
 domn
 dermatoglyphic
-ductule
 domnei
 deoxyribonucleic
 duffing
