@@ -13615,6 +13615,7 @@ clinty
 cnemidophorus
 crematories
 carnosities
+consenter
 cimmeria
 cimmerian
 cimmerianism
@@ -22801,7 +22802,6 @@ claimsman
 cambers
 cuirassing
 consented
-consenter
 curium
 consenters
 consentience
