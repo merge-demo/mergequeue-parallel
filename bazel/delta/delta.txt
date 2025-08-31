@@ -8054,6 +8054,7 @@ dharma
 deuterons
 durra
 dero
+dichas
 dharmas
 dolorously
 discombobulated
@@ -8913,7 +8914,6 @@ disconnect
 demieagle
 dissolvability
 desex
-dichas
 dichasia
 decolonizing
 distributiveness
