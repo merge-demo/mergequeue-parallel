@@ -2043,7 +2043,6 @@ bristly
 brasserie
 bedeguar
 bicollaterality
-bankrolled
 bankrolling
 bankrupt
 bosporan
@@ -7625,6 +7624,7 @@ backened
 beeper
 biking
 burgling
+bankrolled
 borborygmic
 bullary
 bewraps
