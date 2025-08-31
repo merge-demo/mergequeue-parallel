@@ -12699,7 +12699,6 @@ bookfold
 biometric
 bookhood
 bloodhounds
-bazaar
 botticellian
 bookings
 blah
@@ -13291,6 +13290,7 @@ botanica
 boweryish
 bandoleered
 bacteriologically
+bazaar
 bradykinesis
 bivaulted
 bluestone
