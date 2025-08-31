@@ -1689,7 +1689,6 @@ adventry
 accursed
 adamsite
 areasoner
-acrophony
 amniatic
 amerikani
 accursedness
@@ -3976,6 +3975,7 @@ antiracially
 admit
 acetylacetone
 abaxile
+acrophony
 audiovisuals
 aldrin
 admits
