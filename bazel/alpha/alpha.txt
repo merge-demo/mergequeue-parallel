@@ -5579,7 +5579,6 @@ adulter
 agama
 awning
 agamemnon
-afterwash
 angulates
 anticonservative
 agamy
@@ -11124,6 +11123,7 @@ anabaptistry
 amphibolous
 amphibrach
 amia
+afterwash
 amphibrachic
 amphicarpaea
 amphicarpia
