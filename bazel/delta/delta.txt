@@ -725,7 +725,6 @@ diaplasma
 demoniacs
 dystopia
 debauchment
-degasification
 desamidase
 dancers
 disleaving
@@ -8958,6 +8957,7 @@ denaturalization
 deidesheimer
 dichotomy
 drunkenwise
+degasification
 detruck
 dwarfness
 daguerreotypic
