@@ -2151,7 +2151,6 @@ campiest
 campignian
 campylite
 campylometer
-cynicist
 coffeecup
 campyloneuron
 cavesson
@@ -6246,6 +6245,7 @@ chucks
 caup
 caupo
 candelas
+cynicist
 catochus
 coheaded
 cumberlandite
