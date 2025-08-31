@@ -10367,7 +10367,6 @@ dozened
 derelictly
 digress
 dioramic
-diordinal
 durions
 duplet
 demoses
@@ -17954,6 +17953,7 @@ dreigh
 dekares
 dufferdom
 dialyze
+diordinal
 doodskop
 dreamier
 duffs
