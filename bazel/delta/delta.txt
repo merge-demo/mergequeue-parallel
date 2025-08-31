@@ -12196,7 +12196,6 @@ deaerating
 dewooled
 duennadom
 dewata
-dredger
 dichloromethane
 daystreak
 drawcansir
@@ -17633,6 +17632,7 @@ dope
 dehumanise
 diffinity
 diaphragms
+dredger
 disrates
 dichotomisation
 dishevels
