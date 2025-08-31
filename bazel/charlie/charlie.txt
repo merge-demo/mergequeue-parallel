@@ -312,6 +312,7 @@ cacochroia
 cyanometries
 clinorhombic
 cerebralization
+cogeneration
 cacodaemoniac
 cannisters
 cacodaemonial
@@ -22906,7 +22907,6 @@ consigned
 consignee
 consignify
 cantorous
-cogeneration
 cooptive
 countersalient
 consignificant
