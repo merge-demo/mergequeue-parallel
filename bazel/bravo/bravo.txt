@@ -1611,7 +1611,6 @@ ballistician
 brachioganoidei
 benzanilide
 boldface
-bursati
 baudronses
 ballo
 blumea
@@ -16051,6 +16050,7 @@ baseman
 bosomy
 brailler
 beacons
+bursati
 blotting
 broomstraw
 bonelessness
