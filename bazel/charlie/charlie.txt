@@ -7637,7 +7637,6 @@ chuet
 cerianthidae
 convolvulin
 calculable
-cerillo
 ceriman
 cerimans
 cerine
@@ -20108,6 +20107,7 @@ cryoscope
 cristispira
 cribella
 caroused
+cerillo
 commies
 commigration
 crouke

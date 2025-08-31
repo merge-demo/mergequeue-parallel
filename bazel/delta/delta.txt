@@ -4436,6 +4436,7 @@ demembre
 dreamlike
 dastur
 disassembled
+depolish
 dementation
 dementedly
 dementholize
@@ -5758,7 +5759,6 @@ disjoint
 descriptor
 decasualizing
 depolymerize
-depolish
 depolished
 deaconed
 depoliticized
