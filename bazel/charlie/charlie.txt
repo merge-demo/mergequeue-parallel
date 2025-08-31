@@ -2200,6 +2200,7 @@ camptosorus
 cabaan
 campus
 chromatic
+colonette
 campusses
 campward
 chametz
@@ -19279,7 +19280,6 @@ conductorless
 coloner
 cupuliferae
 colones
-colonette
 colongitude
 cleidotomy
 colony
