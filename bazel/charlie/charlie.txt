@@ -11143,7 +11143,6 @@ chloracne
 criminaldom
 chloraemia
 chloragogue
-chloral
 carcharodon
 chloralformamide
 cupelling
@@ -15669,6 +15668,7 @@ candidature
 clausula
 chiasmodontid
 cirrigrade
+chloral
 clausule
 cheekily
 clausure
