@@ -8012,6 +8012,7 @@ crandall
 cityscape
 chaetophobia
 crumples
+cyathia
 chaetophoraceous
 cuvierian
 chaetophorous
@@ -31809,7 +31810,6 @@ coroa
 curvity
 cutest
 cutgrass
-cyathia
 casimire
 costophrenic
 cuticolor
