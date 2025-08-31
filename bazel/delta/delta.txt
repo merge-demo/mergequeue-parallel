@@ -2081,7 +2081,6 @@ dauntlessness
 defaced
 datchas
 disproportionally
-diaconicum
 decal
 dilatory
 decalage
@@ -14401,6 +14400,7 @@ demogorgon
 dipteral
 democratical
 dermatologic
+diaconicum
 diureticalness
 dialyzed
 dodger
