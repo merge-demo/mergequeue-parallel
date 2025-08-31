@@ -7917,7 +7917,6 @@ bungalows
 batoka
 beswinge
 butic
-begazes
 baseline
 besmirchment
 balsamum
@@ -14261,6 +14260,7 @@ bronchiospasm
 begrudger
 blending
 brag
+begazes
 bannut
 bodices
 brogan
