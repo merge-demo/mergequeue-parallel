@@ -14058,6 +14058,7 @@ cypselomorphae
 churchism
 cypselomorphic
 cypselous
+committable
 cypselus
 collinsia
 cyptozoic
@@ -30815,7 +30816,6 @@ casaquin
 cosuretyship
 cholerine
 causus
-committable
 caic
 culmiferous
 counterinfluence
