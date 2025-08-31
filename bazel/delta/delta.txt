@@ -4358,7 +4358,6 @@ descrier
 disburden
 defatigable
 disembroilment
-demandingly
 demands
 denay
 drawlink
@@ -10291,6 +10290,7 @@ deave
 defaulting
 diodontidae
 dioecy
+demandingly
 demurred
 dioecian
 disclout
