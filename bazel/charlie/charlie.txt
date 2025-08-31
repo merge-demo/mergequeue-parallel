@@ -1641,6 +1641,7 @@ calorie
 clogged
 claytonia
 curlicuing
+cleistogene
 circ
 cestoi
 counterdiscipline
@@ -14798,7 +14799,6 @@ catharsis
 cis
 copremia
 cytoarchitectural
-cleistogene
 cytoblast
 cytoblastema
 cablese
