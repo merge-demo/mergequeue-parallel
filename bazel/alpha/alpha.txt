@@ -6577,6 +6577,7 @@ assessing
 apropos
 anthemene
 ainhum
+ascians
 arthropleure
 axonometry
 alien
@@ -20903,7 +20904,6 @@ abstractively
 ascian
 amortises
 anachronistical
-ascians
 annexive
 adherently
 apperil
