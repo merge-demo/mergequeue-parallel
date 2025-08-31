@@ -14091,7 +14091,6 @@ distressingly
 devast
 dockyardman
 dishorner
-depravation
 detort
 decommissioning
 dyspepsies
@@ -18003,6 +18002,7 @@ depauperation
 danish
 domanial
 dukedoms
+depravation
 dukes
 deifical
 daybeacon
