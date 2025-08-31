@@ -2618,7 +2618,6 @@ dispose
 decolors
 duopsonies
 denunciated
-decempeda
 dryasdust
 desulphurising
 decolourizer
@@ -3351,6 +3350,7 @@ disconfirmed
 disperser
 dorey
 damnum
+decempeda
 ditremidae
 defleas
 downlinks
