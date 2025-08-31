@@ -4380,6 +4380,7 @@ acapu
 adventitious
 adventitiousness
 adventively
+aciduria
 apaesthesia
 alimenter
 assassination
@@ -15006,7 +15007,6 @@ aquarium
 antidogmatist
 arglebargling
 alogian
-aciduria
 appast
 accesses
 avoyership
