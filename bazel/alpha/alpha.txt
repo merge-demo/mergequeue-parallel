@@ -1126,7 +1126,6 @@ acacias
 acaciin
 apparitions
 appere
-acalephae
 acclimatized
 academes
 academy
@@ -8836,6 +8835,7 @@ astroalchemist
 agnathostomatous
 allographic
 araneid
+acalephae
 alloyage
 aeroporotomy
 alloiogenesis
