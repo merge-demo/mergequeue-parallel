@@ -7532,6 +7532,7 @@ cerebellocortex
 cerebellorubral
 cerebellum
 creator
+cubonavicular
 cleidarthritis
 covariation
 cerebral
@@ -30569,7 +30570,6 @@ colloquium
 cubomedusan
 cothurn
 cubometatarsal
-cubonavicular
 cubti
 cuca
 clambers
