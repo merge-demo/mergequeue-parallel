@@ -4851,7 +4851,6 @@ diestrum
 dognapers
 durableness
 demonise
-dodlet
 divagate
 deaneries
 ductile
@@ -13080,6 +13079,7 @@ dispassion
 dunfish
 dissipative
 dispassionate
+dodlet
 desmothoraca
 dispassionateness
 dopes
