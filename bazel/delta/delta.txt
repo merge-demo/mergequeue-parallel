@@ -7915,6 +7915,7 @@ delphinite
 desperadoes
 degringolade
 dewlapped
+deiced
 deuniting
 doormaker
 drenching
@@ -15931,7 +15932,6 @@ dismalize
 diastomatic
 dizzying
 devilship
-deiced
 disrating
 dhourras
 defecated
