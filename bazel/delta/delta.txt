@@ -1284,7 +1284,6 @@ datively
 dreamlore
 dimouts
 danthonia
-discal
 dusted
 diazoic
 denari
@@ -10864,6 +10863,7 @@ developement
 diabolifuge
 demophil
 drier
+discal
 dimethylketol
 debunkment
 diletant
