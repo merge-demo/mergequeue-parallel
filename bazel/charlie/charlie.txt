@@ -8667,7 +8667,6 @@ chanteur
 chanteuse
 codiales
 chanteuses
-chanticleer
 chanticleers
 chantier
 capreomycin
@@ -29793,6 +29792,7 @@ colloguing
 classman
 comprehensibleness
 crores
+chanticleer
 consulary
 comfortability
 corydalis
