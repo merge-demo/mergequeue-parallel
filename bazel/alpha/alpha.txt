@@ -16844,7 +16844,6 @@ apprehender
 apimanias
 apina
 aciculated
-armillated
 averments
 aping
 ameliorative
@@ -21172,6 +21171,7 @@ ahistorical
 asiatican
 ankylosed
 asiaticize
+armillated
 asiatize
 advertizement
 assuredly

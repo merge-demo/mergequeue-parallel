@@ -12937,7 +12937,6 @@ bootman
 boots
 bottoms
 blouson
-bittersweet
 boottop
 bidarkees
 burgherdom
@@ -17091,6 +17090,7 @@ blankmindedness
 barbera
 brab
 bullier
+bittersweet
 briared
 backheel
 bim
