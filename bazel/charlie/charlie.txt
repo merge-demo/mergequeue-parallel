@@ -22188,6 +22188,7 @@ connusable
 characterizer
 campanularian
 choicer
+cursorius
 collarman
 courlans
 congeed
@@ -31543,7 +31544,6 @@ cursoriness
 cursorious
 coffeecake
 chile
-cursorius
 cleveites
 culled
 conjobble
