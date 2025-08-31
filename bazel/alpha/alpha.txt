@@ -3607,7 +3607,6 @@ abasements
 adesmy
 annum
 adespoton
-adessenarian
 adams
 adit
 adeste
@@ -14849,6 +14848,7 @@ anticoagulant
 anticoagulation
 anticoagulative
 ampliate
+adessenarian
 acosmistic
 albocinereous
 argental
