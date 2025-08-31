@@ -22113,7 +22113,6 @@ carbanilic
 chowing
 cripplers
 confounding
-confoundment
 caufle
 chronogrammatical
 confounds
@@ -27910,6 +27909,7 @@ conduces
 conferencing
 craftiness
 craftless
+confoundment
 craftly
 croucher
 charactonym
