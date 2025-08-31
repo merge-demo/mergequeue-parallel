@@ -595,7 +595,6 @@ blottingly
 bishoped
 bacon
 balkar
-baubee
 balisaur
 baconian
 breaths
@@ -4566,6 +4565,7 @@ betrunk
 buckteeth
 buglewort
 bicellular
+baubee
 backjaw
 bedarkening
 bedaub
