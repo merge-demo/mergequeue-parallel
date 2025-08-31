@@ -4119,6 +4119,7 @@ beelbow
 brushproof
 beardfishes
 beswarms
+basidial
 botulinum
 beardy
 blanchimeter
@@ -9365,7 +9366,6 @@ birdies
 boondocker
 butterflying
 brimse
-basidial
 boastless
 bacule
 baronetship
