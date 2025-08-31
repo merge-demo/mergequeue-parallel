@@ -6099,6 +6099,7 @@ bol
 boarskin
 binauricular
 benchership
+bespete
 bodge
 blusters
 barragon
@@ -16236,7 +16237,6 @@ brucin
 brucine
 bleachman
 belfries
-bespete
 brugh
 brugnatellite
 bizone
