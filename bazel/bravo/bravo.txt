@@ -11691,6 +11691,7 @@ benthon
 bucket
 bobbers
 bartlett
+borecoles
 bobby
 bobbin
 beslaved
@@ -13056,7 +13057,6 @@ bekinkinite
 boccaro
 boreable
 blizzard
-borecoles
 buddhic
 bored
 boreen
