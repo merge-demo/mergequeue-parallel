@@ -646,6 +646,7 @@ caesaropapist
 choice
 caesious
 caespitose
+chrysolite
 charley
 caespitosely
 cinemize
@@ -17356,7 +17357,6 @@ coassistant
 culpas
 cupola
 crystallic
-chrysolite
 coast
 coastal
 coastally
