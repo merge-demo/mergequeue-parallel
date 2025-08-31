@@ -5244,7 +5244,6 @@ bribable
 befurbelowed
 birdikin
 befurred
-begabled
 bowla
 begad
 bedders
@@ -17610,6 +17609,7 @@ bickerers
 bicentenarnaries
 barbacou
 benumb
+begabled
 brainsickness
 bosky
 basipterygoid
