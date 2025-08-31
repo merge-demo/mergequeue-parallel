@@ -6461,6 +6461,7 @@ biostratigraphy
 backstab
 borderings
 bergmannite
+birsit
 beothukan
 bellicose
 braggartly
@@ -9484,7 +9485,6 @@ backachy
 bonder
 bdellostoma
 birses
-birsit
 bellowsmaking
 badenite
 borstals
