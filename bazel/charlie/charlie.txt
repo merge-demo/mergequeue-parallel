@@ -25414,6 +25414,7 @@ cornstone
 cajang
 czars
 cornua
+cliency
 comdt
 cornual
 cornuated
@@ -31254,7 +31255,6 @@ cerement
 curates
 curatess
 costaea
-cliency
 curation
 cutworks
 curative
