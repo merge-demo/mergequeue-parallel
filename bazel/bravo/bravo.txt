@@ -16410,6 +16410,7 @@ burrhel
 biscacha
 borasque
 bruskly
+banned
 bozal
 breathableness
 bequote
@@ -18408,7 +18409,6 @@ bvt
 bagwash
 buttonweed
 bwanas
-banned
 bloodwort
 bxs
 bewest
