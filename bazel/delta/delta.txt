@@ -6416,7 +6416,6 @@ debellation
 derrises
 duce
 deruinate
-derust
 decameronic
 dervishism
 des
@@ -12201,6 +12200,7 @@ daystreak
 drawcansir
 dilker
 disproven
+derust
 dodrantal
 dehusk
 doom
