@@ -915,7 +915,6 @@ absorbable
 anticivic
 acescency
 afterhold
-absorbefacient
 azoflavine
 absorbing
 altitudinous
@@ -17034,6 +17033,7 @@ antistes
 apodemas
 asportation
 apodiabolosis
+absorbefacient
 apodictive
 apodidae
 apodyteria
