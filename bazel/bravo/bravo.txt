@@ -13375,7 +13375,6 @@ bothrodendron
 blackcap
 babyhood
 beothuk
-bothway
 bunched
 botling
 berried
@@ -17046,6 +17045,7 @@ billheads
 bromian
 bulletining
 batches
+bothway
 bulletless
 basecoat
 birchbark
