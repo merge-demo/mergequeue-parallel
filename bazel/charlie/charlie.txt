@@ -19921,7 +19921,6 @@ comitje
 chunters
 coml
 confessionals
-commandable
 commandatory
 commanded
 confervaceae
@@ -31147,6 +31146,7 @@ congealment
 cupidon
 cupiuba
 cupless
+commandable
 cavities
 cupman
 cupolaed
