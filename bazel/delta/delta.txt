@@ -1128,6 +1128,7 @@ dash
 designado
 doctorization
 debt
+detests
 demagnetisable
 dashed
 dicentra
@@ -14874,7 +14875,6 @@ demonologist
 docmac
 disliked
 docoglossan
-detests
 docoglossate
 diswarren
 decidua
