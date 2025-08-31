@@ -19614,6 +19614,7 @@ carolled
 civilly
 caschrom
 caballing
+clingers
 columniferous
 columniform
 cherimoya
@@ -26494,7 +26495,6 @@ culicids
 cesser
 cymbaled
 chemosis
-clingers
 conjecturable
 cheverons
 coucal
