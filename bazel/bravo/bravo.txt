@@ -4213,7 +4213,6 @@ brachet
 blockiness
 bowls
 boudoir
-beaucoup
 biblicistic
 bloodcurdlingly
 barometrography
@@ -13910,6 +13909,7 @@ bodkinwise
 baccalaurean
 bowshot
 bulbaceous
+beaucoup
 bowshots
 bombarder
 backstopped
