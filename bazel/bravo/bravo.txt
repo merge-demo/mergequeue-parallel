@@ -6497,6 +6497,7 @@ baboot
 bobbysoxer
 bacteriotrypsin
 booley
+bielid
 boltropes
 bronchopneumonic
 brachiopodist
@@ -13511,7 +13512,6 @@ blacksmith
 boucharde
 branchiform
 blundered
-bielid
 bouchette
 bichromate
 boisterousness
