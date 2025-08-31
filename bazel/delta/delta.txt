@@ -5736,6 +5736,7 @@ depoetize
 deconsider
 depoh
 decd
+duncery
 depolarise
 depolarization
 daydreamlike
@@ -10648,7 +10649,6 @@ deviously
 dulias
 drey
 digammated
-duncery
 demurrals
 diploplacular
 degeneration
