@@ -13178,6 +13178,7 @@ crepitate
 clin
 craftsmanlike
 chetahs
+coelder
 coworker
 cyclanthus
 cyclase
@@ -17924,7 +17925,6 @@ coelastraceous
 canonics
 coelata
 charring
-coelder
 coelebogyne
 coelect
 cystonephrosis
