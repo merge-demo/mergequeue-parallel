@@ -3105,7 +3105,6 @@ dipygus
 diseaseful
 daubing
 dentated
-dislade
 devove
 diverticulum
 dilogical
@@ -15840,6 +15839,7 @@ dornic
 deletive
 deterred
 dornick
+dislade
 dornicks
 datival
 dornock
