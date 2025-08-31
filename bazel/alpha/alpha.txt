@@ -17435,7 +17435,6 @@ aerostatics
 abstentious
 appendicocaecostomy
 appar
-apparail
 actinoidea
 apparat
 apiose
@@ -19535,6 +19534,7 @@ archichlamydeous
 arided
 astringing
 apterium
+apparail
 aridest
 affluency
 aridian
