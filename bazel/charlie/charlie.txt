@@ -8984,7 +8984,6 @@ charismatic
 collationer
 ceriphs
 chalazia
-charisms
 charisticary
 charitative
 colloq
@@ -29252,6 +29251,7 @@ cryptodeist
 cryptodynamic
 cryptodira
 cryptodiran
+charisms
 cryohydrate
 casavas
 calcify
