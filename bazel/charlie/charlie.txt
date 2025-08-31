@@ -3249,7 +3249,6 @@ corns
 capito
 clingier
 crayfishing
-capitolian
 contrib
 corregimiento
 capitoline
@@ -12699,6 +12698,7 @@ crinite
 catakinesis
 concede
 cobaltous
+capitolian
 cataloguize
 chuff
 chuffer
