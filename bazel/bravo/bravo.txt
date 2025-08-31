@@ -4208,7 +4208,6 @@ backchain
 bellmen
 barometric
 beatnik
-beatrix
 becater
 bonged
 bixin
@@ -4276,6 +4275,7 @@ bebathe
 bebless
 beblood
 bryonin
+beatrix
 bewitchery
 beblooding
 bluestockingism
