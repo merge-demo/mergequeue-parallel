@@ -3684,6 +3684,7 @@ airframes
 appealingness
 appaume
 adiaphoron
+apples
 anisopterous
 adiated
 anaboly
@@ -11776,7 +11777,6 @@ analphabete
 adelaster
 angelus
 acyanopsia
-apples
 awink
 acceptedly
 ariolate
