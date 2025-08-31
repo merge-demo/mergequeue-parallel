@@ -2940,7 +2940,6 @@ dotingness
 diegesis
 diplasiasmus
 droil
-dolt
 deducibility
 deducibly
 deducted
@@ -16382,6 +16381,7 @@ daven
 divergently
 daviely
 discinoid
+dolt
 downsizing
 defensible
 dichord
