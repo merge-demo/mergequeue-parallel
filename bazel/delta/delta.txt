@@ -2567,7 +2567,6 @@ discouragements
 docetist
 deamidization
 desistence
-diplocephalous
 decoat
 decoct
 disobliges
@@ -11379,6 +11378,7 @@ discerped
 dissemble
 deambulatories
 davens
+diplocephalous
 discerpible
 discerpibleness
 downfield
