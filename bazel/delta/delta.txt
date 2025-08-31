@@ -12458,7 +12458,6 @@ dishelms
 durability
 disherited
 defibrillator
-deamidize
 deplantation
 drybrush
 desecate
@@ -16001,6 +16000,7 @@ diploplacula
 doters
 donable
 dotes
+deamidize
 dispreads
 decadist
 doth
