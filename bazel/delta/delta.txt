@@ -3759,7 +3759,6 @@ disour
 dehorns
 decaudate
 declinations
-doughlike
 dougl
 dehorted
 defatigate
@@ -9183,6 +9182,7 @@ dowses
 diductively
 djasakid
 doraphobia
+doughlike
 digenesis
 dye
 dogship
