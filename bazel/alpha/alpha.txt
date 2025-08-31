@@ -3379,6 +3379,7 @@ addle
 adenosis
 apposing
 acyloxymethane
+anatomicophysiologic
 addlebrained
 addlehead
 arisaema
@@ -23372,7 +23373,6 @@ adversity
 antiantidote
 aquiform
 agitable
-anatomicophysiologic
 auger
 augerer
 anticontagion
