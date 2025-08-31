@@ -2494,6 +2494,7 @@ declamatory
 decibar
 dendrochronology
 dorsale
+disassimilation
 derivational
 drysaltery
 dimming
@@ -17566,7 +17567,6 @@ drumbles
 depudorate
 drumfishes
 decolour
-disassimilation
 dynamiter
 drumliest
 drumline
