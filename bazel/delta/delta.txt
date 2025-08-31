@@ -459,7 +459,6 @@ dimyaric
 diathermous
 defiance
 discept
-dialecticize
 debates
 defensative
 disseats
@@ -8863,6 +8862,7 @@ dirten
 dibranchiata
 dropperful
 dovens
+dialecticize
 dibstone
 deis
 degustation
