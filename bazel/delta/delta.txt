@@ -7977,7 +7977,6 @@ drawpoint
 drunkometer
 dextroglucose
 distensive
-deserver
 demological
 dextrolactic
 diphenylthiourea
@@ -8263,6 +8262,7 @@ diagnostician
 dantist
 diagnosticians
 dispopularize
+deserver
 dizzy
 disputableness
 diagonal

@@ -2790,7 +2790,6 @@ abiogeneses
 adati
 acronymic
 akvavits
-agonium
 apium
 abidal
 avadavat
@@ -4770,6 +4769,7 @@ amability
 anthoecology
 amphistomous
 aerodynamics
+agonium
 ambitionist
 allochirally
 aerodyne
