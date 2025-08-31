@@ -1989,7 +1989,6 @@ acidolysis
 achaean
 asphyctic
 antiexpressionistic
-agglutinating
 ancientness
 acropathology
 achafe
@@ -15887,6 +15886,7 @@ anachronism
 antiquarianly
 akemboll
 ablepharous
+agglutinating
 antiquaries
 antiquartan
 americas
