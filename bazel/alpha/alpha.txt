@@ -1470,7 +1470,6 @@ afoot
 acclivous
 accloy
 accoil
-accolade
 accolades
 anabo
 accoll
@@ -21080,6 +21079,7 @@ asexualization
 asexualize
 arendalite
 asfetida
+accolade
 asha
 avulse
 appetitional
