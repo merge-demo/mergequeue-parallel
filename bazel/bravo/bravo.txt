@@ -2133,7 +2133,6 @@ boxfishes
 bantering
 banteringly
 banty
-betangle
 beaugregories
 bribery
 bantu
@@ -5998,6 +5997,7 @@ bemaddened
 borderlines
 bellyfuls
 bemaim
+betangle
 bellyacher
 bastardizes
 bushet
