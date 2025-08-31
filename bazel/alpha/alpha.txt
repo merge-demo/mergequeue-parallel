@@ -10888,7 +10888,6 @@ algerita
 abyssinians
 automolite
 amoebaeum
-amoebalike
 amoebas
 astipulate
 asmolder
@@ -20633,6 +20632,7 @@ anteroventrally
 amphisbaenic
 agrostographic
 alwise
+amoebalike
 articulators
 abelonian
 aces
