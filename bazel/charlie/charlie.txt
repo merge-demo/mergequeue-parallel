@@ -20690,7 +20690,6 @@ casserole
 cuinfo
 complexes
 convolvuli
-consonantise
 chylify
 cyanopsia
 chelidonate
@@ -21110,6 +21109,7 @@ conceal
 concealable
 cadger
 cowy
+consonantise
 concealedly
 costalgia
 concealedness
