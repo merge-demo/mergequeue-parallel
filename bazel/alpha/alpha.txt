@@ -2472,7 +2472,6 @@ aposiopeses
 abruptest
 abasgi
 acontia
-ambidexter
 addda
 assumingness
 algesic
@@ -23576,6 +23575,7 @@ auricularian
 auriculas
 aviate
 alethic
+ambidexter
 auriculidae
 assailant
 amioidei
