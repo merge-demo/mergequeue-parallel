@@ -15164,7 +15164,6 @@ dislady
 difunctional
 doggrel
 dogget
-doggrelize
 dottrels
 dorlot
 dungeons
@@ -15191,6 +15190,7 @@ disfrequent
 dogmatise
 dogmatised
 dressoirs
+doggrelize
 defiled
 dogmatizer
 dispensator
