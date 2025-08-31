@@ -23827,7 +23827,6 @@ contrivances
 contrive
 curds
 contrived
-contrivedly
 contrivement
 cinchonology
 contriver
@@ -31618,6 +31617,7 @@ curvy
 chinwag
 curvicaudate
 curvifoliate
+contrivedly
 courtiers
 colling
 caucused
