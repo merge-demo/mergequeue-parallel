@@ -18657,7 +18657,6 @@ cointer
 cointerest
 cointerred
 cointerring
-cointreau
 coinvolve
 coyo
 coyol
@@ -25850,6 +25849,7 @@ corsican
 cyclarthrodial
 clinical
 canada
+cointreau
 chyak
 circumscribes
 corsite

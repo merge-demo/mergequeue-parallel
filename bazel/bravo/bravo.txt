@@ -14829,7 +14829,6 @@ blennoma
 burning
 blameable
 baja
-breakers
 breakfast
 buffetings
 breakfasted
@@ -16770,6 +16769,7 @@ buffeted
 brotchen
 botchiness
 borderless
+breakers
 buffeters
 boldheartedness
 burman
