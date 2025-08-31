@@ -25247,6 +25247,7 @@ corkscrew
 cyanotrichite
 cacophonize
 choom
+cpo
 corkwing
 commissions
 cormac
@@ -27791,7 +27792,6 @@ clitoridean
 contractus
 cpd
 chemurgic
-cpo
 cps
 cpt
 cullay
