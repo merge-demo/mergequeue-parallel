@@ -4833,7 +4833,6 @@ dextrous
 doctorhood
 disappearances
 dactylioglyph
-dustermen
 dilleniad
 ditali
 disembogue
@@ -12315,6 +12314,7 @@ distrusting
 dromonds
 degreasing
 disgorges
+dustermen
 dromedarist
 diminuendos
 disgospelize
