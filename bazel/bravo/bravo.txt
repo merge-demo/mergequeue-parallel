@@ -5490,6 +5490,7 @@ briefers
 bahmani
 bootid
 behoof
+briefness
 broadmouth
 baronets
 behoovefulness
@@ -15278,7 +15279,6 @@ boisterously
 brieflessly
 bracozzo
 besieges
-briefness
 bleeds
 bedstaves
 barblet
