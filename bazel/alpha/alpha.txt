@@ -1245,7 +1245,6 @@ alaloi
 avian
 asexualizing
 acaridean
-angelical
 acariform
 acarina
 acrasy
@@ -21279,6 +21278,7 @@ ascii
 appreciative
 alexipharmacum
 aftergame
+angelical
 asker
 askewgee
 askip
