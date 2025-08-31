@@ -11191,7 +11191,6 @@ codomain
 charquid
 chloranthus
 chlorate
-countersea
 chlorcosane
 care
 chlordans
@@ -17189,6 +17188,7 @@ coagriculturist
 carryke
 connectibility
 chrononomy
+countersea
 coagulability
 cymrite
 coagulated
