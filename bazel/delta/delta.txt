@@ -8364,6 +8364,7 @@ deplanes
 dirging
 dialysable
 dorobo
+desalting
 dahabiahs
 desulphuration
 dinitrophenylhydrazine
@@ -10912,7 +10913,6 @@ designlessly
 demonologic
 denaturise
 doddart
-desalting
 disculpate
 decerebrize
 diruption
