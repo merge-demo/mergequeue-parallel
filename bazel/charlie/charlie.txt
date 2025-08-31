@@ -7142,7 +7142,6 @@ centraxonial
 centre
 centreboard
 centred
-centref
 centreless
 centrepiece
 canephoroe
@@ -19632,6 +19631,7 @@ coach
 cycloconium
 columnists
 callets
+centref
 cinematographical
 columnized
 creeperless
