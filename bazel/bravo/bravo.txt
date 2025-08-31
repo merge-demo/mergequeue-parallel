@@ -12067,7 +12067,6 @@ boites
 bojo
 bokhara
 baronized
-boronic
 bokom
 beanfield
 bola
@@ -13171,6 +13170,7 @@ bullhorns
 brightened
 baronize
 bangtail
+boronic
 brachycephalize
 bourlaw
 bowtel
