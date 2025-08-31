@@ -5445,7 +5445,6 @@ counterwrite
 cacodemonomania
 catachreses
 catachresis
-catachrestic
 cercariae
 catachrestically
 catachthonic
@@ -23929,6 +23928,7 @@ crewelist
 chukkars
 chromophyl
 convectively
+catachrestic
 costoscapular
 clods
 chromatograph
