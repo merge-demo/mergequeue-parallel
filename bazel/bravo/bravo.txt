@@ -4668,6 +4668,7 @@ blindcat
 buckstay
 bonbonniere
 blastoid
+banish
 bediapering
 biosociology
 boxiness
@@ -6656,7 +6657,6 @@ beneception
 bergy
 bergylt
 berglet
-banish
 branchipodidae
 baseheartedness
 bergman
