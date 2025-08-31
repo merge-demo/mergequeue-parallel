@@ -3800,6 +3800,7 @@ bajra
 batz
 burds
 beldamship
+barotse
 bolsons
 bestubble
 benchland
@@ -17841,7 +17842,6 @@ biurate
 blackstrap
 blinked
 boob
-barotse
 bisetose
 burling
 brisks
