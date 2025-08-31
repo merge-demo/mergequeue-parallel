@@ -20435,7 +20435,6 @@ arteriostenosis
 admix
 arteriotrepsis
 agyria
-arterious
 arcticology
 apperceptionistic
 archetype
@@ -24631,6 +24630,7 @@ averia
 accordant
 alai
 andesite
+arterious
 annuli
 acinetarian
 anopheline
