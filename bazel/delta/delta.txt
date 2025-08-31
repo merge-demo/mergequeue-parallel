@@ -4655,6 +4655,7 @@ dustproof
 demiscible
 denticulate
 demise
+diopsides
 demised
 depas
 diploglossate
@@ -15597,7 +15598,6 @@ dyspepsia
 drams
 doni
 drammocks
-diopsides
 deliquesced
 derobe
 designators
