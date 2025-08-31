@@ -6135,7 +6135,6 @@ agrammaphasia
 agrammatica
 accouple
 afterpeak
-agrammatism
 authorized
 agrammatologia
 ahab
@@ -10873,6 +10872,7 @@ amniotic
 amniotin
 alkaligen
 amniotitis
+agrammatism
 altaltissimo
 atafter
 amniotome
