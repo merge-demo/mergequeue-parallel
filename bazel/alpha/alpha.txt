@@ -11174,7 +11174,6 @@ assimilator
 aryans
 amphidisc
 acridan
-amphidiscophoran
 aversant
 aerophilia
 amphigaea
@@ -15590,6 +15589,7 @@ assures
 aversion
 affectionately
 angulous
+amphidiscophoran
 archeologic
 allomucic
 anesthyl
