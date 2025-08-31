@@ -5945,6 +5945,7 @@ batswing
 blitzkrieg
 belast
 berber
+bulwark
 belowground
 brandenburgs
 biggety
@@ -18362,7 +18363,6 @@ bromethylene
 bethlehemite
 brookiest
 baned
-bulwark
 bandlessly
 bland
 buz
