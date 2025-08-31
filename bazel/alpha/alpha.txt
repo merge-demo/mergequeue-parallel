@@ -18757,7 +18757,6 @@ aluminothermic
 angloid
 archfounder
 acervose
-ancientism
 antipastos
 ambush
 autumnally
@@ -23373,6 +23372,7 @@ adversity
 antiantidote
 aquiform
 agitable
+ancientism
 auger
 augerer
 anticontagion
