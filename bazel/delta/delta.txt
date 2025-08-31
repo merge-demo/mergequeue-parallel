@@ -4157,6 +4157,7 @@ delire
 documentary
 decimator
 discomfited
+deltidium
 doulocracy
 dolling
 datelined
@@ -5771,7 +5772,6 @@ depones
 deponing
 dented
 distributee
-deltidium
 docker
 depopulates
 depopulating
