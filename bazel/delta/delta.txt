@@ -2853,7 +2853,6 @@ diskos
 denicotinized
 dittologies
 depriver
-discretively
 disposure
 doveling
 disgenius
@@ -13543,6 +13542,7 @@ decagon
 diss
 dissait
 diblastula
+discretively
 dissatisfaction
 dissatisfactions
 devisal
