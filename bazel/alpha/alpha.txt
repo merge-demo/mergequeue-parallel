@@ -11387,6 +11387,7 @@ antholysis
 autolysis
 aldosteronism
 atrabilious
+adeodatus
 afterwitted
 amsel
 amt
@@ -20731,7 +20732,6 @@ applicate
 artware
 artworks
 aru
-adeodatus
 antbird
 aruac
 affeer
