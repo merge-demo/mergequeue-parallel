@@ -11613,7 +11613,6 @@ anaerophyte
 anaphylactic
 aerobiologically
 amatols
-anaeroplastic
 astate
 anaesthesiology
 agitators
@@ -21881,6 +21880,7 @@ arteriology
 assumers
 anthelmintic
 aircrewmen
+anaeroplastic
 argentometrically
 assumes
 apothesis
