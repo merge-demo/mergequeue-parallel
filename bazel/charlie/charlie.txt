@@ -4063,7 +4063,6 @@ cameoing
 cornmaster
 condalia
 cardin
-cardinal
 croslet
 cancans
 capabilities
@@ -5829,6 +5828,7 @@ caterpillar
 caterpillared
 cochurchwarden
 caterpillarlike
+cardinal
 caterpillars
 caters
 caterva
