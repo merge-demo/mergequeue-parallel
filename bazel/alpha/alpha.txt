@@ -5117,6 +5117,7 @@ agrias
 ameloblastic
 ascensor
 affeir
+advertency
 artifactual
 affenpinscher
 affere
@@ -8332,7 +8333,6 @@ asylabia
 alkahestic
 agalaxy
 allopath
-advertency
 aortoptosis
 alkahestica
 anesthesiometer
