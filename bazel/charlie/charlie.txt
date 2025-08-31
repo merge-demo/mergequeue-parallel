@@ -2255,7 +2255,6 @@ canafistolo
 canafistulo
 chlorapatite
 concertgoer
-canaglia
 cetiosaurus
 canaigre
 canaille
@@ -10930,6 +10929,7 @@ coextensiveness
 coinhabit
 chironomus
 cosmologies
+canaglia
 chiroplasty
 churchgo
 commenceable
