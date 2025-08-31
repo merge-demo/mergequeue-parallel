@@ -1863,7 +1863,6 @@ debitum
 dazes
 desponsage
 declaratory
-destour
 douvecot
 disimitation
 deblai
@@ -2081,6 +2080,7 @@ decaying
 diety
 degusted
 dummy
+destour
 dauntlessness
 defaced
 datchas

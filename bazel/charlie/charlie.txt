@@ -7175,7 +7175,6 @@ centrifuge
 centrifugence
 centrifuging
 coffeehousing
-centring
 casaque
 clivia
 cavaedia
@@ -29099,6 +29098,7 @@ crinums
 clausiliidae
 cryobiological
 cryobiologist
+centring
 criobolium
 courtman
 credit
