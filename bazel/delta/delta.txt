@@ -4658,7 +4658,6 @@ denticulate
 demise
 demised
 depas
-didynamia
 diploglossate
 demisemiquaver
 delineable
@@ -11914,6 +11913,7 @@ denying
 diadems
 diffusionist
 defendress
+didynamia
 dissociates
 donatress
 decurrence
