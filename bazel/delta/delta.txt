@@ -1216,6 +1216,7 @@ dunts
 dillydallying
 datagram
 datagrams
+dehisces
 degging
 doormat
 devilhood
@@ -12109,7 +12110,6 @@ daguerreotypy
 diabetics
 dysenteries
 disenthral
-dehisces
 discoplacentalia
 disenthralled
 disenthrone
