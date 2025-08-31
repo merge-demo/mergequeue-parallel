@@ -4194,7 +4194,6 @@ beaters
 beatifical
 benchlet
 beatifically
-beatification
 baroto
 beatified
 blockaders
@@ -14529,6 +14528,7 @@ branchlet
 blennorrhea
 branchman
 brandenburg
+beatification
 brandenburger
 basing
 brandenburgh
