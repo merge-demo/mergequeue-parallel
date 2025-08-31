@@ -1774,7 +1774,6 @@ baltimore
 bumblebeefishes
 baluba
 berogue
-boxhauls
 baluch
 bullet
 bitripinnatifid
@@ -15503,6 +15502,7 @@ briskets
 biedermeier
 bromlite
 bescent
+boxhauls
 beast
 bussy
 barbule
