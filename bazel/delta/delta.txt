@@ -12480,7 +12480,6 @@ dishonor
 dishonorer
 doctrinairism
 deresinize
-dirhams
 detestability
 discontentful
 disciplined
@@ -14964,6 +14963,7 @@ dependencies
 dialectologic
 dodded
 dodder
+dirhams
 differingly
 dormancy
 dunnages
