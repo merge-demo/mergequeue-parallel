@@ -14662,7 +14662,6 @@ brassieres
 blackhander
 brassies
 beatas
-bestraught
 brassish
 brasslike
 bound
@@ -18229,6 +18228,7 @@ blathering
 butterflower
 berlinize
 battles
+bestraught
 batik
 bartisans
 baburd
