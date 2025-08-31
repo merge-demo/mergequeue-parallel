@@ -3440,6 +3440,7 @@ birimose
 bullfoot
 boatshop
 bleaching
+bulletmaker
 bagani
 balteus
 barrelsful
@@ -8702,7 +8703,6 @@ bimethyls
 backslashes
 bimillionaire
 breastbone
-bulletmaker
 battish
 bellbind
 bubblingly
