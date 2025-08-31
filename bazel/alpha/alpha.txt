@@ -4866,7 +4866,6 @@ anthraciferous
 aerobranchiate
 astrobiologist
 abluted
-agenizes
 aerometric
 aeronat
 aeronaut
@@ -15951,6 +15950,7 @@ akepiros
 antirealistically
 asyndetically
 akee
+agenizes
 antirebating
 aparaphysate
 agaricic
