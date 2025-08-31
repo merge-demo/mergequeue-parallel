@@ -11347,6 +11347,7 @@ admonitory
 anhydremia
 apodosis
 ampullary
+arachnological
 ampullate
 amphioxus
 ampulliform
@@ -16251,7 +16252,6 @@ accusive
 antitragicus
 aricine
 alphabetizing
-arachnological
 assuagement
 atherinidae
 anthraphenone
