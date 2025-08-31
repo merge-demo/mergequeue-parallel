@@ -13552,7 +13552,6 @@ bopster
 baizing
 bivocalized
 bite
-bougar
 biophysically
 bouge
 brogued
@@ -15972,6 +15971,7 @@ burgullian
 brontides
 bremia
 boniform
+bougar
 backsplicing
 bromeliaceae
 bielby
