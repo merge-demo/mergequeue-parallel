@@ -1962,7 +1962,6 @@ dwines
 downby
 dreader
 depressant
-dobla
 deckload
 debunkers
 dispergated
@@ -6321,6 +6320,7 @@ dermis
 dermises
 diminuendo
 drawbores
+dobla
 dermoblast
 dendrologist
 diaplasis
