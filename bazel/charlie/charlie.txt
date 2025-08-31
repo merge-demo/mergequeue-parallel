@@ -14497,7 +14497,6 @@ calcavella
 cyrtomium
 cyrtopia
 croplands
-ciruela
 cosets
 cirurgian
 cyrus
@@ -30808,6 +30807,7 @@ colicweed
 consonances
 cervicolabial
 cholates
+ciruela
 cullises
 cinereous
 cartop
