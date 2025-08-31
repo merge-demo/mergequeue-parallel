@@ -5080,6 +5080,7 @@ canonistical
 cherimolla
 caseinate
 cancriform
+chondroitic
 canvaser
 chaprassi
 caseinogen
@@ -11746,7 +11747,6 @@ chondroglossal
 chondrography
 cytomegalic
 conduplication
-chondroitic
 chondroitin
 cucurbitaceae
 conceptualizes

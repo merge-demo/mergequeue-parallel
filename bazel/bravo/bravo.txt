@@ -4912,7 +4912,6 @@ bistered
 beefalos
 bilimbis
 blackheartedly
-brig
 boundlessly
 bonnne
 border
@@ -12233,6 +12232,7 @@ boneset
 benitoite
 borocaine
 bemud
+brig
 bolstered
 bolsterer
 battologised
