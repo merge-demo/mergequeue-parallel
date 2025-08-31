@@ -7757,7 +7757,6 @@ devisees
 disastimeter
 dogmatization
 desulphurized
-discontiguousness
 dikaryon
 deviser
 devising
@@ -16160,6 +16159,7 @@ dockside
 deipnosophistic
 doughtiest
 doughtily
+discontiguousness
 disaffections
 diplozoon
 deaning
