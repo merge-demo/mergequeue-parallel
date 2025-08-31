@@ -2492,6 +2492,7 @@ countermands
 countersignatures
 coasters
 candies
+consternation
 cueing
 candying
 consuetudinary
@@ -23106,7 +23107,6 @@ constellations
 constellatory
 consternate
 craniospinal
-consternation
 creatinin
 crooklegged
 clubbed
