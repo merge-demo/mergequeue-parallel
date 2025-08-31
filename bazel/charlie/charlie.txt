@@ -1289,7 +1289,6 @@ cantador
 carious
 cryptogrammatist
 chaucer
-calyceraceae
 cardioparplasis
 crotophaga
 calices
@@ -13162,6 +13161,7 @@ clon
 ciceronianisms
 ciceronianist
 compellability
+calyceraceae
 colluviums
 clavellate
 ciceronianists
