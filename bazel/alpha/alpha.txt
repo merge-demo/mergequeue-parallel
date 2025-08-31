@@ -12756,7 +12756,6 @@ angle
 angled
 archoplasm
 asps
-angledog
 argenol
 archencephalic
 anglehook
@@ -15241,6 +15240,7 @@ admeasured
 archontic
 antihierarchies
 archmurderer
+angledog
 antihierarchism
 amortise
 antihygienic
