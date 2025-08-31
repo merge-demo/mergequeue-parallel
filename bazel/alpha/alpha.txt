@@ -3125,6 +3125,7 @@ alstonine
 assident
 actuary
 aphis
+acaroid
 anastomotic
 ashlar
 alpist
@@ -16580,7 +16581,6 @@ aperiodicity
 ached
 alleger
 aperitif
-acaroid
 apers
 arsonation
 anticlassically
