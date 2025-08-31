@@ -12898,7 +12898,6 @@ antepone
 anticomplementary
 angust
 antinihilism
-arroya
 auronal
 anacanth
 angustirostrate
@@ -20927,6 +20926,7 @@ ascidioida
 archipelago
 ascidioidea
 attesting
+arroya
 ascyphous
 ascyrum
 authorizable
