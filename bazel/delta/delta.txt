@@ -10233,7 +10233,6 @@ doblons
 diphthong
 defibrination
 dirdum
-decoys
 dynode
 dissolutionist
 distresses
@@ -13324,6 +13323,7 @@ deleerit
 deutomerite
 dementate
 decrees
+decoys
 dispossession
 damascus
 diphylleia
