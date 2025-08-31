@@ -4731,7 +4731,6 @@ demivol
 disbend
 defectionist
 dendrolene
-demivolts
 deflexionize
 disputatively
 datatypes
@@ -13680,6 +13679,7 @@ dandyishly
 disjoins
 doucin
 diplosis
+demivolts
 degases
 dissymmetric
 degender
