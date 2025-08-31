@@ -26335,7 +26335,6 @@ cotenants
 cotenure
 concaved
 cinderlike
-centricipital
 coterie
 ciminite
 concavities
@@ -30966,6 +30965,7 @@ cumbersomeness
 crymodynia
 charcoaled
 cumble
+centricipital
 cumbre
 chickery
 celiocentesis
