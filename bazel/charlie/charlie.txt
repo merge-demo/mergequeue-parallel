@@ -6217,7 +6217,6 @@ caulis
 caulivorous
 choanosomal
 caulk
-casbahs
 caulkers
 crustation
 caulks
@@ -6555,6 +6554,7 @@ cebid
 coutel
 cebidae
 chlorophyllan
+casbahs
 contributors
 cebil
 ceboids
