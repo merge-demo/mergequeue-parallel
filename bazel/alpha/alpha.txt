@@ -16141,6 +16141,7 @@ anticalligraphic
 agrement
 albaspidin
 antanemic
+adaptative
 airthed
 asthenics
 antispreader
@@ -25359,7 +25360,6 @@ azotic
 azotises
 azotize
 absinthism
-adaptative
 andesites
 azotoluene
 azotorrhea
