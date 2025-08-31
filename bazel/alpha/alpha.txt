@@ -4692,7 +4692,6 @@ autarky
 acutifoliate
 aerifies
 antiparabemata
-adglutinate
 aeriform
 abasement
 aberdevine
@@ -19660,6 +19659,7 @@ alfuro
 ambatch
 antinihilistic
 arithmancy
+adglutinate
 arenose
 arithmetic
 autophthalmoscope
