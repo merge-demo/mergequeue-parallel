@@ -3788,7 +3788,6 @@ biocontrol
 bibelot
 begger
 bobflies
-battute
 burratine
 bacterian
 blastomeric
@@ -7474,6 +7473,7 @@ bully
 buttinskies
 beheadal
 berhymed
+battute
 bistre
 bleariest
 betwine
