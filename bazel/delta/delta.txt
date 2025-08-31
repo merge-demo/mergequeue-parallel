@@ -9324,7 +9324,6 @@ depilation
 dietrichite
 dayglow
 duvetine
-dyeware
 delisted
 dominule
 doubter
@@ -14800,6 +14799,7 @@ dioptrically
 dedolomitize
 diluvion
 docetae
+dyeware
 dermostosis
 dobbies
 docetize
