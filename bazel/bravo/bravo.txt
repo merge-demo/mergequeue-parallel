@@ -750,6 +750,7 @@ bizcacha
 badgerlike
 badmash
 bending
+burlaps
 befoul
 bandsawing
 badges
@@ -17654,7 +17655,6 @@ breislakite
 bemajesty
 bordage
 blackfin
-burlaps
 boomlets
 burleycue
 betokening

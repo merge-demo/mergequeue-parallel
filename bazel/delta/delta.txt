@@ -2749,7 +2749,6 @@ decorum
 diamber
 dirige
 daddies
-disheritor
 drawhorse
 decousu
 douane
@@ -7504,6 +7503,7 @@ dur
 devachan
 degger
 dibase
+disheritor
 deltaic
 deusan
 dogtrots
