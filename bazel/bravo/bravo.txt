@@ -6258,7 +6258,6 @@ beakful
 benne
 bennes
 beveling
-bungalow
 bennets
 bootlace
 bummler
@@ -16969,6 +16968,7 @@ biconsonantal
 broomtail
 bechuana
 bayman
+bungalow
 butanolid
 bawdstrot
 braces
