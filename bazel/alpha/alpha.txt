@@ -3529,7 +3529,6 @@ adenomyoma
 adenomyxosarcoma
 adenoncus
 adenoneural
-antiradiation
 alkalimetrically
 arrestees
 aerophysical
@@ -6233,6 +6232,7 @@ acajou
 auriscalpium
 adipopexic
 agroan
+antiradiation
 agrobacterium
 agrobiological
 antisensuousness

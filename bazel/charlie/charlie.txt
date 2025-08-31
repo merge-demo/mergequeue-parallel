@@ -2144,7 +2144,6 @@ camphorwood
 calvinize
 conference
 campi
-considerer
 concurrency
 campy
 campier
@@ -22128,6 +22127,7 @@ colpeurynter
 confrerie
 cass
 confricamentum
+considerer
 confrontation
 confrontationist
 cosustain
