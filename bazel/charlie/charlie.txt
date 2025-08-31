@@ -9912,7 +9912,6 @@ chemotherapeutics
 chemotherapy
 calqued
 charlock
-chemotherapist
 carcinomas
 crackjaw
 chemotic
@@ -15502,6 +15501,7 @@ chirotonsor
 caryota
 clarre
 clarseach
+chemotherapist
 corrodes
 clarsech
 clarseth
