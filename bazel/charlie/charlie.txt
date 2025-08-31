@@ -10927,6 +10927,7 @@ caecum
 chironomid
 chastised
 chaparajos
+coextensiveness
 coinhabit
 chironomus
 cosmologies
@@ -19587,7 +19588,6 @@ ciliata
 centimolar
 chromaticism
 columellar
-coextensiveness
 counteraffirmation
 columellia
 columelliaceae
