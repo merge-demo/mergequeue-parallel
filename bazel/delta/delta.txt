@@ -5757,7 +5757,6 @@ disjoint
 descriptor
 decasualizing
 depolymerize
-deadpay
 depolish
 depolished
 deaconed
@@ -9037,6 +9036,7 @@ dicotyls
 distortive
 desegmented
 debel
+deadpay
 dicots
 dicoumarin
 depravate
