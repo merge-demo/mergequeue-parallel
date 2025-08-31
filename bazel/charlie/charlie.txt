@@ -27555,6 +27555,7 @@ cornicle
 crocin
 ctelette
 covillager
+crisping
 covine
 cymatium
 coving
@@ -29380,7 +29381,6 @@ crispin
 culicidal
 crispine
 consistently
-crisping
 crispins
 citramide
 crisply
