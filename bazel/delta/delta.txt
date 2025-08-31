@@ -5135,7 +5135,6 @@ defer
 daughterlike
 deading
 dismastment
-densitometric
 dentinoid
 donnishly
 disarming
@@ -16420,6 +16419,7 @@ detray
 downturn
 downturns
 domy
+densitometric
 defrosted
 downway
 disdain
