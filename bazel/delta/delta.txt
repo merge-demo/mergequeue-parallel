@@ -2120,6 +2120,7 @@ disciplinarian
 dividers
 dermatalgia
 debaser
+drillable
 didst
 desiredness
 decandrous
@@ -3774,7 +3775,6 @@ detest
 dor
 decency
 disgracia
-drillable
 dateable
 dynamites
 distrain
