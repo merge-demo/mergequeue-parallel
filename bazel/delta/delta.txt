@@ -3421,7 +3421,6 @@ dunite
 denazified
 debyes
 doffed
-dictyoxylon
 doigte
 defluvium
 demimark
@@ -13987,6 +13986,7 @@ deutoplasm
 disinsulation
 dysnomy
 distintion
+dictyoxylon
 depolymerization
 distn
 dystocia
