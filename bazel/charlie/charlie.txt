@@ -8964,6 +8964,7 @@ cheesemaking
 carcerate
 continuo
 charioting
+chloroaurite
 chariotman
 collegiately
 cumarin
@@ -11260,7 +11261,6 @@ choking
 cardamon
 cuttlebone
 chloroaurate
-chloroaurite
 cirratulus
 centripetency
 chlorocalcite
