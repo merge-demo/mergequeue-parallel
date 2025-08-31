@@ -22935,7 +22935,6 @@ consistency
 catalytic
 compressedly
 companioning
-clinodome
 consistencies
 choriambi
 consistent
@@ -31796,6 +31795,7 @@ cutdowns
 chromochalcographic
 citation
 cute
+clinodome
 cuteys
 cutely
 chanabal
