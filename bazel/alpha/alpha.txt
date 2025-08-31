@@ -9895,6 +9895,7 @@ ambas
 ambassade
 alkynes
 alerion
+archfiend
 antiman
 ambassadorially
 acetylglycin
@@ -18750,7 +18751,6 @@ adstipulate
 artamidae
 archeus
 archexorcist
-archfiend
 archfoe
 archfool
 ancestresses
