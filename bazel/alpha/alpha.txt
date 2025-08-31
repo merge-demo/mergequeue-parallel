@@ -1209,6 +1209,7 @@ aspirations
 avowal
 antivitamin
 acanthomas
+antinormal
 acanthomeridae
 acanthopanax
 anlia
@@ -14587,7 +14588,6 @@ arauna
 alpinisms
 ariidae
 accordantly
-antinormal
 anthryl
 alternative
 arabized
