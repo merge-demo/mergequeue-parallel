@@ -24180,7 +24180,6 @@ cantabrize
 catbriers
 convoyed
 convoying
-carboxypeptidase
 convoked
 centigram
 catenulate
@@ -30192,6 +30191,7 @@ culicines
 cains
 cursed
 crudity
+carboxypeptidase
 crudities
 crudle
 cruds
