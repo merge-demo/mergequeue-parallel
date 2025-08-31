@@ -17165,7 +17165,6 @@ bullterrier
 butat
 bullwhipped
 bromindigo
-bullwhipping
 busti
 bullwort
 bulrush
@@ -17748,6 +17747,7 @@ balaenoid
 burrers
 burrfish
 blepharoconjunctivitis
+bullwhipping
 buccinal
 buzzle
 burrgrailer
