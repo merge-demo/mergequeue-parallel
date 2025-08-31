@@ -137,6 +137,7 @@ cabled
 cablegram
 cruors
 cistaceae
+cytostomal
 cablelaid
 cableless
 cogent
@@ -14936,7 +14937,6 @@ claxons
 continuedly
 cordites
 chupak
-cytostomal
 cordwood
 cytostromatic
 cytotactic
