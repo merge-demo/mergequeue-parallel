@@ -5348,7 +5348,6 @@ afshah
 aft
 afteract
 alexin
-afterattack
 afterstorm
 appetitive
 avidiously
@@ -20704,6 +20703,7 @@ alicant
 aet
 anonymous
 antisophistry
+afterattack
 astrantia
 artlike
 artocarpaceae

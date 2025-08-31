@@ -5864,7 +5864,6 @@ boldoine
 bemoaning
 boozily
 bellyland
-bellylike
 bellyman
 biunique
 balloonet
@@ -11127,6 +11126,7 @@ basophobia
 bache
 bipedism
 bougies
+bellylike
 bazookas
 bums
 bacchanalia
