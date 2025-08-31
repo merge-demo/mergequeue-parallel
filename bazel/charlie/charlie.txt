@@ -5012,7 +5012,6 @@ cerianthus
 casate
 crustaceal
 closemouthed
-casava
 cuber
 cellepora
 canaliform
@@ -27260,6 +27259,7 @@ countship
 coupage
 coupe
 couped
+casava
 cocus
 calked
 czarowitch
