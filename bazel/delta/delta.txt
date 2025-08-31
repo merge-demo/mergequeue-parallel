@@ -206,6 +206,7 @@ drometer
 daemonurgist
 dahms
 dechlorination
+diabolize
 defecant
 decessit
 dak
@@ -6229,7 +6230,6 @@ dizaine
 dermatatrophia
 duplicator
 denationalisation
-diabolize
 dermatic
 dermatitises
 dyschromatoptic
