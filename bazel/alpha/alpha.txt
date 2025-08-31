@@ -16614,7 +16614,6 @@ acariatre
 attachment
 alumen
 apetalous
-apexed
 aortoclasia
 antichurch
 avie
@@ -21137,6 +21136,7 @@ ashochimi
 ashore
 atopite
 achates
+apexed
 africana
 ashplant
 axil
