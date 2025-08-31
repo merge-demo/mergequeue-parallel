@@ -12342,7 +12342,6 @@ algesis
 armchairs
 anecdotage
 antiprimer
-astart
 autonomical
 ajonjoli
 atomiferous
@@ -24155,6 +24154,7 @@ autoloader
 alangin
 autology
 autological
+astart
 aldeia
 antiatheist
 aiwain
