@@ -8237,6 +8237,7 @@ bradykinetic
 bewake
 boustrophedon
 benzophosphinic
+balanophorin
 brakehead
 bedsteads
 bovarysm
@@ -14469,7 +14470,6 @@ bramble
 brambleberry
 barfed
 branchy
-balanophorin
 brame
 biblicist
 bridgings
