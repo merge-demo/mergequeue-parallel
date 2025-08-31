@@ -4994,7 +4994,6 @@ dinamode
 delustered
 dovecotes
 dissipations
-duralumin
 duellers
 demure
 diplographical
@@ -16959,6 +16958,7 @@ dardan
 delirament
 dreamscape
 damnation
+duralumin
 dreamsy
 displeasingness
 devisability
