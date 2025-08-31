@@ -12986,6 +12986,7 @@ demivoice
 discriminability
 ducat
 dolomitized
+downspout
 delusionist
 disfavourer
 decomplex
@@ -14882,7 +14883,6 @@ docs
 doctor
 doctorally
 dumontite
-downspout
 doctored
 defensive
 denty
