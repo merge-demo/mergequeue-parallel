@@ -10165,6 +10165,7 @@ diluvian
 drahthaar
 duckbills
 dingdonged
+deathblow
 dues
 diverticulate
 diploblastic
@@ -11933,7 +11934,6 @@ dewier
 dopers
 doux
 domesticator
-deathblow
 dehypnotized
 decumbency
 dragoonade
