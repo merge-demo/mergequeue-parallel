@@ -8330,6 +8330,7 @@ dugal
 duyker
 dialectical
 dialectician
+dourly
 dual
 decapodous
 dialectologer
@@ -10486,7 +10487,6 @@ diphtheric
 denticeti
 diphtheritically
 disarraying
-dourly
 diphtherotoxin
 diphthongally
 dipneust
