@@ -13381,7 +13381,6 @@ alations
 anthroposcopy
 anne
 alod
-anormal
 anglicist
 albumin
 anneal
@@ -20243,6 +20242,7 @@ apportionment
 arrowlet
 adermine
 andia
+anormal
 arrowlike
 aminoazobenzene
 arrowplate
