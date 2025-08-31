@@ -7377,7 +7377,6 @@ busyworks
 bottlehead
 boomdas
 busky
-beneceptor
 blankard
 botryose
 barrace
@@ -10965,6 +10964,7 @@ birdcatcher
 bromocamphor
 blissful
 bughead
+beneceptor
 bookcase
 blissom
 bebotch
