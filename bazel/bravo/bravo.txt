@@ -6732,6 +6732,7 @@ beardom
 brawler
 bacchiuchii
 bermudas
+boerhavia
 bucketfull
 buffoons
 bayonet
@@ -13462,7 +13463,6 @@ blemishes
 borstall
 baronethood
 bendaying
-boerhavia
 bottomers
 bottoming
 biotelemetry
