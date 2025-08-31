@@ -8139,7 +8139,6 @@ brawlier
 bossa
 bathylite
 bielding
-bewinter
 benzopinacone
 blimpish
 busybodied
@@ -13320,6 +13319,7 @@ bridgeman
 brainwater
 botcheries
 botcherly
+bewinter
 biliary
 botchy
 botchily
