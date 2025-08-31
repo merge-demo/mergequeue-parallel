@@ -2511,6 +2511,7 @@ beruffled
 barghests
 boccia
 bunkie
+begrease
 blueblack
 beslash
 bassetite
@@ -8752,7 +8753,6 @@ binding
 bookkeep
 bindingness
 bekissing
-begrease
 basoche
 bual
 bingle
