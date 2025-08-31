@@ -3939,7 +3939,6 @@ bdelliums
 bdelloid
 bdellometer
 boarts
-booksellerish
 bombardier
 bocstaff
 brickbats
@@ -9668,6 +9667,7 @@ bismuthate
 burhinus
 bedrolls
 babuls
+booksellerish
 bismuthide
 bethanked
 beneficing
