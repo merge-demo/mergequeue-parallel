@@ -16415,6 +16415,7 @@ cochleare
 cliv
 cliver
 clivis
+creosol
 clivus
 coeffects
 clk
@@ -28681,7 +28682,6 @@ cleanish
 currance
 creophagia
 creophagous
-creosol
 creosote
 casasia
 crypto
