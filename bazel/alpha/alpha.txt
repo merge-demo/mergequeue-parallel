@@ -7547,6 +7547,7 @@ alcoholdom
 abbrev
 apoquinamine
 anywheres
+authoritativeness
 alcoholemia
 alcoholically
 appetition
@@ -18533,7 +18534,6 @@ archaeographical
 academial
 archaeolater
 alabamian
-authoritativeness
 atokous
 anemologic
 admedian
