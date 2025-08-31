@@ -877,7 +877,6 @@ bunters
 begoniaceae
 bicolour
 boulevardiers
-barasingha
 baggagemaster
 baggager
 benzidin
@@ -16953,6 +16952,7 @@ brachycranial
 bulge
 braziers
 boiserie
+barasingha
 bibliothecarial
 bedaubs
 bulger
