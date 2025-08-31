@@ -18529,6 +18529,7 @@ chevrons
 cohune
 callianassa
 choloidic
+creneled
 cohunes
 catnache
 corselet
@@ -24641,7 +24642,6 @@ copperahs
 counterindoctrinate
 copperases
 caseworker
-creneled
 corollaceous
 cola
 corage
