@@ -6400,7 +6400,6 @@ denationalize
 derriere
 dactyli
 discriminatory
-decree
 dispersedly
 drung
 decenter
@@ -17344,6 +17343,7 @@ dielike
 dromon
 defoul
 decrypts
+decree
 disrelated
 dubitation
 discovenant
