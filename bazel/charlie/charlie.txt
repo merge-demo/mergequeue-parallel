@@ -26488,7 +26488,6 @@ crankism
 cassias
 chemesthesis
 cottonwick
-cottonwoods
 cottrel
 cottus
 culicids
@@ -31394,6 +31393,7 @@ colubaria
 curios
 cheminee
 cartridges
+cottonwoods
 curiosa
 curiosi
 curiosities
