@@ -18895,7 +18895,6 @@ carriageless
 collabent
 collaborates
 collaborating
-celibataire
 computerese
 collaborationists
 collaborative
@@ -21604,6 +21603,7 @@ callout
 condescensively
 condescensiveness
 clearwater
+celibataire
 contraindicant
 canvas
 cancelli
