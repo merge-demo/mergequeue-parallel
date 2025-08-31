@@ -4596,6 +4596,7 @@ bedcovers
 blader
 boanerges
 bouts
+boats
 bucklered
 beddingroll
 bubble
@@ -11648,7 +11649,6 @@ butterwife
 boatloader
 beigy
 busied
-boats
 boatsetter
 bisymmetric
 boatsteerer
