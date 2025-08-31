@@ -4652,7 +4652,6 @@ demisang
 dulcite
 demisangue
 dereliction
-demipectinate
 denarius
 dustproof
 demiscible
@@ -14920,6 +14919,7 @@ dotant
 designate
 doctrinate
 doctrines
+demipectinate
 deduces
 dragline
 diadochokinesis
