@@ -3288,7 +3288,6 @@ bewhig
 begartered
 bethank
 bisulfide
-beans
 bookkeeps
 bourn
 bastardising
@@ -5471,6 +5470,7 @@ behemoth
 beetling
 behenate
 behenic
+beans
 blusteringly
 bemixed
 booing
