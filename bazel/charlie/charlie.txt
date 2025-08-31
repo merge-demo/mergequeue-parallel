@@ -2061,6 +2061,7 @@ chicayote
 campanini
 casseroled
 campanistic
+counterponderate
 campanologer
 colport
 crucis
@@ -17805,7 +17806,6 @@ codenization
 codens
 cruise
 coder
-counterponderate
 crible
 comprehended
 coderived
