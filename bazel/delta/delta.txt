@@ -8077,6 +8077,7 @@ dhobie
 dealcoholist
 dhobis
 dysacusia
+dysautonomia
 delve
 diophysite
 dowiness
@@ -11185,7 +11186,6 @@ donating
 disattaint
 disattune
 diplomacy
-dysautonomia
 disavail
 dayroom
 dissaves
