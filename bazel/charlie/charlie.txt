@@ -2146,6 +2146,7 @@ clerkliest
 camporee
 camphorone
 camphorwood
+cmdg
 calvinize
 conference
 campi
@@ -26454,7 +26455,6 @@ cephalically
 colorations
 cotton
 chumpishness
-cmdg
 cottoner
 copiapite
 crockeries
