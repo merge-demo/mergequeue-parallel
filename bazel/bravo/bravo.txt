@@ -662,7 +662,6 @@ bacteriophages
 bacteriophagy
 bacteriopsonin
 butting
-bendable
 bellwethers
 borele
 butchering
@@ -8143,6 +8142,7 @@ benzopinacone
 blimpish
 busybodied
 beardie
+bendable
 brontophobia
 bash
 banishes
