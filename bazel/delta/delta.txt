@@ -10705,7 +10705,6 @@ deferring
 diiodide
 disbutton
 deepen
-dipnoans
 danelaw
 doublewords
 dipodic
@@ -18646,6 +18645,7 @@ disalignment
 decasyllable
 disforest
 delinquents
+dipnoans
 drowsily
 disubstitution
 discountenanced
