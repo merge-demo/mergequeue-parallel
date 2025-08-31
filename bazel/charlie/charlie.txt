@@ -447,7 +447,6 @@ caudated
 cryptocrystalline
 cadaster
 cadasters
-cadastral
 cadastration
 cadastres
 cadaver
@@ -15219,6 +15218,7 @@ catamneses
 centipede
 craniata
 conforms
+cadastral
 cade
 curtailments
 copetitioner
