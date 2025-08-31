@@ -900,7 +900,6 @@ adversant
 absolutist
 apocrine
 absolutory
-absolvatory
 absolve
 aestuary
 absolvent
@@ -25168,6 +25167,7 @@ addison
 aethusa
 asynartetic
 avera
+absolvatory
 angrite
 apparentation
 axonia
