@@ -16463,7 +16463,6 @@ acupuncturator
 amurcous
 alodiaries
 agathism
-analyzers
 aortomalaxis
 arabianize
 antichoromanic
@@ -21745,6 +21744,7 @@ amiced
 assimilates
 assimilating
 andoroba
+analyzers
 aerophobia
 assimilationist
 archegoniatae
