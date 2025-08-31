@@ -4747,6 +4747,7 @@ anatolic
 alcids
 aspidobranchia
 aviatrix
+ammites
 asideness
 archisupreme
 aerocyst
@@ -10745,7 +10746,6 @@ aljofaina
 altricial
 analogicalness
 alzheimer
-ammites
 ammo
 amberjack
 amphibological
