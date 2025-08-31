@@ -886,7 +886,6 @@ beffroy
 borderlight
 bijouterie
 bagganet
-baggara
 bawcock
 beseechingly
 beamsmen
@@ -2222,6 +2221,7 @@ badineur
 bung
 bandgap
 barbara
+baggara
 barbary
 bioecology
 baculiferous
