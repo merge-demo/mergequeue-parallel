@@ -6525,6 +6525,7 @@ ally
 abasio
 ailurophilic
 affirmation
+akinesic
 archaeol
 ailuropoda
 ailurus
@@ -6952,7 +6953,6 @@ anoxaemic
 azury
 andromonoecious
 anre
-akinesic
 akinete
 anthecology
 azotes
