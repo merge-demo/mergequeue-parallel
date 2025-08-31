@@ -21866,7 +21866,6 @@ chaetosema
 chastisement
 conventionalist
 cuspated
-conferences
 conferential
 conferral
 creodont
@@ -28863,6 +28862,7 @@ chaetognathan
 crex
 cry
 cleavage
+conferences
 cryable
 cephalhydrocele
 cholestane
