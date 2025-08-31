@@ -4423,6 +4423,7 @@ bendlet
 bludging
 bretonian
 bilabials
+bibliotist
 beclothe
 bonasus
 breathtakingly
@@ -5734,7 +5735,6 @@ beamful
 basilical
 bureaucratese
 birdcage
-bibliotist
 bloomery
 blankite
 budge
