@@ -12861,7 +12861,6 @@ achromate
 approaches
 addictively
 anguine
-anguineal
 anguiped
 acutes
 anguishing
@@ -20713,6 +20712,7 @@ artocarpous
 artolater
 aliner
 artolatry
+anguineal
 amianthiform
 abraid
 aldose
