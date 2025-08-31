@@ -1657,6 +1657,7 @@ bibliothetic
 balibuntl
 balloting
 ballotist
+batell
 ballots
 ballottement
 backlotter
@@ -16948,7 +16949,6 @@ bure
 barytones
 blazoner
 beeping
-batell
 bunching
 baaing
 brachycranial

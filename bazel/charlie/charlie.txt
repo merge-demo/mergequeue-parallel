@@ -8762,6 +8762,7 @@ chaplaincies
 chaplains
 curiboca
 crackup
+cosmotheist
 carpocapsa
 cognitives
 chapless
@@ -26148,7 +26149,6 @@ conatural
 calorimeter
 cosmotellurian
 cysteines
-cosmotheist
 cosmozoans
 cosmozoic
 chrysididae
