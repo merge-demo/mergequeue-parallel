@@ -3298,7 +3298,6 @@ definitise
 dormant
 dilatant
 depurge
-deliriate
 debbies
 diastem
 desisted
@@ -14307,6 +14306,7 @@ ditchless
 dorsointestinal
 drawees
 downplaying
+deliriate
 descamisados
 diter
 diluter
