@@ -11011,7 +11011,6 @@ curuba
 chiseler
 cheapens
 calorify
-chiseling
 chiselled
 chiseller
 chiselly
@@ -24358,6 +24357,7 @@ cosmoramic
 coolness
 coolnesses
 condyloma
+chiseling
 cytochemical
 coolung
 coolweed
