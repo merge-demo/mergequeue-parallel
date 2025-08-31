@@ -18404,7 +18404,6 @@ cognizant
 cognize
 conveyancer
 cognized
-cognizes
 cognizing
 crescive
 cognizor
@@ -23895,6 +23894,7 @@ contusive
 conns
 cicadellidae
 chaffing
+cognizes
 clysmic
 conubium
 chartist
