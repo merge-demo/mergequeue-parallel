@@ -24535,7 +24535,6 @@ cantate
 cophosis
 copia
 clapped
-copiapite
 copyboy
 cankeredness
 copyboys
@@ -26455,6 +26454,7 @@ cotton
 chumpishness
 cmdg
 cottoner
+copiapite
 crockeries
 cottonian
 cottonization
