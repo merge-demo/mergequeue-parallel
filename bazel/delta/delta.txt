@@ -5037,6 +5037,7 @@ denaturalising
 denaturalized
 dueller
 denaturing
+denaturalizing
 disfigures
 dextrogyrate
 denaturization
@@ -5360,7 +5361,6 @@ dentists
 dentition
 detribalizing
 decarbonylated
-denaturalizing
 dolldom
 dielytra
 disrate
