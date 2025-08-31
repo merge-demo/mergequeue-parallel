@@ -8813,7 +8813,6 @@ bari
 banalities
 brazas
 bromothymol
-belzebub
 battery
 bulkier
 bummalos
@@ -13558,6 +13557,7 @@ bioscopes
 bacchian
 bough
 barie
+belzebub
 ballproof
 bicondylar
 bibliokleptomania
