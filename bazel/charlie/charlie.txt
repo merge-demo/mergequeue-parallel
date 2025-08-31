@@ -8425,6 +8425,7 @@ confiscator
 choribi
 cuttable
 chamoisette
+coinheritor
 cumbers
 chamoisite
 campilan
@@ -18624,7 +18625,6 @@ coinherence
 concubinehood
 catjang
 circuting
-coinheritor
 coiny
 costiform
 cytozymase
