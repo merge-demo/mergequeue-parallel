@@ -12986,6 +12986,7 @@ disfavourer
 decomplex
 disorderer
 discourse
+dolite
 diathermometer
 doigt
 daughterkin
@@ -15321,7 +15322,6 @@ dioritic
 defamers
 deniers
 dolisie
-dolite
 digynous
 dolium
 darogha
