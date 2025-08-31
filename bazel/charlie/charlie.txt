@@ -26951,7 +26951,6 @@ counterpaned
 countersuggestion
 counterparry
 counterpart
-counterpendent
 culpa
 conjugable
 chartae
@@ -27244,6 +27243,7 @@ countryfolk
 closewing
 countryman
 congeable
+counterpendent
 countrymen
 crullers
 coadjust
