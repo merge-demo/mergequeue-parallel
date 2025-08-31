@@ -55,7 +55,6 @@ bonspiel
 babbit
 baton
 botrytises
-barberish
 bricklayer
 bacteriophobia
 begalled
@@ -4937,6 +4936,7 @@ bequest
 beefiest
 beefsteak
 beeftongue
+barberish
 bacteriostasis
 beefwoods
 beegerite
