@@ -6915,7 +6915,6 @@ despecialization
 disembarrassed
 dispute
 dropper
-disleaf
 domineer
 despecialize
 defying
@@ -15114,6 +15113,7 @@ daphnioid
 doggerelism
 doggerelist
 dassent
+disleaf
 diversly
 desperate
 doggerelizing

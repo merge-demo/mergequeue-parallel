@@ -12719,7 +12719,6 @@ busboys
 booklear
 brandishing
 booklore
-bhavan
 birdliming
 busters
 beheld
@@ -13296,6 +13295,7 @@ bandoleered
 bacteriologically
 bazaar
 bradykinesis
+bhavan
 bivaulted
 bluestone
 botanically
