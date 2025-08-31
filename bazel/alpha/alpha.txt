@@ -2715,7 +2715,6 @@ acrodermatitis
 acrodynia
 anapophyses
 acrodont
-anarithmia
 abalienation
 akroteria
 acrodontism
@@ -7806,6 +7805,7 @@ aristippus
 aleppo
 autonomize
 alerce
+anarithmia
 alerse
 agglutinates
 alerta
