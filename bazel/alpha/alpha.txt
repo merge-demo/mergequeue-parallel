@@ -4763,6 +4763,7 @@ aerodynamical
 aerodynamically
 anchoritism
 appoggiatura
+amyosthenia
 amphibiology
 aloma
 abrasiveness
@@ -24406,7 +24407,6 @@ autotimer
 autotypy
 autotypic
 autotypography
-amyosthenia
 autotomise
 alamedas
 armbands
