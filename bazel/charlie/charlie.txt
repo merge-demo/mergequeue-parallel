@@ -5722,6 +5722,7 @@ catechistical
 catechists
 catechization
 catechizer
+choco
 calamondin
 cojoin
 catechizes
@@ -21420,7 +21421,6 @@ carotic
 cloaking
 comediennes
 concoctive
-choco
 crowfoot
 congius
 coigned
