@@ -10496,7 +10496,6 @@ diphthongation
 dilutedness
 dendrodra
 disordeine
-decagons
 diphthonging
 diphthongisation
 demolishes
@@ -12649,6 +12648,7 @@ disintoxication
 dankness
 daud
 disintrench
+decagons
 deodorise
 dephase
 dae
