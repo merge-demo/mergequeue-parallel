@@ -15669,6 +15669,7 @@ billionths
 blue
 baptist
 bleaches
+burans
 bangkoks
 broccolis
 bibitory
@@ -17447,7 +17448,6 @@ buqshas
 brambrack
 barometz
 buran
-burans
 burblers
 benighted
 boohoos
