@@ -1453,6 +1453,7 @@ britts
 bioclimatological
 bereavers
 balibago
+belating
 beakier
 benefitting
 baline
@@ -17005,7 +17006,6 @@ bullamacow
 boorga
 bleakly
 bullate
-belating
 bullback
 bullbaiting
 belduque
