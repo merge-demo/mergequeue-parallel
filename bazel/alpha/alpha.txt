@@ -12263,6 +12263,7 @@ acquaintant
 andrite
 astilbe
 antlions
+awestrike
 acervuli
 androcephalous
 androcephalum
@@ -24974,7 +24975,6 @@ alluding
 algorisms
 angiogram
 affenspalte
-awestrike
 aftermaths
 archcozener
 awfu
