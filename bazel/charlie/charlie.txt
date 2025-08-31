@@ -6951,7 +6951,6 @@ counterimitation
 censitaire
 champion
 chitchats
-cisalpine
 censored
 cytomorphosis
 censorian
@@ -21067,6 +21066,7 @@ couchette
 consociated
 conalbumin
 cramoisie
+cisalpine
 conand
 conarial
 contriving

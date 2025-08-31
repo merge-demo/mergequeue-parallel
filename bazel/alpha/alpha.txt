@@ -632,6 +632,7 @@ arachnidial
 adhibit
 aboma
 abomasum
+anacard
 appetize
 abominably
 abominate
@@ -4328,7 +4329,6 @@ anybodies
 adunc
 aduncate
 amyraldist
-anacard
 aduncous
 aerobus
 adure
