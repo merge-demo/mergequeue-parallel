@@ -5886,7 +5886,6 @@ agilawood
 appomattox
 ambiversive
 animalcular
-anatomists
 arioso
 agility
 auxotrophic
@@ -7198,6 +7197,7 @@ airspeed
 ashur
 aionial
 albarelli
+anatomists
 abox
 anagogies
 antistadholderian
