@@ -1012,7 +1012,6 @@ calcanean
 calcaneoastragaloid
 cajeputs
 calcaneoplantar
-countersale
 calcaneoscaphoid
 calcaneum
 calcannea
@@ -4342,6 +4341,7 @@ carinae
 carinal
 carinas
 chrysene
+countersale
 carinate
 carinated
 coprocessing
