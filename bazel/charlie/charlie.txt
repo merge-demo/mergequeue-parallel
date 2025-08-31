@@ -12563,7 +12563,6 @@ chronograph
 chronographer
 chronography
 choreas
-crosslap
 cauterizing
 circumventable
 chronoisothermal
@@ -23451,6 +23450,7 @@ civil
 contends
 contrapuntal
 chimble
+crosslap
 contentable
 congregator
 contentation
