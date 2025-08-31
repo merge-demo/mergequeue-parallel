@@ -6589,7 +6589,6 @@ bournous
 booted
 bagattino
 bladderless
-borachio
 berdache
 battuta
 byreman
@@ -7041,6 +7040,7 @@ baccae
 bussings
 bunted
 belletrist
+borachio
 boppers
 besoot
 beaterman
