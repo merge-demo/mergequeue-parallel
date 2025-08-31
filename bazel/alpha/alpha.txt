@@ -10132,6 +10132,7 @@ ambulatories
 ambulatorium
 ahepatokla
 autoblast
+armorless
 avo
 amburbial
 airframe
@@ -19873,7 +19874,6 @@ apperceived
 arterialized
 anemochoric
 abstrusenesses
-armorless
 awry
 antileukemic
 aplopappus
