@@ -934,7 +934,6 @@ bandyball
 bardiglio
 boscage
 beltian
-bagrationite
 bagre
 bayous
 berryless
@@ -9457,6 +9456,7 @@ burweed
 bipunctal
 barhops
 barbarian
+bagrationite
 birn
 byrnie
 biotope

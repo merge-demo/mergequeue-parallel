@@ -1760,7 +1760,6 @@ adulce
 acellular
 acemila
 antilepton
-allocthonous
 ahaaina
 acerb
 acromioscapular
@@ -19632,6 +19631,7 @@ anthericum
 aftermeal
 aristodemocratical
 ancle
+allocthonous
 anticivilian
 alkalinise
 agonistic
