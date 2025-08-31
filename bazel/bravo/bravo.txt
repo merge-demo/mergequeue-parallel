@@ -6941,7 +6941,6 @@ bothropic
 bagoong
 beshaming
 beshivered
-bariolage
 bristlebird
 bockerel
 brassed
@@ -10037,6 +10036,7 @@ barmecide
 bottlemaking
 beautician
 byzants
+bariolage
 bilander
 boomerang
 bizarreness
