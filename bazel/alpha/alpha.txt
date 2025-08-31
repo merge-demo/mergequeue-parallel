@@ -6449,7 +6449,6 @@ aigialosaur
 aigialosauridae
 aigialosaurus
 antasthenic
-apolarity
 aiglet
 alectoriae
 aphroditeum
@@ -10427,6 +10426,7 @@ aasvogels
 amyclaean
 alisonite
 anatinae
+apolarity
 amyclas
 amicous
 amicrobic
