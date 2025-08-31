@@ -7511,6 +7511,7 @@ abstracters
 alchemists
 antrums
 amazes
+agonizing
 alchemized
 archership
 alchemizing
@@ -21476,7 +21477,6 @@ aspiquee
 acrothoracica
 arpens
 aspirant
-agonizing
 adventuristic
 aspirants
 accountancy
