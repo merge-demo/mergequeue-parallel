@@ -3578,7 +3578,6 @@ bibbers
 baygall
 batikuling
 barricade
-byronish
 brushy
 berkeleyite
 bakula
@@ -3783,6 +3782,7 @@ babysitting
 borracha
 buncombe
 biocontrol
+byronish
 bibelot
 begger
 bobflies
