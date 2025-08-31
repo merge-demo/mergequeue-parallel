@@ -12550,6 +12550,7 @@ dopants
 disinclining
 dolichotmema
 disindividualize
+deorientalize
 doorkeep
 dicotyledonary
 disinfectants
@@ -12931,7 +12932,6 @@ drachmae
 distruster
 drawspan
 delving
-deorientalize
 disobeying
 delineative
 dustiness
