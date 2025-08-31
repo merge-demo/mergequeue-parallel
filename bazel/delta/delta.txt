@@ -1058,6 +1058,7 @@ darlingness
 darn
 dimyaria
 darndest
+diaulos
 dropwise
 darnels
 destandardize
@@ -18677,7 +18678,6 @@ darwinically
 detersively
 didymis
 dwarfs
-diaulos
 dwindlement
 deports
 dwindles
