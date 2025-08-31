@@ -3197,6 +3197,7 @@ dents
 defendable
 dolmenic
 demimondaine
+dkg
 dissentient
 distrainor
 decidability
@@ -14753,7 +14754,6 @@ dolent
 djuka
 diaskeuast
 dk
-dkg
 dodecylic
 destroys
 dockland

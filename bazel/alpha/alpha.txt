@@ -17555,7 +17555,6 @@ aboulias
 azygosperm
 appendiculate
 alectoris
-acuesthesia
 appendorontgenography
 agathodaemon
 antheximeter
@@ -19898,6 +19897,7 @@ aramis
 achillea
 aldononose
 anchusine
+acuesthesia
 astrologe
 antigen
 addenda
