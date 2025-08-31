@@ -2213,7 +2213,6 @@ culpability
 countershear
 camshafts
 camstane
-caval
 camstone
 canaliculization
 congeal
@@ -16475,6 +16474,7 @@ clocksmith
 clockwatcher
 clockwise
 clockworked
+caval
 carthamin
 chaldron
 creepage
