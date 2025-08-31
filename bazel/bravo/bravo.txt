@@ -3795,7 +3795,6 @@ bacterian
 blastomeric
 batwing
 baysmelt
-bewearied
 betatrons
 brazils
 brevipennate
@@ -7945,6 +7944,7 @@ bishop
 brusher
 bicarbureted
 bicarburetted
+bewearied
 baptistery
 binucleated
 beanbag

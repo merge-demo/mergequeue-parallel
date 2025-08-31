@@ -14952,7 +14952,6 @@ curvaceous
 cycadofilicale
 chilacavote
 characeae
-cytotaxonomically
 circumcrescent
 covillea
 clavation
@@ -29155,6 +29154,7 @@ cryosel
 cryospheric
 criosphinx
 chromatospheric
+cytotaxonomically
 criosphinxes
 catrigged
 cryostase
