@@ -552,6 +552,7 @@ cadmiumize
 cadmiums
 christianography
 cyanomaclurin
+costated
 cadres
 ciconiiform
 councilors
@@ -6745,7 +6746,6 @@ chondroskeleton
 cubhood
 cerianthoid
 clearway
-costated
 celioparacentesis
 cerinthian
 cowshard
