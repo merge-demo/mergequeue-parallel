@@ -3189,7 +3189,6 @@ defeminized
 dryth
 drool
 demoniac
-defenceable
 dekle
 doftberry
 doughbelly
@@ -7524,6 +7523,7 @@ demarcator
 desulfurized
 disenchain
 dittos
+defenceable
 disrupting
 diplanetism
 dentiloquy
