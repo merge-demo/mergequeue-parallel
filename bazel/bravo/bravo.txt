@@ -2124,7 +2124,6 @@ bidstand
 bantam
 bantamize
 bismar
-burette
 banteng
 banter
 banterers
@@ -15534,6 +15533,7 @@ beingless
 borer
 babyhoods
 bristliness
+burette
 brucina
 behypocrite
 bristol
