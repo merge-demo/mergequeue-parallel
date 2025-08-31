@@ -15218,7 +15218,6 @@ acetimetry
 akey
 awalim
 antigravitation
-antigravitational
 abusedly
 angiemphraxis
 antigrowth
@@ -16998,6 +16997,7 @@ arthrotropic
 apocopes
 antennula
 archspy
+antigravitational
 antes
 apocrenic
 agatha
