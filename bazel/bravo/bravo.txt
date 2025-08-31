@@ -5021,7 +5021,6 @@ blackfins
 bhowani
 beetiest
 bombernickel
-beetled
 banqueteer
 bypass
 braunschweiger
@@ -17967,6 +17966,7 @@ blobbiest
 bothriolepis
 burntly
 busily
+beetled
 busine
 blastide
 bleeze
