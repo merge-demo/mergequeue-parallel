@@ -3804,7 +3804,6 @@ adjudging
 adjudgment
 appropriation
 adjudicate
-antihierarchal
 autarkik
 apokatastatic
 adjudicated
@@ -5157,6 +5156,7 @@ abohm
 ampitheater
 attackable
 alingual
+antihierarchal
 anapophysial
 alligation
 affine
