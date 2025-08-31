@@ -1222,7 +1222,6 @@ disinvolve
 dextrans
 datary
 dataries
-depeach
 datasetname
 datcha
 disparison
@@ -3206,6 +3205,7 @@ defenestrating
 dayside
 defenseless
 defenselessly
+depeach
 defenselessness
 devitalising
 distend
