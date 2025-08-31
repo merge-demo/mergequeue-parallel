@@ -5329,6 +5329,7 @@ bogies
 beglerbeglic
 blatant
 bakalai
+blastogenic
 behew
 brahmaic
 beglerbegluc
@@ -10482,7 +10483,6 @@ bakestone
 bioscope
 biologistic
 bepastured
-blastogenic
 baizes
 bridgewards
 backcourt
