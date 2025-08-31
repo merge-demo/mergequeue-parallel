@@ -8984,6 +8984,7 @@ bioinstrument
 biolinguistics
 belted
 biolyses
+bitty
 bouleverse
 bludgeoneer
 bitting
@@ -14537,7 +14538,6 @@ brosy
 britzkas
 barouches
 biri
-bitty
 bondager
 brandied
 blatterer

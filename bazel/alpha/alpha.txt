@@ -13291,7 +13291,6 @@ anywhence
 aggregational
 anywhither
 anywise
-anywither
 androgenic
 adscripts
 amucks
@@ -24484,6 +24483,7 @@ abiosis
 anelastic
 amusively
 auxiliator
+anywither
 auxilytic
 alebush
 auxin
