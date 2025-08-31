@@ -129,6 +129,7 @@ cabiric
 cataclysm
 cable
 cablecast
+chronos
 cardiolith
 catholici
 crudes
@@ -29805,7 +29806,6 @@ capsumin
 cross
 circummeridian
 coronillo
-chronos
 cryptopin
 calculate
 crossband
