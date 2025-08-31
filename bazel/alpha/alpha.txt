@@ -3983,6 +3983,7 @@ audiovisuals
 aldrin
 admits
 admittance
+angelocracy
 admittatur
 admitted
 ampliation
@@ -12271,7 +12272,6 @@ androcephalum
 arteriostrepsis
 androclclinia
 anticourt
-angelocracy
 agatine
 anisotropic
 anaesthetics
