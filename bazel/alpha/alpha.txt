@@ -9246,6 +9246,7 @@ alpen
 axstone
 alpenglow
 alpenstock
+ammoniated
 aswirl
 aerogram
 alpenstocks
@@ -10777,7 +10778,6 @@ ammoniacs
 acrisius
 artly
 ankaramite
-ammoniated
 apophylactic
 acrogens
 ammoniating
