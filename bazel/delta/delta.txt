@@ -5616,6 +5616,7 @@ dentistries
 deuterotokous
 dogtrick
 dogate
+disembargoed
 dephycercal
 deteriorated
 demounting
@@ -8616,7 +8617,6 @@ dinge
 debugging
 distilment
 diary
-disembargoed
 diaglyph
 disimprove
 dibbuk

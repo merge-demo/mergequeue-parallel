@@ -27,7 +27,6 @@ castratory
 cascarilla
 cnicus
 cabalist
-courier
 caball
 caballer
 corrosiving
@@ -13776,6 +13775,7 @@ cooboo
 cascavel
 creationist
 cetologies
+courier
 circumstances
 codification
 chroniclers
