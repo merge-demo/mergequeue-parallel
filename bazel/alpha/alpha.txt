@@ -6670,6 +6670,7 @@ airglows
 airgraphics
 anisometropia
 androcyte
+adducers
 airhead
 amorosa
 aquiculturist
@@ -17417,7 +17418,6 @@ appallment
 availability
 attagal
 appalls
-adducers
 appanage
 arthrostraca
 appanaged
