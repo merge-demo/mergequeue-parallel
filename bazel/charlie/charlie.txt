@@ -11072,6 +11072,7 @@ chutney
 chitters
 capillaries
 comb
+citron
 caseloads
 chiurm
 chivachee
@@ -14989,7 +14990,6 @@ citrocola
 coumarouna
 citrometer
 citromyces
-citron
 cenobium
 crotonyl
 carbonium
