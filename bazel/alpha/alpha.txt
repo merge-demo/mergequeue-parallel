@@ -8904,7 +8904,6 @@ autobolide
 ataghan
 amphigonic
 arsnicker
-allose
 allosyndetic
 autoregulatory
 acaena
@@ -10814,6 +10813,7 @@ antirevolutionaries
 ammonoidea
 anteriorness
 angiohypotonia
+allose
 ayield
 ammonoidean
 aerocartography
