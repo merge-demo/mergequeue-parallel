@@ -4000,7 +4000,6 @@ cardamons
 cardanol
 churchgrith
 chymist
-cardboard
 crissum
 cardcases
 cardel
@@ -28174,6 +28173,7 @@ crapehanger
 cinnabaric
 crapette
 conjoiner
+cardboard
 concordial
 cricothyreoid
 cund
