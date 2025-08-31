@@ -9684,7 +9684,6 @@ apodes
 abandonedly
 adipocerous
 amalekite
-amalfitan
 agamete
 amalgam
 apophonies
@@ -14509,6 +14508,7 @@ anththeridia
 achar
 affirmativeness
 anti
+amalfitan
 antiabolitionist
 antiabortion
 acrotic
