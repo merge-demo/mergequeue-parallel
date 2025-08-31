@@ -6475,6 +6475,7 @@ dentellated
 disqualification
 directable
 delignated
+dorsoradial
 disomatous
 descendent
 dolichosoma
@@ -10970,7 +10971,6 @@ draggles
 dispenses
 disforestation
 doublethinking
-dorsoradial
 digressions
 dumpiest
 disadvance
