@@ -9663,7 +9663,6 @@ crabeater
 chevre
 convocate
 cheesing
-cheetul
 casse
 coagent
 cheewink
@@ -26039,6 +26038,7 @@ chowderheadedness
 cithara
 capling
 circuli
+cheetul
 cosily
 chasuble
 cosymmedian
