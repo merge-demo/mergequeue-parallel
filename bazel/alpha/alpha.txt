@@ -6309,6 +6309,7 @@ antipriming
 antiweed
 aguirage
 aguise
+aholt
 antimeter
 axanthopsia
 acerbas
@@ -18996,7 +18997,6 @@ archprelate
 archprelatic
 adjudicator
 archprelatical
-aholt
 apishness
 allegedly
 allegoric
