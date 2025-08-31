@@ -8398,7 +8398,6 @@ diallagic
 diallagite
 deadwort
 dt
-decimetres
 darns
 dishonorably
 diallelus
@@ -13503,6 +13502,7 @@ dishearten
 dishabited
 disrest
 disring
+decimetres
 disillusionment
 disguiseless
 despotism
