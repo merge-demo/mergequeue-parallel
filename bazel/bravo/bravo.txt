@@ -2,7 +2,6 @@ belledom
 bedaff
 brominating
 braille
-baalim
 baalize
 browning
 bullying
@@ -543,6 +542,7 @@ bombsights
 bismuthiferous
 butomaceous
 backstroke
+baalim
 bicentennial
 backstromite
 bodock
