@@ -4603,6 +4603,7 @@ convictiveness
 caronic
 cliffless
 caroome
+currantworm
 caroon
 causingness
 carnic
@@ -31458,7 +31459,6 @@ completions
 chresards
 contradict
 conscripted
-currantworm
 caulking
 countermen
 cuckoldry
