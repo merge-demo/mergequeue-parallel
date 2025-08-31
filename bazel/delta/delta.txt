@@ -2624,7 +2624,6 @@ dumpcarts
 dinglebird
 desexualize
 decreers
-decolours
 decommission
 decommissioned
 dumbbeller
@@ -3365,6 +3364,7 @@ dampnesses
 domal
 diamante
 diacetyl
+decolours
 dyscrasia
 decarboxylase
 decolorisation
