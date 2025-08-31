@@ -11682,6 +11682,7 @@ choluteca
 chomps
 contabescent
 complications
+coassistant
 cuffle
 commissionary
 chondral
@@ -17347,7 +17348,6 @@ chemigraph
 cimline
 coassist
 cervine
-coassistant
 culpas
 cupola
 crystallic
