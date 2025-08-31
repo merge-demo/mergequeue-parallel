@@ -4969,7 +4969,6 @@ beeped
 burgware
 bumblings
 blesse
-belgae
 barmier
 bonaveria
 bolases
@@ -6530,6 +6529,7 @@ bepuffed
 beetleheaded
 brandi
 bequalm
+belgae
 bioblast
 bklr
 bequeathed
