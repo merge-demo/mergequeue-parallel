@@ -2233,7 +2233,6 @@ bevesselled
 barbarically
 blandiloquous
 barbequing
-bourage
 baalshem
 bassoons
 betrayers
@@ -11140,6 +11139,7 @@ buckler
 benevolently
 bloodlusting
 brotan
+bourage
 broguing
 bipenniform
 bloodred

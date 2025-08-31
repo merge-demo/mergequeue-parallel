@@ -6313,7 +6313,6 @@ dermestid
 dermatoneural
 dextrogyration
 deject
-disseminating
 defensorship
 dermestidae
 daimyos
@@ -17469,6 +17468,7 @@ drawdown
 dagaba
 dedicate
 dilatorily
+disseminating
 disserts
 diazoimido
 drostdy
