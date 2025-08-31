@@ -20368,7 +20368,6 @@ apiolin
 aelurophobia
 artemisium
 anchoretical
-autoptical
 antiskidding
 antimodernness
 artery
@@ -23304,6 +23303,7 @@ auding
 autohypnosis
 audings
 audiology
+autoptical
 acca
 aestheticize
 audiological
