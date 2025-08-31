@@ -1290,7 +1290,6 @@ alstonidine
 arillated
 acatastatic
 acate
-acategorical
 adolescing
 adephagia
 acatery
@@ -23979,6 +23978,7 @@ autodepolymerization
 autodiagnostic
 artemas
 aviador
+acategorical
 alutaceous
 aardvark
 autodial
