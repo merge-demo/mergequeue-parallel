@@ -8177,7 +8177,6 @@ detachment
 damselhood
 duple
 deprecate
-diacipiperazine
 dissolutional
 disload
 drapeability
@@ -9991,6 +9990,7 @@ dirigomotor
 dermohemia
 dinothere
 dimly
+diacipiperazine
 dimmer
 dothideacea
 defensor
