@@ -3473,6 +3473,7 @@ adipsous
 azole
 ascesis
 assedat
+abbogada
 arabicize
 agora
 akenbold
@@ -22827,7 +22828,6 @@ anabaptize
 assonance
 alkylol
 atrichic
-abbogada
 ashrama
 archpriesthood
 annary
