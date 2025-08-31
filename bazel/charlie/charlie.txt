@@ -17182,6 +17182,7 @@ coagmentation
 coagonize
 coagriculturist
 carryke
+connectibility
 chrononomy
 coagulability
 cymrite
@@ -22547,7 +22548,6 @@ commotion
 connatural
 connaturality
 cultelli
-connectibility
 cryptanalysis
 connaturalize
 cosech
