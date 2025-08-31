@@ -13826,7 +13826,6 @@ chequinn
 croighle
 cinephone
 cellarer
-crawfish
 cinephotomicrography
 catalina
 convoy
@@ -21097,6 +21096,7 @@ ceride
 concatenates
 coequating
 concatenator
+crawfish
 concatervate
 concause
 cyclist
