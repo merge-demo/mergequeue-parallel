@@ -8339,7 +8339,6 @@ decapodous
 dialectologer
 droopingness
 diplois
-dejerate
 dialectologist
 dargue
 daemonies
@@ -13459,6 +13458,7 @@ disquisitor
 disquisitional
 dismarble
 disform
+dejerate
 diffusion
 dennstaedtia
 disgenic
