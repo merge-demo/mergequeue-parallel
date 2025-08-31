@@ -112,7 +112,6 @@ bladderwrack
 blackcoat
 biune
 balanophore
-burlies
 baroclinity
 banditry
 biforine
@@ -6673,6 +6672,7 @@ barpost
 berycomorphi
 bemixes
 beret
+burlies
 bunsenite
 berigora
 beryl
