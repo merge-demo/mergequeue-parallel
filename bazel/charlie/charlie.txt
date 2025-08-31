@@ -4939,7 +4939,6 @@ chiclero
 curcuma
 canalman
 conceptuality
-chevrony
 cartulary
 cartularies
 carapache
@@ -5213,6 +5212,7 @@ carinule
 cassocked
 cataleptic
 conduced
+chevrony
 cuculine
 cantar
 cassette
