@@ -6553,6 +6553,7 @@ breadstuff
 bushels
 bosnisch
 benedick
+bimong
 berri
 bewelcome
 bavarois
@@ -8711,7 +8712,6 @@ bellbind
 bubblingly
 bimodality
 bimodule
-bimong
 buckeroo
 bimonthlies
 berendo
