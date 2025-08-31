@@ -2448,7 +2448,6 @@ cand
 coacervated
 candareen
 candelabra
-connectant
 candelabras
 candelabrum
 corelatively
@@ -25504,6 +25503,7 @@ coroneted
 chaise
 cordeliere
 coronetted
+connectant
 crushability
 coronettee
 confronte
