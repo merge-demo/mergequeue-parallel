@@ -1845,7 +1845,6 @@ bandaid
 babylonism
 bandanaed
 bollito
-bullary
 barricos
 besotter
 basketmaker
@@ -7628,6 +7627,7 @@ beeper
 biking
 burgling
 borborygmic
+bullary
 bewraps
 belesprit
 bewrapt
