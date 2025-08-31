@@ -3327,7 +3327,6 @@ basisphenoidal
 basitemporal
 blippers
 beguilers
-balao
 besotment
 basked
 basketballer
@@ -12916,6 +12915,7 @@ basculation
 bootlegs
 bootlessly
 bootlessness
+balao
 bluefish
 bootlicking
 burins
