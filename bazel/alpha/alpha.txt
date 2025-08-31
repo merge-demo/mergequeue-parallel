@@ -5796,6 +5796,7 @@ agglutinogen
 agglutinoscope
 acclaiming
 agglutogenic
+avoure
 aggrace
 auster
 aggrades
@@ -11633,7 +11634,6 @@ alban
 amigo
 amos
 aflush
-avoure
 appraisal
 anagyrine
 anagyris
