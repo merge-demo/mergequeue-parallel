@@ -7749,7 +7749,6 @@ alectryomancy
 aerotow
 animoseness
 aciliated
-alveola
 alecup
 agami
 arsenicophagy
@@ -16862,6 +16861,7 @@ astite
 arcking
 abnormity
 apiole
+alveola
 apiologist
 apyonin
 apionol
