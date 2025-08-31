@@ -3068,7 +3068,6 @@ caoutchin
 caoutchoucin
 cap
 calandria
-capa
 conferrable
 capability
 charks
@@ -6227,6 +6226,7 @@ catalases
 colourize
 crescence
 cravingly
+capa
 cecchine
 cabbaged
 caulomic
