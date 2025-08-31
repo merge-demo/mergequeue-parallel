@@ -5985,6 +5985,7 @@ dissatisfiedness
 dragons
 diopside
 delictus
+disappoints
 deed
 disregardance
 depsides
@@ -12730,7 +12731,6 @@ drury
 dissimilarity
 dendric
 dystomic
-disappoints
 dimorphous
 disli
 dislicense
