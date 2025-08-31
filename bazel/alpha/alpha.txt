@@ -15283,7 +15283,6 @@ angioparalysis
 adulterate
 antikenotoxin
 abwatt
-antiketogenesis
 actinobranchia
 antiking
 aposematic
@@ -18236,6 +18235,7 @@ aestivation
 apochromat
 almsdeed
 arachnida
+antiketogenesis
 astrophyton
 ampullitis
 arachnism
