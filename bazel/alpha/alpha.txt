@@ -1851,6 +1851,7 @@ acetbromamide
 acetenyl
 actinostomal
 acethydrazide
+amaranthine
 ablock
 accreted
 assizing
@@ -9752,7 +9753,6 @@ amaranthaceae
 appale
 anthologist
 azimethylene
-amaranthine
 ataraxy
 aforeward
 angioglioma
