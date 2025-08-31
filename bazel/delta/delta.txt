@@ -8329,7 +8329,6 @@ draftier
 duim
 darkishness
 damoclean
-deprivative
 ditrigonally
 dugal
 duyker
@@ -16086,6 +16085,7 @@ denigrate
 dabster
 dockers
 diacoelosis
+deprivative
 dekagrams
 doublette
 driftman
