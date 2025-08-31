@@ -11395,7 +11395,6 @@ dowhacky
 devoter
 dehydrogenise
 dischevel
-dentalization
 disci
 defatigation
 diabases
@@ -13806,6 +13805,7 @@ dissoul
 desultor
 deradenoncus
 dashee
+dentalization
 dysspermatism
 disspirit
 disspread
