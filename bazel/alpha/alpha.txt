@@ -3647,7 +3647,6 @@ adherent
 accessioner
 adherents
 adherers
-adheres
 abbozzo
 anticipatively
 archivolt
@@ -21127,6 +21126,7 @@ anticriticalness
 archantagonist
 ashlars
 ashling
+adheres
 appraised
 abrogator
 avower
