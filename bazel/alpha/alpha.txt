@@ -5241,6 +5241,7 @@ anticogitative
 affraying
 allegation
 affrays
+autoslip
 acuminated
 affranchise
 affreightment
@@ -19494,7 +19495,6 @@ aria
 angas
 avellan
 antasphyctic
-autoslip
 acyls
 askari
 arianist
