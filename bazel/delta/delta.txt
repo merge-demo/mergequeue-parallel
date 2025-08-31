@@ -1192,7 +1192,6 @@ dade
 detrited
 decrementing
 dasyuridae
-dasyurine
 dactylopatagium
 dicaeology
 deervetch
@@ -15060,6 +15059,7 @@ desperation
 disjection
 dogaressa
 diaspinae
+dasyurine
 disarmature
 domiciliate
 dogmatics
