@@ -10946,6 +10946,7 @@ cystoscopic
 chiropodial
 chiropodical
 caphite
+crests
 cavascope
 chiropodistry
 callan
@@ -31707,7 +31708,6 @@ cur
 cuspis
 cusps
 cuspule
-crests
 coopery
 cools
 cond
