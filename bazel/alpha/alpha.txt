@@ -7538,7 +7538,6 @@ antefurca
 actual
 alcmene
 alcogene
-ascogonium
 assignable
 antiphilosophical
 alcohate
@@ -20118,6 +20117,7 @@ amylohydrolytic
 asclepieion
 apothem
 arrau
+ascogonium
 assiduously
 arrearages
 amoles
