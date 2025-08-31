@@ -5452,7 +5452,6 @@ catachresis
 catachrestic
 cercariae
 catachrestically
-condemner
 catachthonic
 consummation
 chining
@@ -9373,6 +9372,7 @@ chavante
 chavel
 cursiveness
 chavender
+condemner
 compart
 chavicin
 chomp
