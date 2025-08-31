@@ -934,7 +934,6 @@ cholick
 charpais
 calaite
 calamancoes
-calamander
 calamansi
 calamary
 calamariaceous
@@ -10738,6 +10737,7 @@ chinik
 chemic
 centrobarical
 censurable
+calamander
 cetoniides
 chillily
 charleen
