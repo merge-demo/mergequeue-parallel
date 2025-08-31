@@ -7305,6 +7305,7 @@ diapausing
 determinately
 dirtiness
 drownding
+degas
 drippage
 dolls
 denegate
@@ -16235,7 +16236,6 @@ dowagers
 dispersions
 dromical
 dertra
-degas
 desalinized
 dowdy
 distent
