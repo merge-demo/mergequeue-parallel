@@ -3990,7 +3990,6 @@ develops
 duplex
 delectated
 devitalise
-deputized
 dissuitable
 dialoger
 distune
@@ -17503,6 +17502,7 @@ dhobi
 drove
 derogative
 doorboy
+deputized
 drovers
 dereism
 dismortgaging
