@@ -6499,6 +6499,7 @@ descension
 descensionist
 descensive
 donor
+desitive
 descent
 despert
 darnings
@@ -12528,7 +12529,6 @@ discontinuations
 disconform
 disdeceive
 decimalize
-desitive
 disillusionments
 disgorge
 discomycetes
