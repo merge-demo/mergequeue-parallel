@@ -5877,7 +5877,6 @@ deglamorized
 deoxygenization
 dryopians
 deforceor
-depredate
 depredationist
 definitiveness
 diagnoses
@@ -14950,6 +14949,7 @@ documentational
 decarbonator
 dictyograptus
 dialectologically
+depredate
 documentations
 deoxidator
 documentize
