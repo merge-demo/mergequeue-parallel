@@ -1571,7 +1571,6 @@ calls
 callum
 calluna
 calamarioid
-coenzyme
 cadamba
 creasy
 calmant
@@ -5259,6 +5258,7 @@ cassock
 cleanser
 ctenophora
 cultures
+coenzyme
 cassocks
 chamberlain
 cassons
