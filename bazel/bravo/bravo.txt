@@ -1633,7 +1633,6 @@ boiguacu
 brassards
 bewrays
 bacaba
-balloonet
 buddah
 bickering
 brattier
@@ -5863,6 +5862,7 @@ bellyland
 bellylike
 bellyman
 biunique
+balloonet
 biogenetical
 bunty
 balopticon
