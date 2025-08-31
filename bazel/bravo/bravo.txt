@@ -11786,6 +11786,7 @@ bluefish
 besets
 bocconia
 byrl
+briony
 bepommel
 bardolphian
 bock
@@ -16749,7 +16750,6 @@ byordinar
 barranco
 ballate
 babungera
-briony
 banging
 blaffert
 bowstrung
