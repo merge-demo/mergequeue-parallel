@@ -5003,6 +5003,7 @@ archsacrificator
 almacen
 aestheticism
 aestheticist
+analyticity
 almoin
 aestii
 avocate
@@ -20359,7 +20360,6 @@ appeared
 asynchrony
 adaptively
 artefacts
-analyticity
 anaglyphoscope
 autosymnoia
 apiolin
