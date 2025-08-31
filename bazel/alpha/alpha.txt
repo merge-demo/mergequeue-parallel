@@ -5959,7 +5959,6 @@ agitatorial
 aromaticness
 amyous
 albuminoidal
-agitators
 agitatrix
 agitprop
 agitprops
@@ -11617,6 +11616,7 @@ amatols
 anaeroplastic
 astate
 anaesthesiology
+agitators
 anaesthesis
 abeltree
 almondlike
