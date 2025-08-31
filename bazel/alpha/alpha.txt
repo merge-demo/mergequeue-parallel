@@ -6618,7 +6618,6 @@ aquas
 antibias
 axometer
 arid
-aircraftmen
 aircraftsman
 aneurine
 affrontiveness
@@ -14880,6 +14879,7 @@ acale
 assassinates
 antozone
 arara
+aircraftmen
 anticonfederative
 antiaristocracy
 arthropterous
