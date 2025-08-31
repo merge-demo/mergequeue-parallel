@@ -16301,7 +16301,6 @@ aal
 aked
 antivivisectionist
 acrospiring
-abstractly
 antivivisectionists
 asteroidal
 antiwarlike
@@ -22334,6 +22333,7 @@ astrophotographic
 astrophotometer
 astroscopy
 autocratorical
+abstractly
 allegorised
 astroscopus
 astrospectral
