@@ -1940,7 +1940,6 @@ bework
 basilicae
 besoms
 boreus
-bandsawn
 bandsman
 bandstand
 broaches
@@ -13980,6 +13979,7 @@ blindfolder
 bloviates
 biophagous
 brabble
+bandsawn
 brabblers
 beep
 bicycling
