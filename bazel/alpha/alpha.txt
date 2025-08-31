@@ -6936,6 +6936,7 @@ archaeornis
 akhara
 andante
 acalypha
+antigay
 akhyana
 akhissar
 agaricin
@@ -19112,7 +19113,6 @@ allotypies
 abuzz
 arcula
 adust
-antigay
 ardassine
 ardeb
 accedes
