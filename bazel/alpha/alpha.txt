@@ -13620,7 +13620,6 @@ acrocomia
 anolis
 aunt
 absolutization
-actinolite
 aboriginal
 albuginitis
 antivariolous
@@ -15635,6 +15634,7 @@ antiparliament
 antiparliamental
 assapanick
 axons
+actinolite
 antiparliamentarians
 acraniate
 antiparticles
