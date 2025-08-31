@@ -6250,6 +6250,7 @@ dividable
 defenser
 dermatomere
 dermatomyces
+delocalizing
 dignity
 diplokaryon
 doldrums
@@ -9738,7 +9739,6 @@ duffles
 depositee
 decenary
 dilatatory
-delocalizing
 dehydromucic
 disablers
 detin
