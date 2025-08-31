@@ -661,6 +661,7 @@ bellwethers
 borele
 butchering
 boozed
+bels
 bankruptism
 bullnecks
 biramous
@@ -7834,7 +7835,6 @@ bartizan
 bohmite
 biblical
 bobsledders
-bels
 benamed
 biblicopsychological
 biblike
