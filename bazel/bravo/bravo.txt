@@ -1253,7 +1253,6 @@ blackshirt
 bakshishes
 badnesses
 bete
-bakuba
 bediaper
 barathron
 buckstone
@@ -5918,6 +5917,7 @@ bared
 belonging
 bailiffship
 belongs
+bakuba
 bicameral
 banderillero
 belonidae
