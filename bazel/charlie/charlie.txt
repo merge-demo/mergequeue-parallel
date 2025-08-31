@@ -1507,6 +1507,7 @@ callipygous
 callippic
 callirrhoe
 callisaurus
+cosounding
 callisteia
 capsize
 callistephus
@@ -21546,7 +21547,6 @@ cringers
 clarkeite
 cheerless
 carapato
-cosounding
 compactedly
 cady
 cobbly
