@@ -9860,7 +9860,6 @@ ctenodont
 chastizer
 curiological
 chemokinesis
-chemokinetic
 chemolysis
 cicero
 chemolyze
@@ -18647,6 +18646,7 @@ cartonnier
 coinstantaneously
 centrolinead
 causeful
+chemokinetic
 coinstantaneousness
 coinsurance
 coinsurer
