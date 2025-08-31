@@ -10424,6 +10424,7 @@ boojum
 blanks
 beesting
 buzziest
+bookfair
 bouncers
 baritone
 bribetaking
@@ -11386,7 +11387,6 @@ browbands
 blued
 blahlaut
 basisolute
-bookfair
 bluefin
 blaseness
 belonosphaerite
