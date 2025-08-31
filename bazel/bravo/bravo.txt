@@ -8641,7 +8641,6 @@ bilobed
 bilocular
 biloculina
 bhikhari
-bidiurnal
 boshvark
 baxterian
 brattish
@@ -18095,6 +18094,7 @@ bupleurum
 boosts
 butcherbird
 ballock
+bidiurnal
 breakably
 bipalium
 brins
