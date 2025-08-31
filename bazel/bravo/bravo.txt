@@ -16417,7 +16417,6 @@ borasque
 bruskly
 banned
 bozal
-breathableness
 bequote
 bulbomedullary
 biotechnological
@@ -17301,6 +17300,7 @@ bechance
 bundled
 boardmen
 bundler
+breathableness
 bottleneck
 badged
 bundles
