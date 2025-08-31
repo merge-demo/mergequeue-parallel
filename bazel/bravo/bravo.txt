@@ -3177,6 +3177,7 @@ bashers
 baals
 bashibazouk
 brocket
+bandolero
 bashyle
 balanopsidales
 birse
@@ -4497,7 +4498,6 @@ bhakti
 byrri
 becudgeling
 bae
-bandolero
 bedwarfed
 brigadiership
 blastoff
