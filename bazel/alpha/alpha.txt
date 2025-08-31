@@ -11786,7 +11786,6 @@ asperous
 adventurer
 anamnestic
 anserinae
-anamniata
 anamorphic
 antimonarchy
 alertedly
@@ -12628,6 +12627,7 @@ alvan
 alkalinizing
 advocateship
 awed
+anamniata
 angerona
 angeronalia
 angers
