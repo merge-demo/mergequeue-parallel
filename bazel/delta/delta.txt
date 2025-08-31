@@ -725,7 +725,6 @@ defailment
 diaplasma
 demoniacs
 dystopia
-danced
 debauchment
 degasification
 desamidase
@@ -4301,6 +4300,7 @@ dichotomous
 digallate
 designatory
 delustering
+danced
 deceleration
 dragontail
 dicacodyl
