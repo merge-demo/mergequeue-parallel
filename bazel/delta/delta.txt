@@ -16293,7 +16293,6 @@ disabling
 downcome
 dorsal
 dogtail
-downcomes
 downcoming
 deke
 disulfids
@@ -18075,6 +18074,7 @@ downhills
 decreed
 delves
 dullbrained
+downcomes
 determent
 donna
 devil
