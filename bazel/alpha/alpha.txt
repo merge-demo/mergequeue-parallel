@@ -1354,6 +1354,7 @@ agonist
 amintor
 acceptance
 aggressions
+absfarad
 arithmograph
 absorbent
 aspermous
@@ -9542,7 +9543,6 @@ aluminas
 aluminate
 alumines
 archicontinent
-absfarad
 aggeration
 aluminiferous
 assheadedness
