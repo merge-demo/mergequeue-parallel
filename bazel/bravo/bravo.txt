@@ -13178,7 +13178,6 @@ borty
 beworm
 britannica
 borwort
-bumper
 borzoi
 bloodthirst
 bloodbath
@@ -15384,6 +15383,7 @@ baculites
 banns
 brongniardite
 blazon
+bumper
 brodeglass
 braggishly
 boundary
