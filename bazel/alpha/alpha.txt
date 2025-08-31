@@ -2511,7 +2511,6 @@ adjection
 acouometer
 acoup
 abrege
-acousticolateral
 acousticon
 aspheterism
 acousticophobia
@@ -22345,6 +22344,7 @@ astrotheology
 anisostemonous
 ampelograpny
 astrut
+acousticolateral
 asturian
 aprendiz
 astutious
