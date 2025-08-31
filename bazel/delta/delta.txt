@@ -6227,7 +6227,6 @@ dermatophagus
 dermatotropic
 desiccator
 dizaine
-dioon
 dermatatrophia
 duplicator
 denationalisation
@@ -18322,6 +18321,7 @@ donkeyism
 dietarian
 dishiest
 dhu
+dioon
 dyable
 duns
 dragomans
