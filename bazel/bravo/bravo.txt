@@ -3443,6 +3443,7 @@ boatshop
 bleaching
 bagani
 balteus
+barrelsful
 bummers
 brigantines
 bastardry
@@ -3690,7 +3691,6 @@ balloonfishes
 bergut
 batsman
 borschts
-barrelsful
 besetting
 bardolater
 books
