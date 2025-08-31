@@ -2858,6 +2858,7 @@ barracking
 birders
 blanchi
 biochemistry
+bilaterally
 bulgarians
 buckwashing
 barracouta
@@ -9521,7 +9522,6 @@ birthstool
 birthwort
 blatancies
 bitnet
-bilaterally
 brandreth
 breviger
 bakerdom
