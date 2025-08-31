@@ -9360,7 +9360,6 @@ differentiability
 differentiae
 duct
 differentials
-darkle
 dismembering
 depickle
 daggy
@@ -14640,6 +14639,7 @@ disseverment
 dryfarm
 departmentization
 deeming
+darkle
 diatomine
 dedoggerelize
 disinfeudation

@@ -1918,7 +1918,6 @@ affinite
 acetylphenol
 agogic
 acetyls
-alveolites
 acce
 acetyltropeine
 atole
@@ -12101,6 +12100,7 @@ aegirite
 antitradition
 anchor
 adhesional
+alveolites
 anchorable
 anchorages
 anchorate
