@@ -5410,7 +5410,6 @@ beguess
 bailed
 beguilement
 biunial
-biferous
 banstickle
 bloodripeness
 babelic
@@ -15444,6 +15443,7 @@ broomrape
 barbes
 baku
 boyce
+biferous
 bloodless
 brinies
 briniest
