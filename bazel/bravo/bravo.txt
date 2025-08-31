@@ -14978,7 +14978,6 @@ barelegged
 biosatellite
 brucella
 berberi
-begift
 barraters
 breedable
 borderies
@@ -16669,6 +16668,7 @@ bedfoot
 bucktooth
 beggingwise
 bucktoothed
+begift
 brawner
 bemba
 betokened
