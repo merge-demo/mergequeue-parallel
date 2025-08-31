@@ -12172,7 +12172,6 @@ baklawas
 benzodiazine
 bridgeboard
 bijugular
-bolide
 bolivar
 bloodying
 befamine
@@ -15610,6 +15609,7 @@ bribee
 bacteriosis
 bisulcated
 bosoming
+bolide
 bauxitite
 bundlet
 bluster
