@@ -12688,6 +12688,7 @@ brennschluss
 bookcases
 bushmaster
 blastophthoric
+bondager
 bibliographically
 barbaresque
 bowet
@@ -14537,7 +14538,6 @@ britzkas
 barouches
 biri
 bitty
-bondager
 brandied
 blatterer
 branding
