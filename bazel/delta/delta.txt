@@ -1940,6 +1940,7 @@ disapprobations
 derrieres
 dacryd
 deferments
+despotes
 desire
 dawsonite
 deaccession
@@ -7978,7 +7979,6 @@ distensive
 deserver
 demological
 dextrolactic
-despotes
 diphenylthiourea
 dogskin
 dorosternal
