@@ -1848,7 +1848,6 @@ calcitration
 crampet
 containers
 cologne
-cotwin
 calicoed
 cordwains
 chickling
@@ -29523,6 +29522,7 @@ critiqued
 critize
 cosmic
 critling
+cotwin
 coadunating
 consummative
 crittur
