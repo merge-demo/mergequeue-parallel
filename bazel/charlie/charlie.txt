@@ -26705,7 +26705,6 @@ coinmaker
 counterclaims
 counterclassifications
 countercolored
-cliff
 countercompetition
 czigany
 chemisms
@@ -30045,6 +30044,7 @@ chint
 crowdedly
 circumambiencies
 cheson
+cliff
 crocodilus
 comptrol
 cephalophorous
