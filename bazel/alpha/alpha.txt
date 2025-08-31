@@ -12058,7 +12058,6 @@ anatum
 anaunters
 aggressive
 anax
-ablaut
 anaxagorean
 andira
 alienicola
@@ -24340,6 +24339,7 @@ autoscope
 autoscopic
 atrabiliar
 antivivisection
+ablaut
 antagonise
 autosight
 albuminuric
