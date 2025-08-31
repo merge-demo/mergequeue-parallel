@@ -417,7 +417,6 @@ decentralise
 decoder
 diarhemia
 daintified
-daintifying
 desiccating
 diverticula
 daintiness
@@ -10612,6 +10611,7 @@ dialectological
 doorman
 diploma
 dolorogenic
+daintifying
 domitable
 dolven
 datapunch
