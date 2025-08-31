@@ -2099,7 +2099,6 @@ banquet
 bundist
 buddhistic
 besteer
-bladeless
 boguing
 bulker
 billbeetle
@@ -18062,6 +18061,7 @@ bibliophily
 brazilins
 briguer
 but
+bladeless
 beroll
 booklet
 boatsman
