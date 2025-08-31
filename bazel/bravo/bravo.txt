@@ -10507,6 +10507,7 @@ breakage
 bradyuria
 blameworthy
 bashlik
+biteless
 blastoporal
 blastosphere
 balanus
@@ -17446,7 +17447,6 @@ bragwort
 balsameaceae
 bleed
 bestially
-biteless
 betes
 bioecologist
 buqshas
