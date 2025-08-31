@@ -2545,6 +2545,7 @@ alginates
 acquiescement
 acquiescence
 acquiescency
+asniffle
 abacli
 amygdalotomy
 accrescent
@@ -10076,7 +10077,6 @@ adytum
 ambrettolide
 arthralgia
 ambry
-asniffle
 alluminor
 autocopist
 antidiphtheric
