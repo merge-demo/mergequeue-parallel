@@ -12454,6 +12454,7 @@ clarioned
 chromolith
 cluff
 colent
+ciliform
 chromolithic
 concanavalin
 chromolithography
@@ -13483,7 +13484,6 @@ caseating
 ciliella
 cressed
 cistern
-ciliform
 ciliiform
 cylinder
 cylinders
