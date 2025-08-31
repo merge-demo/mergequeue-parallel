@@ -3494,6 +3494,7 @@ bracket
 blights
 berzeliite
 batad
+burtonization
 bephrase
 besplash
 barbascoes
@@ -17828,7 +17829,6 @@ burthens
 belayer
 backwashing
 burthensome
-burtonization
 beround
 blockheadedly
 burundians
