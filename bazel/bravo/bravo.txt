@@ -4334,6 +4334,7 @@ bechanced
 becharmed
 bellic
 bellona
+breakaxe
 burbankism
 blockishness
 beche
@@ -14828,7 +14829,6 @@ breaghe
 breakability
 bilith
 battledores
-breakaxe
 blennoma
 burning
 blameable
