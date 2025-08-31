@@ -2281,7 +2281,6 @@ altometer
 acanthopod
 amourist
 acyetic
-albeit
 aciform
 abet
 athrepsia
@@ -23286,6 +23285,7 @@ asteriae
 adventurist
 audiencia
 aerobacters
+albeit
 adient
 antimephitic
 alleged
