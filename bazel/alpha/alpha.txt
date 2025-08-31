@@ -13939,7 +13939,6 @@ arrhythmia
 anomalurus
 aldamin
 aht
-automobilistic
 antebrachial
 alferez
 authorizers
@@ -21241,6 +21240,7 @@ asyndetic
 androphore
 analectic
 amphoras
+automobilistic
 azobacter
 asyndeton
 asyndetons
