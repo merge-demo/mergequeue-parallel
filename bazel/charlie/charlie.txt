@@ -2881,7 +2881,6 @@ clothesmonger
 chalcis
 cantabrian
 cantabrigian
-cantalever
 cantaliver
 cantaloup
 careerer
@@ -12284,6 +12283,7 @@ cummins
 cafard
 carotene
 careener
+cantalever
 christianopaganism
 cryptographically
 christians
