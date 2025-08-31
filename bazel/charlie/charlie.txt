@@ -6644,6 +6644,7 @@ ceilometer
 couac
 ceylonite
 ceils
+churlhood
 compound
 counterquestion
 coathangers
@@ -11708,7 +11709,6 @@ chondrilla
 chondrinous
 cirrhotic
 chondrioma
-churlhood
 chondriomere
 countercultural
 cadaveric
