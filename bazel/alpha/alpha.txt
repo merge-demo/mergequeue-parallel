@@ -6745,6 +6745,7 @@ archlexicographer
 axillant
 airscapes
 airscrews
+anathematize
 alway
 airsheds
 afterwisdom
@@ -13357,7 +13358,6 @@ appreve
 annaline
 antigrammaticalness
 apathetic
-anathematize
 annalistic
 annalists
 asianism
