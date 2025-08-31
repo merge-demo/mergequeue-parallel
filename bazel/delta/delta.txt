@@ -132,7 +132,6 @@ debilitations
 dyspathetic
 demiurgus
 dalan
-descendental
 demiglobe
 dingier
 deadcenter
@@ -2207,6 +2206,7 @@ dowries
 disfigured
 decasyllabon
 dreich
+descendental
 derivedly
 diatomaceae
 desultoriness
