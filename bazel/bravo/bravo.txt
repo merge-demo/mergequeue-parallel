@@ -3686,7 +3686,6 @@ bovines
 bailiffwick
 booboo
 balloonfishes
-bergut
 batsman
 borschts
 besetting
@@ -9255,6 +9254,7 @@ beclogging
 bonavist
 butler
 bantamweights
+bergut
 blanch
 bursas
 becafico
