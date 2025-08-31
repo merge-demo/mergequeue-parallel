@@ -2716,7 +2716,6 @@ chrysophlyctis
 corbet
 cannabis
 cannabises
-cannabism
 calcareosulphurous
 camorra
 cannaceous
@@ -7267,6 +7266,7 @@ chimar
 captious
 centurist
 coincidental
+cannabism
 coroners
 ceorl
 cep
