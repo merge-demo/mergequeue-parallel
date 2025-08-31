@@ -12509,7 +12509,6 @@ archrascal
 asarh
 anesthetization
 anesthetize
-americanism
 anesthetized
 amenableness
 achromotrichia
@@ -13752,6 +13751,7 @@ anthropologies
 airthing
 anorth
 arcticized
+americanism
 arethusa
 atacamite
 anorthite
