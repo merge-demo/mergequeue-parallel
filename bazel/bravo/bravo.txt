@@ -5238,7 +5238,6 @@ bergamots
 bribable
 befurbelowed
 birdikin
-befurred
 bowla
 begad
 bedders
@@ -10834,6 +10833,7 @@ brackened
 blethered
 bedevilled
 bletilla
+befurred
 bodysurf
 bronteum
 blets
