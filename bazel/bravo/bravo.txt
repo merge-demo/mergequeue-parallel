@@ -11292,7 +11292,6 @@ blowoff
 blowouts
 blowproof
 brats
-blows
 bleachability
 barograms
 basidigitale
@@ -15062,6 +15061,7 @@ bostrychidae
 balter
 brakeroot
 bashlyk
+blows
 bulging
 braising
 breviconic
