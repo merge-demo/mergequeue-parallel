@@ -10233,7 +10233,6 @@ aquila
 alumine
 alphitomorphous
 amen
-agathosma
 ammonocarbonic
 amenability
 amenable
@@ -15278,6 +15277,7 @@ abatements
 angioparalysis
 adulterate
 antikenotoxin
+agathosma
 abwatt
 antiking
 aposematic
