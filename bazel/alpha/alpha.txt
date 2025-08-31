@@ -8744,6 +8744,7 @@ anoesia
 atmogenic
 allobar
 allobaric
+adamitic
 ammonolyses
 adolescency
 allobroges
@@ -14978,7 +14979,6 @@ antidepressant
 antidetonant
 anociassociation
 antidetonating
-adamitic
 actuose
 aletaster
 antidictionary
