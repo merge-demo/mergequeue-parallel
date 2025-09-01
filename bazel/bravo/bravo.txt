@@ -3370,7 +3370,6 @@ booking
 bedchamber
 brans
 bassa
-balaenicipites
 bonesetter
 basiphobia
 buccheros
@@ -17858,6 +17857,7 @@ bushbuck
 boatbills
 blotchier
 bearbush
+balaenicipites
 bordered
 bairnishness
 beholders
