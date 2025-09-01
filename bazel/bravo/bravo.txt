@@ -2566,6 +2566,7 @@ baryphonic
 banzai
 babbitter
 boringness
+beingless
 baris
 bodefulness
 bearleap
@@ -15531,7 +15532,6 @@ blindfoldedness
 bisected
 brigander
 bronchitis
-beingless
 borer
 babyhoods
 bristliness
