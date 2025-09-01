@@ -17417,7 +17417,6 @@ christmas
 coemptionator
 coauthority
 coauthors
-coawareness
 collaborativeness
 coaxal
 coaxation
@@ -19335,6 +19334,7 @@ colonize
 comminating
 courted
 calces
+coawareness
 colonnade
 coughwort
 colonnaded
