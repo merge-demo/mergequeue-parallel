@@ -18748,7 +18748,6 @@ artamidae
 archeus
 archexorcist
 archfoe
-archfool
 ancestresses
 aluminothermic
 angloid
@@ -22434,6 +22433,7 @@ antimensium
 anaglyptics
 amnemonic
 antidromy
+archfool
 austenitized
 abiston
 adonean
