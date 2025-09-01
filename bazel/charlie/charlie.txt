@@ -1654,7 +1654,6 @@ caricography
 calorifier
 calorigenic
 calorimeters
-chemoreception
 chromatophore
 calorimetry
 calorimetrical
@@ -26645,6 +26644,7 @@ choked
 counterintelligence
 counterexpostulation
 cointersecting
+chemoreception
 capparidaceae
 counteradvance
 colossuswise
