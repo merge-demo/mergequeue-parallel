@@ -1246,7 +1246,6 @@ alaloi
 avian
 asexualizing
 acaridean
-acariform
 acarina
 acrasy
 affrightingly
@@ -25072,6 +25071,7 @@ annual
 antisolar
 ausforms
 antiastronomical
+acariform
 anglicanism
 ardisiaceae
 accusativeness
