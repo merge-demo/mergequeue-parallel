@@ -3618,7 +3618,6 @@ cattleyas
 clangor
 cocineras
 caragana
-caraganas
 crateful
 crenellated
 carageens
@@ -19694,6 +19693,7 @@ comatoseness
 comatosity
 comatula
 combaron
+caraganas
 combasou
 combat
 combatable
