@@ -7527,7 +7527,6 @@ chuncho
 chariotry
 calystegia
 cerebellifugal
-cerebellocortex
 cerebellorubral
 cerebellum
 creator
@@ -8044,6 +8043,7 @@ carbomethoxy
 ceroxylon
 capitulum
 chaferies
+cerebellocortex
 chafers
 caranx
 chafes
