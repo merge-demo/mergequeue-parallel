@@ -1000,7 +1000,6 @@ dit
 darings
 darius
 doubleprecision
-dark
 darked
 darkeys
 diaceturia
@@ -3328,6 +3327,7 @@ defis
 deflagrable
 dialling
 decolor
+dark
 disrestore
 dynagraph
 dollin
