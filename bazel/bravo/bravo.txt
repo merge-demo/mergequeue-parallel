@@ -2160,6 +2160,7 @@ balliage
 baptistry
 bitingly
 brulzies
+binds
 broncos
 bemingled
 baptizement
@@ -8171,7 +8172,6 @@ beatable
 battailous
 bluebuck
 biethnic
-binds
 baryes
 burden
 beswarming
