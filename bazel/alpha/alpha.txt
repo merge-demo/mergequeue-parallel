@@ -2157,7 +2157,6 @@ archangel
 apimania
 achromatization
 achromatize
-achromatocyte
 arctalian
 aerosolizing
 achromatope
@@ -13115,6 +13114,7 @@ alchem
 anientise
 achtelthaler
 ager
+achromatocyte
 animosity
 animoso
 aftosas
