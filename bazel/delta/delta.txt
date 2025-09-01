@@ -5679,6 +5679,7 @@ deozonize
 demigods
 desterilized
 dialysed
+droop
 dichromate
 disposit
 deplenish
@@ -17378,7 +17379,6 @@ decennaries
 drumlier
 droolier
 dorts
-droop
 deynt
 drooper
 dihedral
