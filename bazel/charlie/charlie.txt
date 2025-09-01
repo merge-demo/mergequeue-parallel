@@ -10611,6 +10611,7 @@ collielike
 cashbook
 chylopoiesis
 chilopsis
+colporteurs
 coagulum
 chilostomatous
 chylous
@@ -19531,7 +19532,6 @@ colportage
 cheselip
 colporter
 counteragitation
-colporteurs
 canoodled
 colposcopy
 crocodiles
