@@ -8988,7 +8988,6 @@ charisma
 counterpointe
 charismata
 chokecherry
-consuete
 charismatic
 collationer
 ceriphs
@@ -9310,6 +9309,7 @@ chaudfroid
 chauffage
 chauffer
 classist
+consuete
 chauffeured
 chauffeuring
 crankplate
