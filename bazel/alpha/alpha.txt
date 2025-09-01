@@ -6574,6 +6574,7 @@ archking
 allures
 assessing
 apropos
+ascendent
 anthemene
 ainhum
 ascians
@@ -15722,7 +15723,6 @@ airmarker
 antiphona
 aminobarbituric
 antiphonally
-ascendent
 antiphonary
 amathophobia
 articulatorily

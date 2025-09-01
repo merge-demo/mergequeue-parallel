@@ -7741,7 +7741,6 @@ deils
 dram
 digger
 dysarthrosis
-dormitory
 defoliage
 dayton
 domiciliary
@@ -11600,6 +11599,7 @@ dowry
 discomposed
 determa
 derided
+dormitory
 desmachymatous
 disconcertment
 dyspnoi
