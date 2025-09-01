@@ -20095,7 +20095,6 @@ corpselike
 commercia
 chesset
 commercial
-commercialised
 centgrave
 chequerwise
 commercialism
@@ -21042,6 +21041,7 @@ circumstantiates
 computer
 computerise
 computerization
+commercialised
 computerizes
 computerizing
 computernik
