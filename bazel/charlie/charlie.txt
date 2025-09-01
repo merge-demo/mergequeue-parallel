@@ -16428,6 +16428,7 @@ cloacae
 cents
 connellite
 cholonan
+ceruminous
 cowage
 copart
 cutlets
@@ -25684,7 +25685,6 @@ citators
 chlormethylic
 calctufa
 colophan
-ceruminous
 caripeta
 conule
 corresponding
