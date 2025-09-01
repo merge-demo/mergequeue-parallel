@@ -5685,7 +5685,6 @@ aviation
 acrocephalia
 abranchiata
 aeroduct
-agatelike
 agathist
 agathodaemonic
 aeropause
@@ -13146,6 +13145,7 @@ azulite
 adjectival
 anischuria
 aniseed
+agatelike
 adynamic
 aniseeds
 atingle
