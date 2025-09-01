@@ -9077,6 +9077,7 @@ acquisita
 almerian
 appointments
 ardeae
+arizonite
 abranchiate
 alpigene
 almeriite
@@ -19679,7 +19680,6 @@ arivaipa
 amphoral
 arizonian
 arizonians
-arizonite
 achigan
 anuresis
 alnico
