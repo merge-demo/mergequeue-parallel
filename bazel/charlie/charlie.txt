@@ -14322,7 +14322,6 @@ circulet
 ciliectomy
 circumpallial
 constrained
-circumparallelogram
 circumpentagon
 convexed
 circumplanetary
@@ -15967,6 +15966,7 @@ clergion
 clergywoman
 culverfoot
 clerical
+circumparallelogram
 crumbum
 clericality
 clericals

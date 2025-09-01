@@ -4634,7 +4634,6 @@ brunhild
 breakfastless
 beltmaking
 briquetted
-betula
 bedfellows
 buildable
 barlows
@@ -16210,6 +16209,7 @@ browst
 barogram
 brickmaker
 bromoketone
+betula
 brinjaul
 browzer
 biennial
