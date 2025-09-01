@@ -7199,7 +7199,6 @@ centroacinar
 crawful
 catechist
 canned
-centrodesmus
 centrodorsal
 centroids
 cyanophilous
@@ -19518,6 +19517,7 @@ colpitis
 caliber
 carvers
 colpoperineoplasty
+centrodesmus
 colpoperineorrhaphy
 caledonian
 casimires
