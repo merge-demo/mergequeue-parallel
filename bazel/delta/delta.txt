@@ -217,6 +217,7 @@ daff
 dilater
 dipterologist
 dicatalectic
+declinable
 dione
 didascalos
 dinnerware
@@ -7605,7 +7606,6 @@ devadasi
 deval
 devaloka
 drenched
-declinable
 durabilities
 devaluates
 droppingly
