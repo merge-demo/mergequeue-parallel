@@ -6786,7 +6786,6 @@ acrodromous
 airway
 aflutter
 airwayman
-armless
 airwards
 abstruseness
 ays
@@ -9927,6 +9926,7 @@ aquapuncture
 anthocephalous
 ambidexterities
 ambidextral
+armless
 andrenid
 avidya
 ambidextrously

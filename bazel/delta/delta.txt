@@ -6101,7 +6101,6 @@ deceptively
 derailing
 demiworld
 derailment
-diplomatism
 decocts
 divvied
 dynapolis
@@ -9032,6 +9031,7 @@ dicotylidae
 deinosaur
 dauerschlaf
 drowsiness
+diplomatism
 disowns
 decerebrated
 dicotyls
