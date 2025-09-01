@@ -11434,6 +11434,7 @@ decarbonate
 disciplinatory
 dewaterer
 depuration
+dowsets
 disciples
 discipling
 disciplining
@@ -16267,7 +16268,6 @@ dowering
 dichogamous
 disinherit
 dowf
-dowsets
 densitometer
 dowitchers
 determinedness
