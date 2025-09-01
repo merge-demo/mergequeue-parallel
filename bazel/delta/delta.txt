@@ -13422,7 +13422,6 @@ decise
 disquietedness
 declasses
 disquieter
-disquietingness
 disquietly
 disquietness
 disquietude
@@ -14679,6 +14678,7 @@ deputational
 diminuted
 delawarean
 deletions
+disquietingness
 diddikai
 dyslalia
 divulger
