@@ -3039,7 +3039,6 @@ deep
 deerstalking
 deerweed
 deerweeds
-deescalate
 deepfrozen
 deemphasize
 diester
@@ -13443,6 +13442,7 @@ diarsenide
 disesteem
 dysgnosia
 dodgy
+deescalate
 decedents
 disquisitor
 disquisitional
