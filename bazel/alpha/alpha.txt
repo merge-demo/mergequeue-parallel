@@ -5700,7 +5700,6 @@ agatizing
 agatoid
 alarbus
 assoiled
-agaze
 age
 ageable
 agallop
@@ -14716,6 +14715,7 @@ antichamber
 avener
 antiscii
 abbreviations
+agaze
 antichance
 animatograph
 antichlorine
