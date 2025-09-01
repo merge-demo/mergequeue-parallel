@@ -15918,6 +15918,7 @@ autophonous
 aljoba
 aromatiser
 advisable
+auriculidae
 arariba
 antiradiating
 ammi
@@ -23571,7 +23572,6 @@ auriculas
 aviate
 alethic
 ambidexter
-auriculidae
 assailant
 amioidei
 auriculocranial
