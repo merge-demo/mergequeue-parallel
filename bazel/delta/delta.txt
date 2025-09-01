@@ -13033,6 +13033,7 @@ dodonaean
 dispand
 descaling
 diphthongized
+dolce
 deallocated
 dispar
 disparageable
@@ -13661,7 +13662,6 @@ dissyllabizing
 dissyllable
 dialecticism
 dignitarial
-dolce
 dullishly
 dissimilars
 dorize
