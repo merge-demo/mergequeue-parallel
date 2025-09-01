@@ -6263,7 +6263,6 @@ causality
 causalities
 causally
 causans
-causate
 causation
 chervonei
 causationism
@@ -24683,6 +24682,7 @@ coppersmithing
 copperware
 cabmen
 copperwing
+causate
 cladodes
 cruelest
 coppices
