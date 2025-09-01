@@ -1974,7 +1974,6 @@ camion
 camions
 camisa
 classicising
-cloddy
 camisard
 capsicins
 curcuddoch
@@ -3384,6 +3383,7 @@ capric
 capriccetto
 capricci
 capriccio
+cloddy
 cunctatious
 curliewurlie
 capriccioso
