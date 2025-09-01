@@ -1336,7 +1336,6 @@ demodulator
 departure
 daundering
 didappers
-daunted
 dhobies
 daunters
 daffy
@@ -10975,6 +10974,7 @@ demisavage
 disadvancing
 disadvantaged
 disadvantageousness
+daunted
 deminude
 disadventure
 dysaesthesia
