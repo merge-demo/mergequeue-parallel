@@ -10354,7 +10354,6 @@ chawle
 chicquer
 chicquest
 cooperite
-chicquing
 cystinuria
 chics
 chide
@@ -11467,6 +11466,7 @@ choil
 chymistry
 choile
 choiler
+chicquing
 choir
 choired
 choirlike
