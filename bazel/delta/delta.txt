@@ -1764,7 +1764,6 @@ disomic
 deminudity
 desmidiologist
 diversions
-dustheaps
 doorpost
 deaving
 debacle
@@ -5403,6 +5402,7 @@ douched
 dialysation
 dissonant
 denaturiser
+dustheaps
 denumerably
 denumerantive
 detainees
