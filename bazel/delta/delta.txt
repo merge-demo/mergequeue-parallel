@@ -3787,6 +3787,7 @@ deicers
 devalued
 defacingly
 deicides
+didymate
 deicing
 dictates
 dismutation
@@ -9151,7 +9152,6 @@ defamed
 didym
 decompiler
 devirgination
-didymate
 despraise
 depressives
 dandering
