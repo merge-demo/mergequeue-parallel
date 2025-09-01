@@ -5361,6 +5361,7 @@ brevicipitidae
 bacteriogenic
 bonace
 besoothement
+birefringence
 braseros
 begowk
 buyable
@@ -18020,7 +18021,6 @@ bottler
 busthead
 barberries
 broadcaster
-birefringence
 beforehand
 bifistular
 bradypod
