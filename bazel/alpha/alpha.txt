@@ -13921,7 +13921,6 @@ arsenillo
 anteambulate
 anteambulation
 anteater
-astrologian
 archchampion
 achronychous
 antebaptismal
@@ -16384,6 +16383,7 @@ arminianism
 accentus
 altarist
 alkargen
+astrologian
 antum
 ambulatio
 antwerp
