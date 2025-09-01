@@ -4279,7 +4279,6 @@ antireacting
 adullamite
 affrayer
 abencerrages
-adulterant
 adulterated
 antiquary
 adulterateness
@@ -8691,6 +8690,7 @@ aphicide
 arbinose
 allying
 allylate
+adulterant
 abecedarius
 astatine
 allylation
