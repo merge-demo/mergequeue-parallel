@@ -12622,7 +12622,6 @@ alvan
 alkalinizing
 advocateship
 awed
-anamniata
 angerona
 angeronalia
 angers
@@ -14842,6 +14841,7 @@ anticlogging
 averroism
 anticoagulant
 anticoagulation
+anamniata
 anticoagulative
 ampliate
 adessenarian
