@@ -8896,6 +8896,7 @@ candylike
 cryptanalyst
 cremains
 contentious
+classico
 charadrius
 charango
 chorioidal
@@ -18246,7 +18247,6 @@ cuss
 capelets
 coffeehouse
 coffeeman
-classico
 clayed
 coffeepots
 coffeeroom
