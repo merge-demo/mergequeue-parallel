@@ -5459,7 +5459,6 @@ auxofluor
 andiroba
 afters
 alumna
-allomerism
 aftershaft
 aftershafted
 acetylcholinic
@@ -23870,6 +23869,7 @@ autoalkylation
 advancement
 autoanalytic
 aromatophore
+allomerism
 auriculariae
 animalcule
 anseriformes
