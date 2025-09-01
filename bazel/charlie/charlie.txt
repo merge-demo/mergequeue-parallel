@@ -10783,6 +10783,7 @@ chinoa
 coped
 confusers
 ceorls
+climatic
 canicule
 chinoleine
 chinoline
@@ -16162,7 +16163,6 @@ climates
 corporatively
 cerenkov
 cestidae
-climatic
 climatographical
 climatology
 climatological
