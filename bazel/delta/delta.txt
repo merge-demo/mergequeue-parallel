@@ -4769,7 +4769,6 @@ detailed
 democratism
 defacements
 democratize
-divulgence
 democratizer
 dumontiaceae
 democratizing
@@ -5323,6 +5322,7 @@ dentelure
 dealable
 dorsoventrad
 dorsimesal
+divulgence
 diallists
 dispositions
 disblame
