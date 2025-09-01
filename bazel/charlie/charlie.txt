@@ -6618,7 +6618,6 @@ crioceris
 cedula
 cee
 ceibas
-coracomorphic
 chard
 cursorial
 ceibo
@@ -18466,6 +18465,7 @@ cepheus
 clericalize
 crosslet
 circlet
+coracomorphic
 countermark
 champac
 coheirs
