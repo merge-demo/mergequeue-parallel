@@ -13598,7 +13598,6 @@ cymbocephalous
 cymbopogon
 cimbrian
 cantharophilous
-casuistry
 cimbric
 clovene
 cyme
@@ -25965,6 +25964,7 @@ cose
 cytosines
 capsized
 cobaltite
+casuistry
 creatorrhea
 cranioscopical
 contextual
