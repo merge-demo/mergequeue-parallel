@@ -2205,7 +2205,6 @@ barauna
 barba
 bayards
 boneheadedness
-bromize
 blobs
 begobs
 barbaloin
@@ -10339,6 +10338,7 @@ bloodalp
 blakeite
 bargepole
 billot
+bromize
 bounderish
 bamboozlers
 bordman
