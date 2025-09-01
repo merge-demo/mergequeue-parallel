@@ -2522,7 +2522,6 @@ barycenter
 bemused
 burmite
 bijection
-brillolette
 barid
 bronchostenosis
 bereaving
@@ -11210,6 +11209,7 @@ bizonia
 bestrapped
 buckeye
 blote
+brillolette
 beaker
 brazenness
 bracts
