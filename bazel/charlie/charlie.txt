@@ -15230,7 +15230,6 @@ clairsentient
 confrontationism
 cachexia
 conceder
-chondrophyte
 clairvoyancy
 clairvoyant
 colloidochemical
@@ -20383,6 +20382,7 @@ cryptamnesia
 compactible
 crampedness
 categorizations
+chondrophyte
 cincinnus
 compactly
 chondrodynia
