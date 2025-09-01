@@ -7675,7 +7675,6 @@ deunam
 debell
 deviance
 dimples
-deviancy
 deemed
 dogcatcher
 difform
@@ -14291,6 +14290,7 @@ diluendo
 ditchless
 disorderly
 dorsointestinal
+deviancy
 downplaying
 deliriate
 diter
