@@ -2981,7 +2981,6 @@ cantilating
 cantilene
 cantilever
 cantilevered
-cantilevers
 cantily
 cantina
 canting
@@ -7024,6 +7023,7 @@ centerfold
 cenobites
 compania
 coofs
+cantilevers
 chelators
 colonus
 centerfolds
