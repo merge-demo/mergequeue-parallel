@@ -13796,7 +13796,6 @@ branchiostomid
 bizarres
 brewership
 bistratal
-bookwright
 bourbonism
 bowdlerising
 bemaddening
@@ -17290,6 +17289,7 @@ bargained
 blackjacked
 blowess
 brassylic
+bookwright
 bihari
 bewray
 brennage
