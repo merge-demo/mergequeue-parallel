@@ -7558,6 +7558,7 @@ croaks
 carus
 corrugating
 cooked
+confutator
 cava
 citrulline
 corydaline
@@ -22174,7 +22175,6 @@ consummations
 confusticate
 confustication
 confutability
-confutator
 confutes
 confuting
 cong
