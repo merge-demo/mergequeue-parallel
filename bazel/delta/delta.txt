@@ -7082,7 +7082,6 @@ drowsed
 dissuasions
 deterrently
 domajig
-disintegrous
 destituent
 demesmerize
 descriptiveness
@@ -14508,6 +14507,7 @@ denarcotize
 drunkensome
 divertingly
 drainages
+disintegrous
 divertingness
 dissolveability
 drabbet
