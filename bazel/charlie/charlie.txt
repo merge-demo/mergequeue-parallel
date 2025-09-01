@@ -1942,7 +1942,6 @@ coimplicate
 conduplicate
 camery
 camerier
-camerine
 camerinidae
 camerist
 circummigrate
@@ -19715,6 +19714,7 @@ combatable
 coremium
 chroma
 chrismale
+camerine
 combatant
 cimbalom
 combater
