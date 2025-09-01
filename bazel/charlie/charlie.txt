@@ -18792,6 +18792,7 @@ coleopter
 coleoptera
 chalcedonic
 cardiotoxic
+cannelated
 coleopterist
 coleopterology
 catteries
@@ -19556,7 +19557,6 @@ clarsach
 colubroid
 colugo
 canaliculi
-cannelated
 columbaceous
 columbae
 columban
