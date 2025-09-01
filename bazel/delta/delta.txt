@@ -738,7 +738,6 @@ distale
 dioptometer
 dictagraph
 dander
-dandy
 dandiacally
 dandydom
 dacryosolenitis
@@ -15046,6 +15045,7 @@ drake
 doesn
 dolentissimo
 desiccatory
+dandy
 demiracle
 dhikr
 dirndl
