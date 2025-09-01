@@ -9997,7 +9997,6 @@ defensor
 dasyatidae
 dimness
 decisiveness
-dermatographism
 dysacousma
 deuteroscopic
 debriefs
@@ -18541,6 +18540,7 @@ darbs
 decimalise
 democratic
 durians
+dermatographism
 differ
 duricrust
 duridine
