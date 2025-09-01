@@ -393,7 +393,6 @@ doupion
 daimiate
 daimiel
 davallia
-daimyo
 dol
 dawdlers
 daimios
@@ -15920,6 +15919,7 @@ dirtplate
 derationalization
 doruck
 decatoic
+daimyo
 despiting
 dialectally
 disboweling
