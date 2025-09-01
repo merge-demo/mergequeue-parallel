@@ -5352,6 +5352,7 @@ carpi
 confervas
 castle
 cumacean
+choring
 castled
 castlelike
 clitocybe
@@ -24578,7 +24579,6 @@ copies
 comvia
 copyfitting
 copygraph
-choring
 contemporised
 cosmati
 chancily
