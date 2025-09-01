@@ -4688,6 +4688,7 @@ cogredient
 carpincho
 carping
 canceration
+corrump
 conchometer
 carpiodes
 carpium
@@ -29984,7 +29985,6 @@ crotonate
 crotonylene
 chitchat
 condue
-corrump
 crotons
 crottal
 complaintive
