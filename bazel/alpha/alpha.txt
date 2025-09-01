@@ -15639,6 +15639,7 @@ antipasch
 antipastic
 aureolin
 acromania
+adhesivemeter
 acleidian
 anaesthesiologist
 amalgamize
@@ -20427,7 +20428,6 @@ agyria
 arcticology
 apperceptionistic
 archetype
-adhesivemeter
 anathema
 automatically
 artesian
