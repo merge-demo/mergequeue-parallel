@@ -7934,6 +7934,7 @@ dews
 dowitch
 didapper
 dicarboxylic
+doubleheaders
 dex
 deaminate
 disponee
@@ -17515,7 +17516,6 @@ dimwitted
 dusty
 drowte
 dreads
-doubleheaders
 destructed
 devoices
 densities
