@@ -14526,7 +14526,6 @@ cising
 cisium
 cisjurane
 cisleithan
-cislunar
 cismontanism
 counterappeal
 cisplatine
@@ -19782,6 +19781,7 @@ combustious
 combustive
 choristry
 castalian
+cislunar
 combusts
 charites
 captained
