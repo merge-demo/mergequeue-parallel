@@ -15037,7 +15037,6 @@ abscissa
 antieyestrain
 acquirers
 antiejaculation
-alterants
 apsidal
 antiemetic
 antiempiric
@@ -15654,6 +15653,7 @@ antiabrasion
 antiinsurrectionally
 aggravatingly
 ambits
+alterants
 antipatriarch
 antipatriarchy
 aurinasal
