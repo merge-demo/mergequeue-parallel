@@ -4227,6 +4227,7 @@ adsheart
 awa
 asprawl
 alablaster
+amphithecium
 adsignify
 asbolan
 agazed
@@ -11266,7 +11267,6 @@ amphithecia
 aregenerative
 amendableness
 anthomyia
-amphithecium
 abjures
 alterant
 amphithyra
