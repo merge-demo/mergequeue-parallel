@@ -2914,7 +2914,6 @@ actinoblast
 actinobranch
 abdication
 actinochemistry
-antifoaming
 actinocrinid
 alalunga
 antireligious
@@ -11317,6 +11316,7 @@ awestruck
 amplexicauline
 artels
 abstinence
+antifoaming
 alupag
 auguster
 amplexus
