@@ -13261,7 +13261,6 @@ coadapt
 cyclohexadienyl
 crossrow
 coaters
-cyclohexanol
 crass
 cyclohexanone
 cyclohexyl
@@ -19971,6 +19970,7 @@ caudata
 commark
 croupal
 coinheres
+cyclohexanol
 conjectural
 commassation
 carot
