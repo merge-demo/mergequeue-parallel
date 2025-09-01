@@ -13708,6 +13708,7 @@ cinchonisation
 cinchonise
 cloots
 clashed
+chromatophorous
 chambul
 cheers
 cinchonization
@@ -20516,7 +20517,6 @@ compeering
 corinthianesque
 chandelier
 checkerspot
-chromatophorous
 compellable
 cultirostres
 characine
