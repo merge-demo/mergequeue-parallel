@@ -6557,7 +6557,6 @@ casbahs
 contributors
 cebil
 ceboids
-chondritis
 ceratitic
 creesh
 cebollite
@@ -16515,6 +16514,7 @@ clodhoppers
 clodhopping
 canchi
 clodlet
+chondritis
 clubfellow
 contracture
 conjugators
