@@ -14625,7 +14625,6 @@ antibiont
 antibiosis
 anaglyphic
 antibiotic
-antimonopolism
 acousmatic
 antibiotically
 anthrohopobiological
@@ -21441,6 +21440,7 @@ acanthine
 anticritique
 assuaged
 actinula
+antimonopolism
 adiphenine
 arthemis
 aerosol

@@ -14305,7 +14305,6 @@ circumnavigates
 corollike
 circumnavigating
 circumnavigation
-clefted
 chickaree
 coelia
 circumnavigator
@@ -18454,6 +18453,7 @@ cohabitation
 cecograph
 cohabited
 cohabiting
+clefted
 coharmonious
 coharmonize
 cohead
