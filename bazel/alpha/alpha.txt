@@ -4182,7 +4182,6 @@ anaptychi
 adrenin
 anthropodeoxycholic
 addu
-archcount
 adrenochrome
 adrenocortical
 adrenocorticotrophic
@@ -14193,6 +14192,7 @@ aramaean
 anthelices
 anthelix
 archaeomagnetism
+archcount
 anthelminthic
 anthemas
 anthemata
