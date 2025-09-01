@@ -5083,7 +5083,6 @@ dendrodic
 dendroeca
 drakes
 degrade
-diarist
 duplicating
 dendrohyrax
 deneutralization
@@ -8580,6 +8579,7 @@ diapirs
 diaplases
 disk
 dinosaurian
+diarist
 destroying
 dicotyledons
 dewan
