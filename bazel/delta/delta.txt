@@ -3293,7 +3293,6 @@ definiteness
 dahlin
 deergrass
 degeneracy
-definitiones
 duplications
 definitions
 definitise
@@ -14771,6 +14770,7 @@ dendroceratine
 disincline
 dimensionality
 dotlike
+definitiones
 discarnation
 difflation
 diaristic
