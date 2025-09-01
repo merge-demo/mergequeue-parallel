@@ -9899,6 +9899,7 @@ clays
 calic
 cameograph
 catalogic
+crouch
 chronobiology
 chemosphere
 collateral
@@ -29988,7 +29989,6 @@ crotons
 crottal
 complaintive
 crottle
-crouch
 crouchant
 crouchback
 crouched
