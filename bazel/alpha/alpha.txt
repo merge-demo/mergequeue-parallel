@@ -5239,7 +5239,6 @@ albedograph
 afforce
 afford
 alkines
-affordable
 argoletier
 afforested
 afforesting
@@ -15984,6 +15983,7 @@ antirevisionist
 atmidalbumin
 anaphasic
 adenophyma
+affordable
 antirevolution
 antirevolutionist
 antirheumatic
