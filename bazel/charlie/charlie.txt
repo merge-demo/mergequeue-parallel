@@ -3069,6 +3069,7 @@ conferrable
 capability
 charks
 capable
+camisado
 capableness
 clayoquot
 challengingly
@@ -14262,7 +14263,6 @@ clubhouse
 camelopardidae
 circumgyrate
 circumgyratory
-camisado
 circumincession
 circuminsession
 congratulator
