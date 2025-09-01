@@ -980,7 +980,6 @@ cytodifferentiation
 claretian
 capuche
 calanque
-calantas
 chromocenter
 chondroid
 caprelline
@@ -12469,6 +12468,7 @@ crinated
 chervonetz
 chromonemal
 coincidences
+calantas
 chromonematal
 cataphracti
 chromophage
