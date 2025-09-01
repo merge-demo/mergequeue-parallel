@@ -20622,7 +20622,6 @@ alike
 articulationist
 articulations
 adenoblast
-articulative
 anteroventrally
 amphisbaenic
 agrostographic
@@ -24827,6 +24826,7 @@ animates
 aberrations
 arythmias
 anosmias
+articulative
 arraignments
 aggrandizements
 arretez
