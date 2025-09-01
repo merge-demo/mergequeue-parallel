@@ -8544,6 +8544,7 @@ berylline
 brauneberger
 bridled
 brachysm
+brilliants
 brachiofacial
 blepharolithiasis
 bradypode
@@ -15373,7 +15374,6 @@ beiges
 boba
 bullule
 brilliantly
-brilliants
 brilliantwise
 bergut
 bosonic
