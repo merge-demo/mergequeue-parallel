@@ -10094,7 +10094,6 @@ befallen
 blackberrylike
 bacchant
 begulf
-berbers
 bootleggers
 buphthalmia
 bedells
@@ -13586,6 +13585,7 @@ backstage
 biguttulate
 bilskirnir
 bigener
+berbers
 brin
 bestorm
 bordar
