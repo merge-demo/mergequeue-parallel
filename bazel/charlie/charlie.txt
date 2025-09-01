@@ -11372,6 +11372,7 @@ chiastic
 chloroplatinous
 chloroprene
 creature
+cucullus
 chloroquine
 coronas
 camagon
@@ -12917,7 +12918,6 @@ copiers
 clavus
 colorblindness
 carroming
-cucullus
 clodpolls
 coendear
 critism
