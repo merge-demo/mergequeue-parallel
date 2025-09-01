@@ -3125,7 +3125,6 @@ baseburner
 basecourt
 betokener
 baselessly
-baselevel
 biradiate
 bismarck
 bloedite
@@ -10645,6 +10644,7 @@ bleaks
 browd
 bichlorides
 brachygnathous
+baselevel
 bewash
 brunissure
 bhava
