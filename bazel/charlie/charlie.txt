@@ -883,6 +883,7 @@ cajolery
 caproic
 crimple
 chloroacetophenone
+confessing
 cajoles
 cajoling
 cautionaries
@@ -24257,7 +24258,6 @@ const
 criminated
 crescendi
 chirographer
-confessing
 chaka
 craniostenosis
 convulsions
