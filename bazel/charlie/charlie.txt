@@ -2166,7 +2166,6 @@ conchol
 cornamute
 campo
 creedbound
-campodeoid
 campody
 campong
 campongs
@@ -26424,6 +26423,7 @@ cotrine
 cacoplastic
 corkiest
 curet
+campodeoid
 catocalid
 cotripper
 cotrustee
