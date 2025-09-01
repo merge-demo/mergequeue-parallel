@@ -22546,7 +22546,6 @@ counterbid
 conking
 conn
 connaraceous
-connascency
 cements
 connate
 connately
@@ -25407,6 +25406,7 @@ cornmuse
 carabus
 corno
 collegians
+connascency
 chewet
 curlew
 cornpipe
