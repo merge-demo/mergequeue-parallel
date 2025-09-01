@@ -3319,7 +3319,6 @@ distressfulness
 dismast
 denims
 dullery
-dipleiodoscope
 definitor
 dorsosternal
 dogmouth
@@ -17980,6 +17979,7 @@ deliriously
 dugongs
 diazeuctic
 demandable
+dipleiodoscope
 dossals
 dietitian
 dugouts
