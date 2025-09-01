@@ -9997,7 +9997,6 @@ dimness
 decisiveness
 dermatographism
 dysacousma
-dragoons
 deuteroscopic
 debriefs
 digestif
@@ -14247,6 +14246,7 @@ disyoked
 doublet
 discardable
 deprivate
+dragoons
 disvisor
 dungs
 dynamoelectric
