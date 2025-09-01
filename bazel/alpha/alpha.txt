@@ -5668,6 +5668,7 @@ awacs
 apickaback
 ancestor
 agata
+archisphere
 apertured
 agate
 admen
@@ -20586,7 +20587,6 @@ arefy
 annelids
 austerus
 allude
-archisphere
 asterion
 attacapan
 articulacy
