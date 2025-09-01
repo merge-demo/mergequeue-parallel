@@ -7668,7 +7668,6 @@ cerniture
 croze
 cernuous
 cerographer
-contestants
 contracter
 cerographical
 ceroline
@@ -26690,6 +26689,7 @@ celandine
 counterborer
 counterboring
 counterboulle
+contestants
 counterbracing
 counterbranch
 curbstones

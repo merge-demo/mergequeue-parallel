@@ -9781,6 +9781,7 @@ amarthritis
 autosomatognosis
 albumean
 azotorrhoea
+asserta
 autotherapy
 antiae
 anamnionata
@@ -21649,7 +21650,6 @@ antiberiberin
 assents
 asseour
 assert
-asserta
 assertable
 asserted
 asserter
