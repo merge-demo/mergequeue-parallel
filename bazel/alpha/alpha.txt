@@ -3483,6 +3483,7 @@ abb
 adenitis
 adenization
 adenoacanthoma
+autometry
 adenocarcinoma
 adenocarcinomas
 adenocarcinomata
@@ -12594,7 +12595,6 @@ angelicize
 angelicness
 attestive
 angelico
-autometry
 angelina
 attle
 angelize
