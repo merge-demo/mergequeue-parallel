@@ -2238,7 +2238,6 @@ acidly
 appling
 acetaminol
 acidnesses
-administrants
 acidology
 acidometer
 allotting
@@ -2986,6 +2985,7 @@ arvicole
 alligatoring
 alluvion
 advertisements
+administrants
 astringently
 aught
 apickpack
