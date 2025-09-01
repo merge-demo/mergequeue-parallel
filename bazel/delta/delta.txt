@@ -713,7 +713,6 @@ defrayal
 dancalite
 duro
 dasht
-dopester
 draconites
 deadmelt
 dipter
@@ -11105,6 +11104,7 @@ doctordom
 deedy
 debated
 difluoride
+dopester
 denumerability
 decernment
 divisor
