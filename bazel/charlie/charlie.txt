@@ -14490,6 +14490,7 @@ capsulociliary
 caseine
 cirrosely
 cirrostomi
+cochylis
 cirrostrative
 citharoedus
 charnel
@@ -17656,7 +17657,6 @@ colonopexy
 commonwealths
 cochero
 cochief
-cochylis
 cochleae
 cochlear
 cochleariform
