@@ -4853,6 +4853,7 @@ demonical
 decadal
 deathcups
 diestrum
+disambiguation
 dognapers
 durableness
 demonise
@@ -5813,7 +5814,6 @@ deleatur
 dichronous
 dysraphia
 dujan
-disambiguation
 deploration
 dismarshall
 disauthentic
