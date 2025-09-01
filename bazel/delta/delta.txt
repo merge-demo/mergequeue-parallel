@@ -10589,7 +10589,6 @@ doxographical
 dittology
 domestic
 documented
-demises
 decoctible
 defs
 diploid
@@ -15401,6 +15400,7 @@ dismit
 decanters
 dolphus
 dryfat
+demises
 displeasured
 doating
 disintegrationist
