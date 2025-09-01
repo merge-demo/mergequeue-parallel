@@ -9855,7 +9855,6 @@ avoue
 abandonee
 abu
 amaurosis
-androeccia
 amaze
 airlocks
 amazedly
@@ -11950,6 +11949,7 @@ alpenhorns
 autocratical
 abduced
 admiral
+androeccia
 assentation
 anastasia
 autodestruction
