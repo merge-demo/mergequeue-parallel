@@ -6373,6 +6373,7 @@ achromia
 anticommercialistic
 ahtena
 ahu
+anisopod
 admonitions
 aminoethionic
 ahuaca
@@ -13224,7 +13225,6 @@ anisophylly
 anisophyllous
 atbash
 apace
-anisopod
 ataraxias
 asseverated
 ancient
