@@ -219,7 +219,6 @@ autodiagrammatic
 animadversions
 anhungered
 antiritual
-antisensitizer
 abbotric
 allokinesis
 abscision
@@ -2119,6 +2118,7 @@ achordal
 amyelotrophy
 achordata
 achordate
+antisensitizer
 achorion
 affectionally
 atrophiated
