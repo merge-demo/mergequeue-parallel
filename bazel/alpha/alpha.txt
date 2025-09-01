@@ -4698,7 +4698,6 @@ aeriform
 abasement
 aberdevine
 azygous
-aspide
 aeriness
 aero
 acetylate
@@ -20170,6 +20169,7 @@ aeolodion
 apparelling
 anaphylactoid
 arricciato
+aspide
 applicator
 apetaly
 areroscope
