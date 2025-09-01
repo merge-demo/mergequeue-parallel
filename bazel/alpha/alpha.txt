@@ -20774,7 +20774,6 @@ ador
 aconitin
 asaph
 affectate
-arachnidism
 arcate
 antiparasitically
 asaphia
@@ -25252,6 +25251,7 @@ azygobranchiate
 axial
 azurous
 allemontite
+arachnidism
 azygoses
 azygote
 atabal
