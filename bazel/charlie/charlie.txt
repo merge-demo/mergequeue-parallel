@@ -3131,7 +3131,6 @@ coatimondie
 closemouth
 caper
 caperbush
-cynghanedd
 capercaillie
 chaulmoogric
 capercut
@@ -13020,6 +13019,7 @@ crumbable
 crates
 cyanoguanidine
 cyanohermidin
+cynghanedd
 cyanometer
 cuneate
 camaile

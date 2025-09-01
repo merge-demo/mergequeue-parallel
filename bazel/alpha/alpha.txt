@@ -13708,6 +13708,7 @@ arrowed
 amid
 arteriopalmus
 anoplura
+amphithurons
 amnic
 assbaa
 acetylenogen
@@ -22414,7 +22415,6 @@ alfas
 arachnoidean
 anomalously
 ayre
-amphithurons
 appellants
 anticholinesterase
 aerogene
