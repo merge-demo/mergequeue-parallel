@@ -1857,7 +1857,6 @@ bandelette
 banderma
 bowlike
 brachytic
-banderol
 blet
 bindings
 brigading
@@ -13337,6 +13336,7 @@ botels
 bebrave
 bradyphagia
 bothersome
+banderol
 bothered
 brender
 bothers
