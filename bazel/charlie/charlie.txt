@@ -9820,6 +9820,7 @@ chemiculture
 chemigraphy
 chemigraphic
 caudotibialis
+chylidrosis
 chemiluminescence
 chemiotactic
 chemiotaxic
@@ -10510,7 +10511,6 @@ chilicote
 chilidogs
 coropo
 coupon
-chylidrosis
 coevolutionary
 crews
 cherely
