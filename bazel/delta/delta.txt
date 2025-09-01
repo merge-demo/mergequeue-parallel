@@ -2865,7 +2865,6 @@ devotions
 drail
 drepanis
 dronet
-didunculinae
 draper
 didunculidae
 decurion
@@ -16072,6 +16071,7 @@ direct
 double
 denumberment
 demos
+didunculinae
 dotter
 detrimentality
 doubleheartedness
