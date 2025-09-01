@@ -4860,6 +4860,7 @@ aeromechanic
 alphameric
 aeromedical
 aerometer
+acetamidine
 amygdalus
 amenite
 amphictyonies
@@ -16232,7 +16233,6 @@ actinomorphy
 achlorhydria
 atune
 aspire
-acetamidine
 arithmetization
 antitoxic
 antitoxin
