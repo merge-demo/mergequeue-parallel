@@ -2138,7 +2138,6 @@ beaugregories
 bribery
 bantu
 bantus
-bandon
 brahmahood
 barbellulae
 blandfordia
@@ -13887,6 +13886,7 @@ basibregmatic
 boloball
 bowleg
 braising
+bandon
 bowleggedness
 beedi
 bowles
