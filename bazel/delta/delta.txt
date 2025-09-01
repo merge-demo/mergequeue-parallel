@@ -3622,7 +3622,6 @@ deprint
 dermatoxerasia
 deglut
 dognaps
-dec
 disarrangement
 dithematic
 decubation
@@ -16762,6 +16761,7 @@ drammed
 dottler
 digenic
 dramming
+dec
 dioecious
 dorrbeetle
 distributedly
