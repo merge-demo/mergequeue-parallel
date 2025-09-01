@@ -14602,7 +14602,6 @@ cystidium
 candescent
 cenobite
 contrapuntalist
-cyath
 cystiform
 clockmutch
 cystigerous
@@ -25913,6 +25912,7 @@ coruscates
 codicil
 chlamydoselachus
 corve
+cyath
 cousiny
 crustiest
 conelet
