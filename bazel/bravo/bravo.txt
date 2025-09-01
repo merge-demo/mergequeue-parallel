@@ -6041,7 +6041,6 @@ bablah
 bloated
 boathead
 bollard
-bemartyr
 buttstrap
 blacktail
 bemuddlement
@@ -17623,6 +17622,7 @@ bino
 buriers
 bellovaci
 boff
+bemartyr
 blockish
 boris
 britchel

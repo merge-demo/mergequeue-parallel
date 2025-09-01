@@ -6213,7 +6213,6 @@ ceroplast
 caulis
 caulivorous
 choanosomal
-caulkers
 crustation
 caulks
 chymists
@@ -10271,6 +10270,7 @@ coimmense
 chicaric
 cathexis
 casefying
+caulkers
 carnalities
 chicer
 casabe
