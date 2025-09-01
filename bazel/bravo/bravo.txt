@@ -9197,7 +9197,6 @@ bevor
 baldrics
 built
 bipetalous
-bellite
 bucciniform
 bibliographer
 brended
@@ -12907,6 +12906,7 @@ baronetcies
 badge
 brews
 bedspread
+bellite
 bitterblain
 boothes
 biforate
