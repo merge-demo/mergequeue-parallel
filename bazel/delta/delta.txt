@@ -5942,7 +5942,6 @@ dilambdodont
 dimethylnitrosamine
 drave
 deprivals
-deceiver
 deprivement
 densest
 dogbody
@@ -8885,6 +8884,7 @@ dicaryon
 dacoits
 daddums
 draperied
+deceiver
 delectation
 dicaryotic
 dihydroxy
