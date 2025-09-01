@@ -10718,7 +10718,6 @@ chinch
 chinchayote
 chinche
 choise
-campfire
 cytoarchitecture
 chrominance
 chromous
@@ -13724,6 +13723,7 @@ cloots
 clashed
 chromatophorous
 chambul
+campfire
 cheers
 cinchonization
 crunodal
