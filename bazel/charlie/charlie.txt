@@ -12151,6 +12151,7 @@ chria
 clave
 chris
 calibogus
+cylindrically
 caraunda
 chrysalid
 crossbones
@@ -13503,7 +13504,6 @@ cylindrella
 cylindrelloid
 cryptographic
 cylindrenchyma
-cylindrically
 cylindricity
 cylindricule
 cylindriform
