@@ -12797,7 +12797,6 @@ anthemwise
 altin
 antisyndicalism
 antennarius
-antiliturgically
 assot
 anglomane
 anglomania
@@ -21695,6 +21694,7 @@ anagogically
 agrope
 assessed
 assession
+antiliturgically
 assessment
 anthraconite
 assessors
