@@ -17000,6 +17000,7 @@ clutches
 clutchy
 centrex
 colpeo
+configurative
 caprella
 clerestories
 cymbaleer
@@ -21972,7 +21973,6 @@ configurating
 configuration
 configurationally
 configurations
-configurative
 configure
 configures
 coxcombry
