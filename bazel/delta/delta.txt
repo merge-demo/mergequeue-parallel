@@ -7236,7 +7236,6 @@ deadlight
 disparatum
 decourt
 dumfounded
-daguilla
 darklings
 delubrum
 deverbative
@@ -10235,6 +10234,7 @@ diphthong
 defibrination
 dirdum
 dynode
+daguilla
 distresses
 demonstrability
 darkling
