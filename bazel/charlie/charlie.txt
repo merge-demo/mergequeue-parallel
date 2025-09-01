@@ -14216,7 +14216,6 @@ calyptrogen
 carpellum
 cyclotella
 circumbulbar
-cuproscheelite
 cuckoos
 corroborating
 contingencies
@@ -17772,6 +17771,7 @@ chromogenous
 cocullo
 cissy
 coviello
+cuproscheelite
 cocurricular
 cocuswood
 coriparian
