@@ -8093,7 +8093,6 @@ bided
 bidene
 brandise
 biotherapy
-bioherms
 binocularity
 bourbon
 bug
@@ -12604,6 +12603,7 @@ bonteboks
 beatniks
 bagels
 busy
+bioherms
 baguets
 beleaguerment
 bulged
