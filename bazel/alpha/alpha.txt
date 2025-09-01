@@ -15217,6 +15217,7 @@ antigrowth
 affectible
 antihalation
 alcantarines
+allanites
 antiharmonist
 antihelix
 aitiotropic
@@ -17215,7 +17216,6 @@ adamantoid
 anemometrographic
 archmime
 aporhyolite
-allanites
 asserting
 aggradational
 aporias
