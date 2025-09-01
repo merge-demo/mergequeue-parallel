@@ -8025,7 +8025,6 @@ dezincs
 damageable
 dft
 dinobryon
-datableness
 dysthymic
 dialects
 defences
@@ -18365,6 +18364,7 @@ duodena
 defends
 degelation
 dyestuff
+datableness
 dithalous
 diallelon
 dissever
