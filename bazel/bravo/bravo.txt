@@ -10529,7 +10529,6 @@ brooch
 blately
 benzalazine
 bhisti
-barret
 basters
 brasseys
 bugshas
@@ -15308,6 +15307,7 @@ beetler
 beliquoring
 bekick
 burgensic
+barret
 bulletproofed
 brevete
 basicytoparaplastin
