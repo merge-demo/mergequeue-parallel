@@ -5940,6 +5940,7 @@ degrader
 dissuasory
 departements
 dissympathize
+dilambdodont
 dimethylnitrosamine
 drave
 deprivals
@@ -14853,7 +14854,6 @@ dockets
 dyphone
 dockhand
 dockhouse
-dilambdodont
 deringers
 dockyards
 docking
