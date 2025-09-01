@@ -16454,6 +16454,7 @@ aortectasis
 aortic
 augelite
 agricultural
+averruncate
 antefixa
 aortoiliac
 acupuncturator
@@ -22569,7 +22570,6 @@ athyria
 acronymous
 agneaux
 archegoniophore
-averruncate
 airings
 athyroidism
 athyrosis
