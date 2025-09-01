@@ -14282,6 +14282,7 @@ circumjacency
 circumjovial
 circumlitio
 circumlittoral
+confix
 circumlocute
 circumlocution
 cypripedin
@@ -22038,7 +22039,6 @@ confiteor
 confiture
 coolidge
 comparts
-confix
 confixing
 carf
 conflagration
