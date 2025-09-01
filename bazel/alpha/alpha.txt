@@ -20583,7 +20583,6 @@ aerofoil
 alkalizing
 artichoke
 antidromal
-arrestor
 adendritic
 acidimetrical
 aspirates
@@ -21179,6 +21178,7 @@ arcuated
 asiden
 afterstudy
 asiderite
+arrestor
 anhydrate
 asides
 assent
