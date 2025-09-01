@@ -10559,7 +10559,6 @@ dauw
 diplocardiac
 diplocarpon
 discoidea
-diplocaulescent
 diplocephalus
 drearisomeness
 dbrn
@@ -11581,6 +11580,7 @@ discommoned
 dextrinase
 detective
 denationalised
+diplocaulescent
 downland
 docity
 discompanied
