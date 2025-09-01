@@ -2281,7 +2281,6 @@ barbecuer
 barbellula
 bowwood
 belabor
-barbellulate
 boozing
 bathysphere
 blossombill
@@ -11769,6 +11768,7 @@ batrachians
 buckwheat
 bouquets
 bocasin
+barbellulate
 bookshops
 boccarella
 bodings
