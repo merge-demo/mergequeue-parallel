@@ -12104,7 +12104,6 @@ brickhood
 boldfacedly
 boldfacedness
 boldfacing
-boldhearted
 beclip
 beg
 burd
@@ -18372,6 +18371,7 @@ bolsterers
 buzane
 barbermonger
 blawort
+boldhearted
 bortsch
 bepaint
 bespatter
