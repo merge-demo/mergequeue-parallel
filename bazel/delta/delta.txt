@@ -9086,7 +9086,6 @@ dihexahedral
 dependably
 dorsals
 dictyodromous
-dictyogen
 dictyoid
 diction
 disparage
@@ -16583,6 +16582,7 @@ draftsmanship
 draftsmen
 dyspnoic
 draftwoman
+dictyogen
 diamondbacks
 detergent
 denar
