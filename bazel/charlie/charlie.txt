@@ -10266,7 +10266,6 @@ cantharidin
 chicest
 coccidioidomycosis
 chicha
-cheiroglossa
 chichevache
 cyperus
 chichi
@@ -24291,6 +24290,7 @@ cyclovertebral
 cooingly
 cottonpicking
 cooja
+cheiroglossa
 coagulation
 cook
 cookable
