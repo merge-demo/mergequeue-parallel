@@ -13092,7 +13092,6 @@ borith
 brewings
 bubblies
 befluster
-beaned
 bundestag
 bority
 brachycephalous
@@ -16566,6 +16565,7 @@ bejewelled
 brawls
 bucco
 butte
+beaned
 bavius
 booty
 brainlessly
