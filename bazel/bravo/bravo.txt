@@ -6548,6 +6548,7 @@ berakah
 bushgoat
 breadstuff
 bushels
+bundies
 bosnisch
 benedick
 bimong
@@ -10896,7 +10897,6 @@ behovely
 benn
 biffing
 blooded
-bundies
 blindfishes
 bluelegs
 blindfolded
