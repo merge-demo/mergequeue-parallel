@@ -2509,6 +2509,7 @@ beslash
 bassetite
 barguest
 barguests
+bartletts
 bumblebees
 buzylene
 baria
@@ -4047,7 +4048,6 @@ brisure
 bumperette
 bannerets
 benetnasch
-bartletts
 bovoid
 beatille
 bulgers
