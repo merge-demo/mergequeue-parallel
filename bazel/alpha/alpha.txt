@@ -3880,7 +3880,6 @@ admeasure
 antiquatedness
 admeasurer
 adumbrant
-admeasuring
 anaclete
 amimide
 afforced
@@ -12519,6 +12518,7 @@ avoidance
 amentiferae
 aleuron
 arrayan
+admeasuring
 aesopic
 advene
 allochroite
