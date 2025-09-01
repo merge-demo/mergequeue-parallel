@@ -1960,7 +1960,6 @@ amphodiplopia
 astigmatizer
 agynous
 anticipatory
-acetosoluble
 aurocyanide
 ambrosterol
 aerobiont
@@ -13250,6 +13249,7 @@ anisostaminous
 anisosthenic
 anisostichous
 anisostomous
+acetosoluble
 anisotonic
 amphitheatral
 anisotrope
