@@ -9113,7 +9113,6 @@ chartermaster
 charters
 cryptograms
 cindered
-chartless
 caricatured
 chartography
 chartographic
@@ -22685,6 +22684,7 @@ conplane
 centuriation
 counterevidence
 cryosphere
+chartless
 conquerer
 conquerers
 conqueress
