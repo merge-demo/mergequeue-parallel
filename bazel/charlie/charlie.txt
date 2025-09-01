@@ -1716,7 +1716,6 @@ chalklike
 cecilia
 coverall
 collectables
-calumniative
 coapprover
 cheremissian
 cyclobutane
@@ -5056,6 +5055,7 @@ circumrenal
 casebox
 cased
 cisatlantic
+calumniative
 casefy
 corneter
 counterenamel
