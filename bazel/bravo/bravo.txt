@@ -3223,7 +3223,6 @@ bipontine
 basifugal
 barkpeel
 biltong
-basigynium
 banner
 basilarchia
 blotchily
@@ -10596,6 +10595,7 @@ blazes
 blazy
 bridgeheads
 brahmanhood
+basigynium
 bicepses
 blusterous
 bluing
