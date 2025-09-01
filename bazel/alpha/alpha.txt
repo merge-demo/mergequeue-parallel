@@ -3177,7 +3177,6 @@ armlocks
 adjunct
 acutest
 arborise
-authorcraft
 aedine
 acutilingual
 axal
@@ -24115,6 +24114,7 @@ autoinoculable
 antiritualism
 autoinoculation
 autointellectual
+authorcraft
 athold
 aldermanries
 anquera
