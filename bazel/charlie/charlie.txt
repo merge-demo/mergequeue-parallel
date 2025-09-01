@@ -27326,6 +27326,7 @@ cosmist
 courtage
 climacterics
 courtal
+craspedota
 courtbred
 chattelization
 courtcraft
@@ -28208,7 +28209,6 @@ changable
 clinic
 craspedodromous
 craves
-craspedota
 cankering
 circumstantial
 calumets

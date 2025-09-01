@@ -6673,7 +6673,6 @@ berycomorphi
 bemixes
 beret
 burlies
-bunsenite
 berigora
 beryl
 beryllonate
@@ -15133,6 +15132,7 @@ bedeaf
 blancs
 barbiturate
 backslash
+bunsenite
 batwa
 beaverroot
 bellowsmaker
