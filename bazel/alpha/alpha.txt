@@ -12188,7 +12188,6 @@ ancresses
 anda
 astylospongia
 analog
-andabatism
 aphrodisiac
 antinous
 atheromatous
@@ -23369,6 +23368,7 @@ augend
 adversity
 antiantidote
 aquiform
+andabatism
 agitable
 ancientism
 auger
