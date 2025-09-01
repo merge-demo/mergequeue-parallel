@@ -9211,7 +9211,6 @@ bucciniform
 bibliographer
 brended
 bobbinet
-besting
 biphenylene
 biphenol
 berrying
@@ -12939,6 +12938,7 @@ boots
 bottoms
 blouson
 boottop
+besting
 bidarkees
 burgherdom
 betulaceae
