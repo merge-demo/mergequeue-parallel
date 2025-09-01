@@ -4151,7 +4151,6 @@ debye
 dunamis
 defeasibleness
 deguelin
-deutovum
 deliration
 delire
 documentary
@@ -17185,6 +17184,7 @@ decine
 dipygi
 devarshi
 dermophytic
+deutovum
 drilling
 drillman
 discourser
