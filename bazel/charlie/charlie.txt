@@ -7900,6 +7900,7 @@ contumacities
 corixidae
 cetomorpha
 cumular
+cryptostome
 cetonia
 cetonian
 curwhibble
@@ -29342,7 +29343,6 @@ cryptos
 cryptoscope
 cryptoscopy
 cryptosplenetic
-cryptostome
 cofferlike
 cryptous
 cryptovalence
