@@ -13462,7 +13462,6 @@ disregard
 dought
 drawglove
 defenceless
-dimetient
 disregardant
 disregarded
 drumskin
@@ -17130,6 +17129,7 @@ didle
 droukan
 delhi
 dries
+dimetient
 denicotinize
 diphtheriaphor
 dingwall
