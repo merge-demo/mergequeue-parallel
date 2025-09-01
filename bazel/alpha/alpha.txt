@@ -8377,7 +8377,6 @@ alarms
 alacreatinine
 alkalize
 alkalizer
-alkalizes
 aerophysicist
 alkaloid
 aswing
@@ -25370,6 +25369,7 @@ absolutists
 apyrous
 alveolated
 azovernine
+alkalizes
 anatomy
 autopsychorhythmia
 azoxybenzene
