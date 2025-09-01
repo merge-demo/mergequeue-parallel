@@ -5488,7 +5488,6 @@ bacterioprotein
 backiebird
 basting
 behoves
-behoving
 battements
 babbitts
 behowled
@@ -11263,6 +11262,7 @@ boomiest
 braver
 basketries
 blowguns
+behoving
 boycotting
 bogtrotting
 beggaries

@@ -2606,7 +2606,6 @@ alismoid
 acerates
 acridiidae
 apprenticeship
-allochiral
 abrenounce
 acridines
 ankylophobia
@@ -5298,6 +5297,7 @@ aforementioned
 arachnomorphae
 anemoclastic
 ampelideous
+allochiral
 allod
 attainers
 arrhinia
