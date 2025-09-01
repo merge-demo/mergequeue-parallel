@@ -13356,7 +13356,6 @@ annaline
 antigrammaticalness
 apathetic
 annalistic
-annalists
 asianism
 allotheist
 accra
@@ -24218,6 +24217,7 @@ airwave
 automotive
 anointer
 amblycephalidae
+annalists
 anthropophagus
 anorgana
 autonavigator
