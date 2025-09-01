@@ -5449,6 +5449,7 @@ catabolite
 claim
 counterwrite
 cacodemonomania
+commandery
 catachreses
 catachresis
 cercariae
@@ -19949,7 +19950,6 @@ corbeling
 commandeers
 chromolithographer
 coenenchyme
-commandery
 commanding
 colan
 changeover
