@@ -7490,6 +7490,7 @@ demurity
 declensional
 dopster
 downtowner
+denotations
 dopas
 deuced
 dizenment
@@ -16629,7 +16630,6 @@ dragonade
 denotative
 donjon
 dactylopius
-denotations
 deperming
 decorations
 drosophilae
