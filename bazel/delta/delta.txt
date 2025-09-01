@@ -12002,7 +12002,6 @@ diesels
 disembodiment
 disembodiments
 diarian
-deceases
 disembowel
 deliciate
 disemboweling
@@ -13751,6 +13750,7 @@ demulsion
 dissociations
 defluous
 deadlihead
+deceases
 dissogeny
 departmentalize
 dissogony
