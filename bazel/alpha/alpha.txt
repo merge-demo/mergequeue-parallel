@@ -3744,7 +3744,6 @@ adiposeness
 adiposity
 acrook
 abdominoscope
-aslope
 apsidally
 adipous
 adnouns
@@ -14132,6 +14131,7 @@ anterofixation
 ashkenazim
 autobahns
 anastaltic
+aslope
 ascriptitii
 allomorph
 arapahite
