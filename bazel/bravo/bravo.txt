@@ -1285,7 +1285,6 @@ ballyhack
 baldheaded
 balalaika
 birdberry
-batrachiate
 bedim
 bedstead
 behindhand
@@ -3204,6 +3203,7 @@ bhaga
 blastozooid
 bromelia
 burthen
+batrachiate
 beadily
 basidia
 basidigital

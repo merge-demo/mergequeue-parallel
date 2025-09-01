@@ -9032,6 +9032,7 @@ dicotyles
 disruption
 dicotylidae
 deinosaur
+dauerschlaf
 drowsiness
 disowns
 decerebrated
@@ -10083,7 +10084,6 @@ ditrochous
 dynamogeny
 dauphins
 dynamograph
-dauerschlaf
 doubted
 dynamometamorphic
 dagoes
