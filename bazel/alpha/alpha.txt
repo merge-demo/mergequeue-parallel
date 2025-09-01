@@ -350,7 +350,6 @@ acarine
 argasidae
 auditive
 aberr
-aerophone
 ask
 aberrance
 astrictive
@@ -3598,6 +3597,7 @@ adeptness
 astigmatical
 adequacies
 adequate
+aerophone
 acclivity
 aoudad
 abasements
