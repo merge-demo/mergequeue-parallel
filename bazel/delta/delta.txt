@@ -9894,7 +9894,6 @@ desilicification
 dace
 dimensionally
 dimensioning
-disangularize
 dimer
 deludable
 decolonising
@@ -12479,6 +12478,7 @@ diastereoisomer
 dishome
 dishonor
 dishonorer
+disangularize
 deresinize
 detestability
 discontentful
