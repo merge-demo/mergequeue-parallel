@@ -12558,7 +12558,6 @@ autophonoscope
 appetizement
 angarep
 angaria
-ajivika
 angarias
 aesthesics
 angariation
@@ -18128,6 +18127,7 @@ aquilia
 aquilian
 adverse
 aquilid
+ajivika
 aquilinity
 absorbance
 aquinist
