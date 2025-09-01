@@ -8839,7 +8839,6 @@ charactering
 cobwebbier
 characterisable
 complimenters
-catlinite
 characterise
 columnize
 cumulus
@@ -9943,6 +9942,7 @@ cascado
 consumable
 cheniller
 chenopod
+catlinite
 colocasia
 catacombic
 criollo
