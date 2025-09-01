@@ -13601,6 +13601,7 @@ cimices
 cimicide
 cene
 cimicifuga
+cupreous
 compressure
 cimicoid
 conformableness
@@ -31171,7 +31172,6 @@ corantos
 communities
 cloudling
 cuprene
-cupreous
 classless
 carriers
 cupressus
