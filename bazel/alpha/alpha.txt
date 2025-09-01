@@ -1248,7 +1248,6 @@ alaloi
 avian
 asexualizing
 acaridean
-acarina
 acrasy
 affrightingly
 anucleate
@@ -15696,6 +15695,7 @@ atremble
 armouring
 apperceive
 abdominocentesis
+acarina
 agura
 andradite
 antipestilently
