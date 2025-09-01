@@ -1386,6 +1386,7 @@ attractants
 apellous
 accessary
 accessaries
+anovulant
 accessarily
 accessariness
 absinthin
@@ -13780,7 +13781,6 @@ affix
 anour
 asher
 anovesical
-anovulant
 anovulatory
 aslake
 anoxemia
