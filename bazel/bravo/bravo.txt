@@ -12046,7 +12046,6 @@ besmearing
 boyology
 battiest
 breechloader
-boyship
 boisterous
 bundobust
 brangling
@@ -12266,6 +12265,7 @@ basswoods
 begrave
 blindly
 bonellia
+boyship
 bondswoman
 budgeteer
 brunetness
