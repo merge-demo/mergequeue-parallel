@@ -12702,7 +12702,6 @@ die
 daubs
 dehorts
 diatrymiformes
-dridder
 disdiplomatize
 daggers
 dendrobates
@@ -15663,6 +15662,7 @@ defterdar
 doomer
 disconnections
 dissentaneousness
+dridder
 digor
 doomsayer
 doomsday
