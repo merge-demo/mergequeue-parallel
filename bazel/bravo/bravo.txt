@@ -13419,7 +13419,6 @@ bushfire
 bensell
 brightsome
 blunts
-bitters
 buncombes
 bibliotheca
 bottlebrush
@@ -16335,6 +16334,7 @@ buchnera
 brunelliaceous
 barrowist
 battology
+bitters
 bonitos
 bemistress
 brunfelsia
