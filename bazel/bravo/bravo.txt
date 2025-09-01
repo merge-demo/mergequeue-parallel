@@ -4911,7 +4911,6 @@ bebelted
 backchat
 beefeater
 bucconasal
-bangs
 bassy
 bushmen
 beefeaters
@@ -11736,6 +11735,7 @@ bedwarfs
 backpointer
 brynza
 bajocian
+bangs
 bigarade
 billon
 baroscopic

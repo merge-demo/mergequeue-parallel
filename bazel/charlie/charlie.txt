@@ -92,7 +92,6 @@ cloying
 carcinosarcomas
 cabestro
 cabestros
-chalinidae
 cabezon
 casa
 chromeplate
@@ -25869,6 +25868,7 @@ cortication
 cortices
 cordula
 corticifugally
+chalinidae
 corticine
 corticipetal
 collegiate
