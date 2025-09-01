@@ -3478,6 +3478,7 @@ barkpeeler
 boobook
 byeman
 bronchiarctia
+blenk
 bevatron
 bracket
 blights
@@ -10696,7 +10697,6 @@ bowhead
 blenheim
 bibl
 belap
-blenk
 benzophenothiazine
 blennadenitis
 blennemesis
