@@ -15834,7 +15834,6 @@ bibbs
 bromination
 beswim
 battlefronts
-brominize
 breezing
 brionies
 beice
@@ -17015,6 +17014,7 @@ boulterer
 beforetime
 buttling
 baetylus
+brominize
 bigamistic
 bitake
 baluga
