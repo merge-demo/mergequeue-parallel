@@ -25265,7 +25265,6 @@ cormidium
 cicrumspections
 cormogen
 cormophyta
-cormous
 challa
 corn
 cochin
@@ -28188,6 +28187,7 @@ crapette
 conjoiner
 cardboard
 concordial
+cormous
 cricothyreoid
 cund
 crapy
