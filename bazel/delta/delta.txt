@@ -4234,6 +4234,7 @@ disillude
 drilled
 denaturalisation
 diddest
+disorganized
 delphinic
 disillusionised
 dervishes
@@ -16825,7 +16826,6 @@ draw
 dongon
 disreputation
 diarrhoeic
-disorganized
 drawback
 drawbar
 duodecimals
