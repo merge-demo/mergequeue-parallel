@@ -13829,7 +13829,6 @@ carcinophobia
 cinene
 cinenegative
 cineol
-creeky
 counterflow
 cineole
 cahiers
@@ -22728,6 +22727,7 @@ chevise
 ceratohyoid
 consanguinean
 caballeros
+creeky
 consanguineous
 consanguineously
 coemptio
