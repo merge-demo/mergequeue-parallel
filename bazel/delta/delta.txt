@@ -5493,7 +5493,6 @@ downheaded
 depardieu
 dissimilarly
 dinger
-dewdrops
 diaxon
 deparliament
 delighting
@@ -6495,6 +6494,7 @@ deerstalker
 descension
 descensionist
 descensive
+dewdrops
 donor
 desitive
 descent
