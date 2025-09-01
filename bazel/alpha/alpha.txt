@@ -7661,6 +7661,7 @@ aldimin
 accepted
 afar
 alditol
+apitong
 aldm
 argalas
 aghast
@@ -9655,7 +9656,6 @@ allegatum
 amacratic
 amacrinal
 amadan
-apitong
 asterella
 anticous
 amadelphous

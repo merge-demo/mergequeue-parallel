@@ -8936,7 +8936,6 @@ dichloroacetic
 dichlorodifluoromethane
 densher
 domiciling
-dharana
 deticked
 discitis
 dumpishness
@@ -18484,6 +18483,7 @@ delator
 dispersant
 diapers
 diarrheas
+dharana
 distinctive
 dobe
 dermatophony
