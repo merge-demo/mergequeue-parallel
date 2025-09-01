@@ -10404,6 +10404,7 @@ chield
 chierete
 chievance
 chieve
+carpenter
 carabinero
 chifferobe
 copei
@@ -23539,7 +23540,6 @@ celiitis
 continentals
 cochranea
 contingence
-carpenter
 contingential
 contingentialness
 contingently
