@@ -12365,7 +12365,6 @@ crack
 chloroanaemia
 caudiform
 coroplasty
-coulters
 chromatium
 chromatize
 chromatogenous
@@ -15674,6 +15673,7 @@ concludence
 coenoecium
 claustrophilia
 cassabanana
+coulters
 circumambulatory
 coxalgic
 chastely
