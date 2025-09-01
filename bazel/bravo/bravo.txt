@@ -4758,7 +4758,6 @@ bespout
 baldling
 blast
 bedribble
-bhalu
 burglarizes
 barque
 bibracteate
@@ -17642,6 +17641,7 @@ burkha
 burkundauze
 berlines
 badassed
+bhalu
 bridegod
 bulies
 burkundaz
