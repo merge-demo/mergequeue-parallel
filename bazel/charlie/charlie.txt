@@ -6360,6 +6360,7 @@ cornutus
 cienega
 cerebronic
 cautiones
+chabuks
 canard
 carbarns
 cautious
@@ -11750,7 +11751,6 @@ circuitous
 chondrodystrophy
 chondrodystrophia
 chromogenetic
-chabuks
 chondroditic
 cogitative
 couthest
