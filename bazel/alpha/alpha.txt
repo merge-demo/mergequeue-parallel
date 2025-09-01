@@ -8933,6 +8933,7 @@ autarkically
 allotriognathi
 allotriophagy
 ambulomancy
+andrite
 alligatored
 allotriophagia
 allotropic
@@ -12254,7 +12255,6 @@ aortolith
 andriana
 abnormally
 acquaintant
-andrite
 astilbe
 antlions
 awestrike
