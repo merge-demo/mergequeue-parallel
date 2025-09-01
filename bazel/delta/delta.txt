@@ -5684,7 +5684,6 @@ deozonize
 demigods
 desterilized
 dialysed
-dichromate
 disposit
 deplenish
 dialup
@@ -7580,6 +7579,7 @@ deuton
 deutonymph
 danli
 distingu
+dichromate
 dancy
 diverging
 detersion

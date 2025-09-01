@@ -6369,6 +6369,7 @@ ciboules
 cavayard
 cavalcades
 cardinalist
+cliques
 curarizes
 cavalier
 cavaliere
@@ -16345,7 +16346,6 @@ conchologist
 cliquedom
 cliqueier
 cytome
-cliques
 collocalia
 cliquy
 creasol
