@@ -7598,7 +7598,6 @@ drou
 doublewidth
 darking
 darwinistic
-deva
 dequeuing
 dactylonomy
 devadasi
@@ -9054,6 +9053,7 @@ diverter
 disseminule
 dicrotal
 dicrotous
+deva
 dicruridae
 delia
 dehort
