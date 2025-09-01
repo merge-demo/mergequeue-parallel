@@ -16493,7 +16493,6 @@ clockhouse
 clockless
 cuon
 clockmaker
-cryophorus
 crewer
 clocksmith
 clockwatcher
@@ -20175,6 +20174,7 @@ clavecinist
 commitments
 cystitome
 commits
+cryophorus
 calycoid
 chutist
 committed
