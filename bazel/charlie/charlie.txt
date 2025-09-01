@@ -19292,7 +19292,6 @@ coloner
 cupuliferae
 colones
 colongitude
-cleidotomy
 colony
 colonial
 colonialised
@@ -26410,6 +26409,7 @@ courbache
 cotransduction
 cotransfuse
 cotranslator
+cleidotomy
 confinable
 cotranspire
 commiserable
