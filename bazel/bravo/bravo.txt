@@ -1440,6 +1440,7 @@ benzophenazine
 bombastically
 boun
 balestra
+barringer
 bouffants
 bops
 bedazzled
@@ -2978,7 +2979,6 @@ bindis
 babouche
 bromophenol
 blennioidea
-barringer
 broadcasters
 boulevard
 barrister
