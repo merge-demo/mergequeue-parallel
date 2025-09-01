@@ -26507,7 +26507,6 @@ clothesmen
 clewing
 cargos
 cutter
-conjugata
 cantillate
 cube
 casaun
@@ -26646,6 +26645,7 @@ counteracts
 clinometric
 columbium
 choked
+conjugata
 counterintelligence
 counterexpostulation
 cointersecting
