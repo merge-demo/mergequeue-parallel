@@ -2855,7 +2855,6 @@ dys
 denticles
 dictyopteris
 decumbent
-dissaturate
 disfurnishment
 dugdug
 danais
@@ -10525,6 +10524,7 @@ dichter
 diosmose
 diplantidian
 drynaria
+dissaturate
 diplarthrism
 dilapidator
 decentest
