@@ -1253,7 +1253,6 @@ acrasy
 affrightingly
 anucleate
 arteriodiastasis
-acarocecidium
 apologia
 archminister
 anaglyptography
@@ -17139,6 +17138,7 @@ alameda
 apologue
 apologues
 apolousis
+acarocecidium
 apolune
 araneiform
 anaerobian
