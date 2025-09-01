@@ -17882,7 +17882,6 @@ chiliad
 codirector
 conycatcher
 commonish
-codirects
 codiscoverer
 codist
 codivine
@@ -26378,6 +26377,7 @@ coinferring
 cotylosaurian
 connu
 cuprein
+codirects
 cogitantly
 cotingoid
 chancel

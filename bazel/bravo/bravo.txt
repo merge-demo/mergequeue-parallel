@@ -1096,6 +1096,7 @@ boogymen
 bainie
 biogenic
 bedizenment
+beakermen
 baioc
 begattal
 braciole
@@ -4013,7 +4014,6 @@ brevier
 beaked
 beakerman
 butterroot
-beakermen
 bountiful
 bunraku
 byegaein
