@@ -9775,7 +9775,6 @@ annamese
 agmas
 amaryllises
 antepreterit
-amarillo
 amphigen
 amarine
 amarity
@@ -20964,6 +20963,7 @@ aerogenesis
 ascocarp
 ascocarpous
 ascocarps
+amarillo
 amherstite
 abiologically
 amelus
