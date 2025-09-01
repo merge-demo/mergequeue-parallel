@@ -490,7 +490,6 @@ backspacer
 brattles
 burree
 battik
-bearbind
 benzoates
 backspaces
 backspacing
@@ -14723,6 +14722,7 @@ bravuras
 baetzner
 bashara
 brawlingly
+bearbind
 brawlsome
 brawnedness
 biaxillary
