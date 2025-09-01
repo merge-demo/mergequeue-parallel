@@ -24485,7 +24485,6 @@ coparcenary
 cyclopropane
 coparcener
 coparceny
-coparenary
 civilizations
 coparent
 compartmentation
@@ -25112,6 +25111,7 @@ chincher
 corespect
 corespondent
 cetylic
+coparenary
 cystoflagellate
 coretomy
 chrysalidian
