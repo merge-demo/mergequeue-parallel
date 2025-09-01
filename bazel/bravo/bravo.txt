@@ -7422,6 +7422,7 @@ bashalick
 bulbocavernous
 bivouacks
 brabblingly
+beatable
 bushelled
 banyans
 baldnesses
@@ -8168,7 +8169,6 @@ byronically
 backspliced
 bathyorographical
 byestreet
-beatable
 battailous
 bluebuck
 biethnic
