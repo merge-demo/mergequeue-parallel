@@ -16004,6 +16004,7 @@ bannered
 bronzewing
 bio
 bcd
+bacilluria
 blitzbuggy
 bassetted
 broo
@@ -17858,7 +17859,6 @@ bushbuck
 boatbills
 blotchier
 bearbush
-bacilluria
 bordered
 bairnishness
 beholders
