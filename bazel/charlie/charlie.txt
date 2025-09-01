@@ -11204,6 +11204,7 @@ chlorhexidine
 chlorhydric
 coercibility
 chloriamb
+claylike
 chloriambus
 chloric
 chlorid
@@ -17344,7 +17345,6 @@ coarsens
 coarser
 coarticulate
 coarticulation
-claylike
 coassert
 coassessor
 chlorellaceae
