@@ -9545,6 +9545,7 @@ biscutate
 bisdiapason
 binary
 bicapsular
+butat
 bandlimits
 bisectors
 bisectrices
@@ -17165,7 +17166,6 @@ bandman
 basined
 boucles
 bullterrier
-butat
 bullwhipped
 bromindigo
 busti
