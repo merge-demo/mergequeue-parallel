@@ -5884,7 +5884,6 @@ deodars
 diablene
 duffy
 decryptions
-duplicity
 disprofit
 diploptera
 dyscrasy
@@ -14926,6 +14925,7 @@ documentable
 dos
 documental
 delimer
+duplicity
 debonaire
 dactylose
 disgregating
