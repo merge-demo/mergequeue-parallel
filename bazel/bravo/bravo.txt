@@ -12895,6 +12895,7 @@ byssogenous
 boot
 big
 bhandari
+batoidei
 bootees
 battlemented
 broadcasted
@@ -17021,7 +17022,6 @@ bitake
 baluga
 babylonite
 bullcomber
-batoidei
 barcarole
 brokerages
 bifidate
