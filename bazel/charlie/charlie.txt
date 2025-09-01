@@ -7709,7 +7709,6 @@ certain
 conservatism
 certainness
 cormorant
-cetin
 certhia
 changeless
 caryatidic
@@ -27571,6 +27570,7 @@ crisping
 covine
 cymatium
 coving
+cetin
 carapus
 covinous
 covisit
