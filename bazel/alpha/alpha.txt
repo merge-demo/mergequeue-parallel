@@ -3056,7 +3056,6 @@ albiflorous
 antagonizer
 autoagglutinin
 allotrophic
-actionably
 avertin
 adalat
 actionary
@@ -18620,6 +18619,7 @@ aridge
 autonetics
 autocephality
 archbishopry
+actionably
 acroamata
 archbotcher
 aretes
