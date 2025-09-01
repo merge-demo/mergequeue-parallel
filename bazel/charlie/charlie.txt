@@ -14649,7 +14649,6 @@ corpusculum
 civilizational
 cotylopubic
 cystometer
-chowk
 cystomyoma
 cystomyxoma
 cystonectae
@@ -16318,6 +16317,7 @@ carnivaller
 clypeate
 conspicuous
 caraco
+chowk
 curatrix
 clypeated
 clypeola
