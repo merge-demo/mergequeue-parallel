@@ -2123,7 +2123,6 @@ drillable
 didst
 desiredness
 decandrous
-doubtless
 deperditely
 discrepate
 decane
@@ -6160,6 +6159,7 @@ dolours
 derelinquish
 decrepitness
 derencephalus
+doubtless
 decupled
 derestrict
 disputations

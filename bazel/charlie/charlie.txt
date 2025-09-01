@@ -5819,7 +5819,6 @@ copras
 caterpillar
 caterpillared
 cochurchwarden
-caterpillarlike
 cardinal
 caterpillars
 caters
@@ -30939,6 +30938,7 @@ cumay
 currack
 cumal
 cytozoic
+caterpillarlike
 cumaphyte
 cumaphytic
 coagulations
