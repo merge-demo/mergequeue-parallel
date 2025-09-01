@@ -5585,6 +5585,7 @@ biotype
 bingos
 blimpishly
 bel
+brominate
 behoovingly
 bela
 beluchi
@@ -15822,7 +15823,6 @@ brinie
 bromidically
 bromidrosis
 baulea
-brominate
 bene
 barbarism
 bibbs
