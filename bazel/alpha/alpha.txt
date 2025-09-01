@@ -3175,7 +3175,6 @@ adjunct
 acutest
 arborise
 authorcraft
-aedine
 acutilingual
 axal
 abloom
@@ -7515,6 +7514,7 @@ acrocephalous
 assument
 acetary
 antisepticist
+aedine
 audiometry
 atomist
 apportionate
