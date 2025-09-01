@@ -4580,6 +4580,7 @@ beau
 bedazzles
 bedazzlingly
 baptise
+bespray
 bedbugs
 bedtick
 bedchairs
@@ -7128,7 +7129,6 @@ booties
 backstick
 backsets
 brashest
-bespray
 ballute
 bespreng
 besprent
