@@ -10451,7 +10451,6 @@ arte
 amidoazo
 abdominally
 agley
-anchoic
 amidofluorid
 amidogen
 amidoguaiacol
@@ -16897,6 +16896,7 @@ aftertan
 affectedness
 arvel
 angliae
+anchoic
 amphorette
 aplanatic
 aplanatism
