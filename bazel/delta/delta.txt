@@ -10825,6 +10825,7 @@ diluteness
 diseur
 directionalize
 directionally
+dottiness
 deckles
 dhan
 directly
@@ -16538,7 +16539,6 @@ drad
 dearworth
 dungan
 dradge
-dottiness
 draegermen
 disregards
 dadder
