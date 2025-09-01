@@ -9107,7 +9107,6 @@ brooklets
 bullishness
 budzart
 biosome
-biospeleology
 biosphere
 breakdown
 bionomical
@@ -14651,6 +14650,7 @@ brassarts
 ballised
 brassbounder
 brasse
+biospeleology
 brassey
 boxiest
 bastite
