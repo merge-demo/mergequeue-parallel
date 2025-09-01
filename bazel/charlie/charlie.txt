@@ -16579,7 +16579,6 @@ clap
 cloistering
 comal
 croupes
-chirm
 cloisterly
 carburization
 contorting
@@ -18919,6 +18918,7 @@ cosigner
 calligrapher
 colladas
 crematoria
+chirm
 collage
 collagenase
 collagenic

@@ -9975,7 +9975,6 @@ acondylous
 analysability
 ambitendent
 ambition
-acorned
 asquirm
 ambivalence
 accessioning
@@ -24963,6 +24962,7 @@ aweek
 acanthology
 aculeolate
 aweel
+acorned
 aspirata
 acyl
 achlorhydric
