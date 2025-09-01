@@ -4225,7 +4225,6 @@ delphically
 dasyurus
 dis
 doeskin
-dissenter
 downgate
 drabbish
 delphine
@@ -15972,6 +15971,7 @@ dosseret
 dulcian
 dempster
 dosses
+dissenter
 dossy
 dossier
 dentines
