@@ -5062,6 +5062,7 @@ befalls
 bason
 botanised
 battlers
+boglet
 blazoned
 bastonet
 bowfin
@@ -11962,7 +11963,6 @@ bittered
 budgerigah
 bytalk
 bogled
-boglet
 beckelite
 bogmire
 borine
