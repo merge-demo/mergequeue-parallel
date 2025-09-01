@@ -15215,7 +15215,6 @@ conditionalities
 counterclaimed
 clairecole
 cholesterin
-clairecolle
 catamneses
 centipede
 craniata
@@ -29307,6 +29306,7 @@ cryptonema
 concernedness
 cryptonemiales
 cryptoneurous
+clairecolle
 cryptonymous
 cryptoperthite
 capillariomotor
