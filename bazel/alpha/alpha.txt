@@ -16069,6 +16069,7 @@ antiship
 annihilationist
 angiasthenia
 antisialagogue
+absorbance
 amphitryon
 antisideric
 antisilverite
@@ -18130,7 +18131,6 @@ adverse
 aquilid
 ajivika
 aquilinity
-absorbance
 aquinist
 aquintocubital
 allophone
