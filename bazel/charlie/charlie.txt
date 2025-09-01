@@ -5775,6 +5775,7 @@ chandoo
 communicants
 cestoidean
 crawling
+cross
 chateau
 cateye
 catel
@@ -29808,7 +29809,6 @@ carniform
 carnalism
 crosiered
 capsumin
-cross
 circummeridian
 coronillo
 cryptopin

@@ -12506,7 +12506,6 @@ dowsers
 dimethylmethane
 dagon
 dephlogistication
-dishwasher
 dishwashings
 dibromobenzene
 doglegged
@@ -17521,6 +17520,7 @@ drubbers
 disbody
 drubble
 deletery
+dishwasher
 drubly
 disheartened
 drudged
