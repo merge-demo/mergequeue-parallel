@@ -3040,7 +3040,6 @@ curbing
 chaffinches
 chiasmodon
 croppa
-conceiting
 cycadeous
 canvasado
 canvasbacks
@@ -8568,6 +8567,7 @@ chancriform
 chancroid
 chrestomathic
 chainstitch
+conceiting
 chancroidal
 chorgi
 chandala
