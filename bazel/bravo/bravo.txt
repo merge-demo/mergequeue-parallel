@@ -8494,7 +8494,6 @@ butyryl
 bearhound
 bassinets
 bedlamic
-bisections
 biliteral
 biliteralism
 beladle
@@ -15348,6 +15347,7 @@ brillante
 braata
 birefraction
 bereave
+bisections
 bixa
 bono
 beflout
