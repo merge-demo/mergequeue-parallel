@@ -7554,7 +7554,6 @@ bleater
 burele
 brakeages
 bibliophage
-bewhiten
 bifocals
 bedrivel
 breed
@@ -10509,6 +10508,7 @@ briton
 blepharoatheroma
 break
 bipectinate
+bewhiten
 bulbocodium
 bibless
 bipartizan
