@@ -959,7 +959,6 @@ bagwig
 buddhology
 branny
 bagwigged
-belcher
 bogey
 bagwyn
 bagwork
@@ -3276,6 +3275,7 @@ besoul
 basinet
 basinets
 basinful
+belcher
 bewhig
 begartered
 bethank
