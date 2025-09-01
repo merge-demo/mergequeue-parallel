@@ -5392,7 +5392,6 @@ baldpates
 begrimmed
 brickly
 bot
-brachycardia
 biweekly
 begrown
 begrudge
@@ -7493,6 +7492,7 @@ beveller
 bacteririum
 bardelle
 biathlon
+brachycardia
 bedgery
 bevenom
 bever
