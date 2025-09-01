@@ -3382,6 +3382,7 @@ deflesh
 deflexibility
 diversely
 deflocculant
+dhal
 dungy
 dragsman
 dimethylhydrazine
@@ -8037,7 +8038,6 @@ dispersion
 dumbhead
 deathtraps
 despotically
-dhal
 dimension
 distinctional
 didos
