@@ -4868,7 +4868,6 @@ cartaceous
 candlestickward
 cowherbs
 carte
-carted
 curtalax
 cartel
 chondriosomes
@@ -9298,6 +9297,7 @@ chairmending
 coliform
 chatties
 chattiest
+carted
 chattiness
 cessionaries
 colorably
