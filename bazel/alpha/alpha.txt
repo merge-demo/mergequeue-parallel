@@ -7515,7 +7515,6 @@ acrocephalous
 assument
 acetary
 antisepticist
-audiometry
 atomist
 apportionate
 alcyonacean
@@ -11118,6 +11117,7 @@ airiest
 amphiboline
 aerologists
 attainability
+audiometry
 ananepionic
 amphibolitic
 attentiveness
