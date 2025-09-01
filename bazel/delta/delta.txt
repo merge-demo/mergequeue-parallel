@@ -2535,7 +2535,6 @@ dimorphs
 dumbfounded
 dweller
 declassification
-diachrony
 declassifies
 diplophonic
 discus
@@ -9519,6 +9518,7 @@ dinarzade
 disapproval
 diggable
 digged
+diachrony
 deuterostome
 demonstrational
 dighted
