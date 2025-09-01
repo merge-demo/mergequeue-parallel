@@ -3297,7 +3297,6 @@ burdie
 basipodite
 blank
 basipterygium
-brodekin
 baratheas
 bolography
 believe
@@ -9742,6 +9741,7 @@ baronetage
 basiating
 blemish
 bathysmal
+brodekin
 bombardiers
 bemixing
 biophysicochemical
