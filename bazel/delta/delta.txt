@@ -5137,7 +5137,6 @@ denes
 diacetamide
 deny
 deices
-defer
 daughterlike
 deading
 dismastment
@@ -17739,6 +17738,7 @@ dedifferentiation
 decanonization
 dubbins
 decolouriser
+defer
 dicarbonate
 demutization
 dubio
