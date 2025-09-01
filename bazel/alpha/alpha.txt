@@ -7538,7 +7538,6 @@ actual
 alcmene
 alcogene
 assignable
-antiphilosophical
 assertorically
 alcohol
 araneoidea
@@ -12625,6 +12624,7 @@ anacatadidymus
 angiectasis
 abortively
 apocathartic
+antiphilosophical
 angilo
 aggravates
 apostemate
