@@ -4894,6 +4894,7 @@ burrowstown
 beef
 battled
 brairo
+briar
 beefalo
 basketweaving
 balistarius
@@ -15108,7 +15109,6 @@ bullionless
 bram
 biddulphiaceae
 bryanism
-briar
 barsom
 bahuvrihis
 briard
