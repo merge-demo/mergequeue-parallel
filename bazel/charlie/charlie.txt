@@ -10428,7 +10428,6 @@ congession
 consorts
 chigoes
 chih
-carbonade
 conquered
 coryphaena
 clinocephalic
@@ -27119,6 +27118,7 @@ countersuit
 cubehead
 countersun
 countersunken
+carbonade
 countersurprise
 chrotta
 countersway
