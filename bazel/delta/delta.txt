@@ -1506,7 +1506,6 @@ deked
 deaconate
 demagnetize
 demiglace
-demigorge
 delphinoidea
 downer
 deaconesses
@@ -11727,6 +11726,7 @@ derotrema
 deepeners
 disarranger
 discour
+demigorge
 dimethylanthranilate
 daubiest
 designates
