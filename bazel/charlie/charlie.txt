@@ -2738,7 +2738,6 @@ candyfloss
 cannelon
 chintzes
 castrametation
-cannelure
 clatsop
 cannoneers
 cannequin
@@ -22203,6 +22202,7 @@ collarman
 courlans
 congeed
 codder
+cannelure
 cleuch
 congeeing
 congeing
