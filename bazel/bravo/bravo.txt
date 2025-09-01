@@ -3654,7 +3654,6 @@ batlike
 boards
 brandyball
 buyides
-biosterol
 baculiform
 bipinnately
 bassanello
@@ -7866,6 +7865,7 @@ bradypnoea
 blenchingly
 bibliomane
 brontometer
+biosterol
 bams
 bibliomania
 bibliomaniac

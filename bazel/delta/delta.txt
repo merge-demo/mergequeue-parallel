@@ -2571,7 +2571,6 @@ discouragements
 docetist
 deamidization
 desistence
-decoat
 decoct
 disobliges
 demiquaver
@@ -11774,6 +11773,7 @@ decolonise
 discredit
 discreditability
 dahabiya
+decoat
 difflugia
 deiparous
 deploredly
