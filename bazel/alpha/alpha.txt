@@ -4656,6 +4656,7 @@ allometric
 allogamy
 aequor
 altitudes
+ascanius
 aequorins
 aerate
 astrophotographer
@@ -20826,7 +20827,6 @@ amnionate
 asbolite
 aryballi
 anguria
-ascanius
 amorphous
 ascape
 amidid
