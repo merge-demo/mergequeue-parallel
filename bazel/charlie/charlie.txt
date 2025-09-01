@@ -3814,6 +3814,7 @@ carbonemia
 coccolith
 carbonide
 convalescent
+cotset
 cacophonical
 carbonify
 clept
@@ -26431,7 +26432,6 @@ cottiform
 couther
 cots
 cephalomelus
-cotset
 crub
 cotsetland
 cotswold
