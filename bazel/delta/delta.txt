@@ -8380,7 +8380,6 @@ dialist
 denegation
 debauchedness
 diduction
-dialystaminous
 dialystely
 dialystelic
 dialister
@@ -15272,6 +15271,7 @@ dolabrate
 dialectalize
 doli
 dyslogistically
+dialystaminous
 dolcemente
 diagnosable
 dimyarian
