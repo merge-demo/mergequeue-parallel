@@ -14094,7 +14094,6 @@ cleruchial
 circassic
 capivi
 corpuscle
-circe
 circean
 circensian
 circinate
@@ -30565,6 +30564,7 @@ cuboides
 casanovas
 cuboids
 chondropharyngeal
+circe
 colloquium
 cubomedusan
 cothurn

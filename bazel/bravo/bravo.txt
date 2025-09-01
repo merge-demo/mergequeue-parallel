@@ -3460,7 +3460,6 @@ biorgan
 boughpot
 berginization
 bef
-bastite
 brushfire
 brigade
 basto
@@ -14652,6 +14651,7 @@ brassbounder
 brasse
 brassey
 boxiest
+bastite
 basketful
 biographically
 balkanic
