@@ -1956,7 +1956,6 @@ dreader
 depressant
 deckload
 debunkers
-dispergated
 debunks
 disedify
 deadhouse
@@ -16642,6 +16641,7 @@ dragonfishes
 didelph
 dragonflies
 dossers
+dispergated
 dolichosauri
 deprecated
 didelphian
