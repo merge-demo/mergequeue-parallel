@@ -7166,7 +7166,6 @@ alauda
 aphakic
 autophotometry
 alaudine
-alaund
 adoptant
 aglauros
 antitropical
@@ -16381,6 +16380,7 @@ ants
 antsier
 antsiest
 assailable
+alaund
 arminianism
 accentus
 altarist
