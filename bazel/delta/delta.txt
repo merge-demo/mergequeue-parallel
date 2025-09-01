@@ -12038,7 +12038,6 @@ differen
 disenchant
 dowd
 dimolecular
-disenchantments
 dived
 dansy
 disenchantress
@@ -16725,6 +16724,7 @@ deserves
 debouchure
 draisine
 duodiode
+disenchantments
 detach
 disjasket
 drinking
