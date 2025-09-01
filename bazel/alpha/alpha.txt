@@ -1864,7 +1864,6 @@ acetylaniline
 aitiology
 alabastos
 adamic
-abiogeny
 acetylating
 acetylative
 albatrosses
@@ -15406,6 +15405,7 @@ antimilitarist
 alienship
 antiministerial
 antiministerially
+abiogeny
 affluentness
 anywhere
 alaudidae
