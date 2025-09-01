@@ -33,7 +33,6 @@ assort
 abac
 ahuehuete
 antecedence
-abacas
 allseeds
 aurine
 aerometeorograph
@@ -8954,6 +8953,7 @@ achondrite
 aeromotor
 alps
 astrictiveness
+abacas
 alliant
 antimilitaristic
 antemarital
