@@ -20659,7 +20659,6 @@ atheisms
 alphean
 artilleries
 avodire
-artilleryman
 achillein
 artillerymen
 apprehensiveness
@@ -25018,6 +25017,7 @@ astutely
 awlwort
 aweary
 awlworts
+artilleryman
 awmous
 awn
 airing
