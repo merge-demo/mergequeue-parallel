@@ -3901,6 +3901,7 @@ cuffer
 cosponsored
 carburetter
 calcaneoastragalar
+coauthered
 carburetting
 carburettor
 calendared
@@ -24662,7 +24663,6 @@ commentary
 christie
 copperize
 copens
-coauthered
 camacey
 coppersidesman
 cambrics
