@@ -8022,6 +8022,7 @@ cirrated
 carts
 chaetopodan
 chaetopterus
+chickenshit
 chaetosoma
 chaetosomatidae
 chaetosomidae
@@ -26531,7 +26532,6 @@ candleberry
 conterminal
 coulage
 couldest
-chickenshit
 couldn
 couldst
 coulee
