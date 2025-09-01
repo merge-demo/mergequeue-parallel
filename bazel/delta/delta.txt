@@ -6923,7 +6923,6 @@ domineer
 despecialize
 defying
 dishcloths
-despecificate
 despecification
 desperado
 darky
@@ -16821,6 +16820,7 @@ dravidic
 drightin
 diplomate
 developed
+despecificate
 dravite
 disillusions
 draw
