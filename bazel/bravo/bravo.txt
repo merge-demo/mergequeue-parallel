@@ -5582,7 +5582,6 @@ bouleuterion
 befoolment
 borons
 beknighted
-ballistite
 beknotted
 burrio
 bacchuslike
@@ -8130,6 +8129,7 @@ bloodbird
 bateaux
 bieldy
 brawlier
+ballistite
 bossa
 bathylite
 bielding
