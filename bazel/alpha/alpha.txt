@@ -496,7 +496,6 @@ abjunct
 assonantal
 acidities
 agomphiasis
-amphineurous
 abjurations
 abjurement
 abjurer
@@ -18741,6 +18740,7 @@ attributive
 asymmetrically
 archettos
 assever
+amphineurous
 assumptiveness
 archeunuch
 adstipulate
