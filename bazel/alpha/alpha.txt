@@ -923,7 +923,6 @@ absorbing
 altitudinous
 absorpt
 absorptiometer
-allegeable
 alive
 analcites
 aggregate
@@ -12020,6 +12019,7 @@ anatomized
 anatomizer
 advisiveness
 anatomizing
+allegeable
 anatopism
 adorally
 allopathetically
