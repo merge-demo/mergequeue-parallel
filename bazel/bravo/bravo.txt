@@ -2527,6 +2527,7 @@ barid
 bronchostenosis
 bereaving
 burgus
+buckleya
 barye
 burglarise
 bestrewn
@@ -10000,7 +10001,6 @@ battuto
 becrusted
 benefiter
 bywalking
-buckleya
 biwinter
 blackfisher
 benzolate
