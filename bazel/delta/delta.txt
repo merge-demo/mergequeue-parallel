@@ -2740,7 +2740,6 @@ daemonurgy
 devitalizing
 darbies
 decortication
-dematerialization
 decorticator
 determinants
 decorticosis
@@ -14280,6 +14279,7 @@ demilitarizing
 disburses
 disembargo
 demanders
+dematerialization
 ditchers
 deathwards
 disproportionably
