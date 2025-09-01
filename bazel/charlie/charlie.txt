@@ -11562,7 +11562,6 @@ cholecystitis
 cozies
 cacographer
 christophany
-cholecystnephrostomy
 cupellation
 cholecystocolostomy
 cognisability
@@ -22561,6 +22560,7 @@ cosech
 connaturalness
 connature
 calumniatory
+cholecystnephrostomy
 connaught
 connectable
 connected
