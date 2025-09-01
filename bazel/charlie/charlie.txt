@@ -27328,6 +27328,7 @@ coursers
 courses
 coursing
 court
+carriers
 cosmist
 courtage
 climacterics
@@ -31176,7 +31177,6 @@ communities
 cloudling
 cuprene
 classless
-carriers
 cupressus
 campagus
 custode
