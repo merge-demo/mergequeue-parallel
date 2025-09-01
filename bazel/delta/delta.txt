@@ -4082,7 +4082,6 @@ delictum
 delieret
 despicably
 divaricate
-delightfulness
 delightingly
 delignification
 demurringly
@@ -15686,6 +15685,7 @@ doorhead
 dooryards
 detergible
 dooring
+delightfulness
 doorknob
 doorless
 dismail
