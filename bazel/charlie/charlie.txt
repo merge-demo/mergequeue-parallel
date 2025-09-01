@@ -17800,7 +17800,6 @@ cognominally
 catchier
 carrotiness
 codec
-centroclinal
 conjunctivitis
 codeclination
 codecs
@@ -29260,6 +29259,7 @@ cryptococcus
 chouette
 cunabula
 clericalist
+centroclinal
 cryptodeist
 cryptodynamic
 cryptodira
