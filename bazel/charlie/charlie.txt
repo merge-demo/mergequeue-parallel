@@ -4977,6 +4977,7 @@ crofterization
 carvage
 carval
 carve
+cosmetologists
 cannabinol
 carven
 carvene
@@ -29734,7 +29735,6 @@ circule
 crooknecked
 concessionaires
 causticize
-cosmetologists
 criminatory
 crematoriums
 crooknosed
