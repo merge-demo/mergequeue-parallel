@@ -1658,7 +1658,6 @@ balloting
 ballotist
 batell
 ballots
-ballottement
 backlotter
 baronage
 byelorussians
@@ -17934,6 +17933,7 @@ baryta
 bushwahs
 basemen
 ballflower
+ballottement
 bushlike
 beclamors
 bookbinding
