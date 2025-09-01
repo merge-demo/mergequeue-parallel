@@ -267,7 +267,6 @@ cheesery
 cachexies
 cachibou
 cachimailla
-caching
 cussedly
 chorepiscopus
 comatose
@@ -7842,6 +7841,7 @@ castaway
 combos
 cessor
 cesspipe
+caching
 cesspit
 cesspits
 cesspools
