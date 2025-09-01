@@ -319,6 +319,7 @@ abecedarians
 antiminsia
 archiphoneme
 abed
+archinformer
 anthophyte
 anguis
 appeals
@@ -6199,7 +6200,6 @@ amphionic
 agricolist
 atsara
 ambulances
-archinformer
 agricolous
 anticonventionalism
 assertedly
