@@ -2097,6 +2097,7 @@ doses
 dynasts
 dissyllabism
 decameral
+dandy
 daintify
 doline
 diapasm
@@ -15045,7 +15046,6 @@ drake
 doesn
 dolentissimo
 desiccatory
-dandy
 demiracle
 dhikr
 dirndl
