@@ -6842,7 +6842,6 @@ desmosite
 deft
 desemer
 destabilized
-dispositor
 deglutitory
 desoeuvre
 discoursing
@@ -11890,6 +11889,7 @@ dawing
 despicableness
 deuteroprism
 decentralism
+dispositor
 discurre
 dislikable
 discursify
