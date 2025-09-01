@@ -2584,6 +2584,7 @@ counterdisengage
 cryptocrystallization
 columnar
 cyamelide
+celebe
 castile
 caned
 canela
@@ -12378,7 +12379,6 @@ chromatologies
 chromatopathy
 cakebox
 chromatopathia
-celebe
 chromatophil
 chromatophile
 cothurni
