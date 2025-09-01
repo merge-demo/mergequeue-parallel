@@ -1725,7 +1725,6 @@ balneotherapy
 balneotherapia
 berdaches
 bahera
-bedumbing
 benzalphthalide
 bacillariales
 bravehearted
@@ -5656,6 +5655,7 @@ blowpipes
 bytime
 brasiers
 bocher
+bedumbing
 busks
 boraciferous
 backboned

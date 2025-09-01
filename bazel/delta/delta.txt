@@ -5340,7 +5340,6 @@ dentiferous
 dentification
 dichlamydeous
 dentifrice
-diageotropism
 dentil
 discussional
 dentiled
@@ -14872,6 +14871,7 @@ docmac
 disliked
 docoglossan
 docoglossate
+diageotropism
 diswarren
 decidua
 docs
