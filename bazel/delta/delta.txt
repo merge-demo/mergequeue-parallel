@@ -9507,7 +9507,6 @@ diamonded
 doko
 dermad
 domically
-digestment
 dittography
 declinature
 debenzolize
@@ -12384,6 +12383,7 @@ dragonne
 demonomancy
 disgustfulness
 disgustingly
+digestment
 dealated
 dishabilitate
 duras

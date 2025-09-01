@@ -2102,7 +2102,6 @@ aristeas
 anthophilous
 awols
 alcovinometer
-achlorhydria
 ammobium
 admixing
 anthophyllite
@@ -16228,6 +16227,7 @@ anthochlor
 auscultative
 antitonic
 actinomorphy
+achlorhydria
 atune
 aspire
 acetamidine
