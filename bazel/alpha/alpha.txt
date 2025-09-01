@@ -1426,7 +1426,6 @@ accipitrine
 addability
 adeuism
 accite
-acclaim
 acclaimable
 amblyope
 acclaimer
@@ -15580,6 +15579,7 @@ assures
 aversion
 affectionately
 angulous
+acclaim
 amphidiscophoran
 archeologic
 allomucic
