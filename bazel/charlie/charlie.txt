@@ -17506,6 +17506,7 @@ cobourg
 cueca
 coinitial
 cobridgehead
+ceasmic
 chrysostomic
 chimneyhead
 coburg
@@ -19935,7 +19936,6 @@ centenarians
 corbeling
 commandeers
 chromolithographer
-ceasmic
 coenenchyme
 commandery
 commanding
