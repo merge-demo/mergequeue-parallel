@@ -15,7 +15,6 @@ aschistic
 ammiral
 autoimmunities
 aivr
-archerfish
 aaronite
 atwirl
 aker
@@ -3961,6 +3960,7 @@ admissable
 agentival
 admissibility
 asci
+archerfish
 admissive
 automan
 astrophotometrical
