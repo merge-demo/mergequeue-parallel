@@ -2440,6 +2440,7 @@ amidate
 acoma
 arthropleura
 antluetic
+aurophore
 acomia
 anglicize
 acomous
@@ -23629,7 +23630,6 @@ aurochses
 answer
 azureous
 anthropogeography
-aurophore
 aurore
 aurorian
 aurorium
