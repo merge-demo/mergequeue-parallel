@@ -4245,6 +4245,7 @@ delphocurarine
 dermatopsy
 decoherer
 dels
+demast
 djelfa
 dumpy
 delsartian
@@ -13844,7 +13845,6 @@ denumeration
 drumroll
 diatomic
 diagrammatician
-demast
 descried
 doddard
 dryers
