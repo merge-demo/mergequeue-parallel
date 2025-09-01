@@ -776,6 +776,7 @@ badinerie
 birt
 badious
 betrays
+blandiloquence
 bellybutton
 badland
 badlands
@@ -12168,7 +12169,6 @@ brabbler
 biparted
 boleweed
 biometeorology
-blandiloquence
 baklawas
 benzodiazine
 bridgeboard
