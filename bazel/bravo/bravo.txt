@@ -13829,6 +13829,7 @@ bidential
 brewing
 bedplates
 bowerlet
+bacteriolytic
 begins
 bighearted
 bagreef
@@ -15975,7 +15976,6 @@ boniform
 backsplicing
 bromeliaceae
 bielby
-bacteriolytic
 basnet
 bauge
 blepharospath
