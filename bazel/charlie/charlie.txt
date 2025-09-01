@@ -633,7 +633,6 @@ caeremoniarius
 coynye
 callate
 coatimundi
-caesardom
 caesarean
 caesareans
 cardiopyloric
@@ -29893,6 +29892,7 @@ crossline
 cymas
 crosslink
 crossness
+caesardom
 cladophorales
 crossopt
 carposporangia
