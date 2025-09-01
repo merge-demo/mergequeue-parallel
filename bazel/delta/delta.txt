@@ -8029,6 +8029,7 @@ dialects
 defences
 dynasticism
 derbylite
+darya
 defenestration
 dietician
 dispersion
@@ -16425,7 +16426,6 @@ downturn
 downturns
 domy
 densitometric
-darya
 defrosted
 downway
 disdain
