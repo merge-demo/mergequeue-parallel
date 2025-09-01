@@ -4791,7 +4791,6 @@ carreton
 cetaceous
 carry
 carriage
-carriageful
 clachans
 crumminess
 chars
@@ -25639,6 +25638,7 @@ correctioner
 conformities
 corrective
 circumscript
+carriageful
 correctively
 computers
 correctiveness
