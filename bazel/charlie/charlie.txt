@@ -16764,7 +16764,6 @@ cycloheptane
 congregativeness
 cloudlike
 cloudology
-comptrollership
 culiciform
 clouds
 cloudship
@@ -20361,6 +20360,7 @@ crassness
 cuirass
 comose
 comourn
+comptrollership
 chaffcutter
 corycavamine
 cybister
