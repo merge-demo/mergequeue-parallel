@@ -245,6 +245,7 @@ daftest
 donees
 daftness
 descending
+docetize
 dinnertime
 dorsula
 displanting
@@ -14802,7 +14803,6 @@ diluvion
 dyeware
 dermostosis
 dobbies
-docetize
 deerstand
 divorcements
 dochmiacal
