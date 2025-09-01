@@ -4809,7 +4809,6 @@ bedstring
 boundedly
 beautiless
 brownly
-broadwise
 bedswerver
 bichrome
 bathorse
@@ -17579,6 +17578,7 @@ brandished
 bristling
 burgherage
 beguine
+broadwise
 bottomlessly
 bobbysocks
 baclin
