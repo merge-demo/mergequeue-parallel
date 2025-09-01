@@ -3143,7 +3143,6 @@ abram
 abscam
 aryanize
 acuminose
-autecisms
 animalculist
 acupunctuation
 antilevelling
@@ -24808,6 +24807,7 @@ anginoid
 avoider
 ascribing
 addnl
+autecisms
 avoidment
 actomyosin
 avoids
