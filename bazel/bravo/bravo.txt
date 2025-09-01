@@ -1341,7 +1341,6 @@ balatron
 benzaldiphenyl
 balatte
 bankcards
-betterness
 bergfall
 bermudian
 bernoullian
@@ -2296,6 +2295,7 @@ buckland
 backrest
 botryomyces
 budgerygah
+betterness
 bebite
 backyards
 barbariousness
