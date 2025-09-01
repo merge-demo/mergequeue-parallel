@@ -1474,6 +1474,7 @@ battologized
 bodywear
 balistid
 bloodshedding
+brushite
 bepuzzle
 balistidae
 bouncer
@@ -11587,7 +11588,6 @@ becomma
 bravados
 buteo
 bode
-brushite
 budgeted
 boanergism
 bisontine
