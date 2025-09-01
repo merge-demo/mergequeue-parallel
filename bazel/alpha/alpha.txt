@@ -1877,6 +1877,7 @@ autograft
 acetylbenzene
 amenders
 arctisca
+apersee
 acetylcellulose
 antietam
 albitical
@@ -13046,7 +13047,6 @@ anthelions
 accessible
 animalistic
 androgynous
-apersee
 autographal
 animalivore
 animalivorous
