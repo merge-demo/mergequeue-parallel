@@ -15649,7 +15649,6 @@ antipathetic
 astroblast
 appropriative
 antipathetical
-arenas
 autotelism
 atophan
 anteflexed
@@ -21377,6 +21376,7 @@ asperifoliae
 asperifoliate
 asperity
 anthrol
+arenas
 attrib
 associationist
 asperly
