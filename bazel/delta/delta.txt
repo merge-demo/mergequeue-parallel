@@ -3253,7 +3253,6 @@ deteriority
 deterging
 drostden
 dropax
-defier
 defiers
 drogues
 disguisal
@@ -14575,6 +14574,7 @@ deoxidate
 demotic
 dyadic
 divinister
+defier
 deallocating
 dismiss
 dissimuler
