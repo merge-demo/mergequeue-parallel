@@ -12797,7 +12797,6 @@ deer
 dysneuria
 dislodged
 dislodgement
-distasted
 drogher
 dislodgment
 dyslogistic
@@ -16826,6 +16825,7 @@ draw
 dongon
 disreputation
 diarrhoeic
+distasted
 drawback
 drawbar
 duodecimals
