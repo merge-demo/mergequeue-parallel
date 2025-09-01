@@ -4880,6 +4880,7 @@ bomarea
 broadsiding
 beechwood
 bright
+berloque
 bourbons
 belaud
 blackeyes
@@ -6716,7 +6717,6 @@ blitter
 balaamitical
 beeishness
 brontosaurus
-berloque
 berme
 bulkiness
 bossiest

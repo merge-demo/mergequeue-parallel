@@ -17741,6 +17741,7 @@ crimeless
 creagh
 caved
 cocoons
+calamites
 cocopan
 choup
 cocotte
@@ -19854,7 +19855,6 @@ comeuppance
 comeuppances
 comfy
 comfier
-calamites
 chamaedaphne
 cohibitive
 comfily
