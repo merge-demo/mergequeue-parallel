@@ -12447,7 +12447,6 @@ chromizing
 caswellite
 chromocyte
 chromocollograph
-chromocollography
 cysticercerci
 circling
 chromocollotype
@@ -27106,6 +27105,7 @@ counterspy
 cassaba
 counterspies
 coverage
+chromocollography
 counterstand
 counterstep
 corabeca
