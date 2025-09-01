@@ -14757,7 +14757,6 @@ destroys
 dockland
 deadener
 decasemic
-deviative
 dks
 dankest
 deicer
@@ -17966,6 +17965,7 @@ disenchanting
 dissembled
 displeasurement
 dufter
+deviative
 dosage
 delimitate
 devaluated
