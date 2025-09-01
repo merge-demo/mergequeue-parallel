@@ -6214,7 +6214,6 @@ ceroplast
 caulis
 caulivorous
 choanosomal
-caulk
 caulkers
 crustation
 caulks
@@ -31595,6 +31594,7 @@ cururos
 catawbas
 cleave
 cornett
+caulk
 cheet
 chaton
 curvation

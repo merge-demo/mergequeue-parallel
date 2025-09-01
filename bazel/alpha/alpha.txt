@@ -7998,7 +7998,6 @@ algerines
 algerite
 aciduric
 algernon
-assassinator
 algesiometer
 algidity
 algidities
@@ -18739,6 +18738,7 @@ archetypal
 avizandum
 arabian
 anhydremic
+assassinator
 almaciga
 archetypes
 attributive
