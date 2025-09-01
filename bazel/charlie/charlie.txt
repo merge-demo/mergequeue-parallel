@@ -997,6 +997,7 @@ chamberlainship
 compacting
 calathiform
 calathiscus
+concionator
 calathos
 crapshooter
 conveyances
@@ -21353,7 +21354,6 @@ concinnously
 concional
 concionate
 callidness
-concionator
 coydog
 concionatory
 credulously
