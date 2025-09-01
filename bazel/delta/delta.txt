@@ -1278,7 +1278,6 @@ danthonia
 dusted
 diazoic
 denari
-decapitate
 datives
 deplane
 desmids
@@ -15872,6 +15871,7 @@ deponed
 diseasy
 dictions
 demolishment
+decapitate
 daring
 dioscoreaceae
 disalign
