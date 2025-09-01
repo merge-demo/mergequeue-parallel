@@ -4137,6 +4137,7 @@ adorned
 apartado
 affy
 automorph
+adagial
 antiaircraft
 astichous
 astore
@@ -9846,7 +9847,6 @@ auricled
 amativeness
 apikoros
 arcing
-adagial
 artificious
 avoue
 abandonee
