@@ -1273,7 +1273,6 @@ barleys
 bottomer
 bruke
 bromochlorophenol
-bricktop
 bucketsful
 balaenidae
 bobbies
@@ -13284,6 +13283,7 @@ birdmen
 bookrests
 blennies
 baltei
+bricktop
 bobbery
 bugproof
 beclothing
