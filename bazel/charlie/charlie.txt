@@ -26323,6 +26323,7 @@ cans
 coteen
 coteful
 cotele
+cultrate
 cotemporanean
 cotemporaneously
 cotemporaries
@@ -30894,7 +30895,6 @@ cultivations
 cultivative
 cultivator
 cultive
-cultrate
 cultrated
 coinage
 cultriform
