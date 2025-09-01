@@ -13575,7 +13575,6 @@ anodos
 agomensin
 anoestrum
 asked
-animotheism
 amygdalothripsis
 aposporogony
 allopathies
@@ -14472,6 +14471,7 @@ ambulatorial
 accreditee
 accoutred
 anthropophagite
+animotheism
 auric
 anthropophagize
 anthropophilous
