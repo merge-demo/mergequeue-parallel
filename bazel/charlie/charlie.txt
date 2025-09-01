@@ -18407,7 +18407,6 @@ cognizableness
 cryogenic
 chetrums
 cognizant
-cognize
 conveyancer
 cognized
 cognizing
@@ -19302,6 +19301,7 @@ cabezones
 coresidence
 chelem
 colonialists
+cognize
 coctoprecipitin
 colonialize
 chortles
