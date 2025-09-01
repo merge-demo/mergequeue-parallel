@@ -1086,6 +1086,7 @@ borosalicylate
 bailey
 begets
 becense
+becap
 berkeleian
 busman
 bain
@@ -4301,7 +4302,6 @@ biaural
 beakiest
 bewig
 bulimia
-becap
 beadlery
 backslides
 becarpeted
