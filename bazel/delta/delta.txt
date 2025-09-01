@@ -6444,6 +6444,7 @@ desands
 desc
 descale
 declericalize
+delignated
 downrightly
 descant
 diversional
@@ -6470,7 +6471,6 @@ dipeptid
 dentellated
 disqualification
 directable
-delignated
 dorsoradial
 disomatous
 descendent
