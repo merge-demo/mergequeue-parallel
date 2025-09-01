@@ -3903,7 +3903,6 @@ bittor
 blamelessness
 bawties
 beechnuts
-bedlamp
 bifidated
 baxtone
 brachyskelic
@@ -12417,6 +12416,7 @@ bonbons
 belvederes
 barker
 bushiness
+bedlamp
 bedwarf
 banisterine
 bond
