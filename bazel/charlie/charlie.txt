@@ -6650,6 +6650,7 @@ churlhood
 compound
 counterquestion
 coathangers
+cuscus
 colligation
 cellarman
 ceinture
@@ -31645,7 +31646,6 @@ colures
 cruciferous
 carbolized
 crossbreeds
-cuscus
 cuscuta
 convivio
 choiciest
