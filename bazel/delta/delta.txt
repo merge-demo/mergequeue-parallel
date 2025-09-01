@@ -967,6 +967,7 @@ detonational
 departed
 dizzardly
 dodecastyle
+diastral
 doctors
 dizzyingly
 dextrosazone
@@ -8693,7 +8694,6 @@ dolesomely
 dehumanized
 diastoles
 davyne
-diastral
 diogenite
 dimeride
 decors
