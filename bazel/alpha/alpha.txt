@@ -17208,7 +17208,6 @@ apoplastogamous
 attempts
 apoplectoid
 apoplex
-absarokite
 apoplexy
 adamantoid
 anemometrographic
@@ -22258,6 +22257,7 @@ aldehydes
 augites
 almug
 astrography
+absarokite
 aspidiotus
 acromegalic
 ailurophobic
