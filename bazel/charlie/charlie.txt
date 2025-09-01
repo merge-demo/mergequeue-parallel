@@ -5141,6 +5141,7 @@ cashou
 castory
 cartes
 casimiroa
+chorizontic
 curarine
 casinet
 charet
@@ -24639,7 +24640,6 @@ copouts
 coley
 celestially
 complects
-chorizontic
 cleeks
 concentralize
 copped
