@@ -6640,6 +6640,7 @@ ceiling
 ceilings
 ceilingwards
 copiability
+chadelle
 celtophobia
 ceilometer
 couac
@@ -7991,7 +7992,6 @@ codirectional
 chacte
 chad
 chadarim
-chadelle
 colloquy
 catsup
 cragged
