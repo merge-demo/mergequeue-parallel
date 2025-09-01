@@ -5453,7 +5453,6 @@ alunites
 afterpains
 auburns
 afflux
-afterplanting
 absinthium
 afterreckoning
 auxofluor
@@ -18888,6 +18887,7 @@ architects
 autoallogamy
 alidade
 amorality
+afterplanting
 architecture
 architectures
 architypographer
