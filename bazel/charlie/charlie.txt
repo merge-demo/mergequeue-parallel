@@ -18398,7 +18398,6 @@ cognizable
 cyclosporales
 cognizableness
 cryogenic
-cognizance
 chetrums
 cognizant
 cognize
@@ -23575,6 +23574,7 @@ continuingly
 continuity
 choeropsis
 cribbages
+cognizance
 cassiaceae
 capfuls
 civilization
