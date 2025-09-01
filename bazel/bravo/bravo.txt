@@ -11835,6 +11835,7 @@ bodybending
 bodybuilder
 betrinket
 birthing
+buddie
 bard
 briareus
 browbeater
@@ -16716,7 +16717,6 @@ bigamously
 botocudo
 brandisher
 bethunder
-buddie
 boswell
 buddleia
 bunkhouses
