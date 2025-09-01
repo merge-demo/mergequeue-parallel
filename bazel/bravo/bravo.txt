@@ -751,6 +751,7 @@ burlaps
 befoul
 bandsawing
 badges
+berther
 badging
 buddhism
 banksman
@@ -6801,7 +6802,6 @@ bibliotaphic
 batten
 berthed
 birdeye
-berther
 buprestidan
 bradylalia
 bertie

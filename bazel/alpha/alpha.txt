@@ -15379,7 +15379,6 @@ antimedicine
 anguiform
 anaptomorphidae
 antimedievalism
-antimedievally
 antimelancholic
 antimensia
 anapestic
@@ -19084,6 +19083,7 @@ alemannic
 analogion
 anatomically
 arcticizing
+antimedievally
 arista
 arctics
 aby
