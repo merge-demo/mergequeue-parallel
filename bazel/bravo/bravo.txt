@@ -2511,6 +2511,7 @@ barguests
 bartletts
 bumblebees
 buzylene
+bodysuit
 baria
 berceau
 bedouse
@@ -9116,7 +9117,6 @@ biocoenose
 brooklets
 bullishness
 budzart
-bodysuit
 biosome
 biospeleology
 biosphere
