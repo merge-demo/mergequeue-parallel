@@ -3047,7 +3047,6 @@ canvasado
 canvasbacks
 canvasers
 coralroot
-cumaldehyde
 coperiodic
 capriola
 canvasing
@@ -7077,6 +7076,7 @@ clunker
 cadent
 centillionth
 centiloquy
+cumaldehyde
 casziel
 canton
 caliculus
