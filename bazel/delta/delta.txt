@@ -6484,7 +6484,6 @@ descends
 deviability
 dialectic
 dynel
-deerstalker
 descension
 descensionist
 descensive
@@ -17374,6 +17373,7 @@ drooled
 drooly
 diencephala
 doorstep
+deerstalker
 dilatational
 decennaries
 drumlier

@@ -11225,7 +11225,6 @@ beguilements
 brightening
 benday
 bertrand
-blotto
 benzazole
 brokenheartedly
 botteghe
@@ -11395,6 +11394,7 @@ blennophthalmia
 bluelines
 biometer
 beeves
+blotto
 bisaltae
 bodacious
 bedrail
