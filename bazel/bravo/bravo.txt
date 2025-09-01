@@ -2687,7 +2687,6 @@ birdland
 boraxes
 beakhead
 barnard
-benightment
 brachyprosopic
 betweenbrain
 beelzebub
@@ -14760,6 +14759,7 @@ backropes
 bedraggled
 browbound
 biotech
+benightment
 beetroot
 braziletto
 belletristic
