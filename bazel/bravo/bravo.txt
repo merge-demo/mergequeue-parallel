@@ -1603,6 +1603,7 @@ ballyrags
 belat
 biradial
 britches
+burgher
 burgundies
 binate
 ballista
@@ -17572,7 +17573,6 @@ baseballs
 burggrave
 burghbote
 brandished
-burgher
 bristling
 burgherage
 beguine
