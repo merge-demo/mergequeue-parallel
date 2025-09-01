@@ -3838,6 +3838,7 @@ bautta
 bauxite
 balsamically
 blistery
+bonos
 blvd
 bulgur
 balsas
@@ -5748,7 +5749,6 @@ ballerinas
 bifurcous
 bamboozled
 bell
-bonos
 bretwaldaship
 bellacoola
 bellatrix
