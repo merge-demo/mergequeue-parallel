@@ -9081,6 +9081,7 @@ almeriite
 almice
 almida
 ammonites
+apatite
 almira
 almner
 almohad
@@ -22494,7 +22495,6 @@ autohemic
 agreers
 athapaskan
 athar
-apatite
 aileen
 athecae
 alarge
