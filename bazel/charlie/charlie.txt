@@ -12549,6 +12549,7 @@ chronaxies
 chronic
 chronica
 chronically
+coenenchymal
 chronicle
 chronicled
 coachman
@@ -18063,7 +18064,6 @@ coenenchym
 casualness
 counterweighted
 cephalosporin
-coenenchymal
 communality
 capouch
 cherty
