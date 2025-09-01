@@ -2102,7 +2102,6 @@ campfight
 campground
 consarcinate
 camphane
-camphenes
 camphine
 cufflinks
 conturbation
@@ -27244,6 +27243,7 @@ chlorophane
 crowstepped
 cataloger
 countrifiedness
+camphenes
 countryfiedness
 countryfolk
 closewing
