@@ -4748,6 +4748,7 @@ anatolic
 alcids
 aspidobranchia
 aviatrix
+arythmic
 ammites
 asideness
 archisupreme
@@ -6974,7 +6975,6 @@ apocryphon
 arthresthesia
 aroint
 androides
-arythmic
 akkadist
 akmite
 aftershock
