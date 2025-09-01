@@ -7371,6 +7371,7 @@ cephaloridine
 cadus
 copecks
 campbellite
+criticized
 cephalotaceae
 chalaziferous
 cephalotaxus
@@ -22382,7 +22383,6 @@ conidae
 champlainic
 conidioid
 conidiophorous
-criticized
 conidiospore
 copy
 conidium
