@@ -11436,7 +11436,6 @@ casuary
 chronicler
 catheterisation
 chocking
-cockpaddle
 chutes
 cyrenaicism
 chytridium
@@ -14059,6 +14058,7 @@ cypridinoid
 cyprina
 cyprinid
 cheiromancy
+cockpaddle
 cyprinids
 cypriniform
 cauline

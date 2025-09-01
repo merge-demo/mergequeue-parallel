@@ -398,7 +398,6 @@ abd
 antiprohibition
 auxohormone
 abidances
-abide
 abider
 advisability
 abie
@@ -1418,6 +1417,7 @@ anhimidae
 append
 aphyllose
 accipient
+abide
 accipitrine
 addability
 adeuism
