@@ -6281,7 +6281,6 @@ agrote
 agrotechny
 agrotype
 agrotis
-anerly
 arguta
 asthenopia
 apneas
@@ -7449,6 +7448,7 @@ alembicate
 alcaydes
 acounter
 amoskeag
+anerly
 abote
 alcalde
 atelomitic
