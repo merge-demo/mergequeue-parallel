@@ -5067,7 +5067,6 @@ battlers
 blazoned
 bastonet
 bowfin
-befamilied
 biogeography
 bibracteolate
 bemas
@@ -7312,6 +7311,7 @@ beamiest
 bigotish
 bethankit
 bethel
+befamilied
 billfishes
 blunter
 boletaceous
