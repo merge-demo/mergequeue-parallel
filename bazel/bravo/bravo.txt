@@ -4925,6 +4925,7 @@ beeftongue
 barberish
 bacteriostasis
 beefwoods
+burgees
 beegerite
 bootlick
 bairnliness
@@ -8591,7 +8592,6 @@ baldacchino
 botanies
 behind
 batchers
-burgees
 blackthorns
 bartram
 billionism
