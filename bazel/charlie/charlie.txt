@@ -17232,7 +17232,6 @@ cramoisy
 coaled
 coaler
 coalers
-coalescence
 cellarless
 coitions
 candlesnuffer
@@ -24575,6 +24574,7 @@ copydesk
 copier
 cerebrogalactose
 criminalese
+coalescence
 copies
 comvia
 copyfitting
