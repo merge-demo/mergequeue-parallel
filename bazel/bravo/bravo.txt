@@ -12219,7 +12219,6 @@ billet
 bolshevist
 bolshevistic
 bewield
-bolshevize
 bolshevized
 boneset
 benitoite
@@ -12966,6 +12965,7 @@ blockheadishness
 bopeep
 blueleg
 bopped
+bolshevize
 bathless
 bombastical
 bailli
