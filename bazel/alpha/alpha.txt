@@ -20307,7 +20307,6 @@ arsenotungstates
 armeria
 arsenotungstic
 analysable
-arsenoxide
 attroopment
 anchitherioid
 arses
@@ -23656,6 +23655,7 @@ anvilsmith
 animala
 algous
 auscultating
+arsenoxide
 apism
 arilliform
 atlaslike
