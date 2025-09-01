@@ -9081,6 +9081,7 @@ benzonitrol
 beclout
 birds
 bushwhacking
+bullhoof
 bistournage
 biennia
 buckers
@@ -11423,7 +11424,6 @@ bolthead
 bluetit
 bluffly
 blimey
-bullhoof
 bigger
 bejade
 bulbul
