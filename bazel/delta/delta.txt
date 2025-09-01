@@ -5749,7 +5749,6 @@ depolarizers
 droves
 deliberating
 debater
-duree
 dilating
 disjoint
 descriptor
@@ -6986,6 +6985,7 @@ despoilers
 decongest
 decamps
 discreditably
+duree
 dogfaces
 debrided
 diagnosed

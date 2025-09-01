@@ -4426,6 +4426,7 @@ antimythic
 arrogance
 amania
 adversities
+antinome
 axotomous
 advertence
 advertently
@@ -15548,7 +15549,6 @@ arcus
 awfulness
 arrowheaded
 archangels
-antinome
 adders
 antinomianism
 arblast
