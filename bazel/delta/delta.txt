@@ -5095,6 +5095,7 @@ durwaun
 detect
 dutcher
 dendrology
+digastric
 daubes
 dendrologous
 derivatives
@@ -8989,7 +8990,6 @@ discophora
 deficience
 disconanthous
 depopulators
-digastric
 daises
 decollate
 dicyanin
