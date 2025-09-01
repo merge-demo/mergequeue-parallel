@@ -15164,6 +15164,7 @@ anthropomorphization
 antifreeze
 antifriction
 antistate
+arrand
 aliptes
 askant
 antifrost
@@ -20091,7 +20092,6 @@ aleck
 arrays
 agdistis
 ahir
-arrand
 accursedly
 arrangeable
 arrangement
