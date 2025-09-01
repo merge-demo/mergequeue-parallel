@@ -19070,6 +19070,7 @@ arcose
 antipolo
 adjiger
 allentiac
+armistices
 arthropoda
 arctan
 arctation
@@ -19833,7 +19834,6 @@ allicient
 armipotent
 armisonous
 armistice
-armistices
 avenaceous
 armitas
 anthropocentrism
