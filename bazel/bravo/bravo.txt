@@ -3475,6 +3475,7 @@ bovarism
 basuto
 baitylos
 bridgebuilding
+bilinguar
 bancos
 buphaga
 bander
@@ -8480,7 +8481,6 @@ bumble
 beaches
 bemusk
 bilingually
-bilinguar
 balks
 biscanism
 bijoux
