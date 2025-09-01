@@ -3724,7 +3724,6 @@ carbamyls
 castaneous
 carpodetus
 carbamine
-circumnutate
 cowquake
 circum
 carbanilid
@@ -23566,6 +23565,7 @@ continuation
 continuatively
 continuativeness
 continuator
+circumnutate
 cathodical
 continue
 continued
