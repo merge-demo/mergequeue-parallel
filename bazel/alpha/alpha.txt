@@ -11577,7 +11577,6 @@ anacrotic
 aerenchyma
 anacruses
 anacrustic
-anaculture
 anacusic
 anacusis
 anadems
@@ -14015,6 +14014,7 @@ archplunderer
 archwench
 aminoxylol
 antemarginal
+anaculture
 ambiguous
 airmail
 are

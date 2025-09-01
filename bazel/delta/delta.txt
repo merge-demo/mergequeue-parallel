@@ -1894,6 +1894,7 @@ dropline
 debordment
 deboss
 detractive
+dimly
 distortional
 debouche
 disbench
@@ -9987,7 +9988,6 @@ demoiselle
 dirigomotor
 dermohemia
 dinothere
-dimly
 diacipiperazine
 dimmer
 dothideacea
