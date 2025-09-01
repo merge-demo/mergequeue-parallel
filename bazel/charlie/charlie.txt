@@ -1351,7 +1351,6 @@ caliginosity
 caliginous
 caliginously
 cyanin
-coassession
 cunctipotent
 cylindrical
 cabbling
@@ -5982,6 +5981,7 @@ cating
 cativo
 cheapo
 catkin
+coassession
 comptonia
 catkinate
 cilician
