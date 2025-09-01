@@ -7296,7 +7296,6 @@ compartner
 cantalite
 cephalagra
 computus
-coudee
 cephalaspis
 cocoonery
 condurrite
@@ -15814,6 +15813,7 @@ coteller
 counterfeitness
 curuminaca
 clearcole
+coudee
 clearedness
 clearheadedly
 crawly
