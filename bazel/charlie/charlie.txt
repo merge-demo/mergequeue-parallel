@@ -3811,6 +3811,7 @@ contemplates
 cincha
 carbonemia
 coccolith
+carse
 carbonide
 convalescent
 cotset
@@ -16659,7 +16660,6 @@ colera
 clem
 conglution
 closehanded
-carse
 cardiodysesthesia
 colophonium
 contratempo
