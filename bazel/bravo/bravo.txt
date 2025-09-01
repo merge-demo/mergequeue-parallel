@@ -3604,6 +3604,7 @@ balconet
 barkentine
 bathometer
 brutalizing
+bonagh
 bathometry
 blockmaking
 bathool
@@ -12392,7 +12393,6 @@ bon
 backrope
 bistable
 bonacis
-bonagh
 bonaire
 bonang
 bonapartism
