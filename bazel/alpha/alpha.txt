@@ -16356,7 +16356,6 @@ antoniniani
 antoninianus
 appointed
 antonomasia
-axfetch
 anaplastic
 antonomastic
 antonomastical
@@ -16373,6 +16372,7 @@ antrophose
 antrorse
 antrorsely
 antroscope
+axfetch
 antrotympanitis
 antrotomy
 aspring
