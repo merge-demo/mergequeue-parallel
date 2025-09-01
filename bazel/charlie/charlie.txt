@@ -14478,7 +14478,6 @@ cirrostrative
 citharoedus
 charnel
 cuttanee
-celiectasia
 cirrostratus
 cappagh
 conscription
@@ -19319,6 +19318,7 @@ clinid
 consumingness
 colonisationist
 colonise
+celiectasia
 colonised
 cyrtidae
 colonizable
