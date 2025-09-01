@@ -6781,7 +6781,6 @@ desirousness
 dhotis
 dedicates
 diaconate
-desize
 decompositional
 desklike
 diphrelatic
@@ -15298,6 +15297,7 @@ disawa
 dipterist
 divisively
 derepress
+desize
 disfigurement
 durzee
 debutants
