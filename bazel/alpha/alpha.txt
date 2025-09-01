@@ -654,7 +654,6 @@ abondance
 aimara
 apostrophation
 abonnement
-addresser
 anemographic
 aborad
 aboral
@@ -13525,6 +13524,7 @@ akaakai
 apostasis
 annulosa
 annuls
+addresser
 annumerate
 aboundingly
 annunciade
