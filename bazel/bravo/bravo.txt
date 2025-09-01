@@ -9694,7 +9694,6 @@ bacillus
 brichette
 bioflavonoid
 biophysiography
-bedridden
 breakages
 beguilingly
 bigwiggism
@@ -17536,6 +17535,7 @@ broadacre
 burgality
 blancmanges
 bouses
+bedridden
 bakshis
 benzothiophene
 blackpoll
