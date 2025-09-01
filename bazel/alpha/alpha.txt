@@ -12202,7 +12202,6 @@ adipocerite
 anderun
 archipresbyter
 andesytes
-andevo
 asphyxiant
 assisi
 adiadochokinesia
@@ -18189,6 +18188,7 @@ arabin
 arabinic
 arabinosic
 arabinoside
+andevo
 alibility
 arabism
 abstinent
