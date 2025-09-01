@@ -3333,7 +3333,6 @@ antedonin
 addendums
 adder
 addibility
-antroversion
 aphoruridae
 addible
 addicent
@@ -8093,6 +8092,7 @@ amplexicaudate
 amora
 alibied
 alibis
+antroversion
 ambiverts
 alternativo
 autocatalepsy
