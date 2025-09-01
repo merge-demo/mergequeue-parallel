@@ -2457,6 +2457,7 @@ dunghill
 destrudo
 diphase
 diplodocus
+docetae
 decision
 defeatists
 distinctly
@@ -14796,7 +14797,6 @@ dictatorships
 dioptrically
 dedolomitize
 diluvion
-docetae
 dyeware
 dermostosis
 dobbies
