@@ -8424,6 +8424,7 @@ asmoke
 airplane
 alkylarylsulfonate
 anallergic
+arapahos
 abrahamic
 alkylate
 atremate
@@ -18309,7 +18310,6 @@ aranzada
 acceding
 ankylotia
 arapaho
-arapahos
 azorian
 araphorostic
 awaiter
