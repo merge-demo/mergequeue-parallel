@@ -2880,6 +2880,7 @@ actine
 actinenchyma
 acting
 actiniae
+actinoid
 absentia
 attrahent
 anciens
@@ -2942,7 +2943,6 @@ assamar
 asbolin
 actinographic
 autotomy
-actinoid
 allopelagic
 actinoids
 appriser
