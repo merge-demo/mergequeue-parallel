@@ -4780,6 +4780,7 @@ dittied
 dejected
 disgracing
 darwin
+descriptor
 dangs
 dpt
 dilated
@@ -5748,7 +5749,6 @@ deliberating
 debater
 dilating
 disjoint
-descriptor
 decasualizing
 depolymerize
 depolished
