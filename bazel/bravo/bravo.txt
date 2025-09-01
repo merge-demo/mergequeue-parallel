@@ -3750,7 +3750,6 @@ bovver
 beautifully
 behatted
 bibliothque
-bemist
 blennogenic
 battologise
 bastile
@@ -15569,6 +15568,7 @@ boza
 blair
 brittle
 bunkos
+bemist
 bypassing
 boner
 bailage
