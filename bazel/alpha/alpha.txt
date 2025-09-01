@@ -11164,6 +11164,7 @@ amphictyons
 amphid
 amphophile
 amphidetic
+autoclaved
 affecter
 amphidiarthrosis
 assimilator
@@ -21636,7 +21637,6 @@ aventure
 assented
 assenter
 arquerite
-autoclaved
 alewife
 aaru
 acetimetric
