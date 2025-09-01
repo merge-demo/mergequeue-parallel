@@ -3890,6 +3890,7 @@ antiquatedness
 admeasurer
 adumbrant
 admeasuring
+anaclete
 amimide
 afforced
 anthus
@@ -12195,7 +12196,6 @@ andabatism
 aphrodisiac
 antinous
 atheromatous
-anaclete
 antipestilent
 academised
 amiranha
