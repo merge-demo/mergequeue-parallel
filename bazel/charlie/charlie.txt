@@ -9643,7 +9643,6 @@ cheesebox
 cheeseburger
 cheesecake
 crees
-clyfaker
 compels
 cheesecloth
 cheesecloths
@@ -25795,6 +25794,7 @@ correctorship
 corruptful
 catecholamine
 clawback
+clyfaker
 corrupting
 chuser
 coolant
