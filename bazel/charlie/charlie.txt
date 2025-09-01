@@ -16126,6 +16126,7 @@ calamints
 conning
 cliffside
 cliffsman
+cousinries
 cliffweed
 clift
 clifty
@@ -27403,7 +27404,6 @@ choroidea
 chlorosulphonic
 curupira
 cousinry
-cousinries
 cousinship
 centricalness
 combativity
