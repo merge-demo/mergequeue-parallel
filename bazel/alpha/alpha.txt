@@ -3291,6 +3291,7 @@ archpiece
 apostemation
 answerless
 arrogancy
+arabitol
 argosies
 antipoetical
 acerbates
@@ -18202,7 +18203,6 @@ abstinent
 arabist
 arabit
 acetometrical
-arabitol
 anticoagulants
 appeaser
 amorphinism
