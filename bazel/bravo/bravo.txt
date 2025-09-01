@@ -4621,7 +4621,6 @@ boeing
 buxus
 bedevilling
 barbershops
-borities
 bargee
 bedevilment
 bescarf
@@ -10461,6 +10460,7 @@ blasphemous
 bismarckian
 blastemal
 bemaster
+borities
 blastemic
 bopyrid
 benvenuto

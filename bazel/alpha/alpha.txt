@@ -9868,7 +9868,6 @@ antihelixes
 aphanesite
 amazilia
 aplome
-amazing
 antizymotic
 almoravides
 amazons
@@ -11213,6 +11212,7 @@ amphioxi
 asrama
 amphioxuses
 amphipeptone
+amazing
 assemblymen
 alcyonaria
 antistalling
