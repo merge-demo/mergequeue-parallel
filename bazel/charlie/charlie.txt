@@ -6980,6 +6980,7 @@ censusing
 centage
 cavort
 centals
+ceratostomataceae
 cornbole
 coolies
 chock
@@ -7474,7 +7475,6 @@ ceratospongian
 contemplators
 chastened
 centricae
-ceratostomataceae
 cytococcus
 cimicidae
 ceratostomella
