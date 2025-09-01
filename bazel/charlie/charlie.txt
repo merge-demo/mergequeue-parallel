@@ -14627,7 +14627,6 @@ cystitis
 correlated
 chronologists
 cystocarcinoma
-cystocele
 cystocolostomy
 cystodynia
 cystoelytroplasty
@@ -23226,6 +23225,7 @@ coextending
 coalitionist
 construes
 ciceroning
+cystocele
 constuctor
 circumstantiated
 caprifoil
