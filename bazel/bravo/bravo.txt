@@ -3480,7 +3480,6 @@ buphaga
 bander
 barkpeeler
 boobook
-batable
 byeman
 bronchiarctia
 bevatron
@@ -11631,6 +11630,7 @@ bronchium
 boathook
 boathouse
 backbends
+batable
 boffos
 baccare
 boating
