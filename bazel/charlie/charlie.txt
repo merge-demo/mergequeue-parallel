@@ -21685,7 +21685,6 @@ centralisation
 casson
 cassises
 crosa
-camphoric
 cecidomyiid
 collumelliaceous
 cedens
@@ -24474,6 +24473,7 @@ clavis
 copaivic
 copalite
 copalm
+camphoric
 cynomorpha
 coparcenar
 coparcenary
