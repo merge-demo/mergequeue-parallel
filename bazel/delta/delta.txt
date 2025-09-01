@@ -4633,7 +4633,6 @@ demipomada
 diazid
 dialogs
 drabbest
-deaconship
 disbursable
 disfranchised
 deaness
@@ -13614,6 +13613,7 @@ deuterotoky
 diplomacies
 dissentiously
 demicritic
+deaconship
 drawnet
 dorcopsis
 dissentive
