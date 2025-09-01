@@ -95,6 +95,7 @@ cabestros
 cabezon
 casa
 chromeplate
+competitors
 cabezone
 cabful
 cabiai
@@ -20589,7 +20590,6 @@ competitiveness
 competitor
 conjugal
 cascol
-competitors
 challengee
 competitrix
 coignes
