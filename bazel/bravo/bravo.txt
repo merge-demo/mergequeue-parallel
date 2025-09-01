@@ -4871,7 +4871,6 @@ bedwarfing
 bigotty
 bubukle
 bacteriotherapy
-burglarproof
 beebee
 bradystalsis
 bewpers
@@ -16369,6 +16368,7 @@ bromellite
 barque
 benzdioxtriazine
 balsamy
+burglarproof
 brushback
 butt
 bladesmith
