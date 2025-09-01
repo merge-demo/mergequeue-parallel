@@ -5721,6 +5721,7 @@ ampyx
 ave
 agendas
 ankylosaur
+ahorse
 agendum
 agendums
 amovability
@@ -6367,7 +6368,6 @@ ahmedi
 amaranthoid
 alcicornium
 aholds
-ahorse
 ahriman
 ahs
 ablare
