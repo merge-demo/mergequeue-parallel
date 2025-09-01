@@ -145,7 +145,6 @@ area
 abattises
 antiracism
 azurites
-abattoirs
 abattu
 antireligionist
 agnostical
@@ -21676,6 +21675,7 @@ alister
 amalaita
 areopagist
 assertress
+abattoirs
 annunciator
 asserts
 assertum
