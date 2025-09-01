@@ -4411,6 +4411,7 @@ cert
 carli
 choruslike
 carlylean
+classifiable
 carlyleian
 chiromantical
 carlylese
@@ -15583,7 +15584,6 @@ coronado
 classiest
 classify
 continentalist
-classifiable
 cicatrized
 curites
 crustaceous
