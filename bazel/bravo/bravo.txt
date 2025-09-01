@@ -12847,7 +12847,6 @@ behorror
 bifoil
 bacchiac
 bilders
-bkpt
 barthian
 breastwise
 boong
@@ -16297,6 +16296,7 @@ brumbie
 bedew
 bemoaner
 bangup
+bkpt
 bioelectrogenetically
 bioelectronics
 borrowed
