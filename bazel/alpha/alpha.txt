@@ -5465,7 +5465,6 @@ aftershafted
 acetylcholinic
 archdruid
 alabandine
-almagests
 aftershave
 aftershocks
 aftersound
@@ -17192,6 +17191,7 @@ aurure
 akazgin
 arthroclisis
 acetylcarbazole
+almagests
 abstractionism
 apophonic
 alsbachite
