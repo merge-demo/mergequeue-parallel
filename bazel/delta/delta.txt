@@ -3921,7 +3921,6 @@ derivationally
 dotage
 douser
 duopoly
-disleal
 deyship
 dreamlit
 dulotic
@@ -15422,6 +15421,7 @@ diffusiveness
 descendability
 deluder
 domba
+disleal
 dissecting
 depilous
 disbogue
