@@ -1121,6 +1121,7 @@ detests
 demagnetisable
 dehydrogenize
 dashed
+darnings
 dicentra
 dashedly
 dipnoid
@@ -6500,7 +6501,6 @@ donor
 desitive
 descent
 despert
-darnings
 dekameter
 diffracting
 deschool
