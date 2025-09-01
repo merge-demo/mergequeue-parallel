@@ -3493,7 +3493,6 @@ downfold
 deuterostomata
 downs
 deforse
-diplomatic
 dinitrotoluene
 defrayable
 disembarrassment
@@ -6072,6 +6071,7 @@ deputizing
 degraders
 debriefed
 dandle
+diplomatic
 dilutent
 dermorhynchi
 dysphemized
