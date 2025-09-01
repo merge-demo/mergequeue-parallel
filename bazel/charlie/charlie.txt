@@ -13150,6 +13150,7 @@ cicatriser
 cratchens
 cacan
 crossbite
+chorda
 cortins
 crackability
 cicatrising
@@ -14888,7 +14889,6 @@ cytomorphological
 cyton
 caunus
 cytone
-chorda
 chess
 cartmaker
 cytopathic
