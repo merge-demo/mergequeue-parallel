@@ -1074,6 +1074,7 @@ calcimines
 crudeness
 calcimining
 choppin
+cesspipe
 crossbarred
 calcinate
 calcine
@@ -7846,7 +7847,6 @@ cessionaire
 castaway
 combos
 cessor
-cesspipe
 caching
 cesspit
 cesspits
