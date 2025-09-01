@@ -5095,7 +5095,6 @@ affectibility
 affecting
 acrorhagus
 antitangent
-affection
 amygdaloncus
 adlerian
 apostasies
@@ -24367,6 +24366,7 @@ altruistic
 autosomal
 arbalo
 autosomes
+affection
 atreptic
 adhamant
 antimiscegenation
