@@ -10801,6 +10801,7 @@ blepharoncosis
 beplumed
 bellied
 blepharoplastic
+bangboard
 blepharoptosis
 blepharosynechia
 blepharosphincterectomy
@@ -13492,7 +13493,6 @@ backpacks
 bashaw
 beadrolls
 breastful
-bangboard
 botulinus
 bottu
 botulinuses
