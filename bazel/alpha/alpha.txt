@@ -247,7 +247,6 @@ aba
 aggraded
 abdat
 anthranoyl
-apocryphon
 abashing
 admonition
 ataxonomic
@@ -6968,6 +6967,7 @@ alist
 antler
 agamis
 aphoriser
+apocryphon
 arthresthesia
 aroint
 androides
