@@ -1919,7 +1919,6 @@ crotalid
 checkered
 camera
 capitols
-counterwill
 cyprinodont
 camerae
 curbless
@@ -9332,6 +9331,7 @@ chaulmoogra
 cytodendrite
 chauna
 cotylophorous
+counterwill
 chaunoprockt
 chlorids
 chartometer
