@@ -11359,6 +11359,7 @@ dinichthys
 dinner
 discepts
 diffidentness
+damage
 degradational
 dystocias
 devaluation
@@ -14242,7 +14243,6 @@ doldrum
 dismasts
 dramatists
 dicer
-damage
 daboia
 diazeuxis
 disvisage
