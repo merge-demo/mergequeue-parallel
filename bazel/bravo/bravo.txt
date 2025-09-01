@@ -5609,7 +5609,6 @@ bumbard
 bombloads
 belaboring
 blisters
-blankit
 bulletheaded
 btl
 battlement
@@ -5935,6 +5934,7 @@ blitzkrieg
 belast
 berber
 bulwark
+blankit
 belowground
 brandenburgs
 biggety
