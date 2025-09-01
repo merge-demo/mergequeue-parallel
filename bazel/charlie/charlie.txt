@@ -2828,7 +2828,6 @@ canonicalizes
 cremor
 cadesse
 canonicate
-canonisation
 cornbin
 contermine
 cadaverine
@@ -14601,6 +14600,7 @@ cylindrite
 convulsion
 cysticercoidal
 cysticercosis
+canonisation
 cysticerus
 cysticolous
 cystid
