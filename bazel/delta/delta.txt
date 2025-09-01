@@ -3034,6 +3034,7 @@ desegregation
 deers
 deerstalkers
 detailist
+disgustingly
 deep
 deerstalking
 deerweed
@@ -12384,7 +12385,6 @@ disensoul
 dragonne
 demonomancy
 disgustfulness
-disgustingly
 digestment
 dealated
 dishabilitate
