@@ -2608,7 +2608,6 @@ canephoroi
 canepin
 cheeseflower
 chevet
-cursaro
 caner
 camelopardel
 canes
@@ -7574,6 +7573,7 @@ coassuming
 cerebropedal
 coppy
 calade
+cursaro
 coincidentally
 cerebrosclerosis
 cerebroscope
