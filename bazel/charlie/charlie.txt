@@ -10465,7 +10465,6 @@ child
 colonist
 childbearing
 childcrowing
-childed
 contaminations
 childes
 coronally
@@ -15344,6 +15343,7 @@ cappella
 clangour
 clangoured
 clangouring
+childed
 campings
 clangours
 clangs
