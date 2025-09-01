@@ -4536,7 +4536,6 @@ biradiated
 bathroot
 bater
 bool
-beaten
 bouffante
 busts
 beballed
@@ -10971,6 +10970,7 @@ bitterness
 branchiostegous
 bucketshop
 birdcatcher
+beaten
 bromocamphor
 blissful
 bughead
