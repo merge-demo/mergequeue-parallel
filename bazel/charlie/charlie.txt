@@ -2807,6 +2807,7 @@ canoes
 cardiogenesis
 cerements
 cryptoanalyst
+coin
 cukes
 canoewood
 coincident
@@ -18587,7 +18588,6 @@ coiler
 contractly
 combusted
 clerkhood
-coin
 constellating
 cephalopod
 cooperativeness

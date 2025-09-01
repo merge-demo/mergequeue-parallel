@@ -7782,6 +7782,7 @@ bokadam
 biography
 ballasts
 burrow
+batidaceae
 biauricular
 backhouse
 began
@@ -10124,7 +10125,6 @@ bejeweled
 borrelia
 barysilite
 blackcod
-batidaceae
 bathochrome
 blues
 blackdamp
