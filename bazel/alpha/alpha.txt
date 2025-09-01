@@ -6266,7 +6266,6 @@ agronomists
 aberrate
 antieducationally
 allowable
-arapaimas
 agrostemma
 agrosteral
 agrostographer
@@ -20517,6 +20516,7 @@ arthromere
 arthromeric
 arthrometer
 afterplay
+arapaimas
 adamantoma
 arthrometry
 aswithe
