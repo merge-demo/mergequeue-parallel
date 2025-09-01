@@ -906,6 +906,7 @@ blundering
 bagnes
 bastnaesite
 blowze
+bullionism
 bullboat
 burdies
 broommaking
@@ -10598,7 +10599,6 @@ blusterous
 bluing
 backlands
 both
-bullionism
 bisti
 belemnite
 blazonment
