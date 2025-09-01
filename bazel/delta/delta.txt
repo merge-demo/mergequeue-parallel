@@ -9626,7 +9626,6 @@ dihalide
 derives
 diakinetic
 deil
-dihalogen
 drayed
 differentiating
 dihdroxycholecalciferol
@@ -11041,6 +11040,7 @@ deboistness
 diasystem
 disaligned
 disalliege
+dihalogen
 deoxidization
 disallow
 displaying
