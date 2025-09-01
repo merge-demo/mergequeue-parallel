@@ -6786,6 +6786,7 @@ deskman
 desks
 dragade
 destined
+dermographic
 deslime
 dissoconch
 desmachyme
@@ -16337,7 +16338,6 @@ discharacter
 defensively
 downloading
 downness
-dermographic
 disenthralls
 dissidently
 dvaita
