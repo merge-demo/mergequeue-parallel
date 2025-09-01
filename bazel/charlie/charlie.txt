@@ -11541,7 +11541,6 @@ chimachima
 countermeasure
 cannie
 cholecystenterorrhaphy
-cholecystenterostomy
 cholecystgastrostomy
 carburisation
 cholecystic
@@ -23450,6 +23449,7 @@ contrapuntal
 chimble
 crosslap
 contentable
+cholecystenterostomy
 congregator
 contentation
 contentedly
