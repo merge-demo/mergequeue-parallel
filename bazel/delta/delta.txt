@@ -2628,7 +2628,6 @@ decian
 dozers
 dorbug
 deepens
-discernably
 decompensating
 decompensations
 dasylirion
@@ -3609,6 +3608,7 @@ def
 devices
 deglamorizing
 disrespectfulness
+discernably
 deglazed
 discoblastic
 dorsalgia
