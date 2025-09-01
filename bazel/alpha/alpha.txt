@@ -1958,7 +1958,6 @@ astel
 acerin
 agacante
 alligators
-adoxography
 archshepherd
 acetosalicylic
 amphodiplopia
@@ -10716,6 +10715,7 @@ ashthroat
 architis
 amlacra
 anlaut
+adoxography
 amlet
 amlikar
 amlong
