@@ -17346,7 +17346,6 @@ antiadiaphorist
 afret
 arcidae
 apothecial
-archenemy
 aesthetics
 aurichlorohydric
 apothecium
@@ -19946,6 +19945,7 @@ aroast
 athanasianist
 azophenyl
 anomer
+archenemy
 awearied
 accoutring
 arsoite
