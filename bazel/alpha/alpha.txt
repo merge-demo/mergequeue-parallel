@@ -1836,7 +1836,6 @@ advanced
 acetable
 acetabula
 acetabularia
-acetabulous
 antileague
 atheromas
 acetabulums
@@ -23707,6 +23706,7 @@ apposite
 astraeid
 austral
 auxetical
+acetabulous
 avianization
 achieved
 aspish
