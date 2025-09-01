@@ -8172,7 +8172,6 @@ cryptogamian
 conjunctivae
 chairwarmer
 chairwomen
-chaiseless
 chaises
 craniometrically
 comfortabilities
@@ -27205,6 +27204,7 @@ counterweights
 counterwheel
 counterwilling
 counterwitness
+chaiseless
 counterwork
 concurring
 counterworker
