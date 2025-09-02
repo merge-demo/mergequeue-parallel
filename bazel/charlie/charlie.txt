@@ -6268,7 +6268,6 @@ causator
 cuffing
 cause
 caused
-cyllosis
 causey
 calesin
 causerie
@@ -6404,6 +6403,7 @@ cavea
 caveae
 caveating
 cabbageworm
+cyllosis
 chiquitan
 cycadlike
 caveator
