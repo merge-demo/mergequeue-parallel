@@ -3350,7 +3350,6 @@ disinhuming
 darer
 deflecting
 deflectionization
-deflectionize
 dampnesses
 domal
 diamante
@@ -13226,6 +13225,7 @@ drenchingly
 dummyism
 deambulation
 dispiteousness
+deflectionize
 diuturnal
 displaceability
 danceable
