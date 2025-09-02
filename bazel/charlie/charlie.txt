@@ -6888,7 +6888,6 @@ cementification
 cyborgs
 cementin
 carane
-cementite
 cementitious
 carinaria
 claudicate
@@ -16474,6 +16473,7 @@ cursores
 clobber
 clobbered
 clobbers
+cementite
 cloche
 clochette
 clockbird
