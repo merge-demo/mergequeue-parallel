@@ -14034,6 +14034,7 @@ cypraeiform
 confinement
 cypraeoid
 cypre
+carcerated
 cypress
 courtesanry
 cistuses
@@ -19868,7 +19869,6 @@ comfit
 comfiture
 codlins
 comfort
-carcerated
 cryptoglaux
 comfortableness
 comfortation
