@@ -8600,6 +8600,7 @@ corcopali
 changedale
 covenance
 calpac
+cycasin
 canccelli
 commissaryship
 concocting
@@ -17870,7 +17871,6 @@ codicology
 calycule
 codifications
 carbamoyl
-cycasin
 codifiers
 codifies
 codifying
