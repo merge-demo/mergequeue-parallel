@@ -7153,6 +7153,7 @@ desulfurizer
 demolitions
 dynamometric
 depictor
+disunite
 desulfurs
 daphnetin
 desulphurate
@@ -8393,7 +8394,6 @@ dialists
 deacetylated
 diachylum
 dragboat
-disunite
 decked
 deflation
 desinence
