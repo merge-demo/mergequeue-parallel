@@ -6701,6 +6701,7 @@ bushelman
 brooched
 berkovets
 berkovtsi
+bregmate
 bridgekeeper
 bedull
 bayesian
@@ -15009,7 +15010,6 @@ blastophore
 bregma
 bordel
 bregmata
-bregmate
 brachypinacoidal
 brokenheartedness
 brehonia
