@@ -11256,7 +11256,6 @@ boomiest
 braver
 basketries
 blowguns
-behoving
 boycotting
 bogtrotting
 beggaries
@@ -14384,6 +14383,7 @@ brainpans
 bisley
 blighting
 brassily
+behoving
 barnstorm
 bucorvinae
 belieffulness
