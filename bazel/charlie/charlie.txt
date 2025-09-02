@@ -2533,7 +2533,6 @@ cacqueteuse
 candlepins
 chemist
 cerevis
-candler
 candlerent
 concealed
 candlers
@@ -18783,6 +18782,7 @@ curchy
 controversies
 cleistogamy
 calvinistically
+candler
 coleader
 cylindroconoidal
 colecannon

@@ -1367,7 +1367,6 @@ duelli
 definer
 dauphine
 dauphines
-drooping
 drawboard
 dauri
 dorter
@@ -13111,6 +13110,7 @@ deccennia
 dispatched
 duckish
 disesteeming
+drooping
 dispatches
 discredence
 drillings
