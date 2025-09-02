@@ -5920,6 +5920,7 @@ conjurers
 cloacinean
 cathodography
 catspaws
+clewing
 cathograph
 celia
 cathography
@@ -26495,7 +26496,6 @@ coucal
 couchancy
 couchant
 clothesmen
-clewing
 cargos
 cutter
 cantillate
