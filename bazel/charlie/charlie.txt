@@ -7540,7 +7540,6 @@ censerless
 croaks
 carus
 corrugating
-cooked
 confutator
 cava
 citrulline
@@ -23932,6 +23931,7 @@ convalescence
 convalescently
 convalescents
 convalesces
+cooked
 convalescing
 convallaria
 chalazion
