@@ -1232,7 +1232,6 @@ calenderer
 cheeping
 calendering
 confessionist
-calenders
 calendric
 calendrical
 calendula
@@ -1682,6 +1681,7 @@ cremule
 caltha
 calthrop
 chronographic
+calenders
 caltrap
 caltraps
 cervicolingual
