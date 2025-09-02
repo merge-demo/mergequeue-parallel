@@ -2780,6 +2780,7 @@ abidal
 avadavat
 acronymized
 acronymizing
+ascetic
 anchorage
 adessive
 ancylopoda
@@ -20880,7 +20881,6 @@ ascescency
 ascescent
 asceses
 almshouse
-ascetic
 amphophilous
 asceticism
 ascetta
