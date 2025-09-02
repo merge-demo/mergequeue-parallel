@@ -3850,7 +3850,6 @@ concn
 cartelize
 chylificatory
 carbonizing
-carbonometer
 carbonous
 carbons
 carbonuria
@@ -5939,6 +5938,7 @@ courtesans
 cardinalated
 cryptostomata
 chalkography
+carbonometer
 catholicisation
 cloddiest
 choreographs
