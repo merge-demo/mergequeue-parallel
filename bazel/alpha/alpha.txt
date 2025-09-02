@@ -14646,6 +14646,7 @@ ageism
 amphogeny
 antibubonic
 antibug
+amate
 avouches
 autopneumatic
 antenoon
@@ -17828,7 +17829,6 @@ aborting
 apprizer
 apprizes
 apprizing
-amate
 approach
 aristodemocracy
 anthracotheriidae
