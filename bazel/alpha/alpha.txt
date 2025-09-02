@@ -4686,6 +4686,7 @@ astrosphere
 agrobiologist
 adductive
 aerobate
+angekok
 aerobatic
 azalea
 assmanship
@@ -13060,7 +13061,6 @@ allorrhythmic
 animatedly
 actionable
 animaters
-angekok
 animating
 animation
 admirability
