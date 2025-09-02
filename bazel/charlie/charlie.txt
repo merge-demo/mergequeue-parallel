@@ -3423,6 +3423,7 @@ caducecaducean
 cobhouse
 chiastolite
 capris
+capeadors
 caprizant
 caldron
 caproin
@@ -31068,7 +31069,6 @@ chawed
 cun
 cunabular
 cunarder
-capeadors
 cunctation
 cunctative
 cunctator

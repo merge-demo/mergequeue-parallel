@@ -14604,6 +14604,7 @@ antibacteriolytic
 anaglyptograph
 antiballooner
 antibalm
+antipolemist
 antibasilican
 antibenzaldoxime
 appealer
@@ -15785,7 +15786,6 @@ antipolar
 antipole
 atypically
 antimetabole
-antipolemist
 afibrinogenemia
 acanthus
 antipolygamy
