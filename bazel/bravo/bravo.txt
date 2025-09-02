@@ -7121,7 +7121,6 @@ besprinkles
 bachelorism
 bloodied
 barefoot
-branniness
 bogglingly
 boxiana
 berhymes
@@ -14455,6 +14454,7 @@ betray
 brakie
 blastophitic
 bramble
+branniness
 brambleberry
 barfed
 branchy
