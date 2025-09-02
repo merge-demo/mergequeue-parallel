@@ -7298,6 +7298,7 @@ cephaloauricular
 chimbly
 cephalobranchiata
 chelicera
+capitolian
 cerusites
 carks
 comnenian
@@ -12694,7 +12695,6 @@ crinite
 catakinesis
 concede
 cobaltous
-capitolian
 cataloguize
 chuff
 chuffer
