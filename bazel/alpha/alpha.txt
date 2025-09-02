@@ -1874,7 +1874,6 @@ andesic
 apparelment
 acetylenic
 antony
-acetylenyl
 acetylfluoride
 appendix
 affirmance
@@ -3513,6 +3512,7 @@ adenomyxosarcoma
 adenoncus
 adenoneural
 alkalimetrically
+acetylenyl
 arrestees
 aerophysical
 adenoneure
