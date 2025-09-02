@@ -1967,7 +1967,6 @@ divulgatory
 debus
 decanally
 debused
-doohickey
 debusing
 danger
 duggler
@@ -14085,6 +14084,7 @@ distributer
 deglute
 distributing
 dispace
+doohickey
 distribution
 decretum
 dragnets
