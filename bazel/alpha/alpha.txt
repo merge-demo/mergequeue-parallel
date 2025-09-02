@@ -5652,6 +5652,7 @@ angiomatosis
 antiteetotalism
 agasp
 antismog
+archways
 agrised
 amplifier
 ashmen
@@ -19038,7 +19039,6 @@ assuages
 aphoristic
 archvisitor
 archwag
-archways
 arceuthobium
 arcifera
 arcifinious
