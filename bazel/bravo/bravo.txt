@@ -1851,7 +1851,6 @@ backstabber
 bandelette
 banderma
 bowlike
-brachytic
 blet
 bindings
 brigading
@@ -16326,6 +16325,7 @@ bicuculline
 biscayen
 buchnera
 brunelliaceous
+brachytic
 barrowist
 battology
 bitters
