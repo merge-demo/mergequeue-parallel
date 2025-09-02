@@ -7011,7 +7011,6 @@ constringent
 carrefour
 carroches
 centenier
-cosmogonies
 centennia
 cytaster
 condonations
@@ -21536,6 +21535,7 @@ cuff
 claimsmen
 ceruse
 concurred
+cosmogonies
 concurrencies
 cartilage
 concurrently
