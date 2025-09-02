@@ -6640,7 +6640,6 @@ disesteemer
 deservers
 droplight
 decadianome
-drawarm
 dipneedle
 danders
 deregulates
@@ -17700,6 +17699,7 @@ declamatoriness
 dichotomistic
 drays
 downlying
+drawarm
 dopiness
 democratifiable
 duodenojejunal
