@@ -3537,7 +3537,6 @@ capuched
 cinnamic
 chortler
 counterbase
-capucine
 capulet
 capulin
 caput
@@ -18413,6 +18412,7 @@ cognizableness
 cryogenic
 chetrums
 cognizant
+capucine
 conveyancer
 cognized
 cognizing
