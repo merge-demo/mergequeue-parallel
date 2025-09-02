@@ -910,7 +910,6 @@ caky
 clientelage
 cloragen
 consecration
-cols
 caking
 collagist
 chazzanut
@@ -2372,6 +2371,7 @@ cyprinidae
 cancellarius
 cymobotryose
 couturieres
+cols
 conessine
 chinois
 corynite
