@@ -9376,7 +9376,6 @@ combinement
 cembali
 cyclohexatriene
 crumb
-crenelating
 chawing
 chawk
 coruscating
@@ -17138,6 +17137,7 @@ coadjutress
 coadjutrix
 coadjuvate
 crasser
+crenelating
 coadminister
 civic
 combite
