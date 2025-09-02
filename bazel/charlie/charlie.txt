@@ -21972,7 +21972,6 @@ configure
 configures
 coxcombry
 confine
-comports
 confined
 chalcomancy
 cadging
@@ -25019,6 +25018,7 @@ cystonectous
 crosscourt
 celotex
 chronanagram
+comports
 corduroys
 chiliadic
 choppered
