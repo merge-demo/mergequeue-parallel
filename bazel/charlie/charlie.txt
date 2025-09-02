@@ -14510,7 +14510,6 @@ ciseaux
 clonorchis
 courante
 cising
-cisium
 cisjurane
 cisleithan
 cismontanism
@@ -25579,6 +25578,7 @@ citizenizing
 crankier
 corporeous
 corporify
+cisium
 chapterful
 corporification
 corporosity
