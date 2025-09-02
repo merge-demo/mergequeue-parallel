@@ -1403,7 +1403,6 @@ dispraiser
 dorsiflexor
 delis
 dissatisfactoriness
-desipient
 diligentia
 disintegrable
 dulcid
@@ -17546,6 +17545,7 @@ dendroidea
 doorhawk
 drawability
 ditrocha
+desipient
 degassers
 drugs
 druidess
