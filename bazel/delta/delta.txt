@@ -452,7 +452,6 @@ dingthrift
 disinthrall
 donjons
 drenchers
-dimyaric
 diathermous
 defiance
 discept
@@ -6808,6 +6807,7 @@ desmine
 degenerates
 dextrocardial
 diffidence
+dimyaric
 dissention
 dendrograph
 defeminize
