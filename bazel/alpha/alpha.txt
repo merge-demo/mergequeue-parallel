@@ -11992,7 +11992,6 @@ actuaryship
 anatidae
 amidstream
 abandoned
-anatifer
 antiatonement
 anatole
 arched
@@ -14806,6 +14805,7 @@ ankaratrite
 ambassadress
 anticlergy
 anticlericalism
+anatifer
 anticlericalist
 acidophilous
 azygobranchia
