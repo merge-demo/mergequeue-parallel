@@ -1295,6 +1295,7 @@ datsuns
 diatribe
 disband
 demineralizer
+discina
 dysodyle
 doitrified
 dardanarius
@@ -13917,7 +13918,6 @@ deaf
 distichlis
 dephased
 distichous
-discina
 dod
 distil
 derisive
