@@ -2902,7 +2902,6 @@ actinoblast
 actinobranch
 abdication
 actinochemistry
-actinocrinid
 alalunga
 antireligious
 actinocrinite
@@ -15350,6 +15349,7 @@ atelognathia
 antimale
 antimaniac
 amylums
+actinocrinid
 antiprogressive
 androlepsy
 asslike
