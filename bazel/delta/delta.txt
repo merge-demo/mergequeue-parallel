@@ -8681,7 +8681,6 @@ diastases
 diglossia
 disgustedness
 dryads
-discrediting
 dialectology
 diazepam
 diastasimetry
@@ -17562,6 +17561,7 @@ dissimulations
 demihag
 dellaring
 doctrinaire
+discrediting
 disgustedly
 dewormed
 disroot
