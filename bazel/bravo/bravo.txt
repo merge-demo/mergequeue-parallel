@@ -3511,7 +3511,6 @@ baiters
 batavi
 butylated
 buzzsaw
-bidar
 biscuiting
 batavian
 bugeye
@@ -6517,6 +6516,7 @@ beetleheaded
 brandi
 bequalm
 belgae
+bidar
 bioblast
 bklr
 bequeathed
