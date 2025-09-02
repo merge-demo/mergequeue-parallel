@@ -16220,7 +16220,6 @@ blonds
 brucellae
 bleared
 boussingaultia
-barrios
 botryopteris
 brucellosis
 barely
@@ -17096,6 +17095,7 @@ balkanization
 bullyrag
 butcherly
 bullyragger
+barrios
 bala
 bullocks
 booklice
