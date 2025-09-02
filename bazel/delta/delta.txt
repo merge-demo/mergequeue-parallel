@@ -8099,7 +8099,6 @@ disgross
 drawable
 dhurra
 detrimentalness
-definienda
 di
 diabetes
 diaphyses
@@ -10459,6 +10458,7 @@ devinct
 dow
 disobliging
 douzainier
+definienda
 duenna
 denotate
 dashikis

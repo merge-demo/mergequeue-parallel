@@ -2548,6 +2548,7 @@ broadhorn
 bilamellar
 begster
 brained
+bosque
 beltways
 burghalpenny
 bloodberry
@@ -13218,7 +13219,6 @@ buggier
 barbels
 binocle
 bosporanic
-bosque
 bosques
 blastulas
 blunderings
