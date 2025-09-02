@@ -7225,7 +7225,6 @@ cryptococcal
 cerebroganglionic
 cohobated
 christianize
-centuple
 clematises
 centuples
 codbank
@@ -20637,6 +20636,7 @@ cryptographist
 cardiemphraxia
 complaint
 counteranswer
+centuple
 complaintiveness
 complaints
 complaisant
