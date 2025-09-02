@@ -7598,6 +7598,7 @@ cerebrosuria
 cerebrovascular
 collarets
 cucuyo
+colinear
 coiffing
 curettes
 concessionist
@@ -18875,7 +18876,6 @@ chequy
 colymbus
 choroid
 chaines
-colinear
 chelodina
 chadars
 cabins

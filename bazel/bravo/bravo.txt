@@ -10406,6 +10406,7 @@ blankness
 boojum
 blanks
 beesting
+bangster
 boomers
 buzziest
 bookfair
@@ -17735,7 +17736,6 @@ burnwood
 basileus
 browsage
 burped
-bangster
 blucher
 butomus
 blackishly
