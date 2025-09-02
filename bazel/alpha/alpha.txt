@@ -2197,7 +2197,6 @@ acider
 acidhead
 azimech
 acidy
-apologias
 acetamid
 amamau
 abatjours
@@ -8188,6 +8187,7 @@ alilonghi
 alimentary
 arundinaceous
 alantol
+apologias
 alimentariness
 austrophilism
 alimentation

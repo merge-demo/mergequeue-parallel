@@ -10677,7 +10677,6 @@ counterdefender
 chimneyman
 chimneypiece
 chimopelagic
-chymotrypsinogen
 creedalism
 charivariing
 coilsmith
@@ -17271,6 +17270,7 @@ coalite
 cephalacanthidae
 counterbalances
 confederated
+chymotrypsinogen
 cytoplasm
 cleans
 crumple
