@@ -5176,6 +5176,7 @@ dyings
 daemon
 doghole
 decephalization
+doyen
 deathly
 diaheliotropic
 detruncating
@@ -7347,7 +7348,6 @@ dollbeer
 daysman
 duecentos
 doctrinist
-doyen
 deterrence
 declaim
 duogravure
