@@ -4992,7 +4992,6 @@ almacen
 aestheticism
 aestheticist
 analyticity
-almoin
 aestii
 avocate
 aestivates
@@ -9588,6 +9587,7 @@ alurgite
 autocephalic
 alushtite
 alvah
+almoin
 anecdotist
 alveary
 alvearies
