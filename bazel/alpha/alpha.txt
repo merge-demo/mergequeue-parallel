@@ -15884,7 +15884,6 @@ ablepharous
 agglutinating
 antiquaries
 antiquartan
-americas
 acquital
 aliasing
 antiquated
@@ -16368,6 +16367,7 @@ antrorse
 antrorsely
 antroscope
 axfetch
+americas
 antrotympanitis
 antrotomy
 aspring
