@@ -2857,7 +2857,6 @@ decumbent
 disfurnishment
 dugdug
 danais
-doloroso
 diphthongising
 daedalist
 driftless
@@ -6121,6 +6120,7 @@ deservedness
 demicylindrical
 deratized
 derats
+doloroso
 deratted
 deratting
 draperies
