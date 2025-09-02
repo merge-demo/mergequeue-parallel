@@ -996,7 +996,6 @@ crapshooter
 conveyances
 craters
 caggy
-ciguatera
 capsulated
 cher
 compression
@@ -25194,6 +25193,7 @@ corynocarpaceous
 corynocarpus
 corynteria
 corinthes
+ciguatera
 corinthiac
 comedians
 corinthianize
