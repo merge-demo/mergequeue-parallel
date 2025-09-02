@@ -5704,7 +5704,6 @@ blankite
 budge
 bushongo
 brerd
-burials
 belight
 booklike
 baaed
@@ -7805,6 +7804,7 @@ bewreath
 bealtine
 bibiri
 brad
+burials
 barefisted
 bartizan
 bohmite
