@@ -23343,6 +23343,7 @@ catechumenate
 congests
 coverups
 contactor
+cuing
 contacts
 contactual
 colluder
@@ -30711,7 +30712,6 @@ cuif
 collimation
 cuifs
 cuinage
-cuing
 cuirassed
 cuirasses
 cuirassier
