@@ -1384,7 +1384,6 @@ calypsist
 criollas
 calypso
 corseque
-copals
 calypsoes
 cowheel
 calypsos
@@ -4783,6 +4782,7 @@ cetaceous
 carry
 carriage
 clachans
+copals
 crumminess
 chars
 carriages
