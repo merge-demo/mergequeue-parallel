@@ -3551,7 +3551,6 @@ agib
 approachless
 adenotome
 articulable
-adenotomic
 adenous
 adenoviruses
 adeona
@@ -11457,6 +11456,7 @@ archaeopteryx
 ageists
 alfakis
 anabasine
+adenotomic
 anabasse
 aldermanly
 anabathrum
