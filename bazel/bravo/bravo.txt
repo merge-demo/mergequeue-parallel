@@ -14984,7 +14984,6 @@ binapthyl
 benote
 befetter
 betiding
-bicuspidal
 bygane
 baffle
 breenger
@@ -17962,6 +17961,7 @@ bobachee
 bromometric
 barkeeper
 blobbiest
+bicuspidal
 busily
 beetled
 busine
