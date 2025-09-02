@@ -5690,7 +5690,6 @@ bemuzzles
 boilingly
 beliefless
 badman
-beliers
 benzacridine
 blemishing
 belies
@@ -11573,6 +11572,7 @@ budgeted
 boanergism
 bisontine
 board
+beliers
 boardinghouse
 boardings
 boardsmanship
