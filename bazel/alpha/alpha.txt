@@ -5084,6 +5084,7 @@ autotroph
 affectations
 adorners
 acidophil
+aworth
 affectedly
 affectibility
 affecting
@@ -9486,7 +9487,6 @@ altostratus
 altrices
 antipart
 aglets
-aworth
 atheism
 apnoeic
 autoionization
