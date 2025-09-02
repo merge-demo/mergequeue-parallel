@@ -6318,7 +6318,6 @@ anaplasis
 aphroditic
 arnold
 acidaemia
-aguroth
 apostrophic
 acquitting
 acalycinous
@@ -10082,6 +10081,7 @@ ambsaces
 anagrammatic
 almogavar
 ambulacra
+aguroth
 acuation
 ambulacrum
 anyways
