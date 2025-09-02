@@ -13935,7 +13935,6 @@ cynophilic
 climatotherapy
 cynophilist
 chilognath
-cynophobe
 cent
 cynophobia
 counterchange
@@ -18447,6 +18446,7 @@ conjecture
 crestmoreite
 chaogenous
 coguarantor
+cynophobe
 chaotical
 cogway
 cerite

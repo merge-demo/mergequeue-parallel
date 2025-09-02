@@ -7816,6 +7816,7 @@ alethopteis
 alethopteroid
 anklebones
 acetabuliform
+arugula
 archidium
 alethoscope
 anthogenous
@@ -11958,7 +11959,6 @@ acidity
 anastomosing
 acrologic
 anastomus
-arugula
 advocator
 anapaestical
 advisements
