@@ -16486,6 +16486,7 @@ clockmaker
 cryophorus
 crewer
 clocksmith
+carpospore
 clockwatcher
 clockwise
 clockworked
@@ -24651,7 +24652,6 @@ caseworker
 corollaceous
 cola
 corage
-carpospore
 coillen
 copperbottom
 copperer
