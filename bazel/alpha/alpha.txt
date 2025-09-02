@@ -9519,7 +9519,6 @@ affairs
 aeroembolism
 adenodiastasis
 ascence
-alulae
 alulim
 agrom
 apometabolous
@@ -11066,6 +11065,7 @@ amphanthium
 ampherotokous
 arms
 amphetamine
+alulae
 aortectasia
 adjutancies
 antirationality
