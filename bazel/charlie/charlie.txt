@@ -4981,7 +4981,6 @@ carvoeira
 carvoepra
 carwash
 clamatorial
-carwashes
 chider
 carzey
 casablanca
@@ -10508,6 +10507,7 @@ chiliadron
 chiliads
 connexity
 chiliahedron
+carwashes
 chiliarchia
 chiliast
 commuting
