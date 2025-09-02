@@ -16702,7 +16702,6 @@ aphidlion
 aphidozer
 abecedarian
 aphodi
-archipterygium
 avant
 abelian
 amphigonia
@@ -25342,6 +25341,7 @@ azorubine
 aldermanic
 acylation
 answerable
+archipterygium
 agonising
 antheming
 azotemias
