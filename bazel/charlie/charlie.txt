@@ -5469,7 +5469,6 @@ conicein
 ceratothecal
 cardiological
 catadicrotic
-cronie
 cursal
 catadicrotism
 cartbote
@@ -30487,6 +30486,7 @@ contraclockwise
 conciliar
 counterweighed
 cubby
+cronie
 cavin
 cubbyhouse
 codein
