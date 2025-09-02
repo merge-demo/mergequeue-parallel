@@ -10474,7 +10474,6 @@ blastochyle
 blastocoel
 blastocoele
 becharming
-blatjang
 bakestone
 bioscope
 biologistic
@@ -14624,6 +14623,7 @@ bogle
 broilingly
 buffets
 beginners
+blatjang
 bitted
 brasils
 brasque
