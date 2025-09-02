@@ -18560,7 +18560,6 @@ archaeotherium
 agriotypus
 archai
 anthropologic
-archaic
 acing
 anisol
 apogaic
@@ -22146,6 +22145,7 @@ acoemetic
 astragalotibial
 anomalism
 astragalus
+archaic
 archaeolith
 astrain
 antimissile
