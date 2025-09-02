@@ -2915,7 +2915,6 @@ doggoner
 dedicators
 deaconry
 detains
-ducatus
 divagation
 drossier
 dansk
@@ -18452,6 +18451,7 @@ dogsbody
 duplicators
 duncehood
 daidle
+ducatus
 dysphemize
 dactylograph
 demichamfron
