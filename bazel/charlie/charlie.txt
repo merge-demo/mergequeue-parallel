@@ -12600,6 +12600,7 @@ chronothermal
 chronotropic
 countable
 collocution
+cordy
 cheney
 chilidium
 chalybes
@@ -22263,7 +22264,6 @@ conglomerate
 carolling
 cylices
 conglomerating
-cordy
 conglomeration
 corticin
 conglomerations
