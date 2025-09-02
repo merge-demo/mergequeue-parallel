@@ -12688,7 +12688,6 @@ angioparesis
 antinosarian
 angiopathy
 aeneolithic
-angioplasty
 asynapsis
 angiopressure
 angiorrhagia
@@ -21449,6 +21448,7 @@ amidoxy
 angioataxia
 aspidiske
 artfully
+angioplasty
 autotypies
 aspidistra
 aminoquinoline
