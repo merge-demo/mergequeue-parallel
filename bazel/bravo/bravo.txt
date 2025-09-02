@@ -3663,6 +3663,7 @@ bovines
 bailiffwick
 booboo
 balloonfishes
+burnouts
 batsman
 borschts
 besetting
@@ -8994,7 +8995,6 @@ bize
 bitentaculate
 busheler
 barbershop
-burnouts
 biontic
 biophagism
 biophilous
