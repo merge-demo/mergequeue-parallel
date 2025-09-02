@@ -6755,6 +6755,7 @@ bosquet
 blockheaded
 berries
 burnished
+brantness
 beaut
 buhls
 barytosulphate
@@ -14580,7 +14581,6 @@ bedcord
 brantle
 bacteriologic
 bibliomanism
-brantness
 brants
 bararesque
 brasen
