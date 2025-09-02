@@ -5468,7 +5468,6 @@ conicein
 ceratothecal
 cardiological
 catadicrotic
-chitterlings
 cronie
 cursal
 catadicrotism
@@ -24158,6 +24157,7 @@ convicts
 crosshatch
 convince
 convinced
+chitterlings
 convincement
 claw
 cystomorphous
