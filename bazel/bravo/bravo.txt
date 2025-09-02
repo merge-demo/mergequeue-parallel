@@ -1427,6 +1427,7 @@ bobance
 battable
 balefires
 barmbrack
+bungey
 balefully
 branned
 baleys
@@ -11435,7 +11436,6 @@ blintze
 biddery
 ballgame
 borophenol
-bungey
 bluewoods
 bruckleness
 berapt
