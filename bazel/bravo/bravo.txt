@@ -3786,7 +3786,6 @@ boatsmanship
 blksize
 bitterbush
 brujas
-binitarian
 bantay
 birring
 bootleg
@@ -11908,6 +11907,7 @@ betutor
 bourns
 bailiff
 botonn
+binitarian
 backboneless
 bisaxillary
 bogatyr
