@@ -1774,6 +1774,7 @@ bitripinnatifid
 buses
 biretta
 bedraggling
+baldest
 balustrading
 bulbed
 bivvy
@@ -2068,7 +2069,6 @@ bannerole
 blossomry
 bronchus
 bcf
-baldest
 bannerols
 bannisters
 bizen
