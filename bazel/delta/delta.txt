@@ -1835,6 +1835,7 @@ debellator
 darapti
 drugmaker
 deplume
+didrachmas
 disgregate
 defeise
 dispending
@@ -10592,7 +10593,6 @@ discoblastula
 diplocoria
 diploe
 disbalancement
-didrachmas
 dispend
 demothball
 dependable
