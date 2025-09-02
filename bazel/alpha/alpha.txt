@@ -10995,7 +10995,6 @@ assibilation
 amortizes
 albizias
 atop
-arecaceae
 anaclisis
 anoesis
 amorua
@@ -15443,6 +15442,7 @@ auxochromic
 agreeability
 absentness
 astrophysics
+arecaceae
 anthracnose
 angelot
 aveugle
