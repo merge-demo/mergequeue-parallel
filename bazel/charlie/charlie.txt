@@ -3320,7 +3320,6 @@ contrasty
 caponizer
 caponizing
 crankless
-capons
 caporal
 caporals
 condyle
@@ -24089,6 +24088,7 @@ catoptrics
 converso
 chomper
 conversusi
+capons
 chylocele
 converters
 convertibility
