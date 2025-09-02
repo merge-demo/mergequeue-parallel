@@ -8297,6 +8297,7 @@ baraza
 barenecked
 bakepan
 barbarous
+beadlet
 brahmani
 biggy
 biggie
@@ -15461,7 +15462,6 @@ brioches
 blase
 bitwise
 bimas
-beadlet
 buzzing
 bryony
 buildingless
