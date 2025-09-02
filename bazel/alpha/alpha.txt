@@ -2118,7 +2118,6 @@ achillodynia
 antiracer
 ashmolean
 aethereal
-achromatous
 antecabinet
 alleviation
 achrodextrinase
@@ -22661,6 +22660,7 @@ atlantoodontoid
 autokrator
 atlases
 amplificator
+achromatous
 atloid
 atloidean
 arousals
