@@ -8290,7 +8290,6 @@ dagesh
 desonation
 digitation
 doombook
-dialyzer
 diagrams
 db
 dispossess
@@ -11461,6 +11460,7 @@ dermorhynchous
 drossing
 defend
 dastardy
+dialyzer
 dockyard
 dissuader
 determinoid
