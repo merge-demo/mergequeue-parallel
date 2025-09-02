@@ -2917,6 +2917,7 @@ currawong
 canter
 cladosporium
 curlpaper
+clavichord
 custumals
 cryptoprocta
 cantering
@@ -15710,7 +15711,6 @@ carneys
 clavicembalo
 claviceps
 caiarara
-clavichord
 caulopteris
 colonialistic
 clavicymbal
