@@ -10887,6 +10887,7 @@ bignoniad
 bombers
 blindstories
 brede
+baktun
 blindweed
 blindworm
 bipinnatipartite
@@ -14507,7 +14508,6 @@ belozenged
 branchiopoda
 branner
 brandish
-baktun
 bonding
 belugite
 bedumbed
