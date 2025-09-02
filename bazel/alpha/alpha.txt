@@ -1872,6 +1872,7 @@ andesic
 apparelment
 acetylenic
 antony
+ametropic
 acetylfluoride
 appendix
 affirmance
@@ -9016,7 +9017,6 @@ anemometric
 antacid
 alluvious
 assortative
-ametropic
 allwhere
 accipitres
 applejack

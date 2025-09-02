@@ -9380,7 +9380,6 @@ crenelating
 chawing
 chawk
 coruscating
-chawn
 carbonero
 chitarrino
 coying
@@ -20682,6 +20681,7 @@ croftland
 cadential
 completers
 coeffluential
+chawn
 coronership
 circumcrescence
 completing
