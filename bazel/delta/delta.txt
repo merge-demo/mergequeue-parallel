@@ -1784,7 +1784,6 @@ debarking
 digamist
 discede
 debarkment
-doohickeys
 debarment
 debarrance
 duryl
@@ -17452,6 +17451,7 @@ dropt
 dropwort
 damlike
 dogal
+doohickeys
 dogeships
 dinarchy
 diener
