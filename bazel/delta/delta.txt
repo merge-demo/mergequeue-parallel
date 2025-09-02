@@ -1035,6 +1035,7 @@ distains
 darkmans
 disannexation
 dineutron
+dharana
 dozily
 daggly
 dissatisfied
@@ -18484,7 +18485,6 @@ delator
 dispersant
 diapers
 diarrheas
-dharana
 distinctive
 dermatophony
 devastavit
