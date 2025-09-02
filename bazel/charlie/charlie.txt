@@ -1068,6 +1068,7 @@ calciminer
 calcimines
 crudeness
 calcimining
+centrifugalisation
 choppin
 cesspipe
 crossbarred
@@ -7154,7 +7155,6 @@ cremant
 clodpate
 centrically
 compensability
-centrifugalisation
 crossing
 corruptest
 centrifugalize
