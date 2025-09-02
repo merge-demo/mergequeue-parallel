@@ -9904,6 +9904,7 @@ bedivere
 bana
 bedrivelling
 bere
+buro
 bituminoid
 belsire
 bipropellant
@@ -14961,7 +14962,6 @@ bemusedly
 bardling
 bellicoseness
 butterflyfish
-buro
 barelegged
 biosatellite
 brucella
