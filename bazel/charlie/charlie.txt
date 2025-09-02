@@ -6407,7 +6407,6 @@ caveator
 choaty
 caveators
 compares
-crankly
 canell
 cavefish
 cavey
@@ -10194,6 +10193,7 @@ chlorochrous
 chamomilla
 chorisepalous
 chiarooscuro
+crankly
 chiaroscuros
 chuvash
 coulis
