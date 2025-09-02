@@ -7275,7 +7275,6 @@ clapping
 conicity
 carnelians
 cryptolunatic
-chloro
 cephala
 caucasus
 crushes
@@ -15806,6 +15805,7 @@ chlorion
 clearage
 clearance
 clearances
+chloro
 coteller
 counterfeitness
 curuminaca
