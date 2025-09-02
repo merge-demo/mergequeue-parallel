@@ -226,6 +226,7 @@ dunny
 discussing
 dispond
 defection
+dehisces
 daffiness
 daffodilly
 drifted
@@ -1210,7 +1211,6 @@ dunts
 dillydallying
 datagram
 datagrams
-dehisces
 degging
 doormat
 devilhood
