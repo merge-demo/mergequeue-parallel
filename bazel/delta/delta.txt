@@ -10055,7 +10055,6 @@ devisals
 diphenylhydantoin
 deflate
 defailance
-diselectrify
 dynamism
 dogless
 dozier
@@ -14301,6 +14300,7 @@ deliriate
 diter
 diluter
 ditertiary
+diselectrify
 disyokes
 dooms
 dithecal
