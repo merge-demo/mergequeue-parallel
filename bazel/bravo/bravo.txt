@@ -7955,7 +7955,6 @@ bicyclers
 backtracked
 biopoesis
 bicyclic
-bicyclism
 brachystaphylic
 blastaea
 bicyclist
@@ -9889,6 +9888,7 @@ biogenesis
 bittiest
 blatherer
 bittings
+bicyclism
 boodle
 bitubercular
 blackleg
