@@ -470,7 +470,6 @@ bristlemouth
 blackish
 bronzers
 blaspheming
-bibliographic
 benzhydroxamic
 backswept
 backspaced
@@ -11260,6 +11259,7 @@ blancard
 beshackle
 blowholes
 blowie
+bibliographic
 beryline
 backups
 blowing
