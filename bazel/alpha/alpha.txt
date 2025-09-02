@@ -7524,7 +7524,6 @@ asthenies
 alcippe
 airplaned
 axolemma
-antefurca
 actual
 alcmene
 alcogene
@@ -8858,6 +8857,7 @@ auxiliatory
 atloaxoid
 allophanamid
 allophanates
+antefurca
 atypicality
 acredula
 allophyle
