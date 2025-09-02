@@ -3402,7 +3402,6 @@ capriform
 caprigenous
 caprylic
 cymene
-caprylyl
 caprock
 coat
 caprylone
@@ -27269,6 +27268,7 @@ cocus
 calked
 czarowitch
 couping
+caprylyl
 couple
 couplement
 coupler
