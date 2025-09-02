@@ -9950,6 +9950,7 @@ damageableness
 devitalisation
 dogmata
 diminisher
+dialectally
 dezinc
 diminishingly
 dyspeptic
@@ -15922,7 +15923,6 @@ doruck
 decatoic
 daimyo
 despiting
-dialectally
 disboweling
 dorsoposterior
 dorsosacral
