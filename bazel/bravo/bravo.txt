@@ -7916,7 +7916,6 @@ bodymaker
 billing
 barothermogram
 bibulously
-bibulousness
 bicameralism
 broomweed
 bodegones
@@ -12004,6 +12003,7 @@ barysphere
 buybacks
 bilinigrin
 blander
+bibulousness
 bronchiolus
 blowzing
 bluesman
