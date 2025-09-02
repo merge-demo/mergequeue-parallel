@@ -5619,6 +5619,7 @@ balt
 brocks
 barb
 becuffed
+basis
 brumaire
 billyer
 br
@@ -10850,7 +10851,6 @@ britishers
 beelzebubian
 boatwise
 brokership
-basis
 blattiform
 budgeters
 blin
