@@ -7340,7 +7340,6 @@ coquettishness
 cephalomant
 cephalomeningitis
 compute
-cleansing
 cephalomere
 chipling
 cyclostylar
@@ -10050,6 +10049,7 @@ cherubim
 cherubimic
 cherubimical
 cherublike
+cleansing
 calzone
 cherusci
 colonialising
