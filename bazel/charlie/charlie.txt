@@ -3279,6 +3279,7 @@ coherald
 capmaking
 combatter
 capnodium
+chapaties
 capnoides
 clipping
 creaker
@@ -9643,7 +9644,6 @@ cheesecloths
 caramba
 cognizably
 concursus
-chapaties
 chocard
 cheeselep
 cheeselip
