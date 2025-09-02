@@ -2947,7 +2947,6 @@ barricadoes
 boyism
 boondoggled
 bimolecularly
-blayk
 breathing
 beaverish
 bemazed
@@ -12703,6 +12702,7 @@ bookishness
 boxty
 boron
 breviate
+blayk
 barrenwort
 becudgelling
 barging
