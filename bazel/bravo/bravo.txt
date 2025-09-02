@@ -6986,7 +6986,6 @@ baalist
 boninesses
 bespouses
 boxhaul
-boma
 benzines
 besnowing
 besognier
@@ -17554,6 +17553,7 @@ basifixed
 butyraceous
 bervie
 brushball
+boma
 bemol
 burgeon
 burgeoning
