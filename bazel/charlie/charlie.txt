@@ -8903,7 +8903,6 @@ crutches
 caramboled
 charcoaly
 collecting
-charcoaling
 cryptologic
 coformulator
 closterium
@@ -29817,6 +29816,7 @@ conflates
 cowslipped
 callow
 crossbeam
+charcoaling
 capillus
 crossbeams
 cosmorganic
