@@ -4310,7 +4310,6 @@ downgrowth
 demasculinise
 divisors
 dem
-demagnetisation
 demitasse
 dovelet
 detraining
@@ -11655,6 +11654,7 @@ discontinuances
 dambonite
 debuts
 discontinue
+demagnetisation
 dishabit
 discontinuee
 disprepare
