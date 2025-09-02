@@ -4290,7 +4290,6 @@ canonicity
 cladophyll
 codeias
 caribing
-caribous
 calpacked
 candier
 carica
@@ -13548,6 +13547,7 @@ cimaise
 cicatriculae
 centare
 cafe
+caribous
 colament
 cymaise
 cort
