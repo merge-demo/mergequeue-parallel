@@ -467,7 +467,6 @@ daysides
 deprevation
 daysmen
 dayspring
-direst
 deplorer
 disthrall
 deino
@@ -11591,6 +11590,7 @@ discommodities
 disubstituted
 defassa
 discommoned
+direst
 dextrinase
 detective
 denationalised
