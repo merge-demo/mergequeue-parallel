@@ -1552,7 +1552,6 @@ clothmaker
 callowman
 callowness
 cholecystalgia
-clarice
 counterpaled
 cinderella
 corded
@@ -22895,6 +22894,7 @@ coalizing
 considerate
 codiaeum
 cephalometer
+clarice
 consideration
 considerations
 considerativeness
