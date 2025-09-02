@@ -3824,7 +3824,6 @@ animalculum
 asters
 adjustably
 alalia
-astre
 armozeen
 adjusting
 akindle
@@ -16493,6 +16492,7 @@ agrafes
 apagogically
 apagogue
 apay
+astre
 apayao
 apaid
 allochetia
