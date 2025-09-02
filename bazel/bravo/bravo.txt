@@ -10982,7 +10982,6 @@ bawbee
 belikely
 bribemonger
 blackface
-bident
 bailers
 buggymen
 babysit
@@ -13121,6 +13120,7 @@ baksheesh
 bornites
 bornitic
 berob
+bident
 borofluohydric
 boroglycerine
 borohydride
