@@ -4198,6 +4198,7 @@ clericalists
 covenant
 characteristic
 coauthored
+cumulates
 cashel
 cursillo
 careless
@@ -31042,7 +31043,6 @@ cephalophus
 contemplatively
 carnies
 certainties
-cumulates
 cimeliarch
 cumulation
 cleanlier
