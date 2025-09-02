@@ -14760,6 +14760,7 @@ antechamber
 anticyclical
 apocodeine
 anticyclogenesis
+anchoring
 anticyclolysis
 aphotic
 anticyclones
@@ -17701,7 +17702,6 @@ appmt
 asphyxiate
 artemia
 arthrosclerosis
-anchoring
 appals
 antistatic
 askesis
