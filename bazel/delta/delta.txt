@@ -10205,6 +10205,7 @@ dingman
 doven
 declassified
 dings
+detectable
 despises
 dzeron
 depopularize
@@ -11772,7 +11773,6 @@ diswench
 discradle
 deprivation
 dockhands
-detectable
 dyscrasic
 demissness
 dactylologies

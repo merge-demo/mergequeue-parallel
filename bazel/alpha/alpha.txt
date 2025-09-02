@@ -14555,7 +14555,6 @@ antianxiety
 arrenotokous
 antiaphrodisiac
 antiboss
-antiapoplectic
 attaching
 antiaquatic
 aortographic
@@ -20951,6 +20950,7 @@ albumenize
 asclepin
 adamant
 ashpan
+antiapoplectic
 aerogenesis
 ascocarp
 ascocarpous
