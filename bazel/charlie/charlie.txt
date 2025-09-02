@@ -4314,7 +4314,6 @@ caridean
 carunculous
 cirrhous
 carien
-cariform
 carijona
 constructs
 culvertage
@@ -7868,6 +7867,7 @@ cetic
 cocytus
 ceticide
 chitinization
+cariform
 cetyl
 caquet
 cebids
