@@ -27244,7 +27244,6 @@ countryfolk
 closewing
 countryman
 congeable
-counterpendent
 countrymen
 crullers
 coadjust
@@ -28613,6 +28612,7 @@ catathymic
 cremone
 chromophilia
 choirboy
+counterpendent
 chasmal
 cremorne
 committeemen
