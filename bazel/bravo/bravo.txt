@@ -13700,7 +13700,6 @@ boutefeu
 bouteria
 bet
 braking
-boutylka
 boutique
 boches
 bouto
@@ -14015,6 +14014,7 @@ basiate
 blackguards
 beadlehood
 boraginaceae
+boutylka
 blubbering
 bowerly
 brachialis
