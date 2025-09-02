@@ -13517,7 +13517,6 @@ bibliophile
 bra
 burdening
 basiventral
-bangia
 bobs
 binucleolate
 basommatophora
@@ -15419,6 +15418,7 @@ brindlish
 bryndza
 bleaters
 balloonfish
+bangia
 bearskins
 brineless
 bombardment
