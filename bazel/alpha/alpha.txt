@@ -12081,7 +12081,6 @@ aposia
 anchieutectic
 affectuous
 allbone
-anchimonomineral
 amblygon
 anchisaurus
 aegirite
@@ -18724,6 +18723,7 @@ agoniatite
 archers
 aghlabite
 acetonurometer
+anchimonomineral
 arches
 albumosuria
 apehood
