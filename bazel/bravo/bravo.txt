@@ -13913,7 +13913,6 @@ baltimorean
 brushoffs
 boskages
 bowstring
-burial
 broose
 bacteriotropic
 binoculate
@@ -15291,6 +15290,7 @@ bother
 brigadier
 brachypterous
 bandhu
+burial
 brigantia
 brigatry
 brigetty
