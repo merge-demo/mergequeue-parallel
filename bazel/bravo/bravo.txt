@@ -5588,7 +5588,6 @@ burrio
 bacchuslike
 beknottedly
 basophile
-biotype
 bingos
 blimpishly
 bel
@@ -15196,6 +15195,7 @@ blastomycetous
 bahur
 biwa
 butomaceae
+biotype
 beach
 brecken
 bismarine
