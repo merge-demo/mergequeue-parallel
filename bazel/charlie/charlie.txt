@@ -6741,6 +6741,7 @@ cerianthoid
 clearway
 celioparacentesis
 caribe
+chromatospheric
 cerinthian
 cowshard
 capless
@@ -29155,7 +29156,6 @@ constipate
 cryosel
 cryospheric
 criosphinx
-chromatospheric
 cytotaxonomically
 criosphinxes
 catrigged
