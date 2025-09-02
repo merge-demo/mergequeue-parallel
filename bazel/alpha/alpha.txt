@@ -4920,6 +4920,7 @@ abnormality
 apostrophise
 aeroplaner
 aeroplanes
+alcazars
 archboutefeu
 aeroplanist
 asker
@@ -14292,7 +14293,6 @@ apselaphesis
 anthozoon
 anthracia
 anthracyl
-alcazars
 anthracin
 anthracitic
 anagoge
