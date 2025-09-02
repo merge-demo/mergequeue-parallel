@@ -2358,7 +2358,6 @@ barbula
 barbulate
 barbulyie
 blastomycin
-barbwire
 barbwires
 burseraceae
 bullpout
@@ -16091,6 +16090,7 @@ borrowing
 bramblier
 brachylogies
 brothering
+barbwire
 brailed
 bivalvular
 belched
