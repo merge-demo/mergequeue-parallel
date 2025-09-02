@@ -9583,6 +9583,7 @@ bummer
 backbeats
 bonete
 brince
+bolder
 bishopdom
 bilateral
 bishopling
@@ -15647,7 +15648,6 @@ bejig
 bromethyl
 brob
 betorcin
-bolder
 bathala
 blowoffs
 brocaded

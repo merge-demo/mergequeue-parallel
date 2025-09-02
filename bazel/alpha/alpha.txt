@@ -11823,7 +11823,6 @@ alcaligenes
 ail
 anaphases
 anaphe
-apperception
 albumens
 apexing
 astrometry
@@ -19376,6 +19375,7 @@ awarder
 argillic
 aspalathus
 argilliferous
+apperception
 aelurophobe
 arrivederla
 adrenocorticosteroid
