@@ -2663,7 +2663,6 @@ caninities
 caninus
 conflagrated
 coleorhizae
-chromophile
 canions
 crevice
 circumnavigations
@@ -29203,6 +29202,7 @@ cryptarch
 cryptarchy
 caracols
 crypteroniaceae
+chromophile
 cryptical
 cryptically
 crypticness
