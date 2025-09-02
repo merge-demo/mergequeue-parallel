@@ -2760,6 +2760,7 @@ cine
 cannister
 cannoli
 cannonaded
+celioschisis
 cohorts
 cannonading
 cannonarchy
@@ -7603,7 +7604,6 @@ canonici
 counterpoint
 congregates
 cereous
-celioschisis
 cuddyhole
 cerebellitis
 chark
