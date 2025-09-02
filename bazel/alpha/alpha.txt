@@ -1781,7 +1781,6 @@ acequia
 aethered
 acer
 aceraceous
-acerae
 arcual
 acerate
 acerated
@@ -10856,6 +10855,7 @@ antherids
 algidness
 amniotic
 amniotin
+acerae
 alkaligen
 amniotitis
 agrammatism
