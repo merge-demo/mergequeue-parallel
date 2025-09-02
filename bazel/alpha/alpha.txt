@@ -331,7 +331,6 @@ agonises
 abeles
 allochezia
 abrades
-abelia
 auletris
 apodia
 abelmosk
@@ -10418,6 +10417,7 @@ amidation
 aliofar
 amide
 amidide
+abelia
 acoelous
 auripuncture
 antileft
