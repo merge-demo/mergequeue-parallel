@@ -19235,7 +19235,6 @@ collutory
 cimbia
 collutoria
 collutories
-cafeteria
 collutorium
 celiomyalgia
 colluvial
@@ -23076,6 +23075,7 @@ cumberworld
 conspirators
 carotid
 carraways
+cafeteria
 conspiratress
 conspire
 curiality
