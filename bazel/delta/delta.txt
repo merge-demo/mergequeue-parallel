@@ -6557,7 +6557,6 @@ dampen
 dowfart
 dyschroa
 discubation
-disquisitions
 disfiguring
 dits
 diaspine
@@ -17956,6 +17955,7 @@ diordinal
 doodskop
 dreamier
 duffs
+disquisitions
 dutifully
 depaysee
 deputationist
