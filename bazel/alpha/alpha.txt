@@ -4826,7 +4826,6 @@ arake
 alkalimetric
 archagitator
 anoestrus
-aerolite
 argumentatory
 adenocellulitis
 apterygogenea
@@ -12809,6 +12808,7 @@ adenine
 anglophilism
 anglophobia
 adduced
+aerolite
 adumbration
 antholyza
 aire
