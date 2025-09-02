@@ -10377,7 +10377,6 @@ buonamano
 botong
 breaker
 blanketlike
-bemantle
 brimborion
 blankets
 bhoot
@@ -16480,6 +16479,7 @@ backpointers
 blowzier
 bespattering
 baboo
+bemantle
 boringly
 butyrochloral
 brasier
