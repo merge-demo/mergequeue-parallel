@@ -9692,6 +9692,7 @@ bankbook
 basitting
 babble
 beside
+bairnish
 boatie
 byssoid
 buckskin
@@ -16268,7 +16269,6 @@ baddeleyite
 bacchius
 brujeria
 botryolite
-bairnish
 benchmarking
 balalaikas
 brujos
