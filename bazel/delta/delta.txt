@@ -14851,7 +14851,6 @@ dockhouse
 deringers
 dockyards
 docking
-dockization
 dominica
 dialogue
 dolors
@@ -18427,6 +18426,7 @@ doke
 duosecant
 disgraced
 drinky
+dockization
 dactylioglyphist
 downhauls
 delichon
