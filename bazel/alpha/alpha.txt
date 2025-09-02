@@ -5654,7 +5654,6 @@ agaristidae
 agarita
 aspy
 agaroid
-alloeosis
 agaroses
 adorner
 angiomatosis
@@ -5894,6 +5893,7 @@ amenorrhoeic
 attorneyship
 amoebaea
 avdp
+alloeosis
 amidofluoride
 aging
 appeasable
