@@ -7506,7 +7506,6 @@ cursoria
 cercosporella
 canalisation
 cercus
-cerdonian
 cereal
 carrus
 changeability
@@ -26016,6 +26015,7 @@ chestiness
 cupreine
 coshery
 coshers
+cerdonian
 cholralosed
 coshes
 coshing
