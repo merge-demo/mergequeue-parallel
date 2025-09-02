@@ -3236,7 +3236,6 @@ dystomous
 deionized
 doublethought
 dominie
-diplococcocci
 departs
 defibrillated
 dominants
@@ -17856,6 +17855,7 @@ ductor
 dowdies
 ductules
 drawlatch
+diplococcocci
 ductwork
 duculinae
 dictyosome
