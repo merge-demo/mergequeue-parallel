@@ -10610,7 +10610,6 @@ cubic
 conservatoire
 corybantic
 cosmopolis
-camphorweed
 chilomastix
 chylomicron
 chylopericardium
@@ -17298,6 +17297,7 @@ caryophyllous
 conflux
 coan
 cheliceral
+camphorweed
 cotangential
 climatius
 coanimate
