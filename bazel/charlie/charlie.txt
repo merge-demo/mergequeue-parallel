@@ -17840,6 +17840,7 @@ catchup
 codespairer
 ctn
 classism
+cowpoke
 codetermine
 codetta
 conditioned
@@ -27690,7 +27691,6 @@ crouchmas
 cyul
 cacographical
 conductibility
-cowpoke
 collingual
 cosmolining
 clinochlore
