@@ -2224,7 +2224,6 @@ acidnesses
 acidology
 acidometer
 allotting
-afflation
 antipathies
 anacardium
 acidometry
@@ -19151,6 +19150,7 @@ amphipneust
 alumina
 autonomy
 areach
+afflation
 anisocercal
 attractions
 ammunition
