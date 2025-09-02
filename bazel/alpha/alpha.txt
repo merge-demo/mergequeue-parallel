@@ -747,7 +747,6 @@ abrasions
 asperation
 anviltop
 abrasively
-abrazite
 androdynamous
 abrazo
 aviarists
@@ -4027,6 +4026,7 @@ apotracheal
 adventuresomely
 adnexal
 adnominal
+abrazite
 adnominally
 antiprelatist
 arietate
