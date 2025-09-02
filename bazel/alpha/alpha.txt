@@ -11798,7 +11798,6 @@ autoantitoxin
 arylated
 addable
 ananism
-ananite
 anelace
 anankastic
 aqueomercurial
@@ -12834,6 +12833,7 @@ audibly
 athetoids
 angsts
 aldolase
+ananite
 anguillaria
 autochthony
 antiplethoric
