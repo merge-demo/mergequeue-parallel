@@ -8202,7 +8202,6 @@ diacromyodi
 deformism
 diactinic
 dacryocystotomy
-deemphasizing
 darghin
 diadelphian
 diadelphous
@@ -16861,6 +16860,7 @@ draughtsboard
 doucepere
 disallowances
 decapitable
+deemphasizing
 dissuited
 draconian
 drawgate
