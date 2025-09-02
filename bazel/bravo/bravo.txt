@@ -9283,6 +9283,7 @@ buttle
 besugo
 birchers
 bewater
+beaproned
 barman
 backarrow
 baccaras
@@ -12590,7 +12591,6 @@ baresthesia
 bluebottle
 billposting
 bakshaish
-beaproned
 bonspell
 buttresses
 barnacling
