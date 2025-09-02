@@ -1625,7 +1625,6 @@ accruement
 accruer
 adiabatic
 accrues
-accruing
 anaphase
 aerocar
 agonists
@@ -8915,6 +8914,7 @@ anapsidan
 aden
 autarkically
 allotriognathi
+accruing
 allotriophagy
 ambulomancy
 andrite

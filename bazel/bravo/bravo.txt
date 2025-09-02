@@ -1079,6 +1079,7 @@ bates
 buzzards
 bailors
 birdlimed
+boyer
 bestraddle
 borosalicylate
 bailey
@@ -14674,7 +14675,6 @@ brattice
 bratticing
 brattie
 betrothal
-boyer
 bloatedness
 bowpots
 brattled
