@@ -3562,7 +3562,6 @@ adephagous
 asepalous
 argoan
 arbuscle
-amies
 autoxidizer
 alpenhorn
 autocratship
@@ -4717,6 +4716,7 @@ aerobioscope
 aerobiosis
 addleheaded
 aerobiotic
+amies
 aerobious
 awedly
 archlute
