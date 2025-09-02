@@ -9973,7 +9973,6 @@ bombings
 bivoluminous
 bivouaced
 balaphon
-brawlys
 betelnuts
 byway
 baining
@@ -12013,6 +12012,7 @@ boyaux
 bronchostomies
 bicentenaries
 bertin
+brawlys
 bojite
 biscuitry
 boycott
