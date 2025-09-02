@@ -6979,7 +6979,6 @@ centaurea
 catnips
 carretta
 cantoned
-centauress
 centaury
 carburetted
 carnal
@@ -27502,6 +27501,7 @@ complementizer
 culminating
 covenanter
 covenants
+centauress
 cameroon
 corticium
 covent
