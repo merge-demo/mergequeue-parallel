@@ -8312,7 +8312,6 @@ biggish
 bayadeer
 base
 bepelt
-bedstock
 bigheaded
 balk
 blennoid
@@ -9151,6 +9150,7 @@ biotome
 boiler
 brothered
 biotransformation
+bedstock
 birdnest
 bromines
 bethabara
