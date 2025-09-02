@@ -11936,6 +11936,7 @@ bogeymen
 brut
 bawke
 beltlines
+belfries
 betweens
 bolivianos
 begirdling
@@ -16238,7 +16239,6 @@ brucia
 brucin
 brucine
 bleachman
-belfries
 brugh
 brugnatellite
 bizone
