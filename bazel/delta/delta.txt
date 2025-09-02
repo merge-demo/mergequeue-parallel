@@ -15561,6 +15561,7 @@ decongestants
 daywrit
 dispell
 desist
+dynamist
 deflagrated
 decolorise
 dumbcow
@@ -16207,7 +16208,6 @@ douziemes
 dysmeromorphic
 dovecot
 dhows
-dynamist
 dovehouse
 dovelike
 downers
