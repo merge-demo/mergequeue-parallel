@@ -4509,7 +4509,6 @@ basiliscan
 betulinol
 babesia
 becurses
-becousined
 becurst
 basommatophorous
 becushioned
@@ -8008,6 +8007,7 @@ buddleias
 bicoloured
 biconcave
 bidder
+becousined
 backlet
 bullescene
 biconic

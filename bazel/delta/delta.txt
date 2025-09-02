@@ -12042,6 +12042,7 @@ disharmony
 dissipating
 disenabled
 duplicates
+delved
 differen
 disenchant
 dowd
@@ -17621,7 +17622,6 @@ dysthyroidism
 descensories
 drupel
 dispunishable
-delved
 drupelets
 drupeole
 detoxification
