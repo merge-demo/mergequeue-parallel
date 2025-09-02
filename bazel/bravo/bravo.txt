@@ -3600,7 +3600,6 @@ bibliomaniacal
 batholithic
 batholiths
 balaamite
-butchers
 balconet
 barkentine
 bathometer
@@ -7782,6 +7781,7 @@ biasedly
 bokadam
 biography
 ballasts
+butchers
 burrow
 batidaceae
 biauricular
