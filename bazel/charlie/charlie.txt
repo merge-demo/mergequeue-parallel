@@ -11645,7 +11645,6 @@ clepsydrae
 cholesterolemia
 cholesteroluria
 choletelin
-controversial
 chack
 choline
 crumenal
@@ -18497,6 +18496,7 @@ coherence
 containment
 cataractal
 coherent
+controversial
 coggie
 coherer
 cecidomyiidae
