@@ -2186,6 +2186,7 @@ ceratophyte
 coordinating
 coronofacial
 cretinizing
+comacine
 campstool
 camptonite
 camptosorus
@@ -19668,7 +19669,6 @@ com
 coma
 comprobate
 carillon
-comacine
 comade
 comagmatic
 comake
