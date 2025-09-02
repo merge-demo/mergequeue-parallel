@@ -4811,7 +4811,6 @@ boundedly
 beautiless
 brownly
 bedswerver
-bichrome
 bathorse
 bulchin
 bedtime
@@ -11915,6 +11914,7 @@ baggily
 bogach
 becrush
 bushelwoman
+bichrome
 betutor
 bourns
 bailiff
