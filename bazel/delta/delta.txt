@@ -1668,7 +1668,6 @@ deamidation
 daws
 daw
 deamination
-deaminize
 debited
 deammonation
 deashing
@@ -9259,6 +9258,7 @@ diencephalon
 docibleness
 dienes
 dier
+deaminize
 dementis
 dochmii
 discharging
