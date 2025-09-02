@@ -19049,7 +19049,6 @@ clistothecia
 collembolous
 checkweighman
 collencyte
-colleri
 collery
 candyh
 colleted
@@ -27023,6 +27022,7 @@ croupily
 clerking
 counterprotection
 counterpull
+colleri
 counterpuncture
 counterpush
 counterquartered
