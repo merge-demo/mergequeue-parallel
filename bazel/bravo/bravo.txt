@@ -3003,7 +3003,6 @@ bioassay
 blarneyer
 barstools
 bart
-bartended
 bigamistically
 beared
 boyd
@@ -7542,6 +7541,7 @@ bahadur
 botflies
 brainworker
 bulkin
+bartended
 banagos
 beweeps
 bombilate
