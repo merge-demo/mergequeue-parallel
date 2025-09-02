@@ -1908,7 +1908,6 @@ acce
 acetyltropeine
 atole
 acetylurea
-analyse
 armorial
 adangle
 acetize
@@ -4709,6 +4708,7 @@ aconites
 arrivederci
 aerobiologist
 awakener
+analyse
 autocross
 arboreal
 aperture
