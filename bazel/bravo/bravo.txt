@@ -11964,6 +11964,7 @@ budgerigah
 bytalk
 bogled
 beckelite
+blastostylar
 bogmire
 borine
 besmudged
@@ -14992,7 +14993,6 @@ baffle
 breenger
 bogberries
 benedictine
-blastostylar
 breezeway
 bulbocapnin
 breezeways
