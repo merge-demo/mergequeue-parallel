@@ -1619,6 +1619,7 @@ boldface
 ballo
 blumea
 bursitises
+bassinets
 begluc
 banneret
 brairding
@@ -8489,7 +8490,6 @@ baronne
 birch
 butyryl
 bearhound
-bassinets
 bedlamic
 biliteral
 biliteralism
