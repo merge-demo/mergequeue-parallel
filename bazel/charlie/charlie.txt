@@ -5459,6 +5459,7 @@ cataclysmically
 crowboot
 cyanamide
 counterattacks
+calamumi
 clusterberry
 catacorner
 catacorolla
@@ -26622,7 +26623,6 @@ costrels
 chessart
 compilation
 calcaneotibial
-calamumi
 chancefully
 chirre
 compatibly
