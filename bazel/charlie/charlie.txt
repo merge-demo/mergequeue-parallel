@@ -12064,7 +12064,6 @@ coll
 cymbalo
 cerfoil
 casula
-chose
 chophouses
 coursed
 choses
@@ -21170,6 +21169,7 @@ codirect
 contrabasso
 concentrativeness
 correctly
+chose
 cabals
 concentrator
 communitywide
