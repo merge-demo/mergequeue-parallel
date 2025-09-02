@@ -5876,6 +5876,7 @@ dirk
 depreciable
 depreciate
 deponents
+deconcentrating
 despots
 deckhouses
 drago
@@ -10279,7 +10280,6 @@ dismettled
 dowed
 doggonedest
 daffadillies
-deconcentrating
 disaccustom
 doornail
 dioctahedral
