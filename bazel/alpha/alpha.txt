@@ -6309,7 +6309,6 @@ antignostical
 amphipneusta
 ameliorant
 agujon
-anaplasis
 aphroditic
 arnold
 acidaemia
@@ -14421,6 +14420,7 @@ ammino
 anklet
 aphototropic
 asheries
+anaplasis
 anthropomorphic
 anthropomorphically
 amphrysian
