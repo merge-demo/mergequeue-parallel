@@ -7587,7 +7587,6 @@ artsy
 alcoran
 apposiopestic
 alcoranic
-aff
 aphetically
 amarna
 alcove
@@ -20944,6 +20943,7 @@ acerbating
 aircheck
 arraignment
 asclepiadean
+aff
 asclepiadic
 autosender
 asclepian
