@@ -2080,6 +2080,7 @@ chondrosarcomata
 campanulous
 cowbells
 campbell
+combinant
 campbellisms
 campbellites
 clairvoyances
@@ -19734,7 +19735,6 @@ cabinetmake
 cytozyme
 combinable
 combinably
-combinant
 combinate
 combination
 coredeem

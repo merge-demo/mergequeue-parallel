@@ -16398,6 +16398,7 @@ dispersal
 duckboard
 drainable
 downstate
+deraignment
 defrost
 downstrokes
 downtake
@@ -18551,7 +18552,6 @@ dekalitre
 diabolo
 durmast
 durndest
-deraignment
 despoticly
 deviltries
 divinised
