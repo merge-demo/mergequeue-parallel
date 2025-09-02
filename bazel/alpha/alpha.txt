@@ -14300,7 +14300,6 @@ acclaims
 afflicted
 anthracic
 achira
-amoyese
 angiospastic
 achromasia
 awunctive
@@ -21306,6 +21305,7 @@ antiempiricist
 asop
 ambrosially
 antarthritic
+amoyese
 arapaima
 asouth
 asp
