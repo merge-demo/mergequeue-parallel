@@ -2867,7 +2867,6 @@ absentia
 attrahent
 anciens
 axisymmetric
-appalment
 allheals
 appendages
 allophanic
@@ -18055,6 +18054,7 @@ adepter
 aerophilately
 adversariness
 ambracan
+appalment
 anemometers
 adenosclerosis
 aeolid
