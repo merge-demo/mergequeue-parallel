@@ -3038,6 +3038,7 @@ becarpets
 beigel
 belee
 barriness
+betrinket
 beckons
 brimmers
 beachhead
@@ -11827,7 +11828,6 @@ bodhisattwa
 bikes
 bodybending
 bodybuilder
-betrinket
 birthing
 buddie
 bard
