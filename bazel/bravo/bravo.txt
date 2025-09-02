@@ -3921,7 +3921,6 @@ bd
 boracium
 buttonholes
 beteela
-butternose
 bdellium
 bdelliums
 bdelloid
@@ -13717,6 +13716,7 @@ barehanded
 bandlet
 buccaned
 bedmaker
+butternose
 biogeny
 blossomtime
 boatyard
