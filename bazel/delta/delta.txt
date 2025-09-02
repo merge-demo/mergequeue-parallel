@@ -289,6 +289,7 @@ doradilla
 daguerreotyped
 daguerreotyping
 digitonin
+dodecatemory
 dreadnaught
 durn
 docken
@@ -2318,7 +2319,6 @@ decke
 deceptions
 diethylstilbestrol
 demidolmen
-dodecatemory
 diagraming
 downwash
 deceptive
