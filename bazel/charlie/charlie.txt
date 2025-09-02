@@ -6080,6 +6080,7 @@ cattlebush
 cattlefold
 chatellany
 chinpiece
+chelating
 creakier
 cicely
 cancan
@@ -9745,7 +9746,6 @@ collegers
 chelate
 chelated
 cattish
-chelating
 chelator
 collisions
 chelicer
