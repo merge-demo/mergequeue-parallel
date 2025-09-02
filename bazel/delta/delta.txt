@@ -160,7 +160,6 @@ decarboxylated
 displacency
 dewtry
 defog
-dentolingual
 dimercurion
 deprivations
 depasturable
@@ -12438,6 +12437,7 @@ dishcloth
 despairer
 dupable
 dishclout
+dentolingual
 doubles
 decalin
 disheartener
