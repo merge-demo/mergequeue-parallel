@@ -15606,7 +15606,6 @@ clathraceous
 clathraria
 catapan
 cathidine
-clathrarian
 clathrate
 choose
 clathrinidae
@@ -21101,6 +21100,7 @@ cycloheptanone
 chordacentrum
 concassation
 cherishers
+clathrarian
 concatenate
 concatenated
 ceride
