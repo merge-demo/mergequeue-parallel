@@ -18474,7 +18474,6 @@ coheiress
 cepheus
 clericalize
 crosslet
-circlet
 coracomorphic
 countermark
 champac
@@ -28163,6 +28162,7 @@ crannoger
 carvomenthene
 campgrounds
 cockscomb
+circlet
 calabrese
 competitress
 calamar

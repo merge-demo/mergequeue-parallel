@@ -477,7 +477,6 @@ backswept
 backspaced
 backspacer
 brattles
-burree
 battik
 benzoates
 backspaces
@@ -15633,6 +15632,7 @@ broadlooms
 bourrides
 barbarously
 bisulfite
+burree
 binuclear
 bacteriosis
 bilertinned
