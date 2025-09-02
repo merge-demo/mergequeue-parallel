@@ -2320,6 +2320,7 @@ determinists
 decke
 deceptions
 diethylstilbestrol
+drabness
 demidolmen
 diagraming
 downwash
@@ -6214,7 +6215,6 @@ digametic
 dermabrasion
 dithyramb
 degrades
-drabness
 dements
 dipsades
 disbenchment
