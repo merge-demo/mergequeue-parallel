@@ -14473,6 +14473,7 @@ bramia
 brissotin
 bran
 bolivarite
+brachydodrome
 bodier
 brancard
 briarroot
@@ -17131,7 +17132,6 @@ bullnoses
 bhara
 brachialgia
 bullocker
-brachydodrome
 beduins
 baldricked
 blastulae
