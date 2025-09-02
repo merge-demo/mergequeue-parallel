@@ -1490,6 +1490,7 @@ donmeh
 dcb
 disservice
 depressure
+demilitarizes
 deaccessioning
 drawbolt
 dingbats
@@ -4587,7 +4588,6 @@ dentaliidae
 disselboom
 defencelessly
 drossiest
-demilitarizes
 disjunction
 decolorate
 demiliterate
