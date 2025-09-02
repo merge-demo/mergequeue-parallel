@@ -3277,7 +3277,6 @@ brevilingual
 blunderful
 blacklegism
 besoul
-basinet
 basinets
 basinful
 belcher
@@ -4092,6 +4091,7 @@ begrain
 boehmenist
 bestiaries
 broadax
+basinet
 boondoggles
 behalves
 bearbaiter
