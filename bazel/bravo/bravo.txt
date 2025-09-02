@@ -9976,7 +9976,6 @@ bivouaced
 balaphon
 brawlys
 betelnuts
-byway
 baining
 basely
 bushranger
@@ -13743,6 +13742,7 @@ bezil
 beshrews
 bestrowed
 betitle
+byway
 bovinities
 blackies
 buffered
