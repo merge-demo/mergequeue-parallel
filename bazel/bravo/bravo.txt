@@ -574,6 +574,7 @@ bib
 backwind
 backwinded
 balladmongering
+brevilingual
 backwood
 burdens
 backwoods
@@ -3266,7 +3267,6 @@ basinal
 bushland
 broader
 bivinyl
-brevilingual
 blunderful
 blacklegism
 besoul
