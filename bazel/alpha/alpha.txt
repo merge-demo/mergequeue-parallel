@@ -5471,7 +5471,6 @@ atrous
 achromatium
 afterthought
 afterthoughts
-afterthrift
 apastron
 afterturn
 armory
@@ -8182,6 +8181,7 @@ alikeness
 alikewise
 alternance
 alilonghi
+afterthrift
 alimentary
 arundinaceous
 alantol
