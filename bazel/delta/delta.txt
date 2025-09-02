@@ -3964,6 +3964,7 @@ decompound
 depreciant
 delassement
 drugless
+deambulatories
 dustman
 decontaminator
 disquixote
@@ -11383,7 +11384,6 @@ deftly
 dupioni
 discerped
 dissemble
-deambulatories
 davens
 diplocephalous
 discerpible
