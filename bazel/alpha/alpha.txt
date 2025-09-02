@@ -4684,6 +4684,7 @@ adductive
 aerobate
 aerobatic
 azalea
+assmanship
 apportioner
 aerobee
 anthropolater
@@ -5259,7 +5260,6 @@ affrontive
 adenose
 affronts
 affuse
-assmanship
 affusion
 afghan
 anapnea
