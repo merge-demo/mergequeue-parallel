@@ -7506,7 +7506,6 @@ besmoothing
 bevomiting
 bevomits
 bread
-baronages
 bunchiest
 bewailers
 belimousined
@@ -11522,6 +11521,7 @@ bananist
 blacklists
 basad
 balladries
+baronages
 blurredly
 beatifying
 bobsleded
