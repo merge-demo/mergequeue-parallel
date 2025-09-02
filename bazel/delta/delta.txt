@@ -6069,7 +6069,6 @@ diopsis
 deputing
 diaconicon
 directiveness
-dorps
 delicacy
 discoverability
 dilli
@@ -7039,6 +7038,7 @@ despumation
 dealing
 desquamating
 doublehandedness
+dorps
 desquamatory
 decivilization
 desilverize
