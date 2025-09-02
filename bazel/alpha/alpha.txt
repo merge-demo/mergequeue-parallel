@@ -9950,6 +9950,7 @@ ambisexuality
 acquaints
 ambisinister
 accessions
+antimetathesis
 amblypodous
 amoeboid
 annelides
@@ -15617,7 +15618,6 @@ androidal
 antiparallelogram
 arylamine
 ablet
-antimetathesis
 andian
 antheridiophore
 antiparliament
