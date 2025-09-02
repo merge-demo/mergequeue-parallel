@@ -9081,7 +9081,6 @@ churchcraft
 calyceraceous
 charqui
 crab
-czaritza
 canelike
 christly
 charr
@@ -13164,6 +13163,7 @@ clon
 ciceronianisms
 ciceronianist
 compellability
+czaritza
 calyceraceae
 colluviums
 coelanaglyphic
