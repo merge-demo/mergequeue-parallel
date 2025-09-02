@@ -9318,6 +9318,7 @@ brines
 birdbaths
 budgetful
 broomroot
+bargeboard
 blethers
 brabbles
 besogne
@@ -14034,7 +14035,6 @@ brachycephali
 brachycephalism
 bragging
 berust
-bargeboard
 brachycephalization
 browallia
 brigandism
