@@ -5661,7 +5661,6 @@ catchpole
 cocona
 cynoscion
 catchpoled
-commation
 catchpoll
 catchpolling
 copperheads
@@ -14469,6 +14468,7 @@ cirrose
 capsulociliary
 caseine
 cirrosely
+commation
 cirrostomi
 cochylis
 cirrostrative
