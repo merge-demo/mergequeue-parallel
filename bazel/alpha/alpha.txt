@@ -21236,7 +21236,6 @@ asynchronisms
 asyndetic
 androphore
 analectic
-amphoras
 automobilistic
 azobacter
 asyndeton
@@ -24430,6 +24429,7 @@ autotruck
 asclepias
 ayless
 ample
+amphoras
 argalis
 araliad
 artier
