@@ -21438,7 +21438,6 @@ concocter
 counteraddress
 cornerpiece
 calcination
-carotic
 cloaking
 comediennes
 concoctive
@@ -22868,6 +22867,7 @@ conservatoires
 conservator
 conservatory
 conservatorial
+carotic
 conservatorium
 crystograph
 conservators
