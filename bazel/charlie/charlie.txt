@@ -2604,7 +2604,6 @@ caneology
 cyanurine
 canephorae
 canephore
-canephoroi
 canepin
 cheeseflower
 chevet
@@ -17923,6 +17922,7 @@ coeditors
 chamberdeacon
 cocoanuts
 coedits
+canephoroi
 coeducationalism
 coeducationalize
 chondropterygious
