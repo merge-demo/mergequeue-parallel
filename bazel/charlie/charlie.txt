@@ -3720,7 +3720,6 @@ carpodetus
 carbamine
 cowquake
 circum
-carbanilid
 cantatrices
 convenership
 crocine
@@ -27051,6 +27050,7 @@ codiaceous
 cwt
 confocally
 checksums
+carbanilid
 continuums
 counterrevolutionist
 collegialism
