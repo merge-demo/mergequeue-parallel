@@ -12922,7 +12922,6 @@ anhedral
 anhedron
 anhelation
 anhelose
-anhemolytic
 amulla
 anhyd
 allodially
@@ -15071,6 +15070,7 @@ antievolutionary
 anteconsonantal
 antievolutionist
 alectoromorphae
+anhemolytic
 antiexpansion
 antiexpansionism
 atrocities
