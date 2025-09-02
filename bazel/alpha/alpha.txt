@@ -707,7 +707,6 @@ azygomatous
 aboveproof
 abovesaid
 accountableness
-abovestairs
 aluminised
 azotising
 abradable
@@ -13936,6 +13935,7 @@ akeake
 antecavern
 antecedaneously
 antecede
+abovestairs
 anapes
 atmometry
 aetiotropic
