@@ -1677,7 +1677,6 @@ bambara
 barbuts
 bogtrot
 ballsier
-bitterless
 boycotter
 ballsiest
 bengali
@@ -12278,6 +12277,7 @@ brusquely
 bombinae
 bimonthly
 backwardly
+bitterless
 boltwork
 bolus
 bomb
