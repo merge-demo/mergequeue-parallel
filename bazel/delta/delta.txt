@@ -2521,7 +2521,6 @@ declares
 dimaris
 daneworts
 diplococcus
-declaring
 dwined
 dorn
 disjudication
@@ -14492,6 +14491,7 @@ diverticulitis
 diverticulosis
 dacyorrhea
 dermahemia
+declaring
 decarbonizer
 discomforting
 denarcotize
