@@ -15514,7 +15514,6 @@ bakhtiari
 biomagnetism
 belowstairs
 banlieue
-bindlet
 brunswick
 born
 bristlelike
@@ -16878,6 +16877,7 @@ benzalaniline
 burdensomely
 buick
 bizarre
+bindlet
 buildings
 blunder
 bloodstained

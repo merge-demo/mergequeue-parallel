@@ -14032,7 +14032,6 @@ delocalise
 differentiable
 distorts
 dolomitising
-dentoid
 demiman
 draconism
 diphosphide
@@ -18320,6 +18319,7 @@ dietarian
 dishiest
 dhu
 dioon
+dentoid
 dyable
 duns
 dragomans
