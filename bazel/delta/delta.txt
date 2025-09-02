@@ -3223,7 +3223,6 @@ deferrized
 demain
 defervescent
 disauthenticate
-disagreer
 dentilingual
 defendants
 disjects
@@ -6493,6 +6492,7 @@ deviability
 dialectic
 dynel
 descension
+disagreer
 descensionist
 descensive
 dewdrops
