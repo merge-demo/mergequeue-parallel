@@ -7473,6 +7473,7 @@ damneder
 dodgery
 detrusion
 duvetyns
+dripstone
 detumescence
 deposal
 detune
@@ -17225,7 +17226,6 @@ dynamoneure
 dowily
 deuteroscopy
 drips
-dripstone
 duffers
 dition
 dishonesties
