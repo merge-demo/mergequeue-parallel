@@ -778,6 +778,7 @@ buba
 bearer
 bat
 borborygmus
+barricados
 brushcut
 banket
 badmouthed
@@ -8920,7 +8921,6 @@ bullishly
 blueberries
 bioethics
 belltopperdom
-barricados
 bozzetto
 binman
 bombproof
