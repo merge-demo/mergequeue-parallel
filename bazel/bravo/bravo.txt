@@ -3668,6 +3668,7 @@ balloonfishes
 batsman
 borschts
 besetting
+bettors
 bardolater
 books
 blout
@@ -14345,7 +14346,6 @@ bursiform
 bonebinder
 braillewriter
 boloman
-bettors
 braincap
 brachiferous
 baradari
