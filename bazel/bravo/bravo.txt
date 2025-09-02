@@ -6403,7 +6403,6 @@ burely
 barfy
 benzonaphthol
 benzonitrile
-behedge
 benzophloroglucinol
 baculi
 benedight
@@ -14313,6 +14312,7 @@ bookboard
 bikini
 buffoonesque
 bounciness
+behedge
 brahmanize
 benched
 bracers
