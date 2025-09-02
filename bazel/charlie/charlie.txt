@@ -734,7 +734,6 @@ cagework
 coordinators
 consonantising
 couturier
-caggy
 calliphorine
 conjurors
 cagy
@@ -997,6 +996,7 @@ calathos
 crapshooter
 conveyances
 craters
+caggy
 ciguatera
 capsulated
 cher
