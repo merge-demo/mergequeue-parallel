@@ -2604,6 +2604,7 @@ autoplastically
 auctioning
 arquebus
 azelfafage
+arbutin
 acridophagus
 acriflavin
 alepidote
@@ -8648,7 +8649,6 @@ appet
 alliancing
 anemonol
 antiketogen
-arbutin
 alliciency
 anglist
 anticeremonially
