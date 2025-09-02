@@ -1423,7 +1423,6 @@ bale
 bajonado
 backjoint
 bathofloric
-balearica
 bisellium
 balebos
 baled
@@ -3904,6 +3903,7 @@ bint
 brockage
 bazooka
 blunge
+balearica
 buckishly
 bamboos
 bbs
