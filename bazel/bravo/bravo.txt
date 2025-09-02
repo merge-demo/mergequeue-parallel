@@ -2093,7 +2093,6 @@ boguing
 bulker
 billbeetle
 botoyan
-battledore
 banshies
 bornan
 bakelize
@@ -10942,6 +10941,7 @@ blacksmiths
 bafta
 billowy
 brachygrapher
+battledore
 batched
 besoothes
 blips
