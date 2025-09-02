@@ -4110,6 +4110,7 @@ cyclus
 cardiomelanosis
 contradivide
 cardiometric
+coaters
 cardiomyomalacia
 cardiomyopathy
 camshaft
@@ -13250,7 +13251,6 @@ collineate
 coadapt
 cyclohexadienyl
 crossrow
-coaters
 crass
 cyclohexanone
 cyclohexyl
