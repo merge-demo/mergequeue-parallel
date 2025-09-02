@@ -14048,6 +14048,7 @@ anteocular
 accessability
 amy
 anthropomorphological
+applicability
 apriline
 anteorbital
 albopannin
@@ -21502,7 +21503,6 @@ asporogenic
 aphronia
 aspread
 annexes
-applicability
 aspredo
 apostoless
 arctamerican
