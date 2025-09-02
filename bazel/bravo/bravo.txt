@@ -11645,6 +11645,7 @@ biogen
 beknow
 bilsted
 blindfast
+boatward
 boomless
 baggala
 bedding
@@ -11653,7 +11654,6 @@ boattail
 blazoners
 bosks
 bequeathment
-boatward
 beatably
 boatwright
 bearbaiting
