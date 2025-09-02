@@ -4378,6 +4378,7 @@ demarcatordemarcators
 disks
 demarchy
 divelling
+dispersedness
 dinical
 demaree
 dying
@@ -13167,7 +13168,6 @@ disperple
 diadem
 deflourish
 didactive
-dispersedness
 detonates
 desynonymization
 dispersers
