@@ -23941,7 +23941,6 @@ chukkars
 chromophyl
 convectively
 catachrestic
-costoscapular
 clods
 chromatograph
 counterpoises
@@ -28262,6 +28261,7 @@ craticular
 cratinean
 crating
 cratometer
+costoscapular
 cratometry
 carobs
 cumberment
