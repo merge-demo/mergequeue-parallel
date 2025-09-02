@@ -1151,7 +1151,6 @@ airshed
 acaleph
 acalephoid
 anaclastic
-antigod
 arow
 acalyculate
 asterixis
@@ -12718,6 +12717,7 @@ armata
 antihysteric
 anatomisation
 athenaea
+antigod
 anathematizes
 asemia
 almners
