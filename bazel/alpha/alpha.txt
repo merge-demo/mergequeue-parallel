@@ -4036,7 +4036,6 @@ argentarii
 anastrophy
 apasote
 adon
-adonai
 adoniad
 agrarianize
 addleplot
@@ -6255,6 +6254,7 @@ aurar
 agronomy
 agronomial
 atelene
+adonai
 agronomists
 aberrate
 antieducationally
