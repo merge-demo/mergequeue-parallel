@@ -4411,6 +4411,7 @@ consignation
 carlings
 carlino
 carlins
+carpology
 coccigenic
 carlishness
 cogwheels
@@ -4712,7 +4713,6 @@ chalcidid
 collarbone
 carpolith
 clitellus
-carpology
 corrosibility
 compulsatively
 corynocarpaceae
