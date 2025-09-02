@@ -3493,6 +3493,7 @@ dismissable
 digitalizing
 defrayed
 deperition
+dinghies
 defrayers
 defraying
 dactyloid
@@ -10177,7 +10178,6 @@ dingeing
 dorsoventrally
 duraquara
 dinghee
-dinghies
 desition
 deeply
 diachaenium

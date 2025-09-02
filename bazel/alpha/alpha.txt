@@ -3463,6 +3463,7 @@ adenoacanthoma
 autometry
 adenocarcinoma
 adenocarcinomas
+aceric
 adenocarcinomata
 anaphylactically
 adenochondroma
@@ -18938,7 +18939,6 @@ amaryllis
 argusfishes
 archmonarch
 anguish
-aceric
 archmugwump
 archantiquary
 arnebia
