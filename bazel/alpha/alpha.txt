@@ -2660,7 +2660,6 @@ acroarthritis
 acroasphyxia
 acroatic
 alfurese
-arrestant
 arrangements
 amnion
 acrobacies
@@ -19944,6 +19943,7 @@ archenemy
 awearied
 accoutring
 arsoite
+arrestant
 assurers
 alimentum
 aroideous

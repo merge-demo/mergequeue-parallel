@@ -6312,7 +6312,6 @@ bonum
 benzalcohol
 bakupari
 benzaldehyde
-braggarts
 beneficential
 bandeaus
 beedom
@@ -6390,6 +6389,7 @@ bastioned
 beebees
 broken
 benzohydrol
+braggarts
 becuna
 benzoylation
 benzoinated
