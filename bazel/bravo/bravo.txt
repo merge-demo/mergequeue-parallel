@@ -950,6 +950,7 @@ blessedest
 bassalian
 bodstick
 barbeled
+beurre
 bravely
 blunderhead
 bidarkas
@@ -7459,7 +7460,6 @@ betwixt
 biserrate
 brachypodine
 booteries
-beurre
 benamidar
 bestowage
 bevelled
