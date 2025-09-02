@@ -1597,7 +1597,6 @@ calogram
 childbirths
 cyanastraceae
 cleanlily
-chelatable
 circumnutating
 convoluta
 calipash
@@ -3123,6 +3122,7 @@ capeline
 crocked
 capelins
 capella
+chelatable
 coatimondie
 closemouth
 caper
