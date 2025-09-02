@@ -12646,7 +12646,6 @@ advenience
 anileness
 aulophyte
 angiocarpic
-angiocarpous
 aubergine
 angiodermatitis
 angiodiascopy
@@ -21099,6 +21098,7 @@ attachedly
 avern
 agnean
 ashier
+angiocarpous
 ashiest
 antipass
 anxiety

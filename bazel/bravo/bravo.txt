@@ -10586,6 +10586,7 @@ both
 bisti
 belemnite
 blazonment
+bundle
 bouquet
 bladders
 blazonry
@@ -17288,7 +17289,6 @@ bookwright
 bihari
 bewray
 brennage
-bundle
 bechance
 bundled
 boardmen
