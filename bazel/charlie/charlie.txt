@@ -4076,7 +4076,6 @@ clerihew
 coadjacent
 cardinalitian
 cubed
-chancellor
 cardinalities
 cardinally
 cardinalship
@@ -18891,6 +18890,7 @@ coliseum
 colicwort
 cestoid
 colistin
+chancellor
 coypou
 colitic
 colitises
