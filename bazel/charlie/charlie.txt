@@ -3855,7 +3855,6 @@ carbonous
 carbons
 carbonuria
 calcined
-clarity
 contradistinguish
 celibacies
 compleat
@@ -26767,6 +26766,7 @@ countereffort
 cottiest
 counterembattled
 counterenergy
+clarity
 counterengagement
 corporator
 cambiogenetic
