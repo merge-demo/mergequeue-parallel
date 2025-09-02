@@ -3498,6 +3498,7 @@ defraying
 dactyloid
 desaturate
 defraudation
+descensory
 desiccated
 desmomyaria
 deprehend
@@ -12892,7 +12893,6 @@ decalcify
 dubhe
 drywalls
 diodia
-descensory
 dreyfusist
 disminion
 duumviral
