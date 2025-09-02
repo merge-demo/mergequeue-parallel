@@ -191,6 +191,7 @@ boroughwide
 bipacks
 bibliopolism
 boh
+bayous
 baccalaureate
 bismuthal
 baccara
@@ -936,7 +937,6 @@ bardiglio
 boscage
 beltian
 bagre
-bayous
 berryless
 biopsychic
 benzoquinone
