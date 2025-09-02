@@ -2641,6 +2641,7 @@ dogwatches
 decompoundable
 decompoundly
 decompress
+decagonal
 decompresses
 detectaphone
 demiplacate
@@ -8762,7 +8763,6 @@ diazepams
 dipneumonous
 diazeutic
 dittogram
-decagonal
 declassifications
 dismalities
 diazin
