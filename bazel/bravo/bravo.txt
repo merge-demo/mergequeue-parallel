@@ -3433,7 +3433,6 @@ boatshop
 bleaching
 bulletmaker
 bagani
-balteus
 barrelsful
 bummers
 brigantines
@@ -10001,6 +10000,7 @@ bricoles
 brutisms
 bixaceae
 bixaceous
+balteus
 bruxism
 blondeness
 brabagious

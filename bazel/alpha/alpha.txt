@@ -4827,6 +4827,7 @@ atame
 acrophonies
 alluvivia
 arake
+alkalimetric
 aerohydrous
 archagitator
 anoestrus
@@ -17484,7 +17485,6 @@ autonomic
 anhydrize
 appeasements
 anacoluthically
-alkalimetric
 acerbest
 anthracaemia
 antiauxin
