@@ -1709,6 +1709,7 @@ collectables
 coapprover
 cheremissian
 cyclobutane
+conynge
 coyer
 calumniators
 calumnious
@@ -6382,7 +6383,6 @@ cavalrymen
 carbazide
 coryl
 cavate
-conynge
 cancelability
 churning
 cossetted
