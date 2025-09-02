@@ -6431,7 +6431,6 @@ desalinated
 diaereses
 deafeningly
 dodecanoic
-desalinator
 depilate
 dendrogaean
 deacidify
@@ -13179,6 +13178,7 @@ dispersing
 dispersoidological
 dynastid
 dispersonate
+desalinator
 dysanagnosia
 dondia
 dismasting
