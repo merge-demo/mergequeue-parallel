@@ -1833,6 +1833,7 @@ daylilies
 debeige
 douzepers
 declinograph
+departement
 debellator
 darapti
 drugmaker
@@ -15702,7 +15703,6 @@ dialonian
 displacement
 derth
 doorstone
-departement
 doorstop
 devotionality
 disbase
