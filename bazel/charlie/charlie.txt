@@ -1422,7 +1422,6 @@ capstones
 careening
 calkers
 chowse
-calkin
 calkins
 congelative
 calks
@@ -3770,6 +3769,7 @@ carboys
 cyathoid
 carbolate
 carbolated
+calkin
 cerning
 cineolic
 carbolfuchsin
