@@ -22010,7 +22010,6 @@ confirms
 ceraunite
 confiscatable
 cynebot
-chattered
 confiscate
 countertrend
 confusingly
@@ -28415,6 +28414,7 @@ creasers
 creases
 creashaks
 chevachie
+chattered
 childminder
 creasier
 curiegram
