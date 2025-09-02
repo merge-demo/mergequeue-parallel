@@ -2666,7 +2666,6 @@ caninities
 caninus
 conflagrated
 coleorhizae
-canion
 chromophile
 canions
 crevice
@@ -15686,6 +15685,7 @@ clavacin
 clavae
 centres
 claval
+canion
 custroun
 chromascope
 clavated
