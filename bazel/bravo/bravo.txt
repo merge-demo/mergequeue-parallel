@@ -236,7 +236,6 @@ banishments
 braidings
 bacciferous
 brookless
-bellicosities
 boa
 bardism
 biddies
@@ -6876,6 +6875,7 @@ bozo
 besetters
 blessed
 besew
+bellicosities
 borghi
 betrim
 bradyseismic
