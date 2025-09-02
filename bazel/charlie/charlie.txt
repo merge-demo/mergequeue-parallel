@@ -9046,7 +9046,6 @@ conglomeratic
 compartmentalized
 culturalist
 charontas
-cardplayer
 charophyta
 capewise
 courantes
@@ -14994,6 +14993,7 @@ citrinin
 citrinins
 citrins
 citrocola
+cardplayer
 coumarouna
 citrometer
 citromyces
