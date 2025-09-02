@@ -3616,6 +3616,7 @@ adherent
 accessioner
 adherers
 abbozzo
+apprizers
 anticipatively
 archivolt
 arenicolite
@@ -17825,7 +17826,6 @@ antioxidizing
 apprizal
 aborting
 apprizer
-apprizers
 apprizes
 apprizing
 amate
