@@ -2012,6 +2012,7 @@ conolophus
 camouflagic
 coincidence
 companionship
+conjuring
 cruddle
 camouflaging
 combats
@@ -22521,7 +22522,6 @@ conjured
 conjurement
 championlike
 conjures
-conjuring
 cricetine
 conk
 canonises
