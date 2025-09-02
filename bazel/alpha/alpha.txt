@@ -19777,6 +19777,7 @@ acapsular
 adeptest
 acquereur
 armida
+anglophobic
 armied
 armies
 acetocinnamene
@@ -23152,7 +23153,6 @@ accroach
 asterias
 apneumatic
 acardite
-anglophobic
 apposed
 attrectation
 adventitia
