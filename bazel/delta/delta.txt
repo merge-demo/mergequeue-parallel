@@ -8397,7 +8397,6 @@ disnaturing
 dispossessed
 detentes
 diallagic
-diallagite
 deadwort
 dt
 darns
@@ -9209,6 +9208,7 @@ delaine
 diebacks
 dictyopteran
 diecious
+diallagite
 dead
 dermomuscular
 dwt
