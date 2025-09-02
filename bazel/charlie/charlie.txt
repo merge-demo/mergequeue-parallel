@@ -4339,7 +4339,6 @@ carinal
 carinas
 chrysene
 countersale
-carinate
 carinated
 coprocessing
 chologenetic
@@ -22151,6 +22150,7 @@ confronter
 connivently
 censureship
 confrontment
+carinate
 cannonballs
 caponiser
 cyanophycin
