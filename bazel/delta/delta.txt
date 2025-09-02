@@ -13499,7 +13499,6 @@ disrest
 disring
 decimetres
 disillusionment
-disguiseless
 despotism
 disrobement
 disrober
@@ -13788,6 +13787,7 @@ disbarments
 dissolver
 dissolvingly
 doled
+disguiseless
 darwinical
 digressively
 dichotomizing
