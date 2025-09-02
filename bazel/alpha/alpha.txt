@@ -10353,7 +10353,6 @@ amethystine
 amethodically
 ametoecious
 absurdum
-acantholysis
 aurigid
 aculeolus
 ametrope
@@ -17719,6 +17718,7 @@ algomic
 adonia
 ablaze
 apport
+acantholysis
 arctangent
 ampule
 antiproductionist
