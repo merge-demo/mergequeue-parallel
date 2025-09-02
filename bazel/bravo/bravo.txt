@@ -4220,7 +4220,6 @@ beaugregory
 bulbonuclear
 blackwasher
 beaumont
-beaupere
 beausire
 beauteous
 beauti
@@ -6523,6 +6522,7 @@ bklr
 bequeathed
 barothermohygrogram
 bruges
+beaupere
 blooping
 biokinetics
 bartramiaceae
