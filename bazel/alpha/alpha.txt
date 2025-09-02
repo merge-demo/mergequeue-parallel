@@ -20741,7 +20741,6 @@ arupa
 ampulate
 arusha
 aryan
-acrosticheae
 aruspex
 arteriography
 arvejon
@@ -25193,6 +25192,7 @@ americanization
 arsono
 appareled
 asaraceae
+acrosticheae
 axophyte
 assassinatress
 axopodia
