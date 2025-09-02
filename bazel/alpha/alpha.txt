@@ -3054,7 +3054,6 @@ acetaniside
 activate
 autocatalytically
 amphogenic
-apanthropy
 ableptical
 activated
 activates
@@ -21054,6 +21053,7 @@ atomicism
 aseptolin
 amyotrophic
 alighted
+apanthropy
 asperly
 anglification
 actos

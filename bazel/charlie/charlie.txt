@@ -7893,7 +7893,6 @@ cneorum
 cetoniinae
 castigated
 chickadee
-cyamoid
 criteriions
 cetorhinus
 cetotolite
@@ -8962,6 +8961,7 @@ continuo
 charioting
 chloroaurite
 chariotman
+cyamoid
 collegiately
 cumarin
 chaplaincy
