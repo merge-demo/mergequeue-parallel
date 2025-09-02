@@ -2091,7 +2091,6 @@ bivittate
 banovina
 banquet
 bundist
-buddhistic
 besteer
 boguing
 bulker
@@ -5738,6 +5737,7 @@ bellatrix
 bungler
 biliation
 buckjump
+buddhistic
 bedflower
 beetlehead
 balaghat
