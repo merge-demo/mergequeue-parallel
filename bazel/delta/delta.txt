@@ -7924,6 +7924,7 @@ desperadoes
 degringolade
 dewlapped
 deiced
+demoniacal
 deuniting
 doormaker
 drenching
@@ -15750,7 +15751,6 @@ decrements
 davening
 doorposts
 dopy
-demoniacal
 dopier
 dogstone
 docile
