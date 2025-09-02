@@ -9212,7 +9212,6 @@ chasteweed
 censurers
 ceduous
 chasty
-chastiment
 censurableness
 chastise
 chastiser
@@ -22562,6 +22561,7 @@ connature
 calumniatory
 cholecystnephrostomy
 connaught
+chastiment
 connectable
 connected
 connectedly
