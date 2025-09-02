@@ -1696,6 +1696,7 @@ boko
 betokens
 balmonies
 bloodroot
+brunneous
 balmoral
 berm
 benefits
@@ -14978,7 +14979,6 @@ borderies
 breakneck
 breedy
 byzantian
-brunneous
 bengalic
 bepillared
 brachyceric
