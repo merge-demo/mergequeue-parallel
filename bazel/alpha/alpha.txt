@@ -6927,7 +6927,6 @@ akhara
 andante
 acalypha
 antigay
-akhyana
 akhissar
 agaricin
 akhoond
@@ -11037,6 +11036,7 @@ ariosi
 ampelotherapy
 aventurin
 amper
+akhyana
 amatory
 assientist
 analects
