@@ -9767,6 +9767,7 @@ amarity
 aplotomy
 amaritude
 amarthritis
+angiographic
 autosomatognosis
 albumean
 azotorrhoea
@@ -12656,7 +12657,6 @@ atrabile
 angiogeny
 anyway
 angiography
-angiographic
 angiohemophilia
 anachronously
 anglophilia
