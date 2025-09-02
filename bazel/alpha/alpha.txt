@@ -3856,6 +3856,7 @@ ameba
 adlumia
 adlumidin
 apoplexious
+anteposition
 apricots
 adlumidine
 amunam
@@ -11742,7 +11743,6 @@ appulsion
 attractance
 analogy
 atony
-anteposition
 ananta
 anaximandrian
 amphicome
