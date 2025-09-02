@@ -10427,7 +10427,6 @@ bimuscular
 boyards
 barytostrontianite
 blaoner
-belibeled
 buoyancies
 backyarder
 blares
@@ -17719,6 +17718,7 @@ burnishers
 burnishing
 bookbindery
 baneberries
+belibeled
 bejumbled
 burnoosed
 burnoused
