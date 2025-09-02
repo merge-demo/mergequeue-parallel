@@ -7463,6 +7463,7 @@ alcazaba
 alcazar
 adamance
 asymptotical
+authorial
 alce
 assibilate
 alcedinidae
@@ -18929,7 +18930,6 @@ archmocker
 anastomosed
 antidicomarian
 autochthonic
-authorial
 archmockery
 algol
 antewar
