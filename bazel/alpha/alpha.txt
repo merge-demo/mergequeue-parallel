@@ -12083,7 +12083,6 @@ allodge
 albuminimetry
 anchat
 andaman
-aposia
 anchieutectic
 affectuous
 allbone
@@ -18780,6 +18779,7 @@ archhumbug
 agriology
 archibenthic
 archiblastic
+aposia
 anonyme
 archiblastoma
 avertedly
