@@ -19573,6 +19573,7 @@ cloisterlike
 columbarium
 clours
 columbate
+caseful
 columbeion
 collarinos
 crenelee
@@ -21417,7 +21418,6 @@ cyetic
 conclusory
 calybite
 ceinte
-caseful
 chapellage
 congestions
 cluniac
