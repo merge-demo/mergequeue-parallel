@@ -2058,7 +2058,6 @@ buffability
 brine
 banksmen
 betatter
-bucketed
 banlieu
 basquine
 backseats
@@ -2916,6 +2915,7 @@ barrelfuls
 bunnell
 baguettes
 blind
+bucketed
 benefactor
 bushers
 barreling
