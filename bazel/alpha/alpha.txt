@@ -18564,6 +18564,7 @@ anisol
 apogaic
 akkadian
 acalepha
+allelomorphism
 aga
 available
 animability
@@ -23714,7 +23715,6 @@ australopithecinae
 assistantship
 allicit
 anticivism
-allelomorphism
 apostatic
 amatories
 austrianize
