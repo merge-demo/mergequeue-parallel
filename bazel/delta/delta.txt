@@ -1259,6 +1259,7 @@ devotement
 dating
 datisca
 disaffirmative
+dihydroergotamine
 deoxidant
 dothienenteritis
 diarrheal
@@ -9653,7 +9654,6 @@ dollardom
 didacticity
 depass
 despot
-dihydroergotamine
 destructs
 debruise
 derogatorily
