@@ -7165,6 +7165,7 @@ clivia
 cavaedia
 centriole
 chalazogam
+carpitis
 codebreak
 chymous
 centripetence
@@ -22352,7 +22353,6 @@ congruist
 congruity
 congruousness
 congustable
-carpitis
 cashier
 carpophagous
 coerects
