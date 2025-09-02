@@ -2797,7 +2797,6 @@ astrol
 ascophorous
 acropodium
 acropoleis
-acropolitan
 acropora
 admit
 asthenope
@@ -21923,6 +21922,7 @@ automanipulation
 alveolotomy
 anus
 acclamatory
+acropolitan
 acyloins
 amra
 astigmatoscopies

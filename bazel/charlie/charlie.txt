@@ -10412,7 +10412,6 @@ chifforobe
 chlorinity
 cozenage
 comitadji
-clear
 crackskull
 cored
 crosswalk
@@ -23201,6 +23200,7 @@ constructive
 constructively
 constructivism
 coffinmaker
+clear
 constructivist
 calpolli
 circumstantiable
