@@ -5700,7 +5700,6 @@ agallop
 agedness
 agee
 ageing
-ageings
 archiannelida
 antiturnpikeism
 arithmetical
@@ -12579,6 +12578,7 @@ angelfishes
 alkamine
 angelic
 agrest
+ageings
 anviled
 alambique
 amb
