@@ -2498,6 +2498,7 @@ candite
 candytuft
 curryfavel
 candyweed
+crosstie
 cleverness
 candle
 coehorn
@@ -4793,7 +4794,6 @@ clachans
 crumminess
 chars
 carriages
-crosstie
 carriagesmith
 cinchonicin
 cathedrae
