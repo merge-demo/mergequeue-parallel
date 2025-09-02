@@ -10630,7 +10630,6 @@ brotulid
 begarnish
 blearing
 blearness
-blears
 bleated
 butcherdom
 bluejoint
@@ -10832,6 +10831,7 @@ batekes
 bongrace
 betone
 blickie
+blears
 bewaitered
 blickies
 britskas
