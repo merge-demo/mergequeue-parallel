@@ -8559,7 +8559,6 @@ annulosan
 archigenesis
 askeses
 australoid
-alleyite
 assegai
 alleys
 automatonlike
@@ -20119,6 +20118,7 @@ amoles
 alphabetise
 arrears
 arrendation
+alleyite
 argentometric
 abstrict
 arrentation
