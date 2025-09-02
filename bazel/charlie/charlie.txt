@@ -6381,6 +6381,7 @@ cytogenous
 cavaliers
 coccygodynia
 coenuri
+cinder
 cachinnation
 cavalryman
 cavalrymen
@@ -13739,7 +13740,6 @@ commoner
 cincture
 cytidine
 cinctured
-cinder
 cnemapophysis
 cindering
 concupiscibleness
