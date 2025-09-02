@@ -3682,6 +3682,7 @@ bisabol
 booklover
 balearian
 bedboard
+blearedness
 baste
 bangalow
 bally
@@ -4084,7 +4085,6 @@ boondoggles
 behalves
 bearbaiter
 bedmaking
-blearedness
 betoil
 boyishness
 biassing
