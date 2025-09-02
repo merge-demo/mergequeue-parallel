@@ -13350,6 +13350,7 @@ annalistic
 asianism
 allotheist
 accra
+aquicolous
 ajatasatru
 arctician
 annamite
@@ -18112,7 +18113,6 @@ avouched
 aquiclude
 adventurement
 ampelis
-aquicolous
 athericerous
 aphanomyces
 aquifer
