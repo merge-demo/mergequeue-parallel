@@ -15505,6 +15505,7 @@ barbule
 bobcoat
 brisking
 bemired
+byepath
 bareboat
 briss
 brist
@@ -17036,7 +17037,6 @@ banefully
 bulldozing
 beduck
 bulleted
-byepath
 bequeather
 bulletheadedness
 birdcall
