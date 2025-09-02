@@ -5341,7 +5341,6 @@ blur
 bultell
 baidar
 breviers
-beerage
 begnaw
 beglue
 biharmonic
@@ -9371,6 +9370,7 @@ binghi
 blennoemesis
 bluecaps
 birdseye
+beerage
 birdsnest
 bungfu
 bargehouse
