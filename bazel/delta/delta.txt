@@ -3547,6 +3547,7 @@ drawbeam
 dehwar
 defuze
 dolman
+diglyphic
 dakoities
 dissociative
 degames
@@ -6397,7 +6398,6 @@ derotremata
 denization
 demarcate
 dewans
-diglyphic
 druidic
 deewans
 disadvanced

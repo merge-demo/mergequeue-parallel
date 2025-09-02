@@ -3834,6 +3834,7 @@ balsas
 bohireen
 bicker
 bucare
+bungwall
 bauxitic
 bavette
 baviaantje
@@ -10321,7 +10322,6 @@ boil
 blame
 bromocyanid
 blamefully
-bungwall
 bicyclical
 betise
 blamefulness
