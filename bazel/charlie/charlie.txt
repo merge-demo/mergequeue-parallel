@@ -7954,6 +7954,7 @@ coelarium
 crannog
 chromotypographic
 caliches
+connately
 clergies
 chabouk
 crankshaft
@@ -22544,7 +22545,6 @@ conn
 connaraceous
 cements
 connate
-connately
 connateness
 crinate
 colonizability
