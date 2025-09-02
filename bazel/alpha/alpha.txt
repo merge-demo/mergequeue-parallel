@@ -14449,7 +14449,6 @@ anthropopathy
 areas
 aestival
 aneurysmatic
-anthropopathically
 anteclassical
 anthropopathism
 amethodical
@@ -14523,6 +14522,7 @@ antiaggressiveness
 antialbumin
 aiming
 antialcoholism
+anthropopathically
 antecoxal
 antistrophize
 antialcoholist
