@@ -3955,6 +3955,7 @@ bastardizations
 beachcombers
 beachdrops
 biliment
+bumblekite
 bowed
 bumpiest
 bisulphate
@@ -17669,7 +17670,6 @@ butterfly
 biotically
 blarney
 brachioganoid
-bumblekite
 brucins
 banbury
 behove
