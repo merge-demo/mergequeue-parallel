@@ -531,7 +531,6 @@ dextromanual
 discustom
 douse
 dallis
-dalmania
 dalmanites
 discocarpous
 dalmatic
@@ -10237,6 +10236,7 @@ discontinuance
 depute
 dealfishes
 dehgan
+dalmania
 donkeyish
 dinosauria
 dinguses
