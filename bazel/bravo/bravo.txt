@@ -1143,7 +1143,6 @@ boatload
 bracteolate
 bagful
 brindled
-bluethroat
 brewmaster
 boyg
 belonesite
@@ -17507,6 +17506,7 @@ burdigalian
 basipoditic
 blowpoint
 beadleism
+bluethroat
 burweeds
 barraged
 bricklay
