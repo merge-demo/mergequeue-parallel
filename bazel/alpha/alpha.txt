@@ -3789,6 +3789,7 @@ adjt
 adumbrellar
 aleyrodidae
 adjudging
+antae
 adjudgment
 appropriation
 adjudicate
@@ -13824,7 +13825,6 @@ abkhas
 ant
 ahong
 antheroid
-antae
 antaean
 antaeus
 abjudication
