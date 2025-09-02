@@ -11307,6 +11307,7 @@ cooptative
 copelidine
 chaneled
 chloromata
+cyanize
 chloromelanite
 chlorometer
 chloromethane
@@ -12961,7 +12962,6 @@ contingent
 cyanitic
 columnating
 castanian
-cyanize
 conchoidally
 cleeky
 catamnesis
