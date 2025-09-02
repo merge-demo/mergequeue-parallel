@@ -2799,7 +2799,6 @@ deedbote
 decretively
 dictionary
 deprivers
-discind
 decretorian
 dithymol
 defi
@@ -3799,6 +3798,7 @@ dhobey
 deification
 disaugment
 deifiers
+discind
 dressiness
 drepanididae
 dawcock
