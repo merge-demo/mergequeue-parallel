@@ -26569,7 +26569,6 @@ councillorship
 councilman
 councilmanic
 cytodieretic
-councilmen
 conjunctionally
 carbomycin
 cognise
@@ -27458,6 +27457,7 @@ covalent
 campephilus
 covalently
 conquedle
+councilmen
 columbella
 cheskeys
 carnaubic
