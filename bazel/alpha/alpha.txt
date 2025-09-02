@@ -7455,6 +7455,7 @@ aculeated
 alcaldia
 aerified
 alcalizate
+aporiae
 alcanna
 augusta
 atresia
@@ -16645,7 +16646,6 @@ arteriotomies
 allocatee
 actinomycesous
 autopotamic
-aporiae
 antitropy
 akebi
 attidae
