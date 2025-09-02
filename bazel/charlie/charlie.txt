@@ -1270,7 +1270,6 @@ cloison
 catchwater
 calibrating
 calibre
-calibred
 causative
 cyanohydrin
 caliburn
@@ -21828,6 +21827,7 @@ confabulate
 cimbal
 connivery
 calcium
+calibred
 confabulations
 claithes
 confabulator
