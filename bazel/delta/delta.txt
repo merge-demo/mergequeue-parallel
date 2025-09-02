@@ -686,7 +686,6 @@ dyspepsy
 doumaist
 distributes
 damselfishes
-demist
 damsons
 ductule
 dan
@@ -2815,6 +2814,7 @@ demonic
 decriminalization
 disequalization
 decastellate
+demist
 draggle
 decrypt
 dasyus
