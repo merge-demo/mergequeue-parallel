@@ -16045,7 +16045,6 @@ antisensitizing
 antiseptic
 actinomycese
 asseverate
-antiseptically
 antisepticism
 anisotropy
 adenomeningeal
@@ -19820,6 +19819,7 @@ armings
 avn
 arminianize
 acupuncturists
+antiseptically
 arminianizer
 armipotence
 analeptical
