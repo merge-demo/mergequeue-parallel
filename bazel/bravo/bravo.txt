@@ -10705,6 +10705,7 @@ balian
 bandfish
 bogijiab
 birthplace
+burgh
 brachistocephali
 boney
 bathycolpian
@@ -15860,7 +15861,6 @@ barbated
 bromphenol
 bathroomed
 blattering
-burgh
 bromus
 bereft
 birdlet
