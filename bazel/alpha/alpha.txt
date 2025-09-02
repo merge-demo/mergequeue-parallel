@@ -12278,7 +12278,6 @@ addulce
 androgenous
 ammochryse
 anchietin
-androgens
 anticomplex
 anisylidene
 androgyn
@@ -12663,6 +12662,7 @@ anachronously
 anglophilia
 angioid
 amentum
+androgens
 angiokeratoma
 apocopation
 anthocerotales
