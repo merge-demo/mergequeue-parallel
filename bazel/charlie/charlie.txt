@@ -3765,6 +3765,7 @@ chalkier
 chorioid
 carbohydride
 carboy
+comate
 celestes
 carboys
 cyathoid
@@ -19694,7 +19695,6 @@ cheir
 consolidant
 comanic
 comarum
-comate
 comates
 coquilla
 camarilla
