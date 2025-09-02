@@ -8746,7 +8746,6 @@ deescalations
 diatomist
 dot
 debadge
-diaporesis
 demimonk
 decime
 distastefully
@@ -14368,6 +14367,7 @@ ditrochean
 dynastical
 describable
 desensitize
+diaporesis
 densimeter
 desoxyribose
 dishallucination
