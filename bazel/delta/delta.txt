@@ -10691,7 +10691,6 @@ diplotaxis
 durned
 draws
 derivable
-declinometer
 downstreet
 dogman
 demulcent
@@ -18412,6 +18411,7 @@ dauncy
 disheveled
 demagogy
 duolog
+declinometer
 dolerites
 duologues
 doubtedly
