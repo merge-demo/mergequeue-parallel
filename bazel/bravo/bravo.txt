@@ -5308,6 +5308,7 @@ bezzants
 bugbite
 beginning
 bisiliac
+bullpen
 benzophenol
 bemirement
 beginnings
@@ -17137,7 +17138,6 @@ baldricked
 blastulae
 brisque
 barkantine
-bullpen
 bullpoll
 bemirror
 bullpup
