@@ -468,7 +468,6 @@ caddishness
 caddisworm
 chupon
 cadeau
-carcinoscorpius
 camisados
 cadee
 cadelles
@@ -31296,6 +31295,7 @@ concordly
 cenospecies
 curcumin
 conscionably
+carcinoscorpius
 chads
 curd
 commemorize
