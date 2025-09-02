@@ -5640,7 +5640,6 @@ agaricaceae
 apparencies
 adepts
 agaricaceous
-adjusts
 armadillo
 agaricine
 agaricoid
@@ -9360,6 +9359,7 @@ altar
 altarage
 allodies
 altarpieces
+adjusts
 altars
 armbone
 anemones
