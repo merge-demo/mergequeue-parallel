@@ -2658,7 +2658,6 @@ ammonation
 acroarthritis
 acroasphyxia
 acroatic
-acrobacy
 alfurese
 arrestant
 arrangements
@@ -11324,6 +11323,7 @@ adjugate
 ampliative
 aiguiere
 amplication
+acrobacy
 amplicative
 angerless
 autoelectrolytic
