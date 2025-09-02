@@ -2598,7 +2598,6 @@ craftswoman
 carbylamine
 caneology
 cyanurine
-canephora
 canephorae
 canephore
 canephoroi
@@ -26577,6 +26576,7 @@ cozener
 counite
 curiatii
 conventionalisation
+canephora
 counsel
 counterpanes
 counselable
