@@ -6616,7 +6616,6 @@ deletes
 deratization
 doubleganger
 dilemma
-dianisidine
 draughtswoman
 desertification
 deserting
@@ -18461,6 +18460,7 @@ disulphuret
 degreased
 dints
 demerge
+dianisidine
 duplicious
 danner
 duality
