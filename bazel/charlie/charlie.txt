@@ -10558,7 +10558,6 @@ cyclanthaceous
 chilla
 chillagite
 cerebric
-cerographist
 contort
 conter
 carports
@@ -29937,6 +29936,7 @@ compreg
 crayonstone
 cuarenta
 crosswise
+cerographist
 corinth
 coccygotomy
 crosswiseness
