@@ -3239,6 +3239,7 @@ aircrews
 appeasableness
 adapt
 anisospore
+advertizement
 apolytikion
 apeman
 aliased
@@ -21163,7 +21164,6 @@ ankylosed
 asiaticize
 armillated
 asiatize
-advertizement
 assuredly
 amnionia
 arcuated
