@@ -11350,7 +11350,6 @@ arachnological
 ampullate
 amphioxus
 ampulliform
-avine
 ampullula
 amputate
 amputates
@@ -17671,6 +17670,7 @@ annexed
 applicative
 applicatively
 applicatory
+avine
 applicators
 appliedly
 afterdischarge
