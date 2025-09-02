@@ -3330,7 +3330,6 @@ condyle
 candlestick
 catapetalous
 counterweighing
-capot
 capotasto
 containerized
 capotastos
@@ -13191,6 +13190,7 @@ cyclanthus
 cyclase
 cyclases
 circlets
+capot
 cyclecar
 coralbells
 cyclecars
