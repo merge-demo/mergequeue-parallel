@@ -8760,7 +8760,6 @@ audiometries
 alderliefest
 arboroid
 artificership
-allochiria
 adaptionism
 alcoves
 allochlorophyll
@@ -11657,6 +11656,7 @@ androgenesis
 arbitrators
 anagrammatizing
 ates
+allochiria
 adventist
 anahau
 ainsells
