@@ -2248,6 +2248,7 @@ deceiving
 defuzes
 disthroning
 deflex
+douser
 domineerer
 dustbox
 determinative
@@ -3917,7 +3918,6 @@ deference
 dekes
 derivationally
 dotage
-douser
 duopoly
 deyship
 dreamlit
