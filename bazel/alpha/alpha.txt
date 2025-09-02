@@ -17435,7 +17435,6 @@ actinoidea
 apparat
 apiose
 apparatchiks
-apparats
 apparatus
 arist
 alegars
@@ -18131,6 +18130,7 @@ adverse
 aquilid
 ajivika
 aquilinity
+apparats
 aquinist
 aquintocubital
 allophone
