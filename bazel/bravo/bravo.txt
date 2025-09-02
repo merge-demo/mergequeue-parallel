@@ -5705,6 +5705,7 @@ believer
 beamful
 basilical
 bureaucratese
+basketry
 birdcage
 bloomery
 blankite
@@ -8210,7 +8211,6 @@ bolivares
 bekilted
 bifurcation
 benzophenone
-basketry
 bigae
 bywork
 battological
