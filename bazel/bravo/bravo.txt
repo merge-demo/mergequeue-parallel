@@ -12975,7 +12975,6 @@ beelike
 bedquilts
 befountained
 barmaid
-ballyhoos
 brideless
 bloomers
 bombazine
@@ -15248,6 +15247,7 @@ bridgetin
 brailled
 benzidine
 bridgeward
+ballyhoos
 bridgework
 bridie
 bridle

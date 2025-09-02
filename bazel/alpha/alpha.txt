@@ -12342,7 +12342,6 @@ anecdotic
 anova
 anecdotically
 aegagropile
-appealed
 aftmost
 anechoic
 amazed
@@ -13343,6 +13342,7 @@ amphipoda
 annaly
 annalia
 appreve
+appealed
 annaline
 antigrammaticalness
 apathetic
