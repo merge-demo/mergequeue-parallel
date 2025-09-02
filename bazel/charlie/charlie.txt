@@ -1173,7 +1173,6 @@ cancerating
 caledonia
 caffoy
 commoditable
-clobbering
 chiding
 causativeness
 cestuses
@@ -6724,6 +6723,7 @@ celibatic
 conducent
 celibatist
 coroun
+clobbering
 celibatory
 celidography
 chatteringly
