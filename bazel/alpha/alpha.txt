@@ -1543,7 +1543,6 @@ autosensitized
 accorporation
 antilogism
 accost
-acrocarpous
 arbuscule
 accrual
 anobing
@@ -10363,6 +10362,7 @@ ametropia
 acicular
 ametrous
 amhar
+acrocarpous
 antispermotoxin
 afterbirths
 alcade
