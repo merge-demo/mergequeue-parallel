@@ -7132,6 +7132,7 @@ bonduc
 backless
 besprinkles
 bachelorism
+bobcoat
 bloodied
 barefoot
 branniness
@@ -11700,7 +11701,6 @@ bardolatry
 birthmate
 bestubbled
 bonneted
-bobcoat
 bobeche
 brazenfaced
 bahnung
