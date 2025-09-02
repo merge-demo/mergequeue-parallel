@@ -375,7 +375,6 @@ demonifuge
 defames
 daylights
 deutomalar
-diectasis
 duoviri
 devise
 desalters
@@ -10643,6 +10642,7 @@ diplonts
 defossion
 diplophase
 difficultness
+diectasis
 dosology
 deviously
 dulias
