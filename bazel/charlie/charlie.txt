@@ -11703,7 +11703,6 @@ coassistant
 cuffle
 commissionary
 chondral
-chondralgia
 chondrarsenite
 cholesteric
 chondre
@@ -23772,6 +23771,7 @@ chancellory
 contrariness
 contrarious
 cellae
+chondralgia
 contrariousness
 cacesthesia
 curlicued
