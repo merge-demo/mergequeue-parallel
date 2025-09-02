@@ -3700,6 +3700,7 @@ demonstrating
 diam
 delapse
 dehydrochlorinase
+dulciloquy
 dinumeration
 dowlas
 dehydrochlorinate
@@ -6513,7 +6514,6 @@ dicotyledon
 dosa
 describability
 dobra
-dulciloquy
 diacritic
 dockman
 degradedness
