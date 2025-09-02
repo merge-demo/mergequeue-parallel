@@ -5927,7 +5927,6 @@ ballistic
 bemadam
 bushier
 bestrowing
-beltie
 boviform
 babiche
 basidiomycete
@@ -9520,6 +9519,7 @@ ballhawk
 biscayanism
 burnover
 barbal
+beltie
 beechiest
 bedismal
 beneficently
