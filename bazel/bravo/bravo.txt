@@ -9448,7 +9448,6 @@ byronesque
 bedecorate
 byronic
 beirut
-brahmaness
 bemonster
 brushiest
 barristership
@@ -10234,6 +10233,7 @@ brutalising
 benevolist
 bocaccio
 blacksnake
+brahmaness
 baneful
 briefs
 boltonite
