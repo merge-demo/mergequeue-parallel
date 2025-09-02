@@ -10596,7 +10596,6 @@ chouka
 chemolytic
 chillumchee
 countersubject
-cataphracta
 copaibas
 camoca
 choledochotomy
@@ -14438,6 +14437,7 @@ concord
 cochliodus
 coeminency
 caddoan
+cataphracta
 connotively
 cirques
 cirrate
