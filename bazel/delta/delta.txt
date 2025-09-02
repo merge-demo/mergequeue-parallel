@@ -1338,7 +1338,6 @@ dauke
 denticule
 dumba
 dorsigerous
-deprecable
 demodulator
 delegations
 departure
@@ -15985,6 +15984,7 @@ dormition
 devilwood
 dims
 distileries
+deprecable
 dossmen
 dissemblies
 decamerous
