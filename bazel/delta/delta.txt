@@ -3065,7 +3065,6 @@ doohickus
 dentaria
 dentiscalp
 desole
-designated
 daddock
 degradand
 defaces
@@ -6037,6 +6036,7 @@ darkrooms
 depursement
 dipyramidal
 diphenyl
+designated
 dodge
 deuterogenesis
 doctus
