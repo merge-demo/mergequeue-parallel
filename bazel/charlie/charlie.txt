@@ -1658,6 +1658,7 @@ calorist
 calorizing
 cawing
 calosoma
+cevenole
 calotermes
 calothrix
 calotype
@@ -7916,7 +7917,6 @@ coattailed
 cevenol
 cyclohexylamine
 chaga
-cevenole
 chryselephantine
 cossets
 cevian
