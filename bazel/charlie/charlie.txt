@@ -2142,6 +2142,7 @@ campylite
 campylometer
 coffeecup
 campyloneuron
+cobias
 cavesson
 cakey
 campylotropal
@@ -20210,7 +20211,6 @@ carosella
 commodatum
 commode
 commodes
-cobias
 cionotomy
 chalcolite
 crewelwork
