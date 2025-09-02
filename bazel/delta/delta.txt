@@ -4979,7 +4979,6 @@ draggled
 desmacyte
 demountability
 demountable
-devastators
 dempsters
 demulcents
 diphycercy
@@ -15878,6 +15877,7 @@ decapitate
 daring
 dioscoreaceae
 disalign
+devastators
 deploy
 dorsales
 dorsalwards
