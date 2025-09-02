@@ -17328,7 +17328,6 @@ apotactic
 apotactici
 adducent
 agriculturalist
-attempered
 apotelesm
 ancients
 apotelesmatical
@@ -18310,6 +18309,7 @@ arank
 aranzada
 acceding
 ankylotia
+attempered
 arapaho
 azorian
 araphorostic
