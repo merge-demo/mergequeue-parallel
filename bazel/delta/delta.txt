@@ -16383,7 +16383,6 @@ dumpiness
 drawnwork
 downsized
 diffractions
-druggeries
 discobolus
 dicoelous
 deplumate
@@ -17400,6 +17399,7 @@ desquamation
 daglocks
 dishwiper
 dropberry
+druggeries
 dropcloth
 deprogrammers
 dispathy
