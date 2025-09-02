@@ -3351,7 +3351,6 @@ capping
 cervelas
 chemotropism
 coenact
-comfits
 cappings
 coagencies
 capple
@@ -9754,6 +9753,7 @@ chelicer
 cysts
 chelide
 csardas
+comfits
 cowheart
 classified
 chelydidae
