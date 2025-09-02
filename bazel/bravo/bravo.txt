@@ -2834,7 +2834,6 @@ bulgurs
 bravest
 bruckled
 busyness
-berycoidea
 barotraumas
 barotropic
 barouche
@@ -8806,6 +8805,7 @@ braeface
 bejelling
 barrelhead
 bashless
+berycoidea
 binomially
 blondness
 binomials
