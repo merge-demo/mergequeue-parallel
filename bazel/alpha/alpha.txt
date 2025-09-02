@@ -5717,7 +5717,6 @@ ave
 agendas
 ankylosaur
 ahorse
-agendum
 agendums
 amovability
 agene
@@ -7729,6 +7728,7 @@ alectryomancy
 aerotow
 animoseness
 aciliated
+agendum
 alecup
 agami
 arsenicophagy
