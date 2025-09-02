@@ -3062,7 +3062,6 @@ daygoing
 digitizer
 doohickus
 dentaria
-defacer
 dentiscalp
 desole
 designated
@@ -8466,6 +8465,7 @@ demioctagonal
 diametral
 diametric
 diamide
+defacer
 diamides
 dentin
 descanter
