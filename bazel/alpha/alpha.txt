@@ -4947,7 +4947,6 @@ aerotaxis
 actinodrome
 agacant
 argo
-aerotechnical
 abscound
 aerotherapeutics
 attainting
@@ -15009,6 +15008,7 @@ aspherical
 antidoting
 anoplanthus
 antidromically
+aerotechnical
 apparance
 antidrug
 anemotropic
