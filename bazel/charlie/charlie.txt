@@ -3422,7 +3422,6 @@ caducecaducean
 cobhouse
 chiastolite
 capris
-convoking
 caprizant
 caldron
 caproin
@@ -15098,6 +15097,7 @@ clabbering
 clabbers
 cumbent
 clabularium
+convoking
 clach
 chlorogenine
 clack

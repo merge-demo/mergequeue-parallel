@@ -12226,7 +12226,6 @@ barrandite
 bemoult
 bullfights
 boiko
-balms
 billet
 bolshevist
 bolshevistic
@@ -16619,6 +16618,7 @@ busby
 buckeyed
 belait
 befringed
+balms
 borosilicate
 bubblelike
 bucketmaking
