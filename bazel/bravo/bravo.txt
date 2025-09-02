@@ -3727,7 +3727,6 @@ buhr
 battlesome
 brigantes
 bimestrial
-battlestead
 battlewagon
 bronchiectasis
 bovver
@@ -9469,6 +9468,7 @@ branchiostegite
 biographee
 banality
 besots
+battlestead
 birthnight
 birthplaces
 bogota
