@@ -4274,7 +4274,6 @@ coeliotomy
 cestracion
 chytridiales
 concertstck
-caribe
 cauterised
 caribed
 calyphyomy
@@ -6745,6 +6744,7 @@ cubhood
 cerianthoid
 clearway
 celioparacentesis
+caribe
 cerinthian
 cowshard
 capless
