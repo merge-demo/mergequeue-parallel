@@ -810,7 +810,6 @@ carbocinchomeronic
 catachthonian
 cayman
 carboniferous
-caimans
 caymans
 caynard
 clydesdale
@@ -23245,6 +23244,7 @@ culmen
 countervolition
 consubstantive
 chivareed
+caimans
 consuetudinal
 consulage
 coloclysis
