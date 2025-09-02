@@ -7421,6 +7421,7 @@ autotoxin
 alburnum
 aswoon
 albified
+anywhither
 alca
 abolitionise
 acetal
@@ -13271,7 +13272,6 @@ advertize
 ascill
 anywhence
 aggregational
-anywhither
 anywise
 anywither
 androgenic
