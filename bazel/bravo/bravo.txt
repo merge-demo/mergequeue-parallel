@@ -9864,6 +9864,7 @@ bemingling
 baffed
 bismer
 bewhisper
+bait
 bitterer
 broth
 birred
@@ -13749,7 +13750,6 @@ bedlam
 brewage
 brontide
 brachydactyly
-bait
 bowable
 bowback
 bushment
