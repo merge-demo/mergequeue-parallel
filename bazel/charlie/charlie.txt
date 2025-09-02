@@ -998,6 +998,7 @@ concionator
 calathos
 crapshooter
 conveyances
+craters
 ciguatera
 capsulated
 cher
@@ -18752,7 +18753,6 @@ cataracted
 carbolineum
 colchicaceae
 coistrels
-craters
 cinnamal
 centeredly
 colchicin
