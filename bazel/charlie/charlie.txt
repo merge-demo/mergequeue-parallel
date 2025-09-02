@@ -5315,6 +5315,7 @@ castellum
 caster
 crinicultural
 claustrophobia
+cyborg
 cinemograph
 corncob
 crummies
@@ -13104,7 +13105,6 @@ columnea
 ciboney
 cibophobia
 cryptocarpic
-cyborg
 ceros
 cibory
 cyc
