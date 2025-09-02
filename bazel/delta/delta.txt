@@ -13550,7 +13550,6 @@ deadwood
 dysury
 downtrodden
 dissaving
-demivolt
 djinny
 diceman
 dysgraphia
@@ -14844,6 +14843,7 @@ docimastical
 decimation
 docimology
 docious
+demivolt
 deflowering
 discords
 deplaster
