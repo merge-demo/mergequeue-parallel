@@ -8302,7 +8302,6 @@ chalkrail
 circumflect
 catechizable
 calycanthemous
-chalkworker
 challah
 centriciput
 challahs
@@ -9306,6 +9305,7 @@ cuorin
 caligation
 conjunctive
 chaudfroid
+chalkworker
 chauffage
 chauffer
 classist
