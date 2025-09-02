@@ -3210,7 +3210,6 @@ agnizing
 adam
 amylenes
 adamantean
-anisodactylous
 antipolyneuritic
 adamantinoma
 adamantoblast
@@ -13603,6 +13602,7 @@ awiggle
 avalvular
 articulation
 astrometrical
+anisodactylous
 addax
 acrocomia
 anolis
