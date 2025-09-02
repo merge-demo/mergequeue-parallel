@@ -1339,7 +1339,6 @@ belying
 balatron
 benzaldiphenyl
 balatte
-bankcards
 bergfall
 bermudian
 bernoullian
@@ -15372,6 +15371,7 @@ boba
 bullule
 brilliantly
 brilliantwise
+bankcards
 bucketful
 bergut
 bosonic
