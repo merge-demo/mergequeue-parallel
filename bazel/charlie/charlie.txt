@@ -9013,7 +9013,6 @@ charlocks
 cobberer
 chromicize
 charm
-charmed
 cowlick
 camogie
 charmedly
@@ -19835,6 +19834,7 @@ catachresti
 condescendingness
 chinchilla
 comestible
+charmed
 cringles
 cradlesong
 cyclostrophic
