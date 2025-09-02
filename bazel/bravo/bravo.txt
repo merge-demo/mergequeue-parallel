@@ -1538,6 +1538,7 @@ bedaubed
 balladizing
 brutalization
 bales
+belongings
 bichromated
 bezel
 basted
@@ -10214,7 +10215,6 @@ bebump
 bilged
 broomwort
 blackpatch
-belongings
 beavering
 batara
 brominism
