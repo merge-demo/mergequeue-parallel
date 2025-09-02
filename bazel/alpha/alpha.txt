@@ -12838,7 +12838,6 @@ aldolase
 ananite
 anguillaria
 autochthony
-antiplethoric
 arabite
 abey
 affirmant
@@ -18356,6 +18355,7 @@ amebae
 arbacin
 agogics
 aerodone
+antiplethoric
 albeston
 arbalestrier
 andromania
