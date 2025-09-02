@@ -9988,7 +9988,6 @@ didactics
 dramaturgist
 doghood
 diminutive
-dimiss
 deindustrialization
 dimissaries
 dimitry
@@ -11785,6 +11784,7 @@ dhooly
 decolonise
 discredit
 discreditability
+dimiss
 dahabiya
 decoat
 difflugia
