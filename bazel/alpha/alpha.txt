@@ -2507,7 +2507,6 @@ acquaintancy
 archbishop
 adorsed
 aspiratory
-altaid
 aerographic
 adffrozen
 adeems
@@ -8267,6 +8266,7 @@ alisp
 autograph
 antiferroelectric
 alite
+altaid
 aliter
 archaiser
 ality
