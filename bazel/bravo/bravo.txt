@@ -6934,7 +6934,6 @@ bundook
 bellis
 besides
 besiege
-barrico
 besiegers
 bedeman
 bromism
@@ -16043,6 +16042,7 @@ bursati
 blotting
 broomstraw
 bonelessness
+barrico
 befret
 billowing
 bitesheep
