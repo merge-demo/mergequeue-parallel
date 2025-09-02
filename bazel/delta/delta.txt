@@ -3703,7 +3703,6 @@ daytale
 dehydrocorticosterone
 drabble
 diploes
-didact
 dehydrogenate
 dawtet
 distillable
@@ -12131,6 +12130,7 @@ dudishly
 drepanaspis
 disentomb
 disentombment
+didact
 dolichocephalism
 diallela
 disclaimers
