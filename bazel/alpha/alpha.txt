@@ -7474,7 +7474,6 @@ airiferous
 algonquins
 antislavery
 acned
-auxographic
 alcestis
 atrocity
 agau
@@ -17673,6 +17672,7 @@ avine
 applicators
 appliedly
 afterdischarge
+auxographic
 applier
 archpall
 adoxies
