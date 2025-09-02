@@ -2529,6 +2529,7 @@ besnare
 brancher
 broadhorn
 bilamellar
+biltong
 begster
 brained
 bosque
@@ -3217,7 +3218,6 @@ bathtub
 bipontine
 basifugal
 barkpeel
-biltong
 banner
 basilarchia
 blotchily
