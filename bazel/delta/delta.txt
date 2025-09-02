@@ -10548,7 +10548,6 @@ dilapidator
 decentest
 depressants
 defoggers
-depectible
 derogator
 diple
 dipleural
@@ -16795,6 +16794,7 @@ dirtfarmer
 drastically
 debitor
 decoction
+depectible
 disclose
 drownded
 drats
