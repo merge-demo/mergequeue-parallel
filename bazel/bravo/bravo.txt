@@ -2797,6 +2797,7 @@ briggs
 baroque
 baconer
 bowsprits
+bewig
 bureaus
 barites
 bolding
@@ -4297,7 +4298,6 @@ becall
 becalm
 biaural
 beakiest
-bewig
 bulimia
 beadlery
 backslides
