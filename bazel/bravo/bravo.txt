@@ -9536,7 +9536,6 @@ battlements
 ballhawk
 biscayanism
 burnover
-brailling
 barbal
 beechiest
 bedismal
@@ -15328,6 +15327,7 @@ blas
 brigous
 bichir
 babajaga
+brailling
 brigs
 bootlicks
 babylon
