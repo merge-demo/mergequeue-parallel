@@ -291,6 +291,7 @@ dodecahedron
 doradilla
 daguerreotyped
 daguerreotyping
+druggery
 digitonin
 dodecatemory
 dreadnaught
@@ -17540,7 +17541,6 @@ diodontidae
 despeed
 deliverability
 detoxified
-druggery
 druggets
 dendroidea
 doorhawk

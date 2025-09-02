@@ -9974,7 +9974,6 @@ bombings
 bivoluminous
 bivouaced
 balaphon
-brawlys
 betelnuts
 baining
 basely
@@ -12013,6 +12012,7 @@ boyaux
 bronchostomies
 bicentenaries
 bertin
+brawlys
 bojite
 biscuitry
 boycott
