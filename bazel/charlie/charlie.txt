@@ -20046,7 +20046,6 @@ circularizations
 commendatorily
 commended
 coaming
-captiously
 curwillet
 commender
 craftsman
@@ -22775,6 +22774,7 @@ consecrates
 citrals
 ccm
 coadjute
+captiously
 clovers
 cabers
 consecrator
