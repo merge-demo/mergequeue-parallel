@@ -11341,6 +11341,7 @@ amps
 absinthe
 admire
 ampul
+autoexcitation
 admonitory
 anhydremia
 apodosis
@@ -15983,7 +15984,6 @@ affordable
 antirevolution
 antirevolutionist
 antirheumatic
-autoexcitation
 anaptyxes
 antiricin
 antiromantic
