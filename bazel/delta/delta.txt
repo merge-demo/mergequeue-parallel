@@ -2905,7 +2905,6 @@ dedicatee
 downbeat
 dedicating
 disorientating
-dedication
 drafting
 dispurse
 dedicatory
@@ -13950,6 +13949,7 @@ deodand
 disdainous
 dishonoring
 dachs
+dedication
 distillmint
 distinction
 dertrum
