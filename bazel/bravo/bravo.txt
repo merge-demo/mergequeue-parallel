@@ -13614,7 +13614,6 @@ bushel
 bounders
 beamed
 baxter
-beeftongue
 barry
 binucleate
 burladero
@@ -13765,6 +13764,7 @@ burker
 brunion
 baddishly
 bowbent
+beeftongue
 bowdichia
 bloodily
 beboppers
