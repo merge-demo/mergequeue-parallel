@@ -463,7 +463,6 @@ bugbear
 benzolize
 besugar
 bromuret
-bronchotetany
 backslaps
 bellonian
 bravoed
@@ -6414,6 +6413,7 @@ banewort
 bibliothecaire
 benzopyrazolone
 barquentine
+bronchotetany
 benzopyrene
 bivouac
 blether
