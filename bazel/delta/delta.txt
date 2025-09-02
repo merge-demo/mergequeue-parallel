@@ -1382,7 +1382,6 @@ doyennes
 derry
 dave
 disgorging
-davenport
 disna
 disableness
 dollars
@@ -6660,6 +6659,7 @@ demoralizing
 dilatations
 dactylis
 dioptres
+davenport
 diminutely
 defoliation
 desesperance
