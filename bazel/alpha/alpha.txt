@@ -10848,7 +10848,6 @@ amnions
 allodialism
 aramids
 amnios
-amniota
 amidship
 antipreparedness
 antherids
@@ -14059,6 +14058,7 @@ angka
 agglutinogenic
 anarthrous
 achlamydate
+amniota
 antepasts
 antepectus
 anthropopsychic
