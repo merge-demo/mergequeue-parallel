@@ -3886,7 +3886,6 @@ bawneen
 burao
 bawra
 bawsint
-brutalness
 brontogram
 bittor
 blamelessness
@@ -4215,6 +4214,7 @@ beauti
 beauty
 brachyphalangia
 bentlet
+brutalness
 brumstone
 beautydom
 butylic
