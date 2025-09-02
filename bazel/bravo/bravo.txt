@@ -6842,7 +6842,6 @@ brachycephalic
 besan
 brainchildren
 bescab
-blepharoplast
 blandishment
 bemuddy
 brahmanist
@@ -10102,6 +10101,7 @@ buphthalmia
 bedells
 bloodguilty
 blackbird
+blepharoplast
 blackbirder
 belknap
 buckbush
