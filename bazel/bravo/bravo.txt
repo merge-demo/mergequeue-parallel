@@ -476,6 +476,7 @@ benzhydroxamic
 backswept
 backspaced
 backspacer
+bandwork
 brattles
 battik
 benzoates
@@ -17387,7 +17388,6 @@ burgoyne
 balsawood
 bewearying
 brocage
-bandwork
 baccalaureat
 boccies
 baltis
