@@ -12841,7 +12841,6 @@ bibliog
 blipped
 boondoggling
 bacillogenous
-boonfellow
 behorror
 bifoil
 bacchiac
@@ -17683,6 +17682,7 @@ befoolable
 broach
 bicornes
 buyer
+boonfellow
 burma
 blacking
 brackets
