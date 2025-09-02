@@ -1398,7 +1398,6 @@ anoplocephalic
 aurichalcum
 awlessness
 atka
-accessorize
 annotating
 acciaccaturas
 accidence
@@ -4547,6 +4546,7 @@ antrostomus
 arthriticine
 aegagropila
 ataxias
+accessorize
 antimeric
 amblingly
 apologiser
