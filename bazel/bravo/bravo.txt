@@ -14861,7 +14861,6 @@ beatings
 barky
 backseat
 brain
-bankings
 beknotting
 butterflylike
 breastbeam
@@ -14971,6 +14970,7 @@ barelegged
 biosatellite
 brucella
 berberi
+bankings
 barraters
 breedable
 borderies
