@@ -3556,7 +3556,6 @@ bodybuilders
 bathymetrical
 bathing
 bastinadoes
-beckoning
 bathyplankton
 bairnteam
 bibbers
@@ -10296,6 +10295,7 @@ blahs
 balatas
 bulbophyllum
 blithemeat
+beckoning
 blueback
 bookseller
 blagueur
