@@ -6662,6 +6662,7 @@ blusht
 bambinos
 burnings
 berycoid
+bionomist
 bansalague
 biurate
 barpost
@@ -13131,7 +13132,6 @@ bube
 basifier
 baited
 brucite
-bionomist
 borosalicylic
 bywalk
 borotungstate
