@@ -13428,6 +13428,7 @@ cofeatures
 confederator
 cydonium
 cie
+coastal
 cierge
 cierzos
 cocainized
@@ -17366,7 +17367,6 @@ culpas
 cupola
 crystallic
 coast
-coastal
 coastally
 cg
 coastguardman
