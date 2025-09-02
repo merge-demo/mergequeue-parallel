@@ -6836,7 +6836,6 @@ celsian
 cousins
 cashbox
 celt
-candidness
 celtiberi
 circularizers
 cofaster
@@ -30717,6 +30716,7 @@ conusor
 cuish
 calycophora
 cuishes
+candidness
 chaps
 catheterizing
 cumberers
