@@ -5920,6 +5920,7 @@ arnoldist
 aestuous
 aposaturn
 affiances
+aversation
 allamanda
 aretalogy
 autophotoelectric
@@ -17683,7 +17684,6 @@ alcibiadean
 affirmed
 acettoluide
 autocab
-aversation
 applies
 antispasis
 applique
