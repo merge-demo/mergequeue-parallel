@@ -2413,7 +2413,6 @@ butterwort
 bummalo
 benzpinacone
 bareca
-barefaced
 bombacaceous
 bradenhead
 breechesflower
@@ -5752,6 +5751,7 @@ bicentennially
 bylining
 bechalked
 bellboys
+barefaced
 belay
 baggageman
 billabong
