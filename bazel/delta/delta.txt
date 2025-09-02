@@ -1404,7 +1404,6 @@ deleted
 demilitarize
 dismain
 doketism
-demonomanie
 dispraiser
 dorsiflexor
 delis
@@ -14431,6 +14430,7 @@ dehydrocorydaline
 durdenite
 dioxane
 detainable
+demonomanie
 divarication
 dolicholus
 divaricator
