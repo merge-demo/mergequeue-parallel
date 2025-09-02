@@ -11775,6 +11775,7 @@ chondropharyngeus
 chondroplasty
 crystall
 consonantally
+copes
 chondroprotein
 cult
 chondropterygian
@@ -30484,7 +30485,6 @@ cubangle
 cubanite
 cubatory
 contraclockwise
-copes
 conciliar
 counterweighed
 cubby
