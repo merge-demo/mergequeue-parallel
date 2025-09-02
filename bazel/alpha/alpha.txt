@@ -5206,6 +5206,7 @@ afflated
 ataxia
 afflatus
 absent
+astrionics
 afflicter
 afflicting
 afflictingly
@@ -22180,7 +22181,6 @@ antipoints
 ablest
 astringents
 astringer
-astrionics
 apneumatosis
 asynartete
 ableeze
