@@ -13325,7 +13325,6 @@ ankoli
 awny
 ankush
 accommodator
-aristulate
 archphylarch
 ankusha
 antiproductiveness
@@ -16670,6 +16669,7 @@ averse
 agog
 anterointerior
 accur
+aristulate
 aphelian
 admitting
 anthophagy
