@@ -2802,7 +2802,6 @@ barites
 bolding
 betulaceous
 baroqueness
-blonder
 brazee
 barmie
 bookends
@@ -10912,6 +10911,7 @@ biclinia
 bridleless
 barth
 bourrees
+blonder
 blinkard
 blesbuck
 blinkards
