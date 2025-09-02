@@ -982,7 +982,6 @@ colourtype
 cohoba
 calascione
 cydonia
-calastic
 calathea
 calathi
 calathidia
@@ -16335,6 +16334,7 @@ cyclospondyli
 clique
 censorable
 clags
+calastic
 capacitation
 cliqued
 clavodeltoideus
