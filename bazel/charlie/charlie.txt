@@ -744,6 +744,7 @@ collybist
 clairvoyance
 crackly
 cagiest
+coding
 cagily
 chitchatting
 clock
@@ -17877,7 +17878,6 @@ codifying
 cephid
 converging
 codille
-coding
 codirected
 codirecting
 circumaviation
