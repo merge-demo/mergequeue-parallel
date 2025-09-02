@@ -5110,7 +5110,6 @@ bombshells
 beflour
 brahminist
 beflowered
-biotas
 bogbean
 beguile
 bosuns
@@ -17995,6 +17994,7 @@ boroglyceride
 baseness
 buskined
 bellmouthed
+biotas
 beautied
 baccalaureates
 brothership
