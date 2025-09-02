@@ -2491,6 +2491,7 @@ abrege
 acousticon
 aspheterism
 acousticophobia
+autotomous
 acoustoelectric
 acpt
 anacahuite
@@ -24415,7 +24416,6 @@ ambitiously
 anat
 arthrocarcinoma
 autotomizing
-autotomous
 astragals
 autotoxic
 autotransformer

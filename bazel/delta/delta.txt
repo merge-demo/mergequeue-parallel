@@ -9442,7 +9442,6 @@ dredge
 dejunkerize
 deuteromyosinose
 diffusions
-diffusive
 diffusors
 diabolus
 drumbeats
@@ -11055,6 +11054,7 @@ dramatised
 dieselized
 degusts
 dhoti
+diffusive
 doormaid
 disproportionable
 disprobabilization
