@@ -1334,6 +1334,7 @@ dumba
 dorsigerous
 deprecable
 demodulator
+delegations
 departure
 daundering
 didappers
@@ -9933,7 +9934,6 @@ dispart
 discretely
 dissinew
 downcourt
-delegations
 dodecatoic
 dipneustal
 damageableness
