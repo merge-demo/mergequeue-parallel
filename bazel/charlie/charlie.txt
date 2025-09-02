@@ -8185,7 +8185,6 @@ chal
 complection
 czechish
 chalaco
-chalah
 crispation
 cellarous
 chalastogastra
@@ -30116,6 +30115,7 @@ crpe
 crs
 crts
 coccinella
+chalah
 commissionated
 confections
 confidences
