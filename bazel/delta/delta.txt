@@ -4649,7 +4649,6 @@ depose
 dermohemal
 dogplate
 dinic
-demisang
 dulcite
 demisangue
 dereliction
@@ -5147,6 +5146,7 @@ decentralizes
 damozel
 distemperure
 dowable
+demisang
 dendrologists
 duodenopancreatectomy
 deipnosophism
