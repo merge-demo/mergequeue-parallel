@@ -2930,7 +2930,6 @@ allopelagic
 actinoids
 appriser
 atiptoe
-actinolitic
 anthropogenesis
 alleviator
 antimeson
@@ -4707,6 +4706,7 @@ arboreal
 aperture
 amidase
 aequoreal
+actinolitic
 aerobioscope
 aerobiosis
 addleheaded
