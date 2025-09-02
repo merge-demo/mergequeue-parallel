@@ -9401,7 +9401,6 @@ allochetite
 alternariose
 alternate
 alternated
-aftertaste
 alternately
 apheretic
 achier
@@ -11164,6 +11163,7 @@ amphophile
 amphidetic
 autoclaved
 affecter
+aftertaste
 amphidiarthrosis
 assimilator
 aryans
