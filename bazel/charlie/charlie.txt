@@ -2830,6 +2830,7 @@ canonised
 canoniser
 cephalothoraces
 crockeryware
+casziel
 coambassador
 canonising
 canonist
@@ -7078,7 +7079,6 @@ cadent
 centillionth
 centiloquy
 cumaldehyde
-casziel
 canton
 caliculus
 centimetre
