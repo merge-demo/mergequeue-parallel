@@ -7702,6 +7702,7 @@ certainness
 cormorant
 certhia
 changeless
+chromizing
 caryatidic
 certifiability
 cowgrass
@@ -12428,7 +12429,6 @@ chromized
 comportance
 congoese
 chromizes
-chromizing
 caswellite
 chromocyte
 chromocollograph
