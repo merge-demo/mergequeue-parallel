@@ -1305,7 +1305,6 @@ accelerable
 adjuvants
 animalizing
 amenorrhea
-accelerando
 amnesias
 affiliated
 atom
@@ -18066,6 +18065,7 @@ abeigh
 autolytic
 aquarius
 astint
+accelerando
 aquarter
 anacusia
 adequately
