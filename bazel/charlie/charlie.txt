@@ -1732,6 +1732,7 @@ cordage
 calvary
 caffeate
 countergarrison
+cormus
 calvarial
 calvaries
 clapper
@@ -24283,7 +24284,6 @@ coodle
 cooed
 corrades
 cameloid
-cormus
 counterexample
 cnidaria
 cooees
