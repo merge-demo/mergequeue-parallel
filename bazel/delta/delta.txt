@@ -13066,7 +13066,6 @@ declarer
 diplosphenal
 dormice
 dwang
-dermatoneurology
 distorted
 dexterous
 dinkier
@@ -17803,6 +17802,7 @@ duckblind
 deaconries
 dismaw
 doublehatching
+dermatoneurology
 ducked
 discussionis
 deus
