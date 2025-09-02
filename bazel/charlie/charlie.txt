@@ -73,7 +73,6 @@ cabbalistic
 catamaran
 cephaeline
 cabbalistically
-cubics
 cabby
 carnegie
 cabbie
@@ -28237,6 +28236,7 @@ champlain
 cratches
 curtnesses
 cratchins
+cubics
 crate
 crateman
 clitic
