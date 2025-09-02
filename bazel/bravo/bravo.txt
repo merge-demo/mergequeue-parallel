@@ -10638,6 +10638,7 @@ bleaunt
 brazenly
 bleb
 blebby
+blinter
 blastematic
 bleck
 bled
@@ -10923,7 +10924,6 @@ bellhop
 byerlite
 batement
 balustered
-blinter
 batel
 bilharzic
 blocky
