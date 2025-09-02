@@ -6358,7 +6358,6 @@ coffeecakes
 cloister
 cav
 ceratites
-curvinervate
 ciboules
 cavayard
 cavalcades
@@ -16712,6 +16711,7 @@ cercopithecid
 clothe
 clothed
 costiferous
+curvinervate
 confusional
 calathian
 clothesbag
