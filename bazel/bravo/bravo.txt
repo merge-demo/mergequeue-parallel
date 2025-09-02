@@ -2321,7 +2321,6 @@ baobab
 babylonish
 biasways
 bilixanthin
-barbican
 breloque
 bathyscape
 bemitred
@@ -10344,6 +10343,7 @@ blamelessly
 blamers
 beode
 barbados
+barbican
 behaviorally
 brachering
 bebait
