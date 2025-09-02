@@ -4306,6 +4306,7 @@ delver
 dibbed
 dodger
 disjunctor
+downgrowth
 demasculinise
 divisors
 dem
@@ -16427,7 +16428,6 @@ delocalized
 dispellable
 dogtrotted
 downwards
-downgrowth
 displacements
 deducive
 downwind
