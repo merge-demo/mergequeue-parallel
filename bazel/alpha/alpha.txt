@@ -4036,7 +4036,6 @@ ascabart
 argentarii
 anastrophy
 apasote
-adolphus
 adon
 adonai
 adoniad
@@ -19384,6 +19383,7 @@ argillous
 appetible
 argin
 alya
+adolphus
 aquariia
 argyranthous
 ammoniate
