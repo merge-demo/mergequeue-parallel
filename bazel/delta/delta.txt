@@ -11526,7 +11526,6 @@ disced
 dionysiacal
 discoloration
 discolorations
-doest
 defalcations
 discolorment
 discolouring
@@ -15778,6 +15777,7 @@ doralium
 denazifies
 disfavorer
 discovers
+doest
 diabetical
 dorask
 dorbeetle
