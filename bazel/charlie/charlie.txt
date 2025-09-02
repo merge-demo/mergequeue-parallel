@@ -17868,7 +17868,6 @@ chondrotome
 codical
 chlamys
 camas
-codicils
 codicology
 calycule
 codifications
@@ -30353,6 +30352,7 @@ coversed
 crustaceology
 chinovnik
 crustaceological
+codicils
 crustaceologist
 cosmical
 cattishness
