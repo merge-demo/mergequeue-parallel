@@ -12918,6 +12918,7 @@ dismissal
 dismissals
 distemperate
 depredated
+dorsothoracic
 dismissing
 dismissory
 discographically
@@ -15929,7 +15930,6 @@ dorsoposterior
 dorsosacral
 dishumor
 dorsoscapular
-dorsothoracic
 dermatrophy
 diablotin
 dulcimer
