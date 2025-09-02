@@ -9725,6 +9725,7 @@ bacilliparous
 bistephanic
 bisters
 bruce
+bubbled
 bedevil
 breadline
 burdocks
@@ -17884,7 +17885,6 @@ bushfighting
 bushfires
 backslider
 bushgrass
-bubbled
 bowered
 bushy
 bowerbird
