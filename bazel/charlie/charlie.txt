@@ -25694,6 +25694,7 @@ conule
 corresponding
 crated
 corresponsion
+coinfinite
 carphosiderite
 corresponsively
 churchlet
@@ -28507,7 +28508,6 @@ crimogenic
 credibly
 creditable
 clava
-coinfinite
 creditably
 caracaras
 crediting
