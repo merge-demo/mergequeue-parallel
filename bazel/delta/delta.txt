@@ -778,6 +778,7 @@ dandler
 dandlers
 dictator
 dispurpose
+discide
 drawn
 devolatilize
 dandles
@@ -11496,7 +11497,6 @@ degumming
 draconis
 desertless
 diverted
-discide
 discoboli
 discobolos
 dewiest

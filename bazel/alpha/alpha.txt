@@ -14388,7 +14388,6 @@ anticorrosive
 algologically
 adnoun
 antitetanolysin
-anthropographic
 anthropoid
 anthropoidean
 antigraphy
@@ -23644,6 +23643,7 @@ academic
 androphobia
 auscultates
 athrong
+anthropographic
 anvilsmith
 animala
 algous
