@@ -1462,7 +1462,6 @@ dismembers
 doublehanded
 daze
 discerptibility
-disinherison
 doucine
 dazed
 deuteroplasm
@@ -9860,6 +9859,7 @@ diagonality
 diluters
 drudgingly
 denierer
+disinherison
 desoxalic
 diphtheroidal
 destuffs
