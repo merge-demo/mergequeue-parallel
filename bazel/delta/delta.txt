@@ -13036,7 +13036,6 @@ disoxygenation
 denizate
 debacchate
 dodonaean
-dispand
 descaling
 diphthongized
 dolce
@@ -15946,6 +15945,7 @@ dossiers
 dudes
 dorty
 daikers
+dispand
 documentor
 dosed
 deboning
