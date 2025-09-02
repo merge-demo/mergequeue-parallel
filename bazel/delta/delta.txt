@@ -7886,7 +7886,6 @@ diaphonia
 deuteromorphic
 dianthus
 dewdamp
-denierer
 dioestrus
 dewdropper
 dhaura
@@ -9844,6 +9843,7 @@ draffish
 diagonality
 diluters
 drudgingly
+denierer
 desoxalic
 diphtheroidal
 destuffs
