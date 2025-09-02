@@ -625,7 +625,6 @@ bostangi
 bastiment
 bacteriodiagnosis
 bromates
-benomyls
 behearse
 bacterid
 backen
@@ -3208,6 +3207,7 @@ bouteselle
 bangwaketsi
 barotactic
 brabant
+benomyls
 bauta
 beknave
 baclava
