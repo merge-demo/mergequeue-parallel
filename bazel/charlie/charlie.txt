@@ -9945,6 +9945,7 @@ criollo
 chiro
 chenopods
 cajuputs
+customize
 chequebook
 croup
 chequer
@@ -31758,7 +31759,6 @@ cotery
 customization
 cardiauxe
 customizations
-customize
 customized
 customizer
 customizers
