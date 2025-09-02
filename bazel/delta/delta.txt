@@ -1003,6 +1003,7 @@ darings
 darius
 doubleprecision
 darked
+dumminess
 darkeys
 diaceturia
 darkens
@@ -4680,7 +4681,6 @@ demystification
 demon
 dismantle
 downtrends
-dumminess
 dithyrambos
 diphthongous
 dimissory
