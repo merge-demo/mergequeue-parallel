@@ -2003,7 +2003,6 @@ capitalizer
 camorristi
 cruelize
 camoudie
-coburgess
 camouflage
 camouflageable
 camouflager
@@ -10464,6 +10463,7 @@ consult
 chylangioma
 chilaria
 coppernose
+coburgess
 complimentable
 citification
 commorant
