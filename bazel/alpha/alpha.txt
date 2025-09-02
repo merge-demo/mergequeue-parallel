@@ -11308,7 +11308,6 @@ ampler
 amplest
 amplexicaul
 aeciostage
-awestruck
 amplexicauline
 artels
 abstinence
@@ -14450,6 +14449,7 @@ abolitionist
 avaritia
 adultress
 anthroponomics
+awestruck
 anthroponomist
 allect
 anthropopathy
