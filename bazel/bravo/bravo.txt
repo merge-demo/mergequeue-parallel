@@ -2866,6 +2866,7 @@ buckwashing
 barracouta
 bicep
 blanketless
+benedictus
 barrad
 bridebowl
 boskage
@@ -9391,7 +9392,6 @@ brattach
 betterments
 bestirred
 bathman
-benedictus
 bebopper
 bridegroom
 begettal
