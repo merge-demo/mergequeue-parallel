@@ -3922,7 +3922,6 @@ deyship
 dreamlit
 dulotic
 demagnification
-deliberation
 drumfish
 dislikeable
 dodo
@@ -12978,6 +12977,7 @@ disoperculate
 desmosome
 dicephalous
 daturic
+deliberation
 depressionary
 dainful
 demons
