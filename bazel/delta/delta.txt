@@ -17739,7 +17739,6 @@ dubbins
 decolouriser
 defer
 dicarbonate
-demutization
 dubio
 devot
 diene
@@ -17826,6 +17825,7 @@ ducklet
 discontentments
 ducklings
 deservingly
+demutization
 duckhood
 delimitize
 duckmeat
