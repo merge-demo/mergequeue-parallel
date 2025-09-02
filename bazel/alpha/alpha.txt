@@ -4159,6 +4159,7 @@ ambitus
 acilius
 adrench
 asarota
+alamiqui
 adrenergic
 anaptychi
 adrenin
@@ -13296,7 +13297,6 @@ allergia
 auditress
 ankylopodia
 ankyloproctia
-alamiqui
 ankylos
 acridest
 ankyloses
