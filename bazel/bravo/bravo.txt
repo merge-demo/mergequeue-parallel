@@ -2306,7 +2306,6 @@ braggers
 bagger
 bulldoze
 bartholomite
-blameably
 baobab
 babylonish
 biasways
@@ -11408,6 +11407,7 @@ befuddled
 bluepoints
 blazingly
 bluesy
+blameably
 bromisms
 beaverkill
 bluesmen
