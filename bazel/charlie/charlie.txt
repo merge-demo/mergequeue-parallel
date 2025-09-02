@@ -5938,7 +5938,6 @@ centraliser
 collatress
 courtesans
 cardinalated
-caxiri
 cryptostomata
 chalkography
 catholicisation
@@ -28809,6 +28808,7 @@ callisection
 creticism
 coturnix
 cretify
+caxiri
 colville
 cavalla
 communitary
