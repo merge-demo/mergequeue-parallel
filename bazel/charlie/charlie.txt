@@ -7131,6 +7131,7 @@ curarized
 crystallophyllian
 centrarchid
 centrarchoid
+capillarities
 clar
 compare
 centraxonial
@@ -23783,7 +23784,6 @@ cannonballing
 contrastimulus
 cowdie
 conflated
-capillarities
 contrastive
 contrastiveness
 chemicalization
