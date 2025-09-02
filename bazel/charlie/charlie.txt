@@ -4305,6 +4305,7 @@ catholical
 counterslope
 crum
 caricologist
+carucage
 cowlstaff
 caricous
 craker
@@ -4938,7 +4939,6 @@ cartwheeler
 consolan
 canopic
 czarowitz
-carucage
 counterprove
 carucarius
 clipsheets
