@@ -7157,7 +7157,6 @@ drawboring
 deerkill
 depreciated
 desulphurize
-depauperate
 depullulation
 doves
 disgusts
@@ -18051,6 +18050,7 @@ dutuburi
 degeneralize
 displeasurable
 decenniums
+depauperate
 dicebox
 dislocations
 diffusiometer
