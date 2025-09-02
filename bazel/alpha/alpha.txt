@@ -13635,6 +13635,7 @@ auriculariaceae
 anomalotrophy
 anomalousness
 antilles
+aequorin
 anomaluridae
 archmonarchy
 alcoholomania
@@ -22402,7 +22403,6 @@ astonish
 atavistically
 albizia
 ataxiagraph
-aequorin
 ataxies
 ataxinomic
 aspiratae
