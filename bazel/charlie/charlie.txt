@@ -10193,7 +10193,6 @@ chiarooscuro
 crankly
 chiaroscuros
 chuvash
-connotatively
 coulis
 chias
 caparisoned
@@ -28354,6 +28353,7 @@ canzo
 crcao
 chromosome
 crche
+connotatively
 chorioidoretinitis
 cenchrus
 centesis

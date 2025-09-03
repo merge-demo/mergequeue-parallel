@@ -1587,7 +1587,6 @@ disenjoy
 deadpanned
 deadpans
 depayse
-deadweight
 deforced
 denial
 deadwork
@@ -2958,6 +2957,7 @@ democratist
 decriers
 deedier
 deonerate
+deadweight
 decillion
 disenter
 deedily
