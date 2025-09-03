@@ -7655,6 +7655,7 @@ bromonaphthalene
 bhagavat
 bivouacking
 buckshots
+blastosphere
 bookrack
 bigamized
 bugre
@@ -10481,7 +10482,6 @@ blameworthy
 bashlik
 biteless
 blastoporal
-blastosphere
 balanus
 bromal
 buttonhold

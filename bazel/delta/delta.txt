@@ -2217,6 +2217,7 @@ deadpanner
 didymous
 decathlons
 dolorimetry
+durocs
 disunionist
 dripped
 diallyl
@@ -11718,7 +11719,6 @@ dotishness
 didest
 demiditone
 dishexecontahedroid
-durocs
 discost
 daemonology
 digitally
