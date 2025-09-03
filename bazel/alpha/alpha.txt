@@ -6087,7 +6087,6 @@ autoinduction
 administers
 agonizingly
 absolver
-abdicate
 agonizingness
 agoranomus
 alnager
@@ -7325,6 +7324,7 @@ albricias
 albright
 achromic
 agelong
+abdicate
 agma
 albuginaceae
 albuginea
