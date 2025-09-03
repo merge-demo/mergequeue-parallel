@@ -4502,6 +4502,7 @@ aciculas
 aecidiostage
 aglare
 abintestate
+antihypnotically
 aecidium
 aeciospore
 aecioteliospore
@@ -15222,7 +15223,6 @@ amidon
 alphean
 aglimmer
 antihylist
-antihypnotically
 achromatically
 anthropotomy
 antihypochondriac
