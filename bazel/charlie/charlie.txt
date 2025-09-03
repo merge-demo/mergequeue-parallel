@@ -3909,6 +3909,7 @@ carburometer
 chinee
 carcajou
 chopped
+clathrarian
 carcajous
 chelas
 cancrum
@@ -21107,7 +21108,6 @@ cycloheptanone
 chordacentrum
 concassation
 cherishers
-clathrarian
 concatenate
 concatenated
 ceride
