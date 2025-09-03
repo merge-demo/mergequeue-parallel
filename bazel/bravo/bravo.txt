@@ -4007,7 +4007,6 @@ beala
 byously
 burglarproofing
 buchu
-banditti
 butled
 beambird
 beeve
@@ -12950,6 +12949,7 @@ boozes
 booziest
 bookmate
 balawu
+banditti
 breakable
 banausic
 bipennated
