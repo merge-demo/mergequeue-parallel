@@ -2698,7 +2698,6 @@ akroteria
 acrodontism
 agoge
 acrodrome
-amyxorrhoea
 actualizing
 acetum
 acrogamous
@@ -21987,6 +21986,7 @@ asteroid
 asteroids
 asterolepidae
 andamanese
+amyxorrhoea
 arithromania
 ascaron
 adinvention
