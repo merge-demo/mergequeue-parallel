@@ -14474,6 +14474,7 @@ cirrostratus
 cappagh
 conscription
 cassatas
+claxon
 counterpuncher
 cirsectomies
 cirsoid
@@ -15743,7 +15744,6 @@ clunch
 clawker
 clawless
 claws
-claxon
 crossweed
 cleaded
 corin
