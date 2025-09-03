@@ -8336,6 +8336,7 @@ chama
 chondroplastic
 chamacea
 coenoblast
+cadency
 chamacoco
 chamaebatia
 chamaecranial
@@ -27533,7 +27534,6 @@ coverslip
 covertly
 colloquialist
 cull
-cadency
 cupmaker
 coves
 covet
