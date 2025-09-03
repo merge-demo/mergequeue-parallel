@@ -12946,7 +12946,6 @@ citrean
 cyanic
 cyanid
 comprehensives
-casel
 catamenial
 continentality
 cyanides
@@ -30435,6 +30434,7 @@ ctenolium
 ctenophore
 chepster
 codesigning
+casel
 ctenophoric
 ctenoplana
 ctenostomata
