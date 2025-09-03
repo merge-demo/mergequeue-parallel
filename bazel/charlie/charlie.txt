@@ -2260,6 +2260,7 @@ canakins
 carvist
 canal
 cookeys
+cypseloid
 canalatura
 completer
 cerebbella
@@ -11918,7 +11919,6 @@ choreman
 choreographed
 choreographer
 cilice
-cypseloid
 choreographers
 choreographic
 chuzwi
