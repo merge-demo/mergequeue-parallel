@@ -7900,7 +7900,6 @@ disbudder
 driveways
 dewclaws
 diaphonia
-deuteromorphic
 dianthus
 dewdamp
 dioestrus
@@ -14932,6 +14931,7 @@ deduces
 dragline
 diadochokinesis
 delinition
+deuteromorphic
 disgraces
 drinkably
 denigratory
