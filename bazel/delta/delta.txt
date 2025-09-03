@@ -8012,6 +8012,7 @@ dolichofacial
 daemonic
 dimethyltryptamine
 delicatessens
+donkeyback
 dionaea
 dishonoured
 deemsters
@@ -13189,7 +13190,6 @@ dassie
 daces
 derelicta
 dogmatizing
-donkeyback
 dispersing
 dispersoidological
 dynastid

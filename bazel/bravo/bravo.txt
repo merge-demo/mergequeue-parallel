@@ -244,6 +244,7 @@ biddies
 bumpy
 bestraw
 baccilli
+bilateralism
 baccivorous
 bulbule
 bach
@@ -14902,7 +14903,6 @@ bicamerist
 buffball
 beterschap
 breathability
-bilateralism
 browbeat
 bromol
 brassicas
