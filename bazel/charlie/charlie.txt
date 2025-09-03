@@ -11631,7 +11631,6 @@ cholesterol
 chined
 clepsydrae
 cholesterolemia
-cholesteroluria
 choletelin
 chack
 choline
@@ -12823,6 +12822,7 @@ cursus
 championess
 correo
 churchgoers
+cholesteroluria
 calorifacient
 churchy
 churchianity

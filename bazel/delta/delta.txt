@@ -6325,6 +6325,7 @@ dermenchysis
 delacrimation
 dermestid
 dermatoneural
+decoupage
 dextrogyration
 deject
 defensorship
@@ -11784,7 +11785,6 @@ dyscrasic
 demissness
 dactylologies
 dimane
-decoupage
 disco
 dopamelanin
 dhooly
