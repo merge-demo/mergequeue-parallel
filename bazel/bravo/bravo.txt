@@ -5168,7 +5168,6 @@ beaconage
 benignly
 balanoblennorrhea
 bounces
-befriending
 beleaf
 barns
 beadhouse
@@ -5415,6 +5414,7 @@ balai
 bardes
 bandying
 bandura
+befriending
 basebred
 beheaded
 beheader
