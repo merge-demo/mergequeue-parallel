@@ -4717,7 +4717,6 @@ addleheaded
 aerobiotic
 amies
 aerobious
-awedly
 archlute
 areopagus
 admittable
@@ -6217,6 +6216,7 @@ agriot
 allotypical
 agrypnia
 agrypnotic
+awedly
 acajou
 auriscalpium
 adipopexic
