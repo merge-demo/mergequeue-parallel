@@ -15077,6 +15077,7 @@ dandriff
 disbudding
 deflectional
 dogboat
+defends
 diffusor
 diathermacy
 defogs
@@ -18359,7 +18360,6 @@ dystopias
 dacryosyrinx
 doper
 duodena
-defends
 degelation
 dyestuff
 datableness
