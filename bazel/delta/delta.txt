@@ -2481,7 +2481,6 @@ dendrochronology
 dorsale
 disassimilation
 derivational
-drysaltery
 dimming
 dermoid
 duplicipennate
@@ -16696,6 +16695,7 @@ doctoress
 drayage
 dipteraceous
 dereligion
+drysaltery
 devests
 driech
 derangements
