@@ -7559,6 +7559,7 @@ cerebrometer
 cerebron
 cerebroparietal
 coassuming
+cannibalish
 cerebropedal
 coppy
 calade
@@ -30802,7 +30803,6 @@ conveyance
 clarigold
 cullionly
 cullisance
-cannibalish
 cenatory
 colicweed
 consonances
