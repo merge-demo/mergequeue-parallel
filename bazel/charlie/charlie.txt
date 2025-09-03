@@ -2363,7 +2363,6 @@ crambly
 colitis
 correlatively
 canc
-coffined
 canceled
 canceleer
 canceler
@@ -31489,6 +31488,7 @@ currycombs
 crossword
 centrings
 cogitators
+coffined
 curricula
 curricularize
 cardiomyoliposis
