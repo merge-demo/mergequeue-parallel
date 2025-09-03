@@ -23839,7 +23839,6 @@ contrivable
 combers
 contrivances
 contrive
-curds
 contrived
 contrivement
 cinchonology
@@ -25326,6 +25325,7 @@ cornetist
 cornetists
 cornets
 cornetter
+curds
 cleared
 carkled
 coprolagnist
