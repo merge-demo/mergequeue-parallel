@@ -12131,7 +12131,6 @@ asimen
 ancylopod
 acneiform
 acrider
-anatropous
 ambisexual
 ancylose
 avanyu
@@ -15514,6 +15513,7 @@ antineutral
 amphioxididae
 antineutralism
 argyles
+anatropous
 attritive
 antineutrino
 ametria
