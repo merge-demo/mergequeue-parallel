@@ -1684,7 +1684,6 @@ botony
 balmarcodes
 balmawhapple
 buncher
-burton
 butyrinase
 boko
 betokens
@@ -13130,6 +13129,7 @@ bident
 borofluohydric
 boroglycerine
 borohydride
+burton
 boronatrocalcite
 borophenylic
 bororoan
