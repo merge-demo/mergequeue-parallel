@@ -5870,6 +5870,7 @@ belonephobia
 belonger
 biased
 bronchophonic
+botanics
 bared
 belonging
 bailiffship
@@ -13296,7 +13297,6 @@ bhavan
 bivaulted
 bluestone
 botanically
-botanics
 bridechamber
 botanist
 botanize
