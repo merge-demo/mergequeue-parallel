@@ -5867,7 +5867,6 @@ belomancy
 backside
 belonephobia
 belonger
-bagonet
 biased
 bronchophonic
 bared
@@ -17693,6 +17692,7 @@ backhands
 beshouts
 birling
 babasco
+bagonet
 bookways
 biliate
 bombshell
