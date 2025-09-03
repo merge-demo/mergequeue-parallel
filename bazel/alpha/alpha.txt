@@ -7619,7 +7619,6 @@ aldermanate
 aldermancy
 aldermaness
 aldermanical
-assistency
 aration
 aldermanity
 aldermanlike
@@ -11132,6 +11131,7 @@ amphichromy
 amphicyon
 apocryphal
 achillobursitis
+assistency
 amphicytula
 astrobiologists
 amphicoelous
