@@ -6837,7 +6837,6 @@ brotherred
 bondservant
 basalia
 bolas
-beseam
 beseeches
 bisannual
 bluegills
@@ -8039,6 +8038,7 @@ bonging
 bulk
 bid
 bidactylous
+beseam
 bkbndr
 biddability
 biddably
