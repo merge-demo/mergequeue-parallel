@@ -8709,6 +8709,7 @@ deathrate
 depolarizing
 diethylethanolamine
 diastereoisomerism
+diphenylene
 diastereomer
 dodges
 disentangling
@@ -10467,7 +10468,6 @@ diacidic
 diphenylamine
 diphenylchloroarsine
 detickers
-diphenylene
 despend
 diphenylenimine
 driveller
