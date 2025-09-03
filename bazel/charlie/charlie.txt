@@ -15157,7 +15157,6 @@ consensus
 copilots
 cladose
 cartelization
-cyder
 cladoselachian
 coleosporiaceae
 colyba
@@ -19304,6 +19303,7 @@ coloner
 cupuliferae
 colones
 colongitude
+cyder
 colony
 colonial
 colonialised
