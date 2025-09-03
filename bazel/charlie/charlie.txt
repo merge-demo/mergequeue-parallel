@@ -11581,7 +11581,6 @@ cholee
 cholehematin
 colluvia
 choleine
-circinal
 cholelith
 conchotome
 cholelithic
@@ -11709,6 +11708,7 @@ chondriosphere
 cahow
 cacophony
 chondrites
+circinal
 chondritic
 chenica
 chondroalbuminoid
