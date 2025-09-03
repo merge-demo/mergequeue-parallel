@@ -5539,7 +5539,6 @@ disattire
 debunked
 deutomala
 dermoskeletal
-department
 departmental
 dimers
 disrobers
@@ -10810,6 +10809,7 @@ daintiest
 database
 dipstick
 deceitful
+department
 diazotize
 divinization
 dipteraceae
