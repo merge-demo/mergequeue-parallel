@@ -6791,7 +6791,6 @@ bilic
 berwick
 boldness
 bummaree
-berzelianite
 burley
 basophils
 baroi
@@ -17610,6 +17609,7 @@ benumb
 begabled
 brainsickness
 bosky
+berzelianite
 basipterygoid
 breadless
 besit
