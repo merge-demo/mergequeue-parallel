@@ -1792,7 +1792,6 @@ caman
 carucal
 cercelee
 camansi
-camara
 camaraderie
 camarasaurus
 camarera
@@ -23413,6 +23412,7 @@ contemplating
 catechetical
 contemplation
 cryptomnesia
+camara
 cheapness
 contemplations
 contemplatist

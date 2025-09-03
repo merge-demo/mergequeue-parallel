@@ -475,6 +475,7 @@ disthrall
 deino
 daswen
 daytide
+deerdrive
 daytimes
 daunder
 disburthen
@@ -9782,7 +9783,6 @@ diplontic
 deodaras
 delouse
 decussated
-deerdrive
 dilates
 disapprovable
 descender
