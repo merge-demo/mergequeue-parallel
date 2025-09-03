@@ -9644,6 +9644,7 @@ caravaning
 cheeseparing
 cheesewood
 cheesiest
+convince
 crabeater
 chevre
 convocate
@@ -24151,7 +24152,6 @@ convictment
 convictor
 convicts
 crosshatch
-convince
 convinced
 chitterlings
 convincement
