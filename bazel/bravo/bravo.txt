@@ -7000,7 +7000,6 @@ beaterman
 burelle
 buccan
 boyarisms
-besort
 blunting
 bitterly
 babeship
@@ -9380,6 +9379,7 @@ bacteriostat
 babishly
 betassel
 bookholder
+besort
 brucia
 bulimulidae
 birgand
