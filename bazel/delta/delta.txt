@@ -5554,7 +5554,6 @@ diaminogene
 dx
 dimmock
 departmentalism
-departmentalization
 departmentalized
 dorper
 depancreatize
@@ -16132,6 +16131,7 @@ dialectologically
 dextrins
 doucker
 danny
+departmentalization
 dipode
 dough
 dematerialising
