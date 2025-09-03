@@ -5919,7 +5919,6 @@ bestrowing
 boviform
 babiche
 basidiomycete
-ballahoo
 bedroom
 bangalay
 benumbing
@@ -10544,6 +10543,7 @@ buns
 blattid
 bulwand
 burnewin
+ballahoo
 brockish
 basilard
 bajada
