@@ -3867,6 +3867,7 @@ decastyle
 dephlegm
 diomedeidae
 deselects
+dairies
 disinteresting
 dissceptred
 decorationist
@@ -7347,7 +7348,6 @@ deckings
 dishevely
 durene
 discouragedly
-dairies
 dialogically
 dalesmen
 disemploying
