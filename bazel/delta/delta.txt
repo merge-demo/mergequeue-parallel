@@ -5561,6 +5561,7 @@ datafile
 deuteronomy
 drusean
 disrepute
+deformational
 depasture
 desireable
 depatriate
@@ -9936,7 +9937,6 @@ dimerization
 dewey
 duscle
 duka
-deformational
 dimes
 dimetallic
 dimeter
