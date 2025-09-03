@@ -495,7 +495,6 @@ betatron
 bees
 besottingly
 battarismus
-blady
 balaenoidea
 bromios
 backslapper
@@ -3190,6 +3189,7 @@ blastozooid
 bromelia
 burthen
 batrachiate
+blady
 beadily
 basidia
 basidigital
