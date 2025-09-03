@@ -2151,7 +2151,6 @@ conches
 configuring
 camping
 campions
-contemporaneously
 calcaneus
 cample
 campimetry
@@ -6628,6 +6627,7 @@ ceilidh
 connexivum
 ceiling
 ceilings
+contemporaneously
 ceilingwards
 copiability
 chadelle
