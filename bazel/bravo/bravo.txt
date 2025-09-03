@@ -2540,6 +2540,7 @@ bluestockings
 bemoaned
 bactrian
 bairnwort
+bisie
 backtalk
 barile
 barilla
@@ -5414,7 +5415,6 @@ balai
 bardes
 bandying
 bandura
-bisie
 basebred
 beheaded
 beheader
