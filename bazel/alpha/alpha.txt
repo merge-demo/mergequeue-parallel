@@ -2788,7 +2788,6 @@ anilopyrine
 aircraftswoman
 amidopyrine
 adaptation
-achromatin
 amygdales
 ayapana
 acrophonetic
@@ -14239,6 +14238,7 @@ anthologies
 autobiographies
 asphyxiates
 alberto
+achromatin
 anthologising
 appellational
 atomize

@@ -5194,6 +5194,7 @@ doghole
 decephalization
 doyen
 deathly
+disserviceableness
 diaheliotropic
 detruncating
 devoid
@@ -10577,7 +10578,6 @@ dipleurulas
 discourtesy
 disbowels
 demipagan
-disserviceableness
 ddname
 derate
 diplexer
