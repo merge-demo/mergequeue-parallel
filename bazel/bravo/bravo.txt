@@ -2595,7 +2595,6 @@ barkbound
 bamoth
 besluit
 beaued
-barkcutter
 balsameaceous
 breastbones
 bifronted
@@ -2841,6 +2840,7 @@ bilaterally
 bulgarians
 buckwashing
 barracouta
+barkcutter
 bicep
 blanketless
 benedictus
