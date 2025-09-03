@@ -15103,7 +15103,6 @@ clackama
 circumtropical
 chinsed
 clacker
-clackety
 clacking
 clacks
 clad
@@ -20486,6 +20485,7 @@ compartmented
 centenionalis
 corundum
 composition
+clackety
 compartments
 celticist
 compassability
