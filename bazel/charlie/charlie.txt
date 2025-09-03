@@ -5658,7 +5658,6 @@ clerkage
 carolean
 cannon
 catchlight
-certes
 cultivatability
 clockcase
 cowpock
@@ -15050,6 +15049,7 @@ civilisations
 choanoid
 countercondemnation
 cipollino
+certes
 compunctive
 civilizationally
 chawan
