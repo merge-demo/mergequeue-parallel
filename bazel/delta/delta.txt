@@ -5086,7 +5086,6 @@ dissipated
 disterr
 destitute
 ductings
-dravya
 dipsomania
 dafla
 daunomycin
@@ -13003,6 +13002,7 @@ diphyes
 demihague
 demivoice
 discriminability
+dravya
 ducat
 dolomitized
 downspout
