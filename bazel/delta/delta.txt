@@ -17044,6 +17044,7 @@ dregs
 dreikanter
 dreynt
 disordered
+drysne
 damkjernite
 dollying
 demipesade
@@ -17239,7 +17240,6 @@ drips
 duffers
 dition
 difformed
-drysne
 dictyonema
 director
 diaphoresis
