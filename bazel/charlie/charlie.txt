@@ -9173,7 +9173,6 @@ chasseurs
 creatine
 chassignite
 coachful
-chastacosta
 chaste
 chastelain
 coots
@@ -10960,6 +10959,7 @@ circumumbilical
 chirotherian
 chirotherium
 casern
+chastacosta
 comessation
 crocodilia
 counterinsurgencies
