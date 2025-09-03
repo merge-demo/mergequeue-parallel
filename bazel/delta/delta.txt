@@ -8401,6 +8401,7 @@ dialists
 deacetylated
 diachylum
 dragboat
+dermococcus
 decked
 deflation
 draparnaldia
@@ -11633,7 +11634,6 @@ drinkless
 duppy
 disconnectedness
 diphead
-dermococcus
 disconnecting
 dalmatian
 disconnection
