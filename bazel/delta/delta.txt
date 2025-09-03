@@ -5369,7 +5369,6 @@ disappropriation
 drub
 demonio
 debe
-diazenithal
 donnees
 dalapon
 disgruntle
@@ -6285,6 +6284,7 @@ didymolite
 daughters
 dermatopathic
 detested
+diazenithal
 davoch
 dodecanesian
 dermatophyte
