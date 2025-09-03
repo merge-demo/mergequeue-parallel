@@ -10182,6 +10182,7 @@ chiarooscuro
 crankly
 chiaroscuros
 chuvash
+connotatively
 coulis
 chias
 caparisoned
@@ -22632,7 +22633,6 @@ connotation
 ceratitoid
 connotations
 coleopteral
-connotatively
 connote
 crymotherapy
 connoted
