@@ -4951,6 +4951,7 @@ argo
 abscound
 aerotherapeutics
 attainting
+apsidiole
 aerotherapy
 arridge
 abthanage
@@ -17966,7 +17967,6 @@ amazona
 aproterodont
 aroused
 apsid
-apsidiole
 afterthinker
 abatises
 apsis
