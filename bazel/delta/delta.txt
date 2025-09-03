@@ -15568,6 +15568,7 @@ donatist
 dentiloguy
 drag
 diapery
+donable
 druses
 dracin
 detergence
@@ -16013,7 +16014,6 @@ distasting
 doted
 diploplacula
 doters
-donable
 dotes
 deamidize
 dispreads
