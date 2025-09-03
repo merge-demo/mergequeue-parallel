@@ -14761,7 +14761,6 @@ buffed
 broadhearted
 bloodweed
 bieberite
-bourgeoise
 bobization
 breached
 breacher
@@ -18411,4 +18410,5 @@ buttonweed
 bwanas
 bloodwort
 bxs
+bourgeoise
 bewest
