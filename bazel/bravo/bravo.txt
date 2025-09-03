@@ -2226,7 +2226,6 @@ benzazimide
 barbarising
 bronstrops
 bragless
-barbarity
 barbarities
 barbarization
 blesboks
@@ -4806,6 +4805,7 @@ bacchantes
 bourgeon
 benames
 bartholomew
+barbarity
 ballonne
 blizz
 briefings

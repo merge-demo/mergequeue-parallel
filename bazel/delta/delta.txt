@@ -731,7 +731,6 @@ dancing
 dispence
 distale
 dioptometer
-dictagraph
 dander
 dandiacally
 dandydom
@@ -8640,6 +8639,7 @@ diarrhea
 dows
 decarchy
 diarrhoeal
+dictagraph
 desophistication
 delight
 dephysicalize
