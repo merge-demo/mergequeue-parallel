@@ -10019,7 +10019,6 @@ adelpholite
 alumin
 aspirin
 atmological
-amoraic
 aggadic
 adjutage
 archaeopithecus
@@ -16396,6 +16395,7 @@ anuria
 acceptive
 anuric
 arthrogenous
+amoraic
 arctoidea
 argyrosomus
 antidotical
