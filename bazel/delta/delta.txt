@@ -1572,7 +1572,6 @@ diastrophy
 disposition
 determinatively
 deadlocking
-duplicia
 dipus
 duskily
 disspreading
@@ -3125,6 +3124,7 @@ defeasibility
 doorbell
 dinnery
 defeasive
+duplicia
 defeated
 directs
 diluviate
