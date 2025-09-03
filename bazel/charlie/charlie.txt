@@ -15161,7 +15161,6 @@ cancelling
 chuffing
 condecent
 clag
-clagged
 claggy
 claggum
 cantala
@@ -18356,6 +18355,7 @@ cogman
 counterbuilding
 conformers
 cogmen
+clagged
 claypan
 candlesticks
 chenevixite
