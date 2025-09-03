@@ -5616,6 +5616,7 @@ belches
 blowpipes
 bytime
 brasiers
+bong
 bocher
 bedumbing
 busks
@@ -16857,7 +16858,6 @@ bookmonger
 bugara
 buginvillaea
 bootjacks
-bong
 bugleweed
 bressomer
 bugling

@@ -5694,7 +5694,6 @@ cyanocitta
 catechised
 cylindrophis
 ceramic
-chumming
 chevesne
 colasciones
 catechising
@@ -12748,6 +12747,7 @@ chummed
 congelifract
 crepidoma
 chummery
+chumming
 chummier
 chummies
 chumminess
