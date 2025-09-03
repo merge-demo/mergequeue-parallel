@@ -715,7 +715,6 @@ duro
 dasht
 draconites
 deadmelt
-dipter
 danceability
 defailment
 diaplasma
@@ -8718,6 +8717,7 @@ decors
 diastrophically
 distort
 decatize
+dipter
 dichrooscopic
 disenfranchisements
 dorsonuchal
