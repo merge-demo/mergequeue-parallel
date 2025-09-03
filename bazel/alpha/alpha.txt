@@ -5213,7 +5213,6 @@ afflicting
 afflictingly
 arviculture
 afflictionless
-abranchian
 agranulocytosis
 arere
 attaining
@@ -23341,6 +23340,7 @@ accommodational
 auditory
 androgonium
 apportioned
+abranchian
 auditorial
 attitudinarian
 alvina
