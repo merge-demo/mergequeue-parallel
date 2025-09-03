@@ -14913,7 +14913,6 @@ anticouncil
 antenati
 anticourtier
 anticovenanter
-arointed
 assishness
 anticreational
 anticreationism
@@ -23913,6 +23912,7 @@ autocarpic
 acenaphthenyl
 anatherum
 autocatalyses
+arointed
 almoner
 autocatalysis
 apsinthion
