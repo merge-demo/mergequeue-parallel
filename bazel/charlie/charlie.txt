@@ -22934,7 +22934,6 @@ consiliary
 consilience
 consilient
 consimilate
-carnified
 cafoy
 consisently
 cetorhinidae
@@ -31592,6 +31591,7 @@ cistvaen
 cururos
 crestline
 catawbas
+carnified
 coteau
 cleave
 cornett
