@@ -13344,7 +13344,6 @@ antimnemonic
 amphipoda
 annaly
 annalia
-appreve
 appealed
 annaline
 antigrammaticalness
@@ -24140,6 +24139,7 @@ ampalea
 autolaryngoscopic
 autolater
 advoke
+appreve
 autolatry
 autolyse
 aguara
