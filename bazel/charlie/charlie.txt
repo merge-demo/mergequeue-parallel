@@ -3992,7 +3992,6 @@ convolutely
 cardamine
 covido
 claiborne
-cicada
 cowpox
 cardamom
 cicatrise
@@ -26189,6 +26188,7 @@ chorionepithelioma
 crustification
 cyanite
 cossaean
+cicada
 cosse
 carnivority
 cosset
