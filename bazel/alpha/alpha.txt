@@ -2305,7 +2305,6 @@ abridgedly
 acone
 antepast
 autocondensation
-acinetae
 acinetic
 antihemisphere
 anfractuosity
@@ -20301,6 +20300,7 @@ apothgm
 alabaman
 alnus
 archigaster
+acinetae
 arsenotungstates
 armeria
 arsenotungstic
