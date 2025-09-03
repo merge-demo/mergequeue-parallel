@@ -6893,6 +6893,7 @@ dependents
 dognap
 discolors
 dahabiyeh
+demulceate
 deadliest
 dactylioglyphtic
 desorption
@@ -14315,7 +14316,6 @@ defoliator
 delies
 decorators
 donkeymen
-demulceate
 defeatist
 deb
 deviances
