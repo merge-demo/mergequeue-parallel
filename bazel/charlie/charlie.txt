@@ -12960,7 +12960,6 @@ cyanides
 clothes
 cyanids
 cyanimide
-carreta
 cyanine
 chaldrons
 contingent
@@ -26049,6 +26048,7 @@ cosmetically
 calctufas
 coffeehouses
 copperproof
+carreta
 cliquier
 custrel
 crummie
