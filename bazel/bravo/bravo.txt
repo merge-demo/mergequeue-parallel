@@ -12498,6 +12498,7 @@ backbeat
 bandhor
 befavor
 brunizems
+bestialist
 banians
 bonetail
 bowker
@@ -16857,7 +16858,6 @@ bemeaned
 buginese
 bec
 bookmonger
-bestialist
 bugara
 buginvillaea
 bootjacks
