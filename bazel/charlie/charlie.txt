@@ -7327,6 +7327,7 @@ cephalodium
 cochairmanship
 conditionals
 cephalofacial
+coutil
 cephaloid
 cuticles
 crepuscle
@@ -26956,7 +26957,6 @@ counterphobic
 counterpicture
 combretum
 cuprum
-coutil
 counterplay
 counterplayer
 copleased
