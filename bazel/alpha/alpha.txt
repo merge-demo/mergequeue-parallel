@@ -2013,6 +2013,7 @@ apostematous
 acheronian
 achroous
 acherontical
+administered
 aches
 aerated
 achesoun
@@ -8740,7 +8741,6 @@ adeptly
 adamastor
 aditus
 amidoacetal
-administered
 allocator
 anticontagiously
 agynary
