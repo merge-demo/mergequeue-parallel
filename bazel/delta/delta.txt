@@ -1264,7 +1264,6 @@ daterman
 diabolification
 dates
 datil
-devotement
 dating
 datisca
 disaffirmative
@@ -12854,6 +12853,7 @@ dislustre
 disulphonic
 diffusedness
 deferral
+devotement
 dismay
 disconfirm
 dismayable

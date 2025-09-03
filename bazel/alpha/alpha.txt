@@ -1577,7 +1577,6 @@ accouterment
 acemetic
 attouchement
 accoutre
-attire
 aminobenzamide
 accoutrement
 angioclast
@@ -12455,6 +12454,7 @@ annelidian
 appenditious
 acrolithan
 aligns
+attire
 aeropleustic
 accelerations
 aucupate
