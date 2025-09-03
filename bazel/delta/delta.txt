@@ -2946,6 +2946,7 @@ dwarfism
 distrainment
 deductive
 deductory
+dariole
 deduplication
 despoliations
 deecodder
@@ -13372,7 +13373,6 @@ disputability
 dotters
 decident
 diactinal
-dariole
 disputacity
 disfen
 delayers
