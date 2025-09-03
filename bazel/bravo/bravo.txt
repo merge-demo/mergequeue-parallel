@@ -7128,7 +7128,6 @@ bacteriemia
 bernicles
 bierstube
 bestay
-burleys
 bestand
 burrito
 brogues
@@ -12943,6 +12942,7 @@ bouchon
 burgherdom
 betulaceae
 bushelage
+burleys
 basilisks
 blessedly
 bikhaconitine
