@@ -1402,7 +1402,6 @@ accidentalism
 accidented
 accidential
 accidently
-accinge
 anhimidae
 append
 aphyllose
@@ -4673,6 +4672,7 @@ acutifoliate
 aerifies
 antiparabemata
 aeriform
+accinge
 abasement
 aberdevine
 azygous
