@@ -6827,7 +6827,6 @@ chilliness
 celomata
 celoscope
 consultee
-celotomies
 chubascos
 clonks
 cloze
@@ -9856,6 +9855,7 @@ cruiser
 coaxer
 candent
 chemoreceptive
+celotomies
 chemoreceptivity
 chapelgoer
 chemoreceptor
