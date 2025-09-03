@@ -22027,6 +22027,7 @@ accumulable
 arpeggiando
 ananaples
 arrowstone
+autosymbolical
 archeology
 aortae
 asthenolith
@@ -24348,7 +24349,6 @@ autosight
 albuminuric
 autosymbolic
 actinautography
-autosymbolical
 autosymbolically
 augmentationer
 ambushing
