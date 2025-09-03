@@ -11805,7 +11805,6 @@ bikes
 bodybending
 bailees
 bodybuilder
-birthing
 buddie
 bard
 briareus
@@ -12875,6 +12874,7 @@ birle
 bdellatomy
 bungmaker
 babka
+birthing
 boosting
 bump
 bursectomy
