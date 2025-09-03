@@ -17459,6 +17459,7 @@ cobblers
 cobblership
 cobbles
 cobblestone
+coomb
 clepsydras
 cobblestoned
 chokeweed
@@ -24374,7 +24375,6 @@ cytochemical
 coolweed
 ceryl
 coolwort
-coomb
 canella
 cognomina
 coombes
