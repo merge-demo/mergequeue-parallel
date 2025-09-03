@@ -3560,6 +3560,7 @@ bien
 bitsy
 bigmouths
 boliviano
+baffle
 bathythermograph
 bathkol
 bipartite
@@ -14981,7 +14982,6 @@ benote
 befetter
 betiding
 bygane
-baffle
 breenger
 benedictine
 breezeway
