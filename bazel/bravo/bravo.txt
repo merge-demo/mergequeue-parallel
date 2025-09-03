@@ -6251,6 +6251,7 @@ beys
 burying
 benthamism
 billy
+burglarproof
 btise
 benthic
 barbar
@@ -16360,7 +16361,6 @@ bromellite
 barque
 benzdioxtriazine
 balsamy
-burglarproof
 brushback
 butt
 bladesmith
