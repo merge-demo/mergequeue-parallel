@@ -12142,6 +12142,7 @@ compress
 chrysalises
 cardiaplegia
 chrysaloid
+couxio
 constances
 concausal
 clonk
@@ -23688,7 +23689,6 @@ contradictional
 contradictious
 contradictiousness
 contradictory
-couxio
 contradicts
 celeomorphae
 canoeists
