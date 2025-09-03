@@ -11902,7 +11902,6 @@ arc
 aliethmoidal
 asymtotes
 arch
-anarthric
 antisepticizing
 aka
 anarthropod
@@ -21175,6 +21174,7 @@ afterstudy
 asiderite
 arrestor
 anhydrate
+anarthric
 asides
 assent
 acinacifolious
