@@ -11093,7 +11093,6 @@ blomstrandine
 blond
 benes
 benzazine
-bawrel
 brickliner
 byard
 basophobia
@@ -12530,6 +12529,7 @@ bolshevik
 batsmanship
 bacubert
 bud
+bawrel
 bonnyvis
 brashness
 bellwind
