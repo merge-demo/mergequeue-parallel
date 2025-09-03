@@ -9692,6 +9692,7 @@ dissight
 dipoles
 dihydronicotine
 discomfortably
+dioxide
 dihydrostreptomycin
 dihydrotachysterol
 dhaks
@@ -12230,7 +12231,6 @@ dha
 disfavoured
 detoxifying
 discursion
-dioxide
 disfeaturement
 dialogised
 decertifying
