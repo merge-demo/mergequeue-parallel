@@ -943,6 +943,7 @@ bagsful
 bequirtle
 barographs
 bazookaman
+breezes
 blessedest
 bassalian
 bodstick
@@ -17918,7 +17919,6 @@ bagmaker
 benignant
 bangle
 bedsides
-breezes
 buffo
 bowwows
 belga
