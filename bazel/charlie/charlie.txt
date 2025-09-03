@@ -12719,7 +12719,6 @@ ceylonese
 centilitre
 chuje
 colewort
-chalta
 complices
 chukchi
 chukka
@@ -29785,6 +29784,7 @@ confederating
 croquignole
 crore
 colloguing
+chalta
 classman
 comprehensibleness
 crores
