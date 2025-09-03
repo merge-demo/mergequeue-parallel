@@ -1009,7 +1009,6 @@ calcaneoastragaloid
 cajeputs
 calcaneoplantar
 calcaneoscaphoid
-calcaneum
 calcannea
 calcannei
 channellers
@@ -6218,6 +6217,7 @@ crescence
 cravingly
 capa
 cecchine
+calcaneum
 cabbaged
 caulomic
 cacodyls
