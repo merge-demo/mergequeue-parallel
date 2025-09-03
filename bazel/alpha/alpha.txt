@@ -1617,6 +1617,7 @@ anatomism
 aurific
 accruals
 accrued
+auriculare
 accruement
 accruer
 adiabatic
@@ -10093,7 +10094,6 @@ ambulante
 ambulated
 alternanthera
 atropinism
-auriculare
 ambulates
 apachette
 anisogamy
