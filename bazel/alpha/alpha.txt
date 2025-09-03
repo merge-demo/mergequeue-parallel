@@ -367,7 +367,6 @@ amuck
 aloha
 acinose
 anticlinorium
-aberuncate
 avoyer
 abesse
 ambulant
@@ -22534,6 +22533,7 @@ aflatoxin
 atherine
 abhorrible
 acceptilate
+aberuncate
 aphrosiderite
 atheriogaean
 atheris
