@@ -12290,7 +12290,6 @@ buglers
 bandurrias
 bezzi
 biophor
-beldame
 boterol
 behoovefully
 bombasticness
@@ -15565,6 +15564,7 @@ belgic
 boza
 blair
 brittle
+beldame
 bemist
 bypassing
 boner
