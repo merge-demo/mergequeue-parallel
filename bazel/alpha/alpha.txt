@@ -3151,7 +3151,6 @@ acutest
 arborise
 aedine
 appendage
-acutilingual
 axal
 abloom
 acutilobate
@@ -18001,6 +18000,7 @@ affusions
 antereformation
 accounsel
 apokreos
+acutilingual
 aptote
 artocarpus
 attesters
