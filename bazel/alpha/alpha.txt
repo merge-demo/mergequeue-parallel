@@ -2061,7 +2061,6 @@ aptness
 acroteral
 achilous
 achylous
-alts
 arend
 achymia
 achymous
@@ -9990,6 +9989,7 @@ amblydactyla
 archarchitect
 autometric
 argusfish
+alts
 amblygonal
 allergology
 acephali
