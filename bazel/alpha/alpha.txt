@@ -3551,7 +3551,6 @@ agib
 approachless
 adenotome
 articulable
-adenous
 adenoviruses
 adeona
 attenuative
@@ -8024,6 +8023,7 @@ appraisement
 antiromanticism
 asharasi
 applicant
+adenous
 anastasis
 aiglette
 algonquin
