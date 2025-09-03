@@ -19050,6 +19050,7 @@ clistothecia
 collembolous
 checkweighman
 collencyte
+crystallizable
 collery
 candyh
 colleted
@@ -29428,7 +29429,6 @@ constabless
 chrestomathy
 coprides
 cherishingly
-crystallizable
 crystallization
 crystallizer
 crystallizes
