@@ -4605,6 +4605,7 @@ adoptees
 alluvial
 alveolarly
 aeolidae
+agraphic
 ambrotype
 aeolis
 aeolist
@@ -6132,7 +6133,6 @@ americaward
 agranuloplastic
 agrapha
 agraphia
-agraphic
 acrocyanosis
 antlerless
 aylet
