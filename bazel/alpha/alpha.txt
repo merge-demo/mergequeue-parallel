@@ -14040,7 +14040,6 @@ anthropomorphological
 applicability
 apriline
 anteorbital
-albopannin
 augustinian
 amygdaline
 antepalatal
@@ -17713,6 +17712,7 @@ appointment
 alburnous
 algomic
 adonia
+albopannin
 ablaze
 apport
 acantholysis
