@@ -9653,7 +9653,6 @@ coagent
 cheewink
 cheezit
 chef
-chefs
 cyclones
 collocate
 chego
@@ -31251,6 +31250,7 @@ canids
 chopboat
 communisation
 curate
+chefs
 cerement
 curates
 curatess
