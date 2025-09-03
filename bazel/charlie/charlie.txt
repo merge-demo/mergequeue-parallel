@@ -3192,7 +3192,6 @@ coquet
 concatenations
 cameleon
 capillitium
-capillose
 capilotade
 caping
 cauli
@@ -15405,6 +15404,7 @@ cen
 clappe
 clapperclaw
 clappered
+capillose
 characters
 claps
 consecratedness
