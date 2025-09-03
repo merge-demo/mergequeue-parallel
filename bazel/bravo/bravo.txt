@@ -42,6 +42,7 @@ bracketwise
 babblers
 bodement
 beneficiation
+brawlier
 bechirp
 buts
 breams
@@ -8099,7 +8100,6 @@ bullyboy
 bloodbird
 bateaux
 bieldy
-brawlier
 ballistite
 bossa
 bathylite
