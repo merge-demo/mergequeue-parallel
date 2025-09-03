@@ -4816,7 +4816,6 @@ aerographies
 aerohydrodynamic
 approachment
 ambodexter
-akaroa
 antritis
 archdapifership
 aquavalent
@@ -21370,6 +21369,7 @@ aspergillosis
 alabastra
 applewood
 asperifoliae
+akaroa
 asperifoliate
 anthrol
 arenas
