@@ -1827,7 +1827,6 @@ becharm
 brainiest
 bancha
 bonhomie
-bivial
 bipunctate
 beslime
 braincase
@@ -3884,6 +3883,7 @@ beechnuts
 bifidated
 baxtone
 brachyskelic
+bivial
 boughten
 bazars
 bint
