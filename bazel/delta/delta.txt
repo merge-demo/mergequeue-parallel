@@ -6850,7 +6850,6 @@ drevel
 dragnet
 deadflat
 deltic
-domesticative
 derivative
 desmopathology
 desmopexia
@@ -9596,6 +9595,7 @@ decimated
 draggly
 disjuncts
 deevilick
+domesticative
 digladiating
 decken
 duellos
