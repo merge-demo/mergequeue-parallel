@@ -3127,6 +3127,7 @@ brevet
 bleakest
 bonnes
 burghemot
+bubalis
 bronchography
 bleat
 bascunan
@@ -8596,7 +8597,6 @@ bebar
 bebization
 brochette
 balcone
-bubalis
 behear
 billtong
 basins
