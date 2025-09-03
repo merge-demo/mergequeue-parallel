@@ -6817,6 +6817,7 @@ chemotherapeutical
 chartaceous
 cellulosic
 contented
+chromatophorous
 cellulosing
 cellulosity
 correllated
@@ -13702,7 +13703,6 @@ cinchonisation
 cinchonise
 cloots
 clashed
-chromatophorous
 chambul
 campfire
 cheers
