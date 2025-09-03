@@ -23,6 +23,7 @@ deltiology
 diathermia
 dodkin
 dependance
+digitiform
 dabs
 decelerates
 dabsters
@@ -16091,7 +16092,6 @@ disturn
 diapedesis
 decorrugative
 doublespeak
-digitiform
 dumped
 drent
 dungas
