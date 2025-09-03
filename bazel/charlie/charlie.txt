@@ -24461,7 +24461,6 @@ chlorosis
 cop
 copable
 carrs
-copacetic
 claquer
 copaene
 copaifera
@@ -25866,6 +25865,7 @@ capitalization
 congas
 coeternally
 cortexes
+copacetic
 cortication
 cortices
 cordula
