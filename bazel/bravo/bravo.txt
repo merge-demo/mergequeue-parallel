@@ -5921,6 +5921,7 @@ bangalay
 benumbing
 beltless
 benchmarks
+brickkiln
 biauriculate
 beltman
 belts
@@ -15147,7 +15148,6 @@ buddhists
 brickyard
 bricking
 brickish
-brickkiln
 brewises
 branchiostegal
 beglerbeg
