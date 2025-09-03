@@ -5717,7 +5717,6 @@ ave
 agendas
 ankylosaur
 ahorse
-agendums
 amovability
 agene
 ageneses
@@ -15843,6 +15842,7 @@ antiprudential
 asking
 adenolipoma
 arriero
+agendums
 acciaccatura
 anagram
 antipsalmist
