@@ -6248,7 +6248,6 @@ denationalisation
 dermatic
 dermatitises
 dyschromatoptic
-drupe
 dermatodynia
 demisability
 distrainer
@@ -9394,6 +9393,7 @@ diplopia
 dinarchies
 dasypodidae
 differer
+drupe
 differs
 dextrorsely
 duncify
