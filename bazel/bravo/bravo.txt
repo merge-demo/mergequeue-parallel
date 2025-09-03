@@ -885,7 +885,6 @@ bawcock
 beseechingly
 biotechnology
 beamsmen
-baggie
 bountifulness
 barramundis
 baggier
@@ -13724,6 +13723,7 @@ boutons
 bradbury
 barrelful
 bouvardia
+baggie
 buffers
 bouw
 bigheads
