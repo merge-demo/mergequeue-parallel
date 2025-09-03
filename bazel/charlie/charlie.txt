@@ -5962,6 +5962,7 @@ cleg
 cyanide
 catholyte
 cathouse
+consommes
 carryable
 chandeliers
 cathouses
@@ -31309,7 +31310,6 @@ cottabus
 curdles
 curdly
 curdoo
-consommes
 conceivably
 cured
 cornix
