@@ -2029,6 +2029,7 @@ campaign
 clotheshorses
 campaigners
 campaigns
+carlylesque
 colostric
 campana
 campane
@@ -12786,7 +12787,6 @@ conceits
 computes
 costoabdominal
 countersynod
-carlylesque
 confronted
 crooknecks
 chunk
