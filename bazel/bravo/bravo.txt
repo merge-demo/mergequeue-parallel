@@ -2368,7 +2368,6 @@ barcoo
 bemoisten
 bardcraft
 barde
-beleve
 branchling
 bagasse
 bobtails
@@ -7560,6 +7559,7 @@ boons
 bewitchingly
 bewitchingness
 bewitchment
+beleve
 bewizard
 blandished
 bimolecular
