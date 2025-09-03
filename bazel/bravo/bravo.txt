@@ -183,6 +183,7 @@ bombastic
 babudom
 butternut
 byzantinesque
+bespattering
 bellerophon
 biconditional
 bac
@@ -16482,7 +16483,6 @@ blepharophthalmia
 backpointers
 bemix
 blowzier
-bespattering
 baboo
 bemantle
 borsht
