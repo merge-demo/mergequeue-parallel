@@ -17351,7 +17351,6 @@ coarsening
 cercomonas
 cotransubstantiate
 coarsens
-coarser
 coarticulate
 coarticulation
 coassert
@@ -17460,6 +17459,7 @@ cobber
 crosstrees
 cobbin
 cobbing
+coarser
 cumulite
 causeries
 cobbled
