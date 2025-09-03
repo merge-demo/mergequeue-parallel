@@ -1351,7 +1351,6 @@ acts
 aguish
 antidemocratic
 acropetally
-altitonant
 azygospore
 autoclastic
 acceptee
@@ -6298,6 +6297,7 @@ aguirage
 aguise
 aholt
 antimeter
+altitonant
 axanthopsia
 acerbas
 antignostical
