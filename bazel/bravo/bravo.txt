@@ -5775,6 +5775,7 @@ blackneb
 bryozoan
 batfish
 bonasa
+bascule
 bellhouse
 bimillenium
 biremes
@@ -17520,7 +17521,6 @@ buccellarius
 bhajan
 bhima
 bobble
-bascule
 broadacre
 burgality
 blancmanges
