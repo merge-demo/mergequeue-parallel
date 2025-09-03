@@ -5030,7 +5030,6 @@ befalling
 befalls
 bason
 botanised
-battlers
 boglet
 blazoned
 bastonet
@@ -15689,6 +15688,7 @@ brochophony
 brocht
 brochure
 balisier
+battlers
 bathycentesis
 babblishly
 brock
