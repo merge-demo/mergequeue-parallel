@@ -8823,7 +8823,6 @@ burgraviate
 burgess
 branchiopodan
 beslow
-biochemic
 bromvogel
 boeotian
 bonedog
@@ -14384,6 +14383,7 @@ brainpan
 bloods
 brainpans
 bisley
+biochemic
 blighting
 behoving
 barnstorm
