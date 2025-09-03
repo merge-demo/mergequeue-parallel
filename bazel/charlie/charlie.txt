@@ -5150,6 +5150,7 @@ casks
 caspar
 castings
 casparian
+chroniclers
 caspian
 casque
 casqued
@@ -13778,7 +13779,6 @@ cetologies
 courier
 circumstances
 codification
-chroniclers
 carpale
 cantons
 carrageen
