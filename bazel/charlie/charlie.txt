@@ -8062,7 +8062,6 @@ cavitation
 costlessly
 carnifying
 circumterrestrial
-chaffwax
 chafing
 chafted
 chimneylike
@@ -25835,6 +25834,7 @@ correction
 curette
 convertable
 corset
+chaffwax
 corsetier
 concluding
 claviform
