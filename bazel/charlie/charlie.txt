@@ -10814,7 +10814,6 @@ chlordane
 chiolite
 chionablepsia
 chionaspis
-chionodoxa
 candlepower
 circumcising
 chiopin
@@ -12475,6 +12474,7 @@ chromonematal
 cataphracti
 chromophage
 chromophane
+chionodoxa
 chromophil
 cenanthy
 chromeplating
