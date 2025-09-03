@@ -3849,6 +3849,7 @@ bricklaying
 belvidere
 bedaggered
 bawdiest
+biotypology
 biali
 benzoate
 birthbed
@@ -9111,7 +9112,6 @@ brack
 biotypes
 biotypic
 boubou
-biotypology
 biotites
 bolometric
 bromcamphor
