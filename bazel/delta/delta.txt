@@ -4667,7 +4667,6 @@ dogplate
 dinic
 dulcite
 demisangue
-dereliction
 denarius
 dustproof
 demiscible
@@ -15500,6 +15499,7 @@ dealkylate
 diapophysial
 deuced
 directing
+dereliction
 dilators
 diastema
 dorsocaudad
