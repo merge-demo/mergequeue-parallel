@@ -58,6 +58,7 @@ bricklayer
 bacteriophobia
 begalled
 brontozoum
+bosques
 bebed
 buffaloing
 beebreads
@@ -13222,7 +13223,6 @@ buggier
 barbels
 binocle
 bosporanic
-bosques
 blastulas
 blunderings
 bossage
