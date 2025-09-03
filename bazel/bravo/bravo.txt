@@ -2202,6 +2202,7 @@ barbaloin
 badineur
 bung
 bandgap
+bannerfish
 barbara
 baggara
 barbary
@@ -8354,7 +8355,6 @@ bijective
 brush
 bijou
 bhandar
-bannerfish
 bijwoner
 beanie
 bonity
