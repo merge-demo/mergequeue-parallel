@@ -12688,6 +12688,7 @@ angiopressure
 angiorrhagia
 angiorrhaphy
 angiorrhea
+amnic
 angiosarcoma
 archaeocyathus
 ascher
@@ -13696,7 +13697,6 @@ amid
 anoplura
 amphithurons
 alulet
-amnic
 assbaa
 acetylenogen
 agrah
