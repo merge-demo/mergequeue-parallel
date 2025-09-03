@@ -5236,7 +5236,6 @@ courtling
 ccws
 cassius
 cassock
-cleanser
 ctenophora
 cultures
 coenzyme
@@ -19898,6 +19897,7 @@ chaussee
 coigning
 critical
 comicalness
+cleanser
 cubited
 comices
 cognominal
