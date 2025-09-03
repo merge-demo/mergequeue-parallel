@@ -8442,7 +8442,6 @@ biriba
 bardy
 bylined
 bunging
-begirdle
 birminghamize
 bunjara
 bumble
@@ -11646,6 +11645,7 @@ boatward
 boomless
 baggala
 bedding
+begirdle
 beneficience
 boattail
 blazoners
