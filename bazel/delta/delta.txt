@@ -2630,7 +2630,6 @@ doorkeeper
 drossless
 deviceful
 decomposer
-debrief
 decomposers
 daddocky
 decomposing
@@ -11141,6 +11140,7 @@ dry
 drouth
 disappreciate
 detergents
+debrief
 disappreciation
 deciatine
 disapprobatory
