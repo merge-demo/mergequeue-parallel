@@ -7473,6 +7473,7 @@ anderson
 autoretardation
 airiferous
 algonquins
+astronaut
 antislavery
 acned
 alcestis
@@ -22298,7 +22299,6 @@ ancestrial
 allegorization
 adlegation
 astrometric
-astronaut
 apollinian
 astronavigator
 astronomer
