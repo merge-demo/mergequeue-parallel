@@ -445,7 +445,6 @@ cadaster
 cadasters
 cadastration
 cadastres
-cadaver
 capronic
 cadaverin
 cadaverous
@@ -783,6 +782,7 @@ cay
 cayapo
 criticisable
 caid
+cadaver
 caids
 cayenne
 cucurbits
