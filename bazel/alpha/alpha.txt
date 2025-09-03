@@ -2052,7 +2052,6 @@ antadiform
 achilleine
 abnormalness
 achilles
-anthropological
 astrologize
 alfin
 afounde
@@ -13622,6 +13621,7 @@ anomalon
 anomalonomy
 allegro
 auxochromism
+anthropological
 agglomerative
 auriculariaceae
 anomalotrophy
