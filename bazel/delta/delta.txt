@@ -2200,7 +2200,6 @@ dowries
 disfigured
 decasyllabon
 dreich
-descendental
 derivedly
 diatomaceae
 desultoriness
@@ -4805,6 +4804,7 @@ dejected
 disgracing
 darwin
 decadents
+descendental
 descriptor
 dangs
 dpt
