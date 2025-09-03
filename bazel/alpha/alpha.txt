@@ -2021,7 +2021,6 @@ achesoun
 acheulean
 antecell
 accustoms
-acumens
 acheweed
 achy
 absconds
@@ -16539,6 +16538,7 @@ antimallein
 ateleiosis
 airting
 alula
+acumens
 augustness
 aped
 apedom
