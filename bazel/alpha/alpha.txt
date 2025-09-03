@@ -3800,7 +3800,6 @@ asiaticization
 adjudicatory
 aerostats
 autumns
-apotheosizing
 akinetic
 adjudicators
 amores
@@ -20535,6 +20534,7 @@ arthroplastic
 achillean
 archness
 arthropodal
+apotheosizing
 abmhos
 archaists
 arthropodous
