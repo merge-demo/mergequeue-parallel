@@ -10368,6 +10368,7 @@ bravado
 birdbrains
 beadsman
 bragged
+botcher
 buonamano
 botong
 breaker
@@ -13313,7 +13314,6 @@ badmen
 balanoplasty
 botchedly
 bukat
-botcher
 benadryl
 bridgeman
 brainwater
