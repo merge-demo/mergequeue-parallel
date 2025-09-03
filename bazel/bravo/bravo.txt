@@ -4904,6 +4904,7 @@ bairnliness
 badchan
 bouncing
 bandy
+barkantine
 beek
 balkers
 bergamot
@@ -17134,7 +17135,6 @@ beduins
 baldricked
 blastulae
 brisque
-barkantine
 bullpoll
 bemirror
 bullpup
