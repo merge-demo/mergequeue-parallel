@@ -25032,7 +25032,6 @@ corectome
 cracovienne
 cardiomotility
 corectomy
-coredeemed
 coredeemer
 coree
 coreflexed
@@ -28601,6 +28600,7 @@ crematorium
 cornicular
 cornel
 cremators
+coredeemed
 coronule
 crembalum
 cremes
