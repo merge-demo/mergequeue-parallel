@@ -26652,7 +26652,6 @@ counterarch
 compulsative
 chaityas
 chende
-cloisters
 counterassociation
 cammock
 careering
@@ -28341,6 +28340,7 @@ crazy
 crazycat
 cremocarp
 certainly
+cloisters
 craziest
 clinographic
 crazily
