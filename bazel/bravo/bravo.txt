@@ -101,6 +101,7 @@ bumpity
 basset
 baronduki
 babied
+besiegement
 biped
 bloodstock
 bum
@@ -3978,7 +3979,6 @@ beadings
 bumbailiff
 binges
 brookside
-besiegement
 beadmen
 blepharophimosis
 builds
