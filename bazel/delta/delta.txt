@@ -1360,7 +1360,6 @@ discerners
 daunton
 doup
 decipium
-dactyliographer
 duelli
 definer
 dauphine
@@ -9680,6 +9679,7 @@ devastations
 dishonestly
 dollardom
 didacticity
+dactyliographer
 depass
 despot
 destructs
