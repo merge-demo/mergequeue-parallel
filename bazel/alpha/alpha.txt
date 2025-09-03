@@ -5302,6 +5302,7 @@ apocatastasis
 afoul
 airable
 afray
+adherescent
 athrocytosis
 antisymmetrical
 artemision
@@ -18164,7 +18165,6 @@ areographically
 aeroballistics
 aptyalia
 antiprofiteering
-adherescent
 arbiters
 araby
 agoras
