@@ -1826,7 +1826,6 @@ benzyls
 bridgewall
 bananivorous
 becharm
-billycans
 brainiest
 bancha
 bonhomie
@@ -4572,6 +4571,7 @@ boanerges
 bouts
 boats
 bucklered
+billycans
 beddingroll
 bubble
 bogans
