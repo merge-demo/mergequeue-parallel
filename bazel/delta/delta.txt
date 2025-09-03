@@ -13329,6 +13329,7 @@ decrees
 decoys
 dispossession
 damascus
+djellabas
 diphylleia
 dogfish
 demersed
@@ -14487,7 +14488,6 @@ dimethylamine
 divert
 dioptrometer
 dasyphyllous
-djellabas
 disraeli
 defunctionalization
 disdeify
