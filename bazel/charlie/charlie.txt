@@ -20653,7 +20653,6 @@ cankerworms
 complaisantly
 coenenchyma
 complant
-chiromancer
 complect
 cottierism
 collapsible
@@ -30872,6 +30871,7 @@ culti
 cultic
 caecity
 cultigens
+chiromancer
 cystogenous
 cultish
 cerasin
