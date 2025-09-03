@@ -768,7 +768,6 @@ decoyer
 dandizette
 dayflies
 decasyllabic
-duvetyne
 demurrages
 destains
 dandled
@@ -8644,6 +8643,7 @@ deactivator
 dicerion
 dietzeite
 diarticular
+duvetyne
 dias
 depertible
 dermatographia
