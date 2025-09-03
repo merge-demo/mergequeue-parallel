@@ -14951,6 +14951,7 @@ antidactyl
 antidemocrat
 armstrong
 auroras
+asperity
 antidemoniac
 asarums
 antidepressant
@@ -21371,7 +21372,6 @@ alabastra
 applewood
 asperifoliae
 asperifoliate
-asperity
 anthrol
 arenas
 attrib
