@@ -10345,6 +10345,7 @@ coryneum
 chicot
 chronaxy
 chicqued
+circumrotation
 chawle
 chicquer
 chicquest
@@ -13840,7 +13841,6 @@ creosoting
 clatchy
 chowderhead
 cinerator
-circumrotation
 cinereal
 cinerin
 cinerous
