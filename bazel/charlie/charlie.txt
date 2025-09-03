@@ -24165,7 +24165,6 @@ crepeiest
 cornichon
 comedial
 cleaverwort
-carbaryls
 chirimoyer
 contemplamen
 coxwain
@@ -25513,6 +25512,7 @@ coronis
 chese
 coronium
 coronofrontal
+carbaryls
 catenates
 conemaker
 crenelation
