@@ -6714,7 +6714,6 @@ dimedone
 dispeopled
 date
 designatum
-designedly
 designedness
 displeasureable
 delibate
@@ -13203,6 +13202,7 @@ desulphuret
 dysphemism
 dusting
 dysphemistic
+designedly
 diamantine
 dropouts
 dehydrogenized
