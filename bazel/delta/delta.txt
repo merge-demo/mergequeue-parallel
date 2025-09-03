@@ -7509,7 +7509,6 @@ dopster
 downtowner
 denotations
 dopas
-deuced
 dizenment
 documenters
 dichapetalum
@@ -15500,6 +15499,7 @@ dolichoprosopic
 daisycutter
 dealkylate
 diapophysial
+deuced
 directing
 dilators
 diastema
