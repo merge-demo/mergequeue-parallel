@@ -425,7 +425,6 @@ communications
 cactoid
 crocodilean
 cactus
-copying
 civilisable
 chancered
 cactuslike
@@ -28230,6 +28229,7 @@ crossbreed
 crater
 cachet
 crossfiring
+copying
 conine
 cephalothoracic
 carabineer
