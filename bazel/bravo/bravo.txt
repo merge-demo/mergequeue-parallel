@@ -1275,7 +1275,6 @@ bucketsful
 balances
 balaenidae
 bobbies
-benignity
 boracites
 benzothiazole
 ballyhack
@@ -8257,6 +8256,7 @@ bourtrees
 braze
 bureaucratically
 bigeminum
+benignity
 buvette
 billie
 bowermaiden
