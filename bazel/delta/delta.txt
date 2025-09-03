@@ -7803,7 +7803,6 @@ decoyed
 dosimetries
 dryrot
 diplospondyli
-dagestan
 depeople
 devolatilizing
 deem
@@ -12013,6 +12012,7 @@ dentifrices
 dissolvable
 decrease
 disembitter
+dagestan
 disembocation
 domicils
 diesels
