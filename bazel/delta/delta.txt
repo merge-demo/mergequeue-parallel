@@ -11512,7 +11512,6 @@ discobolos
 dewiest
 disbelieving
 degassing
-discodactylous
 damasse
 dispositive
 deskbound
@@ -13920,6 +13919,7 @@ dustily
 disthroned
 detinuit
 doltish
+discodactylous
 dotardy
 druthers
 distichal
