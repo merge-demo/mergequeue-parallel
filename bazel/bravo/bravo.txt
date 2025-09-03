@@ -5914,6 +5914,7 @@ bejant
 belter
 buyouts
 baccillla
+billet
 ballistic
 bemadam
 bushier
@@ -12212,7 +12213,6 @@ barrandite
 bemoult
 bullfights
 boiko
-billet
 bolshevist
 bolshevistic
 bewield
