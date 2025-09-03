@@ -2899,7 +2899,6 @@ downbeat
 dedicating
 disorientating
 drafting
-dispurse
 dedicatory
 decompensated
 doggoner
@@ -6993,6 +6992,7 @@ despoiler
 disabilities
 despoilers
 decongest
+dispurse
 decamps
 discreditably
 duree
