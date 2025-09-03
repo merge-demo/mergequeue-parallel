@@ -6956,7 +6956,6 @@ borderism
 bewelter
 brae
 besmirchers
-bactris
 billethead
 bioreaction
 bankfull
@@ -16566,6 +16565,7 @@ brawls
 bucco
 butte
 beaned
+bactris
 bavius
 booty
 brainlessly
