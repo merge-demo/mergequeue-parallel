@@ -7508,6 +7508,7 @@ begirding
 bewary
 beweary
 besottedness
+bumblefoot
 birl
 bahadur
 botflies
@@ -9621,7 +9622,6 @@ bismite
 bismuth
 broomsticks
 badinaging
-bumblefoot
 bromids
 bismuthate
 burhinus
