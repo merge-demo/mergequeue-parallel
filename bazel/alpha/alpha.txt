@@ -7003,6 +7003,7 @@ amphigony
 aktistetae
 aphicidal
 aku
+amyelous
 akule
 appalto
 assignation
@@ -10471,7 +10472,6 @@ automatism
 amyelia
 algaesthesia
 amyelic
-amyelous
 aposematically
 amygdal
 aludels

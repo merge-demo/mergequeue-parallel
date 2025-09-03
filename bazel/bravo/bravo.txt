@@ -7534,7 +7534,6 @@ beclaw
 bulldozers
 boke
 brooching
-backstretches
 bemad
 barbudos
 bricole
@@ -10635,6 +10634,7 @@ brazenly
 bleb
 blebby
 blinter
+backstretches
 blastematic
 bleck
 bled
