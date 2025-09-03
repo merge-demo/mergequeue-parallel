@@ -1196,7 +1196,6 @@ dactylopatagium
 dicaeology
 deervetch
 dodecaphony
-diiamb
 donnybrook
 diachoretic
 delimitized
@@ -18670,6 +18669,7 @@ danaide
 dwale
 dirking
 draffiest
+diiamb
 dwalm
 dwarfer
 dwarfishness
