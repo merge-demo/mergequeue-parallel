@@ -26714,7 +26714,6 @@ camuses
 counterconditioning
 countercoupe
 countercourant
-countercry
 countercross
 counterculture
 coagulums
@@ -28526,6 +28525,7 @@ coelelminthic
 credos
 credulity
 cardiosclerosis
+countercry
 credulities
 carabin
 chewers
