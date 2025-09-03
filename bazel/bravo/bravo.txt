@@ -1678,7 +1678,6 @@ ballsier
 boycotter
 ballsiest
 bengali
-befur
 ballup
 ballweed
 brehon
@@ -11285,6 +11284,7 @@ bargeman
 barse
 baith
 bespoused
+befur
 blowsier
 blowtorches
 bromos
