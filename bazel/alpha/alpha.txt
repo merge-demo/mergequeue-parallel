@@ -3614,6 +3614,7 @@ adhered
 apophantic
 avital
 adherency
+apart
 addiment
 adherend
 aquashow
@@ -16507,7 +16508,6 @@ apanthropia
 androphorum
 aparejos
 apargia
-apart
 actinologue
 automaker
 antarctogaean
