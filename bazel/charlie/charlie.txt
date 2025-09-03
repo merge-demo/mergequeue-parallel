@@ -3201,6 +3201,7 @@ crax
 catenated
 cytopathic
 cerebrally
+consolatrix
 cumly
 capital
 chevronny
@@ -22978,7 +22979,6 @@ consolator
 consolatory
 consolatorily
 chartophylax
-consolatrix
 console
 crossfire
 companyless
