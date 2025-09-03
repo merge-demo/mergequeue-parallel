@@ -7003,6 +7003,7 @@ arimasp
 abietineous
 allophore
 akroterion
+arabinic
 amphigony
 aktistetae
 aphicidal
@@ -18173,7 +18174,6 @@ acquisitum
 autocades
 arability
 arabin
-arabinic
 arabinosic
 arabinoside
 andevo
