@@ -15255,7 +15255,6 @@ aceratosis
 antiinsurrectionists
 antikamnia
 anamniotic
-antikathode
 ackee
 abatements
 angioparalysis
@@ -22102,6 +22101,7 @@ aerier
 alnath
 anvasser
 aphthic
+antikathode
 adeption
 anaesthesia
 astonishment
