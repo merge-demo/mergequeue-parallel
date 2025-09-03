@@ -7346,7 +7346,6 @@ albumenising
 albumenization
 albumenized
 assured
-autopathography
 aerophoto
 albumenizer
 alliable
@@ -7968,6 +7967,7 @@ algebraically
 antagonised
 algebraist
 algedo
+autopathography
 alfilerillo
 algedonics
 algefacient
