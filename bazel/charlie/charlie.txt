@@ -11179,7 +11179,6 @@ colonizers
 carousers
 chloranthy
 constuprate
-codomain
 charquid
 chloranthus
 chemoreceptivities
@@ -23648,6 +23647,7 @@ consultancy
 curat
 capmakers
 cuplike
+codomain
 cubalaya
 countableness
 contracyclical
