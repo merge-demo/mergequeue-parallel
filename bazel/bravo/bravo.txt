@@ -5821,6 +5821,7 @@ biunique
 balloonet
 biogenetical
 bunty
+beavery
 bellmaking
 banquo
 backlashed
@@ -8960,7 +8961,6 @@ biomedicine
 bondieuserie
 baginda
 biomes
-beavery
 babelike
 besmuts
 bion
