@@ -1130,6 +1130,7 @@ academy
 apheliotropism
 areae
 aploperistomatous
+asthmatic
 aneroidograph
 academist
 academite
@@ -22038,7 +22039,6 @@ azo
 ascensive
 asthmas
 angolans
-asthmatic
 auroral
 amassed
 asthmatical
