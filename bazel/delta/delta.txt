@@ -1155,7 +1155,6 @@ duchesses
 downpour
 diporpa
 dashmaker
-disoriented
 depotentiate
 defilers
 dunziekte
@@ -9568,6 +9567,7 @@ digitated
 demissly
 dromaeognathae
 doneness
+disoriented
 decapper
 digitigradism
 digitinerved
