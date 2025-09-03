@@ -716,7 +716,6 @@ domination
 defrayal
 dancalite
 duro
-dasht
 draconites
 deadmelt
 danceability
@@ -10893,6 +10892,7 @@ digit
 dynameter
 dimerized
 depthen
+dasht
 dirged
 dirgelike
 dirgeman
