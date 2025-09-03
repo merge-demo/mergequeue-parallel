@@ -8100,7 +8100,6 @@ dhobis
 dysacusia
 dysautonomia
 delve
-diophysite
 dowiness
 dehypnotizing
 descaled
@@ -16794,6 +16793,7 @@ debitor
 decoction
 disclose
 drownded
+diophysite
 drats
 dratting
 draught
