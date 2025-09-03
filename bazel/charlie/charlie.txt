@@ -13271,7 +13271,6 @@ cycloidotrope
 comfortingly
 cesura
 cheatee
-cycloids
 comprehending
 coembodies
 cyclolysis
@@ -31190,6 +31189,7 @@ corrosive
 cuproiodargyrite
 chalque
 cuproplumbite
+cycloids
 cytoplastic
 chromaticity
 cuprose
