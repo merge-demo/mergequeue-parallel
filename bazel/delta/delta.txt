@@ -737,7 +737,6 @@ dander
 dandiacally
 dandydom
 dacryosolenitis
-dishabilitation
 dandie
 depeche
 deucalion
@@ -14453,6 +14452,7 @@ divellent
 dibasic
 downstage
 dispireme
+dishabilitation
 divergement
 distensible
 dishpans
