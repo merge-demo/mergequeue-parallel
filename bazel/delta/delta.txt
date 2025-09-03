@@ -8312,6 +8312,7 @@ db
 dispossess
 dissimile
 defocus
+deprive
 diagraphs
 diagredium
 dermatopathia
@@ -9407,7 +9408,6 @@ drupe
 differs
 dextrorsely
 duncify
-deprive
 difficileness
 dignosle
 dewinesses
