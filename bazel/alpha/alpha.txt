@@ -11956,7 +11956,6 @@ architeuthis
 anastate
 anastatus
 anastigmat
-anastigmatic
 alichel
 aborning
 aspis
@@ -16233,6 +16232,7 @@ adenometritis
 antiphilosophically
 arborvitae
 amylamine
+anastigmatic
 ad
 acetanilide
 ariki
