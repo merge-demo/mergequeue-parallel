@@ -17803,7 +17803,6 @@ apprenticeships
 apprenticing
 appressed
 appressor
-anakrousis
 arrogatingly
 asuri
 appressoria
@@ -24640,6 +24639,7 @@ amelioration
 americanitis
 affrighter
 attatched
+anakrousis
 asbestinize
 abscising
 acnode
