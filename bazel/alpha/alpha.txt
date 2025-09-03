@@ -6920,7 +6920,6 @@ akepiro
 amdt
 akerite
 aketon
-angus
 astrobiologies
 archaeornis
 akhara
@@ -20190,6 +20189,7 @@ assuager
 ardencies
 antichristianity
 arrogated
+angus
 allotriuria
 afocal
 attitudinizing

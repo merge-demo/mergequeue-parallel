@@ -4548,7 +4548,6 @@ bedazzles
 baptise
 bespray
 bedbugs
-bedtick
 bedchairs
 bellowing
 buntal
@@ -12132,6 +12131,7 @@ blephara
 bolled
 bemuzzle
 bisognio
+bedtick
 boarishness
 bureaucracies
 biclinium
