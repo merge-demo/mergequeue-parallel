@@ -5534,7 +5534,6 @@ bejewels
 backstamp
 bejezebel
 bontebucks
-bagnette
 barrette
 basihyoid
 brutified
@@ -7130,6 +7129,7 @@ bestad
 boycottage
 biarticulated
 bacteriemia
+bagnette
 bernicles
 bierstube
 bestay

@@ -10421,6 +10421,7 @@ crackskull
 cored
 crosswalk
 chiffre
+cotyle
 chigetai
 chigga
 chiggers
@@ -14768,7 +14769,6 @@ coccinellid
 cocinero
 chiarooscuros
 cityness
-cotyle
 citynesses
 chinantecs
 cladodontid
