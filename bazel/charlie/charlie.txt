@@ -17578,6 +17578,7 @@ coccidium
 coccidology
 chape
 coccids
+chondriocont
 coccygalgia
 coccygeal
 coccygean
@@ -25584,7 +25585,6 @@ chapterful
 corporification
 corporosity
 corps
-chondriocont
 crusting
 corpsbruder
 corpse
