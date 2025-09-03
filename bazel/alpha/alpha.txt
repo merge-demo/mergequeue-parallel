@@ -3875,7 +3875,6 @@ adman
 admeasure
 antiquatedness
 admeasurer
-adumbrant
 anaclete
 amimide
 afforced
@@ -19075,6 +19074,7 @@ arctation
 allomerize
 arteriectasia
 abusable
+adumbrant
 antepretonic
 antiparliamenteer
 alemannic
