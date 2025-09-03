@@ -3463,7 +3463,6 @@ basuto
 baitylos
 bridgebuilding
 bilinguar
-bancos
 buphaga
 bander
 barkpeeler
@@ -6127,6 +6126,7 @@ berbery
 blest
 beneficed
 brangle
+bancos
 bushlands
 bravo
 benefices
