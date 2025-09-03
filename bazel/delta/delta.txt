@@ -991,7 +991,6 @@ derequisition
 dolomitise
 disproportionate
 drest
-darics
 devwsor
 darien
 dimmest
@@ -13108,6 +13107,7 @@ dendrometer
 djinns
 deicidal
 decanol
+darics
 drakestone
 dispatch
 divine
