@@ -1788,7 +1788,6 @@ bumblingly
 bamboozles
 briars
 brambles
-bamboozling
 bilanders
 brachman
 bamboula
@@ -9626,6 +9625,7 @@ bismite
 bismuth
 broomsticks
 badinaging
+bamboozling
 bromids
 bismuthate
 burhinus
