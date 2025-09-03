@@ -12463,7 +12463,6 @@ bdls
 brawniness
 bondstone
 bowly
-burntness
 bather
 bagpiped
 buphthalmos
@@ -13524,6 +13523,7 @@ binucleolate
 basommatophora
 ballutes
 bembex
+burntness
 besnowed
 beatermen
 bouffancy
