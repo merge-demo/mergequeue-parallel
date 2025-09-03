@@ -744,7 +744,6 @@ autogyro
 abrasions
 asperation
 anviltop
-abrasively
 androdynamous
 abrazo
 aviarists
@@ -24192,6 +24191,7 @@ acutenaculum
 automatize
 automatizes
 aerogels
+abrasively
 automatizing
 agonia
 automatonta
