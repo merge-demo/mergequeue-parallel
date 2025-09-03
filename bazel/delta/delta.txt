@@ -5079,6 +5079,7 @@ donatary
 decalogist
 dendrochirota
 dessicate
+daimyos
 describing
 durante
 disenabling
@@ -6330,7 +6331,6 @@ dextrogyration
 deject
 defensorship
 dermestidae
-daimyos
 dermic
 delint
 diatom
