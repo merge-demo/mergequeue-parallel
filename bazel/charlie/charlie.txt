@@ -2106,7 +2106,6 @@ channelizing
 coalbin
 conterminate
 corduroy
-copaiva
 campho
 camphocarboxylic
 camphoid
@@ -12024,6 +12023,7 @@ cylloses
 coheres
 choromanic
 cajolers
+copaiva
 cyclops
 catlin
 choroti
