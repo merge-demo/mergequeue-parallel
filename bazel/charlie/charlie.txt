@@ -2965,7 +2965,6 @@ colliquation
 cardiae
 cicalas
 croppies
-canthorrhaphy
 canthotomy
 charivaris
 confuter
@@ -18871,6 +18870,7 @@ caddied
 campestral
 coagel
 cilioretinal
+canthorrhaphy
 colymbidae
 cameramen
 coarcted
