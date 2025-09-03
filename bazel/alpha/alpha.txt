@@ -8572,7 +8572,6 @@ alleleu
 allelic
 allelism
 almes
-alternationist
 allelomorphic
 allelotropy
 allelotropic
@@ -9433,6 +9432,7 @@ acierating
 ascomycete
 altheine
 amylophosphate
+alternationist
 althing
 althionic
 apholates
