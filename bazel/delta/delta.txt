@@ -4450,7 +4450,6 @@ disassembled
 depolish
 dementation
 dementedly
-dementholize
 demiatheism
 dementia
 dictionally
@@ -8786,6 +8785,7 @@ ditremid
 defrocking
 dermonecrotic
 dequeen
+dementholize
 dragsmen
 diazoalkane
 depeter
