@@ -16571,7 +16571,6 @@ aperea
 arcanal
 ataxy
 alang
-aperient
 aperients
 aperiodically
 ambulanced
@@ -17507,6 +17506,7 @@ appellations
 apophonia
 anthophyllitic
 appellatived
+aperient
 appellativeness
 anchory
 arriccioci
