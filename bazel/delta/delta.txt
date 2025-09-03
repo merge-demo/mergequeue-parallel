@@ -6148,7 +6148,6 @@ dissector
 derbend
 debauch
 deploringly
-discostomatous
 dereferenced
 dereferencing
 deregulated
@@ -18230,6 +18229,7 @@ dode
 decurrent
 dunderfunk
 dunderheadedness
+discostomatous
 dunderpate
 dynamistic
 debugger
