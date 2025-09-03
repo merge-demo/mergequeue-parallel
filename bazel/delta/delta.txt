@@ -11550,6 +11550,7 @@ discolorations
 defalcations
 discolorment
 discolouring
+decatyl
 disconnectiveness
 discolourization
 discourt
@@ -17143,7 +17144,6 @@ dryfoot
 dikaryophyte
 drift
 driftage
-decatyl
 diaboleptic
 dyssystole
 danaidae
