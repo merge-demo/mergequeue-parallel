@@ -10398,6 +10398,7 @@ chiffony
 citizenries
 cupay
 cairba
+consignified
 chiffonier
 chiffoniers
 cooncan
@@ -28809,7 +28810,6 @@ chickweeds
 cretinic
 cretinistic
 chollers
-consignified
 chorti
 countless
 cretism
