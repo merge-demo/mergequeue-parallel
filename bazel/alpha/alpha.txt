@@ -9017,7 +9017,6 @@ allusiveness
 allutterly
 alluvials
 autism
-allhallow
 allodium
 abhorring
 alky
@@ -18108,6 +18107,7 @@ aquiclude
 adventurement
 ampelis
 athericerous
+allhallow
 aphanomyces
 aquifer
 avanturine

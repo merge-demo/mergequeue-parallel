@@ -7425,7 +7425,6 @@ ceratins
 ceratioid
 capsuligerous
 caffle
-ceratitis
 ceratitoidea
 ceratoblast
 ceratobranchial
@@ -14496,6 +14495,7 @@ cirsotomies
 cirterion
 cyrtoceras
 chergui
+ceratitis
 courantos
 cyrtometer
 calcavella
