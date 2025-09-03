@@ -3195,6 +3195,7 @@ basidigital
 bouteselle
 bangwaketsi
 barotactic
+bifront
 brabant
 benomyls
 bauta
@@ -8178,7 +8179,6 @@ biformed
 berthage
 backwoodsy
 biformity
-bifront
 bavarian
 blanketflower
 bifurcated
