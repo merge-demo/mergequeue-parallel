@@ -8846,7 +8846,6 @@ characterism
 characteristically
 characteristicalness
 cucaracha
-crociary
 characterization
 characterize
 characterizing
@@ -30525,6 +30524,7 @@ crucibulum
 cubistic
 crankery
 cubists
+crociary
 cubitale
 caninal
 cubitalia
