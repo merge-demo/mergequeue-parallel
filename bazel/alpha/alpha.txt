@@ -13210,6 +13210,7 @@ anisomeric
 autosome
 apoturmeric
 anisometric
+aurochses
 antimerger
 amphistyly
 acetarious
@@ -23627,7 +23628,6 @@ ankee
 archimorphic
 aurobromide
 anesis
-aurochses
 answer
 azureous
 aurore
