@@ -20581,7 +20581,6 @@ abstruseness
 adendritic
 acidimetrical
 aspirates
-auxillary
 arefy
 annelids
 austerus
@@ -22414,6 +22413,7 @@ ataxiagraph
 ataxies
 ataxinomic
 aspiratae
+auxillary
 ataxophemia
 attender
 alfas
