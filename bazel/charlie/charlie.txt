@@ -11163,7 +11163,6 @@ curtation
 caperwort
 chilopodous
 counterrecoil
-chloranemia
 couchy
 chloranemic
 chuffs
@@ -30589,6 +30588,7 @@ cucoline
 cucuy
 chunnia
 cucujid
+chloranemia
 corkscrewing
 cucujus
 callitype
