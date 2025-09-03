@@ -21241,7 +21241,6 @@ androphore
 analectic
 automobilistic
 azobacter
-asyndeton
 asyndetons
 artesonado
 asinego
@@ -24178,6 +24177,7 @@ automaticity
 antidogmatically
 automatin
 autocoids
+asyndeton
 adactyl
 acipenserine
 asemasia
