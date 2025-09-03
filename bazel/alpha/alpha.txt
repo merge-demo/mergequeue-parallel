@@ -5780,7 +5780,6 @@ agglutinatively
 aarrghh
 agamobium
 agglutinize
-anathematization
 agglutinogen
 agglutinoscope
 acclaiming
@@ -18800,6 +18799,7 @@ arouse
 archidome
 antapoplectic
 alacrities
+anathematization
 appointee
 archidoxis
 archie
