@@ -3024,7 +3024,6 @@ abrachias
 apiculation
 anatoly
 actinotherapeutics
-auxotrophy
 actinotrichium
 actinozoa
 amrita
@@ -9598,6 +9597,7 @@ alvearium
 alveated
 alveolariform
 ararauna
+auxotrophy
 alveolate
 alveolation
 acescents
