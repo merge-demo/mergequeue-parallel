@@ -147,7 +147,6 @@ bourne
 botanomancy
 banister
 booboos
-burkei
 basidiocarp
 beeheaded
 beachcomb
@@ -16542,6 +16541,7 @@ beraunite
 benevolentness
 buccanned
 begrudged
+burkei
 bent
 bellybuttons
 buccanning
