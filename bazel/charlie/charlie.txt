@@ -19636,7 +19636,6 @@ caschrom
 caballing
 clingers
 columniferous
-columniform
 cherimoya
 chedar
 cutitis
@@ -31199,6 +31198,7 @@ cuprose
 cupsful
 cupstone
 cupula
+columniform
 cupulae
 carlines
 cupulate
