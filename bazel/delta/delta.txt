@@ -5712,6 +5712,7 @@ depletions
 danton
 depletive
 denutrition
+deke
 decarboxylating
 demonised
 delthyrium
@@ -16302,7 +16303,6 @@ downcome
 dorsal
 dogtail
 downcoming
-deke
 disulfids
 desmidian
 downcry
