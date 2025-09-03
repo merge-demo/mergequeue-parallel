@@ -3205,7 +3205,6 @@ cerebrally
 cumly
 capital
 chevronny
-capitaldom
 capitaled
 capitalised
 capitalising
@@ -21046,6 +21045,7 @@ corruptibility
 connexional
 cenotaph
 computably
+capitaldom
 counterdash
 clitelliferous
 crookle
