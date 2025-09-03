@@ -811,6 +811,7 @@ demarcates
 decimals
 dangle
 danglers
+descartes
 deniable
 dearths
 dysacousia
@@ -12300,7 +12301,6 @@ disfurniture
 donax
 dendrolater
 disgarnish
-descartes
 deliberativeness
 dyspneal
 dossiere
