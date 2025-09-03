@@ -11170,7 +11170,6 @@ byways
 bertram
 boxen
 borean
-bronchiloquy
 bicyclists
 boomage
 boththridia
@@ -16240,6 +16239,7 @@ bizone
 benzoxy
 bluehearted
 broomsquire
+bronchiloquy
 bulimic
 bifurcal
 brattices
