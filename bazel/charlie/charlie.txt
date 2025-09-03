@@ -3125,6 +3125,7 @@ crocked
 capelins
 capella
 chelatable
+compacture
 coatimondie
 closemouth
 caper
@@ -20409,7 +20410,6 @@ compactor
 compactors
 compacts
 comites
-compacture
 chives
 compadre
 curstfully
