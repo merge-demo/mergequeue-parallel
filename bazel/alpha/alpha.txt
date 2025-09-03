@@ -15301,6 +15301,7 @@ antilysin
 antilysis
 aphroditous
 abrasion
+amphictyonic
 antilithic
 arless
 antilitter
@@ -18014,7 +18015,6 @@ autosuggest
 aquafortis
 avarices
 aquagreen
-amphictyonic
 aquake
 aqualung
 anglos
