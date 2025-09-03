@@ -1334,7 +1334,6 @@ consolable
 california
 californian
 culpabilis
-chinos
 cheven
 chutneys
 chantages
@@ -1389,6 +1388,7 @@ cowheel
 calypsos
 charbon
 counselorship
+chinos
 calypters
 calyptoblastea
 compartmentalization
