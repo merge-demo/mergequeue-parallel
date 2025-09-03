@@ -3040,6 +3040,7 @@ alnaschar
 actiones
 actionist
 abrazitic
+ahamkara
 actionizing
 actionless
 arrectary
@@ -6313,7 +6314,6 @@ acquitting
 acalycinous
 asterism
 aha
-ahamkara
 autoclaves
 antienthusiasm
 angiosperms
