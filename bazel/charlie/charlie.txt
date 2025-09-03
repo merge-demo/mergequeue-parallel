@@ -22874,6 +22874,7 @@ conservatorium
 crystograph
 conservators
 conservatorship
+capriciously
 coordinator
 conserve
 conserved
@@ -29999,7 +30000,6 @@ compulsions
 cuggermugger
 clearstarch
 chromo
-capriciously
 challengeable
 casualties
 cinchonate
