@@ -2876,7 +2876,6 @@ cansos
 chartophylaxes
 cant
 connectionless
-crayfish
 cantabank
 canonic
 curatively
@@ -14334,6 +14333,7 @@ circumscribable
 condescend
 circumscribed
 collapsed
+crayfish
 circumscriptions
 circumsession
 circumsinous
