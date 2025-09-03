@@ -864,7 +864,6 @@ curf
 cayuses
 cosmochemistry
 cajan
-capitare
 cajaputs
 cazibi
 cirrhose
@@ -8111,6 +8110,7 @@ chiropodist
 chainman
 chainmen
 celiomyositis
+capitare
 cultists
 crashers
 coelastrum
