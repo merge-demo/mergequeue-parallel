@@ -8387,7 +8387,6 @@ belabouring
 bilati
 boggart
 billions
-bilbi
 bundu
 bilby
 banqueteering
@@ -15660,6 +15659,7 @@ blowoffs
 brocaded
 brocardic
 brocatelle
+bilbi
 beowulf
 brocatello
 brocatels
