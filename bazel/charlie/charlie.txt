@@ -9717,7 +9717,6 @@ compositae
 chekan
 croy
 connatal
-cheke
 cheken
 comediettas
 chekhov
@@ -29924,6 +29923,7 @@ crossweb
 carbuncle
 cemeterial
 cyclopaedic
+cheke
 centetidae
 ctenocyst
 compreg
