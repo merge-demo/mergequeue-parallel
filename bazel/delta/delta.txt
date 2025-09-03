@@ -1435,6 +1435,7 @@ dawnlike
 demimetope
 disoccident
 deprest
+disfoliaged
 dispenditure
 dawnward
 dud
@@ -12254,7 +12255,6 @@ dawdle
 disfoliage
 dargo
 disrelate
-disfoliaged
 distich
 descendibility
 downbye
