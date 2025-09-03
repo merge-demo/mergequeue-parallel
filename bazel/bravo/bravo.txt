@@ -10857,7 +10857,6 @@ biggity
 bibbling
 baldpated
 bifid
-blindball
 bindable
 befingered
 bangers
@@ -14299,6 +14298,7 @@ braggle
 bandboxes
 brassicaceae
 blimps
+blindball
 bluet
 brachistocephaly
 bessi
