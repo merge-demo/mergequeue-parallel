@@ -11003,6 +11003,7 @@ anoesis
 amorua
 autoput
 amotion
+androspore
 amotions
 aubade
 anecdotical
@@ -17526,7 +17527,6 @@ arboricultural
 aouellimiden
 antiquate
 amercements
-androspore
 appendency
 appendicalgia
 allometry
