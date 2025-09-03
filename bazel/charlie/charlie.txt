@@ -2538,7 +2538,6 @@ concealed
 candlers
 casework
 candles
-candleshine
 chaucerism
 candleshrift
 capitalizations
@@ -24980,6 +24979,7 @@ cordelle
 cordelling
 crushableness
 cordery
+candleshine
 corders
 cordewane
 conventing
