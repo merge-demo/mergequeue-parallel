@@ -9600,7 +9600,6 @@ bisymmetry
 brandyman
 bushily
 bandmasters
-beclamor
 bisymmetrical
 bigg
 bandwagons
@@ -17222,6 +17221,7 @@ blastogenetic
 bugala
 bummack
 bikeways
+beclamor
 brechan
 backlighting
 bleachers
