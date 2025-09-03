@@ -3963,6 +3963,7 @@ dort
 decorous
 dooley
 dirge
+dial
 dissertating
 dominatingly
 ditchdigging
@@ -6299,7 +6300,6 @@ disinflame
 deliriant
 deemer
 drossy
-dial
 downweighted
 dendrolatry
 dislaurel
