@@ -4239,6 +4239,7 @@ carfares
 carfloat
 coater
 capiteaux
+caramelizes
 camauros
 centroidal
 carfuffling
@@ -15263,7 +15264,6 @@ calamospermae
 chivalry
 clamjamfery
 clammed
-caramelizes
 clammy
 clammiest
 coreciprocal
