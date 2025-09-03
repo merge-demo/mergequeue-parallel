@@ -5439,6 +5439,7 @@ bardily
 baghdad
 baptised
 behymn
+bruit
 brutes
 behither
 berrigan
@@ -15139,7 +15140,6 @@ ballistocardiography
 billhook
 brickel
 blolly
-bruit
 biometrically
 bacchar
 buddhists
