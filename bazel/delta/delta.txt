@@ -3336,7 +3336,6 @@ disperser
 dorey
 damnum
 decempeda
-deliciously
 ditremidae
 defleas
 downlinks
@@ -14732,6 +14731,7 @@ dizzies
 dealcoholization
 downtowns
 dizzily
+deliciously
 doter
 duellists
 diagnose
