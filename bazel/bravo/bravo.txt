@@ -2089,6 +2089,7 @@ banshies
 bornan
 bakelize
 bronchostomy
+blippers
 betrough
 branchihyal
 bourkha
@@ -3308,7 +3309,6 @@ bedwell
 bothering
 basisphenoidal
 basitemporal
-blippers
 beguilers
 besotment
 basked
