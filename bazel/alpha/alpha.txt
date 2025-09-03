@@ -12808,7 +12808,6 @@ anglophile
 awkward
 acinetaria
 antidoron
-anglophilic
 adenine
 anglophilism
 anglophobia
@@ -20222,6 +20221,7 @@ atonally
 apostolate
 arenarious
 arrosive
+anglophilic
 aleuritic
 antistreptococcal
 allowances
