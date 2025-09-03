@@ -5052,6 +5052,7 @@ denaturalized
 dueller
 denaturing
 denaturalizing
+deduct
 disfigures
 dextrogyrate
 denaturization
@@ -17355,7 +17356,6 @@ dubitation
 discovenant
 dermatolysis
 dronepipe
-deduct
 devolvement
 debar
 dilatability
