@@ -1211,7 +1211,6 @@ diaphragmal
 dastardly
 dreggish
 datably
-divinable
 demoiselles
 dimerous
 dunts
@@ -17712,6 +17711,7 @@ dhauri
 dubb
 declamando
 demidevil
+divinable
 dilemmic
 dynamometer
 dwarves
