@@ -2666,7 +2666,6 @@ amidrazone
 acrobatical
 acrobatically
 acrobatism
-angiospermal
 accrease
 actinotherapeutic
 arloup
@@ -4624,6 +4623,7 @@ animatist
 aphrodisia
 afterglide
 aepyceros
+angiospermal
 aisleless
 attributes
 aepyornithiformes
