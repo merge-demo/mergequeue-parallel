@@ -5384,7 +5384,6 @@ calin
 castration
 castrator
 compendent
-castrensial
 castrum
 cerebellopontile
 cornbell
@@ -24134,6 +24133,7 @@ convexness
 convexo
 convexoconcave
 cretins
+castrensial
 colascione
 cannalling
 convicinity
