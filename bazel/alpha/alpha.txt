@@ -4606,7 +4606,6 @@ aeolia
 ated
 aeolic
 adoptees
-animisms
 alluvial
 alveolarly
 aeolidae
@@ -19163,6 +19162,7 @@ areal
 atuami
 areawide
 areca
+animisms
 arecain
 arecas
 atmolyzer
