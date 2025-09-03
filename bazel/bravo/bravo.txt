@@ -7954,7 +7954,6 @@ blenches
 beatus
 bicipital
 bewilderedness
-borsht
 beslipper
 bespatterer
 bicircular
@@ -16485,6 +16484,7 @@ blowzier
 bespattering
 baboo
 bemantle
+borsht
 boringly
 butyrochloral
 brasier
