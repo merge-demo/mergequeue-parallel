@@ -7414,7 +7414,6 @@ dissilition
 detonations
 dusking
 detonative
-detour
 duncifying
 detectability
 detouring
@@ -16329,6 +16328,7 @@ dismayful
 dropman
 disintegrates
 dorsoventrality
+detour
 downiest
 downiness
 downingia
