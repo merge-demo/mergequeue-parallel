@@ -3276,6 +3276,7 @@ decapitalization
 diadoche
 definite
 definitely
+desecrate
 duramater
 distrait
 definiteness
@@ -15866,7 +15867,6 @@ dorp
 dacryohemorrhea
 diphthongalize
 didna
-desecrate
 dorr
 doomage
 distractedness
