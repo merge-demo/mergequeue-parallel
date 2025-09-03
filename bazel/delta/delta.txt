@@ -1427,6 +1427,7 @@ diploidy
 digresses
 demiurgical
 dawning
+dogmouth
 desocialize
 dissonancies
 dawnlike
@@ -3306,7 +3307,6 @@ dullery
 definitor
 deutschemark
 dorsosternal
-dogmouth
 dentils
 doles
 dagos
