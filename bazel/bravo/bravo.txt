@@ -8590,6 +8590,7 @@ berairou
 buncoed
 bebar
 bebization
+blackpot
 brochette
 balcone
 behear
@@ -15248,7 +15249,6 @@ bridgework
 bridie
 brumal
 bridle
-blackpot
 bridlers
 boredom
 ballerine
