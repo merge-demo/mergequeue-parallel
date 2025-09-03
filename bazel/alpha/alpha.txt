@@ -6864,7 +6864,6 @@ acuteness
 ajourise
 arolium
 apasttra
-angulodentate
 ajuga
 ajutment
 akal
@@ -14861,6 +14860,7 @@ assassinates
 antozone
 arara
 aircraftmen
+angulodentate
 anticonfederative
 antiaristocracy
 arthropterous
