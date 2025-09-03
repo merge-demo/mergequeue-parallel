@@ -11153,7 +11153,6 @@ deciatine
 disapprobatory
 drakonite
 derringer
-disapprovals
 duckwife
 disillusioned
 doppelkummel
@@ -16098,6 +16097,7 @@ drent
 dungas
 duryodhana
 doublethink
+disapprovals
 drainboard
 denigrate
 dabster
