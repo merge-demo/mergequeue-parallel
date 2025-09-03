@@ -3393,7 +3393,6 @@ amalgamator
 avaradrano
 addrest
 archsatrap
-abeyances
 aragonese
 adducer
 adducible
@@ -5293,6 +5292,7 @@ arachnomorphae
 anemoclastic
 ampelideous
 allochiral
+abeyances
 allod
 attainers
 arrhinia
