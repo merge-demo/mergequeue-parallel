@@ -4400,7 +4400,6 @@ ambushed
 appellation
 anthropophysiography
 acetopyrin
-adversing
 aphoristical
 adverseness
 adversifoliate
@@ -16385,6 +16384,7 @@ altarist
 alkargen
 astrologian
 antum
+adversing
 ambulatio
 antwerp
 awaked
