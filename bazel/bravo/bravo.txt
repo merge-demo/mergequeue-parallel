@@ -8818,7 +8818,6 @@ bungaloid
 berakot
 biocenology
 bulgar
-biocenosis
 burgraviate
 burgess
 branchiopodan
@@ -12642,6 +12641,7 @@ bunion
 bestraddling
 booger
 blancher
+biocenosis
 bonilass
 bemeans
 benefactresses
