@@ -2195,7 +2195,6 @@ barbaloin
 badineur
 bung
 bandgap
-bannerfish
 barbara
 baggara
 barbary
@@ -15592,6 +15591,7 @@ bryce
 burred
 benzoazurine
 broadcast
+bannerfish
 broadcastings
 bullyragging
 balayeuse
