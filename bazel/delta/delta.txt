@@ -8169,7 +8169,6 @@ duellize
 disembodied
 diacetin
 damager
-descenders
 diaplexal
 decennially
 dakotans
@@ -13908,6 +13907,7 @@ distenant
 dorsicornu
 daisies
 dolichocephali
+descenders
 distending
 dermatopathophobia
 dabba
