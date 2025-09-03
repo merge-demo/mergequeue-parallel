@@ -3337,6 +3337,7 @@ additionist
 attapulgite
 afterwort
 additions
+anthers
 absmho
 addititious
 additive
@@ -14191,7 +14192,6 @@ ammiolite
 angiotensin
 antherozoid
 antherozooidal
-anthers
 antheses
 aquosity
 arrestment
