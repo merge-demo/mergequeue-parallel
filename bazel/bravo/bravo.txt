@@ -15651,6 +15651,7 @@ broadspread
 broadsword
 bejig
 bromethyl
+bedrip
 brob
 betorcin
 bathala
@@ -17506,7 +17507,6 @@ bureaucratization
 breastpiece
 blindfish
 blepharoclonus
-bedrip
 bureaucratizes
 bivouacked
 boletic
