@@ -976,7 +976,6 @@ chromocenter
 chondroid
 caprelline
 calappidae
-calas
 colourtype
 cohoba
 calascione
@@ -13075,6 +13074,7 @@ cybernetically
 cybernetician
 cyberneticist
 cybernetics
+calas
 cybernion
 cressets
 cibol
