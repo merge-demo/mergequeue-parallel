@@ -1168,7 +1168,6 @@ alchemising
 acana
 acanonical
 acanth
-acantha
 acanthaceous
 aeacus
 adjustor
@@ -8866,6 +8865,7 @@ allophylus
 astounding
 attitude
 amphilogy
+acantha
 annale
 allophones
 antimosquito
