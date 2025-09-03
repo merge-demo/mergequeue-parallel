@@ -10322,7 +10322,6 @@ androgen
 archheresy
 anatomisable
 agonista
-amerinds
 assisa
 adactylia
 ailuromania
@@ -22831,6 +22830,7 @@ atrichic
 ashrama
 archpriesthood
 anallantoic
+amerinds
 amassments
 atriopore
 amidward
