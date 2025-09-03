@@ -7893,7 +7893,6 @@ desmocyte
 dispenser
 drysalter
 dihydrogen
-demonises
 depone
 dewberries
 dolichosaur
@@ -17009,6 +17008,7 @@ deltalike
 discerp
 dithery
 depucel
+demonises
 dredgers
 discreet
 didepsid
