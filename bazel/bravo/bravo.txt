@@ -2404,7 +2404,6 @@ bronteana
 bardulph
 burgouts
 brachyure
-bare
 bareback
 butterwort
 bummalo
@@ -13692,6 +13691,7 @@ bouser
 bousouki
 bousoukia
 bloomer
+bare
 bircher
 biophyte
 banqueted
