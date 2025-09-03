@@ -5655,7 +5655,6 @@ aspy
 agaroid
 agaroses
 adorner
-angiomatosis
 antiteetotalism
 agasp
 antismog
@@ -11000,6 +10999,7 @@ autoput
 amotion
 androspore
 amotions
+angiomatosis
 aubade
 anecdotical
 attitudinized
