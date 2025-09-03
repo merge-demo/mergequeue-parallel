@@ -14172,7 +14172,6 @@ anthdia
 anthroposociologist
 albs
 anticlnoria
-acipenseres
 antlered
 anthecologist
 antheia
@@ -15801,6 +15800,7 @@ abreption
 areito
 antipopes
 anthracemia
+acipenseres
 antiportable
 apollonicon
 aromata
