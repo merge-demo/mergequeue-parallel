@@ -1703,7 +1703,6 @@ confusable
 convulsionaries
 chalklike
 cecilia
-coverall
 collectables
 coapprover
 cheremissian
@@ -6095,6 +6094,7 @@ catvine
 cerebellospinal
 coordinated
 correlativeness
+coverall
 crosstied
 circumjacencies
 ceraunoscope
