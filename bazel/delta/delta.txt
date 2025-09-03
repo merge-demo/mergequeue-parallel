@@ -4756,6 +4756,7 @@ disnaturalize
 dolente
 devolution
 diffareation
+disroot
 disrelish
 demiwolf
 demob
@@ -17563,7 +17564,6 @@ doctrinaire
 discrediting
 disgustedly
 dewormed
-disroot
 disenmesh
 drumbles
 depudorate
