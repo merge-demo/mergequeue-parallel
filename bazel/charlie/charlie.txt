@@ -7760,6 +7760,7 @@ cervicapra
 cervicectomy
 capibara
 cyanided
+calochortus
 caenogenesis
 cichloid
 cerviciplex
@@ -14316,7 +14317,6 @@ circumrotate
 cuneonavicular
 circumrotatory
 circumsail
-calochortus
 cornflour
 connectivity
 circumscribable
