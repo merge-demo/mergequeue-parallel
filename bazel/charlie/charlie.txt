@@ -7534,7 +7534,6 @@ chivaried
 charer
 cerebrations
 cerebri
-cerebricity
 czar
 clonisms
 censerless
@@ -16654,6 +16653,7 @@ closefistedness
 concussant
 clubbiest
 colleagueship
+cerebricity
 cyanosis
 colera
 clem
