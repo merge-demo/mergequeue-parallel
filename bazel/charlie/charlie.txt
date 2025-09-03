@@ -3353,7 +3353,6 @@ coenact
 cappings
 coagencies
 capple
-cappuccino
 chandu
 crackiness
 caprate
@@ -21303,6 +21302,7 @@ counterguerrilla
 conchifera
 conchiferous
 caldadaria
+cappuccino
 compulsively
 clockers
 conchyliated
