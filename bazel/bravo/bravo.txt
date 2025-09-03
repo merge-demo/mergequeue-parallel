@@ -5076,7 +5076,6 @@ barkevikite
 bamboo
 binits
 basilicon
-beflagged
 broidering
 beflagging
 babery
@@ -15237,6 +15236,7 @@ bursa
 batrachidae
 bridgetin
 brailled
+beflagged
 benzidine
 bridgeward
 ballyhoos
