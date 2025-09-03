@@ -7546,7 +7546,6 @@ cartoonists
 cerebrize
 cerebrocardiac
 chairman
-cerebroid
 cerebromeningeal
 cerebromeningitis
 cyclitis
@@ -26940,6 +26939,7 @@ counterpaned
 countersuggestion
 counterparry
 counterpart
+cerebroid
 cipherdom
 culpa
 conjugable
