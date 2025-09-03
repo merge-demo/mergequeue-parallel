@@ -22062,7 +22062,6 @@ aesthiology
 arthrosporous
 aquench
 astigmatoscope
-astigmatoscopy
 astigmic
 antiphon
 astigmometer
@@ -22293,6 +22292,7 @@ aliments
 anchistea
 astrometeorology
 astrometeorological
+astigmatoscopy
 aforenamed
 ancestrial
 allegorization
