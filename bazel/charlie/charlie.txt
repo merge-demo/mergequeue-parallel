@@ -5537,7 +5537,6 @@ coptic
 cataloguing
 clankety
 catalonian
-cataloon
 catalos
 catalufa
 capricornus
@@ -17064,6 +17063,7 @@ contrantiscion
 canthitis
 coperose
 coachfellow
+cataloon
 coachy
 coaching
 coachmaker
