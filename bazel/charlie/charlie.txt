@@ -5253,7 +5253,6 @@ cassons
 cochleated
 chariotway
 cynodont
-cornstook
 cassowary
 cassowaries
 carotidean
@@ -20130,6 +20129,7 @@ cryoscope
 cristispira
 cribella
 caroused
+cornstook
 cerillo
 commies
 commigration
