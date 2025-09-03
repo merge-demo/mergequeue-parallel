@@ -13259,7 +13259,6 @@ buckra
 bucketfuls
 bostanji
 buffering
-bosthoon
 boulles
 biblus
 bostonian
@@ -15271,6 +15270,7 @@ barblet
 backie
 bierstuben
 boggiest
+bosthoon
 buddhistical
 blaeness
 briered
