@@ -12229,6 +12229,7 @@ brake
 briefless
 byssiferous
 bolt
+boasters
 boltage
 brightness
 biasses
@@ -13203,7 +13204,6 @@ bosjesman
 boustrophedonic
 boskier
 balneology
-boasters
 bosn
 benefactress
 balneologist
