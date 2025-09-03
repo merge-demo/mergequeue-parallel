@@ -3615,6 +3615,7 @@ deglazed
 discoblastic
 dorsalgia
 deglazing
+diopters
 duckling
 dubbing
 deglycerin
@@ -10362,7 +10363,6 @@ dogdoms
 ditton
 drunkly
 diopter
-diopters
 decumary
 draped
 delf
