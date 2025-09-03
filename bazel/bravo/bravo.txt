@@ -1827,7 +1827,6 @@ beslime
 braincase
 bullose
 bialystoker
-bandaged
 bandaging
 bowlin
 bathoses
@@ -9789,6 +9788,7 @@ beryx
 boshvarks
 based
 bronchospasm
+bandaged
 backswording
 borrowers
 boopic
