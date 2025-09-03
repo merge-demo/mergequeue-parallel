@@ -232,7 +232,6 @@ bostons
 biofog
 bandicoot
 baccy
-banishments
 braidings
 bacciferous
 brookless
@@ -7321,6 +7320,7 @@ bombous
 bootikins
 beautifications
 boluses
+banishments
 blindfolds
 betime
 blotching
