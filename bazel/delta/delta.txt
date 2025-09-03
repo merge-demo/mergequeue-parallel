@@ -6138,6 +6138,7 @@ duperies
 deservedness
 demicylindrical
 deratized
+devisability
 derats
 doloroso
 deratted
@@ -16968,7 +16969,6 @@ duralumin
 dreamsy
 denaries
 displeasingness
-devisability
 dobber
 deionizer
 doless
