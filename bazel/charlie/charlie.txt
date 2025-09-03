@@ -15163,7 +15163,6 @@ criminosis
 cancelling
 chuffing
 condecent
-crumbled
 clag
 clagged
 claggy
@@ -16256,6 +16255,7 @@ cornerman
 compagination
 cynography
 clinohumite
+crumbled
 cowhide
 childermas
 constringency

@@ -1083,7 +1083,6 @@ doling
 dacryocystorhinostomy
 depositions
 darrein
-demideify
 devonite
 darshan
 dampening
@@ -17666,6 +17665,7 @@ dygogram
 diffusimeter
 devilbird
 deedholder
+demideify
 doolies
 derricking
 discomfortable
