@@ -26591,6 +26591,7 @@ chargeableness
 coerecting
 countdown
 counted
+copen
 coalyards
 colourfully
 countenanced
@@ -26929,7 +26930,6 @@ culotte
 carbethoxyl
 counteropposite
 chiococcine
-copen
 counterorder
 counterpace
 concordist
