@@ -3120,6 +3120,7 @@ downfolded
 defaults
 defaulture
 dayworker
+denumberment
 defeasanced
 dialings
 doat
@@ -16077,7 +16078,6 @@ disyllable
 decrepitude
 direct
 double
-denumberment
 demos
 didunculinae
 dotter
