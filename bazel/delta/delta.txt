@@ -1334,7 +1334,6 @@ deoxidizers
 deludingly
 deselecting
 dauke
-denticule
 dumba
 dorsigerous
 demodulator
@@ -13079,6 +13078,7 @@ diotrephes
 disparity
 dance
 dithecous
+denticule
 dispeed
 dispark
 declarer
