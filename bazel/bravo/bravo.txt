@@ -1450,7 +1450,6 @@ beakier
 benefitting
 baline
 bundahish
-bargelli
 bugler
 bloodthirstiest
 bathtubful
@@ -10351,6 +10350,7 @@ bootholder
 blandation
 balsamo
 bateau
+bargelli
 barodynamics
 bewailer
 balushai
