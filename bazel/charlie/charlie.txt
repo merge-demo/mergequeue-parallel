@@ -5933,7 +5933,6 @@ catholicisation
 cloddiest
 choreographs
 catholicised
-catholicist
 cyclopia
 chaitya
 catholicity
@@ -7511,6 +7510,7 @@ cyclanthaceae
 chariotry
 calystegia
 cerebellifugal
+catholicist
 cerebellorubral
 cerebellum
 creator
