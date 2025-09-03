@@ -4612,7 +4612,6 @@ aeolist
 aeolotropy
 atrenne
 aeolus
-artichokes
 aesculapian
 anchises
 aeon
@@ -21319,6 +21318,7 @@ antiglyoxalase
 amortisable
 arachnactis
 aphorizing
+artichokes
 asparamic
 aproned
 astigmia
