@@ -9414,7 +9414,6 @@ aulostomatidae
 afterend
 attemperate
 angakut
-alternatively
 alternativeness
 alternatives
 angioblast
@@ -11355,6 +11354,7 @@ ampulliform
 ampullula
 amputate
 amputates
+alternatively
 amputating
 amputation
 aboding
