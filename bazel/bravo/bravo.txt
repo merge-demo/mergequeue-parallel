@@ -1061,7 +1061,6 @@ busway
 bustiest
 bersim
 boyaus
-basanite
 bersil
 boroughmaster
 bailiwick
@@ -12719,6 +12718,7 @@ busters
 babelish
 beheld
 biometrician
+basanite
 bunyoro
 bookmakers
 bidarka
