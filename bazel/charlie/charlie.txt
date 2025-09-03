@@ -6979,6 +6979,7 @@ centaurdom
 cuvette
 centaurea
 catnips
+clergion
 carretta
 cantoned
 centaury
@@ -15952,7 +15953,6 @@ cotoneaster
 clergylike
 cyclos
 clergymen
-clergion
 clergywoman
 culverfoot
 clerical
