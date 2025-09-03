@@ -6326,6 +6326,7 @@ angiosperms
 ahantchuyuk
 ahartalav
 ahead
+appropriator
 anteoperculum
 abandoner
 ahey
@@ -22253,7 +22254,6 @@ armourers
 astrogony
 ammoresinol
 autoaspiration
-appropriator
 astrograph
 astrographer
 assemblywomen
