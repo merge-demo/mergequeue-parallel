@@ -1352,6 +1352,7 @@ acts
 aguish
 antidemocratic
 acropetally
+altitonant
 azygospore
 autoclastic
 acceptee
@@ -20625,7 +20626,6 @@ antarchy
 augmenting
 acquitment
 artifactitious
-altitonant
 artifacts
 artifactually
 artifex
