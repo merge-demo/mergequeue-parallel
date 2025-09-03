@@ -4585,7 +4585,6 @@ burmanniaceae
 bring
 bilberry
 bedecked
-bedrid
 bebannered
 bedecking
 broadens
@@ -10260,6 +10259,7 @@ biblism
 bladderseed
 bridgehead
 bladderwort
+bedrid
 blading
 boxfuls
 blade
