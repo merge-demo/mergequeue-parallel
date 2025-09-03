@@ -5702,7 +5702,6 @@ deozonize
 demigods
 desterilized
 dialysed
-droop
 dichromate
 disposit
 deplenish
@@ -6035,6 +6034,7 @@ deadman
 dandered
 depurate
 disingenuously
+droop
 dulcarnon
 dicliny
 depuratory

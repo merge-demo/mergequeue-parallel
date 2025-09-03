@@ -4032,7 +4032,6 @@ bovoid
 beatille
 bulgers
 bearcats
-beamingly
 bottlefuls
 beamman
 blazed
@@ -7936,6 +7935,7 @@ bedlight
 berhyming
 biffin
 blindness
+beamingly
 bake
 bichord
 borazons
