@@ -1679,6 +1679,7 @@ caltrap
 caltraps
 cervicolingual
 caltrop
+charases
 coenosite
 caltrops
 cornification
@@ -8876,7 +8877,6 @@ charango
 chorioidal
 colibacillosis
 chuddars
-charases
 charbocle
 charbonnier
 cartography
