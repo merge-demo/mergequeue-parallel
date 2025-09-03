@@ -1031,6 +1031,7 @@ boraces
 bagle
 barmecidal
 balcony
+birotation
 burnweed
 bail
 bringer
@@ -6547,7 +6548,6 @@ battuta
 byreman
 booming
 breadnut
-birotation
 baryglossia
 blotter
 bluff
