@@ -6391,7 +6391,6 @@ bluestem
 benzoquinoxaline
 balau
 benzosulfimide
-biophysiologist
 benzosulphimide
 benniseed
 botanises
@@ -8808,6 +8807,7 @@ bleariness
 brimmimg
 bathypelagic
 bioaccumulation
+biophysiologist
 bioactivities
 bioassaying
 byplace
