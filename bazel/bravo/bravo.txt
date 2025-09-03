@@ -7365,7 +7365,6 @@ braveries
 betrothing
 betroths
 betrousered
-boshboks
 betrust
 beaners
 ballonnes
@@ -16860,6 +16859,7 @@ buginese
 bec
 bookmonger
 bugara
+boshboks
 buginvillaea
 bootjacks
 bugleweed
