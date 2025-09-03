@@ -9365,7 +9365,6 @@ altamira
 altar
 altarage
 allodies
-altarpieces
 adjusts
 altars
 armbone
@@ -9374,6 +9373,7 @@ angiosclerotic
 altazimuth
 alter
 alterable
+altarpieces
 anerethisia
 alterably
 archaeocyte
