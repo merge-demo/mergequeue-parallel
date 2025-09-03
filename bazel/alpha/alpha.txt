@@ -10440,6 +10440,7 @@ amidoguaiacol
 automacy
 abusing
 articled
+armourers
 allantoidea
 ascomycetous
 amidol
@@ -22249,7 +22250,6 @@ allamotti
 agenda
 asteriskless
 apophorometer
-armourers
 astrogony
 ammoresinol
 autoaspiration
