@@ -6462,7 +6462,6 @@ cavitary
 closeup
 cystophthisis
 choleric
-cauliculi
 charcoaling
 cavitated
 consulter
@@ -31840,6 +31839,7 @@ corymb
 cutisector
 centillion
 cutises
+cauliculi
 cutiterebra
 crashes
 controverse
