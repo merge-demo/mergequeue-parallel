@@ -27578,7 +27578,6 @@ chesteine
 caesuras
 cowages
 cowardy
-cowardice
 chrobat
 cowardish
 cannibalistic
@@ -30995,6 +30994,7 @@ countersconce
 coumalin
 cumic
 campanian
+cowardice
 cumyl
 chant
 congos
