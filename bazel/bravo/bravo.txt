@@ -910,6 +910,7 @@ bogs
 balmily
 balewort
 burbush
+bimodality
 belanda
 bago
 besprinkled
@@ -8674,7 +8675,6 @@ bimillionaire
 battish
 bellbind
 bubblingly
-bimodality
 bimodule
 buckeroo
 bimonthlies
