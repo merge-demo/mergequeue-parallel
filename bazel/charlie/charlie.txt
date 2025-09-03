@@ -1404,6 +1404,7 @@ compresbyter
 crowstep
 currents
 calyptrata
+coheritor
 cheapener
 calyptratae
 calyptriform
@@ -18503,7 +18504,6 @@ coggie
 coherer
 cecidomyiidae
 cohering
-coheritor
 chondrosarcomas
 croceus
 candidest

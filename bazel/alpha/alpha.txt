@@ -1698,6 +1698,7 @@ accusatively
 accusatives
 antheridial
 archtraitor
+animadverting
 aurification
 antediluvian
 accusatory
@@ -13979,7 +13980,6 @@ academize
 antedorsal
 anatomising
 antefact
-animadverting
 autocrat
 antefix
 anaesthyl
