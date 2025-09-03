@@ -5342,6 +5342,7 @@ dysteleology
 displant
 deadheadism
 dealable
+disenchantments
 dorsoventrad
 dorsimesal
 divulgence
@@ -16729,7 +16730,6 @@ debouchure
 draisine
 destin
 duodiode
-disenchantments
 detach
 disjasket
 drinking
