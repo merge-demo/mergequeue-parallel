@@ -22393,7 +22393,6 @@ atatschite
 angiospermous
 ataunt
 ataunto
-antelopian
 antivirotic
 affrap
 alodification
@@ -24736,6 +24735,7 @@ aviculturist
 avidin
 abacot
 angioasthenia
+antelopian
 alexines
 avidous
 arithmetized
