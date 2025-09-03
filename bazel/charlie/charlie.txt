@@ -8651,6 +8651,7 @@ chondroseptum
 chanters
 cutters
 chantership
+consortia
 chanteur
 chanteuse
 codiales
@@ -23037,7 +23038,6 @@ curtest
 consortable
 consorted
 consorter
-consortia
 cavel
 copatrons
 chekmak
