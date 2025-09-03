@@ -7898,6 +7898,7 @@ dewberries
 dolichosaur
 dewcap
 disbudder
+disklike
 driveways
 dewclaws
 diaphonia
@@ -8969,7 +8970,6 @@ driest
 deceivable
 deathblows
 dichotically
-disklike
 dirigible
 denaturalization
 deidesheimer
