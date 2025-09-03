@@ -4899,6 +4899,7 @@ columbia
 catwood
 cartogram
 criniger
+chromatophilous
 comminate
 cypseli
 cartographical
@@ -12363,7 +12364,6 @@ chromatopathia
 chromatophil
 chromatophile
 cothurni
-chromatophilous
 chromatophobia
 carpel
 chromatophoric
