@@ -9813,6 +9813,7 @@ amateurish
 amateurishness
 amphithyron
 aspergillaceae
+acroterial
 airsheet
 amateurship
 anacoenosis
@@ -21523,7 +21524,6 @@ authorising
 asramas
 accompanied
 anthoclinium
-acroterial
 achenodia
 acheilous
 assagai
