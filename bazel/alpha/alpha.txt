@@ -8669,7 +8669,6 @@ aphicide
 arbinose
 allying
 allylate
-adulterant
 abecedarius
 astatine
 allylation
@@ -19071,6 +19070,7 @@ adumbrant
 antepretonic
 antiparliamenteer
 alemannic
+adulterant
 analogion
 anatomically
 arcticizing
