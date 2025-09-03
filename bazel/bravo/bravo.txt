@@ -660,6 +660,7 @@ bacteriosolvent
 basat
 breakshugh
 bacteriostatically
+bivalvia
 bacteriotherapeutic
 bechances
 beletter
@@ -9933,7 +9934,6 @@ bawdy
 blairmorite
 bivalents
 biognosis
-bivalvia
 bivalvian
 basin
 bivariant
