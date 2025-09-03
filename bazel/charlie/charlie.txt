@@ -6226,6 +6226,7 @@ cauma
 condolences
 caumatic
 caunch
+cheroot
 caunos
 caunter
 cooperator
@@ -6515,7 +6516,6 @@ contributions
 calamitoid
 cdf
 carid
-cheroot
 cdr
 cesspool
 celibates
