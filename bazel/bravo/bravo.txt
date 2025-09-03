@@ -5598,7 +5598,6 @@ bridelike
 belate
 befan
 belauded
-balt
 brocks
 barb
 becuffed
@@ -8749,6 +8748,7 @@ binitarianism
 bubonic
 buffaloed
 bink
+balt
 binna
 bowering
 binned
