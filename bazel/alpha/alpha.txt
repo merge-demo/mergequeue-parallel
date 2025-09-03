@@ -2733,6 +2733,7 @@ appalachia
 archostenosis
 autocamping
 acromicria
+ancone
 antimeres
 acromimia
 acromiocoracoid
@@ -12161,7 +12162,6 @@ accumulated
 anconal
 anticipate
 anconas
-ancone
 atticized
 anconeus
 ancony
