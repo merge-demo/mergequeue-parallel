@@ -2969,7 +2969,6 @@ cardiae
 cicalas
 croppies
 canthotomy
-charivaris
 confuter
 clamehewit
 canthuthi
@@ -15905,6 +15904,7 @@ cleistogeny
 clinium
 camauro
 cleithral
+charivaris
 cannabinaceae
 choree
 comedown

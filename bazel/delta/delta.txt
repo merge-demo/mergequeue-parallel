@@ -6803,6 +6803,7 @@ deskman
 desks
 dragade
 destined
+dredger
 dermographic
 deslime
 dissoconch
@@ -17627,7 +17628,6 @@ dope
 dehumanise
 diffinity
 diaphragms
-dredger
 disrates
 dichotomisation
 dishevels
