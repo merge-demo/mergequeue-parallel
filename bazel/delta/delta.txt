@@ -7366,7 +7366,6 @@ detecters
 dunnest
 deputise
 dollbeer
-daysman
 duecentos
 doctrinist
 deterrence
@@ -8481,6 +8480,7 @@ diametral
 diamide
 defacer
 diamides
+daysman
 dentin
 descanter
 deesis
