@@ -6762,6 +6762,7 @@ bestials
 belauds
 bert
 blowhole
+boston
 berteroa
 berthas
 bulkages
@@ -10319,7 +10320,6 @@ buildings
 bicyclical
 betise
 blamefulness
-boston
 battlefield
 bespirit
 blamelessly
