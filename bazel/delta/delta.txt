@@ -3889,6 +3889,7 @@ dekagram
 deerdog
 dewy
 damone
+denouncers
 deityship
 deixis
 decreases
@@ -5285,7 +5286,6 @@ density
 defat
 degasifier
 diatomaceoid
-denouncers
 detestable
 detinue
 dentale
