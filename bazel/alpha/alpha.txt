@@ -3218,6 +3218,7 @@ andean
 adamellite
 actorish
 allosyndesis
+arterialized
 antihierarchic
 adamine
 arborescence
@@ -19849,7 +19850,6 @@ ai
 adenofibrosis
 anagnorisis
 apperceived
-arterialized
 anemochoric
 awry
 antileukemic

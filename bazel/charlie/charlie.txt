@@ -11708,6 +11708,7 @@ chondrification
 cygnine
 chondrilla
 chondrinous
+coeternal
 cirrhotic
 chondrioma
 chondriomere
@@ -18189,7 +18190,6 @@ coestablishment
 cervulus
 cephalotome
 coetaneous
-coeternal
 coeternity
 caninity
 crystalize
