@@ -4724,6 +4724,7 @@ baldling
 blast
 bedribble
 burglarizes
+benign
 barque
 bibracteate
 billfold
@@ -17400,7 +17401,6 @@ beknots
 bunodont
 brickleness
 bacteroid
-benign
 bunoselenodont
 biatomic
 bandyman
