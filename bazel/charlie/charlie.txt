@@ -420,6 +420,7 @@ cacti
 crowners
 concrete
 cactiform
+chain
 communications
 cactoid
 crocodilean
@@ -7827,7 +7828,6 @@ cyclorrhaphous
 clinician
 cession
 cataloguist
-chain
 clapotis
 cessionaire
 castaway
