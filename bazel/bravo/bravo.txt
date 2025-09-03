@@ -9942,6 +9942,7 @@ bivariant
 baddock
 bivascular
 bismuthyl
+babyhoods
 binodous
 brinjarries
 brahmic
@@ -15525,7 +15526,6 @@ bisected
 brigander
 bronchitis
 borer
-babyhoods
 bristliness
 burette
 brucina
