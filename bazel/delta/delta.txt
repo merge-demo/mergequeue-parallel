@@ -243,7 +243,6 @@ dorstenia
 daftest
 donees
 daftness
-descending
 docetize
 dinnertime
 dorsula
@@ -3647,6 +3646,7 @@ descriptionist
 dichromic
 degorge
 degradative
+descending
 degraded
 degradement
 deplorers
