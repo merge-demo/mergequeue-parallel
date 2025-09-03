@@ -4203,7 +4203,6 @@ beauteous
 beauti
 beauty
 brachyphalangia
-bentlet
 brutalness
 brumstone
 beautydom
@@ -5400,6 +5399,7 @@ beanshooter
 brainteasers
 brakes
 bathylimnetic
+bentlet
 bars
 betravel
 behaviorists
