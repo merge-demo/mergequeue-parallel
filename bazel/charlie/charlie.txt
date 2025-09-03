@@ -11550,7 +11550,6 @@ cholecystenterorrhaphy
 cholecystgastrostomy
 carburisation
 cholecystic
-cholecystis
 complimenting
 cholecystitis
 cozies
@@ -13685,6 +13684,7 @@ cinchonaceae
 caules
 conuzor
 cinchonaceous
+cholecystis
 cathedratica
 carpets
 cinchonamine
