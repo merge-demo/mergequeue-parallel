@@ -3572,7 +3572,6 @@ carabinieri
 cotrespasser
 caraboa
 cinques
-circle
 caraboid
 caracara
 carack
@@ -8479,6 +8478,7 @@ celebrated
 championed
 championing
 championize
+circle
 caesium
 championless
 champions
