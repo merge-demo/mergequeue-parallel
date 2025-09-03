@@ -3700,7 +3700,6 @@ asconia
 anchorwise
 ametabole
 adieu
-attame
 adight
 adin
 araneose
@@ -17458,6 +17457,7 @@ appeal
 appealable
 atangle
 askance
+attame
 acanthodea
 appealing
 appealingly
