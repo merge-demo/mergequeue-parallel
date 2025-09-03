@@ -4782,6 +4782,7 @@ bedstraw
 bedstraws
 bedstring
 boundedly
+bearnaise
 beautiless
 brownly
 bedswerver
@@ -17762,7 +17763,6 @@ blinkered
 backing
 boosters
 bounce
-bearnaise
 bandeng
 burrock
 banjoists
