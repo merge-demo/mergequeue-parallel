@@ -1616,7 +1616,6 @@ drupelet
 depositories
 dealbate
 daks
-doe
 dinginess
 drawer
 doweled
@@ -6214,6 +6213,7 @@ demising
 daredevil
 ditted
 decemvir
+doe
 derivativeness
 dacoit
 derivedness
