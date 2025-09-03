@@ -7028,7 +7028,6 @@ colonus
 centerfolds
 cretoria
 commonty
-corrigibleness
 centering
 centerline
 centermost
@@ -26065,6 +26064,7 @@ calcutta
 congruential
 cosmically
 canterelle
+corrigibleness
 cystostomy
 chiefdoms
 clavigerous
