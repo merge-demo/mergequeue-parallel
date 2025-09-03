@@ -1522,6 +1522,7 @@ cartographer
 crawlway
 commonwealthism
 cuddle
+chrysotis
 callop
 camphorate
 cancerwort
@@ -12249,7 +12250,6 @@ chrysosperm
 chrysosplenium
 chrysothrix
 chrysotile
-chrysotis
 cinel
 cecotomy
 christadelphian
