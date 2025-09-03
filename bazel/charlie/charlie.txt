@@ -3009,6 +3009,7 @@ crapelike
 cantoner
 cellocut
 cantoning
+compartment
 cantonize
 colectomy
 countergager
@@ -20480,7 +20481,6 @@ comparting
 congreganist
 compartition
 chained
-compartment
 chemically
 cocarboxylase
 cacaxte
