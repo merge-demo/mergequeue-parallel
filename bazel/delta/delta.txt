@@ -3732,7 +3732,6 @@ dackering
 dehisce
 dehisced
 dichromism
-depot
 domitic
 delegated
 disprove
@@ -7086,6 +7085,7 @@ destigmatization
 destigmatizing
 disgage
 destination
+depot
 dunelands
 destines
 dz
