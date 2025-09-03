@@ -4609,6 +4609,7 @@ bescarf
 brustling
 bioplasmic
 betsileos
+biopsy
 bact
 bedewed
 ballistically
@@ -9010,7 +9011,6 @@ bipectinated
 biunity
 biopotential
 bowel
-biopsy
 bravissimo
 beaufort
 biopsic
