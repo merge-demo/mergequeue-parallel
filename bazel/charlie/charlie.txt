@@ -1299,6 +1299,7 @@ cabellerote
 calycled
 curveted
 cossyrite
+campanulate
 calicles
 calycles
 calycli
@@ -2072,7 +2073,6 @@ campanulariae
 campanularidae
 campanulatae
 catchpolery
-campanulate
 chondrosarcomata
 campanulous
 cowbells
