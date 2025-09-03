@@ -2658,7 +2658,6 @@ dishonourer
 dudeens
 deconcentration
 deposals
-decondition
 dicers
 delightedness
 diastrophism
@@ -4878,6 +4877,7 @@ durableness
 demonise
 divagate
 deaneries
+decondition
 ductile
 declive
 durrie
