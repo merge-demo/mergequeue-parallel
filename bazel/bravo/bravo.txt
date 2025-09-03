@@ -4372,7 +4372,6 @@ bickers
 bushwhacker
 basements
 bathyseism
-beclaw
 besieged
 balm
 brandering
@@ -7537,6 +7536,7 @@ breed
 biaxial
 bewhore
 bewidow
+beclaw
 bulldozers
 boke
 brooching
