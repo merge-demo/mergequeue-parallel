@@ -10054,6 +10054,7 @@ chesser
 chipyard
 cabinda
 chesses
+cochlospermaceae
 chessylite
 chessist
 chirimen
@@ -17668,7 +17669,6 @@ calque
 conservationist
 cochliodontidae
 cochlite
-cochlospermaceae
 coffeeleaf
 cochlospermum
 catatoniac
