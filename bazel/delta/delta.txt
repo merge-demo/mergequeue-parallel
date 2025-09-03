@@ -5825,7 +5825,6 @@ deposit
 diamondwork
 distome
 depositation
-dartlike
 donatively
 deposito
 depositor
@@ -9294,6 +9293,7 @@ decumbiture
 dissentious
 debite
 digitalic
+dartlike
 dateableness
 dyes
 dammer
