@@ -4045,7 +4045,6 @@ compileable
 cardiectomize
 cardielcosis
 camelishness
-coon
 copydesks
 cardiform
 cardigan
@@ -8509,6 +8508,7 @@ cestoda
 chancelloress
 copybook
 chancellors
+coon
 califates
 chancellorship
 chancellorships
