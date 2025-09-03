@@ -9032,6 +9032,7 @@ authenticatable
 afterchance
 almanacs
 almander
+astromantic
 aikido
 almandine
 aeginetic
@@ -22283,7 +22284,6 @@ astrologistic
 anagrammatise
 advancers
 astromancer
-astromantic
 astromeda
 apophyges
 aliments
