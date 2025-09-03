@@ -13821,6 +13821,7 @@ abkhas
 ant
 ahong
 antheroid
+averageness
 antaean
 antaeus
 abjudication
@@ -24621,7 +24622,6 @@ aerialness
 actinidia
 archimage
 autostylic
-averageness
 averaging
 averia
 accordant
