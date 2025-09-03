@@ -15969,7 +15969,6 @@ clericate
 chordaceous
 clericature
 cointension
-colloquialize
 clericism
 conglomerator
 centares
@@ -27333,6 +27332,7 @@ cetacean
 cloacal
 congee
 chartographer
+colloquialize
 courteousness
 courtepy
 courter
