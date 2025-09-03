@@ -3347,7 +3347,6 @@ cappadocian
 crypted
 cyclocoelic
 cappae
-capparid
 capped
 capper
 ciseleurs
@@ -11923,6 +11922,7 @@ choreographic
 chuzwi
 choreographically
 choreographing
+capparid
 calculabilities
 crestfallenness
 cerites
