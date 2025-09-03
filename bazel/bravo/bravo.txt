@@ -2996,7 +2996,6 @@ bartending
 bumaloe
 bartends
 blechnoid
-barters
 brujo
 blood
 bullace
@@ -15606,6 +15605,7 @@ bribee
 bisulcated
 bosoming
 bolide
+barters
 bauxitite
 bundlet
 bluster
