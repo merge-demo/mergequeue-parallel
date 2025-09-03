@@ -12685,7 +12685,6 @@ duntle
 daredevils
 drate
 delegant
-dertrotheca
 doomsman
 defaultant
 descendentalist
@@ -14013,6 +14012,7 @@ distomidae
 dubby
 deturb
 derrid
+dertrotheca
 dehydrogeniser
 dystonia
 dystonic
