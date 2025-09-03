@@ -10165,7 +10165,6 @@ amebobacter
 analgesidae
 ameboid
 ameboidism
-amedeo
 arytenoid
 ameed
 ameer
@@ -17743,6 +17742,7 @@ antiaris
 alida
 aerotropic
 arras
+amedeo
 apposition
 avouching
 araeosystyle
