@@ -7413,6 +7413,7 @@ albumoid
 anguses
 albumose
 albums
+apnoeas
 anelectrotonic
 ahind
 arrestable
@@ -8965,7 +8966,6 @@ anthesis
 anthracoid
 alloxuraemia
 alloxuremia
-apnoeas
 aumaga
 alloxuric
 allround
