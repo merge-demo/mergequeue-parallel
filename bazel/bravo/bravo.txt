@@ -7783,6 +7783,7 @@ bamboozle
 bibbler
 blooms
 bufonite
+blinker
 borazon
 bajri
 balneography
@@ -10915,7 +10916,6 @@ bartonia
 bodleian
 brooms
 beadroll
-blinker
 balancewise
 barretors
 buriti
