@@ -5088,7 +5088,6 @@ chemotaxis
 cyphering
 caserne
 casernes
-caserns
 cases
 catarrhally
 caseum
@@ -29364,6 +29363,7 @@ cris
 capax
 cinemese
 chairperson
+caserns
 crisic
 crispated
 crispbread
