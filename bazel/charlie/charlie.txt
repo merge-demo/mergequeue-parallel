@@ -7418,7 +7418,6 @@ commerced
 checkmates
 cerated
 cerates
-ceratiasis
 ceratiid
 ceratins
 ceratioid
@@ -14385,6 +14384,7 @@ crepitant
 circumvallation
 circumvented
 circumventing
+ceratiasis
 circumvention
 circumventions
 coking
