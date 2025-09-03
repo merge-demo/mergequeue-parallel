@@ -22225,7 +22225,6 @@ congeners
 coeffluent
 coleseeds
 congenial
-carousal
 commiserative
 capes
 calaber
@@ -30486,6 +30485,7 @@ cronie
 cavin
 cubbyhouse
 codein
+carousal
 cubbishness
 choiring
 cubbyu
