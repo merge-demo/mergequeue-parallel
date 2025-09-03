@@ -7454,7 +7454,6 @@ bevenom
 bever
 barleducs
 burses
-beverse
 bitbrace
 botas
 bevesseled
@@ -13115,6 +13114,7 @@ borneols
 belaced
 bovids
 borning
+beverse
 bornite
 brusquer
 baksheesh
