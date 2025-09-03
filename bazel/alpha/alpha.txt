@@ -8810,6 +8810,7 @@ adream
 anisettes
 antisceptical
 achromatizable
+adamantoma
 astroalchemist
 agnathostomatous
 allographic
@@ -20511,7 +20512,6 @@ arthromere
 arthromeric
 arthrometer
 afterplay
-adamantoma
 arthrometry
 aswithe
 arthroncus
