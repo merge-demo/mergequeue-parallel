@@ -5088,6 +5088,7 @@ bureaucrat
 beeps
 beflap
 brahminee
+bumpsy
 bleating
 beflea
 brainier
@@ -15176,7 +15177,6 @@ bulgarophil
 blackfire
 butterfingers
 bragi
-bumpsy
 beveler
 bridelope
 boardman
