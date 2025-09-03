@@ -8813,6 +8813,7 @@ aeroporotomy
 alloiogenesis
 alloiometric
 adjustments
+ankylosaurus
 acrogenic
 alloisomerism
 allomerizing
@@ -24692,7 +24693,6 @@ ashamedly
 accosted
 adyta
 airest
-ankylosaurus
 aviated
 angule
 admission
