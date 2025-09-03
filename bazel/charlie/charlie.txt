@@ -19801,6 +19801,7 @@ combwise
 catapulting
 centurion
 ceraunics
+cubital
 come
 comebacker
 cephalochordate
@@ -21519,7 +21520,6 @@ comblike
 concretor
 climes
 cupuliform
-cubital
 cupromanganese
 concubinary
 coeducation
