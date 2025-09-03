@@ -1737,7 +1737,6 @@ brachypyramid
 broon
 byline
 boutonniere
-belorussian
 baronial
 baloskion
 bulbels
@@ -6234,6 +6233,7 @@ brimfully
 binnacles
 benshee
 blepharitis
+belorussian
 benshi
 benson
 bourse
