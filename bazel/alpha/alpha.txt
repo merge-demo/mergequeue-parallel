@@ -14763,7 +14763,6 @@ apocodeine
 anticyclogenesis
 anchoring
 anticyclolysis
-aphotic
 anticyclones
 anticyclonically
 abaculi
@@ -22096,6 +22095,7 @@ astonies
 amerindians
 annualize
 autoimmunized
+aphotic
 anusim
 astonishedly
 asterismal
