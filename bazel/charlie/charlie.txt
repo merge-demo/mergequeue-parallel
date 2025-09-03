@@ -13905,7 +13905,6 @@ canonistic
 caviars
 cynoglossum
 cynognathus
-cynography
 cirripeds
 cynoid
 contributiveness
@@ -16254,6 +16253,7 @@ clinohedrite
 crewcut
 cornerman
 compagination
+cynography
 clinohumite
 cowhide
 childermas
