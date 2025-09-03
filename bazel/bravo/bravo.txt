@@ -15685,7 +15685,6 @@ batful
 brochophony
 brocht
 brochure
-boagane
 balisier
 bathycentesis
 babblishly
@@ -17812,6 +17811,7 @@ beuncled
 booze
 bravos
 banjara
+boagane
 bursitos
 burst
 beatific

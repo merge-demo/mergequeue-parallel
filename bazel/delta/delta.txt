@@ -477,7 +477,6 @@ daytimes
 daunder
 disburthen
 dakerhen
-doughman
 disappointing
 dogcatchers
 dakhini
@@ -17406,6 +17405,7 @@ dorsicommissure
 dropforger
 dropkicker
 deficiencies
+doughman
 derivability
 delime
 dillydallies
