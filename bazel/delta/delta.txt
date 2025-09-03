@@ -4242,7 +4242,6 @@ delphically
 dasyurus
 dis
 doeskin
-downgate
 drabbish
 delphine
 despiritualization
@@ -4453,6 +4452,7 @@ dissonances
 deathless
 discouragingly
 dualizing
+downgate
 disgracefulness
 demembre
 dreamlike
