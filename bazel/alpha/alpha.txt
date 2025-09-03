@@ -13371,6 +13371,7 @@ annect
 antimusicalness
 annelidous
 aioli
+apparency
 annelism
 annellata
 autostylic
@@ -17429,7 +17430,6 @@ apparatus
 arist
 alegars
 appareling
-apparency
 apparentements
 animize
 airify
