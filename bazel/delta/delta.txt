@@ -16019,7 +16019,6 @@ doth
 disorganize
 deglutination
 dothideales
-denaturational
 deanship
 drain
 deindividualization
@@ -16679,6 +16678,7 @@ duckstone
 disburdening
 dragoonage
 dragrope
+denaturational
 decades
 dexterousness
 deathbeds
