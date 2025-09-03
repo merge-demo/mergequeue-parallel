@@ -2172,7 +2172,6 @@ campos
 conuropsis
 circumfusile
 capotes
-campshed
 campsheeting
 campsite
 compasser
@@ -7548,6 +7547,7 @@ citrulline
 corydaline
 cophouse
 cerebrifugal
+campshed
 cartoonists
 cerebrize
 cerebrocardiac
