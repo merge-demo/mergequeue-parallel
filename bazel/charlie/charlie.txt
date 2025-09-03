@@ -3031,7 +3031,6 @@ chares
 curlyheads
 capitonidae
 cantrip
-cantus
 cantuta
 cantwise
 canula
@@ -28443,6 +28442,7 @@ creationary
 creations
 chromoparous
 conphaseolin
+cantus
 creativity
 clowns
 creatorhood
