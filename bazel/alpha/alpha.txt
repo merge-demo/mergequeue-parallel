@@ -7922,6 +7922,7 @@ airworthy
 arithmetically
 amphide
 alforja
+apathus
 alfresco
 acture
 anthosiderite
@@ -11471,7 +11472,6 @@ anamorphose
 antihypertensive
 androdioecism
 abscessed
-apathus
 auxiliarly
 appositions
 anabolism
