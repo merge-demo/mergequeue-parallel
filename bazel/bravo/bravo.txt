@@ -1352,7 +1352,6 @@ bobbles
 balboa
 bethlehem
 beehive
-bookdealer
 bioplastic
 balboas
 barleymow
@@ -13378,6 +13377,7 @@ bothrium
 barcone
 bothrodendron
 blackcap
+bookdealer
 babyhood
 beothuk
 bunched
