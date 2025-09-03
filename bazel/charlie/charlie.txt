@@ -25031,7 +25031,6 @@ cardiomotility
 corectomy
 coredeemed
 coredeemer
-coredeems
 coree
 coreflexed
 chinked
@@ -31072,6 +31071,7 @@ cunabular
 cunarder
 cunctation
 cunctative
+coredeems
 cunctator
 cunctatury
 corallus
