@@ -8831,6 +8831,7 @@ allonyms
 allonomous
 arithmetize
 abortion
+amorettos
 apodan
 appreciate
 antenatal
@@ -10941,7 +10942,6 @@ arresters
 amoralist
 amorally
 alieners
-amorettos
 aphrolite
 arizonan
 aromatizing
