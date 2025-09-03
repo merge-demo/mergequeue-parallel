@@ -11002,7 +11002,6 @@ disadvantaged
 disadvantageousness
 daunted
 deminude
-disadventure
 dysaesthesia
 dasypus
 dropvie
@@ -11105,6 +11104,7 @@ diagnosticating
 disapostle
 disapparel
 dentosurgical
+disadventure
 descriptive
 disappear
 divorcees
