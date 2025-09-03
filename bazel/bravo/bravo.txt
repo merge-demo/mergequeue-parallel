@@ -3923,7 +3923,6 @@ brickbats
 bergamasca
 birdbanding
 bdelloura
-bigothero
 bdellouridae
 behelp
 bdellovibrio
@@ -12469,6 +12468,7 @@ bagpiped
 buphthalmos
 bone
 bejaundice
+bigothero
 boydom
 bonebreaker
 boned
