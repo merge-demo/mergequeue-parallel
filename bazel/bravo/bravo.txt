@@ -1380,7 +1380,6 @@ butylate
 bynin
 billows
 baldakin
-behemoths
 bathyhypesthesia
 blithen
 baldcrown
@@ -11501,6 +11500,7 @@ bastnasite
 barbicel
 brachymetropia
 bestows
+behemoths
 bocedization
 barbs
 behemoth
