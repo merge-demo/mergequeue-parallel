@@ -9647,7 +9647,6 @@ digressory
 dastard
 disproved
 dartsman
-dogmeat
 diddering
 diguanide
 dihalide
@@ -11931,6 +11930,7 @@ dissociates
 donatress
 decurrence
 discussions
+dogmeat
 dioptomiter
 delicat
 disdained
