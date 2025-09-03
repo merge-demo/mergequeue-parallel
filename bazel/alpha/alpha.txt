@@ -2361,6 +2361,7 @@ anatexes
 abnormalities
 acleistous
 appall
+aftertan
 autocombustible
 aclinic
 acmaea
@@ -16891,7 +16892,6 @@ aplacentaria
 aplacophorous
 anton
 ageratum
-aftertan
 affectedness
 angliae
 anchoic
