@@ -14581,7 +14581,6 @@ cylindrite
 convulsion
 cysticercoidal
 cysticercosis
-canonisation
 cysticerus
 cysticolous
 cystid
@@ -18629,6 +18628,7 @@ coinclination
 coachability
 ceint
 coincorporate
+canonisation
 coindicant
 coiner
 comparograph
