@@ -12586,7 +12586,6 @@ brainchild
 brigantine
 blackballer
 bloodroots
-bigeminal
 baresthesia
 bluebottle
 billposting
@@ -16020,6 +16019,7 @@ baluster
 bidery
 boskiest
 brookier
+bigeminal
 brookite
 ballade
 beneficient
