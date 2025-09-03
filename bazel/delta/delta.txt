@@ -5874,7 +5874,6 @@ devotary
 deprecating
 doorbrand
 desolations
-diachoresis
 demeaning
 disconcert
 deprecative
@@ -12110,6 +12109,7 @@ drumble
 ditheist
 delirant
 demantoid
+diachoresis
 dijudicated
 disensure
 disentail
