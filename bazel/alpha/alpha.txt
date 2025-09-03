@@ -19836,6 +19836,7 @@ armlike
 armload
 armlock
 armonicas
+advoke
 armor
 armoracia
 akuammin
@@ -24133,7 +24134,6 @@ assuage
 ampalea
 autolaryngoscopic
 autolater
-advoke
 appreve
 autolatry
 autolyse
