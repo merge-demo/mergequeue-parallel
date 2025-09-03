@@ -2460,7 +2460,6 @@ decision
 defeatists
 distinctly
 decisional
-decisions
 decisis
 dribbled
 dindon
@@ -2698,6 +2697,7 @@ decurves
 decorable
 delectable
 duetto
+decisions
 decorate
 dopey
 decorating
