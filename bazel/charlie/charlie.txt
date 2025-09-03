@@ -4377,7 +4377,6 @@ courthouses
 caripuna
 cariri
 choke
-carisa
 cabilliau
 cleistogamically
 chamoising
@@ -23718,6 +23717,7 @@ computation
 crappers
 class
 contralto
+carisa
 conjunctural
 chessmen
 cothurned
