@@ -7995,6 +7995,7 @@ diagnosticated
 dorsibranch
 drawpoint
 drunkometer
+defease
 dextroglucose
 distensive
 demological
@@ -16290,7 +16291,6 @@ dindymus
 downbeard
 doughfoot
 distilled
-defease
 debilities
 disabling
 downcome
