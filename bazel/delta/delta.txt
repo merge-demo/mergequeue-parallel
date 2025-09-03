@@ -345,7 +345,6 @@ demobs
 dipsacaceae
 daydawn
 dermopterous
-disequilibration
 dichlorodiphenyltrichloroethane
 daidlie
 dupatta
@@ -11971,6 +11970,7 @@ decolonize
 dramm
 dhunchi
 decollimate
+disequilibration
 disease
 dentalisation
 defectively
