@@ -21213,7 +21213,6 @@ cabber
 concernancy
 concerned
 cupular
-cumbersome
 concerning
 concerningly
 checked
@@ -31384,6 +31383,7 @@ curiologic
 chemotropic
 carillonneurs
 curiologically
+cumbersome
 curiologics
 comparability
 colophon
