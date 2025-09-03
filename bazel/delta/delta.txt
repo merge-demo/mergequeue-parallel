@@ -1491,6 +1491,7 @@ demilitarizes
 deaccessioning
 drawbolt
 dingbats
+dowsets
 definiendum
 deformers
 diazines
@@ -11451,7 +11452,6 @@ delilah
 disciplinatory
 dewaterer
 depuration
-dowsets
 disciples
 discipling
 disciplining
