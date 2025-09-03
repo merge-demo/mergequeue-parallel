@@ -2064,7 +2064,6 @@ daikered
 devotion
 diarial
 dimedon
-demivierge
 decaying
 diety
 degusted
@@ -7143,6 +7142,7 @@ disgracefully
 dampeners
 donenesses
 demolished
+demivierge
 dispraised
 disworship
 dudeen
