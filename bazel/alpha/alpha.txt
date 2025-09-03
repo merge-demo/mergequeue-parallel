@@ -11612,7 +11612,6 @@ anaesthesiology
 agitators
 anaesthesis
 abeltree
-almondlike
 appearanced
 anaesthetically
 anthropomantic
@@ -14433,6 +14432,7 @@ abner
 abolitionist
 avaritia
 adultress
+almondlike
 anthroponomics
 awestruck
 anthroponomist
