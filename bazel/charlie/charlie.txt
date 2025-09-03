@@ -2836,7 +2836,6 @@ crockeryware
 casziel
 coambassador
 canonising
-canonist
 canonized
 carboxyhemoglobin
 cetorhinoid
@@ -12272,6 +12271,7 @@ christhood
 cryptography
 classically
 christy
+canonist
 cardholders
 calypsonian
 christian
