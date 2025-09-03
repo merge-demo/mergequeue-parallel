@@ -7027,7 +7027,6 @@ aphizog
 alabastrine
 alabastrites
 ascenders
-acidness
 alabastrums
 aethrioscope
 alack
@@ -11210,6 +11209,7 @@ amphiploidy
 ascicidia
 alephzero
 auguries
+acidness
 ains
 aphaniptera
 ameen
