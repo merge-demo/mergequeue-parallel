@@ -12865,7 +12865,6 @@ churchwomen
 churel
 churidars
 canvassy
-cyclized
 cupidity
 churinga
 churingas
@@ -20607,6 +20606,7 @@ charge
 comping
 collectarium
 clanjamfrie
+cyclized
 compital
 compitalia
 coregonine
