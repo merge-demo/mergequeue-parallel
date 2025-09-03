@@ -7542,7 +7542,6 @@ corydaline
 cophouse
 cerebrifugal
 cartoonists
-chorea
 cerebrize
 cerebrocardiac
 chairman
@@ -31824,6 +31823,7 @@ codamine
 cutiduris
 cuties
 cytotoxic
+chorea
 cutin
 cutinisation
 cutinise
