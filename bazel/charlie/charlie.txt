@@ -9629,7 +9629,6 @@ chocard
 cheeselep
 cheeselip
 cephalochorda
-cheesemaker
 cheesemongery
 cheesemongering
 crammed
@@ -27922,6 +27921,7 @@ croucher
 charactonym
 creammaking
 craftsmanship
+cheesemaker
 craftsmaster
 cistophori
 craftspeople
