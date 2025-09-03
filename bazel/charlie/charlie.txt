@@ -6193,6 +6193,7 @@ codicilic
 cottar
 caulds
 camize
+caraco
 caulescent
 caulicle
 caulicole
@@ -16315,7 +16316,6 @@ clypeastroid
 carnivaller
 clypeate
 conspicuous
-caraco
 chowk
 curatrix
 clypeated
