@@ -3542,7 +3542,6 @@ displants
 dingles
 dermatotome
 drawbeam
-dehwar
 defuze
 dolman
 diglyphic
@@ -14086,6 +14085,7 @@ deglamorization
 distressingly
 devast
 dockyardman
+dehwar
 dishorner
 detort
 decommissioning
