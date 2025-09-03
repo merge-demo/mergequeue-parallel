@@ -3788,6 +3788,7 @@ adjudgment
 appropriation
 adjudicate
 autarkik
+arriccio
 apokatastatic
 adjudicated
 adjudication
@@ -21581,7 +21582,6 @@ assassinative
 assassinist
 assate
 airstrips
-arriccio
 apophyeeal
 aminoacetophenone
 anthramin
