@@ -8460,6 +8460,7 @@ champertor
 carbolxylol
 champertous
 cephalomotor
+coterminousness
 champy
 conjoint
 coe
@@ -25280,7 +25281,6 @@ corncobs
 cams
 corncrake
 corncrib
-coterminousness
 corncribs
 corncrusher
 cotyliscus
