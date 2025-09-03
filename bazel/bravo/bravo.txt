@@ -7876,7 +7876,6 @@ bibliopolist
 barrabora
 befall
 bibliosoph
-bobotie
 bibliothecarian
 bibliotheque
 bungalows
@@ -9544,6 +9543,7 @@ bisetous
 bishoplet
 bisexed
 balu
+bobotie
 biles
 bimastism
 butin
