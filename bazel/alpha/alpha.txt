@@ -6692,6 +6692,7 @@ annoyingness
 abietite
 airmark
 attention
+asyndesis
 alezan
 astomatous
 aphorises
@@ -21976,7 +21977,6 @@ azoparaffin
 autoepigraph
 asterisks
 ammocoetidae
-asyndesis
 antefurcal
 argyll
 asternal
