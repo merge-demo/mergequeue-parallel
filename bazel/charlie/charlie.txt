@@ -13420,7 +13420,6 @@ ciderish
 ciderkin
 crozzle
 condemnation
-concatenary
 chlorinates
 centrales
 counterturn
@@ -18382,6 +18381,7 @@ churchless
 cardinalic
 contentment
 cognatic
+concatenary
 calorize
 cognatus
 cutaway
