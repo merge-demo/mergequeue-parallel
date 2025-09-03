@@ -1149,7 +1149,6 @@ calculiform
 calculifrage
 calculist
 coxcomical
-cashew
 comically
 christs
 celluloses
@@ -23035,6 +23034,7 @@ consort
 crown
 curtest
 consortable
+cashew
 consorted
 consorter
 cavel
