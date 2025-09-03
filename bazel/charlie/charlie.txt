@@ -22494,7 +22494,6 @@ cyprinine
 conjugated
 conduplicated
 conjugationally
-conjugations
 conjugative
 conjugator
 conjugium
@@ -24851,6 +24850,7 @@ coraggio
 correct
 corah
 coraise
+conjugations
 cashless
 contourne
 coraji
