@@ -14030,7 +14030,6 @@ adrostal
 antenuptial
 aplasias
 anteoccupation
-anteocular
 accessability
 amy
 anthropomorphological
@@ -24122,6 +24121,7 @@ ancylocladus
 assonantic
 anthozoa
 awakens
+anteocular
 autokinesy
 antisepalous
 autokinesis
