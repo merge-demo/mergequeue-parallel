@@ -18683,7 +18683,6 @@ cointerring
 coinvolve
 coyo
 coyol
-coyos
 coyotes
 coccoloba
 coyotillos
@@ -24579,6 +24578,7 @@ copier
 cerebrogalactose
 criminalese
 coalescence
+coyos
 copies
 comvia
 copyfitting
