@@ -251,7 +251,6 @@ bastinadoed
 bactrites
 betrothed
 bathyanesthesia
-bached
 bachelordom
 bachelorette
 bachelorhood
@@ -8165,6 +8164,7 @@ boring
 biflex
 benchfellow
 beshiver
+bached
 bifocal
 balanocele
 berith
