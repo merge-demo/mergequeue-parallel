@@ -140,7 +140,6 @@ cytostomal
 cablelaid
 cableless
 cogent
-cablelike
 cerberic
 chryseis
 colophany
@@ -27319,6 +27318,7 @@ courtage
 climacterics
 courtal
 craspedota
+cablelike
 courtbred
 courtcraft
 cetacean
