@@ -11613,6 +11613,7 @@ anaesthesis
 abeltree
 appearanced
 anaesthetically
+abnormity
 anthropomantic
 anaesthetization
 avoke
@@ -16853,7 +16854,6 @@ arcature
 almswomen
 astite
 arcking
-abnormity
 apiole
 alveola
 apiologist
