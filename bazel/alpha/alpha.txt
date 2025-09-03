@@ -3158,6 +3158,7 @@ adjunct
 acutest
 arborise
 aedine
+appendage
 acutilingual
 axal
 abloom
@@ -18269,7 +18270,6 @@ accessioned
 ah
 anosognosia
 araire
-appendage
 atossa
 araise
 aronia
