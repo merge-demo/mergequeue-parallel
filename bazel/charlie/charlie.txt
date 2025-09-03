@@ -28937,7 +28937,6 @@ choosey
 cojuror
 cricothyroidean
 cuneated
-crossbowman
 compositions
 cochair
 cricotus
@@ -29772,6 +29771,7 @@ cropplecrown
 crops
 cropshin
 cropsick
+crossbowman
 cropweed
 casekeeper
 croqueted
