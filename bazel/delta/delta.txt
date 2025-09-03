@@ -2476,7 +2476,6 @@ ditchdown
 dirigent
 deckhand
 dovekies
-duckwing
 deckle
 disslander
 dulls
@@ -4481,6 +4480,7 @@ damoetas
 drones
 dago
 despairfulness
+duckwing
 divulgers
 doubtingness
 demesgne
