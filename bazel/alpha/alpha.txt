@@ -18226,7 +18226,6 @@ astrocompass
 arachnean
 arachnid
 aestivation
-apochromat
 almsdeed
 arachnida
 antiketogenesis
@@ -20394,6 +20393,7 @@ ambushment
 asg
 anticorrosively
 admov
+apochromat
 asterospondylous
 arteriogenesis
 arteriograph
