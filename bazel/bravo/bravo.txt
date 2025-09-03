@@ -2993,6 +2993,7 @@ bess
 bidirectionally
 boist
 bartenders
+banba
 benzene
 bartending
 bumaloe
@@ -9852,7 +9853,6 @@ bewhisper
 bait
 broth
 birred
-banba
 backswing
 bleinerite
 bitterheartedness
