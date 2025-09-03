@@ -4215,7 +4215,6 @@ dribs
 decimal
 disavaunce
 doorjamb
-delphacidae
 disincorporated
 dewberry
 dressed
@@ -9267,6 +9266,7 @@ depender
 devolve
 discontinuor
 drosophilidae
+delphacidae
 decreptitude
 debarkation
 disilluded
