@@ -1570,6 +1570,7 @@ accouplement
 accouter
 apotype
 accoutered
+ablepsy
 anoxia
 agrostologist
 aneling
@@ -24249,7 +24250,6 @@ abacinate
 autophon
 apodioxis
 antihidrotic
-ablepsy
 autophone
 acrasins
 anticoagulan
