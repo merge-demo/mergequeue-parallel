@@ -6532,6 +6532,7 @@ diacritic
 dockman
 degradedness
 dichlorhydrin
+disharmonise
 described
 dolous
 divorce
@@ -16186,7 +16187,6 @@ defectology
 dixits
 douma
 didynamy
-disharmonise
 dingee
 douping
 deformity
