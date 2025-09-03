@@ -13979,7 +13979,6 @@ cyphella
 cyphellae
 cyphellate
 cypher
-cipherdom
 canicide
 cibarian
 causeur
@@ -26951,6 +26950,7 @@ counterpaned
 countersuggestion
 counterparry
 counterpart
+cipherdom
 culpa
 conjugable
 chartae
