@@ -2309,7 +2309,6 @@ canalizing
 charmers
 canalla
 colorcasted
-canalled
 canallers
 canals
 cylindrocellular
@@ -23183,6 +23182,7 @@ consperg
 cromlechs
 constricted
 cobby
+canalled
 constricting
 constriction
 colchis
