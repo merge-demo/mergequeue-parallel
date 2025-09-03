@@ -1552,7 +1552,6 @@ bersiamite
 bulbiform
 branchiate
 bouton
-beyerite
 backsword
 ballaster
 ballastic
@@ -16815,6 +16814,7 @@ buffoonish
 bungle
 baret
 birostrated
+beyerite
 buffoonishness
 benchwork
 bebotch
