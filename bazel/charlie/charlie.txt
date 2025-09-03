@@ -10598,7 +10598,6 @@ chilognathous
 chilogrammo
 cubic
 conservatoire
-corybantic
 cosmopolis
 chilomastix
 chylomicron
@@ -29275,6 +29274,7 @@ carri
 custody
 cryptogram
 cryptogrammatic
+corybantic
 cryptogrammatical
 cadouk
 concelebrated
