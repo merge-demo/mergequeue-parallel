@@ -2781,6 +2781,7 @@ baconer
 bowsprits
 bewig
 bureaus
+buffi
 barites
 bolding
 betulaceous
@@ -4459,7 +4460,6 @@ biogenous
 benzomorpholine
 buhrstone
 borocalcite
-buffi
 brutifies
 becrust
 bhakti
