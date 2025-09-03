@@ -957,6 +957,7 @@ archdeacon
 abstergent
 antemeridian
 absterges
+angelican
 ambleocarpus
 antituberculin
 amphigastrula
@@ -1497,7 +1498,6 @@ arreptitious
 agcy
 accomplished
 accomplisher
-angelican
 arthrodesis
 archetto
 accomplishes
