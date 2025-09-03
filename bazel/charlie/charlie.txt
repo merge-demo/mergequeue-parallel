@@ -5886,7 +5886,6 @@ cavorter
 clasp
 cathedras
 chronophotograph
-cathedrated
 cathedratic
 cathedraticum
 couths
@@ -11874,6 +11873,7 @@ chordacentrous
 contend
 chordal
 cosharer
+cathedrated
 congenitalness
 chordamesoderm
 chordamesodermal
