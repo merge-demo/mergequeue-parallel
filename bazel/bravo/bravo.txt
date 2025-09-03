@@ -5423,7 +5423,6 @@ bargeload
 blubbery
 boardmanship
 boatable
-behemoth
 beetling
 behenic
 beans
@@ -11510,6 +11509,7 @@ brachymetropia
 bestows
 bocedization
 barbs
+behemoth
 blurb
 blurbist
 bananist
