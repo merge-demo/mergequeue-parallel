@@ -5067,7 +5067,6 @@ dendritic
 dendritical
 deal
 derbyshire
-dendrium
 diminishes
 decuria
 derailed
@@ -12430,6 +12429,7 @@ discharged
 disclaimed
 digestor
 differentiates
+dendrium
 duplexer
 drias
 disharmonised
