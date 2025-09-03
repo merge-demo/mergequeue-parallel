@@ -16354,7 +16354,6 @@ downright
 diosmotic
 discredits
 defended
-downshifted
 downshore
 desirelessness
 dismarch
@@ -17165,6 +17164,7 @@ drifty
 dressers
 driftingly
 driftlessness
+downshifted
 drepanium
 divulging
 degenerative
