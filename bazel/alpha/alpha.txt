@@ -10344,7 +10344,6 @@ assailants
 ametabola
 ametabolia
 angulose
-almoravid
 alikulufan
 anglogaean
 ametabolic
@@ -21854,6 +21853,7 @@ assorted
 assorter
 assortments
 asssembler
+almoravid
 assuade
 astrologer
 arguteness
