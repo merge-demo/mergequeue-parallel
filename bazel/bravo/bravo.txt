@@ -8049,6 +8049,7 @@ benedict
 bused
 boread
 bdle
+bulbiferous
 branches
 byronian
 blooper
@@ -17915,7 +17916,6 @@ bibliopoly
 bushman
 bagmaker
 benignant
-bulbiferous
 bangle
 bedsides
 breezes
