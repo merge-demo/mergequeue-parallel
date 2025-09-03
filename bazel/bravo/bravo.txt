@@ -3822,6 +3822,7 @@ bonos
 blvd
 bulgur
 balsas
+blackjacks
 bohireen
 bicker
 bucare
@@ -10168,7 +10169,6 @@ bibulous
 besague
 britany
 blackjacking
-blackjacks
 bureaux
 bootstraps
 bituminizing
