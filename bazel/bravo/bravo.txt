@@ -2526,7 +2526,6 @@ biltong
 begster
 brained
 bosque
-beltways
 burghalpenny
 bloodberry
 barylalia
@@ -16364,6 +16363,7 @@ brushback
 butt
 bladesmith
 bestick
+beltways
 buttons
 betrace
 brolly
