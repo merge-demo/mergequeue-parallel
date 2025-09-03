@@ -120,7 +120,6 @@ deactivated
 dactylozooid
 dreamage
 devilments
-defoam
 dichapetalaceae
 damson
 determinability
@@ -11061,6 +11060,7 @@ dethronable
 dioptroscopy
 dewaxing
 demonlike
+defoam
 disseizure
 dayblush
 deboistness
