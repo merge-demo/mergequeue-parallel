@@ -5205,7 +5205,6 @@ ataxia
 afflatus
 absent
 astrionics
-afflicter
 afflicting
 afflictingly
 arviculture
@@ -20636,6 +20635,7 @@ artifacts
 artifactually
 artifex
 advocatrix
+afflicter
 aerobiology
 artificial
 adverted

@@ -11627,6 +11627,7 @@ dormitory
 disconcertment
 dyspnoi
 drees
+dipsadine
 dispassionately
 diandrous
 dipt
@@ -14027,7 +14028,6 @@ disannul
 distorter
 distorters
 distress
-dipsadine
 dystonias
 dismount
 distorting
