@@ -6160,7 +6160,6 @@ countershout
 cabbalism
 cetological
 cauk
-cavillers
 coconqueror
 codeword
 conically
@@ -24562,6 +24561,7 @@ copybooks
 cognomen
 chook
 copycats
+cavillers
 citywide
 copycatting
 creedite
