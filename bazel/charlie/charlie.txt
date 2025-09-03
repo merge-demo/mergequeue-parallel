@@ -20859,7 +20859,6 @@ cajolingly
 compositely
 composites
 compositing
-compositional
 comparatives
 cacoepist
 compositor
@@ -31480,6 +31479,7 @@ chiropteran
 crimpiest
 curricling
 currycomb
+compositional
 cartoon
 currycombing
 coltoria
