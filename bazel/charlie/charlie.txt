@@ -11040,6 +11040,7 @@ coappears
 chitinous
 chitins
 chitlin
+concentering
 chitling
 chitlings
 cowbirds
@@ -21159,7 +21160,6 @@ clinophobia
 concelebration
 cunctatorship
 classer
-concentering
 counterorator
 concento
 concentralization
