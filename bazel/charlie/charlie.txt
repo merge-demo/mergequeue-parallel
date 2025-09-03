@@ -26238,7 +26238,6 @@ csk
 ceston
 cervicicardiac
 coloradans
-cursoriidae
 causational
 crowfoots
 colorimetric
@@ -28777,6 +28776,7 @@ crest
 confiserie
 clinostat
 congrue
+cursoriidae
 crestal
 churchwards
 chasings
