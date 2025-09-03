@@ -2464,7 +2464,6 @@ acorea
 atomistic
 aecidia
 acorus
-acosmist
 annunciative
 autoformation
 athecata
@@ -12035,6 +12034,7 @@ aedility
 anatoxins
 ailie
 anatreptic
+acosmist
 anatripsis
 accoucheuse
 adenology
