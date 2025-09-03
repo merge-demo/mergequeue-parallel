@@ -1788,7 +1788,6 @@ debarrance
 duryl
 debarring
 disserting
-derogatoriness
 drummock
 diplanetic
 dispiteous
@@ -18423,6 +18422,7 @@ defrauder
 diatribist
 doke
 duosecant
+derogatoriness
 disgraced
 drinky
 dockization
