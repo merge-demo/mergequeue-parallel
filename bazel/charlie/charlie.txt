@@ -11616,7 +11616,6 @@ cancrophagous
 cholerophobia
 cholestanol
 christianize
-camphylene
 cholesteatoma
 concorrezanes
 cholesteatomatous
@@ -23328,6 +23327,7 @@ consute
 crambinae
 copulating
 contabescence
+camphylene
 cromorna
 claudian
 curving
