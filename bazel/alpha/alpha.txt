@@ -8482,6 +8482,7 @@ aminoquin
 allantoid
 admonishment
 anglophobist
+aquameter
 allantoidean
 allantoides
 allantoin
@@ -21857,7 +21858,6 @@ antiphagocytic
 avidins
 apprise
 arterin
-aquameter
 aminize
 assuetude
 annualist
