@@ -3124,7 +3124,6 @@ basenesses
 bunda
 basenji
 blurrer
-brevet
 bleakest
 bonnes
 burghemot
@@ -16573,6 +16572,7 @@ buccolabial
 broomy
 bucconinae
 buccopharyngeal
+brevet
 bucculae
 butyr
 bloused
