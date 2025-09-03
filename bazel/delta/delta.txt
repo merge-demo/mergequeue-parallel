@@ -7458,7 +7458,6 @@ dextranase
 daddynut
 diglottism
 detrimentally
-dipetalous
 daroga
 deviate
 dancer
@@ -16205,6 +16204,7 @@ dousing
 derringers
 dout
 desorbing
+dipetalous
 despumated
 dematerialized
 dowitch
