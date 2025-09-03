@@ -13796,6 +13796,7 @@ anserines
 antsigne
 anspessade
 askaris
+autobusses
 anstoss
 accessorized
 anstosse
@@ -23893,7 +23894,6 @@ archipelagos
 autoboating
 autobuses
 anglo
-autobusses
 antilogarithms
 antipool
 antemetallic
