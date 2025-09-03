@@ -9964,7 +9964,6 @@ bombings
 bivoluminous
 bivouaced
 balaphon
-betelnuts
 baining
 basely
 bushranger
@@ -11343,6 +11342,7 @@ brasilin
 bandits
 bingies
 barhal
+betelnuts
 bluebreast
 balance
 badinaged
