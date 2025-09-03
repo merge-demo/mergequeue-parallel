@@ -2487,7 +2487,6 @@ acoumetry
 adjection
 acouometer
 acoup
-abrege
 acousticon
 aspheterism
 acousticophobia
@@ -20583,6 +20582,7 @@ aspirates
 arefy
 annelids
 austerus
+abrege
 allude
 asterion
 attacapan
