@@ -15418,7 +15418,6 @@ canterburian
 claptraps
 clapwort
 culbuter
-claque
 candescently
 cosmographist
 calipering
@@ -23579,6 +23578,7 @@ continued
 continuedness
 comprovincial
 continuer
+claque
 continuers
 continuing
 corseleted
