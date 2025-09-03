@@ -7787,6 +7787,7 @@ cervicomuscular
 cerviconasal
 cribrous
 crotchy
+coeliomyalgia
 cervicoscapular
 cervicothoracic
 cervinae
@@ -20336,7 +20337,6 @@ carrotier
 crump
 cubitodigital
 communistery
-coeliomyalgia
 chita
 communistic
 calyptrimorphous
