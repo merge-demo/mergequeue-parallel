@@ -773,7 +773,6 @@ badlands
 buba
 bearer
 bat
-borborygmus
 barricados
 brushcut
 banket
@@ -15118,6 +15117,7 @@ backslash
 bunsenite
 batwa
 beaverroot
+borborygmus
 bellowsmaker
 bohemia
 bellwort
