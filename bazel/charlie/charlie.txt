@@ -14486,6 +14486,7 @@ cirsoid
 cirsomphalos
 completable
 chaenomeles
+coalmouse
 cirsotomy
 clacket
 cirsotomies
@@ -17275,7 +17276,6 @@ crumple
 closecross
 coalizer
 coalless
-coalmouse
 commentaries
 counterdrain
 coalpit
