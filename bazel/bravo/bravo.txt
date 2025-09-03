@@ -4539,7 +4539,6 @@ backjaw
 bedarkening
 bedaub
 ballplayer
-benzoylglycine
 besuit
 bundeli
 borborus
@@ -6790,6 +6789,7 @@ ber
 beruffed
 brusqueness
 blae
+benzoylglycine
 bilic
 berwick
 boldness
