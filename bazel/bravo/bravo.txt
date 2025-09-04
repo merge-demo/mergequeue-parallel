@@ -8721,7 +8721,6 @@ basoche
 bingle
 brewer
 bindweed
-bullaria
 bacillophobia
 braises
 bynedestin
@@ -12608,6 +12607,7 @@ bistriazole
 battycake
 bleekbok
 branular
+bullaria
 bahuma
 beshadows
 bonze
