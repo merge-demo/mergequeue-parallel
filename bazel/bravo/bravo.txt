@@ -7685,7 +7685,6 @@ brakehand
 bullan
 brocard
 bhindi
-bowstave
 bucketmaking
 bhishti
 bhistie
@@ -8849,6 +8848,7 @@ bioclimatology
 bathwater
 bavoso
 blabber
+bowstave
 bussed
 bioclimatologically
 bioclimatologist
