@@ -8608,6 +8608,7 @@ billtong
 basins
 brachiating
 bilobe
+boatage
 bespawl
 besiegingly
 bilobed
@@ -11601,7 +11602,6 @@ bacchus
 boasts
 bryologist
 bosket
-boatage
 breakfasts
 bacterioscopical
 barspoon
