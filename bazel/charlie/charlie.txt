@@ -18572,6 +18572,7 @@ coiffures
 coiffuring
 coifing
 conner
+cuplike
 caudalward
 catheptic
 canonists
@@ -23660,7 +23661,6 @@ contraceptive
 consultancy
 curat
 capmakers
-cuplike
 codomain
 cubalaya
 countableness
