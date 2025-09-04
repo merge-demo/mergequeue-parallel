@@ -7711,7 +7711,6 @@ coelialgia
 certifies
 certifying
 coys
-certiorate
 certis
 certitudes
 circularized
@@ -30430,6 +30429,7 @@ chepster
 codesigning
 casel
 ctenophoric
+certiorate
 ctenoplana
 ctenostomata
 ceratophyllaceae
