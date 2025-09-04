@@ -4055,6 +4055,7 @@ cardiomegalia
 clerihew
 coadjacent
 cardinalitian
+claros
 cubed
 cardinalities
 cardinally
@@ -15493,7 +15494,6 @@ curiousness
 collegian
 claromontane
 caudillism
-claros
 contraposition
 cowtail
 competitioner
