@@ -6392,6 +6392,7 @@ collogues
 cavea
 caveae
 caveating
+ceramium
 cabbageworm
 cyllosis
 chiquitan
@@ -7396,7 +7397,6 @@ constructors
 catdom
 ceramics
 cledge
-ceramium
 ceramographic
 colchian
 canvass
