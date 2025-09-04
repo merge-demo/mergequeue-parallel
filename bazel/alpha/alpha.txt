@@ -10849,6 +10849,7 @@ amoyan
 amobyr
 airbag
 assayer
+allative
 amoebae
 abel
 alipata
@@ -19344,7 +19345,6 @@ argyle
 ascendable
 aseptate
 archaecraniate
-allative
 attraction
 anallantoidea
 archaeoceti
