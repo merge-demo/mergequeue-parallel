@@ -11445,7 +11445,6 @@ cogrediency
 campodeidae
 choiceness
 caryatides
-choicier
 cableway
 choil
 chymistry
@@ -11569,6 +11568,7 @@ choledochostomies
 chukars
 closured
 choledochotomies
+choicier
 cotillions
 cholee
 cholehematin
