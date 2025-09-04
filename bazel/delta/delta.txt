@@ -330,7 +330,6 @@ directories
 daybed
 devchar
 disembowelment
-dabchick
 dissuasiveness
 dollfaced
 deferential
@@ -18276,6 +18275,7 @@ disputant
 deanery
 decipher
 diagrammeter
+dabchick
 dinaric
 dissepimental
 daydreamt
