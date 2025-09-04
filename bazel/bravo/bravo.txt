@@ -2489,7 +2489,6 @@ blueblack
 beslash
 bassetite
 barguest
-barguests
 battakhin
 bartletts
 bumblebees
@@ -13770,6 +13769,7 @@ bowback
 bushment
 brazes
 bootlickers
+barguests
 blungers
 burker
 brunion
