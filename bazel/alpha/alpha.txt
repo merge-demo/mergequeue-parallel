@@ -7093,7 +7093,6 @@ audiologists
 amurru
 altercations
 azilian
-alant
 alantic
 alantin
 aquabib
@@ -13739,6 +13738,7 @@ apollinarianism
 anostraca
 anotherguess
 anotia
+alant
 antilapsarian
 agapemonian
 athletics
