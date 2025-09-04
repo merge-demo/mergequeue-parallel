@@ -2929,7 +2929,6 @@ allopelagic
 actinoids
 appriser
 atiptoe
-anthropogenesis
 alleviator
 antimeson
 aland
@@ -6944,6 +6943,7 @@ akka
 akkad
 austerer
 acephal
+anthropogenesis
 appense
 alist
 antler
