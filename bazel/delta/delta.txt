@@ -4157,7 +4157,6 @@ dismalize
 disconanthae
 dreikanters
 doctrinization
-dishonourable
 disherit
 drafty
 delists
@@ -14252,6 +14251,7 @@ discloak
 dastardize
 disuses
 disutility
+dishonourable
 disinsection
 doldrum
 dismasts
