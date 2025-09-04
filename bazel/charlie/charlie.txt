@@ -13201,7 +13201,6 @@ cyclically
 cecrops
 cyclide
 cubeb
-cyclindroid
 calomel
 characterized
 cyclings
@@ -26909,6 +26908,7 @@ countermined
 countermission
 coinfeftment
 chromophor
+cyclindroid
 circumsciss
 carburizing
 calyptrogyne
