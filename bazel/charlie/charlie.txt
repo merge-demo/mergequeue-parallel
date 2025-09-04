@@ -4059,6 +4059,7 @@ claros
 cubed
 cardinalities
 cardinally
+citriculturist
 cardinalship
 cardioarterial
 cardiocarpum
@@ -27345,7 +27346,6 @@ courters
 chilblain
 caracks
 courtesan
-citriculturist
 clint
 courtesanship
 counterinvective
