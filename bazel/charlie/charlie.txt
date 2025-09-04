@@ -27505,6 +27505,7 @@ carsickness
 coverable
 cuselite
 coveralled
+curious
 coveralls
 codeinas
 coils
@@ -31399,7 +31400,6 @@ cephalom
 cremona
 curioso
 canvassing
-curious
 collylyria
 curiously
 contrastingly
