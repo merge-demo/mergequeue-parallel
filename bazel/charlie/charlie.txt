@@ -27707,6 +27707,7 @@ cohog
 charting
 coxa
 caryophylleous
+comephorous
 cuttlefishes
 craw
 coxae
@@ -28700,7 +28701,6 @@ churled
 crepitated
 cutesiest
 chelae
-comephorous
 crumblings
 creply
 cupeler
