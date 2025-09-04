@@ -7163,7 +7163,6 @@ clivia
 cavaedia
 centriole
 chalazogam
-carpitis
 codebreak
 chymous
 centripetence
@@ -19701,6 +19700,7 @@ comatosely
 countercharged
 comatoseness
 comatosity
+carpitis
 comatula
 combaron
 caraganas
