@@ -13093,7 +13093,6 @@ accumulatively
 administrationist
 ambilogy
 animuses
-anyone
 anionic
 amiles
 allice
@@ -23205,6 +23204,7 @@ apteria
 atweel
 atween
 atwin
+anyone
 atwist
 atwite
 aryballoid
