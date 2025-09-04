@@ -7276,7 +7276,6 @@ dissolved
 diableries
 detergers
 diamidogen
-delph
 divertimento
 deifier
 dipicrylamine
@@ -16218,6 +16217,7 @@ desorbing
 dipetalous
 despumated
 dematerialized
+delph
 dowitch
 domable
 decrypted
