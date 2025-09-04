@@ -15902,7 +15902,6 @@ comedown
 clematite
 clemence
 centibar
-clemency
 carpogonia
 clemencies
 clement
@@ -20042,6 +20041,7 @@ ciliograde
 commendations
 charlotte
 capiturlary
+clemency
 coapted
 circularizations
 commendatorily
