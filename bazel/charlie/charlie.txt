@@ -8947,6 +8947,7 @@ carcerate
 continuo
 charioting
 chloroaurite
+cleeking
 chariotman
 cyamoid
 collegiately
@@ -15856,7 +15857,6 @@ carbonisation
 calisthenical
 cobcab
 compends
-cleeking
 clef
 cassinese
 chesterfields
