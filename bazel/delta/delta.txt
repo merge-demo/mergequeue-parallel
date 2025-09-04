@@ -5854,7 +5854,6 @@ dentaries
 dermatocoptic
 devotary
 deprecating
-doorbrand
 desolations
 demeaning
 disconcert
@@ -10752,6 +10751,7 @@ demurs
 dippier
 demethylchlortetracycline
 dipping
+doorbrand
 depersonalizing
 dentes
 dippings
