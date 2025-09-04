@@ -4209,7 +4209,6 @@ decocted
 digitize
 decalvant
 deloused
-dribs
 decimal
 disavaunce
 doorjamb
@@ -11373,6 +11372,7 @@ discases
 discasing
 discatter
 derailments
+dribs
 dethroned
 damocles
 damolic
