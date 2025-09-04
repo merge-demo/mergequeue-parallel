@@ -8328,7 +8328,6 @@ centry
 compinge
 corkir
 chamaelirium
-chamaepericlymenum
 chamaerops
 chamaesiphonales
 chamar
@@ -17623,6 +17622,7 @@ cavilingness
 columelliform
 catamite
 coxofemoral
+chamaepericlymenum
 coccosteid
 cisalpinism
 curstly
