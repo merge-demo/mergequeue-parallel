@@ -6420,6 +6420,7 @@ conchie
 cavetto
 cavy
 cameronian
+collophanite
 cavicorn
 capstans
 cuprocyanide
@@ -19177,7 +19178,6 @@ cordless
 concrescences
 collop
 collophane
-collophanite
 colloquial
 coadapted
 cosigning
