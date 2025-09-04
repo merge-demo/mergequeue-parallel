@@ -708,7 +708,6 @@ defrayal
 dancalite
 duro
 deadmelt
-danceability
 defailment
 diaplasma
 demoniacs
@@ -11219,6 +11218,7 @@ diplomacy
 disavail
 dayroom
 dissaves
+danceability
 dishabituating
 dyslectic
 doeg
