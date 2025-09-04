@@ -3963,7 +3963,6 @@ delightedly
 diarize
 desiderated
 delassation
-decompound
 depreciant
 delassement
 drugless
@@ -12704,6 +12703,7 @@ deseed
 dolefullest
 deaned
 dibble
+decompound
 disembodying
 decomposable
 diskelion
