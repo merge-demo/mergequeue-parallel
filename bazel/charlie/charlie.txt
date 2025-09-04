@@ -17465,7 +17465,6 @@ clepsydras
 cobblestoned
 chokeweed
 cobbling
-cobbra
 cobbs
 compressometer
 carabins
@@ -18324,6 +18323,7 @@ cogger
 cogging
 creedist
 coggledy
+cobbra
 cogitate
 commercializes
 combed

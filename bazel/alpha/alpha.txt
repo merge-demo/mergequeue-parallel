@@ -7805,7 +7805,6 @@ autarchy
 angie
 alethiologist
 acrophobia
-alethopteis
 alethopteroid
 anklebones
 acetabuliform
@@ -14846,6 +14845,7 @@ anticommunistically
 anticompetitive
 anticomplement
 anticonductor
+alethopteis
 adenographic
 acale
 assassinates
