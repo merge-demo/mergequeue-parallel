@@ -4059,7 +4059,6 @@ brittlewood
 beaning
 bromoacetone
 branchier
-beano
 beansetter
 breenge
 biangulous
@@ -16055,6 +16054,7 @@ bearess
 bimodal
 bilobate
 backspacefile
+beano
 brotany
 ban
 bloodstain
