@@ -11007,6 +11007,7 @@ chisled
 clarkeites
 conichalcite
 chistka
+centrode
 chit
 cordoba
 controversial
@@ -31135,7 +31136,6 @@ clinometria
 conscripts
 cupellers
 cupflower
-centrode
 cupfulfuls
 cupholder
 cupid
