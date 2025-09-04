@@ -5653,7 +5653,6 @@ dandilly
 depicture
 distract
 diopsidic
-depigmentate
 depigmentation
 depigmentize
 dissidence
@@ -8524,6 +8523,7 @@ docents
 dianoia
 diurne
 dwarflike
+depigmentate
 duster
 doings
 dealkylation
