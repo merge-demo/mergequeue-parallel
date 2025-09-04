@@ -3170,7 +3170,6 @@ analogist
 acutonodose
 aurene
 anthropomorphist
-avigator
 acxoyatl
 autophotograph
 aldolases
@@ -15682,6 +15681,7 @@ agura
 andradite
 antipestilently
 ablauts
+avigator
 agonistical
 antisepticising
 antipewism
