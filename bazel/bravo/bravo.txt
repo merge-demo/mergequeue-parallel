@@ -11287,7 +11287,6 @@ barse
 baith
 bespoused
 befur
-blowsier
 blowtorches
 bromos
 bossiness
@@ -14764,6 +14763,7 @@ biotech
 benightment
 beetroot
 braziletto
+blowsier
 belletristic
 blotters
 barmfel
