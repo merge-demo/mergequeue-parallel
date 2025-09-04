@@ -540,7 +540,6 @@ agla
 astatically
 amens
 accompaniments
-allophite
 avolitional
 ablutionary
 abluvion
@@ -24329,6 +24328,7 @@ acritude
 actinopterygious
 assoilzie
 autoschediasm
+allophite
 agisting
 autoschediastic
 adstipulation
