@@ -10071,7 +10071,6 @@ ambulacrum
 anyways
 ambulance
 alkalinised
-apnoeal
 anatomising
 amoeboidism
 antithetically
@@ -16584,6 +16583,7 @@ apertural
 athrob
 acid
 antihumanism
+apnoeal
 agast
 axoneure
 alioth
