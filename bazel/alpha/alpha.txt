@@ -13646,6 +13646,7 @@ anophele
 angeldom
 anopheles
 anophelinae
+adamants
 anophoria
 anophthalmos
 anopia
@@ -16214,7 +16215,6 @@ aconuresis
 antitrades
 advisy
 aitchless
-adamants
 adenometritis
 antiphilosophically
 arborvitae
