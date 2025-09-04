@@ -2546,7 +2546,6 @@ acquisitional
 acquisitive
 antibrachial
 archaeologian
-anorexy
 acetiam
 affixment
 assuaging
@@ -23286,6 +23285,7 @@ antimephitic
 alleged
 audients
 asphyxial
+anorexy
 athetize
 angelique
 acclimatisable
