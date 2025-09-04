@@ -15396,6 +15396,7 @@ cautio
 canterburian
 claptraps
 clapwort
+cpd
 culbuter
 candescently
 cosmographist
@@ -27782,7 +27783,6 @@ civiliser
 cp
 clitoridean
 contractus
-cpd
 chemurgic
 cpt
 cullay
