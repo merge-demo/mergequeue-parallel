@@ -11773,6 +11773,7 @@ coelian
 coexecutrices
 contemperate
 chondrosternal
+corky
 collyba
 chondrotomy
 chonk
@@ -29287,7 +29288,6 @@ cryptolite
 cytochalasin
 cryptolith
 cryptology
-corky
 conspiracies
 callas
 consubstantiality
