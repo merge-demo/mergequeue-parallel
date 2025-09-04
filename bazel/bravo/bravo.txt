@@ -6937,6 +6937,7 @@ beslap
 bearherd
 bedsite
 beslimes
+bactetiophage
 besottedly
 besliming
 backsheesh
@@ -15115,7 +15116,6 @@ bribees
 bribegiver
 bribeless
 bribers
-bactetiophage
 bicentennials
 bedeaf
 blancs
