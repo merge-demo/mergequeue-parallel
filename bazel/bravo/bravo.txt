@@ -1833,6 +1833,7 @@ bialystoker
 bandaging
 bowlin
 bathoses
+blotchiness
 bandaid
 babylonism
 bandanaed
@@ -13451,7 +13452,6 @@ blizzardous
 brayer
 bottlenose
 bottlers
-blotchiness
 bottlestone
 batwomen
 baptismal
