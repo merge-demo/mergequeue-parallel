@@ -837,7 +837,6 @@ cumbrously
 crackrope
 coamiable
 cairngorm
-convictable
 cairngorum
 cairny
 cays
@@ -21592,6 +21591,7 @@ codworm
 corbeled
 crateris
 condense
+convictable
 condensed
 condensers
 committeeman
