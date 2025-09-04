@@ -3013,6 +3013,7 @@ arthropody
 actinostome
 aramus
 agtbasic
+aspirating
 abrachias
 apiculation
 anatoly
@@ -21471,7 +21472,6 @@ ancylose
 aspirants
 accountancy
 apoplectically
-aspirating
 aspiree
 aspirer
 aspirers

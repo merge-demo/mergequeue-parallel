@@ -19404,7 +19404,6 @@ coloraturas
 colorature
 celesta
 coelector
-colorblind
 cartomancies
 colorbreed
 colorcasting
@@ -29370,6 +29369,7 @@ crispers
 craaled
 crispest
 cymbals
+colorblind
 crispier
 cryptophyte
 carcinolytic
