@@ -1950,7 +1950,6 @@ deadhouse
 divinatory
 dermohumeral
 disyllabism
-deburr
 divulgatory
 debus
 decanally
@@ -12726,6 +12725,7 @@ divining
 die
 daubs
 dehorts
+deburr
 diatrymiformes
 disdiplomatize
 daggers
