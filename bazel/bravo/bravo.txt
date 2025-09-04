@@ -1610,6 +1610,7 @@ ballistician
 brachioganoidei
 benzanilide
 boldface
+begem
 ballo
 blumea
 bursitises
@@ -5234,7 +5235,6 @@ begazing
 bimasty
 borderer
 bedabbling
-begem
 bridesmaiding
 blankbook
 begetter
