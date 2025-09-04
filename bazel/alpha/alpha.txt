@@ -6232,7 +6232,6 @@ agrologic
 acoine
 afro
 aubrite
-acetone
 agromyzid
 agromyzidae
 agron
@@ -18179,6 +18178,7 @@ arabism
 abstinent
 arabist
 arabit
+acetone
 acetometrical
 anticoagulants
 appeaser
