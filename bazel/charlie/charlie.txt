@@ -25998,7 +25998,6 @@ caboose
 cosh
 coshed
 coumaran
-cosher
 countermanded
 chestiness
 cupreine
@@ -28232,6 +28231,7 @@ crater
 cachet
 crossfiring
 copying
+cosher
 conine
 cephalothoracic
 carabineer
