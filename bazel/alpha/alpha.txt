@@ -12782,7 +12782,6 @@ anglophil
 anglophile
 awkward
 acinetaria
-antidoron
 adenine
 anglophilism
 anglophobia
@@ -24143,6 +24142,7 @@ aguara
 antherless
 arriccios
 autolithograph
+antidoron
 ambuling
 autoinfection
 autolyzate
