@@ -3197,7 +3197,6 @@ deferents
 datiscetin
 deferrable
 deferrer
-deferrize
 disturbative
 densen
 deferrized
@@ -16328,6 +16327,7 @@ desiderant
 dowels
 decrown
 duchery
+deferrize
 ductilimeter
 divers
 diaheliotropism
