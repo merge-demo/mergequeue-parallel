@@ -14273,7 +14273,6 @@ corollike
 circumnavigating
 circumnavigation
 chickaree
-coelia
 circumnavigator
 cyclometrical
 cymophobia
@@ -28988,6 +28987,7 @@ cals
 criminologic
 criminological
 criminologically
+coelia
 catholicizer
 criminologist
 carminic
