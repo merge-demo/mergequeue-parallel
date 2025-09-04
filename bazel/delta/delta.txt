@@ -1696,7 +1696,6 @@ dextrinate
 deluged
 depressiveness
 dornecks
-devastate
 deasil
 dearness
 deaspirate
@@ -8426,6 +8425,7 @@ droplet
 discommodes
 devide
 deconcentrator
+devastate
 diabolizing
 deported
 diastalses
