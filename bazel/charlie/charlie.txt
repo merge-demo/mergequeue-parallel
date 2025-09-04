@@ -8518,7 +8518,6 @@ conoscente
 cinematographer
 chancer
 chainbreak
-chancery
 chances
 chancewise
 cycloaddition
@@ -14930,6 +14929,7 @@ cytostromatic
 cytotactic
 cardioaccelerator
 cerebroganglion
+chancery
 cytotaxis
 cytotaxonomy
 conky
