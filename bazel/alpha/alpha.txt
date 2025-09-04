@@ -7284,7 +7284,6 @@ acetopyrine
 anura
 atmid
 albinistic
-albinos
 antivenin
 albinotic
 antitypic
@@ -14822,6 +14821,7 @@ anticoagulation
 anamniata
 anticoagulative
 ampliate
+albinos
 adessenarian
 acosmistic
 albocinereous
