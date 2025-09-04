@@ -21630,6 +21630,7 @@ aventure
 assented
 assenter
 arquerite
+arthroplasty
 alewife
 aaru
 averil
@@ -24830,7 +24831,6 @@ amphogenous
 avouchment
 avour
 avoutry
-arthroplasty
 autobiographically
 antejuramentum
 archplutocrat
