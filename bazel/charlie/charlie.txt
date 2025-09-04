@@ -5565,6 +5565,7 @@ cataphoria
 cataphract
 counterargue
 cosmetology
+centenarian
 cataphracted
 cataphractic
 crook
@@ -26972,7 +26973,6 @@ counterpotence
 cantilated
 counterpotency
 counterpotent
-centenarian
 chemotherapeuticness
 calgon
 coarctate
