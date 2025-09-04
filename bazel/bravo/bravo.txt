@@ -4526,7 +4526,6 @@ bowelless
 betrunk
 buckteeth
 buglewort
-bicellular
 baubee
 backjaw
 bedarkening
@@ -17273,6 +17272,7 @@ buncoing
 brazilite
 brickfield
 berthing
+bicellular
 brucellas
 basilosaurus
 bund
