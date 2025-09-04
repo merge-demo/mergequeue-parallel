@@ -8799,7 +8799,6 @@ aeroporotomy
 alloiogenesis
 alloiometric
 adjustments
-ankylosaurus
 acrogenic
 alloisomerism
 allomerizing
@@ -18598,6 +18597,7 @@ anatocism
 aluminising
 adelaide
 archband
+ankylosaurus
 archbeacon
 addlebrain
 archbeadle
