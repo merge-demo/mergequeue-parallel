@@ -4444,7 +4444,6 @@ affinitatively
 angolar
 amphibious
 avidnesses
-advisy
 advising
 accustom
 anaclasis
@@ -16220,6 +16219,7 @@ antitoxins
 antitrade
 aconuresis
 antitrades
+advisy
 aitchless
 adamants
 adenometritis
