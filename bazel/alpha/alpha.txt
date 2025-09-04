@@ -11799,7 +11799,6 @@ anammonide
 antecurvature
 anantherous
 ananthous
-aftersend
 anapaestically
 abashments
 ataraxic
@@ -23417,6 +23416,7 @@ alamosite
 antidemocracy
 alloplasmatic
 ammoniaemia
+aftersend
 augustine
 amidosulphonal
 abvolts
