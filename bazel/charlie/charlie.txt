@@ -9474,6 +9474,7 @@ checkers
 cabbalah
 carpodacus
 cardanic
+clot
 capos
 checkhook
 chlorobenzene
@@ -16688,7 +16689,6 @@ commotional
 closure
 colludes
 closuring
-clot
 centronucleus
 compatriotism
 clotbur
