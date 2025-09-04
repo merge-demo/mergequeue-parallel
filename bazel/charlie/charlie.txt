@@ -13996,7 +13996,6 @@ confirmative
 cilioflagellata
 chitra
 chemosensitive
-cecca
 crimp
 cypraeidae
 cypraeiform
@@ -15217,6 +15216,7 @@ clairseach
 carpetwork
 cloisteral
 compresses
+cecca
 clairsentience
 clairsentient
 confrontationism
