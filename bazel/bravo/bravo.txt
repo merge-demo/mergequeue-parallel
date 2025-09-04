@@ -2308,6 +2308,7 @@ breloque
 bathyscape
 bemitred
 bathonian
+bolection
 barbierite
 busyish
 bronchoegophony
@@ -6403,7 +6404,6 @@ biternate
 benzothiofuran
 benzotrichloride
 battercake
-bolection
 benzoxyacetic
 bulldogged
 biostratigraphy
