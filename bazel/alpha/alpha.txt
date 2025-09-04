@@ -18578,7 +18578,6 @@ agrosterol
 axiolitic
 avowers
 ak
-archaizer
 archaizing
 archangelic
 archangelica
@@ -20007,6 +20006,7 @@ aluminiform
 around
 arousable
 aunter
+archaizer
 acantharia
 acmic
 alloclase
