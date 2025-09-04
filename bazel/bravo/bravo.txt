@@ -324,6 +324,7 @@ backbar
 bedright
 birkenhead
 biolith
+bletherskate
 booter
 bakeware
 backslided
@@ -633,7 +634,6 @@ birdcages
 baraka
 bullated
 barracked
-bletherskate
 bemingle
 bacteriolyze
 bronchoaspergillosis
