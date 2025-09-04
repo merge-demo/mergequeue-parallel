@@ -954,6 +954,7 @@ abstentionist
 absterge
 asparagus
 appointable
+acuity
 archdeacon
 abstergent
 absterges
@@ -4425,7 +4426,6 @@ astalk
 armozine
 atactic
 argols
-acuity
 advisees
 advisement
 arranger
