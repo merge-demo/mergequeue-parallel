@@ -5856,7 +5856,6 @@ bellweed
 brachiosaurus
 beggardom
 balopticon
-bretons
 bilboa
 butterbur
 bellwether
@@ -8596,6 +8595,7 @@ blackpot
 brochette
 balcone
 behear
+bretons
 billtong
 basins
 brachiating

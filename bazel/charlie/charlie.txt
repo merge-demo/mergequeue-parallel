@@ -7633,7 +7633,6 @@ clampers
 cerionidae
 cerise
 combustively
-cerithiidae
 circumvolute
 cerithium
 ceriums
@@ -24874,6 +24873,7 @@ contrariwise
 coralline
 curricle
 cuichunchulli
+cerithiidae
 citronalis
 criniferous
 charac
