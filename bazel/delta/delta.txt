@@ -7655,6 +7655,7 @@ developable
 dealer
 deflocculation
 didinium
+distorters
 dorsalis
 demisacrilege
 diptycas
@@ -14038,7 +14039,6 @@ dolabra
 dishboard
 disannul
 distorter
-distorters
 distress
 dystonias
 dismount

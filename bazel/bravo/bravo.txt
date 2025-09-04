@@ -9265,6 +9265,7 @@ bywoner
 bifolia
 boyang
 balourdise
+balisier
 bloviating
 beany
 bawdry
@@ -15693,7 +15694,6 @@ batful
 brochophony
 brocht
 brochure
-balisier
 battlers
 bathycentesis
 babblishly
