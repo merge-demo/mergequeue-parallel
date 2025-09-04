@@ -8633,7 +8633,6 @@ cestus
 cryst
 chronoscope
 chansonette
-carcinomatoid
 commissionaire
 chansonniers
 chantey
@@ -11046,6 +11045,7 @@ chitons
 cadence
 chitosamine
 chitosan
+carcinomatoid
 caconymic
 committeeism
 chloridation

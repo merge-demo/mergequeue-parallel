@@ -1044,6 +1044,7 @@ darksomeness
 darksum
 domineers
 dronage
+diploid
 danalite
 decimeter
 darling
@@ -10621,7 +10622,6 @@ domestic
 documented
 decoctible
 defs
-diploid
 demounts
 diploidic
 dunderbolt
