@@ -2028,6 +2028,7 @@ brasserie
 bedeguar
 bicollaterality
 bankrolling
+bollandist
 bankrupt
 bosporan
 brainstone
@@ -12338,7 +12339,6 @@ bab
 berime
 band
 bandlimit
-bollandist
 buckshee
 brigades
 biskop
