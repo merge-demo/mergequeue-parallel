@@ -14839,7 +14839,6 @@ coadmiring
 cephalorhachidian
 checkbird
 cytokinesis
-cytokinetic
 cytokinin
 cytol
 coziest
@@ -16113,6 +16112,7 @@ conning
 cliffside
 cliffsman
 cousinries
+cytokinetic
 cliffweed
 clift
 clifty
