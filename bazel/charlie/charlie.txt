@@ -630,7 +630,6 @@ caeremoniarius
 coynye
 callate
 coatimundi
-caesarean
 caesareans
 cardiopyloric
 campagnol
@@ -11316,6 +11315,7 @@ colonizer
 chloropalladates
 chloropalladic
 chlorophaeite
+caesarean
 chlorophenol
 charangos
 confirm
