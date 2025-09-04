@@ -1155,7 +1155,6 @@ dispraisingly
 disappearance
 diau
 dirled
-dire
 distractingly
 dasiphora
 dasypod
@@ -11039,6 +11038,7 @@ dunderheads
 dithiobenzoic
 disagreeably
 duoliteral
+dire
 discongruity
 durindana
 degranulation
