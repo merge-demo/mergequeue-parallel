@@ -7250,6 +7250,7 @@ darklings
 delubrum
 deverbative
 desolately
+deviltry
 dyingly
 detente
 dicotyl
@@ -7742,7 +7743,6 @@ devilry
 dingiest
 dirgie
 discipliners
-deviltry
 derater
 dissociation
 diastataxy
