@@ -8578,6 +8578,7 @@ apivorous
 amnesiacs
 alleluias
 alleluiatic
+arcubos
 allemand
 allene
 alleniate
@@ -17111,7 +17112,6 @@ anagrammatised
 apology
 apologiae
 asarone
-arcubos
 apological
 apologies
 apologised
