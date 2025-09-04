@@ -10155,7 +10155,6 @@ arytenoid
 ameed
 ameer
 anemophile
-ameerates
 ameiosis
 angiolymphitis
 alloying
@@ -18715,6 +18714,7 @@ archetypal
 avizandum
 arabian
 anhydremic
+ameerates
 assassinator
 almaciga
 archetypes
