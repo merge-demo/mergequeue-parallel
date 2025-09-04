@@ -10001,7 +10001,6 @@ ambo
 acanthin
 ablatives
 anisette
-autolaryngoscope
 amboceptoid
 ambocoelia
 adelpholite
@@ -16614,6 +16613,7 @@ aph
 antilogical
 abjuration
 accoutrements
+autolaryngoscope
 asserters
 arkansan
 auricomous
