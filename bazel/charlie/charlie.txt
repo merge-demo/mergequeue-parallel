@@ -12092,7 +12092,6 @@ chroatol
 chows
 causer
 crambo
-cajoleries
 chowses
 carbarn
 chowtime
@@ -30482,6 +30481,7 @@ carousal
 cubbishness
 choiring
 cubbyu
+cajoleries
 cameoed
 cubdom
 copolymeric
