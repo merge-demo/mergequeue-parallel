@@ -3999,6 +3999,7 @@ camomiles
 cardiagram
 cardiagraph
 cardiagraphy
+chiasma
 cardialgy
 caryl
 coevals
@@ -10185,7 +10186,6 @@ chias
 caparisoned
 cheesecakes
 cartilages
-chiasma
 cotesian
 chloasmata
 camacan
