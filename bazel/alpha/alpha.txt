@@ -7388,7 +7388,6 @@ albuminorrhea
 albuminoscope
 afterpiece
 acanthoma
-abyssinian
 anonyms
 albuminous
 albumins
@@ -14412,6 +14411,7 @@ arimaspian
 arborean
 anthropomorphisms
 amphitricha
+abyssinian
 archiprelatical
 anthropomorphitical
 anthropomorphized
