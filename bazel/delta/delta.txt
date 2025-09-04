@@ -1271,7 +1271,6 @@ desmids
 dossil
 dermoptera
 datolitic
-deti
 droob
 derivant
 dandyism
@@ -16884,6 +16883,7 @@ draughtsboard
 doucepere
 disallowances
 decapitable
+deti
 deemphasizing
 dissuited
 draconian
