@@ -4836,6 +4836,7 @@ aeromechanic
 alphameric
 aeromedical
 aerometer
+affidare
 acetamidine
 amygdalus
 amenite
@@ -5119,7 +5120,6 @@ andouillet
 aftereye
 aspartyl
 affiches
-affidare
 affidation
 antihemorrhagic
 ais
