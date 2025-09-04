@@ -1602,7 +1602,6 @@ calopogon
 chettik
 chilopodan
 consuetitude
-conferees
 caloreceptor
 cochairs
 calorescence
@@ -29583,6 +29582,7 @@ crocketed
 crockets
 clouded
 crocking
+conferees
 creedmore
 crocko
 cystadenoma
