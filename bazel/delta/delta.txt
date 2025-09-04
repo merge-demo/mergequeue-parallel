@@ -5974,6 +5974,7 @@ dayfly
 deprogrammed
 drillstock
 dottling
+dissimulator
 devonic
 dollish
 depeculate
@@ -15576,7 +15577,6 @@ dicyanodiamide
 deduit
 donat
 dodecylphenol
-dissimulator
 donatee
 donation
 donatist
