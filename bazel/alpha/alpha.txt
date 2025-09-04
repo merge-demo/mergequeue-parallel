@@ -3184,7 +3184,6 @@ adagios
 agnoite
 auscultoscope
 acetite
-adagissimo
 astrolabe
 amalgamators
 adai
@@ -13725,6 +13724,7 @@ achariaceae
 affrontingness
 anoscopy
 anatomicosurgical
+adagissimo
 anospinal
 arrythmical
 archons
