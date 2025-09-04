@@ -1927,7 +1927,6 @@ cosmoscope
 coimplicate
 conduplicate
 camery
-camerier
 camerinidae
 camerist
 circummigrate
@@ -21748,6 +21747,7 @@ chambertin
 cacanapa
 cypriotes
 condones
+camerier
 clematis
 conspiringly
 chemospheric
