@@ -6083,7 +6083,6 @@ absolver
 agonizingness
 agoranomus
 alnager
-agoraphobiac
 antiferment
 aquerne
 agoraphobic
@@ -16946,6 +16945,7 @@ apocalypst
 adhocracy
 apocalypt
 ascetically
+agoraphobiac
 apocalyptic
 advantageous
 acerra
