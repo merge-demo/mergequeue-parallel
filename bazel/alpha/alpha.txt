@@ -8514,7 +8514,6 @@ allegorically
 acidosis
 aqueduct
 aboves
-allegorisation
 allegorise
 afear
 absentment
@@ -20415,6 +20414,7 @@ apperceptionistic
 archetype
 anathema
 automatically
+allegorisation
 artesian
 areographic
 artful
