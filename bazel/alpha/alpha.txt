@@ -20289,7 +20289,6 @@ austerities
 arcsines
 autopsist
 apothgm
-alabaman
 alnus
 archigaster
 acinetae
@@ -21790,6 +21789,7 @@ autovaccination
 anemometrically
 azolla
 andesine
+alabaman
 aim
 ambagious
 aniselike
