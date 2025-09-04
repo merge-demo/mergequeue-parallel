@@ -6963,6 +6963,7 @@ arthroderm
 aerocartograph
 amidic
 actuator
+apterygiformes
 attuned
 appreteur
 anointers
@@ -17968,7 +17969,6 @@ apteral
 areolate
 alaskas
 apterial
-apterygiformes
 almsgiver
 arace
 apterygota
