@@ -1514,7 +1514,6 @@ dicranoid
 disappointingness
 doubtfulness
 dibranchious
-deactivation
 deactivators
 distressedness
 defleaed
@@ -7417,6 +7416,7 @@ detonative
 duncifying
 detectability
 detouring
+deactivation
 dermacentor
 dilos
 daric

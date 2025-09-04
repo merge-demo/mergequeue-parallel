@@ -10808,6 +10808,7 @@ arangoes
 aulas
 azotemia
 amnestied
+ambidexterous
 acream
 allamoth
 antiphilosophy
@@ -23396,7 +23397,6 @@ ayes
 augmentive
 augmentor
 augrim
-ambidexterous
 arguendo
 augurate
 anywhy
