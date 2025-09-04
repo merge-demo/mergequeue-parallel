@@ -12857,6 +12857,7 @@ angulateness
 angulatogibbous
 antilegalist
 assimilable
+apterygidae
 almose
 anguliferous
 athelings
@@ -17973,7 +17974,6 @@ apteral
 areolate
 alaskas
 apterial
-apterygidae
 apterygiformes
 almsgiver
 arace
