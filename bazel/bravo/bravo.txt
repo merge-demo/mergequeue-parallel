@@ -4817,7 +4817,6 @@ botchiest
 begowned
 bagobo
 bewrapped
-beekite
 barbette
 bedur
 brimmingly
@@ -15422,6 +15421,7 @@ balloonfish
 bangia
 bearskins
 brineless
+beekite
 bombardment
 bakery
 bratstva
