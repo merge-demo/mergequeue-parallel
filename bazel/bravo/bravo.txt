@@ -5685,6 +5685,7 @@ believer
 beamful
 basilical
 bureaucratese
+balagan
 birdcage
 bloomery
 brainstem
@@ -6552,7 +6553,6 @@ blotter
 bluff
 broquineer
 betons
-balagan
 bannerer
 butterbox
 brotula
