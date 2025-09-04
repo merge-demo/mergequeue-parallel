@@ -1123,6 +1123,7 @@ barless
 baseless
 bloodnoun
 buxine
+booklore
 bladish
 bordermark
 bioscience
@@ -12712,7 +12713,6 @@ ballant
 busboys
 booklear
 brandishing
-booklore
 brandreth
 birdliming
 busters
