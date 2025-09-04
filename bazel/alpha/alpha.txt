@@ -17207,7 +17207,6 @@ archmime
 aporhyolite
 asserting
 aggradational
-aporias
 adherant
 androsace
 antifederal
@@ -17620,6 +17619,7 @@ ancyroid
 allicin
 applauders
 arsine
+aporias
 applauses
 armillas
 aponeuroses
