@@ -5834,6 +5834,7 @@ bellmanship
 bellmouth
 briners
 braggingly
+boulle
 buttstock
 bailiff
 bellota
@@ -16931,7 +16932,6 @@ biplanar
 bacteriotoxin
 bulbiest
 buettneria
-boulle
 bulblike
 biacetyl
 biplosion
