@@ -4045,6 +4045,7 @@ bedeafen
 brooked
 befetished
 beancod
+bater
 beanery
 beanfeast
 besqueeze
@@ -4498,7 +4499,6 @@ banally
 bienness
 biradiated
 bathroot
-bater
 bool
 bouffante
 busts
