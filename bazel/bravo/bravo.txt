@@ -8447,7 +8447,6 @@ biriba
 bardy
 bylined
 bunging
-birminghamize
 bunjara
 bumble
 bemusk
@@ -11361,6 +11360,7 @@ blahlaut
 basisolute
 bluefin
 blaseness
+birminghamize
 belonosphaerite
 barmkin
 beclasping
