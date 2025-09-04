@@ -16003,7 +16003,6 @@ clethrionomys
 corodiastasis
 cleuks
 crinigerous
-cephaletron
 curvedly
 caleche
 comprizal
@@ -23227,6 +23226,7 @@ coextending
 coalitionist
 construes
 ciceroning
+cephaletron
 cystocele
 constuctor
 circumstantiated
