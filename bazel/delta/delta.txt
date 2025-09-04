@@ -11943,7 +11943,6 @@ drawknives
 dentel
 dragonnade
 dieri
-disqualified
 dewier
 dopers
 doux
@@ -15614,6 +15613,7 @@ done
 dihydrocuprin
 dispendious
 dismalness
+disqualified
 diabolism
 despicability
 disyoke
