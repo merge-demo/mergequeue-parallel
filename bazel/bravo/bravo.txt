@@ -2489,6 +2489,7 @@ beslash
 bassetite
 barguest
 barguests
+battakhin
 bartletts
 bumblebees
 buzylene
@@ -11202,7 +11203,6 @@ bicarbonate
 bisilicate
 bridging
 buckets
-battakhin
 blankest
 barmskin
 bopyridae
