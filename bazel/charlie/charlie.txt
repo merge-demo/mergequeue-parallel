@@ -10289,7 +10289,6 @@ coelevate
 chickell
 chicken
 chainsmen
-chartographist
 chickenberry
 counterpole
 citoyens
@@ -25626,6 +25625,7 @@ corrected
 complainingness
 correctest
 cyclostomidae
+chartographist
 correctible
 coronavirus
 confirmatorily
