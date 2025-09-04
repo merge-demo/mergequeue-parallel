@@ -12011,7 +12011,6 @@ brot
 bubonidae
 boycotted
 brachiated
-boid
 boydekyn
 blub
 beking
@@ -13692,6 +13691,7 @@ bombination
 betallow
 bdellostomidae
 bezonian
+boid
 bookplate
 benighten
 buzzbomb
