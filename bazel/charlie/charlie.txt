@@ -25087,7 +25087,6 @@ coinstantaneous
 corequisite
 corer
 combinantive
-corers
 cores
 carbonates
 chlorospinel
@@ -28929,6 +28928,7 @@ corroborated
 cheilotomy
 cricoid
 cricoids
+corers
 couper
 cricopharyngeal
 cricothyreotomy
