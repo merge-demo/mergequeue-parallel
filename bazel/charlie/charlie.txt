@@ -15458,7 +15458,6 @@ clarinettists
 clarini
 clarino
 chancels
-clarinos
 chromid
 clarion
 chloridella
@@ -22050,6 +22049,7 @@ conflagrative
 cokey
 conflate
 colauxe
+clarinos
 cumaceous
 canellaceae
 catoptromancy
