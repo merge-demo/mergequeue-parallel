@@ -4306,7 +4306,6 @@ caridean
 carunculous
 cirrhous
 carien
-carijona
 constructs
 culvertage
 confidentiality
@@ -6716,6 +6715,7 @@ costard
 celibatic
 conducent
 celibatist
+carijona
 clobbering
 celibatory
 celidography
