@@ -12119,7 +12119,6 @@ ancylopod
 acneiform
 acrider
 ambisexual
-ancylose
 avanyu
 akaniaceae
 ancylostome
@@ -21472,6 +21471,7 @@ acrothoracica
 arpens
 aspirant
 adventuristic
+ancylose
 aspirants
 accountancy
 apoplectically
