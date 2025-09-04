@@ -7256,6 +7256,7 @@ detenue
 desulfurize
 detenues
 dephlegmator
+dentilation
 deter
 deterged
 desertlike
@@ -15572,7 +15573,6 @@ donat
 dodecylphenol
 dissimulator
 donatee
-dentilation
 donation
 donatist
 dentiloguy
