@@ -10644,7 +10644,6 @@ diplomatically
 diethyl
 diplomatique
 dysergia
-doppia
 djinn
 dolour
 diplomatist
@@ -13898,6 +13897,7 @@ donee
 distaves
 demisuit
 debut
+doppia
 differency
 dystaxias
 discomfiture
