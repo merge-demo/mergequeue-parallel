@@ -523,6 +523,7 @@ biscot
 bretwalda
 backstitches
 briming
+britannia
 broadway
 besiclometer
 blackacre
@@ -9314,7 +9315,6 @@ brachiotomy
 bituminise
 bromopikrin
 bench
-britannia
 beflowering
 birdglue
 bah
