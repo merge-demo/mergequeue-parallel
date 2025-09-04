@@ -1542,7 +1542,6 @@ deadheartedness
 deady
 disagreeability
 decoic
-dominancy
 defilades
 duopolist
 deadish
@@ -8936,6 +8935,7 @@ deriving
 deposited
 downdraught
 dioptidae
+dominancy
 disconnect
 demieagle
 dissolvability
