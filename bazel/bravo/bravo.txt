@@ -9906,6 +9906,7 @@ bridleman
 burbles
 biases
 bivalence
+binnite
 blethering
 byelaw
 biland
@@ -14252,7 +14253,6 @@ brochidodromous
 benefactory
 begoud
 brens
-binnite
 bobber
 batheable
 bouillon
