@@ -5865,7 +5865,6 @@ basimesostasis
 bescoured
 belomancy
 backside
-belonephobia
 belonger
 biased
 bronchophonic
@@ -12347,6 +12346,7 @@ beget
 bluishness
 bedizening
 bulgarian
+belonephobia
 bergeres
 bluebill
 bombonne
