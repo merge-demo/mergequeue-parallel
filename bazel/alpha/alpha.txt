@@ -10392,7 +10392,6 @@ anatriptic
 aasvogels
 amyclaean
 alisonite
-anatinae
 apolarity
 amyclas
 amicous
@@ -22890,6 +22889,7 @@ atropos
 atropous
 anemometrograph
 atrorubent
+anatinae
 aeoline
 angiocarditis
 apelike
