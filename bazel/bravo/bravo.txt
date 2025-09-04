@@ -829,7 +829,6 @@ bafflers
 baffling
 bafflingly
 bulbus
-bonnyclabber
 bafflingness
 bonelike
 bumpily
@@ -16923,6 +16922,7 @@ bartizans
 blandishers
 behears
 bonser
+bonnyclabber
 bulby
 bidens
 brakeman
