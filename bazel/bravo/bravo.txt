@@ -624,7 +624,6 @@ beggiatoa
 bacteriochlorophyll
 bacteriocin
 bostangi
-bastiment
 bacteriodiagnosis
 bromates
 behearse
@@ -12176,6 +12175,7 @@ blamable
 bollock
 bema
 bacteriology
+bastiment
 brachiate
 beginner
 bolloxes
