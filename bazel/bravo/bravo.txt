@@ -6280,7 +6280,6 @@ bandeaus
 beedom
 benzalethylamine
 benzalphenylhydrazone
-beaconwise
 braw
 benzamide
 benzoxate
@@ -15050,6 +15049,7 @@ biomaterial
 breviconic
 bunkered
 besmearer
+beaconwise
 bushhammer
 breviradiate
 blithely
