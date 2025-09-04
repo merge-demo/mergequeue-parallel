@@ -2945,6 +2945,7 @@ boyism
 boondoggled
 bimolecularly
 breathing
+boloed
 beaverish
 bemazed
 boltsmith
@@ -14125,7 +14126,6 @@ brushups
 bontee
 brachistocephalic
 bookstall
-boloed
 brass
 brachistochrone
 brachistochronous
