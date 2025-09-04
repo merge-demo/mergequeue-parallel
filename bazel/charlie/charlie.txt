@@ -14420,6 +14420,7 @@ caddoan
 cataphracta
 connotively
 cirques
+cupric
 cirrate
 compounds
 centripetal
@@ -15522,7 +15523,6 @@ cormlike
 cupel
 clasmatocyte
 ccoya
-cupric
 clasmatocytic
 clasmatosis
 cuitle

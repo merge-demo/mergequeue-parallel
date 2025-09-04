@@ -11751,7 +11751,6 @@ asterinidae
 analogously
 analogousness
 azophenylene
-analphabet
 antiparliamentary
 analphabete
 adelaster
@@ -19082,6 +19081,7 @@ abducting
 arctium
 arctoidean
 arctos
+analphabet
 arctosis
 acetylasalicylic
 allituric
