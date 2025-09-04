@@ -2512,7 +2512,6 @@ diplococcus
 dwined
 dorn
 disjudication
-declassicize
 dimorphs
 dumbfounded
 dweller
@@ -5899,6 +5898,7 @@ definitiveness
 diagnoses
 davidical
 deleting
+declassicize
 droshky
 depredatory
 deontic
