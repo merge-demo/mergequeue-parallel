@@ -17721,6 +17721,7 @@ analphabetic
 agent
 australic
 anhemitonic
+agaz
 assertory
 apportionments
 anastatic
@@ -20924,7 +20925,6 @@ ampheclexis
 ascite
 aceconitic
 ascitical
-agaz
 asclepiad
 asclepiadaceae
 asclepiadae
