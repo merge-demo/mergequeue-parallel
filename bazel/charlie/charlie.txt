@@ -6534,6 +6534,7 @@ cebid
 coutel
 cebidae
 chlorophyllan
+creat
 casbahs
 contributors
 cebil
@@ -12220,7 +12221,6 @@ chromonemic
 chrysopid
 chrysopidae
 chrysoprase
-creat
 chrysoprasus
 chasmic
 counteradvice
