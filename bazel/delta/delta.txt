@@ -3477,6 +3477,7 @@ defrayable
 disembarrassment
 dismissable
 digitalizing
+delft
 defrayed
 deperition
 dinghies
@@ -17786,7 +17787,6 @@ depa
 democrats
 damper
 duikerbok
-delft
 downlooked
 dicarbonic
 donga
