@@ -1161,7 +1161,6 @@ betaken
 blachong
 birefracting
 beudantite
-banqueter
 baitfish
 buffeter
 ballard
@@ -5052,6 +5051,7 @@ bushmasters
 broiderer
 befile
 befilmed
+banqueter
 befilth
 befire
 befist
