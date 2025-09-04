@@ -4011,6 +4011,7 @@ bedrock
 boti
 beamers
 beamfilling
+ballonet
 beeware
 beamhouse
 bibliophobe
@@ -8976,7 +8977,6 @@ batton
 bionomically
 bathythermogram
 beckie
-ballonet
 booky
 biopsychology
 bidental
