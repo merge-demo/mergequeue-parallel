@@ -9468,7 +9468,6 @@ blackened
 birthright
 baffeta
 births
-birthstones
 brontephobia
 bulliform
 birthstool
@@ -11834,6 +11833,7 @@ besmiling
 benthopelagic
 buteos
 boskopoid
+birthstones
 bodywork
 bodyworks
 bodkin
