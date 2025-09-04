@@ -3456,6 +3456,7 @@ banuyo
 basural
 bovarism
 basuto
+berme
 baitylos
 bridgebuilding
 bilinguar
@@ -6683,7 +6684,6 @@ blitter
 balaamitical
 beeishness
 brontosaurus
-berme
 bulkiness
 bossiest
 bathe
