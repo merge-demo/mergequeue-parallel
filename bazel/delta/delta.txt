@@ -12062,7 +12062,6 @@ difforme
 disencharm
 drip
 disenclose
-daint
 diammine
 decimus
 disendow
@@ -18459,6 +18458,7 @@ deputable
 disulphuret
 degreased
 dints
+daint
 demerge
 dianisidine
 duplicious
