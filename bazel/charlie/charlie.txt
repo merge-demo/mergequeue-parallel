@@ -2341,7 +2341,6 @@ cohobates
 clum
 canarine
 canarium
-centers
 canarsee
 cuj
 cassie
@@ -17844,6 +17843,7 @@ cabook
 codette
 codfish
 childbed
+centers
 codewords
 codfisher
 counterpassion
