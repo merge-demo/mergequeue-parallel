@@ -4082,6 +4082,7 @@ calfret
 coalheugh
 cardiogram
 cardiographer
+crenulated
 cardiographic
 creels
 cardiographies
@@ -24877,7 +24878,6 @@ cuichunchulli
 cerithiidae
 citronalis
 criniferous
-crenulated
 canonizant
 caoutchouc
 corallium
