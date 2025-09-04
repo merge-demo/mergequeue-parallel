@@ -5214,6 +5214,7 @@ denunciations
 deputy
 denominations
 desired
+dhurna
 dicty
 dine
 depolarisation
@@ -11951,7 +11952,6 @@ doux
 domesticator
 dehypnotized
 decumbency
-dhurna
 dragoonade
 dotate
 disdar
