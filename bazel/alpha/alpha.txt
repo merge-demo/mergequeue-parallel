@@ -12258,7 +12258,6 @@ apophony
 androgenous
 ammochryse
 anchietin
-anticomplex
 anisylidene
 androgyn
 androgynal
@@ -15905,6 +15904,7 @@ arapunga
 arenga
 antiradical
 antiegotist
+anticomplex
 alkylamine
 antiputrefactive
 affile
