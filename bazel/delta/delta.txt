@@ -14008,6 +14008,7 @@ distomatosis
 doryphorus
 debits
 diactin
+diablo
 daubreelite
 dichroism
 deys
@@ -16747,7 +16748,6 @@ drinking
 dibrom
 denominational
 disturbers
-diablo
 drakelet
 decaspermous
 drugging
