@@ -894,7 +894,6 @@ colocates
 coquetting
 confided
 cakavci
-cakchikel
 caker
 cakette
 chaptalization
@@ -31154,6 +31153,7 @@ cupman
 cupolaed
 crushable
 cupolaing
+cakchikel
 cupolaman
 cupolar
 cotman
