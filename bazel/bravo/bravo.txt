@@ -2379,6 +2379,7 @@ bowdlerised
 bardings
 becalms
 bardlike
+beltlines
 barkiest
 bilaterality
 bardocucullus
@@ -11908,7 +11909,6 @@ branchiopneustic
 bogeymen
 brut
 bawke
-beltlines
 belfries
 betweens
 bolivianos
