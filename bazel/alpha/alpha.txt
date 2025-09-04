@@ -511,7 +511,6 @@ airline
 acoemetae
 ablated
 ablates
-astroite
 ablations
 agnizes
 assarion
@@ -19768,6 +19767,7 @@ animalization
 archthief
 avolation
 allotropes
+astroite
 adpao
 acapsular
 adeptest
