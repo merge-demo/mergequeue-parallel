@@ -12295,7 +12295,6 @@ androsporangium
 auriculoventricular
 androsterone
 androtomy
-angara
 ayens
 anuran
 azosulphine
@@ -20814,6 +20813,7 @@ anguria
 amorphous
 ascape
 amidid
+angara
 aphasias
 ascariasis
 anchovy
