@@ -2533,7 +2533,6 @@ declinatory
 declines
 declining
 directrices
-declivent
 derive
 ducklingship
 deanthropomorphize
@@ -14214,6 +14213,7 @@ decrepit
 daybook
 disulphoxid
 daters
+declivent
 disoxidate
 diterpene
 defleaing

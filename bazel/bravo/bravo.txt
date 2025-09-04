@@ -9106,7 +9106,6 @@ beguilingness
 banksides
 biotins
 beefishness
-basics
 beefhead
 biogeographer
 brack
@@ -12205,6 +12204,7 @@ broggerite
 baluchitherium
 bogwort
 boloism
+basics
 boutre
 bolshevikian
 barrandite
