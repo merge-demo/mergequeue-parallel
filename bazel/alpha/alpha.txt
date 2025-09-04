@@ -3670,7 +3670,6 @@ arcticologist
 acaridea
 adiathetic
 adiating
-addends
 adiation
 adib
 adicea
@@ -9971,6 +9970,7 @@ antiformant
 asphyxia
 amblycephalus
 acinetinan
+addends
 amblychromatic
 amblydactyla
 archarchitect
