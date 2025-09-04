@@ -8192,6 +8192,7 @@ biformity
 bavarian
 blanketflower
 bifurcated
+beode
 beetlestock
 bifurcately
 bifurcating
@@ -10326,7 +10327,6 @@ blamefulness
 bespirit
 blamelessly
 blamers
-beode
 barbados
 barbican
 behaviorally
