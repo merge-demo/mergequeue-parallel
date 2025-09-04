@@ -3571,7 +3571,6 @@ cinques
 caraboid
 caracara
 carack
-caracks
 caracoa
 cumanagoto
 curtaxe
@@ -27333,6 +27332,7 @@ courter
 cozily
 courters
 chilblain
+caracks
 courtesan
 citriculturist
 courtesanship
