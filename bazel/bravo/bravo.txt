@@ -2924,7 +2924,6 @@ barretor
 bloodybones
 billowed
 bonus
-beath
 battalias
 bigeyes
 blocklayer
@@ -11979,6 +11978,7 @@ biogens
 bohora
 benny
 bespangle
+beath
 brucine
 bombarded
 bandie
