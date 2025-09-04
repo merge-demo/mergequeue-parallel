@@ -1310,7 +1310,6 @@ calicoback
 configurate
 calycocarpum
 calicoes
-calycoideous
 concur
 colourlessness
 calycozoa
@@ -5196,6 +5195,7 @@ carpophore
 carinule
 cassocked
 cataleptic
+calycoideous
 conduced
 chevrony
 cuculine
