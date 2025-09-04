@@ -963,7 +963,6 @@ bogey
 bagwyn
 bagwork
 baker
-beverage
 basiophthalmite
 bahaist
 baccalaureus
@@ -5051,6 +5050,7 @@ basenet
 befezzed
 bushmasters
 broiderer
+beverage
 befile
 befilmed
 banqueter
