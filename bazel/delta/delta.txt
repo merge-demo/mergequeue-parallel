@@ -4738,7 +4738,6 @@ disnaturalize
 dolente
 devolution
 diffareation
-disroot
 disrelish
 demiwolf
 demob
@@ -12785,6 +12784,7 @@ disliking
 doubleness
 daut
 disruptability
+disroot
 depreciating
 disobeys
 diastasic
