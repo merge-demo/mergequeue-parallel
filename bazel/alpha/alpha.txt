@@ -4423,7 +4423,6 @@ allentiacan
 acridium
 aune
 avantlay
-advisedly
 adstipulated
 advisedness
 astalk
@@ -20736,6 +20735,7 @@ ampulate
 arusha
 aryan
 aruspex
+advisedly
 arteriography
 arvejon
 arverni
