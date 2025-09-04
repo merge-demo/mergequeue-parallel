@@ -12110,6 +12110,7 @@ chirps
 cotillage
 companionability
 cubans
+cripply
 cyclonoscope
 crupper
 chresard
@@ -15375,7 +15376,6 @@ congruency
 chortled
 coran
 caulkings
-cripply
 clapnest
 clapnet
 concentered
