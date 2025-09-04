@@ -1926,7 +1926,6 @@ acetomorphin
 acetomorphine
 acetonaemia
 acetonaemic
-acetonic
 advances
 antependia
 acetonylacetone
@@ -4628,6 +4627,7 @@ abaris
 attitudinising
 aequi
 aranein
+acetonic
 allometric
 allogamy
 aequor
