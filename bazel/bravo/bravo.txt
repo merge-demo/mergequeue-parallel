@@ -9943,7 +9943,6 @@ babyhoods
 binodous
 brinjarries
 brahmic
-bivector
 biventer
 bayonetting
 burgle
@@ -15529,6 +15528,7 @@ born
 bristlelike
 berycoidean
 blindfoldedness
+bivector
 bisected
 brigander
 bronchitis
