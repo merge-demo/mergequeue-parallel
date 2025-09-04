@@ -900,7 +900,6 @@ cakewalker
 cakewalking
 caressant
 carnotite
-caky
 clientelage
 cloragen
 consecration
@@ -6917,6 +6916,7 @@ cletch
 crowdedness
 confects
 cenesthetic
+caky
 cotyligerous
 cosinusoid
 cenizo
