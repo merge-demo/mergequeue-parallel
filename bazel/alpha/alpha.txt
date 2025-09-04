@@ -4448,6 +4448,7 @@ aix
 adiaphora
 adlumine
 amatungula
+assailing
 aftergo
 anthropophagously
 advisories
@@ -13147,7 +13148,6 @@ anisodactyla
 anonol
 anisodactyli
 anamnesis
-assailing
 asnort
 anisodactylic
 aqua
