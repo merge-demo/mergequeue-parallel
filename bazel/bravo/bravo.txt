@@ -7025,7 +7025,6 @@ besouth
 binoxide
 blaming
 bedazzlement
-bespangle
 bespangling
 bespate
 brickbatted
@@ -11976,6 +11975,7 @@ bundlers
 biogens
 bohora
 benny
+bespangle
 brucine
 bombarded
 bandie
