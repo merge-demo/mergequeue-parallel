@@ -8329,7 +8329,6 @@ chamacoco
 chamaebatia
 chamaecranial
 cascade
-cogons
 centry
 compinge
 corkir
@@ -17368,6 +17367,7 @@ coastguardsman
 coastguardsmen
 cacheted
 cruder
+cogons
 coastland
 couscouses
 coastlines

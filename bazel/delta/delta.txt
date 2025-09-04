@@ -8219,7 +8219,6 @@ diadochi
 ductible
 dados
 debaucheries
-diadochy
 damasked
 decussion
 dissectors
@@ -16335,6 +16334,7 @@ divers
 diaheliotropism
 doryanthes
 downgraded
+diadochy
 dazzles
 drang
 domboc
