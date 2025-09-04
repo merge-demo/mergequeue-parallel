@@ -6870,7 +6870,6 @@ abdominovesical
 alphabetism
 ake
 appraisingly
-apoapsis
 akebia
 actinia
 adoniram
@@ -20798,6 +20797,7 @@ apis
 ambulating
 alveolar
 acetifies
+apoapsis
 arthrogastra
 asbestoid
 asbestoidal
