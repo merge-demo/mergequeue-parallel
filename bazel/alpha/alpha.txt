@@ -3641,7 +3641,6 @@ adumbrate
 antecedal
 adiadochokinesis
 adiadokokinesia
-adiagnostic
 adiamorphic
 adeniform
 anterograde
@@ -13938,6 +13937,7 @@ adventurousness
 antecedes
 aloedary
 aloetic
+adiagnostic
 accomodate
 agitpropist
 autopilots
