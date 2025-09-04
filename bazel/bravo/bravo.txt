@@ -15438,7 +15438,6 @@ brynhild
 blist
 broomrape
 barbes
-baku
 boyce
 biferous
 bloodless
@@ -17198,6 +17197,7 @@ bumbling
 blueball
 bumboat
 bumclock
+baku
 bludgeoner
 batling
 boltings
