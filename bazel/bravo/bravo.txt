@@ -6619,6 +6619,7 @@ baratte
 blusht
 bambinos
 burnings
+blueleg
 berycoid
 bionomist
 boutade
@@ -12965,7 +12966,6 @@ beaver
 bookstore
 blockheadishness
 bopeep
-blueleg
 bopped
 bolshevize
 bathless
