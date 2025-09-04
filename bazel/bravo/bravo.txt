@@ -4132,7 +4132,6 @@ boloroot
 beefiness
 barkening
 brawled
-bartlemy
 beastlike
 bodywise
 buoyantness
@@ -5928,6 +5927,7 @@ brickkiln
 biauriculate
 beltman
 belts
+bartlemy
 bloodspilling
 beadlike
 bargoose
