@@ -4277,7 +4277,6 @@ dishonored
 dipperful
 detribalized
 debruising
-disyllabic
 dunal
 deadishly
 deferent
@@ -6610,6 +6609,7 @@ demerol
 dreamwhile
 desert
 deserters
+disyllabic
 darkroom
 deescalated
 deacidification
