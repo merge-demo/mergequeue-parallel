@@ -16966,6 +16966,7 @@ breakables
 buggess
 bulimias
 boarder
+bedcover
 bronchiostenosis
 biconsonantal
 broomtail
@@ -17908,7 +17909,6 @@ beminstrel
 bravoite
 bushless
 baillie
-bedcover
 bareness
 bottega
 bushmaker
