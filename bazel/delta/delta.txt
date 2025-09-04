@@ -3123,7 +3123,6 @@ defeatism
 drouths
 defeature
 debted
-dyothelete
 dowless
 dipsas
 daneflower
@@ -8472,6 +8471,7 @@ deciares
 discombobulating
 decrial
 demioctagonal
+dyothelete
 diametral
 diamide
 defacer
