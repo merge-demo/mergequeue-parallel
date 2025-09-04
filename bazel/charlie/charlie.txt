@@ -24524,7 +24524,6 @@ clinquant
 calorizes
 copenetrate
 copenhagen
-copepod
 copepoda
 chromolithograph
 cleistothecopsis
@@ -30807,6 +30806,7 @@ cinereous
 cartop
 chordates
 culmed
+copepod
 casaquin
 cholerine
 causus
