@@ -2464,6 +2464,7 @@ dovekies
 deckle
 disslander
 dulls
+derationalization
 diatropism
 dishonourary
 dresser
@@ -15930,7 +15931,6 @@ dossman
 deputyship
 dorsopleural
 dirtplate
-derationalization
 doruck
 decatoic
 daimyo
