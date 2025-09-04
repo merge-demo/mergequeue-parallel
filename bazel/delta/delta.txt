@@ -1412,7 +1412,6 @@ diploidy
 digresses
 demiurgical
 dawning
-dogmouth
 desocialize
 dissonancies
 dawnlike
@@ -13144,6 +13143,7 @@ dragster
 debagged
 debasing
 devoutly
+dogmouth
 diffracted
 drooped
 dispensation
