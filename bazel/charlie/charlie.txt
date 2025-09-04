@@ -3548,6 +3548,7 @@ cowgirl
 carabidae
 checkle
 carabidan
+clupein
 carabidoid
 carabids
 compar
@@ -23562,7 +23563,6 @@ continuality
 cerebroma
 conchiolin
 continuancy
-clupein
 coroplastic
 cheeky
 catholicising
