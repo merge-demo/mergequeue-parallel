@@ -2541,6 +2541,7 @@ detoured
 dermobranchia
 durable
 decartelized
+dotlet
 declutch
 divise
 duad
@@ -16052,7 +16053,6 @@ dotkin
 distinctiveness
 dudish
 distant
-dotlet
 derrickman
 dislive
 doto
