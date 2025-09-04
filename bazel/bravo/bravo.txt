@@ -2628,6 +2628,7 @@ barkometer
 bescorch
 batrachite
 beeth
+bedtimes
 barlafumble
 blurred
 basilinna
@@ -17371,7 +17372,6 @@ bassoon
 bargemaster
 bunker
 bluebird
-bedtimes
 bespattered
 bandbox
 boettner
