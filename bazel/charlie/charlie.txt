@@ -15362,6 +15362,7 @@ characteristics
 colloidize
 carbolised
 cyprinodontidae
+coroniform
 covenantor
 crenelated
 claosaurus
@@ -29455,7 +29456,6 @@ coevality
 crystallurgy
 ceruminiferous
 companion
-coroniform
 chithe
 crystals
 cristatella
