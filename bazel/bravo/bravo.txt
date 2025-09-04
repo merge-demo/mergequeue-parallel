@@ -4682,6 +4682,7 @@ boottopping
 butcherliness
 bedlams
 bienseance
+bandage
 bursula
 basseted
 bedlar
@@ -13371,7 +13372,6 @@ bhoosa
 bluenoses
 billsticker
 bandora
-bandage
 ballhawks
 bioelectricities
 bothriocephalus
