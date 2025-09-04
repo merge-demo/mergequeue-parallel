@@ -5106,6 +5106,7 @@ affenpinscher
 affere
 abnegative
 affianced
+astrohatch
 analgetic
 angakok
 antipoetic
@@ -7510,7 +7511,6 @@ alcyonacean
 alcyone
 alcyoniaceae
 alcyonic
-astrohatch
 absorbencies
 anisil
 alcyonium
