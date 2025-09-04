@@ -12659,6 +12659,7 @@ angiomalacia
 angiomas
 anoestrous
 angiomyosarcoma
+amuletic
 astakiwi
 antihemolysin
 angioneurosis
@@ -17994,7 +17995,6 @@ aptitudes
 aptnesses
 autohypnotization
 anises
-amuletic
 acherontic
 affusions
 antereformation
