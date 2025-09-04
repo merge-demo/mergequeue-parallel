@@ -4569,7 +4569,6 @@ discriminant
 dottled
 dukhobor
 dynastically
-demilawyer
 demilitarise
 demilitarised
 designing
@@ -12354,6 +12353,7 @@ disenchanted
 delicacies
 debarks
 disgracious
+demilawyer
 demetallize
 diplegias
 doublegear
