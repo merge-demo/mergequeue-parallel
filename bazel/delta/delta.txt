@@ -3667,6 +3667,7 @@ diathetic
 daunting
 daffish
 dictamnus
+dipsetic
 disentitling
 degust
 dasnt
@@ -8150,7 +8151,6 @@ discontinual
 decahydrated
 diacatholicon
 destitution
-dipsetic
 dakotan
 divaricated
 displeasuring

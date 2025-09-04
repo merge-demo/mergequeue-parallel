@@ -11351,7 +11351,6 @@ chloroplasts
 coenamorment
 chiastic
 chloroplatinous
-chloroprene
 creature
 cucullus
 chloroquine
@@ -22437,6 +22436,7 @@ confarreation
 cophasal
 conioselinum
 chivalrously
+chloroprene
 cahuita
 coniosis
 coniospermous
