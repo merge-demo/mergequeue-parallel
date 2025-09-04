@@ -572,7 +572,6 @@ befriendment
 buccinum
 biggishness
 batrachium
-brith
 bandboxical
 bib
 backwind
@@ -5260,6 +5259,7 @@ battlefield
 bash
 botulinal
 behn
+brith
 bontebuck
 bigeyes
 beadroll
