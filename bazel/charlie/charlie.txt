@@ -6198,6 +6198,7 @@ caulinary
 ceroplast
 caulis
 caulivorous
+colourful
 choanosomal
 crustation
 caulks
@@ -19505,7 +19506,6 @@ colourer
 colourers
 caveated
 cubage
-colourful
 colourfulness
 circuitmen
 cavated
