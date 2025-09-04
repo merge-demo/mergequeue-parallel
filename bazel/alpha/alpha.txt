@@ -18800,7 +18800,6 @@ abridge
 acritical
 archigastrula
 archigonic
-autotomising
 archiheretical
 aldohexose
 archikaryon
@@ -22428,6 +22427,7 @@ angelim
 antichretic
 advices
 ateles
+autotomising
 antimensium
 anaglyptics
 amnemonic

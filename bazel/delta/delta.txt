@@ -879,7 +879,6 @@ dieting
 denominationalist
 daguerreotypes
 disincrustant
-digamous
 decrescendo
 dandling
 deliberative
@@ -1729,6 +1728,7 @@ derogation
 disaccord
 deathtime
 diverticular
+digamous
 diphyllobothrium
 droner
 deathtrap
