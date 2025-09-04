@@ -2675,7 +2675,6 @@ dishwash
 devoured
 deconvolve
 desmon
-decopperize
 decor
 diplopic
 dappledness
@@ -12996,6 +12995,7 @@ doubtmonger
 dispermic
 dognaping
 deciduous
+decopperize
 discolor
 driftwind
 disaffectedness
