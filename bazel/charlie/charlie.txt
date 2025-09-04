@@ -3118,6 +3118,7 @@ coatimondie
 closemouth
 caper
 caperbush
+crepance
 capercaillie
 chaulmoogric
 capercut
@@ -9745,7 +9746,6 @@ chelydre
 cyclonical
 churrs
 cutties
-crepance
 condignness
 chrematistics
 ceylon
