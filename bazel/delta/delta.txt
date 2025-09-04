@@ -4674,6 +4674,7 @@ demystification
 demon
 dismantle
 downtrends
+duplicident
 dithyrambos
 diphthongous
 dimissory
@@ -6055,7 +6056,6 @@ divorces
 devoteeism
 divaricating
 dispends
-duplicident
 dextrocerebral
 drumlike
 demolitionary
