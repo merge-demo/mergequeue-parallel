@@ -6719,7 +6719,6 @@ costard
 celibatic
 conducent
 celibatist
-coroun
 clobbering
 celibatory
 celidography
@@ -24110,6 +24109,7 @@ coassignee
 chedites
 conformation
 convertiplane
+coroun
 convertise
 convertism
 convertite
