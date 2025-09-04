@@ -17213,7 +17213,6 @@ coaid
 coaita
 coak
 coakum
-coala
 coalas
 chimmesyan
 coalbag
@@ -18246,6 +18245,7 @@ coffeegrower
 cantinas
 carbonari
 cuss
+coala
 capelets
 coffeehouse
 coffeeman
