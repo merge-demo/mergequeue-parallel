@@ -13549,7 +13549,6 @@ dauting
 dairymaid
 dippable
 diatomite
-disruptive
 dada
 decagon
 diss
@@ -15775,6 +15774,7 @@ didrachma
 defatted
 decollator
 doric
+disruptive
 dopped
 detractiveness
 disaffect
