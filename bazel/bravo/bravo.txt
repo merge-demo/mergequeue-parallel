@@ -5133,6 +5133,7 @@ baffled
 becket
 billable
 boxholder
+buttonhole
 bootmaker
 brunizem
 befouling
@@ -9897,7 +9898,6 @@ buro
 bituminoid
 belsire
 bipropellant
-buttonhole
 bennettitaceae
 bravas
 brian
