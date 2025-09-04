@@ -5509,7 +5509,6 @@ compunctionary
 catallactic
 cladocerans
 catalo
-cataloes
 cataloged
 character
 cariousness
@@ -22785,6 +22784,7 @@ cabers
 consecrator
 consecratory
 consectary
+cataloes
 cardines
 consecutive
 curtailment
