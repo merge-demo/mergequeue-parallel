@@ -7039,7 +7039,6 @@ catalpa
 centesimo
 caelus
 cerebrophysiology
-chicaned
 conciliated
 connotational
 centesm
@@ -31508,6 +31507,7 @@ curring
 currock
 clupeoids
 collectivization
+chicaned
 cursa
 curse
 cursedly
