@@ -5047,7 +5047,6 @@ casefy
 corneter
 counterenamel
 compeller
-chondrectomy
 caseharden
 callosity
 casehardening
@@ -8556,6 +8555,7 @@ calais
 cavalieres
 chandlerly
 caecally
+chondrectomy
 chandlers
 contester
 chylothorax
