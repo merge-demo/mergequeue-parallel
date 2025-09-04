@@ -13919,7 +13919,6 @@ chilognath
 cent
 cynophobia
 counterchange
-cynopithecidae
 cynopithecoid
 cynorrhoda
 cynorrhodon
@@ -28994,6 +28993,7 @@ carminic
 comradely
 colletarium
 criminologists
+cynopithecidae
 criminous
 conscribed
 criminously
