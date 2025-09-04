@@ -13569,6 +13569,7 @@ anticosmetic
 anointments
 awiggle
 avalvular
+archaic
 articulation
 astrometrical
 anisodactylous
@@ -22147,7 +22148,6 @@ acoemetic
 astragalotibial
 anomalism
 astragalus
-archaic
 archaeolith
 astrain
 antimissile
