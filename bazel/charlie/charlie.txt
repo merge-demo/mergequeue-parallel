@@ -16204,6 +16204,7 @@ chakobu
 cuit
 chob
 craniopagus
+coregnant
 clinging
 clingingly
 clinia
@@ -25040,7 +25041,6 @@ courtlet
 coregnancy
 cubicity
 counterbalancing
-coregnant
 coregonid
 coregonidae
 coregonoid
