@@ -2086,6 +2086,7 @@ decameral
 dandy
 daintify
 doline
+dingles
 diapasm
 daunts
 dissembles
@@ -3527,7 +3528,6 @@ dibenzyl
 drainpipes
 disentangles
 displants
-dingles
 dermatotome
 drawbeam
 defuze
