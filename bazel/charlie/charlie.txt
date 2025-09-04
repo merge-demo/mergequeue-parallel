@@ -19666,6 +19666,7 @@ colzas
 com
 coma
 comprobate
+craniopharyngeal
 carillon
 comade
 comagmatic
@@ -28096,7 +28097,6 @@ championship
 capronyl
 craniometrist
 craniopathic
-craniopharyngeal
 code
 craniorhachischisis
 countercheck
