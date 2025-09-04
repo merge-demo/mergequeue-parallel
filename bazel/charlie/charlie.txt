@@ -14345,6 +14345,7 @@ chronometry
 circumstantiality
 circumstantialities
 circumstantialness
+coazervation
 comparsa
 catacumba
 circumstantiate
@@ -17409,7 +17410,6 @@ coaxial
 coaxing
 coazervate
 contline
-coazervation
 cupbearer
 cobaea
 corbeil
