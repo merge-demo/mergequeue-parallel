@@ -10513,7 +10513,6 @@ bugshas
 breadboxes
 bilo
 blathered
-blesmol
 blathery
 blackprint
 baretta
@@ -10715,6 +10714,7 @@ blennophobia
 blennoptysis
 blennorhea
 bosseyed
+blesmol
 brickwise
 bairnie
 blandishes
