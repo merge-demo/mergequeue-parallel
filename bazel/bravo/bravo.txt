@@ -9684,7 +9684,6 @@ babble
 beside
 bairnish
 boatie
-byssoid
 buckskin
 bedragglement
 besing
@@ -14598,6 +14597,7 @@ bedcord
 brantle
 bacteriologic
 bibliomanism
+byssoid
 brants
 bararesque
 brasen
