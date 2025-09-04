@@ -1585,7 +1585,6 @@ deafly
 deafmuteness
 disembrace
 digression
-deafness
 deairing
 discernableness
 deairs
@@ -3302,6 +3301,7 @@ dagos
 deturn
 dsect
 defis
+deafness
 deflagrable
 dialling
 decolor
