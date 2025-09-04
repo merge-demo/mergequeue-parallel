@@ -2249,6 +2249,7 @@ dowset
 durax
 dyewoods
 decemfoliate
+detumescence
 dogmas
 demotion
 dominiums
@@ -7481,7 +7482,6 @@ dodgery
 detrusion
 duvetyns
 dripstone
-detumescence
 deposal
 detune
 destructionism
