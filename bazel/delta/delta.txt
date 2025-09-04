@@ -11214,6 +11214,7 @@ dreparnaudia
 dissipater
 dosain
 diaphanous
+deplaceable
 donating
 disattaint
 disattune
@@ -12146,7 +12147,6 @@ didact
 dolichocephalism
 disclaimers
 designlessly
-deplaceable
 disentrail
 disentrainment
 disentrance
