@@ -1378,7 +1378,6 @@ caliphate
 colt
 cubist
 caliphship
-calippic
 contradebt
 calypsist
 criollas
@@ -25861,6 +25860,7 @@ chyak
 circumscribes
 corsite
 corsos
+calippic
 corteges
 capitalization
 congas
