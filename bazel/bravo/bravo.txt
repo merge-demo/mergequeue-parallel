@@ -7666,6 +7666,7 @@ borings
 bagleaves
 bulbotuber
 bhaktimarga
+barthite
 boomy
 behavioral
 bhangi
@@ -12819,7 +12820,6 @@ burglary
 basiliscine
 barnabite
 bioprecipitation
-barthite
 boomslang
 boomslange
 busuuti
