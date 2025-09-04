@@ -3718,7 +3718,6 @@ dehisce
 dehisced
 dichromism
 domitic
-delegated
 disprove
 desmitis
 dehkan
@@ -4910,6 +4909,7 @@ demonopolize
 defervescence
 demonry
 dubiosities
+delegated
 dispersive
 dovishness
 demonstrated
