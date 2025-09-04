@@ -2603,7 +2603,6 @@ breastbones
 bifronted
 biporous
 borana
-barkey
 barkery
 barkhan
 batman
@@ -14521,6 +14520,7 @@ branchiostoma
 bounciest
 branchiostomous
 bombload
+barkey
 branchireme
 branchless
 bollocks
