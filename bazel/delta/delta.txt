@@ -2094,7 +2094,6 @@ diagnostics
 despoilment
 dissyllabize
 digraph
-dihydrol
 decamethonium
 decancellate
 dominator
@@ -7539,6 +7538,7 @@ decatizer
 deuterogamy
 dihydromorphinone
 dreegh
+dihydrol
 deplorably
 dextrogyratory
 dictums
