@@ -4941,6 +4941,7 @@ demoraliser
 demoralising
 defecter
 dicrostonyx
+defiled
 displeased
 duranta
 demoralized
@@ -15205,7 +15206,6 @@ disfrequent
 dogmatise
 dressoirs
 doggrelize
-defiled
 dogmatizer
 dispensator
 discotheques
