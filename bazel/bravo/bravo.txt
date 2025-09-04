@@ -11892,7 +11892,6 @@ basinasial
 baggily
 bogach
 becrush
-bichrome
 betutor
 bourns
 botonn
@@ -18006,6 +18005,7 @@ beaux
 benda
 bicrons
 bussing
+bichrome
 bussock
 beneurous
 backlash
