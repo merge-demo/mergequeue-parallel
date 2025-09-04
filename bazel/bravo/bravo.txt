@@ -2517,7 +2517,6 @@ barye
 burglarise
 bestrewn
 bois
-bielenite
 barcolongo
 bicycle
 breadearner
@@ -10024,6 +10023,7 @@ bergeret
 biblos
 bizz
 bluecoats
+bielenite
 bellyache
 bjorne
 bk
