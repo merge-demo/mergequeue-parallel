@@ -13826,7 +13826,6 @@ cinereal
 cinerin
 cinerous
 cingalese
-cortinae
 catalysis
 cingle
 cauchemar
@@ -14824,6 +14823,7 @@ cornsack
 cytogenic
 cahill
 cytoglobin
+cortinae
 corselette
 concitizen
 cytoid
