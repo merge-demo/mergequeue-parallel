@@ -14208,7 +14208,6 @@ disacknowledgement
 demandingness
 decedent
 disulfuric
-disulphate
 desulfurated
 drakefly
 drawtube
@@ -17612,6 +17611,7 @@ duant
 dentigerous
 dandelion
 defeminisation
+disulphate
 denicotinizing
 drupa
 dicyclist
