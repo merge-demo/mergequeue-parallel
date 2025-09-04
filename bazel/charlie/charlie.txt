@@ -8335,7 +8335,6 @@ compinge
 corkir
 chamaelirium
 chamaepericlymenum
-chamaephyte
 chamaerops
 chamaesiphonales
 chamar
@@ -13671,6 +13670,7 @@ contusing
 counterthwarting
 cinchonaceae
 caules
+chamaephyte
 conuzor
 cinchonaceous
 cholecystis
