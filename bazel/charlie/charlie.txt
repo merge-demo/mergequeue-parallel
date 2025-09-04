@@ -14092,7 +14092,6 @@ circuit
 circuital
 chimonanthus
 circuiteer
-clyer
 chullpa
 cypresses
 cementless
@@ -17834,6 +17833,7 @@ coders
 chromoprotein
 certificating
 consumption
+clyer
 cutigeral
 cononintelligent
 catchup
