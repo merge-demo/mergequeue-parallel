@@ -15348,7 +15348,6 @@ dolium
 darogha
 declaims
 dureful
-distinguishability
 dosiology
 drainway
 determinably
@@ -17828,6 +17827,7 @@ duckmeat
 duckpin
 diabolarch
 dower
+distinguishability
 dermatological
 demographies
 discrete
