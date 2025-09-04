@@ -3838,6 +3838,7 @@ adjutant
 acicularity
 antimonopoly
 anesthetic
+adtevac
 adjutator
 antidotically
 abede
@@ -24538,7 +24539,6 @@ ambergrease
 alarming
 actinophryan
 aahing
-adtevac
 avalanche
 amantadine
 avalanches
