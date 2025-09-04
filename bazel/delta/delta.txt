@@ -6727,7 +6727,6 @@ desilicified
 desiliconization
 dribbed
 doubly
-decollating
 delate
 deceased
 desilt
@@ -9629,6 +9628,7 @@ dependants
 dyslexias
 digonal
 demirobe
+decollating
 differentness
 drugger
 digoxins
