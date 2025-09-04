@@ -17270,6 +17270,7 @@ bunchily
 bunchiness
 buncoing
 brazilite
+brickfield
 berthing
 brucellas
 basilosaurus
@@ -17941,7 +17942,6 @@ bushwhacked
 bushwhackers
 balancing
 bellowsman
-brickfield
 busybody
 bituminize
 baho

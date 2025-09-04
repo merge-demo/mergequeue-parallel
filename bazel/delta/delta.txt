@@ -5589,6 +5589,7 @@ dispersed
 dramatizable
 dukeship
 dowp
+doronicum
 depeopled
 danglin
 deperdit
@@ -6379,7 +6380,6 @@ dorsiventral
 derodidymus
 derog
 demeanour
-doronicum
 derogate
 denuclearization
 derogates
