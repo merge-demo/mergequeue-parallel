@@ -2770,7 +2770,6 @@ camphanone
 calycozoon
 comfortful
 clownish
-cannonier
 cannoning
 cannonries
 cyrtandraceae
@@ -23373,6 +23372,7 @@ contagions
 contagiosity
 contagious
 contagiousness
+cannonier
 contagium
 contain
 contained
