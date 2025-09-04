@@ -11466,7 +11466,6 @@ depopulator
 diphosphothiamine
 dated
 discession
-discipular
 dislikes
 discission
 desktop
@@ -11846,6 +11845,7 @@ dined
 dermutation
 discretion
 discretional
+discipular
 delivering
 dousers
 dandification
