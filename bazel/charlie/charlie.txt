@@ -23574,7 +23574,6 @@ continuatively
 continuativeness
 continuator
 circumnutate
-cathodical
 continue
 continued
 continuedness
@@ -25719,6 +25718,7 @@ corrive
 counterswing
 continuate
 corroboration
+cathodical
 canterburianism
 cephalotheca
 corroborations
