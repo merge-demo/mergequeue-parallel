@@ -1646,6 +1646,7 @@ dothiorella
 deamidation
 daws
 daw
+dwalm
 deamination
 debited
 deammonation
@@ -18670,7 +18671,6 @@ dwale
 dirking
 draffiest
 diiamb
-dwalm
 dwarfer
 dwarfishness
 documentarily
