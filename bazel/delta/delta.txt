@@ -167,7 +167,6 @@ drugstore
 doltishly
 dareall
 dadoes
-dadoxylon
 desireful
 dressage
 delicates
@@ -665,6 +664,7 @@ deciduas
 ditroite
 damon
 darnel
+dadoxylon
 damosel
 drachms
 divorcement
