@@ -18879,7 +18879,6 @@ credent
 chequy
 colymbus
 choroid
-chaines
 chelodina
 chadars
 cabins
@@ -20719,6 +20718,7 @@ cheloid
 carvy
 complexing
 chromos
+chaines
 complexional
 carioling
 complexionary
