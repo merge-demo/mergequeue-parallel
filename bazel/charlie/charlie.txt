@@ -2814,7 +2814,6 @@ cuerpo
 canon
 canones
 cardooer
-canonesses
 canonicalization
 cultivable
 cinctures
@@ -22119,6 +22118,7 @@ cripplers
 confounding
 caufle
 chronogrammatical
+canonesses
 confounds
 chiule
 confraction
