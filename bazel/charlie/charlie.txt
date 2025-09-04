@@ -9489,7 +9489,6 @@ checkmate
 chirosophist
 chiotilla
 checkmating
-cautioning
 circumferences
 checkpoint
 cardamum
@@ -17561,6 +17560,7 @@ conducible
 coccerin
 corr
 coccic
+cautioning
 chrisoms
 coccidae
 coagency
