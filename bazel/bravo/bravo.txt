@@ -5263,7 +5263,6 @@ bontebuck
 bigeyes
 beadroll
 brawn
-beggiatoaceae
 bemoil
 beggiatoaceous
 beggingly
@@ -10229,6 +10228,7 @@ byroniana
 borstals
 benzoquinoline
 blacktopping
+beggiatoaceae
 blacktops
 blastoporphyritic
 bijugular
