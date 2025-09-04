@@ -12899,6 +12899,7 @@ anhedral
 anhedron
 anhelation
 anhelose
+atavism
 amulla
 anhyd
 allodially
@@ -22383,7 +22384,6 @@ affrap
 alodification
 atavi
 atavic
-atavism
 adsorbate
 anarchosyndicalism
 allegheny
