@@ -2832,6 +2832,7 @@ crockeryware
 casziel
 coambassador
 canonising
+constancy
 canonized
 carboxyhemoglobin
 cetorhinoid
@@ -21727,7 +21728,6 @@ condoles
 compesce
 contraflexure
 condolingly
-constancy
 condom
 collarbones
 crabbed

@@ -10906,7 +10906,6 @@ apinoid
 andrographis
 absenteeism
 adterminal
-amok
 amoke
 anchoritically
 antigene
@@ -11790,6 +11789,7 @@ addable
 ananism
 anelace
 anankastic
+amok
 aqueomercurial
 ananke
 anansi
