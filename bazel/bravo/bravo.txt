@@ -6960,6 +6960,7 @@ bundling
 borderism
 bewelter
 brae
+bure
 besmirchers
 billethead
 bioreaction
@@ -16940,7 +16941,6 @@ bimotor
 bulbously
 bowedness
 bespoken
-bure
 barytones
 blazoner
 beeping

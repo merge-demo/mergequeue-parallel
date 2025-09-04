@@ -1474,7 +1474,6 @@ deaccessioning
 drawbolt
 dingbats
 dowsets
-definiendum
 deformers
 diazines
 discophorous
@@ -5835,6 +5834,7 @@ dampener
 destrier
 disestablishes
 dewing
+definiendum
 desistance
 depots
 dasyure
