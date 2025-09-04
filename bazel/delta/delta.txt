@@ -4623,7 +4623,6 @@ disavows
 disgust
 dackers
 disemburden
-demipique
 dishtowel
 demipomada
 diazid
@@ -16104,6 +16103,7 @@ drent
 duryodhana
 doublethink
 disapprovals
+demipique
 drainboard
 denigrate
 dabster
