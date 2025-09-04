@@ -9258,7 +9258,6 @@ derat
 dyeings
 declaiming
 dieldrin
-derelict
 decahedrodra
 dieldrins
 dielectric
@@ -13743,6 +13742,7 @@ disulphuric
 decals
 dialkyl
 danegeld
+derelict
 donates
 diatomiferous
 diplasion
