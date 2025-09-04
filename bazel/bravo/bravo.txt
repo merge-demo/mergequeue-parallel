@@ -13106,6 +13106,7 @@ bornane
 bornean
 bunsen
 belows
+bardlet
 borneol
 borneols
 belaced
@@ -16581,7 +16582,6 @@ bucculae
 butyr
 bloused
 bisons
-bardlet
 bulanda
 brevicipitid
 burke
