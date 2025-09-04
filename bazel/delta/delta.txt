@@ -10317,6 +10317,7 @@ demurred
 dioecian
 disclout
 duodenal
+disagreeance
 dustpans
 demonograph
 dactylioglyph
@@ -16530,7 +16531,6 @@ diagramming
 datiscin
 deodorizing
 dracone
-disagreeance
 docilities
 draconid
 douzieme
