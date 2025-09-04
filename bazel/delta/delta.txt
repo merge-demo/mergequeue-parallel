@@ -3307,7 +3307,6 @@ dsect
 defis
 deflagrable
 dialling
-decolor
 dark
 disrestore
 dynagraph
@@ -16128,6 +16127,7 @@ doubtous
 doubts
 darbyism
 douc
+decolor
 douceness
 despitous
 douceur
