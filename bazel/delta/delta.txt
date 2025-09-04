@@ -5582,7 +5582,6 @@ desensitizes
 dependency
 dooly
 dependingly
-drouthiness
 depends
 dallack
 decretals
@@ -10141,6 +10140,7 @@ dobrao
 dinantian
 disquiets
 dieties
+drouthiness
 defeater
 deodar
 dynast
