@@ -5648,6 +5648,7 @@ catching
 clerkage
 carolean
 cannon
+capitulated
 catchlight
 cultivatability
 clockcase
@@ -18698,7 +18699,6 @@ conflictful
 coitally
 chittak
 chaoush
-capitulated
 congreet
 celioscopy
 canvasses
