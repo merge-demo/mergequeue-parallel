@@ -3782,7 +3782,6 @@ carbonaceous
 cuter
 cleavability
 ceratite
-carbonarist
 carbonatation
 carbonating
 carbonation
@@ -29640,6 +29639,7 @@ croisee
 coetanean
 croises
 cambiform
+carbonarist
 croissant
 croissante
 carousingly
