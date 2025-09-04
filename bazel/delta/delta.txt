@@ -10216,7 +10216,6 @@ distillation
 drissel
 desmolase
 dinging
-dingleberry
 dingled
 dreidl
 denuclearize
@@ -16653,6 +16652,7 @@ dragonflies
 dossers
 dispergated
 dolichosauri
+dingleberry
 deprecated
 didelphian
 dragonhood
