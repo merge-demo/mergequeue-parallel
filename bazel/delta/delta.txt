@@ -11126,6 +11126,7 @@ disappearer
 diphthongized
 diamagnetically
 droning
+defatted
 disequilibrate
 doctordom
 deedy
@@ -15767,7 +15768,6 @@ dysporomorph
 dunce
 dartrose
 didrachma
-defatted
 decollator
 doric
 disruptive
