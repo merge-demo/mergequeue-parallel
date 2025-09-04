@@ -10536,7 +10536,6 @@ aptly
 amyloidoses
 acatharsia
 amyloidosis
-anguille
 amyloleucite
 antivenine
 afterwrath
@@ -22979,6 +22978,7 @@ atte
 avodires
 ammonolyze
 agouty
+anguille
 antheriform
 attemperament
 aizle
