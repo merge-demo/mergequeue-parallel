@@ -21151,7 +21151,6 @@ chafflike
 chrysophan
 conceiver
 conceiving
-codomestication
 concelebrate
 clinophobia
 concelebration
@@ -28077,6 +28076,7 @@ coteries
 cento
 circumstance
 craniography
+codomestication
 cranioid
 craniol
 croconic
