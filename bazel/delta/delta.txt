@@ -5221,6 +5221,7 @@ deputy
 denominations
 desired
 dhurna
+dutymonger
 dicty
 dine
 depolarisation
@@ -18639,7 +18640,6 @@ denarii
 dipaschal
 dorse
 deluded
-dutymonger
 deactivations
 deodorizer
 disalignment
