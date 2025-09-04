@@ -7779,7 +7779,6 @@ blooms
 bufonite
 blinker
 borazon
-bajri
 balneography
 botchka
 bearable
@@ -14277,6 +14276,7 @@ bullpates
 beerishly
 bhotiya
 boatlike
+bajri
 beamsman
 braggish
 bugloss
