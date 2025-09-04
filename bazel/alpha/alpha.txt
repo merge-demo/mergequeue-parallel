@@ -15605,6 +15605,7 @@ antiparallelogram
 ailuridae
 arylamine
 ablet
+ampullaria
 achete
 andian
 antheridiophore
@@ -21641,7 +21642,6 @@ assentingly
 assentive
 aphelilia
 antithet
-ampullaria
 antiberiberin
 assents
 asseour
