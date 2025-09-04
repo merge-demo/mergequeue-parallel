@@ -4636,7 +4636,6 @@ ascanius
 aequorins
 aerate
 astrophotographer
-ablactating
 aerating
 alcae
 adroop
@@ -20827,6 +20826,7 @@ amytal
 ascaridae
 ascarides
 appertains
+ablactating
 adipometer
 altaic
 arter
