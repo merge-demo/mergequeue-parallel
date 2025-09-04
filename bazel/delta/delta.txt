@@ -4139,6 +4139,7 @@ deliquiate
 deliquium
 demisolde
 demagnetised
+dalliers
 dianthuses
 debye
 dunamis
@@ -11354,7 +11355,6 @@ distributional
 dimmable
 discarded
 dulceness
-dalliers
 drainageway
 discardment
 diane
