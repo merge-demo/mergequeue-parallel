@@ -9026,6 +9026,7 @@ charms
 cremated
 cancelable
 charneco
+chekmak
 charnockite
 covarecan
 charnockites
@@ -23035,7 +23036,6 @@ consorted
 consorter
 cavel
 copatrons
-chekmak
 cowled
 consortial
 consortism
