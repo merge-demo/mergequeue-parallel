@@ -3658,7 +3658,6 @@ disarrange
 degreases
 drupaceae
 daffadowndilly
-dromicia
 degreewise
 degressive
 desulphurizing
@@ -4552,6 +4551,7 @@ dendrite
 decern
 dorsilumbar
 damia
+dromicia
 demigriffin
 distraughted
 devocation
