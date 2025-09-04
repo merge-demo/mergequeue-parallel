@@ -1815,6 +1815,7 @@ douzepers
 declinograph
 departement
 debellator
+dorsalgia
 darapti
 drugmaker
 deplume
@@ -3602,7 +3603,6 @@ disrespectfulness
 discernably
 deglazed
 discoblastic
-dorsalgia
 deglazing
 diopters
 duckling
