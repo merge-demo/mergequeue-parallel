@@ -11817,6 +11817,7 @@ autoschediastical
 anaphylactogenic
 anaphylatoxin
 apectomy
+autovaccination
 anaphyte
 antivaccinator
 alkoxide
@@ -21788,7 +21789,6 @@ associated
 aboudikro
 apostle
 acrocephaly
-autovaccination
 anemometrically
 azolla
 andesine
