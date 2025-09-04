@@ -2010,7 +2010,6 @@ bronzer
 baptanodon
 benefitted
 banjuke
-bv
 bathymetry
 beflecking
 bank
@@ -8012,6 +8011,7 @@ bluntness
 bicornate
 brutal
 bicorned
+bv
 bochur
 bostrychoidal
 bicornous
