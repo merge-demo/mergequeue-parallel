@@ -1936,7 +1936,6 @@ acetonylacetone
 acetamido
 amidoaldehyde
 acetonitrile
-amortised
 aberrancies
 acrologically
 alap
@@ -13834,6 +13833,7 @@ adscendent
 alloplasmic
 algist
 apronlike
+amortised
 anniellidae
 allophanate
 antagonization
