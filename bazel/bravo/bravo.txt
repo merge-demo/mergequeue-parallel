@@ -11481,6 +11481,7 @@ blunged
 bourrasque
 blunger
 bulkheads
+bismarine
 blunk
 berrypicker
 bdellid
@@ -15194,7 +15195,6 @@ bits
 biotype
 beach
 brecken
-bismarine
 bisharin
 blueblaw
 bestrewed
