@@ -16733,6 +16733,7 @@ anecdotalism
 abos
 aphorizes
 aphototactic
+artifactually
 ancienter
 angiokinesis
 approve
@@ -20624,7 +20625,6 @@ augmenting
 acquitment
 artifactitious
 artifacts
-artifactually
 artifex
 advocatrix
 afflicter
