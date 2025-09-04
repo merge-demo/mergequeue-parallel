@@ -3033,6 +3033,7 @@ defacement
 doncella
 disgustfully
 disquietingly
+downslip
 diaphragming
 disorder
 deadliness
@@ -16403,7 +16404,6 @@ dichord
 dovetails
 daylight
 describent
-downslip
 decibel
 disaccharide
 downslope
