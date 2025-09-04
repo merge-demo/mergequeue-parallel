@@ -835,6 +835,7 @@ bafflingness
 bonelike
 bumpily
 bedene
+barmbrack
 bouleversement
 baffs
 becomingly
@@ -1427,7 +1428,6 @@ baleen
 bobance
 battable
 balefires
-barmbrack
 bungey
 balefully
 branned
