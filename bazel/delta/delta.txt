@@ -11241,6 +11241,7 @@ deglaciation
 desulfurizing
 devisee
 disbands
+dissheathe
 depopulate
 disbarring
 disbars
@@ -11837,7 +11838,6 @@ dexamethasone
 distally
 dogblow
 disported
-dissheathe
 debellate
 deoxidising
 diphosphoric
