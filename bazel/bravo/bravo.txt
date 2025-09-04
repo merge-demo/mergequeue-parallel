@@ -2944,6 +2944,7 @@ boyism
 boondoggled
 bimolecularly
 breathing
+biron
 boloed
 beaverish
 bemazed
@@ -9428,7 +9429,6 @@ battlefront
 bisulphide
 brittling
 bookshelf
-biron
 byronesque
 bedecorate
 byronic
