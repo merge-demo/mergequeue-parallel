@@ -3665,6 +3665,7 @@ degreewise
 degressive
 desulphurizing
 dactylopterus
+diathetic
 daunting
 daffish
 dictamnus
@@ -7810,7 +7811,6 @@ dishelmed
 devolves
 decile
 daylighted
-diathetic
 diplospondylic
 desmarestia
 devolving
