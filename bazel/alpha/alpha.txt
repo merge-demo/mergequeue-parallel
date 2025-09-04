@@ -956,7 +956,6 @@ asparagus
 appointable
 archdeacon
 abstergent
-antemeridian
 absterges
 angelican
 ambleocarpus
@@ -2246,6 +2245,7 @@ aul
 acids
 amenity
 acidulant
+antemeridian
 acidulate
 acidulated
 alaunian
