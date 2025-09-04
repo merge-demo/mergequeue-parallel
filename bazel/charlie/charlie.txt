@@ -943,6 +943,7 @@ calambac
 coastmen
 calambour
 castellar
+counselor
 calamiferious
 chromoblast
 catenoids
@@ -26576,7 +26577,6 @@ counseling
 counsellable
 counsellor
 counsellors
-counselor
 countability
 cellos
 corbels
