@@ -5832,7 +5832,6 @@ cackling
 cannibalic
 catha
 capillatus
-convolutionary
 cathay
 cathayan
 cathar
@@ -9768,6 +9767,7 @@ cheliped
 chelys
 cydon
 chellean
+convolutionary
 counterfoil
 cheloids
 chemotaxonomically
