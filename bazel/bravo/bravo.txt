@@ -1363,7 +1363,6 @@ botrylle
 backdrops
 borderlands
 beggarliness
-burlap
 brayed
 butterbump
 betwixen
@@ -2171,6 +2170,7 @@ bulreedy
 baraita
 boschboks
 bewilders
+burlap
 bestove
 baramika
 bertat
