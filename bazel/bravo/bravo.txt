@@ -3988,6 +3988,7 @@ butcheries
 brevier
 beaked
 beakerman
+bipinnariae
 butterroot
 bountiful
 bunraku
@@ -9173,7 +9174,6 @@ berrying
 bianca
 bashfulness
 bronchioli
-bipinnariae
 bandoleros
 biordinal
 batussi
