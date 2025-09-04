@@ -16413,6 +16413,7 @@ disaccharide
 downslope
 devout
 douras
+deglutitive
 dislustred
 dispersal
 duckboard
@@ -18529,7 +18530,6 @@ disorganizers
 dualism
 diffusivity
 duressor
-deglutitive
 dentistic
 drivage
 desulfurization
