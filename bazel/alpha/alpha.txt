@@ -12307,7 +12307,6 @@ aurantium
 anear
 asphyxy
 aberrometer
-animalia
 aneared
 arnement
 admensuration
@@ -18789,6 +18788,7 @@ archidoxis
 archie
 airy
 assemblers
+animalia
 archiepiscopacy
 abomasa
 ardrigh
