@@ -7448,7 +7448,6 @@ brachypodine
 booteries
 beurre
 benamidar
-bestowage
 bevelled
 beveller
 bacteririum
@@ -11162,6 +11161,7 @@ bartering
 bacteriocidal
 bimalar
 bleak
+bestowage
 bucksaws
 blooped
 byways
