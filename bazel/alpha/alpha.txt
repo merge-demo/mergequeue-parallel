@@ -12063,7 +12063,6 @@ ancestors
 ancestral
 ancestrally
 ancestry
-autocue
 ancestrian
 allodge
 albuminimetry
@@ -14516,6 +14515,7 @@ antialdoxime
 angiectopia
 anchorless
 anthropogeographer
+autocue
 antischolastically
 antiamusement
 aurichalcite
