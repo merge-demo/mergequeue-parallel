@@ -2725,7 +2725,6 @@ bukeyef
 barology
 barolong
 bombax
-boroughship
 barometers
 beefy
 blam
@@ -4978,6 +4977,7 @@ bowlines
 blackfins
 bhowani
 beetiest
+boroughship
 bombernickel
 banqueteer
 bypass
