@@ -2308,6 +2308,7 @@ drabness
 demidolmen
 downwash
 deceptive
+dislimning
 deceptiveness
 dinichthyid
 deafnesses
@@ -11885,7 +11886,6 @@ daydreamed
 devitalised
 defiler
 discruciate
-dislimning
 drupelets
 damascenine
 devonport
