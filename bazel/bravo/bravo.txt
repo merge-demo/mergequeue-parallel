@@ -3040,7 +3040,6 @@ bdellostomatidae
 baruria
 barvel
 baleful
-beduin
 brainwashing
 bimetal
 bedspreads
@@ -11403,6 +11402,7 @@ beaverkill
 bluesmen
 bluestems
 beguiles
+beduin
 bivious
 bolthead
 bluetit
