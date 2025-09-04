@@ -1621,6 +1621,7 @@ deisin
 disfranchising
 difficulty
 daylong
+dicers
 dimetrodon
 deodate
 devertebrated
@@ -2646,7 +2647,6 @@ dishonourer
 dudeens
 deconcentration
 deposals
-dicers
 delightedness
 diastrophism
 didascalar
