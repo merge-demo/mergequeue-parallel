@@ -2331,7 +2331,6 @@ dissociant
 daphnid
 decadally
 devocalising
-dotriacontane
 decerebrating
 daikon
 dechemicalize
@@ -3591,6 +3590,7 @@ discerptive
 douzeper
 disked
 deontological
+dotriacontane
 def
 devices
 deglamorizing
