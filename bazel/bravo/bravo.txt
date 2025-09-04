@@ -2663,6 +2663,7 @@ bututs
 barmaster
 bergalith
 benzoic
+bougies
 blacklister
 barmcloth
 brither
@@ -11096,7 +11097,6 @@ byard
 basophobia
 bache
 bipedism
-bougies
 bellylike
 bazookas
 bums
