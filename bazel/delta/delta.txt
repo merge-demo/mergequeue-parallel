@@ -8312,7 +8312,6 @@ deprive
 diagraphs
 diagredium
 dermatopathia
-diaguitas
 detestableness
 diaclastic
 diadelphia
@@ -14780,6 +14779,7 @@ djuka
 diaskeuast
 degradable
 dk
+diaguitas
 dodecylic
 destroys
 dockland
