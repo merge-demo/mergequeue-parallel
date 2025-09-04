@@ -8280,7 +8280,6 @@ barenecked
 bakepan
 barbarous
 beadlet
-brahmani
 biggy
 biggie
 beribboned
@@ -10035,6 +10034,7 @@ backsey
 bestamp
 bks
 bkt
+brahmani
 beflum
 butterback
 baboosh
