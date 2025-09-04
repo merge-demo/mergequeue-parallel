@@ -761,6 +761,7 @@ bechatter
 boric
 badinages
 beblotch
+bitstock
 bearcoot
 bumboatmen
 badiner
@@ -9833,7 +9834,6 @@ biaxially
 bitser
 birled
 brotherly
-bitstock
 beasties
 besmirches
 bletheration
