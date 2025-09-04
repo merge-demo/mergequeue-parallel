@@ -805,7 +805,6 @@ distention
 demarcates
 decimals
 dangle
-danglers
 descartes
 deniable
 dearths
@@ -4313,6 +4312,7 @@ downgrowth
 dawnstreak
 demasculinise
 divisors
+danglers
 dem
 demitasse
 dovelet

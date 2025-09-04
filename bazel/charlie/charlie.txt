@@ -6330,7 +6330,6 @@ cauterization
 correcter
 conchfish
 cauterizer
-cauterizes
 caution
 cautionary
 couve
@@ -14162,6 +14161,7 @@ cuisinier
 culinary
 circumambulator
 circumanal
+cauterizes
 circumantarctic
 circumarticular
 circumaviate
