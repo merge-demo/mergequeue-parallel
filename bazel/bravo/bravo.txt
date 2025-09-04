@@ -5690,7 +5690,6 @@ believer
 beamful
 basilical
 bureaucratese
-balagan
 birdcage
 bloomery
 brainstem
@@ -12671,6 +12670,7 @@ bolshevism
 blunderheaded
 boohooing
 besilver
+balagan
 bear
 boroughmongering
 benchless
