@@ -2833,7 +2833,6 @@ barracan
 barrack
 borh
 ballers
-barracking
 birders
 blanchi
 biochemistry
@@ -12176,6 +12175,7 @@ brevis
 bacchides
 begaze
 brimstone
+barracking
 blamable
 bollock
 bema
