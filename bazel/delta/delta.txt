@@ -3906,7 +3906,6 @@ doggerelize
 discommunity
 designating
 disherits
-dekameters
 dekapode
 duo
 dermopathic
@@ -5121,6 +5120,7 @@ dionym
 disulphoxide
 detachedly
 dextrously
+dekameters
 dilleniaceae
 deterministic
 downgrading
