@@ -8694,6 +8694,7 @@ chilindre
 crocker
 chapatties
 chapattis
+curtained
 codify
 chapbook
 carbonylating
@@ -15226,7 +15227,6 @@ clairvoyant
 colloidochemical
 chinaberry
 claystone
-curtained
 cynomoriaceous
 claith
 clubmen
