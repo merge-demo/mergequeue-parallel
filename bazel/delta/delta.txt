@@ -6447,6 +6447,7 @@ dislluminate
 dragomanic
 desalinated
 diaereses
+discriminator
 deafeningly
 dodecanoic
 depilate
@@ -11866,7 +11867,6 @@ defervescing
 dimitted
 discriminatively
 despatch
-discriminator
 dirigibility
 diegueno
 disorientation
