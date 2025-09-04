@@ -18847,7 +18847,6 @@ changeling
 constituting
 cytogene
 colicroot
-cranial
 colies
 chapt
 cathecting
@@ -30383,6 +30382,7 @@ crutter
 cowhands
 crabhole
 crux
+cranial
 cruxes
 cognominate
 cruzado
