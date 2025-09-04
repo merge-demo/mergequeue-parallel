@@ -215,7 +215,6 @@ bhadon
 barat
 beamlike
 bargainee
-bacchants
 beguiling
 bloodwood
 bolivian
@@ -775,6 +774,7 @@ bearer
 bat
 barricados
 brushcut
+bacchants
 banket
 badmouthed
 badmouths
