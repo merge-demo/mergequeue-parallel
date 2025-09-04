@@ -3087,6 +3087,7 @@ baculite
 brittany
 baccar
 blabby
+buriels
 baseballer
 betraying
 beaky
@@ -4399,7 +4400,6 @@ beribers
 beclothes
 blushwort
 bike
-buriels
 boomeranged
 bootee
 beclowned
