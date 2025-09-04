@@ -9126,7 +9126,6 @@ alo
 alocasia
 aribine
 alody
-astonied
 alopiidae
 alodialism
 aerophagist
@@ -10465,6 +10464,7 @@ abnegating
 absinthiating
 avidly
 amyelencephalous
+astonied
 adenoidism
 aviator
 automatism

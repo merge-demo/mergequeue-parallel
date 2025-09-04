@@ -4842,7 +4842,6 @@ carageen
 carses
 cogitable
 carsick
-caviteno
 carrottop
 carstone
 cart
@@ -19549,6 +19548,7 @@ colporter
 counteragitation
 canoodled
 colposcopy
+caviteno
 crocodiles
 colstaff
 cnidogenous
