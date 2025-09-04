@@ -2647,7 +2647,6 @@ acroa
 astringent
 any
 ambosexual
-acupuncturation
 acroaesthesia
 archives
 acroamatic
@@ -16441,6 +16440,7 @@ aegagri
 amadis
 aphonia
 aortic
+acupuncturation
 augelite
 agricultural
 averruncate
