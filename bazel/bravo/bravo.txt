@@ -8170,7 +8170,6 @@ bifilarly
 biflabellate
 bullheadedly
 bunkload
-blowtorch
 bewaring
 boring
 biflex
@@ -14971,6 +14970,7 @@ bellicoseness
 butterflyfish
 barelegged
 biosatellite
+blowtorch
 brucella
 berberi
 bankings

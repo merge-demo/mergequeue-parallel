@@ -5873,7 +5873,6 @@ angor
 agilawood
 appomattox
 ambiversive
-animalcular
 arioso
 agility
 auxotrophic
@@ -19552,6 +19551,7 @@ amphidiploidy
 ancraophobia
 agglutinins
 arioian
+animalcular
 alulae
 assailed
 arion
