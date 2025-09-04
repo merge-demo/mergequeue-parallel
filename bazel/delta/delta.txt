@@ -2293,7 +2293,6 @@ daphne
 defensory
 dekaparsec
 decoded
-dermatropic
 dustcloths
 dactylioglyphic
 danglement
@@ -12710,6 +12709,7 @@ disker
 disgusted
 darraign
 definitized
+dermatropic
 dextroses
 didy
 daltonism
