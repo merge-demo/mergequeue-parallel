@@ -13503,7 +13503,6 @@ brothel
 bags
 bourre
 beseek
-boondoggle
 boneyards
 botulisms
 brief
@@ -15459,6 +15458,7 @@ bemuck
 beefin
 balut
 balaghaut
+boondoggle
 byliners
 bestreak
 bromidic
