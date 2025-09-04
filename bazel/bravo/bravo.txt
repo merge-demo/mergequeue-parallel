@@ -7326,7 +7326,6 @@ betire
 brier
 betis
 betises
-byproduct
 botrycymose
 birdbath
 baze
@@ -13740,6 +13739,7 @@ besmirching
 bovinely
 biochemists
 beshrews
+byproduct
 bestrowed
 betitle
 byway
