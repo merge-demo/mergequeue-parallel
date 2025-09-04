@@ -7399,7 +7399,6 @@ ceramium
 ceramographic
 colchian
 canvass
-citified
 chloroformed
 cerasein
 cythera
@@ -24733,6 +24732,7 @@ coproprietor
 ceilinged
 coproprietorship
 coprose
+citified
 coprostanol
 coprostasophobia
 candlewick
