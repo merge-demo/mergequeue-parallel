@@ -14026,7 +14026,6 @@ bemouth
 bracer
 backbenchers
 bracery
-belialist
 belaboured
 barriguda
 braceros
@@ -17302,6 +17301,7 @@ bundler
 bottleneck
 beekmantown
 badged
+belialist
 bundles
 bipaliidae
 benzantialdoxime

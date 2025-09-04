@@ -15740,7 +15740,6 @@ clawker
 clawless
 claws
 crossweed
-cleaded
 corin
 clinkstone
 chandelled
@@ -30388,6 +30387,7 @@ cognominate
 cruzado
 chelicere
 cruzieros
+cleaded
 crwd
 crystallogenic
 culturization
