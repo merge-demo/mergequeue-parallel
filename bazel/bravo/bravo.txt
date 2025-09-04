@@ -2911,6 +2911,7 @@ backbiting
 blanco
 beslab
 bited
+boreiad
 broad
 barrelled
 billfish
@@ -13069,7 +13070,6 @@ boreen
 bologna
 backsetting
 burdash
-boreiad
 balladeer
 bannister
 brawnier
