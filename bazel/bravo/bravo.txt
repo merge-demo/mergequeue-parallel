@@ -1516,6 +1516,7 @@ bespottedness
 beglad
 bemadamed
 ballades
+besonnet
 bacteremia
 bedsick
 balladised
@@ -18148,7 +18149,6 @@ butyryls
 butyrin
 bodo
 byssinosis
-besonnet
 biogenase
 butyrometer
 barometrically
