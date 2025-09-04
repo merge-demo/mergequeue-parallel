@@ -7254,6 +7254,7 @@ crisis
 cepaceous
 congaing
 crossroads
+chemigraphy
 cepes
 civ
 conchitis
@@ -9801,7 +9802,6 @@ computist
 chondrocele
 couldnt
 chemiculture
-chemigraphy
 chemigraphic
 caudotibialis
 chylidrosis
