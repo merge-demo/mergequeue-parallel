@@ -1928,6 +1928,7 @@ conduplicate
 camery
 camerinidae
 camerist
+citrene
 circummigrate
 comp
 crenelates
@@ -9124,7 +9125,6 @@ chartulary
 cartoned
 coalface
 chartularies
-citrene
 chromotypic
 chartulas
 charwoman
