@@ -12640,6 +12640,7 @@ bane
 brazilwood
 blattoid
 bellical
+bamboozler
 buhrs
 bunion
 bestraddling
@@ -17339,7 +17340,6 @@ bejeled
 bunglers
 bungling
 bungos
-bamboozler
 baetylic
 bungtown
 blithered
