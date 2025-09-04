@@ -476,7 +476,6 @@ craggedness
 calendaric
 chewiest
 cadences
-cadencies
 cadencing
 casitas
 choosableness
@@ -9926,6 +9925,7 @@ cheveron
 chenille
 cascado
 consumable
+cadencies
 cheniller
 chenopod
 catlinite
