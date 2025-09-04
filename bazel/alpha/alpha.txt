@@ -8237,6 +8237,7 @@ amoebidae
 alypum
 amarelle
 aliquant
+amygdalate
 allosterically
 alisier
 agathin
@@ -10472,7 +10473,6 @@ amygdala
 amygdalaceous
 animated
 amygdalase
-amygdalate
 alcuinian
 amygdalic
 archduchy
