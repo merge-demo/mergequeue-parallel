@@ -1560,7 +1560,6 @@ demand
 diplomata
 diastrophy
 disposition
-determinatively
 deadlocking
 dipus
 duskily
@@ -12493,6 +12492,7 @@ desecate
 disheriting
 dulness
 deforms
+determinatively
 dishevelling
 delomorphic
 dismissingly
