@@ -11902,7 +11902,6 @@ binitarian
 backboneless
 bisaxillary
 bogatyr
-bogbeans
 bordels
 bogberry
 baluchi
@@ -12690,6 +12689,7 @@ boatkeeper
 billion
 brachydactylic
 bailsmen
+bogbeans
 brahminism
 bookfold
 bacteria
