@@ -3287,6 +3287,7 @@ basipetal
 burdie
 basipodite
 blank
+bipinnaria
 basipterygium
 baratheas
 bolography
@@ -3535,7 +3536,6 @@ bathycolpic
 bathyhyperesthesia
 binode
 bathylithic
-bipinnaria
 bodybuilders
 bathymetrical
 bathing
