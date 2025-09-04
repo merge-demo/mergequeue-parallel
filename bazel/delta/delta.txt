@@ -3881,7 +3881,6 @@ damone
 denouncers
 deityship
 deixis
-decreases
 diduce
 defenseman
 daphnite
@@ -9851,6 +9850,7 @@ deprecation
 decreasingly
 dissyllabized
 demasculinising
+decreases
 disenfranchise
 dills
 delusiveness
