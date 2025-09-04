@@ -6325,7 +6325,6 @@ cauteries
 churnings
 cauterisation
 couche
-cauterise
 collision
 cauterising
 cauterism
@@ -25834,6 +25833,7 @@ cloudier
 chalets
 contralti
 climax
+cauterise
 communing
 cuneoscaphoid
 correction
