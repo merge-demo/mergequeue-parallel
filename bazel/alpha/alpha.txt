@@ -6130,6 +6130,7 @@ acrocyanosis
 antlerless
 aylet
 agraria
+acuchi
 achromatophil
 aerotactic
 antitrinitarian
@@ -14473,7 +14474,6 @@ anthropurgic
 anthroxanic
 arrogative
 affectus
-acuchi
 anththeridia
 achar
 affirmativeness
