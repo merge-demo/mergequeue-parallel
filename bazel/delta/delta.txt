@@ -336,7 +336,6 @@ dollfaced
 deferential
 downcomer
 disinteress
-daybooks
 deckman
 desand
 desquamative
@@ -1032,6 +1031,7 @@ desuete
 dineutron
 dharana
 dozily
+daybooks
 daggly
 dissatisfied
 disseises
