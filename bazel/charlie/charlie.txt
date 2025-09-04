@@ -7389,6 +7389,7 @@ chacun
 caback
 cerambycid
 contchar
+circuiter
 coruscations
 cerambycidae
 ceramicite
@@ -29414,7 +29415,6 @@ cueist
 cerographic
 calcemia
 creatines
-circuiter
 crystallising
 crystallites
 coilyear
