@@ -15212,7 +15212,6 @@ dogmatise
 dressoirs
 doggrelize
 dogmatizer
-dispensator
 discotheques
 darkeners
 dowdiness
@@ -17188,6 +17187,7 @@ debentureholder
 dipodies
 dullish
 dematerialise
+dispensator
 drunkenness
 decuries
 decine
