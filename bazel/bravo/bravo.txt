@@ -926,6 +926,7 @@ bunions
 bookland
 bdellotomy
 bowstaff
+boistously
 ballplayers
 backhoe
 bullock
@@ -12034,7 +12035,6 @@ boisterous
 bundobust
 brangling
 boistous
-boistously
 boistousness
 backplate
 brinkmanship
