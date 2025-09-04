@@ -3729,6 +3729,7 @@ dehonestation
 disoccupied
 dehorn
 didepside
+diagrammer
 dolcan
 desmose
 dreadful
@@ -8291,7 +8292,6 @@ diagonic
 drum
 diagram
 diagrammed
-diagrammer
 drengh
 disrelation
 dependancy
