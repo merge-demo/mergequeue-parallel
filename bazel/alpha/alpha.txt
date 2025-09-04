@@ -2047,7 +2047,6 @@ achilleas
 agglutinations
 arborolatry
 allopatry
-antadiform
 achilleine
 abnormalness
 achilles
@@ -21484,6 +21483,7 @@ aspises
 aloed
 anthesterion
 anisogeny
+antadiform
 aglucone
 ayurvedas
 alkyl
