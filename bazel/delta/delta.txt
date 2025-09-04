@@ -5053,7 +5053,6 @@ delightsome
 dialer
 dendritic
 dendritical
-deal
 derbyshire
 diminishes
 decuria
@@ -6564,6 +6563,7 @@ delimits
 desegmentation
 dynamiters
 detache
+deal
 disordination
 decorums
 deuteroglobulose
