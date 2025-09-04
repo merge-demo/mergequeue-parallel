@@ -6211,6 +6211,7 @@ calcaneum
 cabbaged
 caulomic
 cacodyls
+chemotaxonomic
 caulosarc
 caulotaxis
 caulote
@@ -9882,7 +9883,6 @@ chemotaxy
 charpie
 collocatory
 chemotaxonomy
-chemotaxonomic
 controls
 comma
 carices

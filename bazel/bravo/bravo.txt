@@ -12117,6 +12117,7 @@ boxtops
 bowery
 burthening
 bikukulla
+brig
 beteem
 buddhahood
 burlier
@@ -12220,7 +12221,6 @@ boneset
 benitoite
 borocaine
 bemud
-brig
 bolstered
 bolsterer
 battologised
