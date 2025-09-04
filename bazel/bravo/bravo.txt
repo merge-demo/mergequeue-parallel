@@ -1476,6 +1476,7 @@ brassie
 bowled
 bladderless
 bints
+barvell
 belliferous
 bigwiggedness
 bluestocking
@@ -13090,7 +13091,6 @@ bobbling
 bassarisk
 backfurrow
 baalath
-barvell
 bodyguard
 bacterioscopist
 buckling
