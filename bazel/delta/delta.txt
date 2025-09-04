@@ -10051,6 +10051,7 @@ devitalize
 dogwood
 dottle
 dreaming
+dolerites
 deinos
 dimple
 diplomas
@@ -18407,7 +18408,6 @@ disheveled
 demagogy
 duolog
 declinometer
-dolerites
 duologues
 doubtedly
 disembarkment
