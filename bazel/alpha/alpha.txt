@@ -2613,6 +2613,7 @@ aviations
 appalachian
 agamospore
 acryl
+armored
 acrylate
 alco
 austin
@@ -12798,7 +12799,6 @@ angoras
 angostura
 adosculation
 angouleme
-armored
 adamantness
 appanages
 angraecum
