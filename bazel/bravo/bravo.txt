@@ -5548,6 +5548,7 @@ basilican
 bewreak
 bekiss
 bekissed
+barbaric
 bekisses
 bouleuterion
 befoolment
@@ -7417,7 +7418,6 @@ bettonga
 bitterest
 bettor
 bullfighter
-barbaric
 betulin
 blackmailer
 babushkas
