@@ -1674,6 +1674,7 @@ bogtrot
 ballsier
 boycotter
 ballsiest
+borrowable
 bengali
 ballup
 ballweed
@@ -13167,7 +13168,6 @@ blephariglottis
 bandoliered
 bm
 bonanzas
-borrowable
 barocyclonometer
 borrower
 breakless
