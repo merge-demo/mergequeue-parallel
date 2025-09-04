@@ -1896,7 +1896,6 @@ debride
 debridement
 dodecylene
 dakoits
-deodorant
 dactylosternal
 deciphers
 debriefing
@@ -3112,6 +3111,7 @@ defeasive
 duplicia
 defeated
 directs
+deodorant
 diluviate
 disgout
 desilverized
