@@ -4953,7 +4953,6 @@ cohue
 carunculated
 cullen
 cleverly
-carvacryl
 catchfly
 competer
 crofterization
@@ -25534,6 +25533,7 @@ coroutines
 clericum
 corp
 corpn
+carvacryl
 corpora
 corporacy
 corporalcy
