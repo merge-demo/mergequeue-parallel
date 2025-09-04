@@ -14492,7 +14492,6 @@ diversity
 doubleton
 datedness
 disgeneric
-demeter
 diversory
 disfiguringly
 dromic
@@ -15839,6 +15838,7 @@ drubbly
 delays
 dicyanine
 dogshore
+demeter
 donec
 deperm
 decries
