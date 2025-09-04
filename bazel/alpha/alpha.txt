@@ -6030,7 +6030,6 @@ ababua
 agnosia
 anthraces
 ablactate
-agnostics
 agnostus
 agnotozoic
 agnus
@@ -21754,6 +21753,7 @@ autometamorphosis
 assyriologue
 antitubercular
 astrobiology
+agnostics
 assyroid
 abutted
 amitroles
