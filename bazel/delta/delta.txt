@@ -1904,6 +1904,7 @@ deciphers
 debriefing
 dowser
 danzig
+demicoronal
 dustbins
 dissenterism
 defendant
@@ -5199,7 +5200,6 @@ drumbler
 denizenship
 dellenite
 dimwittedly
-demicoronal
 dsp
 dryopes
 disseminated
