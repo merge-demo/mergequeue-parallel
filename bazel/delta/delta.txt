@@ -184,7 +184,6 @@ drachmai
 dopiest
 damas
 demonstration
-decipherer
 daedaloid
 disaffinity
 diel
@@ -9210,6 +9209,7 @@ diptych
 dialyse
 delobranchiata
 diurnation
+decipherer
 demifarthing
 dyeability
 denazification
