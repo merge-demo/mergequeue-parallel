@@ -2488,7 +2488,6 @@ adjection
 acouometer
 acoup
 acousticon
-aspheterism
 acousticophobia
 autotomous
 acoustoelectric
@@ -23164,6 +23163,7 @@ accordances
 archicerebra
 attributer
 attributions
+aspheterism
 attributively
 attributor
 ammonias
