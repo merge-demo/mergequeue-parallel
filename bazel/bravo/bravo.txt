@@ -14319,6 +14319,7 @@ bounciness
 behedge
 brahmanize
 benched
+bimaculated
 bracers
 brahmapootra
 bulrushes
@@ -15740,7 +15741,6 @@ bihalve
 barebones
 beknived
 bemires
-bimaculated
 bradykinin
 bourguignonne
 biocentric
