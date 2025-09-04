@@ -9209,7 +9209,6 @@ bonavist
 butler
 bantamweights
 blanch
-bursas
 becafico
 bipod
 bipods
@@ -10051,6 +10050,7 @@ behave
 blackamoors
 blackbine
 befrets
+bursas
 bepity
 bowge
 blackballed
