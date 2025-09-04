@@ -606,7 +606,6 @@ cephalalgy
 ctenodipterini
 caeciliidae
 chiropod
-cavum
 caecotomy
 constrictors
 caedmonian
@@ -30937,6 +30936,7 @@ caterpillarlike
 cumaphyte
 cumaphytic
 coagulations
+cavum
 cachou
 craniostosis
 comprizes
