@@ -2969,7 +2969,6 @@ carne
 campesino
 canticles
 conquerableness
-conceptualistically
 cantilating
 cantilene
 cantilever
@@ -19962,6 +19961,7 @@ colan
 changeover
 corolitic
 commandingly
+conceptualistically
 commandingness
 commandite
 cibola
