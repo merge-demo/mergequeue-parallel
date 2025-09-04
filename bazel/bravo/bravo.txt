@@ -6611,7 +6611,6 @@ bergylt
 berglet
 branchipodidae
 baseheartedness
-bergman
 bergs
 beribanded
 birdy
@@ -17044,6 +17043,7 @@ birdcall
 baptornis
 bayard
 battle
+bergman
 billheads
 bromian
 bulletining
