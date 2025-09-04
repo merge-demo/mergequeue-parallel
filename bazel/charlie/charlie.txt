@@ -14309,6 +14309,7 @@ circumradius
 circumradiuses
 claver
 catarrhinian
+coarse
 chanties
 cleanhandedness
 conferring
@@ -28877,7 +28878,6 @@ crib
 coccus
 crybaby
 cooperant
-coarse
 cudwort
 centrolecithal
 conductility
