@@ -5888,7 +5888,6 @@ baryphony
 bruta
 belotte
 broadening
-bechancing
 benzalcyanhydrin
 beden
 backswordmen
@@ -6981,6 +6980,7 @@ besnowing
 besognier
 besoil
 bookcraft
+bechancing
 butterwoman
 bioplasms
 branchiostomidae
