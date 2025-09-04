@@ -5096,6 +5096,7 @@ brainier
 bombable
 bromoaurate
 belching
+brachiate
 borderers
 boussingaultite
 bunrakus
@@ -12179,7 +12180,6 @@ bollock
 bema
 bacteriology
 bastiment
-brachiate
 beginner
 bolloxes
 bolls
