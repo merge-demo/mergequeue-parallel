@@ -14927,7 +14927,6 @@ claxons
 continuedly
 cordites
 chupak
-cordwood
 cytostromatic
 cytotactic
 cardioaccelerator
@@ -25912,6 +25911,7 @@ cortlandtite
 chloridize
 caulotaxy
 corton
+cordwood
 cacoeconomy
 convolute
 colley
