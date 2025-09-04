@@ -2625,7 +2625,6 @@ counterstatement
 canfields
 cantillating
 canfuls
-cangan
 clumsiness
 cangy
 cangia
@@ -7871,6 +7870,7 @@ cetology
 contumacities
 corixidae
 cetomorpha
+cangan
 cumular
 cryptostome
 cetonia
