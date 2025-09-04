@@ -4812,6 +4812,7 @@ diemaker
 dentalizing
 disenslave
 demography
+discontinuor
 denigrations
 dichotomically
 degerminator
@@ -9266,7 +9267,6 @@ dismerit
 demasculinised
 depender
 devolve
-discontinuor
 drosophilidae
 delphacidae
 decreptitude
