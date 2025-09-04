@@ -13728,7 +13728,6 @@ anatomicosurgical
 adagissimo
 anospinal
 arrythmical
-archons
 apollinarianism
 anostraca
 anotherguess
@@ -21158,6 +21157,7 @@ assuredly
 amnionia
 arcuated
 asiden
+archons
 afterstudy
 asiderite
 arrestor
