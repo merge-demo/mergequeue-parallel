@@ -5422,6 +5422,7 @@ denumerantive
 detainees
 disestablished
 denunciant
+diamonded
 docilely
 disinure
 denunciator
@@ -9530,7 +9531,6 @@ digestively
 distaff
 digestiveness
 dipteroi
-diamonded
 doko
 dermad
 domically
