@@ -1572,7 +1572,6 @@ blauboks
 baller
 beclowning
 bagass
-ballet
 balletomane
 bombastry
 bapt
@@ -13982,6 +13981,7 @@ brabanter
 blindfolder
 bloviates
 biophagous
+ballet
 brabble
 bandsawn
 brabblers
