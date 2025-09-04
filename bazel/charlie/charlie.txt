@@ -8154,7 +8154,6 @@ chakdar
 cymbling
 callower
 cli
-chakobu
 chakram
 carpentry
 chaksi
@@ -16207,6 +16206,7 @@ contravenes
 clingy
 circumvolutory
 clinginess
+chakobu
 cuit
 chob
 craniopagus

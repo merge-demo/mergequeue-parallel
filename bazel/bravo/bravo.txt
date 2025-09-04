@@ -1099,7 +1099,6 @@ bainie
 bedizenment
 beakermen
 baioc
-begattal
 braciole
 blanketry
 boresomeness
@@ -10539,6 +10538,7 @@ blatted
 boltheader
 bachelorship
 buduma
+begattal
 buns
 blattid
 bulwand
