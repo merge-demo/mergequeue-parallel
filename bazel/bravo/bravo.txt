@@ -13149,6 +13149,7 @@ borowolframic
 borrachio
 basementless
 borrasca
+bauge
 bisulc
 borreria
 blephariglottis
@@ -15968,7 +15969,6 @@ boniform
 backsplicing
 bromeliaceae
 basnet
-bauge
 blepharospath
 brontology
 bolographic
