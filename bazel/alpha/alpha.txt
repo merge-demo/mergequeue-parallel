@@ -2191,6 +2191,7 @@ acidaspis
 acidemia
 acider
 acidhead
+advisee
 azimech
 acidy
 acetamid
@@ -7877,7 +7878,6 @@ agouties
 almanner
 apodeixis
 arabinose
-advisee
 alexipyretic
 alexis
 alexiterical
