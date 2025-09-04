@@ -12294,7 +12294,6 @@ deltoidal
 durous
 detector
 deluding
-deviators
 dysfunctions
 disfurnish
 disfurnished
@@ -12845,6 +12844,7 @@ desirously
 deforcement
 demode
 debouch
+deviators
 dissensions
 duplicatus
 derepression
