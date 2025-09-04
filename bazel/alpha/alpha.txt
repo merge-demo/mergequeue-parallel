@@ -4142,6 +4142,7 @@ adrenalectomize
 apparent
 aumous
 adrenalin
+androcracy
 aparejo
 adrenalize
 ambitus
@@ -24476,7 +24477,6 @@ armsize
 abhor
 aerophile
 auxiliaries
-androcracy
 auxiliate
 abiosis
 anelastic
