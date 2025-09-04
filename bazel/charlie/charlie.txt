@@ -1182,7 +1182,6 @@ commissarial
 calef
 calefacient
 caudad
-calefactive
 coterell
 crzette
 coattails
@@ -31877,6 +31876,7 @@ chemicals
 cutthroat
 chylopoietic
 cuttyhunk
+calefactive
 capillarily
 cheaper
 chicos
