@@ -12749,6 +12749,7 @@ androgynies
 abscise
 anglice
 anglicisation
+anticatalytic
 apolysin
 anatabine
 annalize
@@ -14655,7 +14656,6 @@ armorially
 anseres
 aguey
 anticatalyst
-anticatalytic
 anticatalytically
 abled
 apodous
