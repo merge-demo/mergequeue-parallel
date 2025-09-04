@@ -18632,7 +18632,6 @@ coindicant
 coiner
 comparograph
 concoction
-coyness
 cooptation
 cerebration
 chiropterous
@@ -23885,6 +23884,7 @@ cauterized
 controversy
 controversialism
 cytotrophoblast
+coyness
 controversionalist
 chirotonsory
 controverted
