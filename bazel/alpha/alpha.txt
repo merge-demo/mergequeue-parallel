@@ -11883,7 +11883,6 @@ asymtotes
 arch
 antisepticizing
 aka
-anarthropod
 agba
 armagnac
 anarthrosis
@@ -16157,6 +16156,7 @@ autodyne
 aeroview
 autocorrelation
 amit
+anarthropod
 actuarian
 anaplasm
 amasser
