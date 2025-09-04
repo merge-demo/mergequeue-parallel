@@ -12299,7 +12299,6 @@ androsporangium
 auriculoventricular
 androsterone
 androtomy
-ands
 angara
 ayens
 anuran
@@ -20457,6 +20456,7 @@ afterswarm
 arthritically
 alphabetising
 abseiling
+ands
 allophytoid
 arthritides
 attritus

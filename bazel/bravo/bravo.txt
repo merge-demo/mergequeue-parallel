@@ -8719,7 +8719,6 @@ bookkeep
 bindingness
 bekissing
 basoche
-bingle
 brewer
 bindweed
 bacillophobia
@@ -18040,6 +18039,7 @@ beefwood
 bullrings
 boast
 bog
+bingle
 bourgs
 bustler
 bustlers
