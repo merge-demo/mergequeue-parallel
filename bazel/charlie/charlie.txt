@@ -5132,7 +5132,6 @@ casings
 consentiently
 casiri
 casita
-casket
 corpl
 conflation
 cellulosed
@@ -12573,6 +12572,7 @@ chronometrically
 chronon
 choppily
 chronons
+casket
 chefrinia
 cognoscent
 chronophotography
