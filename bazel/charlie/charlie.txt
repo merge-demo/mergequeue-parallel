@@ -4496,6 +4496,7 @@ colorcast
 coulter
 carnifex
 carnifexes
+chromogram
 cationic
 carnification
 carnificial
@@ -29633,7 +29634,6 @@ croyden
 croydon
 croiik
 croyl
-chromogram
 certifications
 croisade
 croise
