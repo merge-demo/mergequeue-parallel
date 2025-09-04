@@ -5879,7 +5879,6 @@ deckhouses
 drago
 depreciation
 depreciative
-deglamorized
 deoxygenization
 dryopians
 deforceor
@@ -7208,6 +7207,7 @@ destructionist
 drosometer
 dattos
 disafforest
+deglamorized
 desulfurised
 doomsdays
 dehiscence
