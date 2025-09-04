@@ -1542,6 +1542,7 @@ ballahou
 balete
 bloodmonger
 blackware
+beaver
 ballas
 barbouillage
 baronetised
@@ -12961,7 +12962,6 @@ biplicity
 backcountry
 browntop
 booziness
-beaver
 bookstore
 blockheadishness
 bopeep
