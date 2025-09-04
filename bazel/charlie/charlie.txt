@@ -26951,7 +26951,6 @@ counterphobic
 counterpicture
 combretum
 cuprum
-counterplay
 counterplayer
 copleased
 counterplan
@@ -27868,6 +27867,7 @@ crackliest
 copperplated
 capillation
 clockface
+counterplay
 convergement
 crackmans
 cracknel
