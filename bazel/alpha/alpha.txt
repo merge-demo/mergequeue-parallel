@@ -1104,6 +1104,7 @@ abutilon
 abbassi
 airpark
 aucan
+anteroom
 antieducationalist
 abutment
 articulant
@@ -14113,7 +14114,6 @@ andreaea
 automorphically
 antiwedge
 agiotages
-anteroom
 anterooms
 anteroparietal
 anencephalous
