@@ -1930,6 +1930,7 @@ cidaroida
 camerated
 cameration
 cartage
+cosmoscope
 coimplicate
 conduplicate
 camery
@@ -22247,7 +22248,6 @@ cupride
 compote
 congestedness
 cucujidae
-cosmoscope
 congestible
 congesting
 congestion
