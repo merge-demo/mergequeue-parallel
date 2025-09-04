@@ -15359,7 +15359,6 @@ benetted
 bifurcations
 boxthorns
 battledoring
-brilliancies
 bagged
 brilliandeer
 budgerigars
@@ -17661,6 +17660,7 @@ blackfin
 boomlets
 burleycue
 betokening
+brilliancies
 blisterous
 burlesquer
 boviculture
