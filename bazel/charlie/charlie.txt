@@ -24132,7 +24132,6 @@ convexly
 convexness
 convexo
 convexoconcave
-cretins
 castrensial
 colascione
 cannalling
@@ -25541,6 +25540,7 @@ corporalism
 corporality
 cristivomer
 colugos
+cretins
 corporalities
 cooperative
 corporals
