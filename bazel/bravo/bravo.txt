@@ -9940,7 +9940,6 @@ babyhoods
 binodous
 brinjarries
 brahmic
-barrenness
 bivector
 biventer
 bayonetting
@@ -12379,6 +12378,7 @@ babbie
 brum
 bassariscus
 brownest
+barrenness
 buckram
 bowknot
 befingering
