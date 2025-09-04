@@ -9457,7 +9457,6 @@ brisked
 brayera
 banyuls
 boarfishes
-bacteria
 bullsticker
 besaint
 boehmenism
@@ -12690,6 +12689,7 @@ brachydactylic
 bailsmen
 brahminism
 bookfold
+bacteria
 biometric
 bookhood
 bloodhounds
