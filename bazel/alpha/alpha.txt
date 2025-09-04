@@ -13362,7 +13362,6 @@ annect
 antimusicalness
 annelidous
 aioli
-apparency
 annelism
 annellata
 autostylic
@@ -13503,6 +13502,7 @@ autoaddress
 akaakai
 apostasis
 annulosa
+apparency
 annuls
 addresser
 annumerate
