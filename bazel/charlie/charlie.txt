@@ -6010,7 +6010,6 @@ cheesemongerly
 catonically
 catoptric
 canaan
-clippable
 catoptrically
 curtise
 catoptrite
@@ -13879,6 +13878,7 @@ cinnamons
 cinnolin
 cynocephalic
 chakazi
+clippable
 cheerer
 chalicotherioid
 cynoclept
