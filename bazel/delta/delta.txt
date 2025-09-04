@@ -3312,7 +3312,6 @@ dollin
 dithionate
 daggering
 defiladed
-deflagrator
 deflating
 discommend
 drumslade
@@ -5158,6 +5157,7 @@ drumsler
 denied
 dens
 dramalogue
+deflagrator
 downwith
 denyer
 didromy
