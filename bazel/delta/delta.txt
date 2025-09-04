@@ -10945,6 +10945,7 @@ deployed
 disable
 denazify
 disabled
+devotee
 doorplates
 defrayer
 deterges
@@ -17279,7 +17280,6 @@ drives
 dredgings
 dittoed
 disulfate
-devotee
 decrepitation
 dingoes
 deferrizing

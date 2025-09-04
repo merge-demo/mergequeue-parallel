@@ -4991,7 +4991,6 @@ canaliform
 credensive
 clons
 crowsteps
-cathetus
 cancriform
 chlamydomonadaceae
 casave
@@ -7920,6 +7919,7 @@ cha
 colloquized
 catchweed
 chaa
+cathetus
 cholecalciferol
 chab
 celibate
