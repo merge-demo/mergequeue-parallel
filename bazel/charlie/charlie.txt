@@ -12126,6 +12126,7 @@ clave
 chris
 calibogus
 cylindrically
+cookhouses
 caraunda
 chrysalid
 crossbones
@@ -24319,7 +24320,6 @@ cooker
 cookeries
 cookhouse
 currawang
-cookhouses
 cooky
 cookishly
 colloquia
