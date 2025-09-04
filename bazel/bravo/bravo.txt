@@ -8744,6 +8744,7 @@ bibliothec
 bing
 browed
 beatnikism
+beholder
 binh
 bounden
 bini
@@ -15623,7 +15624,6 @@ blown
 bewildered
 burr
 bedog
-beholder
 braggiest
 bepuzzlement
 broadish
