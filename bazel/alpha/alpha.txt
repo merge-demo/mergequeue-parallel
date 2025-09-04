@@ -913,7 +913,6 @@ azoflavine
 absorbing
 altitudinous
 absorpt
-absorptiometer
 alive
 analcites
 aggregate
@@ -5899,6 +5898,7 @@ alible
 aquilege
 anteversion
 addisonian
+absorptiometer
 agios
 alcornoque
 agiotage
