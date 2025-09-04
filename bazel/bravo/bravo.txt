@@ -9055,7 +9055,6 @@ benzonitrol
 beclout
 birds
 bushwhacking
-bullhoof
 bistournage
 biennia
 buckers
@@ -12822,6 +12821,7 @@ busted
 bodily
 birkies
 baresarks
+bullhoof
 blight
 bedelve
 beware
