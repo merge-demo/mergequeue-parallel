@@ -8970,6 +8970,7 @@ bondieuserie
 baginda
 biomes
 babelike
+boruca
 besmuts
 bion
 byon
@@ -12593,7 +12594,6 @@ bakshaish
 bonspell
 buttresses
 barnacling
-boruca
 bronchocele
 bonteboks
 beatniks
