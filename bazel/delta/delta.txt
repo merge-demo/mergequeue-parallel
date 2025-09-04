@@ -11639,7 +11639,6 @@ drinkless
 duppy
 disconnectedness
 diphead
-disconnecting
 dalmatian
 disconnection
 disconnector
@@ -15442,6 +15441,7 @@ decarboxylate
 devoutlessly
 diffusiveness
 descendability
+disconnecting
 deluder
 domba
 disleal
