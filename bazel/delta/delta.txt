@@ -5580,7 +5580,6 @@ dramatizable
 dukeship
 dowp
 doronicum
-depeopled
 danglin
 deperdit
 duffel
@@ -6987,6 +6986,7 @@ debrided
 diagnosed
 despoilments
 dehumanisation
+depeopled
 dilapidating
 diabolepsy
 dockize
