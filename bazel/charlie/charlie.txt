@@ -15962,7 +15962,6 @@ coinventor
 cyatholith
 carryovers
 clerkdom
-clerkery
 clerkess
 cypraeid
 comprint
@@ -21040,6 +21039,7 @@ crookle
 computations
 coomy
 computatively
+clerkery
 computativeness
 computer
 computerise
