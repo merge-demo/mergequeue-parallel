@@ -2917,6 +2917,7 @@ diegesis
 diplasiasmus
 droil
 deducibility
+downcastness
 deducibly
 deducted
 debunking
@@ -12716,7 +12717,6 @@ disgusted
 darraign
 definitized
 dextroses
-downcastness
 didy
 daltonism
 dyskeratosis
