@@ -13352,6 +13352,7 @@ anne
 alod
 anglicist
 albumin
+aromatise
 anneal
 artlessly
 axiniform
@@ -19978,7 +19979,6 @@ adjourns
 actinosoma
 auriscopically
 aromatics
-aromatise
 adscripted
 aromatitae
 alcoholizing
