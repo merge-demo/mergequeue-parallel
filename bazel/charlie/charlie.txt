@@ -2288,7 +2288,6 @@ corector
 carbostyril
 canaliculus
 clannishly
-canaliferous
 crafted
 conflagrant
 canalise
@@ -7641,6 +7640,7 @@ caramelising
 cermets
 commissar
 cern
+canaliferous
 cavaliership
 cityward
 croquet

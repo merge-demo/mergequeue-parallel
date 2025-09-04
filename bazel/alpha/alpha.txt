@@ -5961,6 +5961,7 @@ antidotary
 alsoon
 aliases
 avianized
+apopetalous
 aglycon
 altair
 aeonian
@@ -6943,7 +6944,6 @@ akkad
 austerer
 acephal
 appense
-apopetalous
 alist
 antler
 agamis
