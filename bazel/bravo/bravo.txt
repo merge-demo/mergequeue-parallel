@@ -6296,7 +6296,6 @@ billbroking
 barrer
 brike
 benzanthracene
-biophysical
 boxboard
 burglarizing
 bestowed
@@ -10902,6 +10901,7 @@ brazer
 biloquist
 bushpig
 biclinia
+biophysical
 bridleless
 barth
 bourrees
