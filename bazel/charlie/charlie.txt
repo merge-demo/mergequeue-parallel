@@ -1464,7 +1464,6 @@ conjuration
 chemurgy
 calligraphers
 calligraphy
-calligraphic
 chiba
 cooeying
 calligraphically
@@ -20223,6 +20222,7 @@ charivan
 commodiously
 commodiousness
 conrad
+calligraphic
 corbeling
 commodity
 commodities
