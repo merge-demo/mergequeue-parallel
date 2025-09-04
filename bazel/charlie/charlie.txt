@@ -24874,7 +24874,6 @@ cuichunchulli
 cerithiidae
 citronalis
 criniferous
-charac
 crenulated
 canonizant
 caoutchouc
@@ -26642,6 +26641,7 @@ catagories
 cheatingly
 counteragency
 counteragitate
+charac
 counteralliance
 counterapse
 counterarch
