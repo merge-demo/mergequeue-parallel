@@ -9413,7 +9413,6 @@ afrikaans
 alternipetalous
 alternity
 antiluetin
-asininely
 absolved
 alterocentric
 atoxic
@@ -11506,6 +11505,7 @@ amanitin
 aiery
 antilytic
 abilities
+asininely
 anachromasis
 acatharsy
 andorra
