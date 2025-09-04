@@ -3658,7 +3658,6 @@ cineastes
 clawlike
 carapine
 canvasback
-cucumaria
 carara
 cheneaux
 carat
@@ -12792,6 +12791,7 @@ chunner
 chuntered
 chrysotherapy
 chupatty
+cucumaria
 crases
 countermanifesto
 chuppah
