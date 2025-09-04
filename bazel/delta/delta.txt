@@ -10380,6 +10380,7 @@ discophore
 dyne
 dioptra
 dioptrate
+divinizes
 demove
 dioptric
 dioptrical
@@ -14596,7 +14597,6 @@ dismiss
 dissimuler
 discoverers
 divinized
-divinizes
 dolomedes
 demarche
 dismembrated
