@@ -3418,7 +3418,6 @@ defoamer
 dryer
 doltishness
 dichlorohydrin
-despotisms
 dishlike
 duodecimally
 dashboards
@@ -9608,6 +9607,7 @@ disenchantment
 diglottist
 duumvir
 disgruntled
+despotisms
 dischargers
 drouket
 dignifiedly
