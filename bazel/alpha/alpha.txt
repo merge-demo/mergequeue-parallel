@@ -6693,6 +6693,7 @@ attention
 asyndesis
 alezan
 astomatous
+antimedievalism
 aphorises
 apanages
 admonitor
@@ -15354,7 +15355,6 @@ antimedical
 antimedicine
 anguiform
 anaptomorphidae
-antimedievalism
 antimelancholic
 antimensia
 anapestic
