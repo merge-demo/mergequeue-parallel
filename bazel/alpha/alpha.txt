@@ -11170,7 +11170,6 @@ acropolises
 aerobacter
 algebar
 amphigory
-amphigories
 async
 appenders
 allthing
@@ -24718,6 +24717,7 @@ aviatrice
 amar
 avicennia
 avicenniaceae
+amphigories
 anthratetrol
 arayne
 avicolous
