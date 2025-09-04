@@ -5236,7 +5236,6 @@ denounce
 disputativeness
 denouncement
 denouncements
-digladiate
 denouncer
 dissymmetry
 dodecane
@@ -9967,6 +9966,7 @@ dispart
 discretely
 dissinew
 doylies
+digladiate
 downcourt
 dodecatoic
 dipneustal
