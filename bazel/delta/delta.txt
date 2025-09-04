@@ -3959,7 +3959,6 @@ desiderated
 depreciant
 delassement
 drugless
-deambulatories
 dustman
 decontaminator
 disquixote
@@ -6147,6 +6146,7 @@ dereferenced
 dereferencing
 deregulated
 discrowning
+deambulatories
 deregulation
 defenestrated
 duckhunting
