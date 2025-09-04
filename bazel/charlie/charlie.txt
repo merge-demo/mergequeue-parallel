@@ -12123,7 +12123,6 @@ crupper
 chresard
 copeognatha
 chresmology
-chrestomathics
 columbiferous
 chrestomathies
 celluliferous
@@ -31250,6 +31249,7 @@ catalexes
 communicability
 crocoites
 canids
+chrestomathics
 chopboat
 communisation
 curate
