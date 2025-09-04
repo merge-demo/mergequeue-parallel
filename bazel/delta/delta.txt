@@ -5396,7 +5396,6 @@ deyhouse
 delicatesse
 denudant
 doradilla
-dendra
 diaphone
 decontrol
 denudating
@@ -8282,6 +8281,7 @@ diagonals
 demoded
 deducting
 diagonalwise
+dendra
 decursion
 dicatalexis
 demonization
