@@ -10562,7 +10562,6 @@ boundingly
 besayle
 blaunner
 blawn
-blaws
 bentonitic
 bailie
 bronchiole
@@ -16449,6 +16448,7 @@ bangtailed
 bestock
 bequeathal
 bishops
+blaws
 budzat
 bandeaux
 belting
