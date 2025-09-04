@@ -7777,7 +7777,6 @@ devising
 diverticle
 direption
 devourer
-detailism
 diglyph
 devisor
 decrier
@@ -8319,6 +8318,7 @@ diaguite
 dyak
 dapper
 decomposed
+detailism
 duskly
 demasted
 dyakish
