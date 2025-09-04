@@ -107,7 +107,6 @@ disloyalties
 dognapped
 dactylomegaly
 dactylopore
-dustyfoot
 dactylopteridae
 disclaimant
 delater
@@ -10900,6 +10899,7 @@ dirged
 dirgelike
 dirgeman
 debts
+dustyfoot
 dieresis
 dirgy
 doggedly
