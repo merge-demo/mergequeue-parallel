@@ -23519,6 +23519,7 @@ context
 contexts
 contextualize
 cosmetical
+chainplate
 crocketing
 cornmonger
 contextually
@@ -24020,7 +24021,6 @@ conventionary
 conventioneers
 countercoup
 conventioner
-chainplate
 conventionize
 copperworks
 conventions
