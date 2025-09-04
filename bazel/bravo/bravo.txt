@@ -2284,7 +2284,6 @@ bauxites
 bestseller
 beanball
 buckland
-backrest
 botryomyces
 budgerygah
 betterness
@@ -7433,6 +7432,7 @@ biomicroscope
 bowne
 besant
 burtree
+backrest
 bully
 buttinskies
 beheadal
