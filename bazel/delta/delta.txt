@@ -14188,7 +14188,6 @@ diapason
 disulfiram
 diswood
 doyst
-digitalized
 disulfonic
 dryopithecinae
 dispread
@@ -14613,6 +14612,7 @@ dialled
 division
 durango
 disqualifiable
+digitalized
 dollop
 depredator
 degomme
