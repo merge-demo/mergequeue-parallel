@@ -10395,6 +10395,7 @@ chiffoniers
 cooncan
 cementing
 cryptometer
+chaya
 chiffonnier
 chiffonnieres
 conchinin
@@ -15542,7 +15543,6 @@ classfellow
 classicalism
 classicalist
 classicality
-chaya
 classicise
 chromophoric
 classicism
