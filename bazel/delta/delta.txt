@@ -8445,7 +8445,6 @@ devesting
 dorsocervically
 dorsiventrally
 dials
-ds
 duopsony
 degreed
 dialuric
@@ -14548,6 +14547,7 @@ decoupling
 deckhouse
 degauss
 diphyzooid
+ds
 devitaminize
 deliveries
 drouk
