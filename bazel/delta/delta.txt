@@ -878,7 +878,6 @@ dieting
 denominationalist
 daguerreotypes
 disincrustant
-decrescendo
 dandling
 deliberative
 deve
@@ -12504,6 +12503,7 @@ dishome
 dishonor
 dishonorer
 disangularize
+decrescendo
 deresinize
 detestability
 discontentful
