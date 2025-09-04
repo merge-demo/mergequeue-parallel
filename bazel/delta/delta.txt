@@ -132,7 +132,6 @@ debilitations
 dyspathetic
 demiurgus
 dalan
-demiglobe
 dingier
 deadcenter
 drumsticks
@@ -17776,6 +17775,7 @@ defector
 dartboard
 duchan
 donnick
+demiglobe
 dissonantly
 dextrorotatory
 diagraph
