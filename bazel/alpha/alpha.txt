@@ -7828,7 +7828,6 @@ amaranths
 altarpiece
 aleukaemic
 argasid
-aleukemic
 account
 auscultations
 aleurobius
@@ -16291,6 +16290,7 @@ ameiurus
 avanti
 antiwear
 abiological
+aleukemic
 apiaceae
 amictus
 ascosporous
