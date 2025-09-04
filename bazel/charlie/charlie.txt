@@ -1390,7 +1390,6 @@ calypters
 calyptoblastea
 compartmentalization
 chapiters
-calyptoblastic
 criticize
 commulative
 calyptorhynchus
@@ -2891,6 +2890,7 @@ cantare
 counterseal
 concaulescence
 chrysoidine
+calyptoblastic
 cantatas
 cantation
 cantatrice
