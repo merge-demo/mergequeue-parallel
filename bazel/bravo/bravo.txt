@@ -564,7 +564,6 @@ bernard
 blit
 backwardness
 bootboy
-bipartible
 blastema
 befriendment
 buccinum
@@ -12058,6 +12057,7 @@ bola
 bosey
 bartsia
 boltless
+bipartible
 balmacaan
 biglenoid
 believers
