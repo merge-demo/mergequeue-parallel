@@ -9964,7 +9964,6 @@ bivoluminous
 bivouaced
 balaphon
 baining
-basely
 bushranger
 bedeviled
 battuto
@@ -12461,6 +12460,7 @@ brawniness
 bondstone
 bowly
 bather
+basely
 bagpiped
 buphthalmos
 bone
