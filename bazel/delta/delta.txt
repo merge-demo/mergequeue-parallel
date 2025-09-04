@@ -4542,6 +4542,7 @@ dunbird
 detroiter
 demigauntlet
 doting
+dicolic
 disclosing
 dendrite
 decern
@@ -6139,7 +6140,6 @@ dereferencing
 deregulated
 discrowning
 deregulation
-dicolic
 defenestrated
 duckhunting
 dichromatism
