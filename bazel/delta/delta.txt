@@ -2005,6 +2005,7 @@ dumbed
 dimorphic
 disunified
 desugars
+dorsiflex
 decaedron
 decaffeinate
 depicted
@@ -9239,7 +9240,6 @@ discography
 diminutively
 devises
 diedric
-dorsiflex
 diego
 dodonian
 dioptograph
