@@ -16726,6 +16726,7 @@ cire
 clothiers
 clothings
 catharpin
+cornrick
 crimpling
 clots
 chaconne
@@ -25401,7 +25402,6 @@ chewet
 curlew
 cornpipe
 cohert
-cornrick
 cornrow
 cornstalks
 cunner
