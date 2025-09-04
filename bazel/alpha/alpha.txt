@@ -11002,7 +11002,6 @@ amouli
 anathematiser
 amovable
 apiarists
-acronarcotic
 amove
 ampangabeite
 archsin
@@ -17818,6 +17817,7 @@ aborting
 apprizer
 apprizes
 apprizing
+acronarcotic
 approach
 aristodemocracy
 anthracotheriidae
