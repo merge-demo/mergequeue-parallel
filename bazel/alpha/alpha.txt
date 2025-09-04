@@ -19805,7 +19805,6 @@ arrogating
 arsenobenzene
 adsessor
 arming
-armings
 avn
 arminianize
 acupuncturists
@@ -25124,6 +25123,7 @@ apron
 ambisyllabic
 axiomatical
 amorosity
+armings
 aspergil
 axiomatization
 aprioristic
