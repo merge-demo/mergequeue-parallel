@@ -1868,7 +1868,6 @@ debonairness
 debones
 defiantness
 dissipativity
-deafening
 dobies
 disablement
 deborah
@@ -2353,6 +2352,7 @@ diplographic
 demibrute
 diluted
 diem
+deafening
 dechristianize
 differentiated
 deciare
