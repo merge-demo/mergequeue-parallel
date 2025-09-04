@@ -8179,7 +8179,6 @@ diacid
 detachment
 damselhood
 duple
-deprecate
 dissolutional
 disload
 drapeability
@@ -15391,6 +15390,7 @@ dolmans
 diluviums
 dolmas
 desubstantiate
+deprecate
 discovery
 dolomite
 derries
