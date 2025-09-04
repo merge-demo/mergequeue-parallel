@@ -7784,7 +7784,6 @@ anarithmia
 alerse
 agglutinates
 alerta
-anorak
 anticrepuscule
 alerters
 autotropically
@@ -18677,6 +18676,7 @@ albania
 archegonial
 amative
 archegosaurus
+anorak
 auletrides
 archelenis
 archelogy
