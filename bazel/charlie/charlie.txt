@@ -4054,7 +4054,6 @@ casuist
 capitate
 chughole
 cardinalis
-closehearted
 cichlids
 caddies
 cardinality
@@ -14966,6 +14965,7 @@ chlorpropamide
 chromoplasm
 counterparallel
 crossjack
+closehearted
 citreous
 citric
 citril
