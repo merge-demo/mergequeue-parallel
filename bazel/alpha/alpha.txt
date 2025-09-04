@@ -3195,7 +3195,6 @@ amalgamators
 adai
 arrestors
 abiogenous
-aerology
 adays
 agrestal
 agnizing
@@ -12194,6 +12193,7 @@ adiadochokinesia
 andhra
 andi
 andine
+aerology
 alternateness
 apophysial
 abruptly
