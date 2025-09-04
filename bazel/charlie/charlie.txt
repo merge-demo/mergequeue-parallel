@@ -2234,7 +2234,6 @@ coalescency
 clinger
 canadine
 corresponds
-canadite
 conferva
 casbah
 celtdom
@@ -4027,6 +4026,7 @@ counterrevolution
 cyanometric
 chattertonian
 cardias
+canadite
 coolerman
 cardiasthenia
 claying
