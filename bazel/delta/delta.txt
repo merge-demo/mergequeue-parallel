@@ -4513,7 +4513,6 @@ dislocatory
 dulnesses
 deception
 diaspora
-divulse
 demicircular
 divulsor
 drowningly
@@ -6690,6 +6689,7 @@ demikindred
 diacoustics
 denitrificant
 deathroot
+divulse
 desiderative
 drunkard
 disorderliness
