@@ -2683,7 +2683,6 @@ cauponize
 carriageable
 cankers
 cultivators
-comedowns
 carbamyl
 coff
 combinatorics
@@ -11833,6 +11832,7 @@ choragion
 choristers
 calashes
 chorai
+comedowns
 cranker
 choral
 choralcelo
