@@ -8850,7 +8850,6 @@ bouchons
 bowser
 bankerdom
 barbarousness
-broomballer
 biocoenotic
 biodegradability
 biodegradable
@@ -14404,6 +14403,7 @@ ballistae
 brow
 brachygraphy
 birdshots
+broomballer
 bowldery
 bewailment
 boggled

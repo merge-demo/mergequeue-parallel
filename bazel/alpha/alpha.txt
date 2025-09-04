@@ -6301,6 +6301,7 @@ aphroditic
 arnold
 acidaemia
 apostrophic
+allosyndetic
 acquitting
 acalycinous
 asterism
@@ -8867,7 +8868,6 @@ autobolide
 ataghan
 amphigonic
 arsnicker
-allosyndetic
 autoregulatory
 acaena
 aureolas
