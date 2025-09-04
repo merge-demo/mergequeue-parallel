@@ -551,7 +551,6 @@ actinulae
 apioidal
 advowry
 ashlers
-abn
 abnaki
 abnegates
 anthropomancy
@@ -21981,6 +21980,7 @@ amyxorrhoea
 arithromania
 ascaron
 adinvention
+abn
 asterolepis
 audiometrist
 asterope

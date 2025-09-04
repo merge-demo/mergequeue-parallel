@@ -935,6 +935,7 @@ cinemactic
 calamarmar
 cilioflagellate
 calamars
+crinoidean
 calambac
 coastmen
 calambour
@@ -29078,7 +29079,6 @@ crinoidea
 cachexy
 casper
 chicagoan
-crinoidean
 cartographic
 crinoids
 cuadrillero
