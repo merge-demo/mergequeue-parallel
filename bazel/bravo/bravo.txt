@@ -2851,7 +2851,6 @@ barrad
 bridebowl
 boskage
 biform
-bashawism
 buddage
 basyl
 bannermen
@@ -6547,6 +6546,7 @@ booted
 bagattino
 berdache
 battuta
+bashawism
 byreman
 booming
 breadnut
