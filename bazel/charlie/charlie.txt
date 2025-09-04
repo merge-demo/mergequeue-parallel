@@ -23364,7 +23364,6 @@ cumulating
 colibert
 cleistothecium
 contagions
-contagiosity
 contagious
 contagiousness
 cannonier
@@ -24574,6 +24573,7 @@ cindie
 copydesk
 copier
 cerebrogalactose
+contagiosity
 criminalese
 coalescence
 coyos
