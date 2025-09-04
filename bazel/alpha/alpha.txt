@@ -4157,7 +4157,6 @@ adrenin
 anthropodeoxycholic
 addu
 adrenochrome
-adrenocortical
 adrenocorticotrophic
 ammonolysis
 anaspida
@@ -10251,6 +10250,7 @@ aproning
 addressability
 amenuse
 anorthoclase
+adrenocortical
 agrostological
 adeling
 archeozoic
