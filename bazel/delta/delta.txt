@@ -1644,6 +1644,7 @@ dishrag
 dealt
 dissects
 deambulate
+depredate
 democratizes
 dozening
 divergency
@@ -14965,7 +14966,6 @@ documentarist
 documentational
 decarbonator
 dictyograptus
-depredate
 documentations
 deoxidator
 documentize
