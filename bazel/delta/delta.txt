@@ -2982,7 +2982,6 @@ demyelination
 dismantling
 deepfreeze
 dilettantish
-deepgoing
 dadenhudd
 dawsoniaceous
 duck
@@ -7455,6 +7454,7 @@ detrimentally
 daroga
 deviate
 dancer
+deepgoing
 disseised
 detrivorous
 dervish
