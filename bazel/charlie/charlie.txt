@@ -6535,7 +6535,6 @@ chemopallidectomies
 cebian
 cecidogenous
 cebid
-coutel
 cebidae
 chlorophyllan
 creat
@@ -6750,6 +6749,7 @@ cowshard
 capless
 celioscope
 cella
+coutel
 cellarage
 chamoix
 cellaress
