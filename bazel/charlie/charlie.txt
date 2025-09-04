@@ -17502,7 +17502,6 @@ cobleskill
 cobloaf
 cobnuts
 cobola
-ceratectomy
 crucifyfying
 coboss
 chitarrone
@@ -20461,6 +20460,7 @@ cubbing
 comminuting
 comparate
 comparatist
+ceratectomy
 crotchets
 comparatival
 comparative
