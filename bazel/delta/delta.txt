@@ -16293,6 +16293,7 @@ dares
 derange
 descants
 defusing
+divinable
 description
 destuff
 dioeciodimorphous
@@ -17713,7 +17714,6 @@ dhauri
 dubb
 declamando
 demidevil
-divinable
 dilemmic
 dynamometer
 dwarves
