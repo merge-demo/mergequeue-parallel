@@ -6586,7 +6586,6 @@ dalf
 decipherable
 digested
 deprecations
-deselected
 dysmerogenesis
 deadborn
 duddie
@@ -7264,6 +7263,7 @@ deter
 deterged
 desertlike
 dashes
+deselected
 dilettantship
 diporpa
 dendrachate
