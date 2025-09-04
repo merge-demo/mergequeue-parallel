@@ -2720,7 +2720,6 @@ beltline
 bullbat
 brigandishly
 barolo
-bm
 bicolored
 benab
 bonneting
@@ -13155,6 +13154,7 @@ bisulc
 borreria
 blephariglottis
 bandoliered
+bm
 bonanzas
 borrowable
 barocyclonometer
