@@ -6239,6 +6239,7 @@ dermatophagus
 dermatotropic
 desiccator
 dizaine
+decagon
 dermatatrophia
 duplicator
 denationalisation
@@ -13552,7 +13553,6 @@ dairymaid
 dippable
 diatomite
 dada
-decagon
 diss
 dissait
 diblastula
