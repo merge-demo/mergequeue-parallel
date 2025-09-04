@@ -8494,6 +8494,7 @@ allatrate
 abaction
 alkoxid
 allectory
+antholysis
 architectonically
 atmophile
 allegata
@@ -11355,7 +11356,6 @@ aneroids
 alterations
 apiphobia
 amsath
-antholysis
 autolysis
 aldosteronism
 atrabilious
