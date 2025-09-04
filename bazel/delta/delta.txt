@@ -3046,6 +3046,7 @@ desole
 daddock
 degradand
 defaces
+devide
 disennoble
 diminutal
 decongestive
@@ -8428,7 +8429,6 @@ dialogged
 doorway
 droplet
 discommodes
-devide
 deconcentrator
 devastate
 diabolizing
