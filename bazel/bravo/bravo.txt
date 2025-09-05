@@ -3704,7 +3704,6 @@ bwana
 batty
 barny
 brookflower
-battier
 brightest
 batting
 blackthorn
@@ -5475,6 +5474,7 @@ bey
 balausta
 bindi
 boxed
+battier
 bardic
 beeswax
 bootyless
