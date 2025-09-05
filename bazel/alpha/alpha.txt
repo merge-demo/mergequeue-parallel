@@ -5150,6 +5150,7 @@ atramentous
 apery
 ampitheater
 attackable
+arteria
 alingual
 antihierarchal
 anapophysial
@@ -7630,7 +7631,6 @@ almadia
 alderamin
 avianize
 asexually
-arteria
 alderman
 alectoromorphous
 aldermanate
