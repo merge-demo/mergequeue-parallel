@@ -18642,6 +18642,7 @@ anschauung
 ann
 arumin
 ancientry
+appulse
 aminosis
 adinidan
 axioms
@@ -23776,7 +23777,6 @@ autecy
 abanga
 amended
 apilary
-appulse
 ashed
 allhallowtide
 amphigouris
