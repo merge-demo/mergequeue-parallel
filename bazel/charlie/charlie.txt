@@ -285,6 +285,7 @@ coreopsis
 cacimbo
 cacimbos
 caciques
+carriageable
 cosmolined
 countenances
 cornflakes
@@ -2674,7 +2675,6 @@ cankery
 cannoneering
 cankerroot
 cauponize
-carriageable
 cankers
 cultivators
 carbamyl
