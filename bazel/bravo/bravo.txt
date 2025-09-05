@@ -1126,6 +1126,7 @@ bypassed
 bransolder
 bromius
 barless
+boon
 baseless
 bloodnoun
 buxine
@@ -11828,7 +11829,6 @@ bodilize
 bahuvrihi
 barbedness
 beento
-boon
 barcan
 bondswomen
 barytocelestine
