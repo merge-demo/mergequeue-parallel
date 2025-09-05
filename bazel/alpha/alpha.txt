@@ -12388,7 +12388,6 @@ anemone
 aerography
 anticreator
 avidities
-albuminiform
 anemony
 ampulating
 asphyxiation
@@ -12517,6 +12516,7 @@ ameliorating
 anfractuose
 antitraditionalist
 authentications
+albuminiform
 addleheadedly
 anfracture
 aperies
