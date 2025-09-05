@@ -10616,7 +10616,6 @@ bernese
 bollies
 bishopscap
 bleaky
-boser
 bleakness
 bleaks
 browd
@@ -12526,6 +12525,7 @@ brails
 boniface
 birding
 bolshevik
+boser
 batsmanship
 bacubert
 bud
