@@ -5366,6 +5366,7 @@ anatine
 aftercrop
 amebicidal
 acanthodian
+altercating
 aftercure
 afterdays
 antifoam
@@ -9374,7 +9375,6 @@ abbot
 alterative
 altercated
 algebraization
-altercating
 alterers
 anglicanum
 acupunctuate
