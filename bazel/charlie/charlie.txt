@@ -11717,6 +11717,7 @@ chondrocranial
 circuitous
 chondrodystrophy
 chondrodystrophia
+colorational
 chromogenetic
 chabuks
 chondroditic
@@ -26294,7 +26295,6 @@ choleromania
 caddices
 costume
 chevrone
-colorational
 chlore
 coccygomorphic
 cystin
