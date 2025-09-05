@@ -4520,7 +4520,6 @@ drinkableness
 distinctions
 destruction
 dragading
-demiculverin
 dodgiest
 degree
 divulsed
@@ -8929,6 +8928,7 @@ diceras
 dmod
 deriving
 deposited
+demiculverin
 downdraught
 dioptidae
 dominancy
