@@ -2174,7 +2174,6 @@ campsheeting
 campsite
 compasser
 chugalugging
-campsites
 ceratophyte
 coordinating
 coronofacial
@@ -20343,6 +20342,7 @@ cubitodigital
 communistery
 chita
 communistic
+campsites
 calyptrimorphous
 communists
 concessiveness
