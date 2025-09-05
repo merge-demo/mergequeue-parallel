@@ -9810,7 +9810,6 @@ areaways
 aquiculturist
 aerogeography
 argean
-antitragi
 arietid
 ambystomidae
 amateurish
@@ -22186,6 +22185,7 @@ argentoproteinum
 aponogetonaceous
 astriferous
 autosoteric
+antitragi
 assorts
 astringed
 apostolici
