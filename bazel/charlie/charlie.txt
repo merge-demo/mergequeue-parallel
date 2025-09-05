@@ -3263,7 +3263,6 @@ caplins
 coherald
 capmaking
 combatter
-capnodium
 capnoides
 clipping
 creaker
@@ -17637,6 +17636,7 @@ chickadees
 cinchonas
 coccothraustes
 coccothraustine
+capnodium
 coccothrinax
 calabozo
 cocculiferous
