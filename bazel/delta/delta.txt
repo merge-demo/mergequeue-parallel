@@ -707,7 +707,6 @@ defailment
 diaplasma
 demoniacs
 dystopia
-debauchment
 desamidase
 dancers
 disleaving
@@ -10663,6 +10662,7 @@ dunnaged
 diplont
 delisting
 diplonts
+debauchment
 defossion
 diplophase
 difficultness
