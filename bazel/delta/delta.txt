@@ -7759,7 +7759,6 @@ disastimeter
 dogmatization
 desulphurized
 dikaryon
-deviser
 devising
 diverticle
 direption
@@ -12206,6 +12205,7 @@ disexercise
 disfaith
 disconsolance
 disfashion
+deviser
 diplosome
 disgruntles
 deaerating
