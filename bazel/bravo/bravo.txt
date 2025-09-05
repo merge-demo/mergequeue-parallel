@@ -9257,7 +9257,6 @@ boles
 bastaard
 bavenite
 blurredness
-bahaullah
 boldest
 bywoner
 bifolia
@@ -14156,6 +14155,7 @@ bolded
 badaud
 bobbiner
 brinier
+bahaullah
 bracking
 blellum
 brackish
