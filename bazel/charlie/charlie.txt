@@ -23823,7 +23823,6 @@ contrasuggestible
 cruiskeen
 catface
 contravalence
-cubitoplantar
 contravene
 contravener
 cardueline
@@ -31828,6 +31827,7 @@ chorea
 cutin
 cutinisation
 cutinise
+cubitoplantar
 coliiformes
 cretic
 cutinised
