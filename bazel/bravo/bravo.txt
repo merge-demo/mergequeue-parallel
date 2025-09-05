@@ -12175,7 +12175,6 @@ brevis
 bacchides
 begaze
 brimstone
-barracking
 blamable
 bollock
 bema
@@ -12741,6 +12740,7 @@ becloaked
 bioelectric
 beshine
 blowcase
+barracking
 bullneck
 biparous
 bimbil
