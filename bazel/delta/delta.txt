@@ -15220,6 +15220,7 @@ distylar
 disheart
 diagrammable
 disfrequent
+decussorium
 dogmatise
 dressoirs
 doggrelize
@@ -18192,7 +18193,6 @@ deltohedra
 dumps
 dumsola
 dowily
-decussorium
 disdiaclastic
 distrust
 dermatoscopy
