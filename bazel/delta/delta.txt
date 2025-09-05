@@ -11896,6 +11896,7 @@ dipchick
 deputized
 dormitary
 discrowns
+doa
 daydreamed
 devitalised
 defiler
@@ -17381,7 +17382,6 @@ deisidaimonia
 drawhead
 disquisition
 desirers
-doa
 drooly
 diencephala
 doorstep
