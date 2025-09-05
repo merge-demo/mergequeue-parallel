@@ -3079,7 +3079,6 @@ bringal
 bernardina
 bombiccite
 basotho
-basaree
 bestness
 bignou
 bealach
@@ -4238,6 +4237,7 @@ bosnian
 beaverskin
 branded
 beckett
+basaree
 bebay
 bogotana
 barretter
