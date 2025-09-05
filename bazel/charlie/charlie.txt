@@ -18219,7 +18219,6 @@ coexpand
 chalcidoidea
 coexpanded
 coexperiencer
-coextend
 catchment
 carline
 coextends
@@ -28385,6 +28384,7 @@ creakiness
 conjugant
 chandrakhi
 creaking
+coextend
 creaks
 creameries
 cloakage
