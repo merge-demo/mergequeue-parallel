@@ -532,7 +532,6 @@ dimities
 dipylon
 dalt
 dawen
-dealerships
 dalton
 dermaskeleton
 dama
@@ -4860,6 +4859,7 @@ divagate
 deaneries
 decondition
 ductile
+dealerships
 declive
 durrie
 dotingly
