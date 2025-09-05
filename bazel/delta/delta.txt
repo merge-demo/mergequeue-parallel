@@ -16277,7 +16277,6 @@ demophon
 doblas
 droseras
 dominic
-drupetum
 draconic
 dialector
 deerskins
@@ -16730,6 +16729,7 @@ drainman
 decortization
 deregulations
 downsman
+drupetum
 daiva
 drogoman
 degums
