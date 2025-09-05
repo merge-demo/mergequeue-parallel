@@ -1209,7 +1209,6 @@ demiassignation
 dragooner
 deleads
 dulcinist
-dropsonde
 dextrines
 dialyzers
 dorical
@@ -6020,6 +6019,7 @@ disjeune
 deadman
 dandered
 depurate
+dropsonde
 disingenuously
 droop
 dulcarnon
