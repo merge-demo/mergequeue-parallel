@@ -10494,7 +10494,6 @@ carwashes
 chiliarchia
 chiliast
 commuting
-chakar
 clerical
 chiliastic
 chiliasts
@@ -14923,6 +14922,7 @@ cytoreticulum
 cytospectrophotometry
 cytospora
 crossbanded
+chakar
 cytost
 cradlelike
 conceit
