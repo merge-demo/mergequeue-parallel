@@ -4848,7 +4848,6 @@ broadsiding
 beechwood
 besprizorni
 bright
-berloque
 bourbons
 belaud
 blackeyes
@@ -17312,6 +17311,7 @@ bescorched
 bounties
 bellicosely
 breviary
+berloque
 beneplacity
 boonk
 bentincks
