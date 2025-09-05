@@ -8412,7 +8412,6 @@ claires
 chamos
 chamosite
 chamotte
-coarbiter
 cynosura
 cauligenous
 champagneless
@@ -14499,6 +14498,7 @@ cyrtopia
 croplands
 cosets
 cirurgian
+coarbiter
 cyrus
 craspedote
 captainess
