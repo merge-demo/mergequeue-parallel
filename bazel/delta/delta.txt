@@ -6489,6 +6489,7 @@ dorsoradial
 disomatous
 descendent
 dolichosoma
+discepting
 diadromous
 dispositionally
 determinate
@@ -12949,7 +12950,6 @@ duskiest
 dhikrs
 det
 deceptible
-discepting
 dissatisfies
 divisionism
 dismountable
