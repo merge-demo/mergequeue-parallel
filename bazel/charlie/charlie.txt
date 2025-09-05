@@ -26705,7 +26705,6 @@ counterbracing
 counterbranch
 curbstones
 counterbrand
-curted
 confutable
 counterbuff
 countercause
@@ -31265,6 +31264,7 @@ curupey
 curativeness
 curatorium
 charkha
+curted
 carabid
 coagula
 curb
