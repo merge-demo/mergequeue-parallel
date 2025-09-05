@@ -12923,7 +12923,6 @@ burins
 blackest
 bossier
 bara
-bouquiniste
 brambled
 bendways
 berliners
@@ -14306,6 +14305,7 @@ brachistocephaly
 bessi
 banners
 bianchite
+bouquiniste
 brushes
 bragly
 beneficiaire
