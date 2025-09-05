@@ -884,7 +884,6 @@ absolutions
 airworthiest
 apostrophi
 adversant
-absolutist
 archecentric
 apocrine
 absolutory
@@ -12541,6 +12540,7 @@ annus
 arcticward
 angel
 angela
+absolutist
 artemis
 artophophoria
 anthodium
