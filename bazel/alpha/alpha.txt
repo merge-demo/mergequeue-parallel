@@ -6442,6 +6442,7 @@ anoraks
 asplanchnic
 aeromechanical
 ayenst
+archaeocyathus
 antibaryon
 alectrionidae
 americanumancestors
@@ -12681,7 +12682,6 @@ angiorrhaphy
 angiorrhea
 amnic
 angiosarcoma
-archaeocyathus
 ascher
 armorwise
 ammocoetid
