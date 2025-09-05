@@ -14916,6 +14916,7 @@ curemaster
 cytoreticulum
 cytospectrophotometry
 cytospora
+crossbanded
 cytost
 cradlelike
 conceit
@@ -31240,7 +31241,6 @@ casaba
 computable
 coenospecific
 curarines
-crossbanded
 curaris
 clitellum
 chattily
