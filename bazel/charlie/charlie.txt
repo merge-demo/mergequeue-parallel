@@ -9928,6 +9928,7 @@ chenopod
 catlinite
 colocasia
 catacombic
+clammy
 criollo
 chiro
 chenopods
@@ -15277,7 +15278,6 @@ calamospermae
 chivalry
 clamjamfery
 clammed
-clammy
 clammiest
 coreciprocal
 clamminess
