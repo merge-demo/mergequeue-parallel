@@ -1271,6 +1271,7 @@ acatamathesia
 artinskian
 acataphasia
 arillated
+anesthetic
 antiaristocrat
 acatastatic
 acate
@@ -3831,7 +3832,6 @@ alytes
 amgarn
 adjutant
 antimonopoly
-anesthetic
 adtevac
 adjutator
 antidotically
