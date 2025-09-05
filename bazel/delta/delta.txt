@@ -10945,7 +10945,6 @@ denazify
 disabled
 devotee
 doorplates
-defrayer
 deterges
 digraphically
 debasers
@@ -11751,6 +11750,7 @@ daubiest
 designates
 dyotheletian
 dele
+defrayer
 decumbently
 discouraged
 displeasureably
