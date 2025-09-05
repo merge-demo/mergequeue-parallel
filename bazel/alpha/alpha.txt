@@ -18668,7 +18668,6 @@ anorak
 auletrides
 archelenis
 archelogy
-archelon
 airdrops
 absinthol
 apotropaism
@@ -21713,6 +21712,7 @@ assign
 absorbedness
 assignability
 astrodynamics
+archelon
 atoningly
 assignably
 assignats
