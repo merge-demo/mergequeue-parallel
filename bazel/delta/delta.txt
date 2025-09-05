@@ -13701,6 +13701,7 @@ disjoins
 doucin
 diplosis
 demivolts
+durity
 degases
 dissymmetric
 degender
@@ -18545,7 +18546,6 @@ differ
 duricrust
 duridine
 desmidiaceae
-durity
 diphthonged
 dekalitre
 diabolo
