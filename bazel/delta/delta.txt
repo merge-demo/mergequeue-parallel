@@ -4047,6 +4047,7 @@ delicatessen
 dynam
 dhava
 dustoor
+disfeature
 dominance
 delice
 dualistic
@@ -13406,7 +13407,6 @@ dishorse
 disputator
 disputeful
 dacrydium
-disfeature
 definitising
 dorsally
 diehard
