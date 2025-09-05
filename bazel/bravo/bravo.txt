@@ -4920,6 +4920,7 @@ bilicyanin
 bonework
 beeped
 burgware
+boresight
 bumblings
 blesse
 barmier
@@ -13073,7 +13074,6 @@ blat
 branders
 bedusk
 belfry
-boresight
 beblubber
 boresome
 buffeting

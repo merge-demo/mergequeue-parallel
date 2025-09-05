@@ -23198,7 +23198,6 @@ castors
 consperg
 cromlechs
 constricted
-cobby
 canalled
 constricting
 constriction
@@ -27250,6 +27249,7 @@ compester
 countryfiedness
 countryfolk
 closewing
+cobby
 countryman
 congeable
 countrymen
