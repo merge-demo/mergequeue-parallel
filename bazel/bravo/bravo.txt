@@ -4061,7 +4061,6 @@ brontosaurs
 bronchomucormycosis
 beriberic
 beaniest
-benchboard
 barmy
 brittlewood
 beaning
@@ -13964,6 +13963,7 @@ barbarical
 borghese
 brooders
 boxtop
+benchboard
 blackback
 benzotoluide
 blastman
