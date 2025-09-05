@@ -3431,7 +3431,6 @@ ceruses
 capsicums
 coumarous
 chylosis
-competencies
 capsizable
 capsizal
 crunt
@@ -13684,6 +13683,7 @@ cinchonin
 cowleech
 convenient
 condylarthra
+competencies
 cinchoninic
 coronation
 cinchonisation
