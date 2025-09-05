@@ -14274,7 +14274,6 @@ champers
 circumnavigates
 corollike
 circumnavigating
-circumnavigation
 chickaree
 circumnavigator
 cyclometrical
@@ -19710,6 +19709,7 @@ camarilla
 cokie
 catogene
 chemisorption
+circumnavigation
 clefts
 chaule
 cayennes
