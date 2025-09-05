@@ -9432,7 +9432,6 @@ alterocentric
 atoxic
 alters
 atamascos
-apophyllite
 altezza
 althaea
 althaein
@@ -19112,6 +19111,7 @@ alkene
 almuerzo
 acidifiable
 assoiling
+apophyllite
 astropectinidae
 ardellae
 abenteric
