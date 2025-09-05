@@ -282,6 +282,7 @@ appunctuation
 abdominogenital
 aurata
 axiomatic
+ankylodontia
 affiant
 abnormals
 abdominoscopy
@@ -13276,7 +13277,6 @@ acidifies
 ankylodactylia
 albescent
 antiinflammatory
-ankylodontia
 adenopharyngeal
 assumption
 ankyloglossia
