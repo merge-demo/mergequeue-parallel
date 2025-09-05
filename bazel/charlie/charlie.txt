@@ -27507,6 +27507,7 @@ covenants
 centauress
 cameroon
 corticium
+cristobalite
 catholici
 covent
 coventrate
@@ -29471,7 +29472,6 @@ cristy
 cristiform
 cristino
 crackerberry
-cristobalite
 cerebrums
 crystoleum
 crystolon
