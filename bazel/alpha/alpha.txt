@@ -4738,6 +4738,7 @@ aerocyst
 armlet
 adoptionism
 allomerous
+antiscii
 aerocraft
 aspheterize
 amas
@@ -14693,7 +14694,6 @@ anticeremoniously
 anticeremoniousness
 antichamber
 avener
-antiscii
 abbreviations
 agaze
 antichance
