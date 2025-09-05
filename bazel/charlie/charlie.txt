@@ -3641,7 +3641,6 @@ coemptive
 chabutra
 cicatrisive
 caranna
-carap
 couloirs
 cuadra
 carapaces
@@ -27372,6 +27371,7 @@ closter
 courtierly
 chuck
 cerotate
+carap
 cabinetmaker
 catastatic
 cauldron
