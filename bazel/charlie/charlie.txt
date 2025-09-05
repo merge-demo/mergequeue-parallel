@@ -9707,7 +9707,6 @@ compositae
 chekan
 croy
 connatal
-cheken
 comediettas
 chekhov
 cheki
@@ -17460,6 +17459,7 @@ crosstrees
 cobbin
 cobbing
 coarser
+cheken
 cumulite
 causeries
 cobbled
