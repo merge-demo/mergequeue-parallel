@@ -4834,7 +4834,6 @@ corallinaceae
 carageen
 carses
 cogitable
-carsick
 carrottop
 carstone
 cart
@@ -6619,6 +6618,7 @@ ceil
 clamoring
 celestine
 ceilers
+carsick
 condole
 ceilidh
 connexivum
