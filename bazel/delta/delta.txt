@@ -5479,7 +5479,6 @@ dsnames
 deadest
 dorsiventrality
 deoxidize
-doryphoros
 deoxygenated
 depaints
 divestitures
@@ -5602,6 +5601,7 @@ depersonalising
 desponded
 depersonalized
 deflated
+doryphoros
 dacelo
 deepwater
 defrauded
