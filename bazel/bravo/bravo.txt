@@ -5700,6 +5700,7 @@ blankite
 budge
 bushongo
 brerd
+burgess
 belight
 booklike
 baaed
@@ -8832,7 +8833,6 @@ berakot
 biocenology
 bulgar
 burgraviate
-burgess
 branchiopodan
 beslow
 bromvogel
