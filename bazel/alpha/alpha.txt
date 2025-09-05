@@ -3104,6 +3104,7 @@ aphis
 acaroid
 anastomotic
 ashlar
+alveole
 anthropophaginian
 alpist
 actuation
@@ -9609,7 +9610,6 @@ auxotrophy
 alveolate
 alveolation
 acescents
-alveole
 alveolectomy
 alveoli
 arrojadite
