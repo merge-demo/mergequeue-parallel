@@ -8261,7 +8261,6 @@ dispopularize
 deserver
 dizzy
 disputableness
-diagonal
 dactylion
 diagonalizable
 diagonalization
@@ -13986,6 +13985,7 @@ dodding
 distinguishment
 deutoplasm
 dysnomy
+diagonal
 diplococci
 dictyoxylon
 depolymerization
