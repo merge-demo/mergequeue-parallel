@@ -1178,7 +1178,6 @@ argenton
 acanthodean
 abbots
 alabastoi
-agalmatolite
 agonothetic
 acanthodei
 associationism
@@ -5153,6 +5152,7 @@ affinely
 alogia
 acromiodeltoid
 affines
+agalmatolite
 anthomedusae
 aspen
 alemanni
