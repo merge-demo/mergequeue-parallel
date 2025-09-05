@@ -1064,6 +1064,7 @@ aquintocubital
 abune
 abura
 ausubo
+annoyancer
 aburban
 amphodelite
 aburton
@@ -2123,7 +2124,6 @@ alleviation
 achrodextrinase
 achroglobin
 apod
-annoyancer
 assessably
 amphioxides
 actinal
