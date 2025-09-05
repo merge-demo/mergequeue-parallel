@@ -25350,6 +25350,7 @@ champs
 cheroots
 cornflag
 countersiege
+compatience
 cornflower
 cornflowers
 corngrower
@@ -29810,7 +29811,6 @@ canadianism
 crossbar
 crossbars
 cerianthid
-compatience
 conflates
 cowslipped
 callow
