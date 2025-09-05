@@ -11871,7 +11871,6 @@ awe
 anaptychus
 anaptyctic
 anaptotic
-anarcestes
 anaesthetized
 allothigenetically
 auberges
@@ -19954,6 +19953,7 @@ aroideous
 alfonsin
 ambulancing
 aroides
+anarcestes
 aroids
 affirmed
 acidulating
