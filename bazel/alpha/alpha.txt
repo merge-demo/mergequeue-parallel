@@ -1778,7 +1778,6 @@ adduct
 acephalus
 azotaemia
 atridean
-americomania
 accorporate
 acequia
 aethered
@@ -9936,6 +9935,7 @@ abounded
 automobility
 acrogamy
 appel
+americomania
 anticipator
 arousing
 abatic
