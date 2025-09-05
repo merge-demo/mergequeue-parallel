@@ -1425,6 +1425,7 @@ bisellium
 balebos
 baled
 baleen
+barrulee
 bobance
 battable
 balefires
@@ -7740,7 +7741,6 @@ birchwood
 biarchy
 brandisite
 biarcuated
-barrulee
 breccia
 bluings
 bezzling
