@@ -14789,6 +14789,7 @@ citizens
 cytoanalyzer
 catharsis
 cis
+cetraria
 copremia
 cytoarchitectural
 cytoblast
@@ -22976,7 +22977,6 @@ consistorian
 consistories
 consertal
 cookdom
-cetraria
 consitutional
 consociational
 corniculum
