@@ -130,7 +130,6 @@ cable
 cablecast
 chronos
 cardiolith
-crudes
 cabled
 cablegram
 cruors
@@ -7167,6 +7166,7 @@ centriole
 chalazogam
 codebreak
 chymous
+crudes
 centripetence
 clarine
 contraband
