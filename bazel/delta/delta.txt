@@ -7919,7 +7919,6 @@ deuniting
 doormaker
 drenching
 daggled
-dewlike
 deeps
 deworming
 deworms
@@ -8905,6 +8904,7 @@ depolariser
 daimio
 domines
 dermatitis
+dewlike
 decaisnea
 dice
 dikamalli
