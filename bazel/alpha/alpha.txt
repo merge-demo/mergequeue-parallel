@@ -10216,7 +10216,6 @@ assess
 amenance
 amydon
 amending
-adornment
 amoebian
 amendment
 amendments
@@ -24376,6 +24375,7 @@ autosoterism
 attitudinal
 architrave
 altheas
+adornment
 autospore
 argenter
 autosporic
