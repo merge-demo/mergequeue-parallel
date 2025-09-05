@@ -3140,7 +3140,6 @@ bleakest
 bonnes
 burghemot
 bubalis
-bronchography
 bleat
 bascunan
 briskly
@@ -8459,6 +8458,7 @@ balks
 biscanism
 bijoux
 bebouldered
+bronchography
 braes
 braillist
 bronchotomist
