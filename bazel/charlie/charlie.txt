@@ -28233,6 +28233,7 @@ champlain
 cratches
 curtnesses
 cratchins
+cabinetmakers
 cubics
 crate
 crateman
@@ -30269,7 +30270,6 @@ cruncher
 crunchers
 chooses
 caplan
-cabinetmakers
 creped
 clucks
 crunchy
