@@ -7407,6 +7407,7 @@ detectability
 detouring
 deactivation
 dermacentor
+dipsie
 dilos
 daric
 delabialized
@@ -10797,7 +10798,6 @@ disarranged
 disinfects
 dhoon
 decessor
-dipsie
 declared
 decarboxylize
 drainspout
