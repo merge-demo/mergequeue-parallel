@@ -10135,6 +10135,7 @@ artiad
 archive
 autophagous
 anthropomorphitic
+altercative
 autogauge
 antinationalism
 agathokakological
@@ -24469,7 +24470,6 @@ autunites
 acroconidium
 auxanometer
 auxeses
-altercative
 auxesis
 auxetic
 aghorapanthi

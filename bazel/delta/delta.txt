@@ -1275,6 +1275,7 @@ diatribe
 disband
 demineralizer
 discina
+dentellated
 dysodyle
 doitrified
 disgracive
@@ -6479,7 +6480,6 @@ descendable
 descendants
 dimensioned
 dipeptid
-dentellated
 disqualification
 directable
 dorsoradial
