@@ -707,7 +707,6 @@ dancalite
 duro
 deadmelt
 defailment
-diaplasma
 demoniacs
 dystopia
 desamidase
@@ -8229,6 +8228,7 @@ digitalization
 disabusing
 decouples
 dyadics
+diaplasma
 diadkokinesia
 diadochi
 ductible
