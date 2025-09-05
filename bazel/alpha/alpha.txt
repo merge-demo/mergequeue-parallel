@@ -4972,6 +4972,7 @@ alpenstock
 aeronomies
 arabesk
 aesculin
+annotators
 aplacophora
 aesir
 almightiness
@@ -13436,7 +13437,6 @@ adrift
 albuminization
 annotator
 auxiliar
-annotators
 androgyneity
 arrendator
 assonant
