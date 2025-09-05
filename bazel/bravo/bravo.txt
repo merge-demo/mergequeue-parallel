@@ -8430,6 +8430,7 @@ bhunder
 biliferous
 babysitter
 byssuses
+booleys
 beshrouded
 bastinadoing
 bonnibel
@@ -12773,7 +12774,6 @@ byronite
 basisidia
 bookworm
 booleans
-booleys
 booly
 backhanding
 betatters
