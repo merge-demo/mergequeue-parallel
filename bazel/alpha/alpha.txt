@@ -1291,7 +1291,6 @@ acaudate
 aluminaphone
 antarchism
 acaudelescent
-arginase
 atomized
 acaulescence
 appair
@@ -17425,6 +17424,7 @@ appanagist
 astrographic
 antixerophthalmic
 aerostatics
+arginase
 abstentious
 appendicocaecostomy
 appar
