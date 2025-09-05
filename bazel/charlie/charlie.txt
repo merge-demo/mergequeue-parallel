@@ -7746,7 +7746,6 @@ chemoautotrophy
 clorinator
 conceived
 cerussite
-centaurid
 cervantic
 chaffiest
 choosing
@@ -28304,6 +28303,7 @@ counterdraft
 cravingness
 cravings
 chlorophoenicite
+centaurid
 comportment
 califate
 counteragent
