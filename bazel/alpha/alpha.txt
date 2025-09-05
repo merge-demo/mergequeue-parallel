@@ -5061,7 +5061,6 @@ acidified
 aeviternal
 anatomicomedical
 alf
-af
 avernal
 afterpart
 afara
@@ -14821,6 +14820,7 @@ anticoagulative
 ampliate
 albinos
 autoelevation
+af
 adessenarian
 acosmistic
 albocinereous
