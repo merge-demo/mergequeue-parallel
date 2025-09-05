@@ -11970,7 +11970,6 @@ bunkhouse
 bundlers
 biogens
 bohora
-benny
 bespangle
 beath
 brucine
@@ -18247,6 +18246,7 @@ befrocked
 bice
 bagworm
 buttermouth
+benny
 bedlamize
 bronzier
 butternuts

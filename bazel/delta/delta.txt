@@ -10896,7 +10896,6 @@ dynameter
 dimerized
 depthen
 dasht
-dirged
 dirgelike
 dirgeman
 debts
@@ -12724,6 +12723,7 @@ diskette
 discernibleness
 diskindness
 diskography
+dirged
 dvandva
 dawing
 divining
