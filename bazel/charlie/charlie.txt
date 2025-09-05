@@ -11672,7 +11672,6 @@ chomps
 contabescent
 complications
 coassistant
-cuffle
 commissionary
 chondral
 chondrarsenite
@@ -19433,6 +19432,7 @@ carpocervical
 colorfastness
 carcerating
 chymifying
+cuffle
 colorful
 colorfulness
 cognisably
