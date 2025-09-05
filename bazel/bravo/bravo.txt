@@ -7927,6 +7927,7 @@ bancal
 bicentricity
 bardier
 bilineate
+bowpots
 bohemianism
 biceps
 bedlight
@@ -14681,7 +14682,6 @@ brattice
 bratticing
 brattie
 betrothal
-bowpots
 brattled
 benumbment
 brattling
