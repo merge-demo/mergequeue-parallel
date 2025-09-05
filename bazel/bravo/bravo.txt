@@ -4017,7 +4017,6 @@ boti
 beamers
 beamfilling
 ballonet
-beeware
 beamhouse
 bibliophobe
 backbreaker
@@ -12751,6 +12750,7 @@ banderilleros
 bookselling
 bescreened
 borg
+beeware
 bothriums
 boloney
 bookshop
