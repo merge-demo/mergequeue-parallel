@@ -6661,6 +6661,7 @@ cordierite
 celebrate
 comiakin
 celebratedly
+clammed
 celebrater
 celebrates
 celebrationis
@@ -15274,7 +15275,6 @@ clamflat
 calamospermae
 chivalry
 clamjamfery
-clammed
 clammiest
 coreciprocal
 clamminess
