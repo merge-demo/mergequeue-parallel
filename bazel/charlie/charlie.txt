@@ -2663,7 +2663,6 @@ chokestrap
 clingfish
 canker
 cankerberry
-cankerbird
 conder
 cankereat
 cankered
@@ -30409,6 +30408,7 @@ csect
 cpu
 cholecystectomies
 csmp
+cankerbird
 crimpled
 csp
 csw
