@@ -17215,7 +17215,6 @@ drylots
 dynamists
 drilvis
 dryness
-dringle
 dam
 decahydrate
 disomaty
@@ -17776,6 +17775,7 @@ deinotherium
 ducaton
 ducats
 decretory
+dringle
 ducdame
 defector
 dartboard
