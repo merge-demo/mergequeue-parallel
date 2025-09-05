@@ -11001,7 +11001,6 @@ chiselled
 chiseller
 chiselly
 chisellike
-chiselling
 coevolvedcoevolves
 chiselmouth
 chisled
@@ -30679,6 +30678,7 @@ cudweed
 cutpurses
 czarian
 cudweeds
+chiselling
 counterexplanation
 couturire
 crenele
