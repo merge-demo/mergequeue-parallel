@@ -6487,7 +6487,6 @@ calliopean
 cylindrosporium
 cardmaker
 cawquaw
-caws
 cholecystorrhaphy
 clannish
 commissaries
@@ -17910,6 +17909,7 @@ codpieces
 childbirth
 codpitchings
 carwitchet
+caws
 cods
 cephalanthus
 codswallop
