@@ -6905,7 +6905,6 @@ akees
 anaphalis
 akehorne
 akela
-alkahestical
 acalephes
 akeley
 airworthier
@@ -12542,6 +12541,7 @@ abulias
 angaries
 aeronomist
 arpeggiation
+alkahestical
 annus
 arcticward
 angel
