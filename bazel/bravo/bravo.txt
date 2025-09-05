@@ -15957,6 +15957,7 @@ bludgeoning
 biflagelate
 bribeless
 bishoprics
+barrowist
 boucan
 bronk
 botched
@@ -16322,7 +16323,6 @@ buchnera
 brunelliaceous
 brachytic
 byland
-barrowist
 battology
 bitters
 bonitos
