@@ -7756,6 +7756,7 @@ deformative
 dipleurule
 devirginate
 deils
+discretionary
 dram
 digger
 dysarthrosis
@@ -13615,7 +13616,6 @@ darlings
 digredient
 depeopling
 disseminative
-discretionary
 dissimulators
 dissension
 dormantly
