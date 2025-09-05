@@ -8890,7 +8890,6 @@ dicaeidae
 dwarfed
 disparaged
 dcbname
-dinergate
 direr
 diapyetic
 dicaryon
@@ -12220,6 +12219,7 @@ dilker
 disproven
 derust
 dodrantal
+dinergate
 dehusk
 doom
 depthometer
