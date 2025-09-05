@@ -4051,7 +4051,6 @@ chughole
 cardinalis
 cichlids
 caddies
-cardinality
 coruscative
 cardiomegalia
 clerihew
@@ -5441,6 +5440,7 @@ cataclysmic
 cataclysmically
 crowboot
 cyanamide
+cardinality
 counterattacks
 calamumi
 clusterberry
