@@ -544,7 +544,6 @@ deliber
 dao
 damagers
 dumber
-damalic
 duodecillionth
 dextrorotation
 dieback
@@ -4903,6 +4902,7 @@ demonomist
 demonopolize
 defervescence
 demonry
+damalic
 dubiosities
 delegated
 dispersive
