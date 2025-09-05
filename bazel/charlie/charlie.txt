@@ -7341,7 +7341,6 @@ cephalomere
 chipling
 cyclostylar
 cephalometric
-clysis
 cephalonasal
 cephalopathy
 cephalopharyngeal
@@ -18544,6 +18543,7 @@ chilinidae
 callouses
 chibinite
 chronosemic
+clysis
 cutler
 cohosted
 cohosts
