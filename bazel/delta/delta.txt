@@ -3272,7 +3272,6 @@ deergrass
 degeneracy
 duplications
 definitions
-definitise
 dormant
 dilatant
 depurge
@@ -6866,6 +6865,7 @@ desolate
 dishcross
 differently
 door
+definitise
 descamisados
 dobroes
 desolated
