@@ -8053,7 +8053,6 @@ algorithmic
 algorithmically
 acnemia
 alguifou
-apprehends
 antependium
 alhambra
 asteria
@@ -22974,6 +22973,7 @@ atrabiliarious
 autodiagnosis
 applegrower
 arlene
+apprehends
 ankle
 attatches
 atte
