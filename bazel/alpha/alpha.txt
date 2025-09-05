@@ -9837,6 +9837,7 @@ abstriction
 autotrophy
 amazeful
 anatomicopathological
+anatomise
 amazer
 accented
 antihelixes
@@ -11993,7 +11994,6 @@ ammonifier
 arterioverter
 acedia
 arteriofibrosis
-anatomise
 anatomiser
 anatomization
 anatomize
