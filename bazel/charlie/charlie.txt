@@ -5687,7 +5687,6 @@ catechists
 catechization
 catechizer
 choco
-calamondin
 cojoin
 catechizes
 cheveys
@@ -15346,6 +15345,7 @@ cougars
 critter
 calluses
 clanjamfrey
+calamondin
 chalcotript
 clanjamphrey
 clank
