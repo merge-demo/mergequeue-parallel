@@ -9721,7 +9721,6 @@ dieter
 dispersedelement
 disturnpike
 desulphurization
-dikaryophasic
 dikaryophytic
 disfiguration
 dikdik
@@ -11971,6 +11970,7 @@ decollimate
 disequilibration
 disease
 dentalisation
+dikaryophasic
 defectively
 deductile
 diseased
