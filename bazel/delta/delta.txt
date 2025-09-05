@@ -6250,7 +6250,6 @@ duchesnea
 dissipators
 deutobromide
 dividable
-defenser
 dermatomere
 despectant
 dermatomyces
@@ -9960,6 +9959,7 @@ dimetry
 densimetry
 downwardness
 dysthymia
+defenser
 dimidiate
 dispart
 discretely
