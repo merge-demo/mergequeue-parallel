@@ -983,7 +983,6 @@ abtruse
 aquitanian
 affluxes
 acalephae
-abstractions
 abstractitious
 athenianly
 antimethodic
@@ -2268,6 +2267,7 @@ altometer
 acanthopod
 amourist
 acyetic
+abstractions
 aciform
 abet
 aftercare
