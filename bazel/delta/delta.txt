@@ -327,7 +327,6 @@ dum
 dayanim
 directories
 daybed
-devchar
 disembowelment
 dissuasiveness
 dollfaced
@@ -6805,6 +6804,7 @@ deterrer
 dreadfuls
 decayed
 deceptivity
+devchar
 debone
 desmidiology
 dandyishy
