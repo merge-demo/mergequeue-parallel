@@ -1720,7 +1720,6 @@ calutrons
 calvados
 calvadoses
 componental
-calvaire
 cordage
 calvary
 caffeate
@@ -22188,6 +22187,7 @@ chaptered
 confusion
 confusions
 consummations
+calvaire
 confusticate
 confustication
 confutability
