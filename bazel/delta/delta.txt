@@ -4522,6 +4522,7 @@ divulsed
 damsels
 demidistance
 diaphane
+demifarthing
 diabetogenic
 deputies
 discircumspection
@@ -9218,7 +9219,6 @@ dialyse
 delobranchiata
 diurnation
 decipherer
-demifarthing
 dyeability
 denazification
 demilance

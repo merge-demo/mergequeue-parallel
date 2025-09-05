@@ -6084,6 +6084,7 @@ bullwhips
 braza
 beamier
 bittering
+bowgrace
 bibliographical
 bendees
 buyout
@@ -13035,7 +13036,6 @@ bagpipe
 beriber
 boulderhead
 borderline
-bowgrace
 balneae
 bedrop
 braggartry
