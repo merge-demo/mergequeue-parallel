@@ -10862,7 +10862,6 @@ diseur
 directionalize
 directionally
 dottiness
-deckles
 dhan
 directly
 diphthongised
@@ -13946,6 +13945,7 @@ druthers
 distichal
 demisable
 deaf
+deckles
 distichlis
 dephased
 distichous
