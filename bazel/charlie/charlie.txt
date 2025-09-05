@@ -7721,6 +7721,7 @@ canewares
 certosino
 cerulean
 cheirotherium
+cop
 ceruleans
 cerulein
 cache
@@ -24464,7 +24465,6 @@ copps
 coelogyne
 cooties
 chlorosis
-cop
 copable
 carrs
 claquer
