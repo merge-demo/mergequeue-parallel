@@ -3927,7 +3927,6 @@ carcharias
 cerotene
 carchariid
 clerisy
-carchariidae
 carcharioid
 congredient
 carcharodont
@@ -25812,6 +25811,7 @@ cattily
 contretemps
 corruptive
 corruptively
+carchariidae
 coprinae
 corruptly
 corruptor
