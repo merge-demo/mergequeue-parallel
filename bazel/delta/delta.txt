@@ -4658,7 +4658,6 @@ demised
 depas
 diploglossate
 demisemiquaver
-delineable
 demisemitone
 dislodging
 decem
@@ -9752,6 +9751,7 @@ diplopy
 denazifying
 duffles
 depositee
+delineable
 decenary
 dilatatory
 dehydromucic
