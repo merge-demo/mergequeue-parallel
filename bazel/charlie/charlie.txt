@@ -4088,7 +4088,6 @@ calandrinia
 cumflutter
 cortaro
 cardiologic
-cariogenic
 cardiologists
 cardiomegaly
 cyclus
@@ -16900,6 +16899,7 @@ concussional
 connectional
 clucking
 clue
+cariogenic
 clued
 clueing
 clueless

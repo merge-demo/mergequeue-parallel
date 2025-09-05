@@ -9924,7 +9924,6 @@ ambidextrously
 autarkikal
 asyllabical
 arbutes
-ambiens
 anomy
 aulostomid
 ambients
@@ -17326,6 +17325,7 @@ anthraconecrosis
 apothecarcaries
 assemblee
 astrean
+ambiens
 archpatron
 aestivated
 acceptably
