@@ -9831,6 +9831,7 @@ arcing
 artificious
 avoue
 abandonee
+andoke
 abu
 amaurosis
 amaze
@@ -23767,7 +23768,6 @@ antipapalist
 autarkies
 allosaurus
 anisostichus
-andoke
 autarkist
 aute
 autechoscope
