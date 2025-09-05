@@ -3704,7 +3704,6 @@ carpodetus
 carbamine
 cowquake
 circum
-carbanilid
 cantatrices
 convenership
 crocine
@@ -31252,6 +31251,7 @@ chopboat
 communisation
 curate
 chefs
+carbanilid
 cerement
 curates
 curatess
