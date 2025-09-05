@@ -930,6 +930,7 @@ bowstaff
 boistously
 ballplayers
 backhoe
+banderole
 bullock
 bandyball
 bardiglio
@@ -2805,7 +2806,6 @@ buffaloback
 biquadrate
 baroswitch
 barotaxy
-banderole
 bld
 baroquely
 bedabble
