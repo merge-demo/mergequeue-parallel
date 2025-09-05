@@ -2636,7 +2636,6 @@ bescorch
 batrachite
 beeth
 bedtimes
-barlafumble
 blurred
 basilinna
 buckstall
@@ -11808,6 +11807,7 @@ bodhisattwa
 bikes
 bodybending
 bailees
+barlafumble
 bodybuilder
 bard
 briareus
