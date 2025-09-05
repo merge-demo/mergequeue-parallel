@@ -7050,6 +7050,7 @@ connotational
 centesm
 corticifugal
 centetid
+checkpoints
 coryphaenid
 centiares
 copita
@@ -9493,7 +9494,6 @@ checkpointed
 checkpointing
 chahars
 combmaking
-checkpoints
 con
 commonize
 casehardens
