@@ -15410,7 +15410,6 @@ desubstantiate
 deprecate
 discovery
 derries
-dose
 dolomitic
 descriptives
 dorididae
@@ -16908,6 +16907,7 @@ deprecatingly
 drillbit
 darbukka
 dilettante
+dose
 drawloom
 dungari
 dinoflagellida

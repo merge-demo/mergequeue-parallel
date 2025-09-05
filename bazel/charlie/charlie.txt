@@ -17084,6 +17084,7 @@ comptometer
 cater
 crappy
 censorial
+crippler
 coachsmith
 caponisation
 coachsmithing
@@ -29170,7 +29171,6 @@ cripple
 cogboat
 characid
 crippleness
-crippler
 cripples
 creaser
 capillarity
