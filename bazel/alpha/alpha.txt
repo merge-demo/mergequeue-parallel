@@ -8126,7 +8126,6 @@ aposporous
 anonad
 acquaintedness
 alienability
-alienabilities
 acceleratory
 atwo
 ancylodactyla
@@ -13613,6 +13612,7 @@ auriculariaceae
 anomalotrophy
 anomalousness
 antilles
+alienabilities
 aequorin
 anomaluridae
 archmonarchy
