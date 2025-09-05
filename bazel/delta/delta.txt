@@ -5724,6 +5724,7 @@ decastich
 drepanid
 demit
 deplorabilia
+dixain
 dextrane
 deplorability
 diachyma
@@ -14723,7 +14724,6 @@ diocese
 depressing
 deadeyes
 diallel
-dixain
 decentre
 dizain
 decameter
