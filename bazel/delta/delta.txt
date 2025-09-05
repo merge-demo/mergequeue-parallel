@@ -5365,6 +5365,7 @@ drumbeating
 deceptory
 dribbler
 decorative
+deambulatories
 dentistry
 dentists
 dentition
@@ -6143,7 +6144,6 @@ dereferenced
 dereferencing
 deregulated
 discrowning
-deambulatories
 deregulation
 defenestrated
 duckhunting
