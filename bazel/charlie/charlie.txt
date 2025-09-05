@@ -1095,7 +1095,6 @@ calciphyre
 calciphobous
 calciprivic
 cardiant
-caveatee
 calcispongiae
 chromatosphere
 calcite
@@ -19723,6 +19722,7 @@ countercharged
 comatoseness
 comatosity
 carpitis
+caveatee
 comatula
 combaron
 caraganas
