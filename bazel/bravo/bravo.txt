@@ -11769,7 +11769,6 @@ boccie
 backstring
 baron
 bluefish
-besets
 bocconia
 byrl
 behavioristic
@@ -12578,6 +12577,7 @@ brigantine
 blackballer
 bloodroots
 baresthesia
+besets
 bluebottle
 billposting
 bakshaish
