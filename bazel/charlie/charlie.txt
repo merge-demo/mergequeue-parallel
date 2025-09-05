@@ -3707,7 +3707,6 @@ crocine
 cyclammonium
 captress
 ciconia
-carbasus
 carbazic
 carbazylic
 chlorpikrin
@@ -17806,6 +17805,7 @@ chirpingly
 codebtors
 cognominally
 catchier
+carbasus
 carrotiness
 codec
 conjunctivitis
