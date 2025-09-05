@@ -5409,6 +5409,7 @@ douched
 dialysation
 dissonant
 denaturiser
+drongos
 dustheaps
 denumerably
 denumerantive
@@ -16643,7 +16644,6 @@ dragman
 dragoman
 dissimilarities
 diatonically
-drongos
 disharmonic
 decompile
 disclaims
