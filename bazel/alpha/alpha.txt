@@ -133,7 +133,6 @@ abatised
 amine
 antiatoms
 alcades
-arecaidine
 animalivora
 abaton
 asperggilli
@@ -13261,6 +13260,7 @@ anywise
 anywither
 androgenic
 adscripts
+arecaidine
 amucks
 anker
 ankerites
