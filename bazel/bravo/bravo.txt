@@ -8169,7 +8169,6 @@ biflabellate
 bullheadedly
 bunkload
 bewaring
-boring
 biflex
 benchfellow
 beshiver
@@ -17457,6 +17456,7 @@ backstopping
 battlefields
 burbly
 bonnie
+boring
 bantling
 bacitracin
 barbers
