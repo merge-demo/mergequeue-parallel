@@ -1678,7 +1678,6 @@ amerikani
 accursedness
 astrals
 adorableness
-adjuring
 accurst
 azoxine
 actinotherapy
@@ -15925,6 +15924,7 @@ attackingly
 ambaree
 actinomorphous
 antirealism
+adjuring
 antirealist
 askoye
 arbitrageur
