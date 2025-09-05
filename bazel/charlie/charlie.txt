@@ -5952,6 +5952,7 @@ catholyte
 cathouse
 consommes
 carryable
+craws
 chandeliers
 cathouses
 crownling
@@ -28338,7 +28339,6 @@ cephaloplegic
 crawm
 cardioids
 cartridge
-craws
 conversations
 craze
 crazed
