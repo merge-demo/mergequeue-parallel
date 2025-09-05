@@ -5612,7 +5612,6 @@ dozy
 desaturation
 daying
 demographical
-depetalize
 disorganiser
 disprivilege
 depravingly
@@ -13393,6 +13392,7 @@ dotters
 decident
 diactinal
 diplopiaphobia
+depetalize
 disputacity
 disfen
 delayers
