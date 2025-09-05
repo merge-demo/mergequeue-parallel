@@ -2910,7 +2910,6 @@ deducibility
 downcastness
 disimprison
 deducibly
-deducted
 debunking
 deductible
 delinquent
@@ -14386,6 +14385,7 @@ deform
 directorially
 damaskeening
 ditto
+deducted
 disperato
 delimitizing
 dyad
