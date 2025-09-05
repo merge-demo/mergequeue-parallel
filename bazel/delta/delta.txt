@@ -1130,7 +1130,6 @@ dullify
 duchesses
 downpour
 dashmaker
-depotentiate
 defilers
 dunziekte
 desertic
@@ -6161,6 +6160,7 @@ droshkies
 dolours
 derelinquish
 decrepitness
+depotentiate
 dismasting
 derencephalus
 doubtless
