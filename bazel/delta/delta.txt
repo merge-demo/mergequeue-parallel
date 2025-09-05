@@ -11146,7 +11146,6 @@ disappreciate
 detergents
 debrief
 disappreciation
-deciatine
 drakonite
 derringer
 duckwife
@@ -17419,6 +17418,7 @@ derivability
 deinodontidae
 delime
 dillydallies
+deciatine
 dusts
 diduced
 declined
