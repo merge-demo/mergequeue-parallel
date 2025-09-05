@@ -8496,7 +8496,6 @@ advisatory
 aminoquin
 allantoid
 admonishment
-anglophobist
 aquameter
 allantoidean
 allantoides
@@ -11067,6 +11066,7 @@ arms
 amphetamine
 aortectasia
 adjutancies
+anglophobist
 antirationality
 araeometer
 anthroxan
