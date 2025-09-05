@@ -137,7 +137,6 @@ cruors
 cistaceae
 cytostomal
 cablelaid
-cableless
 cogent
 cerberic
 colophany
@@ -18227,6 +18226,7 @@ coexpand
 chalcidoidea
 coexpanded
 coexperiencer
+cableless
 catchment
 carline
 coextends
