@@ -21290,6 +21290,7 @@ cogitated
 couponed
 conchae
 conchal
+chelidon
 conchate
 chemigrapher
 cunonia
@@ -24548,7 +24549,6 @@ copers
 chymotrypsin
 cutches
 coperta
-chelidon
 cantate
 cophosis
 copia
