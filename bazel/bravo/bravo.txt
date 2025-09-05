@@ -6085,7 +6085,6 @@ bendees
 buyout
 biobibliographies
 bisson
-behusband
 bendies
 bends
 bendwise
@@ -10726,6 +10725,7 @@ blesmol
 brickwise
 bairnie
 blandishes
+behusband
 bebatter
 braeside
 brags
