@@ -10206,6 +10206,7 @@ defogging
 downy
 dasypaedes
 doater
+disgorged
 dinged
 daddle
 demihigh
@@ -12333,7 +12334,6 @@ dataflow
 dispatriated
 discrepancy
 dissevering
-disgorged
 daviesia
 divagatory
 disendowed
