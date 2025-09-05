@@ -12907,6 +12907,7 @@ annihilable
 antship
 anharmonic
 achloropsia
+amusively
 arrowy
 anhedral
 anhedron
@@ -24483,7 +24484,6 @@ auxiliaries
 auxiliate
 abiosis
 anelastic
-amusively
 auxiliator
 auxilytic
 alebush
