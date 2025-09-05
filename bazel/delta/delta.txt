@@ -13917,6 +13917,7 @@ distenant
 dorsicornu
 daisies
 dolichocephali
+deles
 descenders
 distending
 dermatopathophobia
@@ -13955,7 +13956,6 @@ doggiest
 dedicatorily
 diervilla
 dokhma
-deles
 dinnerless
 distillator
 distillatory
