@@ -2088,6 +2088,7 @@ daunts
 dissembles
 doab
 diagnostics
+dolomite
 despoilment
 dissyllabize
 digraph
@@ -15399,7 +15400,6 @@ dolmas
 desubstantiate
 deprecate
 discovery
-dolomite
 derries
 dose
 dolomitic
