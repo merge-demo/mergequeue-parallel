@@ -7642,7 +7642,6 @@ aldermanlike
 antiparliamentarian
 aplustria
 antiseptical
-aldermanship
 aldermen
 attendances
 almehs
@@ -22926,6 +22925,7 @@ appetencies
 attackers
 attacking
 antedated
+aldermanship
 archispore
 attacus
 attagen
