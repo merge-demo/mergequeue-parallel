@@ -4464,7 +4464,6 @@ advocacy
 abrasive
 anahao
 alchemist
-advocate
 afficionado
 advocated
 advocates
@@ -6533,6 +6532,7 @@ acarol
 autosign
 ailsyte
 anthropotoxin
+advocate
 acoasma
 ambar
 asteam
