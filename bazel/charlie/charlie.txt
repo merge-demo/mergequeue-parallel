@@ -11770,7 +11770,6 @@ contemperate
 chondrosternal
 corky
 collyba
-chondrotomy
 chonk
 collaborate
 calfhood
@@ -20364,6 +20363,7 @@ couseranite
 chakra
 communize
 catholicoses
+chondrotomy
 communized
 commutability
 contravariant
