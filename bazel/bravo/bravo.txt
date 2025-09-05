@@ -3599,7 +3599,6 @@ brach
 brittles
 bulldogger
 bookmark
-bathrooms
 bazigar
 babas
 ballyragged
@@ -16793,6 +16792,7 @@ bufflehead
 breekums
 balafo
 buffont
+bathrooms
 bloodleaf
 buffoon
 buffooneries

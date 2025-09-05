@@ -5637,6 +5637,7 @@ agapeti
 agapetid
 aciculate
 akamnik
+auriscopy
 atoning
 autocoder
 aphodian
@@ -23615,7 +23616,6 @@ auris
 auriscalp
 anaspadias
 auriscope
-auriscopy
 auriscopic
 aurist
 aurists
