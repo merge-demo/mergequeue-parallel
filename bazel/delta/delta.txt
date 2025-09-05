@@ -7337,6 +7337,7 @@ disaggregated
 diapausing
 determinately
 dirtiness
+deticked
 drownding
 degas
 drippage
@@ -8969,7 +8970,6 @@ dichloroacetic
 dichlorodifluoromethane
 densher
 domiciling
-deticked
 discitis
 dumpishness
 deboshment
