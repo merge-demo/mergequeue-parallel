@@ -10495,6 +10495,7 @@ amygdalic
 archduchy
 aequian
 amphispermous
+allemands
 amygdalin
 antepenuit
 antiderivative
@@ -23942,7 +23943,6 @@ addlins
 accerse
 aube
 autoclave
-allemands
 autoclaving
 aspheric
 autocollimate
