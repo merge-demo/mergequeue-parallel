@@ -4472,7 +4472,6 @@ benzomorpholine
 buhrstone
 borocalcite
 brutifies
-becrust
 bhakti
 becudgeling
 bryony
@@ -7476,6 +7475,7 @@ businessman
 bevil
 bevillain
 befell
+becrust
 bigeye
 bashaws
 bedote
