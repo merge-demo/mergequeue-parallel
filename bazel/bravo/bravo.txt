@@ -2913,6 +2913,7 @@ bunnell
 baguettes
 blind
 bucketed
+bowellike
 benefactor
 bushers
 barreling
@@ -7066,7 +7067,6 @@ bespelled
 bespend
 bespew
 biparietal
-bowellike
 boucherism
 batan
 bonking
