@@ -5036,7 +5036,6 @@ bewith
 befeather
 bodger
 buttermonger
-biloculine
 beferned
 buirdly
 bandoline
@@ -8660,6 +8659,7 @@ besmut
 beseeching
 bogwood
 befortune
+biloculine
 bulldoggish
 bullethead
 betoss
