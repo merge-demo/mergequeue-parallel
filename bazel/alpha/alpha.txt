@@ -8823,7 +8823,6 @@ allomorphism
 anisidin
 allomorphite
 allonym
-allonymous
 allonymously
 allonyms
 allonomous
@@ -16058,6 +16057,7 @@ antisilverite
 antisymmetry
 aethalioid
 africanization
+allonymous
 allusion
 acetonemic
 agarum
