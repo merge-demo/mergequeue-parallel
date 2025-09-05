@@ -10341,7 +10341,6 @@ bummest
 bepainting
 bowpin
 blanc
-beneath
 bombardments
 bergomask
 bumbler
@@ -18348,6 +18347,7 @@ buttwoman
 butterscotch
 bogberries
 buxaceous
+beneath
 buxbaumiaceae
 burhel
 brushbush
