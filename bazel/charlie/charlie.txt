@@ -5457,7 +5457,6 @@ catadioptrics
 catadrome
 catadupe
 catafalco
-catafalques
 civilisation
 catagenetic
 catakinetic
@@ -17099,6 +17098,7 @@ cumacea
 confederationism
 centrodesmose
 crambambulee
+catafalques
 coevolving
 codetermination
 coachwise
