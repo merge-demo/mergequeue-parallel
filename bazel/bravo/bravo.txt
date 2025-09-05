@@ -4046,6 +4046,7 @@ bean
 brickred
 blockheadish
 begottenness
+bawdy
 bribing
 bedeafen
 brooked
@@ -9927,7 +9928,6 @@ blattidae
 brevirostral
 brimfullness
 bivalency
-bawdy
 blairmorite
 bivalents
 biognosis
