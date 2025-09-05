@@ -9382,7 +9382,6 @@ duct
 differentials
 dismembering
 depickle
-daggy
 differentiate
 dioscoreaceous
 differentiator
@@ -12107,6 +12106,7 @@ disensanity
 dunderheaded
 discous
 discontinuity
+daggy
 doorlike
 drumble
 ditheist
