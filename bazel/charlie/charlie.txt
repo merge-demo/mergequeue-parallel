@@ -5725,7 +5725,6 @@ currish
 categorise
 categorised
 cobwork
-chansonnier
 cultivated
 cochlearia
 chemicopharmaceutical
@@ -9224,6 +9223,7 @@ chattelhood
 cacks
 constructiveness
 chattelizing
+chansonnier
 calamities
 chatter
 cheimaphobia
