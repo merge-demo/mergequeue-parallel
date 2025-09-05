@@ -2858,7 +2858,6 @@ disgavel
 decurvature
 decus
 decarbonizing
-decuss
 deterration
 dispensing
 decussate
@@ -11919,6 +11918,7 @@ discurtain
 disarticulation
 discusses
 discussion
+decuss
 drumfires
 dispels
 disulphone
