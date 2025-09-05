@@ -8469,7 +8469,6 @@ dyothelete
 diametral
 diamide
 defacer
-diamides
 daysman
 dentin
 descanter
@@ -10602,6 +10601,7 @@ dermatomycosis
 digammate
 dashiki
 denote
+diamides
 disequilibrium
 diatomaceous
 discoblastula
