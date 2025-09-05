@@ -1676,6 +1676,7 @@ datamation
 decidendi
 dearworthily
 dearworthiness
+disorderedness
 dextrinate
 depressiveness
 dornecks
@@ -5936,7 +5937,6 @@ defeatee
 depreter
 depriment
 depriorize
-disorderedness
 dagged
 deprivable
 degrader
