@@ -4682,7 +4682,6 @@ demythologization
 demythologizations
 diplomatize
 demythologizer
-dysgenics
 duodecimal
 discretionally
 dees
@@ -10548,6 +10547,7 @@ demonetized
 delapsion
 drammocks
 digonoporous
+dysgenics
 depel
 danging
 derangeable
