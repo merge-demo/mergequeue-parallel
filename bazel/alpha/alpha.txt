@@ -367,7 +367,6 @@ acinose
 anticlinorium
 avoyer
 abesse
-ambulant
 adipate
 andesitic
 arsenide
@@ -9624,6 +9623,7 @@ avestan
 alvissmal
 antirabic
 alvite
+ambulant
 actinical
 alwite
 ama

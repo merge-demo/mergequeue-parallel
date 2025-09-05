@@ -14866,6 +14866,7 @@ cytomere
 carefully
 caffeol
 cytomicrosome
+compartimento
 citrated
 cordages
 cassandras
@@ -21505,7 +21506,6 @@ cluster
 concorporate
 culverts
 concorporated
-compartimento
 concourse
 cliqueless
 calycle
