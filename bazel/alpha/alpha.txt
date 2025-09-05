@@ -10965,7 +10965,6 @@ ascensiontide
 anarthropodous
 amorphia
 aerobion
-agomphious
 aquatinta
 adelphophagy
 amorphism
@@ -13097,6 +13096,7 @@ aftosas
 aegithognathous
 animous
 animus
+agomphious
 accumulatively
 administrationist
 ambilogy
