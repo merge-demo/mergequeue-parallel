@@ -9771,6 +9771,7 @@ cab
 cavalierly
 chemiatric
 chapeless
+complexometric
 chalybean
 corrugates
 cowardliness
@@ -30660,7 +30661,6 @@ calymene
 cudgelers
 churlish
 counterwind
-complexometric
 cudgeling
 cudgelling
 cudgels
