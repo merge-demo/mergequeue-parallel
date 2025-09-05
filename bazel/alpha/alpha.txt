@@ -1199,7 +1199,6 @@ acanthodini
 ashantee
 alcoholise
 aspirations
-avowal
 antivitamin
 acanthomas
 antinormal
@@ -6981,6 +6980,7 @@ androides
 akkadist
 akmite
 aftershock
+avowal
 arthroderm
 aerocartograph
 amidic

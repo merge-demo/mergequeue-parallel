@@ -3462,6 +3462,7 @@ detrudes
 deformedly
 dandily
 downfold
+deformative
 deuterostomata
 downs
 deforse
@@ -7748,7 +7749,6 @@ discipliners
 derater
 dissociation
 diastataxy
-deformative
 dipleurule
 devirginate
 deils
