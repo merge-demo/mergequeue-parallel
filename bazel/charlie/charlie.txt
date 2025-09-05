@@ -4788,6 +4788,7 @@ cutwaters
 caplet
 carryon
 combretaceous
+comminative
 compense
 carryout
 carryouts
@@ -20146,7 +20147,6 @@ comminated
 commination
 congealable
 canewise
-comminative
 cloddish
 comminator
 comminatory
