@@ -11395,7 +11395,6 @@ choanoflagellida
 cotta
 choanophorous
 cataplasm
-choanosome
 choate
 cautioned
 chobie
@@ -15816,6 +15815,7 @@ congratulating
 clearinghouses
 clearish
 clearminded
+choanosome
 changemaker
 condescendence
 clears
