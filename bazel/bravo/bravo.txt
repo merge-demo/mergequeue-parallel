@@ -872,7 +872,6 @@ backband
 bootblack
 bloody
 bestial
-bovid
 bagdi
 bunters
 begoniaceae
@@ -8747,6 +8746,7 @@ bimarine
 bineweed
 bibliothec
 bing
+bovid
 browed
 beatnikism
 beholder
