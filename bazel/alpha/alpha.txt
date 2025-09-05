@@ -12093,7 +12093,6 @@ anchorets
 acquittals
 amblyopsis
 angiometer
-allothigene
 altruism
 almach
 anchorite
@@ -20022,6 +20021,7 @@ aluminiform
 around
 arousable
 aunter
+allothigene
 archaizer
 acantharia
 acmic
