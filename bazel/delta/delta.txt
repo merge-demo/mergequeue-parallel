@@ -5260,7 +5260,6 @@ disocclude
 darr
 dissemblers
 disharmonism
-densimetric
 dilatometry
 displosion
 doctrinairism
@@ -18466,6 +18465,7 @@ danner
 duality
 duplicitously
 drovy
+densimetric
 duplify
 disclosed
 dubitancy
