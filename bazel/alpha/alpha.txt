@@ -3744,7 +3744,6 @@ anastatica
 autoactivation
 adjectives
 acetine
-anagogy
 agyiomania
 amphistomatic
 amphibiousness
@@ -24036,6 +24035,7 @@ autofrettage
 autogamic
 autogamies
 autogamous
+anagogy
 autotype
 afreets
 antifeministic
