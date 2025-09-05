@@ -10164,6 +10164,7 @@ chg
 chi
 croisard
 coussinet
+calcining
 chia
 chiack
 chyack
@@ -28666,7 +28667,6 @@ chromidiogamy
 crenic
 contin
 cyrilla
-calcining
 clung
 crenothrix
 crenula
