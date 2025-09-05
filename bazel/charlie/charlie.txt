@@ -13923,6 +13923,7 @@ cent
 cynophobia
 counterchange
 cynopithecoid
+chlorospinel
 cynorrhoda
 cynorrhodon
 cynosure
@@ -25100,7 +25101,6 @@ corer
 combinantive
 cores
 carbonates
-chlorospinel
 corpselikeness
 chaulmugra
 catalects
