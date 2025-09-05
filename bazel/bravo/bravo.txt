@@ -12777,7 +12777,6 @@ book
 bronchially
 borocarbide
 brasses
-burstone
 backshish
 balan
 boolya
@@ -13425,6 +13424,7 @@ bensell
 brightsome
 blunts
 buncombes
+burstone
 bottlebrush
 beeriness
 broomer
