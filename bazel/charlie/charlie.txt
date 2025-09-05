@@ -6636,7 +6636,6 @@ counterquestion
 coathangers
 cuscus
 colligation
-cellarman
 ceinture
 ceyx
 ceja
@@ -25719,6 +25718,7 @@ chatta
 coronal
 cleruch
 corrigibly
+cellarman
 corrigiola
 corrival
 corrivalry
