@@ -8291,7 +8291,6 @@ disrelation
 dependancy
 dynamiting
 dagesh
-desonation
 digitation
 doombook
 diagrams
@@ -15249,6 +15248,7 @@ dogstones
 degenerated
 dogtooth
 diabetogenous
+desonation
 delegare
 daceloninae
 demographist
