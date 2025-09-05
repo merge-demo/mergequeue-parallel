@@ -3068,7 +3068,6 @@ aetiologically
 activity
 activities
 amoristic
-activize
 allogenic
 aid
 alagao
@@ -11698,6 +11697,7 @@ acetometric
 abstentions
 aerides
 analyses
+activize
 antimoniate
 analysis
 analyst
