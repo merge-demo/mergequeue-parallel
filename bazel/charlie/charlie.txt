@@ -4034,7 +4034,6 @@ cardiform
 cardigan
 cameoing
 cornmaster
-condalia
 cardin
 croslet
 cancans
@@ -24053,6 +24052,7 @@ construes
 cuspal
 concealment
 caprimulgi
+condalia
 cirrolite
 codfisheries
 complimentation
