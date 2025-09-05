@@ -2099,7 +2099,6 @@ debaser
 drillable
 didst
 desiredness
-decandrous
 deperditely
 discrepate
 decane
@@ -2522,6 +2521,7 @@ declinatory
 declines
 declining
 directrices
+decandrous
 derive
 ducklingship
 deanthropomorphize
