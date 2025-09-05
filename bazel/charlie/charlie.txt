@@ -25503,7 +25503,6 @@ coronel
 chamaerrhine
 chasidim
 coroneted
-chaise
 cordeliere
 coronetted
 connectant
@@ -28116,6 +28115,7 @@ craniopathic
 code
 craniorhachischisis
 countercheck
+chaise
 cranioschisis
 conforbably
 cranioscopy
