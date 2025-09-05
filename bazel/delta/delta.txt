@@ -10291,7 +10291,6 @@ dermoskeleton
 doura
 dutch
 decrepid
-dositheans
 debateable
 detonatability
 dyspnoeic
@@ -10353,6 +10352,7 @@ dealates
 darwinite
 dysteleologically
 dissolubility
+dositheans
 diphthongic
 dunkling
 diosmin
