@@ -8572,6 +8572,7 @@ composit
 chimneying
 causidical
 corcopali
+clewgarnet
 changedale
 covenance
 calpac
@@ -16036,7 +16037,6 @@ clevises
 clew
 casemated
 counterbeating
-clewgarnet
 cly
 cooruptibly
 cliack
