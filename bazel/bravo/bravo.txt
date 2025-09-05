@@ -1028,6 +1028,7 @@ bitangent
 bewitchments
 baigneuses
 banterer
+bits
 brachycome
 boraces
 bagle
@@ -15185,7 +15186,6 @@ blastomycetous
 bahur
 biwa
 butomaceae
-bits
 biotype
 beach
 brecken
