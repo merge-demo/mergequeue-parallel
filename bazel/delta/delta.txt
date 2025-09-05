@@ -4127,6 +4127,7 @@ deliquium
 demisolde
 demagnetised
 dalliers
+defibrillating
 dianthuses
 debye
 dunamis
@@ -12453,7 +12454,6 @@ decempartite
 didymiums
 decoagulation
 demulsifier
-defibrillating
 deflater
 dishaunt
 deflationary
