@@ -3465,7 +3465,6 @@ buphaga
 bander
 barkpeeler
 boobook
-byeman
 bronchiarctia
 blenk
 bevatron
@@ -6465,6 +6464,7 @@ bolo
 bolshie
 bumbled
 blobbiness
+byeman
 bepart
 beacher
 bepimpling
