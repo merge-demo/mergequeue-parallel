@@ -8486,7 +8486,6 @@ comme
 categorical
 corncockle
 chanceful
-cadrans
 chancefulness
 chanceled
 cardiacea
@@ -21941,6 +21940,7 @@ crystallogy
 confessingly
 confessional
 confessionalism
+cadrans
 confessionally
 chirographary
 confessor
