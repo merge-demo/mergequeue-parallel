@@ -24276,7 +24276,6 @@ const
 criminated
 crescendi
 chirographer
-chaka
 craniostenosis
 convulsions
 clostridia
@@ -29128,6 +29127,7 @@ catwalks
 clauster
 costards
 cryological
+chaka
 cryometry
 cocashweed
 chantlate
