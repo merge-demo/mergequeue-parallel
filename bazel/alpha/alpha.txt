@@ -7454,7 +7454,6 @@ alcalde
 atelomitic
 anthropocentricity
 alcaldes
-aculeated
 alcaldia
 aerified
 alcalizate
@@ -13139,6 +13138,7 @@ autocoid
 acetifying
 applaud
 anisochromatic
+aculeated
 achaemenian
 anisocytosis
 acanthopteran
