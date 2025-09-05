@@ -10345,6 +10345,7 @@ ballist
 brays
 blanched
 blanches
+bonneted
 blancmange
 buntlines
 bayal
@@ -11686,7 +11687,6 @@ beboss
 bardolatry
 birthmate
 bestubbled
-bonneted
 bobeche
 brazenfaced
 bahnung
