@@ -455,7 +455,6 @@ borecole
 backscraper
 backset
 basename
-brushless
 bumbo
 begalls
 backstrap
@@ -10941,6 +10940,7 @@ bilharzic
 blocky
 bibliognostic
 brassage
+brushless
 blintzes
 blacksmiths
 bravi
