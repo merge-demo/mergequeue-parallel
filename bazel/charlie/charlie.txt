@@ -4208,6 +4208,7 @@ caret
 commerce
 caretake
 caretaker
+consistible
 caretaking
 chastisers
 chondrosteous
@@ -22973,7 +22974,6 @@ choriambi
 consistent
 chebacco
 cinnoline
-consistible
 consisting
 corydon
 consistorian
