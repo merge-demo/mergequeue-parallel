@@ -8090,7 +8090,6 @@ chainmaker
 chiropodist
 chainman
 chainmen
-celiomyositis
 capitare
 cultists
 crashers
@@ -10420,6 +10419,7 @@ coryphaena
 clinocephalic
 courtiery
 chihfu
+celiomyositis
 cephalograph
 chihuahuas
 congratulant
