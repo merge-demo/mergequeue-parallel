@@ -2911,6 +2911,7 @@ diplasiasmus
 droil
 deducibility
 downcastness
+disimprison
 deducibly
 deducted
 debunking
@@ -5360,7 +5361,6 @@ dawned
 denting
 demagogically
 duotype
-disimprison
 dentirostral
 dimorphotheca
 drumbeating
