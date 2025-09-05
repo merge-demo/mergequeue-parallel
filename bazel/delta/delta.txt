@@ -5831,7 +5831,6 @@ doorsteps
 deafforest
 diplomatized
 dampener
-destrier
 disestablishes
 dewing
 definiendum
@@ -9706,6 +9705,7 @@ diiodoform
 dipteron
 dolorousness
 diipenates
+destrier
 diencephalons
 defiliation
 dillies
