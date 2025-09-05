@@ -8415,6 +8415,7 @@ bavardage
 bootjack
 booked
 bouteloua
+bogeyman
 bilgeway
 bilharzial
 beglerbey
@@ -11903,7 +11904,6 @@ bogatyr
 bordels
 bogberry
 baluchi
-bogeyman
 broommaker
 bloomiest
 branchiopneustic
