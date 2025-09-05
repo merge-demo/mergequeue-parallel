@@ -5890,7 +5890,6 @@ cathetometer
 cheetahs
 cartopper
 cathetusti
-cathexes
 cathy
 cathine
 cathinine
@@ -11840,6 +11839,7 @@ calashes
 chorai
 comedowns
 cranker
+cathexes
 choral
 choralcelo
 carauna
