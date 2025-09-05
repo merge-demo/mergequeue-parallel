@@ -6466,7 +6466,6 @@ discriminators
 discourtesies
 damoclean
 diastatic
-denunciatory
 dime
 daubingly
 dromaeus
@@ -10816,6 +10815,7 @@ dietotherapeutics
 dipsomaniacs
 dipsopathy
 daintiest
+denunciatory
 database
 dipstick
 deceitful
