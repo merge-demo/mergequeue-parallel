@@ -5053,7 +5053,6 @@ caseinogen
 caseload
 clintonia
 coincidently
-casemaker
 caprylene
 casemaking
 casemates
@@ -28116,6 +28115,7 @@ craniopathic
 code
 craniorhachischisis
 countercheck
+casemaker
 chaise
 cranioschisis
 conforbably
