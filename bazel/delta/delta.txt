@@ -1044,6 +1044,7 @@ dimyaria
 darndest
 diaulos
 dropwise
+defaillance
 darnels
 destandardize
 diacodium
@@ -3048,7 +3049,6 @@ diminutiveness
 defacing
 defacto
 defade
-defaillance
 defaitiste
 defalcated
 doleful
