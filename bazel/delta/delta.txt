@@ -1110,6 +1110,7 @@ detests
 demagnetisable
 dehydrogenize
 dashed
+doubleword
 darnings
 dicentra
 dashedly
@@ -16014,7 +16015,6 @@ downcried
 dewaxes
 daydream
 dedolomitizing
-doubleword
 dotal
 dotardism
 darned
