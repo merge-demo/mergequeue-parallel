@@ -12884,6 +12884,7 @@ cervix
 churrigueresco
 churring
 churrip
+castellanus
 churro
 churruck
 churrus
@@ -16425,7 +16426,6 @@ ceruminous
 cowage
 copart
 cutlets
-castellanus
 circulable
 ceriferous
 cloacinal
