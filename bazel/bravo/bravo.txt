@@ -6056,6 +6056,7 @@ bataan
 bol
 boarskin
 binauricular
+bunkermen
 benchership
 bespete
 bodge
@@ -11179,7 +11180,6 @@ blosmy
 biglandular
 bedights
 blotch
-bunkermen
 beestride
 bandhava
 britzskas
