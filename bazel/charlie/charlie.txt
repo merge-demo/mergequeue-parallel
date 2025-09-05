@@ -9520,6 +9520,7 @@ cuissen
 checksum
 construct
 checksumming
+coring
 castro
 catechize
 capacitively
@@ -28488,7 +28489,6 @@ creddock
 chavicine
 carapaced
 credences
-coring
 credencive
 conditioning
 credenda
