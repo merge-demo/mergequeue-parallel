@@ -5574,7 +5574,6 @@ cataplane
 cataplasia
 conepate
 costlier
-cataplasis
 capering
 cataplastic
 casten
@@ -18918,6 +18917,7 @@ cornulite
 carriageless
 collabent
 collaborates
+cataplasis
 collaborating
 computerese
 collaborationists

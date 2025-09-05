@@ -4283,7 +4283,6 @@ dichotomous
 digallate
 designatory
 delustering
-danced
 deceleration
 dragontail
 dicacodyl
@@ -18590,6 +18589,7 @@ dogtrotting
 dewool
 dust
 danseurs
+danced
 delphian
 dustcart
 devocalisation
