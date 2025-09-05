@@ -8342,7 +8342,6 @@ darkishness
 ditrigonally
 dugal
 dialectical
-dialectician
 dourly
 dual
 decapodous
@@ -8711,6 +8710,7 @@ depolarizing
 diethylethanolamine
 diastereoisomerism
 diphenylene
+dialectician
 diastereomer
 dodges
 disentangling
