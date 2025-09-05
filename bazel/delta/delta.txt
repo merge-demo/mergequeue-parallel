@@ -8553,6 +8553,7 @@ diet
 diaper
 dyschromatopsia
 duchy
+doughnut
 dethrone
 dewbeam
 depthwise
@@ -10880,7 +10881,6 @@ deificatory
 direfully
 dirempt
 direness
-doughnut
 dolly
 developement
 diabolifuge
