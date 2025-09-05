@@ -11530,7 +11530,6 @@ cholecystectasia
 cholecystectomy
 cingulum
 cholecystectomized
-clammier
 chimachima
 countermeasure
 cannie
@@ -22426,6 +22425,7 @@ cacana
 costliness
 conyger
 colobin
+clammier
 canterbury
 coniine
 coextensive
