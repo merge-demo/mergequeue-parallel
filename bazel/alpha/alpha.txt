@@ -6992,7 +6992,6 @@ akmuddar
 aknow
 associability
 aggradation
-agglomerating
 awber
 ako
 aglycones
@@ -17102,6 +17101,7 @@ apolegamic
 apolysis
 apolista
 alaunt
+agglomerating
 aproctia
 almendro
 apollinarian
