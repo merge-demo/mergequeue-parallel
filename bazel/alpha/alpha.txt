@@ -8093,6 +8093,7 @@ alibis
 antroversion
 ambiverts
 alternativo
+anglican
 autocatalepsy
 adermia
 alice
@@ -8984,7 +8985,6 @@ acipenser
 accendibility
 anticapitalist
 alliterational
-anglican
 afternight
 athapascan
 arval
