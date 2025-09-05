@@ -2416,7 +2416,6 @@ butterwort
 bummalo
 benzpinacone
 bareca
-bombacaceous
 bradenhead
 breechesflower
 brodder
@@ -7552,6 +7551,7 @@ bewitched
 boughed
 bewitcher
 bewitches
+bombacaceous
 basilics
 bryological
 beswink
