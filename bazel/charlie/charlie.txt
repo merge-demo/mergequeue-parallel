@@ -17747,7 +17747,6 @@ cocoons
 calamites
 cocopan
 choup
-cocotte
 cocottes
 cocobolo
 condemnate
@@ -25883,6 +25882,7 @@ corteges
 capitalization
 congas
 coeternally
+cocotte
 cortexes
 copacetic
 cortication
