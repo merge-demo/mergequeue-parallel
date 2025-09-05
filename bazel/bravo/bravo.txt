@@ -4029,6 +4029,7 @@ bannerets
 benetnasch
 bovoid
 beatille
+beefeaters
 bulgers
 bearcats
 bottlefuls
@@ -4874,7 +4875,6 @@ beefeater
 bucconasal
 bassy
 bushmen
-beefeaters
 barkentines
 burhinidae
 bract
