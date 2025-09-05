@@ -504,6 +504,7 @@ dalibarda
 dismantler
 dalle
 disambiguations
+debosh
 desmotropic
 dalliances
 dallied
@@ -15915,7 +15916,6 @@ dorser
 doxantha
 diestrus
 dorsi
-debosh
 dorsibranchiata
 distinctor
 dorsiduct
