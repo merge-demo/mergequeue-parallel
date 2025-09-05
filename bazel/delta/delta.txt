@@ -198,6 +198,7 @@ daemons
 drometer
 diapophyses
 daemonurgist
+devotement
 dahms
 dechlorination
 diabolize
@@ -12860,7 +12861,6 @@ dislustre
 disulphonic
 diffusedness
 deferral
-devotement
 dismay
 disconfirm
 dismayable
