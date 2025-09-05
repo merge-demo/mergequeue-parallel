@@ -2598,6 +2598,7 @@ bergere
 bears
 brittlely
 barytophyllite
+bewitchment
 blawed
 bridgelike
 barocco
@@ -7564,7 +7565,6 @@ beswink
 boons
 bewitchingly
 bewitchingness
-bewitchment
 beleve
 bewizard
 blandished
