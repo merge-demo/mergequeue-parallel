@@ -4825,7 +4825,6 @@ avulsions
 admonitioner
 aerolithology
 apocamphoric
-aerolitic
 angakoks
 aerological
 antepartum
@@ -9262,6 +9261,7 @@ alphabetizers
 acroblast
 auditioned
 axifera
+aerolitic
 antineoplastic
 alopias
 adamancies
