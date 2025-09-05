@@ -4673,7 +4673,6 @@ antiparabemata
 aeriform
 accinge
 abasement
-aberdevine
 azygous
 aeriness
 aero
@@ -12989,6 +12988,7 @@ alloxanate
 amiss
 arsanilic
 abiders
+aberdevine
 anim
 anima
 anticlactic
