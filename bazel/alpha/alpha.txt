@@ -15585,6 +15585,7 @@ antiskepticism
 antipacifistic
 angriest
 antipacifists
+archonships
 antipapism
 antigun
 anaglyptic
@@ -18937,7 +18938,6 @@ armorplated
 archocele
 archon
 archonship
-archonships
 autorotation
 acichlorid
 archontia
