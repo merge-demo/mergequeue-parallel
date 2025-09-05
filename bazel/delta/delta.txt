@@ -9638,7 +9638,6 @@ dartsman
 diddering
 diguanide
 dihalide
-derives
 diakinetic
 deil
 drayed
@@ -10961,6 +10960,7 @@ dratchell
 disbursement
 diapir
 dispondaic
+derives
 dazzlement
 deafens
 dannock
