@@ -5205,7 +5205,6 @@ agunah
 android
 authorism
 armageddon
-analyzability
 apiales
 aimable
 anophthalmia
@@ -10113,6 +10112,7 @@ ambulatoria
 alternating
 affluent
 affectious
+analyzability
 agraphias
 ambulatories
 ambulatorium
