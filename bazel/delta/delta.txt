@@ -2089,6 +2089,7 @@ doline
 dingles
 diapasm
 daunts
+dishonourary
 dissembles
 doab
 diagnostics
@@ -2467,7 +2468,6 @@ disslander
 dulls
 derationalization
 diatropism
-dishonourary
 dresser
 declaimer
 dilaters
