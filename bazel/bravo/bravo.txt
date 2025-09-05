@@ -5091,7 +5091,6 @@ bureaucrat
 beeps
 beflap
 brahminee
-bumpsy
 bleating
 beflea
 brainier
@@ -13339,6 +13338,7 @@ bughouses
 bivouacked
 benightedly
 bothersomely
+bumpsy
 bothy
 basivertebral
 bothie
