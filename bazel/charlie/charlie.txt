@@ -12525,7 +12525,6 @@ chronica
 chronically
 coenenchymal
 chronicle
-chronicled
 coachman
 chronicling
 copycutter
@@ -21838,6 +21837,7 @@ conf
 counterpose
 confab
 constructionists
+chronicled
 cleaner
 confabs
 confabulate
