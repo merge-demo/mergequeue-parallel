@@ -669,7 +669,6 @@ decapitalize
 damped
 decemviri
 desquamated
-deafen
 dampers
 dudgeons
 discrete
@@ -11585,6 +11584,7 @@ diapauses
 derivationist
 deuteropathic
 discomfortingly
+deafen
 discomycete
 discomycetous
 druggy
