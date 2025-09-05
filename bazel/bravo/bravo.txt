@@ -2239,6 +2239,7 @@ blateroon
 brigid
 birdclapper
 bannerwise
+bowing
 bats
 blastment
 belavendered
@@ -13867,7 +13868,6 @@ bowyers
 bulnbuln
 bilious
 bedrite
-bowing
 bowings
 bowkail
 blad
