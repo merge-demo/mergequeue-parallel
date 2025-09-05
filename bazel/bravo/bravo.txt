@@ -2858,6 +2858,7 @@ bridebowl
 boskage
 biform
 buddage
+brechans
 basyl
 bannermen
 barrage
@@ -14942,7 +14943,6 @@ brechams
 baccharis
 ballywack
 brev
-brechans
 bathes
 breakfaster
 bullfeast
