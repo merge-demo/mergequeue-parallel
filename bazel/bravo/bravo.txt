@@ -4254,6 +4254,7 @@ beatrix
 bewitchery
 beblooding
 bluestockingism
+boustrophedon
 bebloods
 basurale
 bebog
@@ -8208,7 +8209,6 @@ battological
 barbicels
 bradykinetic
 bewake
-boustrophedon
 benzophosphinic
 balanophorin
 brakehead
