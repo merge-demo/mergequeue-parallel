@@ -13749,7 +13749,6 @@ convoke
 castanets
 cacosplanchnia
 cynegild
-cinema
 cedared
 cinemagoer
 circumlocutionary
@@ -24885,6 +24884,7 @@ coralligenous
 coralligerous
 corallin
 corallina
+cinema
 corallinaceous
 contrariwise
 coralline
