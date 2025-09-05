@@ -3344,6 +3344,7 @@ barbu
 basoid
 baraithas
 beltine
+basifies
 bayberries
 breast
 balsam
@@ -6723,7 +6724,6 @@ bunnymouth
 begar
 billings
 baikerinite
-basifies
 benetting
 beroidae
 bathmotropic

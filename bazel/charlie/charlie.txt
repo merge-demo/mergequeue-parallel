@@ -8956,7 +8956,6 @@ cryptal
 charism
 coriaria
 charisma
-counterpointe
 charismata
 chokecherry
 charismatic
@@ -22428,6 +22427,7 @@ coniines
 conrey
 conimene
 ceric
+counterpointe
 cosmopolitic
 calends
 conines
