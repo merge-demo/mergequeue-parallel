@@ -1792,7 +1792,6 @@ camaraderie
 camarasaurus
 camarera
 camarin
-carboras
 camaron
 costata
 cosmetological
@@ -6712,6 +6711,7 @@ celibatist
 carijona
 clobbering
 celibatory
+carboras
 chatteringly
 celiectomy
 choriphyllous
