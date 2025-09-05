@@ -7909,6 +7909,7 @@ alfaquis
 alfenide
 alferes
 aefaldness
+abysm
 aqualunger
 arabizes
 authentical
@@ -11486,7 +11487,6 @@ autolytus
 anacalypsis
 approbate
 anacampsis
-abysm
 ascribes
 anacamptic
 agentry
