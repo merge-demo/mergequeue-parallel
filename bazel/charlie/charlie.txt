@@ -13751,6 +13751,7 @@ cinema
 cedared
 cinemagoer
 circumlocutionary
+cryptocommercial
 cinemagoers
 cinemas
 carsmith
@@ -28179,7 +28180,6 @@ chapelet
 chantefable
 crantara
 crants
-cryptocommercial
 cardiopathy
 crapehanger
 crapette
