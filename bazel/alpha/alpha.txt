@@ -8921,7 +8921,6 @@ allotted
 ague
 arrogantly
 anotherkins
-allotter
 allottery
 achondrite
 aeromotor
@@ -19159,6 +19158,7 @@ abetted
 arefact
 alodium
 areg
+allotter
 areic
 arena
 arenaria
