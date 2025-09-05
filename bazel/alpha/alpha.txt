@@ -6560,6 +6560,7 @@ amarantaceae
 argillomagnesian
 aimless
 acropolis
+antistrophically
 ascomata
 authorise
 aimlessly
@@ -13966,7 +13967,6 @@ antefix
 anaesthyl
 antefurcae
 antehall
-antistrophically
 antehypophysis
 aedoeagus
 antehistoric
