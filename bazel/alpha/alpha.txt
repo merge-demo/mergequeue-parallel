@@ -15724,7 +15724,6 @@ alloisomeric
 aminotriazole
 antiphrases
 antiphrastic
-antiphthisic
 amberiferous
 ascendant
 antiepileptic
@@ -23907,6 +23906,7 @@ autocarpian
 aider
 achatinella
 autocarpic
+antiphthisic
 acenaphthenyl
 anatherum
 autocatalyses
