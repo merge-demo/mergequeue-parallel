@@ -16027,7 +16027,6 @@ discoid
 dotchin
 dote
 distasting
-doted
 diploplacula
 doters
 dotes
@@ -16717,6 +16716,7 @@ dragonism
 drainage
 dyotheletism
 drained
+doted
 drainer
 dragbolt
 decertified
