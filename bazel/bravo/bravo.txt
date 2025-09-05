@@ -5942,6 +5942,7 @@ belute
 bhungini
 begirdles
 belonoid
+beqwete
 blocs
 belvedere
 bluewood
@@ -15068,7 +15069,6 @@ battalia
 brevity
 brevities
 byeworker
-beqwete
 boar
 brewages
 ballastage
