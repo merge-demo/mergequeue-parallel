@@ -1841,7 +1841,6 @@ basketmaker
 bandeau
 bancus
 backstabber
-bandelette
 banderma
 bowlike
 blet
@@ -12938,6 +12937,7 @@ bottoms
 blouson
 boottop
 besting
+bandelette
 bidarkees
 bouchon
 burgherdom
