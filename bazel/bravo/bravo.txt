@@ -1505,6 +1505,7 @@ beggar
 boroglycerate
 barras
 beeches
+burseraceous
 backboards
 ball
 ballad
@@ -15225,7 +15226,6 @@ blanquette
 bicarinate
 browsed
 bolomen
-burseraceous
 beblood
 bohawn
 babhan
