@@ -295,7 +295,6 @@ beflower
 bacillicidic
 bacilliform
 bigamic
-buna
 bacilligenic
 bedotted
 blasthole
@@ -17882,6 +17881,7 @@ boopis
 bargestone
 busher
 bushfighting
+buna
 bushfires
 backslider
 bushgrass
