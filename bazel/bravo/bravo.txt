@@ -8596,7 +8596,6 @@ bebization
 blackpot
 brochette
 balcone
-behear
 bretons
 billtong
 basins
@@ -11735,6 +11734,7 @@ broke
 berreaving
 butleress
 bacopa
+behear
 bobtail
 bobtailed
 boragineous
