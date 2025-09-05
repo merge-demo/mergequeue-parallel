@@ -12924,6 +12924,7 @@ altering
 amygdalotome
 anhydride
 anthozoic
+assonants
 acorn
 acetylation
 aslop
@@ -21838,7 +21839,6 @@ assoils
 assonanced
 acaridomatium
 assonantly
-assonants
 arnottos
 alternations
 assorted
