@@ -6426,6 +6426,7 @@ adenanthera
 aidman
 adjunctive
 aids
+acariatre
 afterripening
 apocarpous
 aiel
@@ -16603,7 +16604,6 @@ amends
 arachnitis
 affiche
 apesthetize
-acariatre
 attachment
 alumen
 apetalous

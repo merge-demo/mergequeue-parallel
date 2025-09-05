@@ -2252,7 +2252,6 @@ dissocialize
 decempunctate
 decemstriate
 disceptator
-dithioglycol
 disentrancement
 decemuiri
 downcut
@@ -7040,6 +7039,7 @@ demographer
 decede
 dissentiate
 dimethylsulphoxide
+dithioglycol
 destress
 devs
 delinquently
