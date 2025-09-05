@@ -4598,6 +4598,7 @@ demineralization
 dovetail
 dermatosclerosis
 demineralized
+downrightly
 demineralizes
 demineralizing
 demiofficial
@@ -6455,7 +6456,6 @@ descale
 declericalize
 delignated
 discrepating
-downrightly
 descant
 diversional
 disencumber
