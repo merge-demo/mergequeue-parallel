@@ -5618,7 +5618,6 @@ barristerial
 bathrobe
 busheller
 belches
-blowpipes
 bytime
 brasiers
 bong
@@ -11996,6 +11995,7 @@ blander
 bibulousness
 bronchiolus
 blowzing
+blowpipes
 bluesman
 boyaux
 bronchostomies
