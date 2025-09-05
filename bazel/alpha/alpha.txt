@@ -47,6 +47,7 @@ alkylene
 anocithesia
 adstringe
 acineta
+agkistrodon
 abacus
 annotation
 alcheringa
@@ -5976,7 +5977,6 @@ albuminoidal
 agitatrix
 agitprop
 agitprops
-agkistrodon
 aglaia
 aglance
 aglaos
