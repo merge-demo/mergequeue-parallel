@@ -6562,6 +6562,7 @@ beetlers
 bacharach
 bukh
 bodyplate
+blaunner
 beant
 bereaves
 basioccipital
@@ -10569,7 +10570,6 @@ boresomely
 brodie
 boundingly
 besayle
-blaunner
 blawn
 bentonitic
 bailie
