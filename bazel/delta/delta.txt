@@ -2549,7 +2549,6 @@ demishirt
 decoctum
 drudgery
 decode
-dartars
 deignous
 deoxygenation
 decodon
@@ -15273,6 +15272,7 @@ dohickey
 doyenne
 diprotodont
 doghouses
+dartars
 deduction
 doyens
 disilicid
