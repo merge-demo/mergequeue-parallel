@@ -7891,7 +7891,6 @@ atramentary
 alleging
 antimoniureted
 alfaje
-alfaki
 alfalfas
 ayyubid
 anapaest
@@ -21646,6 +21645,7 @@ assert
 assertable
 asserted
 asserter
+alfaki
 automatics
 agrise
 archegonium
