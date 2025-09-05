@@ -139,7 +139,6 @@ cablelaid
 cableless
 cogent
 cerberic
-chryseis
 colophany
 casterless
 cables
@@ -30550,6 +30549,7 @@ cubocalcaneal
 cuboctahedron
 cubocube
 crepidula
+chryseis
 cubocuneiform
 cubododecahedral
 concarnation
