@@ -6846,7 +6846,6 @@ celtium
 cataphrenia
 cotyla
 clockroom
-compaction
 caffein
 conducibleness
 camis
@@ -27835,6 +27834,7 @@ crabstick
 comeatable
 calotin
 conquians
+compaction
 crabut
 crabweed
 coreid
