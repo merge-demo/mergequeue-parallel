@@ -5190,7 +5190,6 @@ affirmers
 affirmingly
 affixal
 affixation
-affixed
 andantinos
 affixes
 affixial
@@ -17300,6 +17299,7 @@ agoramania
 aliment
 ampuls
 apostrophes
+affixed
 atomising
 atik
 aviculture
