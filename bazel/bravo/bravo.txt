@@ -12805,7 +12805,6 @@ boomkin
 bibliophobia
 barquest
 bootes
-baseboard
 burglary
 basiliscine
 barnabite
@@ -15017,6 +15016,7 @@ baldricks
 browsing
 bremsstrahlung
 brushmaker
+baseboard
 bedebt
 bodiment
 bastarda
