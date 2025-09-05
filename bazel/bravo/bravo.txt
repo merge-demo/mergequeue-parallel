@@ -2044,7 +2044,6 @@ babylonia
 bemock
 bacchante
 bankrupture
-basilissa
 blowtubes
 bobadilian
 barreleye
@@ -6747,6 +6746,7 @@ barytosulphate
 badian
 blowbys
 bookery
+basilissa
 bersagliere
 berserker
 baldacchini
