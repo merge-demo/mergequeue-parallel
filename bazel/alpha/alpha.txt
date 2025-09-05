@@ -9642,7 +9642,6 @@ ahluwalia
 alethiological
 agnoites
 amoving
-amah
 amahuaca
 assoil
 archbishopric
@@ -12489,6 +12488,7 @@ alleviations
 amissing
 aneuploidy
 amenities
+amah
 aneuric
 avoidance
 amentiferae
