@@ -1966,6 +1966,7 @@ decciare
 dopant
 debuted
 debuting
+dianilid
 demonianism
 desirable
 diced
@@ -8517,7 +8518,6 @@ divider
 debitrix
 days
 didactically
-dianilid
 dianilide
 dianite
 discomforted

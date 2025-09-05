@@ -8780,6 +8780,7 @@ chaptalize
 cymbalaria
 chapter
 canonries
+christianism
 chapteral
 chapterhouse
 chapters
@@ -12266,7 +12267,6 @@ christian
 chiococca
 christiana
 christianiadeal
-christianism
 condominial
 cumuliform
 christianite
