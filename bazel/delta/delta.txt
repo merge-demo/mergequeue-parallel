@@ -9327,7 +9327,6 @@ discutient
 departmentalizing
 deobstruent
 dietic
-decolorant
 deckedout
 donatory
 dietitians
@@ -15739,6 +15738,7 @@ deist
 doorstop
 devotionality
 disbase
+decolorant
 desensitizer
 deaconize
 diastole
