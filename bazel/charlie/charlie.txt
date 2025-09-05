@@ -21703,7 +21703,6 @@ casson
 cassises
 crosa
 cecidomyiid
-collumelliaceous
 cedens
 cephalon
 commy
@@ -31176,6 +31175,7 @@ classless
 cupressus
 campagus
 custode
+collumelliaceous
 cuprites
 cunningly
 coccygeus
