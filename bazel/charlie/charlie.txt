@@ -18632,7 +18632,6 @@ coincidents
 coinciding
 cadillacs
 cystomata
-coinclination
 coachability
 ceint
 coincorporate
@@ -26883,6 +26882,7 @@ counterlegislation
 conant
 counterly
 creeshie
+coinclination
 counterlight
 counterlilit
 counterlove
