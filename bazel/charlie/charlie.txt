@@ -283,6 +283,7 @@ cacidrosis
 coreopsis
 cacimbo
 cacimbos
+carrie
 caciques
 carriageable
 cosmolined
@@ -15680,7 +15681,6 @@ canion
 custroun
 chromascope
 clavated
-carrie
 cytoryctes
 coinfinity
 camwood
