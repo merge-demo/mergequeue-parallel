@@ -9266,6 +9266,7 @@ conjunctive
 chaudfroid
 chalkworker
 chauffage
+coddlers
 chauffer
 classist
 consuete
@@ -17794,7 +17795,6 @@ cardialgic
 coddy
 coddle
 calculous
-coddlers
 coddles
 codebooks
 codebreaker
