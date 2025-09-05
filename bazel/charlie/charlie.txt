@@ -327,7 +327,6 @@ cacodemonial
 cacodemonize
 cacodyl
 cedrium
-chevrette
 craney
 cornified
 cacodylic
@@ -6354,6 +6353,7 @@ cavaliere
 cloxacillin
 choregic
 cation
+chevrette
 contraorbitally
 clinandria
 cavalieri
