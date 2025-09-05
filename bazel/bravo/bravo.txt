@@ -62,6 +62,7 @@ bosques
 bebed
 buffaloing
 beebreads
+bethels
 babblings
 bothsidedness
 beauclerk
@@ -13945,7 +13946,6 @@ brierberry
 bairnteem
 boxhauling
 bowwow
-bethels
 bumbershoot
 blitzes
 bibulosity
