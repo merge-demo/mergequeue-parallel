@@ -2767,6 +2767,7 @@ cannoning
 cannonries
 cyrtandraceae
 curettage
+ceterach
 cannons
 cigale
 coulure
@@ -7854,7 +7855,6 @@ collieshangie
 cetanes
 cete
 cetera
-ceterach
 cetes
 ceti
 cetic
