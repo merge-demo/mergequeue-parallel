@@ -11050,7 +11050,6 @@ awakings
 aortitis
 athetosic
 antiorthodoxly
-amperometer
 anlaute
 asswage
 ampersand
@@ -15668,6 +15667,7 @@ antiperistalsis
 antiperistatic
 apaches
 antiperistatical
+amperometer
 antiperspirant
 apochromatism
 allodification
