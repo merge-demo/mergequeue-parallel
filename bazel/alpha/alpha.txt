@@ -9524,6 +9524,7 @@ adenodiastasis
 ascence
 alulim
 agrom
+angas
 apometabolous
 alumic
 alumiferous
@@ -19491,7 +19492,6 @@ aphanitism
 asbestic
 ary
 aria
-angas
 avellan
 acyls
 askari
