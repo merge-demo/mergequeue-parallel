@@ -7290,7 +7290,6 @@ battleground
 boatswain
 balaenoptera
 bocklogged
-bisinuation
 bullidae
 bilbies
 bibliolatrist
@@ -11146,6 +11145,7 @@ breveted
 bumelia
 bloodwite
 bailee
+bisinuation
 biquadratic
 bloodworthy
 blearily
