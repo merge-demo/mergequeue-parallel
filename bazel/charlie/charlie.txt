@@ -24964,7 +24964,6 @@ corcyraean
 corcle
 canalizations
 casually
-cordaitaceae
 cordaitaceous
 casamarca
 cordaites
@@ -30207,6 +30206,7 @@ carmetta
 cruet
 cruety
 creepie
+cordaitaceae
 cucurbit
 cruets
 cruised
