@@ -13184,7 +13184,6 @@ albireo
 axseeds
 addossed
 aurifex
-agglutinability
 anisomeric
 autosome
 apoturmeric
@@ -16840,6 +16839,7 @@ apina
 aciculated
 averments
 aping
+agglutinability
 ameliorative
 apioceridae
 anthroposomatology
