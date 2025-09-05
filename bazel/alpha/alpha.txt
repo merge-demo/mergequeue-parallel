@@ -2199,6 +2199,7 @@ azimech
 acidy
 acetamid
 amamau
+alisos
 abatjours
 acidiferous
 argil
@@ -8351,7 +8352,6 @@ alkalinuria
 anthocarpous
 aristolochiaceae
 angiocardiography
-alisos
 alkalisation
 alkalise
 alkalised
