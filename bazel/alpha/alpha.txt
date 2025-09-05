@@ -15852,7 +15852,6 @@ antipsychotic
 appointor
 antiputrescent
 antiq
-antiqua
 analoga
 advisorily
 acetylated
@@ -19421,6 +19420,7 @@ argons
 argosy
 argot
 archaizes
+antiqua
 antimediaeval
 argots
 arguable
