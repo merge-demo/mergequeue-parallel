@@ -6382,6 +6382,7 @@ caveator
 choaty
 caveators
 cornulites
+complexes
 compares
 canell
 cavefish
@@ -20722,7 +20723,6 @@ cercocebus
 complexedness
 complexer
 cuinfo
-complexes
 chylify
 cyanopsia
 chelidonate
