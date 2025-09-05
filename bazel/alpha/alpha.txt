@@ -8361,6 +8361,7 @@ angiocardiography
 alkalisation
 alkalise
 alkalised
+averin
 affrayed
 antejentacular
 alkaliser
@@ -17090,7 +17091,6 @@ androecia
 anhydrite
 apolar
 amphidiploid
-averin
 achiote
 apolegamic
 apolysis
