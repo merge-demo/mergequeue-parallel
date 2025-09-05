@@ -6039,7 +6039,6 @@ aus
 actinocutitis
 aroeira
 agnations
-amphi
 agnel
 acetobenzoic
 amoinder
@@ -10787,6 +10786,7 @@ acromegaly
 ammonion
 ammonitess
 ammonitic
+amphi
 ammonitoid
 ammonitoidea
 affording
