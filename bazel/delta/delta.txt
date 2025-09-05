@@ -4301,7 +4301,6 @@ downgrowth
 dawnstreak
 demasculinise
 divisors
-danglers
 dem
 demitasse
 dovelet
@@ -8480,6 +8479,7 @@ deciares
 discombobulating
 decrial
 demioctagonal
+danglers
 dyothelete
 diametral
 diamide
