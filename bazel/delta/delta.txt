@@ -4252,6 +4252,7 @@ daiquiris
 deltas
 distensibility
 digitals
+double
 dukeling
 dook
 desipiency
@@ -16093,7 +16094,6 @@ downsize
 disyllable
 decrepitude
 direct
-double
 demos
 didunculinae
 dotter
