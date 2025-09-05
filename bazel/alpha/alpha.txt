@@ -5832,6 +5832,7 @@ adversary
 aerogeology
 acad
 aggravative
+antasphyctic
 amazonstone
 afformative
 aneurism
@@ -19490,7 +19491,6 @@ ary
 aria
 angas
 avellan
-antasphyctic
 acyls
 askari
 arianist
