@@ -4252,7 +4252,6 @@ disilane
 duncan
 domboc
 destructible
-deltidia
 dineros
 danseuses
 deltohedron
@@ -8481,6 +8480,7 @@ dentin
 descanter
 deesis
 dapperest
+deltidia
 diaminogen
 downset
 directionize
