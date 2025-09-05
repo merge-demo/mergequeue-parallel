@@ -7767,7 +7767,6 @@ cervicoauricular
 chippable
 cervicobasilar
 cobitis
-cervicobuccal
 cervicodynia
 cervicofacial
 canabae
@@ -15984,6 +15983,7 @@ clerkless
 cerecloths
 clerkliness
 chlorocarbon
+cervicobuccal
 clerkship
 clerkships
 comrado
