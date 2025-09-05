@@ -6710,6 +6710,7 @@ berchemia
 buccinae
 bechalks
 brakesmen
+bandpass
 burrowers
 buhlwork
 bernacle
@@ -15611,7 +15612,6 @@ barters
 bauxitite
 bundlet
 bluster
-bandpass
 bluchers
 botulismus
 blastomycetes
