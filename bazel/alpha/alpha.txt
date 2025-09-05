@@ -3655,7 +3655,6 @@ anaconda
 accomplis
 amphigamous
 adiaphory
-afer
 adiaphorist
 airframes
 appealingness
@@ -11397,6 +11396,7 @@ arteriolar
 amex
 accuses
 adenophore
+afer
 appetites
 algoristic
 astely

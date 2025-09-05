@@ -3425,6 +3425,7 @@ capsella
 calyptras
 callidity
 capshore
+comd
 capsian
 ceruses
 capsicums
@@ -28511,7 +28512,6 @@ creditable
 clava
 creditably
 crediting
-comd
 checkerwork
 creditive
 creditless
