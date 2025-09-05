@@ -3396,6 +3396,7 @@ chivarro
 caprimulgiformes
 chinwood
 cycloidei
+cheerios
 caprin
 candlebeam
 cimelia
@@ -3710,7 +3711,6 @@ ciconia
 carbazic
 carbazylic
 chlorpikrin
-cheerios
 civilist
 carbazole
 carbeen
