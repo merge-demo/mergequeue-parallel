@@ -6616,6 +6616,7 @@ axometer
 arid
 aircraftsman
 aneurine
+aquarist
 affrontiveness
 aircraftsmen
 aircraftwoman
@@ -13470,7 +13471,6 @@ annulately
 adjourning
 armigero
 annulation
-aquarist
 amalgamable
 amidated
 annulations

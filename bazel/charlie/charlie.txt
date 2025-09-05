@@ -15964,6 +15964,7 @@ comfrey
 cholanic
 clerihews
 clerisies
+cosine
 certifiably
 coinventor
 cyatholith
@@ -26052,7 +26053,6 @@ chasuble
 cosymmedian
 compurgator
 cosinage
-cosine
 culverineer
 cosiness
 colder
