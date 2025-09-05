@@ -450,7 +450,6 @@ defiance
 discept
 danseuse
 debates
-defensative
 disseats
 doxie
 demisecond
@@ -16435,6 +16434,7 @@ downstate
 deraignment
 defrost
 downstrokes
+defensative
 downtake
 desiatin
 doorplate
