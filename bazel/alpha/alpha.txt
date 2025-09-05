@@ -21649,7 +21649,6 @@ antiberiberin
 assents
 asseour
 assert
-assertable
 asserted
 asserter
 alfaki
@@ -23250,6 +23249,7 @@ ameliorate
 antenatalitial
 anan
 auctions
+assertable
 auctorizate
 assythment
 accessibleness
