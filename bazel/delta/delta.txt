@@ -6623,7 +6623,6 @@ dipped
 dictyotaceae
 downwardly
 desertfully
-deserticolous
 duction
 driers
 deletes
@@ -15221,6 +15220,7 @@ despect
 deficits
 dogeless
 danube
+deserticolous
 distylar
 disheart
 diagrammable
