@@ -6726,6 +6726,7 @@ bendability
 berreaves
 bisso
 bolos
+brandywine
 berret
 barracudina
 berry
@@ -6861,7 +6862,6 @@ burgundian
 bousoukis
 barchan
 bitumed
-brandywine
 besetment
 bozo
 besetters

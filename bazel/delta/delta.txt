@@ -1328,7 +1328,6 @@ dompt
 dauntingly
 damagement
 dart
-dauntingness
 discerners
 daunton
 doup
@@ -8711,6 +8710,7 @@ dodges
 disentangling
 dolesomely
 dehumanized
+dauntingness
 diastoles
 davyne
 diogenite
