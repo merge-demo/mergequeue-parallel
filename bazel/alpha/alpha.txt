@@ -9531,7 +9531,6 @@ aluminas
 aluminate
 alumines
 archicontinent
-aggeration
 aluminiferous
 assheadedness
 amarvel
@@ -12272,6 +12271,7 @@ androgyne
 atlantoaxial
 androgynia
 angiostomy
+aggeration
 androgone
 acrotomous
 andromache
