@@ -695,7 +695,6 @@ acrolithic
 abounds
 about
 anticytotoxin
-across
 astrofel
 azygomatous
 aboveproof
@@ -7745,6 +7744,7 @@ amor
 aleikoum
 alboranite
 accidentality
+across
 astropecten
 agammaglobulinemia
 actinology
