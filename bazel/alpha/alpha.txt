@@ -10067,7 +10067,6 @@ aniconic
 ambrite
 ambroid
 ambrosiaceae
-achor
 argine
 ambrosiate
 ambrosin
@@ -20776,6 +20775,7 @@ arundo
 asaphus
 asarabacca
 asarin
+achor
 alecs
 asarite
 assignat
