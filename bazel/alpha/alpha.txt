@@ -14489,6 +14489,7 @@ antiabsolutist
 acacine
 allotrope
 antiacid
+automatizes
 antiaditis
 alaskans
 asuang
@@ -24189,7 +24190,6 @@ automative
 antronasal
 acutenaculum
 automatize
-automatizes
 aerogels
 abrasively
 automatizing
