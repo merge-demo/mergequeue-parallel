@@ -7386,6 +7386,7 @@ cerambycid
 contchar
 circuiter
 coruscations
+celerity
 cerambycidae
 ceramicite
 constructors
@@ -26794,7 +26795,6 @@ counterextension
 circumduce
 counterfact
 carniferous
-celerity
 counterfactual
 chilled
 captivately
