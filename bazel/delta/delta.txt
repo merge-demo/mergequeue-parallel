@@ -6099,7 +6099,6 @@ diatheses
 dizened
 deliberations
 deraigning
-divest
 dispirits
 deceptively
 derailing
@@ -15440,6 +15439,7 @@ displeasured
 doating
 disintegrationist
 devils
+divest
 domage
 domainal
 dummel
