@@ -13191,7 +13191,6 @@ dipeptidase
 disuniter
 disperple
 diadem
-deflourish
 didactive
 detonates
 desynonymization
@@ -17558,6 +17557,7 @@ drugs
 druidess
 dunghilly
 druidical
+deflourish
 denumeral
 disincarcerate
 drouked
