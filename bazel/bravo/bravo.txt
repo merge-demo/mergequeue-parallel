@@ -6448,7 +6448,6 @@ backdown
 bepepper
 ballat
 bullweed
-booting
 baboot
 bloodwit
 bobbysoxer
@@ -12774,6 +12773,7 @@ bucolic
 bullfice
 bookwards
 byronite
+booting
 basisidia
 bookworm
 booleans
