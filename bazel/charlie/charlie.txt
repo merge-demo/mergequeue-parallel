@@ -6832,7 +6832,6 @@ consultee
 chubascos
 clonks
 cloze
-celsian
 cousins
 cashbox
 celt
@@ -26472,6 +26471,7 @@ cotton
 chumpishness
 cottoner
 copiapite
+celsian
 crockeries
 cottonian
 cottonization
