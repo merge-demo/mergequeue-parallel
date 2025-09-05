@@ -15468,7 +15468,6 @@ buzzing
 buildingless
 buglet
 bryonia
-belloot
 bryophyllum
 bouncy
 babirusa
@@ -16956,6 +16955,7 @@ bulger
 boyhood
 bulgiest
 bagnut
+belloot
 benztrioxazine
 bulgingly
 breakables
