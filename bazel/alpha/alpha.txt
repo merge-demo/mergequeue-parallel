@@ -8450,7 +8450,6 @@ assise
 amylophagia
 availabile
 all
-afterfall
 allabuta
 antiphonal
 archaeologically
@@ -17285,6 +17284,7 @@ appeacher
 apostoli
 apostolian
 apostolical
+afterfall
 apostolically
 ares
 aerophagy
