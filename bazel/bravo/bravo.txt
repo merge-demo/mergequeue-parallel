@@ -2523,7 +2523,6 @@ barid
 bronchostenosis
 bereaving
 burgus
-buckleya
 barye
 burglarise
 bestrewn
@@ -2956,6 +2955,7 @@ biron
 boloed
 beaverish
 bemazed
+buckleya
 boltsmith
 bicentral
 blunderingly
