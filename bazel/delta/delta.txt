@@ -2375,6 +2375,7 @@ doodads
 dispelled
 donny
 dripstick
+deek
 disaffects
 decima
 decimalism
@@ -5198,7 +5199,6 @@ disseminated
 distortedness
 denominate
 distemperature
-deek
 diaphote
 desmosis
 declaimers
