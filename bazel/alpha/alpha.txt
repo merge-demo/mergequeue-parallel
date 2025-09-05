@@ -5366,6 +5366,7 @@ alahee
 aftercost
 anatine
 aftercrop
+amebicidal
 acanthodian
 aftercure
 afterdays
@@ -7263,7 +7264,6 @@ albificative
 analogizing
 assecurator
 albigensian
-amebicidal
 alveolonasal
 alsinaceae
 albigensianism
