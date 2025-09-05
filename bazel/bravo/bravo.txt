@@ -3802,6 +3802,7 @@ boreas
 baulked
 bearbane
 bequeaths
+boomy
 behight
 broccoli
 bhoy
@@ -7666,7 +7667,6 @@ bagleaves
 bulbotuber
 bhaktimarga
 barthite
-boomy
 behavioral
 bhangi
 bhat
