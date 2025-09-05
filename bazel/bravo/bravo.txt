@@ -913,6 +913,7 @@ balmily
 balewort
 burbush
 bimodality
+beaverite
 belanda
 bago
 besprinkled
@@ -8665,7 +8666,6 @@ besmut
 beseeching
 bogwood
 befortune
-beaverite
 bulldoggish
 bullethead
 betoss
