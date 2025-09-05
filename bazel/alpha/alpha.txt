@@ -9903,6 +9903,7 @@ allege
 attachers
 antares
 animalness
+absorptance
 antisepticise
 adirondack
 armatured
@@ -11315,7 +11316,6 @@ auguster
 amplexus
 autocephaly
 arthragra
-absorptance
 adjugate
 ampliative
 aiguiere
