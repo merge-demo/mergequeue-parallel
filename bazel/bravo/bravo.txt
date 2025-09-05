@@ -7826,6 +7826,7 @@ bibliologies
 brains
 bismuthite
 bepommel
+bewhiten
 brachiation
 boyuna
 baldachinos
@@ -10506,7 +10507,6 @@ briton
 blepharoatheroma
 break
 bipectinate
-bewhiten
 bulbocodium
 bibless
 bipartizan
