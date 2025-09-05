@@ -8577,7 +8577,6 @@ brightsomeness
 bowling
 bryales
 benzo
-billman
 blechnum
 basigenic
 baronizing
@@ -13759,6 +13758,7 @@ bedlam
 brewage
 brontide
 brachydactyly
+billman
 bowable
 bowback
 bushment
