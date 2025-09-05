@@ -2041,7 +2041,6 @@ burl
 bankruptcy
 boltel
 bravadoism
-bankrupting
 bluebutton
 babylonia
 bemock
@@ -10398,6 +10397,7 @@ baidya
 bullfinch
 blankness
 boojum
+bankrupting
 blanks
 beesting
 bangster
