@@ -14680,7 +14680,6 @@ castellan
 cicatrisate
 cystotrachelotomy
 cadenza
-cycloloma
 cystourethritis
 chirurgy
 calyxes
@@ -28543,6 +28542,7 @@ creedsman
 criticizes
 creeker
 creekfish
+cycloloma
 creekfishes
 cothurnni
 catoptrical
