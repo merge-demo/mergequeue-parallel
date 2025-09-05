@@ -1282,6 +1282,7 @@ dauber
 dauberies
 dramatic
 dumpings
+diapause
 diastaltic
 decoloured
 dobsons
@@ -11879,7 +11880,6 @@ deferrals
 dislodges
 discriminoid
 decemberly
-diapause
 diacodion
 docquet
 demele
