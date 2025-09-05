@@ -5602,7 +5602,6 @@ depersonalized
 deflated
 doryphoros
 dacelo
-deepwater
 defrauded
 discouraging
 duddy
@@ -9372,6 +9371,7 @@ differenced
 differences
 dryad
 drawnness
+deepwater
 distraction
 destroyable
 deutoplasmic
