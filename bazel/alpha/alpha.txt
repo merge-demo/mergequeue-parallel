@@ -16486,6 +16486,7 @@ apayao
 apaid
 allochetia
 aciculums
+apertures
 asonant
 apalit
 apanaged
@@ -16595,7 +16596,6 @@ axoneure
 alioth
 archplotter
 acceder
-apertures
 aperu
 aperulosid
 apes
