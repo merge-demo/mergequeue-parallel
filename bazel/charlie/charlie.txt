@@ -5816,6 +5816,7 @@ crosscheck
 catfall
 catfalls
 catfight
+cilician
 creeled
 catfish
 coalmonger
@@ -5970,7 +5971,6 @@ catkin
 coassession
 comptonia
 catkinate
-cilician
 curatory
 candify
 catlike
