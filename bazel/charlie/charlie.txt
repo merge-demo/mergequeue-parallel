@@ -13019,7 +13019,6 @@ cyanophile
 cyanophoric
 cookstove
 cyanopia
-colloquize
 cyanoplastid
 cyanoplatinite
 cyanose
@@ -23215,6 +23214,7 @@ constringing
 cajon
 construability
 colletes
+colloquize
 clerestory
 cataractine
 cabernets
