@@ -3092,7 +3092,6 @@ antiscians
 admonished
 acropathy
 actualistic
-alphabeted
 actuality
 alcayde
 adnexa
@@ -4567,6 +4566,7 @@ aegrotant
 alabastron
 arboresque
 archiving
+alphabeted
 azazel
 askile
 aegrotat
