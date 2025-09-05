@@ -1817,7 +1817,6 @@ cambeva
 cambia
 cosmonautics
 cambiata
-charlatanry
 choregy
 cambio
 cementa
@@ -28753,6 +28752,7 @@ colleagues
 chok
 cines
 cothe
+charlatanry
 crescentlike
 chirl
 crescentoid
