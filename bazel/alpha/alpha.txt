@@ -1799,7 +1799,6 @@ adrienne
 admirative
 acerbity
 acerbityacerose
-acerbitude
 acerdol
 acerli
 amalgamater
@@ -9688,6 +9687,7 @@ amalic
 aisling
 amalrician
 argosine
+acerbitude
 ambery
 anopsias
 aloeswood
