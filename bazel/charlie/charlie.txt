@@ -5533,6 +5533,7 @@ coleplant
 constabulary
 coptic
 cataloguing
+combs
 clankety
 catalonian
 catalos
@@ -31088,7 +31089,6 @@ columnarity
 chiggerweed
 cunenei
 coue
-combs
 cunette
 choanite
 catharism
