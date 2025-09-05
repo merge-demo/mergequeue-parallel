@@ -8987,7 +8987,6 @@ bionomically
 bathythermogram
 beckie
 booky
-biopsychology
 bidental
 bize
 bitentaculate
@@ -14691,6 +14690,7 @@ bullwork
 braunite
 braunites
 bacury
+biopsychology
 bushranging
 beribbon
 bungled
