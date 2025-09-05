@@ -9908,6 +9908,7 @@ brigantinebrigantines
 bituminous
 bisecting
 beryllate
+brevit
 bilinguality
 bridleman
 burbles
@@ -15060,7 +15061,6 @@ bushhammer
 breviradiate
 blithely
 bawty
-brevit
 battalia
 brevity
 brevities
