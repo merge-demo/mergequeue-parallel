@@ -2453,7 +2453,6 @@ cabalists
 counterclassifications
 candid
 canadianization
-curchef
 copperish
 conject
 conversive
@@ -23758,6 +23757,7 @@ caste
 cacophonist
 coyote
 crimped
+curchef
 contraplete
 canulate
 cherogril
