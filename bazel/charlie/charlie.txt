@@ -2881,6 +2881,7 @@ cantaliver
 cantaloup
 careerer
 cantaloupes
+ctenoidean
 cantando
 cantankerous
 cantankerously
@@ -19007,7 +19008,6 @@ collect
 certify
 collected
 cranberry
-ctenoidean
 constables
 collectibility
 collection
