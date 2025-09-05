@@ -687,7 +687,6 @@ antinomy
 aboulic
 amyloplastic
 abounder
-abounding
 acrolithic
 abounds
 about
@@ -4699,6 +4698,7 @@ arboreal
 aperture
 amidase
 aequoreal
+abounding
 actinolitic
 aerobioscope
 aerobiosis
