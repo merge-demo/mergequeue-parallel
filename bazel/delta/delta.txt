@@ -5984,7 +5984,6 @@ deviscerate
 draughtiest
 darcy
 doctorlike
-deckswabber
 debord
 decuples
 deboistly
@@ -14302,6 +14301,7 @@ demilitarizing
 disburses
 disembargo
 demanders
+deckswabber
 dematerialization
 ditchers
 deathwards
