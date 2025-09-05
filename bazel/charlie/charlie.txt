@@ -22217,7 +22217,6 @@ campanularian
 choicer
 cursorius
 collarman
-courlans
 congeed
 codder
 cannelure
@@ -30036,6 +30035,7 @@ carnivores
 controverter
 chint
 crowdedly
+courlans
 circumambiencies
 cheson
 cliff
