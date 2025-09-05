@@ -9812,6 +9812,7 @@ bityite
 berlina
 burnsian
 buccobranchial
+bilbo
 banderols
 bitmap
 buccaneering
@@ -12767,7 +12768,6 @@ blemisher
 batatas
 bucolic
 bullfice
-bilbo
 bookwards
 byronite
 basisidia
