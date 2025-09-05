@@ -11801,7 +11801,6 @@ anelace
 anankastic
 amok
 aqueomercurial
-ananke
 anansi
 antimasquerade
 anammonide
@@ -20445,6 +20444,7 @@ attorning
 arthral
 amesace
 academe
+ananke
 adoptive
 amie
 antialcoholic
