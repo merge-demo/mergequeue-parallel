@@ -2308,7 +2308,6 @@ autocondensation
 acinetic
 antihemisphere
 anfractuosity
-acinetiform
 ashes
 acaricidal
 acinic
@@ -25122,6 +25121,7 @@ ahem
 apron
 ambisyllabic
 axiomatical
+acinetiform
 amorosity
 armings
 aspergil
