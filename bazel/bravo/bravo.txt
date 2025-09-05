@@ -300,6 +300,7 @@ blasthole
 birdbrain
 bacis
 boltuprightness
+benorth
 bespangled
 belar
 back
@@ -6222,7 +6223,6 @@ benni
 bennies
 benomyl
 backspread
-benorth
 benefact
 beggared
 barbigerous
