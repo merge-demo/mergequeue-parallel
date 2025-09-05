@@ -17941,7 +17941,6 @@ depopulates
 doublers
 demodulate
 dispermous
-degasser
 disillusionise
 dreigh
 dekares
@@ -18293,6 +18292,7 @@ dunlins
 deformedness
 demodulated
 dunnakin
+degasser
 detrains
 dialyzability
 demijohn
