@@ -11083,6 +11083,7 @@ balmiest
 beddings
 bedawn
 bathyal
+barra
 blockship
 blodite
 besmeared
@@ -13605,7 +13606,6 @@ bemuddle
 bounceback
 blowsy
 batteried
-barra
 begladding
 beclouded
 blepharophyma
