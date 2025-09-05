@@ -15731,7 +15731,6 @@ chrysograph
 claviger
 carshops
 clavilux
-chalices
 coy
 carlisle
 clavipectoral
@@ -20865,6 +20864,7 @@ chancre
 composite
 creamer
 composited
+chalices
 cajolingly
 compositely
 composites
