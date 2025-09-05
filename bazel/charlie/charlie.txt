@@ -1070,6 +1070,7 @@ calcimining
 centrifugalisation
 choppin
 cesspipe
+catapan
 crossbarred
 calcinate
 calcine
@@ -15591,7 +15592,6 @@ clat
 clathraceae
 clathraceous
 clathraria
-catapan
 cathidine
 clathrate
 choose
