@@ -4787,6 +4787,7 @@ antilogous
 aion
 antinaturalistic
 accessit
+adoperation
 aerogenes
 airplaning
 alomancy
@@ -12979,7 +12980,6 @@ avicular
 anilino
 ablins
 avidity
-adoperation
 anilinophile
 airometer
 anilins
