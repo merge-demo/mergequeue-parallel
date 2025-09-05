@@ -871,6 +871,7 @@ blackboards
 backband
 bootblack
 bloody
+basilicate
 bestial
 bagdi
 bunters
@@ -3249,7 +3250,6 @@ billywix
 bannerol
 brookable
 blushfulness
-basilicate
 basilicock
 basilidan
 basilidian
