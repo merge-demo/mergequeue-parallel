@@ -4217,7 +4217,6 @@ caret
 commerce
 caretake
 caretaker
-caretakers
 caretaking
 chastisers
 chondrosteous
@@ -28458,6 +28457,7 @@ carroches
 caromed
 curiousest
 creatress
+caretakers
 caecectomy
 creatureling
 carapo
