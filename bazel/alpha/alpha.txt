@@ -3723,7 +3723,6 @@ adipopexis
 adiposeness
 adiposity
 acrook
-abdominoscope
 apsidally
 adipous
 adnouns
@@ -13168,6 +13167,7 @@ algarde
 ateeter
 annoying
 annueler
+abdominoscope
 aorticorenal
 anisomyodian
 amtrak
