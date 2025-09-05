@@ -6771,7 +6771,6 @@ airspaces
 ancience
 architectonica
 apostolic
-abo
 alec
 airspeeds
 airstream
@@ -12968,6 +12967,7 @@ actinobacillosis
 allotypic
 anigh
 autognosis
+abo
 acronical
 ascus
 anil
