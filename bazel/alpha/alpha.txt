@@ -13908,7 +13908,6 @@ anomalurus
 aldamin
 aht
 antebrachial
-authorizers
 antebrachium
 amouret
 akeake
@@ -20831,6 +20830,7 @@ amytal
 ascaridae
 ascarides
 appertains
+authorizers
 ablactating
 adipometer
 altaic
