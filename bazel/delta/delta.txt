@@ -3810,6 +3810,7 @@ deimos
 daffs
 dallan
 dizzied
+decolorate
 dishonorableness
 differing
 deindividualize
@@ -4577,7 +4578,6 @@ disselboom
 defencelessly
 drossiest
 disjunction
-decolorate
 demiliterate
 despotical
 diaskeuasis
