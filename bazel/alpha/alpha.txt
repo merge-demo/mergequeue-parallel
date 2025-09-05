@@ -20842,6 +20842,7 @@ ascarids
 aerophagia
 alpinist
 ascelli
+atmometric
 ascellus
 abolitionised
 ascend
@@ -22691,7 +22692,6 @@ atmologic
 anisotropous
 alterability
 arya
-atmometric
 allheal
 atmosphere
 arraigns
