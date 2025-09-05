@@ -2289,7 +2289,6 @@ dactylioglyphic
 danglement
 drat
 diacetyls
-delectations
 denizens
 disseizin
 dilapidate
@@ -18026,6 +18025,7 @@ dulcification
 dropforging
 drivelling
 disseminator
+delectations
 deporture
 dentelle
 dyers
