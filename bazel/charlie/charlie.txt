@@ -1837,7 +1837,6 @@ civvies
 catapult
 chloriodide
 cambium
-croupier
 cessionee
 cambiums
 crimble
@@ -13993,6 +13992,7 @@ conservatist
 cippus
 confirmative
 cilioflagellata
+croupier
 chitra
 chemosensitive
 crimp
