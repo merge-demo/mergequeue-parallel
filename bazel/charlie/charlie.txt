@@ -10032,7 +10032,6 @@ cyclogram
 cornaceae
 cheskey
 campine
-cheslep
 coleochaete
 chimney
 chesoun
@@ -12470,6 +12469,7 @@ chromophobia
 chromophobic
 calamistrate
 conniver
+cheslep
 chromophorous
 chromophotography
 chromophotographic
