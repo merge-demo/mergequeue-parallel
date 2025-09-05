@@ -4105,7 +4105,6 @@ cardiomyopathy
 camshaft
 cardionecrosis
 cannibal
-cardioneurosis
 cardiopath
 cardiopathic
 cardiophrenia
@@ -9046,6 +9045,7 @@ coimplicant
 charpai
 capacitates
 crataegus
+cardioneurosis
 charpit
 canape
 charpoys
