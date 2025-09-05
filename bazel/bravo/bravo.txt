@@ -11720,7 +11720,6 @@ bangs
 bigarade
 billon
 baroscopic
-breton
 bedecks
 bobsledded
 britoness
@@ -14175,6 +14174,7 @@ binately
 baikerite
 bractlets
 bashlyks
+breton
 bryanite
 bag
 bawdily
