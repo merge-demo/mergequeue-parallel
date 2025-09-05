@@ -9105,7 +9105,6 @@ chartophylacia
 cerebra
 chartophylacium
 chartreux
-centration
 chartroom
 commonefaction
 charts
@@ -14654,6 +14653,7 @@ captans
 catch
 concomitancy
 cenacle
+centration
 coquelicot
 cystoplegia
 circumspection
