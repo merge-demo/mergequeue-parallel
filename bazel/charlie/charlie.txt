@@ -14180,7 +14180,6 @@ circumbendibus
 circumboreal
 cycases
 callityped
-choleic
 calyptrogen
 carpellum
 cyclotella
@@ -19331,6 +19330,7 @@ colonical
 critically
 crassier
 colonies
+choleic
 colonisability
 cloture
 colonisable
