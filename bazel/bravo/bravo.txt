@@ -10420,7 +10420,6 @@ boghole
 bimuscular
 barytostrontianite
 blaoner
-buoyancies
 backyarder
 blares
 besauce
@@ -16524,6 +16523,7 @@ bedmakers
 bubinga
 bougainvillea
 bacillary
+buoyancies
 bubonocele
 bibliopolic
 beamster
