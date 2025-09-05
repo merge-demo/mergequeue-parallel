@@ -10284,7 +10284,6 @@ chainsmen
 chickenberry
 counterpole
 citoyens
-chickenbill
 chickenbreasted
 crosspoints
 cheremiss
@@ -31103,6 +31102,7 @@ camelid
 cuniculus
 crosspatches
 cuniforms
+chickenbill
 cunila
 canafistula
 characterizable
