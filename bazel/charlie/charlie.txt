@@ -12124,6 +12124,7 @@ clave
 chris
 calibogus
 cylindrically
+cystiform
 cookhouses
 caraunda
 chrysalid
@@ -14591,7 +14592,6 @@ cystidium
 candescent
 cenobite
 contrapuntalist
-cystiform
 clockmutch
 cystigerous
 cystignathidae
