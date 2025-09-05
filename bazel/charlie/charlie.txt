@@ -19377,7 +19377,6 @@ coloppe
 cavilled
 chrimsel
 coloptosis
-colopuncture
 coloquintid
 cenozoic
 cordis
@@ -19861,6 +19860,7 @@ convolutions
 charade
 comestion
 cometary
+colopuncture
 cryobiology
 cometaria
 cabulla
