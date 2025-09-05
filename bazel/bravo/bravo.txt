@@ -256,7 +256,6 @@ bactrites
 betrothed
 bathyanesthesia
 bachelordom
-bachelorette
 bachelorhood
 becoming
 bachelorly
@@ -12855,6 +12854,7 @@ breastwise
 boong
 bearwood
 bourignonist
+bachelorette
 buckplate
 blunders
 boophilus
