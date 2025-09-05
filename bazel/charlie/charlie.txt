@@ -4604,7 +4604,6 @@ cunnings
 coverture
 carousals
 centrospermae
-chm
 carouse
 carousels
 carp
@@ -20856,6 +20855,7 @@ clams
 composable
 composant
 composed
+chm
 cacocholia
 canst
 composer
