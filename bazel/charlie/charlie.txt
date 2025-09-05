@@ -7777,7 +7777,6 @@ canabae
 cooeyed
 cervicomuscular
 cerviconasal
-cribrous
 crotchy
 coeliomyalgia
 cervicoscapular
@@ -9662,6 +9661,7 @@ choop
 chehalis
 chronaxia
 carboniser
+cribrous
 cotuit
 contemplatingly
 cheyenne

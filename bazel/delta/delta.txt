@@ -5094,7 +5094,6 @@ desexes
 durwaun
 detect
 deconcentrated
-dutcher
 dendrology
 digastric
 daubes
@@ -16544,6 +16543,7 @@ domesticities
 denarinarii
 diagramming
 datiscin
+dutcher
 deodorizing
 dracone
 docilities
