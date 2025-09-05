@@ -6402,7 +6402,6 @@ bergamiol
 blastocyst
 bumpering
 backcloth
-barangay
 biternate
 benzothiofuran
 benzotrichloride
@@ -6470,6 +6469,7 @@ branchstand
 bepray
 bepraiser
 bagge
+barangay
 bombyx
 begrudgingly
 bepretty
