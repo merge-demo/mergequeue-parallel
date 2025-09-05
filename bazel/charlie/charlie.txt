@@ -1258,6 +1258,7 @@ calgary
 caliban
 cunea
 calaverite
+ciphony
 compulsatory
 calibers
 colunar
@@ -12304,7 +12305,6 @@ coastside
 christopher
 christos
 christward
-ciphony
 catholicalness
 chromaffinic
 corelate
