@@ -12548,7 +12548,6 @@ boroughlet
 bemocks
 bardane
 bonk
-begrudging
 bagpiping
 bonne
 bonnet
@@ -17327,6 +17326,7 @@ buccinator
 bushfighter
 bungee
 bunger
+begrudging
 bisectional
 bunghole
 brumby
