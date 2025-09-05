@@ -1321,7 +1321,6 @@ betorcinol
 biogasses
 bury
 bedbug
-bothridia
 boleite
 bacterioprecipitin
 bishophood
@@ -5609,6 +5608,7 @@ billyer
 br
 barristerial
 bathrobe
+bothridia
 busheller
 belches
 bytime
