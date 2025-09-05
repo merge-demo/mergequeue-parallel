@@ -3261,7 +3261,6 @@ babydom
 birder
 binormal
 bitumens
-bolted
 basilweed
 basinal
 bushland
@@ -8436,6 +8435,7 @@ bilifuscin
 biosocial
 brevicauda
 bilimbing
+bolted
 beaufin
 bilin
 boddagh
