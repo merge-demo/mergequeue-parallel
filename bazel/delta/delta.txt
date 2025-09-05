@@ -4176,7 +4176,6 @@ displeasant
 deaconess
 durneder
 dunstable
-discolorization
 dicyanogen
 desynapsis
 dells
@@ -12913,6 +12912,7 @@ devitrify
 dichoree
 diacoele
 decalcify
+discolorization
 dubhe
 decalcifier
 degomme
