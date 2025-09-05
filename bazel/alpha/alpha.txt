@@ -5490,7 +5490,6 @@ afterward
 acipenseroid
 afterwhile
 andrias
-afterwise
 afterwit
 axonolipa
 afterword
@@ -23302,6 +23301,7 @@ averts
 acca
 aestheticize
 audiological
+afterwise
 audiologies
 aliquid
 anconitis
