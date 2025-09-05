@@ -3044,7 +3044,6 @@ degradand
 defaces
 devide
 disennoble
-diminutal
 decongestive
 diminutiveness
 defacing
@@ -5629,6 +5628,7 @@ disembargoed
 dentinoblast
 dephycercal
 deteriorated
+diminutal
 demounting
 demythologised
 dephlegmation
