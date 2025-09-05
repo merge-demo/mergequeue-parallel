@@ -6827,7 +6827,6 @@ desmoids
 disproportionalness
 draughted
 drawgear
-dupla
 desmoncus
 danknesses
 dryobalanops
@@ -10385,6 +10384,7 @@ discophore
 dyne
 dioptra
 dioptrate
+dupla
 divinizes
 demove
 dioptric
