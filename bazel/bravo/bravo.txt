@@ -5238,7 +5238,6 @@ barytons
 bothsided
 brog
 begazing
-bimasty
 borderer
 bedabbling
 bridesmaiding
@@ -16506,6 +16505,7 @@ brachiocrural
 bubblement
 bilamellate
 beerier
+bimasty
 bubbler
 barit
 brachyurus
