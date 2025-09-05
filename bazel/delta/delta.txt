@@ -1507,6 +1507,7 @@ dartman
 deactivates
 demonetizing
 delphinium
+decomponent
 disciplinarity
 dicranoid
 disappointingness
@@ -6754,7 +6755,6 @@ desinent
 dallying
 desinential
 defectious
-decomponent
 desynonymize
 deevey
 dopatta
