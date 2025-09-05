@@ -10005,6 +10005,7 @@ byzants
 bariolage
 bronzify
 bilander
+bungarus
 boomerang
 bizarreness
 burys
@@ -10801,7 +10802,6 @@ blanca
 blepharotomy
 blere
 beckon
-bungarus
 backfills
 blepharoadenoma
 behooved
