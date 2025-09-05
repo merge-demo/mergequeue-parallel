@@ -14527,7 +14527,6 @@ acadian
 arsenophenylglycin
 antianopheline
 antianthropocentric
-akim
 antorbital
 antianthropomorphism
 amethystlike
@@ -17666,6 +17665,7 @@ applicatory
 avine
 applicators
 appliedly
+akim
 afterdischarge
 auxographic
 applier
