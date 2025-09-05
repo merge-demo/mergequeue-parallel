@@ -13647,7 +13647,6 @@ barathrum
 bourdons
 bourg
 beckoned
-bourgade
 barble
 bonailie
 bourgeoisie
@@ -14200,6 +14199,7 @@ birdfarms
 bewaste
 besot
 belamour
+bourgade
 biomechanics
 balloonish
 bradyphrasia
