@@ -4839,6 +4839,7 @@ aeromancer
 aeromechanic
 alphameric
 aeromedical
+asteroidal
 aerometer
 affidare
 acetamidine
@@ -16282,7 +16283,6 @@ aked
 antivivisectionist
 acrospiring
 antivivisectionists
-asteroidal
 antiwarlike
 antiwaste
 ameerate
