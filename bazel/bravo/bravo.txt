@@ -5798,7 +5798,6 @@ beleaps
 bldg
 bricks
 benefactrix
-bellicism
 beyonds
 bellicist
 bromometry
@@ -10202,6 +10201,7 @@ brominism
 blennorrhoea
 bilobiate
 boolean
+bellicism
 biofeedback
 bratty
 bellweather
