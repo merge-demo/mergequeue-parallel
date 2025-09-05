@@ -6793,6 +6793,7 @@ burley
 basophils
 baroi
 butty
+bitternut
 bes
 boaedon
 busboy
@@ -9868,7 +9869,6 @@ bitterishness
 begulfs
 buildup
 beggarly
-bitternut
 benzoated
 buhl
 biotite
