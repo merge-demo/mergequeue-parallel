@@ -4859,6 +4859,7 @@ balistarius
 bloodedness
 bistered
 beefalos
+bossship
 bilimbis
 blackheartedly
 boundlessly
@@ -10710,7 +10711,6 @@ brushup
 backspierer
 bharata
 budorcas
-bossship
 bangiaceous
 beggarism
 brinks
