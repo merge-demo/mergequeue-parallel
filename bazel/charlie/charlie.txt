@@ -426,6 +426,7 @@ chain
 communications
 cactoid
 crocodilean
+clawer
 cactus
 civilisable
 chancered
@@ -15730,7 +15731,6 @@ chips
 clavolet
 clawed
 conveneries
-clawer
 cubbishly
 clawing
 clawk
