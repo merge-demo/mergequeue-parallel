@@ -1716,6 +1716,7 @@ diverticular
 digamous
 diphyllobothrium
 droner
+deprecated
 deathtrap
 dendrophile
 devocalization
@@ -16671,7 +16672,6 @@ dossers
 dispergated
 dolichosauri
 dingleberry
-deprecated
 didelphian
 dragonhood
 downily

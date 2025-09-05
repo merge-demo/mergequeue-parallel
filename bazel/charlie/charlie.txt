@@ -18337,7 +18337,6 @@ crenelled
 cogger
 cogging
 creedist
-coggledy
 cobbra
 cogitate
 commercializes
@@ -22539,6 +22538,7 @@ conjuncts
 conjunctur
 conjunctures
 conjurations
+coggledy
 conjured
 conjurement
 championlike
