@@ -7322,6 +7322,7 @@ cephaloid
 cuticles
 crepuscle
 cephalology
+courtin
 cryolites
 coquettishness
 cephalomant
@@ -27369,7 +27370,6 @@ courtierly
 chuck
 cerotate
 cabinetmaker
-courtin
 catastatic
 cauldron
 courting
