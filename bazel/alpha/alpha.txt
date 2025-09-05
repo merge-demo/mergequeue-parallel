@@ -15205,6 +15205,7 @@ antiharmonist
 archcorsair
 antihelix
 aitiotropic
+accentuator
 antilopine
 antihero
 azulejo
@@ -18172,7 +18173,6 @@ arabians
 amity
 arabica
 alodies
-accentuator
 arabicism
 agush
 archont
