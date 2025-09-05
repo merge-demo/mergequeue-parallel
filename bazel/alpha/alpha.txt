@@ -1687,6 +1687,7 @@ actinotherapy
 anglophobe
 aeroelastics
 accusable
+acicularity
 accusal
 accusant
 animadvert
@@ -3827,7 +3828,6 @@ alytes
 amphibiously
 amgarn
 adjutant
-acicularity
 antimonopoly
 anesthetic
 adtevac
