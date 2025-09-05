@@ -2474,7 +2474,6 @@ declamatory
 decibar
 dendrochronology
 dorsale
-disassimilation
 derivational
 dimming
 dermoid
@@ -5638,6 +5637,7 @@ disinclose
 darst
 disseveration
 datedly
+disassimilation
 devastates
 doolees
 depictions
