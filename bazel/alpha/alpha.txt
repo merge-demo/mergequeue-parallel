@@ -19145,6 +19145,7 @@ areca
 animisms
 arecain
 arecas
+asiderite
 atmolyzer
 agitatedly
 arecoline
@@ -21158,7 +21159,6 @@ arcuated
 asiden
 archons
 afterstudy
-asiderite
 arrestor
 anhydrate
 anarthric
