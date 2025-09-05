@@ -8865,6 +8865,7 @@ classico
 charadrius
 charango
 chorioidal
+chlorobenzene
 colibacillosis
 chuddars
 charbocle
@@ -9473,7 +9474,6 @@ cardanic
 clot
 capos
 checkhook
-chlorobenzene
 checky
 cityful
 circularising
