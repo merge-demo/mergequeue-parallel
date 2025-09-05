@@ -13224,6 +13224,7 @@ cyclode
 cyclodiene
 club
 cycloganoid
+calendarian
 cummin
 crossbencher
 climbable
@@ -30632,7 +30633,6 @@ coequation
 collenchymatic
 cuda
 chimalakwe
-calendarian
 chanelled
 caterwauls
 cudbear
