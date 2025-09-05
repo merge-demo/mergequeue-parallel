@@ -5259,6 +5259,7 @@ anidiomatic
 autostethoscope
 affrontive
 adenose
+autostylic
 affronts
 affuse
 affusion
@@ -13361,7 +13362,6 @@ annelidous
 aioli
 annelism
 annellata
-autostylic
 arriage
 alima
 anneloid
