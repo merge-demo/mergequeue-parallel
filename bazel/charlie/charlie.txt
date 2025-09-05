@@ -14672,6 +14672,7 @@ conurbations
 clayman
 coliander
 cystospastic
+chemisorption
 cystospore
 cystostomies
 chamberlet
@@ -19707,7 +19708,6 @@ coquilla
 camarilla
 cokie
 catogene
-chemisorption
 circumnavigation
 clefts
 chaule
