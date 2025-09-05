@@ -6386,6 +6386,7 @@ cycadlike
 caveator
 choaty
 caveators
+cornulites
 compares
 canell
 cavefish
@@ -25741,7 +25742,6 @@ corroborative
 chrism
 cathedratically
 corroboratory
-cornulites
 corroboratorily
 collectional
 creem
