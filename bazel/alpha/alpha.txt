@@ -5527,6 +5527,7 @@ axillary
 agade
 apicial
 ascalabota
+anthorine
 acrylonitrile
 atopies
 almeidina
@@ -17644,7 +17645,6 @@ affectless
 adopts
 apply
 adjacencies
-anthorine
 appliable
 appliance
 apocentre
