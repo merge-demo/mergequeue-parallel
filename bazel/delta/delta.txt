@@ -11569,7 +11569,6 @@ dynasties
 discomfiter
 discomfits
 discomfort
-diaphragmatic
 demarch
 dismounts
 dieticians
@@ -18403,6 +18402,7 @@ doughmaker
 duodiodepentode
 duodrama
 dacryoblenorrhea
+diaphragmatic
 dorrs
 decelerations
 disheveled
