@@ -4585,6 +4585,7 @@ antiradicalism
 amutter
 anchoretic
 aenigmatite
+antalkali
 aeolia
 ated
 aeolic
@@ -18690,7 +18691,6 @@ anteriors
 archenia
 arrenotoky
 ailantine
-antalkali
 archeocyte
 acneform
 ascolichenes
