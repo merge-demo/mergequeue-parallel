@@ -8199,6 +8199,7 @@ chalcogenide
 coenaculum
 comas
 caucho
+cnidophorous
 chalcographic
 chalcographical
 chalcographist
@@ -21430,7 +21431,6 @@ conclusionally
 conclusive
 coexistency
 cohere
-cnidophorous
 compassionated
 chays
 criterion
