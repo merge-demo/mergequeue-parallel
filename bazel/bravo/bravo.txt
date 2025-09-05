@@ -10102,7 +10102,6 @@ bonhomous
 biopsychologies
 battue
 beatitudes
-blackcaps
 bejeweled
 borrelia
 barysilite
@@ -15378,6 +15377,7 @@ bumper
 brodeglass
 braggishly
 boundary
+blackcaps
 bilboes
 breaststroker
 breadberry
