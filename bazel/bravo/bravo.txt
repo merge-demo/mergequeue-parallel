@@ -6073,6 +6073,7 @@ baronetising
 bulbel
 bhd
 barricader
+banished
 bend
 bester
 bub
@@ -10807,7 +10808,6 @@ blessingly
 bandala
 bider
 bhikku
-banished
 blethe
 buttals
 bromomethane
