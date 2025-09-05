@@ -810,6 +810,7 @@ batrachophobia
 benignness
 blake
 biaswise
+boltage
 baffies
 bacalao
 bonnetmen
@@ -12229,7 +12230,6 @@ briefless
 byssiferous
 bolt
 boasters
-boltage
 brightness
 biasses
 boltcutter
