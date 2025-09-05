@@ -10371,6 +10371,7 @@ ding
 diseuses
 demurrers
 diagrammers
+diatomiferous
 dogdoms
 ditton
 drunkly
@@ -13747,7 +13748,6 @@ dialkyl
 danegeld
 derelict
 donates
-diatomiferous
 diplasion
 demetrian
 debarbarization
