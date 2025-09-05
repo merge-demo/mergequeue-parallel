@@ -4645,6 +4645,7 @@ albespine
 aerations
 azurine
 aery
+antimasquer
 abbreviator
 authoritatively
 anthologizing
@@ -15344,7 +15345,6 @@ asslike
 antimason
 anticonformity
 antimasque
-antimasquer
 afterstrain
 assidean
 airliners
