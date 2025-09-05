@@ -6866,6 +6866,7 @@ besetment
 bozo
 besetters
 bricklayer
+benzocoumaran
 blessed
 besew
 bellicosities
@@ -8320,7 +8321,6 @@ belard
 bemists
 buzukis
 beatster
-benzocoumaran
 briquet
 bignoniaceous
 betask
