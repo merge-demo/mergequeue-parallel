@@ -3470,7 +3470,6 @@ antipedal
 adenocystoma
 antepectoral
 adenocystomatous
-agones
 acclinal
 adenodermia
 adenodynia
@@ -14544,6 +14543,7 @@ anaspidacea
 antiar
 antiarin
 anthropomorphism
+agones
 alchemical
 antiarins
 aswim
