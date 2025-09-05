@@ -3518,6 +3518,7 @@ comatulae
 captor
 capturable
 catechized
+collator
 capture
 captured
 captures
@@ -18991,7 +18992,6 @@ ceste
 chickahominy
 catouse
 celiotomies
-collator
 chorotega
 couldna
 clumped
