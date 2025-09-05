@@ -14272,7 +14272,6 @@ anthracic
 achira
 angiospastic
 achromasia
-awunctive
 achromacyte
 anthracomancy
 anthracomarti
@@ -18316,6 +18315,7 @@ assoluto
 abacterial
 araucariaceae
 actions
+awunctive
 araucarioxylon
 arawa
 arhythmia
