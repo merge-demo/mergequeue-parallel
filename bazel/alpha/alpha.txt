@@ -5782,7 +5782,6 @@ anartismos
 agglutinate
 aromatically
 analytically
-agglutination
 arenaceous
 arri
 adamantine
@@ -18835,6 +18834,7 @@ anthropologist
 antimeningococcic
 auricle
 archipallium
+agglutination
 appetizingly
 abedge
 archipelagian
