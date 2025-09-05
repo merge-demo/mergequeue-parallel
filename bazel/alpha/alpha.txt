@@ -1878,6 +1878,7 @@ acetylenic
 antony
 ametropic
 acetylfluoride
+awn
 appendix
 affirmance
 acetylglycine
@@ -25021,7 +25022,6 @@ aweary
 awlworts
 artilleryman
 awmous
-awn
 airing
 awned
 angelhood

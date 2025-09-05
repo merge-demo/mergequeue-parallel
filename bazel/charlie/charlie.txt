@@ -10820,7 +10820,6 @@ cordwain
 chippendale
 chemiatrist
 chippered
-cardosanto
 countermeasures
 carpetbaggers
 connectedness
@@ -22793,6 +22792,7 @@ captiously
 clovers
 cabers
 consecrator
+cardosanto
 consecratory
 consectary
 cataloes
