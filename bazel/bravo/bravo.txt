@@ -5645,7 +5645,6 @@ belemnoid
 belayed
 bowssen
 bentstar
-boer
 barony
 biogeochemical
 bibliotaph
@@ -13987,6 +13986,7 @@ bismuthic
 booths
 bemeal
 bakshished
+boer
 brabanter
 blindfolder
 bloviates
