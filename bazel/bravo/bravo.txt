@@ -3468,6 +3468,7 @@ boobook
 byeman
 bronchiarctia
 blenk
+barbacoa
 bevatron
 bracket
 blights
@@ -5383,7 +5384,6 @@ boozier
 bakshish
 begummed
 biolite
-barbacoa
 butcher
 behallow
 bowldering
