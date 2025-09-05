@@ -11030,6 +11030,7 @@ chitinous
 chitins
 chitlin
 concentering
+compotator
 chitling
 chitlings
 cowbirds
@@ -28033,7 +28034,6 @@ crampoon
 carefree
 cran
 contemplature
-compotator
 cranberries
 cranch
 chondrigen
