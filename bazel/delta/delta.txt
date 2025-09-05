@@ -3709,7 +3709,6 @@ delustrant
 dackering
 dehisce
 dehisced
-dichromism
 domitic
 disprove
 desmitis
@@ -9079,6 +9078,7 @@ dextrinous
 depolymerizing
 diverter
 disseminule
+dichromism
 dicrotal
 dicrotous
 deva
