@@ -8646,7 +8646,6 @@ breechloading
 basaltes
 barbadoes
 bourbonist
-bimastic
 boatbill
 bengal
 backberand
@@ -14371,6 +14370,7 @@ bignonia
 bragozzo
 brainily
 boom
+bimastic
 blaw
 braininess
 braining
