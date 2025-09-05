@@ -17584,6 +17584,7 @@ coccidology
 chape
 coccids
 chondriocont
+christiform
 coccygalgia
 coccygeal
 coccygean
@@ -24828,7 +24829,6 @@ cosheries
 coracoclavicular
 chompers
 coracocostal
-christiform
 coracoid
 coracoidal
 crazedness
