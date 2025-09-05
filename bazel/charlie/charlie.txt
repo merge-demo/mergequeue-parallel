@@ -114,7 +114,6 @@ codshead
 cabinetmaking
 chlorococcales
 capacitated
-cabinetted
 clitelline
 cabinetworker
 cabinlike
@@ -9370,6 +9369,7 @@ chaws
 chawstick
 citoyen
 chazan
+cabinetted
 chazanim
 chazans
 chazanut
