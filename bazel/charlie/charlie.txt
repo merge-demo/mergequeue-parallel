@@ -5227,7 +5227,6 @@ cassons
 cochleated
 chariotway
 cynodont
-cassowary
 cassowaries
 carotidean
 cellarers
@@ -26766,6 +26765,7 @@ clamping
 counterdogmatism
 counterdrive
 countered
+cassowary
 cypselomorph
 counterefficiency
 countereffort
