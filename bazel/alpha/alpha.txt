@@ -14778,7 +14778,6 @@ amli
 anticytolysin
 almsgiving
 alphorn
-anticize
 anticker
 anticking
 aitesis
@@ -15157,6 +15156,7 @@ alaite
 antifundamentalism
 actinopterygian
 albertinian
+anticize
 alkalinized
 actiniarian
 antigalactagogue
