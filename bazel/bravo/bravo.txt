@@ -1161,7 +1161,6 @@ baisemain
 besmears
 betaken
 blachong
-birefracting
 beudantite
 baitfish
 buffeter
@@ -17940,6 +17939,7 @@ bedot
 bronzelike
 bushwhacked
 bushwhackers
+birefracting
 balancing
 bellowsman
 busybody
