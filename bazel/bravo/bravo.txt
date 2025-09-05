@@ -13552,7 +13552,6 @@ bacchian
 bough
 barie
 belzebub
-ballproof
 bicondylar
 bibliokleptomania
 baroco
@@ -13788,6 +13787,7 @@ bromalbumin
 bowdlerisation
 bezantee
 bejel
+ballproof
 branchiostomid
 bizarres
 brewership
