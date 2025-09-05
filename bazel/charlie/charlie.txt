@@ -11600,6 +11600,7 @@ choler
 cholera
 cephalospinal
 circumjacent
+curbable
 clockings
 civilising
 cervelases
@@ -31268,7 +31269,6 @@ carabid
 coagula
 curb
 citronellal
-curbable
 curber
 curbers
 cadastrally

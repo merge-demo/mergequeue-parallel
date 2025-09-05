@@ -12077,7 +12077,6 @@ decimus
 disendow
 demideity
 dalasi
-desmodus
 disendows
 distintion
 disenfranchisement
@@ -14108,6 +14107,7 @@ detort
 decommissioning
 draughtman
 distributary
+desmodus
 distributaries
 durums
 doocot
