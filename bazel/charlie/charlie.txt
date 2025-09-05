@@ -11118,7 +11118,6 @@ chlamydobacteriales
 clamours
 castrations
 chlamydosaurus
-chlamydoselachidae
 chlamydozoa
 chlamydozoan
 chlamyphore
@@ -16170,6 +16169,7 @@ cabobs
 climbers
 cheetal
 chromosantonin
+chlamydoselachidae
 caskanet
 collinearly
 chechen
