@@ -406,6 +406,7 @@ anglophily
 alipeds
 abyes
 aerators
+annually
 abietate
 abietic
 altercation
@@ -13450,7 +13451,6 @@ anthropophagical
 announced
 announcing
 annualized
-annually
 apair
 annueller
 acrostolion
