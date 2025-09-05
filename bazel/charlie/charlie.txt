@@ -9122,7 +9122,6 @@ cartoned
 coalface
 chartularies
 citrene
-chromotypic
 chartulas
 charwoman
 chucklesome
@@ -15105,6 +15104,7 @@ clacks
 clad
 confated
 cladanthous
+chromotypic
 cobnut
 couplet
 callosomarginal
