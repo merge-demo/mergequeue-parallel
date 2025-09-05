@@ -1103,7 +1103,6 @@ dash
 designado
 doctorization
 diathesic
-debt
 detests
 demagnetisable
 dehydrogenize
@@ -10376,6 +10375,7 @@ deoxidized
 drillmasters
 denudation
 disfavoring
+debt
 disproportional
 desilverizer
 discophore
