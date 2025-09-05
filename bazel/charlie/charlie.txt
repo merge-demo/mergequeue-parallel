@@ -5706,7 +5706,6 @@ catechizes
 cheveys
 coeldership
 coyotillo
-catechumenal
 catechumenism
 cuttages
 cutthroats
@@ -10952,6 +10951,7 @@ contraposita
 chiropterygian
 chiropterite
 chiros
+catechumenal
 chirospasm
 circumumbilical
 chirotherian
