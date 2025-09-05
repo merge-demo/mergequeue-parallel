@@ -1039,7 +1039,6 @@ antitorpedo
 allegers
 arietation
 atticizing
-amphiboliferous
 axhammered
 accolent
 apt
@@ -4401,6 +4400,7 @@ antimythic
 arrogance
 amania
 adversities
+amphiboliferous
 antinome
 axotomous
 advertence
