@@ -3353,7 +3353,6 @@ capreol
 chloroformism
 charlie
 capreolary
-calcicole
 capreolate
 chimericalness
 continuua
@@ -23961,6 +23960,7 @@ convallaria
 chalazion
 consummately
 convect
+calcicole
 colubrina
 convecting
 clyfaking
