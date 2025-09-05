@@ -3470,7 +3470,6 @@ adenochondroma
 antipellagric
 adenochrome
 apts
-andric
 abnumerable
 absorptional
 antipedal
@@ -21205,6 +21204,7 @@ artless
 androdioecious
 asymmetranthous
 anglewing
+andric
 arbitrary
 asweat
 amakosa
