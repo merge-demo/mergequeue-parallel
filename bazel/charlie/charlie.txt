@@ -10499,6 +10499,7 @@ chiliarchia
 chiliast
 commuting
 chakar
+clerical
 chiliastic
 chiliasts
 chilicote
@@ -15946,7 +15947,6 @@ clergylike
 cyclos
 clergymen
 clergywoman
-clerical
 circumparallelogram
 crumbum
 clericality
