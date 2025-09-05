@@ -11959,7 +11959,6 @@ disdar
 disdein
 dardani
 doubleheader
-dephlegmate
 disbecome
 disdiapason
 disdodecahedroid
@@ -16902,6 +16901,7 @@ drawings
 distempered
 deliquescent
 dissociable
+dephlegmate
 dendrodus
 deprecatingly
 drillbit
