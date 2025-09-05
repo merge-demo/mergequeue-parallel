@@ -7111,7 +7111,6 @@ centranth
 curarized
 crystallophyllian
 centrarchid
-centrarchoid
 capillarities
 clar
 compare
@@ -27185,6 +27184,7 @@ countervindication
 countervolley
 chymiferous
 confederatio
+centrarchoid
 countervote
 correlation
 counterwager
