@@ -12381,7 +12381,6 @@ albuminiform
 anemony
 ampulating
 anguillidae
-appetit
 anemopathy
 astroscope
 antisudorific
@@ -23733,6 +23732,7 @@ austrium
 acervatim
 antipedobaptism
 ambash
+appetit
 agin
 austrogaea
 ampules
