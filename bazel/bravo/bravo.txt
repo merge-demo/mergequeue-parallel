@@ -6746,7 +6746,6 @@ buhls
 barytosulphate
 badian
 blowbys
-bookery
 basilissa
 bersagliere
 berserker
@@ -8027,6 +8026,7 @@ belligerents
 bicornuate
 bicornute
 beshadow
+bookery
 bicorporate
 banyai
 belleeks

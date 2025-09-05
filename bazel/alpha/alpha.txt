@@ -8187,7 +8187,6 @@ akcheh
 anconagra
 alight
 adipopectic
-align
 aligned
 allotters
 aedilitian
@@ -13028,6 +13027,7 @@ anthelions
 accessible
 animalistic
 androgynous
+align
 animalivore
 animalivorous
 animalize
