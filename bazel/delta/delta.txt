@@ -2039,7 +2039,6 @@ dreidls
 dermatotomy
 daikered
 devotion
-diarial
 dimedon
 decaying
 diety
@@ -10563,6 +10562,7 @@ dichter
 diosmose
 diplantidian
 drynaria
+diarial
 dissaturate
 diplarthrism
 dilapidator
