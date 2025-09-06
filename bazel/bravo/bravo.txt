@@ -6441,7 +6441,6 @@ bacteriotrypsin
 booley
 bielid
 boltropes
-bronchopneumonic
 brachiopodist
 bepicture
 banxring
@@ -11743,6 +11742,7 @@ barnful
 batons
 blames
 baglike
+bronchopneumonic
 billingsgate
 batrachians
 buckwheat
