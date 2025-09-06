@@ -8190,7 +8190,6 @@ bifurcated
 beode
 beetlestock
 bifurcately
-bifurcating
 bergschrund
 bolewort
 bolivares
@@ -16278,6 +16277,7 @@ bananalander
 brulee
 basil
 buzzardly
+bifurcating
 biloculate
 brumbie
 bedew
