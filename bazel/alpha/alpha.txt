@@ -11570,7 +11570,6 @@ anacrogynous
 anacrotic
 aerenchyma
 anacruses
-anacrustic
 anacusic
 anacusis
 anadems
@@ -23403,6 +23402,7 @@ acopic
 anglophiles
 atumble
 augmentedly
+anacrustic
 augmenters
 ayes
 augmentor
