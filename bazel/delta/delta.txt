@@ -16737,6 +16737,7 @@ drainfield
 duplicate
 disvelop
 drainman
+digmeat
 decortization
 deregulations
 downsman
@@ -18388,7 +18389,6 @@ duodenojejunostomies
 dissyllabification
 dillue
 duodenoscopy
-digmeat
 duodenostomy
 deceptiously
 deuteroconid
