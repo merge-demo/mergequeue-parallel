@@ -5935,6 +5935,7 @@ agiotage
 azocoralline
 agyrophobia
 agamas
+anophthalmos
 agism
 arnoldist
 aestuous
@@ -13659,7 +13660,6 @@ anopheles
 anophelinae
 adamants
 anophoria
-anophthalmos
 anopia
 amusable
 astomia
