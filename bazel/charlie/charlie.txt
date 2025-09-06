@@ -5164,6 +5164,7 @@ coalitions
 concreted
 cassation
 caveats
+cheveril
 cerin
 cassegrain
 chromomeric
@@ -10095,7 +10096,6 @@ clutter
 carnivaler
 categorized
 cheveret
-cheveril
 cahoot
 chevesaile
 chevetaine
