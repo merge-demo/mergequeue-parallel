@@ -12036,6 +12036,7 @@ chorusmaster
 chairwoman
 chorussed
 chorusses
+chats
 cathedralic
 chorussing
 creatively
@@ -22104,7 +22105,6 @@ crosstalk
 cloyne
 consistence
 clamorously
-chats
 corcass
 conformant
 cataclasmic
