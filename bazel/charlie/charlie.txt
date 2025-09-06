@@ -9222,6 +9222,7 @@ chattelizing
 chansonnier
 calamities
 chatter
+cosecant
 cheimaphobia
 cerned
 chyme
@@ -25982,7 +25983,6 @@ chelidonian
 cryptomeria
 coseat
 caribal
-cosecant
 conducive
 cosecants
 collude
