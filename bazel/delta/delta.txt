@@ -1721,6 +1721,7 @@ drof
 deathward
 ductility
 docent
+diminuting
 downlier
 deathworm
 disomic
@@ -10703,7 +10704,6 @@ deblocking
 drabby
 dinornithoid
 distinguishing
-diminuting
 diplostichous
 diplotaxis
 durned
