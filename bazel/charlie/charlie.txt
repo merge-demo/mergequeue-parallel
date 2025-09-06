@@ -2513,6 +2513,7 @@ choosable
 candlelighting
 candlelit
 coituses
+choanocytal
 cohusband
 candlemas
 crewel
@@ -15062,7 +15063,6 @@ coassists
 civilite
 chlorines
 customhouses
-choanocytal
 casino
 comptly
 civilizers
