@@ -9109,7 +9109,6 @@ dermatophobia
 defigure
 dysplasia
 dictionarian
-detersion
 dorsoabdominal
 dispensers
 didactylous
@@ -9280,6 +9279,7 @@ discharging
 disemic
 decumbiture
 dissentious
+detersion
 debite
 digitalic
 dartlike
