@@ -4906,7 +4906,6 @@ conceptuality
 cartulary
 cartularies
 carapache
-collaring
 cartware
 cabossed
 confervoid
@@ -15595,6 +15594,7 @@ cathidine
 clathrate
 choose
 clathrinidae
+collaring
 clathroid
 clathrose
 cranes
