@@ -1851,6 +1851,7 @@ bandanaed
 bollito
 barricos
 besotter
+bilgy
 basketmaker
 bandeau
 bancus
@@ -15388,7 +15389,6 @@ bifollicular
 beardtongue
 banshees
 breakdowns
-bilgy
 beteach
 brimmed
 brimmering
