@@ -20631,6 +20631,7 @@ curvilinearly
 compilations
 compilator
 compiled
+coswearer
 compilement
 charge
 comping
@@ -26323,7 +26324,6 @@ craie
 coleopterous
 colymbiform
 collisional
-coswearer
 cotabulate
 carya
 cotarius
