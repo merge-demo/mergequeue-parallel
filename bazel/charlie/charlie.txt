@@ -2529,7 +2529,6 @@ candlers
 casework
 candles
 chaucerism
-candleshrift
 capitalizations
 cecidiology
 committeewoman
@@ -4422,6 +4421,7 @@ carminette
 corvetto
 corms
 controvertibly
+candleshrift
 carmot
 carn
 carnacian
