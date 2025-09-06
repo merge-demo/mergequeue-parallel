@@ -7541,7 +7541,6 @@ bibliotaphe
 bewilderment
 bewinged
 bewitched
-boughed
 bewitcher
 bewitches
 bombacaceous
@@ -13432,6 +13431,7 @@ bawdship
 bottlemaker
 bissext
 begotten
+boughed
 bogeying
 burgs
 bayness
