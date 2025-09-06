@@ -10266,7 +10266,6 @@ anorthoclase
 adrenocortical
 agrostological
 adeling
-archeozoic
 amerceable
 attires
 amerced
@@ -20254,6 +20253,7 @@ arrowsmith
 arrowworm
 arroz
 attid
+archeozoic
 acrobatics
 arsenic
 arsenicism
