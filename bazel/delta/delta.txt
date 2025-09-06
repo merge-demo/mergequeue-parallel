@@ -2984,7 +2984,6 @@ diazoate
 deerfood
 digraphic
 deservings
-disestablishment
 deerhound
 diphthongs
 diverberate
@@ -5401,6 +5400,7 @@ decard
 denuder
 dermolysis
 douched
+disestablishment
 dialysation
 dissonant
 denaturiser

@@ -7913,7 +7913,6 @@ cucullately
 chataka
 crystalliform
 clottedness
-chablis
 coelarium
 crannog
 chromotypographic
@@ -17847,6 +17846,7 @@ chromoprotein
 certificating
 consumption
 clyer
+chablis
 cutigeral
 cononintelligent
 catchup
