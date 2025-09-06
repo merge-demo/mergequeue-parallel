@@ -8321,7 +8321,6 @@ bist
 bitore
 bigonial
 bigots
-bombyxes
 bastian
 bigwigged
 beryllia
@@ -10084,6 +10083,7 @@ blepharoplast
 blackbirder
 belknap
 buckbush
+bombyxes
 blackbody
 bloodings
 biomicroscopies
