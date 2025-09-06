@@ -7922,6 +7922,7 @@ demoniacal
 deuniting
 doormaker
 drenching
+dispels
 daggled
 deeps
 deworming
@@ -11919,7 +11920,6 @@ discusses
 discussion
 decuss
 drumfires
-dispels
 disulphone
 dromomania
 dunked
