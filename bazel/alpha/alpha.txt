@@ -5305,6 +5305,7 @@ authenticity
 autogenous
 apocatastasis
 afoul
+antitragi
 airable
 afray
 adherescent
@@ -22185,7 +22186,6 @@ argentoproteinum
 aponogetonaceous
 astriferous
 autosoteric
-antitragi
 assorts
 astringed
 apostolici
