@@ -26959,6 +26959,7 @@ conjugable
 chartae
 circumventer
 counterphobic
+counterindicate
 counterpicture
 combretum
 cuprum
@@ -27075,7 +27076,6 @@ copaiye
 countershock
 counterside
 crance
-counterindicate
 crustal
 concurringly
 cemental
