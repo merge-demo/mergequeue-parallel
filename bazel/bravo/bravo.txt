@@ -1700,6 +1700,7 @@ balmonies
 brunneous
 balmoral
 berm
+bastards
 benefits
 betsy
 balmorals
@@ -3428,7 +3429,6 @@ bummers
 brigantines
 bastardry
 briny
-bastards
 biotechnologicaly
 bioptic
 barrelfishes
