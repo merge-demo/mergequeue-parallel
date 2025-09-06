@@ -18141,7 +18141,6 @@ collars
 campman
 chromatophilic
 coequalness
-coequals
 coequate
 centerward
 chincha
@@ -26148,6 +26147,7 @@ cosmopolitanization
 cosmopolitanized
 cosmopolitans
 corned
+coequals
 cosmopolitics
 cosmopolitism
 carayan
