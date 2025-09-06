@@ -10884,7 +10884,6 @@ cornu
 chirognomy
 chirognomic
 crain
-chirognomically
 cerebrates
 chronometric
 contd
@@ -26347,6 +26346,7 @@ circumsaturnian
 cotenancy
 cotenant
 cotenants
+chirognomically
 cotenure
 concaved
 cinderlike
