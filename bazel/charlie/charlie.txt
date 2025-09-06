@@ -19706,7 +19706,6 @@ chaptering
 comandra
 countercathexis
 capetown
-cheir
 consolidant
 comanic
 comarum
@@ -28657,6 +28656,7 @@ crenelles
 crenels
 crengle
 chromidiogamy
+cheir
 crenic
 contin
 cyrilla
