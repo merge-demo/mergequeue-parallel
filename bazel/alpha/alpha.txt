@@ -17139,6 +17139,7 @@ anaerobian
 apolunes
 apolusis
 anatosaurus
+asiderite
 amoebiasis
 apomecometer
 aoli
@@ -19161,7 +19162,6 @@ areawide
 animisms
 arecain
 arecas
-asiderite
 atmolyzer
 agitatedly
 arecoline

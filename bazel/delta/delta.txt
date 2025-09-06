@@ -3254,7 +3254,6 @@ distrait
 definiteness
 dahlin
 diceman
-deergrass
 degeneracy
 duplications
 definitions
@@ -6707,6 +6706,7 @@ discerptible
 digestibility
 donicker
 designful
+deergrass
 drylot
 dillyman
 downshifts
