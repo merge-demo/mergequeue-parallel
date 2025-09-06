@@ -7156,7 +7156,6 @@ angiotomy
 assn
 alarmingness
 alarmism
-algovite
 alarmist
 anginas
 aplite
@@ -11678,6 +11677,7 @@ autonomies
 anchietea
 analcimite
 aggrieved
+algovite
 annidalin
 archaeology
 aerosporin
