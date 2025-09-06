@@ -269,7 +269,6 @@ boyuna
 belleter
 bsh
 bacilary
-bacile
 bacillaceae
 brarow
 benzedrine
@@ -5213,6 +5212,7 @@ basification
 blotless
 breadboards
 barkeeps
+bacile
 bandos
 basaltic
 boxwork
