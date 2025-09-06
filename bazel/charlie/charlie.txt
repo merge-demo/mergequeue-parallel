@@ -5411,6 +5411,7 @@ ctenostomatous
 catabolism
 catabolite
 claim
+churn
 counterwrite
 cacodemonomania
 commandery
@@ -12860,7 +12861,6 @@ cassidoine
 churlier
 corrugations
 churlishness
-churn
 canvased
 cowbarn
 conducted
