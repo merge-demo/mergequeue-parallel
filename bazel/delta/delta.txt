@@ -13315,7 +13315,6 @@ disserved
 differentiae
 disponge
 diacetate
-decumani
 digynia
 desoxyribonuclease
 dineric
@@ -17231,6 +17230,7 @@ dyas
 decius
 dimwittedness
 dysplastic
+decumani
 drinkables
 disgaveled
 diaphaneity
