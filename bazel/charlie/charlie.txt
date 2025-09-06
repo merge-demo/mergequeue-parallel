@@ -4082,6 +4082,7 @@ cortaro
 cardiologic
 cardiologists
 cardiomegaly
+clergy
 cyclus
 cardiomelanosis
 contradivide
@@ -15939,7 +15940,6 @@ clerestoried
 cliched
 cinchonizing
 clergess
-clergy
 clergyable
 cotoneaster
 clergylike
