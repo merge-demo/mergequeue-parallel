@@ -1183,6 +1183,7 @@ bupleurol
 bronzitite
 bile
 bajarigar
+bellhouse
 ba
 brideman
 benzotetrazole
@@ -5763,7 +5764,6 @@ batfish
 bonasa
 bugled
 bascule
-bellhouse
 bimillenium
 biremes
 butlerism
