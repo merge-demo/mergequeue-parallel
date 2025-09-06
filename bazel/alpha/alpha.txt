@@ -12006,7 +12006,6 @@ anatomization
 anatomize
 anatomized
 anatomizer
-advisiveness
 anatomizing
 allegeable
 anatopism
@@ -12173,6 +12172,7 @@ aloelike
 allopatric
 astrophotography
 andaste
+advisiveness
 antiposition
 agist
 annunciate
