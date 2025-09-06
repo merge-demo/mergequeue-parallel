@@ -2855,6 +2855,7 @@ cogniser
 chairlady
 canos
 canossa
+counterwheel
 canotier
 canreply
 cubi
@@ -27194,7 +27195,6 @@ coetus
 counterweigh
 counterweight
 counterweights
-counterwheel
 counterwilling
 counterwitness
 chaiseless
