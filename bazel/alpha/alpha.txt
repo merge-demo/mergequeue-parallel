@@ -3139,7 +3139,6 @@ acupuncture
 abonne
 apsides
 acupunctured
-acupuncturing
 antivenomous
 acupuncturist
 acus
@@ -6649,6 +6648,7 @@ affrontiveness
 aircraftsmen
 aircraftwoman
 aircrew
+acupuncturing
 agrimonia
 axoplasms
 airdate
