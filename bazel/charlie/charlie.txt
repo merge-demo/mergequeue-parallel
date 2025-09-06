@@ -5626,7 +5626,6 @@ catches
 catchflies
 criniere
 catchie
-catchiest
 cakebread
 conicoid
 catching
@@ -18492,6 +18491,7 @@ cassate
 cessations
 cursor
 coheiress
+catchiest
 cepheus
 clericalize
 coracomorphic
