@@ -10938,7 +10938,6 @@ brushless
 blintzes
 blacksmiths
 bravi
-billowy
 brachygrapher
 battledore
 batched
@@ -15211,6 +15210,7 @@ bridgemaking
 becrowds
 bejan
 bridger
+billowy
 breadth
 befrumple
 blanquette
