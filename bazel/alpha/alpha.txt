@@ -6640,7 +6640,6 @@ arresting
 airbusses
 atenist
 aquas
-antibias
 axometer
 arid
 aircraftsman
@@ -17766,6 +17765,7 @@ afteroar
 adolf
 appaloosas
 amelioratively
+antibias
 appraises
 adoptable
 appraising
