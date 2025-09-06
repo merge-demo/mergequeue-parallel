@@ -12299,6 +12299,7 @@ deathshot
 disfurniture
 donax
 dendrolater
+decumbence
 disgarnish
 deliberativeness
 dyspneal
@@ -16292,7 +16293,6 @@ defats
 doweress
 dunches
 dasypaedic
-decumbence
 dent
 dowery
 derailer
