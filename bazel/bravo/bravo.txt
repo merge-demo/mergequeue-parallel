@@ -48,6 +48,7 @@ bish
 bundocks
 babbly
 befrogged
+beaverkin
 bodes
 brushable
 bonspiel
@@ -12128,7 +12129,6 @@ biclinium
 bowdlerism
 blaff
 beaumontia
-beaverkin
 beclasped
 broses
 borofluoride
