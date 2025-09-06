@@ -1873,7 +1873,6 @@ camellike
 cancelers
 camellin
 caser
-cameloidea
 camelopardalis
 consubstantiation
 carcinus
@@ -17752,6 +17751,7 @@ coconut
 coconuts
 charterable
 crimeless
+cameloidea
 creagh
 caved
 cocoons
