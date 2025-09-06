@@ -10189,7 +10189,6 @@ combretaceae
 chiasmatype
 counterformula
 chiasmic
-cleruchic
 chiasms
 cannas
 coset
@@ -21709,6 +21708,7 @@ clubbers
 conditioner
 copyists
 champagne
+cleruchic
 conditions
 condititivia
 carboxydomonas
