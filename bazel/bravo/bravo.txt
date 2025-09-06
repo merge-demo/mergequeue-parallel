@@ -8774,7 +8774,6 @@ buckbean
 bari
 banalities
 brazas
-bromothymol
 battery
 bulkier
 bummalos
@@ -10098,6 +10097,7 @@ bonhomous
 biopsychologies
 battue
 beatitudes
+bromothymol
 bejeweled
 borrelia
 barysilite
