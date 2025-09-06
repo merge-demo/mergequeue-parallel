@@ -16802,6 +16802,7 @@ drypoint
 disadvised
 dicey
 desalt
+distendedness
 disclaimer
 disauthorize
 dramshop
