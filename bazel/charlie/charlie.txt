@@ -19686,7 +19686,6 @@ coma
 comprobate
 craniopharyngeal
 carillon
-comade
 comagmatic
 comake
 comaker
@@ -20494,6 +20493,7 @@ clatteringly
 comparing
 comparisons
 comparted
+comade
 customhouse
 compartimenti
 chimley
