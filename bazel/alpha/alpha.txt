@@ -433,7 +433,6 @@ abilla
 abilo
 ankylotome
 arugolas
-authoring
 amplitudes
 apathist
 acousmas
@@ -25181,6 +25180,7 @@ axonolipous
 amirate
 axonometric
 asprete
+authoring
 ascupart
 adviceful
 abusiveness
