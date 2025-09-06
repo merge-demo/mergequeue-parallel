@@ -9987,7 +9987,6 @@ aphthonite
 amahs
 appulsive
 axmen
-antiformant
 asphyxia
 amblycephalus
 acinetinan
@@ -21024,6 +21023,7 @@ aseismatic
 arabella
 alkannin
 arboriculturist
+antiformant
 abreacted
 aseity
 aselar

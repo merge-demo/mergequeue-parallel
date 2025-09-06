@@ -21472,7 +21472,6 @@ cowyard
 cumquats
 concordably
 concordal
-circumundulation
 concordance
 carcavelhos
 commands
@@ -27539,6 +27538,7 @@ colloquialist
 cull
 cupmaker
 coves
+circumundulation
 covet
 cerealin
 covetable
