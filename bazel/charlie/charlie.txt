@@ -3482,7 +3482,6 @@ captaincies
 captainry
 captainship
 communistically
-chemicked
 concordat
 captandum
 captate
@@ -9654,6 +9653,7 @@ chehalis
 chronaxia
 carboniser
 cribrous
+chemicked
 cotuit
 contemplatingly
 cheyenne
