@@ -1552,7 +1552,6 @@ dairyman
 disenjoy
 deadpanned
 deadpans
-depayse
 deforced
 deadwork
 deaerated
@@ -2129,6 +2128,7 @@ decostate
 dicecup
 decalcomanias
 decapodal
+depayse
 dawn
 doubted
 del
