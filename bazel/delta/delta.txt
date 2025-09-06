@@ -4444,6 +4444,7 @@ dependant
 delftware
 demerit
 dotonidae
+disreputable
 demiluster
 discourager
 damoetas
@@ -10454,7 +10455,6 @@ dekkos
 demersion
 dictyostelic
 degradingly
-disreputable
 dipetto
 dismayingness
 diphasic
