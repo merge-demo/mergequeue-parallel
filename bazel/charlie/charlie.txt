@@ -20182,7 +20182,6 @@ commissional
 cherubical
 commissioned
 counterrevolutionaries
-chandelles
 commissive
 commissively
 cinchona
@@ -31182,6 +31181,7 @@ cryolite
 cytherella
 corrosive
 cuproiodargyrite
+chandelles
 chalque
 cuproplumbite
 cycloids
