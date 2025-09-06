@@ -3036,6 +3036,7 @@ betrinket
 bhaktis
 beckons
 brimmers
+butomus
 beachhead
 backswordsman
 bookbinderies
@@ -17731,7 +17732,6 @@ burnwood
 basileus
 browsage
 blucher
-butomus
 blackishly
 broodless
 biostatistic
