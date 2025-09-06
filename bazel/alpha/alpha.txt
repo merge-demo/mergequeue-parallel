@@ -1392,6 +1392,7 @@ accession
 axilemmata
 awl
 accessive
+ata
 anoplocephalic
 aurichalcum
 awardment
@@ -22355,7 +22356,6 @@ alchemistic
 ammoniacum
 alexiteric
 at
-ata
 atabals
 atabeg
 antiheterolysin
