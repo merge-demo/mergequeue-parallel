@@ -18709,6 +18709,7 @@ antecedaneous
 antidumping
 anastomose
 archer
+aromaticity
 archerfishes
 assurgent
 archeries
@@ -19319,7 +19320,6 @@ astrolog
 archin
 argentine
 argentineans
-aromaticity
 argentinian
 argentinidae
 argentino

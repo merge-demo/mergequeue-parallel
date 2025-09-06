@@ -7961,7 +7961,6 @@ dextran
 disallowable
 demicylinder
 defunctive
-downsteepy
 diathermal
 decimeters
 dextroaural
@@ -11511,6 +11510,7 @@ dislocates
 degumming
 draconis
 desertless
+downsteepy
 diverted
 discoboli
 discobolos
