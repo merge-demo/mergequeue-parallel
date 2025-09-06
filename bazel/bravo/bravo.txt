@@ -946,6 +946,7 @@ batoneer
 belligerently
 bagsful
 bequirtle
+bivalent
 barographs
 bazookaman
 breezes
@@ -1923,7 +1924,6 @@ bandoleer
 burlesquely
 backhoes
 bandoleers
-bivalent
 birny
 bandolerismo
 buckayros
