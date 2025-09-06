@@ -5870,7 +5870,6 @@ catheterise
 cobb
 clienteles
 coiffes
-catheterised
 catheterism
 catheterization
 cense
@@ -7121,6 +7120,7 @@ centre
 centreboard
 centred
 centreless
+catheterised
 centrepiece
 canephoroe
 centrer
