@@ -11647,6 +11647,7 @@ cholones
 cholophaein
 coven
 cholophein
+circumventing
 cotemporarily
 chatterer
 chervils
@@ -14375,7 +14376,6 @@ circumvallating
 crepitant
 circumvallation
 circumvented
-circumventing
 ceratiasis
 circumvention
 circumventions
