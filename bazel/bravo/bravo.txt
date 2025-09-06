@@ -4207,7 +4207,6 @@ begaud
 begat
 beardless
 benthamic
-beautified
 bathomania
 beautifier
 bishopbird
@@ -15777,6 +15776,7 @@ baneful
 brekky
 bunkerage
 bluntly
+beautified
 butyls
 beno
 batts
