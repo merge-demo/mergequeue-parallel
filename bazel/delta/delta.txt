@@ -5934,7 +5934,6 @@ depriment
 depriorize
 dagged
 deprivable
-degrader
 dissuasory
 departements
 dissympathize
@@ -11651,6 +11650,7 @@ disconsent
 dithering
 discerpibility
 disconsideration
+degrader
 datasets
 dispeopling
 digester
