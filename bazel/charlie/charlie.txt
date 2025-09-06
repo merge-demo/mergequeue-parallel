@@ -3623,7 +3623,6 @@ caramelize
 caramelized
 clangoring
 caramels
-commendam
 carancho
 carandas
 carangids
@@ -11357,6 +11356,7 @@ cucullus
 chloroquine
 coronas
 camagon
+commendam
 cyclamates
 cloudlessly
 coexisted
