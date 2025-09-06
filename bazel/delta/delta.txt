@@ -8248,7 +8248,6 @@ deliver
 dysesthetic
 diagnostical
 disenthroned
-diagnosticate
 denitrating
 dinotherium
 dehortatory
@@ -16284,6 +16283,7 @@ distent
 davyum
 deflorate
 dowdier
+diagnosticate
 demophon
 doblas
 droseras
