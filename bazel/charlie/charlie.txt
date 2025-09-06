@@ -8369,7 +8369,6 @@ consecrative
 capeskin
 chamise
 chamises
-cladothrix
 chamiso
 cervicohumeral
 caryopteris
@@ -17019,6 +17018,7 @@ crawfoot
 cnemidium
 cnemis
 cnicin
+cladothrix
 catepuce
 cnidae
 cnidarian
