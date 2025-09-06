@@ -12488,7 +12488,6 @@ chromoptometer
 chromoptometrical
 coadjacency
 capacitances
-coobah
 chromosomally
 condensate
 cornercap
@@ -26904,6 +26903,7 @@ cobstone
 countermarching
 call
 complexification
+coobah
 caroches
 chiropractors
 countermarriage
