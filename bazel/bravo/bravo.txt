@@ -3305,7 +3305,6 @@ baratheas
 bolography
 believe
 brisant
-basiradial
 bacterioscopic
 basirostral
 basiscopic
@@ -11812,6 +11811,7 @@ bodybuilder
 bard
 briareus
 brassic
+basiradial
 browbeater
 baileys
 bootlegging
