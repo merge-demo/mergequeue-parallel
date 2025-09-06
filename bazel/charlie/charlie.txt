@@ -5019,7 +5019,6 @@ concipiency
 caseases
 caseated
 caseation
-crassis
 casebearer
 collectivity
 circumrenal
@@ -17474,6 +17473,7 @@ cobblestone
 coomb
 clepsydras
 chokeweed
+crassis
 cobbling
 cobbs
 compressometer
