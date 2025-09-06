@@ -4395,6 +4395,7 @@ bordellos
 becoiffed
 bendlet
 bludging
+bafta
 bretonian
 bilabials
 bibliotist
@@ -10935,7 +10936,6 @@ brushless
 blintzes
 blacksmiths
 bravi
-bafta
 billowy
 brachygrapher
 battledore
