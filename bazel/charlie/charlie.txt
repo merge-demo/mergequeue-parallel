@@ -3280,7 +3280,6 @@ celli
 capo
 chaufers
 coughweed
-capoc
 capocchia
 capoche
 crouche
@@ -29315,6 +29314,7 @@ cryptophthalmos
 catkins
 counterdemand
 countian
+capoc
 cryptopyic
 cambistry
 cantator
