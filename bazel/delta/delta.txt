@@ -1325,7 +1325,6 @@ dauntingly
 damagement
 dart
 discerners
-daunton
 doup
 decipium
 duelli
@@ -10081,6 +10080,7 @@ deigns
 dignified
 dynamitard
 disqualify
+daunton
 duchess
 dynamitic
 dufrenoysite
