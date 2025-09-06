@@ -15224,7 +15224,6 @@ aglimmer
 antihylist
 achromatically
 anthropotomy
-antihypochondriac
 annal
 absinthes
 anticoincidence
@@ -23381,6 +23380,7 @@ aquiform
 andabatism
 agitable
 ancientism
+antihypochondriac
 auger
 augerer
 anticontagion
