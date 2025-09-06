@@ -8378,6 +8378,7 @@ chamm
 chamma
 colonising
 chammy
+crystalize
 calcydon
 citellus
 crookeder
@@ -18202,7 +18203,6 @@ cephalotome
 coetaneous
 coeternity
 caninity
-crystalize
 crankplate
 coeval
 correspondentship
