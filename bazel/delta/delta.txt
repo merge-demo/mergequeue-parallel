@@ -7623,7 +7623,6 @@ devastative
 devata
 devaul
 deoxygenating
-degaussed
 deveined
 disbursements
 droopiness
@@ -10240,6 +10239,7 @@ decatizing
 delitescency
 dinkeys
 dinkiest
+degaussed
 dinking
 doorknob
 dipterus
