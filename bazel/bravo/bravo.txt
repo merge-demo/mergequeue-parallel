@@ -7220,7 +7220,6 @@ booby
 buggiest
 betag
 brazils
-bacteriform
 bubbliest
 boxwood
 betailor
@@ -16805,6 +16804,7 @@ biotechnologies
 brocades
 blended
 burhead
+bacteriform
 bichromatic
 bathysophic
 buffoonish
