@@ -9155,6 +9155,7 @@ alodialty
 adenogenous
 atomics
 archdissembler
+ameer
 argentamin
 aphony
 aerothermodynamic
@@ -10181,7 +10182,6 @@ ameboid
 ameboidism
 arytenoid
 ameed
-ameer
 anemophile
 ameiosis
 angiolymphitis
