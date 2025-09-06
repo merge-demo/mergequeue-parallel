@@ -9339,7 +9339,6 @@ cowedly
 chaw
 chawbacon
 chawbuck
-chawdron
 cornerwise
 comitative
 cpl
@@ -17378,6 +17377,7 @@ cacheted
 cruder
 cogons
 coastland
+chawdron
 couscouses
 coastlines
 channeled
