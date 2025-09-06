@@ -4458,7 +4458,6 @@ adiaphora
 adlumine
 amatungula
 assailing
-aftergo
 anthropophagously
 advisories
 adet
@@ -17757,6 +17756,7 @@ araeosystyle
 amobarbital
 apppetible
 angulosplenial
+aftergo
 antherozoidal
 appraisable
 atmans
