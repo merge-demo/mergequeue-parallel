@@ -3083,7 +3083,6 @@ defaulted
 defaultless
 depauperization
 downfolded
-defaults
 defaulture
 dayworker
 denumberment
@@ -7679,6 +7678,7 @@ divesture
 divorcible
 dashingly
 deunam
+defaults
 debell
 diluvy
 deviance
