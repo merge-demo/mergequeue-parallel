@@ -6870,7 +6870,6 @@ besew
 bellicosities
 bittor
 borghi
-betrim
 bradyseismic
 bibliopolistic
 beshade
@@ -13062,6 +13061,7 @@ borers
 barajillo
 bangling
 bowlmaker
+betrim
 blat
 branders
 bedusk
