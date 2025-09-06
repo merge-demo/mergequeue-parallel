@@ -11870,7 +11870,6 @@ anaptychus
 anaptyctic
 anaptotic
 anaesthetized
-allothigenetically
 auberges
 acanthosis
 antique
@@ -19797,6 +19796,7 @@ attributives
 abhenries
 accommodate
 armiger
+allothigenetically
 armigeri
 armigeros
 armigerous
