@@ -6532,6 +6532,7 @@ broils
 berberidaceous
 berberis
 berberry
+bitbrace
 bournous
 booted
 bagattino
@@ -7446,7 +7447,6 @@ bedgery
 bevenom
 bever
 burses
-bitbrace
 botas
 bevesseled
 barbets
