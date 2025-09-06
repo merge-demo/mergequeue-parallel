@@ -8740,7 +8740,6 @@ crips
 chapote
 collimators
 cave
-confoundingly
 carposporic
 cachexic
 chapournet
@@ -9503,6 +9502,7 @@ consummatively
 checkrows
 computational
 checks
+confoundingly
 chapatty
 checkstring
 candys
