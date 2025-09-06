@@ -5953,7 +5953,6 @@ bemaddened
 borderlines
 bellyfuls
 bemaim
-betangle
 bellyacher
 bastardizes
 bushet
@@ -11277,6 +11276,7 @@ barograms
 basidigitale
 boneyard
 biologism
+betangle
 blowse
 brethren
 bargeman
