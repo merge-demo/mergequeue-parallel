@@ -3167,7 +3167,6 @@ dayside
 defenseless
 defenselessly
 depeach
-defenselessness
 devitalising
 distend
 dolichostylous
@@ -5150,6 +5149,7 @@ deipnosophism
 dabbling
 disporous
 dustin
+defenselessness
 denicotinizes
 dilettanist
 drumsler
