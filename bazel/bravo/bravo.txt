@@ -9310,7 +9310,6 @@ bisectrix
 bahawder
 bimah
 brachiotomy
-bituminise
 bromopikrin
 bench
 beflowering
@@ -10592,6 +10591,7 @@ bouquet
 bladders
 blazonry
 bowllike
+bituminise
 beyliks
 branchiosaurus
 bleachable
