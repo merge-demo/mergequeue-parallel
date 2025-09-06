@@ -17797,6 +17797,7 @@ codamin
 categorisation
 cardiography
 codas
+couchings
 cardialgic
 coddy
 coddle
@@ -26512,7 +26513,6 @@ cantillate
 cube
 casaun
 cruelhearted
-couchings
 couchmaker
 crocein
 coud
