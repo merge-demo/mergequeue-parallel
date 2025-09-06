@@ -1581,7 +1581,6 @@ daks
 dinginess
 drawer
 doweled
-diadrome
 derision
 disenrol
 decriminalize
@@ -4240,6 +4239,7 @@ dismaler
 diluvial
 daiquiris
 deltas
+diadrome
 distensibility
 digitals
 double
