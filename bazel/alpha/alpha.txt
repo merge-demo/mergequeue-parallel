@@ -3814,6 +3814,7 @@ adjured
 adjurer
 adjures
 aspersorium
+abuta
 autotyphization
 arabine
 agnes
@@ -21654,7 +21655,6 @@ agrise
 archegonium
 assertingly
 anathematically
-abuta
 assertion
 assertional
 atropamine
