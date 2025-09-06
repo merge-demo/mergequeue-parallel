@@ -3608,7 +3608,6 @@ adhere
 atticists
 adhered
 apophantic
-avital
 adherency
 apart
 addiment
@@ -13425,6 +13424,7 @@ adventurers
 annoyingly
 authigenic
 atomical
+avital
 armada
 acropodia
 alberich
