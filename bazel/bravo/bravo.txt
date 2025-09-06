@@ -6506,7 +6506,6 @@ backplanes
 bagel
 breezy
 bookkeeping
-browningesque
 banisters
 birdshot
 brustled
@@ -9560,6 +9559,7 @@ byblis
 behaviourism
 bummer
 backbeats
+browningesque
 bonete
 brince
 bolder
