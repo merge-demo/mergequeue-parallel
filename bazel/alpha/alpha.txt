@@ -6733,7 +6733,6 @@ aphorises
 apanages
 admonitor
 amphithurthura
-airmobile
 airn
 anthropomorphical
 aloadae
@@ -15170,6 +15169,7 @@ acanthuses
 ademption
 amphithyrons
 antigenes
+airmobile
 antigigmanic
 annexment
 autonitridation
