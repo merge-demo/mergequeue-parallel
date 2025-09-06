@@ -12457,7 +12457,6 @@ bejaundice
 bigothero
 boydom
 bonebreaker
-boned
 bonedry
 bonefish
 bromobenzene
@@ -18075,6 +18074,7 @@ butane
 butanoic
 butanol
 bibliopegistical
+boned
 butanols
 bind
 budders
