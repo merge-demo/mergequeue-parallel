@@ -3543,6 +3543,7 @@ clansman
 charadriiform
 carabaos
 cowgirl
+cynocephalic
 carabidae
 checkle
 carabidan
@@ -13876,7 +13877,6 @@ chaffy
 carpus
 cinnamons
 cinnolin
-cynocephalic
 chakazi
 clippable
 cheerer
