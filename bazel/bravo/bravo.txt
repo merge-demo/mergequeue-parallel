@@ -3882,7 +3882,6 @@ burao
 bawra
 bawsint
 brontogram
-bittor
 blamelessness
 bawties
 beechnuts
@@ -6867,6 +6866,7 @@ blessed
 brotan
 besew
 bellicosities
+bittor
 borghi
 betrim
 bradyseismic
