@@ -9364,7 +9364,6 @@ demargarinate
 differenced
 differences
 dryad
-drawnness
 deepwater
 distraction
 destroyable
@@ -14363,6 +14362,7 @@ ditriglyphic
 delating
 dragropes
 disapprobation
+drawnness
 duotones
 decolorized
 disbelievingly
