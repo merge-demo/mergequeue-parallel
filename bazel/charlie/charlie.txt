@@ -2136,7 +2136,6 @@ cavesson
 cakey
 campylotropal
 campylotropous
-campimeter
 conches
 configuring
 camping
@@ -28559,6 +28558,7 @@ clow
 creepmouse
 creeps
 creese
+campimeter
 creeses
 carara
 colleague
