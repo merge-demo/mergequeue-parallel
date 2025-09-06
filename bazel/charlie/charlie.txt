@@ -10572,6 +10572,7 @@ countersubject
 copaibas
 camoca
 choledochotomy
+counteridea
 convivial
 chilodon
 commensalism
@@ -26835,7 +26836,6 @@ commensurableness
 counterhypothesis
 corflambo
 custodes
-counteridea
 cotquean
 choirgirl
 cachaca
