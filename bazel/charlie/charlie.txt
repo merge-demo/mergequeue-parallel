@@ -1293,7 +1293,6 @@ calycine
 calderium
 capitulatory
 cabellerote
-calycled
 curveted
 cossyrite
 campanulate
@@ -15846,6 +15845,7 @@ clamb
 cleche
 capacitance
 clechee
+calycled
 constants
 clechy
 cleck
