@@ -15332,6 +15332,7 @@ antilottery
 antimacassar
 archmockery
 antimacassars
+anglemeter
 amidocaffeine
 antimalaria
 antimalarial
@@ -25011,7 +25012,6 @@ abdicating
 astrometer
 awkly
 athenaeum
-anglemeter
 angareb
 awkwarder
 awless
