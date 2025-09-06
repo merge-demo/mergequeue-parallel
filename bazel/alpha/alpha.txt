@@ -5657,6 +5657,7 @@ agaricoid
 agarics
 agaricus
 acknew
+auscultascope
 absurds
 apluda
 aleurodidae
@@ -22349,7 +22350,6 @@ acetotoluide
 aryanism
 aswarm
 aswash
-auscultascope
 adyton
 aristarchy
 asweve
