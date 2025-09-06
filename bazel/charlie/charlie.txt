@@ -5633,6 +5633,7 @@ cannon
 capitulated
 catchlight
 cultivatability
+costrels
 clockcase
 cowpock
 catchments
@@ -26617,7 +26618,6 @@ counterabut
 counteracted
 colada
 counteracter
-costrels
 chessart
 compilation
 calcaneotibial
