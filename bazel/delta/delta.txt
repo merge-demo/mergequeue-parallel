@@ -1175,6 +1175,7 @@ diachoretic
 delimitized
 desmotropy
 diplobacterium
+dynamophone
 duocosane
 deaminization
 dejeuners
@@ -10121,7 +10122,6 @@ dirls
 dogfight
 dilatable
 dynamomorphic
-dynamophone
 dynamos
 dynamostatic
 dynamotor
