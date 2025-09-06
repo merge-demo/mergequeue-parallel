@@ -3561,7 +3561,6 @@ bigmouths
 boliviano
 baffle
 bathythermograph
-bathkol
 bipartite
 blockhouse
 bathmat
@@ -9445,6 +9444,7 @@ bdellostoma
 birses
 bellowsmaking
 badenite
+bathkol
 byrsonima
 barracks
 birthed
