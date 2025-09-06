@@ -2999,7 +2999,6 @@ cantoning
 compartment
 cantonize
 colectomy
-countergager
 cantoral
 congested
 cucumber
@@ -26139,6 +26138,7 @@ cosmopolises
 cosmopolitan
 coastline
 cosmopolitanise
+countergager
 charcutiers
 cosmopolitanising
 centurions
