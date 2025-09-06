@@ -6973,6 +6973,7 @@ akinete
 anthecology
 azotes
 annerodite
+anhungry
 asymptomatically
 afterdrain
 akka
@@ -18571,7 +18572,6 @@ animability
 aurified
 archvagabond
 amulae
-anhungry
 archaise
 acidanthera
 almuce
