@@ -4158,7 +4158,6 @@ costogenic
 careens
 cryptomonadina
 career
-colletarium
 careered
 condensery
 cmdr
@@ -10804,6 +10803,7 @@ chiplet
 culvert
 chipmunk
 claviharp
+colletarium
 chipmunks
 chrysochrous
 chipolata
