@@ -640,7 +640,6 @@ caesaropapist
 choice
 caesious
 caespitose
-chrysolite
 charley
 caespitosely
 cinemize
@@ -1450,6 +1449,7 @@ callers
 calles
 callet
 caramelen
+chrysolite
 calliandra
 cedulas
 curraghs
