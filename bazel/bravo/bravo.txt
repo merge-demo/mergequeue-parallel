@@ -1620,7 +1620,6 @@ beatinest
 ballistician
 brachioganoidei
 benzanilide
-boldface
 brahmapootra
 begem
 ballo
@@ -11994,6 +11993,7 @@ blowpipes
 bluesman
 boyaux
 bronchostomies
+boldface
 bicentenaries
 bertin
 brawlys
