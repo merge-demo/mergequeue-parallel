@@ -9680,7 +9680,6 @@ biophysiography
 breakages
 beguilingly
 bigwiggism
-biramose
 bankbook
 bebeerin
 basitting
@@ -10187,6 +10186,7 @@ breakpoints
 blacklisted
 biflected
 beparse
+biramose
 brainer
 beclamour
 ballow
