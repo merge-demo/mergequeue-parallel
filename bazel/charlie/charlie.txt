@@ -12868,7 +12868,6 @@ canvased
 cowbarn
 conducted
 churnful
-cecidomyiidous
 churns
 churoyan
 cramping
@@ -31627,6 +31626,7 @@ curvilinead
 carpingly
 curvimeter
 curviness
+cecidomyiidous
 curviserial
 curvital
 curvities
