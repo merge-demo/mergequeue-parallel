@@ -9579,7 +9579,6 @@ benison
 barterers
 blatti
 bryozoum
-batiste
 bisyllabic
 benefactions
 braize
@@ -14958,6 +14957,7 @@ butterflyfish
 barelegged
 biosatellite
 blowtorch
+batiste
 brucella
 berberi
 bankings
