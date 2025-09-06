@@ -5796,7 +5796,6 @@ bellicist
 bromometry
 bs
 buildress
-boxcar
 bullsnake
 bondmaid
 banded
@@ -13929,6 +13928,7 @@ bowsie
 bacteriuria
 boxful
 blackboys
+boxcar
 brussels
 brontosauri
 boxhauled
