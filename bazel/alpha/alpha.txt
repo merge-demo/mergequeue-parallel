@@ -2512,7 +2512,6 @@ adffrozen
 adeems
 alterableness
 acquest
-armenite
 aromatite
 actutate
 acrite
@@ -5434,6 +5433,7 @@ anoxybiotic
 afterlove
 aftermark
 aftermass
+armenite
 amomum
 aphidians
 agednesses
