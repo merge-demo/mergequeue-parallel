@@ -1081,6 +1081,7 @@ dads
 denudations
 darvon
 darwesh
+daggering
 decrement
 demotist
 drillers
@@ -3294,7 +3295,6 @@ disrestore
 dynagraph
 dollin
 dithionate
-daggering
 defiladed
 deflating
 discommend
