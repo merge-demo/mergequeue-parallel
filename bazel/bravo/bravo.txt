@@ -1548,6 +1548,7 @@ bales
 belongings
 bichromated
 bezel
+brandyman
 basted
 ballads
 ballahou
@@ -9589,7 +9590,6 @@ biggening
 breaches
 bullish
 bisymmetry
-brandyman
 bushily
 bandmasters
 bisymmetrical
