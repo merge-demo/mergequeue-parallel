@@ -2065,6 +2065,7 @@ campanularidae
 campanulatae
 catchpolery
 christiana
+coart
 chondrosarcomata
 campanulous
 cowbells
@@ -20911,7 +20912,6 @@ compaginate
 catechumen
 compradore
 compregnate
-coart
 comprehend
 cosmognosis
 colonnades

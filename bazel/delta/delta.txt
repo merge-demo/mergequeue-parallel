@@ -8443,7 +8443,6 @@ diamant
 ditrochee
 deflexed
 demount
-dooxidize
 decrowns
 daimonology
 deration
@@ -17976,6 +17975,7 @@ disamenity
 dugento
 dactylous
 diminutional
+dooxidize
 deliriously
 dugongs
 diazeuctic
