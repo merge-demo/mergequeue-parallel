@@ -6569,6 +6569,7 @@ chatelet
 cedillas
 ceding
 cosheath
+cimices
 chromule
 cedrat
 cedrate
@@ -13575,7 +13576,6 @@ cimeter
 coproite
 crankest
 chiffer
-cimices
 cimicide
 cene
 cimicifuga
