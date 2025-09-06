@@ -30491,7 +30491,6 @@ corrupter
 caladiums
 correctives
 cephalology
-cubelium
 carsten
 cubera
 cure
@@ -30703,6 +30702,7 @@ cuif
 collimation
 cuifs
 cuinage
+cubelium
 cuirassed
 cuirasses
 cuirassier
