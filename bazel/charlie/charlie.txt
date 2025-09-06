@@ -11319,7 +11319,6 @@ chlorophyceae
 convenee
 cressweed
 cotemporary
-chlorophyllase
 chlorophyllian
 chlorophyllide
 choliamb
@@ -20764,6 +20763,7 @@ compliancy
 compiling
 cupcake
 complicacy
+chlorophyllase
 ceramiaceae
 complicant
 coelomate
