@@ -2031,7 +2031,6 @@ bank
 bankalachi
 bidactyl
 bankcard
-bethought
 babehood
 banky
 banknote
@@ -18363,6 +18362,7 @@ baned
 bandlessly
 bland
 buz
+bethought
 bolsterers
 buzane
 barbermonger
