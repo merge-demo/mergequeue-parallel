@@ -55,6 +55,7 @@ babbit
 baton
 botrytises
 bacteriophobia
+balked
 begalled
 brontozoum
 bosques
@@ -8899,7 +8900,6 @@ binman
 bombproof
 bedesmen
 barberess
-balked
 biogases
 bruises
 bleachground
