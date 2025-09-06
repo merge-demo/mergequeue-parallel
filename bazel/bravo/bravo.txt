@@ -570,7 +570,6 @@ biggishness
 batrachium
 bandboxical
 bib
-balsaming
 backwind
 backwinded
 balladmongering
@@ -16478,6 +16477,7 @@ banishment
 btry
 bots
 buat
+balsaming
 brocho
 bracingness
 buaze
