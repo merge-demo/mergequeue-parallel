@@ -4616,7 +4616,6 @@ bouilli
 brothier
 bedframes
 broomed
-bowdlerizes
 burnettized
 barytas
 basketwoman
@@ -13530,6 +13529,7 @@ bouffant
 brontesque
 barristers
 bratina
+bowdlerizes
 bouffe
 botulin
 bumpiness
