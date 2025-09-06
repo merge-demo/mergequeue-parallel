@@ -3416,7 +3416,6 @@ dorsabdominally
 dorsobranchiata
 defoliants
 defoliate
-defoliations
 disjunct
 dichroscope
 decelerating
@@ -9229,6 +9228,7 @@ dermomuscular
 dwt
 discography
 diminutively
+defoliations
 devises
 diedric
 diego
