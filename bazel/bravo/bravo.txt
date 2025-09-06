@@ -731,7 +731,6 @@ banana
 balada
 badgeringly
 bugles
-braireau
 boyish
 bizcacha
 badgerlike
@@ -9504,6 +9503,7 @@ biscayanism
 burnover
 barbal
 beltie
+braireau
 beechiest
 bedismal
 beneficently
