@@ -2826,6 +2826,7 @@ alvus
 autotuberculin
 acrostic
 accidentiality
+alfaki
 anacromyodian
 advisive
 acrostical
@@ -21648,7 +21649,6 @@ asseour
 assert
 asserted
 asserter
-alfaki
 automatics
 agrise
 archegonium

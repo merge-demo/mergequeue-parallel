@@ -1615,7 +1615,6 @@ daunter
 dicephalus
 darkhaired
 deerhair
-deallocations
 deprival
 dextraural
 dianoialogy
@@ -7328,6 +7327,7 @@ dolls
 denegate
 dessa
 deplaned
+deallocations
 dimissorial
 dipneumona
 defibrillatory
