@@ -18839,7 +18839,6 @@ colessors
 conventionalization
 compliers
 cotan
-choristate
 compiles
 colet
 coleur
@@ -29160,6 +29159,7 @@ cytotaxonomically
 criosphinxes
 catrigged
 cryostase
+choristate
 cryostat
 cryosurgeon
 cryosurgery
