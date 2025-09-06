@@ -5399,7 +5399,6 @@ bathylimnetic
 bentlet
 bars
 betravel
-behaviorists
 behavioural
 brachioradial
 blepharoceridae
@@ -15792,6 +15791,7 @@ bodybuild
 bromegrass
 bromeikon
 boliche
+behaviorists
 buzzes
 bromelins
 batler
