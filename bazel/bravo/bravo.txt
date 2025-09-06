@@ -2543,7 +2543,6 @@ besnare
 brancher
 broadhorn
 bilamellar
-biltong
 begster
 brained
 bosque
@@ -7842,6 +7841,7 @@ buckthorn
 bibliopegy
 bituminisation
 bibliopegically
+biltong
 bibbons
 browser
 btu
