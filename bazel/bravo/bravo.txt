@@ -4318,7 +4318,6 @@ bemercy
 bushwalking
 breadness
 bely
-bonspiels
 bragite
 bubbly
 bombola
@@ -17716,6 +17715,7 @@ baneberries
 belibeled
 bejumbled
 burnoosed
+bonspiels
 burnoused
 bawbees
 bumfs
