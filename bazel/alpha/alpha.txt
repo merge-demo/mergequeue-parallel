@@ -14109,7 +14109,6 @@ anastaltic
 aslope
 ascriptitii
 allomorph
-arapahite
 agglutinant
 aeroscopic
 arent
@@ -16322,6 +16321,7 @@ aberrated
 anadidymus
 antoeci
 antoecian
+arapahite
 antoecians
 agitator
 ascogonia
