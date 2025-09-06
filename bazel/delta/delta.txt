@@ -2450,6 +2450,7 @@ deckel
 deporte
 ditchdown
 dirigent
+dispondaic
 deckhand
 dovekies
 deckle
@@ -10955,7 +10956,6 @@ disabuse
 dratchell
 disbursement
 diapir
-dispondaic
 derives
 dazzlement
 deafens
