@@ -14938,6 +14938,7 @@ bouncier
 burny
 brecht
 bungholes
+basote
 billitonite
 bunchberries
 bennettites
@@ -17590,7 +17591,6 @@ bearlet
 brenda
 burglarproofs
 burglars
-basote
 breath
 blay
 brumes
