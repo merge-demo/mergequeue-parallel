@@ -20064,7 +20064,6 @@ commendatorily
 commended
 coaming
 curwillet
-commender
 craftsman
 commending
 commendment
@@ -25105,6 +25104,7 @@ coresonant
 convento
 chincher
 corespect
+commender
 corespondent
 cetylic
 coparenary
