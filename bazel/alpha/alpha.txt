@@ -4189,6 +4189,7 @@ atabrine
 amortizing
 acarida
 actiniferous
+arteriotrepsis
 adscititious
 adscriptitious
 averment
@@ -20423,7 +20424,6 @@ autosuggestibility
 arteriospasm
 arteriostenosis
 admix
-arteriotrepsis
 agyria
 arcticology
 apperceptionistic
