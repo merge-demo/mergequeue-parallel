@@ -8330,6 +8330,7 @@ babu
 brachygraphic
 bistoury
 blockish
+blowie
 byhand
 breading
 bicarpellate
@@ -11247,7 +11248,6 @@ bronchoesophagoscopy
 blancard
 beshackle
 blowholes
-blowie
 bibliographic
 beryline
 backups
