@@ -6076,7 +6076,6 @@ avengers
 abrim
 agon
 agonal
-aurorae
 agoniada
 antiparabema
 atellan
@@ -11978,6 +11977,7 @@ anathematised
 alchemize
 appreciatively
 accepter
+aurorae
 anticonstitutionalism
 aegeriid
 appels
