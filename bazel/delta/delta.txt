@@ -1099,6 +1099,7 @@ dash
 designado
 doctorization
 diathesic
+depair
 detests
 demagnetisable
 dehydrogenize
@@ -10062,7 +10063,6 @@ disordain
 dynactinometer
 deratize
 dazedly
-depair
 dubieties
 dissightly
 dynamically
