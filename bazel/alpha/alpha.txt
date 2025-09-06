@@ -18771,7 +18771,6 @@ aulic
 aikuchi
 augends
 archhypocrisy
-archhypocrite
 archdeaconess
 alstonidine
 amis
@@ -19792,6 +19791,7 @@ armied
 armies
 acetocinnamene
 abthainry
+archhypocrite
 armiferous
 agnoetae
 attributives
