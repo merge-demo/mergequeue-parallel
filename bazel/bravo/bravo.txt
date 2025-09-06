@@ -6855,6 +6855,7 @@ beseems
 beseen
 burglariously
 bajan
+buffoon
 burgundian
 bousoukis
 barchan
@@ -16789,7 +16790,6 @@ balafo
 buffont
 bathrooms
 bloodleaf
-buffoon
 buffooneries
 benzoxycamphor
 burgwere

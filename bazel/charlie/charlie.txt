@@ -1642,7 +1642,6 @@ calorimetrical
 calorimetrically
 calorist
 calorizing
-cawing
 calosoma
 cevenole
 calotermes
@@ -12331,6 +12330,7 @@ chromaticness
 conuses
 chromatin
 chromatype
+cawing
 chromatist
 coracohyoid
 cholent
