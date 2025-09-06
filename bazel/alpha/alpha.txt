@@ -9605,6 +9605,7 @@ alvearies
 alvearium
 alveated
 alveolariform
+archisphere
 ararauna
 auxotrophy
 alveolate
