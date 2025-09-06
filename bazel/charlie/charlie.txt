@@ -7161,7 +7161,6 @@ contraband
 centriscidae
 cups
 centriscoid
-centriscus
 centrism
 clark
 cinemascope
@@ -31947,5 +31946,6 @@ czech
 czechization
 caitanyas
 czechoslovak
+centriscus
 curricularization
 czechs
