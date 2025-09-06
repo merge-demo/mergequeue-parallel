@@ -6416,6 +6416,7 @@ conversely
 caviya
 cavyyard
 caviled
+churching
 compellent
 canmaker
 cirrhosed
@@ -12817,7 +12818,6 @@ churchyards
 churchier
 churchified
 chuckholes
-churching
 chiroptera
 crabbedly
 cognisance
