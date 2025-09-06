@@ -793,6 +793,7 @@ chalcosine
 cailcedra
 counterrestoration
 coronations
+crinet
 caille
 corticole
 cailliach
@@ -9807,7 +9808,6 @@ chemiotaxis
 chemiotropic
 cerebropsychosis
 chemise
-crinet
 chemisette
 chemism
 caliciform
