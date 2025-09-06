@@ -5010,7 +5010,6 @@ diplographical
 disnest
 descensionist
 dannie
-dually
 driveling
 defenestrate
 demonstratedly
@@ -5462,6 +5461,7 @@ deorsum
 deorsumversion
 damoisel
 deossification
+dually
 deuterostomatous
 dissipates
 dyakisdodecahedron
