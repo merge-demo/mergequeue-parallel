@@ -8745,6 +8745,7 @@ binh
 bounden
 bini
 barycentric
+bonaire
 bettering
 biniodide
 biniou
@@ -12357,7 +12358,6 @@ bon
 backrope
 bistable
 bonacis
-bonaire
 bromeigon
 bonang
 bonapartism
