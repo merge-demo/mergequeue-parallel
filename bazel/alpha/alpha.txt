@@ -10027,6 +10027,7 @@ ambocoelia
 adelpholite
 alumin
 aspirin
+anniversary
 atmological
 aggadic
 adjutage
@@ -13409,7 +13410,6 @@ attice
 ampoule
 archartist
 anniversalily
-anniversary
 arthrorrhagia
 azobenzene
 annoyance
