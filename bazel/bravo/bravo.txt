@@ -1343,7 +1343,6 @@ benzamino
 barbed
 balases
 balat
-belying
 balatron
 bibliophilist
 benzaldiphenyl
@@ -6773,6 +6772,7 @@ bertrum
 bullarium
 beachy
 broadsided
+belying
 ber
 beruffed
 brusqueness
