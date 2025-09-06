@@ -19309,7 +19309,6 @@ conductorless
 coloner
 cupuliferae
 colones
-colongitude
 cyder
 cowpony
 colony
@@ -23802,6 +23801,7 @@ contrarotation
 conjunctival
 centrifugal
 contrascriptural
+colongitude
 contrast
 cosec
 costocolic
