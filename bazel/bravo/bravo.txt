@@ -6185,6 +6185,7 @@ benighter
 barked
 blackboy
 basidiolichenes
+benzothiofuran
 breedling
 benin
 bebop
@@ -6393,7 +6394,6 @@ blastocyst
 bumpering
 backcloth
 biternate
-benzothiofuran
 benzotrichloride
 battercake
 benzoxyacetic
