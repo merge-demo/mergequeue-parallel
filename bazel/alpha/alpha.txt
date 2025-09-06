@@ -6706,7 +6706,6 @@ antelabium
 ambulatorily
 acock
 airlessly
-attemperation
 airlessness
 anchistopoda
 acyloxy
@@ -20997,6 +20996,7 @@ acronym
 ascribe
 artificer
 arcosolia
+attemperation
 ascriptions
 amphodarch
 anacoluthic
