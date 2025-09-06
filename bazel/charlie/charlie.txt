@@ -15173,7 +15173,6 @@ cancelling
 chuffing
 condecent
 clag
-claggy
 claggum
 cantala
 commandries
@@ -23560,6 +23559,7 @@ contignation
 contiguity
 circumferent
 continentaler
+claggy
 continentalize
 connoissance
 celiitis
