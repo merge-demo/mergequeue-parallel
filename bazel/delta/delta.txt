@@ -500,7 +500,6 @@ dislustering
 daliance
 dalibarda
 dismantler
-dalle
 disambiguations
 debosh
 desmotropic
@@ -1062,6 +1061,7 @@ darshan
 dampening
 dorsomesal
 darsonval
+dalle
 deontology
 dartagnan
 dogmatism
