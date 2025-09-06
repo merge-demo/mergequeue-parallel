@@ -6743,6 +6743,7 @@ chanceable
 caudal
 cellarmen
 cellars
+casabe
 chirologies
 cellblock
 celled
@@ -10243,7 +10244,6 @@ casefying
 caulkers
 carnalities
 chicer
-casabe
 cnidocyst
 concordable
 committer
