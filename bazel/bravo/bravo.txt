@@ -5631,7 +5631,6 @@ brutedom
 biers
 belemnitic
 ballast
-bairnlier
 blendes
 bondwoman
 belemnoid
@@ -6103,6 +6102,7 @@ bucolical
 briolet
 blenniiform
 barograph
+bairnlier
 benedictively
 barquette
 badaxe
