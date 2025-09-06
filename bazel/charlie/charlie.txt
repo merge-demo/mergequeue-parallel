@@ -7328,7 +7328,6 @@ cyclostylar
 cephalometric
 cephalonasal
 cephalopathy
-cephalopharyngeal
 cephalophyma
 cephalophine
 cryostats
@@ -31238,6 +31237,7 @@ computable
 coenospecific
 curarines
 curaris
+cephalopharyngeal
 clitellum
 chattily
 copulations
