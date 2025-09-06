@@ -372,7 +372,6 @@ daylights
 deutomalar
 duoviri
 devise
-desalters
 dayman
 droughtiness
 detruss
@@ -3839,6 +3838,7 @@ doveling
 diatropic
 dyspnoea
 deionize
+desalters
 degraduation
 decastyle
 dephlegm
