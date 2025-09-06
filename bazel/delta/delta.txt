@@ -8091,7 +8091,6 @@ dhooties
 distinctively
 dioecia
 dhootis
-diphenan
 denaturant
 deworm
 domesticated
@@ -10670,6 +10669,7 @@ difficultness
 diectasis
 dosology
 deviously
+diphenan
 dulias
 drey
 digammated
