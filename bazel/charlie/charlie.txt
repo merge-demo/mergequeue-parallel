@@ -10620,7 +10620,6 @@ cryptesthetic
 conenchyma
 conglomerated
 comfortably
-cervicorn
 constructional
 calcaemia
 chime
@@ -21112,6 +21111,7 @@ coercions
 conatus
 conaxial
 culminated
+cervicorn
 concamerated
 cuckoopint
 cycloheptanone
