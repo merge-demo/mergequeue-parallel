@@ -8545,7 +8545,6 @@ belatedly
 beeswinged
 becowards
 billiards
-billyboy
 bivalved
 brules
 billies
@@ -8762,6 +8761,7 @@ birdfarm
 borty
 basigamous
 binny
+billyboy
 bumpered
 birostrate
 bondman
