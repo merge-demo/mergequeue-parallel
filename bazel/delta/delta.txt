@@ -1467,6 +1467,7 @@ dingbats
 dowsets
 deformers
 diazines
+dermonosology
 discophorous
 deacetylate
 disengaged
@@ -9339,7 +9340,6 @@ delisted
 dominule
 doubter
 dyeweeds
-dermonosology
 darwinist
 dorsonasal
 diewise
