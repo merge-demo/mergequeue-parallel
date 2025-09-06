@@ -54,7 +54,6 @@ dropworts
 denitrifier
 discursiveness
 dacryocyst
-diarchial
 dacryocystoptosis
 dacryocystosyringotomy
 derham
@@ -525,6 +524,7 @@ dallis
 dalmanites
 discocarpous
 dalmatic
+diarchial
 decarbonised
 dimities
 dipylon
