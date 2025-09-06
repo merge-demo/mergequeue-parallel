@@ -12506,7 +12506,6 @@ admeasuring
 aesopic
 advene
 allochroite
-aneurysm
 aeriferous
 algosis
 aneurisms
@@ -17630,6 +17629,7 @@ applauders
 arsine
 aporias
 applauses
+aneurysm
 armillas
 aponeuroses
 alborak
