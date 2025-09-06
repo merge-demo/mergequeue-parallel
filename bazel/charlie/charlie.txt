@@ -281,7 +281,6 @@ coreopsis
 cacimbo
 cacimbos
 carrie
-caciques
 carriageable
 cosmolined
 countenances
@@ -9999,6 +9998,7 @@ calcarate
 controvert
 consorting
 caverned
+caciques
 cherub
 chanoyu
 cherubfish
