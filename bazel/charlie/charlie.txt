@@ -13473,6 +13473,7 @@ cylindrocylindric
 calloused
 counterfeiter
 coughroot
+consumables
 craniad
 changelessness
 cyanhidrosis
@@ -15188,7 +15189,6 @@ claimants
 claimed
 congeals
 claimer
-consumables
 cacothelin
 claimers
 claymore
