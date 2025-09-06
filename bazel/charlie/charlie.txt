@@ -3329,7 +3329,6 @@ cranium
 cyclohexene
 cheddars
 capouches
-carburating
 cappadocian
 crypted
 cyclocoelic
@@ -23208,6 +23207,7 @@ construability
 colletes
 colloquize
 clerestory
+carburating
 cataractine
 cabernets
 constructibility

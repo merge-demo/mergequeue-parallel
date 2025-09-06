@@ -3581,7 +3581,6 @@ balconet
 barkentine
 bathometer
 brutalizing
-bonagh
 bathometry
 bathool
 boomkins
@@ -6590,6 +6589,7 @@ blastoma
 bobcat
 bronchia
 beezers
+bonagh
 bedstand
 bimane
 begreen
