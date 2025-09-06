@@ -2525,7 +2525,6 @@ cerevis
 candler
 candlerent
 concealed
-candlers
 casework
 candles
 chaucerism
@@ -25513,6 +25512,7 @@ coronetted
 connectant
 crushability
 coronettee
+candlers
 confronte
 coronetty
 coronagraphic
