@@ -5651,7 +5651,6 @@ bluism
 berreaved
 belgard
 beater
-beclap
 breastwork
 belgrade
 bombasine
@@ -8264,6 +8263,7 @@ bowermaiden
 biotitic
 burundi
 benzenes
+beclap
 biggen
 biggened
 baccharoid
