@@ -176,6 +176,7 @@ caliculi
 cabre
 catproof
 chutzpas
+chilopsis
 choriocapillaris
 cabree
 cabrerite
@@ -10592,7 +10593,6 @@ chylophyllously
 cabalistically
 cashbook
 chylopoiesis
-chilopsis
 colporteurs
 coagulum
 chilostomatous
