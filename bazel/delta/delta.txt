@@ -6008,6 +6008,7 @@ disapprove
 dermatonosus
 derogated
 disdaining
+drawarm
 depthways
 disoccupy
 disjeune
@@ -17705,7 +17706,6 @@ declamatoriness
 dichotomistic
 drays
 downlying
-drawarm
 dopiness
 democratifiable
 duodenojejunal
