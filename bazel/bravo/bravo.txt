@@ -8763,6 +8763,7 @@ binned
 balbusard
 bergaptene
 birdfarm
+borty
 basigamous
 binny
 bumpered
@@ -13169,7 +13170,6 @@ bedecking
 brachycephalize
 bourlaw
 bowtel
-borty
 beworm
 britannica
 borwort
