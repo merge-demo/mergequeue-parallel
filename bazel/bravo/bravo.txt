@@ -3825,7 +3825,6 @@ bulgur
 balsas
 blackjacks
 bohireen
-bicker
 bucare
 bungwall
 bauxitic
@@ -15370,6 +15369,7 @@ blazon
 bumper
 brodeglass
 braggishly
+bicker
 boundary
 blackcaps
 bilboes
