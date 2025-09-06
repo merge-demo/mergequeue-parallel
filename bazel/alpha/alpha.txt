@@ -13427,6 +13427,7 @@ authigenic
 atomical
 armada
 acropodia
+apostume
 alberich
 azeotropism
 amputated
@@ -18511,7 +18512,6 @@ arccos
 appomattoc
 astrocaryum
 arced
-apostume
 assiduousness
 anhematosis
 algraphy
