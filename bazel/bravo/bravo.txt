@@ -9801,7 +9801,6 @@ bowleg
 beknight
 brail
 bathyl
-bitheism
 basilar
 balloonflower
 bisegment
@@ -18168,6 +18167,7 @@ belief
 butleries
 butlerlike
 butlers
+bitheism
 bullyrock
 butlership
 baphomet
