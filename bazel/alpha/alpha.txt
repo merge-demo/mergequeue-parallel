@@ -74,7 +74,6 @@ abama
 antisquama
 archineuron
 abecedary
-aband
 abandon
 androecial
 autarch
@@ -8516,6 +8515,7 @@ actinouranium
 anisogenous
 allasch
 anecdota
+aband
 attirer
 allassotonic
 allatrate
