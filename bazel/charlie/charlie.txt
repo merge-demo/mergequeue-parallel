@@ -5013,6 +5013,7 @@ coparallel
 cascaras
 crosslighted
 coolly
+cedis
 calculating
 colonoscope
 caesarship
@@ -6569,7 +6570,6 @@ cedilla
 chatelet
 cedillas
 ceding
-cedis
 cosheath
 chromule
 cedrat
