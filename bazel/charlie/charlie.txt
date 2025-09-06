@@ -8511,6 +8511,7 @@ crossruff
 chanciest
 chanciness
 calthrops
+chinks
 chancing
 chancito
 crapes
@@ -10741,7 +10742,6 @@ chinky
 ctenidia
 chinkier
 catalytically
-chinks
 concameration
 crash
 chalkcutter
