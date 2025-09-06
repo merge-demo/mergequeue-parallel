@@ -1789,6 +1789,7 @@ bedraggling
 baldest
 balustrading
 bulbed
+biatomic
 bivvy
 balzarine
 blockhead
@@ -17402,7 +17403,6 @@ bunodont
 brickleness
 bacteroid
 bunoselenodont
-biatomic
 bandyman
 brulots
 bareboned
