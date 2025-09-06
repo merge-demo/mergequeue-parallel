@@ -2501,6 +2501,7 @@ autotomous
 acoustoelectric
 acpt
 anacahuite
+alexin
 acquaint
 acquaintanceship
 acquisible
@@ -5344,7 +5345,6 @@ afrormosia
 afshah
 aft
 afteract
-alexin
 afterstorm
 appetitive
 avidiously
