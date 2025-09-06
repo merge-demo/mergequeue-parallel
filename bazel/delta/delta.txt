@@ -3130,7 +3130,6 @@ defectors
 dandiest
 dysgeogenous
 defectoscope
-dozenths
 dorsers
 dulciana
 defectum
@@ -5821,6 +5820,7 @@ disauthentic
 drukpa
 dowel
 dressings
+dozenths
 deposits
 dulcitol
 dichotomously
