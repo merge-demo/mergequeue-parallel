@@ -10589,6 +10589,7 @@ bundle
 bouquet
 bladders
 blazonry
+beggarweed
 bowllike
 bituminise
 beyliks
@@ -16177,7 +16178,6 @@ bubo
 blockading
 bluenesses
 brownouts
-beggarweed
 boree
 brachysclereid
 browntail
