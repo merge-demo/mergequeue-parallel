@@ -5844,6 +5844,7 @@ cloaked
 cosingular
 chistera
 courtesy
+conicality
 cathartides
 chevied
 carburized
@@ -22389,7 +22390,6 @@ conical
 canajong
 cataloguish
 corrupable
-conicality
 chordally
 crookfingered
 coastwards
