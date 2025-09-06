@@ -4869,6 +4869,7 @@ aumil
 archibald
 aeronomy
 aeronomic
+antimedication
 aeronomical
 anisogametic
 aeronomics
@@ -19397,7 +19398,6 @@ abjure
 arglebargle
 arglebargled
 apoaconitine
-antimedication
 arith
 argling
 antral
