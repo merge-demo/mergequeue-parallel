@@ -6352,7 +6352,6 @@ dermotropic
 dastardliness
 derms
 defined
-dioc
 dissceptered
 ducula
 davies
@@ -10686,6 +10685,7 @@ degarnish
 dolomize
 doon
 discoveries
+dioc
 diplopod
 diplopoda
 discorrespondent
