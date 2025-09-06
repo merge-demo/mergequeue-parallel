@@ -723,7 +723,6 @@ conductorship
 cagework
 coordinators
 consonantising
-couturier
 calliphorine
 conjurors
 cagy
@@ -21161,6 +21160,7 @@ chafflike
 chrysophan
 conceiver
 conceiving
+couturier
 concelebrate
 clinophobia
 concelebration
