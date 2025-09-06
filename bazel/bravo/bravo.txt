@@ -2886,7 +2886,6 @@ barramundies
 blanque
 bottleful
 broadcasts
-broadthroat
 berakes
 beclatter
 bestride
@@ -13387,6 +13386,7 @@ bunched
 botling
 berried
 bidders
+broadthroat
 botone
 bourgeoned
 blanche
