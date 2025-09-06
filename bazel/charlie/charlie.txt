@@ -9854,7 +9854,6 @@ chemoresistance
 chemoserotherapy
 chemosynthesis
 chemosynthetic
-chemosmoses
 chemosmotic
 consumptible
 clays
@@ -24264,6 +24263,7 @@ convulsibility
 convulsing
 constantinople
 conjugates
+chemosmoses
 conjuncture
 const
 criminated
