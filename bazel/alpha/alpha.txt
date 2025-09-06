@@ -4902,7 +4902,6 @@ agister
 avigate
 archibenthal
 abv
-adobos
 apologising
 alkylogen
 anile
@@ -13591,6 +13590,7 @@ absolutization
 aboriginal
 albuginitis
 antivariolous
+adobos
 aorist
 anomalies
 anomaliflorous
