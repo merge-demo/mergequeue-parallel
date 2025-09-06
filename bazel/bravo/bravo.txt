@@ -13222,7 +13222,6 @@ bosporanic
 blastulas
 blunderings
 bossage
-brushwood
 bothros
 boastful
 bructeri
@@ -17561,6 +17560,7 @@ brushball
 boma
 bemol
 burgeon
+brushwood
 burgeoning
 bastillion
 barbel
