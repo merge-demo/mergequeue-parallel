@@ -4240,7 +4240,6 @@ assertorial
 ablastous
 arthritic
 ankylomerism
-anilidoxime
 adularias
 aubretia
 athetesis
@@ -6313,6 +6312,7 @@ abrasives
 acolous
 agueweeds
 anticreativity
+anilidoxime
 alcor
 aguglia
 aguilt
