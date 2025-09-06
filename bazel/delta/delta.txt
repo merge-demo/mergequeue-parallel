@@ -1277,7 +1277,6 @@ delusive
 diphycercal
 decream
 dauber
-dauberies
 dramatic
 dumpings
 diapause
@@ -11588,6 +11587,7 @@ dunciad
 dovewood
 discommendation
 droplets
+dauberies
 dedanim
 deaner
 dallyingly
