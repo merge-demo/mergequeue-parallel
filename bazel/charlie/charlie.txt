@@ -13106,7 +13106,6 @@ cicatrices
 cicatricle
 copastorate
 cicatricula
-cicatricule
 cicatrisant
 chipmucks
 calcanei
@@ -28093,6 +28092,7 @@ craniology
 craniologist
 cinnabarine
 craniom
+cicatricule
 custards
 conceding
 cleistotcia
