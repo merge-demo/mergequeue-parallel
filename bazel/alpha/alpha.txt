@@ -3886,7 +3886,6 @@ arghoul
 adminicular
 anableps
 adminiculation
-attical
 acetaldehyde
 anitinstitutionalism
 asystolism
@@ -19240,6 +19239,7 @@ areostyle
 areotectonics
 aminodiphenyl
 afield
+attical
 arerola
 arest
 aretaics
