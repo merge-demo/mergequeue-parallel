@@ -10161,7 +10161,6 @@ caapeba
 chia
 chiack
 chyack
-chianti
 chiao
 capsicum
 chiapanec
@@ -23383,6 +23382,7 @@ cannonier
 contagium
 contain
 contained
+chianti
 containerization
 concordantial
 cautious
