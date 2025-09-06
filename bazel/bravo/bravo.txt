@@ -9318,6 +9318,7 @@ bah
 bisulfid
 brachtmema
 birdhood
+battalion
 birdhouse
 bromous
 barramundi
@@ -18114,7 +18115,6 @@ backstabbing
 betulinamaric
 biogas
 bedfordshire
-battalion
 badmouthing
 butene
 butenyl
