@@ -6533,7 +6533,6 @@ ailsyte
 anthropotoxin
 advocate
 acoasma
-ambar
 asteam
 asymmetrical
 ankyloblepharon
@@ -25147,6 +25146,7 @@ axle
 appendice
 aphanipterous
 acacin
+ambar
 annulate
 aret
 axletree
