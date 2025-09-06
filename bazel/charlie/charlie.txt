@@ -14245,7 +14245,6 @@ circumjacence
 circumjacency
 circumjovial
 circumlitio
-circumlittoral
 confix
 circumlocute
 circumlocution
@@ -20764,6 +20763,7 @@ compliancy
 compiling
 cupcake
 complicacy
+circumlittoral
 ceramiaceae
 complicant
 coelomate
