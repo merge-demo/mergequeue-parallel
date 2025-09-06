@@ -4978,7 +4978,6 @@ demountable
 dempsters
 demulcents
 diphycercy
-demulsibility
 demulsification
 diseasedly
 demulsified
@@ -11065,6 +11064,7 @@ diasystem
 disaligned
 disalliege
 dihalogen
+demulsibility
 domiciliating
 deoxidization
 disallow
