@@ -5256,6 +5256,7 @@ affydavy
 affrightment
 affronte
 affronted
+analyticities
 affrontedness
 affronter
 anidiomatic
@@ -7611,7 +7612,6 @@ alcoranic
 aphetically
 amarna
 alcove
-analyticities
 airward
 adnascence
 angustia
