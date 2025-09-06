@@ -13072,6 +13072,7 @@ cibolero
 cibols
 columnea
 ciboney
+compline
 cibophobia
 cryptocarpic
 ceros
@@ -22983,7 +22984,6 @@ cive
 cryptic
 cripes
 coracoids
-compline
 consocies
 caustified
 consolations
