@@ -5414,7 +5414,6 @@ aphthitalite
 afterharm
 acalycal
 afterhend
-anatifae
 afterhope
 afterhours
 agapeic
@@ -13002,6 +13001,7 @@ animable
 autocatharsis
 atrichia
 archaeopteris
+anatifae
 animacule
 animadversal
 animadversional
