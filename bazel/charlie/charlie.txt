@@ -7412,6 +7412,7 @@ capelet
 coistrils
 cytogenetical
 ceratoglossal
+coulis
 ceratohyal
 consentaneously
 ceratoid
@@ -10171,7 +10172,6 @@ chiarooscuro
 crankly
 chiaroscuros
 chuvash
-coulis
 chias
 caparisoned
 cheesecakes
