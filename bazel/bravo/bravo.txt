@@ -8179,7 +8179,6 @@ bulgaric
 biforking
 brombenzyl
 browache
-biformed
 berthage
 backwoodsy
 biformity
@@ -9541,6 +9540,7 @@ biset
 belshazzaresque
 brulyie
 begulfed
+biformed
 bisetous
 bishoplet
 bisexed

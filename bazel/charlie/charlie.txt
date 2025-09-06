@@ -1264,6 +1264,7 @@ calibrater
 calibrates
 cloison
 catchwater
+celebratedly
 calibrating
 calibre
 causative
@@ -6652,7 +6653,6 @@ celebrants
 cordierite
 celebrate
 comiakin
-celebratedly
 clammed
 celebrater
 celebrates
