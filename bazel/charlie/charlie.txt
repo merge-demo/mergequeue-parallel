@@ -13483,7 +13483,6 @@ chisel
 comitiva
 cylindroid
 caudillos
-cylindromatous
 crosswords
 cylindrometric
 carceration
@@ -28314,6 +28313,7 @@ crawdads
 collector
 crawfishing
 corviform
+cylindromatous
 crawl
 crawled
 crawley
