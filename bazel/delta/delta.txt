@@ -2816,7 +2816,6 @@ dittologies
 depriver
 disposure
 disgenius
-deepest
 dys
 denticles
 dictyopteris
@@ -10488,6 +10487,7 @@ damask
 discolith
 devinct
 dow
+deepest
 disobliging
 douzainier
 definienda
