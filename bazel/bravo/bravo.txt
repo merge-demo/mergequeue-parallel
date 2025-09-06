@@ -10829,6 +10829,7 @@ bequeathing
 bonism
 blewits
 blick
+biophyte
 batekes
 bongrace
 bullcomber
@@ -13690,7 +13691,6 @@ bousoukia
 bloomer
 bare
 bircher
-biophyte
 banqueted
 braccio
 billetwood
