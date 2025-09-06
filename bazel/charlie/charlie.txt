@@ -2623,7 +2623,6 @@ cangy
 cangia
 constitutively
 cangler
-cangue
 cangues
 canham
 canichanan
@@ -10277,6 +10276,7 @@ cyanidation
 comfortable
 chickamauga
 chickasaw
+cangue
 carlina
 catechumenically
 chickees
