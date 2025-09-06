@@ -7674,6 +7674,7 @@ britten
 blondest
 bathyscaphe
 brakehand
+buffoonish
 bullan
 brocard
 bhindi
@@ -16802,7 +16803,6 @@ burhead
 bacteriform
 bichromatic
 bathysophic
-buffoonish
 bungle
 baret
 birostrated
