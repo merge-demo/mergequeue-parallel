@@ -8903,7 +8903,6 @@ acaena
 aureolas
 allosome
 allosteric
-allotelluric
 anthropomorphising
 annihilated
 allothigenic
@@ -18464,6 +18463,7 @@ arborolater
 arborvitaes
 antimilitarism
 alehouses
+allotelluric
 arcticwards
 arrises
 attitudes
