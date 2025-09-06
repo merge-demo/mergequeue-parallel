@@ -15955,7 +15955,6 @@ clericals
 clericate
 chordaceous
 clericature
-cointension
 clericism
 conglomerator
 centares
@@ -25231,6 +25230,7 @@ carcasing
 cytomitome
 coryza
 canoodler
+cointension
 corkages
 corkboard
 conventionalized
