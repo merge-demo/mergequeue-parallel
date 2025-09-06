@@ -8468,6 +8468,7 @@ chanced
 circuitable
 comme
 categorical
+cuculoid
 corncockle
 chanceful
 chancefulness
@@ -30604,7 +30605,6 @@ chilidog
 crustosis
 cuculle
 cuculliform
-cuculoid
 counterreform
 concinnous
 cucumariidae
