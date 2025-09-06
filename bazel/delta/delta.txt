@@ -11195,7 +11195,6 @@ disassociable
 disinherits
 downway
 disassociate
-disassociates
 disasters
 dimerize
 dextrorotatary
@@ -16659,6 +16658,7 @@ donjon
 dactylopius
 deperming
 decorations
+disassociates
 drosophilae
 dispromise
 dragonesque
