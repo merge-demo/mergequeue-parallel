@@ -1812,7 +1812,6 @@ amalgamater
 admonitorial
 acerolas
 agnosy
-acerous
 acertannin
 acerval
 acervate
@@ -8145,6 +8144,7 @@ atwo
 ancylodactyla
 adipocyte
 aspersing
+acerous
 alienage
 alienated
 alienation
