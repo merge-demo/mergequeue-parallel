@@ -16815,7 +16815,6 @@ cloverleaves
 cloverley
 cycadophyte
 cloverroot
-crepitus
 clovewort
 castling
 coauditor
@@ -20418,6 +20417,7 @@ charbroils
 compacter
 calyculate
 chirked
+crepitus
 colibertus
 cryptamnesia
 compactible
