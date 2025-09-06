@@ -4778,6 +4778,7 @@ abler
 aerodonetics
 aerodontalgia
 arcanum
+adenitises
 archhost
 arenite
 areek
@@ -5015,7 +5016,6 @@ aestuation
 acetalize
 aestus
 ashy
-adenitises
 acusection
 aetat
 aethalium
