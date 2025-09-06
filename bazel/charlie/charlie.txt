@@ -18272,6 +18272,7 @@ coffeetime
 coffer
 corridor
 cofferdam
+corks
 claudetite
 chaetophorales
 coombe
@@ -25247,7 +25248,6 @@ craterkin
 chiromant
 corkline
 calendars
-corks
 corkscrew
 cyanotrichite
 cacophonize
