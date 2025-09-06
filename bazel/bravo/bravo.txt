@@ -4908,7 +4908,6 @@ boyardism
 beekeepers
 beekeeping
 bedight
-bosher
 bassos
 barbecue
 beelzebul
@@ -15412,6 +15411,7 @@ bolshevistically
 besnuff
 brindlish
 bryndza
+bosher
 bleaters
 balloonfish
 bangia
