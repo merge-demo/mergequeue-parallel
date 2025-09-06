@@ -8942,6 +8942,7 @@ cumarin
 chaplaincy
 chalchihuitl
 conceivability
+curial
 cryptal
 charism
 coriaria
@@ -28511,7 +28512,6 @@ checkerwork
 creditive
 creditless
 creditor
-curial
 creditress
 creditrix
 crednerite
