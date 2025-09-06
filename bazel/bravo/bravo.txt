@@ -4035,7 +4035,6 @@ beamman
 blazed
 bskt
 beamroom
-baragnosis
 beams
 bargees
 bean
@@ -4733,6 +4732,7 @@ barrener
 bracker
 brachylogy
 bedriveling
+baragnosis
 bauleah
 bruins
 bacterioscopically
