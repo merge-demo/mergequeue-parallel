@@ -4655,7 +4655,6 @@ antimasquer
 abbreviator
 authoritatively
 anthologizing
-aftermath
 asterionella
 acarology
 anaretic
@@ -23011,6 +23010,7 @@ apeak
 agnominal
 alloquialism
 aaronitic
+aftermath
 aggressor
 annunciable
 airdropped

@@ -9091,6 +9091,7 @@ buckone
 barotropy
 banderlog
 bianchi
+benumbment
 beshag
 badgir
 ballgown
@@ -14672,7 +14673,6 @@ bratticing
 brattie
 betrothal
 brattled
-benumbment
 brattling
 bratwurst
 banus
