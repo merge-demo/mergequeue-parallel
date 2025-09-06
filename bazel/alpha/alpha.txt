@@ -2716,6 +2716,7 @@ aminobenzine
 acroleins
 acheirous
 anoegenetic
+athamantid
 acroliths
 antiferromagnetic
 acrologism
@@ -22470,7 +22471,6 @@ athabasca
 acetylcholine
 askapart
 athabascan
-athamantid
 acontium
 akinesia
 article
