@@ -11228,7 +11228,6 @@ chlorinating
 curly
 chlorination
 chlorinator
-chlorines
 chicote
 counterion
 cotch
@@ -15065,6 +15064,7 @@ chrismatine
 chaldaism
 coassists
 civilite
+chlorines
 customhouses
 choanocytal
 casino
