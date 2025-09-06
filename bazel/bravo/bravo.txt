@@ -3423,7 +3423,6 @@ boatshop
 bleaching
 bulletmaker
 bagani
-barrelsful
 bummers
 brigantines
 bastardry
@@ -17773,6 +17772,7 @@ buoyances
 breakback
 bheesties
 burroweed
+barrelsful
 burrows
 benevolent
 burrstone
