@@ -17497,7 +17497,6 @@ alburnums
 ambries
 amylogenesis
 arsenotherapy
-apheta
 appellations
 apophonia
 anthophyllitic
@@ -22958,6 +22957,7 @@ amitotically
 anisodont
 almirah
 attainture
+apheta
 attalea
 attalid
 aquafer
