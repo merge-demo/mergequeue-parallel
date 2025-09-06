@@ -3057,7 +3057,6 @@ dixenite
 demiseason
 disadvantaging
 defamations
-defamatory
 dipygus
 diseaseful
 daubing
@@ -15642,6 +15641,7 @@ dualists
 dongola
 dyspepsia
 drams
+defamatory
 doni
 deliquesced
 designators
