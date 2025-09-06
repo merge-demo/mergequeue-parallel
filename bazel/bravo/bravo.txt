@@ -6249,7 +6249,6 @@ burglarproof
 benthic
 barbar
 bagfuls
-benthonic
 bevors
 benthoscope
 bioenergetics
@@ -7187,6 +7186,7 @@ bovovaccination
 burnie
 besnow
 baconist
+benthonic
 basses
 bestridden
 boleti
