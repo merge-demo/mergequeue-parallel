@@ -1265,7 +1265,6 @@ calibrates
 cloison
 catchwater
 calibrating
-calibre
 causative
 cyanohydrin
 caliburn
@@ -23852,6 +23851,7 @@ conopophaga
 contributional
 camelman
 contributive
+calibre
 callusing
 cointise
 contributorial

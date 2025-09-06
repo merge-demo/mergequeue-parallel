@@ -3115,7 +3115,6 @@ achingly
 acubens
 attachments
 acuductor
-acuities
 antiendotoxin
 antizymic
 archfire
@@ -3179,6 +3178,7 @@ apx
 anacamptically
 anomurous
 agawam
+acuities
 adactylous
 automatograph
 adad
