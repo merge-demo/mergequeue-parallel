@@ -5818,6 +5818,7 @@ deploration
 dismarshall
 disauthentic
 drukpa
+disentrancing
 dowel
 dressings
 dozenths
@@ -12147,7 +12148,6 @@ disentrainment
 disentrance
 discostate
 disrank
-disentrancing
 disentwined
 dinnerly
 destemper
