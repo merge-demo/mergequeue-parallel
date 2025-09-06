@@ -9516,7 +9516,6 @@ altun
 anisomeles
 alture
 altus
-algivorous
 aluco
 alpaca
 antiepiscopist
@@ -25360,6 +25359,7 @@ azoths
 azotic
 azotises
 azotize
+algivorous
 absinthism
 andesites
 azotoluene
