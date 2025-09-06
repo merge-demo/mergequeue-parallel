@@ -866,7 +866,6 @@ aures
 absyrtus
 amylon
 absis
-absistos
 anthrophore
 absit
 absoil
@@ -7587,6 +7586,7 @@ ambigenous
 alcoholist
 abelicea
 aeneous
+absistos
 adaw
 antiromance
 alcoholmeter
