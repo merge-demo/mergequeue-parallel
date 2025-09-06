@@ -189,6 +189,7 @@ dockmaster
 divulgated
 defilable
 decontamination
+dermatoneural
 daemony
 debitumenize
 dealfish
@@ -6309,7 +6310,6 @@ dephlegmatory
 dermenchysis
 delacrimation
 dermestid
-dermatoneural
 decoupage
 dextrogyration
 deject
