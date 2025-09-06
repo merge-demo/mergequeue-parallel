@@ -10366,6 +10366,7 @@ aurigid
 aculeolus
 ametrope
 antshrike
+antonymies
 ametropia
 acicular
 ametrous
@@ -16337,7 +16338,6 @@ adramelech
 antoinette
 antonym
 antonymy
-antonymies
 antonyms
 antoniniani
 antoninianus
