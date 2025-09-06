@@ -6628,7 +6628,6 @@ burlies
 berigora
 beryl
 beryllonate
-berimed
 barcelonas
 beseemly
 bodyhood
@@ -8633,6 +8632,7 @@ bimanal
 binoxalate
 bimanous
 bisinuate
+berimed
 bradsot
 bournless
 bimanually
