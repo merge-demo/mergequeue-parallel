@@ -5373,7 +5373,6 @@ ambe
 aftercooler
 almoning
 alahee
-aftercost
 anatine
 aftercrop
 amebicidal
@@ -24898,6 +24897,7 @@ apetaloid
 awake
 aquocarbonic
 awakeable
+aftercost
 assemblers
 awakened
 armets
