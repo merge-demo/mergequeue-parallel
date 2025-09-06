@@ -2476,6 +2476,7 @@ cantorial
 countermands
 countersignatures
 coasters
+catalogued
 candies
 catcall
 consternation
@@ -13460,7 +13461,6 @@ coolish
 ciliates
 corporational
 commentator
-catalogued
 caseating
 ciliella
 cressed
