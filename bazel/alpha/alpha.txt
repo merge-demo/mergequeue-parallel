@@ -8914,7 +8914,6 @@ annotates
 allotypy
 antipapist
 angelon
-annulata
 akoluthia
 algebraized
 allotments
@@ -20700,6 +20699,7 @@ afterattack
 astrantia
 artlike
 artocarpaceae
+annulata
 artocarpeous
 artocarpous
 artolater
