@@ -9982,7 +9982,6 @@ arrect
 amble
 apanteles
 ambler
-awakes
 aphthonite
 amahs
 appulsive
@@ -17585,6 +17584,7 @@ advisership
 apolaustic
 antiagglutination
 agouta
+awakes
 appestat
 angiocarpic
 apostlehood
