@@ -13657,7 +13657,6 @@ cytomorphology
 cinches
 crankcase
 cheve
-cinching
 cincholoipon
 curarizing
 countercharging
@@ -16031,6 +16030,7 @@ capillariness
 cyanins
 coude
 cuculiform
+cinching
 cotypes
 chrysocracy
 clablaria
