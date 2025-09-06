@@ -3410,7 +3410,6 @@ burgomaster
 brelaw
 byrrus
 bedsores
-bastardised
 blushing
 burnishable
 blather
@@ -14968,6 +14967,7 @@ breakneck
 breedy
 byzantian
 bengalic
+bastardised
 bepillared
 brachyceric
 bacteriol
