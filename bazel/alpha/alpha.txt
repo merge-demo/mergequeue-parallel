@@ -5707,6 +5707,7 @@ author
 agatized
 agatizes
 agatizing
+abnegating
 agatoid
 alarbus
 assoiled
@@ -10469,7 +10470,6 @@ aphids
 ascaris
 accoy
 amidulin
-abnegating
 absinthiating
 avidly
 amyelencephalous
