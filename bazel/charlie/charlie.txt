@@ -13809,6 +13809,7 @@ cineplasty
 cineplastics
 cineradiography
 chelingo
+changepocket
 clartier
 carmele
 caeca
@@ -24350,7 +24351,6 @@ coreveler
 circumflex
 cool
 cooled
-changepocket
 cavally
 cooley
 capitatum
