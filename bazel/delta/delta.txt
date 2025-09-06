@@ -10304,7 +10304,6 @@ disaccustom
 doornail
 dioctahedral
 dioctophyme
-devilize
 dubitable
 deave
 defaulting
@@ -11182,6 +11181,7 @@ detruded
 daylighting
 disarticulator
 disasinize
+devilize
 descriptors
 deaminated
 decapitates
