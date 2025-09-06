@@ -4992,7 +4992,6 @@ cascabel
 complexions
 coestate
 cytocide
-chemoprophylaxis
 cascable
 cascadable
 coupes
@@ -11006,6 +11005,7 @@ chisellike
 coevolvedcoevolves
 chiselmouth
 chisled
+chemoprophylaxis
 clarkeites
 conichalcite
 chistka
