@@ -6507,7 +6507,6 @@ anarcestean
 afterburner
 anorchia
 aikinite
-agenes
 arbitrarily
 antigorite
 achromatised
@@ -13630,6 +13629,7 @@ atrabilarian
 anomie
 anomite
 apparatchik
+agenes
 anomodont
 aythya
 anomodontia

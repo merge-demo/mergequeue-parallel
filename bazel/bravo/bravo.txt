@@ -6505,7 +6505,6 @@ bavarois
 beaming
 backplanes
 bagel
-breezy
 bookkeeping
 banisters
 birdshot
@@ -17699,6 +17698,7 @@ bishopric
 benempt
 billian
 blastophaga
+breezy
 barbicanage
 bemuzzled
 bott
