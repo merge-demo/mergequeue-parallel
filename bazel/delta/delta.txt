@@ -3796,7 +3796,6 @@ donkey
 download
 dialyzator
 disjecting
-duplexed
 dropped
 despatched
 dame
@@ -8940,6 +8939,7 @@ dysphrenia
 disheartening
 dichlone
 decalcifies
+duplexed
 detailers
 distantness
 dully
