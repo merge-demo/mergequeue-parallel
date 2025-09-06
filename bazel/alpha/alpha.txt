@@ -5805,6 +5805,7 @@ adamantine
 agglutinatively
 aarrghh
 agamobium
+aligners
 agglutinize
 agglutinogen
 agglutinoscope
@@ -13478,7 +13479,6 @@ attingence
 augmentative
 algy
 annulary
-aligners
 annularia
 arrowing
 annulately
