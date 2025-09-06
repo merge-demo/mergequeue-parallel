@@ -6427,6 +6427,7 @@ boomah
 byrlawmen
 blasia
 binarium
+brothels
 bepen
 bosun
 beleaguer
@@ -16070,7 +16071,6 @@ bulla
 bristletail
 bifurcate
 bayonetted
-brothels
 brazilians
 boatful
 breweries
