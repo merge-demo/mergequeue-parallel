@@ -6103,6 +6103,7 @@ deraigning
 dispirits
 deceptively
 derailing
+desc
 demiworld
 derailment
 decocts
@@ -6443,7 +6444,6 @@ departmentalising
 desentimentalize
 decadenza
 desands
-desc
 descale
 declericalize
 delignated
