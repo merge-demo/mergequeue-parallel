@@ -1263,7 +1263,6 @@ calibrated
 calibrater
 calibrates
 cloison
-catchwater
 calibrating
 calibre
 causative
@@ -11057,6 +11056,7 @@ chytridiosis
 chytroi
 chits
 chittack
+catchwater
 chitted
 chitter
 chutney
@@ -19772,6 +19772,7 @@ combinatorial
 combinatorially
 combinators
 combind
+candleberry
 ctene
 concertinas
 cogitatingly
@@ -21898,7 +21899,6 @@ conferential
 conferral
 conferred
 cliqueyness
-conferrence
 cornerbind
 camalig
 conferrers
@@ -25928,6 +25928,7 @@ cacoeconomy
 convolute
 colley
 coruco
+conferrence
 circuitousness
 climatotherapeutics
 codicil
@@ -26529,7 +26530,6 @@ coughing
 coughs
 could
 coul
-candleberry
 conterminal
 coulage
 couldest
