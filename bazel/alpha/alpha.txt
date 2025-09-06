@@ -2134,7 +2134,6 @@ assessably
 amphioxides
 actinal
 aperistalsis
-abattue
 abides
 aegirine
 achromaticity
@@ -8608,6 +8607,7 @@ apivorous
 amnesiacs
 alleluias
 alleluiatic
+abattue
 arcubos
 allemand
 allene
