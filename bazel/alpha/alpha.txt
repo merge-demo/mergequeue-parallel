@@ -2494,6 +2494,7 @@ acouometer
 acoup
 acousticon
 acousticophobia
+antihalation
 autotomous
 acoustoelectric
 acpt
@@ -15197,7 +15198,6 @@ abusedly
 angiemphraxis
 antigrowth
 affectible
-antihalation
 alcantarines
 allanites
 antiharmonist
