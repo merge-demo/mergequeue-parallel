@@ -4348,7 +4348,6 @@ arquifoux
 aerobiotically
 antiopiumite
 acapu
-adventitious
 adventitiousness
 adventively
 aciduria
@@ -15997,6 +15996,7 @@ antiscabious
 adminiculum
 antiscale
 arteritis
+adventitious
 autocoenobium
 apocrita
 antischolasticism

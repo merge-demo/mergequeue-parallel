@@ -7259,7 +7259,6 @@ baseboards
 biolinguistics
 bali
 betelgeuse
-betell
 banzais
 bambuba
 breve
@@ -16296,6 +16295,7 @@ brushers
 burrish
 brotherliness
 bewailable
+betell
 brelan
 blueing
 brummagen
