@@ -5428,7 +5428,6 @@ alongshoreman
 antimonarchistic
 agues
 analyzation
-afterings
 antielectrons
 afterlight
 afterlives
@@ -21764,6 +21763,7 @@ astrobiology
 agnostics
 assyroid
 abutted
+afterings
 amitroles
 assish
 averrhoa
