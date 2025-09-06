@@ -4686,6 +4686,7 @@ bandage
 bursula
 basseted
 bedlar
+banyans
 bazoo
 bunted
 blackseed
@@ -7380,7 +7381,6 @@ bivouacks
 brabblingly
 beatable
 bushelled
-banyans
 baldnesses
 bettermost
 bedeviling
