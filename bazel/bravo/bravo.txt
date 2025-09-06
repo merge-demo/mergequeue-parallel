@@ -12905,7 +12905,6 @@ boothite
 bearfoot
 bialy
 bootlegs
-bootlessly
 bootlessness
 balao
 botryopterid
@@ -16397,6 +16396,7 @@ bulbomedullary
 biotechnological
 bursattee
 brusquest
+bootlessly
 boucherize
 brussel
 bestrode

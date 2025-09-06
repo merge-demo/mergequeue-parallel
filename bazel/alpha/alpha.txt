@@ -9677,6 +9677,7 @@ apodes
 abandonedly
 adipocerous
 agamete
+anestrous
 amalgam
 apophonies
 amalgamate
@@ -12482,7 +12483,6 @@ anesthetized
 amenableness
 achromotrichia
 anesthetizes
-anestrous
 anethene
 anethol
 albites
