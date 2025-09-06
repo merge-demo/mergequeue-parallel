@@ -494,7 +494,6 @@ besom
 bluebells
 beseeched
 betatron
-bees
 besottingly
 battarismus
 balaenoidea
@@ -8970,6 +8969,7 @@ begrims
 brilliancy
 biomedicine
 bondieuserie
+bees
 baginda
 biomes
 babelike
