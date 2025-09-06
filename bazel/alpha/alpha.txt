@@ -14387,7 +14387,6 @@ anuloma
 anthropometric
 acrocarpi
 allan
-anthropometrist
 anthropomophitism
 antipestilence
 asepticism
@@ -23803,6 +23802,7 @@ abstersive
 archscoundrel
 aluta
 actively
+anthropometrist
 arthritics
 asiphonate
 authentic
