@@ -4010,7 +4010,6 @@ bilophodont
 beala
 byously
 burglarproofing
-buchu
 butled
 beambird
 beeve
@@ -8871,6 +8870,7 @@ biodegraded
 biodegrading
 biodynamical
 bestorm
+buchu
 bridoon
 buccinoid
 blattered
