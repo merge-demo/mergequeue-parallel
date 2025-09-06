@@ -3742,7 +3742,6 @@ aporrhoea
 arthrosyrinx
 adits
 arbovirus
-analcite
 alphorns
 adjacence
 adjectional
@@ -19260,6 +19259,7 @@ argal
 argala
 aphididae
 asteroxylon
+analcite
 apiin
 acontius
 aho
