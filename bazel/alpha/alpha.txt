@@ -274,7 +274,6 @@ abdominalian
 appurtenances
 accuracy
 autotropism
-arteriopathy
 aguamas
 abdominals
 acrospire
@@ -3462,6 +3461,7 @@ antenniferous
 alleviating
 abb
 adenitis
+arteriopathy
 adenization
 adenoacanthoma
 autometry
