@@ -8020,7 +8020,6 @@ deaccessioned
 detonability
 drosky
 dezincifying
-dekagrams
 donatiaceae
 draining
 deluders
@@ -15721,6 +15720,7 @@ doomster
 dapson
 demeritoriously
 dismissed
+dekagrams
 defaulters
 domina
 dartoic
