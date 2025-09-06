@@ -10513,7 +10513,6 @@ diphtheritically
 disarraying
 diphtherotoxin
 diphthongally
-dipneust
 dismortgaged
 dispost
 degeneroos
@@ -16275,6 +16274,7 @@ drinkery
 dowager
 dianoetic
 dowagers
+dipneust
 dispersions
 dromical
 dertra
