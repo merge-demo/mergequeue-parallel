@@ -6430,7 +6430,6 @@ cavilingly
 craftsmen
 ceraunogram
 cronkness
-conrectorship
 catharticalness
 caviller
 chemins
@@ -18943,6 +18942,7 @@ colladas
 crematoria
 chirm
 collage
+conrectorship
 collagenase
 collagenic
 collagenous
