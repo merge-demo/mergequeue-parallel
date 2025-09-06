@@ -2318,7 +2318,6 @@ antihemisphere
 anfractuosity
 ashes
 acaricidal
-acinic
 aciniform
 anatomicophysiological
 aggrate
@@ -9559,6 +9558,7 @@ anniverse
 acrotarsial
 alohas
 annihilationism
+acinic
 aquage
 alumish
 alumite
