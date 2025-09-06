@@ -15973,7 +15973,6 @@ carryovers
 clerkdom
 clerkess
 cypraeid
-comprint
 carcinosis
 clerkless
 cerecloths
@@ -19948,6 +19947,7 @@ conched
 comings
 comism
 childishly
+comprint
 comital
 cabots
 comitatensian
