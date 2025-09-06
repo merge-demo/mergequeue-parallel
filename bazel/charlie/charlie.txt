@@ -8236,6 +8236,7 @@ complexity
 carbure
 corallet
 choyroot
+cuesta
 chalinitis
 chalkboard
 chalked
@@ -12907,7 +12908,6 @@ chutzpa
 carbanion
 chutzpanik
 concentre
-cuesta
 cia
 crystallised
 cyan
