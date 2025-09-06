@@ -785,7 +785,6 @@ atrabiliary
 albinism
 abrotine
 allosematic
-abruptio
 abruption
 addedly
 abruptness
@@ -2078,6 +2077,7 @@ adspiration
 amortissement
 arborized
 achiness
+abruptio
 apocryphalist
 achinesses
 aching
