@@ -16869,6 +16869,7 @@ apishamore
 alfa
 anoure
 aphagia
+awarded
 anhima
 adenovirus
 astringe
@@ -24919,7 +24920,6 @@ automotor
 awane
 ankylose
 adroit
-awarded
 awardee
 awkwardish
 antilogarithmic
