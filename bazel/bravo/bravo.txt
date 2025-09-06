@@ -3985,7 +3985,6 @@ binges
 beadmen
 blepharophimosis
 builds
-barcelonas
 besquib
 bostryx
 beadwork
@@ -6630,6 +6629,7 @@ berigora
 beryl
 beryllonate
 berimed
+barcelonas
 beseemly
 bodyhood
 bering
