@@ -6347,7 +6347,6 @@ dugong
 dejeune
 dermophobe
 duodenum
-dermosclerite
 dermotropic
 dastardliness
 derms
@@ -13189,6 +13188,7 @@ diaphototropism
 dethyroidism
 decompositions
 defamer
+dermosclerite
 dipeptidase
 disuniter
 disperple

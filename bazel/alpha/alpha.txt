@@ -1940,7 +1940,6 @@ acrologically
 alap
 acetophenetidine
 allergen
-anurias
 abrogations
 astel
 acerin
@@ -13644,6 +13643,7 @@ abhorrer
 animalised
 assertrix
 acanthaceae
+anurias
 acarines
 apopemptic
 albuquerque
