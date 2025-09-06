@@ -5187,7 +5187,6 @@ butenes
 broadwife
 battu
 breezed
-bettong
 backfatter
 befuddle
 befuddler
@@ -6505,6 +6504,7 @@ bundies
 bosnisch
 benedick
 bimong
+bettong
 berri
 bewelcome
 bavarois
