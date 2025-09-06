@@ -12117,7 +12117,6 @@ chresmology
 columbiferous
 chrestomathies
 celluliferous
-chimere
 chria
 clave
 chris
@@ -13925,6 +13924,7 @@ cynosure
 cynosures
 cynosurus
 cynotherapy
+chimere
 cynoxylon
 cinquains
 counterrevolutionize
