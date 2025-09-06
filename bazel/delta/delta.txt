@@ -2678,7 +2678,6 @@ dichroite
 diducing
 deliberated
 depart
-disaffiliate
 defamous
 devonshire
 dissembling
@@ -14226,6 +14225,7 @@ disencrease
 daywork
 deringer
 dunair
+disaffiliate
 disunify
 disorientates
 dolesman
