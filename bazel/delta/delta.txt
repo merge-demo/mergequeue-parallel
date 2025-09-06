@@ -5998,6 +5998,7 @@ driddle
 daunii
 diagraphics
 depthless
+dawks
 diamagnetize
 diagrammitically
 depthlessness
@@ -6198,7 +6199,6 @@ doe
 derivativeness
 dacoit
 derivedness
-dawks
 deriver
 devotees
 disvaluation
