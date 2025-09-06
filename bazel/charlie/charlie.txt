@@ -2521,7 +2521,6 @@ childproof
 cacqueteuse
 candlepins
 chemist
-cerevis
 candler
 candlerent
 concealed
@@ -18413,6 +18412,7 @@ creepy
 chatchkas
 compactedness
 cognition
+cerevis
 cucullated
 clavicembali
 conclude
