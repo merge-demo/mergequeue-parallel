@@ -23649,7 +23649,6 @@ courteous
 contr
 contrabandage
 chirpling
-contrabandery
 causticiser
 contrabandista
 corrodentia
@@ -27338,6 +27337,7 @@ congee
 chartographer
 colloquialize
 courteousness
+contrabandery
 courtepy
 courter
 cozily
