@@ -18183,7 +18183,6 @@ acquisitum
 autocades
 arability
 arabin
-arabinosic
 andevo
 anthropidae
 alibility
@@ -18279,6 +18278,7 @@ algaroba
 amerindian
 anisometrope
 aramaicize
+arabinosic
 assembling
 androgynus
 apoplectic
