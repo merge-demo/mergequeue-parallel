@@ -12060,6 +12060,7 @@ anbury
 alternaria
 assistive
 ancestorially
+anemoscope
 alcoholisation
 ancestors
 ancestral
@@ -12394,7 +12395,6 @@ anguillidae
 anemopathy
 astroscope
 antisudorific
-anemoscope
 acquiescer
 antivice
 anticonformities
