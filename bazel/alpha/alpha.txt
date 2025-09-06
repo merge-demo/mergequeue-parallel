@@ -21173,7 +21173,6 @@ anhydrate
 anarthric
 asides
 assent
-acinacifolious
 acroscleriasis
 averaged
 asideu
@@ -21651,6 +21650,7 @@ asserter
 alfaki
 automatics
 agrise
+acinacifolious
 archegonium
 assertingly
 anathematically
