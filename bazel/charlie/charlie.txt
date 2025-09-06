@@ -79,7 +79,6 @@ conglutinative
 crenelate
 cabbies
 cabble
-cabbled
 cabbler
 cabdriving
 corydora
@@ -26864,6 +26863,7 @@ copperleaf
 counterlath
 corticospinal
 counterlathed
+cabbled
 comingle
 cubiform
 carpogonial
