@@ -7946,7 +7946,6 @@ brachystaphylic
 blastaea
 bicyclist
 bostal
-bicycular
 bicylindrical
 boodler
 blenches
@@ -16523,6 +16522,7 @@ bibliopolic
 beamster
 bewitchful
 bracings
+bicycular
 buccally
 buenos
 buccaneer
