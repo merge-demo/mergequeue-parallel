@@ -9780,7 +9780,6 @@ barbing
 brands
 begums
 bites
-birefringent
 bebat
 bytes
 bitewing
@@ -13492,6 +13491,7 @@ bourre
 beseek
 boneyards
 botulisms
+birefringent
 brief
 brodequin
 briquette
