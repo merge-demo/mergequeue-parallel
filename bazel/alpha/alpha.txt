@@ -4787,7 +4787,6 @@ aeroelasticity
 aerofoils
 algine
 amberfish
-antisyndication
 aerogel
 aggravation
 antilogous
@@ -10454,6 +10453,7 @@ ascomycetous
 amidol
 amidophenol
 ausones
+antisyndication
 authorisation
 apollonia
 anandrous

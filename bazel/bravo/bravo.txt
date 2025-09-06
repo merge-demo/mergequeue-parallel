@@ -8668,6 +8668,7 @@ brule
 barhopping
 bimetals
 bolsters
+buonamani
 brauneria
 barchans
 bimethyls
@@ -15348,7 +15349,6 @@ bagged
 brilliandeer
 budgerigars
 breechblock
-buonamani
 brilliant
 beheading
 brilliantined
