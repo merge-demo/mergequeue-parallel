@@ -1514,6 +1514,7 @@ anoterite
 attentate
 apprompt
 alkoranic
+anhalamine
 abidden
 autacoids
 accomplisht
@@ -12893,7 +12894,6 @@ angwich
 antisupernaturalist
 archly
 anhaemolytic
-anhalamine
 agynic
 ataraxics
 anhalonidine
