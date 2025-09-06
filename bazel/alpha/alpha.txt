@@ -14374,7 +14374,6 @@ ascogonidia
 anticorrosive
 algologically
 adnoun
-antitetanolysin
 anthropoid
 anthropoidean
 antigraphy
@@ -21084,6 +21083,7 @@ antinaturalness
 ashamnu
 arteriagra
 ashangos
+antitetanolysin
 aggrandizers
 ashanti
 archilla
