@@ -5369,7 +5369,6 @@ aftercome
 australasian
 acrostichic
 autocamper
-ambe
 aftercooler
 almoning
 alahee
@@ -19224,6 +19223,7 @@ areologies
 attainable
 areometry
 adenocele
+ambe
 axebreaker
 areometrical
 arbutus
