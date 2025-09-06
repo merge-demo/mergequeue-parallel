@@ -5273,7 +5273,6 @@ birsy
 beghard
 begild
 boltonia
-biscuitmaker
 biconical
 bezzants
 bugbite
@@ -7797,6 +7796,7 @@ bookiness
 barefisted
 bartizan
 bohmite
+biscuitmaker
 biblical
 bobsledders
 benamed

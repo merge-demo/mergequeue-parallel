@@ -429,7 +429,6 @@ devaluate
 dithered
 dorsoanterior
 dairywomen
-descanting
 decametric
 dayrooms
 diazoma
@@ -16627,6 +16626,7 @@ disingenuity
 draft
 dragee
 disputed
+descanting
 dragger
 draggers
 draggier
