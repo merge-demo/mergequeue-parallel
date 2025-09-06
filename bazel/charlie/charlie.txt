@@ -170,7 +170,6 @@ counterextend
 cystoscopies
 caboshed
 cabotage
-clangored
 cabotin
 cristineaux
 cabotinage
@@ -6482,6 +6481,7 @@ caxtonian
 crestfallen
 caza
 cazimi
+clangored
 chamois
 crossability
 chondrofetal
