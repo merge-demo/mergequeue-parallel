@@ -18512,6 +18512,7 @@ coggie
 coherer
 cecidomyiidae
 cohering
+commandite
 chondrosarcomas
 croceus
 candidest
@@ -19981,7 +19982,6 @@ corolitic
 commandingly
 conceptualistically
 commandingness
-commandite
 cibola
 commandless
 cruentate

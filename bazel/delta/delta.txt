@@ -4647,6 +4647,7 @@ dulcite
 demisangue
 denarius
 dustproof
+doucet
 demiscible
 denticulate
 demise
@@ -15828,7 +15829,6 @@ dorbel
 dorbugs
 dorcastry
 diadermic
-doucet
 disentrain
 doria
 demiturned
