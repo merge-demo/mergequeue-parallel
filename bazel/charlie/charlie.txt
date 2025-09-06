@@ -1636,7 +1636,6 @@ claustra
 caricography
 calorifier
 calorigenic
-calorimeters
 chromatophore
 calorimetry
 cleanlily
@@ -12332,6 +12331,7 @@ chrysomonadine
 chromatically
 carcinogen
 chromatician
+calorimeters
 caricatural
 chromaticness
 conuses
