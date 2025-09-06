@@ -21488,7 +21488,6 @@ aureal
 adorns
 aspiringly
 antifebrile
-adpromissor
 anabata
 anakoluthia
 aspises
@@ -22542,6 +22541,7 @@ athermanous
 athermic
 atherogenesis
 agricole
+adpromissor
 atheroma
 aerobic
 aratinga
