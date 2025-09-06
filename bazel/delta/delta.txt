@@ -1211,6 +1211,7 @@ dialyzers
 dorical
 diapasonal
 dermatoskeleton
+diallelus
 dreggier
 daystars
 dieb
@@ -8404,7 +8405,6 @@ deadwort
 dt
 darns
 dishonorably
-diallelus
 dysphasic
 drowned
 diallings
