@@ -6075,6 +6075,7 @@ beamier
 bittering
 bowgrace
 bibliographical
+bezzled
 bendees
 buyout
 biobibliographies
@@ -9628,7 +9629,6 @@ booksellerish
 bethanked
 beneficing
 browses
-bezzled
 bismuthinite
 bejumble
 busking
