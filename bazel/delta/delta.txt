@@ -1692,7 +1692,6 @@ deathify
 discreteness
 dispensible
 diobol
-densifier
 deterioration
 discantus
 duckpond
@@ -8322,6 +8321,7 @@ dialectal
 duadic
 draftier
 duim
+densifier
 darkishness
 ditrigonally
 dugal
