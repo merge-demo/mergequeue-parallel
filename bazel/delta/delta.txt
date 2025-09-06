@@ -4313,6 +4313,7 @@ durning
 delimit
 dequeue
 diversicolored
+devising
 demagogic
 dodipole
 decener
@@ -7760,7 +7761,6 @@ disastimeter
 dogmatization
 desulphurized
 dikaryon
-devising
 diverticle
 direption
 devourer
