@@ -5990,7 +5990,6 @@ depth
 dispraise
 droopy
 detonize
-devitation
 dentiled
 domajigger
 dining
@@ -18099,6 +18098,7 @@ dullnesses
 disgavelled
 deglaze
 degreeing
+devitation
 drunkelew
 deflexing
 demihearse
