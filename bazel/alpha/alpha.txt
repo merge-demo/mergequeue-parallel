@@ -1030,6 +1030,7 @@ arsenization
 apologizer
 abt
 abterminal
+antarctalia
 archreactionary
 aphelion
 abthainrie
@@ -8090,7 +8091,6 @@ atavist
 aln
 alterne
 aliamenta
-antarctalia
 aleutians
 alibangbang
 attracted
