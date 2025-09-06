@@ -21738,7 +21738,6 @@ amiced
 assimilates
 assimilating
 andoroba
-analyzers
 aerophobia
 assimilationist
 archegoniatae
@@ -24158,6 +24157,7 @@ ambuscade
 autoloader
 alangin
 autology
+analyzers
 aporrhea
 autological
 astart
