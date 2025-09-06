@@ -734,7 +734,6 @@ badgeringly
 bugles
 boyish
 badgerlike
-badmash
 bending
 burlaps
 befoul
@@ -12524,6 +12523,7 @@ boser
 batsmanship
 bacubert
 bud
+badmash
 bawrel
 bonnyvis
 brashness
