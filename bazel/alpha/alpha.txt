@@ -18899,6 +18899,7 @@ alday
 alphabetary
 architricline
 archaeostomatous
+auxotroph
 archival
 archivault
 archiver
@@ -24510,7 +24511,6 @@ anticommunism
 aniba
 auxotonic
 auxotox
-auxotroph
 avadana
 amplifiers
 autocade
