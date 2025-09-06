@@ -3160,7 +3160,6 @@ arborise
 aedine
 appendage
 axal
-abloom
 acutilobate
 acutiplantar
 atterminal
@@ -24883,6 +24882,7 @@ adiponitrile
 abjuring
 awadhi
 awayness
+abloom
 awaynesses
 accommodatively
 accommodableness
