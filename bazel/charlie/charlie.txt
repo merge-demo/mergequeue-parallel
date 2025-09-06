@@ -7313,7 +7313,6 @@ coutil
 cephaloid
 cuticles
 crepuscle
-cephalology
 courtin
 cryolites
 coquettishness
@@ -30490,6 +30489,7 @@ cubelet
 corrupter
 caladiums
 correctives
+cephalology
 cubelium
 carsten
 cubera
