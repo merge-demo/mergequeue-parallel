@@ -1126,7 +1126,6 @@ calculatedly
 contango
 calculatedness
 calculates
-calculatingly
 cony
 compeer
 correlate
@@ -7481,6 +7480,7 @@ cramberry
 cursoria
 cercosporella
 canalisation
+calculatingly
 cercus
 cereal
 carrus

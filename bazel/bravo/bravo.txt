@@ -4838,6 +4838,7 @@ beechnut
 breakstone
 bloomage
 backspeer
+bailli
 bomarea
 broadsiding
 beechwood
@@ -12963,7 +12964,6 @@ bopped
 bolshevize
 bathless
 bombastical
-bailli
 brigadiers
 beelike
 bedquilts
