@@ -2133,7 +2133,6 @@ dawn
 doubted
 del
 dilatator
-ditheistic
 drayhorse
 dipterans
 dehydroffrozen
@@ -9512,6 +9511,7 @@ digestively
 distaff
 digestiveness
 dipteroi
+ditheistic
 doko
 dermad
 domically
