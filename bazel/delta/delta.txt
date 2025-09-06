@@ -4715,7 +4715,6 @@ drydenism
 diabolic
 ducklar
 demivambrace
-dorsicollar
 diminutivize
 defoliates
 doeskins
@@ -10810,6 +10809,7 @@ dipsomaniac
 dietotherapeutics
 dipsomaniacs
 dipsopathy
+dorsicollar
 daintiest
 denunciatory
 database
