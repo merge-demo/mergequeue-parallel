@@ -8619,7 +8619,6 @@ commissionaire
 chansonniers
 chantey
 counterlighted
-corrigiolaceae
 chantepleure
 colossality
 chanterelle
@@ -30433,6 +30432,7 @@ casel
 ctenophoric
 certiorate
 ctenoplana
+corrigiolaceae
 ctenostomata
 ceratophyllaceae
 ctetology
