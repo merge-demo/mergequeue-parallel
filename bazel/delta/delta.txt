@@ -14344,7 +14344,6 @@ deviances
 disclamatory
 dithion
 dithionous
-dephilosophize
 devotionate
 demoralizes
 demarcature
@@ -17991,6 +17990,7 @@ dugway
 delphin
 deaerator
 duhr
+dephilosophize
 desamidization
 dui
 drinker
