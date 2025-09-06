@@ -10075,7 +10075,6 @@ cheth
 communalized
 chetopod
 ceonocyte
-chetrum
 chlorohydrin
 consanguinities
 chetvert
@@ -17357,6 +17356,7 @@ clit
 chickory
 coarsening
 cercomonas
+chetrum
 cotransubstantiate
 coarsens
 coarticulate
