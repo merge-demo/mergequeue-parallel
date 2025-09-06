@@ -8027,6 +8027,7 @@ banyai
 belleeks
 bimillennium
 bicostate
+bandurrias
 bicrenate
 bicrofarad
 bicrural
@@ -12278,7 +12279,6 @@ bombline
 bowdrill
 bombast
 buglers
-bandurrias
 bezzi
 biophor
 boterol

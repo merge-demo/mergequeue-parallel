@@ -18806,6 +18806,7 @@ conodonts
 consumptivity
 chaplet
 coleochaetaceous
+cothurnal
 caravaned
 cabochon
 codirects
@@ -25396,7 +25397,6 @@ cornloft
 cornmeal
 ceramicist
 cachetic
-cothurnal
 contumaciousness
 cornmeals
 cornmuse
