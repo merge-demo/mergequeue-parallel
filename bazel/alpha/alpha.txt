@@ -13093,7 +13093,6 @@ achromatocyte
 animosity
 animoso
 aftosas
-aegithognathous
 animous
 animus
 agomphious
@@ -18386,6 +18385,7 @@ aquamanile
 accidentalist
 alroot
 arbitration
+aegithognathous
 arbitrative
 ambages
 appetent
