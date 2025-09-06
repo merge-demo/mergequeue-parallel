@@ -2241,7 +2241,6 @@ detumescence
 dogmas
 demotion
 dominiums
-decemplex
 dissocialize
 decempunctate
 decemstriate
@@ -12133,6 +12132,7 @@ demerits
 disentitled
 didelphine
 disentitlement
+decemplex
 dudishly
 drepanaspis
 disentomb
