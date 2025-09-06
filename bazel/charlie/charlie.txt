@@ -2155,6 +2155,7 @@ campongs
 cosmo
 convincing
 cheiropodist
+chloroethylene
 coccygotomy
 coteline
 counterhammering
@@ -11272,7 +11273,6 @@ candace
 chlorodizing
 cradlers
 chloroethene
-chloroethylene
 chlorofluorocarbon
 chlorofluoromethane
 ceylanite
