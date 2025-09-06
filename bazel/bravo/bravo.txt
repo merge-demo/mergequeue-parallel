@@ -3259,7 +3259,6 @@ basilicock
 basilidan
 basilidian
 baralipton
-basilidianism
 brome
 babydom
 birder
@@ -15010,6 +15009,7 @@ brushmaker
 baseboard
 bedebt
 bodiment
+basilidianism
 bastarda
 baltimorite
 blousons
