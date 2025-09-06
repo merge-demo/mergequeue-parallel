@@ -7716,7 +7716,6 @@ confesses
 ceruleous
 ceratophrys
 cerulific
-cerulignol
 cerumen
 calzoons
 calibres
@@ -27848,6 +27847,7 @@ compurgation
 concreting
 carbanilide
 crackbrained
+cerulignol
 carpognia
 crackbrainedness
 crackdowns
