@@ -2099,7 +2099,6 @@ banshies
 bornan
 bakelize
 bronchostomy
-blippers
 betrough
 branchihyal
 bourkha
@@ -14428,6 +14427,7 @@ birdman
 basiophthalmous
 barricado
 balimbing
+blippers
 breamed
 biometrist
 becivet
