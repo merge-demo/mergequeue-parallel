@@ -4791,6 +4791,7 @@ bustier
 bedunce
 buskins
 bustard
+billycan
 becrusts
 bacchantes
 bourgeon
@@ -11441,7 +11442,6 @@ bizzarro
 barothermogram
 backwinding
 bluffer
-billycan
 befretted
 botryllidae
 bluffest
