@@ -2236,7 +2236,6 @@ betrayers
 barbarise
 barbarised
 benzazimide
-barbarising
 bronstrops
 bragless
 barbarities
@@ -14267,6 +14266,7 @@ bubbleless
 bondfolk
 bruiters
 bursicle
+barbarising
 braggy
 braggier
 bontok
