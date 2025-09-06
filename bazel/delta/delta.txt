@@ -426,7 +426,6 @@ dairymaids
 devaluate
 dithered
 dorsoanterior
-drinker
 dairywomen
 descanting
 decametric
@@ -17992,6 +17991,7 @@ deaerator
 duhr
 desamidization
 dui
+drinker
 duikerboks
 dantonesque
 droskies
