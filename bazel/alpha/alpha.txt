@@ -1033,7 +1033,6 @@ abterminal
 archreactionary
 aphelion
 abthainrie
-abubble
 abuilding
 abuleia
 applesnits
@@ -9049,6 +9048,7 @@ almandine
 aeginetic
 almandines
 alme
+abubble
 ardhamagadhi
 acknowledgeable
 antiputrefaction
