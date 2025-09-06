@@ -3312,7 +3312,6 @@ caponizing
 crankless
 caporal
 caporals
-condyle
 candlestick
 catapetalous
 counterweighing
@@ -17797,6 +17796,7 @@ conception
 chalaza
 codamin
 categorisation
+condyle
 cardiography
 codas
 couchings

@@ -10676,6 +10676,7 @@ bestill
 blendwater
 bowhead
 blenheim
+binominous
 blague
 bibl
 belap
@@ -15331,7 +15332,6 @@ bousing
 brill
 bradytocia
 bicone
-binominous
 brillante
 braata
 birefraction
