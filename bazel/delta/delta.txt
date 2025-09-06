@@ -3565,7 +3565,6 @@ degenerateness
 degenerating
 degenerescence
 diammonium
-degeneroos
 degerm
 donnish
 doated
@@ -10514,6 +10513,7 @@ diphthongally
 dipneust
 dismortgaged
 dispost
+degeneroos
 diphthongation
 dilutedness
 dendrodra
