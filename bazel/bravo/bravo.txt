@@ -1628,6 +1628,7 @@ blumea
 bursitises
 bassinets
 begluc
+bandog
 banneret
 brairding
 bestar
@@ -2223,7 +2224,6 @@ bast
 ballism
 bridgebote
 barbarianizing
-bandog
 bevesselled
 backbites
 barbarically

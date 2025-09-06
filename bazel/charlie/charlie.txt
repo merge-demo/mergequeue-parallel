@@ -28243,7 +28243,6 @@ crossfiring
 copying
 cosher
 conine
-cephalothoracic
 carabineer
 cran
 cabotages
@@ -31529,6 +31528,7 @@ conveyal
 cursives
 chorused
 chromosomes
+cephalothoracic
 cursorary
 cundite
 cursory
