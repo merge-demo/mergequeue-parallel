@@ -8212,7 +8212,6 @@ bewake
 benzophosphinic
 balanophorin
 brakehead
-bedsteads
 bovarysm
 bebeerus
 bigamies
@@ -9924,6 +9923,7 @@ binnite
 blethering
 byelaw
 biland
+bedsteads
 betrap
 bergerette
 bultong

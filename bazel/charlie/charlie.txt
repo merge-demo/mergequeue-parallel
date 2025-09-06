@@ -5536,6 +5536,7 @@ chickenhearted
 catamiting
 cordaitean
 costa
+chargable
 catamount
 catanadromous
 catapasm
@@ -8897,7 +8898,6 @@ cathexis
 chareter
 charette
 censers
-chargable
 cyanosed
 coasserter
 combmaker
