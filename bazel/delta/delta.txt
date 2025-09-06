@@ -9210,6 +9210,7 @@ doughlike
 digenesis
 dye
 dogship
+drumloidal
 dalk
 duelled
 disentwine
@@ -17591,7 +17592,6 @@ diatomous
 drumlins
 dorsiferous
 diciest
-drumloidal
 drummer
 duckhearted
 deathlike
