@@ -682,7 +682,6 @@ boiseries
 baculoid
 baculus
 badaga
-badarian
 borsches
 bumbarge
 barnstormed
@@ -7603,6 +7602,7 @@ balanidae
 brasilins
 bilabiate
 bezan
+badarian
 biplace
 budless
 bezanty
