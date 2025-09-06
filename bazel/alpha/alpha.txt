@@ -1255,7 +1255,6 @@ androlepsia
 asleep
 amay
 apochae
-acarophobia
 acarotoxic
 audrey
 aerognosy
@@ -3799,6 +3798,7 @@ aerostats
 autumns
 akinetic
 adjudicators
+acarophobia
 amores
 aversely
 aphidian
