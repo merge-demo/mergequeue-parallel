@@ -7882,6 +7882,7 @@ besmirchment
 balsamum
 biblists
 bowlders
+banc
 buoyed
 bezoar
 blockwood
@@ -9082,7 +9083,6 @@ bionomical
 biostatic
 biostatical
 bletting
-banc
 beefburger
 birling
 bhaktas
