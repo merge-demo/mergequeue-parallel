@@ -24082,7 +24082,6 @@ conversationable
 competency
 coactor
 crimpy
-conversational
 caneware
 conversationalists
 conversationally
@@ -30238,6 +30237,7 @@ crumhorn
 cataphyll
 caingin
 crummed
+conversational
 crummer
 crummy
 consummativeness
