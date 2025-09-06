@@ -4705,7 +4705,6 @@ analyse
 autocross
 arboreal
 aperture
-amidase
 aequoreal
 abounding
 actinolitic
@@ -13644,6 +13643,7 @@ abhorrer
 animalised
 assertrix
 acanthaceae
+amidase
 acarines
 apopemptic
 albuquerque
