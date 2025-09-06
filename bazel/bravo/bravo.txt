@@ -3777,7 +3777,6 @@ boatsmanship
 blksize
 bitterbush
 brujas
-bantay
 birring
 bootleg
 baubo
@@ -5947,6 +5946,7 @@ bridaler
 bombycidae
 benchwarmer
 bouldering
+bantay
 bosslet
 bellarmine
 bemaddened
