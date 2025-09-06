@@ -20080,7 +20080,6 @@ cadmus
 capybaras
 commensally
 carvels
-campodeid
 commensurability
 commensurable
 cajoled
@@ -30833,6 +30832,7 @@ crabapple
 cleithrum
 copaline
 culot
+campodeid
 compromissary
 cantut
 cabdriver

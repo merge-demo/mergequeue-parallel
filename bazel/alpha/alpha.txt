@@ -19252,6 +19252,7 @@ anabrosis
 arf
 aroar
 archrepresentative
+ascocarp
 allalinite
 annexure
 asse
@@ -20954,7 +20955,6 @@ adamant
 ashpan
 antiapoplectic
 aerogenesis
-ascocarp
 ascocarps
 amarillo
 amherstite
