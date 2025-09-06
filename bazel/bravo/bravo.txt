@@ -6536,7 +6536,6 @@ berberis
 berberry
 bitbrace
 bournous
-booted
 bagattino
 berdache
 battuta
@@ -16126,6 +16125,7 @@ broussonetia
 bromin
 browbeating
 bathmotropism
+booted
 baiter
 browet
 badgeless
