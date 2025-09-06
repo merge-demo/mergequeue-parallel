@@ -13154,7 +13154,6 @@ apograph
 anisocotyledonous
 anisodactyla
 anonol
-anisodactyli
 anamnesis
 asnort
 anisodactylic
@@ -22620,6 +22619,7 @@ ahurewa
 arhar
 acrospired
 auditorially
+anisodactyli
 australianize
 atikokania
 atimon
