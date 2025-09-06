@@ -890,6 +890,7 @@ airworthiest
 apostrophi
 adversant
 archecentric
+amphigaea
 apocrine
 absolutory
 absolve
@@ -11174,7 +11175,6 @@ amphidisc
 acridan
 aversant
 aerophilia
-amphigaea
 aerostat
 amphigam
 anomoeanism
