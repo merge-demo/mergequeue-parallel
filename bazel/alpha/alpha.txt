@@ -2643,7 +2643,6 @@ antiscorbutic
 aviatrices
 acrimonious
 acrindoline
-abortive
 allamonti
 arak
 acritan
@@ -7838,6 +7837,7 @@ acrophobia
 alethopteroid
 anklebones
 acetabuliform
+abortive
 arugula
 archidium
 alethoscope
