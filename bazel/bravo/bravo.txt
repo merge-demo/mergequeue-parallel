@@ -2896,7 +2896,6 @@ bestride
 badinage
 barrater
 barratries
-becrawls
 barratrously
 barrelage
 barreleyes
@@ -9908,6 +9907,7 @@ bisecting
 beryllate
 brevit
 bilinguality
+becrawls
 bridleman
 burbles
 biases
