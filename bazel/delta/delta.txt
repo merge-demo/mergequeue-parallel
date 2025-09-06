@@ -5136,7 +5136,6 @@ deny
 deices
 daughterlike
 deading
-dismastment
 dentinoid
 donnishly
 disarming
@@ -15889,6 +15888,7 @@ drover
 dornocks
 desanded
 dumka
+dismastment
 dacryohemorrhea
 diphthongalize
 didna
