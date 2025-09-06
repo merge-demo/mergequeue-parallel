@@ -1369,6 +1369,7 @@ deleted
 demilitarize
 dismain
 doketism
+dipt
 dispraiser
 dorsiflexor
 delis
@@ -11633,7 +11634,6 @@ drees
 dipsadine
 dispassionately
 diandrous
-dipt
 disconectae
 dosology
 disconjure
