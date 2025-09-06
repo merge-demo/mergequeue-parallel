@@ -4766,7 +4766,6 @@ branchia
 bribe
 bedspring
 benedicite
-brazenface
 bikh
 broletto
 bradypodoid
@@ -6049,6 +6048,7 @@ binauricular
 bunkermen
 benchership
 bespete
+brazenface
 bodge
 blusters
 barragon

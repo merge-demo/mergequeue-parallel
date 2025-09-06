@@ -6784,6 +6784,7 @@ destined
 dredger
 dermographic
 deslime
+disfashion
 desmachyme
 dialyzate
 daubery
@@ -12203,7 +12204,6 @@ discubitory
 disexercise
 disfaith
 disconsolance
-disfashion
 deviser
 diplosome
 disgruntles
