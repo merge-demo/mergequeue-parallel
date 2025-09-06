@@ -8166,6 +8166,7 @@ alienist
 abulic
 alienists
 alienize
+armoured
 aliens
 acetanion
 axiologist
@@ -17263,7 +17264,6 @@ aldane
 aumail
 apostatize
 apostatizing
-armoured
 apostaxis
 apostem
 armigeral
