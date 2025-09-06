@@ -2897,7 +2897,6 @@ alisma
 actinobaccilli
 anchusins
 acclamations
-alcyon
 adrenolytic
 actinoblast
 actinobranch
@@ -6810,6 +6809,7 @@ airview
 acanthodidae
 acrodromous
 airway
+alcyon
 aflutter
 airwayman
 airwards
