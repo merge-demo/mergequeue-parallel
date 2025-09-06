@@ -5843,7 +5843,6 @@ dimagnesic
 depraver
 docetic
 dragonfly
-doliolidae
 deadtongue
 dags
 dyophysitical
@@ -17498,6 +17497,7 @@ dentiroster
 devitrified
 drouking
 deprehension
+doliolidae
 deforcer
 delphacid
 determinacy
