@@ -14246,7 +14246,6 @@ circumjacency
 circumjovial
 circumlitio
 circumlittoral
-confix
 circumlocute
 circumlocution
 cypripedin
@@ -22844,6 +22843,7 @@ consequent
 ciconian
 consequential
 communalist
+confix
 commorancies
 consequentialities
 commemorator
