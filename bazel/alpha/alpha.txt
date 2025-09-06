@@ -4713,7 +4713,6 @@ abounding
 actinolitic
 aerobioscope
 aerobiosis
-addleheaded
 aerobiotic
 amies
 aerobious
@@ -12729,6 +12728,7 @@ antiepicenter
 angiport
 autoinductive
 artiest
+addleheaded
 anaemic
 angkhak
 ammoniticone
