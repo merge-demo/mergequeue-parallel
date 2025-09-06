@@ -1204,7 +1204,6 @@ datcha
 disparison
 demiassignation
 dragooner
-deleads
 dulcinist
 dextrines
 dialyzers
@@ -15870,6 +15869,7 @@ detenu
 deproceduring
 dormers
 dormette
+deleads
 dormeuse
 dormient
 dormilona
