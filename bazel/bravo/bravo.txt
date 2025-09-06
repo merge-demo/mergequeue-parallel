@@ -9723,6 +9723,7 @@ beerothite
 bistres
 boltmaking
 boeotarch
+bladelike
 brights
 blateness
 bewitching
@@ -10993,7 +10994,6 @@ beweeping
 brache
 belemnoidea
 backstairs
-bladelike
 bargello
 bp
 behinder
