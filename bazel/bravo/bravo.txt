@@ -2327,7 +2327,6 @@ barbierite
 busyish
 bronchoegophony
 bromite
-briber
 barbita
 barbital
 brighteners
@@ -10737,6 +10736,7 @@ beavered
 boody
 bibulus
 biorhythmic
+briber
 bronchomotor
 bleo
 befuddlers
