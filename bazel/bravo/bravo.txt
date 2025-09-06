@@ -7030,6 +7030,7 @@ bespate
 brickbatted
 burushaski
 brockages
+biaxillary
 bezzant
 bennetweed
 bannerette
@@ -14724,7 +14725,6 @@ brawlingly
 bearbind
 brawlsome
 brawnedness
-biaxillary
 brailles
 brawnily
 bloodsuckers
