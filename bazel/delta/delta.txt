@@ -4269,6 +4269,7 @@ deutomalal
 deluges
 disgustful
 dikaryophase
+dependancy
 donar
 decoagulated
 dramatize
@@ -8277,7 +8278,6 @@ diagram
 diagrammed
 drengh
 disrelation
-dependancy
 dynamiting
 dagesh
 digitation
