@@ -3355,6 +3355,7 @@ dermatoptera
 digoneutism
 decreasing
 depurition
+discolourization
 doubting
 drawler
 diffractive
@@ -11550,7 +11551,6 @@ discolorment
 discolouring
 decatyl
 disconnectiveness
-discolourization
 discourt
 discombobulate
 disuniform
