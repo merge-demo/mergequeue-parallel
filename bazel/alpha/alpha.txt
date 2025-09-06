@@ -7737,7 +7737,6 @@ arbors
 apachism
 alectoromachy
 angiospermae
-alectoromancy
 amphibiological
 alectoropodous
 apse
@@ -8439,6 +8438,7 @@ arapahos
 abrahamic
 alkylate
 atremate
+alectoromancy
 alkylic
 appendiculariidae
 antiphonetic
