@@ -1249,7 +1249,6 @@ calfkill
 calfless
 calflike
 cacochymical
-calfling
 calfskin
 creatural
 cub
@@ -19662,6 +19661,7 @@ coach
 cycloconium
 columnists
 callets
+calfling
 centref
 cinematographical
 columnized
