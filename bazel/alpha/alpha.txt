@@ -9863,6 +9863,7 @@ almoravides
 amazons
 asterisms
 amazulu
+aupaka
 aphthongal
 abayah
 afferently
@@ -14131,7 +14132,6 @@ afflatuses
 asepticize
 autocystoplasty
 adulterators
-aupaka
 antesignanus
 amnesic
 antesternal
