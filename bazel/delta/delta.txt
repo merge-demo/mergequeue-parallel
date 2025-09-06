@@ -8978,6 +8978,7 @@ dioptrometry
 drifter
 dimethoxymethane
 dentonasal
+doffs
 dom
 deedless
 desirably
@@ -9154,7 +9155,6 @@ dingdong
 didelphoid
 disinclines
 derisory
-doffs
 detriment
 disdiaclasis
 disgracement
