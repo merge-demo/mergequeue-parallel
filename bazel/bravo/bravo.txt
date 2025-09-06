@@ -1662,7 +1662,6 @@ bestrew
 bilobated
 balloted
 bibliothetic
-balibuntl
 balloting
 ballotist
 batell
@@ -3108,6 +3107,7 @@ blabby
 buriels
 baseballer
 betraying
+balibuntl
 beaky
 beautify
 bucrnia
