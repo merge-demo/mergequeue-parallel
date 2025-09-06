@@ -1708,7 +1708,6 @@ accusatives
 antheridial
 archtraitor
 animadverting
-aurification
 antediluvian
 accusatory
 anomaloscope
@@ -11646,6 +11645,7 @@ armorbearer
 acacatechin
 ablator
 acnodes
+aurification
 anagogic
 anagogics
 advecting
