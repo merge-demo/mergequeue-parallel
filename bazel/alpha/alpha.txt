@@ -11372,7 +11372,6 @@ archpriestship
 attendants
 aneroids
 alterations
-apiphobia
 amsath
 autolysis
 aldosteronism
@@ -18389,6 +18388,7 @@ arbitration
 arbitrative
 ambages
 appetent
+apiphobia
 adzer
 arbitratrix
 acquirements
