@@ -10945,7 +10945,6 @@ chirospasm
 circumumbilical
 chirotherian
 chirotherium
-casern
 chastacosta
 comessation
 crocodilia
@@ -26260,6 +26259,7 @@ collegianer
 cultured
 costoapical
 costocentral
+casern
 carmel
 cyclostomate
 cheung
