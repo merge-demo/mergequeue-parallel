@@ -12007,7 +12007,6 @@ bojite
 biscuitry
 boycott
 brot
-bubonidae
 boycotted
 brachiated
 boydekyn
@@ -16509,6 +16508,7 @@ bilamellate
 beerier
 bimasty
 bubbler
+bubonidae
 barit
 brachyurus
 bullshitting
