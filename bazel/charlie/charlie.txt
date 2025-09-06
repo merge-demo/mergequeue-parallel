@@ -612,7 +612,6 @@ caenogenetic
 crimpers
 caenostyly
 caesalpinia
-caenostylic
 commentarial
 clavicytherium
 caenozoic
@@ -7808,6 +7807,7 @@ cyclorrhaphous
 clinician
 cession
 cataloguist
+caenostylic
 clapotis
 cessionaire
 castaway
