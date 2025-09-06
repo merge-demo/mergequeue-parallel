@@ -14796,7 +14796,6 @@ caseless
 conjecturableness
 crotophaga
 cytoblastemous
-cytochemistry
 chameleons
 chararas
 cytochrome
@@ -29832,6 +29831,7 @@ catarrhed
 crossbreeding
 conditionalism
 crosscuts
+cytochemistry
 courtier
 coling
 centrifuges
