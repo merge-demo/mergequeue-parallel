@@ -1860,7 +1860,6 @@ cambuca
 cambuscan
 camel
 comforted
-cameleer
 culverins
 camelia
 cauliflorous
@@ -5209,6 +5208,7 @@ cassiopeian
 chlorohydroquinone
 cassiopeid
 cassiopeium
+cameleer
 cladrastis
 cramps
 cassis
