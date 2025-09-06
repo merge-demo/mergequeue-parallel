@@ -10494,6 +10494,7 @@ commuting
 clerical
 chiliastic
 chiliasts
+corpsbruder
 chilicote
 chilidogs
 coropo
@@ -25595,7 +25596,6 @@ corporification
 corporosity
 corps
 crusting
-corpsbruder
 corpse
 corpses
 creeshy
