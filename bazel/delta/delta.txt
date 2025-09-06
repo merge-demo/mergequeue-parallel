@@ -3259,6 +3259,7 @@ duramater
 distrait
 definiteness
 dahlin
+diceman
 deergrass
 degeneracy
 duplications
@@ -13570,7 +13571,6 @@ dysury
 downtrodden
 dissaving
 djinny
-diceman
 dysgraphia
 dreissensia
 deticks
