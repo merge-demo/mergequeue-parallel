@@ -12586,7 +12586,6 @@ dendron
 dentistical
 decameron
 dugout
-disowning
 disinfecting
 denormalized
 disinfection
@@ -16817,6 +16816,7 @@ drownded
 diophysite
 drats
 dratting
+disowning
 draught
 disbandments
 distal
