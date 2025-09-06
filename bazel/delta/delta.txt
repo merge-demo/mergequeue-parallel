@@ -5377,6 +5377,7 @@ duodenas
 dish
 diamonds
 drown
+disoccluding
 duodecimality
 diwan
 denuclearized
@@ -12975,7 +12976,6 @@ duff
 darkful
 dummying
 disoccluded
-disoccluding
 diductor
 dairy
 disimprovement
