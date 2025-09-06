@@ -8293,7 +8293,6 @@ brusque
 blastocarpous
 bittern
 bantings
-bonefishes
 buhlbuhl
 bronx
 babish
@@ -16665,6 +16664,7 @@ bemba
 betokened
 boget
 bucku
+bonefishes
 buckwagon
 boodie
 buckwheatlike
