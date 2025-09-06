@@ -3018,7 +3018,6 @@ defacement
 doncella
 disgustfully
 disquietingly
-downslip
 diaphragming
 disorder
 deadliness
@@ -5957,6 +5956,7 @@ dottling
 dissimulator
 devonic
 dollish
+downslip
 depeculate
 deadeningly
 dukely
