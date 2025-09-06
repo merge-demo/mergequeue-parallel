@@ -13923,7 +13923,6 @@ beswitch
 behenate
 bishopful
 barwing
-billete
 bostonese
 bowsie
 bacteriuria
@@ -16675,6 +16674,7 @@ bonaci
 ballett
 bucorvus
 bowknots
+billete
 billheading
 biconvex
 burrower
