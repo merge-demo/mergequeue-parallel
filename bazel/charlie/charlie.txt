@@ -26844,7 +26844,6 @@ carbacidometer
 counterideal
 circumambience
 counterimagination
-counterimpulse
 counterindented
 counterindication
 countermining
@@ -31672,6 +31671,7 @@ crumbliest
 cushiness
 cushing
 cushion
+counterimpulse
 cushioned
 cushionet
 cushionflower
