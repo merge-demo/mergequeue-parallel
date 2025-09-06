@@ -5737,7 +5737,6 @@ deplumes
 dentation
 dewanee
 doliolum
-deoxidiser
 demonland
 depoetize
 deconsider
@@ -11368,6 +11367,7 @@ discarnate
 duskier
 dimit
 discusser
+deoxidiser
 diesel
 disadvantagedness
 diptyca
