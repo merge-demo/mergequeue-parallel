@@ -770,7 +770,6 @@ abristle
 abroach
 amphineura
 abrocome
-abrogable
 abrogate
 allergies
 anaglyphy
@@ -15354,6 +15353,7 @@ apocopic
 antimechanization
 antimediaevally
 antimedical
+abrogable
 antimedicine
 acetylizable
 anguiform
