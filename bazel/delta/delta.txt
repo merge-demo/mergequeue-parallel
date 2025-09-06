@@ -56,7 +56,6 @@ discursiveness
 dacryocyst
 diarchial
 dacryocystoptosis
-dacryocystosyringotomy
 derham
 dacryolithiasis
 desmoma
@@ -1022,6 +1021,7 @@ dharana
 dozily
 daybooks
 daggly
+dacryocystosyringotomy
 disseises
 darksomeness
 darksum
