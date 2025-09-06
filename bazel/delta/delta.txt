@@ -13212,6 +13212,7 @@ desalinator
 dysanagnosia
 dondia
 dispetal
+discriminable
 dysphasia
 diplophonia
 dreamery
@@ -17737,7 +17738,6 @@ dubber
 dubbin
 disused
 demipauldron
-discriminable
 dedifferentiation
 decanonization
 dubbins
