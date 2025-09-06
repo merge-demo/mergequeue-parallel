@@ -9043,7 +9043,6 @@ disbar
 dudine
 doornboom
 dicotyledonous
-dicotyles
 disruption
 dicotylidae
 deinosaur
@@ -12761,6 +12760,7 @@ dystomic
 dimorphous
 disli
 dross
+dicotyles
 dislicense
 disperiwig
 diacromyodian
