@@ -6050,7 +6050,6 @@ cattlebush
 cattlefold
 chatellany
 chinpiece
-chelating
 creakier
 cicely
 cancan
@@ -18983,6 +18982,7 @@ corved
 cham
 collates
 collation
+chelating
 collations
 cesti
 collatitious
