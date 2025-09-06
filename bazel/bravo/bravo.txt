@@ -5389,6 +5389,7 @@ beanshooter
 brainteasers
 brakes
 bathylimnetic
+befits
 bentlet
 bars
 betravel
@@ -9043,7 +9044,6 @@ bios
 bargander
 biosciences
 bestrows
-befits
 brasser
 boylikeness
 bioscopy
