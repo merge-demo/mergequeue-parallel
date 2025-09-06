@@ -5653,7 +5653,6 @@ apparencies
 adepts
 agaricaceous
 armadillo
-agaricine
 agaricoid
 agarics
 agaricus
@@ -25233,6 +25232,7 @@ antical
 azeotrope
 azeotropic
 alkyds
+agaricine
 azerbaijani
 azerbaijanian
 azha
