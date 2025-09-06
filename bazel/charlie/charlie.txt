@@ -2518,6 +2518,7 @@ cohusband
 candlemas
 crewel
 childproof
+catheads
 cacqueteuse
 candlepins
 chemist
@@ -14526,7 +14527,6 @@ cankerwort
 corsetry
 chamoised
 cerilla
-catheads
 cyst
 cantara
 consoler
