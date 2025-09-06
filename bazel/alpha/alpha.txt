@@ -4781,7 +4781,6 @@ aerodromes
 arbitrating
 aeroelastic
 aeroelasticity
-adjurors
 aerofoils
 algine
 amberfish
@@ -19415,6 +19414,7 @@ animatism
 anecdotal
 argonauta
 argonautid
+adjurors
 argonne
 argonon
 argons
