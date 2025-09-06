@@ -4028,6 +4028,7 @@ bumperette
 bannerets
 benetnasch
 bovoid
+babish
 beatille
 beefeaters
 bearcats
@@ -8295,7 +8296,6 @@ bittern
 bantings
 buhlbuhl
 bronx
-babish
 bigheartedness
 benedictionale
 bradoon

@@ -2609,7 +2609,6 @@ decomposer
 decomposers
 daddocky
 decomposing
-decomposure
 digne
 desalinate
 dogwatches
@@ -18672,6 +18671,7 @@ dwale
 dirking
 draffiest
 diiamb
+decomposure
 dwarfer
 documentarily
 dwarfisms
