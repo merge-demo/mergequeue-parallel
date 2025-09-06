@@ -14240,6 +14240,7 @@ boanbura
 butyne
 byword
 boodled
+borosilicate
 bureaucratic
 bandfiling
 braehead
@@ -16605,7 +16606,6 @@ buckeyed
 belait
 befringed
 balms
-borosilicate
 bubblelike
 basketfuls
 blithehearted
