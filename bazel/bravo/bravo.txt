@@ -6421,6 +6421,7 @@ bepatched
 bettergates
 bailo
 biddy
+bulwand
 boxings
 bifariously
 boomah
@@ -10545,7 +10546,6 @@ buduma
 begattal
 buns
 blattid
-bulwand
 burnewin
 ballahoo
 brockish
