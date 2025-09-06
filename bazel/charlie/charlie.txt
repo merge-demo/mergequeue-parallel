@@ -9074,7 +9074,6 @@ charter
 charterer
 charterers
 charterhouse
-chartering
 charterism
 calipers
 charterless
@@ -31624,6 +31623,7 @@ caucused
 chlorohydrocarbon
 curvilinead
 carpingly
+chartering
 curvimeter
 curviness
 cecidomyiidous
