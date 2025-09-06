@@ -4145,6 +4145,7 @@ chlorites
 contrade
 cavaliered
 chinatown
+colossochelys
 cunni
 coxalgies
 citeable
@@ -19494,7 +19495,6 @@ charas
 colossians
 colosso
 chemises
-colossochelys
 colostomies
 coryphodont
 contacted
