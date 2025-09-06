@@ -13965,7 +13965,6 @@ anatomical
 asbestiform
 antedates
 antedating
-amortisseur
 attidae
 astur
 antimission
@@ -14920,6 +14919,7 @@ arcform
 attermine
 anthypnotic
 abbes
+amortisseur
 axile
 abetter
 anticreatively
