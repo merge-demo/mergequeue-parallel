@@ -4177,7 +4177,6 @@ clericalists
 covenant
 characteristic
 capercailzie
-coauthored
 cumulates
 cashel
 cursillo
@@ -24184,6 +24183,7 @@ crepeiest
 cornichon
 comedial
 cleaverwort
+coauthored
 chirimoyer
 contemplamen
 coxwain
