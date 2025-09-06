@@ -1587,7 +1587,6 @@ disenrol
 decriminalize
 diodes
 damagingly
-decl
 dealcoholize
 dinoceratan
 deutsche
@@ -13343,6 +13342,7 @@ doughtiness
 demogenic
 deuteranomal
 daidly
+decl
 deleerit
 deutomerite
 dementate
