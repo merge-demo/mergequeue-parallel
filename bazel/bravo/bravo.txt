@@ -943,6 +943,7 @@ bagre
 berryless
 benzoquinone
 batoneer
+bumblings
 belligerently
 bagsful
 bequirtle
@@ -4921,7 +4922,6 @@ bonework
 beeped
 burgware
 boresight
-bumblings
 blesse
 barmier
 bonaveria
