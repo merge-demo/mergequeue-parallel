@@ -16715,7 +16715,6 @@ alle
 antipascha
 atopic
 angiograph
-administer
 alopecist
 abscoulomb
 assayable
@@ -20358,6 +20357,7 @@ apiolin
 aelurophobia
 artemisium
 anchoretical
+administer
 antiskidding
 antimodernness
 artery

@@ -864,6 +864,7 @@ bruxisms
 brierroot
 beery
 beflags
+barkeeps
 bleachs
 bongos
 blackboards
@@ -5212,7 +5213,6 @@ boarcite
 basification
 blotless
 breadboards
-barkeeps
 bandos
 basaltic
 boxwork
