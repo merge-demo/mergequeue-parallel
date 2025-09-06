@@ -8413,7 +8413,6 @@ antecedents
 amebocyte
 alkanol
 alkaphrah
-alkapton
 adazzle
 alkaptone
 advantage
@@ -22322,6 +22321,7 @@ assumptionist
 anamnestically
 aortas
 astrophysicists
+alkapton
 anthemideae
 astrophotographic
 astrophotometer

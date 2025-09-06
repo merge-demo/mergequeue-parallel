@@ -16446,7 +16446,6 @@ costumist
 chaunt
 cloakmaker
 constrainer
-cloakmaking
 cymbaline
 cloakroom
 chlorophenothane
@@ -19792,6 +19791,7 @@ carpentering
 comboloio
 collodiotype
 combure
+cloakmaking
 comburendo
 comburent
 comburgess
