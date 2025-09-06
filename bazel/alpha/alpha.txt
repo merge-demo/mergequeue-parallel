@@ -336,7 +336,6 @@ abeles
 allochezia
 abrades
 auletris
-apodia
 abelmosk
 aiguilletted
 aftwards
@@ -14009,6 +14008,7 @@ antennariid
 antennariidae
 antennata
 antennate
+apodia
 antennifer
 antefixes
 abranchial

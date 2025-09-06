@@ -12137,6 +12137,7 @@ chrysalis
 compress
 chrysalises
 cardiaplegia
+chirometer
 chrysaloid
 couxio
 constances
