@@ -1444,7 +1444,6 @@ discriminative
 dasypaedal
 discolorated
 dazzler
-disposal
 deaminized
 diptychon
 damnification
@@ -3990,6 +3989,7 @@ delegate
 dhooras
 doorsill
 defilade
+disposal
 delegates
 delegateship
 dermatosis
