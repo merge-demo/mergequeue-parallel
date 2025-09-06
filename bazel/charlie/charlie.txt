@@ -19936,6 +19936,7 @@ comida
 caudillo
 comiferous
 cominformist
+coward
 cominformists
 confederal
 conched
@@ -22309,7 +22310,6 @@ chilarium
 cooperate
 congratulates
 coevalneity
-coward
 congratulational
 costumire
 congratulations
