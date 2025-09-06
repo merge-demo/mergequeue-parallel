@@ -12263,7 +12263,6 @@ ammochryse
 anchietin
 anisylidene
 androgyn
-androgynal
 arillode
 androgyne
 atlantoaxial
@@ -19232,6 +19231,7 @@ antivirus
 areopagite
 areopagitica
 astacus
+androgynal
 amplexation
 anodine
 areostyle
