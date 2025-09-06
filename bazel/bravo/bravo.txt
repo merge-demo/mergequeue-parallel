@@ -4258,7 +4258,6 @@ bacterious
 bayish
 bebreech
 backcourtman
-bugfish
 benamee
 bebrother
 blouselike
@@ -9476,6 +9475,7 @@ births
 brontephobia
 bercelet
 bulliform
+bugfish
 birthstool
 birthwort
 blatancies
