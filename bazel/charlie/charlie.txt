@@ -1,6 +1,5 @@
 coredemptress
 caama
-caapeba
 cephalad
 caatinga
 caba
@@ -10162,6 +10161,7 @@ chi
 croisard
 coussinet
 calcining
+caapeba
 chia
 chiack
 chyack
