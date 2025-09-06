@@ -12005,7 +12005,6 @@ coronene
 choroidocyclitis
 choroidoretinitis
 choroids
-chorology
 cynocrambe
 cylloses
 coheres
@@ -25344,6 +25343,7 @@ cornettino
 cornettist
 churches
 cornetto
+chorology
 committent
 causticization
 corneule
