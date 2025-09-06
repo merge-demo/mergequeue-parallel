@@ -11256,7 +11256,6 @@ bibliographic
 beryline
 backups
 blowing
-blowings
 basify
 brigandage
 bushidos
@@ -13795,6 +13794,7 @@ bedfellowship
 brothy
 bigeminum
 baseplate
+blowings
 bantams
 beshod
 bult
