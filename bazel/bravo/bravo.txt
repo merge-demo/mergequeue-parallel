@@ -1115,6 +1115,7 @@ bossies
 bluffing
 burel
 bundts
+bouteria
 bayonets
 batteuse
 benefactors
@@ -13701,7 +13702,6 @@ balneatory
 balun
 biles
 boutefeu
-bouteria
 bet
 braking
 boutique
