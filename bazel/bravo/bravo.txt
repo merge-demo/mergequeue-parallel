@@ -15966,7 +15966,6 @@ basnet
 blepharospath
 brontology
 bolographic
-bollards
 burgessdom
 brontosauruses
 beryllium
@@ -16738,6 +16737,7 @@ byordinar
 barranco
 ballate
 babungera
+bollards
 banging
 blaffert
 bowstrung
