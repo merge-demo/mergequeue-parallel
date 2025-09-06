@@ -1290,7 +1290,6 @@ densified
 dislocator
 dryermen
 declinate
-disfranchisements
 dauding
 dicotyledones
 desorb
@@ -7053,6 +7052,7 @@ doolie
 difficultly
 destabilize
 ducting
+disfranchisements
 debilitated
 destalinization
 desterilization
