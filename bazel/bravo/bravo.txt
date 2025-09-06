@@ -2503,7 +2503,6 @@ beslash
 bassetite
 barguest
 battakhin
-bemolt
 bartletts
 bumblebees
 buzylene
@@ -5290,6 +5289,7 @@ bournes
 begirds
 bickered
 beefed
+bemolt
 begirt
 bogies
 beglerbeglic
