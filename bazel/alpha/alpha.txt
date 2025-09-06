@@ -9955,7 +9955,6 @@ ambisinister
 accessions
 antimetathesis
 amblypodous
-amoeboid
 annelides
 ambit
 ambital
@@ -16411,6 +16410,7 @@ antioxidant
 ampholyte
 anxiously
 anxiousness
+amoeboid
 antifogmatic
 agalactia
 aob
