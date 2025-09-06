@@ -3743,7 +3743,6 @@ blowpipe
 boing
 brahmanic
 biologese
-biologists
 beachwear
 battues
 broose
@@ -13074,6 +13073,7 @@ belfry
 beblubber
 boresome
 buffeting
+biologists
 bicorporal
 beryls
 bobbling
