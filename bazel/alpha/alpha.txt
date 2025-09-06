@@ -3600,7 +3600,6 @@ adfreezing
 archness
 adhafera
 addlement
-adhaka
 adhara
 adharma
 ashstone
@@ -19992,6 +19991,7 @@ aromatics
 adscripted
 aromatitae
 alcoholizing
+adhaka
 apophyses
 alintatao
 ambrosial
