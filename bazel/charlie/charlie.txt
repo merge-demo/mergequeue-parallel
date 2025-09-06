@@ -16642,7 +16642,6 @@ clodknocker
 closable
 closeable
 closed
-closefistedly
 closefistedness
 concussant
 clubbiest
@@ -21371,6 +21370,7 @@ chavish
 caryatidal
 cineasts
 concinnity
+closefistedly
 concinnities
 centuria
 cystoenterocele
