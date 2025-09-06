@@ -24802,7 +24802,6 @@ anginoid
 avoider
 ascribing
 addnl
-autecisms
 avoidment
 actomyosin
 avoids
@@ -25391,6 +25390,7 @@ alumbloom
 adopter
 azurean
 amalgamations
+autecisms
 ampyces
 azured
 acronyx
