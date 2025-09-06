@@ -7293,6 +7293,7 @@ albigensian
 alveolonasal
 alsinaceae
 albigensianism
+anesthetization
 andronitis
 angularness
 abietene
@@ -12476,7 +12477,6 @@ anesthesiologists
 angelophany
 anesthesis
 asarh
-anesthetization
 anesthetize
 anesthetized
 amenableness
