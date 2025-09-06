@@ -8503,6 +8503,7 @@ blackeye
 bombacaceae
 brantcorn
 brawlis
+boomeranging
 beglerbegship
 billeted
 billeter
@@ -18263,7 +18264,6 @@ broadaxe
 boulimy
 becudgel
 bolimba
-boomeranging
 burrowing
 biovulate
 buffoonism

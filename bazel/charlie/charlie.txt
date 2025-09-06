@@ -21387,6 +21387,7 @@ conciseness
 clocks
 cosponsor
 concision
+counterpart
 canoness
 corrugation
 concitation
@@ -26951,7 +26952,6 @@ cartilaginean
 counterpaned
 countersuggestion
 counterparry
-counterpart
 cerebroid
 cipherdom
 culpa
