@@ -6255,7 +6255,6 @@ agrogeology
 aleucaemic
 agrogeological
 agrology
-aurung
 abatua
 agrologic
 acoine
@@ -12053,6 +12052,7 @@ alcaic
 anaxone
 anazoturia
 amiable
+aurung
 administrate
 atmospherium
 accreditable
