@@ -6149,7 +6149,6 @@ cadre
 christine
 cauldrife
 casquette
-ctenoidei
 calcaneocuboid
 cauldrifeness
 cauldrons
@@ -10392,6 +10391,7 @@ conchinin
 crumply
 chiffons
 continuable
+ctenoidei
 chifforobe
 chlorinity
 cozenage
