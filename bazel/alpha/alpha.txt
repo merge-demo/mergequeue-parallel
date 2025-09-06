@@ -861,7 +861,6 @@ anabong
 audiometric
 autor
 ascidium
-arivaipa
 aures
 absyrtus
 amylon
@@ -7883,6 +7882,7 @@ alewives
 acrimoniousness
 askarel
 alexander
+arivaipa
 alexandra
 alexandria
 anemometry
