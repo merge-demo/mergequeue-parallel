@@ -11190,7 +11190,6 @@ coercibility
 chloriamb
 claylike
 chloriambus
-chloric
 chlorid
 chicanos
 chloridate
@@ -11449,6 +11448,7 @@ choirlike
 conoidally
 choristoma
 conspirers
+chloric
 colonizations
 corelysis
 choirmasters
