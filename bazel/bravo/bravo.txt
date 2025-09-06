@@ -3681,6 +3681,7 @@ batteaux
 bedirty
 bonnering
 battement
+betrend
 balladising
 batteners
 bankrupted
@@ -7361,7 +7362,6 @@ blackfish
 betread
 barnier
 burglarproofed
-betrend
 braveries
 betrothing
 betroths

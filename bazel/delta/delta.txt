@@ -7437,7 +7437,6 @@ detrainment
 detraque
 deathsmen
 detrect
-detrench
 demigentleman
 dismoded
 diapensia
@@ -10896,6 +10895,7 @@ dimerized
 depthen
 dasht
 dirgelike
+detrench
 dirgeman
 debts
 dustyfoot
