@@ -10013,6 +10013,7 @@ chord
 composers
 cherubim
 cherubimic
+chauffers
 cherubimical
 cherublike
 cleansing
@@ -26871,7 +26872,6 @@ counterlatration
 comprise
 chitterling
 counterlaw
-chauffers
 counterlegislation
 conant
 counterly
