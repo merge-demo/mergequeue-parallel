@@ -1431,7 +1431,6 @@ bisellium
 balebos
 baled
 baleen
-barrulee
 bobance
 battable
 balefires
@@ -12208,6 +12207,7 @@ bullfights
 boiko
 bolshevist
 bolshevistic
+barrulee
 bewield
 bolshevized
 boneset
