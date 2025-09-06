@@ -11334,7 +11334,6 @@ bluebelled
 bepistoled
 bons
 bescorches
-blousy
 bitingness
 blueblood
 bunkery
@@ -15316,6 +15315,7 @@ bechauffeur
 blas
 brigous
 bichir
+blousy
 babajaga
 brailling
 brigs
