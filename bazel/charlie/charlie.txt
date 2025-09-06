@@ -100,7 +100,6 @@ cabful
 cabiai
 canephorus
 cronish
-cabildo
 cabildos
 cabined
 curucui
@@ -12432,6 +12431,7 @@ chamaenerion
 cerebralize
 chromoleucite
 chromolipoid
+cabildo
 choleinic
 clarioned
 chromolith

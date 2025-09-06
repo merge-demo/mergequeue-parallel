@@ -4182,6 +4182,7 @@ bonged
 bixin
 beatuti
 brachet
+behaved
 blockiness
 bowls
 boudoir
@@ -5389,7 +5390,6 @@ breads
 behap
 boarstaff
 bigarreau
-behaved
 behaver
 behaving
 beanshooter
