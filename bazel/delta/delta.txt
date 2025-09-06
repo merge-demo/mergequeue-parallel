@@ -9328,7 +9328,6 @@ diplomat
 dietotherapy
 detersive
 depletable
-depilation
 dietrichite
 delimitations
 dayglow
@@ -17623,6 +17622,7 @@ dubitant
 decastylar
 duant
 dentigerous
+depilation
 dandelion
 defeminisation
 disulphate
