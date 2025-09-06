@@ -2571,6 +2571,7 @@ cementmaking
 canebrakes
 cephalodynia
 cowskins
+connaturalize
 counterdisengage
 cryptocrystallization
 columnar
@@ -22568,7 +22569,6 @@ connatural
 connaturality
 cultelli
 cryptanalysis
-connaturalize
 cosech
 connaturalness
 connature
