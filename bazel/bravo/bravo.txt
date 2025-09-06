@@ -6866,6 +6866,7 @@ besetters
 bricklayer
 benzocoumaran
 blessed
+brotan
 besew
 bellicosities
 borghi
@@ -11122,7 +11123,6 @@ buckler
 benevolently
 bloodlusting
 booky
-brotan
 bourage
 broguing
 bipenniform
