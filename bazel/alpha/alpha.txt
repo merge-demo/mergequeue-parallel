@@ -15542,7 +15542,6 @@ aphidicolous
 antinovelist
 antinucleons
 amygdalitis
-ayond
 aeolight
 acrocontracture
 aphorismic
@@ -17150,6 +17149,7 @@ apomixis
 apomorphia
 angia
 antireductive
+ayond
 apomorphin
 archimago
 aspired
