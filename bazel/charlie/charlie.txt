@@ -7679,6 +7679,7 @@ cowgrass
 categorematic
 certifiable
 certificate
+cinclis
 certificated
 certificates
 ceraunia
@@ -13707,7 +13708,6 @@ causatum
 cholesterate
 cinclides
 camphire
-cinclis
 clinah
 cinclus
 cephalocathartic
