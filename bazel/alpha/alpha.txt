@@ -5556,7 +5556,6 @@ againsay
 augmentive
 against
 avellano
-ancillae
 affatuate
 againstand
 antilens
@@ -13343,6 +13342,7 @@ aquicolous
 ajatasatru
 arctician
 annamite
+ancillae
 annapolis
 annapurna
 annas
