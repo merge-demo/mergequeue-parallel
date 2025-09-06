@@ -7229,7 +7229,6 @@ boxwood
 betailor
 betain
 bibiru
-broddle
 blanked
 betake
 buckshees
@@ -7610,6 +7609,7 @@ bezan
 biplace
 budless
 bezanty
+broddle
 brassiness
 breakwind
 bargain
