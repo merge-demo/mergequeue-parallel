@@ -4867,7 +4867,6 @@ conduct
 cartilagines
 cartilaginoid
 cellarway
-cartels
 cartilaginous
 carting
 coulometry
@@ -31774,6 +31773,7 @@ chevisance
 co
 customs
 customshouse
+cartels
 custron
 custumal
 cut
