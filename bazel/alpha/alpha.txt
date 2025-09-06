@@ -2085,7 +2085,6 @@ achiotes
 alinasal
 adjectivally
 achirite
-achkan
 aristeas
 anthophilous
 awols
@@ -3757,6 +3756,7 @@ anaerobiotically
 adjoinant
 aesthetician
 anticipated
+achkan
 angoumian
 agaphite
 anagrammatism
