@@ -4685,6 +4685,7 @@ bienseance
 bandage
 bursula
 basseted
+brickleness
 bedlar
 banyans
 bazoo
@@ -17399,7 +17400,6 @@ boardable
 bunnies
 beknots
 bunodont
-brickleness
 bacteroid
 bunoselenodont
 biatomic
