@@ -1402,7 +1402,6 @@ disoccident
 deprest
 disfoliaged
 dispenditure
-dawnward
 dud
 drooliest
 dipropyl
@@ -9259,6 +9258,7 @@ delphacidae
 decreptitude
 debarkation
 disilluded
+dawnward
 discolour
 deterge
 divined
