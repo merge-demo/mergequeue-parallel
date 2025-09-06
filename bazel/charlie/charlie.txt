@@ -2915,6 +2915,7 @@ cantering
 canthal
 curling
 cantharic
+cogrediency
 cantharidae
 cake
 chytrid
@@ -11434,7 +11435,6 @@ consumers
 cyclitols
 choicely
 counseled
-cogrediency
 campodeidae
 choiceness
 caryatides
