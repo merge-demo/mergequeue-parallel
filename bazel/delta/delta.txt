@@ -4245,7 +4245,6 @@ digitals
 double
 dukeling
 dook
-desipiency
 disputatious
 delthyrial
 disilane
@@ -16745,6 +16744,7 @@ daiva
 drogoman
 degums
 divertimentos
+desipiency
 dahabeah
 dattock
 depressor
