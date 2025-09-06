@@ -6983,6 +6983,7 @@ bespouses
 boxhaul
 benzines
 besnowing
+boil
 besognier
 besoil
 bookcraft
@@ -10318,7 +10319,6 @@ beshrouding
 bordman
 bensall
 binomenclature
-boil
 blame
 bromocyanid
 blamefully
