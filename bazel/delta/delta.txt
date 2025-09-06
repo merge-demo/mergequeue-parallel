@@ -16502,6 +16502,7 @@ decolourise
 deadishness
 dozed
 dozens
+driftlet
 dishpan
 disports
 dorsodynia
@@ -18502,7 +18503,6 @@ dissentiently
 dipsomania
 durain
 dementi
-driftlet
 declamator
 duramens
 datch
