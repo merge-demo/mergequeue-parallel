@@ -6499,6 +6499,7 @@ anthropoids
 aquiline
 antinuke
 agorae
+apophyses
 aik
 aikane
 automatictacessing
@@ -19992,7 +19993,6 @@ aromatics
 adscripted
 aromatitae
 alcoholizing
-apophyses
 alintatao
 ambrosial
 albainn
