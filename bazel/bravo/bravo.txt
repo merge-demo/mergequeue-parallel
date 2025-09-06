@@ -5624,6 +5624,7 @@ bilify
 belderroot
 bongar
 beleapt
+bams
 belection
 brining
 belecture
@@ -7828,7 +7829,6 @@ blenchingly
 bibliomane
 brontometer
 biosterol
-bams
 bibliomania
 bibliomaniac
 buxerries
