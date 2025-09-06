@@ -7585,6 +7585,7 @@ antepyretic
 ambigenous
 alcoholist
 abelicea
+apophyllous
 aeneous
 absistos
 adaw
@@ -16134,7 +16135,6 @@ antispreading
 antistadholder
 aosmic
 antistatism
-apophyllous
 antisterility
 appositeness
 antistock
