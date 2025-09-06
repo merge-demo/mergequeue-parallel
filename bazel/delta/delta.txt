@@ -10808,7 +10808,6 @@ dispensations
 drools
 dipsomaniac
 dietotherapeutics
-dipsomaniacs
 dipsopathy
 daintiest
 denunciatory
@@ -15692,6 +15691,7 @@ degrading
 dermatologist
 donzella
 donzels
+dipsomaniacs
 doob
 diazobenzene
 doodab

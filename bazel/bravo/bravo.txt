@@ -5896,7 +5896,6 @@ berber
 bulwark
 blankit
 belowground
-brandenburgs
 biggety
 broadpiece
 brontothere
@@ -9526,6 +9525,7 @@ binary
 bicapsular
 butat
 bandlimits
+brandenburgs
 bisectors
 bisectrices
 busybodyness
