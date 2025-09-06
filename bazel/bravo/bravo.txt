@@ -7497,7 +7497,6 @@ bandolier
 beloam
 befringes
 begirding
-bewary
 beweary
 besottedness
 bumblefoot
@@ -15200,6 +15199,7 @@ birdsall
 brideweed
 biochemics
 bosk
+bewary
 belles
 bridewell
 being
