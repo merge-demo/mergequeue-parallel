@@ -12493,7 +12493,6 @@ chromopsia
 chromoptometer
 chromoptometrical
 coadjacency
-chromoscopy
 capacitances
 coobah
 chromosomally
@@ -19333,6 +19332,7 @@ colonially
 cowinners
 colonialness
 clodpoll
+chromoscopy
 carshop
 caryatic
 colonials
