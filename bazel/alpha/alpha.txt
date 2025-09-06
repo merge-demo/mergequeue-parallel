@@ -2521,7 +2521,6 @@ aromatite
 actutate
 acrite
 arriswise
-acquiesce
 addiction
 acquiesced
 accrued
@@ -13857,6 +13856,7 @@ abmodality
 antalkalies
 aerophilately
 allothigenetic
+acquiesce
 adelea
 antalkaline
 antalkalis
