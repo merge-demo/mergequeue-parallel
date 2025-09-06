@@ -10973,7 +10973,6 @@ cyclospondylous
 carbides
 coscoroba
 chirrup
-captions
 chirrupy
 chirrupper
 combustor
@@ -29322,6 +29321,7 @@ concrement
 cryptopyrrole
 catalogs
 cryptoproselyte
+captions
 cryptorchis
 curara
 corebox

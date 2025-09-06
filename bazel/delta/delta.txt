@@ -12721,7 +12721,6 @@ dvandva
 dawing
 divining
 die
-daubs
 dehorts
 deburr
 diatrymiformes
@@ -14379,6 +14378,7 @@ diffidation
 dramatizing
 dittamy
 deviless
+daubs
 differentiation
 dittanies
 ditheisms
