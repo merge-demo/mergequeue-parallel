@@ -6308,7 +6308,6 @@ cauterism
 carafe
 cauterization
 correcter
-conchfish
 cauterizer
 caution
 cautionary
@@ -24880,6 +24879,7 @@ coralligena
 coralligenous
 coralligerous
 corallin
+conchfish
 corallina
 cinema
 corallinaceous
