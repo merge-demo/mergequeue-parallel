@@ -9632,7 +9632,6 @@ bezzled
 bismuthinite
 bejumble
 busking
-balanoglossus
 barway
 beringed
 bismutosphaerite
@@ -9955,6 +9954,7 @@ burrhel
 bargainor
 biverb
 beblear
+balanoglossus
 bedfast
 bivocal
 beseem
