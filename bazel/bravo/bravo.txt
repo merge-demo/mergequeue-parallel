@@ -7233,7 +7233,6 @@ betakes
 betaking
 beneventana
 blowby
-betanglement
 beulah
 blufter
 burners
@@ -11941,6 +11940,7 @@ blastostylar
 bogmire
 borine
 besmudged
+betanglement
 bulimy
 baggit
 bogomilian
