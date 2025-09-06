@@ -6199,7 +6199,6 @@ derivativeness
 dacoit
 derivedness
 dawks
-deriver
 devotees
 disvaluation
 deorsumvergence
@@ -17539,6 +17538,7 @@ dwarf
 drudgers
 drudges
 ditheists
+deriver
 dispope
 dicasts
 donuts
