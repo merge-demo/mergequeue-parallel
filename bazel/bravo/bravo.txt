@@ -8547,7 +8547,6 @@ becowards
 billiards
 billyboy
 bivalved
-brules
 billies
 blinkers
 biostatics
@@ -17888,6 +17887,7 @@ barton
 badly
 beltane
 bejuco
+brules
 bractless
 bahmanid
 belton
