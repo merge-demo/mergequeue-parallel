@@ -13135,7 +13135,6 @@ ciceroni
 ciceronian
 chiaroscuro
 clon
-ciceronianisms
 ciceronianist
 compellability
 czaritza
@@ -25951,6 +25950,7 @@ corolliferous
 creolize
 centralest
 couthie
+ciceronianisms
 chavibetol
 colonization
 corviser
