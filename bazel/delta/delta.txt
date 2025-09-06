@@ -16473,6 +16473,7 @@ deducive
 downwind
 droukit
 dowse
+defensed
 dowsed
 defibrillative
 dihydric
@@ -16641,7 +16642,6 @@ doctorly
 draggletailed
 deputed
 deuteromycetes
-defensed
 deepsome
 dissembly
 draghound
