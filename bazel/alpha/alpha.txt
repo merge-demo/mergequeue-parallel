@@ -19071,7 +19071,6 @@ arteriectasia
 abusable
 assassinated
 adumbrant
-antepretonic
 antiparliamenteer
 alemannic
 adulterant
@@ -22685,6 +22684,7 @@ amphiplatyan
 armsful
 atmolysis
 atmolyzation
+antepretonic
 angelate
 atmolyze
 afterburners
