@@ -14285,6 +14285,7 @@ decurions
 debatable
 debriefings
 delubrubra
+duenas
 devourment
 dormer
 dital
@@ -17919,7 +17920,6 @@ deterministically
 durance
 deteriorations
 dejectedly
-duenas
 dracaena
 duenesses
 discandy
