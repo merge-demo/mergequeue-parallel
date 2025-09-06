@@ -423,6 +423,7 @@ divisi
 desulfurise
 decanal
 darwan
+decorticator
 disobedient
 dairymaids
 devaluate
@@ -2700,7 +2701,6 @@ daemonurgy
 devitalizing
 darbies
 decortication
-decorticator
 decorticosis
 donas
 disoperation
