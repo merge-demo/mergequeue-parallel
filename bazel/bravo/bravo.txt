@@ -3918,6 +3918,7 @@ boracium
 buttonholes
 beteela
 bdellium
+baubee
 bdelliums
 bdelloid
 bdellometer
@@ -4528,7 +4529,6 @@ bowelless
 betrunk
 buckteeth
 buglewort
-baubee
 backjaw
 bedarkening
 bedaub
