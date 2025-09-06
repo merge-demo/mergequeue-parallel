@@ -13914,6 +13914,7 @@ binoculate
 bowstringed
 bactritoid
 behavior
+bewitchful
 bowtell
 belugas
 barylite
@@ -16521,7 +16522,6 @@ buoyancies
 bubonocele
 bibliopolic
 beamster
-bewitchful
 bracings
 buccally
 buenos
