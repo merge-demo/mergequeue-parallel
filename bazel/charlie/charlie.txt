@@ -24717,7 +24717,6 @@ coproducer
 coproduction
 cotangents
 coprojector
-coprolagnia
 coprolaliac
 chernozemic
 carlage
@@ -29280,6 +29279,7 @@ certiorating
 cryptoheresy
 cryptoheretic
 cimicifugin
+coprolagnia
 cryptolite
 cytochalasin
 cryptolith
