@@ -7380,7 +7380,6 @@ assured
 aerophoto
 albumenizer
 alliable
-albumenoid
 archtreasurer
 albumimeter
 aftership
@@ -18400,6 +18399,7 @@ athrong
 abstained
 arbitress
 arbitry
+albumenoid
 anagyrin
 affying
 abbotcies
