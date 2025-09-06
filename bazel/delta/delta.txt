@@ -4883,7 +4883,6 @@ demonographies
 denature
 dramseller
 demonolater
-drupose
 deducement
 dismality
 dissimilation
@@ -15920,6 +15919,7 @@ doxantha
 diestrus
 dorsi
 dorsibranchiata
+drupose
 distinctor
 dorsiduct
 does
