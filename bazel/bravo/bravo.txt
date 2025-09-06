@@ -4034,7 +4034,6 @@ benetnasch
 bovoid
 beatille
 beefeaters
-bulgers
 bearcats
 bottlefuls
 beamman
@@ -15267,6 +15266,7 @@ besieges
 bleeds
 bedstaves
 barblet
+bulgers
 backie
 bierstuben
 boggiest
