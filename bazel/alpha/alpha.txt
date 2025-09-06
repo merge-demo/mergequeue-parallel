@@ -11829,7 +11829,6 @@ ancille
 araliaceae
 apostrophal
 anaphylactin
-autoschediastical
 anaphylactogenic
 anaphylatoxin
 apectomy
@@ -15268,6 +15267,7 @@ antilaborist
 antilacrosser
 antiserumsera
 antilactase
+autoschediastical
 acalypterae
 antilegomena
 antilemic
