@@ -8465,6 +8465,7 @@ alkyne
 argufy
 alkool
 alkoxy
+anarchize
 antagonize
 acervately
 abarambo
@@ -18327,7 +18328,6 @@ arauan
 astronomers
 araucanian
 araucaria
-anarchize
 assoluto
 abacterial
 actinopraxis
