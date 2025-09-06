@@ -939,6 +939,7 @@ calamars
 crinoidean
 calambac
 coastmen
+coalrake
 calambour
 castellar
 counselor
@@ -22025,7 +22026,6 @@ canonicals
 corticostriate
 confirmer
 cibarious
-coalrake
 confirmment
 cinquedea
 congruistic
