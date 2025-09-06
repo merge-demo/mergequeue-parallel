@@ -5458,7 +5458,6 @@ catadupe
 catafalco
 civilisation
 catagenetic
-catakinetic
 catakinomeric
 corkscrewy
 catalanganes
@@ -29721,6 +29720,7 @@ crookheaded
 crooking
 chancey
 circule
+catakinetic
 crooknecked
 concessionaires
 causticize
