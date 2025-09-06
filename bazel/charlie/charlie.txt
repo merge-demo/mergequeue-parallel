@@ -15037,7 +15037,6 @@ civilest
 cardiod
 civilian
 chalcostibite
-civilianize
 civilians
 complementalness
 civilisational
@@ -31786,6 +31785,7 @@ cutaways
 cutback
 carburetor
 cutbacks
+civilianize
 chiniofon
 cutbank
 cutch
