@@ -9078,7 +9078,6 @@ dictaphone
 drinkproof
 depectible
 dictating
-datelines
 doping
 deglycerine
 dictatingly
@@ -14590,6 +14589,7 @@ demurest
 diformin
 damaging
 doorbells
+datelines
 dyeing
 detruncated
 disintegratory
