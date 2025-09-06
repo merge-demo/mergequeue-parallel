@@ -13196,7 +13196,6 @@ cyclide
 cubeb
 calomel
 characterized
-cyclings
 cupelled
 cyclism
 cyclitic
@@ -31787,6 +31786,7 @@ cutback
 carburetor
 cutbacks
 chiniofon
+cyclings
 cutbank
 cutch
 cutchery
