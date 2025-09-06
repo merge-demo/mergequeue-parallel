@@ -8801,7 +8801,6 @@ binotonous
 bedeck
 boilerman
 blackfishes
-blossom
 binturong
 bullism
 binukau
@@ -12390,6 +12389,7 @@ bossdom
 betsimisaraka
 bobstay
 bicapitate
+blossom
 backcast
 bowless
 bonbons
