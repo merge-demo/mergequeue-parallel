@@ -16905,7 +16905,6 @@ cariogenic
 clued
 clueing
 clueless
-cephalothorax
 christianization
 clisiocampa
 cluing
@@ -19469,6 +19468,7 @@ cystous
 coloristically
 comer
 chionididae
+cephalothorax
 crosscrosslet
 cheaping
 cincholoiponic
