@@ -7952,6 +7952,7 @@ alga
 algaecide
 archhouse
 algaeological
+aquarium
 acephalism
 algaeologist
 apostolicalness
@@ -14971,7 +14972,6 @@ autopositive
 algraphic
 antidogmatism
 arrobas
-aquarium
 antidogmatist
 arglebargling
 alogian
