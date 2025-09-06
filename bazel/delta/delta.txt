@@ -4237,7 +4237,6 @@ dels
 demast
 djelfa
 dumpy
-delsartian
 diminuendoed
 dislocate
 deltahedra
@@ -15339,6 +15338,7 @@ decreased
 dolefulness
 deathfulness
 disimitate
+delsartian
 dolerophanite
 disproperty
 declinal
