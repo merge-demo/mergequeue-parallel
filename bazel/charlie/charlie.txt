@@ -17914,7 +17914,6 @@ carneous
 codol
 chants
 codominant
-crested
 crystallographical
 combes
 codons
@@ -25425,6 +25424,7 @@ comdt
 combos
 cornual
 cornuated
+crested
 coelastraceae
 cornubianite
 crowncapping
