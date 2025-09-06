@@ -3893,7 +3893,6 @@ baxtone
 brachyskelic
 bivial
 boughten
-bazars
 bint
 brockage
 bazooka
@@ -8595,6 +8594,7 @@ bounceable
 berairou
 buncoed
 bebar
+bazars
 bebization
 blackpot
 brochette
