@@ -6801,7 +6801,6 @@ airtimes
 alanyls
 amende
 aglyphous
-aptian
 aventine
 alferez
 adelphoi
@@ -14221,6 +14220,7 @@ anthol
 anodes
 apiaceous
 antireaction
+aptian
 aniseikonia
 antholite
 anthology
