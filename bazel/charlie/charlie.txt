@@ -3730,6 +3730,7 @@ congealer
 conrail
 carmalum
 carbodynamite
+counteracting
 carbohemoglobin
 calamodendron
 cribbling
@@ -9538,7 +9539,6 @@ cheeful
 chanfrin
 cheefuller
 cheekbones
-counteracting
 cheekfuls
 cheekiest
 celioncus

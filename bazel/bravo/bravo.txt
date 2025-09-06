@@ -2897,7 +2897,6 @@ badinage
 barrater
 barratries
 becrawls
-barratrously
 barrelage
 barreleyes
 bookend
@@ -15856,6 +15855,7 @@ baham
 barbated
 bromphenol
 bogie
+barratrously
 bathroomed
 breadman
 blattering
