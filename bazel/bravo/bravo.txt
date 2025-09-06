@@ -11568,7 +11568,6 @@ boardsmanship
 badju
 boatloads
 blonde
-boardly
 bedrapes
 buceros
 broodsac
@@ -13317,6 +13316,7 @@ botcherly
 bewinter
 biliary
 botchy
+boardly
 botchily
 beglitter
 becrimson
