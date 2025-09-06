@@ -6532,7 +6532,6 @@ befoulers
 bahima
 broils
 berberidaceous
-berberis
 berberry
 bitbrace
 bournous
@@ -10256,6 +10255,7 @@ brewers
 boltant
 blackwater
 blackweed
+berberis
 brachycerous
 bladderet
 bladdery
