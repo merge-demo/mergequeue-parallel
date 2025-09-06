@@ -3285,6 +3285,7 @@ dentils
 doles
 dagos
 deturn
+dandering
 dsect
 defis
 deafness
@@ -9170,7 +9171,6 @@ decompiler
 devirgination
 despraise
 depressives
-dandering
 demonetised
 dendriform
 didynamian
