@@ -5853,7 +5853,6 @@ cathartolinum
 cathected
 cathection
 cathects
-cathedra
 cathedraled
 cathedralesque
 cavorter
@@ -18460,6 +18459,7 @@ crystalloblastic
 centrale
 conjecture
 crestmoreite
+cathedra
 chaogenous
 coguarantor
 cynophobe
