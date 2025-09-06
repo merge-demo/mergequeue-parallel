@@ -22952,7 +22952,6 @@ consiliary
 consilience
 consilient
 consimilate
-carnified
 cafoy
 consisently
 cetorhinidae
@@ -26047,6 +26046,7 @@ circuli
 cheetul
 cajaput
 cosily
+carnified
 chasuble
 cosymmedian
 compurgator
