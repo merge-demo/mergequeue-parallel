@@ -3361,7 +3361,6 @@ bonuses
 broadcasting
 bottlesful
 byordinary
-basophilic
 bass
 blankeel
 booking
@@ -15106,6 +15105,7 @@ briarean
 budgerigar
 befingers
 bejeling
+basophilic
 backstay
 bronziest
 barberfish
