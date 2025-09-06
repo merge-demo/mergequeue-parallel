@@ -9041,7 +9041,6 @@ antechambers
 almacigo
 anaspid
 amphiarthrosis
-alman
 authenticatable
 afterchance
 almanacs
@@ -11318,6 +11317,7 @@ antifoaming
 alupag
 auguster
 amplexus
+alman
 autocephaly
 arthragra
 adjugate
