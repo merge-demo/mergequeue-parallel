@@ -3350,6 +3350,7 @@ algology
 acetimeter
 addle
 adenosis
+antonymic
 apposing
 acyloxymethane
 anatomicophysiologic
@@ -7565,7 +7566,6 @@ alcoholically
 appetition
 anaudia
 alcoholicity
-antonymic
 aberroscope
 autoprothesis
 alcoholimeter
