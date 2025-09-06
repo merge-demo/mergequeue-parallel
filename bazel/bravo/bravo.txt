@@ -13292,7 +13292,6 @@ bridechamber
 botanist
 botanize
 brushmen
-boswellizing
 brachioradialis
 botanizes
 bulbless
@@ -17825,6 +17824,7 @@ biga
 burthened
 burthens
 belayer
+boswellizing
 backwashing
 burthensome
 beround

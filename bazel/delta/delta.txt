@@ -12115,6 +12115,7 @@ deprecatively
 disentangle
 dentine
 disentanglement
+disagio
 deaerate
 daymare
 distendedness
@@ -17245,7 +17246,6 @@ disentrammel
 dimensions
 dryops
 dryopteroid
-disagio
 dysmerism
 deaves
 dribbing
