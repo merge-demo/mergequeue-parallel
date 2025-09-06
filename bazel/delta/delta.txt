@@ -6785,7 +6785,6 @@ destined
 dredger
 dermographic
 deslime
-dissoconch
 desmachyme
 dialyzate
 daubery
@@ -13015,6 +13014,7 @@ dravya
 ducat
 dolomitized
 downspout
+dissoconch
 delusionist
 downfallen
 disfavourer
