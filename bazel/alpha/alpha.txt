@@ -833,7 +833,6 @@ aftercoming
 absee
 abseils
 athermous
-arithmic
 amianthoid
 absentee
 absentees
@@ -5624,6 +5623,7 @@ amant
 arrowwood
 alcoholometry
 antisacerdotal
+arithmic
 ao
 assisted
 agapai
