@@ -16249,7 +16249,6 @@ clinohedral
 celeriac
 clinohedrite
 crewcut
-cornerman
 cytogenesis
 compagination
 cynography
@@ -17995,6 +17994,7 @@ charioteers
 coelodont
 comet
 claymores
+cornerman
 corinthians
 coelom
 coelomata
