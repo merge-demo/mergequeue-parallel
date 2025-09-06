@@ -5736,6 +5736,7 @@ disposes
 deplumes
 dentation
 dewanee
+dolomitized
 doliolum
 deoxidiser
 demonland
@@ -13014,7 +13015,6 @@ demivoice
 discriminability
 dravya
 ducat
-dolomitized
 downspout
 dissoconch
 delusionist
