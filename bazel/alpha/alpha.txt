@@ -21211,7 +21211,6 @@ antimythical
 aways
 acknowledgement
 asymmetron
-afridi
 asymptomatic
 alizarin
 asymptote
@@ -21946,6 +21945,7 @@ aloddia
 adaptably
 aiolis
 arecaceous
+afridi
 anthemy
 aprons
 adhesives
