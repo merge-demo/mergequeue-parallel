@@ -3310,7 +3310,6 @@ dorey
 damnum
 decempeda
 ditremidae
-defleas
 downlinks
 deflect
 dichotomic
@@ -8690,6 +8689,7 @@ diastasimetry
 devilfishes
 deraigned
 desalinizing
+defleas
 dichastasis
 dactyliomancy
 deathrate
