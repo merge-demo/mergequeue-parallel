@@ -5199,7 +5199,6 @@ dsp
 dryopes
 disseminated
 distortedness
-denominate
 distemperature
 diaphote
 desmosis
@@ -6295,6 +6294,7 @@ depurated
 doughfeet
 deadens
 dermatozoonosis
+denominate
 desmohemoblast
 deutzias
 dryophyllum
