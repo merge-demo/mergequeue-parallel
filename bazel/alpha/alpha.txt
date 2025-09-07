@@ -9394,7 +9394,6 @@ acupunctuate
 apses
 anomorhomboidal
 alterman
-altern
 alternacy
 asynchronously
 alternamente
@@ -15670,6 +15669,7 @@ antiperspirant
 apochromatism
 allodification
 agileness
+altern
 antiperspirants
 automobiling
 antiutilitarian
