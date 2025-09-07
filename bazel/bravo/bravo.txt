@@ -4366,7 +4366,6 @@ bickers
 bushwhacker
 basements
 bathyseism
-besieged
 balm
 brandering
 barrators
@@ -5778,6 +5777,7 @@ bellyaching
 bizarrely
 bellibone
 benevolences
+besieged
 battutos
 bemata
 beleaps
