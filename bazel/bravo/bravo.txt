@@ -2145,7 +2145,6 @@ bonehead
 bricksetter
 barreled
 berseems
-bathybius
 burnishes
 bediapered
 botherment
@@ -11131,6 +11130,7 @@ bisection
 butylation
 bloodstreams
 beparch
+bathybius
 bisdimethylamino
 bacteroidal
 bandarlog
