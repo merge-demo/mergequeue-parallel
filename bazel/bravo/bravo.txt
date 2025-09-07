@@ -1852,6 +1852,7 @@ bancus
 backstabber
 banderma
 bowlike
+behatted
 blet
 bindings
 brigading
@@ -3713,7 +3714,6 @@ battlewagon
 bronchiectasis
 bovver
 beautifully
-behatted
 bibliothque
 blennogenic
 battologise
