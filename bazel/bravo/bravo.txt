@@ -5933,6 +5933,7 @@ blocs
 belvedere
 bluewood
 biltongs
+barmecide
 belvedered
 blueblossom
 bridaler
@@ -9990,7 +9991,6 @@ bairntime
 byzantine
 byzantinize
 buggers
-barmecide
 bottlemaking
 beautician
 byzants
