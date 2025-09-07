@@ -5463,6 +5463,7 @@ deorsum
 deorsumversion
 damoisel
 deossification
+deductibles
 dually
 deuterostomatous
 dissipates
@@ -13761,7 +13762,6 @@ deseret
 disintermediation
 defects
 dense
-deductibles
 disengagedness
 dystrophies
 decorously
