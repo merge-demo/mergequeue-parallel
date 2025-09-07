@@ -8866,7 +8866,6 @@ allophanates
 antefurca
 atypicality
 acredula
-allophyle
 arrow
 archdemon
 arrythmia
@@ -15556,6 +15555,7 @@ arthrosia
 achuas
 agnomens
 antiope
+allophyle
 aufait
 adret
 assures
