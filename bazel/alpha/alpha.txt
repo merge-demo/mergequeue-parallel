@@ -1064,7 +1064,6 @@ apparelled
 arquated
 abundancy
 apyrase
-abundant
 anachronical
 apert
 ageist
@@ -21122,6 +21121,7 @@ adheres
 appraised
 abrogator
 avower
+abundant
 aperitifs
 ashochimi
 atopite
