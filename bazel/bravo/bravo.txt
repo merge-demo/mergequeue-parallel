@@ -2201,7 +2201,6 @@ baghla
 bodword
 blockade
 bostonite
-barter
 bedrivelled
 barauna
 barba
@@ -9620,6 +9619,7 @@ broomsticks
 badinaging
 bamboozling
 bromids
+barter
 bismuthate
 burhinus
 bedrolls

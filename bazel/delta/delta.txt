@@ -2057,7 +2057,6 @@ decaliters
 decalitre
 drapable
 dunlop
-dinornithid
 dauncy
 disencumbering
 decurvation
@@ -14628,6 +14627,7 @@ diphaser
 downpouring
 divisibility
 divisibilities
+dinornithid
 decolourizing
 divisible
 dialled
