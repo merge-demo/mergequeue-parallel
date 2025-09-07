@@ -16448,6 +16448,7 @@ cloakmaker
 constrainer
 cloakmaking
 cymbaline
+correspondences
 cloakroom
 chlorophenothane
 cloakrooms
@@ -25689,7 +25690,6 @@ coppiced
 circumrotating
 correspond
 correspondence
-correspondences
 correspondency
 congelation
 correspondent
