@@ -5332,7 +5332,6 @@ disblame
 daraf
 diaphoretic
 displaced
-dentical
 denticle
 dentiferous
 dentification
@@ -7147,6 +7146,7 @@ depictor
 disunite
 desulfurs
 daphnetin
+dentical
 desulphurate
 delatorian
 desulphurised
