@@ -24840,6 +24840,7 @@ coracomorph
 curbash
 coracomorphae
 chrysopoeia
+chafer
 coracopectoral
 coracoprocoracoid
 cognoscibility
@@ -28726,7 +28727,6 @@ compendiary
 crepuscular
 cavitate
 cornutine
-chafer
 crepusculine
 catenary
 cresc
