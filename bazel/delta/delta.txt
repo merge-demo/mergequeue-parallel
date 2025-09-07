@@ -1944,6 +1944,7 @@ danger
 duggler
 disseize
 dedans
+dyadically
 demagogies
 disenact
 dopping
@@ -2924,7 +2925,6 @@ despoliations
 deecodder
 demobilise
 decannulation
-dyadically
 disproportions
 democratist
 decriers
