@@ -2635,7 +2635,6 @@ diastrophism
 didascalar
 dialectics
 deltoidei
-dactylopodite
 deconsecrate
 disunifying
 dareful
@@ -14991,6 +14990,7 @@ disazo
 downbear
 documents
 demonism
+dactylopodite
 dowitcher
 dolorifuge
 dependencies
