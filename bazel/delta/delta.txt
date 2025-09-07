@@ -4119,7 +4119,6 @@ diagenetically
 disaffiliates
 dryrot
 doggerelled
-delinter
 deliquescing
 deliquiate
 deliquium
@@ -10773,6 +10772,7 @@ dipropellant
 deficit
 diprotic
 driftages
+delinter
 delegalizing
 deferrers
 dat
