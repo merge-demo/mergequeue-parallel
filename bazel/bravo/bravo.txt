@@ -10589,7 +10589,6 @@ bundle
 bouquet
 bladders
 blazonry
-beggarweed
 bowllike
 bituminise
 beyliks
@@ -13208,6 +13207,7 @@ battlewise
 bifer
 benzoyl
 barundi
+beggarweed
 bosom
 blemmyes
 botryoidal
