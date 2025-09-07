@@ -3417,7 +3417,6 @@ capron
 causeuse
 comprehends
 craniovertebral
-capsella
 calyptras
 callidity
 capshore
@@ -17255,6 +17254,7 @@ cynophile
 coalification
 cephalostyle
 clinopinacoidal
+capsella
 culices
 coalifies
 coalifying
