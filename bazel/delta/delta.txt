@@ -198,6 +198,7 @@ diapophyses
 daemonurgist
 devotement
 dahms
+dequeued
 dechlorination
 diabolize
 defecant
@@ -5027,7 +5028,6 @@ disconsolateness
 dissents
 dictamen
 denasalized
-dequeued
 downdraft
 devotes
 doand
