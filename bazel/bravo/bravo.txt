@@ -5728,7 +5728,6 @@ bullous
 bysen
 barnyards
 bascology
-bunn
 bulak
 bellbird
 bellboy
@@ -15141,6 +15140,7 @@ bricking
 brickish
 brewises
 branchiostegal
+bunn
 beglerbeg
 bricklayers
 bummery

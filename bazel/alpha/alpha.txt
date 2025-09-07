@@ -4432,6 +4432,7 @@ atactic
 argols
 advisees
 advisement
+antihierarchal
 arranger
 adviser
 alur
@@ -5152,7 +5153,6 @@ ampitheater
 attackable
 arteria
 alingual
-antihierarchal
 anapophysial
 alligation
 affine
