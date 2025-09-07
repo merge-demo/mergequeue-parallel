@@ -2108,6 +2108,7 @@ camphor
 contemnor
 camphorated
 camphorates
+chg
 camphory
 camphoryl
 ceratothecae
@@ -10140,7 +10141,6 @@ ciceronians
 counterstatant
 crease
 conversative
-chg
 chi
 croisard
 coussinet
