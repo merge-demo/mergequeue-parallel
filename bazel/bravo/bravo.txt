@@ -403,7 +403,6 @@ brewery
 brachypodous
 bovarist
 backhaul
-backhauls
 bossy
 bemoans
 backhouses
@@ -555,6 +554,7 @@ barometrical
 backvelder
 backwardation
 baufrey
+backhauls
 burnooses
 butyl
 blushiness
