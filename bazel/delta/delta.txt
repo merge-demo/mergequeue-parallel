@@ -1167,7 +1167,6 @@ decrementing
 dasyuridae
 diarchic
 dactylopatagium
-dicaeology
 deervetch
 dodecaphony
 donnybrook
@@ -1497,6 +1496,7 @@ distractedly
 dallies
 douches
 dartman
+dicaeology
 deactivates
 demonetizing
 delphinium

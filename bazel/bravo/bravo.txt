@@ -3103,6 +3103,7 @@ bambuk
 blindfold
 baculite
 brittany
+barad
 baccar
 blabby
 buriels
@@ -11387,7 +11388,6 @@ beetleweed
 brassily
 bemuffle
 butyraldehyde
-barad
 babuma
 boatheader
 bairnliest
