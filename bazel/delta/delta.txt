@@ -5623,7 +5623,6 @@ dentinoblast
 dephycercal
 deteriorated
 diminutal
-demounting
 demythologised
 dephlegmation
 dastards
@@ -9491,6 +9490,7 @@ dungbird
 digenite
 digerent
 dereistically
+demounting
 disheathing
 disembarrass
 doedicurus
