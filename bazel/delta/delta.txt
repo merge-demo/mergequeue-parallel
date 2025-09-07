@@ -6583,7 +6583,6 @@ dysmerogenesis
 deadborn
 duddie
 desiccants
-dichotomised
 dragsawing
 domestications
 diverge
@@ -17445,6 +17444,7 @@ departmentalisation
 ditas
 dere
 droppings
+dichotomised
 drops
 dialoguing
 dammar
