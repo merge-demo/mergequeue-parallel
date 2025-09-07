@@ -4106,6 +4106,7 @@ cardiorrheuma
 cardiorrhexis
 cardiospermum
 celts
+concerningly
 cardiosphygmogram
 cardiosphygmograph
 cardiotherapies
@@ -21229,7 +21230,6 @@ cabber
 concernancy
 concerned
 cupular
-concerningly
 checked
 concerningness
 cogence
