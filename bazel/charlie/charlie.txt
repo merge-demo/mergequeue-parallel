@@ -656,7 +656,6 @@ chicky
 casuarinaceous
 convective
 cafenet
-cafetal
 counterreformation
 capparidaceous
 cafetorium
@@ -27462,6 +27461,7 @@ cheongsam
 coal
 cobwebbed
 chimers
+cafetal
 covariant
 colorism
 cathisma
