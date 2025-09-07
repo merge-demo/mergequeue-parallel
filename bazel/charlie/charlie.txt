@@ -3398,7 +3398,6 @@ caprin
 candlebeam
 cimelia
 cuterebra
-caprioled
 caprioles
 capriote
 capriped
@@ -19249,6 +19248,7 @@ calloo
 cormels
 committeewomen
 cheaters
+caprioled
 collusively
 cymbate
 cassiterite
