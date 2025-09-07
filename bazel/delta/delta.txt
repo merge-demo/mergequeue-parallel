@@ -5229,6 +5229,7 @@ deeping
 denouement
 discomforts
 denouements
+discouragement
 durezza
 degasses
 denounce
@@ -5805,7 +5806,6 @@ dacker
 deepnesses
 deposer
 deposers
-discouragement
 deposit
 diamondwork
 distome

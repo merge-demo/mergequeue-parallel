@@ -14396,7 +14396,6 @@ cires
 cooperation
 cyrillian
 cyrillianism
-centrechinoida
 caryatidean
 charquis
 cannot
@@ -16949,6 +16948,7 @@ cosignitary
 cahot
 clupeids
 creatureliness
+centrechinoida
 classis
 cotes
 cachalot
