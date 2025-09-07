@@ -7641,6 +7641,7 @@ borings
 bagleaves
 bulbotuber
 bhaktimarga
+burglarproofs
 barthite
 behavioral
 bhangi
@@ -17588,7 +17589,6 @@ banqueting
 burring
 bearlet
 brenda
-burglarproofs
 burglars
 basote
 breath
