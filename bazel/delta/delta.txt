@@ -3381,6 +3381,7 @@ doctus
 dipleurogenetic
 deludher
 depsid
+denaturisation
 dongolas
 duelists
 diaspores
@@ -6402,7 +6403,6 @@ duce
 deruinate
 decameronic
 dervishism
-denaturisation
 des
 disaffiliated
 dispensative
