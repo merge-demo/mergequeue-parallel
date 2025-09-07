@@ -2957,6 +2957,7 @@ boltsmith
 bicentral
 blunderingly
 basiation
+basil
 bolthole
 barophobia
 barricoes
@@ -16260,7 +16261,6 @@ beefaloes
 biter
 bananalander
 brulee
-basil
 buzzardly
 bifurcating
 biloculate

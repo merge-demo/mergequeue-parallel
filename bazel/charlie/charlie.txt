@@ -14635,7 +14635,6 @@ cardinalfish
 cystoparalysis
 csi
 customarily
-campodeiform
 cystophora
 cystophore
 coadjustment
@@ -16432,6 +16431,7 @@ corfiote
 cordelled
 cloacitis
 carduaceae
+campodeiform
 crispature
 chervil
 corsned
