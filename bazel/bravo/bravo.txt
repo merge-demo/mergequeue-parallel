@@ -3823,7 +3823,6 @@ babua
 blvd
 bulgur
 balsas
-blackjacks
 bohireen
 bicker
 bucare
@@ -8301,6 +8300,7 @@ benedictionale
 bradoon
 bintangor
 bights
+blackjacks
 bacterium
 bonamano
 bemuddled
