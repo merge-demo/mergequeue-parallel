@@ -3628,7 +3628,6 @@ arenicolite
 adhesion
 architraved
 adhesiveness
-astrogeny
 aggers
 apposes
 adhibition
@@ -11085,6 +11084,7 @@ ande
 amphibians
 ashkenazi
 azimuthally
+astrogeny
 amphibiotic
 artifices
 amphibium
