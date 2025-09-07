@@ -1995,6 +1995,7 @@ bulrushy
 bani
 bevelers
 blea
+bitartrate
 believably
 brachydiagonal
 bronchocele
@@ -9737,7 +9738,6 @@ bidialectal
 bytalks
 bitanhol
 bilineated
-bitartrate
 beneplacito
 bandonion
 biteable
