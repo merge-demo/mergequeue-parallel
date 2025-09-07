@@ -11779,7 +11779,6 @@ disworth
 dorms
 decancellation
 dodoes
-discoverture
 dochmiac
 diswench
 discradle
@@ -15741,6 +15740,7 @@ doormats
 digitorium
 doormen
 discomfiting
+discoverture
 doorpiece
 dunites
 drivel
