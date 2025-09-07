@@ -746,7 +746,6 @@ abrasing
 antisuffragist
 autogyro
 abrasions
-asperation
 anviltop
 androdynamous
 abrazo
@@ -24991,6 +24990,7 @@ antheriferous
 anthroic
 awhet
 awhile
+asperation
 atlatls
 awhir
 awhirl
