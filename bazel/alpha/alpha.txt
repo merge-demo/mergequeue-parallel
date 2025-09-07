@@ -17112,6 +17112,7 @@ apollonian
 apollonic
 arkansans
 apolloship
+abfarads
 aneurin
 anagrammatised
 apology
@@ -22557,7 +22558,6 @@ atherosclerotic
 arts
 avulsing
 abnegated
-abfarads
 atherurus
 accelerant
 atheticize
