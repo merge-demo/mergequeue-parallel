@@ -7331,6 +7331,7 @@ deplaned
 dimissorial
 dipneumona
 defibrillatory
+dyspnoeas
 deckings
 dishevely
 durene
@@ -15178,7 +15179,6 @@ democrat
 drysalteries
 doggers
 disembogued
-dyspnoeas
 drabbles
 dilogarithm
 democratized
