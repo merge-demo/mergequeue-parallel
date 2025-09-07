@@ -5729,6 +5729,7 @@ biarticular
 bicentennially
 bechalked
 bellboys
+brachycranial
 barefaced
 belay
 baggageman
@@ -16943,7 +16944,6 @@ blazoner
 beeping
 bunching
 baaing
-brachycranial
 bulge
 braziers
 bros
