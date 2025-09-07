@@ -10737,6 +10737,7 @@ deepen
 danelaw
 doublewords
 dipodic
+disacknowledgements
 dipodid
 deleble
 diminuted
@@ -17906,7 +17907,6 @@ duelist
 duelistic
 disinfest
 durgan
-disacknowledgements
 dactyls
 dinks
 dayflowers
