@@ -8960,7 +8960,6 @@ alkalises
 ammonoid
 allowed
 acquiescing
-assagais
 aftermarriage
 allower
 acylamido
@@ -9371,6 +9370,7 @@ adjusts
 altars
 armbone
 anemones
+assagais
 angiosclerotic
 altazimuth
 alter
