@@ -13084,6 +13084,7 @@ anilidic
 animo
 academizing
 anteromedial
+aurite
 alchem
 anientise
 achtelthaler
@@ -22276,7 +22277,6 @@ anaesthesiant
 apothegm
 achenia
 astrologers
-aurite
 ameiuridae
 aquacades
 archcorrupter

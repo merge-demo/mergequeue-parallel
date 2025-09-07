@@ -17427,7 +17427,6 @@ coaxy
 clinoaxis
 cordigeri
 coaxial
-coaxing
 coazervate
 contline
 cupbearer
@@ -30292,6 +30291,7 @@ cruppered
 celsitude
 cirrhopetalum
 cruppering
+coaxing
 cierzo
 crura
 complexionably
