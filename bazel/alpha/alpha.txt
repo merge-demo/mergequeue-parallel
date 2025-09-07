@@ -7127,6 +7127,7 @@ amurru
 azilian
 alantic
 alantin
+appertains
 aquabib
 alantolactone
 assimilability
@@ -20830,7 +20831,6 @@ ascarid
 amytal
 ascaridae
 ascarides
-appertains
 authorizers
 ablactating
 adipometer
