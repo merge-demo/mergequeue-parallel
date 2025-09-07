@@ -7504,6 +7504,7 @@ denotations
 dopas
 dizenment
 documenters
+dishabituating
 dichapetalum
 devalue
 deurwaarder
@@ -11226,7 +11227,6 @@ disavail
 dayroom
 dissaves
 danceability
-dishabituating
 dyslectic
 doeg
 dismask
