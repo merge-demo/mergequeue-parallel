@@ -7257,7 +7257,6 @@ dephlegmator
 dentilation
 deter
 deterged
-desertlike
 dashes
 deselected
 dilettantship
@@ -12164,6 +12163,7 @@ draftiness
 dungas
 dyserethisia
 denominatively
+desertlike
 dysergasia
 determining
 diplopodous

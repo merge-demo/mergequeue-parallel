@@ -6180,7 +6180,6 @@ baldoquin
 buckjumper
 benic
 benight
-buzzed
 benighter
 barked
 blackboy
@@ -10676,6 +10675,7 @@ blend
 bestill
 blendwater
 bowhead
+buzzed
 blenheim
 binominous
 blague
