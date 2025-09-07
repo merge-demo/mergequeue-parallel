@@ -13306,7 +13306,6 @@ ankylotic
 anklejack
 ankles
 aetolian
-armament
 aminase
 ankoli
 awny
@@ -17315,6 +17314,7 @@ apostrophied
 anticrotalic
 apostrophising
 apostrophize
+armament
 apostrophizes
 acidophilus
 apostrophizing
