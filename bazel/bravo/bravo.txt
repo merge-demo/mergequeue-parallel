@@ -2585,7 +2585,6 @@ backbit
 barosma
 bidentate
 bolivars
-broadwives
 biscuit
 ballons
 baramin
@@ -12200,6 +12199,7 @@ boutre
 bolshevikian
 barrandite
 bemoult
+broadwives
 bullfights
 boiko
 bolshevist
