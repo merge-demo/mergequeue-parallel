@@ -12805,6 +12805,7 @@ aztecs
 ascitb
 angoras
 angostura
+adnex
 adosculation
 angouleme
 adamantness
@@ -15884,7 +15885,6 @@ antiquist
 antiquum
 arcadianly
 antiquation
-adnex
 angelfish
 autoloading
 antirabies
