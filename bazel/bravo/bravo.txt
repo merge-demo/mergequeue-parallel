@@ -8553,6 +8553,7 @@ baldacchino
 botanies
 behind
 batchers
+bethrall
 blackthorns
 bartram
 billionism
@@ -15873,7 +15874,6 @@ backbrand
 bronchiolar
 brontoscopy
 bronchitic
-bethrall
 birota
 bronchoalveolar
 bronchoblennorrhea
