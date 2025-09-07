@@ -3788,7 +3788,6 @@ bauckie
 beerish
 benzole
 beauish
-beatrice
 befleck
 bronchoplegia
 brawer
@@ -14027,6 +14026,7 @@ bedangled
 beachfront
 brachiator
 brachycephali
+beatrice
 brachycephalism
 bragging
 berust
