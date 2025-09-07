@@ -2050,7 +2050,6 @@ blowtubes
 bobadilian
 barreleye
 bumbaste
-buffability
 brine
 banksmen
 betatter
@@ -9599,6 +9598,7 @@ bysmalith
 boulder
 bladed
 bouk
+buffability
 besmiles
 bismerpund
 bipartisanism
