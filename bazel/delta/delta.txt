@@ -10474,6 +10474,7 @@ dotty
 ditcher
 dug
 dogmatic
+detach
 diodon
 delace
 disglorify
@@ -16760,7 +16761,6 @@ debouchure
 draisine
 destin
 duodiode
-detach
 disjasket
 drinking
 dibrom
