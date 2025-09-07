@@ -4980,6 +4980,7 @@ aesir
 almightiness
 aesop
 aesopian
+archaises
 aestethic
 aesthesodic
 allaeanthus
@@ -18577,7 +18578,6 @@ almuce
 alexipharmical
 achylia
 architraval
-archaises
 anormality
 archaism
 agalena
