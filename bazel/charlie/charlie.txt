@@ -2759,7 +2759,6 @@ conglutination
 cannoneer
 ceratiidae
 capitella
-chemicophysiological
 camphanone
 calycozoon
 comfortful
@@ -16598,6 +16597,7 @@ clonic
 clonicity
 cytophaga
 clonicotonic
+chemicophysiological
 coexecutrix
 commutating
 chaudron
