@@ -10244,6 +10244,7 @@ basialveolar
 beholden
 begnawn
 broma
+boultel
 besmutted
 bepimples
 bogard
@@ -13584,7 +13585,6 @@ besand
 bowstrings
 boult
 bricker
-boultel
 bakeshop
 bemuddle
 bounceback
