@@ -3835,7 +3835,6 @@ adjustment
 adjustores
 afterdate
 anticonventionally
-adjustoring
 alytes
 amgarn
 adjutant
@@ -4678,6 +4677,7 @@ autarky
 acutifoliate
 aerifies
 antiparabemata
+adjustoring
 aeriform
 accinge
 abasement
