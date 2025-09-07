@@ -318,7 +318,6 @@ dahomey
 diaclasite
 diphenyls
 demythologizing
-day
 distributed
 disvaluing
 dayabhaga
@@ -412,6 +411,7 @@ deindividualization
 dainty
 decentralise
 decoder
+day
 diarhemia
 daintified
 desiccating
