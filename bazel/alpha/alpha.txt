@@ -2464,7 +2464,6 @@ artmobile
 aposiopeses
 abruptest
 abasgi
-acontia
 addda
 algesic
 acopyrine
@@ -9055,6 +9054,7 @@ appointments
 ardeae
 arizonite
 abranchiate
+acontia
 alpigene
 almeriite
 almice
