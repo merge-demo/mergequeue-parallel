@@ -5175,6 +5175,7 @@ bacillosis
 boxberries
 befuddling
 beautyship
+booted
 ballistophobia
 bumpkinet
 berating
@@ -6525,7 +6526,6 @@ berberis
 berberry
 bitbrace
 bournous
-booted
 bagattino
 berdache
 battuta
