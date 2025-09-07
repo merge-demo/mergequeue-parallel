@@ -9404,7 +9404,6 @@ alternated
 alternately
 apheretic
 achier
-assaugement
 aphengescope
 abets
 alternatingly
@@ -12122,6 +12121,7 @@ avanyu
 akaniaceae
 ancylostome
 astond
+assaugement
 ancylostomiasis
 arrame
 ancylus
