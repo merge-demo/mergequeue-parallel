@@ -5829,7 +5829,6 @@ beefs
 beerocracy
 bellowsful
 bargainer
-beride
 bellpull
 belltail
 balloons
@@ -8791,6 +8790,7 @@ bullism
 binukau
 bleariness
 brimmimg
+beride
 bathypelagic
 bioaccumulation
 bronchiogenic
