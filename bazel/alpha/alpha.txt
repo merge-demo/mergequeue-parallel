@@ -11375,7 +11375,6 @@ atrabilious
 adeodatus
 afterwitted
 amsel
-amt
 amtman
 amtracks
 alephs
@@ -17226,6 +17225,7 @@ aport
 aportlast
 aposaturnium
 aposiopesis
+amt
 alleviant
 aposiopetic
 arbalest
