@@ -5534,7 +5534,6 @@ chargable
 catamount
 catanadromous
 catapasm
-caducity
 comprizable
 correlativism
 chlorococcum
@@ -12130,6 +12129,7 @@ chrysaline
 chromophilous
 chrysalis
 compress
+caducity
 chrysalises
 cardiaplegia
 chrysaloid
