@@ -14774,7 +14774,6 @@ almsgiving
 alphorn
 anticker
 anticking
-aitesis
 asseth
 akha
 anticlassical
@@ -19331,6 +19330,7 @@ argentometry
 aday
 acetylbenzoate
 anchoritical
+aitesis
 aptotic
 afterstate
 argentose

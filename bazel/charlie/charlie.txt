@@ -11346,7 +11346,6 @@ chloroplasts
 coenamorment
 chiastic
 chloroplatinous
-creature
 cucullus
 chloroquine
 coronas
@@ -12402,6 +12401,7 @@ chromite
 catechiser
 chromitite
 conacre
+creature
 courtroom
 chromium
 chromiums
