@@ -4299,7 +4299,6 @@ browse
 beerbibber
 bursts
 becharmed
-bellic
 bellona
 breakaxe
 backrushes
@@ -10381,6 +10380,7 @@ birdbrains
 beadsman
 bragged
 botcher
+bellic
 buonamano
 botong
 breaker
