@@ -2592,7 +2592,6 @@ dinglebird
 desexualize
 decreers
 decommission
-decommissioned
 dumbbeller
 decian
 dozers
@@ -15458,6 +15457,7 @@ disintegrationist
 darker
 devils
 divest
+decommissioned
 domage
 domainal
 dummel

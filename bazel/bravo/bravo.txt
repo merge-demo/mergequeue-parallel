@@ -6731,6 +6731,7 @@ bedscrew
 boteler
 bumpier
 busulfan
+borderies
 berrichonne
 bosquet
 blockheaded
@@ -14963,7 +14964,6 @@ berberi
 bankings
 barraters
 breedable
-borderies
 breakneck
 breedy
 byzantian
