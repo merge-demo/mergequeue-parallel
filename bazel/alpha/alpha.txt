@@ -19656,7 +19656,6 @@ acicula
 aristotype
 aristotle
 arytenoepiglottic
-alfuro
 ambatch
 antinihilistic
 arithmancy
@@ -20992,6 +20991,7 @@ ascribable
 agrobiologically
 antidogmatical
 acronym
+alfuro
 ascribe
 artificer
 arcosolia
