@@ -11488,7 +11488,6 @@ disclass
 dermorhynchous
 drossing
 defend
-dastardy
 dialyzer
 dockyard
 dissuader
@@ -12572,6 +12571,7 @@ defrication
 disinclined
 dopants
 disinclining
+dastardy
 dolichotmema
 disindividualize
 drabnesses
