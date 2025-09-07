@@ -9791,7 +9791,6 @@ based
 bronchospasm
 bandaged
 backswording
-borrowers
 boopic
 beanier
 bolelia
@@ -14480,6 +14479,7 @@ branchellion
 blattoidea
 babroot
 beadle
+borrowers
 buddler
 branchiae
 bradyglossia
