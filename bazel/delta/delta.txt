@@ -2803,6 +2803,7 @@ ditheism
 deculturate
 deceitfulness
 driverless
+deceitfully
 decuman
 dissuasive
 disaffirm
@@ -6043,7 +6044,6 @@ deputationize
 deliberatively
 deadpan
 dealkalize
-deceitfully
 disillusion
 difficilitate
 dammit
