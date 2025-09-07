@@ -10649,7 +10649,6 @@ bylining
 brooches
 blandisher
 bedarken
-beanlike
 boutell
 buffle
 benton
@@ -10971,6 +10970,7 @@ bailers
 buggymen
 babysit
 besmoking
+beanlike
 beweeping
 brache
 belemnoidea
