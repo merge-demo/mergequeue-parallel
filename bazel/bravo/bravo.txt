@@ -4174,6 +4174,7 @@ blockiness
 bowls
 boudoir
 bloodcurdlingly
+basophile
 barometrography
 brl
 belittling
@@ -5542,7 +5543,6 @@ burrio
 bacchuslike
 beknottedly
 bobet
-basophile
 bingos
 blimpishly
 bel
