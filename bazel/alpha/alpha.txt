@@ -13767,6 +13767,7 @@ ashrams
 allophane
 androgenetic
 absolutista
+avicularium
 abdomina
 apocyneous
 automation
@@ -24727,7 +24728,6 @@ avicula
 apocaffeine
 authorizations
 apostatical
-avicularium
 armigers
 abdominoposterior
 arsenohemol
