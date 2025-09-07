@@ -7466,7 +7466,6 @@ baronga
 bevined
 branchiopallial
 bernicle
-byes
 bevoiled
 becco
 besmoothing
@@ -9486,6 +9485,7 @@ bettered
 bloodstream
 biblist
 breeching
+byes
 bisantler
 bothridium
 boeotia
