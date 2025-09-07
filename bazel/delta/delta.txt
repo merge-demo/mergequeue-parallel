@@ -5417,7 +5417,6 @@ denumerantive
 detainees
 disestablished
 denunciant
-diamonded
 docilely
 disinure
 denunciator
@@ -10903,6 +10902,7 @@ dimerized
 depthen
 dasht
 dirgelike
+diamonded
 dirgeman
 debts
 dustyfoot
