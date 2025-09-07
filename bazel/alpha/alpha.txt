@@ -5772,7 +5772,6 @@ altisonant
 aspermic
 actinocrinidae
 achroiocythemia
-asthenic
 automate
 ambisporangiate
 acetylator
@@ -11442,6 +11441,7 @@ arguses
 avast
 aeneus
 anabantidae
+asthenic
 anabaptistic
 audiometers
 ajaja
