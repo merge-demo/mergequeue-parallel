@@ -12095,7 +12095,6 @@ benzofluorene
 bannets
 basti
 bannition
-boldos
 besmutch
 bealing
 boldu
@@ -16365,6 +16364,7 @@ brushier
 bunkoed
 bloodshotten
 bendys
+boldos
 bluenoser
 buda
 bejazz
