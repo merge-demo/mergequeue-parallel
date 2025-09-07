@@ -6696,6 +6696,7 @@ arecales
 atmolyses
 anacamptometer
 airish
+actinopterygian
 acerbophobia
 antelabium
 ambulatorily
@@ -15161,7 +15162,6 @@ askant
 antifrost
 alaite
 antifundamentalism
-actinopterygian
 albertinian
 anticize
 alkalinized
