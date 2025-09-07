@@ -2991,7 +2991,6 @@ cantonalism
 crapelike
 cantoner
 cellocut
-cantoning
 compartment
 cantonize
 colectomy
@@ -10594,6 +10593,7 @@ chimaeroid
 chimakum
 cephalomancy
 chimakuan
+cantoning
 chimaphila
 consummates
 chymase
