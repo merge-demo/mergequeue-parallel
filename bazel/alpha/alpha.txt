@@ -943,6 +943,7 @@ acerathere
 annectant
 ammonitiferous
 augural
+anorthographical
 assis
 abstemious
 astron
@@ -13728,7 +13729,6 @@ anorthite
 antiparalytic
 anorthitic
 anorthographic
-anorthographical
 ala
 anorthophyre
 anorthopia
