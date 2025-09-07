@@ -482,6 +482,7 @@ brattles
 battik
 benzoates
 backspaces
+balanites
 backspacing
 begarie
 bucentaur
@@ -5084,7 +5085,6 @@ beflagging
 babery
 bentwood
 biquadrantal
-balanites
 beflannel
 bureaucrat
 beeps
