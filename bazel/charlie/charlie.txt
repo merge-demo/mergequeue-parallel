@@ -967,6 +967,7 @@ cheeses
 calando
 cyclostomous
 cytodifferentiation
+clanger
 claretian
 capuche
 calanque
@@ -5129,7 +5130,6 @@ caspian
 casque
 casqued
 cushat
-clanger
 casquet
 casquetel
 cassabas
