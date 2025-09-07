@@ -425,7 +425,6 @@ bhutani
 burgles
 bighorns
 belook
-bacteriorhodopsin
 backlit
 betipple
 bailor
@@ -9403,6 +9402,7 @@ batule
 bioinstrumentation
 bronchodilatation
 bathymeter
+bacteriorhodopsin
 blanket
 basaltine
 bemedaled
