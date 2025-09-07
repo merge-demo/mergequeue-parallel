@@ -10017,7 +10017,6 @@ bestamp
 bks
 bkt
 brahmani
-beflum
 butterback
 baboosh
 bicephalic
@@ -14856,6 +14855,7 @@ bungerly
 breaster
 breastfast
 bura
+beflum
 balantidium
 baldie
 bandsmen
