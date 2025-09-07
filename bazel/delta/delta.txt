@@ -4849,6 +4849,7 @@ decadal
 deathcups
 diestrum
 disambiguation
+darogha
 disincorporating
 dognapers
 durableness
@@ -15375,7 +15376,6 @@ deniers
 dolisie
 digynous
 dolium
-darogha
 declaims
 dureful
 dosiology
