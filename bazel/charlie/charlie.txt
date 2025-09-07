@@ -3781,7 +3781,6 @@ cincha
 carbonemia
 coccolith
 carse
-carbonide
 convalescent
 cotset
 cacophonical
@@ -4158,6 +4157,7 @@ condensery
 cmdr
 cenoby
 croceous
+carbonide
 chloroplatinic
 cassites
 carefreeness
