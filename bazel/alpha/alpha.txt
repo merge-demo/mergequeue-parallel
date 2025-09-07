@@ -3150,7 +3150,6 @@ ambassadeur
 algebraize
 acutance
 acutances
-acute
 acuter
 armlocks
 adjunct
@@ -19867,6 +19866,7 @@ apophyge
 anenterous
 artistically
 acle
+acute
 armouchiquois
 ammine
 armour
