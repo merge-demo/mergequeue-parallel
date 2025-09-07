@@ -3509,7 +3509,6 @@ batboys
 blubberous
 breaming
 bumbass
-batcher
 billyo
 bogging
 bitterhearted
@@ -8635,6 +8634,7 @@ bimanous
 bisinuate
 bradsot
 bournless
+batcher
 bimanually
 breechloading
 basaltes

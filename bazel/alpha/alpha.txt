@@ -11679,7 +11679,6 @@ aerosporin
 annexation
 antiritualist
 aiawong
-analemma
 analemmas
 aconitum
 analemmata
@@ -18740,6 +18739,7 @@ attributive
 asymmetrically
 archettos
 assever
+analemma
 amphineurous
 assumptiveness
 archeunuch
