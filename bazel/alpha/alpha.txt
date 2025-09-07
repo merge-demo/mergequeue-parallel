@@ -11606,7 +11606,6 @@ anaesthesiology
 agitators
 anaesthesis
 abeltree
-anaesthetically
 abnormity
 anthropomantic
 anaesthetization
@@ -12613,6 +12612,7 @@ apocathartic
 angilo
 aggravates
 apostemate
+anaesthetically
 amoretti
 amphitrite
 alveolocondylean

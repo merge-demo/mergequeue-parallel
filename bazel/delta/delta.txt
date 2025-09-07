@@ -155,7 +155,6 @@ dewtry
 defog
 dimercurion
 deprivations
-depasturable
 dissatisfying
 droughty
 dado
@@ -13649,6 +13648,7 @@ downplays
 dissertate
 discerping
 dreariest
+depasturable
 doodia
 dissertational
 dentinal
