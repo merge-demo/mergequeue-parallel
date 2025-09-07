@@ -3990,7 +3990,6 @@ barms
 beaks
 bilophodont
 beala
-byously
 burglarproofing
 buchu
 butled
@@ -15006,6 +15005,7 @@ bidene
 brushmaker
 baseboard
 bedebt
+byously
 bodiment
 basilidianism
 bastarda
