@@ -4749,6 +4749,7 @@ arrogates
 arkwright
 aerodynamical
 aerodynamically
+abietineae
 anchoritism
 appoggiatura
 amyosthenia
@@ -7280,7 +7281,6 @@ albicans
 anisaldoxime
 animadversiveness
 antineologian
-abietineae
 albicant
 abraser
 astrobiological
