@@ -18530,7 +18530,6 @@ acarophilous
 archaeographic
 archaeographical
 academial
-archaeolater
 atokous
 aulical
 anemologic
@@ -22915,6 +22914,7 @@ abaft
 alcazava
 alumium
 aniseeds
+archaeolater
 arterialisation
 archmonarchist
 atrabiliousness
