@@ -11029,7 +11029,6 @@ demibrigade
 disaffirmance
 dispersedye
 dheri
-dictyosiphon
 dextrogyre
 dreadnoughts
 disaffirmation
@@ -18206,6 +18205,7 @@ diable
 disarticulated
 dropsy
 divinifying
+dictyosiphon
 dunch
 dasypeltis
 daniel
