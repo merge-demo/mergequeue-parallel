@@ -1820,7 +1820,6 @@ dermatoglyphics
 devirginator
 debitum
 dazes
-desponsage
 declaratory
 douvecot
 deblai
@@ -9772,6 +9771,7 @@ deodaras
 delouse
 decussated
 dehkan
+desponsage
 dilates
 disapprovable
 descender
