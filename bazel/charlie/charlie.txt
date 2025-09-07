@@ -8899,7 +8899,6 @@ chargee
 cataphasia
 contingent
 chargeful
-chargehouse
 chargeless
 charger
 charges
@@ -22535,6 +22534,7 @@ conjunctivas
 caslon
 clings
 cupriferous
+chargehouse
 conjunctively
 chersonese
 chimbleys
