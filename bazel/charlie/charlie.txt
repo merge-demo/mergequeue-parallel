@@ -1013,7 +1013,6 @@ chironomidae
 croisette
 calcareousness
 capitalise
-chiliaedron
 counsellorship
 calcariferous
 cribo
@@ -19688,6 +19687,7 @@ carillon
 comagmatic
 comake
 comaker
+chiliaedron
 comals
 comamie
 carrara
