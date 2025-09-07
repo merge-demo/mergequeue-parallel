@@ -2082,6 +2082,7 @@ doline
 dingles
 diapasm
 daunts
+dibbuks
 dishonourary
 dissembles
 doab
@@ -8843,7 +8844,6 @@ dibbled
 dybbuk
 dominantly
 decentralized
-dibbuks
 defied
 dybbuks
 disjuncture

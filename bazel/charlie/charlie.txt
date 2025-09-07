@@ -3294,7 +3294,6 @@ cotyledon
 concavely
 calabash
 caponise
-corslets
 captivate
 chrystocrene
 caltrap
@@ -7270,6 +7269,7 @@ cephalitis
 cephalization
 cephaloauricular
 chimbly
+corslets
 cephalobranchiata
 chelicera
 capitolian
