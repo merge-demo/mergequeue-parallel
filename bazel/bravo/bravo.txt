@@ -12701,7 +12701,6 @@ barging
 ballant
 busboys
 booklear
-brandishing
 brandreth
 birdliming
 busters
@@ -18242,6 +18241,7 @@ buttermilk
 bastardy
 bouquetin
 befrocked
+brandishing
 bice
 bagworm
 buttermouth
