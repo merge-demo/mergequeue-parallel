@@ -7558,7 +7558,6 @@ bewizard
 blandished
 bimolecular
 beechy
-beeyard
 beworn
 borne
 butanones
@@ -11731,6 +11730,7 @@ bacopa
 behear
 bobtail
 bobtailed
+beeyard
 boragineous
 bothria
 bobwhites
