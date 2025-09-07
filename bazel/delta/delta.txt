@@ -1462,6 +1462,7 @@ drawbolt
 dingbats
 dowsets
 deformers
+diapyesis
 diazines
 dermonosology
 discophorous
@@ -4459,7 +4460,6 @@ doubtingness
 demesgne
 dudleyite
 dolos
-diapyesis
 demesman
 deepfreezed
 depravities

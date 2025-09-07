@@ -6784,6 +6784,7 @@ benzoylglycine
 bilic
 berwick
 boldness
+bug
 bummaree
 burley
 basophils
@@ -8073,7 +8074,6 @@ brandise
 biotherapy
 binocularity
 bourbon
-bug
 blasphemer
 byrlaw
 beslubber
