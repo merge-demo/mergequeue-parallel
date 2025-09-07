@@ -7135,6 +7135,7 @@ centrifugaller
 centrifugate
 centrifuge
 centrifugence
+crowdle
 centrifuging
 coffeehousing
 contemnibly
@@ -30044,7 +30045,6 @@ confecture
 clothilda
 crowding
 coxcombity
-crowdle
 crowds
 chromatrope
 cingulated
