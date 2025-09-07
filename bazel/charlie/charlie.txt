@@ -18760,7 +18760,6 @@ colbertine
 corinthianism
 clearweed
 colbertism
-colcannon
 celarent
 campodean
 cataracted
@@ -30542,6 +30541,7 @@ cuboctahedron
 cubocube
 crepidula
 chryseis
+colcannon
 cubocuneiform
 cubododecahedral
 concarnation
