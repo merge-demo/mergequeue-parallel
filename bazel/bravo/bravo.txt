@@ -12485,6 +12485,7 @@ brunizems
 bestialist
 banians
 bonetail
+brightish
 bowker
 bonewort
 bauk
@@ -15305,7 +15306,6 @@ bilharziasis
 besteaded
 bannerlike
 brighten
-brightish
 brightsmith
 banged
 berylate
