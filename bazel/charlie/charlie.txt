@@ -4720,6 +4720,7 @@ chibouk
 catalase
 carlist
 carposporous
+circumpolar
 carps
 carpsucker
 cavalierish
@@ -24962,7 +24963,6 @@ casamarca
 cordaites
 commission
 cowperitis
-circumpolar
 cordal
 cordate
 catawamptious
