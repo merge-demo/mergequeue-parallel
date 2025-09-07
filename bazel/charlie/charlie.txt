@@ -3515,7 +3515,6 @@ capture
 captured
 captures
 capturing
-curricular
 capuan
 chloroacetate
 chammies
@@ -18996,6 +18995,7 @@ cham
 collates
 collation
 collations
+curricular
 cesti
 collatitious
 cloine
