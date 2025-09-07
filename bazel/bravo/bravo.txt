@@ -6758,7 +6758,6 @@ bertie
 bemaddens
 bertolonia
 bioacoustics
-basigenous
 broiders
 bertrum
 bullarium
@@ -17574,6 +17573,7 @@ bristling
 burgherage
 beguine
 broadwise
+basigenous
 bottomlessly
 bobbysocks
 baclin

@@ -8544,7 +8544,6 @@ daggletailed
 diapente
 dehydrofreeze
 diet
-diaper
 dyschromatopsia
 duchy
 doughnut
@@ -11458,6 +11457,7 @@ disquisited
 deserted
 disciplinarians
 disquieten
+diaper
 disciplinarily
 dachshound
 disciplinate
