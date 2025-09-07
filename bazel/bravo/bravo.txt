@@ -2104,7 +2104,6 @@ bourkha
 borasco
 birthrights
 braccae
-bosomer
 brownness
 booms
 bosch
@@ -6237,6 +6236,7 @@ boatside
 birkie
 beys
 burghs
+bosomer
 burying
 benthamism
 burglarproof
