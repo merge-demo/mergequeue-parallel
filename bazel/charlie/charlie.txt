@@ -4557,6 +4557,7 @@ centriscid
 cutout
 coucher
 caroms
+cathetometer
 carone
 caronic
 cliffless
@@ -5867,7 +5868,6 @@ cense
 catheterized
 commonality
 cerastium
-cathetometer
 cheetahs
 cartopper
 cathetusti
