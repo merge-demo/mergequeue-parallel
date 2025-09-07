@@ -11105,7 +11105,6 @@ casklike
 chizz
 chizzel
 chkfile
-chladnite
 chondrite
 churlishly
 chlamyd
@@ -13621,6 +13620,7 @@ cognitivity
 crawfoots
 cymophenol
 cercopithecoid
+chladnite
 cymoscope
 coattests
 christabel
