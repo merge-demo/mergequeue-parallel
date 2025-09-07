@@ -10596,6 +10596,7 @@ caliological
 chimaera
 chimaerid
 chimaeroid
+classwise
 chimakum
 cephalomancy
 chimakuan
@@ -23701,7 +23702,6 @@ compass
 contradictedness
 chylocaulously
 cabezons
-classwise
 colliquament
 contradiction
 contradictional
