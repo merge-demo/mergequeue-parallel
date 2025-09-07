@@ -5779,7 +5779,6 @@ becriming
 beylics
 baldachini
 blinking
-billowiness
 bellyaching
 bizarrely
 bellibone
@@ -6726,6 +6725,7 @@ barracudina
 berry
 banshee
 bitte
+billowiness
 bedscrew
 boteler
 bumpier
