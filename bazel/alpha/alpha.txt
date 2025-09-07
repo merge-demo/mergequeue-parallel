@@ -15637,7 +15637,6 @@ antipathize
 antiinsurrectionally
 aggravatingly
 ambits
-alterants
 antipatriarch
 antipatriarchy
 aurinasal
@@ -24230,6 +24229,7 @@ autoxeny
 antipacifism
 autonegation
 acclaimed
+alterants
 autoneurotoxin
 autonym
 aceldama
