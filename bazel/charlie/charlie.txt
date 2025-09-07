@@ -16568,6 +16568,7 @@ cloistral
 concoagulation
 chamisos
 cloke
+carapaced
 clokies
 casthouse
 centifolious
@@ -28477,7 +28478,6 @@ circumtabular
 chevronel
 creddock
 chavicine
-carapaced
 credences
 credencive
 conditioning
