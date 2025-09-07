@@ -12737,7 +12737,6 @@ beeware
 bothriums
 boloney
 betoyan
-bonanza
 bakutu
 biodyne
 botanic
@@ -12940,6 +12939,7 @@ bookmate
 balawu
 banditti
 breakable
+bonanza
 banausic
 becrusting
 bondar
