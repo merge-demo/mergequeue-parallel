@@ -7261,7 +7261,6 @@ detenues
 dephlegmator
 dentilation
 deter
-deterged
 desertlike
 dashes
 deselected
@@ -18613,6 +18612,7 @@ dustiest
 discoursers
 daincha
 dustless
+deterged
 dustoori
 droguet
 diakonikon
