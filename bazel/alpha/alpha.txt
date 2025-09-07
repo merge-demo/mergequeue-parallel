@@ -6490,7 +6490,6 @@ amphoriskos
 apatosaurus
 antidomestically
 atnah
-apocryphally
 aiguilles
 atropia
 av
@@ -20359,6 +20358,7 @@ aelurophobia
 artemisium
 anchoretical
 antiskidding
+apocryphally
 antimodernness
 artery
 augments
