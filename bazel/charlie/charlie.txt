@@ -28752,7 +28752,6 @@ chok
 cines
 cothe
 charlatanry
-crescentlike
 chirl
 crescentoid
 crescents
@@ -30359,6 +30358,7 @@ crustalogist
 cyrenaic
 crustated
 contesters
+crescentlike
 crusted
 creedlessness
 crusty
