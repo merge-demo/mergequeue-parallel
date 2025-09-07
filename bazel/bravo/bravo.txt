@@ -2932,6 +2932,7 @@ barretor
 billowed
 bonus
 battalias
+bugdom
 bigeyes
 blocklayer
 barrets
@@ -16833,7 +16834,6 @@ bimetallists
 bugbearish
 boethian
 burdened
-bugdom
 barretry
 brassbound
 beneficiate
