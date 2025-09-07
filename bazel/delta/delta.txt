@@ -13911,7 +13911,6 @@ demurrage
 distemperoid
 distenant
 dorsicornu
-daisies
 dolichocephali
 deles
 descenders
@@ -16824,6 +16823,7 @@ drownded
 diophysite
 drats
 dratting
+daisies
 draught
 disbandments
 distal
