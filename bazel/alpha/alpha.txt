@@ -5241,7 +5241,6 @@ affrays
 autoslip
 acuminated
 affranchise
-affreightment
 adiadokokinesi
 amphicoelian
 affret
@@ -21691,6 +21690,7 @@ anthraconite
 assessors
 anthophile
 apotheose
+affreightment
 asseveration
 asseverative
 acrogenous
