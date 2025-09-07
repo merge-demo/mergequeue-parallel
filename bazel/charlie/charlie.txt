@@ -2271,6 +2271,7 @@ canali
 canalicular
 convenance
 curatial
+corpuscule
 canaliculate
 ceremoniously
 canaliculated
@@ -25619,7 +25620,6 @@ colombian
 confinedness
 completed
 corpuscularity
-corpuscule
 corpusculous
 contortive
 concedes
