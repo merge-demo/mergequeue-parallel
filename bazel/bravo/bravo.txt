@@ -1432,7 +1432,6 @@ baleen
 barrulee
 bobance
 battable
-balefires
 bungey
 balefully
 branned
@@ -9895,6 +9894,7 @@ bana
 bedrivelling
 bere
 buro
+balefires
 bituminoid
 belsire
 bipropellant
