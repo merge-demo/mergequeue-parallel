@@ -2510,7 +2510,6 @@ acoustoelectric
 acpt
 anacahuite
 acquaint
-acquaintanceship
 acquisible
 acquaintanceships
 asymmetrocarpous
@@ -19316,6 +19315,7 @@ ably
 auspicating
 argentin
 afterimages
+acquaintanceship
 acrisy
 antidemocratical
 advertisee
