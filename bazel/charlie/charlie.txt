@@ -2755,7 +2755,6 @@ cannonballed
 commercialistic
 conglutination
 cannoneer
-ceratiidae
 capitella
 camphanone
 calycozoon
@@ -8983,6 +8982,7 @@ charlocks
 cobberer
 charm
 cowlick
+ceratiidae
 camogie
 charmedly
 coax
