@@ -3925,7 +3925,6 @@ carcinogenic
 carcinoid
 compartmental
 crystalloluminescence
-carcinological
 carcinoma
 counterannouncement
 carbocyclic
@@ -25300,6 +25299,7 @@ corncribs
 corncrusher
 cotyliscus
 ce
+carcinological
 coldbloodedness
 cynomorphous
 corncutter
