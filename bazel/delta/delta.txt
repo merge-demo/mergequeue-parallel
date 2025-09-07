@@ -10489,7 +10489,6 @@ dispowder
 disfigurative
 diphenoxylate
 deux
-diphysite
 dosimeters
 damask
 discolith
@@ -13654,6 +13653,7 @@ dissentive
 datakit
 doggereler
 deceptitious
+diphysite
 drawlers
 decouple
 dieffenbachia
