@@ -3080,7 +3080,6 @@ badminton
 barware
 boneblack
 barksome
-basale
 berascaling
 bathetic
 beaufet
@@ -12653,6 +12652,7 @@ behaviorist
 blockheadedness
 bulbine
 brittler
+basale
 boogum
 bourd
 bolshevism
