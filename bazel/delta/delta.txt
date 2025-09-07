@@ -2720,7 +2720,6 @@ draughtiness
 dian
 desulphur
 dryopithecus
-dreche
 deiform
 dairymen
 deltoideus
@@ -6645,6 +6644,7 @@ demoralizing
 dilatations
 dactylis
 dioptres
+dreche
 davenport
 diminutely
 desesperance
