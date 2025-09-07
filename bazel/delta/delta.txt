@@ -8569,7 +8569,6 @@ diaphysial
 diaphonic
 diaphonies
 diaphoreses
-dilucidate
 disarranging
 diplopodic
 devoutlessness
@@ -15081,6 +15080,7 @@ dissections
 dodos
 duali
 decoloriser
+dilucidate
 dermatoid
 disarmer
 dimerism
