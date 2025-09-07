@@ -723,6 +723,7 @@ dandydom
 dacryosolenitis
 dandie
 depeche
+diplexer
 deucalion
 dandier
 davits
@@ -10582,7 +10583,6 @@ disbowels
 demipagan
 ddname
 derate
-diplexer
 diazotate
 deipotent
 domestically
