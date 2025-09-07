@@ -4450,6 +4450,7 @@ cordialize
 carnation
 carnationist
 carnations
+chamaebatia
 carnauba
 carnaubas
 carneau
@@ -8298,7 +8299,6 @@ chamacea
 coenoblast
 cadency
 chamacoco
-chamaebatia
 chamaecranial
 cascade
 centry
