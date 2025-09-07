@@ -7157,7 +7157,6 @@ ballasted
 backtrackers
 boxinesses
 bestian
-bandsmen
 bloomsbury
 bestiary
 backdating
@@ -14864,6 +14863,7 @@ breastfast
 bura
 balantidium
 baldie
+bandsmen
 begulfing
 breasthook
 bumpee
