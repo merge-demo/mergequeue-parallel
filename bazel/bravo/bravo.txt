@@ -4486,7 +4486,6 @@ bahiaite
 banally
 bienness
 biradiated
-bathroot
 bool
 bouffante
 busts
@@ -16335,6 +16334,7 @@ budtime
 bedazzling
 bouffes
 bullimong
+bathroot
 bigotry
 bryanthus
 boroughs
