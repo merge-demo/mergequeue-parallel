@@ -6118,7 +6118,6 @@ duperies
 deservedness
 demicylindrical
 deratized
-devisability
 derats
 doloroso
 deratted
@@ -14493,6 +14492,7 @@ diversity
 doubleton
 datedness
 disgeneric
+devisability
 diversory
 disfiguringly
 dromic
