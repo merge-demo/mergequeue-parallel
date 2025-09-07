@@ -14178,7 +14178,6 @@ circumbasal
 circumbendibus
 circumboreal
 cycases
-callityped
 calyptrogen
 carpellum
 cyclotella
@@ -28484,6 +28483,7 @@ creddock
 chavicine
 carapaced
 credences
+callityped
 credencive
 conditioning
 credenda
