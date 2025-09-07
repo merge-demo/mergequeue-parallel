@@ -5025,6 +5025,7 @@ advected
 allegorister
 ahrimanian
 affrication
+apicad
 audition
 aethionema
 aetiogenic
@@ -5552,7 +5553,6 @@ aeschylean
 again
 asphalts
 againbuy
-apicad
 againsay
 augmentive
 against
