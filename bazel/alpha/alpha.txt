@@ -4316,6 +4316,7 @@ aerobus
 adure
 antipuritan
 adustion
+aulical
 absurdities
 artisanry
 adustive
@@ -18534,7 +18535,6 @@ archaeographic
 archaeographical
 academial
 atokous
-aulical
 anemologic
 admedian
 archaeolithic
