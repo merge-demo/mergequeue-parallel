@@ -789,7 +789,6 @@ atrabiliary
 albinism
 abrotine
 allosematic
-abruptio
 abruption
 addedly
 abruptness
@@ -3288,6 +3287,7 @@ allotransplant
 autopelagic
 aglobulia
 adarbitrium
+abruptio
 abridgeable
 adarme
 adatis
