@@ -2346,6 +2346,7 @@ ackmen
 asplenioid
 acanthocephali
 alders
+anthropomorphically
 aluminized
 anoil
 ahom
@@ -14406,7 +14407,6 @@ aphototropic
 asheries
 anaplasis
 anthropomorphic
-anthropomorphically
 amphrysian
 anthropomorphidae
 anthropomorphisation
