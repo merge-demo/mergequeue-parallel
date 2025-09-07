@@ -1582,7 +1582,6 @@ didascaly
 drupelet
 depositories
 dealbate
-daks
 dinginess
 drawer
 doweled
@@ -16164,6 +16163,7 @@ dextrins
 doucker
 danny
 departmentalization
+daks
 dipode
 deducts
 dematerialising
