@@ -1486,6 +1486,7 @@ callipers
 copopoda
 cocanucos
 crystal
+centerless
 celosia
 calcrete
 calliphoridae
@@ -18198,7 +18199,6 @@ commencements
 circumesophagal
 coptis
 coessentiality
-centerless
 coessentially
 contadino
 coestablishment
