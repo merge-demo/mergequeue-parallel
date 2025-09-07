@@ -2667,7 +2667,6 @@ archives
 acroamatic
 acroamatical
 ammonation
-acroarthritis
 acroasphyxia
 acroatic
 alfurese
@@ -25099,6 +25098,7 @@ argyrite
 axillaries
 axillars
 aconitic
+acroarthritis
 axine
 alumetize
 axing
