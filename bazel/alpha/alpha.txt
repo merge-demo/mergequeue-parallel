@@ -17150,7 +17150,6 @@ aquilegia
 athletocracy
 agrafe
 adoxa
-apomixes
 apomixis
 apomorphia
 angia
@@ -18500,6 +18499,7 @@ alpujarra
 asbestosis
 acarids
 annulated
+apomixes
 arcadias
 ardure
 arcana
