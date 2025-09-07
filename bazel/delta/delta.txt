@@ -2623,7 +2623,6 @@ decagonal
 decompresses
 detectaphone
 demiplacate
-deranged
 decompressive
 dogies
 duckies
@@ -8005,6 +8004,7 @@ delicatessens
 donkeyback
 dionaea
 dishonoured
+deranged
 deemsters
 demanganize
 deliberate
