@@ -9835,6 +9835,7 @@ arcing
 artificious
 avoue
 abandonee
+archaeology
 andoke
 abu
 amaurosis
@@ -11670,7 +11671,6 @@ analcimite
 aggrieved
 algovite
 annidalin
-archaeology
 aerosporin
 annexation
 antiritualist
