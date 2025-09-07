@@ -11431,6 +11431,7 @@ disciflorae
 discoherent
 decays
 dittany
+dolium
 disciform
 diplopods
 discinct
@@ -15371,7 +15372,6 @@ defamers
 deniers
 dolisie
 digynous
-dolium
 darogha
 declaims
 dureful
