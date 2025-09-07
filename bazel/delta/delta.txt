@@ -4960,7 +4960,6 @@ drabbletail
 deradenitis
 demote
 demoted
-dulwilly
 demotes
 disomus
 demotions
@@ -10670,6 +10669,7 @@ diplont
 delisting
 diplonts
 debauchment
+dulwilly
 defossion
 diplophase
 difficultness
