@@ -21589,7 +21589,6 @@ convent
 condemnations
 condemnatory
 chichimecan
-clour
 crustiness
 condemners
 condemning
@@ -28492,6 +28491,7 @@ carrot
 countercampaign
 croomia
 cystines
+clour
 cypria
 credentials
 credenza
