@@ -13685,6 +13685,7 @@ competencies
 cinchoninic
 coronation
 cinchonisation
+cervelat
 cinchonise
 cloots
 clashed
@@ -26131,7 +26132,6 @@ countdowns
 cosmonautically
 creekside
 comers
-cervelat
 cosmonauts
 cosmoplastic
 cosmopoietic
