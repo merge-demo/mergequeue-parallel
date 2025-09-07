@@ -16519,7 +16519,6 @@ apass
 apatan
 antihierarchically
 absolutive
-abiogenesis
 acolytes
 apatela
 apatetic
@@ -22186,6 +22185,7 @@ aponogetonaceous
 astriferous
 autosoteric
 antitragi
+abiogenesis
 assorts
 astringed
 apostolici
