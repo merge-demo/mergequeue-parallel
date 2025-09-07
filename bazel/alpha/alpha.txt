@@ -17768,6 +17768,7 @@ appaloosas
 amelioratively
 antibias
 appraises
+argentry
 adoptable
 appraising
 abacate
@@ -19338,7 +19339,6 @@ authorship
 audible
 augurial
 acridness
-argentry
 abbest
 argents
 argentum
