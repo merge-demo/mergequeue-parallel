@@ -2904,7 +2904,6 @@ childlier
 currawong
 canter
 cladosporium
-curlpaper
 clavichord
 custumals
 cryptoprocta
@@ -16620,6 +16619,7 @@ clopped
 clops
 cantref
 cloque
+curlpaper
 cloques
 canoodle
 carnivalesque
