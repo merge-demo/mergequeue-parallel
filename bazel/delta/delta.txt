@@ -3753,6 +3753,7 @@ dateable
 dynamites
 distrain
 dooputty
+deaconize
 disseizoress
 defibrillation
 deicers
@@ -15767,7 +15768,6 @@ devotionality
 disbase
 decolorant
 desensitizer
-deaconize
 diastole
 downheartedly
 dennis
