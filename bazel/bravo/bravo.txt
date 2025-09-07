@@ -9227,7 +9227,6 @@ blackguardism
 beadles
 biprong
 baseball
-begloomed
 butacaine
 bleezy
 bobsled
@@ -16047,6 +16046,7 @@ ban
 bloodstain
 baycuru
 bins
+begloomed
 brotel
 brothe
 breves
