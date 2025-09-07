@@ -10389,6 +10389,7 @@ daroo
 dioramas
 diophantine
 driftpiece
+deviators
 dowsing
 dozened
 derelictly
@@ -12841,7 +12842,6 @@ desirously
 deforcement
 demode
 debouch
-deviators
 dissensions
 duplicatus
 derepression
