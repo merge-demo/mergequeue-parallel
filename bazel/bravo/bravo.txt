@@ -1219,7 +1219,6 @@ bakemeats
 bloop
 bakeoven
 blennostatic
-bakeress
 besigh
 bootloader
 bakeries
@@ -4076,6 +4075,7 @@ beswarms
 basidial
 botulinum
 beardy
+bakeress
 blanchimeter
 bearding
 balminess
