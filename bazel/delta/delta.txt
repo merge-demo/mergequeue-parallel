@@ -6590,7 +6590,6 @@ domestications
 diverge
 demonstrativeness
 doyley
-dardan
 diplococcocci
 diaporthe
 dicarboxylate
@@ -15900,6 +15899,7 @@ dorr
 doomage
 distractedness
 deflorations
+dardan
 dunner
 dorsa
 dentiparous
