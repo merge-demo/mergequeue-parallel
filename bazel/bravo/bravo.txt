@@ -14270,7 +14270,6 @@ boatlike
 bajri
 beamsman
 braggish
-bugloss
 bloaters
 borocitrate
 blaver
@@ -15014,6 +15013,7 @@ brents
 bearance
 baffles
 bressummer
+bugloss
 binocular
 brest
 bucorvinae
