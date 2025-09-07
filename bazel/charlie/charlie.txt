@@ -10895,6 +10895,7 @@ crudites
 coalition
 chiccories
 cicatrixes
+cytomegalovirus
 chiromantis
 chiromys
 chalcioecus
@@ -14851,7 +14852,6 @@ cytologic
 cytologically
 coranoch
 caperdewsie
-cytomegalovirus
 cytomere
 carefully
 caffeol
