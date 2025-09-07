@@ -6728,6 +6728,7 @@ deceased
 desilt
 disregular
 depraving
+doggerelizing
 dodecatyl
 dirtboard
 datatype
@@ -15161,7 +15162,6 @@ disleaf
 diversly
 dapples
 desperate
-doggerelizing
 disrout
 durnedest
 dartmoor
