@@ -3055,6 +3055,7 @@ bdellostomatidae
 baruria
 barvel
 baleful
+basad
 brainwashing
 bimetal
 bedspreads
@@ -11509,7 +11510,6 @@ blurb
 blurbist
 bananist
 blacklists
-basad
 balladries
 baronages
 blurredly
