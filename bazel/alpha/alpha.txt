@@ -2843,6 +2843,7 @@ agrements
 auxobody
 acroteria
 ablactation
+apothecial
 aviatorial
 acrotism
 acrotrophic
@@ -17342,7 +17343,6 @@ agillawood
 antiadiaphorist
 afret
 arcidae
-apothecial
 aesthetics
 aurichlorohydric
 apothecium
