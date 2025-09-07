@@ -1802,7 +1802,6 @@ debeak
 debarbarize
 debeaker
 daylilies
-debeige
 douzepers
 declinograph
 departement
@@ -14742,6 +14741,7 @@ deadeyes
 diallel
 decentre
 dizain
+debeige
 decameter
 dora
 degradability
