@@ -12825,6 +12825,7 @@ coroscopy
 churchwardenize
 churchwardens
 churchwardenship
+collapsibility
 clistocarpous
 climb
 churchwoman
@@ -23031,7 +23032,6 @@ cannibalizes
 consonantness
 consonants
 clinograph
-collapsibility
 conscriptive
 cutty
 consonate

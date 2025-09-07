@@ -7448,7 +7448,6 @@ barbets
 bluebirds
 blastocolla
 balsamweed
-bruting
 bespin
 barrelmaking
 bestower
@@ -9256,6 +9255,7 @@ bawdry
 buzuki
 bilipyrrhin
 birational
+bruting
 butterwright
 birched
 batteling
