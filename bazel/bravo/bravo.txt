@@ -7558,7 +7558,6 @@ beleve
 bewizard
 blandished
 bimolecular
-beechy
 beeyard
 beworn
 borne
@@ -9939,6 +9938,7 @@ bivariant
 baddock
 bivascular
 bismuthyl
+beechy
 babyhoods
 binodous
 brinjarries
