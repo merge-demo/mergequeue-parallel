@@ -12598,7 +12598,6 @@ adiaphoresis
 alvan
 alkalinizing
 amain
-advocateship
 awed
 angerona
 angeronalia
@@ -17531,6 +17530,7 @@ ausonian
 archiblast
 appendiceal
 appendicectasis
+advocateship
 appendicectomy
 agonostomus
 appendicectomies
