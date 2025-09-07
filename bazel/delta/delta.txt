@@ -2846,6 +2846,7 @@ deathling
 decurrences
 defeminising
 dihysteria
+directed
 degratia
 duopolies
 disgavel
@@ -7960,7 +7961,6 @@ decemplicate
 dexterously
 dextrad
 dextral
-directed
 dovetailing
 dextran
 disallowable
