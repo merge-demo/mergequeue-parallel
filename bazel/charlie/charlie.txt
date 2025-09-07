@@ -13800,7 +13800,6 @@ cineradiography
 chelingo
 clartier
 carmele
-caeca
 cheiropatagium
 cineration
 creosoting
@@ -18448,6 +18447,7 @@ cognovit
 chrysomonadales
 cognovits
 conspiratorially
+caeca
 constable
 conversableness
 cogonal
