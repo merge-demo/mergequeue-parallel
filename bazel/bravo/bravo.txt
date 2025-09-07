@@ -4103,7 +4103,6 @@ beastishness
 bearishly
 brit
 birdwatch
-barbastel
 bagwigs
 bearward
 bearwort
@@ -8634,6 +8633,7 @@ backberand
 bimaxillary
 bobsleigh
 bimbisara
+barbastel
 bracketted
 basibranchial
 borborygmies
