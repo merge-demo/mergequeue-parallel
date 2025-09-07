@@ -15985,7 +15985,6 @@ antis
 antisacerdotalist
 antisag
 aminoplastic
-antisaloon
 atrophied
 affaire
 antisalooner
@@ -16357,6 +16356,7 @@ antrotomy
 aspring
 antrovert
 assiduities
+antisaloon
 atropic
 antrustion
 ants
