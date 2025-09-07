@@ -2753,7 +2753,6 @@ drypoints
 dari
 deflectable
 decresc
-desalination
 delphinus
 duodecahedron
 decrescent
@@ -5728,6 +5727,7 @@ dixain
 dextrane
 deplorability
 diachyma
+desalination
 duals
 dekastere
 deplorableness
