@@ -14167,6 +14167,7 @@ anthemas
 anthemata
 agavose
 amugis
+assemblywoman
 anthemia
 adds
 archflatterer
@@ -21622,7 +21623,6 @@ anniv
 assembler
 assembly
 assemblyman
-assemblywoman
 aerohydrotherapy
 algesia
 assentaneous
