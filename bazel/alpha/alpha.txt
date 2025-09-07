@@ -3555,6 +3555,7 @@ attenuative
 adephagous
 asepalous
 argoan
+amygdalate
 arbuscle
 autoxidizer
 alpenhorn
@@ -8254,7 +8255,6 @@ amoebidae
 alypum
 amarelle
 aliquant
-amygdalate
 allosterically
 alisier
 agathin
