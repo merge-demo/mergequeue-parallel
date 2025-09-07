@@ -5306,7 +5306,6 @@ ascogonial
 afortiori
 authenticity
 autogenous
-apocatastasis
 afoul
 airable
 afray
@@ -11050,6 +11049,7 @@ attenuation
 awakings
 aortitis
 athetosic
+apocatastasis
 antiorthodoxly
 anlaute
 asswage
