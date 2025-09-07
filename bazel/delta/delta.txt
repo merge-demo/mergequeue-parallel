@@ -10453,6 +10453,7 @@ dipartite
 dipartition
 dominicks
 dermatoma
+dachs
 dekkos
 demersion
 dictyostelic
@@ -13965,7 +13966,6 @@ diacope
 deodand
 disdainous
 dishonoring
-dachs
 dedication
 distinction
 dertrum
