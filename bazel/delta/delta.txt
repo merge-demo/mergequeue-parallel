@@ -2945,6 +2945,7 @@ deglamorize
 dromaeognathism
 ditchside
 dolittle
+dermoidal
 deemie
 decrepitate
 denicotine
@@ -6325,7 +6326,6 @@ diagrammatical
 dermogastric
 dorsoapical
 dean
-dermoidal
 dermoidectomy
 dgag
 dermoneural
