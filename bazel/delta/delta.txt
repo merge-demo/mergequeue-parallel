@@ -2340,6 +2340,7 @@ discocarp
 diplographic
 demibrute
 diluted
+doghead
 diem
 doolees
 deafening
@@ -15216,7 +15217,6 @@ dogget
 dottrels
 dorlot
 dungeons
-doghead
 doghouse
 donning
 dogie
