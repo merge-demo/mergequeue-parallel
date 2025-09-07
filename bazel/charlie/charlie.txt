@@ -16784,7 +16784,6 @@ clouting
 connoisseurship
 cyrillic
 crampedness
-clove
 coprinus
 cytological
 caduciaries
@@ -24784,6 +24783,7 @@ costers
 chromic
 coquetry
 coquets
+clove
 chloragogen
 coquette
 cleome
