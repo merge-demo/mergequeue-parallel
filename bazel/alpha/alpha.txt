@@ -6071,6 +6071,7 @@ abrim
 agon
 agonal
 aurorae
+aparithmesis
 agoniada
 antiparabema
 atellan
@@ -23664,7 +23665,6 @@ anticontagiousness
 anagnorises
 auscultatory
 ausform
-aparithmesis
 amyotrophy
 amazia
 aushar
