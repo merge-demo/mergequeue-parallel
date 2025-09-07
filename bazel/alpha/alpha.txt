@@ -8960,6 +8960,7 @@ arsenicalism
 anthesis
 anthracoid
 alloxuraemia
+allergens
 alloxuremia
 aumaga
 alloxuric
@@ -10518,7 +10519,6 @@ awin
 arride
 amylidene
 amylo
-allergens
 amyloclastic
 acrasias
 aponogetonaceae
