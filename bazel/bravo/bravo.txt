@@ -13635,7 +13635,6 @@ baud
 bande
 broidery
 berth
-binocs
 balkingly
 boys
 benzdioxdiazine
@@ -16136,6 +16135,7 @@ becrimed
 blastular
 beagle
 bowsery
+binocs
 browless
 baritones
 brieve
