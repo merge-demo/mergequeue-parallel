@@ -5078,6 +5078,7 @@ carida
 contek
 cashbooks
 cambism
+comitial
 cravo
 cavendish
 continuando
@@ -19951,7 +19952,6 @@ contriturate
 clayish
 comity
 comitia
-comitial
 colortype
 cuscuses
 comitje
