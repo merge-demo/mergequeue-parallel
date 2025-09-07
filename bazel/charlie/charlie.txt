@@ -5928,7 +5928,6 @@ craws
 chandeliers
 cathouses
 crownling
-cathrin
 cathryn
 coversine
 cathud
@@ -8044,6 +8043,7 @@ chagrins
 chaguar
 chahar
 chay
+cathrin
 closeness
 coordain
 comrogue
