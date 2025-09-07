@@ -3555,7 +3555,6 @@ baffle
 bathythermograph
 bathkol
 bipartite
-blockhouse
 bathmat
 bathmats
 bygoing
@@ -8456,6 +8455,7 @@ baywood
 bilked
 brownistical
 blondish
+blockhouse
 bumph
 bilking
 boglander

@@ -10342,7 +10342,6 @@ delta
 dames
 dionysia
 dionysiac
-dionysiacally
 dionysus
 dirigibles
 darwinite
@@ -11273,6 +11272,7 @@ dammaret
 debasingly
 disbelievers
 diascordium
+dionysiacally
 droich
 dazingly
 dratted
