@@ -3460,7 +3460,6 @@ deformations
 detrudes
 deformedly
 dandily
-downfold
 deformative
 deuterostomata
 downs
@@ -10309,6 +10308,7 @@ demophobe
 dioecy
 demandingly
 demurred
+downfold
 dioecian
 disclout
 duodenal
