@@ -24162,7 +24162,6 @@ convictfish
 convictfishes
 convictible
 carfax
-cantinier
 conviction
 convictional
 civilizatory
@@ -28385,6 +28384,7 @@ creaky
 crotcheting
 clitoridectomies
 creakiness
+cantinier
 conjugant
 chandrakhi
 creaking
