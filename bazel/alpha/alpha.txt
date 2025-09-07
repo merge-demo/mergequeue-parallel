@@ -10608,7 +10608,6 @@ antidrag
 appetency
 alinota
 amynodon
-aminoglutaric
 aminoguanidine
 adhesively
 aminoid
@@ -18529,6 +18528,7 @@ automats
 alethiology
 antisepsis
 adjacently
+aminoglutaric
 annuent
 acarophilous
 archaeographic
