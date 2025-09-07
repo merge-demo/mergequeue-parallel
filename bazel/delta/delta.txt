@@ -1230,7 +1230,6 @@ drivehead
 disembarkation
 disemplane
 disobligation
-dateless
 datelessness
 disserve
 datelining
@@ -17991,6 +17990,7 @@ dugs
 dugway
 delphin
 deaerator
+dateless
 duhr
 desamidization
 dui
