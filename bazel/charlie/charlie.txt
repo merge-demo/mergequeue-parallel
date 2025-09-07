@@ -311,6 +311,7 @@ cogeneration
 commitments
 cacodaemoniac
 cannisters
+chartography
 cacodaemonial
 coner
 cradle
@@ -9080,7 +9081,6 @@ charters
 cryptograms
 cindered
 caricatured
-chartography
 chartographic
 crystalline
 crossfall
