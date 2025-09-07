@@ -12515,7 +12515,6 @@ concubitus
 chronaxie
 chronaxies
 chronic
-chronica
 chronically
 coenenchymal
 chronicle
@@ -22221,6 +22220,7 @@ campanularian
 choicer
 cursorius
 collarman
+chronica
 congeed
 codder
 cannelure
