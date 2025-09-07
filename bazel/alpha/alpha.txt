@@ -260,7 +260,6 @@ abhorrence
 abdications
 anthropomorphizing
 abdicative
-adze
 abditory
 abdom
 alysson
@@ -14640,6 +14639,7 @@ accurateness
 antically
 arachnida
 agnathia
+adze
 auricyanic
 anticamera
 anticancer

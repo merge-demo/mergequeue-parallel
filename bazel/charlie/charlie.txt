@@ -3097,7 +3097,6 @@ caparison
 caparisoning
 caparisons
 capataces
-capataz
 capcase
 celotomy
 connexion
@@ -5360,6 +5359,7 @@ castrator
 compendent
 castrum
 cerebellopontile
+capataz
 cornbell
 christianness
 casualism
