@@ -2464,7 +2464,6 @@ dulls
 derationalization
 diatropism
 dresser
-declaimer
 dilaters
 declamatory
 decibar
@@ -12049,6 +12048,7 @@ dissipating
 duplicates
 delved
 differen
+declaimer
 disenchant
 dowd
 dermitis
