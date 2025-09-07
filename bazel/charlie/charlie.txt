@@ -1263,6 +1263,7 @@ calibrated
 calibrater
 calibrates
 cloison
+chantership
 catchwater
 calibrating
 calibre
@@ -8624,7 +8625,6 @@ chanterelle
 chondroseptum
 chanters
 cutters
-chantership
 consortia
 chanteur
 chanteuse

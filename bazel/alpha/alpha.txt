@@ -3333,7 +3333,6 @@ amarillos
 adapid
 additionary
 additionist
-attapulgite
 afterwort
 additions
 anthers
@@ -10884,6 +10883,7 @@ asmolder
 anomia
 antiprudential
 anguishes
+attapulgite
 aggregatory
 athyrid
 amperometric
