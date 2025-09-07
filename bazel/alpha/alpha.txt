@@ -10809,6 +10809,7 @@ ammonolyzing
 athwarthawse
 ammos
 ammotherapy
+approbator
 ammu
 antipepsin
 amnesia
@@ -17850,7 +17851,6 @@ approbations
 arghel
 approbative
 approbativeness
-approbator
 aloud
 approof
 appropinquate
