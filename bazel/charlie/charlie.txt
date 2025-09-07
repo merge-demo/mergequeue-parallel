@@ -1249,7 +1249,6 @@ calflike
 cacochymical
 calfskin
 creatural
-cub
 calgary
 caliban
 cunea
@@ -30238,6 +30237,7 @@ crummy
 consummativeness
 crummier
 coppaelite
+cub
 crummiest
 crumming
 calcarine
