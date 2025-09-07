@@ -9605,7 +9605,6 @@ bisk
 breathily
 bisks
 bysmalith
-bismark
 boulder
 bladed
 bouk
@@ -10859,6 +10858,7 @@ bindable
 befingered
 bangers
 boxball
+bismark
 blithering
 blasphemy
 bevue
