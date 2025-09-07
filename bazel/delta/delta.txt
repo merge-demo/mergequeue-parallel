@@ -1268,6 +1268,7 @@ diatribe
 disband
 demineralizer
 discina
+disestablished
 dysodyle
 doitrified
 disgracive
@@ -5409,7 +5410,6 @@ dustheaps
 denumerably
 denumerantive
 detainees
-disestablished
 denunciant
 diamonded
 docilely
