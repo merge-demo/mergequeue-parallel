@@ -4425,6 +4425,7 @@ anticonfederationism
 advisal
 allentiacan
 acridium
+aselar
 aune
 avantlay
 adstipulated
@@ -21022,7 +21023,6 @@ alkannin
 arboriculturist
 abreacted
 aseity
-aselar
 associator
 asellate
 apomictical
