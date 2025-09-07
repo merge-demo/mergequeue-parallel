@@ -4244,7 +4244,6 @@ bebog
 bhikshu
 beneception
 blessing
-burghs
 boggish
 brabbled
 blindish
@@ -6234,6 +6233,7 @@ benthal
 boatside
 birkie
 beys
+burghs
 burying
 benthamism
 billy
