@@ -10980,6 +10980,7 @@ chiseler
 cheapens
 calorify
 chiselled
+compartmentalized
 chiseller
 chiselly
 chisellike
@@ -17866,7 +17867,6 @@ classism
 cowpoke
 codetermine
 codetta
-compartmentalized
 conditioned
 cabook
 codette
