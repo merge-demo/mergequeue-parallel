@@ -11747,6 +11747,7 @@ crystall
 consonantally
 copes
 chondroprotein
+confine
 cult
 chondropterygian
 coachlet
@@ -21997,7 +21998,6 @@ configurations
 configure
 configures
 coxcombry
-confine
 confined
 chalcomancy
 cadging
