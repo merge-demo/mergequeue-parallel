@@ -4722,6 +4722,7 @@ doeskins
 designingly
 daybreak
 dreidels
+despaired
 dawnlight
 demivol
 disbend
@@ -18559,7 +18560,6 @@ divinised
 denuding
 duros
 drouks
-despaired
 durry
 dappled
 decasualization
