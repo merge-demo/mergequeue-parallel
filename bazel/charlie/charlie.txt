@@ -2250,7 +2250,6 @@ cypseloid
 canalatura
 completer
 cerebbella
-cromorne
 canalboat
 charales
 canale
@@ -21910,6 +21909,7 @@ conferruminate
 catslide
 conferted
 congregate
+cromorne
 corpusculated
 chamberwoman
 chillers
