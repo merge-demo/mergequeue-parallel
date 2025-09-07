@@ -5398,7 +5398,6 @@ denuder
 dermolysis
 douched
 dialysation
-dissonant
 denaturiser
 drongos
 dustheaps
@@ -14407,6 +14406,7 @@ dishallucination
 decimestrial
 demerse
 dimyary
+dissonant
 diuranate
 diureide
 diuresis
