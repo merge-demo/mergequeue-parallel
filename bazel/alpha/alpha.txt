@@ -7780,7 +7780,6 @@ antibacchic
 anorthoscope
 atropines
 ascella
-afforestation
 appropriates
 alembic
 abolishes
@@ -10170,6 +10169,7 @@ amebobacter
 analgesidae
 ameboid
 ameboidism
+afforestation
 arytenoid
 ameed
 anemophile
