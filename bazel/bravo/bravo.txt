@@ -656,6 +656,7 @@ besticking
 bacterioscopy
 bacteriosolvent
 basat
+byssoid
 breakshugh
 bacteriostatically
 bivalvia
@@ -14579,7 +14580,6 @@ bedcord
 brantle
 bacteriologic
 bibliomanism
-byssoid
 brants
 bararesque
 brasen
