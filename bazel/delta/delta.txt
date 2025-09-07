@@ -2207,7 +2207,6 @@ divulgences
 diocesan
 droschken
 derrire
-dosages
 drongo
 drivescrew
 doris
@@ -8085,6 +8084,7 @@ deanimalize
 daftardar
 dhyana
 deblaterate
+dosages
 dhobee
 dhoby
 dhobie
