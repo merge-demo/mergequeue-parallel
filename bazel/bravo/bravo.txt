@@ -1145,7 +1145,6 @@ barkstone
 betrayals
 bedimmed
 boatload
-bracteolate
 bagful
 bloodybones
 brindled
@@ -6219,6 +6218,7 @@ benni
 bennies
 benomyl
 backspread
+bracteolate
 benefact
 beggared
 barbigerous

@@ -2445,7 +2445,6 @@ afdecho
 amphicyrtic
 aconital
 antrotympanitis
-aconite
 adoptabilities
 antherid
 aconitia
@@ -15985,6 +15984,7 @@ antisag
 aminoplastic
 antisaloon
 atrophied
+aconite
 affaire
 antisalooner
 antisavage
