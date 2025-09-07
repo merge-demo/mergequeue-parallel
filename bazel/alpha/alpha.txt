@@ -13485,7 +13485,6 @@ abominator
 anthems
 annulets
 audiviser
-annullate
 altimeters
 annuller
 anguinidae
@@ -21453,6 +21452,7 @@ artfully
 angioplasty
 autotypies
 aspidistra
+annullate
 aminoquinoline
 archaeolatry
 anatomicopathologic
