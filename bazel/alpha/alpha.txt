@@ -2150,7 +2150,6 @@ aerosolizing
 antiparastatitis
 achromatope
 achromatophile
-achromatophilia
 achromatopia
 achromatopsy
 apologizes
@@ -10024,6 +10023,7 @@ ablatives
 anisette
 amboceptoid
 ambocoelia
+achromatophilia
 adelpholite
 alumin
 aspirin
