@@ -16939,7 +16939,6 @@ apneusis
 apneustic
 apnoea
 abominating
-abacination
 adiaphoretic
 ayahausca
 apoatropine
@@ -18423,6 +18422,7 @@ allotype
 averish
 aminity
 arborary
+abacination
 amias
 arborea
 arrhenoid
