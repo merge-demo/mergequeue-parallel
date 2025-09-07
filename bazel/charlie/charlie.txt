@@ -3270,7 +3270,6 @@ coherald
 capmaking
 combatter
 capnoides
-clipping
 creaker
 colonizes
 capnomancy
@@ -17520,6 +17519,7 @@ cobridgehead
 ceasmic
 chrysostomic
 chimneyhead
+clipping
 coburg
 cobweb
 cerion
