@@ -6059,6 +6059,7 @@ deputes
 diopsis
 deputing
 diaconicon
+discriminably
 directiveness
 delicacy
 discoverability
@@ -6755,7 +6756,6 @@ dojo
 desiredly
 dextrinize
 decretalist
-discriminably
 desirer
 drachma
 daira
