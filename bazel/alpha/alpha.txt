@@ -9830,7 +9830,6 @@ anticlastic
 ancoral
 auricled
 amativeness
-apikoros
 arcing
 artificious
 avoue
@@ -13658,6 +13657,7 @@ apogamic
 anoncillo
 anonym
 anaemia
+apikoros
 anonymity
 anonymously
 anoopsia
