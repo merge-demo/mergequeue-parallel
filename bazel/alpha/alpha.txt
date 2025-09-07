@@ -15888,7 +15888,6 @@ antiquation
 angelfish
 autoloading
 antirabies
-antirachitic
 aponeurositis
 anisomelia
 antirachitically
@@ -22280,6 +22279,7 @@ ameiuridae
 aquacades
 archcorrupter
 astrology
+antirachitic
 astrologically
 astrologist
 astriction
