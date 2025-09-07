@@ -5174,7 +5174,6 @@ carinule
 cassocked
 cataleptic
 calycoideous
-conduced
 colorimetrical
 chevrony
 cuculine
@@ -17247,6 +17246,7 @@ coalfitter
 cyanines
 coalholes
 coaly
+conduced
 caixinha
 commoderate
 communicativeness
