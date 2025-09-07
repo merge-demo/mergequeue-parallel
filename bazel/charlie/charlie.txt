@@ -2869,6 +2869,7 @@ connectionless
 cantabank
 canonic
 curatively
+coltskin
 cacaos
 cantabile
 clothesmonger
@@ -24452,7 +24453,6 @@ cacoepistic
 coos
 cooser
 coosers
-coltskin
 coost
 curves
 curvinerved
