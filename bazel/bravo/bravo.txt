@@ -529,6 +529,7 @@ backstrapped
 backstreet
 blastophoric
 bombsights
+bareboat
 bismuthiferous
 butomaceous
 backstroke
@@ -15501,7 +15502,6 @@ brisking
 bursted
 bemired
 byepath
-bareboat
 briss
 brist
 beta
