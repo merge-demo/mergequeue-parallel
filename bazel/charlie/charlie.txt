@@ -11672,7 +11672,6 @@ coassistant
 commissionary
 chondral
 chondrarsenite
-cholesteric
 chondre
 chondrenchyma
 caramelin
@@ -23785,6 +23784,7 @@ centrisciform
 conductimeter
 contraremonstrance
 contrariant
+cholesteric
 contraries
 contrarieties
 cervus
