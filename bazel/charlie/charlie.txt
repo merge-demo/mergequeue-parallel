@@ -11238,7 +11238,6 @@ chlorize
 cynocephalus
 chesterbed
 ceresin
-chlormethane
 childe
 conservation
 chloroamide
@@ -13070,6 +13069,7 @@ cibol
 conjugacy
 cibolero
 cibols
+chlormethane
 columnea
 ciboney
 cibophobia
