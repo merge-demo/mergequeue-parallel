@@ -17271,6 +17271,7 @@ cephalostyle
 clinopinacoidal
 capsella
 culices
+coxite
 coalifies
 coalifying
 coalite
@@ -27755,7 +27756,6 @@ cowishness
 coquitos
 coxes
 chondrogeny
-coxite
 coxitis
 checkouts
 coupee
