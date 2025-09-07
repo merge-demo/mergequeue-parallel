@@ -1245,6 +1245,7 @@ bakra
 backslid
 beleaguers
 belemnid
+baubling
 beds
 bimeby
 bittersweetness
@@ -5118,7 +5119,6 @@ bromhidrosis
 bedless
 bloodthirstiness
 bullberry
-baubling
 bilocation
 bimorphemic
 banco
