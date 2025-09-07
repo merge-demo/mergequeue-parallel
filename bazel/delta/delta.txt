@@ -382,7 +382,6 @@ dayman
 droughtiness
 detruss
 daymares
-disseizes
 diarists
 discoloured
 daymark
@@ -10938,6 +10937,7 @@ debat
 dirtied
 dirtying
 dirtily
+disseizes
 diplograph
 disincrease
 dispermy
