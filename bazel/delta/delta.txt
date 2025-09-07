@@ -6817,6 +6817,7 @@ desmoids
 disproportionalness
 draughted
 drawgear
+dateableness
 desmoncus
 danknesses
 dryobalanops
@@ -9284,7 +9285,6 @@ dissentious
 debite
 digitalic
 dartlike
-dateableness
 dyes
 dammer
 damfoolish
