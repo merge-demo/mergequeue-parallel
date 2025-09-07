@@ -10290,7 +10290,6 @@ britons
 blahs
 balatas
 blithemeat
-beckoning
 bookseller
 blagueur
 blains
@@ -12442,6 +12441,7 @@ bowly
 bather
 basely
 bagpiped
+beckoning
 buphthalmos
 bone
 bejaundice
