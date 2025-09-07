@@ -5792,6 +5792,7 @@ colporrhea
 cates
 catesbaea
 catfaced
+chaffcutter
 constructable
 chivy
 catfacing
@@ -20396,7 +20397,6 @@ cuirass
 comose
 comourn
 comptrollership
-chaffcutter
 corycavamine
 cybister
 cuiejos

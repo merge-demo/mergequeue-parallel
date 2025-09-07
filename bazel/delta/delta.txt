@@ -3703,7 +3703,6 @@ desmitis
 dehkan
 durmasts
 defaceable
-dehonestation
 disoccupied
 dehorn
 didepside
@@ -13676,6 +13675,7 @@ dissiliency
 dissilient
 dolichurus
 dermatobia
+dehonestation
 dissyllabic
 documentarian
 dissyllabised
