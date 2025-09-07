@@ -543,6 +543,7 @@ deaccessions
 deliber
 dao
 damagers
+disworship
 dumber
 duodecillionth
 dextrorotation
@@ -7128,7 +7129,6 @@ donenesses
 demolished
 demivierge
 dispraised
-disworship
 directively
 desulfuring
 dunging
