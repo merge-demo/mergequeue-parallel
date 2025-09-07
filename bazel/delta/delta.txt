@@ -5043,6 +5043,7 @@ deduct
 disfigures
 dextrogyrate
 denaturization
+dite
 desensitizers
 dendraspis
 doomwatcher
@@ -9500,7 +9501,6 @@ disglut
 diathermanous
 demark
 digestible
-dite
 digestibleness
 delphinite
 digestibly
