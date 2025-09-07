@@ -5004,7 +5004,6 @@ chondrosamine
 cascadite
 cascalho
 cascalote
-calenturist
 coagulant
 coparallel
 cascaras
@@ -17439,6 +17438,7 @@ cobalamin
 copelatae
 cobalt
 cobaltamine
+calenturist
 contrude
 crowdweed
 cephaloconic
