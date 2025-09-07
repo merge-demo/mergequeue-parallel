@@ -14982,7 +14982,6 @@ citrine
 coqueluche
 congressmen
 cytopharynxes
-citrinin
 citrinins
 citrins
 citrocola
@@ -31415,6 +31414,7 @@ chondrules
 canoed
 curlews
 cyanemia
+citrinin
 curlicue
 choriambize
 cosmogonist
