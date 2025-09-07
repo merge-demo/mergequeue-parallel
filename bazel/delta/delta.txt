@@ -10012,7 +10012,6 @@ dimitry
 decamped
 democratian
 demoiselle
-dirigomotor
 dermohemia
 dinothere
 diacipiperazine
@@ -11712,6 +11711,7 @@ discordable
 diametrally
 discordancy
 deregulating
+dirigomotor
 discordancies
 discordant
 discordantness
