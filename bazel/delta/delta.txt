@@ -3455,7 +3455,6 @@ deflections
 delete
 deformations
 detrudes
-deformedly
 dandily
 deformative
 deuterostomata
@@ -16753,6 +16752,7 @@ depressor
 destigmatize
 dabblers
 deeny
+deformedly
 deponer
 diplarthrous
 decreative
