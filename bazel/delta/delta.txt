@@ -3237,7 +3237,6 @@ disputably
 disinsulation
 defines
 deionizes
-definiens
 derencephalocele
 duet
 dolabre
@@ -11490,6 +11489,7 @@ debug
 discloser
 deplete
 disclosive
+definiens
 disclosure
 diplomaed
 duplicitous
