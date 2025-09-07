@@ -10726,7 +10726,6 @@ catalytically
 concameration
 crash
 chalkcutter
-chorisos
 castigatories
 cheeter
 chinners
@@ -24549,6 +24548,7 @@ cutches
 coperta
 cantate
 cophosis
+chorisos
 copia
 clapped
 copyboy
