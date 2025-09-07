@@ -9146,7 +9146,6 @@ csects
 carbonylic
 chastener
 coplanation
-chastenment
 chastens
 chaster
 crombec
@@ -18442,6 +18441,7 @@ crescive
 cognizor
 cognomens
 carnally
+chastenment
 censor
 cathedral
 cognominated

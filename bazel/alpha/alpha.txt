@@ -3130,7 +3130,6 @@ antizymic
 archfire
 antisyndicalism
 anagramming
-aculeae
 ambassiate
 atolls
 aready
@@ -7643,6 +7642,7 @@ aplustria
 antiseptical
 aldermen
 amidoguaiacol
+aculeae
 attendances
 almehs
 aonian
