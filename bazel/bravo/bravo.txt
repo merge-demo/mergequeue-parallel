@@ -1174,7 +1174,6 @@ baiting
 baywoods
 bodhisat
 ballasting
-burlers
 balladized
 baiza
 baizas
@@ -13976,6 +13975,7 @@ blindfolder
 bloviates
 biophagous
 ballet
+burlers
 brabble
 bandsawn
 beep
