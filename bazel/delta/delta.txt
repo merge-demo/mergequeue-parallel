@@ -4230,6 +4230,7 @@ delphinoidine
 distaffs
 dropforge
 delphocurarine
+diffidentness
 dermatopsy
 decoherer
 dels
@@ -11390,7 +11391,6 @@ devaraja
 dost
 dinichthys
 dinner
-diffidentness
 damage
 degradational
 dystocias
