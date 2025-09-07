@@ -6446,6 +6446,7 @@ consulter
 changefulness
 cavitations
 cavity
+corrugates
 cavitied
 cavorted
 cavorting
@@ -9771,7 +9772,6 @@ chemiatric
 chapeless
 complexometric
 chalybean
-corrugates
 cowardliness
 clubroot
 combattants
