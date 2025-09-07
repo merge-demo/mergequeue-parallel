@@ -11269,6 +11269,7 @@ basidigitale
 boneyard
 biologism
 blowse
+brigantia
 brethren
 bargeman
 barse
@@ -15281,7 +15282,6 @@ brigadier
 brachypterous
 bandhu
 burial
-brigantia
 brigatry
 brigetty
 beetler
