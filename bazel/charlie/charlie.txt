@@ -6840,7 +6840,6 @@ crossable
 cranially
 celtuce
 closefisted
-cembalon
 curiousnesses
 cembalos
 cyclase
@@ -21047,6 +21046,7 @@ compunctionless
 cyanean
 crofterize
 carouser
+cembalon
 cyclian
 compunctiously
 compupil
