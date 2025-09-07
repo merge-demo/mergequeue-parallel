@@ -13970,6 +13970,7 @@ brabble
 bandsawn
 beep
 bicycling
+bowmaker
 boxmaking
 bitterer
 bushtits
@@ -16543,7 +16544,6 @@ bousy
 botryogen
 bessemerizing
 becrampon
-bowmaker
 blackarm
 battleship
 bejewelled
