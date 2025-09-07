@@ -7830,7 +7830,6 @@ brontometer
 biosterol
 bams
 bibliomania
-bibliomaniac
 buxerries
 biker
 baptises
@@ -15304,6 +15303,7 @@ boisseau
 bilharziasis
 besteaded
 bannerlike
+bibliomaniac
 brighten
 brightish
 brightsmith
