@@ -8981,7 +8981,6 @@ abasedness
 abience
 alludes
 allumette
-acipenser
 accendibility
 anticapitalist
 alliterational
@@ -9704,6 +9703,7 @@ amandine
 amanist
 airwaybill
 amanitine
+acipenser
 aerifying
 anaerobies
 amanitins

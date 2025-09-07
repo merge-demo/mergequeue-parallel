@@ -4871,7 +4871,6 @@ dormmice
 demonish
 demagnetized
 devotionary
-demonishness
 disozonize
 dismaying
 demonists
@@ -10234,6 +10233,7 @@ depopularize
 diecase
 dimethoxy
 discoplacental
+demonishness
 dulcely
 dinitrate
 dinitrocellulose
