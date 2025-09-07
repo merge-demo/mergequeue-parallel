@@ -2452,6 +2452,7 @@ candid
 canadianization
 copperish
 conject
+cirque
 conversive
 candidacy
 candidacies
@@ -29175,7 +29176,6 @@ calories
 cryptaesthesia
 conflictual
 chattingly
-cirque
 cryptamnesic
 cryptanalytically
 cryptanalytics
