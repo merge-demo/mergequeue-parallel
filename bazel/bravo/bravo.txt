@@ -862,7 +862,6 @@ bagasses
 badhan
 bruxisms
 brierroot
-beery
 beflags
 bleachs
 bongos
@@ -5666,6 +5665,7 @@ blastule
 bebeast
 bemuzzles
 boilingly
+beery
 beliefless
 badman
 benzacridine
