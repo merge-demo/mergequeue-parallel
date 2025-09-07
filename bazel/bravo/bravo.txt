@@ -4722,7 +4722,6 @@ blast
 bedribble
 burglarizes
 benign
-barque
 bibracteate
 billfold
 brainish
@@ -7884,6 +7883,7 @@ biblists
 bowlders
 buoyed
 bezoar
+barque
 blockwood
 bushido
 buibui
