@@ -9872,7 +9872,6 @@ ambassade
 alkynes
 alerion
 archfiend
-antiman
 ambassadorially
 acetylglycin
 ambassadors
@@ -24016,6 +24015,7 @@ acidotic
 atomizers
 antiblack
 approaching
+antiman
 ascidiozooid
 autoecy
 adventitiously
