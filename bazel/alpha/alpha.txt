@@ -233,7 +233,6 @@ adenomyxoma
 abbreviatable
 abraded
 actinochemical
-amentia
 abbreviates
 anaqua
 auctorial
@@ -9939,6 +9938,7 @@ abounded
 automobility
 acrogamy
 appel
+amentia
 americomania
 anticipator
 arousing
