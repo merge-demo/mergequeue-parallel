@@ -4651,7 +4651,6 @@ depose
 dermohemal
 dogplate
 dinic
-dulcite
 demisangue
 denarius
 dustproof
@@ -4981,6 +4980,7 @@ desmacyte
 demountability
 demountable
 dempsters
+dulcite
 demulcents
 diphycercy
 demulsibility
