@@ -3254,7 +3254,6 @@ basilica
 belverdian
 billywix
 bannerol
-brookable
 blushfulness
 basilicock
 basilidan
@@ -14516,6 +14515,7 @@ branchiostegidae
 branchiostoma
 bounciest
 balbriggan
+brookable
 branchiostomous
 bombload
 barkey
