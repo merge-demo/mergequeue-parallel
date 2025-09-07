@@ -6239,7 +6239,6 @@ birkie
 beys
 burying
 benthamism
-billy
 burglarproof
 benthic
 barbar
@@ -17198,6 +17197,7 @@ brainwork
 blueball
 bumboat
 bumclock
+billy
 baku
 bludgeoner
 bawdy

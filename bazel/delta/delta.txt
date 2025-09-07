@@ -7532,6 +7532,7 @@ denucleate
 demarcator
 desulfurized
 disenchain
+datura
 dittos
 defenceable
 disrupting
@@ -15995,7 +15996,6 @@ documentor
 deboning
 discounts
 doser
-datura
 dogproof
 dosinia
 dehairer
