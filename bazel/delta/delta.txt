@@ -5810,7 +5810,6 @@ dysraphia
 dujan
 deploration
 dismarshall
-disauthentic
 drukpa
 disentrancing
 dowel
@@ -18266,6 +18265,7 @@ dipody
 darts
 drumly
 debussed
+disauthentic
 disapprobative
 deuterogamist
 draffs
