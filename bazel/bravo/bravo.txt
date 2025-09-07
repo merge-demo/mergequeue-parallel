@@ -1426,6 +1426,7 @@ bobance
 battable
 balefires
 bungey
+bahadurs
 balefully
 branned
 baleys
@@ -1503,7 +1504,6 @@ breekless
 blighter
 balkish
 bodaciously
-bahadurs
 beggar
 boroglycerate
 barras
