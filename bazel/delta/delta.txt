@@ -232,6 +232,7 @@ disclaim
 denticate
 diarrhoea
 dojos
+dolite
 dispatcher
 dorstenia
 daftest
@@ -13023,7 +13024,6 @@ disfavourer
 decomplex
 disorderer
 discourse
-dolite
 diathermometer
 doigt
 daughterkin
