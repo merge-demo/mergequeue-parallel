@@ -10908,6 +10908,7 @@ bridleless
 barth
 bourrees
 blonder
+borg
 blinkard
 blesbuck
 blinkards
@@ -12742,7 +12743,6 @@ booksellerism
 banderilleros
 bookselling
 bescreened
-borg
 beeware
 bothriums
 boloney
