@@ -12089,6 +12089,7 @@ anchoret
 anchorets
 acquittals
 amblyopsis
+antigonus
 angiometer
 altruism
 almach
@@ -15176,7 +15177,6 @@ autonitridation
 antigonon
 antigonorrheic
 afflue
-antigonus
 antigovernmental
 antigovernmentally
 antigrammatical
