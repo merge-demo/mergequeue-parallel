@@ -15713,7 +15713,6 @@ claviger
 carshops
 clavilux
 coy
-carlisle
 clavipectoral
 chips
 clavolet
@@ -27288,6 +27287,7 @@ courageous
 catholics
 courager
 cherubs
+carlisle
 curacy
 chanfrons
 connexionalism
