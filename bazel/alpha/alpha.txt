@@ -133,7 +133,6 @@ abating
 abatis
 abatised
 amine
-antiatoms
 alcades
 animalivora
 abaton
@@ -6124,6 +6123,7 @@ amarth
 autarkic
 anachronically
 agoutis
+antiatoms
 areolation
 agpaitic
 agr

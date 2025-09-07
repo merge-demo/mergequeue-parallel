@@ -3255,7 +3255,6 @@ definite
 definitely
 desecrate
 duramater
-distrait
 definiteness
 dahlin
 diceman
@@ -18249,6 +18248,7 @@ deputative
 dasycladaceae
 dhoolies
 dungarees
+distrait
 dispirem
 doghearted
 dungbeck
