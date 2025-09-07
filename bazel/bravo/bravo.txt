@@ -1146,7 +1146,6 @@ betrayals
 bedimmed
 boatload
 bracteolate
-bagful
 bloodybones
 brindled
 brewmaster
@@ -9684,6 +9683,7 @@ bistate
 biosyntheses
 buggering
 brainache
+bagful
 brainwashed
 bacilliparous
 bistephanic
