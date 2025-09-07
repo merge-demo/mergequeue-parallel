@@ -74,7 +74,6 @@ abalones
 abama
 antisquama
 archineuron
-abecedary
 aband
 abandon
 androecial
@@ -8802,6 +8801,7 @@ airlifted
 aporrhaoid
 arrayers
 amidosuccinamic
+abecedary
 arginines
 anguimorpha
 alloerotism
