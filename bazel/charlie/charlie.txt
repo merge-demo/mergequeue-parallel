@@ -9358,6 +9358,7 @@ chazanim
 chazans
 chazanut
 chazy
+chuting
 circularwise
 curtly
 chazzans
@@ -12887,7 +12888,6 @@ chuted
 calyon
 chuter
 chromatometer
-chuting
 chutists
 cydonian
 cocurrent
