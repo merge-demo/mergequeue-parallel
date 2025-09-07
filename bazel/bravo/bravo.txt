@@ -3437,7 +3437,6 @@ biggah
 beechdrops
 bastinado
 bastings
-babesiosis
 blendure
 badgerly
 bastions
@@ -10152,6 +10151,7 @@ bos
 blup
 buckwasher
 bezette
+babesiosis
 baroreceptor
 beglads
 bendsome
