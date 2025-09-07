@@ -27518,7 +27518,6 @@ coverchief
 cannulated
 cerberean
 covercle
-coprolalia
 carangidae
 covered
 coverer
@@ -28155,6 +28154,7 @@ cytotoxicity
 crannies
 crannying
 compiler
+coprolalia
 crannock
 crannoger
 carvomenthene
