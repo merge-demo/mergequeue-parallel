@@ -2103,7 +2103,6 @@ dromedary
 decanery
 decanes
 diabolify
-decangular
 deraigns
 daedalus
 decently
@@ -15735,6 +15734,7 @@ dooring
 doorless
 dismail
 destinate
+decangular
 decolorised
 dietist
 doormats
