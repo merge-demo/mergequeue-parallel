@@ -10783,7 +10783,6 @@ chionablepsia
 chionaspis
 candlepower
 circumcising
-chiopin
 concoagulate
 chip
 chetrums
@@ -30541,6 +30540,7 @@ cubocalcaneal
 cuboctahedron
 cubocube
 crepidula
+chiopin
 chryseis
 cubocuneiform
 cubododecahedral
