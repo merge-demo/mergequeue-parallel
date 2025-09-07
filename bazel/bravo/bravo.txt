@@ -199,7 +199,6 @@ baccalaureate
 bismuthal
 baccara
 baroques
-buddy
 bdrm
 bedin
 bristleless
@@ -11561,6 +11560,7 @@ buceros
 broodsac
 britzka
 boardwalks
+buddy
 battledored
 bolis
 brachyural
