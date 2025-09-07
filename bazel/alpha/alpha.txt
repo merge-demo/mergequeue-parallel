@@ -3722,7 +3722,6 @@ anteropygal
 adipolytic
 atheistically
 alderney
-adipoma
 arrish
 articulary
 adipopexia
@@ -13641,6 +13640,7 @@ anticommercially
 autoptic
 anomouran
 anomphalous
+adipoma
 ayegreen
 anomuran
 abhorrer

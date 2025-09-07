@@ -1,6 +1,5 @@
 belledom
 bedaff
-brominating
 braille
 baalize
 browning
@@ -281,6 +280,7 @@ balancedness
 brontosaur
 bedfellow
 bacillarieae
+brominating
 bacillariophyta
 beroe
 barlock
