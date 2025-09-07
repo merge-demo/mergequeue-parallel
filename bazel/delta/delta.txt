@@ -12541,6 +12541,7 @@ disilicide
 deboise
 demesne
 demurring
+draghound
 dumky
 discontinuations
 disconform
@@ -16648,7 +16649,6 @@ deputed
 deuteromycetes
 deepsome
 dissembly
-draghound
 darwinian
 diplostemony
 dragman
