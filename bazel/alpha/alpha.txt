@@ -8795,6 +8795,7 @@ archduchesses
 allody
 allodia
 allodial
+attenuant
 anteroflexion
 allodiality
 asherim
@@ -9708,7 +9709,6 @@ airwaybill
 amanitine
 aerifying
 anaerobies
-attenuant
 amanitins
 antireforming
 aspergillums
