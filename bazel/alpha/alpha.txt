@@ -17248,6 +17248,7 @@ apostacize
 apostasy
 audiometer
 auguste
+astogeny
 actors
 alimentally
 autocollimator
@@ -22074,7 +22075,6 @@ astipulation
 anhydromyelia
 advised
 anthropophagism
-astogeny
 asyllabic
 aglutition
 arius
