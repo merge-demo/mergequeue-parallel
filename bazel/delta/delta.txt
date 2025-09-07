@@ -795,7 +795,6 @@ dungeon
 dermititis
 deckhead
 daneweed
-daneweeds
 detections
 dangerously
 deduced
@@ -17494,6 +17493,7 @@ dilatorily
 disserts
 diazoimido
 drostdy
+daneweeds
 droughts
 dominium
 deskill
