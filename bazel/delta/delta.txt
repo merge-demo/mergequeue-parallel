@@ -3002,7 +3002,6 @@ deerweed
 deerweeds
 deepfrozen
 deemphasize
-diester
 downward
 diuretic
 deewan
@@ -3258,6 +3257,7 @@ diceman
 degeneracy
 duplications
 definitions
+diester
 dormant
 dilatant
 depurge

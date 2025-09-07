@@ -5366,7 +5366,6 @@ casualism
 casualist
 curvesome
 concaves
-casuals
 casualty
 casuariiformes
 chloramide
@@ -10199,6 +10198,7 @@ coeline
 curacao
 chiastoneural
 chalone
+casuals
 cubanize
 cyclistic
 chiastoneurous
