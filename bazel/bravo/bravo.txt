@@ -8099,7 +8099,6 @@ brutelike
 barmaids
 bespreading
 blossomed
-bivalencies
 bielbrief
 bullyboy
 bloodbird
@@ -10924,6 +10923,7 @@ barretors
 buriti
 benevolence
 blustered
+bivalencies
 bael
 bellhop
 byerlite
