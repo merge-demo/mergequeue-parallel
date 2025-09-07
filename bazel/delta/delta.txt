@@ -4059,6 +4059,7 @@ deliquescence
 divertila
 delictual
 disobeyed
+docker
 delictum
 delieret
 despicably
@@ -5774,7 +5775,6 @@ depones
 deponing
 dented
 distributee
-docker
 depopulating
 deals
 doodler
