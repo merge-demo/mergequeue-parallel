@@ -1276,7 +1276,6 @@ balaena
 binit
 blindedly
 barrowful
-bendy
 barleys
 bottomer
 bruke
@@ -16005,6 +16004,7 @@ brooke
 bounteous
 babiana
 bedrape
+bendy
 brumalia
 baluster
 bidery
