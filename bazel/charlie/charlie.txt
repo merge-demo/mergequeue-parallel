@@ -14440,6 +14440,7 @@ cirripedial
 cooba
 centiare
 carate
+closecross
 citrul
 charades
 cirrocumulative
@@ -17280,7 +17281,6 @@ chymotrypsinogen
 cytoplasm
 cleans
 crumple
-closecross
 coalizer
 coalless
 commentaries
