@@ -4149,7 +4149,6 @@ barracoutas
 baftah
 beastship
 benches
-beatae
 beatee
 bleery
 brosot
@@ -14079,6 +14078,7 @@ burkites
 behaviour
 backhooker
 bingeys
+beatae
 bogusness
 beastliest
 brachiopoda
