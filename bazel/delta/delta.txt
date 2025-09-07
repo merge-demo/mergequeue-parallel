@@ -8154,7 +8154,6 @@ denitrificator
 detrusive
 du
 diabolization
-disambiguate
 disventure
 delineate
 dadupanthi
@@ -15567,6 +15566,7 @@ dominick
 dunkers
 dominies
 dominion
+disambiguate
 dominionism
 dishable
 dominionist
