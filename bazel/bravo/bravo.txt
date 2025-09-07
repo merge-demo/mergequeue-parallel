@@ -6312,6 +6312,7 @@ belite
 beltir
 bilalo
 barani
+bibliopolery
 blackbirding
 bleep
 birdwise
@@ -7859,7 +7860,6 @@ bargains
 blueings
 bibliopole
 birdieback
-bibliopolery
 beclasp
 brambleberries
 breviature
