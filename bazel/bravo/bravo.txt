@@ -3421,7 +3421,6 @@ bullfoot
 boatshop
 bleaching
 bulletmaker
-bagani
 bummers
 brigantines
 bastardry
@@ -16255,6 +16254,7 @@ baduhenna
 bruiter
 bruits
 baddeleyite
+bagani
 bacchius
 brujeria
 botryolite
