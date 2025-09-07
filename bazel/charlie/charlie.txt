@@ -8894,6 +8894,7 @@ cutinised
 cupping
 chargee
 cataphasia
+contingent
 chargeful
 chargehouse
 chargeless
@@ -12926,7 +12927,6 @@ cyanids
 cyanimide
 cyanine
 chaldrons
-contingent
 cyanitic
 composture
 columnating
