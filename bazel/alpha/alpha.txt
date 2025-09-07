@@ -5694,7 +5694,6 @@ agatelike
 agathist
 agathodaemonic
 airdrome
-aeropause
 ambulative
 agatiferous
 auxetics
@@ -20901,6 +20900,7 @@ annulments
 anthesteria
 anapanapa
 ascham
+aeropause
 antiatom
 ascidiae
 antihuff
