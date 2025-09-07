@@ -5688,6 +5688,7 @@ deozonize
 demigods
 desterilized
 dialysed
+durance
 dichromate
 disposit
 deplenish
@@ -17916,7 +17917,6 @@ derricks
 debromination
 disburser
 deterministically
-durance
 deteriorations
 dejectedly
 dracaena
