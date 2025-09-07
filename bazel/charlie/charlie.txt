@@ -7843,7 +7843,6 @@ ceticide
 chitinization
 cariform
 cetyl
-caquet
 cebids
 chaetangium
 congregationally
@@ -29746,6 +29745,7 @@ cliftonia
 crop
 carniolan
 crophead
+caquet
 coinsures
 carpellate
 caesural
