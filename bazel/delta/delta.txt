@@ -15343,7 +15343,6 @@ dolefully
 detainment
 deeryards
 drawlier
-decreased
 dolefulness
 deathfulness
 disimitate
@@ -17196,6 +17195,7 @@ downshifted
 drepanium
 divulging
 degenerative
+decreased
 destabilization
 drifts
 depositary
