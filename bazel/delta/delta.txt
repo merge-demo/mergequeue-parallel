@@ -647,6 +647,7 @@ decoyman
 dojiggy
 dinoflagellata
 deploitation
+dilucidate
 damnify
 dearth
 damnificatus
@@ -15086,7 +15087,6 @@ dissections
 dodos
 duali
 decoloriser
-dilucidate
 dermatoid
 disarmer
 dimerism
