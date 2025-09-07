@@ -27572,7 +27572,6 @@ cymatium
 coving
 cetin
 carapus
-covinous
 covisit
 charioteership
 covisitor
@@ -30425,6 +30424,7 @@ choicelessness
 chemiotropism
 ctenolium
 ctenophore
+covinous
 chepster
 codesigning
 casel
