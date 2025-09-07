@@ -3920,7 +3920,6 @@ beteela
 bdellium
 bdelliums
 bdelloid
-bdellometer
 boarts
 bombardier
 bocstaff
@@ -13849,6 +13848,7 @@ bottomrying
 barleybird
 biduous
 bang
+bdellometer
 bowheads
 beknighting
 bowie
