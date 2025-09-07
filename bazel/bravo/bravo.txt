@@ -1845,6 +1845,7 @@ besotter
 bilgy
 basketmaker
 bandeau
+blueline
 bancus
 backstabber
 banderma
@@ -11362,7 +11363,6 @@ bagplant
 bathhouse
 bluejacket
 bluejacks
-blueline
 blennophthalmia
 bluelines
 biometer
