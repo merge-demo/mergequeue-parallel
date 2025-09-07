@@ -5019,6 +5019,7 @@ ashy
 acusection
 aetat
 aethalium
+aldose
 abjectness
 avowries
 astragalectomy
@@ -20707,7 +20708,6 @@ artolatry
 anguineal
 amianthiform
 abraid
-aldose
 artophagous
 antiproteolysis
 artotype

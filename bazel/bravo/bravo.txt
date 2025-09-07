@@ -265,7 +265,6 @@ bootmaking
 boyuna
 belleter
 bsh
-bacilary
 bacile
 bacillaceae
 brarow
@@ -2744,6 +2743,7 @@ bombax
 barometers
 beefy
 blam
+bacilary
 benchmarking
 beachside
 burthenman
