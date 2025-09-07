@@ -5931,6 +5931,7 @@ disentraced
 defeatee
 depreter
 depriment
+disinflationary
 depriorize
 dagged
 deprivable
@@ -12605,7 +12606,6 @@ drugstores
 doina
 disinflate
 dortour
-disinflationary
 droitural
 disingenuous
 dropsically

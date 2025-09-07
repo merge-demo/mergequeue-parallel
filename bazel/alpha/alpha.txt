@@ -5243,7 +5243,6 @@ affranchise
 affreightment
 adiadokokinesi
 amphicoelian
-affret
 afghanets
 agnosticism
 agglutinable
@@ -21236,6 +21235,7 @@ asynchronism
 asynchronisms
 asyndetic
 androphore
+affret
 analectic
 automobilistic
 azobacter
