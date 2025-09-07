@@ -8756,6 +8756,7 @@ allocatur
 astound
 assumable
 allanturic
+amyclas
 antevocalic
 arrayment
 armouries
@@ -10401,7 +10402,6 @@ aasvogels
 amyclaean
 alisonite
 apolarity
-amyclas
 amicous
 amicrobic
 amicronucleate
