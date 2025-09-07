@@ -9276,7 +9276,6 @@ backarrow
 baccaras
 bindweb
 barcaroles
-belgian
 bespeed
 brendice
 besmother
@@ -12172,6 +12171,7 @@ bema
 bacteriology
 bastiment
 beginner
+belgian
 bolloxes
 bolls
 bunkum
