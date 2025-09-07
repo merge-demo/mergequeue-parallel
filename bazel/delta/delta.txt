@@ -4734,7 +4734,6 @@ deflexionize
 disputatively
 datatypes
 diphenylacetylene
-desperateness
 disnaturalize
 dolente
 devolution
@@ -17499,6 +17498,7 @@ deskill
 dermatographic
 damascener
 dentiroster
+desperateness
 devitrified
 drouking
 deprehension
