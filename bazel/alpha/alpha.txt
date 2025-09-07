@@ -13749,7 +13749,6 @@ apollinarianism
 anostraca
 anotherguess
 anotia
-alant
 antilapsarian
 agapemonian
 athletics
@@ -25109,6 +25108,7 @@ axiolite
 alimentiveness
 asterial
 antiascetic
+alant
 axiological
 archarios
 anthidium

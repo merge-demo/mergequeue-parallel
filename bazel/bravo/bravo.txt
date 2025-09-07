@@ -5531,7 +5531,6 @@ bekissed
 barbaric
 bekisses
 bouleuterion
-borons
 beknighted
 beknotted
 burrio
@@ -8061,6 +8060,7 @@ byrlaw
 beslubber
 beltmaker
 besieging
+borons
 bloodhound
 bidiagonal
 bidimensional
