@@ -18287,7 +18287,6 @@ aramaicize
 assembling
 androgynus
 apoplectic
-agastreae
 aramaism
 aramid
 appledrane
@@ -21996,6 +21995,7 @@ asterophyllite
 asterophyllites
 adorno
 agnathous
+agastreae
 anerythroplastic
 asterozoa
 annalist
