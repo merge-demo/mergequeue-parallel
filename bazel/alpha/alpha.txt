@@ -5083,7 +5083,6 @@ anaxonia
 aflicker
 authoritarianism
 autotroph
-affectations
 adorners
 acidophil
 aworth
@@ -19953,6 +19952,7 @@ alimentum
 aroideous
 alfonsin
 ambulancing
+affectations
 aroides
 anarcestes
 aroids
