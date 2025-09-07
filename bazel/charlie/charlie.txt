@@ -7634,6 +7634,7 @@ cavaliership
 cityward
 croquet
 cerniture
+colate
 croze
 cernuous
 cerographer
@@ -18750,7 +18751,6 @@ colas
 cucurbital
 catastatic
 colascioni
-colate
 canaliculation
 conquistador
 colatitude
