@@ -4523,6 +4523,7 @@ belial
 beats
 bedazement
 blared
+batan
 banters
 bowsprit
 bilker
@@ -7057,7 +7058,6 @@ bespend
 bespew
 biparietal
 boucherism
-batan
 bonking
 breadthwise
 berger
