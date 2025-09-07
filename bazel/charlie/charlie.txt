@@ -21918,7 +21918,6 @@ confervae
 conferval
 combe
 cavalero
-clof
 chinamania
 couhage
 confessable
@@ -25861,6 +25860,7 @@ contra
 corsy
 coom
 corsican
+clof
 celidography
 cyclarthrodial
 clinical
