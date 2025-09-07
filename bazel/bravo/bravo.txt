@@ -351,6 +351,7 @@ breakableness
 backbonelessness
 backbones
 bluming
+beanos
 backcap
 backchats
 boule
@@ -17673,7 +17674,6 @@ banbury
 behove
 bratchet
 biont
-beanos
 blepharosymphysis
 burlington
 braconid
