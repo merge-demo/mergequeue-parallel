@@ -12969,6 +12969,7 @@ curpel
 cyanochroia
 cyanocobalamin
 cyanocobalamine
+constat
 cyanoderma
 catchland
 cantrap
@@ -19111,7 +19112,6 @@ colliflower
 cruset
 colliform
 convally
-constat
 conurus
 colligate
 colligating
