@@ -3714,7 +3714,6 @@ dolcan
 desmose
 dreadful
 dehorner
-diplography
 deadlily
 dehorners
 dehorning
@@ -17508,6 +17507,7 @@ definitude
 dimidiate
 datums
 delegatee
+diplography
 dhobi
 drove
 derogative

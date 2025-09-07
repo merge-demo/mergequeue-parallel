@@ -5473,7 +5473,6 @@ alarmists
 anhele
 afterstretch
 amphitriaene
-autosuggestive
 acetylaminobenzene
 alectoropodes
 antidynamic
@@ -22059,6 +22058,7 @@ astigmatoscope
 astigmic
 antiphon
 astigmometer
+autosuggestive
 aglossa
 astigmometry
 alluviate
