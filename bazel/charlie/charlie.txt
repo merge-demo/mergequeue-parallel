@@ -7068,7 +7068,6 @@ centimos
 commonplaceism
 centipedes
 crossties
-centiplume
 carrozza
 centistere
 centistoke
@@ -9283,6 +9282,7 @@ castrate
 chullo
 chaulmaugra
 chaulmoogra
+centiplume
 cytodendrite
 chauna
 cotylophorous
