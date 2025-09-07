@@ -5072,7 +5072,6 @@ autochanger
 afetal
 abelian
 affability
-apyrexia
 arrisways
 affable
 ambilaevous
@@ -8446,6 +8445,7 @@ aphthae
 agastache
 aerograms
 austrian
+apyrexia
 alkin
 avarish
 aerosol
