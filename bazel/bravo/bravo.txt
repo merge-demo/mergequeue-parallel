@@ -8660,7 +8660,6 @@ beseeching
 bogwood
 befortune
 biloculine
-bulldoggish
 bullethead
 betoss
 bottomry
@@ -11619,6 +11618,7 @@ bombardmen
 belace
 butterwife
 boatloader
+bulldoggish
 beigy
 busied
 boatsetter
