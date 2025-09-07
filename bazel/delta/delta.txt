@@ -12008,7 +12008,6 @@ declassifications
 duddies
 dentifrices
 dissolvable
-decrease
 disembitter
 dagestan
 disembocation
@@ -16430,6 +16429,7 @@ defensible
 dichord
 dovetails
 describent
+decrease
 decibel
 disaccharide
 downslope
