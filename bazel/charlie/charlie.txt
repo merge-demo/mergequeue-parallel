@@ -18972,7 +18972,6 @@ collate
 collatee
 collaterality
 chuchona
-chaperon
 collateralized
 coccolithophoridae
 converts
@@ -27363,6 +27362,7 @@ cerotate
 carap
 cabinetmaker
 cauldron
+chaperon
 courting
 courtly
 courtlier

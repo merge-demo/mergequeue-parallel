@@ -4458,7 +4458,6 @@ drones
 dago
 developedness
 despairfulness
-duckwing
 divulgers
 doubtingness
 demesgne
@@ -12058,6 +12057,7 @@ dimolecular
 dived
 dansy
 disenchantress
+duckwing
 depluming
 difforme
 disencharm
