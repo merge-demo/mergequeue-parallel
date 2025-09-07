@@ -1750,6 +1750,7 @@ calxes
 catecholamines
 chatty
 cann
+circumstanced
 calzoneras
 consigneeship
 cam
@@ -15314,7 +15315,6 @@ clandestine
 clandestinely
 clandestineness
 clanfellow
-circumstanced
 caddo
 compatriot
 clanged
