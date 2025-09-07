@@ -11809,7 +11809,6 @@ decide
 desoxymorphine
 debtor
 discreetly
-diffeomorphic
 declarant
 dasyatis
 dehydrated
@@ -16696,6 +16695,7 @@ dragonroot
 deduce
 diggings
 dilutant
+diffeomorphic
 diacids
 detesting
 dragonwort
