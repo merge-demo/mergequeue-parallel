@@ -7765,7 +7765,6 @@ cervicothoracic
 cervinae
 cosignatory
 cervixes
-cervoid
 cervuline
 cesare
 cesareans
@@ -18261,6 +18260,7 @@ concessionary
 chartings
 coffeegrower
 cantinas
+cervoid
 carbonari
 cuss
 coala
