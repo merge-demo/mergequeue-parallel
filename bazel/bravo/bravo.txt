@@ -11290,7 +11290,6 @@ bossiness
 blowups
 beadrow
 byroad
-bookful
 bedrug
 backbearing
 blaugas
@@ -12696,6 +12695,7 @@ boron
 breviate
 blayk
 barrenwort
+bookful
 becudgelling
 barging
 ballant
