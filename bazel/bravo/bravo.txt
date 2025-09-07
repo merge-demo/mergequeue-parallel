@@ -10943,6 +10943,7 @@ brachygrapher
 battledore
 batched
 besoothes
+burial
 blips
 boehmenite
 bliss
@@ -15282,7 +15283,6 @@ bother
 brigadier
 brachypterous
 bandhu
-burial
 brigantia
 brigatry
 brigetty
