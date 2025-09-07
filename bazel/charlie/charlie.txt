@@ -3097,7 +3097,6 @@ caparison
 caparisoning
 caparisons
 capataces
-capataz
 capcase
 celotomy
 connexion
@@ -7787,6 +7786,7 @@ cushiest
 cess
 cessantly
 cessative
+capataz
 cessavit
 caribed
 cessed

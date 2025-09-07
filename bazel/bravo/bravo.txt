@@ -3024,7 +3024,6 @@ barflies
 branglement
 bopping
 biomasses
-burgesses
 beigel
 braggartism
 belee
@@ -15174,6 +15173,7 @@ bridemaid
 blastomycetous
 bahur
 biwa
+burgesses
 butomaceae
 biotype
 beach
