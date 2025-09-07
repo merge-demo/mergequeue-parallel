@@ -8403,6 +8403,7 @@ antecedents
 amebocyte
 alkanol
 alkaphrah
+arshine
 alkapton
 adazzle
 alkaptone
@@ -20317,7 +20318,6 @@ absorbents
 apothegmatic
 afterimage
 antioxygenic
-arshine
 arsyl
 aegritude
 abigails
