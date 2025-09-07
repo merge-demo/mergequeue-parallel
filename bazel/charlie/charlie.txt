@@ -7665,7 +7665,6 @@ chorogi
 cerotypes
 confirmedly
 cerous
-cerrial
 certain
 conservatism
 certainness
@@ -22286,6 +22285,7 @@ conglomeration
 corticin
 conglomerations
 conglomeritic
+cerrial
 conglutinant
 crossopodia
 codlings
