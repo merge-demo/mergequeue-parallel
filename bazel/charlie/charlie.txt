@@ -18864,7 +18864,6 @@ constituting
 cytogene
 colicroot
 colies
-chapt
 curvilinearity
 corymbiform
 communicational
@@ -28879,6 +28878,7 @@ cooperant
 cudwort
 centrolecithal
 conductility
+chapt
 crybabies
 cancellate
 cacodaemon
