@@ -6542,7 +6542,6 @@ berdache
 battuta
 bashawism
 byreman
-booming
 breadnut
 baryglossia
 blotter
@@ -7336,6 +7335,7 @@ boomdas
 busky
 blankard
 botryose
+booming
 barrace
 beton
 bise
