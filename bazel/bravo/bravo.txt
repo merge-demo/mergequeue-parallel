@@ -4840,6 +4840,7 @@ burrowstown
 beef
 battled
 brairo
+baggala
 briar
 beefalo
 basketweaving
@@ -11628,7 +11629,6 @@ bilsted
 blindfast
 boatward
 boomless
-baggala
 bedding
 begirdle
 beneficience
