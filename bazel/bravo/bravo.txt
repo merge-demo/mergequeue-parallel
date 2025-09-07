@@ -6071,7 +6071,6 @@ bendies
 bends
 bendwise
 begay
-balaneutics
 bartramia
 benedicta
 broughta
@@ -13002,6 +13001,7 @@ bacteriophage
 bagattini
 bamangwato
 borboridae
+balaneutics
 bourasque
 borborygmatic
 biggin
