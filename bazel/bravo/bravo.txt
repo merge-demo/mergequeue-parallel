@@ -11653,7 +11653,6 @@ bartlett
 borecoles
 bobby
 bobbin
-beslaved
 bewimple
 bolivias
 bobbinite
@@ -17741,6 +17740,7 @@ binomialism
 burping
 bepainted
 baldicoot
+beslaved
 burps
 burrbark
 balaenoid
