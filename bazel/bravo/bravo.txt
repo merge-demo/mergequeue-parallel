@@ -8520,7 +8520,6 @@ brachysm
 blepharolithiasis
 bradypode
 blackfishing
-bellflower
 bhuts
 bastionary
 bearskin
@@ -12850,6 +12849,7 @@ blunders
 blennotorrhea
 boophilus
 bys
+bellflower
 bedsheet
 basichromatin
 balletomanes
