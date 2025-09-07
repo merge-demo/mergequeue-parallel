@@ -2511,6 +2511,7 @@ candlelighting
 candlelit
 coituses
 choanocytal
+cranemen
 cohusband
 candlemas
 crewel
@@ -12481,7 +12482,6 @@ cappadochio
 colytic
 committitur
 cadjan
-cranemen
 chromotypy
 cynegetics
 cupper
