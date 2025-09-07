@@ -11692,7 +11692,6 @@ barbut
 boloing
 bobjerom
 bioelectricity
-boorish
 behung
 buzzword
 bobol
@@ -12449,6 +12448,7 @@ bone
 bejaundice
 bigothero
 boydom
+boorish
 bonebreaker
 bonedry
 bonefish
