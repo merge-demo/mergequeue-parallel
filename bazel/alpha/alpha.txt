@@ -12324,6 +12324,7 @@ adequateness
 anecdote
 anecdotes
 anecdotic
+auramine
 anova
 anecdotically
 aegagropile
@@ -23525,7 +23526,6 @@ attack
 aura
 aural
 auramin
-auramine
 aurang
 anguishous
 aborters
