@@ -6997,7 +6997,6 @@ centerer
 centerfold
 cenobites
 compania
-coofs
 cantilevers
 chelators
 colonus
@@ -15434,6 +15433,7 @@ clarifiers
 chiefry
 content
 clarin
+coofs
 cleaved
 clarinet
 clarinetist
