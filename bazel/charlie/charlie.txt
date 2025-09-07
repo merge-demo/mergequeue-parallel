@@ -20239,7 +20239,6 @@ commodiously
 commodiousness
 calligraphic
 corbeling
-commodity
 commodities
 commoigne
 cuticulae
@@ -25182,6 +25181,7 @@ capitally
 codifiability
 cuffy
 creakingly
+commodity
 chalastic
 corimelaenidae
 corindon
