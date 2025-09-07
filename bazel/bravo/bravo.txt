@@ -610,7 +610,6 @@ beclothed
 bacteremic
 bacteriaceae
 blooddrops
-bedell
 bacteriaemia
 bacterially
 bacterioblast
@@ -2380,6 +2379,7 @@ bagasse
 bobtails
 bedgowns
 bardesanite
+bedell
 bardess
 bikinis
 bushbeck
