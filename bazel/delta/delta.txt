@@ -5179,7 +5179,6 @@ doctrinalist
 dyings
 daemon
 doghole
-decephalization
 doyen
 deathly
 disserviceableness
@@ -11815,6 +11814,7 @@ discard
 didacticality
 discreeter
 drawled
+decephalization
 dermography
 decide
 desoxymorphine
