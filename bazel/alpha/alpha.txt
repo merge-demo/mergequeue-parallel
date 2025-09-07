@@ -17805,6 +17805,7 @@ avosets
 apprense
 apprentice
 archocystosyrinx
+astragalus
 apprenticehood
 agisms
 apprenticement
@@ -22151,7 +22152,6 @@ addressees
 acoemetic
 astragalotibial
 anomalism
-astragalus
 archaeolith
 astrain
 antimissile
