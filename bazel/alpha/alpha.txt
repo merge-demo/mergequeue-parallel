@@ -4927,7 +4927,6 @@ aeroplaner
 aeroplanes
 alcazars
 archboutefeu
-aeroplanist
 asker
 aeroscepsy
 amanitas
@@ -8333,6 +8332,7 @@ anesthesiometer
 areopagitic
 arcadia
 annoys
+aeroplanist
 anthralin
 alcoholometrical
 alkalies
