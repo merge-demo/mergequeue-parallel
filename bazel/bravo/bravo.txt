@@ -3806,7 +3806,6 @@ bausond
 bautta
 bauxite
 budded
-balsamically
 binominal
 blistery
 bonos
@@ -9862,6 +9861,7 @@ buhl
 biotite
 barrenly
 brachydome
+balsamically
 bable
 bitterroot
 backfall
