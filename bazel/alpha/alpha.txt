@@ -1559,7 +1559,6 @@ amatorian
 accouche
 accouchement
 abbreviate
-accoucheuses
 arclength
 accountable
 accusals
@@ -3135,6 +3134,7 @@ acclimate
 aready
 abram
 abscam
+accoucheuses
 aryanize
 acuminose
 animalculist
