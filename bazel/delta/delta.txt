@@ -608,7 +608,6 @@ damine
 disbeliever
 drek
 disaffection
-dialogic
 dedolomitized
 decarbonize
 damming
@@ -4177,6 +4176,7 @@ deceptibility
 deinsularize
 depopulations
 decylenic
+dialogic
 delocalised
 delocalize
 dermoreaction

@@ -2753,7 +2753,6 @@ bethorned
 bobberies
 bristlewort
 baroness
-bewrapping
 bordello
 balnea
 brattiest
@@ -4773,6 +4772,7 @@ buttercups
 brevicaudate
 bath
 brainstorm
+bewrapping
 bloomfell
 bustier
 bedunce
