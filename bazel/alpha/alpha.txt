@@ -3646,7 +3646,6 @@ adumbrate
 antecedal
 adiadochokinesis
 adiadokokinesia
-adiamorphic
 adeniform
 anterograde
 adiaphon
@@ -12733,6 +12732,7 @@ argenol
 archencephalic
 anglehook
 anglepod
+adiamorphic
 anglepods
 amianthine
 arousement
