@@ -4566,7 +4566,6 @@ biotoxins
 braies
 bedehouses
 balustrade
-beachcomber
 bens
 boeing
 buxus
@@ -12625,6 +12624,7 @@ bestraddling
 booger
 blancher
 biocenosis
+beachcomber
 bonilass
 bemeans
 benefactresses
