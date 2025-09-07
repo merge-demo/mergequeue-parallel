@@ -10969,6 +10969,7 @@ dromons
 disaccredit
 droplike
 diclytra
+derogations
 disunionism
 drugged
 disaccustomedness
@@ -16094,7 +16095,6 @@ devolutionary
 ditetrahedral
 duodenocholangitis
 dioptoscopy
-derogations
 diphtheritis
 disaffiliating
 dehumanize
