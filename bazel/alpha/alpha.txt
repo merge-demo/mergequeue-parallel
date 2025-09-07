@@ -5775,7 +5775,6 @@ asthenic
 automate
 ambisporangiate
 acetylator
-aggenerate
 agger
 aroints
 autostoper
@@ -17695,6 +17694,7 @@ antispasis
 applique
 appliqueing
 appliques
+aggenerate
 assorters
 apinae
 antidora
