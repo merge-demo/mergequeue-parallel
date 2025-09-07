@@ -12170,7 +12170,6 @@ bacteriology
 bastiment
 beginner
 bolloxes
-bolls
 bunkum
 bollworm
 blizzardly
@@ -18313,6 +18312,7 @@ banked
 beths
 blennuria
 brahmans
+bolls
 brightens
 bombardon
 brewst
