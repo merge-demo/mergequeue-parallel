@@ -1047,7 +1047,6 @@ basqued
 brees
 bunglings
 betraise
-bailiary
 bailiaries
 bargainwise
 bailieries
@@ -7032,6 +7031,7 @@ bespeak
 blustered
 baning
 bionomics
+bailiary
 biggings
 boucle
 binning
