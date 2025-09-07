@@ -4333,7 +4333,6 @@ bilingualism
 becircled
 botfly
 beck
-bowman
 brickier
 becky
 becking
@@ -17611,6 +17610,7 @@ barbacou
 benumb
 begabled
 brainsickness
+bowman
 bosky
 berzelianite
 basipterygoid
