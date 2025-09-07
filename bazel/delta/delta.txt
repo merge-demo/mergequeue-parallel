@@ -2363,7 +2363,6 @@ dextroamphetamine
 discommendable
 deciduously
 dimercuric
-deciles
 decylic
 dorsiparous
 deciliter
@@ -6879,6 +6878,7 @@ disseized
 delirous
 drunken
 dirgeful
+deciles
 decentralised
 dottedness
 desoxycorticosterone
