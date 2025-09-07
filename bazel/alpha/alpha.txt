@@ -10067,7 +10067,6 @@ aniconic
 ambrite
 ambroid
 ambrosiaceae
-argine
 ambrosiate
 ambrosin
 ambrosine
@@ -19551,6 +19550,7 @@ arylating
 annotate
 arylation
 ariled
+argine
 arylide
 affricative
 abwatts
