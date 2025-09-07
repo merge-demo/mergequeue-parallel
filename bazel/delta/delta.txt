@@ -5864,7 +5864,6 @@ deprecative
 deepwatermen
 deprecator
 deprecatory
-deoxidised
 dioptry
 desensitization
 degradingness
@@ -7573,6 +7572,7 @@ derner
 desilverization
 deuterosy
 degage
+deoxidised
 deuterostoma
 drubber
 dutifulness
