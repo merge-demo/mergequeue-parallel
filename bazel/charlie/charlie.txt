@@ -2242,6 +2242,7 @@ canailles
 cymoid
 chargeship
 commonwealth
+catafalque
 cytopahgous
 canakin
 canakins
@@ -7817,7 +7818,6 @@ chromophotolithograph
 cataphoretic
 cest
 cesta
-catafalque
 cestode
 cestodes
 copatron
