@@ -7022,7 +7022,6 @@ centerline
 centermost
 centerpiece
 combinedly
-codex
 centerpunch
 crackdown
 centesimal
@@ -17472,6 +17471,7 @@ clepsydras
 chokeweed
 cobbling
 cobbs
+codex
 compressometer
 carabins
 calixtin
