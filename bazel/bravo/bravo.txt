@@ -47,7 +47,6 @@ buts
 breams
 bish
 bundocks
-babbly
 befrogged
 bodes
 brushable
@@ -8762,6 +8761,7 @@ battery
 bulkier
 bummalos
 benzol
+babbly
 balsamiferous
 braeface
 bejelling
