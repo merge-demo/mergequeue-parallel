@@ -5490,7 +5490,6 @@ baklava
 bemurmured
 blotted
 beisance
-bouvier
 burled
 beja
 blintz
@@ -16934,6 +16933,7 @@ biochore
 bimotor
 bulbously
 bowedness
+bouvier
 bespoken
 barytones
 blazoner
