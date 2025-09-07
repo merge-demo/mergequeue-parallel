@@ -9689,6 +9689,7 @@ barracudas
 bedevil
 breadline
 burdocks
+bescurvy
 bistipulate
 begumming
 bistred
@@ -17867,7 +17868,6 @@ bookman
 beauship
 bivium
 bushelers
-bescurvy
 bolshies
 barrulety
 busheling
