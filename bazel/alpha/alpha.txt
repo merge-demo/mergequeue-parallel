@@ -6563,6 +6563,7 @@ amarantaceae
 argillomagnesian
 aimless
 acropolis
+aftercause
 antistrophically
 ascomata
 authorise
@@ -11316,7 +11317,6 @@ autoelectrolytic
 annats
 amplify
 amplificate
-aftercause
 amplificative
 amplificatory
 amplifying
