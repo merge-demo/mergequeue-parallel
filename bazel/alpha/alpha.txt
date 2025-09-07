@@ -8589,7 +8589,6 @@ allelic
 allelism
 almes
 allelomorphic
-allelotropy
 allelotropic
 aquamanilia
 attendantly
@@ -16182,6 +16181,7 @@ antithenar
 ascaridol
 arthrocace
 abbreviating
+allelotropy
 audibility
 argali
 arish

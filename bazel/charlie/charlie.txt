@@ -6636,7 +6636,6 @@ cloamer
 cantrips
 celebrant
 celebrants
-cordierite
 celebrate
 comiakin
 celebratedly
@@ -26760,6 +26759,7 @@ counterdoctrine
 chromogenic
 clamping
 counterdogmatism
+cordierite
 counterdrive
 countered
 cassowary
