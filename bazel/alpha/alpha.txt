@@ -6442,7 +6442,6 @@ antiaggressive
 auksinu
 abthain
 apods
-awk
 aidful
 aiding
 adenanthera
@@ -10653,6 +10652,7 @@ alighting
 amyotonia
 amiray
 asseveratory
+awk
 appendicious
 averting
 archivists
