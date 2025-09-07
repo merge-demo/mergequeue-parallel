@@ -1367,6 +1367,7 @@ barrowcoat
 botrylle
 backdrops
 borderlands
+bumbling
 beggarliness
 brayed
 butterbump
@@ -17189,7 +17190,6 @@ bumblers
 bumbles
 boohooed
 bootlaces
-bumbling
 brainwork
 blueball
 bumboat
