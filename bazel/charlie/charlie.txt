@@ -9090,7 +9090,6 @@ churchlier
 curagh
 capaciousness
 conversationize
-chartulae
 chartulary
 cartoned
 coalface
@@ -15175,6 +15174,7 @@ cezannesque
 claimants
 claimed
 congeals
+chartulae
 claimer
 cacothelin
 claimers
