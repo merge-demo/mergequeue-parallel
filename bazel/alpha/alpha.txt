@@ -6737,6 +6737,7 @@ airn
 anthropomorphical
 aloadae
 airplay
+aurums
 anacardiaceous
 airplaner
 airplanist
@@ -23643,7 +23644,6 @@ anchtherium
 aurulent
 anagrammatical
 anisuria
-aurums
 alopecurus
 autoregenerator
 adzes

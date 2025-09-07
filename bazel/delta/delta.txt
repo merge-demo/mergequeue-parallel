@@ -4047,6 +4047,7 @@ disfeature
 dominance
 delice
 dualistic
+digitigrade
 delicense
 desiccant
 deliciae
@@ -4607,7 +4608,6 @@ dustlike
 dolichocrany
 depths
 disusing
-digitigrade
 demiox
 disenthrall
 dejecting
