@@ -12994,6 +12994,7 @@ cyanopia
 cyanoplastid
 cyanoplatinite
 cyanose
+contraposit
 chemitype
 cyanosite
 cyanotic
@@ -23764,7 +23765,6 @@ contrapose
 contraposed
 clinospore
 chalcograph
-contraposit
 contrapositive
 contrapositives
 contrapposto
