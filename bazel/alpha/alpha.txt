@@ -57,6 +57,7 @@ abaddon
 abadejo
 abadengo
 ayont
+apophasis
 aerially
 aestive
 arcadian
@@ -23108,7 +23109,6 @@ autosuggestions
 apple
 adaptors
 attitudinise
-apophasis
 attitudinised
 anba
 acensuada
