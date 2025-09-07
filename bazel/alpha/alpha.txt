@@ -2939,6 +2939,7 @@ actinomeric
 aruncus
 amphinucleus
 anisated
+assibilated
 algin
 axseed
 actinometrical
@@ -7660,7 +7661,6 @@ alderwomen
 aldhafara
 amtrack
 aldide
-assibilated
 arcubalister
 aldime
 accepted

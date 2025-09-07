@@ -7727,6 +7727,7 @@ costean
 cerumniparous
 chemoautotrophy
 clorinator
+chordamesodermal
 conceived
 cerussite
 cervantic
@@ -11859,7 +11860,6 @@ cosharer
 cathedrated
 congenitalness
 chordamesoderm
-chordamesodermal
 chordamesodermic
 chordate
 chorded
