@@ -9774,7 +9774,6 @@ chemicoastrological
 chemicobiologic
 collocates
 chemicodynamic
-chemicoluminescent
 cyclostome
 chemicomineralogical
 chemicophysical
@@ -21567,6 +21566,7 @@ cosmogonies
 concurrencies
 cartilage
 concurrently
+chemicoluminescent
 cellarets
 concurrentness
 corsepresent
