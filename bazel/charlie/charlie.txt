@@ -143,6 +143,7 @@ casterless
 cables
 changeabout
 cabling
+corrigent
 cablish
 contentiousness
 campmaster
@@ -19762,7 +19763,6 @@ combinate
 combination
 coredeem
 combinational
-corrigent
 combinations
 combinative
 counterrotating
