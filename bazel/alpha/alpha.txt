@@ -5213,7 +5213,6 @@ afflated
 ataxia
 afflatus
 absent
-astrionics
 afflicting
 afflictingly
 arviculture
@@ -6000,6 +5999,7 @@ aglint
 arbitrated
 autocytolytic
 airlock
+astrionics
 aglipayano
 aglypha
 analogal
