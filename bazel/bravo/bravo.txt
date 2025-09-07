@@ -1463,7 +1463,6 @@ bundahish
 bugler
 bathtubful
 balinghasay
-bromeosin
 boneshave
 balister
 boycottism
@@ -8432,6 +8431,7 @@ brevicauda
 bilimbing
 bolted
 beaufin
+bromeosin
 bilin
 boddagh
 bylina
