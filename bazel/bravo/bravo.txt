@@ -1345,7 +1345,6 @@ bibliophilist
 benzaldiphenyl
 balatte
 bergfall
-bermudian
 bernoullian
 bingy
 burelage
@@ -9586,6 +9585,7 @@ bisymmetry
 bushily
 bandmasters
 bisymmetrical
+bermudian
 bigg
 bandwagons
 borate
