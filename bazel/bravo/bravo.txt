@@ -5165,7 +5165,6 @@ budgets
 beardfish
 befriender
 beaconage
-benignly
 balanoblennorrhea
 bounces
 beleaf
@@ -10154,6 +10153,7 @@ beclamored
 beachcombing
 boastings
 brachia
+benignly
 bieennia
 badawi
 boars
