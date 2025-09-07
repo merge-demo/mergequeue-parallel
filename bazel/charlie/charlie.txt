@@ -17875,7 +17875,6 @@ codheaded
 codiaceae
 chondrotome
 codical
-chlamys
 camas
 codicology
 calycule
@@ -22350,6 +22349,7 @@ congressionalist
 coffees
 congressionally
 corolla
+chlamys
 complementally
 cetomorphic
 congressionist
