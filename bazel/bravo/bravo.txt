@@ -6675,7 +6675,6 @@ bourgeoisify
 battens
 benedictive
 besra
-bigaroon
 bagaudae
 biked
 blurted
@@ -16117,6 +16116,7 @@ barmote
 bignesses
 blandish
 bokos
+bigaroon
 bryologies
 breadstuffs
 brouhaha
