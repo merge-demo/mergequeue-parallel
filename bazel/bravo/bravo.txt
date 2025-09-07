@@ -2207,7 +2207,6 @@ baggara
 barbary
 bioecology
 baculiferous
-blastier
 bast
 ballism
 bridgebote
@@ -13841,6 +13840,7 @@ bottomrying
 barleybird
 biduous
 bang
+blastier
 bdellometer
 bowheads
 beknighting
