@@ -2931,6 +2931,7 @@ cantharus
 clotter
 chank
 carabini
+clanging
 clearheadedly
 cleverest
 caustic
@@ -15321,7 +15322,6 @@ clanged
 crowdie
 critturs
 coexist
-clanging
 corticoefferent
 clangorous
 corridored
