@@ -10815,6 +10815,7 @@ balate
 brackened
 blethered
 bedevilled
+bewrite
 befurred
 bodysurf
 beamage
@@ -12606,7 +12607,6 @@ brios
 bonzer
 betattered
 betided
-bewrite
 beaklike
 bewrayed
 birdied
