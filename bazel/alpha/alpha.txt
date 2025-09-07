@@ -11235,7 +11235,6 @@ amphisporangiate
 abstersion
 amphistoma
 africans
-asyllabic
 apriori
 amphitene
 amphithalamus
@@ -22075,6 +22074,7 @@ anhydromyelia
 advised
 anthropophagism
 astogeny
+asyllabic
 aglutition
 arius
 allocrotonic
