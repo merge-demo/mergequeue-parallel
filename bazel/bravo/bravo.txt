@@ -6915,6 +6915,7 @@ bewildering
 bebrine
 beshrivel
 balolo
+balanid
 babblement
 beshroud
 bensil
@@ -12973,7 +12974,6 @@ brideless
 bloomers
 bombazine
 beliquored
-balanid
 boracite
 boracous
 borage
