@@ -2455,7 +2455,6 @@ antherid
 aconitia
 advocatess
 aisteoir
-aconitine
 abolitionism
 atypical
 argante
@@ -23706,6 +23705,7 @@ asks
 apposite
 astraeid
 austral
+aconitine
 auxetical
 acetabulous
 avianization
