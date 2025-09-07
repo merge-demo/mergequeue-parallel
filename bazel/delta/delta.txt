@@ -8651,7 +8651,6 @@ diametrically
 doublets
 diaschisis
 doctrinarian
-diffused
 dilative
 dato
 diaschisma
@@ -14353,6 +14352,7 @@ dominicker
 dytiscid
 dytiscus
 ditokous
+diffused
 dichrooscope
 digenetic
 draisene
