@@ -8076,6 +8076,7 @@ clericalism
 confrontal
 contumacity
 calchas
+cassoulet
 chainmaker
 chiropodist
 chainman
@@ -25277,7 +25278,6 @@ checkerboards
 cricking
 crosspieces
 chromoisomerism
-cassoulet
 cornbinks
 coidentity
 chaplainship
