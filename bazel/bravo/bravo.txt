@@ -8233,7 +8233,6 @@ birr
 blauwbok
 bigeminated
 benzanalgen
-bigeminy
 beachiest
 bigeminies
 bethanked
@@ -12496,6 +12495,7 @@ burtonize
 boniata
 bowlegged
 blissfulness
+bigeminy
 bloodshot
 balsamroot
 bourgeoning
