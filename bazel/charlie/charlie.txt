@@ -14765,7 +14765,6 @@ cityscapes
 cytisine
 chamkanni
 couriers
-calocarpum
 citizeness
 citizenish
 coneen
@@ -20846,6 +20845,7 @@ corbiestep
 cerealism
 capacitors
 conspissate
+calocarpum
 civvy
 contentedness
 compos
