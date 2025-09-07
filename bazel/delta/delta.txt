@@ -6300,6 +6300,7 @@ disgrade
 dephlegmatory
 dermenchysis
 delacrimation
+dimetry
 dermestid
 decoupage
 dextrogyration
@@ -9949,7 +9950,6 @@ ductilely
 dermatoptic
 drear
 direly
-dimetry
 densimetry
 downwardness
 dysthymia

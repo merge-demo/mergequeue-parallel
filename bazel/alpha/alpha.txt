@@ -11350,6 +11350,7 @@ amputating
 amputation
 aboding
 amputational
+anisotropous
 announcers
 amputations
 ammines
@@ -22690,7 +22691,6 @@ amylometer
 acetylize
 atmology
 atmologic
-anisotropous
 alterability
 arya
 allheal
