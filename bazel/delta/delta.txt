@@ -11228,6 +11228,7 @@ dayroom
 dissaves
 danceability
 dyslectic
+deactivations
 doeg
 dismask
 dogmatist
@@ -18644,7 +18645,6 @@ denarii
 dipaschal
 dorse
 deluded
-deactivations
 deodorizer
 disalignment
 decasyllable
