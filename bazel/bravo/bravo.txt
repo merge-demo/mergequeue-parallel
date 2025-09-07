@@ -4004,7 +4004,6 @@ boltheads
 boschveld
 beakiron
 brailing
-barms
 beaks
 bilophodont
 beala
@@ -13101,6 +13100,7 @@ belows
 bardlet
 borneol
 belong
+barms
 borneols
 belaced
 bovids
