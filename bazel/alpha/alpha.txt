@@ -13816,7 +13816,6 @@ advantaging
 airman
 antagony
 auscultator
-antiprestidigitation
 antiphysical
 anergic
 amzel
@@ -16660,6 +16659,7 @@ autotrophic
 averse
 agog
 anterointerior
+antiprestidigitation
 accur
 aristulate
 aphelian
