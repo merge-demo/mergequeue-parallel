@@ -6725,7 +6725,6 @@ chondroskeleton
 cubhood
 cerianthoid
 clearway
-celioparacentesis
 caribe
 chromatospheric
 cerinthian
@@ -10945,6 +10944,7 @@ catechumenal
 chirospasm
 circumumbilical
 chirotherian
+celioparacentesis
 chirotherium
 casern
 chastacosta

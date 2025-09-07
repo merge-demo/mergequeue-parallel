@@ -2059,6 +2059,7 @@ drapable
 dunlop
 dinornithid
 dauncy
+drug
 disencumbering
 decurvation
 dauphiness
@@ -14432,7 +14433,6 @@ dyer
 diurnal
 deuterogenic
 diurnally
-drug
 diurnule
 doctrix
 dephlegmedness
