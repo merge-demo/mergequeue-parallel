@@ -11848,6 +11848,7 @@ anaplasia
 antimitotic
 anaplasma
 anaplasmoses
+amplifiable
 acuminate
 anaplasty
 anosmia
@@ -20757,7 +20758,6 @@ arzan
 apportions
 amputator
 avenery
-amplifiable
 actium
 arzun
 antick
