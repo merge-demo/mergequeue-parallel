@@ -20637,6 +20637,7 @@ compilator
 compiled
 coswearer
 compilement
+cumara
 charge
 comping
 collectarium
@@ -30946,7 +30947,6 @@ craniostosis
 comprizes
 cheimatophobia
 cumar
-cumara
 cumarins
 cuvage
 collocal
