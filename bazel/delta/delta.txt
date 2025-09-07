@@ -731,7 +731,6 @@ dandydom
 dacryosolenitis
 dandie
 depeche
-deucalion
 dandier
 davits
 drybrained
@@ -15689,6 +15688,7 @@ disappointedly
 deflocculent
 donsky
 donum
+deucalion
 donzel
 discovering
 doubt
