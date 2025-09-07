@@ -7138,7 +7138,6 @@ besteads
 besteal
 bested
 bristles
-bromometrical
 berylliosis
 bearberry
 bestialised
@@ -15837,6 +15836,7 @@ bromizing
 behooped
 bearberries
 bromoauric
+bromometrical
 brazilianite
 bruising
 backpacking
