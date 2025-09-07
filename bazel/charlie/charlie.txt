@@ -2002,7 +2002,6 @@ collapsar
 coexists
 camoufleur
 chests
-cosherer
 camp
 campa
 campagi
@@ -16404,6 +16403,7 @@ coeffects
 clk
 conclaves
 clo
+cosherer
 cloaca
 cloacae
 cents
