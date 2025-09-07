@@ -7060,7 +7060,6 @@ dilucid
 dexterical
 dolts
 destigmatization
-destigmatizing
 destination
 depot
 dunelands
@@ -10369,6 +10368,7 @@ delf
 discounter
 deoxidized
 drillmasters
+destigmatizing
 denudation
 disfavoring
 debt
