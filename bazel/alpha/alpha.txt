@@ -12084,6 +12084,7 @@ amblyopsis
 angiometer
 altruism
 almach
+anticourt
 anchorite
 aguishness
 archinfamy
@@ -12232,7 +12233,6 @@ androcephalous
 androcephalum
 arteriostrepsis
 androclclinia
-anticourt
 agatine
 anisotropic
 anaesthetics
