@@ -4545,6 +4545,7 @@ dromicia
 demigriffin
 distraughted
 devocation
+digestment
 drabbled
 dogmatician
 delegacy
@@ -12403,7 +12404,6 @@ disensoul
 dragonne
 demonomancy
 disgustfulness
-digestment
 diswarren
 dealated
 daredeviltry
