@@ -13621,6 +13621,7 @@ dormantly
 daimioate
 dogmatisation
 dissensualize
+descants
 drowsihead
 dissentation
 dissented
@@ -16319,7 +16320,6 @@ determinedness
 depoliticizes
 dares
 derange
-descants
 defusing
 divinable
 description
