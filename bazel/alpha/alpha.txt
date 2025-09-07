@@ -679,7 +679,6 @@ astrier
 autonephrotoxin
 allayment
 autotoxaemia
-adespota
 abortional
 antiglobulin
 abortionists
@@ -11343,6 +11342,7 @@ ampullula
 amputate
 amputates
 alternatively
+adespota
 amputating
 amputation
 aboding
