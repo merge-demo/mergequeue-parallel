@@ -2304,7 +2304,6 @@ canals
 cylindrocellular
 cumin
 calinda
-canezou
 convertors
 ccw
 canamo
@@ -6918,6 +6917,7 @@ caseworkers
 circumaction
 cenobitically
 cenobitism
+canezou
 counteropponent
 countercultures
 cenogamy
