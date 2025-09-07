@@ -3595,7 +3595,6 @@ crateful
 crenellated
 caraibe
 caraipa
-chronometrical
 commercializing
 caraipi
 carlish
@@ -7273,6 +7272,7 @@ corslets
 cephalobranchiata
 chelicera
 capitolian
+chronometrical
 cerusites
 carks
 comnenian
