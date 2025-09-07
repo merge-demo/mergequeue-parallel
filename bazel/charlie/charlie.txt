@@ -2048,7 +2048,6 @@ campanological
 conjunctly
 campanologically
 coniology
-cinenchyma
 campanologist
 capillaceous
 campanologists
@@ -18522,6 +18521,7 @@ curr
 coherence
 containment
 cataractal
+cinenchyma
 coherent
 coggie
 coherer
