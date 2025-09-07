@@ -9572,7 +9572,6 @@ disinfestation
 digitising
 dosing
 desulphurise
-digitizes
 digitizing
 desorbed
 dictionaries
@@ -10124,6 +10123,7 @@ disseverance
 dynamometrical
 dirls
 dogfight
+digitizes
 dilatable
 dynamomorphic
 dynamophone
