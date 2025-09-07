@@ -1522,6 +1522,7 @@ abidden
 autacoids
 accomplisht
 accordancy
+affirmly
 accordatura
 agglutinoid
 aponeurosis
@@ -22711,7 +22712,6 @@ admitter
 atmosteal
 antependiums
 assessorship
-affirmly
 acephaline
 archaicness
 aperiodic
