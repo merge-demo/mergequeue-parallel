@@ -1804,7 +1804,6 @@ debeige
 douzepers
 declinograph
 departement
-debellator
 dorsalgia
 darapti
 drugmaker
@@ -7791,6 +7790,7 @@ devoirs
 dush
 dholes
 digits
+debellator
 detachability
 devolatilised
 decoyed
