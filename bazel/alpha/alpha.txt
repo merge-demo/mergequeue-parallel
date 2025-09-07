@@ -1214,6 +1214,7 @@ acanthopodous
 aqueously
 acanthopomatous
 acanthopterygian
+apterium
 attached
 acanthopterygii
 acanthoses
@@ -19518,7 +19519,6 @@ aricin
 archichlamydeous
 arided
 astringing
-apterium
 apparail
 aridest
 affluency

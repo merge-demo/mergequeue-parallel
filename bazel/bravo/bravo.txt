@@ -2145,7 +2145,6 @@ bonehead
 bricksetter
 barreled
 berseems
-bathybius
 burnishes
 bediapered
 botherment
@@ -17581,6 +17580,7 @@ bellyer
 burghers
 burgraves
 biscuitlike
+bathybius
 bureaucratized
 burghmaster
 bowdlerized
