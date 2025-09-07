@@ -15018,6 +15018,7 @@ dodecahedral
 doctorate
 dieselization
 dodecahydrate
+delomorphous
 dishonesties
 duodenojejunostomy
 divata
@@ -16640,7 +16641,6 @@ diacritics
 dispersibility
 disbanding
 destinies
-delomorphous
 dodecarchy
 dishallow
 doctorly
