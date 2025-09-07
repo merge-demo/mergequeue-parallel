@@ -1482,7 +1482,6 @@ callipering
 callipers
 copopoda
 cocanucos
-chugged
 crystal
 celosia
 calcrete
@@ -8321,6 +8320,7 @@ chrysolophus
 candiot
 cringed
 centroid
+chugged
 chamberleted
 ceratorhine
 camanchaca
