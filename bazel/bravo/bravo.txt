@@ -680,7 +680,6 @@ bronchiolitis
 bathyesthesia
 baculine
 boiseries
-baculoid
 baculus
 badaga
 borsches
@@ -5212,6 +5211,7 @@ boarcite
 basification
 blotless
 breadboards
+baculoid
 barkeeps
 bandos
 basaltic
