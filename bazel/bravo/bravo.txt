@@ -2952,7 +2952,6 @@ boobishness
 blobby
 barricaded
 bookable
-barricaders
 barricadoes
 boyism
 boondoggled
@@ -9357,6 +9356,7 @@ braider
 bestatued
 biophotometer
 bouncily
+barricaders
 bullyhuff
 brattach
 betterments
