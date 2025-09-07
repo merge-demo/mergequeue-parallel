@@ -16558,7 +16558,6 @@ chancering
 cloisonn
 cloisonne
 convival
-carrigeen
 cloisonnism
 cloistered
 cloisterer
@@ -31002,6 +31001,7 @@ capitalize
 cyclostomata
 cuminol
 classes
+carrigeen
 cuminseed
 cryoplankton
 chry
