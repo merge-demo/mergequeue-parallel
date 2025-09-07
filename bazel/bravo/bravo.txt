@@ -6500,7 +6500,6 @@ bavarois
 beaming
 backplanes
 bagel
-breezy
 bookkeeping
 banisters
 birdshot
@@ -18215,6 +18214,7 @@ benzazide
 botching
 blubberingly
 butterfishes
+breezy
 butterflied
 bounteously
 bienniums
