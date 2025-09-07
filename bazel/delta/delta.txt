@@ -14655,7 +14655,6 @@ diesinking
 divisural
 divorcee
 discrimination
-disembower
 dihedrals
 disoxygenate
 disseverment
@@ -17591,6 +17590,7 @@ drumliest
 drumline
 drumlinoid
 decelerated
+disembower
 dactylate
 diatomous
 drumlins
