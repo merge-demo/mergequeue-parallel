@@ -4996,6 +4996,7 @@ dacoited
 demultiplexers
 directional
 desexing
+deferable
 deposed
 dinamode
 delustered
@@ -6174,7 +6175,6 @@ did
 dimerizes
 derisively
 derisiveness
-deferable
 derival
 dendrogaea
 dillier
