@@ -1597,7 +1597,6 @@ brummagem
 bracelets
 ballyhoo
 brads
-ballyrags
 belat
 biradial
 britches
@@ -7095,6 +7094,7 @@ besprinkles
 bachelorism
 bloodied
 barefoot
+ballyrags
 bogglingly
 boxiana
 berhymes
