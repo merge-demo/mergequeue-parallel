@@ -1127,6 +1127,7 @@ barless
 boon
 baseless
 bloodnoun
+biophor
 buxine
 booklore
 bladish
@@ -12269,7 +12270,6 @@ bombast
 buglers
 bandurrias
 bezzi
-biophor
 boterol
 behoovefully
 bombasticness
