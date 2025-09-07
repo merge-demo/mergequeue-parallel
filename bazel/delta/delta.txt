@@ -16714,6 +16714,7 @@ dexterousness
 deathbeds
 drone
 designation
+defrays
 dragsters
 demisovereign
 doctoress
@@ -17869,7 +17870,6 @@ dictyosome
 doorknobs
 decurve
 duddery
-defrays
 definable
 dictatorship
 dunkirk
