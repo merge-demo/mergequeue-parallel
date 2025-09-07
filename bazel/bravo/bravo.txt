@@ -1117,7 +1117,6 @@ bundts
 bouteria
 bayonets
 batteuse
-benefactors
 backword
 blepharelcosis
 bayong
@@ -13095,6 +13094,7 @@ billholder
 basophil
 bleedings
 bornane
+benefactors
 bornean
 bunsen
 belows
