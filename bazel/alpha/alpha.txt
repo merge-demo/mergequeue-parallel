@@ -9041,6 +9041,7 @@ astromantic
 aikido
 almandine
 aeginetic
+astrophysical
 almandines
 alme
 ardhamagadhi
@@ -24241,7 +24242,6 @@ autonomist
 asphaltlike
 amphotericin
 autopepsia
-astrophysical
 autophyte
 autophytic
 albespyne
