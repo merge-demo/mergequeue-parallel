@@ -209,7 +209,6 @@ bandido
 bitt
 bouillone
 bacchanalian
-buddleman
 bacchanals
 blennymenitis
 beemaster
@@ -16747,6 +16746,7 @@ bicolligate
 buffable
 buffalo
 borrichia
+buddleman
 breezeless
 buras
 biflagellate

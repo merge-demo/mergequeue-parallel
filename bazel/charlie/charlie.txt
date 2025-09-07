@@ -8305,7 +8305,6 @@ chalumeaux
 chalutzim
 chama
 chondroplastic
-chamacea
 coenoblast
 cadency
 chamacoco
@@ -14372,6 +14371,7 @@ circumvallate
 countercriticism
 circumvallated
 circumvallating
+chamacea
 crepitant
 circumvallation
 circumvented
