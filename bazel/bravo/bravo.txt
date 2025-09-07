@@ -6541,7 +6541,6 @@ broquineer
 betons
 bannerer
 butterbox
-brotula
 beetlers
 bacharach
 bukh
@@ -14695,6 +14694,7 @@ blackmailing
 brazened
 braveness
 balaclava
+brotula
 biscotin
 bahamas
 bravers
