@@ -25231,7 +25231,6 @@ carcasing
 cytomitome
 coryza
 canoodler
-cointension
 corkages
 corkboard
 conventionalized
@@ -27577,6 +27576,7 @@ cymatium
 coving
 cetin
 carapus
+cointension
 covinous
 covisit
 charioteership
