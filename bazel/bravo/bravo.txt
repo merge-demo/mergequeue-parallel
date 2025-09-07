@@ -6850,6 +6850,7 @@ bousoukis
 barchan
 bitumed
 besetment
+bund
 bozo
 besetters
 bricklayer
@@ -17272,7 +17273,6 @@ berthing
 bicellular
 brucellas
 basilosaurus
-bund
 ballam
 belamy
 boxier
