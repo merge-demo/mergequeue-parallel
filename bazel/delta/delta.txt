@@ -8007,7 +8007,6 @@ dimensive
 dookit
 dolichofacial
 daemonic
-dimethyltryptamine
 delicatessens
 donkeyback
 dionaea
@@ -8304,6 +8303,7 @@ doombook
 diagrams
 db
 dispossess
+dimethyltryptamine
 dissimile
 defocus
 deprive
