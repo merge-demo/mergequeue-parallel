@@ -12084,6 +12084,7 @@ borborygm
 burbler
 boldly
 blackmail
+brachycephalization
 bandalore
 brahminic
 baedekers
@@ -14030,7 +14031,6 @@ brachycephali
 brachycephalism
 bragging
 berust
-brachycephalization
 browallia
 brigandism
 bestudded
