@@ -20176,7 +20176,6 @@ callicebus
 commissary
 commissars
 coccidiomorpha
-commission
 commissional
 cherubical
 commissioned
@@ -24964,6 +24963,7 @@ casually
 cordaitaceous
 casamarca
 cordaites
+commission
 cowperitis
 circumpolar
 cordal
