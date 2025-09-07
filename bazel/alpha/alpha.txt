@@ -4705,7 +4705,6 @@ analyse
 autocross
 arboreal
 aperture
-amidase
 aequoreal
 abounding
 actinolitic
@@ -10647,6 +10646,7 @@ applicants
 araru
 amins
 analogic
+amidase
 aminta
 amyosthenic
 alighting
