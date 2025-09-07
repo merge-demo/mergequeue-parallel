@@ -10141,6 +10141,7 @@ ame
 appendalgia
 amebean
 amebian
+avine
 architecure
 antonomasy
 admortization
@@ -17674,7 +17675,6 @@ annexed
 applicative
 applicatively
 applicatory
-avine
 applicators
 appliedly
 akim
