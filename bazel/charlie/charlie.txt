@@ -4732,7 +4732,6 @@ carpsucker
 cavalierish
 concaving
 connotive
-chem
 crosspost
 cressida
 cultigen
@@ -5131,6 +5130,7 @@ castings
 casparian
 chroniclers
 caspian
+chem
 casque
 casqued
 cushat
