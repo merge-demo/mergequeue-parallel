@@ -12466,7 +12466,6 @@ colonists
 creakiest
 cattycorner
 chromoplast
-congelation
 countergauger
 charmer
 coachmaking
@@ -25686,6 +25685,7 @@ correspond
 correspondence
 correspondences
 correspondency
+congelation
 correspondent
 composedness
 correspondential
