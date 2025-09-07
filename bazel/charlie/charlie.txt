@@ -12944,6 +12944,7 @@ cyanmethemoglobin
 calenturish
 cyano
 cobenignity
+coerces
 cyanoacetic
 currencies
 cyanoacrylate
@@ -21514,7 +21515,6 @@ concrescence
 cephalohumeral
 concrescive
 colocentesis
-coerces
 curtseying
 concretely
 concreter
