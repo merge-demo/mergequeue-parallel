@@ -10476,6 +10476,7 @@ dotty
 ditcher
 dug
 dogmatic
+decomposable
 diodon
 delace
 disglorify
@@ -12703,7 +12704,6 @@ deaned
 dibble
 decompound
 disembodying
-decomposable
 diskelion
 discrepancries
 downwarp
