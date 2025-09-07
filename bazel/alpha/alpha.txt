@@ -5359,7 +5359,6 @@ anele
 afterburning
 auripigment
 abigail
-aftercareer
 aftercast
 aftercataract
 aloe
@@ -15598,6 +15597,7 @@ assalto
 antirun
 aurothiosulphate
 antiparallel
+aftercareer
 androidal
 antiparallelogram
 ailuridae
