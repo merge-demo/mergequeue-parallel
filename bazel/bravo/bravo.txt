@@ -2685,7 +2685,6 @@ bougies
 blacklister
 barmcloth
 brither
-becoward
 bascules
 bebeerine
 balmlike
@@ -3909,6 +3908,7 @@ banksia
 biassedly
 bch
 borsholder
+becoward
 bchs
 ballotage
 bd
