@@ -2787,7 +2787,6 @@ dasyus
 decrowning
 detenus
 dustier
-decubital
 dormin
 dezincked
 daur
@@ -4206,6 +4205,7 @@ dasyurus
 dis
 doeskin
 drabbish
+decubital
 delphine
 despiritualization
 delphinia
