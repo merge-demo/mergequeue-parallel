@@ -6817,7 +6817,6 @@ aiseweed
 antipneumococcic
 antiatheism
 anatomopathologic
-alogism
 anticyclone
 acetaldehydrase
 archegoniophore
@@ -25080,6 +25079,7 @@ anatiferous
 alfreda
 axiferous
 antimonarchists
+alogism
 argumentation
 amyelonic
 apothegms
