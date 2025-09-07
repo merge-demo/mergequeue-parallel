@@ -9496,6 +9496,7 @@ checkrope
 cumulant
 conoy
 checkrowed
+chartology
 checkrower
 collyrium
 checkrowing
@@ -14128,7 +14129,6 @@ caulerpa
 colanders
 cotyliform
 circularization
-chartology
 conversably
 clucked
 circularizes
