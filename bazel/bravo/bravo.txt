@@ -2845,7 +2845,6 @@ bioscopies
 bitterbump
 barbery
 barracan
-barrack
 borh
 ballers
 birders
@@ -4508,6 +4507,7 @@ bedaggle
 berrybush
 beguard
 beday
+barrack
 babul
 biddable
 bedamned
