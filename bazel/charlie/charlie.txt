@@ -1459,6 +1459,7 @@ calligrapha
 conjuration
 chemurgy
 calligraphers
+caracoling
 calligraphy
 chiba
 cooeying
@@ -3575,7 +3576,6 @@ cumanagoto
 curtaxe
 caracol
 coauthoring
-caracoling
 curliest
 crustate
 caracolite
