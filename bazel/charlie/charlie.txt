@@ -4510,7 +4510,6 @@ carnivorousness
 cavalcading
 cyanea
 chutnee
-colorationally
 carnosine
 carnous
 carns
@@ -13458,6 +13457,7 @@ caseating
 ciliella
 cressed
 cistern
+colorationally
 ciliiform
 cylinder
 cylinders
