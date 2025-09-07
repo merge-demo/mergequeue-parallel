@@ -7494,6 +7494,7 @@ blowpit
 bewailing
 bandolier
 beloam
+burnut
 befringes
 begirding
 beweary
@@ -14941,7 +14942,6 @@ bungholes
 billitonite
 bunchberries
 bennettites
-burnut
 bandicoots
 bredbergite
 baumhauerite
