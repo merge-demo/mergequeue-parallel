@@ -4640,7 +4640,6 @@ allogamy
 aequor
 altitudes
 ascanius
-aequorins
 aerate
 astrophotographer
 aerating
@@ -9705,6 +9704,7 @@ anopsias
 aloeswood
 amande
 amandine
+aequorins
 amanist
 airwaybill
 amanitine
