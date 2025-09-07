@@ -15303,6 +15303,7 @@ clamworms
 corrector
 crissa
 catalyzes
+colonisable
 clancularly
 clandestine
 clandestinely
@@ -19348,7 +19349,6 @@ colonies
 choleic
 colonisability
 cloture
-colonisable
 clinid
 consumingness
 colonisationist

@@ -3004,6 +3004,7 @@ benzene
 bartending
 bumaloe
 bartends
+butterflyer
 blechnoid
 brujo
 blood
@@ -7595,7 +7596,6 @@ becloaking
 befooled
 brahmany
 boe
-butterflyer
 blackflies
 biocenotic
 bescribbled
