@@ -15722,6 +15722,7 @@ clawk
 colobium
 clinks
 cashmerette
+couldest
 clunch
 clawker
 clawless
@@ -26525,7 +26526,6 @@ coul
 candleberry
 conterminal
 coulage
-couldest
 couldn
 couldst
 coulee
