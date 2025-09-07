@@ -17501,7 +17501,6 @@ cobleman
 cuttings
 campanist
 chapping
-coblentzian
 cobles
 cobleskill
 cobloaf
@@ -23515,6 +23514,7 @@ conterraneous
 cliquey
 cichoraceous
 contesseration
+coblentzian
 concisely
 cacocnemia
 clethraceae
