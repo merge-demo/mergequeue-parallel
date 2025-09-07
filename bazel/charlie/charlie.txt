@@ -4913,7 +4913,6 @@ czarowitz
 counterprove
 carucarius
 clipsheets
-coachwork
 correlational
 coloristic
 caruncles
@@ -16291,6 +16290,7 @@ clip
 canterer
 chanty
 clipboard
+coachwork
 clipboards
 clypeal
 clypeastridea
