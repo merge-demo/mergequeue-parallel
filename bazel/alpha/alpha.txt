@@ -18862,7 +18862,6 @@ androginous
 archipin
 aguada
 archiplasm
-absorber
 anisamide
 alhacena
 abature
@@ -20463,6 +20462,7 @@ acousmata
 arthredema
 actinosome
 arrased
+absorber
 afterswarm
 arthritically
 alphabetising
