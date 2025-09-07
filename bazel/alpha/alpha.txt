@@ -14557,7 +14557,6 @@ accordantly
 anthryl
 alternative
 arabized
-acquiesces
 apostrophe
 aortographies
 adelges
@@ -16300,6 +16299,7 @@ antiworld
 alyssums
 autocrats
 anguidae
+acquiesces
 adamancy
 antizealot
 antizoea
