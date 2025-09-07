@@ -2235,6 +2235,7 @@ bassoons
 betrayers
 barbarise
 barbarised
+barytone
 benzazimide
 barbarising
 bronstrops
@@ -2599,7 +2600,6 @@ bucerotinae
 bulletined
 bedevils
 barytocelestite
-barytone
 busing
 bergere
 bears
