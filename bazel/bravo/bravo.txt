@@ -12139,7 +12139,6 @@ becrawling
 bolivians
 bolk
 bolly
-bediademed
 bulrushlike
 beretta
 bargir
@@ -17248,6 +17247,7 @@ blazons
 bumpkin
 bumpkins
 bumptious
+bediademed
 blanketweed
 bolstering
 biddableness
