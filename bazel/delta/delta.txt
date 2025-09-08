@@ -2002,7 +2002,6 @@ dorsiflex
 decaedron
 decaffeinate
 depicted
-disformity
 decaffeinize
 decury
 dechristianization
@@ -6161,6 +6160,7 @@ dolours
 derelinquish
 decrepitness
 dismasting
+disformity
 desperation
 derencephalus
 doubtless

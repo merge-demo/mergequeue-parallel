@@ -6442,7 +6442,6 @@ bagge
 barangay
 bombyx
 begrudgingly
-bepretty
 brast
 bedirt
 bejabbers
@@ -7051,6 +7050,7 @@ breadthwise
 berger
 bespill
 bathygraphic
+bepretty
 bastardies
 blurters
 bicarbs
