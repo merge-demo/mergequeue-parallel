@@ -4485,7 +4485,6 @@ clapperdudgeon
 carnied
 carniferrin
 colorcast
-coulter
 carnifex
 carnifexes
 chromogram
@@ -17995,6 +17994,7 @@ coelenteric
 copyman
 coelestial
 coelestine
+coulter
 chewie
 coelho
 coeliac
