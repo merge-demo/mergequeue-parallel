@@ -4175,7 +4175,6 @@ bulbonuclear
 blackwasher
 beaumont
 beausire
-baryte
 beauteous
 beauti
 bootie
@@ -18005,6 +18004,7 @@ basifying
 bottler
 busthead
 barberries
+baryte
 broadcaster
 beforehand
 bifistular
