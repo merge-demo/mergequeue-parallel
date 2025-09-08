@@ -799,6 +799,7 @@ dermititis
 deckhead
 daneweed
 detections
+dipodomyinae
 dangerously
 deduced
 dangerousness
@@ -12153,7 +12154,6 @@ diagnoseable
 drusedom
 diplospondylism
 disentwining
-dipodomyinae
 dividableness
 dysepulotical
 disequalizer
