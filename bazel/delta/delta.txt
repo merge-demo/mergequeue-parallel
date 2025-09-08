@@ -8694,7 +8694,6 @@ diglossia
 disgustedness
 dryads
 dialectology
-diazepam
 diastasimetry
 devilfishes
 deraigned
@@ -12271,6 +12270,7 @@ dozenth
 divineress
 dioptric
 discoursiveness
+diazepam
 deliquesce
 demonized
 dwarfish
