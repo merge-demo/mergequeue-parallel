@@ -2008,7 +2008,6 @@ brachydiagonal
 bronchocele
 bunchier
 bhagavata
-bandcutter
 bovista
 bilgiest
 banishing
@@ -2899,6 +2898,7 @@ bebuttoned
 beglew
 beartongue
 bindwith
+bandcutter
 blennometritis
 bonair
 bankweed
