@@ -1279,7 +1279,6 @@ costliest
 caliburno
 colossuses
 crawfished
-calycanthin
 crescenting
 causalgia
 cantador
@@ -16056,6 +16055,7 @@ cryopathy
 cliches
 click
 clicked
+calycanthin
 clicker
 comprehensiveness
 clabbery
