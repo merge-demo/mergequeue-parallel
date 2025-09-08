@@ -4794,7 +4794,6 @@ begowned
 bewrapped
 beekite
 barbette
-bedur
 brimmingly
 baston
 beaded
@@ -12955,6 +12954,7 @@ balanid
 boracite
 boracous
 borage
+bedur
 bruchidae
 bueno
 barbecued
