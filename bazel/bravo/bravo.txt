@@ -6193,6 +6193,7 @@ bennies
 benomyl
 backspread
 benefact
+bacillophobia
 beggared
 barbigerous
 bravadoed
@@ -8689,7 +8690,6 @@ bekissing
 basoche
 brewer
 bindweed
-bacillophobia
 bynedestin
 bassirilievi
 backrests
