@@ -3267,6 +3267,7 @@ depurge
 debbies
 diastem
 desisted
+digs
 destiny
 domesticable
 dynamometry
@@ -6957,7 +6958,6 @@ didest
 deaeration
 despiteful
 dipteryx
-digs
 dinoflagellate
 docility
 drags

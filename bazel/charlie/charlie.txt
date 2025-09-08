@@ -28316,7 +28316,6 @@ clanned
 crawberry
 crawdad
 corroborator
-crawdads
 collector
 crawfishing
 corviform
@@ -30724,6 +30723,7 @@ cuisse
 canonical
 composing
 cuitlateco
+crawdads
 correctional
 chloroauric
 creoleize
