@@ -11907,7 +11907,6 @@ backtracker
 broncobusters
 bandagers
 bookbind
-birmingham
 brothelry
 bogymen
 brokes
@@ -14365,6 +14364,7 @@ brainpans
 bisley
 biochemic
 blighting
+birmingham
 behoving
 barnstorm
 belieffulness
