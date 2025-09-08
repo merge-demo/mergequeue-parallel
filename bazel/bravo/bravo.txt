@@ -675,7 +675,6 @@ begall
 bronchiolitis
 bathyesthesia
 baculine
-boiseries
 baculoid
 baculus
 badaga
@@ -1146,6 +1145,7 @@ branky
 barkstone
 betrayals
 bedimmed
+boiseries
 boatload
 bracteolate
 bloodybones
