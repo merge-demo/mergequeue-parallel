@@ -5796,7 +5796,6 @@ cackling
 cannibalic
 catha
 capillatus
-cathay
 cathayan
 cathar
 cribbage
@@ -14450,6 +14449,7 @@ commation
 cirrostomi
 cochylis
 cirrostrative
+cathay
 citharoedus
 charnel
 cuttanee
