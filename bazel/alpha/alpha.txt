@@ -5287,6 +5287,7 @@ afore
 aforehand
 aforementioned
 arachnomorphae
+alleluiatic
 anemoclastic
 ampelideous
 allochiral
@@ -8605,7 +8606,6 @@ alleluiah
 apivorous
 amnesiacs
 alleluias
-alleluiatic
 arcubos
 allemand
 allene

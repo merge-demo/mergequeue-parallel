@@ -13383,7 +13383,6 @@ courageously
 ciderish
 ciderkin
 crozzle
-condemnation
 chlorinates
 centrales
 counterturn
@@ -18110,6 +18109,7 @@ coannexing
 coenocentrum
 coenocytic
 carson
+condemnation
 coenodioecism
 coenoecic
 coefficacy
