@@ -2958,7 +2958,6 @@ boltsmith
 bicentral
 blunderingly
 basiation
-basil
 bolthole
 blackboy
 barophobia
@@ -3863,6 +3862,7 @@ basifacial
 bawneen
 burao
 bawra
+basil
 bawsint
 brontogram
 blamelessness
