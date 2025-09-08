@@ -6878,7 +6878,6 @@ bewildering
 bebrine
 beshrivel
 balolo
-babblement
 bensil
 bigmitt
 bagpipers
@@ -10968,6 +10967,7 @@ babysit
 besmoking
 beanlike
 beweeping
+babblement
 brache
 belemnoidea
 backstairs
