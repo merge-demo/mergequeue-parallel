@@ -12955,7 +12955,6 @@ disnaturalization
 dibromoacetaldehyde
 deviator
 dermaptera
-disnatured
 disnew
 drachmae
 distruster
@@ -17618,6 +17617,7 @@ disconsonancy
 doctrinarily
 drumwood
 drunkards
+disnatured
 desuperheater
 decandria
 dogbite
