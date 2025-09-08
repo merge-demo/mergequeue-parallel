@@ -11351,7 +11351,6 @@ communional
 cunili
 chlorophyllin
 counselful
-chlorophyllite
 chlorophyllous
 cyanopathy
 compulsive
@@ -25848,6 +25847,7 @@ chalets
 contralti
 climax
 cauterise
+chlorophyllite
 communing
 cuneoscaphoid
 correction
