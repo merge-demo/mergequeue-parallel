@@ -3021,7 +3021,6 @@ cantwise
 canula
 canulae
 canulas
-chthonophagy
 canulates
 comatic
 canun
@@ -7670,6 +7669,7 @@ certified
 certifier
 chicaners
 certifiers
+chthonophagy
 cystein
 coelialgia
 certifies
