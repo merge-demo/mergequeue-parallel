@@ -3207,7 +3207,6 @@ defiber
 destructed
 dystomous
 deionized
-doublethought
 dominie
 departs
 defibrillated
@@ -17771,6 +17770,7 @@ dubitate
 dubitatingly
 duboisin
 duboisine
+doublethought
 duc
 deflective
 drownings
