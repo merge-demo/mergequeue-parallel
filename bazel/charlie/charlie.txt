@@ -10312,7 +10312,6 @@ chickories
 chickpea
 conspirator
 chickpeas
-cerer
 chapatti
 consultory
 critchfield
@@ -26586,6 +26585,7 @@ counselable
 coronobasilar
 champagned
 counselee
+cerer
 counseling
 counsellable
 counsellor
