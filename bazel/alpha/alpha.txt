@@ -22508,6 +22508,7 @@ allow
 albicores
 abraham
 atheizer
+anallantoic
 audiencier
 athel
 atheling
@@ -22823,7 +22824,6 @@ alkylol
 atrichic
 ashrama
 archpriesthood
-anallantoic
 amerinds
 amassments
 atriopore
