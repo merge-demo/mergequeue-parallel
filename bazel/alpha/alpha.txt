@@ -2532,7 +2532,6 @@ actutate
 acrite
 arriswise
 acquiesce
-addiction
 acquiesced
 accrued
 acanthopterous
@@ -16943,6 +16942,7 @@ apnoea
 abominating
 adiaphoretic
 ayahausca
+addiction
 apoatropine
 apobiotic
 apoblast
