@@ -3672,7 +3672,6 @@ appealingness
 appaume
 adiaphoron
 apples
-anisopterous
 adiated
 anaboly
 adiathermancy
@@ -10794,6 +10793,7 @@ ammono
 ammonobasic
 antirevolutionaries
 ammonoidea
+anisopterous
 anteriorness
 angiohypotonia
 ayield
