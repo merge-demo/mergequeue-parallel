@@ -8132,6 +8132,7 @@ bunkload
 bewaring
 biflex
 benchfellow
+bistort
 beshiver
 bached
 bifocal
@@ -12707,7 +12708,6 @@ begut
 bepreach
 burhmoot
 burnishment
-bistort
 becloaked
 bioelectric
 beshine
