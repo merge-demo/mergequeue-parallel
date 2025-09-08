@@ -13147,7 +13147,6 @@ clearskins
 cichlid
 cichlidae
 colocynthin
-cichorium
 cicisbeism
 cicisbeo
 cycl
@@ -30494,6 +30493,7 @@ chayotes
 cubical
 catskinner
 catonic
+cichorium
 cubicities
 cofferfish
 cubicula
