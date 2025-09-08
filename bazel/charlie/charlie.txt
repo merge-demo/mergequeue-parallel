@@ -5258,7 +5258,6 @@ casteless
 chifforobes
 chimerical
 citator
-castellany
 censures
 crizzling
 castellanies
@@ -9031,6 +9030,7 @@ cabala
 charoses
 charoseth
 caconychia
+castellany
 coimplicant
 charpai
 capacitates
