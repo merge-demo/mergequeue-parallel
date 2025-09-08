@@ -3451,6 +3451,7 @@ deformability
 droughermen
 disknow
 delvers
+dolichocephalism
 deformable
 darkey
 deformation
@@ -12133,7 +12134,6 @@ drepanaspis
 disentomb
 disentombment
 didact
-dolichocephalism
 disclaimers
 designlessly
 defecator
