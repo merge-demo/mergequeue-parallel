@@ -9631,7 +9631,6 @@ ambulant
 actinical
 alwite
 ama
-antioptimist
 apocalypticism
 apterygotous
 arcked
@@ -15886,6 +15885,7 @@ antiquation
 angelfish
 autoloading
 antirabies
+antioptimist
 aponeurositis
 anisomelia
 antirachitically

@@ -6286,6 +6286,7 @@ deliriant
 deemer
 drossy
 downweighted
+detune
 dendrolatry
 dislaurel
 dingledangle
@@ -7488,7 +7489,6 @@ detrusion
 duvetyns
 dripstone
 deposal
-detune
 destructionism
 detuning
 diastrophic
