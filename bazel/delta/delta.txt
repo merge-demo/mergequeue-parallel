@@ -1097,7 +1097,6 @@ demotist
 drillers
 douce
 defaisance
-dentalium
 darwinists
 decolorize
 declamations
@@ -11825,6 +11824,7 @@ discrepancies
 decanormal
 deterger
 determinating
+dentalium
 discrepantly
 diamagnetometer
 daribah
