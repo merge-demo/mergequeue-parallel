@@ -6860,6 +6860,7 @@ ayurveda
 aiwan
 annamitic
 adobo
+althorn
 aywhere
 aizoon
 atrioventricular
@@ -9454,7 +9455,6 @@ apholates
 ablution
 asterikos
 anargyroi
-althorn
 alticamelus
 altify
 aprosopous
