@@ -6917,7 +6917,6 @@ deoxidise
 despatching
 despecialization
 disembarrassed
-dispute
 dropper
 domineer
 despecialize
@@ -12391,6 +12390,7 @@ dionaeaceae
 deboites
 decametre
 disemployed
+dispute
 dinos
 disensoul
 dragonne

@@ -22788,7 +22788,6 @@ capsizes
 conscriptional
 clambering
 conscriptions
-characterological
 cismarine
 consecrate
 consecrater
@@ -30097,6 +30096,7 @@ coccinella
 chalah
 commissionated
 confections
+characterological
 confidences
 cannstatt
 cannibalization
