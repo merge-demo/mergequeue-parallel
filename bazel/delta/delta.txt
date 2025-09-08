@@ -11627,7 +11627,6 @@ disinheritance
 derivers
 discompliance
 dowry
-discomposed
 determa
 derided
 dormitory
@@ -17329,6 +17328,7 @@ discrepant
 didactic
 dehydrates
 discountenancing
+discomposed
 donnee
 droit
 drokpa
