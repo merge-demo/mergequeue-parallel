@@ -5637,6 +5637,7 @@ catchwork
 cabasset
 catclaw
 cate
+coronets
 catechesis
 catechetic
 congenator
@@ -10449,7 +10450,6 @@ contacting
 childliest
 conceptualizing
 childlike
-coronets
 childness
 childre
 comicality
