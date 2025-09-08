@@ -19317,6 +19317,7 @@ cetaceum
 chuchona
 colon
 colonaded
+cecidomyiidous
 colonate
 colonelcies
 colonels
@@ -31622,7 +31623,6 @@ curvilinead
 carpingly
 curvimeter
 curviness
-cecidomyiidous
 curviserial
 curvital
 curvities
