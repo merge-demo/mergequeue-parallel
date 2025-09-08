@@ -4582,7 +4582,6 @@ ballistically
 bedews
 benedicks
 brunhild
-breakfastless
 beltmaking
 briquetted
 bedfellows
@@ -10834,6 +10833,7 @@ basis
 blenders
 blattiform
 budgeters
+breakfastless
 blin
 burnup
 beadledom
