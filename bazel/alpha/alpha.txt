@@ -3822,7 +3822,6 @@ adjurer
 adjures
 aspersorium
 autotyphization
-arabine
 agnes
 ayah
 adjust
@@ -23705,6 +23704,7 @@ asks
 apposite
 astraeid
 austral
+arabine
 auxetical
 acetabulous
 avianization
