@@ -11744,6 +11744,7 @@ benefactrixes
 boccie
 backstring
 baron
+bawdstrot
 bluefish
 bocconia
 byrl
@@ -16968,7 +16969,6 @@ bechuana
 bayman
 bungalow
 butanolid
-bawdstrot
 braces
 bulimus
 baler
