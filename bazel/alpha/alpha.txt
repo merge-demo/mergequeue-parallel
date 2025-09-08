@@ -3757,7 +3757,6 @@ adjacence
 adjectional
 anastatica
 autoactivation
-adjectives
 acetine
 agyiomania
 amphistomatic
@@ -18742,6 +18741,7 @@ almoravide
 archest
 aspersed
 archetypal
+adjectives
 avizandum
 arabian
 anhydremic
