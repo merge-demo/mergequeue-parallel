@@ -10383,7 +10383,6 @@ dioptrate
 dupla
 divinizes
 demove
-dioptric
 dioptrical
 diopsidae
 daroo
@@ -12278,6 +12277,7 @@ disfranchises
 deride
 dozenth
 divineress
+dioptric
 discoursiveness
 deliquesce
 demonized
