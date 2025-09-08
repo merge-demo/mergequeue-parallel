@@ -690,7 +690,6 @@ dampne
 dyehouse
 dampness
 diacetylene
-dampproof
 dyspepsy
 doumaist
 distributes
@@ -9394,6 +9393,7 @@ differs
 dextrorsely
 duncify
 difficileness
+dampproof
 deeded
 dignosle
 doucely
