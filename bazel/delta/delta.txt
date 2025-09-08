@@ -9047,7 +9047,6 @@ dicolon
 disbar
 dudine
 doornboom
-dicotyledonous
 disruption
 dicotylidae
 deinosaur
@@ -11518,6 +11517,7 @@ discoboli
 discobolos
 dewiest
 disbelieving
+dicotyledonous
 degassing
 damasse
 dispositive
