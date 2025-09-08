@@ -15374,7 +15374,6 @@ covenantor
 claosaurus
 clapboard
 caenolestes
-clapboarding
 cleidomastoid
 clapboards
 clapcake
@@ -24688,6 +24687,7 @@ coppersmith
 coppersmithing
 chafferers
 copperware
+clapboarding
 cabmen
 copperwing
 causate
