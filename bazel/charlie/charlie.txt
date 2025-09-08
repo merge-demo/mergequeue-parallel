@@ -1845,6 +1845,7 @@ confectory
 cambodian
 camboge
 cliffed
+cusps
 contraposing
 camboose
 cambouis
@@ -31702,7 +31703,6 @@ cephalopodan
 cusping
 cur
 cuspis
-cusps
 cuspule
 coopery
 cools
