@@ -9837,6 +9837,7 @@ chemoprophyalctic
 cycle
 chemoprophylactic
 cruiser
+chromosomally
 coaxer
 candent
 chemoreceptive
@@ -12487,7 +12488,6 @@ chromoptometrical
 coadjacency
 capacitances
 coobah
-chromosomally
 condensate
 cornercap
 collophore
