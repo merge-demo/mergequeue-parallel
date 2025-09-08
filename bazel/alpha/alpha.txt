@@ -16369,6 +16369,7 @@ accentus
 altarist
 alkargen
 astrologian
+angolan
 antum
 adversing
 ambulatio
@@ -23032,7 +23033,6 @@ acetophenine
 attends
 accidentarily
 ambagiousness
-angolan
 amulas
 almshouses
 adviso
