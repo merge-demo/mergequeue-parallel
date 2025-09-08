@@ -4434,7 +4434,6 @@ carnalite
 culverin
 carnalize
 counterexposition
-carnalized
 carolingian
 confederative
 catapults
@@ -16578,6 +16577,7 @@ clappermaclaw
 clap
 cloistering
 comal
+carnalized
 croupes
 cloisterly
 carburization
