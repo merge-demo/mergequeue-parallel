@@ -149,6 +149,7 @@ botanomancy
 banister
 booboos
 basidiocarp
+bedumbing
 beeheaded
 beachcomb
 butanone
@@ -5592,7 +5593,6 @@ brasiers
 bong
 bocher
 buffa
-bedumbing
 busks
 boraciferous
 backboned
