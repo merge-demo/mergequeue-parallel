@@ -16330,7 +16330,6 @@ antonym
 antonymy
 antonyms
 antoniniani
-antoninianus
 appointed
 antonomasia
 anaplastic
@@ -23113,6 +23112,7 @@ autosuggestions
 apple
 adaptors
 attitudinise
+antoninianus
 attitudinised
 anba
 acensuada
