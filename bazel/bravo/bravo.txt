@@ -633,7 +633,6 @@ bronchoaspergillosis
 biscuitmaking
 blinds
 bringela
-bacteriologists
 burnoose
 bacteriophages
 bacteriophagy
@@ -10128,6 +10127,7 @@ buckwasher
 bezette
 babesiosis
 baroreceptor
+bacteriologists
 beglads
 bendsome
 beseechers
