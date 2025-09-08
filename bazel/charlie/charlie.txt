@@ -12338,7 +12338,6 @@ chromatopathy
 cakebox
 calabooses
 chromatopathia
-chromatophil
 chromatophile
 cothurni
 chromatophobia
@@ -19392,6 +19391,7 @@ colophons
 coloppe
 cavilled
 chrimsel
+chromatophil
 coloptosis
 coloquintid
 cenozoic
