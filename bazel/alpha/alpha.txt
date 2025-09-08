@@ -9592,7 +9592,6 @@ absenting
 autecologic
 alurgite
 autocephalic
-alushtite
 alvah
 almoin
 anecdotist
@@ -16713,6 +16712,7 @@ aphislion
 acinetina
 aphlogistic
 amberina
+alushtite
 alle
 antipascha
 atopic
