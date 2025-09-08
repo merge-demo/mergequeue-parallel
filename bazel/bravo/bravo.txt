@@ -17613,7 +17613,6 @@ benumb
 begabled
 brainsickness
 bosky
-berzelianite
 basipterygoid
 breadless
 besit
@@ -18316,6 +18315,7 @@ brahmans
 bolls
 brightens
 bombardon
+berzelianite
 brewst
 botherheaded
 boosy
