@@ -6422,7 +6422,6 @@ bepicture
 banxring
 bepile
 bolo
-bolshie
 bumbled
 blobbiness
 byeman
@@ -8252,6 +8251,7 @@ buttonholing
 biggish
 bayadeer
 base
+bolshie
 bepelt
 bigheaded
 balk
