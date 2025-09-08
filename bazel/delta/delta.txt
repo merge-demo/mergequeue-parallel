@@ -8917,7 +8917,6 @@ dikamalli
 decurrencies
 diceboard
 disp
-drumstick
 dilemi
 dicentras
 dipyramid
@@ -17958,6 +17957,7 @@ diordinal
 doodskop
 dreamier
 duffs
+drumstick
 disquisitions
 depaysee
 dakerhens
