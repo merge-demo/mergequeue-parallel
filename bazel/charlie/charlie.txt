@@ -6292,7 +6292,6 @@ cauterization
 correcter
 cauterizer
 caution
-cautionary
 couve
 cerebromedullary
 calcareosiliceous
@@ -29997,6 +29996,7 @@ cinchonate
 counterparts
 cognising
 croupiers
+cautionary
 croupiest
 clowned
 croupiness
