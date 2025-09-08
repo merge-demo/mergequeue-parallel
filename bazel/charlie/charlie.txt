@@ -7428,6 +7428,7 @@ chaos
 crinch
 ceratophyllum
 ceratophyta
+choroidoretinitis
 colocephalous
 crozier
 ceratopsian
@@ -12015,7 +12016,6 @@ choroiditis
 cryptanalytic
 coronene
 choroidocyclitis
-choroidoretinitis
 choroids
 chorology
 cynocrambe
