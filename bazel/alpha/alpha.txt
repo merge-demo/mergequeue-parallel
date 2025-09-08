@@ -18479,7 +18479,6 @@ arbota
 arbour
 arbs
 achaemenid
-anasazi
 anthrone
 anemometrical
 arbuscular
@@ -20248,6 +20247,7 @@ andia
 anormal
 arrowlike
 aminoazobenzene
+anasazi
 arrowplate
 abortifacient
 adenectopic
