@@ -5483,7 +5483,6 @@ asherahs
 atrous
 achromatium
 afterthought
-afterthoughts
 apastron
 afterturn
 armory
@@ -17224,6 +17223,7 @@ ambiguousness
 anights
 astronomics
 aport
+afterthoughts
 aportlast
 aposaturnium
 aposiopesis
