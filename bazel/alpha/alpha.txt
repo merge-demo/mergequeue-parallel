@@ -9406,6 +9406,7 @@ aclidian
 antilocapridae
 archaeogeology
 amylaceous
+arachnoidean
 allochetite
 alternariose
 alternate
@@ -22405,7 +22406,6 @@ auxillary
 ataxophemia
 attender
 alfas
-arachnoidean
 anomalously
 ayre
 albitization
