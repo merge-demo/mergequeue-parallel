@@ -667,7 +667,6 @@ alderfly
 abstrude
 aborted
 aborter
-aborticide
 azeotropy
 autogenetically
 abortient
@@ -9976,6 +9975,7 @@ acondylous
 analysability
 ambitendent
 ambition
+aborticide
 asquirm
 ambivalence
 accessioning
