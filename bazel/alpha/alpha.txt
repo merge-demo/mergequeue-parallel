@@ -16005,6 +16005,7 @@ africa
 antiscolic
 aposporic
 antiscorbutical
+avirulence
 antiscriptural
 acrosphacelus
 antiseismic
@@ -24760,7 +24761,6 @@ avocation
 adorantes
 avions
 adieux
-avirulence
 algolagny
 anxious
 allegros
