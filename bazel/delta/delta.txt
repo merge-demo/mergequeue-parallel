@@ -2636,6 +2636,7 @@ dcollet
 deconcentrate
 dishonourer
 deconcentration
+descants
 deposals
 delightedness
 diastrophism
@@ -13613,7 +13614,6 @@ dormantly
 daimioate
 dogmatisation
 dissensualize
-descants
 drowsihead
 dissentation
 dissented
