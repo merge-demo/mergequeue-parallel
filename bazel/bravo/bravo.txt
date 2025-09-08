@@ -584,7 +584,6 @@ balkar
 balisaur
 baconian
 breaths
-bistro
 baconianism
 baconism
 brutalitarianism
@@ -18033,6 +18032,7 @@ betimes
 bustled
 beefwood
 bullrings
+bistro
 boast
 bog
 bingle
