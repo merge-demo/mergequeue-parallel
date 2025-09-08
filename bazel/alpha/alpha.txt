@@ -363,7 +363,6 @@ anthraceniferous
 affrayers
 aberrantly
 aberrants
-aberrating
 aberration
 aberrational
 aberrative
@@ -7757,6 +7756,7 @@ alecup
 agami
 arsenicophagy
 alefs
+aberrating
 astringes
 alefzero
 averrable
