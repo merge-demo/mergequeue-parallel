@@ -8002,7 +8002,6 @@ drunkometer
 defease
 dextroglucose
 distensive
-demological
 dextrolactic
 diphenylthiourea
 dogskin
@@ -14477,6 +14476,7 @@ divergement
 distensible
 dorp
 dishpans
+demological
 decay
 demeans
 diverse
