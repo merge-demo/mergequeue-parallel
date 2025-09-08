@@ -7900,6 +7900,7 @@ clottedness
 chablis
 coelarium
 crannog
+chowtimes
 chromotypographic
 caliches
 connately
@@ -12084,7 +12085,6 @@ chowses
 carbarn
 chowtime
 cephalocele
-chowtimes
 chalks
 chrematheism
 chrematistic

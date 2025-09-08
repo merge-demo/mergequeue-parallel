@@ -6663,7 +6663,6 @@ buffoons
 bayonet
 bionic
 berchemia
-buccinae
 bechalks
 brakesmen
 bentincks
@@ -10998,6 +10997,7 @@ basichromiole
 builded
 bifanged
 bettina
+buccinae
 boyfriend
 budgero
 bullit
