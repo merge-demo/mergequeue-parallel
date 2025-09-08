@@ -3903,7 +3903,6 @@ disrooted
 dearomatize
 dx
 dogfoot
-deference
 dekes
 derivationally
 dotage
@@ -10169,6 +10168,7 @@ dawson
 disaffiliations
 duodenocholecystostomy
 dynes
+deference
 deminatured
 dinetic
 decryption
