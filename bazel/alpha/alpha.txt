@@ -8332,7 +8332,6 @@ alkahestic
 agalaxy
 allopath
 aortoptosis
-alkahestica
 anesthesiometer
 areopagitic
 arcadia
@@ -22974,6 +22973,7 @@ attars
 anarthropoda
 augurs
 ahungry
+alkahestica
 autorhythmic
 archplagiarist
 atrabiliarious
