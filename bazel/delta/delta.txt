@@ -2060,7 +2060,6 @@ datchas
 disproportionally
 decal
 dilatory
-decalage
 dartle
 dendrography
 demonologies
@@ -5955,6 +5954,7 @@ dingly
 damascening
 destalinize
 discussible
+decalage
 dayfly
 deprogrammed
 drillstock
