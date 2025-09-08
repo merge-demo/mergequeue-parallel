@@ -9438,7 +9438,6 @@ biographee
 banality
 besots
 battlestead
-birthplaces
 bogota
 blackened
 birthright
@@ -9770,6 +9769,7 @@ balladry
 bebleed
 bowleg
 beknight
+birthplaces
 brail
 bathyl
 basilar
