@@ -19290,7 +19290,6 @@ coryph
 colocynth
 connections
 contemperature
-cosmete
 crista
 ceviches
 colocola
@@ -23565,6 +23564,7 @@ contignate
 cloky
 corycavidin
 californite
+cosmete
 contignation
 contiguity
 circumferent
