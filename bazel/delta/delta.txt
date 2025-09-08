@@ -1901,6 +1901,7 @@ debris
 debrominate
 diandrian
 denitration
+diplacusis
 disapprobations
 derrieres
 dacryd
@@ -2406,7 +2407,6 @@ decimetre
 demoid
 decimolar
 drainpipe
-diplacusis
 downgoing
 dangling
 denizenize

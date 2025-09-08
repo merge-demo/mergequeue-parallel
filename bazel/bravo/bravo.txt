@@ -5754,6 +5754,7 @@ biotomy
 bellyached
 boardwalk
 bismethyl
+bureaucracy
 bellyaches
 becriming
 beylics
@@ -10701,7 +10702,6 @@ braeside
 brags
 blennosis
 beclart
-bureaucracy
 beethovenish
 barkan
 bolectioned
