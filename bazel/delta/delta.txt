@@ -92,7 +92,6 @@ deltal
 disdar
 dobbin
 damning
-defalcated
 direcly
 deescalating
 dumb
@@ -1589,6 +1588,7 @@ deafmuteness
 disembrace
 digression
 deairing
+defalcated
 discernableness
 deairs
 didascaly
