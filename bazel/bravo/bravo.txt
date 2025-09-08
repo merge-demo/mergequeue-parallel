@@ -3484,6 +3484,7 @@ biosis
 bitterworm
 billa
 batarde
+benzoglyoxaline
 bullaces
 baiters
 batavi
@@ -6312,7 +6313,6 @@ boundure
 biozone
 belgium
 benzoglycolic
-benzoglyoxaline
 bastioned
 beebees
 broken

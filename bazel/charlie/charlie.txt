@@ -7054,6 +7054,7 @@ commonplaceism
 centipedes
 crossties
 carrozza
+confidente
 centistere
 centistoke
 cardipericarditis
@@ -21965,7 +21966,6 @@ confidence
 confidency
 cosmogenic
 confident
-confidente
 compressibilities
 countertechnicality
 crossosomataceae
