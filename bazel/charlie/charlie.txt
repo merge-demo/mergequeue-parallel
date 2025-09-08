@@ -6638,6 +6638,7 @@ celandines
 celastraceae
 copings
 cerograph
+conglomerative
 colorfast
 cibarium
 celastrus
@@ -20639,7 +20640,6 @@ challengee
 competitrix
 coignes
 compilable
-conglomerative
 cofounded
 curvilinearly
 compilations
