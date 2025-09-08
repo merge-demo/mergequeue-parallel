@@ -2124,6 +2124,7 @@ dynamitish
 decanting
 doh
 detectors
+dapedium
 diabolology
 downtime
 diosmosis
@@ -13297,7 +13298,6 @@ domnei
 droopily
 dispoint
 duluth
-dapedium
 dispondee
 demythologise
 disponent
