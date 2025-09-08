@@ -8535,7 +8535,6 @@ anta
 allegiance
 ancylostoma
 allegiancy
-allegiant
 astronautically
 allegorically
 acidosis
@@ -15840,6 +15839,7 @@ arriero
 agendums
 acciaccatura
 anagram
+allegiant
 antipsalmist
 acidimeter
 armill
