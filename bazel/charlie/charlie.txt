@@ -11619,7 +11619,6 @@ christianize
 cholesteatoma
 concorrezanes
 cholesteatomatous
-cholestene
 cholesteremia
 charoset
 chowdered
@@ -23043,6 +23042,7 @@ compurgatory
 chlorpheniramine
 consonantic
 cavalcade
+cholestene
 consonantised
 cagmag
 consonantized
