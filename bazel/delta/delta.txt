@@ -7231,6 +7231,7 @@ detat
 defoliating
 dimethylamino
 dalteen
+deallocated
 detected
 disenchantingly
 direful
@@ -13070,7 +13071,6 @@ debacchate
 dodonaean
 descaling
 dolce
-deallocated
 dispar
 decanter
 diabolised
