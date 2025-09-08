@@ -1529,7 +1529,6 @@ deadlier
 deaden
 droops
 docked
-deadening
 drippings
 dices
 discommoning
@@ -10153,6 +10152,7 @@ deport
 duchesses
 drycoal
 dechloridized
+deadening
 disassimilating
 daguerreotypy
 dodecahedra
