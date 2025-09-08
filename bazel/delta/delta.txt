@@ -6018,6 +6018,7 @@ disjeune
 deadman
 dandered
 depurate
+decoupling
 dropsonde
 disingenuously
 droop
@@ -14553,7 +14554,6 @@ doradidae
 dicynodontidae
 davit
 dihelios
-decoupling
 deckhouse
 degauss
 diphyzooid
