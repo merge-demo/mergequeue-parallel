@@ -11993,7 +11993,6 @@ choristic
 choristoneura
 cantharellus
 chorization
-chorizo
 corelation
 cowkine
 catalanist
@@ -19899,6 +19898,7 @@ comets
 ceral
 condylomata
 comeuppance
+chorizo
 comeuppances
 comfy
 comfier

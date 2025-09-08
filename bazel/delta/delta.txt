@@ -6004,7 +6004,6 @@ dining
 driddle
 daunii
 diagraphics
-depthless
 diamagnetize
 diagrammitically
 depthlessness
@@ -12919,6 +12918,7 @@ diodia
 dreyfusist
 disminion
 duumviral
+depthless
 dewaterer
 doomsters
 decreeable
