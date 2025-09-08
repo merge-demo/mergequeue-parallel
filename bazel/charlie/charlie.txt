@@ -3620,7 +3620,6 @@ carandas
 carangids
 ciclatoun
 coenaesthesis
-cooking
 coleopterological
 carangin
 carangoid
@@ -28845,6 +28844,7 @@ crew
 ctge
 crewed
 crewet
+cooking
 culminations
 campit
 complanar
