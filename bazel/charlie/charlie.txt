@@ -7726,7 +7726,6 @@ cervicapra
 cervicectomy
 capibara
 cyanided
-calochortus
 caenogenesis
 cichloid
 cerviciplex
@@ -27905,6 +27904,7 @@ cognosce
 cradlemaker
 cradlemate
 cemeteries
+calochortus
 camerlengos
 celeomorphic
 clinoclase
