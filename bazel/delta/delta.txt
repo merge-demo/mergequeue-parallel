@@ -10918,7 +10918,6 @@ diamonded
 dirgeman
 debts
 dustyfoot
-dieresis
 dirgy
 doggedly
 dhooley
@@ -16724,6 +16723,7 @@ demisovereign
 doctoress
 drayage
 dipteraceous
+dieresis
 diverting
 dereligion
 drysaltery
