@@ -9358,7 +9358,6 @@ birkeniidae
 bran
 birky
 birkremite
-bingo
 boldine
 batonga
 botonee
@@ -9950,6 +9949,7 @@ biwinter
 blackfisher
 benzolate
 bricoles
+bingo
 brutisms
 bixaceae
 bixaceous
