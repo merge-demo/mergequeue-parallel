@@ -15477,7 +15477,6 @@ counterraising
 cardionosus
 concussing
 certification
-censorate
 clarissimo
 correption
 clarities
@@ -19459,6 +19458,7 @@ cuffle
 colorful
 colorfulness
 cognisably
+censorate
 colorific
 colorifics
 colorimeter
