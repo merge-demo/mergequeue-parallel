@@ -13515,7 +13515,6 @@ bembex
 burntness
 besnowed
 beatermen
-bouffancy
 beggarlice
 brunel
 biennale
@@ -14029,6 +14028,7 @@ bestudded
 bedravel
 browner
 bl
+bouffancy
 bullpens
 best
 brachycrany
