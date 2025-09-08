@@ -11622,6 +11622,7 @@ cholesterol
 chined
 clepsydrae
 cholesterolemia
+copybooks
 choletelin
 chack
 choline
@@ -24577,7 +24578,6 @@ choli
 characinidae
 circulariser
 coxoceritic
-copybooks
 cognomen
 chook
 copycats
