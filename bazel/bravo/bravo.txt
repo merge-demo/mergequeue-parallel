@@ -5485,7 +5485,6 @@ baklava
 bemurmured
 blotted
 beisance
-burled
 beja
 blintz
 bergsonism
@@ -14525,6 +14524,7 @@ buddle
 bimaculate
 billhooks
 blume
+burled
 buri
 boyar
 boardroom
