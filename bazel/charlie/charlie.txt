@@ -20097,7 +20097,6 @@ commensurate
 cubla
 curatorial
 commensurating
-codings
 commensuration
 commensurations
 corking
@@ -25243,6 +25242,7 @@ corker
 corkers
 chimu
 corkier
+codings
 chytridiaceous
 cladoptosis
 ciliola
