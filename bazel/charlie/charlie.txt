@@ -5162,6 +5162,7 @@ carpophore
 carinule
 cassocked
 cataleptic
+crofter
 calycoideous
 colorimetrical
 chevrony
@@ -29568,7 +29569,6 @@ caroaches
 coembodying
 crockery
 calkage
-crofter
 cottagey
 cobego
 chartered
