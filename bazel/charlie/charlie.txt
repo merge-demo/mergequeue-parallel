@@ -14908,7 +14908,6 @@ catabasis
 curemaster
 cytoreticulum
 cytospora
-crossbanded
 chakar
 cytost
 cradlelike
@@ -27102,6 +27101,7 @@ counterstep
 corabeca
 chengal
 coprostasis
+crossbanded
 chittered
 counterstimulate
 counterstimulation
