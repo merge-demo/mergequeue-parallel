@@ -613,6 +613,7 @@ blooddrops
 bacteriaemia
 bacterially
 bacterioblast
+buggyman
 bactericide
 bacterin
 beggiatoa
@@ -1918,7 +1919,6 @@ blackguardry
 bubonalgia
 bandanas
 bergama
-buggyman
 barken
 bandoleer
 burlesquely
