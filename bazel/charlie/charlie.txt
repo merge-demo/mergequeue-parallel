@@ -2226,7 +2226,6 @@ catchwords
 counterlathing
 centaurus
 coalescency
-clinger
 canadine
 corresponds
 celiectasia
@@ -30397,6 +30396,7 @@ ct
 cte
 catharized
 crow
+clinger
 chlorine
 ctenidial
 ctenidium
