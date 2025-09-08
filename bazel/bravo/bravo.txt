@@ -4870,7 +4870,6 @@ bacteriostasis
 beefwoods
 burgees
 beegerite
-bootlick
 bairnliness
 badchan
 bouncing
@@ -13263,6 +13262,7 @@ botany
 bilboquet
 brominated
 birdmen
+bootlick
 bookrests
 blennies
 baltei
