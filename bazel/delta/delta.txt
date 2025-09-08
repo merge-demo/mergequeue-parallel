@@ -8690,6 +8690,7 @@ deoxyribonuclease
 dovekey
 diastalsis
 diastases
+distressingly
 diglossia
 disgustedness
 dryads
@@ -14091,7 +14092,6 @@ distressed
 denominable
 distressing
 deglamorization
-distressingly
 devast
 dockyardman
 dehwar
