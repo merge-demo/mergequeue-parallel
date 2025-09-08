@@ -10577,7 +10577,6 @@ danaan
 disbowels
 demipagan
 ddname
-derate
 diplexer
 diazotate
 deipotent
@@ -16884,6 +16883,7 @@ dulcose
 disconsonant
 difficult
 duma
+derate
 devex
 drawee
 disconnectedly
