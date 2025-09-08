@@ -12741,7 +12741,6 @@ argenol
 archencephalic
 anglehook
 anglepod
-adiamorphic
 anglepods
 amianthine
 arousement
@@ -16513,6 +16512,7 @@ apargia
 actinologue
 automaker
 antarctogaean
+adiamorphic
 apartheid
 accessibly
 amberies
