@@ -3605,7 +3605,6 @@ beshouted
 byrri
 batiking
 boise
-boloneys
 britzkas
 bolson
 bus
@@ -11936,6 +11935,7 @@ bogus
 bohairic
 baume
 bottled
+boloneys
 bohemian
 bohemium
 bidigitate

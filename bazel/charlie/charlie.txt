@@ -5186,7 +5186,6 @@ cassidid
 cassidulina
 crookback
 cassiduloid
-charterage
 cistus
 cassiepeia
 cassimere
@@ -8405,6 +8404,7 @@ champagneless
 champagning
 chockman
 champagnize
+charterage
 cardiogenic
 champagnized
 cesurae
