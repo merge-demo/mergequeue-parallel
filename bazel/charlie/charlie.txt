@@ -12276,6 +12276,7 @@ christianite
 clothier
 christianizer
 christianizes
+canonicalizing
 contraindicative
 christianlike
 cafard
@@ -30303,7 +30304,6 @@ cataphysic
 clingstones
 crusaders
 coastways
-canonicalizing
 catalog
 coresidual
 crusets
