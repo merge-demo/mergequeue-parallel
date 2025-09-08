@@ -7084,6 +7084,7 @@ central
 centraler
 cobblery
 chevelure
+choir
 circumscriptively
 chateaubriand
 cestraciontidae
@@ -11456,7 +11457,6 @@ choil
 chymistry
 choiler
 chicquing
-choir
 choired
 choirlike
 conoidally
