@@ -2798,7 +2798,6 @@ decubiti
 ditheism
 deculturate
 deceitfulness
-driverless
 deceitfully
 decuman
 dissuasive
@@ -16298,6 +16297,7 @@ dialector
 deerskins
 dizens
 downshift
+driverless
 dislimned
 defats
 doweress
