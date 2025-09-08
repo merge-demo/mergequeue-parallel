@@ -4946,7 +4946,6 @@ argas
 angioscope
 aerosteam
 antapex
-aerotaxis
 actinodrome
 agacant
 argo
@@ -12911,6 +12910,7 @@ anhedral
 anhedron
 anhelation
 anhelose
+aerotaxis
 atavism
 amulla
 anhyd
