@@ -4698,7 +4698,6 @@ carpometacarpus
 carpompi
 counterorganization
 carpool
-craning
 carpopedal
 cladoniaceous
 carpophalangeal
@@ -20391,6 +20390,7 @@ commutant
 commutated
 commutation
 commutatively
+craning
 carpogone
 commutativity
 commute
