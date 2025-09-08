@@ -12182,7 +12182,6 @@ archipresbyter
 andesytes
 asphyxiant
 assisi
-adiadochokinesia
 andhra
 andi
 andine
@@ -19908,6 +19907,7 @@ amyelinic
 armure
 aggros
 almaine
+adiadochokinesia
 armures
 arn
 acutilinguae
