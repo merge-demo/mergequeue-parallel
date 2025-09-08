@@ -7772,6 +7772,7 @@ bookiness
 barefisted
 bartizan
 bohmite
+barons
 biblical
 bobsledders
 benamed
@@ -17544,7 +17545,6 @@ bugle
 burgau
 braconidae
 benzidins
-barons
 brandon
 bewhistle
 bestream
