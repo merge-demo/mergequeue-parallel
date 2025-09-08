@@ -6470,7 +6470,6 @@ bosnisch
 benedick
 bimong
 bettong
-berri
 bewelcome
 bavarois
 beaming
@@ -12910,6 +12909,7 @@ boottop
 besting
 bandelette
 bidarkees
+berri
 bouchon
 burgherdom
 betulaceae
