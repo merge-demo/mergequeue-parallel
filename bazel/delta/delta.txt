@@ -13486,7 +13486,6 @@ disregard
 dought
 drawglove
 defenceless
-disregardant
 disregarded
 drumskin
 disregardfulness
@@ -15981,6 +15980,7 @@ dizzying
 devilship
 dioptrics
 disrating
+disregardant
 dhourras
 defecated
 daft
