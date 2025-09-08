@@ -11578,7 +11578,6 @@ actinometry
 allegory
 aucanian
 anticarnivorous
-acoria
 asperates
 autoheterodyne
 anaematosis
@@ -13650,6 +13649,7 @@ anomuran
 abhorrer
 animalised
 assertrix
+acoria
 acanthaceae
 amidase
 acarines
