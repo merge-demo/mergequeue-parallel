@@ -6851,7 +6851,6 @@ chlorobromomethane
 curvirostres
 charros
 cackler
-cementer
 coursey
 cementers
 cementification
@@ -7535,6 +7534,7 @@ cerebrose
 cyanoplatinous
 chargers
 calathisci
+cementer
 calcarated
 cerebrospinal
 chaetotaxy
