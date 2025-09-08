@@ -9074,7 +9074,6 @@ dermatoplast
 dicoumarol
 dicranaceous
 dextrinous
-depolymerizing
 diverter
 disseminule
 dichromism
@@ -13054,6 +13053,7 @@ dauntless
 depredicate
 dinoceratidae
 disorganization
+depolymerizing
 dinning
 deconsecrating
 disorientate
