@@ -6466,6 +6466,7 @@ caza
 cazimi
 clangored
 chamois
+counterattacked
 crossability
 chondrofetal
 cazique
@@ -23946,7 +23947,6 @@ comminuate
 conularia
 conumerous
 conundrums
-counterattacked
 conurbation
 cricke
 conus
