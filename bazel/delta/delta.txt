@@ -17405,7 +17405,6 @@ drumlier
 droolier
 dorts
 deynt
-drooper
 dihedral
 dismays
 dichotomies
@@ -18058,6 +18057,7 @@ decenniums
 depauperate
 dicebox
 dislocations
+drooper
 duler
 dull
 dullard
