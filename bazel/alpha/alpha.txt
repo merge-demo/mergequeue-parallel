@@ -12321,7 +12321,6 @@ antianaphylactogen
 algesis
 armchairs
 anecdotage
-antiprimer
 autonomical
 ajonjoli
 atomiferous
@@ -14239,6 +14238,7 @@ anthologies
 autobiographies
 asphyxiates
 alberto
+antiprimer
 achromatin
 anthologising
 appellational
