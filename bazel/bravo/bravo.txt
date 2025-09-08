@@ -11436,7 +11436,6 @@ balladmonger
 begalling
 barish
 brulzie
-boogie
 baba
 banyoro
 bigamous
@@ -14166,6 +14165,7 @@ bromaurate
 bacao
 bleu
 bluebottles
+boogie
 bradycrotic
 buccheros
 boutiques

@@ -10128,6 +10128,7 @@ chomping
 collectioner
 complaining
 chewing
+coheretic
 chewinks
 chews
 ciceronians
@@ -28292,7 +28293,6 @@ crave
 craven
 churchmen
 clans
-coheretic
 cravened
 cravening
 cravenly
