@@ -4788,7 +4788,6 @@ carryouts
 crosshatched
 carritches
 carriwitchet
-calotypic
 carrocci
 carroch
 connivers
@@ -6502,6 +6501,7 @@ culteranismo
 crystallite
 catostomoid
 chemopallidectomies
+calotypic
 cebian
 cecidogenous
 cebid
