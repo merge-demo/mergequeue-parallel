@@ -3115,7 +3115,6 @@ bucrnia
 bloodcurdler
 baseborn
 besprinkle
-becher
 birdlime
 baseburner
 basecourt
@@ -4664,6 +4663,7 @@ berinse
 bedlamizing
 bedlamps
 boottopping
+becher
 butcherliness
 bedlams
 bienseance
