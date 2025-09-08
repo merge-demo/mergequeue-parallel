@@ -4329,6 +4329,7 @@ diacritical
 dods
 doxycycline
 demagogical
+declamando
 dura
 denizenship
 dichogamic
@@ -17725,7 +17726,6 @@ duarchy
 duarchies
 dhauri
 dubb
-declamando
 dilemmic
 dynamometer
 dwarves
