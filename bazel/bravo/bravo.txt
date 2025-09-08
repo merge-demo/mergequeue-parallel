@@ -4818,6 +4818,7 @@ bacteriotherapy
 beebee
 bradystalsis
 beechen
+bejuggle
 beechnut
 breakstone
 bloomage
@@ -5516,7 +5517,6 @@ barrette
 basihyoid
 brutified
 behaviored
-bejuggle
 bejumbles
 bedplate
 broombush
