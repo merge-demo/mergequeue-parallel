@@ -15059,7 +15059,6 @@ alphabetisation
 antievolutionary
 anteconsonantal
 assimulate
-antievolutionist
 alectoromorphae
 anhemolytic
 antiexpansion
@@ -24140,6 +24139,7 @@ anteocular
 autokinesy
 antisepalous
 aspish
+antievolutionist
 autokinesis
 arythmia
 aetosaurian
