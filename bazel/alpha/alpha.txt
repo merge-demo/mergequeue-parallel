@@ -3389,6 +3389,7 @@ addr
 allotheistic
 actinography
 azores
+alligatored
 addressable
 antiquarian
 addressers
@@ -8933,7 +8934,6 @@ accruing
 allotriophagy
 ambulomancy
 andrite
-alligatored
 allotriophagia
 allotropic
 ailanthus
