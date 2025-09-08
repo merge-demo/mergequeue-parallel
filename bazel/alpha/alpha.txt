@@ -19776,6 +19776,7 @@ antisupernaturalism
 agoroth
 animalization
 archthief
+alethic
 avolation
 allotropes
 astroite
@@ -23579,7 +23580,6 @@ apologetics
 auricularian
 auriculas
 aviate
-alethic
 ambidexter
 assailant
 amioidei
