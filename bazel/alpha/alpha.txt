@@ -9043,6 +9043,7 @@ anaspid
 amphiarthrosis
 authenticatable
 afterchance
+arteriostosis
 almanacs
 almander
 astromantic
@@ -18837,7 +18838,6 @@ adroiter
 abound
 apogeotropic
 apio
-arteriostosis
 archings
 adhesions
 anthropologist
