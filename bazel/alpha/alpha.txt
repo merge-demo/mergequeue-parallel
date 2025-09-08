@@ -8513,7 +8513,6 @@ allantoinase
 ampullosity
 allantoinuria
 asthenical
-allantoxaidin
 aminolysis
 actinouranium
 anisogenous
@@ -12622,6 +12621,7 @@ alveolocondylean
 abnormalised
 adaize
 angrily
+allantoxaidin
 antimeristem
 accreditment
 accountants
