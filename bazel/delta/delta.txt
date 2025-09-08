@@ -2446,7 +2446,6 @@ dindon
 disequality
 dialogising
 dixy
-decisively
 darkened
 decitizenize
 decivilize
@@ -10801,6 +10800,7 @@ dun
 dubiousness
 discharges
 dastardy
+decisively
 deliberant
 delocalisation
 donship
