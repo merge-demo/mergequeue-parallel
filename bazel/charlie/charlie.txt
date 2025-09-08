@@ -13295,7 +13295,6 @@ cyclopentanone
 curlyhead
 covenanting
 candlestand
-cyclopentene
 cohabit
 cajanus
 cyclophoria
@@ -31750,6 +31749,7 @@ ceratofibrous
 collock
 controvertist
 copresent
+cyclopentene
 chimlas
 contraster
 customing
