@@ -1202,6 +1202,7 @@ dunts
 datagram
 datagrams
 degging
+dermatosiophobia
 doormat
 devilhood
 datana
@@ -6296,7 +6297,6 @@ doodad
 dissentiency
 dermatoses
 devulcanize
-dermatosiophobia
 diselder
 decrete
 dermatotherapy
