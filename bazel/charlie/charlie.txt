@@ -21145,6 +21145,7 @@ consonantise
 concealedly
 costalgia
 concealedness
+colugos
 concealer
 consolatoriness
 conceals
@@ -25556,7 +25557,6 @@ corporale
 corporalism
 corporality
 cristivomer
-colugos
 cretins
 corporalities
 cooperative
