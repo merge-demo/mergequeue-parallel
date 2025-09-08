@@ -12733,7 +12733,6 @@ angled
 archoplasm
 argenol
 archencephalic
-anglehook
 anglepod
 anglepods
 amianthine
@@ -19220,6 +19219,7 @@ aggravator
 areology
 areological
 antapocha
+anglehook
 anding
 assays
 areologies
