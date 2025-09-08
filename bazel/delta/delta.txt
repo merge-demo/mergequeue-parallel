@@ -7202,7 +7202,6 @@ diaphorase
 diphtherial
 duodenate
 diemaking
-dotting
 detaches
 demijohns
 demulsifying
@@ -12737,6 +12736,7 @@ disjointure
 disepalous
 dentalize
 deportable
+dotting
 deranges
 demiheavenly
 dishmaker
