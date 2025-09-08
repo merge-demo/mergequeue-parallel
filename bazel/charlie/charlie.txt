@@ -393,7 +393,6 @@ curns
 copalche
 cardiocentesis
 cacosmia
-canalis
 cacospermia
 cacothansia
 cacotheline
@@ -5461,6 +5460,7 @@ coxing
 contentful
 catalyse
 craterellus
+canalis
 copr
 cofactor
 catalyses
