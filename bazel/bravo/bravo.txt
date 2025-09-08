@@ -4819,7 +4819,6 @@ beechnut
 breakstone
 biscuitmaking
 bloomage
-backspeer
 bomarea
 broadsiding
 beechwood
@@ -4982,6 +4981,7 @@ baching
 buoying
 bovld
 beefily
+backspeer
 beetlike
 brumbee
 babism
