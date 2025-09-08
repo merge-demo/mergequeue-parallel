@@ -2947,7 +2947,6 @@ blobby
 barricaded
 bookable
 barricaders
-barricadoes
 boyism
 boondoggled
 breathing
@@ -18179,6 +18178,7 @@ beltway
 butoxy
 bodyguards
 bulks
+barricadoes
 bohereen
 begarlanded
 backdated
