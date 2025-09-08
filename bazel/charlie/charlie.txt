@@ -17162,7 +17162,6 @@ combite
 colostomy
 coadministratrix
 coadmiration
-catastrophe
 cuphead
 carboxylase
 coadmitted
@@ -29248,6 +29247,7 @@ cryptogame
 cryptogamy
 cryptogamic
 cryptogamical
+catastrophe
 cryptogamist
 cryptogenic
 cryptoglioma
