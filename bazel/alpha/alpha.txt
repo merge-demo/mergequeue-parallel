@@ -363,7 +363,6 @@ astrictive
 anglians
 aberrancy
 anthraceniferous
-affrayers
 aberrantly
 aberrants
 aberration
@@ -2926,6 +2925,7 @@ alteratively
 actinograph
 aporobranchiata
 antipodes
+affrayers
 assamar
 asbolin
 autotomy
