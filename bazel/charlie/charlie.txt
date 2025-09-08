@@ -27923,7 +27923,6 @@ craftless
 confoundment
 craftly
 croucher
-charactonym
 creammaking
 craftsmanship
 cheesemaker
@@ -30551,6 +30550,7 @@ caldera
 cellarette
 cuboides
 casanovas
+charactonym
 cuboids
 chondropharyngeal
 circe
