@@ -971,7 +971,6 @@ dipsey
 dray
 disjoints
 doughmen
-dare
 directcarving
 drosophila
 dared
@@ -9763,6 +9762,7 @@ diprismatic
 doggery
 disregardful
 dimethyl
+dare
 deceive
 desugarize
 didodecahedral
