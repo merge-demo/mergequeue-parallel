@@ -4725,6 +4725,7 @@ bedroll
 bedrooms
 bruckle
 bougainvilliidae
+blathers
 bedrowse
 bedrugged
 bedrugs
@@ -10506,7 +10507,6 @@ blathery
 blackprint
 baretta
 bick
-blathers
 biomicroscopy
 bivinyls
 bermudians
