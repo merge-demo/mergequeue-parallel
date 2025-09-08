@@ -10575,7 +10575,6 @@ dipleural
 defected
 dionysian
 dimeric
-dipleurulas
 discourtesy
 danaan
 disbowels
@@ -12911,6 +12910,7 @@ doryman
 developments
 diabetics
 dispatchful
+dipleurulas
 devitrify
 dichoree
 diacoele
