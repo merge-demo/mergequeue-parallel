@@ -4720,6 +4720,7 @@ distillmint
 dipmeter
 dewaxed
 drifting
+dispreading
 drydenism
 diabolic
 ducklar
@@ -13587,7 +13588,6 @@ donnism
 diving
 disassociated
 dortiship
-dispreading
 donorship
 deputation
 disaccharose
