@@ -10656,7 +10656,6 @@ chytridial
 clevises
 cantharidated
 chimneyless
-counterdefender
 chimneyman
 chimneypiece
 chimopelagic
@@ -30741,6 +30740,7 @@ counterintrigue
 cangle
 choiak
 copain
+counterdefender
 culbute
 conchitic
 culches
