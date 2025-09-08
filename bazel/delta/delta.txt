@@ -11076,7 +11076,6 @@ disalliege
 dihalogen
 domiciliating
 deoxidization
-disallow
 displaying
 disconformably
 dieselized
@@ -12174,6 +12173,7 @@ disestablismentarian
 diddler
 drapers
 dialogism
+disallow
 dp
 deutoscolex
 deescalates
