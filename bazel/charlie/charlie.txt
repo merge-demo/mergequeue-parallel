@@ -12924,7 +12924,6 @@ cyanid
 comprehensives
 catamenial
 continentality
-cyanides
 clothes
 cyanids
 cyanimide
@@ -23682,6 +23681,7 @@ consultancy
 curat
 capmakers
 codomain
+cyanides
 cubalaya
 countableness
 contracyclical
