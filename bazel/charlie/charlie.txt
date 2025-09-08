@@ -11113,6 +11113,7 @@ chizzel
 chkfile
 chondrite
 churlishly
+chondrocyte
 chlamyd
 chlamydate
 chlamydeous
@@ -11709,7 +11710,6 @@ credential
 chondroarthritis
 contestant
 chondroblastoma
-chondrocyte
 coniomycetes
 caliphates
 chondrocoracoid
