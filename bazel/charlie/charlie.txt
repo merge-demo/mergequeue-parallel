@@ -7652,7 +7652,6 @@ cerous
 cerrial
 certain
 conservatism
-certainness
 cormorant
 certhia
 changeless
@@ -13299,6 +13298,7 @@ crabbit
 curvated
 cycloplegic
 cyclopteridae
+certainness
 centerwise
 cyclopteroid
 compactification
