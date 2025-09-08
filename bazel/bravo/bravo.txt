@@ -16972,6 +16972,7 @@ braces
 bulimus
 baler
 bimahs
+barometz
 bishoping
 boldfaces
 burt
@@ -17438,7 +17439,6 @@ betes
 bioecologist
 buqshas
 brambrack
-barometz
 buran
 burblers
 benighted
