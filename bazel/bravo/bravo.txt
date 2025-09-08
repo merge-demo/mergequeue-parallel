@@ -3242,7 +3242,6 @@ blottesquely
 babbling
 beriberi
 battened
-bicorporeal
 bantingize
 buettneriaceae
 bedouin
@@ -18158,6 +18157,7 @@ bedquilt
 bitterwort
 balneary
 butlery
+bicorporeal
 belief
 butleries
 butlerlike
