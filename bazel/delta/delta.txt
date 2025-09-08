@@ -7071,7 +7071,6 @@ dexterical
 dolts
 destigmatization
 destination
-depot
 dunelands
 destines
 dz
@@ -7471,6 +7470,7 @@ disseised
 detrivorous
 dervish
 damn
+depot
 doggereled
 doebird
 detrude
