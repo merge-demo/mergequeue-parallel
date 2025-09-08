@@ -1271,7 +1271,6 @@ dossil
 dermoptera
 datolitic
 droob
-derivant
 dandyism
 disking
 datsuns
@@ -6175,6 +6174,7 @@ disbosomed
 doppler
 deriders
 detractress
+derivant
 deriding
 deringa
 diffuseness
