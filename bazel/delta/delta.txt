@@ -5000,7 +5000,6 @@ derk
 demultiplexer
 deurbanize
 dacoited
-demultiplexers
 directional
 desexing
 deferable
@@ -10905,6 +10904,7 @@ dynameter
 dimerized
 depthen
 dasht
+demultiplexers
 dirgelike
 diamonded
 dirgeman
