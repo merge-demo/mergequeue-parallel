@@ -867,7 +867,6 @@ disorchard
 dankishness
 disprovement
 delesseria
-developability
 dannebrog
 diactinism
 deuteronomistic
@@ -6891,6 +6890,7 @@ discomposes
 dichromasy
 desoxyribonucleic
 disseized
+developability
 delirous
 drunken
 dirgeful
