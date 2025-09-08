@@ -4537,7 +4537,6 @@ deputies
 discircumspection
 demies
 dosimetric
-dialyses
 demifigure
 demigardebras
 decentres
@@ -4830,6 +4829,7 @@ demolishing
 daily
 discharge
 demolition
+dialyses
 demolitionist
 dictyosiphonaceous
 dishonest
