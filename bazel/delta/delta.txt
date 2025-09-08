@@ -515,7 +515,6 @@ dismantler
 dalle
 disambiguations
 debosh
-desmotropic
 dalliances
 dallied
 discomforter
@@ -13339,6 +13338,7 @@ daylily
 dispossed
 distrusted
 doughtiness
+desmotropic
 demogenic
 deuteranomal
 daidly
