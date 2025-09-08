@@ -3712,7 +3712,6 @@ conficient
 carbineer
 carbines
 carbinols
-commensality
 carboazotine
 congealer
 conrail
@@ -6648,6 +6647,7 @@ cresotic
 counterinterpretation
 ciscos
 clavecin
+commensality
 celebs
 celemin
 celemines
