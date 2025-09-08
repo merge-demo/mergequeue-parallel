@@ -3882,6 +3882,7 @@ admi
 adminicle
 aruspicy
 anhydrously
+acoin
 amphiprotic
 adminicula
 akolouthia
@@ -16259,7 +16260,6 @@ aquabelle
 antivenereal
 antivenins
 antipathist
-acoin
 amphilogism
 adorant
 aminopropionic
