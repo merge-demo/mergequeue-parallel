@@ -3562,6 +3562,7 @@ banker
 bratling
 bathoflore
 bibliomaniacal
+blackeye
 batholithic
 batholiths
 balaamite
@@ -8465,7 +8466,6 @@ barricading
 billboards
 billbug
 biller
-blackeye
 bombacaceae
 brantcorn
 barabora
