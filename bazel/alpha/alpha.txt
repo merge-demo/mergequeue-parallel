@@ -3023,7 +3023,6 @@ antispast
 airships
 amplidyne
 arthropody
-actinostome
 aramus
 agtbasic
 aspirating
@@ -17249,6 +17248,7 @@ ashram
 acetonize
 adnescent
 antiphonically
+actinostome
 antiagglutinant
 archpatriarch
 allowing
