@@ -2580,7 +2580,6 @@ albergo
 analytic
 apartment
 aking
-acrawl
 attriutively
 atheroscleroses
 acre
@@ -8392,6 +8391,7 @@ affectingly
 adjoint
 audivise
 acerbic
+acrawl
 angustate
 adaptable
 alarms
