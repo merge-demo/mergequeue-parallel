@@ -13492,6 +13492,7 @@ compilers
 chisel
 comitiva
 cylindroid
+consecrater
 caudillos
 cylindromatous
 crosswords
@@ -22790,7 +22791,6 @@ clambering
 conscriptions
 cismarine
 consecrate
-consecrater
 chieftess
 contramarque
 counterflow
