@@ -270,7 +270,6 @@ benzedrine
 biarticulate
 bytownitite
 bacillariaceae
-bromeliaceae
 baldric
 buried
 balancedness
@@ -8737,6 +8736,7 @@ bepill
 binoculars
 binodose
 buckbean
+bromeliaceae
 bari
 banalities
 brazas
