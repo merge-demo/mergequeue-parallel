@@ -12565,7 +12565,6 @@ cafetiere
 chronologizing
 chronomantic
 chronomastix
-chronometer
 crom
 citolers
 crimmers
@@ -23871,6 +23870,7 @@ civiler
 cystospasm
 checkrooms
 contrivable
+chronometer
 combers
 contrivances
 contrive
