@@ -9020,6 +9020,7 @@ decollate
 dicyanin
 demilitarisation
 dehydrofroze
+dives
 draughtsman
 decourse
 diolefin
@@ -9828,7 +9829,6 @@ decephalize
 dipsos
 dermatocyst
 dillesk
-dives
 delinquence
 daimones
 denumerable
