@@ -1490,7 +1490,6 @@ demiglace
 downer
 deaconesses
 divergingly
-disshadow
 dowsabel
 debased
 diglucoside
@@ -12863,6 +12862,7 @@ diathermancy
 doubty
 degame
 downhaul
+disshadow
 deliquiesce
 demiparadise
 didelphia
