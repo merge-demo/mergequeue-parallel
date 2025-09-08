@@ -687,7 +687,6 @@ breathlessly
 badass
 bactriticone
 basidiomycetous
-brolga
 botticelli
 bischofite
 bowldery
@@ -8260,6 +8259,7 @@ bolshie
 bepelt
 bigheaded
 balk
+brolga
 blennoid
 brusque
 blastocarpous
