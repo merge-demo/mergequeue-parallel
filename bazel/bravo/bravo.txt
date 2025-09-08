@@ -1603,6 +1603,7 @@ britches
 burgher
 burgundies
 binate
+bedpans
 ballista
 byplay
 boilermaker
@@ -4679,7 +4680,6 @@ bauckiebird
 bedown
 bradding
 brunts
-bedpans
 bruisers
 bries
 beeball
