@@ -2229,7 +2229,6 @@ blandiloquous
 bielby
 barbequing
 baalshem
-bassoons
 betrayers
 barbarise
 barbarised
@@ -10039,6 +10038,7 @@ blackamoors
 blackbine
 befrets
 bursas
+bassoons
 barabara
 bepity
 bowge

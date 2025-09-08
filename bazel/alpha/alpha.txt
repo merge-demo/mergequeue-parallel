@@ -5108,6 +5108,7 @@ affectionateness
 affections
 affective
 advocacies
+autrefois
 affectivity
 affector
 affectum
@@ -24467,7 +24468,6 @@ administrated
 antihelices
 amused
 autre
-autrefois
 autumnity
 alodialist
 autunites
