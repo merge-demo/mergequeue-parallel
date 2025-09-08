@@ -1250,7 +1250,6 @@ brownout
 beeswaxes
 blackshirt
 bakshishes
-badnesses
 bete
 bediaper
 barathron
@@ -3415,6 +3414,7 @@ boatshop
 bleaching
 bagani
 bummers
+badnesses
 brigantines
 bastardry
 briny
