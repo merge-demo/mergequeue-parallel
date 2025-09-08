@@ -2574,6 +2574,7 @@ cliffing
 canebrake
 cardioschisis
 cucularis
+cervulus
 cementmaking
 canebrakes
 cephalodynia
@@ -18212,7 +18213,6 @@ coessentiality
 coessentially
 contadino
 coestablishment
-cervulus
 cephalotome
 coetaneous
 coeternity
