@@ -2987,7 +2987,6 @@ disrealize
 diluent
 deerfly
 domestication
-diazoate
 deerfood
 digraphic
 deservings
@@ -8812,6 +8811,7 @@ dj
 dinettes
 diabolized
 dansant
+diazoate
 dictations
 dehumidify
 diffident
