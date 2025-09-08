@@ -3854,7 +3854,6 @@ brutalitarian
 biti
 bathukolpic
 bimorph
-bezels
 bandor
 bidding
 beforesaid
@@ -5099,6 +5098,7 @@ bilocation
 bimorphemic
 banco
 balletomania
+bezels
 bainite
 befools
 budworm
