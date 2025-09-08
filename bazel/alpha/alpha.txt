@@ -13028,7 +13028,6 @@ accessible
 animalistic
 androgynous
 align
-animalivore
 animalivorous
 animalize
 animalized
@@ -23678,6 +23677,7 @@ acetifier
 alto
 auspice
 authenticated
+animalivore
 aerohydroplane
 antisyndicalist
 algorist
