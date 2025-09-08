@@ -4187,7 +4187,6 @@ amortizing
 acarida
 actiniferous
 arteriotrepsis
-adscititious
 adscriptitious
 averment
 autophyllogeny
@@ -19635,6 +19634,7 @@ ancle
 allocthonous
 anticivilian
 alkalinise
+adscititious
 allot
 agonistic
 actinosphaerium
