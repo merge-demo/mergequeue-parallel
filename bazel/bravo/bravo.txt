@@ -10323,7 +10323,6 @@ brays
 blanched
 blanches
 bonneted
-blancmange
 buntlines
 bayal
 besnows
@@ -12130,6 +12129,7 @@ brose
 boomier
 biasnesses
 bedral
+blancmange
 bordrage
 barbarisms
 bedeen
