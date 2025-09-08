@@ -3468,7 +3468,6 @@ dismissable
 digitalizing
 delft
 defrayed
-deperition
 dinghies
 defrayers
 defraying
@@ -5949,6 +5948,7 @@ densest
 dogbody
 darren
 davy
+deperition
 dingly
 damascening
 destalinize
