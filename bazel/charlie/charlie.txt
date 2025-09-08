@@ -9892,6 +9892,7 @@ confluences
 chemotrophic
 chemotropically
 chempaduk
+claughting
 chemurgical
 chemurgically
 chen
@@ -30334,7 +30335,6 @@ crustaceorubrin
 cynology
 chamfron
 cadenced
-claughting
 caserio
 crustade
 charted
