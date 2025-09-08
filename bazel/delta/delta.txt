@@ -1860,6 +1860,7 @@ daktylos
 deicate
 defeudalize
 decimalization
+diureide
 dropline
 debordment
 deboss
@@ -14412,7 +14413,6 @@ demerse
 dimyary
 dissonant
 diuranate
-diureide
 diuresis
 difficile
 doomer
