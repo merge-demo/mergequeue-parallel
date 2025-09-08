@@ -9950,6 +9950,7 @@ baining
 bushranger
 bedeviled
 battuto
+bodkins
 becrusted
 benefiter
 bywalking
@@ -11822,7 +11823,6 @@ birthstones
 bodywork
 bodyworks
 bodkin
-bodkins
 boardlike
 barmybrained
 bended
