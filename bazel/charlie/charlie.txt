@@ -2049,7 +2049,6 @@ campanistic
 counterponderate
 campanologer
 colport
-crucis
 campanology
 croaker
 campanological
@@ -6618,6 +6617,7 @@ contemporaneously
 ceilingwards
 copiability
 chadelle
+crucis
 celtophobia
 ceilometer
 couac

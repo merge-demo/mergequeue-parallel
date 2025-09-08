@@ -2721,6 +2721,7 @@ branchiostege
 bienne
 blitum
 brainsick
+balanocele
 balandrana
 beladies
 bletilla
@@ -8135,7 +8136,6 @@ benchfellow
 beshiver
 bached
 bifocal
-balanocele
 berith
 bb
 boneache
