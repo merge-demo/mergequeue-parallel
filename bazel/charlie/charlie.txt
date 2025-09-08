@@ -3243,7 +3243,6 @@ compenetrate
 corns
 capito
 clingier
-crayfishing
 contrib
 corregimiento
 capitoline
@@ -13782,6 +13781,7 @@ cooboo
 cascavel
 creationist
 cetologies
+crayfishing
 courier
 circumstances
 codification
