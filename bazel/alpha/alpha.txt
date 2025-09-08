@@ -5540,6 +5540,7 @@ aminoaciduria
 agag
 ashkenazic
 amygdale
+awhape
 andabatarian
 aeschylean
 again
@@ -24981,7 +24982,6 @@ aerophysics
 archcozener
 awfu
 awfuller
-awhape
 allantois
 abdali
 awheft
