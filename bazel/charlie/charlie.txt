@@ -5632,7 +5632,6 @@ catchweight
 catchword
 catchwork
 cabasset
-counterinsurgents
 catclaw
 cate
 catechesis
@@ -15923,6 +15922,7 @@ customable
 clepsydra
 contorniate
 cleptobioses
+counterinsurgents
 conics
 coadministration
 cobelligerent
