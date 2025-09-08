@@ -2809,7 +2809,6 @@ astrol
 ascophorous
 acropodium
 acropoleis
-acropolitan
 acropora
 asthenope
 acarologist
@@ -20301,6 +20300,7 @@ aerobia
 antesignani
 arsenophenol
 anotus
+acropolitan
 antireducing
 arsenopyrite
 aquaemanalia
