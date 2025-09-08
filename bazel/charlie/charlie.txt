@@ -21936,7 +21936,6 @@ confessable
 creating
 chungking
 convexities
-confessant
 confessary
 coelomopore
 cornfield
@@ -28973,6 +28972,7 @@ criminalistics
 cakewalks
 criminality
 circulatory
+confessant
 criminally
 comestibles
 cycadofilicinean
