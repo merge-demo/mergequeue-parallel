@@ -273,6 +273,7 @@ bromeliaceae
 baldric
 buried
 balancedness
+beleaf
 brontosaur
 bedfellow
 bacillarieae
@@ -5144,7 +5145,6 @@ beaconage
 benignly
 balanoblennorrhea
 bounces
-beleaf
 barns
 beadhouse
 bracteal
