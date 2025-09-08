@@ -15114,6 +15114,7 @@ clade
 casabas
 cladocarpous
 cladocera
+clavicornes
 collarband
 commissionerships
 constituent
@@ -15711,7 +15712,6 @@ contraction
 clavicle
 clavicles
 clavicorn
-clavicornes
 clavicotomy
 clavicular
 clavicularium
