@@ -10030,7 +10030,6 @@ chesses
 cochlospermaceae
 chessylite
 chessist
-chirimen
 chessner
 chessom
 claves
@@ -26003,6 +26002,7 @@ chimesmaster
 coseiest
 coseism
 coseismal
+chirimen
 cradletime
 cowbane
 citied
