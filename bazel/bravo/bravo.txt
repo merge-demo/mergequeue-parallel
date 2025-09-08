@@ -17598,7 +17598,6 @@ bistorts
 balladwise
 bhakta
 boulterer
-burgundy
 burhmoot
 bombic
 bickerers
@@ -17627,6 +17626,7 @@ barrelfish
 bartends
 bellipotent
 burked
+burgundy
 bonnetman
 belletrists
 blithebread
