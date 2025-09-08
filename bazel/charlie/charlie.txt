@@ -5123,6 +5123,7 @@ casiri
 casita
 corpl
 cassinian
+confessable
 conflation
 cellulosed
 cliftonite
@@ -21936,7 +21937,6 @@ combe
 cavalero
 chinamania
 couhage
-confessable
 creating
 chungking
 convexities
