@@ -6736,7 +6736,6 @@ bertrum
 bullarium
 beachy
 broadsided
-belying
 ber
 beruffed
 brusqueness
@@ -11495,6 +11494,7 @@ baronages
 blurredly
 beatifying
 bobsleded
+belying
 beauteously
 blurrier
 becolme
