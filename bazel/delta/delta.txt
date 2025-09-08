@@ -11590,7 +11590,6 @@ dirham
 defter
 dunciad
 dovewood
-discommendation
 droplets
 dedanim
 deaner
@@ -18234,6 +18233,7 @@ dentatocostate
 dermatorrhoea
 dode
 decurrent
+discommendation
 dunderfunk
 dunderheadedness
 disnature
