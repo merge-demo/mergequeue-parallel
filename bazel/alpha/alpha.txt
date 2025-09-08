@@ -12298,7 +12298,6 @@ androsphinx
 androsporangium
 auriculoventricular
 androsterone
-androtomy
 ayens
 anuran
 azosulphine
@@ -20715,6 +20714,7 @@ artocarpous
 artolater
 aliner
 artolatry
+androtomy
 anguineal
 amianthiform
 abraid
