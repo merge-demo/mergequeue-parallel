@@ -11887,6 +11887,7 @@ discrowns
 doa
 daydreamed
 devitalised
+defibrillate
 defiler
 discruciate
 drupelets
@@ -15599,7 +15600,6 @@ danker
 donaciform
 donack
 daishiki
-defibrillate
 decrescence
 dicyanodiamide
 deduit
