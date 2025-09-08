@@ -9379,7 +9379,6 @@ dismembering
 depickle
 differentiate
 dioscoreaceous
-differentiator
 defalcates
 dewax
 diplopia
@@ -14249,6 +14248,7 @@ dysuria
 dysurias
 disusage
 dogfaces
+differentiator
 dynamoscope
 deathful
 disuse
