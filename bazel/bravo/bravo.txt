@@ -9004,7 +9004,6 @@ brainwashers
 butyrins
 biorhythmicity
 bevellers
-bacteriophagia
 bios
 bargander
 biosciences
@@ -17370,6 +17369,7 @@ bassoon
 bargemaster
 bluebird
 bespattered
+bacteriophagia
 bandbox
 boettner
 borzicactus
