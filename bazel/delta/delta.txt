@@ -4639,7 +4639,6 @@ dishtowel
 diazid
 dialogs
 drabbest
-disbursable
 disfranchised
 deaness
 dawsoniaceae
@@ -18425,6 +18424,7 @@ demonstrable
 duopsonistic
 devota
 duos
+disbursable
 defrauder
 diatribist
 doke
