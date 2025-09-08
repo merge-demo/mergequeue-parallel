@@ -3395,6 +3395,7 @@ dragoon
 dunite
 denazified
 debyes
+deceptory
 doffed
 doigte
 defluvium
@@ -5363,7 +5364,6 @@ duotype
 dentirostral
 dimorphotheca
 drumbeating
-deceptory
 dribbler
 decorative
 deambulatories
