@@ -4589,7 +4589,6 @@ briquetted
 bedfellows
 buildable
 barlows
-byliny
 bedford
 bouilli
 brothier
@@ -8278,6 +8277,7 @@ bigheartedness
 benedictionale
 bradoon
 bintangor
+byliny
 bights
 blackjacks
 bacterium
