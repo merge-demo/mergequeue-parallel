@@ -1857,6 +1857,7 @@ banderma
 bowlike
 behatted
 blet
+belamcanda
 bindings
 brigading
 banders
@@ -15893,7 +15894,6 @@ bocardo
 bellmaster
 bashed
 bibliophilic
-belamcanda
 bronchographic
 blooming
 bronchohemorrhagia
