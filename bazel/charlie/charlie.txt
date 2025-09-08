@@ -9817,6 +9817,7 @@ chemistry
 chemists
 countess
 chemitypy
+clarice
 chancrous
 chemizo
 colligated
@@ -22926,7 +22927,6 @@ cocullo
 considerate
 codiaeum
 cephalometer
-clarice
 consideration
 considerations
 considerativeness
