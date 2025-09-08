@@ -2377,7 +2377,6 @@ bemoisten
 bardcraft
 bronchoscopically
 barde
-branchling
 bagasse
 bobtails
 bedgowns
@@ -9897,6 +9896,7 @@ blethering
 byelaw
 biland
 bedsteads
+branchling
 betrap
 bergerette
 bultong
