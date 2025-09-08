@@ -12535,7 +12535,6 @@ chronically
 coenenchymal
 chronicle
 coachman
-chronicling
 copycutter
 chronicon
 chronics
@@ -16996,6 +16995,7 @@ clusterfist
 catechu
 coerceable
 circumviate
+chronicling
 cashibo
 confervales
 calcareoargillaceous
