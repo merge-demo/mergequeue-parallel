@@ -5636,6 +5636,7 @@ conicoid
 catching
 clerkage
 carolean
+cotyloidal
 cannon
 capitulated
 catchlight
@@ -31210,7 +31211,6 @@ commiserator
 chetah
 curable
 curableness
-cotyloidal
 churnstaff
 coverlid
 coracler
