@@ -13581,6 +13581,7 @@ aponeurotic
 anticosmetic
 anointments
 awiggle
+assails
 avalvular
 archaic
 articulation
@@ -16616,7 +16617,6 @@ asserters
 arkansan
 auricomous
 aphacia
-assails
 alcaides
 aphacic
 aphaeresis
