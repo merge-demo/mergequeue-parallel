@@ -26926,7 +26926,6 @@ carburizing
 calyptrogyne
 countermoved
 casebound
-cerebralist
 countermure
 countermutiny
 counternarrative
@@ -28298,6 +28297,7 @@ cravened
 cravening
 cravenly
 cravens
+cerebralist
 clod
 cloop
 craver
