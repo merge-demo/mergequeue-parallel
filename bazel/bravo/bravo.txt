@@ -5786,6 +5786,7 @@ banded
 berseem
 bribeworthy
 baigneuse
+bunglingly
 bellies
 bellyful
 bestrews
@@ -7657,7 +7658,6 @@ bhojpuri
 brim
 bhokra
 bonaventure
-bunglingly
 bustee
 blesbok
 bingey
