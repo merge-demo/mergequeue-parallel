@@ -18342,7 +18342,6 @@ cofounds
 cofreighter
 cofunction
 cystidia
-cretification
 cogencies
 catadromous
 centena
@@ -30767,6 +30766,7 @@ culicine
 charonian
 casselty
 chiffon
+cretification
 culinarian
 condenser
 ciliiferous
