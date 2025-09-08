@@ -1469,7 +1469,6 @@ accoil
 accolades
 anabo
 accoll
-accolle
 antinovel
 accolled
 arpeggio
@@ -16234,6 +16233,7 @@ abris
 antitetanic
 antiannexation
 accusive
+accolle
 antitragicus
 aricine
 alphabetizing
