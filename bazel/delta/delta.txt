@@ -13403,7 +13403,6 @@ disannulment
 dodecaphonist
 disputatiously
 disputatiousness
-dishorse
 dewatered
 disputator
 disputeful
@@ -13944,6 +13943,7 @@ derisive
 decolonize
 distyle
 distill
+dishorse
 demiurgic
 deflore
 disinhabit
