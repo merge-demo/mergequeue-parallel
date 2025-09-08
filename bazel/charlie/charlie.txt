@@ -17427,7 +17427,6 @@ coauthority
 coauthors
 collaborativeness
 coaxal
-coaxation
 canneries
 coaxes
 coaxy
@@ -31173,6 +31172,7 @@ cuprites
 cunningly
 coccygeus
 cuprobismutite
+coaxation
 charlatan
 cryolite
 cytherella
