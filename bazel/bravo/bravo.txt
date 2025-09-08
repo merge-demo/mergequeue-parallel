@@ -2647,7 +2647,6 @@ bedumbs
 bescour
 befriend
 bogyisms
-barbitals
 bibliothecas
 blackcods
 bodicemaker
@@ -7814,6 +7813,7 @@ bituminisation
 bibliopegically
 biltong
 bibbons
+barbitals
 browser
 btu
 boscages
