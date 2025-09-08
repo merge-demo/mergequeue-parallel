@@ -2929,6 +2929,7 @@ cogrediency
 cantharidae
 cake
 chytrid
+clubweed
 cantharidate
 compsognathus
 cantharides
@@ -16896,7 +16897,6 @@ clubs
 clubstart
 clubster
 carpogonium
-clubweed
 cionocranian
 clubwomen
 corybantine
