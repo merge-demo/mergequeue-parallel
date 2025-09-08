@@ -7408,7 +7408,6 @@ biserrate
 brachypodine
 bronzesmith
 booteries
-beurre
 benamidar
 bevelled
 beveller
@@ -16388,6 +16387,7 @@ biotechnological
 bursattee
 brusquest
 boucherize
+beurre
 brussel
 blushing
 bestrode
