@@ -4803,7 +4803,6 @@ diemaker
 dentalizing
 disenslave
 demography
-discontinuor
 denigrations
 dichotomically
 degerminator
@@ -10061,6 +10060,7 @@ dazedly
 depair
 dubieties
 dissightly
+discontinuor
 dynamically
 dialiness
 deuterocone
