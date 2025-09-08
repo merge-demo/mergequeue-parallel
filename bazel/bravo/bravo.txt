@@ -6495,7 +6495,6 @@ banisters
 birdshot
 brustled
 becolor
-berated
 bushful
 berates
 breakaway
@@ -11076,6 +11075,7 @@ bodikin
 bridling
 backbreaking
 bakongo
+berated
 bestialism
 blipping
 berengena

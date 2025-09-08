@@ -7024,6 +7024,7 @@ akrochordite
 arimasp
 abietineous
 allophore
+aschaffite
 akroterion
 arabinic
 amphigony
@@ -20888,7 +20889,6 @@ almshouse
 amphophilous
 asceticism
 ascetta
-aschaffite
 asepsis
 alpasotes
 abstractively
