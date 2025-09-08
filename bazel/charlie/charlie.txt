@@ -6392,6 +6392,7 @@ cavernal
 cavernlike
 cavernoma
 cavernous
+cocamine
 cavernously
 cavernulous
 caves
@@ -6573,7 +6574,6 @@ cedrat
 cedrate
 cedrela
 coustumier
-cocamine
 cedrene
 champaign
 cedry
