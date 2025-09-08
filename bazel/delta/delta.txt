@@ -1540,7 +1540,6 @@ dices
 discommoning
 desertness
 deputising
-dyssodia
 deadfalls
 deviler
 dim
@@ -10673,6 +10672,7 @@ dosology
 deviously
 diphenan
 dulias
+dyssodia
 drey
 digammated
 dunkirker
