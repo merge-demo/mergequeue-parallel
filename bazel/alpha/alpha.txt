@@ -403,7 +403,6 @@ abidances
 abider
 advisability
 abie
-apocatharsis
 abye
 abient
 anglophily
@@ -1579,6 +1578,7 @@ accoutered
 ablepsy
 anoxia
 agrostologist
+apocatharsis
 aneling
 accouterment
 acemetic

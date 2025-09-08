@@ -6174,6 +6174,7 @@ cacodyls
 chemotaxonomic
 caulosarc
 caulotaxis
+craterlike
 caulote
 cauls
 caum
@@ -28265,7 +28266,6 @@ chromites
 curvilinear
 craterless
 craterlet
-craterlike
 covariance
 cheepily
 cathecting
