@@ -659,7 +659,6 @@ aborad
 aboral
 aborally
 anthomyiid
-abord
 aboriginality
 anhydrosis
 aborigines
@@ -8968,6 +8967,7 @@ anthesis
 anthracoid
 alloxuraemia
 allergens
+abord
 alloxuremia
 aumaga
 alloxuric
