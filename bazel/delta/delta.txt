@@ -3011,6 +3011,7 @@ deerstalking
 deerweed
 deerweeds
 deepfrozen
+daint
 deemphasize
 diester
 downward
@@ -12062,7 +12063,6 @@ difforme
 disencharm
 drip
 disenclose
-daint
 diammine
 decimus
 disendow
