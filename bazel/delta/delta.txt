@@ -6862,7 +6862,6 @@ desolate
 dishcross
 differently
 door
-definitise
 descamisados
 dobroes
 desolated
@@ -9229,6 +9228,7 @@ ditriglyph
 dusterman
 delaine
 diebacks
+definitise
 dictyopteran
 diecious
 dead
