@@ -7496,7 +7496,6 @@ detruding
 disulphid
 detruncation
 damneder
-dodgery
 detrusion
 duvetyns
 dripstone
@@ -12561,6 +12560,7 @@ dualization
 dromond
 disimpark
 disimpassioned
+dodgery
 dentinitis
 dysmerogenetic
 discorporate
