@@ -6920,7 +6920,6 @@ bedsite
 beslimes
 bactetiophage
 besottedly
-besliming
 backsheesh
 beseemed
 breme
@@ -10811,6 +10810,7 @@ blets
 brachyoura
 bonhomme
 bituberculated
+besliming
 brancardier
 beheads
 bequeathing
