@@ -11995,6 +11995,7 @@ binnacle
 balisaurs
 blindage
 boilerful
+backslap
 boilerplate
 boilersmith
 bladdernose
@@ -15882,7 +15883,6 @@ bodements
 buoyage
 bandless
 biffy
-backslap
 brideship
 boudin
 bronchogenic
