@@ -3001,7 +3001,6 @@ congested
 cucumber
 cantoria
 cardsharps
-calabooses
 crystallographic
 cantoris
 cantors
@@ -12335,6 +12334,7 @@ chromatolytic
 chromatologies
 chromatopathy
 cakebox
+calabooses
 chromatopathia
 chromatophil
 chromatophile
