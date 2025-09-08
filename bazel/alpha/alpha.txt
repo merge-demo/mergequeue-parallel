@@ -1885,6 +1885,7 @@ acetylfluoride
 awn
 appendix
 affirmance
+awaits
 acetylglycine
 apologetical
 attentional
@@ -18125,7 +18126,6 @@ allhallow
 aphanomyces
 aquifer
 avanturine
-awaits
 actifier
 aquifoliaceous
 aspersor
