@@ -7732,7 +7732,6 @@ decelerators
 devily
 detail
 deviling
-deeded
 devilishness
 darshana
 devility
@@ -9389,6 +9388,7 @@ differs
 dextrorsely
 duncify
 difficileness
+deeded
 dignosle
 doucely
 drifters
