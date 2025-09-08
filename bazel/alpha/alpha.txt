@@ -13574,6 +13574,7 @@ austere
 amination
 aerialist
 anointment
+aponeurotic
 anticosmetic
 anointments
 awiggle
@@ -17156,7 +17157,6 @@ aspired
 apomorphine
 antitheistic
 almudes
-aponeurotic
 aponeurotomy
 aponic
 acroparesthesia
