@@ -7053,6 +7053,7 @@ duramen
 destinezite
 driveable
 dessous
+decreases
 devall
 debatefully
 durst
@@ -9844,7 +9845,6 @@ deprecation
 decreasingly
 dissyllabized
 demasculinising
-decreases
 disenfranchise
 delusiveness
 dillseed
