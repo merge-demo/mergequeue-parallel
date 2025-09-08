@@ -8510,7 +8510,6 @@ dissociably
 dybbukim
 diandria
 discographer
-dianetics
 divider
 debitrix
 days
@@ -10882,6 +10881,7 @@ dementate
 disjection
 deboist
 daedaleous
+dianetics
 desugared
 deposable
 deificatory

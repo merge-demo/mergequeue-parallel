@@ -1104,7 +1104,6 @@ abutilon
 abbassi
 airpark
 aucan
-anteroom
 antieducationalist
 abutment
 articulant
@@ -14695,6 +14694,7 @@ anteing
 autoindex
 allocution
 anticeremonious
+anteroom
 acceptancy
 affectioned
 archgomeral
