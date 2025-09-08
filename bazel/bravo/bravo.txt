@@ -6017,6 +6017,7 @@ becowarded
 benasty
 beholdable
 bedrift
+banners
 bataan
 bol
 boarskin
@@ -14266,7 +14267,6 @@ blindball
 bluet
 brachistocephaly
 bessi
-banners
 bianchite
 bouquiniste
 brushes
