@@ -4792,6 +4792,7 @@ descendental
 descriptor
 dangs
 dpt
+dukker
 dilated
 detours
 dismisser
@@ -10027,7 +10028,6 @@ dimoric
 dimorph
 disenthralls
 dimorphism
-dukker
 dissatisfactorily
 dally
 disparted
