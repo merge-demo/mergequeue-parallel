@@ -2780,7 +2780,6 @@ adsorbability
 acronyctous
 acrotreta
 arctocephalus
-arteriolith
 abiogeneses
 adati
 acronymic
@@ -3484,6 +3483,7 @@ adenochrome
 apts
 abnumerable
 absorptional
+arteriolith
 antipedal
 adenocystoma
 antepectoral
