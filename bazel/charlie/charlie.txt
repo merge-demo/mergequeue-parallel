@@ -10487,7 +10487,6 @@ chilicote
 chilidogs
 coropo
 coupon
-coevolutionary
 crews
 cherely
 chylifaction
@@ -21996,6 +21995,7 @@ coinsurable
 coexclusive
 configurating
 configurationally
+coevolutionary
 configurations
 configure
 configures
