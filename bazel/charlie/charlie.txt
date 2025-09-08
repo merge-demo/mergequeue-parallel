@@ -929,6 +929,7 @@ calamary
 calamariaceous
 centrifugalized
 cinemactic
+cosession
 calamarmar
 cilioflagellate
 calamars
@@ -4447,7 +4448,6 @@ carneau
 carnegiea
 carneyed
 cabiritic
-cosession
 carnelian
 carneole
 cracklings
