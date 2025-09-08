@@ -14303,7 +14303,6 @@ baits
 brahmin
 behowl
 boxkeeper
-bierbalk
 burnable
 brahminists
 brahmoism
@@ -16976,6 +16975,7 @@ burt
 bulkhead
 bulkheading
 bulky
+bierbalk
 bulkily
 bitterweed
 bastinades
