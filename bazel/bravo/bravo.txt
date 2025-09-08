@@ -4567,7 +4567,6 @@ boeing
 buxus
 bedevilling
 barbershops
-bargee
 bedevilment
 bescarf
 brustling
@@ -5246,6 +5245,7 @@ beadroll
 brawn
 bemoil
 beggiatoaceous
+bargee
 beggingly
 broadband
 birsy
