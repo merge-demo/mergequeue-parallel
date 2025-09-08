@@ -6607,6 +6607,7 @@ churlhood
 compound
 counterquestion
 coathangers
+counterwave
 cuscus
 colligation
 ceinture
@@ -28904,7 +28905,6 @@ crancelin
 crimmy
 cricetids
 cricetus
-counterwave
 cricked
 crickey
 cricket
