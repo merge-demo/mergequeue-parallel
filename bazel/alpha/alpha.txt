@@ -17508,7 +17508,6 @@ appellations
 apophonia
 anthophyllitic
 appellatived
-aperient
 appellativeness
 anchory
 arriccioci
@@ -21514,6 +21513,7 @@ aristoi
 algolagnist
 asquare
 asphyxiative
+aperient
 alkylize
 anlage
 approvable
