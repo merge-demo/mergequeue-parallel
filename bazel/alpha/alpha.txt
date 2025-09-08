@@ -9901,6 +9901,7 @@ amberite
 amicron
 artiller
 arrival
+amenorrheic
 adsorbs
 amberjacks
 allege
@@ -10237,7 +10238,6 @@ amoebian
 amendment
 amendments
 amene
-amenorrheic
 amenorrho
 amenorrhoea
 adeem
