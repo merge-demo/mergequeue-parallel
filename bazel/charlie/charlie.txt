@@ -19953,6 +19953,7 @@ comics
 comid
 comida
 caudillo
+clairseacher
 comiferous
 cominformist
 cominformists
@@ -27951,7 +27952,6 @@ celtic
 cragwork
 controllership
 craichy
-clairseacher
 calcarium
 crayer
 commendator
