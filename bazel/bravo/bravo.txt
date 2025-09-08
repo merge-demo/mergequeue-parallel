@@ -3144,7 +3144,6 @@ bonnes
 burghemot
 bubalis
 bleat
-bascunan
 briskly
 beturbaned
 basenjis
@@ -9686,6 +9685,7 @@ bistred
 beknights
 bradylexia
 bloodguiltiness
+bascunan
 baronetage
 basiating
 blemish
