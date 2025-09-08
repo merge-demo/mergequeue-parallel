@@ -1358,6 +1358,7 @@ bunks
 bacteriophagous
 bobbles
 balboa
+bronchotyphus
 bethlehem
 beehive
 bioplastic
@@ -15921,7 +15922,6 @@ braggardism
 bestrewing
 blennioid
 bowess
-bronchotyphus
 bronchotome
 belucki
 bronchotracheal
