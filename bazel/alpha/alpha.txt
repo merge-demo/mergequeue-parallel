@@ -1166,7 +1166,6 @@ alchemising
 acana
 acanonical
 acanth
-acanthaceous
 aeacus
 antinaturally
 adjustor
@@ -24578,6 +24577,7 @@ aramaicize
 arshins
 antimetabolite
 avars
+acanthaceous
 arab
 avatar
 adenoncus
