@@ -20199,7 +20199,6 @@ confederacy
 calceolately
 caricatures
 commissurotomies
-commit
 commitment
 clavecinist
 cystitome
@@ -22799,6 +22798,7 @@ ccm
 coadjute
 captiously
 clovers
+commit
 cabers
 consecrator
 cardosanto
