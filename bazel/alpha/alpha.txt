@@ -5322,6 +5322,7 @@ africanoid
 affrettando
 astartian
 antifelon
+autoregressive
 amalgams
 atharvan
 arrange
@@ -19681,7 +19682,6 @@ ammonite
 arithmomancy
 amphoral
 arizonian
-autoregressive
 arizonians
 achigan
 anuresis
