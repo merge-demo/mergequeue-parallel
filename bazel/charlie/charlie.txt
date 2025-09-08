@@ -2734,6 +2734,7 @@ clatsop
 cannoneers
 cannequin
 colts
+crinolines
 cancerphobia
 cannetille
 claviers
@@ -29082,7 +29083,6 @@ crinolette
 chickenweed
 culver
 crinoline
-crinolines
 crinosity
 crinula
 cnemides
