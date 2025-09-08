@@ -3028,7 +3028,6 @@ canulates
 comatic
 canun
 curbing
-chaffinches
 chiasmodon
 croppa
 cycadeous
@@ -25526,6 +25525,7 @@ coronetty
 coronagraphic
 coronilla
 coronion
+chaffinches
 catting
 coronis
 chese
