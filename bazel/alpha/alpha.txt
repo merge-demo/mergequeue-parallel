@@ -14605,7 +14605,6 @@ antibiotic
 acousmatic
 antibiotically
 anthrohopobiological
-antidiffuser
 acushla
 ambulacral
 antisex
@@ -24087,6 +24086,7 @@ autogram
 adhamant
 autographer
 autographically
+antidiffuser
 ammoreslinol
 autographometer
 autographs
