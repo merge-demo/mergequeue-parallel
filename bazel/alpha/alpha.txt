@@ -1653,6 +1653,7 @@ acculturation
 acculturize
 anarchoindividualist
 accum
+aplacental
 alouettes
 agglomeration
 accumbency
@@ -16878,7 +16879,6 @@ amritsar
 apjohnite
 antistrophe
 aplace
-aplacental
 adderfish
 aplacentalia
 aplacentaria
