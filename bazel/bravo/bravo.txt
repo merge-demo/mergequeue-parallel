@@ -278,7 +278,6 @@ brontosaur
 bedfellow
 bacillarieae
 brominating
-bacillariophyta
 beroe
 barlock
 betterer
@@ -9217,6 +9216,7 @@ barringtonia
 bullation
 biquintile
 barbastelle
+bacillariophyta
 boles
 bastaard
 bavenite

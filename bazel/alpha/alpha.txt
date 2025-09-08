@@ -11505,6 +11505,7 @@ anacanthous
 anacathartic
 alveolae
 alefnull
+arthropoda
 albinoism
 anacephalize
 amanitin
@@ -19065,7 +19066,6 @@ antipolo
 adjiger
 allentiac
 armistices
-arthropoda
 arctan
 arctation
 allomerize
