@@ -3452,7 +3452,6 @@ ascesis
 assedat
 abbogada
 arabicize
-agora
 akenbold
 amphibion
 adenemphractic
@@ -4650,6 +4649,7 @@ aerations
 azurine
 aery
 antimasquer
+agora
 abbreviator
 authoritatively
 anthologizing
