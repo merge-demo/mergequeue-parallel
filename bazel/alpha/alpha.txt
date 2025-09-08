@@ -3081,6 +3081,7 @@ activities
 amoristic
 allogenic
 aid
+ankyloglossia
 alagao
 actory
 actress
@@ -13285,7 +13286,6 @@ albescent
 antiinflammatory
 adenopharyngeal
 assumption
-ankyloglossia
 allergia
 auditress
 ankylopodia
