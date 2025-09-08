@@ -21105,6 +21105,7 @@ comurmurer
 commandership
 conable
 conal
+chinquapin
 castorin
 civilize
 couchette
@@ -23536,7 +23537,6 @@ contesting
 contestingly
 contestless
 contests
-chinquapin
 clodding
 constatations
 cumulose
