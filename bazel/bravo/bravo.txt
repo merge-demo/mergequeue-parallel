@@ -877,6 +877,7 @@ baggagemaster
 baggager
 benzidin
 beffroy
+boccale
 borderlight
 bijouterie
 bagganet
@@ -14862,7 +14863,6 @@ breastmark
 backspear
 buccina
 birthy
-boccale
 breastpin
 boozers
 barleybreak
