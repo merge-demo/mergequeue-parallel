@@ -4416,6 +4416,7 @@ anticonfederationism
 advisal
 allentiacan
 acridium
+algicidal
 aselar
 aune
 avantlay
@@ -22961,7 +22962,6 @@ attalea
 attalid
 aquafer
 adoxy
-algicidal
 achenocarp
 attargul
 antisplenetic
