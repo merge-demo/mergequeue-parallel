@@ -3212,6 +3212,7 @@ capitalness
 capitan
 capitana
 coelenterata
+crenelle
 capitasti
 capitated
 cputime
@@ -8675,7 +8676,6 @@ chapeled
 concion
 crotalism
 convalescency
-crenelle
 chapelgoing
 cockpits
 chapelize
