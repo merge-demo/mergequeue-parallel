@@ -14114,7 +14114,6 @@ anastaltic
 aslope
 ascriptitii
 allomorph
-arapahite
 agglutinant
 aeroscopic
 arent
@@ -24024,6 +24023,7 @@ ascidiozooid
 autoecy
 adventitiously
 acrophonies
+arapahite
 autoecic
 adaptational
 accumulations

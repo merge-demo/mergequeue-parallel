@@ -10336,7 +10336,6 @@ daguerreotype
 deans
 draughting
 delta
-dames
 dionysia
 dionysiac
 dionysus
@@ -10617,6 +10616,7 @@ decorticate
 dysphagia
 disagglomeration
 despotist
+dames
 diplogenesis
 diagonalize
 deseam
