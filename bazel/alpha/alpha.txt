@@ -5709,7 +5709,6 @@ agallop
 agedness
 angiorrhea
 agee
-ageing
 archiannelida
 antiturnpikeism
 arithmetical
@@ -12251,6 +12250,7 @@ aspergilliform
 attribute
 androgametophore
 applanate
+ageing
 automelon
 androgamone
 animose
