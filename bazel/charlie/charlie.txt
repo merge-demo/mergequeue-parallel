@@ -7971,7 +7971,6 @@ chemin
 chaetal
 carromata
 clanks
-chaetifera
 chaetiferous
 cocytean
 chaetochloa
@@ -25032,6 +25031,7 @@ cords
 cystonectous
 crosscourt
 celotex
+chaetifera
 chronanagram
 comports
 corduroys
