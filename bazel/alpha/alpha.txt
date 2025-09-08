@@ -7047,6 +7047,7 @@ alabamide
 alabamine
 acidic
 alabarch
+adamantoma
 alabaster
 aphizog
 alabastrine
@@ -8818,7 +8819,6 @@ argolid
 adream
 antisceptical
 achromatizable
-adamantoma
 astroalchemist
 agnathostomatous
 araneid

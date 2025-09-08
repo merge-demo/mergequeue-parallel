@@ -1218,6 +1218,7 @@ datasetname
 datcha
 disparison
 demiassignation
+deciliter
 dragooner
 deleads
 dulcinist
@@ -2376,7 +2377,6 @@ deciduously
 dimercuric
 decylic
 dorsiparous
-deciliter
 doodads
 dispelled
 donny
