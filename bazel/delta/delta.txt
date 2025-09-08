@@ -5076,6 +5076,7 @@ druggiest
 discomfit
 downhearted
 disproof
+devitrify
 dispone
 dissipated
 disterr
@@ -12905,7 +12906,6 @@ developments
 diabetics
 dispatchful
 dipleurulas
-devitrify
 dichoree
 diacoele
 decalcify
