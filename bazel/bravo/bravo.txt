@@ -10899,6 +10899,7 @@ bartonia
 bodleian
 brooms
 balancewise
+bumkin
 barretors
 buriti
 benevolence
@@ -17206,7 +17207,6 @@ bumfuzzle
 baubles
 bumicky
 blotched
-bumkin
 bothridiums
 beating
 buttonless
