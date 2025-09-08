@@ -19354,6 +19354,7 @@ colonisationist
 colonise
 celiectasia
 colonised
+cruciate
 cyrtidae
 colonizable
 colonize
@@ -24821,7 +24822,6 @@ coracii
 coryzas
 coracle
 cathect
-cruciate
 clipeus
 calcimeter
 coracobrachialis
