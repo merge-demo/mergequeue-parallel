@@ -3427,7 +3427,6 @@ dorism
 defoil
 dorsabdominally
 dorsobranchiata
-defoliants
 defoliate
 disjunct
 dichroscope
@@ -13629,6 +13628,7 @@ disinfections
 deaurate
 degrain
 dissentingly
+defoliants
 dollfish
 decant
 dismeasurable
