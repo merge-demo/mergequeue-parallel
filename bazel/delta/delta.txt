@@ -7920,7 +7920,6 @@ dewflower
 distantly
 doormaking
 doxographer
-deoxyribose
 disjoin
 degrease
 discommon
@@ -15555,6 +15554,7 @@ disinherited
 damnableness
 doming
 decalomania
+deoxyribose
 demurer
 denis
 dishwares
