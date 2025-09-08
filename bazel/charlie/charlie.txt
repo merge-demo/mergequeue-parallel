@@ -2154,6 +2154,7 @@ cornamute
 campo
 creedbound
 campody
+cytoblastema
 campong
 campongs
 cosmo
@@ -14787,7 +14788,6 @@ cetraria
 copremia
 cytoarchitectural
 cytoblast
-cytoblastema
 cablese
 cytoblastemal
 caseless
