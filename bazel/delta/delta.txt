@@ -3388,7 +3388,6 @@ dongolas
 duelists
 diaspores
 dehumidifier
-damp
 dragoon
 dunite
 denazified
@@ -17783,6 +17782,7 @@ disposer
 drunt
 deinotherium
 ducaton
+damp
 ducats
 dringle
 ducdame
