@@ -20453,7 +20453,6 @@ company
 creped
 cascables
 companias
-condensative
 connie
 companied
 confessionaries
@@ -30921,6 +30920,7 @@ cacatua
 cultus
 chloroform
 clews
+condensative
 culverhouse
 culveriner
 corsesque
