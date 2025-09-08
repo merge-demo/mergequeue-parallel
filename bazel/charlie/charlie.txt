@@ -2622,7 +2622,6 @@ canfields
 cantillating
 canfuls
 clumsiness
-cangy
 cangia
 constitutively
 cangler
@@ -31737,6 +31736,7 @@ changing
 customableness
 customably
 catfishes
+cangy
 customance
 customaries
 consubstantiationist
