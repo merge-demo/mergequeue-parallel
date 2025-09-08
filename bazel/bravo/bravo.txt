@@ -4312,6 +4312,7 @@ bilingualism
 becircled
 botfly
 beck
+buoyance
 bowman
 brickier
 becky
@@ -11064,7 +11065,6 @@ blockship
 blodite
 besmeared
 barrooms
-buoyance
 bodikin
 bridling
 backbreaking
