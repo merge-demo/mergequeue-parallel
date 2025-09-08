@@ -3164,7 +3164,6 @@ blanda
 biddie
 bayete
 bashers
-baals
 bashibazouk
 backtracks
 brocket
@@ -11027,6 +11026,7 @@ bidet
 blockaded
 bruet
 bibberies
+baals
 bichromatize
 blockboard
 biopsychic
