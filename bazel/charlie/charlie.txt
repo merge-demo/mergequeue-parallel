@@ -4502,7 +4502,6 @@ carns
 chamaecistus
 caro
 cuarto
-caroa
 colleger
 commonsensible
 cryonics
@@ -16302,6 +16301,7 @@ clypeastridea
 clypeastrina
 clypeastroid
 carnivaller
+caroa
 clypeate
 conspicuous
 chowk
