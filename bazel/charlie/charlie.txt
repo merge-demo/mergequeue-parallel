@@ -3566,6 +3566,7 @@ claik
 carabines
 coprahs
 cumulous
+clevises
 calefaction
 carabiniere
 carabinieri
@@ -10671,7 +10672,6 @@ cutlass
 carpellary
 calciclase
 chytridial
-clevises
 cantharidated
 chimneyless
 chimneyman
