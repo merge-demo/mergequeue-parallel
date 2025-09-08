@@ -8960,6 +8960,7 @@ allowancing
 alkalises
 ammonoid
 allowed
+asserters
 acquiescing
 aftermarriage
 allower
@@ -16608,7 +16609,6 @@ antilogical
 abjuration
 accoutrements
 autolaryngoscope
-asserters
 arkansan
 auricomous
 aphacia
