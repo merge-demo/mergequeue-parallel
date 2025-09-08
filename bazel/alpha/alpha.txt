@@ -2632,7 +2632,6 @@ aviations
 appalachian
 agamospore
 acryl
-armored
 acrylate
 alco
 austin
@@ -14794,6 +14793,7 @@ anticking
 aitesis
 asseth
 akha
+armored
 anticlassical
 apprehend
 antiaphthic
