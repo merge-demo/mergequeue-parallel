@@ -7292,6 +7292,7 @@ antrum
 adversus
 animalist
 angili
+anisomelia
 astrogate
 archiepiscopate
 annexe
@@ -15884,7 +15885,6 @@ autoloading
 antirabies
 antioptimist
 aponeurositis
-anisomelia
 antirachitically
 arecolidine
 apprehendable
