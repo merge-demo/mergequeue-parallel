@@ -14502,7 +14502,6 @@ dressmaker
 doneness
 decenaries
 dimethylamine
-divert
 defenestration
 dioptrometer
 dasyphyllous
@@ -15419,6 +15418,7 @@ dysphoric
 deducible
 dissectible
 dendroclastic
+divert
 decelerate
 dejecture
 decalcomania

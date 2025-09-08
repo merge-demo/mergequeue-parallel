@@ -3369,6 +3369,7 @@ cote
 ceilidhe
 capri
 capric
+clarencieux
 capriccetto
 capricci
 capriccio
@@ -19128,7 +19129,6 @@ comedia
 coeds
 chiefess
 cabalism
-clarencieux
 cardiasthma
 chloridizing
 collimated
