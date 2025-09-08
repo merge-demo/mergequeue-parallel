@@ -2442,6 +2442,7 @@ blesbucks
 beanpole
 brachycranic
 barer
+boletus
 bibliolater
 bares
 bounceably
@@ -6167,7 +6168,6 @@ beplague
 benjaminite
 bridgeway
 britannic
-boletus
 benjamins
 beakful
 benne
