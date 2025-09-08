@@ -5234,6 +5234,7 @@ carotidean
 cellarers
 cast
 castable
+confederationist
 castalides
 cardiopuncture
 chertier
@@ -21893,7 +21894,6 @@ complimentary
 chirognostic
 counties
 confederation
-confederationist
 centrodorsally
 cadelle
 congiary
