@@ -3926,6 +3926,7 @@ demes
 delayer
 disseisoress
 delayful
+det
 dunlap
 dooli
 deflagrability
@@ -12948,7 +12949,6 @@ disquisiting
 drimys
 duskiest
 dhikrs
-det
 deceptible
 dissatisfies
 divisionism
