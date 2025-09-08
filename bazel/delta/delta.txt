@@ -3416,7 +3416,6 @@ dormered
 drogh
 didelphous
 dorism
-defoil
 dorsabdominally
 dorsobranchiata
 defoliate
@@ -4281,6 +4280,7 @@ delusionary
 delusions
 delusively
 deporting
+defoil
 doover
 dichotomous
 digallate
