@@ -7912,7 +7912,6 @@ cholecalciferol
 chab
 celibate
 chabasite
-counterclockwise
 chabazite
 celiosalpingectomy
 cucullately
@@ -17221,6 +17220,7 @@ coagulative
 cuttingness
 chrysophenine
 capsaicin
+counterclockwise
 coagulator
 coagulators
 chagrined
