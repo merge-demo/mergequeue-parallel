@@ -13710,6 +13710,7 @@ clinah
 cinclus
 cephalocathartic
 cinct
+cure
 chisels
 crevalles
 caupones
@@ -30483,7 +30484,6 @@ correctives
 cephalology
 carsten
 cubera
-cure
 cubers
 coachers
 cubes
