@@ -12700,6 +12700,7 @@ blacklegging
 baronry
 begut
 bepreach
+burhmoot
 burnishment
 bistort
 becloaked
@@ -17598,7 +17599,6 @@ bistorts
 balladwise
 bhakta
 boulterer
-burhmoot
 bombic
 bickerers
 bicentenarnaries
