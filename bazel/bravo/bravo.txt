@@ -6105,7 +6105,6 @@ brangle
 bancos
 bushlands
 bravo
-benefices
 bluebonnet
 bromvoel
 biophore
@@ -8038,6 +8037,7 @@ boondocks
 bookkeepers
 beleaguering
 becarpet
+benefices
 barbadian
 beemen
 brandise
