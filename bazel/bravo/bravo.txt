@@ -4337,7 +4337,6 @@ beldam
 bunyip
 byworks
 brise
-bonairness
 bagne
 breakwater
 behoney
@@ -7234,6 +7233,7 @@ bigotish
 bethankit
 bethel
 befamilied
+bonairness
 billfishes
 blunter
 boletaceous
