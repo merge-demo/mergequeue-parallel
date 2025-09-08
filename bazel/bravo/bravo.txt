@@ -6100,6 +6100,7 @@ beneficed
 brangle
 bancos
 bushlands
+bologna
 bravo
 bluebonnet
 bromvoel
@@ -13028,7 +13029,6 @@ blizzard
 buddhic
 bored
 boreen
-bologna
 backsetting
 burdash
 balladeer
