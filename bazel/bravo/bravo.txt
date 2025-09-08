@@ -4746,7 +4746,6 @@ badmouth
 branchia
 bribe
 bedspring
-benedicite
 brazenface
 bikh
 broletto
@@ -10395,6 +10394,7 @@ blaoner
 backyarder
 blares
 besauce
+benedicite
 babiches
 boongary
 blaring
