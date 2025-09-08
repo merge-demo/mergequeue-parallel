@@ -6839,7 +6839,6 @@ clocklike
 crossable
 cranially
 celtuce
-closefisted
 curiousnesses
 cembalos
 cyclase
@@ -22293,6 +22292,7 @@ conglomerating
 conglomeration
 corticin
 conglomerations
+closefisted
 conglomeritic
 conglutinant
 crossopodia
