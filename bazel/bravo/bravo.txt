@@ -12378,7 +12378,6 @@ barker
 bushiness
 bedlamp
 bedwarf
-banisterine
 bond
 bipinnatifid
 barnburner
@@ -16111,6 +16110,7 @@ blandish
 bokos
 bigaroon
 bryologies
+banisterine
 breadstuffs
 brouhaha
 broussonetia

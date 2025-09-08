@@ -5520,6 +5520,7 @@ auspiciously
 antilopinae
 altininck
 acrocoracoid
+arachnoidal
 accrue
 axbreaker
 agacerie
@@ -15263,7 +15264,6 @@ aposematic
 araneology
 anthropomorphize
 antikings
-arachnoidal
 albatros
 azelate
 aviatory
