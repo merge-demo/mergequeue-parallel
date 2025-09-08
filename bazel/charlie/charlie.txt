@@ -12900,7 +12900,6 @@ chute
 chuted
 calyon
 chuter
-chromatometer
 chutists
 cydonian
 cocurrent
@@ -27935,6 +27934,7 @@ crag
 craggan
 confers
 countersignature
+chromatometer
 craggy
 chromoscopic
 cataphylla
