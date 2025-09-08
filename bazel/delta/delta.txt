@@ -2711,6 +2711,7 @@ decortication
 decorticosis
 donas
 disoperation
+diagrams
 decorum
 diamber
 dirige
@@ -8301,7 +8302,6 @@ dynamiting
 dagesh
 digitation
 doombook
-diagrams
 db
 dispossess
 dimethyltryptamine
