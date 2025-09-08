@@ -3093,6 +3093,7 @@ downfolded
 defaults
 defaulture
 dayworker
+detritus
 denumberment
 defeasanced
 dialings
@@ -8430,7 +8431,6 @@ diallelus
 dysphasic
 drowned
 diallings
-detritus
 deliracy
 disciplines
 dialog
