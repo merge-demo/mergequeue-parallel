@@ -5842,7 +5842,6 @@ cathects
 cathedra
 cathedraled
 cathedralesque
-cavorter
 clasp
 cathedras
 chronophotograph
@@ -15005,6 +15004,7 @@ civets
 coadjutrice
 curiomaniac
 converses
+cavorter
 citropten
 cydippian
 civically
