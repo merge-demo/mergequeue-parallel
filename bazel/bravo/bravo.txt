@@ -3543,7 +3543,6 @@ bibbers
 baygall
 batikuling
 barricade
-brushy
 berkeleyite
 bakula
 bien
@@ -18295,6 +18294,7 @@ basaltoid
 buttonbush
 borealis
 bivalve
+brushy
 bassets
 buttoner
 buttoners
