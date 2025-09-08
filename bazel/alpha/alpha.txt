@@ -10348,7 +10348,6 @@ ameers
 alkanna
 abbeys
 alchymy
-amethystine
 amethodically
 ametoecious
 absurdum
@@ -16873,6 +16872,7 @@ aplacentaria
 aplacophorous
 anton
 ageratum
+amethystine
 affectedness
 angliae
 anchoic
