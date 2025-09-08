@@ -2756,6 +2756,7 @@ acromiohumeral
 acromiosternal
 antichurchian
 acromiothoracic
+apicitis
 addaxes
 actuals
 acromyotonus
@@ -17482,7 +17483,6 @@ appease
 alclad
 aulostoma
 accusations
-apicitis
 autonomic
 anhydrize
 appeasements
