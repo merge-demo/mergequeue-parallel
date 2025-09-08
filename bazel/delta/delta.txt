@@ -91,6 +91,7 @@ deltal
 disdar
 dobbin
 damning
+defalcated
 direcly
 deescalating
 dumb
@@ -3049,7 +3050,6 @@ defacing
 defacto
 defade
 defaitiste
-defalcated
 doleful
 diethyltryptamine
 digraphs
