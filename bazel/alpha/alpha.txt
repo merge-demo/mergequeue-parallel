@@ -12076,7 +12076,6 @@ anchor
 adhesional
 alveolites
 anchorable
-anchorages
 anchorate
 actinodermatitis
 anchoress
@@ -20395,6 +20394,7 @@ autoicous
 assalto
 adusk
 agilmente
+anchorages
 arterioarctia
 ambushment
 asg
