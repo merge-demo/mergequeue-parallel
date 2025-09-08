@@ -5768,7 +5768,6 @@ bemata
 beleaps
 bldg
 bricks
-benefactrix
 beyonds
 bellicist
 bromometry
@@ -9567,6 +9566,7 @@ bisymmetry
 bushily
 bandmasters
 bisymmetrical
+benefactrix
 bermudian
 bigg
 bandwagons
