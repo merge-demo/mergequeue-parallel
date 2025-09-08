@@ -3137,6 +3137,7 @@ dulciana
 defectum
 dummkopf
 dasyures
+daggle
 damselflies
 dudelsack
 dashpot
@@ -3219,7 +3220,6 @@ defuzed
 denuded
 dilatement
 demonstrater
-daggle
 defeatment
 deleteriously
 donations
