@@ -7708,7 +7708,6 @@ adoze
 arctia
 abreuvoir
 alea
-apodictic
 aleak
 aleatory
 aleatoric
@@ -8722,6 +8721,7 @@ alants
 antiministerialist
 allivalite
 arthropyosis
+apodictic
 allo
 anoesia
 atmogenic
