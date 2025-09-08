@@ -8460,7 +8460,6 @@ botryomycotic
 bejeweling
 barabra
 bo
-bunting
 bedder
 barricading
 billboards
@@ -12599,6 +12598,7 @@ blueth
 burghmoot
 braccia
 bestowable
+bunting
 boogeymen
 backfold
 bane
