@@ -8821,7 +8821,6 @@ achromatizable
 adamantoma
 astroalchemist
 agnathostomatous
-allographic
 araneid
 alloyage
 aeroporotomy
@@ -9349,6 +9348,7 @@ alsophila
 alstonia
 anchylotic
 amphiblastic
+allographic
 alstonite
 alstroemeria
 alsweill
