@@ -2124,7 +2124,6 @@ doh
 detectors
 diabolology
 downtime
-disturbs
 diosmosis
 decantist
 daza
@@ -5993,6 +5992,7 @@ depth
 dispraise
 droopy
 detonize
+disturbs
 dentiled
 domajigger
 dining

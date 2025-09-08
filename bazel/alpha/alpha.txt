@@ -9541,7 +9541,6 @@ amarvel
 aluminyl
 aponeurorrhaphy
 abbreviature
-alviducous
 abominable
 archchief
 anaphroditic
@@ -24600,6 +24599,7 @@ apodeipna
 ailie
 avenary
 avenge
+alviducous
 actinomycin
 achromatic
 absurdness
