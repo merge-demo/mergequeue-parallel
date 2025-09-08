@@ -6414,7 +6414,6 @@ bosun
 beleaguer
 backdown
 bepepper
-ballat
 bullweed
 baboot
 bloodwit
@@ -18237,6 +18236,7 @@ buttermaker
 byordinary
 backflip
 butterman
+ballat
 bootblacks
 buttermilk
 bastardy
