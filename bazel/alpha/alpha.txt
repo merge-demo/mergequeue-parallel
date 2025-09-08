@@ -2971,7 +2971,6 @@ anilinophilous
 arvicole
 alligatoring
 alluvion
-advertisements
 administrants
 astringently
 aught
@@ -17607,6 +17606,7 @@ appetiser
 atlantad
 alerted
 appetite
+advertisements
 algaroth
 amercer
 autographist
