@@ -16116,6 +16116,7 @@ clifflike
 capacities
 canuck
 creators
+corticine
 calamints
 conning
 cliffside
@@ -25893,7 +25894,6 @@ cortices
 cordula
 corticifugally
 chalinidae
-corticine
 corticipetal
 collegiate
 corticoafferent
