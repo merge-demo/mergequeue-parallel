@@ -12150,7 +12150,6 @@ caducity
 chrysalises
 cardiaplegia
 chrysaloid
-couxio
 constances
 concausal
 clonk
@@ -23979,6 +23978,7 @@ chromophyl
 convectively
 catachrestic
 clods
+couxio
 chromatograph
 counterpoises
 carpetbagged
