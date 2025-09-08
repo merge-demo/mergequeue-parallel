@@ -10950,7 +10950,6 @@ disculpate
 decerebrize
 diruption
 dereference
-deployed
 disable
 denazify
 disabled
@@ -10978,6 +10977,7 @@ disaccomodate
 diocletian
 dromons
 disaccredit
+deployed
 droplike
 diclytra
 disunionism
