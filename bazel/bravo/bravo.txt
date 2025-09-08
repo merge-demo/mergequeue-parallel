@@ -941,7 +941,6 @@ batoneer
 belligerently
 bagsful
 bequirtle
-barographs
 bazookaman
 breezes
 bassalian
@@ -9704,6 +9703,7 @@ bemixing
 biophysicochemical
 braved
 bathhouses
+barographs
 bystreets
 beerothite
 bistres
