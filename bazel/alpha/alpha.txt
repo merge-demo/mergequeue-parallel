@@ -6643,6 +6643,7 @@ aircraftsman
 aneurine
 aquarist
 affrontiveness
+achamoth
 aircraftsmen
 aircraftwoman
 aircrew
@@ -11514,7 +11515,6 @@ almous
 advertise
 aubin
 anachronismatical
-achamoth
 agars
 afright
 animalish
