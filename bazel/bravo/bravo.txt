@@ -2129,7 +2129,6 @@ bulletmaker
 beerishly
 bribery
 bantu
-bantus
 brahmahood
 barbellulae
 blandfordia
@@ -11782,6 +11781,7 @@ barriers
 bodhisattwa
 bikes
 bodybending
+bantus
 bailees
 barlafumble
 bodybuilder
