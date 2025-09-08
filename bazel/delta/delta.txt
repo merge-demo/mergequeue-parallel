@@ -3413,7 +3413,6 @@ disavowance
 damned
 dormy
 discontented
-defoedation
 defogged
 dormered
 drogh
@@ -10672,6 +10671,7 @@ dosology
 deviously
 diphenan
 dulias
+defoedation
 dyssodia
 drey
 digammated
