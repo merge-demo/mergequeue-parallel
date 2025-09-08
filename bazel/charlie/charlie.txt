@@ -3119,7 +3119,6 @@ capelan
 capelans
 capelin
 cornette
-capeline
 crocked
 capelins
 capella
@@ -31254,6 +31253,7 @@ cyprians
 curatess
 costaea
 curation
+capeline
 cutworks
 curative
 curupey
