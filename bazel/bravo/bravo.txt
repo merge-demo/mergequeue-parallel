@@ -2726,7 +2726,6 @@ brainsick
 balandrana
 beladies
 bletilla
-barognosis
 bellypiece
 batholitic
 baroko
@@ -8609,6 +8608,7 @@ bradsot
 bournless
 bimanually
 breechloading
+barognosis
 basaltes
 barbadoes
 bourbonist
