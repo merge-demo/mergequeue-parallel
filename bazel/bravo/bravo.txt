@@ -14109,7 +14109,6 @@ bullwhip
 belemnitidae
 brachium
 brachyuran
-bezant
 bayed
 brotherton
 brushability
@@ -17179,6 +17178,7 @@ basseting
 bumblepuppy
 bespecklement
 beltene
+bezant
 bedriveled
 blamably
 bawly
