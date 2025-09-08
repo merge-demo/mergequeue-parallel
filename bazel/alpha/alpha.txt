@@ -9142,7 +9142,6 @@ angles
 alnuin
 alo
 alocasia
-aribine
 alody
 alopiidae
 alodialism
@@ -17305,6 +17304,7 @@ arias
 aerobacteriologically
 agoramania
 aliment
+aribine
 ampuls
 apostrophes
 affixed
