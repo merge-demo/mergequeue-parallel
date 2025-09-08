@@ -7226,7 +7226,6 @@ albatas
 alkaid
 alcoved
 apologize
-africander
 awmbrie
 ariole
 anglesite
@@ -13493,6 +13492,7 @@ anguinidae
 annulling
 annulment
 aspidate
+africander
 annuloid
 autoaddress
 akaakai
