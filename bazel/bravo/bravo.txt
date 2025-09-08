@@ -11775,7 +11775,6 @@ brashes
 barriers
 bodhisattwa
 bikes
-bodybending
 bantus
 bailees
 barlafumble
@@ -14484,6 +14483,7 @@ biopsychologist
 bicycloheptane
 bibliogony
 bottomless
+bodybending
 branchiopod
 belozenged
 branchiopoda
