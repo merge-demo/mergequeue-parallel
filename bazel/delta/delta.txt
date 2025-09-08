@@ -7644,7 +7644,6 @@ disabler
 devastative
 devata
 devaul
-deoxygenating
 degaussed
 deveined
 disbursements
@@ -14244,6 +14243,7 @@ disprofess
 deteriorism
 dixiecrat
 devilled
+deoxygenating
 demobilizing
 deeds
 delegation
