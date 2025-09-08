@@ -4541,7 +4541,6 @@ demigardebras
 decentres
 dunbird
 detroiter
-demigauntlet
 doting
 dicolic
 disclosing
@@ -7847,6 +7846,7 @@ dunst
 discriminativeness
 devotedness
 dialogistical
+demigauntlet
 defalcator
 dalecarlian
 disallowed
