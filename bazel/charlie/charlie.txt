@@ -9383,6 +9383,7 @@ chazan
 chazanim
 chazans
 chazanut
+chimonanthus
 chazy
 chuting
 circularwise
@@ -14095,7 +14096,6 @@ chancily
 circue
 circuit
 circuital
-chimonanthus
 circuiteer
 chullpa
 cypresses
