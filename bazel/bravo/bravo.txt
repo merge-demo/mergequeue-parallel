@@ -2729,6 +2729,7 @@ bellypiece
 batholitic
 baroko
 bubastite
+barse
 backward
 boylas
 beltline
@@ -11263,7 +11264,6 @@ blowse
 brigantia
 brethren
 bargeman
-barse
 baith
 bespoused
 befur
