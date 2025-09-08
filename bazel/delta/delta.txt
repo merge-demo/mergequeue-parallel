@@ -2412,7 +2412,6 @@ decimolar
 drainpipe
 diplacusis
 downgoing
-daker
 dangling
 denizenize
 disimprisonment
@@ -11670,6 +11669,7 @@ dunkle
 dysoxidizable
 divulgator
 disposable
+daker
 discontentedness
 discriminantal
 dognaped
