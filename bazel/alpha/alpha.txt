@@ -3836,7 +3836,6 @@ amgarn
 adjutant
 antimonopoly
 adtevac
-adjutator
 antidotically
 abede
 aqueity
@@ -4507,6 +4506,7 @@ aediles
 airbursts
 aedileship
 anthropomorphitism
+adjutator
 asidehand
 atomerg
 accessorii
