@@ -140,6 +140,7 @@ cogent
 cerberic
 colophany
 casterless
+cayleyan
 cables
 changeabout
 cabling
@@ -13265,7 +13266,6 @@ cycloolefinic
 cyclop
 cyclopaedia
 civetlike
-cayleyan
 cyclopaedist
 coquito
 chinning
