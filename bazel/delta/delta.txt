@@ -441,6 +441,7 @@ dithered
 dorsoanterior
 demonic
 dairywomen
+deaths
 descanting
 decametric
 demesgnes
@@ -1714,7 +1715,6 @@ decumaria
 deathlikeness
 dundees
 deathliness
-deaths
 deathsman
 dumble
 derogation
