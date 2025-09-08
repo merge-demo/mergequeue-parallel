@@ -8305,7 +8305,6 @@ atrienses
 ayllu
 aliunde
 asternia
-antiroyal
 acuerdo
 alives
 aleiptes
@@ -22752,6 +22751,7 @@ atomity
 analgesic
 angelito
 abricock
+antiroyal
 applicabilities
 atomizing
 autositic
