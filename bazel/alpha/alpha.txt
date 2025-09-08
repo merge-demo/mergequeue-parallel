@@ -1055,6 +1055,7 @@ amnia
 ancestorial
 abuna
 askew
+animality
 abundance
 accurtation
 amolish
@@ -22143,7 +22144,6 @@ alcibiades
 american
 antiquates
 astragalomancy
-animality
 addressees
 allolalic
 acoemetic
