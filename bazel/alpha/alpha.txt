@@ -11531,7 +11531,6 @@ ailette
 atonal
 anaclastics
 asteriated
-agglutinationist
 amal
 anacleticum
 ammeline
@@ -18016,6 +18015,7 @@ apokreos
 acutilingual
 aptote
 artocarpus
+agglutinationist
 attesters
 apus
 antechoir
