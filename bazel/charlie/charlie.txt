@@ -14237,7 +14237,6 @@ clubhouse
 carageens
 camelopardidae
 circumgyrate
-circumgyratory
 circumincession
 circuminsession
 congratulator
@@ -26380,6 +26379,7 @@ cytotrophy
 criminalist
 cotylosacral
 cotylosaur
+circumgyratory
 coinferring
 cotylosaurian
 connu
