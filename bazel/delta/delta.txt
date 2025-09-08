@@ -3933,7 +3933,6 @@ deflagrability
 delaminated
 dowieite
 dapped
-dialyser
 dispensatorily
 delaminating
 disclosable
@@ -11140,6 +11139,7 @@ debated
 difluoride
 dopester
 denumerability
+dialyser
 decernment
 divisor
 dobras
