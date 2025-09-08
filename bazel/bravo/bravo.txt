@@ -6585,7 +6585,6 @@ baseheartedness
 bergs
 beribanded
 birdy
-barbarious
 beriberis
 berycid
 busyhead
@@ -9722,6 +9721,7 @@ brokenhearted
 banderoles
 boos
 brigandish
+barbarious
 bisubstituted
 bisubstitution
 babblingly
