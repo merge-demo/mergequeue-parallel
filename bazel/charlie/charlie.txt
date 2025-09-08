@@ -21995,7 +21995,6 @@ coinsurable
 crones
 coexclusive
 configurating
-configuration
 configurationally
 configurations
 configure
@@ -23413,6 +23412,7 @@ containing
 covert
 contains
 climatize
+configuration
 canzonetta
 courtby
 contakion
