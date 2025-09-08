@@ -11183,7 +11183,6 @@ amphigastrium
 amphigean
 amphigene
 albertin
-amphigenous
 aminating
 amphigenously
 ascorbate
@@ -21160,6 +21159,7 @@ arghan
 assignors
 ahistorical
 asiatican
+amphigenous
 ankylosed
 asiaticize
 armillated
