@@ -9293,7 +9293,6 @@ birdhood
 birdhouse
 bromous
 barramundi
-bullety
 birdies
 boondocker
 butterflying
@@ -11290,6 +11289,7 @@ bhar
 bluntest
 bonds
 bedcap
+bullety
 blubberers
 balanism
 bestialising
