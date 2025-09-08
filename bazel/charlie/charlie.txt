@@ -5132,6 +5132,7 @@ carthorse
 custodiam
 chordophone
 crwth
+circumvention
 champacs
 cyans
 chefdom
@@ -14364,7 +14365,6 @@ circumvallation
 circumvented
 circumventing
 ceratiasis
-circumvention
 circumventions
 coking
 circumventor
