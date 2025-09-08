@@ -2603,7 +2603,6 @@ bears
 brittlely
 barytophyllite
 bewitchment
-blawed
 bridgelike
 barocco
 barkary
@@ -6244,6 +6243,7 @@ benzaldehyde
 beneficential
 bandeaus
 beedom
+blawed
 benzalethylamine
 benzalphenylhydrazone
 braw
