@@ -4608,6 +4608,7 @@ careerist
 cytinaceous
 composograph
 carpenters
+crankle
 carpet
 carpetbag
 carpetbagger
@@ -28139,7 +28140,6 @@ crankiness
 cranking
 counterseal
 convicting
-crankle
 cima
 contiguities
 crankling
