@@ -1877,6 +1877,7 @@ brownism
 brython
 birken
 bandhook
+barrico
 balladromic
 bandicoy
 befoam
@@ -16020,7 +16021,6 @@ bursati
 blotting
 broomstraw
 bonelessness
-barrico
 befret
 billowing
 bitesheep
