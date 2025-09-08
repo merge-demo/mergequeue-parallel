@@ -3993,7 +3993,6 @@ abided
 admonitrix
 alkalinize
 admrx
-archetypist
 appendectomies
 adnascent
 adnation
@@ -6773,6 +6772,7 @@ auriphrygiate
 airspace
 airspaces
 ancience
+archetypist
 architectonica
 apostolic
 alec
