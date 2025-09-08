@@ -1457,6 +1457,7 @@ chaetetidae
 calligrapha
 conjuration
 chemurgy
+current
 calligraphers
 caracoling
 calligraphy
@@ -31457,7 +31458,6 @@ cervicobregmatic
 complicators
 curred
 contorta
-current
 colorimetry
 currently
 cardicentesis
