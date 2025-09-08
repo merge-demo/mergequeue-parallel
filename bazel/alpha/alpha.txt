@@ -12679,7 +12679,6 @@ aeneolithic
 asynapsis
 angiopressure
 angiorrhagia
-angiorrhaphy
 amnic
 angiosarcoma
 ascher
@@ -16902,6 +16901,7 @@ anastrophia
 aplodontia
 ambitty
 aplomb
+angiorrhaphy
 amygdaliferous
 atragene
 albata
