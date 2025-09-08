@@ -1067,7 +1067,6 @@ anachronical
 apert
 ageist
 abundantly
-aquintocubital
 abune
 abura
 ausubo
@@ -16485,6 +16484,7 @@ apertures
 asonant
 apalit
 apanaged
+aquintocubital
 allozooid
 alouatta
 apanaging
