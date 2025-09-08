@@ -714,6 +714,7 @@ arteriopressor
 abradants
 anthropogeny
 aver
+adularia
 agricultures
 albronze
 abrade
@@ -1736,7 +1737,6 @@ actualist
 abuse
 aceacenaphthene
 asphyxies
-adularia
 arabis
 axilla
 assailability
