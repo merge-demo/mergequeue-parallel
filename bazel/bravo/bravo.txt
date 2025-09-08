@@ -8310,7 +8310,6 @@ bija
 bijasal
 bijections
 bree
-bijective
 brush
 bijou
 bhandar
@@ -13342,6 +13341,7 @@ bothnic
 batteled
 bodilessness
 bawn
+bijective
 biobibliographic
 bulletproofs
 bimillenniums

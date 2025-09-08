@@ -2650,7 +2650,6 @@ deconsecrated
 disappendant
 detailedness
 demitrain
-deconsideration
 decontaminates
 decontaminating
 diatessaron
@@ -7072,6 +7071,7 @@ dollhood
 diplacanthus
 dermophyte
 disincentive
+deconsideration
 destinism
 decretion
 deriv
