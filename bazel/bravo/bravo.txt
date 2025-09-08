@@ -13264,7 +13264,6 @@ blennies
 baltei
 bricktop
 bobbery
-bugproof
 beclothing
 botanica
 boweryish
@@ -16562,6 +16561,7 @@ broomy
 bucconinae
 buccopharyngeal
 brevet
+bugproof
 bucculae
 butyr
 bisons
