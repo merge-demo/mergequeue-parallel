@@ -10856,7 +10856,6 @@ biffing
 blooded
 blindfishes
 bluelegs
-blindfolded
 bassus
 butterbush
 borating
@@ -16628,6 +16627,7 @@ buckleless
 baklavas
 bleached
 bodycheck
+blindfolded
 bucklers
 bucko
 bickern
