@@ -4111,7 +4111,6 @@ birdland
 blenched
 backbend
 beastily
-beastish
 bowbells
 beastlier
 boloroot
@@ -14328,6 +14327,7 @@ bursiform
 bonebinder
 braillewriter
 boloman
+beastish
 braincap
 boletaceae
 brachiferous
