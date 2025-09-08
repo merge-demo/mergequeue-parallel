@@ -3042,7 +3042,6 @@ archigonocyte
 antimonous
 albiflorous
 antagonizer
-autoagglutinin
 allotrophic
 avertin
 adalat
@@ -18491,6 +18490,7 @@ arbutean
 arca
 anthropomorphite
 abrogates
+autoagglutinin
 alarmisms
 autoecholalia
 amboyna
