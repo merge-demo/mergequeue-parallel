@@ -2531,6 +2531,7 @@ childproof
 cacqueteuse
 candlepins
 chemist
+chamoix
 cerevis
 candler
 candlerent
@@ -6741,7 +6742,6 @@ celioscope
 cella
 coutel
 cellarage
-chamoix
 cellaress
 chanceable
 caudal
