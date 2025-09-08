@@ -10788,7 +10788,6 @@ culvert
 chipmunk
 claviharp
 chipmunks
-chrysochrous
 chipolata
 coleopteroid
 cordwain
@@ -16788,6 +16787,7 @@ cuminoin
 clouting
 connoisseurship
 cyrillic
+chrysochrous
 crampedness
 coprinus
 cytological
