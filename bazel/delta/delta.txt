@@ -9425,7 +9425,6 @@ decampment
 dipnoous
 disagreeing
 djinni
-diffusers
 daphnoid
 disenthralment
 diffuses
@@ -18671,6 +18670,7 @@ dioptral
 danaide
 dwale
 dirking
+diffusers
 draffiest
 dwarfer
 documentarily
