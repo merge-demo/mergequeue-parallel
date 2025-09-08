@@ -11623,7 +11623,6 @@ anagyrine
 anagyris
 anaglyph
 annulism
-anisopleural
 anaglyphs
 anaglypta
 anaglyptical
@@ -23133,6 +23132,7 @@ attollent
 amorousness
 attorn
 attornare
+anisopleural
 attorney
 allayer
 accumulator
