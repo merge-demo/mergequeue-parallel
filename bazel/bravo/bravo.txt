@@ -8038,7 +8038,6 @@ binous
 bracken
 bidden
 battiks
-buttal
 boondocks
 bookkeepers
 beleaguering
@@ -15721,6 +15720,7 @@ begohm
 banande
 bihalve
 barebones
+buttal
 beknived
 bemires
 bradykinin
