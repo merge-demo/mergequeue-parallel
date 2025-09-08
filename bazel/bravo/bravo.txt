@@ -522,6 +522,7 @@ baddish
 backstops
 backstrapped
 backstreet
+bahut
 blastophoric
 bombsights
 bismuthiferous
@@ -981,7 +982,6 @@ binge
 bowwort
 bradytely
 bobbing
-bahut
 bestead
 bakuninist
 bahutu
