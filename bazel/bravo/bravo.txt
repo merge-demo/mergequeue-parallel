@@ -3224,7 +3224,6 @@ bipontine
 basifugal
 barkpeel
 banner
-basilarchia
 blotchily
 basilary
 blossomless
@@ -4670,6 +4669,7 @@ bunted
 blackseed
 bord
 blasphemousness
+basilarchia
 beinked
 bakatan
 bedmate
