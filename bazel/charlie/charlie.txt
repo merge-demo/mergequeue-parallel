@@ -15741,7 +15741,6 @@ clawing
 clawk
 colobium
 clinks
-cashmerette
 couldest
 clunch
 clawker
@@ -31278,6 +31277,7 @@ coelomocoela
 cotonam
 curbline
 curbs
+cashmerette
 curbside
 curbstone
 curbstoner
