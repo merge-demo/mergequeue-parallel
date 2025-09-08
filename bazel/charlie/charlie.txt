@@ -5041,6 +5041,7 @@ caseinogen
 caseload
 clintonia
 coincidently
+centenar
 caprylene
 casemaking
 casemates
@@ -6978,7 +6979,6 @@ cyanidrosis
 centauromachy
 centauromachia
 censured
-centenar
 constringent
 carrefour
 centenier
