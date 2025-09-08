@@ -7952,7 +7952,6 @@ algaecide
 archhouse
 algaeological
 acephalism
-algaeologist
 apostolicalness
 acetose
 advisory
@@ -14680,6 +14679,7 @@ autoindex
 allocution
 anticeremonious
 anteroom
+algaeologist
 acceptancy
 affectioned
 archgomeral
