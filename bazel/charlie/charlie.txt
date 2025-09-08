@@ -8623,6 +8623,7 @@ campagnols
 chantingly
 chantment
 carman
+comps
 commonest
 cheiloplasties
 chantry
@@ -24061,7 +24062,6 @@ crampy
 coiling
 cryptocephala
 convergences
-comps
 convergency
 columbary
 camponotus
