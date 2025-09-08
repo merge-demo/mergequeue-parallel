@@ -5106,7 +5106,6 @@ bainite
 befools
 budworm
 biotic
-boomorah
 broadside
 beggarer
 buccinatory
@@ -8362,6 +8361,7 @@ bilcock
 blearyeyedness
 bravery
 bellehood
+boomorah
 bildar
 bencite
 bilder
