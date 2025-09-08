@@ -1909,7 +1909,6 @@ curbless
 cranioclasm
 cameral
 cameralism
-condominium
 cameralistics
 cameraman
 cameras
@@ -5470,6 +5469,7 @@ copr
 cofactor
 catalyses
 catalyte
+condominium
 cyclopean
 cabalassou
 consigne
