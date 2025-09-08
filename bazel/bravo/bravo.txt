@@ -2565,7 +2565,6 @@ baryon
 bookshop
 baryphonia
 bolographically
-bootie
 baryphonic
 banzai
 babbitter
@@ -4178,6 +4177,7 @@ beausire
 baryte
 beauteous
 beauti
+bootie
 beauty
 brachyphalangia
 brutalness
