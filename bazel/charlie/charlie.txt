@@ -8705,6 +8705,7 @@ chaperonage
 chaperone
 catesbeiana
 cirsium
+chints
 chapes
 clinicians
 chapin
@@ -27061,7 +27062,6 @@ carpent
 castanet
 counterscarp
 counterscoff
-chints
 counterscrutiny
 cancelation
 cuticular
