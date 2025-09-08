@@ -5334,6 +5334,7 @@ divulgence
 diallists
 dispositions
 disblame
+disprofit
 daraf
 diaphoretic
 displaced
@@ -5891,7 +5892,6 @@ deontic
 deodars
 diablene
 decryptions
-disprofit
 diploptera
 dyscrasy
 depressed
