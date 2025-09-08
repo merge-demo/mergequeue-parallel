@@ -3166,7 +3166,6 @@ aedine
 appendage
 axal
 acutilobate
-acutiplantar
 atterminal
 alevins
 archibenthos
@@ -22836,6 +22835,7 @@ argyraspides
 asquat
 atriplex
 atrypoid
+acutiplantar
 antigovernment
 atriums
 analepsy
