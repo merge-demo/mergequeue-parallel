@@ -2013,6 +2013,7 @@ aeropulse
 autoscopy
 andantini
 acheron
+almach
 apostematous
 acheronian
 achroous
@@ -12084,7 +12085,6 @@ acquittals
 amblyopsis
 angiometer
 altruism
-almach
 anticourt
 anchorite
 aguishness
