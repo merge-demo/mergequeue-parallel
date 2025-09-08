@@ -14426,7 +14426,6 @@ dhaman
 diurna
 derri
 dyer
-diurnal
 deuterogenic
 diurnally
 drug
@@ -16631,6 +16630,7 @@ draft
 dragee
 disputed
 dragger
+diurnal
 draggers
 draggier
 diacritics
