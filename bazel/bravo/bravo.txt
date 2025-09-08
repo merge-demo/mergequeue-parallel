@@ -4686,6 +4686,7 @@ brunts
 bruisers
 bries
 beeball
+bordman
 besplit
 bedpost
 bypasses
@@ -10292,7 +10293,6 @@ bromize
 bounderish
 bamboozlers
 beshrouding
-bordman
 bensall
 binomenclature
 blame
