@@ -2359,7 +2359,6 @@ canc
 canceled
 canceleer
 canceler
-cancellable
 contrasters
 cyprinidae
 cancellarius
@@ -26942,6 +26941,7 @@ counteroffensive
 counteroffer
 counteropening
 culotte
+cancellable
 carbethoxyl
 counteropposite
 chiococcine
