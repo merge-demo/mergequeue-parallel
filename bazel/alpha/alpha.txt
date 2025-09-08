@@ -6049,7 +6049,6 @@ agnations
 agnel
 acetobenzoic
 amoinder
-affranchised
 audiophile
 antiinstitutionalists
 autodidact
@@ -13435,6 +13434,7 @@ annoyer
 adventurers
 annoyingly
 authigenic
+affranchised
 atomical
 armada
 acropodia
