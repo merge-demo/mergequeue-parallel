@@ -6638,7 +6638,6 @@ airbusses
 atenist
 aquas
 axometer
-arid
 aircraftsman
 aneurine
 aquarist
@@ -15226,6 +15225,7 @@ angledog
 antihierarchism
 amortise
 antihygienic
+arid
 annoy
 adenocyst
 antihygienically
