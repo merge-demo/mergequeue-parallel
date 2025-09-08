@@ -454,6 +454,7 @@ dhourra
 dairous
 dairt
 dais
+dentel
 deducer
 dingthrift
 disinthrall
@@ -11936,7 +11937,6 @@ diallagoid
 delations
 deflagrating
 drawknives
-dentel
 dragonnade
 dieri
 dewier
