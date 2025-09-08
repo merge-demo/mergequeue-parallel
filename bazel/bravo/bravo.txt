@@ -1832,7 +1832,6 @@ banak
 bemuse
 bananaland
 benzyls
-bananivorous
 becharm
 brainiest
 bancha
@@ -1943,6 +1942,7 @@ bework
 basilicae
 besoms
 boreus
+bananivorous
 bandsman
 bandstand
 broaches
