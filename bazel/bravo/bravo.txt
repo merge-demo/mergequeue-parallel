@@ -3358,6 +3358,7 @@ broadcasting
 bottlesful
 bass
 blankeel
+bullbeggar
 booking
 bedchamber
 brans
@@ -6552,7 +6553,6 @@ berede
 berengaria
 bursate
 bailment
-bullbeggar
 braziery
 bicolourous
 bronchioles
