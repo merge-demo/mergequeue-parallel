@@ -12753,7 +12753,6 @@ abscise
 anglice
 anglicisation
 anticatalytic
-apolysin
 anatabine
 annalize
 anglicization
@@ -24336,6 +24335,7 @@ anisocoria
 autos
 autosauri
 acritude
+apolysin
 actinopterygious
 assoilzie
 autoschediasm

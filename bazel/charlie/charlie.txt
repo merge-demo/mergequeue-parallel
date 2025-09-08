@@ -4858,6 +4858,7 @@ cutleriaceae
 cartier
 coming
 cartiest
+checksum
 cartilaginei
 checkline
 clogger
@@ -9523,7 +9524,6 @@ chapatty
 checkstring
 candys
 cuissen
-checksum
 construct
 coud
 checksumming
