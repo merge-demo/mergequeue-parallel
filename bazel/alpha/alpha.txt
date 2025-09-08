@@ -5577,7 +5577,6 @@ arthrodial
 adiposes
 adoptative
 adulter
-agama
 awning
 agamemnon
 angulates
@@ -20253,6 +20252,7 @@ anormal
 arrowlike
 aminoazobenzene
 anasazi
+agama
 arrowplate
 abortifacient
 adenectopic
