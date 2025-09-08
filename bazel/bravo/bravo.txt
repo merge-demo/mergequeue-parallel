@@ -2541,6 +2541,7 @@ broadhorn
 bilamellar
 begster
 brained
+barbarians
 bosque
 burghalpenny
 bloodberry
@@ -14485,7 +14486,6 @@ bicycloheptane
 bibliogony
 bottomless
 branchiopod
-barbarians
 belozenged
 branchiopoda
 branner
