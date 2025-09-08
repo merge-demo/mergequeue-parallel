@@ -9585,7 +9585,6 @@ digladiating
 decken
 duellos
 diglots
-despondency
 desmatippus
 dendritiform
 disenchantment
@@ -15798,6 +15797,7 @@ dopier
 docile
 dysporomorph
 dunce
+despondency
 dartrose
 didrachma
 decollator
