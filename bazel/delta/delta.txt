@@ -3514,7 +3514,6 @@ dollface
 deul
 disfrock
 dislimb
-diethylamine
 disenchanter
 defunctionalize
 defusion
@@ -15051,6 +15050,7 @@ dodecarch
 dodecasemic
 decadi
 dodecasyllable
+diethylamine
 dwellings
 dodecastylar
 discretionarily
