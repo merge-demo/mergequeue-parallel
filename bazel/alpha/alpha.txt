@@ -1959,6 +1959,7 @@ agynous
 anticipatory
 aurocyanide
 ambrosterol
+aswirl
 aerobiont
 acetostearin
 acetothienone
@@ -9253,7 +9254,6 @@ alpen
 axstone
 alpenglow
 ammoniated
-aswirl
 aerogram
 alpenstocks
 alpestral
