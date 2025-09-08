@@ -2066,7 +2066,6 @@ bannerline
 bannerole
 blossomry
 betide
-bronchus
 bcf
 blinkingly
 bannerols
@@ -7714,6 +7713,7 @@ breach
 bellum
 birchman
 biangulate
+bronchus
 byelorussian
 baluchitheria
 biannually
