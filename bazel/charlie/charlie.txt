@@ -21954,7 +21954,6 @@ confessor
 confessorship
 confetti
 conocephalus
-confidant
 cymbella
 confidante
 cosmecology
@@ -30579,6 +30578,7 @@ cucoline
 cucuy
 chunnia
 cucujid
+confidant
 chloranemia
 corkscrewing
 cucujus
