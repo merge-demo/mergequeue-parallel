@@ -7199,6 +7199,7 @@ betake
 buckshees
 betakes
 betaking
+bontequagga
 beneventana
 blowby
 beulah
@@ -12714,7 +12715,6 @@ blowcase
 barracking
 bullneck
 biparous
-bontequagga
 broods
 biyearly
 booksellerism
