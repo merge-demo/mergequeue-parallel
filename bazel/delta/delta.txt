@@ -11091,7 +11091,6 @@ dobbers
 diaka
 disparities
 directoire
-decurrency
 divides
 deanthropomorphic
 dialyphyllous
@@ -16233,6 +16232,7 @@ dour
 dourah
 drochuil
 domify
+decurrency
 dendrocoelous
 dourer
 dourest
