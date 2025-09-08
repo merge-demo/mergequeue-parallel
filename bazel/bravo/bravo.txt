@@ -8962,7 +8962,6 @@ busheler
 barbershop
 biontic
 biophagism
-biophilous
 bleach
 beglooming
 biophysic
@@ -14824,6 +14823,7 @@ breakpoint
 breaks
 besselian
 bricktimber
+biophilous
 babooism
 bugologist
 breves

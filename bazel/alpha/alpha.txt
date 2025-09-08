@@ -7735,7 +7735,6 @@ agroof
 aprosopia
 arbors
 apachism
-alectoromachy
 angiospermae
 amphibiological
 alectoropodous
@@ -7806,6 +7805,7 @@ autonomize
 alerce
 anarithmia
 alerse
+alectoromachy
 agglutinates
 alerta
 anticrepuscule
