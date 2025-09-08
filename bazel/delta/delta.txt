@@ -5074,7 +5074,6 @@ decalogist
 dendrochirota
 dessicate
 daimyos
-describing
 durante
 disenabling
 deadrise
@@ -15193,6 +15192,7 @@ dl
 drapet
 dyn
 dhamma
+describing
 dibbukim
 demulsify
 diskery
