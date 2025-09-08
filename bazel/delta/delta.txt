@@ -6773,6 +6773,7 @@ drachma
 daira
 deftnesses
 desires
+dyarchy
 demilustre
 dihedrons
 desirous
@@ -8622,7 +8623,6 @@ discolored
 deathin
 disrated
 douanier
-dyarchy
 deadbeat
 dehydrant
 dextrorse
