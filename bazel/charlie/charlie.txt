@@ -3625,6 +3625,7 @@ carangin
 carangoid
 coemptive
 chabutra
+ceil
 cicatrisive
 caranna
 couloirs
@@ -6580,7 +6581,6 @@ criminously
 cursorial
 ceibo
 counterthrust
-ceil
 clamoring
 celestine
 ceilers

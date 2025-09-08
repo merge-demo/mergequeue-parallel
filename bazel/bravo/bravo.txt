@@ -160,7 +160,6 @@ backlog
 bassine
 bethylidae
 biblicality
-biconnected
 babkas
 beinness
 bolshevists
@@ -1079,6 +1078,7 @@ becost
 barrulet
 browless
 blousier
+biconnected
 bates
 buzzards
 bailors
