@@ -1318,7 +1318,6 @@ deselecting
 dauke
 dumba
 dorsigerous
-demodulator
 delegations
 departure
 daundering
@@ -1356,6 +1355,7 @@ denierage
 diatomin
 doyennes
 derry
+demodulator
 dave
 disgorging
 disna
