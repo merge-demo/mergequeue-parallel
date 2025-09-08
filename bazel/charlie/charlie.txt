@@ -3526,6 +3526,7 @@ capuched
 cinnamic
 chortler
 counterbase
+chorusmaster
 capulet
 capulin
 caput
@@ -12036,7 +12037,6 @@ chanceries
 crisp
 crusca
 casal
-chorusmaster
 chairwoman
 chorussed
 chorusses
