@@ -10679,6 +10679,7 @@ balls
 batties
 bactericidal
 baalisms
+beeswings
 blennogenous
 begging
 brushup
@@ -13284,7 +13285,6 @@ bemat
 bradburya
 botaurus
 blooie
-beeswings
 birdyback
 bakehead
 beetlestone
