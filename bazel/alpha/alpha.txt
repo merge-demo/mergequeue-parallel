@@ -9535,7 +9535,6 @@ ascence
 alulim
 agrom
 angas
-apometabolous
 alumic
 alumiferous
 affinition
@@ -19533,6 +19532,7 @@ analogies
 aridities
 afghanis
 arousal
+apometabolous
 airbill
 alchemilla
 antsy
