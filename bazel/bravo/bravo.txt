@@ -12115,7 +12115,6 @@ beclasped
 broses
 borofluoride
 blarneyed
-boletaceae
 bumpology
 boletes
 byrled
@@ -14339,6 +14338,7 @@ bonebinder
 braillewriter
 boloman
 braincap
+boletaceae
 brachiferous
 baradari
 blastomycosis
