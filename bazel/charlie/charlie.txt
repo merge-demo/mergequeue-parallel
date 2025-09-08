@@ -15469,6 +15469,7 @@ clarities
 coasts
 calyculi
 consultant
+calamines
 cayapa
 clarke
 coachs
@@ -29548,7 +29549,6 @@ crocanthemum
 currency
 choanoflagellidae
 croceic
-calamines
 croceine
 crocetin
 ceratospongiae
