@@ -6176,7 +6176,6 @@ beveling
 bennets
 bootlace
 bummler
-bookism
 bechanced
 barndoor
 biuret
@@ -8310,6 +8309,7 @@ bijections
 bree
 brush
 bijou
+bookism
 bhandar
 bijwoner
 beanie
