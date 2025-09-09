@@ -5509,6 +5509,7 @@ dinger
 diaxon
 deparliament
 draffman
+damners
 delighting
 denials
 disturbed
@@ -17136,7 +17137,6 @@ dryades
 dryadetum
 drused
 divinely
-damners
 dumbfounding
 doomful
 denouncing
