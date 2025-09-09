@@ -10721,7 +10721,6 @@ abhiseka
 ammocoetes
 apocrisiary
 agglutinated
-albumoses
 alloantibody
 antirent
 apparentement
@@ -25262,6 +25261,7 @@ antepenultima
 academus
 atinkle
 aglaspis
+albumoses
 adultlike
 activating
 afrikanderism
