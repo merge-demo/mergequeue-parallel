@@ -11069,7 +11069,6 @@ amphibial
 anfractuous
 amphibian
 ande
-amphibians
 ashkenazi
 azimuthally
 amphibiotic
@@ -22921,6 +22920,7 @@ antedated
 aldermanship
 archispore
 attacus
+amphibians
 attagen
 amygdalaceae
 attaghan
