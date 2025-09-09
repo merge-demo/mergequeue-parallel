@@ -15543,6 +15543,7 @@ classicist
 classicists
 cheshire
 cordially
+caterans
 confoundedly
 crowshay
 chabasie
@@ -24885,7 +24886,6 @@ canonizant
 caoutchouc
 corallium
 carminatives
-caterans
 craniacromial
 cordately
 cephadia
