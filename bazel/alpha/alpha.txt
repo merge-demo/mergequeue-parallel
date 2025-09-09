@@ -15737,7 +15737,6 @@ antipode
 antipodic
 anent
 argufied
-antipodism
 antipodist
 apennines
 adrenalectomies
@@ -18439,6 +18438,7 @@ apprizement
 accounting
 anyplace
 abusee
+antipodism
 arborical
 arboricole
 acceptees
