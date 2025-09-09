@@ -8787,6 +8787,7 @@ barleysick
 bioblastic
 brilliance
 bima
+besmear
 backwoodsiness
 bungaloid
 berakot
@@ -9190,7 +9191,6 @@ bipods
 botches
 bipolarity
 bipolarization
-besmear
 biporose
 bipotentiality
 bromoiodid
