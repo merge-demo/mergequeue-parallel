@@ -3600,6 +3600,7 @@ caracolling
 caracora
 caracore
 caract
+coelacanthidae
 caractacus
 caradoc
 carafes
@@ -17962,7 +17963,6 @@ coeff
 coefficients
 coelacanth
 chew
-coelacanthidae
 coelacanthous
 coelar
 coelastraceous
