@@ -15421,6 +15421,7 @@ broomrape
 barbes
 boyce
 biferous
+bytownite
 bloodless
 banderoling
 brinies
@@ -17357,7 +17358,6 @@ babongo
 bunk
 belinurus
 bipersonal
-bytownite
 byerite
 bushbaby
 blindest
