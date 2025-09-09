@@ -14554,6 +14554,7 @@ alpinisms
 ariidae
 accordantly
 anthryl
+antiparasitically
 alternative
 arabized
 acquiesces
@@ -20779,7 +20780,6 @@ aconitin
 asaph
 affectate
 arcate
-antiparasitically
 asaphia
 azotized
 aerosinusitis
