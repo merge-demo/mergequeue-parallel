@@ -3053,6 +3053,7 @@ baleful
 brainwashing
 bimetal
 bedspreads
+beeswings
 bejelled
 bakerite
 birsle
@@ -10680,7 +10681,6 @@ balls
 batties
 bactericidal
 baalisms
-beeswings
 blennogenous
 begging
 brushup

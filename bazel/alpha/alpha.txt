@@ -7941,6 +7941,7 @@ amphide
 alforja
 apathus
 alfresco
+andria
 achenodia
 acture
 anthosiderite
@@ -12224,7 +12225,6 @@ andrena
 anopluriform
 andrewartha
 albitophyre
-andria
 allumine
 armoniac
 aortolith
