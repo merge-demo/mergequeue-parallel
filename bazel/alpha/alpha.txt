@@ -12160,7 +12160,6 @@ andamenta
 aloelike
 allopatric
 astrophotography
-andaste
 antiposition
 agist
 annunciate
@@ -15344,6 +15343,7 @@ antimechanization
 antimediaevally
 antimedical
 antimedicine
+andaste
 acetylizable
 anguiform
 anaptomorphidae
