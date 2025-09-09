@@ -3651,7 +3651,6 @@ carapacic
 carapax
 climacterial
 coachable
-carapidae
 cineastes
 clawlike
 carapine
@@ -28152,6 +28151,7 @@ churchman
 cranks
 crossbarring
 crankshafts
+carapidae
 corpulent
 crannage
 caesar
