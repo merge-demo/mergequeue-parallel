@@ -3857,7 +3857,6 @@ ceratopsidae
 cicindela
 caraguata
 coadventurer
-carburetant
 charminger
 carbureted
 cytoarchitecturally
@@ -12339,6 +12338,7 @@ chrysomonadine
 chromatically
 carcinogen
 chromatician
+carburetant
 calorimeters
 caricatural
 chromaticness
