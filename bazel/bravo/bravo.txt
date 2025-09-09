@@ -9148,7 +9148,6 @@ bandoleros
 biordinal
 batussi
 bladebone
-bipinnated
 bathmic
 benumbingly
 betweenmaid
@@ -15490,6 +15489,7 @@ bobcoat
 brisking
 bursted
 bemired
+bipinnated
 byepath
 bareboat
 briss
