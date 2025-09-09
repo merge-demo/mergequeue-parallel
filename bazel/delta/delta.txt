@@ -10706,6 +10706,7 @@ dinornithoid
 distinguishing
 diplostichous
 diplotaxis
+diisatogen
 draws
 derivable
 downstreet
@@ -14127,7 +14128,6 @@ districts
 damsel
 distringas
 dir
-diisatogen
 descendents
 decarhinus
 deflected
