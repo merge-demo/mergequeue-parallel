@@ -9540,7 +9540,6 @@ bisyllabism
 bishopstool
 bishopweed
 bobbinets
-blackly
 bestir
 benison
 barterers
@@ -16566,6 +16565,7 @@ butyr
 bisons
 bulanda
 brevicipitid
+blackly
 burke
 buchanite
 baronies
