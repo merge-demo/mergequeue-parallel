@@ -3195,7 +3195,6 @@ basicity
 baloneys
 benzins
 booklores
-bhaga
 blastozooid
 bromelia
 burthen
@@ -6601,6 +6600,7 @@ boblet
 bicultural
 bisulfate
 bortzes
+bhaga
 bergh
 brachiata
 boonless
