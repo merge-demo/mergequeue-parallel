@@ -10469,7 +10469,6 @@ detickers
 despend
 diphenylenimine
 driveller
-dotty
 ditcher
 dug
 dogmatic
@@ -16388,6 +16387,7 @@ downpipe
 downplay
 disagreeable
 douche
+dotty
 downright
 diosmotic
 discredits
