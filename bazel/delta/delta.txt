@@ -7921,6 +7921,7 @@ drillet
 deweylite
 dooryard
 dissymmetrical
+demisovereign
 dewflower
 distantly
 doormaking
@@ -16716,7 +16717,6 @@ drone
 designation
 defrays
 dragsters
-demisovereign
 doctoress
 drayage
 dipteraceous
