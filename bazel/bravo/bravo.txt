@@ -10814,6 +10814,7 @@ bitterns
 blastomycetic
 blowgun
 blighters
+baltimorean
 bestowing
 bribetaker
 burroughs
@@ -13892,7 +13893,6 @@ bulgaria
 backhauled
 billback
 burka
-baltimorean
 brushoffs
 boskages
 bowstring
