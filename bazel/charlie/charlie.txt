@@ -21062,7 +21062,6 @@ counterdash
 clitelliferous
 crookle
 computations
-coomy
 computatively
 clerkery
 computativeness
@@ -26688,6 +26687,7 @@ counterbattery
 counterbend
 calamitously
 cacique
+coomy
 counterblast
 counterborder
 counterbore
