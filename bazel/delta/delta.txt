@@ -6354,7 +6354,6 @@ dastardliness
 derms
 defined
 dissceptered
-ducula
 davies
 demurrable
 doegling
@@ -10539,6 +10538,7 @@ dearnesses
 demonetized
 delapsion
 drammocks
+ducula
 digonoporous
 dysgenics
 depel
