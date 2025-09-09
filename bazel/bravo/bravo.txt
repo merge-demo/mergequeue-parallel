@@ -3920,6 +3920,7 @@ beachcombers
 beachdrops
 biliment
 bumblekite
+battleward
 bowed
 bumpiest
 bisulphate
@@ -14082,7 +14083,6 @@ bargainers
 beaujolais
 barquantine
 brachyrrhinia
-battleward
 benzaminic
 banditism
 budged
