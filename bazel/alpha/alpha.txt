@@ -7145,7 +7145,6 @@ assn
 alarmingness
 alarmism
 alarmist
-anginas
 aplite
 aglyphodont
 alarodian
@@ -21201,6 +21200,7 @@ amakosa
 aceanthrene
 apteryla
 atretic
+anginas
 asymmetric
 antimythical
 aways
