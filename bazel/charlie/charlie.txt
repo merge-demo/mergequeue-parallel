@@ -18822,7 +18822,6 @@ conodonts
 consumptivity
 chaplet
 coleochaetaceous
-caravaned
 cabochon
 codirects
 concentrical
@@ -24878,6 +24877,7 @@ coralligenous
 coralligerous
 corallin
 conchfish
+caravaned
 corallina
 cinema
 corallinaceous
