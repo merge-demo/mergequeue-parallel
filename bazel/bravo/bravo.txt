@@ -1841,6 +1841,7 @@ basketmaker
 bandeau
 blueline
 bancus
+bathonian
 backstabber
 banderma
 bowlike
@@ -2309,7 +2310,6 @@ bilixanthin
 breloque
 bathyscape
 bemitred
-bathonian
 bolection
 barbierite
 busyish
