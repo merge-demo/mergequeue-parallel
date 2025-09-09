@@ -4670,6 +4670,7 @@ demon
 dismantle
 downtrends
 duplicident
+dishmaker
 dithyrambos
 diphthongous
 dimissory
@@ -12732,7 +12733,6 @@ deportable
 dotting
 deranges
 demiheavenly
-dishmaker
 dogger
 diviners
 doxologically
