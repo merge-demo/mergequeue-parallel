@@ -3062,7 +3062,6 @@ decantation
 dixenite
 demiseason
 disadvantaging
-defamations
 defamatory
 dipygus
 disembarrassment
@@ -17904,6 +17903,7 @@ dablet
 destituteness
 darkheartedness
 dueled
+defamations
 deathday
 duelers
 duelist
