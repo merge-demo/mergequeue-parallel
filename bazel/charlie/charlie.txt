@@ -6631,7 +6631,6 @@ ceja
 charcia
 celadon
 complexionally
-coadjutement
 cutidure
 celadonite
 coleen
@@ -18106,6 +18105,7 @@ coenobe
 chaffered
 coenoby
 concludency
+coadjutement
 choirs
 coenobiar
 cissoid
