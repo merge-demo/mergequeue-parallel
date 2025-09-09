@@ -18541,6 +18541,7 @@ cleidoscapular
 cohesively
 cribber
 collat
+conjunct
 cohibit
 cohibition
 cohibitor
@@ -29651,7 +29652,6 @@ cultirostral
 cenozoology
 crystalitic
 crasis
-conjunct
 confess
 countesses
 caprimulgine
