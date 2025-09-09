@@ -16895,6 +16895,7 @@ crosswort
 clubroom
 casebooks
 clubroots
+countervaunt
 clubs
 clubstart
 clubster
@@ -30265,7 +30266,6 @@ crunching
 crunchingly
 causewayman
 crunkle
-countervaunt
 clink
 comm
 crunodes
