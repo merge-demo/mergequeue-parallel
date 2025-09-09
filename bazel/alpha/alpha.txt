@@ -13750,6 +13750,7 @@ avicularium
 abdomina
 apocyneous
 automation
+apatetic
 absonant
 ansar
 aerobium
@@ -16510,7 +16511,6 @@ absolutive
 abiogenesis
 acolytes
 apatela
-apatetic
 agrimonies
 adenomata
 anthropomorphise
