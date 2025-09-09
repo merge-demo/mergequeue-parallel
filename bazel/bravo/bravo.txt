@@ -2954,6 +2954,7 @@ bolthole
 blackboy
 barophobia
 barricoes
+bushiness
 benzidino
 blubber
 biuniqueness
@@ -12372,7 +12373,6 @@ bowless
 bonbons
 belvederes
 barker
-bushiness
 bedlamp
 bedwarf
 bond
