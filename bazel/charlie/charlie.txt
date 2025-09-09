@@ -3222,6 +3222,7 @@ capitana
 coelenterata
 crenelle
 capitasti
+cokers
 capitated
 cputime
 capitation
@@ -9247,7 +9248,6 @@ chattery
 chattermag
 caprification
 chattermagging
-cokers
 chatters
 chatti
 chattier
