@@ -903,6 +903,7 @@ dinned
 daoine
 decks
 diuron
+dumka
 dictation
 dapedius
 decatholicize
@@ -15890,7 +15891,6 @@ dornock
 drover
 dornocks
 desanded
-dumka
 dismastment
 diphthongalize
 didna
