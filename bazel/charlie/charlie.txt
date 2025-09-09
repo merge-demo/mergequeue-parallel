@@ -9477,7 +9477,6 @@ checkering
 cataphysical
 candours
 checkerist
-clavola
 checkers
 cabbalah
 carpodacus
@@ -15333,6 +15332,7 @@ clangouring
 childed
 campings
 clangours
+clavola
 clangs
 cystathionine
 cougars
