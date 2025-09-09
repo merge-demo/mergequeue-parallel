@@ -10897,6 +10897,7 @@ balancewise
 bumkin
 barretors
 buriti
+bindlet
 baromacrometer
 benevolence
 bael
@@ -16873,7 +16874,6 @@ blockholer
 burdensomely
 buick
 bizarre
-bindlet
 blunder
 bloodstained
 bockey
