@@ -2067,6 +2067,7 @@ chieftaincies
 circumnuclear
 captivator
 campanular
+circumvolve
 campanulariae
 campanularidae
 campanulatae
@@ -14391,7 +14392,6 @@ chophouse
 contrapletal
 circumvolution
 curdler
-circumvolve
 circumvolved
 circumzenithal
 circus
