@@ -3270,6 +3270,7 @@ digs
 destiny
 domesticable
 dynamometry
+digestif
 defoliant
 datiscoside
 delaying
@@ -10025,7 +10026,6 @@ decisiveness
 dysacousma
 deuteroscopic
 debriefs
-digestif
 dissolutionist
 disopinion
 decennal

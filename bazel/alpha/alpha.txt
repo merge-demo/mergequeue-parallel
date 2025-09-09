@@ -2324,7 +2324,6 @@ acinic
 aciniform
 anatomicophysiological
 aggrate
-acinus
 aedes
 acipenseroidei
 archpapist
@@ -22552,6 +22551,7 @@ arts
 avulsing
 abnegated
 atherurus
+acinus
 accelerant
 atheticize
 athymy
