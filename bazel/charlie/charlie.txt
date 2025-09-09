@@ -28277,7 +28277,6 @@ conilurus
 craunching
 craunchingly
 cravat
-candleholder
 capmaker
 cravats
 cloning
@@ -29724,6 +29723,7 @@ cunjevoi
 crooksterned
 crool
 counterambush
+candleholder
 crooned
 crooner
 cullible
