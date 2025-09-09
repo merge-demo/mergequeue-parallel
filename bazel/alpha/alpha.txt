@@ -13423,6 +13423,7 @@ adrift
 albuminization
 annotator
 auxiliar
+armored
 androgyneity
 arrendator
 assonant
@@ -14770,7 +14771,6 @@ aitesis
 asseth
 azulejos
 akha
-armored
 anticlassical
 apprehend
 antiaphthic
