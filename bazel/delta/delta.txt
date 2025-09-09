@@ -6390,6 +6390,7 @@ dermovaccine
 deplorate
 destructing
 deferentially
+deallocating
 desmology
 dillisk
 derotremata
@@ -14607,7 +14608,6 @@ demotic
 dyadic
 divinister
 defier
-deallocating
 dismiss
 dissimuler
 discoverers
