@@ -7473,7 +7473,6 @@ aggrandized
 aegyrite
 alcargen
 ascophyllum
-alcatras
 anastomos
 astragal
 amidist
@@ -22776,6 +22775,7 @@ annat
 amphidiscophora
 arioi
 aniseroot
+alcatras
 adjudger
 archelaus
 atrament
