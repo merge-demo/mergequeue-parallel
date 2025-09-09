@@ -3112,7 +3112,6 @@ capataces
 capcase
 celotomy
 connexion
-craterid
 cape
 chequerboard
 capeadores
@@ -22642,6 +22641,7 @@ chromochalcography
 connives
 captance
 caliper
+craterid
 connivingly
 camerina
 connochaetes
