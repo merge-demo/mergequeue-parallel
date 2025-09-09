@@ -1400,6 +1400,7 @@ bandager
 braise
 bushings
 barukhzy
+bandaged
 belittles
 baldish
 ballparks
@@ -9751,7 +9752,6 @@ boshvarks
 based
 bronchospasm
 baronne
-bandaged
 boomeranged
 backswording
 breach
