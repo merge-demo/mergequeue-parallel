@@ -6745,7 +6745,6 @@ baroi
 butty
 bitternut
 bes
-boaedon
 busboy
 bitulithic
 brachiofacial
@@ -16905,6 +16904,7 @@ bul
 brassworks
 babylonic
 branchiobdella
+boaedon
 bustic
 bitthead
 bulb
