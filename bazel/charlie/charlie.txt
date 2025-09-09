@@ -9992,7 +9992,6 @@ copartaker
 clansmanship
 ceremonialists
 chalcon
-coffles
 cheries
 cosmotron
 circumhorizontal
@@ -24697,6 +24696,7 @@ charkhana
 canyons
 cell
 croppers
+coffles
 coppra
 chamidae
 closenesses
