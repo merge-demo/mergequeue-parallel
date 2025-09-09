@@ -1182,7 +1182,6 @@ dactylopatagium
 dicaeology
 deervetch
 dodecaphony
-donnybrook
 diachoretic
 delimitized
 desmotropy
@@ -14404,6 +14403,7 @@ demerse
 dimyary
 dissonant
 diuranate
+donnybrook
 diuresis
 difficile
 doomer
