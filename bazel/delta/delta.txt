@@ -5215,7 +5215,6 @@ dicty
 dine
 deafer
 denotatively
-denotativeness
 denotatum
 deacidifying
 denotes
@@ -11125,6 +11124,7 @@ diphthongized
 dealates
 diamagnetically
 droning
+denotativeness
 defatted
 drugstores
 disequilibrate
