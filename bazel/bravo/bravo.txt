@@ -6412,7 +6412,6 @@ bacteriotrypsin
 booley
 bielid
 boltropes
-bronchopneumonic
 brachiopodist
 bepicture
 banxring
@@ -12935,6 +12934,7 @@ bonanza
 butterball
 banausic
 becrusting
+bronchopneumonic
 bondar
 bombycillidae
 bandersnatch
