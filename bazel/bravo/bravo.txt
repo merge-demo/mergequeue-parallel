@@ -14805,6 +14805,7 @@ battledores
 blennoma
 burning
 blameable
+brahmanaspati
 baja
 breakfast
 buffetings
@@ -15929,7 +15930,6 @@ barythymia
 basifiers
 boubous
 brainy
-brahmanaspati
 bludgeoning
 biflagelate
 bribeless
