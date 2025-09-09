@@ -194,7 +194,6 @@ bibliopolism
 boh
 bayous
 baccalaureate
-bismuthal
 baccara
 baroques
 bdrm
@@ -8297,6 +8296,7 @@ babu
 brachygraphic
 bistoury
 blockish
+bismuthal
 byhand
 bicarpellate
 bija
