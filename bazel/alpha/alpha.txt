@@ -4276,6 +4276,7 @@ adulticide
 adultness
 adumbrated
 abductores
+aphototactic
 adumbrating
 arbiters
 adumbrations
@@ -16711,7 +16712,6 @@ aphorized
 anecdotalism
 abos
 aphorizes
-aphototactic
 artifactually
 ancienter
 approve
