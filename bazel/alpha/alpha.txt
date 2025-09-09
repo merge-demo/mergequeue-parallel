@@ -10291,6 +10291,7 @@ anise
 adenochondrosarcoma
 americans
 americanum
+adamantness
 amphicarpa
 ascry
 appended
@@ -12790,7 +12791,6 @@ angostura
 adnex
 adosculation
 angouleme
-adamantness
 appanages
 angraecum
 angry
