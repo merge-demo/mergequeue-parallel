@@ -5314,7 +5314,6 @@ birefringence
 braseros
 begowk
 buyable
-begray
 barodynamic
 barbarisation
 blickeys
@@ -18049,6 +18048,7 @@ bladeless
 beroll
 booklet
 baignet
+begray
 boatsman
 bangy
 belive

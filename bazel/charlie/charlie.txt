@@ -395,7 +395,6 @@ copalche
 cardiocentesis
 cacosmia
 cacospermia
-cacothansia
 cacotheline
 cacothymia
 cacotype
@@ -4663,6 +4662,7 @@ carpincho
 carping
 canceration
 corrump
+cacothansia
 conchometer
 carpiodes
 carpium
