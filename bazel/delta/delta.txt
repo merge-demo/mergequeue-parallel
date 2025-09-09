@@ -3962,7 +3962,6 @@ dename
 delaware
 deleaded
 delectability
-dampang
 doodling
 depencil
 deployments
@@ -4277,6 +4276,7 @@ disgustful
 dikaryophase
 dependancy
 donar
+dampang
 decoagulated
 dramatize
 delusionary
