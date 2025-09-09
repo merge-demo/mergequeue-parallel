@@ -3423,6 +3423,7 @@ bastardry
 briny
 biotechnologicaly
 bioptic
+brachypinacoid
 barrelfishes
 baster
 befuddlement
@@ -16438,7 +16439,6 @@ backbiters
 bonders
 bibliopolical
 blackplate
-brachypinacoid
 bleary
 bern
 brutishness
