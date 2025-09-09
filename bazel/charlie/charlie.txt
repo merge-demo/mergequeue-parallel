@@ -7786,6 +7786,7 @@ calcinable
 chinned
 cesious
 cesium
+coracopectoral
 cesiums
 cespititious
 cespititous
@@ -24842,7 +24843,6 @@ curbash
 coracomorphae
 chrysopoeia
 chafer
-coracopectoral
 coracoprocoracoid
 cognoscibility
 crepitation
