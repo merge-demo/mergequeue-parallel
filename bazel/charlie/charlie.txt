@@ -10163,6 +10163,7 @@ chomping
 collectioner
 complaining
 chewing
+cygnet
 coheretic
 chewinks
 chews
@@ -23473,7 +23474,6 @@ circumstantiability
 contemptibleness
 contemptibly
 contempts
-cygnet
 contemptuous
 contemptuously
 cruelty
