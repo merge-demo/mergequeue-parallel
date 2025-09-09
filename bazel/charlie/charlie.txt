@@ -7636,6 +7636,7 @@ chloroplatinite
 cermet
 cyamid
 ciceros
+contemperate
 caramelising
 cermets
 commissar
@@ -11777,7 +11778,6 @@ chondrostei
 cytosine
 coelian
 coexecutrices
-contemperate
 chondrosternal
 corky
 collyba
