@@ -11079,7 +11079,6 @@ chytridiosis
 chytroi
 chits
 chittack
-chitted
 chitter
 chutney
 chitters
@@ -25360,6 +25359,7 @@ comprising
 cottaged
 champs
 cheroots
+chitted
 cornflag
 censed
 countersiege
