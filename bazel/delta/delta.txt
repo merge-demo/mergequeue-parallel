@@ -10187,7 +10187,6 @@ diverticulate
 diploblastic
 defogging
 downy
-dasypaedes
 doater
 dinged
 daddle
@@ -13630,6 +13629,7 @@ datakit
 doggereler
 deceptitious
 diphysite
+dasypaedes
 drawlers
 decouple
 dieffenbachia
