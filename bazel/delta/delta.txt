@@ -11907,7 +11907,6 @@ decuss
 drumfires
 disulphone
 dromomania
-dunked
 diminutions
 denying
 diadems
@@ -18494,6 +18493,7 @@ devastavit
 diose
 dupped
 deceasing
+dunked
 desagrement
 dyschronous
 dissolutionism
