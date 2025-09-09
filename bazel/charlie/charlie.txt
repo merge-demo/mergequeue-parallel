@@ -23081,7 +23081,6 @@ consperse
 conspersion
 conspicuity
 crescentia
-caecocolic
 cottoneer
 cyanochlorous
 conspicuously
@@ -27987,6 +27986,7 @@ cyphers
 crakow
 chis
 cram
+caecocolic
 cervical
 crimine
 conicine
