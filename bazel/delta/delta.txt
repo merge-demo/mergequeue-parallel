@@ -9558,7 +9558,6 @@ digitigradism
 digitinerved
 dilutes
 devilment
-depravement
 dojigger
 digitisation
 downtrampling
@@ -11973,6 +11972,7 @@ depthing
 doorba
 discompose
 dwells
+depravement
 defrock
 dramatizes
 disdein
