@@ -2892,7 +2892,6 @@ cantabrigian
 cantaliver
 cantaloup
 careerer
-cantaloupes
 cantando
 copart
 certificating
@@ -29486,6 +29485,7 @@ chromatoptometer
 criticastry
 criticisms
 cain
+cantaloupes
 chontal
 cousin
 congenite
