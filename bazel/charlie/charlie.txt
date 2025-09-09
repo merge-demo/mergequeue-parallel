@@ -9892,6 +9892,7 @@ convertibly
 chemotactic
 cresylene
 chemotaxy
+cohelper
 charpie
 collocatory
 chemotaxonomy
@@ -27961,7 +27962,6 @@ craigmontite
 colossi
 craik
 cinnamoyl
-cohelper
 crayon
 crayoning
 crayonist
