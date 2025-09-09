@@ -4916,7 +4916,6 @@ claptrap
 collectarium
 cartwheel
 coannex
-catarrhine
 couchantly
 colliquable
 cartwheeler
@@ -16724,6 +16723,7 @@ clothesyard
 codesign
 clamberer
 cirrus
+catarrhine
 clothesline
 clotheslines
 clothesman
