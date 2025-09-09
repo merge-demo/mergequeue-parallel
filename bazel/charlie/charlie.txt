@@ -11822,6 +11822,7 @@ cryptomonad
 candider
 chopper
 choppers
+cordlike
 choppier
 cados
 choppiest
@@ -25008,7 +25009,6 @@ chockler
 cordinar
 cordlessly
 convention
-cordlike
 chunga
 configured
 conceptacular
