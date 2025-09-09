@@ -11840,6 +11840,7 @@ cakes
 coenocyte
 cultch
 chora
+counterplay
 caselty
 cagn
 choragi
@@ -27873,7 +27874,6 @@ crackliest
 copperplated
 capillation
 clockface
-counterplay
 convergement
 crackmans
 cracknel
