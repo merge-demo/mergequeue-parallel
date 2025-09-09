@@ -4378,7 +4378,6 @@ beribers
 beclothes
 blushwort
 bike
-boomeranged
 bootee
 beclowned
 billard
@@ -9755,6 +9754,7 @@ based
 bronchospasm
 baronne
 bandaged
+boomeranged
 backswording
 breach
 borrowers
