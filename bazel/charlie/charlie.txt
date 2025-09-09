@@ -17937,6 +17937,7 @@ caws
 cods
 cephalanthus
 codswallop
+consonate
 coueism
 channels
 cunye
@@ -23044,7 +23045,6 @@ consonants
 clinograph
 conscriptive
 cutty
-consonate
 consonous
 callused
 consopite
