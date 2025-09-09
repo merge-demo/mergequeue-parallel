@@ -5176,7 +5176,6 @@ carpophore
 carinule
 cassocked
 cataleptic
-crofter
 calycoideous
 chevrony
 cuculine
@@ -24282,6 +24281,7 @@ convulsively
 camases
 cupola
 conveys
+crofter
 cocodette
 commercializations
 creeks
