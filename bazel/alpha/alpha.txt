@@ -5676,6 +5676,7 @@ abdominocardiac
 agatelike
 agathist
 agathodaemonic
+articulators
 airdrome
 ambulative
 agatiferous
@@ -20621,7 +20622,6 @@ anteroventrally
 amphisbaenic
 agrostographic
 alwise
-articulators
 abelonian
 aizoon
 aces
