@@ -1361,6 +1361,7 @@ aevia
 acceptilation
 arabesquerie
 acceptors
+amharic
 auspicated
 afterpast
 acervuline
@@ -10355,7 +10356,6 @@ amhar
 antispermotoxin
 afterbirths
 alcade
-amharic
 asbestus
 asherites
 araba

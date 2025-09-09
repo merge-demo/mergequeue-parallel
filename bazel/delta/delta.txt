@@ -3567,7 +3567,6 @@ degerms
 discerptive
 douzeper
 disked
-deontological
 dotriacontane
 def
 devices
@@ -11357,6 +11356,7 @@ delegacies
 duckwheat
 disgracers
 dyarchical
+deontological
 distributional
 dimmable
 discarded
