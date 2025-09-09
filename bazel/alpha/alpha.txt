@@ -12652,7 +12652,6 @@ anthocerotales
 alg
 angioleucitis
 angiolith
-angioma
 angiomalacia
 angiomas
 anoestrous
@@ -18714,6 +18713,7 @@ archeries
 acoustically
 allomerization
 agoniatite
+angioma
 archers
 aghlabite
 acetonurometer
