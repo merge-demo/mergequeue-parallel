@@ -3424,6 +3424,7 @@ brigantines
 bastardry
 briny
 biotechnologicaly
+bleakly
 bioptic
 brachypinacoid
 barrelfishes
@@ -16988,7 +16989,6 @@ buckwash
 barosinusitis
 bullamacow
 boorga
-bleakly
 bullate
 bullback
 bullbaiting
