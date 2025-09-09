@@ -5433,6 +5433,7 @@ bota
 barrier
 behooves
 behooving
+basketball
 bacterioprotein
 backiebird
 basting
@@ -11021,7 +11022,6 @@ biopsychic
 bishareen
 benegro
 ballyhooer
-basketball
 blocked
 blocker
 brid
