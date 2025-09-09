@@ -320,7 +320,6 @@ backbar
 bedright
 birkenhead
 bod
-biolith
 bletherskate
 booter
 bakeware
@@ -12954,6 +12953,7 @@ beelike
 bedquilts
 befountained
 barmaid
+biolith
 brideless
 bloomers
 bombazine

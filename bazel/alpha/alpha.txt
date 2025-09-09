@@ -22048,6 +22048,7 @@ aesthiology
 arthrosporous
 areometer
 aquench
+auxiliate
 astigmatoscope
 astigmic
 antiphon
@@ -24485,7 +24486,6 @@ armsize
 abhor
 aerophile
 auxiliaries
-auxiliate
 abiosis
 anelastic
 auxiliator
