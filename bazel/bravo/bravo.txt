@@ -4881,6 +4881,7 @@ balkers
 bergamot
 betanaphthol
 blasphemously
+barytons
 bioclimatologies
 boyardism
 beekeepers
@@ -5209,7 +5210,6 @@ betrothals
 bolters
 badder
 bastes
-barytons
 bothsided
 brog
 begazing
