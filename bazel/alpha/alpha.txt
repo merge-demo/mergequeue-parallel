@@ -862,6 +862,7 @@ autor
 ascidium
 aures
 absyrtus
+assonate
 amylon
 absis
 anthrophore
@@ -22721,7 +22722,6 @@ atoke
 alphenic
 agamid
 anyhow
-assonate
 atomatic
 atomechanics
 aquo
