@@ -4228,7 +4228,6 @@ carfloat
 coater
 capiteaux
 caramelizes
-camauros
 centroidal
 carfuffling
 carful
@@ -16373,6 +16372,7 @@ clyssus
 cisele
 clyster
 candors
+camauros
 connectives
 collogen
 catakinetomer
