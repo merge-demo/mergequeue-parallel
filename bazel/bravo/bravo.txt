@@ -12575,7 +12575,6 @@ blastostyle
 barracoon
 boucher
 bistriazole
-battycake
 bleekbok
 branular
 bahuma
@@ -13494,6 +13493,7 @@ boisterousness
 boudeuse
 becursing
 backhanded
+battycake
 butterbough
 barnacled
 bibliophile
