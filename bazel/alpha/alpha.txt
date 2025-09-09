@@ -15542,6 +15542,7 @@ antiochian
 arthrosia
 achuas
 agnomens
+apolaustic
 antiope
 allophyle
 aufait
@@ -17585,7 +17586,6 @@ acrose
 adrostral
 arseniosiderite
 advisership
-apolaustic
 antiagglutination
 agouta
 appestat
