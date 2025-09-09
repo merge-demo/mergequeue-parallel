@@ -8462,7 +8462,6 @@ desegregation
 diamagnet
 diamagnetic
 diamant
-ditrochee
 deflexed
 demount
 decrowns
@@ -10331,6 +10330,7 @@ dioecism
 didrachmal
 daguerreotype
 deans
+ditrochee
 draughting
 delta
 dionysia
