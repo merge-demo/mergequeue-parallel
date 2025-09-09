@@ -562,7 +562,6 @@ backwardness
 bootboy
 blastema
 befriendment
-buccinum
 biggishness
 batrachium
 bandboxical
@@ -15370,6 +15369,7 @@ breadberry
 buttressing
 bodoni
 babyish
+buccinum
 brannerite
 bereaved
 batonnier
