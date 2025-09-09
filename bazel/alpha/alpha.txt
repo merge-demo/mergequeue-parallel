@@ -2560,7 +2560,6 @@ acquitter
 acquophonia
 acrab
 acracy
-automorphism
 acraein
 acrania
 acranial
@@ -18069,6 +18068,7 @@ autolytic
 aquarius
 aurists
 astint
+automorphism
 accelerando
 aquarter
 anacusia
