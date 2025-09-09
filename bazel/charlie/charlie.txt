@@ -12871,6 +12871,7 @@ churns
 churoyan
 cramping
 churrasco
+convolutional
 claviol
 coenure
 churred
@@ -24224,7 +24225,6 @@ colemouse
 crinoidal
 convoluting
 convolution
-convolutional
 convolutive
 convolve
 constructing
