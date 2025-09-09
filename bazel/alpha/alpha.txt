@@ -4043,6 +4043,7 @@ aromatites
 adjag
 adderwort
 armorers
+adulteries
 anabaptistically
 arock
 arquebusier
@@ -9231,7 +9232,6 @@ aloofly
 alop
 alopecia
 alopecias
-adulteries
 alopecic
 alopecoid
 alphabetiform
