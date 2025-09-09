@@ -3298,6 +3298,7 @@ bacterioscopic
 basirostral
 basiscopic
 bacterial
+banshee
 blepharitic
 bhil
 bedwell
@@ -6681,7 +6682,6 @@ brandywine
 berret
 barracudina
 berry
-banshee
 bitte
 billowiness
 bedscrew
