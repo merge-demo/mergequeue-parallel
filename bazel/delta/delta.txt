@@ -5794,7 +5794,6 @@ deportations
 dissipatedly
 discant
 deerlike
-delineatory
 dewer
 dainties
 diaxial
@@ -13312,6 +13311,7 @@ disportment
 despise
 dangerfully
 disposability
+delineatory
 decohesion
 disposed
 disposedness
