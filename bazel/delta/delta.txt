@@ -3548,7 +3548,6 @@ degener
 declaredness
 dripping
 distater
-dinosauric
 dorsomedian
 dinornithiformes
 degenerate
@@ -15340,6 +15339,7 @@ deeryards
 drawlier
 dolefulness
 deathfulness
+dinosauric
 disimitate
 delsartian
 dolerophanite
