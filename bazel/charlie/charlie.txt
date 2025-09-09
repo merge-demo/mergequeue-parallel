@@ -1313,7 +1313,6 @@ calycocarpum
 calicoes
 concur
 colourlessness
-calycozoa
 calycozoan
 cutify
 cephalobranchiate
@@ -8671,6 +8670,7 @@ chapah
 chapanec
 cartboot
 chapapote
+calycozoa
 cacoxenite
 cartwheels
 coto
