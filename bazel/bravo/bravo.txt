@@ -6638,7 +6638,6 @@ bermes
 bourgeoisify
 battens
 benedictive
-bovicide
 besra
 bagaudae
 biked
@@ -15744,6 +15743,7 @@ biders
 broncho
 beignet
 bulled
+bovicide
 bankers
 bitonality
 bromacetic
