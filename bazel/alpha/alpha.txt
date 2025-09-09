@@ -16673,7 +16673,6 @@ avant
 amphigonia
 adultoid
 aphydrotropism
-abietin
 aphilanthropy
 aphylly
 averring
@@ -24688,6 +24687,7 @@ avg
 athalamous
 assenting
 avians
+abietin
 aviararies
 abreactions
 aviaries
