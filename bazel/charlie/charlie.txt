@@ -2140,7 +2140,6 @@ campyloneuron
 cobias
 cavesson
 cakey
-campylotropal
 campylotropous
 campimeter
 conches
@@ -10718,6 +10717,7 @@ chrominance
 chromous
 classrooms
 corroder
+campylotropal
 chinchy
 chinchillas
 contracivil
