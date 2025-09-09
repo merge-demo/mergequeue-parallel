@@ -1062,6 +1062,7 @@ bailiffs
 busway
 bustiest
 boyaus
+beadeye
 bersil
 baulea
 boroughmaster
@@ -3953,7 +3954,6 @@ beaconless
 bicycles
 beslur
 buoyancy
-beadeye
 beader
 bellmaker
 barnhardtite
