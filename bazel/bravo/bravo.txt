@@ -2541,7 +2541,6 @@ bilamellar
 begster
 brained
 bachelorlike
-barbarians
 bosque
 burghalpenny
 bloodberry
@@ -14420,6 +14419,7 @@ becivet
 bendays
 butea
 blitzkrieged
+barbarians
 breezelike
 boregat
 braystone
