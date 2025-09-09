@@ -2584,7 +2584,6 @@ biscuit
 ballons
 baramin
 balneation
-balanophoraceous
 baritenor
 bidget
 barberry
@@ -4440,6 +4439,7 @@ bhakti
 becudgeling
 bryony
 bae
+balanophoraceous
 bedwarfed
 brigadiership
 blastoff
