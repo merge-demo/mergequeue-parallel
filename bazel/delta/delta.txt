@@ -1485,6 +1485,7 @@ duppies
 doarium
 deked
 deaconate
+disponed
 demagnetize
 demiglace
 downer
@@ -8560,7 +8561,6 @@ dewfall
 diaphanously
 douglas
 diaphemetric
-disponed
 diaphyseal
 discommodious
 dermographia
