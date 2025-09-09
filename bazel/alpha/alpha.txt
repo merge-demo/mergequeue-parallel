@@ -3799,7 +3799,6 @@ akinetic
 adjudicators
 amores
 aversely
-aphidian
 adjument
 alarmed
 argentamide
@@ -16762,6 +16761,7 @@ aporose
 admittedly
 aeration
 appeach
+aphidian
 appenage
 apiaca
 apiarian

@@ -1162,7 +1162,6 @@ defensed
 dasypod
 dispaint
 demonstrative
-detick
 digitogenin
 defedation
 decence
@@ -3878,6 +3877,7 @@ decussatively
 dejection
 dumplings
 devested
+detick
 derivation
 dejeration
 dejeuner
