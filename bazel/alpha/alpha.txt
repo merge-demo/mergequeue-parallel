@@ -14277,6 +14277,7 @@ anthracosaurus
 anthracosis
 anthracothere
 anthracotherium
+acoustic
 anthracotic
 anthradiol
 anthraflavic
@@ -17460,7 +17461,6 @@ appearer
 appearers
 appearing
 appears
-acoustic
 arsonic
 absoluter
 appease
