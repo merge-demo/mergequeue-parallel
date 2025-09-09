@@ -3565,7 +3565,6 @@ bibliomaniacal
 blackeye
 batholithic
 batholiths
-balaamite
 balconet
 barkentine
 bathometer
@@ -13731,6 +13730,7 @@ brewage
 brontide
 bambochade
 brachydactyly
+balaamite
 billman
 bowable
 bowback
