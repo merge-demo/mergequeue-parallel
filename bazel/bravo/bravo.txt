@@ -1684,7 +1684,6 @@ boycotter
 ballsiest
 borrowable
 bengali
-ballup
 ballweed
 brehon
 breechcloths
@@ -5130,6 +5129,7 @@ blueball
 broiler
 bodyweight
 biomorphic
+ballup
 butles
 buskined
 bluebead
