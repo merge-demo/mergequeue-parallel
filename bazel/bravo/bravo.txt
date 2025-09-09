@@ -1769,7 +1769,6 @@ balthasar
 baltheus
 belgas
 blends
-belzebuth
 baltimore
 bumblebeefishes
 baluba
@@ -6473,6 +6472,7 @@ bookkeeping
 banisters
 birdshot
 brustled
+belzebuth
 becolor
 bushful
 berates
