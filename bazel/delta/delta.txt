@@ -7865,7 +7865,6 @@ dinoceras
 dyothelism
 dwelling
 dil
-domeykite
 dreks
 devour
 dorsad
@@ -10924,6 +10923,7 @@ deindustrialize
 daekon
 dirigo
 dirity
+domeykite
 daised
 dirked
 dhabb
