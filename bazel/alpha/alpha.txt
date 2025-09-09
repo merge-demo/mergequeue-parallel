@@ -1620,7 +1620,6 @@ auriculare
 accruement
 accruer
 adiabatic
-accrues
 agree
 antitheologizing
 anaphase
@@ -18435,6 +18434,7 @@ admirer
 allwhither
 axiology
 arboret
+accrues
 aardwolf
 apprizement
 accounting
