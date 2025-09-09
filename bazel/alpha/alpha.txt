@@ -1574,6 +1574,7 @@ acemetic
 attouchement
 accoutre
 aminobenzamide
+allege
 accoutrement
 angioclast
 albanian
@@ -9888,7 +9889,6 @@ arrival
 amenorrheic
 adsorbs
 amberjacks
-allege
 attachers
 antares
 animalness
