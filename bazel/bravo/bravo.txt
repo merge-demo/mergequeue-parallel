@@ -11634,6 +11634,7 @@ bequeathment
 beatably
 boatwright
 bearbaiting
+burnet
 borzois
 bob
 bridgewall
@@ -14792,7 +14793,6 @@ brogueneer
 baldrick
 breadroot
 breadstitch
-burnet
 blackwork
 becassine
 bechalking
