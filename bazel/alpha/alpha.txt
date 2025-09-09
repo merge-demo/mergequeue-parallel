@@ -4777,7 +4777,6 @@ aeroelasticity
 aerofoils
 algine
 amberfish
-antisyndication
 aerogel
 aggravation
 antilogous
@@ -7781,6 +7780,7 @@ abolishes
 antimedieval
 alembicated
 antetype
+antisyndication
 alembroth
 alemmal
 acidoproteolytic
