@@ -22680,6 +22680,7 @@ calmato
 cob
 conoidic
 chessboard
+clava
 contributor
 conoidically
 camphanyl
@@ -28496,7 +28497,6 @@ concealers
 crimogenic
 credibly
 creditable
-clava
 creditably
 crediting
 checkerwork
