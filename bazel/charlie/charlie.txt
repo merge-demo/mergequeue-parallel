@@ -2910,7 +2910,6 @@ cantatas
 cantation
 cantatrice
 coverts
-chestily
 chorioids
 cantdog
 cantdogs
@@ -3732,6 +3731,7 @@ carbines
 carbinols
 carboazotine
 congealer
+chestily
 conrail
 carmalum
 carbodynamite
