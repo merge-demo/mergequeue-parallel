@@ -5530,6 +5530,7 @@ ascalabota
 acrylonitrile
 atopies
 almeidina
+amoebas
 aminoaciduria
 agag
 ashkenazic
@@ -10872,7 +10873,6 @@ algerita
 abyssinians
 automolite
 amoebaeum
-amoebas
 astipulate
 asmolder
 anomia
