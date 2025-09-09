@@ -1222,7 +1222,6 @@ corbie
 cinquecentism
 calendas
 cribble
-catechistically
 celliferous
 calender
 compromissorial
@@ -20389,6 +20388,7 @@ commutated
 commutation
 chiromancer
 commutatively
+catechistically
 craning
 carpogone
 commutativity
