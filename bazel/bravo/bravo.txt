@@ -10380,7 +10380,6 @@ bouncers
 baritone
 bribetaking
 beachboy
-bavaroy
 beneficium
 blemished
 bastion
@@ -13806,6 +13805,7 @@ baggings
 bidential
 brewing
 bedplates
+bavaroy
 bowerlet
 bacteriolytic
 begins
