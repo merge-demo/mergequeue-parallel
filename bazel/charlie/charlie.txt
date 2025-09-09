@@ -8852,7 +8852,6 @@ cassinette
 contaction
 chasmogamy
 companiable
-cycads
 charadrii
 compendiousness
 charadriiformes
@@ -11558,6 +11557,7 @@ cognisability
 colonialization
 cholecystogram
 cholecystography
+cycads
 cholecystokinin
 cyclazocine
 cholecystolithiasis
