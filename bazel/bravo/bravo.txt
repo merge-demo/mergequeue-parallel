@@ -8423,7 +8423,6 @@ braillist
 bronchotomist
 bilipurpurin
 behale
-baronne
 birch
 butyryl
 bearhound
@@ -9752,6 +9751,7 @@ beryx
 boshvarks
 based
 bronchospasm
+baronne
 bandaged
 backswording
 breach
