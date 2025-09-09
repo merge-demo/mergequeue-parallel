@@ -7513,7 +7513,6 @@ agonizing
 alchemized
 archership
 alchemizing
-alchimy
 alkalescence
 alfilerilla
 amphicarpic
@@ -15818,6 +15817,7 @@ armill
 accommodationist
 accidia
 aer
+alchimy
 antipsychotic
 appointor
 albertina
