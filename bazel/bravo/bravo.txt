@@ -8883,7 +8883,6 @@ bluejay
 biogenetic
 bibliographers
 blennothorax
-bacteriotropin
 biogenetics
 bezetta
 bohemias
@@ -14205,6 +14204,7 @@ branchellion
 bravoes
 bewailingly
 bolden
+bacteriotropin
 burelly
 benzaldoxime
 bethylid
