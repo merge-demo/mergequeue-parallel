@@ -6044,7 +6044,6 @@ dealkalize
 disillusion
 difficilitate
 dammit
-desmotrope
 deflates
 dicephalism
 doug
@@ -6464,6 +6463,7 @@ dromaeus
 disbark
 dandruffs
 dorsifixed
+desmotrope
 disencumberment
 dicynodontia
 diag
