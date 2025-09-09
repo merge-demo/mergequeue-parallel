@@ -12704,6 +12704,7 @@ baronry
 begut
 bepreach
 burhmoot
+blurs
 burnishment
 becloaked
 bioelectric
@@ -13326,7 +13327,6 @@ basivertebral
 bothie
 bardesanist
 blamed
-blurs
 beholds
 baggers
 bellicosity
