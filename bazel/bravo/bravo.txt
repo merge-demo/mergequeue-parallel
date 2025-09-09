@@ -6291,7 +6291,6 @@ benzine
 blackfly
 balarama
 bubbliness
-busynesses
 benzocaine
 bardo
 businesswomen
@@ -7911,6 +7910,7 @@ brachystaphylic
 blastaea
 bicyclist
 bostal
+busynesses
 bicycular
 bicylindrical
 boodler
