@@ -5201,7 +5201,6 @@ caurus
 cassina
 corymbed
 cyathophylline
-cisco
 cassinos
 cassioberry
 conflict
@@ -20100,6 +20099,7 @@ commentarialism
 commentated
 cragsmen
 commentative
+cisco
 chai
 credulous
 clee
