@@ -7829,6 +7829,7 @@ desirability
 devoration
 dedenda
 drawsheet
+demicritic
 dairyings
 dogfishes
 dipsomaniacal
@@ -13613,7 +13614,6 @@ dismeasurable
 deuterotoky
 diplomacies
 dissentiously
-demicritic
 deaconship
 drawnet
 dorcopsis
