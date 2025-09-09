@@ -19702,7 +19702,6 @@ ambystoma
 armadas
 agrologies
 aula
-armadilla
 armadillididae
 adductors
 ashore
@@ -19749,6 +19748,7 @@ atrophias
 alphabetology
 avanters
 anglophobiac
+armadilla
 arsenous
 agapetidae
 axinomancy
