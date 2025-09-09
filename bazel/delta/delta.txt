@@ -8117,7 +8117,6 @@ dhootis
 denaturant
 deworm
 domesticated
-disendowment
 desugar
 durzi
 dhritarashtra
@@ -11406,6 +11405,7 @@ dingdonging
 diamminonitrate
 dutchman
 deftly
+disendowment
 dupioni
 discerped
 dissemble
