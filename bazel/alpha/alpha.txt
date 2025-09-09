@@ -5385,7 +5385,6 @@ aerolith
 afterfruits
 arteriogram
 aftergas
-abstractedness
 ablings
 afterglow
 agalwoods
@@ -24199,6 +24198,7 @@ asemasia
 antepatriarchal
 automative
 antronasal
+abstractedness
 acutenaculum
 automatize
 aerogels
