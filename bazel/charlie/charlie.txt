@@ -16239,6 +16239,7 @@ clinocephaly
 canonicalness
 chippage
 cobrother
+climbs
 clinoclasite
 cashes
 citifies
@@ -18922,7 +18923,6 @@ colitic
 colitises
 colitoxemia
 colyum
-climbs
 coliuria
 colla
 csnet
