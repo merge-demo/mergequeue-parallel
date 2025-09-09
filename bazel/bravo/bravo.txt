@@ -525,7 +525,6 @@ backstrapped
 backstreet
 bahut
 blastophoric
-bombsights
 bismuthiferous
 butomaceous
 backstroke
@@ -14459,6 +14458,7 @@ bearm
 bahan
 branchiomeric
 blattoidea
+bombsights
 babroot
 beadle
 buddler
