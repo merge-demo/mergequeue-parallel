@@ -43,6 +43,7 @@ beneficiation
 brawlier
 bechirp
 buts
+barcelonas
 breams
 bish
 bundocks
@@ -6586,7 +6587,6 @@ berigora
 beryl
 beryllonate
 berimed
-barcelonas
 beseemly
 bodyhood
 bering
