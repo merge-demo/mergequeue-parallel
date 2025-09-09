@@ -600,6 +600,7 @@ baconweed
 bowlings
 bierkeller
 boidae
+biserrate
 bonjour
 barniest
 bibbery
@@ -7399,7 +7400,6 @@ bistre
 bleariest
 betwine
 betwixt
-biserrate
 brachypodine
 bronzesmith
 booteries
