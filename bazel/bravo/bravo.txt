@@ -1625,6 +1625,7 @@ begluc
 banneret
 brairding
 bestar
+bowshots
 blacklisting
 brahms
 beauties
@@ -13876,7 +13877,6 @@ baccalaurean
 bowshot
 bulbaceous
 beaucoup
-bowshots
 bombarder
 bloops
 backstopped
