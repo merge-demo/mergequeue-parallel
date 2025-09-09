@@ -1564,6 +1564,7 @@ audioemission
 accouplement
 accouter
 adytum
+appomattoc
 apotype
 accoutered
 ablepsy
@@ -18510,7 +18511,6 @@ arcatures
 acraeinae
 arcboutant
 arccos
-appomattoc
 astrocaryum
 arced
 apostume
