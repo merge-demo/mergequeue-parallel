@@ -10873,7 +10873,6 @@ bipinnatipartite
 backscratcher
 blackamoor
 brokeress
-bumps
 brazer
 biloquist
 biclinia
@@ -13609,6 +13608,7 @@ buttermaking
 birthmark
 bacbakiri
 bountyless
+bumps
 bandcase
 brachycephal
 barre
