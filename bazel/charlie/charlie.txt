@@ -15076,7 +15076,6 @@ chattel
 civory
 chocalho
 ciwies
-collapse
 colloquiality
 cixo
 cize
@@ -16224,6 +16223,7 @@ clinically
 condensations
 cervicovesical
 cask
+collapse
 clinicopathological
 clinkant
 clinkered
