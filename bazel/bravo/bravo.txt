@@ -10789,7 +10789,6 @@ bedevilled
 befurred
 bodysurf
 beamage
-bronteum
 blets
 brachyoura
 bonhomme
@@ -11612,6 +11611,7 @@ buddies
 burette
 bronchocele
 bactericidally
+bronteum
 brandying
 biogen
 beknow
