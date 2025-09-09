@@ -2789,7 +2789,6 @@ bowsprits
 bewig
 bureaus
 buffi
-barites
 bolding
 betulaceous
 baroqueness
@@ -9274,6 +9273,7 @@ birded
 bisectrix
 bahawder
 bimah
+barites
 bebless
 brachiotomy
 bromopikrin

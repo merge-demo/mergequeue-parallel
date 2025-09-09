@@ -2833,7 +2833,6 @@ devotions
 drail
 drepanis
 dronet
-draper
 didunculidae
 decurion
 dispensatories
@@ -14695,6 +14694,7 @@ diverticulosis
 draine
 daubreeite
 demoralised
+draper
 divulge
 divulged
 deputational
