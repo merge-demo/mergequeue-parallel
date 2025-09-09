@@ -1657,7 +1657,6 @@ bilobated
 balloted
 bibliothetic
 balibuntl
-balloting
 ballotist
 batell
 ballots
@@ -7208,6 +7207,7 @@ buccolingual
 betaxed
 brazening
 brazera
+balloting
 bufidin
 buck
 borides

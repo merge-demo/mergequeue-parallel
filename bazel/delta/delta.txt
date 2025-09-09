@@ -5530,6 +5530,7 @@ dermoskeletal
 departmental
 dimers
 disrobers
+decussion
 desiccate
 dunting
 dilemmas
@@ -8242,7 +8243,6 @@ dados
 debaucheries
 damasked
 debouche
-decussion
 dissectors
 dulcor
 diadochic
