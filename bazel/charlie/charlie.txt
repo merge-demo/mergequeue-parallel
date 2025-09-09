@@ -11430,7 +11430,6 @@ coals
 crotaloid
 chocks
 chocoan
-chocolate
 chocolatey
 chine
 chocolates
@@ -26887,6 +26886,7 @@ commelinaceae
 craniological
 contemner
 cushioniness
+chocolate
 creedalist
 countermanding
 cembalo
