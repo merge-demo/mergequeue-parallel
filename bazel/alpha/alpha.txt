@@ -6450,6 +6450,7 @@ antibaryon
 americanumancestors
 aigialosaur
 aigialosauridae
+anathematizes
 aigialosaurus
 antasthenic
 aiglet
@@ -12688,7 +12689,6 @@ antihysteric
 anatomisation
 athenaea
 antigod
-anathematizes
 asemia
 almners
 awardable
