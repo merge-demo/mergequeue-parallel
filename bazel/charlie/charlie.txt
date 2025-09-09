@@ -18574,7 +18574,6 @@ cohosted
 cohosts
 chevrons
 cohune
-callianassa
 choloidic
 creneled
 catnache
@@ -29331,6 +29330,7 @@ cryptous
 cryptovalence
 cymoidium
 cryptovolcanism
+callianassa
 cryptozygy
 cannele
 cryptozygosity
