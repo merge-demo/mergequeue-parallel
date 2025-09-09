@@ -6423,7 +6423,6 @@ admedial
 ariste
 antiserums
 aldebaranium
-ayatollah
 aiblins
 autographal
 ankou
@@ -23069,6 +23068,7 @@ attest
 attestable
 amphibology
 artel
+ayatollah
 arsonvalization
 abolla
 alytarch
