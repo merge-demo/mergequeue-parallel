@@ -4736,7 +4736,6 @@ bedsonia
 blottesque
 bedsonias
 bescribbling
-bedsore
 blacktree
 bakers
 believableness
@@ -16983,6 +16982,7 @@ bulkish
 beetrave
 bull
 boiette
+bedsore
 biocoenosis
 brachiocephalic
 bacterize
