@@ -241,7 +241,6 @@ corregidor
 crumbly
 cachemic
 coemploy
-cities
 cassiduloidea
 cachepot
 chillies
@@ -10180,6 +10179,7 @@ caapeba
 chia
 chiack
 chyack
+cities
 chiao
 capsicum
 chiapanec

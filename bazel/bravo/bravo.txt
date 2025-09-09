@@ -8396,6 +8396,7 @@ brevicauda
 bilimbing
 bolted
 beaufin
+barrooms
 bromeosin
 bilin
 boddagh
@@ -11063,7 +11064,6 @@ barra
 blockship
 blodite
 besmeared
-barrooms
 bodikin
 bridling
 backbreaking
