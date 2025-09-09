@@ -9403,6 +9403,7 @@ dockages
 demonstrance
 drudge
 depulse
+debateable
 dottels
 dopplerite
 dautie
@@ -10283,7 +10284,6 @@ dermoskeleton
 doura
 dutch
 decrepid
-debateable
 detonatability
 dyspnoeic
 dermatologists
