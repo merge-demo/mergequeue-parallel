@@ -7551,7 +7551,6 @@ disrupting
 diplanetism
 dentiloquy
 deuterium
-deinocephalia
 declaimed
 dominators
 deuterocanonical
@@ -14313,6 +14312,7 @@ diluter
 ditertiary
 diselectrify
 disyokes
+deinocephalia
 dooms
 dithecal
 dither
