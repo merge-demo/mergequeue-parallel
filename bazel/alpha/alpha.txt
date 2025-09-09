@@ -6026,6 +6026,7 @@ abatable
 azotised
 admissions
 aus
+anatheme
 actinocutitis
 aroeira
 agnations
@@ -11973,7 +11974,6 @@ anathematizer
 antihumanist
 alidades
 alliances
-anatheme
 actuaryship
 anatidae
 amidstream
