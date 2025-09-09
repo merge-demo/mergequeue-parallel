@@ -6111,6 +6111,7 @@ derays
 dysmetria
 dualin
 dropout
+diaulic
 dimission
 durgen
 deader
@@ -8767,7 +8768,6 @@ devolute
 dichogamy
 doodle
 diatreme
-diaulic
 distilery
 decorably
 doge
