@@ -9222,7 +9222,6 @@ balisier
 bloviating
 beany
 bawdry
-buzuki
 bilipyrrhin
 birational
 bugara
@@ -10667,6 +10666,7 @@ balian
 bandfish
 bogijiab
 birthplace
+buzuki
 brachistocephali
 boney
 bathycolpian
