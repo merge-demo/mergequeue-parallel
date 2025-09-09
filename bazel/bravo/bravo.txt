@@ -3320,6 +3320,7 @@ beid
 batocrinus
 beal
 bromargyrite
+balaghaut
 basketwork
 blueballs
 baskish
@@ -15428,7 +15429,6 @@ briniest
 bemuck
 beefin
 balut
-balaghaut
 boondoggle
 byliners
 bestreak
