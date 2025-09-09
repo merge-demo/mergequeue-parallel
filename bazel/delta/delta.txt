@@ -799,7 +799,6 @@ deckhead
 detections
 dipodomyinae
 dangerously
-deduced
 distention
 demarcates
 decimals
@@ -12012,6 +12011,7 @@ deputizes
 descry
 dewater
 dilacerate
+deduced
 deducing
 deleading
 direfulness
