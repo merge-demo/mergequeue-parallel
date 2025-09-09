@@ -5980,6 +5980,7 @@ avianized
 apopetalous
 aglycon
 altair
+anticult
 aeonian
 aufklarung
 acrindolin
@@ -10805,7 +10806,6 @@ assemblage
 append
 archeological
 aitches
-anticult
 argillocalcite
 amphib
 afrits
