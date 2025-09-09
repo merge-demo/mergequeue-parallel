@@ -13642,6 +13642,7 @@ consuetude
 conduciveness
 cynanche
 cooree
+crypticness
 cutlases
 concentus
 celastraceous
@@ -29180,7 +29181,6 @@ crypteroniaceae
 chromophile
 cryptical
 cryptically
-crypticness
 coupled
 cryptoagnostic
 coextended
