@@ -8096,6 +8096,7 @@ chainmen
 capitare
 cultists
 crashers
+castalian
 coelastrum
 chainsman
 caponising
@@ -19831,7 +19832,6 @@ combustion
 combustious
 combustive
 choristry
-castalian
 cislunar
 combusts
 charites
