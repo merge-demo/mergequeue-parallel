@@ -17983,6 +17983,7 @@ ciborium
 clubwood
 circumvolving
 coelentera
+cornice
 cubicle
 colics
 cattlehide
@@ -25378,7 +25379,6 @@ consummate
 corny
 calliphorid
 cornic
-cornice
 conacaste
 costodiaphragmatic
 choragus
