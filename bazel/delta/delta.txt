@@ -6807,7 +6807,6 @@ disleafing
 deterrer
 dreadfuls
 decayed
-deceptivity
 devchar
 debone
 desmidiology
@@ -8595,6 +8594,7 @@ dezincification
 duodenation
 disillusionising
 demonship
+deceptivity
 dimercury
 dendrochronologist
 diaphtherin

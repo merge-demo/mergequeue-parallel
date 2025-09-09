@@ -3525,7 +3525,6 @@ bellower
 baryons
 bimini
 benincasa
-burgages
 bore
 brainteasers
 beuniformed
@@ -18187,6 +18186,7 @@ bodgie
 bremely
 busycon
 brigbote
+burgages
 butteraceous
 boredness
 blissless
