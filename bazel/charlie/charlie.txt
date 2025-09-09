@@ -984,6 +984,7 @@ colourtype
 cohoba
 calascione
 cydonia
+chaplains
 calathea
 calathi
 calathidia
@@ -8741,7 +8742,6 @@ chaplain
 concolour
 canulated
 chaplaincies
-chaplains
 curiboca
 cosmotheist
 carpocapsa
