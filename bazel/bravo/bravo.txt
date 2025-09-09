@@ -5841,7 +5841,6 @@ betaines
 bradmaker
 beloeilite
 basimesostasis
-bescoured
 belomancy
 belonger
 bronchophonic
@@ -9857,6 +9856,7 @@ bastardice
 balancelle
 burk
 bituminate
+bescoured
 bituminising
 burnbeat
 bedivere

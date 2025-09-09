@@ -4034,6 +4034,7 @@ darknesses
 dismissible
 delicatessen
 dynam
+deface
 dhava
 dustoor
 disfeature
@@ -7007,7 +7008,6 @@ despond
 dantonist
 dentelure
 demographers
-deface
 despondence
 despondencies
 dar
