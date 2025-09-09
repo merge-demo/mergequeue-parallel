@@ -19662,7 +19662,6 @@ antinihilistic
 arithmancy
 adglutinate
 arenose
-arithmetic
 autophthalmoscope
 albarellos
 antechurch
@@ -20011,6 +20010,7 @@ adneural
 ayatollahs
 ascaris
 afterknowledge
+arithmetic
 agadic
 aromatous
 austrogaean
