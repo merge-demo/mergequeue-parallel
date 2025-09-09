@@ -8045,7 +8045,6 @@ besieging
 borons
 bloodhound
 bidiagonal
-bidimensional
 befouls
 bidirectional
 biophagy
@@ -15034,6 +15033,7 @@ bashlyk
 blows
 bulging
 biomaterial
+bidimensional
 breviconic
 bunkered
 besmearer
