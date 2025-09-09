@@ -7268,7 +7268,6 @@ cephalaspis
 cocoonery
 condurrite
 cephalate
-cephalhematoma
 coracovertebral
 cephalic
 chequering
@@ -24563,6 +24562,7 @@ chorisos
 copia
 clapped
 copyboy
+cephalhematoma
 curarization
 cankeredness
 copyboys
