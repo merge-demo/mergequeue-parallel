@@ -5131,6 +5131,7 @@ angiocardiographies
 affies
 airscape
 addio
+anagrams
 affiliating
 atramentous
 apery
@@ -21764,7 +21765,6 @@ assistless
 assith
 adnumber
 assyth
-anagrams
 antiemperor
 avenalin
 assize
