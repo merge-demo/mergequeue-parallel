@@ -22341,6 +22341,7 @@ conciator
 congregative
 congreso
 congress
+canted
 calcaria
 cylindered
 congresser
@@ -26105,7 +26106,6 @@ cagey
 chigoe
 cirsophthalmia
 cosmographic
-canted
 concomitantly
 cosmographically
 cosmographies
