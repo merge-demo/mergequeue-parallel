@@ -2503,6 +2503,7 @@ candiru
 candite
 candytuft
 curryfavel
+cassegrainian
 candyweed
 crosstie
 cleverness
@@ -5176,7 +5177,6 @@ caveats
 cerin
 cassegrain
 chromomeric
-cassegrainian
 casseroling
 carpophore
 carinule
