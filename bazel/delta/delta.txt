@@ -1534,7 +1534,6 @@ doublure
 deadlier
 deaden
 droops
-docked
 drippings
 dices
 discommoning
@@ -16812,6 +16811,7 @@ dicey
 desalt
 disclaimer
 disauthorize
+docked
 dramshop
 disconcerted
 drant

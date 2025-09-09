@@ -11656,6 +11656,7 @@ chinchiness
 corruptness
 cholo
 chaver
+civilians
 cinematographic
 crossroading
 chololithic
@@ -15038,7 +15039,6 @@ cardiod
 civilian
 chalcostibite
 civilianize
-civilians
 complementalness
 civilisational
 chrysophilist
