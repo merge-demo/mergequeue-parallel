@@ -5728,7 +5728,6 @@ disinterring
 dried
 desophisticate
 decastich
-drepanid
 demit
 deplorabilia
 dixain
@@ -7258,6 +7257,7 @@ disinhumed
 detectible
 detection
 diamantiferous
+drepanid
 deadlight
 disparatum
 decourt
