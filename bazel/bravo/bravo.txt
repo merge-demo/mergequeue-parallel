@@ -6188,7 +6188,6 @@ benefact
 bacillophobia
 beggared
 barbigerous
-bravadoed
 bensh
 bluffness
 brimfully
@@ -16018,6 +16017,7 @@ brailler
 beacons
 bursati
 blotting
+bravadoed
 broomstraw
 bonelessness
 befret
