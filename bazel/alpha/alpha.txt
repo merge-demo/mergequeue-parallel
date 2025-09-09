@@ -18999,6 +18999,7 @@ archpuritan
 acroataxia
 archregent
 archrobber
+arg
 archrogue
 archruler
 archsaint
@@ -24321,7 +24322,6 @@ acrostolia
 activisms
 autoreinfusion
 antimedievalist
-arg
 autorhythmus
 aselgeia
 authorly
