@@ -5528,6 +5528,7 @@ beknighted
 beknotted
 burrio
 bacchuslike
+beedi
 beknottedly
 bobet
 blimpishly
@@ -13860,7 +13861,6 @@ boloball
 braising
 bandon
 bowleggedness
-beedi
 bowles
 bacteriaceae
 balwarra
