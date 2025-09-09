@@ -5291,7 +5291,6 @@ bultell
 baidar
 breviers
 begnaw
-beglue
 big
 biharmonic
 balmy
@@ -9375,6 +9374,7 @@ bathymeter
 bacteriorhodopsin
 blanket
 basaltine
+beglue
 bemedaled
 bashes
 birma
