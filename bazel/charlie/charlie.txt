@@ -14698,7 +14698,6 @@ cistrons
 conventionality
 cists
 cistudo
-colonic
 citable
 cairns
 citadel
@@ -21742,6 +21741,7 @@ cruiserweight
 cuna
 condoler
 coaxers
+colonic
 coleuses
 clumproot
 chimarikan
