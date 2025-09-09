@@ -10310,7 +10310,6 @@ chickenheartedness
 chickening
 collielike
 colchicia
-chickenpox
 chickenwort
 chicker
 corruptible
@@ -28322,6 +28321,7 @@ crawliest
 crawlingly
 crawlsome
 crawlspace
+chickenpox
 cliented
 cannibalistically
 compulsoriness

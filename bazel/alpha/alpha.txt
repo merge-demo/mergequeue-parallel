@@ -15679,7 +15679,6 @@ antiphysically
 antiphysicalness
 adulterating
 appropriament
-aecidiospore
 antiphlogistian
 asport
 airmarker
@@ -24460,6 +24459,7 @@ autovivisection
 apologal
 autoxidation
 alcine
+aecidiospore
 autoxidator
 archaeologically
 autoxidizability
