@@ -913,7 +913,6 @@ decatholicize
 dripple
 disburdens
 danio
-dokimastic
 dudman
 daphni
 dollyway
@@ -14656,6 +14655,7 @@ develope
 decomposition
 desalinize
 dondine
+dokimastic
 divisorial
 diesinking
 divisural

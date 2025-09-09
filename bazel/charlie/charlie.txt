@@ -23170,6 +23170,7 @@ constitutionalize
 constitutionally
 constitutionary
 constitutions
+copyreading
 chromatoid
 chiseling
 constitutiveness
@@ -24618,7 +24619,6 @@ copyread
 coarsest
 copyreader
 copyreaders
-copyreading
 craye
 curiosos
 copyrightable
