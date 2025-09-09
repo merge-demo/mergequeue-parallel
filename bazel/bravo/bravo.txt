@@ -9642,6 +9642,7 @@ basitting
 babble
 beside
 bairnish
+buckleless
 boatie
 buckskin
 bedragglement
@@ -16620,7 +16621,6 @@ bilkers
 buckle
 buckled
 bebilya
-buckleless
 baklavas
 bleached
 bodycheck

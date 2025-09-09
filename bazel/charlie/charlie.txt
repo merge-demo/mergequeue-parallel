@@ -14839,6 +14839,7 @@ czaristic
 citole
 citoles
 calker
+characterist
 counterglow
 cytolist
 cytolytic
@@ -26503,7 +26504,6 @@ casaun
 cruelhearted
 couchmaker
 crocein
-characterist
 chaetophora
 compearant
 cougar
