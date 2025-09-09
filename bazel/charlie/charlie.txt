@@ -5074,6 +5074,7 @@ casernes
 cases
 catarrhally
 caseum
+cobberer
 caseweed
 caseworks
 caseworm
@@ -9001,7 +9002,6 @@ charlesworth
 charlet
 costotomies
 charlocks
-cobberer
 charm
 cowlick
 ceratiidae
