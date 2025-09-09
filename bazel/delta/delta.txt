@@ -7258,7 +7258,6 @@ darklings
 delubrum
 deverbative
 desolately
-deviltry
 dyingly
 detente
 disjected
@@ -17042,6 +17041,7 @@ deltalike
 discerp
 dithery
 depucel
+deviltry
 demonises
 dredgers
 discreet
