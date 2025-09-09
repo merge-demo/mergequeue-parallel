@@ -10058,6 +10058,7 @@ chimney
 chesoun
 carloadings
 chessboards
+clypeus
 collab
 chipchap
 chessdom
@@ -16318,7 +16319,6 @@ curatrix
 clypeated
 clypeola
 clypeolar
-clypeus
 cyanomethaemoglobin
 clipped
 columniation
