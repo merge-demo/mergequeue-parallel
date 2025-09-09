@@ -6758,6 +6758,7 @@ bishopless
 baronetized
 besaile
 brachycephalic
+bridle
 besan
 brainchildren
 bescab
@@ -15231,7 +15232,6 @@ ballyhoos
 bridgework
 bridie
 brumal
-bridle
 bridlers
 boredom
 ballerine
