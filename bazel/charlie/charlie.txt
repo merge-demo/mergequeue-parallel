@@ -14824,6 +14824,7 @@ corselette
 concitizen
 cytoid
 citoyenne
+curwillet
 confiscated
 caprifigs
 conscious
@@ -20074,7 +20075,6 @@ circularizations
 commendatorily
 commended
 coaming
-curwillet
 commender
 craftsman
 commending
