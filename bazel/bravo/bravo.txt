@@ -9704,7 +9704,6 @@ banderoles
 boos
 brigandish
 barbarious
-bisubstituted
 bisubstitution
 babblingly
 bubblebow
@@ -15342,6 +15341,7 @@ budgerigars
 breechblock
 buonamani
 brilliant
+bisubstituted
 beheading
 brilliantined
 beiges
