@@ -3622,7 +3622,6 @@ bipinnately
 bassanello
 batlon
 blackball
-beethoven
 bumbleberry
 betacism
 bakehouses
@@ -7246,6 +7245,7 @@ bocklogged
 bullidae
 bilbies
 bibliolatrist
+beethoven
 becumber
 brasilia
 beleft
