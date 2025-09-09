@@ -3982,7 +3982,6 @@ crissum
 cardcases
 cardel
 ceroid
-cardia
 chromocentral
 creaminess
 cardiac
@@ -25100,6 +25099,7 @@ combinantive
 cores
 carbonates
 corpselikeness
+cardia
 chaulmugra
 catalects
 celtization
