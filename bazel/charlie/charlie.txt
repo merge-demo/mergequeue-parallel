@@ -10817,6 +10817,7 @@ contendingly
 collagens
 chlordane
 chiolite
+connected
 chionablepsia
 chionaspis
 candlepower
@@ -22584,7 +22585,6 @@ cholecystnephrostomy
 connaught
 chastiment
 connectable
-connected
 connectedly
 connecter
 confabbed
