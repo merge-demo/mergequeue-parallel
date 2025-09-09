@@ -8497,7 +8497,6 @@ chancelloress
 copybook
 chancellors
 coon
-califates
 chancellorship
 chancellorships
 cilices
@@ -27740,6 +27739,7 @@ crookneck
 coxcombic
 chondrus
 cordleaf
+califates
 cenosite
 coxcomically
 cenobitical
