@@ -11474,7 +11474,6 @@ classmen
 calumnies
 costless
 chokage
-chairer
 chokeberry
 cavalcaded
 certif
@@ -19357,6 +19356,7 @@ cruciate
 cyrtidae
 colonizable
 colonize
+chairer
 comminating
 courted
 calces
