@@ -10775,6 +10775,7 @@ disdenominationalize
 digammic
 diprotodan
 delian
+dovyalis
 dragonlike
 daguerrean
 dips
@@ -11470,7 +11471,6 @@ desktop
 discontentedly
 deadbeats
 doctrinize
-dovyalis
 disclass
 dermorhynchous
 drossing
