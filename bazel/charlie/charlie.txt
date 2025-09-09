@@ -15318,7 +15318,6 @@ compatriot
 clanged
 crowdie
 critturs
-coexist
 clanging
 corticoefferent
 clangorous
@@ -17734,6 +17733,7 @@ confraternity
 circumundulate
 cockroaches
 crax
+coexist
 cozing
 cockscombed
 cockscombs
