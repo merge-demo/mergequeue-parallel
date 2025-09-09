@@ -8442,7 +8442,6 @@ appendiculariidae
 antiphonetic
 anorexies
 alkylidene
-aphidiinae
 aborts
 aigrettes
 alkyls
@@ -13825,6 +13824,7 @@ antagonistically
 amblyrhynchus
 adscendent
 alloplasmic
+aphidiinae
 algist
 apronlike
 amortised
