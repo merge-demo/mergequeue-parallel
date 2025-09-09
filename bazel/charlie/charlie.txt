@@ -11187,7 +11187,6 @@ colonizers
 carousers
 chloranthy
 constuprate
-charquid
 chloranthus
 chemoreceptivities
 chlorate
@@ -15925,6 +15924,7 @@ cleped
 copycatting
 customable
 clepsydra
+charquid
 contorniate
 cleptobioses
 counterinsurgents
