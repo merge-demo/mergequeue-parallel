@@ -10397,7 +10397,6 @@ amicability
 amicabilities
 amicably
 amphipodous
-antiphonical
 amarettos
 answerableness
 anesis
@@ -22219,6 +22218,7 @@ aced
 astrodynamic
 aidmanmen
 afterbodies
+antiphonical
 africanist
 anthropolitic
 avilion
