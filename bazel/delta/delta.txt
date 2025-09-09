@@ -8151,7 +8151,6 @@ developpes
 damageability
 decidable
 disbanded
-drivable
 dinosaurs
 diabetometer
 demineralize
@@ -9065,6 +9064,7 @@ dauerschlaf
 drowsiness
 diplomatism
 disowns
+drivable
 dern
 distortive
 desegmented
