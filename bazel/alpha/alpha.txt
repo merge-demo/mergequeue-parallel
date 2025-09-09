@@ -3277,7 +3277,6 @@ aglobulia
 adarbitrium
 abruptio
 abridgeable
-adarme
 adatis
 argled
 aeolian
@@ -7142,6 +7141,7 @@ alexanders
 abamps
 alarmedly
 angiotomy
+adarme
 assn
 alarmingness
 alarmism
