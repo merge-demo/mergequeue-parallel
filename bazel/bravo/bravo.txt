@@ -5863,7 +5863,6 @@ backswordmen
 batswing
 blitzkrieg
 belast
-berber
 bulwark
 blankit
 belowground
@@ -16040,6 +16039,7 @@ ban
 bloodstain
 baycuru
 bins
+berber
 begloomed
 brotel
 brothe
