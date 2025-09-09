@@ -1610,7 +1610,6 @@ binate
 bedpans
 ballista
 byplay
-boilermaker
 basketlike
 beatinest
 ballistician
@@ -2501,6 +2500,7 @@ beslash
 bassetite
 barguest
 battakhin
+boilermaker
 bartletts
 bumblebees
 buzylene
