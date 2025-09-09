@@ -10714,7 +10714,6 @@ bywords
 befrill
 blastings
 boatsmen
-blepharadenitis
 blepharanthracosis
 blepharemphysema
 boylike
@@ -15507,6 +15506,7 @@ berycoidean
 blindfoldedness
 bivector
 bisected
+blepharadenitis
 brigander
 bronchitis
 borer
