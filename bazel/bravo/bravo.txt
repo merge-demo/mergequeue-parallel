@@ -15293,6 +15293,7 @@ bannerlike
 brighten
 brightish
 brightsmith
+bescorched
 banged
 berylate
 bandannaed
@@ -17297,7 +17298,6 @@ bediapers
 blanketer
 bagman
 blamers
-bescorched
 bounties
 bellicosely
 breviary
