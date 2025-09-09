@@ -5207,6 +5207,7 @@ diaphote
 desmosis
 denunciations
 deputy
+dismisses
 denominations
 desired
 dhurna
@@ -11840,7 +11841,6 @@ delivering
 dousers
 dandification
 demirep
-dismisses
 delabialize
 dosserets
 diplosphene

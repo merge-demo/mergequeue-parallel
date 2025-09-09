@@ -6681,6 +6681,7 @@ coryphylly
 cypres
 celerities
 chitinoid
+cascara
 celestas
 celeste
 celiosalpingotomy
@@ -27473,7 +27474,6 @@ covassal
 cove
 coadunate
 coved
-cascara
 clavately
 covey
 coveys
