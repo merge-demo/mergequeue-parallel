@@ -3965,6 +3965,7 @@ admonishes
 anaesthetizing
 aquincubitalism
 aficionados
+ampullary
 accompanable
 admonishingly
 affinal
@@ -11333,7 +11334,6 @@ autoexcitation
 archduke
 anhydremia
 apodosis
-ampullary
 arachnological
 ampullate
 amphioxus
