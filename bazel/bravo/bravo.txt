@@ -2061,6 +2061,7 @@ bollixing
 bannat
 baulky
 bannerline
+barhops
 bannerole
 blossomry
 betide
@@ -9383,7 +9384,6 @@ biggins
 blepharophryplasty
 burweed
 bipunctal
-barhops
 barbarian
 bagrationite
 birn
