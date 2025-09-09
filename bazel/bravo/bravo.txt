@@ -4105,7 +4105,6 @@ birdwatch
 bagwigs
 bearward
 bearwort
-bravadoing
 beasthood
 bacons
 baniwa
@@ -8740,6 +8739,7 @@ buckbean
 bromeliaceae
 bari
 banalities
+bravadoing
 brazas
 bromothymol
 babbittess
