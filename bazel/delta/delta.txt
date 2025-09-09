@@ -8196,6 +8196,7 @@ drapeability
 davened
 druidism
 digitalism
+dispersibility
 disconvenient
 dedentition
 dicotylous
@@ -16634,7 +16635,6 @@ diurnal
 draggers
 draggier
 diacritics
-dispersibility
 disbanding
 destinies
 dodecarchy
