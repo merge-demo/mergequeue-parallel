@@ -2350,7 +2350,6 @@ bastinade
 bisexualism
 biolysis
 belligerency
-bachelorlike
 blockier
 bolete
 barbula
@@ -2540,6 +2539,7 @@ broadhorn
 bilamellar
 begster
 brained
+bachelorlike
 barbarians
 bosque
 burghalpenny
