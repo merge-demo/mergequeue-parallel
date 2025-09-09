@@ -1580,7 +1580,6 @@ crureus
 cadillac
 calmest
 calmiest
-coeducationally
 calming
 calmness
 calmnesses
@@ -23568,6 +23567,7 @@ connoissance
 celiitis
 cochranea
 contingential
+coeducationally
 contingentialness
 contingently
 continual
