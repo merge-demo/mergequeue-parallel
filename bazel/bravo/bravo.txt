@@ -13372,7 +13372,6 @@ botone
 bourgeoned
 blanche
 brushing
-bulgier
 begloze
 birles
 botryllus
@@ -17389,6 +17388,7 @@ bemadaming
 babeldom
 browny
 bunny
+bulgier
 bunnia
 boardable
 bunnies

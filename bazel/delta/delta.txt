@@ -2628,6 +2628,7 @@ decompoundly
 decompress
 decagonal
 decompresses
+depravers
 detectaphone
 demiplacate
 decompressive
@@ -14324,7 +14325,6 @@ dooms
 dithecal
 dither
 deporter
-depravers
 deisms
 defoliator
 delies
