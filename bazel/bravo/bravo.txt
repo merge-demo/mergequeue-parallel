@@ -4434,7 +4434,6 @@ bidi
 bumptiously
 biogenous
 benzomorpholine
-buhrstone
 borocalcite
 brutifies
 bhakti
@@ -11118,6 +11117,7 @@ bandarlog
 boiloff
 balloters
 befrilled
+buhrstone
 bloodthirster
 beliquors
 bacillariaceous
