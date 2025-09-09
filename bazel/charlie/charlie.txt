@@ -16314,7 +16314,6 @@ curatrix
 clypeated
 clypeola
 clypeolar
-cyanomethaemoglobin
 clipped
 columniation
 clippie
@@ -17637,6 +17636,7 @@ clallam
 capitoul
 cumins
 culrage
+cyanomethaemoglobin
 coccochromatic
 coccogone
 coccogoneae
