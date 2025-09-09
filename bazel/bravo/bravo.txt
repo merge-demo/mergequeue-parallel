@@ -1497,7 +1497,6 @@ bluestocking
 blanchingly
 boarishly
 bices
-balker
 bastardise
 balkiest
 berskin
@@ -18391,6 +18390,7 @@ bilinite
 bohea
 buzzies
 budwood
+balker
 bedarkens
 brazing
 biaxal

@@ -10289,6 +10289,7 @@ chichling
 chick
 chelidosaurus
 chickabiddy
+cruse
 chemosorb
 cachoeira
 clactonian
@@ -20667,7 +20668,6 @@ complainants
 conventionism
 canalized
 complained
-cruse
 complainingly
 complains
 cascaron
