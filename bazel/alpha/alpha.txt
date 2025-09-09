@@ -2056,6 +2056,7 @@ agave
 aptness
 acroteral
 achilous
+actinolitic
 achylous
 arend
 achymia
@@ -4689,7 +4690,6 @@ arboreal
 aperture
 aequoreal
 abounding
-actinolitic
 aerobioscope
 aerobiosis
 aerobiotic
