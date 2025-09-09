@@ -22938,7 +22938,6 @@ chequeen
 calyptra
 consign
 consignataries
-counterretreat
 comforting
 couplers
 chromosomic
@@ -27497,6 +27496,7 @@ cisted
 correlations
 covenantee
 complementizer
+counterretreat
 culminating
 covenanter
 covenants
