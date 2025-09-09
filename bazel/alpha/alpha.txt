@@ -4731,7 +4731,6 @@ aerocyst
 armlet
 adoptionism
 allomerous
-antiscii
 aerocraft
 aspheterize
 amas
@@ -22966,6 +22965,7 @@ alluviation
 attars
 anarthropoda
 augurs
+antiscii
 ahungry
 alkahestica
 autorhythmic
