@@ -24505,6 +24505,7 @@ circles
 commandrie
 copartnership
 chronodeik
+counterfire
 counterquarterly
 cleek
 copassionate
@@ -26797,7 +26798,6 @@ chittering
 chilopod
 counterfeits
 counterfessed
-counterfire
 counterflange
 cruzados
 crystallogram
