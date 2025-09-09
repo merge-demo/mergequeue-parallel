@@ -4745,6 +4745,7 @@ aerodynamics
 agonium
 ambitionist
 allochirally
+agadic
 aerodyne
 astonisher
 aerodynes
@@ -20000,7 +20001,6 @@ ayatollahs
 ascaris
 afterknowledge
 arithmetic
-agadic
 aromatous
 austrogaean
 annals
