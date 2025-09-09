@@ -7093,7 +7093,6 @@ deterrently
 domajig
 destituent
 demesmerize
-descriptiveness
 dionize
 desto
 disvalues
@@ -17657,6 +17656,7 @@ disrates
 dichotomisation
 dishevels
 drusy
+descriptiveness
 dreamfulness
 druther
 discolichen
