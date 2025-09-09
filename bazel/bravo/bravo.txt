@@ -9583,7 +9583,6 @@ broomsticks
 badinaging
 bamboozling
 bromids
-bismuthate
 burhinus
 bedrolls
 babuls
@@ -12970,6 +12969,7 @@ boraginaceous
 borago
 bugger
 bedamn
+bismuthate
 boran
 boranes
 bradyteleocinesia
