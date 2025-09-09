@@ -7576,7 +7576,6 @@ alcoate
 antepyretic
 ambigenous
 alcoholist
-abelicea
 aeneous
 absistos
 adaw
@@ -11689,6 +11688,7 @@ aparavidya
 analysers
 acetometric
 abstentions
+abelicea
 aerides
 analyses
 activize
