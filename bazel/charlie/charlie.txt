@@ -2486,6 +2486,7 @@ coasters
 catalogued
 couxio
 candies
+canvassy
 catcall
 consternation
 cueing
@@ -12857,7 +12858,6 @@ churchwoman
 churchwomen
 churel
 churidars
-canvassy
 cupidity
 churinga
 churingas
