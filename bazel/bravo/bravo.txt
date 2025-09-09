@@ -3439,7 +3439,6 @@ basto
 baguios
 bucklandite
 beshamed
-bibliolatrous
 bovine
 banuyo
 basural
@@ -18064,6 +18063,7 @@ berthierite
 blazing
 butane
 butanoic
+bibliolatrous
 butanol
 bibliopegistical
 boned
