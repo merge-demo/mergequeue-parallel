@@ -14540,7 +14540,6 @@ cista
 cockroach
 cubicontravariant
 cystalgia
-cystamine
 commatism
 cysteamine
 cystectasia
@@ -26669,6 +26668,7 @@ counterattack
 capellane
 cacanthrax
 cyclamate
+cystamine
 cervid
 counterattacker
 caenogenetically
