@@ -4630,7 +4630,6 @@ commas
 contralateral
 choenix
 carpetbags
-calcedon
 counterearth
 ciboria
 catchall
@@ -15894,6 +15893,7 @@ councils
 chaetopterin
 catalectic
 cleistogeny
+calcedon
 clinium
 camauro
 cleithral
