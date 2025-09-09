@@ -16450,7 +16450,6 @@ cloaklet
 cathodic
 culbert
 cowichan
-citrange
 corncobs
 costumist
 chaunt
@@ -21558,6 +21557,7 @@ carpenteria
 conchinine
 chasteningly
 concubines
+citrange
 cottonless
 concubitancy
 caprid
