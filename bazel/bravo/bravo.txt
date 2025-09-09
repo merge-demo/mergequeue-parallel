@@ -3526,6 +3526,7 @@ bimini
 benincasa
 burgages
 bore
+brainteasers
 beuniformed
 brahmanists
 bathycolpic
@@ -5369,7 +5370,6 @@ behaved
 behaver
 behaving
 beanshooter
-brainteasers
 brakes
 bathylimnetic
 befits
