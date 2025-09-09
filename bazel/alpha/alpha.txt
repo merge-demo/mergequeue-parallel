@@ -139,6 +139,7 @@ abatised
 amine
 antiatoms
 alcades
+archenteric
 animalivora
 abaton
 asperggilli
@@ -3074,7 +3075,6 @@ alagao
 actory
 actress
 ahems
-archenteric
 antipathogen
 aminic
 arachide
