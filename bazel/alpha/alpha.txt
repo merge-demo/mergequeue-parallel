@@ -3163,7 +3163,6 @@ assassin
 acutograve
 analogist
 acutonodose
-aurene
 anthropomorphist
 acxoyatl
 autophotograph
@@ -5230,6 +5229,7 @@ autoslip
 acuminated
 affranchise
 adiadokokinesi
+aurene
 amphicoelian
 affret
 afghanets
