@@ -6609,6 +6609,7 @@ berk
 bashaw
 brooking
 basiotribe
+boeotian
 bregmata
 basirhinal
 blowsily
@@ -8791,7 +8792,6 @@ burgraviate
 branchiopodan
 beslow
 bromvogel
-boeotian
 bonedog
 buggeries
 biddings
