@@ -3170,7 +3170,6 @@ coverlet
 craked
 citruses
 capework
-capful
 caphar
 cognately
 corsaint
@@ -23187,6 +23186,7 @@ constrainedness
 carroll
 copping
 coiffure
+capful
 constrainingly
 cubbyhole
 constraints
