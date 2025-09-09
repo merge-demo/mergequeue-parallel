@@ -1864,6 +1864,7 @@ brownism
 brython
 birken
 bandhook
+boudoiresque
 barrico
 balladromic
 bandicoy
@@ -9975,7 +9976,6 @@ burnoused
 bizarreness
 burys
 bradynosus
-boudoiresque
 baseband
 bizel
 bizonal
