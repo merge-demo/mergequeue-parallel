@@ -12684,7 +12684,6 @@ angiosymphysis
 adry
 attacks
 angiosporous
-angiostrophy
 atveen
 angiotasis
 aramaic
@@ -16149,6 +16148,7 @@ agronomically
 antitabetic
 antitabloid
 antitank
+angiostrophy
 autodyne
 aeroview
 autocorrelation
