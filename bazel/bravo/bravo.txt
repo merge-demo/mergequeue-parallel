@@ -2970,6 +2970,7 @@ boulevard
 barrister
 bootless
 banda
+bathyl
 bradykinesia
 botts
 broadshare
@@ -9764,7 +9765,6 @@ bowleg
 beknight
 birthplaces
 brail
-bathyl
 basilar
 balloonflower
 bisegment
