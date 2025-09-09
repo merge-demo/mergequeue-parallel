@@ -5725,7 +5725,6 @@ ampyx
 ave
 agendas
 ankylosaur
-ahorse
 amovability
 agene
 ageneses
@@ -15284,6 +15283,7 @@ antiliberalness
 ansel
 antilibration
 antilife
+ahorse
 afforcement
 antipolitics
 atterrate
