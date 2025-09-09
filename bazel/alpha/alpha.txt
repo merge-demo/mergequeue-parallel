@@ -17059,6 +17059,7 @@ afterfuture
 agrological
 apogonid
 apographic
+aslumber
 apographical
 acockbill
 apohyal
@@ -21268,7 +21269,6 @@ askr
 aslant
 aglethead
 antidraft
-aslumber
 arolla
 acrogenously
 agueproof
