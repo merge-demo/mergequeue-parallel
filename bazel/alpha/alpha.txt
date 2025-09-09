@@ -655,7 +655,6 @@ anemographic
 aborad
 aboral
 aborally
-anthomyiid
 aboriginality
 anhydrosis
 aborigines
@@ -3317,6 +3316,7 @@ adder
 addibility
 aphoruridae
 addible
+anthomyiid
 addicent
 addicted
 antiknocks
