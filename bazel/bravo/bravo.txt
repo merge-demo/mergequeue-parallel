@@ -1725,7 +1725,6 @@ bradyteleokinesis
 bridemaidship
 balunda
 blesses
-balneotherapy
 balneotherapia
 berdaches
 bahera
@@ -6416,6 +6415,7 @@ brachiopodist
 bepicture
 banxring
 bepile
+balneotherapy
 bolo
 bumbled
 blobbiness
