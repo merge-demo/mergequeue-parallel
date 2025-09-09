@@ -3046,7 +3046,6 @@ canvasado
 canvasbacks
 canvasers
 coralroot
-coperiodic
 capriola
 canvasing
 capsular
@@ -31260,6 +31259,7 @@ curatorium
 charkha
 curted
 carabid
+coperiodic
 coagula
 curb
 citronellal
