@@ -8470,6 +8470,7 @@ champleve
 chams
 chamsin
 compositionally
+cineplastics
 cataclysmatic
 congealedness
 curatage
@@ -13816,7 +13817,6 @@ cellarer
 cinephotomicrography
 convoy
 cineplasty
-cineplastics
 cineradiography
 chelingo
 clartier
