@@ -768,7 +768,6 @@ betrays
 blandiloquence
 bellybutton
 badland
-badlands
 buba
 bearer
 barricados
@@ -12366,6 +12365,7 @@ bakeout
 bonbon
 bossdom
 betsimisaraka
+badlands
 bobstay
 bicapitate
 blossom
