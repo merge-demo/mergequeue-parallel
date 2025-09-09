@@ -7927,7 +7927,6 @@ alfaquin
 apatornis
 alfaquis
 alfenide
-alferes
 aefaldness
 abysm
 aqualunger
@@ -9308,6 +9307,7 @@ alpheus
 alphyl
 appress
 alectoridine
+alferes
 amphicarpus
 alphyls
 alphin
