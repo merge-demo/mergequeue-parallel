@@ -4855,6 +4855,7 @@ cassava
 clown
 carters
 cartesian
+caber
 cartful
 counterradiation
 ceramists
@@ -13914,7 +13915,6 @@ cytosome
 comptible
 cynomorium
 cynomorphic
-caber
 chloroanemia
 cynophilic
 climatotherapy
