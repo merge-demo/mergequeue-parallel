@@ -150,6 +150,7 @@ bourne
 botanomancy
 banister
 booboos
+belick
 basidiocarp
 bedumbing
 beeheaded
@@ -7162,7 +7163,6 @@ bimanual
 bandaka
 brankiest
 bestsellerdom
-belick
 bestuck
 bestud
 boninite
