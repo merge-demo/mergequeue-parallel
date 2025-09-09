@@ -14221,6 +14221,7 @@ antireaction
 aniseikonia
 antholite
 anthology
+apocaffeine
 anthological
 antisepticism
 anthologically
@@ -24729,7 +24730,6 @@ anthratetrol
 arayne
 avicolous
 avicula
-apocaffeine
 authorizations
 apostatical
 armigers
