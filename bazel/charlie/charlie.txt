@@ -9684,6 +9684,7 @@ centrosymmetric
 crosscut
 confirmee
 calculations
+cardinalitial
 counterthought
 channelizes
 croon
@@ -30909,7 +30910,6 @@ culturize
 culturological
 culturologically
 cavaliero
-cardinalitial
 caroid
 costate
 cacatua
