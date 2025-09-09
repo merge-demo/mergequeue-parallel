@@ -14617,7 +14617,6 @@ complemental
 conflates
 crosby
 croceins
-cystofibroma
 cosmopolicy
 cystogenesis
 cystogram
@@ -25038,6 +25037,7 @@ choppered
 cuprotungstite
 cordwainer
 choleraic
+cystofibroma
 cloves
 core
 coreceiver
