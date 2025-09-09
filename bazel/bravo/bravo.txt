@@ -9968,6 +9968,7 @@ bariolage
 bronzify
 bungarus
 boomerang
+burnoused
 bizarreness
 burys
 bradynosus
@@ -17706,7 +17707,6 @@ baneberries
 belibeled
 bejumbled
 burnoosed
-burnoused
 bawbees
 bumfs
 burnside
