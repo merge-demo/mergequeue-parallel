@@ -2480,7 +2480,6 @@ candide
 chancellorate
 churls
 candidiasis
-candidnesses
 candids
 crawlie
 chlorpropamide
@@ -21835,6 +21834,7 @@ cyanogens
 cymule
 conepatl
 carmen
+candidnesses
 conepatls
 calahan
 cones
