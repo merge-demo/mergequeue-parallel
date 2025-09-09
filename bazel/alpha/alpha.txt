@@ -5877,7 +5877,6 @@ arioso
 agility
 auxotrophic
 allegedly
-antemortal
 afresca
 amenorrhoeic
 attorneyship
@@ -16372,6 +16371,7 @@ amoraic
 arctoidea
 argyrosomus
 antidotical
+antemortal
 anusvara
 aesthesia
 apulmonic
