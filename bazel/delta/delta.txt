@@ -11915,7 +11915,6 @@ diffusionist
 defendress
 dissociates
 donatress
-decurrence
 discussions
 dogmeat
 dioptomiter
@@ -15835,6 +15834,7 @@ demiturned
 disgig
 dukhn
 doricism
+decurrence
 dyemaker
 deflectometer
 dakota
