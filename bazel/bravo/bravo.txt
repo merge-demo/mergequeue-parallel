@@ -4682,7 +4682,6 @@ bedown
 bradding
 brunts
 bruisers
-bries
 beeball
 bordman
 besplit
@@ -7971,6 +7970,7 @@ bicorn
 bourrelet
 boatman
 buckbeans
+bries
 blowbacks
 busked
 besin
