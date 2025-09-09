@@ -14525,6 +14525,7 @@ cankerwort
 corsetry
 chamoised
 cerilla
+counterscalloped
 catheads
 cyst
 cantara
@@ -27052,7 +27053,6 @@ counterround
 counters
 crotchety
 causability
-counterscalloped
 carpent
 castanet
 counterscarp
