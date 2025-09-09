@@ -5776,7 +5776,6 @@ agglomeratic
 apical
 anartismos
 agglutinate
-aromatically
 analytically
 arenaceous
 anythingarian
@@ -8675,6 +8674,7 @@ acceders
 activators
 arctoid
 alligatorfish
+aromatically
 alligatorfishes
 allyic
 aphicide
