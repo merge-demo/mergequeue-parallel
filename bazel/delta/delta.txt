@@ -2393,6 +2393,7 @@ disaffiliation
 devisceration
 deener
 dane
+deluding
 decimates
 dropkick
 dusken
@@ -12278,7 +12279,6 @@ dysfunctioning
 deltoidal
 durous
 detector
-deluding
 dysfunctions
 disfurnish
 disfurnished
