@@ -3320,6 +3320,7 @@ basketware
 beid
 batocrinus
 beal
+bifocals
 bromargyrite
 balaghaut
 basketwork
@@ -7483,7 +7484,6 @@ bleater
 burele
 brakeages
 bibliophage
-bifocals
 bedrivel
 breed
 biaxial
