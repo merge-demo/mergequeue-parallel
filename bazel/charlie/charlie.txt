@@ -11983,7 +11983,6 @@ cognizee
 chorisis
 callo
 chlorins
-chorist
 cyanuret
 characetum
 chorister
@@ -28597,6 +28596,7 @@ cornicular
 cornel
 cremators
 coredeemed
+chorist
 coronule
 crembalum
 cremes
