@@ -1716,7 +1716,6 @@ decumaria
 deathlikeness
 dundees
 deathliness
-deathsman
 dumble
 derogation
 disaccord
@@ -7146,6 +7145,7 @@ deamidase
 defrauding
 disquisite
 desulfurising
+deathsman
 diabolical
 dinotheriidae
 desulfurizer
