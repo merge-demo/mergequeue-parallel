@@ -7814,7 +7814,6 @@ cipolin
 cessible
 copperplate
 cyclorrhaphous
-clinician
 cession
 cataloguist
 caenostylic
@@ -14784,6 +14783,7 @@ copremia
 cytoarchitectural
 cytoblast
 cablese
+clinician
 cytoblastemal
 caseless
 conjecturableness
