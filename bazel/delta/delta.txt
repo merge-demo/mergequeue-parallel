@@ -13776,6 +13776,7 @@ dissour
 disenshroud
 dissolves
 dreamboat
+durance
 desugaring
 degression
 damndests
@@ -17919,7 +17920,6 @@ derricks
 debromination
 disburser
 deterministically
-durance
 deteriorations
 dejectedly
 dracaena
