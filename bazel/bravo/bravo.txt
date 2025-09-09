@@ -6033,6 +6033,7 @@ baronetising
 bulbel
 breakermen
 bhd
+bowne
 barricader
 bushlet
 banished
@@ -7385,7 +7386,6 @@ blitheful
 balconied
 bengals
 biomicroscope
-bowne
 besant
 burtree
 backrest
