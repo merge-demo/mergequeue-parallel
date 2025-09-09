@@ -28520,7 +28520,6 @@ credos
 credulity
 countercry
 credulities
-carabin
 chewers
 creeded
 calamistrum
@@ -31655,6 +31654,7 @@ cush
 cushag
 collineation
 cushats
+carabin
 crinkliness
 caseins
 counteraction
