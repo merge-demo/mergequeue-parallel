@@ -15149,6 +15149,7 @@ clinamen
 consensus
 copilots
 colchis
+cephalochordate
 cladose
 cartelization
 cladoselachian
@@ -19838,7 +19839,6 @@ ceraunics
 cubital
 come
 comebacker
-cephalochordate
 chontalan
 cecomorphae
 chalehs
