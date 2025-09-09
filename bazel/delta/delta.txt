@@ -8372,7 +8372,6 @@ decalobate
 dyed
 decigrams
 decaffeinates
-dialycarpous
 diacetic
 dilution
 downshare
@@ -10117,6 +10116,7 @@ digitizes
 dilatable
 dynamomorphic
 dynamos
+dialycarpous
 dynamostatic
 dynamotor
 dividedness
