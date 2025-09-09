@@ -5771,7 +5771,6 @@ bellibone
 benevolences
 besieged
 battutos
-bemata
 beleaps
 bldg
 bricks
@@ -7794,6 +7793,7 @@ baldachinos
 bibliologist
 bradypnoea
 blenchingly
+bemata
 bibliomane
 brontometer
 biosterol
