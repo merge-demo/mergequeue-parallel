@@ -11962,7 +11962,6 @@ aspartate
 anathematical
 aggrandizes
 anathematisation
-anathematise
 archeress
 anathematised
 alchemize
@@ -11986,6 +11985,7 @@ antiatonement
 anatole
 arched
 abought
+anathematise
 actinopterous
 anatomicochirurgical
 ammonifier
