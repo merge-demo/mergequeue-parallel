@@ -11854,7 +11854,6 @@ cathexes
 choral
 choralcelo
 carauna
-causeway
 cleanskins
 chorale
 choraleon
@@ -13267,6 +13266,7 @@ clipperman
 cyclometric
 contributes
 cyclomyaria
+causeway
 cyclonal
 contravention
 cyclone
