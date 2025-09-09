@@ -13702,7 +13702,6 @@ cheers
 cinchonization
 crunodal
 cinchonize
-cinchonized
 communiqu
 cinchophen
 cretinoid
@@ -20629,6 +20628,7 @@ competition
 cumulet
 congreve
 competitive
+cinchonized
 competitiveness
 competitor
 conjugal
