@@ -8758,6 +8758,7 @@ binotonous
 bedeck
 boilerman
 blackfishes
+bushboy
 binturong
 bullism
 binukau
@@ -16839,7 +16840,6 @@ bowse
 bereaver
 buggy
 bakshi
-bushboy
 brabbling
 busti
 bussu
