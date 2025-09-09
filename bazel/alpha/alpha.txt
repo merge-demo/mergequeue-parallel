@@ -1628,7 +1628,6 @@ aerocar
 agonists
 accts
 amphicentric
-armillate
 accubita
 accubitum
 aphonias
@@ -24139,6 +24138,7 @@ autokinesy
 antisepalous
 aspish
 antievolutionist
+armillate
 autokinesis
 arythmia
 aetosaurian
