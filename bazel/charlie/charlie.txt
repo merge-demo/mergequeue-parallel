@@ -13398,6 +13398,7 @@ cymols
 cassida
 catchingly
 craniognomy
+coequate
 courageously
 ciderish
 ciderkin
@@ -18158,7 +18159,6 @@ campman
 chromatophilic
 coequalness
 coequals
-coequate
 centerward
 chincha
 counterpunch
