@@ -5682,7 +5682,6 @@ catalyzator
 circumspective
 catechismal
 catechistical
-catechists
 catechization
 catechizer
 choco
@@ -22836,6 +22835,7 @@ curium
 consenters
 consentience
 counternatural
+catechists
 consentient
 cronstedtite
 consenting
