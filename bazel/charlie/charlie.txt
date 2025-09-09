@@ -13005,6 +13005,7 @@ craniates
 curies
 cyanophile
 cyanophoric
+colossean
 cookstove
 cyanopia
 cyanoplastid
@@ -19490,7 +19491,6 @@ colors
 cutose
 colossal
 colossally
-colossean
 colosseum
 colossian
 compere
