@@ -11034,7 +11034,6 @@ ariosi
 ampelotherapy
 aventurin
 amper
-akhyana
 amatory
 assientist
 analects
@@ -15433,6 +15432,7 @@ arecaceae
 anthracnose
 angelot
 aveugle
+akhyana
 affrontment
 actualized
 arrack
