@@ -2794,7 +2794,6 @@ decrowning
 detenus
 dustier
 decubital
-dormin
 dezincked
 daur
 desiring
@@ -9591,6 +9590,7 @@ diglottist
 duumvir
 disgruntled
 despotisms
+dormin
 dischargers
 drouket
 dignifiedly
