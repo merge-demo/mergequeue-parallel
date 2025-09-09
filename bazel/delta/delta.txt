@@ -219,7 +219,6 @@ declinable
 dione
 didascalos
 dinnerware
-daffydowndilly
 discussing
 dispond
 defection
@@ -13957,6 +13956,7 @@ distillatory
 deflagrations
 distillery
 dogmatize
+daffydowndilly
 dynamogeneses
 diacope
 deodand
