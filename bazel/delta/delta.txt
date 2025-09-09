@@ -1526,7 +1526,6 @@ deactivators
 distressedness
 dutifulness
 defleaed
-doublure
 deadlier
 deaden
 droops
@@ -16118,6 +16117,7 @@ disturn
 diapedesis
 disunited
 dipneumones
+doublure
 decorrugative
 doublespeak
 dumped
