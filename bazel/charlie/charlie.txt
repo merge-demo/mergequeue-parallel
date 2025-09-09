@@ -5470,7 +5470,6 @@ comicoprosaic
 crushingly
 catalepsis
 catalexis
-catalin
 cystopyelonephritis
 curule
 cauponation
@@ -31436,6 +31435,7 @@ curpin
 catatonic
 curple
 calver
+catalin
 cushioncraft
 calcites
 currach
