@@ -15721,6 +15721,7 @@ clavilux
 coy
 clavipectoral
 chips
+comprising
 clavolet
 clawed
 conveneries
@@ -25349,7 +25350,6 @@ cornetto
 committent
 causticization
 corneule
-comprising
 cottaged
 champs
 cheroots
