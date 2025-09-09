@@ -14937,7 +14937,6 @@ anociassociation
 antidetonating
 actuose
 aletaster
-antidictionary
 aegir
 antidynastic
 antidynastical
@@ -19763,6 +19762,7 @@ archbancs
 antisupernaturalism
 agoroth
 animalization
+antidictionary
 archthief
 alethic
 avolation
