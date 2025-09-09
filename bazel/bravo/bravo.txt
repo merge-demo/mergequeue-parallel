@@ -2675,7 +2675,6 @@ bututs
 barmaster
 bergalith
 benzoic
-bougies
 blacklister
 barmcloth
 brither
@@ -9954,6 +9953,7 @@ brutisms
 bixaceae
 bixaceous
 balteus
+bougies
 bruxism
 blondeness
 brabagious
