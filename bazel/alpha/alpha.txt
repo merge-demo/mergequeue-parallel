@@ -11360,6 +11360,7 @@ amputations
 ammines
 amphigonous
 anime
+arthrotome
 amreeta
 amrit
 aphodus
@@ -20569,7 +20570,6 @@ apeptic
 arthrotyphoid
 amninia
 amputative
-arthrotome
 arthrous
 anchithere
 alencons
