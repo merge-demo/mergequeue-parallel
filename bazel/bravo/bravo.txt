@@ -2814,6 +2814,7 @@ baudery
 barothermograph
 barothermohygrograph
 barotrauma
+branchiopodan
 bulgurs
 bravest
 bruckled
@@ -8787,7 +8788,6 @@ biocenology
 bewitchedness
 bulgar
 burgraviate
-branchiopodan
 beslow
 bromvogel
 bonedog
