@@ -19140,7 +19140,6 @@ autonomy
 areach
 afflation
 anisocercal
-attractions
 ammunition
 autotypes
 areal
@@ -20075,6 +20074,7 @@ anodon
 arraigned
 aerosats
 arraigning
+attractions
 alpines
 aurophobia
 allolalia
