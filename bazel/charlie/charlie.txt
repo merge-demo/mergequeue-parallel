@@ -10822,7 +10822,6 @@ contingence
 chipewyan
 chiplet
 culvert
-chipmunk
 claviharp
 chipmunks
 chipolata
@@ -11142,6 +11141,7 @@ chlamyphorus
 chlamyses
 congratulation
 chleuh
+chipmunk
 crystallographically
 cervelats
 cohow
