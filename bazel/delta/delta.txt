@@ -547,7 +547,6 @@ decarbonised
 dimities
 dipylon
 dalt
-dawen
 dalton
 dermaskeleton
 dama
@@ -4256,6 +4255,7 @@ destructible
 dineros
 danseuses
 deltohedron
+dawen
 dogvanes
 delubra
 deluce
