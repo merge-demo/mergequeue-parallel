@@ -408,7 +408,6 @@ baht
 bullocky
 beri
 ballium
-butterball
 bermudite
 bewailed
 benzodiazole
@@ -12929,6 +12928,7 @@ balawu
 banditti
 breakable
 bonanza
+butterball
 banausic
 becrusting
 bondar
