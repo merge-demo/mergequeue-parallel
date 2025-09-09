@@ -6039,7 +6039,6 @@ dandiprat
 detonated
 deputationize
 deliberatively
-deadpan
 dealkalize
 disillusion
 difficilitate
@@ -10761,6 +10760,7 @@ demurs
 demethylchlortetracycline
 dipping
 drony
+deadpan
 doorbrand
 depersonalizing
 dentes

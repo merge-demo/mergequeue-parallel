@@ -2762,7 +2762,6 @@ abarthrosis
 acronychal
 acronichally
 adelocodonic
-acronychous
 apicoectomy
 amylopsase
 abvolt
@@ -23981,6 +23980,7 @@ affeeble
 autodepolymerization
 autodiagnostic
 artemas
+acronychous
 aviador
 acategorical
 alutaceous
