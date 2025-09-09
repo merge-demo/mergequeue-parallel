@@ -13119,6 +13119,7 @@ cicatriser
 cratchens
 cacan
 crossbite
+corniculum
 chorda
 cortins
 crackability
@@ -22985,7 +22986,6 @@ consertal
 cookdom
 consitutional
 consociational
-corniculum
 chili
 cive
 cryptic
