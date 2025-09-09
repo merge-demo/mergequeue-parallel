@@ -4511,7 +4511,6 @@ bundeli
 borborus
 boarding
 bedaubing
-bloodstone
 belial
 beats
 bedazement
@@ -9686,6 +9685,7 @@ barographs
 bystreets
 beerothite
 bistres
+bloodstone
 boltmaking
 boeotarch
 brights
