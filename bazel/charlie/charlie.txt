@@ -9141,6 +9141,7 @@ chondrigenous
 cyclocephaly
 clypeolate
 chasmogamous
+coccerin
 chasmophyte
 chirruped
 constipating
@@ -17578,7 +17579,6 @@ colloid
 coccaceous
 coccal
 conducible
-coccerin
 corr
 coccic
 cautioning
