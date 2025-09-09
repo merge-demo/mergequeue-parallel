@@ -14506,7 +14506,6 @@ ascertainment
 antianaphylaxis
 anakinetomer
 antianarchic
-antiangular
 angioplany
 antiannexationist
 acadian
@@ -20506,6 +20505,7 @@ anonymity
 arthrogryposis
 arthrolith
 aedegi
+antiangular
 arthromere
 arthromeric
 arthrometer
