@@ -9869,7 +9869,6 @@ celotomies
 chemoreceptivity
 chapelgoer
 chemoreceptor
-cryptographers
 crystallisation
 chemoreflex
 contrabassoon
@@ -10894,6 +10893,7 @@ chirms
 crumena
 chirocosmetics
 chirogymnast
+cryptographers
 cautel
 cornu
 chirognomy
