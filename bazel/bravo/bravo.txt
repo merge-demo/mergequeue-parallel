@@ -1492,7 +1492,6 @@ barvell
 belliferous
 bigwiggedness
 bluestocking
-blanchingly
 boarishly
 bices
 balkiest
@@ -2489,6 +2488,7 @@ boccia
 bunkie
 begrease
 blueblack
+blanchingly
 beslash
 bassetite
 barguest
