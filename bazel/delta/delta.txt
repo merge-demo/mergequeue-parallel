@@ -400,7 +400,6 @@ davallia
 dol
 deadishly
 dawdlers
-daimios
 drinkers
 defension
 deployable
@@ -9621,6 +9620,7 @@ decollating
 differentness
 drugger
 digoxins
+daimios
 downloadable
 digrediency
 dermatoneurology
