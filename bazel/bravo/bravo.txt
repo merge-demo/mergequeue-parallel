@@ -3760,7 +3760,6 @@ bondoc
 baboon
 balancer
 bauckie
-beerish
 benzole
 beauish
 befleck
@@ -12702,6 +12701,7 @@ bandores
 blacklegging
 baronry
 begut
+beerish
 bepreach
 burhmoot
 blurs
