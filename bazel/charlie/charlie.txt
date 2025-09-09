@@ -20273,6 +20273,7 @@ cambist
 camias
 commonsense
 carpels
+curiologic
 commonsensically
 commonweals
 commorient
@@ -31371,7 +31372,6 @@ croutons
 curio
 curiolofic
 culinarily
-curiologic
 chemotropic
 carillonneurs
 curiologically

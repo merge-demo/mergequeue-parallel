@@ -406,7 +406,6 @@ abie
 abye
 abient
 anglophily
-alipeds
 abyes
 aerators
 annually
@@ -9486,6 +9485,7 @@ antipart
 aglets
 atheism
 autoionization
+alipeds
 altruisms
 altruist
 amuse
