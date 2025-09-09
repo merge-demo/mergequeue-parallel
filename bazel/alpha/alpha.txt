@@ -4594,7 +4594,6 @@ aeolotropy
 atrenne
 aeolus
 aesculapian
-anchises
 aeon
 anacrustically
 aeonic
@@ -6960,6 +6959,7 @@ acrimoniousness
 annerodite
 asymptomatically
 afterdrain
+anchises
 akka
 akkad
 austerer
