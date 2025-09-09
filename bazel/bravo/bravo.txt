@@ -13954,6 +13954,7 @@ beglooms
 boxwoods
 basher
 brittlest
+benedictine
 brontops
 bismuthic
 booths
@@ -14968,7 +14969,6 @@ benote
 befetter
 bygane
 breenger
-benedictine
 breezeway
 bulbocapnin
 breezeways
