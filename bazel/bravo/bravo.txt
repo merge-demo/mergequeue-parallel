@@ -4505,6 +4505,7 @@ backjaw
 bedarkening
 bedaub
 ballplayer
+bagtikan
 besuit
 bundeli
 borborus
@@ -8452,7 +8453,6 @@ bilks
 buckwashing
 bushveld
 brachiolarian
-bagtikan
 baar
 barih
 botryomycotic
