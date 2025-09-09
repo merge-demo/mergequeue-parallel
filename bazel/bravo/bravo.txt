@@ -8355,7 +8355,6 @@ bilcock
 blearyeyedness
 bravery
 bellehood
-boomorah
 bildar
 bencite
 bilder
@@ -8474,6 +8473,7 @@ berylline
 brauneberger
 bridled
 brachysm
+boomorah
 blepharolithiasis
 bradypode
 blackfishing
