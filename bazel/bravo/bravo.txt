@@ -1388,7 +1388,6 @@ bynin
 baldakin
 bathyhypesthesia
 blithen
-baldcrown
 balded
 balder
 baldfaced
@@ -6312,6 +6311,7 @@ bracted
 boundure
 biozone
 belgium
+baldcrown
 benzoglycolic
 bastioned
 beebees
