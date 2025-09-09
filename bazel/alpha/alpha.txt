@@ -6502,6 +6502,7 @@ antigorite
 achromatised
 aile
 autooxidation
+ambulatorium
 agrestian
 ailed
 adradius
@@ -10101,7 +10102,6 @@ affectious
 analyzability
 agraphias
 ambulatories
-ambulatorium
 ahepatokla
 armorless
 avo
