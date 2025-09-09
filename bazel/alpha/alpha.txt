@@ -142,7 +142,6 @@ alcades
 animalivora
 abaton
 asperggilli
-anhinga
 alloyed
 axles
 alef
@@ -1590,6 +1589,7 @@ argenteum
 accreditate
 administrators
 archpresbyter
+anhinga
 accreditations
 accrediting
 absentmindedness
