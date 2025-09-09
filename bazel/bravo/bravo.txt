@@ -13710,6 +13710,7 @@ burga
 bufflehorn
 bovaristic
 banisher
+buddler
 burgout
 bicycled
 bovate
@@ -14458,7 +14459,6 @@ blattoidea
 bombsights
 babroot
 beadle
-buddler
 branchiae
 bradyglossia
 belittler
