@@ -1762,7 +1762,6 @@ debark
 dropseed
 drawknife
 debarking
-digamist
 discede
 debarkment
 debarment
@@ -9137,6 +9136,7 @@ drubbed
 dietary
 dunted
 detraction
+digamist
 debility
 destaining
 debiting
