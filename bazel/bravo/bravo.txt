@@ -1062,6 +1062,7 @@ busway
 bustiest
 boyaus
 bersil
+baulea
 boroughmaster
 bailiwick
 bridler
@@ -15803,7 +15804,6 @@ brinie
 bromidically
 brasseys
 bromidrosis
-baulea
 backtracking
 bene
 barbarism
