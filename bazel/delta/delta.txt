@@ -2086,6 +2086,7 @@ doline
 dingles
 diapasm
 daunts
+derelictions
 dibbuks
 dishonourary
 dissembles
@@ -17159,7 +17160,6 @@ datacell
 disaffected
 danebrog
 daggerlike
-derelictions
 divi
 droukan
 dries
