@@ -6317,7 +6317,6 @@ caution
 couve
 cerebromedullary
 calcareosiliceous
-compurgatorial
 collocationable
 cautioner
 cautioners
@@ -8481,6 +8480,7 @@ corslet
 chanca
 chance
 chanceably
+compurgatorial
 chemosterilants
 chanced
 circuitable
