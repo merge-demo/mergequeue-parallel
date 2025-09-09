@@ -5399,6 +5399,7 @@ acton
 assuringly
 accommodation
 acetonylidene
+apothecary
 afterguard
 anaerobious
 aphthitalite
@@ -10706,7 +10707,6 @@ amlet
 amlikar
 amlong
 ammelide
-apothecary
 ammer
 avidness
 adderbolt
