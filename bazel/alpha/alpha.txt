@@ -1748,7 +1748,6 @@ acromioscapular
 acenaphthylene
 auditorily
 antieducationist
-auxamylase
 amma
 acephalina
 armpad
@@ -14815,6 +14814,7 @@ argental
 anticolic
 anticomment
 autogenetic
+auxamylase
 adiathermic
 appetizers
 abneural
