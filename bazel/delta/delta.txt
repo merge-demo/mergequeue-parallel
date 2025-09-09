@@ -11669,6 +11669,7 @@ defuses
 discontinuances
 dambonite
 discontinue
+difflation
 dishabit
 discontinuee
 disprepare
@@ -14804,7 +14805,6 @@ dimensionality
 dotlike
 definitiones
 discarnation
-difflation
 diaristic
 dehydrogenising
 despumate
