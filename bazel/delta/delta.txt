@@ -4159,7 +4159,6 @@ dentirostrate
 diothelism
 dunnock
 discretiveness
-damner
 displeasant
 deaconess
 durneder
@@ -12860,6 +12859,7 @@ dismayable
 diathermancy
 doubty
 degame
+damner
 downhaul
 disshadow
 deliquiesce
