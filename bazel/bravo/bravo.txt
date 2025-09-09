@@ -4852,7 +4852,6 @@ beccaccia
 bract
 bilobular
 blackwash
-bunomastodontidae
 beefier
 biased
 boose
@@ -15936,6 +15935,7 @@ biflagelate
 bribeless
 bishoprics
 barrowist
+bunomastodontidae
 boucan
 bronk
 botched
