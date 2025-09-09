@@ -8457,6 +8457,7 @@ bedder
 barricading
 billboards
 billbug
+bungholes
 biller
 bombacaceae
 brantcorn
@@ -14926,7 +14927,6 @@ billowier
 bouncier
 burny
 brecht
-bungholes
 billitonite
 bunchberries
 bennettites
