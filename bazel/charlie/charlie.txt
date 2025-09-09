@@ -16884,6 +16884,7 @@ clubland
 clubman
 cloveroot
 chiccory
+crucifyfying
 crosswort
 clubroom
 casebooks
@@ -17522,7 +17523,6 @@ cobleskill
 cobloaf
 cobnuts
 cobola
-crucifyfying
 coboss
 chitarrone
 cleamer
