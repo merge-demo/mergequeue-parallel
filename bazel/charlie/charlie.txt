@@ -6405,6 +6405,7 @@ cavernulous
 caves
 cavetti
 calusar
+cotte
 conchie
 cavetto
 cavy
@@ -26448,7 +26449,6 @@ cottagers
 cottars
 cahuy
 cottas
-cotte
 cotted
 cotter
 cottered
