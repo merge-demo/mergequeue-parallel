@@ -230,6 +230,7 @@ beslimed
 brainpower
 bostons
 biofog
+bandlimits
 bandicoot
 baccy
 braidings
@@ -9491,7 +9492,6 @@ bisdiapason
 binary
 bicapsular
 butat
-bandlimits
 bisectors
 bisectrices
 busybodyness
