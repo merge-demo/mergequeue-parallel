@@ -1909,6 +1909,7 @@ crotalid
 checkered
 camera
 capitols
+conductory
 cyprinodont
 camerae
 curbless
@@ -31475,7 +31476,6 @@ cartoon
 currycombing
 coltoria
 carpolite
-conductory
 currycombs
 crossword
 centrings
