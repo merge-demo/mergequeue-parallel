@@ -5745,7 +5745,6 @@ cateye
 catel
 catelectrode
 clothesless
-catelectrotonus
 cretionary
 colorlessness
 chaffier
@@ -14583,6 +14582,7 @@ cysticolous
 cystid
 consociationism
 cohogs
+catelectrotonus
 chandelling
 cystidea
 cystinosis
