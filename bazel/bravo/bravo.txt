@@ -4056,6 +4056,7 @@ boyishness
 biassing
 ballistics
 baroclinicity
+blackballed
 blamableness
 bicompact
 bodysurfs
@@ -10027,7 +10028,6 @@ bassoons
 barabara
 bepity
 bowge
-blackballed
 blackballs
 byss
 bielorouss
