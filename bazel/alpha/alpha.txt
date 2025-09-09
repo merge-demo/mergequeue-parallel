@@ -2742,7 +2742,6 @@ apotheosise
 acculturative
 alienness
 antenniform
-areometer
 acromiohumeral
 acromiosternal
 antichurchian
@@ -22054,6 +22053,7 @@ atrocoeruleus
 astigmatometry
 aesthiology
 arthrosporous
+areometer
 aquench
 astigmatoscope
 astigmic
