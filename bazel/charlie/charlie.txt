@@ -6794,7 +6794,6 @@ conscientiousness
 curares
 cytologist
 cellulitis
-cellulofibrous
 celluloid
 carby
 cellulomonadeae
@@ -28300,6 +28299,7 @@ carboxy
 cerography
 counterdraft
 cravingness
+cellulofibrous
 cravings
 chlorophoenicite
 centaurid
