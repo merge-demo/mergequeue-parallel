@@ -5659,7 +5659,6 @@ catclaw
 cate
 coronets
 catechesis
-catechetic
 congenator
 conduceability
 cottony
@@ -8955,6 +8954,7 @@ cyamoid
 cohunes
 collegiately
 cumarin
+catechetic
 chaplaincy
 chalchihuitl
 conceivability
