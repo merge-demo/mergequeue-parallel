@@ -6771,6 +6771,7 @@ cathodofluorescence
 celloidin
 constative
 counterbalance
+chirographic
 cellose
 cells
 cellucotton
@@ -28784,7 +28785,6 @@ churchwards
 chasings
 checkrack
 creta
-chirographic
 commander
 cretaceous
 comte
