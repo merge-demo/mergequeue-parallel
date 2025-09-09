@@ -20388,6 +20388,7 @@ commutableness
 commutant
 commutated
 commutation
+chiromancer
 commutatively
 craning
 carpogone
@@ -30859,7 +30860,6 @@ culti
 cultic
 caecity
 cultigens
-chiromancer
 cystogenous
 cultish
 cerasin
