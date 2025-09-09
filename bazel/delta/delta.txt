@@ -5187,6 +5187,7 @@ diaheliotropic
 detruncating
 devoid
 destructors
+diarthrosis
 drearisomely
 dyspepsies
 dividends
@@ -8906,7 +8907,6 @@ dragnet
 dichotomist
 dicastic
 diccon
-diarthrosis
 depolariser
 daimio
 domines
