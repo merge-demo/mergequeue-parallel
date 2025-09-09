@@ -6019,7 +6019,6 @@ disoccupy
 disjeune
 deadman
 dandered
-depurate
 decoupling
 disingenuously
 droop
@@ -12765,6 +12764,7 @@ drawshave
 dislikeness
 dikage
 disliker
+depurate
 dustcoat
 dioicously
 dacryoadenitis
