@@ -15171,7 +15171,6 @@ deformer
 doggerelling
 doggerels
 democrat
-doggers
 disembogued
 drabbles
 dilogarithm
@@ -17490,6 +17489,7 @@ dedicate
 dilatorily
 disserts
 diazoimido
+doggers
 drostdy
 daneweeds
 droughts
