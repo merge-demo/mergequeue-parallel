@@ -9223,6 +9223,7 @@ denazification
 demilance
 devilman
 ditriglyph
+dipleurula
 dusterman
 delaine
 diebacks
@@ -17431,7 +17432,6 @@ deciatine
 dusts
 diduced
 declined
-dipleurula
 droppers
 doughboy
 diurnalness
