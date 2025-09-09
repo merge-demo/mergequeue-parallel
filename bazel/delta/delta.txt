@@ -5435,6 +5435,7 @@ displumes
 deodorize
 deodorized
 disquiparation
+dueled
 duskishly
 deodorizes
 deontologist
@@ -17903,7 +17904,6 @@ debutante
 dablet
 destituteness
 darkheartedness
-dueled
 defamations
 deathday
 duelers

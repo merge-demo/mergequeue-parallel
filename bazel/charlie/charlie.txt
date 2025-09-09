@@ -3413,6 +3413,7 @@ cheerios
 caprin
 candlebeam
 cimelia
+cynicist
 cuterebra
 caprioles
 capriote
@@ -6210,7 +6211,6 @@ chucks
 caup
 caupo
 candelas
-cynicist
 catochus
 coheaded
 cumberlandite
