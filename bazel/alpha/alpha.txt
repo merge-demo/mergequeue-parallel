@@ -3576,6 +3576,7 @@ aerophone
 acclivity
 aoudad
 abasements
+aphronitre
 adesmy
 annum
 adespoton
@@ -13359,7 +13360,6 @@ anglicizes
 anterofrontal
 annexationist
 acrylyl
-aphronitre
 annexion
 atrophic
 astigmatic
