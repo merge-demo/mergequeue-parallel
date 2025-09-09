@@ -2026,7 +2026,6 @@ decagrams
 declasse
 despised
 decahedron
-disclassify
 degamis
 dentatocrenate
 dayward
@@ -2684,6 +2683,7 @@ deckhands
 disjune
 discursory
 decorator
+disclassify
 dichroite
 diducing
 deliberated
