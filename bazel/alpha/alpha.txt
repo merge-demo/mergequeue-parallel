@@ -2544,6 +2544,7 @@ acquire
 antescript
 acquirement
 aldermanries
+allspice
 acquisite
 arricciati
 amirship
@@ -8985,7 +8986,6 @@ assyrian
 adolesce
 artabe
 appeasive
-allspice
 antivaccinist
 aliethmoid
 abasedness
