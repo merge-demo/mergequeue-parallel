@@ -17912,6 +17912,7 @@ commonish
 codiscoverer
 codist
 codivine
+cosmetiste
 chiselers
 codline
 controlled
@@ -26060,7 +26061,6 @@ cliquier
 custrel
 crummie
 cosmetics
-cosmetiste
 chakravartin
 crosswalks
 cosmicality
