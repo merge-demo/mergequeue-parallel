@@ -1287,7 +1287,6 @@ boracites
 benzothiazole
 ballyhack
 baldheaded
-balalaika
 birdberry
 bedim
 bedstead
@@ -7997,6 +7996,7 @@ bicostate
 bicrenate
 bicrofarad
 bicrural
+balalaika
 broodiness
 biometrics
 bridecup
