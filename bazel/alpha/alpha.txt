@@ -5805,6 +5805,7 @@ anither
 azoxyphenetole
 adversary
 aerogeology
+arithmography
 acad
 aggravative
 antasphyctic
@@ -19658,7 +19659,6 @@ arythmical
 anteprandial
 ascriptive
 arithmocratic
-arithmography
 ammonite
 arithmomancy
 amphoral
