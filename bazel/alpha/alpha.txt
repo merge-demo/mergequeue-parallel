@@ -4558,7 +4558,6 @@ aegithognathae
 anguillule
 aegophony
 aegrotant
-alabastron
 arboresque
 archiving
 alphabeted
@@ -18993,6 +18992,7 @@ alkylamino
 alphanumeric
 alveoloclasia
 agritos
+alabastron
 actu
 amendable
 aetheogam
