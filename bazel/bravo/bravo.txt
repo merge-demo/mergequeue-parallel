@@ -8785,7 +8785,6 @@ brooming
 barleysick
 bioblastic
 brilliance
-bima
 backwoodsiness
 bungaloid
 berakot
@@ -14689,6 +14688,7 @@ boulevards
 bifolium
 bravuras
 bolides
+bima
 baetzner
 bashara
 brawlingly
