@@ -14569,7 +14569,6 @@ divided
 dividend
 dividendus
 divident
-decertification
 dromograph
 dividivis
 divinising
@@ -18006,6 +18005,7 @@ didrachm
 depauperation
 danish
 domanial
+decertification
 dukedoms
 depravation
 dukes
