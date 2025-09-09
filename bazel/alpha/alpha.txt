@@ -3070,7 +3070,6 @@ aetiologically
 activity
 activities
 amoristic
-allogenic
 aid
 ankyloglossia
 alagao
@@ -14900,6 +14899,7 @@ anticourtier
 anticovenanter
 assishness
 anticreational
+allogenic
 anticreationism
 affettuoso
 afflictively
