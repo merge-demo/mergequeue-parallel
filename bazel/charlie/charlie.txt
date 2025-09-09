@@ -13219,7 +13219,6 @@ costs
 cycloalkane
 cyclobothra
 carmakers
-constableship
 cholecystopexy
 carapacial
 cyclode
@@ -24745,6 +24744,7 @@ coproprietor
 ceilinged
 coproprietorship
 coprose
+constableship
 citified
 coprostanol
 coprostasophobia
