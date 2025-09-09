@@ -1154,6 +1154,7 @@ celluloses
 calculuses
 callipered
 caldaria
+chokra
 calderas
 chapournetted
 casuistic
@@ -11502,7 +11503,6 @@ coexertion
 carbonizer
 chokies
 cordovans
-chokra
 crossosoma
 catagenesis
 costoxiphoid
