@@ -11354,7 +11354,6 @@ disgracers
 dyarchical
 deontological
 distributional
-dimmable
 discarded
 dulceness
 drainageway
@@ -14610,6 +14609,7 @@ duodenary
 divinizing
 detribalization
 denomination
+dimmable
 diphaser
 downpouring
 divisibility
