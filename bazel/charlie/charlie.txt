@@ -15985,7 +15985,6 @@ clerkships
 comrado
 clernly
 cramper
-compromises
 covado
 cleromancy
 canniness
@@ -25614,6 +25613,7 @@ corpulencies
 clankum
 corsair
 cryesthesia
+compromises
 cheths
 cannula
 closestool
