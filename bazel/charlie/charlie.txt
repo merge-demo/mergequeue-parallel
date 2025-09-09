@@ -16728,7 +16728,6 @@ cirrus
 catarrhine
 clothesline
 clotheslines
-clothesman
 crypts
 cheerful
 catchingness
@@ -21964,6 +21963,7 @@ coseismic
 confidence
 confidency
 cosmogenic
+clothesman
 confident
 compressibilities
 countertechnicality
