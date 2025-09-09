@@ -8963,6 +8963,7 @@ asserters
 acquiescing
 aftermarriage
 allower
+asteism
 acylamido
 alcahest
 alloxan
@@ -11786,7 +11787,6 @@ admeasurement
 anandrious
 arbuscles
 anangioid
-asteism
 anangular
 autoantitoxin
 arylated
