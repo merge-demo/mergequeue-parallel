@@ -2574,7 +2574,6 @@ barosma
 bidentate
 bolivars
 broadwives
-biscuit
 ballons
 baramin
 balneation
@@ -6528,6 +6527,7 @@ bursate
 bailment
 braziery
 bicolourous
+biscuit
 bronchioles
 boychicks
 berenice
