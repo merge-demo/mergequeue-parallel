@@ -16719,6 +16719,7 @@ designation
 defrays
 dragsters
 doctoress
+dowily
 drayage
 dipteraceous
 dieresis
@@ -18197,7 +18198,6 @@ dumpoke
 deltohedra
 dumps
 dumsola
-dowily
 disdiaclastic
 distrust
 dermatoscopy
