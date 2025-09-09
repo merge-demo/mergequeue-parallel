@@ -10897,6 +10897,7 @@ balancewise
 bumkin
 barretors
 buriti
+baromacrometer
 benevolence
 bael
 bellhop
@@ -13216,7 +13217,6 @@ boastful
 bructeri
 bossdoms
 burghal
-baromacrometer
 bossed
 boanergean
 butchered
