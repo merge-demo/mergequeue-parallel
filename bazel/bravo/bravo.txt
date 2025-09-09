@@ -2198,7 +2198,6 @@ bostonite
 barter
 bedrivelled
 barauna
-barba
 bayards
 boneheadedness
 blobs
@@ -2778,6 +2777,7 @@ blotchiest
 begun
 bhp
 barrowman
+barba
 byspell
 buckayro
 baudrons
