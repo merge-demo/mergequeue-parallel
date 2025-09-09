@@ -7553,6 +7553,7 @@ anywheres
 authoritativeness
 alcoholemia
 alcoholically
+anenterous
 appetition
 anaudia
 alcoholicity
@@ -19854,7 +19855,6 @@ awry
 antileukemic
 aplopappus
 apophyge
-anenterous
 artistically
 acle
 armouchiquois
