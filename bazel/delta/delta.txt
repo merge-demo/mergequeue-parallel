@@ -3287,7 +3287,6 @@ deutschemark
 dorsosternal
 dentils
 doles
-dagos
 deturn
 dsect
 defis
@@ -14897,6 +14896,7 @@ dominica
 dialogue
 dolors
 desmectasia
+dagos
 dennet
 ductwork
 docks
