@@ -2241,6 +2241,7 @@ acidosteophyte
 arecuna
 aul
 acids
+allenarly
 amenity
 acidulant
 antemeridian
@@ -22356,7 +22357,6 @@ ataman
 airdock
 antifreezes
 ahaunch
-allenarly
 arachnidan
 atamasco
 arranging
