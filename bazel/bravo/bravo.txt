@@ -12499,6 +12499,7 @@ bacubert
 bud
 badmash
 bawrel
+bitterwood
 bonnyvis
 brashness
 bellwind
@@ -17017,7 +17018,6 @@ bearder
 bulldogging
 beadswoman
 belli
-bitterwood
 bellrags
 bulldoggishness
 bulldozed
