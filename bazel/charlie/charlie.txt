@@ -12555,6 +12555,7 @@ chronogrammatically
 cheetah
 cenospecifically
 chronogrammic
+chugger
 chronograph
 chronographer
 chronography
@@ -31047,7 +31048,6 @@ carmagnole
 clearers
 clottage
 cumuli
-chugger
 clinicopathologically
 cumulocirrus
 cottoned
