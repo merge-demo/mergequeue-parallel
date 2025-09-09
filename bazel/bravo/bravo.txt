@@ -661,6 +661,7 @@ beletter
 bynames
 bungles
 bacterized
+battalions
 barefacedly
 brisk
 batfowler
@@ -9692,7 +9693,6 @@ bewitching
 bookish
 blockers
 bosses
-battalions
 bistriate
 beddable
 breeze
