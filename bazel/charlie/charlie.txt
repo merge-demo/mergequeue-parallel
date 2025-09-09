@@ -5177,7 +5177,6 @@ cassocked
 cataleptic
 crofter
 calycoideous
-colorimetrical
 chevrony
 cuculine
 cantar
@@ -27758,6 +27757,7 @@ coxswain
 comrade
 cervicodorsal
 crudelity
+colorimetrical
 coxswains
 containerizes
 coxwains
