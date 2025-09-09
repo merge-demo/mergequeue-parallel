@@ -9280,7 +9280,6 @@ bebless
 brachiotomy
 bromopikrin
 bench
-beflowering
 birdglue
 bah
 bisulfid
@@ -17361,6 +17360,7 @@ bushbaby
 blindest
 bestriding
 bassoon
+beflowering
 bargemaster
 bluebird
 bespattered
