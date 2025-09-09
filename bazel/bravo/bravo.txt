@@ -6392,6 +6392,7 @@ boomah
 byrlawmen
 blasia
 binarium
+brinehouse
 bepen
 bosun
 beleaguer
@@ -14920,7 +14921,6 @@ brev
 bathes
 breakfaster
 bullfeast
-brinehouse
 billowier
 bouncier
 burny
