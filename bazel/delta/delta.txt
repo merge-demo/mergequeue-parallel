@@ -13990,7 +13990,6 @@ distomatosis
 doryphorus
 debits
 diactin
-disinterest
 diablo
 daubreelite
 dichroism
@@ -14935,6 +14934,7 @@ doctorial
 disadjust
 doctoring
 doctorize
+disinterest
 distinctness
 decadescent
 distributive
