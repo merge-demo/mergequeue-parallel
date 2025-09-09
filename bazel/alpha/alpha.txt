@@ -12402,7 +12402,6 @@ affined
 abrocoma
 apaturia
 attask
-appendicate
 adiapneustia
 anemotactic
 augurers
@@ -13155,6 +13154,7 @@ apograph
 anisocotyledonous
 anisodactyla
 anonol
+appendicate
 anisodactyli
 anamnesis
 asnort
