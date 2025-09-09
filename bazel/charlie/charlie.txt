@@ -7464,7 +7464,6 @@ cacoenthes
 cercarial
 coloni
 ciders
-cercarian
 corpuscular
 cerci
 cercidiphyllaceae
@@ -24921,6 +24920,7 @@ combfishes
 corantoes
 chumpivilca
 centesimi
+cercarian
 chan
 crowbill
 coldslaw
