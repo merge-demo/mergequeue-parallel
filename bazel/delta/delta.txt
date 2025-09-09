@@ -9203,6 +9203,7 @@ dihexahedron
 daubry
 decapods
 dreamfully
+dipterous
 dowses
 diductively
 djasakid
@@ -13711,7 +13712,6 @@ deceivingly
 deserter
 dhurrie
 dissipaters
-dipterous
 deviations
 digestedly
 disseating
