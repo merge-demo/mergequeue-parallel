@@ -11769,7 +11769,6 @@ dodoes
 dochmiac
 diswench
 discradle
-deprivation
 dockhands
 dyscrasic
 demissness
@@ -14101,6 +14100,7 @@ docksides
 dispensable
 deluging
 daphnes
+deprivation
 diabantite
 distributionist
 divariant
