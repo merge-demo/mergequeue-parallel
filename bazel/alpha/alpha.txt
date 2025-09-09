@@ -15582,7 +15582,6 @@ antirun
 aurothiosulphate
 antiparallel
 aftercareer
-androidal
 antiparallelogram
 ailuridae
 arylamine
@@ -20515,6 +20514,7 @@ authorising
 aswithe
 arthroncus
 arthroneuralgia
+androidal
 anterevolutionary
 articulite
 aetiology
