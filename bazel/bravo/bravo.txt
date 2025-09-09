@@ -3704,7 +3704,6 @@ basocyte
 bethanking
 battleships
 buhr
-battlesome
 brigantes
 bimestrial
 battlewagon
@@ -13698,6 +13697,7 @@ boutons
 bradbury
 barrelful
 bouvardia
+battlesome
 baggie
 buffers
 bouw
