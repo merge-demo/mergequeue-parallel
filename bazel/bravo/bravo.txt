@@ -59,7 +59,6 @@ bacteriophobia
 balked
 begalled
 brontozoum
-bosques
 buffaloed
 bebed
 buffaloing
@@ -4034,6 +4033,7 @@ beanery
 beanfeast
 besqueeze
 bachelry
+bosques
 brontosaurs
 bronchomucormycosis
 beriberic
