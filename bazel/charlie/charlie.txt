@@ -1246,6 +1246,7 @@ calentured
 calepin
 calesero
 cteniform
+centimes
 choreguses
 cupressinoxylon
 conviciate
@@ -21836,7 +21837,6 @@ conepatl
 carmen
 conepatls
 calahan
-centimes
 cones
 conestoga
 conf
