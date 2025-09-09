@@ -8295,6 +8295,7 @@ diagonals
 demoded
 deducting
 diagonalwise
+disordeine
 dendra
 decursion
 dicatalexis
@@ -10515,7 +10516,6 @@ degeneroos
 diphthongation
 dilutedness
 dendrodra
-disordeine
 diphthonging
 diphthongisation
 demolishes
