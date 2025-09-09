@@ -10662,7 +10662,6 @@ animosities
 aqueoigneous
 apprize
 amire
-aeronautic
 amyris
 abattis
 amyrol
@@ -24857,6 +24856,7 @@ avowedly
 apotheosis
 amphithect
 astronavigation
+aeronautic
 avshar
 autocoherer
 astrict
