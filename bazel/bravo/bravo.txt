@@ -7165,6 +7165,7 @@ boninite
 bipont
 bestuds
 befit
+basiliscine
 besully
 betrample
 beswarm
@@ -12778,7 +12779,6 @@ bibliophobia
 barquest
 bootes
 burglary
-basiliscine
 barnabite
 bioprecipitation
 boomslang
