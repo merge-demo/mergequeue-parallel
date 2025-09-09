@@ -4188,7 +4188,6 @@ asprawl
 alablaster
 amphithecium
 adsignify
-asbolan
 agazed
 aluniferous
 aktiebolag
@@ -24356,6 +24355,7 @@ ablaut
 antagonise
 autosight
 albuminuric
+asbolan
 autosymbolic
 actinautography
 autosymbolically
