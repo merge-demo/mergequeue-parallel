@@ -2908,6 +2908,7 @@ benefactor
 bushers
 barreling
 bibaciousness
+bure
 backbiting
 blanco
 beslab
@@ -6913,7 +6914,6 @@ borderism
 bewelter
 brae
 birdyback
-bure
 besmirchers
 billethead
 bioreaction
