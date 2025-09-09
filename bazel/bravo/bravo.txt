@@ -10825,6 +10825,7 @@ basis
 blenders
 blattiform
 breakfastless
+bans
 blin
 burnup
 beadledom
@@ -15386,7 +15387,6 @@ bromo
 betterment
 bihai
 biblicism
-bans
 boomlets
 bondless
 bolshevistically
