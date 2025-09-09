@@ -15709,6 +15709,7 @@ clavicythetheria
 clavicittern
 contraction
 clavicle
+cruised
 clavicles
 clavicorn
 clavicotomy
@@ -30192,7 +30193,6 @@ creepie
 cordaitaceae
 cucurbit
 cruets
-cruised
 conservational
 controllers
 caquetoires
