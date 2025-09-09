@@ -11059,6 +11059,7 @@ ampersand
 ampersands
 archpontiff
 ascendancy
+appertained
 astromancy
 amphanthia
 amphanthium
@@ -19539,7 +19540,6 @@ ariels
 acoupa
 aries
 antireformist
-appertained
 attritional
 absorbingly
 arikara
