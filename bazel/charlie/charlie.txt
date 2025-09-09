@@ -9826,6 +9826,7 @@ chemiotropic
 cerebropsychosis
 chemise
 chemisette
+coprophyte
 chemism
 caliciform
 cancerin
@@ -24737,7 +24738,6 @@ chymified
 coprophilism
 crepitaculum
 coprophilous
-coprophyte
 cockaded
 coprophobia
 cessing
