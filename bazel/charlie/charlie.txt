@@ -3670,6 +3670,7 @@ cynoidea
 caratch
 chevaline
 carates
+chantier
 candor
 coventrize
 caravaneer
@@ -8639,7 +8640,6 @@ chanteuse
 codiales
 chanteuses
 chanticleers
-chantier
 capreomycin
 chantilly
 connubially
