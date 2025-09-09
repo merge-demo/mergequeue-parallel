@@ -18421,7 +18421,6 @@ corporal
 coenosarcal
 cognisant
 cognises
-coarct
 countergambit
 creepy
 chatchkas
@@ -23286,6 +23285,7 @@ ceratoglossus
 consulships
 clavieristic
 consulta
+coarct
 captors
 carminate
 consultable
