@@ -4378,7 +4378,6 @@ adverbiation
 adverbs
 adversatively
 ambushed
-afghan
 appellation
 anthropophysiography
 acetopyrin
@@ -21142,6 +21141,7 @@ auxins
 anticonformist
 advancer
 ashtoreth
+afghan
 aspartic
 ashvamedha
 ashwort
