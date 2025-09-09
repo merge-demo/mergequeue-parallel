@@ -411,7 +411,6 @@ aerators
 annually
 abietate
 abietic
-altercation
 annabel
 anoine
 albuminolysis
@@ -7998,6 +7997,7 @@ algerines
 algerite
 aciduric
 algernon
+altercation
 algesiometer
 algidity
 algidities
