@@ -17021,6 +17021,7 @@ coinclude
 cmd
 cathood
 chinotto
+corporalcy
 catalecta
 cml
 cnemial
@@ -25546,7 +25547,6 @@ corpn
 carvacryl
 corpora
 corporacy
-corporalcy
 corporale
 corporalism
 corporality
