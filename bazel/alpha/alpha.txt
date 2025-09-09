@@ -424,7 +424,6 @@ agarose
 algores
 abigeat
 antihydropic
-abigei
 aridness
 abying
 abilao
@@ -16005,6 +16004,7 @@ aper
 africa
 antiscolic
 aposporic
+abigei
 antiscorbutical
 avirulence
 antiscriptural
