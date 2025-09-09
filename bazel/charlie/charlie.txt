@@ -5239,6 +5239,7 @@ castalides
 cardiopuncture
 chertier
 castane
+crinel
 castanea
 chewy
 crescentic
@@ -29017,7 +29018,6 @@ crinanite
 columbus
 chloryl
 crinatory
-crinel
 cringeling
 cringes
 cubing
