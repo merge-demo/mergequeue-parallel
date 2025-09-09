@@ -13263,7 +13263,6 @@ bandlessness
 botany
 bilboquet
 brominated
-birdmen
 bootlick
 braconids
 blennies
@@ -13899,6 +13898,7 @@ bacteriotropic
 binoculate
 bowstringed
 bactritoid
+birdmen
 behavior
 bowtell
 belugas
