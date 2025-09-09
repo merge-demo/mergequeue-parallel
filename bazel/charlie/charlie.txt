@@ -18380,7 +18380,6 @@ cogitant
 cogitates
 cogitation
 cogitativity
-comparer
 cogitator
 cogito
 carphology
@@ -25931,6 +25930,7 @@ cacoeconomy
 convolute
 colley
 coruco
+comparer
 circuitousness
 climatotherapeutics
 codicil
