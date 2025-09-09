@@ -13852,7 +13852,6 @@ distance
 denumeration
 drumroll
 diatomic
-diagrammatician
 descried
 doddard
 dryers
@@ -14041,6 +14040,7 @@ disruptionist
 distortions
 delocalise
 dogfennel
+diagrammatician
 differentiable
 distorts
 dolomitising
