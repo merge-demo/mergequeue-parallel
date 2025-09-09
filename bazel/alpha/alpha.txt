@@ -944,7 +944,6 @@ abstemious
 astron
 asphaltene
 abstemiousness
-abstentionism
 abstentionist
 absterge
 asparagus
@@ -3214,6 +3213,7 @@ acetonation
 adamitism
 aliptae
 acquittance
+abstentionism
 ahungered
 adamsia
 adiathermanous
