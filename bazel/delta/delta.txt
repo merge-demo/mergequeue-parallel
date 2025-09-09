@@ -6094,7 +6094,6 @@ democratised
 deracination
 decurring
 dosers
-dorical
 diatheses
 disgage
 dizened
@@ -12313,6 +12312,7 @@ dehortation
 dismal
 dundavoe
 dishwater
+dorical
 dataflow
 dispatriated
 discrepancy
