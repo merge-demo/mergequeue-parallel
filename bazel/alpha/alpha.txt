@@ -1385,6 +1385,7 @@ associational
 accessing
 accession
 axilemmata
+anisopodous
 awl
 accessive
 ata
@@ -23663,7 +23664,6 @@ arrent
 auslaute
 auspex
 audacities
-anisopodous
 acetifier
 alto
 auspice
