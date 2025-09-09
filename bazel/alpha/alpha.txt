@@ -12502,7 +12502,6 @@ authentications
 albuminiform
 addleheadedly
 anfracture
-aperies
 amixia
 aporrhaidae
 antistrumous
@@ -17477,6 +17476,7 @@ appeases
 aristogenetic
 anaemia
 advantages
+aperies
 acratia
 appeasing
 atalantis
