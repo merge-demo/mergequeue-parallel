@@ -9046,7 +9046,6 @@ arteriostosis
 almanacs
 almander
 astromantic
-aikido
 almandine
 aeginetic
 astrophysical
@@ -21356,6 +21355,7 @@ afshah
 anthologise
 anosmatic
 aegagropiles
+aikido
 aspergillin
 amitoses
 aspergillosis
