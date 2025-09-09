@@ -4767,6 +4767,7 @@ adenitises
 archhost
 arenite
 areek
+archplotter
 aerodrome
 aluminide
 aerodromes
@@ -16584,7 +16585,6 @@ apnoeal
 agast
 axoneure
 alioth
-archplotter
 acceder
 aperu
 aperulosid
