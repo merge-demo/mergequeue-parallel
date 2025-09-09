@@ -6602,7 +6602,6 @@ bhaga
 bergh
 brachiata
 boonless
-berk
 bashaw
 brooking
 basiotribe
@@ -13390,6 +13389,7 @@ bluestockingish
 bombycina
 borussian
 balloon
+berk
 buyback
 biographer
 believeth
