@@ -3186,7 +3186,6 @@ deipara
 deferents
 datiscetin
 deferrable
-deferrer
 disturbative
 densen
 deferrized
@@ -10398,6 +10397,7 @@ decuple
 duograph
 dadas
 diazoanhydride
+deferrer
 diosmosing
 defenders
 departures
