@@ -6695,6 +6695,7 @@ airlessness
 anchistopoda
 acyloxy
 airlift
+alloiometric
 airlifting
 airlifts
 airlike
@@ -8820,7 +8821,6 @@ araneid
 alloyage
 aeroporotomy
 alloiogenesis
-alloiometric
 adjustments
 acrogenic
 alloisomerism
