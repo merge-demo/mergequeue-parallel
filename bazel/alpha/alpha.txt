@@ -4207,7 +4207,6 @@ aterian
 adsmith
 atelectasis
 adsmithing
-autotriploid
 allocryptic
 avocadoes
 anunder
@@ -20234,6 +20233,7 @@ aleuritic
 anisettes
 antistreptococcal
 allowances
+autotriploid
 accurst
 arsmetry
 aquatinted

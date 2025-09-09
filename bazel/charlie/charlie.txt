@@ -3704,6 +3704,7 @@ cowquake
 circum
 cantatrices
 convenership
+carabus
 crocine
 cyclammonium
 captress
@@ -25407,7 +25408,6 @@ cachetic
 contumaciousness
 cornmeals
 cornmuse
-carabus
 corno
 collegians
 connascency
