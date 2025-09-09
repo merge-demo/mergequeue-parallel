@@ -3584,7 +3584,6 @@ deglamorizing
 disrespectfulness
 discernably
 deglazed
-discoblastic
 deglazing
 diopters
 duckling
@@ -15802,6 +15801,7 @@ davening
 doorposts
 dopy
 dopier
+discoblastic
 docile
 dunce
 despondency
