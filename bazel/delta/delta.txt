@@ -624,7 +624,6 @@ disasinate
 disilicic
 deposes
 doff
-dishpanful
 damnability
 digladiated
 damnabilities
@@ -6286,6 +6285,7 @@ detune
 dendrolatry
 dislaurel
 dingledangle
+dishpanful
 demonstrableness
 doodad
 dissentiency
