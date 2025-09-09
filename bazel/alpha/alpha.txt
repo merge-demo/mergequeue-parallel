@@ -14775,7 +14775,6 @@ ambassadress
 anticlergy
 anticlericalism
 anatifer
-anticlericalist
 acidophilous
 azygobranchia
 ami
@@ -25215,6 +25214,7 @@ azadrachta
 aivers
 allelvia
 attentat
+anticlericalist
 azafran
 angiocyst
 acast
