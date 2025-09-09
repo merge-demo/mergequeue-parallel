@@ -11320,7 +11320,6 @@ bunkery
 brasilin
 bandits
 bingies
-barhal
 betelnuts
 bluebreast
 balance
@@ -15233,6 +15232,7 @@ bridgeward
 ballyhoos
 bridgework
 bridie
+barhal
 brumal
 bridlers
 boredom
