@@ -635,7 +635,6 @@ caesareans
 cardiopyloric
 campagnol
 connubialism
-cottage
 cytitis
 caesarian
 caesarism
@@ -5973,6 +5972,7 @@ casuistical
 catmints
 catnap
 cheilotomies
+cottage
 consonantism
 catnaper
 codling
