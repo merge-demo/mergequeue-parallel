@@ -8166,7 +8166,6 @@ bigae
 bywork
 battological
 barbicels
-bradykinetic
 bewake
 benzophosphinic
 balanophorin
@@ -10944,6 +10943,7 @@ blithe
 blithesomely
 bkgd
 benzotriazine
+bradykinetic
 boffolas
 blithest
 blitz
