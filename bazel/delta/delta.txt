@@ -5219,7 +5219,6 @@ denotatum
 deacidifying
 denotes
 docetistic
-destructuralize
 denoting
 deeping
 denouement
@@ -9697,6 +9696,7 @@ definitive
 dearthfu
 decemcostate
 demicircle
+destructuralize
 detacwable
 dubba
 dieter
