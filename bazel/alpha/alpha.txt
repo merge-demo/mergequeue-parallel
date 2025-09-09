@@ -13645,6 +13645,7 @@ anopheles
 anophelinae
 adamants
 anophoria
+amphibiotica
 anopia
 amusable
 astomia
@@ -15569,7 +15570,6 @@ antioxygenation
 alehoof
 atrazine
 armoury
-amphibiotica
 antiskepticism
 antipacifistic
 angriest
