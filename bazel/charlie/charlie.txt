@@ -18638,7 +18638,6 @@ coimplore
 coyn
 coinable
 creative
-coinages
 coincide
 clemming
 cervelliere
@@ -30231,6 +30230,7 @@ coppaelite
 cub
 crummiest
 crumming
+coinages
 calcarine
 cevadilline
 crumper
