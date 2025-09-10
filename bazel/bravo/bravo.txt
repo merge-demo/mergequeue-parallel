@@ -9947,7 +9947,6 @@ benefiter
 bywalking
 biwinter
 blackfisher
-benzolate
 bricoles
 bingo
 brutisms
@@ -16701,6 +16700,7 @@ bethunder
 bisognio
 bead
 boswell
+benzolate
 buddleia
 bunkhouses
 blockhole
