@@ -6008,6 +6008,7 @@ diagraphics
 diamagnetize
 diagrammitically
 depthlessness
+disconfirm
 diobols
 denizen
 demonetization
@@ -12850,7 +12851,6 @@ disulphonic
 diffusedness
 deferral
 dismay
-disconfirm
 dismayable
 diathermancy
 doubty
