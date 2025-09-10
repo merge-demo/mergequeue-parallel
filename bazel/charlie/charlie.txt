@@ -16523,7 +16523,6 @@ chondritis
 clubfellow
 contracture
 conjugators
-cloes
 cothon
 connexity
 cloff
@@ -28236,6 +28235,7 @@ clitic
 calor
 cratemen
 crossbreed
+cloes
 crater
 cachet
 crossfiring
