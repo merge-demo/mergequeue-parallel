@@ -4788,7 +4788,6 @@ antilogous
 aion
 antinaturalistic
 accessit
-adoperation
 aerogenes
 airplaning
 alomancy
@@ -20963,6 +20962,7 @@ amelus
 airports
 autophony
 anteposthumous
+adoperation
 ascogone
 abstinency
 adjournment
