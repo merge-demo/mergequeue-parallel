@@ -3147,7 +3147,6 @@ atresy
 army
 azimin
 ambassadeur
-algebraize
 acutance
 acutances
 acute
@@ -19590,6 +19589,7 @@ aristocracy
 abstainment
 aristocratic
 antidiabetic
+algebraize
 aristocraticalness
 aptera
 alphyn
