@@ -4676,7 +4676,6 @@ aeriness
 aero
 acetylate
 aeroballistic
-agapemonite
 astrosphere
 agrobiologist
 adductive
@@ -14607,6 +14606,7 @@ anthrohopobiological
 acushla
 ambulacral
 antisex
+agapemonite
 axilla
 antiblastic
 autography
