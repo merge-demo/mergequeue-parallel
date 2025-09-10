@@ -13246,7 +13246,6 @@ advertize
 ascill
 anywhence
 aggregational
-anywise
 anywither
 adscripts
 arecaidine
@@ -17862,6 +17861,7 @@ axillae
 appropriating
 appropriations
 appropriativeness
+anywise
 algometric
 appellative
 autosite
