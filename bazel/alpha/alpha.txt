@@ -20658,7 +20658,6 @@ aurochloride
 amphicrania
 artillerist
 artillerists
-artiness
 artiodactyla
 aerocolpos
 artiodactylous
@@ -23962,6 +23961,7 @@ anjou
 axenic
 autocorrosion
 autocosm
+artiness
 autocracy
 autocracies
 apotelesmatic
