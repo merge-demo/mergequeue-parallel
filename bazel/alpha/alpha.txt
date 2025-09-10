@@ -12281,6 +12281,7 @@ androscoggin
 astonishments
 actinides
 androsphinx
+aplanospore
 androsporangium
 auriculoventricular
 androsterone
@@ -18084,7 +18085,6 @@ athwart
 analogically
 advowee
 agronomical
-aplanospore
 arrogant
 arminian
 asthenosphere
