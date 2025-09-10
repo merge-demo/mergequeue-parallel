@@ -18078,7 +18078,6 @@ aquatintist
 athwart
 analogically
 advowee
-ascender
 agronomical
 aplanospore
 arrogant
@@ -25089,6 +25088,7 @@ antiamylase
 alii
 axillar
 argyrite
+ascender
 axillaries
 axillars
 aconitic
