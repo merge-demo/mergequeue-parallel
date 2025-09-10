@@ -8884,7 +8884,6 @@ biogenetic
 bibliographers
 blennothorax
 biogenetics
-bezetta
 bohemias
 basilysis
 biogeographical
@@ -16565,6 +16564,7 @@ bucculae
 butyr
 bisons
 bulanda
+bezetta
 brevicipitid
 blackly
 burke
