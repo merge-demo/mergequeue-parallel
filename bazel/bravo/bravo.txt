@@ -1373,7 +1373,6 @@ betwixen
 balconies
 baldachin
 bhaiachari
-bichromic
 becarpets
 boothian
 bibliotherapist
@@ -1610,6 +1609,7 @@ bedpans
 ballista
 byplay
 basketlike
+bichromic
 beatinest
 ballistician
 brachioganoidei
