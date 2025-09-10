@@ -5701,6 +5701,7 @@ cojoin
 catechizes
 cheveys
 coeldership
+corporalcy
 coyotillo
 catechumenism
 cuttages
@@ -17027,7 +17028,6 @@ coinclude
 cmd
 cathood
 chinotto
-corporalcy
 catalecta
 cml
 cnemial
