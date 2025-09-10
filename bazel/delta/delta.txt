@@ -1629,6 +1629,7 @@ divestment
 deallocate
 deobstruct
 devotional
+discretive
 daunter
 dicephalus
 darkhaired
@@ -18602,7 +18603,6 @@ dustcover
 diatonicism
 dustee
 daube
-discretive
 demipremise
 dispersant
 dusters
