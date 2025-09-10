@@ -4293,6 +4293,7 @@ dodger
 disjunctor
 downgrowth
 dawnstreak
+drives
 demasculinise
 divisors
 dem
@@ -17294,7 +17295,6 @@ drivers
 diol
 drivership
 dmarche
-drives
 demirobe
 dittoed
 disulfate

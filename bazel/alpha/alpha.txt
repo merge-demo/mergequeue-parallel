@@ -16235,6 +16235,7 @@ affray
 assoria
 aperitive
 antigraft
+atlases
 antiunion
 antiuratic
 antiurease
@@ -22638,7 +22639,6 @@ arthrodic
 antipopulationist
 above
 atlantoodontoid
-atlases
 amplificator
 achromatous
 atloid
