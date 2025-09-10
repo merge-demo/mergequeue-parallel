@@ -2078,7 +2078,6 @@ birthmarks
 bazookamen
 bioflavinoid
 batfishes
-bannock
 buyers
 bewrayers
 bannocks
@@ -6429,6 +6428,7 @@ banxring
 bepile
 balneotherapy
 bolo
+bannock
 bumbled
 blobbiness
 byeman
