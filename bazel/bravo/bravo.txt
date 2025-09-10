@@ -5437,7 +5437,6 @@ broadmouth
 baronets
 behoovefulness
 bota
-barrier
 behooves
 behooving
 basketball
@@ -17681,6 +17680,7 @@ boonfellow
 burma
 blacking
 brackets
+barrier
 begazed
 basker
 backhands
