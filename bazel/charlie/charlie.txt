@@ -2065,7 +2065,6 @@ campanologists
 cytophysics
 ceilingward
 chieftaincies
-circumnuclear
 captivator
 campanular
 circumvolve
@@ -24321,6 +24320,7 @@ cooja
 cheiroglossa
 coagulation
 cook
+circumnuclear
 cookable
 carbureter
 chapeau
