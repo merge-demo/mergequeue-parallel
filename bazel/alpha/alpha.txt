@@ -9145,6 +9145,7 @@ alnoite
 angles
 alnuin
 alo
+amortising
 alocasia
 alody
 alopiidae
@@ -10963,7 +10964,6 @@ amorphus
 auribromide
 amort
 amuguis
-amortising
 algic
 anklong
 assibilation
