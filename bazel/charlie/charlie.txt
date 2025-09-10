@@ -24065,7 +24065,6 @@ convergences
 convergency
 columbary
 camponotus
-convergent
 chemoceptor
 converges
 conversable
@@ -25380,6 +25379,7 @@ choragus
 corniced
 coffeeweed
 creamery
+convergent
 centrifuged
 coarsish
 crotcheted
