@@ -11566,6 +11566,7 @@ creatures
 choledochal
 choledochoduodenostomy
 colpeurysis
+connotively
 conformate
 collectorship
 choledocholithotripsy
@@ -14417,7 +14418,6 @@ cochliodus
 coeminency
 caddoan
 cataphracta
-connotively
 cirques
 cupric
 cirrate

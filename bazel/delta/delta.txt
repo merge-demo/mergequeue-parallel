@@ -12106,7 +12106,6 @@ diachoresis
 dijudicated
 disensure
 disentail
-deprecatively
 disentangle
 dentine
 disentanglement
@@ -17694,6 +17693,7 @@ discomfortable
 drawbacks
 dilogy
 detoxicating
+deprecatively
 delivered
 diclinism
 disty
