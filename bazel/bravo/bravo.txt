@@ -7331,6 +7331,7 @@ beclasps
 betony
 berkshire
 bombesin
+beetled
 bradshaw
 behaviours
 bottles
@@ -17955,7 +17956,6 @@ barkeeper
 blobbiest
 bicuspidal
 busily
-beetled
 busine
 blastide
 bleeze
