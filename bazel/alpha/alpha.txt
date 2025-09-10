@@ -3080,7 +3080,6 @@ aminic
 arachide
 anagrammatising
 antipathetically
-affrighting
 approvement
 antiscians
 admonished
@@ -23067,6 +23066,7 @@ arsonvalization
 abolla
 archiepiscopate
 alytarch
+affrighting
 appercipient
 akelas
 arrantness
