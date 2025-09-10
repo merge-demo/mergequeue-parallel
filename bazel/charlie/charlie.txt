@@ -11777,6 +11777,7 @@ chondrostei
 cytosine
 coelian
 coexecutrices
+configurative
 chondrosternal
 corky
 collyba
@@ -17011,7 +17012,6 @@ clutches
 clutchy
 centrex
 colpeo
-configurative
 caprella
 clerestories
 cymbaleer
