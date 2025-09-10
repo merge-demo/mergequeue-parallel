@@ -1068,7 +1068,6 @@ baulea
 boroughmaster
 bailiwick
 bridler
-benzothiopyran
 brasswork
 blackgums
 benzalaniline
@@ -9141,6 +9140,7 @@ brunches
 bevor
 baldrics
 built
+benzothiopyran
 bipetalous
 bucciniform
 bibliographer
