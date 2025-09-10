@@ -6134,6 +6134,7 @@ deratized
 derats
 doloroso
 deratted
+debind
 deratting
 draperies
 dissector
@@ -18060,7 +18061,6 @@ drooper
 duler
 dull
 dullard
-debind
 dipotassium
 detrusor
 dullardness
