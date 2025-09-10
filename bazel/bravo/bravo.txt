@@ -5979,6 +5979,7 @@ bucchero
 beautifulness
 bemoan
 buncal
+booked
 bookie
 baccarats
 bowenite
@@ -8377,7 +8378,6 @@ barostat
 blighted
 bilection
 bavardage
-booked
 bogeyman
 bilgeway
 bilharzial
