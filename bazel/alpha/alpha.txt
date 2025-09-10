@@ -2863,6 +2863,7 @@ attrahent
 anciens
 agpaite
 axisymmetric
+apogeal
 allheals
 appendages
 allophanic
@@ -21277,7 +21278,6 @@ acrogenously
 agueproof
 ambulantes
 amps
-apogeal
 agrypnode
 asmodeus
 adurent
