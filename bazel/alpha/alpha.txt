@@ -3560,7 +3560,6 @@ adephagous
 asepalous
 argoan
 amygdalate
-arbuscle
 autoxidizer
 alpenhorn
 autocratship
@@ -6133,6 +6132,7 @@ affricative
 agrace
 anterolaterally
 ahold
+arbuscle
 agraffe
 alimental
 akinesis
