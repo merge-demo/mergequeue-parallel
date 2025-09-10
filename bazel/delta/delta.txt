@@ -3924,7 +3924,6 @@ demulsification
 delactation
 delayable
 demes
-delayer
 disseisoress
 delayful
 det
@@ -11364,6 +11363,7 @@ dragon
 delegacies
 duckwheat
 disgracers
+delayer
 dyarchical
 deontological
 distributional
