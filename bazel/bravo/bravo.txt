@@ -7890,6 +7890,7 @@ bushido
 buibui
 banate
 balistraria
+botry
 benben
 borborygmi
 beledgered
@@ -12335,7 +12336,6 @@ buckshee
 brigades
 biskop
 bomble
-botry
 blackbutt
 boombox
 bluishness
