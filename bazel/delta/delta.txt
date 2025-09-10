@@ -2878,7 +2878,6 @@ duodecimomos
 dedicant
 dedicatee
 downbeat
-dedicating
 disorientating
 drafting
 dedicatory
@@ -17829,6 +17828,7 @@ decurt
 ducky
 duckier
 disesteemed
+dedicating
 drumread
 dicyanide
 dandyize
