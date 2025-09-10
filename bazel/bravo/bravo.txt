@@ -267,6 +267,7 @@ bsh
 bacile
 bacillaceae
 brarow
+bashilange
 benzedrine
 biarticulate
 bytownitite
@@ -13814,7 +13815,6 @@ bowelled
 beardedness
 bdl
 beaverwood
-bashilange
 baggy
 bowelling
 bluebush
