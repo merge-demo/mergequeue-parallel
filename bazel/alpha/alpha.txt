@@ -20884,7 +20884,6 @@ accomplishable
 ascertainably
 ascertaining
 ascescency
-ascescent
 asceses
 almshouse
 amphophilous
@@ -23437,6 +23436,7 @@ atherine
 autoprogressive
 anamorphous
 anabaptism
+ascescent
 anthracitization
 auklets
 auksinai
