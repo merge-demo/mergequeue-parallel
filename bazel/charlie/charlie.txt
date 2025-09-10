@@ -2483,7 +2483,6 @@ chancellorate
 churls
 candidiasis
 candids
-crawlie
 chlorpropamide
 cantorial
 countermands
@@ -18017,6 +18016,7 @@ coelococcus
 charioteers
 comet
 claymores
+crawlie
 cornerman
 corinthians
 coelom

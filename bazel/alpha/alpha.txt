@@ -10535,7 +10535,6 @@ amyloid
 adossee
 aptly
 amyloidoses
-acatharsia
 amyloidosis
 amyloleucite
 antivenine
@@ -16462,6 +16461,7 @@ agrafes
 apagogically
 apagogue
 apay
+acatharsia
 astre
 apayao
 apaid
