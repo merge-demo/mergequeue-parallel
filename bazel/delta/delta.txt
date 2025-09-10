@@ -3954,7 +3954,6 @@ depreciant
 delassement
 drugless
 dustman
-decontaminator
 disquixote
 disconcertion
 delation
@@ -4433,6 +4432,7 @@ discouragingly
 dualizing
 downgate
 disconanthae
+decontaminator
 disgracefulness
 demembre
 dreamlike
