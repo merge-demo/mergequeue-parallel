@@ -10802,7 +10802,6 @@ athwarthawse
 ammos
 ammotherapy
 approbator
-ammu
 antipepsin
 amnesia
 amnesiac
@@ -22228,6 +22227,7 @@ astrogational
 antirattler
 archae
 antiauthoritarianism
+ammu
 astrogeology
 astrogeologist
 ariadne
