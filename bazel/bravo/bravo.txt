@@ -9887,7 +9887,6 @@ bravas
 brian
 bx
 brigantinebrigantines
-bituminous
 bisecting
 beryllate
 brevit
@@ -15173,6 +15172,7 @@ bellow
 bourses
 blooddrop
 bridecake
+bituminous
 bandana
 bulgarophil
 blackfire
