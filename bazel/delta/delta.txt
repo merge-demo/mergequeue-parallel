@@ -1721,7 +1721,6 @@ dysenteric
 decumaria
 deathlikeness
 dundees
-deathliness
 dumble
 derogation
 disaccord
@@ -10684,6 +10683,7 @@ dolomize
 doon
 discoveries
 dioc
+deathliness
 diplopod
 diplopoda
 discorrespondent
