@@ -13356,7 +13356,6 @@ clarist
 cyclostomi
 cedent
 coenobite
-cocci
 contractile
 czarists
 cocooned
@@ -28160,6 +28159,7 @@ carvomenthene
 cockscomb
 circlet
 calabrese
+cocci
 calamar
 coulisse
 cururo
