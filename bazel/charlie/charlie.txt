@@ -8620,6 +8620,7 @@ celosias
 channelized
 cannaceae
 chitlins
+choroidal
 chibol
 channelled
 channelling
@@ -14805,7 +14806,6 @@ corelating
 cytoclastic
 crioboly
 cytococci
-choroidal
 cytoderm
 cytodiagnosis
 cytoecology
