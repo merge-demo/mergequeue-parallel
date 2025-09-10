@@ -12547,6 +12547,7 @@ bisector
 bagatelle
 bills
 brainchild
+brabblingly
 brigantine
 bom
 blackballer
@@ -17664,7 +17665,6 @@ biont
 beanos
 blepharosymphysis
 burlington
-brabblingly
 braconid
 befoolable
 broach
