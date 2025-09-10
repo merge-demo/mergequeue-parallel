@@ -14882,6 +14882,7 @@ breastless
 breastmark
 backspear
 buccina
+bankcards
 birthy
 breastpin
 boozers
@@ -15361,7 +15362,6 @@ boba
 bullule
 brilliantly
 brilliantwise
-bankcards
 bucketful
 bergut
 brilliolette
