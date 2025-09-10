@@ -3924,7 +3924,6 @@ butanes
 bispinose
 bucculatrix
 bds
-booster
 bucktails
 bea
 beautification
@@ -14042,6 +14041,7 @@ bouffancy
 bullpens
 best
 brachycrany
+booster
 bowpot
 brachydactylia
 binders
