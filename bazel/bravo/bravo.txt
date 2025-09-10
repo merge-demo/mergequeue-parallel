@@ -6063,6 +6063,7 @@ biobibliographies
 bisson
 bendies
 bends
+bardesanist
 bendwise
 begay
 bartramia
@@ -13343,7 +13344,6 @@ bumpsy
 bothy
 basivertebral
 bothie
-bardesanist
 blamed
 beholds
 baggers
