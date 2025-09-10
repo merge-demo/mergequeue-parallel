@@ -5434,7 +5434,6 @@ dueled
 duskishly
 deodorizes
 deontologist
-detesters
 dibutyrate
 deoppilant
 deceives
@@ -12726,6 +12725,7 @@ disleafed
 dermatophone
 distinguishes
 diffrangibility
+detesters
 disleaved
 disjointure
 disepalous
