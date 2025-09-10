@@ -3678,7 +3678,6 @@ bally
 batteaux
 bedirty
 bonnering
-battement
 balladising
 batteners
 bankrupted
@@ -14292,6 +14291,7 @@ borocitrate
 blaver
 bedirtying
 blackbuck
+battement
 biblically
 bascinet
 braggle
