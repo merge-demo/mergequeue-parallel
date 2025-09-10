@@ -13715,6 +13715,7 @@ dialkyl
 danegeld
 derelict
 donates
+dolomedes
 diplasion
 demetrian
 debarbarization
@@ -14598,7 +14599,6 @@ dismiss
 dissimuler
 discoverers
 divinized
-dolomedes
 demarche
 dismembrated
 duodenary
