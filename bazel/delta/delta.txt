@@ -4803,6 +4803,7 @@ deciduoma
 deaconing
 disseizor
 divots
+didus
 dadouchos
 diemaker
 dentalizing
@@ -5268,7 +5269,6 @@ desistence
 deligated
 decolourize
 dytiscidae
-didus
 density
 defat
 degasifier
