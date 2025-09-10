@@ -10184,7 +10184,6 @@ chiao
 capsicum
 chiapanec
 chiapanecan
-chlorochrous
 chamomilla
 chorisepalous
 chiarooscuro
@@ -20021,6 +20020,7 @@ carot
 closet
 carcinogenicity
 commassee
+chlorochrous
 cigar
 commata
 commaterial
