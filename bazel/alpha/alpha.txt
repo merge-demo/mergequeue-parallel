@@ -548,7 +548,6 @@ abmodalities
 airscrew
 acusector
 actinulae
-apioidal
 advowry
 ashlers
 abnaki
@@ -17594,6 +17593,7 @@ acrose
 adrostral
 arseniosiderite
 advisership
+apioidal
 antiagglutination
 agouta
 appestat
