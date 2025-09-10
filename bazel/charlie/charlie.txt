@@ -16276,6 +16276,7 @@ constringency
 clinoid
 clinology
 clinometry
+chemosynthetically
 cantos
 canisters
 calendal
@@ -27989,7 +27990,6 @@ crambe
 coscinomancy
 crambes
 crambidae
-chemosynthetically
 crambos
 crambus
 cramel
