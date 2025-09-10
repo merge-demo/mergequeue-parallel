@@ -16286,7 +16286,6 @@ clinopodium
 conterminous
 constrainment
 commonplaceness
-civilise
 chanst
 citronize
 copsewooded
@@ -24316,6 +24315,7 @@ cottonpicking
 cooja
 cheiroglossa
 coagulation
+civilise
 cook
 circumnuclear
 cookable
