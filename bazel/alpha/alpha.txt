@@ -3603,7 +3603,6 @@ adhara
 adharma
 ashstone
 aconitia
-adhere
 atticists
 adhered
 apophantic
@@ -4301,6 +4300,7 @@ adure
 antipuritan
 adustion
 aulical
+adhere
 absurdities
 artisanry
 adustive
