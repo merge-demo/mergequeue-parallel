@@ -19636,7 +19636,6 @@ anamite
 anglesmith
 aristologist
 aristomonarchy
-aristophanic
 aristorepublicanism
 arteriorrhexis
 aristotelean
@@ -21979,6 +21978,7 @@ amnestic
 accordature
 amphibichnite
 anaunter
+aristophanic
 asterophyllite
 asterophyllites
 adorno
