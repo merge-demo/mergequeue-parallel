@@ -7340,7 +7340,6 @@ donnie
 depositum
 diphthongia
 diphthongization
-determinated
 disaggregated
 diapausing
 determinately
@@ -8490,6 +8489,7 @@ diametral
 disorientates
 diamide
 defacer
+determinated
 daysman
 dentin
 deesis
