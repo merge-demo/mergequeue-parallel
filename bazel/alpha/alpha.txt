@@ -1711,7 +1711,6 @@ archiereus
 accuse
 agonistic
 amidships
-astuciously
 accused
 accusers
 abiogenetical
@@ -24095,6 +24094,7 @@ autohemolytic
 autohemorrhage
 autonomically
 autohexaploid
+astuciously
 anthesterin
 acetylthymol
 arbutuses
