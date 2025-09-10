@@ -7837,7 +7837,6 @@ desirability
 devoration
 dedenda
 drawsheet
-demicritic
 dairyings
 dogfishes
 dipsomaniacal
@@ -17523,6 +17522,7 @@ doorboy
 drovers
 dismortgaging
 droger
+demicritic
 drownd
 dipleurogenesis
 drowning
