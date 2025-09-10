@@ -6369,6 +6369,7 @@ dinoceratid
 destoolment
 dustmen
 diplotene
+disdain
 disassociation
 dorsiventral
 derodidymus
@@ -16474,7 +16475,6 @@ domy
 daglocks
 densitometric
 defrosted
-disdain
 delocalized
 dispellable
 dogtrotted

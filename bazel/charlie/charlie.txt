@@ -8830,6 +8830,7 @@ columnize
 cumulus
 chanted
 clodbreaker
+carvacrol
 cuniform
 characterism
 characteristically
@@ -23680,7 +23681,6 @@ cubalaya
 countableness
 contracyclical
 contractable
-carvacrol
 contractant
 choile
 contractedly
