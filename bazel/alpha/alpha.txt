@@ -6981,7 +6981,6 @@ akmite
 aftershock
 avowal
 arthroderm
-aerocartograph
 amidic
 actuator
 apterygiformes
@@ -14679,6 +14678,7 @@ arthrodira
 automanual
 anteing
 autoindex
+aerocartograph
 allocution
 anticeremonious
 anteroom
