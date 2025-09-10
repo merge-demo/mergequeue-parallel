@@ -4647,7 +4647,6 @@ basiophitic
 bedizen
 boubas
 bemitered
-balaam
 bedizens
 bedkey
 bacchanalize
@@ -4976,6 +4975,7 @@ breakwaters
 beetles
 bubal
 brompicrin
+balaam
 bromhydrate
 baching
 buoying
