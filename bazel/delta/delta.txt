@@ -11978,6 +11978,7 @@ depthing
 doorba
 discompose
 dwells
+disinheritable
 depravement
 defrock
 dramatizes
@@ -12609,7 +12610,6 @@ depend
 defies
 disingenuousness
 dicaryophase
-disinheritable
 diuturnity
 differentiant
 dinaphthyl
