@@ -5820,7 +5820,6 @@ cackling
 cannibalic
 catha
 capillatus
-cathayan
 cathar
 cribbage
 cathari
@@ -26036,6 +26035,7 @@ cretin
 cosigners
 coniferin
 chowderheadedness
+cathayan
 cithara
 circuli
 cheetul
