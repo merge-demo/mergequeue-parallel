@@ -5622,7 +5622,6 @@ corey
 catched
 catcher
 coccidioides
-commensurately
 concretions
 coriin
 catches
@@ -7752,6 +7751,7 @@ capibara
 cyanided
 caenogenesis
 cichloid
+commensurately
 cerviciplex
 cervicispinal
 cervicitis
