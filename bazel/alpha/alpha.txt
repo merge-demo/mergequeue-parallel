@@ -48,7 +48,6 @@ arcella
 arguitively
 alkylene
 anocithesia
-adstringe
 acineta
 agkistrodon
 abacus
@@ -12341,6 +12340,7 @@ anthracitous
 allose
 anematosis
 anemias
+adstringe
 academian
 adelarthrosomata
 anemic
