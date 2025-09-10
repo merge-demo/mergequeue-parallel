@@ -5769,7 +5769,6 @@ bureaucracy
 bellyaches
 becriming
 beylics
-baldachini
 blinking
 bellyaching
 bizarrely
@@ -17757,6 +17756,7 @@ banjoists
 brook
 buoyances
 bacalaos
+baldachini
 breakback
 bheesties
 burroweed
