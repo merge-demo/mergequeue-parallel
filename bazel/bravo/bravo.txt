@@ -5277,6 +5277,7 @@ bickered
 beefed
 bemolt
 begirt
+balaamitical
 bogies
 beglerbeglic
 blatant
@@ -6639,7 +6640,6 @@ berlin
 browsability
 broomstaff
 blitter
-balaamitical
 beeishness
 brontosaurus
 bulkiness
