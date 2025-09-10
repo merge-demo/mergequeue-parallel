@@ -1240,7 +1240,6 @@ alaloi
 avian
 asexualizing
 acaridean
-acrasy
 accompanimental
 affrightingly
 anucleate
@@ -10077,6 +10076,7 @@ anyways
 ambulance
 alkalinised
 anatomising
+acrasy
 amoeboidism
 ambulancer
 acenesthesia
