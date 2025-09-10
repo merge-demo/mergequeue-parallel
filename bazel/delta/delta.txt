@@ -7860,6 +7860,7 @@ dissertationist
 dinoceras
 dyothelism
 dwelling
+demove
 dil
 dreks
 devour
@@ -10371,7 +10372,6 @@ dyne
 dioptrate
 dupla
 divinizes
-demove
 dioptrical
 diopsidae
 daroo
