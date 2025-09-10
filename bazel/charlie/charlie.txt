@@ -13,7 +13,6 @@ cabal
 condylarthrous
 cryptostoma
 chevance
-cows
 corkmaking
 caught
 cabaletta
@@ -21925,6 +21924,7 @@ chamberwoman
 chillers
 confervae
 conferval
+cows
 combe
 cavalero
 chinamania
