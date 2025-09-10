@@ -13401,7 +13401,6 @@ cablet
 cymols
 cassida
 catchingly
-craniognomy
 coequate
 courageously
 ciderish
@@ -27546,6 +27545,7 @@ cerargyrite
 covetous
 choffer
 choucroute
+craniognomy
 climacium
 cheeriest
 covetously
