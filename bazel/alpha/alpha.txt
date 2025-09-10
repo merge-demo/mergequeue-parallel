@@ -652,7 +652,6 @@ abondance
 aimara
 apostrophation
 abonnement
-anemographic
 aborad
 aboral
 aborally
@@ -4063,6 +4062,7 @@ adopted
 adoption
 antedate
 abiotrophic
+anemographic
 apprised
 astronomic
 arthrodire

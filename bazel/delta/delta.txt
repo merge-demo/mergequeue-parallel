@@ -17711,7 +17711,6 @@ dualize
 dircaean
 diaclase
 dvorak
-decare
 downlike
 desulphurating
 diwata
@@ -18493,6 +18492,7 @@ dupped
 deceasing
 dunked
 desagrement
+decare
 dyschronous
 dissolutionism
 dacryoma
