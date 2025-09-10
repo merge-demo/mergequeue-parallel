@@ -9840,6 +9840,7 @@ chemistry
 chemists
 countess
 chemitypy
+cuppen
 clarice
 chancrous
 chemizo
@@ -31154,7 +31155,6 @@ calonectria
 cupolated
 chewstick
 covetingly
-cuppen
 contestability
 cuppin
 chemonite
