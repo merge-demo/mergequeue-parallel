@@ -2527,7 +2527,6 @@ bullyism
 bronchostenosis
 bereaving
 burgus
-barye
 burglarise
 bestrewn
 bois
@@ -8304,6 +8303,7 @@ bigots
 bombyxes
 bastian
 bigwigged
+barye
 beryllia
 bigwigs
 babu
