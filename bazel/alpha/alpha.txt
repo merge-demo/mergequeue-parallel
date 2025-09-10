@@ -21795,6 +21795,7 @@ abeam
 associationalist
 abakas
 amphimorula
+astronavigation
 antiegoist
 associationistic
 associatively
@@ -24854,7 +24855,6 @@ aseptic
 avowedly
 apotheosis
 amphithect
-astronavigation
 aeronautic
 avshar
 autocoherer
