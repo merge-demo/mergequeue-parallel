@@ -9794,6 +9794,7 @@ cowardliness
 clubroot
 combattants
 coze
+clamatory
 chemick
 calanid
 chemicker
@@ -15249,7 +15250,6 @@ clamantly
 clamaroo
 ceraunophone
 cywydd
-clamatory
 cartooned
 clutterer
 casimeres
