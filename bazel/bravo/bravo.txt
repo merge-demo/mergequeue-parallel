@@ -11420,6 +11420,7 @@ biddery
 ballgame
 borophenol
 bluewoods
+bespeckled
 bruckleness
 bluffable
 blicky
@@ -14749,7 +14750,6 @@ ballooner
 bradypepsia
 burgheress
 baru
-bespeckled
 brazil
 backropes
 bedraggled
