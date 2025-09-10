@@ -991,7 +991,6 @@ cydonia
 chaplains
 calathea
 calathi
-calathidia
 chamberlainship
 compacting
 calathiform
@@ -17337,6 +17336,7 @@ calyciflorous
 chauffeurs
 coappearance
 coappeared
+calathidia
 coappearing
 contaminable
 chardock
