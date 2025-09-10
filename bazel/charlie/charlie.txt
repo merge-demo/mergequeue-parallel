@@ -9651,6 +9651,7 @@ cheesing
 casse
 coagent
 cheewink
+cockroach
 cheezit
 chef
 cyclones
@@ -14538,7 +14539,6 @@ continuantly
 cogitating
 colognes
 cista
-cockroach
 cubicontravariant
 cystalgia
 commatism
