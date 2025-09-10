@@ -2295,6 +2295,7 @@ diacetyls
 denizens
 disseizin
 dilapidate
+darted
 draconianism
 decke
 deceptions
@@ -7099,7 +7100,6 @@ dionize
 desto
 disvalues
 diaclinal
-darted
 damselfish
 daitya
 doziness
