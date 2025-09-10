@@ -19584,7 +19584,6 @@ aristarchian
 aristarchies
 aristate
 alertness
-armaria
 aflower
 aristeia
 aristida
@@ -25237,6 +25236,7 @@ azha
 antitax
 afrogaean
 acrostichal
+armaria
 azide
 asclepiadeous
 aubain
