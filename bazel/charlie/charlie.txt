@@ -3581,7 +3581,6 @@ carabiniere
 carabinieri
 cotrespasser
 caraboa
-cinques
 caraboid
 caracara
 carack
@@ -20415,6 +20414,7 @@ communisteries
 carbonizers
 compactable
 compacted
+cinques
 ca
 coolants
 charbroils
