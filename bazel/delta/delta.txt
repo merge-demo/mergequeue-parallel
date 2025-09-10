@@ -14248,6 +14248,7 @@ disuses
 disutility
 dishonourable
 disinsection
+disemboguement
 doldrum
 dragade
 dismasts
@@ -14752,7 +14753,6 @@ duellists
 diagnose
 durras
 djagoong
-disemboguement
 dawties
 disanoint
 djave
