@@ -8979,7 +8979,6 @@ denaturalization
 deidesheimer
 dichotomy
 drunkenwise
-degasification
 deerflies
 detruck
 dwarfness
@@ -14796,6 +14795,7 @@ denudate
 dendroceratine
 disincline
 dimensionality
+degasification
 dotlike
 definitiones
 discarnation
