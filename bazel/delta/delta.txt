@@ -3732,7 +3732,6 @@ decaudate
 declinations
 dougl
 dehorted
-defatigate
 digitoxin
 detectives
 decompensation
@@ -17052,6 +17051,7 @@ discreet
 dovefoot
 dree
 docentship
+defatigate
 dayan
 drencher
 derabbinize
