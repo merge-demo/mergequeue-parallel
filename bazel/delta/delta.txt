@@ -9232,7 +9232,6 @@ devilman
 ditriglyph
 dipleurula
 dusterman
-delaine
 diebacks
 definitise
 dictyopteran
@@ -15708,6 +15707,7 @@ doodlers
 doodlesack
 demeanors
 determinedly
+delaine
 duumviri
 dap
 doolfu
