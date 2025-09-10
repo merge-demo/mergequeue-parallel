@@ -13438,6 +13438,7 @@ annualized
 apair
 annueller
 acrostolion
+animadversive
 albuca
 aftertax
 audiences
@@ -21714,7 +21715,6 @@ ambiparous
 aerophilous
 amphorophony
 amebas
-animadversive
 assigns
 affloof
 amacrinal
