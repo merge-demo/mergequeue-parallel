@@ -14679,7 +14679,6 @@ avener
 abbreviations
 agaze
 antichance
-animatograph
 antichlorine
 antichloristic
 antichlorotic
@@ -19162,6 +19161,7 @@ allotter
 areic
 arena
 arenaria
+animatograph
 annam
 auditives
 aquarii
