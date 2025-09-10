@@ -3344,7 +3344,6 @@ additivity
 akrabattine
 additory
 augustin
-appointively
 additum
 algology
 acetimeter
@@ -4655,6 +4654,7 @@ aftermath
 asterionella
 acarology
 anaretic
+appointively
 antihum
 aerials
 agrologically
