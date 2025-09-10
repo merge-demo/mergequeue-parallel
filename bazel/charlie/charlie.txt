@@ -3641,6 +3641,7 @@ caramelise
 conveyorize
 caramelize
 caramelized
+clowring
 cooks
 clangoring
 caramels
@@ -10788,7 +10789,6 @@ climatic
 canicule
 chinoleine
 chinoline
-clowring
 chinologist
 chinone
 chinones
