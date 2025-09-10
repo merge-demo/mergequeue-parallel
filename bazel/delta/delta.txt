@@ -3566,7 +3566,6 @@ dignification
 decapitates
 dragonhead
 degenerately
-degenerateness
 degenerating
 degenerescence
 diammonium
@@ -18625,6 +18624,7 @@ dure
 denudational
 dusttight
 decentring
+degenerateness
 decimalising
 digitus
 dusun
