@@ -6637,6 +6637,7 @@ ceinture
 ceyx
 ceja
 charcia
+ciceronic
 celadon
 complexionally
 committing
@@ -23904,7 +23905,6 @@ craton
 contubernal
 channelwards
 contumacy
-ciceronic
 contumacious
 cantel
 consisted
