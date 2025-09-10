@@ -24153,6 +24153,7 @@ convexness
 convexo
 convexoconcave
 castrensial
+cutesy
 colascione
 cannalling
 convicinity
@@ -31807,7 +31808,6 @@ chanabal
 cuteness
 cutenesses
 collying
-cutesy
 childbear
 changelings
 cutesier
