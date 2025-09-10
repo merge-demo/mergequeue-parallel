@@ -4733,7 +4733,6 @@ designingly
 daybreak
 dreidels
 dawnlight
-demivol
 disbend
 defectionist
 dendrolene
@@ -13738,6 +13737,7 @@ darks
 dissociations
 defluous
 deceases
+demivol
 dissogeny
 departmentalize
 detracting

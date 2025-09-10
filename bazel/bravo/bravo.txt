@@ -6072,7 +6072,6 @@ begay
 bartramia
 benedicta
 broughta
-balon
 bairns
 butcherbroom
 brevetted
@@ -14556,6 +14555,7 @@ brandied
 blatterer
 brandiron
 buddle
+balon
 billhooks
 blume
 burled
