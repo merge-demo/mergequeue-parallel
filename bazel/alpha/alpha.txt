@@ -6921,7 +6921,6 @@ anammonid
 antalgesic
 aphonia
 asporogenous
-arthropathy
 ameiotic
 allocation
 analogue
@@ -19298,6 +19297,7 @@ argentic
 azocyanide
 allicins
 anklets
+arthropathy
 annuals
 atacameno
 agastric
