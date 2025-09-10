@@ -3707,7 +3707,6 @@ dehonestation
 disoccupied
 dehorn
 didepside
-diagrammer
 dolcan
 desmose
 dreadful
@@ -10667,6 +10666,7 @@ dunnaged
 diplont
 delisting
 diplonts
+diagrammer
 debauchment
 dulwilly
 defossion
