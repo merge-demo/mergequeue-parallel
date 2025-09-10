@@ -13177,6 +13177,7 @@ cyclanthus
 cyclases
 circlets
 capot
+chaenomeles
 cyclecar
 coralbells
 cyclecars
@@ -14475,7 +14476,6 @@ cirsectomies
 cirsoid
 cirsomphalos
 completable
-chaenomeles
 coalmouse
 cirsotomy
 cassady
