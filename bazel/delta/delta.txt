@@ -2742,7 +2742,6 @@ dairymen
 deltoideus
 didler
 decreer
-distributions
 decurrently
 diamondized
 decreet
@@ -10619,6 +10618,7 @@ doxographical
 dittology
 domestic
 durham
+distributions
 documented
 decoctible
 defs
