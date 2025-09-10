@@ -10023,7 +10023,6 @@ controvert
 consorting
 caverned
 cherub
-chanoyu
 cherubfish
 cherubfishes
 cherubic
@@ -26773,6 +26772,7 @@ counterentry
 coiled
 counterequivalent
 credited
+chanoyu
 counterermine
 counterespionage
 contumelies
