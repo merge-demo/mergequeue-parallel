@@ -7965,7 +7965,6 @@ barenesses
 bayberry
 butcherous
 brachygnathism
-biconvexity
 brawned
 browband
 bicorn
@@ -8317,6 +8316,7 @@ beanie
 bonity
 bothriocidaris
 bauchle
+biconvexity
 bikers
 brilliantine
 bisections
