@@ -3179,6 +3179,7 @@ birdieing
 basial
 belove
 basiarachnitis
+bilharziosis
 bradyseism
 bailing
 bopster
@@ -8385,7 +8386,6 @@ bogeyman
 bilgeway
 bilharzial
 beglerbey
-bilharziosis
 boiled
 bilianic
 boreism
