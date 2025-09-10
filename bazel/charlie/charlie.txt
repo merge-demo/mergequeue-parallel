@@ -16147,6 +16147,7 @@ climacus
 climant
 climata
 celebesian
+crannied
 climatal
 computably
 corticate
@@ -28149,7 +28150,6 @@ crannel
 crannequin
 crannia
 colliquefaction
-crannied
 cytotoxicity
 crannies
 crannying
