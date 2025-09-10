@@ -13072,7 +13072,6 @@ charming
 cybernation
 cybernetic
 chimblies
-cybernetical
 cybernetically
 cybernetician
 cyberneticist
@@ -19449,6 +19448,7 @@ cinerea
 carpocervical
 colorfastness
 carcerating
+cybernetical
 cuffle
 colorful
 colorfulness
