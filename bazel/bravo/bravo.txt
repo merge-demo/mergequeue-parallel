@@ -10232,6 +10232,7 @@ briefs
 boltonite
 bliaut
 ballsy
+benda
 blacktongue
 bacchanalism
 byroniana
@@ -17992,7 +17993,6 @@ biochemically
 bondmanship
 busmen
 beaux
-benda
 bicrons
 bussing
 bichrome
