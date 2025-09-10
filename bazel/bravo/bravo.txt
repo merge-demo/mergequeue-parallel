@@ -5303,6 +5303,7 @@ breviers
 begnaw
 big
 biharmonic
+biltongs
 balmy
 bambos
 ballroom
@@ -5919,7 +5920,6 @@ beqwete
 blocs
 belvedere
 bluewood
-biltongs
 barmecide
 belvedered
 blueblossom
