@@ -3469,6 +3469,7 @@ buphaga
 bander
 barkpeeler
 boobook
+bicarbonate
 bronchiarctia
 blenk
 barbacoa
@@ -11187,7 +11188,6 @@ bf
 bezesteen
 borghalpenny
 bespeaker
-bicarbonate
 bisilicate
 bridging
 buckets
