@@ -5425,6 +5425,7 @@ commandery
 catachreses
 catachresis
 cercariae
+coolamon
 catachrestically
 catachthonic
 consummation
@@ -20921,7 +20922,6 @@ cosmognosis
 colonnades
 cheesiness
 comprehender
-coolamon
 carnivallike
 comprehense
 cherkess
