@@ -1494,7 +1494,6 @@ aphasiac
 anarchy
 accompli
 allanitic
-affiliates
 archmediocrity
 adenemphraxis
 anopsia
@@ -18347,6 +18346,7 @@ andromania
 arbalist
 arbalists
 acclimation
+affiliates
 abrenunciation
 appleringy
 arbela
