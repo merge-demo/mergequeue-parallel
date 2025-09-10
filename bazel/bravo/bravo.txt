@@ -8150,7 +8150,6 @@ bifacial
 bifara
 bootleger
 bedress
-biff
 befiddle
 bigwiggery
 bifilar
@@ -16057,6 +16056,7 @@ bloodstain
 baycuru
 bins
 berber
+biff
 begloomed
 brotel
 brothe
