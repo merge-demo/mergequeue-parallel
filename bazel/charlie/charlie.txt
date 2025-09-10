@@ -1145,7 +1145,6 @@ calculational
 cheesecutter
 caligo
 calculator
-calculatory
 calculators
 chorically
 calculer
@@ -10038,6 +10037,7 @@ composers
 cherubim
 cherubimic
 cherubimical
+calculatory
 cherublike
 cleansing
 calzone
