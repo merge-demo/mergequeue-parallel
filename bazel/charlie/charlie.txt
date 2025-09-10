@@ -2270,6 +2270,7 @@ canalboat
 charales
 canale
 canaled
+crustaceal
 cobs
 cithrens
 carthaginian
@@ -4985,7 +4986,6 @@ coevolve
 colisepsis
 cerianthus
 casate
-crustaceal
 closemouthed
 cuber
 cellepora
