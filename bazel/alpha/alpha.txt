@@ -15804,7 +15804,6 @@ archils
 antipriest
 astrophotometry
 anno
-antipriesthood
 arni
 antiprime
 antiprinciple
@@ -17032,6 +17031,7 @@ apodyteria
 adverb
 apodyterium
 azotizing
+antipriesthood
 apoenzyme
 apofenchene
 apogaeic
