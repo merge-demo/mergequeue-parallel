@@ -2883,7 +2883,6 @@ canso
 coetaneity
 cansos
 chartophylaxes
-cant
 connectionless
 cantabank
 canonic
@@ -26255,6 +26254,7 @@ collegianer
 cultured
 costoapical
 costocentral
+cant
 casern
 carmel
 cyclostomate
