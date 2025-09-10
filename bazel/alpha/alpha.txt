@@ -2786,7 +2786,6 @@ avadavat
 acronymized
 acronymizing
 ascetic
-anchorage
 adessive
 ancylopoda
 aeolipyle
@@ -7845,6 +7844,7 @@ anthonin
 amaranths
 altarpiece
 aleukaemic
+anchorage
 argasid
 auscultations
 aleurobius
