@@ -2757,7 +2757,6 @@ deflectable
 decresc
 delphinus
 duodecahedron
-decrescent
 deknight
 devas
 draftees
@@ -12949,6 +12948,7 @@ dismounted
 dryope
 disnaturalization
 dibromoacetaldehyde
+decrescent
 deviator
 dermaptera
 disnew
