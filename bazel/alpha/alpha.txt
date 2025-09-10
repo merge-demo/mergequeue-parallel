@@ -8129,6 +8129,7 @@ alidads
 anchored
 aposporous
 anonad
+asok
 autocoprophagous
 acquaintedness
 alienability
@@ -10570,7 +10571,6 @@ amines
 adiabatic
 avoy
 antiloimic
-asok
 arteriosclerosis
 autogenously
 auricularias
