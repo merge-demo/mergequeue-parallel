@@ -591,7 +591,6 @@ damassin
 deiformity
 dipodidae
 dabbers
-dropworm
 domical
 dambonitol
 dialers
@@ -14428,6 +14427,7 @@ divagated
 divagates
 diphthongal
 divagationally
+dropworm
 demagnetizes
 droving
 divan
