@@ -6518,6 +6518,7 @@ disagreer
 descensive
 desmans
 dewdrops
+disappointedly
 donor
 desitive
 descent
@@ -15676,7 +15677,6 @@ donovan
 dons
 deltahedron
 dolus
-disappointedly
 deflocculent
 donsky
 donum
