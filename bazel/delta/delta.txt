@@ -2893,7 +2893,6 @@ drossier
 dansk
 dedifferentiated
 dedignation
-depredations
 developist
 dimanganion
 dispart
@@ -5134,6 +5133,7 @@ dasyurid
 dendrophilous
 densation
 deadwoods
+depredations
 disprobabilize
 dadoed
 denebola
