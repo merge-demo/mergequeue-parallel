@@ -4700,6 +4700,7 @@ autocross
 arboreal
 aperture
 aequoreal
+armourbearer
 abounding
 aerobioscope
 aerobiosis
@@ -19857,7 +19858,6 @@ acle
 armouchiquois
 ammine
 armour
-armourbearer
 anabolitic
 avalanched
 adossed
