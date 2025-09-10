@@ -17093,6 +17093,7 @@ bala
 bullocks
 booklice
 boder
+butomus
 ballogan
 benzoylformic
 balantidial
@@ -17725,7 +17726,6 @@ basileus
 browsage
 baserunning
 blucher
-butomus
 blackishly
 broodless
 biostatistic
