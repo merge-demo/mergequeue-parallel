@@ -2701,7 +2701,6 @@ depart
 defamous
 devonshire
 doublure
-dissembling
 decore
 docklands
 decorist
@@ -17110,6 +17109,7 @@ debbie
 disfame
 dextrine
 dearer
+dissembling
 determinateness
 disalicylide
 deair
