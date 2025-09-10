@@ -3520,6 +3520,7 @@ batfowled
 bassists
 batfowls
 bestore
+berried
 brookites
 blackroot
 bathed
@@ -13373,7 +13374,6 @@ babyhood
 beothuk
 bunched
 botling
-berried
 bidders
 broadthroat
 botone
