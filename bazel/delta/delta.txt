@@ -3713,6 +3713,7 @@ desmitis
 durmasts
 defaceable
 dehonestation
+dixit
 disoccupied
 dehorn
 didepside
@@ -8868,7 +8869,6 @@ desilver
 dibenzopyrrole
 disproportionates
 digressing
-dixit
 debilissima
 delassation
 dibhole
