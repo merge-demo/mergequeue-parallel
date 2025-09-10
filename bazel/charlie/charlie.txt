@@ -7281,7 +7281,6 @@ chimbly
 corslets
 cephalobranchiata
 chelicera
-capitolian
 chronometrical
 cerusites
 carks
@@ -14429,6 +14428,7 @@ cirribranch
 cirriferous
 choralist
 colonialism
+capitolian
 courtezan
 confidentially
 cirriped
