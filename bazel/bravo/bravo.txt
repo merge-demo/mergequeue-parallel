@@ -148,6 +148,7 @@ bourne
 botanomancy
 banister
 booboos
+bursati
 bludge
 belick
 basidiocarp
@@ -16031,7 +16032,6 @@ baseman
 broadwayite
 brailler
 beacons
-bursati
 blotting
 bravadoed
 broomstraw
