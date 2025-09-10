@@ -12214,7 +12214,6 @@ dehusk
 doom
 depthometer
 diacetine
-dextro
 dha
 disfavoured
 detoxifying
@@ -17711,6 +17710,7 @@ dvorak
 downlike
 desulphurating
 diwata
+dextro
 disapprovingly
 disanimal
 dimerisms
