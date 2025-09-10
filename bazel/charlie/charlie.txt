@@ -10588,7 +10588,6 @@ countermove
 chouka
 cystidean
 chemolytic
-countersubject
 copaibas
 camoca
 choledochotomy
@@ -29144,6 +29143,7 @@ cryosurgery
 cryptogamia
 cyclospermous
 cryotherapies
+countersubject
 cryotron
 crip
 crippied
