@@ -17083,7 +17083,6 @@ coaches
 caprylin
 cornroot
 cibaria
-contrantiscion
 canthitis
 coperose
 coachfellow
@@ -18983,6 +18982,7 @@ converts
 chromonemata
 collaterally
 collateralness
+contrantiscion
 collaterals
 canzone
 corved
