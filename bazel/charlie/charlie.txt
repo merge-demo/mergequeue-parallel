@@ -20918,6 +20918,7 @@ compaginate
 catechumen
 compradore
 compregnate
+crimogenic
 comprehend
 cosmognosis
 colonnades
@@ -28492,7 +28493,6 @@ credenza
 credere
 credible
 concealers
-crimogenic
 credibly
 creditable
 creditably
