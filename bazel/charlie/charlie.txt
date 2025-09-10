@@ -8615,7 +8615,6 @@ corresponder
 celosias
 channelized
 cannaceae
-capitalisable
 chitlins
 chibol
 channelled
@@ -20636,6 +20635,7 @@ cascol
 challengee
 competitrix
 coignes
+capitalisable
 compilable
 cofounded
 curvilinearly

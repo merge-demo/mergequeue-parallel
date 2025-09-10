@@ -3448,6 +3448,7 @@ berginization
 bef
 brushfire
 brigade
+biserially
 basto
 baguios
 bucklandite
@@ -8277,7 +8278,6 @@ bonamano
 bemuddled
 brulot
 bankside
-biserially
 batatilla
 belard
 bemists
