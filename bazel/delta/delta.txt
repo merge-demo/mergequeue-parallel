@@ -2312,7 +2312,6 @@ downwash
 deceptive
 dislimning
 deceptiveness
-deafnesses
 decerebrate
 disfavourable
 dustup
@@ -17171,6 +17170,7 @@ dashers
 drierman
 dogma
 decennials
+deafnesses
 dryfoot
 dribber
 dikaryophyte
