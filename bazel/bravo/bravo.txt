@@ -3698,7 +3698,6 @@ brightest
 batting
 blackthorn
 blasties
-battings
 bepaste
 baldly
 baetyl
@@ -13897,6 +13896,7 @@ bombarder
 bloops
 backstopped
 benzilic
+battings
 bulgaria
 backhauled
 billback
