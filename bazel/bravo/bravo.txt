@@ -1552,7 +1552,6 @@ baronetised
 beeherd
 blastemata
 bersiamite
-bulbiform
 branchiate
 bouton
 backsword
@@ -4461,6 +4460,7 @@ bae
 balanophoraceous
 bedwarfed
 brigadiership
+bulbiform
 blastoff
 basellaceous
 befleaing
