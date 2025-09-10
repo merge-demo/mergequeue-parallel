@@ -15424,7 +15424,6 @@ botanophilist
 brynhild
 blist
 broomrape
-barbes
 boyce
 biferous
 bytownite
@@ -16278,6 +16277,7 @@ brushers
 burrish
 brotherliness
 bewailable
+barbes
 betell
 brelan
 blueing
