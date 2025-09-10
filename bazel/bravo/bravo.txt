@@ -7223,7 +7223,6 @@ baseboards
 biolinguistics
 bali
 betelgeuse
-banzais
 bioclimatologist
 bambuba
 breve
@@ -13278,6 +13277,7 @@ bazaar
 bradykinesis
 bhavan
 bivaulted
+banzais
 bluestone
 botanically
 bridechamber
