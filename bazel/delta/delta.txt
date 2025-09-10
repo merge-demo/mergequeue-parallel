@@ -8217,7 +8217,6 @@ disenorm
 dislodgeable
 delinquency
 dauby
-diaconica
 depotentiation
 dragooning
 dactylic
@@ -10329,6 +10328,7 @@ dicynodon
 denary
 diomate
 discoglossoid
+diaconica
 dearly
 decalcification
 draftmanship
