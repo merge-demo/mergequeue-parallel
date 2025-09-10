@@ -984,7 +984,6 @@ bahoe
 bottlemaker
 bycoket
 binge
-bowwort
 bradytely
 bobbing
 bakuninist
@@ -10712,6 +10711,7 @@ boody
 bibulus
 biorhythmic
 bronchomotor
+bowwort
 bleo
 befuddlers
 bywords

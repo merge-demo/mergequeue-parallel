@@ -3091,6 +3091,7 @@ defaultless
 depauperization
 downfolded
 defaults
+dryopithecid
 defaulture
 dayworker
 detritus
@@ -4662,7 +4663,6 @@ demisemitone
 dislodging
 decem
 demiss
-dryopithecid
 disprobative
 demissory
 demystify
