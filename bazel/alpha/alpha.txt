@@ -3226,7 +3226,6 @@ adobes
 ardisia
 arhat
 adamsites
-adance
 adansonia
 alfaqui
 aircrews
@@ -9320,6 +9319,7 @@ alphonsin
 airproof
 atonalism
 alphonsine
+adance
 alphosis
 assessorial
 adigranth
