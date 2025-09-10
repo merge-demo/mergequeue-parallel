@@ -1745,6 +1745,7 @@ baladine
 balsamation
 balsaminaceae
 bookrest
+beetrooty
 beneplacit
 balsamine
 basongo
@@ -4989,7 +4990,6 @@ beetlike
 brumbee
 babism
 baptised
-beetrooty
 bristle
 branchiosaur
 bawls
