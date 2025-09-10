@@ -4554,6 +4554,7 @@ dromicia
 demigriffin
 distraughted
 devocation
+datums
 drabbled
 dogmatician
 delegacy
@@ -17511,7 +17512,6 @@ determinacy
 desectionalize
 definitude
 dimidiate
-datums
 delegatee
 diplography
 dhobi
