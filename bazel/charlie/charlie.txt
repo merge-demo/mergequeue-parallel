@@ -18819,7 +18819,6 @@ colectomies
 cacogenics
 cyesiology
 coalfish
-conodonts
 consumptivity
 chaplet
 coleochaetaceous
@@ -21334,6 +21333,7 @@ chalcidic
 convolved
 conchyliferous
 conchylium
+conodonts
 chads
 caerphilly
 cinchonised
