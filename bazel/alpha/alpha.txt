@@ -6476,7 +6476,6 @@ aquinas
 amphoriskos
 apatosaurus
 antidomestically
-atnah
 apocryphally
 aiguilles
 atropia
@@ -12823,6 +12822,7 @@ anguiped
 acutes
 anguishing
 anisogamic
+atnah
 angula
 angular
 angularia

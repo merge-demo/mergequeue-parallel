@@ -8429,6 +8429,7 @@ braes
 braillist
 bronchotomist
 behale
+bookworm
 birch
 butyryl
 bearhound
@@ -12744,7 +12745,6 @@ bookwards
 byronite
 booting
 basisidia
-bookworm
 booleans
 booly
 backhanding
