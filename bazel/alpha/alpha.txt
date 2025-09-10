@@ -9701,7 +9701,6 @@ amandine
 amanist
 airwaybill
 amanitine
-acipenser
 aerifying
 anaerobies
 amanitins
@@ -17365,6 +17364,7 @@ apotropaically
 azlons
 asciferous
 apotropous
+acipenser
 aggressively
 anthomedusan
 anaesthatic
