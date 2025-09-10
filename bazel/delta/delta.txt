@@ -5287,7 +5287,6 @@ dentality
 dentaliums
 dentalized
 delphinapterus
-dentallia
 dentaphone
 duomi
 duplicature
@@ -8925,6 +8924,7 @@ dilemi
 dicentras
 dipyramid
 dyads
+dentallia
 defiatory
 diceras
 dmod
