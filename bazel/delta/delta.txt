@@ -14573,7 +14573,6 @@ didn
 dad
 district
 demurest
-decretum
 diformin
 damaging
 doorbells
@@ -17520,6 +17519,7 @@ doorboy
 drovers
 dismortgaging
 droger
+decretum
 demicritic
 drownd
 dipleurogenesis
