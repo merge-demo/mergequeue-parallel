@@ -5239,6 +5239,7 @@ denouncement
 denouncements
 denouncer
 dissymmetry
+diallelus
 dodecane
 densate
 diogenean
@@ -8425,7 +8426,6 @@ dt
 darns
 dishonorably
 donsy
-diallelus
 daishikis
 dysphasic
 drowned
