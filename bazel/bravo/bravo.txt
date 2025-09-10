@@ -6645,7 +6645,6 @@ bossiest
 bathe
 bermensch
 bermes
-bourgeoisify
 battens
 benedictive
 besra
@@ -10872,6 +10871,7 @@ bemoon
 blinding
 braciolas
 biorbital
+bourgeoisify
 bignoniad
 bombers
 blindstories
