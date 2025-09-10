@@ -7994,7 +7994,6 @@ brutal
 bicorned
 bv
 bochur
-bostrychoidal
 bicornous
 booklift
 bagroom
@@ -8628,6 +8627,7 @@ barbastel
 bracketted
 basibranchial
 borborygmies
+bostrychoidal
 barbet
 bimboes
 bushbeater
