@@ -6360,7 +6360,6 @@ dislimn
 divorcing
 dugong
 dejeune
-dermophobe
 duodenum
 dermosclerite
 dermotropic
@@ -13113,6 +13112,7 @@ drillings
 dimethylsulfoxide
 discocarpium
 disagreeably
+dermophobe
 decnet
 decimalised
 delaw
