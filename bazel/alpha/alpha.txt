@@ -837,6 +837,7 @@ absentees
 absenters
 aflatus
 amurcosity
+aframerican
 absentminded
 aerobics
 acceptances
@@ -9402,7 +9403,6 @@ altern
 alternacy
 asynchronously
 alternamente
-aframerican
 aclidian
 antilocapridae
 archaeogeology
