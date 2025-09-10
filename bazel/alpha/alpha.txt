@@ -4485,7 +4485,6 @@ athenian
 atlantodidymus
 aecidial
 aecidioform
-abjunctive
 aciculas
 aecidiostage
 aglare
@@ -7780,6 +7779,7 @@ anorthoscope
 atropines
 ascella
 appropriates
+abjunctive
 alembic
 abolishes
 antimedieval
