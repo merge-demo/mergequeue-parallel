@@ -1511,6 +1511,7 @@ callisthenic
 cossid
 cenotaphic
 communising
+commensuration
 chemostat
 callisto
 callithrix
@@ -20088,7 +20089,6 @@ commensurate
 cubla
 curatorial
 commensurating
-commensuration
 commensurations
 corking
 comment
