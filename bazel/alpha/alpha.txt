@@ -13594,7 +13594,6 @@ anomalonomy
 allegro
 auxochromism
 anthropological
-agglomerative
 auriculariaceae
 anomalotrophy
 anomalousness
@@ -25225,6 +25224,7 @@ aldine
 ammonal
 azelaic
 antical
+agglomerative
 azeotrope
 azeotropic
 alkyds

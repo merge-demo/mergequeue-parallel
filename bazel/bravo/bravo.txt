@@ -976,7 +976,6 @@ biologicohumanistic
 betook
 bigwig
 bindle
-blickie
 bahoe
 bottlemaker
 bycoket
@@ -12952,6 +12951,7 @@ bombycillidae
 bandersnatch
 branchery
 biplicity
+blickie
 browntop
 booziness
 bookstore
