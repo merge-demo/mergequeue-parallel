@@ -8832,7 +8832,6 @@ characteristically
 characteristicalness
 cucaracha
 characterization
-characterize
 characterizing
 characterless
 contratenor
@@ -30577,6 +30576,7 @@ cucuy
 chunnia
 cucujid
 confidant
+characterize
 chloranemia
 corkscrewing
 cucujus

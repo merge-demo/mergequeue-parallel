@@ -3495,7 +3495,6 @@ darksome
 demoniast
 deoxygenizing
 diaminogene
-deadworks
 differentiative
 druid
 defunct
@@ -3524,6 +3523,7 @@ diglyphic
 dakoities
 dissociative
 degames
+deadworks
 deganglionate
 dystome
 degasify
