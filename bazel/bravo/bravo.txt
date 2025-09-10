@@ -10727,6 +10727,7 @@ bebatter
 braeside
 brags
 blennosis
+bankroll
 beclart
 bregmate
 beethovenish
@@ -13892,7 +13893,6 @@ bootjack
 bowsaw
 bowsed
 benzopyran
-bankroll
 bodkinwise
 baccalaurean
 bowshot

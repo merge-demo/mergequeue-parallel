@@ -4012,6 +4012,7 @@ chiasma
 cardialgy
 caryl
 coevals
+comptonia
 childkind
 cardialgia
 calla
@@ -5961,7 +5962,6 @@ cating
 cativo
 catkin
 coassession
-comptonia
 catkinate
 curatory
 candify
