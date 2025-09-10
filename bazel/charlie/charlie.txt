@@ -2117,7 +2117,6 @@ compilatory
 coleorhiza
 camphols
 camphor
-contemnor
 camphorated
 camphorates
 chg
@@ -9545,6 +9544,7 @@ crooked
 cheders
 chee
 circumcolumnar
+contemnor
 cheecha
 ciceronism
 cheechaco
