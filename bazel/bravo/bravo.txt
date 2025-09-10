@@ -2858,6 +2858,7 @@ biform
 buddage
 brechans
 basyl
+bugaboo
 bannermen
 barrage
 barnmen
@@ -16820,7 +16821,6 @@ bugseeds
 bulbil
 bufotoxin
 biconcavity
-bugaboo
 bugaboos
 bugan
 brahm
