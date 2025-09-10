@@ -16549,7 +16549,6 @@ clogmaking
 clogwheel
 clogwyn
 clogwood
-centrality
 calvinian
 cloy
 cloyedness
@@ -17004,6 +17003,7 @@ clustering
 choultry
 cramponnee
 clusterings
+centrality
 clutch
 clutched
 clutches
