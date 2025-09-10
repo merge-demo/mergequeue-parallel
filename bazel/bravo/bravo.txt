@@ -3522,6 +3522,7 @@ batfowled
 bassists
 batfowls
 bestore
+beng
 berried
 brookites
 blackroot
@@ -16155,7 +16156,6 @@ balneographer
 burlesqued
 bundh
 boosted
-beng
 bilithon
 bandboxy
 blackit
