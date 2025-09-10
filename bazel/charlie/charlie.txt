@@ -4620,7 +4620,6 @@ centrospermae
 carouse
 carousels
 carp
-carpaine
 carpals
 carpathian
 carpe
@@ -14717,6 +14716,7 @@ citatory
 canvassers
 cookery
 citer
+carpaine
 citers
 cites
 citess
