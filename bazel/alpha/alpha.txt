@@ -6919,6 +6919,7 @@ adjiga
 adhibited
 anammonid
 antalgesic
+aphonia
 asporogenous
 arthropathy
 ameiotic
@@ -16421,7 +16422,6 @@ achaenocarp
 agsam
 aegagri
 amadis
-aphonia
 aortic
 acupuncturation
 augelite
