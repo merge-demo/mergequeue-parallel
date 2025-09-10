@@ -10515,7 +10515,6 @@ demolishes
 deisticalness
 dramatist
 dozent
-dalar
 dunny
 denehole
 daglock
@@ -18111,6 +18110,7 @@ dehydrogenizer
 dictograph
 dag
 dilling
+dalar
 dulseman
 dult
 dissimilating
