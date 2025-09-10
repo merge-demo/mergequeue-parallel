@@ -766,7 +766,6 @@ bitstock
 bearcoot
 badiner
 badinerie
-birt
 bilo
 badious
 betrays
@@ -11812,6 +11811,7 @@ bikes
 bantus
 bailees
 barlafumble
+birt
 bodybuilder
 bard
 briareus
