@@ -9087,6 +9087,7 @@ banksides
 biotins
 beefishness
 beefhead
+binodal
 biogeographer
 brack
 biotypes
@@ -14573,7 +14574,6 @@ birks
 biogeographers
 brotherlike
 bonito
-binodal
 bassara
 blissfulness
 befathered
