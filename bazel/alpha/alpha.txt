@@ -10675,7 +10675,6 @@ anestri
 amitate
 abandonments
 ancistrodon
-anteinitial
 aground
 amities
 amitotic
@@ -18097,6 +18096,7 @@ aberuncator
 aporphin
 areel
 approximatively
+anteinitial
 antlike
 anasarca
 ammonocarbonous
