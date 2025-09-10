@@ -5316,7 +5316,6 @@ diatomacean
 dismissers
 decimalized
 demibombard
-disguising
 dysteleology
 displant
 decerebrated
@@ -12445,6 +12444,7 @@ deathweed
 dishcloth
 despairer
 dupable
+disguising
 dishclout
 dentolingual
 doubles

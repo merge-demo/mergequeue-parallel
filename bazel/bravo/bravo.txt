@@ -9896,6 +9896,7 @@ branchling
 betrap
 bergerette
 bucking
+bosonic
 bultong
 britt
 bryum
@@ -15361,7 +15362,6 @@ brilliantwise
 bankcards
 bucketful
 bergut
-bosonic
 brilliolette
 brills
 baculites
