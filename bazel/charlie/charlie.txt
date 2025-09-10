@@ -16427,7 +16427,6 @@ clivis
 creosol
 clivus
 coeffects
-clk
 conclaves
 clo
 cosherer
@@ -26822,6 +26821,7 @@ courtless
 coraciiformes
 counterhaft
 commensurableness
+clk
 counterhypothesis
 cephen
 corflambo
