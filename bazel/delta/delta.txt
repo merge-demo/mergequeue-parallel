@@ -2794,6 +2794,7 @@ demist
 draggle
 decrypt
 dahs
+dasht
 dasyus
 decrowning
 detenus
@@ -10902,7 +10903,6 @@ digit
 dynameter
 dimerized
 depthen
-dasht
 demultiplexers
 dirgelike
 diamonded
