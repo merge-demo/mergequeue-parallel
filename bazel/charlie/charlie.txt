@@ -11860,6 +11860,7 @@ calashes
 chorai
 comedowns
 cranker
+covolume
 cathexes
 choral
 choralcelo
@@ -27573,7 +27574,6 @@ charioteership
 covisitor
 conventicler
 covite
-covolume
 catchpennies
 cognoscitively
 cypressroot
