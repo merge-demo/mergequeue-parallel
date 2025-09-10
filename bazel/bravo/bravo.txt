@@ -13832,7 +13832,6 @@ bastiles
 byres
 blasters
 broadtail
-burkite
 bowerwoman
 bluffers
 bedded
@@ -18052,6 +18051,7 @@ but
 bladeless
 beroll
 booklet
+burkite
 baignet
 boatsman
 bangy
