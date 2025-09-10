@@ -8993,7 +8993,6 @@ biopsic
 byssaceous
 bespice
 barges
-benightmare
 biopsychological
 breunnerite
 biliously
@@ -17305,6 +17304,7 @@ breviary
 berloque
 beneplacity
 beachier
+benightmare
 bogledom
 bliny
 bloodmobiles
