@@ -4180,7 +4180,6 @@ adrue
 arecaine
 atabrine
 amortizing
-acarida
 actiniferous
 arteriotrepsis
 adscriptitious
@@ -8715,6 +8714,7 @@ anfractuousness
 ascoma
 apterygote
 afforests
+acarida
 alodial
 antisensuously
 allium
