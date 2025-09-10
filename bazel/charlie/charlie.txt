@@ -3982,6 +3982,7 @@ cardamom
 cicatrise
 centenary
 cardamons
+centriscus
 cardanol
 churchgrith
 chymist
@@ -31946,6 +31947,5 @@ czech
 czechization
 caitanyas
 czechoslovak
-centriscus
 curricularization
 czechs
