@@ -9203,6 +9203,7 @@ didoes
 diselenide
 didonia
 dihexahedron
+duculinae
 decapods
 dreamfully
 dipterous
@@ -17873,7 +17874,6 @@ devaluations
 ductor
 ductules
 drawlatch
-duculinae
 dictyosome
 doorknobs
 decurve
