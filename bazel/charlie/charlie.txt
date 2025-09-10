@@ -4219,7 +4219,6 @@ caretaker
 consistible
 caretaking
 chastisers
-chondrosteous
 caretook
 comfiest
 carets
@@ -28320,6 +28319,7 @@ crawlers
 creamometer
 crawlier
 crawliest
+chondrosteous
 captaining
 crawlingly
 crawlsome
