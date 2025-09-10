@@ -1535,7 +1535,6 @@ balladist
 bootlegger
 bedaubed
 balladizing
-brutalization
 bales
 belongings
 bichromated
@@ -3988,6 +3987,7 @@ beakers
 boltheads
 boschveld
 beakiron
+brutalization
 brailing
 barms
 beaks
