@@ -789,6 +789,7 @@ apptd
 algarot
 auguration
 additur
+assault
 abstruse
 abs
 ammophila
@@ -25136,7 +25137,6 @@ alcoholuria
 aceologic
 axite
 axites
-assault
 ate
 axle
 appendice
