@@ -5364,7 +5364,6 @@ aftercome
 australasian
 acrostichic
 autocamper
-ambe
 aftercooler
 alahee
 aftercost
@@ -24013,6 +24012,7 @@ atomizers
 antiblack
 approaching
 antiman
+ambe
 ascidiozooid
 autoecy
 adventitiously
