@@ -13676,7 +13676,6 @@ cinchonaceae
 caules
 chamaephyte
 conuzor
-cinchonaceous
 cholecystis
 cathedratica
 carpets
@@ -19587,6 +19586,7 @@ clubbier
 coltpixy
 coltsfoot
 coltsfoots
+cinchonaceous
 captivities
 coluber
 colubrinae
