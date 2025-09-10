@@ -2638,7 +2638,6 @@ demiplacate
 decompressive
 dogies
 duckies
-dishexecontahedroid
 desmognathous
 dcollet
 deconcentrate
@@ -3287,6 +3286,7 @@ distressfulness
 dismast
 denims
 dullery
+dishexecontahedroid
 dreamtide
 definitor
 deutschemark
