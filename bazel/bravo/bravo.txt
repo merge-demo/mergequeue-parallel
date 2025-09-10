@@ -6623,7 +6623,6 @@ boeotian
 bregmata
 basirhinal
 blowsily
-bepimple
 berkeleianism
 bushelman
 boro
@@ -7265,6 +7264,7 @@ beethoven
 becumber
 brasilia
 beleft
+bepimple
 bailiery
 bassness
 bookmaker
