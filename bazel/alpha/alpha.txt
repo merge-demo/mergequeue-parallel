@@ -5362,7 +5362,6 @@ acrostichic
 autocamper
 ambe
 aftercooler
-almoning
 alahee
 aftercost
 anatine
@@ -12874,6 +12873,7 @@ alfridaric
 angustura
 angwantibo
 angwich
+almoning
 antisupernaturalist
 alogian
 archly
