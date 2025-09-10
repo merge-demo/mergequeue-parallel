@@ -10348,7 +10348,6 @@ diabological
 dipropellant
 decisive
 ding
-diseuses
 demurrers
 diagrammers
 dogdoms
@@ -12518,6 +12517,7 @@ dowsers
 dimethylmethane
 dagon
 dephlogistication
+diseuses
 dibromobenzene
 doglegged
 dard
