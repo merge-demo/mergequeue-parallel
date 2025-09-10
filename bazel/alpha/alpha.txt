@@ -733,6 +733,7 @@ ammodytes
 abrash
 arthur
 abrasing
+accompanier
 antisuffragist
 autogyro
 abrasions
@@ -1479,7 +1480,6 @@ accommodations
 aliet
 accommodators
 attractability
-accompanier
 australorp
 antinomians
 algarobas
