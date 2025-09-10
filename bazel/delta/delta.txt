@@ -5549,7 +5549,6 @@ diversities
 deadlatch
 dimmock
 departmentalism
-departmentalized
 dorper
 depancreatize
 drawrod
@@ -12623,6 +12622,7 @@ dorsoventral
 disinsure
 draftswomanship
 daffed
+departmentalized
 disintegrated
 dipterological
 denotation
