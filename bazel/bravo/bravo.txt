@@ -9790,6 +9790,7 @@ bromals
 bityite
 berlina
 burnsian
+brattiness
 buccobranchial
 bilbo
 banderols
@@ -13460,7 +13461,6 @@ bendaying
 bottomers
 bottoming
 biotelemetry
-brattiness
 bulbier
 bankrupcy
 betweenness
