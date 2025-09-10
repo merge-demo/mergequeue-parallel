@@ -10206,6 +10206,7 @@ buckboards
 biflorous
 beehead
 beforehandedness
+bounding
 benevolist
 bocaccio
 blacksnake
@@ -18354,7 +18355,6 @@ bentstar
 burhel
 brushbush
 biliprasin
-bounding
 bro
 bruin
 buxom
