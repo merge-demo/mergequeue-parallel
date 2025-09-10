@@ -2068,6 +2068,7 @@ cytophysics
 ceilingward
 chieftaincies
 captivator
+centenar
 campanular
 circumvolve
 campanulariae
@@ -5061,7 +5062,6 @@ caseinogen
 caseload
 clintonia
 coincidently
-centenar
 caprylene
 casemaking
 casemates
