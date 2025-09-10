@@ -9286,7 +9286,6 @@ cerris
 choreatic
 compendency
 custos
-chauk
 catagmatic
 chaukidari
 castrate
@@ -23774,6 +23773,7 @@ contrapose
 contraposed
 clinospore
 chalcograph
+chauk
 contrapositive
 contrapositives
 contrapposto
