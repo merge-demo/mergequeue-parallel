@@ -2201,7 +2201,6 @@ bostonite
 barter
 bedrivelled
 barauna
-bayards
 boneheadedness
 blobs
 begobs
@@ -6303,6 +6302,7 @@ benziminazole
 bethinking
 benzine
 blackfly
+bayards
 balarama
 bubbliness
 benzocaine
