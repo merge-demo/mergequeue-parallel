@@ -6704,6 +6704,7 @@ alloiometric
 airlifting
 airlifts
 airlike
+archpretender
 arbalestre
 airlines
 airling
@@ -22005,7 +22006,6 @@ abjudge
 axisymmetrical
 argute
 alcavala
-archpretender
 asthenia
 amours
 abampere
