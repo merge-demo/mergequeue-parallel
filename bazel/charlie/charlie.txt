@@ -1804,7 +1804,6 @@ camasses
 channelly
 counterproposition
 cheerers
-creatable
 cauliculus
 chundari
 cysticle
@@ -15608,6 +15607,7 @@ clathrate
 choose
 clathrinidae
 clathroid
+creatable
 clathrose
 cranes
 camelkeeper
