@@ -13093,6 +13093,7 @@ askable
 artamus
 anisaldehyde
 araks
+airmanship
 appetitional
 antiphysician
 anisandrous
@@ -24389,7 +24390,6 @@ autospore
 argenter
 autosporic
 autostarter
-airmanship
 autostylism
 autostradas
 arsonist
