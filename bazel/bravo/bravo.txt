@@ -3296,7 +3296,6 @@ baratheas
 bolography
 believe
 brisant
-bacterioscopic
 basirostral
 basiscopic
 bacterial
@@ -12980,6 +12979,7 @@ boraginaceous
 borago
 bugger
 bedamn
+bacterioscopic
 bismuthate
 boran
 boranes
