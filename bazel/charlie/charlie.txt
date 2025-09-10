@@ -2873,7 +2873,6 @@ cours
 canopus
 cogniser
 chairlady
-canos
 canossa
 canotier
 canreply
@@ -12665,6 +12664,7 @@ chucklers
 chuckles
 chiavetta
 cymblin
+canos
 chucklingly
 cirrocumular
 counterchanging
