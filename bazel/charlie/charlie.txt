@@ -11232,7 +11232,6 @@ compaternity
 carlin
 chlorimeter
 credensiveness
-chlorimetric
 chlorinated
 chlorinating
 curly
@@ -22948,6 +22947,7 @@ chromosomic
 consigned
 consignee
 consignify
+chlorimetric
 cantorous
 cooptive
 countersalient
