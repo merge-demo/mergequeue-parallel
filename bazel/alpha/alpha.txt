@@ -9548,7 +9548,6 @@ aluminose
 aluminosis
 aluminothermy
 anniverse
-acrotarsial
 alohas
 annihilationism
 aquage
@@ -19512,6 +19511,7 @@ aridest
 affluency
 aridian
 aridity
+acrotarsial
 actiniohematin
 analogies
 aridities
