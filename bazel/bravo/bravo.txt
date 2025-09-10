@@ -2998,6 +2998,7 @@ backhatch
 becowarding
 brains
 bioassay
+bonnock
 blarneyer
 buffalofishes
 barstools
@@ -10198,7 +10199,6 @@ bratty
 bellweather
 bulldogs
 boehmites
-bonnock
 biborate
 belly
 bleeding
