@@ -4107,7 +4107,6 @@ disparish
 druse
 deitate
 deintellectualization
-deoxyribonucleic
 delineator
 decapitated
 delineature
@@ -7699,6 +7698,7 @@ devenustate
 devexity
 dividedly
 dyspneic
+deoxyribonucleic
 demisability
 dobzhansky
 drumbled
