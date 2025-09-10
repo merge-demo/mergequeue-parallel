@@ -5044,7 +5044,6 @@ casefy
 corneter
 counterenamel
 compeller
-caseharden
 callosity
 casehardening
 candida
@@ -27139,6 +27138,7 @@ checkrail
 countertraction
 countertransference
 countertraverse
+caseharden
 coatee
 countertreason
 clattertrap
