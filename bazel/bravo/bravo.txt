@@ -324,7 +324,6 @@ bod
 blurry
 bletherskate
 booter
-bakeware
 backslided
 backberend
 backbite
@@ -10657,6 +10656,7 @@ brooches
 blandisher
 bedarken
 boutell
+bakeware
 buffle
 benton
 balanophora

@@ -6076,7 +6076,6 @@ atellan
 avirulent
 activable
 audile
-amyluria
 alchemise
 aegerian
 aerolitics
@@ -16360,6 +16359,7 @@ altarist
 alkargen
 astrologian
 angolan
+amyluria
 antum
 adversing
 ambulatio
