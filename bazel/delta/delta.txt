@@ -1693,6 +1693,7 @@ dearworthily
 dearworthiness
 disorderedness
 dextrinate
+dispositive
 demurred
 depressiveness
 dornecks
@@ -11511,7 +11512,6 @@ disbelieving
 dicotyledonous
 degassing
 damasse
-dispositive
 deskbound
 dyotheletic
 dilatingly
