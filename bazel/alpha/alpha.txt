@@ -6326,7 +6326,6 @@ antignostical
 amphipneusta
 ameliorant
 agujon
-aphroditic
 arnold
 acidaemia
 apostrophic
@@ -21661,6 +21660,7 @@ assertress
 abattoirs
 annunciator
 asserts
+aphroditic
 assertum
 acanaceous
 actus
