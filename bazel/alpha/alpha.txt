@@ -5449,7 +5449,6 @@ alumna
 aftershaft
 aftershafted
 acetylcholinic
-archdruid
 alabandine
 annexa
 aftershave
@@ -10944,6 +10943,7 @@ afforded
 arcsine
 acetphenetid
 assertedly
+archdruid
 amoritic
 astricts
 alma
