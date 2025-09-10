@@ -11614,6 +11614,7 @@ curbable
 clockings
 civilising
 cervelases
+culrage
 choleriform
 cholerigenous
 chelicerate
@@ -17646,7 +17647,6 @@ changar
 clallam
 capitoul
 cumins
-culrage
 cyanomethaemoglobin
 coccochromatic
 coccogone
