@@ -3411,6 +3411,7 @@ caprimulgiformes
 chinwood
 cycloidei
 cheerios
+clergywoman
 caprin
 candlebeam
 cimelia
@@ -15951,7 +15952,6 @@ cotoneaster
 clergylike
 cyclos
 clergymen
-clergywoman
 circumparallelogram
 crumbum
 clericality
