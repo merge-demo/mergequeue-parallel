@@ -687,7 +687,6 @@ dampers
 dudgeons
 discrete
 donnard
-depermed
 dampne
 dyehouse
 dampness
@@ -17736,6 +17735,7 @@ duarchies
 dhauri
 dubb
 dilemmic
+depermed
 dynamometer
 dwarves
 deuteroelastose

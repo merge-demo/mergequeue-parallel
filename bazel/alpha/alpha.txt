@@ -16414,6 +16414,7 @@ aristogenesis
 aonach
 asaddle
 altica
+artifactually
 advertises
 aphelinus
 assimilate
@@ -16716,7 +16717,6 @@ aphorized
 anecdotalism
 abos
 aphorizes
-artifactually
 ancienter
 approve
 anlet
