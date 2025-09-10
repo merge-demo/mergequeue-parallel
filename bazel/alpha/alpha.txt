@@ -5101,6 +5101,7 @@ affectivity
 affector
 arshine
 affectum
+antiqua
 affeerer
 auturgy
 ankerite
@@ -19412,7 +19413,6 @@ argons
 argosy
 argot
 archaizes
-antiqua
 antimediaeval
 argots
 arguable
