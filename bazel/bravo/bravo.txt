@@ -148,6 +148,7 @@ bourne
 botanomancy
 banister
 booboos
+bludge
 belick
 basidiocarp
 bedumbing
@@ -11296,7 +11297,6 @@ blubberers
 balanism
 bestialising
 bankable
-bludge
 bludgeon
 bludgeons
 besoothe
