@@ -7628,7 +7628,6 @@ cerithium
 ceriums
 corambis
 chloroplatinite
-cermet
 cyamid
 ciceros
 contemperate
@@ -29955,6 +29954,7 @@ crotcheteer
 civilisedness
 crenature
 cancerization
+cermet
 confutation
 crotesco
 chimerism
