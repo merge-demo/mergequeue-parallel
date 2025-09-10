@@ -14211,6 +14211,7 @@ anthol
 apiaceous
 antireaction
 aniseikonia
+altared
 antholite
 anthology
 apocaffeine
@@ -23036,7 +23037,6 @@ autophagy
 aventre
 attentive
 abiding
-altared
 attently
 attenuable
 axunge
