@@ -5100,7 +5100,6 @@ autrefois
 affectivity
 affector
 arshine
-affectum
 antiqua
 affeerer
 auturgy
@@ -10419,6 +10418,7 @@ adfrozen
 acoemeti
 aeolistic
 antoecian
+affectum
 assurge
 argemony
 amidoacetic
