@@ -10979,7 +10979,6 @@ anaclisis
 arnica
 anoesis
 amorua
-autoput
 amotion
 androspore
 amotions
@@ -14331,6 +14330,7 @@ assigning
 accensor
 always
 antiuating
+autoput
 anthropical
 acquisition
 anthropobiology
