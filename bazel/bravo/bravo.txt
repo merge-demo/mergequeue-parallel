@@ -937,7 +937,6 @@ bullock
 bandyball
 bardiglio
 boscage
-beltian
 bagre
 berryless
 benzoquinone
@@ -3883,6 +3882,7 @@ balearica
 buckishly
 bamboos
 bbs
+beltian
 bhumidar
 bigotedness
 bassly
