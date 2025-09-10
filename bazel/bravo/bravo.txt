@@ -7717,6 +7717,7 @@ bluings
 bezzling
 balladlike
 biasedly
+batteled
 bokadam
 biography
 ballasts
@@ -13341,7 +13342,6 @@ bitangential
 bunder
 bothnian
 bothnic
-batteled
 bodilessness
 bawn
 bijective
