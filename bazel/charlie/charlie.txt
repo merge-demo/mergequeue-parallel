@@ -11333,7 +11333,6 @@ chloropalladates
 chloropalladic
 chlorophaeite
 coruscates
-caesarean
 chlorophenol
 confirm
 cestuy
@@ -29837,6 +29836,7 @@ culets
 crossest
 crossette
 crossfertilizable
+caesarean
 crossfired
 craniodidymus
 crossfish
