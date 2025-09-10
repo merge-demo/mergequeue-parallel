@@ -12077,7 +12077,6 @@ borborygm
 burbler
 boldly
 blackmail
-bandalore
 brahminic
 boldnesses
 burbots
@@ -15830,6 +15829,7 @@ bansela
 beshower
 bethumb
 barbaralalia
+bandalore
 bromized
 bromizing
 behooped
