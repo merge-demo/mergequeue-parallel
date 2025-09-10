@@ -5752,7 +5752,6 @@ absence
 anophyte
 agers
 amylom
-ages
 altisonant
 aspermic
 achroiocythemia
@@ -21241,6 +21240,7 @@ annuluses
 asyngamy
 anconeous
 asyngamic
+ages
 asininity
 asyntrophy
 anomalure
