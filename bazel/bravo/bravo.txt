@@ -7174,6 +7174,7 @@ boninite
 bipont
 bestuds
 befit
+bobierrite
 basiliscine
 besully
 betrample
@@ -11685,7 +11686,6 @@ bulgari
 bolsterwork
 bosselated
 bobfloat
-bobierrite
 barbut
 backwall
 boloing
