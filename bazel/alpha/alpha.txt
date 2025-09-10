@@ -12730,7 +12730,6 @@ anglian
 anglic
 anglicanisms
 antimonite
-autografting
 assisting
 antispiritual
 anglicans
@@ -17594,6 +17593,7 @@ angiocarpic
 apostlehood
 attemper
 appetence
+autografting
 anodynous
 alegar
 appetibleness
