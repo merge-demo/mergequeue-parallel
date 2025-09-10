@@ -9523,6 +9523,7 @@ checkrows
 computational
 checks
 chapatty
+carpeted
 checkstring
 candys
 cuissen
@@ -20339,7 +20340,6 @@ communiques
 coasted
 coupling
 communis
-carpeted
 communise
 crofting
 chudder
