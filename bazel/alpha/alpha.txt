@@ -14135,7 +14135,6 @@ ahypnia
 antevert
 archbanc
 americanist
-anthdia
 anthroposociologist
 albs
 anticlnoria
@@ -20136,6 +20135,7 @@ alphabet
 aeipathy
 arrester
 alphanumerically
+anthdia
 anisalcohol
 arrestingly
 arrestive
