@@ -4648,6 +4648,7 @@ diddle
 depose
 dermohemal
 dogplate
+dived
 dinic
 demisangue
 denarius
@@ -12044,7 +12045,6 @@ disenchant
 dowd
 dermitis
 dimolecular
-dived
 dansy
 disenchantress
 duckwing
