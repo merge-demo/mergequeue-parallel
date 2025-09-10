@@ -7437,7 +7437,6 @@ crozier
 ceratopsian
 calapitte
 ceratopteridaceae
-carnac
 chorioepithelioma
 ceratopteris
 ceratospongian
@@ -25146,6 +25145,7 @@ corianders
 conditional
 cuttlebones
 cycled
+carnac
 calabar
 centesimate
 curvier
