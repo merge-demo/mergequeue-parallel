@@ -9640,7 +9640,6 @@ balding
 bricklike
 bluey
 barleduc
-bacillus
 brichette
 beefheaded
 bioflavonoid
@@ -14315,6 +14314,7 @@ behowl
 boxkeeper
 burnable
 brahminists
+bacillus
 brahmoism
 batocrinidae
 bray
