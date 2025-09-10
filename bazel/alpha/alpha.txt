@@ -12030,7 +12030,6 @@ anattos
 acridiidae
 anatum
 aggressive
-anax
 anaxagorean
 andira
 alienicola
@@ -14443,6 +14442,7 @@ atemporal
 andiron
 antiroyalism
 ambulatorial
+anax
 accreditee
 accoutred
 anthropophagite
