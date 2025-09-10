@@ -11091,7 +11091,6 @@ bloodiness
 blooding
 bestain
 blunker
-blandness
 brawniest
 buckler
 benevolently
@@ -12736,6 +12735,7 @@ biodyne
 botanic
 bobotee
 brutifying
+blandness
 baudekin
 brazilin
 belladonna

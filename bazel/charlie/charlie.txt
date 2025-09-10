@@ -4109,6 +4109,7 @@ cardiopulmonary
 cardiorenal
 cardiorespiratory
 cardiorrhaphy
+chromatoid
 cardiorrheuma
 cardiorrhexis
 cardiospermum
@@ -23172,7 +23173,6 @@ constitutionally
 constitutionary
 constitutions
 copyreading
-chromatoid
 chiseling
 constitutiveness
 constitutor
