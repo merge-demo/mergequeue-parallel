@@ -5775,6 +5775,7 @@ agglomeratic
 apical
 anartismos
 agglutinate
+alloxuric
 analytically
 arenaceous
 anythingarian
@@ -8973,7 +8974,6 @@ allergens
 abord
 alloxuremia
 aumaga
-alloxuric
 allround
 agynarious
 assyrian
