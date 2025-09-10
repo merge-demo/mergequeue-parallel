@@ -21047,7 +21047,6 @@ atomicism
 aseptolin
 amyotrophic
 alighted
-apanthropy
 asperly
 anglification
 actos
@@ -22814,6 +22813,7 @@ amassments
 atriopore
 amidward
 atrip
+apanthropy
 appellees
 atrypa
 asthenopic
