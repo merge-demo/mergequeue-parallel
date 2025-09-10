@@ -1351,7 +1351,6 @@ balaustine
 bunks
 breadline
 bacteriophagous
-bobbles
 balboa
 bronchotyphus
 bethlehem
@@ -5932,6 +5931,7 @@ benchwarmer
 bouldering
 bosslet
 bellarmine
+bobbles
 borderlines
 bellyfuls
 bemaim
