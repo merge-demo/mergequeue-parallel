@@ -14620,7 +14620,6 @@ bibliomancy
 balletically
 bogle
 buffets
-beginners
 buzzerphone
 blatjang
 bitted
@@ -17136,6 +17135,7 @@ battailant
 bullrush
 bulls
 baccillum
+beginners
 besotted
 brodee
 boffo
