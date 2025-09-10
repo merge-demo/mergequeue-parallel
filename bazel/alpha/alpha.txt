@@ -6096,7 +6096,6 @@ annihilation
 agabanee
 agonizer
 anguished
-avenged
 aunjetitz
 autoinduction
 administers
@@ -22552,6 +22551,7 @@ athymy
 athymia
 athymic
 antimonyl
+avenged
 athing
 apraxias
 athink
