@@ -1337,6 +1337,7 @@ daunters
 daffy
 dipentine
 demissive
+depasturation
 dwarfing
 draftsperson
 dulcetness
@@ -14057,7 +14058,6 @@ duplon
 distraining
 dilaceration
 diddling
-depasturation
 distraite
 distraught
 displodes
