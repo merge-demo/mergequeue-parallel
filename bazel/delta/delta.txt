@@ -4973,7 +4973,6 @@ delicious
 discreated
 demarking
 declivitous
-datos
 deified
 dindling
 demotists
@@ -9400,6 +9399,7 @@ dignosle
 doucely
 drifters
 drooling
+datos
 dockages
 demonstrance
 drudge
