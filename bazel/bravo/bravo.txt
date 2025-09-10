@@ -10319,6 +10319,7 @@ bargepole
 billot
 bromize
 bounderish
+bewrought
 bamboozlers
 beshrouding
 bytes
@@ -11895,7 +11896,6 @@ boozify
 bankmen
 bilio
 betutored
-bewrought
 basinasial
 baggily
 bogach
