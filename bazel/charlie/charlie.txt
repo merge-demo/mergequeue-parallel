@@ -10384,6 +10384,7 @@ chirring
 chivalric
 countertendencies
 chieftains
+candlelighted
 cracknels
 chiefty
 chiel
@@ -10917,7 +10918,6 @@ calumniated
 cachua
 consideratively
 chirography
-candlelighted
 chirographical
 chirolas
 curators
