@@ -8936,7 +8936,6 @@ castigates
 charier
 curdle
 charily
-chariness
 charing
 celadons
 carbinyl
@@ -19067,6 +19066,7 @@ crystallizable
 collery
 candyh
 colleted
+chariness
 commentatorial
 colleterium
 catoptrically
