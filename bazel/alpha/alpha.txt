@@ -1370,7 +1370,6 @@ ansarie
 acceptress
 accepts
 accersitor
-ammoniojarosite
 attractants
 apellous
 accessary
@@ -21449,6 +21448,7 @@ aurorean
 aspidistras
 aspidium
 aspidobranchiata
+ammoniojarosite
 aspidobranchiate
 acocanthera
 aspidochirota
