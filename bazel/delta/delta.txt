@@ -1391,7 +1391,6 @@ dulcid
 dechoralize
 dawdy
 deportation
-dawdling
 dawdlingly
 dryster
 dichotomized
@@ -4732,6 +4731,7 @@ dendrolene
 deflexionize
 disputatively
 datatypes
+dawdling
 diphenylacetylene
 disnaturalize
 dolente
