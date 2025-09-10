@@ -2482,7 +2482,6 @@ derivational
 dimming
 dermoid
 duplicipennate
-disaccommodation
 dove
 dubonnet
 deactivating
@@ -7611,6 +7610,7 @@ delphinin
 discriminoid
 depoliticize
 damie
+disaccommodation
 dedicative
 demitint
 dilute
