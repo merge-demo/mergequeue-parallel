@@ -111,6 +111,7 @@ blistering
 bounderishly
 blackguardly
 bladderwrack
+battements
 blackcoat
 biune
 balanophore
@@ -5446,7 +5447,6 @@ bacterioprotein
 backiebird
 basting
 behoves
-battements
 babbitts
 behowled
 brouze
