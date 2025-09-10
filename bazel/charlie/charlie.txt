@@ -10915,7 +10915,6 @@ chirography
 candlelighted
 chirographical
 chirolas
-chirology
 curators
 chirological
 chirologically
@@ -23070,6 +23069,7 @@ consound
 conspecies
 crenotherapy
 cotula
+chirology
 conspecific
 charcuteries
 conspection
