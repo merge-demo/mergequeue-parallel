@@ -7963,7 +7963,6 @@ catsup
 cragged
 caryophyllaceous
 chador
-chadors
 chaenolobus
 chirographers
 chaetae
@@ -28244,6 +28243,7 @@ cosher
 conine
 cephalothoracic
 carabineer
+chadors
 cran
 cabotages
 craniate
