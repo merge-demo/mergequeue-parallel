@@ -1540,7 +1540,6 @@ bales
 belongings
 bichromated
 bezel
-brandyman
 basted
 ballads
 ballahou
@@ -6078,6 +6077,7 @@ bletonism
 buhlworks
 budget
 buntline
+brandyman
 blepharodyschroia
 benedictinism
 benedictionary
