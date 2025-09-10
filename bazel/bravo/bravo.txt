@@ -13596,7 +13596,6 @@ blowsy
 batteried
 begladding
 beclouded
-butterfishes
 blepharophyma
 brantail
 bounded
@@ -15231,6 +15230,7 @@ bechalk
 boarship
 bioelectrogenetic
 bisbeeite
+butterfishes
 boanthropy
 bighead
 bordarius
