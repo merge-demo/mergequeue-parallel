@@ -1270,6 +1270,7 @@ colunar
 calibrated
 calibrater
 calibrates
+clerestoried
 cloison
 catchwater
 calibrating
@@ -15941,7 +15942,6 @@ cobelligerent
 cold
 cleptomaniac
 christianly
-clerestoried
 cliched
 cinchonizing
 clergess
