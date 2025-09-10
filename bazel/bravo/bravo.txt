@@ -9010,7 +9010,6 @@ brasser
 boylikeness
 bioscopy
 bioscopic
-bioastronautical
 biosensor
 bearishness
 banig
@@ -9528,6 +9527,7 @@ bishari
 bifluoride
 byblis
 behaviourism
+bioastronautical
 bummer
 backbeats
 browningesque
