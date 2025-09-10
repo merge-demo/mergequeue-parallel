@@ -8151,6 +8151,7 @@ bootleger
 bedress
 biff
 befiddle
+bigwiggery
 bifilar
 brecciating
 bifilarly
@@ -14593,7 +14594,6 @@ befathered
 boasted
 branning
 bromoiodism
-bigwiggery
 broadleaves
 bewrayment
 bedcord
