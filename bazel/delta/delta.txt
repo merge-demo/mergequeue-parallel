@@ -14099,7 +14099,6 @@ deglute
 distributing
 doohickey
 distribution
-decretum
 dehematize
 docksides
 dispensable
@@ -14585,6 +14584,7 @@ didn
 dad
 district
 demurest
+decretum
 diformin
 damaging
 doorbells
