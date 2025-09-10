@@ -5012,7 +5012,6 @@ brawest
 brachiofaciolingual
 beltcourse
 bigotedly
-befalling
 befalls
 bason
 botanised
@@ -13824,6 +13823,7 @@ bedplates
 bavaroy
 bowerlet
 bacteriolytic
+befalling
 begins
 bighearted
 bagreef
