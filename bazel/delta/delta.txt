@@ -15385,7 +15385,6 @@ dollia
 deuteranopic
 dissociate
 dingmaul
-demipriest
 dedolent
 depressanth
 derotremate
@@ -16920,6 +16919,7 @@ darbukka
 dilettante
 dose
 drawloom
+demipriest
 dinoflagellida
 dorestane
 determinativeness
