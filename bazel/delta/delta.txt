@@ -1636,7 +1636,6 @@ discretive
 daunter
 dicephalus
 darkhaired
-deerhair
 deallocations
 desilverized
 deprival
@@ -11942,6 +11941,7 @@ dardani
 doubleheader
 disbecome
 disdiapason
+deerhair
 disdodecahedroid
 distinguished
 delphinidae
