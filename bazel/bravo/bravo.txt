@@ -3738,6 +3738,7 @@ biologese
 beachwear
 battues
 broose
+burrowing
 bourdis
 batture
 bielded
@@ -18263,7 +18264,6 @@ boulimy
 becudgel
 bolimba
 boomeranging
-burrowing
 biovulate
 buffoonism
 bamah
