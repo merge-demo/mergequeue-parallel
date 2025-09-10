@@ -12505,7 +12505,6 @@ bud
 badmash
 bawrel
 bitterwood
-barbedness
 bonnyvis
 brashness
 bellwind
@@ -18041,6 +18040,7 @@ bloom
 bilaminate
 busulfans
 bughouse
+barbedness
 burbliest
 bibliophily
 backspringing
