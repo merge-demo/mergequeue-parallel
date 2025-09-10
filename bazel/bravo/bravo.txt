@@ -9383,6 +9383,7 @@ byrlawman
 billiardly
 batule
 bioinstrumentation
+bestowable
 bronchodilatation
 bathymeter
 bacteriorhodopsin
@@ -12607,7 +12608,6 @@ backster
 blueth
 burghmoot
 braccia
-bestowable
 bunting
 boogeymen
 backfold
