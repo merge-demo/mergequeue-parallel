@@ -1576,6 +1576,7 @@ creasy
 calmant
 cytopathology
 conveyor
+creophagous
 calmecac
 cyathophylloid
 chroococcaceae
@@ -28674,7 +28675,6 @@ cleanish
 currance
 creophagia
 caulkers
-creophagous
 creosote
 casasia
 crypto
