@@ -5027,6 +5027,7 @@ almagest
 aetiologies
 antiphonaries
 achromatise
+alaskan
 aetiologist
 axones
 administerial
@@ -11009,7 +11010,6 @@ ampelidaceous
 acher
 ampelidae
 archespore
-alaskan
 ampelography
 apter
 agallochum
