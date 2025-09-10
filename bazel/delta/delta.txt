@@ -10561,7 +10561,6 @@ decentest
 depressants
 defoggers
 derogator
-diple
 dudler
 dipleural
 defected
@@ -13514,6 +13513,7 @@ dissertated
 disrooting
 debenture
 ditrigonal
+diple
 dizygous
 disloign
 disruddered
