@@ -612,6 +612,7 @@ beclothed
 bacteremic
 blooddrops
 bacteriaemia
+beetroot
 bacterially
 bacterioblast
 buggyman
@@ -14745,7 +14746,6 @@ bedraggled
 browbound
 biotech
 benightment
-beetroot
 braziletto
 blowsier
 belletristic

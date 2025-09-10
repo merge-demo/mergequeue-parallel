@@ -9370,7 +9370,6 @@ chaws
 chawstick
 citoyen
 chazan
-chazanim
 chazans
 chazanut
 chimonanthus
@@ -23133,6 +23132,7 @@ ck
 communised
 constellation
 caponatas
+chazanim
 cyclo
 constellatory
 craniospinal
