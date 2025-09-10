@@ -3302,6 +3302,7 @@ admirableness
 addend
 anaerobically
 avenine
+archigonic
 antedonin
 addendums
 adder
@@ -18805,7 +18806,6 @@ aboiteaus
 abridge
 acritical
 archigastrula
-archigonic
 archiheretical
 aldohexose
 archikaryon
