@@ -8594,6 +8594,7 @@ changement
 cuissard
 changeovers
 chiefs
+capilliculture
 changer
 columbic
 crudwort
@@ -25368,7 +25369,6 @@ concertati
 chamades
 cornhusking
 coulombic
-capilliculture
 consummate
 corny
 calliphorid
