@@ -12431,6 +12431,7 @@ chromium
 chromiums
 chromize
 crocard
+cuneator
 chromized
 comportance
 chores
@@ -21594,7 +21595,6 @@ concussions
 concussive
 concutient
 crepitacula
-cuneator
 condemn
 copremias
 convent
