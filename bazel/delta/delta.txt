@@ -7255,7 +7255,6 @@ dolorous
 dandiacal
 damnified
 disinhumed
-detectible
 detection
 diamantiferous
 drepanid
@@ -18432,6 +18431,7 @@ dockization
 dactylioglyphist
 downhauls
 dermochelys
+detectible
 delichon
 dialysepalous
 dibromid

@@ -8478,6 +8478,7 @@ curatage
 chimbley
 corslet
 chanca
+convertite
 chance
 chanceably
 compurgatorial
@@ -24124,7 +24125,6 @@ convertiplane
 coroun
 convertise
 convertism
-convertite
 comfortless
 convertive
 choriocapillary
