@@ -2076,7 +2076,6 @@ centenar
 campanular
 circumvolve
 campanulariae
-campanularidae
 campanulatae
 catchpolery
 christiana
@@ -3680,6 +3679,7 @@ chevaline
 carates
 chantier
 candor
+campanularidae
 coventrize
 caravaneer
 cyclists
