@@ -3904,6 +3904,7 @@ bchs
 ballotage
 bd
 boracium
+bipedism
 buttonholes
 beteela
 bdellium
@@ -11086,7 +11087,6 @@ brickliner
 byard
 basophobia
 bache
-bipedism
 bellylike
 bazookas
 bums
