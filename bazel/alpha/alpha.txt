@@ -12083,7 +12083,6 @@ anchoritess
 alignment
 anchorlike
 auriculae
-anchormen
 abrotanum
 asthmatically
 anchoveta
@@ -14817,6 +14816,7 @@ anticolic
 anticomment
 autogenetic
 auxamylase
+anchormen
 adiathermic
 appetizers
 abneural
