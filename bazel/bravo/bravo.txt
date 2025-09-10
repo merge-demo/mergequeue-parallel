@@ -3716,6 +3716,7 @@ bimestrial
 battlewagon
 bronchiectasis
 bovver
+bevoiled
 beautifully
 bibliothque
 blennogenic
@@ -7463,7 +7464,6 @@ blushet
 baronga
 bevined
 bernicle
-bevoiled
 becco
 besmoothing
 bevomiting
