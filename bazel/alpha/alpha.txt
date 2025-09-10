@@ -12649,7 +12649,6 @@ amuletic
 astakiwi
 antihemolysin
 angioneurosis
-abernethy
 angionoma
 auxil
 abies
@@ -13942,6 +13941,7 @@ autophytically
 acrosarcum
 atlantis
 anatomical
+abernethy
 asbestiform
 antedates
 antedating
