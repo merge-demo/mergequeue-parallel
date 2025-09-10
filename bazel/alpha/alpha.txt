@@ -1180,6 +1180,7 @@ acanthodean
 abbots
 alabastoi
 agonothetic
+aerostatical
 acanthodei
 associationism
 amateurish
@@ -4928,7 +4929,6 @@ automechanism
 alexinic
 aerosolized
 aerostatic
-aerostatical
 attainments
 argas
 angioscope
