@@ -2239,6 +2239,7 @@ blateroon
 brigid
 birdclapper
 bannerwise
+branchiopallial
 bowing
 bats
 blastment
@@ -7460,7 +7461,6 @@ bromometrically
 blushet
 baronga
 bevined
-branchiopallial
 bernicle
 bevoiled
 becco
