@@ -3058,6 +3058,7 @@ active
 academising
 aweather
 apostrophized
+apologizing
 arracacia
 actives
 activin
@@ -20279,7 +20280,6 @@ arsenobismite
 antilogistically
 arsenofuran
 antipsoric
-apologizing
 artocarpad
 arsenolite
 arsenophen
