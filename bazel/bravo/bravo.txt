@@ -2726,6 +2726,7 @@ barolo
 bicolored
 bonneting
 balladic
+bibber
 bukeyef
 barology
 barolong
@@ -15040,7 +15041,6 @@ bankrolls
 bretesse
 bretschneideraceae
 bebops
-bibber
 brett
 brachymetropic
 brettice
