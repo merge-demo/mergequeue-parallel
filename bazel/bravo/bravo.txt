@@ -7142,6 +7142,7 @@ bestiarian
 bestiarist
 bestirs
 bestow
+brawlers
 bestowment
 burgee
 breaching
@@ -17471,7 +17472,6 @@ banjulele
 bullragged
 burbot
 burdalone
-brawlers
 bougar
 boat
 beata
