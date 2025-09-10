@@ -9607,7 +9607,6 @@ bispinous
 bramah
 bathybian
 bisporous
-blaewort
 bayeta
 bizes
 benj
@@ -10761,6 +10760,7 @@ blepharoplastic
 bangboard
 blepharoptosis
 blepharosynechia
+blaewort
 blepharosphincterectomy
 bulldoggy
 blepharostenosis
