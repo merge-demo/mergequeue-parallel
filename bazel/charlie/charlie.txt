@@ -7060,6 +7060,7 @@ cullion
 centimo
 centimos
 commonplaceism
+crawly
 centipedes
 crossties
 carrozza
@@ -15796,7 +15797,6 @@ curuminaca
 clearcole
 coudee
 clearedness
-crawly
 cataclysmist
 cometwise
 clearheadedness
