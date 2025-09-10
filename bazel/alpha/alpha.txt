@@ -8001,7 +8001,6 @@ algerines
 algerite
 aciduric
 algernon
-altercation
 algesiometer
 algidity
 algidities
@@ -24049,6 +24048,7 @@ abfarad
 anomalopteryx
 autogeneses
 autocephalia
+altercation
 autogenic
 arrowroots
 airpark
