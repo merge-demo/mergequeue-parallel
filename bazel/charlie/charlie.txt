@@ -12197,6 +12197,7 @@ carinatae
 calcaire
 chrysoaristocracy
 conciliative
+compilator
 clangula
 chaoticness
 chrysobalanus
@@ -20636,7 +20637,6 @@ compilable
 cofounded
 curvilinearly
 compilations
-compilator
 compiled
 coswearer
 cumara
