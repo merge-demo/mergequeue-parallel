@@ -7854,6 +7854,7 @@ auscultations
 aleurobius
 aleurodes
 aleurometer
+archetypal
 aleuronat
 absi
 aleurone
@@ -18724,7 +18725,6 @@ archesporial
 almoravide
 archest
 aspersed
-archetypal
 adjectives
 avizandum
 arabian
