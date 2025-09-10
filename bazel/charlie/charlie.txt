@@ -1735,6 +1735,7 @@ cordage
 calvary
 caffeate
 countergarrison
+companable
 cormus
 calvarial
 calvaries
@@ -24528,7 +24529,6 @@ copeman
 copemate
 copending
 colonialist
-companable
 clinquant
 calorizes
 copenetrate
