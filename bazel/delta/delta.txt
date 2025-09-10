@@ -7995,7 +7995,6 @@ docetically
 disincorporation
 drowse
 diagnosticated
-dorsibranch
 drawpoint
 drunkometer
 defease
@@ -8469,6 +8468,7 @@ demount
 decrowns
 daimonology
 dibutyl
+dorsibranch
 diamat
 dambose
 dermochrome
