@@ -30742,7 +30742,6 @@ counterintrigue
 cangle
 choiak
 copain
-counterdefender
 culbute
 conchitic
 culches
@@ -31273,6 +31272,7 @@ compot
 cribbled
 catatonias
 curby
+counterdefender
 crumblier
 curbings
 coelomocoela
