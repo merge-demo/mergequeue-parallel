@@ -8042,7 +8042,6 @@ coracosteon
 continent
 countryfied
 carcer
-chaffron
 chondri
 clavicornia
 chaffs
@@ -18172,6 +18171,7 @@ collar
 centralistic
 coequates
 coerce
+chaffron
 coerced
 counterthreat
 chaumiere
