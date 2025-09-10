@@ -17880,7 +17880,6 @@ approvals
 am
 ampullulae
 armonica
-anhang
 approvance
 antidecalogue
 absolutes
@@ -18625,6 +18624,7 @@ arthrosterigma
 amerveil
 archd
 archdeaconries
+anhang
 archdefender
 adawn
 agenesia
