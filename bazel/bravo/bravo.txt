@@ -5530,6 +5530,7 @@ basilican
 bewreak
 bekiss
 bekissed
+bituminize
 barbaric
 bekisses
 bouleuterion
@@ -17938,7 +17939,6 @@ birefracting
 balancing
 bellowsman
 busybody
-bituminize
 baho
 busybodyism
 brachystochrone
