@@ -6224,7 +6224,6 @@ benthic
 barbar
 bagfuls
 benthonic
-bevors
 benthoscope
 bioenergetics
 bemoat
@@ -8515,6 +8514,7 @@ billiardist
 bioactivity
 brickset
 bronchial
+bevors
 bailout
 breech
 belatedly
