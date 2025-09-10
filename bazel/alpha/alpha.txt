@@ -1632,7 +1632,6 @@ accubitum
 aphonias
 accubitus
 accueil
-acculturate
 acculturated
 acculturates
 anorganic
@@ -4325,6 +4324,7 @@ advantageousness
 antipruritic
 annonaceae
 afghani
+acculturate
 accumulate
 adrenomedullary
 agamobia
