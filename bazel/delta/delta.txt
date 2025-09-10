@@ -1787,7 +1787,6 @@ deck
 debases
 doggoned
 debate
-delusterant
 disparts
 distortionist
 demology
@@ -4295,6 +4294,7 @@ delver
 dibbed
 dodger
 disjunctor
+delusterant
 downgrowth
 dawnstreak
 drives
