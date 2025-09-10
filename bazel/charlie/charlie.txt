@@ -17133,7 +17133,6 @@ coactive
 coactively
 coacts
 coadamite
-companionized
 cavings
 coadaptations
 californium
@@ -31546,6 +31545,7 @@ curt
 curtailed
 curtailedly
 curtailing
+companionized
 compulsiveness
 curtain
 centrals

@@ -4240,6 +4240,7 @@ daiquiris
 deltas
 diadrome
 distensibility
+denunciations
 digitals
 double
 dukeling
@@ -5209,7 +5210,6 @@ distortedness
 distemperature
 diaphote
 desmosis
-denunciations
 deputy
 dismisses
 denominations
