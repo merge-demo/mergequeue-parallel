@@ -14045,7 +14045,6 @@ amphichroic
 acapnias
 angelo
 alkali
-algonquian
 antepenult
 acromyodi
 arkab
@@ -21768,6 +21767,7 @@ antiprostate
 achmetha
 archform
 assizes
+algonquian
 assman
 antiproductively
 associable
