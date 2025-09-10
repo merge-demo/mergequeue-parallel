@@ -4482,6 +4482,7 @@ choleras
 candency
 carny
 conditorium
+chrysid
 coccostean
 conciliatingly
 capsule
@@ -13305,7 +13306,6 @@ candlestand
 cohabit
 cajanus
 cyclophoria
-chrysid
 cyclophoric
 counterlife
 cymlings
