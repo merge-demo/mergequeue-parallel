@@ -27,6 +27,7 @@ cnicus
 cabalist
 caball
 caballer
+cocurricular
 corrosiving
 cranebill
 cineols
@@ -25000,7 +25001,6 @@ conceptacular
 cordobas
 cordon
 conveyer
-cocurricular
 cordonazos
 consarn
 chlorargyrite
