@@ -12246,6 +12246,7 @@ bitterless
 boltwork
 bolus
 bomb
+bedquilts
 barratrous
 bombace
 behang
@@ -12959,7 +12960,6 @@ bombastical
 bailli
 brigadiers
 beelike
-bedquilts
 befountained
 barmaid
 biolith
