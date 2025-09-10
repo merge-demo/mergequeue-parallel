@@ -1953,6 +1953,7 @@ debused
 debusing
 danger
 duggler
+dawdle
 disseize
 dedans
 durukuli
@@ -12240,7 +12241,6 @@ dermataneuria
 dribblement
 dysphonic
 disflesh
-dawdle
 dargo
 disrelate
 distich
