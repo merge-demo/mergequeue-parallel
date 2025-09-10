@@ -16546,7 +16546,6 @@ aperients
 aperiodically
 analgia
 ambulanced
-average
 alliterates
 aperiodicity
 ached
@@ -18651,6 +18650,7 @@ archeal
 annulose
 archean
 archearl
+average
 andrew
 amidogen
 archebanc
