@@ -11317,6 +11317,7 @@ cyanize
 chloromelanite
 chlorometer
 chloromethane
+collectedness
 chlorometry
 coopted
 capman
@@ -20116,7 +20117,6 @@ cakra
 cyanogen
 cavernicolous
 characterologist
-collectedness
 cretinous
 continence
 corpselike
