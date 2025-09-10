@@ -10739,7 +10739,6 @@ doublewords
 dipodic
 disacknowledgements
 dipodid
-deleble
 diminuted
 destained
 diglot
@@ -15118,6 +15117,7 @@ dogboat
 defends
 diffusor
 diathermacy
+deleble
 defogs
 deprogram
 dissolving
