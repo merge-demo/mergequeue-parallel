@@ -3314,6 +3314,7 @@ addible
 anthomyiid
 addicent
 addicted
+akroterion
 antiknocks
 addictions
 ampassy
@@ -7016,7 +7017,6 @@ arimasp
 abietineous
 allophore
 aschaffite
-akroterion
 arabinic
 amphigony
 aktistetae
