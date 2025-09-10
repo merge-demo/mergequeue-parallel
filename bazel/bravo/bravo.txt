@@ -94,7 +94,6 @@ beknottedness
 bulwarks
 baccarat
 bori
-baldachins
 barkened
 becked
 bumpity
@@ -17232,6 +17231,7 @@ bummie
 bumming
 burrowed
 blobber
+baldachins
 beechier
 boreholes
 bumpers
