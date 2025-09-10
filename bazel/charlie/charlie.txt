@@ -2177,6 +2177,7 @@ campsite
 cooperate
 compasser
 chugalugging
+carbocer
 ceratophyte
 coordinating
 coronofacial
@@ -16988,7 +16989,6 @@ clusia
 clusiaceae
 clusiaceous
 chorio
-carbocer
 clustered
 canulating
 clusterfist
