@@ -3766,6 +3766,7 @@ blksize
 bitterbush
 brujas
 bantay
+bimaculate
 birring
 bootleg
 baubo
@@ -14543,7 +14544,6 @@ brandied
 blatterer
 brandiron
 buddle
-bimaculate
 billhooks
 blume
 burled
