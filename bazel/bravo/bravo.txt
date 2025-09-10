@@ -4009,6 +4009,7 @@ ballonet
 beamhouse
 bibliophobe
 backbreaker
+biaxal
 bedolt
 brisure
 bumperette
@@ -18393,7 +18394,6 @@ budwood
 balker
 bedarkens
 brazing
-biaxal
 blubbered
 boobery
 bibcocks
