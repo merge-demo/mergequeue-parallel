@@ -6447,6 +6447,7 @@ asplanchnic
 aeromechanical
 ayenst
 archaeocyathus
+aventail
 antibaryon
 americanumancestors
 aigialosaur
@@ -7288,7 +7289,6 @@ anisomelia
 astrogate
 archiepiscopate
 annexe
-aventail
 albyn
 albinal
 amvis
