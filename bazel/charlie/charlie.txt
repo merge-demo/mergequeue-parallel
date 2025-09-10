@@ -4655,6 +4655,7 @@ calamity
 carpetlayer
 carpetmaking
 clubability
+cenogenesis
 captivation
 concolorous
 carpetweb
@@ -6927,7 +6928,6 @@ canezou
 counteropponent
 countercultures
 cenogamy
-cenogenesis
 cenogenetic
 cenogonous
 capablest
