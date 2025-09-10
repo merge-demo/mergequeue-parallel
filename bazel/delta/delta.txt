@@ -1807,7 +1807,6 @@ drawboy
 debeak
 debarbarize
 debeaker
-daylilies
 douzepers
 declinograph
 departement
@@ -15861,6 +15860,7 @@ dicyanine
 dogshore
 demeter
 donec
+daylilies
 deperm
 decries
 downlie
