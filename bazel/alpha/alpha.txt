@@ -19022,6 +19022,7 @@ archvisitor
 archwag
 arceuthobium
 arcifera
+assesses
 arcifinious
 arciform
 archoptosis
@@ -25394,7 +25395,6 @@ autecisms
 ampyces
 azured
 acronyx
-assesses
 azureness
 antiparagraphic
 antifeudalist
