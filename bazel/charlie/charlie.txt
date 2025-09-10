@@ -10430,7 +10430,6 @@ chigoes
 chih
 conquered
 coryphaena
-clinocephalic
 courtiery
 chihfu
 celiomyositis
@@ -30913,6 +30912,7 @@ cavaliero
 caroid
 costate
 cacatua
+clinocephalic
 cultus
 chloroform
 clews
