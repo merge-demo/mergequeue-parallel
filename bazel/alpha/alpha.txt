@@ -13466,7 +13466,6 @@ amalgamable
 amidated
 annulations
 abominator
-anthems
 annulets
 annullate
 annuller
@@ -16601,6 +16600,7 @@ aortoclasia
 antichurch
 aph
 antilogical
+anthems
 abjuration
 accoutrements
 autolaryngoscope
