@@ -15855,7 +15855,6 @@ clamb
 cleche
 capacitance
 clechee
-calycled
 constants
 contraregular
 clechy
@@ -17726,6 +17725,7 @@ curviform
 cyatheaceous
 colliding
 camouflaged
+calycled
 comoid
 charmeuse
 cockaigne
