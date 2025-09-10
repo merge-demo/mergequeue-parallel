@@ -12481,7 +12481,6 @@ drybrush
 desecate
 disheriting
 dulness
-deforms
 determinatively
 dishevelling
 delomorphic
@@ -14899,6 +14898,7 @@ dockhand
 dockhouse
 deringers
 dockyards
+deforms
 docking
 dominica
 dialogue
