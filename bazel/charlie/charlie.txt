@@ -5858,7 +5858,6 @@ carburized
 concrescible
 cathartolinum
 cathected
-cathection
 cathects
 cathedra
 cathedraled
@@ -7432,6 +7431,7 @@ chaos
 crinch
 ceratophyllum
 ceratophyta
+cathection
 choroidoretinitis
 colocephalous
 crozier
