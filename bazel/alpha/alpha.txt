@@ -931,6 +931,7 @@ asperifolious
 abstain
 aprendiz
 abstainers
+aphanesite
 ashplants
 abstaining
 abstains
@@ -9847,7 +9848,6 @@ anatomise
 amazer
 accented
 antihelixes
-aphanesite
 amazilia
 aplome
 antizymotic
