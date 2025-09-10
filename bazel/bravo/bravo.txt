@@ -761,7 +761,6 @@ badinages
 beblotch
 bitstock
 bearcoot
-bumboatmen
 badiner
 badinerie
 birt
@@ -3270,6 +3269,7 @@ bewhig
 begartered
 bethank
 bisulfide
+bumboatmen
 bookkeeps
 bourn
 bastardising
