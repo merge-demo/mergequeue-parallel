@@ -5599,7 +5599,6 @@ creamware
 coopee
 catastate
 chiloma
-chilipepper
 catastrophal
 cryptologist
 catastrophes
@@ -15430,6 +15429,7 @@ chiropter
 clarenceux
 clarendon
 clares
+chilipepper
 claret
 cervantes
 cheerio
