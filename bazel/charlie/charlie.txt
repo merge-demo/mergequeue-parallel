@@ -11386,7 +11386,6 @@ comparatively
 carib
 chlorates
 chemotroph
-caffa
 chlorpromazine
 cheerfulsome
 ciboule
@@ -14428,6 +14427,7 @@ centripetal
 cirratulidae
 cortian
 costmary
+caffa
 coccosteidae
 cipolins
 cirri
