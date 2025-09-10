@@ -6731,6 +6731,7 @@ desilicify
 desilicified
 desiliconization
 dribbed
+dhoti
 doubly
 delate
 deceased
@@ -11083,7 +11084,6 @@ displaying
 disconformably
 dieselized
 degusts
-dhoti
 diffusive
 doormaid
 disproportionable
