@@ -14269,6 +14269,7 @@ circumnavigable
 coroplastae
 circumnavigate
 champers
+corrade
 circumnavigates
 corollike
 circumnavigating
@@ -24796,7 +24797,6 @@ coquicken
 cartload
 contumax
 coquille
-corrade
 crosiers
 conductivity
 corabecan
