@@ -3294,7 +3294,6 @@ basipodite
 bipinnaria
 basipterygium
 baratheas
-bolography
 believe
 brisant
 bacterioscopic
@@ -17092,6 +17091,7 @@ barrios
 bala
 bullocks
 booklice
+bolography
 boder
 ballogan
 benzoylformic
