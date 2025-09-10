@@ -10844,7 +10844,6 @@ agrammatism
 altaltissimo
 atafter
 amniotome
-amoyan
 amobyr
 airbag
 assayer
@@ -15340,6 +15339,7 @@ antimechanism
 antimechanistic
 antimechanization
 antimediaevally
+amoyan
 antimedical
 antimedicine
 andaste
