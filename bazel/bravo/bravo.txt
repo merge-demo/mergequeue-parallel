@@ -6515,6 +6515,7 @@ bournous
 bagattino
 berdache
 battuta
+bahuts
 bashawism
 byreman
 booming
@@ -16151,7 +16152,6 @@ biscayan
 beluga
 blackguardize
 beamlet
-bahuts
 bottomland
 bourock
 brownist
