@@ -1081,6 +1081,7 @@ darsonval
 deontology
 dartagnan
 dogmatism
+dongolese
 darters
 dartled
 dedecorate
@@ -2187,7 +2188,6 @@ dissympathy
 decarburized
 dubiosity
 decarnated
-dongolese
 duarch
 decartelization
 doggeries
