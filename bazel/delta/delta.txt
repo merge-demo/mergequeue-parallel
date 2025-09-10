@@ -1242,6 +1242,7 @@ daterman
 diabolification
 dates
 datil
+doat
 dating
 datisca
 disaffirmative
@@ -3095,7 +3096,6 @@ detritus
 denumberment
 defeasanced
 dialings
-doat
 defeasibility
 doorbell
 dinnery

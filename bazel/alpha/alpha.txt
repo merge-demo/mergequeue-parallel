@@ -7043,7 +7043,6 @@ acidic
 alabarch
 adamantoma
 alabaster
-aphizog
 alabastrine
 alabastrites
 ascenders
@@ -19948,6 +19947,7 @@ aroids
 affirmed
 acidulating
 apprehensively
+aphizog
 asparaginic
 agar
 andesinite
