@@ -7850,7 +7850,6 @@ cetanes
 cete
 cetera
 cetes
-ceti
 cetic
 cocytus
 ceticide
@@ -31767,6 +31766,7 @@ complotted
 customizes
 comped
 customizing
+ceti
 customly
 chargeman
 chevisance
