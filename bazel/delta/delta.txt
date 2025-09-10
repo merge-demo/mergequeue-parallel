@@ -13372,7 +13372,6 @@ disfen
 delayers
 deaconhood
 devocalise
-defender
 disputation
 disconnected
 disannulment
@@ -13506,6 +13505,7 @@ dissertated
 disrooting
 debenture
 ditrigonal
+defender
 diple
 dizygous
 disloign
