@@ -2341,6 +2341,7 @@ chlorazide
 clothy
 crowberry
 cogs
+civilizational
 companator
 chinbones
 canarian
@@ -14637,7 +14638,6 @@ cystolithiasis
 cystoma
 cystomas
 corpusculum
-civilizational
 cotylopubic
 cystometer
 cystomyoma

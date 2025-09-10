@@ -4239,7 +4239,6 @@ boggish
 brabbled
 blindish
 bembecidae
-bathyscaph
 bacterious
 bayish
 bebreech
@@ -17807,6 +17806,7 @@ banjara
 boagane
 bursitos
 burst
+bathyscaph
 beatific
 booksellers
 bishopful
