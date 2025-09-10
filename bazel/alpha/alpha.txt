@@ -10080,7 +10080,6 @@ ambulance
 alkalinised
 anatomising
 amoeboidism
-antithetically
 ambulancer
 acenesthesia
 ambulated
@@ -22712,6 +22711,7 @@ anyhow
 atomatic
 atomechanics
 aquo
+antithetically
 announces
 antidyscratic
 antambulacral
