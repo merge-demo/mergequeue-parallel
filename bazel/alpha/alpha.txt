@@ -3353,7 +3353,6 @@ apposing
 acyloxymethane
 anatomicophysiologic
 addlebrained
-addlehead
 arisaema
 addleness
 activists
@@ -11996,6 +11995,7 @@ anatomizing
 allegeable
 anatopism
 adorally
+addlehead
 allopathetically
 anatox
 anatoxin
