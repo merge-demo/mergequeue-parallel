@@ -9202,7 +9202,6 @@ bromoiodid
 biprism
 byproducts
 burgaudine
-blackguardism
 beadles
 biprong
 butacaine
@@ -15467,6 +15466,7 @@ broomstick
 blaubok
 boxes
 bdelloida
+blackguardism
 braggat
 barraclade
 braggadocio
