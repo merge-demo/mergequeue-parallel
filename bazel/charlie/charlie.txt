@@ -5958,7 +5958,6 @@ comptonia
 catkinate
 curatory
 candify
-catlike
 crowns
 cymbalists
 catling
@@ -11947,6 +11946,7 @@ camisole
 confarreate
 choriambus
 choric
+catlike
 chorines
 collunarium
 consol
