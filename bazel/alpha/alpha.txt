@@ -1291,7 +1291,6 @@ assailer
 antarchism
 acaudelescent
 atomized
-acaulescence
 appair
 acauline
 avows
@@ -24290,6 +24289,7 @@ autoproteolysis
 autopsy
 autopsical
 aliyas
+acaulescence
 autopsychosis
 algologies
 autopsied
