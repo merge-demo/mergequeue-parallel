@@ -24055,7 +24055,6 @@ concealment
 caprimulgi
 condalia
 cirrolite
-codfisheries
 complimentation
 convergence
 crampy
@@ -27302,6 +27301,7 @@ chemistries
 courbette
 courbettes
 carcaneted
+codfisheries
 cantillation
 concentrically
 courgette

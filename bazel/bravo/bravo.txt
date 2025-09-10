@@ -451,6 +451,7 @@ bandobust
 borecole
 backscraper
 backset
+bannack
 basename
 bumbo
 begalls
@@ -3063,7 +3064,6 @@ brahman
 blencorn
 breachy
 barwal
-bannack
 benzophenoxazine
 bastardism
 boilerworks
