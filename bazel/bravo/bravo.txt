@@ -54,6 +54,7 @@ brushable
 bonspiel
 babbit
 baton
+becrust
 botrytises
 bacteriophobia
 balked
@@ -7461,7 +7462,6 @@ businessman
 bevil
 bevillain
 befell
-becrust
 bigeye
 bashaws
 bedote
