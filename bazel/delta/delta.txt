@@ -3006,7 +3006,6 @@ dinkly
 detailist
 delumbate
 disgustingly
-deep
 deerstalking
 deerweed
 deerweeds
@@ -16432,6 +16431,7 @@ dovetails
 describent
 decrease
 decibel
+deep
 disaccharide
 downslope
 devout
