@@ -2835,7 +2835,6 @@ blowsiest
 bioscopies
 bitterbump
 barbery
-barracan
 borh
 ballers
 birders
@@ -7256,6 +7255,7 @@ boatswain
 balaenoptera
 bocklogged
 bullidae
+barracan
 bilbies
 bibliolatrist
 beethoven
