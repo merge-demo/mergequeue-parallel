@@ -16619,7 +16619,6 @@ autopotamic
 antitropy
 akebi
 aphanophyre
-acara
 aedoeagi
 avicularian
 aphanozygous
@@ -23662,6 +23661,7 @@ acetifier
 alto
 auspice
 authenticated
+acara
 animalivore
 aerohydroplane
 antisyndicalist
