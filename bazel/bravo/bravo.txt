@@ -119,7 +119,6 @@ banditry
 biforine
 boatbuilding
 brachycephales
-babyism
 barn
 baconic
 bludgeoned
@@ -1942,6 +1941,7 @@ bandstand
 broaches
 beacon
 boronia
+babyism
 beseechment
 boschbok
 bellyacher

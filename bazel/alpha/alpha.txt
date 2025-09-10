@@ -4439,7 +4439,6 @@ advising
 accustom
 anaclasis
 antechapel
-altercate
 aix
 adiaphora
 adlumine
@@ -10655,6 +10654,7 @@ alodiary
 amirs
 appalled
 archegay
+altercate
 attitudinize
 amphirhine
 anatomiless
