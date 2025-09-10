@@ -3722,6 +3722,7 @@ batlan
 bukshi
 battologising
 battologize
+backbeat
 bronchiocele
 bookmaking
 britska
@@ -12466,7 +12467,6 @@ bacquet
 bilberries
 bridesman
 bidets
-backbeat
 befavor
 brunizems
 bestialist
