@@ -12517,6 +12517,7 @@ autophonoscope
 appetizement
 angarep
 angaria
+ambrette
 angarias
 angariation
 abanet
@@ -21942,7 +21943,6 @@ admirance
 achromatophilic
 abaculus
 archchaplain
-ambrette
 apoplexies
 adduce
 allotypically
