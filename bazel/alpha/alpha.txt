@@ -5866,7 +5866,6 @@ aggroup
 approximant
 applauder
 archt
-aggroupment
 aghan
 aghas
 aghori
@@ -13270,6 +13269,7 @@ adenopharyngeal
 assumption
 allergia
 auditress
+aggroupment
 ankylopodia
 ankyloproctia
 ankylos
