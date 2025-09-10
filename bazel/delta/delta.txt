@@ -11509,7 +11509,6 @@ documentation
 diallages
 deedeed
 drungar
-devaluations
 dehaites
 dislocates
 degumming
@@ -17871,6 +17870,7 @@ ductless
 demure
 drinkable
 darrell
+devaluations
 ductor
 ductules
 drawlatch
