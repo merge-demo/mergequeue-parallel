@@ -1008,6 +1008,7 @@ birlie
 bewitch
 bourdon
 bayardly
+bordrage
 blinger
 brothellike
 baidarka
@@ -12151,7 +12152,6 @@ boomier
 biasnesses
 bedral
 blancmange
-bordrage
 barbarisms
 bedeen
 becrawling
