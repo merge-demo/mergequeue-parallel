@@ -395,6 +395,7 @@ breaststroke
 background
 beakless
 backhand
+belligerencies
 backhandedness
 brinjarry
 balkily
@@ -16286,7 +16287,6 @@ brummagen
 bolter
 broidered
 bootlicked
-belligerencies
 brumous
 bullalaria
 brumstane
