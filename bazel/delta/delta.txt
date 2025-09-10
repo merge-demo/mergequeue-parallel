@@ -2853,7 +2853,6 @@ dihysteria
 directed
 degratia
 duopolies
-disgavel
 decurvature
 decus
 decarbonizing
@@ -8065,6 +8064,7 @@ deathtraps
 despotically
 dimension
 distinctional
+disgavel
 didos
 dragaded
 dhangar
