@@ -2094,7 +2094,6 @@ besteer
 boguing
 boraciferous
 bulker
-billbeetle
 botoyan
 banshies
 bornan
@@ -5297,6 +5296,7 @@ bigeneric
 becurry
 blueheads
 bethesdas
+billbeetle
 bivariate
 bifold
 burkers

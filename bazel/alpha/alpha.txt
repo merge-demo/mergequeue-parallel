@@ -5648,6 +5648,7 @@ armadillo
 agaricoid
 agarics
 agaricus
+anaesthesiology
 acknew
 auscultascope
 absurds
@@ -11590,7 +11591,6 @@ acrorhagus
 aerobiologically
 amatols
 astate
-anaesthesiology
 agitators
 anaesthesis
 abeltree
