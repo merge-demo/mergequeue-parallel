@@ -3270,6 +3270,7 @@ adaptorial
 adapts
 antiagglutinating
 allotransplant
+areoles
 autopelagic
 aglobulia
 adarbitrium
@@ -15477,7 +15478,6 @@ afront
 acrostichum
 antinarcotic
 antinarcotics
-areoles
 architective
 antispasmodics
 acromegalia
