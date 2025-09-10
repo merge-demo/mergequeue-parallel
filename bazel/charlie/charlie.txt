@@ -11808,6 +11808,7 @@ chopdar
 cyprinoidea
 connation
 curialities
+cornutos
 chopines
 clarina
 chopins
@@ -17673,7 +17674,6 @@ coccothrinax
 calabozo
 cocculiferous
 cost
-cornutos
 corrivals
 chalazogamy
 corkage
