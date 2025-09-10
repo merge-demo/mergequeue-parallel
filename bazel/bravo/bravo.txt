@@ -4785,7 +4785,6 @@ ballonne
 blizz
 briefings
 bedsitter
-batmen
 backwraps
 butterpaste
 by
@@ -6319,6 +6318,7 @@ broken
 benzohydrol
 braggarts
 becuna
+batmen
 broughams
 benzoylation
 boccias
