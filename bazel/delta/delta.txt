@@ -2919,6 +2919,7 @@ depositional
 discrown
 diaphanotype
 describers
+denticeti
 decemfid
 deductio
 deductions
@@ -10508,7 +10509,6 @@ deda
 dislimns
 dynastes
 diphtheric
-denticeti
 diphtheritically
 disarraying
 diphtherotoxin

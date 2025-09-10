@@ -3634,6 +3634,7 @@ caramelise
 conveyorize
 caramelize
 caramelized
+cooks
 clangoring
 caramels
 carancho
@@ -11598,7 +11599,6 @@ coed
 crankbird
 configurationism
 cholepoietic
-cooks
 choler
 cholera
 cephalospinal
