@@ -5546,6 +5546,7 @@ costa
 chargable
 catamount
 catanadromous
+colones
 catapasm
 comprizable
 correlativism
@@ -19318,7 +19319,6 @@ colonelships
 conductorless
 coloner
 cupuliferae
-colones
 colongitude
 cyder
 cowpony
