@@ -20306,6 +20306,7 @@ alnus
 archigaster
 acinetae
 arsenotungstates
+asperugo
 armeria
 arsenotungstic
 analysable
@@ -21389,7 +21390,6 @@ aspersively
 aspersoir
 anthonomus
 aspersoriums
-asperugo
 asperula
 asperulous
 anticovenanting
