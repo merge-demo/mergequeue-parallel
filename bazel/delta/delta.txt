@@ -7829,7 +7829,6 @@ dishearteningly
 duopod
 dishelmed
 devolves
-decile
 daylighted
 diplospondylic
 desmarestia
@@ -18486,6 +18485,7 @@ diarrheas
 distinctive
 discontentive
 dermatophony
+decile
 devastavit
 diose
 dupped
