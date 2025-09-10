@@ -6629,7 +6629,6 @@ boro
 brooched
 berkovets
 berkovtsi
-bregmate
 bridgekeeper
 bedull
 bayesian
@@ -10711,6 +10710,7 @@ braeside
 brags
 blennosis
 beclart
+bregmate
 beethovenish
 barkan
 bolectioned
