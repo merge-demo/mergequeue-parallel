@@ -2583,7 +2583,6 @@ decapitable
 decolouring
 dividingly
 discontinues
-desalter
 decoloring
 disavowed
 dainteous
@@ -15242,6 +15241,7 @@ dogrib
 dreamwise
 dogs
 deromanticize
+desalter
 dogsbodies
 decalcifying
 doudle
