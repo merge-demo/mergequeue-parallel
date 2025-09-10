@@ -7940,7 +7940,6 @@ andria
 achenodia
 acture
 anthosiderite
-alfur
 autoconverter
 alga
 algaecide
@@ -8113,6 +8112,7 @@ aphelandra
 asaron
 antiquating
 acroscopic
+alfur
 alick
 abegge
 arfillite
