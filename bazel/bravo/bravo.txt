@@ -5120,6 +5120,7 @@ billable
 boxholder
 buttonhole
 bootmaker
+babs
 brunizem
 befouling
 birdseeds
@@ -12768,7 +12769,6 @@ brasses
 backshish
 balan
 boolya
-babs
 burrer
 braiding
 barrelhouse
