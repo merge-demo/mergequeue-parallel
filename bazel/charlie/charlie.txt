@@ -28691,7 +28691,6 @@ coincides
 crepiest
 crepine
 creping
-crepis
 colons
 churled
 crepitated
@@ -30897,6 +30896,7 @@ cyclitol
 cults
 cramoisies
 cultual
+crepis
 cobwebbery
 cultural
 culturally
