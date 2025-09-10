@@ -5119,6 +5119,7 @@ casinet
 charet
 casings
 consentiently
+clacket
 casiri
 casita
 corpl
@@ -14477,7 +14478,6 @@ completable
 chaenomeles
 coalmouse
 cirsotomy
-clacket
 cassady
 cirsotomies
 cirterion
