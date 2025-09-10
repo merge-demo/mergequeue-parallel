@@ -9301,7 +9301,6 @@ disemprison
 dieses
 deforester
 diesters
-diestock
 diestrous
 drawbridge
 daffier
@@ -9932,6 +9931,7 @@ deludable
 decolonising
 demagog
 disproportionately
+diestock
 deuteronomist
 dygogram
 deploring
