@@ -21936,7 +21936,6 @@ cornfield
 confessedly
 confesser
 coiners
-crystallogy
 confessingly
 confessional
 confessionalism
@@ -25247,6 +25246,7 @@ ciliola
 crome
 corklike
 cruche
+crystallogy
 craterkin
 chiromant
 corkline
