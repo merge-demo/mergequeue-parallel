@@ -4555,7 +4555,6 @@ delegacy
 dotier
 demihagbut
 disavowals
-dichopodial
 dowiness
 demihaque
 demijambe
@@ -16840,6 +16839,7 @@ darg
 dactylus
 dodecagon
 decrials
+dichopodial
 durandarte
 draughtsmanship
 deboned
