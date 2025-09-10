@@ -15224,7 +15224,6 @@ compresses
 cecca
 clairsentience
 clairsentient
-confrontationism
 cachexia
 conceder
 clairvoyancy
@@ -29585,6 +29584,7 @@ cognizer
 chemosterilant
 convulsiveness
 cotingid
+confrontationism
 cruth
 chronol
 counteraffirm
