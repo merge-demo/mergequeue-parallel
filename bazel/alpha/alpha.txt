@@ -5796,6 +5796,7 @@ auster
 aggrades
 accademia
 atrocha
+ayatollah
 auge
 aggrading
 arsenical
@@ -23059,7 +23060,6 @@ attest
 attestable
 amphibology
 artel
-ayatollah
 arsonvalization
 abolla
 archiepiscopate
