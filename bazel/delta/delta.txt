@@ -6313,7 +6313,6 @@ disgrade
 dephlegmatory
 dermenchysis
 delacrimation
-dimetry
 dermestid
 decoupage
 dextrogyration
@@ -16515,6 +16514,7 @@ dozed
 dozens
 dishpan
 disports
+dimetry
 dorsodynia
 doziest
 deviousness
