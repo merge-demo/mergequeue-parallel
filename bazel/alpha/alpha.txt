@@ -8961,7 +8961,6 @@ asteism
 acylamido
 alcahest
 alloxan
-alloxans
 arsenicalism
 anthesis
 anthracoid
@@ -17617,6 +17616,7 @@ applanation
 applaudable
 araneiformes
 applaudably
+alloxans
 ancyroid
 allicin
 applauders
