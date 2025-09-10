@@ -9419,7 +9419,6 @@ brittling
 bookshelf
 byronesque
 bedecorate
-byronic
 beirut
 bemonster
 brushiest
@@ -17005,6 +17004,7 @@ bibb
 beforetime
 buttling
 baetylus
+byronic
 brominize
 bigamistic
 bitake
