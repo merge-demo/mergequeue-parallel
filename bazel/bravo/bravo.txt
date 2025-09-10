@@ -1682,6 +1682,7 @@ bengali
 ballweed
 brehon
 breechcloths
+babblish
 botony
 balmarcodes
 balmawhapple
@@ -7027,7 +7028,6 @@ bespectacled
 beefless
 buckie
 besped
-babblish
 becalmed
 bawdiness
 bespell
