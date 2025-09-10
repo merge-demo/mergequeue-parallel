@@ -8632,6 +8632,7 @@ alleve
 alleviate
 autohybridization
 antiquities
+applicative
 asiatize
 alleviated
 alleviater
@@ -17671,7 +17672,6 @@ ambilaterality
 archdespot
 applications
 annexed
-applicative
 avigator
 applicatively
 applicatory
