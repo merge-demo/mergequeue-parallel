@@ -2698,6 +2698,7 @@ deliberated
 depart
 defamous
 devonshire
+doublure
 dissembling
 decore
 docklands
@@ -16116,7 +16117,6 @@ disturn
 diapedesis
 disunited
 dipneumones
-doublure
 decorrugative
 doublespeak
 dumped
