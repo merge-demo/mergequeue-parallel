@@ -1582,6 +1582,7 @@ bombastry
 bapt
 benzotrifuran
 brocked
+bacterian
 bigged
 blastiest
 ballets
@@ -3751,7 +3752,6 @@ bibelot
 begger
 bobflies
 burratine
-bacterian
 blastomeric
 batwing
 baysmelt
