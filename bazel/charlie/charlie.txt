@@ -11826,6 +11826,7 @@ cryptomonad
 candider
 chopper
 choppers
+currycombed
 cordlike
 choppier
 cados
@@ -31857,7 +31858,6 @@ cutlet
 cashable
 cutline
 continually
-currycombed
 cutlings
 cutoff
 cutoffs
