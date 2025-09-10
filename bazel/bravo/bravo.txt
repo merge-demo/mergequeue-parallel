@@ -105,6 +105,7 @@ besiegement
 biped
 bloodstock
 bum
+batster
 boddhisattva
 bonsoir
 blistering
@@ -12876,7 +12877,6 @@ blunging
 bootery
 booth
 bim
-batster
 backtrail
 boothage
 boothale
