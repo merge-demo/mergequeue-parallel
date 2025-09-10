@@ -10885,6 +10885,7 @@ counteradvise
 chiriguano
 chirimia
 cathedralwise
+cloak
 chirino
 chirk
 couchmate
@@ -29418,7 +29419,6 @@ cocircularity
 crystallogenical
 cymbiform
 cageot
-cloak
 chileanize
 crystallography
 crystalloid
