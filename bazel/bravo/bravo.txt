@@ -2918,6 +2918,7 @@ bure
 backbiting
 blanco
 beslab
+brigantine
 bited
 boreiad
 broad
@@ -12550,7 +12551,6 @@ bagatelle
 bills
 brainchild
 brabblingly
-brigantine
 bom
 blackballer
 bloodroots
