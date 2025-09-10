@@ -1173,7 +1173,6 @@ concilium
 cancerating
 caledonia
 caffoy
-commoditable
 chiding
 causativeness
 cestuses
@@ -14102,6 +14101,7 @@ carbaryl
 circuition
 circuitman
 constitutionality
+commoditable
 caldarium
 charruan
 crystallophobia
