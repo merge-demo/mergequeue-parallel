@@ -909,6 +909,7 @@ blundering
 bagnes
 bastnaesite
 blowze
+borides
 bullionism
 bullboat
 burdies
@@ -7227,7 +7228,6 @@ brazera
 balloting
 bufidin
 buck
-borides
 betear
 betel
 buttwood
