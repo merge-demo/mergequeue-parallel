@@ -9778,7 +9778,6 @@ bolelia
 balladry
 bebleed
 bowleg
-beknight
 birthplaces
 brail
 basilar
@@ -11657,6 +11656,7 @@ blazoners
 bosks
 bequeathment
 beatably
+beknight
 boatwright
 bearbaiting
 burnet
