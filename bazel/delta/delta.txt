@@ -5673,7 +5673,6 @@ diastolic
 dobbing
 depilating
 depilatory
-depilatories
 duplicando
 discos
 decerniture
@@ -14884,6 +14883,7 @@ diocesian
 dockets
 dyphone
 dockhand
+depilatories
 dockhouse
 deringers
 dockyards
