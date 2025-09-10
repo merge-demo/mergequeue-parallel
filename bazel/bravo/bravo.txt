@@ -12153,7 +12153,6 @@ bolivians
 bolk
 bolly
 bulrushlike
-beretta
 bargir
 brevis
 bacchides
@@ -15473,6 +15472,7 @@ boxes
 bdelloida
 blackguardism
 braggat
+beretta
 barraclade
 braggadocio
 bryozoon
