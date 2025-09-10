@@ -1761,6 +1761,7 @@ baltetei
 bismutite
 boarish
 balthasar
+barramundas
 baltheus
 belgas
 blends
@@ -1813,7 +1814,6 @@ boulework
 banago
 buzzy
 beclowns
-barramundas
 bacteriaceous
 banak
 bemuse
