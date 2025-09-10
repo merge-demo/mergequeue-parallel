@@ -15688,7 +15688,6 @@ airmarker
 antiphona
 aminobarbituric
 antiphonally
-antiphonary
 amathophobia
 articulatorily
 autonoetic
@@ -23827,6 +23826,7 @@ alumroot
 autosomes
 authoritarian
 authoritarians
+antiphonary
 awarn
 authoritative
 announceable
