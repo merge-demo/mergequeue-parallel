@@ -9349,7 +9349,6 @@ bestirred
 bathman
 bebopper
 bridegroom
-begettal
 bobwood
 bird
 boga
@@ -9691,6 +9690,7 @@ basiating
 blemish
 bathysmal
 brodekin
+begettal
 biophysicochemical
 braved
 bathhouses
