@@ -2489,7 +2489,6 @@ accoutering
 asps
 astringence
 alumins
-architis
 aljamiah
 arctomys
 acoumetry
@@ -15423,6 +15422,7 @@ affrontment
 actualized
 arrack
 antimonarchism
+architis
 albin
 angiocarp
 ascan
