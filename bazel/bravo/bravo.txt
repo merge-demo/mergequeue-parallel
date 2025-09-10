@@ -1741,6 +1741,7 @@ belittled
 baladine
 balsamation
 balsaminaceae
+byssolite
 bookrest
 beetrooty
 beneplacit
@@ -14845,7 +14846,6 @@ buttercup
 belis
 bostonians
 breakoff
-byssolite
 breakout
 breakpoint
 breaks
