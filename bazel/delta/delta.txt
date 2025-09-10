@@ -3840,7 +3840,6 @@ decastyle
 dephlegm
 diomedeidae
 deselects
-dispersedye
 dairies
 disinteresting
 dissceptred
@@ -14287,6 +14286,7 @@ demilitarizing
 disburses
 demonstratorship
 disembargo
+dispersedye
 demanders
 deckswabber
 devilism
