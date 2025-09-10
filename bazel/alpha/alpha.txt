@@ -355,7 +355,6 @@ attache
 acarine
 argasidae
 auditive
-aberr
 ask
 aberrance
 astrictive
@@ -10837,6 +10836,7 @@ antherids
 algidness
 amniotic
 amniotin
+aberr
 acerae
 alkaligen
 amniotitis
