@@ -3669,7 +3669,6 @@ carat
 changos
 coconspirator
 circuituously
-caratacus
 cynoidea
 caratch
 chevaline
@@ -20990,6 +20989,7 @@ compromit
 charbroil
 compromitment
 clavariaceae
+caratacus
 compromitted
 crumbling
 cany
