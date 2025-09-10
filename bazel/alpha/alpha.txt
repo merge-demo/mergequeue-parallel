@@ -10416,6 +10416,7 @@ armenians
 adfrozen
 acoemeti
 aeolistic
+antoecian
 assurge
 argemony
 amidoacetic
@@ -21586,7 +21587,6 @@ antisi
 aerotonometer
 asseize
 asself
-antoecian
 assembl
 assemblable
 assemblance
