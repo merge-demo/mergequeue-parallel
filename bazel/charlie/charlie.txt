@@ -15369,7 +15369,6 @@ camelhair
 curnie
 clanswoman
 cyanole
-characteristics
 colloidize
 carbolised
 cyprinodontidae
@@ -18963,6 +18962,7 @@ creepered
 cauterant
 coquinas
 confiscable
+characteristics
 collaret
 collarette
 clypeaster
