@@ -10593,6 +10593,7 @@ denote
 diamides
 disequilibrium
 diatomaceous
+dioxane
 discoblastula
 diplocoria
 diploe
@@ -14442,7 +14443,6 @@ durian
 depositions
 dehydrocorydaline
 durdenite
-dioxane
 detainable
 demonomanie
 divarication

@@ -5780,6 +5780,7 @@ beleaps
 bldg
 bricks
 beyonds
+blusterous
 bellicist
 bromometry
 backstroking
@@ -15842,7 +15843,6 @@ bromomania
 bopper
 barbeyaceae
 biose
-blusterous
 banksian
 bucrania
 broguish
