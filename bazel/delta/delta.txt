@@ -3318,6 +3318,7 @@ decempeda
 ditremidae
 defleas
 downlinks
+diatomiferous
 deflect
 dichotomic
 driftfishes
@@ -10351,7 +10352,6 @@ ding
 diseuses
 demurrers
 diagrammers
-diatomiferous
 dogdoms
 ditton
 drunkly
