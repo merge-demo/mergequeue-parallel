@@ -7771,6 +7771,7 @@ cooeyed
 cervicomuscular
 cerviconasal
 crotchy
+cottonwick
 coeliomyalgia
 cervicoscapular
 cervicothoracic
@@ -26485,7 +26486,6 @@ cabuyas
 crankism
 cassias
 chemesthesis
-cottonwick
 cottrel
 cottus
 culicids
