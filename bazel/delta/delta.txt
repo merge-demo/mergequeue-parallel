@@ -5067,7 +5067,6 @@ dendrochirota
 dessicate
 daimyos
 durante
-disenabling
 deadrise
 dendrocygna
 druggiest
@@ -6463,6 +6462,7 @@ descantist
 discriminators
 discourtesies
 damoclean
+disenabling
 diastatic
 dime
 daubingly
