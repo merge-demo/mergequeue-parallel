@@ -4845,6 +4845,7 @@ disembogue
 decumana
 daneworts
 disrobed
+deval
 doweries
 deepness
 dharna
@@ -7629,7 +7630,6 @@ darwinistic
 dequeuing
 dactylonomy
 devadasi
-deval
 devaloka
 drenched
 durabilities
