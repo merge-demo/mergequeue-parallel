@@ -5664,7 +5664,6 @@ archways
 agrised
 amplifier
 ashmen
-agastric
 awacs
 apickaback
 ancestor
@@ -19305,6 +19304,7 @@ allicins
 anklets
 annuals
 atacameno
+agastric
 argentiferous
 amygdaliform
 arkie
