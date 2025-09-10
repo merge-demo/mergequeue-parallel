@@ -11381,6 +11381,7 @@ damocles
 damolic
 dumontia
 devaraja
+detector
 dost
 dinichthys
 dinner
@@ -12274,7 +12275,6 @@ dysfunctional
 dysfunctioning
 deltoidal
 durous
-detector
 dysfunctions
 disfurnish
 disfurnished
