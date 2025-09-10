@@ -10870,6 +10870,7 @@ anguishes
 aggregatory
 athyrid
 amperometric
+anubis
 airbrick
 architecturalist
 amoebeum
@@ -12419,7 +12420,6 @@ apodoses
 affectability
 allesthesia
 aflaunt
-anubis
 anepigraphous
 amollish
 algae
