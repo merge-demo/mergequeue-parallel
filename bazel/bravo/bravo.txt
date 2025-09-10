@@ -8992,7 +8992,6 @@ balibuntal
 biophysiology
 butterier
 brachycephalies
-berrettino
 backfire
 biophotophone
 bemire
@@ -12461,6 +12460,7 @@ boorish
 bonebreaker
 bonedry
 bonefish
+berrettino
 bromobenzene
 broodier
 barcarolle
