@@ -10470,7 +10470,6 @@ coterminously
 chilblained
 child
 colonist
-childbearing
 childcrowing
 contaminations
 childes
@@ -10996,6 +10995,7 @@ comonomer
 certie
 creammaker
 comourner
+childbearing
 cyclospondylous
 carbides
 coscoroba
