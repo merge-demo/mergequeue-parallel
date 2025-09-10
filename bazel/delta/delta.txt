@@ -3141,7 +3141,6 @@ dummkopf
 dasyures
 daggle
 damselflies
-dudelsack
 dashpot
 de
 deciding
@@ -7601,6 +7600,7 @@ ducktail
 discs
 deuterotype
 displeasure
+dudelsack
 deuterozooid
 didynamies
 discreetness
