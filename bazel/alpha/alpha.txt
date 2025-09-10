@@ -317,7 +317,6 @@ asiatical
 aquarelles
 adherents
 annexing
-assumed
 abecedaire
 autointoxication
 anacara
@@ -15516,6 +15515,7 @@ attacked
 arcus
 awfulness
 arrowheaded
+assumed
 adders
 antinomianism
 arblast
