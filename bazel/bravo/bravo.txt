@@ -12986,7 +12986,6 @@ boraginaceous
 borago
 bugger
 bedamn
-bacterioscopic
 bismuthate
 boran
 boranes
@@ -14378,6 +14377,7 @@ bloods
 brainpans
 bisley
 biochemic
+bacterioscopic
 blighting
 birmingham
 behoving
