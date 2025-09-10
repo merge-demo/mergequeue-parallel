@@ -8768,7 +8768,6 @@ braeface
 bejelling
 barrelhead
 bashless
-berycoidea
 binomially
 blondness
 binomials
@@ -14904,6 +14903,7 @@ baedeker
 beset
 brisses
 bicamerist
+berycoidea
 buffball
 beterschap
 breathability
