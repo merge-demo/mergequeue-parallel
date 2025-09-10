@@ -3059,7 +3059,6 @@ canvasers
 coralroot
 capriola
 canvasing
-capsular
 causata
 canzones
 canzonet
@@ -12533,6 +12532,7 @@ chromotropy
 chromotropic
 cradleboard
 concepts
+capsular
 chromotropism
 cajeputol
 collochemistry
