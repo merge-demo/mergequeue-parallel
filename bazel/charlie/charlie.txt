@@ -9849,7 +9849,6 @@ chemokinesis
 chemolysis
 cicero
 chemolyze
-correspondentially
 conquinamine
 clamp
 chemophysiology
@@ -11337,6 +11336,7 @@ cestuy
 corollate
 chlorophyceae
 convenee
+correspondentially
 cressweed
 cotemporary
 chlorophyllase
