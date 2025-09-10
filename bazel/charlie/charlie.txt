@@ -7575,7 +7575,6 @@ curettes
 concessionist
 centralizer
 confinements
-ceremony
 chrysoeriol
 ceremonial
 chiquero
@@ -23045,6 +23044,7 @@ clinograph
 conscriptive
 cutty
 consonous
+ceremony
 callused
 consopite
 consort
