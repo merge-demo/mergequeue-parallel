@@ -15072,7 +15072,6 @@ dodoma
 destressed
 dodona
 drugman
-dendrocalamus
 devilmonger
 dodonean
 dissections
@@ -18445,6 +18444,7 @@ dipsticks
 dupion
 disendowing
 depressional
+dendrocalamus
 duplation
 decenniad
 disharmonious
