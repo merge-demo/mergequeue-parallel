@@ -3691,6 +3691,7 @@ beltis
 batterie
 breck
 batteryman
+bowelless
 batterman
 bullockman
 bepinch
@@ -4514,7 +4515,6 @@ bumaree
 beweep
 benzylpenicillin
 bemingles
-bowelless
 betrunk
 buckteeth
 buglewort

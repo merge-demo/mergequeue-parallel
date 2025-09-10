@@ -5114,7 +5114,6 @@ ameloblastic
 ascensor
 affeir
 advertency
-artifactual
 affenpinscher
 affere
 abnegative
@@ -14394,6 +14393,7 @@ asheries
 anaplasis
 anthropomorphic
 amphrysian
+artifactual
 anthropomorphidae
 anthropomorphisation
 attempters
