@@ -12725,7 +12725,6 @@ allays
 anglewise
 averrer
 avenger
-asteraceous
 anglian
 anglic
 anglicanisms
@@ -23548,6 +23547,7 @@ audaciously
 alee
 auresca
 atomistically
+asteraceous
 aureomycin
 aaron
 amplified
