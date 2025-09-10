@@ -20892,7 +20892,6 @@ coacted
 compositure
 coatis
 compossible
-cataleptically
 cassalty
 composted
 composts
@@ -31783,6 +31782,7 @@ cut
 collicle
 cutaneously
 counterlighting
+cataleptically
 contrastment
 circumspectively
 cutaways
