@@ -4744,6 +4744,7 @@ cavalierish
 concaving
 connotive
 chem
+chaldaei
 crosspost
 cressida
 cultigen
@@ -14142,7 +14143,6 @@ caqueteuse
 cabbalize
 circulated
 cyanhydrate
-chaldaei
 circulation
 circulations
 circulative
