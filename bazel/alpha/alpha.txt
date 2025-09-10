@@ -16659,6 +16659,7 @@ ajog
 aphemia
 ambidextrous
 aphemic
+amphithalami
 aphengoscope
 aphenoscope
 apheresis
@@ -20053,7 +20054,6 @@ arracach
 arrace
 archaized
 anticoagulate
-amphithalami
 audibertia
 ambassy
 arbalister
