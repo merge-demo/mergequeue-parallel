@@ -3814,7 +3814,6 @@ chigger
 consultively
 carbonylene
 chalukyan
-carbonimeter
 carbonimide
 choultries
 contrastimulant
@@ -25147,6 +25146,7 @@ ceptor
 coriaceous
 canichana
 coriamyrtin
+carbonimeter
 corianders
 conditional
 cuttlebones
