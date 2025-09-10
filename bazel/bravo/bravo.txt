@@ -10656,6 +10656,7 @@ bowhead
 blenheim
 binominous
 blague
+basiated
 bibl
 belap
 blennadenitis
@@ -15978,7 +15979,6 @@ broo
 bolty
 bedsock
 bialis
-basiated
 blash
 burntly
 brooder
