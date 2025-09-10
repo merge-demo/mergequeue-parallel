@@ -10679,7 +10679,6 @@ anteinitial
 aground
 amities
 amitotic
-auricles
 amitriptyline
 amitrole
 amitular
@@ -23812,6 +23811,7 @@ authored
 anisocotyly
 arabizing
 amphibologism
+auricles
 authoress
 authorhood
 acaridae
