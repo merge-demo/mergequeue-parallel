@@ -4180,6 +4180,7 @@ beaugregory
 bulbonuclear
 blackwasher
 beaumont
+blepharoptosis
 beausire
 beauteous
 beauti
@@ -10766,7 +10767,6 @@ beplumed
 bellied
 blepharoplastic
 bangboard
-blepharoptosis
 blepharosynechia
 blaewort
 blepharosphincterectomy
