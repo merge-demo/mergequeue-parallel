@@ -4461,7 +4461,6 @@ bedwarfed
 brigadiership
 blastoff
 basellaceous
-batata
 befleaing
 basaltware
 bocci
@@ -10551,6 +10550,7 @@ bobache
 bister
 brined
 branchstand
+batata
 bransle
 brigandine
 blatting
