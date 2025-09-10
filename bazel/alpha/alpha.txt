@@ -14317,6 +14317,7 @@ aepyornithidae
 arithmetizes
 answerer
 applyment
+askesis
 ackey
 assigning
 accensor
@@ -17697,7 +17698,6 @@ artemia
 arthrosclerosis
 appals
 antistatic
-askesis
 appointees
 atopy
 appointer
