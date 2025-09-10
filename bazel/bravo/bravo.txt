@@ -5168,7 +5168,6 @@ befringing
 butenes
 battu
 breezed
-backfatter
 brontograph
 befuddle
 befuddler
@@ -10095,6 +10094,7 @@ blues
 blackdamp
 bismuthous
 bennettitaceous
+backfatter
 bellhanger
 blackener
 billette

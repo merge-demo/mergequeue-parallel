@@ -6537,7 +6537,6 @@ descript
 descriptionless
 dangleberry
 distensile
-daedal
 deity
 descriptivism
 decilitre
@@ -16234,6 +16233,7 @@ decurrency
 dendrocoelous
 dourer
 dourest
+daedal
 dournesses
 douroucouli
 derrickmen
