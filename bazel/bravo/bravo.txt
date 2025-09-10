@@ -983,7 +983,6 @@ blickie
 bahoe
 bottlemaker
 bycoket
-binge
 bradytely
 bobbing
 bakuninist
@@ -7469,6 +7468,7 @@ besmoothing
 bevomiting
 bevomits
 bread
+binge
 bunchiest
 bewailers
 belimousined
