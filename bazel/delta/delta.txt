@@ -4652,7 +4652,6 @@ depose
 dermohemal
 dogplate
 dived
-dinic
 demisangue
 denarius
 dustproof
@@ -15035,6 +15034,7 @@ dehumidifiers
 destructive
 dodecarch
 dodecasemic
+dinic
 decadi
 dodecasyllable
 diethylamine
