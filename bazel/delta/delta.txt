@@ -6488,7 +6488,6 @@ descendants
 dimensioned
 dipeptid
 doughmaking
-dentellated
 disqualification
 directable
 dorsoradial
@@ -12860,6 +12859,7 @@ dyarchic
 dirhem
 dismarket
 dervishhood
+dentellated
 devotionally
 dribblets
 democratization
