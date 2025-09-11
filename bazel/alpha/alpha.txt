@@ -1032,6 +1032,7 @@ abterminal
 antarctalia
 archreactionary
 aphelion
+anthropomorphically
 abthainrie
 abubble
 abuilding
@@ -2327,7 +2328,6 @@ ackmen
 asplenioid
 acanthocephali
 alders
-anthropomorphically
 aluminized
 anoil
 ahom
