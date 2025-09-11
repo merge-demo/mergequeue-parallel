@@ -15939,6 +15939,7 @@ cleoid
 cleomes
 chimbs
 clep
+caners
 comitant
 countertrippant
 cleanly
@@ -27852,7 +27853,6 @@ crackdowns
 cyclonically
 crackedness
 clouring
-caners
 coelostat
 cracker
 coenobium
