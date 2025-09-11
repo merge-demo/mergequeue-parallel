@@ -4952,7 +4952,6 @@ caruncles
 caruncula
 crusades
 canaanites
-carunculae
 caruncular
 cohue
 carunculated
@@ -10133,6 +10132,7 @@ cahoot
 chevesaile
 chevetaine
 chevies
+carunculae
 commodores
 circumaxillary
 changed
