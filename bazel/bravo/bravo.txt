@@ -5037,6 +5037,7 @@ bandoline
 bilingual
 balefire
 backshift
+bushier
 blueback
 biocatalyst
 basenet
@@ -5900,7 +5901,6 @@ baccillla
 billet
 ballistic
 bemadam
-bushier
 bestrowing
 boviform
 babiche
