@@ -23093,7 +23093,6 @@ chirology
 conspecific
 charcuteries
 conspection
-coccosphere
 conspectus
 cullying
 colias
@@ -29786,6 +29785,7 @@ croset
 carniform
 carnalism
 calorically
+coccosphere
 crosiered
 capsumin
 circummeridian
