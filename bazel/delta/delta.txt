@@ -8010,7 +8010,6 @@ diphenylthiourea
 dogskin
 dorosternal
 dextrolimonene
-discoplacental
 dichlorobenzene
 dimethylaniline
 dimensive
@@ -8702,6 +8701,7 @@ dialectology
 diastasimetry
 devilfishes
 desalinizing
+discoplacental
 dichastasis
 dactyliomancy
 deathrate
