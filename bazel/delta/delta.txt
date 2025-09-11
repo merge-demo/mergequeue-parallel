@@ -6859,7 +6859,6 @@ desmorrhexis
 deifies
 desmoscolecidae
 desmoscolex
-desmosite
 deft
 desemer
 destabilized
@@ -16953,6 +16952,7 @@ dreadable
 daftnesses
 dreaded
 dorothea
+desmosite
 disadventurous
 disentailment
 digladiation
