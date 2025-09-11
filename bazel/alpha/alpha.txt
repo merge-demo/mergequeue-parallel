@@ -12759,7 +12759,6 @@ assot
 anglomane
 anglomania
 antifreezing
-analyzer
 accidence
 archdiocesan
 anglophil
@@ -16708,6 +16707,7 @@ angiograph
 administer
 alopecist
 abscoulomb
+analyzer
 assayable
 aphonous
 aphorise
