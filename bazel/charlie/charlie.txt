@@ -80,6 +80,7 @@ crenelate
 cabbies
 cabble
 cabbled
+circuses
 cabbler
 corydora
 cabecudo
@@ -12424,7 +12425,6 @@ chiffchaff
 chromides
 chromididae
 chromidiosome
-circuses
 carolers
 cartsale
 chromidium
