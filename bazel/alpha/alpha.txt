@@ -7348,6 +7348,7 @@ albugo
 album
 alces
 adjuvate
+ankylosis
 algedonic
 admittee
 abrus
@@ -22167,7 +22168,6 @@ astrid
 astride
 averah
 antefixal
-ankylosis
 apiculated
 argentoproteinum
 aponogetonaceous
