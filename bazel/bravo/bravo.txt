@@ -6846,6 +6846,7 @@ bajan
 burgundian
 bousoukis
 barchan
+brazilite
 bitumed
 besetment
 bund
@@ -17272,7 +17273,6 @@ bunchy
 bunchily
 bunchiness
 buncoing
-brazilite
 brickfield
 berthing
 brucellas
