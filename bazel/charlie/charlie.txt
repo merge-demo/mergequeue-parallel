@@ -4290,6 +4290,7 @@ caricaturing
 caricaturist
 courtzilite
 contaminator
+continuativeness
 courge
 chimeras
 casuists
@@ -23601,7 +23602,6 @@ chaffweed
 catlings
 continuation
 continuatively
-continuativeness
 continuator
 circumnutate
 continue
