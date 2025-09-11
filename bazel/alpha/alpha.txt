@@ -1160,7 +1160,6 @@ agriculturally
 alkahests
 acamar
 antislaveryism
-allethrin
 alchemising
 acana
 acanonical
@@ -19557,6 +19556,7 @@ arylide
 abwatts
 arillus
 arils
+allethrin
 acmesthesia
 acylal
 aryls

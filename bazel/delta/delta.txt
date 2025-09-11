@@ -16088,7 +16088,6 @@ derogations
 diphtheritis
 disaffiliating
 dimanganous
-diamylene
 doub
 downsize
 disyllable
@@ -16612,6 +16611,7 @@ draftsmanship
 draftsmen
 dyspnoic
 dengues
+diamylene
 dictyogen
 diamondbacks
 detergent
