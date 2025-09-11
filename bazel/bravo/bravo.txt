@@ -8363,7 +8363,6 @@ blams
 bromoacetone
 bikkurim
 biosynthetically
-balkier
 brokenness
 burp
 bookmen
@@ -15205,6 +15204,7 @@ beach
 brecken
 bisharin
 blueblaw
+balkier
 bestrewed
 blitzes
 bridesmaids
