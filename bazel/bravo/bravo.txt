@@ -398,7 +398,6 @@ breaststroke
 background
 beakless
 backhand
-belligerencies
 backhandedness
 brinjarry
 balkily
@@ -6001,6 +6000,7 @@ bollard
 buttstrap
 blacktail
 bemuddlement
+belligerencies
 bemuddles
 bussy
 bemuddling
