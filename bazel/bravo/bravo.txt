@@ -6273,6 +6273,7 @@ billbroking
 barrer
 brike
 benzanthracene
+bitore
 boxboard
 burglarizing
 bestowed
@@ -8322,7 +8323,6 @@ bignoniaceous
 bygo
 bygone
 bist
-bitore
 bigonial
 bigots
 bombyxes
