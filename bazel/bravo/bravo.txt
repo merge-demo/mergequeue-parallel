@@ -3219,6 +3219,7 @@ bravish
 blowzily
 basidiospore
 basidiosporous
+billman
 batiked
 bodiless
 bellowslike
@@ -13765,7 +13766,6 @@ brontide
 bambochade
 brachydactyly
 balaamite
-billman
 bowable
 bowback
 bushment
