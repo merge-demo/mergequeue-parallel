@@ -10615,7 +10615,6 @@ cubic
 conservatoire
 cosmopolis
 chilomastix
-chylomicron
 chylopericardium
 chylophylly
 classics
@@ -18126,6 +18125,7 @@ concludency
 coadjutement
 coenobiar
 cissoid
+chylomicron
 coenobioid
 contentless
 cardinalism
