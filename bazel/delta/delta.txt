@@ -2102,7 +2102,6 @@ daintify
 doline
 dingles
 diapasm
-daunts
 derelictions
 dibbuks
 designated
@@ -11693,6 +11692,7 @@ discursative
 dumbest
 discommune
 denominates
+daunts
 disburgeon
 divell
 dismemberer
