@@ -6861,6 +6861,7 @@ ceratomandibular
 clocklike
 crossable
 cranially
+corneule
 celtuce
 curiousnesses
 cembalos
@@ -25350,7 +25351,6 @@ churches
 cornetto
 committent
 causticization
-corneule
 cottaged
 champs
 cheroots
