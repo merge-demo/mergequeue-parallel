@@ -955,7 +955,6 @@ absterges
 angelican
 ambleocarpus
 antituberculin
-amphigastrula
 averages
 abstersiveness
 aggregable
@@ -19777,6 +19776,7 @@ abthainry
 archhypocrite
 armiferous
 agnoetae
+amphigastrula
 attributives
 abhenries
 accommodate
