@@ -14281,7 +14281,6 @@ bontok
 bullpates
 bhotiya
 boatlike
-bajri
 beamsman
 braggish
 bloaters
@@ -18207,6 +18206,7 @@ barium
 borated
 beshadowing
 brisken
+bajri
 beyond
 bucranium
 bandages
