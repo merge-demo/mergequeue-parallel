@@ -3957,7 +3957,6 @@ buenas
 blinky
 berchta
 bounteousness
-becrawl
 beaconless
 bicycles
 beslur
@@ -7628,6 +7627,7 @@ brummy
 bountiousness
 bezzle
 brachydactylous
+becrawl
 bumblebee
 bereareft
 backfilling
