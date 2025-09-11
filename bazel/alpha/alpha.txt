@@ -4641,7 +4641,6 @@ appointively
 antihum
 aerials
 agrologically
-aeric
 aeriest
 aerifaction
 aerification
@@ -21428,6 +21427,7 @@ aspics
 aspidiaria
 aspidinol
 aladdinize
+aeric
 angioataxia
 aspidiske
 artfully

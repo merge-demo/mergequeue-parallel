@@ -7501,6 +7501,7 @@ cimbri
 cramberry
 cursoria
 cercosporella
+chyloid
 canalisation
 cercus
 cereal
@@ -22678,7 +22679,6 @@ connubium
 corynebacterium
 connumerate
 childing
-chyloid
 calorized
 continualness
 contagiously
