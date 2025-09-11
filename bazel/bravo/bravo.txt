@@ -2241,7 +2241,6 @@ begladded
 blesboks
 blateroon
 brigid
-birdclapper
 bannerwise
 branchiopallial
 bowing
@@ -4552,6 +4551,7 @@ bespray
 borrovian
 bedbugs
 bladelike
+birdclapper
 bedchairs
 bellowing
 buntal
