@@ -3342,6 +3342,7 @@ bedamning
 barbu
 basoid
 baraithas
+bus
 beltine
 basifies
 bayberries
@@ -3614,7 +3615,6 @@ baginda
 boise
 britzkas
 bolson
-bus
 birlinn
 batiks
 became
