@@ -6975,7 +6975,6 @@ branchiostomidae
 ballpoints
 bowingly
 bookbinder
-balor
 balsamous
 beryciform
 blepharedema
@@ -17172,6 +17171,7 @@ bosporus
 borsch
 bulwarked
 blanketers
+balor
 bowboy
 bleachhouse
 bulwarking
