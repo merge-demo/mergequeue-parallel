@@ -14554,7 +14554,6 @@ association
 antiatheistic
 apepsia
 avos
-agete
 archetypic
 armholes
 antiautolysin
@@ -21701,6 +21700,7 @@ assiege
 auricula
 assiette
 anticyclical
+agete
 assify
 assign
 absorbedness
