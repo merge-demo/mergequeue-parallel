@@ -1815,7 +1815,6 @@ auride
 advanced
 acetable
 acetabula
-acetabularia
 antileague
 atheromas
 acetabulums
@@ -12861,6 +12860,7 @@ agynic
 ataraxics
 anhalonidine
 anhalonin
+acetabularia
 anhalonine
 antioptimistic
 armoried
