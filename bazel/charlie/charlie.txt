@@ -2280,6 +2280,7 @@ cobs
 cithrens
 carthaginian
 canaler
+chapteral
 chimeres
 caprone
 chylocyst
@@ -8791,7 +8792,6 @@ cymbalaria
 chapter
 canonries
 christianism
-chapteral
 chapterhouse
 chapters
 cardinalates
