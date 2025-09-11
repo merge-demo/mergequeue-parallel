@@ -14963,7 +14963,6 @@ cycler
 cytozzoa
 coelacanthoid
 citraconate
-citral
 cambaye
 citramontane
 cothurns
@@ -24675,6 +24674,7 @@ corimelaena
 copperskin
 ciderist
 coppersmith
+citral
 coppersmithing
 chafferers
 copperware
