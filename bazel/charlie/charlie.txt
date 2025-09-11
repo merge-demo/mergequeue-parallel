@@ -4084,6 +4084,7 @@ chiropractor
 cardiodynia
 calfret
 cardiogram
+corindon
 cardiographer
 crenulated
 cardiographic
@@ -25187,7 +25188,6 @@ cuffy
 creakingly
 chalastic
 corimelaenidae
-corindon
 crenelling
 corynebacteria
 coreless
