@@ -4469,7 +4469,6 @@ demesgne
 dudleyite
 dolos
 diapyesis
-demesman
 deepfreezed
 depravities
 disclimax
@@ -16690,6 +16689,7 @@ dragonish
 dragonize
 dragonroot
 deduce
+demesman
 diggings
 dilutant
 diffeomorphic
