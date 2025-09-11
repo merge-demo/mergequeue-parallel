@@ -14195,6 +14195,7 @@ bloodstroke
 bradydactylia
 bepowder
 birdfarms
+brigs
 bewaste
 besot
 belamour
@@ -15335,7 +15336,6 @@ bichir
 blousy
 babajaga
 brailling
-brigs
 bootlicks
 babylon
 brockets
