@@ -6837,6 +6837,7 @@ beastie
 bougainvillaeas
 beseemliness
 beseems
+borons
 beseen
 burglariously
 bajan
@@ -8094,7 +8095,6 @@ byrlaw
 beslubber
 beltmaker
 besieging
-borons
 bloodhound
 bidiagonal
 befouls
