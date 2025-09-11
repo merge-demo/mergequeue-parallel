@@ -10678,7 +10678,6 @@ caseoses
 corkwoods
 ctenophorous
 coprolite
-compassless
 chymia
 chymify
 cinnabaric
@@ -23492,6 +23491,7 @@ contemptuous
 contemptuously
 cruelty
 cholecystocolotomy
+compassless
 ceorlish
 contended
 contendent
