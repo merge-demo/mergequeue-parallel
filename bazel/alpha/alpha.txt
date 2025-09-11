@@ -8269,7 +8269,6 @@ adversaries
 alison
 anticomet
 aerodromics
-alisp
 autograph
 antiferroelectric
 alite
@@ -20802,6 +20801,7 @@ absenter
 avowe
 associative
 apis
+alisp
 ambulating
 alveolar
 acetifies
