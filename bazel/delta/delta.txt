@@ -4090,7 +4090,6 @@ deline
 dishonourably
 dissoluteness
 disparpling
-drivelled
 dorsicolumn
 delineated
 delineating
@@ -11228,6 +11227,7 @@ datolite
 disbands
 depopulate
 disbarring
+drivelled
 disbars
 disbrain
 dani
