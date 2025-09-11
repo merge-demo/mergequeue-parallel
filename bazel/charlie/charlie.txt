@@ -19353,6 +19353,7 @@ clodpoll
 chromoscopy
 carshop
 caryatic
+counterraid
 colonials
 colonical
 critically
@@ -27021,7 +27022,6 @@ confitent
 caneva
 chorepiscope
 celibatarian
-counterraid
 cariniform
 counterreckoning
 congoni
