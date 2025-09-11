@@ -1989,7 +1989,6 @@ achatinidae
 act
 alkalinising
 acheat
-artemisin
 altitudinal
 acheiria
 acidulousness
@@ -13358,6 +13357,7 @@ anglicizes
 anterofrontal
 annexationist
 acrylyl
+artemisin
 annexion
 atrophic
 astigmatic

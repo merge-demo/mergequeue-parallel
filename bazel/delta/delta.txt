@@ -8849,7 +8849,6 @@ depilator
 dialyzable
 deg
 dichotomal
-dibenzophenazine
 desilver
 dibenzopyrrole
 disproportionates
@@ -14651,6 +14650,7 @@ doorjambs
 disastrousness
 dysfunction
 damourite
+dibenzophenazine
 diminue
 demoralizingly
 demosthenic
