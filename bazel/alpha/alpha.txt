@@ -5896,6 +5896,7 @@ autodecomposition
 ancillary
 alible
 aquilege
+alidades
 anteversion
 addisonian
 absorptiometer
@@ -11961,7 +11962,6 @@ appels
 anasarcous
 anathematizer
 antihumanist
-alidades
 alliances
 actuaryship
 anatidae
