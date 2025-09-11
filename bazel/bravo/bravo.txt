@@ -3327,6 +3327,7 @@ beid
 batocrinus
 beal
 bifocals
+bidential
 bromargyrite
 balaghaut
 basketwork
@@ -13827,7 +13828,6 @@ bluebush
 bombardiers
 bower
 baggings
-bidential
 brewing
 bedplates
 bavaroy
