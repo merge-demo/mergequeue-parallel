@@ -22603,7 +22603,6 @@ chieftainships
 cogenial
 connectival
 cassican
-connective
 connectively
 cleidosternal
 clavichordists
@@ -30843,6 +30842,7 @@ culot
 campodeid
 compromissary
 cantut
+connective
 cabdriver
 culottism
 culpable
