@@ -3946,6 +3946,7 @@ boltspreet
 bromoiodide
 bondon
 bawtie
+banisters
 bestsellers
 beachheads
 brand
@@ -6486,7 +6487,6 @@ beaming
 backplanes
 bagel
 bookkeeping
-banisters
 birdshot
 brustled
 belzebuth
