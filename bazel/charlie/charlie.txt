@@ -1839,7 +1839,6 @@ containers
 cologne
 calicoed
 cordwains
-chickling
 cyanophil
 civvies
 catapult
@@ -9876,6 +9875,7 @@ chemoprophyalctic
 cycle
 chemoprophylactic
 cruiser
+chickling
 chromosomally
 coaxer
 candent
