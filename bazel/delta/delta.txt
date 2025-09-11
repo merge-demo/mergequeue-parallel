@@ -13759,7 +13759,6 @@ dreamboat
 durance
 desugaring
 degression
-damndests
 dangering
 downlooker
 disbarments
@@ -16071,6 +16070,7 @@ dislive
 doto
 devocalize
 divinail
+damndests
 disinflation
 doggoneder
 distressedly
