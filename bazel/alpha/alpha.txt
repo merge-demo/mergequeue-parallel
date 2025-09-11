@@ -14378,6 +14378,7 @@ aphototropic
 asheries
 anaplasis
 anthropomorphic
+agueproof
 amphrysian
 artifactual
 anthropomorphidae
@@ -21268,7 +21269,6 @@ aglethead
 antidraft
 arolla
 acrogenously
-agueproof
 ambulantes
 amps
 asmodeus
