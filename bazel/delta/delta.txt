@@ -8620,6 +8620,7 @@ dextrorse
 duckhouse
 dyarchies
 davis
+downwards
 dinge
 debugging
 deluding
@@ -16467,7 +16468,6 @@ defrosted
 delocalized
 dispellable
 dogtrotted
-downwards
 displacements
 deducive
 downwind

@@ -10986,7 +10986,6 @@ amouli
 anathematiser
 amovable
 apiarists
-awnings
 amove
 ampangabeite
 archsin
@@ -18726,6 +18725,7 @@ archetypes
 antilogic
 attributive
 aditus
+awnings
 asymmetrically
 archettos
 assever
