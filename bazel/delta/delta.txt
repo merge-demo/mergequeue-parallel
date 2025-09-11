@@ -577,6 +577,7 @@ decoratory
 dandydom
 devocate
 doesnt
+dopester
 disfranchiser
 deadpanning
 detractively
@@ -11129,7 +11130,6 @@ doctordom
 deedy
 debated
 difluoride
-dopester
 denumerability
 dialyser
 decernment
