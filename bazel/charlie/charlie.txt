@@ -3255,7 +3255,6 @@ corns
 capito
 clingier
 contrib
-corregimiento
 capitoline
 capitolium
 capitula
@@ -13906,6 +13905,7 @@ caviars
 cynoglossum
 cynognathus
 cirripeds
+corregimiento
 cynoid
 contributiveness
 coadjacently
