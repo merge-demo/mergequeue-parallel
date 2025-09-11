@@ -5400,6 +5400,7 @@ donataries
 droughtier
 decan
 decard
+ductus
 denuder
 dermolysis
 douched
@@ -8253,7 +8254,6 @@ diageotropic
 diaglyphic
 desmopelmous
 dell
-ductus
 distrito
 deliver
 dysesthetic
