@@ -5046,6 +5046,7 @@ dexiocardia
 densification
 denaturalised
 denaturalising
+digenic
 denaturalized
 dueller
 denaturing
@@ -16790,7 +16791,6 @@ drammage
 dramme
 drammed
 dottler
-digenic
 dec
 dioecious
 distributedly
