@@ -12303,7 +12303,6 @@ disendowed
 drawing
 distrusting
 dromonds
-degreasing
 disgorges
 dustermen
 dromedarist
@@ -15711,6 +15710,7 @@ dismissed
 defaulters
 domina
 dartoic
+degreasing
 dissentaneous
 decoders
 danaite
