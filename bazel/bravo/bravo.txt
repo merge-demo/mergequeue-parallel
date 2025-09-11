@@ -11841,6 +11841,7 @@ birthstones
 bodywork
 bodyworks
 bodkin
+bicellular
 boardlike
 barmybrained
 bended
@@ -17275,7 +17276,6 @@ buncoing
 brazilite
 brickfield
 berthing
-bicellular
 brucellas
 basilosaurus
 ballam
