@@ -4345,7 +4345,6 @@ adventively
 aciduria
 apaesthesia
 alimenter
-assassination
 allegorism
 amounting
 acrography
@@ -5050,6 +5049,7 @@ avernal
 afterpart
 afara
 accend
+assassination
 aguinaldo
 ambiency
 afd
