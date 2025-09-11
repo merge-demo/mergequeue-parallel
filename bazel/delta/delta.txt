@@ -13062,6 +13062,7 @@ dance
 dithecous
 denticule
 dispeed
+damlike
 demigorge
 dispark
 declarer
@@ -17467,7 +17468,6 @@ dermopteran
 doorweed
 dropt
 dropwort
-damlike
 dogal
 doohickeys
 dogeships

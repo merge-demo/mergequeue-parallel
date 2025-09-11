@@ -8735,7 +8735,6 @@ afifi
 allocating
 apocholic
 asthmatics
-allocations
 afterdated
 attal
 amender
@@ -23871,6 +23870,7 @@ algicides
 angster
 aphacial
 autoassimilation
+allocations
 antarchistic
 anisopleurous
 abandons
