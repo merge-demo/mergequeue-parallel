@@ -6533,7 +6533,6 @@ calotypic
 cebian
 cecidogenous
 cebid
-cebidae
 creat
 casbahs
 contributors
@@ -22910,6 +22909,7 @@ conservatorial
 carotic
 conservatorium
 crystograph
+cebidae
 conservators
 conservatorship
 capriciously
