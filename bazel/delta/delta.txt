@@ -3511,6 +3511,7 @@ defunction
 dollface
 deul
 disfrock
+digestion
 dislimb
 disenchanter
 disinvest
@@ -15301,7 +15302,6 @@ discopodous
 doitkin
 debituminization
 diestocks
-digestion
 dokmarok
 decart
 dandriffy
