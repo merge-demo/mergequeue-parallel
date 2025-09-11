@@ -5649,6 +5649,7 @@ archways
 agrised
 amplifier
 ashmen
+archaizes
 awacs
 apickaback
 ancestor
@@ -19409,7 +19410,6 @@ argonon
 argons
 argosy
 argot
-archaizes
 antimediaeval
 argots
 arguable
