@@ -2009,7 +2009,6 @@ dumbed
 dimorphic
 disunified
 desugars
-dorsiflex
 decaedron
 decaffeinate
 depicted
@@ -5117,6 +5116,7 @@ disulphoxide
 detachedly
 dextrously
 dekameters
+dorsiflex
 dilleniaceae
 deterministic
 downgrading
