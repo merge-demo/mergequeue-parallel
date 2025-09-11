@@ -2639,7 +2639,6 @@ buckstall
 bedumbs
 bescour
 befriend
-bogyisms
 bibliothecas
 blackcods
 bodicemaker
@@ -3732,6 +3731,7 @@ blowpipe
 boing
 brahmanic
 biologese
+bogyisms
 beachwear
 battues
 broose
