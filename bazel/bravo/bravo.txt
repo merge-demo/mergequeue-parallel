@@ -7546,7 +7546,6 @@ bewitchingness
 beleve
 bullsticker
 bewizard
-blandished
 bimolecular
 beeyard
 beworn
@@ -15765,6 +15764,7 @@ burfish
 blawing
 biders
 broncho
+blandished
 beignet
 bulled
 bovicide
