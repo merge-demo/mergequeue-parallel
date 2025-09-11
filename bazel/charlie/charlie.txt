@@ -7678,7 +7678,6 @@ ceroplastics
 cyanocrystallin
 chastises
 cabas
-chorogi
 cerotypes
 confirmedly
 cerous
@@ -11105,6 +11104,7 @@ chivalresque
 cowshot
 chaum
 cosovereign
+chorogi
 controllableness
 chivaree
 compear
