@@ -3297,7 +3297,6 @@ admirableness
 addend
 anaerobically
 avenine
-ambulative
 archigonic
 antedonin
 addendums
@@ -17029,6 +17028,7 @@ antipopulism
 adrenosterone
 ameliorator
 anatomic
+ambulative
 autolesion
 aga
 atropa
