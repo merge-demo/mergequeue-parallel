@@ -18910,7 +18910,6 @@ colinus
 carolina
 colyonic
 coliphage
-colyone
 colipuncture
 coliseum
 colicwort
@@ -22062,6 +22061,7 @@ conflate
 colauxe
 clarinos
 cumaceous
+colyone
 canellaceae
 catoptromancy
 calcinize
