@@ -13363,7 +13363,6 @@ cyclostomes
 clarist
 cyclostomi
 cedent
-coenobite
 contractile
 czarists
 cocooned
@@ -13479,6 +13478,7 @@ cylindricity
 cylindricule
 cylindriform
 calpack
+coenobite
 cylindrocylindric
 calloused
 counterfeiter
