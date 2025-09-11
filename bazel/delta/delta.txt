@@ -458,7 +458,6 @@ deities
 diplogenic
 downloaded
 dextrosinistrally
-dhourra
 dinted
 dairous
 dairt
@@ -6472,6 +6471,7 @@ daubingly
 dromaeus
 disbark
 dandruffs
+dhourra
 dorsifixed
 desmotrope
 disencumberment
