@@ -6780,6 +6780,7 @@ decretalist
 desirer
 drachma
 daira
+deadbeat
 deftnesses
 desires
 dyarchy
@@ -8618,7 +8619,6 @@ discolored
 deathin
 disrated
 douanier
-deadbeat
 dehydrant
 dextrorse
 duckhouse
