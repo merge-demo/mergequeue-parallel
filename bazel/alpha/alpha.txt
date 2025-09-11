@@ -5775,7 +5775,6 @@ agglutinatively
 aarrghh
 agamobium
 aligners
-agglutinize
 agglutinogen
 agglutinoscope
 acclaiming
@@ -14613,6 +14612,7 @@ ageism
 amphogeny
 antibubonic
 antibug
+agglutinize
 amate
 autopneumatic
 archmilitarist
