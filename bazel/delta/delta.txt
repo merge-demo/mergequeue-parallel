@@ -697,7 +697,6 @@ damselfishes
 disbody
 damsons
 ductule
-dactylics
 dissonous
 durned
 disembowelling
@@ -6572,6 +6571,7 @@ desegmentation
 dynamiters
 detache
 deal
+dactylics
 disordination
 decorums
 deuteroglobulose
