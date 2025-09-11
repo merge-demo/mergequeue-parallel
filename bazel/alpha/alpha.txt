@@ -16919,7 +16919,6 @@ aegle
 archicoele
 apneumonous
 agrammatical
-alipterion
 apneusis
 apneustic
 apnoea
@@ -18513,6 +18512,7 @@ anvilled
 arcatures
 acraeinae
 arcboutant
+alipterion
 arccos
 astrocaryum
 arced
