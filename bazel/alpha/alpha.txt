@@ -1005,6 +1005,7 @@ apiology
 abstrusity
 anoia
 adlai
+amnic
 abstrusities
 aphlaston
 amoretti
@@ -12656,7 +12657,6 @@ aeneolithic
 asynapsis
 angiopressure
 angiorrhagia
-amnic
 angiosarcoma
 ascher
 armorwise
