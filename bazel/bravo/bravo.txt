@@ -3458,7 +3458,6 @@ banuyo
 basural
 bovarism
 basuto
-berme
 baitylos
 bridgebuilding
 bilinguar
@@ -17427,6 +17426,7 @@ buphthalmum
 buplever
 buprestidae
 backspins
+berme
 baskerville
 bena
 biosystematics
