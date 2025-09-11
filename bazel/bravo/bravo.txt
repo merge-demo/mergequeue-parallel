@@ -9598,7 +9598,6 @@ bisischiatic
 bauera
 bisk
 breathily
-bisks
 bysmalith
 boulder
 bladed
@@ -13841,6 +13840,7 @@ begins
 bighearted
 bagreef
 bedust
+bisks
 bergsonian
 baptizes
 bastiles
