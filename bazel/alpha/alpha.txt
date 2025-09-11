@@ -1220,7 +1220,6 @@ acanthuridae
 argyric
 ani
 acanthuthi
-acronymically
 afflictions
 articulator
 adelite
@@ -1587,6 +1586,7 @@ accoutres
 accredit
 argenteum
 accreditate
+acronymically
 administrators
 archpresbyter
 anhinga
