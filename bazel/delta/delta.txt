@@ -1478,7 +1478,6 @@ dcb
 disservice
 depressure
 demilitarizes
-deaccessioning
 drawbolt
 dingbats
 dowsets
@@ -8540,6 +8539,7 @@ donaries
 detract
 decarburize
 divinations
+deaccessioning
 diapedeses
 deerwood
 diapedetic
