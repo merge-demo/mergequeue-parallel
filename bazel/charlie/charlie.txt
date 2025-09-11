@@ -6580,6 +6580,7 @@ ceding
 cosheath
 cimices
 chromule
+cahnite
 cedrat
 cedrate
 cedrela
@@ -29983,7 +29984,6 @@ crouched
 corbelling
 crouches
 crouchie
-cahnite
 cacothesis
 crankiest
 cassiri
