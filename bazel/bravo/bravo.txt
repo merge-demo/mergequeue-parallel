@@ -8013,7 +8013,6 @@ bicorn
 bourrelet
 boatman
 buckbeans
-bries
 blowbacks
 busked
 buts
@@ -13386,6 +13385,7 @@ bioelectricities
 bothriocephalus
 brosimum
 bothrium
+bries
 barcone
 bothrodendron
 blackcap
