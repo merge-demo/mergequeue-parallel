@@ -6537,7 +6537,6 @@ archaeol
 ailuropoda
 ailurus
 ageustia
-aimak
 appertinent
 azotin
 autotomized
@@ -18706,6 +18705,7 @@ acneform
 ascolichenes
 ankhs
 archeopteryx
+aimak
 antecedaneous
 antidumping
 anastomose
