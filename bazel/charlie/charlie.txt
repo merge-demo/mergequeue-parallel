@@ -8656,6 +8656,7 @@ chantership
 consortia
 chanteur
 chanteuse
+cossacks
 codiales
 chanteuses
 chanticleers
@@ -31052,7 +31053,6 @@ cumulativeness
 countersunk
 caphtor
 chattels
-cossacks
 clinked
 carmagnole
 clearers
