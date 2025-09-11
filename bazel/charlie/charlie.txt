@@ -16185,7 +16185,6 @@ cestidae
 climatographical
 climatology
 climatological
-conductitious
 climatometer
 climaxed
 ctf
@@ -21977,6 +21976,7 @@ coseismic
 confidence
 confidency
 cosmogenic
+conductitious
 clothesman
 confident
 compressibilities
