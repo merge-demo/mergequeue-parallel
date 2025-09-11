@@ -3310,6 +3310,7 @@ beguilers
 besotment
 basked
 baggiest
+breakable
 blatters
 beings
 bathflower
@@ -12947,7 +12948,6 @@ booziest
 bookmate
 balawu
 banditti
-breakable
 bonanza
 butterball
 banausic
