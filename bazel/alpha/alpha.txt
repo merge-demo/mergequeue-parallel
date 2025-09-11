@@ -5681,7 +5681,6 @@ agatized
 agatizes
 agatizing
 agatoid
-alarbus
 assoiled
 age
 ageable
@@ -16444,6 +16443,7 @@ apaesthetic
 astronautic
 apaesthetize
 articulatory
+alarbus
 apagoge
 anophthalmus
 apagogic
