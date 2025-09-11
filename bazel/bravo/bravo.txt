@@ -15357,7 +15357,6 @@ benetted
 bifurcations
 boxthorns
 bobac
-battledoring
 bagged
 brilliandeer
 budgerigars
@@ -15575,6 +15574,7 @@ barley
 blastomas
 brits
 bridlewise
+battledoring
 belgic
 boza
 barotaxis
