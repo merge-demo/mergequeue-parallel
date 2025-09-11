@@ -3081,6 +3081,7 @@ disestablisher
 disbodied
 demihuman
 destructibleness
+disposability
 delegating
 desmoneme
 dihydrite
@@ -13292,7 +13293,6 @@ dineric
 disportment
 despise
 dangerfully
-disposability
 delineatory
 decohesion
 disposed
