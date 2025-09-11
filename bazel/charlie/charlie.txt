@@ -3030,6 +3030,7 @@ cucumber
 cantoria
 cardsharps
 crystallographic
+cubalaya
 cantoris
 cantors
 cerebrational
@@ -23685,7 +23686,6 @@ curat
 capmakers
 codomain
 cyanides
-cubalaya
 countableness
 contracyclical
 contractable
