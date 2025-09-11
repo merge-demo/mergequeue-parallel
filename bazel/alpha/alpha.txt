@@ -17025,7 +17025,6 @@ adverb
 apodyterium
 azotizing
 antipriesthood
-apoenzyme
 apofenchene
 apogaeic
 antipopulism
@@ -18313,6 +18312,7 @@ autoecious
 araponga
 anteroposterior
 anthurium
+apoenzyme
 araquaju
 atherosperma
 arar
