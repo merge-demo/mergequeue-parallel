@@ -9520,6 +9520,7 @@ con
 commonize
 casehardens
 cricotracheotomy
+cloistral
 comprehensibility
 checkrein
 checkroll
@@ -16616,7 +16617,6 @@ contorting
 cantish
 capsules
 cloisterwise
-cloistral
 concoagulation
 chamisos
 cloke
