@@ -10045,7 +10045,6 @@ autocopist
 antidiphtheric
 aniconic
 ambrite
-ambroid
 ambrosiaceae
 ambrosiate
 ambrosin
@@ -13723,6 +13722,7 @@ athletics
 anotta
 anounou
 affix
+ambroid
 anour
 asher
 anovesical
