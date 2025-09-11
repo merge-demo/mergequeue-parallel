@@ -2990,6 +2990,7 @@ canty
 coyest
 canticle
 carne
+centillionth
 campesino
 canticles
 conquerableness
@@ -7071,7 +7072,6 @@ catamited
 coagule
 clunker
 cadent
-centillionth
 centiloquy
 cumaldehyde
 canton
