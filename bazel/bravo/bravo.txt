@@ -5343,7 +5343,6 @@ burly
 birne
 begrett
 blithesome
-bethumped
 begrimed
 bandusian
 bedeafened
@@ -9392,6 +9391,7 @@ bosomed
 backgrounds
 bezils
 beneficially
+bethumped
 bulimiac
 baccheion
 bandwidths
