@@ -7245,7 +7245,6 @@ conehead
 centuries
 cupidone
 cataractous
-calombo
 chimera
 clamper
 chimar
@@ -9828,6 +9827,7 @@ chemiotactic
 chemiotaxic
 chemiotaxis
 chemiotropic
+calombo
 cerebropsychosis
 chemise
 chemisette
