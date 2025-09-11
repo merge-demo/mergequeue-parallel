@@ -5986,6 +5986,7 @@ consonantism
 catnaper
 codling
 coagulable
+coddle
 catnapping
 chromamamin
 caddle
@@ -17839,7 +17840,6 @@ codas
 couchings
 cardialgic
 coddy
-coddle
 calculous
 coddles
 codebooks
