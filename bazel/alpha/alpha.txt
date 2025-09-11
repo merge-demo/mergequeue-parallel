@@ -8707,7 +8707,6 @@ allium
 alliums
 alants
 antiministerialist
-allivalite
 arthropyosis
 apodictic
 allo
@@ -19878,6 +19877,7 @@ armpiece
 astrolater
 aquamaniles
 ananthropism
+allivalite
 aramis
 aldononose
 anchusine
