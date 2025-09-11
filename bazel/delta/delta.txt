@@ -6856,7 +6856,6 @@ deadflat
 deltic
 domesticative
 derivative
-desmopathology
 desmopexia
 diaphanometry
 deheathenize
@@ -16654,6 +16653,7 @@ decompile
 disclaims
 daman
 dissimilated
+desmopathology
 denunciate
 demifusion
 dragonade
