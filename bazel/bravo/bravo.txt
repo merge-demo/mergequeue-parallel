@@ -7058,7 +7058,6 @@ bastardies
 blurters
 bicarbs
 bespoke
-boethusian
 birdsong
 briards
 basso
@@ -7544,6 +7543,7 @@ bewitcher
 bewitches
 bombacaceous
 basilics
+boethusian
 bryological
 beswink
 boons
