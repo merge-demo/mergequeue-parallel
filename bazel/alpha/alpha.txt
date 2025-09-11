@@ -2241,7 +2241,6 @@ amenity
 acidulant
 antemeridian
 acidulate
-acidulated
 alaunian
 azuline
 anticommercialist
@@ -16658,6 +16657,7 @@ accidentals
 anteaters
 abjudicating
 aphanitic
+acidulated
 armours
 aphidivorous
 aphidlion
