@@ -17140,7 +17140,6 @@ araneiform
 anaerobian
 apolunes
 apolusis
-anatosaurus
 asiderite
 amoebiasis
 apomecometer
@@ -23373,6 +23372,7 @@ adversity
 achaemenidian
 antiantidote
 aquiform
+anatosaurus
 andabatism
 agitable
 ancientism
