@@ -11427,6 +11427,7 @@ cotta
 choanophorous
 cataplasm
 choate
+coldfinch
 cautioned
 chobie
 cabinetry
@@ -15371,7 +15372,6 @@ clanked
 choledocholithotomy
 clanking
 chlorimetry
-coldfinch
 clankingly
 cornfloor
 clankless
