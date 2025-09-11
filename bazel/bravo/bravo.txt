@@ -9018,6 +9018,7 @@ bandagist
 bicolours
 buzzwords
 biorhythm
+batwomen
 brainwashers
 butyrins
 biorhythmicity
@@ -13456,7 +13457,6 @@ brayer
 bottlenose
 bottlers
 bottlestone
-batwomen
 baptismal
 bottling
 biunity
