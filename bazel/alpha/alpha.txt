@@ -16733,7 +16733,6 @@ anolyte
 amphistylar
 aphrodision
 aphrodistic
-aphrodite
 archrascal
 axiomatically
 agname
@@ -17858,6 +17857,7 @@ arrogantness
 authorling
 aboil
 apostolize
+aphrodite
 ablate
 axillae
 appropriating
