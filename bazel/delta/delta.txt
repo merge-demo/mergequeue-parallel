@@ -818,6 +818,7 @@ divergencies
 directivity
 dn
 deiparous
+defacto
 drunkenly
 dhanush
 danglingly
@@ -3046,7 +3047,6 @@ decongestive
 dwayberry
 diminutiveness
 defacing
-defacto
 defade
 defaitiste
 doleful
