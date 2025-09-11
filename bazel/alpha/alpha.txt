@@ -17542,6 +17542,7 @@ agathodaemon
 addressee
 antheximeter
 appendotome
+antipendium
 astroid
 adjoining
 amphibiously
@@ -18349,7 +18350,6 @@ abrenunciation
 appleringy
 arbela
 ambuscading
-antipendium
 angulate
 antitussive
 arber
