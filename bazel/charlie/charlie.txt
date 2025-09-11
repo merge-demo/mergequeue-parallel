@@ -8377,6 +8377,7 @@ chameleonlike
 cantilena
 cckw
 cultrirostral
+chrysis
 chamfer
 cabirean
 chamfers
@@ -12190,7 +12191,6 @@ chemosensitivity
 cynodon
 calescent
 chrysippus
-chrysis
 chebulinic
 conjuncted
 cottidae
