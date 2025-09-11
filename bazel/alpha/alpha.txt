@@ -6929,7 +6929,6 @@ acalypha
 antigay
 akhissar
 agaricin
-akhoond
 abnerval
 akhundzada
 afterfermentation
@@ -13120,6 +13119,7 @@ aculeated
 antiphilosophical
 achaemenian
 anisocytosis
+akhoond
 acanthopteran
 aval
 apograph
