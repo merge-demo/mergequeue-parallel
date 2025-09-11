@@ -13158,6 +13158,7 @@ ciceronian
 chiaroscuro
 clon
 ciceronianisms
+cuckooing
 ciceronianist
 compellability
 czaritza
@@ -23708,7 +23709,6 @@ calpul
 couter
 ceratodontidae
 contradictable
-cuckooing
 cerusite
 compass
 contradictedness
