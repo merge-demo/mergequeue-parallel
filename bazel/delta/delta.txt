@@ -3877,7 +3877,6 @@ dejection
 dumplings
 devested
 detick
-derivation
 dejeration
 dejeuner
 dekagramme
@@ -9532,6 +9531,7 @@ donatives
 decelerator
 delfts
 dialysers
+derivation
 demiurge
 dights
 dextrocular
