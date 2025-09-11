@@ -7069,7 +7069,6 @@ accommodative
 adrammelech
 alalonga
 aurodiamine
-alalus
 acylamidobenzene
 androl
 arduously
@@ -12597,6 +12596,7 @@ anginose
 applewood
 automation
 anginous
+alalus
 apocenter
 anagrammatized
 areality
