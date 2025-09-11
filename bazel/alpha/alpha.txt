@@ -651,7 +651,6 @@ aimara
 apostrophation
 abonnement
 aborad
-aboral
 aborally
 aboriginality
 anhydrosis
@@ -21982,6 +21981,7 @@ asterolepis
 audiometrist
 asterope
 amnestic
+aboral
 accordature
 amphibichnite
 anaunter
