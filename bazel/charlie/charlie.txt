@@ -19291,7 +19291,6 @@ couma
 cousins
 colluvium
 copolymerous
-cooperating
 colmars
 cisandine
 copied
@@ -29153,6 +29152,7 @@ characid
 crippleness
 cripples
 creaser
+cooperating
 capillarity
 coxarthropathy
 cystomatous
