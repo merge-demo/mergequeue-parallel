@@ -5203,7 +5203,6 @@ doghole
 doyen
 deathly
 disserviceableness
-diaheliotropic
 detruncating
 devoid
 destructors
@@ -7435,6 +7434,7 @@ dantomania
 duncifying
 detectability
 detouring
+diaheliotropic
 deactivation
 dermacentor
 dipsie
