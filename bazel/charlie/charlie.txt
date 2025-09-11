@@ -7306,6 +7306,7 @@ chimbly
 corslets
 cephalobranchiata
 chelicera
+chervonetz
 chronometrical
 cerusites
 carks
@@ -12493,7 +12494,6 @@ carboxide
 creamers
 cantonments
 crinated
-chervonetz
 chromonemal
 coincidences
 calantas
