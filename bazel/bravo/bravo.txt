@@ -6728,7 +6728,6 @@ bestials
 belauds
 bert
 blowhole
-boston
 berteroa
 berthas
 bulkages
@@ -16178,6 +16177,7 @@ bloodguilt
 brassy
 brownnoser
 beachmen
+boston
 bubo
 blockading
 bluenesses
