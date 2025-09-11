@@ -5779,6 +5779,7 @@ disjoint
 decasualizing
 depolymerize
 depolished
+dug
 deaconed
 depoliticized
 definers
@@ -10455,7 +10456,6 @@ despend
 diphenylenimine
 driveller
 ditcher
-dug
 dogmatic
 decomposable
 diodon
