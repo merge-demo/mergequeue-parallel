@@ -5035,7 +5035,6 @@ aphoria
 anamorphism
 aetomorphae
 actinocarpic
-aetosaurus
 almohade
 aettekees
 aspergillus
@@ -12833,6 +12832,7 @@ angulus
 antepone
 anticomplementary
 angust
+aetosaurus
 antinihilism
 auxoamylase
 auronal
