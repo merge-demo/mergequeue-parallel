@@ -4128,6 +4128,7 @@ boloroot
 beefiness
 barkening
 brawled
+beknot
 beastlike
 bodywise
 bolstering
@@ -11152,7 +11153,6 @@ buhrstone
 bloodthirster
 beliquors
 bacillariaceous
-beknot
 bitewings
 breveted
 bumelia
