@@ -4638,6 +4638,7 @@ brininess
 bedimple
 bedimpling
 bulllike
+bourd
 bluegown
 ballpoint
 bobsleds
@@ -12654,7 +12655,6 @@ blockheadedness
 bulbine
 brittler
 boogum
-bourd
 bolshevism
 blunderheaded
 baile
