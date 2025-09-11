@@ -4298,6 +4298,7 @@ backrushes
 burbankism
 blockishness
 beche
+bused
 belout
 becheck
 broilingly
@@ -8051,7 +8052,6 @@ bkbndr
 biddability
 biddably
 benedict
-bused
 bdle
 bibliology
 bulbiferous
