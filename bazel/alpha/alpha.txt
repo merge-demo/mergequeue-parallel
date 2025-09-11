@@ -18615,6 +18615,7 @@ amblyopia
 archcrown
 aliipoe
 arthrosterigma
+attainder
 amerveil
 archd
 archdeaconries
@@ -25355,7 +25356,6 @@ armit
 angiosis
 azoth
 azothionium
-attainder
 azotic
 azotises
 azotize
