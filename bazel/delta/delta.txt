@@ -683,6 +683,7 @@ dampers
 dudgeons
 discrete
 donnard
+delimes
 depermed
 dampne
 dyehouse
@@ -4065,7 +4066,6 @@ delignification
 demurringly
 delimed
 disquisitory
-delimes
 duskiness
 decreaseless
 deliming
