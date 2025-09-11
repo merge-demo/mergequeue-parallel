@@ -4978,7 +4978,6 @@ carving
 curses
 carvings
 carvoeira
-carvoepra
 carwash
 clamatorial
 chider
@@ -20055,6 +20054,7 @@ commem
 commemorate
 compressibly
 commemorated
+carvoepra
 commemorates
 commemoration
 commemorative
