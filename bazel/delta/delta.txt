@@ -5401,7 +5401,6 @@ decan
 decard
 ductus
 denuder
-dermolysis
 douched
 dialysation
 denaturiser
@@ -9777,6 +9776,7 @@ disapprovable
 disguster
 decolourization
 dilatometer
+dermolysis
 dilatometrically
 demiking
 dynamometers
