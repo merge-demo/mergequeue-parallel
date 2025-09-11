@@ -22278,7 +22278,6 @@ circumlocutional
 conglobating
 cobhead
 cameleers
-crewman
 congenerousness
 cycas
 curiums
@@ -25604,6 +25603,7 @@ corpsy
 corpsman
 corpulences
 coprah
+crewman
 corpulencies
 clankum
 corsair
