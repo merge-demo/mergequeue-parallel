@@ -6692,6 +6692,7 @@ bathmotropic
 berossos
 bendability
 berreaves
+brasser
 bisso
 bolos
 brandywine
@@ -9028,7 +9029,6 @@ bios
 bargander
 biosciences
 bestrows
-brasser
 boylikeness
 bioscopy
 bioscopic
