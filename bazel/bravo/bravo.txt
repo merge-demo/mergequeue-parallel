@@ -4105,6 +4105,7 @@ bearish
 bigoniac
 bronchoscopic
 belinuridae
+bullish
 belltopper
 broths
 bolder
@@ -9587,7 +9588,6 @@ bulleting
 bedlike
 biggening
 breaches
-bullish
 bisymmetry
 bushily
 bandmasters
