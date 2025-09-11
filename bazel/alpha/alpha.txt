@@ -13856,7 +13856,6 @@ ablatively
 antarctogaea
 amphitropal
 antas
-antatrophic
 archaeornithes
 athamantin
 ante
@@ -23882,6 +23881,7 @@ autobuses
 anglo
 antilogarithms
 antipool
+antatrophic
 antemetallic
 animatingly
 apostatised
