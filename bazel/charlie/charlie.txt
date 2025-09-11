@@ -15889,6 +15889,7 @@ chesterfields
 chronomancy
 cleft
 cleidagra
+contradictious
 calms
 chamal
 cadaverize
@@ -23714,7 +23715,6 @@ chylocaulously
 cabezons
 colliquament
 contradiction
-contradictious
 contradictiousness
 contradictory
 contradicts
