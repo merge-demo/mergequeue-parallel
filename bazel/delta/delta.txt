@@ -15310,6 +15310,7 @@ dialectalize
 doli
 deuterogamy
 dyslogistically
+detects
 dialystaminous
 dolcemente
 diagnosable
@@ -15924,7 +15925,6 @@ drupose
 distinctor
 dorsiduct
 does
-detects
 deluge
 dissertations
 demidome
