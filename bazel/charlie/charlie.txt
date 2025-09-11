@@ -15092,7 +15092,6 @@ civilite
 chlorines
 customhouses
 casino
-comptly
 civilizers
 coheritage
 carney
@@ -30212,6 +30211,7 @@ conglobately
 crumbed
 chooky
 corm
+comptly
 caingang
 crumble
 crumblet
