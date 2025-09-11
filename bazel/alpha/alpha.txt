@@ -10726,6 +10726,7 @@ angleworms
 amphibryous
 ascertains
 arm
+anemopathy
 ammonia
 ammoniacs
 acrisius
@@ -12362,7 +12363,6 @@ anemony
 ampulating
 asphyxiation
 anguillidae
-anemopathy
 astroscope
 antisudorific
 anemoscope
