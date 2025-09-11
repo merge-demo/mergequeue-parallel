@@ -3085,6 +3085,7 @@ actuality
 alcayde
 actualness
 allochromatic
+aplomb
 assident
 actuary
 aphis
@@ -16884,7 +16885,6 @@ aplobasalt
 anastrophia
 aplodontia
 ambitty
-aplomb
 angiorrhaphy
 amygdaliferous
 atragene
