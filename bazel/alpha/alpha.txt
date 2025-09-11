@@ -6815,7 +6815,6 @@ aberrator
 aitchpiece
 accouchements
 amphimixis
-anticonvention
 adores
 anticosine
 aith
@@ -16715,6 +16714,7 @@ aphonous
 aphorise
 aphorismer
 aphorismical
+anticonvention
 aphorismos
 avatars
 aphorist
