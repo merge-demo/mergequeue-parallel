@@ -1136,6 +1136,7 @@ biophor
 buxine
 booklore
 bladish
+bedels
 bahadur
 bioscience
 bairnly
@@ -11541,7 +11542,6 @@ balanopsidaceae
 barbecuing
 barometrograph
 blurting
-bedels
 bumblebeefish
 ballismus
 byronism
