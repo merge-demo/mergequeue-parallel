@@ -3623,7 +3623,6 @@ dichromic
 degorge
 degradative
 descending
-degraded
 degradement
 deplorers
 dozing
@@ -14439,6 +14438,7 @@ depositions
 dehydrocorydaline
 durdenite
 detainable
+degraded
 demonomanie
 divarication
 dolicholus
