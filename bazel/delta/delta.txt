@@ -6486,7 +6486,6 @@ disomatous
 descendent
 dolichosoma
 discepting
-diadromous
 dispositionally
 determinate
 dactylogram
@@ -11361,6 +11360,7 @@ dribs
 dethroned
 damocles
 damolic
+diadromous
 dumontia
 devaraja
 detector
