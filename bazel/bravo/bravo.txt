@@ -1677,7 +1677,6 @@ barbuts
 bogtrot
 ballsier
 boycotter
-ballsiest
 borrowable
 bengali
 ballweed
@@ -6942,6 +6941,7 @@ borderism
 brae
 birdyback
 besmirchers
+ballsiest
 billethead
 bioreaction
 bankfull
