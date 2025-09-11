@@ -2655,7 +2655,6 @@ basidiophore
 branchiurous
 bimensal
 bellying
-bribeable
 barling
 bortz
 bertholletia
@@ -5421,6 +5420,7 @@ boatable
 beetling
 behenic
 beans
+bribeable
 blusteringly
 bemixed
 becramp
