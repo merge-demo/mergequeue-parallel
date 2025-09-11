@@ -16067,7 +16067,6 @@ buffooneries
 bicalvous
 bdellidae
 bayogoula
-birdlore
 bodysuits
 brotheler
 bulla
@@ -17873,6 +17872,7 @@ bolshies
 barrulety
 busheling
 belabour
+birdlore
 bushelling
 boopis
 busher
