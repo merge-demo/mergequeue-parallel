@@ -9996,7 +9996,6 @@ diminution
 deeplier
 deaerates
 didactics
-dramaturgist
 doghood
 diminutive
 diotrephes
@@ -18262,6 +18261,7 @@ drumly
 debussed
 disauthentic
 disapprobative
+dramaturgist
 deuterogamist
 draffs
 divot
