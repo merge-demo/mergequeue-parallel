@@ -10305,7 +10305,6 @@ chick
 chelidosaurus
 chickabiddy
 cruse
-chemosorb
 cachoeira
 clactonian
 cyanidation
@@ -31756,6 +31755,7 @@ cervisial
 chemicovital
 customers
 ceratofibrous
+chemosorb
 collock
 controvertist
 copresent
