@@ -3287,7 +3287,6 @@ caplins
 coherald
 capmaking
 combatter
-capnoides
 creaker
 colonizes
 capnomancy
@@ -17756,6 +17755,7 @@ comoid
 charmeuse
 cockaigne
 cockal
+capnoides
 cockpit
 couched
 chemosmoic
