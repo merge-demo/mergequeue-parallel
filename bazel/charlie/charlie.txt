@@ -10929,7 +10929,6 @@ chirographical
 chirolas
 curators
 chirological
-chirologically
 classicalness
 cartelism
 cabret
@@ -28376,6 +28375,7 @@ crystallized
 creak
 catalecticant
 caesarize
+chirologically
 creaky
 crotcheting
 clitoridectomies
