@@ -11719,7 +11719,6 @@ anaximandrian
 amphicome
 analogical
 amidomyelin
-analogise
 anteroventral
 analogize
 analogon
@@ -21349,6 +21348,7 @@ anatira
 afshah
 anthologise
 anosmatic
+analogise
 aegagropiles
 aikido
 aspergillin
