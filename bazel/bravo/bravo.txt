@@ -234,7 +234,6 @@ brainpower
 bostons
 biofog
 bandlimits
-bandicoot
 baccy
 braidings
 bacciferous
@@ -15442,6 +15441,7 @@ bringers
 bodega
 bringeth
 brushiness
+bandicoot
 botanophilist
 brynhild
 blist
