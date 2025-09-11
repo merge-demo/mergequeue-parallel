@@ -11591,7 +11591,6 @@ arthralgic
 adsum
 arbalester
 alban
-amigo
 amos
 aflush
 appraisal
@@ -12264,6 +12263,7 @@ argilloarenaceous
 adventists
 andronicus
 androphagous
+amigo
 antipolitically
 adjective
 androphorous
