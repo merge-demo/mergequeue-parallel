@@ -3778,7 +3778,6 @@ carbolic
 carbolics
 centricity
 carbolising
-carbolize
 carbolizes
 carbolizing
 carmelite
@@ -25371,6 +25370,7 @@ cornhusking
 coulombic
 consummate
 corny
+carbolize
 calliphorid
 cornic
 conacaste
