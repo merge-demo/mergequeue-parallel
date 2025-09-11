@@ -6285,6 +6285,7 @@ agrotis
 arguta
 asthenopia
 apneas
+aphodus
 angiotenosis
 agua
 aguacateca
@@ -11346,7 +11347,6 @@ anime
 arthrotome
 amreeta
 amrit
-aphodus
 achitophel
 althaeas
 assumingness

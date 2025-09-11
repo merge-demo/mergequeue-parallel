@@ -2132,6 +2132,7 @@ bantu
 brahmahood
 barbellulae
 blandfordia
+birma
 botrychium
 barmie
 backup
@@ -9399,7 +9400,6 @@ basaltine
 beglue
 bemedaled
 bashes
-birma
 bernoo
 biggins
 blepharophryplasty
