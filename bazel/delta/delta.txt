@@ -4710,7 +4710,6 @@ duello
 demitranslucence
 demits
 demitted
-denticulately
 dilutive
 duties
 demiurgeous
@@ -12193,6 +12192,7 @@ dixie
 dictic
 dewooled
 dewinesses
+denticulately
 dewata
 dichloromethane
 daystreak
