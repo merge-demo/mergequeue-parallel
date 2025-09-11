@@ -395,6 +395,7 @@ backgammon
 barwares
 breaststroke
 background
+balsaminaceae
 beakless
 backhand
 backhandedness
@@ -1744,7 +1745,6 @@ baloskion
 bulbels
 belittled
 balsamation
-balsaminaceae
 byssolite
 bookrest
 beetrooty

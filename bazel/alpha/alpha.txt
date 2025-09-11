@@ -9471,6 +9471,7 @@ altos
 altostratus
 altrices
 antipart
+averager
 aglets
 atheism
 autoionization
@@ -22704,7 +22705,6 @@ adjurers
 atocha
 atoke
 alphenic
-averager
 agamid
 anyhow
 atomatic
