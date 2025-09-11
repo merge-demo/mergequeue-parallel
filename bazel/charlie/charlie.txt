@@ -19505,7 +19505,6 @@ creephole
 colorless
 cephalopagus
 carbohydrazide
-cup
 colormaker
 cornicing
 convertibleness
@@ -20663,6 +20662,7 @@ comping
 clanjamfrie
 cyclized
 compital
+cup
 compitalia
 coregonine
 clastic
