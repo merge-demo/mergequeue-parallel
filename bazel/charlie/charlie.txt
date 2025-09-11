@@ -26328,6 +26328,7 @@ cotemporanean
 cotemporaneously
 cotemporaries
 clubbable
+cur
 cozeiest
 circumsaturnian
 cotenancy
@@ -31708,7 +31709,6 @@ cuspidor
 cuspids
 cephalopodan
 cusping
-cur
 cuspis
 cuspule
 coopery
