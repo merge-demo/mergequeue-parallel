@@ -1993,6 +1993,7 @@ camlet
 camleting
 coletit
 camletted
+consignification
 cammarum
 chionanthus
 crost
@@ -22955,7 +22956,6 @@ cooptive
 countersalient
 consignificant
 cannophori
-consignification
 consignificator
 cylindroidal
 chinoidin
