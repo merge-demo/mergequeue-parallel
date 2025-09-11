@@ -5271,7 +5271,6 @@ almight
 aflat
 agons
 argans
-acumen
 albuminised
 anthroponomy
 amnionic
@@ -7850,6 +7849,7 @@ argasid
 auscultations
 aleurobius
 aleurodes
+acumen
 aleurometer
 archetypal
 aleuronat
