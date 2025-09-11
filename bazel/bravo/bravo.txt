@@ -1450,6 +1450,7 @@ bookmarks
 bops
 bedazzled
 bedye
+barbascos
 brankier
 begroan
 bight
@@ -12018,7 +12019,6 @@ brachiated
 boydekyn
 blub
 beking
-barbascos
 boyhoods
 binnacle
 balisaurs
