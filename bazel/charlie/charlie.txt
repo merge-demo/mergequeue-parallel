@@ -1413,7 +1413,6 @@ coracoscapular
 ceriornis
 carnosin
 calisayas
-chicks
 calistheneum
 curupay
 calisthenics
@@ -12285,6 +12284,7 @@ christening
 christens
 christhood
 cryptography
+chicks
 classically
 christy
 canonist
