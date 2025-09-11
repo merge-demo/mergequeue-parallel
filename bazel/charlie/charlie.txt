@@ -2085,6 +2085,7 @@ coart
 chondrosarcomata
 campanulous
 cowbells
+chewed
 campbell
 combinant
 campbellisms
@@ -10176,7 +10177,6 @@ chevrotain
 chevvy
 capsa
 cabining
-chewed
 censual
 cannulation
 condolatory
