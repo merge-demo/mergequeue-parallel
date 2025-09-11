@@ -2406,7 +2406,6 @@ disaffiliation
 devisceration
 deener
 dane
-deluding
 decimates
 dropkick
 dusken
@@ -8618,6 +8617,7 @@ dyarchies
 davis
 dinge
 debugging
+deluding
 distilment
 diary
 diaglyph
