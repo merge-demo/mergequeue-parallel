@@ -8396,7 +8396,6 @@ burblier
 bemusement
 babbage
 behaviors
-belabouring
 bilati
 boggart
 billions
@@ -8724,6 +8723,7 @@ beggars
 baptizers
 banjos
 broker
+belabouring
 binding
 bookkeep
 bindingness
