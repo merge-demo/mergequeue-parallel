@@ -8391,7 +8391,6 @@ amebocyte
 alkanol
 alkaphrah
 alkapton
-adazzle
 alkaptone
 advantage
 ascent
@@ -16461,6 +16460,7 @@ apaid
 allochetia
 aciculums
 apertures
+adazzle
 asonant
 apalit
 apanaged

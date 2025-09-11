@@ -7488,7 +7488,6 @@ defrosts
 dich
 dermoplasty
 dioeciopolygamous
-djellab
 dolichocnemic
 datiscin
 discrowned
@@ -13016,6 +13015,7 @@ drupal
 disordinance
 disordinate
 devastator
+djellab
 disconsider
 dysorexia
 dusack
