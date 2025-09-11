@@ -3179,6 +3179,7 @@ astrolabe
 amalgamators
 adai
 arrestors
+amplect
 abiogenous
 adays
 agrestal
@@ -11260,7 +11261,6 @@ ampicillin
 antonina
 ampyxes
 asperite
-amplect
 answerably
 amplectant
 arcuses
