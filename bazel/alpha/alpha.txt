@@ -14707,6 +14707,7 @@ arthropods
 accidentally
 antichronically
 amphibola
+annalist
 associates
 aswough
 antichronism
@@ -21987,7 +21988,6 @@ agnathous
 agastreae
 anerythroplastic
 asterozoa
-annalist
 ampongue
 ancestries
 antistat
