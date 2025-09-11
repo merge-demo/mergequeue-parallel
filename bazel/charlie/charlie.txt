@@ -24819,7 +24819,6 @@ coracle
 cathect
 clipeus
 calcimeter
-coracobrachialis
 cosheries
 coracoclavicular
 chompers
@@ -28929,6 +28928,7 @@ cochair
 cricotus
 cheek
 criddle
+coracobrachialis
 criey
 curiescopy
 crier
