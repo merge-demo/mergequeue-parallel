@@ -3535,6 +3535,7 @@ adenotyphus
 alphabetist
 anachoret
 alimenting
+antiscriptural
 attempre
 antidiphtheritic
 approachless
@@ -15982,7 +15983,6 @@ aposporic
 abigei
 antiscorbutical
 avirulence
-antiscriptural
 acrosphacelus
 antiseismic
 antiselene
