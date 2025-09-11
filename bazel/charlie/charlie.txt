@@ -3434,6 +3434,7 @@ caprizant
 caldron
 caproin
 camptodrome
+chavender
 capron
 causeuse
 comprehends
@@ -9353,7 +9354,6 @@ colds
 chavante
 chavel
 cursiveness
-chavender
 condemner
 compart
 chavicin

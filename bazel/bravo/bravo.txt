@@ -5732,7 +5732,6 @@ biarticular
 bicentennially
 bechalked
 boundless
-bellboys
 brachycranial
 barefaced
 belay
@@ -8077,6 +8076,7 @@ binocularity
 bourbon
 bug
 blasphemer
+bellboys
 byrlaw
 beslubber
 beltmaker
