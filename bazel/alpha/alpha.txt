@@ -3775,7 +3775,6 @@ appropriation
 adjudicate
 autarkik
 argentide
-arriccio
 apokatastatic
 adjudicated
 adjudication
@@ -7351,6 +7350,7 @@ anticapitalism
 autotriploidy
 albumenisation
 autobiographic
+arriccio
 arsmetrik
 albumeniser
 audits
