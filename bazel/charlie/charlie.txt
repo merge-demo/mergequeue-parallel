@@ -11727,7 +11727,6 @@ chondriomere
 countercultural
 cadaveric
 cru
-chondriosphere
 cahow
 cacophony
 chondrites
@@ -14839,6 +14838,7 @@ cippi
 coinferred
 collectanea
 commiseratively
+chondriosphere
 cytogenetic
 commensurateness
 cytogeny
