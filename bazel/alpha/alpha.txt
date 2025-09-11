@@ -774,7 +774,6 @@ abrogate
 allergies
 anaglyphy
 accus
-antagonisation
 abrogating
 abrogative
 angiomegaly
@@ -9681,6 +9680,7 @@ aloeswood
 amande
 amandine
 amanist
+antagonisation
 airwaybill
 amanitine
 aerifying
