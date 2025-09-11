@@ -2438,7 +2438,6 @@ defy
 decyne
 drydenian
 diaeresis
-decipherability
 doughs
 dey
 dand
@@ -15903,6 +15902,7 @@ debcle
 dorsabdominal
 dihydroxytoluene
 depicting
+decipherability
 dipsacus
 dana
 digitoxose
