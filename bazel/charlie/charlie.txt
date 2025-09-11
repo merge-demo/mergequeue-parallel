@@ -28875,7 +28875,6 @@ cacodaemon
 cellager
 colloquialism
 cribbed
-cribbing
 compensating
 cribbings
 cribbiting
@@ -29813,6 +29812,7 @@ crossbelt
 collectability
 crossbill
 capiatur
+cribbing
 crusado
 curriculums
 consentful
