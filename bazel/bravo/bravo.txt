@@ -1008,6 +1008,7 @@ brigand
 bayano
 birlie
 bewitch
+blabberer
 bourdon
 bayardly
 bordrage
@@ -13806,7 +13807,6 @@ bantams
 beshod
 bult
 brachychronic
-blabberer
 benjamite
 butters
 biocides
