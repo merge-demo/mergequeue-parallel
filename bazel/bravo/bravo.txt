@@ -8456,7 +8456,6 @@ bookworm
 birch
 butyryl
 bearhound
-bedlamic
 biliteral
 biliteralism
 beladle
@@ -12799,6 +12798,7 @@ betalk
 boomkin
 bibliophobia
 barquest
+bedlamic
 bootes
 burglary
 barnabite

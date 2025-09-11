@@ -8898,6 +8898,7 @@ allothigenic
 allothimorph
 allothimorphic
 amphisbaenae
+aythya
 aisle
 allothogenic
 astrakanite
@@ -13606,7 +13607,6 @@ anomie
 anomite
 apparatchik
 anomodont
-aythya
 anomodontia
 anomoeomery
 anticommercially
