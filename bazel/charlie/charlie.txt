@@ -1694,7 +1694,6 @@ caltraps
 caltrop
 charases
 coenosite
-caltrops
 cornification
 conceptualised
 cowleeching
@@ -9770,6 +9769,7 @@ chelidonium
 citolas
 chrysidella
 chelydre
+caltrops
 cyclonical
 churrs
 cutties
