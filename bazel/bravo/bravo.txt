@@ -1265,6 +1265,7 @@ barkers
 bedabbled
 brachiopode
 balabos
+bayards
 bashfully
 barrabkie
 balachong
@@ -6312,7 +6313,6 @@ benziminazole
 bethinking
 benzine
 blackfly
-bayards
 balarama
 bubbliness
 benzocaine
