@@ -829,7 +829,6 @@ athermous
 arithmic
 amianthoid
 absentee
-absentees
 absenters
 aflatus
 amurcosity
@@ -15952,6 +15951,7 @@ adenophyma
 antirevolution
 antirevolutionist
 antirheumatic
+absentees
 anaptyxes
 antiricin
 antiromantic
