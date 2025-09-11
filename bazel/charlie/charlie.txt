@@ -15234,7 +15234,6 @@ catamneses
 centipede
 craniata
 conforms
-cadastral
 cade
 curtailments
 copetitioner
@@ -21769,6 +21768,7 @@ condominiums
 consistorial
 condoms
 cyanoethylate
+cadastral
 condonable
 condonance
 condonation
