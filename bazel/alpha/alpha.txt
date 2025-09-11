@@ -11160,6 +11160,7 @@ appenders
 autobahn
 allthing
 amphikaryotic
+antitrismus
 atchison
 arzrunite
 amphimictic
@@ -17445,7 +17446,6 @@ appd
 ariette
 abjuratory
 acetarsone
-antitrismus
 amblyacousia
 appeachment
 antiantienzyme
