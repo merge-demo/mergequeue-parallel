@@ -9247,6 +9247,7 @@ acerose
 alphabetic
 alphabetical
 alphabetically
+artillerymen
 abbotships
 adenolymphoma
 autophytography
@@ -20659,7 +20660,6 @@ atheisms
 artilleries
 avodire
 achillein
-artillerymen
 apprehensiveness
 aurochloride
 amphicrania

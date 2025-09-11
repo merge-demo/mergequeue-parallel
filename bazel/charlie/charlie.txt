@@ -1268,7 +1268,6 @@ colunar
 calibrated
 calibrater
 calibrates
-clerestoried
 cloison
 catchwater
 calibrating
@@ -27277,6 +27276,7 @@ chemicking
 cardiologist
 comodo
 circumciser
+clerestoried
 coupure
 courage
 courageous
