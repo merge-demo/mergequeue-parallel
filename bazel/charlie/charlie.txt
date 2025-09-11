@@ -12125,7 +12125,6 @@ chowtime
 cephalocele
 chalks
 chrematheism
-chrematistic
 craniocerebral
 chremsel
 chremzlach
@@ -29549,6 +29548,7 @@ crocetin
 ceratospongiae
 croche
 condylura
+chrematistic
 crocheted
 cosmogonize
 crocheter
