@@ -1747,7 +1747,6 @@ antilepton
 ahaaina
 acerb
 acromioscapular
-acenaphthylene
 auditorily
 antieducationist
 amma
@@ -24588,6 +24587,7 @@ ambassador
 anurans
 avena
 avenant
+acenaphthylene
 apodeipna
 ailie
 avenary

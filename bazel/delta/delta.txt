@@ -5346,7 +5346,6 @@ delivery
 disappropriation
 drub
 demonio
-debe
 donnees
 dalapon
 disgruntle
@@ -18675,6 +18674,7 @@ dwarfer
 documentarily
 dwarfisms
 darwinically
+debe
 detersively
 designation
 didymis
