@@ -3294,7 +3294,6 @@ deutschemark
 dorsosternal
 dentils
 doles
-deturn
 dsect
 defis
 deafness
@@ -5840,6 +5839,7 @@ disestablishes
 dewing
 definiendum
 desistance
+deturn
 depots
 dasyure
 deprave
