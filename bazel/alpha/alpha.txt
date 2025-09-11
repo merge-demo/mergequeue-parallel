@@ -11620,7 +11620,6 @@ anaktoron
 analagous
 analav
 aquariums
-abiotrophy
 anagep
 adenophyllous
 analcimic
@@ -13524,6 +13523,7 @@ allopathies
 acarpelous
 anoetic
 alluviviums
+abiotrophy
 assyriologist
 anogenital
 anogra
