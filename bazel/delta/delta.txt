@@ -8456,7 +8456,6 @@ degreed
 dialuric
 desight
 divisibly
-desegregation
 diamagnet
 diamagnetic
 diamant
@@ -17539,6 +17538,7 @@ defrocks
 drubble
 deletery
 ducula
+desegregation
 dishwasher
 drubly
 disheartened
