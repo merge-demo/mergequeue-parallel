@@ -5436,7 +5436,6 @@ andiroba
 afters
 alumna
 aftershaft
-aftershafted
 acetylcholinic
 alabandine
 annexa
@@ -23366,6 +23365,7 @@ adversity
 antiantidote
 aquiform
 anatosaurus
+aftershafted
 andabatism
 agitable
 ancientism
