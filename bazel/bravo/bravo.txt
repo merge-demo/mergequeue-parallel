@@ -6094,7 +6094,6 @@ buntline
 brandyman
 blepharodyschroia
 benedictinism
-benedictionary
 bucolical
 briolet
 blenniiform
@@ -18098,6 +18097,7 @@ bidiurnal
 breakably
 bipalium
 brins
+benedictionary
 benzal
 bealtared
 baittle
