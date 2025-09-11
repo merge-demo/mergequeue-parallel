@@ -2819,7 +2819,6 @@ chinafish
 colius
 canoeist
 canoeload
-canoes
 cardiogenesis
 cerements
 cryptoanalyst
@@ -15836,6 +15835,7 @@ consonantised
 choanosome
 changemaker
 condescendence
+canoes
 clears
 cerealian
 cribrosity
