@@ -15294,7 +15294,6 @@ angiocholitis
 arose
 asomatophyte
 accentor
-antilogic
 amphisbaenian
 antilogistic
 argued
@@ -18725,6 +18724,7 @@ ameerates
 assassinator
 almaciga
 archetypes
+antilogic
 attributive
 aditus
 asymmetrically
