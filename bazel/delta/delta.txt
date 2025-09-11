@@ -5033,7 +5033,6 @@ dialect
 darci
 dicaryotic
 doorstead
-deemphasis
 denationalise
 dexiocardia
 densification
@@ -9739,6 +9738,7 @@ dilatants
 dilatate
 dilatative
 demimentoniere
+deemphasis
 distillations
 durometer
 drivingly
