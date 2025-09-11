@@ -2661,7 +2661,6 @@ cardiatrophia
 canikins
 cephalocereus
 canille
-canine
 canines
 caning
 calmier
@@ -8490,6 +8489,7 @@ circuitable
 comme
 categorical
 cuculoid
+canine
 corncockle
 chanceful
 chancefulness

@@ -9579,7 +9579,6 @@ antisialic
 alveary
 adventive
 alvearies
-alvearium
 alveated
 alveolariform
 ararauna
@@ -10649,6 +10648,7 @@ attitudinize
 amphirhine
 anatomiless
 atwitter
+alvearium
 apositic
 amount
 albuginitis
