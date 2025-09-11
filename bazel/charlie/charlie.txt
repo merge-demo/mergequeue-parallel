@@ -22806,7 +22806,6 @@ cardosanto
 consecratory
 consectary
 cataloes
-cardines
 consecutive
 curtailment
 consecutively
@@ -23041,6 +23040,7 @@ consonantal
 consonantalize
 compurgatory
 chlorpheniramine
+cardines
 consonantic
 cavalcade
 cholestene
