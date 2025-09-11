@@ -6553,7 +6553,6 @@ cecitis
 crosshairs
 cecomorphic
 classily
-cecopexy
 carders
 ceratinous
 catheterizes
@@ -12661,6 +12660,7 @@ cubation
 cretics
 cecidology
 contracted
+cecopexy
 canioned
 cider
 cargued
