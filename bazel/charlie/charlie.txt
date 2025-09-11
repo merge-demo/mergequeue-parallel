@@ -9947,7 +9947,6 @@ clammy
 criollo
 chiro
 chenopods
-cajuputs
 customize
 chequebook
 croup
@@ -16920,6 +16919,7 @@ clucking
 clue
 cariogenic
 clued
+cajuputs
 clueing
 clueless
 christianization
