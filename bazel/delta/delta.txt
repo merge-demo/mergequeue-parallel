@@ -9374,6 +9374,7 @@ dhoty
 dismembering
 depickle
 differentiate
+deescalates
 dioscoreaceous
 defalcates
 dewax
@@ -12152,7 +12153,6 @@ dialogism
 disallow
 dp
 deutoscolex
-deescalates
 dorbie
 diselenid
 detailedly
