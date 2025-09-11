@@ -10388,6 +10388,7 @@ bronco
 bailwood
 brimborium
 burgrave
+bulgiest
 braid
 biosynthesis
 bravado
@@ -10770,7 +10771,6 @@ boylike
 brutalise
 brosse
 braggest
-bulgiest
 bleaty
 bradford
 blacked
