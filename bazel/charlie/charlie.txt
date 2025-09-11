@@ -4598,7 +4598,6 @@ carneol
 chinas
 cholangitis
 companero
-chwana
 comptoir
 consolan
 crestmoreite
@@ -16272,6 +16271,7 @@ clinodomatic
 canzonas
 cardiamorphia
 countryish
+chwana
 chlamydosporic
 clinohedral
 celeriac
