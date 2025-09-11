@@ -4554,7 +4554,6 @@ anguillule
 aegophony
 aegrotant
 arboresque
-archiving
 alphabeted
 azazel
 askile
@@ -5578,6 +5577,7 @@ antitemperance
 ascertainer
 afloat
 ambilian
+archiving
 agamically
 agamidae
 agapae
