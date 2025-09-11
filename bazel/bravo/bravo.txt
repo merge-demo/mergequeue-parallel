@@ -3212,6 +3212,7 @@ bauta
 beknave
 bronchohemorrhagia
 baclava
+bomos
 bravish
 blowzily
 basidiospore
@@ -12353,7 +12354,6 @@ beswarmed
 bombus
 bombardelle
 bomi
-bomos
 beloveds
 bon
 backrope
