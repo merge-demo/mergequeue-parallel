@@ -13549,6 +13549,7 @@ dissceptre
 deceivance
 deconvolution
 denaturized
+disagio
 disseason
 disgood
 diphyodont
@@ -17251,7 +17252,6 @@ disentrammel
 dimensions
 dryops
 dryopteroid
-disagio
 dysmerism
 deaves
 dribbing
