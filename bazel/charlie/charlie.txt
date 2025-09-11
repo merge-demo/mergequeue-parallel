@@ -5203,6 +5203,7 @@ cassia
 cassicus
 cassidid
 cassidulina
+cohorn
 crookback
 cassiduloid
 cistus
@@ -21912,7 +21913,6 @@ cliqueyness
 conferrence
 camalig
 conferrers
-cohorn
 counterstain
 crotchet
 copyfitter
