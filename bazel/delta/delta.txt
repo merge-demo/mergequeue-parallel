@@ -3115,6 +3115,7 @@ disgout
 dissimulated
 defeatism
 drouths
+deinosaur
 defeature
 debted
 dowless
@@ -9047,7 +9048,6 @@ dudine
 doornboom
 disruption
 dicotylidae
-deinosaur
 dauerschlaf
 drowsiness
 diplomatism
