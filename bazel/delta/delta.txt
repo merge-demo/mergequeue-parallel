@@ -2541,6 +2541,7 @@ directrices
 derive
 ducklingship
 deanthropomorphize
+desynchronizing
 dangled
 detoured
 dermobranchia
@@ -7109,7 +7110,6 @@ decalescent
 degras
 diseasing
 dorsocaudal
-desynchronizing
 demonstratable
 destroy
 divisionally

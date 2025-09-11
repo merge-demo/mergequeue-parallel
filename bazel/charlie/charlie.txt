@@ -7264,6 +7264,7 @@ cepaceous
 congaing
 catalinite
 crossroads
+carpologist
 chemigraphy
 cepes
 civ
@@ -25556,7 +25557,6 @@ concertanto
 corporalship
 corporas
 corporate
-carpologist
 clatters
 christenmas
 corporateness
