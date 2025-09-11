@@ -10547,7 +10547,6 @@ amylose
 achree
 amyloses
 amylosynthesis
-amylosis
 armamentary
 amiloun
 amylum
@@ -24215,6 +24214,7 @@ assegaied
 automobile
 automobiled
 automobiles
+amylosis
 amphipyrenin
 amylogen
 alanine
