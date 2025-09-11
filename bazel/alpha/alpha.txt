@@ -8508,7 +8508,6 @@ allatrate
 abaction
 alkoxid
 allectory
-antholysis
 architectonically
 atmophile
 allegata
@@ -21016,6 +21015,7 @@ aulacomniaceae
 antarchistical
 anococcygeal
 annexal
+antholysis
 asea
 asearch
 animalculine
