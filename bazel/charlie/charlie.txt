@@ -4765,6 +4765,7 @@ cymulose
 cycling
 corallita
 classroom
+calanthe
 carracks
 chronobarometer
 carragheenin
@@ -6126,7 +6127,6 @@ caudex
 cassolette
 condoned
 concise
-calanthe
 caudle
 caudles
 caudocephalad
