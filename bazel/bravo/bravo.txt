@@ -2877,7 +2877,6 @@ berakes
 beclatter
 bestride
 badinage
-barrater
 barratries
 becrawls
 barratrously
@@ -15426,6 +15425,7 @@ brindlish
 bibliologist
 boiling
 bryndza
+barrater
 bleaters
 balloonfish
 bearskins
