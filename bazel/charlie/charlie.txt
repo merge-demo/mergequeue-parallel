@@ -16975,7 +16975,6 @@ commerces
 cluniacensian
 clunked
 clunkers
-corregidors
 crowner
 clunking
 clunter
@@ -31597,6 +31596,7 @@ catawbas
 coteau
 cleave
 cornett
+corregidors
 caulk
 cheet
 chaton
