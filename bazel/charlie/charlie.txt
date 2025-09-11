@@ -11186,7 +11186,6 @@ curtation
 caperwort
 chilopodous
 counterrecoil
-couchy
 chloranemic
 chuffs
 chloranhydride
@@ -26408,6 +26407,7 @@ calli
 cotqueans
 courbache
 cocentric
+couchy
 cotransduction
 cotransfuse
 cotranslator
