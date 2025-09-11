@@ -11836,7 +11836,6 @@ converter
 choplogic
 choplogical
 choregi
-cryptomonad
 candider
 chopper
 choppers
@@ -12166,6 +12165,7 @@ caducity
 chrysalises
 cardiaplegia
 chrysaloid
+cryptomonad
 constances
 concausal
 clonk
