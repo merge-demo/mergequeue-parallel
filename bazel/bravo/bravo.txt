@@ -8227,6 +8227,7 @@ bigaroons
 beak
 bookling
 byzantinism
+bashes
 berberine
 belittlement
 braula
@@ -9406,7 +9407,6 @@ blanket
 basaltine
 beglue
 bemedaled
-bashes
 bernoo
 biggins
 blepharophryplasty
