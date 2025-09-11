@@ -10282,6 +10282,7 @@ chichipe
 carvyl
 corometer
 convenienced
+commentaries
 charlies
 calctuffs
 chichling
@@ -17296,7 +17297,6 @@ crumple
 closecross
 coalizer
 coalless
-commentaries
 counterdrain
 coalpit
 cryptograph
