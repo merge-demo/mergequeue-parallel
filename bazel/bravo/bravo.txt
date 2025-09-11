@@ -1614,7 +1614,6 @@ benzanilide
 brahmapootra
 begem
 ballo
-blumea
 bursitises
 bassinets
 begluc
@@ -7891,6 +7890,7 @@ blockwood
 bushido
 buibui
 banate
+blumea
 balistraria
 botry
 benben
