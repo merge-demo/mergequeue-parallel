@@ -1505,7 +1505,6 @@ cosounding
 callisteia
 capsize
 callistephus
-callisthenic
 cossid
 cenotaphic
 communising
@@ -18471,6 +18470,7 @@ cognoscing
 cognoscitive
 chemitypies
 carterly
+callisthenic
 cognovit
 chrysomonadales
 cognovits
