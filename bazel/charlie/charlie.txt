@@ -2530,6 +2530,7 @@ chicaning
 commixes
 collogued
 coral
+collywest
 candlelight
 candlelighter
 chaloth
@@ -23048,7 +23049,6 @@ connivence
 cannibalizes
 consonantness
 consonants
-collywest
 clinograph
 conscriptive
 cutty

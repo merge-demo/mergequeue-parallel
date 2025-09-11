@@ -9369,6 +9369,7 @@ alter
 alterable
 altarpieces
 anerethisia
+alphabetize
 alterably
 archaeocyte
 apyrene
@@ -11526,7 +11527,6 @@ anacreon
 archurger
 anacreontically
 analgene
-alphabetize
 athens
 anacrogynae
 amba
