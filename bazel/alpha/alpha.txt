@@ -8205,6 +8205,7 @@ agnate
 amusgo
 alimentativeness
 alimented
+aberrometer
 alimentic
 autobahnen
 alabandite
@@ -12276,7 +12277,6 @@ anthropoclimatologist
 aurantium
 anear
 asphyxy
-aberrometer
 aneared
 arnement
 admensuration
