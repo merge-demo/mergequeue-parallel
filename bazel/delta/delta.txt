@@ -3647,7 +3647,6 @@ drupaceae
 daffadowndilly
 degreewise
 degressive
-dispositioned
 desulphurizing
 dactylopterus
 diathetic
@@ -12117,6 +12116,7 @@ designlessly
 defecator
 disentrail
 disentrainment
+dispositioned
 disentrance
 discostate
 disrank
