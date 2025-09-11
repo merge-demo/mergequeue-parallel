@@ -945,6 +945,7 @@ batoneer
 belligerently
 bagsful
 bequirtle
+bakshaish
 bazookaman
 breezes
 bassalian
@@ -12575,7 +12576,6 @@ baresthesia
 besets
 bluebottle
 billposting
-bakshaish
 bonspell
 buttresses
 barnacling
