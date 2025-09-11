@@ -2161,7 +2161,6 @@ albanians
 achtehalber
 amounts
 agraffes
-athetized
 antiager
 adjustage
 ampherotoky
@@ -22468,6 +22467,7 @@ article
 antanandro
 athanasia
 athanasian
+athetized
 athanasianism
 arian
 aplustra
