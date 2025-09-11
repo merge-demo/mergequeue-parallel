@@ -1287,7 +1287,6 @@ colossuses
 crawfished
 crescenting
 causalgia
-cantador
 carious
 cryptogrammatist
 chaucer
@@ -25615,6 +25614,7 @@ cannula
 closestool
 corpulentness
 converginerved
+cantador
 corpuscularian
 colombian
 confinedness
