@@ -5753,6 +5753,7 @@ depoh
 decd
 duncery
 depolarise
+decrial
 depolarization
 daydreamlike
 dernly
@@ -8473,7 +8474,6 @@ diamesogamous
 disclike
 deciares
 discombobulating
-decrial
 demioctagonal
 danglers
 dyothelete
