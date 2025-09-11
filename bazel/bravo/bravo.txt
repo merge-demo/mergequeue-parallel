@@ -14980,6 +14980,7 @@ blowtorch
 brucella
 berberi
 bankings
+bungle
 barraters
 breedable
 borderies
@@ -16813,7 +16814,6 @@ bacteriform
 bichromatic
 bathysophic
 buffoonish
-bungle
 baret
 birostrated
 beyerite
