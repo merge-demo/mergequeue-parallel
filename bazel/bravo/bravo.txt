@@ -14605,6 +14605,7 @@ backspin
 brash
 badgeman
 bucklering
+buttyman
 brasher
 boniness
 brashiest
@@ -18273,7 +18274,6 @@ boomeranging
 biovulate
 buffoonism
 bamah
-buttyman
 billage
 biblioclast
 botanizing
