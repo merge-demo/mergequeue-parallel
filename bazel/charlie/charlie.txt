@@ -12008,6 +12008,7 @@ chirality
 cognizee
 chorisis
 callo
+casanovas
 chlorins
 cyanuret
 characetum
@@ -30548,7 +30549,6 @@ cuneocuboid
 caldera
 cellarette
 cuboides
-casanovas
 charactonym
 cuboids
 chondropharyngeal
