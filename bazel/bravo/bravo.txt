@@ -5225,6 +5225,7 @@ begats
 betrothals
 bolters
 badder
+bassette
 bastes
 bothsided
 brog
@@ -14417,7 +14418,6 @@ boggled
 blackbeetle
 bingee
 benzamino
-bassette
 bathochromic
 breeds
 bowralite
