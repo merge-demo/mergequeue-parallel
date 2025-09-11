@@ -335,6 +335,7 @@ decursively
 dicast
 dayak
 dum
+dabba
 dayanim
 directories
 daybed
@@ -13888,7 +13889,6 @@ decrassified
 descenders
 distending
 dermatopathophobia
-dabba
 drowns
 dextrosuria
 disalike
