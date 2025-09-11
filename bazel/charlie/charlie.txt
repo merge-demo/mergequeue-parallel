@@ -26140,6 +26140,7 @@ cosmopolitism
 carayan
 cosmorama
 cesure
+curableness
 cosmoses
 chelura
 caked
@@ -31218,7 +31219,6 @@ correctness
 commiserator
 chetah
 curable
-curableness
 churnstaff
 coverlid
 coracler
