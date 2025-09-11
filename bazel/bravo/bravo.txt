@@ -2445,6 +2445,7 @@ bibliolater
 bares
 bounceably
 baresark
+betrinket
 backpackers
 besodden
 bononian
@@ -3025,7 +3026,6 @@ biomasses
 beigel
 braggartism
 barriness
-betrinket
 bhaktis
 boniata
 beckons
