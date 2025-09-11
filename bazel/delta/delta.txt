@@ -3103,7 +3103,6 @@ detritus
 denumberment
 defeasanced
 dialings
-defeasibility
 doorbell
 defeasive
 duplicia
@@ -6533,6 +6532,7 @@ descript
 descriptionless
 dangleberry
 distensile
+defeasibility
 deity
 descriptivism
 decilitre
