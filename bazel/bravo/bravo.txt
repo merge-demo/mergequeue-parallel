@@ -12841,7 +12841,6 @@ behorror
 bifoil
 bacchiac
 bilders
-barthian
 brachyural
 breastwise
 boong
@@ -16264,6 +16263,7 @@ baddeleyite
 bacchius
 brujeria
 botryolite
+barthian
 balalaikas
 beglerbeglik
 burntweed
