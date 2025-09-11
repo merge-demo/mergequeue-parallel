@@ -5570,7 +5570,6 @@ antitemperance
 ascertainer
 afloat
 ambilian
-archiving
 agamically
 agamidae
 agapae
@@ -8880,6 +8879,7 @@ aureolas
 allosome
 allosteric
 anthropomorphising
+archiving
 annihilated
 allothigenic
 allothimorph
