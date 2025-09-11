@@ -7233,7 +7233,6 @@ angledozer
 ariosos
 alberghi
 albert
-albertype
 accustoming
 albertite
 ancre
@@ -14535,6 +14534,7 @@ antiarins
 aswim
 antiaristocracies
 arauna
+albertype
 alpinisms
 ariidae
 accordantly
