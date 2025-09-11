@@ -2097,6 +2097,7 @@ boguing
 boraciferous
 bulker
 botoyan
+bemas
 banshies
 bornan
 bakelize
@@ -17429,7 +17430,6 @@ baskerville
 bena
 biosystematics
 blastoffs
-bemas
 buprestis
 briskening
 bragwort
