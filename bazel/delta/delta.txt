@@ -9813,7 +9813,6 @@ diadochian
 dclass
 discontentful
 disagree
-dilettanti
 delimiters
 decriminalizing
 dilettantism
@@ -17984,6 +17983,7 @@ dactylous
 dooxidize
 deliriously
 dugongs
+dilettanti
 diazeuctic
 demandable
 dossals
