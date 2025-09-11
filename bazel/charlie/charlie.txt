@@ -9942,7 +9942,6 @@ chen
 chena
 cheneau
 cheneaus
-conspurcate
 cambists
 crescographic
 caseconv
@@ -13783,6 +13782,7 @@ convoke
 castanets
 cacosplanchnia
 cynegild
+conspurcate
 cedared
 cinemagoer
 circumlocutionary
