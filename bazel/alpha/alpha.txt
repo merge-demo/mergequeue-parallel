@@ -1355,7 +1355,6 @@ apishly
 admass
 aevia
 acceptilation
-arabesquerie
 acceptors
 amharic
 auspicated
@@ -23494,6 +23493,7 @@ antignostic
 amperemeter
 aunthood
 antiprophet
+arabesquerie
 aunty
 antitraditionally
 auntie
