@@ -1676,6 +1676,7 @@ debonnaire
 drumhead
 discepted
 dismissive
+dripstone
 dottard
 dendrobatinae
 dupability
@@ -7497,7 +7498,6 @@ detruncation
 damneder
 detrusion
 duvetyns
-dripstone
 deposal
 destructionism
 detuning
