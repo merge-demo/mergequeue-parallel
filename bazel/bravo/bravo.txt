@@ -12953,7 +12953,6 @@ bondar
 bombycillidae
 bandersnatch
 branchery
-biplicity
 blickie
 browntop
 booziness
@@ -15891,6 +15890,7 @@ bebloom
 battlers
 bogsucker
 bufotenin
+biplicity
 brutish
 bronchocephalitis
 bronchoconstriction
