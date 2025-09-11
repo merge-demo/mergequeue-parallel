@@ -2533,7 +2533,6 @@ burglarise
 bestrewn
 bois
 barcolongo
-bicycle
 breadearner
 blepharocoloboma
 besnare
@@ -12685,6 +12684,7 @@ bacteria
 biometric
 bookhood
 bloodhounds
+bicycle
 botticellian
 blah
 bryon
