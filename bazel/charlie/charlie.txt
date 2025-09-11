@@ -7786,6 +7786,7 @@ cottonwick
 coeliomyalgia
 cervicoscapular
 cervicothoracic
+confraction
 cervinae
 cosignatory
 cervixes
@@ -22146,7 +22147,6 @@ chronogrammatical
 canonesses
 confounds
 chiule
-confraction
 confragose
 craftsmanly
 corrading
