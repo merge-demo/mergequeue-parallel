@@ -9457,7 +9457,6 @@ antiparasitical
 altilik
 altiloquence
 angusticlave
-academia
 arenig
 alchemistry
 ammocetes
@@ -18694,6 +18693,7 @@ adolescently
 archelenis
 archelogy
 airdrops
+academia
 absinthol
 apotropaism
 alebench
