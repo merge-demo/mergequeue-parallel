@@ -13551,6 +13551,7 @@ addax
 acrocomia
 anolis
 aunt
+awned
 absolutization
 aboriginal
 antivariolous
@@ -25014,7 +25015,6 @@ awlworts
 artilleryman
 awmous
 actinobacilli
-awned
 angelhood
 awner
 acquires
