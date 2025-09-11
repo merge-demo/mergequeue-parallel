@@ -439,6 +439,7 @@ apathist
 acousmas
 apothems
 anonychia
+atheneums
 abioses
 aimed
 acanthopteri
@@ -12084,7 +12085,6 @@ archcupbearer
 ancientest
 anciently
 anticks
-atheneums
 antireducer
 asimen
 ancylopod
