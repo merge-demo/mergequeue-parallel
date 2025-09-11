@@ -3923,7 +3923,6 @@ bergamasca
 birdbanding
 bdelloura
 bdellouridae
-behelp
 bdellovibrio
 brushbird
 butanes
@@ -14036,6 +14035,7 @@ brachiator
 brideship
 brachycephali
 beatrice
+behelp
 brayerin
 bragging
 berust
