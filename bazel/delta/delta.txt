@@ -169,6 +169,7 @@ dadoes
 desireful
 dressage
 delicates
+detraque
 doweral
 daedalea
 dears
@@ -7450,7 +7451,6 @@ destructibility
 delphinoid
 detractions
 detrainment
-detraque
 deathsmen
 detrect
 detrench
