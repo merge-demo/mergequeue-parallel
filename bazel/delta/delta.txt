@@ -1182,6 +1182,7 @@ dasyuridae
 deckpipe
 diarchic
 dactylopatagium
+dentistic
 dicaeology
 deervetch
 dodecaphony
@@ -9907,7 +9908,6 @@ dorlach
 dossennus
 diphysitism
 diseurs
-dentistic
 dimber
 doek
 dimensible
