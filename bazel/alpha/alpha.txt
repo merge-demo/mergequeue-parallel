@@ -9951,6 +9951,7 @@ aceturic
 ambiversion
 ambivert
 arrect
+authentically
 amble
 apanteles
 ambler
@@ -23788,7 +23789,6 @@ actively
 arthritics
 asiphonate
 authentic
-authentically
 antipleuritic
 armariolum
 assignees
