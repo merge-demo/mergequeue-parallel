@@ -9668,7 +9668,6 @@ dipoles
 dihydronicotine
 discomfortably
 dioxide
-dihydrostreptomycin
 dihydrotachysterol
 dhaks
 dihydroxyacetone
@@ -15097,6 +15096,7 @@ domestics
 dogberry
 dubbeh
 dandriff
+dihydrostreptomycin
 debasing
 disbudding
 deflectional
