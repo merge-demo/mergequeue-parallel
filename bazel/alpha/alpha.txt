@@ -5671,6 +5671,7 @@ acrocephalia
 abranchiata
 aeroduct
 abdominocardiac
+amphicarpogenous
 agatelike
 agathist
 agathodaemonic
@@ -11101,7 +11102,6 @@ acold
 ascaricide
 amphicarpium
 aluconidae
-amphicarpogenous
 arendator
 arbustum
 acoustical
