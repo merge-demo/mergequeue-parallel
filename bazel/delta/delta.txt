@@ -9343,7 +9343,6 @@ diezeugmenon
 decinormal
 dread
 disorders
-dif
 divekeeper
 dactylography
 diffame
@@ -10209,6 +10208,7 @@ denuclearize
 digitized
 dingman
 doven
+dif
 declassified
 dings
 detectable
