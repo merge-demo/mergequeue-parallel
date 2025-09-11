@@ -4316,6 +4316,7 @@ carillons
 cynips
 carinae
 carinal
+chaptering
 carinas
 chrysene
 countersale
@@ -19723,7 +19724,6 @@ comandanti
 cutis
 catocala
 cinematics
-chaptering
 comandra
 countercathexis
 capetown
