@@ -24207,7 +24207,6 @@ colleterial
 compost
 cunning
 cornbread
-convocations
 convocative
 convocator
 collegialism
@@ -24846,6 +24845,7 @@ corial
 counterprotest
 coalified
 coraggio
+convocations
 correct
 corah
 coraise

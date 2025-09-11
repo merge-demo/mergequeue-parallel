@@ -5230,7 +5230,6 @@ begass
 bitless
 backmost
 bribability
-begats
 betrothals
 bolters
 badder
@@ -17494,6 +17493,7 @@ bobadilish
 burro
 benzotetrazine
 burdensome
+begats
 beslushed
 birettas
 burlesque
