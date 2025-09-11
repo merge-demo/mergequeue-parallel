@@ -22577,7 +22577,6 @@ cements
 connate
 connateness
 crinate
-colonizability
 commotion
 connatural
 connaturality
@@ -29673,6 +29672,7 @@ compactify
 cuartillo
 cronian
 countenance
+colonizability
 cigaritos
 communicated
 coachway
