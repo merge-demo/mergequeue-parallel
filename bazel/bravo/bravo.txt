@@ -2719,7 +2719,6 @@ bellypiece
 batholitic
 baroko
 bubastite
-barse
 backward
 boylas
 beltline
@@ -6736,6 +6735,7 @@ belauds
 bert
 blowhole
 berteroa
+barse
 berthas
 bulkages
 bibliotaphic
