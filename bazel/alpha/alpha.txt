@@ -4090,7 +4090,6 @@ adornation
 amphibalus
 adorned
 apartado
-affy
 automorph
 adagial
 antiaircraft
@@ -25049,6 +25048,7 @@ awrong
 awshar
 acromyodian
 asellus
+affy
 anesthetizing
 asphodelaceae
 ax
