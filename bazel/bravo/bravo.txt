@@ -6721,7 +6721,6 @@ bedscrew
 boteler
 bumpier
 busulfan
-berrichonne
 bosquet
 blockheaded
 berries
@@ -8184,6 +8183,7 @@ bistort
 beshiver
 bifocal
 berith
+berrichonne
 bb
 boneache
 bullfist
