@@ -3091,7 +3091,6 @@ downstairs
 duringly
 defaulted
 defaultless
-depauperization
 downfolded
 defaults
 dryopithecid
@@ -9185,6 +9184,7 @@ dy
 dido
 didodecahedron
 didoes
+depauperization
 diselenide
 didonia
 dihexahedron
