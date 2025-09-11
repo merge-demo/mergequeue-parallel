@@ -2195,6 +2195,7 @@ bontebok
 baghla
 bodword
 blockade
+berrichon
 bostonite
 barter
 bedrivelled
@@ -13997,7 +13998,6 @@ bashawdom
 benempted
 breastsummer
 brabejum
-berrichon
 bindwood
 batonist
 beevish
