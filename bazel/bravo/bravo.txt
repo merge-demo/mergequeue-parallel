@@ -1471,7 +1471,6 @@ balistes
 blatherskite
 battologized
 bridgeport
-bodywear
 balistid
 bloodshedding
 brushite
@@ -11623,6 +11622,7 @@ bittacle
 berend
 boxhead
 buchmanite
+bodywear
 boatless
 banjoes
 bewonder
