@@ -1343,7 +1343,6 @@ acceptance
 aggressions
 absfarad
 arithmograph
-absorbent
 aspermous
 acceptancies
 athalline
@@ -7066,6 +7065,7 @@ alnagership
 aerostation
 acquisitions
 affirmatives
+absorbent
 abdomens
 alain
 albe
