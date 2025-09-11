@@ -199,7 +199,6 @@ drometer
 diapophyses
 daemonurgist
 devotement
-dahms
 dequeued
 dechlorination
 diabolize
@@ -6977,6 +6976,7 @@ disray
 disrate
 despiteously
 despites
+dahms
 decease
 dithionite
 druidesses
