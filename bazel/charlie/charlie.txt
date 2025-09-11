@@ -5653,6 +5653,7 @@ cultivatability
 clockcase
 cowpock
 catchments
+cypraeiform
 catchphrase
 catchpole
 cynoscion
@@ -14013,7 +14014,6 @@ chitra
 chemosensitive
 crimp
 cypraeidae
-cypraeiform
 confinement
 cypraeoid
 cypre
