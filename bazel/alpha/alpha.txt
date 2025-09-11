@@ -5631,7 +5631,6 @@ auscultascope
 absurds
 apluda
 aleurodidae
-agaristidae
 agarita
 aspy
 agaroid
@@ -21965,6 +21964,7 @@ asternal
 adenocancroid
 asternata
 asteroid
+agaristidae
 asteroids
 asterolepidae
 andamanese
