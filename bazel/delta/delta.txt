@@ -1675,6 +1675,7 @@ dephysicalization
 decrementless
 debonnaire
 drumhead
+duculinae
 discepted
 dismissive
 dripstone
@@ -9186,7 +9187,6 @@ depauperization
 diselenide
 didonia
 dihexahedron
-duculinae
 decapods
 dreamfully
 dipterous
