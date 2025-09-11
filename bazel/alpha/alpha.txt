@@ -6115,6 +6115,7 @@ ahold
 arbuscle
 agraffe
 alimental
+amoebida
 akinesis
 analemmatic
 agral
@@ -14774,7 +14775,6 @@ anatifer
 acidophilous
 azygobranchia
 ami
-amoebida
 antideflation
 anticly
 algiers
