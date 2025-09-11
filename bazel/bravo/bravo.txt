@@ -936,7 +936,6 @@ bowstaff
 boistously
 ballplayers
 backhoe
-banderole
 bullock
 bandyball
 bardiglio
@@ -10707,6 +10706,7 @@ byssus
 beaverboard
 balls
 batties
+banderole
 bactericidal
 baalisms
 blennogenous
