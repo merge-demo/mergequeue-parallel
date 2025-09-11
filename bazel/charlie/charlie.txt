@@ -8554,6 +8554,7 @@ chainstitch
 conceiting
 chancroidal
 chandala
+clypeaster
 chandelle
 cascades
 chandleress
@@ -18994,7 +18995,6 @@ confiscable
 characteristics
 collaret
 collarette
-clypeaster
 carpuspi
 coupelet
 cochal
