@@ -14135,7 +14135,6 @@ deciduitis
 decides
 dolomization
 dystrophia
-dystrophic
 distrustingly
 dubbers
 disturb
@@ -14659,6 +14658,7 @@ diminue
 demoralizingly
 demosthenic
 druery
+dystrophic
 developmentary
 decupling
 dietal
