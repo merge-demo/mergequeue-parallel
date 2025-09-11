@@ -9196,6 +9196,7 @@ diselenide
 didonia
 dihexahedron
 decapods
+dogmatiser
 dreamfully
 dipterous
 dowses
@@ -17246,7 +17247,6 @@ diswont
 drinks
 dynamics
 dreary
-dogmatiser
 disentrammel
 dimensions
 dryops
