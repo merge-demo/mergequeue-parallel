@@ -2674,7 +2674,6 @@ confidantes
 caninities
 celanese
 caninus
-conflagrated
 coleorhizae
 canions
 crevice
@@ -31219,6 +31218,7 @@ curability
 correctness
 commiserator
 chetah
+conflagrated
 curable
 churnstaff
 coverlid
