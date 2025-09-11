@@ -6258,7 +6258,6 @@ diplokaryon
 doldrums
 dermatoneurosis
 dacryocystitis
-dustuck
 deprecates
 diradiation
 didymolite
@@ -10990,6 +10989,7 @@ deposito
 dreamingful
 dhamnoo
 donned
+dustuck
 demisavage
 disadvancing
 disadvantaged
