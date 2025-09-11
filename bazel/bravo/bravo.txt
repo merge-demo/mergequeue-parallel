@@ -5114,6 +5114,7 @@ bedless
 bloodthirstiness
 bullberry
 baubling
+birler
 bilocation
 bimorphemic
 banco
@@ -5660,7 +5661,6 @@ belialic
 brimmered
 belicoseness
 belie
-birler
 bilirubinuria
 baskets
 bridalty
