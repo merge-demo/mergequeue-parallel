@@ -12219,6 +12219,7 @@ collegiums
 chrysoberyl
 chrysobull
 cinchonising
+crioceratitic
 chrysocarpous
 chrysochloridae
 chrysochloris
@@ -15622,7 +15623,6 @@ clathrulate
 clatter
 cartographers
 clattered
-crioceratitic
 coxcombries
 clatterer
 crucifier
