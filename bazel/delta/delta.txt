@@ -2393,7 +2393,6 @@ doodads
 dispelled
 doggerelizer
 donny
-dripstick
 deek
 disaffects
 decima
@@ -13119,6 +13118,7 @@ dispensationalism
 deprisure
 dustlessness
 degami
+dripstick
 diorism
 deutocarbonate
 dispensatively
