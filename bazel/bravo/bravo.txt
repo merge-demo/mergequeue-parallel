@@ -1301,6 +1301,7 @@ bardie
 balanceable
 bafflements
 bilocellate
+bishopweed
 buckskinned
 baryonic
 bluejays
@@ -9580,7 +9581,6 @@ bishopdom
 biol
 bisyllabism
 bishopstool
-bishopweed
 bobbinets
 bestir
 benison
