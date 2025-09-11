@@ -9375,6 +9375,7 @@ destroyable
 deutoplasmic
 dunces
 disavowable
+directionless
 differentiability
 duct
 differentials
@@ -13159,7 +13160,6 @@ depurging
 domesticability
 diversifying
 doozer
-directionless
 deaned
 disapprover
 dyspeptically
