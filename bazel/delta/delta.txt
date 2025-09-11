@@ -1279,6 +1279,7 @@ desmids
 dossil
 dermoptera
 datolitic
+discalced
 droob
 dandyism
 disking
@@ -3638,7 +3639,6 @@ dewal
 disgracing
 discontinuable
 decimalisation
-discalced
 degraduate
 digitinervate
 degravate
