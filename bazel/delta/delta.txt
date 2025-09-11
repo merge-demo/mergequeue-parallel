@@ -1141,6 +1141,7 @@ desertic
 downbeats
 dashplate
 designer
+disacquaint
 dimmet
 dropflower
 depaint
@@ -10985,7 +10986,6 @@ directrixes
 dyingness
 dysacousis
 dodecahydrated
-disacquaint
 dampishly
 dispenses
 disforestation
