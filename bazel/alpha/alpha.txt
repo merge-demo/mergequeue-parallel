@@ -14259,7 +14259,6 @@ achromasia
 achromacyte
 anthracomancy
 anthracomarti
-analepsis
 antiprelatism
 anthracometric
 attractable
@@ -23127,6 +23126,7 @@ attntrp
 attollent
 amorousness
 attorn
+analepsis
 attornare
 anisopleural
 attorney
