@@ -1120,6 +1120,7 @@ dashed
 doubleword
 darnings
 dicentra
+deliverer
 dashedly
 dipnoid
 dermopathy
@@ -4149,7 +4150,6 @@ dob
 delitescent
 demibrassart
 downriver
-deliverer
 disincorporate
 daurna
 deliveress
