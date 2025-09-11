@@ -5393,7 +5393,6 @@ casuarius
 celeomorph
 cagers
 chamaecyparis
-carryons
 crunode
 casuistess
 conchobor
@@ -15014,6 +15013,7 @@ citterns
 citua
 cytulae
 cleanable
+carryons
 colormaking
 ciudad
 cosmesis
