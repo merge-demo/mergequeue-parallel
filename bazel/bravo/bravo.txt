@@ -2842,7 +2842,6 @@ biochemistry
 bilaterally
 bulgarians
 barracouta
-barkcutter
 bicep
 blanketless
 benedictus
@@ -5358,6 +5357,7 @@ begrimed
 bandusian
 bedeafened
 begrimer
+barkcutter
 blunderbusses
 begrimes
 begriming
