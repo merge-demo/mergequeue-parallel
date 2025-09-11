@@ -11567,7 +11567,6 @@ cupellation
 cholecystocolostomy
 cosmographical
 cognisability
-colonialization
 cholecystogram
 cholecystography
 cycads
@@ -30786,6 +30785,7 @@ crackerberries
 cullas
 carroty
 cytotechnology
+colonialization
 cochleary
 conchologize
 cullers

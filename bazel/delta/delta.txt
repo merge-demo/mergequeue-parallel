@@ -9519,7 +9519,6 @@ digestory
 digesture
 dinarzade
 disapproval
-diggable
 digged
 diachrony
 deuterostome
@@ -11409,6 +11408,7 @@ dischevel
 disci
 disrupted
 defatigation
+diggable
 diabases
 dingeys
 dermatocele
