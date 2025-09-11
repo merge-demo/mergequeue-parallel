@@ -10435,7 +10435,6 @@ blarnid
 bhutan
 biacuru
 blason
-becoom
 blasphemed
 blasphemes
 blasphemous
@@ -13487,6 +13486,7 @@ bookshelves
 bottstick
 botuliform
 botulins
+becoom
 backpacks
 beadrolls
 bugseed
