@@ -7838,7 +7838,6 @@ bogwoods
 bloodthirsty
 buckthorn
 bibliopegy
-bituminisation
 bibliopegically
 biltong
 bibbons
@@ -14686,6 +14685,7 @@ blender
 bridemaiden
 blunderer
 bucked
+bituminisation
 babbittian
 baronized
 brattice
