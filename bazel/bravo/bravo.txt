@@ -10958,7 +10958,6 @@ battledore
 batched
 besoothes
 blips
-boehmenite
 bliss
 bitterness
 branchiostegous
@@ -16164,6 +16163,7 @@ beamlet
 bottomland
 bourock
 brownist
+boehmenite
 balneographer
 burlesqued
 bundh
