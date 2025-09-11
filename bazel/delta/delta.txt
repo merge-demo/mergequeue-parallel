@@ -8694,7 +8694,6 @@ dryads
 dialectology
 diastasimetry
 devilfishes
-deraigned
 desalinizing
 dichastasis
 dactyliomancy
@@ -9537,6 +9536,7 @@ derivation
 demiurge
 dights
 dextrocular
+deraigned
 disastrously
 digynian
 decontaminated
