@@ -9196,7 +9196,6 @@ afflate
 along
 ataxiameter
 alongships
-alongshore
 alemana
 aristolochine
 accidental
@@ -9578,6 +9577,7 @@ adventive
 alvearies
 alveated
 alveolariform
+alongshore
 ararauna
 auxotrophy
 alveolate
