@@ -17547,7 +17547,6 @@ cobridgehead
 ceasmic
 chrysostomic
 chimneyhead
-clipping
 coburg
 cobweb
 cerion
@@ -26337,6 +26336,7 @@ circumsaturnian
 cotenancy
 cotenant
 cotenants
+clipping
 chirognomically
 cotenure
 concaved
