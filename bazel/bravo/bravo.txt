@@ -1607,6 +1607,7 @@ ballista
 byplay
 basketlike
 bichromic
+blaewort
 beatinest
 ballistician
 brachioganoidei
@@ -10788,7 +10789,6 @@ bellied
 blepharoplastic
 bangboard
 blepharosynechia
-blaewort
 blepharosphincterectomy
 bulldoggy
 blepharostenosis

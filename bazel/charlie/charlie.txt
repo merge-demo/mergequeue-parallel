@@ -6648,6 +6648,7 @@ celastraceae
 copings
 cerograph
 conglomerative
+conspiratorial
 colorfast
 cibarium
 celastrus
@@ -26071,7 +26072,6 @@ corrigibleness
 cystostomy
 chiefdoms
 clavigerous
-conspiratorial
 cosmism
 cosmisms
 contraprops
