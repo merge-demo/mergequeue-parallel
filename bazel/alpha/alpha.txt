@@ -11805,7 +11805,6 @@ autovaccination
 anaphyte
 antivaccinator
 alkoxide
-anaphoral
 acron
 appendicular
 anthropozoic
@@ -14190,6 +14189,7 @@ anisopogonous
 agelacrinites
 apiarist
 antistimulant
+anaphoral
 anthoid
 anthokyan
 anthol
