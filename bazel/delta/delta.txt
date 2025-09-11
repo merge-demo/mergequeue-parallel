@@ -1731,7 +1731,6 @@ diphyllobothrium
 droner
 deprecated
 deathtrap
-dendrophile
 devocalization
 downtimes
 drof
@@ -2666,6 +2665,7 @@ dressmakership
 dishwash
 devoured
 deconvolve
+dendrophile
 desmon
 decor
 diplopic
