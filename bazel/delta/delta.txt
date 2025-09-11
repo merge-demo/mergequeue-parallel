@@ -2095,6 +2095,7 @@ diapasm
 daunts
 derelictions
 dibbuks
+designated
 dishonourary
 dissembles
 doab
@@ -6040,7 +6041,6 @@ darkrooms
 depursement
 dipyramidal
 diphenyl
-designated
 dodge
 deuterogenesis
 driegh
