@@ -30214,7 +30214,6 @@ chooky
 corm
 caingang
 crumble
-crumbles
 crumblet
 counternaiant
 crumbs
@@ -30540,6 +30539,7 @@ cubocuneiform
 cubododecahedral
 concarnation
 cuboid
+crumbles
 conopholis
 cuboidal
 cuneocuboid
