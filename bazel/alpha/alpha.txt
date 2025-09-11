@@ -1147,7 +1147,6 @@ alkalifies
 axonopus
 acaleph
 acalephoid
-anaclastic
 arow
 acalyculate
 asterixis
@@ -15831,6 +15830,7 @@ accommodationist
 accidia
 aer
 alchimy
+anaclastic
 antipsychotic
 appointor
 albertina
