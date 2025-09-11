@@ -2989,6 +2989,7 @@ bedumb
 barsac
 bluewing
 bakeshops
+blasphemer
 backhatch
 becowarding
 brains
@@ -8089,7 +8090,6 @@ biotherapy
 binocularity
 bourbon
 bug
-blasphemer
 bellboys
 byrlaw
 beslubber
