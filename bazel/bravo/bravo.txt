@@ -1732,7 +1732,6 @@ breastheight
 biscayner
 brokerage
 bodgery
-brachypyramid
 broon
 byline
 boutonniere
@@ -15470,6 +15469,7 @@ brioches
 blase
 bitwise
 bimas
+brachypyramid
 buzzing
 buildingless
 buglet
