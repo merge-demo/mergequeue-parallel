@@ -5380,7 +5380,6 @@ corollated
 capillitia
 cylindrenchema
 calamanco
-chlamydoselachus
 calin
 castration
 castrator
@@ -26371,6 +26370,7 @@ celtologue
 collide
 catatonics
 cytotrophy
+chlamydoselachus
 criminalist
 cotylosacral
 cotylosaur
