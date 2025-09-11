@@ -1646,7 +1646,6 @@ anarchoindividualist
 accum
 aplacental
 alouettes
-agglomeration
 accumbency
 accumbent
 accumulating
@@ -4560,6 +4559,7 @@ aetheling
 antedawn
 aeluroid
 afghanistan
+agglomeration
 acrotisms
 alphard
 aeluropodous
