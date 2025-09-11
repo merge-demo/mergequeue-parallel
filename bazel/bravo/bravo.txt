@@ -1759,6 +1759,7 @@ boneheads
 breakerman
 balsams
 beseechingness
+biteable
 bruise
 baltetei
 bismutite
@@ -9737,7 +9738,6 @@ bitanhol
 bilineated
 beneplacito
 bandonion
-biteable
 begin
 bongo
 bawd
