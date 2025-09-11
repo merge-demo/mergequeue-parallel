@@ -7381,7 +7381,6 @@ cardionephric
 cephidae
 ceps
 corynebacterial
-chairmaned
 cerago
 ceramal
 ceramals
@@ -21457,6 +21456,7 @@ compassionated
 chays
 criterion
 chemicalize
+chairmaned
 cringingly
 cyetic
 conclusory
