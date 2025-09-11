@@ -5040,6 +5040,7 @@ backshift
 blueback
 biocatalyst
 basenet
+burdenous
 befezzed
 bushmasters
 broiderer
@@ -17487,7 +17488,6 @@ burdenless
 blasty
 bipinnatisected
 buggies
-burdenous
 blabs
 baguio
 bulbocapnine
