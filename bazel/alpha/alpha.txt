@@ -12206,6 +12206,7 @@ awestrike
 acervuli
 androcephalous
 androcephalum
+alike
 arteriostrepsis
 androclclinia
 agatine
@@ -20610,7 +20611,6 @@ amimia
 articulates
 autolyze
 ashlering
-alike
 articulationist
 articulations
 adenoblast
