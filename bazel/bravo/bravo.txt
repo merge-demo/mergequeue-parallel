@@ -5957,7 +5957,6 @@ bastardizes
 bushet
 brigued
 bemangle
-bemar
 bouncingly
 bevaring
 bemask
@@ -11557,6 +11556,7 @@ brierwood
 beth
 blusterers
 bawdyhouse
+bemar
 blancmanger
 blustering
 basilicalike
