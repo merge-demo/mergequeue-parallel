@@ -1661,6 +1661,7 @@ bibliothetic
 balibuntl
 ballotist
 batell
+borocaine
 ballots
 backlotter
 baronage
@@ -12222,7 +12223,6 @@ bewield
 bolshevized
 boneset
 benitoite
-borocaine
 bemud
 bolstered
 bolsterer
