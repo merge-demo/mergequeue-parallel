@@ -7629,7 +7629,6 @@ aldermancy
 aldermaness
 aldermanical
 aration
-aldermanity
 aldermanlike
 antiparliamentarian
 aplustria
@@ -13614,6 +13613,7 @@ aythya
 anomodontia
 anomoeomery
 anticommercially
+aldermanity
 autoptic
 anomouran
 anomphalous
