@@ -9378,7 +9378,6 @@ bird
 boga
 birectangular
 bea
-burh
 belonid
 batteler
 bireme
@@ -12679,6 +12678,7 @@ blastophthoric
 bondager
 bibliographically
 barbaresque
+burh
 bowet
 booker
 boatkeeper
