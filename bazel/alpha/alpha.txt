@@ -1929,7 +1929,6 @@ acyls
 acetonitrile
 aberrancies
 acrologically
-alap
 acetophenetidine
 allergen
 anurias
@@ -2048,6 +2047,7 @@ alfin
 afounde
 auspicial
 actinogram
+alap
 achillize
 aerobically
 agave

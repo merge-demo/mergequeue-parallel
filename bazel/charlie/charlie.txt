@@ -3275,7 +3275,6 @@ capitulates
 capitulator
 capituliform
 curlewberry
-cystolithic
 cerium
 crotchwood
 celebratory
@@ -6730,6 +6729,7 @@ celiocyesis
 coadministrator
 churchiness
 consecrations
+cystolithic
 celiocolpotomy
 careeringly
 chary
