@@ -2128,7 +2128,6 @@ decanes
 diabolify
 decangular
 deraigns
-daedalus
 decently
 decanonize
 decantate
@@ -4550,6 +4549,7 @@ distraughted
 devocation
 datums
 drabbled
+daedalus
 dogmatician
 delegacy
 dotier
