@@ -1590,7 +1590,6 @@ ballets
 brevetcy
 blowtube
 ballgames
-berley
 balli
 burmanniaceous
 burlesques
@@ -10130,6 +10129,7 @@ breechcloth
 bas
 birrettas
 bloodfins
+berley
 blastodermic
 bummle
 birdnester
