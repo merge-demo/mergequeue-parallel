@@ -14724,7 +14724,6 @@ anticyclic
 aenigma
 arrondi
 antechamber
-anticyclical
 apocodeine
 anticyclogenesis
 anchoring
@@ -21701,6 +21700,7 @@ advowson
 assiege
 auricula
 assiette
+anticyclical
 assify
 assign
 absorbedness
