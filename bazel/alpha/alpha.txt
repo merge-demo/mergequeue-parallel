@@ -4485,7 +4485,6 @@ abigeus
 adversed
 aedeagi
 aedeagus
-aediculae
 aedicule
 aedile
 adject
@@ -11998,6 +11997,7 @@ antiquers
 abeyancies
 anatta
 arachnidium
+aediculae
 actional
 autohemotherapy
 agapemonist
