@@ -2481,7 +2481,6 @@ dresser
 dilaters
 declamatory
 decibar
-dendrochronology
 dorsale
 derivational
 dimming
@@ -7292,6 +7291,7 @@ dextrally
 disarrest
 deteriorating
 drowsy
+dendrochronology
 draggled
 deuce
 daftar
