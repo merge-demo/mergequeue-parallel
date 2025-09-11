@@ -4852,6 +4852,7 @@ carstone
 cart
 counterpoising
 chromatinic
+criminousness
 cartable
 cartaceous
 candlestickward
@@ -28985,7 +28986,6 @@ criminologists
 cynopithecidae
 criminous
 conscribed
-criminousness
 crimmer
 copilot
 crymoanesthesia
