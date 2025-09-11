@@ -4730,7 +4730,6 @@ burking
 barrener
 bracker
 brachylogy
-bedriveling
 baragnosis
 bauleah
 bruins
@@ -4854,6 +4853,7 @@ balistarius
 bloodedness
 bistered
 beefalos
+bedriveling
 bossship
 bilimbis
 blackheartedly
