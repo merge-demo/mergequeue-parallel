@@ -8404,6 +8404,7 @@ bavardage
 bogeyman
 bilgeway
 bilharzial
+basque
 beglerbey
 boiled
 bilianic
@@ -18257,7 +18258,6 @@ batea
 bunuelo
 bde
 berryman
-basque
 brickmason
 badan
 bencher
