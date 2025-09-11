@@ -4191,7 +4191,6 @@ disincorporated
 dissimulating
 dewberry
 dressed
-dogcart
 depasturing
 dyslogy
 debtors
@@ -14269,6 +14268,7 @@ dormer
 dital
 dahoman
 degusting
+dogcart
 dressy
 deme
 dene
