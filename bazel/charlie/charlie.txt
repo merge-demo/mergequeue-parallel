@@ -10963,6 +10963,7 @@ crests
 cavascope
 chiropodistry
 callan
+conductometric
 chiropodists
 chiropodous
 chiropompholyx
@@ -21806,7 +21807,6 @@ cutization
 culmy
 concentive
 corresponsive
-conductometric
 choanocyte
 conductor
 conductorial
