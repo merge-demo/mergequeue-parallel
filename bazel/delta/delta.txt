@@ -5256,7 +5256,6 @@ dialogistic
 diacetonuria
 denseness
 depauperized
-densify
 disqualifications
 didelphic
 desmodactyli
@@ -8769,6 +8768,7 @@ demythologisation
 devolute
 dichogamy
 doodle
+densify
 diatreme
 distilery
 decorably
