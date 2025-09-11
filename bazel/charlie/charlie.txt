@@ -10414,7 +10414,6 @@ carabinero
 chifferobe
 copei
 cosmocratic
-chiffony
 citizenries
 cupay
 cairba
@@ -29623,6 +29622,7 @@ croydon
 croiik
 croyl
 certifications
+chiffony
 croisade
 croise
 croisee
