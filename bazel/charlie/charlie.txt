@@ -12403,6 +12403,7 @@ chromatophoric
 canthectomy
 chevroned
 cnidophobia
+cerography
 culebra
 chromatoptometry
 chromatoscope
@@ -28294,7 +28295,6 @@ cloop
 craver
 campholytic
 carboxy
-cerography
 counterdraft
 cellulofibrous
 cravings
