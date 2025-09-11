@@ -6823,6 +6823,7 @@ bescutcheon
 brotherred
 bondservant
 basalia
+brachycerous
 bolas
 beseeches
 bisannual
@@ -10269,7 +10270,6 @@ brewers
 boltant
 blackwater
 blackweed
-brachycerous
 bladderet
 bladdery
 bladderlike
