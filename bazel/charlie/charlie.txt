@@ -7010,6 +7010,7 @@ carrefour
 centenier
 centennia
 cytaster
+coelarium
 condonations
 cack
 centennial
@@ -7935,7 +7936,6 @@ celling
 crystalliform
 clottedness
 chablis
-coelarium
 crannog
 chowtimes
 chromotypographic
