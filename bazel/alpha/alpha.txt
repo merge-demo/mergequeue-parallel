@@ -14201,6 +14201,7 @@ antisepticism
 anthologically
 anthologies
 autobiographies
+antiquist
 asphyxiates
 alberto
 antiprimer
@@ -15849,7 +15850,6 @@ antiqueness
 antiques
 antiquing
 admittible
-antiquist
 antiquum
 arcadianly
 antiquation
