@@ -6494,6 +6494,7 @@ ailed
 adradius
 aboon
 anatolian
+amoy
 assoin
 aporetical
 amidoketone
@@ -10882,7 +10883,6 @@ antispiritualist
 amoebogeniae
 artilleryship
 amoebula
-amoy
 apinoid
 aubergistes
 andrographis

@@ -1378,6 +1378,7 @@ defroster
 davidian
 davidic
 davidist
+deportability
 desma
 duotriode
 dayless
@@ -5801,7 +5802,6 @@ dowve
 demipuppet
 dovekeys
 decaliter
-deportability
 deportations
 dissipatedly
 discant
