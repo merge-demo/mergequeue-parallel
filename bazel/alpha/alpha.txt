@@ -1434,6 +1434,7 @@ anticynically
 azorian
 acclimatised
 acclimatiser
+acastus
 acclimatising
 allgood
 aegagrus
@@ -4263,7 +4264,6 @@ antanaclasis
 adulterize
 antonella
 aerobiologically
-acastus
 antiprism
 adulterousness
 angiotonin
