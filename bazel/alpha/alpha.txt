@@ -17218,6 +17218,7 @@ antifederal
 agnized
 aporocactus
 aporrhegma
+auriform
 aporrhiegma
 ambiguousness
 anights
@@ -25253,7 +25254,6 @@ azygoses
 azygote
 atabal
 anthem
-auriform
 amnestying
 agialid
 azimene
