@@ -9892,7 +9892,6 @@ cameograph
 catalogic
 crouch
 chronobiology
-chemosphere
 collateral
 cancers
 chemosurgery
@@ -21719,6 +21718,7 @@ cephalon
 commy
 crackling
 cinchonism
+chemosphere
 clubbers
 conditioner
 copyists
