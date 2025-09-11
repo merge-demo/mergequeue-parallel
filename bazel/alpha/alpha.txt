@@ -1568,7 +1568,6 @@ accoutered
 ablepsy
 anoxia
 agrostologist
-apocatharsis
 aneling
 accouterment
 acemetic
@@ -18934,6 +18933,7 @@ autorotation
 acichlorid
 archontia
 anonymuncule
+apocatharsis
 archoplasmic
 archorrhagia
 aerohydropathy
