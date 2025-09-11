@@ -8109,7 +8109,6 @@ capitare
 cultists
 crashers
 castalian
-coelastrum
 chainsman
 caponising
 capetian
@@ -21543,6 +21542,7 @@ concorporated
 concourse
 cliqueless
 calycle
+coelastrum
 climacterical
 celestialize
 concresce
