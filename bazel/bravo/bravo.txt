@@ -1288,6 +1288,7 @@ benzothiazole
 ballyhack
 baldheaded
 birdberry
+bonze
 bedim
 bedstead
 behindhand
@@ -12594,7 +12595,6 @@ bistriazole
 bleekbok
 branular
 bahuma
-bonze
 brios
 bonzer
 betattered
