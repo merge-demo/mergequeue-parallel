@@ -11460,6 +11460,7 @@ archhead
 after
 anacamptics
 antiperistasis
+anthropomorpha
 anacanthine
 anergy
 antielectron
@@ -14368,7 +14369,6 @@ antipestilence
 asepticism
 accompanist
 anthropomorph
-anthropomorpha
 ammino
 anklet
 aphototropic
