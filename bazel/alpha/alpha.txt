@@ -16523,7 +16523,6 @@ apedom
 acalculia
 amphithalmi
 apeek
-apeirophobia
 apeling
 apelles
 apenteric
@@ -21845,6 +21844,7 @@ aptate
 avantgarde
 assume
 araneidal
+apeirophobia
 apophis
 anthography
 achronical
