@@ -3718,7 +3718,6 @@ bevoiled
 beautifully
 bibliothque
 blennogenic
-battologise
 bastile
 batlan
 bukshi
@@ -4230,6 +4229,7 @@ bebay
 bogotana
 barretter
 bebang
+battologise
 bebathe
 bryonin
 beatrix
