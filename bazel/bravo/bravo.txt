@@ -7592,6 +7592,7 @@ bewrapt
 bepride
 bewreck
 befreckle
+blowtorches
 bewry
 bankroller
 barranca
@@ -11301,7 +11302,6 @@ bargeman
 baith
 bespoused
 befur
-blowtorches
 bromos
 bossiness
 blowups

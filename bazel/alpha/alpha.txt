@@ -9622,7 +9622,6 @@ afterheat
 allegatum
 amacratic
 amadan
-aseptolin
 asterella
 anticous
 amadelphous
@@ -11810,6 +11809,7 @@ antimitotic
 anaplasma
 anaplasmoses
 acuminate
+aseptolin
 anaplasty
 anosmia
 anaplerosis
