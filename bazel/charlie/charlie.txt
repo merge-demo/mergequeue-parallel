@@ -16241,6 +16241,7 @@ cuit
 chob
 craniopagus
 coregnant
+creolism
 clinging
 clingingly
 clinia
@@ -28670,7 +28671,6 @@ crenellating
 creole
 coppet
 creolian
-creolism
 carposporangium
 creolite
 creolized
