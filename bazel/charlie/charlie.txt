@@ -26974,7 +26974,6 @@ conducing
 counterpotence
 cantilated
 counterpotency
-counterpotent
 chemotherapeuticness
 calgon
 coarctate
@@ -28576,6 +28575,7 @@ cremasterial
 crossbearer
 cremate
 chemicomechanical
+counterpotent
 crossbowmen
 coccogonium
 condisciple
