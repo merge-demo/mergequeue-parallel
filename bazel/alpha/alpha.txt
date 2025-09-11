@@ -1429,6 +1429,7 @@ acclimates
 agglutinator
 acclimating
 adaty
+anaesthyl
 archipallial
 acclimatisation
 affixable
@@ -13947,7 +13948,6 @@ academize
 antedorsal
 antefact
 antefix
-anaesthyl
 antefurcae
 antehall
 antehypophysis
