@@ -1055,7 +1055,6 @@ defaillance
 darnels
 destandardize
 diacodium
-deas
 dutra
 darner
 devoiced
@@ -1790,6 +1789,7 @@ debate
 disparts
 distortionist
 demology
+deas
 deassimilation
 diapensiaceous
 drawcut
