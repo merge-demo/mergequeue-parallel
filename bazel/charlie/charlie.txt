@@ -12262,7 +12262,6 @@ chrysosperm
 chrysosplenium
 chrysothrix
 chrysotile
-cinel
 cecotomy
 christadelphian
 cryptocurrency
@@ -22703,6 +22702,7 @@ concertiser
 conopidae
 calonyction
 cinnyl
+cinel
 conopophagidae
 circar
 conorhinus
