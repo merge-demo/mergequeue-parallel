@@ -6520,7 +6520,6 @@ dobra
 diacritic
 dockman
 degradedness
-dichlorhydrin
 disharmonise
 described
 dolous
@@ -18389,6 +18388,7 @@ dissyllabification
 dillue
 duodenoscopy
 dipleiodoscope
+dichlorhydrin
 digmeat
 duodenostomy
 deceptiously
