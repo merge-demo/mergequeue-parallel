@@ -13574,7 +13574,6 @@ dissimulators
 dissension
 dormantly
 daimioate
-dogmatisation
 dissensualize
 drowsihead
 dissentation
@@ -14795,6 +14794,7 @@ disincline
 dimensionality
 degasification
 dotlike
+dogmatisation
 definitiones
 discarnation
 diaristic
