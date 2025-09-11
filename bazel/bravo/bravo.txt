@@ -2618,6 +2618,7 @@ barkhan
 batman
 balistarii
 belostoma
+beastliness
 bumpkinly
 broncs
 barkier
@@ -10661,7 +10662,6 @@ bethreaten
 bleeped
 bleeps
 batonne
-beastliness
 blepharoplegia
 bronzine
 bleymes
