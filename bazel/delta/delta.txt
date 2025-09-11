@@ -6105,7 +6105,6 @@ dizened
 deliberations
 deraigning
 dispirits
-deceptively
 derailing
 desc
 demiworld
@@ -14016,6 +14015,7 @@ depletion
 disruptionist
 distortions
 delocalise
+deceptively
 dogfennel
 diagrammatician
 differentiable
