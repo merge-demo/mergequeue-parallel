@@ -2883,7 +2883,6 @@ chairlady
 canossa
 canotier
 canreply
-cubi
 cansful
 coddled
 canso
@@ -24440,6 +24439,7 @@ coops
 coparty
 coopting
 cooptions
+cubi
 coopts
 coordinal
 cashment
