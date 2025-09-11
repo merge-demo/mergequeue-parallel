@@ -16557,7 +16557,6 @@ apers
 aquamanile
 arsonation
 anticlassically
-arrosion
 asyndeta
 alternipinnate
 apertness
@@ -17740,6 +17739,7 @@ alex
 antiliturgic
 alisphenoid
 asterales
+arrosion
 astraeidae
 apposer
 antiaris
