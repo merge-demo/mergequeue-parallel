@@ -2709,7 +2709,6 @@ canman
 churr
 cannabic
 churchwise
-chirpiness
 concealingly
 cidaridae
 cannabine
@@ -5174,6 +5173,7 @@ cassandra
 conc
 clinodome
 crawthumper
+chirpiness
 cartman
 cokeman
 creatrix
