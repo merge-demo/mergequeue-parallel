@@ -2129,6 +2129,7 @@ aegirine
 achromaticity
 achromatisation
 acrestaff
+antiplatelet
 achromatising
 archangel
 apimania
@@ -11259,7 +11260,6 @@ alcaptonuria
 ackeys
 amphore
 aquifers
-antiplatelet
 amphoteric
 aircrewman
 ampicillin
