@@ -9336,7 +9336,6 @@ donatory
 dietitians
 dtset
 diplomat
-dietotherapy
 detersive
 depletable
 dietrichite
@@ -18452,6 +18451,7 @@ disharmonious
 downrush
 dukkha
 duplexers
+dietotherapy
 duplication
 dogsbody
 duplicators
