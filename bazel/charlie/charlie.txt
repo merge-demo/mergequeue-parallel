@@ -28129,7 +28129,6 @@ cuckooed
 crosscutter
 cranked
 cullis
-caudices
 crankily
 crankiness
 cranking
@@ -30044,6 +30043,7 @@ chordoid
 crowder
 crowdy
 crowdies
+caudices
 confecture
 clothilda
 crowding
