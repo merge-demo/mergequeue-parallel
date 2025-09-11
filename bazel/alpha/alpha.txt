@@ -982,7 +982,6 @@ antidromous
 abtruse
 alclad
 aquitanian
-affluxes
 acalephae
 abstractitious
 athenianly
@@ -1735,6 +1734,7 @@ apochromatic
 acedy
 acediamin
 adduces
+affluxes
 acediamine
 acedias
 acanthological
