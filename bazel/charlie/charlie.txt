@@ -6506,7 +6506,6 @@ contributions
 calamitoid
 cdf
 carid
-cdr
 cesspool
 celibates
 ceanothus
@@ -19064,6 +19063,7 @@ crisped
 cigarillo
 colleen
 college
+cdr
 creedless
 collegia
 conjointness

@@ -218,6 +218,7 @@ bargainee
 beguiling
 bloodwood
 bolivian
+burrer
 bushrope
 bacchic
 buckskins
@@ -12786,7 +12787,6 @@ brasses
 backshish
 balan
 boolya
-burrer
 braiding
 barrelhouse
 beefcakes
