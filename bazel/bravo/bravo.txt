@@ -13358,7 +13358,6 @@ briefcase
 bitangential
 bunder
 bothnian
-bothnic
 bodilessness
 bawn
 bijective
@@ -16514,6 +16513,7 @@ brisky
 bubblish
 banaba
 bedmakers
+bothnic
 bubinga
 bougainvillea
 bacillary

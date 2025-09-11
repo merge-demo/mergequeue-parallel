@@ -8573,6 +8573,7 @@ circumadjacent
 chandui
 chandul
 chane
+caecilia
 caitiff
 chaneling
 capitelliform
@@ -23923,7 +23924,6 @@ contuses
 contusion
 choirwise
 contusioned
-caecilia
 contusions
 contusive
 conns
