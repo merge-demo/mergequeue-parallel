@@ -7071,7 +7071,6 @@ backsets
 brashest
 ballute
 bespreng
-besprent
 bachelors
 bocking
 blowy
@@ -10233,6 +10232,7 @@ beforehandedness
 bounding
 benevolist
 bocaccio
+besprent
 blacksnake
 brahmaness
 bluffly
