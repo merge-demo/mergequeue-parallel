@@ -512,7 +512,6 @@ acoemetae
 arsenicating
 ablated
 ablates
-agnizes
 assarion
 ablatitious
 acephala
@@ -20267,6 +20266,7 @@ arsenicked
 assimilated
 aphelia
 aftertime
+agnizes
 afterwards
 arseniferous
 arseniopleite
