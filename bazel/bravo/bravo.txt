@@ -1964,6 +1964,7 @@ bandwidth
 bagginess
 baylet
 baneberry
+birl
 bullragging
 bentiness
 bolshy
@@ -7492,7 +7493,6 @@ begirding
 beweary
 besottedness
 bumblefoot
-birl
 botflies
 brainworker
 bulkin
