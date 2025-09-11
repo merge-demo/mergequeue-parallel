@@ -4619,7 +4619,6 @@ centrospermae
 carouse
 carousels
 carp
-carpals
 carpathian
 carpe
 carped
@@ -11424,6 +11423,7 @@ choate
 cautioned
 chobie
 cabinetry
+carpals
 cudeigh
 christina
 cryobiologically
