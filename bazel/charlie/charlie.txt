@@ -16549,7 +16549,6 @@ centripetalism
 clog
 clogdogdo
 chamfered
-charlatanries
 cruisken
 channelization
 cloggier
@@ -28900,6 +28899,7 @@ cricetus
 cricked
 crickey
 cricket
+charlatanries
 cricketer
 cricketers
 chuckler
