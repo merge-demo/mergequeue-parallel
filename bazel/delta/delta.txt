@@ -4923,6 +4923,7 @@ delegated
 dispersive
 dermatopathic
 dovishness
+discompose
 demonstrated
 dehiscing
 demonstrates
@@ -11963,7 +11964,6 @@ diastemata
 dicetyl
 diplostemonous
 doorba
-discompose
 dwells
 disinheritable
 depravement
