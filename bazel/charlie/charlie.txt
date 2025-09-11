@@ -21029,7 +21029,6 @@ compts
 cabretta
 cannelured
 compulsatorily
-campion
 compulsed
 calciphobe
 culex
@@ -26562,6 +26561,7 @@ councillorship
 councilman
 councilmanic
 cytodieretic
+campion
 conjunctionally
 carbomycin
 cognise
