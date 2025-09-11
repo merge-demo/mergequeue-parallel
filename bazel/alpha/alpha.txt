@@ -5243,7 +5243,6 @@ affronted
 affrontedness
 affronter
 anidiomatic
-autostethoscope
 affrontive
 assassinative
 adenose
@@ -20239,6 +20238,7 @@ auditual
 arrouse
 arrowbush
 arrowleaf
+autostethoscope
 archipelagic
 ayin
 arrowlet

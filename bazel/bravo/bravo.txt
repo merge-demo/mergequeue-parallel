@@ -1105,6 +1105,7 @@ baioc
 braciole
 blanketry
 boresomeness
+brigantes
 bronchocavernous
 beets
 baddishness
@@ -3710,7 +3711,6 @@ basocyte
 bethanking
 battleships
 buhr
-brigantes
 bimestrial
 battlewagon
 bronchiectasis
