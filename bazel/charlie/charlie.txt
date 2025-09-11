@@ -6191,7 +6191,6 @@ ceroplast
 caulis
 caulivorous
 colourful
-choanosomal
 crustation
 caulks
 chymists
@@ -6914,6 +6913,7 @@ cloglike
 coloproctitis
 cenation
 cencerro
+choanosomal
 coumarane
 chappe
 cenesthesis
