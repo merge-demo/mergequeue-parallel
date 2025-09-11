@@ -3462,7 +3462,6 @@ deformation
 deflections
 delete
 deformations
-detrudes
 dandily
 deformative
 deuterostomata
@@ -6809,6 +6808,7 @@ daubery
 decidingly
 dictyoceratina
 desmanthus
+detrudes
 disleafing
 deterrer
 dreadfuls
