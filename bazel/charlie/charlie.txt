@@ -19482,7 +19482,6 @@ coloring
 clangful
 colorings
 conges
-colorisms
 count
 clutching
 cystous
@@ -22317,6 +22316,7 @@ chilarium
 congratulates
 coevalneity
 coward
+colorisms
 congratulational
 costumire
 congratulations
