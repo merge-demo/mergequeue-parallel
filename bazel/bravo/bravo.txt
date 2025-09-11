@@ -3672,7 +3672,6 @@ booklover
 balearian
 bedboard
 blearedness
-baste
 bangalow
 bally
 batteaux
@@ -12321,6 +12320,7 @@ blan
 beefsteaks
 bobfly
 brimful
+baste
 blatter
 broideries
 bombing
