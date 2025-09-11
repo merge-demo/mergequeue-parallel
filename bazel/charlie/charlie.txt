@@ -18077,6 +18077,7 @@ coenacted
 conusant
 compromitting
 crossbeak
+configured
 chacate
 coenacts
 coenaculous
@@ -25001,7 +25002,6 @@ cordinar
 cordlessly
 convention
 chunga
-configured
 conceptacular
 cordobas
 cordon
