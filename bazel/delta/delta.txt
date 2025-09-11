@@ -11202,7 +11202,6 @@ dissaves
 danceability
 dyslectic
 deactivations
-doeg
 dismask
 dogmatist
 divinities
@@ -15859,6 +15858,7 @@ disweapon
 detenu
 deproceduring
 dormers
+doeg
 dormette
 dormeuse
 dormilona
