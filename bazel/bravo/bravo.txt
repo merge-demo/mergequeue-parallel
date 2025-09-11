@@ -3999,7 +3999,6 @@ beakiron
 brutalization
 barms
 beaks
-bilophodont
 beala
 burglarproofing
 buchu
@@ -4166,6 +4165,7 @@ beatifies
 batholite
 bouchees
 bandel
+bilophodont
 baignoire
 bioscientific
 beatles
