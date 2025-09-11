@@ -8802,6 +8802,7 @@ dragonkind
 diazoaminobenzene
 deftness
 dj
+deponent
 dinettes
 dints
 diabolized
@@ -15267,7 +15268,6 @@ defense
 daceloninae
 demographist
 dyaus
-deponent
 doddering
 dagbamba
 dohickey

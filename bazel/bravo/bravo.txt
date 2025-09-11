@@ -1374,7 +1374,6 @@ benzoquinoline
 beggarliness
 brayed
 butterbump
-betwixen
 balconies
 baldachin
 bhaiachari
@@ -11836,6 +11835,7 @@ bodied
 becrowding
 bepale
 bodykins
+betwixen
 bodilize
 bahuvrihi
 beento
