@@ -9190,7 +9190,6 @@ acidoid
 alois
 aloysia
 apepsy
-acapulco
 aniellidae
 aloisiite
 aloysius
@@ -13653,6 +13652,7 @@ attenuates
 anopla
 anoplonemertean
 atazir
+acapulco
 apprehended
 anoplonemertini
 aphelenchus
