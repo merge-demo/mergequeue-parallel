@@ -17544,6 +17544,7 @@ cueca
 coinitial
 cobridgehead
 ceasmic
+coprolalia
 chrysostomic
 chimneyhead
 coburg
@@ -28155,7 +28156,6 @@ cytotoxicity
 crannies
 crannying
 compiler
-coprolalia
 crannock
 crannoger
 carvomenthene
