@@ -6573,6 +6573,7 @@ allures
 assessing
 apropos
 ascendent
+armado
 anthemene
 ainhum
 ascians
@@ -14285,7 +14286,6 @@ anthrapurpurin
 achaemenidian
 anthraquinone
 adoptianist
-armado
 anthrasilicosis
 amelia
 algin
