@@ -8187,6 +8187,7 @@ bifurcately
 bergschrund
 bolewort
 bolivares
+bolomen
 bonytail
 bad
 bekilted
@@ -15236,7 +15237,6 @@ befrumple
 blanquette
 bicarinate
 browsed
-bolomen
 beblood
 bohawn
 babhan
