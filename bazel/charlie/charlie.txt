@@ -2997,7 +2997,6 @@ cantily
 cantina
 canting
 cantingness
-clairschach
 concent
 cantles
 cantlet
@@ -25771,6 +25770,7 @@ cofound
 corrosibleness
 coeltera
 corrosived
+clairschach
 corrosively
 collegiality
 corrosiveness
