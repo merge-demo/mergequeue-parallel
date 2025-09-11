@@ -12255,7 +12255,6 @@ chrysopsis
 crispy
 chaotically
 camphorphorone
-cardings
 chrysosperm
 chrysosplenium
 chrysothrix
@@ -14172,6 +14171,7 @@ circumambient
 circumambulate
 circumambulated
 compose
+cardings
 cuisinier
 culinary
 circumambulator
