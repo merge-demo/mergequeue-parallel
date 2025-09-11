@@ -1461,7 +1461,6 @@ bereavers
 balibago
 belating
 beakier
-benefitting
 baline
 bodyless
 bundahish
@@ -14784,6 +14783,7 @@ bieberite
 bobization
 breached
 breacher
+benefitting
 beanfeaster
 breachers
 belonite
