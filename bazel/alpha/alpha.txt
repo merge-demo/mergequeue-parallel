@@ -8819,7 +8819,6 @@ acrogenic
 alloisomerism
 allomerizing
 archaically
-averager
 anematizing
 aerobiologic
 acetoxime
@@ -22710,6 +22709,7 @@ adjurers
 atocha
 atoke
 alphenic
+averager
 agamid
 anyhow
 atomatic
