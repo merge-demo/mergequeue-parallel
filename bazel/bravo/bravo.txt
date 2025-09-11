@@ -710,7 +710,6 @@ baddies
 ballcarrier
 broking
 bassaris
-botherer
 bragas
 boral
 bade
@@ -11224,6 +11223,7 @@ bridgeable
 bescouring
 burez
 blasts
+botherer
 businesslike
 beguilements
 brightening
