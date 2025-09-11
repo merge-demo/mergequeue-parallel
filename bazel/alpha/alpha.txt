@@ -6069,7 +6069,6 @@ aegerian
 aerolitics
 aduncity
 agonic
-agonise
 axillas
 agonistarch
 agonistics
@@ -15943,6 +15942,7 @@ antirennin
 archiepiscopally
 antirenter
 ambitious
+agonise
 acinacious
 astelic
 antirepublicanism
