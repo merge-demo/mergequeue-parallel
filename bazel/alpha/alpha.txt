@@ -17942,7 +17942,6 @@ aquaria
 aprilesque
 attrap
 antipodean
-autonavigators
 aprioristically
 atrazines
 apriority
@@ -24398,6 +24397,7 @@ adversarious
 autosuppression
 autotelegraph
 antiserum
+autonavigators
 autoanticomplement
 autotetraploid
 artophoria
