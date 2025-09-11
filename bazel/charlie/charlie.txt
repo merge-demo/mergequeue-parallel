@@ -9262,7 +9262,6 @@ caprification
 chattermagging
 chatters
 chatti
-chattier
 cuspidors
 chairmending
 coliform
@@ -22393,6 +22392,7 @@ conical
 canajong
 cataloguish
 chordally
+chattier
 crookfingered
 crusadoes
 coastwards
