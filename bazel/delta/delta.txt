@@ -2815,7 +2815,6 @@ deceitfulness
 deceitfully
 decuman
 dissuasive
-disaffirm
 desensitizations
 divertissements
 dramatizations
@@ -12282,6 +12281,7 @@ delphinine
 ditone
 disgavelling
 dovetailwise
+disaffirm
 damndest
 deresinate
 daystar
