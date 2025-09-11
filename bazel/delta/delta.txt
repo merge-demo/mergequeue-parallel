@@ -767,7 +767,6 @@ dandler
 dandlers
 dictator
 dispurpose
-discide
 drawn
 devolatilize
 dandles
@@ -5025,6 +5024,7 @@ depr
 denasalize
 digital
 disconsolateness
+discide
 dictamen
 denasalized
 downdraft
