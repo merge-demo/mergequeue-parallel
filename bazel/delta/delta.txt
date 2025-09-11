@@ -8400,7 +8400,6 @@ dialist
 denegation
 debauchedness
 deadmen
-diduction
 deywoman
 dialystely
 dialister
@@ -13649,6 +13648,7 @@ dorize
 dequantitate
 diedral
 dissimilate
+diduction
 disacquaintance
 dissimilative
 deadeye
