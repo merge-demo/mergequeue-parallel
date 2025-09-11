@@ -8803,6 +8803,7 @@ bombycids
 branks
 bible
 binotonous
+besmearer
 bedeck
 boilerman
 blackfishes
@@ -15064,7 +15065,6 @@ biomaterial
 bidimensional
 breviconic
 bunkered
-besmearer
 beaconwise
 bushhammer
 breviradiate
