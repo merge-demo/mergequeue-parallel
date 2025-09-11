@@ -3291,7 +3291,6 @@ backstabbed
 bronzes
 balche
 bazar
-basiotripsy
 barrenest
 boobyism
 bookwork
@@ -12473,6 +12472,7 @@ broodier
 barcarolle
 binocularly
 biennially
+basiotripsy
 bloomerism
 bonelessly
 bonelet
