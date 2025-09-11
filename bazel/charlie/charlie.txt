@@ -8849,6 +8849,7 @@ characteristicalness
 cucaracha
 characterization
 characterizing
+courtier
 characterless
 contratenor
 characterlessness
@@ -29827,7 +29828,6 @@ crossbreeding
 conditionalism
 crosscuts
 cytochemistry
-courtier
 coling
 centrifuges
 crosscutting
