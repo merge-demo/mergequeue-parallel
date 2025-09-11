@@ -2918,6 +2918,7 @@ appriser
 atiptoe
 alleviator
 aciculum
+antiphon
 antimeson
 aland
 ainus
@@ -22046,7 +22047,6 @@ aquench
 auxiliate
 astigmatoscope
 astigmic
-antiphon
 astigmometer
 autosuggestive
 aglossa
