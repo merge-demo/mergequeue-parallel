@@ -6308,6 +6308,7 @@ cribbers
 cilantro
 cautery
 cauteries
+cottagers
 churnings
 cauterisation
 couche
@@ -26447,7 +26448,6 @@ chuckstone
 coopt
 corotating
 cottager
-cottagers
 cottars
 cahuy
 cottas
