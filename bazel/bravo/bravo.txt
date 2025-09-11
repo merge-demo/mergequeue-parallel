@@ -1355,7 +1355,6 @@ balatte
 bergfall
 bernoullian
 bingy
-burelage
 bedways
 bradycardia
 balaustine
@@ -6236,6 +6235,7 @@ boatside
 beys
 burghs
 bosomer
+burelage
 burying
 benthamism
 burglarproof
