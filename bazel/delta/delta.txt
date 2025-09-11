@@ -10306,7 +10306,6 @@ damselfly
 dicynodon
 denary
 diomate
-discoglossoid
 diaconica
 dearly
 decalcification
@@ -11960,6 +11959,7 @@ defrock
 dramatizes
 disdein
 downrange
+discoglossoid
 domes
 derailleur
 disembarked
