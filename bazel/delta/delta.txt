@@ -13191,7 +13191,6 @@ dispersonate
 desalinator
 dysanagnosia
 dondia
-dispetal
 dysphasia
 diplophonia
 dreamery
@@ -15892,6 +15891,7 @@ dorr
 doomage
 digonal
 deflorations
+dispetal
 dunner
 dorsa
 dentiparous
