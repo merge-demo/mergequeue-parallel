@@ -1051,6 +1051,7 @@ betraise
 bailiaries
 bargainwise
 bailieries
+borzoi
 botargos
 braata
 balneophysiology
@@ -13181,7 +13182,6 @@ bowtel
 beworm
 britannica
 borwort
-borzoi
 bloodthirst
 bloodbath
 boschneger

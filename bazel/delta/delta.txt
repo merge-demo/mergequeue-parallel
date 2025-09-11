@@ -482,7 +482,6 @@ daysmen
 dayspring
 deplorer
 disthrall
-deino
 daswen
 daytide
 deerdrive
@@ -18325,6 +18324,7 @@ dyable
 duns
 dragomans
 decerebration
+deino
 dissue
 distractible
 duodynatron
