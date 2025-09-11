@@ -483,7 +483,6 @@ deplorer
 disthrall
 daswen
 daytide
-deerdrive
 daytimes
 daunder
 disburthen
@@ -6961,6 +6960,7 @@ disqualifying
 distills
 demonisms
 disshroud
+deerdrive
 despisingly
 deepens
 draco
