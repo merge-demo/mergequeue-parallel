@@ -8528,7 +8528,6 @@ bedrench
 bimillenial
 billiard
 beepers
-billiardist
 bioactivity
 brickset
 bronchial
@@ -9065,6 +9064,7 @@ bullishness
 budzart
 biosome
 bandhu
+billiardist
 biosphere
 breakdown
 bionomical
