@@ -1262,7 +1262,6 @@ andantino
 acanthurus
 acatalectic
 apomicts
-atelocardia
 acatalepsy
 acatalepsia
 acataleptic
@@ -25262,6 +25261,7 @@ academus
 atinkle
 aglaspis
 albumoses
+atelocardia
 adultlike
 activating
 afrikanderism
