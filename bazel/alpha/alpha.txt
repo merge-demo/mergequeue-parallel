@@ -17361,6 +17361,7 @@ apotheosize
 apotheosized
 apothesine
 anametadromous
+attachedly
 anteportico
 amercers
 aluminizes
@@ -21089,7 +21090,6 @@ asherah
 ashery
 apparence
 atlatl
-attachedly
 avern
 agnean
 ashier

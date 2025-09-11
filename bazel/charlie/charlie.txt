@@ -27392,7 +27392,6 @@ courtside
 couscous
 castilloa
 caddying
-cobaltic
 cleuk
 couscousou
 cousinage
@@ -29342,6 +29341,7 @@ cryptozoite
 cryptozonate
 cryophoric
 corbeille
+cobaltic
 crypturi
 carites
 crypturidae
