@@ -8338,7 +8338,6 @@ bastian
 bigwigged
 barye
 beryllia
-bigwigs
 babu
 brachygraphic
 bistoury
@@ -10505,6 +10504,7 @@ belligerent
 badasses
 blastula
 boswellia
+bigwigs
 benediction
 blastulation
 briton
