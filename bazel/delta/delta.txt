@@ -16711,7 +16711,6 @@ decades
 dexterousness
 deathbeds
 drone
-designation
 defrays
 dragsters
 doctoress
@@ -18677,6 +18676,7 @@ documentarily
 dwarfisms
 darwinically
 detersively
+designation
 didymis
 dwarfs
 dwindlement
