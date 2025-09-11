@@ -11229,7 +11229,6 @@ coercibility
 chloriamb
 claylike
 chloriambus
-chloric
 chlorid
 chicanos
 chloridate
@@ -30478,6 +30477,7 @@ carousal
 cubbishness
 choiring
 cubbyu
+chloric
 cubbies
 cajoleries
 cameoed
