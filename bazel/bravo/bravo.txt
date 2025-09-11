@@ -7544,7 +7544,6 @@ bryological
 beswink
 boons
 bewitchingly
-bewitchingness
 beleve
 bullsticker
 bewizard
@@ -11985,6 +11984,7 @@ bohunks
 beverly
 belligerence
 boy
+bewitchingness
 beneficeless
 bartholomean
 brawling
