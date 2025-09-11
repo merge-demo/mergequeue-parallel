@@ -3129,7 +3129,6 @@ capelan
 capelans
 capelin
 cornette
-crocked
 capelins
 capella
 chelatable
@@ -10733,6 +10732,7 @@ corroder
 campylotropal
 chinchy
 chinchillas
+crocked
 contracivil
 churnability
 chinchona
