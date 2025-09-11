@@ -14595,6 +14595,7 @@ chondrule
 cylindrite
 convulsion
 cysticercoidal
+covinous
 cysticercosis
 cysticerus
 cysticolous
@@ -27571,7 +27572,6 @@ coving
 cetin
 carapus
 cointension
-covinous
 covisit
 charioteership
 covisitor
