@@ -8078,7 +8078,6 @@ amplexicaudate
 amora
 alibied
 alibis
-antroversion
 ambiverts
 alternativo
 anglican
@@ -22906,6 +22905,7 @@ antiaristocratical
 adlumidin
 attackers
 attacking
+antroversion
 alfet
 antedated
 aldermanship
