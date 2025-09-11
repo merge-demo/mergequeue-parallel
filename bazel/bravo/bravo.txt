@@ -879,7 +879,6 @@ bicolour
 boulevardiers
 baggagemaster
 baggager
-benzidin
 beffroy
 boccale
 borderlight
@@ -6267,6 +6266,7 @@ benzalphenylhydrazone
 braw
 benzamide
 benzoxate
+benzidin
 badgerbrush
 benzamine
 biblic
