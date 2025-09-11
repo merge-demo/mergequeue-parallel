@@ -8482,7 +8482,6 @@ dermochrome
 desmonosology
 diambic
 diamegnetism
-diamesogamous
 disclike
 deciares
 discombobulating
@@ -11054,6 +11053,7 @@ durindana
 degranulation
 disagreements
 distally
+diamesogamous
 disagreing
 dethronable
 dioptroscopy
