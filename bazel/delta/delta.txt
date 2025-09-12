@@ -3462,6 +3462,7 @@ deformability
 droughermen
 disknow
 dastur
+desalt
 delvers
 dolichocephalism
 deformable
@@ -16800,7 +16801,6 @@ distributedly
 drypoint
 disadvised
 dicey
-desalt
 disclaimer
 disauthorize
 docked
