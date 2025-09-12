@@ -3315,6 +3315,7 @@ bothering
 basisphenoidal
 basitemporal
 biprong
+basommatophorous
 beguilers
 besotment
 basked
@@ -4494,7 +4495,6 @@ babesia
 blottto
 becurses
 becurst
-basommatophorous
 becushioned
 befogged
 baidak
