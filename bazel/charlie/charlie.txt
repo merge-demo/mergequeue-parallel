@@ -3784,7 +3784,6 @@ carmelite
 caladium
 carboluria
 chrisma
-carbomethene
 carbomethoxyl
 carbon
 carbona
@@ -16696,6 +16695,7 @@ climbing
 cypselidae
 closeouts
 closer
+carbomethene
 chlorophyllose
 chrysler
 checkerwise
