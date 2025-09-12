@@ -9722,7 +9722,6 @@ bookish
 blockers
 bosses
 bistriate
-beddable
 breeze
 brachypleural
 bartender
@@ -12057,6 +12056,7 @@ biglenoid
 believers
 bolboxalis
 birls
+beddable
 brandling
 backpack
 bedarkened
