@@ -12912,7 +12912,6 @@ boothite
 baseball
 bearfoot
 bialy
-bootlegs
 bootlessly
 bootlessness
 balao
@@ -13432,6 +13431,7 @@ baggage
 bassoonist
 blueprints
 bushfire
+bootlegs
 broadens
 bothriolepis
 bensell
