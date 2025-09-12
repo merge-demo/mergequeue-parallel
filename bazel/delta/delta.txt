@@ -2937,7 +2937,6 @@ decemfid
 deductio
 deductions
 dwarfism
-distrainment
 deductive
 deductory
 dariole
@@ -7615,6 +7614,7 @@ discs
 deuterotype
 displeasure
 dudelsack
+distrainment
 deuterozooid
 didynamies
 discreetness
