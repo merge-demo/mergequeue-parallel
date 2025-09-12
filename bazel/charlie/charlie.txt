@@ -3417,6 +3417,7 @@ cycloidei
 cheerios
 clergywoman
 caprin
+castrensial
 candlebeam
 cimelia
 cynicist
@@ -24153,7 +24154,6 @@ convexly
 convexness
 convexo
 convexoconcave
-castrensial
 cutesy
 colascione
 cannalling
