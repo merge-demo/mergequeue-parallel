@@ -7326,7 +7326,6 @@ bubbling
 brier
 betises
 botrycymose
-birdbath
 baze
 braker
 busyworks
@@ -7784,6 +7783,7 @@ bewail
 bronzy
 bouet
 bursautee
+birdbath
 bibbing
 bibble
 bibbler
