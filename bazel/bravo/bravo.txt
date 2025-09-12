@@ -1979,7 +1979,6 @@ bafaro
 basilicas
 bangkok
 bacteriogenous
-bangladesh
 bespatters
 boobialla
 bandworm
@@ -10230,6 +10229,7 @@ bellweather
 bulldogs
 boehmites
 biborate
+bangladesh
 belly
 bleeding
 boracic
