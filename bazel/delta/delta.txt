@@ -11247,6 +11247,7 @@ devisee
 datolite
 disbands
 depopulate
+decimally
 disbarring
 drivelled
 disbars
@@ -13594,7 +13595,6 @@ deerlet
 duende
 dehydrofrozen
 deerhorn
-decimally
 disinfections
 deaurate
 degrain
