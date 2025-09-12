@@ -1783,7 +1783,6 @@ debark
 dropseed
 drawknife
 debarking
-discede
 debarment
 debarrance
 duryl
@@ -2001,6 +2000,7 @@ deflection
 decadactylous
 demihogshead
 descloizite
+discede
 disassociating
 draftage
 decadary
