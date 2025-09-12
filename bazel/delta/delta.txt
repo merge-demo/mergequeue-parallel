@@ -6450,7 +6450,6 @@ desacralization
 documenter
 drizzled
 drugshop
-danseusse
 deplumation
 dictatrix
 deodara
@@ -9623,6 +9622,7 @@ drachm
 departisanize
 deglazes
 dignitary
+danseusse
 dignitarian
 discuss
 dreamy
