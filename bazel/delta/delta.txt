@@ -2450,7 +2450,6 @@ diaeresis
 doughs
 dey
 dand
-deucing
 diversifier
 decipherably
 deciphered
@@ -12211,6 +12210,7 @@ delineature
 disproven
 dodrantal
 dinergate
+deucing
 dehusk
 doom
 depthometer
