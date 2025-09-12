@@ -8369,6 +8369,7 @@ aerophysicist
 alkaloid
 aswing
 alkaloids
+alcoholism
 alkalosis
 alkalous
 alkalurops
@@ -19840,7 +19841,6 @@ armor
 akuammin
 adonises
 ampoules
-alcoholism
 alastors
 armorials
 armoric
