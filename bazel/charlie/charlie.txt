@@ -15587,7 +15587,6 @@ cicatrized
 curites
 crustaceous
 classificator
-contubernium
 culicidae
 capelline
 classificatory
@@ -27631,6 +27630,7 @@ cowhand
 curtays
 cowherb
 cowherds
+contubernium
 cwo
 clavicornate
 cataleptoid

@@ -4094,7 +4094,6 @@ drumfire
 delimitation
 delimiter
 deviational
-displumed
 departments
 diplomyelia
 deline
@@ -7497,6 +7496,7 @@ darbha
 diplegic
 defrosts
 dich
+displumed
 dermoplasty
 dioeciopolygamous
 dolichocnemic
