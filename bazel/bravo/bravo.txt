@@ -4467,6 +4467,7 @@ bryony
 bae
 balanophoraceous
 bedwarfed
+barbarea
 brigadiership
 bulbiform
 blastoff
@@ -13258,7 +13259,6 @@ broadest
 bogomil
 bosset
 barebacked
-barbarea
 bonducnut
 bedstaff
 basilidan
