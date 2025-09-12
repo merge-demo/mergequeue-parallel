@@ -6204,7 +6204,6 @@ barndoor
 biuret
 blatantly
 braceleted
-bimodulus
 benni
 bennies
 benomyl
@@ -13576,6 +13575,7 @@ boughs
 bougie
 benefaction
 barite
+bimodulus
 boulanger
 boulangism
 bouldered
