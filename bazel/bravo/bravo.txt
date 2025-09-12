@@ -13269,6 +13269,7 @@ banderillas
 burglar
 bouche
 bylawman
+bristletail
 bromide
 bullydom
 blitzkriegs
@@ -16061,7 +16062,6 @@ bayogoula
 bodysuits
 brotheler
 bulla
-bristletail
 bifurcate
 bayonetted
 brothels
