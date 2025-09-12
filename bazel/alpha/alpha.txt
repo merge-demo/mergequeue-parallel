@@ -5289,6 +5289,7 @@ anticensoriousness
 aspirator
 afrasia
 ammocete
+ambiversive
 aeonial
 anomiidae
 axed
@@ -5858,7 +5859,6 @@ angor
 attain
 agilawood
 appomattox
-ambiversive
 arioso
 agility
 auxotrophic
