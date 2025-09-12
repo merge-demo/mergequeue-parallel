@@ -940,6 +940,7 @@ abstains
 acerathere
 annectant
 ammonitiferous
+anidian
 augural
 anorthographical
 assis
@@ -7897,7 +7898,6 @@ apodeixis
 arabinose
 alexipyretic
 alexis
-anidian
 alexiterical
 admirations
 alexius
