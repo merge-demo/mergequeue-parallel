@@ -5501,7 +5501,6 @@ deoxyribonucleotide
 disportive
 diaphragm
 dogtrot
-defaulter
 darter
 dolichos
 digging
@@ -13215,6 +13214,7 @@ depicts
 dysphonia
 dysphrasia
 diabolonian
+defaulter
 detrimental
 dollardee
 dispicion
