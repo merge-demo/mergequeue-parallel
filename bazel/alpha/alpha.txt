@@ -13556,7 +13556,6 @@ awned
 absolutization
 aboriginal
 antivariolous
-aorist
 atrabilaire
 anomalies
 anomaliflorous
@@ -15062,6 +15061,7 @@ antifascist
 antifascists
 antifat
 abutter
+aorist
 amphimictical
 aseptically
 aneurismal
