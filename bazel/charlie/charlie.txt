@@ -9247,7 +9247,6 @@ chattelhood
 cacks
 constructiveness
 chattelizing
-chansonnier
 calamities
 capeskins
 chatter
@@ -30033,6 +30032,7 @@ chilomata
 carnivores
 controverter
 chint
+chansonnier
 crowdedly
 circumambiencies
 cheson
