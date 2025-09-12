@@ -5305,7 +5305,6 @@ atharvan
 arrange
 angiokinesis
 algometry
-afrikanderdom
 afrit
 armary
 adored
@@ -21080,6 +21079,7 @@ ashberry
 ashcake
 adventure
 asherah
+afrikanderdom
 ashery
 apparence
 atlatl
