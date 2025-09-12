@@ -3353,7 +3353,6 @@ cyclocoelic
 cappae
 capped
 capper
-ciseleurs
 cappiest
 capping
 cervelas
@@ -4833,6 +4832,7 @@ circumnavigated
 camerieri
 carrotins
 carrotweed
+ciseleurs
 corporation
 canonization
 clomben
