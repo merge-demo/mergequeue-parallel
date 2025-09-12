@@ -2861,7 +2861,6 @@ canonizer
 canonizes
 canonizing
 carga
-canonry
 canons
 canonship
 canoodles
@@ -14887,6 +14886,7 @@ cartmaker
 cattery
 cosmine
 complected
+canonry
 cheapies
 cytopathogenic
 cuckolds
