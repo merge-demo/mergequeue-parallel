@@ -6989,7 +6989,6 @@ abdominalia
 azotea
 agricultor
 agrobiology
-asterospondylic
 akpek
 akra
 antitypically
@@ -24706,6 +24705,7 @@ aviatic
 aviating
 argles
 appleberry
+asterospondylic
 axonost
 afterblow
 auscult
