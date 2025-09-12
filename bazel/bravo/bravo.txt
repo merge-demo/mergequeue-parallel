@@ -2939,6 +2939,7 @@ barrets
 blindeyes
 bimbo
 boundaries
+boreas
 boobishness
 blobby
 barricaded
@@ -3790,7 +3791,6 @@ brutus
 bauhinias
 barrington
 buddhahood
-boreas
 baulked
 bearbane
 bequeaths
