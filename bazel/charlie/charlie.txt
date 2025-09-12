@@ -1166,7 +1166,6 @@ caldaria
 chokra
 calderas
 chapournetted
-casuistic
 cylindrarthrosis
 campimetrical
 caldrons
@@ -7522,6 +7521,7 @@ cerebellorubral
 cerebellum
 creator
 cubonavicular
+casuistic
 cleidarthritis
 covariation
 cerebral
