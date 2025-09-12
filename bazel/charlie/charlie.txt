@@ -3259,6 +3259,7 @@ compenetrate
 corns
 capito
 clingier
+cheirognomy
 contrib
 capitolium
 capitula
@@ -20585,7 +20586,6 @@ compellable
 cultirostres
 characine
 cryptopapist
-cheirognomy
 compelled
 carpogenic
 crumpling
