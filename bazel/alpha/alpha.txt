@@ -3702,6 +3702,7 @@ adipoceriform
 adipoid
 angiology
 amati
+anthocyan
 airwaves
 antitropous
 angiorrhexis
@@ -14032,7 +14033,6 @@ amphithere
 antepenultimate
 azoimide
 angiitis
-anthocyan
 antepirrhema
 anteporticoes
 alloxantin
