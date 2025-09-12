@@ -7143,6 +7143,7 @@ canephoroe
 centrer
 closely
 chol
+copping
 chatterbox
 centrev
 chivalrous
@@ -23197,7 +23198,6 @@ constrainedly
 counterpoise
 constrainedness
 carroll
-copping
 coiffure
 capful
 constrainingly
