@@ -6187,6 +6187,7 @@ benight
 buzzed
 benighter
 barked
+backhanding
 basidiolichenes
 breedling
 benin
@@ -12775,7 +12776,6 @@ booting
 basisidia
 booleans
 booly
-backhanding
 betatters
 book
 bronchially
