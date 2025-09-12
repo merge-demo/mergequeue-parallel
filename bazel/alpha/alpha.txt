@@ -8143,7 +8143,6 @@ acquent
 anthropopithecus
 alienism
 aardwolves
-alienist
 abulic
 alienists
 alienize
@@ -24903,6 +24902,7 @@ awakening
 awakeningly
 avignonese
 awakenment
+alienist
 agglutinative
 avocational
 adelops
