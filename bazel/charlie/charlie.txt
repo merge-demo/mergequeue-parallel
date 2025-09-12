@@ -5563,7 +5563,6 @@ comprizable
 correlativism
 chlorococcum
 cataphora
-cataphoresis
 cataphoretically
 cataphoria
 cataphract
@@ -8738,6 +8737,7 @@ combflower
 cytostome
 chapelries
 cinerins
+cataphoresis
 chapels
 chiasmi
 chapelward
