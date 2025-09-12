@@ -6425,6 +6425,7 @@ calve
 catalogues
 cavicornia
 cavie
+cercarian
 citrinous
 conversely
 caviya
@@ -24916,7 +24917,6 @@ congroid
 combfishes
 corantoes
 centesimi
-cercarian
 chan
 crowbill
 coldslaw
