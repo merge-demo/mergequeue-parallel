@@ -2089,6 +2089,7 @@ chewed
 campbell
 combinant
 campbellisms
+cannonproof
 campbellites
 clairvoyances
 cixiid
@@ -13210,7 +13211,6 @@ convectional
 convoying
 cyclesmith
 crookbilled
-cannonproof
 cyclic
 cyclical
 cyclizing
