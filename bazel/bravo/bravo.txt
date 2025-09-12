@@ -4078,6 +4078,7 @@ blackballed
 blamableness
 bicompact
 bodysurfs
+bardic
 bowmaking
 beelbow
 brushproof
@@ -5480,7 +5481,6 @@ balausta
 bindi
 boxed
 battier
-bardic
 beeswax
 bobbled
 beydom
