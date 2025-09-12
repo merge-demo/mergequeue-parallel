@@ -2405,6 +2405,7 @@ disaffects
 decima
 decimalism
 dueling
+demiflouncing
 decimalist
 displeases
 decimalizes
@@ -12545,7 +12546,6 @@ decimalize
 disillusionments
 disgorge
 discomycetes
-demiflouncing
 dams
 disillusive
 demodulations
