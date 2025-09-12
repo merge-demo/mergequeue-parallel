@@ -1120,6 +1120,7 @@ calcographer
 calcography
 culturology
 calcsinter
+chemicoluminescence
 chinnam
 cranioclasis
 canephori
@@ -16653,7 +16654,6 @@ cloof
 cutcherries
 centile
 chymaqueous
-chemicoluminescence
 cloot
 clootie
 chargeling
