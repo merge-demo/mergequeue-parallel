@@ -7534,6 +7534,7 @@ cerebri
 czar
 clonisms
 censerless
+cocreate
 croaks
 carus
 corrugating
@@ -17799,7 +17800,6 @@ cocobolo
 condemnate
 cockalan
 cc
-cocreate
 cocreating
 contranatural
 corojo

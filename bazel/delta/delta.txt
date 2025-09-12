@@ -3728,7 +3728,6 @@ dreadful
 dehorner
 deadlily
 dehorners
-dehorning
 disconcertingly
 developers
 disour
@@ -13803,6 +13802,7 @@ delayed
 debunk
 dissuades
 devitalized
+dehorning
 determinations
 defections
 disturbedly
