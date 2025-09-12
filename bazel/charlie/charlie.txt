@@ -4006,6 +4006,7 @@ carbosilicate
 cestui
 cleronomy
 cardiagra
+chanceries
 camomiles
 cardiagram
 cardiagraph
@@ -12067,7 +12068,6 @@ champlev
 choruses
 cafila
 chorusing
-chanceries
 crisp
 crusca
 casal

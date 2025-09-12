@@ -6157,6 +6157,7 @@ befinger
 buttinsky
 bedraggles
 beetle
+battledore
 braced
 baffy
 boneen
@@ -10960,7 +10961,6 @@ blintzes
 bravi
 billowy
 brachygrapher
-battledore
 batched
 besoothes
 blips
