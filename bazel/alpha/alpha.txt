@@ -8607,6 +8607,7 @@ assurable
 anconad
 aryl
 amanous
+agastreae
 alleve
 alleviate
 acajous
@@ -21984,7 +21985,6 @@ asterophyllite
 asterophyllites
 adorno
 agnathous
-agastreae
 anerythroplastic
 asterozoa
 ampongue
