@@ -6135,7 +6135,6 @@ divvied
 dynapolis
 defalcate
 derays
-dysmetria
 dualin
 dropout
 diaulic
@@ -17157,6 +17156,7 @@ disrange
 diaplexus
 datacell
 disaffected
+dysmetria
 danebrog
 daggerlike
 divi
