@@ -14678,6 +14678,7 @@ abbreviations
 agaze
 antichance
 antichlorine
+arcadings
 antichloristic
 antichlorotic
 antievangelical
@@ -15162,7 +15163,6 @@ antigovernmental
 antigovernmentally
 antigrammatical
 aminoacetanilide
-arcadings
 aromatised
 anisotropal
 ansa
