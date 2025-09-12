@@ -3902,6 +3902,7 @@ detick
 dejeration
 dejeuner
 dekagramme
+deductibles
 dortiness
 discants
 doggerelize
@@ -5483,7 +5484,6 @@ deorsumversion
 diesel
 damoisel
 deossification
-deductibles
 dually
 deuterostomatous
 dissipates
