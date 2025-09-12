@@ -907,6 +907,7 @@ cakewalking
 caressant
 carnotite
 clientelage
+charites
 cloragen
 consecration
 caking
@@ -19839,7 +19840,6 @@ combustive
 choristry
 cislunar
 combusts
-charites
 captained
 combwise
 carpings
