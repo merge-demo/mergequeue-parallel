@@ -5378,6 +5378,7 @@ aftergrief
 aftergrowth
 antipathy
 acton
+armado
 assuringly
 accommodation
 acetonylidene
@@ -6570,7 +6571,6 @@ allures
 assessing
 apropos
 ascendent
-armado
 anthemene
 ainhum
 ascians
