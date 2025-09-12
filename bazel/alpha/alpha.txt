@@ -5380,7 +5380,6 @@ armado
 assuringly
 accommodation
 acetonylidene
-apothecary
 afterguard
 anaerobious
 aphthitalite
@@ -17506,6 +17505,7 @@ alunite
 antirepublican
 appendaged
 apotihecal
+apothecary
 abidingness
 algors
 alepine
