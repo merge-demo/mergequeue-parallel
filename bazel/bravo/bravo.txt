@@ -3418,7 +3418,6 @@ burnishable
 blather
 bastardized
 bastardliness
-birimose
 bullfoot
 boatshop
 bleaching
@@ -11627,6 +11626,7 @@ bodywear
 boatless
 banjoes
 bewonder
+birimose
 bombardmen
 belace
 bumwood
