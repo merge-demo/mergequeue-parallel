@@ -9820,6 +9820,7 @@ calanid
 chemicker
 chemicoastrological
 chemicobiologic
+chokage
 collocates
 chemicodynamic
 cyclostome
@@ -11490,7 +11491,6 @@ charthouse
 classmen
 calumnies
 costless
-chokage
 chokeberry
 cavalcaded
 certif
