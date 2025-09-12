@@ -4948,7 +4948,6 @@ beladied
 burgage
 basement
 bluebeardism
-belleric
 beermaker
 beermaking
 beermonger
@@ -12835,6 +12834,7 @@ boomtown
 biestings
 boardbill
 beefcake
+belleric
 bryozoum
 boomtowns
 barracuda
