@@ -11084,7 +11084,6 @@ caconymic
 committeeism
 chloridation
 chitosans
-capsids
 chitose
 chitrali
 caddis
@@ -13961,6 +13960,7 @@ corporature
 cinquefoiled
 cinquepace
 cinter
+capsids
 ceratopsid
 cynthiidae
 coopering
