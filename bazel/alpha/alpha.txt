@@ -935,6 +935,7 @@ abstainers
 aphanesite
 ashplants
 abstaining
+anaschistic
 abstains
 acerathere
 annectant
@@ -13196,7 +13197,6 @@ anisosthenic
 anisostichous
 anisostomous
 acetosoluble
-anaschistic
 anisotonic
 amphitheatral
 anisotrope
