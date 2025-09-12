@@ -6166,6 +6166,7 @@ abrogate
 agregation
 aktivismus
 antinomic
+afterwards
 antipapal
 angelizing
 animas
@@ -20262,7 +20263,6 @@ assimilated
 aphelia
 aftertime
 agnizes
-afterwards
 arseniferous
 arseniopleite
 armadas
