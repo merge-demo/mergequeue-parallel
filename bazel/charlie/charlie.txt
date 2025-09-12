@@ -4151,7 +4151,6 @@ clearwing
 carbamido
 carnet
 chiron
-chauffeur
 carabideous
 carburise
 cardsharp
@@ -26302,6 +26301,7 @@ costumiere
 costumiers
 cinematize
 choreomania
+chauffeur
 cubistically
 cluttering
 counterindoctrinate
