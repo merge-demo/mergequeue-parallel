@@ -8242,6 +8242,7 @@ delinquency
 dauby
 dragooning
 dactylic
+downlie
 drabbets
 diacranterian
 dicyema
@@ -15866,7 +15867,6 @@ donec
 daylilies
 deperm
 decries
-downlie
 dialyzation
 dormancies
 dizygotic
