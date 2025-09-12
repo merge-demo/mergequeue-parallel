@@ -8249,6 +8249,7 @@ chalicotheriid
 crummable
 chalicotheriidae
 caravan
+campfire
 cephalohumeralis
 chantress
 courtyard
@@ -13711,7 +13712,6 @@ cinchonise
 cloots
 clashed
 chambul
-campfire
 cheers
 cinchonization
 crunodal
