@@ -9801,6 +9801,7 @@ cutinizing
 chelonia
 contrails
 chelonian
+chondrolipoma
 cosmodrome
 cheloniidae
 cunit
@@ -16579,7 +16580,6 @@ coronale
 caffiso
 compensations
 cloysome
-chondrolipoma
 cloisonless
 condylomata
 chancering
