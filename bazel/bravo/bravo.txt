@@ -1039,6 +1039,7 @@ birotation
 bail
 bringer
 barfs
+burstwort
 bailable
 boordly
 bezazz
@@ -4453,7 +4454,6 @@ becrowd
 bismanol
 backstrokes
 becrowded
-burstwort
 billeting
 bacchanalias
 bidi
