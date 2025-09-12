@@ -2130,6 +2130,7 @@ achromatize
 assimilating
 arctalian
 aerosolizing
+amphorae
 antiparastatitis
 achromatope
 achromatophile
@@ -11247,7 +11248,6 @@ abaff
 anobiidae
 amphora
 austrophilism
-amphorae
 acquainted
 anthracite
 aeronautism
