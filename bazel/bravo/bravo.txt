@@ -873,7 +873,6 @@ bootblack
 bloody
 basilicate
 bestial
-bagdi
 bunters
 begoniaceae
 bicolour
@@ -12303,6 +12302,7 @@ buckpot
 bombesins
 brightsomeness
 boggin
+bagdi
 beeregar
 bombycid
 bantered

@@ -5835,7 +5835,6 @@ cathar
 cribbage
 cathari
 catharina
-carminite
 coloplication
 catharist
 catharistic
@@ -27555,6 +27554,7 @@ cerealin
 covetable
 coveted
 coveter
+carminite
 covetise
 canaba
 conoplain
