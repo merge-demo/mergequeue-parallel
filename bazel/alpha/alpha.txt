@@ -5490,6 +5490,7 @@ antilopinae
 altininck
 acrocoracoid
 arachnoidal
+avouchment
 accrue
 axbreaker
 agacerie
@@ -24824,7 +24825,6 @@ anticrepuscule
 assais
 averrable
 amphogenous
-avouchment
 avour
 avoutry
 autobiographically
