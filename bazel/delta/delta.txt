@@ -8671,7 +8671,6 @@ duvetyne
 demotions
 dias
 depertible
-dermatographia
 dextroduction
 downstream
 diametrically
@@ -11720,6 +11719,7 @@ discotheque
 discothque
 disengirdle
 diagramed
+dermatographia
 dehumanised
 discountable
 discountenances

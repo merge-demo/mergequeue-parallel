@@ -4420,7 +4420,6 @@ becometh
 becomingness
 becoresh
 bouchee
-believable
 bankruptly
 biurea
 bandster
@@ -11119,6 +11118,7 @@ benes
 benzazine
 brickliner
 byard
+believable
 basophobia
 bache
 bellylike
