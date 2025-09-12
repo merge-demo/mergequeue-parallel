@@ -12352,7 +12352,6 @@ disgrading
 diploids
 duramatral
 dissuadable
-discreating
 disgruntlement
 driblet
 demigrate
@@ -13963,6 +13962,7 @@ dentalising
 dodding
 distinguishment
 deutoplasm
+discreating
 dysnomy
 diagonal
 diplococci
