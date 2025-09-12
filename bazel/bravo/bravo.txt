@@ -9123,7 +9123,6 @@ beefhead
 binodal
 biogeographer
 brack
-biotypes
 biotypic
 boubou
 biotites
@@ -15532,6 +15531,7 @@ bristol
 backening
 bewigging
 bristols
+biotypes
 britain
 brattle
 buzzardlike
