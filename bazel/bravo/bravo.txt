@@ -7005,7 +7005,6 @@ bridehouse
 boweled
 bombidae
 byre
-breviloquent
 bewhiskered
 barbute
 besouth
@@ -12174,6 +12173,7 @@ bastiment
 beginner
 bolloxes
 bunkum
+breviloquent
 bollworm
 blizzardly
 bicarbide

@@ -2337,6 +2337,7 @@ canangium
 chaetognathous
 cicer
 canap
+cephalotractor
 consummator
 corradiating
 cabriole
@@ -7380,7 +7381,6 @@ cephalotomy
 corozo
 contrate
 chondroplast
-cephalotractor
 cephalotrocha
 cephalotus
 cephalous
