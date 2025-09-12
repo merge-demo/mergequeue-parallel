@@ -4173,6 +4173,7 @@ bouchees
 bandel
 bilophodont
 baignoire
+bisque
 bioscientific
 beatles
 backchain
@@ -7208,7 +7209,6 @@ besully
 betrample
 beswarm
 beswelter
-bisque
 bethuel
 balti
 bedraggle
