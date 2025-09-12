@@ -7793,7 +7793,6 @@ cooeyed
 cervicomuscular
 cerviconasal
 crotchy
-cottonwick
 coeliomyalgia
 cervicoscapular
 cervicothoracic
@@ -30525,6 +30524,7 @@ cubitale
 caninal
 cubiti
 cubitiere
+cottonwick
 cubito
 cubitocarpal
 cleanliness

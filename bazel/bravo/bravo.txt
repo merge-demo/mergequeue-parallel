@@ -7098,7 +7098,6 @@ bachelorism
 bloodied
 barefoot
 ballyrags
-bogglingly
 boxiana
 berhymes
 bullyboys
@@ -7866,6 +7865,7 @@ browser
 btu
 bunkery
 boscages
+bogglingly
 bongoists
 byron
 bibliophil
