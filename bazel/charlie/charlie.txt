@@ -17059,6 +17059,7 @@ cnemidium
 cnemis
 cnicin
 catepuce
+coltoria
 cnidae
 cnidarian
 cnidian
@@ -31481,7 +31482,6 @@ currycomb
 compositional
 cartoon
 currycombing
-coltoria
 carpolite
 currycombs
 crossword
