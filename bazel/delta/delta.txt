@@ -10638,6 +10638,7 @@ djinn
 dolour
 diplomatist
 domer
+diphthongized
 draconin
 discogastrula
 diplomatology
@@ -11118,7 +11119,6 @@ dicier
 disconnection
 disconcertedness
 delphinius
-diphthongized
 dealates
 diamagnetically
 droning
