@@ -2457,7 +2457,6 @@ bromelin
 barandos
 bereason
 bibliophilism
-binotic
 bigram
 busies
 blens
@@ -11328,6 +11327,7 @@ bhar
 bluntest
 bonds
 bedcap
+binotic
 bullety
 blubberers
 balanism
