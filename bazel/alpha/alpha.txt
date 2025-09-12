@@ -4824,7 +4824,6 @@ aeromechanic
 alphameric
 aeromedical
 asteroidal
-aerometer
 affidare
 acetamidine
 amygdalus
@@ -7210,6 +7209,7 @@ avenues
 adjuvant
 albedo
 arbalests
+aerometer
 antimetrical
 arrector
 antidisestablishmentarian
