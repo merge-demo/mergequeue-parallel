@@ -23615,6 +23615,7 @@ comprovincial
 continuer
 claque
 continuers
+coredeeming
 continuing
 corseleted
 columns
@@ -24828,7 +24829,6 @@ coracoid
 crazedness
 crocket
 chaumontel
-coredeeming
 capilliform
 cookware
 coracomorph
