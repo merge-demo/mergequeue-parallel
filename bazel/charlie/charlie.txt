@@ -9917,7 +9917,6 @@ cresylene
 chemotaxy
 cohelper
 charpie
-collocatory
 chemotaxonomy
 controls
 comma
@@ -20836,6 +20835,7 @@ complins
 complot
 caissoned
 complotter
+collocatory
 complotting
 complutensian
 cartelized
