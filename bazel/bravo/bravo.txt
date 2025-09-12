@@ -4689,7 +4689,6 @@ boottopping
 becher
 butcherliness
 bedlams
-bienseance
 bandage
 bursula
 basseted
@@ -15628,6 +15627,7 @@ broadish
 babool
 badgemen
 bulbilis
+bienseance
 bands
 bogglebo
 barbering
