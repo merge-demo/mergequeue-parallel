@@ -2775,6 +2775,7 @@ diurnals
 drypoints
 dari
 deflectable
+dichotriaene
 decresc
 delphinus
 duodecahedron
@@ -5523,7 +5524,6 @@ depainted
 depancreatization
 disilluminate
 descriptions
-dichotriaene
 docudrama
 downheaded
 depardieu
