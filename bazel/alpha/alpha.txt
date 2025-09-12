@@ -10781,6 +10781,7 @@ argillocalcite
 amphib
 afrits
 ammonolyzing
+anchovy
 athwarthawse
 ammos
 ammotherapy
@@ -20830,7 +20831,6 @@ angara
 aphasias
 agrimotor
 ascariasis
-anchovy
 apulian
 aerodynamicist
 assuefaction
