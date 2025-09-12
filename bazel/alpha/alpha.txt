@@ -10961,7 +10961,6 @@ atop
 anaclisis
 arnica
 anoesis
-amorua
 amotion
 androspore
 amotions
@@ -18405,6 +18404,7 @@ allotype
 averish
 aminity
 arborary
+amorua
 abacination
 amias
 arborea
