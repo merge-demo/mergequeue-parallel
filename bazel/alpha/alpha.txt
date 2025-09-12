@@ -16138,6 +16138,7 @@ actuarian
 anaplasm
 attestable
 amasser
+anemometrograph
 afterschool
 atheist
 apophthegm
@@ -22862,7 +22863,6 @@ altigraph
 atropine
 agonied
 atropous
-anemometrograph
 angiotasis
 atrorubent
 anatinae
