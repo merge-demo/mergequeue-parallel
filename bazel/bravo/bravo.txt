@@ -6154,6 +6154,7 @@ blushful
 blotchy
 bedclothing
 belabored
+brachydome
 beneighbored
 beneme
 blanker
@@ -9870,7 +9871,6 @@ benzoated
 buhl
 biotite
 barrenly
-brachydome
 balsamically
 bable
 bitterroot
