@@ -5028,7 +5028,6 @@ dinamode
 delustered
 dovecotes
 dissipations
-duellers
 diplographical
 disnest
 descensionist
@@ -12794,6 +12793,7 @@ drivecap
 dodrans
 dorcas
 dupondii
+duellers
 domesticize
 deer
 dysneuria
