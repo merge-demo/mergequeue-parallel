@@ -6405,6 +6405,7 @@ deallocating
 debuts
 desmology
 dillisk
+donation
 derotremata
 destinate
 denization
@@ -15591,7 +15592,6 @@ deduit
 donat
 dodecylphenol
 donatee
-donation
 donatist
 dentiloguy
 drag
