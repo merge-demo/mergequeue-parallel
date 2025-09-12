@@ -8214,6 +8214,7 @@ chalcogenide
 coenaculum
 comas
 caucho
+conjurement
 cnidophorous
 chalcographic
 chalcographical
@@ -22548,7 +22549,6 @@ conjurations
 camay
 coggledy
 conjured
-conjurement
 championlike
 conjures
 cricetine
