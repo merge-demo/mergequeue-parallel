@@ -901,6 +901,7 @@ colocates
 coquetting
 confided
 cakavci
+considerativeness
 caker
 cakette
 chaptalization
@@ -22933,7 +22934,6 @@ codiaeum
 cephalometer
 consideration
 considerations
-considerativeness
 considerator
 corrida
 copatain
