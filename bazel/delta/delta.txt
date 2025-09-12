@@ -8644,6 +8644,7 @@ dextrorse
 duckhouse
 dyarchies
 davis
+dd
 downwards
 dinge
 debugging
@@ -10447,7 +10448,6 @@ dioxides
 dioxids
 donald
 discoursively
-dd
 dotards
 djibouti
 dioxime
