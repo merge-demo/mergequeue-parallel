@@ -1135,7 +1135,6 @@ confabular
 calculatedly
 contango
 calculatedness
-calculates
 congeners
 calculatingly
 cony
@@ -23148,6 +23147,7 @@ cyclo
 constellatory
 craniospinal
 creatinin
+calculates
 counterconquest
 crooklegged
 clubbed
