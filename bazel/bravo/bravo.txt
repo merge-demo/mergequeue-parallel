@@ -9439,6 +9439,7 @@ brittling
 bookshelf
 byronesque
 bedecorate
+boread
 beirut
 bemonster
 brushiest
@@ -12739,7 +12740,6 @@ biparous
 broods
 biyearly
 booksellerism
-boread
 banderilleros
 bookselling
 bescreened
