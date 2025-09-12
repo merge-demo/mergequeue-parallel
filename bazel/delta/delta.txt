@@ -5840,6 +5840,7 @@ dujan
 dismarshall
 drukpa
 disentrancing
+diamido
 dowel
 dressings
 dozenths
@@ -12066,7 +12067,6 @@ dissents
 disenfranchises
 disintertwine
 divinest
-diamido
 diapsid
 drains
 disrobing
