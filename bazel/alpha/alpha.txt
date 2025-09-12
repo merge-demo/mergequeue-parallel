@@ -8502,7 +8502,6 @@ abaction
 alkoxid
 allectory
 architectonically
-atmophile
 allegata
 allegations
 anthropolithic
@@ -12622,6 +12621,7 @@ angiokeratoma
 apocopation
 anthocerotales
 alg
+atmophile
 angioleucitis
 angiolith
 angiomalacia
