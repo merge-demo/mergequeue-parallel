@@ -9482,6 +9482,7 @@ antipart
 averager
 aglets
 atheism
+aeroenterectasia
 autoionization
 alipeds
 altruisms
@@ -20865,7 +20866,6 @@ ascendants
 ascendence
 arbitrament
 ascending
-aeroenterectasia
 anchylosed
 alaster
 acanthocephala
