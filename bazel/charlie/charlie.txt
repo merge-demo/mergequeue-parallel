@@ -8963,7 +8963,6 @@ carcerate
 continuo
 charioting
 chloroaurite
-cleeking
 chariotman
 cyamoid
 cohunes
@@ -16495,6 +16494,7 @@ celebrious
 chimane
 cursores
 clobber
+cleeking
 clobbered
 clobbers
 cementite
