@@ -1249,7 +1249,6 @@ biodynamic
 bakra
 backslid
 beleaguers
-beds
 bimeby
 brittlebush
 bittersweetness
@@ -7631,6 +7630,7 @@ baldricwise
 beziques
 breadmaking
 bordured
+beds
 bookplates
 benelux
 bezoars
