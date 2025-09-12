@@ -4133,6 +4133,7 @@ bowbells
 beastlier
 boloroot
 beefiness
+biopsychic
 barkening
 brawled
 beknot
@@ -11068,7 +11069,6 @@ bibberies
 baals
 bichromatize
 blockboard
-biopsychic
 bishareen
 benegro
 ballyhooer
