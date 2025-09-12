@@ -4809,7 +4809,6 @@ carryings
 carriole
 carrioles
 cutwaters
-caplet
 carryon
 combretaceous
 comminative
@@ -24514,6 +24513,7 @@ copastor
 councillor
 copastors
 candlebox
+caplet
 conversaziones
 copatentee
 copatroness
