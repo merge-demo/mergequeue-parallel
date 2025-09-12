@@ -5595,7 +5595,6 @@ dolichopellic
 dependence
 desensitizes
 dependency
-dooly
 dependingly
 depends
 dallack
@@ -16766,6 +16765,7 @@ deformedly
 deponer
 diplarthrous
 draintile
+dooly
 deserves
 debouchure
 destin
