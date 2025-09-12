@@ -6287,7 +6287,6 @@ bai
 bibs
 benzanthrone
 bifarious
-bipolarize
 ballbuster
 begrace
 bt
@@ -17258,6 +17257,7 @@ bonduc
 bopyrus
 buddling
 boutel
+bipolarize
 bucoliast
 bunches
 bunchy
