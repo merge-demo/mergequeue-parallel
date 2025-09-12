@@ -13820,7 +13820,6 @@ dissunder
 deflexible
 deerskin
 dialogistically
-demurral
 driftpin
 dogvane
 decapod
@@ -15117,6 +15116,7 @@ desobligeant
 dogears
 desecrated
 dogedom
+demurral
 diptote
 dipppy
 dogeys

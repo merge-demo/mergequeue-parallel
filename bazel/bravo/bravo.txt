@@ -3520,7 +3520,6 @@ batcher
 billyo
 bogging
 bitterhearted
-bateleur
 barbered
 bouchal
 blindfoldedly
@@ -5867,6 +5866,7 @@ butterbur
 betaines
 bradmaker
 beloeilite
+bateleur
 belomancy
 belonger
 bronchophonic
