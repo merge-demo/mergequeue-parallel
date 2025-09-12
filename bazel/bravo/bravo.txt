@@ -7486,7 +7486,6 @@ bewailers
 belimousined
 blowpit
 basnat
-bewailing
 bandolier
 beloam
 befringes
@@ -16370,6 +16369,7 @@ bunkoed
 bloodshotten
 bendys
 bluenoser
+bewailing
 bejazz
 besmell
 broidery
