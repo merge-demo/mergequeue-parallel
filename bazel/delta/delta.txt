@@ -4248,7 +4248,6 @@ dislocate
 deltahedra
 dismayed
 dismaler
-diluvial
 daiquiris
 deltas
 diadrome
@@ -11484,6 +11483,7 @@ dissuader
 determinoid
 debug
 discloser
+diluvial
 deplete
 disclosive
 disclosure
