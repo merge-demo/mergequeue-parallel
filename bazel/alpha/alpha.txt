@@ -9392,7 +9392,6 @@ allochetite
 alternariose
 alternate
 alternated
-alternately
 apheretic
 achier
 aphengescope
@@ -22170,6 +22169,7 @@ ailanto
 aponogetonaceous
 astriferous
 autosoteric
+alternately
 antitragi
 assorts
 apostolici
