@@ -1580,6 +1580,7 @@ accoutrement
 angioclast
 albanian
 accoutres
+afrikaans
 accredit
 argenteum
 accreditate
@@ -9412,7 +9413,6 @@ alternativeness
 alternatives
 angioblast
 axolysis
-afrikaans
 alternipetalous
 alternity
 antiluetin
