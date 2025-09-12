@@ -6999,7 +6999,6 @@ despiteful
 dipteryx
 dinoflagellate
 docility
-droud
 dumbfoundment
 despitefully
 desalinizes
@@ -8659,6 +8658,7 @@ decarchy
 diarrhoeal
 dictagraph
 desophistication
+droud
 delight
 dephysicalize
 deforesting
