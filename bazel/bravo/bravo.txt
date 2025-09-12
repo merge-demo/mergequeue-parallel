@@ -10990,7 +10990,6 @@ blisteringly
 branchedness
 barlow
 bicuspids
-blithe
 blithesomely
 bkgd
 benzotriazine
@@ -13135,6 +13134,7 @@ bident
 borofluohydric
 boroglycerine
 borohydride
+blithe
 burton
 boronatrocalcite
 borophenylic
