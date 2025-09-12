@@ -2792,6 +2792,7 @@ bureaus
 buffi
 bolding
 betulaceous
+bibliopegy
 baroqueness
 brazee
 bookends
@@ -7857,7 +7858,6 @@ bibliomanist
 bogwoods
 bloodthirsty
 buckthorn
-bibliopegy
 biltong
 bibbons
 barbitals
