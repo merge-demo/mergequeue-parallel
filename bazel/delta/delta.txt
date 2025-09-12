@@ -16521,6 +16521,7 @@ dozzled
 dr
 disassembles
 drabant
+domatium
 draughthouse
 dextrotartaric
 dichotomousness
@@ -17336,7 +17337,6 @@ drokpa
 dauner
 discern
 destuff
-domatium
 dilluer
 druidology
 droller
