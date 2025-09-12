@@ -10779,7 +10779,6 @@ ammonolyzing
 athwarthawse
 ammos
 ammotherapy
-approbator
 antipepsin
 amnesia
 amnesiac
@@ -13012,6 +13011,7 @@ actionable
 animaters
 animating
 animation
+approbator
 admirability
 amoks
 acipenseridae
