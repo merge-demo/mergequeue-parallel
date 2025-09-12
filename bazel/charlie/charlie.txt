@@ -4326,7 +4326,6 @@ carillons
 cynips
 carinae
 carinal
-chaptering
 carinas
 chrysene
 countersale
@@ -12180,6 +12179,7 @@ chrysaniline
 chrysanisic
 cushiony
 chrysaor
+chaptering
 chrysazol
 crateral
 chryselectrum
