@@ -793,6 +793,7 @@ becker
 beryllosis
 building
 baedekerian
+berserks
 baphometic
 brandenburgh
 baeria
@@ -6725,7 +6726,6 @@ bersagliere
 berserker
 baldacchini
 bin
-berserks
 barnumize
 balize
 berhyme
