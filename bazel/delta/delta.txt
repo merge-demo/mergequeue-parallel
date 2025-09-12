@@ -7933,7 +7933,6 @@ dolichosaur
 dewcap
 disbudder
 disklike
-driveways
 dewclaws
 dianthus
 dewdamp
@@ -15579,6 +15578,7 @@ domn
 dermatoglyphic
 duffing
 dompteuse
+driveways
 daredevil
 doms
 diosmosed
