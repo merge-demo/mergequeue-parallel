@@ -7764,7 +7764,6 @@ cerussite
 cervantic
 chaffiest
 choosing
-coinquinate
 cervantite
 consternating
 coruscation
@@ -27608,6 +27607,7 @@ cowardly
 choloidinic
 culp
 cowardness
+coinquinate
 collided
 croquette
 convive
