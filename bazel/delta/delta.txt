@@ -5097,7 +5097,6 @@ decuria
 derailed
 donatary
 decalogist
-dendrochirota
 dessicate
 daimyos
 durante
@@ -14468,6 +14467,7 @@ dishpans
 demological
 decay
 demeans
+dendrochirota
 diverse
 diversify
 diversifiable
