@@ -820,7 +820,6 @@ apperceptive
 absconder
 agonizes
 archegoniate
-agha
 absconding
 accurse
 absconsa
@@ -2138,6 +2137,7 @@ achromatope
 achromatophile
 achromatophilia
 achromatopia
+agha
 achromatopsy
 apologizes
 achromatopsia
