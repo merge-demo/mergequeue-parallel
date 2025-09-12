@@ -5119,7 +5119,6 @@ bullberry
 baubling
 birler
 bilocation
-bimorphemic
 banco
 balletomania
 bezels
@@ -14994,6 +14993,7 @@ befetter
 bygane
 breenger
 breezeway
+bimorphemic
 bulbocapnin
 breezeways
 bowdlerise
