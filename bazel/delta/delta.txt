@@ -8646,6 +8646,7 @@ dinge
 debugging
 deluding
 distilment
+delimitations
 diary
 diaglyph
 disimprove
@@ -9352,7 +9353,6 @@ diplomat
 detersive
 depletable
 dietrichite
-delimitations
 dayglow
 duvetine
 delisted
