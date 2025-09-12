@@ -10418,6 +10418,7 @@ automacy
 abusing
 articled
 armourers
+atmiatrics
 allantoidea
 ascomycetous
 amidol
@@ -15273,7 +15274,6 @@ antiliturgy
 amla
 affixt
 adjutancy
-atmiatrics
 antiliturgist
 antilocapra
 absolutize
