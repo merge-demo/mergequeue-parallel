@@ -7262,7 +7262,6 @@ coincidental
 cannabism
 coroners
 ceorl
-characterizations
 cholangioitis
 crisis
 chamaesiphon
@@ -16094,6 +16093,7 @@ clydesider
 client
 clientage
 cliental
+characterizations
 cycloramas
 condylotomy
 conglutin
