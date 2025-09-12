@@ -2131,6 +2131,7 @@ archangel
 apimania
 achromatization
 achromatize
+assimilating
 arctalian
 aerosolizing
 antiparastatitis
@@ -21715,7 +21716,6 @@ amacrinal
 angiohyalinosis
 amiced
 assimilates
-assimilating
 andoroba
 aerophobia
 assimilationist
