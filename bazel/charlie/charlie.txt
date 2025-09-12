@@ -7483,7 +7483,6 @@ cephalocaudal
 cerberus
 cercal
 calelectricity
-cercaria
 chivvy
 canroyer
 caressing
@@ -15909,6 +15908,7 @@ councils
 chaetopterin
 catalectic
 cleistogeny
+cercaria
 calcedon
 clinium
 camauro
