@@ -2809,7 +2809,6 @@ acrostic
 accidentiality
 anacromyodian
 advisive
-acrostical
 approvably
 acrosticism
 acrostolium
@@ -11339,6 +11338,7 @@ archpriestship
 attendants
 aneroids
 alterations
+acrostical
 apiphobia
 abmhos
 amsath
