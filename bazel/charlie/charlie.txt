@@ -15556,7 +15556,6 @@ classbook
 classed
 cyclicism
 classers
-classfellow
 classicalism
 classicalist
 classicality
@@ -24068,6 +24067,7 @@ camarillas
 cosmonautic
 conversantly
 conversation
+classfellow
 conversationable
 competency
 coactor
