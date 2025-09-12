@@ -7789,7 +7789,6 @@ cervicobasilar
 cobitis
 cervicodynia
 cervicofacial
-canabae
 cooeyed
 cervicomuscular
 cerviconasal
@@ -22744,6 +22743,7 @@ cabbages
 conquistadores
 corradiation
 clusteringly
+canabae
 conringia
 consacre
 consanguine
