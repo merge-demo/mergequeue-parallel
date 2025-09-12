@@ -12390,6 +12390,7 @@ dispute
 dinos
 disensoul
 dragonne
+dragomanish
 demonomancy
 disgustfulness
 digestment
@@ -16848,7 +16849,6 @@ dolichuric
 diplasic
 dangersome
 disequilibriums
-dragomanish
 dravidian
 declamation
 dayboy
