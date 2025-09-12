@@ -5465,7 +5465,6 @@ deceives
 detectably
 deoppilate
 deoppilation
-dep
 doss
 deordination
 dirca
@@ -13854,6 +13853,7 @@ dysphemia
 dogeared
 distasteful
 disappointment
+dep
 defoliated
 distastefulness
 denom
