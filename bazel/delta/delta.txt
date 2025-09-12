@@ -9259,7 +9259,6 @@ devises
 diedric
 diego
 dodonian
-dioptograph
 destinist
 disdainly
 diehards
@@ -17700,6 +17699,7 @@ dilogy
 deprecatively
 delivered
 diclinism
+dioptograph
 disty
 dioscorein
 dekapode
