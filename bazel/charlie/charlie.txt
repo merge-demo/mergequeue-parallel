@@ -13573,6 +13573,7 @@ cymbalon
 cymbel
 cymbid
 clochard
+coanimate
 cymbidium
 catchpollery
 copartner
@@ -17337,7 +17338,6 @@ coan
 cheliceral
 camphorweed
 climatius
-coanimate
 chetif
 concretes
 cephalemia
