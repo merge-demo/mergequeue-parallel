@@ -2237,6 +2237,7 @@ blesboks
 blateroon
 brigid
 bannerwise
+biasing
 branchiopallial
 bowing
 bats
@@ -7440,7 +7441,6 @@ bully
 buttinskies
 berhymed
 battute
-biasing
 boothage
 bistre
 bleariest
