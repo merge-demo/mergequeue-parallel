@@ -3914,7 +3914,6 @@ apatheia
 aziola
 atomise
 allylic
-afric
 admired
 ailurophile
 analysed
@@ -25338,6 +25337,7 @@ anoplotheriidae
 abbroachment
 anagrammatization
 avahi
+afric
 abolitionising
 azorite
 azorubine
