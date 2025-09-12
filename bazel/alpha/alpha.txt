@@ -11127,7 +11127,6 @@ amphophile
 amphidetic
 autoclaved
 affecter
-aftertaste
 amphidiarthrosis
 assimilator
 aryans
@@ -19635,6 +19634,7 @@ anglesmith
 aristologist
 aristomonarchy
 aristorepublicanism
+aftertaste
 arteriorrhexis
 aristotelean
 aristotelianism
