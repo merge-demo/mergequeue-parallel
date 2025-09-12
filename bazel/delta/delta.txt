@@ -3048,7 +3048,6 @@ digitizer
 doohickus
 dentaria
 dentiscalp
-desole
 daddock
 degradand
 defaces
@@ -8665,6 +8664,7 @@ dermatographia
 dextroduction
 downstream
 diametrically
+desole
 doublets
 diaschisis
 doctrinarian
