@@ -2935,7 +2935,6 @@ decemfid
 deductio
 deductions
 dwarfism
-deductive
 deductory
 dariole
 deduplication
@@ -9518,6 +9517,7 @@ demounting
 disheathing
 disembarrass
 doedicurus
+deductive
 demigoddess
 disparateness
 dehumanizes
