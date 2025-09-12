@@ -11659,7 +11659,6 @@ bilsted
 blindfast
 boatward
 boomless
-bedding
 begirdle
 beneficience
 boattail
@@ -12898,6 +12897,7 @@ bootery
 booth
 bloodsucking
 bim
+bedding
 backtrail
 boothale
 baronetcies
