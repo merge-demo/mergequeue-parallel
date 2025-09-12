@@ -10333,7 +10333,6 @@ antonymies
 ametropia
 acicular
 ametrous
-amhar
 antispermotoxin
 afterbirths
 alcade
@@ -19988,6 +19987,7 @@ aromatics
 adscripted
 aromatitae
 alcoholizing
+amhar
 adhaka
 apophyses
 alintatao
