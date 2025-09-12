@@ -4082,7 +4082,6 @@ benzoflavine
 brushproof
 beardfishes
 beswarms
-basidial
 botulinum
 beardy
 bakeress
@@ -11011,6 +11010,7 @@ babblement
 brache
 belemnoidea
 backstairs
+basidial
 bp
 behinder
 bromoethylene
