@@ -13917,7 +13917,6 @@ caviars
 cynoglossum
 cynognathus
 cirripeds
-corregimiento
 cynoid
 contributiveness
 coadjacently
@@ -23773,6 +23772,7 @@ contrapose
 contraposed
 clinospore
 chalcograph
+corregimiento
 chauk
 contrapositive
 contrapositives
