@@ -17020,6 +17020,7 @@ clusterings
 centrality
 clutch
 clutched
+clothing
 clutches
 clutchy
 centrex
@@ -19423,7 +19424,6 @@ colorableness
 camisades
 career
 curratow
-clothing
 coloradan
 collies
 caracole
