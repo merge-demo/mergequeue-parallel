@@ -1177,7 +1177,6 @@ ballasting
 burlers
 balladized
 baiza
-baizas
 beseech
 bajardo
 belemnid
@@ -3940,6 +3939,7 @@ brocatel
 bastardizations
 beachcombers
 beachdrops
+baizas
 biliment
 bumblekite
 battleward
