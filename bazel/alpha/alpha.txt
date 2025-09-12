@@ -2141,7 +2141,6 @@ achromatopia
 agha
 achromatopsy
 apologizes
-achromatopsia
 australia
 achromatosis
 achromobacter
@@ -14848,6 +14847,7 @@ anticonservatism
 anticonservativeness
 arrand
 auricularis
+achromatopsia
 anadrom
 apagoges
 ardass
