@@ -3409,7 +3409,6 @@ basswood
 burghership
 burgomaster
 brelaw
-byrrus
 bedsores
 blaine
 bastardised
@@ -10815,6 +10814,7 @@ bulldoggy
 blepharostenosis
 beeswing
 blepharotomy
+byrrus
 blere
 beckon
 backfills
