@@ -8833,7 +8833,6 @@ charact
 cutouts
 charactered
 capitalist
-costocoracoid
 charactery
 characterial
 clinocephalous
@@ -26237,6 +26236,7 @@ circulin
 cavallas
 costiveness
 changeableness
+costocoracoid
 calliper
 cynareous
 counterstruggle
