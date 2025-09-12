@@ -2025,7 +2025,6 @@ disunified
 desugars
 decaedron
 decaffeinate
-depicted
 decaffeinize
 decury
 dechristianization
@@ -16622,6 +16621,7 @@ detergent
 denar
 drivebolt
 deteriorationist
+depicted
 disingenuity
 draft
 dragee
