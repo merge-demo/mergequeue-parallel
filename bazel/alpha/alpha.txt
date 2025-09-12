@@ -1678,7 +1678,6 @@ astrals
 adorableness
 azoxine
 actinotherapy
-anglophobe
 aeroelastics
 acicularity
 accusal
@@ -5249,6 +5248,7 @@ aficionadas
 antiloemic
 autogiro
 aecia
+anglophobe
 afikomen
 afire
 almight
