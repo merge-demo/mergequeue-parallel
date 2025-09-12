@@ -15968,7 +15968,6 @@ cyclos
 clergymen
 circumparallelogram
 crumbum
-clericality
 clericals
 clericate
 chordaceous
@@ -21048,6 +21047,7 @@ compulsitor
 coremiumia
 compulsory
 caramelan
+clericality
 cypsela
 compunct
 crassilingual
