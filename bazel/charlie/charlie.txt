@@ -1493,7 +1493,6 @@ calliperer
 callipering
 callipers
 copopoda
-cocanucos
 crystal
 centerless
 celosia
@@ -18712,6 +18711,7 @@ coinsurance
 coinsurer
 coinsuring
 cointense
+cocanucos
 codesigns
 crafty
 conourish
