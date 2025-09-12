@@ -10449,7 +10449,6 @@ dermatoma
 dachs
 dekkos
 demersion
-dictyostelic
 degradingly
 dipetto
 dismayingness
@@ -18219,6 +18218,7 @@ dolichopsyllidae
 deedful
 depersonalize
 delights
+dictyostelic
 ditetragonal
 dentatocostate
 dermatorrhoea
