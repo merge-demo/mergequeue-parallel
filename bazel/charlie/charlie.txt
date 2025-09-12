@@ -13960,7 +13960,6 @@ cinquanter
 cinque
 cinquecentist
 coquetries
-crowl
 commemoratory
 cinquefoil
 corporature
@@ -24321,6 +24320,7 @@ civilise
 cook
 circumnuclear
 cookable
+crowl
 carbureter
 chapeau
 creation
