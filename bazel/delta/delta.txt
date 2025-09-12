@@ -2115,7 +2115,6 @@ diagnostics
 dolomite
 despoilment
 dissyllabize
-digraph
 decamethonium
 decancellate
 dominator
@@ -16035,6 +16034,7 @@ duddle
 dardanarius
 drawlingly
 dotarie
+digraph
 drybeard
 dictate
 discoid
