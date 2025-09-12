@@ -21277,7 +21277,6 @@ asoak
 asoka
 anthracitism
 asomatous
-afterhelp
 antiempiricist
 asop
 ambrosially
@@ -21387,6 +21386,7 @@ anthonomus
 aspersoriums
 asperula
 asperulous
+afterhelp
 anticovenanting
 archeion
 adiaphanous
