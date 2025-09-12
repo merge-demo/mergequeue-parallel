@@ -6447,6 +6447,7 @@ brachiopodist
 bepicture
 banxring
 bepile
+bediapers
 balneotherapy
 bolo
 bannock
@@ -17302,7 +17303,6 @@ bipaliidae
 benzantialdoxime
 bunga
 bicollateral
-bediapers
 blanketer
 bagman
 blamers
