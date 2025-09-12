@@ -4827,6 +4827,7 @@ acetamidine
 amygdalus
 amenite
 argentino
+amphiploid
 amphictyonies
 autonomously
 anaetiological
@@ -7590,7 +7591,6 @@ adrenitis
 antichresis
 aldebaran
 autoplastic
-amphiploid
 arbours
 anticonvulsive
 ariettes
