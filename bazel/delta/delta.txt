@@ -5347,7 +5347,6 @@ decerebrated
 deadheadism
 dealable
 disenchantments
-dorsoventrad
 dorsimesal
 divulgence
 diallists
@@ -7766,6 +7765,7 @@ duits
 dismembrate
 defuse
 devilfish
+dorsoventrad
 decelerators
 devily
 detail
