@@ -6266,6 +6266,7 @@ cgm
 carouba
 crimison
 contumely
+compositionally
 causeuses
 cannellated
 causewaying
@@ -8491,7 +8492,6 @@ champleve
 cryptographal
 chams
 chamsin
-compositionally
 cineplastics
 cataclysmatic
 congealedness
