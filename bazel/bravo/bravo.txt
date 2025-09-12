@@ -5821,7 +5821,6 @@ blares
 boor
 beadier
 boldoine
-bemoaning
 boozily
 bellyland
 bilateral
@@ -6141,6 +6140,7 @@ boskiness
 bloodthirsting
 brassiest
 bethflower
+bemoaning
 benefit
 ballocks
 boca

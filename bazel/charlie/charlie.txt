@@ -13907,6 +13907,7 @@ cynocephalic
 chakazi
 clippable
 cheerer
+crosshackle
 chalicotherioid
 cynoclept
 cynocrambaceous
@@ -29854,7 +29855,6 @@ crossfish
 crossflow
 crossflower
 crossfoot
-crosshackle
 crosshair
 crosshatches
 cogwheel
