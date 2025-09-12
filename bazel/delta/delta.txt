@@ -1072,7 +1072,6 @@ decarch
 doling
 dacryocystorhinostomy
 darrein
-devonite
 darshan
 denudating
 dampening
@@ -3250,6 +3249,7 @@ disputably
 diavolo
 disinsulation
 deionizes
+devonite
 definiens
 derencephalocele
 duet
