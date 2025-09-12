@@ -9606,7 +9606,6 @@ camelliaceae
 cheerier
 cautiousness
 curtals
-cragginess
 coexistent
 cableways
 cheering
@@ -12470,6 +12469,7 @@ colent
 ciliform
 chromolithic
 concanavalin
+cragginess
 chromolithography
 chromolithographic
 coxswained
