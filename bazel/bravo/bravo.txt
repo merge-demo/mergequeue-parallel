@@ -3180,7 +3180,6 @@ bubba
 berylloid
 bataleur
 bashmuric
-biperforate
 branchiomerism
 birdieing
 basial
@@ -13741,6 +13740,7 @@ bescurf
 burga
 bufflehorn
 banisher
+biperforate
 burgout
 bicycled
 bovate
