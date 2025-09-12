@@ -4766,6 +4766,7 @@ aerodromes
 arbitrating
 aeroelastic
 aeroelasticity
+algor
 aerofoils
 algine
 amberfish
@@ -8044,7 +8045,6 @@ algophilist
 algophobia
 albuminometer
 accessorily
-algor
 aromacity
 alienor
 adynamias
