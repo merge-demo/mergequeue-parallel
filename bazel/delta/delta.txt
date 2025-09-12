@@ -14493,6 +14493,7 @@ dromic
 dressmaker
 doneness
 decenaries
+dourine
 dimethylamine
 defenestration
 dioptrometer
@@ -17784,7 +17785,6 @@ doublethought
 duc
 deflective
 drownings
-dourine
 doctorially
 dispelling
 disposer
