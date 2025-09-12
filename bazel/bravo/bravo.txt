@@ -2594,7 +2594,6 @@ busing
 bergere
 bears
 brittlely
-barytophyllite
 bewitchment
 brusquerie
 bridgelike
@@ -3628,6 +3627,7 @@ brandyball
 buyides
 baculiform
 bipinnately
+barytophyllite
 bassanello
 blackball
 bumbleberry
