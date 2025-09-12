@@ -9071,7 +9071,6 @@ charqui
 crab
 canelike
 christly
-charr
 charras
 charre
 charred
@@ -22601,6 +22600,7 @@ connecticut
 chieftainships
 cogenial
 connectival
+charr
 cassican
 connectively
 cleidosternal
