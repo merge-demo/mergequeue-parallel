@@ -3867,6 +3867,7 @@ adminicle
 aruspicy
 acoin
 amphiprotic
+angulometer
 adminicula
 akolouthia
 arghoul
@@ -10598,7 +10599,6 @@ aminopherase
 abut
 apothec
 aminopyrine
-angulometer
 arachne
 adulterants
 anorthography
