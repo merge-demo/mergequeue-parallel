@@ -1308,7 +1308,6 @@ cossyrite
 campanulate
 calicles
 calycles
-calycli
 calico
 cormophytic
 calicoback
@@ -4617,6 +4616,7 @@ cryology
 cunnings
 coverture
 carousals
+calycli
 centrospermae
 carouse
 carousels
