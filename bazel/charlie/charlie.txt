@@ -5654,6 +5654,7 @@ carolean
 cotyloidal
 cannon
 capitulated
+chinker
 catchlight
 cultivatability
 clockcase
@@ -10774,7 +10775,6 @@ chinkapin
 callitriche
 consequents
 chinkara
-chinker
 cornerways
 chinky
 ctenidia
