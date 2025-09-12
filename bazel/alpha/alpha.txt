@@ -12535,7 +12535,6 @@ angelico
 angelina
 attle
 angelize
-alliterated
 angelized
 angellike
 arthrography
@@ -17040,6 +17039,7 @@ assiduous
 afterdeath
 abscessroot
 avocets
+alliterated
 anisochromia
 aculeata
 apogeotropism
