@@ -1667,6 +1667,7 @@ dwalm
 deamination
 debited
 deammonation
+deyship
 deashing
 dichastic
 demarks
@@ -3921,7 +3922,6 @@ derivationally
 dotage
 downloading
 duopoly
-deyship
 dreamlit
 disbarments
 dulotic
