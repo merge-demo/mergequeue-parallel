@@ -14238,6 +14238,7 @@ banishers
 biographize
 begripe
 bacteriologies
+boardable
 boanbura
 butyne
 byword
@@ -17391,7 +17392,6 @@ bunny
 bulgier
 bunnia
 bromizes
-boardable
 beknots
 bunodont
 brickleness

@@ -845,7 +845,6 @@ cays
 caisse
 caissons
 colligance
-caitif
 charque
 caitiffs
 chamaesiphonaceae
@@ -30090,6 +30089,7 @@ crownment
 clavolae
 crownpiece
 coincidency
+caitif
 crownwork
 colob
 crownwort
