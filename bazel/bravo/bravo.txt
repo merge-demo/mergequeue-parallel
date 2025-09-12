@@ -1936,7 +1936,6 @@ besoms
 boreus
 bananivorous
 bandsman
-befilth
 bandstand
 broaches
 beacon
@@ -10826,6 +10825,7 @@ bandstring
 boxtree
 bristliest
 blessingly
+befilth
 bandala
 bider
 bhikku
