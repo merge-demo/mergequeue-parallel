@@ -4919,7 +4919,6 @@ barbecue
 beelzebul
 beennut
 beent
-bimedial
 bradyphemia
 bilicyanin
 bonework
@@ -14441,6 +14440,7 @@ barricado
 balimbing
 blippers
 breamed
+bimedial
 biometrist
 becivet
 bendays
