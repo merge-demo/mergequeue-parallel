@@ -15402,7 +15402,6 @@ cricketed
 cen
 clappe
 clapperclaw
-clappered
 capillose
 characters
 claps
@@ -23923,6 +23922,7 @@ chadlock
 clepsine
 culling
 contumelious
+clappered
 contund
 crippledom
 contused
