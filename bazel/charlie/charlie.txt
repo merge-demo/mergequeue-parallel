@@ -4839,6 +4839,7 @@ corporation
 canonization
 clomben
 carrotwood
+cloths
 carrousel
 circumfused
 carrousels
@@ -25899,7 +25900,6 @@ callovian
 ceintures
 corticotrophin
 curtsying
-cloths
 corticous
 coercion
 charka
