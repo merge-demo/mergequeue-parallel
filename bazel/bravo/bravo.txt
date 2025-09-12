@@ -10720,7 +10720,6 @@ balls
 batties
 banderole
 bactericidal
-baalisms
 blennogenous
 begging
 brushup
@@ -17595,6 +17594,7 @@ burglars
 basote
 breath
 blay
+baalisms
 brumes
 babby
 bunchflower
