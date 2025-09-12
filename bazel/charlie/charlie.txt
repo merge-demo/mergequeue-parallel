@@ -1649,7 +1649,6 @@ contrariously
 corybulbin
 claustra
 caricography
-calorifier
 calorigenic
 chromatophore
 calorimetry
@@ -21761,6 +21760,7 @@ crizzle
 condolers
 camden
 condoles
+calorifier
 compesce
 contraflexure
 condolingly
