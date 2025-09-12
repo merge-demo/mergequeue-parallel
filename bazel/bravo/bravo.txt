@@ -9541,7 +9541,6 @@ blastomata
 biscutate
 bisdiapason
 binary
-bicapsular
 butat
 bisectors
 bisectrices
@@ -12457,6 +12456,7 @@ bagpiped
 beckoning
 buphthalmos
 bone
+bicapsular
 bejaundice
 bigothero
 boydom
