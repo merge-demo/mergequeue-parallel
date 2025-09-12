@@ -10958,6 +10958,7 @@ denazify
 disabled
 devotee
 doorplates
+despatch
 deterges
 digraphically
 debasers
@@ -11854,7 +11855,6 @@ drawbridges
 defervescing
 dimitted
 discriminatively
-despatch
 dirigibility
 diegueno
 disorientation
