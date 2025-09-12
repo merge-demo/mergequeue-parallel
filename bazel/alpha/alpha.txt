@@ -337,6 +337,7 @@ anthophyte
 anguis
 angelet
 appeals
+apagogue
 agnomical
 armomancy
 alternationist
@@ -16453,7 +16454,6 @@ advise
 arumlike
 agrafes
 apagogically
-apagogue
 apay
 acatharsia
 astre
