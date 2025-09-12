@@ -4567,7 +4567,6 @@ carolines
 cradler
 caroling
 carolinians
-carolitic
 charitable
 carditic
 caoba
@@ -31870,6 +31869,7 @@ cutpurse
 cyclothyme
 casuality
 cochliodont
+carolitic
 cransier
 caccabis
 crowfooted
