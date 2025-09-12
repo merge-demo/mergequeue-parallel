@@ -13255,6 +13255,7 @@ amperages
 averted
 automatontons
 archmarshal
+arraignableness
 assafetida
 ankylostomiasis
 attacolite
@@ -20063,7 +20064,6 @@ agaricales
 apodemata
 absently
 adverts
-arraignableness
 amateurism
 antiozonant
 anodon
