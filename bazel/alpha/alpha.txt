@@ -11945,7 +11945,6 @@ aegeriid
 appels
 anasarcous
 anathematizer
-antihumanist
 alliances
 actuaryship
 anatidae
@@ -19976,6 +19975,7 @@ aroynts
 arolia
 aromal
 animalculum
+antihumanist
 artus
 azonal
 auspices
