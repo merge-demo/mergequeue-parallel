@@ -1078,6 +1078,7 @@ ataxite
 artemisia
 atestine
 amphioxidae
+aleuromancy
 affile
 abused
 antilynching
@@ -4790,7 +4791,6 @@ adjurations
 appius
 aristogenic
 acculturized
-aleuromancy
 aerographical
 aerographies
 approachment
