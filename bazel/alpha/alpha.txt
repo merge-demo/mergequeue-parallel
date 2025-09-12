@@ -764,7 +764,6 @@ abridger
 acurative
 abridgers
 abridging
-adeliza
 abristle
 abroach
 amphineura
@@ -16049,6 +16048,7 @@ antisnapper
 antisocial
 ardelio
 allision
+adeliza
 antisocialist
 antisocialistic
 antisocialistically
