@@ -11866,6 +11866,7 @@ cagn
 choragi
 choragic
 coxalgia
+cellmate
 choragion
 choristers
 calashes
@@ -18344,7 +18345,6 @@ coffs
 chastelain
 cofighter
 caprimulgi
-cellmate
 casearia
 coforeknown
 chondric
