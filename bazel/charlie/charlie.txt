@@ -3989,6 +3989,7 @@ centriscus
 cardanol
 churchgrith
 chymist
+cornmaster
 crissum
 cardcases
 cardel
@@ -4046,7 +4047,6 @@ copydesks
 cardiform
 cardigan
 cameoing
-cornmaster
 cardin
 croslet
 cancans
