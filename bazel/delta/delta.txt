@@ -6456,6 +6456,7 @@ drizzled
 drugshop
 deplumation
 dictatrix
+daemonology
 deodara
 daddy
 dislluminate
@@ -11719,7 +11720,6 @@ discorded
 dotishness
 demiditone
 discost
-daemonology
 digitally
 discotheque
 discothque
