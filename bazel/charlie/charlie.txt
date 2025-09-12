@@ -1691,7 +1691,6 @@ calthrop
 chronographic
 calenders
 caltraps
-caltrop
 charases
 coenosite
 cornification
@@ -17326,6 +17325,7 @@ cachucha
 cinematical
 coalternate
 coaltitude
+caltrop
 coambulant
 constrainers
 cinnamoned
