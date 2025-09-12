@@ -6772,6 +6772,7 @@ bilic
 berwick
 boldness
 bummaree
+boophilus
 burley
 basophils
 baroi
@@ -12857,7 +12858,6 @@ buckplate
 burped
 blunders
 blennotorrhea
-boophilus
 bys
 bedsheet
 basichromatin
