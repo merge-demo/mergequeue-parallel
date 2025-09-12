@@ -10532,6 +10532,7 @@ amyloidosis
 amyloleucite
 antivenine
 afterwrath
+adiathermic
 amylolysis
 arkite
 antitragic
@@ -14813,7 +14814,6 @@ anticomment
 autogenetic
 auxamylase
 anchormen
-adiathermic
 appetizers
 anticommercialism
 academical
