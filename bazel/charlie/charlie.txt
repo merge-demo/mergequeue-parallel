@@ -26413,7 +26413,6 @@ cocentric
 couchy
 cotransduction
 cotransfuse
-cotranslator
 cleidotomy
 confinable
 chimaerid
@@ -30943,6 +30942,7 @@ cum
 cants
 crystallizing
 cumay
+cotranslator
 currack
 cumal
 cytozoic
