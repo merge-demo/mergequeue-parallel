@@ -586,6 +586,7 @@ blunks
 bromcresol
 blottingly
 bishoped
+beehive
 bacon
 balkar
 balisaur
@@ -1365,7 +1366,6 @@ bacteriophagous
 balboa
 bronchotyphus
 bethlehem
-beehive
 bioplastic
 balboas
 barleymow

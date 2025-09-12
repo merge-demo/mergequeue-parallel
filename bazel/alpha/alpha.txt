@@ -8008,7 +8008,6 @@ anglophiliac
 algolagnia
 adjuster
 amis
-augean
 awabakal
 antimark
 anachronous
@@ -23735,6 +23734,7 @@ aphorising
 anthozoan
 antimonarchically
 arduinite
+augean
 aphetic
 antiphrastically
 autacoidal
