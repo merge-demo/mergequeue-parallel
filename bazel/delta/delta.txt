@@ -2265,7 +2265,6 @@ decemfoliate
 detumescence
 dogmas
 demotion
-dominiums
 dissocialize
 decempunctate
 decemstriate
@@ -6369,6 +6368,7 @@ dislimn
 divorcing
 dugong
 dejeune
+dominiums
 duodenum
 dermosclerite
 dermotropic
