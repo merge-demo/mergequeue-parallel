@@ -9792,7 +9792,6 @@ cheliped
 chelys
 cydon
 chellean
-convolutionary
 counterfoil
 cheloids
 chemotaxonomically
@@ -14198,6 +14197,7 @@ cymose
 circumbasal
 circumbendibus
 circumboreal
+convolutionary
 cycases
 callityped
 calyptrogen
