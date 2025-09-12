@@ -7724,7 +7724,6 @@ dashingly
 deunam
 debell
 diluvy
-deviance
 dimples
 deemed
 decemjugate
@@ -9831,6 +9830,7 @@ dclass
 discontentful
 disagree
 delimiters
+deviance
 decriminalizing
 dilettantism
 dilettantist
