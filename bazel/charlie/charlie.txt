@@ -2353,6 +2353,7 @@ clothy
 crowberry
 cogs
 civilizational
+configurationally
 companator
 chinbones
 canarian
@@ -22000,7 +22001,6 @@ canteens
 coinsurable
 coexclusive
 configurating
-configurationally
 coevolutionary
 configurations
 configure
