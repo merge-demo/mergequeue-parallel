@@ -5067,7 +5067,6 @@ autotroph
 adorners
 acidophil
 aworth
-affectedly
 affectibility
 affecting
 antitangent
@@ -7657,6 +7656,7 @@ aldoheptose
 airer
 aargh
 aldoketene
+affectedly
 aldol
 alismad
 adipescent
