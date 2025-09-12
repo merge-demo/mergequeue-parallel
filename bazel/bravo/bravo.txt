@@ -2156,7 +2156,6 @@ binds
 byway
 broncos
 bemingled
-baptizement
 boundness
 baptizer
 blurping
@@ -5358,6 +5357,7 @@ begrimer
 barkcutter
 blunderbusses
 begrimes
+baptizement
 begriming
 baldpates
 begrimmed
