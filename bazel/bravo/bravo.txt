@@ -856,7 +856,6 @@ biochron
 bakli
 bromodeoxyuridine
 billikin
-bacillar
 bezique
 bagasses
 badhan
@@ -9977,6 +9976,7 @@ brutisms
 bixaceae
 bixaceous
 balteus
+bacillar
 bougies
 bruxism
 blondeness
