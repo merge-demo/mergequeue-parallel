@@ -5550,7 +5550,6 @@ choufleur
 coedited
 catamarenan
 catamites
-chickenhearted
 catamiting
 cordaitean
 costa
@@ -29614,6 +29613,7 @@ codes
 cainozoic
 crofts
 contract
+chickenhearted
 covering
 croyden
 croydon
