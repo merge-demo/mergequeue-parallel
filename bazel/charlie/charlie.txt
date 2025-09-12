@@ -6977,7 +6977,6 @@ caecitis
 censusing
 centage
 cavort
-centals
 ceratostomataceae
 cornbole
 coolies
@@ -25649,6 +25648,7 @@ cyanogenic
 circumvolant
 correctory
 chignon
+centals
 constitutive
 committals
 cobra
