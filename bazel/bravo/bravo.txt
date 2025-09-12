@@ -4013,7 +4013,6 @@ ballonet
 beamhouse
 bibliophobe
 backbreaker
-biaxal
 bedolt
 brisure
 bumperette
@@ -5323,6 +5322,7 @@ big
 biharmonic
 biltongs
 balmy
+biaxal
 bambos
 ballroom
 begone
