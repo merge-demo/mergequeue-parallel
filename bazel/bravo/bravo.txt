@@ -7054,7 +7054,6 @@ beastliest
 bedwards
 blastocyte
 brescian
-bathyscaphes
 bespeckle
 benzoyls
 bespectacled
@@ -18037,6 +18036,7 @@ bullrings
 barosinusitus
 bistro
 boast
+bathyscaphes
 bog
 bingle
 bourgs

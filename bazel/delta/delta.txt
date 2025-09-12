@@ -8858,6 +8858,7 @@ draftwoman
 drachmas
 decemvirate
 dilate
+dustpoint
 dibbled
 dybbuk
 dominantly
@@ -13362,7 +13363,6 @@ disprovide
 distillate
 daintier
 datism
-dustpoint
 dispurvey
 disputability
 dotters
