@@ -4687,7 +4687,6 @@ autocross
 arboreal
 aperture
 aequoreal
-armourbearer
 abounding
 aerobioscope
 aerobiosis
@@ -6236,6 +6235,7 @@ agrogeological
 agrology
 aurung
 abatua
+armourbearer
 agrologic
 acoine
 afro
