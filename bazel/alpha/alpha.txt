@@ -4839,7 +4839,6 @@ anthraciferous
 aerobranchiate
 astrobiologist
 aerometric
-aeronat
 aeronaut
 aeronautical
 aeronomer
@@ -6316,6 +6315,7 @@ asterism
 aha
 autoclaves
 antienthusiasm
+aeronat
 angiosperms
 ahantchuyuk
 adventitious
