@@ -7716,6 +7716,7 @@ drawers
 diffusional
 devels
 dashboard
+donatist
 devenustate
 devexity
 dividedly
@@ -15597,7 +15598,6 @@ deduit
 donat
 dodecylphenol
 donatee
-donatist
 dentiloguy
 drag
 diapery
