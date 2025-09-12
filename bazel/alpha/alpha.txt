@@ -7729,7 +7729,6 @@ alefs
 aberrating
 almighty
 alefzero
-averrable
 amor
 aleikoum
 alboranite
@@ -24827,6 +24826,7 @@ arretez
 avouchers
 anticrepuscule
 assais
+averrable
 amphogenous
 avouchment
 avour
