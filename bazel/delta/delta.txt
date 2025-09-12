@@ -2006,7 +2006,6 @@ decadary
 dimethylcarbinol
 deploration
 decadency
-demagnify
 dolichocephal
 denotationally
 documentalist
@@ -4148,6 +4147,7 @@ deguelin
 deliration
 delire
 dissent
+demagnify
 documentary
 decimator
 discomfited
