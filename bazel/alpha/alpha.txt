@@ -9953,7 +9953,6 @@ amble
 apanteles
 ambler
 awakes
-aphthonite
 amahs
 appulsive
 axmen
@@ -13470,6 +13469,7 @@ amebic
 annunciations
 ansated
 airliner
+aphthonite
 anoas
 aglet
 acaulous
