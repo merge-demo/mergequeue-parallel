@@ -4352,7 +4352,6 @@ acrography
 amulets
 adventual
 adventured
-adventuresome
 aprocta
 anabaptist
 adventuresomes
@@ -4983,6 +4982,7 @@ aestivates
 admonisher
 acquainting
 amenia
+adventuresome
 alphamerical
 arrantly
 aestuate
