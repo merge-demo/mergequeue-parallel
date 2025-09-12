@@ -9533,7 +9533,6 @@ burnets
 biscuits
 bhutia
 bromides
-bumbledom
 barongs
 bronchomycosis
 blastomata
@@ -11602,6 +11601,7 @@ bacauan
 blacks
 bizant
 boarwood
+bumbledom
 boas
 boaster
 boastfulness
