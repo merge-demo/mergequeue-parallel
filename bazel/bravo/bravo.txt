@@ -1346,7 +1346,6 @@ benzoylated
 bate
 binational
 balanorrhagia
-bescorn
 bottine
 balantidic
 balaos
@@ -4621,6 +4620,7 @@ briquetted
 bedfellows
 buildable
 barlows
+bescorn
 bedford
 bouilli
 brothier
