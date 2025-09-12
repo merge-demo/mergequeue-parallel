@@ -5863,6 +5863,7 @@ beloeilite
 bateleur
 belomancy
 bronchophonic
+brogans
 bared
 belonging
 bailiffship
@@ -12239,7 +12240,6 @@ begob
 bhisti
 bowfront
 biquartz
-brogans
 boltrope
 basswoods
 begrave
