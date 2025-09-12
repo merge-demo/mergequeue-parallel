@@ -3434,7 +3434,6 @@ abreaction
 adelphian
 adelphic
 adelphous
-adempt
 adipsous
 azole
 ascesis
@@ -21019,6 +21018,7 @@ amniorrhea
 aseismatic
 arabella
 alkannin
+adempt
 arboriculturist
 abreacted
 aseity
