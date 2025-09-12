@@ -2186,7 +2186,6 @@ barbellate
 butcherless
 baysmelts
 barathra
-barato
 buxaceae
 bontebok
 baghla
@@ -9162,6 +9161,7 @@ businesswoman
 blackboard
 bushelmen
 bobbinwork
+barato
 bipartisanship
 bipartitely
 buffer
