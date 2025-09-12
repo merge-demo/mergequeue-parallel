@@ -3188,7 +3188,6 @@ dayside
 defenseless
 defenselessly
 devitalising
-distend
 dolichostylous
 dapicho
 defensibleness
@@ -14339,6 +14338,7 @@ ditolyl
 disharmonies
 duds
 ditriglyphic
+distend
 delating
 dragropes
 duotones
