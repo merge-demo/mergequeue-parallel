@@ -5175,6 +5175,7 @@ circumvention
 champacs
 cyans
 chefdom
+constringed
 calemes
 cassandra
 conc
@@ -25428,7 +25429,6 @@ crowncapping
 chickened
 cornucopias
 cornule
-constringed
 corporatism
 cornupete
 chloroleucite
