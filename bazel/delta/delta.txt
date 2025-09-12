@@ -13255,6 +13255,7 @@ doused
 dechloridizing
 decelerometer
 dielec
+distils
 disreverence
 displeasing
 draughts
@@ -13705,7 +13706,6 @@ dimmish
 dulcifying
 distrail
 dissipation
-distils
 dissident
 decentered
 duecento

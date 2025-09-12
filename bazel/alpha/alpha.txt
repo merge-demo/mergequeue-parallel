@@ -541,6 +541,7 @@ amyotrophia
 actualize
 ablude
 autonomous
+absent
 arrestor
 abluent
 abluents
@@ -5187,7 +5188,6 @@ aquarian
 afflated
 ataxia
 afflatus
-absent
 afflicting
 afflictingly
 arviculture
