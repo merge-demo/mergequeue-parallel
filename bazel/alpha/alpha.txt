@@ -11877,7 +11877,6 @@ anasa
 araphostic
 aralkylated
 awakenable
-anaschistic
 anaseismic
 anasitch
 anaspalin
@@ -13203,6 +13202,7 @@ anisosthenic
 anisostichous
 anisostomous
 acetosoluble
+anaschistic
 anisotonic
 amphitheatral
 anisotrope
