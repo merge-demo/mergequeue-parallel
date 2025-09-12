@@ -2856,7 +2856,6 @@ crockeryware
 casziel
 coambassador
 canonising
-constancy
 canonized
 carboxyhemoglobin
 cetorhinoid
@@ -20466,6 +20465,7 @@ company
 creped
 cascables
 companias
+constancy
 camelidae
 connie
 companied
