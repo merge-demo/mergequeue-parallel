@@ -5006,6 +5006,7 @@ backspeer
 beetlike
 brumbee
 bagnut
+bankings
 babism
 baptised
 bristle
@@ -14981,7 +14982,6 @@ biosatellite
 blowtorch
 brucella
 berberi
-bankings
 bungle
 barraters
 breedable
