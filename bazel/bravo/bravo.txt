@@ -4717,6 +4717,7 @@ beeball
 bordman
 besplit
 bedpost
+blate
 bypasses
 bauds
 bogway
@@ -10536,7 +10537,6 @@ bouviers
 bicirrose
 boychiks
 bambuco
-blate
 brooch
 blately
 benzalazine
