@@ -8376,7 +8376,6 @@ alcoholism
 alkalosis
 alkalous
 alkalurops
-algorithms
 abrader
 aliquant
 arguer
@@ -9169,6 +9168,7 @@ aloft
 abased
 aethogen
 acequiador
+algorithms
 alogy
 argotic
 allover
