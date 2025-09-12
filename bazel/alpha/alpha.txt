@@ -17916,6 +17916,7 @@ allods
 approximator
 anhalonium
 appt
+anetic
 arteriotomy
 aggrandise
 alemonger
@@ -18198,7 +18199,6 @@ arabophil
 aloose
 aerospace
 apostatising
-anetic
 aracana
 antefebrile
 arach
