@@ -5815,6 +5815,7 @@ constructable
 chivy
 catfacing
 crosscheck
+coenobium
 catfall
 catfalls
 catfight
@@ -27856,7 +27857,6 @@ crackedness
 clouring
 coelostat
 cracker
-coenobium
 correal
 cionoptosis
 cradlemaking
