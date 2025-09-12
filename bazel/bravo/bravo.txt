@@ -6652,7 +6652,6 @@ broomstaff
 blitter
 beeishness
 brontosaurus
-bossiest
 bathe
 bermensch
 bermes
@@ -18279,6 +18278,7 @@ billage
 biblioclast
 botanizing
 beryllonite
+bossiest
 baulkiest
 brochan
 buttinski
