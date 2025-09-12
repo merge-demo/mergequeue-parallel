@@ -5870,7 +5870,6 @@ bateleur
 belomancy
 belonger
 bronchophonic
-botanics
 bared
 belonging
 bailiffship
@@ -9024,6 +9023,7 @@ bemire
 brickmaking
 bethumps
 bolloxed
+botanics
 bipectinated
 bowler
 biopotential
