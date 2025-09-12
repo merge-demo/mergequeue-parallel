@@ -3122,7 +3122,6 @@ antilevelling
 aleberry
 approachabl
 azotine
-acupuncture
 abonne
 apsides
 acupunctured
@@ -18993,6 +18992,7 @@ anthocyanidin
 anlagen
 archpriest
 archprimate
+acupuncture
 artotyrite
 archprotopope
 archpuritan
