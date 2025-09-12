@@ -6456,7 +6456,6 @@ cyaathia
 cavina
 cynicisms
 cavitary
-closeup
 cystophthisis
 choleric
 charcoaling
@@ -10205,6 +10204,7 @@ counterstatant
 crease
 chi
 croisard
+closeup
 coussinet
 calcining
 caapeba
