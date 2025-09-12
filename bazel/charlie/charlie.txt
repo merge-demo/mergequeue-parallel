@@ -20579,6 +20579,7 @@ cusparia
 carnose
 codon
 crapon
+chartophylax
 commistion
 cambalo
 canonlike
@@ -23014,7 +23015,6 @@ consolations
 consolato
 consolator
 consolatory
-chartophylax
 console
 crossfire
 companyless
