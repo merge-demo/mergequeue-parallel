@@ -1473,7 +1473,6 @@ bartisans
 balistes
 blatherskite
 battologized
-bridgeport
 balistid
 bloodshedding
 bepuzzle
@@ -4540,6 +4539,7 @@ bundeli
 borborus
 boarding
 bedaubing
+bridgeport
 belial
 beats
 bedazement

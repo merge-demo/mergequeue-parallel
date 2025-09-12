@@ -2278,7 +2278,6 @@ cypseloid
 canalatura
 completer
 cerebbella
-canalboat
 charales
 canale
 canaled
@@ -3222,6 +3221,7 @@ capitalising
 clayier
 cynocrambaceae
 cit
+canalboat
 capitalistically
 capitalists
 capitalizable
