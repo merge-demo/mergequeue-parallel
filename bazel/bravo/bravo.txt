@@ -4984,6 +4984,7 @@ bombernickel
 banqueteer
 bypass
 beglic
+birdmouthed
 bridesmaid
 bloodletting
 becomings
@@ -9661,7 +9662,6 @@ bestock
 bisquette
 bissabol
 betrothment
-birdmouthed
 byssal
 bigam
 bissellia
