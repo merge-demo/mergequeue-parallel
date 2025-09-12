@@ -1847,7 +1847,6 @@ aitiology
 atheize
 alabastos
 adamic
-audiovisuals
 acetylating
 acetylative
 albatrosses
@@ -8510,6 +8509,7 @@ aspiringness
 anta
 allegiance
 ancylostoma
+audiovisuals
 allegiancy
 astronautically
 allegorically
