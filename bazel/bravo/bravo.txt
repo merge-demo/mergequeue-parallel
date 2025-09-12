@@ -754,6 +754,7 @@ bifrost
 barracker
 badiaga
 breathy
+bulkiness
 boneshaw
 burnetize
 bushmanship
@@ -6662,7 +6663,6 @@ broomstaff
 blitter
 beeishness
 brontosaurus
-bulkiness
 bossiest
 bathe
 bermensch

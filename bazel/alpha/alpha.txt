@@ -13634,7 +13634,6 @@ ancyrene
 acted
 arteriodialysis
 anopisthographically
-attenuates
 anopla
 anoplonemertean
 atazir
@@ -16324,6 +16323,7 @@ antrophose
 antrorse
 antrorsely
 antroscope
+attenuates
 axfetch
 americas
 antrotomy
