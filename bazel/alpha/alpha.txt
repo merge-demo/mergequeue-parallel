@@ -980,7 +980,6 @@ antidromous
 abtruse
 alclad
 aquitanian
-acalephae
 abstractitious
 antimethodic
 anablepses
@@ -11654,6 +11653,7 @@ anticeremonialism
 altocumulus
 africanthropus
 aparavidya
+acalephae
 analysers
 acetometric
 abstentions
