@@ -1757,7 +1757,6 @@ chartographically
 chemiphotic
 calvous
 calx
-calxes
 catecholamines
 chatty
 cann
@@ -31345,6 +31344,7 @@ cury
 causeys
 countertrespass
 curia
+calxes
 clodpoles
 curiae
 cobwebbing
