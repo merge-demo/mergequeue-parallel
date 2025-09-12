@@ -1395,7 +1395,6 @@ diorites
 daviesite
 derogating
 deleted
-demilitarize
 dismain
 disparting
 doketism
@@ -16888,6 +16887,7 @@ dourahs
 dissenters
 dreeing
 dulcose
+demilitarize
 disconsonant
 difficult
 duma
