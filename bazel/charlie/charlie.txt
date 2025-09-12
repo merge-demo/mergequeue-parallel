@@ -10634,7 +10634,6 @@ chilte
 chiltern
 caliological
 chimaera
-chimaerid
 chimaeroid
 classwise
 chimakum
@@ -26414,6 +26413,7 @@ cotransfuse
 cotranslator
 cleidotomy
 confinable
+chimaerid
 cotranspire
 commiserable
 cystocarp
