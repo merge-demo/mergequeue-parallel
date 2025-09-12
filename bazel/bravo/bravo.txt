@@ -7960,7 +7960,6 @@ bicyclist
 bostal
 busynesses
 bicycular
-bicylindrical
 boodler
 blenches
 beatus
@@ -9952,6 +9951,7 @@ biverb
 beblear
 bedfast
 bivocal
+bicylindrical
 beseem
 bossism
 bombings
