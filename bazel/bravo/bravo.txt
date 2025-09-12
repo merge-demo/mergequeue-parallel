@@ -7591,7 +7591,6 @@ backened
 brandi
 beeper
 biking
-burgling
 bankrolled
 borborygmic
 bullary
@@ -13482,6 +13481,7 @@ betweenness
 balderdash
 branny
 benefic
+burgling
 bradyseismism
 broadwife
 bowyangs
