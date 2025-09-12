@@ -3327,7 +3327,6 @@ deflations
 disconfirmed
 disperser
 dorey
-damnum
 diffund
 decempeda
 ditremidae
@@ -6375,6 +6374,7 @@ dislimn
 divorcing
 dugong
 dejeune
+damnum
 dominiums
 duodenum
 dermosclerite
