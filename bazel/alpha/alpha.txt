@@ -11679,6 +11679,7 @@ arecolin
 analytique
 arnoseris
 arcuately
+aurous
 anticynicism
 analyze
 analyzed
@@ -23622,7 +23623,6 @@ aurorium
 algorithm
 additionally
 aleppine
-aurous
 aurrescu
 anchtherium
 aurulent
