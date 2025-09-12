@@ -2742,6 +2742,7 @@ douane
 deceptious
 dihydrate
 daun
+dryopithecid
 draughtiness
 dian
 desulphur
@@ -3103,7 +3104,6 @@ defaulted
 defaultless
 downfolded
 defaults
-dryopithecid
 defaulture
 dayworker
 detritus
