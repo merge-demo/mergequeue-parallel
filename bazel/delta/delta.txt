@@ -10907,6 +10907,7 @@ demultiplexers
 dirgelike
 diamonded
 dwarfest
+desktop
 dirgeman
 debts
 dustyfoot
@@ -11479,7 +11480,6 @@ dia
 dated
 discession
 discission
-desktop
 discontentedly
 deadbeats
 doctrinize
