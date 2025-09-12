@@ -7305,6 +7305,7 @@ aesthesis
 albion
 aider
 allogamies
+anticathexis
 assessor
 apertly
 anilinctus
@@ -19630,7 +19631,6 @@ argonauts
 autobiographist
 armeniaceous
 aristolochia
-anticathexis
 aristolochin
 annalistic
 aristology
