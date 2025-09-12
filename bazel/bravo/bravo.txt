@@ -3525,6 +3525,7 @@ batfowl
 batfowled
 bassists
 batfowls
+bionomist
 bestore
 beng
 berried
@@ -6609,7 +6610,6 @@ bambinos
 burnings
 blueleg
 berycoid
-bionomist
 bansalague
 biurate
 barpost
