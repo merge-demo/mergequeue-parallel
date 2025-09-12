@@ -11487,7 +11487,6 @@ diluvial
 deplete
 disclosive
 disclosure
-drawls
 diplomaed
 duplicitous
 discloud
@@ -16133,6 +16132,7 @@ dabster
 dodecane
 dockers
 diacoelosis
+drawls
 deprivative
 doublette
 driftman
