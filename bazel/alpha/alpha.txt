@@ -6525,6 +6525,7 @@ ailurophilic
 affirmation
 akinesic
 archaeol
+anew
 ailuropoda
 ailurus
 ageustia
@@ -11771,7 +11772,6 @@ anapaestically
 abashments
 ataraxic
 aquaplaned
-anew
 amenism
 anapaite
 aviational
