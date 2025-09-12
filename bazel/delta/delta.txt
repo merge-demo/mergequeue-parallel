@@ -659,7 +659,6 @@ damnify
 dearth
 damnificatus
 disoccupation
-debarration
 damnifies
 damningly
 disposals
@@ -11956,6 +11955,7 @@ decollimate
 disequilibration
 disease
 dentalisation
+debarration
 dikaryophasic
 defectively
 deductile
