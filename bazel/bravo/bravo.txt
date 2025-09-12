@@ -7845,7 +7845,6 @@ brachiation
 baldachinos
 bradypnoea
 blenchingly
-bemata
 bibliomane
 brontometer
 biosterol
@@ -9251,6 +9250,7 @@ biprism
 byproducts
 burgaudine
 beadles
+bemata
 butacaine
 bleezy
 bobsled
