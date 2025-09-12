@@ -12017,6 +12017,7 @@ centralization
 coenacting
 choristership
 choristic
+chumship
 choristoneura
 cantharellus
 chorization
@@ -12775,7 +12776,6 @@ cystiferous
 chumpish
 chumps
 chums
-chumship
 collenchyma
 comdia
 chumships
