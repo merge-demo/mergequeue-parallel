@@ -2638,6 +2638,7 @@ basilinna
 bizone
 buckstall
 bananaland
+bedewer
 bedumbs
 bescour
 befriend
@@ -14802,7 +14803,6 @@ bristler
 brailing
 bluetops
 bronchopulmonary
-bedewer
 bihourly
 bestializes
 bonetta
