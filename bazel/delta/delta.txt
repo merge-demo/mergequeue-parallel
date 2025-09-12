@@ -8142,7 +8142,6 @@ domesticated
 desugar
 durzi
 dhritarashtra
-depauperize
 disables
 dhundia
 disembowelled
@@ -14208,6 +14207,7 @@ diapnotic
 disaffiliate
 disunify
 dolesman
+depauperize
 diastatically
 dermatomic
 deleter
