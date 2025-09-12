@@ -5799,7 +5799,6 @@ depolished
 dug
 deaconed
 depoliticized
-definers
 donia
 dredged
 dreck
@@ -16800,6 +16799,7 @@ decreement
 drammage
 dramme
 discurrent
+definers
 drammed
 dottler
 dec
