@@ -3255,7 +3255,6 @@ corns
 capito
 clingier
 contrib
-capitoline
 capitolium
 capitula
 crumbiest
@@ -22720,6 +22719,7 @@ conplane
 centuriation
 counterevidence
 cryosphere
+capitoline
 chartless
 conquerer
 conquerers
