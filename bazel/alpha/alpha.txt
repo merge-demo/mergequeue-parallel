@@ -2828,7 +2828,6 @@ acroteria
 ablactation
 aviatorial
 acrotism
-aeric
 acrotrophic
 acrotrophoneurosis
 assary
@@ -4157,6 +4156,7 @@ attestative
 ambitendencies
 abstrusion
 ambled
+aeric
 asterite
 anecdotists
 arracacha

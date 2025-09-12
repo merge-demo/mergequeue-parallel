@@ -1360,7 +1360,6 @@ calimeris
 calymma
 carabinier
 confisk
-cadmopone
 combust
 clochards
 carfuls
@@ -24349,6 +24348,7 @@ cookroom
 concentrate
 caverning
 caritas
+cadmopone
 cookshop
 cookshops
 cards
