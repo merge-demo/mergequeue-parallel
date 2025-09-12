@@ -10259,7 +10259,6 @@ daguilla
 disimprovement
 disfigured
 distresses
-demonstrability
 darkling
 depute
 dealfishes
@@ -17868,6 +17867,7 @@ drinkable
 darrell
 devaluations
 ductor
+demonstrability
 ductules
 drawlatch
 dictyosome
