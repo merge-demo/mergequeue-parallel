@@ -5256,7 +5256,6 @@ cast
 castable
 confederationist
 castalides
-cardiopuncture
 chertier
 castane
 crinel
@@ -27381,6 +27380,7 @@ courtlike
 cannonism
 compulse
 courtney
+cardiopuncture
 causing
 courtnoll
 cappier
