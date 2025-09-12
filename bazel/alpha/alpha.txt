@@ -1607,6 +1607,7 @@ achate
 artificialize
 anthologised
 accriminate
+arithmomancy
 arthuriana
 anonang
 assailers
@@ -19663,7 +19664,6 @@ anteprandial
 ascriptive
 arithmocratic
 ammonite
-arithmomancy
 arizonian
 arizonians
 achigan
