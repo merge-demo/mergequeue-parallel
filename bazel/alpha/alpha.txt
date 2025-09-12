@@ -760,7 +760,6 @@ abridgable
 anticlassicalist
 abitibi
 abridgement
-annuity
 abridgements
 abridger
 acurative
@@ -13511,6 +13510,7 @@ anodonta
 annuler
 anodontia
 allocable
+annuity
 abys
 anodos
 agomensin
