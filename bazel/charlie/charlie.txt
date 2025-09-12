@@ -3861,7 +3861,6 @@ cachets
 carbuncles
 counteradvantage
 carbuncular
-carbunculation
 carbungi
 cometographical
 coalier
@@ -15252,6 +15251,7 @@ crucigerous
 claywares
 clayweed
 caam
+carbunculation
 colours
 chlorphenol
 columbaries
