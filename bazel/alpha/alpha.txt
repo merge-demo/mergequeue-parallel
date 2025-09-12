@@ -5841,7 +5841,6 @@ anemophilous
 acropetal
 aggroup
 approximant
-applauder
 archt
 aghan
 aghas
@@ -7263,6 +7262,7 @@ amusiveness
 antrum
 adversus
 animalist
+applauder
 anticommunistic
 angili
 anisomelia
