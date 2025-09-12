@@ -25094,6 +25094,7 @@ combinantive
 cores
 carbonates
 corpselikeness
+cetin
 cardia
 chaulmugra
 catalects
@@ -27581,7 +27582,6 @@ crisping
 covine
 cymatium
 coving
-cetin
 carapus
 cointension
 covisit
