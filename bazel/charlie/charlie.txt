@@ -9191,7 +9191,6 @@ carbonylic
 caducibranchiata
 chastener
 coplanation
-chastens
 chaster
 crombec
 chastest
@@ -14070,6 +14069,7 @@ cryptostomate
 cypselomorphae
 capling
 churchism
+chastens
 cypselomorphic
 cypselous
 committable
