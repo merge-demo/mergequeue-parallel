@@ -6239,7 +6239,6 @@ councillors
 causa
 causae
 chilectropion
-cabrie
 calycular
 causal
 causality
@@ -7773,6 +7772,7 @@ consternating
 coruscation
 cellulated
 choledochitis
+cabrie
 coronatorial
 cervicapra
 cervicectomy
