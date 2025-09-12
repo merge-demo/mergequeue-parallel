@@ -1318,7 +1318,6 @@ boodle
 bleaberry
 benzopyranyl
 beclouds
-bawdyhouses
 bilewhit
 bogtrotter
 broderie
@@ -16142,6 +16141,7 @@ binocs
 baritones
 brieve
 botonnee
+bawdyhouses
 bundy
 berrypicking
 bombacaceae
