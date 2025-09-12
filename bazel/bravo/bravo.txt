@@ -10721,6 +10721,7 @@ brushup
 backspierer
 bharata
 budorcas
+barcone
 bangiaceous
 beggarism
 brinks
@@ -13378,7 +13379,6 @@ bothriocephalus
 brosimum
 bothrium
 bries
-barcone
 bothrodendron
 blackcap
 bookdealer
