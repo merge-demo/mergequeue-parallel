@@ -25149,7 +25149,6 @@ curvier
 clinocephalus
 coriariaceae
 coriaus
-countertype
 cheeter
 corybant
 constructionism
@@ -28426,6 +28425,7 @@ childminder
 creasier
 curiegram
 consistory
+countertype
 creasot
 computing
 cholecystostomies
