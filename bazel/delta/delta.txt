@@ -5472,6 +5472,7 @@ deregister
 disenablement
 deorsum
 deorsumversion
+diesel
 damoisel
 deossification
 deductibles
@@ -11364,7 +11365,6 @@ discarnate
 duskier
 dimit
 discusser
-diesel
 disadvantagedness
 diptyca
 discases
