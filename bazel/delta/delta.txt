@@ -5394,7 +5394,6 @@ dielytra
 divorcement
 dwarfishness
 diasene
-dentulous
 dentural
 dermatology
 doubtably
@@ -8686,6 +8685,7 @@ disfigure
 dilative
 dato
 diaschisma
+dentulous
 delfs
 domed
 didactyl
