@@ -5732,6 +5732,7 @@ beetlehead
 balaghat
 biophysics
 busying
+biskop
 bellbinder
 bellbine
 bromacetanilide
@@ -12342,7 +12343,6 @@ band
 bandlimit
 buckshee
 brigades
-biskop
 bomble
 blackbutt
 boombox
