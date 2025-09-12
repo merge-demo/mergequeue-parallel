@@ -6276,6 +6276,7 @@ dermatomere
 despectant
 dermatomyces
 delocalizing
+dipteraceous
 dignity
 diplokaryon
 doldrums
@@ -16721,7 +16722,6 @@ doctoress
 dowily
 drayage
 desmotomy
-dipteraceous
 dieresis
 diverting
 dereligion
