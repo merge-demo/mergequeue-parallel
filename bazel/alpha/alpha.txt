@@ -12285,7 +12285,6 @@ ajonjoli
 atomiferous
 axisymmetry
 ajowan
-adequateness
 anecdote
 anecdotes
 anecdotic
@@ -25170,6 +25169,7 @@ attenuations
 archduchess
 alaihi
 assahy
+adequateness
 alkitran
 ailing
 axonolipous
