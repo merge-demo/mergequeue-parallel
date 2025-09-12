@@ -8129,6 +8129,7 @@ atwo
 ancylodactyla
 adipocyte
 aspersing
+anopsy
 acerous
 alienage
 alienated
@@ -12974,7 +12975,6 @@ alemannish
 ahrendahronon
 anabolite
 animalic
-anopsy
 aminosulphonic
 abulia
 avunculize
