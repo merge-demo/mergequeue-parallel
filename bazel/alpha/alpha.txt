@@ -21252,7 +21252,6 @@ ascii
 appreciative
 alexipharmacum
 aftergame
-angelical
 askewgee
 askip
 antepaschal
@@ -21773,6 +21772,7 @@ associableness
 associated
 aboudikro
 apostle
+angelical
 acrocephaly
 anemometrically
 andesine
