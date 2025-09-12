@@ -2776,6 +2776,7 @@ blotchiest
 begun
 bhp
 bespoken
+beneficences
 barrowman
 barba
 byspell
@@ -6628,7 +6629,6 @@ beseemly
 bodyhood
 bering
 butyrometric
-beneficences
 broughtas
 busto
 babbles
