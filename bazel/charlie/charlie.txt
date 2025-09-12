@@ -844,7 +844,6 @@ cairny
 cays
 caisse
 caissons
-caite
 colligance
 caitif
 charque
@@ -22619,6 +22618,7 @@ catawampously
 camelopard
 criminogenic
 cuffed
+caite
 coaevals
 connexes
 cantabri
