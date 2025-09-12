@@ -5218,6 +5218,7 @@ boarcite
 basification
 blotless
 breadboards
+bombyx
 barkeeps
 bandos
 basaltic
@@ -6466,7 +6467,6 @@ bureaucratical
 bepraiser
 bagge
 barangay
-bombyx
 begrudgingly
 brast
 bedirt
