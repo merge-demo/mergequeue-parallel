@@ -9639,6 +9639,7 @@ castoroides
 coinfer
 chainwale
 cafuso
+corpuscles
 cheesebox
 cheeseburger
 cheesecake
@@ -12235,7 +12236,6 @@ cupbearers
 chrysome
 chrysomelid
 chrysomyia
-corpuscles
 championships
 chrysopa
 chrysopal
