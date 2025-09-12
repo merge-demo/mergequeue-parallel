@@ -5368,7 +5368,6 @@ displaced
 denticle
 dentiferous
 dentification
-dichlamydeous
 dentifrice
 dentil
 discussional
@@ -12200,6 +12199,7 @@ dixie
 dictic
 dewooled
 dewinesses
+dichlamydeous
 denticulately
 dewata
 dichloromethane
