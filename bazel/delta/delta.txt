@@ -1906,6 +1906,7 @@ debridement
 dodecylene
 dakoits
 dactylosternal
+duras
 dekaparsec
 deciphers
 debriefing
@@ -12388,7 +12389,6 @@ digestment
 diswarren
 dealated
 daredeviltry
-duras
 desexed
 dishabille
 devilish
