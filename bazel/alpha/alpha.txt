@@ -4193,7 +4193,6 @@ agazed
 aluniferous
 aktiebolag
 auctioneers
-archaeornis
 antickt
 archbishoprics
 anorthic
@@ -15129,6 +15128,7 @@ antistate
 aliptes
 askant
 antifrost
+archaeornis
 alaite
 alining
 antifundamentalism
