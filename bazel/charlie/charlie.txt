@@ -2893,6 +2893,7 @@ chartophylaxes
 connectionless
 cantabank
 canonic
+cantillation
 curatively
 cacaos
 cantabile
@@ -27315,7 +27316,6 @@ courbette
 courbettes
 carcaneted
 codfisheries
-cantillation
 concentrically
 courgette
 courida
