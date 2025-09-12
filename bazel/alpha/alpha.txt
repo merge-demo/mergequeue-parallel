@@ -299,7 +299,6 @@ agas
 abridged
 abdominothoracic
 acquiescent
-abducens
 acquitted
 abducentes
 abduces
@@ -19615,6 +19614,7 @@ absorbability
 autodecrement
 aristocratism
 aristocrats
+abducens
 adrectal
 aristodemocracies
 anthericum
