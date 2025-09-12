@@ -7689,6 +7689,7 @@ bittock
 brakehand
 bullan
 brocard
+bitriseptate
 bhindi
 bucketmaking
 bhishti
@@ -18128,7 +18129,6 @@ butene
 babuina
 buteonine
 bods
-bitriseptate
 boisseaux
 bacillite
 beknit
