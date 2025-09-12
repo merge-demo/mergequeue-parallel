@@ -2895,7 +2895,6 @@ dedicant
 dedicatee
 downbeat
 disorientating
-drafting
 dedicatory
 decompensated
 doggoner
@@ -17893,6 +17892,7 @@ dullsome
 dude
 denervate
 dabb
+drafting
 dudgen
 duole
 desubstantialize
