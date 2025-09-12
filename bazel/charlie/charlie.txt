@@ -8488,7 +8488,6 @@ cineplastics
 cataclysmatic
 congealedness
 curatage
-chimbley
 corslet
 chanca
 convertite
@@ -20516,6 +20515,7 @@ clatteringly
 comparing
 comparisons
 comparted
+chimbley
 comade
 customhouse
 compartimenti
