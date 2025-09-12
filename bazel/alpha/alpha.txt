@@ -19558,7 +19558,6 @@ ascaridole
 arimathaean
 abbaye
 ablactated
-amphidiploidy
 ancraophobia
 agglutinins
 arioian
@@ -25180,6 +25179,7 @@ axonophora
 amentula
 azophenetole
 astrand
+amphidiploidy
 americanization
 appareled
 asaraceae
