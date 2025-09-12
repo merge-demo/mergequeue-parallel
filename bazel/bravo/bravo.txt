@@ -9328,7 +9328,6 @@ bonniness
 butter
 bottommost
 birded
-bisectrix
 bahawder
 bimah
 barites
@@ -12985,6 +12984,7 @@ bombazine
 beliquored
 balanid
 boracite
+bisectrix
 boracous
 borage
 bedur
