@@ -17514,7 +17514,6 @@ aesthophysiology
 amercements
 appendency
 appendicalgia
-allometry
 ausonian
 archiblast
 appendiceal
@@ -17991,6 +17990,7 @@ aptnesses
 autohypnotization
 anises
 acherontic
+allometry
 affusions
 antereformation
 accounsel
