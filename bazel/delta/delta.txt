@@ -298,7 +298,6 @@ digitonin
 dodecatemory
 dreadnaught
 durn
-docken
 decolourised
 dimensum
 debugged
@@ -6822,6 +6821,7 @@ deslime
 desmachyme
 dialyzate
 daubery
+docken
 decidingly
 dictyoceratina
 desmanthus
