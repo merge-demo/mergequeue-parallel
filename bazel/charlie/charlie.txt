@@ -1326,7 +1326,6 @@ caliculate
 cavernitis
 calyculated
 contendere
-coercing
 counterband
 calicut
 crotonization
@@ -22992,6 +22991,7 @@ choriambi
 consistent
 chebacco
 cinnoline
+coercing
 consisting
 corydon
 commencing
