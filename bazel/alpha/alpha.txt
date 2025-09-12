@@ -15766,7 +15766,6 @@ antelopine
 antiprelate
 antiprelatic
 arbitrations
-aliquot
 archils
 antipriest
 astrophotometry
@@ -17317,6 +17316,7 @@ assemblee
 astrean
 ambiens
 archpatron
+aliquot
 aestivated
 acceptably
 alhambresque
