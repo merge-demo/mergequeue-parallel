@@ -12793,7 +12793,6 @@ achromate
 approaches
 addictively
 anguine
-anguiped
 acutes
 anguishing
 anisogamic
@@ -21955,6 +21954,7 @@ asteriskos
 azoparaffin
 autoepigraph
 asterisks
+anguiped
 ammocoetidae
 antefurcal
 argyll
