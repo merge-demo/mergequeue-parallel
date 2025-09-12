@@ -304,6 +304,7 @@ abducens
 acquitted
 abducentes
 abduces
+astricts
 articulate
 atonic
 apothece
@@ -10924,7 +10925,6 @@ acetphenetid
 assertedly
 archdruid
 amoritic
-astricts
 alma
 amoritish
 awesomely
