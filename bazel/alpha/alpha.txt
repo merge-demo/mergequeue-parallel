@@ -6313,7 +6313,6 @@ akov
 allosyndetic
 acquitting
 acalycinous
-asterism
 aha
 autoclaves
 antienthusiasm
@@ -20732,6 +20731,7 @@ arui
 aruke
 aroynt
 acetosity
+asterism
 arum
 aligreek
 arundiferous
