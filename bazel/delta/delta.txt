@@ -1474,7 +1474,6 @@ dazzler
 deaminized
 diptychon
 damnification
-dazzlingness
 dismayful
 dbms
 degenerationist
@@ -4515,6 +4514,7 @@ demy
 disvalued
 demiangel
 diazotization
+dazzlingness
 demibelt
 dinornithes
 deradelphus
