@@ -11585,6 +11585,7 @@ beliers
 boardinghouse
 boardings
 boardsmanship
+besieges
 badju
 boatloads
 boardly
@@ -15269,7 +15270,6 @@ bohorok
 boisterously
 brieflessly
 bracozzo
-besieges
 bleeds
 bedstaves
 barblet
