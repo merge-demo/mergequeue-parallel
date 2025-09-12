@@ -1143,7 +1143,6 @@ correlate
 calculational
 cheesecutter
 caligo
-calculator
 calculators
 chorically
 calculer
@@ -23506,6 +23505,7 @@ contentation
 contentedly
 counterartillery
 contenting
+calculator
 caphs
 cryptotaenia
 contentional
