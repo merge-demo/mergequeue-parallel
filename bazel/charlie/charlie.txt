@@ -1922,7 +1922,6 @@ cameralism
 cameralistics
 cameraman
 cameras
-camerate
 carlovingian
 cidaroida
 camerated
@@ -17374,6 +17373,7 @@ camarada
 coaration
 coarb
 coarrangement
+camerate
 comptonite
 constrains
 curiosity
