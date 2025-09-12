@@ -13407,6 +13407,7 @@ armored
 androgyneity
 arrendator
 assonant
+agnostic
 allusory
 anacardiaceae
 atwain
@@ -17809,7 +17810,6 @@ attrited
 apprenticehood
 agisms
 apprenticement
-agnostic
 apprenticeships
 apprenticing
 ambiguous
