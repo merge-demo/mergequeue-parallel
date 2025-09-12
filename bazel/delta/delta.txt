@@ -925,7 +925,6 @@ dominating
 dessil
 dereferences
 decapsulate
-dioscurian
 dromiceius
 dextran
 dermapostasis
@@ -9440,6 +9439,7 @@ diffract
 diffractively
 diviner
 deruralize
+dioscurian
 doubleted
 diffractiveness
 dist
