@@ -8075,6 +8075,7 @@ binous
 bedaubs
 bracken
 bidden
+bumicky
 brattiness
 battiks
 boondocks
@@ -17204,7 +17205,6 @@ brite
 breakover
 bumfuzzle
 baubles
-bumicky
 blotched
 bothridiums
 buttonless
