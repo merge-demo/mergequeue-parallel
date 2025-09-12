@@ -1765,7 +1765,6 @@ balthasar
 barramundas
 baltheus
 belgas
-blends
 baltimore
 bumblebeefishes
 baluba
@@ -4947,6 +4946,7 @@ beermaker
 beermaking
 beermonger
 blackland
+blends
 bumpoff
 beefers
 bombycilla
