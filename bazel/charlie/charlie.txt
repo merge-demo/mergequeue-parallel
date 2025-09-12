@@ -12234,7 +12234,6 @@ chrysology
 chattelized
 cupbearers
 chrysome
-chrysomelid
 chrysomyia
 championships
 chrysopa
@@ -20807,6 +20806,7 @@ complicates
 complicative
 complicator
 calesa
+chrysomelid
 complice
 complicity
 complied
