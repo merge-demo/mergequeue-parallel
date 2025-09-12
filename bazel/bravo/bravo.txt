@@ -9555,7 +9555,6 @@ borrel
 biset
 belshazzaresque
 brulyie
-begulfed
 bisetous
 bishoplet
 bisexed
@@ -10936,6 +10935,7 @@ bowses
 basta
 bacach
 beaneries
+begulfed
 beckets
 bartonia
 bodleian
