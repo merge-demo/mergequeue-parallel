@@ -18962,7 +18962,6 @@ cosigner
 calligrapher
 colladas
 crematoria
-chirm
 collage
 conrectorship
 collagenase
@@ -19558,6 +19557,7 @@ cisterna
 corposant
 colourist
 colourless
+chirm
 colourman
 colpenchyma
 colpindach
