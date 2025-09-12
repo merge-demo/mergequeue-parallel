@@ -7398,7 +7398,6 @@ caback
 cerambycid
 contchar
 circuiter
-coruscations
 celerity
 cerambycidae
 ceramicite
@@ -24900,6 +24899,7 @@ corymbiferous
 coram
 creditors
 crassitude
+coruscations
 crabit
 coranto
 crazier
