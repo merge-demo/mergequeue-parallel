@@ -2326,6 +2326,7 @@ demidolmen
 downwash
 deceptive
 dislimning
+dismayable
 deceptiveness
 decerebrate
 disfavourable
@@ -12850,7 +12851,6 @@ disulphonic
 diffusedness
 deferral
 dismay
-dismayable
 diathermancy
 doubty
 degame
