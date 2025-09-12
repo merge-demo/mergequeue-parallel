@@ -3872,7 +3872,6 @@ beforesaid
 basifacial
 bawneen
 burao
-bawra
 basil
 bawsint
 brontogram
@@ -15582,6 +15581,7 @@ beldame
 bemist
 bypassing
 boner
+bawra
 bailage
 bauble
 buskle
