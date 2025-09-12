@@ -3244,7 +3244,6 @@ basilect
 begunk
 beautifying
 bote
-blottesquely
 babbling
 bandora
 beriberi
@@ -3888,6 +3887,7 @@ bifidated
 baxtone
 brachyskelic
 bivial
+blottesquely
 boughten
 bint
 brockage
