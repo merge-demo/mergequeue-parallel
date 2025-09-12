@@ -11351,7 +11351,6 @@ adnexitis
 amtracs
 amygdalae
 amu
-arteriae
 analysts
 amuchco
 arawak
@@ -18257,6 +18256,7 @@ accessioned
 ah
 anosognosia
 araire
+arteriae
 atossa
 araise
 aronia
