@@ -3984,7 +3984,6 @@ appendectomies
 adnascent
 adnation
 ametabolian
-alecithic
 adjudicates
 apparation
 autarchical
@@ -5538,6 +5537,7 @@ appoggiaturas
 agalaxia
 anisomelus
 agalenidae
+alecithic
 ambalam
 abirritated
 asperating
