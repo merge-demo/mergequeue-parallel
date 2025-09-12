@@ -7618,7 +7618,6 @@ disaccommodation
 dedicative
 demitint
 dilute
-diapnotic
 djellaba
 deuton
 deutonymph
@@ -14204,6 +14203,7 @@ disencrease
 daywork
 deringer
 dunair
+diapnotic
 disaffiliate
 disunify
 dolesman

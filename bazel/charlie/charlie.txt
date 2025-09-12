@@ -19845,6 +19845,7 @@ combusts
 charites
 captained
 combwise
+carpings
 catapulting
 centurion
 ceraunics
@@ -20487,7 +20488,6 @@ chromophyll
 crowd
 canvaslike
 companionize
-carpings
 cupressineous
 coraled
 companionizing
