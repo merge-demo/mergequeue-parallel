@@ -5667,6 +5667,7 @@ bombasine
 bora
 backwasher
 belialic
+ballist
 brimmered
 belicoseness
 belie
@@ -10359,7 +10360,6 @@ blanc
 bombardments
 bergomask
 bumbler
-ballist
 brays
 blanched
 blanches
