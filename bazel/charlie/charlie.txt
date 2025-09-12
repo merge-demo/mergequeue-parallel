@@ -1719,7 +1719,6 @@ collectables
 coapprover
 cheremissian
 cyclobutane
-conynge
 coyer
 calumniators
 calumnious
@@ -8133,6 +8132,7 @@ cerote
 cordia
 cordaitalean
 chairmaking
+conynge
 crystallogenetic
 chairmaning
 chairmanning
