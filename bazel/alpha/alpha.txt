@@ -6676,6 +6676,7 @@ auricularly
 airified
 airiness
 arecales
+auriculoparietal
 anacamptometer
 airish
 actinopterygian
@@ -23571,7 +23572,6 @@ autoregulation
 auriculocranial
 apios
 amphisile
-auriculoparietal
 automen
 auriculotemporal
 auriferous
