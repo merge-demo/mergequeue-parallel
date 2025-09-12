@@ -9969,6 +9969,7 @@ colocasia
 catacombic
 clammy
 criollo
+chilodon
 chiro
 chenopods
 customize
@@ -10612,7 +10613,6 @@ copaibas
 camoca
 choledochotomy
 convivial
-chilodon
 commensalism
 chilognathous
 chilogrammo
