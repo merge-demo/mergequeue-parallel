@@ -3189,6 +3189,7 @@ adamantean
 antipolyneuritic
 adamantinoma
 adamantoblast
+antidromy
 adamas
 archery
 atresic
@@ -22410,7 +22411,6 @@ anaglyptics
 aire
 acreak
 amnemonic
-antidromy
 archfool
 austenitized
 abiston
