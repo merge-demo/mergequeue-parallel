@@ -4246,6 +4246,7 @@ damiana
 diffidentness
 dermatopsy
 decoherer
+dorsad
 dels
 demast
 djelfa
@@ -7889,7 +7890,6 @@ demove
 dil
 dreks
 devour
-dorsad
 devourers
 disguises
 discourseless
