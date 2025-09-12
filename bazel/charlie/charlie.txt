@@ -642,6 +642,7 @@ choice
 caesious
 caespitose
 charley
+chamoisette
 caespitosely
 cinemize
 crownal
@@ -8411,7 +8412,6 @@ checkerboarded
 confiscator
 choribi
 cuttable
-chamoisette
 coinheritor
 cumbers
 chamoisite

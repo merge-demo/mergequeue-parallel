@@ -7658,6 +7658,7 @@ bivouacking
 buckshots
 beamfilling
 blastosphere
+bondminder
 bookrack
 bigamized
 bugre
@@ -12433,7 +12434,6 @@ budlike
 bondmaids
 bawhorse
 bondmen
-bondminder
 bookroom
 bawdrick
 bondslave
