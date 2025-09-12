@@ -1898,6 +1898,7 @@ balant
 brooded
 branle
 bandle
+banishment
 bedrel
 bushcraft
 brainsickly
@@ -16474,7 +16475,6 @@ borsht
 boringly
 butyrochloral
 brasier
-banishment
 btry
 bots
 buat
