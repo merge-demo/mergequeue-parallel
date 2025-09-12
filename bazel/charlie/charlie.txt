@@ -14942,7 +14942,6 @@ curding
 compactness
 coenogamete
 claxons
-cordites
 chupak
 cytostromatic
 cytotactic
@@ -18225,6 +18224,7 @@ complementing
 confiscatory
 convivialist
 carburize
+cordites
 chebule
 coglorious
 commencements
