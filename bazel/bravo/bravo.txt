@@ -11072,7 +11072,6 @@ ballyhooer
 blocked
 blocker
 brid
-bifoliolate
 becudgels
 bilgier
 beguines
@@ -13643,6 +13642,7 @@ brachycephal
 barre
 bouquetiere
 backsplice
+bifoliolate
 bladder
 blab
 bloodsucker
