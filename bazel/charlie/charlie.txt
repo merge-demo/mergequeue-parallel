@@ -3645,6 +3645,7 @@ cooks
 clangoring
 caramels
 carancho
+conking
 carandas
 carangids
 ciclatoun
@@ -22574,7 +22575,6 @@ castuli
 colorrhaphy
 clammish
 counterbid
-conking
 conn
 cements
 connate
