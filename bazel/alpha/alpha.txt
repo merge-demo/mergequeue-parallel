@@ -1653,7 +1653,6 @@ accumbent
 accumulating
 anthracomartian
 antjar
-amazes
 agony
 accumulation
 accumulativ
@@ -22792,6 +22791,7 @@ agy
 anteriorly
 appositional
 alochia
+amazes
 atria
 acutely
 asdic
