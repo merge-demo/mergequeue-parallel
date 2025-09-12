@@ -4805,6 +4805,7 @@ deaved
 diadochokinetic
 dromophobia
 denominative
+daturic
 dittied
 dejected
 darwin
@@ -12985,7 +12986,6 @@ driftwind
 disaffectedness
 disoperculate
 dicephalous
-daturic
 deliberation
 dainful
 demons
