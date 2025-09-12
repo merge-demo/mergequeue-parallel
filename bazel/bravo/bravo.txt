@@ -741,6 +741,7 @@ banana
 balada
 badgeringly
 bugles
+blepharophthalmia
 boyish
 badgerlike
 bending
@@ -16465,7 +16466,6 @@ bogeyed
 banal
 becurse
 bedsit
-blepharophthalmia
 backpointers
 buttonhook
 bemix
