@@ -10702,7 +10702,6 @@ bowhead
 blenheim
 binominous
 blague
-basiated
 bibl
 belap
 blennadenitis
@@ -15917,6 +15916,7 @@ bronchographic
 blooming
 battels
 boatwoman
+basiated
 broncholemmitis
 bassist
 borrelomycetaceae
