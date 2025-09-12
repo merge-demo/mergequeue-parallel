@@ -9688,6 +9688,7 @@ cheyennes
 centrosymmetric
 crosscut
 confirmee
+carioling
 calculations
 cardinalitial
 counterthought
@@ -20756,7 +20757,6 @@ complexing
 chromos
 chaines
 complexional
-carioling
 complexionary
 chelerythrin
 complexioned
