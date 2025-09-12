@@ -5522,7 +5522,6 @@ beja
 blintz
 bergsonism
 bechamels
-brawly
 bahaism
 babist
 bridehead
@@ -15125,6 +15124,7 @@ bicentennials
 bedeaf
 blancs
 barbiturate
+brawly
 backslash
 bunsenite
 batwa
