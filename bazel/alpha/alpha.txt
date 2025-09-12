@@ -5086,7 +5086,6 @@ affector
 arshine
 antiqua
 affeerer
-auturgy
 ankerite
 ampulated
 agrias
@@ -11528,6 +11527,7 @@ anacruses
 anacusic
 anacusis
 anadems
+auturgy
 anadenia
 anadesm
 anadicrotism
