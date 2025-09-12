@@ -10027,6 +10027,7 @@ coagulants
 colyumist
 cherrystone
 canephors
+czech
 cephalotripsy
 chersydridae
 chert
@@ -31943,7 +31944,6 @@ czarish
 chufa
 creophagy
 czaritzas
-czech
 czechization
 caitanyas
 czechoslovak
