@@ -772,7 +772,6 @@ abroach
 amphineura
 abrocome
 abrogable
-abrogate
 allergies
 anaglyphy
 accus
@@ -6168,6 +6167,7 @@ armenize
 agreeingly
 agreement
 agreements
+abrogate
 agregation
 aktivismus
 antinomic
