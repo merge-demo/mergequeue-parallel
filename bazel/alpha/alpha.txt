@@ -18892,6 +18892,7 @@ archival
 archivault
 archiver
 archjockey
+audiometrist
 athetotic
 amoroso
 archknave
@@ -21975,7 +21976,6 @@ adinvention
 alkalizing
 abn
 asterolepis
-audiometrist
 asterope
 amnestic
 aboral

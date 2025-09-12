@@ -9513,6 +9513,7 @@ demiplate
 despondently
 dungbird
 digenite
+distichous
 digerent
 dereistically
 demounting
@@ -13917,7 +13918,6 @@ deaf
 deckles
 distichlis
 dephased
-distichous
 dod
 distil
 derisive
