@@ -1071,7 +1071,6 @@ calcifugal
 calcigenous
 chamaesiphonaceous
 calcimined
-calciminer
 calcimines
 crudeness
 calcimining
@@ -27300,6 +27299,7 @@ carlisle
 curacy
 chanfrons
 connexionalism
+calciminer
 couranto
 courantoes
 calumniator
