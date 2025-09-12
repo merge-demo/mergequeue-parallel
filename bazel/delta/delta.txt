@@ -2691,7 +2691,6 @@ duetto
 decisions
 decorate
 dopey
-decorating
 discounsel
 diplopterous
 dassy
@@ -10363,6 +10362,7 @@ drillmasters
 destigmatizing
 denudation
 disfavoring
+decorating
 debt
 disproportional
 desilverizer
