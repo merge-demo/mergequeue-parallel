@@ -12226,6 +12226,7 @@ depressible
 diabrotica
 dejections
 draughter
+donkeymen
 defencelessness
 disfigurer
 didactician
@@ -14318,7 +14319,6 @@ deisms
 defoliator
 delies
 decorators
-donkeymen
 defeatist
 deb
 deviances
