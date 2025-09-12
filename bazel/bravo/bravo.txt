@@ -3895,7 +3895,6 @@ buckishly
 bamboos
 bbs
 beltian
-bhumidar
 bigotedness
 bassly
 burn
@@ -12609,6 +12608,7 @@ betided
 bewrite
 beaklike
 bewrayed
+bhumidar
 birdied
 boobily
 boobish
