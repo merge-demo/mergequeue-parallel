@@ -550,6 +550,7 @@ dimities
 dipylon
 dalt
 dalton
+drunkometer
 dermaskeleton
 dama
 disodic
@@ -8006,7 +8007,6 @@ disincorporation
 drowse
 diagnosticated
 drawpoint
-drunkometer
 defease
 dextroglucose
 distensive
