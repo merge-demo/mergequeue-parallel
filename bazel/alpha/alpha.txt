@@ -17369,6 +17369,7 @@ aggressively
 anthomedusan
 anaesthatic
 abstracter
+athenor
 apoxesis
 apoxyomenos
 apozem
@@ -22505,7 +22506,6 @@ anisopia
 atheneum
 aerates
 annalism
-athenor
 agnition
 ambiopia
 atheologically
