@@ -8677,7 +8677,6 @@ disfigure
 dilative
 dato
 diaschisma
-doomlike
 delfs
 domed
 didactyl
@@ -17830,6 +17829,7 @@ ducky
 duckier
 disesteemed
 dedicating
+doomlike
 drumread
 dicyanide
 dandyize
