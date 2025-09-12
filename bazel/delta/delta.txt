@@ -7932,7 +7932,6 @@ depone
 dewberries
 dolichosaur
 dewcap
-disbudder
 disklike
 dewclaws
 dianthus
@@ -11119,6 +11118,7 @@ divorcees
 disbowelling
 distended
 dullsville
+disbudder
 diakinesis
 decarbonylate
 dicier
