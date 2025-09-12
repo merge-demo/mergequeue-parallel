@@ -5395,6 +5395,7 @@ butcher
 behallow
 bowldering
 betwit
+biglandular
 behammer
 breads
 behap
@@ -11203,7 +11204,6 @@ beprank
 bloopers
 blooth
 blosmy
-biglandular
 bedights
 binocles
 blotch
