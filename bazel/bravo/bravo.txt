@@ -4527,7 +4527,6 @@ benzylpenicillin
 bemingles
 betrunk
 buckteeth
-buglewort
 baubee
 backjaw
 bedarkening
@@ -17723,6 +17722,7 @@ burnside
 bilharzia
 bemuzzling
 boswellism
+buglewort
 begrim
 baculiticone
 burnt
