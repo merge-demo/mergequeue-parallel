@@ -7792,7 +7792,6 @@ confraction
 cervinae
 cosignatory
 cervixes
-cervuline
 cesare
 cesareans
 cesarevitch
@@ -28490,6 +28489,7 @@ cassada
 credentialed
 carrot
 countercampaign
+cervuline
 croomia
 cystines
 clour
