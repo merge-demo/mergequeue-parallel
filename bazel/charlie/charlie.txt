@@ -10935,7 +10935,6 @@ cytomegalovirus
 chiromantis
 chiromys
 chalcioecus
-chironym
 caecum
 chironomid
 chastised
@@ -28305,6 +28304,7 @@ comportment
 califate
 counteragent
 colaphize
+chironym
 clanned
 crawberry
 crawdad
