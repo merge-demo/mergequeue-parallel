@@ -12804,7 +12804,6 @@ aerophilatelist
 angularity
 affirming
 almadie
-antisurplician
 acct
 angulated
 angulately
@@ -24779,6 +24778,7 @@ anoxic
 avocado
 adaption
 augmentatively
+antisurplician
 argillite
 avocat
 aud
