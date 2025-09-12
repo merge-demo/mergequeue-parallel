@@ -9643,7 +9643,6 @@ beringed
 bismutosphaerite
 bisnaga
 bispinous
-bramah
 bathybian
 bisporous
 bayeta
@@ -10195,6 +10194,7 @@ bepuff
 breakpoints
 blacklisted
 biflected
+bramah
 beparse
 biramose
 brainer
