@@ -10154,7 +10154,6 @@ circumaxillary
 changed
 capitalistic
 copurchaser
-chevin
 copped
 crined
 chevres
@@ -28800,6 +28799,7 @@ cavalla
 communitary
 cabana
 chickweeds
+chevin
 cretinic
 cretinistic
 chollers
