@@ -3669,6 +3669,7 @@ disentitling
 degust
 dasnt
 divort
+dooja
 diopsimeter
 dregginess
 dewlaps
@@ -6402,7 +6403,6 @@ derogates
 diglyceride
 derogatory
 diamonding
-dooja
 disbursals
 deterrers
 dermovaccine
