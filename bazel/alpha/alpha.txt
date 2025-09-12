@@ -11306,7 +11306,6 @@ archduke
 anhydremia
 apodosis
 arachnological
-ampullate
 amphioxus
 ampulliform
 ampullula
@@ -22765,6 +22764,7 @@ annat
 amphidiscophora
 arioi
 aniseroot
+ampullate
 alcatras
 adjudger
 archelaus
