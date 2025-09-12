@@ -4324,6 +4324,7 @@ detraining
 divisiveness
 demagnetising
 diacranteric
+detrains
 different
 decomposes
 dhoney
@@ -18293,7 +18294,6 @@ dunlins
 deformedness
 demodulated
 degasser
-detrains
 dialyzability
 demijohn
 demiourgoi
