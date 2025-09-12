@@ -7646,6 +7646,7 @@ bereareft
 backfilling
 bushelbasket
 belemnites
+bellware
 bedrenches
 bhagat
 bissonata
@@ -12596,7 +12597,6 @@ baguets
 beleaguerment
 bulged
 basinlike
-bellware
 bonxie
 blastostyle
 barracoon
