@@ -5249,7 +5249,6 @@ autogiro
 aecia
 anglophobe
 afikomen
-afire
 almight
 aflat
 agons
@@ -19314,6 +19313,7 @@ amygdaliform
 arkie
 allowance
 ably
+afire
 auspicating
 argentin
 afterimages
