@@ -4001,7 +4001,6 @@ cardiacal
 carbosilicate
 cestui
 cleronomy
-cardiacle
 cardiagra
 camomiles
 cardiagram
@@ -5815,6 +5814,7 @@ chivy
 catfacing
 crosscheck
 coenobium
+cardiacle
 catfall
 catfalls
 catfight
