@@ -7200,6 +7200,7 @@ demonize
 dollyman
 decompose
 derailleurs
+dichlone
 dispersement
 drawboring
 deerkill
@@ -8969,7 +8970,6 @@ departition
 dicophane
 distressfully
 dysphrenia
-dichlone
 decalcifies
 duplexed
 detailers
