@@ -1839,6 +1839,7 @@ alidada
 autopathic
 acetylamine
 acetylaniline
+amphoral
 aitiology
 atheize
 alabastos
@@ -19664,7 +19665,6 @@ ascriptive
 arithmocratic
 ammonite
 arithmomancy
-amphoral
 arizonian
 arizonians
 achigan
