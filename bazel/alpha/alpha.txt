@@ -3786,7 +3786,6 @@ adjudicated
 adjudication
 adjudications
 agglutinin
-adjudicative
 anaphora
 asiaticization
 adjudicatory
@@ -13204,6 +13203,7 @@ anisotonic
 amphitheatral
 anisotrope
 anisotropically
+adjudicative
 annexations
 anencephalotrophia
 anisotropies
