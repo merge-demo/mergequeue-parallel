@@ -11835,6 +11835,7 @@ converter
 choplogic
 choplogical
 choregi
+comprehend
 candider
 chopper
 choppers
@@ -20932,7 +20933,6 @@ catechumen
 compradore
 compregnate
 crimogenic
-comprehend
 cosmognosis
 colonnades
 cheesiness
