@@ -4754,7 +4754,6 @@ carps
 carpsucker
 cavalierish
 concaving
-connotive
 chem
 chaldaei
 convexes
@@ -22760,6 +22759,7 @@ coemptio
 contraorbitally
 columnarized
 caligraphy
+connotive
 conscienceless
 canoeiro
 condivision
