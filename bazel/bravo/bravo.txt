@@ -2785,6 +2785,7 @@ brokers
 briggs
 baroque
 baconer
+buonamani
 bowsprits
 bewig
 bureaus
@@ -15356,7 +15357,6 @@ bagged
 brilliandeer
 budgerigars
 breechblock
-buonamani
 brilliant
 bisubstituted
 beheading

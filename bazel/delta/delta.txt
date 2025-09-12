@@ -6906,6 +6906,7 @@ darkness
 desolator
 dryhouse
 dognap
+disobligatory
 discolors
 dahabiyeh
 demulceate
@@ -11810,7 +11811,6 @@ dehydrated
 deviants
 discordance
 disturber
-disobligatory
 dioscorine
 discrepancies
 decanormal
