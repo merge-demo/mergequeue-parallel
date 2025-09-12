@@ -865,6 +865,7 @@ aures
 absyrtus
 assonate
 amylon
+actinocrinid
 absis
 anthrophore
 absit
@@ -15317,7 +15318,6 @@ atelognathia
 antimale
 antimaniac
 amylums
-actinocrinid
 articulated
 antiprogressive
 androlepsy
