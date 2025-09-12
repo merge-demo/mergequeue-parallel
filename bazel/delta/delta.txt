@@ -4926,7 +4926,6 @@ demonolater
 deducement
 dosimetrist
 dismality
-dissimilation
 dishmonger
 discage
 diluting
@@ -8876,6 +8875,7 @@ dialyzable
 deg
 dichotomal
 desilver
+dissimilation
 dibenzopyrrole
 disproportionates
 digressing
