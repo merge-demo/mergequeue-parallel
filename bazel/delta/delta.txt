@@ -783,6 +783,7 @@ dkl
 daubers
 delusters
 dakhini
+dermatograph
 dovecote
 diuretical
 drearly
@@ -17007,7 +17008,6 @@ denude
 diabrotic
 debatingly
 doohinkey
-dermatograph
 denaturize
 drearihead
 dialogged
