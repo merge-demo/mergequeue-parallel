@@ -25206,6 +25206,7 @@ coriolanus
 cailleach
 cladode
 coryphaei
+cryptarch
 crammed
 coryphaenoididae
 counterattacks
@@ -29168,7 +29169,6 @@ cothamore
 capybara
 choiceless
 cryptanalyzing
-cryptarch
 cryptarchy
 caracols
 crypteroniaceae
