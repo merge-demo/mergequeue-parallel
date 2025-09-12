@@ -3144,6 +3144,7 @@ caperbush
 crepance
 capercaillie
 chaulmoogric
+cleansing
 capercut
 combustibles
 citify
@@ -10051,7 +10052,6 @@ cherubimic
 cherubimical
 calculatory
 cherublike
-cleansing
 carpals
 calzone
 cherusci
