@@ -3223,7 +3223,6 @@ adansonia
 alfaqui
 aircrews
 appeasableness
-adapt
 anisospore
 advertizement
 apolytikion
@@ -19011,6 +19010,7 @@ archtreasurership
 archturncoat
 archvampire
 archvillainy
+adapt
 assuages
 aphoristic
 archvisitor
