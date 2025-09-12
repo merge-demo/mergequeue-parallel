@@ -23508,7 +23508,6 @@ contentedly
 counterartillery
 contenting
 caphs
-contention
 cryptotaenia
 contentional
 contentions
@@ -29702,6 +29701,7 @@ cried
 confessory
 crookbacked
 crookbill
+contention
 castral
 commencement
 consignment
