@@ -20767,6 +20767,7 @@ complexionless
 cultivar
 cahuapana
 centon
+circumnuclear
 chalcophanite
 chronologic
 complexive
@@ -24316,7 +24317,6 @@ cheiroglossa
 coagulation
 civilise
 cook
-circumnuclear
 cookable
 crowl
 carbureter
