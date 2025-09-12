@@ -11577,7 +11577,6 @@ choledochal
 choledochoduodenostomy
 colpeurysis
 connotively
-conformate
 collectorship
 choledocholithotripsy
 choledochorrhaphy
@@ -20413,6 +20412,7 @@ comoedus
 comolecule
 carbonite
 chilicothe
+conformate
 crassness
 cuirass
 comose
