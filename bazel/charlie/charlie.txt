@@ -2522,6 +2522,7 @@ candite
 candytuft
 curryfavel
 cassegrainian
+chastisable
 candyweed
 crosstie
 cleverness
@@ -28948,7 +28949,6 @@ cries
 crig
 crying
 climatography
-chastisable
 crimeful
 crimelessness
 crozzly
