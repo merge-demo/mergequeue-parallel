@@ -8716,7 +8716,6 @@ caconym
 coelomatic
 cobriform
 chloe
-chapeled
 concion
 crotalism
 convalescency
@@ -31523,6 +31522,7 @@ curship
 cornutin
 cues
 coelenteron
+chapeled
 cursitate
 creirgist
 cursive
