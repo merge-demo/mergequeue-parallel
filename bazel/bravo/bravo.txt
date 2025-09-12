@@ -5994,6 +5994,7 @@ bookie
 baccarats
 bowenite
 bradyphasia
+benchfellow
 blanquillos
 bilabial
 bemocking
@@ -8176,7 +8177,6 @@ bullheadedly
 bunkload
 bewaring
 biflex
-benchfellow
 bistort
 beshiver
 bifocal
