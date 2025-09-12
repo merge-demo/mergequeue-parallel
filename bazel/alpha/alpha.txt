@@ -13705,6 +13705,7 @@ agapemonian
 athletics
 anotta
 anounou
+anconeal
 affix
 ambroid
 anour
@@ -17986,7 +17987,6 @@ aureity
 amazonian
 ataentsic
 avatara
-anconeal
 aptiana
 aptychus
 aptitude
