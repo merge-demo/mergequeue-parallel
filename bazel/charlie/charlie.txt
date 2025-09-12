@@ -24635,7 +24635,6 @@ coplot
 comoquer
 cauqui
 coplotter
-chinoidine
 counterpaly
 copolar
 cryaesthesia
@@ -26927,6 +26926,7 @@ countermoved
 casebound
 countermure
 countermutiny
+chinoidine
 counternarrative
 curmudgeons
 chromeplated
