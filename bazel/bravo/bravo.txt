@@ -1606,6 +1606,7 @@ brummagem
 bracelets
 ballyhoo
 brads
+brassages
 belat
 biradial
 britches
@@ -14649,7 +14650,6 @@ brasque
 backwards
 bloc
 bullwhack
-brassages
 buttonholer
 brassard
 bearing
