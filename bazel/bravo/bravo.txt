@@ -5738,7 +5738,6 @@ bysen
 barnyards
 bascology
 bunn
-bulak
 bellbird
 bellboy
 bulbochaete
@@ -18042,6 +18041,7 @@ bingle
 bourgs
 bustler
 bustlers
+bulak
 bustles
 biologize
 bustlingly
