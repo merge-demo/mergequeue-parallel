@@ -6878,6 +6878,7 @@ desmoscolecidae
 desmoscolex
 deft
 desemer
+dynast
 destabilized
 deglutitory
 desoeuvre
@@ -10149,7 +10150,6 @@ dieties
 drouthiness
 defeater
 deodar
-dynast
 disengage
 dutiable
 dictatorially
