@@ -1969,6 +1969,7 @@ bantoid
 bilinguist
 babesiasis
 bange
+biblically
 bronchoscopy
 brachydactyl
 bulbous
@@ -14294,7 +14295,6 @@ blaver
 bedirtying
 blackbuck
 battement
-biblically
 bascinet
 braggle
 bandboxes
