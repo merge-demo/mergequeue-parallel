@@ -6662,6 +6662,7 @@ celeb
 capicha
 cloamer
 cantrips
+chihuahuas
 celebrant
 celebrants
 celebrate
@@ -10447,7 +10448,6 @@ courtiery
 chihfu
 celiomyositis
 cephalograph
-chihuahuas
 caenogaean
 congratulant
 chikara
