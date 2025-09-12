@@ -1391,7 +1391,6 @@ dayless
 diorites
 daviesite
 derogating
-dictyotaceous
 deleted
 demilitarize
 dismain
@@ -3710,6 +3709,7 @@ dehydrogenisation
 dehydroretinol
 disciplinative
 demibeast
+dictyotaceous
 delustrant
 dackering
 descanter
