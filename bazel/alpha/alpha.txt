@@ -5952,7 +5952,6 @@ acetify
 aglee
 aromatophor
 antidotary
-alsoon
 aliases
 avianized
 apopetalous
@@ -17555,6 +17554,7 @@ adjudges
 abscession
 antimask
 actualizes
+alsoon
 arsenoferratin
 andreaeaceae
 airt
