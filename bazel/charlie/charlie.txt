@@ -572,7 +572,6 @@ cleptomania
 caduceus
 caduciary
 caducibranch
-copiously
 compunctions
 countrification
 caducibranchiate
@@ -27333,6 +27332,7 @@ courses
 coursing
 court
 carriers
+copiously
 cosmist
 courtage
 climacterics
