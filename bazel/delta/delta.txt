@@ -3481,6 +3481,7 @@ dinitrotoluene
 defrayable
 dismissable
 digitalizing
+dodginess
 delft
 defrayed
 dinghies
@@ -8176,7 +8177,6 @@ discanter
 deidealize
 diospyraceae
 deputatively
-dodginess
 dalmatian
 dharmsala
 diacoelia
