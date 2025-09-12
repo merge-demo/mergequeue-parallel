@@ -2880,6 +2880,7 @@ canopying
 covets
 cours
 canopus
+concatenation
 chairlady
 canossa
 canotier
@@ -6114,7 +6115,6 @@ cauch
 cauchillo
 chester
 caucuses
-concatenation
 caucusses
 caucussing
 cauda
