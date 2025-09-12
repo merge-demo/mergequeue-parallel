@@ -6660,6 +6660,7 @@ conspiratorial
 colorfast
 cibarium
 celastrus
+chieftain
 cuculla
 celation
 cheapjack
@@ -10390,7 +10391,6 @@ cervalet
 conveyorizer
 chiefish
 chiefling
-chieftain
 chieftaincy
 chieftainess
 chieftainry
