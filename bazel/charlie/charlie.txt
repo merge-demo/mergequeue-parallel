@@ -12154,7 +12154,6 @@ cystiform
 cookhouses
 caraunda
 chrysalid
-crossbones
 coronet
 chrysalida
 chrysalidal
@@ -19537,6 +19536,7 @@ colourably
 cometical
 colouration
 colourational
+crossbones
 comagistracy
 colostral
 crotchetiness
