@@ -11578,7 +11578,6 @@ cosmographical
 cognisability
 cholecystogram
 cholecystography
-cycads
 cholecystokinin
 cyclazocine
 cholecystolithiasis
@@ -27017,6 +27016,7 @@ collegially
 contratulations
 conceptualization
 counterproposal
+cycads
 caplock
 croupily
 clerking
