@@ -18891,7 +18891,6 @@ choanocytal
 colicines
 celiac
 colicins
-coappellee
 corvisor
 changeling
 constituting
@@ -26728,6 +26727,7 @@ cubitometacarpal
 cogware
 capelocracy
 countercurrentwise
+coappellee
 counterdance
 counterdeclaration
 cucumis
