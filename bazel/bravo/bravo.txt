@@ -2775,6 +2775,7 @@ barong
 blotchiest
 begun
 bhp
+bespoken
 barrowman
 barba
 byspell
@@ -16938,7 +16939,6 @@ bimotor
 bulbously
 bowedness
 bouvier
-bespoken
 barytones
 blazoner
 beeping
