@@ -1115,6 +1115,7 @@ ataghans
 abuttals
 abutters
 abetting
+anciens
 ac
 acacatechol
 acacia
@@ -2851,7 +2852,6 @@ acting
 actiniae
 actinoid
 attrahent
-anciens
 agpaite
 axisymmetric
 apogeal
