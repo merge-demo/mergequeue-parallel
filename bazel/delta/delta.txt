@@ -5083,6 +5083,7 @@ denaturization
 dite
 desensitizers
 dendraspis
+disconnectiveness
 doomwatcher
 dendraxon
 decolorizer
@@ -11557,7 +11558,6 @@ defalcations
 discolorment
 discolouring
 decatyl
-disconnectiveness
 discolourization
 discourt
 discombobulate
