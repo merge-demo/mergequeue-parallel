@@ -7797,7 +7797,6 @@ derater
 dissociation
 dormouse
 diastataxy
-dipleurule
 devirginate
 deils
 discretionary
@@ -13984,6 +13983,7 @@ diactin
 diablo
 daubreelite
 dichroism
+dipleurule
 deys
 distomatous
 daubed

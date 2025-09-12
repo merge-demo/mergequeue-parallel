@@ -11075,7 +11075,6 @@ airiest
 amphiboline
 aerologists
 attainability
-audiometry
 ananepionic
 amphibolitic
 attentiveness
@@ -19714,6 +19713,7 @@ amphibichnite
 armamentarium
 autoskeleton
 antigalactic
+audiometry
 attachable
 avigators
 aminovaleric
