@@ -12478,7 +12478,6 @@ aneurisms
 anfract
 anfractuose
 antitraditionalist
-attorned
 authentications
 albuminiform
 addleheadedly
@@ -14970,6 +14969,7 @@ antidromically
 aerotechnical
 apparance
 antidrug
+attorned
 anemotropic
 applied
 antiecclesiastic
