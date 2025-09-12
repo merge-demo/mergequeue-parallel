@@ -5400,7 +5400,6 @@ cutaneal
 cps
 casuistically
 cyclopedia
-colic
 conductances
 cellar
 casuistries
@@ -18169,6 +18168,7 @@ coenotrope
 coenthrone
 colatorium
 coenunuri
+colic
 coleochaetaceae
 coequal
 collars
