@@ -14251,7 +14251,6 @@ clubhouse
 carageens
 camelopardidae
 circumgyrate
-circumincession
 circuminsession
 congratulator
 creoles
@@ -17569,6 +17568,7 @@ coempt
 cocaine
 cocaines
 camelback
+circumincession
 cocainisation
 coxiest
 cocainised
