@@ -7757,6 +7757,7 @@ appropriates
 abjunctive
 alembic
 abolishes
+appmt
 antimedieval
 alembicated
 antetype
@@ -17694,7 +17695,6 @@ allianced
 applosive
 antiguan
 applotment
-appmt
 asphyxiate
 artemia
 arthrosclerosis
