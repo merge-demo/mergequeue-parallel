@@ -6105,7 +6105,6 @@ buntline
 brandyman
 blepharodyschroia
 benedictinism
-bucolical
 briolet
 blenniiform
 benedictively
@@ -8511,6 +8510,7 @@ baar
 barih
 botryomycotic
 bejeweling
+bucolical
 barabra
 bo
 bedder
