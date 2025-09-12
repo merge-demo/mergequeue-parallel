@@ -2835,7 +2835,6 @@ cuprammonium
 canoing
 cuerpo
 carven
-canon
 canones
 cardooer
 canonicalization
@@ -20054,6 +20053,7 @@ commeasuring
 commeddle
 commelina
 capers
+canon
 commem
 commemorate
 compressibly
