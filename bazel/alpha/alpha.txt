@@ -13571,7 +13571,6 @@ anomalogonatous
 anomalon
 anomalonomy
 allegro
-auxochromism
 anthropological
 auriculariaceae
 anomalotrophy
@@ -22715,6 +22714,7 @@ atomic
 alkalemia
 anthyllis
 atomician
+auxochromism
 ambroids
 assimilative
 alpinely

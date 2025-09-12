@@ -8801,7 +8801,6 @@ chapter
 canonries
 christianism
 chapterhouse
-chapters
 cardinalates
 chapwoman
 chaqueta
@@ -11716,6 +11715,7 @@ columbian
 curdiest
 chondrify
 chondrification
+chapters
 cygnine
 chondrilla
 chondrinous
