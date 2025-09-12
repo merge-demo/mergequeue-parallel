@@ -5111,7 +5111,6 @@ backhouse
 beflowered
 bogbean
 beguile
-bosuns
 batoid
 bedless
 bloodthirstiness
@@ -16943,6 +16942,7 @@ bunching
 baaing
 bulge
 braziers
+bosuns
 bros
 boiserie
 barasingha
