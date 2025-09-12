@@ -2725,6 +2725,7 @@ bubastite
 backward
 batterie
 boylas
+bimodal
 beltline
 bullbat
 brigandishly
@@ -16048,7 +16049,6 @@ bop
 booksy
 balbuties
 bearess
-bimodal
 bilobate
 backspacefile
 beano
