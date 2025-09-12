@@ -7057,7 +7057,6 @@ bespeckle
 benzoyls
 bespectacled
 beefless
-buckie
 besped
 becalmed
 bawdiness
@@ -9595,6 +9594,7 @@ batiste
 bisyllabic
 benefactions
 braize
+buckie
 bulleting
 bedlike
 biggening
