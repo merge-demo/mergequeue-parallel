@@ -4275,7 +4275,6 @@ barkeepers
 bushwood
 blubbers
 bushbodies
-batiker
 burrgrailer
 boebera
 becall
@@ -10870,6 +10869,7 @@ bestowing
 bribetaker
 burroughs
 bouzouki
+batiker
 britishers
 beelzebubian
 boatwise
