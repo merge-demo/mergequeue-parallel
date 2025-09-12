@@ -6160,7 +6160,6 @@ dereferencing
 deregulated
 discrowning
 durables
-deregulation
 defenestrated
 duckhunting
 drumloid
@@ -12671,6 +12670,7 @@ daredevils
 drate
 delegant
 doomsman
+deregulation
 defaultant
 descendentalist
 decorament
