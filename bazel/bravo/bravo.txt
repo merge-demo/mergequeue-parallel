@@ -6914,6 +6914,7 @@ besiege
 besiegers
 brombenzene
 bedeman
+bogomilian
 bromism
 bradyacousia
 beslap
@@ -11949,7 +11950,6 @@ borine
 besmudged
 betanglement
 baggit
-bogomilian
 bipack
 bogong
 biod
