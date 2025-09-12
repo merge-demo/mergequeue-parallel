@@ -12847,7 +12847,6 @@ crawlways
 corrodible
 churchyards
 churchier
-churchified
 chuckholes
 chiroptera
 crabbedly
@@ -26439,6 +26438,7 @@ cephalomelus
 crub
 cotsetland
 cotswold
+churchified
 calctuff
 curn
 crevet
