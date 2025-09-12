@@ -7780,6 +7780,7 @@ dirgie
 discipliners
 derater
 dissociation
+dormouse
 diastataxy
 dipleurule
 devirginate
@@ -15869,7 +15870,6 @@ dormitories
 detachably
 dissenting
 dimwits
-dormouse
 digallic
 dornic
 deletive
