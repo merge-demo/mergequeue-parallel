@@ -3649,6 +3649,7 @@ annexable
 adamantoblastoma
 anaconda
 accomplis
+antiliturgy
 amphigamous
 adiaphory
 adiaphorist
@@ -15276,7 +15277,6 @@ amphictyonic
 antilithic
 arless
 antilitter
-antiliturgy
 amla
 affixt
 adjutancy
