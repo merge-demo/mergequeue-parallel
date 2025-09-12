@@ -5886,6 +5886,7 @@ deprecative
 deepwatermen
 deprecator
 deprecatory
+deadwood
 dioptry
 desensitization
 degradingness
@@ -13541,7 +13542,6 @@ dinitrile
 dozening
 duchan
 destain
-deadwood
 dysury
 downtrodden
 dissaving
