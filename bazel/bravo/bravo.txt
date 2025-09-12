@@ -3717,6 +3717,7 @@ bovver
 bevoiled
 beautifully
 bibliothque
+bionomics
 blennogenic
 bastile
 batlan
@@ -7036,7 +7037,6 @@ briquetting
 bespeak
 blustered
 baning
-bionomics
 bailiary
 biggings
 boucle
