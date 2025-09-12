@@ -5386,7 +5386,6 @@ aphthitalite
 afterharm
 acalycal
 afterhend
-afterhope
 afterhours
 agapeic
 abashlessly
@@ -11036,6 +11035,7 @@ amphiarthrodial
 ameliorating
 allocrotonic
 actaeaceae
+afterhope
 amphiarthroses
 aphorisms
 abetment
