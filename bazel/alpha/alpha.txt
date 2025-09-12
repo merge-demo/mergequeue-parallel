@@ -9824,7 +9824,6 @@ airlocks
 amazedly
 antarctically
 abstriction
-autotrophy
 amazeful
 anatomicopathological
 anatomise
@@ -17325,6 +17324,7 @@ archpatron
 aliquot
 aestivated
 acceptably
+autotrophy
 alhambresque
 apothecaryship
 archosyrinx
