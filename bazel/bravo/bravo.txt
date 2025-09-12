@@ -2524,6 +2524,7 @@ barid
 bullyism
 bronchostenosis
 bereaving
+bowable
 burgus
 burglarise
 bestrewn
@@ -13764,7 +13765,6 @@ brontide
 bambochade
 brachydactyly
 balaamite
-bowable
 bowback
 bushment
 brazes
