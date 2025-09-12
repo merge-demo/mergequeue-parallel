@@ -5372,6 +5372,7 @@ dentification
 dentifrice
 dentil
 discussional
+deconcatenate
 delivery
 disappropriation
 drub
@@ -14978,7 +14979,6 @@ duplicity
 debonaire
 dactylose
 disgregating
-deconcatenate
 disnatural
 dimmers
 drafters
