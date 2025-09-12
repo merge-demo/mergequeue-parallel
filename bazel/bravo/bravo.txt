@@ -4569,7 +4569,6 @@ bedcovers
 blader
 boanerges
 bouts
-boats
 bucklered
 byordinar
 billycans
@@ -17377,6 +17376,7 @@ borzicactus
 bunkering
 blackouts
 bitume
+boats
 bunkers
 beard
 burler
