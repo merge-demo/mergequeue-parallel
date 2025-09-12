@@ -11607,7 +11607,6 @@ cholelithic
 cholelithotomy
 clovery
 chastising
-crenellate
 cholelithotripsy
 choriambuses
 cholelithotrity
@@ -24280,6 +24279,7 @@ convulsive
 convulsively
 camases
 cupola
+crenellate
 conveys
 crofter
 cocodette
