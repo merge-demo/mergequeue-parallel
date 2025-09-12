@@ -791,6 +791,7 @@ auguration
 additur
 assault
 abstruse
+antibank
 abs
 ammophila
 auriculately
@@ -10905,7 +10906,6 @@ albumoscope
 amomal
 aceite
 autoecous
-antibank
 amomis
 autosled
 arbitre
