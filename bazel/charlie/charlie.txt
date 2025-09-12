@@ -7309,6 +7309,7 @@ chimbly
 corslets
 cephalobranchiata
 chelicera
+componendo
 chervonetz
 chronometrical
 cerusites
@@ -20857,7 +20858,6 @@ componed
 componency
 caciocavallo
 compared
-componendo
 component
 componented
 confronters

@@ -4749,6 +4749,7 @@ aerodyne
 astonisher
 aerodynes
 anthroposophist
+apostrophal
 apitpat
 auslaut
 airphobia
@@ -11791,7 +11792,6 @@ albumens
 astrometry
 ancille
 araliaceae
-apostrophal
 autoschediastical
 anaphylactogenic
 anaphylatoxin
