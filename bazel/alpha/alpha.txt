@@ -10534,6 +10534,7 @@ afterwrath
 amylolysis
 arkite
 antitragic
+apostem
 accusator
 advenae
 ampelidaceae
@@ -17251,7 +17252,6 @@ apostatize
 apostatizing
 armoured
 apostaxis
-apostem
 armigeral
 animalcules
 anaesthetic
