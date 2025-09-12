@@ -5645,6 +5645,7 @@ ballast
 bairnlier
 blendes
 bondwoman
+blackishness
 belemnoid
 belayed
 bowssen
@@ -14627,7 +14628,6 @@ bronzing
 blackballing
 bellevue
 boxerism
-blackishness
 bigmouth
 betusked
 blashy
