@@ -1480,7 +1480,6 @@ battologized
 bridgeport
 balistid
 bloodshedding
-brushite
 bepuzzle
 balistidae
 bloodalley
@@ -6152,6 +6151,7 @@ blackhead
 blushful
 blotchy
 bedclothing
+brushite
 belabored
 beneighbored
 beneme
