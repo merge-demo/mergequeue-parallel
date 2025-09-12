@@ -8187,6 +8187,7 @@ curatical
 cellulomonas
 causewayed
 chalazoidite
+cryptorrhetic
 cercarias
 chalazoin
 charvet
@@ -29309,7 +29310,6 @@ cryptorchis
 curara
 corebox
 cryptorchism
-cryptorrhetic
 consolidationist
 coldcock
 cryptos
