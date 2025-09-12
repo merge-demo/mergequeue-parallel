@@ -16426,7 +16426,6 @@ aortoiliac
 acupuncturator
 amurcous
 agathism
-aortomalaxis
 arabianize
 antichoromanic
 aortoptosia
@@ -24840,6 +24839,7 @@ avow
 abashment
 avowable
 aveny
+aortomalaxis
 avowably
 avowals
 archrebel
