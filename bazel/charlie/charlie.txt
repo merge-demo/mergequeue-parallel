@@ -2935,6 +2935,7 @@ canter
 cladosporium
 clavichord
 custumals
+coluber
 cryptoprocta
 cantering
 canthal
@@ -19602,7 +19603,6 @@ coltsfoot
 coltsfoots
 cinchonaceous
 captivities
-coluber
 colubrinae
 colubrine
 clarsach
