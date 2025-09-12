@@ -13017,6 +13017,7 @@ cyanoguanidine
 cyanohermidin
 cynghanedd
 cyanometer
+chosen
 cuneate
 camaile
 chiasmatypy
@@ -17088,7 +17089,6 @@ coacceptor
 coacervate
 censuring
 coachbuilder
-chosen
 catechetically
 constipated
 confervalike
