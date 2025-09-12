@@ -1787,6 +1787,7 @@ dropseed
 drawknife
 debarking
 debarment
+dysaesthesia
 debarrance
 duryl
 debarring
@@ -11014,7 +11015,6 @@ disadvancing
 disadvantaged
 daunted
 deminude
-dysaesthesia
 dasypus
 dropvie
 downgrade
