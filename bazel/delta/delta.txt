@@ -6247,6 +6247,7 @@ dermatotropic
 desiccator
 dizaine
 decagon
+dirged
 dermatatrophia
 duplicator
 denationalisation
@@ -12695,7 +12696,6 @@ dyskeratosis
 diskette
 diskindness
 diskography
-dirged
 dvandva
 dawing
 divining
