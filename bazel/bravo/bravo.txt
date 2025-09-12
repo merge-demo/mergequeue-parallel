@@ -5862,7 +5862,6 @@ bradmaker
 beloeilite
 bateleur
 belomancy
-belonger
 bronchophonic
 bared
 belonging
@@ -10133,6 +10132,7 @@ birrettas
 bloodfins
 berley
 blastodermic
+belonger
 bummle
 birdnester
 bsf
