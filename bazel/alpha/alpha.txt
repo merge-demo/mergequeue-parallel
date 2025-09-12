@@ -18416,6 +18416,7 @@ arbores
 arborescently
 azofier
 admirer
+angleberry
 allwhither
 axiology
 arboret
@@ -21531,7 +21532,6 @@ ascribed
 anthill
 assayers
 assaying
-angleberry
 anthophagous
 atoxyl
 amatorial
