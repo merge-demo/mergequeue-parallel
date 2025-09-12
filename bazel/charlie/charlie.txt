@@ -8857,7 +8857,6 @@ cucaracha
 characterization
 characterizing
 courtier
-characterless
 contratenor
 characterlessness
 characterology
@@ -17276,6 +17275,7 @@ coalescent
 cringe
 coalesces
 coalescing
+characterless
 choya
 coalfield
 coalfitter
