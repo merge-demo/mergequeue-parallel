@@ -6325,7 +6325,6 @@ appropriator
 anteoperculum
 abandoner
 ahey
-attenuating
 antistaphylococcic
 acquaintances
 aworry
@@ -12384,6 +12383,7 @@ arvo
 anencephalus
 anenst
 arteriosclerotic
+attenuating
 agaric
 anepia
 anepigraphic
