@@ -1823,6 +1823,7 @@ beslime
 braincase
 bullose
 bialystoker
+bayed
 bandaging
 bowlin
 bathoses
@@ -14132,7 +14133,6 @@ bullwhip
 belemnitidae
 brachium
 brachyuran
-bayed
 brotherton
 brushability
 bour
