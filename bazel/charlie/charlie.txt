@@ -15001,7 +15001,6 @@ citrins
 citrocola
 cardplayer
 coumarouna
-citrometer
 citromyces
 cenobium
 coloradans
@@ -15600,6 +15599,7 @@ clues
 classists
 classmanship
 clive
+citrometer
 conidian
 classmate
 conima
