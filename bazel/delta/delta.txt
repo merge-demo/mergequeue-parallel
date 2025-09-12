@@ -6188,7 +6188,6 @@ dolours
 derelinquish
 decrepitness
 demihigh
-dismasting
 desperation
 derencephalus
 doubtless
@@ -16734,6 +16733,7 @@ desmotomy
 dieresis
 diverting
 dereligion
+dismasting
 drysaltery
 devests
 driech
