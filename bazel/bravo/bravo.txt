@@ -7222,6 +7222,7 @@ blanked
 betake
 buckshees
 betakes
+baluga
 betaking
 bontequagga
 beneventana
@@ -17003,7 +17004,6 @@ byronic
 brominize
 bigamistic
 bitake
-baluga
 babylonite
 barcarole
 brooke
