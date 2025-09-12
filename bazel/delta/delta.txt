@@ -7965,7 +7965,6 @@ degringolade
 dewlapped
 deiced
 demoniacal
-deuniting
 doormaker
 drenching
 dispels
@@ -12493,6 +12492,7 @@ desagrement
 dimerlie
 diastereoisomer
 dishome
+deuniting
 dishonor
 dishonorer
 disangularize

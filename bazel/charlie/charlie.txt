@@ -2762,7 +2762,6 @@ cannequin
 colts
 crinolines
 cancerphobia
-cannetille
 claviers
 coypu
 cereless
@@ -9518,6 +9517,7 @@ checkmating
 circumferences
 checkpoint
 cardamum
+cannetille
 checkpointed
 checkpointing
 chahars
