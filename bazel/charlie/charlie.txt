@@ -2576,7 +2576,6 @@ coyan
 cordwoods
 contraproposal
 candlewicking
-conners
 candlewicks
 candlewright
 candling
@@ -30677,6 +30676,7 @@ cudweed
 cutpurses
 czarian
 cudweeds
+conners
 chiselling
 counterexplanation
 couturire
