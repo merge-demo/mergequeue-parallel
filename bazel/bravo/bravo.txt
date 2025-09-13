@@ -5552,7 +5552,6 @@ barbaric
 bekisses
 bouleuterion
 beknighted
-beknotted
 burrio
 bacchuslike
 beedi
@@ -13678,6 +13677,7 @@ basibranchiate
 bourder
 backsliders
 buchanan
+beknotted
 bourtree
 bleary
 bombination
