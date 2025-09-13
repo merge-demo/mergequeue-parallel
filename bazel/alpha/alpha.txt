@@ -9897,7 +9897,6 @@ assertiveness
 ambidexterity
 antimonide
 aquapuncture
-anthocephalous
 ambidexterities
 ambidextral
 andrenid
@@ -24482,6 +24481,7 @@ abhor
 aerophile
 auxiliaries
 abiosis
+anthocephalous
 anelastic
 auxiliator
 auxilytic
