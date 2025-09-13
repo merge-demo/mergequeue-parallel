@@ -5766,7 +5766,6 @@ cestoidean
 crawling
 cross
 chateau
-cateye
 catel
 catelectrode
 clothesless
@@ -15777,6 +15776,7 @@ ciniphes
 chondrology
 cultistic
 consanguinity
+cateye
 coiffeuse
 chainlet
 chevalier
