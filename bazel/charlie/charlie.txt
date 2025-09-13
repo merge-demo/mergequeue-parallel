@@ -23654,7 +23654,6 @@ cyril
 capitular
 cubomancy
 comforts
-contortions
 contorts
 commos
 contour
@@ -30040,6 +30039,7 @@ cheson
 cliff
 crocodilus
 comptrol
+contortions
 cephalophorous
 convocationally
 chordoid
