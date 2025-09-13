@@ -13907,7 +13907,6 @@ distil
 derisive
 decolonize
 distyle
-distill
 dishorse
 demiurgic
 deflore
@@ -16595,6 +16594,7 @@ deeply
 darii
 dishevel
 docimastic
+distill
 disdainable
 drafter
 diomedes
