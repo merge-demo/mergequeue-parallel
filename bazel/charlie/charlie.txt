@@ -6334,7 +6334,6 @@ collision
 cauterising
 cauterism
 carafe
-cauterization
 correcter
 caution
 couve
@@ -9463,6 +9462,7 @@ cheats
 confract
 chebec
 counterinsurgent
+cauterization
 chebecs
 chebel
 chebog
