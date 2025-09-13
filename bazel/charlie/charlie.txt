@@ -14097,6 +14097,7 @@ clubhauling
 circled
 catskin
 cardcastle
+coppled
 corticoid
 cyclographer
 coonhound
@@ -25956,7 +25957,6 @@ cantiga
 corvus
 circumcallosal
 cosaque
-coppled
 coscet
 chn
 cose
