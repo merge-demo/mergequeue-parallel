@@ -129,7 +129,6 @@ cablecast
 chronos
 cardiolith
 cabled
-cablegram
 cruors
 cistaceae
 cytostomal
@@ -7170,6 +7169,7 @@ chatterbox
 centrev
 chivalrous
 containedly
+cablegram
 confect
 cremant
 clodpate
