@@ -12150,7 +12150,6 @@ chremsel
 chremzlach
 caenogaea
 couture
-chreotechnics
 chirps
 cotillage
 companionability
@@ -16767,6 +16766,7 @@ cire
 clothiers
 clothings
 catharpin
+chreotechnics
 cornrick
 crimpling
 clots
