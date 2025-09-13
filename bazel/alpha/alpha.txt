@@ -9042,6 +9042,7 @@ astromantic
 almandine
 accrescence
 aeginetic
+apoplectic
 astrophysical
 almandines
 alme
@@ -18279,7 +18280,6 @@ amerindian
 anisometrope
 assembling
 androgynus
-apoplectic
 aramid
 appledrane
 aramidae
