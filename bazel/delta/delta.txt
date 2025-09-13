@@ -2690,7 +2690,6 @@ decurves
 decorable
 delectable
 duetto
-decisions
 decorate
 dopey
 discounsel
@@ -8713,6 +8712,7 @@ devilfishes
 desalinizing
 discoplacental
 dichastasis
+decisions
 dactyliomancy
 deathrate
 depolarizing
