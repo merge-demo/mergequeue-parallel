@@ -3564,7 +3564,6 @@ alliteration
 antiquity
 atlantomastoid
 ambustion
-autere
 adversative
 annihilating
 aspersoria
@@ -18791,6 +18790,7 @@ adherer
 archidiaconate
 affair
 archididascalos
+autere
 arouse
 archidome
 antapoplectic
