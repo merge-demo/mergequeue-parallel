@@ -4781,7 +4781,6 @@ antilogous
 aion
 antinaturalistic
 ammonion
-allegoric
 accessit
 aerogenes
 airplaning
@@ -12610,6 +12609,7 @@ anthropophagit
 angioblastic
 advenience
 anileness
+allegoric
 aulophyte
 aubergine
 angiodiascopy
