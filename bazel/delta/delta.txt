@@ -9300,7 +9300,6 @@ digitalic
 dartlike
 dyes
 dammer
-damfoolish
 deanathematize
 disemprison
 dieses
@@ -12593,6 +12592,7 @@ dilemite
 droitural
 disingenuous
 dropsically
+damfoolish
 diners
 depend
 defies
