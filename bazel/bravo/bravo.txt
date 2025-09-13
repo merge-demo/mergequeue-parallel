@@ -2029,7 +2029,6 @@ brasserie
 bedeguar
 bicollaterality
 bimana
-bankrolling
 bollandist
 bankrupt
 bosporan
@@ -3457,6 +3456,7 @@ boden
 berginization
 bef
 brushfire
+bankrolling
 brigade
 biserially
 basto
