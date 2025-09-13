@@ -6934,7 +6934,6 @@ bankshall
 betroth
 bribed
 boychick
-bundling
 borderism
 brae
 birdyback
@@ -10746,6 +10745,7 @@ bibulus
 biorhythmic
 bronchomotor
 bowwort
+bundling
 bleo
 befuddlers
 bywords
