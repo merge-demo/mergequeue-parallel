@@ -18789,7 +18789,6 @@ connect
 coke
 clinocephalism
 coker
-cokes
 cokewold
 crystallology
 cokuloris
@@ -23222,6 +23221,7 @@ constrainedness
 coiffure
 capful
 constrainingly
+cokes
 cubbyhole
 constraints
 confervaceous
