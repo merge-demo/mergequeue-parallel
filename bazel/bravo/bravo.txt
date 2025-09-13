@@ -7675,6 +7675,7 @@ brakehand
 bullan
 brocard
 bitriseptate
+burntly
 bhindi
 bucketmaking
 bhishti
@@ -15985,7 +15986,6 @@ bolty
 bedsock
 bialis
 blash
-burntly
 brooder
 binomial
 broodily
