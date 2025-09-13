@@ -3991,7 +3991,6 @@ abided
 admonitrix
 alkalinize
 admrx
-appendectomies
 adnascent
 adnation
 ametabolian
@@ -10363,6 +10362,7 @@ autumn
 aisles
 amiantuses
 amyatonic
+appendectomies
 amic
 assumpt
 amicability
