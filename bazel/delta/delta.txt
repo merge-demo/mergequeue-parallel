@@ -3903,6 +3903,7 @@ deductibles
 dortiness
 discants
 doggerelize
+depriorize
 discommunity
 designating
 disherits
@@ -5968,7 +5969,6 @@ disentraced
 defeatee
 depreter
 depriment
-depriorize
 dagged
 deprivable
 dissuasory
