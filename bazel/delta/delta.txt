@@ -5754,7 +5754,6 @@ diachyma
 desalination
 duals
 dekastere
-desiccative
 deplorableness
 drivellers
 disrepair
@@ -7812,6 +7811,7 @@ desulphurized
 dikaryon
 diverticle
 direption
+desiccative
 devourer
 diglyph
 devisor
