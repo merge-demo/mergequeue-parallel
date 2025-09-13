@@ -3120,6 +3120,7 @@ beaky
 beautify
 bucrnia
 bloodcurdler
+bivalvular
 baseborn
 besprinkle
 birdlime
@@ -16078,7 +16079,6 @@ brachylogies
 brothering
 barbwire
 brailed
-bivalvular
 belched
 birth
 backswimmer
