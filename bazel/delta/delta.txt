@@ -2889,6 +2889,7 @@ dedicatory
 decompensated
 doggoner
 deaconry
+drawplate
 detains
 divagation
 drossier
@@ -11820,7 +11821,6 @@ discrepated
 displays
 discrepation
 dullardism
-drawplate
 dexamethasone
 dogblow
 disported
