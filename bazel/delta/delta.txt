@@ -5366,6 +5366,7 @@ doomsdays
 daraf
 diaphemetric
 diaphoretic
+diagnostically
 displaced
 denticle
 dentiferous
@@ -13157,7 +13158,6 @@ dukedom
 dispensingly
 demobbed
 dispeople
-diagnostically
 depurging
 domesticability
 diversifying
