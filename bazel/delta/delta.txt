@@ -15566,7 +15566,6 @@ disambiguate
 dishable
 dominionist
 dominions
-delocalising
 dominique
 dewanship
 dissociability
@@ -17523,6 +17522,7 @@ dimidiate
 dhobi
 drove
 derogative
+delocalising
 doorboy
 dismortgaging
 droger
