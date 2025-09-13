@@ -47,7 +47,6 @@ bundocks
 befrogged
 brushable
 bonspiel
-babbit
 baton
 becrust
 botrytises
@@ -1550,6 +1549,7 @@ balladizing
 bales
 belongings
 bichromated
+babbit
 bezel
 basted
 ballads
