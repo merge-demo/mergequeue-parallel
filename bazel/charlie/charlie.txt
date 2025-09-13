@@ -9927,6 +9927,7 @@ chemotactic
 cresylene
 chemotaxy
 cohelper
+chondrocyte
 charpie
 chemotaxonomy
 controls
@@ -11148,7 +11149,6 @@ chizzel
 chkfile
 chondrite
 churlishly
-chondrocyte
 chlamyd
 chlamydate
 chlamydeous
