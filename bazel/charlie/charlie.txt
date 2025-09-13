@@ -6220,6 +6220,7 @@ calcaneum
 cabbaged
 caulomic
 cacodyls
+curlicues
 chemotaxonomic
 caulosarc
 caulotaxis
@@ -19960,7 +19961,6 @@ comices
 cognominal
 comicocynical
 commolition
-curlicues
 cofferdams
 comicocratic
 comicography
