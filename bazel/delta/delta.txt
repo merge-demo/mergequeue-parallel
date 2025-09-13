@@ -8921,6 +8921,7 @@ diccon
 depolariser
 daimio
 domines
+digitaria
 dermatitis
 dewlike
 decaisnea
@@ -18096,7 +18097,6 @@ dullity
 disgaveling
 deluster
 damnifying
-digitaria
 dullnesses
 disgavelled
 deglaze
