@@ -1556,7 +1556,6 @@ accountable
 accusals
 accountably
 accountant
-accountantship
 accounted
 atacamenian
 accounter
@@ -8531,6 +8530,7 @@ anorogenic
 allegorise
 afear
 absentment
+accountantship
 allegoriser
 aggression
 amyloids
