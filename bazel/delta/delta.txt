@@ -9618,6 +9618,7 @@ decoying
 deionizing
 dignifiedness
 draying
+defaultant
 delatinization
 dysyntribite
 desterilize
@@ -12677,7 +12678,6 @@ drate
 delegant
 doomsman
 deregulation
-defaultant
 descendentalist
 decorament
 duplicidentate
