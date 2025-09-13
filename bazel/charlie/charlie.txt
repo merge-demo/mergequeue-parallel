@@ -5601,7 +5601,6 @@ capering
 cataplastic
 casten
 catapleiite
-catapuce
 catapulted
 catapultic
 concreting
@@ -14313,6 +14312,7 @@ cladodontid
 circumpallial
 constrained
 convexed
+catapuce
 circumplanetary
 crone
 chrysazin
