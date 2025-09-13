@@ -8913,7 +8913,6 @@ charcoal
 crutches
 caramboled
 charcoaly
-collecting
 cryptologic
 coformulator
 closterium
@@ -25187,6 +25186,7 @@ corynebacteria
 coreless
 coryneform
 corineus
+collecting
 candelabrums
 caucussed
 corynid
