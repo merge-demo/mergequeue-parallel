@@ -4128,7 +4128,6 @@ adreamed
 adreamt
 adenalgia
 alabamian
-adenohypophysial
 appoint
 azophosphore
 adrenalcortical
@@ -7548,6 +7547,7 @@ alcoholdom
 abbrev
 apoquinamine
 anywheres
+adenohypophysial
 authoritativeness
 alcoholemia
 alcoholically
