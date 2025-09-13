@@ -3351,7 +3351,6 @@ disadorn
 dramatization
 donet
 deflector
-dichlorvos
 devitrifying
 deflesh
 deflexibility
@@ -9713,6 +9712,7 @@ decemcostate
 demicircle
 destructuralize
 detacwable
+dichlorvos
 dubba
 dieter
 dispersedelement
