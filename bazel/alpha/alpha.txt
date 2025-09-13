@@ -417,7 +417,6 @@ annabel
 anoine
 albuminolysis
 addlings
-aphorists
 abigailship
 assistor
 aggressiveness
@@ -15593,6 +15592,7 @@ antiparliamental
 assapanick
 axons
 actinolite
+aphorists
 antiparliamentarians
 ascochyta
 acraniate
