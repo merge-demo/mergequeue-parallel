@@ -5260,7 +5260,6 @@ amnionic
 afluking
 afore
 aforehand
-aforementioned
 arachnomorphae
 alleluiatic
 anemoclastic
@@ -10267,6 +10266,7 @@ aneled
 antidancing
 angulatogibbous
 americanize
+aforementioned
 audio
 americanizes
 americanizing
