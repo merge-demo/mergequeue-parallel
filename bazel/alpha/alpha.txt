@@ -12762,7 +12762,6 @@ antholyza
 ango
 angoise
 angola
-angolese
 assertoric
 angora
 aztecs
@@ -13991,6 +13990,7 @@ antennata
 antennate
 antennifer
 antefixes
+angolese
 abranchial
 acraturesis
 antennular
