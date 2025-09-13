@@ -7682,7 +7682,6 @@ croze
 cernuous
 cerographer
 contracter
-cerographical
 ceroline
 ciliolate
 couldron
@@ -21064,6 +21063,7 @@ clericality
 cypsela
 compunct
 crassilingual
+cerographical
 compunction
 curvedness
 cretonnes
