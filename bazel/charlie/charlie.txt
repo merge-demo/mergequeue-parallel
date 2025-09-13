@@ -11816,6 +11816,7 @@ chadar
 chop
 chopa
 chalcids
+cyanopia
 contradictories
 camber
 catechisms
@@ -13026,7 +13027,6 @@ cyanophile
 cyanophoric
 colossean
 cookstove
-cyanopia
 cyanoplastid
 cyanoplatinite
 cyanose
