@@ -6993,6 +6993,7 @@ babeship
 baronet
 boodh
 bridehouse
+bather
 boweled
 bombidae
 byre
@@ -12449,7 +12450,6 @@ bdls
 brawniness
 bondstone
 bowly
-bather
 basely
 bagpiped
 beckoning
