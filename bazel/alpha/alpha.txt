@@ -16878,7 +16878,6 @@ alginic
 ately
 aluminography
 airways
-aplanogamete
 aplasia
 areally
 appassionate
@@ -23891,6 +23890,7 @@ autocarp
 afterbay
 autocarpian
 achatinella
+aplanogamete
 autocarpic
 antiphthisic
 acenaphthenyl
