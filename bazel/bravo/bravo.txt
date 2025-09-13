@@ -7677,7 +7677,6 @@ bhistie
 bhisties
 berake
 bhojpuri
-brim
 bhokra
 bonaventure
 bustee
@@ -11320,6 +11319,7 @@ bhar
 bluntest
 bonds
 bedcap
+brim
 binotic
 bullety
 blubberers
