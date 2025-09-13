@@ -12364,6 +12364,7 @@ dyestuffs
 dopa
 dissavage
 demagnetization
+dhauri
 duckwife
 degermed
 disgulf
@@ -17741,7 +17742,6 @@ delsarte
 deputization
 duarchy
 duarchies
-dhauri
 dubb
 dilemmic
 dynamometer
