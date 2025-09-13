@@ -8728,7 +8728,6 @@ carbonylating
 caconym
 coelomatic
 cobriform
-chloe
 concion
 crotalism
 convalescency
@@ -23434,6 +23433,7 @@ contamination
 carpintero
 contaminative
 cokeney
+chloe
 contaminous
 contangential
 compactest

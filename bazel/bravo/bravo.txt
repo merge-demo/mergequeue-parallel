@@ -4915,7 +4915,6 @@ boresight
 bumblings
 blesse
 barmier
-bonaveria
 becreep
 bolases
 beerbachite
@@ -16133,6 +16132,7 @@ bowsery
 binocs
 baritones
 brieve
+bonaveria
 botonnee
 bawdyhouses
 bundy
