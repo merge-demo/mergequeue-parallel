@@ -6134,7 +6134,6 @@ belabored
 brachydome
 beneighbored
 beneme
-blanker
 buckhorn
 barrigudo
 barbless
@@ -14197,6 +14196,7 @@ bated
 belamour
 bourgade
 biomechanics
+blanker
 balloonish
 bradyphrasia
 bradyphrenia
