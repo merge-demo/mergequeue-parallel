@@ -854,6 +854,7 @@ burnfire
 baga
 benzenoid
 bloman
+buttonhole
 biochron
 bakli
 bromodeoxyuridine
@@ -5131,7 +5132,6 @@ baffled
 becket
 billable
 boxholder
-buttonhole
 bootmaker
 babs
 brunizem
