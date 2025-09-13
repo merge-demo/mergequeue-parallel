@@ -628,6 +628,7 @@ bacteriodiagnosis
 bromates
 behearse
 bacterid
+boatels
 backen
 brilliants
 birdcages
@@ -7266,7 +7267,6 @@ bugi
 beperiwigged
 bethesda
 biangular
-boatels
 babirussa
 bethink
 battleground
