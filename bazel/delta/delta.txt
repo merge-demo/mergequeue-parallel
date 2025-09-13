@@ -4934,6 +4934,7 @@ dishmonger
 discage
 diluting
 dialogist
+disgospelize
 demonology
 demonologically
 duteously
@@ -12331,7 +12332,6 @@ disgorges
 dustermen
 dromedarist
 diminuendos
-disgospelize
 disappoint
 disgracer
 dipicrate
