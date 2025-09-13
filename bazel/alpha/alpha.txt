@@ -5455,7 +5455,6 @@ afterthought
 apastron
 afterturn
 armory
-arosaguntacook
 aphototaxis
 allez
 aftervision
@@ -24068,6 +24067,7 @@ averages
 acanthocarpous
 axopetal
 anticapitalistic
+arosaguntacook
 amphistylic
 autogram
 adhamant
