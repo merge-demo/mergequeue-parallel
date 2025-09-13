@@ -6401,7 +6401,6 @@ disdain
 disassociation
 dorsiventral
 derodidymus
-derog
 demeanour
 derogate
 denuclearization
@@ -12592,6 +12591,7 @@ disinfecting
 denormalized
 disinfection
 dochter
+derog
 decrowned
 decani
 dissolutive
