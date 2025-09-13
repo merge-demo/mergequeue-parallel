@@ -6998,7 +6998,6 @@ desalinizes
 despitefulness
 disillusionizing
 disray
-disrate
 despiteously
 despites
 dahms
@@ -9827,6 +9826,7 @@ discontentful
 disagree
 delimiters
 deviance
+disrate
 decriminalizing
 dilettantism
 dilettantist
