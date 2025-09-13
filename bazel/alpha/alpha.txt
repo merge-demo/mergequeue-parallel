@@ -13511,6 +13511,7 @@ anodizing
 anodonta
 annuler
 anodontia
+apteral
 allocable
 annuity
 abys
@@ -17973,7 +17974,6 @@ apsis
 adsorptive
 alcoholics
 aptenodytes
-apteral
 areolate
 alaskas
 apterial
