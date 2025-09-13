@@ -15427,6 +15427,7 @@ bandicoot
 botanophilist
 brynhild
 blist
+babiana
 broomrape
 boyce
 biferous
@@ -15999,7 +16000,6 @@ begum
 bertillonage
 ballonets
 bounteous
-babiana
 bedrape
 brumalia
 baluster
