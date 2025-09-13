@@ -9812,7 +9812,6 @@ basidigitale
 beaches
 bito
 baptistry
-baillie
 bitonalities
 belibeling
 batakan
@@ -10758,6 +10757,7 @@ befuddlers
 bywords
 befrill
 blastings
+baillie
 boatsmen
 bangkoks
 blepharanthracosis
