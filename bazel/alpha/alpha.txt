@@ -9027,7 +9027,6 @@ arnut
 allworthy
 antdom
 anticaste
-anthroxan
 antechambers
 almacigo
 anaspid
@@ -10754,6 +10753,7 @@ arusa
 ammonifies
 acontias
 ammonifying
+anthroxan
 arctiidae
 acromegaly
 ammonitess
