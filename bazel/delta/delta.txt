@@ -11705,7 +11705,6 @@ discothque
 disengirdle
 diagramed
 dermatographia
-dehumanised
 discountable
 discountenances
 distastes
@@ -12856,6 +12855,7 @@ debit
 dishevelment
 dyarchic
 dirhem
+dehumanised
 dismarket
 dervishhood
 dentellated
