@@ -63,7 +63,6 @@ bethels
 babblings
 bothsidedness
 beauclerk
-bigoted
 babe
 bollox
 bolbonac
@@ -4825,6 +4824,7 @@ bejuggle
 breakstone
 biscuitmaking
 bloomage
+bigoted
 bomarea
 broadsiding
 beechwood
