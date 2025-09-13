@@ -8106,6 +8106,7 @@ bania
 boltonias
 boathouses
 bidree
+befuddled
 birdbander
 bloodroot
 bindweeds
@@ -11405,7 +11406,6 @@ boatheader
 bairnliest
 bronchiarctia
 bluepoint
-befuddled
 bluepoints
 blazingly
 bluesy
