@@ -7278,6 +7278,7 @@ coroners
 ceorl
 cholangioitis
 crisis
+chiru
 chamaesiphon
 cepaceous
 congaing
@@ -28695,7 +28696,6 @@ creosotes
 creosotic
 cholic
 clericity
-chiru
 constringe
 crepes
 coincides
