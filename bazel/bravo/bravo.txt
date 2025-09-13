@@ -10757,6 +10757,7 @@ bywords
 befrill
 blastings
 boatsmen
+bangkoks
 blepharanthracosis
 boylike
 brutalise
@@ -15659,7 +15660,6 @@ billionths
 bleaches
 burans
 bryophytes
-bangkoks
 bibitory
 broch
 butterfat
