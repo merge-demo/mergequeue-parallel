@@ -8078,6 +8078,7 @@ dynasticism
 diseasedness
 derbylite
 darya
+decompiler
 dietician
 dispersion
 dumbhead
@@ -9178,7 +9179,6 @@ didie
 didies
 defamed
 didym
-decompiler
 devirgination
 despraise
 depressives
