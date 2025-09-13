@@ -5712,7 +5712,6 @@ dieselize
 drumler
 diploglossata
 deplant
-disvertebrate
 deozonize
 demigods
 desterilized
@@ -8619,6 +8618,7 @@ dinosaurian
 diarist
 destroying
 dicotyledons
+disvertebrate
 driller
 diascope
 dispunitive
