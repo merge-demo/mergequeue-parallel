@@ -1013,6 +1013,7 @@ chimpanzee
 calcanean
 calcaneoastragaloid
 cajeputs
+chorioallantoid
 calcaneoplantar
 calcaneoscaphoid
 crabbing
@@ -11975,7 +11976,6 @@ collunarium
 consol
 cachina
 chorioallantoic
-chorioallantoid
 chorioallantois
 cuneus
 centrifugation
