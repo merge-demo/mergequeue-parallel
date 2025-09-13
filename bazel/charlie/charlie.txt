@@ -3807,6 +3807,7 @@ combings
 carbonators
 carbondale
 coinsure
+chlorate
 contemplates
 cincha
 carbonemia
@@ -11228,7 +11229,6 @@ chloranthy
 constuprate
 chloranthus
 chemoreceptivities
-chlorate
 chlorcosane
 care
 chlordans
