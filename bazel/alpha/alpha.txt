@@ -2203,7 +2203,6 @@ avoidably
 adamhood
 acieral
 abruptedly
-arachnephobia
 avgasses
 acidifying
 acidite
@@ -4317,6 +4316,7 @@ advance
 advancedness
 antihemolytic
 archimperial
+arachnephobia
 advancing
 advancive
 addicting
