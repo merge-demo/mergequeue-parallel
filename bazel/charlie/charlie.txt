@@ -821,6 +821,7 @@ clydesdale
 chidingness
 caliph
 cainian
+cathedrae
 couteau
 cainish
 canisiana
@@ -4809,7 +4810,6 @@ chars
 carriages
 carriagesmith
 cinchonicin
-cathedrae
 carriageway
 carryall
 carrick
