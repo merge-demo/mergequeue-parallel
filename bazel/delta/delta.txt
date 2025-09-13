@@ -3300,6 +3300,7 @@ dullery
 dishexecontahedroid
 dreamtide
 definitor
+daisy
 deutschemark
 dorsosternal
 dentils
@@ -14158,7 +14159,6 @@ diffuser
 deployment
 defeating
 diswarrening
-daisy
 drouket
 ducker
 disulfid
