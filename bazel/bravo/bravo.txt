@@ -1647,6 +1647,7 @@ burnies
 billbergia
 boyarism
 blier
+boc
 benzothiodiazole
 burletta
 butyrous
@@ -14063,7 +14064,6 @@ brachydactylism
 bebusy
 bottlebird
 brachydodromous
-boc
 burucha
 binzuru
 brachydomatic
