@@ -1919,7 +1919,6 @@ defendant
 discigerous
 debris
 debrominate
-diandrian
 denitration
 diplacusis
 disapprobations
@@ -6736,6 +6735,7 @@ desiderta
 desidiose
 designable
 dhutis
+diandrian
 dissolutions
 dacron
 dimedone
