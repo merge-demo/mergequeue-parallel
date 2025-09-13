@@ -2636,6 +2636,7 @@ deviceful
 decomposer
 decomposers
 daddocky
+dialogging
 decomposing
 decomposure
 denotationally
@@ -13459,7 +13460,6 @@ disregarding
 dingbat
 deforests
 dramatise
-dialogging
 domic
 disreport
 daring
