@@ -3431,6 +3431,7 @@ defoliate
 disjunct
 dichroscope
 decelerating
+disarraying
 dehydrochlorination
 dorosacral
 decompressed
@@ -10501,7 +10502,6 @@ dislimns
 dynastes
 diphtheric
 diphtheritically
-disarraying
 diphtherotoxin
 diphthongally
 dipneust
