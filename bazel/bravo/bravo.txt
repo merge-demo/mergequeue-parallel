@@ -5165,7 +5165,6 @@ balanoblennorrhea
 bounces
 barns
 beadhouse
-bracteal
 byee
 berkeley
 barragan
@@ -15453,6 +15452,7 @@ batted
 beardlike
 bileve
 bullseye
+bracteal
 brioches
 blase
 bitwise
