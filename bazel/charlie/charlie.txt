@@ -15706,7 +15706,6 @@ callitris
 clavered
 collaborations
 clavi
-chirres
 clavy
 clavicembalist
 carneys
@@ -17853,6 +17852,7 @@ codebtors
 cognominally
 catchier
 curvesome
+chirres
 carbasus
 carrotiness
 codec
