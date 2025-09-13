@@ -8710,7 +8710,6 @@ deoxyribonuclease
 dovekey
 diastalsis
 diastases
-distressingly
 diglossia
 disgustedness
 dryads
@@ -12904,6 +12903,7 @@ decalcifier
 degomme
 deadeners
 drywalls
+distressingly
 diodia
 dreyfusist
 droned
