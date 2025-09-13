@@ -23330,7 +23330,6 @@ consulto
 consultor
 consults
 consumated
-consumating
 cosmopolitical
 consume
 consumedly
@@ -29228,6 +29227,7 @@ chinband
 cryptococcus
 chouette
 cunabula
+consumating
 clericalist
 centroclinal
 camouflager
