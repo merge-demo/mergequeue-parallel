@@ -26239,7 +26239,6 @@ canli
 cylindromata
 circulin
 cavallas
-costiveness
 changeableness
 costocoracoid
 calliper
@@ -28003,6 +28002,7 @@ crambidae
 crambos
 crambus
 cramel
+costiveness
 corsie
 crammel
 consolidating
