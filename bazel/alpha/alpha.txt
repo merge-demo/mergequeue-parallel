@@ -1301,7 +1301,6 @@ accelerable
 adjuvants
 animalizing
 amenorrhea
-amnesias
 affiliated
 atom
 annihilator
@@ -11430,6 +11429,7 @@ aldermanly
 anabathrum
 asperously
 astigmism
+amnesias
 anabia
 albification
 adnate
