@@ -1473,7 +1473,6 @@ avicularimorphae
 accommodated
 accommodating
 accommodatingness
-accommodations
 aliet
 accommodators
 attractability
@@ -22600,6 +22599,7 @@ actian
 ablating
 affiliable
 antichlor
+accommodations
 ahurewa
 arhar
 acrospired
