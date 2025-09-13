@@ -5810,6 +5810,7 @@ catercornerways
 craner
 catered
 codpiece
+comandante
 caterer
 coadore
 cytolymph
@@ -21461,7 +21462,6 @@ chuckfull
 copyrighted
 castleward
 consimilar
-comandante
 convalesce
 concluded
 concludent
