@@ -2621,6 +2621,7 @@ decreers
 decommission
 decommissioned
 dumbbeller
+diddler
 decian
 dozers
 dorbug
@@ -12154,7 +12155,6 @@ downshifting
 disestablishmentarianism
 disestablismentarian
 digladiated
-diddler
 drapers
 dialogism
 disallow
