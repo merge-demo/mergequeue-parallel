@@ -2630,7 +2630,6 @@ bantamweight
 birdhouses
 bilges
 barking
-baddy
 botanise
 barkless
 battening
@@ -14880,6 +14879,7 @@ breastie
 breastless
 breastmark
 backspear
+baddy
 buccina
 bankcards
 birthy
