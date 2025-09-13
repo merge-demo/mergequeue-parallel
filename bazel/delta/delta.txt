@@ -1444,6 +1444,7 @@ daybill
 deltation
 dawtit
 documentaries
+diatomic
 dawts
 damages
 disbarred
@@ -13833,7 +13834,6 @@ distain
 distance
 denumeration
 drumroll
-diatomic
 descried
 doddard
 dryers
