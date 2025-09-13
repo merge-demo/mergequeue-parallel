@@ -5289,6 +5289,7 @@ casteisms
 cornices
 casteless
 chifforobes
+clothesman
 chimerical
 citator
 censures
@@ -21974,7 +21975,6 @@ confidence
 confidency
 cosmogenic
 conductitious
-clothesman
 confident
 compressibilities
 crossosomataceae
