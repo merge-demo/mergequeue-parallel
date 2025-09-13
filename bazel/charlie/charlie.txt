@@ -838,7 +838,6 @@ cairn
 cairned
 cladoselachidae
 cumbrously
-crackrope
 coamiable
 cairngorm
 cairngorum
@@ -9871,6 +9870,7 @@ chemiotaxic
 chemiotaxis
 chemiotropic
 calombo
+crackrope
 cerebropsychosis
 chemise
 chemisette

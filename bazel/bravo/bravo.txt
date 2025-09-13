@@ -2272,6 +2272,7 @@ barbecuer
 barbellula
 bowwood
 belabor
+bared
 boozing
 bathysphere
 blossombill
@@ -5857,7 +5858,6 @@ bateleur
 belomancy
 bronchophonic
 brogans
-bared
 belonging
 bailiffship
 belongs
