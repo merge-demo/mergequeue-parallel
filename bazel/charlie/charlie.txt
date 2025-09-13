@@ -25392,6 +25392,7 @@ convergent
 centrifuged
 coarsish
 crotcheted
+cogences
 cornicles
 corniculer
 corniferous
@@ -30154,7 +30155,6 @@ crucifixions
 conservatories
 craftily
 cryptocleidus
-cogences
 cruciformity
 crucily
 cruck
