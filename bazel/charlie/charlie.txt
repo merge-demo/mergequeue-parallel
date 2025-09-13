@@ -6414,6 +6414,7 @@ complexes
 compares
 canell
 cavefish
+camelus
 cavey
 curassow
 chromoscope
@@ -29063,7 +29064,6 @@ catherine
 campaniform
 cellulation
 civilisatory
-camelus
 crinogenic
 cryptology
 crinoidea
