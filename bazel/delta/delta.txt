@@ -14577,7 +14577,6 @@ damaging
 doorbells
 datelines
 dyeing
-detruncated
 disintegratory
 divinability
 deicide
@@ -15129,6 +15128,7 @@ dipppy
 dogeys
 dodecamerous
 dislodgment
+detruncated
 dogeship
 dicentrine
 dunderhead
