@@ -3937,6 +3937,7 @@ carcels
 cadastres
 chuumnapm
 cosmosphere
+cuproplumbite
 corniculate
 coassisted
 crotalinae
@@ -31190,7 +31191,6 @@ contradictional
 cuproiodargyrite
 chandelles
 chalque
-cuproplumbite
 cycloids
 cytoplastic
 chromaticity
