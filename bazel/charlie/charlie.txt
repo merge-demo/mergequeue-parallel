@@ -3551,6 +3551,7 @@ counterbase
 chorusmaster
 capulet
 capulin
+cosinesses
 caput
 caputium
 caque
@@ -29554,7 +29555,6 @@ crocheting
 codebook
 croci
 crocidura
-cosinesses
 craspedal
 crock
 clashy
