@@ -523,6 +523,7 @@ chromocollographic
 canvasser
 corked
 cadi
+chronaxy
 cadie
 counselors
 christofer
@@ -10363,7 +10364,6 @@ chantries
 chico
 coryneum
 chicot
-chronaxy
 chicqued
 circumrotation
 chawle

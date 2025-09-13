@@ -3393,6 +3393,7 @@ bassia
 bobbishly
 bassie
 betsey
+beacher
 bassinet
 bitterling
 basson
@@ -6448,7 +6449,6 @@ beliing
 blobbiness
 byeman
 bepart
-beacher
 bepimpling
 bureaucratical
 bepraiser
