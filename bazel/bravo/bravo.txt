@@ -1568,7 +1568,6 @@ bovidae
 buddie
 ballata
 batikulin
-ballatoon
 backcasts
 blazer
 burliest
@@ -12726,6 +12725,7 @@ bepuddle
 bookmobiles
 burlesk
 bookpress
+ballatoon
 bookracks
 bandores
 blacklegging
