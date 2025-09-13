@@ -2497,6 +2497,7 @@ acousticophobia
 antihalation
 autotomous
 acoustoelectric
+astr
 acpt
 acquaint
 acquisible
@@ -21179,7 +21180,6 @@ archeostome
 abdiel
 asparaguses
 asilus
-astr
 aripple
 albuminizing
 asymbolia
