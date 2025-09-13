@@ -7473,7 +7473,6 @@ alcargen
 ascophyllum
 anastomos
 astragal
-amidist
 alcazaba
 alcazar
 adamance
@@ -20650,6 +20649,7 @@ ambach
 artificialism
 apotelesm
 artificiality
+amidist
 amesaces
 artificialities
 artilize
