@@ -12103,7 +12103,6 @@ bedamp
 boldo
 benzofluorene
 bannets
-basti
 bannition
 boldos
 besmutch
@@ -16215,6 +16214,7 @@ brucellae
 boussingaultia
 botryopteris
 brucellosis
+basti
 barely
 balanoglossida
 brucin
