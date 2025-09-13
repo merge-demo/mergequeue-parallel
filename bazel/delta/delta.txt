@@ -10572,7 +10572,6 @@ discourtesy
 danaan
 disbowels
 demipagan
-ddname
 diplexer
 diazotate
 deipotent
@@ -17378,6 +17377,7 @@ drosograph
 dromometer
 dielike
 defoul
+ddname
 decrypts
 decree
 disrelated
