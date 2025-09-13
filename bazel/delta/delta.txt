@@ -10310,7 +10310,6 @@ daffadillies
 disaccustom
 doornail
 dedicates
-dioctahedral
 dioctophyme
 devilize
 dubitable
@@ -11914,6 +11913,7 @@ drumfires
 dampproof
 disulphone
 dromomania
+dioctahedral
 diminutions
 denying
 diadems
