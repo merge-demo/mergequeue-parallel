@@ -12735,7 +12735,6 @@ blacklegging
 baronry
 begut
 beerish
-bepreach
 burhmoot
 blurs
 burnishment
@@ -13872,6 +13871,7 @@ beknighting
 bowie
 balr
 buchite
+bepreach
 beadiest
 bowyer
 bejape
