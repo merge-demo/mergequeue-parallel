@@ -5778,7 +5778,6 @@ chaffier
 cabezone
 catella
 conferruminate
-ctenodactyl
 catena
 catenae
 catenane
@@ -25094,6 +25093,7 @@ corequisite
 corer
 combinantive
 cores
+ctenodactyl
 carbonates
 corpselikeness
 cetin
