@@ -9759,7 +9759,6 @@ cherry
 congressed
 coo
 cheiropody
-churchgoer
 cheiropterygium
 cheirospasm
 compositae
@@ -13680,6 +13679,7 @@ cereza
 crotonic
 ciliophora
 carlet
+churchgoer
 corolline
 chagal
 circumventive
