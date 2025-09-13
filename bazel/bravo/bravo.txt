@@ -11798,6 +11798,7 @@ barebone
 bodach
 billjim
 bryophyta
+bangle
 buss
 bankeress
 balkis
@@ -17917,7 +17918,6 @@ btise
 bushman
 bagmaker
 benignant
-bangle
 bedsides
 buffo
 bowwows
