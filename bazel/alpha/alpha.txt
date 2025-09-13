@@ -5535,7 +5535,6 @@ ardeid
 agal
 agalactic
 appoggiaturas
-agalaxia
 anisomelus
 agalenidae
 alecithic
@@ -8640,6 +8639,7 @@ autoincrements
 allgovite
 anthologized
 apicifixed
+agalaxia
 amblosis
 arachidonic
 apemantus
