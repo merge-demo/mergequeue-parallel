@@ -15953,7 +15953,6 @@ counterinsurgents
 conics
 coadministration
 cruentous
-cobelligerent
 cold
 cleptomaniac
 christianly
@@ -17548,6 +17547,7 @@ cobola
 coboss
 chitarrone
 cleamer
+cobelligerent
 coboundless
 cobourg
 cueca
