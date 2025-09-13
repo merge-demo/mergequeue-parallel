@@ -2463,6 +2463,7 @@ bigram
 busies
 blens
 bifunctional
+basisolute
 benzoiodohydrin
 beltlines
 barrera
@@ -11375,7 +11376,6 @@ bluecurls
 browbands
 blued
 blahlaut
-basisolute
 baht
 blaseness
 birminghamize
