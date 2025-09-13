@@ -1796,7 +1796,6 @@ bilanders
 brachman
 bamboula
 boswellized
-bureaucratize
 bowmen
 balanops
 bambute
@@ -10612,6 +10611,7 @@ bleachworks
 bearableness
 bleaker
 balanophoraceae
+bureaucratize
 bandspreading
 bernese
 bollies
