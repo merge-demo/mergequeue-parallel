@@ -2701,7 +2701,6 @@ dassy
 domoid
 deductibility
 decoration
-deckhands
 disjune
 discursory
 decorator
@@ -15385,6 +15384,7 @@ declaims
 dureful
 dosiology
 drainway
+deckhands
 disrupts
 dialogized
 dolled
