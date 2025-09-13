@@ -279,7 +279,6 @@ beleaf
 brontosaur
 bedfellow
 bacillarieae
-brominating
 beroe
 barlock
 betterer
@@ -2032,6 +2031,7 @@ bristly
 brasserie
 bedeguar
 bicollaterality
+brominating
 bimana
 bankrolling
 bollandist
