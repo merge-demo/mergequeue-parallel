@@ -4655,7 +4655,6 @@ bunce
 busywork
 bedims
 basiophitic
-bedizen
 boubas
 bemitered
 bedizens
@@ -8010,6 +8009,7 @@ butcherous
 brachygnathism
 brawned
 browband
+bedizen
 bicorn
 bourrelet
 boatman
