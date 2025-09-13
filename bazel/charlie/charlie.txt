@@ -2882,6 +2882,7 @@ canopus
 concatenation
 chairlady
 canossa
+counterwheel
 canotier
 canreply
 cansful
@@ -27200,7 +27201,6 @@ coetus
 counterweigh
 counterweight
 counterweights
-counterwheel
 counterwilling
 counterwitness
 chaiseless
