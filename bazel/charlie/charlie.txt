@@ -30349,6 +30349,7 @@ caserio
 cuticulae
 crustade
 charted
+cultriform
 cresotinic
 crustalogy
 crustalogical
@@ -30906,7 +30907,6 @@ cultivator
 cultive
 cultrated
 coinage
-cultriform
 cyclitol
 cults
 cramoisies
