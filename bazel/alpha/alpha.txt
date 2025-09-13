@@ -17522,7 +17522,6 @@ aouellimiden
 antiquate
 aesthophysiology
 amercements
-appendency
 appendicalgia
 ausonian
 archiblast
@@ -24260,6 +24259,7 @@ asterioid
 autopolar
 autodiffusion
 acetous
+appendency
 autopolyploid
 academically
 autopolyploidy
