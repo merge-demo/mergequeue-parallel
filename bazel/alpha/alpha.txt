@@ -6380,6 +6380,7 @@ ahull
 ahum
 amicableness
 arboretum
+away
 ahunt
 antireality
 admonishments
@@ -20095,7 +20096,6 @@ ahir
 accursedly
 arrangeable
 arrangement
-away
 amphidromia
 auscultated
 arrangers
