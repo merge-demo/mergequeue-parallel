@@ -3207,7 +3207,6 @@ burthen
 batrachiate
 blady
 beadily
-basidia
 basidigital
 bouteselle
 bangwaketsi
@@ -11129,6 +11128,7 @@ bullionist
 bloodcurdling
 bloodies
 bloodiness
+basidia
 blooding
 bestain
 blunker
