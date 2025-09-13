@@ -1947,6 +1947,7 @@ dernier
 debtless
 dialyzes
 downby
+demicolumn
 dreader
 depressant
 deckload
@@ -5569,7 +5570,6 @@ depancreatize
 drawrod
 drainermen
 deoxygenized
-demicolumn
 datafile
 deuteronomy
 drusean
