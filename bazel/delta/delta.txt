@@ -4308,7 +4308,6 @@ defoil
 doover
 dichotomous
 digallate
-designatory
 delustering
 deceleration
 deceptible
@@ -11920,6 +11919,7 @@ diallagoid
 delations
 drawknives
 diformin
+designatory
 dragonnade
 dieri
 dopers
