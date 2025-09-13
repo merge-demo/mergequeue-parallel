@@ -14312,7 +14312,6 @@ creancer
 canephoros
 cannonarchy
 canalside
-circumnutated
 circumnutation
 circumorbital
 circumpacific
@@ -27742,6 +27741,7 @@ coxa
 caryophylleous
 comephorous
 cuttlefishes
+circumnutated
 coxae
 coeloscope
 coxalgy
