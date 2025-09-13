@@ -12590,6 +12590,7 @@ bagels
 busy
 bioherms
 baguets
+brasque
 beleaguerment
 bulged
 basinlike
@@ -14639,7 +14640,6 @@ blatjang
 bitted
 brasils
 bitt
-brasque
 bloc
 bullwhack
 buttonholer
