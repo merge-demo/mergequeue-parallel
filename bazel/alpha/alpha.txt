@@ -13831,7 +13831,6 @@ allothigenetic
 adelea
 antalkaline
 antalkalis
-antanacathartic
 autotransfusion
 alienating
 antelopes
@@ -14222,6 +14221,7 @@ anthomyiidae
 anthony
 acrostically
 addled
+antanacathartic
 anaphrodisia
 anthophilian
 apometabolism

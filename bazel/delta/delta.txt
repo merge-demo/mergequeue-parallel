@@ -4691,6 +4691,7 @@ diopsides
 demised
 depas
 diploglossate
+diquat
 demisemiquaver
 demisemitone
 dislodging
@@ -10845,7 +10846,6 @@ differencing
 dipware
 diver
 disadvantageous
-diquat
 demirelief
 deuterogelatose
 directdiscourse
