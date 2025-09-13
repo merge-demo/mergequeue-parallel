@@ -6759,7 +6759,6 @@ desilicify
 desilicified
 desiliconization
 dribbed
-dhoti
 doubly
 delate
 deceased
@@ -18243,6 +18242,7 @@ dunderpate
 dynamistic
 debugger
 dzungar
+dhoti
 dogra
 duneland
 dunelike
