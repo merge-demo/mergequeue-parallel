@@ -2909,7 +2909,6 @@ dediticiancy
 dwindled
 discounted
 dotingness
-diegesis
 diplasiasmus
 droil
 deducibility
@@ -10612,6 +10611,7 @@ distributions
 documented
 decoctible
 defs
+diegesis
 demounts
 diploidic
 dunderbolt
