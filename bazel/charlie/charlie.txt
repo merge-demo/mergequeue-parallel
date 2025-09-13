@@ -5914,6 +5914,7 @@ cathodes
 cuckstool
 cathodograph
 conjurers
+coshed
 cathodography
 catspaws
 clewing
@@ -9387,7 +9388,6 @@ crumb
 chawing
 chawk
 coruscating
-coshed
 craniad
 casserole
 carbonero
