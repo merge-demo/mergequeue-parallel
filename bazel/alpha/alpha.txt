@@ -7658,7 +7658,6 @@ aldazine
 aldoheptose
 airer
 aargh
-aldoketene
 affectedly
 aldol
 alismad
@@ -9690,6 +9689,7 @@ aerifying
 amanitins
 antireforming
 amyxorrhoea
+aldoketene
 aspergillums
 antifungal
 arteriectomy
