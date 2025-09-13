@@ -6391,6 +6391,7 @@ cancelability
 cossetted
 chawl
 confusedly
+colascione
 cavatine
 cavdia
 collogues
@@ -24161,7 +24162,6 @@ convexness
 convexo
 convexoconcave
 cutesy
-colascione
 cannalling
 convicinity
 cattabu
