@@ -11541,7 +11541,6 @@ antimasonic
 anadyomene
 anadiplosis
 anadipsia
-autexousy
 actinometry
 allegory
 aucanian
@@ -20862,6 +20861,7 @@ ascend
 antirust
 ascendance
 ascendantly
+autexousy
 ascendants
 ascendence
 arbitrament
