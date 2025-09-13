@@ -4080,6 +4080,7 @@ cardinalship
 cardioarterial
 cardiocarpum
 cephalothorax
+cunningaire
 chevronelly
 cardiocirrhosis
 cardioclasis
@@ -26903,7 +26904,6 @@ catalogue
 columbotitanate
 colorable
 chevaux
-cunningaire
 cobstone
 countermarching
 call
