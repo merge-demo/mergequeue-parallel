@@ -12314,7 +12314,6 @@ bombilla
 bluefins
 bonifaces
 broadcloth
-breakfasting
 bombillas
 bacchantic
 bulliest
@@ -17715,6 +17714,7 @@ brachiorrhachidian
 burnisher
 brahmins
 burnishers
+breakfasting
 burnishing
 bookbindery
 baneberries
