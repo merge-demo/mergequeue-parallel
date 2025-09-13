@@ -12052,6 +12052,7 @@ coheres
 choromanic
 cajolers
 copaiva
+coprostasis
 cyclops
 catlin
 choroti
@@ -27105,7 +27106,6 @@ counterstand
 counterstep
 corabeca
 chengal
-coprostasis
 crossbanded
 chittered
 counterstimulate
