@@ -14460,7 +14460,6 @@ anisotropism
 anticline
 antidepressants
 annet
-anthropurgic
 anthroxanic
 arrogative
 affectus
@@ -21298,6 +21297,7 @@ antiglyoxalase
 amortisable
 arachnactis
 aphorizing
+anthropurgic
 artichokes
 asparamic
 androcyte
