@@ -11354,7 +11354,6 @@ amtracks
 alephs
 adnexitis
 amtracs
-amygdalae
 amu
 analysts
 amuchco
@@ -14872,6 +14871,7 @@ anticonventional
 anticonventionalist
 anticor
 anticorn
+amygdalae
 anticorona
 anticorrosiveness
 alsatia
