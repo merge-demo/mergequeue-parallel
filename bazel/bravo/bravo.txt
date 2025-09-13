@@ -13818,7 +13818,6 @@ bowe
 bedikah
 brickwall
 bowelled
-beardedness
 bdl
 beaverwood
 baggy
@@ -15991,6 +15990,7 @@ burntly
 brooder
 binomial
 broodily
+beardedness
 broodling
 broodmare
 bleacher
