@@ -3380,7 +3380,6 @@ cote
 ceilidhe
 capri
 capric
-clarencieux
 capriccetto
 capricci
 capriccio
@@ -27082,6 +27081,7 @@ countersign
 calfbound
 cupful
 countersigns
+clarencieux
 countersympathy
 carburet
 countersink
