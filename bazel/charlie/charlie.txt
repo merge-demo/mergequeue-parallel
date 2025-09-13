@@ -23263,7 +23263,6 @@ constructorship
 construe
 construer
 chidra
-cephalism
 cyamus
 cardiatomy
 coextending
@@ -28954,6 +28953,7 @@ charlemagne
 criminalism
 criminalistic
 countersecurity
+cephalism
 chesterlite
 criminalistics
 cakewalks

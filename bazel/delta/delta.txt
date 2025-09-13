@@ -4255,7 +4255,6 @@ deltahedra
 dismayed
 dismaler
 daiquiris
-deltas
 diadrome
 distensibility
 denunciations
@@ -11108,6 +11107,7 @@ dealates
 diamagnetically
 droning
 denotativeness
+deltas
 defatted
 drugstores
 disequilibrate
