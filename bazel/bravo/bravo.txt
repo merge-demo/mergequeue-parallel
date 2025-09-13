@@ -6963,7 +6963,6 @@ bedrugging
 bespouses
 boxhaul
 benzines
-besnowing
 boil
 besognier
 besoil
@@ -17701,6 +17700,7 @@ bishopric
 benempt
 billian
 blastophaga
+besnowing
 barbicanage
 bemuzzled
 bott
