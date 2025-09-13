@@ -6503,7 +6503,6 @@ blastospheric
 balnibarbi
 berattle
 borickite
-breastrope
 bout
 biohazard
 berberid
@@ -9924,6 +9923,7 @@ buddled
 baresma
 blattidae
 brevirostral
+breastrope
 brimfullness
 bivalency
 brows
