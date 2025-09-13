@@ -17836,6 +17836,7 @@ codebooks
 codebreaker
 codebtor
 chinotti
+coenures
 cavettos
 coz
 chirpingly
@@ -25708,7 +25709,6 @@ chainbearer
 chonta
 cumberment
 curassows
-coenures
 citrines
 chatta
 coronal

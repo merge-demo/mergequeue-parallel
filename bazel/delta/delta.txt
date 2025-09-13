@@ -14968,7 +14968,6 @@ denigratory
 docudramas
 driftweed
 document
-disinfector
 documentable
 dos
 documental
@@ -18436,6 +18435,7 @@ dialysepalous
 dibromid
 disarrayed
 dupe
+disinfector
 dupedom
 dupery
 destroyer
