@@ -11473,7 +11473,6 @@ anergy
 antielectron
 anacanthini
 avourneen
-anacanthous
 anacathartic
 alveolae
 alefnull
@@ -16616,6 +16615,7 @@ arithmeticians
 asphaltum
 aphanisia
 atalanta
+anacanthous
 arteriotomies
 allocatee
 autopotamic
