@@ -8307,6 +8307,7 @@ catechizable
 calycanthemous
 challah
 centriciput
+countable
 challahs
 challas
 contraponend
@@ -12617,7 +12618,6 @@ catechisation
 cyperaceous
 chronothermal
 chronotropic
-countable
 collocution
 cordy
 cheney
