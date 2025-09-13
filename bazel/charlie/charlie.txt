@@ -6852,6 +6852,7 @@ committedness
 cypreses
 celom
 cardcase
+crabwise
 cytherean
 castlery
 chauvinistically
@@ -27856,7 +27857,6 @@ compaction
 crabut
 crabweed
 coreid
-crabwise
 crabwood
 cracca
 craccus
