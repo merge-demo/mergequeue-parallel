@@ -11556,6 +11556,7 @@ assuror
 anaemotropy
 astrometeorologist
 adages
+anthropocentric
 anaerobation
 acrocentric
 anaerobion
@@ -14326,7 +14327,6 @@ acquisition
 anthropobiology
 acerbly
 automaton
-anthropocentric
 amission
 acetaldehydase
 affluents
