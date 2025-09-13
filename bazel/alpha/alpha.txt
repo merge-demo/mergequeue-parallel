@@ -12435,7 +12435,6 @@ anesone
 anticomplement
 apexes
 arizona
-armisonant
 anesthesimeter
 axiomatizations
 anesthesiology
@@ -16847,6 +16846,7 @@ ase
 armoires
 apyrases
 apyrexial
+armisonant
 apyrotype
 anteverts
 apishamore
