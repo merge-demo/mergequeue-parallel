@@ -5205,7 +5205,6 @@ avadavats
 affluence
 affluently
 affluxion
-auburn
 albedograph
 afforce
 afford
@@ -9005,6 +9004,7 @@ achetidae
 allusions
 allusive
 awreak
+auburn
 allusiveness
 allutterly
 alluvials
