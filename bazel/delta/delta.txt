@@ -2526,7 +2526,6 @@ dimaris
 diplococcus
 dwined
 dorn
-disjudication
 deglutitory
 desperate
 dimorphs
@@ -14244,6 +14243,7 @@ doublet
 discardable
 dragoons
 disvisor
+disjudication
 dungs
 disvoice
 depopulated
