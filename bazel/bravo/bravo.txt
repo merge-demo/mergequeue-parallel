@@ -7005,6 +7005,7 @@ bather
 boweled
 bombidae
 byre
+buddy
 bewhiskered
 barbute
 blaming
@@ -11593,7 +11594,6 @@ buceros
 broodsac
 britzka
 boardwalks
-buddy
 bination
 battledored
 bolis
