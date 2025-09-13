@@ -7379,7 +7379,6 @@ daffadilly
 determined
 diphenylenimide
 detorsion
-deashed
 disagreed
 determiner
 discographical
@@ -16735,6 +16734,7 @@ dismasting
 drysaltery
 devests
 driech
+deashed
 derangements
 digamists
 dragonism
