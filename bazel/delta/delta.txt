@@ -1301,6 +1301,7 @@ decream
 dauber
 dauberies
 dramatic
+denticulate
 dumpings
 diapause
 diastaltic
@@ -4681,7 +4682,6 @@ demisangue
 denarius
 dustproof
 demiscible
-denticulate
 demise
 diopsides
 demised
