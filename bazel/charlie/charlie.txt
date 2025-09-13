@@ -2653,7 +2653,6 @@ canfield
 counterstatement
 canfields
 cantillating
-canfuls
 clumsiness
 cangia
 constitutively
@@ -30274,6 +30273,7 @@ crunching
 crunchingly
 causewayman
 crunkle
+canfuls
 clink
 comm
 crunodes
