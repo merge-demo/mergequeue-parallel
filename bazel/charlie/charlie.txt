@@ -2120,7 +2120,6 @@ choryos
 camphol
 campholic
 campholide
-compilatory
 coleorhiza
 camphols
 camphor
@@ -15782,6 +15781,7 @@ chainlet
 chevalier
 cleanliest
 culottes
+compilatory
 clumpier
 cleansable
 cellists
