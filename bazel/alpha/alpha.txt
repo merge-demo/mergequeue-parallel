@@ -5654,7 +5654,6 @@ archisphere
 atonies
 anthophagous
 apertured
-agate
 admen
 agates
 affeerment
@@ -8654,6 +8653,7 @@ alliancing
 anemonol
 alliciency
 anglist
+agate
 anticeremonially
 avery
 allie
