@@ -11702,7 +11702,6 @@ discothque
 disengirdle
 diagramed
 dermatographia
-discountable
 discountenances
 distastes
 dendrolite
@@ -12996,6 +12995,7 @@ disfavourer
 decomplex
 disorderer
 discourse
+discountable
 dolite
 diathermometer
 doigt
