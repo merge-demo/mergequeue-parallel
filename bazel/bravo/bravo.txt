@@ -5363,7 +5363,6 @@ begrimmed
 bossed
 brickly
 bot
-biweekly
 begrudge
 boggishness
 branchiopodous
@@ -6093,6 +6092,7 @@ briolet
 blenniiform
 benedictively
 barquette
+biweekly
 bolshevizing
 bitolyl
 biggonet
