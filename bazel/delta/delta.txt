@@ -4706,7 +4706,6 @@ demystification
 demon
 dismantle
 downtrends
-duplicident
 dishmaker
 dithyrambos
 diphthongous
@@ -16544,6 +16543,7 @@ drabbling
 doubler
 dextropinene
 dublin
+duplicident
 dewiness
 dilutee
 dandifies
