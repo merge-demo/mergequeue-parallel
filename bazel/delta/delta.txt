@@ -4435,7 +4435,6 @@ dematerialisation
 dematerialised
 disproportionation
 dioeciousness
-dematerialize
 dematerializing
 dimuence
 dissepiment
@@ -10926,6 +10925,7 @@ dhabb
 drifted
 drawbored
 dwayne
+dematerialize
 disguisable
 dicaryophyte
 damns
