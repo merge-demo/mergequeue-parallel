@@ -9390,6 +9390,7 @@ differentiability
 duct
 differentials
 dhoty
+drostdy
 dismembering
 depickle
 differentiate
@@ -17495,7 +17496,6 @@ decretorily
 disserts
 diazoimido
 doggers
-drostdy
 daneweeds
 droughts
 dominium
