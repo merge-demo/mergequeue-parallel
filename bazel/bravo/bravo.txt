@@ -6587,7 +6587,6 @@ beribanded
 birdy
 beriberis
 berycid
-busyhead
 berycidae
 bituberculate
 baratte
@@ -9631,6 +9630,7 @@ bathybian
 bisporous
 bayeta
 bizes
+busyhead
 benj
 bagwoman
 ballywrack
