@@ -9948,6 +9948,7 @@ aiger
 aceturic
 ambiversion
 ambivert
+antipolitics
 arrect
 authentically
 amble
@@ -15271,7 +15272,6 @@ antilibration
 antilife
 ahorse
 afforcement
-antipolitics
 atterrate
 antisepticised
 antilift
