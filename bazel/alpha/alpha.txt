@@ -941,7 +941,6 @@ anorthographical
 assis
 abstemious
 astron
-asphaltene
 accidies
 abstemiousness
 abstentionist
@@ -4252,6 +4251,7 @@ asides
 acetyl
 antighostism
 aphotaxis
+asphaltene
 agalinis
 achieve
 adulterers
