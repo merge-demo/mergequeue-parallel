@@ -3669,7 +3669,6 @@ cuadra
 carapaces
 carapacho
 cognates
-carapacic
 corruptedly
 carapax
 climacterial
@@ -20524,6 +20523,7 @@ comparisons
 comparted
 chimbley
 comade
+carapacic
 customhouse
 compartimenti
 chimley
