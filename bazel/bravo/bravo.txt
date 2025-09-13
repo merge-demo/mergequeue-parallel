@@ -1351,7 +1351,6 @@ balaos
 barbed
 balases
 balat
-balatron
 bibliophilist
 benzaldiphenyl
 balatte
@@ -2953,6 +2952,7 @@ boobishness
 binucleolate
 blobby
 barricaded
+balatron
 bookable
 barricaders
 boyism
