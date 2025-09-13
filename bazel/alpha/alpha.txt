@@ -7813,6 +7813,7 @@ acrophobia
 alethopteroid
 anklebones
 acetabuliform
+assistency
 arugula
 archidium
 alethoscope
@@ -11113,7 +11114,6 @@ amphicyon
 apocryphal
 abelicea
 achillobursitis
-assistency
 amphicytula
 astrobiologists
 amphicoelous
