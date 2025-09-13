@@ -4940,6 +4940,7 @@ blends
 bumpoff
 beefers
 bombycilla
+ballan
 breakfasters
 beerpull
 beers
@@ -7397,7 +7398,6 @@ bishydroxycoumarin
 betting
 bailies
 bourbonize
-ballan
 bescrape
 bettonga
 bitterest
