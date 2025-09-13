@@ -2082,6 +2082,7 @@ drupes
 dendrography
 demonologies
 digressingly
+dyophysite
 decaliters
 decalitre
 drapable
@@ -11100,7 +11101,6 @@ disanimation
 disannuller
 disentanglements
 decolorimeter
-dyophysite
 dipsosis
 disembay
 diagnosticating
