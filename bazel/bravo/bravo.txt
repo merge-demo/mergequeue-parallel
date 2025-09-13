@@ -2569,6 +2569,7 @@ beingless
 baris
 bodefulness
 bearleap
+biplicate
 bobadil
 bromating
 behowls
@@ -7502,7 +7503,6 @@ balky
 bloodripe
 begiggle
 barnacle
-biplicate
 bleater
 burele
 brakeages
