@@ -2437,6 +2437,7 @@ barer
 boletus
 bibliolater
 bares
+blastoporal
 bounceably
 baresark
 betrinket
@@ -10489,7 +10490,6 @@ bradyuria
 blameworthy
 bashlik
 biteless
-blastoporal
 balanus
 bromal
 buttonhold
