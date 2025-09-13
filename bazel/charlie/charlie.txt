@@ -3774,7 +3774,6 @@ chorioid
 carbohydride
 carboy
 comate
-celestes
 carboys
 cyathoid
 codger
@@ -18949,6 +18948,7 @@ colitic
 colitises
 colitoxemia
 colyum
+celestes
 coliuria
 colla
 csnet
