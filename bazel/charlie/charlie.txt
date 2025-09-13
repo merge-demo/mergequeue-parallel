@@ -13880,7 +13880,6 @@ cinnamate
 catasetum
 cinnamein
 cinnamene
-choreography
 corser
 cinnamyl
 chilean
@@ -14888,6 +14887,7 @@ cyton
 caunus
 cytone
 chess
+choreography
 cartmaker
 cattery
 cosmine
