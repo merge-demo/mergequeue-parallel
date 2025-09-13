@@ -6524,7 +6524,6 @@ commentation
 contributions
 calamitoid
 cdf
-carid
 cesspool
 celibates
 ceanothus
@@ -9869,6 +9868,7 @@ chemisorb
 cardiotherapy
 coprophilic
 cholecystogastrostomy
+carid
 copperytailed
 curviest
 chemistry
