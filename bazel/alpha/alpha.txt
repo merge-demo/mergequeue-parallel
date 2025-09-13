@@ -7952,7 +7952,6 @@ antiholiday
 algal
 algalia
 alcoholization
-affectual
 angiolipoma
 anolytes
 archanthropine
@@ -16091,6 +16090,7 @@ antanemic
 adaptative
 asthenics
 antispreader
+affectual
 arborize
 anticlimaxes
 acarinosis
