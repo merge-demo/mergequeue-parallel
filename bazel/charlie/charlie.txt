@@ -2880,6 +2880,7 @@ covets
 cours
 canopus
 concatenation
+coercion
 chairlady
 canossa
 canotier
@@ -25920,7 +25921,6 @@ ceintures
 corticotrophin
 curtsying
 corticous
-coercion
 charka
 cortin
 cinerary
