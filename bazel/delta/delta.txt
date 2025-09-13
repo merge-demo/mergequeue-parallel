@@ -3359,7 +3359,6 @@ deflocculate
 deflocculating
 disinclined
 diadelphian
-dermatoptera
 digoneutism
 decreasing
 depurition
@@ -6681,6 +6680,7 @@ dreche
 derision
 davenport
 diminutely
+dermatoptera
 desesperance
 dasymeter
 dysidrosis
