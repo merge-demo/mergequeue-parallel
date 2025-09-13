@@ -4695,7 +4695,6 @@ dismantle
 downtrends
 dishmaker
 dithyrambos
-diphthongous
 dimissory
 displeasedly
 dapple
@@ -13933,6 +13932,7 @@ daffydowndilly
 dynamogeneses
 diacope
 deodand
+diphthongous
 dishonoring
 dedication
 distinction
