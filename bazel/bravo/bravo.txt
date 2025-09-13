@@ -1309,6 +1309,7 @@ bishopweed
 buckskinned
 baryonic
 bluejays
+barbated
 begrutch
 boater
 balander
@@ -15853,7 +15854,6 @@ bursters
 bromoprotein
 browden
 baham
-barbated
 bromphenol
 bogie
 bathroomed
