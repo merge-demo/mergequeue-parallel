@@ -5613,7 +5613,6 @@ catarrhina
 catarrhous
 coburgher
 catasarka
-chested
 ching
 communionist
 cephalodymia
@@ -15387,6 +15386,7 @@ clapcake
 congruency
 chortled
 coran
+chested
 caulkings
 clapnest
 courtroll
