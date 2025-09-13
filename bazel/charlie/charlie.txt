@@ -3253,7 +3253,6 @@ catalog
 christianized
 cymric
 capitellate
-canteen
 capitellum
 capitle
 calorimotor
@@ -26307,6 +26306,7 @@ chauffeur
 cubistically
 cluttering
 counterindoctrinate
+canteen
 cosubject
 cashboxes
 cosubordinate
