@@ -15882,6 +15882,7 @@ bebloom
 battlers
 bogsucker
 bufotenin
+balaenoid
 biplicity
 basidiomycete
 brutish
@@ -17750,7 +17751,6 @@ baldicoot
 beslaved
 burps
 burrbark
-balaenoid
 burrers
 burrfish
 bullwhipping
