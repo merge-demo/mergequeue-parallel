@@ -6096,6 +6096,7 @@ debriefed
 dandle
 diplomatic
 dilutent
+desinential
 dollier
 daymen
 dermorhynchi
@@ -6775,7 +6776,6 @@ detachments
 desinent
 dispend
 dallying
-desinential
 defectious
 desynonymize
 deevey

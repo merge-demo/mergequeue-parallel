@@ -8101,7 +8101,6 @@ celebes
 chagga
 chagigah
 chagoma
-chagrin
 concubitant
 commiphora
 chagrining
@@ -31008,6 +31007,7 @@ campanian
 cowardice
 cumyl
 chant
+chagrin
 clead
 cursed
 ceriops
