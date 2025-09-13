@@ -7192,7 +7192,6 @@ airspeed
 ashur
 aionial
 albarelli
-anatomists
 anagogies
 antistadholderian
 ariboflavinosis
@@ -12684,6 +12683,7 @@ addleheaded
 anaemic
 angkhak
 ammoniticone
+anatomists
 aeroscopically
 advect
 angle
