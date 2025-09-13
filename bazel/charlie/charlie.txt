@@ -2706,6 +2706,7 @@ cannoneering
 cankerroot
 cauponize
 cankers
+crannoge
 cultivators
 carbamyl
 coff
@@ -26002,7 +26003,6 @@ contagionist
 cosenator
 consignor
 cosentient
-crannoge
 coregence
 clavate
 cosettler
