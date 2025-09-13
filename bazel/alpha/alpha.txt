@@ -1812,7 +1812,6 @@ achieves
 auride
 advanced
 acetable
-acetabula
 antileague
 atheromas
 acetabulums
@@ -20887,6 +20886,7 @@ amphophilous
 asceticism
 ascetta
 asepsis
+acetabula
 alpasotes
 abstractively
 ascian
