@@ -6532,6 +6532,7 @@ aliturgical
 ailurophilic
 affirmation
 akinesic
+anhalonidine
 archaeol
 anew
 ailuropoda
@@ -12854,7 +12855,6 @@ alogian
 anhaemolytic
 agynic
 ataraxics
-anhalonidine
 anhalonin
 acetabularia
 anhalonine
