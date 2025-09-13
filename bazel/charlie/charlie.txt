@@ -1820,6 +1820,7 @@ camball
 chobdar
 cambarus
 cambered
+collembolic
 croc
 cambeva
 cambia
@@ -11101,7 +11102,6 @@ chytridiaceae
 coccobacillus
 congressionalist
 cardiologies
-collembolic
 chytridiose
 chytridiosis
 chits
