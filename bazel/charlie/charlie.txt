@@ -1251,6 +1251,7 @@ centimes
 choreguses
 cupressinoxylon
 conviciate
+cowtown
 calf
 calfish
 chromophotograph
@@ -27723,7 +27724,6 @@ cowskin
 crithmene
 countercommand
 criticsm
-cowtown
 confides
 cox
 cohog
