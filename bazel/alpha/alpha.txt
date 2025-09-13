@@ -263,7 +263,6 @@ archimycetes
 abdicant
 abhorrence
 abdications
-anthropomorphizing
 abdicative
 adze
 abditory
@@ -14138,6 +14137,7 @@ archaeomagnetism
 archcount
 anthelminthic
 anthemas
+anthropomorphizing
 anthemata
 agavose
 amugis
