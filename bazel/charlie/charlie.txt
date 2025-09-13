@@ -2776,7 +2776,6 @@ cannibally
 cummins
 cableman
 cannier
-canning
 cannings
 cine
 cannister
@@ -31339,6 +31338,7 @@ curfewed
 clerete
 curfews
 concordats
+canning
 curfs
 cury
 causeys
