@@ -23051,6 +23051,7 @@ compurgatory
 chlorpheniramine
 cardines
 consonantic
+corneal
 cavalcade
 cholestene
 cagmag
@@ -25307,7 +25308,6 @@ corncutter
 calapite
 corndodger
 cornea
-corneal
 corneas
 cheddaring
 conject
