@@ -8478,7 +8478,6 @@ coterminousness
 champy
 conjoint
 coe
-coquillage
 champian
 copyholder
 champignon
@@ -16527,6 +16526,7 @@ chaulmoograte
 catguts
 clodhead
 clodhopper
+coquillage
 clodhoppers
 clodhopping
 canchi
