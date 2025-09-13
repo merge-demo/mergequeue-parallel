@@ -283,6 +283,7 @@ arteriopathy
 aguamas
 abdominals
 acrospire
+attrition
 abdominocystic
 ailuro
 appunctuation
@@ -23180,7 +23181,6 @@ agoniadin
 attriteness
 atrioporal
 adherescence
-attrition
 apoapsides
 alloisomer
 antitobacconal
