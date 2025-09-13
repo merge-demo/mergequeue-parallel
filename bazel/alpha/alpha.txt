@@ -12728,7 +12728,6 @@ apolysin
 anthelices
 anatabine
 annalize
-anglicization
 amarant
 allineate
 aditio
@@ -19677,6 +19676,7 @@ alnico
 arkansawyer
 awkwardness
 asarum
+anglicization
 autotypies
 archdioceses
 asmack
