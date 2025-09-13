@@ -1401,6 +1401,7 @@ baldfaced
 bharal
 bailliage
 bolloxing
+bulbul
 bruisewort
 boyos
 blots
@@ -11421,7 +11422,6 @@ blimey
 bigger
 bejade
 branchi
-bulbul
 bluetongue
 byth
 bedmates
