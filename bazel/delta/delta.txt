@@ -1566,6 +1566,7 @@ duopolist
 deadish
 dysgenesic
 demand
+decompiler
 diplomata
 diastrophy
 disposition
@@ -8077,7 +8078,6 @@ dynasticism
 diseasedness
 derbylite
 darya
-decompiler
 dietician
 dispersion
 dumbhead
