@@ -907,7 +907,6 @@ blundering
 bagnes
 bastnaesite
 blowze
-borides
 bullionism
 bullboat
 burdies
@@ -16400,6 +16399,7 @@ borasque
 bruskly
 banned
 bozal
+borides
 blowfishes
 bequote
 bulbomedullary
