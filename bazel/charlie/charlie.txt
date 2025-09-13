@@ -6528,7 +6528,6 @@ cryogenically
 carditic
 ceases
 ceasing
-cryobiologist
 conferment
 calamariaceae
 convertend
@@ -20056,6 +20055,7 @@ commata
 commaterial
 cofeoffee
 commatic
+cryobiologist
 cubbish
 cheerily
 commeasurable
