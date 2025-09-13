@@ -3163,7 +3163,6 @@ basepoint
 beshlik
 boleros
 boride
-baser
 brazen
 blanda
 bayete
@@ -12568,6 +12567,7 @@ butylamine
 bonnocks
 bonnwis
 bonorum
+baser
 bisector
 bagatelle
 bills
