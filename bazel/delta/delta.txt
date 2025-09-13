@@ -2255,7 +2255,6 @@ douser
 domineerer
 dustbox
 determinative
-dentolabial
 decembrist
 demnition
 dowset
@@ -16360,6 +16359,7 @@ dowels
 decrown
 deferrize
 ductilimeter
+dentolabial
 divers
 diaheliotropism
 doryanthes
