@@ -13919,6 +13919,7 @@ cinofoil
 canonistic
 caviars
 cynoglossum
+cusp
 cynognathus
 cirripeds
 cynoid
@@ -19659,7 +19660,6 @@ columbine
 covin
 climactic
 chamfrons
-cusp
 crocky
 copesetic
 columbotantalate
