@@ -4690,7 +4690,6 @@ blackseed
 bord
 basilarchia
 beinked
-bakatan
 bedmate
 bedouins
 bails
@@ -14994,6 +14993,7 @@ besanctify
 brazier
 breezily
 bountifully
+bakatan
 breeziness
 bolling
 biseptate
