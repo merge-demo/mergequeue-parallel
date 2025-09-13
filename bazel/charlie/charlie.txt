@@ -4648,6 +4648,7 @@ carpet
 carpetbag
 concludible
 carpetbagger
+counterbored
 carpetbaggery
 conclusively
 conchometry
@@ -26695,7 +26696,6 @@ coomy
 counterblast
 counterborder
 counterbore
-counterbored
 celandine
 counterborer
 counterboring
