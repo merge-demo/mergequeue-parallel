@@ -11720,7 +11720,6 @@ behung
 buzzword
 bobol
 bedamns
-bedwarfs
 backpointer
 brynza
 bajocian
@@ -14053,6 +14052,7 @@ bullpens
 best
 brachycrany
 booster
+bedwarfs
 bowpot
 brachydactylia
 binders
