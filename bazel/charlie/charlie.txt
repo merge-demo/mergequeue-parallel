@@ -2632,7 +2632,6 @@ chevet
 caner
 camelopardel
 canes
-caprellidae
 canescence
 canescent
 chaetetes
@@ -26346,6 +26345,7 @@ concaved
 cinderlike
 coterie
 ciminite
+caprellidae
 concavities
 confer
 centipoise
