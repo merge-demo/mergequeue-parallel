@@ -4915,7 +4915,6 @@ beelzebul
 beennut
 beent
 bradyphemia
-bilicyanin
 bonework
 beeped
 burgware
@@ -17802,6 +17801,7 @@ bianisidine
 becompass
 belord
 brocade
+bilicyanin
 bodhi
 brachistocephalous
 blushless
