@@ -4924,6 +4924,7 @@ deducement
 dosimetrist
 dismality
 dishmonger
+dehorting
 discage
 diluting
 dialogist
@@ -14363,7 +14364,6 @@ didymoid
 donnot
 dissimulate
 dittying
-dehorting
 dandified
 disadvantages
 deform
