@@ -1341,6 +1341,7 @@ accension
 accept
 acceptability
 agonist
+anthracometer
 amintor
 acceptance
 aggressions
@@ -19672,7 +19673,6 @@ arizonians
 achigan
 anuresis
 alnico
-anthracometer
 arkansawyer
 awkwardness
 asarum
