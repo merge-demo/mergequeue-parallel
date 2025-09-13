@@ -3023,7 +3023,6 @@ cellocut
 compartment
 cantonize
 colectomy
-countergager
 cantoral
 congested
 cucumber
@@ -26129,6 +26128,7 @@ cosmopoietic
 cosmopolises
 coastline
 cosmopolitanise
+countergager
 charcutiers
 cosmopolitanising
 centurions
