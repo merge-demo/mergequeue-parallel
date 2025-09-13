@@ -5210,6 +5210,7 @@ casseroling
 carpophore
 carinule
 cassocked
+carnaubyl
 cataleptic
 calycoideous
 chlorioninae
@@ -11527,7 +11528,6 @@ coventry
 chalones
 chokers
 chokes
-carnaubyl
 coexertion
 carbonizer
 cummin
