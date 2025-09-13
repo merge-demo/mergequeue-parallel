@@ -8392,7 +8392,6 @@ bocage
 bleareye
 bittium
 bilaminar
-blart
 burblier
 bemusement
 babbage
@@ -15754,6 +15753,7 @@ broncho
 blandished
 beignet
 bulled
+blart
 bovicide
 bankers
 bitonality
