@@ -15710,6 +15710,7 @@ antiphrastic
 amberiferous
 ascendant
 authorization
+astrologian
 autotoxication
 abatage
 arctitude
@@ -16356,7 +16357,6 @@ ardurous
 accentus
 altarist
 alkargen
-astrologian
 angolan
 amyluria
 antum
