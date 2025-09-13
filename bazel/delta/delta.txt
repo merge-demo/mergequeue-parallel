@@ -5400,6 +5400,7 @@ duodenas
 drossed
 dish
 diamonds
+disputisoun
 drown
 duodecimality
 diwan
@@ -13395,7 +13396,6 @@ disdiaclast
 disputing
 dayflower
 decurving
-disputisoun
 duala
 dultie
 degradation
