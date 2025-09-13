@@ -9479,7 +9479,6 @@ altostratus
 altrices
 antipart
 averager
-aglets
 atheism
 aeroenterectasia
 autoionization
@@ -15740,6 +15739,7 @@ atypically
 antimetabole
 afibrinogenemia
 acanthus
+aglets
 alala
 antipolygamy
 antipolitical
