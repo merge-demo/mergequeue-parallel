@@ -9546,6 +9546,7 @@ alumite
 adagio
 agrobiologic
 anticonvulsant
+aftercourse
 alumnae
 arvicoline
 abnormal
@@ -20674,7 +20675,6 @@ airths
 artist
 artistic
 atemoya
-aftercourse
 ashiver
 actinomyces
 aeroplankton
