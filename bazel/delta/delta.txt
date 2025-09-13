@@ -8601,7 +8601,6 @@ diaphoreses
 disarranging
 devoutlessness
 diaphoretics
-denaturalise
 diaphorite
 decating
 decasualisation
@@ -8947,6 +8946,7 @@ dicentras
 dipyramid
 dyads
 dentallia
+denaturalise
 defiatory
 diceras
 dmod
