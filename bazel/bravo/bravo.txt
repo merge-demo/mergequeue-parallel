@@ -4387,6 +4387,7 @@ branchiogenous
 begloom
 befleas
 belchers
+brazenness
 becloaks
 blackfriars
 bandleader
@@ -11207,7 +11208,6 @@ blote
 brillolette
 blaw
 beaker
-brazenness
 bracts
 bf
 bezesteen

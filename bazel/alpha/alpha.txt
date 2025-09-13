@@ -19259,7 +19259,6 @@ anabrosis
 arf
 aroar
 archrepresentative
-ascocarp
 allalinite
 annexure
 altogetherness
@@ -19298,6 +19297,7 @@ astringes
 archduchies
 atheistical
 acadialite
+ascocarp
 argentamine
 acetaldol
 atomistics
