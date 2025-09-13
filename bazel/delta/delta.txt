@@ -12493,7 +12493,6 @@ diastataxic
 dischurch
 desulfurate
 dishorn
-douching
 demodocus
 dislocable
 diastematic
@@ -16855,6 +16854,7 @@ darg
 dactylus
 dodecagon
 decrials
+douching
 dichopodial
 dapperest
 durandarte

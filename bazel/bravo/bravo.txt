@@ -1697,7 +1697,6 @@ butyrinase
 boko
 betokens
 brunneous
-balmoral
 bradypode
 berm
 bastards
@@ -17236,6 +17235,7 @@ bumpers
 baths
 blazons
 bumpkin
+balmoral
 bumpkins
 bumptious
 bediademed
