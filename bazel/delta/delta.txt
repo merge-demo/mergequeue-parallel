@@ -3126,7 +3126,6 @@ daneflower
 defect
 draughtily
 defectible
-defecting
 dezincified
 depolarizes
 devotionalness
@@ -7488,6 +7487,7 @@ diglottism
 detrimentally
 dowage
 deviate
+defecting
 dancer
 deepgoing
 disseised
