@@ -1783,6 +1783,7 @@ debark
 dropseed
 drawknife
 debarking
+discriminatory
 debarment
 dysaesthesia
 debarrance
@@ -6431,7 +6432,6 @@ derride
 denationalize
 dovetailer
 dactyli
-discriminatory
 drung
 decenter
 disencumbered
