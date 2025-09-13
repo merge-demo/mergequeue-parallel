@@ -3009,7 +3009,6 @@ cantles
 cantlet
 cantline
 chromophore
-cantling
 canto
 confederatism
 cortege
@@ -23497,6 +23496,7 @@ contempts
 contemptuous
 contemptuously
 cruelty
+cantling
 cholecystocolotomy
 compassless
 ceorlish
