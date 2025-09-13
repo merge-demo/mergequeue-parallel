@@ -7271,6 +7271,7 @@ assecurator
 albigensian
 alveolonasal
 albigensianism
+anesthetization
 andronitis
 angularness
 abietene
@@ -12449,7 +12450,6 @@ anesthesiologists
 angelophany
 anesthesis
 asarh
-anesthetization
 anesthetize
 anesthetized
 amenableness
