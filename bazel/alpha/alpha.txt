@@ -17859,7 +17859,6 @@ arghel
 approbative
 approbativeness
 approof
-appropinquate
 appropinquation
 amalgamation
 appropinquity
@@ -20075,6 +20074,7 @@ arrayals
 arraign
 arraignable
 atroce
+appropinquate
 agaricales
 apodemata
 absently

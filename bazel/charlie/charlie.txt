@@ -13316,7 +13316,6 @@ churchwarden
 couverte
 cyclopedias
 cyclopedical
-cyclopentanone
 curlyhead
 covenanting
 candlestand
@@ -29964,6 +29963,7 @@ crotesco
 chimerism
 croton
 consulated
+cyclopentanone
 crotonaldehyde
 crotonate
 chitchat
