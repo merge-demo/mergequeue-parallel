@@ -1652,6 +1652,7 @@ deallocations
 desilverized
 deprival
 dextraural
+dyester
 dianoialogy
 decapsulation
 dishrag
@@ -10876,7 +10877,6 @@ determiners
 deistically
 departing
 directors
-dyester
 directorships
 dementate
 disjection
