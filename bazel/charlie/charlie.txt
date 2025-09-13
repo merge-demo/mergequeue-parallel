@@ -20540,7 +20540,6 @@ chained
 chemically
 cocarboxylase
 courtiership
-chrysenic
 compartmented
 centenionalis
 corundum
@@ -28866,6 +28865,7 @@ cholestane
 cotans
 cryanesthesia
 criant
+chrysenic
 carbonigenous
 corke
 crib
