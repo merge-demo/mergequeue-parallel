@@ -163,7 +163,6 @@ dado
 dacryolith
 drugstore
 doltishly
-dareall
 dadoes
 desireful
 dressage
@@ -7066,6 +7065,7 @@ daffodowndilly
 desponds
 diaster
 divinisation
+dareall
 didle
 diorama
 donkeys
