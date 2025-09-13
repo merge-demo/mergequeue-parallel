@@ -867,7 +867,6 @@ brierroot
 beflags
 bleachs
 bongos
-blackboards
 backband
 bootblack
 bloody
@@ -8459,6 +8458,7 @@ balks
 biscanism
 buybacks
 bijoux
+blackboards
 bronchography
 braes
 braillist
