@@ -6077,6 +6077,7 @@ abluted
 arvicolinae
 annulettee
 ambisextrous
+apodosis
 allodian
 amassed
 arrau
@@ -11312,7 +11313,6 @@ ampul
 autoexcitation
 archduke
 anhydremia
-apodosis
 arachnological
 amphioxus
 ampulliform
