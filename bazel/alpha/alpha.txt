@@ -10655,7 +10655,6 @@ alvearium
 apositic
 amount
 albuginitis
-affa
 antiphthisical
 asterisked
 amissible
@@ -19119,6 +19118,7 @@ arder
 ardhanari
 antisceptic
 amphigaean
+affa
 abacaxi
 archconsoler
 ardilla
