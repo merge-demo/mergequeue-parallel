@@ -16508,6 +16508,7 @@ divestible
 decolourise
 dozed
 dozens
+driftlet
 dishpan
 disports
 dimetry
@@ -18510,7 +18511,6 @@ dissentiently
 dipsomania
 durain
 dementi
-driftlet
 declamator
 duramens
 duffer
