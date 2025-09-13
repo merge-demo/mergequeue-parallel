@@ -3258,6 +3258,7 @@ demijohn
 duet
 dolabre
 dolliness
+delaying
 deciduary
 decolored
 decapitalization
@@ -3286,7 +3287,6 @@ dynamometry
 digestif
 defoliant
 datiscoside
-delaying
 discloister
 daemonurgy
 divisionistic
