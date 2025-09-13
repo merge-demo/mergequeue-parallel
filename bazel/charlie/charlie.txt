@@ -2264,6 +2264,7 @@ canailles
 cymoid
 chargeship
 commonwealth
+cystoscopic
 cytopahgous
 canakin
 canakins
@@ -10970,7 +10971,6 @@ commenceable
 chiropody
 cheekish
 comitatus
-cystoscopic
 chiropodial
 chiropodical
 caphite
