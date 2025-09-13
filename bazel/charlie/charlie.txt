@@ -7878,7 +7878,6 @@ cestoids
 cestraction
 chairs
 colessees
-cestrian
 conned
 cesural
 cetaceans
@@ -20698,6 +20697,7 @@ complain
 complainant
 complainants
 conventionism
+cestrian
 canalized
 complained
 complainingly
