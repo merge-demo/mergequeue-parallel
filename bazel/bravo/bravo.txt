@@ -2369,7 +2369,6 @@ banshie
 bendell
 beylical
 brakemen
-belabors
 barcoo
 bemoisten
 bardcraft
@@ -6889,6 +6888,7 @@ basaltiform
 broadleaf
 beshow
 biokinetics
+belabors
 birdeen
 batching
 brachinus

@@ -11338,7 +11338,6 @@ ajugas
 archpriestship
 antigod
 attendants
-aneroids
 alterations
 acrostical
 apiphobia
@@ -12459,6 +12458,7 @@ arab
 aranyaka
 anethol
 anethols
+aneroids
 avertible
 anetiological
 afterwork
