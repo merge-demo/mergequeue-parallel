@@ -2943,7 +2943,6 @@ cantharic
 cantharidae
 cake
 chytrid
-clubweed
 cantharidate
 compsognathus
 cantharides
@@ -26794,6 +26793,7 @@ counterextension
 circumduce
 counterfact
 carniferous
+clubweed
 counterfactual
 chilled
 captivately
