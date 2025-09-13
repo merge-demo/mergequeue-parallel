@@ -9230,7 +9230,6 @@ chatchke
 chatchkes
 chondrogenous
 chateaugray
-chateaus
 chateaux
 cordmaker
 chatelaines
@@ -28895,6 +28894,7 @@ convocated
 cricetidae
 chrysal
 curtseyed
+chateaus
 crancelin
 crimmy
 cricetids
