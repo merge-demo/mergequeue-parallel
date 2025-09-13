@@ -7882,6 +7882,7 @@ bibliopolically
 bibliopolist
 barrabora
 befall
+biggies
 bibliosoph
 bibliothecarian
 bibliotheque
@@ -8291,7 +8292,6 @@ biggie
 beribboned
 bradyauxetic
 breezier
-biggies
 boychik
 boycottage
 burglarised
