@@ -4111,6 +4111,7 @@ cortaro
 cardiologic
 cardiologists
 cardiomegaly
+clinicist
 cyclus
 cardiomelanosis
 contradivide
@@ -30621,7 +30622,6 @@ compole
 cucurbita
 cucurbitaceous
 cucurbite
-clinicist
 cucurbitine
 carpeting
 cloudcap
