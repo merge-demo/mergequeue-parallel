@@ -13413,7 +13413,6 @@ assonant
 agnostic
 allusory
 anacardiaceae
-atwain
 adjutor
 announce
 anthropophagical
@@ -15047,6 +15046,7 @@ antievolution
 antievolutionary
 anteconsonantal
 assimulate
+atwain
 anhemolytic
 antiexpansion
 antiexpansionism
