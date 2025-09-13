@@ -11065,7 +11065,6 @@ amphibole
 alkide
 addictive
 analgesis
-amphiboles
 achtel
 amphiboly
 argh
@@ -22539,6 +22538,7 @@ archbuffoon
 ark
 ateuchi
 atherosclerosis
+amphiboles
 atherosclerotic
 arts
 avulsing
