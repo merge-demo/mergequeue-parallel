@@ -395,7 +395,6 @@ diarists
 discoloured
 daymark
 doupion
-daimiate
 daimiel
 davallia
 dol
@@ -15851,6 +15850,7 @@ dewools
 disbuds
 duellistic
 dorsomedial
+daimiate
 diaxonic
 dithyrambus
 disyntheme
