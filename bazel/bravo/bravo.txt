@@ -9934,7 +9934,6 @@ baldmoneys
 basin
 bivariant
 baddock
-bivascular
 bismuthyl
 beechy
 babyhoods
@@ -16360,6 +16359,7 @@ buttons
 betrace
 brolly
 bouffage
+bivascular
 boorishly
 bellwine
 bollixed
