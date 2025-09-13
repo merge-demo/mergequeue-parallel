@@ -3244,6 +3244,7 @@ deionizes
 devonite
 definiens
 derencephalocele
+diatomous
 demijohn
 duet
 dolabre
@@ -17607,7 +17608,6 @@ drumlinoid
 decelerated
 disembower
 dactylate
-diatomous
 drumlins
 dorsiferous
 diciest
