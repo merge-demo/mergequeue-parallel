@@ -2475,6 +2475,7 @@ blurriest
 bandelet
 barfish
 billbugs
+bathyhyperesthesia
 beechwoods
 burian
 bhut
@@ -3547,7 +3548,6 @@ brainteasers
 beuniformed
 brahmanists
 bathycolpic
-bathyhyperesthesia
 binode
 bathylithic
 bodybuilders
