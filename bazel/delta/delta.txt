@@ -7324,6 +7324,7 @@ deuce
 daftar
 data
 dear
+durham
 diamondlike
 deteriorative
 dravida
@@ -10600,7 +10601,6 @@ dirges
 doxographical
 dittology
 domestic
-durham
 distributions
 documented
 decoctible
