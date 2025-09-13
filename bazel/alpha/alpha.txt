@@ -4292,6 +4292,7 @@ allemande
 adumbrative
 adunation
 adunc
+ambries
 aduncate
 arrhythmical
 amyraldist
@@ -17493,7 +17494,6 @@ appellable
 abraded
 anapests
 alburnums
-ambries
 anachronistically
 amylogenesis
 arsenotherapy
