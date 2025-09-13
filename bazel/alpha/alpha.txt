@@ -4943,7 +4943,6 @@ adularescent
 albruna
 allantoidal
 aerotonometric
-antepagmenta
 aeruginous
 aerugo
 aerugos
@@ -7419,6 +7418,7 @@ albumose
 albums
 apnoeas
 anelectrotonic
+antepagmenta
 ahind
 arithmetizations
 arrestable
