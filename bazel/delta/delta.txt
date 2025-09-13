@@ -3959,7 +3959,6 @@ dispensatorily
 delaminating
 dort
 decorous
-dooley
 dirge
 dial
 damascus
@@ -17862,6 +17861,7 @@ ducs
 determents
 disaggregate
 diluents
+dooley
 depolarising
 dhunchee
 dislodge
