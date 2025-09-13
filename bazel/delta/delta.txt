@@ -8205,6 +8205,7 @@ discursativeness
 diachronically
 dicranum
 diacid
+douziemes
 driven
 detachment
 damselhood
@@ -16266,7 +16267,6 @@ domable
 decrypted
 decalescence
 dualist
-douziemes
 dysmeromorphic
 dovecot
 dhows
