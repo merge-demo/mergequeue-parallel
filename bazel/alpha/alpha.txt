@@ -1027,6 +1027,7 @@ araca
 absurdity
 anamnia
 absurdly
+adiaphorism
 asimina
 arsenization
 apologizer
@@ -17502,7 +17503,6 @@ anthracitious
 aminobenzene
 annihilationist
 antifederalist
-adiaphorism
 alunite
 antirepublican
 appendaged
