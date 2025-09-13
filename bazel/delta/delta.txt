@@ -11052,7 +11052,6 @@ defoam
 disseizure
 dayblush
 deboistness
-disemploying
 disaligned
 disalliege
 dihalogen
@@ -11534,6 +11533,7 @@ defalcations
 discolorment
 discolouring
 decatyl
+disemploying
 discolourization
 discourt
 discombobulate
