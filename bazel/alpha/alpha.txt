@@ -13777,7 +13777,6 @@ abstrusely
 abkhas
 ant
 ahong
-antheroid
 averageness
 antaean
 antaeus
@@ -16158,6 +16157,7 @@ ascaridol
 arthrocace
 abbreviating
 allelotropy
+antheroid
 audibility
 argali
 arish
