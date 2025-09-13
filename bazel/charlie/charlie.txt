@@ -25400,6 +25400,7 @@ convergent
 centrifuged
 coarsish
 crotcheted
+crine
 cogences
 cornicles
 corniculer
@@ -30735,7 +30736,6 @@ caul
 chicles
 castelet
 cuisines
-crine
 clasping
 cuisse
 canonical
