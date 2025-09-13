@@ -93,7 +93,6 @@ cabezon
 casa
 chromeplate
 competitors
-cabezone
 cabful
 cabiai
 canephorus
@@ -5774,6 +5773,7 @@ clothesless
 cretionary
 colorlessness
 chaffier
+cabezone
 catella
 conferruminate
 ctenodactyl
