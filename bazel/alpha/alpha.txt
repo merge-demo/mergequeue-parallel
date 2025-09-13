@@ -8124,7 +8124,6 @@ aposporous
 anonad
 asok
 autocoprophagous
-acquaintedness
 alienability
 acceleratory
 atwo
@@ -24034,6 +24033,7 @@ autogamic
 autogamies
 autogamous
 anagogy
+acquaintedness
 autotype
 afreets
 antifeministic
