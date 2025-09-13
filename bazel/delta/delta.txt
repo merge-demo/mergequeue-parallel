@@ -1211,6 +1211,7 @@ dunts
 datagram
 datagrams
 degging
+dryster
 dermatosiophobia
 doormat
 devilhood
@@ -1406,7 +1407,6 @@ dechoralize
 dawdy
 deportation
 dawdlingly
-dryster
 dichotomized
 damnit
 demythify
