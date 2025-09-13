@@ -15556,6 +15556,7 @@ blastomas
 brits
 bridlewise
 battledoring
+bequeather
 belgic
 boza
 barotaxis
@@ -17020,7 +17021,6 @@ bulldozing
 beduck
 brahmanism
 bulleted
-bequeather
 bulletheadedness
 birdcall
 baptornis
