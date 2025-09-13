@@ -21904,6 +21904,7 @@ confectioner
 continues
 confabbing
 confed
+countersignature
 confederalist
 confederate
 contrastedly
@@ -27939,7 +27940,6 @@ craftworker
 crag
 craggan
 confers
-countersignature
 chromatometer
 craggy
 chromoscopic
