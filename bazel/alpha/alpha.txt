@@ -5348,6 +5348,7 @@ afterclause
 aftercome
 australasian
 acrostichic
+abbot
 autocamper
 aftercooler
 alahee
@@ -9382,7 +9383,6 @@ alteration
 abettals
 althein
 amphophil
-abbot
 alterative
 altercated
 algebraization
