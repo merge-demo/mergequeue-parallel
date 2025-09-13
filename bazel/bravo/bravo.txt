@@ -19,7 +19,6 @@ bureaucratist
 brachial
 bionergy
 babbitted
-beshell
 beneceptive
 boneheaded
 bespeech
@@ -11610,6 +11609,7 @@ boaster
 boastfulness
 bacchus
 boasts
+beshell
 bryologist
 bosket
 breakfasts
