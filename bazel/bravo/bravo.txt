@@ -5286,6 +5286,7 @@ boldin
 bournes
 begirds
 batons
+buddler
 bickered
 beefed
 bemolt
@@ -11506,7 +11507,6 @@ blunthearted
 botanized
 bilateralness
 biosystematist
-buddler
 brownshirt
 birdwomen
 biotron
