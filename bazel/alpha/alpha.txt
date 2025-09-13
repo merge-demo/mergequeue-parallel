@@ -9821,7 +9821,6 @@ amaurosis
 amaze
 airlocks
 amazedly
-antarctically
 abstriction
 amazeful
 anatomicopathological
@@ -17367,6 +17366,7 @@ apyretic
 asmalte
 asciferous
 apotropous
+antarctically
 acipenser
 aggressively
 anthomedusan
