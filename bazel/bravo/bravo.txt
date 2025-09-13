@@ -5623,7 +5623,6 @@ belderroot
 bongar
 beleapt
 belection
-brining
 belecture
 brutedom
 biers
@@ -13388,6 +13387,7 @@ brosimum
 bothrium
 bries
 bothrodendron
+brining
 blackcap
 bookdealer
 babyhood
