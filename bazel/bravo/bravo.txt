@@ -4414,7 +4414,6 @@ billard
 braised
 behinds
 beached
-bestuur
 becomed
 bungs
 becometh
@@ -15411,6 +15410,7 @@ boiling
 bryndza
 barrater
 bleaters
+bestuur
 balloonfish
 bearskins
 bloodworm
