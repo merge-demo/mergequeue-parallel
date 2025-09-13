@@ -10498,7 +10498,6 @@ badasses
 blastula
 boswellia
 bigwigs
-benediction
 blastulation
 bootstrapping
 blepharoatheroma
@@ -15540,6 +15539,7 @@ biting
 britannically
 backstaff
 brashy
+benediction
 bluebonnets
 blennophlogosis
 becollier
