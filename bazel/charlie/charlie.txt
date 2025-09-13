@@ -14100,7 +14100,6 @@ circled
 catskin
 cardcastle
 coppled
-corticoid
 cyclographer
 coonhound
 cochleas
@@ -22114,6 +22113,7 @@ champert
 conormal
 cheateries
 caroach
+corticoid
 conformability
 cyprinoid
 cashierer
