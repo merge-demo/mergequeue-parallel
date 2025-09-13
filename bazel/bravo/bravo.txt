@@ -742,6 +742,7 @@ badgerlike
 bending
 burlaps
 befoul
+brewing
 bandsawing
 badges
 berther
@@ -13830,7 +13831,6 @@ bluebush
 bombardiers
 bower
 baggings
-brewing
 bedplates
 bavaroy
 bowerlet
