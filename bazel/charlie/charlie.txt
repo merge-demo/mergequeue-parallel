@@ -11043,7 +11043,6 @@ chisellike
 coevolvedcoevolves
 calamagrostis
 chiselmouth
-chisled
 chemoprophylaxis
 clarkeites
 conichalcite
@@ -15365,6 +15364,7 @@ clank
 clanked
 choledocholithotomy
 clanking
+chisled
 chlorimetry
 clankingly
 cornfloor
