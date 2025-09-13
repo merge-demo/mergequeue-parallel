@@ -6317,6 +6317,7 @@ arnold
 apostrophic
 akov
 allosyndetic
+aristoi
 acquitting
 acalycinous
 aha
@@ -21502,7 +21503,6 @@ asprout
 antu
 anamniote
 archical
-aristoi
 astringed
 algolagnist
 asquare
