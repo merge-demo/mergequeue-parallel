@@ -5641,6 +5641,7 @@ demographical
 disorganiser
 disprivilege
 depravingly
+disinterest
 dorsumbonal
 disfeaturing
 dentistries
@@ -14935,7 +14936,6 @@ doctorial
 disadjust
 doctoring
 doctorize
-disinterest
 dheneb
 distinctness
 decadescent
