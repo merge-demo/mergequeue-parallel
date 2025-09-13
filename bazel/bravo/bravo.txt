@@ -4066,7 +4066,6 @@ bestiaries
 broadax
 basinet
 boondoggles
-behalves
 bearbaiter
 bedmaking
 betoil
@@ -10508,6 +10507,7 @@ blepharoatheroma
 break
 bipectinate
 bulbocodium
+behalves
 blup
 bibless
 bipartizan
