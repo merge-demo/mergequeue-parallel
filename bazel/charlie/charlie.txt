@@ -9147,6 +9147,7 @@ charts
 cozening
 caulite
 coderive
+cachalot
 cerebrovisceral
 churchlier
 curagh
@@ -17002,7 +17003,6 @@ creatureliness
 centrechinoida
 classis
 cotes
-cachalot
 caviar
 clupien
 cenotaphs
