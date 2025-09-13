@@ -6314,7 +6314,6 @@ bardo
 booleys
 bequeath
 burdener
-benzofulvene
 bibasic
 benzofuran
 benzofuryl
@@ -14734,6 +14733,7 @@ bismarckianism
 babel
 brightener
 blent
+benzofulvene
 bedimplies
 biophysical
 bisymmetrically
