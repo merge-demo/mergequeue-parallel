@@ -8099,6 +8099,7 @@ beltmaker
 besieging
 bloodhound
 bidiagonal
+bahnung
 befouls
 bidirectional
 biophagy
@@ -11703,7 +11704,6 @@ birthmate
 bestubbled
 bobeche
 brazenfaced
-bahnung
 britzska
 bumkins
 befop
