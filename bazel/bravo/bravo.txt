@@ -6720,6 +6720,7 @@ berserker
 baldacchini
 bin
 barnumize
+bolograph
 balize
 berhyme
 bestials
@@ -17152,7 +17153,6 @@ bromindigo
 bullwort
 bulrush
 boonies
-bolograph
 balladier
 bumbailiffship
 basidigitalia
