@@ -7784,7 +7784,6 @@ bufonite
 blinker
 borazon
 balneography
-botchka
 bearable
 bibelots
 berdash
@@ -17367,6 +17366,7 @@ bespattered
 bacteriophagia
 bandbox
 boettner
+botchka
 baldish
 borzicactus
 bunkering

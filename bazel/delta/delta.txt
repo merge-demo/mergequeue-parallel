@@ -5619,6 +5619,7 @@ depersonalized
 deflated
 doryphoros
 dacelo
+dismoded
 defrauded
 discouraging
 duddy
@@ -7477,7 +7478,6 @@ deathsmen
 detrect
 detrench
 demigentleman
-dismoded
 diapensia
 dextranase
 daddynut
