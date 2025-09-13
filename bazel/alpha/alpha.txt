@@ -15626,7 +15626,6 @@ antipatriarch
 antipatriarchy
 aurinasal
 antipatriot
-antipatriotic
 abkary
 antipatriotism
 athyreosis
@@ -16406,6 +16405,7 @@ aob
 acetabuliferous
 aristogenics
 antimicrobial
+antipatriotic
 abirritation
 aogiri
 astrally
