@@ -16009,7 +16009,6 @@ asset
 ascertainable
 advection
 anabaptizing
-anearing
 antiseptize
 antisera
 arbitraries
@@ -18489,6 +18488,7 @@ arcadias
 ardure
 arcana
 aggravate
+anearing
 allurer
 adenographer
 aperch
