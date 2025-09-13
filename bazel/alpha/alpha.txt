@@ -12415,6 +12415,7 @@ attire
 anitrogenous
 aeropleustic
 accelerations
+agrimotor
 aucupate
 avowter
 alights
@@ -20824,7 +20825,6 @@ ascape
 amidid
 angara
 aphasias
-agrimotor
 ascariasis
 apulian
 aerodynamicist
