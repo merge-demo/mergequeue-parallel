@@ -1678,7 +1678,6 @@ bogtrot
 ballsier
 boycotter
 borrowable
-bengali
 ballweed
 brehon
 breechcloths
@@ -10681,6 +10680,7 @@ benton
 balanophora
 bedrocks
 blenching
+bengali
 blend
 bestill
 blendwater
