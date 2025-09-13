@@ -640,6 +640,7 @@ abbreviated
 autotomic
 azumbre
 azoted
+acidometry
 abominations
 arithmocracy
 affably
@@ -2227,7 +2228,6 @@ acidometer
 allotting
 antipathies
 anacardium
-acidometry
 antinationalization
 asmear
 acidophilic
