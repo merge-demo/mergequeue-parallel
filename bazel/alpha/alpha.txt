@@ -12666,6 +12666,7 @@ angiotelectasia
 administerd
 alcedo
 angiotensinase
+antithyroid
 agrogeologically
 armata
 antihysteric
@@ -16167,7 +16168,6 @@ affination
 antithetic
 achropsia
 arcosoliulia
-antithyroid
 algolagnic
 anilid
 anallagmatic
