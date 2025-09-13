@@ -1413,6 +1413,7 @@ cheapener
 calyptratae
 calyptriform
 coracoscapular
+canarsee
 ceriornis
 carnosin
 calisayas
@@ -2364,7 +2365,6 @@ cohobates
 clum
 canarine
 canarium
-canarsee
 cuj
 cassie
 coordinateness
