@@ -12181,7 +12181,6 @@ chrysaniline
 chrysanisic
 cushiony
 chrysaor
-chaptering
 chrysazol
 crateral
 chryselectrum
@@ -24889,6 +24888,7 @@ coralline
 cuichunchulli
 cerithiidae
 citronalis
+chaptering
 canonizant
 caoutchouc
 corallium
