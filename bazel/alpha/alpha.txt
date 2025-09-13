@@ -2220,6 +2220,7 @@ azerbaijanese
 anna
 avives
 acidly
+angiectopia
 appling
 acetaminol
 acidnesses
@@ -14498,7 +14499,6 @@ antecoxal
 antistrophize
 antialcoholist
 antialdoxime
-angiectopia
 anchorless
 anthropogeographer
 autocue
