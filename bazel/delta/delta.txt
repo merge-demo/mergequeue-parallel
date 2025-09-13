@@ -6007,6 +6007,7 @@ dropforged
 deprome
 drawling
 desertrice
+disdainous
 deprostrate
 deviscerate
 draughtiest
@@ -13943,7 +13944,6 @@ daffydowndilly
 dynamogeneses
 diacope
 deodand
-disdainous
 dishonoring
 dedication
 distinction
