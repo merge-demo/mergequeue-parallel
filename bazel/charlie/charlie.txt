@@ -6604,7 +6604,6 @@ cedry
 codeia
 cedrin
 crenellation
-countervailed
 cedriret
 cedrol
 corticiform
@@ -16157,6 +16156,7 @@ chymosinogen
 crownbeard
 climacus
 climant
+countervailed
 climata
 celebesian
 crannied
