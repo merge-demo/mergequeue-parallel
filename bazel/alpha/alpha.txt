@@ -137,7 +137,6 @@ abater
 alanyl
 amusedly
 abating
-abatis
 abatised
 amine
 antiatoms
@@ -24889,6 +24888,7 @@ awaitlala
 awakable
 anhydrous
 apetaloid
+abatis
 awake
 aquocarbonic
 awakeable
