@@ -9810,6 +9810,7 @@ basidigitale
 beaches
 bito
 baptistry
+baillie
 bitonalities
 belibeling
 batakan
@@ -17907,7 +17908,6 @@ bastinaded
 beminstrel
 bravoite
 bushless
-baillie
 bareness
 bottega
 bushmaker
