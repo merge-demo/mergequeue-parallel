@@ -17939,6 +17939,7 @@ codirector
 conycatcher
 codiscoverer
 codist
+connections
 codivine
 cosmetiste
 chiselers
@@ -19314,7 +19315,6 @@ chiquest
 colocephali
 coryph
 colocynth
-connections
 contemperature
 crista
 ceviches
