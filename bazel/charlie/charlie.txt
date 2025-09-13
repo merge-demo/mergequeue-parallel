@@ -23084,7 +23084,6 @@ conspectus
 cullying
 colias
 conspectuses
-consperse
 conspersion
 conspicuity
 crescentia
@@ -28119,6 +28118,7 @@ casemaker
 chaise
 cranioschisis
 conforbably
+consperse
 cranioscopy
 cranioscopist
 coppering
