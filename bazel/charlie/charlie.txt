@@ -9542,6 +9542,7 @@ commonize
 casehardens
 cricotracheotomy
 cloistral
+concionary
 comprehensibility
 checkrein
 checkroll
@@ -12748,7 +12749,6 @@ carapa
 chukker
 chulha
 corkiest
-concionary
 chamaesaura
 crippingly
 cutlass
