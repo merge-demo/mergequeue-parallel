@@ -6046,6 +6046,7 @@ disoccupy
 disjeune
 deadman
 dandered
+disengagement
 decoupling
 disingenuously
 droop
@@ -6788,7 +6789,6 @@ desynonymize
 deevey
 dopatta
 dentality
-disengagement
 demodex
 desiodothyroxine
 dryerman
