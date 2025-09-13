@@ -2436,7 +2436,6 @@ decimolar
 drainpipe
 downgoing
 dangling
-denizenize
 disimprisonment
 dissipable
 dietetist
@@ -12779,6 +12778,7 @@ difference
 dislocability
 doddered
 dosimetry
+denizenize
 dustcloth
 dehydratase
 doggrels
