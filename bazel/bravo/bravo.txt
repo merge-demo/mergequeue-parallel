@@ -6972,7 +6972,6 @@ branchiostomidae
 ballpoints
 bowingly
 bookbinder
-balsamous
 beryciform
 blepharedema
 balantidiosis
@@ -13000,6 +12999,7 @@ bombarde
 bibles
 baptismally
 baiginet
+balsamous
 boraginaceous
 borago
 bugger
