@@ -2197,6 +2197,7 @@ camptosorus
 cabaan
 campus
 chromatic
+chatelain
 colonette
 campusses
 campward
@@ -9231,7 +9232,6 @@ chondrogenous
 chateaugray
 chateaus
 chateaux
-chatelain
 cordmaker
 chatelaines
 chemotherapists
