@@ -8183,6 +8183,7 @@ bewaring
 biflex
 bistort
 beshiver
+boddagh
 bifocal
 bejumbles
 berith
@@ -8450,7 +8451,6 @@ beaufin
 barrooms
 bromeosin
 bilin
-boddagh
 bylina
 brummer
 bidry
