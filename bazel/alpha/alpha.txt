@@ -15941,7 +15941,6 @@ anaphasic
 adenophyma
 antirevolution
 antirevolutionist
-antirheumatic
 absentees
 anaptyxes
 antiricin
@@ -19053,6 +19052,7 @@ antisepticize
 arclike
 astragaloscaphoid
 arcocentrum
+antirheumatic
 antipathogenic
 actualism
 arcograph
