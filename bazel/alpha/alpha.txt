@@ -7314,6 +7314,7 @@ apertly
 anilinctus
 albitic
 albitite
+antichretic
 acutiator
 anguilla
 angulare
@@ -22406,7 +22407,6 @@ atechnical
 atef
 assay
 angelim
-antichretic
 anahao
 advices
 ateles
