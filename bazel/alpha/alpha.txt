@@ -4923,7 +4923,6 @@ automechanism
 alexinic
 aerosolized
 aerostatic
-attainments
 argas
 angioscope
 aerosteam
@@ -10000,6 +9999,7 @@ aspirin
 atmological
 aggadic
 adjutage
+attainments
 archaeopithecus
 anaheim
 ashfall
