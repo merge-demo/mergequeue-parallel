@@ -284,7 +284,6 @@ dagobas
 doxologized
 desynaptic
 dizzard
-dagomba
 dagswain
 dolichopodous
 dhotee
@@ -7448,6 +7447,7 @@ detonative
 dantomania
 duncifying
 detectability
+dagomba
 detouring
 diaheliotropic
 deactivation
