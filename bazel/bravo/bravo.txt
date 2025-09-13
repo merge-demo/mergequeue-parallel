@@ -5909,7 +5909,6 @@ beltless
 benchmarks
 brickkiln
 biauriculate
-beltman
 belts
 bartlemy
 bloodspilling
@@ -11065,6 +11064,7 @@ ballyhooer
 blocked
 blocker
 brid
+beltman
 becudgels
 bilgier
 beguines

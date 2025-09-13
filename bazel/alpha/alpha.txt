@@ -968,7 +968,6 @@ abstractable
 additives
 abstractest
 ambilateral
-adequacy
 abstraction
 abstractional
 abstractionist
@@ -17570,6 +17569,7 @@ andreaeaceae
 airt
 appenzell
 abdominales
+adequacy
 appreciator
 almandite
 apperceptionism
