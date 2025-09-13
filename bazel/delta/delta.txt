@@ -1226,7 +1226,6 @@ disparison
 demiassignation
 deciliter
 dragooner
-deleads
 dulcinist
 dextrines
 dialyzers
@@ -15872,6 +15871,7 @@ deproceduring
 dormers
 doeg
 dormette
+deleads
 dormeuse
 dormilona
 dormitories
