@@ -5555,7 +5555,6 @@ disattire
 debunked
 deutomala
 dermoskeletal
-dimers
 disrobers
 decussion
 desiccate
@@ -10063,6 +10062,7 @@ dogwood
 dottle
 dreaming
 dolerites
+dimers
 deinos
 dimple
 diplomas
