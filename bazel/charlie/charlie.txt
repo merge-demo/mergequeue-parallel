@@ -16837,7 +16837,6 @@ cloverlay
 citizen
 checkstrap
 clupeidae
-cloverleafs
 cloverleaves
 cloverley
 cycadophyte
@@ -24814,6 +24813,7 @@ corach
 creutzer
 coracial
 coracias
+cloverleafs
 charissa
 coracii
 coryzas
