@@ -13270,6 +13270,7 @@ buckra
 bucketfuls
 bostanji
 buffering
+brongniardite
 boulles
 biblus
 bostonian
@@ -15357,7 +15358,6 @@ brilliolette
 brills
 baculites
 banns
-brongniardite
 blazon
 bumper
 brodeglass
