@@ -5316,6 +5316,7 @@ cyanformic
 copulates
 castellum
 caster
+chromotropic
 crinicultural
 claustrophobia
 cyborg
@@ -12542,7 +12543,6 @@ cupper
 chilotomies
 chromotypography
 chromotropy
-chromotropic
 cradleboard
 concepts
 capsular
