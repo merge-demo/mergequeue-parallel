@@ -19725,7 +19725,6 @@ armarian
 armarium
 armariumaria
 atli
-armatoles
 auxilium
 arette
 arsphenamine
@@ -25314,6 +25313,7 @@ authority
 amontillados
 azohumic
 azoic
+armatoles
 appellancy
 azoles
 azon
