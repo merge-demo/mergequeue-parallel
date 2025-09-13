@@ -11483,7 +11483,6 @@ bluggy
 bispore
 blastomycotic
 bluish
-blumes
 benighting
 blunderbuss
 borasqueborate
@@ -17622,6 +17621,7 @@ basipterygoid
 breadless
 brazilette
 besit
+blumes
 bino
 boff
 bemartyr
