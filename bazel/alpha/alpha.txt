@@ -7924,6 +7924,7 @@ anthropocosmic
 acrosporous
 ambusher
 alfione
+affabrous
 alrune
 airworthy
 arithmetically
@@ -19609,7 +19610,6 @@ aptera
 alphyn
 aggregates
 aristocraticism
-affabrous
 appeasement
 adenosarcomas
 absorbability
