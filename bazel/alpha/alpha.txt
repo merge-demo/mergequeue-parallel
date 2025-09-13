@@ -1269,7 +1269,6 @@ apomicts
 acatalepsy
 acatalepsia
 acataleptic
-autosomally
 affrontee
 acatamathesia
 artinskian
@@ -21344,6 +21343,7 @@ amberlike
 anatira
 afshah
 anthologise
+autosomally
 anosmatic
 analogise
 aegagropiles
