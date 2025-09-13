@@ -2742,7 +2742,6 @@ antenniform
 acromiohumeral
 awanyu
 antichurchian
-acromiothoracic
 apicitis
 addaxes
 actuals
@@ -9209,6 +9208,7 @@ alemana
 aristolochine
 accidental
 alonzo
+acromiothoracic
 aloof
 aloofly
 alop
