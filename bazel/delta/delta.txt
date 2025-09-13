@@ -3890,6 +3890,7 @@ daphnite
 dagoes
 deja
 devon
+dielec
 decussatively
 delighted
 dejection
@@ -13254,7 +13255,6 @@ decentralization
 doused
 dechloridizing
 decelerometer
-dielec
 distils
 disreverence
 displeasing
