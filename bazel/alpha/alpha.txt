@@ -1859,6 +1859,7 @@ amenders
 arctisca
 apersee
 acetylcellulose
+allosteric
 antietam
 albitical
 admiralships
@@ -8882,7 +8883,6 @@ arsnicker
 acaena
 aureolas
 allosome
-allosteric
 anthropomorphising
 archiving
 annihilated
