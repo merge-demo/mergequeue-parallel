@@ -4744,7 +4744,6 @@ amphibiology
 aloma
 amability
 atake
-anthoecology
 amphistomous
 aerodynamics
 agonium
@@ -9250,6 +9249,7 @@ acerose
 alphabetic
 alphabetical
 alphabetically
+anthoecology
 artillerymen
 abbotships
 adenolymphoma
