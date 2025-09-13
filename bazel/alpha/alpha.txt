@@ -19585,7 +19585,6 @@ ariser
 arises
 attercrop
 apl
-aristae
 affirmatively
 alfarga
 aluminic
@@ -23157,6 +23156,7 @@ attrectation
 adventitia
 araracanga
 azocyclic
+aristae
 azophenol
 aestivate
 accordances

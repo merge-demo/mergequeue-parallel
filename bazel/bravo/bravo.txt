@@ -7460,7 +7460,6 @@ bastonite
 businessman
 bevil
 bevillain
-befell
 bigeye
 bashaws
 bedote
@@ -16390,6 +16389,7 @@ bumpkinish
 bluejack
 biscacha
 borasque
+befell
 bruskly
 banned
 bozal
