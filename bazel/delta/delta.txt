@@ -2836,7 +2836,6 @@ depriver
 disposure
 diplodocuses
 disgenius
-deepest
 dys
 denticles
 dictyopteris
@@ -10469,6 +10468,7 @@ damask
 discolith
 devinct
 dow
+deepest
 disobliging
 douzainier
 definienda
