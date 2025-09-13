@@ -2693,6 +2693,7 @@ acrodactyla
 acrodermatitis
 acrodynia
 anapophyses
+architectonics
 acrodont
 abalienation
 akroteria
@@ -15440,7 +15441,6 @@ arnattos
 antimonid
 airampo
 antilapse
-architectonics
 analyzable
 argiopoidea
 anthropophagi
