@@ -10458,7 +10458,6 @@ cozenage
 comitadji
 clear
 crackskull
-cored
 crosswalk
 chiffre
 cotyle
@@ -23915,6 +23914,7 @@ controverted
 canistel
 controvertible
 controverting
+cored
 coracine
 cullender
 counterproof
