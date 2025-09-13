@@ -10506,7 +10506,6 @@ bigwigs
 benediction
 blastulation
 bootstrapping
-briton
 blepharoatheroma
 break
 bipectinate
@@ -16336,6 +16335,7 @@ bouffes
 bullimong
 bathroot
 bigotry
+briton
 bryanthus
 boroughs
 barmiest
