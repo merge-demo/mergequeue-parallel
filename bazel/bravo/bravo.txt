@@ -3017,7 +3017,6 @@ boist
 bartenders
 banba
 bartending
-basset
 bumaloe
 butterflyer
 blechnoid
@@ -3953,6 +3952,7 @@ battleward
 bowed
 bumpiest
 bisulphate
+basset
 boltspreet
 bromoiodide
 bondon
