@@ -3045,7 +3045,6 @@ activate
 autocatalytically
 amphogenic
 ableptical
-activated
 activates
 appealers
 advolution
@@ -8941,6 +8940,7 @@ antiliberally
 allowancing
 alkalises
 ammonoid
+activated
 allowed
 asserters
 acquiescing
