@@ -16167,7 +16167,6 @@ corporatively
 cerenkov
 cestidae
 climatographical
-climatology
 climatological
 climatometer
 climaxed
@@ -19930,6 +19929,7 @@ comfortableness
 comfortation
 comfortative
 crumped
+climatology
 comfortlessly
 comfortlessness
 cytologists
