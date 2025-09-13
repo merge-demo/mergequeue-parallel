@@ -13597,7 +13597,6 @@ brin
 bordar
 berggylt
 blinded
-berate
 brassicaceous
 balklines
 bornyl
@@ -15412,6 +15411,7 @@ balloonfish
 bearskins
 bloodworm
 brineless
+berate
 bombardment
 bakery
 bratstva
