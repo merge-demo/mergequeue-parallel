@@ -10167,7 +10167,6 @@ counterexamples
 chevrolet
 chevrolets
 chlorodized
-chevron
 chiropatagium
 corresp
 charioteer
@@ -24285,6 +24284,7 @@ commercializations
 creeks
 cowbird
 coseier
+chevron
 cooboos
 chiogenes
 cysticarpium

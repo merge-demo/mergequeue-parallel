@@ -11854,7 +11854,6 @@ birthstones
 bodywork
 bodkin
 bicellular
-boardlike
 barmybrained
 bended
 bodonid
@@ -17563,6 +17562,7 @@ bonnive
 briefed
 boyfriends
 burgeons
+boardlike
 burger
 burgers
 becurtained
