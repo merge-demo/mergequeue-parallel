@@ -5379,7 +5379,6 @@ castlewards
 castlewise
 clepes
 castoffs
-castores
 coldly
 castoreum
 caftaned
@@ -21345,6 +21344,7 @@ counterguerrilla
 conchifera
 conuzee
 conchiferous
+castores
 caldadaria
 cappuccino
 compulsively
