@@ -9375,7 +9375,6 @@ bird
 boga
 birectangular
 bea
-belonid
 batteler
 bireme
 bluefin
@@ -11250,6 +11249,7 @@ blouses
 bloviated
 blowballs
 benzophenanthroline
+belonid
 bepress
 blowen
 blower
