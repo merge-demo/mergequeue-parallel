@@ -3203,7 +3203,6 @@ andean
 adamellite
 actorish
 allosyndesis
-arterialized
 antihierarchic
 adamine
 arborescence
@@ -9262,6 +9261,7 @@ alphabetized
 arthrochondritis
 arbalos
 alphabetizer
+arterialized
 acroblast
 auditioned
 axifera
