@@ -7968,7 +7968,6 @@ bicipital
 bewilderedness
 beslipper
 bespatterer
-bicircular
 bitemporal
 byname
 brainwashes
@@ -9497,6 +9496,7 @@ buccaro
 bisalt
 bettered
 bloodstream
+bicircular
 biblist
 breeching
 byes
