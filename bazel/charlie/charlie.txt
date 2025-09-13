@@ -5792,7 +5792,6 @@ catenative
 capomo
 compositorial
 catenoid
-cacozyme
 capuli
 culminant
 contiguous
@@ -14154,6 +14153,7 @@ crackleware
 caulerpa
 colanders
 cotyliform
+cacozyme
 circularization
 chartology
 conversably
