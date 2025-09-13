@@ -6575,6 +6575,7 @@ blastoma
 bobcat
 bronchia
 beezers
+buchanite
 bedstand
 bimane
 begreen
@@ -16572,7 +16573,6 @@ bezetta
 brevicipitid
 blackly
 burke
-buchanite
 baronies
 bucharest
 buchloe

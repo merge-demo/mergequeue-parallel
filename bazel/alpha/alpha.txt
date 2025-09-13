@@ -12543,7 +12543,6 @@ attle
 angelize
 angelized
 angellike
-arthrography
 antiquarism
 angelological
 angelomachy
@@ -22763,6 +22762,7 @@ atour
 amitie
 apathia
 aristarch
+arthrography
 annat
 amphidiscophora
 arioi
