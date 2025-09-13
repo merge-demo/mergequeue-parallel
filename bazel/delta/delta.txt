@@ -14250,7 +14250,6 @@ disyoked
 dungari
 doublet
 discardable
-deprivate
 dragoons
 disvisor
 dungs
@@ -15195,6 +15194,7 @@ dancetty
 diplanar
 doggish
 deads
+deprivate
 doggishness
 doggle
 doggo
