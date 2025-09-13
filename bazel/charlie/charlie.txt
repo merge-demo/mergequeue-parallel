@@ -2084,7 +2084,6 @@ chondrosarcomata
 campanulous
 cowbells
 chewed
-campbell
 combinant
 campbellisms
 cannonproof
@@ -22463,6 +22462,7 @@ ceric
 counterpointe
 cottonian
 craniol
+campbell
 cosmopolitic
 calends
 conines
