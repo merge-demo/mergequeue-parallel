@@ -18943,6 +18943,7 @@ adhering
 astronautical
 airmailed
 armorplated
+asservilize
 archocele
 archon
 alarm
@@ -21666,7 +21667,6 @@ asak
 alloeotic
 adsorbs
 acroteric
-asservilize
 asses
 anionics
 antifertilizer
