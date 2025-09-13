@@ -7412,7 +7412,6 @@ datsun
 disjunctive
 debatement
 deticker
-dogtoothing
 detinet
 decriminalizes
 deflagration
@@ -8628,6 +8627,7 @@ douanier
 dehydrant
 dextrorse
 duckhouse
+dogtoothing
 dyarchies
 davis
 dd

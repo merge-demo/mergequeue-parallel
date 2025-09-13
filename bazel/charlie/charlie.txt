@@ -4399,7 +4399,6 @@ canarin
 carl
 coprincipate
 caseates
-caulicle
 cert
 carli
 choruslike
@@ -5586,6 +5585,7 @@ chechia
 crook
 cataphrenic
 cataphrygian
+caulicle
 cataphrygianism
 cataplane
 cataplasia
