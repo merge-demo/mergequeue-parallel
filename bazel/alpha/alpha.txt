@@ -6373,7 +6373,6 @@ ahriman
 ahs
 ablare
 achromia
-anticommercialistic
 ahtena
 ahu
 anisopod
@@ -6903,6 +6902,7 @@ akebia
 actinia
 adoniram
 armature
+anticommercialistic
 althorns
 avick
 aphyllous
