@@ -3057,7 +3057,6 @@ cycadeous
 canvasado
 canvasbacks
 canvasers
-coralroot
 capriola
 canvasing
 causata
@@ -30594,6 +30593,7 @@ chloranemia
 corkscrewing
 cucujus
 callitype
+coralroot
 case
 cachila
 cucule
