@@ -4009,6 +4009,7 @@ doorsill
 disposal
 delegates
 delegateship
+demeore
 dermatosis
 dermographism
 digressiveness
@@ -4485,7 +4486,6 @@ decayers
 demythologised
 deboners
 dechemicalization
-demeore
 deincrustant
 dependant
 delftware
