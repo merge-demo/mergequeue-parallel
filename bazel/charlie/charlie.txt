@@ -3251,6 +3251,7 @@ capitations
 cyclotomy
 cystenchyme
 capite
+catalog
 christianized
 cymric
 capitellate
@@ -30313,7 +30314,6 @@ cataphysic
 clingstones
 crusaders
 coastways
-catalog
 coresidual
 crusets
 crushed
