@@ -3035,6 +3035,7 @@ alnaschar
 actiones
 actionist
 abrazitic
+araneologist
 ahamkara
 actionizing
 actionless
@@ -18288,7 +18289,6 @@ araneida
 afflictedness
 aficionado
 andromorphous
-araneologist
 aruspice
 arank
 aranzada
