@@ -133,6 +133,7 @@ dalan
 deadcenter
 drumsticks
 drawbench
+daggly
 dasyuroid
 draughtmanship
 deviascope
@@ -1034,7 +1035,6 @@ dineutron
 dicolon
 dharana
 dozily
-daggly
 disseises
 darksomeness
 darksum
