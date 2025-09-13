@@ -5703,6 +5703,7 @@ bifurcous
 bamboozled
 bell
 bellacoola
+berglet
 bellatrix
 bungler
 biliation
@@ -6579,7 +6580,6 @@ beefing
 bakshishing
 bergy
 bergylt
-berglet
 baseheartedness
 bergs
 beribanded
