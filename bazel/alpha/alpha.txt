@@ -14471,7 +14471,6 @@ antiabolitionist
 antiabortion
 acrotic
 abiotic
-antiabsolutist
 acacine
 allotrope
 antiacid
@@ -19297,6 +19296,7 @@ acadialite
 ascocarp
 argentamine
 acetaldol
+antiabsolutist
 atomistics
 amuser
 argentan
