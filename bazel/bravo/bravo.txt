@@ -926,7 +926,6 @@ blottiest
 bagong
 biblicistic
 bantingism
-biophysiological
 belowdecks
 bunions
 bookland
@@ -9870,6 +9869,7 @@ bilipurpurin
 bastardice
 balancelle
 burk
+biophysiological
 bituminate
 bescoured
 bituminising
