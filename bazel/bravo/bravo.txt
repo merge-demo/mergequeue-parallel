@@ -3865,6 +3865,7 @@ bawdrics
 bawdries
 boreal
 buriable
+buildress
 bawl
 bevelment
 bawled
@@ -5794,7 +5795,6 @@ bellicist
 bromometry
 backstroking
 bs
-buildress
 bullsnake
 bondmaid
 banded
