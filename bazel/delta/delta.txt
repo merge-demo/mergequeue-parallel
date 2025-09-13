@@ -11180,7 +11180,6 @@ disassent
 disassimilate
 darin
 disassimilative
-disassociable
 disinherits
 downway
 disassociate
@@ -18233,6 +18232,7 @@ ditetragonal
 dentatocostate
 dermatorrhoea
 dode
+disassociable
 decurrent
 discommendation
 dunderfunk
