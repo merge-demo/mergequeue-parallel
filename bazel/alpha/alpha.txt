@@ -802,6 +802,7 @@ assertors
 acesodyne
 abscissas
 anam
+apachism
 alcohate
 amphicyrtous
 abscission
@@ -7717,7 +7718,6 @@ alectoria
 alectorides
 aprosopia
 arbors
-apachism
 angiospermae
 amphibiological
 alectoropodous
