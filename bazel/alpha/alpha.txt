@@ -3348,6 +3348,7 @@ augustin
 additum
 algology
 acetimeter
+algometer
 addle
 arthritic
 adenosis
@@ -24894,7 +24895,6 @@ awakeable
 assemblers
 awakened
 armets
-algometer
 aralia
 awakeners
 agravic
