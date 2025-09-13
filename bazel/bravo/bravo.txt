@@ -1270,7 +1270,6 @@ buckstone
 becompliment
 blok
 barkers
-bedabbled
 brachiopode
 balabos
 bayards
@@ -11334,6 +11333,7 @@ bakeapple
 bendingly
 blockmaking
 beguiled
+bedabbled
 bluebeard
 buff
 buntings
