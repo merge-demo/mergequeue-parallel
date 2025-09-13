@@ -24794,6 +24794,7 @@ clausum
 costers
 chromic
 coquetry
+chiggerweed
 coquets
 clove
 chloragogen
@@ -31090,7 +31091,6 @@ cobble
 cunei
 cuneiform
 cuneiformist
-chiggerweed
 cunenei
 coue
 cunette
