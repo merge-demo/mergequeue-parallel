@@ -9661,6 +9661,7 @@ chapaties
 chocard
 cheeselep
 cheeselip
+cryptoglioma
 cephalochorda
 cheesemongery
 cheesemongering
@@ -29253,7 +29254,6 @@ cryptogamical
 catastrophe
 cryptogamist
 cryptogenic
-cryptoglioma
 caried
 centeses
 carri
