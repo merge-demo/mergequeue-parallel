@@ -8147,6 +8147,7 @@ chairladies
 coccionella
 cerote
 cordia
+collocations
 cordaitalean
 chairmaking
 conynge
@@ -9353,7 +9354,6 @@ chautauquan
 chemicobiology
 contemporariness
 cryptological
-collocations
 chaute
 complexities
 condonation
