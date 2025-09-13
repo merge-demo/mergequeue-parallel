@@ -1702,7 +1702,6 @@ bradypode
 berm
 bastards
 benefits
-betsy
 balmorals
 bedticks
 biforked
@@ -13341,6 +13340,7 @@ benadryl
 bridgeman
 brainwater
 botcheries
+betsy
 botcherly
 bewinter
 biliary
