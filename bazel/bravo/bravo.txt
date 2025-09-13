@@ -2601,6 +2601,7 @@ bears
 brittlely
 bewitchment
 brusquerie
+batful
 bridgelike
 barocco
 barkary
@@ -15677,7 +15678,6 @@ bigfoot
 brambly
 bordelaise
 beclogged
-batful
 brochophony
 brocht
 brochure

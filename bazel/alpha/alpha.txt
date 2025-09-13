@@ -5649,6 +5649,7 @@ ancestor
 agata
 archisphere
 atonies
+anthophagous
 apertured
 agate
 admen
@@ -21537,7 +21538,6 @@ ascribed
 anthill
 assayers
 assaying
-anthophagous
 atoxyl
 amatorial
 antiexporting
