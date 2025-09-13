@@ -4093,7 +4093,6 @@ delimed
 disquisitory
 duskiness
 decreaseless
-deliming
 delimitated
 disanswerable
 daalder
@@ -16364,6 +16363,7 @@ dowels
 decrown
 deferrize
 ductilimeter
+deliming
 dentolabial
 divers
 diaheliotropism
