@@ -2741,7 +2741,6 @@ daddies
 drawhorse
 decousu
 douane
-deceptious
 dihydrate
 daun
 dryopithecid
@@ -13950,6 +13949,7 @@ distinguishedly
 distinguishingly
 dentalising
 dodding
+deceptious
 distinguishment
 deutoplasm
 discreating
