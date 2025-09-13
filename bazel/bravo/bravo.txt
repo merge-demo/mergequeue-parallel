@@ -12285,7 +12285,6 @@ bombline
 bowdrill
 bombast
 buglers
-bandurrias
 bezzi
 boterol
 behoovefully
@@ -15282,6 +15281,7 @@ bother
 brigadier
 brachypterous
 burial
+bandurrias
 brigatry
 brigetty
 beetler
