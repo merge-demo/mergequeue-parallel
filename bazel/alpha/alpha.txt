@@ -7868,7 +7868,6 @@ askarel
 alexander
 arivaipa
 alexandra
-alexandria
 anemometry
 agalactous
 alexandrian
@@ -13067,6 +13066,7 @@ allice
 adaptional
 anisado
 alphecca
+alexandria
 askable
 artamus
 anisaldehyde
