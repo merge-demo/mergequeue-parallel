@@ -7906,7 +7906,6 @@ benben
 borborygmi
 beledgered
 bodymaker
-billing
 bibulously
 bicameralism
 blandiloquious
@@ -12186,6 +12185,7 @@ bollworm
 blizzardly
 bicarbide
 bursal
+billing
 buckhound
 banque
 baling
