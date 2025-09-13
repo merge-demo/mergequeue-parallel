@@ -8803,6 +8803,7 @@ dialoguer
 deuterodome
 diapering
 diazins
+dinguses
 disthene
 defeat
 ditremid
@@ -10260,7 +10261,6 @@ dehgan
 dalmania
 donkeyish
 dinosauria
-dinguses
 dressing
 dermoosseous
 dotish
