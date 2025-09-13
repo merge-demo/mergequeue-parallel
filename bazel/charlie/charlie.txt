@@ -12797,7 +12797,6 @@ colicroot
 chunari
 congressman
 counterinsult
-chunder
 chung
 cannibalistic
 camassia
@@ -17777,6 +17776,7 @@ churchgoing
 cocobola
 cocobolas
 comeupance
+chunder
 cocobolos
 coniothyrium
 cocoyam
