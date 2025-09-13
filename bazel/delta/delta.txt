@@ -8447,6 +8447,7 @@ doorway
 droplet
 discommodes
 deconcentrator
+droukan
 devastate
 diabolizing
 deported
@@ -17179,7 +17180,6 @@ dysmetria
 danebrog
 daggerlike
 divi
-droukan
 drivelingly
 dries
 dimetient
