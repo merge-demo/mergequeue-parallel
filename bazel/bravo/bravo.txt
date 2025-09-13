@@ -5049,6 +5049,7 @@ beverage
 befilmed
 banqueter
 befire
+burgherdom
 benzein
 befist
 boomerangs
@@ -12944,7 +12945,6 @@ bandelette
 bidarkees
 berri
 bouchon
-burgherdom
 betulaceae
 bushelage
 burleys

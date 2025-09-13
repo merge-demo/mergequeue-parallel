@@ -7313,7 +7313,6 @@ apertly
 anilinctus
 albitic
 albitite
-antichretic
 acutiator
 anguilla
 angulare
@@ -18773,6 +18772,7 @@ alstonidine
 autoerotic
 asculae
 archhumbug
+antichretic
 agriology
 archibenthic
 agriochoeridae
