@@ -10416,6 +10416,7 @@ coapts
 column
 chield
 chierete
+chondroprotein
 chievance
 chieve
 carpenter
@@ -11778,7 +11779,6 @@ chondroplasty
 crystall
 consonantally
 copes
-chondroprotein
 confine
 cult
 chondropterygian
