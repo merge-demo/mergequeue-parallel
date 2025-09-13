@@ -7210,7 +7210,6 @@ depullulation
 doves
 disgusts
 deedbox
-desume
 dindles
 desuvre
 determinants
@@ -8933,6 +8932,7 @@ dewlike
 decaisnea
 dice
 decurrencies
+desume
 diceboard
 disp
 dilemi
