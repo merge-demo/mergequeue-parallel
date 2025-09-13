@@ -6736,7 +6736,6 @@ celibacy
 contrivancy
 costard
 celibatic
-conducent
 celibatist
 carijona
 clobbering
@@ -15243,6 +15242,7 @@ clayton
 claiver
 crucigerous
 claywares
+conducent
 clayweed
 caam
 carbunculation

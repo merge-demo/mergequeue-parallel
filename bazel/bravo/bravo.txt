@@ -3940,6 +3940,7 @@ beaminess
 brocatel
 bastardizations
 beachcombers
+befog
 beachdrops
 baizas
 biliment
@@ -11562,7 +11563,6 @@ blancmanger
 blustering
 basilicalike
 blusterously
-befog
 behindsight
 bounced
 bathers
