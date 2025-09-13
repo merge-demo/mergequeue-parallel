@@ -10579,7 +10579,6 @@ comprehension
 citizenhood
 crocodylus
 cardon
-cirsocele
 cymbocephaly
 cultivate
 cryptoclimatology
@@ -13610,6 +13609,7 @@ cymlin
 cymlins
 clinty
 cnemidophorus
+cirsocele
 crematories
 carnosities
 consenter
