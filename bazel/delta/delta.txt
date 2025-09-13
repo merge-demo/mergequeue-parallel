@@ -3343,7 +3343,6 @@ decolours
 dyscrasia
 decarboxylase
 decolorisation
-decompensate
 disadorn
 dramatization
 donet
@@ -10833,6 +10832,7 @@ dipterocarpaceous
 deportee
 duodena
 dipterocarpus
+decompensate
 delay
 divas
 davyum

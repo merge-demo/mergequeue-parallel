@@ -20967,6 +20967,7 @@ compressibleness
 criminals
 cruzeiros
 cathetometric
+crosshatching
 compressive
 compressively
 compressors
@@ -29858,7 +29859,6 @@ crosshair
 crosshatches
 cogwheel
 coadjutator
-crosshatching
 cleistocarpous
 crosshaul
 coddler
