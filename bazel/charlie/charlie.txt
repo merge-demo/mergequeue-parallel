@@ -8163,6 +8163,7 @@ chairmanships
 checkoff
 chairmender
 chairpersons
+crematoririums
 chairway
 cryptogamian
 conjunctivae
@@ -19573,7 +19574,6 @@ churchliest
 coloury
 chondrosteoma
 crystallike
-crematoririums
 culch
 colourifics
 cisterna
