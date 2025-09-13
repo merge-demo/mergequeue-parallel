@@ -2050,6 +2050,7 @@ daucus
 decagonally
 dothidella
 daimen
+dispraise
 decagram
 decagrams
 declasse
@@ -6026,7 +6027,6 @@ discommoded
 dept
 diaschistic
 depth
-dispraise
 droopy
 detonize
 disturbs
