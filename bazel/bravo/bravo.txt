@@ -5008,7 +5008,6 @@ becarve
 beeweed
 beewise
 blithesomeness
-bask
 bisphenoid
 brushfires
 birk
@@ -11109,6 +11108,7 @@ bidpai
 blomstrandine
 blond
 benes
+bask
 benzazine
 brickliner
 byard
