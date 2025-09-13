@@ -2744,7 +2744,6 @@ acculturative
 alienness
 antenniform
 acromiohumeral
-acromiosternal
 antichurchian
 acromiothoracic
 apicitis
@@ -4245,6 +4244,7 @@ adulterated
 antiquary
 adulterateness
 arteriopalmus
+acromiosternal
 arcturus
 adulterator
 asides
