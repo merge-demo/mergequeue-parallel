@@ -13373,7 +13373,6 @@ biobibliographic
 bulletproofs
 bimillenniums
 buffoonery
-boondoggler
 boundlessness
 blasted
 brulzies
@@ -17137,6 +17136,7 @@ bathylith
 battailant
 bullrush
 bulls
+boondoggler
 braeface
 baccillum
 besotted
