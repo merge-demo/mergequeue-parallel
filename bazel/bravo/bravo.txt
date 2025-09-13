@@ -14773,6 +14773,7 @@ bieberite
 bobization
 breached
 breacher
+bacilluria
 benefitting
 bottlemaking
 beanfeaster
@@ -15979,7 +15980,6 @@ bronzewing
 bio
 bcd
 bestrid
-bacilluria
 blitzbuggy
 bassetted
 bawcocks
