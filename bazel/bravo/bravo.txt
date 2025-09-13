@@ -5905,7 +5905,6 @@ bemadam
 bestrowing
 boviform
 babiche
-basidiomycete
 baya
 brager
 bedroom
@@ -15884,6 +15883,7 @@ battlers
 bogsucker
 bufotenin
 biplicity
+basidiomycete
 brutish
 bronchocephalitis
 bronchoconstriction
