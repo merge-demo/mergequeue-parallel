@@ -1639,7 +1639,6 @@ discretive
 daunter
 dicephalus
 darkhaired
-deallocations
 desilverized
 deprival
 dextraural
@@ -10489,6 +10488,7 @@ dister
 droits
 drainfield
 depredating
+deallocations
 diphtherian
 dogberrydom
 diolefinic
