@@ -6684,7 +6684,6 @@ chihuahuas
 celebrant
 celebrants
 celebrate
-comiakin
 celebratedly
 clammed
 celebrater
@@ -10638,6 +10637,7 @@ classics
 chylophyllous
 crunchily
 chylophyllously
+comiakin
 cabalistically
 cashbook
 chylopoiesis
