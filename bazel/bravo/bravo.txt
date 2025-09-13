@@ -11786,6 +11786,7 @@ baron
 bawdstrot
 bluefish
 bocconia
+burdeners
 byrl
 behavioristic
 briony
@@ -12124,7 +12125,6 @@ bloomkin
 bolero
 bivoltine
 barbarianism
-burdeners
 brittlewort
 blephara
 bolled

@@ -12465,6 +12465,7 @@ chromoisomer
 chromoisomeric
 chamaenerion
 cerebralize
+cigarito
 chromoleucite
 chromolipoid
 choleinic
@@ -21893,7 +21894,6 @@ caracul
 counterdecree
 confact
 cartelizing
-cigarito
 confarreated
 coportion
 cactaceae
