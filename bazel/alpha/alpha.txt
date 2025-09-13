@@ -6827,6 +6827,7 @@ asteraceae
 aitkenite
 adiaphoristic
 aitutakian
+alizarins
 algerine
 aphorizer
 ayu
@@ -8294,7 +8295,6 @@ alivincular
 alix
 alizarate
 anesthesiant
-alizarins
 afterloss
 anthrathiophene
 antilipoid
