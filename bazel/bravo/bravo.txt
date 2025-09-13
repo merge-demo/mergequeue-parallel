@@ -5050,6 +5050,7 @@ befire
 burgherdom
 benzein
 befist
+banco
 boomerangs
 berberia
 bespotted
@@ -5112,7 +5113,6 @@ bullberry
 baubling
 birler
 bilocation
-banco
 balletomania
 bezels
 bainite
