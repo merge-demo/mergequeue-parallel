@@ -10677,7 +10677,6 @@ amitrole
 amitular
 aged
 amyxorrhea
-ashthroat
 amlacra
 anlaut
 adelarthrosomatous
@@ -16408,6 +16407,7 @@ aogiri
 astrally
 aristogenesis
 aonach
+ashthroat
 asaddle
 altica
 advertises
