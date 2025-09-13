@@ -6400,7 +6400,6 @@ animateness
 antiroyalist
 armhole
 ayahuasca
-admedial
 antiserums
 aldebaranium
 aiblins
@@ -19061,6 +19060,7 @@ adjiger
 allentiac
 armistices
 arctan
+admedial
 arctation
 allomerize
 arteriectasia
