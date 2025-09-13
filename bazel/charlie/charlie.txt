@@ -11099,7 +11099,6 @@ cardiologies
 collembolic
 chytridiose
 chytridiosis
-chytroi
 chits
 chittack
 chitter
@@ -30875,6 +30874,7 @@ cultellus
 culter
 culti
 cultic
+chytroi
 caecity
 cultigens
 cystogenous
