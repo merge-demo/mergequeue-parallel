@@ -21414,7 +21414,6 @@ asphyxiator
 airbound
 android
 almeries
-asphyxied
 acanthine
 anticritique
 assuaged
@@ -21608,6 +21607,7 @@ algesia
 assentaneous
 assentator
 anonyma
+asphyxied
 assentatory
 apoikia
 aventure

@@ -847,6 +847,7 @@ bigate
 boldheartedly
 bals
 battologizing
+bothway
 brecciation
 blubbing
 bushed
@@ -17032,7 +17033,6 @@ bulletining
 batches
 brecham
 bat
-bothway
 bulletless
 basecoat
 birchbark
