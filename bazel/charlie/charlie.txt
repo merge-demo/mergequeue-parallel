@@ -5469,7 +5469,6 @@ cataclysmal
 coumbite
 cataclysmatist
 cataclysmic
-cataclysmically
 crowboot
 cyanamide
 coopered
@@ -27213,6 +27212,7 @@ counterwheel
 counterwilling
 counterwitness
 chaiseless
+cataclysmically
 counterwork
 concurring
 counterworker
