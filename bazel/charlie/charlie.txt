@@ -582,6 +582,7 @@ cadwal
 chiromegaly
 curatrices
 callaesthetic
+conquerment
 calimanco
 cadwallader
 chamaeprosopic
@@ -22738,7 +22739,6 @@ conquerer
 conquerers
 conqueress
 conquering
-conquerment
 conqueror
 citybuster
 china
