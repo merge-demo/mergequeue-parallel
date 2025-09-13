@@ -1078,7 +1078,6 @@ calcimines
 crudeness
 calcimining
 centrifugalisation
-choppin
 cesspipe
 catapan
 crossbarred
@@ -1709,6 +1708,7 @@ calumniates
 comeliness
 calumniating
 coaldealer
+choppin
 consolably
 confusable
 convulsionaries
