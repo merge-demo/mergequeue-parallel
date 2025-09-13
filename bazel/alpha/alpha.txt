@@ -349,7 +349,6 @@ abelmosk
 aiguilletted
 aftwards
 abends
-aneurismatic
 anacephalaeosis
 aberdeen
 aberduvine
@@ -2253,6 +2252,7 @@ acidurias
 arteriole
 aulacodus
 acierate
+aneurismatic
 androcles
 acierated
 amphoriloquy
