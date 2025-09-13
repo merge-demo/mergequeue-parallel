@@ -2610,7 +2610,6 @@ bifronted
 biporous
 blondine
 borana
-barkery
 barkhan
 batman
 balistarii
@@ -11507,6 +11506,7 @@ birdwomen
 biotron
 biarcuate
 bastnasite
+barkery
 barbicel
 brachymetropia
 bestows
