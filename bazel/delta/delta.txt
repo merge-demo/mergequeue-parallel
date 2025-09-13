@@ -1234,7 +1234,6 @@ daystars
 dieb
 datebook
 drivehead
-disembarkation
 disemplane
 disobligation
 datelessness
@@ -2194,6 +2193,7 @@ dismounts
 despiritualize
 directorship
 dissympathy
+disembarkation
 decarburized
 dubiosity
 decarnated
