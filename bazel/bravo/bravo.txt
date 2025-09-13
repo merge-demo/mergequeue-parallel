@@ -4887,6 +4887,7 @@ benedictions
 beefsteak
 barberish
 bacteriostasis
+blackens
 beefwoods
 burgees
 bairnliness
@@ -10108,7 +10109,6 @@ bellhanger
 blusters
 blackener
 billette
-blackens
 backslidingness
 blacketeer
 bonaght
