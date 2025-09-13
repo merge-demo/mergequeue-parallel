@@ -2108,7 +2108,6 @@ barring
 bantayan
 bidstand
 badiaga
-bantam
 bantamize
 bismar
 banteng
@@ -16450,6 +16449,7 @@ brutify
 bipolar
 bogy
 basic
+bantam
 butterer
 bargeese
 backbiters
