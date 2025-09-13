@@ -608,7 +608,6 @@ anagraph
 anathematism
 astigmatism
 alastrim
-abolishment
 astrologic
 acetoamidophenol
 airinesses
@@ -4586,6 +4585,7 @@ alveolarly
 abrachia
 aeolidae
 agraphic
+abolishment
 ambrotype
 aeolis
 aeolist
