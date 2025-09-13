@@ -4312,6 +4312,7 @@ crum
 caricologist
 carucage
 cowlstaff
+clanjamfray
 caricous
 craker
 canacuas
@@ -10007,7 +10008,6 @@ chermidae
 chemosorption
 chermish
 cocopans
-clanjamfray
 chernites
 cott
 chernomorish
