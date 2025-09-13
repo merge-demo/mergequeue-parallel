@@ -10559,7 +10559,6 @@ asexualised
 antimonarchial
 agio
 amphibiety
-aminded
 amines
 adiabatic
 avoy
@@ -21896,6 +21895,7 @@ asswages
 atrebates
 asswaging
 asta
+aminded
 astable
 astacian
 astacidae
