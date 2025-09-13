@@ -2479,7 +2479,6 @@ dixy
 darkened
 decitizenize
 decivilize
-dateline
 deckel
 ditchdown
 dirigent
@@ -15320,6 +15319,7 @@ dolabrate
 dialectalize
 doli
 deuterogamy
+dateline
 dyslogistically
 detects
 dialystaminous
