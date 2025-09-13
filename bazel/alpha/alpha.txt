@@ -14011,7 +14011,6 @@ applicability
 apriline
 anteorbital
 amygdaline
-antepalatal
 aliveness
 amphivorous
 auriga
@@ -21239,6 +21238,7 @@ asynergia
 armamentaria
 anoli
 adamantly
+antepalatal
 asecretory
 annuluses
 asyngamy
