@@ -12648,6 +12648,7 @@ angiopressure
 angiorrhagia
 angiosarcoma
 ascher
+anareta
 armorwise
 ammocoetid
 arlington
@@ -24527,7 +24528,6 @@ availing
 amapondo
 alkylbenzenesulfonates
 apollyon
-anareta
 avails
 abrogators
 admixture
