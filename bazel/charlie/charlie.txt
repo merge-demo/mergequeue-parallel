@@ -27779,7 +27779,6 @@ craquelures
 chelonin
 citharista
 chivarras
-counterquery
 chariotee
 cotunnite
 circaea
@@ -31276,6 +31275,7 @@ citronellal
 curber
 curbers
 cadastrally
+counterquery
 compot
 cribbled
 catatonias

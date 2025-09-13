@@ -10482,7 +10482,6 @@ dow
 disobliging
 douzainier
 definienda
-dictyostele
 duenna
 dictums
 denotate
@@ -14651,6 +14650,7 @@ daunders
 draggily
 deoxyribonucleoprotein
 dismemberment
+dictyostele
 demureness
 denotive
 demiurgically
