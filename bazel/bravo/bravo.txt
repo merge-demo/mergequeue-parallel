@@ -1779,7 +1779,6 @@ bedraggling
 baldest
 balustrading
 bulbed
-bivvy
 balzarine
 blockhead
 bam
@@ -11431,6 +11430,7 @@ bubale
 berths
 boohoo
 basophilia
+bivvy
 begemming
 bedoctor
 blintze
