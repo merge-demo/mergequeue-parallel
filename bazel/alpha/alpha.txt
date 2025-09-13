@@ -1700,7 +1700,6 @@ archtraitor
 animadverting
 antediluvian
 accusatory
-anomaloscope
 abases
 accusatorial
 accusatorially
@@ -9988,6 +9987,7 @@ amblystegite
 amblystoma
 attesters
 amblotic
+anomaloscope
 anythings
 ambo
 acanthin
