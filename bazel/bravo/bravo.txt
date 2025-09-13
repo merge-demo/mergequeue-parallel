@@ -516,7 +516,6 @@ backstitches
 briming
 britannia
 broadway
-besiclometer
 blackacre
 burbling
 baddish
@@ -10122,6 +10121,7 @@ bosker
 blackfigured
 biochemical
 breechcloth
+besiclometer
 bas
 birrettas
 bloodfins
