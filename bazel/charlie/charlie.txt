@@ -7868,6 +7868,7 @@ caching
 cesspit
 cesspits
 cesspools
+copyrights
 cineraceous
 congruous
 chromophotolithograph
@@ -9471,7 +9472,6 @@ collinsonia
 cheater
 cheatery
 campulitropous
-copyrights
 cussword
 cheatry
 chirayta

@@ -2519,6 +2519,7 @@ declare
 drailing
 doctorfish
 dermatomuscular
+dhotis
 declaredly
 declares
 dimaris
@@ -6799,7 +6800,6 @@ dihedrons
 desirous
 droh
 desirousness
-dhotis
 diaconate
 decompositional
 desklike
