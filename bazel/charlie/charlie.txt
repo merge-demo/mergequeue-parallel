@@ -20857,7 +20857,6 @@ compoed
 cabiri
 coimplore
 citriculture
-compoer
 compone
 componed
 componency
@@ -26237,6 +26236,7 @@ costiveness
 changeableness
 costocoracoid
 calliper
+compoer
 cynareous
 counterstruggle
 costlessness
