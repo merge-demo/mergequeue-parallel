@@ -5757,7 +5757,6 @@ agglomerate
 anychia
 akey
 agglomerated
-agglomerates
 agglomeratic
 apical
 anartismos
@@ -7837,6 +7836,7 @@ anoplotherium
 alawi
 algebraical
 anthonin
+agglomerates
 amaranths
 altarpiece
 aleukaemic
