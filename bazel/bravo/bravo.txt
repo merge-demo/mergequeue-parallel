@@ -3594,7 +3594,6 @@ bathool
 boomkins
 bathophobia
 bathos
-bathrobes
 brach
 brittles
 bulldogger
@@ -16009,6 +16008,7 @@ brookite
 ballade
 beneficient
 barbarianized
+bathrobes
 befrocked
 buoy
 burgoo
