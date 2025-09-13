@@ -6678,6 +6678,7 @@ cele
 celeb
 capicha
 cloamer
+caboclos
 cantrips
 chihuahuas
 celebrant
@@ -11132,7 +11133,6 @@ cinecamera
 chivey
 chiliadal
 coronitis
-caboclos
 cyphonautes
 chiviatite
 compresence
