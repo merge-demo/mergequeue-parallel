@@ -10892,6 +10892,7 @@ chippings
 cuddie
 clerk
 chipproof
+coffles
 comforter
 crucifying
 clocher
@@ -24705,7 +24706,6 @@ charkhana
 canyons
 cell
 croppers
-coffles
 coppra
 chamidae
 closenesses
