@@ -11855,7 +11855,6 @@ comprehensively
 cakes
 coenocyte
 cultch
-chora
 counterplay
 caselty
 cagn
@@ -21684,6 +21683,7 @@ confabulating
 circumspectly
 condylectomy
 ceromancy
+chora
 crimsony
 condylion
 cariacus
