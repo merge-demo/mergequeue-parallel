@@ -14778,7 +14778,6 @@ chinantecs
 cytioderm
 cityscapes
 cytisine
-chamkanni
 couriers
 calocarpum
 citizeness
@@ -21985,6 +21984,7 @@ confidante
 cosmecology
 copout
 coresort
+chamkanni
 confidants
 centaurs
 counterproductivity
