@@ -3216,6 +3216,7 @@ bouteselle
 bangwaketsi
 barotactic
 bifront
+belay
 brabant
 benomyls
 bauta
@@ -5737,7 +5738,6 @@ bechalked
 boundless
 brachycranial
 barefaced
-belay
 baggageman
 billabong
 boomlet
