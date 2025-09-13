@@ -24014,7 +24014,6 @@ counterexcommunication
 convenery
 chayma
 citing
-conveners
 convenience
 compliancies
 curin
@@ -26367,6 +26366,7 @@ cotyledons
 cypraea
 cotylophora
 celtologue
+conveners
 collide
 catatonics
 cytotrophy
