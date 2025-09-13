@@ -6350,6 +6350,7 @@ anticryptically
 alternant
 autunian
 adult
+adeleidae
 animalian
 amphicarpous
 ahmadi
@@ -13919,7 +13920,6 @@ axostyle
 antecornu
 antecourt
 anticapital
-adeleidae
 antecubital
 accompanists
 anted
