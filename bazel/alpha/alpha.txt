@@ -1398,6 +1398,7 @@ anoplocephalic
 aurichalcum
 awardment
 awlessness
+anticlockwise
 atka
 annotating
 acciaccaturas
@@ -14795,7 +14796,6 @@ anticlinoria
 amphigouri
 axised
 alkenes
-anticlockwise
 anticlogging
 averroism
 anticoagulant
