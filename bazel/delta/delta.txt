@@ -2764,7 +2764,6 @@ dop
 dorsalward
 disharmonize
 decremeter
-dicyemida
 demarches
 duodecahedral
 drowsier
@@ -18236,6 +18235,7 @@ dode
 decurrent
 discommendation
 dunderfunk
+dicyemida
 deliverly
 dunderheadedness
 disnature
