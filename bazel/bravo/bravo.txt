@@ -10316,6 +10316,7 @@ bloodalp
 blakeite
 bargepole
 billot
+bumps
 bromize
 bounderish
 bewrought
@@ -13634,7 +13635,6 @@ buttermaking
 birthmark
 bacbakiri
 bountyless
-bumps
 bandcase
 brachycephal
 barre
