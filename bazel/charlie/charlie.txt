@@ -5495,7 +5495,6 @@ catadupe
 catafalco
 civilisation
 catagenetic
-catakinetic
 catakinomeric
 corkscrewy
 catalanganes
@@ -29714,6 +29713,7 @@ continuous
 crooking
 chancey
 circule
+catakinetic
 crooknecked
 caragheen
 concessionaires
