@@ -18,7 +18,6 @@ boons
 bureaucratist
 brachial
 bionergy
-babbitted
 beshell
 beneceptive
 boneheaded
@@ -1439,6 +1438,7 @@ bungey
 bahadurs
 balefully
 branned
+babbitted
 baleys
 baleise
 bougainvillaea
