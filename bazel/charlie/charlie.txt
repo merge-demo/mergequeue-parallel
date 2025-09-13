@@ -7166,7 +7166,6 @@ chatterbox
 centrev
 chivalrous
 containedly
-centric
 confect
 cremant
 clodpate
@@ -29114,6 +29113,7 @@ chantlate
 cryophile
 chemawinite
 cryophyllite
+centric
 cryophyte
 criophore
 corresponded
