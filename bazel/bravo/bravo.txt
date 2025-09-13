@@ -8452,7 +8452,6 @@ bilin
 boddagh
 bylina
 brummer
-barbre
 bidry
 bibliotheke
 bonzes
@@ -9711,6 +9710,7 @@ barographs
 bystreets
 brockage
 beerothite
+barbre
 bistres
 bloodstone
 boltmaking
