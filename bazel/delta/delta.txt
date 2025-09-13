@@ -4710,7 +4710,6 @@ demitasses
 demythologization
 demythologizations
 disman
-diplomatize
 demythologizer
 duodecimal
 discretionally
@@ -8507,6 +8506,7 @@ dodecyl
 derider
 downgrades
 diamondback
+diplomatize
 diamondbacked
 demises
 debaucher
