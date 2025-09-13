@@ -6625,6 +6625,7 @@ counterthrust
 clamoring
 celestine
 ceilers
+cirsotomy
 carsick
 condole
 ceilidh
@@ -14498,7 +14499,6 @@ cirsoid
 cirsomphalos
 completable
 coalmouse
-cirsotomy
 cassady
 cirsotomies
 cirterion
