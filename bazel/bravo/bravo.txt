@@ -5271,7 +5271,6 @@ birsy
 beghard
 boltonia
 biscuitmaker
-biconical
 bezzants
 bootjacks
 bugbite
@@ -16849,6 +16848,7 @@ brabbling
 busti
 bussu
 bibulosities
+biconical
 beudanite
 baloch
 bemeaned
