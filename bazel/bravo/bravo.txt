@@ -4530,6 +4530,7 @@ baubee
 backjaw
 bedarkening
 bedaub
+bradyphrenia
 ballplayer
 bagtikan
 besuit
@@ -14201,7 +14202,6 @@ biomechanics
 blanker
 balloonish
 bradyphrasia
-bradyphrenia
 bradypnea
 bodrag
 baggier
