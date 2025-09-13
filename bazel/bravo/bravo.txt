@@ -11511,7 +11511,6 @@ biarcuate
 bastnasite
 barkery
 barbicel
-brachymetropia
 bestows
 breathableness
 behemoths
@@ -18244,6 +18243,7 @@ byordinary
 backflip
 butterman
 bootblacks
+brachymetropia
 buttermilk
 bastardy
 braises
