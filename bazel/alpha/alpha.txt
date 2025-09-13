@@ -3331,6 +3331,7 @@ adapid
 additionary
 additionist
 attapulgite
+anamite
 afterwort
 additions
 anthers
@@ -19641,7 +19642,6 @@ aristolochia
 aristolochin
 annalistic
 aristology
-anamite
 anglesmith
 aristologist
 aristomonarchy
