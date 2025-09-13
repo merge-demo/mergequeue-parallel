@@ -2699,7 +2699,6 @@ britannian
 bestayed
 barnyard
 beastings
-blackgum
 butein
 bottomries
 batch
@@ -12352,6 +12351,7 @@ bombonne
 bombora
 bagie
 belfather
+blackgum
 beswarmed
 bombus
 bombardelle
