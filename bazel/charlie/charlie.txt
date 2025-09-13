@@ -7666,7 +7666,6 @@ circumvolute
 cerithium
 ceriums
 corambis
-chloroplatinite
 cyamid
 ciceros
 contemperate
@@ -19689,6 +19688,7 @@ calamaries
 columnate
 cupseed
 columnates
+chloroplatinite
 canzona
 columnation
 choristoblastoma
