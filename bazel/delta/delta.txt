@@ -9980,7 +9980,6 @@ downcourt
 dodecatoic
 dipneustal
 devitalisation
-diminisher
 dialectally
 diminishingly
 dyspeptic
@@ -15540,6 +15539,7 @@ dereliction
 diastema
 dorsocaudad
 disappendancy
+diminisher
 domineeringly
 disinherited
 damnableness
