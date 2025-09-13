@@ -5758,7 +5758,6 @@ cuemanship
 cleaves
 categorization
 coryzal
-corona
 categorizer
 chlorpicrin
 chrysocracy
@@ -9426,6 +9425,7 @@ chitinogenous
 calycozoic
 celeusma
 consumate
+corona
 conjecturalist
 celiohysterotomy
 cheapening
