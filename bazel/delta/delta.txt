@@ -1856,7 +1856,6 @@ distingue
 dressily
 dragooned
 disappointer
-dijudicate
 danged
 depiction
 decretal
@@ -3460,6 +3459,7 @@ downheartedness
 dentiform
 decayedness
 decadrachmae
+dijudicate
 diasters
 demembration
 deformability
