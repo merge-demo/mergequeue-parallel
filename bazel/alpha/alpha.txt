@@ -23603,7 +23603,6 @@ auriphone
 aurir
 auris
 auriscalp
-anaspadias
 auriscope
 auriscopic
 aurist
@@ -24335,6 +24334,7 @@ agisting
 autoschediastic
 adstipulation
 antiochianism
+anaspadias
 antialexin
 agoraphobia
 ankylomele
