@@ -1269,6 +1269,7 @@ dative
 dorking
 datively
 dreamlore
+desistive
 dimouts
 drouthier
 dusted
@@ -2789,7 +2790,6 @@ defi
 deferred
 declarator
 decried
-desistive
 deerflys
 dictative
 disulphonate
