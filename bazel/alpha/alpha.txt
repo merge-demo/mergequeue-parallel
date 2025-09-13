@@ -2743,6 +2743,7 @@ acculturative
 alienness
 antenniform
 acromiohumeral
+awanyu
 antichurchian
 acromiothoracic
 apicitis
@@ -4307,7 +4308,6 @@ aldoxime
 adv
 argue
 advaita
-awanyu
 advance
 advancedness
 antihemolytic
