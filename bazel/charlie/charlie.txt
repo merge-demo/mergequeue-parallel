@@ -26730,7 +26730,6 @@ countercurrent
 cubitometacarpal
 cogware
 capelocracy
-countercurrentwise
 coappellee
 counterdance
 counterdeclaration
@@ -30037,6 +30036,7 @@ circumambiencies
 cheson
 cliff
 crocodilus
+countercurrentwise
 comptrol
 contortions
 cephalophorous
