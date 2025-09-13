@@ -11045,7 +11045,6 @@ coevolvedcoevolves
 calamagrostis
 chiselmouth
 chemoprophylaxis
-clarkeites
 conichalcite
 chistka
 centrode
@@ -31753,6 +31752,7 @@ cystenchymatous
 customariness
 customer
 cervisial
+clarkeites
 chemicovital
 customers
 ceratofibrous
