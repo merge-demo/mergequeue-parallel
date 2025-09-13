@@ -7703,7 +7703,6 @@ aleak
 aleatory
 accusor
 aleatoric
-arustle
 aquae
 analphabetical
 awm
@@ -19840,6 +19839,7 @@ armyworms
 armlessness
 armlets
 aiguellette
+arustle
 armlike
 armload
 armlock
