@@ -7319,7 +7319,6 @@ deuce
 daftar
 data
 dear
-dicyan
 diamondlike
 deteriorative
 dravida
@@ -8005,6 +8004,7 @@ dextroaural
 diacanthous
 dismes
 dartos
+dicyan
 demonical
 durenol
 dextrocularity
