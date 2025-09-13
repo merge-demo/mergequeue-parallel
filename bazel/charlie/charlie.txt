@@ -5515,6 +5515,7 @@ catalyse
 craterellus
 canalis
 copr
+classless
 cofactor
 catalyses
 catalyte
