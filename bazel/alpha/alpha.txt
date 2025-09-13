@@ -10381,7 +10381,6 @@ aasvogels
 amyclaean
 alisonite
 apolarity
-amicous
 amicrobic
 amicronucleate
 aubaine
@@ -20103,6 +20102,7 @@ arrangement
 amphidromia
 auscultated
 arrangers
+amicous
 aiders
 arranges
 alyssum
