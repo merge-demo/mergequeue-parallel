@@ -15043,6 +15043,7 @@ appoggiature
 aggregating
 antievolution
 antievolutionary
+arethusas
 anteconsonantal
 assimulate
 atwain
@@ -19250,7 +19251,6 @@ aretaics
 arete
 antiquitarian
 automatist
-arethusas
 aretinian
 anticoagulating
 arew
