@@ -11868,6 +11868,7 @@ cowpuncher
 clancular
 chopstick
 cherrystones
+coronation
 chopsticks
 chopunnish
 comprehensively
@@ -13723,7 +13724,6 @@ convenient
 condylarthra
 competencies
 cinchoninic
-coronation
 cinchonisation
 cinchonise
 cloots
