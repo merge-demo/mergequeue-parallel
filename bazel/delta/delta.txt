@@ -8823,7 +8823,6 @@ diazoalkane
 depeter
 dragonkind
 diazoaminobenzene
-deftness
 dinettes
 dints
 diabolized
@@ -9964,6 +9963,7 @@ dimes
 dimetallic
 dimeter
 dermatauxe
+deftness
 dimethylbenzene
 disneyland
 declivity
