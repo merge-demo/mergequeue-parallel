@@ -5831,6 +5831,7 @@ creeled
 catfish
 coalmonger
 catfoot
+commissionaire
 catfooted
 catgut
 chancellorism
@@ -8657,7 +8658,6 @@ cestus
 cryst
 chronoscope
 chansonette
-commissionaire
 chansonniers
 chantey
 counterlighted
