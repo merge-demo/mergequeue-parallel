@@ -18639,7 +18639,6 @@ azymous
 altoun
 alginuresis
 appliqued
-archducal
 anschauung
 ann
 arumin
@@ -20119,6 +20118,7 @@ asclepieion
 apothem
 ascogonium
 assiduously
+archducal
 arrearages
 amoles
 alphabetise
