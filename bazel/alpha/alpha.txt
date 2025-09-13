@@ -12723,6 +12723,7 @@ anglice
 anglicisation
 anticatalytic
 apolysin
+anthelices
 anatabine
 annalize
 anglicization
@@ -14132,7 +14133,6 @@ auteur
 amphipodan
 anthelia
 aramaean
-anthelices
 anthelix
 archaeomagnetism
 archcount
