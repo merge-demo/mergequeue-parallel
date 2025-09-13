@@ -2631,6 +2631,7 @@ cheeseflower
 chevet
 caner
 camelopardel
+cleanest
 canes
 canescence
 canescent
@@ -15767,7 +15768,6 @@ clean
 cardiology
 cleaned
 chloramine
-cleanest
 chinching
 cleanhanded
 capistrate
