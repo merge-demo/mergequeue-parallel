@@ -6438,7 +6438,6 @@ bepile
 bediapers
 balneotherapy
 bolo
-bannock
 bumbled
 beliing
 blobbiness
@@ -8075,6 +8074,7 @@ binous
 bedaubs
 bracken
 bumicky
+bannock
 brattiness
 battiks
 boondocks
