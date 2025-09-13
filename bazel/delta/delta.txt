@@ -5655,7 +5655,6 @@ dephlegmation
 dastards
 dephlogisticate
 dess
-dephlogisticated
 disinclose
 darst
 disseveration
@@ -15758,6 +15757,7 @@ decontrolled
 doorstop
 devotionality
 disbase
+dephlogisticated
 decolorant
 desensitizer
 diastole
