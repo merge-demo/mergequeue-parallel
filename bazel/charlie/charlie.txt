@@ -3819,6 +3819,7 @@ carse
 convalescent
 cotset
 cacophonical
+choplogic
 carbonify
 clept
 chewbark
@@ -11837,7 +11838,6 @@ clarina
 chopins
 colory
 converter
-choplogic
 choplogical
 choregi
 comprehend
