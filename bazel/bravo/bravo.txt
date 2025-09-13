@@ -496,6 +496,7 @@ battarismus
 balaenoidea
 bromios
 backslapper
+bighorn
 bituminiferous
 bramblebush
 batteries
@@ -15211,7 +15212,6 @@ barrel
 blister
 birdwitted
 bridewort
-bighorn
 barrigudos
 barcan
 bridgebuilder
