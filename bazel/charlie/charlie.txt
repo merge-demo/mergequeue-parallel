@@ -1274,7 +1274,6 @@ compulsatory
 calibers
 colunar
 calibrated
-calibrater
 calibrates
 cloison
 catchwater
@@ -29854,6 +29853,7 @@ crossflower
 crossfoot
 crosshair
 crosshatches
+calibrater
 cogwheel
 coadjutator
 cleistocarpous
