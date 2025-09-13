@@ -7449,7 +7449,6 @@ alcaid
 acrosarca
 amorphozoa
 arabia
-ankylorrhinia
 acridonium
 acini
 alembicate
@@ -22681,6 +22680,7 @@ atmosphere
 arraigns
 atmosphereful
 atmosphereless
+ankylorrhinia
 antiopium
 agamic
 atmospherically
