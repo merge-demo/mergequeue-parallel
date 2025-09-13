@@ -469,7 +469,6 @@ diathermous
 defiance
 discept
 danseuse
-debates
 disseats
 doxie
 doers
@@ -13305,6 +13304,7 @@ diuretics
 desultory
 daylily
 dispossed
+debates
 distrusted
 doughtiness
 desmotropic
