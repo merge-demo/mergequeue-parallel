@@ -5225,6 +5225,7 @@ cacological
 cassy
 charabancs
 cassia
+chalazoin
 cassicus
 cassidid
 cassidulina
@@ -8209,7 +8210,6 @@ causewayed
 chalazoidite
 cryptorrhetic
 cercarias
-chalazoin
 charvet
 chalcanth
 chalcedony
