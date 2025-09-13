@@ -15726,7 +15726,6 @@ birthdays
 bestiarianism
 brokage
 burbs
-bulletin
 brokages
 begohm
 banande
@@ -17181,6 +17180,7 @@ bedriveled
 blamably
 bawly
 bello
+bulletin
 bawlers
 bumblers
 bumbles
