@@ -300,7 +300,6 @@ benorth
 bespangled
 belar
 back
-brachiocubital
 backache
 burrknot
 backadation
@@ -5274,6 +5273,7 @@ biscuitmaker
 biconical
 bezzants
 bootjacks
+brachiocubital
 bugbite
 beginning
 bisiliac
