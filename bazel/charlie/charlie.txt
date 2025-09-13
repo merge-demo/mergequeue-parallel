@@ -6277,6 +6277,7 @@ calesin
 causerie
 cursorious
 causes
+concomitancy
 cgm
 carouba
 crimison
@@ -14674,7 +14675,6 @@ cystophotography
 coxier
 captans
 catch
-concomitancy
 cenacle
 coquelicot
 cystoplegia
