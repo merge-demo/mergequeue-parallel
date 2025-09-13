@@ -222,7 +222,6 @@ dehisces
 daffiness
 detracts
 daffodilly
-drifted
 daringly
 daffodils
 decemlocular
@@ -10926,6 +10925,7 @@ dependantly
 daised
 dirked
 dhabb
+drifted
 drawbored
 dwayne
 disguisable
