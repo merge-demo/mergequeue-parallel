@@ -6291,6 +6291,7 @@ belite
 beltir
 bilalo
 barani
+bipedal
 blackbirding
 bleep
 birdwise
@@ -9156,7 +9157,6 @@ bumbee
 bipaschal
 bypaths
 buffin
-bipedal
 bogo
 backhauling
 bourbonesque
