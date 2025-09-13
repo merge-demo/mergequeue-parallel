@@ -2531,6 +2531,7 @@ amygdalotomy
 accrescent
 allocated
 auxoflore
+alpax
 approximated
 acquire
 antescript
@@ -9231,7 +9232,6 @@ abuse
 alcoholized
 alpargata
 awls
-alpax
 alpen
 axstone
 alpenglow
