@@ -9975,7 +9975,6 @@ brutisms
 bixaceae
 bixaceous
 balteus
-bacillar
 bougies
 bruxism
 blondeness
@@ -13146,6 +13145,7 @@ brucite
 borosalicylic
 bywalk
 borotungstate
+bacillar
 boatmen
 blastful
 borough
