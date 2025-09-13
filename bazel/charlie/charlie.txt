@@ -10463,7 +10463,6 @@ chigga
 chiggers
 congession
 consorts
-chigoes
 chih
 conquered
 coryphaena
@@ -31536,6 +31535,7 @@ cursory
 cuproid
 cursorily
 crystallizability
+chigoes
 cursoriness
 coffeecake
 chile
