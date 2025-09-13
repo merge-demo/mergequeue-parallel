@@ -13451,7 +13451,6 @@ cigarettes
 cigarfish
 counterconversion
 craspedum
-cigarillos
 calcomp
 caudatum
 casting
@@ -13694,6 +13693,7 @@ cinching
 cincholoipon
 curarizing
 countercharging
+cigarillos
 contusing
 counterthwarting
 cinchonaceae
