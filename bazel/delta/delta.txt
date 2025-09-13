@@ -731,7 +731,6 @@ denudatory
 dismarry
 dancing
 dispence
-distale
 dioptometer
 dander
 dandiacally
@@ -6006,6 +6005,7 @@ dopamine
 deuteron
 dropforged
 deprome
+distale
 drawling
 desertrice
 deprostrate
