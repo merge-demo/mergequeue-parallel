@@ -12966,6 +12966,7 @@ continentality
 clothes
 cyanids
 cyanimide
+caite
 cyanine
 chaldrons
 cyanitic
@@ -22621,7 +22622,6 @@ catawampously
 camelopard
 criminogenic
 cuffed
-caite
 coaevals
 connexes
 cantabri
