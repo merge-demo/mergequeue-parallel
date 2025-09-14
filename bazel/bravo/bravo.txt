@@ -11693,7 +11693,6 @@ bobbers
 bartlett
 bobby
 bobbin
-bewimple
 bolivias
 bobbinite
 bobbins
@@ -17848,6 +17847,7 @@ bisetose
 burling
 beearn
 brisks
+bewimple
 bestselling
 brawns
 blowfly
