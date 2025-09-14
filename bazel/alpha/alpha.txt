@@ -9481,7 +9481,6 @@ autoionization
 alipeds
 altruisms
 altruist
-amuse
 aspersors
 annulet
 altruists
@@ -21815,6 +21814,7 @@ assoils
 assonanced
 acaridomatium
 assonantly
+amuse
 arnottos
 aecial
 alternations
