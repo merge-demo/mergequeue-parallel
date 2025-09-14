@@ -11246,7 +11246,6 @@ bezesteen
 borghalpenny
 bespeaker
 bisilicate
-bridging
 buckets
 blankest
 barmskin
@@ -12233,6 +12232,7 @@ bolshevist
 bolshevistic
 barrulee
 bewield
+bridging
 bolshevized
 boneset
 benitoite
