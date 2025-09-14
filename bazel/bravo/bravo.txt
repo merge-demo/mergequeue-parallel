@@ -13541,7 +13541,6 @@ bodymaking
 boucharde
 branchiform
 blundered
-bouchette
 bichromate
 boisterousness
 boudeuse
@@ -17250,6 +17249,7 @@ buddling
 boutel
 bipolarize
 bucoliast
+bouchette
 bunches
 bunchily
 bunchiness
