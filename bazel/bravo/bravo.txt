@@ -5231,6 +5231,7 @@ barosinusitus
 bastes
 bothsided
 brog
+buddleia
 begazing
 borderer
 bedabbling
@@ -16709,7 +16710,6 @@ bisognio
 bead
 boswell
 benzolate
-buddleia
 bunkhouses
 blockhole
 ballader
