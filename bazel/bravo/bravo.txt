@@ -8066,6 +8066,7 @@ branches
 byronian
 blooper
 binous
+berserk
 bedaubs
 bracken
 bumicky
@@ -17921,7 +17922,6 @@ bowwows
 belga
 bushwack
 bonewood
-berserk
 bathybic
 blastoporic
 blockader
