@@ -8367,6 +8367,7 @@ abrader
 aliquant
 arguer
 alkanes
+allomorphism
 alkanet
 allicholly
 alkanethiol
@@ -8808,7 +8809,6 @@ archaically
 anematizing
 aerobiologic
 acetoxime
-allomorphism
 anisidin
 allomorphite
 allonym
