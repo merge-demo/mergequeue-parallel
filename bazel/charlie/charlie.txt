@@ -8460,7 +8460,6 @@ champaks
 calix
 cholines
 commensalistic
-champart
 champe
 cayuvava
 cynegetic
@@ -19461,6 +19460,7 @@ coloration
 colorative
 centrifugally
 capsid
+champart
 cere
 crossarms
 coloraturas
