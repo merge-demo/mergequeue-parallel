@@ -8619,7 +8619,6 @@ aliya
 alleviatingly
 alleviative
 antimaniacal
-alleviatory
 autocrat
 alleviators
 assistant
@@ -12259,6 +12258,7 @@ antipolitically
 adjective
 androphorous
 antipyryl
+alleviatory
 amenty
 androscoggin
 astonishments
