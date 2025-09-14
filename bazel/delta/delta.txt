@@ -550,6 +550,7 @@ dipylon
 dalt
 dalton
 drunkometer
+deteriorationist
 dermaskeleton
 dama
 disodic
@@ -16636,7 +16637,6 @@ diamondbacks
 detergent
 denar
 drivebolt
-deteriorationist
 depicted
 disingenuity
 draft
