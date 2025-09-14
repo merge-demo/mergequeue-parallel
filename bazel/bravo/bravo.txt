@@ -595,6 +595,7 @@ balisaur
 baconian
 breaths
 baconianism
+belleric
 baconism
 brutalitarianism
 brutishly
@@ -12842,7 +12843,6 @@ biestings
 boardbill
 beefcake
 bluestone
-belleric
 bryozoum
 boomtowns
 barracuda
