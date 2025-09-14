@@ -16145,7 +16145,6 @@ agrees
 amphivasal
 affixer
 antithenar
-ascaridol
 arthrocace
 abbreviating
 allelotropy
@@ -20754,6 +20753,7 @@ arfvedsonite
 avulsed
 arx
 apportions
+ascaridol
 amputator
 avenery
 autographically
