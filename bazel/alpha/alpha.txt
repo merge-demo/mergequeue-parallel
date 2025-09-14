@@ -4549,7 +4549,6 @@ aegyptilla
 agonisingly
 aegisthus
 aegithognathae
-anguillule
 aegophony
 aegrotant
 arboresque
@@ -18259,6 +18258,7 @@ araise
 aronia
 arakanese
 archway
+anguillule
 antiunionist
 araliaceous
 astronauts
