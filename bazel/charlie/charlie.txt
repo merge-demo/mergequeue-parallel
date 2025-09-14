@@ -18044,7 +18044,6 @@ chipboard
 compiled
 coelococcus
 charioteers
-comet
 claymores
 crawlie
 cornerman
@@ -29436,6 +29435,7 @@ cloven
 concretism
 crystalloidal
 crystallomagnetic
+comet
 cravers
 crystallomancy
 crystallometry
