@@ -9781,7 +9781,6 @@ arietid
 alogism
 ambystomidae
 amateurishness
-amphithyron
 aspergillaceae
 acroterial
 airsheet
@@ -15699,6 +15698,7 @@ antiphrastic
 amberiferous
 ascendant
 authorization
+amphithyron
 astrologian
 autotoxication
 abatage
