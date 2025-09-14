@@ -4784,7 +4784,6 @@ aerogramme
 americium
 almsfolk
 adjurations
-appius
 aristogenic
 acculturized
 aerographical
@@ -17491,6 +17490,7 @@ appellatived
 appellativeness
 anchory
 arriccioci
+appius
 appellor
 anthracitious
 aminobenzene

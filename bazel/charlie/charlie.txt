@@ -2751,7 +2751,6 @@ cannelon
 castrametation
 clatsop
 cannoneers
-cannequin
 colts
 crinolines
 cancerphobia
@@ -26339,6 +26338,7 @@ coteful
 cotele
 cultrate
 cotemporanean
+cannequin
 cotemporaneously
 cotemporaries
 clubbable
