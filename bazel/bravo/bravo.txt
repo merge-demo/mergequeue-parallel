@@ -7013,7 +7013,6 @@ brickbatted
 burushaski
 brockages
 biaxillary
-bezzant
 bennetweed
 bannerette
 briquetting
@@ -12580,6 +12579,7 @@ beverages
 boogeyman
 bonnnes
 butylamine
+bezzant
 bonnocks
 benzyl
 bonnwis
