@@ -17806,6 +17806,7 @@ agisms
 apprenticement
 apprenticeships
 apprenticing
+avuncular
 ambiguous
 appressed
 arrogatingly
@@ -24855,7 +24856,6 @@ aponeurotome
 annuloida
 anarchosocialist
 alliterating
-avuncular
 arundinaria
 agennetic
 arterializing
