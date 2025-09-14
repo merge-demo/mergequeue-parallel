@@ -10854,7 +10854,6 @@ dijudicating
 directorate
 dispartment
 dissave
-discolorate
 discording
 deviates
 determiners
@@ -16554,6 +16553,7 @@ divulges
 drachen
 devolatilisation
 desirableness
+discolorate
 dollhouse
 darken
 depicters
