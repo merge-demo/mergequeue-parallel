@@ -13114,7 +13114,6 @@ cicad
 cycadaceae
 convulsional
 cicadas
-cycadeoid
 cycadeoidea
 cycadite
 cooner
@@ -17734,6 +17733,7 @@ colluders
 cocinera
 contingentiam
 cocircular
+cycadeoid
 cultrirostres
 catodont
 cocitizen
