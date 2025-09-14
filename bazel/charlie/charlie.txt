@@ -13958,7 +13958,6 @@ cynopithecoid
 chlorospinel
 cynorrhoda
 cynorrhodon
-cynosure
 cynosures
 cynosurus
 cynotherapy
@@ -19319,6 +19318,7 @@ copied
 colmose
 caballing
 colnaria
+cynosure
 colocate
 chiquest
 colocephali
