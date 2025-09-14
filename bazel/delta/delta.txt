@@ -3667,7 +3667,6 @@ disarrange
 degreases
 drupaceae
 daffadowndilly
-degreewise
 degressive
 desulphurizing
 dactylopterus
@@ -16045,6 +16044,7 @@ dotarie
 digraph
 drybeard
 dictate
+degreewise
 discoid
 dotchin
 decessor
