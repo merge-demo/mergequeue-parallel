@@ -940,6 +940,7 @@ cinemactic
 cosession
 calamarmar
 cilioflagellate
+ceilometer
 calamars
 crinoidean
 coastmen
@@ -6635,7 +6636,6 @@ copiability
 chadelle
 crucis
 celtophobia
-ceilometer
 couac
 ceylonite
 ceils
