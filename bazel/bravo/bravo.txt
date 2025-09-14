@@ -1387,6 +1387,7 @@ betwixen
 balconies
 baldachin
 bhaiachari
+birsle
 becarpets
 boothian
 bibliotherapist
@@ -3070,7 +3071,6 @@ bedspreads
 beeswings
 bejelled
 bakerite
-birsle
 ballon
 brahman
 blencorn
