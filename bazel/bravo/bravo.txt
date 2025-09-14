@@ -6055,7 +6055,6 @@ bendee
 bullwhips
 braza
 beamier
-bittering
 buckstay
 bowgrace
 bibliographical
@@ -8861,6 +8860,7 @@ bioclimatology
 bathwater
 blabber
 bowstave
+bittering
 bussed
 bioclimatologically
 bouchons
