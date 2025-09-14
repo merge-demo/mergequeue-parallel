@@ -12538,7 +12538,6 @@ bud
 badmash
 bawrel
 bitterwood
-bonnyvis
 brashness
 bellwind
 brant
@@ -15854,6 +15853,7 @@ bathroomed
 breadman
 blattering
 bromus
+bonnyvis
 bereft
 birdlet
 bronchadenitis
