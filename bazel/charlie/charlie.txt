@@ -9944,6 +9944,7 @@ controls
 comma
 carices
 crosette
+counterdash
 clamlike
 chemotherapeutically
 campanulales
@@ -21097,7 +21098,6 @@ corruptibility
 connexional
 cenotaph
 capitaldom
-counterdash
 clitelliferous
 crookle
 computations
