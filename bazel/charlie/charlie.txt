@@ -8373,6 +8373,7 @@ chamberlainry
 caccia
 chrysolophus
 candiot
+crivetz
 centroid
 chugged
 chamberleted
@@ -29513,7 +29514,6 @@ consummative
 crittur
 cardiokinetic
 consular
-crivetz
 coenogenetic
 crizzel
 cornfields
