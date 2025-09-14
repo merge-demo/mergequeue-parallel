@@ -15306,6 +15306,7 @@ debituminization
 diestocks
 dokmarok
 disload
+dorestane
 decart
 dandriffy
 debuggers
@@ -16938,7 +16939,6 @@ dose
 drawloom
 demipriest
 dinoflagellida
-dorestane
 determinativeness
 discharity
 dozes
