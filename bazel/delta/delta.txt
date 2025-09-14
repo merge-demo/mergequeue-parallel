@@ -4866,7 +4866,6 @@ daily
 discharge
 demolition
 dialyses
-demolitionist
 dictyosiphonaceous
 dishonest
 dermatome
@@ -13889,6 +13888,7 @@ distenant
 dorsicornu
 dolichocephali
 deles
+demolitionist
 decrassified
 descenders
 distending
