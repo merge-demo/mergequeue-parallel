@@ -72,7 +72,6 @@ defeit
 down
 discontinuance
 demonological
-dactylar
 deblateration
 disputants
 deadheading
@@ -8120,6 +8119,7 @@ duckish
 dehydrating
 defilements
 dhaw
+dactylar
 dialleli
 didromies
 derfness
