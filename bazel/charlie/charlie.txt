@@ -6803,7 +6803,6 @@ cells
 cellucotton
 coadunative
 counterreconnaissance
-cellular
 caloris
 cassoni
 cellules
@@ -25332,6 +25331,7 @@ cheddaring
 conject
 cappelenite
 cornein
+cellular
 cornelia
 concessioner
 cornell
