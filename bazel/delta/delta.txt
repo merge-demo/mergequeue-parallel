@@ -2529,7 +2529,6 @@ doctorfish
 dermatomuscular
 dhotis
 declaredly
-declares
 dimaris
 diplococcus
 dwined
@@ -13673,6 +13672,7 @@ dogberries
 dispersals
 dikdiks
 differential
+declares
 deceivingly
 deserter
 dhurrie
