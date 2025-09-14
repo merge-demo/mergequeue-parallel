@@ -9831,6 +9831,7 @@ delimiters
 deviance
 disrate
 decriminalizing
+dicastery
 dilettantism
 dilettantist
 diligence
@@ -10485,7 +10486,6 @@ doroscentral
 dashikis
 demibath
 diphonia
-dicastery
 duumvirs
 dister
 droits
