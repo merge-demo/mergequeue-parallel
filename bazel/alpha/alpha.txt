@@ -14566,7 +14566,6 @@ antibacterial
 antibacteriolytic
 anaglyptograph
 antiballooner
-antibalm
 antipolemist
 antibasilican
 antibenzaldoxime
@@ -17612,6 +17611,7 @@ antienzymic
 applanation
 applaudable
 araneiformes
+antibalm
 applaudably
 alloxans
 ancyroid
