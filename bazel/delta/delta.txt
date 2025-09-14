@@ -9915,6 +9915,7 @@ deota
 dinars
 diluvianism
 draggingly
+deplete
 demibastioned
 diluvium
 digests
@@ -11474,7 +11475,6 @@ debug
 discloser
 definitional
 diluvial
-deplete
 disclosive
 disclosure
 diplomaed
