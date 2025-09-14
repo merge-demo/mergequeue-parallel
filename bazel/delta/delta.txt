@@ -3546,7 +3546,6 @@ dermatotome
 drawbeam
 defuze
 dolman
-diglyphic
 dakoities
 dissociative
 degames
@@ -4892,6 +4891,7 @@ dharna
 decadal
 deathcups
 diestrum
+diglyphic
 disambiguation
 darogha
 disincorporating
