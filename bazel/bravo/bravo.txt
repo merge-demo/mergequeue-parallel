@@ -2128,7 +2128,6 @@ bantering
 banteringly
 banty
 beaugregories
-bulletmaker
 beerishly
 bribery
 bantu
@@ -6710,6 +6709,7 @@ berries
 burnished
 brantness
 beaut
+bulletmaker
 buhls
 barytosulphate
 badian
