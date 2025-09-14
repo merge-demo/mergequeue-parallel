@@ -43,7 +43,6 @@ cabane
 cabaret
 cabasa
 corder
-cibation
 cabbage
 chuffily
 commends
@@ -4630,6 +4629,7 @@ cytinaceous
 composograph
 carpenters
 crankle
+cibation
 carpet
 carpetbag
 concludible

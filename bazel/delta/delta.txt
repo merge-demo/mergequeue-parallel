@@ -1359,6 +1359,7 @@ dart
 discerners
 doup
 decipium
+deuced
 duelli
 definer
 dauphine
@@ -10678,7 +10679,6 @@ digammated
 dunkirker
 demurrals
 diploplacular
-deuced
 degeneration
 diploplaculate
 degarnish
