@@ -11913,6 +11913,7 @@ aborning
 aspis
 angiosclerosis
 acidity
+ankylosed
 anastomosing
 acrologic
 anastomus
@@ -21139,7 +21140,6 @@ arghan
 assignors
 ahistorical
 asiatican
-ankylosed
 asiaticize
 assuredly
 antifoggant
