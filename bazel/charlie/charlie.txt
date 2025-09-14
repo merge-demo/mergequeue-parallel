@@ -27069,7 +27069,6 @@ crotchety
 causability
 carpent
 castanet
-counterscarp
 counterscoff
 counterscrutiny
 cancelation
@@ -27300,6 +27299,7 @@ comodo
 circumciser
 clerestoried
 coupure
+counterscarp
 courage
 courageous
 catholics
