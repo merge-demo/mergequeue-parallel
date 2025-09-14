@@ -16393,7 +16393,6 @@ banned
 bozal
 borides
 blowfishes
-bequote
 bulbomedullary
 biotechnological
 bursattee
@@ -17585,6 +17584,7 @@ biscuitlike
 bureaucratized
 burghmaster
 bowdlerized
+bequote
 banqueting
 burring
 bearlet

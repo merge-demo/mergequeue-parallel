@@ -9820,7 +9820,6 @@ abstriction
 amazeful
 anatomicopathological
 anatomise
-amazer
 accented
 antihelixes
 amazilia
@@ -12408,6 +12407,7 @@ amorists
 anepithymia
 awnlike
 annelidian
+amazer
 acne
 appenditious
 acrolithan
