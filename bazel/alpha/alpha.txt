@@ -14280,6 +14280,7 @@ anthranyl
 afterswarming
 anthranilic
 anthranol
+annominate
 argentite
 arsons
 acuminulate
@@ -24665,7 +24666,6 @@ anesthesia
 ambulia
 avertiment
 abbotnullius
-annominate
 aelodicon
 acephalia
 arised
