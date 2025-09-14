@@ -649,6 +649,7 @@ abominators
 abomine
 attainer
 antiempiricism
+adlegiare
 adjacent
 abondance
 apostrophation
@@ -11831,7 +11832,6 @@ aucan
 antique
 anarchical
 anenergia
-adlegiare
 aluminium
 anarchies
 airfreighter
