@@ -21276,6 +21276,7 @@ cupular
 concerningly
 checked
 concerningness
+copyrighter
 cogence
 concernment
 concerns
@@ -24635,7 +24636,6 @@ checkweighmen
 copyreader
 curiosos
 copyrightable
-copyrighter
 copis
 cowling
 chicnesses
