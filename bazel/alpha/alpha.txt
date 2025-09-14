@@ -13348,6 +13348,7 @@ atrophic
 astigmatic
 archphylarch
 azedarac
+archchemic
 annicut
 antigravitate
 annie
@@ -18601,7 +18602,6 @@ aloeroot
 archbuilder
 altaite
 archcheater
-archchemic
 archchronicler
 archconfraternity
 agilmente
