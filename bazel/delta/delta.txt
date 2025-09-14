@@ -1559,7 +1559,6 @@ desertness
 deputising
 deadfalls
 deviler
-dim
 denominant
 deadheartedly
 donatism
@@ -11297,6 +11296,7 @@ diacle
 dangler
 ditrichotomous
 decrescendos
+dim
 dissweeten
 diazo
 detoxifies

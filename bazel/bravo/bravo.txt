@@ -687,6 +687,7 @@ bronchiolitis
 bathyesthesia
 baculine
 baculoid
+beek
 baculus
 badaga
 borsches
@@ -4361,7 +4362,6 @@ breakwater
 behoney
 bullshit
 beanweed
-beek
 brombenzene
 bunyas
 benzpyrene
