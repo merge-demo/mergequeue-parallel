@@ -5894,6 +5894,7 @@ baccillla
 billet
 ballistic
 bemadam
+bolter
 bestrowing
 boviform
 babiche
@@ -16288,7 +16289,6 @@ betell
 brelan
 blueing
 brummagen
-bolter
 broidered
 bootlicked
 brumous
