@@ -10588,7 +10588,6 @@ aminopeptidase
 anisodactyl
 aminopherase
 abut
-apothec
 aminopyrine
 arachne
 adulterants
@@ -23855,6 +23854,7 @@ abattage
 autobasidiomycetous
 autobasisii
 autobiographer
+apothec
 autobiographers
 autobiography
 anthropoidea
