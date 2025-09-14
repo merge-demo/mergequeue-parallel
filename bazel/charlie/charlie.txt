@@ -3252,6 +3252,7 @@ compenetrate
 corns
 capito
 clingier
+candlebeam
 cheirognomy
 contrib
 capitolium
@@ -3409,7 +3410,6 @@ cheerios
 clergywoman
 caprin
 castrensial
-candlebeam
 cimelia
 cynicist
 cuterebra
