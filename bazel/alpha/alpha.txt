@@ -8662,7 +8662,6 @@ allyic
 aphicide
 arbinose
 allying
-allylate
 abecedarius
 astatine
 allylation
@@ -21016,6 +21015,7 @@ airth
 amniorrhea
 aseismatic
 arabella
+allylate
 alkannin
 adempt
 arboriculturist
