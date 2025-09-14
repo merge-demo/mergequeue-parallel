@@ -17321,7 +17321,6 @@ closecross
 coalizer
 coalless
 counterdrain
-coalpit
 cryptograph
 coalsack
 chapelman
@@ -29989,6 +29988,7 @@ corbelling
 crouches
 crouchie
 cacothesis
+coalpit
 crankiest
 cassiri
 carroll
