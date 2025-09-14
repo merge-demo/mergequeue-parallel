@@ -6912,6 +6912,7 @@ cementmaker
 candidly
 cementoblast
 cementoma
+chord
 commendation
 cemetaries
 creamed
@@ -10066,7 +10067,6 @@ chowder
 cabernet
 caribisi
 culpableness
-chord
 composers
 cherubim
 cherubimic
