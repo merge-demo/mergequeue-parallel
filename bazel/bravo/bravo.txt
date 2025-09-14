@@ -5169,6 +5169,7 @@ bounces
 barns
 beadhouse
 byee
+beverages
 berkeley
 barragan
 blastodisk
@@ -12576,7 +12577,6 @@ bristlemouths
 backlist
 bicolorous
 bonnyish
-beverages
 boogeyman
 bonnnes
 butylamine
