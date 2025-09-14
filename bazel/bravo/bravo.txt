@@ -3542,7 +3542,6 @@ brainteasers
 beuniformed
 brahmanists
 bathycolpic
-binode
 bathylithic
 bodybuilders
 bathymetrical
@@ -3893,6 +3892,7 @@ buckishly
 bamboos
 bbs
 beltian
+binode
 bigotedness
 bassly
 burn
