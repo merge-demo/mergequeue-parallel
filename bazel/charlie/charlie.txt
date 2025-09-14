@@ -3835,6 +3835,7 @@ chromatics
 carbonization
 carbonize
 carbonized
+copatain
 charlatanism
 concn
 cartelize
@@ -22948,7 +22949,6 @@ consideration
 considerations
 considerator
 corrida
-copatain
 chromatone
 claddings
 chordata
