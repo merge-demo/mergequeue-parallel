@@ -2582,7 +2582,6 @@ broadwives
 ballons
 baramin
 balneation
-baritenor
 bidget
 barberry
 bucerotinae
@@ -17116,6 +17115,7 @@ bullpoll
 bemirror
 bullpup
 brughs
+baritenor
 bestarve
 boozy
 balsamical
