@@ -1813,6 +1813,7 @@ cambarus
 cambered
 croc
 cambeva
+curpin
 cambia
 cosmonautics
 cambiata
@@ -31439,7 +31440,6 @@ curmudgeonly
 churchdom
 curney
 curnies
-curpin
 catatonic
 curple
 calver

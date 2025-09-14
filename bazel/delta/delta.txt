@@ -9376,6 +9376,7 @@ duct
 differentials
 dhoty
 drostdy
+defacers
 dismembering
 depickle
 differentiate
@@ -9895,7 +9896,6 @@ deviancies
 dissected
 dietic
 deadlines
-defacers
 dissertation
 displaying
 dispapalize
