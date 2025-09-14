@@ -11188,7 +11188,6 @@ administratorship
 argiopidae
 apiary
 amphisbaenas
-atroscine
 amphisbaenoid
 antimasks
 amphiscians
@@ -11494,6 +11493,7 @@ alarmingly
 atonal
 anaclastics
 asteriated
+atroscine
 amal
 anacleticum
 ammeline
