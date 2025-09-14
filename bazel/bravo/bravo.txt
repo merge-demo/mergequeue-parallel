@@ -5389,7 +5389,6 @@ behaving
 beanshooter
 brakes
 bathylimnetic
-befits
 bentlet
 bars
 betravel
@@ -7416,6 +7415,7 @@ balconied
 bengals
 biomicroscope
 besant
+befits
 backrest
 bully
 buttinskies
