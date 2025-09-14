@@ -445,6 +445,7 @@ demonic
 dairywomen
 deaths
 descanting
+destituent
 demesgnes
 dayrooms
 diazoma
@@ -7114,7 +7115,6 @@ drowsed
 dissuasions
 deterrently
 domajig
-destituent
 demesmerize
 dionize
 desto
