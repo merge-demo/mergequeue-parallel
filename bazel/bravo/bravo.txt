@@ -2799,7 +2799,6 @@ brazee
 boomboxes
 bookends
 body
-basihyal
 banting
 barosmin
 backwashed
@@ -12309,6 +12308,7 @@ bombycid
 bantered
 bombycine
 bagpiper
+basihyal
 blacky
 bombilation
 bombilla
