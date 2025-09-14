@@ -3624,6 +3624,7 @@ demipremise
 disquantity
 deprint
 dermatoxerasia
+decurions
 deglut
 dognaps
 disarrangement
@@ -14259,7 +14260,6 @@ dangerous
 deirdre
 diswashing
 diswere
-decurions
 debatable
 debriefings
 delubrubra
