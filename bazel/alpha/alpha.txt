@@ -18653,7 +18653,6 @@ archebiosis
 acetract
 awesome
 auctioneer
-acidulent
 autophobia
 airshed
 archegony
@@ -23602,6 +23601,7 @@ aurore
 aurorian
 aurorium
 algorithm
+acidulent
 additionally
 aleppine
 aurrescu
