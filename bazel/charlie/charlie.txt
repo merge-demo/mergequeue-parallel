@@ -14334,6 +14334,7 @@ chrysazin
 circumplicate
 circumplication
 cacciatore
+cleanable
 clavierist
 circumpose
 condite
@@ -15031,7 +15032,6 @@ conjugally
 citterns
 citua
 cytulae
-cleanable
 carryons
 colormaking
 ciudad
