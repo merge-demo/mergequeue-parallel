@@ -8919,6 +8919,7 @@ concyclic
 charco
 charcoal
 crutches
+cilioretinal
 caramboled
 charcoaly
 cryptologic
@@ -18925,7 +18926,6 @@ comparting
 campestral
 coagel
 comported
-cilioretinal
 canthorrhaphy
 crackers
 colymbidae
