@@ -9954,6 +9954,7 @@ dimetallic
 dimeter
 dermatauxe
 deftness
+dulat
 dimethylbenzene
 disneyland
 declivity
@@ -11169,7 +11170,6 @@ disarticulator
 disasinize
 descriptors
 deaminated
-dulat
 defrayals
 discographic
 dolomitise
