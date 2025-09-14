@@ -9395,6 +9395,7 @@ depickle
 differentiate
 deescalates
 dioscoreaceous
+dsri
 dewax
 diplopia
 dinarchies
@@ -17681,7 +17682,6 @@ disillusionize
 disannulled
 dsname
 delatinize
-dsri
 dispossessory
 dromornis
 dtd

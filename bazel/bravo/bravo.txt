@@ -11466,6 +11466,7 @@ bluffest
 balladmonger
 begalling
 barish
+bugaboos
 brulzie
 baba
 banyoro
@@ -16820,7 +16821,6 @@ bivalves
 bugseeds
 bufotoxin
 biconcavity
-bugaboos
 bugan
 brahm
 bugbane
