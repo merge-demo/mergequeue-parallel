@@ -306,6 +306,7 @@ astricts
 articulate
 atonic
 apothece
+andoke
 alkoxyl
 abducted
 ataxic
@@ -9802,7 +9803,6 @@ artificious
 avoue
 abandonee
 archaeology
-andoke
 abu
 amaurosis
 amaze
