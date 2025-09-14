@@ -6694,7 +6694,6 @@ airlift
 alloiometric
 airlifting
 airlifts
-airlike
 archpretender
 arbalestre
 airlines
@@ -11869,6 +11868,7 @@ aka
 agba
 armagnac
 anarthrosis
+airlike
 anarthrously
 anarthrousness
 avionics
