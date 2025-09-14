@@ -9060,7 +9060,6 @@ cancelable
 charneco
 chekmak
 charnockite
-covarecan
 charnockites
 charnu
 conglomeratic
@@ -12747,6 +12746,7 @@ centerboards
 chukkar
 carapa
 chukker
+covarecan
 chulha
 corkiest
 chamaesaura
