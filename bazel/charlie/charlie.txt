@@ -24857,7 +24857,6 @@ coracomorphae
 chrysopoeia
 chafer
 coracoprocoracoid
-cognoscibility
 crepitation
 coracoradialis
 craftmanship
@@ -30274,6 +30273,7 @@ catabiotic
 crunchers
 chooses
 caplan
+cognoscibility
 cabinetmakers
 clucks
 crunchy
