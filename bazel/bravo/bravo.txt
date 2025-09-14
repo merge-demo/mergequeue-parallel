@@ -9045,7 +9045,6 @@ bowel
 bravissimo
 beaufort
 biopsic
-byssaceous
 bespice
 barges
 biopsychological
@@ -11072,6 +11071,7 @@ buccinae
 boyfriend
 budgero
 bullit
+byssaceous
 bisaccate
 balloonflower
 bloating
