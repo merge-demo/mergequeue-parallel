@@ -18485,7 +18485,6 @@ araminta
 aromatization
 arcanite
 anvilled
-arcatures
 acraeinae
 arcboutant
 alipterion
@@ -19926,6 +19925,7 @@ adzooks
 aptitudinally
 ashweed
 aro
+arcatures
 applemonger
 aroast
 athanasianist
