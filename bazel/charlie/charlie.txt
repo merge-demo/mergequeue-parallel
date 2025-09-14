@@ -13841,6 +13841,7 @@ cineol
 cineole
 cahiers
 codelinquency
+cognatus
 calamite
 cardshark
 croighle
@@ -18444,7 +18445,6 @@ contentment
 cognatic
 concatenary
 calorize
-cognatus
 cutaway
 cementum
 cognisable
