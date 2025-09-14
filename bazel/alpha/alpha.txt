@@ -130,7 +130,6 @@ alcarraza
 abastard
 amoebid
 anthracoxen
-abate
 acronychally
 abated
 apocrustic
@@ -3374,6 +3373,7 @@ addressograph
 amalgamator
 addrest
 archsatrap
+abate
 abit
 aragonese
 adducer
