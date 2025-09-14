@@ -10071,7 +10071,6 @@ appropre
 ambulator
 ambulatory
 ambulatoria
-alternating
 affluent
 affectious
 analyzability
@@ -15015,6 +15014,7 @@ absents
 antiendowment
 aquilon
 antienthusiastic
+alternating
 actinoelectric
 acarpous
 afterfame
