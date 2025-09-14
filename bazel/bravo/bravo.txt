@@ -3827,6 +3827,7 @@ bestead
 bridgeward
 babua
 blvd
+bearfoots
 bulgur
 balsas
 bohireen
@@ -4113,7 +4114,6 @@ bras
 broozled
 brachycera
 bacterization
-bearfoots
 bearhug
 babirousa
 bearhugs
