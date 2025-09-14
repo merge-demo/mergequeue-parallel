@@ -835,6 +835,7 @@ baffling
 bafflingly
 bulbus
 bafflingness
+burnsides
 bonelike
 bumpily
 bedene
@@ -5482,7 +5483,6 @@ boort
 babbled
 boatswains
 beingness
-burnsides
 brandade
 beethovian
 blacksmiths
