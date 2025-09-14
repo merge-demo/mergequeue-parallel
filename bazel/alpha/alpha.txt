@@ -868,6 +868,7 @@ absoil
 absterging
 antient
 amphitron
+agrarianize
 absolent
 azophosphin
 apophlegmatic
@@ -4023,7 +4024,6 @@ anastrophy
 apasote
 adon
 adoniad
-agrarianize
 addleplot
 adonin
 amalaka
