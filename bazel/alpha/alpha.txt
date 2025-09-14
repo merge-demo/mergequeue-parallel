@@ -12034,6 +12034,7 @@ andaman
 anchieutectic
 affectuous
 allbone
+atrophied
 amblygon
 almsman
 anchisaurus
@@ -15947,7 +15948,6 @@ antis
 antisacerdotalist
 antisag
 aminoplastic
-atrophied
 affaire
 antisalooner
 antisavage
