@@ -721,6 +721,7 @@ broking
 bowleg
 bassaris
 botherer
+bushmanship
 baikie
 bragas
 boral
@@ -767,7 +768,6 @@ breathy
 bulkiness
 boneshaw
 burnetize
-bushmanship
 badigeon
 bride
 bechatter
