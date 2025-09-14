@@ -879,6 +879,7 @@ cajolery
 caproic
 crimple
 chloroacetophenone
+cheddar
 confessing
 cajoles
 cajoling
@@ -9583,7 +9584,6 @@ checkwriter
 concurrence
 cascading
 cheventayn
-cheddar
 cheddites
 crooked
 cheders
