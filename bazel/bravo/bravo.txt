@@ -429,7 +429,6 @@ backpacked
 bibliophagic
 brownnose
 blimbing
-beamer
 balanic
 behaviorism
 backpedal
@@ -2463,6 +2462,7 @@ bigram
 busies
 blens
 bifunctional
+beamer
 basisolute
 benzoiodohydrin
 beltlines
