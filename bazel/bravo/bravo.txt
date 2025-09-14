@@ -2313,6 +2313,7 @@ baobab
 babylonish
 biasways
 bilixanthin
+besliming
 breloque
 bathyscape
 bemitred
@@ -10848,7 +10849,6 @@ blets
 brachyoura
 bonhomme
 bituberculated
-besliming
 brancardier
 beheads
 bequeathing
