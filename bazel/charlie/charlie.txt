@@ -7906,7 +7906,6 @@ cetomorpha
 cangan
 cumular
 cryptostome
-cetonia
 cetonian
 curwhibble
 cneorum
@@ -17605,6 +17604,7 @@ corr
 coccic
 cautioning
 chrisoms
+cetonia
 coccidae
 coagency
 compartmentize
