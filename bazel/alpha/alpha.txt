@@ -2395,6 +2395,7 @@ awaredom
 alcoholizable
 anachronize
 antireduction
+ampyxes
 acocotl
 acoela
 accordionist
@@ -11250,7 +11251,6 @@ amphoteric
 aircrewman
 ampicillin
 antonina
-ampyxes
 asperite
 answerably
 amplectant
