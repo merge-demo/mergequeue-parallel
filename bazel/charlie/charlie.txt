@@ -6604,6 +6604,7 @@ cedrin
 crenellation
 cedriret
 cedrol
+crochets
 corticiform
 cherte
 cedrus
@@ -26872,7 +26873,6 @@ counterimpulse
 counterindented
 counterindication
 countermining
-crochets
 counterinsurgency
 counterinterest
 catheti
