@@ -1780,7 +1780,6 @@ baluba
 berogue
 baluch
 bullet
-belgravian
 bitripinnatifid
 buses
 biretta
@@ -1809,6 +1808,7 @@ balanops
 bambute
 blackheart
 becombed
+belgravian
 bruiting
 bechtler
 blocklike
