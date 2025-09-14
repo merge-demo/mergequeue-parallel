@@ -7649,6 +7649,7 @@ aldoheptose
 airer
 aargh
 affectedly
+anabrotic
 aldol
 alismad
 adipescent
@@ -15719,7 +15720,6 @@ antiplastic
 advocation
 anethum
 antiplurality
-anabrotic
 antipodal
 antipode
 antipodic
