@@ -2986,6 +2986,7 @@ bushiness
 benzidino
 blubber
 biuniqueness
+bandhava
 bogart
 barrikin
 bindis
@@ -11242,7 +11243,6 @@ bedights
 binocles
 blotch
 beestride
-bandhava
 bizonia
 bestrapped
 blote
