@@ -9037,6 +9037,7 @@ charm
 cowlick
 ceratiidae
 camogie
+chlorids
 charmedly
 coax
 charmel
@@ -9327,7 +9328,6 @@ chauna
 cotylophorous
 counterwill
 chaunoprockt
-chlorids
 chartometer
 chaunted
 chaunter
