@@ -2225,7 +2225,6 @@ anacardium
 acidometry
 antinationalization
 asmear
-acidophilic
 airheads
 acidoses
 azotise
@@ -15797,6 +15796,7 @@ antiprostatic
 astrobiologically
 aegagropile
 attentively
+acidophilic
 asking
 agendums
 acciaccatura
