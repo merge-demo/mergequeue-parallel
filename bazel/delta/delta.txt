@@ -4410,6 +4410,7 @@ demarcations
 demarcatordemarcators
 disks
 demarchy
+dowse
 divelling
 dispersedness
 dinical
@@ -16484,7 +16485,6 @@ deducive
 downwind
 droukit
 densifies
-dowse
 dowsed
 defibrillative
 dihydric
