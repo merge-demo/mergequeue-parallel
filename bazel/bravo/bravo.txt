@@ -5572,7 +5572,6 @@ blobbed
 behalf
 bumbard
 belaboring
-blisters
 bulletheaded
 btl
 battlement
@@ -10369,6 +10368,7 @@ boskets
 bootholder
 blandation
 balsamo
+blisters
 bateau
 bargelli
 barodynamics
