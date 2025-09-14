@@ -5378,7 +5378,6 @@ bloodripeness
 babelic
 boozier
 begummed
-biolite
 butcher
 behallow
 bowldering
@@ -10967,6 +10966,7 @@ backstage
 brachygrapher
 batched
 besoothes
+biolite
 blips
 bliss
 bitterness
