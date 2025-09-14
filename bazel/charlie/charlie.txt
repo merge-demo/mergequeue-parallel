@@ -5577,7 +5577,6 @@ cataphora
 cataphoretically
 cataphoria
 cataphract
-counterargue
 cosmetology
 centenarian
 cataphracted
@@ -25120,6 +25119,7 @@ chaulmugra
 catalects
 celtization
 coresign
+counterargue
 coresonant
 convento
 chincher
