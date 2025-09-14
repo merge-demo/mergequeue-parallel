@@ -23724,6 +23724,7 @@ contracts
 contractu
 contractually
 centrefold
+counterfact
 contrada
 contradance
 calpul
@@ -26805,7 +26806,6 @@ counterexercise
 cyclometry
 counterextension
 circumduce
-counterfact
 carniferous
 clubweed
 counterfactual
