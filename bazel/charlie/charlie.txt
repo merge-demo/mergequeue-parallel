@@ -15114,6 +15114,7 @@ cl
 clabber
 crossover
 contradictor
+cavalry
 cacoepy
 clabbered
 clabbering
@@ -27140,7 +27141,6 @@ countertaste
 camarine
 choughs
 countertendency
-cavalry
 carcasses
 cataspilite
 counterterm
