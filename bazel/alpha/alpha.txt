@@ -5636,7 +5636,6 @@ agrised
 amplifier
 ashmen
 archaizes
-awacs
 apickaback
 ancestor
 agata
@@ -22738,6 +22737,7 @@ afb
 atonable
 affected
 atonalistic
+awacs
 atone
 atoned
 alcali
