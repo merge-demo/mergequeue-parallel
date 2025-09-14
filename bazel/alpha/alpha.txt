@@ -11149,6 +11149,7 @@ appenders
 autobahn
 allthing
 amphikaryotic
+apothecaries
 antitrismus
 atchison
 arzrunite
@@ -24760,7 +24761,6 @@ almas
 avision
 autostability
 areola
-apothecaries
 avisos
 ambassadorships
 avitaminosis
