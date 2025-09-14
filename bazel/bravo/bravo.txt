@@ -2956,7 +2956,6 @@ binder
 bigeyes
 blocklayer
 barrets
-blindeyes
 bimbo
 boundaries
 boreas
@@ -13312,6 +13311,7 @@ boulders
 brownprint
 briquettes
 buckeen
+blindeyes
 blastoidea
 baaskaaps
 bandlessness

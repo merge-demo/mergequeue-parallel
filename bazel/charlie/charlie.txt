@@ -2791,7 +2791,6 @@ cannons
 cigale
 coulure
 chedreux
-curvilineal
 colluded
 corruptive
 counterbewitch
@@ -6609,6 +6608,7 @@ cedrus
 cathedrallike
 crioceris
 cedula
+curvilineal
 cee
 ceibas
 chard
