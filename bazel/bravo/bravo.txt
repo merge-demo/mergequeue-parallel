@@ -10065,7 +10065,6 @@ butties
 blabbered
 barytic
 ballyragging
-blabbering
 blabbermouth
 blabbermouths
 blabbers
@@ -17908,6 +17907,7 @@ beminstrel
 bravoite
 bushless
 bareness
+blabbering
 bottega
 bushmaker
 bakuninism
