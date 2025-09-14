@@ -2323,7 +2323,6 @@ drags
 decentralising
 decentralize
 dacryohelcosis
-dewatering
 daphne
 defensory
 decoded
@@ -12636,6 +12635,7 @@ disinterestedly
 disinterestedness
 disinterment
 disheaven
+dewatering
 depersonize
 disinters
 deditician
