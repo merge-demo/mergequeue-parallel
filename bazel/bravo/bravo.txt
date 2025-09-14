@@ -3433,7 +3433,6 @@ bastardry
 briny
 biotechnologicaly
 bleakly
-bioptic
 barrelfishes
 baster
 befuddlement
@@ -15865,6 +15864,7 @@ botswana
 baby
 babyship
 backbrand
+bioptic
 bronchiolar
 brontoscopy
 bronchitic
