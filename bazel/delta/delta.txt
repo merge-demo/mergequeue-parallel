@@ -2541,6 +2541,7 @@ dimorphs
 dumbfounded
 dweller
 declassification
+diaplasis
 declassifies
 diplophonic
 discus
@@ -6352,7 +6353,6 @@ diminuendo
 drawbores
 dobla
 dermoblast
-diaplasis
 dejectory
 dermobranchiate
 dangles
