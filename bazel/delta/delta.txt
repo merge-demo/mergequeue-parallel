@@ -4201,7 +4201,6 @@ depopulations
 decylenic
 dialogic
 delocalised
-delocalize
 dermoreaction
 decrustation
 dretch
@@ -17503,6 +17502,7 @@ decretorily
 disserts
 diazoimido
 doggers
+delocalize
 daneweeds
 droughts
 dominium
