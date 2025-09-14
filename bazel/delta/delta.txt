@@ -11195,6 +11195,7 @@ dosain
 diaphanous
 deplaceable
 donating
+diols
 disattaint
 disattune
 diplomacy
@@ -15715,7 +15716,6 @@ digor
 doomsayer
 doomsday
 dacryocystotome
-diols
 decussating
 doomster
 dapson
