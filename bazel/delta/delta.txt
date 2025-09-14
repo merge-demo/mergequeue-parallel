@@ -9042,6 +9042,7 @@ disconcerting
 disparageable
 dicyemidae
 dissolvent
+diageotropism
 dysmenorrheal
 dicing
 dhow
@@ -14908,7 +14909,6 @@ docmac
 disliked
 docoglossan
 docoglossate
-diageotropism
 decidua
 docs
 doctor
