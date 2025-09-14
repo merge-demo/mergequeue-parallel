@@ -1086,6 +1086,7 @@ apologs
 amphioxidae
 aleuromancy
 affile
+apollinian
 abused
 antilynching
 anagnost
@@ -22281,7 +22282,6 @@ ancestrial
 allegorization
 adlegation
 astrometric
-apollinian
 astronavigator
 astronomer
 arider
