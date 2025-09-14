@@ -20844,7 +20844,6 @@ complied
 campodea
 crossbolted
 compliment
-cricketings
 coenesthesis
 coalyard
 complimental
@@ -26943,6 +26942,7 @@ countermure
 countermutiny
 chinoidine
 counternarrative
+cricketings
 curmudgeons
 chromeplated
 conceded
