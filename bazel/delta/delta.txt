@@ -13971,7 +13971,6 @@ depolymerization
 distn
 dystocia
 dourade
-dystocial
 diagenesis
 discrepance
 dacryadenalgia
@@ -16820,6 +16819,7 @@ disadvised
 dinumeration
 dicey
 disclaimer
+dystocial
 disauthorize
 docked
 dramshop
