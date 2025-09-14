@@ -607,7 +607,6 @@ bibliolatry
 bowfins
 blanketed
 baconize
-baconweed
 bowlings
 buckass
 bierkeller
@@ -14804,6 +14803,7 @@ basipetally
 breaded
 breaden
 breadfruit
+baconweed
 bietle
 boded
 bristler
