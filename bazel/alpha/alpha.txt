@@ -3228,7 +3228,6 @@ antipope
 adnexa
 arbored
 adapters
-adapting
 acknowledging
 abelmoschus
 algetic
@@ -8083,6 +8082,7 @@ arauan
 alicyclic
 actiniochrome
 allochroous
+adapting
 antevenient
 aphelandra
 antiquating
