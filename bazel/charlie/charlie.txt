@@ -7375,7 +7375,6 @@ cryoprobe
 cephalopoda
 convolvulinolic
 crusher
-cephalopodous
 cephalopterus
 chatot
 captivators
@@ -23335,6 +23334,7 @@ consultants
 crossbred
 consultantship
 clitoriditis
+cephalopodous
 consultary
 consultatively
 cadouk
