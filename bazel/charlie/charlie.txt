@@ -9722,6 +9722,7 @@ cribwork
 cheilodipteridae
 cheilodipterus
 christenhead
+counterweighed
 cheiloplasty
 cheilostomata
 cheilostomatous
@@ -30486,7 +30487,6 @@ cubangle
 cubanite
 contraclockwise
 conciliar
-counterweighed
 cubby
 cronie
 cavin
