@@ -11331,6 +11331,7 @@ assumingness
 ajugas
 archpriestship
 antigod
+anticking
 attendants
 alterations
 acrostical
@@ -14760,7 +14761,6 @@ amli
 almsgiving
 alphorn
 anticker
-anticking
 aitesis
 asseth
 akha
