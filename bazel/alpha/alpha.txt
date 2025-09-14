@@ -4620,6 +4620,7 @@ allometric
 allogamy
 aequor
 altitudes
+anansi
 ascanius
 aequorins
 aerate
@@ -11757,7 +11758,6 @@ anelace
 anankastic
 amok
 aqueomercurial
-anansi
 antimasquerade
 anammonide
 antecurvature
