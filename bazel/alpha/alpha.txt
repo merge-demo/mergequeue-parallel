@@ -16832,7 +16832,6 @@ apiologist
 apionol
 apiosoma
 ase
-armoires
 apyrases
 apyrexial
 armisonant
@@ -20450,6 +20449,7 @@ antipodagron
 abbotcy
 arna
 absenteeship
+armoires
 attorning
 arthral
 amesace
