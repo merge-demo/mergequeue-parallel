@@ -10048,7 +10048,6 @@ coagulants
 colyumist
 cherrystone
 canephors
-czech
 cephalotripsy
 chersydridae
 chert
@@ -29229,6 +29228,7 @@ cryptococcosis
 chinband
 cryptococcus
 chouette
+czech
 cunabula
 chousers
 consumating
