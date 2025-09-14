@@ -18087,7 +18087,6 @@ arminian
 asthenosphere
 atip
 aquatone
-acidemias
 aquavit
 abroad
 aquavits
@@ -24467,6 +24466,7 @@ acroconidium
 auxanometer
 auxeses
 altercative
+acidemias
 auxesis
 auxetic
 aghorapanthi
