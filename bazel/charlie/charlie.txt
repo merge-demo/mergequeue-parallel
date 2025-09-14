@@ -4297,7 +4297,6 @@ caricatura
 caricature
 chud
 caricaturing
-caricaturist
 courtzilite
 contaminator
 continuativeness
@@ -21485,6 +21484,7 @@ conclusion
 cytherellidae
 conclusional
 cochairmen
+caricaturist
 conclusionally
 conclusive
 coexistency
