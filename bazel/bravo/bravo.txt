@@ -8498,6 +8498,7 @@ bateful
 bilkis
 batrachophidia
 bilks
+biochemist
 buckwashing
 bushveld
 brachiolarian
@@ -13898,7 +13899,6 @@ bowline
 baptizee
 benchmarked
 barehead
-biochemist
 bowsman
 bown
 bows
