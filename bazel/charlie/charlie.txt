@@ -13108,7 +13108,6 @@ cibolero
 cibols
 columnea
 ciboney
-cryptocarpic
 ceros
 cyc
 cicad
@@ -23721,6 +23720,7 @@ cattlegate
 contractility
 contractionist
 contractions
+cryptocarpic
 contractor
 contractors
 cowls
