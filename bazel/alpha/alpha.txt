@@ -14099,7 +14099,6 @@ anteroparietal
 anencephalous
 alchochoden
 ancipitous
-afflatuses
 asepticize
 autocystoplasty
 adulterators
@@ -24380,6 +24379,7 @@ autostradas
 arsonist
 autosuggestion
 autosuggestionist
+afflatuses
 adversarious
 autosuppression
 autotelegraph
