@@ -1053,6 +1053,7 @@ bunglings
 betraise
 bailiaries
 bargainwise
+babbie
 bailieries
 borzoi
 botargos
@@ -12375,7 +12376,6 @@ bonapartism
 bonapartist
 bigotries
 betterly
-babbie
 brum
 bassariscus
 brownest
