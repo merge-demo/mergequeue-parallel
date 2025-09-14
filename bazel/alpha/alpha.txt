@@ -5097,7 +5097,6 @@ affeir
 advertency
 affenpinscher
 affere
-abnegative
 affianced
 astrohatch
 analgetic
@@ -17919,6 +17918,7 @@ approximator
 appt
 anetic
 arteriotomy
+abnegative
 aggrandise
 alemonger
 agt
