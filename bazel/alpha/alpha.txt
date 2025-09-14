@@ -2862,7 +2862,6 @@ allheals
 appendages
 allophanic
 ashless
-antozonite
 actinias
 actinic
 actinide
@@ -16844,6 +16843,7 @@ aphagia
 awarded
 anhima
 adenovirus
+antozonite
 astringe
 amritsar
 apjohnite
