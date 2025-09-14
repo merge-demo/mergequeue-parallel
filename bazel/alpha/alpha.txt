@@ -11761,6 +11761,7 @@ aqueomercurial
 antimasquerade
 anammonide
 antecurvature
+asteatosis
 anantherous
 ananthous
 anapaestically
@@ -21921,7 +21922,6 @@ anakinesis
 allelisms
 astricting
 astatized
-asteatosis
 asteep
 asteer
 aloddia
