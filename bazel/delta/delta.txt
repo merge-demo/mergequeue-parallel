@@ -9360,7 +9360,6 @@ dyewood
 diezeugmenon
 decinormal
 dread
-disorders
 divekeeper
 dactylography
 diffame
@@ -14308,6 +14307,7 @@ decorators
 defeatist
 deb
 desmoids
+disorders
 deviances
 disclamatory
 dithion

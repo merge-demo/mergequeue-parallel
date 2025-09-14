@@ -2912,7 +2912,6 @@ antipodes
 affrayers
 assamar
 asbolin
-autotomy
 actinoids
 appriser
 atiptoe
@@ -21038,6 +21037,7 @@ anagogical
 assiduate
 accipitrary
 appropriate
+autotomy
 atomicism
 amyotrophic
 alighted
