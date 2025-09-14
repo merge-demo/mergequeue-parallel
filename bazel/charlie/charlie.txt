@@ -14887,7 +14887,6 @@ caffeol
 cytomicrosome
 compartimento
 citrated
-cordages
 cassandras
 cytomorphological
 cyton
@@ -24395,6 +24394,7 @@ caviling
 cholinergic
 coolest
 cattleless
+cordages
 cynhyena
 coned
 crosspiece
