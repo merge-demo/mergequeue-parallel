@@ -9037,7 +9037,6 @@ dives
 draughtsman
 decourse
 diolefin
-duckmole
 disobeyers
 dicyclies
 disqualifies
@@ -10200,6 +10199,7 @@ danai
 dusks
 dislip
 devulgarize
+duckmole
 diluvian
 drahthaar
 devicefully
