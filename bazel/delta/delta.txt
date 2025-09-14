@@ -3612,7 +3612,6 @@ deglamorizing
 disrespectfulness
 discernably
 deglazed
-deglazing
 diopters
 duckbills
 duckling
@@ -15479,6 +15478,7 @@ deluder
 domba
 disleal
 depilous
+deglazing
 disbogue
 dombeya
 donationes
