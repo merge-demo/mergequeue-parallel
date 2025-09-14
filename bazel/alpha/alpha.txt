@@ -3448,7 +3448,6 @@ adenitis
 adenization
 adenoacanthoma
 autometry
-adenocarcinoma
 adenocarcinomas
 aceric
 adenocarcinomata
@@ -6416,6 +6415,7 @@ aidman
 adjunctive
 aids
 acariatre
+adenocarcinoma
 afterripening
 apocarpous
 aiel

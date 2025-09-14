@@ -12272,6 +12272,7 @@ deathshot
 disfurniture
 donax
 decumbence
+distancing
 disgarnish
 deliberativeness
 dyspneal
@@ -13826,7 +13827,6 @@ dressership
 distancy
 dissimilar
 diabolarchy
-distancing
 distannic
 disjoining
 dozenth
