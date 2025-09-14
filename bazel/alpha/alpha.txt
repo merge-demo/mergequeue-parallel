@@ -7743,7 +7743,6 @@ antilogarithm
 aleknight
 agreat
 assurant
-ambulante
 azodiphenyl
 afterlife
 adenography
@@ -18653,6 +18652,7 @@ amidogen
 archebanc
 archebancs
 alkine
+ambulante
 armenic
 aguilarite
 aristocratical
