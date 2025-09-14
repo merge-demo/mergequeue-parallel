@@ -7180,6 +7180,7 @@ desulfurizer
 demolitions
 dynamometric
 depictor
+diamins
 desulfurs
 decline
 daphnetin
@@ -18222,7 +18223,6 @@ delegatee
 diplodus
 detainingly
 dechlog
-diamins
 duncishness
 dundasite
 dolichopsyllidae
