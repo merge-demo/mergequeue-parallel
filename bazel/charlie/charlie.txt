@@ -15015,6 +15015,7 @@ coparceny
 citronellol
 citrons
 citronwood
+cooperations
 citrous
 citrullus
 cittern
@@ -20745,7 +20746,6 @@ complementers
 camleted
 cauter
 complementoid
-cooperations
 curvous
 cylindering
 completement
