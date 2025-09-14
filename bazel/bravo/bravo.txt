@@ -7350,6 +7350,7 @@ bromated
 betrayed
 bimarginate
 bedgown
+burgout
 bolsheviki
 blueys
 boatings
@@ -13752,7 +13753,6 @@ burga
 bufflehorn
 banisher
 biperforate
-burgout
 bicycled
 bovate
 besmirching
