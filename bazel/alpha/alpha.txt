@@ -16218,7 +16218,6 @@ antituberculosis
 antituberculotic
 antitumoral
 affray
-assoria
 aperitive
 antigraft
 atlases
@@ -24899,6 +24898,7 @@ agglutinative
 avocational
 adelops
 ameristic
+assoria
 awaking
 automotor
 awane
