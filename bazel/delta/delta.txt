@@ -1058,6 +1058,7 @@ dimyaria
 darndest
 diaulos
 dropwise
+daggled
 defaillance
 darnels
 destandardize
@@ -7959,7 +7960,6 @@ demoniacal
 doormaker
 drenching
 dispels
-daggled
 deeps
 deworming
 deworms
