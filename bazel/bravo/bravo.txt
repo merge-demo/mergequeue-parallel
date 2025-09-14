@@ -1111,7 +1111,6 @@ bunns
 boogymen
 bainie
 bedizenment
-beakermen
 baioc
 braciole
 blanketry
@@ -4576,6 +4575,7 @@ byordinar
 beddingroll
 bubble
 bogans
+beakermen
 bewilderingly
 broomwood
 bedeafening
