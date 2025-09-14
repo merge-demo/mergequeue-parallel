@@ -8620,6 +8620,7 @@ bilobed
 bowden
 bilocular
 biloculina
+betray
 bhikhari
 baxterian
 bilos
@@ -14463,7 +14464,6 @@ boatyards
 baldaquin
 banyan
 bakunda
-betray
 brakie
 blastophitic
 bramble
