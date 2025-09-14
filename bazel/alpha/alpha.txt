@@ -4344,6 +4344,7 @@ adventively
 aciduria
 apaesthesia
 alimenter
+alboranite
 allegorism
 amounting
 acrography
@@ -7729,7 +7730,6 @@ almighty
 alefzero
 amor
 aleikoum
-alboranite
 accidentality
 astropecten
 agammaglobulinemia
