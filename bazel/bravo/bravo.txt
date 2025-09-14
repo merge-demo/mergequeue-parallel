@@ -1236,6 +1236,7 @@ brew
 buoys
 brawliest
 breth
+brothel
 burion
 baked
 blepharydatis
@@ -13527,7 +13528,6 @@ bottu
 bassi
 boggles
 botulism
-brothel
 bags
 bourre
 beseek
