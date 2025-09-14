@@ -6725,7 +6725,6 @@ drunkard
 disorderliness
 darnex
 diatribes
-desiderium
 desiderta
 desidiose
 designable
@@ -8706,6 +8705,7 @@ disgustedness
 dryads
 dialectology
 diastasimetry
+desiderium
 devilfishes
 desalinizing
 discoplacental
