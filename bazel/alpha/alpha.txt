@@ -16850,7 +16850,6 @@ amritsar
 apjohnite
 antistrophe
 aplace
-adderfish
 aplacentalia
 aplacentaria
 aplacophorous
@@ -18172,6 +18171,7 @@ amity
 arabica
 alodies
 agush
+adderfish
 archont
 articulationes
 arabiyeh
