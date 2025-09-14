@@ -643,6 +643,7 @@ azoted
 abominations
 arithmocracy
 affably
+agorae
 abominators
 abomine
 attainer
@@ -6471,7 +6472,6 @@ aiguillette
 anthropoids
 aquiline
 antinuke
-agorae
 aik
 aikane
 automatictacessing
