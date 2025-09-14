@@ -7151,7 +7151,6 @@ driftiest
 desudation
 duchesslike
 dextrans
-desulfur
 disgracefully
 dampeners
 donenesses
@@ -14308,6 +14307,7 @@ deporter
 deisms
 defoliator
 delies
+desulfur
 decorators
 defeatist
 deb
