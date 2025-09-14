@@ -14826,7 +14826,6 @@ dryable
 dyeware
 dermostosis
 dobbies
-diesis
 dochmiacal
 dispossessor
 diabaterial
@@ -17461,6 +17460,7 @@ dichotomised
 drops
 dialoguing
 disrudder
+diesis
 diallela
 doeth
 dribblers
