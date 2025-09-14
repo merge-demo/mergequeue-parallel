@@ -13492,7 +13492,6 @@ duffle
 disrobes
 decrassify
 disroost
-daubreite
 dogmatise
 demiurgism
 daijo
@@ -14556,6 +14555,7 @@ dividendus
 divident
 danubian
 dromograph
+daubreite
 dividivis
 divinising
 diaphanometer
