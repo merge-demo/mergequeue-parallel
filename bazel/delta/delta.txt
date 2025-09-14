@@ -3805,7 +3805,6 @@ deigned
 dinocerata
 depositors
 deliveryman
-defail
 dismalize
 daidling
 dollmaker
@@ -15183,6 +15182,7 @@ dados
 dyn
 dhamma
 describing
+defail
 duckeries
 dibbukim
 demulsify
