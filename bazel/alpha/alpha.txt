@@ -3649,7 +3649,6 @@ apples
 anaboly
 adiathermancy
 antioxidase
-alcoranist
 akroterial
 alure
 arcticologist
@@ -5102,6 +5101,7 @@ aspartyl
 affiches
 affidation
 antihemorrhagic
+alcoranist
 ais
 almond
 affidavy
