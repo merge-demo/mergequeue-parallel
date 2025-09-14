@@ -2578,7 +2578,6 @@ atomizes
 abrasiometer
 anilic
 anticyclonic
-albolite
 attent
 antislickens
 affords
@@ -7261,6 +7260,7 @@ abietene
 annulus
 amusiveness
 antrum
+albolite
 adversus
 animalist
 applauder
