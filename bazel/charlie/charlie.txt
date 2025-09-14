@@ -493,7 +493,6 @@ cades
 ceremoniary
 chainmaking
 cadet
-canonize
 counterreply
 cathro
 cesar
@@ -7628,6 +7627,7 @@ ceremonialist
 ceremonialize
 ceremonialness
 ceremonials
+canonize
 counterlocking
 contrabass
 ceremonies

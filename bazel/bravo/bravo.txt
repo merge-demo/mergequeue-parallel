@@ -7349,7 +7349,6 @@ boatings
 baudekins
 blackfish
 betread
-barnier
 burglarproofed
 betrend
 braveries
@@ -9320,6 +9319,7 @@ bench
 birdglue
 bah
 bisulfid
+barnier
 brachtmema
 birdhood
 birdhouse
