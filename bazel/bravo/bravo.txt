@@ -175,7 +175,6 @@ besweeten
 bombastic
 babudom
 butternut
-backus
 byzantinesque
 bespattering
 bellerophon
@@ -476,6 +475,7 @@ battik
 benzoates
 backspaces
 backspacing
+backus
 begarie
 bucentaur
 butteries
