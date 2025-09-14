@@ -5752,7 +5752,6 @@ cobwork
 cultivated
 cochlearia
 chemicopharmaceutical
-cuemanship
 cleaves
 categorization
 coryzal
@@ -31816,6 +31815,7 @@ chanabal
 cuteness
 cutenesses
 collying
+cuemanship
 childbear
 changelings
 cutesier
