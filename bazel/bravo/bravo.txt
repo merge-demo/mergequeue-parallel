@@ -4565,6 +4565,7 @@ buntal
 bryophyte
 branchial
 brachelytrous
+bedstand
 bedcovers
 blader
 bouts
@@ -6566,7 +6567,6 @@ bobcat
 bronchia
 beezers
 buchanite
-bedstand
 bimane
 begreen
 bevvy
