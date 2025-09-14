@@ -10861,7 +10861,6 @@ chipmunks
 chipolata
 coleopteroid
 cordwain
-chippendale
 chemiatrist
 chippered
 countermeasures
@@ -11804,6 +11803,7 @@ corky
 collyba
 chonk
 collaborate
+chippendale
 calfhood
 coarbiter
 cholochrome
