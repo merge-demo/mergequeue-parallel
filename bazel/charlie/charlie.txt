@@ -3457,7 +3457,6 @@ capsulation
 collegatary
 chainomatic
 chawbone
-capsulectomy
 coccyges
 centinody
 countershaft
@@ -18555,6 +18554,7 @@ catchiest
 clericalize
 coracomorphic
 countermark
+capsulectomy
 champac
 coheirs
 coheirship
