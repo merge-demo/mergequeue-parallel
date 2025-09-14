@@ -1836,6 +1836,7 @@ bullose
 bialystoker
 bayed
 bandaging
+bilamellated
 bowlin
 bathoses
 blotchiness
@@ -8391,7 +8392,6 @@ bupleurum
 bacony
 beaverette
 boastless
-bilamellated
 bocage
 bleareye
 bittium
