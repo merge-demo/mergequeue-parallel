@@ -6926,6 +6926,7 @@ bite
 brisance
 bahera
 bidden
+badju
 bepaid
 beslobber
 bespread
@@ -11599,7 +11600,6 @@ boardinghouse
 boardings
 boardsmanship
 besieges
-badju
 boatloads
 boardly
 bedrapes
