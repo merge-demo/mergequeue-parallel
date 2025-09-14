@@ -11569,7 +11569,6 @@ cucumbers
 cholecystenterorrhaphy
 cholecystgastrostomy
 carburisation
-cholecystic
 complimenting
 cholecystitis
 cozies
@@ -17999,6 +17998,7 @@ coelar
 coelastraceous
 canonics
 coelata
+cholecystic
 cosentiency
 charring
 coelebogyne
