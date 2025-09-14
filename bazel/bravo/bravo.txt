@@ -5042,6 +5042,7 @@ blueback
 biocatalyst
 basenet
 burdenous
+bariums
 befezzed
 bushmasters
 broiderer
@@ -15591,7 +15592,6 @@ bannerfish
 balayeuse
 bromeliaceous
 bacteriologist
-bariums
 broadeners
 broadenings
 bribee

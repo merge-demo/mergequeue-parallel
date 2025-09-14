@@ -2629,7 +2629,6 @@ decolourizer
 dumpcarts
 desexualize
 decreers
-decommission
 decommissioned
 dumbbeller
 diddler
@@ -16037,6 +16036,7 @@ distileries
 deprecable
 dossmen
 dissemblies
+decommission
 decamerous
 desaminase
 downcried
