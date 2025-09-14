@@ -3406,7 +3406,6 @@ bookstores
 bewall
 braches
 berascaled
-botanizer
 basswood
 burghership
 burgomaster
@@ -5798,6 +5797,7 @@ bellies
 bellyful
 bestrews
 blares
+botanizer
 boor
 beadier
 boldoine
