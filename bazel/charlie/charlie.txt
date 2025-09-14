@@ -6922,7 +6922,6 @@ concours
 culm
 caruage
 cenaculum
-cloglike
 coloproctitis
 cenation
 cencerro
@@ -31486,6 +31485,7 @@ currycombing
 carpolite
 currycombs
 crossword
+cloglike
 centrings
 cogitators
 coffined
