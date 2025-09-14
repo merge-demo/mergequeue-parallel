@@ -5359,7 +5359,6 @@ corseleting
 castilleja
 castillo
 coattestation
-chronologize
 chapourn
 chon
 carpi
@@ -13729,6 +13728,7 @@ cinchonisation
 cinchonise
 cloots
 clashed
+chronologize
 chambul
 cheers
 cinchonization
