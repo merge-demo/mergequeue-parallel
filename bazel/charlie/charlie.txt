@@ -24420,6 +24420,7 @@ cytochemical
 coolweed
 ceryl
 coolwort
+carnary
 canella
 coombes
 calyculus
@@ -24786,7 +24787,6 @@ chitting
 copular
 conceivable
 carnel
-carnary
 carolinas
 copulation
 copulative
