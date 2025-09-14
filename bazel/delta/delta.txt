@@ -7566,7 +7566,6 @@ deuterate
 deuteration
 denucleate
 demarcator
-desulfurized
 disenchain
 datura
 dittos
@@ -11613,6 +11612,7 @@ dormitory
 disconcertment
 dyspnoi
 drees
+desulfurized
 duodecennial
 dipsadine
 dispassionately
