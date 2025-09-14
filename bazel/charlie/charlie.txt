@@ -907,6 +907,7 @@ carnotite
 clientelage
 charites
 cloragen
+chalone
 consecration
 caking
 collagist
@@ -10264,7 +10265,6 @@ coeline
 counterrefer
 curacao
 chiastoneural
-chalone
 cubanize
 coati
 cyclistic
