@@ -366,7 +366,6 @@ confabulation
 centinel
 chrysin
 cacoon
-cancroids
 calliphora
 cacophonic
 cacophonically
@@ -7876,6 +7875,7 @@ cestoids
 cestraction
 chairs
 colessees
+cancroids
 conned
 cesural
 cetaceans
