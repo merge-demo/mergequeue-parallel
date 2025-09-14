@@ -11974,7 +11974,6 @@ chorial
 choriamb
 choriambic
 chorometry
-coaggregated
 camisole
 confarreate
 choriambus
@@ -30817,6 +30816,7 @@ colicweed
 consonances
 cervicolabial
 cholates
+coaggregated
 ciruela
 cullises
 cinereous
