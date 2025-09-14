@@ -10972,6 +10972,7 @@ blips
 bliss
 bitterness
 branchiostegous
+blackplate
 bucketshop
 birdcatcher
 beaten
@@ -16447,7 +16448,6 @@ bargeese
 backbiters
 bonders
 bibliopolical
-blackplate
 bern
 brutishness
 brewed
