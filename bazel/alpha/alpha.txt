@@ -4943,6 +4943,7 @@ aerugo
 aerugos
 aes
 amparo
+arenga
 autosepticemia
 aesculaceous
 alliancer
@@ -15864,7 +15865,6 @@ antiradiating
 ammi
 accessorius
 arapunga
-arenga
 antiradical
 antiegotist
 anticomplex
