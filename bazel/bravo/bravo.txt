@@ -13841,7 +13841,6 @@ bavaroy
 bowerlet
 bacteriolytic
 bookshelves
-befalling
 begins
 bighearted
 bagreef
@@ -13968,6 +13967,7 @@ borghese
 belute
 brooders
 boxtop
+befalling
 benchboard
 blackback
 benzotoluide
