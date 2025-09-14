@@ -2253,7 +2253,6 @@ aneurismatic
 androcles
 acierated
 amphoriloquy
-acierates
 americophobe
 abbreviatory
 athetoid
@@ -23689,6 +23688,7 @@ assistantship
 allicit
 anticivism
 apostatic
+acierates
 acaulescent
 amatories
 austrianize
