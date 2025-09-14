@@ -681,6 +681,7 @@ dadoxylon
 damosel
 drachms
 decapitalize
+derationalize
 damped
 decemviri
 desquamated
@@ -10714,7 +10715,6 @@ derivable
 downstreet
 demulcent
 digoxin
-derationalize
 disinfected
 dreadlessness
 disendower
