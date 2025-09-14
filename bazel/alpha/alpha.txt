@@ -7863,7 +7863,6 @@ alexandra
 anemometry
 agalactous
 alexandrian
-automonstration
 alexandrina
 adenomatome
 aggravations
@@ -22538,6 +22537,7 @@ accelerant
 atheticize
 athymy
 athymia
+automonstration
 anticonscriptive
 athymic
 antimonyl
