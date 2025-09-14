@@ -10587,7 +10587,6 @@ diatomean
 diacrisis
 diplococcemia
 dermatomycosis
-digammate
 dashiki
 denote
 diamides
@@ -12403,6 +12402,7 @@ distinctionless
 diaphototropic
 dutchess
 detracted
+digammate
 dactyl
 dithyrambically
 dromaeognathous
