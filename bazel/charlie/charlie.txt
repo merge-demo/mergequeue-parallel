@@ -10725,7 +10725,6 @@ chimneyman
 chimneypiece
 chimopelagic
 creedalism
-charivariing
 coilsmith
 canthari
 cisgangetic
@@ -20904,6 +20903,7 @@ capacitors
 conspissate
 civvy
 contentedness
+charivariing
 compos
 crotalus
 cloverleaf
