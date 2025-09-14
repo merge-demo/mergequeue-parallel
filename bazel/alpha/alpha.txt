@@ -5231,6 +5231,7 @@ agnosticism
 agglutinable
 applying
 affrightedly
+animally
 acarpellous
 affrightful
 affydavy
@@ -6631,7 +6632,6 @@ agrimonia
 axoplasms
 airdate
 avowing
-animally
 argentarius
 afterband
 amyrin
