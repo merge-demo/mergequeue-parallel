@@ -7009,6 +7009,7 @@ bather
 boweled
 bombidae
 byre
+benote
 buddy
 bewhiskered
 barbute
@@ -14985,7 +14986,6 @@ bepillared
 bacteriol
 babite
 binapthyl
-benote
 befetter
 bygane
 breenger
