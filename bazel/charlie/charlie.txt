@@ -16411,6 +16411,7 @@ clitch
 clite
 counterplea
 clites
+composita
 cleridae
 clithral
 clitia
@@ -20913,7 +20914,6 @@ cacocholia
 canst
 composer
 corrals
-composita
 chancre
 composite
 creamer
