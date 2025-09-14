@@ -1633,7 +1633,6 @@ clogged
 curlicuing
 cleistogene
 circ
-cestoi
 counterdiscipline
 calorifical
 calorification
@@ -23110,6 +23109,7 @@ conspecies
 crenotherapy
 cotula
 chirology
+cestoi
 conspecific
 conspection
 conspectus
