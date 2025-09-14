@@ -5825,6 +5825,7 @@ distalwards
 deportment
 desmotropism
 dacker
+draftman
 deepnesses
 deposer
 deposers
@@ -13259,7 +13260,6 @@ drie
 dolphinfish
 dyspnea
 dyspneas
-draftman
 diapensiaceae
 dorsocephalad
 dimity
