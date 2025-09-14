@@ -2294,7 +2294,6 @@ daikering
 decemvirship
 decayer
 decene
-depurator
 decennial
 dinichthyid
 dingdongs
@@ -11164,6 +11163,7 @@ do
 discernibility
 dendroctonus
 dulled
+depurator
 dorhawk
 dotless
 dissertator
