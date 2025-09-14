@@ -2291,6 +2291,7 @@ decemuiri
 downcut
 deepish
 devoutless
+devocation
 daikering
 decemvirship
 decayer
@@ -4587,7 +4588,6 @@ damia
 dromicia
 demigriffin
 distraughted
-devocation
 datums
 drabbled
 daedalus
