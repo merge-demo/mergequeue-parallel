@@ -7069,6 +7069,7 @@ centesimation
 crosscurrented
 catalpa
 caelus
+colloidality
 cerebrophysiology
 conciliated
 connotational
@@ -19234,7 +19235,6 @@ cataract
 chaetopoda
 cinenchym
 caponatas
-colloidality
 citylike
 colloider
 cede
