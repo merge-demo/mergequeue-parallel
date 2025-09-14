@@ -6117,6 +6117,7 @@ agrammaphasia
 agrammatica
 accouple
 afterpeak
+anaesthetize
 authorized
 agrammatologia
 ahab
@@ -11567,7 +11568,6 @@ anaesthetization
 avoke
 ayme
 artal
-anaesthetize
 anaesthetizer
 acknowledged
 arthralgic
