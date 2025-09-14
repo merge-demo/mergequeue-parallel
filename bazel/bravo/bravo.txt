@@ -5860,6 +5860,7 @@ bailiffship
 belongs
 bakuba
 bicameral
+bombycina
 banderillero
 belonidae
 bullions
@@ -13423,7 +13424,6 @@ botryopteriaceae
 boulter
 beetfly
 bottekin
-bombycina
 borussian
 balloon
 berk
