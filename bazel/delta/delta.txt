@@ -12963,7 +12963,6 @@ dilatableness
 disodium
 dinophilus
 doctrine
-disdiazo
 dowment
 deniability
 dimensionless
@@ -14488,6 +14487,7 @@ dressmaker
 doneness
 decenaries
 dourine
+disdiazo
 dimethylamine
 defenestration
 dioptrometer
