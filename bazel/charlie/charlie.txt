@@ -8811,6 +8811,7 @@ cortile
 concurbit
 camelot
 cloudless
+cliffhang
 chaptalize
 cymbalaria
 chapter
@@ -22337,7 +22338,6 @@ claustrum
 congou
 coessentialness
 corrasion
-cliffhang
 coptine
 chilarium
 congratulates
