@@ -6156,7 +6156,6 @@ beneighbored
 beneme
 buckhorn
 barrigudo
-barbless
 buchmanism
 befinger
 buttinsky
@@ -10670,6 +10669,7 @@ biotics
 bronchorrhagia
 bleats
 bleaunt
+barbless
 brazenly
 bleb
 blebby
