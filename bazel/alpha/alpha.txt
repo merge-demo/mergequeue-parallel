@@ -14512,6 +14512,7 @@ araneids
 abox
 antianthropomorphism
 amethystlike
+attachedly
 antiantibody
 antianxiety
 antiganting
@@ -17351,7 +17352,6 @@ apotheosize
 apotheosized
 apothesine
 anametadromous
-attachedly
 anteportico
 amercers
 aluminizes
