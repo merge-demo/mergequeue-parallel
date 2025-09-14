@@ -2864,7 +2864,6 @@ actinias
 actinic
 actinide
 akene
-archenteron
 axtree
 aulostomi
 actiniomorpha
@@ -10008,6 +10007,7 @@ ambonnay
 admarginate
 atropos
 anthroposophical
+archenteron
 ambrain
 antehuman
 acidimetry
