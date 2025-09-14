@@ -4468,7 +4468,6 @@ carbine
 cephalogenesis
 carnallite
 churchshot
-corroborate
 carnalness
 conidial
 carnaptious
@@ -29769,6 +29768,7 @@ colleagued
 chimerically
 cochleate
 croppy
+corroborate
 clarty
 cropping
 crops
