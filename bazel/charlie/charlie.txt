@@ -2846,7 +2846,6 @@ cadaverine
 canonised
 canoniser
 cephalothoraces
-crockeryware
 casziel
 coambassador
 canonising
@@ -7422,6 +7421,7 @@ ceramographic
 colchian
 canvass
 chloroformed
+crockeryware
 cerasein
 cerastes
 conciliatory
