@@ -3959,7 +3959,6 @@ basset
 boltspreet
 bromoiodide
 bondon
-bawtie
 banisters
 beegerite
 bestsellers
@@ -4313,6 +4312,7 @@ beche
 bused
 belout
 becheck
+bawtie
 broilingly
 bibliotherapeutic
 befool
