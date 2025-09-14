@@ -13124,7 +13124,6 @@ cotys
 catstone
 cycadofilicales
 cycadofilices
-cannikins
 coronographic
 cycadophyta
 craniograph
@@ -30406,6 +30405,7 @@ cantaloupe
 csch
 conveniences
 csect
+cannikins
 cpu
 cholecystectomies
 csmp
