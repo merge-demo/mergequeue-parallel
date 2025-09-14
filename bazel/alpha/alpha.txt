@@ -8402,6 +8402,7 @@ alphabetizers
 asmoke
 alkylarylsulfonate
 anallergic
+anviltops
 arapahos
 abrahamic
 alkylate
@@ -14228,7 +14229,6 @@ awful
 acolyte
 anthotaxy
 anthotaxis
-anviltops
 andries
 aget
 anisocycle
