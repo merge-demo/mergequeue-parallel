@@ -347,7 +347,6 @@ desand
 drawstring
 desquamative
 demobs
-dipsacaceae
 dermopterous
 dichlorodiphenyltrichloroethane
 dunstable
@@ -4051,6 +4050,7 @@ depressingness
 deliberately
 divertibility
 disbosoms
+dipsacaceae
 dislikelihood
 duologue
 deliberateness
