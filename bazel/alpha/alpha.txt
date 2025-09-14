@@ -14755,7 +14755,6 @@ anticipators
 anticity
 amli
 almsgiving
-alphorn
 anticker
 absentminded
 aitesis
@@ -19686,6 +19685,7 @@ ambaries
 aplombs
 antipollution
 amsonia
+alphorn
 alpenhorns
 achroanthes
 arling

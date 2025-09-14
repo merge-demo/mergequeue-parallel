@@ -3338,7 +3338,6 @@ decempeda
 ditremidae
 defleas
 downlinks
-diatomiferous
 deflect
 dichotomic
 driftfishes
@@ -15423,6 +15422,7 @@ discovery
 derries
 dolomitic
 descriptives
+diatomiferous
 dorididae
 dolomitization
 dryfarmer
