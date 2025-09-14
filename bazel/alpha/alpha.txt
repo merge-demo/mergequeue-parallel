@@ -12102,6 +12102,7 @@ antiblennorrhagic
 anagrammatize
 accumulated
 anconal
+artefacts
 anticipate
 anconas
 atticized
@@ -20358,7 +20359,6 @@ antitypes
 acceptableness
 asynchrony
 adaptively
-artefacts
 anaglyphoscope
 autosymnoia
 apiolin

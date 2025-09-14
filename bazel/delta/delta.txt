@@ -4850,7 +4850,6 @@ disemploys
 demographically
 diptera
 divertissement
-distrained
 dementedness
 dorneck
 descendentalism
@@ -12402,6 +12401,7 @@ dutchess
 detracted
 digammate
 dactyl
+distrained
 dithyrambically
 dromaeognathous
 dielectrics
