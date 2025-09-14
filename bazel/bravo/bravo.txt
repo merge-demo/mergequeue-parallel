@@ -8315,7 +8315,6 @@ bronx
 babish
 bigheartedness
 benedictionale
-bradoon
 bintangor
 byliny
 bights
@@ -12506,6 +12505,7 @@ bauk
 bootful
 backdoor
 burliness
+bradoon
 boarded
 bonfires
 bongoes
