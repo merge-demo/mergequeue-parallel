@@ -3984,6 +3984,7 @@ centriscus
 cardanol
 churchgrith
 chymist
+circumstantialness
 cornmaster
 crissum
 cardcases
@@ -14377,7 +14378,6 @@ coelacanthid
 chronometry
 circumstantiality
 circumstantialities
-circumstantialness
 coazervation
 comparsa
 catacumba
