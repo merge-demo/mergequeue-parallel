@@ -752,7 +752,6 @@ berther
 badging
 buddhism
 blastemas
-banksman
 bifrost
 barracker
 breathy
@@ -17372,6 +17371,7 @@ burler
 burgoyne
 balsawood
 bewearying
+banksman
 brocage
 bagnette
 boccies
