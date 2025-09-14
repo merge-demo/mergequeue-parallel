@@ -6816,7 +6816,6 @@ cuddly
 cryptesthesia
 conscientiousness
 curares
-cytologist
 cellulitis
 celluloid
 carby
@@ -8271,6 +8270,7 @@ chalicotheriidae
 caravan
 campfire
 cephalohumeralis
+cytologist
 chantress
 courtyard
 chalina
