@@ -3113,7 +3113,6 @@ acupunctuation
 antilevelling
 aleberry
 approachabl
-azotine
 apsides
 acupunctured
 antivenomous
@@ -22308,6 +22307,7 @@ astrophotographic
 astrophotometer
 astroscopy
 autocratorical
+azotine
 abstractly
 allegorised
 astroscopus
