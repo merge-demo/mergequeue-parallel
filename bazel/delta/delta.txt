@@ -2446,7 +2446,6 @@ decimolar
 drainpipe
 downgoing
 dangling
-denizenize
 disimprisonment
 dissipable
 dietetist
@@ -7465,6 +7464,7 @@ diamicton
 devest
 dukuma
 decarbonylating
+denizenize
 dunness
 digitately
 dermostenosis

@@ -9970,7 +9970,6 @@ allophylian
 astral
 antasthmatic
 amblystegite
-amblystoma
 attesters
 amblotic
 anomaloscope
@@ -18333,6 +18332,7 @@ archdeacons
 antiquely
 arb
 arbacia
+amblystoma
 amebae
 arbacin
 agogics
