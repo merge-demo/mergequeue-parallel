@@ -14471,7 +14471,6 @@ choralist
 colonialism
 capitolian
 courtezan
-confidentially
 cirriped
 chowsed
 cirripedia
@@ -17918,6 +17917,7 @@ chondrotome
 codical
 chlamys
 cryptanalytics
+confidentially
 camas
 codicology
 calycule
