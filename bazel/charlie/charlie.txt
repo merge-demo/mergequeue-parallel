@@ -8439,7 +8439,6 @@ chromotherapist
 cherished
 claires
 chamos
-chamosite
 chamotte
 cynosura
 cauligenous
@@ -22304,6 +22303,7 @@ congestion
 calk
 congestive
 conglaciate
+chamosite
 cornered
 conglobate
 circumlocutional
