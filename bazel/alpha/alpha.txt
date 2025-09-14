@@ -2761,7 +2761,6 @@ acronychal
 acronichally
 adelocodonic
 apicoectomy
-amylopsase
 abvolt
 annona
 adsorbability
@@ -16879,6 +16878,7 @@ alveolars
 affreight
 aplites
 amulet
+amylopsase
 aplitic
 aplobasalt
 anastrophia
