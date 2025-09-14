@@ -96,7 +96,6 @@ accelerator
 antipriestcraft
 adda
 abaptiston
-acknow
 auscultate
 auditories
 abarticulation
@@ -3545,6 +3544,7 @@ antidiphtheritic
 approachless
 adenotome
 articulable
+acknow
 adenoviruses
 adeona
 attenuative
