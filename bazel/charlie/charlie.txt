@@ -5881,7 +5881,6 @@ cathartolinum
 cathected
 cathects
 cathedra
-cathedraled
 cathedralesque
 clasp
 cathedras
@@ -29473,6 +29472,7 @@ criterional
 creolin
 criterions
 cerealist
+cathedraled
 cotsetle
 crithidia
 chiasmodontidae
