@@ -11871,6 +11871,7 @@ discure
 decentralism
 dispositor
 discurre
+dotlike
 dislikable
 discursify
 dewcup
@@ -14796,7 +14797,6 @@ dendroceratine
 disincline
 dimensionality
 degasification
-dotlike
 dogmatisation
 definitiones
 discarnation
