@@ -3586,6 +3586,7 @@ barkentine
 bathometer
 brutalizing
 bonagh
+bosn
 bathometry
 bathool
 boomkins
@@ -13220,7 +13221,6 @@ bosjesman
 boustrophedonic
 boskier
 balneology
-bosn
 benefactress
 balneologist
 buggery
