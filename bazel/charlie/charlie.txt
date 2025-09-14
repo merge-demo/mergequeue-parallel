@@ -3868,7 +3868,6 @@ coadventurer
 charminger
 carbureted
 cytoarchitecturally
-carburetion
 chichipate
 conformational
 cassididae
@@ -25743,6 +25742,7 @@ cellarman
 corrigiola
 corrival
 corrivalry
+carburetion
 corrivalship
 corrivate
 corrivation
