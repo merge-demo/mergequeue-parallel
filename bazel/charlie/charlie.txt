@@ -10161,6 +10161,7 @@ cheval
 chevalet
 chevalets
 centeredness
+chiromant
 cystencyte
 chevaliers
 chippewa
@@ -25270,7 +25271,6 @@ corklike
 cruche
 crystallogy
 craterkin
-chiromant
 corkline
 calendars
 corks
