@@ -868,7 +868,6 @@ absoil
 absterging
 antient
 amphitron
-agrarianize
 absolent
 azophosphin
 apophlegmatic
@@ -17763,6 +17762,7 @@ appraising
 abacate
 appraisive
 almique
+agrarianize
 appreciates
 appreciatingly
 ashet
