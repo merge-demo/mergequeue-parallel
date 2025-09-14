@@ -4601,7 +4601,6 @@ amdt
 aggrieves
 alsatian
 alycompaine
-aeq
 abaris
 attitudinising
 aequi
@@ -20976,6 +20975,7 @@ aortography
 ascones
 asconoid
 ascophore
+aeq
 aclydes
 ascorbic
 ascosporic
