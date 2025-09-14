@@ -13791,7 +13791,6 @@ cynegild
 conspurcate
 cedared
 cinemagoer
-circumlocutionary
 cryptocommercial
 cinemagoers
 cinemas
@@ -24494,6 +24493,7 @@ copps
 cooties
 chlorosis
 copable
+circumlocutionary
 carrs
 claquer
 copaene
