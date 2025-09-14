@@ -2497,7 +2497,6 @@ beet
 beforementioned
 bravura
 bargellos
-begroans
 barger
 bardash
 bractea
@@ -10899,6 +10898,7 @@ beadledom
 biggity
 bibbling
 brompicrin
+begroans
 baldpated
 bifid
 bindable
