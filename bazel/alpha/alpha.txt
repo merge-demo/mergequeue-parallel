@@ -1768,6 +1768,7 @@ atridean
 accorporate
 acequia
 acer
+acquisition
 arcual
 acerate
 acerated
@@ -14314,7 +14315,6 @@ antiuating
 amphitrichous
 autoput
 anthropical
-acquisition
 anthropobiology
 acerbly
 automaton
