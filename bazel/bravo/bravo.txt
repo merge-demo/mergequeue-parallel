@@ -8384,6 +8384,7 @@ beep
 bradawls
 bikie
 belluine
+besoothing
 bedaze
 balita
 blams
@@ -14502,7 +14503,6 @@ branchiae
 bradyglossia
 belittler
 branchicolous
-besoothing
 branchiest
 branchiferous
 birthrates
