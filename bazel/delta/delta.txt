@@ -5522,7 +5522,6 @@ diaphragm
 dogtrot
 darter
 dolichos
-digging
 dochmii
 darlingly
 dermamyiasis
@@ -12972,6 +12971,7 @@ dimensionless
 decenyl
 depurative
 disomatic
+digging
 doubtmonger
 dispermic
 dognaping
