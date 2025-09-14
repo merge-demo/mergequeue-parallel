@@ -27531,7 +27531,6 @@ cameroon
 corticium
 cristobalite
 catholici
-covent
 coventrate
 cover
 containable
@@ -29971,6 +29970,7 @@ confutation
 crotesco
 chimerism
 croton
+covent
 crotonaldehyde
 crotonate
 chitchat

@@ -12161,7 +12161,6 @@ brose
 boomier
 biasnesses
 bedral
-blancmange
 barbarisms
 bedeen
 becrawling
@@ -15097,6 +15096,7 @@ backstay
 bronziest
 barberfish
 briarwood
+blancmange
 bribees
 bribegiver
 bribers
