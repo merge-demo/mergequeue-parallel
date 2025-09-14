@@ -3105,7 +3105,6 @@ dynamostatic
 disability
 downstairs
 duringly
-defaulted
 defaultless
 downfolded
 defaults
@@ -4943,6 +4942,7 @@ devolutive
 demonomist
 demonopolize
 defervescence
+defaulted
 demonry
 damalic
 dubiosities
