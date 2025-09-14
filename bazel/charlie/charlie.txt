@@ -11129,6 +11129,7 @@ chivareeing
 chivarees
 chivari
 chivaris
+collating
 chivarra
 chive
 cinecamera
@@ -20982,7 +20983,6 @@ compressively
 compressors
 comprest
 compriest
-collating
 chambering
 comprisal
 controllability
