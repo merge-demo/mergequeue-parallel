@@ -14720,6 +14720,7 @@ boulevards
 bifolium
 bravuras
 bolides
+bisectional
 bima
 baetzner
 bashara
@@ -17305,7 +17306,6 @@ bushfighter
 bungee
 bunger
 begrudging
-bisectional
 breadearning
 bunghole
 brumby
