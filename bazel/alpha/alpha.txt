@@ -15321,7 +15321,6 @@ afterstrain
 assidean
 amusingly
 airliners
-amortized
 antimatrimonial
 alogical
 antimechanism
@@ -23882,6 +23881,7 @@ autocarp
 afterbay
 autocarpian
 achatinella
+amortized
 autocarpic
 antiphthisic
 acenaphthenyl
