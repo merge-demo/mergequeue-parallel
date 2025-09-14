@@ -9906,7 +9906,6 @@ diluvia
 disarmament
 deviancies
 dissected
-disseminate
 dietic
 deadlines
 defacers
@@ -15526,6 +15525,7 @@ distoma
 dissemblance
 decempedate
 droll
+disseminate
 dendrochronological
 detribalize
 dynamize

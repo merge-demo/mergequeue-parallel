@@ -16519,7 +16519,6 @@ amphithalmi
 antiq
 apeek
 apeling
-apelles
 apenteric
 athirst
 affiliate
@@ -17358,6 +17357,7 @@ apyretic
 asmalte
 asciferous
 apotropous
+apelles
 antarctically
 acipenser
 aggressively
