@@ -8409,6 +8409,7 @@ bundu
 bilby
 braggite
 banqueteering
+bomi
 bandsawed
 bilcock
 blearyeyedness
@@ -12367,7 +12368,6 @@ blackgum
 beswarmed
 bombus
 bombardelle
-bomi
 beloveds
 bon
 backrope
