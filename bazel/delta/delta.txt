@@ -6041,7 +6041,6 @@ drawarm
 depthways
 disoccupy
 disjeune
-deadman
 dandered
 disengagement
 decoupling
@@ -15592,6 +15591,7 @@ danker
 donaciform
 donack
 daishiki
+deadman
 decrescence
 dicyanodiamide
 deduit
