@@ -17563,7 +17563,6 @@ appersonation
 appersonification
 appert
 appertain
-athematic
 accosts
 andranatomy
 acrose
@@ -21570,6 +21569,7 @@ amend
 acaudal
 algogenic
 americanized
+athematic
 assegaing
 autofermentation
 assegais
