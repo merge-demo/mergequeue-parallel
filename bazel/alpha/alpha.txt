@@ -4745,7 +4745,6 @@ apitpat
 auslaut
 airphobia
 abler
-aerodonetics
 aerodontalgia
 adenitises
 archhost
@@ -18061,6 +18060,7 @@ aquarius
 aurists
 astint
 automorphism
+aerodonetics
 accelerando
 aquarter
 anacusia
