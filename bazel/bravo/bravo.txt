@@ -9171,6 +9171,7 @@ bypaths
 buffin
 bogo
 backhauling
+boothale
 bourbonesque
 bipedality
 bipeds
@@ -12911,7 +12912,6 @@ booth
 bloodsucking
 bim
 bedding
-boothale
 baronetcies
 badge
 brews
