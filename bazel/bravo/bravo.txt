@@ -4191,7 +4191,6 @@ blockiness
 bowls
 boudoir
 bloodcurdlingly
-basophile
 barometrography
 brl
 belittling
@@ -11721,6 +11720,7 @@ bobeche
 brazenfaced
 britzska
 bumkins
+basophile
 befop
 bulgari
 bolsterwork
