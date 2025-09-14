@@ -2182,7 +2182,6 @@ asonia
 appassionato
 acetophenin
 arcaded
-adjectitious
 attempers
 acidaspis
 acidemia
@@ -10919,6 +10918,7 @@ amorini
 abrosias
 aoife
 atrichous
+adjectitious
 afforded
 arcsine
 acetphenetid
