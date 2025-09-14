@@ -5972,6 +5972,7 @@ autocytolytic
 avouches
 airlock
 astrionics
+asquare
 aglipayano
 aglypha
 analogal
@@ -21495,7 +21496,6 @@ anamniote
 archical
 astringed
 algolagnist
-asquare
 asphyxiative
 aperient
 alkylize
