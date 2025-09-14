@@ -7002,7 +7002,6 @@ allophore
 aschaffite
 arabinic
 amphigony
-aktistetae
 aphicidal
 aku
 amyelous
@@ -14457,6 +14456,7 @@ achar
 affirmativeness
 anti
 amalfitan
+aktistetae
 antiabolitionist
 antiabortion
 acrotic

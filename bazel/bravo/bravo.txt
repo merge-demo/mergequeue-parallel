@@ -2282,7 +2282,6 @@ baister
 butterine
 barbecuer
 barbellula
-bowwood
 belabor
 bared
 boozing
@@ -2641,6 +2640,7 @@ bantamweight
 birdhouses
 bilges
 barking
+bowwood
 botanise
 barkless
 battening
