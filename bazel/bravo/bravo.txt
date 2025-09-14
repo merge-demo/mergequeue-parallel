@@ -17249,7 +17249,6 @@ bun
 bathochromatism
 benzotrifluoride
 bonduc
-bopyrus
 buddling
 boutel
 bipolarize
@@ -17456,6 +17455,7 @@ bacitracin
 barbers
 bedip
 bracingly
+bopyrus
 budmash
 bystanders
 becrippled

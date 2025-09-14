@@ -4275,6 +4275,7 @@ duncan
 domboc
 destructible
 dineros
+doricism
 danseuses
 deltohedron
 dawen
@@ -15836,7 +15837,6 @@ daribah
 demiturned
 disgig
 dukhn
-doricism
 decurrence
 distributively
 dyemaker
