@@ -808,6 +808,7 @@ cayman
 carboniferous
 caymans
 caynard
+carpophyte
 chanticleer
 clydesdale
 chidingness
@@ -4739,7 +4740,6 @@ cladoniaceous
 carpophalangeal
 carpophyl
 cressier
-carpophyte
 companions
 covariables
 cynosarges
