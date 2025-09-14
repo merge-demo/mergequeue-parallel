@@ -779,7 +779,6 @@ albinism
 abrotine
 allosematic
 abruption
-addedly
 abruptness
 apptd
 algarot
@@ -17293,6 +17292,7 @@ armament
 apostrophizes
 acidophilus
 apostrophizing
+addedly
 absterged
 autolyse
 apostrophus
