@@ -12166,6 +12166,7 @@ cystiform
 cookhouses
 caraunda
 chrysalid
+colophonium
 coronet
 chrysalida
 chrysalidal
@@ -16688,7 +16689,6 @@ clem
 conglution
 closehanded
 cardiodysesthesia
-colophonium
 contratempo
 colombier
 conceitedness
