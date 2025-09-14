@@ -11633,7 +11633,6 @@ analemma
 analemmas
 aconitum
 analemmata
-agomphosis
 analepses
 agrege
 analeptic
@@ -15517,6 +15516,7 @@ antinucleons
 ayond
 aeolight
 acrocontracture
+agomphosis
 aphorismic
 antiochian
 arthrosia
