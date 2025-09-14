@@ -361,6 +361,7 @@ attache
 acarine
 argasidae
 auditive
+absit
 ask
 aberrance
 astrictive
@@ -865,7 +866,6 @@ amylon
 actinocrinid
 absis
 anthrophore
-absit
 absoil
 absterging
 antient
