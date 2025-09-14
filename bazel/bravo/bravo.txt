@@ -13352,6 +13352,7 @@ blooie
 bakehead
 beetlestone
 badmen
+besselian
 balanoplasty
 botchedly
 bukat
@@ -14851,7 +14852,6 @@ buttercup
 breakoff
 breakout
 breakpoint
-besselian
 bricktimber
 biophilous
 babooism
