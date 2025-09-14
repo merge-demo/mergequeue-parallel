@@ -13427,6 +13427,7 @@ cassida
 catchingly
 coequate
 courageously
+crossbolted
 ciderish
 ciderkin
 crozzle
@@ -20830,7 +20831,6 @@ complice
 complicity
 complied
 campodea
-crossbolted
 compliment
 coenesthesis
 coalyard
