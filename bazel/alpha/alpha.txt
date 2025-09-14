@@ -22827,7 +22827,6 @@ atriums
 analepsy
 acidimetrically
 ablend
-anchorites
 antispace
 addy
 actuaries
@@ -23827,6 +23826,7 @@ adversa
 ablegation
 againstand
 acrology
+anchorites
 antiscepticism
 anepiploic
 autoagglutinating
