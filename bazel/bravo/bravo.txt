@@ -8910,6 +8910,7 @@ belltopperdom
 bozzetto
 binman
 bombproof
+billy
 bedesmen
 barberess
 biogases
@@ -17178,7 +17179,6 @@ bumbling
 brainwork
 bumboat
 bumclock
-billy
 bludgeoner
 bawdy
 batling
