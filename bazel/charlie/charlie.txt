@@ -12416,7 +12416,6 @@ chromatosis
 chromaturia
 calciphilic
 chromazurine
-chromdiagnosis
 complication
 clangorousness
 cystatrophy
@@ -20488,6 +20487,7 @@ compagnies
 cresols
 condonative
 concamerate
+chromdiagnosis
 companage
 coemploying
 counterword
