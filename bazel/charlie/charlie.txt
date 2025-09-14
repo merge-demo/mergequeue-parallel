@@ -10572,7 +10572,6 @@ capsheaf
 chamoises
 ceratozamia
 competitions
-chilina
 cordonazo
 comprehension
 citizenhood
@@ -25044,6 +25043,7 @@ corduroys
 chiliadic
 choppered
 cuprotungstite
+chilina
 cordwainer
 choleraic
 cystofibroma
