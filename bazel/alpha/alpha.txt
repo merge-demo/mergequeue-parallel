@@ -12455,7 +12455,6 @@ anesthetizes
 anestrous
 anethene
 arab
-aranyaka
 anethol
 anethols
 aneroids
@@ -19781,6 +19780,7 @@ armied
 antoinette
 armies
 acetocinnamene
+aranyaka
 abthainry
 archhypocrite
 armiferous
