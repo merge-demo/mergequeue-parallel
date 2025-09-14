@@ -1013,6 +1013,7 @@ calcaneoastragaloid
 cajeputs
 chorioallantoid
 calcaneoplantar
+competency
 calcaneoscaphoid
 crabbing
 calcannea
@@ -24095,7 +24096,6 @@ conversantly
 conversation
 classfellow
 conversationable
-competency
 coactor
 crimpy
 caneware
