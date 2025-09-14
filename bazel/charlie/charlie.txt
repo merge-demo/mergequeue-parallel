@@ -11829,6 +11829,7 @@ chalcids
 cyanopia
 contradictories
 camber
+crapshooters
 catechisms
 chopdar
 cyprinoidea
@@ -28198,7 +28199,6 @@ crappie
 compoundness
 capreolus
 cyclometries
-crapshooters
 crumlet
 cutchery
 colchyte
