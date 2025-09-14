@@ -16285,7 +16285,6 @@ chlamydosporic
 clinohedral
 celeriac
 clinohedrite
-crewcut
 cytogenesis
 compagination
 cynography
@@ -26730,6 +26729,7 @@ coinmaker
 counterclaims
 countercolored
 countercompetition
+crewcut
 czigany
 chemisms
 countercomplaint
