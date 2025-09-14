@@ -8364,7 +8364,6 @@ centry
 compinge
 corkir
 chamaelirium
-chamaerops
 chamaesiphonales
 chamar
 clavariaceous
@@ -26586,6 +26585,7 @@ councillorship
 councilman
 councilmanic
 cytodieretic
+chamaerops
 campion
 conjunctionally
 carbomycin
