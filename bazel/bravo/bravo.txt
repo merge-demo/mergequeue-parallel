@@ -6382,7 +6382,6 @@ borderings
 bergmannite
 birsit
 beothukan
-bellicose
 braggartly
 bumped
 babajaga
@@ -17102,6 +17101,7 @@ bine
 bar
 borofluoric
 bulletproof
+bellicose
 bullnose
 beewinged
 bullnoses
