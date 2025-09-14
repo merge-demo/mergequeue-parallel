@@ -3218,6 +3218,7 @@ adobes
 ardisia
 arhat
 adamsites
+anthracia
 adansonia
 alfaqui
 aircrews
@@ -14241,7 +14242,6 @@ asdics
 abnegate
 apselaphesis
 anthozoon
-anthracia
 anthracyl
 anthracin
 anthracitic
