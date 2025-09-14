@@ -2042,7 +2042,6 @@ disunified
 desugars
 decaedron
 decaffeinate
-decaffeinize
 decury
 dechristianization
 disregardable
@@ -8622,6 +8621,7 @@ diascope
 dispunitive
 donatio
 diapophysis
+decaffeinize
 decigramme
 deener
 dibatis
