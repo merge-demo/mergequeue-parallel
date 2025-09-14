@@ -14075,6 +14075,7 @@ bitts
 bald
 boffin
 brachydont
+badaud
 brachydontism
 brachyfacial
 boilers
@@ -14146,7 +14147,6 @@ blacken
 beadleship
 belgophile
 bolded
-badaud
 brinier
 bahaullah
 braggite
