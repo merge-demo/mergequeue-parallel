@@ -13204,6 +13204,7 @@ beworm
 britannica
 borwort
 bloodthirst
+battlepiece
 bloodbath
 boschneger
 brigue
@@ -14387,7 +14388,6 @@ bacteroides
 baiocchi
 bicyclo
 bunomastodontidae
-battlepiece
 braggadocios
 bemocked
 bisischiadic
