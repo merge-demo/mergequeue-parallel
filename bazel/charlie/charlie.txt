@@ -13393,7 +13393,6 @@ canaanite
 conducingly
 cantico
 calindas
-crossarm
 cyclotome
 cyclotomic
 cytospectrophotometry
@@ -23608,6 +23607,7 @@ consentfully
 criollos
 conform
 cathead
+crossarm
 contact
 concento
 cionectomy
