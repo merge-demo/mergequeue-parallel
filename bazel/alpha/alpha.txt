@@ -2881,7 +2881,6 @@ actiniums
 austerest
 alisma
 actinobaccilli
-anchusins
 acclamations
 alcyon
 adrenolytic
@@ -19834,6 +19833,7 @@ anatto
 armyworms
 armlessness
 armlets
+anchusins
 aiguellette
 arustle
 armlike
