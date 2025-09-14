@@ -1752,6 +1752,7 @@ digamous
 diphyllobothrium
 droner
 deprecated
+dognap
 deathtrap
 devocalization
 downtimes
@@ -6903,7 +6904,6 @@ desolation
 darkness
 desolator
 dryhouse
-dognap
 disobligatory
 discolors
 dahabiyeh
