@@ -6822,7 +6822,6 @@ cellulitis
 celluloid
 carby
 cellulomonadeae
-chemotherapeutical
 chartaceous
 cellulosic
 contented
@@ -17996,6 +17995,7 @@ coelar
 coelastraceous
 canonics
 coelata
+chemotherapeutical
 cholecystic
 cosentiency
 charring
