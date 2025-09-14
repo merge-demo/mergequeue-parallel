@@ -25217,7 +25217,6 @@ caucussed
 corynid
 corinna
 corinne
-corynocarpaceous
 corynocarpus
 corynteria
 corinthes
@@ -27569,6 +27568,7 @@ cerealin
 covetable
 coveted
 coveter
+corynocarpaceous
 carminite
 covetise
 canaba
