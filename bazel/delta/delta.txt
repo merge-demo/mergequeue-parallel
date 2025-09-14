@@ -1213,7 +1213,6 @@ dunts
 datagram
 datagrams
 degging
-dryster
 dermatosiophobia
 doormat
 devilhood
@@ -4911,6 +4910,7 @@ dispersity
 dormmice
 demonish
 demagnetized
+dryster
 devotionary
 disozonize
 dismaying
