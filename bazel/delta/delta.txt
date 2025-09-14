@@ -8356,7 +8356,6 @@ dg
 dialcohol
 decolourized
 disequalize
-diplogenetic
 disenactment
 dialectal
 duadic
@@ -17517,6 +17516,7 @@ dermatographic
 damascener
 dentiroster
 desperateness
+diplogenetic
 devitrified
 drouking
 deprehension
