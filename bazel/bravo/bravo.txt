@@ -2978,7 +2978,6 @@ blennioidea
 broadcasters
 boulevard
 barrister
-bootless
 banda
 bathyl
 bradykinesia
@@ -12722,6 +12721,7 @@ brandreth
 busters
 babelish
 beheld
+bootless
 biometrician
 basanite
 bunyoro
