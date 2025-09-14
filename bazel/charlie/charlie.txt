@@ -8007,7 +8007,6 @@ chaetae
 chemin
 chaetal
 carromata
-clanks
 chaetiferous
 cocytean
 chaetochloa
@@ -13362,6 +13361,7 @@ cyclosis
 cuppas
 cardiacean
 cyclosporeae
+clanks
 concurrent
 cleaners
 cyclostyle
