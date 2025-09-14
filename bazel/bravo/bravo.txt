@@ -2099,7 +2099,6 @@ booms
 bosch
 brouillon
 bay
-barring
 bantayan
 bidstand
 badiaga
@@ -5670,6 +5669,7 @@ blemishing
 belies
 believability
 believer
+barring
 beamful
 basilical
 bureaucratese

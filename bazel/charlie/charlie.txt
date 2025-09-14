@@ -1759,7 +1759,6 @@ calvish
 carfour
 calvities
 chartographically
-chemiphotic
 calvous
 calx
 catecholamines
@@ -3806,6 +3805,7 @@ contemplates
 cincha
 carbonemia
 coccolith
+chemiphotic
 carse
 convalescent
 cotset
