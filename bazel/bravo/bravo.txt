@@ -2522,7 +2522,6 @@ baric
 barycenter
 bemused
 burmite
-bijection
 barid
 bullyism
 bronchostenosis
@@ -2957,6 +2956,7 @@ boyism
 boondoggled
 breathing
 biron
+bijection
 boloed
 beaverish
 bemazed
