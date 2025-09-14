@@ -14745,6 +14745,7 @@ duellists
 diagnose
 durras
 djagoong
+dyemaking
 dawties
 disanoint
 djave
@@ -14792,7 +14793,6 @@ dm
 deceivably
 dioecisms
 devilling
-dyemaking
 dismarketing
 denudate
 dendroceratine
