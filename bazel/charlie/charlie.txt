@@ -11610,6 +11610,7 @@ conchotome
 cholelithic
 cholelithotomy
 clovery
+cuprous
 chastising
 cholelithotripsy
 choriambuses
@@ -27460,7 +27461,6 @@ curlingly
 couvades
 coaeval
 catodon
-cuprous
 couxia
 chronicity
 clodded
