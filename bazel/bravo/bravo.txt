@@ -6171,6 +6171,7 @@ baldoquin
 buckjumper
 benic
 benight
+bdellostomidae
 buzzed
 benighter
 barked
@@ -13690,7 +13691,6 @@ beknotted
 bleary
 bombination
 betallow
-bdellostomidae
 bezonian
 boid
 bookplate
