@@ -5276,7 +5276,6 @@ cylindroconical
 castanean
 cynarctomachy
 cyrillaceous
-capillary
 colorimetrics
 crawler
 calibered
@@ -14314,6 +14313,7 @@ canephoros
 cannonarchy
 canalside
 circumnutation
+capillary
 circumorbital
 circumpacific
 circulet
