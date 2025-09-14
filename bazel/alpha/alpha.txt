@@ -5121,6 +5121,7 @@ almond
 affidavy
 acosmic
 affidavit
+algometry
 aviso
 abjured
 angiocardiographies
@@ -5312,7 +5313,6 @@ amalgams
 atharvan
 arrange
 angiokinesis
-algometry
 afrit
 armary
 adored
