@@ -10229,6 +10229,7 @@ biborate
 bangladesh
 belly
 bleeding
+beaverkin
 boracic
 burghermaster
 blacksmithing
@@ -12144,7 +12145,6 @@ biclinium
 bowdlerism
 blaff
 beaumontia
-beaverkin
 beclasped
 broses
 borofluoride
