@@ -9677,6 +9677,7 @@ breakability
 buckskin
 bedragglement
 besing
+bumbershoot
 bladderweed
 bistate
 biosyntheses
@@ -13947,7 +13948,6 @@ brierberry
 bairnteem
 boxhauling
 bowwow
-bumbershoot
 bibulosity
 becluster
 boxing
