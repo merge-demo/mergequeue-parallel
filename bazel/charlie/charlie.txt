@@ -7022,7 +7022,6 @@ centauromachy
 centauromachia
 censured
 constringent
-carrefour
 centenier
 centennia
 cytaster
@@ -10079,6 +10078,7 @@ cherublike
 carpals
 calzone
 cherusci
+carrefour
 colonialising
 centesimo
 conundrumize
