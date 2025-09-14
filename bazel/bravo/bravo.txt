@@ -1391,7 +1391,6 @@ betwixen
 balconies
 baldachin
 bhaiachari
-birsle
 becarpets
 boothian
 bibliotherapist
@@ -14706,6 +14705,7 @@ betelnut
 blackmailing
 brazened
 braveness
+birsle
 balaclava
 brotula
 biscotin
