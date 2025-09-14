@@ -600,7 +600,6 @@ chiropod
 caecotomy
 constrictors
 caedmonian
-caelometer
 cresson
 caenogenetic
 crimpers
@@ -12590,6 +12589,7 @@ chronoisothermal
 chronologer
 circularize
 chronological
+caelometer
 chronologies
 coalternative
 coexchangeable
