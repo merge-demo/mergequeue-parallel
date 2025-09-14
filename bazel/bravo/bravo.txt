@@ -1286,6 +1286,7 @@ barathron
 buckstone
 becompliment
 blok
+birdlet
 barkers
 brachiopode
 balabos
@@ -15854,7 +15855,6 @@ blattering
 bromus
 bonnyvis
 bereft
-birdlet
 bronchadenitis
 blindism
 bullshot
