@@ -8509,7 +8509,6 @@ derider
 downgrades
 diamondback
 diplomatize
-diamondbacked
 demises
 debaucher
 declassify
@@ -11374,6 +11373,7 @@ dumontia
 devaraja
 detector
 dost
+diamondbacked
 dinichthys
 dinner
 damage
