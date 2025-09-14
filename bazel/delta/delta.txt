@@ -2136,7 +2136,6 @@ dolomite
 despoilment
 dissyllabize
 decamethonium
-decancellate
 dominator
 decancellated
 disciplinarian
@@ -10622,6 +10621,7 @@ demounts
 diploidic
 dunderbolt
 dominus
+decancellate
 diploidize
 dialectological
 doorman
