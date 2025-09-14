@@ -2534,7 +2534,6 @@ alpax
 approximated
 acquire
 antescript
-acquirement
 aldermanries
 allspice
 acquisite
@@ -17118,6 +17117,7 @@ assertress
 apolune
 araneiform
 anaerobian
+acquirement
 apolunes
 apolusis
 asiderite
