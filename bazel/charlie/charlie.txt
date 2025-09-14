@@ -10819,7 +10819,6 @@ chinoleine
 chinoline
 chinologist
 chinone
-chinones
 cueva
 chinook
 chinookan
@@ -27092,6 +27091,7 @@ chemosorptive
 copaiye
 countershock
 counterside
+chinones
 crance
 counterindicate
 crustal
