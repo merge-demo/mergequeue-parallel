@@ -22955,7 +22955,6 @@ alluviation
 attars
 anarthropoda
 augurs
-antiscii
 ahungry
 alkahestica
 autorhythmic
@@ -23111,6 +23110,7 @@ attitudinizes
 acorea
 attn
 avunculate
+antiscii
 attntrp
 attollent
 amorousness
