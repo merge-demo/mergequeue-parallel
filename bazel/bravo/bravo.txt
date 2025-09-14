@@ -11118,7 +11118,6 @@ bathyal
 barra
 blockship
 blodite
-besmeared
 bodikin
 bridling
 backbreaking
@@ -13277,6 +13276,7 @@ basilidan
 blesser
 bokard
 bossily
+besmeared
 blackey
 buckra
 bucketfuls
