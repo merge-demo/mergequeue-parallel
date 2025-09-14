@@ -267,6 +267,7 @@ bsh
 bacile
 bacillaceae
 brarow
+billow
 bashilange
 benzedrine
 biarticulate
@@ -8593,7 +8594,6 @@ benzo
 blechnum
 basigenic
 baronizing
-billow
 brie
 balladeroyal
 butterflyfishes
