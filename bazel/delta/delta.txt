@@ -241,7 +241,6 @@ dinnertime
 dorsula
 displanting
 diff
-diecious
 diffided
 discrepencies
 duotoned
@@ -10383,6 +10382,7 @@ dozened
 derelictly
 digress
 dioramic
+diecious
 durions
 duplet
 demoses
