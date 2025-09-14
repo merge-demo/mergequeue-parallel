@@ -23477,7 +23477,6 @@ amperemeter
 aunthood
 antiprophet
 arabesquerie
-aunty
 antitraditionally
 auntie
 acroceratidae
@@ -23929,6 +23928,7 @@ axmaster
 amperes
 algocyan
 anthracnosis
+aunty
 ansate
 amateurs
 avitic
