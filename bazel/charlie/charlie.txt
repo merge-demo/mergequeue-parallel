@@ -7481,7 +7481,6 @@ centricae
 cytococcus
 cimicidae
 codesigned
-ceratostomella
 ceratotheca
 cypridinidae
 clergyman
@@ -14595,6 +14594,7 @@ chauri
 compotier
 cystic
 cabuja
+ceratostomella
 conchoidal
 cysticerci
 chondrule
