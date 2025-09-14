@@ -12761,6 +12761,7 @@ den
 doubleness
 daut
 disruptability
+deadline
 disroot
 depreciating
 disobeys
@@ -16902,7 +16903,6 @@ datto
 drawerful
 danthonia
 diametrical
-deadline
 debiteuse
 dominee
 decurtate
