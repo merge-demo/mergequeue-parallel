@@ -5500,6 +5500,7 @@ baryton
 bewares
 beisa
 brahmas
+besottedness
 bagatine
 baklava
 bemurmured
@@ -7486,7 +7487,6 @@ beloam
 befringes
 begirding
 beweary
-besottedness
 bumblefoot
 botflies
 brainworker
