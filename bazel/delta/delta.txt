@@ -9231,6 +9231,7 @@ digenesis
 dye
 dogship
 drumloidal
+dorsi
 dalk
 duelled
 disentwine
@@ -15938,7 +15939,6 @@ dorser
 doxantha
 dahabeeyah
 diestrus
-dorsi
 dorsibranchiata
 drupose
 distinctor
