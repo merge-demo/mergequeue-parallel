@@ -5886,7 +5886,6 @@ cathedra
 cathedralesque
 clasp
 cathedras
-chronophotograph
 cathedratic
 cathedraticum
 couths
@@ -10222,6 +10221,7 @@ closeup
 coussinet
 calcining
 caapeba
+chronophotograph
 chia
 chiack
 chyack
