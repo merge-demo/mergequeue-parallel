@@ -2553,7 +2553,6 @@ chemist
 chamoix
 cerevis
 candler
-candlerent
 concealed
 candlers
 casework
@@ -30031,6 +30030,7 @@ crowbar
 curlings
 cliffy
 columbo
+candlerent
 chilomata
 controverter
 chint
