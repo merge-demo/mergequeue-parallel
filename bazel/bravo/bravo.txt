@@ -3700,7 +3700,6 @@ balladising
 batteners
 bankrupted
 batterdock
-bearcat
 battered
 beltis
 breck
@@ -9856,6 +9855,7 @@ bunchberry
 bitter
 besee
 bitterbloom
+bearcat
 bitterbur
 bitterender
 biologically
