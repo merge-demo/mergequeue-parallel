@@ -3798,6 +3798,7 @@ coinsure
 chlorate
 contemplates
 cincha
+coenotype
 carbonemia
 coccolith
 chemiphotic
@@ -18172,7 +18173,6 @@ coenospecifically
 classificational
 chicory
 coenosteum
-coenotype
 coenotypic
 coenotrope
 coenthrone

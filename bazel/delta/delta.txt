@@ -545,7 +545,6 @@ dalmatic
 decarbonised
 dimities
 dipylon
-dalt
 dalton
 drunkometer
 deteriorationist
@@ -12279,6 +12278,7 @@ donax
 decumbence
 distancing
 disgarnish
+dalt
 deliberativeness
 dyspneal
 dossiere
