@@ -8384,7 +8384,6 @@ alkaptone
 advantage
 ascent
 alkaptonuric
-alkarsin
 alkarsine
 alkatively
 anaphrodisiac
@@ -15123,6 +15122,7 @@ antifriction
 antistate
 aliptes
 askant
+alkarsin
 antifrost
 archaeornis
 alaite
