@@ -6125,6 +6125,7 @@ bushlands
 bologna
 bravo
 bluebonnet
+bonebinder
 bromvoel
 boxwood
 biophore
@@ -14359,7 +14360,6 @@ busticate
 brayette
 birdcraft
 bursiform
-bonebinder
 braillewriter
 boloman
 beastish
