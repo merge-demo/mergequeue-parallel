@@ -4370,7 +4370,6 @@ amphierotism
 aggerose
 apportionable
 adverbiation
-adverbs
 adversatively
 ambushed
 appellation
@@ -11339,6 +11338,7 @@ amsath
 autolysis
 aldosteronism
 atrabilious
+adverbs
 adeodatus
 afterwitted
 amsel
