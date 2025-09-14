@@ -1427,7 +1427,6 @@ dry
 digresses
 demiurgical
 dawning
-desocialize
 dissonancies
 dawnlike
 demimetope
@@ -7776,6 +7775,7 @@ delative
 dehydrogenase
 dogfighting
 diverged
+desocialize
 deaquation
 dumbness
 devilkins
