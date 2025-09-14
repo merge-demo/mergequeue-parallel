@@ -1006,7 +1006,6 @@ aphlaston
 amoretti
 absume
 avellaneous
-absurd
 anesthesiologist
 animators
 anglicanize
@@ -3359,6 +3358,7 @@ autumnian
 approved
 anaerobe
 addn
+absurd
 acknowledgements
 alvar
 addr
