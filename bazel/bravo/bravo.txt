@@ -4498,6 +4498,7 @@ basiliscan
 betulinol
 bargaining
 babesia
+bestay
 blottto
 becurses
 becurst
@@ -7115,7 +7116,6 @@ biarticulated
 bacteriemia
 bernicles
 bierstube
-bestay
 bestand
 burrito
 brogues
