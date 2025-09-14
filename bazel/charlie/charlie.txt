@@ -13046,6 +13046,7 @@ cyanoplastid
 cyanoplatinite
 cyanose
 contraposit
+coxarthrocace
 chemitype
 cyanosite
 cyanotic
@@ -27192,7 +27193,6 @@ countervair
 coprocessor
 countervallation
 countervalue
-coxarthrocace
 countervenom
 countervindication
 countervolley
