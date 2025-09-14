@@ -6331,7 +6331,6 @@ cilantro
 cautery
 cauteries
 cottagers
-churnings
 cauterisation
 couche
 collision
@@ -21211,6 +21210,7 @@ chambermaids
 chafflike
 chrysophan
 conceiver
+churnings
 conceiving
 couturier
 concelebrate
