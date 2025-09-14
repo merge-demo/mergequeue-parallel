@@ -11512,6 +11512,7 @@ brownshirt
 birdwomen
 biotron
 biarcuate
+branular
 bastnasite
 barkery
 barbicel
@@ -12603,7 +12604,6 @@ barracoon
 boucher
 bistriazole
 bleekbok
-branular
 bahuma
 brios
 bonzer
