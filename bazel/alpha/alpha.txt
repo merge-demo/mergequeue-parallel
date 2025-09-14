@@ -5331,7 +5331,6 @@ auripigment
 abigail
 aftercast
 aftercataract
-aloe
 afterclause
 aftercome
 australasian
@@ -14263,6 +14262,7 @@ abnormalist
 albertine
 anthracosaurus
 anthracosis
+aloe
 anthracothere
 anthracotherium
 acoustic
