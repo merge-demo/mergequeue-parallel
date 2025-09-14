@@ -13464,7 +13464,6 @@ cygninae
 companionableness
 calycanthus
 cigua
-cyke
 cyl
 comburivorous
 counterorder
@@ -26569,6 +26568,7 @@ coulombs
 coulterneb
 circumscription
 coulthard
+cyke
 coumalic
 coumaphos
 captioning
