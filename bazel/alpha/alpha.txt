@@ -218,6 +218,7 @@ abby
 apotactite
 antidotal
 alantolic
+attachable
 apteran
 agyrate
 acology
@@ -19712,7 +19713,6 @@ armamentarium
 autoskeleton
 antigalactic
 audiometry
-attachable
 avigators
 aminovaleric
 anviling
