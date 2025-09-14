@@ -12979,7 +12979,6 @@ animalising
 anathematizing
 anthelions
 accessible
-animalistic
 androgynous
 align
 animalivorous
@@ -17847,6 +17846,7 @@ approbativeness
 approof
 appropinquate
 appropinquation
+animalistic
 amalgamation
 appropinquity
 arrogantness

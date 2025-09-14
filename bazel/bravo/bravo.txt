@@ -3248,7 +3248,6 @@ battened
 bantingize
 buettneriaceae
 bedouin
-basilica
 belverdian
 billywix
 bannerol
@@ -14837,6 +14836,7 @@ breakings
 bigarades
 buffleheaded
 breaklist
+basilica
 buttercup
 bostonians
 breakoff
