@@ -8892,6 +8892,7 @@ charadriomorphae
 chingpaw
 candylike
 cryptanalyst
+charmeuse
 cremains
 contentious
 classico
@@ -17748,7 +17749,6 @@ colliding
 camouflaged
 calycled
 comoid
-charmeuse
 cockaigne
 cockal
 capnoides
