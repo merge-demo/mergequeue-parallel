@@ -8537,7 +8537,6 @@ chanceled
 cardiacea
 chanceless
 cestoda
-chancelloress
 copybook
 chancellors
 coon
@@ -17694,6 +17693,7 @@ cisalpinism
 compunctionary
 curstly
 coccosteus
+chancelloress
 chickadees
 cinchonas
 coccothraustes
