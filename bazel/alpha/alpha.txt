@@ -3737,6 +3737,7 @@ adjectional
 anastatica
 autoactivation
 acetine
+antiques
 agyiomania
 amphistomatic
 amphibiousness
@@ -15844,7 +15845,6 @@ anacreontic
 aceanthrenequinone
 abundantia
 antiqueness
-antiques
 antiquing
 admittible
 antiquum
