@@ -3658,7 +3658,6 @@ disgracing
 discontinuable
 decimalisation
 degraduate
-digitinervate
 degravate
 demipike
 degreaser
@@ -13160,6 +13159,7 @@ disenvelop
 disloign
 diaphototropism
 dethyroidism
+digitinervate
 decompositions
 defamer
 dipeptidase
