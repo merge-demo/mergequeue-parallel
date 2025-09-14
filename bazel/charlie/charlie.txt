@@ -875,7 +875,6 @@ cajolement
 celure
 cajolements
 coagulating
-cajolery
 caproic
 crimple
 chloroacetophenone
@@ -14726,6 +14725,7 @@ cistudo
 citable
 cital
 cytase
+cajolery
 cytasic
 cytasters
 coralberry
