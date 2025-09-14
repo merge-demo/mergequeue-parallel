@@ -11837,6 +11837,7 @@ adlegiare
 aluminium
 anarchies
 airfreighter
+affectless
 agronomy
 affrights
 amortize
@@ -17632,7 +17633,6 @@ applejohn
 analogice
 antidotism
 applewoman
-affectless
 adopts
 apply
 adjacencies
