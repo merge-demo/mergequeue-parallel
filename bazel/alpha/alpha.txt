@@ -21988,7 +21988,6 @@ ampongue
 ancestries
 antistat
 anthracosilicosis
-asthamatic
 astheny
 achroacyte
 aposafranine
@@ -23232,6 +23231,7 @@ auctioned
 alcornoco
 ameliorate
 antenatalitial
+asthamatic
 anan
 auctions
 assertable
