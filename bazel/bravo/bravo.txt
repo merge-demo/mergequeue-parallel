@@ -142,6 +142,7 @@ boolian
 bacin
 bourne
 botanomancy
+bedrivelled
 banister
 booboos
 bursati
@@ -2198,7 +2199,6 @@ blockade
 berrichon
 bostonite
 barter
-bedrivelled
 barauna
 boneheadedness
 bromizing
