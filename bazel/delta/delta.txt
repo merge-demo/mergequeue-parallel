@@ -5224,7 +5224,6 @@ doghole
 doyen
 deathly
 disserviceableness
-detruncating
 devoid
 destructors
 diarthrosis
@@ -14725,6 +14724,7 @@ dora
 degradability
 disinvite
 dismantled
+detruncating
 droopier
 dainchas
 daneweed
