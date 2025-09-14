@@ -4378,6 +4378,7 @@ barrable
 butyrousness
 bickers
 basements
+buttstock
 bathyseism
 balm
 brandering
@@ -5823,7 +5824,6 @@ bellmouth
 briners
 braggingly
 boulle
-buttstock
 bailiff
 bellota
 bidactyle
