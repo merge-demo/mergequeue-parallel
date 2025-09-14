@@ -2134,7 +2134,6 @@ buzzer
 boxfishes
 bantering
 banteringly
-banty
 beaugregories
 beerishly
 bribery
@@ -11461,6 +11460,7 @@ bluetongue
 byth
 bedmates
 bluetop
+banty
 bubale
 berths
 boohoo
