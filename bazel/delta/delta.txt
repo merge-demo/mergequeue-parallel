@@ -2487,7 +2487,6 @@ decitizenize
 decivilize
 deckel
 ditchdown
-dirigent
 dispondaic
 deckhand
 dovekies
@@ -10055,6 +10054,7 @@ dreaming
 dolerites
 dimers
 deinos
+dirigent
 dimple
 diplomas
 demihake
