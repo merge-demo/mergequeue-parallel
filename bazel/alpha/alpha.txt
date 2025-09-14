@@ -17331,7 +17331,6 @@ aesthetics
 aurichlorohydric
 apothecium
 antitrope
-arbitrement
 areologic
 applot
 airship
@@ -22908,6 +22907,7 @@ attacking
 antroversion
 alfet
 antedated
+arbitrement
 aldermanship
 archispore
 attacus
