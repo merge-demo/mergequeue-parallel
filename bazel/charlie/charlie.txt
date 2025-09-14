@@ -5383,7 +5383,6 @@ castorite
 castra
 covertical
 classic
-counterflory
 corollated
 capillitia
 cylindrenchema
@@ -10187,6 +10186,7 @@ corresp
 charioteer
 cumbha
 cronied
+counterflory
 coseasonal
 chevronwise
 clapmatch
