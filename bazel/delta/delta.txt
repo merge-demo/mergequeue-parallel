@@ -7128,6 +7128,7 @@ doziness
 destrer
 daffing
 decalescent
+deputation
 degras
 diseasing
 dorsocaudal
@@ -13560,7 +13561,6 @@ diving
 disassociated
 dortiship
 donorship
-deputation
 disaccharose
 dungeoner
 datasets
