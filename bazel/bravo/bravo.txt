@@ -3442,6 +3442,7 @@ badgerly
 bastions
 barabbas
 biorgan
+bivoltine
 boden
 berginization
 bef
@@ -12120,7 +12121,6 @@ beteem
 burlier
 bloomkin
 bolero
-bivoltine
 barbarianism
 brittlewort
 blephara
