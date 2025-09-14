@@ -3260,7 +3260,6 @@ cheirognomy
 contrib
 capitolium
 capitula
-crumbiest
 capitulant
 centrists
 capitularies
@@ -4450,6 +4449,7 @@ controvertibly
 carmot
 carn
 carnaged
+crumbiest
 chortling
 cosponsorship
 consulated
