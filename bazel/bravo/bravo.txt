@@ -16283,7 +16283,6 @@ ballstock
 brushers
 burrish
 brotherliness
-bewailable
 barbes
 betell
 brelan
@@ -17669,6 +17668,7 @@ burlet
 butterfly
 biotically
 blarney
+bewailable
 brachioganoid
 brucins
 bespeed
