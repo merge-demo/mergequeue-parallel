@@ -11089,7 +11089,6 @@ bibberies
 baals
 bichromatize
 blockboard
-bishareen
 benegro
 ballyhooer
 blocked
@@ -14818,6 +14817,7 @@ breadmaker
 brogueneer
 baldrick
 breadroot
+bishareen
 breadstitch
 blackwork
 becassine
