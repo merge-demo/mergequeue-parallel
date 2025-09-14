@@ -2875,7 +2875,6 @@ coercion
 chairlady
 canossa
 canotier
-canreply
 cansful
 coddled
 canso
@@ -11270,6 +11269,7 @@ chicote
 counterion
 cotch
 chlorite
+canreply
 chloritic
 caterers
 carlie
