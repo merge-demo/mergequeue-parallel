@@ -850,7 +850,6 @@ cayuca
 chinless
 commendador
 cosmothetic
-chousers
 cayuga
 cayugan
 cayugas
@@ -29231,6 +29230,7 @@ chinband
 cryptococcus
 chouette
 cunabula
+chousers
 consumating
 clericalist
 centroclinal
