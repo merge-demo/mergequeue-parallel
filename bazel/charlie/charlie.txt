@@ -16256,7 +16256,6 @@ cep
 clinkerer
 clinkery
 clinkering
-clinking
 chields
 concessionaries
 concrfsce
@@ -17632,6 +17631,7 @@ coccidiosis
 coccidium
 coccidology
 chape
+clinking
 coccids
 chondriocont
 christiform
