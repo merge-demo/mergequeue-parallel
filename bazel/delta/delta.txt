@@ -2151,7 +2151,6 @@ dromedary
 decanery
 decanes
 diabolify
-decangular
 deraigns
 decently
 decanonize
@@ -16383,6 +16382,7 @@ dca
 dropman
 disintegrates
 dorsoventrality
+decangular
 dulc
 detour
 downiest
