@@ -4007,6 +4007,7 @@ bountiful
 bunraku
 byegaein
 beakers
+barre
 boltheads
 boschveld
 beakiron
@@ -13649,7 +13650,6 @@ bacbakiri
 bountyless
 bandcase
 brachycephal
-barre
 bouquetiere
 backsplice
 bifoliolate
