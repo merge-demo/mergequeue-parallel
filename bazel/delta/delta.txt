@@ -235,6 +235,7 @@ delve
 dojos
 dispatcher
 dorstenia
+dramaturge
 daftest
 dangerousness
 donees
@@ -1872,7 +1873,6 @@ depiction
 decretal
 dodonaea
 dispunge
-dramaturge
 denominationalize
 dissimulation
 dalespeople
