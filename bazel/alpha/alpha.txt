@@ -5215,7 +5215,6 @@ affranchise
 adiadokokinesi
 aurene
 amphicoelian
-affret
 afghanets
 agnosticism
 agglutinable
@@ -21545,6 +21544,7 @@ axiform
 assam
 ady
 assamese
+affret
 assamites
 acetamide
 assart
