@@ -4902,6 +4902,7 @@ bioclimatologies
 boyardism
 beekeepers
 beekeeping
+beautifications
 bedight
 bosher
 bassos
@@ -7301,7 +7302,6 @@ bego
 beswinge
 bombous
 bootikins
-beautifications
 boluses
 banishments
 betoss
