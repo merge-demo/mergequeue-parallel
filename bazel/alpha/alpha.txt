@@ -16131,6 +16131,7 @@ amit
 anarthropod
 actuarian
 anaplasm
+asservilize
 attestable
 amasser
 anemometrograph
@@ -18934,7 +18935,6 @@ astaticism
 adhering
 astronautical
 airmailed
-asservilize
 archocele
 archon
 alarm
