@@ -3979,7 +3979,6 @@ anabasis
 acrasia
 aquatinter
 anthophobia
-alcaide
 admonitive
 angarias
 arabana
@@ -11539,6 +11538,7 @@ actinometry
 allegory
 aucanian
 anticarnivorous
+alcaide
 asperates
 autoheterodyne
 anaematosis
