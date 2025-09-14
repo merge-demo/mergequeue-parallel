@@ -5367,6 +5367,7 @@ brickly
 bot
 begrudge
 boggishness
+bantin
 branchiopodous
 begruntle
 biographical
@@ -10644,7 +10645,6 @@ blearness
 bleated
 butcherdom
 bluejoint
-bantin
 bejesus
 bipunctual
 biotics
