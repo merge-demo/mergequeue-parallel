@@ -25370,7 +25370,6 @@ censed
 countersiege
 compatience
 cornflower
-cornflowers
 corngrower
 cartboot
 cornhusker
@@ -30790,6 +30789,7 @@ cretification
 culinarian
 condenser
 ciliiferous
+cornflowers
 cystaster
 contemnible
 consarned
