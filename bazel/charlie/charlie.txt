@@ -2463,6 +2463,7 @@ comburimetry
 choraguses
 certitude
 cacodemonic
+cogweels
 cassidony
 colloidally
 circumnatant
@@ -18521,7 +18522,6 @@ cuartino
 cerite
 cancrivorous
 cogweel
-cogweels
 cogwood
 cohabitancy
 cohabitant
