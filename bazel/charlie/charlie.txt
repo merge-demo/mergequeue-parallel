@@ -3469,6 +3469,7 @@ cognizers
 capsuliferous
 cheloniid
 capsuliform
+circumcision
 coverup
 capsuling
 clamer
@@ -16880,7 +16881,6 @@ chokey
 clubby
 cuprate
 christlikeness
-circumcision
 canaller
 cuprite
 carnivorously
