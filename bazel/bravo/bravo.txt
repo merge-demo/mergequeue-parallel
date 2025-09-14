@@ -2646,7 +2646,6 @@ barking
 botanise
 barkless
 battening
-bandusia
 barkometer
 bescorch
 batrachite
@@ -18204,6 +18203,7 @@ borated
 beshadowing
 brisken
 bajri
+bandusia
 beyond
 bucranium
 bandages
