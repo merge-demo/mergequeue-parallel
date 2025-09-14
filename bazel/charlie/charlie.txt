@@ -24637,7 +24637,6 @@ cloners
 copyread
 coarsest
 copyreader
-craye
 curiosos
 copyrightable
 copyrighter
@@ -29707,6 +29706,7 @@ castral
 carbolated
 commencement
 consignment
+craye
 cheiroptera
 contam
 conbinas
