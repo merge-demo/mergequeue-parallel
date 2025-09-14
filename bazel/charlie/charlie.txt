@@ -24719,7 +24719,6 @@ coppra
 chamidae
 closenesses
 copra
-copraemia
 cencerros
 coprecipitate
 coprecipitated
@@ -29260,6 +29259,7 @@ cryptogamical
 catastrophe
 cryptogamist
 cryptogenic
+copraemia
 caried
 centeses
 carri
