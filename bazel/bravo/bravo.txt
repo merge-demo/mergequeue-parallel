@@ -9720,6 +9720,7 @@ brachypleural
 bartender
 brokenhearted
 banderoles
+brabanter
 boos
 brigandish
 barbarious
@@ -13976,7 +13977,6 @@ booths
 bemeal
 bakshished
 boer
-brabanter
 blindfolder
 bloviates
 ballet
