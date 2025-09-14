@@ -2305,7 +2305,6 @@ benzoles
 bubaline
 braggers
 bushwhack
-bagger
 bulldoze
 bartholomite
 baobab
@@ -16601,6 +16600,7 @@ busker
 blarneying
 banalness
 brassidic
+bagger
 blocage
 brachyura
 banquetings
