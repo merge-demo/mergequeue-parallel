@@ -10592,7 +10592,6 @@ conter
 carports
 chiller
 confessionary
-comino
 cotwist
 chillest
 catjang
@@ -14080,6 +14079,7 @@ chemical
 cryptostomate
 cypselomorphae
 capling
+comino
 churchism
 chastens
 cypselomorphic
