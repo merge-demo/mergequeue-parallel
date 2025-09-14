@@ -7281,6 +7281,7 @@ catalinite
 crossroads
 carpologist
 chemigraphy
+corrigenda
 cepes
 civ
 conchitis
@@ -25715,7 +25716,6 @@ churchlet
 corridas
 corriedale
 corrige
-corrigenda
 compossibility
 corrigible
 chainbearer
