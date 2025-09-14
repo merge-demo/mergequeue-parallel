@@ -13401,7 +13401,6 @@ dayflower
 decurving
 duala
 dultie
-degradation
 discanting
 diasyrm
 doublehorned
@@ -15517,6 +15516,7 @@ domiciles
 domiciliated
 douzaines
 detectivism
+degradation
 domification
 distoma
 dissemblance
