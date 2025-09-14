@@ -243,7 +243,6 @@ adenomyxoma
 abbreviatable
 actinochemical
 amentia
-abbreviates
 anaqua
 auctorial
 achariaceous
@@ -4943,6 +4942,7 @@ aes
 amparo
 arenga
 autosepticemia
+abbreviates
 aesculaceous
 alliancer
 agonies
