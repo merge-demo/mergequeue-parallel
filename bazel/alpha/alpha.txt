@@ -3917,7 +3917,6 @@ admissable
 agentival
 admissibility
 asci
-archerfish
 admissive
 automan
 amaracus
@@ -16282,6 +16281,7 @@ antlers
 antlia
 accroached
 antlid
+archerfish
 antre
 antling
 airdates
