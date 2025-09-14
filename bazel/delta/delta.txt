@@ -6349,7 +6349,6 @@ diminuendo
 drawbores
 dobla
 dermoblast
-dendrologist
 diaplasis
 dejectory
 dermobranchiate
@@ -14780,6 +14779,7 @@ dehydroffroze
 doxies
 disagrees
 dolent
+dendrologist
 djuka
 diaskeuast
 degradable
