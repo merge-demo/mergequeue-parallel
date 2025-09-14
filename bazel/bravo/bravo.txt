@@ -5095,6 +5095,7 @@ beflea
 brainier
 bombable
 bromoaurate
+boxhaul
 belching
 brobdingnagian
 brachiate
@@ -6965,7 +6966,6 @@ baalist
 boninesses
 bedrugging
 bespouses
-boxhaul
 blackfoot
 benzines
 boil
