@@ -4405,7 +4405,6 @@ allentiacan
 acridium
 algicidal
 aselar
-aune
 avantlay
 adstipulated
 accent
@@ -5911,6 +5910,7 @@ agitate
 agitated
 agitation
 avenous
+aune
 agitational
 azotite
 aitis
