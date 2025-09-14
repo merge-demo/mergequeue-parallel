@@ -813,7 +813,6 @@ decertificaton
 divergencies
 directivity
 dn
-deiparous
 defacto
 drunkenly
 dhanush
@@ -1130,6 +1129,7 @@ dreamful
 diplomatical
 dasheen
 destructional
+deiparous
 dasheens
 downdale
 darkles
