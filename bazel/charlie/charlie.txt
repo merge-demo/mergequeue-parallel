@@ -3926,6 +3926,7 @@ cadastres
 chuumnapm
 cosmosphere
 cuproplumbite
+carbonide
 corniculate
 coassisted
 crotalinae
@@ -4183,7 +4184,6 @@ careered
 cmdr
 cenoby
 croceous
-carbonide
 chloroplatinic
 cassites
 carefreeness
