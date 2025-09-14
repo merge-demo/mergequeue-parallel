@@ -3998,6 +3998,7 @@ besquib
 bostryx
 beadwork
 beadworks
+baronizing
 bemaddened
 baetuli
 boilermaking
@@ -8601,7 +8602,6 @@ bryales
 benzo
 blechnum
 basigenic
-baronizing
 brie
 balladeroyal
 butterflyfishes
