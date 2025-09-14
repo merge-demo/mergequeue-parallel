@@ -18706,7 +18706,6 @@ airted
 autonephrectomy
 archesporial
 archest
-aspersed
 adjectives
 avizandum
 arabian
@@ -19782,6 +19781,7 @@ agnoetae
 amphigastrula
 attributives
 abhenries
+aspersed
 accommodate
 armiger
 armigeri
