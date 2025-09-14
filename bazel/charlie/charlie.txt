@@ -7805,7 +7805,6 @@ cobitis
 cervicodynia
 cervicofacial
 cooeyed
-cervicomuscular
 cerviconasal
 crotchy
 coeliomyalgia
@@ -23560,6 +23559,7 @@ cartographies
 consolidator
 cric
 contesting
+cervicomuscular
 contestingly
 contestless
 contests
