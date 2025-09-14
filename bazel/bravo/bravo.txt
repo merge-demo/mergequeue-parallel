@@ -3074,6 +3074,7 @@ biobibliographical
 bdellostomatidae
 baruria
 barvel
+bunion
 baleful
 brainwashing
 bimetal
@@ -12661,7 +12662,6 @@ brazilwood
 blattoid
 bellical
 buhrs
-bunion
 bestraddling
 booger
 blancher
