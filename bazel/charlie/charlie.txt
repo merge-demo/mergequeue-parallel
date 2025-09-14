@@ -3779,7 +3779,6 @@ carbolizes
 carbolizing
 carmelite
 caladium
-carboluria
 chrisma
 carbomethoxyl
 carbon
@@ -14961,6 +14960,7 @@ curvaceous
 cycadofilicale
 chilacavote
 characeae
+carboluria
 circumcrescent
 covillea
 clavation
