@@ -1836,6 +1836,7 @@ bollito
 barricos
 besotter
 bilgy
+bearded
 basketmaker
 bandeau
 blueline
@@ -13569,7 +13570,6 @@ baroco
 bismutosmaltite
 biomagnetic
 bourout
-bearded
 bivane
 bridehood
 boughy
