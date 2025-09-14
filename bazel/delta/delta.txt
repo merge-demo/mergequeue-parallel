@@ -5490,6 +5490,7 @@ deorsum
 deorsumversion
 diesel
 damoisel
+disintegrate
 deossification
 dually
 deuterostomatous
@@ -17055,7 +17056,6 @@ dullness
 deoxycorticosterone
 downcurve
 dredgeful
-disintegrate
 deltalike
 discerp
 dithery
