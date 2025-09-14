@@ -1262,6 +1262,7 @@ belis
 brevicomis
 bakie
 bakingly
+biomagnetism
 benzazimide
 baymen
 bearhide
@@ -15511,7 +15512,6 @@ bufferrers
 beneficence
 baldberry
 bristled
-biomagnetism
 belowstairs
 banlieue
 bushpig
