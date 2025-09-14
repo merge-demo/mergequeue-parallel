@@ -13108,6 +13108,7 @@ cybernion
 cressets
 cibol
 conjugacy
+comino
 cibolero
 cibols
 columnea
@@ -14079,7 +14080,6 @@ chemical
 cryptostomate
 cypselomorphae
 capling
-comino
 churchism
 chastens
 cypselomorphic
