@@ -8567,7 +8567,6 @@ allelotropism
 alleluia
 applesauce
 alleluiah
-apivorous
 amnesiacs
 arcubos
 allemand
@@ -10123,6 +10122,7 @@ abray
 amebiform
 anteflexion
 auximone
+apivorous
 amebobacter
 analgesidae
 ameboid
