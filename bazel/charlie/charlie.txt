@@ -506,6 +506,7 @@ clogmaker
 counterfugue
 carbuilder
 cungevoi
+crimpage
 cadged
 cacao
 cadgers
@@ -16156,7 +16157,6 @@ climactery
 climacteric
 chiropractic
 climacterically
-crimpage
 climactical
 contexture
 collotyping
