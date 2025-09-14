@@ -5236,6 +5236,7 @@ cassinos
 cassioberry
 conflict
 catamenia
+coxy
 cassiope
 cassiopeia
 cuculus
@@ -19177,7 +19178,6 @@ colline
 ceile
 collections
 classicistic
-coxy
 caecias
 cercopod
 cocainise
