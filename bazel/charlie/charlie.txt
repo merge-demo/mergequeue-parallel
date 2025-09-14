@@ -1767,7 +1767,6 @@ camaca
 collochromate
 circularizing
 camaieu
-camail
 camailed
 camails
 calzada
@@ -15262,6 +15261,7 @@ claywares
 clayweed
 caam
 carbunculation
+camail
 colours
 chlorphenol
 columbaries
