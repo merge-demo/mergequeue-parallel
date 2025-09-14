@@ -716,6 +716,7 @@ bathetically
 baddies
 ballcarrier
 broking
+bowleg
 bassaris
 botherer
 baikie
@@ -9796,7 +9797,6 @@ bolelia
 balladry
 baluchi
 bebleed
-bowleg
 birthplaces
 blubbery
 brail
