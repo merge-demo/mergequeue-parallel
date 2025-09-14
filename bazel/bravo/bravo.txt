@@ -4565,7 +4565,6 @@ branchial
 brachelytrous
 bedcovers
 blader
-boanerges
 bouts
 bucklered
 buchmanite
@@ -6915,6 +6914,7 @@ beslimes
 bactetiophage
 besottedly
 backsheesh
+boanerges
 beseemed
 blushwort
 brutage
