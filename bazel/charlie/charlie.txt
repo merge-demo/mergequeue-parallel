@@ -3299,6 +3299,7 @@ capocchia
 capoche
 crouche
 chrysomelidae
+chitlins
 chelates
 caponata
 costuming
@@ -8654,7 +8655,6 @@ corresponder
 celosias
 channelized
 cannaceae
-chitlins
 choroidal
 chibol
 channelled
