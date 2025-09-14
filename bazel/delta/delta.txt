@@ -788,6 +788,7 @@ delusters
 dakhini
 dermatograph
 dovecote
+detn
 diuretical
 drearly
 deprecatorily
@@ -7420,7 +7421,6 @@ detinet
 decriminalizes
 deflagration
 detinues
-detn
 dowagerism
 dwine
 demilunes
