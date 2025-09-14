@@ -16408,7 +16408,6 @@ aortarctia
 achaenocarp
 agsam
 aegagri
-amadis
 aortic
 acupuncturation
 augelite
@@ -23998,6 +23997,7 @@ antiman
 ambe
 ascidiozooid
 autoecy
+amadis
 adventitiously
 androgonial
 acrophonies
