@@ -6887,6 +6887,7 @@ doulce
 dewlight
 drailed
 destriers
+diabolically
 dishcross
 differently
 door
@@ -9857,7 +9858,6 @@ denumerable
 digesters
 dumetose
 dillydally
-diabolically
 dejectile
 diapaused
 discanonize
