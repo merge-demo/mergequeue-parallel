@@ -9412,7 +9412,6 @@ datos
 dockages
 demonstrance
 drudge
-depulse
 debateable
 dottels
 dopplerite
@@ -18079,6 +18078,7 @@ dolerite
 dilemmatically
 downhills
 didapper
+depulse
 decreed
 delves
 dullbrained
