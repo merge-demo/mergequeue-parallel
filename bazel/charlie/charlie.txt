@@ -3874,7 +3874,6 @@ cassididae
 curatel
 consulted
 cornily
-capra
 carburetors
 carburets
 contradictiveness
@@ -4481,6 +4480,7 @@ carnations
 chamaebatia
 carnauba
 carnaubas
+capra
 carneau
 carnegiea
 carneyed
