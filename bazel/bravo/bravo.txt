@@ -2517,6 +2517,7 @@ bedouse
 boccaccio
 blameful
 bucca
+bilocation
 bryophytic
 beflowers
 bretwaldaship
@@ -5118,7 +5119,6 @@ bloodthirstiness
 bullberry
 baubling
 birler
-bilocation
 balletomania
 bezels
 bainite
