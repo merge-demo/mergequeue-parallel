@@ -336,6 +336,7 @@ beheaded
 basal
 brocoli
 bemirrorment
+beacon
 benzoid
 bicorporeal
 breakableness
@@ -1936,7 +1937,6 @@ bananivorous
 bandsman
 bandstand
 broaches
-beacon
 boronia
 babyism
 beseechment
