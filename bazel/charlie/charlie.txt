@@ -10692,7 +10692,6 @@ caseoses
 corkwoods
 ctenophorous
 coprolite
-chymia
 chymify
 cinnabaric
 confide
@@ -22366,6 +22365,7 @@ congregationalism
 coquitlam
 cosmogony
 congregationalist
+chymia
 congregations
 conciator
 congregative
