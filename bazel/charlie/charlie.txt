@@ -9560,7 +9560,6 @@ coring
 castro
 catechize
 capacitively
-checkweighmen
 checkwork
 cosmologist
 checkwriter
@@ -24628,6 +24627,7 @@ copiousness
 cloners
 copyread
 coarsest
+checkweighmen
 copyreader
 curiosos
 copyrightable
