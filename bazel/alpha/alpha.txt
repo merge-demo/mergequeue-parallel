@@ -14190,7 +14190,6 @@ anthoid
 anthokyan
 anthol
 apiaceous
-antireaction
 androcratic
 aniseikonia
 altared
@@ -24090,6 +24089,7 @@ autoimmunity
 appledrone
 appealability
 autoimmunize
+antireaction
 antimediaevalist
 autoindexing
 atheists
