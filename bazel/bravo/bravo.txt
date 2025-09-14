@@ -3928,6 +3928,7 @@ bd
 boracium
 bipedism
 buttonholes
+bridegroom
 beteela
 bdellium
 bdelliums
@@ -9392,7 +9393,6 @@ bestirred
 bathman
 burritos
 bebopper
-bridegroom
 bobwood
 bird
 boga

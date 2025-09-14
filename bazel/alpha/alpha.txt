@@ -12353,7 +12353,6 @@ alfilaria
 azoturia
 anemonal
 anemone
-aerography
 anticreator
 avidities
 anemony
@@ -18665,6 +18664,7 @@ autophobia
 airshed
 archegony
 archegonia
+aerography
 albania
 archegonial
 amative
