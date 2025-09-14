@@ -3211,7 +3211,6 @@ adansonia
 alfaqui
 aircrews
 appeasableness
-anisospore
 advertizement
 apolytikion
 apeman
@@ -12779,6 +12778,7 @@ arrivers
 audibly
 athetoids
 angsts
+anisospore
 aldolase
 ananite
 anguillaria
