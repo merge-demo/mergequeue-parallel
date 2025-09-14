@@ -6476,7 +6476,6 @@ bushgoat
 breadstuff
 bushels
 bundies
-bosnisch
 benedick
 bimong
 bettong
@@ -9202,6 +9201,7 @@ bow
 betone
 bipinnatisect
 battlegrounds
+bosnisch
 bobsledding
 brighter
 bipyramid
