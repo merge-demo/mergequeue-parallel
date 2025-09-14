@@ -9102,7 +9102,6 @@ charrier
 cackled
 charriest
 charro
-carpetbagism
 cicatrize
 chylocaulous
 coagulin
@@ -22919,6 +22918,7 @@ conservatoires
 conservator
 conservatory
 conservatorial
+carpetbagism
 carotic
 conservatorium
 crystograph
