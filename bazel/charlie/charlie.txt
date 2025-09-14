@@ -14793,6 +14793,7 @@ chamkanni
 couriers
 calocarpum
 citizeness
+client
 citizenish
 coneen
 citizenism
@@ -16099,7 +16100,6 @@ cinclidae
 clyde
 collards
 clydesider
-client
 clientage
 cliental
 characterizations
