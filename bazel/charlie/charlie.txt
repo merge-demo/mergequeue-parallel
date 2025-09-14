@@ -696,7 +696,6 @@ cag
 cheilion
 cataractal
 conchology
-cabooses
 cage
 caged
 commiserated
@@ -18432,6 +18431,7 @@ cogito
 carphology
 complement
 coglorify
+cabooses
 cogman
 counterbuilding
 conformers
