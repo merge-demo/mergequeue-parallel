@@ -3342,6 +3342,7 @@ donet
 deflector
 devitrifying
 deflesh
+dialectician
 deflexibility
 diversely
 deflocculant
@@ -8702,7 +8703,6 @@ depolarizing
 diethylethanolamine
 diastereoisomerism
 diphenylene
-dialectician
 diastereomer
 dodges
 disentangling

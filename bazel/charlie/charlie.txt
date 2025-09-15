@@ -7088,7 +7088,6 @@ clunker
 cadent
 centiloquy
 cumaldehyde
-canton
 caliculus
 centimetre
 correspondencies
@@ -10710,6 +10709,7 @@ chytridial
 cantharidated
 chimneyless
 chimneyman
+canton
 chimneypiece
 chimopelagic
 creedalism
