@@ -1246,7 +1246,6 @@ calentured
 calepin
 cteniform
 centimes
-choreguses
 cupressinoxylon
 conviciate
 cowtown
@@ -15784,6 +15783,7 @@ cardiology
 cleaned
 chloramine
 cleanest
+choreguses
 chinching
 cleanhanded
 capistrate
