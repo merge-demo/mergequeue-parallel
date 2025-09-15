@@ -1201,7 +1201,6 @@ diaphragmal
 dastardly
 datably
 demoiselles
-dimerous
 dunts
 datagram
 datagrams
@@ -6779,6 +6778,7 @@ desiredly
 dextrinize
 decretalist
 desirer
+dimerous
 drachma
 daira
 deadbeat
