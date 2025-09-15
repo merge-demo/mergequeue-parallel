@@ -2609,7 +2609,6 @@ brusquerie
 batful
 bridgelike
 barocco
-barkary
 befilch
 barkbound
 bamoth
@@ -5342,6 +5341,7 @@ balmy
 biaxal
 bambos
 ballroom
+barkary
 begone
 boxlike
 begonia
