@@ -5947,7 +5947,6 @@ belvedered
 blueblossom
 bridaler
 bombycidae
-benchwarmer
 bouldering
 bosslet
 bellarmine
@@ -15690,6 +15689,7 @@ brionine
 brodiaea
 bilateralistic
 brod
+benchwarmer
 bractlet
 berberin
 baalish
