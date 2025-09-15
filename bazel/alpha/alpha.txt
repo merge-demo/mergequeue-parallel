@@ -20433,6 +20433,7 @@ archetype
 anathema
 automatically
 allegorisation
+adventuring
 artesian
 areographic
 aforesaid
@@ -23462,7 +23463,6 @@ aumrie
 apneumona
 alforjas
 amply
-adventuring
 allelomorph
 andaqui
 antignostic
