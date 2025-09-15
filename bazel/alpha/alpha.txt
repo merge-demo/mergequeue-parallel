@@ -16672,7 +16672,6 @@ aphyric
 annunciators
 acinetina
 albumenoid
-aphlogistic
 amberina
 alushtite
 alle
@@ -24625,6 +24624,7 @@ andesite
 arterious
 annuli
 acinetarian
+aphlogistic
 anopheline
 admove
 aeneid
