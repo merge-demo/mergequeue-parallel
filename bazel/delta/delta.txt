@@ -3388,7 +3388,6 @@ dongolas
 duelists
 diaspores
 dehumidifier
-dragoon
 dunite
 denazified
 debyes
@@ -10363,6 +10362,7 @@ desilverizer
 discophore
 dyne
 dioptrate
+dragoon
 dupla
 divinizes
 dioptrical
