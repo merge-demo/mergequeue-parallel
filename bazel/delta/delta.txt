@@ -7703,7 +7703,6 @@ devenustate
 devexity
 dividedly
 dyspneic
-deoxyribonucleic
 demisability
 dobzhansky
 drumbled
@@ -10321,6 +10320,7 @@ dighting
 dioecism
 didrachmal
 daguerreotype
+deoxyribonucleic
 deans
 ditrochee
 draughting
