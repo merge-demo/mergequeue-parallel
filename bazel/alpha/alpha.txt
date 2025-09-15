@@ -6089,7 +6089,6 @@ ahold
 arbuscle
 agraffe
 alimental
-anisometric
 amoebida
 akinesis
 analemmatic
@@ -15816,6 +15815,7 @@ antelope
 astasia
 anticonscience
 axeman
+anisometric
 avulses
 antiquarianize
 anachronism
