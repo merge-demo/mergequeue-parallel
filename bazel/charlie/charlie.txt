@@ -4634,7 +4634,6 @@ carouse
 carousels
 carp
 carpathian
-carped
 careerist
 cytinaceous
 composograph
@@ -4830,6 +4829,7 @@ crosshatched
 carritches
 carriwitchet
 carroch
+carped
 connivers
 carromatas
 carromed
