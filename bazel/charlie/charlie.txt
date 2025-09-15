@@ -14775,7 +14775,6 @@ city
 cyclonometer
 citicorp
 culler
-coursy
 cowering
 cityfied
 citifying
@@ -31524,6 +31523,7 @@ cues
 coelenteron
 cursitate
 creirgist
+coursy
 cursive
 cycad
 conveyal
