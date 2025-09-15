@@ -14247,7 +14247,6 @@ angiodermatitis
 angiospastic
 achromasia
 achromacyte
-anthracomancy
 anthracomarti
 anthracometric
 attractable
@@ -18312,6 +18311,7 @@ araucarioxylon
 arawa
 arhythmia
 ankh
+anthracomancy
 anteriority
 antlion
 amboceptor
