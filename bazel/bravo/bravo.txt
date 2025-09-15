@@ -2474,7 +2474,6 @@ blens
 bifunctional
 beamer
 basisolute
-benzoiodohydrin
 beltlines
 barrera
 bricky
@@ -6668,6 +6667,7 @@ bacchiuchii
 bermudas
 boerhavia
 bucketfull
+benzoiodohydrin
 buffoons
 bayonet
 bionic
