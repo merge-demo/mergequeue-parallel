@@ -479,6 +479,7 @@ dayspring
 deuces
 deplorer
 disthrall
+disinhabit
 daswen
 daytide
 daytimes
@@ -13909,7 +13910,6 @@ distyle
 dishorse
 demiurgic
 deflore
-disinhabit
 dripolator
 dramatics
 doggiest
