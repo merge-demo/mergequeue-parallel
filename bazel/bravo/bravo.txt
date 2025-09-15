@@ -10827,7 +10827,6 @@ bacury
 blepharoplastic
 bangboard
 blepharosynechia
-blepharosphincterectomy
 bulldoggy
 blepharostenosis
 beeswing
@@ -18046,6 +18045,7 @@ bandmaster
 bullweeds
 bloom
 bilaminate
+blepharosphincterectomy
 busulfans
 bughouse
 barbedness
