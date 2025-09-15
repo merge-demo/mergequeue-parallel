@@ -4480,6 +4480,7 @@ aedeagi
 aedeagus
 aedicule
 aedile
+analogise
 adject
 aediles
 airbursts
@@ -21339,7 +21340,6 @@ afshah
 anthologise
 autosomally
 anosmatic
-analogise
 aegagropiles
 aikido
 aspergillin
