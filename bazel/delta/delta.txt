@@ -3262,7 +3262,6 @@ definitions
 dormant
 dilatant
 disinterested
-depurge
 debbies
 diastem
 desisted
@@ -14614,6 +14613,7 @@ dondine
 dokimastic
 damson
 divisorial
+depurge
 diesinking
 divisural
 divorcee
