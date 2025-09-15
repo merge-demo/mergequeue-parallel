@@ -3655,6 +3655,7 @@ degressive
 desulphurizing
 dactylopterus
 diathetic
+dumbbell
 daunting
 daffish
 dictamnus
@@ -18121,7 +18122,6 @@ develop
 devolatilise
 duke
 dislocation
-dumbbell
 denominating
 discontinuer
 demorage
