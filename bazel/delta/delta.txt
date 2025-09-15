@@ -7784,6 +7784,7 @@ discretionary
 dram
 digger
 dysarthrosis
+diureses
 dayton
 domiciliary
 diplotegia
@@ -11254,7 +11255,6 @@ delirifacient
 disbelieves
 daubier
 dendropogon
-diureses
 deprives
 discretiveness
 disconduce

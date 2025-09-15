@@ -1363,7 +1363,6 @@ admass
 aevia
 acceptilation
 acceptors
-amharic
 auspicated
 afterpast
 acervuline
@@ -7891,6 +7890,7 @@ aefaldness
 abysm
 aqualunger
 arabizes
+amharic
 authentical
 anthropocosmic
 acrosporous
