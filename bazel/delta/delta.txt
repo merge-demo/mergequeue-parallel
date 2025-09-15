@@ -14002,7 +14002,6 @@ dolabra
 disannul
 distorter
 distress
-dystonias
 dismount
 dactylioglyphy
 diffusionism
@@ -18641,6 +18640,7 @@ degreeless
 duty
 dutiability
 disdains
+dystonias
 downtroddenness
 dutied
 denarii
