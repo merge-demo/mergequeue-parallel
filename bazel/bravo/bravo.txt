@@ -4395,7 +4395,6 @@ barrators
 bkcy
 blubberer
 bedrivels
-batis
 bookrests
 branchiogenous
 begloom
@@ -16878,6 +16877,7 @@ bizarre
 blunder
 bloodstained
 bockey
+batis
 begirded
 bondelswarts
 bolag
