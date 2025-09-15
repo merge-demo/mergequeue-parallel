@@ -1584,7 +1584,6 @@ accoutrement
 angioclast
 albanian
 accoutres
-afrikaans
 accredit
 argenteum
 accreditate
@@ -12412,6 +12411,7 @@ aucupate
 avowter
 alights
 acinetarian
+afrikaans
 anankes
 anergia
 andy
