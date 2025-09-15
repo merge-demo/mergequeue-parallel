@@ -14538,6 +14538,7 @@ arcs
 acraze
 afrogaea
 accentuate
+autokinesis
 antiatheistic
 apepsia
 avos
@@ -24115,7 +24116,6 @@ autokinesy
 antisepalous
 aspish
 antievolutionist
-autokinesis
 arythmia
 aetosaurian
 aventayle
