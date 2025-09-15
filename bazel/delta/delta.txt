@@ -286,6 +286,7 @@ dependently
 dodecahedron
 daguerreotyped
 daguerreotyping
+dioti
 druggery
 digitonin
 dodecatemory
@@ -8221,7 +8222,6 @@ darghin
 diadelphous
 diadema
 diaderm
-dioti
 diadic
 despairful
 digitalization
