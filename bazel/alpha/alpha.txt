@@ -10664,7 +10664,6 @@ amlikar
 amlong
 ammer
 avidness
-adderbolt
 adductor
 ammeter
 ammeters
@@ -22252,6 +22251,7 @@ astrolatry
 astrolithology
 anaesthesiant
 approaches
+adderbolt
 apothegm
 achenia
 astrologers
