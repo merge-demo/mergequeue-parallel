@@ -4819,6 +4819,7 @@ detours
 dismisser
 demodulating
 designless
+deciares
 deciduoma
 deaconing
 disseizor
@@ -8475,7 +8476,6 @@ desmonosology
 diambic
 diamegnetism
 disclike
-deciares
 demioctagonal
 danglers
 diametral
