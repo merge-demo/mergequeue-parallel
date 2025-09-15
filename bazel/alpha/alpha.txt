@@ -9371,7 +9371,6 @@ apses
 anomorhomboidal
 alterman
 altern
-alternacy
 asynchronously
 alternamente
 aclidian
@@ -19262,6 +19261,7 @@ anoplothere
 accountability
 adjuror
 abolitionizing
+alternacy
 ammochaeta
 accidentalness
 argel
