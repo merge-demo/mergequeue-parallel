@@ -4841,7 +4841,6 @@ aeronomical
 anisogametic
 aeronomics
 antisymmetric
-anthropopathia
 armrest
 amphisbaenid
 auriculate
@@ -12764,6 +12763,7 @@ appanages
 angraecum
 angry
 anhydrously
+anthropopathia
 angriness
 angstroms
 arrivers
