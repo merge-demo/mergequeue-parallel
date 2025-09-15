@@ -6456,7 +6456,6 @@ aquinas
 amphoriskos
 apatosaurus
 antidomestically
-apocryphally
 aiguilles
 atropia
 av
@@ -8417,6 +8416,7 @@ alkyls
 aphthae
 agastache
 aerograms
+apocryphally
 austrian
 alkin
 avarish
