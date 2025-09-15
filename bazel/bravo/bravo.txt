@@ -8546,6 +8546,7 @@ barabora
 brawlis
 beglerbegship
 billeted
+beating
 billeter
 bilabe
 boweries
@@ -10580,7 +10581,6 @@ boltheader
 bachelorship
 buduma
 begattal
-beating
 buns
 blattid
 burnewin
