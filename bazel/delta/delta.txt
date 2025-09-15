@@ -2505,7 +2505,6 @@ dotted
 divulgater
 disregarder
 dividuity
-declare
 drailing
 doctorfish
 dermatomuscular
@@ -12399,6 +12398,7 @@ disclaimed
 digestor
 dissettlement
 differentiates
+declare
 dendrium
 duplexer
 drias
