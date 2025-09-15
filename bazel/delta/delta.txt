@@ -11657,7 +11657,6 @@ discontiguity
 defuses
 discontinuances
 dambonite
-discontinue
 difflation
 dishabit
 discontinuee
@@ -14124,6 +14123,7 @@ dingy
 duellist
 displace
 deregulates
+discontinue
 deodorants
 designees
 dicentrin
