@@ -10567,7 +10567,6 @@ bezoardic
 blatherskites
 baptisteries
 blatiform
-biotelemetric
 biffies
 blats
 butyrone
@@ -18366,6 +18365,7 @@ baned
 bandlessly
 bland
 buz
+biotelemetric
 bethought
 bolsterers
 buzane
