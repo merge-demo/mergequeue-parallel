@@ -10028,7 +10028,6 @@ anterosuperior
 ambsaces
 anagrammatic
 almogavar
-avanguardisti
 ambulacra
 aguroth
 acuation
@@ -11717,6 +11716,7 @@ adelaster
 angelus
 acyanopsia
 aluminised
+avanguardisti
 acceptedly
 ariolate
 ancerata
