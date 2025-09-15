@@ -122,6 +122,7 @@ baconic
 bludgeoned
 babylike
 babillard
+bally
 batta
 backtrace
 blushes
@@ -3680,7 +3681,6 @@ balearian
 bedboard
 blearedness
 bangalow
-bally
 batteaux
 bedirty
 bonnering
