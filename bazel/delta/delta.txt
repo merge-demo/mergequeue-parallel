@@ -4391,6 +4391,7 @@ drawlink
 desyl
 drying
 dysphagic
+domineer
 delead
 doublehandedly
 dateless
@@ -6938,7 +6939,6 @@ despatching
 despecialization
 disembarrassed
 dropper
-domineer
 despecialize
 dishcloths
 dunk
