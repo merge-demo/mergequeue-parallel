@@ -7308,6 +7308,7 @@ albizzias
 albocarbon
 albococcus
 albocracy
+astroid
 acetalization
 albolith
 acronichal
@@ -17534,7 +17535,6 @@ addressee
 antheximeter
 appendotome
 antipendium
-astroid
 adjoining
 amphibiously
 appentice

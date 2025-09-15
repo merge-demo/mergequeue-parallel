@@ -4170,7 +4170,6 @@ barracoutas
 baftah
 beastship
 benches
-beatee
 brosot
 beaters
 beatifical
@@ -18267,6 +18266,7 @@ butterworker
 broadaxe
 boulimy
 becudgel
+beatee
 bolimba
 boomeranging
 biovulate
