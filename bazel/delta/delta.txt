@@ -3259,6 +3259,7 @@ decolored
 decapitalization
 diadoche
 definite
+disdenominationalize
 definitely
 desecrate
 duramater
@@ -10764,7 +10765,6 @@ deferrers
 dat
 decompensatory
 discreditable
-disdenominationalize
 digammic
 desmogen
 drumbeats
