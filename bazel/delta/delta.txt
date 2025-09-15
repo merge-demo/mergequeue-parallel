@@ -3515,7 +3515,6 @@ defunct
 descendence
 debarked
 drumlin
-defunction
 dollface
 deul
 disfrock
@@ -11788,6 +11787,7 @@ discreetly
 declarant
 dasyatis
 dehydrated
+defunction
 deviants
 discordance
 disturber
