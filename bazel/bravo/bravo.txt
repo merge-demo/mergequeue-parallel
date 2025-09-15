@@ -3582,7 +3582,6 @@ bathmats
 bygoing
 bereaven
 basion
-bathmism
 banker
 bratling
 bathoflore
@@ -5174,6 +5173,7 @@ befretting
 befriended
 blennocele
 bejabers
+bathmism
 bullyrags
 budgets
 beardfish

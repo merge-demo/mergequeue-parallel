@@ -11646,7 +11646,6 @@ charoset
 chowdered
 clethra
 columbanian
-cholesterinic
 cholesterol
 chined
 clepsydrae
@@ -24858,6 +24857,7 @@ coracomorphae
 chrysopoeia
 chafer
 coracoprocoracoid
+cholesterinic
 crepitation
 coracoradialis
 craftmanship
