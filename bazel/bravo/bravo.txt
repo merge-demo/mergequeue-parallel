@@ -5411,6 +5411,7 @@ behaved
 behaver
 behaving
 beanshooter
+britishly
 brakes
 bathylimnetic
 bentlet
@@ -17791,7 +17792,6 @@ bursarial
 blypes
 beaugregory
 bursaries
-britishly
 bursars
 bursch
 bianisidine
