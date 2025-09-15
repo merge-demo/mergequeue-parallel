@@ -1016,7 +1016,6 @@ calcannei
 channellers
 calcareous
 chironomidae
-croisette
 calcareousness
 capitalise
 counsellorship
@@ -3953,6 +3952,7 @@ carcinoma
 counterannouncement
 carbocyclic
 curtesy
+croisette
 carcinomata
 corroborees
 cutcheries
