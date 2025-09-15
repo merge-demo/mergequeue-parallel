@@ -4951,7 +4951,6 @@ defecter
 duffy
 dicrostonyx
 defiled
-displeased
 duranta
 demoralized
 duodecimfid
@@ -17912,6 +17911,7 @@ debutante
 destituteness
 darkheartedness
 defamations
+displeased
 deathday
 duelers
 duelist
