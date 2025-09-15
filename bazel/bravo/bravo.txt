@@ -7362,6 +7362,7 @@ bromated
 betrayed
 bimarginate
 bedgown
+biplicity
 burgout
 bolsheviki
 blueys
@@ -15881,7 +15882,6 @@ battlers
 bogsucker
 bufotenin
 balaenoid
-biplicity
 basidiomycete
 brutish
 bronchocephalitis
