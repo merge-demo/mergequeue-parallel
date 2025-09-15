@@ -5213,6 +5213,7 @@ cerin
 cassegrain
 chromomeric
 casseroling
+covenanted
 carpophore
 carinule
 cassocked
@@ -27512,7 +27513,6 @@ cocas
 cammed
 covenantal
 corrodant
-covenanted
 chok
 cannonades
 cisted
