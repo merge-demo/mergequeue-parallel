@@ -11502,6 +11502,7 @@ desertless
 diverted
 discoboli
 discobolos
+dewiness
 dewiest
 disbelieving
 dicotyledonous
@@ -16535,7 +16536,6 @@ doubler
 dextropinene
 dublin
 duplicident
-dewiness
 dilutee
 dandifies
 defrosting
