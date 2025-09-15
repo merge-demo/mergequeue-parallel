@@ -683,6 +683,7 @@ dudgeons
 discrete
 donnard
 delimes
+dwelling
 depermed
 dampne
 dyehouse
@@ -7859,7 +7860,6 @@ delates
 dissertationist
 dinoceras
 dyothelism
-dwelling
 demove
 dil
 dreks
