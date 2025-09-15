@@ -3100,7 +3100,6 @@ beaufet
 baas
 befame
 basalts
-bernardina
 bombiccite
 basotho
 bedabbles
@@ -6340,6 +6339,7 @@ bracted
 boundure
 biozone
 belgium
+bernardina
 baldcrown
 bastioned
 beebees
