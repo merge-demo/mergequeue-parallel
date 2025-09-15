@@ -4791,7 +4791,6 @@ dispells
 dumbfounder
 democratising
 directeur
-detailed
 democratism
 defacements
 democratize
@@ -9145,6 +9144,7 @@ dormins
 didder
 diddy
 doublehung
+detailed
 disciflorous
 dispunct
 dichoptic
