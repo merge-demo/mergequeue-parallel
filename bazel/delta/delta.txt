@@ -7993,7 +7993,6 @@ drawpoint
 defease
 dextroglucose
 distensive
-dextrolactic
 disgorges
 diphenylthiourea
 dogskin
@@ -11045,6 +11044,7 @@ dayblush
 deboistness
 disaligned
 disalliege
+dextrolactic
 dihalogen
 domiciliating
 deoxidization
