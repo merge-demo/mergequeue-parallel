@@ -10365,6 +10365,7 @@ amidation
 aliofar
 amide
 abelia
+areographic
 acoelous
 auripuncture
 antileft
@@ -20437,7 +20438,6 @@ automatically
 allegorisation
 adventuring
 artesian
-areographic
 aforesaid
 artgum
 artha
