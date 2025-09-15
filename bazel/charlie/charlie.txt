@@ -17341,7 +17341,6 @@ coamings
 caryophyllous
 conflux
 coan
-cheliceral
 camphorweed
 climatius
 chetif
@@ -27609,6 +27608,7 @@ covite
 catchpennies
 cognoscitively
 cypressroot
+cheliceral
 cow
 coumalin
 chesteine
