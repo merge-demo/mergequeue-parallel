@@ -7760,7 +7760,6 @@ acidoproteolytic
 archduchesses
 alkaloidal
 alenge
-alypine
 alenu
 atonics
 assailableness
@@ -19347,6 +19346,7 @@ azodisulphonic
 argyle
 ascendable
 aseptate
+alypine
 antimeric
 automatons
 archaecraniate
