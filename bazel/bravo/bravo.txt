@@ -515,7 +515,6 @@ bahoo
 blumed
 biserial
 billhead
-biscot
 bretwalda
 backstitches
 backtracked
@@ -17754,6 +17753,7 @@ burrbark
 burrers
 burrfish
 bullwhipping
+biscot
 buzzle
 bosniac
 braiders
