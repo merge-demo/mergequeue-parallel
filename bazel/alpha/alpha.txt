@@ -8414,7 +8414,6 @@ alkyne
 alkool
 alkoxy
 antagonize
-acervately
 abarambo
 antipodagric
 analytical
@@ -22596,6 +22595,7 @@ accommodations
 ahurewa
 arhar
 acrospired
+acervately
 auditorially
 australianize
 atikokania
