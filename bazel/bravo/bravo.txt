@@ -1177,7 +1177,6 @@ bowings
 besmears
 betaken
 blachong
-beudantite
 baitfish
 buffeter
 ballard
@@ -8426,6 +8425,7 @@ bilaminar
 burblier
 bemusement
 babbage
+beudantite
 behaviors
 bilati
 boggart
