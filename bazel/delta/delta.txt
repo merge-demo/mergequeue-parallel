@@ -2438,7 +2438,6 @@ decimetre
 demoid
 decimolar
 drainpipe
-downgoing
 dangling
 disimprisonment
 dissipable
@@ -11086,6 +11085,7 @@ dipsosis
 disembay
 diagnosticating
 disapostle
+downgoing
 disapparel
 dentosurgical
 disadventure
