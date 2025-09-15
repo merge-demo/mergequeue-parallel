@@ -10148,7 +10148,6 @@ centeredness
 chiromant
 cystencyte
 chevaliers
-chippewa
 categorizers
 compagnie
 chevener
@@ -13584,6 +13583,7 @@ caxon
 cymballed
 cymballing
 cymbalom
+chippewa
 cymbalon
 cymbel
 cymbid
