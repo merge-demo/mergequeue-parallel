@@ -1886,6 +1886,7 @@ carcinus
 cinnamomum
 chiliarchy
 camelopards
+celidography
 cotterite
 constant
 centralness
@@ -25876,7 +25877,6 @@ coom
 corsican
 clof
 culmigenous
-celidography
 cyclarthrodial
 coothay
 clinical
