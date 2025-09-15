@@ -8230,7 +8230,6 @@ debaucheries
 damasked
 debouche
 dissectors
-dulcor
 diadochic
 dirty
 diadochite
@@ -11460,6 +11459,7 @@ dialyzer
 dockyard
 determinoid
 debug
+dulcor
 discloser
 definitional
 diluvial
