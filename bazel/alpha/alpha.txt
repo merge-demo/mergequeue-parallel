@@ -11813,7 +11813,6 @@ australopithecus
 anapterygota
 andes
 anapterygotism
-amphoriskoi
 ariettas
 awe
 anaptychus
@@ -18779,6 +18778,7 @@ archidome
 antapoplectic
 alacrities
 anathematization
+amphoriskoi
 appointee
 archidoxis
 airy
