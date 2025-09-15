@@ -10011,6 +10011,7 @@ badgered
 booklets
 bummock
 bairntime
+bulletlike
 boba
 byzantine
 byzantinize
@@ -17029,7 +17030,6 @@ bat
 bulletless
 basecoat
 birchbark
-bulletlike
 backwoodsman
 burghmote
 braconniere
