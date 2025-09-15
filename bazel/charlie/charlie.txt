@@ -5292,7 +5292,6 @@ castanopsis
 cor
 castanospermum
 casted
-chloroacetone
 crankled
 creditabilities
 createdness
@@ -9805,6 +9804,7 @@ chellean
 counterfoil
 cheloids
 chemotaxonomically
+chloroacetone
 cutinizing
 chelonia
 contrails
