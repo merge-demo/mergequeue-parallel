@@ -10960,6 +10960,7 @@ diocletian
 dromons
 disaccredit
 deployed
+disannuller
 droplike
 diclytra
 disunionism
@@ -11077,7 +11078,6 @@ dudishness
 deinosauria
 disanalogous
 disanimation
-disannuller
 disentanglements
 decolorimeter
 dipsosis
