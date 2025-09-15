@@ -10016,7 +10016,6 @@ cherishment
 chermes
 cassidinae
 creamcake
-chermidae
 chemosorption
 chermish
 cocopans
@@ -25747,6 +25746,7 @@ corrivalship
 corrivate
 corrivation
 corrive
+chermidae
 counterswing
 continuate
 corroboration
