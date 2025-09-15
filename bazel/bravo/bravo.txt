@@ -10130,7 +10130,6 @@ bathochrome
 blues
 blackdamp
 bismuthous
-bennettitaceous
 belonesite
 backfatter
 bellhanger
@@ -13127,6 +13126,7 @@ borith
 bushwa
 brewings
 bubblies
+bennettitaceous
 befluster
 bundestag
 bority
