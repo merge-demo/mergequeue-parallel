@@ -6648,7 +6648,6 @@ coathangers
 counterwave
 cuscus
 colligation
-ceinture
 ceja
 charcia
 ciceronic
@@ -21307,6 +21306,7 @@ cicatrose
 curtseys
 charismas
 concertini
+ceinture
 concertinist
 closeups
 claustrophobic
