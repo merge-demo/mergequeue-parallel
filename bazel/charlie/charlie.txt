@@ -3533,6 +3533,7 @@ capturing
 capuan
 chammies
 capuched
+coachful
 cinnamic
 chortler
 counterbase
@@ -9185,7 +9186,6 @@ chasseurs
 creatine
 chassignite
 cystin
-coachful
 chaste
 coots
 carritch
