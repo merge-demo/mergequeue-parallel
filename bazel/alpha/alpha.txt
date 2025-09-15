@@ -10733,6 +10733,7 @@ acromegaly
 ammonitess
 ammonitic
 amphi
+alterer
 ammonitoid
 ammonitoidea
 affording
@@ -16910,7 +16911,6 @@ agoraphobiac
 apocalyptic
 advantageous
 acerra
-alterer
 auslander
 assiento
 amizilis
