@@ -2109,7 +2109,6 @@ campho
 camphocarboxylic
 camphoid
 choryos
-camphol
 campholic
 campholide
 coleorhiza
@@ -24129,6 +24128,7 @@ conversionism
 cacostomia
 chirping
 croatian
+camphol
 cricothyroid
 catoptrics
 converso
