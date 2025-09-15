@@ -7432,7 +7432,6 @@ cerates
 ceratiid
 ceratins
 ceratioid
-capsuligerous
 caffle
 ceratitoidea
 ceratoblast
@@ -31503,6 +31502,7 @@ curricla
 currijong
 curring
 currock
+capsuligerous
 collectivization
 chicaned
 cursa
