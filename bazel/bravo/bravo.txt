@@ -1703,7 +1703,6 @@ ballweed
 brehon
 breechcloths
 babblish
-botony
 balmarcodes
 balmawhapple
 buncher
@@ -13641,6 +13640,7 @@ barry
 binucleate
 burladero
 beebreads
+botony
 bartizaned
 bounds
 baygall
