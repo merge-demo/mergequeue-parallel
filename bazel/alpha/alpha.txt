@@ -3596,6 +3596,7 @@ avital
 adherency
 apart
 addiment
+axised
 adherend
 atonement
 aquashow
@@ -14777,7 +14778,6 @@ anticlinal
 anticlines
 anticlinoria
 amphigouri
-axised
 alkenes
 anticlogging
 averroism
