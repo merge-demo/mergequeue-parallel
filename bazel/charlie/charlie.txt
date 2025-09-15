@@ -1495,7 +1495,6 @@ calcrete
 calliphoridae
 callipygous
 callippic
-callirrhoe
 callisaurus
 cosounding
 callisteia
@@ -8563,6 +8562,7 @@ chancito
 crapes
 chanco
 clearing
+callirrhoe
 clutcher
 cohesibility
 chancriform
