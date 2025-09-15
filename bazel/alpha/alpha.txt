@@ -5653,7 +5653,6 @@ abdominocardiac
 amphicarpogenous
 agatelike
 agathist
-agathodaemonic
 articulators
 airdrome
 agatiferous
@@ -16467,6 +16466,7 @@ ammocoete
 accuser
 ach
 athanasy
+agathodaemonic
 anadem
 alisanders
 apanthropia
