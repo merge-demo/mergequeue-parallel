@@ -4650,7 +4650,6 @@ bromhydric
 bedighting
 budgerigars
 bedimming
-borotungstic
 beyrichite
 bordereaux
 birlings
@@ -5451,6 +5450,7 @@ bemixed
 becramp
 booing
 beehouse
+borotungstic
 bromopicrin
 bardily
 baghdad
