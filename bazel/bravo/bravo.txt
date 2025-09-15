@@ -8528,6 +8528,7 @@ bilks
 biochemist
 buckwashing
 bushveld
+botaurus
 brachiolarian
 baar
 barih
@@ -13356,7 +13357,6 @@ bulbless
 balsamed
 bemat
 bradburya
-botaurus
 blooie
 bakehead
 beetlestone
