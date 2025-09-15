@@ -3195,7 +3195,6 @@ coquet
 concatenations
 cameleon
 capillitium
-capilotade
 caping
 curaras
 cauli
@@ -29723,6 +29722,7 @@ continuous
 crooking
 chancey
 circule
+capilotade
 crooknecked
 caragheen
 concessionaires
