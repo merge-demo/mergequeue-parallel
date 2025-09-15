@@ -7709,7 +7709,6 @@ alectoropodous
 apse
 alectryomachy
 arrentable
-alectryomancy
 aerotow
 animoseness
 aciliated
@@ -21672,6 +21671,7 @@ assessment
 agib
 anthraconite
 assessors
+alectryomancy
 anthophile
 apotheose
 affreightment
