@@ -468,7 +468,6 @@ agriotes
 abdominous
 arachnid
 autosymbolical
-abyss
 abysses
 autographed
 abyssolith
@@ -7851,6 +7850,7 @@ anemometry
 agalactous
 alexandrian
 alexandrina
+abyss
 adenomatome
 aggravations
 antiexpansionist
