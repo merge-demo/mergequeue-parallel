@@ -7071,7 +7071,6 @@ audiogenic
 amarna
 antiwhite
 alamodality
-axoplasmic
 alamode
 alamodes
 aneroid
@@ -23420,6 +23419,7 @@ andalusite
 amidocapric
 arbusterol
 aulae
+axoplasmic
 advents
 algedi
 auld
