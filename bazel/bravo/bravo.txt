@@ -4075,6 +4075,7 @@ boehmenist
 bestiaries
 broadax
 basinet
+belozenged
 boondoggles
 bearbaiter
 bedmaking
@@ -14518,7 +14519,6 @@ breathier
 bookworms
 bodybending
 branchiopod
-belozenged
 branchiopoda
 branner
 brandish
