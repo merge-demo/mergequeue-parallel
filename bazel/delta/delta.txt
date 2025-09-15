@@ -8785,6 +8785,7 @@ death
 droners
 dialoguer
 deuterodome
+deducted
 diapering
 diazins
 dinguses
@@ -14362,7 +14363,6 @@ destructory
 directorially
 damaskeening
 ditto
-deducted
 disperato
 dinnery
 delimitizing
