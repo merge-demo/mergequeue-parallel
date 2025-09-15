@@ -6232,6 +6232,7 @@ bostrychid
 bourse
 brandsolder
 bentgrass
+broilery
 beshames
 brachycatalectic
 benthal
@@ -13477,7 +13478,6 @@ boughed
 bogeying
 burgs
 bayness
-broilery
 beer
 bought
 bottleman
