@@ -7497,6 +7497,7 @@ acrocephalous
 assument
 acetary
 antisepticist
+apparitor
 acidified
 atomist
 apportionate
@@ -17415,7 +17416,6 @@ airify
 anoxyscope
 apparitional
 aira
-apparitor
 appassionata
 adverbiality
 appd
