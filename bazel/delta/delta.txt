@@ -4583,6 +4583,7 @@ discriminant
 dottled
 dukhobor
 dynastically
+doegling
 demilitarise
 diaxone
 demilitarised
@@ -6364,7 +6365,6 @@ defined
 dissceptered
 davies
 demurrable
-doegling
 doctrinized
 derned
 dinoceratid
