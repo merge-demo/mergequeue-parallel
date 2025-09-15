@@ -15687,7 +15687,6 @@ antiphonic
 antiphonies
 antiphonon
 abjudging
-aborigine
 antiphons
 arthrodia
 assistants
@@ -23895,6 +23894,7 @@ aeolipile
 aquiferous
 autoceptive
 aminopolypeptidase
+aborigine
 autocholecystectomy
 autochronograph
 agrypniai
