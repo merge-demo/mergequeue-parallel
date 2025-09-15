@@ -8667,7 +8667,6 @@ benshea
 bluffed
 bilsh
 bifluorid
-bilsteds
 bahada
 birching
 barcas
@@ -17087,6 +17086,7 @@ booklice
 bolography
 boder
 butomus
+bilsteds
 ballogan
 benzoylformic
 balantidial
