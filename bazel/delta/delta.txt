@@ -8461,7 +8461,6 @@ diamat
 dambose
 dermochrome
 desmonosology
-diambic
 diamegnetism
 disclike
 deciares
@@ -16955,6 +16954,7 @@ dumbs
 deprocedured
 dreadable
 daftnesses
+diambic
 dreaded
 dorothea
 desmosite
