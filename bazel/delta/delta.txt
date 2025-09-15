@@ -1547,7 +1547,6 @@ deaden
 droops
 drippings
 dices
-discommoning
 desertness
 deputising
 deadfalls
@@ -16594,6 +16593,7 @@ decoctum
 deeply
 darii
 dishevel
+discommoning
 docimastic
 distill
 disdainable
