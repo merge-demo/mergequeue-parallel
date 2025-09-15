@@ -11642,7 +11642,6 @@ cancrophagous
 cholerophobia
 cholestanol
 christianize
-cholesteatoma
 concorrezanes
 cholesteatomatous
 cholesteremia
@@ -24202,6 +24201,7 @@ cleaverwort
 chirimoyer
 contemplamen
 coxwain
+cholesteatoma
 comenic
 convincingly
 centai
