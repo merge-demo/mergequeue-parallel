@@ -4178,7 +4178,6 @@ beatifies
 batholite
 bouchees
 bandel
-bilophodont
 baignoire
 bisque
 bioscientific
@@ -15207,6 +15206,7 @@ birdsall
 brideweed
 biochemics
 bosk
+bilophodont
 bewary
 belles
 bridewell
