@@ -19831,7 +19831,6 @@ combinatorial
 combinatorially
 combinators
 combind
-ctene
 cauma
 concertinas
 cogitatingly
@@ -27337,6 +27336,7 @@ coleseed
 checkbird
 course
 codirectorship
+ctene
 cosmology
 coursers
 courses
