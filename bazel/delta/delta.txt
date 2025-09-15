@@ -2439,7 +2439,6 @@ designs
 defy
 decyne
 drydenian
-diaeresis
 doughs
 dey
 dand
@@ -8569,6 +8568,7 @@ diaphonies
 diaphoreses
 disarranging
 devoutlessness
+diaeresis
 diaphoretics
 diaphorite
 decating
