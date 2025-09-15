@@ -887,7 +887,6 @@ backband
 bootblack
 bloody
 basilicate
-bestial
 bunters
 begoniaceae
 bicolour
@@ -14367,6 +14366,7 @@ beastish
 braincap
 boletaceae
 brachiferous
+bestial
 baradari
 blastomycosis
 buckish
