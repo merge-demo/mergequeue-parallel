@@ -12209,7 +12209,6 @@ banque
 baling
 bleery
 beld
-bolognan
 berberidaceae
 bolognas
 bestench
@@ -13057,6 +13056,7 @@ balangay
 bolster
 betted
 borders
+bolognan
 borderland
 borderlander
 bagpipe
