@@ -6909,6 +6909,7 @@ bundook
 bellis
 besides
 besiege
+brilliancies
 besiegers
 bedeman
 bogomilian
@@ -17660,7 +17661,6 @@ bemajesty
 bordage
 burleycue
 betokening
-brilliancies
 blisterous
 burlesquer
 boviculture
