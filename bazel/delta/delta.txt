@@ -8684,6 +8684,7 @@ dialectology
 diastasimetry
 desiderium
 devilfishes
+donationes
 desalinizing
 discoplacental
 dichastasis
@@ -15460,7 +15461,6 @@ depilous
 deglazing
 disbogue
 dombeya
-donationes
 dome
 dyssnite
 dysaesthetic
