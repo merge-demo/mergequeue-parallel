@@ -5861,6 +5861,7 @@ bentwoods
 bluer
 blackman
 begaudy
+bedaze
 bellweed
 brachiosaurus
 beggardom
@@ -8403,7 +8404,6 @@ bradawls
 bikie
 belluine
 besoothing
-bedaze
 balita
 biovulate
 blams
