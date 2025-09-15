@@ -8283,6 +8283,7 @@ antilipoid
 arguta
 atomically
 aljamado
+architectures
 assistances
 adjusted
 aljamia
@@ -18879,7 +18880,6 @@ alidade
 amorality
 afterplanting
 architecture
-architectures
 architypographer
 affiance
 adrenine
