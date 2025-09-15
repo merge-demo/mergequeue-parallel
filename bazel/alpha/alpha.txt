@@ -2933,7 +2933,6 @@ arbtrn
 across
 analcime
 actinomycosistic
-alacrify
 agglomerator
 actinomyxidia
 actinomyxidiida
@@ -6901,6 +6900,7 @@ anammonid
 antalgesic
 aphonia
 asporogenous
+alacrify
 ameiotic
 allocation
 analogue
