@@ -2069,7 +2069,6 @@ campanulariae
 campanulatae
 catchpolery
 christiana
-coart
 chondrosarcomata
 campanulous
 conchyliated
@@ -23402,6 +23401,7 @@ circumspect
 cocooneries
 contorsive
 catechumenate
+coart
 congests
 coverups
 contactor
