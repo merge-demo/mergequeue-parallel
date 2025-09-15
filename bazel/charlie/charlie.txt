@@ -939,7 +939,6 @@ ceilometer
 calamars
 crinoidean
 coastmen
-coalrake
 calambour
 castellar
 counselor
@@ -3958,6 +3957,7 @@ cellophane
 canniest
 cholers
 cornhusk
+coalrake
 carcinomatous
 carcinomorphic
 cholericness
