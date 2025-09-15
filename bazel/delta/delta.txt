@@ -882,7 +882,6 @@ deliberative
 deve
 dansker
 danta
-droppy
 dreepiness
 dimatis
 dacryopyorrhea
@@ -1300,6 +1299,7 @@ dauber
 dauberies
 dramatic
 denticulate
+droppy
 dumpings
 diapause
 diastaltic
