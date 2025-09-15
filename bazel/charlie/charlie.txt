@@ -892,7 +892,6 @@ caker
 cakette
 chaptalization
 cakewalked
-cakewalker
 cakewalking
 caressant
 carnotite
@@ -21891,6 +21890,7 @@ calahan
 cones
 conestoga
 conf
+cakewalker
 counterpose
 confab
 constructionists

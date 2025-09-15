@@ -2793,7 +2793,6 @@ decastellate
 demist
 draggle
 decrypt
-dahs
 dasht
 dasyus
 decrowning
@@ -15995,6 +15994,7 @@ detainee
 dehairer
 doped
 darjeeling
+dahs
 diapasons
 dispatchers
 dorcatherium
