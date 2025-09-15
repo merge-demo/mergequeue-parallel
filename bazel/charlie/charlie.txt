@@ -5533,6 +5533,7 @@ cladocerans
 catalo
 cataloged
 character
+cornetists
 cariousness
 centi
 crochet
@@ -25344,7 +25345,6 @@ chemiloon
 comatulid
 cornetfishes
 cornetist
-cornetists
 cornets
 cornetter
 curds
