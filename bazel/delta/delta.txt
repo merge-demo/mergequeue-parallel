@@ -1058,7 +1058,6 @@ diacodium
 dutra
 darner
 devoiced
-darners
 darning
 dimeters
 designfully
@@ -4031,6 +4030,7 @@ divertibility
 dipsacaceae
 dislikelihood
 duologue
+darners
 deliberateness
 dinornithine
 debruised
