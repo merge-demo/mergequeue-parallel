@@ -12186,7 +12186,6 @@ airfields
 artou
 andrena
 anopluriform
-andrewartha
 albitophyre
 allumine
 ashless
@@ -21321,6 +21320,7 @@ amenage
 alluvia
 aliso
 asperate
+andrewartha
 aphthoid
 artefact
 azarole
