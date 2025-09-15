@@ -2806,7 +2806,6 @@ buffi
 bolding
 betulaceous
 bibliopegy
-baroqueness
 brazee
 boomboxes
 bookends
@@ -10956,6 +10955,7 @@ bottom
 blizzards
 bridleless
 barth
+baroqueness
 brooched
 bourrees
 blinkard
