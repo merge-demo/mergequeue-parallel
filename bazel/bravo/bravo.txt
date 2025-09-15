@@ -11520,6 +11520,7 @@ bispore
 blastomycotic
 bluish
 blumes
+buccellarius
 benighting
 blunderbuss
 bestare
@@ -17517,7 +17518,6 @@ burets
 bedirtied
 bashkir
 bellonion
-buccellarius
 bhajan
 bhima
 bobble
