@@ -9030,6 +9030,7 @@ antipasti
 almery
 acquisita
 almerian
+aphesis
 appointments
 ardeae
 arizonite
@@ -14266,7 +14267,6 @@ aequiculi
 anthrahydroquinone
 androgynism
 anthramine
-aphesis
 anthranyl
 afterswarming
 anthranilic
