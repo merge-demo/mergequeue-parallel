@@ -1611,7 +1611,6 @@ depositories
 dealbate
 dinginess
 drawer
-doweled
 depolarisation
 decriminalize
 diodes
@@ -18476,6 +18475,7 @@ densimetric
 duplify
 disclosed
 dubitancy
+doweled
 duplified
 duplifying
 duplone
