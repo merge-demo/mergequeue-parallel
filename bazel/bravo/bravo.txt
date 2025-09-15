@@ -991,7 +991,6 @@ bigwig
 bindle
 bahoe
 bottlemaker
-bycoket
 bradytely
 bobbing
 bakuninist
@@ -1912,6 +1911,7 @@ bandle
 banishment
 bedrel
 bushcraft
+bycoket
 brainsickly
 barometry
 bando
