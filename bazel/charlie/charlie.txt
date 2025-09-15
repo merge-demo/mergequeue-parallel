@@ -138,7 +138,6 @@ colophany
 casterless
 cayleyan
 cables
-changeabout
 cabling
 cablish
 contentiousness
@@ -17461,6 +17460,7 @@ coemptionator
 coauthority
 coauthors
 collaborativeness
+changeabout
 coaxal
 canneries
 coaxes
