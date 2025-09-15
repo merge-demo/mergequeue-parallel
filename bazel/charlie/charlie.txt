@@ -12121,7 +12121,6 @@ configurationist
 cavaleros
 crabbiness
 clubmonger
-chout
 culturist
 chowanoc
 chowchows
@@ -25794,6 +25793,7 @@ corrugant
 corrugate
 corrugated
 cataphoric
+chout
 corrugator
 coir
 corrugent
