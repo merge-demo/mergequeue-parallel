@@ -2309,7 +2309,6 @@ daphne
 defensory
 decoded
 dustcloths
-dactylioglyphic
 danglement
 drat
 diacetyls
@@ -4576,6 +4575,7 @@ distraughted
 datums
 drabbled
 daedalus
+dactylioglyphic
 dogmatician
 delegacy
 dotier
