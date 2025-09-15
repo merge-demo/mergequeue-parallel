@@ -7698,7 +7698,6 @@ dustpan
 deray
 drawers
 diffusional
-devels
 dashboard
 donatist
 devenustate
@@ -10791,6 +10790,7 @@ disarranged
 disinfects
 dhoon
 declared
+devels
 decarboxylize
 dispensations
 drools
