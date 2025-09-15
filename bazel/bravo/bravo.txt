@@ -3564,6 +3564,7 @@ bathing
 bastinadoes
 bathyplankton
 bairnteam
+borel
 bibbers
 beswarming
 bridesmen
@@ -13095,7 +13096,6 @@ biopsy
 boodleism
 bernice
 bombylious
-borel
 basehearted
 baronnes
 borers
