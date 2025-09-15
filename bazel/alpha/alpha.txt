@@ -20796,7 +20796,6 @@ alveolar
 acetifies
 apoapsis
 arthrogastra
-asbestoid
 asbestoidal
 abscondence
 asbestos
@@ -24854,6 +24853,7 @@ aromas
 antinoness
 aponeurotome
 annuloida
+asbestoid
 anarchosocialist
 alliterating
 arundinaria
