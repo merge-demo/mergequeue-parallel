@@ -1980,6 +1980,7 @@ bentiness
 bolshy
 belk
 bantoid
+bedplate
 bilinguist
 babesiasis
 bange
@@ -5551,7 +5552,6 @@ basihyoid
 brutified
 behaviored
 boxwallah
-bedplate
 broombush
 bejumbling
 byzant
