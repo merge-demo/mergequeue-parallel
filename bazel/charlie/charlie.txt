@@ -1432,6 +1432,7 @@ calks
 collet
 callainite
 cystidicolous
+cooks
 callais
 callaloo
 caviares
@@ -3636,7 +3637,6 @@ conveyorize
 caramelize
 caramelized
 clowring
-cooks
 clangoring
 caramels
 carancho
