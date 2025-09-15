@@ -8742,6 +8742,7 @@ bungo
 binaphthyl
 blasties
 bletia
+bombace
 bypast
 binaries
 bulginess
@@ -12300,7 +12301,6 @@ bolus
 bomb
 bedquilts
 barratrous
-bombace
 behang
 buckboard
 byrls
