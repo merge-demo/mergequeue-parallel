@@ -19473,6 +19473,7 @@ crossarms
 coloraturas
 crasher
 colorature
+canid
 celesta
 coelector
 cartomancies
@@ -28431,7 +28432,6 @@ coffeebush
 cognizability
 create
 coarcting
-canid
 creates
 creatic
 codlin
