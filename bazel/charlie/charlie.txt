@@ -2137,7 +2137,6 @@ campiest
 campignian
 campylite
 campylometer
-coffeecup
 campyloneuron
 cobias
 cavesson
@@ -8967,6 +8966,7 @@ celadons
 carbinyl
 cruzadoes
 centaurium
+coffeecup
 chariot
 cheesemaking
 carcerate
