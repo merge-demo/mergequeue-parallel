@@ -1884,7 +1884,6 @@ boudoiresque
 barrico
 balladromic
 bandicoy
-befoam
 bloodier
 bella
 bandidos
@@ -12460,6 +12459,7 @@ bells
 biclavate
 boukit
 bescrawl
+befoam
 booklists
 bionics
 budlike
