@@ -2501,6 +2501,7 @@ biopyribole
 bardash
 bractea
 borscht
+bontee
 beruffled
 barghests
 boccia
@@ -14116,7 +14117,6 @@ banditism
 budged
 behoved
 brushups
-bontee
 brachistocephalic
 bookstall
 brass
