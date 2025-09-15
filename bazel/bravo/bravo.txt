@@ -913,6 +913,7 @@ benefact
 bagios
 bandogs
 bedrenching
+boasts
 babishness
 blundering
 bagnes
@@ -11636,7 +11637,6 @@ bumbledom
 boas
 boaster
 boastfulness
-boasts
 beshell
 bryologist
 bosket
