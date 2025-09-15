@@ -5594,6 +5594,7 @@ aciculate
 akamnik
 auriscopy
 atoning
+abenteric
 autocoder
 aphodian
 agaricaceae
@@ -19099,7 +19100,6 @@ apophyllite
 astropectinidae
 ardellae
 annelida
-abenteric
 abdominohysterectomy
 aloewood
 ardent
