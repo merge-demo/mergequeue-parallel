@@ -1149,7 +1149,6 @@ designer
 disacquaint
 dimmet
 dropflower
-depaint
 deda
 dianilid
 dispraisingly
@@ -5613,6 +5612,7 @@ duddy
 dei
 dozy
 desaturation
+depaint
 daying
 demographical
 disorganiser
