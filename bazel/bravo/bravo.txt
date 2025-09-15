@@ -5535,7 +5535,6 @@ breeziest
 bierstubes
 bejewel
 blowziest
-babels
 biopsies
 blockline
 blindness
@@ -17183,6 +17182,7 @@ bludgeoner
 bawdy
 batling
 boltings
+babels
 braguette
 breakweather
 barbitos
