@@ -3178,7 +3178,6 @@ adamantinoma
 adamantoblast
 aphoristic
 antidromy
-adamas
 archery
 atresic
 atelets
@@ -17437,6 +17436,7 @@ agruif
 ambidextrousness
 appearer
 appearers
+adamas
 acetylcholine
 appearing
 appears
