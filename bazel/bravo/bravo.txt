@@ -5240,6 +5240,7 @@ backmost
 bribability
 betrothals
 bolters
+banksian
 badder
 bassette
 bastes
@@ -15847,7 +15848,6 @@ bopper
 boohooing
 barbeyaceae
 biose
-banksian
 bucrania
 broguish
 bursters
