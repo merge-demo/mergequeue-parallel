@@ -12936,7 +12936,6 @@ abo
 acronical
 ascus
 anil
-apposable
 anilau
 annealed
 ayahs
@@ -24185,6 +24184,7 @@ automatizing
 agonia
 automatonta
 automatous
+apposable
 automechanical
 actinically
 antinodes
