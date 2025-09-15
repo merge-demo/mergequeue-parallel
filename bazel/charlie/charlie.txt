@@ -28163,6 +28163,7 @@ cranks
 crossbarring
 crankshafts
 carapidae
+coadjutator
 corpulent
 crannage
 caesar
@@ -29873,7 +29874,6 @@ crossfoot
 crosshair
 crosshatches
 cogwheel
-coadjutator
 cleistocarpous
 crosshaul
 coddler
