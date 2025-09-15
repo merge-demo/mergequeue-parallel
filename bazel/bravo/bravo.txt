@@ -5147,7 +5147,6 @@ baffled
 becket
 billable
 boxholder
-bootmaker
 babs
 brunizem
 befouling
@@ -17730,6 +17729,7 @@ boswellism
 buglewort
 baculiticone
 burnt
+bootmaker
 backfill
 burnwood
 basileus
