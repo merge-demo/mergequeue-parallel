@@ -3038,7 +3038,6 @@ brujo
 blood
 babbool
 bullace
-bartholomewtide
 beech
 bartisan
 bonification
@@ -12313,6 +12312,7 @@ bullwhacker
 betrayer
 bramantesque
 bombline
+bartholomewtide
 bowdrill
 bombast
 buglers
