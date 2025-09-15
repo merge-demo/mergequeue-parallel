@@ -137,6 +137,7 @@ brimmer
 brabantine
 brachets
 basicranial
+begrett
 bedimpled
 bedash
 bonairly
@@ -5361,7 +5362,6 @@ blickeys
 befile
 burly
 birne
-begrett
 blithesome
 begrimed
 bepester
