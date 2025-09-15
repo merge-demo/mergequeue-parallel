@@ -2122,7 +2122,6 @@ decamethonium
 dominator
 decancellated
 disciplinarian
-dividers
 dermatalgia
 debaser
 drillable
@@ -5112,6 +5111,7 @@ deneutralization
 dacryoadenalgia
 desexes
 detect
+dividers
 deconcentrated
 dendrology
 digastric
