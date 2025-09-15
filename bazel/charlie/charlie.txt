@@ -3821,6 +3821,7 @@ contrastimulant
 chinkle
 criminalness
 cilicism
+clicky
 centrosymmetry
 carbonisable
 carbonise
@@ -14426,7 +14427,6 @@ cered
 cutleriaceous
 callously
 citrus
-clicky
 circumvest
 circumvoisin
 chophouse
