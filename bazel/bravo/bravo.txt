@@ -12488,7 +12488,6 @@ bagpiped
 beckoning
 buphthalmos
 bone
-bicapsular
 bejaundice
 bigothero
 boydom
@@ -16903,6 +16902,7 @@ bul
 brassworks
 babylonic
 branchiobdella
+bicapsular
 boaedon
 bustic
 bitthead
