@@ -20606,7 +20606,6 @@ compatriots
 compd
 carreta
 cusparia
-carnose
 codon
 crapon
 chartophylax
@@ -31707,6 +31706,7 @@ cesuras
 carbuncled
 cotyloid
 cuspidor
+carnose
 cuspids
 cephalopodan
 cusping
