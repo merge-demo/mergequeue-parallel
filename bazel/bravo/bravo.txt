@@ -15422,7 +15422,6 @@ bringeth
 brushiness
 bandicoot
 botanophilist
-brynhild
 blist
 babiana
 broomrape
@@ -16578,6 +16577,7 @@ burke
 baronies
 bucharest
 buchloe
+brynhild
 beparody
 bunkoing
 burros
