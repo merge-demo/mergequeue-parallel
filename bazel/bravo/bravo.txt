@@ -11671,6 +11671,7 @@ boatless
 banjoes
 bewonder
 birimose
+bulletins
 bombardmen
 belace
 bumwood
@@ -16020,7 +16021,6 @@ brool
 blasphemers
 biologic
 broomiest
-bulletins
 baseman
 broadwayite
 brailler
