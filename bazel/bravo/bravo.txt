@@ -3401,6 +3401,7 @@ blockbuster
 bandstands
 beforetimes
 bushes
+bun
 bassetting
 bufferrer
 bassia
@@ -17241,7 +17242,6 @@ breechclout
 backbiting
 beleaguered
 breastwood
-bun
 bathochromatism
 benzotrifluoride
 bonduc
