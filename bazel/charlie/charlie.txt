@@ -2514,6 +2514,7 @@ candytuft
 curryfavel
 cassegrainian
 chastisable
+changes
 candyweed
 crosstie
 cleverness
@@ -8635,7 +8636,6 @@ changers
 corrumpable
 conclavist
 clypei
-changes
 changs
 changuina
 cruisingly
