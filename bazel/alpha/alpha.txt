@@ -3708,7 +3708,6 @@ arrish
 articulary
 adipopexia
 adipopexis
-adiposeness
 acrook
 apsidally
 adipous
@@ -6573,6 +6572,7 @@ antioxygen
 azury
 amplifies
 accepters
+adiposeness
 armyworm
 abucco
 alchemistic

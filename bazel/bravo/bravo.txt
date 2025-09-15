@@ -2884,7 +2884,6 @@ battener
 bravoing
 buphthalmic
 bowle
-buccal
 berrypicker
 blindingly
 blazonries
@@ -4118,6 +4117,7 @@ bacterization
 bearhug
 babirousa
 bearhugs
+buccal
 bearish
 bigoniac
 bronchoscopic
