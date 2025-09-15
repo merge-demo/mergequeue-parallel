@@ -8918,6 +8918,7 @@ demiculverin
 downdraught
 dioptidae
 dominancy
+dr
 disconnect
 dissolvability
 desex
@@ -16510,7 +16511,6 @@ darers
 dozzle
 dyscrasing
 dozzled
-dr
 disassembles
 drabant
 domatium
