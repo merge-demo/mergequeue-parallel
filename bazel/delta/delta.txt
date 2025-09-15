@@ -16011,7 +16011,6 @@ dividable
 dentines
 dormition
 devilwood
-distileries
 deprecable
 dossmen
 dissemblies
@@ -17249,6 +17248,7 @@ decade
 dyas
 decius
 dimwittedness
+distileries
 dysplastic
 drinkables
 disgaveled

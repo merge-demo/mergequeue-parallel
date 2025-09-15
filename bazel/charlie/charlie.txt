@@ -12621,7 +12621,6 @@ casket
 chefrinia
 cognoscent
 chronophotography
-chronoscopic
 chronoscopically
 catechisation
 cyperaceous
@@ -23420,6 +23419,7 @@ cumulating
 colibert
 cleistothecium
 contagions
+chronoscopic
 contagious
 contagiousness
 cannonier
