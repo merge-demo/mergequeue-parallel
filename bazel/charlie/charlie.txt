@@ -4536,7 +4536,6 @@ carnivals
 carnivoracity
 carnivoral
 carnivore
-carnivorism
 cordialness
 comart
 carnivorousness
@@ -30031,6 +30030,7 @@ cotice
 corrente
 centration
 crouth
+carnivorism
 cellule
 chattanoogan
 crowbait
