@@ -3948,7 +3948,6 @@ dial
 damascus
 dissuit
 dissertating
-dominatingly
 ditchdigging
 dominant
 delightedly
@@ -5475,6 +5474,7 @@ dandically
 disgraced
 dismounting
 democratically
+dominatingly
 diprotodontia
 dicrotism
 dilutors
