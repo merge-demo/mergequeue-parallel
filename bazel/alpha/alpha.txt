@@ -23108,6 +23108,7 @@ attollent
 amorousness
 attorn
 analepsis
+apertum
 attornare
 anisopleural
 allayer
@@ -25117,7 +25118,6 @@ antiduke
 axiomatized
 austenitize
 archworker
-apertum
 apesthesia
 axiomatizes
 axiomatizing
