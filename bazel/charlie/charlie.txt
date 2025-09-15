@@ -20956,6 +20956,7 @@ comprachico
 comprachicos
 comprador
 cyanamids
+civilise
 compaginate
 catechumen
 compradore
@@ -24338,7 +24339,6 @@ cottonpicking
 cooja
 cheiroglossa
 coagulation
-civilise
 cook
 cookable
 crowl
