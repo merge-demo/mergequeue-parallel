@@ -1470,7 +1470,6 @@ caracoling
 calligraphy
 chiba
 cooeying
-calligraphically
 calling
 cirsotome
 consularity
@@ -31706,6 +31705,7 @@ cesuras
 carbuncled
 cotyloid
 cuspidor
+calligraphically
 carnose
 cuspids
 cephalopodan
