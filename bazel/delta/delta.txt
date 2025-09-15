@@ -5370,7 +5370,6 @@ drub
 demonio
 donnees
 dalapon
-disgruntle
 dwines
 dawned
 denting
@@ -18526,6 +18525,7 @@ duration
 durations
 durative
 durbachite
+disgruntle
 dehydrosparteine
 dynasties
 dendrocoelan
