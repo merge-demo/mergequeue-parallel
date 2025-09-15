@@ -1962,6 +1962,7 @@ disyllabism
 divulgatory
 debus
 decanally
+decoagulation
 debused
 debusing
 danger
@@ -12429,7 +12430,6 @@ dampened
 decempartite
 didymiums
 dene
-decoagulation
 demulsifier
 drubbers
 deflater
