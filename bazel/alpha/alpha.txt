@@ -6001,6 +6001,7 @@ admissions
 aus
 anatheme
 actinocutitis
+annus
 aroeira
 agnations
 acetobenzoic
@@ -12506,7 +12507,6 @@ angaries
 aeronomist
 arpeggiation
 alkahestical
-annus
 actinotrichium
 arcticward
 angel
