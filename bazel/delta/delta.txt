@@ -5876,7 +5876,6 @@ devotary
 deprecating
 desolations
 disconcert
-deprecative
 deepwatermen
 deprecator
 deprecatory
@@ -9596,6 +9595,7 @@ dignifiedness
 draying
 defaultant
 delatinization
+deprecative
 dysyntribite
 desterilize
 dignifying
