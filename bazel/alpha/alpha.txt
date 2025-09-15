@@ -4636,7 +4636,6 @@ ansulate
 aftermath
 asterionella
 acarology
-anaretic
 appointively
 antihum
 aerials
@@ -12705,6 +12704,7 @@ achronism
 allays
 anglewise
 averrer
+anaretic
 avenger
 anglian
 anglic
