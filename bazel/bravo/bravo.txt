@@ -9605,7 +9605,6 @@ batiste
 bisyllabic
 benefactions
 braize
-bulleting
 bedlike
 biggening
 breaches
@@ -16198,6 +16197,7 @@ biennial
 brr
 bullhead
 bloodsuck
+bulleting
 bridgemen
 bladelet
 brrr
