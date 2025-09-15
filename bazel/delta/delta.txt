@@ -12210,7 +12210,6 @@ doom
 depthometer
 diacetine
 dha
-disfavoured
 detoxifying
 distorting
 discursion
@@ -13829,6 +13828,7 @@ distannic
 disjoining
 dozenth
 distaste
+disfavoured
 defoliators
 delayage
 derogatively
