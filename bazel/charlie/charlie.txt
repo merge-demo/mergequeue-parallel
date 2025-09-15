@@ -11237,6 +11237,7 @@ chloridated
 consuls
 chloride
 crocodiloid
+chalcid
 coalfishes
 crackups
 calderon
@@ -25845,7 +25846,6 @@ corsacs
 connarus
 corsages
 corsairs
-chalcid
 corsak
 crippled
 corse
