@@ -17477,7 +17477,6 @@ alburnums
 anachronistically
 amylogenesis
 arsenotherapy
-appellations
 apophonia
 anthophyllitic
 appellatived
@@ -24808,6 +24807,7 @@ asaprol
 animates
 airthed
 aberrations
+appellations
 arythmias
 anosmias
 articulative
