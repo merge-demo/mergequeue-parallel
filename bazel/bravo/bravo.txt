@@ -3817,6 +3817,7 @@ binominal
 blistery
 bustics
 bonos
+bicolours
 bestead
 bridgeward
 babua
@@ -9058,7 +9059,6 @@ brown
 broadbill
 bedazzle
 bandagist
-bicolours
 buzzwords
 biorhythm
 batwomen
