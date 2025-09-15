@@ -12952,6 +12952,7 @@ dicotyledones
 disuniformity
 dognapping
 demobilization
+detruncate
 duff
 darkful
 diligentness
@@ -13792,7 +13793,6 @@ depravedly
 dirndls
 dissuasively
 dabbed
-detruncate
 duhat
 dignifies
 dissunder
