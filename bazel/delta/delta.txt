@@ -2697,6 +2697,7 @@ domoid
 deductibility
 decoration
 disjune
+duodecimo
 discursory
 decorator
 disclassify
@@ -11298,7 +11299,6 @@ deckers
 devitrifiable
 despoliation
 dysbulic
-duodecimo
 damnatory
 dunnaging
 duyker
