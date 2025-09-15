@@ -2290,7 +2290,6 @@ corpuscule
 canaliculate
 canaliculated
 capricorns
-coffining
 confreres
 corector
 carbostyril
@@ -23720,6 +23719,7 @@ carbolise
 contractibly
 cattlegate
 contractility
+coffining
 contractionist
 contractions
 cryptocarpic
