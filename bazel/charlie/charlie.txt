@@ -9432,7 +9432,6 @@ cheapest
 cheapish
 cheaply
 cladoselachea
-cheapos
 cheare
 carpodacus
 cheat
@@ -12905,6 +12904,7 @@ conducted
 churnful
 churns
 churoyan
+cheapos
 cramping
 churrasco
 convolutional
