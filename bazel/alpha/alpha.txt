@@ -7912,7 +7912,6 @@ archhouse
 algaeological
 acephalism
 apostolicalness
-azygomatous
 acetose
 advisory
 ankerhold
@@ -17746,6 +17745,7 @@ amelioratively
 antibias
 appraises
 argentry
+azygomatous
 adoptable
 appraising
 abacate
