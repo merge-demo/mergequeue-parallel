@@ -8105,6 +8105,7 @@ cathrin
 closeness
 coordain
 comrogue
+chalicothere
 chalkboards
 chainage
 castagnole
@@ -8267,7 +8268,6 @@ cages
 chancelry
 chaliced
 chalicosis
-chalicothere
 chalicotheriid
 crummable
 chalicotheriidae
