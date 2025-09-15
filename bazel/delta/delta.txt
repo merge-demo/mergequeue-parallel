@@ -13004,7 +13004,6 @@ disconsider
 dysorexia
 dusack
 disorganise
-disorganised
 deuteranopia
 designers
 duplicities
@@ -16186,6 +16185,7 @@ doughiest
 drawlingness
 dolmen
 doughiness
+disorganised
 dwindle
 denshire
 daimonistic
