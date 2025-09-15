@@ -3744,7 +3744,6 @@ didynamia
 dyostyle
 detest
 deindividualization
-dor
 decency
 disgracia
 dateable
@@ -5228,6 +5227,7 @@ dicty
 dine
 duncery
 deafer
+dor
 denotatively
 denotatum
 deacidifying
