@@ -4486,7 +4486,6 @@ aedile
 adject
 aediles
 airbursts
-aedileship
 anthropomorphitism
 adjutator
 asidehand
@@ -18217,6 +18216,7 @@ antiketogenesis
 astrophyton
 ampullitis
 admiralship
+aedileship
 antic
 anybody
 asor
