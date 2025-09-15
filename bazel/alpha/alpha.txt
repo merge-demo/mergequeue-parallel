@@ -13442,7 +13442,6 @@ affriended
 annular
 armillated
 antihierarchical
-attingence
 augmentative
 algy
 annulary
@@ -19512,6 +19511,7 @@ archichlamydeous
 arided
 astringing
 alleviated
+attingence
 apterium
 apparail
 antinaturally
