@@ -1446,6 +1446,7 @@ disbarred
 dismembers
 doublehanded
 daze
+derotrematous
 discerptibility
 doucine
 deambulation
@@ -10078,7 +10079,6 @@ dozier
 dishonour
 deled
 damply
-derotrematous
 dedal
 dogfought
 definitization
