@@ -12152,7 +12152,6 @@ agmatine
 armillate
 axes
 annelidan
-agathis
 anders
 adducible
 autoirrigation
@@ -24334,6 +24333,7 @@ acetylcholinic
 autoscope
 autoscopic
 atrabiliar
+agathis
 antivivisection
 ablaut
 antagonise
