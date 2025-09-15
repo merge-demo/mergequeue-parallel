@@ -20593,7 +20593,6 @@ attacapan
 articulacy
 aleuroscope
 anthesteriac
-allelomorph
 astragalonavicular
 associate
 alder
@@ -23465,6 +23464,7 @@ apneumona
 alforjas
 amply
 adventuring
+allelomorph
 andaqui
 antignostic
 amperemeter
