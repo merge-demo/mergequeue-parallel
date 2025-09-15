@@ -7748,6 +7748,7 @@ cerulein
 cache
 ceruleite
 ceruleolactite
+clangour
 cravenette
 confesses
 ceruleous
@@ -15356,7 +15357,6 @@ coregonidae
 corium
 clangors
 cappella
-clangour
 clangoured
 clangouring
 childed
