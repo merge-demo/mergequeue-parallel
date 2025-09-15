@@ -18980,7 +18980,6 @@ archpriest
 archprimate
 acupuncture
 artotyrite
-archprotopope
 archpuritan
 acroataxia
 archregent
@@ -19523,6 +19522,7 @@ apometabolous
 airbill
 alchemilla
 antsy
+archprotopope
 ariels
 acoupa
 aries
