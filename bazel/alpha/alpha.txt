@@ -3720,6 +3720,7 @@ anaphylactin
 avestruz
 attainableness
 attracting
+agglomeratic
 adipsic
 aouads
 allantochorion
@@ -5736,7 +5737,6 @@ agglomerate
 anychia
 akey
 agglomerated
-agglomeratic
 apical
 anartismos
 agglutinate
