@@ -2848,7 +2848,6 @@ beebread
 blow
 blowsiest
 bioscopies
-bitterbump
 barbery
 ballers
 birders
@@ -17339,6 +17338,7 @@ balneologic
 bodies
 bombyciform
 beshield
+bitterbump
 breadthen
 busser
 blepharosyndesmitis
