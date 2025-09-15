@@ -16912,6 +16912,7 @@ collothun
 caravanned
 clubhauled
 clubhauls
+cive
 clubhouses
 clubionidae
 clubland
@@ -23025,7 +23026,6 @@ cookdom
 consitutional
 consociational
 chili
-cive
 cryptic
 cripes
 coracoids
