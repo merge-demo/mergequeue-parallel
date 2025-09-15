@@ -12559,7 +12559,6 @@ batsmanship
 bacubert
 bud
 badmash
-bawrel
 bitterwood
 brashness
 bellwind
@@ -13023,6 +13022,7 @@ bibles
 baptismally
 baiginet
 balsamous
+bawrel
 boraginaceous
 borago
 bugger

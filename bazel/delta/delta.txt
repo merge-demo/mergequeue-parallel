@@ -5979,6 +5979,7 @@ distale
 drawling
 desertrice
 disdainous
+dasypaedes
 deprostrate
 deviscerate
 draughtiest
@@ -14968,7 +14969,6 @@ dehortative
 disazo
 downbear
 documents
-dasypaedes
 demonism
 dactylopodite
 dowitcher
