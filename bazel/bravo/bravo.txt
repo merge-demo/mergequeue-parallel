@@ -10596,6 +10596,7 @@ batata
 bransle
 brigandine
 blatting
+beplumed
 biblioclasm
 blattodea
 brinny
@@ -10822,7 +10823,6 @@ brinkless
 blepharomelasma
 bookkeeper
 blepharoncosis
-beplumed
 brachyceric
 bellied
 bacury
