@@ -7743,7 +7743,6 @@ anorthoscope
 atropines
 ascella
 appropriates
-abjunctive
 alembic
 abolishes
 appmt
@@ -23159,6 +23158,7 @@ alluviums
 abscissae
 accomplished
 aquation
+abjunctive
 agoniadin
 attriteness
 atrioporal
