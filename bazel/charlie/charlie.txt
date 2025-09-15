@@ -11751,6 +11751,7 @@ caliphates
 chondrocoracoid
 consonantalizing
 chondrocostal
+circumambulation
 chondrocranial
 circuitous
 chondrodystrophy
@@ -31407,7 +31408,6 @@ curite
 cispadane
 curl
 contractation
-circumambulation
 crataeva
 curled
 curledly
