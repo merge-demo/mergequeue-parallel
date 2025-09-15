@@ -686,7 +686,6 @@ callant
 cag
 cheilion
 cataractal
-conchology
 cage
 caged
 commiserated
@@ -1157,6 +1156,7 @@ christs
 celluloses
 calculuses
 callipered
+conchology
 caldaria
 chokra
 calderas
