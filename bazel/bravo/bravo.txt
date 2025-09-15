@@ -10106,6 +10106,7 @@ backfiller
 biotrons
 blackbush
 baladine
+barrelling
 beshroud
 birkenia
 balloonation
@@ -12360,7 +12361,6 @@ bonkers
 byronize
 boastingly
 beplaided
-barrelling
 bab
 berime
 band
