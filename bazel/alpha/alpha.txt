@@ -14702,7 +14702,6 @@ acuan
 azoology
 astrognosy
 antimachinery
-anticyclic
 aenigma
 arrondi
 antechamber
@@ -24900,6 +24899,7 @@ alienist
 agglutinative
 avocational
 adelops
+anticyclic
 ameristic
 assoria
 automotor
