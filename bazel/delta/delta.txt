@@ -1197,7 +1197,6 @@ desmotropy
 diplobacterium
 dynamophone
 duocosane
-deaminization
 dreikanter
 dejeuners
 disestablishmentarian
@@ -9261,6 +9260,7 @@ declaiming
 dieldrin
 decahedrodra
 dieldrins
+deaminization
 dielectric
 disparately
 dismerit
