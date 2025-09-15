@@ -6135,7 +6135,6 @@ derats
 doloroso
 deratted
 dispond
-debind
 deratting
 draperies
 dissector
@@ -13866,6 +13865,7 @@ dulcimers
 devours
 distemperer
 demurrage
+debind
 distemperoid
 distenant
 dorsicornu
