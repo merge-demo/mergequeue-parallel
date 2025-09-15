@@ -1453,7 +1453,6 @@ balebos
 baled
 baleen
 bobance
-battable
 balefires
 bungey
 bahadurs
@@ -9646,6 +9645,7 @@ booksellerish
 beneficing
 bezzled
 bejumble
+battable
 busking
 balanoglossus
 barway
