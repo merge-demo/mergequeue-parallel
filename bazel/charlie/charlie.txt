@@ -3149,6 +3149,7 @@ cachepots
 crosshatcher
 calibanism
 collagen
+currish
 caperingly
 cribbiter
 capernaism
@@ -5750,7 +5751,6 @@ cardiazol
 cestodaria
 cannabins
 crinose
-currish
 categorise
 categorised
 cobwork
