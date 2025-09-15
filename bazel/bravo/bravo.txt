@@ -4751,6 +4751,7 @@ blathers
 bedrowse
 bedrugged
 bedrugs
+blattoidea
 brakesman
 bondages
 bedside
@@ -14490,7 +14491,6 @@ briarroot
 bearm
 bahan
 branchiomeric
-blattoidea
 bombsights
 babroot
 beadle
