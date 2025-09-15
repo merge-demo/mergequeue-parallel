@@ -7787,7 +7787,6 @@ choosing
 cervantite
 consternating
 coruscation
-cellulated
 choledochitis
 cabrie
 coronatorial
@@ -12488,6 +12487,7 @@ colent
 ciliform
 chromolithic
 concanavalin
+cellulated
 cragginess
 chromolithography
 chromolithographic
