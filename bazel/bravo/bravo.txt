@@ -14445,6 +14445,7 @@ bendays
 butea
 blitzkrieged
 barbarians
+bellicosely
 breezelike
 boregat
 braystone
@@ -17289,7 +17290,6 @@ bicollateral
 blanketer
 bagman
 bounties
-bellicosely
 breviary
 berloque
 beneplacity
