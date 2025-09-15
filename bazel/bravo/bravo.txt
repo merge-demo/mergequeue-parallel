@@ -4103,7 +4103,6 @@ bakeress
 bearding
 balminess
 beslimer
-beards
 birthroot
 behears
 bombazette
@@ -7886,6 +7885,7 @@ bulbomembranous
 bemedalled
 byzantium
 bepimpled
+beards
 bargains
 blueings
 bibliopole

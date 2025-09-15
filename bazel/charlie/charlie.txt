@@ -7722,6 +7722,7 @@ certificative
 certificatory
 cauls
 certified
+chorused
 certifier
 chicaners
 certifiers
@@ -31527,7 +31528,6 @@ cursive
 cycad
 conveyal
 cursives
-chorused
 chromosomes
 cursorary
 cundite
