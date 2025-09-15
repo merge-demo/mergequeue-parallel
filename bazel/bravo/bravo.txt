@@ -709,7 +709,6 @@ bombardo
 breathable
 banjo
 botan
-baddie
 betimber
 bathetically
 baddies
@@ -6129,6 +6128,7 @@ brangle
 bancos
 bushlands
 bologna
+baddie
 bravo
 bluebonnet
 bonebinder
