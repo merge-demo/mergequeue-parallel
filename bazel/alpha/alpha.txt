@@ -9931,7 +9931,6 @@ ambivalence
 accessioning
 aiger
 aceturic
-ambiversion
 ambivert
 antipolitics
 acclimation
@@ -17093,6 +17092,7 @@ apologiae
 asarone
 apological
 apologies
+ambiversion
 apologised
 adenogenesis
 apologists
