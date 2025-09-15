@@ -13903,7 +13903,6 @@ bows
 bootjack
 bowsaw
 bowsed
-benzopyran
 bodkinwise
 baccalaurean
 bowshot
@@ -16829,6 +16828,7 @@ bugbane
 bliest
 beaume
 bimetallists
+benzopyran
 bugbearish
 bushwalking
 boethian
