@@ -2703,7 +2703,6 @@ britannian
 bestayed
 barnyard
 beweep
-beastings
 butein
 bottomries
 batch
@@ -7042,6 +7041,7 @@ bulldozes
 bespeaking
 bruiser
 bespeaks
+beastings
 bespecked
 boffola
 backrun
