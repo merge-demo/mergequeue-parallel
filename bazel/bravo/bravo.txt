@@ -3994,6 +3994,7 @@ bumbailiff
 binges
 beadmen
 blepharophimosis
+barosinusitus
 builds
 besquib
 bostryx
@@ -5241,7 +5242,6 @@ betrothals
 bolters
 badder
 bassette
-barosinusitus
 bastes
 bothsided
 brog
