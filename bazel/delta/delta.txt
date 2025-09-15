@@ -4868,7 +4868,6 @@ defenestrates
 demonetize
 dextrous
 doctorhood
-disappearances
 dilleniad
 ditali
 disembogue
@@ -18245,6 +18244,7 @@ disnature
 discostomatous
 dunderpate
 dynamistic
+disappearances
 debugger
 dzungar
 dhoti

@@ -22437,7 +22437,6 @@ conidioid
 conidiophorous
 conidiospore
 copy
-conidium
 coniferae
 castrato
 coniferophyte
@@ -26519,6 +26518,7 @@ cymbaled
 chemosis
 conjecturable
 cheverons
+conidium
 coucal
 couchancy
 couchant
