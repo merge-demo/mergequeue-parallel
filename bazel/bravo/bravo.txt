@@ -9124,7 +9124,6 @@ birling
 bhaktas
 bubbybush
 buckone
-barotropy
 banderlog
 bianchi
 beshag
@@ -10263,6 +10262,7 @@ botargo
 buckboards
 biflorous
 beehead
+barotropy
 beforehandedness
 bounding
 bioelectricities
