@@ -3510,7 +3510,6 @@ cookshack
 chaired
 captivated
 captivates
-captivatingly
 clowre
 chancre
 captivative
@@ -21170,6 +21169,7 @@ cuckoopint
 cycloheptanone
 chordacentrum
 concassation
+captivatingly
 cherishers
 concatenate
 concatenated
