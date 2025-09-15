@@ -3190,6 +3190,7 @@ demain
 defervescent
 disauthenticate
 dentilingual
+dodoma
 defendants
 disjects
 dyeleaves
@@ -15051,7 +15052,6 @@ dreadless
 denizen
 demophile
 dodman
-dodoma
 destressed
 dodona
 drugman

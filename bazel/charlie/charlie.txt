@@ -20949,7 +20949,6 @@ compounder
 crumbliness
 comprachico
 comprachicos
-contraparallelogram
 comprador
 cyanamids
 compaginate
@@ -28028,6 +28027,7 @@ colonalgia
 cloriodid
 computerize
 conversions
+contraparallelogram
 constituter
 credence
 crampingly
