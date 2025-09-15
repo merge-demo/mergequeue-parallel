@@ -1587,6 +1587,7 @@ deadpanned
 deadpans
 deforced
 deadwork
+dipaschal
 deration
 demurely
 deaerated
@@ -18643,7 +18644,6 @@ disdains
 downtroddenness
 dutied
 denarii
-dipaschal
 dissolutionist
 dorse
 deluded
