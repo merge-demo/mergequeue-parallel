@@ -5153,6 +5153,7 @@ birdseeds
 befoulment
 befreight
 bacula
+biocenosis
 baguette
 burbank
 blueball
@@ -12668,7 +12669,6 @@ buhrs
 bestraddling
 booger
 blancher
-biocenosis
 beachcomber
 bonilass
 benefactresses
