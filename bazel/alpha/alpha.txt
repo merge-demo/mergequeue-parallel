@@ -5712,7 +5712,6 @@ aquarellist
 advanceable
 archsnob
 agents
-ageometrical
 advisor
 absence
 anophyte
@@ -11407,6 +11406,7 @@ actinographic
 amphitheater
 anabaptists
 angustifoliate
+ageometrical
 anabases
 anabasin
 archaeopteryx
