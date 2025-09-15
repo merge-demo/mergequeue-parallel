@@ -13855,6 +13855,7 @@ cahiers
 codelinquency
 cognatus
 calamite
+copatrons
 cardshark
 croighle
 cinephone
@@ -23094,7 +23095,6 @@ cashew
 consorted
 consorter
 cavel
-copatrons
 cowled
 consortism
 cornwallis
