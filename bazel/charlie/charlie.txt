@@ -11059,7 +11059,6 @@ coalize
 chitimacha
 chitimachan
 coappears
-chitinous
 chitins
 chitlin
 concentering
@@ -21461,6 +21460,7 @@ courtships
 cyanbenzyl
 correspondencies
 colorization
+chitinous
 chimpanzees
 cannonry
 concludable
