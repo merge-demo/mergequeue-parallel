@@ -4392,7 +4392,6 @@ dateless
 demanganization
 deliberator
 dishonourableness
-ductal
 dispersonalize
 demandant
 dacryon
@@ -10193,6 +10192,7 @@ deathblow
 dues
 diverticulate
 diploblastic
+ductal
 defogging
 downy
 doater
