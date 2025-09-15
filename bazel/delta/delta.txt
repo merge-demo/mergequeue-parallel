@@ -12431,7 +12431,6 @@ deflater
 dishaunt
 deflationary
 doliidae
-dishcloth
 despairer
 dyspathy
 dupable
@@ -18619,6 +18618,7 @@ dishabilitate
 diakonikon
 dustour
 dorsalmost
+dishcloth
 dustsheet
 dure
 denudational
