@@ -1479,6 +1479,7 @@ balibago
 belating
 beakier
 baline
+bowable
 bodyless
 bundahish
 bugler
@@ -2534,7 +2535,6 @@ barid
 bullyism
 bronchostenosis
 bereaving
-bowable
 burgus
 burglarise
 bestrewn
