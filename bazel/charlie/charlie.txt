@@ -481,7 +481,6 @@ cellobiose
 coascend
 characterologically
 cadenzas
-cadere
 cees
 corymbous
 cades
@@ -27062,6 +27061,7 @@ confocally
 checksums
 continuums
 castoridae
+cadere
 counterrevolutionist
 counterriposte
 counterroll
