@@ -10038,7 +10038,6 @@ circumhorizontal
 celeries
 cherryblossom
 cherried
-cumbu
 canna
 cherries
 chirognomist
@@ -21475,6 +21474,7 @@ concluder
 cymbium
 concluders
 collectivists
+cumbu
 concludes
 caulome
 correa
