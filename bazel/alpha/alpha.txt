@@ -2861,7 +2861,6 @@ apogeal
 allheals
 appendages
 allophanic
-ashless
 antozonite
 actinias
 actinic
@@ -12196,6 +12195,7 @@ anopluriform
 andrewartha
 albitophyre
 allumine
+ashless
 armoniac
 aortolith
 andriana
