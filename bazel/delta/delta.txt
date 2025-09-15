@@ -3526,7 +3526,6 @@ decocting
 deformalize
 dibenzyl
 drainpipes
-disentangles
 displants
 dermatotome
 drawbeam
@@ -9421,6 +9420,7 @@ diffrangible
 diffusate
 decampment
 dipnoous
+disentangles
 disagreeing
 djinni
 daphnoid
