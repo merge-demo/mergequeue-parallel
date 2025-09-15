@@ -900,7 +900,6 @@ dapedius
 decatholicize
 dripple
 duckie
-disburdens
 danio
 dudman
 daphni
@@ -5286,6 +5285,7 @@ desistence
 deligated
 dytiscidae
 density
+disburdens
 defat
 degasifier
 diatomaceoid
