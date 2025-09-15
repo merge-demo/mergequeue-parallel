@@ -2766,7 +2766,6 @@ disintegrative
 dint
 diurnals
 drypoints
-dari
 deflectable
 dichotriaene
 decresc
@@ -9436,6 +9435,7 @@ diamin
 diffusible
 diffusibleness
 diffusing
+dari
 deuteranomalous
 dereling
 dowerless
