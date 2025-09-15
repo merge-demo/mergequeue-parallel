@@ -4378,7 +4378,6 @@ annotatory
 antimythic
 arrogance
 amania
-adversities
 amphiboliferous
 antinome
 axotomous
@@ -18805,6 +18804,7 @@ aldohexose
 archikaryon
 archilithic
 archimagus
+adversities
 augustan
 adenomas
 acidimetric

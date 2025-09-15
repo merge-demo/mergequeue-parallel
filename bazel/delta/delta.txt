@@ -1058,7 +1058,6 @@ diacodium
 dutra
 darner
 devoiced
-dipterad
 darners
 darning
 dimeters
@@ -11331,6 +11330,7 @@ discamp
 discanted
 dragon
 delegacies
+dipterad
 duckwheat
 disgracers
 delayer
