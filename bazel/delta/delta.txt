@@ -3475,7 +3475,6 @@ deformable
 darkey
 deformation
 deflections
-delete
 deformations
 dandily
 deformative
@@ -17892,6 +17891,7 @@ dunkirk
 dullsome
 dude
 denervate
+delete
 dabb
 dissuader
 drafting
