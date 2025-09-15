@@ -5972,7 +5972,6 @@ bemaul
 bipinnarias
 bitterbark
 bemean
-biphenyls
 bementite
 bemete
 bedawee
@@ -8664,6 +8663,7 @@ branners
 boras
 bimanal
 binoxalate
+biphenyls
 bisinuate
 bradsot
 bournless
