@@ -7894,7 +7894,6 @@ abysm
 aqualunger
 arabizes
 authentical
-astert
 anthropocosmic
 acrosporous
 ambusher
@@ -9490,6 +9489,7 @@ affairs
 aeroembolism
 adenodiastasis
 ascence
+astert
 alulim
 agrom
 angas
