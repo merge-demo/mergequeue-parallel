@@ -2504,6 +2504,7 @@ declarators
 dotted
 divulgater
 disregarder
+dividuity
 declare
 drailing
 doctorfish
@@ -7127,7 +7128,6 @@ dactylitic
 deplorable
 danzon
 doggishly
-dividuity
 driftiest
 desudation
 duchesslike
