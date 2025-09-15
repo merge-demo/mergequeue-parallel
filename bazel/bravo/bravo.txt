@@ -4835,7 +4835,6 @@ bejuggle
 breakstone
 biscuitmaking
 bloomage
-bigoted
 bomarea
 broadsiding
 befetished
@@ -16933,6 +16932,7 @@ beauetry
 biochore
 bimotor
 bulbously
+bigoted
 bonhomously
 bowedness
 bouvier
