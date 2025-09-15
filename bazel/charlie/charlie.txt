@@ -20609,6 +20609,7 @@ chlorider
 compatriotic
 compatriots
 compd
+carreta
 cusparia
 carnose
 codon
@@ -26067,7 +26068,6 @@ cosins
 cosmetic
 cosmetically
 calctufas
-carreta
 chasses
 cliquier
 custrel
