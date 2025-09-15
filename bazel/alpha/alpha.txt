@@ -3707,7 +3707,6 @@ articulary
 adipopexia
 adipopexis
 adiposeness
-adiposity
 acrook
 apsidally
 adipous
@@ -17050,6 +17049,7 @@ acuminous
 apoidea
 astucity
 apoious
+adiposity
 apojove
 antihistorical
 apokatastasis
