@@ -435,7 +435,6 @@ catholic
 coagulose
 caudated
 cryptocrystalline
-croucher
 cadaster
 cadasters
 cadastration
@@ -1643,6 +1642,7 @@ cardiograph
 calappa
 currishly
 colorant
+croucher
 curelessly
 calorifics
 conniving
