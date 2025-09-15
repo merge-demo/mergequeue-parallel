@@ -4783,7 +4783,6 @@ carragheenin
 conceitless
 carrat
 carraway
-cortinate
 carrel
 curveting
 carrells
@@ -10967,6 +10966,7 @@ coextensiveness
 coinhabit
 chironomus
 cosmologies
+cortinate
 canaglia
 chiroplasty
 chromatid
