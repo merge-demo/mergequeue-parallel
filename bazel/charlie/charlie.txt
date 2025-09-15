@@ -26398,6 +26398,7 @@ chancel
 cusparine
 cotise
 cezannesque
+collector
 calycophoran
 crackpot
 cotised
@@ -28319,7 +28320,6 @@ clanned
 crawberry
 crawdad
 corroborator
-collector
 crawfishing
 corviform
 crawl
