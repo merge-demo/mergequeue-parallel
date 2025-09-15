@@ -9425,7 +9425,6 @@ althionic
 apholates
 ablution
 asterikos
-anargyroi
 alticamelus
 altify
 aprosopous
@@ -13234,6 +13233,7 @@ acmaesthesia
 ankylocheilia
 acidifies
 ankylodactylia
+anargyroi
 albescent
 antiinflammatory
 adenopharyngeal
