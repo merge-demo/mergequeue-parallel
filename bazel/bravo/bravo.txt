@@ -4852,7 +4852,6 @@ backspace
 burrowstown
 beef
 battled
-brairo
 baggala
 briar
 beefalo
@@ -9461,6 +9460,7 @@ byronesque
 bedecorate
 boread
 beirut
+brairo
 bemonster
 brushiest
 birretta
