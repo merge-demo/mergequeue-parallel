@@ -9520,7 +9520,6 @@ agrobiologic
 anticonvulsant
 aftercourse
 alumnae
-arvicoline
 abnormal
 arrythmic
 absorbers
@@ -18013,6 +18012,7 @@ allegator
 aminate
 antidogmatic
 aerogenic
+arvicoline
 aquaplane
 accustomed
 aquaplaner
