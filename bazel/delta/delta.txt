@@ -1667,7 +1667,6 @@ deashing
 dichastic
 demarks
 deanships
-deanthropomorphism
 diasynthesis
 deanthropomorphization
 deappetizing
@@ -2926,6 +2925,7 @@ deduplication
 despoliations
 deecodder
 demobilise
+deanthropomorphism
 decannulation
 disproportions
 disentitled
