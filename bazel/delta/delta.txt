@@ -5282,6 +5282,7 @@ disocclude
 darr
 dissemblers
 disharmonism
+diductor
 dilatometry
 distylar
 displosion
@@ -12956,7 +12957,6 @@ diligentness
 dummying
 disoccluded
 disoccluding
-diductor
 dairy
 dilatableness
 disodium
