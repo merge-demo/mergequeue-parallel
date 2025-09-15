@@ -1255,6 +1255,7 @@ acarodermatitis
 androlepsia
 asleep
 amay
+aftercome
 apochae
 acarophobia
 acarotoxic
@@ -5330,7 +5331,6 @@ abigail
 aftercast
 aftercataract
 afterclause
-aftercome
 australasian
 acrostichic
 autocamper
