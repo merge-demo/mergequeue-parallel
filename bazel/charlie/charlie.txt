@@ -7093,6 +7093,7 @@ cumaldehyde
 canton
 caliculus
 centimetre
+correspondencies
 centimetres
 cullion
 centimo
@@ -21466,7 +21467,6 @@ conger
 coccous
 courtships
 cyanbenzyl
-correspondencies
 colorization
 chitinous
 chimpanzees
