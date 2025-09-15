@@ -12975,7 +12975,6 @@ deciduous
 decopperize
 discolor
 driftwind
-disaffectedness
 disoperculate
 dicephalous
 deliberation
@@ -13934,6 +13933,7 @@ distinction
 dertrum
 dinero
 debullition
+disaffectedness
 disorganizer
 departmentalizing
 distinctity
