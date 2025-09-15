@@ -18450,6 +18450,7 @@ crookeries
 centime
 comaking
 cognacs
+cosecants
 cognate
 contrarevolutionary
 cognati
@@ -25994,7 +25995,6 @@ clumbers
 chelidonian
 coseat
 conducive
-cosecants
 collude
 curator
 cosecs
