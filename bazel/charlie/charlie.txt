@@ -1770,7 +1770,6 @@ collochromate
 circularizing
 camaieu
 camailed
-camails
 calzada
 camaldolese
 camaldolesian
@@ -3419,6 +3418,7 @@ capriote
 capriped
 capripede
 cytosporina
+camails
 caducecaducean
 cobhouse
 chiastolite
