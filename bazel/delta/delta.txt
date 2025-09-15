@@ -8742,7 +8742,6 @@ dirl
 diatoma
 diapase
 deems
-depredable
 diastase
 din
 doorframe
@@ -9336,6 +9335,7 @@ delisted
 dominule
 doubter
 dyeweeds
+depredable
 darwinist
 dorsonasal
 diewise
