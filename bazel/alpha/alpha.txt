@@ -17869,7 +17869,6 @@ arsenics
 approvability
 azoerythrin
 approval
-approvals
 am
 ampullulae
 armonica
@@ -19297,6 +19296,7 @@ anacrisis
 argentate
 assortedness
 aseptify
+approvals
 argenteous
 argentic
 azocyanide
