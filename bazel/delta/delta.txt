@@ -6914,6 +6914,7 @@ dottedness
 degerming
 doctrinism
 diplegia
+dotless
 disgruntling
 diarthroses
 despairfully
@@ -11158,7 +11159,6 @@ dendroctonus
 dulled
 depurator
 dorhawk
-dotless
 dissertator
 disarticulating
 detruded
