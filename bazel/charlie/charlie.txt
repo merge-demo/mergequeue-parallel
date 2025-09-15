@@ -4093,7 +4093,6 @@ chiropractor
 cardiodynia
 calfret
 cardiogram
-corindon
 cardiographer
 crenulated
 cardiographic
@@ -21504,6 +21503,7 @@ cringingly
 cyetic
 conclusory
 calybite
+corindon
 ceinte
 chapellage
 congestions
