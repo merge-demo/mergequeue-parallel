@@ -7289,7 +7289,6 @@ clincher
 commercer
 constitution
 contenement
-clapping
 conicity
 carnelians
 cryptolunatic
@@ -31556,6 +31555,7 @@ cariamae
 cowlicks
 cauliflower
 cortine
+clapping
 curtainless
 curtal
 cuddles
