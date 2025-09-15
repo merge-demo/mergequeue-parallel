@@ -4236,7 +4236,6 @@ caret
 commerce
 caretake
 caretaker
-consistible
 caretaking
 chastisers
 caretook
@@ -26394,6 +26393,7 @@ cusparine
 cotise
 cezannesque
 collector
+consistible
 calycophoran
 crackpot
 cotised
