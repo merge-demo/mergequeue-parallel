@@ -6257,7 +6257,6 @@ blimp
 blastie
 bentonite
 bents
-brevets
 benu
 benumbed
 benumbs
@@ -15125,6 +15124,7 @@ besmooth
 bedcase
 breastplough
 blunted
+brevets
 bactericidin
 brushman
 babi
