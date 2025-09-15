@@ -14246,6 +14246,7 @@ achira
 angiodermatitis
 angiospastic
 achromasia
+ascertaining
 achromacyte
 anthracomarti
 anthracometric
@@ -20876,7 +20877,6 @@ aizoaceae
 ascertain
 accomplishable
 ascertainably
-ascertaining
 ascescency
 almshouse
 amphophilous
