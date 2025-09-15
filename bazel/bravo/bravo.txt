@@ -8285,7 +8285,6 @@ broommaking
 babite
 berberian
 broomtail
-birr
 blauwbok
 bigeminated
 benzanalgen
@@ -11756,6 +11755,7 @@ bulgari
 bolsterwork
 bosselated
 bobfloat
+birr
 barbut
 backwall
 boloing
