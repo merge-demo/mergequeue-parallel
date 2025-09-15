@@ -6543,6 +6543,7 @@ dendrophil
 desecrater
 duckfooted
 danburite
+delocalized
 desdemona
 dished
 dilemmatical
@@ -16464,7 +16465,6 @@ daglocks
 densitometric
 depicter
 defrosted
-delocalized
 dispellable
 dogtrotted
 displacements
