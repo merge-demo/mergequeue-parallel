@@ -1076,6 +1076,7 @@ crossbarred
 calcinate
 calcine
 coherently
+clothed
 cytherea
 cheeser
 calciner
@@ -16741,7 +16742,6 @@ clomb
 cloth
 cercopithecid
 clothe
-clothed
 costiferous
 curvinervate
 confusional
