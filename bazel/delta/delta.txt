@@ -6039,7 +6039,6 @@ dirtier
 dragonfish
 darkrooms
 depursement
-dipyramidal
 diphenyl
 dodge
 deuterogenesis
@@ -9186,6 +9185,7 @@ didonia
 decapods
 dogmatiser
 dreamfully
+dipyramidal
 dipterous
 dowses
 diductively
