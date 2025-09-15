@@ -3181,7 +3181,6 @@ chicaneries
 capilaceous
 cushaw
 cloudling
-capillarectasia
 cyrtograph
 cagester
 chinoiserie
@@ -11322,6 +11321,7 @@ chlorofluorocarbon
 chlorofluoromethane
 ceylanite
 chloroformate
+capillarectasia
 chloroformic
 conged
 crapaudine
