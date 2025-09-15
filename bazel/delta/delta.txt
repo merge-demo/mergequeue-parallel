@@ -7755,7 +7755,6 @@ divesture
 deprotestantize
 doughfoot
 ditchside
-delative
 dehydrogenase
 dogfighting
 diverged
@@ -16592,6 +16591,7 @@ drafter
 diomedes
 dictated
 dethroning
+delative
 draftiest
 diarrhetic
 decollation
