@@ -4631,6 +4631,7 @@ agora
 abbreviator
 authoritatively
 anthologizing
+ansulate
 aftermath
 asterionella
 acarology
@@ -13768,7 +13769,6 @@ aluminate
 ansu
 aichmophobia
 alymphopotent
-ansulate
 adeeming
 adventuresomely
 answerability
