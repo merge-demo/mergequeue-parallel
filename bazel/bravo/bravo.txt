@@ -3701,7 +3701,6 @@ batteners
 bankrupted
 batterdock
 battered
-beltis
 breck
 batteryman
 bowelless
@@ -15611,6 +15610,7 @@ bluchers
 botulismus
 blastomycetes
 blown
+beltis
 bewildered
 burr
 bepuzzlement

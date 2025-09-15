@@ -3092,7 +3092,6 @@ cannoned
 comstockery
 capacitating
 capacitations
-capacitative
 capacitativly
 coldness
 can
@@ -12973,6 +12972,7 @@ citrean
 cyanic
 cyanid
 comprehensives
+capacitative
 chitinogenous
 catamenial
 continentality
