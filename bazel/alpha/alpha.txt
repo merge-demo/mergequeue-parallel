@@ -6096,6 +6096,7 @@ ahold
 arbuscle
 agraffe
 alimental
+anisometric
 amoebida
 akinesis
 analemmatic
@@ -13151,7 +13152,6 @@ aurifex
 anisomeric
 autosome
 apoturmeric
-anisometric
 aurochses
 antimerger
 amphistyly
