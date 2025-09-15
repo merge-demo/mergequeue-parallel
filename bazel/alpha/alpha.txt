@@ -12101,7 +12101,6 @@ ancoly
 acceptavit
 ancome
 ancona
-alemannian
 abbie
 antiblennorrhagic
 anagrammatize
@@ -13905,6 +13904,7 @@ antecedency
 aimers
 antecedental
 autosauria
+alemannian
 antecedently
 arithmogram
 adpress
