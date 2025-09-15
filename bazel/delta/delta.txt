@@ -4536,7 +4536,6 @@ diaspora
 demicircular
 divulsor
 drowningly
-defence
 doxologies
 defused
 drinkableness
@@ -6429,6 +6428,7 @@ desaccharification
 decarburisation
 desacralization
 documenter
+defence
 drizzled
 drugshop
 deplumation
