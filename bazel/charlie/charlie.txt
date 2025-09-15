@@ -6763,7 +6763,6 @@ cerianthoid
 clearway
 celioparacentesis
 caribe
-chromatospheric
 cerinthian
 cowshard
 capless
@@ -15919,6 +15918,7 @@ cadaverize
 cleidocostal
 cleidohyoid
 cleidoic
+chromatospheric
 chiromance
 colocolo
 cushily
