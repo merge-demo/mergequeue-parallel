@@ -1899,7 +1899,6 @@ debridement
 dodecylene
 dakoits
 dactylosternal
-duras
 dekaparsec
 deciphers
 doura
@@ -5135,6 +5134,7 @@ downgrading
 deletion
 drills
 dismayingly
+duras
 dependents
 dermaptera
 dissensious
