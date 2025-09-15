@@ -822,7 +822,6 @@ biaswise
 boltage
 baffies
 bacalao
-bonnetmen
 blubberhead
 balefulness
 bodieron
@@ -4953,6 +4952,7 @@ beefers
 bombycilla
 ballan
 breakfasters
+bonnetmen
 beerpull
 beers
 beest
