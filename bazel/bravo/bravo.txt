@@ -5998,7 +5998,6 @@ becovet
 bucchero
 bemoan
 buncal
-booked
 bookie
 baccarats
 bowenite
@@ -7493,6 +7492,7 @@ bernicle
 becco
 besmoothing
 bevomiting
+booked
 bevomits
 bread
 binge
