@@ -5575,7 +5575,6 @@ beknottedly
 bobet
 blimpishly
 bel
-behoovingly
 bela
 brushmaking
 burgonets
@@ -11606,6 +11605,7 @@ basilicalike
 blusterously
 befog
 behindsight
+behoovingly
 bathers
 brooklime
 bombinate
