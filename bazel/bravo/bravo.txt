@@ -3015,6 +3015,7 @@ barstools
 bart
 bigamistically
 beared
+bialveolar
 boyd
 bargeload
 bess
@@ -11487,7 +11488,6 @@ bespeckled
 bruckleness
 bluffable
 blicky
-bialveolar
 birrs
 bazzite
 baraca
