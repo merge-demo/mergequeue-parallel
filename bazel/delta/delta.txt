@@ -8456,7 +8456,6 @@ dibutyl
 dorsibranch
 diamat
 dambose
-dermochrome
 desmonosology
 diambic
 diamegnetism
@@ -10842,6 +10841,7 @@ dijudicating
 directorate
 dispartment
 dissave
+dermochrome
 discording
 deviates
 determiners
