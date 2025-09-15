@@ -2772,6 +2772,7 @@ bookies
 bookit
 been
 baroneting
+bolivar
 bitonal
 baronetize
 ballistocardiographic
@@ -12184,7 +12185,6 @@ baklawas
 brickhood
 benzodiazine
 bridgeboard
-bolivar
 bloodying
 boxwoods
 befamine
