@@ -76,6 +76,7 @@ conglutinative
 crenelate
 cabbies
 cabble
+chorizontes
 cabbled
 circuses
 cabbler
@@ -28557,7 +28558,6 @@ creepies
 creepily
 coxcomby
 creepiness
-chorizontes
 clow
 creepmouse
 creeps
