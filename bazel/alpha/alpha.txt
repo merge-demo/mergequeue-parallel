@@ -9688,7 +9688,6 @@ arterialise
 amante
 auscultation
 augurer
-agamous
 agst
 amanuensis
 ainsell
@@ -16937,6 +16936,7 @@ apocentricity
 aymoro
 acroscleroderma
 argonautic
+agamous
 apocha
 automorphic
 antipragmatist
