@@ -10784,6 +10784,7 @@ charleen
 chologenetic
 chlor
 chinkapin
+clinospore
 callitriche
 consequents
 chinkara
@@ -23795,7 +23796,6 @@ chuffy
 contraposaune
 contrapose
 contraposed
-clinospore
 chalcograph
 corregimiento
 chauk
