@@ -12434,7 +12434,6 @@ barker
 bedlamp
 bedwarf
 bond
-barnburner
 berberins
 backbitten
 bondage
@@ -12491,6 +12490,7 @@ buphthalmos
 bone
 bejaundice
 bigothero
+barnburner
 boydom
 boorish
 bonebreaker
