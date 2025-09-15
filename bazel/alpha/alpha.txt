@@ -4446,6 +4446,7 @@ afterspeech
 advocating
 amargoso
 advocative
+assentiveness
 aq
 archengineer
 ayins
@@ -7874,7 +7875,6 @@ alexis
 alexiterical
 admirations
 alexius
-assentiveness
 atramentary
 alleging
 antimoniureted
