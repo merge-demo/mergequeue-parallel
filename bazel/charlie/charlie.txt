@@ -20132,7 +20132,6 @@ commensal
 chemurgies
 cadmus
 capybaras
-commensally
 carvels
 commensurability
 commensurable
@@ -28483,6 +28482,7 @@ crebricostate
 chinar
 crebrisulcate
 canny
+commensally
 crebrous
 creche
 colcothar
