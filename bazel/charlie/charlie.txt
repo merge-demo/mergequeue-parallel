@@ -14706,6 +14706,7 @@ cystose
 cycloidally
 conurbations
 clayman
+caroigne
 coliander
 cystospastic
 chemisorption
@@ -24524,7 +24525,6 @@ coparent
 circumventions
 compartmentation
 coparents
-caroigne
 copartiment
 circles
 commandrie
