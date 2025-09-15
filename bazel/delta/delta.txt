@@ -14743,6 +14743,7 @@ divid
 drill
 djebels
 decarburise
+discovenant
 djehad
 digitalein
 deferens
@@ -17382,7 +17383,6 @@ decrypts
 decree
 disrelated
 drips
-discovenant
 dronepipe
 devolvement
 dysgeogenous
