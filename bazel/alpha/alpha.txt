@@ -1110,7 +1110,6 @@ adenectomy
 asymptotic
 abutilon
 abbassi
-antieducationalist
 abutment
 agenizing
 alice
@@ -16745,6 +16744,7 @@ apraxia
 apically
 aumoniere
 abashes
+antieducationalist
 apices
 apician
 accomplices
