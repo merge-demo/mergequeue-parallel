@@ -9349,7 +9349,6 @@ chausse
 catlap
 coscinodiscaceae
 chautauqua
-chautauquan
 chemicobiology
 contemporariness
 cryptological
@@ -11626,6 +11625,7 @@ configurationism
 cholepoietic
 choler
 cholera
+chautauquan
 cephalospinal
 circumjacent
 curbable
