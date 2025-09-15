@@ -5873,7 +5873,6 @@ absorptiometer
 agios
 agiotage
 azocoralline
-agyrophobia
 agamas
 anophthalmos
 agism
@@ -17602,6 +17601,7 @@ applanation
 applaudable
 araneiformes
 antibalm
+agyrophobia
 applaudably
 alloxans
 ancyroid
