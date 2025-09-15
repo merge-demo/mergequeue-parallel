@@ -8879,6 +8879,7 @@ aisle
 allothogenic
 astrakanite
 allotypes
+archidiaconal
 annotates
 allotypy
 antipapist
@@ -12381,7 +12382,6 @@ appositionally
 anencephalic
 actinotrocha
 archpoet
-archidiaconal
 anencephalus
 anenst
 arteriosclerotic
