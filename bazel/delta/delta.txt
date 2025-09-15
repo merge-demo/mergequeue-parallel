@@ -6232,7 +6232,6 @@ dedolomitizing
 delimited
 dippy
 dermasurgery
-dedolomitization
 dermatagra
 dermatophagus
 dermatotropic
@@ -10405,6 +10404,7 @@ daisee
 dyotheletical
 diotic
 drouthy
+dedolomitization
 deputize
 debutantes
 deejays
