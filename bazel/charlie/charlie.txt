@@ -10573,6 +10573,7 @@ comprehension
 citizenhood
 crocodylus
 cardon
+carpel
 cymbocephaly
 cultivate
 cryptoclimatology
@@ -12399,7 +12400,6 @@ chromatopathia
 chromatophile
 cothurni
 chromatophobia
-carpel
 chromatophoric
 canthectomy
 chevroned
