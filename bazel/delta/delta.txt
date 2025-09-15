@@ -7370,7 +7370,6 @@ determiner
 discographical
 didine
 duplification
-determinism
 disgraceful
 detecters
 dunnest
@@ -8557,6 +8556,7 @@ diaphones
 diaphony
 disclosures
 diaphysial
+determinism
 diaphonic
 diaphonies
 diaphoreses
