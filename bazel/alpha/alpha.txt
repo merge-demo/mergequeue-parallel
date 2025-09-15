@@ -14450,7 +14450,6 @@ amalfitan
 antiabolitionist
 antiabortion
 acrotic
-abiotic
 acacine
 allotrope
 antiacid
@@ -22325,6 +22324,7 @@ achime
 acetotoluide
 aryanism
 aswash
+abiotic
 adyton
 aristarchy
 asweve
