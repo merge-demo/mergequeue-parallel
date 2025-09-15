@@ -5649,7 +5649,6 @@ dephlegmation
 dastards
 dephlogisticate
 dess
-disinclose
 darst
 disseveration
 datedly
@@ -13723,6 +13722,7 @@ dissociations
 defluous
 deceases
 demivol
+disinclose
 dissogeny
 departmentalize
 dissogony
