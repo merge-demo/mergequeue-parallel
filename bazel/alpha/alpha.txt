@@ -6956,7 +6956,6 @@ aftershock
 avowal
 arthroderm
 amidic
-actuator
 apterygiformes
 attuned
 appreteur
@@ -16696,6 +16695,7 @@ aphorize
 aphorized
 anecdotalism
 abos
+actuator
 aphorizes
 artifactually
 ancienter
