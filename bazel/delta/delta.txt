@@ -10394,7 +10394,6 @@ deferrer
 dormient
 diosmosing
 defenders
-departures
 derived
 detenant
 dishful
@@ -11400,6 +11399,7 @@ diggers
 dischargeable
 dispirited
 dilacerating
+departures
 deodands
 dowhacky
 devoter
