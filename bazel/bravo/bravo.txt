@@ -4538,7 +4538,6 @@ bumaree
 benzylpenicillin
 bemingles
 betrunk
-buckteeth
 baubee
 backjaw
 bedarkening
@@ -14359,6 +14358,7 @@ bleeping
 bonier
 busticate
 brayette
+buckteeth
 birdcraft
 bursiform
 braillewriter

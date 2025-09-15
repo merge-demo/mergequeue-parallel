@@ -3431,7 +3431,6 @@ capron
 causeuse
 comprehends
 craniovertebral
-calyptras
 callidity
 capshore
 comd
@@ -5828,6 +5827,7 @@ constructable
 chivy
 catfacing
 crosscheck
+calyptras
 coenobium
 cardiacle
 catfall
