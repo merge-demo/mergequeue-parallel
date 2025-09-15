@@ -3071,7 +3071,6 @@ daubing
 dentated
 devove
 disquietude
-diverticulum
 dilogical
 duxes
 disestablisher
@@ -10432,6 +10431,7 @@ dioxime
 diverges
 dagbane
 dioxindole
+diverticulum
 decoyers
 dovey
 dipartite
