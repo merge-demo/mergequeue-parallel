@@ -9309,7 +9309,6 @@ barman
 backarrow
 baccaras
 bindweb
-barcaroles
 belgian
 brendice
 bodes
@@ -17302,6 +17301,7 @@ behypocrite
 bogledom
 bliny
 bloodmobiles
+barcaroles
 bunged
 buccinator
 bungee
