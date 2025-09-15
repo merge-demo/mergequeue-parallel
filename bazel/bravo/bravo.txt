@@ -13769,7 +13769,6 @@ brewage
 brontide
 bambochade
 brachydactyly
-balaamite
 bowback
 bushment
 brazes
@@ -18124,6 +18123,7 @@ butene
 babuina
 buteonine
 bods
+balaamite
 boisseaux
 bacillite
 beknit
