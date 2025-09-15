@@ -12295,7 +12295,6 @@ anelasticity
 augurship
 aias
 afraidness
-antirationalism
 anelectrode
 appui
 attestation
@@ -12474,6 +12473,7 @@ algosis
 aneurisms
 anfract
 anfractuose
+antirationalism
 antitraditionalist
 authentications
 albuminiform
