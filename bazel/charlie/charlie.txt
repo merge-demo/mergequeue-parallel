@@ -6417,7 +6417,6 @@ confiner
 cambodia
 cavernal
 cavernlike
-cavernoma
 cavernous
 cocamine
 cavernously
@@ -18587,6 +18586,7 @@ cowthwort
 calmer
 cohesible
 cleidoscapular
+cavernoma
 cohesively
 caretakers
 collat
