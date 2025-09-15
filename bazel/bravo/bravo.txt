@@ -11336,6 +11336,7 @@ boneyard
 biologism
 blowse
 brigantia
+blundered
 brethren
 bargeman
 baith
@@ -13542,7 +13543,6 @@ bouch
 bouchaleen
 boucharde
 branchiform
-blundered
 bichromate
 boisterousness
 boudeuse
