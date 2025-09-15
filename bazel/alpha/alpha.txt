@@ -8806,7 +8806,6 @@ allonyms
 allonomous
 arithmetize
 abortion
-amorettos
 apodan
 appreciate
 antenatal
@@ -12200,6 +12199,7 @@ astilbe
 awestrike
 acervuli
 androcephalous
+amorettos
 androcephalum
 alike
 arteriostrepsis
