@@ -5875,7 +5875,6 @@ anteversion
 addisonian
 absorptiometer
 agios
-alcornoque
 agiotage
 azocoralline
 agyrophobia
@@ -14706,6 +14705,7 @@ amphibola
 annalist
 associates
 aswough
+alcornoque
 antichronism
 antineutron
 antichthon
