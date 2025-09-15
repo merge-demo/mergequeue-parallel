@@ -9019,7 +9019,6 @@ bilimbi
 boredoms
 brasqued
 bionditional
-bionics
 bionomic
 backswordman
 batton
@@ -12465,6 +12464,7 @@ biclavate
 boukit
 bescrawl
 booklists
+bionics
 budlike
 bisymmetrically
 bondmaids
