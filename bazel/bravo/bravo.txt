@@ -6932,7 +6932,6 @@ bite
 brisance
 bahera
 bidden
-badju
 bepaid
 beslobber
 bespread
@@ -14871,6 +14870,7 @@ burut
 bungerly
 breastfast
 browd
+badju
 bura
 beflum
 balantidium
