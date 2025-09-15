@@ -2767,7 +2767,6 @@ cannibalizing
 coelomes
 carmeloite
 cannibally
-cummins
 cableman
 cannier
 cannings
@@ -6584,6 +6583,7 @@ cedarwood
 ceded
 ceders
 copepods
+cummins
 cretinize
 cedilla
 chatelet
