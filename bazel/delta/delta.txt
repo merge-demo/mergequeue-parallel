@@ -1424,6 +1424,7 @@ dawning
 dissonancies
 dawnlike
 demimetope
+dackering
 disoccident
 deprest
 disfoliaged
@@ -3717,7 +3718,6 @@ disciplinative
 demibeast
 dictyotaceous
 delustrant
-dackering
 descanter
 dehisce
 domitic
