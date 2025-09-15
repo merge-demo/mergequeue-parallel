@@ -4507,7 +4507,6 @@ arthriticine
 aegagropila
 ataxias
 accessorize
-antimeric
 amblingly
 apologiser
 antimodernistic
@@ -19349,6 +19348,7 @@ azodisulphonic
 argyle
 ascendable
 aseptate
+antimeric
 automatons
 archaecraniate
 attraction
