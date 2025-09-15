@@ -2241,7 +2241,6 @@ arecuna
 aul
 acids
 allenarly
-amenity
 acidulant
 antemeridian
 acidulate
@@ -2961,6 +2960,7 @@ amphibolia
 actinons
 archmessenger
 abidingly
+amenity
 associators
 atocia
 actinophorous
