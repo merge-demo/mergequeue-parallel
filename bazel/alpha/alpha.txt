@@ -19863,6 +19863,7 @@ ammine
 armour
 anabolitic
 avalanched
+angelate
 adossed
 armourer
 abiogenist
@@ -22660,7 +22661,6 @@ adolesced
 atmolysis
 atmolyzation
 antepretonic
-angelate
 atmolyze
 afterburners
 amylometer
