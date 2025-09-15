@@ -5058,7 +5058,6 @@ dexiocardia
 densification
 denaturalised
 denaturalising
-denaturalized
 dueller
 denaturing
 denaturalizing
@@ -8136,6 +8135,7 @@ dhootis
 deworm
 domesticated
 desugar
+denaturalized
 durzi
 dhritarashtra
 disables
