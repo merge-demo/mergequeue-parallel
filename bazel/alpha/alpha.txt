@@ -684,7 +684,6 @@ abortions
 absorbency
 afebrile
 apophysate
-abortiveness
 allegorising
 animadversion
 aigremore
@@ -15627,6 +15626,7 @@ angeleno
 antirevolutionary
 amaranthaceous
 astute
+abortiveness
 accostable
 arianists
 anaphoras
