@@ -3440,7 +3440,6 @@ basibracteolate
 biggah
 beechdrops
 bastinado
-balneal
 bastings
 blendure
 badgerly
@@ -3758,6 +3757,7 @@ batwing
 baysmelt
 betatrons
 brevipennate
+balneal
 bajra
 batz
 burds
