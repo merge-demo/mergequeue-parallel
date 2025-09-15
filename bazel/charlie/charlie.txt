@@ -8486,7 +8486,6 @@ copyholder
 champignon
 caveat
 carle
-contrabassoonist
 champine
 compellably
 cryohydric
@@ -28601,6 +28600,7 @@ cremator
 ceraunograph
 crematory
 commissionate
+contrabassoonist
 crematorial
 cornicular
 cornel
