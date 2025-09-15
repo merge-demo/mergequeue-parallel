@@ -6684,6 +6684,7 @@ basat
 billings
 baikerinite
 benetting
+bokharan
 beroidae
 bathmotropic
 berossos
@@ -16683,7 +16684,6 @@ bucorvus
 bowknots
 billheading
 broomweed
-bokharan
 biconvex
 burrower
 bahama
