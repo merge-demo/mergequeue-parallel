@@ -16789,6 +16789,7 @@ cloudage
 cloudberry
 crotalidae
 cacolike
+cornicing
 couthy
 cloudy
 cloudiest
@@ -19535,7 +19536,6 @@ colorless
 cephalopagus
 carbohydrazide
 colormaker
-cornicing
 convertibleness
 colorman
 cerealose
