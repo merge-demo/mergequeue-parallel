@@ -2550,7 +2550,6 @@ candlemas
 childproof
 cacqueteuse
 candlepins
-chemist
 chamoix
 cerevis
 candler
@@ -28651,6 +28650,7 @@ coplanar
 convergently
 chiragrical
 crushers
+chemist
 creneling
 convexity
 counterirritant

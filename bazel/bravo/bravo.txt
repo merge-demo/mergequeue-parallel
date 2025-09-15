@@ -5898,7 +5898,6 @@ broadening
 benzalcyanhydrin
 beden
 backswordmen
-batswing
 blitzkrieg
 belast
 bulwark
@@ -16163,6 +16162,7 @@ burlesqued
 bundh
 boosted
 bilithon
+batswing
 bandboxy
 blackit
 boxhauls
