@@ -6704,7 +6704,6 @@ designable
 dhutis
 diandrian
 dissolutions
-dacron
 dimedone
 dispeopled
 date
@@ -11026,6 +11025,7 @@ duoliteral
 dire
 discongruity
 durindana
+dacron
 degranulation
 disagreements
 distally
