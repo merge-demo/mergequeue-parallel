@@ -7825,7 +7825,6 @@ aleurodes
 acumen
 aleurometer
 archetypal
-aleuronat
 absi
 aleurone
 adiposuria
@@ -13881,6 +13880,7 @@ anomalurus
 aldamin
 aht
 antebrachial
+aleuronat
 antebrachium
 amouret
 akeake
