@@ -6222,7 +6222,6 @@ chemotaxonomic
 caulosarc
 caulotaxis
 craterlike
-caulote
 complimented
 caum
 convolutedness
@@ -29766,6 +29765,7 @@ conjugately
 cincinnatian
 cropman
 catholicity
+caulote
 contraindication
 comorado
 colleagued
