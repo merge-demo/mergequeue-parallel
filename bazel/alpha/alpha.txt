@@ -4174,6 +4174,7 @@ actiniferous
 arteriotrepsis
 adscriptitious
 averment
+astrain
 autophyllogeny
 adscriptitius
 annodated
@@ -22125,7 +22126,6 @@ acoemetic
 astragalotibial
 anomalism
 archaeolith
-astrain
 adiamorphism
 antimissile
 azoeosin
