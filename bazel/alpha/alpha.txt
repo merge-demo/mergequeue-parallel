@@ -5530,7 +5530,6 @@ aquafortist
 agalma
 antipeptone
 antespring
-ardea
 arctically
 angulatosinuous
 arthrodial
@@ -13623,6 +13622,7 @@ anophele
 angeldom
 anopheles
 anophelinae
+ardea
 adamants
 anophoria
 amphibiotica
