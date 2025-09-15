@@ -192,7 +192,6 @@ admissability
 abbatie
 abbe
 abbey
-acarocecidia
 archapostate
 archprophet
 aleshot
@@ -11648,6 +11647,7 @@ argyrocephalous
 allargando
 accidency
 apportion
+acarocecidia
 anticephalalgic
 analgic
 anticeremonialism
