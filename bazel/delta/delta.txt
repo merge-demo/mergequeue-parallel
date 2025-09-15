@@ -2011,7 +2011,6 @@ draftage
 decadary
 dimethylcarbinol
 deploration
-decadency
 dolichocephal
 documentalist
 decadic
@@ -4974,6 +4973,7 @@ duranta
 demoralized
 duodecimfid
 decemviral
+decadency
 demoralizers
 drillmaster
 draughty
