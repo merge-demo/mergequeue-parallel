@@ -3607,6 +3607,7 @@ apprizers
 anticipatively
 archivolt
 adduction
+apokatastatic
 arenicolite
 adhesion
 architraved
@@ -3773,7 +3774,6 @@ appropriation
 adjudicate
 autarkik
 argentide
-apokatastatic
 adjudicated
 adjudication
 adjudications
