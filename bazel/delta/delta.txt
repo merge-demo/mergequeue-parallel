@@ -6134,6 +6134,7 @@ discipled
 dijudicant
 duperies
 deservedness
+driving
 demicylindrical
 deratized
 derats
@@ -17309,7 +17310,6 @@ directionality
 distanced
 degged
 drivewell
-driving
 dropping
 drizzles
 deadlocks
