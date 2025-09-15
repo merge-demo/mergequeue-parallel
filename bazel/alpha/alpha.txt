@@ -5055,6 +5055,7 @@ ambilaevous
 affaite
 affect
 affectable
+archerfishes
 anaxonia
 aflicker
 agelessly
@@ -18683,7 +18684,6 @@ antecedaneous
 antidumping
 anastomose
 archer
-archerfishes
 assurgent
 archeries
 acoustically
