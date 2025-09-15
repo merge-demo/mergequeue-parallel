@@ -21238,6 +21238,7 @@ concentrations
 cicatricial
 chorepiscopal
 codirect
+covalence
 chose
 cabals
 concentrator
@@ -30846,7 +30847,6 @@ conformist
 cebus
 coeliorrhea
 culmination
-covalence
 culming
 culms
 corneocalcareous
