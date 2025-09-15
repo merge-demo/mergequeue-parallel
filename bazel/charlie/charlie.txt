@@ -16292,6 +16292,7 @@ cynography
 clinohumite
 crumbled
 cowhide
+codswallop
 childermas
 constringency
 clinoid
@@ -17969,7 +17970,6 @@ carwitchet
 caws
 cods
 cephalanthus
-codswallop
 consonate
 coueism
 channels
