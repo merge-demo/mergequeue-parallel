@@ -14674,7 +14674,6 @@ agaze
 antichance
 antichlorine
 arcadings
-antichloristic
 antichlorotic
 antievangelical
 attinge
@@ -15681,6 +15680,7 @@ ahankara
 anodize
 antiphony
 anomorhomboid
+antichloristic
 ambitioning
 antiphonic
 antiphonies
