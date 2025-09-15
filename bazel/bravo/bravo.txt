@@ -7548,6 +7548,7 @@ bewitched
 bewitcher
 bewitches
 bondswomen
+beaverpelt
 bombacaceous
 basilics
 boethusian
@@ -8936,7 +8937,6 @@ byliner
 bioengineering
 basidiomycetes
 bioethic
-beaverpelt
 bromyrite
 bullishly
 blueberries
