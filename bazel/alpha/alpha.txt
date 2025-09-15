@@ -16625,7 +16625,6 @@ admitting
 anthophagy
 audacity
 ajog
-aphemia
 ambidextrous
 aphemic
 amphithalami
@@ -19332,6 +19331,7 @@ authorship
 augurial
 acridness
 abbest
+aphemia
 argents
 argentum
 antiparliamentarist
