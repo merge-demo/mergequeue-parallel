@@ -2695,7 +2695,6 @@ cankered
 cankeredly
 codders
 chapeaux
-cephalosporium
 cording
 cubitopalmar
 catostomus
@@ -3679,6 +3678,7 @@ carates
 chantier
 candor
 campanularidae
+cephalosporium
 coventrize
 caravaneer
 cyclists

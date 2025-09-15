@@ -9276,6 +9276,7 @@ alphyls
 alphin
 advectitious
 aquifoliaceae
+articulite
 alamannic
 ateliosis
 alphol
@@ -20522,7 +20523,6 @@ aswithe
 arthroncus
 androidal
 anterevolutionary
-articulite
 aetiology
 arthropathic
 arthrophyma
