@@ -4629,7 +4629,6 @@ cryology
 cunnings
 coverture
 carousals
-calycli
 centrospermae
 carouse
 carousels
@@ -30492,6 +30491,7 @@ cavin
 cubbyhouse
 ciphertexts
 codein
+calycli
 carousal
 cubbishness
 cubbyu
