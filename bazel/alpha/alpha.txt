@@ -7511,7 +7511,6 @@ axolemma
 actual
 alcmene
 alcogene
-assignable
 assertorically
 axletrees
 araneoidea
@@ -11975,6 +11974,7 @@ anatripsology
 antimagistratical
 aerotechnics
 aneretic
+assignable
 anatropal
 anatropia
 antiquers
