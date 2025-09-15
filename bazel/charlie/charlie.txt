@@ -2120,7 +2120,6 @@ camphols
 camphor
 camphorated
 camphorates
-chg
 camphory
 camphoryl
 ceratothecae
@@ -13543,6 +13542,7 @@ cyllenius
 cillosis
 conundrum
 compliance
+chg
 civilized
 contours
 cyma
