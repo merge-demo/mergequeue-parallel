@@ -3021,7 +3021,6 @@ congested
 cucumber
 cantoria
 cardsharps
-crystallographic
 cubalaya
 cantoris
 cantors
@@ -13027,6 +13026,7 @@ crumbable
 crates
 cyanoguanidine
 cyanohermidin
+crystallographic
 cynghanedd
 cyanometer
 chosen
