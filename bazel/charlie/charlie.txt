@@ -8959,6 +8959,7 @@ chargeless
 charger
 charybdian
 crankman
+conjugacy
 charybdis
 chestnutty
 charicleia
@@ -13113,7 +13114,6 @@ centered
 cybernion
 cressets
 cibol
-conjugacy
 comino
 cibolero
 cibols
