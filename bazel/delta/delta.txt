@@ -8152,7 +8152,6 @@ duodial
 developpes
 damageability
 decidable
-disbanded
 dinosaurs
 diabetometer
 demineralize
@@ -13259,6 +13258,7 @@ dolphinfish
 dyspnea
 dyspneas
 diapensiaceae
+disbanded
 dorsocephalad
 dimity
 dodecastylos
