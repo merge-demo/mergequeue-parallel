@@ -4742,7 +4742,6 @@ carpophyl
 cressier
 companions
 covariables
-cynosarges
 cleaning
 carpopodite
 carpopoditic
@@ -25832,6 +25831,7 @@ corruptious
 cattily
 contretemps
 corruptively
+cynosarges
 carchariidae
 coprinae
 corruptor
