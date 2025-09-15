@@ -3935,6 +3935,7 @@ demes
 disseisoress
 delayful
 det
+drafters
 dunlap
 dooli
 deflagrability
@@ -14965,7 +14966,6 @@ dactylose
 disgregating
 disnatural
 dimmers
-drafters
 documentarist
 documentational
 decarbonator
