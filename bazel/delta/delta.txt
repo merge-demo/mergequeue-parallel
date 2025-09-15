@@ -10469,6 +10469,7 @@ disfigurative
 deux
 dosimeters
 damask
+dithionous
 discolith
 devinct
 dow
@@ -14305,7 +14306,6 @@ disorders
 deviances
 disclamatory
 dithion
-dithionous
 dephilosophize
 devotionate
 demoralizes
