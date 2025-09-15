@@ -23012,6 +23012,7 @@ cinnoline
 coercing
 consisting
 corydon
+corrigible
 commencing
 consistorian
 consistories
@@ -25713,7 +25714,6 @@ corridas
 corriedale
 corrige
 compossibility
-corrigible
 chainbearer
 chonta
 cumberment
