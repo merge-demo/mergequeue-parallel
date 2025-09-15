@@ -4711,6 +4711,7 @@ besplit
 bedpost
 blate
 bypasses
+beaterman
 backwinding
 bauds
 bogway
@@ -6995,7 +6996,6 @@ belletrist
 borachio
 boppers
 besoot
-beaterman
 burelle
 buccan
 boyarisms

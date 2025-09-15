@@ -3782,6 +3782,7 @@ carmelite
 caladium
 chrisma
 carbomethoxyl
+cantus
 carbon
 carbona
 carbonaceous
@@ -28453,7 +28454,6 @@ creationary
 creations
 chromoparous
 conphaseolin
-cantus
 creativity
 clowns
 creatorhood
