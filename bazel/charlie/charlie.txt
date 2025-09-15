@@ -229,6 +229,7 @@ characterizes
 cachectic
 cachectical
 cached
+cluster
 codeposit
 commemorational
 corregidor
@@ -21566,7 +21567,6 @@ concordity
 circline
 centumvir
 cemetary
-cluster
 concorporate
 culverts
 concorporated
