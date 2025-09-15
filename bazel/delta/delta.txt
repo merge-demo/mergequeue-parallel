@@ -4645,7 +4645,6 @@ dendrolagus
 dustlike
 dolichocrany
 depths
-disusing
 demiox
 dithematic
 disenthrall
@@ -15176,6 +15175,7 @@ dl
 drapet
 dados
 dyn
+disusing
 dhamma
 describing
 defail
