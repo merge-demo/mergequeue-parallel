@@ -4603,7 +4603,6 @@ dali
 drabbletail
 decopperization
 disaffectionate
-detax
 disproportionality
 dalesfolk
 dovish
@@ -6093,6 +6092,7 @@ dequeues
 der
 deracinating
 domiciliar
+detax
 dryly
 democratised
 deracination
