@@ -8999,7 +8999,6 @@ corporeality
 caridoid
 cloaks
 comus
-chicadee
 competitory
 charking
 chiels
@@ -11975,6 +11974,7 @@ choric
 catlike
 chorines
 collunarium
+chicadee
 consol
 cachina
 chorioallantoic
