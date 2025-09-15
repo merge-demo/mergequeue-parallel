@@ -4655,6 +4655,7 @@ dichelyma
 draggletail
 demirilievo
 degerminate
+denunciative
 deflea
 demonastery
 diddle
@@ -7455,7 +7456,6 @@ detrainment
 deathsmen
 dikast
 detrect
-denunciative
 detrench
 demigentleman
 diapensia
