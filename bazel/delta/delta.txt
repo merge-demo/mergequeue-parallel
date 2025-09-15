@@ -9429,7 +9429,6 @@ djinni
 daphnoid
 disenthralment
 diffuses
-dechlore
 diamin
 diffusible
 diffusibleness
@@ -14147,6 +14146,7 @@ disulfid
 derris
 diazotizable
 disulfide
+dechlore
 dubiety
 disanimate
 desacralize
