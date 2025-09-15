@@ -8222,7 +8222,6 @@ antiplenist
 architectonic
 alipin
 apophylaxis
-antecloset
 acappella
 arbitrational
 alipteria
@@ -24554,6 +24553,7 @@ acetolysis
 avaram
 abilla
 applicably
+antecloset
 avaremotemo
 alouatte
 abraxas
