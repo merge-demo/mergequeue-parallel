@@ -2182,6 +2182,7 @@ agronomics
 asonia
 appassionato
 acetophenin
+alopecoid
 arcaded
 attempers
 acidaspis
@@ -9202,7 +9203,6 @@ aloofly
 alop
 alopecias
 alopecic
-alopecoid
 alphabetiform
 antrectomy
 alopeke
