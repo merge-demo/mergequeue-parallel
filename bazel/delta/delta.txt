@@ -12338,7 +12338,6 @@ deossify
 desynchronize
 diphosphate
 diaconia
-delineates
 dextrotropic
 dictynidae
 diferrion
@@ -16386,6 +16385,7 @@ discredits
 denser
 defended
 downshore
+delineates
 desirelessness
 dephlegmatize
 dibbler
