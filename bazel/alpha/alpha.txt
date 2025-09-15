@@ -1154,7 +1154,6 @@ acadie
 amorphic
 agametes
 actinian
-alkalifies
 axonopus
 autopsied
 acaleph
@@ -11513,6 +11512,7 @@ arresters
 austerely
 amanita
 assafoetida
+alkalifies
 anacoluthons
 alow
 anacreon
