@@ -5186,6 +5186,7 @@ dens
 dramalogue
 deflagrator
 downwith
+disguster
 denyer
 didromy
 downstater
@@ -9785,7 +9786,6 @@ dioptrically
 dilates
 disapprovable
 devaster
-disguster
 decolourization
 dilatometer
 dermolysis
