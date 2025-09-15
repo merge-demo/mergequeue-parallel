@@ -8983,6 +8983,7 @@ biolyses
 bouleverse
 bludgeoneer
 busybodyish
+belong
 biologist
 bedstands
 bioluminescence
@@ -13135,7 +13136,6 @@ bunsen
 belows
 bardlet
 borneol
-belong
 borneols
 belaced
 bovids
