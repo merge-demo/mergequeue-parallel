@@ -15697,7 +15697,6 @@ duumviri
 diphenhydramine
 drawcansir
 dap
-doolfu
 doomed
 declension
 defterdar
@@ -18185,6 +18184,7 @@ dump
 disreputably
 denial
 duplexing
+doolfu
 distream
 dumpled
 dineuric
