@@ -10323,6 +10323,7 @@ didrachmal
 daguerreotype
 deoxyribonucleic
 deans
+delphinius
 ditrochee
 draughting
 delta
@@ -11108,7 +11109,6 @@ diakinesis
 dicier
 disconnection
 disconcertedness
-delphinius
 dealates
 diamagnetically
 droning
