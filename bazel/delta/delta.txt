@@ -3127,7 +3127,6 @@ defectlessness
 dislevelment
 despiteous
 dulcineas
-deracine
 defectors
 denigrative
 dandiest
@@ -14979,6 +14978,7 @@ dasypaedes
 demonism
 dactylopodite
 dowitcher
+deracine
 dolorifuge
 dependencies
 dialectologic
