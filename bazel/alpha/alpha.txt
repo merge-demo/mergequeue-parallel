@@ -16962,7 +16962,6 @@ argumentive
 alliterations
 amourette
 ammoniac
-anthroponomical
 arefaction
 aeolicism
 aerophotography
@@ -21504,6 +21503,7 @@ algolagnist
 asphyxiative
 aperient
 alkylize
+anthroponomical
 anlage
 approvable
 avoid
