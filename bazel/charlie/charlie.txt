@@ -10105,7 +10105,6 @@ chesstree
 cerias
 clammersome
 cosmopolitanly
-chest
 curing
 chesterfield
 chesterfieldian
@@ -25325,6 +25324,7 @@ corncutter
 calapite
 cornea
 corneas
+chest
 cheddaring
 conject
 cappelenite
