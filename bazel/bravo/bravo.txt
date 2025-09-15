@@ -1663,7 +1663,6 @@ brattier
 bullshitted
 ballot
 ballota
-ballotade
 burnies
 billbergia
 boyarism
@@ -15953,6 +15952,7 @@ bescribbled
 barrowist
 boucan
 bluffness
+ballotade
 bronk
 botched
 burgullian
