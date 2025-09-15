@@ -262,7 +262,6 @@ dollhouses
 dicoelious
 drammock
 decameters
-daggles
 dochmiasis
 duckweeds
 daggling
@@ -10576,6 +10575,7 @@ diamides
 disequilibrium
 diatomaceous
 dioxane
+daggles
 discoblastula
 diplocoria
 diploe
