@@ -5526,6 +5526,7 @@ dinger
 diaxon
 deparliament
 draffman
+dorps
 damners
 delighting
 denials
@@ -7062,7 +7063,6 @@ despumation
 dealing
 desquamating
 doublehandedness
-dorps
 desquamatory
 decivilization
 desilverize
