@@ -3580,6 +3580,7 @@ clevises
 calefaction
 carabiniere
 carabinieri
+cloistress
 cotrespasser
 caraboa
 caraboid
@@ -16963,7 +16964,6 @@ clump
 contemper
 caline
 cycadean
-cloistress
 crackerjack
 conhydrine
 clumpiest
