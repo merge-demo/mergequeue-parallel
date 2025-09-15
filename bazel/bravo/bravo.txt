@@ -3910,7 +3910,6 @@ bassly
 burn
 beliquor
 balaniferous
-birdweed
 bipennated
 banksia
 biassedly
@@ -12489,6 +12488,7 @@ bagpiped
 beckoning
 buphthalmos
 bone
+birdweed
 bejaundice
 bigothero
 boydom
