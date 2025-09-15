@@ -5424,6 +5424,7 @@ donataries
 droughtier
 decan
 decard
+dryopteris
 ductus
 denuder
 douched
@@ -17635,7 +17636,6 @@ decandria
 dogbite
 dothiorella
 dirtiest
-dryopteris
 drunker
 duplicidentata
 dabbler
