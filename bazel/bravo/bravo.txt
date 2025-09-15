@@ -10900,7 +10900,6 @@ brompicrin
 begroans
 baldpated
 bifid
-bindable
 befingered
 bangers
 boxball
@@ -13379,6 +13378,7 @@ brender
 bothers
 beety
 bughouses
+bindable
 bivouacked
 benightedly
 bothersomely
