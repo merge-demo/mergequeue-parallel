@@ -1054,7 +1054,6 @@ bail
 bringer
 barfs
 burstwort
-bailable
 boordly
 bezazz
 basqued
@@ -2966,6 +2965,7 @@ breathing
 biron
 bijection
 boloed
+bailable
 beaverish
 bemazed
 buckleya
