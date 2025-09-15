@@ -11487,6 +11487,7 @@ deoccidentalize
 discoactine
 degummer
 documentation
+deviations
 diallages
 deedeed
 drungar
@@ -13677,7 +13678,6 @@ deceivingly
 deserter
 dhurrie
 dissipaters
-deviations
 digestedly
 disseating
 denationalising
