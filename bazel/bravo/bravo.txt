@@ -2153,6 +2153,7 @@ bonehead
 bricksetter
 barreled
 bathybius
+bestripe
 burnishes
 bediapered
 botherment
@@ -10801,7 +10802,6 @@ bitstalk
 blepharocarcinoma
 bradawl
 balinger
-bestripe
 batyphone
 bienvenu
 bedgoer
