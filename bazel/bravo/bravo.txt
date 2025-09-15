@@ -7808,6 +7808,7 @@ barytocalcite
 bibi
 busses
 baniya
+bendways
 bibionid
 bewreath
 bealtine
@@ -12944,7 +12945,6 @@ blackest
 bossier
 bara
 brambled
-bendways
 berliners
 bereavement
 blameless
