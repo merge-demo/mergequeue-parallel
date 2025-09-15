@@ -4584,6 +4584,7 @@ aeonic
 accommodateness
 audible
 aphanapteryx
+astrocytoma
 aeonicaeonist
 aeonist
 aridly
@@ -13715,7 +13716,6 @@ anour
 altropathy
 asher
 anovesical
-astrocytoma
 aslake
 anoxemia
 altiplanicie
