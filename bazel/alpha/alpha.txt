@@ -12782,7 +12782,6 @@ anguillaria
 autochthony
 arabite
 abey
-affirmant
 anguilloid
 abcess
 antiegoism
@@ -18395,6 +18394,7 @@ arboraceous
 anticorset
 antelation
 arboral
+affirmant
 allotype
 averish
 aminity
