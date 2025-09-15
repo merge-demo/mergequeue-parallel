@@ -4693,6 +4693,7 @@ demystify
 demystification
 demon
 dismantle
+danker
 downtrends
 dishmaker
 dithyrambos
@@ -15582,7 +15583,6 @@ derve
 don
 dona
 dict
-danker
 donaciform
 donack
 daishiki
