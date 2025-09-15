@@ -9483,6 +9483,7 @@ bakairi
 byrthynsak
 basilyst
 bombycinous
+born
 bogier
 brisked
 brede
@@ -15510,7 +15511,6 @@ bristled
 belowstairs
 banlieue
 bushpig
-born
 bristlelike
 berycoidean
 blindfoldedness
