@@ -11774,7 +11774,6 @@ arboreta
 alcaligenes
 ail
 anaphases
-anaphe
 albumens
 astrometry
 ancille
@@ -23380,6 +23379,7 @@ augrim
 arguendo
 augurate
 anywhy
+anaphe
 augure
 augured
 anteroposteriorly
