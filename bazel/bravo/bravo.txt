@@ -4884,6 +4884,7 @@ bilobular
 blackwash
 beefier
 biased
+byes
 boose
 bequest
 beefiest
@@ -9536,7 +9537,6 @@ bloodstream
 bicircular
 biblist
 breeching
-byes
 bisantler
 bothridium
 boeotia
