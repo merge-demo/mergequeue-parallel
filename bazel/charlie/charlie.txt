@@ -16767,6 +16767,7 @@ cosuitor
 culla
 cora
 clothespins
+collectives
 clothespresses
 cire
 clothiers
@@ -20007,7 +20008,6 @@ comprint
 comital
 cabots
 comitatensian
-collectives
 coconsciously
 contriturate
 clayish
