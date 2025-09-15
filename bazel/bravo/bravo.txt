@@ -749,6 +749,7 @@ badgerlike
 bending
 burlaps
 befoul
+bettongia
 brewing
 bandsawing
 badges
@@ -13053,7 +13054,6 @@ bourasque
 borborygmatic
 biggin
 backboneless
-bettongia
 broomshank
 bacteriolysis
 bagataway
