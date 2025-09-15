@@ -2097,7 +2097,6 @@ ariste
 acholuric
 alguazil
 anourous
-assessionary
 achondritic
 archdevil
 achondroplasia
@@ -25368,6 +25367,7 @@ apyrous
 alveolated
 azovernine
 alkalizes
+assessionary
 anatomy
 agreations
 autopsychorhythmia
