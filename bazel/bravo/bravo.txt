@@ -5328,6 +5328,7 @@ bor
 blur
 bultell
 baidar
+beret
 breviers
 begnaw
 big
@@ -6598,7 +6599,6 @@ biurate
 barpost
 berycomorphi
 bemixes
-beret
 burlies
 berigora
 beryl
