@@ -1532,6 +1532,7 @@ accordion
 accordionists
 acheirus
 adamical
+archetypally
 albuminocholia
 autoportrait
 aconin
@@ -22293,7 +22294,6 @@ aragallus
 astrophel
 astrophil
 archaisms
-archetypally
 acrisia
 anteal
 assumptionist
