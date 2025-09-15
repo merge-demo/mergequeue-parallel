@@ -14495,6 +14495,7 @@ autocue
 antischolastically
 antiamusement
 aurichalcite
+arisaid
 ascertainment
 antianaphylaxis
 anakinetomer
@@ -19563,7 +19564,6 @@ antimonium
 aculeiform
 arising
 amidone
-arisaid
 alterius
 arisard
 arise
