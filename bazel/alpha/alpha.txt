@@ -3675,6 +3675,7 @@ asconia
 anchorwise
 ametabole
 actinautography
+alichel
 anguses
 adieu
 adight
@@ -11901,7 +11902,6 @@ architeuthis
 anastate
 anastatus
 anastigmat
-alichel
 aborning
 aspis
 angiosclerosis
