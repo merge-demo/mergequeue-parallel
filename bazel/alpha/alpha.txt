@@ -2920,6 +2920,7 @@ actinomeric
 aruncus
 amphinucleus
 anisated
+agnatha
 axseed
 actinometrical
 arthritical
@@ -5982,7 +5983,6 @@ aglucon
 anucleated
 agminated
 agnails
-agnatha
 agnathic
 alkes
 agnathostomata
