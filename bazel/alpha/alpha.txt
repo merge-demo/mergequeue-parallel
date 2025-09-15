@@ -14634,7 +14634,6 @@ anseres
 aguey
 anticatalyst
 anticatalytically
-abled
 apodous
 anticatarrhal
 afernan
@@ -23713,6 +23712,7 @@ airplays
 aphonic
 aphorising
 anthozoan
+abled
 antimonarchically
 arduinite
 augean
