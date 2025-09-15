@@ -7784,6 +7784,7 @@ biaxiality
 birdseyes
 baccalaureates
 beshrouds
+bugara
 brooklyn
 bazaars
 bicephalous
@@ -9290,7 +9291,6 @@ beany
 bawdry
 bilipyrrhin
 birational
-bugara
 bruting
 butterwright
 birched
