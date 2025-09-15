@@ -12151,7 +12151,6 @@ dialogism
 disallow
 dispeace
 dp
-deutoscolex
 dorbie
 diselenid
 detailedly
@@ -16639,6 +16638,7 @@ diacritics
 disbanding
 destinies
 dodecarchy
+deutoscolex
 dishallow
 doctorly
 draggletailed
