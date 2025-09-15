@@ -14410,7 +14410,6 @@ divan
 dewier
 decolouration
 dieselization
-doley
 divans
 dichromaticism
 debatably
@@ -17223,6 +17222,7 @@ divagations
 debentureholder
 dipodies
 dullish
+doley
 dematerialise
 dispensator
 drunkenness
