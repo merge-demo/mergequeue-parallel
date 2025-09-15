@@ -5638,7 +5638,6 @@ belderroot
 bongar
 beleapt
 belection
-belecture
 brutedom
 biers
 belemnitic
@@ -11324,6 +11323,7 @@ bucker
 blowlamp
 bananas
 blowoff
+belecture
 blowouts
 blowproof
 brats
