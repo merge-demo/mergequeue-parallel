@@ -5030,7 +5030,6 @@ casavi
 cascabel
 coestate
 cytocide
-cascable
 cascadable
 coupes
 crotaline
@@ -27987,6 +27986,7 @@ chalkosideric
 cinnamomic
 cancel
 coltish
+cascable
 comicotragic
 crayons
 concomitance
