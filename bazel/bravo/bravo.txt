@@ -3285,7 +3285,6 @@ blunderful
 blacklegism
 besoul
 basinets
-belcher
 bewhig
 braggest
 begartered
@@ -8081,6 +8080,7 @@ bid
 bidactylous
 beseam
 bkbndr
+belcher
 bobsleigh
 biddability
 biddably
