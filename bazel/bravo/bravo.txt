@@ -5040,7 +5040,6 @@ bastonet
 bawds
 bowfin
 biogeography
-bibracteolate
 bewith
 befeather
 bodger
@@ -9778,6 +9777,7 @@ beneplacito
 bandonion
 begin
 bongo
+bibracteolate
 bawd
 blain
 bicetyl

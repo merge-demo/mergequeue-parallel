@@ -12623,7 +12623,6 @@ chefrinia
 cognoscent
 chronophotography
 chronoscopically
-catechisation
 cyperaceous
 chronothermal
 chronotropic
@@ -19160,6 +19159,7 @@ convally
 colligate
 colligating
 cookbook
+catechisation
 commutual
 chidden
 colligative
