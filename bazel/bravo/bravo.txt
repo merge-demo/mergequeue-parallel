@@ -3141,7 +3141,6 @@ baseburner
 basecourt
 betokener
 baselessly
-biradiate
 bismarck
 beneficiating
 bloedite
@@ -7195,6 +7194,7 @@ boondock
 blubberous
 buxomest
 builders
+biradiate
 bathochromatic
 bimanual
 bedlamise

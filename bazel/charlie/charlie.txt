@@ -621,7 +621,6 @@ caesareans
 cardiopyloric
 campagnol
 connubialism
-cytitis
 caesarian
 caesarism
 caesarist
@@ -4099,6 +4098,7 @@ cardiologists
 cardiomegaly
 cyclus
 cardiomelanosis
+cytitis
 contradivide
 corvidae
 cardiometric
