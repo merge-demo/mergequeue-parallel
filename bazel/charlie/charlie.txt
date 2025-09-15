@@ -15166,7 +15166,6 @@ chubbily
 cladodontidae
 cladogenetic
 cladogenetically
-cladogenous
 corrigendum
 coracoacromial
 cerebromalacia
@@ -26055,6 +26054,7 @@ cosymmedian
 compurgator
 cosinage
 culverineer
+cladogenous
 cosiness
 cosins
 cosmetic
