@@ -18022,7 +18022,6 @@ clubwood
 circumvolving
 coelentera
 cornice
-cubicle
 colics
 cattlehide
 chacona
@@ -29134,6 +29133,7 @@ candystick
 candock
 cityless
 chanfron
+cubicle
 curavecan
 cryoscopic
 colauxe
