@@ -6408,6 +6408,7 @@ drung
 decenter
 disencumbered
 dismemberments
+doubleton
 draconitic
 debellation
 dextrocerebral
@@ -14460,7 +14461,6 @@ dachshunde
 dhoul
 deindividuate
 diversity
-doubleton
 datedness
 disgeneric
 dueness
