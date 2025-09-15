@@ -4053,7 +4053,6 @@ blockheadish
 bribing
 bedeafen
 brooked
-befetished
 beancod
 bater
 beanery
@@ -4838,6 +4837,7 @@ bloomage
 bigoted
 bomarea
 broadsiding
+befetished
 beechwood
 besprizorni
 bitripartite
