@@ -16464,6 +16464,7 @@ accuser
 ach
 athanasy
 agathodaemonic
+aporosa
 anadem
 alisanders
 apanthropia
@@ -17805,7 +17806,6 @@ anlia
 appressorial
 anticold
 anabathmos
-aporosa
 appressorium
 atherogenic
 aestethic
