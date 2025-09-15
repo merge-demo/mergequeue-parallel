@@ -4577,6 +4577,7 @@ carols
 carolus
 chemicocautery
 causeless
+cementite
 caroluses
 carom
 carombolette
@@ -16506,7 +16507,6 @@ clobber
 cleeking
 clobbered
 clobbers
-cementite
 cloche
 clochette
 clockbird
