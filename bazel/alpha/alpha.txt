@@ -11537,6 +11537,7 @@ arhythmically
 agelaus
 assuror
 anaemotropy
+allotropy
 astrometeorologist
 adages
 anaerobation
@@ -23412,7 +23413,6 @@ ascescent
 anthracitization
 auklets
 auksinai
-allotropy
 andalusite
 amidocapric
 arbusterol
