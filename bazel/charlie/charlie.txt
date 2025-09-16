@@ -11065,7 +11065,6 @@ coalize
 chitimacha
 chitimachan
 coappears
-chitins
 chitlin
 concentering
 compotator
@@ -19585,6 +19584,7 @@ cumberland
 churchliest
 coloury
 chondrosteoma
+chitins
 crystallike
 culch
 colourifics
