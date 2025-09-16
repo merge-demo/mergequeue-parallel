@@ -5994,6 +5994,7 @@ crowns
 cymbalists
 catling
 cairds
+cloudlike
 catlins
 craftsperson
 cryptoporticus
@@ -16800,7 +16801,6 @@ centimeter
 coeliorrhoea
 cloudlessness
 congregativeness
-cloudlike
 congiaries
 cloudology
 culiciform
