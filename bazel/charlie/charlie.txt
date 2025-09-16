@@ -4509,6 +4509,7 @@ conciliatingly
 capsule
 clapperdudgeon
 carnied
+chairmender
 carniferrin
 colorcast
 carnifex
@@ -8162,7 +8163,6 @@ chairmanship
 congrid
 chairmanships
 checkoff
-chairmender
 chairpersons
 crematoririums
 chairway
