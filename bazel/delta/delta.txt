@@ -7207,7 +7207,6 @@ decess
 deluged
 dempne
 duit
-desmid
 denshare
 dugongidae
 dermatologies
@@ -15223,6 +15222,7 @@ dogmatizer
 discotheques
 darkeners
 dowdiness
+desmid
 doctorship
 destinal
 dogrib
