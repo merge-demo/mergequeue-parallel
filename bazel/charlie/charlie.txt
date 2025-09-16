@@ -8776,7 +8776,6 @@ cirsium
 chints
 chapes
 clinicians
-chapin
 chapiter
 chloranaemia
 chapitral
@@ -20776,6 +20775,7 @@ complex
 cercocebus
 complexer
 cuinfo
+chapin
 chylify
 cyanopsia
 chelidonate
