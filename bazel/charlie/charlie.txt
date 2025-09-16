@@ -419,7 +419,6 @@ chain
 communications
 cactoid
 crocodilean
-clawer
 cactus
 civilisable
 chancered
@@ -15999,6 +15998,7 @@ comfrey
 cholanic
 clerihews
 clerisies
+clawer
 cosine
 certifiably
 coinventor
