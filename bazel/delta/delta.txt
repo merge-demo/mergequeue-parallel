@@ -12797,6 +12797,7 @@ doily
 disloyal
 decursive
 deliverance
+dronepipe
 dotardly
 drawfiling
 donative
@@ -17377,7 +17378,6 @@ ddname
 decrypts
 decree
 disrelated
-dronepipe
 devolvement
 dysgeogenous
 debar
