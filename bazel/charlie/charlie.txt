@@ -9105,6 +9105,7 @@ chylocaulous
 coagulin
 chloroplastid
 charruas
+calci
 charshaf
 charsingha
 curvacious
@@ -10681,7 +10682,6 @@ chimer
 chimeral
 chanteys
 chimeric
-calci
 cavies
 caribou
 cerites
