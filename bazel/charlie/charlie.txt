@@ -9315,6 +9315,7 @@ concussation
 civy
 carcoon
 cerris
+cystidean
 choreatic
 compendency
 custos
@@ -10625,7 +10626,6 @@ chills
 chillsome
 countermove
 chouka
-cystidean
 capernoitie
 chemolytic
 copaibas
