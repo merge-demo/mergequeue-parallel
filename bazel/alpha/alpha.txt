@@ -2189,7 +2189,6 @@ acider
 acidhead
 advisee
 azimech
-acidy
 acetamid
 amamau
 alisos
@@ -25321,6 +25320,7 @@ astrophobia
 azonaphthalene
 azons
 architraves
+acidy
 aeromechanics
 antisplitting
 antidotes
