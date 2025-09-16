@@ -10516,6 +10516,7 @@ amylose
 achree
 amyloses
 amylosynthesis
+almsgiver
 armamentary
 amiloun
 amylum
@@ -17950,7 +17951,6 @@ aptenodytes
 areolate
 alaskas
 apterial
-almsgiver
 arace
 apterygota
 arcanist
