@@ -15310,7 +15310,6 @@ beaveries
 boisseau
 bilharziasis
 besteaded
-bannerlike
 brighten
 brightish
 brightsmith
@@ -16922,6 +16921,7 @@ batrachoid
 biplanar
 bacteriotoxin
 bulbiest
+bannerlike
 buettneria
 bulblike
 biacetyl
