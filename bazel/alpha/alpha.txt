@@ -6762,7 +6762,6 @@ acrodromous
 airway
 aflutter
 airwayman
-airwards
 ays
 areography
 aview
@@ -24780,6 +24779,7 @@ avocet
 acheck
 avogadrite
 apolitical
+airwards
 avoidable
 aimfully
 avoidant
