@@ -18944,7 +18944,6 @@ chequy
 colymbus
 choroid
 chelodina
-chadars
 creches
 cabins
 chiefess
@@ -29604,6 +29603,7 @@ crocused
 captionless
 croissants
 chamecephalic
+chadars
 canalside
 conceptual
 casemate
