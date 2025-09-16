@@ -11093,6 +11093,7 @@ chloridation
 chitosans
 chitose
 chitrali
+circumrotatory
 caddis
 coccobacillus
 congressionalist
@@ -14358,7 +14359,6 @@ conamed
 caprificator
 circumrotate
 cuneonavicular
-circumrotatory
 circumsail
 cornflour
 connectivity
