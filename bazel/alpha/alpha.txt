@@ -7083,6 +7083,7 @@ alantin
 appertains
 aquabib
 alantolactone
+antityphoid
 assimilability
 appleroot
 alares
@@ -16150,7 +16151,6 @@ atmidometry
 argentous
 afflictive
 antitypal
-antityphoid
 amaroid
 antitypical
 acetometer
