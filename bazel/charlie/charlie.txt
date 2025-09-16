@@ -7298,6 +7298,7 @@ corrigenda
 cepes
 civ
 conchitis
+coarrange
 clincher
 commercer
 constitution
@@ -24338,7 +24339,6 @@ chuckram
 crull
 confucianist
 corncutting
-coarrange
 cookeite
 cookeries
 cookhouse
