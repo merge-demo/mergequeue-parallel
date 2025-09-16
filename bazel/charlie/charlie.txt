@@ -311,7 +311,6 @@ commitments
 caninity
 cacodaemoniac
 cannisters
-chartography
 cacodaemonial
 chiromys
 coner
@@ -13576,6 +13575,7 @@ compensation
 cedarn
 colleries
 centricality
+chartography
 caxon
 cymballed
 cymballing
