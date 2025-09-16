@@ -280,7 +280,6 @@ bacillarieae
 beroe
 barlock
 betterer
-bacilli
 bedsprings
 bacillian
 beflower
@@ -3437,6 +3436,7 @@ bastings
 blendure
 badgerly
 bastions
+bacilli
 barabbas
 biorgan
 bivoltine

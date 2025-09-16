@@ -4481,7 +4481,6 @@ aedicule
 aedile
 analogise
 adject
-aediles
 airbursts
 anthropomorphitism
 adjutator
@@ -24329,6 +24328,7 @@ antialexin
 agoraphobia
 ankylomele
 arksutite
+aediles
 acetylcholinic
 autoscope
 autoscopic
