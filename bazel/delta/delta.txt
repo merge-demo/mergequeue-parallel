@@ -1938,7 +1938,6 @@ dawsonite
 deaccession
 darat
 dissatisfyingly
-daedalian
 doodles
 debs
 diatonical
@@ -15442,6 +15441,7 @@ dispaint
 domainal
 dummel
 domains
+daedalian
 dativogerundial
 dispersoid
 dissimilatory
