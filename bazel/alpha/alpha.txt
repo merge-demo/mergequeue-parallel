@@ -1671,6 +1671,7 @@ acier
 alcyoniform
 aeron
 aminophenol
+apolunes
 accuracies
 ada
 adventry
@@ -17097,7 +17098,6 @@ asseour
 araneiform
 anaerobian
 acquirement
-apolunes
 apolusis
 asiderite
 amoebiasis
