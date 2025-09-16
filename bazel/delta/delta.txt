@@ -1268,6 +1268,7 @@ discovert
 doum
 datiscosid
 datisi
+declaim
 dative
 dorking
 datively
@@ -7391,7 +7392,6 @@ dollbeer
 duecentos
 doctrinist
 deterrence
-declaim
 duogravure
 dropkicker
 deterrent
