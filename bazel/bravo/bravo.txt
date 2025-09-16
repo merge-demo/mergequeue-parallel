@@ -6549,7 +6549,6 @@ berenice
 bereshith
 beresite
 brangler
-berets
 befitted
 brookweed
 balancers
@@ -7481,6 +7480,7 @@ booked
 bevomits
 bread
 binge
+berets
 bunchiest
 bewailers
 biding
