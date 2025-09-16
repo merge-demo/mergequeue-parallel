@@ -14993,6 +14993,7 @@ augury
 antiepiscopal
 arigue
 appetising
+antimesia
 antierysipelas
 antierosion
 asterina
@@ -15320,7 +15321,6 @@ antimere
 antimerging
 antimerina
 antimerism
-antimesia
 archetypically
 antimetathetic
 areca
