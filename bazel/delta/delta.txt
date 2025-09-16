@@ -5949,7 +5949,6 @@ dispossessed
 disentraced
 defeatee
 depreter
-depriment
 dagged
 deprivable
 dissuasory
@@ -17678,6 +17677,7 @@ dtente
 divestiture
 diplacuses
 dysphotic
+depriment
 diplohedral
 draftee
 dreamed
