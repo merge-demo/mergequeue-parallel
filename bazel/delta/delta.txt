@@ -2843,7 +2843,6 @@ dugdug
 danais
 diphthongising
 daedalist
-driftless
 devotions
 drail
 drepanis
@@ -3785,6 +3784,7 @@ dreamsiness
 disunities
 deigned
 distrainable
+driftless
 dinocerata
 depositors
 deliveryman
