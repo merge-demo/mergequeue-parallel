@@ -12242,7 +12242,6 @@ cupbearers
 chrysome
 chrysomyia
 championships
-chrysopa
 chrysopal
 clistothecia
 chrysopee
@@ -18426,6 +18425,7 @@ cogitabundous
 creamcups
 cogitant
 cogitates
+chrysopa
 cogitation
 cogitativity
 cogitator
