@@ -7542,7 +7542,6 @@ alcoate
 autodiagnosis
 antepyretic
 ambigenous
-anthoxanthum
 alcoholist
 aeneous
 absistos
@@ -15597,6 +15596,7 @@ aurinasal
 antipatriot
 abkary
 antipatriotism
+anthoxanthum
 athyreosis
 actipylea
 apodeme
