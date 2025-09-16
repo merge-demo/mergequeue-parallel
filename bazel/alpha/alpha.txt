@@ -12060,7 +12060,6 @@ amblypoda
 arteriosympathectomy
 ancientest
 anciently
-anticks
 antireducer
 asimen
 ancylopod
@@ -21083,6 +21082,7 @@ anxiety
 anticoagulator
 annulli
 authenticalness
+anticks
 amidoxime
 ashimmer
 apostacy
