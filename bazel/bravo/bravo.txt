@@ -3388,7 +3388,6 @@ bassetting
 bufferrer
 bassia
 bassie
-betsey
 beacher
 bassinet
 bimotors
@@ -6222,6 +6221,7 @@ beys
 basketballs
 burghs
 bosomer
+betsey
 burelage
 burying
 benthamism
