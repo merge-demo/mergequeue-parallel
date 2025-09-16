@@ -3030,6 +3030,7 @@ centauri
 confronts
 cantraips
 cantraps
+codex
 chares
 curlyheads
 capitonidae
@@ -17507,7 +17508,6 @@ clepsydras
 chokeweed
 cobbling
 cobbs
-codex
 compressometer
 carabins
 calixtin
