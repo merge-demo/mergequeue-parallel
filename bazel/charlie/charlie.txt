@@ -4846,6 +4846,7 @@ carrotins
 carrotweed
 ciseleurs
 corporation
+clerkship
 canonization
 clomben
 carrotwood
@@ -16013,7 +16014,6 @@ cerecloths
 clerkliness
 chlorocarbon
 cervicobuccal
-clerkship
 clerkships
 comrado
 clernly
