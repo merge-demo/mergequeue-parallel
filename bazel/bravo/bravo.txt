@@ -12965,7 +12965,6 @@ berri
 bouchon
 betulaceae
 bushelage
-burleys
 basilisks
 bikhaconitine
 bibliokelpt
@@ -16458,6 +16457,7 @@ brewed
 bechern
 blockheadism
 bruzz
+burleys
 banal
 becurse
 bedsit
