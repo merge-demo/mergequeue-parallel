@@ -2735,6 +2735,7 @@ daun
 dryopithecid
 draughtiness
 dian
+delvers
 desulphur
 dryopithecus
 deiform
@@ -3452,7 +3453,6 @@ droughermen
 disknow
 dastur
 desalt
-delvers
 dolichocephalism
 deformable
 darkey
