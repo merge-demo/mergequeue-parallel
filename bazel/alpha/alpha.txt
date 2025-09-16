@@ -5103,7 +5103,6 @@ aspartyl
 affiches
 affidation
 antihemorrhagic
-alcoranist
 ais
 almond
 affidavy
@@ -10672,6 +10671,7 @@ aljofaina
 altricial
 analogicalness
 alzheimer
+alcoranist
 ammo
 amberjack
 amphibological
