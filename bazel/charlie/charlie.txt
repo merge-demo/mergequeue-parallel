@@ -15214,6 +15214,7 @@ clayiness
 capsuler
 commendably
 claimant
+caplock
 claimants
 congeals
 chartulae
@@ -27025,7 +27026,6 @@ contratulations
 conceptualization
 counterproposal
 cycads
-caplock
 croupily
 clerking
 counterprotection
