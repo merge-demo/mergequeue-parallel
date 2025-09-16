@@ -13092,7 +13092,6 @@ anisochromatic
 aculeated
 antiphilosophical
 achaemenian
-anisocytosis
 akhoond
 acanthopteran
 aval
@@ -14669,6 +14668,7 @@ ascomycetes
 abnormalise
 antichrists
 abearance
+anisocytosis
 amphichrome
 alegars
 appendence
