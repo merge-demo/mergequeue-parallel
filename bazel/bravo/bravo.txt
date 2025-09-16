@@ -8215,7 +8215,6 @@ bardling
 bolomen
 bad
 bekilted
-bifurcation
 benzophenone
 basketry
 bigae
@@ -11895,6 +11894,7 @@ beylik
 bouillons
 boedromion
 bovovaccine
+bifurcation
 ballottine
 brevirostrate
 befouled
