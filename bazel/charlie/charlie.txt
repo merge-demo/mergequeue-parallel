@@ -2098,7 +2098,6 @@ coniopterygidae
 channeler
 campers
 coadjacence
-campesinos
 campfight
 campground
 consarcinate
@@ -25323,6 +25322,7 @@ concessioner
 cornell
 corneosclerotic
 cirsectomy
+campesinos
 cheer
 cambogias
 cuculi

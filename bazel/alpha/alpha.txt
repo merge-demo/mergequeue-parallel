@@ -5642,7 +5642,6 @@ abdominocardiac
 amphicarpogenous
 agatelike
 agathist
-articulators
 airdrome
 agatiferous
 auxetics
@@ -10073,6 +10072,7 @@ antiradiation
 ambuscader
 ankara
 ambuscades
+articulators
 acetylacetonates
 astrachan
 antiscripturism
