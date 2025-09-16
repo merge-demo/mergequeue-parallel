@@ -4587,6 +4587,7 @@ caroluses
 carom
 carombolette
 caromel
+chromic
 caroming
 centriscid
 cutout
@@ -24785,7 +24786,6 @@ cimcumvention
 casketlike
 clausum
 costers
-chromic
 courtney
 coquetry
 chiggerweed
