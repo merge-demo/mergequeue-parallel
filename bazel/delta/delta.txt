@@ -1754,6 +1754,7 @@ devocalization
 drof
 deathward
 ductility
+dolldom
 docent
 diminuting
 downlier
@@ -8741,7 +8742,6 @@ dispensatrix
 deglutinate
 diathesis
 demean
-dolldom
 deliquesces
 danke
 dirl
