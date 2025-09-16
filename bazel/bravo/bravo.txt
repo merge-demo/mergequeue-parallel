@@ -2574,7 +2574,6 @@ boringness
 beingless
 baris
 bodefulness
-bearleap
 burweed
 biplicate
 bromating
@@ -16907,6 +16906,7 @@ branchiobdella
 bicapsular
 boaedon
 bustic
+bearleap
 bitthead
 bulb
 bartizans
