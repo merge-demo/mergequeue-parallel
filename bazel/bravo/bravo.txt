@@ -1289,7 +1289,6 @@ barleys
 bottomer
 bruke
 bucketsful
-balances
 balaenidae
 bobbies
 blatch
@@ -4565,6 +4564,7 @@ bryophyte
 branchial
 brachelytrous
 bedstand
+balances
 bedcovers
 blader
 bouts
