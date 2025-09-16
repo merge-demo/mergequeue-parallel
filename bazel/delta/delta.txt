@@ -1027,7 +1027,6 @@ draffsack
 distains
 darkmans
 disannexation
-dedifferentiating
 desuete
 dineutron
 dicolon
@@ -1361,6 +1360,7 @@ decurionate
 duodecillion
 denierage
 diatomin
+dedifferentiating
 doyennes
 derry
 demodulator
