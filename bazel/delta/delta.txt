@@ -12733,6 +12733,7 @@ dendric
 dystomic
 dimorphous
 disli
+dec
 dacoits
 dross
 dicotyles
@@ -16790,7 +16791,6 @@ dramme
 discurrent
 definers
 dottler
-dec
 dioecious
 distributedly
 drypoint
