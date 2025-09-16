@@ -12840,6 +12840,7 @@ boomslange
 busuuti
 buccula
 balers
+blastulae
 bacterins
 becrawled
 brushoff
@@ -17112,7 +17113,6 @@ bhara
 brachialgia
 beduins
 baldricked
-blastulae
 bromization
 brisque
 bullpoll
