@@ -8543,6 +8543,7 @@ allelism
 almes
 allelomorphic
 allelotropic
+anatomization
 aquamanilia
 attendantly
 aldehydase
@@ -11943,7 +11944,6 @@ arterioverter
 acedia
 arteriofibrosis
 anatomiser
-anatomization
 anatomize
 anatomized
 anatomizer
