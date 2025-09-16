@@ -9417,6 +9417,7 @@ acierating
 ascomycete
 altheine
 amylophosphate
+armatoles
 althing
 althionic
 apholates
@@ -25310,7 +25311,6 @@ authority
 amontillados
 azohumic
 azoic
-armatoles
 appellancy
 azoles
 azon
