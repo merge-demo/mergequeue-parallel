@@ -1833,6 +1833,7 @@ bandaging
 bilamellated
 bowlin
 benedictionale
+bigonial
 bathoses
 blotchiness
 bandaid
@@ -8340,7 +8341,6 @@ bignoniaceous
 bygo
 bygone
 bist
-bigonial
 bigots
 bemeans
 bombyxes
