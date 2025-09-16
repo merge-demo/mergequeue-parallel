@@ -1110,6 +1110,7 @@ aphyllies
 amatrice
 automat
 adenectomy
+aphanomyces
 asymptotic
 abutilon
 abbassi
@@ -18093,7 +18094,6 @@ anthraphenone
 ampelis
 athericerous
 allhallow
-aphanomyces
 aquifer
 avanturine
 actifier
