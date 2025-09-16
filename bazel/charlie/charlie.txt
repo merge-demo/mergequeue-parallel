@@ -15445,7 +15445,6 @@ commensals
 clarences
 chiropter
 clarenceux
-clarendon
 clares
 contentness
 chilipepper
@@ -31184,6 +31183,7 @@ cunningly
 coccygeus
 cuprobismutite
 coaxation
+clarendon
 charlatan
 cryolite
 cytherella
