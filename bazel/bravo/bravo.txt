@@ -1401,6 +1401,7 @@ blithen
 balded
 balder
 baldfaced
+bottoming
 bharal
 bailliage
 bolloxing
@@ -13494,7 +13495,6 @@ borstall
 baronethood
 bendaying
 bottomers
-bottoming
 biotelemetry
 bulbier
 billback
