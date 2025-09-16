@@ -4349,6 +4349,7 @@ calandridae
 clothlike
 coheartedness
 cusec
+chloroplast
 concrew
 cynara
 collects
@@ -11384,7 +11385,6 @@ changelessly
 chlorophora
 cameralist
 chloropicrin
-chloroplast
 chloroplastic
 chloroplasts
 coenamorment
