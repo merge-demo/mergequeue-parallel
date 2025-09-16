@@ -10703,7 +10703,6 @@ buffle
 bemix
 benton
 balanophora
-bedrocks
 blenching
 bengali
 blend
@@ -15198,6 +15197,7 @@ balkier
 bestrewed
 blitzes
 bridesmaids
+bedrocks
 blunges
 baybolt
 bridestake
