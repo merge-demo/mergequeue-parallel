@@ -1398,6 +1398,7 @@ bribable
 baldachino
 bootle
 bowers
+bodywise
 belander
 besneer
 bynin
@@ -4153,7 +4154,6 @@ barkening
 brawled
 beknot
 beastlike
-bodywise
 bolstering
 buoyantness
 brinsell
