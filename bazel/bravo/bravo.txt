@@ -3943,7 +3943,6 @@ bafflement
 barbeiro
 beaminess
 brocatel
-bastardizations
 beachcombers
 beachdrops
 baizas
@@ -13328,6 +13327,7 @@ bacteriologically
 bazaar
 bradykinesis
 bhavan
+bastardizations
 bivaulted
 banzais
 botanically
