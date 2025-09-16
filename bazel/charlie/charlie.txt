@@ -6619,7 +6619,6 @@ chard
 criminously
 cursorial
 ceibo
-celliform
 counterthrust
 clamoring
 celestine
@@ -16462,6 +16461,7 @@ cloaca
 cloacae
 cents
 connellite
+celliform
 cholonan
 ceruminous
 cowage
