@@ -3248,7 +3248,6 @@ antiagglutinating
 allotransplant
 areoles
 autopelagic
-aglobulia
 adarbitrium
 abruptio
 abridgeable
@@ -24470,6 +24469,7 @@ auxetic
 aghorapanthi
 anywhereness
 auxiliary
+aglobulia
 armsize
 abhor
 aerophile
