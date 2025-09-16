@@ -7112,6 +7112,7 @@ alarodian
 alarum
 alarumed
 alaruming
+arugola
 alarums
 aliquots
 anematize
@@ -19902,7 +19903,6 @@ armures
 acutilinguae
 affright
 achromatinic
-arugola
 ammonified
 arnaut
 arnberry
