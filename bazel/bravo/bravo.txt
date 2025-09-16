@@ -7336,7 +7336,6 @@ bottlehead
 boomdas
 busky
 blankard
-botryose
 buhlwork
 barrace
 beton
@@ -10468,6 +10467,7 @@ bridgetree
 blarny
 begs
 blowth
+botryose
 blueweed
 blarnid
 bhutan
