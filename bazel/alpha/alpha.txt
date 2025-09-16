@@ -2408,7 +2408,6 @@ anteceded
 acanthopore
 abaisance
 apogean
-actorship
 attemperance
 acolyctine
 ascidiferous
@@ -22281,6 +22280,7 @@ astronomer
 arider
 astronomy
 aeschynomene
+actorship
 aphototropism
 astronomical
 ajenjo
