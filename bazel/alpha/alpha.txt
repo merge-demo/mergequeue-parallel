@@ -8009,7 +8009,6 @@ algonquin
 algophagous
 algophilia
 agly
-arnusian
 algophilist
 algophobia
 albuminometer
@@ -22842,6 +22841,7 @@ atropal
 atrophy
 atrophia
 aggrievement
+arnusian
 azoisobutyronitrile
 aceraceae
 acetated
