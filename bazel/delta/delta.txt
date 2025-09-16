@@ -8506,6 +8506,7 @@ deripia
 dissociably
 dybbukim
 diandria
+disbase
 discographer
 dichromatism
 divider
@@ -15742,7 +15743,6 @@ deist
 decontrolled
 doorstop
 devotionality
-disbase
 dephlogisticated
 decolorant
 desensitizer
