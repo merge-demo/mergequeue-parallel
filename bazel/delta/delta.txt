@@ -10830,6 +10830,7 @@ dependent
 dotterel
 diptychs
 disdainfulness
+decussating
 differencing
 dipware
 diver
@@ -15704,7 +15705,6 @@ digor
 doomsayer
 doomsday
 dacryocystotome
-decussating
 doomster
 dapson
 dismissed
