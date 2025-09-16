@@ -7798,6 +7798,7 @@ anticombination
 appliers
 aldehydrol
 anoplotherium
+anthoclinium
 alawi
 algebraical
 anthonin
@@ -21502,7 +21503,6 @@ asquint
 anallagmatis
 asramas
 accompanied
-anthoclinium
 acheilous
 assagai
 attenuate
