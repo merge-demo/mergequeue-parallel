@@ -2770,7 +2770,6 @@ baroneting
 bolivar
 bitonal
 baronetize
-ballistocardiographic
 benzeneazobenzene
 brachyurous
 backbencher
@@ -4460,6 +4459,7 @@ bacchanalias
 bidi
 biogenous
 benzomorpholine
+ballistocardiographic
 borocalcite
 brutifies
 bhakti
