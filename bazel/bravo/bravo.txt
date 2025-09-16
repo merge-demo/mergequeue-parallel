@@ -7602,7 +7602,6 @@ broddle
 beeches
 brassiness
 breakwind
-bargain
 bezants
 bezazzes
 beeball
@@ -12876,6 +12875,7 @@ bilders
 brachyural
 breastwise
 boong
+bargain
 bearwood
 bourignonist
 bachelorette
