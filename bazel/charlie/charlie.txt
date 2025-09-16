@@ -2393,6 +2393,7 @@ cancellus
 categorized
 cancelment
 cessment
+cleric
 containerize
 chimneys
 cancer
@@ -27279,7 +27280,6 @@ couple
 couplement
 coupler
 carling
-cleric
 couplings
 chelifer
 cattiness
