@@ -7054,7 +7054,6 @@ audiogenic
 amarna
 antiwhite
 alamodality
-alamode
 alamodes
 aneroid
 alexandrines
@@ -8355,6 +8354,7 @@ alkanethiol
 ausforming
 autolithographic
 alkanets
+alamode
 antecedents
 aspidospermine
 amebocyte
