@@ -2439,7 +2439,6 @@ decimolar
 drainpipe
 dangling
 disimprisonment
-dissipable
 dietetist
 dolently
 designs
@@ -4051,6 +4050,7 @@ denier
 darknesses
 dismissible
 delicatessen
+dissipable
 dynam
 deface
 dhava
