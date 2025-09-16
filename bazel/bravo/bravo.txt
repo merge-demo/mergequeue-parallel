@@ -18,6 +18,7 @@ boons
 bureaucratist
 brachial
 bionergy
+balancement
 babbitted
 beneceptive
 bespeech
@@ -11172,7 +11173,6 @@ bespit
 bloodshedder
 balsamina
 brachypnea
-balancement
 butylation
 bloodstreams
 beparch
