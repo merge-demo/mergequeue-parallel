@@ -6444,7 +6444,6 @@ catalogues
 cavicornia
 cavie
 cercarian
-citrinous
 conversely
 caviya
 cavyyard
@@ -13501,6 +13500,7 @@ cylindrelloid
 cryptographic
 cylindrenchyma
 cylindricity
+citrinous
 cylindricule
 cylindriform
 calpack
