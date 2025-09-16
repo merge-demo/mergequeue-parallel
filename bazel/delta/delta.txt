@@ -2529,6 +2529,7 @@ declassification
 diaplasis
 declassifies
 diplophonic
+diarrhetic
 discus
 dorsocephalic
 declensionally
@@ -16587,7 +16588,6 @@ dictated
 dethroning
 delative
 draftiest
-diarrhetic
 decollation
 decorticating
 dodderer
