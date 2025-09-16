@@ -6350,6 +6350,7 @@ dermogastric
 desperance
 dorsoapical
 dean
+disattune
 dermoidectomy
 dgag
 dermoneural
@@ -11199,7 +11200,6 @@ deplaceable
 donating
 diols
 disattaint
-disattune
 diplomacy
 disavail
 dayroom
