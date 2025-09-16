@@ -359,7 +359,6 @@ bistetrazole
 bradoons
 blastplate
 bacteroideae
-bathychrome
 backdrop
 bonassus
 blew
@@ -16486,6 +16485,7 @@ buaze
 bourreau
 bubales
 busings
+bathychrome
 beefish
 bubals
 bullweed
