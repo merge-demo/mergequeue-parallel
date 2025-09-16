@@ -11317,7 +11317,6 @@ bucker
 blowlamp
 bananas
 blowoff
-belecture
 blowouts
 blowproof
 brats
@@ -18055,6 +18054,7 @@ brazilins
 briguer
 but
 bladeless
+belecture
 beroll
 booklet
 burkite
