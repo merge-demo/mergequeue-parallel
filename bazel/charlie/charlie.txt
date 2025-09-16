@@ -26125,7 +26125,6 @@ charcutiers
 cosmopolitanising
 centurions
 cosmopolitanism
-carnivorous
 cosmopolitanization
 cosmopolitanized
 cosmopolitans
@@ -26908,6 +26907,7 @@ coffeegrowing
 catalogue
 columbotitanate
 colorable
+carnivorous
 chevaux
 cobstone
 commorient
