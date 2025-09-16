@@ -5496,7 +5496,6 @@ agag
 ashkenazic
 amygdale
 awhape
-andabatarian
 aeschylean
 ascensive
 again
@@ -11166,6 +11165,7 @@ apostolicism
 avidious
 amphiprostylar
 antiusurious
+andabatarian
 amdahl
 amidoazobenzene
 aminoformic

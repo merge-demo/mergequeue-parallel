@@ -1264,7 +1264,6 @@ brittlebush
 bittersweetness
 browbeats
 buxbaumia
-baldachined
 brownout
 beeswaxes
 blackshirt
@@ -14839,6 +14838,7 @@ breakfasted
 bastard
 breakfronts
 butlerage
+baldachined
 breaking
 benchmen
 busera
