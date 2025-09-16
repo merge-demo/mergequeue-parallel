@@ -215,7 +215,6 @@ bloodwood
 bolivian
 burrer
 bushrope
-bacchic
 buckskins
 bemoanable
 bloodmobile
@@ -643,6 +642,7 @@ butting
 bellwethers
 borele
 butchering
+bacchic
 boozed
 bels
 bankruptism
