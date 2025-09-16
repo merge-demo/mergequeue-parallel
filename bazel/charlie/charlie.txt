@@ -6148,6 +6148,7 @@ caudebeck
 caudex
 cassolette
 condoned
+climactery
 concise
 caudle
 caudles
@@ -21350,7 +21351,6 @@ conchae
 conchal
 chelidon
 conchate
-climactery
 chemigrapher
 coruscated
 cunonia
