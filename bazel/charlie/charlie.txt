@@ -3112,7 +3112,6 @@ capataces
 capcase
 celotomy
 cabotage
-connexion
 cape
 chequerboard
 capeadores
@@ -13882,6 +13881,7 @@ cingula
 chazzan
 chorei
 chronogenetic
+connexion
 cheapie
 contiguously
 carina
