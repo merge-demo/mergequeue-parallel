@@ -6534,6 +6534,7 @@ blotter
 bluff
 broquineer
 betons
+bartsia
 bannerer
 butterbox
 beetlers
@@ -12085,7 +12086,6 @@ bokhara
 beanfield
 bola
 bosey
-bartsia
 boltless
 biglenoid
 believers
