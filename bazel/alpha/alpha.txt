@@ -16833,7 +16833,6 @@ aplacentaria
 aplacophorous
 anton
 amethystine
-affectedness
 apeak
 angliae
 anchoic
@@ -20985,6 +20984,7 @@ ascriptions
 amphodarch
 airparks
 anacoluthic
+affectedness
 abuttal
 ascriptitious
 ascriptitius
