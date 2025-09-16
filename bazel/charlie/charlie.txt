@@ -19152,6 +19152,7 @@ callable
 colliflower
 convally
 colligate
+cruelty
 colligating
 cookbook
 catechisation
@@ -23499,7 +23500,6 @@ coacted
 contempts
 contemptuous
 contemptuously
-cruelty
 cantling
 cholecystocolotomy
 compassless
