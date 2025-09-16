@@ -2817,7 +2817,6 @@ acrostolium
 accoucheur
 anthropodus
 antiliberalist
-acroteleutic
 acception
 anthroropolith
 ahoy
@@ -24833,6 +24832,7 @@ avow
 abashment
 aveny
 aortomalaxis
+acroteleutic
 avowably
 avowals
 archrebel
