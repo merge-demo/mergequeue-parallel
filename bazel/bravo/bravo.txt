@@ -4081,7 +4081,6 @@ bestiaries
 broadax
 basinet
 belozenged
-boondoggles
 bearbaiter
 bedmaking
 betoil
@@ -11401,6 +11400,7 @@ bowlderhead
 berycoidei
 bruno
 bluecurls
+boondoggles
 browbands
 blued
 bottlenest
