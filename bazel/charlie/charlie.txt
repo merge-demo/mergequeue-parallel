@@ -10897,6 +10897,7 @@ creeper
 cardstock
 contortioned
 chiralgia
+clyer
 christocentric
 contiguousness
 chirapsia
@@ -17894,7 +17895,6 @@ coderived
 coders
 chromoprotein
 consumption
-clyer
 cutigeral
 cononintelligent
 catchup
