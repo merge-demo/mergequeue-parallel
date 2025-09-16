@@ -2273,7 +2273,6 @@ durax
 dyewoods
 disburden
 decemfoliate
-detumescence
 dogmas
 demotion
 dissocialize
@@ -15716,6 +15715,7 @@ dooring
 doorless
 dismail
 decolorised
+detumescence
 dietist
 doormats
 digitorium
