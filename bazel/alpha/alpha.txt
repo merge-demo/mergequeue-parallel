@@ -1324,6 +1324,7 @@ accelerative
 adiaphanousness
 acephalite
 azote
+actinopoda
 aqueducts
 accelerators
 accelerometer
@@ -14781,7 +14782,6 @@ airstrip
 anticommerciality
 anachronic
 antimagnetic
-actinopoda
 anticommunistical
 aphthongia
 antimetropic
