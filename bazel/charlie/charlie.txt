@@ -3000,6 +3000,7 @@ concent
 cantlet
 cantline
 chromophore
+churner
 canto
 confederatism
 cortege
@@ -23907,7 +23908,6 @@ controling
 controllable
 controllably
 controller
-churner
 castigations
 controlless
 conin
