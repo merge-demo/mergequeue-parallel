@@ -2276,6 +2276,7 @@ carthaginian
 canaler
 chapteral
 chimeres
+crotonbug
 caprone
 chylocyst
 cipher
@@ -16932,7 +16933,6 @@ clubwomen
 corybantine
 cluck
 cyclas
-crotonbug
 clawers
 chinches
 cypselae
