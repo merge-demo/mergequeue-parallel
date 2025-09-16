@@ -6724,6 +6724,7 @@ berthas
 bulkages
 bibliotaphic
 balustrades
+bid
 batten
 berthed
 birdeye
@@ -8062,7 +8063,6 @@ bailments
 bicuspid
 bonging
 bulk
-bid
 bidactylous
 beseam
 bkbndr
