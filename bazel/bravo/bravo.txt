@@ -1311,7 +1311,6 @@ bardie
 balanceable
 brewst
 bafflements
-bilocellate
 bishopweed
 buckskinned
 baryonic
@@ -13480,6 +13479,7 @@ bought
 bottleman
 benzin
 bonderman
+bilocellate
 bepun
 blizzardous
 beastlings
