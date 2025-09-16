@@ -4078,6 +4078,7 @@ cardinally
 citriculturist
 cardinalship
 cardioarterial
+chequerwork
 cardiocarpum
 cephalothorax
 cunningaire
@@ -9998,7 +9999,6 @@ citations
 chequered
 chequers
 creosoted
-chequerwork
 chequin
 cherchez
 chercock
