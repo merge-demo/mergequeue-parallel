@@ -4554,6 +4554,7 @@ disembody
 demidistance
 diaphane
 demifarthing
+demissness
 diabetogenic
 deputies
 discircumspection
@@ -11765,7 +11766,6 @@ discradle
 dockhands
 dyscrasic
 dunnages
-demissness
 dimane
 dopamelanin
 dhooly
