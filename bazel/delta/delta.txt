@@ -3138,6 +3138,7 @@ dandiest
 defectoscope
 dorsers
 dulciana
+deflagrable
 defectum
 dummkopf
 dasyures
@@ -3301,7 +3302,6 @@ doles
 dsect
 defis
 deafness
-deflagrable
 dialling
 decolor
 dark
