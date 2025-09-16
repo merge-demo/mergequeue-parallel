@@ -3451,6 +3451,7 @@ capsomers
 capstan
 capstone
 capsula
+compage
 cons
 capsulation
 collegatary
@@ -20488,7 +20489,6 @@ compadre
 curstfully
 conjurison
 compadres
-compage
 compagnies
 cresols
 condonative
