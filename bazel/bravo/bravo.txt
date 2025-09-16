@@ -12001,6 +12001,7 @@ beboss
 bohora
 beath
 brucine
+brumby
 bombarded
 bandie
 bohunk
@@ -17307,7 +17308,6 @@ bunger
 begrudging
 breadearning
 bunghole
-brumby
 biathlons
 bemourn
 baul
