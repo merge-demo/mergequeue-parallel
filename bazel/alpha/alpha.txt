@@ -12701,6 +12701,7 @@ anticatalytic
 apolysin
 anthelices
 anatabine
+averroism
 annalize
 amarant
 allineate
@@ -14758,7 +14759,6 @@ anticlinoria
 amphigouri
 alkenes
 anticlogging
-averroism
 anticoagulant
 anticoagulation
 anamniata
