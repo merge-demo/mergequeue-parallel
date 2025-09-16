@@ -5062,7 +5062,6 @@ denaturalising
 dueller
 denaturing
 denaturalizing
-deduct
 disfigures
 dextrogyrate
 denaturization
@@ -11549,6 +11548,7 @@ discombobulate
 disuniform
 denominator
 daps
+deduct
 dissectional
 disconformity
 demiparallel
