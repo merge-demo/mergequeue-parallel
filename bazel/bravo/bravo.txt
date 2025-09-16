@@ -5473,7 +5473,6 @@ backiebird
 basting
 bloodwort
 behoves
-boschvark
 babbitts
 behowled
 brouze
@@ -8886,6 +8885,7 @@ blabber
 bowstave
 bittering
 bussed
+boschvark
 bioclimatologically
 bouchons
 bowser
