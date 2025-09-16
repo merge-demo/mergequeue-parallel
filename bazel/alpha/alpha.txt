@@ -11569,7 +11569,6 @@ amos
 appraisal
 anagyrine
 anagyris
-anaglyph
 annulism
 anaglyphs
 anaglypta
@@ -24251,6 +24250,7 @@ acetous
 appendency
 autopolyploid
 academically
+anaglyph
 autopolyploidy
 artisanship
 autopolo
