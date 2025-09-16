@@ -2573,7 +2573,6 @@ banzai
 babbitter
 boringness
 beingless
-baris
 bodefulness
 burweed
 biplicate
@@ -16835,6 +16834,7 @@ brassbound
 beneficiate
 bugeyes
 bonducs
+baris
 bilbos
 bespurred
 buggered
