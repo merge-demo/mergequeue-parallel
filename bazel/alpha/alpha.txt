@@ -2368,6 +2368,7 @@ acme
 acmispon
 affettuosos
 alewhap
+anorthography
 alias
 acquiring
 automated
@@ -10578,7 +10579,6 @@ abut
 aminopyrine
 arachne
 adulterants
-anorthography
 aeroacoustic
 aminopurine
 allotriomorphic

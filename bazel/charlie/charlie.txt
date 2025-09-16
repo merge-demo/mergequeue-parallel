@@ -12719,7 +12719,6 @@ charnels
 chueta
 compellation
 chufas
-cestrum
 cinenchymatous
 ceratomania
 crinite
@@ -18585,6 +18584,7 @@ collat
 conjunct
 cohibit
 cohibition
+cestrum
 cohibitor
 cohitre
 cooptate
