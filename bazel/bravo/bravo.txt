@@ -2904,6 +2904,7 @@ barreleyes
 bookend
 batuque
 botanical
+bethumped
 beaconed
 bebuttoned
 beglew
@@ -9409,7 +9410,6 @@ backgrounds
 bezils
 beneficially
 besugar
-bethumped
 bulimiac
 bivascular
 baccheion
