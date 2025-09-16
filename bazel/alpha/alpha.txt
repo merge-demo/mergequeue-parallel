@@ -4936,7 +4936,6 @@ amparo
 arenga
 autosepticemia
 abbreviates
-aesculaceous
 alliancer
 agonies
 archaised
@@ -13485,6 +13484,7 @@ anodizing
 anodonta
 annuler
 anodontia
+aesculaceous
 apteral
 allocable
 annuity
