@@ -4479,6 +4479,7 @@ carnaria
 chalque
 carnassial
 cartridges
+cased
 carnate
 corupay
 cordialize
@@ -5065,7 +5066,6 @@ casebearer
 collectivity
 circumrenal
 casebox
-cased
 cisatlantic
 calumniative
 casefy
