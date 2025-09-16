@@ -17119,7 +17119,6 @@ colpostat
 comptometer
 cater
 crappy
-censorial
 coachsmith
 caponisation
 coachsmithing
@@ -19776,6 +19775,7 @@ comatiks
 comatosely
 countercharged
 comatoseness
+censorial
 comatosity
 carpitis
 caveatee
