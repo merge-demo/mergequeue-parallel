@@ -3607,6 +3607,7 @@ bookmobile
 brachytmema
 blithelike
 batidaceous
+butterflylike
 brucines
 burdock
 beshouted
@@ -14862,7 +14863,6 @@ bag
 backseat
 brain
 beknotting
-butterflylike
 breastbeam
 bysacki
 burut
