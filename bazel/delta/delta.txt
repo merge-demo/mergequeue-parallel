@@ -2640,7 +2640,6 @@ dogwatches
 decompoundable
 decompoundly
 decompress
-decagonal
 decompresses
 depravers
 detectaphone
@@ -5815,6 +5814,7 @@ deerlike
 dainties
 diaxial
 distalwards
+decagonal
 deportment
 desmotropism
 dacker
