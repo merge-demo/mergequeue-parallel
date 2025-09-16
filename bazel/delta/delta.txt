@@ -8468,7 +8468,6 @@ dialuric
 divisibly
 diamagnet
 diamagnetic
-diamant
 deflexed
 decrowns
 daimonology
@@ -12118,6 +12117,7 @@ decemplex
 dudishly
 drepanaspis
 disentomb
+diamant
 disentombment
 didact
 disclaimers
