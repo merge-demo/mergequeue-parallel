@@ -15212,6 +15212,7 @@ clayiness
 capsuler
 commendably
 claimant
+cimbalom
 caplock
 claimants
 congeals
@@ -19797,7 +19798,6 @@ camerine
 combatant
 cobbin
 conveniens
-cimbalom
 combater
 combaters
 combating
