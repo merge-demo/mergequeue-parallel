@@ -7366,6 +7366,7 @@ chipling
 cyclostylar
 cephalometric
 cephalonasal
+christianomastix
 cephalopathy
 cephalophyma
 cephalophine
@@ -8232,7 +8233,6 @@ conocarp
 cadalene
 chalcocite
 compotatory
-christianomastix
 chalcogen
 chalcogenide
 coenaculum
