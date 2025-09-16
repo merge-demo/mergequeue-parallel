@@ -3871,7 +3871,6 @@ deerdog
 damone
 denouncers
 deityship
-deixis
 diduce
 defenseman
 daphnite
@@ -7966,6 +7965,7 @@ deworming
 deworms
 disponer
 dexiotropous
+deixis
 dictaphone
 damaskin
 dewrot
