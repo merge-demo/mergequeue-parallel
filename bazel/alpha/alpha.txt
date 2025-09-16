@@ -35,7 +35,6 @@ ahuehuete
 appale
 anthorine
 antecedence
-allseeds
 aurine
 aerometeorograph
 abaciscus
@@ -17556,6 +17555,7 @@ agouta
 appestat
 angiocarpic
 apostlehood
+allseeds
 attemper
 appetence
 autografting
