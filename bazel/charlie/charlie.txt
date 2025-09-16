@@ -15337,7 +15337,6 @@ clamworms
 corrector
 crissa
 catalyzes
-colonisable
 clancularly
 clandestine
 clandestinely
@@ -16301,6 +16300,7 @@ clinometry
 chemosynthetically
 cantos
 canisters
+colonisable
 calendal
 carvol
 corkish
