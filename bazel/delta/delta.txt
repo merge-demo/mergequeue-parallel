@@ -1098,6 +1098,7 @@ defaisance
 darwinists
 decolorize
 declamations
+dupable
 dentatosetaceous
 dialectically
 das
@@ -12435,7 +12436,6 @@ deflationary
 doliidae
 despairer
 dyspathy
-dupable
 disguising
 dishclout
 dentolingual

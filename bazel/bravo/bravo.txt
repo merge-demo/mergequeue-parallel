@@ -2812,6 +2812,7 @@ banting
 barosmin
 backwashed
 biquadrate
+bleaker
 baroswitch
 bloat
 barotaxy
@@ -10640,7 +10641,6 @@ boardy
 bleachyard
 bleachworks
 bearableness
-bleaker
 balanophoraceae
 bureaucratize
 bandspreading
