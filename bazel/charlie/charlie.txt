@@ -10853,6 +10853,7 @@ chetrums
 chipchop
 contingence
 chipewyan
+convicted
 chiplet
 culvert
 claviharp
@@ -17571,7 +17572,6 @@ confusing
 coemployed
 centavos
 cobwebby
-convicted
 coca
 cherup
 cocaceous
