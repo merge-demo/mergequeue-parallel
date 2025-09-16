@@ -2086,6 +2086,7 @@ decaying
 dopamines
 diety
 degusted
+defoil
 dummy
 destour
 dauntlessness
@@ -4296,7 +4297,6 @@ delusionary
 delusions
 delusively
 deporting
-defoil
 doover
 dichotomous
 digallate
