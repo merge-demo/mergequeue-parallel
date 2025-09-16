@@ -8418,7 +8418,6 @@ dialists
 diarchies
 deacetylated
 diachylum
-dragboat
 dermococcus
 decked
 deflation
@@ -9391,6 +9390,7 @@ dewax
 diplopia
 dinarchies
 dasypodidae
+dragboat
 differer
 drupe
 differs
