@@ -160,7 +160,6 @@ dissatisfying
 droughty
 dado
 dimwittedly
-dacryolith
 doltishly
 dadoes
 desireful
@@ -8641,6 +8640,7 @@ dogcarts
 denatured
 diarrhea
 dows
+dacryolith
 decarchy
 diarrhoeal
 dictagraph
