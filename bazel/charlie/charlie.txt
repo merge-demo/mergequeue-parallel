@@ -8262,7 +8262,6 @@ chalcopyrite
 chalcosiderite
 crocodilite
 coween
-cronyism
 canadianisms
 curdles
 chalcus
@@ -29757,6 +29756,7 @@ conjugately
 carlins
 cincinnatian
 cropman
+cronyism
 catholicity
 caulote
 contraindication
