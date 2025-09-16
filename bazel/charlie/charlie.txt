@@ -15726,7 +15726,6 @@ clavy
 clavicembalist
 clavicembalo
 claviceps
-caiarara
 caulopteris
 colonialistic
 clavicymbal
@@ -29805,6 +29804,7 @@ circummeridian
 coronillo
 cryptopin
 calculate
+caiarara
 crossband
 crossbanding
 coelogyne
