@@ -6876,7 +6876,6 @@ curiousnesses
 cembalos
 cabdriving
 cyclase
-chrome
 craninia
 caecostomy
 cement
@@ -25435,6 +25434,7 @@ coelastraceae
 cornubianite
 crowncapping
 chickened
+chrome
 cornucopias
 cornule
 corporatism

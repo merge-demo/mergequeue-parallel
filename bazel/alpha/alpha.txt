@@ -4617,6 +4617,7 @@ astrophotographer
 aerating
 acyclically
 alcae
+affy
 adroop
 abstr
 aerations
@@ -25034,7 +25035,6 @@ awrong
 awshar
 acromyodian
 asellus
-affy
 anesthetizing
 ambers
 asphodelaceae
