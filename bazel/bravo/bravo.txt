@@ -13260,7 +13260,6 @@ belays
 barbels
 binocle
 bosporanic
-blastulas
 bossage
 bothros
 boastful
@@ -15432,6 +15431,7 @@ botanophilist
 blist
 babiana
 broomrape
+blastulas
 boyce
 biferous
 bytownite
