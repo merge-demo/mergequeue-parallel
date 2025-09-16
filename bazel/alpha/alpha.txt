@@ -8498,7 +8498,6 @@ aboves
 anorogenic
 accompliceship
 allegorise
-afear
 accountantship
 allegoriser
 aggression
@@ -9151,6 +9150,7 @@ aloft
 abased
 aethogen
 acequiador
+afear
 algorithms
 alogy
 argotic
