@@ -6776,7 +6776,6 @@ anticyclone
 acetaldehydrase
 archegoniophore
 aissor
-ashot
 aitch
 amazement
 aberrator
@@ -9152,6 +9151,7 @@ alogy
 argotic
 allover
 achromatolysis
+ashot
 alogically
 achter
 archimime
