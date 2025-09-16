@@ -16968,7 +16968,6 @@ differentness
 douanes
 dreading
 descents
-decolourize
 demonstrandum
 distemperment
 descriptory
@@ -18546,6 +18545,7 @@ duressor
 drivage
 desulfurization
 diazohydroxide
+decolourize
 darbs
 decimalise
 democratic
