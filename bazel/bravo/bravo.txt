@@ -3614,6 +3614,7 @@ beshouted
 byrri
 batiking
 baginda
+bedehouses
 boise
 britzkas
 bolson
@@ -4588,7 +4589,6 @@ bebannered
 byrewards
 bullrushes
 braies
-bedehouses
 bens
 boeing
 bedevilling
