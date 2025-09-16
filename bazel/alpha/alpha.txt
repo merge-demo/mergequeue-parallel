@@ -20779,7 +20779,6 @@ anteverted
 agoniatites
 asbest
 absenter
-avowe
 associative
 apis
 alisp
@@ -20845,6 +20844,7 @@ ascendance
 ascendantly
 autexousy
 ascendants
+avowe
 ascendence
 arbitrament
 ascending
