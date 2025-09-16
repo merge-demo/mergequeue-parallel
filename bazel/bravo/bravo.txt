@@ -1296,6 +1296,7 @@ bucketsful
 balances
 balaenidae
 bobbies
+blatch
 boracites
 benzothiazole
 ballyhack
@@ -10544,7 +10545,6 @@ bipartizan
 begemmed
 borax
 bootikin
-blatch
 bouviers
 bicirrose
 boychiks
