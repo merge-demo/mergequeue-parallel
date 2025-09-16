@@ -2644,7 +2644,6 @@ decompoundly
 decompress
 decompresses
 depravers
-detectaphone
 demiplacate
 decompressive
 dogies
@@ -14741,6 +14740,7 @@ digitalein
 deferens
 djellabah
 dampest
+detectaphone
 djerib
 demonolatrous
 djersa
