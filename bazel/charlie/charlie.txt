@@ -11203,7 +11203,6 @@ carrying
 counteraccusation
 carosse
 chloranthaceae
-carretela
 chloranthaceous
 cryptozonia
 colonizers
@@ -31178,6 +31177,7 @@ cuprene
 classless
 cupressus
 custode
+carretela
 collumelliaceous
 cuprites
 cunningly
