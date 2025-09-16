@@ -19521,6 +19521,7 @@ conges
 count
 clutching
 cystous
+consonant
 coloristically
 comer
 chionididae
@@ -23059,7 +23060,6 @@ camels
 consomme
 consonance
 consonancy
-consonant
 consonantal
 consonantalize
 compurgatory
