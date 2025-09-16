@@ -11323,7 +11323,6 @@ chloroformic
 conged
 crapaudine
 cubica
-chloroforming
 chromicizing
 chloroformization
 chloroforms
@@ -30691,6 +30690,7 @@ counterexplanation
 couturire
 crenele
 compassment
+chloroforming
 comedist
 chides
 camiknickers

@@ -463,7 +463,6 @@ dairous
 dairt
 dais
 dentel
-deducer
 dramm
 dingthrift
 disinthrall
@@ -7711,6 +7710,7 @@ disavowment
 developmentarian
 dustpan
 deray
+deducer
 drawers
 diffusional
 dashboard
