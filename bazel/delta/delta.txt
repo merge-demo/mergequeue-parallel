@@ -2802,6 +2802,7 @@ decastellate
 demist
 draggle
 decrypt
+dinumeration
 dasyus
 decrowning
 detenus
@@ -16795,7 +16796,6 @@ dioecious
 distributedly
 drypoint
 disadvised
-dinumeration
 dicey
 disclaimer
 dystocial
