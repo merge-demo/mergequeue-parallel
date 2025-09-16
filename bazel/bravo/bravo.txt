@@ -4158,6 +4158,7 @@ bullswool
 bulgy
 beastman
 barracoutas
+boldfacedness
 baftah
 beastship
 benches
@@ -12106,7 +12107,6 @@ breadnuts
 bustler
 boldfaced
 boldfacedly
-boldfacedness
 boldfacing
 beg
 burd
