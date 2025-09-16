@@ -8999,7 +8999,6 @@ bilimbi
 boredoms
 brasqued
 bionditional
-bionomic
 backswordman
 batton
 bionomically
@@ -9307,6 +9306,7 @@ bodyworks
 begruntle
 brinish
 baroscope
+bionomic
 besquirt
 blindman
 baleless
