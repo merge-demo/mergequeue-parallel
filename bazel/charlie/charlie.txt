@@ -4149,7 +4149,6 @@ chopin
 chapbooks
 cardo
 cardona
-cardoncillo
 cardoon
 calzones
 conure
@@ -27653,6 +27652,7 @@ cataleptoid
 capeworks
 caliver
 cariama
+cardoncillo
 cowhided
 celiodynia
 criminative
