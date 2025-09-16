@@ -8956,7 +8956,6 @@ afternight
 antisiphonal
 athapascan
 arval
-allured
 asyla
 allurement
 anisogamete
@@ -22351,6 +22350,7 @@ azafrin
 argils
 alchitran
 atar
+allured
 achomawi
 aldols
 atrociousness
