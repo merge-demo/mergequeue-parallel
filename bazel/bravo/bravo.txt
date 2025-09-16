@@ -3241,7 +3241,6 @@ bankbooks
 bana
 basilateral
 balak
-basilect
 begunk
 beautifying
 bote
@@ -12915,6 +12914,7 @@ bhandari
 batoidei
 bootees
 battlemented
+basilect
 broadcasted
 blunging
 bootery
