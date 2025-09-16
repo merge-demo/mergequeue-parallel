@@ -5127,7 +5127,6 @@ alingual
 antihierarchal
 anapophysial
 alligation
-affine
 anteporch
 archigony
 affinely
@@ -18858,6 +18857,7 @@ angiomyocardiac
 archisynagogue
 archispermae
 achyranthes
+affine
 autoschediastically
 ammelin
 architectress
