@@ -11156,7 +11156,6 @@ drolls
 disarms
 dishonouring
 demioctangular
-disarray
 dictatorial
 disarrays
 decamp
@@ -16151,6 +16150,7 @@ dirhinous
 darbyism
 douc
 douceness
+disarray
 despitous
 douceur
 dakir
