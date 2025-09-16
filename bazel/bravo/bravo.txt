@@ -6481,7 +6481,6 @@ bimong
 bettong
 bewelcome
 bavarois
-beaming
 backplanes
 bagel
 bookkeeping
@@ -12641,6 +12640,7 @@ boosterism
 brittle
 branchiura
 boobs
+beaming
 basketballer
 beguin
 baubo
