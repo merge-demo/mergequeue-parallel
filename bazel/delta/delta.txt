@@ -3485,7 +3485,6 @@ defraudation
 descensory
 desiccated
 desmomyaria
-deprehend
 dufoil
 drapery
 drowsiest
@@ -16295,6 +16294,7 @@ defats
 dialectalize
 dunches
 dasypaedic
+deprehend
 dowery
 derailer
 dowering
