@@ -10910,7 +10910,6 @@ cathedralwise
 cloak
 chirino
 chirk
-couchmate
 chirkest
 chirking
 chirks
@@ -30182,6 +30181,7 @@ crudding
 crudely
 cipaye
 coregonus
+couchmate
 clinicopathologic
 crunk
 conto
