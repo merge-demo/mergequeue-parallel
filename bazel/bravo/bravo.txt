@@ -9270,6 +9270,7 @@ barringtonia
 bullation
 biquintile
 barbastelle
+burkite
 bacillariophyta
 boles
 bastaard
@@ -18057,7 +18058,6 @@ bladeless
 belecture
 beroll
 booklet
-burkite
 baignet
 boatsman
 bangy
