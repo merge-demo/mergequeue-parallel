@@ -1772,6 +1772,7 @@ doxastic
 dorsolum
 dissevers
 designment
+dissevering
 dissociated
 dalradian
 debamboozle
@@ -12300,7 +12301,6 @@ dorical
 dataflow
 dispatriated
 discrepancy
-dissevering
 daviesia
 divagatory
 disendowed
