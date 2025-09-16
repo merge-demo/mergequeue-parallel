@@ -8021,6 +8021,7 @@ adynamias
 absorptive
 ashkoko
 algorismic
+autocollimate
 archaean
 albino
 autecological
@@ -23915,7 +23916,6 @@ aube
 autoclave
 autoclaving
 aspheric
-autocollimate
 aluminums
 autocolony
 autocombustion
