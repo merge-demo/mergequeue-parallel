@@ -7887,6 +7887,7 @@ bibliopole
 birdieback
 biolytic
 bibliopolery
+blattodea
 beclasp
 brambleberries
 breviature
@@ -10592,7 +10593,6 @@ brigandine
 blatting
 beplumed
 biblioclasm
-blattodea
 brinny
 boresomely
 brodie
