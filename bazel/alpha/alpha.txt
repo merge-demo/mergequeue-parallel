@@ -9656,7 +9656,6 @@ antepileptic
 aloeswood
 amande
 amandine
-amanist
 antagonisation
 airwaybill
 amanitine
@@ -16404,6 +16403,7 @@ aortoiliac
 acupuncturator
 amurcous
 agathism
+amanist
 arabianize
 antichoromanic
 aortoptosia

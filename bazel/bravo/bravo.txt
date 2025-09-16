@@ -4215,7 +4215,6 @@ beardless
 benthamic
 beautified
 bathomania
-beautifier
 bishopbird
 banff
 blowball
@@ -15025,6 +15024,7 @@ binocular
 brest
 bucorvinae
 breastplate
+beautifier
 bloodthirstier
 bowllike
 bret
