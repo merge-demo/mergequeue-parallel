@@ -8871,7 +8871,6 @@ chanted
 clodbreaker
 carvacrol
 cuniform
-characterism
 characteristically
 characteristicalness
 cucaracha
@@ -10426,6 +10425,7 @@ column
 chield
 chierete
 chondroprotein
+characterism
 chievance
 chieve
 carpenter
