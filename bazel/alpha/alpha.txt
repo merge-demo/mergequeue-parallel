@@ -5117,6 +5117,7 @@ anagrams
 affiliating
 atramentous
 apery
+aeoline
 ampitheater
 attackable
 arteria
@@ -22859,7 +22860,6 @@ adnomination
 angiotasis
 atrorubent
 anatinae
-aeoline
 angiocarditis
 apelike
 astringency
