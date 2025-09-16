@@ -3743,7 +3743,6 @@ bourdis
 batture
 bielded
 blackening
-bilestone
 borracha
 buncombe
 biocontrol
@@ -6613,6 +6612,7 @@ butyrometric
 broughtas
 busto
 babbles
+bilestone
 berytidae
 boblet
 bicultural
