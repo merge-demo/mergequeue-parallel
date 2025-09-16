@@ -20576,7 +20576,6 @@ annunciates
 arty
 advertising
 aerofoil
-artichoke
 antidromal
 abstruseness
 adendritic
@@ -21613,6 +21612,7 @@ arthroplasty
 alewife
 aaru
 averil
+artichoke
 assentingly
 assentive
 aphelilia
