@@ -9986,7 +9986,6 @@ cadencies
 cheniller
 chenopod
 catlinite
-colocasia
 catacombic
 clammy
 criollo
@@ -15556,6 +15555,7 @@ cormlike
 cupel
 clasmatocyte
 ccoya
+colocasia
 clasmatocytic
 coventries
 clasmatosis
