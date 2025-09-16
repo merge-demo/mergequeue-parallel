@@ -16070,6 +16070,7 @@ doto
 devocalize
 divinail
 demolisher
+destinies
 damndests
 disinflation
 doggoneder
@@ -16627,7 +16628,6 @@ draggers
 draggier
 diacritics
 disbanding
-destinies
 dodecarchy
 deutoscolex
 dietic
