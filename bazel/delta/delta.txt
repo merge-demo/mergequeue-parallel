@@ -14761,6 +14761,7 @@ dk
 diaguitas
 destroys
 dockland
+describent
 deadener
 dankest
 deicer
@@ -16416,7 +16417,6 @@ defensible
 dichord
 danner
 dovetails
-describent
 decrease
 decibel
 deep
