@@ -13308,7 +13308,6 @@ alations
 anthroposcopy
 anne
 alod
-anglicist
 albumin
 aromatise
 anneal
@@ -17338,6 +17337,7 @@ apothesine
 anametadromous
 anteportico
 amercers
+anglicist
 aluminizes
 apotome
 apyretic
