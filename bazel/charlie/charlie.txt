@@ -41,7 +41,6 @@ centillions
 cabanas
 cabane
 cabaret
-cabasa
 corder
 cabbage
 chuffily
@@ -2763,6 +2762,7 @@ chimps
 cannibalizing
 coelomes
 carmeloite
+cabasa
 cannibally
 cableman
 cannier
