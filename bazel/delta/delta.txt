@@ -11627,6 +11627,7 @@ dosology
 disconjure
 drinkless
 duppy
+dependableness
 disconnectedness
 disconnector
 dhurnas
@@ -12641,7 +12642,6 @@ disinters
 deditician
 defoamers
 diapiric
-dependableness
 downmost
 dechenite
 demilune
