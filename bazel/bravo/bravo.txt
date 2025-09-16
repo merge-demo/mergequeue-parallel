@@ -4082,7 +4082,6 @@ betoil
 boyishness
 biassing
 ballistics
-baroclinicity
 blackballed
 blamableness
 bicompact
@@ -9476,6 +9475,7 @@ branchiostegite
 biographee
 banality
 besots
+baroclinicity
 battlestead
 bogota
 blackened
