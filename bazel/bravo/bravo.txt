@@ -13264,7 +13264,6 @@ barbels
 binocle
 bosporanic
 blastulas
-blunderings
 bossage
 bothros
 boastful
@@ -17701,6 +17700,7 @@ bishopric
 benempt
 billian
 blastophaga
+blunderings
 besnowing
 barbicanage
 bemuzzled
