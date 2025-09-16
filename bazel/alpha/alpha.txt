@@ -11424,7 +11424,6 @@ aminotransferase
 anamorphose
 antihypertensive
 androdioecism
-aphorismos
 abscessed
 auxiliarly
 appositions
@@ -14251,6 +14250,7 @@ abnormalist
 albertine
 anthracosaurus
 anthracosis
+aphorismos
 anthracothere
 anthracotherium
 acoustic

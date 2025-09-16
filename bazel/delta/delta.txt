@@ -9775,7 +9775,6 @@ derivatively
 disregardful
 dimethyl
 dare
-deceive
 didodecahedral
 dilatedness
 dichorisandra
@@ -16106,6 +16105,7 @@ doubleyou
 doublelunged
 doits
 dedecorous
+deceive
 disturn
 diapedesis
 doublespeak
