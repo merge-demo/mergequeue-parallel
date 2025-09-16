@@ -6606,6 +6606,7 @@ denaturants
 dysmerogenesis
 deadborn
 duddie
+dedimus
 desiccants
 dragsawing
 domestications
@@ -18605,7 +18606,6 @@ dispersant
 dusters
 desperadoism
 dustheap
-dedimus
 dialystelic
 dedo
 dustiest
