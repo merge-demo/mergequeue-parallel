@@ -1262,6 +1262,7 @@ beeswaxes
 blackshirt
 bakshishes
 bete
+bacterial
 bediaper
 barathron
 buckstone
@@ -3305,7 +3306,6 @@ believe
 brisant
 basirostral
 basiscopic
-bacterial
 banshee
 blepharitic
 bhil
