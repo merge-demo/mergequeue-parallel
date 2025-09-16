@@ -1033,6 +1033,7 @@ bits
 brachycome
 boraces
 bagle
+balistarii
 barmecidal
 balcony
 birotation
@@ -2580,7 +2581,6 @@ broadwives
 ballons
 baramin
 balneation
-balistarii
 bidget
 barberry
 bucerotinae
