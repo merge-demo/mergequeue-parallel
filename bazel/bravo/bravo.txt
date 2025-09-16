@@ -1341,6 +1341,7 @@ bedbug
 boleite
 bacterioprecipitin
 bishophood
+becursing
 bumbaze
 benzoylated
 bate
@@ -13540,7 +13541,6 @@ branchiform
 bichromate
 boisterousness
 boudeuse
-becursing
 backhanded
 butterbough
 barnacled
