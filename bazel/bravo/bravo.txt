@@ -2960,6 +2960,7 @@ breathing
 biron
 bijection
 boloed
+belzebuth
 bailable
 beaverish
 bemazed
@@ -6487,7 +6488,6 @@ bagel
 bookkeeping
 birdshot
 brustled
-belzebuth
 becolor
 bushful
 berates
