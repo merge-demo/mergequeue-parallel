@@ -7264,7 +7264,6 @@ cataractous
 chimera
 clamper
 chimar
-captious
 centurist
 coincidental
 cannabism
@@ -19876,6 +19875,7 @@ catapulting
 centurion
 ceraunics
 cubital
+captious
 come
 comebacker
 chontalan
