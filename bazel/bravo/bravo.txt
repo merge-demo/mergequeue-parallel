@@ -9178,7 +9178,6 @@ bushelmen
 bobbinwork
 barato
 bombic
-biological
 bipartisanship
 bipartitely
 buffer
@@ -15245,6 +15244,7 @@ benzidine
 ballyhoos
 bridgework
 bridie
+biological
 barhal
 brumal
 bridlers
