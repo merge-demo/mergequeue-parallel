@@ -15465,7 +15465,6 @@ babirusa
 broomstick
 blaubok
 boxes
-bdelloida
 blackguardism
 braggat
 beretta
@@ -18083,6 +18082,7 @@ bearlike
 bouderie
 benzenyl
 butcha
+bdelloida
 bedoyo
 bolbanac
 boosts
