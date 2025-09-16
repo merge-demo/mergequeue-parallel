@@ -10039,7 +10039,6 @@ dogwood
 dottle
 dreaming
 dolerites
-dimers
 deinos
 dirigent
 dimple
@@ -13852,6 +13851,7 @@ ductileness
 dancery
 dulcimers
 devours
+dimers
 distemperer
 demurrage
 debind
