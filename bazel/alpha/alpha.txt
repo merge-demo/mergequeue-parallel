@@ -18245,6 +18245,7 @@ atossa
 araise
 aronia
 arakanese
+archaism
 archway
 anguillule
 antiunionist
@@ -18544,7 +18545,6 @@ alexipharmical
 achylia
 architraval
 anormality
-archaism
 agalena
 ati
 asporulate
