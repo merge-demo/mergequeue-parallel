@@ -10660,7 +10660,6 @@ diplont
 delisting
 diplonts
 diagrammer
-debauchment
 dulwilly
 defossion
 diplophase
@@ -12592,6 +12591,7 @@ disthroned
 dilemite
 droitural
 disingenuous
+debauchment
 dropsically
 diners
 depend
