@@ -3288,6 +3288,7 @@ benzols
 barklyite
 babbler
 bloodiest
+babbittian
 basions
 backstabbed
 bronzes
@@ -14664,7 +14665,6 @@ blunderer
 bucked
 bituminisation
 boneheaded
-babbittian
 baronized
 brattice
 bratticing
