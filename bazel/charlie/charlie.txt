@@ -10090,7 +10090,6 @@ coleochaete
 chimney
 chesoun
 carloadings
-chessboards
 clypeus
 collab
 chipchap
@@ -20291,6 +20290,7 @@ chicagoans
 copaiba
 charivan
 commodiously
+chessboards
 commodiousness
 calligraphic
 corbeling
