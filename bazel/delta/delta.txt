@@ -9105,6 +9105,7 @@ disparage
 defang
 dermatophobia
 defigure
+domic
 dysplasia
 dictionarian
 dorsoabdominal
@@ -13440,7 +13441,6 @@ disregarding
 dingbat
 deforests
 dramatise
-domic
 disreport
 daring
 deposing
