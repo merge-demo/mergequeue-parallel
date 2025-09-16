@@ -4505,7 +4505,6 @@ carnets
 choleras
 candency
 carny
-conditorium
 chrysid
 coccostean
 conciliatingly
@@ -7255,6 +7254,7 @@ cohobated
 clematises
 centuples
 codbank
+conditorium
 chaldese
 centuplicate
 centuplicating
