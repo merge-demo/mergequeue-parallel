@@ -10814,7 +10814,6 @@ database
 dipstick
 deceitful
 department
-diazotize
 divinization
 dipterygian
 discontiguous
@@ -13988,6 +13987,7 @@ dubby
 deturb
 derrid
 dertrotheca
+diazotize
 dehydrogeniser
 dystonia
 dystonic
