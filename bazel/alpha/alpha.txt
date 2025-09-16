@@ -795,7 +795,6 @@ absampere
 awanting
 ambiguities
 agaves
-anaconda
 absaroka
 allergy
 assertors
@@ -10596,6 +10595,7 @@ asseveratory
 appendicious
 argos
 averting
+anaconda
 archivists
 autoinoculable
 arthropomatous
