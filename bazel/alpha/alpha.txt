@@ -947,7 +947,6 @@ anidian
 augural
 anorthographical
 assis
-abstemious
 astron
 accidies
 abstemiousness
@@ -17118,6 +17117,7 @@ aponic
 ambushlike
 apopenptic
 apophatic
+abstemious
 akhrot
 admonitively
 afterdamp
