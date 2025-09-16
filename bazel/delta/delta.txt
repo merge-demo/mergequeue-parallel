@@ -1194,7 +1194,6 @@ diarchic
 dactylopatagium
 dentistic
 dicaeology
-deervetch
 dodecaphony
 disenjoy
 diachoretic
@@ -8264,6 +8263,7 @@ drumbeat
 diaeretic
 dubiocrystalline
 diaetetae
+deervetch
 diageotropic
 diaglyphic
 desmopelmous
