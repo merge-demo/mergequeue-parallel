@@ -5642,7 +5642,6 @@ brutedom
 biers
 belemnitic
 ballast
-bairnlier
 blendes
 bondwoman
 blackishness
@@ -6367,6 +6366,7 @@ barquentine
 bronchotetany
 benzopyrene
 bivouac
+bairnlier
 blether
 bolts
 benzopyrylium
