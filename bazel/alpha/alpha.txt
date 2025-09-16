@@ -2672,6 +2672,7 @@ acrobatism
 accrease
 actinotherapeutic
 arloup
+anoint
 acrobryous
 authorities
 apotropaion
@@ -13524,7 +13525,6 @@ anogenital
 anogra
 abp
 askings
-anoint
 antlerite
 anointed
 arthritism
