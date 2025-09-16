@@ -13255,6 +13255,7 @@ ankylostomiasis
 attacolite
 ankylotic
 anklejack
+amasta
 ankles
 aetolian
 aminase
@@ -19898,7 +19899,6 @@ arabesques
 armscye
 armseye
 aals
-amasta
 amyelinic
 armure
 aggros
