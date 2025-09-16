@@ -17903,7 +17903,6 @@ classism
 cowpoke
 codetermine
 codetta
-conditioned
 cabook
 codette
 codfish
@@ -27501,6 +27500,7 @@ cove
 coadunate
 coved
 clavately
+conditioned
 covey
 coveys
 covelline
