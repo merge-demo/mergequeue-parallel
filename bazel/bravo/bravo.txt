@@ -7537,6 +7537,7 @@ brobdingnag
 brasilein
 bewilderedly
 bemadams
+bewrite
 boasting
 bibliopegic
 bribri
@@ -12642,7 +12643,6 @@ brios
 bonzer
 betattered
 betided
-bewrite
 beaklike
 bewrayed
 bhumidar
