@@ -16442,7 +16442,6 @@ bishops
 blaws
 budzat
 bandeaux
-bisonant
 blindstitch
 belaites
 bruteness
@@ -17000,6 +16999,7 @@ beaverteen
 bibb
 beforetime
 buttling
+bisonant
 baetylus
 byronic
 bigamistic
