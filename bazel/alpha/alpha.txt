@@ -6293,6 +6293,7 @@ antienthusiasm
 aeronat
 angiosperms
 ahantchuyuk
+aphidivorous
 apiarians
 adventitious
 ahartalav
@@ -16636,7 +16637,6 @@ abjudicating
 aphanitic
 acidulated
 armours
-aphidivorous
 aphidlion
 aphidozer
 abecedarian
