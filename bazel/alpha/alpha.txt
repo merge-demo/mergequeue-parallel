@@ -6399,7 +6399,6 @@ afterripening
 apocarpous
 aiel
 anoraks
-asplanchnic
 aeromechanical
 ayenst
 archaeocyathus
@@ -20347,6 +20346,7 @@ artarine
 antitypes
 acceptableness
 asynchrony
+asplanchnic
 adaptively
 anaglyphoscope
 autosymnoia
