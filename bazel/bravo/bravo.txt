@@ -2540,7 +2540,6 @@ barcolongo
 breadearner
 blepharocoloboma
 besnare
-brancher
 broadhorn
 bilamellar
 begster
@@ -3545,6 +3544,7 @@ bore
 brainteasers
 beuniformed
 brahmanists
+brancher
 bathycolpic
 bathylithic
 bodybuilders
