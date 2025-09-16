@@ -20726,7 +20726,6 @@ complaisantly
 coenenchyma
 chamaedaphne
 complant
-complect
 collapsible
 converser
 complementary
@@ -21297,6 +21296,7 @@ concertation
 counter
 concertatos
 concerted
+complect
 concertedness
 cicatrose
 curtseys
