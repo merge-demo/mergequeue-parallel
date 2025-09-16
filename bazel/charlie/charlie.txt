@@ -607,7 +607,6 @@ commentarial
 clavicytherium
 caenozoic
 caeoma
-chera
 cero
 caeomas
 clara
@@ -6369,6 +6368,7 @@ cavalier
 cavaliere
 cloxacillin
 cowherd
+chera
 choregic
 cation
 constellations
