@@ -7817,7 +7817,6 @@ baniya
 bendways
 bibionid
 bewreath
-bealtine
 brad
 burials
 bookiness
@@ -8376,6 +8375,7 @@ bismuthal
 byhand
 bicarpellate
 bija
+bealtine
 bijasal
 bijections
 bree

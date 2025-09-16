@@ -5291,7 +5291,6 @@ alkalizable
 aspout
 anthomania
 ageratum
-antirestoration
 astylosternus
 africanize
 africanoid
@@ -5866,6 +5865,7 @@ ancillary
 alible
 alidades
 anteversion
+antirestoration
 addisonian
 absorptiometer
 agios
