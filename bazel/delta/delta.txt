@@ -4478,6 +4478,7 @@ deboners
 drugstore
 dechemicalization
 deincrustant
+dulceness
 dependant
 delftware
 demerit
@@ -11343,7 +11344,6 @@ dyarchical
 deontological
 distributional
 discarded
-dulceness
 drainageway
 discardment
 diane
