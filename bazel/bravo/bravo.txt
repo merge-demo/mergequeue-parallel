@@ -9196,7 +9196,6 @@ bipedality
 bipeds
 bipeltate
 bipennate
-brunches
 bevor
 baldrics
 built
@@ -11637,6 +11636,7 @@ balloter
 burns
 bevels
 bacauan
+brunches
 blacks
 bumbledom
 boas
