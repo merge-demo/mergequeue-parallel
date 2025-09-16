@@ -1556,7 +1556,6 @@ basted
 ballads
 ballahou
 balete
-bloodmonger
 blackware
 beaver
 ballas
@@ -2254,6 +2253,7 @@ beleaping
 bona
 bespew
 brunets
+bloodmonger
 butted
 barbasco
 boneless
