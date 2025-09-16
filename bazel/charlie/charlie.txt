@@ -6875,7 +6875,6 @@ cotyla
 clockroom
 caffein
 conducibleness
-camis
 ceratomandibular
 clocklike
 crossable
@@ -27370,6 +27369,7 @@ contrarily
 commaes
 courty
 chickweed
+camis
 courtyards
 coonroot
 closter
