@@ -7155,7 +7155,6 @@ dampeners
 donenesses
 demolished
 doyenne
-demivierge
 dispraised
 disworship
 directively
@@ -10454,6 +10453,7 @@ despend
 diphenylenimine
 driveller
 ditcher
+demivierge
 dogmatic
 decomposable
 diodon
