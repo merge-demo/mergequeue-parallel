@@ -4762,6 +4762,7 @@ datatypes
 diphenylacetylene
 disnaturalize
 dolente
+deluding
 devolution
 diffareation
 disrelish
@@ -8629,7 +8630,6 @@ downwards
 drumline
 dinge
 debugging
-deluding
 distilment
 delimitations
 diary
