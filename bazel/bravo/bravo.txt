@@ -1507,7 +1507,6 @@ boarishly
 bices
 balkiest
 berskin
-balkiness
 baloo
 bauleah
 balking
@@ -16294,6 +16293,7 @@ brumous
 bullalaria
 brumstane
 brunch
+balkiness
 brunched
 brunching
 bemeaning
