@@ -9054,7 +9054,6 @@ cervantist
 charmingest
 charmingness
 charmless
-charmlessly
 chappy
 charmonium
 charms
@@ -30943,6 +30942,7 @@ chloroform
 clews
 condensative
 culverhouse
+charmlessly
 culveriner
 corsesque
 culverkey
