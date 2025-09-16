@@ -2996,7 +2996,6 @@ canting
 cantingness
 crimpiest
 concent
-cantles
 cantlet
 cantline
 chromophore
@@ -19931,6 +19930,7 @@ cometlike
 cometography
 coeloblastic
 cometology
+cantles
 calycanthaceous
 comets
 crawlingly
