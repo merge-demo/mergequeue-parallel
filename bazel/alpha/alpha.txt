@@ -7767,6 +7767,7 @@ alertly
 ales
 anion
 alesan
+arraigns
 alestake
 alkalis
 allicampane
@@ -22672,7 +22673,6 @@ alterability
 arya
 allheal
 atmosphere
-arraigns
 atmosphereful
 atmosphereless
 ankylorrhinia
