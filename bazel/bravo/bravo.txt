@@ -1300,6 +1300,7 @@ benzothiazole
 ballyhack
 baldheaded
 birdberry
+bouchaleen
 bonze
 bedim
 bedstead
@@ -13538,7 +13539,6 @@ brief
 brodequin
 briquette
 bouch
-bouchaleen
 boucharde
 branchiform
 bichromate
