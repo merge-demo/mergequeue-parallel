@@ -7587,7 +7587,6 @@ bankrolled
 borborygmic
 bullary
 brutalising
-bewraps
 boutre
 belesprit
 bepride
@@ -16368,6 +16367,7 @@ beltways
 buttons
 betrace
 brolly
+bewraps
 bouffage
 boorishly
 bellwine

@@ -5576,7 +5576,6 @@ dyscrase
 depeinct
 dependabilities
 dustfall
-draftable
 disally
 depended
 dolichopellic
@@ -6140,6 +6139,7 @@ diphtheroid
 discipled
 dijudicant
 duperies
+draftable
 deservedness
 driving
 demicylindrical
