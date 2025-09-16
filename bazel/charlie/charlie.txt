@@ -22137,7 +22137,6 @@ chromicize
 champert
 conormal
 cheateries
-caroach
 corticoid
 conformability
 cyprinoid
@@ -26491,6 +26490,7 @@ copsewood
 clotheshorse
 chalcedonies
 cottonseeds
+caroach
 camomile
 cephalopodic
 cottontails
