@@ -11179,6 +11179,7 @@ bacteroidal
 bandarlog
 boiloff
 balloters
+barters
 befrilled
 buhrstone
 bloodthirster
@@ -15596,7 +15597,6 @@ bribee
 bisulcated
 bosoming
 bolide
-barters
 bauxitite
 bundlet
 bludger

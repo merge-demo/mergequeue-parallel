@@ -18255,7 +18255,6 @@ astronauts
 aralie
 algaroba
 aaronite
-amerindian
 anisometrope
 assembling
 androgynus
@@ -24279,6 +24278,7 @@ angulating
 applecart
 autopsies
 ambrose
+amerindian
 aeriality
 abaters
 aeromancy
