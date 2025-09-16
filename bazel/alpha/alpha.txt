@@ -19838,6 +19838,7 @@ adonises
 ampoules
 alastors
 armorials
+asphaltus
 armoric
 armorican
 albescence
@@ -21387,7 +21388,6 @@ axolotls
 auroch
 albinisms
 asphalter
-asphaltus
 aceituna
 akund
 anonymousness
