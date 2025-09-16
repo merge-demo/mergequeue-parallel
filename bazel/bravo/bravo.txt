@@ -1849,6 +1849,7 @@ bancus
 bathonian
 backstabber
 banderma
+bannerline
 bowlike
 brainish
 behatted
@@ -2066,7 +2067,6 @@ barefooted
 bollixing
 bannat
 baulky
-bannerline
 barhops
 bannerole
 blossomry
