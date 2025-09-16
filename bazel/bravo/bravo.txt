@@ -1693,7 +1693,6 @@ breechcloths
 babblish
 balmarcodes
 balmawhapple
-buncher
 boko
 betokens
 brunneous
@@ -10367,6 +10366,7 @@ bowpin
 blanc
 bombardments
 bergomask
+buncher
 bumbler
 brays
 blanched
