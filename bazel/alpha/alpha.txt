@@ -9969,7 +9969,6 @@ anisette
 amboceptoid
 adelpholite
 aspirin
-atmological
 aggadic
 adjutage
 archaeopithecus
@@ -17811,6 +17810,7 @@ apprizal
 apprizes
 apprizing
 acronarcotic
+atmological
 approach
 aristodemocracy
 anthracotheriidae
