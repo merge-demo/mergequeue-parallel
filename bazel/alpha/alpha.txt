@@ -5758,7 +5758,6 @@ aphonics
 altimettrically
 afterglows
 aggrandize
-arborization
 anither
 azoxyphenetole
 adversary
@@ -12009,6 +12008,7 @@ alternaria
 assistive
 ancestorially
 alcoholisation
+arborization
 ancestors
 ancestral
 ancestrally
