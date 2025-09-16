@@ -10137,6 +10137,7 @@ careened
 columnwise
 cheval
 chevalet
+compactions
 chevalets
 centeredness
 chiromant
@@ -14592,7 +14593,6 @@ cerebrology
 cariocas
 calmly
 cornier
-compactions
 chauri
 compotier
 cystic
