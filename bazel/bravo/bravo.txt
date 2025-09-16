@@ -4744,7 +4744,6 @@ bedroll
 bedrooms
 bruckle
 bougainvilliidae
-blathers
 bedrowse
 bedrugged
 bedrugs
@@ -9581,6 +9580,7 @@ backbeats
 browningesque
 bonete
 bishopdom
+blathers
 biol
 bisyllabism
 bishopstool
