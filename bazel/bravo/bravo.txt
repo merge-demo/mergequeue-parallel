@@ -4159,7 +4159,6 @@ barrow
 bradypus
 beastling
 bullswool
-beastlings
 bulgy
 beastman
 barracoutas
@@ -13487,6 +13486,7 @@ benzin
 bonderman
 bepun
 blizzardous
+beastlings
 bottlenose
 bottlers
 bottlestone
