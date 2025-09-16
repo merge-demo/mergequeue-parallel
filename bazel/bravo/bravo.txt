@@ -8326,7 +8326,6 @@ bintangor
 byliny
 bights
 blackjacks
-bacterium
 bonamano
 bemuddled
 brulot
@@ -10937,6 +10936,7 @@ browpiece
 bottom
 blizzards
 bridleless
+bacterium
 barth
 baroqueness
 brooched
