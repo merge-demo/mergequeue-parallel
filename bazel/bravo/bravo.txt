@@ -3863,7 +3863,6 @@ bodock
 buriable
 bawl
 bevelment
-bawled
 bawler
 brutalitarian
 biti
@@ -16586,6 +16585,7 @@ buchnerite
 balconette
 buchonite
 bayamo
+bawled
 bearpaw
 bleared
 bombazet
