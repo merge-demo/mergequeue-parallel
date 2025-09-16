@@ -12958,7 +12958,6 @@ aplostemonous
 alemannish
 ahrendahronon
 anabolite
-animalic
 aminosulphonic
 abulia
 avunculize
@@ -17793,6 +17792,7 @@ arrogatingly
 asuri
 appressoria
 anlia
+animalic
 appressorial
 anticold
 anabathmos
