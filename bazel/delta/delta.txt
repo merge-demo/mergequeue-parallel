@@ -16937,6 +16937,7 @@ dribbet
 diphyletic
 deadlock
 durwan
+dsname
 disceptation
 decanically
 ddt
@@ -17668,7 +17669,6 @@ dakota
 desmodium
 disillusionize
 disannulled
-dsname
 delatinize
 dispossessory
 dromornis
