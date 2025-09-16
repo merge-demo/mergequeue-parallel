@@ -10250,7 +10250,6 @@ anise
 adenochondrosarcoma
 americans
 americanum
-adamantness
 amphicarpa
 ascry
 appended
@@ -19743,6 +19742,7 @@ amphirhina
 assaulted
 amniotes
 aspires
+adamantness
 armers
 autumnal
 acanthite

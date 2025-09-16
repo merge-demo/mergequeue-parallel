@@ -3467,6 +3467,7 @@ deflections
 deformations
 dandily
 deformative
+dextrogyratory
 deuterostomata
 downs
 deforse
@@ -7586,7 +7587,6 @@ dihydromorphinone
 dreegh
 dihydrol
 deplorably
-dextrogyratory
 dysgenetic
 dipleuric
 depainting
