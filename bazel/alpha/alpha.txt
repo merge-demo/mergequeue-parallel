@@ -5143,6 +5143,7 @@ asiaticism
 acupress
 anthroposophic
 affirmably
+archean
 arroba
 aplysia
 arythmical
@@ -18631,7 +18632,6 @@ arche
 aberdavine
 archeal
 annulose
-archean
 archearl
 average
 angiasthenia
