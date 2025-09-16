@@ -4330,7 +4330,6 @@ billheads
 bellhops
 beclang
 ballones
-burbark
 blackhearted
 befleaed
 bilingualism
@@ -10177,6 +10176,7 @@ bottomlessness
 bemuslined
 bachelorwise
 blackjack
+burbark
 bryaceous
 bibulous
 bracers
