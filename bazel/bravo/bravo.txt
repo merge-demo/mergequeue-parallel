@@ -12926,7 +12926,6 @@ bootery
 booth
 bloodsucking
 bim
-bedding
 baronetcies
 badge
 brews
@@ -18330,6 +18329,7 @@ boilable
 buttonwood
 baragouin
 buttress
+bedding
 buttressed
 bradypodidae
 backgeared
