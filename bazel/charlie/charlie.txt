@@ -12979,7 +12979,6 @@ catamenial
 continentality
 clothes
 cyanids
-cyanimide
 caite
 cyanine
 chaldrons
@@ -22549,6 +22548,7 @@ conjugatae
 cyprinine
 conjugated
 conduplicated
+cyanimide
 conjugationally
 conjugative
 conjugator
