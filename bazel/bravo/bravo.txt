@@ -2045,6 +2045,7 @@ bankrupt
 bosporan
 brainstone
 burl
+balmy
 bankruptcy
 boltel
 bravadoism
@@ -5334,7 +5335,6 @@ begnaw
 big
 biharmonic
 biltongs
-balmy
 biaxal
 bambos
 ballroom
