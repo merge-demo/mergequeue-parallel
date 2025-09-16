@@ -916,7 +916,6 @@ bullionism
 bullboat
 burdies
 bellowers
-bogs
 balmily
 balewort
 burbush
@@ -3958,6 +3957,7 @@ biliment
 bumblekite
 battleward
 bowed
+bogs
 bumpiest
 bromometrical
 bisulphate
