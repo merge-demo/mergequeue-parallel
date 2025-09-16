@@ -1126,7 +1126,6 @@ blepharelcosis
 bayong
 bairagi
 bairdi
-beneficency
 bairn
 bypassed
 bransolder
@@ -14594,6 +14593,7 @@ babyishly
 basiparaplastin
 brachiopodous
 buffware
+beneficency
 breathers
 backspin
 brash
