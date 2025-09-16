@@ -4021,7 +4021,6 @@ disappearer
 dysarthric
 domineeringness
 directitude
-dysepulotic
 deliberalization
 duiker
 deadened
@@ -17345,6 +17344,7 @@ downgone
 detailer
 drollery
 discoverably
+dysepulotic
 drolleries
 drollest
 dischase
