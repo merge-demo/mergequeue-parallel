@@ -12489,7 +12489,6 @@ diastataxic
 dischurch
 desulfurate
 dishorn
-demodocus
 dislocable
 diastematic
 demarcated
@@ -14620,6 +14619,7 @@ dentalman
 daunders
 draggily
 deoxyribonucleoprotein
+demodocus
 dictyostele
 demureness
 denotive
