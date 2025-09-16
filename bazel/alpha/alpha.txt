@@ -5549,7 +5549,6 @@ agamidae
 agapae
 aftertouch
 antimonarchist
-agamist
 antiegoistical
 agamoid
 ardentness
@@ -17001,6 +17000,7 @@ apogamies
 assassinated
 apogamous
 apogamously
+agamist
 alebion
 aerialists
 apogee
