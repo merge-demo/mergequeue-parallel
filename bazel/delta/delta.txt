@@ -4852,7 +4852,6 @@ demolish
 demolishing
 daily
 discharge
-demolition
 dialyses
 dictyosiphonaceous
 dishonest
@@ -15364,6 +15363,7 @@ declaims
 dureful
 decad
 drainway
+demolition
 deckhands
 disrupts
 dialogized
