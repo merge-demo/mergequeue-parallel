@@ -17995,6 +17995,7 @@ biochemically
 bondmanship
 busmen
 beaux
+benzal
 bicrons
 bussing
 bichrome
@@ -18095,7 +18096,6 @@ bipalium
 brins
 benzoyl
 benedictionary
-benzal
 bealtared
 bloodlettings
 buskin
