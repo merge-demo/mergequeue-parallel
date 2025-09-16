@@ -3506,7 +3506,6 @@ armeriaceae
 autodigestion
 abnegation
 adenophorous
-anthropophagic
 accumulative
 adenopodous
 adenosarcomata
@@ -21281,6 +21280,7 @@ amanitopsis
 asparagic
 asparagyl
 acclimatizing
+anthropophagic
 antiglyoxalase
 amortisable
 arachnactis
