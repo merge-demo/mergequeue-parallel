@@ -11252,7 +11252,6 @@ bracts
 bf
 bezesteen
 borghalpenny
-bespeaker
 bisilicate
 buckets
 blankest
@@ -15654,6 +15653,7 @@ brocatello
 bestad
 brocatels
 billionths
+bespeaker
 bleaches
 burans
 bryophytes
