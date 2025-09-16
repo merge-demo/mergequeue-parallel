@@ -24980,7 +24980,6 @@ cowperitis
 cordal
 cordate
 catawamptious
-carnivora
 castoff
 cordeau
 cordel
@@ -25430,6 +25429,7 @@ comdt
 combos
 cornual
 cornuated
+carnivora
 crested
 cornucopiae
 coelastraceae
