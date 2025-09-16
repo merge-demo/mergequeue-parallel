@@ -10037,6 +10037,7 @@ backfired
 bugbanes
 backwatered
 banksias
+beworm
 bizygomatic
 boarhound
 biznaga
@@ -13205,7 +13206,6 @@ bedecking
 brachycephalize
 bourlaw
 bowtel
-beworm
 britannica
 borwort
 bloodthirst
