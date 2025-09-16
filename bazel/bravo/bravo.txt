@@ -2156,7 +2156,6 @@ bandsaw
 baptisms
 belauder
 badgers
-behaviourist
 balliage
 bewearies
 bitingly
@@ -9124,6 +9123,7 @@ brack
 biotypic
 boubou
 biotites
+behaviourist
 bolometric
 bromcamphor
 bruja
