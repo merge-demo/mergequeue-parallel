@@ -1919,6 +1919,7 @@ deciphers
 doura
 debriefing
 dowser
+daiquiris
 danzig
 demicoronal
 dustbins
@@ -4247,7 +4248,6 @@ dislocate
 deltahedra
 dismayed
 dismaler
-daiquiris
 diadrome
 distensibility
 denunciations
