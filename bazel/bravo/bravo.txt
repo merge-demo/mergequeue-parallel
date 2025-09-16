@@ -9698,6 +9698,7 @@ bistred
 bindheimite
 beknights
 bradylexia
+beetler
 bloodguiltiness
 bascunan
 baronetage
@@ -15286,7 +15287,6 @@ burial
 bandurrias
 brigatry
 brigetty
-beetler
 beliquoring
 bekick
 burgensic
