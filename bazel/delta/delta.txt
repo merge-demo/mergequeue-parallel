@@ -8292,7 +8292,6 @@ deserver
 dizzy
 disputableness
 dactylion
-diagonalizable
 diagonalization
 diagnosing
 dandyprat
@@ -11245,6 +11244,7 @@ dock
 disbeliefs
 diswit
 dodgiest
+diagonalizable
 dreggish
 doylies
 dissociating
