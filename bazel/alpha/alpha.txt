@@ -6755,6 +6755,7 @@ alanyls
 amende
 aglyphous
 aptian
+astylospongia
 aventine
 alferez
 adelphoi
@@ -12115,7 +12116,6 @@ ancress
 ancresses
 adsorbate
 anda
-astylospongia
 analog
 aphrodisiac
 aggroup
