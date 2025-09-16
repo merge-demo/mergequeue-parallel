@@ -4429,7 +4429,6 @@ dematerialisation
 dragsmen
 dendroica
 dematerialised
-disproportionation
 dioeciousness
 dematerializing
 dimuence
@@ -12271,6 +12270,7 @@ disfurnish
 disfurnished
 dangerless
 desulfurating
+disproportionation
 duxelles
 deathshot
 disfurniture
