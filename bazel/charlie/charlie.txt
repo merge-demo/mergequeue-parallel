@@ -10886,7 +10886,6 @@ choledocholithiasis
 calcigerous
 chippiest
 chipping
-chippings
 cuddie
 clerk
 chipproof
@@ -11300,6 +11299,7 @@ checkups
 clothbound
 chlorocarbonate
 chlorochromic
+chippings
 chlorococcaceae
 cologned
 coincider
