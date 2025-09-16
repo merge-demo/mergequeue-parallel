@@ -8162,6 +8162,7 @@ chairmender
 chairpersons
 crematoririums
 chairway
+cyanephidrosis
 cryptogamian
 conjunctivae
 chairwarmer
@@ -12952,7 +12953,6 @@ cyanate
 cyanates
 cyaneous
 caderas
-cyanephidrosis
 consignatory
 concursion
 contrail
