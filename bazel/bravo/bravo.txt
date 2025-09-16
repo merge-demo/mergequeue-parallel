@@ -3633,6 +3633,7 @@ batlet
 batlike
 brandyball
 buyides
+bewimple
 baculiform
 bipinnately
 barytophyllite
@@ -17842,7 +17843,6 @@ bisetose
 burling
 beearn
 brisks
-bewimple
 bestselling
 brawns
 blowfly
