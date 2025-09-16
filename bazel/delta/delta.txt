@@ -3342,7 +3342,6 @@ disreputation
 domal
 diamante
 diacetyl
-decolours
 dyscrasia
 decarboxylase
 decolorisation
@@ -15126,6 +15125,7 @@ distinctify
 determ
 deepmost
 doggerel
+decolours
 daphnioid
 doggerelism
 doggerelist
