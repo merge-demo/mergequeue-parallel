@@ -10702,6 +10702,7 @@ angleworms
 amphibryous
 ascertains
 amani
+artcraft
 anemopathy
 ammonia
 ammoniacs
@@ -20350,7 +20351,6 @@ achrodextrin
 artar
 ampery
 artarine
-artcraft
 antitypes
 acceptableness
 asynchrony
