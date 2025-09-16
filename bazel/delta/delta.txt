@@ -2617,6 +2617,7 @@ dryasdust
 duress
 drugged
 demasculinised
+disulphonic
 desulphurising
 decolourizer
 dumpcarts
@@ -12835,7 +12836,6 @@ demotics
 desertions
 detents
 dislustre
-disulphonic
 diffusedness
 deferral
 dismay
