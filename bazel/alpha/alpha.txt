@@ -6910,6 +6910,7 @@ astrobiologies
 akhara
 andante
 acalypha
+astasia
 antigay
 akhissar
 agaricin
@@ -15806,7 +15807,6 @@ anorexia
 atrabilar
 antiquarianism
 antelope
-astasia
 anticonscience
 axeman
 anisometric
