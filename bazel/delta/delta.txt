@@ -9532,7 +9532,6 @@ disapproval
 digged
 diachrony
 deuterostome
-demonstrational
 dighted
 dighter
 donatives
@@ -17508,6 +17507,7 @@ determinacy
 desectionalize
 definitude
 dimidiate
+demonstrational
 dhobi
 drove
 derogative
