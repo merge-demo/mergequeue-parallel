@@ -4137,6 +4137,7 @@ bearwort
 beasthood
 bacons
 baniwa
+bentwoods
 backstop
 biomedical
 buddhists
@@ -5851,7 +5852,6 @@ belltail
 balloons
 benumbedness
 botte
-bentwoods
 bluer
 blackman
 begaudy
