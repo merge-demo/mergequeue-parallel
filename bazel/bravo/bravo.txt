@@ -9891,7 +9891,6 @@ bauson
 bilipurpurin
 bastardice
 balancelle
-burk
 biophysiological
 bituminate
 bescoured
@@ -18140,6 +18139,7 @@ botanicas
 bacillicide
 butyryls
 buisson
+burk
 butyrin
 biogenase
 butyrometer
