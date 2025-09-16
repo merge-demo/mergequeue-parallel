@@ -3545,6 +3545,7 @@ avoidment
 achlorophyllous
 archidiaceae
 arco
+articulated
 alliteration
 antiquity
 atlantomastoid
@@ -15295,7 +15296,6 @@ assheadedness
 antimale
 antimaniac
 amylums
-articulated
 antiprogressive
 androlepsy
 asslike
