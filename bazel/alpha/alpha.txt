@@ -13145,7 +13145,6 @@ apoturmeric
 aurochses
 antimerger
 amphistyly
-acetarious
 ailuropus
 anorexic
 alascan
@@ -23220,6 +23219,7 @@ auction
 auctioned
 alcornoco
 ameliorate
+acetarious
 antenatalitial
 asthamatic
 anan
