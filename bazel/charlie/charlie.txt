@@ -11193,6 +11193,7 @@ chloramphenicol
 curtation
 caperwort
 chilopodous
+cartilage
 counterrecoil
 chloranemic
 chuffs
@@ -21617,7 +21618,6 @@ ceruse
 concurred
 cosmogonies
 concurrencies
-cartilage
 concurrently
 chemicoluminescent
 cellarets
