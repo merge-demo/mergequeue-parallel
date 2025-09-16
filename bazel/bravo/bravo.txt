@@ -4338,7 +4338,6 @@ botfly
 beck
 buoyance
 behen
-bowman
 brickier
 becky
 becking
@@ -9516,6 +9515,7 @@ bisalt
 bettered
 bloodstream
 bicircular
+bowman
 biblist
 breeching
 bisantler
