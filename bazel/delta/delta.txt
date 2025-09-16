@@ -4974,7 +4974,6 @@ dinghy
 demospongiae
 demosthenean
 deckels
-deradenitis
 demote
 demoted
 demotes
@@ -10332,6 +10331,7 @@ dissolubility
 dositheans
 diphthongic
 dunkling
+deradenitis
 diamber
 diosmin
 diabological
