@@ -7124,6 +7124,7 @@ disvalues
 diaclinal
 damselfish
 dishabituated
+dhangar
 daitya
 doziness
 destrer
@@ -8083,7 +8084,6 @@ distinctional
 disgavel
 didos
 dragaded
-dhangar
 dactylist
 domically
 dhanuk
