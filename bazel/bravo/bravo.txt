@@ -2675,6 +2675,7 @@ begrimming
 bututs
 barmaster
 bergalith
+bihourly
 benzoic
 blacklister
 barmcloth
@@ -14808,7 +14809,6 @@ bristler
 brailing
 bluetops
 bronchopulmonary
-bihourly
 bonetta
 breadmaker
 brogueneer
