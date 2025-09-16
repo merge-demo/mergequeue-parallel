@@ -6234,6 +6234,7 @@ brachycatalectic
 benthal
 boatside
 beys
+basketballs
 burghs
 bosomer
 burelage
@@ -10144,7 +10145,6 @@ brookside
 barrelhouses
 barege
 bewrayingly
-basketballs
 bosker
 blackfigured
 biochemical
