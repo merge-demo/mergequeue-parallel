@@ -2246,6 +2246,7 @@ blastment
 belavendered
 bauhinia
 barbarized
+bewraying
 beleaping
 bona
 bespew
@@ -14265,7 +14266,6 @@ brogan
 balductum
 brachiosaur
 bragger
-bewraying
 byways
 bubbleless
 bondfolk
