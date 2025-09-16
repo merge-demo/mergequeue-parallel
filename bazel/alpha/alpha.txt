@@ -7830,6 +7830,7 @@ antimicrobic
 argynnis
 annotto
 aleuronic
+amyroot
 aleurons
 aleut
 alevin
@@ -10616,7 +10617,6 @@ amire
 amyris
 abattis
 amyrol
-amyroot
 alodiary
 amirs
 arcubalister
