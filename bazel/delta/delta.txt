@@ -10195,7 +10195,6 @@ devicefully
 deathblow
 dues
 diverticulate
-diploblastic
 ductal
 defogging
 downy
@@ -17578,6 +17577,7 @@ druidical
 deflourish
 denumeral
 disincarcerate
+diploblastic
 drouked
 druidisms
 dorsibranchiate

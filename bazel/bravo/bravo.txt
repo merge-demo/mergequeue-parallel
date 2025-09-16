@@ -3635,7 +3635,6 @@ bassanello
 blackball
 bumbleberry
 betacism
-bakehouses
 brazenfacedly
 botchery
 bioplasm
@@ -8201,6 +8200,7 @@ biflex
 bistort
 beshiver
 boddagh
+bakehouses
 bifocal
 bejumbles
 berith
