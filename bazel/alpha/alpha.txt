@@ -19518,6 +19518,7 @@ analogies
 aridities
 afghanis
 arousal
+assembly
 apometabolous
 airbill
 alchemilla
@@ -21595,7 +21596,6 @@ assembled
 anniv
 abolete
 assembler
-assembly
 assemblyman
 assemblywoman
 aerohydrotherapy
