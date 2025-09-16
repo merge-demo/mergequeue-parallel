@@ -1335,7 +1335,6 @@ dorsigerous
 delegations
 departure
 daundering
-didappers
 dhobies
 daunters
 daffy
@@ -1955,6 +1954,7 @@ disembowel
 delime
 debtee
 dernier
+didappers
 debtless
 dialyzes
 downby
