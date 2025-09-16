@@ -12794,7 +12794,6 @@ chumulu
 coelogastrula
 chaenactis
 chun
-chunam
 camuse
 checklist
 calcifies
@@ -20062,6 +20061,7 @@ commandry
 caudata
 commark
 croupal
+chunam
 coinheres
 cyclohexanol
 conjectural
