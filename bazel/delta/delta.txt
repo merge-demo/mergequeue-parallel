@@ -1742,7 +1742,6 @@ deprecated
 dognap
 deathtrap
 devocalization
-downtimes
 drof
 deathward
 ductility
@@ -15931,6 +15930,7 @@ dorsiduct
 does
 deluge
 demidome
+downtimes
 dorsimeson
 disyllabize
 disgusting
