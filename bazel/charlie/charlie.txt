@@ -15451,6 +15451,7 @@ chiropter
 clarenceux
 clarendon
 clares
+contentness
 chilipepper
 claret
 cervantes
@@ -15874,7 +15875,6 @@ cleavable
 cleavages
 cleaveful
 cleavelandite
-contentness
 cleaver
 cleavers
 coremaker
