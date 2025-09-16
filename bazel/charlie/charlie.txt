@@ -7812,7 +7812,6 @@ cerviciplex
 cervicispinal
 cervicitis
 cervicoauricular
-chippable
 cervicobasilar
 cobitis
 cervicodynia
@@ -14990,6 +14989,7 @@ cinquain
 cycler
 cytozzoa
 coelacanthoid
+chippable
 citraconate
 cambaye
 citramontane
