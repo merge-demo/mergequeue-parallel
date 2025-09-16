@@ -13752,7 +13752,6 @@ amish
 apophthegmatist
 amorously
 abstrusely
-abkhas
 ant
 ahong
 averageness
@@ -20022,6 +20021,7 @@ allothigene
 archaizer
 acmic
 alloclase
+abkhas
 armenia
 alderflies
 araneiformia
