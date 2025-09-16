@@ -4313,6 +4313,7 @@ courge
 chimeras
 casuists
 cloches
+chloroamine
 crisper
 catholical
 counterslope
@@ -25134,7 +25135,6 @@ counterwall
 coria
 cynipoidea
 cryptomeria
-chloroamine
 ceptor
 coriaceous
 canichana
