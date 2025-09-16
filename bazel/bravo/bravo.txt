@@ -2630,6 +2630,7 @@ bantamweight
 birdhouses
 bilges
 barking
+bundle
 botanise
 barkless
 battening
@@ -10610,7 +10611,6 @@ bisti
 belemnite
 ballarag
 blazonment
-bundle
 bouquet
 bladders
 blazonry
