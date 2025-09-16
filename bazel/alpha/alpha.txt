@@ -9953,7 +9953,6 @@ arles
 alchymies
 allophylian
 astral
-antasthmatic
 amblystegite
 attesters
 amblotic
@@ -20833,6 +20832,7 @@ archeologian
 affects
 ascarids
 aerophagia
+antasthmatic
 alpinist
 ascelli
 atmometric
