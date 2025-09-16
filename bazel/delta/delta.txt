@@ -3477,7 +3477,6 @@ delft
 defrayed
 dinghies
 defrayers
-defraying
 dactyloid
 desaturate
 defraudation
@@ -16196,6 +16195,7 @@ deathbed
 domesticity
 ditherer
 ducamara
+defraying
 drily
 doughtier
 dionysian
