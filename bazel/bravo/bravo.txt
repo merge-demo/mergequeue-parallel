@@ -9325,7 +9325,6 @@ brabbles
 besogne
 budding
 bewrathed
-borish
 bodyworks
 begruntle
 brinish
@@ -15385,6 +15384,7 @@ bifollicular
 beardtongue
 banshees
 breakdowns
+borish
 beteach
 brimmed
 brimmering
