@@ -5356,7 +5356,6 @@ bacteriogenic
 bonace
 besoothement
 birefringence
-begowk
 buyable
 begray
 barodynamic
@@ -13960,6 +13959,7 @@ boxroom
 bromatium
 brame
 barwise
+begowk
 bacteriofluorescin
 barbarical
 borghese
