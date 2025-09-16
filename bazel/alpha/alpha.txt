@@ -7213,7 +7213,6 @@ atle
 antepenults
 aristotelian
 azolitmin
-afrete
 androcracy
 amitosis
 alienate
@@ -16897,6 +16896,7 @@ adhocracy
 apocalypt
 ascetically
 agoraphobiac
+afrete
 apocalyptic
 advantageous
 acerra
