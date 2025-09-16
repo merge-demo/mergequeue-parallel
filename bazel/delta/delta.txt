@@ -2192,7 +2192,6 @@ disenamor
 dawns
 decarbonisation
 decarbonise
-decarboniser
 dilacerated
 dobsonfly
 ditching
@@ -14487,6 +14486,7 @@ decane
 deregulate
 denarcotize
 drunkensome
+decarboniser
 delirous
 divertingly
 drainages
