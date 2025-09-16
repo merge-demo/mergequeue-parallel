@@ -8030,6 +8030,7 @@ dimensive
 dookit
 daemonic
 delicatessens
+designee
 donkeyback
 dulcet
 dionaea
@@ -17058,7 +17059,6 @@ discriminately
 dissents
 deadly
 dill
-designee
 dampish
 discommendably
 deafforestation
