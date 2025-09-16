@@ -3126,7 +3126,6 @@ capel
 chiastoneury
 capelan
 capelans
-capelin
 cornette
 capelins
 capella
@@ -18971,6 +18970,7 @@ carriageless
 collabent
 collaborates
 cataplasis
+capelin
 collaborating
 computerese
 collaborationists
