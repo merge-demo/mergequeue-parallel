@@ -6172,7 +6172,6 @@ ambulances
 agricolous
 anticonventionalism
 amoeba
-akhund
 anamorphote
 ametrometer
 agriculturists
@@ -17707,6 +17706,7 @@ agent
 australic
 anhemitonic
 agaz
+akhund
 assertory
 apportionments
 anastatic
