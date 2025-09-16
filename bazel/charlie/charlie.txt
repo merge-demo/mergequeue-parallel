@@ -880,7 +880,6 @@ cajun
 culminates
 cajuput
 chemoses
-crucilly
 catharan
 cajuputene
 chenar
@@ -4809,6 +4808,7 @@ correctiveness
 copals
 crumminess
 chars
+crucilly
 comicocynical
 carriages
 carriagesmith
