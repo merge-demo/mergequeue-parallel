@@ -3742,6 +3742,7 @@ chestily
 conrail
 cowards
 carmalum
+connectible
 carbodynamite
 carbohemoglobin
 calamodendron
@@ -22620,7 +22621,6 @@ connectedly
 connecter
 confabbed
 chiaroscurist
-connectible
 connectibly
 chamferer
 connecticut
