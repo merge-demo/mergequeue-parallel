@@ -10542,7 +10542,6 @@ chileans
 chylemia
 chiles
 crepier
-chyles
 chiliadron
 chiliahedron
 carwashes
@@ -31540,6 +31539,7 @@ cantharidating
 cleveites
 conjobble
 cyriological
+chyles
 cycliae
 curstful
 curt
