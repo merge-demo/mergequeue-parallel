@@ -20324,7 +20324,6 @@ curiologic
 commonsensically
 chloroacetate
 commonweals
-commorient
 commorse
 commorth
 commot
@@ -26916,6 +26915,7 @@ columbotitanate
 colorable
 chevaux
 cobstone
+commorient
 countermarching
 call
 complexification
