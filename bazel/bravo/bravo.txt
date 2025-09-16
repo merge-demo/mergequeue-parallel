@@ -7780,6 +7780,7 @@ baccalaureates
 beshrouds
 bugara
 brooklyn
+bumble
 bazaars
 bicephalous
 bogman
@@ -8476,7 +8477,6 @@ bardy
 bylined
 bunging
 botonee
-bumble
 bemusk
 bilingually
 balks
