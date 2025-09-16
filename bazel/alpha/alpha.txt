@@ -4928,6 +4928,7 @@ albruna
 allantoidal
 aerotonometric
 aeruginous
+animikite
 aerugo
 aerugos
 aes
@@ -13010,7 +13011,6 @@ animi
 anabiosis
 animikean
 akiskemikinik
-animikite
 archaising
 agade
 animine
