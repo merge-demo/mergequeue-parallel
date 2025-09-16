@@ -2487,7 +2487,6 @@ arctomys
 acoumetry
 adjection
 acouometer
-acoup
 acousticon
 acousticophobia
 antihalation
@@ -13870,6 +13869,7 @@ affronting
 arrhythmia
 anomalurus
 aldamin
+acoup
 aht
 antebrachial
 aleuronat
