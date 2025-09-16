@@ -2299,6 +2299,7 @@ bizet
 bauxites
 bestseller
 beanball
+brushier
 botryomyces
 budgerygah
 betterness
@@ -16372,7 +16373,6 @@ boorishly
 bellwine
 bollixed
 brushful
-brushier
 bunkoed
 bloodshotten
 bendys

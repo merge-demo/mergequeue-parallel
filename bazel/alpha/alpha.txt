@@ -3145,7 +3145,6 @@ autophotograph
 aldolases
 apx
 anacamptically
-anomurous
 adactylous
 automatograph
 adad
@@ -24849,6 +24848,7 @@ aeolina
 acknown
 ayenbite
 attractableness
+anomurous
 aromas
 antinoness
 aponeurotome
