@@ -6859,7 +6859,6 @@ belam
 beslaver
 balmony
 beshadowed
-beauxite
 briolette
 bugeyed
 biplosive
@@ -8144,6 +8143,7 @@ bendable
 brontophobia
 banishes
 buffalos
+beauxite
 baldpate
 bienly
 blockheadedness
