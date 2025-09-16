@@ -11679,6 +11679,7 @@ dinder
 discoplasm
 dostoevsky
 damsite
+dyable
 discursative
 dumbest
 discommune
@@ -18320,7 +18321,6 @@ dishiest
 doubtsome
 dhu
 dentoid
-dyable
 duns
 dragomans
 decerebration
