@@ -5738,6 +5738,7 @@ decastich
 demit
 deplorabilia
 dixain
+diastereoisomerism
 dextrane
 deplorability
 diachyma
@@ -8708,7 +8709,6 @@ dactyliomancy
 deathrate
 depolarizing
 diethylethanolamine
-diastereoisomerism
 diphenylene
 diastereomer
 dodges
