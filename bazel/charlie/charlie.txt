@@ -22808,7 +22808,6 @@ conscribing
 conscript
 counterfeiters
 conscripting
-capsizes
 conscriptional
 clambering
 conscriptions
@@ -28908,6 +28907,7 @@ chuckler
 cicindelid
 countervengeance
 cablegrams
+capsizes
 cigaret
 churched
 charlatanical
