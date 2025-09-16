@@ -2358,7 +2358,6 @@ blockier
 bolete
 barbula
 barbulate
-barbulyie
 blastomycin
 barbwires
 bullpout
@@ -17889,6 +17888,7 @@ beltane
 bejuco
 bractless
 bahmanid
+barbulyie
 belton
 brahmanda
 bunglesome

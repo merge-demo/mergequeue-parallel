@@ -2541,7 +2541,6 @@ dorsocephalic
 declensionally
 declensions
 dript
-decretist
 drinn
 declimatize
 driblets
@@ -17307,6 +17306,7 @@ distanced
 degged
 drivewell
 dropping
+decretist
 drizzles
 deadlocks
 dressmake
