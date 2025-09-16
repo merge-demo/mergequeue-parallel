@@ -602,6 +602,7 @@ dicasteries
 disfavouring
 disjointedness
 dominated
+disintegrations
 damfool
 div
 dwelled
@@ -15294,7 +15295,6 @@ dandriffy
 debuggers
 dewooling
 dimna
-disintegrations
 defunctness
 dissemilative
 distributable
