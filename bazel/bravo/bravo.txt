@@ -2860,6 +2860,7 @@ buddage
 brechans
 basyl
 bugaboo
+bunjara
 bannermen
 barrage
 barnmen
@@ -10062,7 +10063,6 @@ befrets
 bursas
 bassoons
 bescorching
-bunjara
 barabara
 bepity
 bowge
