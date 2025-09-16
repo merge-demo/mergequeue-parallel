@@ -5684,6 +5684,7 @@ catchwork
 cabasset
 catclaw
 cate
+cityful
 coronets
 catechesis
 congenator
@@ -9505,7 +9506,6 @@ clot
 capos
 checkhook
 checky
-cityful
 circularising
 chondroxiphoid
 cacochymia
