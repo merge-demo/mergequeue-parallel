@@ -1891,7 +1891,6 @@ cotterite
 constant
 centralness
 coyure
-camelopardus
 cloghad
 counterflashing
 castalia
@@ -18481,6 +18480,7 @@ cucullated
 clavicembali
 conclude
 canmaking
+camelopardus
 commutating
 componentry
 cognitional
