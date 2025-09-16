@@ -7943,7 +7943,6 @@ dewflower
 distantly
 doormaking
 doxographer
-disjoin
 degrease
 discommon
 diffidently
@@ -11698,6 +11697,7 @@ discost
 digitally
 discotheque
 disengirdle
+disjoin
 diagramed
 dermatographia
 discountenances
