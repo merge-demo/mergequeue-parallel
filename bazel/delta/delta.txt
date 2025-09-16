@@ -6714,6 +6714,7 @@ diacoustics
 denitrificant
 deathroot
 divulse
+drosophilidae
 drunkard
 disorderliness
 darnex
@@ -9268,7 +9269,6 @@ disparately
 dismerit
 depender
 devolve
-drosophilidae
 delphacidae
 decreptitude
 debarkation
