@@ -8619,7 +8619,6 @@ bounceable
 berairou
 buncoed
 bebar
-bazars
 bebization
 blackpot
 brochette
@@ -11398,6 +11397,7 @@ browbands
 blued
 bottlenest
 blahlaut
+bazars
 baht
 blaseness
 birminghamize
