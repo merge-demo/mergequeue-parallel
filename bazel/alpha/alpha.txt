@@ -15160,7 +15160,6 @@ antihero
 azulejo
 antihierarchy
 aidless
-admeasured
 archontic
 athenee
 antihierarchies
@@ -21224,6 +21223,7 @@ asyndetons
 artesonado
 asinego
 adorning
+admeasured
 autist
 asynergy
 asynergia
