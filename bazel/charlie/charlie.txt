@@ -22830,7 +22830,6 @@ cabers
 consecrator
 cardosanto
 consecratory
-consectary
 cataloes
 consecutive
 curtailment
@@ -29111,6 +29110,7 @@ chantlate
 cryophile
 chemawinite
 cryophyllite
+consectary
 centric
 cryophyte
 criophore
