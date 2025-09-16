@@ -3138,6 +3138,7 @@ crepance
 capercaillie
 cleansing
 capercut
+cytozymase
 combustibles
 citify
 caperers
@@ -18713,7 +18714,6 @@ concubinehood
 circuting
 coiny
 costiform
-cytozymase
 coining
 coinmate
 coinmates
