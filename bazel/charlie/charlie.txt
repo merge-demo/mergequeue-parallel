@@ -10682,6 +10682,7 @@ chimeric
 calci
 cavies
 caribou
+cerites
 cytoplasmic
 chimes
 chymes
@@ -11953,7 +11954,6 @@ choreographing
 capparid
 calculabilities
 crestfallenness
-cerites
 cohanim
 choreoid
 crocidolite

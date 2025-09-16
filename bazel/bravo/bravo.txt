@@ -4308,7 +4308,6 @@ beerbibber
 bursts
 becharmed
 broadloom
-bellic
 bellona
 breakaxe
 backrushes
@@ -9202,6 +9201,7 @@ baldrics
 built
 benzothiopyran
 bipetalous
+bellic
 bucciniform
 bibliographer
 brended
