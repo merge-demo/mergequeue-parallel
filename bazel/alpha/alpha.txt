@@ -8277,6 +8277,7 @@ aortostenosis
 alk
 alkahest
 asylabia
+avenger
 alkahestic
 agalaxy
 allopath
@@ -12690,7 +12691,6 @@ allays
 anglewise
 averrer
 anaretic
-avenger
 anglian
 anglic
 anglicanisms
