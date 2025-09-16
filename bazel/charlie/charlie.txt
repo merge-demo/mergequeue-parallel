@@ -11479,7 +11479,6 @@ cyclitols
 choicely
 counseled
 campodeidae
-choiceness
 caryatides
 cableway
 choil
@@ -28622,6 +28621,7 @@ crena
 cough
 crenae
 clival
+choiceness
 couveuse
 crenallation
 cuchulainn
