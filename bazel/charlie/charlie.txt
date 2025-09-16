@@ -3688,7 +3688,6 @@ caravanserai
 chromoxylography
 caravanserial
 companeros
-caravel
 confuse
 caravels
 cosen
@@ -4027,6 +4026,7 @@ confirmedness
 cardianesthesia
 chattack
 considering
+caravel
 chincherinchee
 cardianeuria
 calamiform
