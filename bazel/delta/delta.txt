@@ -3590,7 +3590,6 @@ discernably
 deglazed
 diopters
 duckbills
-duckling
 dubbing
 deglycerin
 deglory
@@ -17940,6 +17939,7 @@ datable
 droyl
 duer
 downsome
+duckling
 disjoins
 duessa
 delayingly

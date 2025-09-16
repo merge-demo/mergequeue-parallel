@@ -11164,7 +11164,6 @@ aphaniptera
 ameen
 amphipod
 apostolicism
-avidious
 amphiprostylar
 antiusurious
 andabatarian
@@ -22875,6 +22874,7 @@ akuammine
 allod
 attach
 adrowse
+avidious
 agonothete
 attachableness
 argyria
