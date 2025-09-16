@@ -7378,6 +7378,7 @@ chipling
 cyclostylar
 cephalometric
 cephalonasal
+chiastoneurous
 christianomastix
 cephalopathy
 cephalophyma
@@ -10264,7 +10265,6 @@ chiastoneural
 cubanize
 coati
 cyclistic
-chiastoneurous
 couteaux
 chiaus
 conoidical
