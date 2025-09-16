@@ -3074,7 +3074,6 @@ aphis
 acaroid
 anastomotic
 ashlar
-alveole
 anthropophaginian
 alpist
 actuation
@@ -8379,6 +8378,7 @@ awreck
 alkyd
 agone
 alkies
+alveole
 assessable
 alphabetizers
 asmoke
