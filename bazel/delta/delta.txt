@@ -1447,7 +1447,6 @@ dawts
 damages
 disbarred
 dismembers
-doublehanded
 daze
 derotrematous
 discerptibility
@@ -9045,6 +9044,7 @@ deify
 dinucleotide
 dasyproctine
 dunned
+doublehanded
 dezinc
 dodecuplet
 dicodeine
