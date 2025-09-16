@@ -140,6 +140,7 @@ dola
 disrump
 dipcoat
 dyophone
+deepest
 daddles
 dowdyism
 daffodillies
@@ -2842,7 +2843,6 @@ depriver
 disposure
 diplodocuses
 disgenius
-deepest
 dys
 denticles
 dictyopteris
