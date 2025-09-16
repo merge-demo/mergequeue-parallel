@@ -1029,6 +1029,7 @@ dialin
 draffsack
 distains
 darkmans
+dewy
 disannexation
 desuete
 dineutron
@@ -3868,7 +3869,6 @@ driftwood
 dissect
 dekagram
 deerdog
-dewy
 damone
 denouncers
 deityship
