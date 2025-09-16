@@ -11785,7 +11785,6 @@ chaffingly
 chondromucoid
 chondropharyngeus
 chunderous
-chondroplasty
 crystall
 consonantally
 copes
@@ -13587,6 +13586,7 @@ cymbalon
 cymbel
 cymbid
 clochard
+chondroplasty
 coworker
 coanimate
 cymbidium
