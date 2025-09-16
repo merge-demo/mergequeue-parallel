@@ -9827,6 +9827,7 @@ ambassade
 alkynes
 alerion
 archfiend
+ananter
 acetylglycin
 ambassadors
 ahura
@@ -22226,7 +22227,6 @@ anniversaries
 actify
 arcturia
 ananas
-ananter
 allamotti
 agenda
 asteriskless
