@@ -17728,6 +17728,7 @@ cyrtolite
 cocin
 colluders
 cocinera
+copesmate
 cocircular
 cycadeoid
 cultrirostres
@@ -21624,7 +21625,6 @@ coercer
 cofinal
 concurs
 christologist
-copesmate
 compulsorily
 concurso
 cosmographer
