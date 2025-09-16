@@ -2810,6 +2810,7 @@ crozes
 canoe
 chinafish
 colius
+consistorian
 canoeist
 canoeload
 cardiogenesis
@@ -23013,7 +23014,6 @@ consisting
 corydon
 corrigible
 commencing
-consistorian
 consistories
 consertal
 cookdom
