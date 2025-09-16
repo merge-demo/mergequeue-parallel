@@ -15297,7 +15297,6 @@ antimaniac
 amylums
 antiprogressive
 androlepsy
-asslike
 antimason
 anticonformity
 antimasque
@@ -20357,6 +20356,7 @@ apiolin
 aelurophobia
 artemisium
 anchoretical
+asslike
 antiskidding
 abusedly
 antimodernness
