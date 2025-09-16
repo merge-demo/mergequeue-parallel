@@ -8691,7 +8691,6 @@ downweigh
 defeminised
 diaspore
 denuders
-deoxyribonuclease
 dovekey
 diastalsis
 diastases
@@ -11046,6 +11045,7 @@ dire
 discongruity
 durindana
 dacron
+deoxyribonuclease
 degranulation
 disagreements
 distally
