@@ -7310,6 +7310,7 @@ bego
 beswinge
 bombous
 bootikins
+brainy
 boluses
 banishments
 betoss
@@ -15931,7 +15932,6 @@ brindle
 barythymia
 basifiers
 boubous
-brainy
 bludgeoning
 biflagelate
 bribeless
