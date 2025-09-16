@@ -5246,6 +5246,7 @@ begazing
 borderer
 bedabbling
 bridesmaiding
+brominize
 blankbook
 begetter
 bronzed
@@ -16999,7 +17000,6 @@ beforetime
 buttling
 baetylus
 byronic
-brominize
 bigamistic
 bitake
 babylonite
