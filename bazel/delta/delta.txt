@@ -3287,7 +3287,6 @@ destiny
 domesticable
 dynamometry
 digestif
-defoliant
 datiscoside
 discloister
 daemonurgy
@@ -18274,6 +18273,7 @@ drumly
 debussed
 disauthentic
 disapprobative
+defoliant
 dramaturgist
 draffs
 divot
