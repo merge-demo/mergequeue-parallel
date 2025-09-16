@@ -3531,7 +3531,6 @@ capturable
 catechized
 collator
 capture
-captured
 captures
 capturing
 capuan
@@ -23138,6 +23137,7 @@ constabular
 constabularies
 comminute
 constantan
+captured
 cruor
 constantine
 constantinian
