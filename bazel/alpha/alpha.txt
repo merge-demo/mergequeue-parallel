@@ -6686,7 +6686,6 @@ airn
 anthropomorphical
 aloadae
 airplay
-aurums
 anacardiaceous
 airplaner
 airplanist
@@ -14470,6 +14469,7 @@ arisaid
 ascertainment
 antianaphylaxis
 anakinetomer
+aurums
 antianarchic
 angioplany
 antiannexationist

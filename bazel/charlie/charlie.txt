@@ -988,7 +988,6 @@ compacting
 calathiform
 calathiscus
 concionator
-calathos
 crapshooter
 conveyances
 craters
@@ -31648,6 +31647,7 @@ colures
 cruciferous
 carbolized
 crossbreeds
+calathos
 cuscuta
 convivio
 choiciest
