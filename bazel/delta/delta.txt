@@ -9363,6 +9363,7 @@ duplexes
 demargarinate
 differenced
 differences
+dioxide
 dryad
 drawnness
 deepwater
@@ -9683,7 +9684,6 @@ dissight
 dipoles
 dihydronicotine
 discomfortably
-dioxide
 dihydrotachysterol
 dhaks
 dihydroxyacetone
