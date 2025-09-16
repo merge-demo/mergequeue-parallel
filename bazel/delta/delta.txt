@@ -2711,6 +2711,7 @@ depart
 defamous
 devonshire
 doublure
+distortable
 decore
 docklands
 decorist
@@ -3232,7 +3233,6 @@ defeatment
 deleteriously
 donations
 depreciator
-distortable
 dentololabial
 defilingly
 definably
