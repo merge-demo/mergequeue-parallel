@@ -7524,6 +7524,7 @@ alcoholdom
 abbrev
 apoquinamine
 anywheres
+alike
 adenohypophysial
 authoritativeness
 alcoholemia
@@ -12201,7 +12202,6 @@ acervuli
 androcephalous
 amorettos
 androcephalum
-alike
 arteriostrepsis
 androclclinia
 agatine
