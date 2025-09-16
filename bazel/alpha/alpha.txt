@@ -8828,7 +8828,6 @@ allophanates
 antefurca
 atypicality
 acredula
-arrow
 archdemon
 arrythmia
 angiostenosis
@@ -16630,6 +16629,7 @@ antiphoner
 allogenically
 aggresses
 accidentals
+arrow
 anteaters
 abjudicating
 aphanitic
