@@ -5812,6 +5812,7 @@ dainties
 diaxial
 distalwards
 decagonal
+dromograph
 deportment
 desmotropism
 dacker
@@ -14529,7 +14530,6 @@ dividend
 dividendus
 divident
 danubian
-dromograph
 daubreite
 dividivis
 divinising
