@@ -1825,6 +1825,7 @@ cambio
 cementa
 cambisms
 complimentalness
+chlamyd
 cerebriform
 carotidal
 crampet
@@ -11151,7 +11152,6 @@ chizzel
 chkfile
 chondrite
 churlishly
-chlamyd
 chlamydate
 chlamydeous
 chlamydobacteriaceous

@@ -2086,6 +2086,7 @@ dummy
 destour
 dauntlessness
 defaced
+dasht
 datchas
 disproportionally
 decal
@@ -2803,7 +2804,6 @@ decastellate
 demist
 draggle
 decrypt
-dasht
 dasyus
 decrowning
 detenus
