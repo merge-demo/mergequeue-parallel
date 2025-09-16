@@ -13182,6 +13182,7 @@ borowolframic
 borrachio
 bachichi
 bauge
+badgeless
 bisulc
 bargello
 bundt
@@ -16122,7 +16123,6 @@ browbeating
 bathmotropism
 baiter
 browet
-badgeless
 brander
 becrimed
 blastular
