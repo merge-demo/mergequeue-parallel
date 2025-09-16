@@ -24340,7 +24340,6 @@ confucianist
 corncutting
 coarrange
 cookeite
-cooker
 cookeries
 cookhouse
 currawang
@@ -26286,6 +26285,7 @@ coccygomorphic
 cystomorphous
 costumey
 costumer
+cooker
 costumes
 costumic
 cabstand
