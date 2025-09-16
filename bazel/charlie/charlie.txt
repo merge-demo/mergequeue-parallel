@@ -3007,6 +3007,7 @@ churner
 canto
 confederatism
 cortege
+capiteaux
 convokes
 colander
 cantonal
@@ -4253,7 +4254,6 @@ carfare
 carfares
 carfloat
 coater
-capiteaux
 caramelizes
 centroidal
 carfuffling
