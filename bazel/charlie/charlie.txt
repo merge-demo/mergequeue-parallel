@@ -4412,7 +4412,6 @@ carlylian
 consignation
 carlings
 carlino
-carlins
 clithe
 carpology
 coccigenic
@@ -29756,6 +29755,7 @@ carpellate
 caesural
 cropless
 conjugately
+carlins
 cincinnatian
 cropman
 catholicity
