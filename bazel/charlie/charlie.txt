@@ -1099,7 +1099,6 @@ chromatosphere
 calcite
 cuppers
 calcitic
-calcitrant
 costumery
 calcitrate
 cupeller
@@ -11712,6 +11711,7 @@ commissionary
 chondral
 chondrarsenite
 cholesteric
+calcitrant
 chondre
 chondrenchyma
 caramelin
