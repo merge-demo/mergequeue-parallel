@@ -6028,7 +6028,6 @@ ben
 biostatistics
 benacus
 breadboard
-baizes
 benami
 bunton
 backscatter
@@ -17126,6 +17125,7 @@ balsamical
 benedictional
 bromine
 bathylith
+baizes
 battailant
 bullrush
 bulls

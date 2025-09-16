@@ -11496,6 +11496,7 @@ choirmasters
 cornaceous
 charthouse
 classmen
+capitular
 calumnies
 costless
 chokeberry
@@ -23675,7 +23676,6 @@ contortion
 contortional
 contortionist
 cyril
-capitular
 cubomancy
 comforts
 contorts
