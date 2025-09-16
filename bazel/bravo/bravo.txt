@@ -7686,6 +7686,7 @@ bullan
 brocard
 bitriseptate
 burntly
+burr
 bhindi
 bucketmaking
 bhishti
@@ -15599,7 +15600,6 @@ blastomycetes
 blown
 beltis
 bewildered
-burr
 bepuzzlement
 broadish
 babool

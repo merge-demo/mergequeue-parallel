@@ -7534,7 +7534,6 @@ aspirins
 aphorised
 alcoate
 autodiagnosis
-antepyretic
 ambigenous
 alcoholist
 aeneous
@@ -19869,6 +19868,7 @@ abiogenist
 antipatriarchal
 antimoralism
 aularian
+antepyretic
 andrographolide
 armpiece
 astrolater
