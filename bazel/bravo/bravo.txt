@@ -2113,7 +2113,6 @@ birthrights
 braccae
 brownness
 booksellerish
-booms
 bosch
 brouillon
 bay
@@ -9137,6 +9136,7 @@ bardiness
 bespreads
 beguilingness
 banksides
+booms
 biotins
 beefishness
 beefhead
