@@ -13160,7 +13160,6 @@ didactive
 detonates
 desynonymization
 dispersers
-disperses
 dentilabial
 dassie
 daces
@@ -14307,6 +14306,7 @@ duds
 ditriglyphic
 distend
 delating
+disperses
 dragropes
 duotones
 decolorized
