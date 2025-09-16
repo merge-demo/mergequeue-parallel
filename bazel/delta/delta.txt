@@ -3586,6 +3586,7 @@ douzeper
 dotriacontane
 def
 devices
+dynamoelectric
 deglamorizing
 disrespectfulness
 discernably
@@ -14977,7 +14978,6 @@ drawstop
 doddie
 dodecade
 dallas
-dynamoelectric
 dodecafid
 dodecahedral
 doctorate
