@@ -2627,6 +2627,7 @@ agnel
 autotoxicosis
 acrylics
 arietta
+appointer
 auriculoid
 autolithography
 agonistically
@@ -17680,7 +17681,6 @@ appals
 antistatic
 appointees
 atopy
-appointer
 agapornis
 appointers
 analysand
