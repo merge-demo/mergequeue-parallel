@@ -19035,7 +19035,6 @@ collation
 collations
 curricular
 cesti
-collatitious
 cloine
 crutchlike
 collative
@@ -19876,6 +19875,7 @@ catapulting
 centurion
 ceraunics
 cubital
+collatitious
 captious
 come
 comebacker
