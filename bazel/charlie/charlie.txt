@@ -2253,7 +2253,6 @@ chlorapatite
 concertgoer
 cetiosaurus
 canaigre
-canaille
 canailles
 cymoid
 chargeship
@@ -30751,6 +30750,7 @@ correctional
 chloroauric
 creoleize
 cuitling
+canaille
 cuittikin
 chuntering
 codictatorship
