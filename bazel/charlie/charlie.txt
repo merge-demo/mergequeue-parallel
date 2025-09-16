@@ -7929,7 +7929,6 @@ cetorhinus
 cetotolite
 complaintful
 catheter
-cheeseboard
 cetraric
 caresser
 celeriacs
@@ -27203,6 +27202,7 @@ counterweight
 counterweights
 counterwheel
 counterwilling
+cheeseboard
 counterwitness
 chaiseless
 cataclysmically
