@@ -6913,7 +6913,6 @@ desolation
 darkness
 desolator
 dryhouse
-disobligatory
 discolors
 dahabiyeh
 demulceate
@@ -17882,6 +17881,7 @@ dullsome
 dude
 denervate
 delete
+disobligatory
 dabb
 dissuader
 drafting
