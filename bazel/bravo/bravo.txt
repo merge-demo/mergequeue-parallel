@@ -433,7 +433,6 @@ behaviorism
 backpedal
 backpedaling
 backpiece
-bolita
 bimesters
 backplane
 brachiostrophosis
@@ -9137,6 +9136,7 @@ bromines
 bethabara
 bilgewater
 bipalmate
+bolita
 beauteousness
 bodacious
 brimfulness
