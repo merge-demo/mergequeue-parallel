@@ -3648,7 +3648,6 @@ batoon
 barnbrack
 biconjugate
 backsettler
-batophobia
 benzdioxazine
 balloonery
 bepierce
@@ -13415,6 +13414,7 @@ bithynian
 bothriocephalus
 brosimum
 bothrium
+batophobia
 bries
 bothrodendron
 brining
