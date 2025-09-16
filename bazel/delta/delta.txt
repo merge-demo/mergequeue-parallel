@@ -4566,6 +4566,7 @@ demigardebras
 decentres
 dunbird
 detroiter
+desugarize
 doting
 dicolic
 disclosing
@@ -9779,7 +9780,6 @@ disregardful
 dimethyl
 dare
 deceive
-desugarize
 didodecahedral
 dilatedness
 dichorisandra
