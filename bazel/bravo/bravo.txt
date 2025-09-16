@@ -12628,6 +12628,7 @@ bulged
 basinlike
 bonxie
 blastostyle
+blancs
 barracoon
 boucher
 bistriazole
@@ -15109,7 +15110,6 @@ bribegiver
 bribers
 bicentennials
 bedeaf
-blancs
 barbiturate
 brawly
 backslash
