@@ -13042,7 +13042,6 @@ anientise
 achtelthaler
 alacha
 ager
-achromatocyte
 animosity
 animoso
 aftosas
@@ -18661,6 +18660,7 @@ aerography
 albania
 archegonial
 amative
+achromatocyte
 archegosaurus
 anorak
 atavistically
