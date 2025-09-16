@@ -1563,7 +1563,6 @@ deflower
 diosmosed
 diagenetic
 deadheartedness
-deady
 disagreeability
 dipterocarpous
 decoic
@@ -1739,6 +1738,7 @@ dysenteric
 decumaria
 deathlikeness
 dundees
+deady
 dumble
 derogation
 disaccord
