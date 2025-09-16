@@ -5120,6 +5120,7 @@ bloodthirstiness
 bullberry
 baubling
 birler
+breastplates
 balletomania
 bezels
 bainite
@@ -14885,7 +14886,6 @@ boozers
 barleybreak
 basketing
 benzamido
-breastplates
 basidorsal
 breastplow
 bulking
