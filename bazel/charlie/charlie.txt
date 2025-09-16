@@ -6245,6 +6245,7 @@ chucks
 caup
 caupo
 candelas
+copalms
 catochus
 coheaded
 cumberlandite
@@ -20826,7 +20827,6 @@ carburan
 codicilic
 coryphaenoid
 civilizedness
-copalms
 cytode
 complicates
 complicative
