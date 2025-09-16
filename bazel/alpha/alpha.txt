@@ -9753,6 +9753,7 @@ amatembu
 attaint
 alloquial
 announcements
+ambit
 amassment
 areaways
 aquiculturist
@@ -9894,7 +9895,6 @@ ambisinister
 accessions
 antimetathesis
 amblypodous
-ambit
 ambital
 autographing
 anisole
