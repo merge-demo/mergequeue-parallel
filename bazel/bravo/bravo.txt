@@ -12070,7 +12070,6 @@ ballgowns
 brinkmanship
 brunellia
 brocading
-boatmaster
 bradycauma
 bulbilla
 boites
@@ -15335,6 +15334,7 @@ birefraction
 bixa
 bono
 beflout
+boatmaster
 benetted
 bifurcations
 boxthorns
