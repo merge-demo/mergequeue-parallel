@@ -12987,6 +12987,7 @@ cleeky
 catamnesis
 cotty
 corella
+coleopteron
 campanulaceae
 clamation
 conspirer
@@ -18869,7 +18870,6 @@ cannelated
 coleopterist
 coleopterology
 catteries
-coleopteron
 coleoptilum
 cryptoxanthin
 comptrollers

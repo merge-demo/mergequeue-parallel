@@ -630,6 +630,7 @@ backen
 brilliants
 birdcages
 baraka
+barytosulphate
 bullated
 barracked
 bacteriolyze
@@ -6708,7 +6709,6 @@ brantness
 beaut
 bulletmaker
 buhls
-barytosulphate
 badian
 blowbys
 basilissa
