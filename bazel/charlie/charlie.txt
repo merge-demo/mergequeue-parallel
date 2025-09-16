@@ -5420,7 +5420,6 @@ casuistess
 conchobor
 cutaneal
 cps
-casuistically
 cyclopedia
 conductances
 cellar
@@ -24626,6 +24625,7 @@ copiosity
 copious
 copiousness
 copyread
+casuistically
 coarsest
 checkweighmen
 copyreader
