@@ -11165,6 +11165,7 @@ acidness
 ains
 aphaniptera
 ameen
+aftermast
 amphipod
 apostolicism
 amphiprostylar
@@ -16632,7 +16633,6 @@ algarsyf
 antiphoner
 allogenically
 aggresses
-aftermast
 accidentals
 anteaters
 abjudicating
