@@ -25069,6 +25069,7 @@ cooperancy
 cueball
 colophonian
 corema
+cipherdom
 conglutinated
 coremaking
 cricketing
@@ -26961,7 +26962,6 @@ countersuggestion
 counterparry
 counterpart
 cerebroid
-cipherdom
 culpa
 conjugable
 chartae
