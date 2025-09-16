@@ -7489,7 +7489,6 @@ berets
 bunchiest
 bewailers
 biding
-belimousined
 blowpit
 basnat
 bandolier
@@ -13952,6 +13951,7 @@ boxmaker
 boxman
 bickiron
 boxroom
+belimousined
 bromatium
 brame
 barwise
