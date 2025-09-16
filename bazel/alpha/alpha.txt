@@ -2587,7 +2587,6 @@ attent
 antislickens
 affords
 alismoid
-advantaged
 amaister
 acerates
 apprenticeship
@@ -11324,6 +11323,7 @@ archpriestship
 antigod
 anticking
 attendants
+advantaged
 alterations
 acrostical
 apiphobia
