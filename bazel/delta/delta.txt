@@ -11148,6 +11148,7 @@ disarmed
 dermobranchiata
 drollness
 daturas
+drolls
 disseated
 disarms
 dishonouring
@@ -17357,7 +17358,6 @@ drollishness
 dunkled
 denitrification
 dimin
-drolls
 drome
 dromedarian
 decciares
