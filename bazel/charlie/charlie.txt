@@ -8095,7 +8095,6 @@ chagga
 chagigah
 chagoma
 concubitant
-commiphora
 chagrining
 chagrinning
 cambion
@@ -11550,6 +11549,7 @@ crafting
 calciphile
 cleavingly
 chold
+commiphora
 choleate
 cholecyanine
 couchee
