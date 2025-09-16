@@ -529,7 +529,6 @@ disambiguations
 debosh
 determinist
 dalliances
-dallied
 discomforter
 denaturalize
 dopesters
@@ -14743,6 +14742,7 @@ djersa
 dooputty
 discute
 djin
+dallied
 disrespondency
 describe
 disdainfully
