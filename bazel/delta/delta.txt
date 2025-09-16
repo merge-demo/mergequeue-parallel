@@ -11842,6 +11842,7 @@ deferrals
 dislodges
 decemberly
 diacodion
+doric
 docquet
 demele
 dyscrinism
@@ -15780,7 +15781,6 @@ despondency
 dartrose
 didrachma
 decollator
-doric
 dopped
 detractiveness
 disaffect
