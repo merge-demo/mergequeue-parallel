@@ -667,7 +667,6 @@ bungles
 bacterized
 battalions
 barefacedly
-brisk
 batfowler
 brosot
 basos
@@ -13095,6 +13094,7 @@ bombylious
 basehearted
 baronnes
 barajillo
+brisk
 bangling
 bowlmaker
 blat
