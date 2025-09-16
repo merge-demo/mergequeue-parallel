@@ -7518,6 +7518,7 @@ barnacle
 bleater
 burele
 brakeages
+burrito
 bibliophage
 bedrivel
 breed
@@ -17615,7 +17616,6 @@ bosky
 basipterygoid
 breadless
 brazilette
-burrito
 besit
 boff
 bemartyr
