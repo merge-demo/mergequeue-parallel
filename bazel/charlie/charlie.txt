@@ -3234,7 +3234,6 @@ capitations
 cyclotomy
 carabineer
 cystenchyme
-capite
 catalog
 christianized
 cymric
@@ -11739,6 +11738,7 @@ chondroangioma
 credential
 chondroarthritis
 contestant
+capite
 chondroblastoma
 coniomycetes
 caliphates
