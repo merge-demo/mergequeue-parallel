@@ -10678,7 +10678,6 @@ alcoranist
 ammo
 amberjack
 amphibological
-anaglypton
 agency
 abhiseka
 ammocoetes
@@ -21375,6 +21374,7 @@ antiputrid
 abirritant
 adephaga
 allagophyllous
+anaglypton
 aspersively
 aspersoir
 anthonomus

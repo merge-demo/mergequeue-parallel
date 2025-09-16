@@ -10353,6 +10353,7 @@ draped
 delf
 discounter
 deoxidized
+donat
 drillmasters
 destigmatizing
 denudation
@@ -15585,7 +15586,6 @@ deadman
 decrescence
 dicyanodiamide
 deduit
-donat
 dodecylphenol
 donatee
 dentiloguy
