@@ -15124,7 +15124,6 @@ cacoepy
 clabbered
 clabbering
 clabbers
-cumbent
 clabularium
 convoking
 clach
@@ -28399,6 +28398,7 @@ cienaga
 coccid
 creamlaid
 coccobaccilli
+cumbent
 creamless
 creamlike
 creams
