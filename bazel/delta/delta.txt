@@ -3848,6 +3848,7 @@ disaccharidase
 disembarkations
 disprized
 donought
+dentalization
 dannemorite
 deathfully
 deirid
@@ -13770,7 +13771,6 @@ dissoul
 desultor
 deradenoncus
 dashee
-dentalization
 dysspermatism
 disstate
 dissuaded
