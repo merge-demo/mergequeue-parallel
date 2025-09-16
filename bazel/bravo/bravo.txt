@@ -1878,6 +1878,7 @@ bandidos
 blepharoncus
 bushie
 butterman
+byrewards
 bandied
 bilinear
 bandikai
@@ -4586,7 +4587,6 @@ bring
 bilberry
 bedecked
 bebannered
-byrewards
 bullrushes
 braies
 bens
