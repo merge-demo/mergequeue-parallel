@@ -15853,6 +15853,7 @@ cerealian
 cribrosity
 clearsighted
 coprostasia
+clinohedral
 chien
 caranga
 catnapper
@@ -16284,7 +16285,6 @@ cardiamorphia
 countryish
 chwana
 chlamydosporic
-clinohedral
 celeriac
 clinohedrite
 cytogenesis
