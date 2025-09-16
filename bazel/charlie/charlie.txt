@@ -6222,7 +6222,6 @@ crescence
 cravingly
 capa
 calcaneum
-cabbaged
 caulomic
 cacodyls
 curlicues
@@ -31086,6 +31085,7 @@ cundeamor
 cundum
 cundums
 cundurango
+cabbaged
 colibri
 cuneal
 cuneately
