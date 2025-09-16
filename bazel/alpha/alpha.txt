@@ -19859,7 +19859,6 @@ ammine
 armour
 anabolitic
 avalanched
-angelate
 adossed
 armourer
 abiogenist
@@ -21577,6 +21576,7 @@ assegais
 awheft
 antifouler
 alkane
+angelate
 agistator
 antisi
 aerotonometer
