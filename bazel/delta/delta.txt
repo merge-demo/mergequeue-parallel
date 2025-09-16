@@ -7405,6 +7405,7 @@ detestations
 dethronement
 diminute
 dethronements
+dronish
 dethrones
 disentangler
 dwight
@@ -17384,7 +17385,6 @@ dysgeogenous
 debar
 droningly
 degelatinize
-dronish
 droopt
 dronishness
 dronkelew
