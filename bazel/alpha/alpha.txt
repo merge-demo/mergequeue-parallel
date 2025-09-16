@@ -685,7 +685,6 @@ afebrile
 apophysate
 allegorising
 animadversion
-aigremore
 antiaesthetic
 aboulia
 antinomy
@@ -749,6 +748,7 @@ abreed
 anchylosing
 asyle
 abri
+aigremore
 abrico
 autostrada
 abridgable
