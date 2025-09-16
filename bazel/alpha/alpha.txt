@@ -1911,7 +1911,6 @@ amphidisk
 acetol
 acetometry
 accroachment
-affidavits
 abettors
 aleurites
 acetomorphin
@@ -3839,6 +3838,7 @@ adm
 agaonidae
 azilut
 adman
+affidavits
 admeasure
 antiquatedness
 admeasurer
