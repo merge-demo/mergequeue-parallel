@@ -7272,7 +7272,6 @@ bigly
 bugi
 beperiwigged
 bethesda
-biangular
 babirussa
 bethink
 battleground
@@ -13019,6 +13018,7 @@ balsamous
 bawrel
 boraginaceous
 borago
+biangular
 bugger
 bedamn
 bismuthate
