@@ -3068,7 +3068,6 @@ bellows
 biobibliographical
 bdellostomatidae
 baruria
-barvel
 bunion
 baleful
 brainwashing
@@ -11830,6 +11829,7 @@ behavioristic
 briony
 bardolphian
 bock
+barvel
 burbankian
 bioresearch
 brainfag
