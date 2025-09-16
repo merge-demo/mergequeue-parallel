@@ -3653,7 +3653,6 @@ bioplasm
 batoon
 barnbrack
 biconjugate
-backsettler
 benzdioxazine
 balloonery
 bepierce
@@ -6616,6 +6615,7 @@ bisulfate
 bortzes
 bhaga
 bergh
+backsettler
 brachiata
 boonless
 bashaw
