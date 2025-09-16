@@ -1177,6 +1177,7 @@ dispersively
 dezinced
 defensiveness
 diploconical
+defs
 deblocked
 dimera
 dade
@@ -10619,7 +10620,6 @@ domestic
 distributions
 documented
 decoctible
-defs
 diegesis
 demounts
 diploidic
