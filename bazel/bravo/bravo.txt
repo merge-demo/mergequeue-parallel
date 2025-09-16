@@ -17124,7 +17124,6 @@ benedictional
 bromine
 bathylith
 baizes
-battailant
 bullrush
 bulls
 boondoggler
@@ -17965,6 +17964,7 @@ beguiler
 businesses
 bodo
 beadeyes
+battailant
 bothrops
 bennel
 boners
