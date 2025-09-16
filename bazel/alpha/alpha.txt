@@ -4911,7 +4911,6 @@ angioscope
 arricciatos
 aerosteam
 antapex
-actinodrome
 agacant
 argo
 abscound
@@ -15578,6 +15577,7 @@ aortarctia
 antipathetical
 autotelism
 atophan
+actinodrome
 anteflexed
 antipathic
 antipathize
