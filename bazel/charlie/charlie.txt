@@ -2577,6 +2577,7 @@ candling
 candollea
 candolleaceae
 candolleaceous
+catalufas
 carangid
 chlorotrifluoromethane
 catalan
@@ -5558,7 +5559,6 @@ catalonian
 catalos
 catalufa
 capricornus
-catalufas
 catamarcan
 choufleur
 catamarenan
