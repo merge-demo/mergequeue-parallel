@@ -2251,6 +2251,7 @@ barbarized
 bewraying
 beleaping
 bona
+biternate
 bespew
 brunets
 bloodmonger
@@ -6379,7 +6380,6 @@ blastocyst
 bumpering
 backcloth
 belock
-biternate
 benzothiofuran
 benzotrichloride
 battercake
