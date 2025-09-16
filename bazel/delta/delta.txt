@@ -1644,7 +1644,6 @@ disassembler
 darting
 divestment
 deallocate
-deobstruct
 devotional
 discretive
 daunter
@@ -17178,6 +17177,7 @@ drierman
 dogma
 decennials
 deafnesses
+deobstruct
 dryfoot
 dribber
 dysacousis
