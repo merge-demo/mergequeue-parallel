@@ -4578,7 +4578,6 @@ datums
 drabbled
 daedalus
 dactylioglyphic
-dogmatician
 delegacy
 dotier
 demihagbut
@@ -5499,6 +5498,7 @@ deoxygenated
 depaints
 dilatation
 deoxyribonucleotide
+dogmatician
 disportive
 diaphragm
 dogtrot
