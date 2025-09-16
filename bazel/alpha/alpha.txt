@@ -15156,6 +15156,7 @@ antigravitation
 antigrowth
 affectible
 alcantarines
+arteriectasis
 allanites
 antiharmonist
 antihelix
@@ -19801,7 +19802,6 @@ armillaria
 aphrodisiomaniac
 annist
 adenopharyngitis
-arteriectasis
 armine
 arrogating
 arsenobenzene
