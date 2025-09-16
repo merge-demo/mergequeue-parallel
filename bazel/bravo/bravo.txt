@@ -839,6 +839,7 @@ bafflingness
 burnsides
 bonelike
 bumpily
+betorcin
 bedene
 barmbrack
 barragon
@@ -15641,7 +15642,6 @@ bejig
 bromethyl
 bedrip
 brob
-betorcin
 blowoffs
 brocaded
 bonzery
