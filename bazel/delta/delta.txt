@@ -708,6 +708,7 @@ dusio
 dolefish
 drynesses
 danaine
+deflocculate
 dragshoe
 dagassa
 digitised
@@ -3364,7 +3365,6 @@ downrightness
 dissatisfy
 debasement
 denegation
-deflocculate
 deflocculating
 disinclined
 digoneutism
