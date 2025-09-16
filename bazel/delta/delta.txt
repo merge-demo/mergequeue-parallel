@@ -348,7 +348,6 @@ demobs
 dermopterous
 dichlorodiphenyltrichloroethane
 dunstable
-daidlie
 dupatta
 dimeran
 dummyweed
@@ -18585,6 +18584,7 @@ dissimilitude
 dusky
 dapico
 dreamlet
+daidlie
 delirious
 destructions
 duskingtide
