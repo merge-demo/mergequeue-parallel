@@ -3093,6 +3093,7 @@ destructibleness
 disposability
 delegating
 desmoneme
+deifying
 dihydrite
 darneder
 distoclusion
@@ -10197,7 +10198,6 @@ daddle
 dorsoventrally
 duraquara
 dinghee
-deifying
 desition
 diachaenium
 drillability
