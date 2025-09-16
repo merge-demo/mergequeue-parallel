@@ -18581,7 +18581,6 @@ cowthwort
 calmer
 cohesible
 cleidoscapular
-cavernoma
 cohesively
 caretakers
 collat
@@ -27464,6 +27463,7 @@ covalences
 cloudland
 cracky
 covalency
+cavernoma
 carpoptosis
 coriander
 corallike
