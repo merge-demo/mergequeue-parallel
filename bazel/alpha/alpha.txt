@@ -8423,7 +8423,6 @@ allabuta
 anorexigenic
 antiphonal
 allachesthesia
-apatites
 allagite
 ailuroid
 autocamp
@@ -13761,6 +13760,7 @@ ardelia
 alvelos
 antefuture
 attune
+apatites
 alectoromorphae
 advantaging
 airman
