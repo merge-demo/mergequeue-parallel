@@ -1750,7 +1750,6 @@ amma
 astelic
 acephalina
 armpad
-abstractedly
 acensuador
 auroauric
 aluminum
@@ -7669,6 +7668,7 @@ alchemically
 aortosclerosis
 amphibia
 ale
+abstractedly
 adoze
 arctia
 abreuvoir
