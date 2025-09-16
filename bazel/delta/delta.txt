@@ -1795,7 +1795,6 @@ debarrance
 duryl
 debarring
 disserting
-disheartening
 diplanetic
 detubation
 duped
@@ -16510,6 +16509,7 @@ determinableness
 draughthouse
 dichotomousness
 decry
+disheartening
 destructor
 disgregated
 dolichocercic
