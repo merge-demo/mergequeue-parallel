@@ -5840,6 +5840,7 @@ disentrancing
 diamido
 dowel
 dressings
+daeva
 dibbers
 dozenths
 deposits
@@ -6775,7 +6776,6 @@ decapetalous
 diotocardia
 daimio
 demultiplex
-daeva
 demonlike
 dendroceratina
 drafts
