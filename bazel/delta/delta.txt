@@ -1550,7 +1550,6 @@ deadlier
 deaden
 droops
 drippings
-dices
 desertness
 deputising
 deadfalls
@@ -5941,6 +5940,7 @@ diversifications
 dindon
 duchesse
 depressurize
+dices
 dispossessed
 disentraced
 defeatee
