@@ -22332,7 +22332,6 @@ conglomerations
 closefisted
 conglomeritic
 conglutinant
-crossopodia
 codlings
 cheeps
 chirper
@@ -27100,6 +27099,7 @@ countersink
 colical
 chesboll
 countrywide
+crossopodia
 countersinks
 countersleight
 countersnarl
