@@ -16500,6 +16500,7 @@ celebrious
 chimane
 cursores
 clobber
+connarus
 cleeking
 clobbered
 clobbers
@@ -25830,7 +25831,6 @@ corruptress
 corrupts
 corsac
 corsacs
-connarus
 corsages
 corsairs
 corsak
