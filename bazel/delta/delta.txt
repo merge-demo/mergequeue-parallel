@@ -3641,6 +3641,7 @@ decimalisation
 degraduate
 degravate
 demipike
+dysrhythmia
 degreaser
 disarrange
 degreases
@@ -3986,7 +3987,6 @@ distributivity
 distritbutes
 delectus
 domiculture
-dysrhythmia
 disubstituted
 dramatically
 delegate
