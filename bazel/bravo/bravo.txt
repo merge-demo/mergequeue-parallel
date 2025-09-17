@@ -11339,7 +11339,6 @@ baffed
 bluntest
 bonds
 bedcap
-brim
 bullety
 blubberers
 balanism
@@ -15990,6 +15989,7 @@ bounteous
 bedrape
 baluster
 bidery
+brim
 boskiest
 bigeminal
 brookite
