@@ -8857,7 +8857,6 @@ allothogenic
 astrakanite
 allotypes
 archidiaconal
-annotates
 allotypy
 antipapist
 angelon
@@ -16377,6 +16376,7 @@ asaddle
 altica
 advertises
 aphelinus
+annotates
 assimilate
 athyridae
 axweed
