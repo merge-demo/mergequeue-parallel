@@ -6921,7 +6921,6 @@ acrotarsial
 akia
 acetylene
 akimbo
-akin
 anoxaemic
 andromonoecious
 anre
@@ -19209,6 +19208,7 @@ astacus
 amplexation
 anodine
 areostyle
+akin
 areotectonics
 aminodiphenyl
 afield
