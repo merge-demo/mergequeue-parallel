@@ -15166,7 +15166,6 @@ bellow
 bourses
 blooddrop
 bridecake
-bituminous
 bandana
 bulgarophil
 blackfire
@@ -16859,6 +16858,7 @@ buglosses
 bugong
 burrah
 balloonlike
+bituminous
 bugout
 bugs
 bugweed
