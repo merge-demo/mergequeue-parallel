@@ -5030,7 +5030,6 @@ bastonet
 bawds
 bowfin
 biogeography
-bewith
 befeather
 bodger
 buttermonger
@@ -10382,6 +10381,7 @@ braid
 biosynthesis
 bravado
 birdbrains
+bewith
 beadsman
 bragged
 buonamano
