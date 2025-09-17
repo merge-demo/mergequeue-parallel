@@ -14845,6 +14845,7 @@ anticosmetics
 anticouncil
 antenati
 anticourtier
+acetyltannin
 anticovenanter
 assishness
 allogenic
@@ -15943,7 +15944,6 @@ amenta
 anthecological
 adherence
 avitaminotic
-acetyltannin
 antimonial
 alcoholate
 antiscientific
