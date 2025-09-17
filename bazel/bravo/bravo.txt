@@ -8056,7 +8056,6 @@ bicursal
 broadgage
 bailments
 berggylt
-bicuspid
 bonging
 bulk
 bidactylous
@@ -9584,6 +9583,7 @@ bermudian
 bandwagons
 borate
 bisync
+bicuspid
 beadhouses
 birthland
 breeders
