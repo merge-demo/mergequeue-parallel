@@ -16154,7 +16154,6 @@ antitonic
 altschin
 antiferment
 achlorhydria
-atune
 aspire
 arithmetization
 antitoxic
@@ -16638,6 +16637,7 @@ aphilanthropy
 aphylly
 averring
 abidi
+atune
 awarding
 aigrette
 aloofe
