@@ -3531,7 +3531,6 @@ attempre
 antidiphtheritic
 approachless
 adenotome
-articulable
 acknow
 adenoviruses
 adeona
@@ -24314,6 +24313,7 @@ ariocarpus
 atopen
 autorotational
 autoroute
+articulable
 anuses
 autorrhaphy
 adeptship
