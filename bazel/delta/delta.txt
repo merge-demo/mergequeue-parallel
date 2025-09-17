@@ -6722,7 +6722,6 @@ demikindred
 diacoustics
 denitrificant
 deathroot
-divulse
 drosophilidae
 drunkard
 disorderliness
@@ -10404,6 +10403,7 @@ daisee
 dyotheletical
 diotic
 drouthy
+divulse
 dedolomitization
 debutantes
 deejays
