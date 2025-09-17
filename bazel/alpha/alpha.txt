@@ -562,6 +562,7 @@ adenoidectomies
 abnormalcies
 antiscians
 andromede
+ampheclexis
 asplenieae
 abnormalising
 abnormalize
@@ -20913,7 +20914,6 @@ azoxynaphthalene
 acknowledgedly
 anticorrosives
 accumulators
-ampheclexis
 ascite
 aceconitic
 ascitical
