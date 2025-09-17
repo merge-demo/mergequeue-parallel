@@ -1931,7 +1931,6 @@ barken
 bandoleer
 burlesquely
 backhoes
-bandoleers
 baloskionaceae
 bivalent
 bandolerismo
@@ -14177,6 +14176,7 @@ bluebottles
 boogie
 buccheros
 boutiques
+bandoleers
 backsight
 bloodstroke
 bradydactylia
