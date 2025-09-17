@@ -1855,6 +1855,7 @@ bathonian
 backstabber
 banderma
 bannerline
+balr
 bowlike
 brainish
 behatted
@@ -13864,7 +13865,6 @@ bdellometer
 bowheads
 beknighting
 bowie
-balr
 buchite
 bepreach
 beadiest
