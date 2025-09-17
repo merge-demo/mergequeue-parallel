@@ -5707,6 +5707,7 @@ burnettize
 ballerinas
 bifurcous
 bamboozled
+blotto
 bellacoola
 berglet
 bellatrix
@@ -11406,7 +11407,6 @@ blennophthalmia
 bluelines
 biometer
 beeves
-blotto
 burlesks
 bisaltae
 bedrail
