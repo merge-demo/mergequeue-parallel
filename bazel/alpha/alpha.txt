@@ -5082,6 +5082,7 @@ antiqua
 affeerer
 ankerite
 ampulated
+anthemideae
 agrias
 ameloblastic
 ascensor
@@ -22301,7 +22302,6 @@ anamnestically
 amateur
 aortas
 astrophysicists
-anthemideae
 astrophotographic
 astrophotometer
 astroscopy
