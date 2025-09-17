@@ -4004,7 +4004,6 @@ activized
 apotracheal
 adnexal
 adnominal
-abrazite
 adnominally
 arachnoidean
 antiprelatist
@@ -11851,6 +11850,7 @@ agba
 armagnac
 anarthrosis
 airlike
+abrazite
 anarthrously
 anarthrousness
 avionics
