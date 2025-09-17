@@ -13271,6 +13271,7 @@ buffbar
 broadest
 bogomil
 bosset
+berkelium
 barebacked
 bullfighting
 bonducnut
@@ -14363,7 +14364,6 @@ bimastic
 braininess
 bistephanic
 braining
-berkelium
 blobbing
 besweatered
 baken
