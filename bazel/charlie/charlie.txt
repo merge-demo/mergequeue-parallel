@@ -26733,7 +26733,6 @@ counterdance
 counterdeclaration
 cucumis
 counterdemonstrate
-counterdeputation
 counterdesire
 counterdevelopment
 calcareobituminous
@@ -31642,6 +31641,7 @@ cheeker
 conscripttion
 curvulate
 cuscohygrin
+counterdeputation
 cuscohygrine
 colures
 cruciferous
