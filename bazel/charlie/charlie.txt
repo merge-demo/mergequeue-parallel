@@ -16035,7 +16035,6 @@ caraculs
 clerus
 crinoid
 clethrionomys
-corodiastasis
 cleuks
 crinigerous
 curvedly
@@ -21022,6 +21021,7 @@ cysticercoidal
 clunisian
 compromiser
 cadilesker
+corodiastasis
 compromisers
 compromising
 compromisingly
