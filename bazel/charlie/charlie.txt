@@ -14591,7 +14591,6 @@ conchoidal
 cysticerci
 chondrule
 cylindrite
-convulsion
 covinous
 cysticercosis
 cysticerus
@@ -15549,6 +15548,7 @@ cuitle
 clasped
 cinevariety
 clasper
+convulsion
 claspers
 claspt
 coplanarity
