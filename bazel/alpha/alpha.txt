@@ -3319,6 +3319,7 @@ aerograph
 addititious
 additive
 acrogynous
+anamorphism
 apologias
 additivity
 akrabattine
@@ -5014,7 +5015,6 @@ accentual
 aetobatidae
 ancien
 aphoria
-anamorphism
 agrapha
 aetomorphae
 actinocarpic
