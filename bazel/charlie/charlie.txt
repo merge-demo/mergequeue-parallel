@@ -11817,7 +11817,6 @@ coaster
 copaljocote
 chooser
 choosers
-cryotherapy
 choosiness
 chadar
 chop
@@ -28451,6 +28450,7 @@ creatorhood
 creatotoxism
 columellae
 coffeehouses
+cryotherapy
 carroches
 caromed
 curiousest
