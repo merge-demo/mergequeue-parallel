@@ -6782,6 +6782,7 @@ accouchements
 amphimixis
 adores
 anticosine
+appar
 aith
 aithochroi
 acceleratingly
@@ -17382,7 +17383,6 @@ arginase
 antineuralgic
 abstentious
 appendicocaecostomy
-appar
 actinoidea
 apparat
 apiose
