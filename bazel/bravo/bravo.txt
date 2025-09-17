@@ -7164,6 +7164,7 @@ baconist
 basses
 bestridden
 boleti
+birt
 bluesides
 baulking
 blueberry
@@ -11836,7 +11837,6 @@ bikes
 bantus
 bailees
 barlafumble
-birt
 bodybuilder
 bard
 briareus
