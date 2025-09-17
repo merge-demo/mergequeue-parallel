@@ -4934,6 +4934,7 @@ beezer
 beerhouses
 beladied
 burgage
+boldu
 basement
 bluebeardism
 beermaker
@@ -12119,7 +12120,6 @@ bannition
 boldos
 besmutch
 bealing
-boldu
 butterweed
 boled
 bepewed
