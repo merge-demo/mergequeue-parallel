@@ -4817,7 +4817,6 @@ carryall
 carrick
 carrycot
 chromatoplasm
-carried
 carryed
 carrier
 carryings
@@ -22434,6 +22433,7 @@ conidiophorous
 conidiospore
 copy
 coniferae
+carried
 castrato
 coniferophyte
 cuppier
