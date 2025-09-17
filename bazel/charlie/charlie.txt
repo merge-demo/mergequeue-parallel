@@ -913,6 +913,7 @@ collared
 colpotomy
 canterburies
 calaboose
+chanfrin
 canelle
 calabrians
 calabur
@@ -9582,7 +9583,6 @@ chresmology
 corrodent
 coutumier
 cheeful
-chanfrin
 cheefuller
 choosy
 cheekbones
