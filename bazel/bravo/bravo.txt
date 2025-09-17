@@ -10867,7 +10867,6 @@ blattiform
 breakfastless
 bans
 burnup
-beadledom
 biggity
 bibbling
 brompicrin
@@ -15407,6 +15406,7 @@ balladier
 breakbone
 burs
 byssinosis
+beadledom
 bringers
 bodega
 bringeth

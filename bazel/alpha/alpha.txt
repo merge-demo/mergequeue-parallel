@@ -10297,7 +10297,6 @@ accidents
 ametallous
 apa
 ameers
-alkanna
 abbeys
 alchymy
 amethodically
@@ -20990,6 +20989,7 @@ artificer
 arcosolia
 ascriptions
 amphodarch
+alkanna
 airparks
 anacoluthic
 affectedness
