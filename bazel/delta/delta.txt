@@ -5756,7 +5756,6 @@ doliolum
 deoxidiser
 detester
 demonland
-depoetize
 deconsider
 depoh
 decd
@@ -5801,6 +5800,7 @@ dunged
 denitrize
 dildoe
 dowve
+depoetize
 demipuppet
 dovekeys
 decaliter

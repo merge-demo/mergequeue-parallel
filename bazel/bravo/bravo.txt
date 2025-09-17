@@ -1766,6 +1766,7 @@ beseechingness
 biteable
 bruise
 baltetei
+bursitos
 bismutite
 boarish
 balthasar
@@ -17809,7 +17810,6 @@ beuncled
 booze
 bravos
 boagane
-bursitos
 burst
 bathyscaph
 booksellers
