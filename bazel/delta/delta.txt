@@ -9618,7 +9618,6 @@ desterilize
 dignifying
 drachm
 departisanize
-dossel
 deglazes
 dignitary
 danseusse
@@ -16341,6 +16340,7 @@ dowels
 decrown
 deferrize
 ductilimeter
+dossel
 dentolabial
 divers
 diaheliotropism
