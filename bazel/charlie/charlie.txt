@@ -28081,7 +28081,6 @@ cento
 circumstance
 craniography
 codomestication
-cranioid
 croconic
 commentating
 cherubically
@@ -28285,6 +28284,7 @@ craven
 churchmen
 clans
 cravened
+cranioid
 cravening
 cravenly
 cravens
