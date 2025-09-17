@@ -12784,7 +12784,6 @@ clonism
 cicindelidae
 chumulu
 coelogastrula
-chaenactis
 chun
 camuse
 checklist
@@ -22671,6 +22670,7 @@ connivingly
 camerina
 connochaetes
 counterpleading
+chaenactis
 conspectuity
 casuarinaceae
 cabinets
