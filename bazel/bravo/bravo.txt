@@ -14242,6 +14242,7 @@ bacteriologies
 boardable
 boanbura
 butyne
+bubals
 byword
 boodled
 borosilicate
@@ -16480,7 +16481,6 @@ bubales
 busings
 bathychrome
 beefish
-bubals
 bullweed
 bragget
 belling
