@@ -8688,7 +8688,6 @@ defeminised
 degenerationist
 diaspore
 denuders
-dovekey
 diastases
 diglossia
 disgustedness
@@ -9540,6 +9539,7 @@ delfts
 dialysers
 derivation
 demiurge
+dovekey
 dights
 dextrocular
 deraigned
