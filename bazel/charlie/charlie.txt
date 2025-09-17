@@ -16641,7 +16641,6 @@ cosponsorships
 circut
 cylindrosporium
 clonos
-clonothrix
 carangus
 clonus
 cloof
@@ -25826,6 +25825,7 @@ cornish
 cakewalk
 cloudier
 chalets
+clonothrix
 climax
 cauterise
 chlorophyllite
