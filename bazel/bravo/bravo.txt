@@ -6384,7 +6384,6 @@ blastocyst
 bumpering
 backcloth
 belock
-benzothiofuran
 benzotrichloride
 battercake
 bianca
@@ -11974,6 +11973,7 @@ brokes
 bogland
 bittered
 budgerigah
+benzothiofuran
 bytalk
 bogled
 beckelite
