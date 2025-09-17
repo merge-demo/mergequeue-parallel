@@ -512,6 +512,7 @@ blumed
 biserial
 billhead
 bretwalda
+biniodide
 backstitches
 backtracked
 briming
@@ -8762,7 +8763,6 @@ bounden
 bini
 barycentric
 bettering
-biniodide
 biniou
 binitarianism
 bubonic
