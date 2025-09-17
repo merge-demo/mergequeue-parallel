@@ -5473,6 +5473,7 @@ diesel
 damoisel
 disintegrate
 deossification
+drachma
 dually
 deuterostomatous
 dissipates
@@ -6800,7 +6801,6 @@ dextrinize
 decretalist
 desirer
 dimerous
-drachma
 daira
 deadbeat
 deftnesses
