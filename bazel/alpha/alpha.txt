@@ -3645,6 +3645,7 @@ airframes
 appealingness
 appaume
 adiaphoron
+apronstring
 apples
 anaboly
 adiathermancy
@@ -17931,7 +17932,6 @@ aproctous
 aproneer
 amadavat
 antisupernaturalistic
-apronstring
 alanins
 adular
 amphigenetic
