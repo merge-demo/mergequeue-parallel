@@ -4781,7 +4781,6 @@ acalephs
 aerogeologist
 aerogramme
 apomecometry
-americium
 almsfolk
 asked
 adjurations
@@ -10622,6 +10621,7 @@ archegay
 altercate
 attitudinize
 amphirhine
+americium
 anatomiless
 atwitter
 alvearium
