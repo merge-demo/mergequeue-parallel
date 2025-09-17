@@ -6071,6 +6071,7 @@ agr
 atriensis
 aymara
 attirement
+abrogates
 affricative
 anosmic
 agrace
@@ -18451,7 +18452,6 @@ analytics
 arbute
 arbutean
 anthropomorphite
-abrogates
 autoagglutinin
 alarmisms
 autoecholalia
