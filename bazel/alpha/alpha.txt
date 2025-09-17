@@ -4245,7 +4245,6 @@ aphotaxis
 asphaltene
 agalinis
 achieve
-adulterers
 advertisement
 artistess
 adulteresses
@@ -21321,6 +21320,7 @@ amenage
 alluvia
 aliso
 asperate
+adulterers
 andrewartha
 aphthoid
 artefact

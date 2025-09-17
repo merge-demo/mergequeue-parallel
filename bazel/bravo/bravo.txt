@@ -745,7 +745,6 @@ befoul
 bettongia
 brewing
 bandsawing
-badges
 berther
 badging
 buddhism
@@ -16248,6 +16247,7 @@ bdft
 baptistic
 bothies
 briskened
+badges
 bruisingly
 bruited
 bruiter
