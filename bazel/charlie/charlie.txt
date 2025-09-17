@@ -11815,7 +11815,6 @@ coaster
 copaljocote
 chooser
 choosers
-choosier
 cryotherapy
 choosiness
 chadar
@@ -21220,6 +21219,7 @@ concentralization
 concolor
 chemicobiological
 conicities
+choosier
 carduelis
 concentrated
 concentrates
