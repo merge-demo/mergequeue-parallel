@@ -2794,6 +2794,7 @@ castrating
 cannulate
 circumscribe
 carajura
+chorus
 cursitor
 cannulating
 cytolysin
@@ -28821,7 +28822,6 @@ chubasco
 circumrotated
 crumblement
 crevette
-chorus
 cussers
 combo
 coadunated
