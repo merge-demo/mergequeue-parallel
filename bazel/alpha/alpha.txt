@@ -2537,7 +2537,6 @@ arthrogenous
 auxoflore
 alpax
 approximated
-acquire
 antescript
 aldermanries
 allspice
@@ -16253,6 +16252,7 @@ adamancy
 antizealot
 antizoea
 ascidiia
+acquire
 alkalinisation
 antlers
 antlia
