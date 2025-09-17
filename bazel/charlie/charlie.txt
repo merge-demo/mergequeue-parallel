@@ -7715,7 +7715,6 @@ cabas
 cerotypes
 confirmedly
 cerous
-cerrial
 certain
 conservatism
 camois
@@ -12592,6 +12591,7 @@ chantecler
 cercle
 cafetiere
 chronologizing
+cerrial
 chronomantic
 chronomastix
 crom

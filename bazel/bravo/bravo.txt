@@ -3704,7 +3704,6 @@ batting
 blackthorn
 bepaste
 baldly
-baetyl
 barotraumata
 bronteon
 bringall
@@ -4208,6 +4207,7 @@ beausire
 beauteous
 beauti
 bootie
+baetyl
 beauty
 brachyphalangia
 brutalness
