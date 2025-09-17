@@ -4636,6 +4636,7 @@ composograph
 carpenters
 crankle
 cibation
+coinheritance
 carpet
 carpetbag
 concludible
@@ -17184,7 +17185,6 @@ coadsorbent
 coprophobic
 caddisfly
 creek
-coinheritance
 churliest
 crescograph
 chummer
