@@ -8932,6 +8932,7 @@ abord
 alloxuremia
 aumaga
 allround
+ascertained
 agynarious
 assyrian
 adolesce
@@ -16382,7 +16383,6 @@ annotates
 assimilate
 athyridae
 axweed
-ascertained
 adiaphora
 achaenocarp
 agsam
