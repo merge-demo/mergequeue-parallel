@@ -1623,7 +1623,6 @@ arithmeticians
 accruable
 atty
 artaba
-anatomism
 aurific
 accruals
 auriculare
@@ -1983,6 +1982,7 @@ afrikander
 acharnement
 achatina
 achatinidae
+anatomism
 act
 alkalinising
 acheat

@@ -3863,6 +3863,7 @@ bawdrics
 bawdries
 boreal
 bodock
+boiling
 buriable
 bawl
 bevelment
@@ -15400,7 +15401,6 @@ bondless
 bolshevistically
 brindlish
 bibliologist
-boiling
 bryndza
 barrater
 bleaters
