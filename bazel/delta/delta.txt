@@ -2719,6 +2719,7 @@ devonshire
 doublure
 distortable
 decore
+dudgeon
 docklands
 decorist
 dragged
@@ -11006,7 +11007,6 @@ downgrade
 damnosa
 duettist
 deconventionalize
-dudgeon
 disaffectedly
 decurrency
 dictronics
