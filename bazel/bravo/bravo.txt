@@ -856,7 +856,6 @@ bothway
 brecciation
 blubbing
 bushed
-burnfire
 baga
 benzenoid
 bloman
@@ -4285,6 +4284,7 @@ becalm
 biaural
 beakiest
 bulimia
+burnfire
 beadlery
 backslides
 becarpeted
