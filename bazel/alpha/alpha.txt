@@ -15943,7 +15943,6 @@ adherence
 avitaminotic
 antimonial
 alcoholate
-antiscientific
 auto
 aper
 antiscolic
@@ -24292,6 +24291,7 @@ aeromancy
 argals
 attractionally
 alpinists
+antiscientific
 anodendron
 aquaducts
 autoracemization

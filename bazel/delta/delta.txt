@@ -11397,7 +11397,6 @@ dupioni
 discerped
 dissemble
 davens
-diplocephalous
 displeasurable
 discerpible
 discerpibleness
@@ -13520,6 +13519,7 @@ dreissensia
 deticks
 dissavs
 drumbeater
+diplocephalous
 dislike
 dissceptre
 deceivance
