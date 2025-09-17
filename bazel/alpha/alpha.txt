@@ -13669,7 +13669,6 @@ adrenocorticotrophin
 anorthose
 afresh
 anoscope
-angstrom
 achariaceae
 affrontingness
 anoscopy
@@ -22109,6 +22108,7 @@ aneuria
 ateuchus
 astragali
 anathem
+angstrom
 astragalocalcaneal
 algums
 anticreep
