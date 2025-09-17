@@ -4699,6 +4699,7 @@ burgomastership
 bedouins
 bails
 bauckiebird
+birk
 bradding
 brunts
 bruisers
@@ -5019,7 +5020,6 @@ beewise
 blithesomeness
 bisphenoid
 brushfires
-birk
 brawest
 brachiofaciolingual
 beltcourse
