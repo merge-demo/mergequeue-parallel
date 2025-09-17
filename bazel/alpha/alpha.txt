@@ -1279,7 +1279,6 @@ artinskian
 acataphasia
 arillated
 anesthetic
-antiaristocrat
 acate
 adolescing
 adephagia
@@ -3515,6 +3514,7 @@ adenopodous
 adenosarcomata
 acuating
 arrant
+antiaristocrat
 adenosine
 anatomised
 adenostoma
