@@ -2018,6 +2018,7 @@ absconds
 airtime
 apout
 amovability
+anthidium
 ammonionitrate
 achiest
 athodyds
@@ -25103,7 +25104,6 @@ antiascetic
 alant
 axiological
 archarios
-anthidium
 acoustician
 ahem
 apron
