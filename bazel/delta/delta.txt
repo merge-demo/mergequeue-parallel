@@ -9417,7 +9417,6 @@ dautie
 devotionalism
 dulosis
 depurged
-disdodecahedroid
 disporting
 diphygenic
 disinflating
@@ -13767,6 +13766,7 @@ disstate
 dissuaded
 delayed
 debunk
+disdodecahedroid
 dissuades
 devitalized
 dehorning
