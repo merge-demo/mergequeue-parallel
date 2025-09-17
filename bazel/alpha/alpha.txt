@@ -2886,7 +2886,6 @@ alcyon
 adrenolytic
 actinoblast
 actinobranch
-abdication
 actinochemistry
 alalunga
 antireligious
@@ -5579,6 +5578,7 @@ aguacate
 adduceable
 answers
 amphistome
+abdication
 afeared
 agapeti
 agapetid
