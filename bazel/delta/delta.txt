@@ -11160,6 +11160,7 @@ disarms
 dishonouring
 demioctangular
 dictatorial
+diachronicness
 disarrays
 decamp
 desilicated
@@ -14590,7 +14591,6 @@ dollop
 depredator
 ditchbur
 divisional
-diachronicness
 durio
 dronkgrass
 divisionary
