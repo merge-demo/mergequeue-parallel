@@ -7099,7 +7099,6 @@ cumaldehyde
 caliculus
 centimetre
 correspondencies
-centimetres
 cullion
 centimo
 centimos
@@ -14487,6 +14486,7 @@ capsulociliary
 caseine
 cirrosely
 commation
+centimetres
 cirrostomi
 cochylis
 cirrostrative
