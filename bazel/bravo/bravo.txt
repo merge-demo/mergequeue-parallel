@@ -3431,6 +3431,7 @@ brigantines
 bastardry
 briny
 biotechnologicaly
+barker
 bleakly
 barrelfishes
 baster
@@ -11639,7 +11640,6 @@ breakfasts
 bacterioscopical
 barspoon
 bronchium
-barker
 boathook
 boathouse
 backbends
