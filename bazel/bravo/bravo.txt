@@ -2105,6 +2105,7 @@ bronchostomy
 betrough
 branchihyal
 bourkha
+bosun
 borasco
 birthrights
 braccae
@@ -6409,7 +6410,6 @@ blasia
 binarium
 brinehouse
 bepen
-bosun
 beleaguer
 backdown
 bepepper
