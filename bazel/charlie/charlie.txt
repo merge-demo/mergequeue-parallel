@@ -18996,7 +18996,6 @@ collarbird
 collard
 carillonned
 criticise
-correctness
 creepered
 cauterant
 coquinas
@@ -24313,6 +24312,7 @@ coof
 caspar
 colloquialize
 cooghneiorvlt
+correctness
 cyclovertebral
 cooingly
 checkering
