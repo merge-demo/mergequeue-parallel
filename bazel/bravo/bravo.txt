@@ -6074,6 +6074,7 @@ bisson
 bendies
 bends
 bardesanist
+bekick
 bendwise
 begay
 bartramia
@@ -15290,7 +15291,6 @@ bandurrias
 brigatry
 brigetty
 beliquoring
-bekick
 burgensic
 barret
 bulletproofed
