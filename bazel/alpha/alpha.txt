@@ -2342,7 +2342,6 @@ atrochal
 arisings
 acknowing
 auteciously
-afoam
 assumptively
 acknowledger
 autolyzes
@@ -22492,6 +22491,7 @@ athel
 atheling
 abongo
 acerbities
+afoam
 accordions
 anthropoteleological
 athenaeums
