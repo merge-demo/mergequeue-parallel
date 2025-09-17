@@ -590,7 +590,6 @@ baconian
 breaths
 baconianism
 belleric
-baconism
 brutishly
 bye
 blessers
@@ -10255,6 +10254,7 @@ blacktops
 blastoporphyritic
 bijugular
 basialveolar
+baconism
 beholden
 begnawn
 boultel
