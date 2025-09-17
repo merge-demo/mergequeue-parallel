@@ -12595,7 +12595,6 @@ anyway
 angiography
 angiohemophilia
 anachronously
-anglophilia
 angioid
 amentum
 androgens
@@ -19564,6 +19563,7 @@ arion
 arrowless
 ariot
 antimonium
+anglophilia
 aculeiform
 arising
 amidone
