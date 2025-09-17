@@ -27812,7 +27812,6 @@ civiliser
 cp
 clitoridean
 contractus
-chemurgic
 cpt
 cullay
 cpus
@@ -29184,6 +29183,7 @@ cryptoanalysis
 cryptoanalytically
 cryptobranch
 cryptobranchia
+chemurgic
 cryptobranchiata
 clambakes
 cutlas
