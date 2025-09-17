@@ -4918,6 +4918,7 @@ cammarum
 cartmaking
 cartobibliography
 columbia
+coctile
 catwood
 cartogram
 criniger
@@ -17799,7 +17800,6 @@ cocreatorship
 cocreditor
 campbellism
 coct
-coctile
 coction
 collimating
 condog
