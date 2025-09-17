@@ -2683,7 +2683,6 @@ conder
 cankereat
 cankered
 cankeredly
-codders
 chapeaux
 cording
 cubitopalmar
@@ -31232,6 +31231,7 @@ county
 curacoas
 curage
 chisellers
+codders
 curaghs
 caulker
 curari
