@@ -1157,7 +1157,6 @@ agametes
 actinian
 axonopus
 autopsied
-acaleph
 acalephoid
 arow
 acalyculate
@@ -15640,6 +15639,7 @@ antiphilosophies
 antiphilosophism
 acetoarsenite
 antiphysically
+acaleph
 antiphysicalness
 adulterating
 appropriament
