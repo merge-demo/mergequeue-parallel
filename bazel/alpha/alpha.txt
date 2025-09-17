@@ -4822,7 +4822,6 @@ affidare
 acetamidine
 amenite
 argentino
-amphiploid
 amphictyonies
 autonomously
 anaetiological
@@ -7844,6 +7843,7 @@ aggravations
 antiexpansionist
 anticynic
 addlepatedness
+amphiploid
 alexandrine
 alexandrite
 apexing

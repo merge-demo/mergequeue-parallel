@@ -9512,7 +9512,6 @@ clot
 capos
 checkhook
 checky
-circularising
 chondroxiphoid
 cacochymia
 checkless
@@ -26228,6 +26227,7 @@ changeableness
 costocoracoid
 calliper
 compoer
+circularising
 cynareous
 counterstruggle
 costlessness
