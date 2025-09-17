@@ -9900,7 +9900,6 @@ chemophysiology
 chemoprophyalctic
 cycle
 chemoprophylactic
-cruiser
 chickling
 chromosomally
 coaxer
@@ -17712,6 +17711,7 @@ cochlospermum
 catatoniac
 cochon
 cyrtolite
+cruiser
 cocin
 colluders
 cocinera
