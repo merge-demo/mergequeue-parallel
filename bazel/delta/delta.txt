@@ -11396,7 +11396,6 @@ discerpible
 discerpibleness
 distrainee
 discerption
-difficulties
 dislink
 diggers
 dischargeable
@@ -15697,6 +15696,7 @@ dissentaneousness
 dridder
 dextrousness
 doomsayer
+difficulties
 doomsday
 dacryocystotome
 doomster
