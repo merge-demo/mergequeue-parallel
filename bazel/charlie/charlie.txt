@@ -10422,6 +10422,7 @@ characterism
 chievance
 chieve
 carpenter
+camphorweed
 carbonylation
 carabinero
 chifferobe
@@ -17329,7 +17330,6 @@ caryophyllous
 conflux
 coan
 conversion
-camphorweed
 climatius
 chetif
 concretes

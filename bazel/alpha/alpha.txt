@@ -21923,7 +21923,6 @@ astatized
 asteep
 asteer
 aloddia
-adaptably
 aiolis
 afridi
 anthemy
@@ -22041,6 +22040,7 @@ asynapsis
 astigmatoscope
 astigmic
 astigmometer
+adaptably
 autosuggestive
 aglossa
 astigmometry
