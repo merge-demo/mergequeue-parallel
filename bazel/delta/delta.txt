@@ -5271,6 +5271,7 @@ dabbled
 disocclude
 darr
 dissemblers
+deftest
 disharmonism
 diductor
 dilatometry
@@ -18251,7 +18252,6 @@ duneland
 dunelike
 derivates
 doeglic
-deftest
 deputative
 dasycladaceae
 dungarees
