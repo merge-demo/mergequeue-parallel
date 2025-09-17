@@ -9921,7 +9921,6 @@ cancers
 convertibly
 chemotactic
 cresylene
-chemotaxy
 cohelper
 chondrocyte
 charpie
@@ -24954,6 +24953,7 @@ celidographer
 corchat
 contenders
 corchorus
+chemotaxy
 corcyraean
 corcle
 canalizations
