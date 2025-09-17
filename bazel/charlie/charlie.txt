@@ -28163,6 +28163,7 @@ compiler
 crannock
 crannoger
 carvomenthene
+characterizable
 cockscomb
 circlet
 calabrese
@@ -31107,7 +31108,6 @@ cuniforms
 chickenbill
 cunila
 canafistula
-characterizable
 cunjer
 crystalliferous
 chumpy
