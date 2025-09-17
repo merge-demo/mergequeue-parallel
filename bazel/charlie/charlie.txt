@@ -2949,6 +2949,7 @@ caustic
 cystatrophia
 chilitis
 canthathari
+colognes
 cosmopathic
 crystalled
 combre
@@ -14561,7 +14562,6 @@ cantara
 consoler
 continuantly
 cogitating
-colognes
 cista
 cubicontravariant
 cystalgia
