@@ -9923,7 +9923,6 @@ crouch
 chronobiology
 collateral
 cancers
-chemosurgery
 convertibly
 chemotactic
 cresylene
@@ -15088,6 +15087,7 @@ civism
 civisms
 civitan
 civitas
+chemosurgery
 civite
 chinchasuyu
 chattel
