@@ -7423,6 +7423,7 @@ anerly
 abote
 alcalde
 atelomitic
+armouries
 anthropocentricity
 alcaldes
 alcaldia
@@ -8715,7 +8716,6 @@ allen
 amyclas
 antevocalic
 arrayment
-armouries
 audiometries
 alderliefest
 arboroid
