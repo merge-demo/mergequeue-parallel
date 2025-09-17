@@ -5254,6 +5254,7 @@ arachnomorphae
 alleluiatic
 anemoclastic
 ampelideous
+aplanat
 aedilic
 allochiral
 argufies
@@ -22186,7 +22187,6 @@ abbr
 astrocytomas
 ailerons
 anal
-aplanat
 avifaunally
 atmologist
 astrodiagnosis
