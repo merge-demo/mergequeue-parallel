@@ -11698,7 +11698,6 @@ bartlett
 bobby
 bobbin
 bolivias
-bobbinite
 bobbins
 bossisms
 bobbish
@@ -16487,6 +16486,7 @@ bespring
 barit
 ballocks
 brachyurus
+bobbinite
 bullshitting
 brawny
 blackeners
