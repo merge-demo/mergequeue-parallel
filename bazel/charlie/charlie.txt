@@ -5842,7 +5842,6 @@ creeled
 catfish
 coalmonger
 catfoot
-commissionaire
 catfooted
 catgut
 chancellorism
@@ -15435,6 +15434,7 @@ commensals
 clarences
 chiropter
 clarenceux
+commissionaire
 clares
 contentness
 chilipepper
