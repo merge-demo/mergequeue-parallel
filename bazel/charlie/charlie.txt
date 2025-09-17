@@ -6160,7 +6160,6 @@ caudex
 cassolette
 condoned
 climactery
-concise
 caudle
 caudles
 caudocephalad
@@ -8705,6 +8704,7 @@ chantment
 carman
 comps
 commonest
+concise
 cheiloplasties
 chantry
 cynicism
