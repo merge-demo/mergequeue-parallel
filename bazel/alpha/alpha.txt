@@ -12831,7 +12831,6 @@ alfridaric
 angustura
 angwantibo
 arthrodial
-angwich
 almoning
 antisupernaturalist
 alogian
@@ -25390,6 +25389,7 @@ acervatim
 alarmable
 alumbloom
 adopter
+angwich
 azurean
 amalgamations
 autecisms
