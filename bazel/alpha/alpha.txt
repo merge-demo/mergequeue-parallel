@@ -1270,6 +1270,7 @@ andantino
 acanthurus
 acatalectic
 apomicts
+anterevolutional
 acatalepsy
 acatalepsia
 acataleptic
@@ -5938,7 +5939,6 @@ aglycons
 agricolist
 amphizoidae
 abrading
-anterevolutional
 alcyonarian
 aglint
 arbitrated
