@@ -4778,6 +4778,7 @@ adenomatous
 acalephs
 aerogeologist
 aerogramme
+apomecometry
 americium
 almsfolk
 asked
@@ -23068,7 +23069,6 @@ attestor
 attests
 amphinesian
 atrabilarious
-apomecometry
 antimonic
 amoebalike
 anapaganize
