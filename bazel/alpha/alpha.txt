@@ -17243,6 +17243,7 @@ apostles
 apostleship
 apostleships
 amassers
+amyotrophy
 appeacher
 apostoli
 apostolian
@@ -23624,7 +23625,6 @@ anticontagiousness
 anagnorises
 auscultatory
 ausform
-amyotrophy
 amazia
 aushar
 antiphase
