@@ -9378,7 +9378,6 @@ cumbrance
 colds
 chavante
 chavel
-cursiveness
 circumclude
 condemner
 compart
@@ -16503,6 +16502,7 @@ clobbers
 cloche
 clochette
 clockbird
+cursiveness
 comodato
 caponizes
 clocker
