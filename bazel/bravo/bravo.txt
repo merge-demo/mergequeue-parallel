@@ -2537,7 +2537,6 @@ barid
 bullyism
 bronchostenosis
 bereaving
-burgus
 burglarise
 bestrewn
 bois
@@ -14875,6 +14874,7 @@ bura
 beflum
 balantidium
 baldie
+burgus
 bandsmen
 begulfing
 breasthook
