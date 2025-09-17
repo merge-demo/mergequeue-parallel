@@ -16944,7 +16944,6 @@ apocrenic
 agatha
 apocryph
 apocryphalness
-actuates
 argumentive
 alliterations
 amourette
@@ -17691,6 +17690,7 @@ antiproductionist
 agriotypus
 apportioning
 analphabetic
+actuates
 agent
 australic
 anhemitonic
