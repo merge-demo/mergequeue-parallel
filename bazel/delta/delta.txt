@@ -6700,7 +6700,6 @@ dillydallier
 decharm
 dinitrophenol
 diplohedron
-downcurved
 disacceptance
 desyatin
 desicate
@@ -10286,6 +10285,7 @@ dedicates
 disseated
 dioctophyme
 devilize
+downcurved
 dubitable
 deave
 defaulting
