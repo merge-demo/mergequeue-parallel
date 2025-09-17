@@ -851,6 +851,7 @@ cayugan
 cayugas
 cayuse
 curf
+coagulated
 cayuses
 cosmochemistry
 cajan
@@ -17219,7 +17220,6 @@ chrononomy
 countersea
 coagulability
 cymrite
-coagulated
 coagulates
 centuriator
 clients
