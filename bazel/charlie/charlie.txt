@@ -12242,7 +12242,6 @@ chattelized
 cupbearers
 chrysome
 chrysomyia
-conjecturalist
 championships
 chrysopal
 clistothecia
@@ -19784,6 +19783,7 @@ caraganas
 carper
 combasou
 combat
+conjecturalist
 conjugial
 combatable
 coremium
