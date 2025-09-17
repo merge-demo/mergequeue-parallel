@@ -4778,6 +4778,7 @@ carr
 carrack
 cymulose
 cycling
+conspersion
 corallita
 calanthe
 carracks
@@ -23108,7 +23109,6 @@ conspectus
 cullying
 colias
 conspectuses
-conspersion
 conspicuity
 crescentia
 cottoneer
