@@ -12050,6 +12050,7 @@ blub
 beking
 binnacle
 balisaurs
+blinded
 blindage
 boilerful
 backboned
@@ -13607,7 +13608,6 @@ berbers
 brin
 bordar
 berggylt
-blinded
 brassicaceous
 balklines
 bornyl
