@@ -6584,7 +6584,6 @@ beriberis
 biospheres
 berycid
 berycidae
-bituberculate
 baratte
 bambinos
 burnings
@@ -12986,6 +12985,7 @@ befountained
 barmaid
 biolith
 brideless
+bituberculate
 bloomers
 beadleism
 bombazine
