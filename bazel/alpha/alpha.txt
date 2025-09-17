@@ -4027,6 +4027,7 @@ aromatites
 adjag
 adderwort
 armorers
+anorganology
 aches
 adulteries
 anabaptistically
@@ -13646,7 +13647,6 @@ anything
 akmudar
 anoretic
 adonidin
-anorganology
 anorn
 anthropologies
 airthing
