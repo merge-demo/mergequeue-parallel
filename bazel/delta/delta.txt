@@ -8549,6 +8549,7 @@ diet
 dyschromatopsia
 duchy
 doughnut
+demiplate
 dethrone
 dewbeam
 depthwise
@@ -9490,7 +9491,6 @@ dispeaceful
 dubitante
 decartelization
 denoted
-demiplate
 despondently
 dungbird
 digenite
