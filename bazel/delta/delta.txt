@@ -808,6 +808,7 @@ decimals
 depaganize
 dangle
 distortedly
+downset
 descartes
 deniable
 dearths
@@ -8494,7 +8495,6 @@ determinated
 daysman
 deesis
 diaminogen
-downset
 directionize
 dodecyl
 downgrades
