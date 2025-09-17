@@ -10492,7 +10492,6 @@ aminophylline
 amylogenic
 allegate
 axerophthol
-archoptoma
 attend
 acetylaminobenzene
 ambiences
@@ -19364,6 +19363,7 @@ argillic
 aspalathus
 argilliferous
 apperception
+archoptoma
 aridest
 aelurophobe
 arrivederla
