@@ -12993,7 +12993,6 @@ cobenignity
 coerces
 cyanoacetic
 currencies
-cyanoaurate
 characeous
 cyanoauric
 cyanobenzene
@@ -16728,6 +16727,7 @@ cercopithecid
 clothe
 costiferous
 curvinervate
+cyanoaurate
 confusional
 calathian
 clothesbag

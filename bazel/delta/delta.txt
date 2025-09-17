@@ -4121,7 +4121,6 @@ druse
 deitate
 domesticized
 deintellectualization
-delineator
 decapitated
 despeche
 disaffiliates
@@ -18348,6 +18347,7 @@ doxy
 duotriacontane
 disinclinations
 dryas
+delineator
 didachist
 deashes
 demonstrant
