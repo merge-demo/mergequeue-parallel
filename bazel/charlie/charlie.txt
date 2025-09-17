@@ -4196,6 +4196,7 @@ clericalists
 covenant
 characteristic
 capercailzie
+clivia
 coauthored
 cumulates
 cashel
@@ -7189,7 +7190,6 @@ centrifuging
 coffeehousing
 contemnibly
 casaque
-clivia
 catarrhs
 cavaedia
 centriole
