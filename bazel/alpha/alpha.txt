@@ -8614,7 +8614,6 @@ assistant
 aristolochiales
 autoincrements
 allgovite
-anthologized
 apicifixed
 agalaxia
 amblosis
@@ -13689,6 +13688,7 @@ anounou
 anconeal
 affix
 ambroid
+anthologized
 anour
 altropathy
 asher
