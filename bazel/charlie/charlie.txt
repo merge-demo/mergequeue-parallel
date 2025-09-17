@@ -15816,7 +15816,6 @@ colonized
 clearable
 chlorion
 clearage
-clearance
 clearances
 chloro
 coteller
@@ -29748,6 +29747,7 @@ coinsures
 carpellate
 caesural
 cropless
+clearance
 conjugately
 carlins
 cincinnatian
