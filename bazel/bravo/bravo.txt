@@ -4216,7 +4216,6 @@ begaud
 begat
 beardless
 benthamic
-beautified
 bathomania
 bishopbird
 banff
@@ -17271,6 +17270,7 @@ bolsons
 bibliopegically
 bihari
 bewray
+beautified
 brennage
 bechance
 bundled
