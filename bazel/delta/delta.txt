@@ -10051,6 +10051,7 @@ dirigent
 dimple
 diplomas
 demihake
+deforestation
 dimplement
 dorosoma
 derelictness
@@ -15515,7 +15516,6 @@ desperacy
 disillusionist
 digestedness
 despicability
-deforestation
 detoxify
 djebel
 dolichoprosopic
