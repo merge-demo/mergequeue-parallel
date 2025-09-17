@@ -7084,7 +7084,6 @@ dessertspoon
 designers
 distillage
 devotionist
-duramen
 destinezite
 driveable
 dessous
@@ -18253,6 +18252,7 @@ derivates
 doeglic
 deputative
 dasycladaceae
+duramen
 dungarees
 dispirem
 doghearted
