@@ -2272,7 +2272,6 @@ durian
 douser
 domineerer
 determinative
-decembrist
 demnition
 dowset
 durax
@@ -4347,6 +4346,7 @@ dj
 dictatorialness
 dodipole
 decener
+decembrist
 dotkin
 diamondiferous
 diacritical
