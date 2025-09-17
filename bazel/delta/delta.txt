@@ -3111,7 +3111,6 @@ downstairs
 defaultless
 downfolded
 defaults
-defaulture
 dayworker
 detritus
 denumberment
@@ -17752,6 +17751,7 @@ dicarbonate
 dubio
 devot
 diene
+defaulture
 discoloredness
 discriminateness
 disenthroning
