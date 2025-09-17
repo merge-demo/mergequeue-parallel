@@ -6652,7 +6652,6 @@ compound
 counterquestion
 ceratosaurus
 coathangers
-counterwave
 cuscus
 colligation
 ceja
@@ -15021,6 +15020,7 @@ citrons
 citronwood
 cooperations
 citrous
+counterwave
 citrullus
 cavorts
 conjugally
