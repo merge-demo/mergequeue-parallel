@@ -1832,7 +1832,6 @@ daffle
 desight
 disengages
 debeak
-dollops
 debarbarize
 debeaker
 douzepers
@@ -16945,6 +16944,7 @@ dsname
 disceptation
 decanically
 ddt
+dollops
 dicyclic
 diiambus
 dataria
