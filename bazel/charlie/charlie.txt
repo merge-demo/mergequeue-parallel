@@ -21103,6 +21103,7 @@ computations
 computatively
 clerkery
 computativeness
+comsat
 computer
 computerise
 computerization
@@ -21118,7 +21119,6 @@ comrades
 comradeship
 caulked
 coms
-comsat
 clostridial
 comsomol
 competingly
