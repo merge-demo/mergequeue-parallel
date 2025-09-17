@@ -10538,7 +10538,6 @@ carwashes
 chiliarchia
 chiliast
 commuting
-clerical
 chiliastic
 chiliasts
 chilicote
@@ -16086,6 +16085,7 @@ choux
 cryoscopies
 clickless
 clicks
+clerical
 clidastes
 cinclidae
 clyde
