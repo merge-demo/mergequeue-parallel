@@ -3793,6 +3793,7 @@ adjuration
 acanthology
 analogia
 amidine
+auncel
 adjured
 adjurer
 adjures
@@ -4796,7 +4797,6 @@ antritis
 archdapifership
 aquavalent
 anachronistic
-auncel
 atame
 alluvivia
 arake
