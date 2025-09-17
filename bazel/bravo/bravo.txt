@@ -7009,7 +7009,6 @@ bridgetin
 brickbatted
 bloodleaf
 burushaski
-bino
 brockages
 biaxillary
 bennetweed
@@ -16862,6 +16861,7 @@ balloonlike
 bituminous
 bugout
 bugs
+bino
 bugweed
 blacktopped
 bugwort
