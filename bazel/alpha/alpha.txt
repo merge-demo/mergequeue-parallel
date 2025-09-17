@@ -7655,7 +7655,6 @@ artize
 acrolein
 adaptivity
 ausubos
-arcadianism
 acoelomata
 atrickle
 anglicism
@@ -23646,6 +23645,7 @@ algorist
 affrightfully
 auspicious
 avaunt
+arcadianism
 auspiciousness
 arpenteur
 abannition
