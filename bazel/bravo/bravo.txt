@@ -1628,7 +1628,6 @@ byplay
 basketlike
 bichromic
 beheadal
-blaewort
 beatinest
 ballistician
 benzanilide
@@ -4348,6 +4347,7 @@ buoyance
 behen
 brickier
 becky
+blaewort
 becking
 bearings
 beckoner
