@@ -1906,7 +1906,6 @@ confeder
 coeducational
 crotalid
 checkered
-camera
 capitols
 conductory
 cyprinodont
@@ -16963,6 +16962,7 @@ clumsier
 churchly
 coenosteal
 choule
+camera
 chondromyoma
 concretize
 cornetfish
