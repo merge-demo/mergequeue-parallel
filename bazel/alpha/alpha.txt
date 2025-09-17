@@ -11138,7 +11138,6 @@ apothecaries
 antitrismus
 atchison
 arzrunite
-amphimictic
 assemblages
 animized
 antired
@@ -12786,6 +12785,7 @@ aerophilatelist
 angularity
 affirming
 almadie
+amphimictic
 acct
 angulated
 angulately
