@@ -3626,6 +3626,7 @@ denaturant
 debacles
 descriptionist
 dichromic
+deionize
 degorge
 degradative
 descending
@@ -3837,7 +3838,6 @@ dichroiscope
 doveling
 diatropic
 dyspnoea
-deionize
 degraduation
 decastyle
 dephlegm
