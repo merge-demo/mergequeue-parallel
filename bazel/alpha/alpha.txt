@@ -1539,7 +1539,6 @@ accordion
 accordionists
 acheirus
 adamical
-archetypally
 albuminocholia
 autoportrait
 aconin
@@ -25288,6 +25287,7 @@ autobasidium
 alligating
 abeyant
 astrochemist
+archetypally
 arteriorrhaphy
 atmospheric
 anesthetist
