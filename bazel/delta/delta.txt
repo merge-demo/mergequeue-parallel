@@ -5354,7 +5354,6 @@ displaced
 denticle
 dentiferous
 dentification
-dentifrice
 dentil
 discussional
 deconcatenate
@@ -15554,6 +15553,7 @@ disambiguate
 dishable
 dominionist
 dominions
+dentifrice
 dewanship
 dissociability
 dowelling
