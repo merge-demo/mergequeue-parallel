@@ -3257,7 +3257,6 @@ bannerol
 blushfulness
 basilicock
 basilidian
-baralipton
 brome
 babydom
 baboon
@@ -6397,6 +6396,7 @@ burge
 bestrown
 backdate
 bellon
+baralipton
 bepatched
 bettergates
 bailo
