@@ -4167,6 +4167,7 @@ citeable
 coerect
 coronated
 carecloth
+crustation
 cadetcy
 cared
 conversant
@@ -6213,7 +6214,6 @@ ceroplast
 caulis
 caulivorous
 colourful
-crustation
 caulks
 chymists
 conferrer
