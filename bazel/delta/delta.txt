@@ -910,6 +910,7 @@ dudman
 daphni
 dollyway
 daphnia
+diaclastic
 delible
 drumlier
 drowned
@@ -8327,7 +8328,6 @@ diagraphs
 diagredium
 dermatopathia
 detestableness
-diaclastic
 diadelphia
 doryline
 disabused
