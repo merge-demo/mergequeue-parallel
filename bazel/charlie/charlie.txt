@@ -3418,6 +3418,7 @@ capris
 capeadors
 caprizant
 caldron
+chorussing
 camptodrome
 chavender
 capron
@@ -12070,7 +12071,6 @@ chairwoman
 chorussed
 chorusses
 cathedralic
-chorussing
 creatively
 coll
 cymbalo
