@@ -3714,7 +3714,6 @@ battleships
 buhr
 bimestrial
 battlewagon
-bronchiectasis
 bovver
 bevoiled
 beautifully
@@ -18132,6 +18131,7 @@ blaze
 bailer
 bunco
 benching
+bronchiectasis
 butyn
 botanicas
 bacillicide

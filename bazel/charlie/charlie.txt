@@ -17249,6 +17249,7 @@ coaita
 coak
 coakum
 coalas
+connives
 chimmesyan
 coalbag
 coalbagger
@@ -22659,7 +22660,6 @@ connive
 concertanti
 clinker
 connived
-connives
 captance
 caliper
 connivingly
