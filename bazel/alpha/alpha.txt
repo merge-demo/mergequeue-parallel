@@ -6311,6 +6311,7 @@ antecardium
 allantiasis
 ahi
 azotometer
+attempter
 algaesthesis
 amebula
 anticryptically
@@ -22977,7 +22978,6 @@ aeolotropism
 arthurian
 acrobats
 anthroponym
-attempter
 auldfarrantlike
 athecate
 astonishingness
