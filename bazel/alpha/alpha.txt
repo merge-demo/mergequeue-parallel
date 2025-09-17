@@ -11695,7 +11695,6 @@ alee
 atony
 ananta
 anaximandrian
-amphicome
 analogical
 amidomyelin
 anteroventral
@@ -19545,6 +19544,7 @@ arylation
 ariled
 argine
 abwatts
+amphicome
 arillus
 arils
 allethrin
