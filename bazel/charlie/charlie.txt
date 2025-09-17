@@ -3535,7 +3535,6 @@ chorusmaster
 chicky
 capulet
 capulin
-cosinesses
 caput
 caputium
 caque
@@ -14580,6 +14579,7 @@ cistercian
 construable
 choppy
 cistercianism
+cosinesses
 cerebrology
 cariocas
 capsuler
