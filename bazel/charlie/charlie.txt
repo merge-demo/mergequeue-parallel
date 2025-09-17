@@ -7800,7 +7800,6 @@ creosote
 coronatorial
 cervicapra
 cervicectomy
-capibara
 cyanided
 caenogenesis
 cichloid
@@ -10061,6 +10060,7 @@ cherub
 cherubfish
 cherubfishes
 cherubic
+capibara
 cladoceran
 chapel
 chowder
