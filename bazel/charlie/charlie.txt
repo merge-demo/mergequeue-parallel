@@ -17408,7 +17408,6 @@ cogons
 coastland
 couscouses
 coastlines
-channeled
 chawdron
 churchmaster
 coastward
@@ -18426,6 +18425,7 @@ clagged
 claypan
 candlesticks
 chenevixite
+channeled
 conterminant
 cognac
 curdier
