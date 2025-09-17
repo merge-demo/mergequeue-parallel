@@ -4984,7 +4984,6 @@ boroughship
 bombernickel
 banqueteer
 bypass
-beglic
 birdmouthed
 bridesmaid
 bloodletting
@@ -16841,6 +16840,7 @@ buggy
 bakshi
 brabbling
 busti
+beglic
 bussu
 bibulosities
 biconical
