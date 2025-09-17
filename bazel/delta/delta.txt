@@ -3219,7 +3219,6 @@ dockhead
 domesticate
 defiber
 destructed
-dystomous
 deionized
 departs
 defibrillated
@@ -8548,6 +8547,7 @@ demiplate
 dethrone
 depthwise
 diaphanometric
+dystomous
 dampishness
 debateful
 daimonion
