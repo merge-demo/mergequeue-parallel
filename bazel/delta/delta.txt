@@ -4197,7 +4197,6 @@ discharger
 deloo
 deloul
 decocted
-digitize
 decalvant
 deloused
 decimal
@@ -10329,6 +10328,7 @@ dirigibles
 dysteleologically
 dissolubility
 dositheans
+digitize
 diphthongic
 dunkling
 deradenitis
