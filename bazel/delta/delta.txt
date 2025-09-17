@@ -5896,6 +5896,7 @@ deckhouses
 dinglebird
 drago
 depreciation
+dredgings
 dacoity
 depreciative
 deoxygenization
@@ -8400,7 +8401,6 @@ duffadar
 dreamlessly
 darwinize
 disniche
-dredgings
 dialysis
 diskophile
 dialist
