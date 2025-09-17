@@ -6977,6 +6977,7 @@ akroasis
 akrochordite
 arimasp
 abietineous
+angdistis
 allophore
 aschaffite
 arabinic
@@ -17990,7 +17991,6 @@ anonymities
 adventism
 allyls
 aquanaut
-angdistis
 anacharis
 aquanauts
 agerasia
