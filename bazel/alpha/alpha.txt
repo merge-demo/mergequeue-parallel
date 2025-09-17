@@ -3481,6 +3481,7 @@ atactiform
 adenolymphocele
 adenoliomyofibroma
 abderite
+arrives
 antagonizes
 aracari
 anarch
@@ -9437,7 +9438,6 @@ alchemistry
 ammocetes
 altimetrically
 abadite
-arrives
 aortotomy
 audiotapes
 altingiaceous
