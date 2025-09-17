@@ -4236,7 +4236,6 @@ dropforge
 deprecatoriness
 deuteride
 damiana
-diffidentness
 dermatopsy
 decoherer
 dorsad
@@ -13406,6 +13405,7 @@ drazel
 disquiparancy
 dibber
 dissentients
+diffidentness
 deliverymen
 disquisit
 dermophlebitis
