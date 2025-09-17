@@ -9712,6 +9712,7 @@ begettal
 biophysicochemical
 braved
 bathhouses
+bombus
 barographs
 bystreets
 brockage
@@ -12377,7 +12378,6 @@ bagie
 belfather
 blackgum
 beswarmed
-bombus
 bombardelle
 beloveds
 bon
