@@ -10518,6 +10518,7 @@ daglock
 diphthongize
 diphthongizing
 doorknob
+discompliance
 daubentoniidae
 deess
 diversifoliate
@@ -11602,7 +11603,6 @@ degenerations
 disinheritance
 drysalteries
 derivers
-discompliance
 determa
 dormitory
 disconcertment
