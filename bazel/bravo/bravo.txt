@@ -8602,7 +8602,6 @@ billionth
 brethel
 bilander
 bonitos
-balsamize
 brightsomeness
 bryales
 benzo
@@ -11056,6 +11055,7 @@ bitumens
 bottle
 basichromiole
 builded
+balsamize
 bifanged
 bettina
 buccinae
