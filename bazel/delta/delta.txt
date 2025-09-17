@@ -2811,7 +2811,6 @@ decastellate
 demist
 draggle
 decrypt
-dinumeration
 dasyus
 decrowning
 detenus
@@ -7295,6 +7294,7 @@ deter
 desertlike
 deselected
 dilettantship
+dinumeration
 diporpa
 dendrachate
 droddum
