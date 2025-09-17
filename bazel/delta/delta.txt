@@ -8581,7 +8581,6 @@ diaphony
 disclosures
 diaphysial
 determinism
-diaphonic
 diaphonies
 diaphoreses
 disarranging
@@ -10462,6 +10461,7 @@ diverseness
 despend
 diphenylenimine
 driveller
+diaphonic
 ditcher
 demivierge
 dogmatic
