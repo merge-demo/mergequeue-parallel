@@ -7968,7 +7968,6 @@ disponer
 dexiotropous
 deixis
 deluder
-dictaphone
 damaskin
 dewrot
 durban
@@ -13694,6 +13693,7 @@ dystrophies
 dunt
 despoiling
 diphosgene
+dictaphone
 disturbation
 discoids
 divalent
