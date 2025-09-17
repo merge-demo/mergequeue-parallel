@@ -14749,7 +14749,6 @@ cygnets
 chairmen
 citharoedi
 chaplets
-cholesteryl
 catmint
 circumagitate
 coruscant
@@ -15771,6 +15770,7 @@ chloramine
 cleanest
 coddle
 choreguses
+cholesteryl
 chinching
 cleanhanded
 capistrate
