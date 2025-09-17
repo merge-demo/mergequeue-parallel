@@ -3727,7 +3727,6 @@ adital
 aporrhoea
 arthrosyrinx
 adits
-arbovirus
 analcite
 alphorns
 adjacence
@@ -4161,6 +4160,7 @@ adriana
 adriatic
 aumbry
 angia
+arbovirus
 archegoniata
 alloclasite
 adrogate
