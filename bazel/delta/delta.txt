@@ -15710,6 +15710,7 @@ dooryards
 detergible
 dooring
 doorless
+deathday
 dismail
 disdiaclast
 decolorised
@@ -17910,7 +17911,6 @@ darkheartedness
 defamations
 dyspepsy
 displeased
-deathday
 duelers
 duelist
 duelistic
