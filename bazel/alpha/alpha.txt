@@ -1217,6 +1217,7 @@ acanthopanax
 acanthopodous
 aqueously
 acanthopomatous
+anesthesimeter
 acanthopterygian
 acanthopterygii
 acanthoses
@@ -12413,7 +12414,6 @@ anesone
 anticomplement
 apexes
 arizona
-anesthesimeter
 axiomatizations
 anesthesiology
 admirator
