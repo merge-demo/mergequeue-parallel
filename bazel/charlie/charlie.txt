@@ -63,7 +63,6 @@ cabbala
 chadless
 comprises
 cabbalahs
-cabbalas
 cabbalist
 currie
 cosmolatry
@@ -25685,6 +25684,7 @@ correspondent
 composedness
 correspondential
 correspondently
+cabbalas
 citators
 chlormethylic
 calctufa
