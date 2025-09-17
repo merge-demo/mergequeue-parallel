@@ -7263,7 +7263,6 @@ detat
 defoliating
 dimethylamino
 dalteen
-deallocated
 detected
 disenchantingly
 direful
@@ -15398,6 +15397,7 @@ diluviums
 dolmas
 desubstantiate
 deprecate
+deallocated
 discovery
 derries
 dolomitic

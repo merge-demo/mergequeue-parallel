@@ -5420,6 +5420,7 @@ bardes
 brubru
 bandying
 bandura
+bandolier
 befriending
 basebred
 beheader
@@ -7476,7 +7477,6 @@ bewailers
 biding
 blowpit
 basnat
-bandolier
 beloam
 befringes
 begirding
