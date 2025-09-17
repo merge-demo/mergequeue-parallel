@@ -9486,6 +9486,7 @@ chaetites
 checker
 checkerbelly
 checkerbellies
+carthame
 checkerberry
 checkerberries
 chorological
@@ -30829,7 +30830,6 @@ causus
 caic
 culmiferous
 counterinfluence
-carthame
 cyclothymiac
 culminal
 compounders
