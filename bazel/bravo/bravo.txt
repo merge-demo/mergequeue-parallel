@@ -6678,6 +6678,7 @@ baikerinite
 benetting
 bokharan
 bushranging
+barotaxis
 beroidae
 bathmotropic
 berossos
@@ -15554,7 +15555,6 @@ battledoring
 bequeather
 belgic
 boza
-barotaxis
 blair
 bimolecularly
 bemist
