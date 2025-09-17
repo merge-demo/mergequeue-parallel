@@ -7049,7 +7049,6 @@ dogmatical
 desponder
 despondingly
 daffodowndilly
-desponds
 diaster
 divinisation
 dareall
@@ -8989,6 +8988,7 @@ doffs
 dom
 deedless
 desirably
+desponds
 demographic
 demonstrably
 dub
