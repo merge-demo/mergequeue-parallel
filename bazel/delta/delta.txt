@@ -3274,6 +3274,7 @@ duramater
 distrait
 definiteness
 dahlin
+duolog
 diceman
 degeneracy
 duplications
@@ -18412,7 +18413,6 @@ dorrs
 decelerations
 disheveled
 demagogy
-duolog
 declinometer
 duologues
 doubtedly
