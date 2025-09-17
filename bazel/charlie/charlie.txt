@@ -8994,7 +8994,6 @@ cauldrons
 chaplaincy
 chalchihuitl
 conceivability
-cryptal
 charism
 coriaria
 charisma
@@ -18846,6 +18845,7 @@ cylindroconoidal
 colecannon
 chincherinchees
 caddishly
+cryptal
 colectomies
 cacogenics
 cyesiology
