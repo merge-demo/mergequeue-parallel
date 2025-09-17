@@ -11778,7 +11778,6 @@ autovaccination
 anaphyte
 antivaccinator
 alkoxide
-acron
 appendicular
 anthropozoic
 ampelite
@@ -16706,6 +16705,7 @@ aphthartodocetae
 alterate
 abscissin
 aphthartodocetism
+acron
 aspergilla
 acromonogrammatic
 aphthong
