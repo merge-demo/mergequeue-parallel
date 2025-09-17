@@ -5895,7 +5895,6 @@ concrescible
 cathartolinum
 cathected
 cathects
-cathedra
 cathedralesque
 clasp
 cathedras
@@ -9989,6 +9988,7 @@ customize
 chequebook
 croup
 chequer
+cathedra
 citations
 chequered
 chequers
