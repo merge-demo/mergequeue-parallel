@@ -9853,7 +9853,6 @@ digesters
 dumetose
 dillydally
 dejectile
-diapaused
 discanonize
 disrupture
 descendingly
@@ -16284,6 +16283,7 @@ dowdy
 distent
 deflorate
 dowdier
+diapaused
 demophon
 doblas
 droseras
