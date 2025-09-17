@@ -285,6 +285,7 @@ ailuro
 appunctuation
 abdominogenital
 aurata
+acatastatic
 axiomatic
 ankylodontia
 affiant
@@ -1280,7 +1281,6 @@ acataphasia
 arillated
 anesthetic
 antiaristocrat
-acatastatic
 acate
 adolescing
 adephagia
