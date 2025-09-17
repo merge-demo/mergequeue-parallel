@@ -14746,6 +14746,7 @@ abassi
 assure
 anticlimax
 abret
+adderbolt
 anticlines
 anticlinoria
 amphigouri
@@ -22247,7 +22248,6 @@ astrolatry
 astrolithology
 anaesthesiant
 approaches
-adderbolt
 apothegm
 achenia
 astrologers
