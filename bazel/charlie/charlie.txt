@@ -10029,7 +10029,6 @@ cosmotron
 cichoriaceous
 circumhorizontal
 celeries
-cherryblossom
 cherried
 canna
 cherries
@@ -22532,6 +22531,7 @@ chromaffin
 chorwat
 creepages
 conjoints
+cherryblossom
 chechako
 chorism
 conjon
