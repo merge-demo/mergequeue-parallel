@@ -14150,6 +14150,7 @@ circulant
 circular
 colistins
 copula
+cibola
 coffers
 cryalgesia
 circularisation
@@ -20036,7 +20037,6 @@ corolitic
 commandingly
 commandingness
 commandite
-cibola
 commandless
 cruentate
 cyp
