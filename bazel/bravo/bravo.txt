@@ -4244,7 +4244,6 @@ battologise
 bebathe
 bryonin
 beatrix
-bewitchery
 beblooding
 bluestockingism
 boustrophedon
@@ -5483,6 +5482,7 @@ beeswax
 bobbled
 beydom
 blusher
+bewitchery
 billboard
 beige
 backers
