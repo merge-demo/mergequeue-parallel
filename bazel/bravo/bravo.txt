@@ -349,6 +349,7 @@ bluming
 backcap
 backchats
 boule
+bermudians
 burg
 bkpr
 backcross
@@ -10532,7 +10533,6 @@ blackprint
 baretta
 biomicroscopy
 bivinyls
-bermudians
 bezoardic
 blatherskites
 baptisteries
