@@ -8204,7 +8204,6 @@ alphonsine
 agistment
 arado
 anthypophoretic
-antiplenist
 architectonic
 alipin
 apophylaxis
@@ -19424,6 +19423,7 @@ applicancy
 amiantus
 accelerated
 achroglobin
+antiplenist
 antepagments
 archeologist
 anoles
