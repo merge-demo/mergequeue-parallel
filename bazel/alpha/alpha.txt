@@ -5032,6 +5032,7 @@ assassination
 antiprecipitin
 aguinaldo
 ambiency
+antisera
 afd
 antireticular
 anticommunist
@@ -15980,7 +15981,6 @@ ascertainable
 advection
 anabaptizing
 antiseptize
-antisera
 arbitraries
 autolyzing
 argumentatious
