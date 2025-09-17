@@ -2496,6 +2496,7 @@ dresser
 dilaters
 decibar
 dorsale
+decretively
 derivational
 dimming
 dermoid
@@ -2791,7 +2792,6 @@ dogey
 despumating
 desalinization
 deedbote
-decretively
 dictionary
 deprivers
 decretorian
