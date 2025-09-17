@@ -7080,6 +7080,7 @@ coquetoon
 centiday
 centigrado
 cerebriformly
+compactest
 cannikin
 copt
 centigrams
@@ -23445,7 +23446,6 @@ cokeney
 chloe
 contaminous
 contangential
-compactest
 clifford
 caresses
 contect
