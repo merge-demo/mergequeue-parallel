@@ -2536,7 +2536,6 @@ diarrhetic
 discus
 dorsocephalic
 declensionally
-declensions
 dript
 drinn
 declimatize
@@ -8335,6 +8334,7 @@ diaguite
 dyak
 defensively
 dapper
+declensions
 decomposed
 duskly
 demasted
