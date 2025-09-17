@@ -7819,7 +7819,6 @@ biblicopsychological
 biblike
 bibliofilm
 botaniser
-biocatalytic
 bibliographies
 bibliographize
 bipyridine
@@ -10255,6 +10254,7 @@ beggiatoaceae
 blacktops
 blastoporphyritic
 bijugular
+biocatalytic
 basialveolar
 baconism
 beholden
