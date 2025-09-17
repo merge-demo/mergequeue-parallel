@@ -6342,7 +6342,6 @@ caution
 couve
 cerebromedullary
 calcareosiliceous
-collocationable
 cautioner
 cautioners
 cornutus
@@ -24323,6 +24322,7 @@ cyclovertebral
 cooingly
 checkering
 cottonpicking
+collocationable
 cooja
 cheiroglossa
 coagulation
