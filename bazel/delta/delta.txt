@@ -1981,6 +1981,7 @@ debused
 debusing
 danger
 duggler
+deerdog
 dawdle
 disseize
 downline
@@ -3871,7 +3872,6 @@ discastle
 driftwood
 dissect
 dekagram
-deerdog
 damone
 denouncers
 deityship
