@@ -16710,6 +16710,7 @@ deriders
 disburdening
 dragoonage
 dustbox
+damper
 dragrope
 denaturational
 decades
@@ -16986,7 +16987,6 @@ dreamless
 dreamlikeness
 dobchick
 damboard
-damper
 diphylla
 dolcinist
 diarrheic
