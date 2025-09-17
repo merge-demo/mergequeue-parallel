@@ -560,7 +560,6 @@ catechistic
 caducecei
 caducei
 cleptomania
-caduceus
 caduciary
 caducibranch
 compunctions
@@ -19255,6 +19254,7 @@ cordax
 craniofacial
 cymbaeform
 commodatary
+caduceus
 collotype
 cardiospasm
 corporally
