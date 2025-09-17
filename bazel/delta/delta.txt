@@ -3424,6 +3424,7 @@ disavowance
 damned
 dormy
 discontented
+dowl
 defogged
 dormered
 drogh
@@ -15726,7 +15727,6 @@ discomfiting
 doorpiece
 dunites
 drivel
-dowl
 detumescent
 dialonian
 displacement
