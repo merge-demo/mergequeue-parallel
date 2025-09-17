@@ -4932,6 +4932,7 @@ cartographical
 cartographically
 carton
 cartoner
+closers
 cartonful
 covinously
 cartons
@@ -16693,7 +16694,6 @@ carbomethene
 chlorophyllose
 chrysler
 checkerwise
-closers
 carbonizes
 closes
 closeting
