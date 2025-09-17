@@ -1172,7 +1172,6 @@ blachong
 baitfish
 buffeter
 ballard
-bebopper
 baiting
 baywoods
 bodhisat
@@ -5061,6 +5060,7 @@ banqueter
 befire
 burgherdom
 benzein
+bebopper
 befist
 banco
 boomerangs
