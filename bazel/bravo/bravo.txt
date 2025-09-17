@@ -3091,7 +3091,6 @@ blencorn
 breachy
 barwal
 benzophenoxazine
-bastardism
 boilerworks
 blacklegs
 broomcorn
@@ -11264,6 +11263,7 @@ beglobed
 bioecologies
 buckaroo
 begirdled
+bastardism
 blouse
 blearier
 basks
