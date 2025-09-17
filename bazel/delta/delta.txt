@@ -6494,6 +6494,7 @@ dicynodontia
 diag
 dispossesses
 descendable
+deceivability
 descendants
 dimensioned
 dipeptid
@@ -15114,7 +15115,6 @@ demirhumb
 doggedness
 demonographer
 defamy
-deceivability
 dendroidal
 disarrangements
 distrains
