@@ -16624,7 +16624,6 @@ chemicophysiological
 collaterals
 coexecutrix
 chaudron
-conjurer
 clerodendron
 cyclothurus
 coadmire
@@ -28012,6 +28011,7 @@ cramming
 chameleonic
 crammingly
 cleistogamic
+conjurer
 cygnus
 cramp
 cramped
