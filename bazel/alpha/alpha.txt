@@ -3420,7 +3420,6 @@ adsorbing
 allowably
 abreaction
 adelphian
-adelphic
 adelphous
 adipsous
 azole
@@ -12020,6 +12019,7 @@ allbone
 atrophied
 amblygon
 almsman
+adelphic
 anchisaurus
 aegirite
 antitradition

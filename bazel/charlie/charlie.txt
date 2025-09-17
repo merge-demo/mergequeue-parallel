@@ -1618,7 +1618,6 @@ consuetitude
 caloreceptor
 cochairs
 calorescence
-calory
 clearly
 coagulatory
 catalytical
@@ -26888,6 +26887,7 @@ countermaid
 contrectation
 counterman
 countermand
+calory
 commelinaceae
 craniological
 contemner
