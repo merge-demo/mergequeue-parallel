@@ -2718,7 +2718,6 @@ devonshire
 doublure
 distortable
 decore
-dudgeon
 docklands
 decorist
 dragged
@@ -15413,6 +15412,7 @@ dermatophytic
 dolorimeter
 dolorimetrically
 delusional
+dudgeon
 dialler
 diffuse
 disposedly
