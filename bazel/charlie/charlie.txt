@@ -26043,7 +26043,6 @@ cosiness
 cosins
 cosmetic
 cosmetically
-calctufas
 chasses
 cliquier
 custrel
@@ -28414,6 +28413,7 @@ creased
 creaseless
 creashaks
 chevachie
+calctufas
 chattered
 childminder
 creasier
