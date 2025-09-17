@@ -8442,6 +8442,7 @@ dialog
 ditties
 defibrinize
 dialogers
+drearihead
 doorway
 droplet
 discommodes
@@ -17013,7 +17014,6 @@ diabrotic
 debatingly
 doohinkey
 denaturize
-drearihead
 dialogged
 dartles
 duledge
