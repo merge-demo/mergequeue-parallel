@@ -8421,6 +8421,7 @@ chamian
 consecrative
 capeskin
 chamise
+ciboule
 chamises
 cladothrix
 chamiso
@@ -11408,7 +11409,6 @@ chlorates
 chemotroph
 chlorpromazine
 cheerfulsome
-ciboule
 chlorsalol
 confetto
 cabrioles
