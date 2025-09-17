@@ -9322,7 +9322,6 @@ anticathode
 aetian
 administrations
 antaimerina
-adjustors
 anesthetics
 adnex
 action
@@ -18690,6 +18689,7 @@ albumosuria
 apehood
 archespores
 airted
+adjustors
 autonephrectomy
 archesporial
 archest

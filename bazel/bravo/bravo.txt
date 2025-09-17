@@ -4571,7 +4571,6 @@ branchial
 brachelytrous
 bedstand
 balances
-bedcovers
 blader
 bouts
 bucklered
@@ -14804,6 +14803,7 @@ bronchopulmonary
 barcelonas
 bonetta
 becapped
+bedcovers
 breadmaker
 brogueneer
 bowieful
