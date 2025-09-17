@@ -4322,6 +4322,7 @@ demagnetising
 diacranteric
 detrains
 different
+driller
 decomposes
 dhoney
 disseminating
@@ -8599,7 +8600,6 @@ diarist
 destroying
 dicotyledons
 disvertebrate
-driller
 diascope
 dispunitive
 donatio
