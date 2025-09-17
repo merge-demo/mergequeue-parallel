@@ -7801,7 +7801,6 @@ discretionary
 dram
 digger
 dysarthrosis
-diureses
 dayton
 domiciliary
 diplotegia
@@ -15225,6 +15224,7 @@ deromanticize
 desalter
 dogsbodies
 decalcifying
+diureses
 doudle
 deleniate
 dentist
