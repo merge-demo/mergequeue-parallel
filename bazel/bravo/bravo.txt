@@ -6042,7 +6042,6 @@ benchful
 benchman
 bekissed
 baryecoia
-burnout
 briggsian
 behooveful
 bunnies
@@ -7092,6 +7091,7 @@ believes
 bastardise
 belgae
 bessemer
+burnout
 bessemerize
 bessemerized
 beatings
