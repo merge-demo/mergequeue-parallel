@@ -18310,6 +18310,7 @@ ankh
 anthracomancy
 anteriority
 antlion
+assart
 amboceptor
 actinistia
 archdeacons
@@ -21550,7 +21551,6 @@ assamese
 affret
 assamites
 acetamide
-assart
 antistriker
 assigned
 angulation
