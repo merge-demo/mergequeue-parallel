@@ -8405,7 +8405,6 @@ anorexies
 alkylidene
 aborts
 aigrettes
-alkyls
 aphthae
 agastache
 aerograms
@@ -15170,6 +15169,7 @@ annoy
 adenocyst
 antihygienically
 amidon
+alkyls
 alphean
 almudes
 antihylist
