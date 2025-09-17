@@ -13432,6 +13432,7 @@ apostasis
 annulosa
 apparency
 annuls
+abstersive
 addresser
 annumerate
 aboundingly
@@ -23764,7 +23765,6 @@ aaa
 auth
 aerosphere
 afterrake
-abstersive
 archscoundrel
 aluta
 actively
