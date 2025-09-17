@@ -1890,7 +1890,6 @@ constant
 centralness
 coyure
 cloghad
-counterflashing
 castalia
 camembert
 conglobated
@@ -13075,6 +13074,7 @@ confest
 ceroxyle
 champaca
 cibaries
+counterflashing
 coequality
 chippering
 conyrine

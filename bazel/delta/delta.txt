@@ -10002,7 +10002,6 @@ dedolation
 diatesseron
 dodged
 disconcerts
-diminution
 deeplier
 dardistan
 deaerates
@@ -12892,6 +12891,7 @@ discolorization
 dubhe
 decalcifier
 degomme
+diminution
 deadeners
 drywalls
 distressingly
