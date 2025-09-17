@@ -11987,7 +11987,6 @@ anaxagorean
 andira
 alienicola
 alswith
-alligate
 amidogens
 alcaic
 anaxone
@@ -23139,6 +23138,7 @@ attractor
 accroach
 asterias
 apneumatic
+alligate
 acardite
 apposed
 attrectation
