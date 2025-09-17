@@ -7115,7 +7115,6 @@ disincentive
 deconsideration
 destinism
 decretion
-deriv
 dicyemid
 drowsed
 dissuasions
@@ -13811,6 +13810,7 @@ dozenth
 distaste
 defoliators
 delayage
+deriv
 derogatively
 dysphemia
 defeminize
