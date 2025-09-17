@@ -8539,7 +8539,6 @@ columbid
 cestoda
 copybook
 chancellors
-coon
 chancellorship
 chancellorships
 cilices
@@ -13164,6 +13163,7 @@ ciceronianisms
 cuckooing
 ciceronianist
 compellability
+coon
 czaritza
 colluviums
 coelanaglyphic
