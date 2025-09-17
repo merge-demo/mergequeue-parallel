@@ -141,7 +141,6 @@ antiatoms
 acxoyatl
 archenteric
 animalivora
-abaton
 asperggilli
 alloyed
 axles
@@ -19247,6 +19246,7 @@ argala
 aphididae
 asteroxylon
 acontius
+abaton
 aho
 arthrobranchia
 arithmetics
