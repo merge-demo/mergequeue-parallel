@@ -19021,7 +19021,6 @@ canzone
 corved
 cham
 collates
-collation
 collations
 curricular
 cesti
@@ -25337,6 +25336,7 @@ comatulid
 cornetfishes
 cornetist
 cornets
+collation
 cornetter
 curds
 cyclothymic
