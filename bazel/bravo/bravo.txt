@@ -673,7 +673,6 @@ batfowler
 brosot
 basos
 brioche
-biannual
 begall
 bronchiolitis
 bathyesthesia
@@ -16869,6 +16868,7 @@ burdensomely
 buick
 bizarre
 blunder
+biannual
 bloodstained
 bockey
 batis
