@@ -15046,7 +15046,6 @@ blisterweed
 breva
 breveting
 bostrychidae
-balter
 brakeroot
 bashlyk
 blows
@@ -18286,6 +18285,7 @@ buprestid
 buttocked
 buttocker
 bagobo
+balter
 bacteriopsonic
 badderlocks
 buttocks
