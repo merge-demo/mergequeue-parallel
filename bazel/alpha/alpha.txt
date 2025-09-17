@@ -9953,6 +9953,7 @@ autometric
 argusfish
 alts
 amblygonal
+apogeotropic
 allergology
 acephali
 amblygonite
@@ -18805,7 +18806,6 @@ alumin
 acapulco
 adroiter
 abound
-apogeotropic
 archings
 agglutinations
 adhesions
