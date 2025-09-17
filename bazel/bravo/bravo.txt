@@ -11463,7 +11463,6 @@ bagpipers
 bluffable
 blicky
 birrs
-bazzite
 baraca
 burbled
 brere
@@ -17779,6 +17778,7 @@ bursae
 bursary
 botrydium
 backstroked
+bazzite
 bacterizing
 brave
 bursarial
