@@ -11587,7 +11587,6 @@ ablator
 acnodes
 aurification
 anagogic
-anagogics
 advecting
 annoyment
 anagrammatically
@@ -24068,6 +24067,7 @@ adhamant
 autographer
 antidiffuser
 ammoreslinol
+anagogics
 autographometer
 autographs
 apographal
