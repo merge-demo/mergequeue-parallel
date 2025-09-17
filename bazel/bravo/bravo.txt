@@ -523,7 +523,6 @@ baddish
 backstops
 backstrapped
 backstreet
-bahut
 blastophoric
 bismuthiferous
 butomaceous
@@ -8667,6 +8666,7 @@ barbastel
 bracketted
 basibranchial
 borborygmies
+bahut
 bostrychoidal
 barbet
 bimboes
