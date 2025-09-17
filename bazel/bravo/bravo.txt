@@ -13289,7 +13289,6 @@ banderillas
 burglar
 bouche
 bylawman
-bristletail
 bromide
 bullydom
 blitzkriegs
@@ -16107,6 +16106,7 @@ bathmotropism
 baiter
 browet
 brander
+bristletail
 becrimed
 blastular
 beagle
