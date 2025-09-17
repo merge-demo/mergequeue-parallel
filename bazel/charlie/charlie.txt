@@ -3638,6 +3638,7 @@ coleopterological
 carangin
 carangoid
 coemptive
+civilian
 chabutra
 ceil
 cicatrisive
@@ -15054,7 +15055,6 @@ cephaldemae
 carvel
 civilest
 cardiod
-civilian
 chalcostibite
 civilianize
 complementalness
