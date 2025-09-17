@@ -19056,7 +19056,6 @@ amortizable
 acheer
 arctiid
 allokurtic
-abducting
 arctium
 arctoidean
 arctos
@@ -19205,6 +19204,7 @@ areometrical
 arbutus
 anthologizer
 antivirus
+abducting
 areopagite
 areopagitica
 astacus
