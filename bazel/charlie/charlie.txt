@@ -3743,7 +3743,6 @@ connectible
 carbodynamite
 carbohemoglobin
 calamodendron
-cribbling
 cannibalism
 carbohydrate
 cardiotrophia
@@ -30846,6 +30845,7 @@ crabapple
 cleithrum
 chlorophyllan
 copaline
+cribbling
 culot
 campodeid
 compromissary
