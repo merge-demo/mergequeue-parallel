@@ -13192,6 +13192,7 @@ butteriest
 barded
 broiling
 bridgemaker
+bathylith
 bullhorns
 brightened
 brat
@@ -17121,7 +17122,6 @@ boozy
 balsamical
 benedictional
 bromine
-bathylith
 baizes
 bullrush
 bulls
