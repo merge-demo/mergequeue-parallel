@@ -6454,7 +6454,6 @@ aikinite
 agenes
 arbitrarily
 afterknowledge
-antigorite
 achromatised
 aile
 ambulatorium
@@ -20364,6 +20363,7 @@ asslike
 antiskidding
 abusedly
 antimodernness
+antigorite
 antireformer
 artery
 augments

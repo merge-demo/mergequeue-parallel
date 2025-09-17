@@ -5440,6 +5440,7 @@ boardmanship
 boatable
 beetling
 behenic
+brule
 beans
 bribeable
 blusteringly
@@ -8686,7 +8687,6 @@ bogwood
 biloculine
 bullethead
 bottomry
-brule
 barhopping
 budless
 bimetals
