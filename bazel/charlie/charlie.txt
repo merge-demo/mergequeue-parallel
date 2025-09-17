@@ -6256,7 +6256,6 @@ cestos
 cetiosauria
 clarinda
 caus
-cryingly
 councillors
 causa
 causae
@@ -20091,6 +20090,7 @@ chalkstony
 chrysophyllum
 commemorizing
 commenced
+cryingly
 circumscriptive
 cotillion
 citrylidene
