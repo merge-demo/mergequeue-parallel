@@ -13696,6 +13696,7 @@ anour
 altropathy
 asher
 anovesical
+apidae
 aslake
 anoxemia
 altiplanicie
@@ -24164,7 +24165,6 @@ abbasid
 automata
 archdean
 automatable
-apidae
 awash
 aminities
 automates
