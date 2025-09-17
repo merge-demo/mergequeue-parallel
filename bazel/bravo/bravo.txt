@@ -2357,6 +2357,7 @@ bagging
 bones
 bastinade
 bisexualism
+barite
 biolysis
 belligerency
 blockier
@@ -13598,7 +13599,6 @@ bibliolatrist
 boughs
 bougie
 benefaction
-barite
 bimodulus
 boulanger
 boulangism
