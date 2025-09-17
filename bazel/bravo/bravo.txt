@@ -8195,7 +8195,6 @@ bb
 boneache
 bullfist
 bespurt
-bulgaric
 biforking
 brombenzyl
 browache
@@ -9844,6 +9843,7 @@ bewhisper
 bait
 besought
 broth
+bulgaric
 birred
 backswing
 bitterheartedness
