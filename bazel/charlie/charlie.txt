@@ -324,6 +324,7 @@ cacodemonia
 cowtongue
 citizendom
 cacodemonial
+chinook
 cacodemonize
 cacodyl
 cedrium
@@ -10807,7 +10808,6 @@ chinoline
 chinologist
 chinone
 cueva
-chinook
 chinookan
 clavicylinder
 chinooks
