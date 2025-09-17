@@ -2741,6 +2741,7 @@ caliche
 candyfloss
 cannelon
 castrametation
+chousing
 clatsop
 cannoneers
 colts
@@ -30765,7 +30766,6 @@ countertime
 ceroon
 culerage
 cellarwoman
-chousing
 culett
 cramble
 cytoparaplastin
