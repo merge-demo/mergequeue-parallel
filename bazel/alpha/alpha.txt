@@ -6114,6 +6114,7 @@ aggress
 agrarianly
 agrauleum
 agre
+aquavit
 agreation
 ampulla
 ambushes
@@ -18066,7 +18067,6 @@ arminian
 asthenosphere
 atip
 aquatone
-aquavit
 abroad
 aquavits
 amantillo
