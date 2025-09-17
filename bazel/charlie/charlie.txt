@@ -8313,6 +8313,7 @@ compressing
 chalkotheke
 chalkpit
 chalkrail
+commandry
 circumflect
 catechizable
 calycanthemous
@@ -20050,7 +20051,6 @@ commandos
 colove
 cheery
 creepie
-commandry
 caudata
 commark
 croupal
