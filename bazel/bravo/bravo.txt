@@ -9915,6 +9915,7 @@ branchling
 betrap
 bergerette
 bucking
+biologists
 bosonic
 bultong
 britt
@@ -13105,7 +13106,6 @@ belfry
 beblubber
 boresome
 buffeting
-biologists
 bicorporal
 beryls
 bassarisk
