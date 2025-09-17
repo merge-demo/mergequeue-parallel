@@ -12203,6 +12203,7 @@ broggerite
 beshrews
 baluchitherium
 bogwort
+biodyne
 boloism
 basics
 bovinity
@@ -12755,7 +12756,6 @@ beeware
 bothriums
 betoyan
 bakutu
-biodyne
 botanic
 bobotee
 brutifying
