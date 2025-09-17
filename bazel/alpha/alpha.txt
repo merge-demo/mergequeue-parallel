@@ -5728,6 +5728,7 @@ apical
 anartismos
 agglutinate
 alloxuric
+ako
 analytically
 arenaceous
 anythingarian
@@ -6965,7 +6966,6 @@ aknow
 associability
 aggradation
 awber
-ako
 aglycones
 archicytula
 akoasm
