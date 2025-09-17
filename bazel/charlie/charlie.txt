@@ -7520,6 +7520,7 @@ cerci
 cercidiphyllaceae
 cryotrons
 colloquies
+carollers
 cercises
 cercolabes
 cercomonad
@@ -26189,7 +26190,6 @@ cossie
 cossnent
 contemn
 citydom
-carollers
 costage
 costally
 costanoan
