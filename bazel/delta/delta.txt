@@ -7577,7 +7577,6 @@ disrupting
 diplanetism
 dentiloquy
 deuterium
-declaimed
 dominators
 deuterocanonical
 deuterocasease
@@ -16193,6 +16192,7 @@ dwindle
 denshire
 daimonistic
 daktylon
+declaimed
 dermathemia
 deathbed
 domesticity
