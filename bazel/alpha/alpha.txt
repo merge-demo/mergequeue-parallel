@@ -11355,6 +11355,7 @@ adenophore
 afer
 appetites
 algoristic
+anticlinal
 astely
 attemperately
 amusement
@@ -14747,7 +14748,6 @@ abassi
 assure
 anticlimax
 abret
-anticlinal
 anticlines
 anticlinoria
 amphigouri
