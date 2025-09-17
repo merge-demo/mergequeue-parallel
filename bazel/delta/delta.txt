@@ -3464,7 +3464,6 @@ desalt
 dolichocephalism
 deformable
 darkey
-deformation
 deflections
 deformations
 dandily
@@ -18284,6 +18283,7 @@ dunitic
 disputant
 deanery
 decipher
+deformation
 diagrammeter
 dabchick
 dinaric
