@@ -16673,6 +16673,7 @@ concussant
 clubbiest
 colleagueship
 cerebricity
+chlorimetric
 cyanosis
 clem
 conglution
@@ -22974,7 +22975,6 @@ consigned
 consignee
 consignify
 cubitalia
-chlorimetric
 cantorous
 cooptive
 countersalient
