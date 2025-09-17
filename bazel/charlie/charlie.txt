@@ -5601,6 +5601,7 @@ cataplasia
 conepate
 costlier
 capering
+conges
 cataplastic
 casten
 catapleiite
@@ -19509,7 +19510,6 @@ colorin
 coloring
 clangful
 colorings
-conges
 count
 clutching
 cystous
