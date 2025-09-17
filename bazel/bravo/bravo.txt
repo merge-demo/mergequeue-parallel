@@ -150,7 +150,6 @@ bedrivelled
 banister
 booboos
 bursati
-bludge
 belick
 basidiocarp
 bedumbing
@@ -7740,6 +7739,7 @@ biannually
 birchwood
 beblotch
 biarchy
+bludge
 brandisite
 biarcuated
 bluings
