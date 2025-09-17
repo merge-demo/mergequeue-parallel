@@ -11656,7 +11656,6 @@ deorganize
 disboweled
 discontents
 discontiguity
-defuses
 dambonite
 difflation
 dishabit
@@ -13828,6 +13827,7 @@ defoliated
 distastefulness
 denom
 dialling
+defuses
 displuviate
 drepanoid
 displaces
