@@ -1724,6 +1724,7 @@ disembed
 defensibility
 dentinalgia
 deaspiration
+dishonest
 daredevilry
 desponsate
 dewan
@@ -4859,7 +4860,6 @@ daily
 discharge
 dialyses
 dictyosiphonaceous
-dishonest
 dermatome
 dialkylic
 damageous
