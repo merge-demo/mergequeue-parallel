@@ -4535,7 +4535,6 @@ aeginetan
 aegipan
 aegyptilla
 agonisingly
-aegisthus
 aegithognathae
 aegophony
 aegrotant
@@ -9119,6 +9118,7 @@ ameer
 argentamin
 aphony
 aerothermodynamic
+aegisthus
 angiolymphoma
 abhorrent
 actuarially
