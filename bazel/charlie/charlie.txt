@@ -1983,7 +1983,6 @@ camleting
 coletit
 camletted
 consignification
-cammarum
 chionanthus
 crost
 camooch
@@ -4915,6 +4914,7 @@ cartist
 cartloads
 clicket
 credo
+cammarum
 cartmaking
 cartobibliography
 columbia
