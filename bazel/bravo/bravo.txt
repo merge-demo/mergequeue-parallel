@@ -10161,7 +10161,6 @@ boatful
 boars
 bourns
 beaverlike
-belfried
 bottomlessness
 bemuslined
 bachelorwise
@@ -17516,6 +17515,7 @@ bedirtied
 bashkir
 bellonion
 bhajan
+belfried
 bhima
 bobble
 broadacre
