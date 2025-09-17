@@ -1732,7 +1732,6 @@ assailability
 acecaffine
 acleistocardia
 anemia
-apochromatic
 acedy
 acediamin
 adduces
@@ -17869,6 +17868,7 @@ approximable
 alpinism
 approximal
 athreptic
+apochromatic
 achromoderma
 approximants
 avifaunae
