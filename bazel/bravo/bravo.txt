@@ -3643,7 +3643,6 @@ buyides
 bewimple
 baculiform
 bipinnately
-barytophyllite
 bassanello
 blackball
 bumbleberry
@@ -11490,6 +11489,7 @@ branchiostegan
 bluffs
 boastfully
 behaves
+barytophyllite
 bromthymol
 budder
 bluggy
