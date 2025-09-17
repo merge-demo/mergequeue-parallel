@@ -2658,7 +2658,6 @@ acroatic
 alfurese
 arrangements
 acrobacies
-amorphophyte
 artarin
 apanage
 acrobates
@@ -17958,6 +17957,7 @@ apteroid
 aptest
 aureity
 amazonian
+amorphophyte
 ataentsic
 avatara
 aptychus
