@@ -9870,7 +9870,6 @@ clistocarpous
 chemisorb
 cardiotherapy
 commendator
-coprophilic
 cholecystogastrostomy
 carid
 copouts
@@ -19900,6 +19899,7 @@ comediette
 coagulate
 chelydridae
 comedo
+coprophilic
 catacumbal
 cassareep
 comely
