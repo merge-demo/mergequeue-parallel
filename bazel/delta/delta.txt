@@ -8295,6 +8295,7 @@ deserver
 dizzy
 disputableness
 dactylion
+decursive
 diagonalization
 diagnosing
 dandyprat
@@ -12801,7 +12802,6 @@ dyslogistic
 discoverture
 doily
 disloyal
-decursive
 deliverance
 dronepipe
 dotardly
