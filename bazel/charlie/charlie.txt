@@ -3930,7 +3930,6 @@ crotalinae
 carcharhinus
 carcharias
 cerotene
-carchariid
 clerisy
 carcharioid
 congredient
@@ -28055,6 +28054,7 @@ consonantalized
 crany
 caliber
 cariacine
+carchariid
 convincible
 crania
 cancerate
