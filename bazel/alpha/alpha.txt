@@ -17970,7 +17970,6 @@ affusions
 antereformation
 accounsel
 apokreos
-acutilingual
 aptote
 artocarpus
 ambassy
@@ -23165,6 +23164,7 @@ aquation
 abjunctive
 agoniadin
 attriteness
+acutilingual
 atrioporal
 adherescence
 attrition
