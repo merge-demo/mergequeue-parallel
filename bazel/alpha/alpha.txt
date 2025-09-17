@@ -10126,7 +10126,6 @@ alloying
 analcitite
 absorbition
 ameiva
-amel
 adj
 anhydrization
 asyllabia
@@ -12813,6 +12812,7 @@ antinihilism
 auxoamylase
 auronal
 anacanth
+amel
 angustirostrate
 avowedness
 angustifolious
