@@ -30144,6 +30144,7 @@ compursion
 cogue
 chronographical
 carbonising
+curvature
 ceramist
 coemploys
 cerotype
@@ -31595,7 +31596,6 @@ cheet
 chaton
 curvation
 curvative
-curvature
 cozy
 clingstone
 calendulas
