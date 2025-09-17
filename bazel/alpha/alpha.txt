@@ -6445,6 +6445,7 @@ abide
 apogalacteum
 anarcestean
 antipersonnel
+asperates
 afterburner
 anorchia
 aikinite
@@ -11529,7 +11530,6 @@ allegory
 aucanian
 anticarnivorous
 alcaide
-asperates
 autoheterodyne
 anaematosis
 arhythmically
