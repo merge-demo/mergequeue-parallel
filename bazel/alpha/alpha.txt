@@ -20884,6 +20884,7 @@ amortises
 annexive
 adherently
 apperil
+assembl
 amphichromatic
 ascidiacea
 annulments
@@ -21588,7 +21589,6 @@ agistator
 antisi
 aerotonometer
 asseize
-assembl
 assemblable
 assemblance
 aphthous
