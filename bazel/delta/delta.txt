@@ -1884,7 +1884,6 @@ debonair
 dextrorotary
 debonairity
 debonairness
-defiantness
 dissipativity
 digressing
 dobies
@@ -7161,6 +7160,7 @@ disgracefully
 dampeners
 donenesses
 demolished
+defiantness
 doyenne
 dispraised
 disworship
