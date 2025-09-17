@@ -2414,6 +2414,7 @@ decima
 decimalism
 dueling
 demiflouncing
+dft
 decimalist
 displeases
 doweress
@@ -8071,7 +8072,6 @@ dioeciously
 deculturate
 dezincs
 damageable
-dft
 dinobryon
 dialects
 defences
