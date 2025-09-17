@@ -13741,6 +13741,7 @@ bifidity
 bescurf
 burga
 bufflehorn
+barbwire
 banisher
 biperforate
 bicycled
@@ -16061,7 +16062,6 @@ borrowing
 bramblier
 brachylogies
 brothering
-barbwire
 brailed
 belched
 birth
