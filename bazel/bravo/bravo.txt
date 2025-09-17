@@ -7363,7 +7363,6 @@ befreeze
 better
 besmirched
 batrachia
-buboes
 bashalick
 bulbocavernous
 bivouacks
@@ -14727,6 +14726,7 @@ brazers
 barres
 ballooner
 bradypepsia
+buboes
 brides
 burgheress
 baru
