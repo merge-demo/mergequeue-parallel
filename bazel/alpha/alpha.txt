@@ -6935,7 +6935,6 @@ agamis
 aphoriser
 apocryphon
 arthresthesia
-aroint
 androides
 akkadist
 akmite
@@ -15157,6 +15156,7 @@ antihelix
 aitiotropic
 accentuator
 antilopine
+aroint
 antihero
 azulejo
 antihierarchy
