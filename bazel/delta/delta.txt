@@ -9074,6 +9074,7 @@ disseminule
 dichromism
 dicrotal
 dicrotous
+disoccluded
 deva
 dicruridae
 delia
@@ -12956,7 +12957,6 @@ duff
 darkful
 diligentness
 dummying
-disoccluded
 disoccluding
 dairy
 dilatableness
