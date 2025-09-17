@@ -11827,6 +11827,7 @@ chopdar
 cyprinoidea
 connation
 curialities
+civitas
 crampits
 cornutos
 chopines
@@ -15088,7 +15089,6 @@ crowing
 civism
 civisms
 civitan
-civitas
 civite
 chinchasuyu
 chattel
