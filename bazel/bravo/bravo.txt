@@ -6203,7 +6203,6 @@ backspread
 bacillophobia
 beggared
 barbigerous
-bensh
 bioclimatology
 brimfully
 binnacles
@@ -9396,6 +9395,7 @@ besugar
 bulimiac
 bivascular
 baccheion
+bensh
 bandwidths
 brawl
 bespatterment
