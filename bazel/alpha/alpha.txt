@@ -3878,7 +3878,6 @@ athodyd
 administrant
 administrates
 alabastrons
-administration
 administrational
 administrative
 affixion
@@ -24633,6 +24632,7 @@ arterious
 annuli
 acinetarian
 aphlogistic
+administration
 anopheline
 admove
 aeneid

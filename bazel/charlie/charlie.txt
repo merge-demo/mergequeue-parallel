@@ -9855,7 +9855,6 @@ calombo
 crackrope
 cerebropsychosis
 chemise
-chemisette
 coprophyte
 chemism
 caliciform
@@ -18481,6 +18480,7 @@ capucine
 cognized
 cognizing
 crescive
+chemisette
 cognizor
 cognomens
 carnally
