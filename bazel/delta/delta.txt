@@ -5888,6 +5888,7 @@ depreciable
 depreciate
 deponents
 deconcentrating
+decuries
 despots
 deckhouses
 dinglebird
@@ -17219,7 +17220,6 @@ doley
 dematerialise
 dispensator
 drunkenness
-decuries
 decine
 dipygi
 dactylically
