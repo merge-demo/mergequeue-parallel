@@ -864,7 +864,6 @@ delightful
 desists
 delegatory
 degauss
-dawted
 defix
 deneb
 devoicing
@@ -4688,6 +4687,7 @@ demisemiquaver
 demisemitone
 dislodging
 decem
+dawted
 demiss
 disprobative
 demissory
