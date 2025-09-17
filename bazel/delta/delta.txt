@@ -12076,7 +12076,6 @@ dunderheaded
 discous
 discontinuity
 dulcose
-daggy
 doorlike
 drumble
 ditheist
@@ -15428,6 +15427,7 @@ drop
 design
 distilleries
 dismit
+daggy
 decanters
 dolphus
 daddling
