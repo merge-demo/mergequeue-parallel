@@ -17895,6 +17895,7 @@ arteriotomy
 abnegative
 aggrandise
 alemonger
+agoniatite
 agt
 arnatta
 anglimaniac
@@ -18672,7 +18673,6 @@ assurgent
 archeries
 acoustically
 allomerization
-agoniatite
 angioma
 archers
 aghlabite
