@@ -3712,7 +3712,6 @@ captress
 cambibia
 ciconia
 carbazic
-carbazylic
 chlorpikrin
 civilist
 carbazole
@@ -22336,6 +22335,7 @@ cheeps
 chirper
 conventionalise
 congolese
+carbazylic
 cynical
 coincline
 circumpolygon
