@@ -2405,7 +2405,6 @@ carnie
 comitium
 cancerophobe
 cancerophobia
-celtophil
 cancerously
 clairvoyancies
 coolth
@@ -6646,6 +6645,7 @@ ceils
 churlhood
 compound
 counterquestion
+celtophil
 ceratosaurus
 coathangers
 cuscus
