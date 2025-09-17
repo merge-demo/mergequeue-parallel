@@ -1573,6 +1573,7 @@ appomattoc
 apotype
 accoutered
 ablepsy
+anomalies
 anoxia
 agrostologist
 aneling
@@ -13525,7 +13526,6 @@ absolutization
 aboriginal
 antivariolous
 atrabilaire
-anomalies
 anomaliflorous
 anomaliped
 associations
