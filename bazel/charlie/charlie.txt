@@ -7757,7 +7757,6 @@ certis
 certitudes
 circularized
 certosa
-certose
 certosina
 canewares
 cobblestoned
@@ -19790,6 +19789,7 @@ coremium
 chroma
 chrismale
 camerine
+certose
 combatant
 cobbin
 conveniens
