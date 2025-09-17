@@ -1384,6 +1384,7 @@ backdrops
 borderlands
 benzoquinoline
 beggarliness
+brooklet
 brayed
 butterbump
 betwixen
@@ -3610,7 +3611,6 @@ banilad
 bathukolpian
 bromogelatin
 bathvillite
-brooklet
 bookmobile
 brachytmema
 blithelike
