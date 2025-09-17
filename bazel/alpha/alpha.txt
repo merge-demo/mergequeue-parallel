@@ -15223,6 +15223,7 @@ antilacrosser
 antiserumsera
 antilactase
 acalypterae
+anet
 antilegomena
 antilemic
 abrosia
@@ -15504,7 +15505,6 @@ archeologic
 allomucic
 anesthyl
 antifrictional
-anet
 antiopiumist
 astronomically
 approvableness
