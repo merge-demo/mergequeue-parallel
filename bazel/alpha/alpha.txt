@@ -8493,7 +8493,6 @@ audiovisuals
 allegiancy
 astronautically
 allegorically
-acidosis
 alphabetised
 aqueduct
 aboves
@@ -19440,6 +19439,7 @@ afars
 arguing
 apnea
 argulus
+acidosis
 argument
 arabidopsis
 argumenta
