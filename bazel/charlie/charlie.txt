@@ -9488,7 +9488,6 @@ checkbite
 checkbits
 checkbook
 chachalaca
-cirrigerous
 climatically
 chaetites
 checker
@@ -30712,6 +30711,7 @@ chlorins
 cuiejo
 cuif
 collimation
+cirrigerous
 cuinage
 cubelium
 cuirassed

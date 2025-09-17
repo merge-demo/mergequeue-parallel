@@ -11216,7 +11216,6 @@ anticreeper
 amphitrichate
 amphitropous
 amphioxis
-anargyros
 abomasi
 ampholytic
 abaff
@@ -23083,6 +23082,7 @@ attingent
 acetimetric
 anisognathous
 apple
+anargyros
 adaptors
 attitudinise
 antoninianus
