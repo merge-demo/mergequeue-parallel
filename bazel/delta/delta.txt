@@ -568,7 +568,6 @@ duodecillionth
 dextrorotation
 dieback
 delisk
-designations
 dialyzing
 deliverers
 damar
@@ -3216,6 +3215,7 @@ disjects
 dyeleaves
 daughterliness
 dockhead
+designations
 domesticate
 defiber
 destructed
