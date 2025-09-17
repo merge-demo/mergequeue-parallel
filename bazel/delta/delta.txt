@@ -2761,6 +2761,7 @@ decreet
 dungyard
 dropsied
 dop
+decontaminate
 dorsalward
 disharmonize
 decremeter
@@ -16169,7 +16170,6 @@ desperately
 disorderedly
 doughface
 deracialize
-decontaminate
 dactylologies
 dactylographer
 demigoddessship
