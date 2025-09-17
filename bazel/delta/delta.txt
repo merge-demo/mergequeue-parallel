@@ -9917,7 +9917,6 @@ divergences
 delitescence
 diosphenol
 dorlach
-dossennus
 diphysitism
 diseurs
 dimber
@@ -18313,6 +18312,7 @@ dunnite
 dunnites
 dagger
 dextorsal
+dossennus
 doray
 desmepithelium
 draggiest

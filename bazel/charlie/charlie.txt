@@ -15804,7 +15804,6 @@ cleansers
 canalla
 conventionalize
 codescendant
-cleanses
 cleanskin
 cleanup
 conveniently
@@ -17599,6 +17598,7 @@ cetonia
 coccidae
 coagency
 compartmentize
+cleanses
 coccidial
 cutikin
 cloddishly
