@@ -17591,7 +17591,6 @@ coccic
 cautioning
 chrisoms
 cetonia
-coccidae
 coagency
 compartmentize
 cleanses
@@ -26668,6 +26667,7 @@ cystamine
 cervid
 counterattacker
 caenogenetically
+coccidae
 counterattestation
 counterattraction
 countercompany
