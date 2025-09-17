@@ -15577,6 +15577,7 @@ dona
 dict
 donaciform
 donack
+debugs
 daishiki
 deadman
 decrescence
@@ -17753,7 +17754,6 @@ discoloredness
 discriminateness
 disenthroning
 derivate
-debugs
 deportees
 dietotoxicity
 dichondra
