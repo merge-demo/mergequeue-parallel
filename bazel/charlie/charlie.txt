@@ -10227,7 +10227,6 @@ chamomilla
 chorisepalous
 chiarooscuro
 crankly
-chiaroscuros
 chuvash
 coulis
 chias
@@ -30134,6 +30133,7 @@ chimango
 controversialize
 chemotherapies
 chemicoengineering
+chiaroscuros
 cruciferae
 crucify
 counterbond
