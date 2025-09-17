@@ -2265,7 +2265,6 @@ androcles
 acierated
 amphoriloquy
 americophobe
-abbreviatory
 athetoid
 absorbed
 acieration
@@ -9488,6 +9487,7 @@ alulim
 agrom
 angas
 alumic
+abbreviatory
 alumiferous
 affinition
 adiposogenital
