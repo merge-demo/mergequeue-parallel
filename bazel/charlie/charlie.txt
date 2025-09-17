@@ -372,7 +372,6 @@ centinel
 chrysin
 cacoon
 chologenetic
-calliphora
 cacophonic
 cacophonically
 cacophonists
@@ -12666,6 +12665,7 @@ cubation
 cretics
 cecidology
 contracted
+calliphora
 cecopexy
 canioned
 cider
