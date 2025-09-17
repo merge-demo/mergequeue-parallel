@@ -2607,7 +2607,6 @@ azelfafage
 arbutin
 acridophagus
 arrived
-acriflavin
 alepidote
 adrenotrophin
 antephialtic
@@ -2795,6 +2794,7 @@ astrol
 ascophorous
 acropodium
 acropoleis
+acriflavin
 acropora
 asthenope
 acarologist
