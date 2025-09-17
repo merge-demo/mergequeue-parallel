@@ -4223,7 +4223,6 @@ beautihood
 berbamine
 blattariae
 barest
-burgonet
 beaverism
 bitypic
 beriming
@@ -6348,6 +6347,7 @@ barquentine
 bronchotetany
 benzopyrene
 bourignonist
+burgonet
 bivouac
 bairnlier
 blether
