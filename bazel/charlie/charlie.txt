@@ -5690,7 +5690,6 @@ cate
 cityful
 coronets
 catechesis
-congenator
 conduceability
 cottony
 cheirosophy
@@ -30300,6 +30299,7 @@ cierzo
 crura
 complexionably
 crural
+congenator
 crurogenital
 cruroinguinal
 coadventuress
