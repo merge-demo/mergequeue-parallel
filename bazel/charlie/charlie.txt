@@ -16180,7 +16180,6 @@ climatological
 climatometer
 climaxed
 ctf
-climaxing
 chedite
 consignificative
 consequence
@@ -21314,6 +21313,7 @@ claustrophobic
 cordiform
 counterfeited
 concertino
+climaxing
 concertinos
 concertise
 cinematheques
