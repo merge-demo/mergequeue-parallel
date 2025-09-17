@@ -5740,7 +5740,6 @@ airlessness
 acclaiming
 agglutogenic
 avoure
-auster
 aggrades
 accademia
 atrocha
@@ -9050,6 +9049,7 @@ almohad
 anticlimactical
 autoallogamous
 almohades
+auster
 almon
 anga
 almonage
