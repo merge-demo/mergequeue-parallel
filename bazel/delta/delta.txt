@@ -82,6 +82,7 @@ dactyliography
 debated
 depressibility
 debilitating
+diagonalwise
 demoralizer
 demodicidae
 demeritoriously
@@ -8308,7 +8309,6 @@ dandyprat
 diagonals
 demoded
 deducting
-diagonalwise
 disordeine
 dendra
 dicatalexis
