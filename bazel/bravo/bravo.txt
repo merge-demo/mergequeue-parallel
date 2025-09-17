@@ -10034,7 +10034,6 @@ birlieman
 blastogenesis
 boxfish
 butties
-blabbered
 barytic
 ballyragging
 blabbermouth
@@ -17854,6 +17853,7 @@ bordered
 bairnishness
 beholders
 bothroi
+blabbered
 bibliotics
 boodles
 boltstrake
