@@ -11638,6 +11638,7 @@ breakfasts
 bacterioscopical
 barspoon
 bronchium
+barker
 boathook
 boathouse
 backbends
@@ -12421,7 +12422,6 @@ bicapitate
 blossom
 backcast
 belvederes
-barker
 bedlamp
 bedwarf
 bond
