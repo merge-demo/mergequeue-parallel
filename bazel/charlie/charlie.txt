@@ -16010,6 +16010,7 @@ cleromancy
 canniness
 clerstory
 clansmen
+clingstones
 cyamelid
 coolheadedness
 cleruchy
@@ -30316,7 +30317,6 @@ chops
 civilities
 cynipid
 cataphysic
-clingstones
 crusaders
 coastways
 coresidual
