@@ -2017,6 +2017,7 @@ achy
 absconds
 airtime
 apout
+amovability
 ammonionitrate
 achiest
 athodyds
@@ -5671,7 +5672,6 @@ ampyx
 ave
 agendas
 ankylosaur
-amovability
 agene
 ageneses
 agenesis

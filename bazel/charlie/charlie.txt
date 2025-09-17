@@ -14104,7 +14104,6 @@ capivi
 circean
 circensian
 circinate
-coxcombs
 chirinola
 circination
 circiter
@@ -20544,6 +20543,7 @@ clatteringly
 comparing
 comparisons
 comparted
+coxcombs
 chimbley
 comade
 carapacic
