@@ -5835,7 +5835,6 @@ bidactyle
 beefs
 beerocracy
 bellowsful
-bargainer
 belltail
 balloons
 benumbedness
@@ -9576,6 +9575,7 @@ bisymmetry
 bushily
 bandmasters
 bisymmetrical
+bargainer
 benefactrix
 bermudian
 bandwagons

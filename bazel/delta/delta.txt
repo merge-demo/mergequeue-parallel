@@ -1620,6 +1620,7 @@ deafmuteness
 disembrace
 digression
 deairing
+deflexionize
 defalcated
 discernableness
 deairs
@@ -4763,7 +4764,6 @@ dawnlight
 disbend
 defectionist
 dendrolene
-deflexionize
 disputatively
 datatypes
 diphenylacetylene
