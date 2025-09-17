@@ -818,7 +818,6 @@ agonizes
 aphnology
 archegoniate
 absconding
-accurse
 absconsa
 aphakia
 aftercoming
@@ -14531,6 +14530,7 @@ antibacterial
 antibacteriolytic
 anaglyptograph
 antiballooner
+accurse
 antipolemist
 antibasilican
 antibenzaldoxime
