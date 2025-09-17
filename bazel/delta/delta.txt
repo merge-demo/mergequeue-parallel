@@ -15251,7 +15251,6 @@ demographist
 dyaus
 deponent
 dialogued
-doddering
 dagbamba
 dohickey
 diprotodont
@@ -15367,6 +15366,7 @@ dialogized
 dolled
 dehull
 dodecanesian
+doddering
 dosimeter
 dollia
 deuteranopic
