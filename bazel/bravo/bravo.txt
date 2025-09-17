@@ -9622,7 +9622,6 @@ bedrolls
 babuls
 beneficing
 bezzled
-bejumble
 battable
 busking
 brawniness
@@ -13332,6 +13331,7 @@ bivaulted
 banzais
 bastinadoed
 botanically
+bejumble
 bridechamber
 botanist
 botanize
