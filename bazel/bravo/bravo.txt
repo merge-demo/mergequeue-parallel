@@ -9722,6 +9722,7 @@ bloodstone
 boltmaking
 boeotarch
 brights
+brushers
 blateness
 bewitching
 bookish
@@ -16277,7 +16278,6 @@ boryl
 branchipus
 biosynthetic
 ballstock
-brushers
 burrish
 brotherliness
 barbes

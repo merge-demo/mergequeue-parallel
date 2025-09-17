@@ -22424,7 +22424,6 @@ coniceine
 compressible
 contaminating
 conicle
-chessman
 conicopoly
 conidae
 champlainic
@@ -24533,6 +24532,7 @@ copeia
 copelata
 corrupable
 copeman
+chessman
 copemate
 copending
 colonialist
