@@ -8302,7 +8302,6 @@ deducting
 diagonalwise
 disordeine
 dendra
-decursion
 dicatalexis
 demonization
 diagonial
@@ -8685,6 +8684,7 @@ diaspidine
 diaspirin
 dots
 droumy
+decursion
 downweigh
 defeminised
 degenerationist
