@@ -12254,6 +12254,7 @@ boasters
 brightness
 boltcutter
 brindles
+bulak
 behold
 bromopnea
 boltheading
@@ -18029,7 +18030,6 @@ boast
 bingle
 bourgs
 bustlers
-bulak
 bustles
 biologize
 bustlingly
