@@ -2420,7 +2420,6 @@ cancha
 caririan
 canchalagua
 cropsickness
-cancion
 cancionero
 canciones
 cancri
@@ -30713,6 +30712,7 @@ collimation
 cirrigerous
 cuinage
 cubelium
+cancion
 cuirassed
 cuirasses
 cuirassier

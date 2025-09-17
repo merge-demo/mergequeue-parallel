@@ -5663,7 +5663,6 @@ belicoseness
 belie
 bilirubinuria
 baskets
-bridalty
 blatancy
 busbar
 beliefful
@@ -16041,6 +16040,7 @@ boughless
 bicalvous
 bdellidae
 bodysuits
+bridalty
 brotheler
 bulla
 bifurcate
