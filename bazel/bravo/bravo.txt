@@ -7102,6 +7102,7 @@ beatings
 beneficiaryship
 besses
 bessie
+bellhanger
 banger
 bushwah
 biarticulated
@@ -10104,7 +10105,6 @@ blackdamp
 bismuthous
 belonesite
 backfatter
-bellhanger
 blusters
 blackener
 billette
