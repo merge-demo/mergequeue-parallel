@@ -10231,7 +10231,6 @@ antihemoglobin
 afacing
 academician
 acutilinguae
-astuteness
 angiotonase
 antidancing
 angulatogibbous
@@ -11476,6 +11475,7 @@ albuminuria
 asphalting
 anacid
 alienors
+astuteness
 acronyc
 anacidity
 alarmingly
