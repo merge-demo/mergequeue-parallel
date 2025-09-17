@@ -743,7 +743,6 @@ bugles
 blepharophthalmia
 boyish
 badgerlike
-bending
 burlaps
 befoul
 bettongia
@@ -13581,6 +13580,7 @@ bacchian
 bough
 barie
 belzebub
+bending
 bibliokleptomania
 baroco
 bismutosmaltite
