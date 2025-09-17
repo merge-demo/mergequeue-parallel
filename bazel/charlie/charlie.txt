@@ -14645,6 +14645,7 @@ conflates
 crosby
 croceins
 cystogenesis
+corker
 cystogram
 cystoid
 cystoidea
@@ -25226,7 +25227,6 @@ corkages
 corkboard
 chachapuya
 concordancer
-corker
 corkers
 chimu
 corkier
