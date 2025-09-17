@@ -1831,7 +1831,6 @@ dislocatedness
 daffle
 desight
 disengages
-debeak
 debarbarize
 debeaker
 douzepers
@@ -13687,6 +13686,7 @@ demetrian
 debarbarization
 deadhand
 deadfall
+debeak
 dissite
 deseret
 disintermediation
