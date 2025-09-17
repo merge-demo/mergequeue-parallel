@@ -17754,7 +17754,6 @@ acetnaphthalide
 asterochiton
 antibrachial
 andamento
-artotypy
 ascots
 amblers
 acquired
@@ -24549,6 +24548,7 @@ avalon
 affich
 avance
 adenoses
+artotypy
 amicicide
 achilleid
 avantage
