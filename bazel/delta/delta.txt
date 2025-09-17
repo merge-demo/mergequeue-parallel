@@ -11527,7 +11527,6 @@ demandative
 daresay
 disaccharid
 discoideae
-despatchers
 debriding
 diaporthe
 devisings
@@ -18230,6 +18229,7 @@ dictyostelic
 ditetragonal
 dentatocostate
 dermatorrhoea
+despatchers
 dode
 decurrent
 discommendation
