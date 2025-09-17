@@ -3797,7 +3797,6 @@ coenotype
 carbonemia
 coccolith
 chemiphotic
-carse
 convalescent
 cotset
 cacophonical
@@ -15994,6 +15993,7 @@ clerisies
 clawer
 cosine
 certifiably
+carse
 coinventor
 cyatholith
 carryovers
