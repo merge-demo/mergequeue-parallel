@@ -362,7 +362,6 @@ astrictive
 anglians
 aberrancy
 anthraceniferous
-aberrantly
 aberrants
 aberration
 art
@@ -15328,6 +15327,7 @@ apselaphesia
 alone
 antimetropia
 ambiance
+aberrantly
 antimycotic
 alphatoluic
 antimilitary
