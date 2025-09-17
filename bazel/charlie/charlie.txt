@@ -10989,7 +10989,6 @@ chirotherium
 chastacosta
 consubstantiality
 comessation
-crocodilia
 counterinsurgencies
 crutcher
 catananche
@@ -15090,6 +15089,7 @@ civitas
 civite
 chinchasuyu
 chattel
+crocodilia
 civory
 chocalho
 ciwies
