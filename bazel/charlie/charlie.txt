@@ -1958,7 +1958,6 @@ chinchayote
 chamomile
 camion
 camions
-camisa
 classicising
 camisard
 capsicins
@@ -29850,6 +29849,7 @@ crossette
 crossfertilizable
 caesarean
 crossfired
+camisa
 craniodidymus
 crossfish
 crossflow
