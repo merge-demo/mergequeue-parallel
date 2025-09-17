@@ -372,7 +372,6 @@ aberrative
 amuck
 aloha
 acinose
-anticlinorium
 avoyer
 abesse
 adipate
@@ -14871,6 +14870,7 @@ auk
 achyrodes
 anticritic
 abranchialism
+anticlinorium
 anticritical
 alamoth
 anticritically
