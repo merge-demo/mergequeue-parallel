@@ -2430,6 +2430,7 @@ blowout
 backstays
 beshawled
 boding
+balaenopteridae
 benignantly
 bathic
 balkanizing
@@ -12211,7 +12212,6 @@ berberidaceae
 bolognas
 bestench
 bolognese
-balaenopteridae
 borasqueborate
 birdling
 blizzardy

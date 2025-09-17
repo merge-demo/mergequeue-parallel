@@ -6003,7 +6003,6 @@ consonantism
 catnaper
 codling
 coagulable
-coddle
 catnapping
 chromamamin
 caddle
@@ -15767,6 +15766,7 @@ cardiology
 cleaned
 chloramine
 cleanest
+coddle
 choreguses
 chinching
 cleanhanded
