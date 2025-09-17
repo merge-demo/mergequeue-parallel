@@ -4729,7 +4729,6 @@ buckrams
 bloodstones
 barbarize
 burking
-barrener
 brachylogy
 baragnosis
 bruins
@@ -5803,6 +5802,7 @@ buildress
 bullsnake
 bondmaid
 banded
+barrener
 berseem
 bribeworthy
 baigneuse
