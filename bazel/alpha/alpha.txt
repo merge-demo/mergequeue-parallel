@@ -8350,6 +8350,7 @@ alacreatinine
 alkalize
 alkalizer
 aerophysicist
+antifrost
 alkaloid
 aswing
 alkaloids
@@ -15095,7 +15096,6 @@ antistate
 aliptes
 askant
 alkarsin
-antifrost
 archaeornis
 alaite
 alining
