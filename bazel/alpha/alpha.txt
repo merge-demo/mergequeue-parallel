@@ -1303,7 +1303,6 @@ avows
 acc
 accable
 accelerable
-adjuvants
 animalizing
 amenorrhea
 affiliated
@@ -12863,6 +12862,7 @@ anthozoic
 assonants
 acorn
 acetylation
+adjuvants
 aslop
 anhydridization
 antisimoniacal
