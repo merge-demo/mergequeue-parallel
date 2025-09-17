@@ -7328,7 +7328,6 @@ cephaloauricular
 chimbly
 corslets
 cephalobranchiata
-chelicera
 componendo
 chervonetz
 chronometrical
@@ -28142,6 +28141,7 @@ cima
 crankling
 crankous
 crankpin
+chelicera
 centralizers
 colipyuria
 churchman
