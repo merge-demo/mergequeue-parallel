@@ -14652,7 +14652,6 @@ balkanic
 blurrily
 backworm
 bonnetieres
-brontotherium
 brassiere
 butteriness
 brassieres
@@ -16808,6 +16807,7 @@ blowfish
 buffs
 brei
 bruted
+brontotherium
 blurring
 bufo
 bivalves
