@@ -6095,6 +6095,7 @@ creakier
 cuculiform
 cicely
 cancan
+canonici
 chitterling
 contraflow
 cattleyak
@@ -7637,7 +7638,6 @@ contrabass
 ceremonies
 ceremonious
 ceremoniousness
-canonici
 counterpoint
 congregates
 cereous
