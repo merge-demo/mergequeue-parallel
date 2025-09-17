@@ -1983,7 +1983,6 @@ bilinguist
 babesiasis
 bange
 biblically
-bronchoscopy
 brachydactyl
 bulbous
 bombard
@@ -14874,6 +14873,7 @@ badju
 bura
 beflum
 balantidium
+bronchoscopy
 baldie
 burgus
 bandsmen
