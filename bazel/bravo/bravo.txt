@@ -5855,7 +5855,6 @@ bradmaker
 beloeilite
 bateleur
 belomancy
-bronchophonic
 brogans
 belonging
 bailiffship
@@ -8256,6 +8255,7 @@ bigbury
 buttstrapped
 bigemina
 bennettitales
+bronchophonic
 broommaking
 babite
 berberian

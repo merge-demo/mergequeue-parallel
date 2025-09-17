@@ -2500,7 +2500,6 @@ dorsale
 decretively
 derivational
 dimming
-dermoid
 duplicipennate
 dove
 dubonnet
@@ -5708,6 +5707,7 @@ diploglossata
 deplant
 deozonize
 demigods
+dermoid
 desterilized
 daypeep
 dialysed
