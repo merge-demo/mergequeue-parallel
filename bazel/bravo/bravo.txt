@@ -7532,7 +7532,6 @@ bewilderment
 bewinged
 bewitched
 bewitcher
-bewitches
 bondswomen
 beaverpelt
 bombacaceous
@@ -16045,6 +16044,7 @@ bins
 berber
 biff
 begloomed
+bewitches
 brotel
 boneflower
 boughless
