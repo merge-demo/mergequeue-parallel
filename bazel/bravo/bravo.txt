@@ -3884,7 +3884,6 @@ bawties
 beechnuts
 brevicaudate
 bifidated
-baxtone
 brachyskelic
 bivial
 blottesquely
@@ -14942,6 +14941,7 @@ burtons
 besmoke
 bemusedly
 bellicoseness
+baxtone
 butterflyfish
 barelegged
 biosatellite
