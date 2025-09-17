@@ -257,7 +257,6 @@ daggar
 diffugient
 dramaticle
 detached
-daggerproof
 dogmaticalness
 diskettes
 dollhouses
@@ -1357,6 +1356,7 @@ decipium
 deuced
 duelli
 definer
+daggerproof
 dauphine
 dauphines
 drooping
