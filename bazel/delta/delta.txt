@@ -1687,7 +1687,6 @@ dearborn
 dumortierite
 dearest
 derides
-deposition
 dephysicalization
 decrementless
 drumhead
@@ -8826,6 +8825,7 @@ dietine
 dipala
 diazomethane
 denunciant
+deposition
 diazonium
 diazotype
 disadvise
