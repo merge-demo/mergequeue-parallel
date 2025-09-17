@@ -8383,6 +8383,7 @@ alkedavy
 alkekengi
 alkenyl
 amp
+algorism
 awreck
 alkyd
 agone
@@ -23561,7 +23562,6 @@ anecdotally
 autopepsia
 aceology
 agnoetism
-algorism
 auriflamme
 anabolin
 adjuratory
