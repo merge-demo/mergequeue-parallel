@@ -2446,6 +2446,7 @@ barer
 boletus
 bibliolater
 bares
+belittle
 blastoporal
 bounceably
 baresark
@@ -5703,7 +5704,6 @@ bribes
 bedsheets
 barrator
 blastophthoria
-belittle
 burnettize
 ballerinas
 bifurcous
