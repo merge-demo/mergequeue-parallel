@@ -16230,7 +16230,6 @@ drochuil
 domify
 dendrocoelous
 dourer
-dourest
 daedal
 dournesses
 douroucouli
@@ -16291,6 +16290,7 @@ dominic
 draconic
 dialector
 downfield
+dourest
 deerskins
 dizens
 downshift
