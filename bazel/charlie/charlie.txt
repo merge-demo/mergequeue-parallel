@@ -2736,7 +2736,6 @@ cimbaloms
 counterembowed
 cannelle
 caliche
-cryptogenous
 candyfloss
 cannelon
 castrametation
@@ -18017,6 +18016,7 @@ coelenteric
 copyman
 coelestial
 coelestine
+cryptogenous
 coulter
 chewie
 coelho
