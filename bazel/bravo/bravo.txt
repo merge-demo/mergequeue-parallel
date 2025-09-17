@@ -2634,7 +2634,6 @@ birdhouses
 bilges
 barking
 bundle
-botanise
 barkless
 battening
 barkometer
@@ -17175,6 +17174,7 @@ bumblers
 bumbles
 boohooed
 bootlaces
+botanise
 bumbling
 brainwork
 bumboat
