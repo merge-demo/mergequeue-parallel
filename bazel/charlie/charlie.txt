@@ -8655,6 +8655,7 @@ cruisingly
 conceptualizer
 chankings
 caesurae
+cyanoacetic
 channel
 channelbill
 coendou
@@ -12985,7 +12986,6 @@ calenturish
 cyano
 cobenignity
 coerces
-cyanoacetic
 currencies
 characeous
 cyanoauric
