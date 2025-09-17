@@ -2670,7 +2670,6 @@ barghest
 basiliscus
 berrugate
 barm
-bollixes
 begrimming
 bututs
 barmaster
@@ -12458,6 +12457,7 @@ bookroom
 bawdrick
 bondslave
 bondsman
+bollixes
 braeman
 burgeoned
 barkingly

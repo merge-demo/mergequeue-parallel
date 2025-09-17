@@ -11011,7 +11011,6 @@ archpontiff
 ascendancy
 appertained
 astromancy
-amphanthia
 amphanthium
 arms
 amphetamine
@@ -23912,6 +23911,7 @@ autochthonousness
 autocide
 autocinesis
 acetylbiuret
+amphanthia
 alumnus
 antiheroic
 afterproof
