@@ -1872,7 +1872,6 @@ albitical
 admiralships
 andesic
 apparelment
-acetylenic
 antony
 ametropic
 acetylfluoride
@@ -11058,6 +11057,7 @@ attainability
 ananepionic
 amphibolitic
 achingly
+acetylenic
 attentiveness
 abolishable
 astrospherecentrosomic
