@@ -20052,6 +20052,7 @@ canfieldite
 commandos
 colove
 cheery
+creepie
 commandry
 caudata
 commark
@@ -30202,7 +30203,6 @@ caneton
 carmetta
 cruet
 cruety
-creepie
 cordaitaceae
 cucurbit
 cruets
