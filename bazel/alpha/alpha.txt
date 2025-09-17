@@ -6263,6 +6263,7 @@ aguirage
 aguise
 aholt
 antimeter
+amyluria
 altitonant
 argil
 axanthopsia
@@ -16322,7 +16323,6 @@ ardurous
 accentus
 altarist
 alkargen
-amyluria
 antum
 adversing
 ambulatio
