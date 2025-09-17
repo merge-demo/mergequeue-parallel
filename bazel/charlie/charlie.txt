@@ -502,7 +502,6 @@ colorists
 coprecipitating
 competence
 clogmaker
-counterfugue
 carbuilder
 cungevoi
 crimpage
@@ -1284,6 +1283,7 @@ caliburno
 colossuses
 crawfished
 crescenting
+counterfugue
 causalgia
 carious
 cryptogrammatist
