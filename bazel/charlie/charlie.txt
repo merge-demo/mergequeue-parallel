@@ -14035,6 +14035,7 @@ cilioflagellata
 croupier
 chitra
 chemosensitive
+cornels
 crimp
 cypraeidae
 confinement
@@ -25155,7 +25156,6 @@ corybantiasm
 chemung
 counterbreastwork
 corybantish
-cornels
 corycavidine
 crybaby
 corydalin
