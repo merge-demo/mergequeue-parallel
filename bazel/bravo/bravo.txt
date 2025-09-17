@@ -2678,7 +2678,6 @@ bergalith
 bihourly
 benzoic
 blacklister
-barmcloth
 brither
 budgeters
 bascules
@@ -14429,6 +14428,7 @@ basiophthalmous
 barricado
 balimbing
 bellypinch
+barmcloth
 blippers
 breamed
 bimedial
