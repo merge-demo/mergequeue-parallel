@@ -4127,6 +4127,7 @@ cardiorrhexis
 cardiospermum
 celts
 cardiosphygmogram
+cheetie
 cardiosphygmograph
 cardiotherapies
 caddow
@@ -16301,7 +16302,6 @@ cubatory
 citronize
 cuties
 copsewooded
-cheetie
 clinting
 catheters
 creodonts
