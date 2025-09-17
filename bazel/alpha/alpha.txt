@@ -12426,7 +12426,6 @@ angelophany
 anesthesis
 asarh
 anesthetization
-anesthetize
 anesthetized
 amenableness
 achromotrichia
@@ -13014,6 +13013,7 @@ aecium
 animistic
 articulare
 accretionary
+anesthetize
 amaltas
 animo
 academizing
