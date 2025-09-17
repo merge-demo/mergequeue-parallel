@@ -8811,6 +8811,7 @@ branks
 bible
 binotonous
 bedeck
+blastomyces
 boilerman
 blackfishes
 bushboy
@@ -10468,7 +10469,6 @@ backcourt
 bodywood
 burin
 browniest
-blastomyces
 burlesquing
 blastomycete
 bannerman
