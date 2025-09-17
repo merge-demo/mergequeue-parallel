@@ -9013,7 +9013,6 @@ aeginetic
 apoplectic
 astrophysical
 almandines
-alme
 ardhamagadhi
 acknowledgeable
 antiputrefaction
@@ -21386,6 +21385,7 @@ asperula
 asperulous
 afterhelp
 anticovenanting
+alme
 archeion
 adiaphanous
 alluvium
