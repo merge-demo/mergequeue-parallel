@@ -18375,6 +18375,7 @@ arboral
 affirmant
 allotype
 averish
+annexure
 aminity
 amorua
 abacination
@@ -19229,7 +19230,6 @@ arf
 aroar
 archrepresentative
 allalinite
-annexure
 altogetherness
 asse
 argal
