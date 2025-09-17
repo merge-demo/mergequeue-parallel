@@ -18137,6 +18137,7 @@ cotangential
 contradictively
 coalesce
 coenla
+concierge
 coenobe
 chaffered
 coenoby
@@ -21399,7 +21400,6 @@ conchs
 conchubar
 cryptonymic
 coplots
-concierge
 creosols
 concierges
 concile
