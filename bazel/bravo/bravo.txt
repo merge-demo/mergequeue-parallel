@@ -6868,7 +6868,6 @@ biplosive
 breediness
 betail
 beraking
-baselessness
 betta
 bahai
 bismuths
@@ -11461,6 +11460,7 @@ berths
 boohoo
 basophilia
 bivvy
+baselessness
 begemming
 bedoctor
 blintze
