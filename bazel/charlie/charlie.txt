@@ -3465,7 +3465,6 @@ capsuliferous
 cheloniid
 capsuliform
 circumcision
-coverup
 capsuling
 clamer
 capsulitis
@@ -22402,6 +22401,7 @@ centigramme
 cyclothymia
 cyclopedist
 cistaceous
+coverup
 congruence
 cortez
 congruent
