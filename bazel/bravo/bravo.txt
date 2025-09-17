@@ -5444,7 +5444,6 @@ booing
 beehouse
 borotungstic
 bromopicrin
-bardily
 behymn
 bruit
 brutes
@@ -14564,6 +14563,7 @@ becomma
 blissfulness
 befathered
 boasted
+bardily
 branning
 bromoiodism
 broadleaves
