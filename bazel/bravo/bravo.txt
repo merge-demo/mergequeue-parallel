@@ -5793,7 +5793,6 @@ beyonds
 blusterous
 bellicist
 bromometry
-backstroking
 bs
 buildress
 bullsnake
@@ -18301,6 +18300,7 @@ brushy
 bassets
 buttoner
 buttoners
+backstroking
 buoyantly
 buttonholder
 bedel
