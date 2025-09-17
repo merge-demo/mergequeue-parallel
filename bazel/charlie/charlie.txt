@@ -17274,6 +17274,7 @@ coalescing
 characterless
 choya
 coalfield
+cassoulet
 coalfitter
 cyanines
 coalholes
@@ -25273,7 +25274,6 @@ checkerboards
 cricking
 crosspieces
 chromoisomerism
-cassoulet
 cornbinks
 coidentity
 chaplainship
