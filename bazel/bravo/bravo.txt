@@ -795,7 +795,6 @@ blackout
 becker
 beryllosis
 building
-baedekerian
 berserks
 baphometic
 brandenburgh
@@ -5832,6 +5831,7 @@ bukshee
 bellmouth
 briners
 braggingly
+baedekerian
 boulle
 bailiff
 bellota
