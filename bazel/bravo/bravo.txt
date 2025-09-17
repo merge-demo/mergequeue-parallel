@@ -10699,7 +10699,6 @@ binominous
 bibl
 belap
 blennadenitis
-blennemesis
 bullets
 blennenteria
 blout
@@ -12762,6 +12761,7 @@ bioelectric
 beshine
 blowcase
 barracking
+blennemesis
 bullneck
 bashment
 biparous
