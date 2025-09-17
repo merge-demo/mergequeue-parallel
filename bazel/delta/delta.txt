@@ -3049,6 +3049,7 @@ daygoing
 digitizer
 doohickus
 dentaria
+demivambrace
 dentiscalp
 daddock
 degradand
@@ -4742,7 +4743,6 @@ dispreading
 drydenism
 diabolic
 ducklar
-demivambrace
 dorsicollar
 diphenoxylate
 diminutivize
