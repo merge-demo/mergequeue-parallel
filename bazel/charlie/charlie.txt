@@ -12539,6 +12539,7 @@ chromotypography
 chromotropy
 cradleboard
 concepts
+cycloidally
 capsular
 chromotropism
 cajeputol
@@ -14693,7 +14694,6 @@ cyanogenetic
 cystoschisis
 cariole
 cystose
-cycloidally
 conurbations
 clayman
 caroigne
