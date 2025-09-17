@@ -15566,7 +15566,6 @@ adhesivemeter
 acleidian
 anaesthesiologist
 amalgamize
-antipathetic
 atresias
 appropriative
 aortarctia
@@ -15604,6 +15603,7 @@ abortiveness
 accostable
 arianists
 anaphoras
+antipathetic
 antiperistalsis
 antiperistatic
 apaches

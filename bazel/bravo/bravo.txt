@@ -8169,7 +8169,6 @@ bluebuck
 biethnic
 baryes
 burden
-burls
 byeworkman
 bifaces
 bifacial
@@ -10621,6 +10620,7 @@ bollies
 bishopscap
 bleaky
 bleakness
+burls
 bleaks
 bichlorides
 brachygnathous
