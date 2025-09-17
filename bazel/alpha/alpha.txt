@@ -15229,7 +15229,6 @@ abrosia
 antilethargic
 adumbrates
 antiliberal
-appetizer
 antiliberalness
 ansel
 avoutry
@@ -17643,6 +17642,7 @@ applies
 antispasis
 applique
 appliqueing
+appetizer
 atweel
 appliques
 aggenerate
