@@ -2908,6 +2908,7 @@ aporobranchiata
 antipodes
 affrayers
 assamar
+antiextreme
 asbolin
 actinoids
 appriser
@@ -15011,7 +15012,6 @@ ammocoetoid
 allthorn
 antepredicament
 appallingly
-antiextreme
 antifaction
 antifame
 antifanatic
