@@ -795,7 +795,6 @@ ambisinistrous
 absampere
 awanting
 ambiguities
-agaves
 absaroka
 allergy
 assertors
@@ -20975,6 +20974,7 @@ ascophore
 aeq
 aclydes
 aircraftswomen
+agaves
 ascorbic
 ascosporic
 arkoses
