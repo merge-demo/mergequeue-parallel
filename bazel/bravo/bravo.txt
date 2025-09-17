@@ -3474,6 +3474,7 @@ boobook
 bicarbonate
 blenk
 barbacoa
+bifarious
 bevatron
 bracket
 blights
@@ -6279,7 +6280,6 @@ bestowed
 bai
 bibs
 benzanthrone
-bifarious
 ballbuster
 begrace
 bareka
