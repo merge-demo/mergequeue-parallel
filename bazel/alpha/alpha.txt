@@ -1811,6 +1811,7 @@ abysmally
 acesodynous
 acestes
 acceleration
+availableness
 achieves
 auride
 acetable
@@ -2797,7 +2798,6 @@ acropoleis
 acropora
 asthenope
 acarologist
-availableness
 acropore
 augustest
 acrosome
