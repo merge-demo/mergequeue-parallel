@@ -112,6 +112,7 @@ daffery
 deticking
 diphenylquinomethane
 detentive
+degerm
 dactylotheca
 deactivated
 dactylozooid
@@ -3582,7 +3583,6 @@ degenerately
 degenerating
 degenerescence
 diammonium
-degerm
 donnish
 doated
 degerms
