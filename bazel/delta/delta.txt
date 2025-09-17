@@ -4212,7 +4212,6 @@ depasturing
 dyslogy
 debtors
 delphically
-dasyurus
 dis
 doeskin
 delphine
@@ -16624,6 +16623,7 @@ depicted
 disingenuity
 draft
 dragee
+dasyurus
 disputed
 drammach
 dragger
