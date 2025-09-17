@@ -11561,7 +11561,6 @@ broaden
 blurter
 byrewoman
 barbecuing
-barometrograph
 blurting
 bumblebeefish
 ballismus
@@ -16929,6 +16928,7 @@ bimotor
 bulbously
 bigoted
 bonhomously
+barometrograph
 bowedness
 bouvier
 blazoner
