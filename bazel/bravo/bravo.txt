@@ -494,6 +494,7 @@ betatron
 besottingly
 battarismus
 balaenoidea
+brachioradial
 bromios
 backslapper
 bighorn
@@ -5412,7 +5413,6 @@ betravel
 brainwood
 behaviorists
 behavioural
-brachioradial
 blepharoceridae
 biweeklies
 borers
