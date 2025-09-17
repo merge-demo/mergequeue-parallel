@@ -16273,6 +16273,7 @@ adramelech
 antonym
 antonymy
 antonyms
+agglutinability
 antoniniani
 appointed
 antonomasia
@@ -16776,7 +16777,6 @@ apina
 aciculated
 averments
 aping
-agglutinability
 ameliorative
 apioceridae
 anthroposomatology
