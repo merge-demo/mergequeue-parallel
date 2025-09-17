@@ -935,7 +935,6 @@ accubitus
 asperifolious
 appeasingly
 abstain
-aprendiz
 aphanesite
 ashplants
 abstaining
@@ -10585,6 +10584,7 @@ applicants
 aga
 araru
 amins
+aprendiz
 analogic
 aminta
 amyosthenic
