@@ -17613,6 +17613,7 @@ appliances
 antiballistic
 appliant
 appendectomy
+anthropomorphite
 aspirators
 arenous
 applicable
@@ -18440,7 +18441,6 @@ arbusta
 analytics
 arbute
 arbutean
-anthropomorphite
 autoagglutinin
 alarmisms
 autoecholalia
