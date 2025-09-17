@@ -8827,7 +8827,6 @@ bombycids
 branks
 bible
 binotonous
-besmearer
 bedeck
 boilerman
 blackfishes
@@ -10866,6 +10865,7 @@ blastomycetic
 blowgun
 blighters
 belouke
+besmearer
 baltimorean
 bestowing
 bribetaker
