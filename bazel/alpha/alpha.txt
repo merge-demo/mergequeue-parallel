@@ -12020,6 +12020,7 @@ almsman
 adelphic
 anchisaurus
 aegirite
+asafoetida
 antitradition
 anchor
 adhesional
@@ -15272,7 +15273,6 @@ amastia
 antilope
 abscised
 antiloquy
-asafoetida
 antimacassar
 archmockery
 anglemeter
