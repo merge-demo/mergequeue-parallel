@@ -1491,7 +1491,6 @@ bartisans
 balistes
 blatherskite
 battologized
-balistid
 bloodshedding
 bepuzzle
 balistidae
@@ -16239,6 +16238,7 @@ backtrack
 brownwort
 bollworms
 biovular
+balistid
 broadswords
 bicarb
 bleatingly
