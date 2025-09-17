@@ -6457,7 +6457,6 @@ deafeningly
 degaussed
 dodecanoic
 depilate
-deacidify
 derogatoriness
 disperge
 departmentalising
@@ -13710,6 +13709,7 @@ defluous
 deceases
 demivol
 disinclose
+deacidify
 dissogeny
 departmentalize
 dissogony
