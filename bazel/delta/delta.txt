@@ -11474,6 +11474,7 @@ determinoid
 debug
 dulcor
 discloser
+disponge
 definitional
 diluvial
 disclosive
@@ -13268,7 +13269,6 @@ disluster
 donn
 disserved
 differentiae
-disponge
 demotist
 diacetate
 decumani
