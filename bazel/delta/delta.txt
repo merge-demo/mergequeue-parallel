@@ -10206,6 +10206,7 @@ dinophilea
 distillation
 drissel
 desmolase
+dinoflagellida
 dinging
 dingled
 dreidl
@@ -16918,7 +16919,6 @@ dilettante
 dose
 drawloom
 demipriest
-dinoflagellida
 determinativeness
 discharity
 dozes
