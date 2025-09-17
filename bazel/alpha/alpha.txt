@@ -6933,7 +6933,6 @@ afterdrain
 anchises
 akka
 akkad
-austerer
 acephal
 anthropogenesis
 appense
@@ -15285,6 +15284,7 @@ anglemeter
 antimalaria
 antimalarial
 atelognathia
+austerer
 assheadedness
 antimale
 antimaniac

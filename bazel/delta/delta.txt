@@ -3559,6 +3559,7 @@ destituting
 diatonous
 degener
 declaredness
+diereses
 dripping
 distater
 decasemic
@@ -18209,7 +18210,6 @@ dunch
 dasypeltis
 daniel
 dorsulum
-diereses
 dodonaeaceae
 delamination
 dharani
