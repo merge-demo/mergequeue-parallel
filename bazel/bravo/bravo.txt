@@ -217,6 +217,7 @@ bargainee
 beguiling
 bloodwood
 bolivian
+balada
 burrer
 bushrope
 buckskins
@@ -734,7 +735,6 @@ bookings
 badgerer
 blundersome
 banana
-balada
 badgeringly
 bugles
 blepharophthalmia
