@@ -649,6 +649,7 @@ abominators
 abomine
 attainer
 antiempiricism
+albopannin
 adlegiare
 adjacent
 abondance
@@ -17674,7 +17675,6 @@ appointment
 alburnous
 algomic
 adonia
-albopannin
 ablaze
 arear
 apport
