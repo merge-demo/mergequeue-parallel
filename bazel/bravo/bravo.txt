@@ -3081,7 +3081,6 @@ bunion
 baleful
 brainwashing
 bimetal
-bedspreads
 beeswings
 bejelled
 bakerite
@@ -3910,6 +3909,7 @@ binode
 bigotedness
 bassly
 burn
+bedspreads
 beliquor
 balaniferous
 bipennated
