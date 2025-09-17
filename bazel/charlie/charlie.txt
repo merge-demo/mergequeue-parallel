@@ -11068,7 +11068,6 @@ clubbily
 cageling
 coopers
 chitons
-cadence
 chitosamine
 chitosan
 carcinomatoid
@@ -13961,6 +13960,7 @@ climatotherapy
 cynophilist
 chilognath
 cent
+cadence
 cynophobia
 counterchange
 cynopithecoid
