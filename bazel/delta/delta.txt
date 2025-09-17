@@ -11349,7 +11349,6 @@ deontological
 distributional
 discarded
 drainageway
-discardment
 diane
 dragonet
 discards
@@ -15184,6 +15183,7 @@ dorlot
 dermaptera
 doghouse
 donning
+discardment
 dogie
 doglegs
 doglike
