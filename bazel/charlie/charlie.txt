@@ -1565,6 +1565,7 @@ callum
 calluna
 confervaceae
 calamarioid
+chacra
 cadamba
 ctenizid
 creasy
@@ -5045,7 +5046,6 @@ cascaded
 cascadia
 clupeine
 czarowitch
-chacra
 chondrosamine
 cascadite
 cascalho
