@@ -8682,7 +8682,6 @@ beseeching
 bogwood
 biloculine
 bullethead
-bottomry
 barhopping
 budless
 bimetals
@@ -12000,6 +11999,7 @@ bandie
 bohunk
 branta
 brainstem
+bottomry
 bootstrapped
 bastant
 bohunks
