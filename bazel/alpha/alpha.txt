@@ -7793,7 +7793,6 @@ archidium
 alethoscope
 anthogenous
 aletocyte
-agitative
 autochromy
 anticombination
 appliers
@@ -15804,6 +15803,7 @@ antelope
 anticonscience
 axeman
 anisometric
+agitative
 avulses
 antiquarianize
 anachronism
