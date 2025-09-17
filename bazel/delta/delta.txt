@@ -1470,6 +1470,7 @@ dories
 dunpickle
 dispulp
 dazement
+delicatessen
 decretorial
 dazy
 dazzle
@@ -4052,7 +4053,6 @@ delicately
 denier
 darknesses
 dismissible
-delicatessen
 dissipable
 dynam
 deface
