@@ -11091,6 +11091,7 @@ blocked
 blocker
 brid
 beltman
+bulgarian
 becudgels
 bilgier
 beguines
@@ -12365,7 +12366,6 @@ belime
 boombox
 bemol
 bedizening
-bulgarian
 belonephobia
 bergeres
 bluebill

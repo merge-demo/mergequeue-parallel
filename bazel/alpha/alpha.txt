@@ -5417,7 +5417,6 @@ aftershave
 aftershocks
 aftersound
 afterspring
-anhele
 afterstretch
 amphitriaene
 alectoropodes
@@ -12229,6 +12228,7 @@ andromed
 andromeda
 andromedotoxin
 amalekite
+anhele
 alternifoliate
 andromonoecism
 argilloarenaceous
