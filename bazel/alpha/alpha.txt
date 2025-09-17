@@ -8261,6 +8261,7 @@ alives
 aleiptes
 azygos
 appellee
+allyic
 atypic
 apathistical
 alivincular
@@ -8643,7 +8644,6 @@ arctoid
 alligatorfish
 aromatically
 alligatorfishes
-allyic
 aphicide
 arbinose
 allying
