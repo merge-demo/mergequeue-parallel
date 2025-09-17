@@ -1610,6 +1610,7 @@ balli
 burmanniaceous
 burlesques
 bouldered
+bhut
 bacchanal
 ballies
 brummagem
@@ -2485,7 +2486,6 @@ billbugs
 bathyhyperesthesia
 beechwoods
 baiza
-bhut
 bedark
 barge
 bargelike

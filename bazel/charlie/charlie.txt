@@ -2318,7 +2318,6 @@ ccw
 canamo
 catapultier
 cranesbill
-canangium
 chaetognathous
 cicer
 canap
@@ -7877,6 +7876,7 @@ copyrights
 cineraceous
 congruous
 chromophotolithograph
+canangium
 cataphoretic
 cest
 cesta
