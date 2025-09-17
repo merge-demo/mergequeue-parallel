@@ -5032,7 +5032,6 @@ assassination
 antiprecipitin
 aguinaldo
 ambiency
-antisera
 afd
 antireticular
 anticommunist
@@ -22645,6 +22644,7 @@ academicianship
 atma
 atmas
 atmiatry
+antisera
 aggregately
 aceship
 ahousaht
