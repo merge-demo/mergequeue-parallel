@@ -11797,7 +11797,6 @@ deterger
 deflator
 determinating
 dentalium
-discrepantly
 diamagnetometer
 dermatolysis
 demasts
@@ -17023,6 +17022,7 @@ domus
 dibstones
 drearing
 disintricate
+discrepantly
 drearisome
 drearness
 diffractional
