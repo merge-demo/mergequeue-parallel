@@ -8060,6 +8060,7 @@ billeters
 bicursal
 broadgage
 bailments
+berggylt
 bicuspid
 bonging
 bulk
@@ -13602,7 +13603,6 @@ bigener
 berbers
 brin
 bordar
-berggylt
 brassicaceous
 balklines
 bornyl
