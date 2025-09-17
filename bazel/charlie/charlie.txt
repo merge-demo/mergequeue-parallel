@@ -5004,6 +5004,7 @@ carvestrene
 codal
 curses
 carvings
+controversialize
 carvoeira
 carwash
 clamatorial
@@ -30130,7 +30131,6 @@ crucible
 circumstant
 credulousness
 chimango
-controversialize
 chemotherapies
 chemicoengineering
 chiaroscuros
