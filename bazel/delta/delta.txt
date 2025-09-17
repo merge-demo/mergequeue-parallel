@@ -8903,7 +8903,6 @@ daddums
 draperied
 deceiver
 delectation
-dragnet
 dichotomist
 drucken
 dicastic
@@ -16601,6 +16600,7 @@ diagrammatic
 demoralise
 dictum
 draftings
+dragnet
 diesinker
 disinterred
 dallop
