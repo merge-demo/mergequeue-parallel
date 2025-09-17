@@ -1327,6 +1327,7 @@ adiaphanousness
 acephalite
 azote
 actinopoda
+ajitter
 aqueducts
 accelerators
 accelerometer
@@ -6830,7 +6831,6 @@ airplane
 acumble
 ajax
 acouasm
-ajitter
 ajiva
 astrolabical
 aftercomer
