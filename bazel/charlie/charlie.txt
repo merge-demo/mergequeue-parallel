@@ -14550,6 +14550,7 @@ cerilla
 cantillated
 counterscalloped
 catheads
+chiquest
 cyst
 cantara
 consoler
@@ -19307,7 +19308,6 @@ caballing
 colnaria
 cynosure
 colocate
-chiquest
 colocephali
 coryph
 colocynth
