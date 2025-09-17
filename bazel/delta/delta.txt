@@ -12325,6 +12325,7 @@ diplegias
 doublegear
 dissuade
 dogface
+drysne
 decipolar
 durbar
 druttle
@@ -17071,7 +17072,6 @@ displenish
 dregs
 dreynt
 disordered
-drysne
 defibrinate
 demagnetized
 damkjernite
