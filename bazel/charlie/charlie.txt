@@ -6181,7 +6181,6 @@ cyrtoceracone
 campanero
 cutinises
 conor
-cfs
 cynic
 chloralism
 calcarea
@@ -14373,6 +14372,7 @@ corniness
 cystorrhagia
 circumsphere
 catchpolled
+cfs
 circumstancing
 coelacanthid
 chronometry
