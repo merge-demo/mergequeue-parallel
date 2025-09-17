@@ -10245,6 +10245,7 @@ americanize
 aforementioned
 audio
 americanizes
+antiwar
 americanizing
 americanly
 alacriously
@@ -23875,7 +23876,6 @@ autocar
 alumnal
 appreciated
 autocarist
-antiwar
 autocarp
 afterbay
 autocarpian
