@@ -2652,6 +2652,7 @@ canham
 canichanan
 canicola
 canicula
+centrefold
 completest
 curatorship
 canidia
@@ -23714,7 +23715,6 @@ cowls
 contracts
 contractu
 contractually
-centrefold
 counterfact
 contrada
 contradance
