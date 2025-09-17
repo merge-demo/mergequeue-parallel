@@ -8460,6 +8460,7 @@ cardiogenic
 champagnized
 cesurae
 champak
+chordee
 crinum
 chamfering
 characterstring
@@ -11906,7 +11907,6 @@ chordamesodermal
 chordamesodermic
 chordate
 chorded
-chordee
 choriso
 cst
 contradictive
