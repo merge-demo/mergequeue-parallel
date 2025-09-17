@@ -8255,6 +8255,7 @@ alives
 aleiptes
 azygos
 appellee
+atypic
 apathistical
 alivincular
 alix
@@ -22605,7 +22606,6 @@ atinga
 atypy
 ashame
 anthropophuistic
-atypic
 alkalimetrical
 andamentos
 adreno
