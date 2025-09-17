@@ -18455,7 +18455,6 @@ corporal
 coenosarcal
 cognisant
 cognises
-countergambit
 creepy
 chatchkas
 compactedness
@@ -28213,6 +28212,7 @@ cankering
 circumstantial
 colluvial
 calumets
+countergambit
 craspedotal
 calcar
 conspiratory
