@@ -5306,7 +5306,6 @@ bakalai
 blastogenic
 burdalone
 brahmaic
-beglerbegluc
 biannulate
 bigeneric
 becurry
@@ -17800,6 +17799,7 @@ berengarian
 boddle
 berkowitz
 bunkerman
+beglerbegluc
 bursiculate
 bursitis
 bestialise
