@@ -890,7 +890,6 @@ confided
 cakavci
 coats
 considerativeness
-caker
 cakette
 chaptalization
 cakewalked
@@ -8835,6 +8834,7 @@ cerosin
 char
 conveyability
 crouchingly
+caker
 caudodorsal
 chara
 chich
