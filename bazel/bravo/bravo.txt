@@ -1044,7 +1044,6 @@ birotation
 bail
 bringer
 barfs
-burstwort
 boordly
 bezazz
 basqued
@@ -12539,6 +12538,7 @@ bourgeoning
 brails
 boniface
 birding
+burstwort
 bolshevik
 boser
 batsmanship
