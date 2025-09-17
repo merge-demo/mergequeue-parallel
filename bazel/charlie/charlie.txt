@@ -2833,7 +2833,6 @@ contermine
 cadaverine
 canonised
 canoniser
-commemoration
 cephalothoraces
 casziel
 coambassador
@@ -26784,6 +26783,7 @@ capituliform
 counterermine
 counterespionage
 contumelies
+commemoration
 counterestablishment
 conspiring
 counterexcitement
