@@ -113,7 +113,6 @@ butyrinase
 bladderwrack
 battements
 blackcoat
-biune
 balanophore
 baroclinity
 banditry
@@ -11607,6 +11606,7 @@ basidia
 bhabar
 bajonado
 blockishly
+biune
 biunivocal
 barche
 boarspear
