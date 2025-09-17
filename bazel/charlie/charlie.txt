@@ -12252,6 +12252,7 @@ chromonemic
 chrysopid
 chrysopidae
 chrysoprase
+crookery
 chrysoprasus
 chasmic
 counteradvice
@@ -29700,7 +29701,6 @@ commons
 crookedly
 crookedness
 crickle
-crookery
 came
 crookesite
 continuous
