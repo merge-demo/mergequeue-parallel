@@ -12219,6 +12219,7 @@ borasqueborate
 birdling
 blizzardy
 broggerite
+beshrews
 baluchitherium
 bogwort
 boloism
@@ -13752,7 +13753,6 @@ bicycled
 bovate
 besmirching
 biochemists
-beshrews
 bestrowed
 betitle
 bovinities
