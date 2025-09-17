@@ -9738,6 +9738,7 @@ buries
 bocca
 bitable
 bidialectal
+broguing
 bytalks
 bitanhol
 bilineated
@@ -11151,7 +11152,6 @@ benevolently
 bloodlusting
 booky
 bourage
-broguing
 bipenniform
 bloodred
 beclose
