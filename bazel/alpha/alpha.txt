@@ -8935,7 +8935,6 @@ arsenicalism
 anthesis
 anthracoid
 alloxuraemia
-allergens
 abord
 alloxuremia
 aumaga
@@ -11431,6 +11430,7 @@ auxiliarly
 appositions
 auricularian
 anabolism
+allergens
 accinging
 anabolize
 aboriginary
