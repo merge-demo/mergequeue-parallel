@@ -12347,6 +12347,7 @@ chromammine
 corticopeduncular
 cocurator
 chestfuls
+cryptocephala
 chromaphore
 catacomb
 chromas
@@ -24063,7 +24064,6 @@ cirrolite
 complimentation
 convergence
 coiling
-cryptocephala
 convergences
 convergency
 columbary

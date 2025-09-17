@@ -8843,7 +8843,6 @@ bioassaying
 byplace
 bioastronautics
 belch
-biobibliographer
 brooming
 barleysick
 bioblastic
@@ -12643,6 +12642,7 @@ brittle
 branchiura
 boobs
 beaming
+biobibliographer
 basketballer
 beguin
 baubo
