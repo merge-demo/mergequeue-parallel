@@ -4182,7 +4182,6 @@ backchain
 bellmen
 barometric
 beatnik
-becater
 bonged
 bixin
 befilleted
@@ -16963,6 +16962,7 @@ bitterweed
 bastinades
 befavour
 beachlamar
+becater
 bihydrazine
 basophilous
 bulkish
