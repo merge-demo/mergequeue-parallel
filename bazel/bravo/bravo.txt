@@ -1224,6 +1224,7 @@ brew
 buttonball
 buoys
 brawliest
+bibliolater
 breth
 brothel
 burion
@@ -2447,7 +2448,6 @@ beanpole
 brachycranic
 barer
 boletus
-bibliolater
 bares
 belittle
 blastoporal
