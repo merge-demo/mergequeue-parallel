@@ -13082,6 +13082,7 @@ cusks
 ceibos
 charming
 cybernation
+clogmaking
 cybernetic
 chimblies
 cybernetically
@@ -16561,7 +16562,6 @@ cowsharn
 cosmos
 calendar
 correlative
-clogmaking
 clogwheel
 clogwyn
 clogwood
