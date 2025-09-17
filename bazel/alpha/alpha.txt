@@ -7182,6 +7182,7 @@ awmbrie
 ariole
 anglesite
 avenues
+anglomania
 adjuvant
 albedo
 arbalests
@@ -12719,7 +12720,6 @@ anthemwise
 altin
 assot
 anglomane
-anglomania
 antifreezing
 accidence
 archdiocesan
