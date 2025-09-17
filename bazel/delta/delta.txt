@@ -3495,6 +3495,7 @@ defreeze
 defrocked
 dollishly
 dubbed
+disciform
 derogately
 dillis
 dispensational
@@ -11425,7 +11426,6 @@ drinky
 discoherent
 decays
 dittany
-disciform
 diplopods
 discinct
 discing
