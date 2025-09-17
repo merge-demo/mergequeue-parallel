@@ -11800,6 +11800,7 @@ chippendale
 calfhood
 coarbiter
 cholochrome
+chiricahua
 choora
 contents
 crenelated
@@ -15380,7 +15381,6 @@ cradlemen
 clansfolk
 clanship
 clamworm
-chiricahua
 coembedded
 camelhair
 curnie
