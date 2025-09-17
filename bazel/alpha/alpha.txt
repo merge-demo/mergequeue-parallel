@@ -5852,6 +5852,7 @@ ancillary
 alible
 alidades
 anteversion
+annulling
 antirestoration
 addisonian
 absorptiometer
@@ -13415,7 +13416,6 @@ annulets
 annullate
 annuller
 anguinidae
-annulling
 annulment
 aspidate
 africander
