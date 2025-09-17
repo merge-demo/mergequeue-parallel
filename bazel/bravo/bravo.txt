@@ -2981,6 +2981,7 @@ bushiness
 benzidino
 blubber
 biuniqueness
+bicarpellate
 bandhava
 bogart
 barrikin
@@ -8348,7 +8349,6 @@ bolshevizing
 blockish
 bismuthal
 byhand
-bicarpellate
 bija
 bealtine
 bijasal
