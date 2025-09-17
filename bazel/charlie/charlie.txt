@@ -4435,6 +4435,7 @@ cavorters
 communalised
 carmaker
 carmanians
+compose
 combing
 carmelitess
 counts
@@ -14192,7 +14193,6 @@ circumambiency
 circumambient
 circumambulate
 circumambulated
-compose
 cardings
 cuisinier
 culinary
