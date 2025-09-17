@@ -3527,7 +3527,6 @@ batete
 balotade
 byroads
 bondholder
-batfowl
 batfowled
 bassists
 batfowls
@@ -9925,6 +9924,7 @@ bivalency
 brows
 blairmorite
 bivalents
+batfowl
 biognosis
 bivalvian
 baldmoneys
