@@ -239,6 +239,7 @@ boa
 bardism
 bumpy
 bestraw
+bowmaking
 baccilli
 bilateralism
 baccivorous
@@ -4094,7 +4095,6 @@ blamableness
 bicompact
 bodysurfs
 bardic
-bowmaking
 beelbow
 benzoflavine
 brushproof
