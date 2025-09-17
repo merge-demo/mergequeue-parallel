@@ -5925,6 +5925,7 @@ bionomy
 broads
 bhungini
 begirdles
+basommatophora
 bunolophodont
 belonoid
 beqwete
@@ -13551,7 +13552,6 @@ barnacled
 bibliophile
 burdening
 bobs
-basommatophora
 ballutes
 bembex
 burntness
