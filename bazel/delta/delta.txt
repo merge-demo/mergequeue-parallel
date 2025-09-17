@@ -7045,6 +7045,7 @@ despondence
 despondencies
 dar
 despondentness
+diagnosable
 dogmatical
 desponder
 despondingly
@@ -15298,7 +15299,6 @@ dyslogistically
 detects
 dialystaminous
 dolcemente
-diagnosable
 dimyarian
 decollete
 dolciano
