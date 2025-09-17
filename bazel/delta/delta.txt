@@ -2490,7 +2490,6 @@ derationalization
 diatropism
 dresser
 dilaters
-declamatory
 decibar
 dorsale
 derivational
@@ -9487,6 +9486,7 @@ demibob
 digue
 daydreamers
 digeny
+declamatory
 diamorphosis
 dispeaceful
 dubitante
