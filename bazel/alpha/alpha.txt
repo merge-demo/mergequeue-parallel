@@ -6975,7 +6975,6 @@ antitypically
 acclimated
 akre
 aerocamera
-akroasis
 akrochordite
 arimasp
 abietineous
@@ -16177,6 +16176,7 @@ acetanilide
 ariki
 antitragal
 abris
+akroasis
 antitetanic
 antiannexation
 accusive
