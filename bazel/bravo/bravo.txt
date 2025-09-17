@@ -777,7 +777,6 @@ bravuraish
 buba
 bearer
 barricados
-brushcut
 bacchants
 banket
 badmouthed
@@ -2698,6 +2697,7 @@ beelzebub
 barneys
 bourr
 byp
+brushcut
 boson
 britannian
 bestayed
