@@ -14376,7 +14376,6 @@ dialyzed
 deadheaded
 diurn
 dhaman
-diurna
 derri
 dyer
 deuterogenic
@@ -15314,6 +15313,7 @@ detainment
 drabbest
 drawlier
 dolefulness
+diurna
 dinosauric
 delsartian
 dolerophanite
