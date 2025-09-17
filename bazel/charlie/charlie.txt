@@ -18105,6 +18105,7 @@ chiromancy
 condensational
 carats
 calisaya
+cheepily
 cellated
 coenamourment
 chiffonniers
@@ -28259,7 +28260,6 @@ curvilinear
 craterless
 craterlet
 covariance
-cheepily
 cathecting
 copywise
 craticular
