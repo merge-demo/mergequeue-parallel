@@ -14030,7 +14030,6 @@ compsilura
 cargador
 cyphosis
 compitum
-cipo
 conservatist
 cippus
 confirmative
@@ -15491,6 +15490,7 @@ clarionet
 clarioning
 cloam
 circuted
+cipo
 clarissa
 counterraising
 cardionosus
