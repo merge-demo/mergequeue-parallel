@@ -11061,6 +11061,7 @@ astrospherecentrosomic
 arbitrator
 amphibologies
 anabaptistry
+atavism
 amphibolous
 amphibrach
 amia
@@ -12850,7 +12851,6 @@ anhedron
 anhelation
 anhelose
 aerotaxis
-atavism
 amulla
 anhyd
 allodially
