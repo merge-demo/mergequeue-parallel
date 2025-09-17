@@ -12970,7 +12970,6 @@ cyanids
 caite
 cyanine
 chaldrons
-cyanitic
 composture
 columnating
 castanian
@@ -16393,6 +16392,7 @@ cribral
 curvette
 cacophonies
 cisele
+cyanitic
 clyster
 candors
 camauros
