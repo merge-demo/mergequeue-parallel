@@ -4412,7 +4412,6 @@ bilabials
 bibliotist
 beclothe
 bonasus
-breathtakingly
 becalming
 bhili
 bartend
@@ -15447,6 +15446,7 @@ brioches
 blase
 bitwise
 bimas
+breathtakingly
 brachypyramid
 buzzing
 buildingless
