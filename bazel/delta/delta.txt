@@ -5076,7 +5076,6 @@ dubious
 dendritic
 dendritical
 diminishes
-disdiaclast
 decuria
 derailed
 donatary
@@ -15717,6 +15716,7 @@ detergible
 dooring
 doorless
 dismail
+disdiaclast
 decolorised
 detumescence
 dietist

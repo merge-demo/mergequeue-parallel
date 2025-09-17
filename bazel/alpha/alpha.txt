@@ -12621,7 +12621,6 @@ angioparesis
 antinosarian
 angiopathy
 aeneolithic
-asynapsis
 angiopressure
 angiorrhagia
 angiosarcoma
@@ -22043,6 +22042,7 @@ arthrosporous
 areometer
 aquench
 auxiliate
+asynapsis
 astigmatoscope
 astigmic
 astigmometer
