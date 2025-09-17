@@ -6961,6 +6961,7 @@ despecialize
 dishcloths
 dunk
 despecification
+drosograph
 desperado
 darky
 dioptre
@@ -17369,7 +17370,6 @@ dromoi
 digitoxigenin
 dandyish
 downsliding
-drosograph
 dromometer
 dielike
 defoul
