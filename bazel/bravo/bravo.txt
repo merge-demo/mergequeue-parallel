@@ -2283,6 +2283,7 @@ baister
 butterine
 barbecuer
 barbellula
+bipunctate
 bowwood
 belabor
 bared
@@ -7263,7 +7264,6 @@ bocklogged
 bullidae
 barracan
 baculere
-bipunctate
 beethoven
 becumber
 brasilia
