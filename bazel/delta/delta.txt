@@ -1729,6 +1729,7 @@ desponsate
 dewan
 drails
 dishwiping
+dittology
 deathify
 discreteness
 dispensible
@@ -10605,7 +10606,6 @@ diagonalize
 deseam
 dirges
 doxographical
-dittology
 dromond
 domestic
 distributions
