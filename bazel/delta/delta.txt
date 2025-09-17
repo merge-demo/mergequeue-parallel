@@ -16581,6 +16581,7 @@ distill
 disdainable
 drafter
 diomedes
+deus
 dictated
 dethroning
 delative
@@ -17812,7 +17813,6 @@ doublehatching
 decylenic
 ducked
 discussionis
-deus
 duckery
 duckers
 duces
