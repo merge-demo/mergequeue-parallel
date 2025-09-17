@@ -7979,7 +7979,6 @@ dexiotropous
 deixis
 deluder
 damaskin
-dewrot
 durban
 dental
 devilries
@@ -16896,6 +16895,7 @@ daniglacial
 dispiteous
 draughtsboard
 despiser
+dewrot
 deboner
 doucepere
 disallowances
