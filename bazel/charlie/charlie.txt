@@ -3881,6 +3881,7 @@ carburetter
 calcaneoastragalar
 coauthered
 carburetting
+circumstellar
 carburettor
 calendared
 carburised
@@ -14384,7 +14385,6 @@ circumstantiate
 circumstantiating
 cythera
 circumstantiation
-circumstellar
 configurated
 cleopatra
 circumtonsillar
