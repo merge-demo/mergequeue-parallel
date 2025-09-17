@@ -12952,7 +12952,6 @@ cyanformate
 chockful
 chloropal
 consecution
-cyanhydric
 cyanhydrin
 citrean
 cyanic
@@ -26782,6 +26781,7 @@ counterermine
 counterespionage
 contumelies
 commemoration
+cyanhydric
 counterestablishment
 conspiring
 counterexcitement
