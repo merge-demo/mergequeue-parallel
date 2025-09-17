@@ -3331,6 +3331,7 @@ carrots
 capote
 cranium
 cyclohexene
+caudolateral
 cheddars
 capouches
 carburating
@@ -6160,7 +6161,6 @@ caudocephalad
 clappering
 covertness
 caudofemoral
-caudolateral
 curstness
 counterworker
 countershout
