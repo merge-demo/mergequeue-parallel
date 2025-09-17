@@ -8748,7 +8748,6 @@ chapelgoing
 cockpits
 chapelize
 concubinal
-chirpier
 cryptovolcanic
 coccolithophorid
 chapelled
@@ -12598,6 +12597,7 @@ chronomastix
 crom
 citolers
 crimmers
+chirpier
 chronometers
 chronometrically
 chronon

@@ -1610,6 +1610,7 @@ assapanic
 achate
 artificialize
 anthologised
+anthropocentrically
 accriminate
 arithmomancy
 arthuriana
@@ -5795,7 +5796,6 @@ aggrieve
 aggrievedly
 acaridomatia
 alimenation
-anthropocentrically
 aggrievedness
 anemophilous
 acropetal
