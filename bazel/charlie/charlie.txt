@@ -4756,6 +4756,7 @@ completion
 carport
 carpos
 chibouk
+coursy
 catalase
 carlist
 cocash
@@ -31519,7 +31520,6 @@ cues
 coelenteron
 cursitate
 creirgist
-coursy
 cursive
 cycad
 conveyal
