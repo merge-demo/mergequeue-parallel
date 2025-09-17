@@ -6436,6 +6436,7 @@ cotte
 conchie
 cavetto
 cavy
+cenesthetic
 cameronian
 collophanite
 cavicorn
@@ -6941,7 +6942,6 @@ cletch
 crowdedness
 confects
 combination
-cenesthetic
 caky
 cotyligerous
 cosinusoid
