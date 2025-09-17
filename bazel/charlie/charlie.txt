@@ -6779,7 +6779,6 @@ cellarage
 cellaress
 chanceable
 cellarmen
-cellars
 casabe
 chirologies
 celled
@@ -16247,6 +16246,7 @@ clinia
 clinically
 condensations
 cervicovesical
+cellars
 cask
 collapse
 clinicopathological
