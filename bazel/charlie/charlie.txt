@@ -1330,6 +1330,7 @@ calydonian
 caliduct
 calif
 chapellany
+chilopsis
 cessio
 carpetwoven
 consolable
@@ -10641,7 +10642,6 @@ cabalistically
 cashbook
 catogene
 chylopoiesis
-chilopsis
 colporteurs
 coagulum
 chilostomatous
