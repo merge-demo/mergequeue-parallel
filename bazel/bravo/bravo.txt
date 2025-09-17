@@ -8954,7 +8954,6 @@ before
 blankety
 bunchbacked
 biographers
-bossisms
 biographies
 backspang
 borrasca
@@ -11719,6 +11718,7 @@ bobbin
 bolivias
 bobbinite
 bobbins
+bossisms
 bobbish
 bais
 bookmarker
