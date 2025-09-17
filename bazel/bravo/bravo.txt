@@ -3803,7 +3803,6 @@ bicondylar
 baumier
 baun
 beguile
-benightedness
 baure
 bausond
 bautta
@@ -7961,6 +7960,7 @@ blastaea
 bicyclist
 bostal
 busynesses
+benightedness
 bicycular
 boodler
 blenches
