@@ -7185,7 +7185,6 @@ depictor
 diamins
 desulfurs
 decline
-daphnetin
 dentical
 desulphurised
 demonize
@@ -14499,6 +14498,7 @@ divertive
 deutovum
 diverts
 deferment
+daphnetin
 divested
 doradidae
 dicynodontidae
