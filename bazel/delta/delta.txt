@@ -9613,6 +9613,7 @@ defaultant
 delatinization
 deprecative
 dysyntribite
+drupose
 desterilize
 dignifying
 drachm
@@ -15916,7 +15917,6 @@ doxantha
 dahabeeyah
 diestrus
 dorsibranchiata
-drupose
 distinctor
 dorsiduct
 does
