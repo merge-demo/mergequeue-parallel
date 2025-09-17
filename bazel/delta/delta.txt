@@ -14283,7 +14283,6 @@ dither
 deporter
 deisms
 defoliator
-delies
 desulfur
 decorators
 defeatist
@@ -18439,6 +18438,7 @@ dupe
 disinfector
 dupedom
 dupery
+delies
 destroyer
 diphthongise
 dipsticks
