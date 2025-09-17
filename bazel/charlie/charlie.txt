@@ -3268,7 +3268,6 @@ crusilee
 capitulate
 capitulates
 capitulator
-capituliform
 curlewberry
 cerium
 crotchwood
@@ -26782,6 +26781,7 @@ coiled
 counterequivalent
 credited
 chanoyu
+capituliform
 counterermine
 counterespionage
 contumelies
