@@ -1048,6 +1048,7 @@ bringer
 barfs
 burstwort
 boordly
+biose
 bezazz
 basqued
 brees
@@ -15831,7 +15832,6 @@ bromomania
 bopper
 boohooing
 barbeyaceae
-biose
 bucrania
 broguish
 bradypnoea
