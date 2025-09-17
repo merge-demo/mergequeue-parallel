@@ -2147,7 +2147,6 @@ bricksetter
 barreled
 bathybius
 bestripe
-burnishes
 bediapered
 botherment
 brutism
@@ -14643,6 +14642,7 @@ brassarts
 ballised
 brasse
 biospeleology
+burnishes
 brassey
 boxiest
 bastite
