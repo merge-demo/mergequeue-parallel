@@ -9659,7 +9659,6 @@ cheeselip
 cryptoglioma
 cephalochorda
 cheesemongery
-cheesemongering
 categoricalness
 cheeseparer
 canaster
@@ -20280,6 +20279,7 @@ carosella
 commodatum
 commode
 commodes
+cheesemongering
 cionotomy
 chalcolite
 chicagoans
