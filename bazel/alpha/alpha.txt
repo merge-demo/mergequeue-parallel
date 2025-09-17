@@ -2458,6 +2458,7 @@ aconite
 adoptabilities
 antherid
 aisteoir
+aluminic
 aconitine
 abolitionism
 atypical
@@ -19580,7 +19581,6 @@ apl
 aristae
 affirmatively
 alfarga
-aluminic
 aristarchian
 aristarchies
 aristate
