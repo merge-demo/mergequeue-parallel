@@ -4585,7 +4585,6 @@ aeolis
 aeolist
 aeolotropy
 atrenne
-aeolus
 aesculapian
 aeon
 anacrustically
@@ -15597,6 +15596,7 @@ atlantica
 angeleno
 antirevolutionary
 amaranthaceous
+aeolus
 astute
 abortiveness
 accostable
