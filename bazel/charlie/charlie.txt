@@ -5391,7 +5391,6 @@ clepes
 castoffs
 coldly
 castoreum
-caftaned
 chilloes
 castorite
 castra
@@ -26466,6 +26465,7 @@ cottid
 capitulating
 cavefishes
 coldbloodedness
+caftaned
 cottise
 cottoid
 chunkhead
