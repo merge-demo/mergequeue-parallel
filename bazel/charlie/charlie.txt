@@ -4347,7 +4347,6 @@ concavation
 capacitator
 champain
 cycadiform
-circumbulbar
 changeably
 carioles
 chaperoned
@@ -15857,6 +15856,7 @@ coremaker
 consummating
 clamb
 cleche
+circumbulbar
 capacitance
 clechee
 constants
