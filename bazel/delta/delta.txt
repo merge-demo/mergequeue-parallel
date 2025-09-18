@@ -8499,6 +8499,7 @@ directionize
 dodecyl
 downgrades
 diamondback
+drawl
 diplomatize
 dowsers
 debaucher
@@ -11431,7 +11432,6 @@ disciple
 drippiest
 decussis
 dispress
-drawl
 disciplinable
 dishfuls
 deferentectomy
