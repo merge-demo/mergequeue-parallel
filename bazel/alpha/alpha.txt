@@ -1372,7 +1372,6 @@ afterpast
 acervuline
 ansarie
 acceptress
-accepts
 accersitor
 attractants
 apellous
@@ -8815,6 +8814,7 @@ allomorphite
 allonym
 allonymously
 allonyms
+accepts
 allonomous
 arithmetize
 apodan
