@@ -16147,7 +16147,6 @@ celebesian
 crannied
 climatal
 computably
-corticate
 climatarchic
 climate
 climates
@@ -27625,6 +27624,7 @@ convive
 consomm
 cutworks
 cariosity
+corticate
 corticosteroid
 cowberry
 cowbind
