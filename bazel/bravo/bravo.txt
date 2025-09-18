@@ -3424,6 +3424,7 @@ boatshop
 bleaching
 bagani
 brachycephalism
+bowstave
 bummers
 brigantines
 bastardry
@@ -8861,7 +8862,6 @@ bioclimatician
 bathwater
 blabber
 bourd
-bowstave
 bittering
 bussed
 boschvark
