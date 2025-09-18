@@ -495,7 +495,6 @@ balaenoidea
 brachioradial
 bromios
 backslapper
-bighorn
 bituminiferous
 bramblebush
 batteries
@@ -2732,6 +2731,7 @@ bimodal
 beltline
 bullbat
 brigandishly
+bighorn
 barolo
 bicolored
 bonneting
