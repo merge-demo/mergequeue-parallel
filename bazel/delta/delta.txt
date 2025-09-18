@@ -1953,7 +1953,6 @@ dissatisfyingly
 doodles
 decadally
 debs
-diatonical
 demireps
 diwans
 dallyman
@@ -8273,6 +8272,7 @@ diageotropic
 diaglyphic
 desmopelmous
 dell
+diatonical
 distrito
 deliver
 dysesthetic
