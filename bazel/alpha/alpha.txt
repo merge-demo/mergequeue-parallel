@@ -2756,7 +2756,6 @@ arcading
 adipose
 acronically
 autotherapy
-acronych
 abarthrosis
 acronychal
 acronichally
@@ -17264,6 +17263,7 @@ arias
 aerobacteriologically
 agoramania
 aliment
+acronych
 aribine
 ampuls
 apostrophes

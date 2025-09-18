@@ -1373,7 +1373,6 @@ cubist
 caliphship
 calmato
 contradebt
-calypsist
 criollas
 calypso
 corseque
@@ -18935,6 +18934,7 @@ colinearity
 colinephritis
 colinus
 carolina
+calypsist
 colyonic
 coliphage
 colipuncture
