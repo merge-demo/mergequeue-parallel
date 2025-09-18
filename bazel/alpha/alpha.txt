@@ -7378,6 +7378,7 @@ albuminofibrin
 albuminoid
 arthrodiae
 autotelic
+annuluses
 aurifying
 albuminone
 alepot
@@ -21239,7 +21240,6 @@ anoli
 adamantly
 antepalatal
 asecretory
-annuluses
 armorproof
 asyngamy
 anconeous
