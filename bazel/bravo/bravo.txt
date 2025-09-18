@@ -2510,6 +2510,7 @@ boilermaker
 bartletts
 bumblebees
 buzylene
+batarde
 beprank
 bodysuit
 butterflied
@@ -3498,7 +3499,6 @@ batamote
 biosis
 bitterworm
 billa
-batarde
 benzoglyoxaline
 bullaces
 baiters
