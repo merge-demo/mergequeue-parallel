@@ -16286,7 +16286,6 @@ clinoid
 clinology
 clinometry
 chemosynthetically
-cantos
 canisters
 colonisable
 calendal
@@ -28353,6 +28352,7 @@ cremocarp
 coendures
 certainly
 cloisters
+cantos
 craziest
 clinographic
 crazily
