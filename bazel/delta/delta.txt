@@ -15773,7 +15773,6 @@ discoblastic
 docile
 dunce
 despondency
-dartrose
 didrachma
 decollator
 dopped
@@ -18424,6 +18423,7 @@ defrauder
 diatribist
 doke
 duosecant
+dartrose
 dockization
 dactylioglyphist
 downhauls
