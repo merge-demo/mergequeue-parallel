@@ -9357,7 +9357,6 @@ consulating
 cartograph
 corrodier
 chauvin
-close
 countertree
 chauvinism
 chauvinist
@@ -12672,6 +12671,7 @@ chuckleheadedness
 cottier
 chucklers
 chuckles
+close
 chiavetta
 cymblin
 canos

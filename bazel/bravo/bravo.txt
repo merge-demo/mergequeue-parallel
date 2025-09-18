@@ -12018,7 +12018,6 @@ bronchostomies
 boldface
 bicentenaries
 bertin
-brawlys
 bojite
 biscuitry
 boycott
@@ -18090,6 +18089,7 @@ benedictionary
 bealtared
 bloodlettings
 buskin
+brawlys
 butling
 butcherer
 blobbier
