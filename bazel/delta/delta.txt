@@ -8131,7 +8131,6 @@ deblaterate
 dosages
 dhobee
 dhoby
-dhobie
 dealcoholist
 dysacusia
 dysautonomia
@@ -12772,6 +12771,7 @@ durns
 dyslysin
 distrustfully
 diazotizing
+dhobie
 dubbings
 difference
 dislocability
