@@ -16616,7 +16616,6 @@ caps
 collateralize
 complicities
 clonic
-clonicity
 cytophaga
 clonicotonic
 chemicophysiological
@@ -29622,6 +29621,7 @@ contract
 chickenhearted
 covering
 croyden
+clonicity
 croydon
 croiik
 conversable
