@@ -2826,6 +2826,7 @@ accoucheur
 anthropodus
 antiliberalist
 acception
+armatures
 anthroropolith
 ahoy
 agrements
@@ -19722,7 +19723,6 @@ atli
 auxilium
 arette
 arsphenamine
-armatures
 armband
 albation
 anarchal
