@@ -3707,7 +3707,6 @@ alderney
 arrish
 articulary
 adipopexia
-adipopexis
 acrook
 apsidally
 adipous
@@ -7339,6 +7338,7 @@ audits
 albumenising
 albumenization
 albumenized
+adipopexis
 assured
 aerophoto
 archtreasurer
