@@ -5525,7 +5525,6 @@ contortively
 ciconiform
 counterbarrage
 chillier
-catalyze
 catalyzer
 catchalls
 catalyzers
@@ -19470,6 +19469,7 @@ celesta
 coelector
 cartomancies
 colorbreed
+catalyze
 colorcasting
 clawsick
 calvus
