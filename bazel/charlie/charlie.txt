@@ -317,6 +317,7 @@ chiromys
 coner
 cradle
 cemented
+cryptology
 cysticercus
 cacodemon
 cacodemonia
@@ -29059,7 +29060,6 @@ catherine
 campaniform
 cellulation
 crinogenic
-cryptology
 cachexy
 casper
 chicagoan
