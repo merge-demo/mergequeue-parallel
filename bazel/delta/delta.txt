@@ -2487,6 +2487,7 @@ decivilize
 deckel
 ditchdown
 dispondaic
+dictaphones
 deckhand
 dovekies
 deckle
@@ -17557,7 +17558,6 @@ domanial
 dicasts
 donuts
 dianil
-dictaphones
 drugeteria
 diodontidae
 despeed
