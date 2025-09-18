@@ -1731,7 +1731,6 @@ cordage
 calvary
 caffeate
 countergarrison
-companable
 cormus
 calvarial
 calvaries
@@ -2662,6 +2661,7 @@ caniniform
 choledochoenterostomy
 confidantes
 caninities
+companable
 celanese
 caninus
 coleorhizae
