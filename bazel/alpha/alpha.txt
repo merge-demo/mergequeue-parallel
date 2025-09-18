@@ -16290,7 +16290,6 @@ antonym
 antonymy
 antonyms
 agglutinability
-antoniniani
 appointed
 antonomasia
 anaplastic
@@ -20185,6 +20184,7 @@ arrivage
 arriet
 austerity
 abstracting
+antoniniani
 arrimby
 aphides
 akasha
