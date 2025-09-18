@@ -5271,7 +5271,6 @@ bargee
 bellevue
 beggingly
 broadband
-beghard
 boltonia
 biscuitmaker
 bezzants
@@ -6081,6 +6080,7 @@ bit
 bletonism
 buhlworks
 budget
+beghard
 buntline
 blepharodyschroia
 benedictinism
