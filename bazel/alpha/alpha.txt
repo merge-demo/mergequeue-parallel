@@ -13931,7 +13931,6 @@ antehypophysis
 aedoeagus
 antehistoric
 anthranone
-aeolopantalon
 argentinitrate
 antejudiciary
 amphictyonic
@@ -21860,6 +21859,7 @@ autocratoric
 arteriology
 assumers
 affronty
+aeolopantalon
 anthelmintic
 aircrewmen
 anaeroplastic
