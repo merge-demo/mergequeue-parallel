@@ -14822,7 +14822,6 @@ cytoclastic
 crioboly
 cytococci
 cytoderm
-cytodiagnosis
 cytoecology
 colorcaster
 cappadine
@@ -21749,6 +21748,7 @@ cassises
 crosa
 cecidomyiid
 chondrodystrophia
+cytodiagnosis
 cedens
 cephalon
 commy
