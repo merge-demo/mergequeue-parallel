@@ -2801,7 +2801,6 @@ acropodium
 acropoleis
 acriflavin
 acropora
-asthenope
 acarologist
 acropore
 augustest
@@ -13266,6 +13265,7 @@ anlaces
 anlages
 audit
 accompanying
+asthenope
 amazedness
 artiste
 andantes
