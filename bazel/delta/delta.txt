@@ -10598,7 +10598,6 @@ despotist
 dames
 diplogenesis
 diagonalize
-deseam
 dirges
 doxographical
 dromond
@@ -14957,6 +14956,7 @@ dactylopodite
 dowitcher
 deracine
 dolorifuge
+deseam
 dependencies
 dialectologic
 dodded
