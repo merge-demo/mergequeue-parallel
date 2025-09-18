@@ -14170,7 +14170,6 @@ circulation
 circulations
 circulative
 carotte
-consciencelessness
 concentricity
 catatonia
 circulators
@@ -18700,6 +18699,7 @@ concubinehood
 circuting
 coiny
 costiform
+consciencelessness
 cytozymase
 coining
 coinmate
