@@ -764,6 +764,7 @@ badious
 betrays
 blandiloquence
 brewster
+batata
 bravuraish
 buba
 bearer
@@ -10554,7 +10555,6 @@ brined
 bicolourous
 binotic
 branchstand
-batata
 bransle
 brigandine
 blatting
