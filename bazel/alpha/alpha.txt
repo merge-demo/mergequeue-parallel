@@ -333,7 +333,6 @@ anguis
 angelet
 appeals
 apagogue
-agnomical
 armomancy
 alternationist
 azodicarboxylic
@@ -18710,6 +18709,7 @@ archetypes
 antilogic
 attributive
 aditus
+agnomical
 awnings
 asymmetrically
 archettos
