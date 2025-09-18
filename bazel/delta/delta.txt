@@ -3092,7 +3092,6 @@ demihuman
 destructibleness
 disposability
 delegating
-desmoneme
 deifying
 dihydrite
 darneder
@@ -7817,6 +7816,7 @@ dowie
 ductilizing
 daphnephoria
 devocalized
+desmoneme
 devocalizing
 dignation
 devoice
