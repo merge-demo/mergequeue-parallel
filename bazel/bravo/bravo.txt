@@ -8727,6 +8727,7 @@ brewer
 bindweed
 battu
 bynedestin
+bromos
 backrests
 binervate
 benders
@@ -11294,7 +11295,6 @@ bargeman
 baith
 bespoused
 befur
-bromos
 bossiness
 blowups
 beadrow
