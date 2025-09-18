@@ -10956,6 +10956,7 @@ contraposita
 chiropterygian
 chiropterite
 chiros
+clinoid
 catechumenal
 chirospasm
 circumumbilical
@@ -16271,7 +16272,6 @@ cowhide
 codswallop
 childermas
 constringency
-clinoid
 clinology
 clinometry
 chemosynthetically
