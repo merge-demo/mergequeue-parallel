@@ -5296,6 +5296,7 @@ crankled
 creditabilities
 createdness
 criminol
+caseworker
 casteisms
 cornices
 casteless
@@ -24659,7 +24660,6 @@ concentralize
 clothmaking
 copperahs
 copperases
-caseworker
 corollaceous
 cola
 corage
