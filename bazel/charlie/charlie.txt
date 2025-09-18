@@ -23984,7 +23984,6 @@ crewelist
 chukkars
 chromophyl
 convectively
-catachrestic
 clods
 chromatograph
 counterpoises
@@ -27489,6 +27488,7 @@ cheongsam
 coal
 cobwebbed
 chimers
+catachrestic
 cafetal
 covariant
 colorism
