@@ -5182,6 +5182,7 @@ breezed
 brontograph
 befuddle
 befuddler
+biglandular
 bacillosis
 boxberries
 befuddling
@@ -5386,7 +5387,6 @@ butcher
 behallow
 bowldering
 betwit
-biglandular
 behammer
 breads
 behap
