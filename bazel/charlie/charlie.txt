@@ -13166,7 +13166,6 @@ cichlid
 cichlidae
 colocynthin
 cicisbeism
-cicisbeo
 cycl
 chromometer
 cyclades
@@ -21753,6 +21752,7 @@ commy
 crackling
 cinchonism
 chemosphere
+cicisbeo
 clubbers
 cartonniers
 conditioner
