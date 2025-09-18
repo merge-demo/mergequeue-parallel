@@ -5461,7 +5461,6 @@ catachreses
 cercariae
 coolamon
 catachrestically
-catachthonic
 consummation
 cyclopentadiene
 chining
@@ -17801,6 +17800,7 @@ chromogenous
 cissy
 cuproscheelite
 cocuswood
+catachthonic
 characterizers
 creaming
 coriparian

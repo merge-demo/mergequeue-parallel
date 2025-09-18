@@ -1553,6 +1553,7 @@ ballas
 barbouillage
 baronetised
 beeherd
+boarder
 boatsetter
 blastemata
 bersiamite
@@ -16933,7 +16934,6 @@ bulger
 boyhood
 belloot
 buggess
-boarder
 bedcover
 bronchiostenosis
 biconsonantal
