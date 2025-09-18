@@ -11789,7 +11789,6 @@ boccie
 bamboozler
 backstring
 baron
-bawdstrot
 bluefish
 burdeners
 byrl
@@ -14525,6 +14524,7 @@ basing
 brosy
 birdwoman
 barouches
+bawdstrot
 backscattered
 biri
 bitty
