@@ -1477,7 +1477,6 @@ dunpickle
 dispulp
 dazement
 delicatessen
-decretorial
 dazy
 dazzle
 discomedusan
@@ -16547,6 +16546,7 @@ darken
 depicters
 disheritment
 degradations
+decretorial
 doubtance
 disjointness
 domesticities
