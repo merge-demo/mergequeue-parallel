@@ -25810,7 +25810,6 @@ corruptious
 cattily
 contretemps
 corruptively
-cynosarges
 carchariidae
 coprinae
 corruptor
@@ -27133,6 +27132,7 @@ countersun
 carbonade
 countersurprise
 chrotta
+cynosarges
 countersworn
 countertack
 countertally
