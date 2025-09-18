@@ -5210,6 +5210,7 @@ basification
 blotless
 breadboards
 bombyx
+bandeng
 barkeeps
 bandos
 basaltic
@@ -17755,7 +17756,6 @@ blinkered
 backing
 boosters
 bounce
-bandeng
 burrock
 brainwashjng
 banjoists

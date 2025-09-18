@@ -2851,7 +2851,6 @@ dys
 denticles
 dictyopteris
 decumbent
-deben
 disfurnishment
 dugdug
 danais
@@ -17287,6 +17286,7 @@ durries
 demivotary
 drivenness
 drivepipe
+deben
 driver
 despising
 drivers
