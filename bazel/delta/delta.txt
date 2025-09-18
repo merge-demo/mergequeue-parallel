@@ -2683,7 +2683,6 @@ dejectly
 decontaminators
 dvornik
 diskless
-disfurnished
 dressmakership
 dishwash
 devoured
@@ -4349,6 +4348,7 @@ decembrist
 dotkin
 diamondiferous
 diacritical
+disfurnished
 dods
 doxycycline
 demagogical
