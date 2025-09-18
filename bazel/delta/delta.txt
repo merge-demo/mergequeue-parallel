@@ -14404,7 +14404,6 @@ divans
 dichromaticism
 debatably
 daylighting
-dysentery
 depositions
 dehydrocorydaline
 durdenite
@@ -16312,6 +16311,7 @@ derange
 defusing
 divinable
 description
+dysentery
 duplicated
 dacryocystoblennorrhea
 dindymus
