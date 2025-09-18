@@ -10769,6 +10769,7 @@ disdenominationalize
 digammic
 desmogen
 drumbeats
+dryinid
 diprotodan
 delian
 dovyalis
@@ -17212,7 +17213,6 @@ damara
 dislocated
 dichotic
 disenvelop
-dryinid
 diffusibility
 divagations
 distichlis

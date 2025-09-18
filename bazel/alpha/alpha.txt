@@ -283,7 +283,6 @@ abdominocystic
 ailuro
 appunctuation
 abdominogenital
-aurata
 acatastatic
 axiomatic
 ankylodontia
@@ -7753,6 +7752,7 @@ atropines
 ascella
 appropriates
 alembic
+aurata
 abolishes
 amylolytic
 appmt
