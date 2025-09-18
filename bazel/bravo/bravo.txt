@@ -15,7 +15,6 @@ bloodthirstiest
 beringite
 babasu
 bureaucratist
-brachial
 bionergy
 balancement
 babbitted
@@ -15194,6 +15193,7 @@ being
 barrel
 blister
 birdwitted
+brachial
 bridewort
 barrigudos
 barcan
