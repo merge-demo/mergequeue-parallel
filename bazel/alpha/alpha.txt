@@ -11855,7 +11855,6 @@ acetylmethylcarbinol
 atrium
 aboriginals
 amara
-anarithia
 arc
 aliethmoidal
 asymtotes
@@ -12474,6 +12473,7 @@ aeriferous
 algosis
 aneurisms
 anfract
+anarithia
 anfractuose
 antirationalism
 antitraditionalist
