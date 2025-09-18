@@ -4074,7 +4074,6 @@ debouches
 delict
 deliquescence
 divertila
-delictual
 disobeyed
 delictum
 delieret
@@ -6944,6 +6943,7 @@ duskness
 despecialization
 disembarrassed
 dropper
+delictual
 despecialize
 dishcloths
 dunk
