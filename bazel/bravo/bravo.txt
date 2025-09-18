@@ -2602,6 +2602,7 @@ barocco
 befilch
 barkbound
 bamoth
+biphenyls
 besluit
 beaued
 balsameaceous
@@ -8642,7 +8643,6 @@ branners
 boras
 bimanal
 binoxalate
-biphenyls
 bisinuate
 bradsot
 bournless
