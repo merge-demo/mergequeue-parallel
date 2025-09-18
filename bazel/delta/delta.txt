@@ -6881,6 +6881,7 @@ deheathenize
 dentary
 desmopyknosis
 desmorrhexis
+dimpsy
 deifies
 desmoscolecidae
 desmoscolex
@@ -13368,7 +13369,6 @@ desanding
 discord
 drogher
 dunghills
-dimpsy
 disputes
 dispicion
 disputing

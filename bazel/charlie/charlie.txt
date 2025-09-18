@@ -2858,7 +2858,6 @@ concatenation
 coercion
 chairlady
 canossa
-canotier
 cansful
 coddled
 canso
@@ -9383,6 +9382,7 @@ chawia
 complaisance
 combinement
 cembali
+canotier
 cauterizing
 crumb
 chawing
