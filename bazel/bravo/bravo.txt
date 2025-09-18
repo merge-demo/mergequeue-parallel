@@ -9927,7 +9927,6 @@ biognosis
 bivalvian
 baldmoneys
 basin
-bivariant
 baddock
 bismuthyl
 beechy
@@ -14312,6 +14311,7 @@ bacillus
 brahmoism
 batocrinidae
 bray
+bivariant
 blenny
 braided
 binaurally
