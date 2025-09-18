@@ -9503,6 +9503,7 @@ biscuitroot
 burnets
 biscuits
 bhutia
+bonfires
 bromides
 barongs
 bronchomycosis
@@ -12497,7 +12498,6 @@ backdoor
 burliness
 bradoon
 boarded
-bonfires
 bongoes
 bongoist
 borrows
