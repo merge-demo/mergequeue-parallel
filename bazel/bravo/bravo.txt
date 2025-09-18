@@ -11767,6 +11767,7 @@ bacopa
 behear
 bobtail
 bobtailed
+belles
 boragineous
 bothria
 bobwhites
@@ -15180,7 +15181,6 @@ biochemics
 bosk
 bilophodont
 bewary
-belles
 bridewell
 being
 barrel

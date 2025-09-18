@@ -7180,7 +7180,6 @@ albarelli
 anagogies
 antistadholderian
 ariboflavinosis
-arrivisme
 albarium
 albas
 atwitch
@@ -23809,6 +23808,7 @@ authorless
 authors
 autocomplexes
 aeries
+arrivisme
 anociation
 authotype
 arborator
