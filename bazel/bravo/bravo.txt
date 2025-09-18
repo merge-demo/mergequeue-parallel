@@ -690,6 +690,7 @@ breathlessly
 badass
 bigbloom
 basidiomycetous
+brannerite
 botticelli
 bischofite
 bowldery
@@ -15355,7 +15356,6 @@ buttressing
 bodoni
 babyish
 buccinum
-brannerite
 bereaved
 batonnier
 bystander
