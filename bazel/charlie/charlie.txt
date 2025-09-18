@@ -2103,7 +2103,6 @@ corduroy
 campho
 camphocarboxylic
 camphoid
-choryos
 campholic
 campholide
 coleorhiza
@@ -16161,6 +16160,7 @@ cerenkov
 cestidae
 climatographical
 climatological
+choryos
 climatometer
 climaxed
 ctf
