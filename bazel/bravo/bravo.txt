@@ -5454,7 +5454,6 @@ bonce
 briefers
 bahmani
 bootid
-behoof
 briefness
 broadmouth
 baronets
@@ -11409,6 +11408,7 @@ bemuffle
 butyraldehyde
 barad
 babuma
+behoof
 bewelter
 boatheader
 bairnliest
