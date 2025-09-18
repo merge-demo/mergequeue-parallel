@@ -5302,7 +5302,6 @@ bosomy
 beglerbeglic
 blatant
 bakalai
-blastogenic
 burdalone
 brahmaic
 biannulate
@@ -10775,6 +10774,7 @@ bavin
 bridge
 baulkier
 birthrate
+blastogenic
 blocks
 belier
 blepharochromidrosis
