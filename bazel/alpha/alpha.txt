@@ -7141,7 +7141,6 @@ alliterative
 alation
 aeolharmonica
 adaptometer
-alauda
 aphakic
 autophotometry
 alaudine
@@ -25069,6 +25068,7 @@ alfreda
 axiferous
 antimonarchists
 amyelonic
+alauda
 alumstone
 apothegms
 autoradiography
