@@ -5734,7 +5734,6 @@ akey
 agglomerated
 apical
 anartismos
-agglutinate
 alloxuric
 ako
 analytically
@@ -19401,6 +19400,7 @@ arith
 argling
 antral
 allspices
+agglutinate
 absolvers
 arterioscleroses
 antiracemate
