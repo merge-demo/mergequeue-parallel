@@ -9298,6 +9298,7 @@ ballistocardiograph
 bonniness
 butter
 bottommost
+buccinator
 birded
 bahawder
 bodymaking
@@ -17297,7 +17298,6 @@ bliny
 bloodmobiles
 barcaroles
 bunged
-buccinator
 bungee
 bunger
 begrudging

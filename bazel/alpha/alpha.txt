@@ -1044,6 +1044,7 @@ abubble
 abuilding
 abuleia
 applesnits
+apodictive
 antitorpedo
 allegers
 arietation
@@ -9658,7 +9659,6 @@ amalgamationist
 anthropophagist
 apriorism
 amalgamative
-apodictive
 amalgamatize
 acmite
 antimorality
