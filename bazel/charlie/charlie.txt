@@ -6637,7 +6637,6 @@ contemporaneously
 ceilingwards
 copiability
 chadelle
-crucis
 celtophobia
 couac
 ceylonite
@@ -28696,6 +28695,7 @@ coincides
 crepine
 colophonite
 creping
+crucis
 colons
 churled
 crepitated
