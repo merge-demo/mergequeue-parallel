@@ -1232,7 +1232,6 @@ decrepitated
 deleterious
 debagging
 datary
-dataries
 datasetname
 datcha
 disparison
@@ -5875,6 +5874,7 @@ docetic
 dragonfly
 doliolidae
 deadtongue
+dataries
 dags
 dyophysitical
 dentaries
