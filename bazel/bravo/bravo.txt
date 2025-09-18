@@ -7508,7 +7508,6 @@ bemad
 barbudos
 bricole
 bubblers
-brobdingnag
 brasilein
 bewilderedly
 bemadams
@@ -8478,6 +8477,7 @@ bearhound
 biliteral
 biliteralism
 benchmark
+brobdingnag
 beladle
 baywood
 bilked
