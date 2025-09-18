@@ -6875,6 +6875,7 @@ danknesses
 dryobalanops
 drevel
 deadflat
+dicotylidae
 deltic
 domesticative
 derivative
@@ -9053,7 +9054,6 @@ disbar
 dudine
 doornboom
 disruption
-dicotylidae
 dunlins
 dauerschlaf
 drowsiness
