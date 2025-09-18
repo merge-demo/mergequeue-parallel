@@ -12799,7 +12799,6 @@ basementless
 boomingly
 betalk
 boomkin
-bibliophobia
 barquest
 bedlamic
 bootes
@@ -15798,6 +15797,7 @@ bromination
 beswim
 battlefronts
 breezing
+bibliophobia
 brionies
 beice
 bodysurfing
