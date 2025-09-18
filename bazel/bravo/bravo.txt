@@ -2248,7 +2248,6 @@ bats
 blastment
 belavendered
 bauhinia
-barbarized
 bewraying
 beleaping
 bona
@@ -5091,6 +5090,7 @@ beflea
 brainier
 bombable
 bromoaurate
+barbarized
 boxhaul
 belching
 brachiate
