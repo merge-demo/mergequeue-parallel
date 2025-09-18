@@ -12643,7 +12643,6 @@ armorwise
 ammocoetid
 arlington
 angiosymphysis
-adry
 attacks
 angiosporous
 atveen
@@ -17945,6 +17944,7 @@ adular
 amphigenetic
 amazona
 aproterodont
+adry
 aroused
 apsid
 afterthinker
