@@ -13163,7 +13163,6 @@ bm
 bonanzas
 blastocyst
 barocyclonometer
-borrower
 breakless
 bors
 basisphenoid
@@ -14329,6 +14328,7 @@ bleeping
 bonier
 busticate
 brayette
+borrower
 birdcraft
 bursiform
 braillewriter
