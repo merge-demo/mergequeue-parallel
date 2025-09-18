@@ -12742,6 +12742,7 @@ anglophil
 anglophile
 awkward
 acinetaria
+amphiprostyle
 adenine
 anglophilism
 anglophobia
@@ -21365,7 +21366,6 @@ associationist
 azonium
 aerologic
 avys
-amphiprostyle
 aspermatic
 aspermatism
 acetonemia
