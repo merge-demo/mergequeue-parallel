@@ -4039,7 +4039,6 @@ calibrate
 cardiectasis
 compileable
 cardiectomize
-cardielcosis
 camelishness
 copydesks
 claimed
@@ -21414,6 +21413,7 @@ conciliations
 conciliator
 contessa
 couvert
+cardielcosis
 counterpointing
 colloquiums
 carbonless
