@@ -16512,6 +16512,7 @@ clockwise
 clockworked
 caval
 cholam
+criant
 carthamin
 chaldron
 creepage
@@ -28861,7 +28862,6 @@ cephalhydrocele
 cholestane
 cotans
 cryanesthesia
-criant
 chrysenic
 carbonigenous
 corke
