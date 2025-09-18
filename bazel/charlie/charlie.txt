@@ -11916,7 +11916,6 @@ consension
 choreman
 choreographed
 choreographer
-cilice
 choreographers
 choreographic
 chuzwi
@@ -27053,6 +27052,7 @@ codiaceous
 cwt
 confocally
 checksums
+cilice
 continuums
 castoridae
 cadere
