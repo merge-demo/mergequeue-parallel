@@ -1783,6 +1783,7 @@ cercelee
 camansi
 camaraderie
 camarasaurus
+champerator
 camarera
 camarin
 caama
@@ -10274,7 +10275,6 @@ carnalities
 chicer
 cnidocyst
 committer
-champerator
 cantharidin
 chicest
 coccidioidomycosis
