@@ -11993,6 +11993,7 @@ antimagistratical
 aerotechnics
 aneretic
 assignable
+autotypography
 anatropal
 anatropia
 antiquers
@@ -24410,7 +24411,6 @@ autotheist
 autotimer
 autotypy
 autotypic
-autotypography
 autotomise
 alamedas
 armbands

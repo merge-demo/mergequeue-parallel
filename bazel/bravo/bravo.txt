@@ -238,7 +238,6 @@ bilateralism
 baccivorous
 bulbule
 bach
-bibliograph
 betonica
 bactrites
 betrothed
@@ -17772,6 +17771,7 @@ barrelsful
 burrows
 burrstone
 bude
+bibliograph
 bambini
 bursae
 bursary
