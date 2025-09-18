@@ -4156,6 +4156,7 @@ dreikanters
 doctrinization
 disherit
 drafty
+daguerreotyper
 delit
 damonico
 dob
@@ -9310,7 +9311,6 @@ daffier
 diestrums
 daikering
 debruises
-daguerreotyper
 dewar
 dietaries
 deosculate
