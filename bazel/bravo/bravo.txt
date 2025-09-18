@@ -2255,7 +2255,6 @@ bloodmonger
 butted
 barbasco
 boneless
-bitting
 bummil
 bindoree
 bacchii
@@ -3264,6 +3263,7 @@ basilidian
 brome
 babydom
 baboon
+bitting
 birder
 bracery
 binormal
