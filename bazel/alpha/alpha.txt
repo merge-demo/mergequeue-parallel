@@ -12950,7 +12950,6 @@ anima
 anticlactic
 animable
 autocatharsis
-antiarin
 atrichia
 archaeopteris
 anatifae
@@ -19755,6 +19754,7 @@ aspires
 adamantness
 armers
 autumnal
+antiarin
 acanthite
 amissibility
 armful
