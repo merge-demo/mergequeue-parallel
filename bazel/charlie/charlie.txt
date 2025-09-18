@@ -2311,6 +2311,7 @@ circumfuse
 convertors
 ccw
 canamo
+coredeem
 catapultier
 cranesbill
 chaetognathous
@@ -19816,7 +19817,6 @@ combinable
 combinably
 combinate
 cabbagy
-coredeem
 combinational
 corrigent
 combinations
