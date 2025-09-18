@@ -12987,7 +12987,6 @@ balanid
 boracite
 bisectrix
 boracous
-butanolid
 bedur
 bruchidae
 bueno
@@ -17965,6 +17964,7 @@ bothrops
 bennel
 boners
 battutas
+butanolid
 bankruptcies
 businesslikeness
 blanketeer
