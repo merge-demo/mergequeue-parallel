@@ -11288,7 +11288,6 @@ blowlamp
 bananas
 blowoff
 blowouts
-blowproof
 brats
 boarwood
 branniest
@@ -17695,6 +17694,7 @@ benempt
 billian
 blastophaga
 blunderings
+blowproof
 besnowing
 barbicanage
 bemuzzled
