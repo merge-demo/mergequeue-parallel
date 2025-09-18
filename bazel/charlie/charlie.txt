@@ -798,6 +798,7 @@ corebel
 caiman
 counterplot
 claustra
+chaparrals
 carbocinchomeronic
 catachthonian
 conchucu
@@ -8712,7 +8713,6 @@ cartwheels
 coto
 chaparejos
 chaparral
-chaparrals
 chaparraz
 chaparro
 chapati
