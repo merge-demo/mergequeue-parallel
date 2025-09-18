@@ -8089,7 +8089,6 @@ carcer
 chondri
 clavicornia
 chaffs
-chaffseed
 cavitation
 costlessly
 carnifying
@@ -20653,6 +20652,7 @@ compensators
 compenser
 compered
 compering
+chaffseed
 compert
 competed
 communard
