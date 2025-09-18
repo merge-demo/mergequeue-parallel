@@ -6781,7 +6781,6 @@ bacteriotoxic
 benignancy
 benkulen
 buicks
-bioluminescent
 bescourge
 baboos
 buckeroos
@@ -15131,6 +15130,7 @@ brickyard
 bricking
 brickish
 brewises
+bioluminescent
 branchiostegal
 bricklayers
 bummery
