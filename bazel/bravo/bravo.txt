@@ -2249,7 +2249,6 @@ bauhinia
 bewraying
 beleaping
 bona
-biternate
 bespew
 brunets
 bloodmonger
@@ -7380,6 +7379,7 @@ barbeau
 bookstack
 budgeting
 balmier
+biternate
 bushbashing
 boilery
 buccocervical
