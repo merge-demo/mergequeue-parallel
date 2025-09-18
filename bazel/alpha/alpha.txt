@@ -1328,7 +1328,6 @@ accelerometer
 accelerometers
 anticatholic
 anticnemion
-altingiaceae
 airtightly
 awingly
 accentors
@@ -14939,6 +14938,7 @@ aminish
 amphitokal
 aspherical
 antidoting
+altingiaceae
 anoplanthus
 antidromically
 aerotechnical
