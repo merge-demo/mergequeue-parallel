@@ -8958,7 +8958,6 @@ detailers
 defectibility
 distantness
 dully
-divinyl
 dichloramine
 dichloride
 dichloroacetic
@@ -16321,6 +16320,7 @@ dan
 distilled
 debilities
 dispunishable
+divinyl
 disabling
 downcome
 dorsal
