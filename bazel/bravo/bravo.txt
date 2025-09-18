@@ -494,7 +494,6 @@ bromios
 backslapper
 bituminiferous
 bramblebush
-batteries
 breakax
 bismillah
 betweentimes
@@ -4245,6 +4244,7 @@ battologise
 bebathe
 bryonin
 beatrix
+batteries
 beblooding
 bluestockingism
 boustrophedon
