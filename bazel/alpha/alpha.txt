@@ -3790,7 +3790,6 @@ aerostats
 akinetic
 adjudicators
 amores
-aversely
 adjument
 alarmed
 argentamide
@@ -23972,6 +23971,7 @@ autodials
 annection
 autodidactic
 albespine
+aversely
 autodidactically
 accoyed
 albumenised
