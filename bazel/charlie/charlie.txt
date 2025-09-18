@@ -27962,7 +27962,6 @@ craniopuncture
 craigmontite
 colossi
 craik
-cinnamoyl
 crayon
 champagnizing
 crayoning
@@ -29882,6 +29881,7 @@ chapt
 crosslight
 chromatographic
 crosslike
+cinnamoyl
 crossline
 cymas
 crosslink
