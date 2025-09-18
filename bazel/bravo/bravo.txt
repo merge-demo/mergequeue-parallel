@@ -5216,6 +5216,7 @@ bombyx
 bandeng
 barkeeps
 bandos
+begarlanded
 basaltic
 boxwork
 bicentenary
@@ -18186,7 +18187,6 @@ bodyguards
 bulks
 barricadoes
 bohereen
-begarlanded
 backdated
 bibliothecary
 bremely
