@@ -10148,6 +10148,7 @@ dilator
 dynastides
 dynastinae
 denmark
+dentolabial
 defervesce
 drumheads
 dioeciodimorphous
@@ -16340,7 +16341,6 @@ decrown
 deferrize
 ductilimeter
 dossel
-dentolabial
 divers
 diaheliotropism
 doryanthes
