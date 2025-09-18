@@ -20834,6 +20834,7 @@ adipometer
 altaic
 arter
 arseno
+autocarp
 achterveld
 ascaridia
 ascaridiasis
@@ -23870,7 +23871,6 @@ autocar
 alumnal
 appreciated
 autocarist
-autocarp
 afterbay
 autocarpian
 achatinella
