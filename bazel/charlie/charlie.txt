@@ -24482,7 +24482,6 @@ copable
 circumlocutionary
 carrs
 claquer
-copaene
 copaifera
 cupfuls
 cannular
@@ -28409,6 +28408,7 @@ contrepartie
 creance
 chabot
 creant
+copaene
 creased
 creaseless
 creashaks
