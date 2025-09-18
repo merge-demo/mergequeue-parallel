@@ -12756,6 +12756,7 @@ borg
 beeware
 bothriums
 betoyan
+ballett
 bakutu
 botanic
 bobotee
@@ -16654,7 +16655,6 @@ bucolicism
 belittlers
 bucolics
 bonaci
-ballett
 bucorvus
 bowknots
 billheading
