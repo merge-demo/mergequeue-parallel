@@ -8930,7 +8930,6 @@ chared
 charely
 consultation
 chebec
-crinivorous
 catechumenical
 catholicizing
 cathexis
@@ -25930,6 +25929,7 @@ codicil
 corve
 cyath
 cousiny
+crinivorous
 coeloplanula
 crustiest
 conelet
