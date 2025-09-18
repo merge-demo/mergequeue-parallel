@@ -3237,7 +3237,6 @@ capitellum
 capitle
 calorimotor
 cerebrum
-compenetrate
 corns
 cognisably
 capito
@@ -18064,6 +18063,7 @@ calmy
 cheesy
 coelection
 coempting
+compenetrate
 cytogeneticist
 clitoridectomy
 coemptor
