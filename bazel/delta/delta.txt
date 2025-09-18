@@ -6917,7 +6917,6 @@ diabasic
 desolatingly
 duniewassal
 desolation
-darkness
 desolator
 dryhouse
 discolors
@@ -7490,6 +7489,7 @@ dikast
 detrect
 detrench
 demigentleman
+darkness
 diapensia
 dextranase
 daddynut
