@@ -5496,6 +5496,7 @@ dilatation
 deoxyribonucleotide
 dogmatician
 disportive
+dowitch
 diaphragm
 dogtrot
 darter
@@ -16236,7 +16237,6 @@ despumated
 dematerialized
 dullnesses
 delph
-dowitch
 domable
 decrypted
 decalescence
