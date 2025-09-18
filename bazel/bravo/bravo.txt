@@ -6599,6 +6599,7 @@ boblet
 bicultural
 bisulfate
 bortzes
+batteler
 bhaga
 bergh
 backsettler
@@ -9355,7 +9356,6 @@ bird
 boga
 birectangular
 bea
-batteler
 bluefin
 bedlids
 begeck
