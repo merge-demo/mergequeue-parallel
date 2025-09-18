@@ -14918,7 +14918,6 @@ drafted
 duologs
 doctrinal
 dynametric
-doctrinality
 doctrinarity
 dehydrogenating
 dotant
@@ -18072,6 +18071,7 @@ donatories
 daedalidae
 dolerite
 dilemmatically
+doctrinality
 downhills
 didapper
 disembattle
