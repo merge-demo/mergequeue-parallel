@@ -17737,6 +17737,7 @@ andesine
 adolf
 appaloosas
 amelioratively
+asteroid
 antibias
 appraises
 argentry
@@ -21962,7 +21963,6 @@ argyll
 asternal
 adenocancroid
 asternata
-asteroid
 agaristidae
 abolla
 asteroids
