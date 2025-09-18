@@ -15458,7 +15458,6 @@ anatropous
 antineutrino
 ametria
 aftermatter
-anting
 anorexiant
 antinganting
 apprehensible
@@ -21680,6 +21679,7 @@ anthophile
 apotheose
 affreightment
 asseveration
+anting
 asseverative
 acrogenous
 abominability
