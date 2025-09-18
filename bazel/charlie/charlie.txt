@@ -19345,7 +19345,6 @@ colonels
 colonelships
 conductorless
 coloner
-cupuliferae
 colongitude
 cyder
 cowpony
@@ -29106,6 +29105,7 @@ cryometry
 cocashweed
 chantlate
 cryophile
+cupuliferae
 chemawinite
 cryophyllite
 consectary
