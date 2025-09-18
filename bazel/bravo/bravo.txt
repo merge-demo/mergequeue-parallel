@@ -3037,7 +3037,6 @@ bonification
 ballrooms
 barflies
 branglement
-bopping
 biomasses
 beigel
 braggartism
@@ -11067,6 +11066,7 @@ bipinnatifid
 bicone
 bidet
 blockaded
+bopping
 bruet
 bibberies
 baals
