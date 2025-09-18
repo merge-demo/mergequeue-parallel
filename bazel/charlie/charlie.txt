@@ -1646,7 +1646,6 @@ conniving
 contrariously
 chaksi
 corybulbin
-caricography
 calorigenic
 chromatophore
 calorimetry
@@ -19861,6 +19860,7 @@ combustious
 combustive
 choristry
 cislunar
+caricography
 combusts
 captained
 combwise
