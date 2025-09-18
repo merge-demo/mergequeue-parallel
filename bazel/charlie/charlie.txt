@@ -7075,7 +7075,6 @@ centigrado
 cerebriformly
 compactest
 cannikin
-copt
 centigrams
 calcedony
 cendre
@@ -26153,6 +26152,7 @@ cosphered
 cosplendor
 caeciliae
 confectioners
+copt
 chapatis
 chugging
 cosplendour
