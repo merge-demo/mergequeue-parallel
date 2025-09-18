@@ -1707,7 +1707,6 @@ bugloss
 bingos
 breechesless
 balneological
-balneotechnics
 burberry
 bradyteleokinesis
 bridemaidship
@@ -7295,6 +7294,7 @@ baillonella
 betides
 bego
 beswinge
+balneotechnics
 bombous
 brainy
 boluses
