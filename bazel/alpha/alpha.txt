@@ -9433,7 +9433,6 @@ ablution
 asterikos
 alticamelus
 altify
-aprosopous
 antiparasitical
 altilik
 altiloquence
@@ -12220,6 +12219,7 @@ automelon
 androgamone
 animose
 addulce
+aprosopous
 apophony
 androgenous
 ammochryse

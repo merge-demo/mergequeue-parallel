@@ -5856,7 +5856,6 @@ dozenths
 disfranchising
 deposits
 dulcitol
-dichotomously
 doorsteps
 deafforest
 diplomatized
@@ -15525,6 +15524,7 @@ diapophysial
 directing
 dereliction
 diastema
+dichotomously
 dorsocaudad
 disappendancy
 diminisher
