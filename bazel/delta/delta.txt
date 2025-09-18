@@ -3031,7 +3031,6 @@ downward
 diuretic
 deewan
 decorement
-disappropriate
 dispersonification
 decimalizing
 durzada
@@ -13709,6 +13708,7 @@ departmentalize
 dissogony
 devolvements
 disacryl
+disappropriate
 dharmasmriti
 dataflow
 devastatingly
