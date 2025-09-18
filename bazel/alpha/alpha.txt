@@ -10681,6 +10681,7 @@ adductor
 ammeter
 ammeters
 alboin
+alumetize
 anticonstitutionalist
 arrastre
 ablute
@@ -25092,7 +25093,6 @@ axillars
 aconitic
 acroarthritis
 axine
-alumetize
 axing
 anagenesis
 acrosarc
