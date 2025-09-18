@@ -185,6 +185,7 @@ bacca
 baccaceous
 boroughwide
 bipacks
+brachistochrone
 bibliopolism
 boh
 bayous
@@ -14093,7 +14094,6 @@ brushups
 brachistocephalic
 bookstall
 brass
-brachistochrone
 brachistochronous
 brachystomatous
 brachystomous
