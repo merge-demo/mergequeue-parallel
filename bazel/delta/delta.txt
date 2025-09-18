@@ -1113,6 +1113,7 @@ dauts
 dialectically
 das
 dasewe
+detacwable
 drabbish
 dash
 designado
@@ -9712,7 +9713,6 @@ dearthfu
 decemcostate
 demicircle
 destructuralize
-detacwable
 dichlorvos
 dubba
 dieter
