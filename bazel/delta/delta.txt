@@ -12729,7 +12729,6 @@ dystomic
 dimorphous
 disli
 dec
-dacoits
 dross
 dicotyles
 dislicense
@@ -12898,6 +12897,7 @@ doomsters
 decreeable
 driftway
 disciplinarity
+dacoits
 demerited
 daren
 dismissal
