@@ -11811,6 +11811,7 @@ chooser
 choosers
 choosiness
 chadar
+celioscopy
 chop
 chopa
 chalcids
@@ -18758,7 +18759,6 @@ coitally
 chittak
 chaoush
 congreet
-celioscopy
 canvasses
 cree
 couples
