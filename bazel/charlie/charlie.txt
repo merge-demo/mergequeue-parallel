@@ -1432,7 +1432,6 @@ cystidicolous
 corelated
 cooks
 callais
-caviares
 callants
 clausular
 chilenite
@@ -25343,6 +25342,7 @@ cornetti
 cornettino
 cornettist
 cornetto
+caviares
 committent
 causticization
 cottaged
