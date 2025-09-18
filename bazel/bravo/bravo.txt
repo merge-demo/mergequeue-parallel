@@ -2875,7 +2875,6 @@ battologist
 braca
 battener
 bravoing
-buphthalmic
 bowle
 berrypicker
 blindingly
@@ -7819,6 +7818,7 @@ bibliographies
 bibliographize
 bipyridine
 biblioklept
+buphthalmic
 burglarising
 benedicts
 brislings
