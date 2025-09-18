@@ -14091,6 +14091,7 @@ circassic
 capivi
 circean
 circensian
+cryostat
 circinate
 chirinola
 circination
@@ -29133,7 +29134,6 @@ criosphinxes
 catrigged
 cryostase
 choristate
-cryostat
 cryosurgeon
 cryosurgery
 cryptogamia
