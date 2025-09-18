@@ -10607,7 +10607,6 @@ araru
 amins
 aprendiz
 analogic
-aminta
 amyosthenic
 alighting
 amyotonia
@@ -15355,6 +15354,7 @@ antiministerial
 antiministerially
 affluentness
 anywhere
+aminta
 aphydrotropic
 although
 anthropotomist
