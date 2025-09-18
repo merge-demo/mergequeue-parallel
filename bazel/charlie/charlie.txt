@@ -15550,7 +15550,6 @@ classbook
 classed
 cyclicism
 classers
-classicalism
 classicalist
 classicality
 classicise
@@ -20696,6 +20695,7 @@ coregonine
 clastic
 complacence
 chlorella
+classicalism
 complacency
 complacent
 citrate
