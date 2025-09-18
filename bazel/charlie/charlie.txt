@@ -8183,7 +8183,6 @@ chakram
 carpentry
 cranreuch
 chal
-complection
 czechish
 chalaco
 crispation
@@ -12656,6 +12655,7 @@ cargued
 chuckingly
 chuckle
 chucklehead
+complection
 conjugateness
 chuckleheaded
 coached
