@@ -5726,7 +5726,6 @@ denutrition
 deke
 devolutionist
 desulphurate
-decarboxylating
 debitor
 demonised
 delthyrium
@@ -10048,6 +10047,7 @@ dimple
 diplomas
 demihake
 deforestation
+decarboxylating
 dimplement
 dorosoma
 derelictness
