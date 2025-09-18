@@ -7294,7 +7294,6 @@ betides
 bego
 beswinge
 bombous
-bootikins
 brainy
 boluses
 banishments
@@ -11484,6 +11483,7 @@ blunderbuss
 bestare
 breme
 beachie
+bootikins
 buttonbur
 bemurmurs
 blunged
