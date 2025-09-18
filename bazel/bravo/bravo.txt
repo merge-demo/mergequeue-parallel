@@ -4254,7 +4254,6 @@ blessing
 boggish
 brabbled
 blindish
-bembecidae
 bacterious
 bayish
 bootlessness
@@ -6333,6 +6332,7 @@ baculi
 benedight
 benzophthalazine
 breakup
+bembecidae
 benzil
 bibby
 banewort
