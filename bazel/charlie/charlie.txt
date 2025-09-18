@@ -16037,6 +16037,7 @@ cancerous
 clevis
 columbous
 caridea
+countability
 capillariness
 coude
 cotypes
@@ -26593,7 +26594,6 @@ cerer
 counsellable
 counsellor
 counsellors
-countability
 cellos
 corbels
 ciliolum
