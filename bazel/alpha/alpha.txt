@@ -949,6 +949,7 @@ astron
 accidies
 abstemiousness
 abstentionist
+animal
 absterge
 asparagus
 acuity
@@ -9260,7 +9261,6 @@ antineoplastic
 alopias
 adamancies
 axled
-animal
 amidating
 anguishful
 autophoby
