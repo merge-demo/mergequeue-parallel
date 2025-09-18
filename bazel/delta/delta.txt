@@ -1761,7 +1761,6 @@ diverticular
 digamous
 diphyllobothrium
 droner
-deprecated
 dognap
 deathtrap
 devocalization
@@ -10200,6 +10199,7 @@ declarable
 dehonestate
 diaene
 demirevetment
+deprecated
 dinophilea
 distillation
 drissel
