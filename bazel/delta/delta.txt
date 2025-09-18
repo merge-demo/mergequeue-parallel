@@ -14693,7 +14693,6 @@ derating
 distomum
 diocese
 depressing
-deadeyes
 diallel
 decentre
 debeige
@@ -17181,6 +17180,7 @@ decennials
 deafnesses
 desalinates
 deobstruct
+deadeyes
 dryfoot
 dribber
 dysacousis
