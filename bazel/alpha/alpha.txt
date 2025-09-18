@@ -6081,7 +6081,6 @@ areolation
 amoebic
 agpaitic
 agr
-atriensis
 aymara
 attirement
 abrogates
@@ -6517,6 +6516,7 @@ ailuropoda
 ailurus
 ageustia
 appertinent
+atriensis
 azotin
 autotomized
 aimee
