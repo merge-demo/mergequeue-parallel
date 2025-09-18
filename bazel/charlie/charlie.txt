@@ -8489,7 +8489,6 @@ cryohydric
 celebrated
 championed
 championing
-championize
 circle
 caesium
 championless
@@ -15492,6 +15491,7 @@ cribber
 clarke
 coachs
 celestialness
+championize
 clarkias
 competently
 chlorophylloid
