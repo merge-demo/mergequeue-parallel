@@ -1131,6 +1131,7 @@ buxine
 booklore
 bloods
 bladish
+beryx
 brachioganoidei
 bunchy
 bedels
@@ -9761,7 +9762,6 @@ bebat
 bitewing
 barmfel
 barfing
-beryx
 boshvarks
 based
 bronchospasm
