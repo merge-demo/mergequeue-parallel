@@ -8974,7 +8974,6 @@ charioting
 chloroaurite
 chariotman
 cyamoid
-cohunes
 collegiately
 cumarin
 catechetic
@@ -23808,6 +23807,7 @@ contraptious
 compressional
 contrapuntist
 contrapunto
+cohunes
 contraregularity
 centrisciform
 conductimeter
