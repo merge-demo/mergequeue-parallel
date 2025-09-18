@@ -10002,6 +10002,7 @@ bioseston
 brings
 backfired
 bugbanes
+banderole
 backwatered
 banksias
 beworm
@@ -10700,7 +10701,6 @@ beaverboard
 balls
 bluecap
 batties
-banderole
 bactericidal
 blennogenous
 begging
