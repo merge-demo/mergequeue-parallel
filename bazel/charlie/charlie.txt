@@ -15669,7 +15669,6 @@ clausula
 chiasmodontid
 coppers
 cirrigrade
-chloral
 clausule
 cheekily
 clausure
@@ -25916,6 +25915,7 @@ cordwood
 convolute
 colley
 coruco
+chloral
 comparer
 circuitousness
 climatotherapeutics
