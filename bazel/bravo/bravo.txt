@@ -3774,7 +3774,6 @@ brattish
 bootleg
 bauch
 bondoc
-bk
 balancer
 bauckie
 balancedness
@@ -7780,6 +7779,7 @@ bibble
 bibbler
 blooms
 bufonite
+bk
 blinker
 borazon
 balneography
