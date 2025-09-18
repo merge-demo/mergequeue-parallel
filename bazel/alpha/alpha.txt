@@ -16432,7 +16432,6 @@ apagoge
 anophthalmus
 apagogic
 advise
-arumlike
 agrafes
 apagogically
 apay
@@ -17627,6 +17626,7 @@ appliances
 antiballistic
 appliant
 appendectomy
+arumlike
 anthropomorphite
 aspirators
 arenous
