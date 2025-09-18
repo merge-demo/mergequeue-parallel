@@ -4468,7 +4468,6 @@ bastardise
 bae
 bedwarfed
 barbarea
-brigadiership
 bulbiform
 blastoff
 basellaceous
@@ -10291,6 +10290,7 @@ byrlakin
 batfowling
 beauism
 beewort
+brigadiership
 bacillogenic
 britons
 berapt
