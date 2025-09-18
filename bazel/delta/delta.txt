@@ -6903,7 +6903,6 @@ differently
 door
 descamisados
 desolated
-dahoons
 disoxidate
 dealbation
 disinflated
@@ -9095,6 +9094,7 @@ dictational
 dampproofer
 dictatory
 dogear
+dahoons
 dinking
 deary
 dictature

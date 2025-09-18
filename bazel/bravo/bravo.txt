@@ -2085,7 +2085,6 @@ bewrayers
 bannocks
 boilinglike
 bivittate
-banovina
 banquet
 bundist
 besteer
@@ -7328,6 +7327,7 @@ blepharism
 bombic
 beclasps
 betony
+banovina
 berkshire
 biophagous
 bombesin
