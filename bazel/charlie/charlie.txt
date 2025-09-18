@@ -11095,6 +11095,7 @@ controllableness
 chivaree
 compear
 chivareing
+coextended
 christlike
 chivareeing
 chivarees
@@ -29177,7 +29178,6 @@ cryptical
 cryptically
 coupled
 cryptoagnostic
-coextended
 countercharge
 clamored
 cynogenealogist
