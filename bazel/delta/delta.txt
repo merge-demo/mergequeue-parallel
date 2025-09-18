@@ -1132,6 +1132,7 @@ deliverer
 dashedly
 dipnoid
 dermopathy
+dermogastric
 diazotization
 drummed
 drawnet
@@ -6359,7 +6360,6 @@ dejectory
 dermobranchiate
 dangles
 diagrammatical
-dermogastric
 desperance
 dorsoapical
 dean
