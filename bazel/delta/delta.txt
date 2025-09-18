@@ -5226,6 +5226,7 @@ distortedness
 distemperature
 diaphote
 desmosis
+dislike
 deputy
 dismisses
 desired
@@ -13507,7 +13508,6 @@ deticks
 dissavs
 drumbeater
 diplocephalous
-dislike
 dissceptre
 deceivance
 deconvolution
