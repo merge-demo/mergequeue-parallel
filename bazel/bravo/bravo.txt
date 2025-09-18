@@ -4391,6 +4391,7 @@ begloom
 befleas
 belchers
 brazenness
+bumpology
 becloaks
 blackfriars
 blowiness
@@ -12141,7 +12142,6 @@ beaumontia
 broses
 borofluoride
 blarneyed
-bumpology
 boletes
 byrled
 brabbler
