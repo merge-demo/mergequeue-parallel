@@ -3173,7 +3173,6 @@ dekle
 dracaenas
 diabolising
 doftberry
-doughbelly
 defencive
 dents
 defendable
@@ -3430,6 +3429,7 @@ dormered
 drogh
 didelphous
 dorism
+doughbelly
 dorsabdominally
 dorsobranchiata
 defoliate
