@@ -7036,7 +7036,6 @@ chisedec
 centerable
 cutup
 corbicula
-centerboard
 centerer
 cenobites
 compania
@@ -25331,6 +25330,7 @@ cornetcies
 chemiloon
 comatulid
 cornetfishes
+centerboard
 cornetist
 cornets
 collation
