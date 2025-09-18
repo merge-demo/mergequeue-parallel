@@ -3955,7 +3955,6 @@ dial
 damascus
 dissuit
 dissertating
-ditchdigging
 dominant
 delightedly
 diarize
@@ -5918,6 +5917,7 @@ decryptions
 diploptera
 depressed
 disaccustomed
+ditchdigging
 dandyisms
 darogah
 dispender
