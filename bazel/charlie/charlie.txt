@@ -936,6 +936,7 @@ crinoidean
 coastmen
 calambour
 castellar
+chainwale
 counselor
 calamiferious
 chromoblast
@@ -9629,7 +9630,6 @@ catholiciser
 cheeros
 castoroides
 coinfer
-chainwale
 cafuso
 corpuscles
 cheesebox
