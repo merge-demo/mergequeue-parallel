@@ -9546,7 +9546,6 @@ delfts
 dialysers
 derivation
 demiurge
-dovekey
 dights
 dextrocular
 deraigned
@@ -14438,6 +14437,7 @@ diversification
 duckboat
 diarch
 diversified
+dovekey
 daredevilism
 diversiflorate
 diversiform
