@@ -1073,7 +1073,6 @@ devoiced
 darning
 disfavoured
 designfully
-decarch
 doling
 dacryocystorhinostomy
 darrein
@@ -3451,6 +3450,7 @@ dimittis
 dolesomeness
 deforciant
 detention
+decarch
 dislikers
 downheartedness
 dentiform
