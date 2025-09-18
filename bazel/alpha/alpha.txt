@@ -1425,6 +1425,7 @@ apex
 acclamator
 acclimatable
 autecologically
+annotative
 absinthian
 acclimatement
 acclimates
@@ -13379,7 +13380,6 @@ amputated
 aphidophagous
 addoom
 anisomyodian
-annotative
 amaurotic
 autotransplant
 annotatively
