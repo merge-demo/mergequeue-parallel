@@ -9742,7 +9742,6 @@ bibracteolate
 bawd
 blain
 bicetyl
-burgherhood
 biteche
 barbicans
 bowdlerization
@@ -17159,6 +17158,7 @@ beltene
 bezant
 bedriveled
 blamably
+burgherhood
 bawly
 bello
 bulletin
