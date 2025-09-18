@@ -1881,6 +1881,7 @@ affirmance
 awaits
 acetylglycine
 apologetical
+altering
 attentional
 antimissionary
 arase
@@ -12879,7 +12880,6 @@ anhydraemic
 antikinase
 ahet
 anhydration
-altering
 amygdalotome
 anhydride
 anthozoic
