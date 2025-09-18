@@ -5674,6 +5674,7 @@ chinker
 catchlight
 cultivatability
 clockcase
+corallian
 cowpock
 catchments
 cypraeiform
@@ -24856,7 +24857,6 @@ coralist
 coralita
 coralla
 clavodeltoid
-corallian
 corallic
 corallidae
 corallidomous
