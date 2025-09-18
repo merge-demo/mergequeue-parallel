@@ -9955,6 +9955,7 @@ bicylindrical
 beseem
 bossism
 bombings
+befog
 bivoluminous
 bivouaced
 balaphon
@@ -11567,7 +11568,6 @@ blancmanger
 blustering
 basilicalike
 blusterously
-befog
 behindsight
 behoovingly
 bathers
