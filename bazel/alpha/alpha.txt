@@ -4363,6 +4363,7 @@ adventuress
 adventuresses
 angiostegnosis
 adventurism
+armorwise
 atelopodia
 adventurous
 antebridal
@@ -12644,7 +12645,6 @@ angiorrhagia
 angiosarcoma
 ascher
 anareta
-armorwise
 ammocoetid
 arlington
 angiosymphysis
