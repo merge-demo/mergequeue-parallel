@@ -13040,7 +13040,6 @@ borderlander
 bagpipe
 beriber
 borderline
-balneae
 bedrop
 braggartry
 bulder
@@ -16186,6 +16185,7 @@ bruang
 biacromial
 brotherless
 bountith
+balneae
 busbies
 breathed
 barbituric
