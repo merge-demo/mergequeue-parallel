@@ -10014,7 +10014,6 @@ bluecoats
 bielenite
 bellyache
 bjorne
-bkg
 backsey
 bestamp
 bks
@@ -13954,6 +13953,7 @@ bismuthic
 booths
 bemeal
 bakshished
+bkg
 boer
 blindfolder
 bloviates
