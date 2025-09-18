@@ -7724,7 +7724,6 @@ actinology
 alphitomancy
 advent
 aleyrodes
-adumbral
 antilogarithm
 arcboutant
 aleknight
@@ -18901,6 +18900,7 @@ archmachine
 archmagician
 arizonans
 adread
+adumbral
 aphelops
 alar
 antisplasher
