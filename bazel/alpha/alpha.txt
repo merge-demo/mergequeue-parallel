@@ -550,7 +550,6 @@ acusector
 actinulae
 advowry
 ashlers
-abnaki
 abnegates
 anthropomancy
 arrowheads
@@ -20312,6 +20311,7 @@ anotus
 acropolitan
 antireducing
 arsenopyrite
+abnaki
 aquaemanalia
 arsenostyracol
 austerities
