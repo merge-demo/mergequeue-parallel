@@ -9218,7 +9218,6 @@ digenesis
 dye
 dogship
 drumloidal
-dorsi
 dalk
 duelled
 duscle
@@ -18062,6 +18061,7 @@ duler
 dullard
 dipotassium
 dicarboxylate
+dorsi
 detrusor
 dullards
 deoxygenate
