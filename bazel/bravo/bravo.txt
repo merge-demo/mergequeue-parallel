@@ -826,7 +826,6 @@ bloated
 barnage
 biffed
 burrfishes
-belone
 bafflers
 baffling
 bafflingly
@@ -7020,6 +7019,7 @@ bimorphs
 bushing
 bulldozes
 bespeaking
+belone
 bruiser
 bespeaks
 bespecked
