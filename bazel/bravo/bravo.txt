@@ -3122,6 +3122,7 @@ beaky
 beautify
 bucrnia
 bloodcurdler
+battleplane
 bivalvular
 baseborn
 besprinkle
@@ -11869,7 +11870,6 @@ boors
 boysenberries
 bodiliness
 baalite
-battleplane
 beylik
 bouillons
 boedromion
