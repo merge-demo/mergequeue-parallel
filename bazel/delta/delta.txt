@@ -13414,7 +13414,6 @@ diazotic
 diarsenide
 deescalate
 disquisitor
-disquisitional
 dismarble
 disform
 dejerate
@@ -16426,6 +16425,7 @@ dovetails
 decrease
 decibel
 deep
+disquisitional
 disaccharide
 devout
 douras
