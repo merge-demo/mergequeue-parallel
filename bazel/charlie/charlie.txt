@@ -1653,7 +1653,6 @@ cleanlily
 calorimetrical
 calorimetrically
 calorist
-calorizing
 cawing
 calosoma
 cevenole
@@ -18818,6 +18817,7 @@ colchicum
 clavichords
 crispily
 catadioptric
+calorizing
 cochaired
 caesarists
 cookouts
