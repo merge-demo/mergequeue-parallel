@@ -5773,7 +5773,6 @@ bizarrely
 bellibone
 benevolences
 besieged
-battutos
 bldg
 bricks
 beyonds
@@ -13073,6 +13072,7 @@ basehearted
 baronnes
 barajillo
 brisk
+battutos
 bangling
 bowlmaker
 blat
