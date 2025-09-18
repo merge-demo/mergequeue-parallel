@@ -5480,7 +5480,6 @@ catacromyodian
 conicein
 ceratothecal
 cardiological
-catadicrotic
 cursal
 catadicrotism
 cartbote
@@ -12258,6 +12257,7 @@ cryptocurrency
 cabrito
 carrytale
 coynesses
+catadicrotic
 carpentered
 circumconic
 compensative
