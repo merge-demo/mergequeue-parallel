@@ -13414,6 +13414,7 @@ aftertax
 audiences
 algesireceptor
 argyrol
+appliable
 amidoplastid
 annuitants
 authenticator
@@ -17619,7 +17620,6 @@ applewoman
 adopts
 apply
 adjacencies
-appliable
 appliance
 apocentre
 appliances
