@@ -6567,7 +6567,6 @@ cecomorphic
 classily
 carders
 ceratinous
-catheterizes
 codifier
 cecum
 cecums
@@ -19481,6 +19480,7 @@ colorectostomy
 cauterize
 correspondingly
 colored
+catheterizes
 chantable
 colorers
 cicatrised
