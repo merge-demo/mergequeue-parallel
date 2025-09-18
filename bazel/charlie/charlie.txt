@@ -8030,7 +8030,6 @@ cyathia
 chaetophoraceous
 chamberletted
 cuvierian
-chaetophorous
 chaetopod
 cirrated
 carts
@@ -12221,6 +12220,7 @@ cupbearers
 chrysome
 chrysomyia
 championships
+chaetophorous
 chrysopal
 clistothecia
 chrysopee
