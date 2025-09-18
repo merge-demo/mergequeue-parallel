@@ -2226,6 +2226,7 @@ dreich
 derivedly
 diatomaceae
 descriptions
+diogenic
 desultoriness
 desray
 decasualise
@@ -13531,7 +13532,6 @@ disperse
 demeritorious
 disquisitive
 disrelishable
-diogenic
 dissentment
 diagraphic
 dissemination
