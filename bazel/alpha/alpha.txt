@@ -2681,6 +2681,7 @@ arloup
 anoint
 acrobryous
 authorities
+aortic
 apotropaion
 autopista
 aw
@@ -16392,7 +16393,6 @@ adiaphora
 achaenocarp
 agsam
 aegagri
-aortic
 acupuncturation
 agricultural
 averruncate
