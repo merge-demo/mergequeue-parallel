@@ -5288,6 +5288,7 @@ distylar
 displosion
 doctrinairism
 disscepter
+debat
 dissatisfied
 desistence
 deligated
@@ -10922,7 +10923,6 @@ dicaryophyte
 damns
 drudging
 disfavor
-debat
 dirtied
 dirtying
 dirtily
