@@ -14501,7 +14501,6 @@ ceratitis
 courantos
 cyrtometer
 calcavella
-cyrtomium
 cyrtopia
 croplands
 cosets
@@ -26691,6 +26690,7 @@ cacique
 coomy
 counterblast
 counterborder
+cyrtomium
 counterbore
 counterbored
 celandine
