@@ -5525,7 +5525,6 @@ bejewels
 backstamp
 bejezebel
 bontebucks
-barrette
 basihyoid
 belait
 behaviored
@@ -18370,6 +18369,7 @@ bolsterers
 buzane
 barbermonger
 blawort
+barrette
 boldhearted
 bortsch
 bepaint
