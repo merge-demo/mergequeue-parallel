@@ -9588,7 +9588,6 @@ cheep
 courtierism
 cheeped
 cheeper
-chorioepitheliomas
 civilizable
 cynodontia
 capernaite
@@ -28960,6 +28959,7 @@ comestibles
 cycadofilicinean
 coppling
 criminating
+chorioepitheliomas
 cheviots
 crimination
 ceratopsia
