@@ -2442,6 +2442,7 @@ demoid
 decimolar
 drainpipe
 dangling
+defectlessness
 disimprisonment
 dietetist
 dolently
@@ -3134,7 +3135,6 @@ devotionalness
 dimitting
 dungon
 declaratives
-defectlessness
 dislevelment
 despiteous
 dulcineas
