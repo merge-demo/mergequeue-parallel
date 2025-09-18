@@ -12519,7 +12519,6 @@ disoccupying
 deracinate
 dirigible
 declassifying
-dogsled
 dancette
 dishelms
 dexterity
@@ -13168,6 +13167,7 @@ dispersers
 dentilabial
 dassie
 daces
+dogsled
 dressmakers
 derelicta
 dispersing
