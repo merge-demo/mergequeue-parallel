@@ -13269,7 +13269,6 @@ causality
 culmicolous
 cycloidotrope
 comfortingly
-cesura
 comprehending
 coembodies
 cyclolysis
@@ -14757,6 +14756,7 @@ cithers
 cithren
 condign
 city
+cesura
 cyclonometer
 citicorp
 culler
