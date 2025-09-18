@@ -3398,6 +3398,7 @@ dipleurogenetic
 depsid
 dongolas
 duelists
+draftwoman
 diaspores
 dehumidifier
 dunite
@@ -8842,7 +8843,6 @@ dyspraxia
 dibbing
 deliberates
 deterring
-draftwoman
 drachmas
 decemvirate
 dilate
