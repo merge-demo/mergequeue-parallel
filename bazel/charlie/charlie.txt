@@ -20279,7 +20279,6 @@ cunza
 coercends
 carosella
 commodatum
-commode
 commodes
 cheesemongering
 cionotomy
@@ -24175,6 +24174,7 @@ convictism
 cresolin
 connexive
 crystallisable
+commode
 convictment
 convictor
 convicts
