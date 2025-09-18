@@ -1976,7 +1976,6 @@ deadhouse
 divinatory
 dermohumeral
 disyllabism
-divulgatory
 debus
 decanally
 decoagulation
@@ -8005,6 +8004,7 @@ diathermal
 decimeters
 dextroaural
 diacanthous
+divulgatory
 dismes
 dartos
 dicyan
