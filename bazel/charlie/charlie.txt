@@ -15751,7 +15751,6 @@ clawless
 claws
 crossweed
 corin
-clinkstone
 cleam
 chamicuro
 confectioneries
@@ -21562,6 +21561,7 @@ concorporated
 concourse
 cliqueless
 calycle
+clinkstone
 coelastrum
 climacterical
 celestialize
