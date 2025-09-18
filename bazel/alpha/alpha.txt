@@ -2921,7 +2921,6 @@ aciculum
 antiphon
 antimeson
 aland
-ainus
 actinomeric
 aruncus
 amphinucleus
@@ -8491,6 +8490,7 @@ attirer
 allassotonic
 allatrate
 abaction
+ainus
 alkoxid
 allectory
 architectonically
