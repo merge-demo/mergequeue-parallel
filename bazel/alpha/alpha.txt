@@ -789,7 +789,6 @@ absalom
 ambisinistrous
 absampere
 awanting
-ambiguities
 absaroka
 allergy
 assertors
@@ -11874,6 +11873,7 @@ anarthrously
 anarthrousness
 avionics
 anas
+ambiguities
 athumia
 anasa
 araphostic
