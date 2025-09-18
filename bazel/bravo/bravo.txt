@@ -5986,7 +5986,6 @@ bort
 bablah
 bollard
 buttstrap
-blacktail
 bemuddlement
 bemuddles
 bussy
@@ -10376,6 +10375,7 @@ brimborium
 burgrave
 bulgiest
 braid
+blacktail
 biosynthesis
 bravado
 bewith
