@@ -3482,7 +3482,6 @@ cosmotheistic
 captacula
 captain
 captaincy
-captaincies
 captainry
 captainship
 communistically
@@ -21815,6 +21814,7 @@ communistical
 condonement
 coinhabitant
 condoner
+captaincies
 condoners
 chambertin
 cacanapa
