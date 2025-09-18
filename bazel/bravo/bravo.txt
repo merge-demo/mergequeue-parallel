@@ -675,6 +675,7 @@ begall
 bronchiolitis
 bathyesthesia
 baculine
+barcas
 baculoid
 beek
 baculus
@@ -8632,7 +8633,6 @@ bilsh
 bifluorid
 bahada
 birching
-barcas
 branners
 boras
 bimanal
