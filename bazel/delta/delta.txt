@@ -4965,7 +4965,6 @@ disbursed
 dictators
 demoraliser
 drumler
-demoralising
 defecter
 duffy
 dicrostonyx
@@ -16045,6 +16044,7 @@ drain
 doblones
 demoralization
 deviant
+demoralising
 dotiest
 decolourisation
 desponding
