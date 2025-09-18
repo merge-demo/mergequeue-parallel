@@ -2748,6 +2748,7 @@ blockages
 borromean
 bethorned
 bobberies
+beslur
 bristlewort
 baroness
 bordello
@@ -3981,7 +3982,6 @@ berchta
 bounteousness
 beaconless
 bicycles
-beslur
 buoyancy
 beader
 bellmaker
