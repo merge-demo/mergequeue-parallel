@@ -4730,7 +4730,6 @@ drighten
 dicatalectic
 deputize
 duello
-demits
 demitted
 dilutive
 duties
@@ -17408,6 +17407,7 @@ droolier
 dorts
 deynt
 dihedral
+demits
 dismays
 dichotomies
 druggier
