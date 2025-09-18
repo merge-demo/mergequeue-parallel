@@ -18374,6 +18374,7 @@ appendant
 arboloco
 amalgamable
 actinocrinus
+allocheiria
 arbor
 abomasus
 acrocyst
@@ -25024,7 +25025,6 @@ awninged
 akala
 ablepsia
 ademonist
-allocheiria
 anklung
 awoke
 alternater
