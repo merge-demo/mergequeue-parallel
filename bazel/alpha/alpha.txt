@@ -1563,6 +1563,7 @@ accounter
 accounters
 aread
 accountment
+arrogant
 audioemission
 accouplement
 accouter
@@ -18065,7 +18066,6 @@ athwart
 analogically
 advowee
 agronomical
-arrogant
 atiptoe
 arminian
 asthenosphere
