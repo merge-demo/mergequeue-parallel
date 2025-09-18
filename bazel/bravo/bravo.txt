@@ -1681,7 +1681,6 @@ ballplatz
 bedrabbled
 braizes
 bambara
-barbuts
 bogtrot
 ballsier
 boycotter
@@ -3104,6 +3103,7 @@ bombiccite
 basotho
 bedabbles
 bestness
+barbuts
 bignou
 bealach
 barques

@@ -1432,7 +1432,6 @@ callainite
 cystidicolous
 cooks
 callais
-callaloo
 caviares
 callants
 clausular
@@ -18563,6 +18562,7 @@ cecidomyiidae
 cohering
 chondrosarcomas
 croceus
+callaloo
 candidest
 cowthwort
 calmer
