@@ -10417,7 +10417,6 @@ cooncan
 cryptometer
 chaya
 chiffonnier
-chiffonnieres
 conchinin
 crumply
 chiffons
@@ -13719,6 +13718,7 @@ cheers
 cinchonization
 crunodal
 cinchonize
+chiffonnieres
 communiqu
 cinchophen
 chiropteran
