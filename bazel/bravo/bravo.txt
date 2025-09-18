@@ -7130,7 +7130,6 @@ backdating
 byelorussia
 befancy
 bur
-boundable
 bestiarian
 bestiarist
 bestirs
@@ -7568,6 +7567,7 @@ belesprit
 bepride
 bewreck
 befreckle
+boundable
 blowtorches
 bewry
 bankroller
