@@ -10804,7 +10804,6 @@ drools
 dipsomaniac
 dietotherapeutics
 dipsomaniacs
-dipsopathy
 daintiest
 denunciatory
 database
@@ -11778,6 +11777,7 @@ dermography
 decide
 demicoronal
 desoxymorphine
+dipsopathy
 ductilized
 debtor
 discreetly
