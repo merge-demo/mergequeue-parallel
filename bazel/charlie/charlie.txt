@@ -17316,6 +17316,7 @@ constrainers
 cinnamoned
 chronist
 coamings
+copepod
 caryophyllous
 conflux
 coan
@@ -30822,7 +30823,6 @@ cinereous
 cartop
 chordates
 culmed
-copepod
 cranched
 casaquin
 cholerine
