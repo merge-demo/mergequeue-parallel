@@ -4615,7 +4615,6 @@ bustier
 bedframes
 broomed
 bowdlerizes
-burnettized
 basketwoman
 bradded
 bludgeoner
@@ -7158,6 +7157,7 @@ besnow
 baconist
 basses
 bestridden
+burnettized
 boleti
 birt
 bluesides
