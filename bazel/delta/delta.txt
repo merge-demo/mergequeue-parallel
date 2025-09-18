@@ -8798,7 +8798,6 @@ deducted
 diapering
 diazins
 dinguses
-defeat
 ditremid
 dorneck
 defrocking
@@ -10918,6 +10917,7 @@ dhabb
 drifted
 drawbored
 dwayne
+defeat
 dematerialize
 disguisable
 dicaryophyte
