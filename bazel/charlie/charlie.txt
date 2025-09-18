@@ -13234,7 +13234,6 @@ cycloalkane
 cyclobothra
 carmakers
 cholecystopexy
-carapacial
 cyclode
 cyclodiene
 club
@@ -23662,6 +23661,7 @@ coadjuvant
 commissionating
 contortion
 contortional
+carapacial
 contortionist
 cyril
 cubomancy
