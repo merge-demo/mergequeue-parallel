@@ -15346,7 +15346,6 @@ brills
 baculites
 banns
 blazon
-brodeglass
 braggishly
 boundary
 blackcaps
@@ -16598,6 +16597,7 @@ briquetted
 balms
 bubblelike
 basketfuls
+brodeglass
 blithehearted
 bishopship
 basilisk
