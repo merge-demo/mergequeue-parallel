@@ -1928,7 +1928,6 @@ debriefing
 dowser
 daiquiris
 danzig
-demicoronal
 dustbins
 dictyoceratine
 dissenterism
@@ -11777,6 +11776,7 @@ drawled
 decephalization
 dermography
 decide
+demicoronal
 desoxymorphine
 ductilized
 debtor
