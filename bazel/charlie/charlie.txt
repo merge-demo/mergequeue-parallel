@@ -20775,6 +20775,7 @@ cuinfo
 chapin
 chylify
 cyanopsia
+crengle
 chelidonate
 cheloid
 carvy
@@ -28654,7 +28655,6 @@ copeck
 cryochore
 crenelles
 crenels
-crengle
 chromidiogamy
 crenic
 comparable
