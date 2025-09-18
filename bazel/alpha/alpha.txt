@@ -8750,7 +8750,6 @@ allochroic
 allochthon
 aumbries
 ambilevous
-abrenunciate
 allochthonous
 approves
 adscititiously
@@ -24965,6 +24964,7 @@ aortoclasis
 awes
 algorisms
 alkalamide
+abrenunciate
 affenspalte
 aftermaths
 aerophysics

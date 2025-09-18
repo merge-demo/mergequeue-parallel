@@ -2661,7 +2661,6 @@ bortz
 bertholletia
 barghest
 basiliscus
-berrugate
 barm
 begrimming
 bututs
@@ -2999,6 +2998,7 @@ burrel
 baleare
 barroom
 barruly
+berrugate
 bedumb
 bluewing
 bakeshops
