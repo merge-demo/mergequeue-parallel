@@ -1478,6 +1478,7 @@ dazement
 delicatessen
 dazy
 dazzle
+disseizor
 discomedusan
 discriminative
 dasypaedal
@@ -4835,7 +4836,6 @@ designless
 deciares
 deciduoma
 deaconing
-disseizor
 dipsas
 divots
 didus
