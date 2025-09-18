@@ -6502,6 +6502,7 @@ ailurophilic
 affirmation
 akinesic
 anhalonidine
+atangle
 archaeol
 anew
 ailuropoda
@@ -17417,7 +17418,6 @@ alteregoism
 abrasiveness
 appeal
 appealable
-atangle
 askance
 attame
 acanthodea
