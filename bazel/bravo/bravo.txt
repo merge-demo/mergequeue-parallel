@@ -9050,7 +9050,6 @@ birds
 bushwhacking
 bistournage
 biennia
-buckers
 bicalcarate
 biosystematy
 basiotribe
@@ -15648,6 +15647,7 @@ brocht
 brochure
 bathycentesis
 babblishly
+buckers
 brock
 bombsight
 bryonies
