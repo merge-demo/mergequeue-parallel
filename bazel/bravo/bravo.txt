@@ -7257,7 +7257,6 @@ beperiwigged
 bethesda
 babirussa
 bethink
-battleground
 boatswain
 balaenoptera
 bocklogged
@@ -7497,6 +7496,7 @@ barnacle
 bleater
 burele
 brakeages
+battleground
 burrito
 bibliophage
 bedrivel
