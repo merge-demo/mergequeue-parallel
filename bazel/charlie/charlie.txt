@@ -21642,7 +21642,6 @@ condemn
 copremias
 convent
 condemnations
-condemnatory
 chichimecan
 crustiness
 condemners
@@ -23369,6 +23368,7 @@ catechus
 ceromez
 consumo
 consumpted
+condemnatory
 corrasive
 consumptional
 consumptive
