@@ -5498,7 +5498,6 @@ civilisation
 catagenetic
 catakinetic
 catakinomeric
-corkscrewy
 catalanganes
 catalatic
 cycledom
@@ -30060,6 +30059,7 @@ crowding
 coxcombity
 crowds
 chromatrope
+corkscrewy
 cingulated
 crowed
 crower
