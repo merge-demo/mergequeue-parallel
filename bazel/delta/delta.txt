@@ -11880,6 +11880,7 @@ dacryosyrinx
 drumfires
 dampproof
 disulphone
+dromical
 dioctahedral
 diminutions
 denying
@@ -16270,7 +16271,6 @@ drinkery
 dowager
 dowagers
 dispersions
-dromical
 dertra
 desalinized
 dowdy
