@@ -10421,7 +10421,6 @@ antihypnotic
 ameliorativ
 amidoplast
 amyridaceae
-amidoplastid
 amidoxyl
 amids
 aphids
@@ -13411,6 +13410,7 @@ aftertax
 audiences
 algesireceptor
 argyrol
+amidoplastid
 annuitants
 authenticator
 antiabortion

@@ -5177,7 +5177,6 @@ befringe
 branchiata
 befringing
 butenes
-battu
 breezed
 brontograph
 befuddle
@@ -8725,6 +8724,7 @@ bindingness
 basoche
 brewer
 bindweed
+battu
 bynedestin
 backrests
 binervate
