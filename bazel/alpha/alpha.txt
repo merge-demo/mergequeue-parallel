@@ -1812,7 +1812,6 @@ acescent
 athlothete
 abysmally
 acesodynous
-acestes
 acceleration
 availableness
 achieves
@@ -6513,6 +6512,7 @@ atangle
 archaeol
 anew
 ailuropoda
+acestes
 ailurus
 ageustia
 appertinent
