@@ -4067,7 +4067,6 @@ adoption
 antedate
 abiotrophic
 anemographic
-apprised
 astronomic
 adoptional
 archphylarch
@@ -9717,6 +9716,7 @@ angioglioma
 amaranthus
 amarantine
 amarantus
+apprised
 advowsance
 amarevole
 antiprotons
