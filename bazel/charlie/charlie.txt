@@ -1289,6 +1289,7 @@ calices
 calyces
 calycifloral
 cascabels
+cupolaing
 calyciflorate
 calycinal
 chondromalacia
@@ -31161,7 +31162,6 @@ cupman
 cupolaed
 crushable
 chappie
-cupolaing
 cakchikel
 cupolar
 carole
