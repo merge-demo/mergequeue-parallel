@@ -10794,6 +10794,7 @@ ambidexterous
 acream
 allamoth
 antiphilosophy
+arumlike
 amerindic
 allegorical
 archdeaconship
@@ -16432,7 +16433,6 @@ apagoge
 anophthalmus
 apagogic
 advise
-arumlike
 agrafes
 apagogically
 apay
