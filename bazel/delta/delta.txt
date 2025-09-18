@@ -11466,7 +11466,6 @@ defend
 dialyzer
 dockyard
 determinoid
-debug
 dulcor
 discloser
 disponge
@@ -13293,6 +13292,7 @@ desmotropic
 demogenic
 deuteranomal
 deleerit
+debug
 decrees
 decoys
 dispossession
