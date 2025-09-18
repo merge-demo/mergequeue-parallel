@@ -7921,6 +7921,7 @@ dispenser
 drysalter
 dihydrogen
 depone
+dicaryophyte
 dewberries
 dudaim
 dolichosaur
@@ -10917,7 +10918,6 @@ dwayne
 defeat
 dematerialize
 disguisable
-dicaryophyte
 damns
 drudging
 disfavor
