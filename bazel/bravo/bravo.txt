@@ -13328,7 +13328,6 @@ bulbless
 balsamed
 bemat
 bradburya
-blooie
 bakehead
 beetlestone
 badmen
@@ -17626,6 +17625,7 @@ belletrists
 blithebread
 biliate
 buttgenbachite
+blooie
 buncos
 barbettes
 biotoxin

@@ -2687,6 +2687,7 @@ dejectly
 decontaminators
 dvornik
 diskless
+disfurnished
 dressmakership
 dishwash
 devoured
@@ -12271,7 +12272,6 @@ deltoidal
 durous
 dysfunctions
 disfurnish
-disfurnished
 dangerless
 desulfurating
 disproportionation
