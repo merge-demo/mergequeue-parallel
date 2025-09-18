@@ -8538,6 +8538,7 @@ disbud
 doree
 donaries
 detract
+dimnesses
 decarburize
 divinations
 deaccessioning
@@ -14815,7 +14816,6 @@ diaphoretical
 dayshine
 doubtlessness
 downcasts
-dimnesses
 decrepitating
 deceptional
 delimitative
