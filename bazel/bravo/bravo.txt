@@ -3795,7 +3795,6 @@ bugging
 beamman
 bicondylar
 baumier
-baun
 beguile
 baure
 bausond
@@ -8603,6 +8602,7 @@ berairou
 buncoed
 bebar
 bebization
+baun
 blackpot
 brochette
 balcone

@@ -3163,6 +3163,7 @@ agnoite
 auscultoscope
 acetite
 astrolabe
+aquatintist
 amalgamators
 adai
 arrestors
@@ -18057,7 +18058,6 @@ archradical
 atamans
 arhats
 atwind
-aquatintist
 athwart
 analogically
 advowee
