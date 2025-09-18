@@ -3974,6 +3974,7 @@ antilyssic
 antenna
 anabasis
 acrasia
+arithmogram
 aquatinter
 anthophobia
 admonitive
@@ -13890,7 +13891,6 @@ aimers
 antecedental
 autosauria
 antecedently
-arithmogram
 adpress
 adventurousness
 antecedes
