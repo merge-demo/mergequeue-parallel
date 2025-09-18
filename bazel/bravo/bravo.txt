@@ -9695,6 +9695,7 @@ bombus
 barographs
 bystreets
 brockage
+biochemic
 brushed
 beerothite
 barbre
@@ -14367,7 +14368,6 @@ bisischiadic
 brainpan
 brainpans
 bisley
-biochemic
 bacterioscopic
 blighting
 behoving
