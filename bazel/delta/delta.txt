@@ -2229,6 +2229,7 @@ decasyllabon
 dreich
 derivedly
 diatomaceae
+descriptions
 desultoriness
 desray
 decasualise
@@ -5513,7 +5514,6 @@ depictive
 depainted
 depancreatization
 disilluminate
-descriptions
 docudrama
 downheaded
 depardieu
