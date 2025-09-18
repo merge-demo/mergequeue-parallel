@@ -158,7 +158,6 @@ dewtry
 defog
 dimercurion
 deprivations
-depasturable
 dissatisfying
 droughty
 dado
@@ -8067,6 +8066,7 @@ desoxalate
 deluders
 dezincking
 debilitates
+depasturable
 dusserah
 dracaena
 dioeciously
