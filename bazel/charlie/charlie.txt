@@ -5820,6 +5820,7 @@ caterpillar
 caterpillared
 causticness
 cochurchwarden
+corollike
 cardinal
 caterpillars
 caters
@@ -14285,7 +14286,6 @@ circumnavigate
 champers
 corrade
 circumnavigates
-corollike
 circumnavigating
 chickaree
 circumnavigator
