@@ -10849,6 +10849,7 @@ chippy
 cobishop
 curtilage
 cometic
+coolant
 chloralose
 canzoni
 chippie
@@ -25796,7 +25797,6 @@ clawback
 clyfaker
 corrupting
 chuser
-coolant
 corruptingly
 cimicid
 constitutionals
