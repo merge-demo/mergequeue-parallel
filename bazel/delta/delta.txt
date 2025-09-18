@@ -12428,7 +12428,6 @@ dampened
 decempartite
 didymiums
 dene
-demulsifier
 drubbers
 deflater
 dishaunt
@@ -18000,6 +17999,7 @@ dugouts
 dugs
 dugway
 deaerator
+demulsifier
 duhr
 desamidization
 dui
