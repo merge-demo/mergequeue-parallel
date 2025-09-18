@@ -8851,7 +8851,6 @@ deliberates
 deterring
 drachmas
 decemvirate
-dilate
 distasting
 dibbled
 dybbuk
@@ -15623,6 +15622,7 @@ drams
 doni
 deliquesced
 designators
+dilate
 dement
 donk
 dolor

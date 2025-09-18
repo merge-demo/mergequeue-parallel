@@ -23706,7 +23706,6 @@ cyanides
 countableness
 contracyclical
 contractable
-contractant
 choile
 contractedly
 contractedness
@@ -25513,6 +25512,7 @@ coronion
 chaffinches
 catting
 coronis
+contractant
 chese
 coronium
 coronofrontal
