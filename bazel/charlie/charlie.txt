@@ -13253,6 +13253,7 @@ cyclohexanone
 cyclohexyl
 cycloheximide
 chetverik
+compensator
 cataloguer
 chemiatry
 cycloid
@@ -20643,7 +20644,6 @@ cypruses
 colometrically
 camister
 cherishable
-compensator
 compensatory
 compensators
 compenser

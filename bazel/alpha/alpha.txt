@@ -4165,7 +4165,6 @@ arracacha
 adrian
 adriana
 anamnionata
-adriatic
 aumbry
 angia
 arbovirus
@@ -14763,6 +14762,7 @@ anticly
 algiers
 aegagropilae
 aboriginally
+adriatic
 anticlimactic
 abassi
 assure
