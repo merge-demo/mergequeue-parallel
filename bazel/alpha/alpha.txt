@@ -21990,7 +21990,6 @@ ampongue
 ancestries
 antistat
 anthracosilicosis
-astheny
 achroacyte
 aposafranine
 ailantery
@@ -23161,6 +23160,7 @@ alluviums
 abscissae
 accomplished
 aquation
+astheny
 abjunctive
 agoniadin
 attriteness
