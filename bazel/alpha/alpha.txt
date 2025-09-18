@@ -5139,6 +5139,7 @@ alogia
 acromiodeltoid
 affines
 agalmatolite
+alfuro
 animists
 anthomedusae
 aspen
@@ -20988,7 +20989,6 @@ ascribable
 agrobiologically
 antidogmatical
 acronym
-alfuro
 ascribe
 artificer
 arcosolia
