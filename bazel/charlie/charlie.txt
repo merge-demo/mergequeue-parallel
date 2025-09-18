@@ -1637,7 +1637,6 @@ counterdiscipline
 calorifical
 calorification
 cardiograph
-calappa
 currishly
 colorant
 croucher
@@ -19380,6 +19379,7 @@ critically
 crassier
 colonies
 choleic
+calappa
 colonisability
 confrication
 cloture
