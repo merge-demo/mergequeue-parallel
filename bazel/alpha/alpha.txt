@@ -15961,6 +15961,7 @@ auto
 aper
 antiscolic
 aposporic
+antagonizable
 abigei
 antiscorbutical
 avirulence
@@ -23120,7 +23121,6 @@ attract
 actinozoal
 angustiseptate
 alangiaceae
-antagonizable
 achroite
 appestats
 attractingly
