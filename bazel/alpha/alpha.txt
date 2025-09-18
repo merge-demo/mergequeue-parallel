@@ -4441,7 +4441,6 @@ aix
 adlumine
 amatungula
 assailing
-anthropophagously
 advisories
 alleluias
 adet
@@ -21172,6 +21171,7 @@ asiento
 alchemised
 acalyptrata
 abscess
+anthropophagously
 asilidae
 acronycta
 archeostome
