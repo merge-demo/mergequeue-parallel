@@ -5300,6 +5300,7 @@ africanoid
 affrettando
 astartian
 antifelon
+apepsinia
 autoregressive
 amalgams
 atharvan
@@ -16507,7 +16508,6 @@ apeling
 apenteric
 athirst
 affiliate
-apepsinia
 arean
 akhund
 apercus

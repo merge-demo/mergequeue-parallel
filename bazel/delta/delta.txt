@@ -8580,6 +8580,7 @@ diaphoreses
 disarranging
 devoutlessness
 diaeresis
+disapproval
 diaphoretics
 diaphorite
 decating
@@ -9537,7 +9538,6 @@ discussable
 digestory
 digesture
 dinarzade
-disapproval
 digged
 deuterostome
 dighted
