@@ -7446,6 +7446,7 @@ cholinesterase
 centrifugalization
 capelet
 coistrils
+cirripeds
 cytogenetical
 ceratoglossal
 ceratohyal
@@ -13919,7 +13920,6 @@ cinofoil
 canonistic
 caviars
 cynognathus
-cirripeds
 cynoid
 contributiveness
 coadjacently
