@@ -16239,6 +16239,7 @@ clinia
 clinically
 condensations
 cervicovesical
+cookhouse
 cellars
 cask
 collapse
@@ -24339,7 +24340,6 @@ confucianist
 corncutting
 cookeite
 cookeries
-cookhouse
 currawang
 cooky
 cookishly
