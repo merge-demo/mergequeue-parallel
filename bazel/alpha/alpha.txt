@@ -6566,6 +6566,7 @@ adiposeness
 armyworm
 abucco
 alchemistic
+ataxy
 alt
 andrewsite
 abnormities
@@ -16519,7 +16520,6 @@ ashkenazim
 albertist
 aperea
 arcanal
-ataxy
 alang
 aperients
 aperiodically
