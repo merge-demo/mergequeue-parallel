@@ -5178,7 +5178,6 @@ affixation
 andantinos
 affixes
 affixial
-aspatia
 agunah
 authorism
 actinomycetaceae
@@ -10932,6 +10931,7 @@ anarthropodous
 amorphia
 aerobion
 abyssobenthonic
+aspatia
 aquatinta
 adelphophagy
 amorphism
