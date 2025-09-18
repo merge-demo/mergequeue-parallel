@@ -2409,6 +2409,7 @@ dispelled
 doggerelizer
 donny
 deek
+dorsosacral
 disaffects
 disavowals
 divertible
@@ -15950,7 +15951,6 @@ decatoic
 daimyo
 disboweling
 dorsoposterior
-dorsosacral
 dishumor
 dorsoscapular
 dermatrophy
