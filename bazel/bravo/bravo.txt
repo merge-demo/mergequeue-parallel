@@ -11980,7 +11980,6 @@ bogus
 bohairic
 baume
 bottled
-boloneys
 bohemian
 bohemium
 bidigitate
@@ -12730,6 +12729,7 @@ bhoots
 bepuddle
 bookmobiles
 burlesk
+boloneys
 bookpress
 bandores
 blacklegging
