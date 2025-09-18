@@ -16098,7 +16098,6 @@ aesthetically
 aerocharidae
 atamascos
 antirationalist
-ankylenteron
 acologic
 allothigenous
 antisubstance
@@ -17165,6 +17164,7 @@ apoplastogamous
 attempts
 apoplectoid
 apoplex
+ankylenteron
 apoplexy
 adamantoid
 anemometrographic
