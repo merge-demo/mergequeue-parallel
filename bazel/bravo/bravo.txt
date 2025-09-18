@@ -1019,7 +1019,6 @@ bayonetted
 bulse
 baign
 barbarizes
-bitangent
 bewitchments
 baigneuses
 banterer
@@ -7604,6 +7603,7 @@ breadmaking
 bordured
 beds
 bookplates
+bitangent
 benelux
 bezoars
 bewared
