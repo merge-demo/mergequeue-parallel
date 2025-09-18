@@ -8497,7 +8497,6 @@ aspiringness
 anta
 allegiance
 ancylostoma
-audiovisuals
 allegiancy
 astronautically
 allegorically
@@ -10691,6 +10690,7 @@ amberjack
 amphibological
 agency
 abhiseka
+audiovisuals
 ammocoetes
 apocrisiary
 agglutinated
