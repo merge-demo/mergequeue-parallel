@@ -6158,6 +6158,7 @@ bdellostomidae
 buzzed
 benighter
 barked
+beleaguerer
 backhanding
 basidiolichenes
 breedling
@@ -10269,7 +10270,6 @@ bladderwort
 bedrid
 blading
 boxfuls
-beleaguerer
 besmircher
 bosporian
 bromacetate
