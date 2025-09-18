@@ -2777,7 +2777,6 @@ drowsier
 disintegrative
 dint
 diurnals
-drypoints
 delaware
 deflectable
 dichotriaene
@@ -3395,6 +3394,7 @@ deflowerer
 dumpcart
 doctus
 dipleurogenetic
+drypoints
 depsid
 dongolas
 duelists
