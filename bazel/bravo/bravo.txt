@@ -10486,7 +10486,6 @@ bashlik
 biddery
 biteless
 balanus
-bromal
 buttonhold
 belligerent
 badasses
@@ -11618,6 +11617,7 @@ bacterioscopical
 barspoon
 bronchium
 boathook
+bromal
 boathouse
 backbends
 batable
