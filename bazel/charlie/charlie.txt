@@ -6773,6 +6773,7 @@ cerinthian
 cowshard
 capless
 celioscope
+cydippe
 cella
 coutel
 cellarage
@@ -13414,7 +13415,6 @@ crozzle
 chlorinates
 centrales
 counterturn
-cydippe
 cofeatures
 confederator
 cydonium
