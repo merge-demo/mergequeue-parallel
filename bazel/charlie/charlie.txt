@@ -4488,7 +4488,6 @@ carneau
 carnegiea
 carneyed
 cabiritic
-carnelian
 carneole
 cracklings
 coroner
@@ -21155,6 +21154,7 @@ comelily
 curatic
 conations
 conflab
+carnelian
 coercions
 conatus
 conaxial
