@@ -12740,7 +12740,6 @@ diacromyodian
 dooming
 disliken
 drawshave
-dislikeness
 dikage
 disliker
 dubhgall
@@ -15645,6 +15644,7 @@ dessert
 directness
 diascord
 drummers
+dislikeness
 donnas
 defeasible
 dipolsphene
