@@ -24377,7 +24377,6 @@ chemosmosis
 cholinergic
 coolest
 cattleless
-cordages
 cynhyena
 coned
 crosspiece
@@ -25919,6 +25918,7 @@ cortlandtite
 chloridize
 caulotaxy
 corton
+cordages
 cordwood
 convolute
 colley
