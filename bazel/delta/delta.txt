@@ -8550,6 +8550,7 @@ dehydrofreeze
 diet
 dyschromatopsia
 duchy
+departmentally
 doughnut
 demiplate
 dethrone
@@ -12418,7 +12419,6 @@ dendrium
 duplexer
 drias
 disharmonised
-departmentally
 disharmonising
 dissecting
 deflexion
