@@ -11240,7 +11240,6 @@ caterers
 carlie
 continuities
 chloritization
-chloritize
 culicid
 chlorize
 cynocephalus
@@ -14974,6 +14973,7 @@ citrangeade
 carronade
 contorsion
 chromoplasm
+chloritize
 counterparallel
 crossjack
 closehearted
