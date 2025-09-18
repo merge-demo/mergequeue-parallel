@@ -96,6 +96,7 @@ cabiai
 canephorus
 cronish
 cabildo
+carwash
 cabildos
 cabined
 curucui
@@ -5002,7 +5003,6 @@ curses
 carvings
 controversialize
 carvoeira
-carwash
 clamatorial
 chider
 conspired
