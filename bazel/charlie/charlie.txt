@@ -11049,7 +11049,6 @@ cowbirds
 convertive
 carloads
 calamus
-cocos
 coworkers
 codeless
 chiton
@@ -16379,6 +16378,7 @@ cribral
 curvette
 cacophonies
 cisele
+cocos
 cyanitic
 clyster
 candors
