@@ -3721,6 +3721,7 @@ didepside
 dolcan
 desmose
 dreadful
+distilment
 delivers
 dehorner
 deadlily
@@ -8638,7 +8639,6 @@ downwards
 drumline
 dinge
 debugging
-distilment
 delimitations
 diary
 diaglyph
