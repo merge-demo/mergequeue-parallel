@@ -3763,6 +3763,7 @@ carbolic
 carbolics
 centricity
 carbolising
+catechisable
 carbolizes
 carbolizing
 carmelite
@@ -5695,7 +5696,6 @@ cottony
 cheirosophy
 concinnating
 catechin
-catechisable
 copycatted
 citharoedic
 cyanocitta
