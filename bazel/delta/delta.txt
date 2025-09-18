@@ -9112,6 +9112,7 @@ dictyoid
 diction
 disguiser
 disparage
+drivebolt
 defang
 dermatophobia
 defigure
@@ -16618,7 +16619,6 @@ dictyogen
 diamondbacks
 detergent
 denar
-drivebolt
 depicted
 disingenuity
 draft
