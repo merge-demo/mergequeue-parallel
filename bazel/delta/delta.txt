@@ -2292,7 +2292,6 @@ deepish
 devoutless
 devocation
 daikering
-decemvirship
 decayer
 decene
 decennial
@@ -9994,6 +9993,7 @@ decoupled
 dedolation
 diatesseron
 dodged
+decemvirship
 disconcerts
 deeplier
 dardistan
