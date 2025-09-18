@@ -2197,6 +2197,7 @@ blockade
 berrichon
 bostonite
 barter
+bracery
 barauna
 boneheadedness
 bromizing
@@ -3261,7 +3262,6 @@ babydom
 baboon
 bitting
 birder
-bracery
 binormal
 basilweed
 broadsheet
