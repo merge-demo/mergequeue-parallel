@@ -15443,7 +15443,6 @@ dummel
 domains
 daedalian
 dativogerundial
-dispersoid
 deathcup
 dissimilatory
 decarboxylate
@@ -17225,6 +17224,7 @@ dematerialise
 dispensator
 drunkenness
 decine
+dispersoid
 dipygi
 dactylically
 devarshi
