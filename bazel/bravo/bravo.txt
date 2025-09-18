@@ -3754,7 +3754,6 @@ brevipennate
 balneal
 bajra
 batz
-burds
 beldamship
 biotoxins
 barotse
@@ -15224,6 +15223,7 @@ bordarius
 bursa
 batrachidae
 brailled
+burds
 beflagged
 benzidine
 ballyhoos
