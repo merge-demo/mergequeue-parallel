@@ -8901,7 +8901,6 @@ dicaeidae
 dwarfed
 disparaged
 dcbname
-direr
 diapyetic
 doctrinizing
 dicaryon
@@ -10655,6 +10654,7 @@ diplonema
 duennadom
 deuteric
 dunnaged
+direr
 diplont
 delisting
 diplonts
