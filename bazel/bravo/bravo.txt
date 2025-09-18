@@ -10252,6 +10252,7 @@ beggiatoaceae
 blacktops
 blastoporphyritic
 bijugular
+berber
 biocatalytic
 basialveolar
 baconism
@@ -16024,7 +16025,6 @@ ban
 bizant
 bloodstain
 bins
-berber
 biff
 begloomed
 bewitches
