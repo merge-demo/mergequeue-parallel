@@ -12143,6 +12143,7 @@ amiranha
 andamenta
 aloelike
 allopatric
+aquatic
 astrophotography
 athericeran
 antiposition
@@ -18052,7 +18053,6 @@ aquascope
 alltud
 aquate
 arithmetician
-aquatic
 anaptomorphus
 aquatics
 aquatile
