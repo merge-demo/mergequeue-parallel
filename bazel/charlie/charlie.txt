@@ -11566,7 +11566,6 @@ choledochoduodenostomy
 colpeurysis
 connotively
 columniform
-choledocholithotripsy
 choledochorrhaphy
 counteractor
 cental
@@ -23654,6 +23653,7 @@ contise
 cognoscenti
 ceratocricoid
 contoid
+choledocholithotripsy
 contoise
 coadmits
 contorniates
