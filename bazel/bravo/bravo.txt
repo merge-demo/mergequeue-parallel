@@ -3568,6 +3568,7 @@ bigmouths
 boliviano
 baffle
 bathythermograph
+bionomic
 bivalvous
 bathkol
 bipartite
@@ -9281,7 +9282,6 @@ bodyworks
 begruntle
 brinish
 baroscope
-bionomic
 besquirt
 blindman
 beleed
