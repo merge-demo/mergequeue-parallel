@@ -19823,6 +19823,7 @@ combinator
 combinatory
 creatorrhea
 combinatorial
+cathetometric
 combinatorially
 combinators
 concertinas
@@ -20984,7 +20985,6 @@ compressibility
 compressibleness
 criminals
 cruzeiros
-cathetometric
 crosshatching
 compressive
 compressively
