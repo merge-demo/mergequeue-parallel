@@ -5976,6 +5976,7 @@ chandeliers
 cathouses
 crownling
 coversine
+chemicovital
 cathud
 catydid
 continuos
@@ -31755,7 +31756,6 @@ customariness
 customer
 cervisial
 clarkeites
-chemicovital
 customers
 ceratofibrous
 chemosorb
