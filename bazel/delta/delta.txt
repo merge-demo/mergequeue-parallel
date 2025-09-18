@@ -2426,7 +2426,6 @@ disaffiliation
 devisceration
 dracontites
 dysphagia
-dane
 decimates
 dropkick
 dusken
@@ -3168,6 +3167,7 @@ dracaenas
 diabolising
 doftberry
 defencive
+dane
 dents
 defendable
 demimondaine
