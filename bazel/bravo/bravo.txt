@@ -6630,7 +6630,6 @@ bermes
 battens
 benedictive
 besra
-beanbags
 bagaudae
 biked
 blurted
@@ -14096,6 +14095,7 @@ brachystomatous
 brachystomous
 buckety
 bbl
+beanbags
 briard
 backwrap
 bassnesses

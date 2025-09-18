@@ -12554,7 +12554,6 @@ angeluses
 agonizer
 anger
 angered
-adiaphoresis
 alvan
 alkalinizing
 amain
@@ -19095,6 +19094,7 @@ acidifiable
 assoiling
 apophyllite
 astropectinidae
+adiaphoresis
 ardellae
 annelida
 abdominohysterectomy
