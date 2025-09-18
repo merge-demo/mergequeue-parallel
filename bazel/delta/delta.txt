@@ -6873,7 +6873,6 @@ desmoncus
 danknesses
 dryobalanops
 drevel
-deadflat
 dicotylidae
 deltic
 domesticative
@@ -13492,6 +13491,7 @@ ducato
 dada
 diss
 dissait
+deadflat
 diblastula
 dilatedly
 discretively
