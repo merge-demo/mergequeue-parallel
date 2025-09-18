@@ -9896,7 +9896,6 @@ brevit
 bilinguality
 bridleman
 burbles
-biases
 bivalence
 binnite
 byelaw
@@ -11195,6 +11194,7 @@ bimalar
 bleak
 bestowage
 bucksaws
+biases
 blooped
 bertram
 boxen
