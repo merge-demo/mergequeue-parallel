@@ -9755,6 +9755,7 @@ collisions
 chelicer
 cysts
 chelide
+cornrick
 csardas
 comfits
 cowheart
@@ -16741,7 +16742,6 @@ clothiers
 clothings
 catharpin
 chreotechnics
-cornrick
 crimpling
 clots
 comique
