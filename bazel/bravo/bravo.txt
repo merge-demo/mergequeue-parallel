@@ -9181,6 +9181,7 @@ betone
 bipinnatisect
 battlegrounds
 boil
+boree
 bosnisch
 bobsledding
 brighter
@@ -16148,7 +16149,6 @@ bubo
 blockading
 bluenesses
 brownouts
-boree
 boundure
 brachysclereid
 bobbling
