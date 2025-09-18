@@ -5217,7 +5217,6 @@ carpophore
 carinule
 cassocked
 carnaubyl
-cataleptic
 calycoideous
 chlorioninae
 chevrony
@@ -17719,6 +17718,7 @@ connecting
 cockades
 canorously
 camelina
+cataleptic
 christmasberry
 curviform
 cyatheaceous
