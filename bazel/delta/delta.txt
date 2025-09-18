@@ -4334,7 +4334,6 @@ demagnetizing
 dimensuration
 devoutness
 durning
-delimit
 dequeue
 diversicolored
 devising
@@ -15374,6 +15373,7 @@ devolatilized
 deemstership
 dolcian
 damnonii
+delimit
 dassies
 dix
 dysphoric
