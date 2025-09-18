@@ -4395,6 +4395,7 @@ deliberator
 dishonourableness
 dispersonalize
 demandant
+deinos
 dacryon
 demarcation
 dolomites
@@ -10036,7 +10037,6 @@ dogwood
 dottle
 dreaming
 dolerites
-deinos
 dirigent
 dimple
 diplomas
