@@ -1301,6 +1301,7 @@ buckskinned
 baryonic
 bluejays
 barbated
+bandsawn
 begrutch
 boater
 balander
@@ -13957,7 +13958,6 @@ blindfolder
 bloviates
 ballet
 brabble
-bandsawn
 bicycling
 bowmaker
 boxmaking
