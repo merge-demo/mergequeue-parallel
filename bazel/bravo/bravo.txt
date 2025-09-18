@@ -11522,6 +11522,7 @@ blurbist
 bananist
 blacklists
 basad
+banyoro
 balladries
 baronages
 brimfull
@@ -12860,7 +12861,6 @@ basichromatin
 bouchons
 balletomanes
 bandhor
-banyoro
 bylaws
 bacciform
 boorishness
