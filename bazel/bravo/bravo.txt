@@ -9260,7 +9260,6 @@ barman
 backarrow
 baccaras
 bindweb
-belgian
 brendice
 bodes
 besmother
@@ -10460,6 +10459,7 @@ browniest
 burlesquing
 blastomycete
 bannerman
+belgian
 benignities
 blastoneuropore
 babingtonite
