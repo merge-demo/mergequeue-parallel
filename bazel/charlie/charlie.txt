@@ -19445,6 +19445,7 @@ color
 creational
 cycadaceous
 chinchier
+collumelliaceous
 colorableness
 camisades
 career
@@ -31183,7 +31184,6 @@ classless
 cupressus
 custode
 carretela
-collumelliaceous
 cuprites
 cunningly
 coccygeus
