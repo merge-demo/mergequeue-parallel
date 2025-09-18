@@ -4748,6 +4748,7 @@ ambitionist
 allochirally
 agadic
 aerodyne
+apastron
 astonisher
 aerodynes
 anthroposophist
@@ -5439,7 +5440,6 @@ atrous
 allelopathy
 achromatium
 afterthought
-apastron
 afterturn
 armory
 aphototaxis
