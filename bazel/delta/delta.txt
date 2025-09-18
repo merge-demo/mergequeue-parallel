@@ -5497,7 +5497,6 @@ dsnames
 deadest
 dorsiventrality
 deoxidize
-decurt
 deoxygenated
 depaints
 dilatation
@@ -16230,6 +16229,7 @@ dousing
 derringers
 dout
 desorbing
+decurt
 dipetalous
 despumated
 dematerialized
