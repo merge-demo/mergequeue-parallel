@@ -2241,7 +2241,6 @@ canafistolo
 canafistulo
 chlorapatite
 concertgoer
-cetiosaurus
 canaigre
 canailles
 cymoid
@@ -19293,6 +19292,7 @@ cimbia
 collutoria
 collutories
 collutorium
+cetiosaurus
 celiomyalgia
 chiffonade
 cyanidin
