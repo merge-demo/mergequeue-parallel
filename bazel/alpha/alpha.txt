@@ -10653,7 +10653,6 @@ aplanatically
 anestri
 amitate
 alcoholising
-abandonments
 ancistrodon
 aground
 amities
@@ -13179,6 +13178,7 @@ agamont
 antimethod
 anisopteran
 absolvitory
+abandonments
 antecedent
 anisostaminous
 anisosthenic
