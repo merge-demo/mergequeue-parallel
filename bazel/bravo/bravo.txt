@@ -2305,6 +2305,7 @@ benzoles
 bubaline
 braggers
 bushwhack
+benefice
 bulldoze
 bartholomite
 baobab
@@ -8139,7 +8140,6 @@ brahmi
 biens
 basilemma
 bientt
-benefice
 bienvenue
 bayaderes
 boxinesses
