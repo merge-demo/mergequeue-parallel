@@ -1311,7 +1311,6 @@ diphycercal
 decream
 dauber
 dauberies
-dramatic
 denticulate
 droppy
 dumpings
@@ -5837,6 +5836,7 @@ dysraphia
 dujan
 dismarshall
 drukpa
+dramatic
 disentrancing
 diamido
 dowel
