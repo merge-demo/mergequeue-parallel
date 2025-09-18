@@ -8513,7 +8513,6 @@ chams
 chamsin
 cineplastics
 cataclysmatic
-congealedness
 curatage
 corslet
 chanca
@@ -12152,6 +12151,7 @@ caducity
 chrysalises
 cardiaplegia
 chrysaloid
+congealedness
 cryptomonad
 constances
 concausal
