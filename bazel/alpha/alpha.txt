@@ -9869,6 +9869,7 @@ aperu
 agrufe
 albinuria
 amberoid
+anomoeomery
 acinotubular
 acrodonts
 ambicoloration
@@ -13578,7 +13579,6 @@ anomodont
 aiglets
 anomodontia
 adagy
-anomoeomery
 anticommercially
 aldermanity
 autoptic
