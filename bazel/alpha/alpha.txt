@@ -10097,6 +10097,7 @@ ambuscado
 ambushers
 aerocartography
 anablepidae
+autodialer
 abastardize
 arcocentrous
 amchoor
@@ -23960,7 +23961,6 @@ alutaceous
 aardvark
 autodial
 autodialed
-autodialer
 azathioprine
 adience
 apophysitis
