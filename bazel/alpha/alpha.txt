@@ -12125,6 +12125,7 @@ ancora
 ancress
 ancresses
 adsorbate
+antitumoral
 anda
 analog
 aphrodisiac
@@ -16210,7 +16211,6 @@ acecaffin
 antitruster
 antituberculosis
 antituberculotic
-antitumoral
 affray
 aperitive
 antigraft
