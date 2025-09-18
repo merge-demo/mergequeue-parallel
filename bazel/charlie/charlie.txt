@@ -6509,6 +6509,7 @@ cazique
 cb
 citizens
 coeditorship
+chipchap
 ceruleum
 cachemia
 coryphaeus
@@ -10079,7 +10080,6 @@ chimney
 chesoun
 clypeus
 collab
-chipchap
 chessdom
 chesser
 chipyard
