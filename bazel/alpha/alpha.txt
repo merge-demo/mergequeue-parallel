@@ -5269,7 +5269,6 @@ aplanat
 aedilic
 allochiral
 argufies
-abeyances
 attainers
 arrhinia
 agenesic
@@ -22510,6 +22509,7 @@ atheriogaean
 atheris
 athermancy
 assonances
+abeyances
 antihormone
 athermanous
 athermic
