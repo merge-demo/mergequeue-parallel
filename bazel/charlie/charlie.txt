@@ -2510,7 +2510,6 @@ cleverness
 candle
 coehorn
 candleball
-candleberries
 candlebomb
 candlefish
 corporeal
@@ -28987,6 +28986,7 @@ commissariats
 cantab
 cryptorhynchus
 cunan
+candleberries
 crimper
 controversional
 crimpiness
