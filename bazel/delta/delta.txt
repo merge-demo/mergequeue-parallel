@@ -9843,6 +9843,7 @@ digesters
 dumetose
 dillydally
 dejectile
+dividual
 discanonize
 disrupture
 descendingly
@@ -17449,7 +17450,6 @@ diesis
 diallela
 doeth
 dribblers
-dividual
 destool
 droppage
 dressiness
