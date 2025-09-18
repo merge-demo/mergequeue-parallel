@@ -1706,6 +1706,7 @@ bambuseae
 bowsing
 bogglish
 betiding
+bugloss
 bingos
 breechesless
 balneological
@@ -15010,7 +15011,6 @@ brakes
 bearance
 baffles
 bressummer
-bugloss
 binocular
 brest
 bucorvinae
