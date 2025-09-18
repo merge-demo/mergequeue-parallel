@@ -11060,6 +11060,7 @@ amphiboly
 ablush
 argh
 aoristic
+aminase
 affliction
 axometric
 aporphine
@@ -13251,7 +13252,6 @@ anklejack
 amasta
 ankles
 aetolian
-aminase
 ankoli
 awny
 ankush
