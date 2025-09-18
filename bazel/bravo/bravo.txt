@@ -613,6 +613,7 @@ beetroot
 bacterially
 bacterioblast
 buggyman
+boolean
 bactericide
 bacterin
 beggiatoa
@@ -10198,7 +10199,6 @@ batara
 brominism
 blennorrhoea
 bilobiate
-boolean
 bellicism
 biofeedback
 bratty
