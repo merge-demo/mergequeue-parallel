@@ -13889,7 +13889,6 @@ dolose
 diagnoses
 deaf
 deckles
-distichlis
 dephased
 dod
 distil
@@ -17220,6 +17219,7 @@ disenvelop
 dryinid
 diffusibility
 divagations
+distichlis
 debentureholder
 dipodies
 dullish
