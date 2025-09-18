@@ -1316,7 +1316,6 @@ ammonolytic
 annealers
 alabamians
 accelerates
-alinotum
 amidases
 accelerative
 adiaphanousness
@@ -3307,6 +3306,7 @@ ampassy
 addictives
 abodah
 autofluorescence
+alinotum
 adding
 alterum
 addisoniana
