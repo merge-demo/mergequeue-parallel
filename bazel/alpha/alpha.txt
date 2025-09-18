@@ -6678,6 +6678,7 @@ asyndesis
 alezan
 astomatous
 antimedievalism
+axons
 aphorises
 apanages
 admonitor
@@ -15557,7 +15558,6 @@ antheridiophore
 antiparliament
 antiparliamental
 assapanick
-axons
 anim
 actinolite
 aphorists
