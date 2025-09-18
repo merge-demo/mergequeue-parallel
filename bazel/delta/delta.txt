@@ -1071,7 +1071,6 @@ dutra
 darner
 devoiced
 darning
-dimeters
 disfavoured
 designfully
 decarch
@@ -8212,6 +8211,7 @@ discarnation
 diachronically
 dicranum
 diacid
+dimeters
 douziemes
 driven
 detachment
