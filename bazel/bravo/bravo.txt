@@ -6166,7 +6166,6 @@ balloonist
 benisons
 bombay
 benitier
-benjamin
 benjaminite
 britannic
 benjamins
@@ -14392,6 +14391,7 @@ broomballer
 bewailment
 bepimples
 boggled
+benjamin
 bingee
 benzamino
 bathochromic
