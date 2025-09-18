@@ -5105,6 +5105,7 @@ disciplinarian
 devitrify
 dispone
 dissipated
+daybooks
 disterr
 dolentissimo
 destitute
@@ -6934,7 +6935,6 @@ drunken
 dirgeful
 deciles
 decentralised
-daybooks
 dottedness
 degerming
 doctrinism
