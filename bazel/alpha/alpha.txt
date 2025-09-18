@@ -2811,7 +2811,6 @@ anoints
 autolimnetic
 anapnograph
 aneurysms
-autoanalysis
 agentries
 awkwardest
 aubrietas
@@ -8826,6 +8825,7 @@ araceae
 agena
 anomalipod
 apprized
+autoanalysis
 agrostography
 accrescendi
 assurd
