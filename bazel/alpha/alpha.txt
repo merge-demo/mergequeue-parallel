@@ -14709,7 +14709,6 @@ antimachinery
 aenigma
 arrondi
 antechamber
-anticyclogenesis
 anchoring
 anticyclolysis
 anticyclones
@@ -16648,6 +16647,7 @@ avant
 amphigonia
 adultoid
 aphydrotropism
+anticyclogenesis
 aphilanthropy
 aphylly
 averring
