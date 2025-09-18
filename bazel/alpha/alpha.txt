@@ -12403,7 +12403,6 @@ achiote
 attire
 anitrogenous
 aeropleustic
-accelerations
 agrimotor
 aucupate
 avowter
@@ -23084,6 +23083,7 @@ anisognathous
 apple
 anargyros
 adaptors
+accelerations
 attitudinise
 antoninianus
 attitudinised
