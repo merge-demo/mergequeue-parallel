@@ -14556,7 +14556,6 @@ ancilla
 ascon
 antibigotry
 aggrandizable
-antara
 axiologies
 antibilious
 antibiont
@@ -16742,6 +16741,7 @@ apices
 apician
 accomplices
 apicillary
+antara
 alimentive
 apickback
 afterdecks

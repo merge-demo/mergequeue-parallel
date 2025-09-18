@@ -9035,6 +9035,7 @@ charm
 cowlick
 ceratiidae
 camogie
+clackety
 chlorids
 charmedly
 coax
@@ -20563,7 +20564,6 @@ compartmented
 centenionalis
 corundum
 composition
-clackety
 celticist
 compassability
 concertion
