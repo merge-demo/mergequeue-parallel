@@ -13239,6 +13239,7 @@ boxberry
 buggier
 belays
 barbels
+barrio
 binocle
 bosporanic
 bossage
@@ -18144,7 +18145,6 @@ butyrin
 biogenase
 butyrometer
 basts
-barrio
 botchwork
 begorry
 butlerdom
