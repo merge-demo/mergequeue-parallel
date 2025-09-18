@@ -12664,6 +12664,7 @@ abjunction
 angiotribe
 angiotripsy
 angiotrophic
+antipragmatic
 aweto
 antiepicenter
 angiport
@@ -24778,7 +24779,6 @@ avocat
 aud
 avocations
 avocative
-antipragmatic
 avocet
 acheck
 artisanry
