@@ -12201,7 +12201,6 @@ dinergate
 deucing
 dehusk
 doom
-depthometer
 diacetine
 dha
 detoxifying
@@ -17616,6 +17615,7 @@ drums
 dysarthria
 devoting
 disconsonancy
+depthometer
 doctrinarily
 deaminase
 drumwood
