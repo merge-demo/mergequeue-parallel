@@ -6979,7 +6979,6 @@ aglycones
 archicytula
 akoasm
 alloimmune
-akontae
 acidophile
 ambivalent
 abdominalia
@@ -9235,6 +9234,7 @@ amphibiontic
 acerose
 alphabetic
 alphabetical
+akontae
 alphabetically
 anthoecology
 artillerymen
