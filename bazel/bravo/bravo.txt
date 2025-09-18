@@ -2528,7 +2528,6 @@ barid
 bullyism
 bronchostenosis
 bereaving
-burglarise
 bestrewn
 bois
 barcolongo
@@ -11138,6 +11137,7 @@ bestain
 blunker
 brawniest
 buckler
+burglarise
 benevolently
 bloodlusting
 booky
