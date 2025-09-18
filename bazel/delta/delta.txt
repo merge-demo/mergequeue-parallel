@@ -2141,7 +2141,6 @@ dissyllabize
 decamethonium
 dominator
 decancellated
-disciplinarian
 dermatalgia
 debaser
 drillable
@@ -5102,6 +5101,7 @@ discomfit
 debile
 downhearted
 disproof
+disciplinarian
 devitrify
 dispone
 dissipated
