@@ -690,7 +690,6 @@ desquamated
 dampers
 dudgeons
 discrete
-donnard
 delimes
 dwelling
 depermed
@@ -11745,6 +11744,7 @@ dashy
 discourteousness
 dominicans
 discoach
+donnard
 discoverable
 distilland
 disworth
