@@ -6494,7 +6494,6 @@ ampelitic
 actinometers
 ally
 abasio
-aliturgical
 ailurophilic
 affirmation
 akinesic
@@ -11260,6 +11259,7 @@ amplest
 amplexicaul
 aeciostage
 amplexicauline
+aliturgical
 artels
 abstinence
 antifoaming
