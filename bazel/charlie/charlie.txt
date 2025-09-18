@@ -8988,7 +8988,6 @@ collationer
 ceriphs
 chalazia
 charisticary
-charitative
 colloq
 charities
 condition
@@ -11142,6 +11141,7 @@ chloracne
 criminaldom
 chloragogue
 carcharodon
+charitative
 chloralformamide
 cupelling
 comburimeter
