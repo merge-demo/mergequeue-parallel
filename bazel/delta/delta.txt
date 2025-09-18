@@ -6531,7 +6531,6 @@ disagreer
 descensive
 desmans
 dewdrops
-disappointedly
 disharmonized
 donor
 desitive
@@ -13464,6 +13463,7 @@ douzaine
 daroga
 danseur
 debi
+disappointedly
 duffle
 disrobes
 decrassify
