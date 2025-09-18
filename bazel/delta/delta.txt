@@ -3556,7 +3556,6 @@ disappears
 dodecant
 degaussing
 destituting
-diatonous
 degener
 declaredness
 diereses
@@ -16949,6 +16948,7 @@ dataria
 declination
 drona
 dumbs
+diatonous
 deprocedured
 dreadable
 daftnesses
