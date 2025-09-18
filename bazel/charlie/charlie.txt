@@ -21120,7 +21120,6 @@ comradeliness
 comrades
 comradeship
 caulked
-coms
 clostridial
 comsomol
 competingly
@@ -30105,6 +30104,7 @@ caitif
 crownwork
 colob
 crownwort
+coms
 courants
 cryocautery
 citee
