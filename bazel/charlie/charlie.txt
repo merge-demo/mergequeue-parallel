@@ -17257,7 +17257,6 @@ cellarless
 coitions
 candlesnuffer
 contritely
-coalescent
 cringe
 coalesces
 coalescing
@@ -17615,6 +17614,7 @@ coccids
 chondriocont
 christiform
 coccygalgia
+coalescent
 coccygeal
 coccygean
 cornify
