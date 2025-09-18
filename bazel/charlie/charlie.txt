@@ -4322,7 +4322,6 @@ confidentiality
 carillonning
 carillons
 cynips
-carinae
 carinal
 carinas
 chrysene
@@ -6074,6 +6073,7 @@ copernicans
 celiotomy
 corrobori
 chimaeroidei
+carinae
 cattycornered
 cattyman
 cirl
