@@ -5241,7 +5241,6 @@ dismisses
 denominations
 desired
 dhurna
-dutymonger
 dicty
 dine
 duncery
@@ -12656,6 +12655,7 @@ disyoking
 disjasked
 disjaskit
 drubbings
+dutymonger
 discourage
 dunlin
 duntle
