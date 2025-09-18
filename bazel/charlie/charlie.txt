@@ -2443,6 +2443,7 @@ candelabrum
 corelatively
 candelilla
 cephaloclasia
+ciliary
 conductible
 conationalistic
 comburimetry
@@ -9821,7 +9822,6 @@ cyclostome
 chemicomineralogical
 chemicophysical
 crucifige
-ciliary
 curtaining
 computist
 chondrocele
