@@ -426,6 +426,7 @@ diverticula
 daintiness
 daiquiri
 dingle
+disoperculate
 diriment
 dramatics
 densitometry
@@ -12964,7 +12965,6 @@ deciduous
 decopperize
 discolor
 driftwind
-disoperculate
 dicephalous
 deliberation
 dainful
