@@ -8594,7 +8594,6 @@ basigenic
 baronizing
 brie
 balladeroyal
-butterflyfishes
 babyfied
 believed
 bemusing
@@ -13763,6 +13762,7 @@ bikol
 brisa
 blindstorey
 beme
+butterflyfishes
 bowditch
 bloodthirstily
 byelaws
