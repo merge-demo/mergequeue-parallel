@@ -1348,7 +1348,6 @@ balat
 bibliophilist
 benzaldiphenyl
 balatte
-bergfall
 bernoullian
 bingy
 bedways
@@ -11072,6 +11071,7 @@ bibberies
 baals
 bichromatize
 blockboard
+bergfall
 benegro
 ballyhooer
 blocked
