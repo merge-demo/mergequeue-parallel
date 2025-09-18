@@ -9916,6 +9916,7 @@ accessions
 antimetathesis
 amblypodous
 ambital
+ayrshire
 autographing
 anisole
 avitaminoses
@@ -12990,7 +12991,6 @@ apozemical
 accouterments
 algebrization
 adapter
-ayrshire
 animant
 animastic
 animastical
