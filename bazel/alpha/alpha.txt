@@ -5105,7 +5105,6 @@ angakok
 antipoetic
 aerophilic
 antievolutionistic
-affiants
 anagennesis
 aftereye
 aspartyl
@@ -11701,6 +11700,7 @@ attractance
 analogy
 alee
 atony
+affiants
 ananta
 anaximandrian
 analogical
