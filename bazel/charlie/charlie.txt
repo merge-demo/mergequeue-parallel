@@ -9920,6 +9920,7 @@ crosette
 counterdash
 clamlike
 chemotherapeutically
+compenetration
 campanulales
 cretinism
 chemotherapeutics
@@ -20636,7 +20637,6 @@ compendium
 compendiums
 coremia
 cowhouse
-compenetration
 compensated
 compensates
 cerrero
