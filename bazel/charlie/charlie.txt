@@ -11958,6 +11958,7 @@ choriambus
 choric
 catlike
 chorines
+covalency
 collunarium
 chicadee
 consol
@@ -27463,7 +27464,6 @@ clodded
 covalences
 cloudland
 cracky
-covalency
 cavernoma
 carpoptosis
 coriander
