@@ -8242,7 +8242,6 @@ dicyema
 deflagrating
 diacromyodi
 deformism
-dacryocystotomy
 darghin
 diadelphous
 diaderm
@@ -15394,6 +15393,7 @@ dolmans
 diluviums
 dolmas
 desubstantiate
+dacryocystotomy
 deprecate
 deallocated
 discovery
