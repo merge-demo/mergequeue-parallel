@@ -10342,7 +10342,6 @@ bebait
 bummest
 bowpin
 blanc
-bombardments
 bergomask
 buncher
 bumbler
@@ -11508,6 +11507,7 @@ botanized
 bilateralness
 biosystematist
 brownshirt
+bombardments
 birdwomen
 biotron
 biarcuate

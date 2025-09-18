@@ -2648,6 +2648,7 @@ arak
 acritan
 authorizing
 asthenobiosis
+adopted
 acroa
 astringent
 any
@@ -4059,7 +4060,6 @@ accordance
 acinuni
 adopting
 anaerobies
-adopted
 adoption
 antedate
 abiotrophic
