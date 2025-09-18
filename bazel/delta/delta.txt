@@ -7562,6 +7562,7 @@ doorwise
 dur
 devachan
 disdainful
+divergement
 degger
 dibase
 disheritor
@@ -14425,7 +14426,6 @@ dibasic
 downstage
 dispireme
 dishabilitation
-divergement
 distensible
 dishpans
 demological
