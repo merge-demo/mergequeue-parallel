@@ -4887,6 +4887,7 @@ aerophyte
 assessory
 aerophobic
 aerophor
+adamant
 aloneness
 arrode
 areally
@@ -20942,7 +20943,6 @@ amman
 anticommutative
 albumenize
 asclepin
-adamant
 ashpan
 antiapoplectic
 aerogenesis
