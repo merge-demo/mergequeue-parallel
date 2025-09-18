@@ -5176,6 +5176,7 @@ berkeley
 barragan
 blastodisk
 bypasser
+blatterer
 behoove
 befringe
 branchiata
@@ -8431,7 +8432,6 @@ boiled
 bilianic
 boreism
 blear
-blatterer
 bhunder
 biliferous
 babysitter
