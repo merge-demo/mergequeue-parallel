@@ -6374,7 +6374,6 @@ dejeune
 damnum
 dominiums
 duodenum
-dermosclerite
 dermotropic
 dastardliness
 defined
@@ -8085,6 +8084,7 @@ dialects
 defences
 demographer
 dynasticism
+dermosclerite
 despotize
 diseasedness
 darya
