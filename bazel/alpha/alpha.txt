@@ -12349,6 +12349,7 @@ attenuated
 amanuenses
 abdal
 arterial
+apologal
 anemometrographically
 alfilaria
 azoturia
@@ -24450,7 +24451,6 @@ autourine
 autovalet
 autovalve
 autovivisection
-apologal
 autoxidation
 alcine
 aecidiospore
