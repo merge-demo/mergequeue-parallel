@@ -4201,7 +4201,6 @@ beaumont
 blepharoptosis
 beausire
 beauteous
-beauti
 bootie
 baetyl
 beauty
@@ -9325,6 +9324,7 @@ baronetship
 bullyrook
 birdless
 bimucronate
+beauti
 balbutiate
 birdlimes
 binghi
