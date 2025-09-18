@@ -10218,7 +10218,6 @@ doven
 dif
 declassified
 dings
-detectable
 despises
 dzeron
 diecase
@@ -13130,6 +13129,7 @@ dispensatory
 detrain
 diced
 disadvising
+detectable
 downwind
 develed
 dispensatress
