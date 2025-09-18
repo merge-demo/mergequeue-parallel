@@ -21532,7 +21532,6 @@ concordal
 circumundulation
 concordance
 carcavelhos
-commands
 corporacies
 curliewurly
 clementness
@@ -24315,6 +24314,7 @@ counterexample
 cnidaria
 cooees
 catchpoleship
+commands
 cooey
 complements
 cooeys
