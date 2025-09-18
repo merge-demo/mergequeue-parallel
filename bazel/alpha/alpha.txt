@@ -5042,7 +5042,6 @@ afterpart
 accend
 arawak
 assassination
-antiprecipitin
 aguinaldo
 ambiency
 afd
@@ -5760,6 +5759,7 @@ aggrammatism
 approachability
 aggrandised
 aphonics
+antiprecipitin
 altimettrically
 afterglows
 aggrandize
