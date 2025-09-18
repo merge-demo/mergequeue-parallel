@@ -6686,6 +6686,7 @@ admonitor
 amphithurthura
 aimara
 airmobile
+anecdotage
 airn
 anthropomorphical
 aloadae
@@ -12281,7 +12282,6 @@ anecdysis
 antianaphylactogen
 algesis
 armchairs
-anecdotage
 autonomical
 ajonjoli
 atomiferous
