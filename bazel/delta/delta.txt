@@ -4595,6 +4595,7 @@ demihaque
 demijambe
 discriminant
 dottled
+dishrags
 dukhobor
 destination
 dynastically
@@ -12498,7 +12499,6 @@ dishorn
 dislocable
 diastematic
 demarcated
-dishrags
 decentred
 dishtowels
 detrital
