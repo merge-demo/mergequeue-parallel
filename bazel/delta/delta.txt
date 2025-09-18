@@ -5588,6 +5588,7 @@ dukeship
 dowp
 disemplaned
 doronicum
+dollardee
 danglin
 deperdit
 duffel
@@ -13189,7 +13190,6 @@ dysphrasia
 diabolonian
 defaulter
 detrimental
-dollardee
 dominate
 dosimetrician
 demurrant
