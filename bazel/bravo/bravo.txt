@@ -878,7 +878,6 @@ basilicate
 bunters
 begoniaceae
 bicolour
-boulevardiers
 baggagemaster
 baggager
 beffroy
@@ -11906,6 +11905,7 @@ boffs
 boozify
 bankmen
 bilio
+boulevardiers
 betutored
 basinasial
 baggily
