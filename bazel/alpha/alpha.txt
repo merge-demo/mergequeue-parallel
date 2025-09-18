@@ -11283,7 +11283,6 @@ amplicative
 angerless
 autoelectrolytic
 annats
-amplify
 amplificate
 amplificative
 amplificatory
@@ -23958,6 +23957,7 @@ autodialed
 azathioprine
 adience
 apophysitis
+amplify
 acetylcyanide
 autodialing
 autodialled
