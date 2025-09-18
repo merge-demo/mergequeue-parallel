@@ -5785,6 +5785,7 @@ catenane
 cremates
 claybanks
 catenarian
+chevener
 catenas
 caudaite
 chincona
@@ -10126,7 +10127,6 @@ chiromant
 cystencyte
 chevaliers
 categorizers
-chevener
 carnivaler
 cheveret
 cheveril
