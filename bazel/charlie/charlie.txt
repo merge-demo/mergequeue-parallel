@@ -8593,7 +8593,6 @@ carrion
 craggier
 consumpt
 contradictious
-calenturing
 cymaphen
 circumadjacent
 chandui
@@ -16376,6 +16375,7 @@ czardases
 clisere
 cullibility
 clyses
+calenturing
 clysma
 cribral
 curvette
