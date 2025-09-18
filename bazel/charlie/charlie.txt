@@ -1201,7 +1201,6 @@ contender
 cauliferous
 calenda
 counterfaller
-chlored
 cambrel
 cameo
 calendarial
@@ -26895,6 +26894,7 @@ countermand
 calory
 commelinaceae
 craniological
+chlored
 contemner
 cushioniness
 chocolate

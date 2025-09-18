@@ -7463,7 +7463,6 @@ anastomos
 astragal
 amidist
 alcazaba
-alcazar
 adamance
 adsorbents
 asymptotical
@@ -10819,6 +10818,7 @@ amniotic
 amniotin
 aberr
 acerae
+alcazar
 alkaligen
 amniotitis
 agrammatism
