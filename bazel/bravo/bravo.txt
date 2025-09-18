@@ -2449,7 +2449,6 @@ betrinket
 backpackers
 blacksmith
 besodden
-bononian
 beseemingness
 brethrenism
 bargham
@@ -5586,6 +5585,7 @@ brabblement
 beclamoring
 bulimoid
 brunet
+bononian
 blinked
 baggages
 backlashing
