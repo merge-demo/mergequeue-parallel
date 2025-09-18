@@ -5496,7 +5496,6 @@ civilisation
 catagenetic
 catakinetic
 catakinomeric
-catalanganes
 catalatic
 cycledom
 comicoprosaic
@@ -20214,6 +20213,7 @@ caranday
 congratulable
 comminution
 chokingly
+catalanganes
 commiserates
 calcareocorneous
 commiserations

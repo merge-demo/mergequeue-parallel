@@ -11846,7 +11846,6 @@ aftergrind
 altarwise
 anarchist
 anarchists
-archeologically
 anarcho
 anarchosyndicalist
 acetylmethylcarbinol
@@ -17669,6 +17668,7 @@ antiguan
 applotment
 asphyxiate
 artemia
+archeologically
 arthrosclerosis
 appals
 antistatic
