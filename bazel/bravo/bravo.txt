@@ -7598,7 +7598,6 @@ boe
 blackflies
 biocenotic
 backlists
-boyardom
 babished
 baldricwise
 ballerina
@@ -18123,6 +18122,7 @@ balaamite
 boisseaux
 bacillite
 beknit
+boyardom
 biffins
 blacker
 braciola
