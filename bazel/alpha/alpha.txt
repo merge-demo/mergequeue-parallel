@@ -5927,6 +5927,7 @@ alkanal
 anklets
 agleaf
 acetify
+antiperistasis
 aglee
 aromatophor
 antidotary
@@ -11464,7 +11465,6 @@ archhead
 after
 airbrained
 anacamptics
-antiperistasis
 anthropomorpha
 anacanthine
 anergy
