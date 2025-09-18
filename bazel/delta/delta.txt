@@ -8263,6 +8263,7 @@ debouche
 dissectors
 diadochic
 diadochite
+drawability
 dethroner
 diadochokinesia
 diadoumenos
@@ -17566,7 +17567,6 @@ dissentience
 druggets
 dendroidea
 doorhawk
-drawability
 ditrocha
 desipient
 degassers
