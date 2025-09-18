@@ -452,7 +452,6 @@ dairywomen
 deaths
 descanting
 destituent
-demesgnes
 dayrooms
 diazoma
 deities
@@ -9757,6 +9756,7 @@ desiderate
 dilatants
 dilatate
 dilatative
+demesgnes
 demimentoniere
 deemphasis
 distillations
