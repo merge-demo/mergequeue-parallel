@@ -10187,7 +10187,6 @@ downy
 doater
 dinged
 daddle
-dorsoventrally
 duraquara
 dinghee
 desition
@@ -11828,6 +11827,7 @@ dandification
 delabialize
 dosserets
 diplosphene
+dorsoventrally
 deinodon
 discriminating
 decarboxylation
