@@ -9052,7 +9052,6 @@ alpigene
 almeriite
 almice
 almida
-ammonites
 apatite
 almner
 almohad
@@ -10707,6 +10706,7 @@ assized
 aits
 ammodytidae
 affricates
+ammonites
 ammodytoid
 abortionist
 ammonate
