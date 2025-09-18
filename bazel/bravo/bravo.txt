@@ -11936,7 +11936,6 @@ blindfoldly
 bogged
 boggier
 ballat
-bogginess
 bootlicking
 boggle
 boggler
@@ -16134,6 +16133,7 @@ boehmenite
 balneographer
 burlesqued
 bundh
+bogginess
 boosted
 bandboxy
 blackit

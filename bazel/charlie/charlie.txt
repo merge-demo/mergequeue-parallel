@@ -13855,7 +13855,6 @@ catalysis
 chondrofetal
 cingle
 cauchemar
-cingula
 chazzan
 chorei
 chronogenetic
@@ -30387,6 +30386,7 @@ carbonados
 crut
 crutch
 crutched
+cingula
 crutching
 crutter
 cowhands
