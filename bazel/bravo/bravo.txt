@@ -598,7 +598,6 @@ bibliolatry
 bowfins
 blanketed
 baconize
-bowlings
 buckass
 bierkeller
 boidae
@@ -1905,6 +1904,7 @@ bandle
 banishment
 bedrel
 bushcraft
+bowlings
 bycoket
 brainsickly
 barometry
