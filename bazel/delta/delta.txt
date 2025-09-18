@@ -6797,6 +6797,7 @@ decretalist
 desirer
 dimerous
 daira
+dodecahedric
 deadbeat
 deftnesses
 desires
@@ -16979,7 +16980,6 @@ discriminations
 deerstealer
 doubletone
 donate
-dodecahedric
 damewort
 displacing
 dreamiest
