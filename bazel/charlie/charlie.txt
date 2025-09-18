@@ -9517,7 +9517,6 @@ carriable
 commonize
 casehardens
 cricotracheotomy
-cloistral
 concionary
 comprehensibility
 checkrein
@@ -20127,6 +20126,7 @@ commensurable
 commensurably
 cubla
 curatorial
+cloistral
 commensurating
 commensurations
 corking
