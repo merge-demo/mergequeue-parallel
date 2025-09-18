@@ -18615,7 +18615,6 @@ considerateness
 clypeole
 coltpixy
 coif
-coiffed
 caustics
 callityping
 coiffeur
@@ -23094,6 +23093,7 @@ consortable
 cashew
 consorted
 consorter
+coiffed
 cavel
 cowled
 consortism
