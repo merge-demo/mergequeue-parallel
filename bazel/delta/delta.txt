@@ -6196,7 +6196,6 @@ derelinquish
 decrepitness
 demihigh
 desperation
-derencephalus
 doubtless
 decastylar
 decupled
@@ -10840,6 +10839,7 @@ demirelief
 deuterogelatose
 directdiscourse
 dynodes
+derencephalus
 doyleys
 desiccant
 divaricatingly
