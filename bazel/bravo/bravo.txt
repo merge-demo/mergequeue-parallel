@@ -12348,6 +12348,7 @@ boombox
 bemol
 bedizening
 belonephobia
+benzhydrol
 bergeres
 bluebill
 bombonne
@@ -18055,7 +18056,6 @@ baignet
 boatsman
 bangy
 belive
-benzhydrol
 bebrave
 bishopess
 bepiece
