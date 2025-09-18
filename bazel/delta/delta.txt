@@ -2171,6 +2171,7 @@ decantist
 daza
 decapitation
 dorm
+dwindlement
 decapitations
 disassemble
 dehydrogenation
@@ -18679,6 +18680,5 @@ debe
 detersively
 designation
 dwarfs
-dwindlement
 deports
 dwindling
