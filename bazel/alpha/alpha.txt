@@ -9664,7 +9664,6 @@ acmite
 antimorality
 amalgamist
 amperage
-amalgamization
 amesite
 amalic
 aisling
@@ -13249,6 +13248,7 @@ arraignableness
 assafetida
 ankylostomiasis
 attacolite
+amalgamization
 ankylotic
 anklejack
 amasta
