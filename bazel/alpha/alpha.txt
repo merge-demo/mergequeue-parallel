@@ -7075,7 +7075,6 @@ amurru
 azilian
 alantic
 alantin
-appertains
 aquabib
 alantolactone
 antityphoid
@@ -11331,6 +11330,7 @@ attendants
 advantaged
 alterations
 acrostical
+appertains
 apiphobia
 abmhos
 amsath
