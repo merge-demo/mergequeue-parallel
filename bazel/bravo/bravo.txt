@@ -9067,7 +9067,6 @@ bandhu
 billiardist
 biosphere
 breakdown
-bionomical
 biostatic
 biostatical
 bletting
@@ -15771,6 +15770,7 @@ buzzes
 bromelins
 batler
 brimming
+bionomical
 bryozoa
 biphasic
 bromes
