@@ -3998,6 +3998,7 @@ dramatically
 delegate
 dhooras
 doorsill
+dextro
 disposal
 delegates
 delegateship
@@ -17707,7 +17708,6 @@ diaclase
 dvorak
 downlike
 desulphurating
-dextro
 disapprovingly
 disanimal
 dimerisms
