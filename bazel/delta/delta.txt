@@ -3486,7 +3486,6 @@ dinghies
 defrayers
 dactyloid
 desaturate
-defraudation
 descensory
 desiccated
 desmomyaria
@@ -16145,6 +16144,7 @@ dirhinous
 darbyism
 douc
 douceness
+defraudation
 disarray
 despitous
 douceur
