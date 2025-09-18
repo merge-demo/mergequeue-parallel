@@ -394,6 +394,7 @@ beakless
 backhand
 backhandedness
 brinjarry
+baryphony
 brewery
 brachypodous
 bovarist
@@ -5868,7 +5869,6 @@ blisses
 belostomatidae
 bouillabaisse
 belostomidae
-baryphony
 bruta
 boroughmongery
 belotte

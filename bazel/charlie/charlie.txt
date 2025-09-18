@@ -5853,6 +5853,7 @@ cannibalic
 catha
 capillatus
 cathar
+catocala
 cribbage
 cathari
 catharina
@@ -19747,7 +19748,6 @@ comanches
 comandantes
 comandanti
 cutis
-catocala
 cinematics
 comandra
 countercathexis
