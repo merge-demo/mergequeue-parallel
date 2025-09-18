@@ -14694,7 +14694,6 @@ cystostomies
 chamberlet
 catilinarian
 cystotome
-cystotomy
 castellan
 cicatrisate
 cystotrachelotomy
@@ -18694,6 +18693,7 @@ chausses
 coinhered
 coinherence
 concubinehood
+cystotomy
 circuting
 coiny
 costiform
