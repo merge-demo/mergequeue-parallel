@@ -9445,6 +9445,7 @@ diamin
 diffusible
 diffusibleness
 diffusing
+didric
 dari
 deuteranomalous
 dereling
@@ -13025,7 +13026,6 @@ disgusts
 dreparnaudia
 disorientate
 dottrel
-didric
 disorients
 disown
 dysoxidation
