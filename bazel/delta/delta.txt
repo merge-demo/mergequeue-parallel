@@ -1825,7 +1825,6 @@ dextrotartaric
 deas
 deassimilation
 diapensiaceous
-drawcut
 discovered
 divalence
 debauched
@@ -7751,6 +7750,7 @@ deking
 deviatory
 delimitate
 digenous
+drawcut
 disciplinary
 devildom
 dealerdom
