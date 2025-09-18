@@ -538,6 +538,7 @@ discomforter
 denaturalize
 dopesters
 descended
+delegateship
 disguised
 demicadence
 dup
@@ -4004,7 +4005,6 @@ doorsill
 dextro
 disposal
 delegates
-delegateship
 demeore
 dermatosis
 dermographism
