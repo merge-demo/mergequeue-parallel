@@ -23432,7 +23432,6 @@ containerport
 copasetic
 calami
 cecidologist
-cyrtostyle
 containership
 centenarianism
 containing
@@ -29344,6 +29343,7 @@ crypturidae
 cris
 capax
 cinemese
+cyrtostyle
 chairperson
 caserns
 crisic
