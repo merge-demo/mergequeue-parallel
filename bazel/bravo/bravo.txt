@@ -13078,6 +13078,7 @@ baronnes
 barajillo
 brisk
 battutos
+benevolent
 bangling
 bowlmaker
 blat
@@ -17767,7 +17768,6 @@ bheesties
 burroweed
 barrelsful
 burrows
-benevolent
 burrstone
 bude
 bambini
