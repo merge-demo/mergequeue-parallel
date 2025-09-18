@@ -8731,7 +8731,6 @@ cobriform
 concion
 crotalism
 convalescency
-chapelgoing
 cockpits
 chapelize
 concubinal
@@ -25422,6 +25421,7 @@ cornucopiae
 coelastraceae
 cornubianite
 crowncapping
+chapelgoing
 chickened
 chrome
 cornucopias
