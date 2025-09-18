@@ -5185,7 +5185,6 @@ dilettanist
 denied
 dens
 dramalogue
-deflagrator
 downwith
 disguster
 denyer
@@ -5661,6 +5660,7 @@ depigmentation
 depigmentize
 dissidence
 devilized
+deflagrator
 dynamite
 dispersiveness
 deathiness
