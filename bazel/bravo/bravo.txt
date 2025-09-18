@@ -13188,6 +13188,7 @@ britannica
 borwort
 bloodthirst
 battlepiece
+barbiturate
 bloodbath
 boschneger
 brigue
@@ -15094,7 +15095,6 @@ bronchorrhaphy
 bribers
 bicentennials
 bedeaf
-barbiturate
 brawly
 backslash
 bonelet
