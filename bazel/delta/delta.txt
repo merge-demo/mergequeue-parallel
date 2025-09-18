@@ -12682,7 +12682,6 @@ didy
 daltonism
 dyskeratosis
 diskette
-diskindness
 diskography
 dvandva
 dawing
@@ -18236,6 +18235,7 @@ discommendation
 dunderfunk
 dicyemida
 deliverly
+diskindness
 dunderheadedness
 disnature
 discostomatous
