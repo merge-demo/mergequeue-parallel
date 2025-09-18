@@ -17810,6 +17810,7 @@ approach
 aristodemocracy
 anthracotheriidae
 abilitable
+assumes
 approached
 aclemon
 argillitic
@@ -21858,7 +21859,6 @@ anthelmintic
 aircrewmen
 anaeroplastic
 argentometrically
-assumes
 apothesis
 assuming
 aquilegia
