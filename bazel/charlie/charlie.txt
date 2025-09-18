@@ -1005,7 +1005,6 @@ chorioallantoid
 calcaneoplantar
 competency
 calcaneoscaphoid
-crabbing
 calcannea
 calcannei
 channellers
@@ -6599,6 +6598,7 @@ cahnite
 cedrat
 cedrate
 cedrela
+crabbing
 cosovereignty
 coustumier
 cedrene
