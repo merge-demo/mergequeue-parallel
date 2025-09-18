@@ -13275,7 +13275,6 @@ cyclolysis
 commandeering
 chrysarobin
 cyclomania
-cyclometer
 couchers
 clipperman
 cyclometric
@@ -29320,6 +29319,7 @@ cryptoscope
 cryptoscopy
 cryptosplenetic
 cuddleable
+cyclometer
 cofferlike
 cryptous
 cryptovalence
