@@ -11506,7 +11506,6 @@ carbonizer
 cummin
 chokies
 cordovans
-colophonite
 crossosoma
 catagenesis
 costoxiphoid
@@ -28695,6 +28694,7 @@ constringe
 crepes
 coincides
 crepine
+colophonite
 creping
 colons
 churled
