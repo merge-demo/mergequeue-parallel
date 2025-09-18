@@ -6784,7 +6784,6 @@ desinent
 dispend
 dallying
 defectious
-desynonymize
 deevey
 dopatta
 dentality
@@ -15984,6 +15983,7 @@ dobzhansky
 doped
 darjeeling
 dahs
+desynonymize
 diapasons
 dispatchers
 dorcatherium
