@@ -6353,6 +6353,7 @@ desperance
 dorsoapical
 dean
 disattune
+depthwise
 dermoidectomy
 depauperize
 dgag
@@ -8557,7 +8558,6 @@ departmentally
 doughnut
 demiplate
 dethrone
-depthwise
 diaphanometric
 dystomous
 dampishness
