@@ -5403,7 +5403,6 @@ doubtably
 duodenas
 drossed
 dish
-diamonds
 disputisoun
 drown
 duodecimality
@@ -16976,6 +16975,7 @@ distemperment
 descriptory
 dreadly
 dreadlocks
+diamonds
 dingeing
 disport
 demobilizations
