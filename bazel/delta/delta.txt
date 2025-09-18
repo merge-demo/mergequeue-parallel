@@ -5243,7 +5243,6 @@ denotes
 docetistic
 denoting
 deeping
-denouement
 denouements
 discouragement
 durezza
@@ -8336,6 +8335,7 @@ doryline
 diaguite
 dyak
 defensively
+denouement
 dapper
 declensions
 decomposed
