@@ -646,7 +646,6 @@ abomine
 attainer
 antiempiricism
 albopannin
-adlegiare
 adjacent
 abondance
 apostrophation
@@ -22068,6 +22067,7 @@ amerindians
 annualize
 acotyledon
 autoimmunized
+adlegiare
 aecidiaceae
 aphotic
 anusim
