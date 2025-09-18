@@ -2557,7 +2557,6 @@ archaeologian
 acetiam
 affixment
 assuaging
-acquittal
 alangine
 acquitter
 acquophonia
@@ -17711,6 +17710,7 @@ astraeidae
 apposer
 antiaris
 alida
+acquittal
 arrearage
 aerotropic
 arras
