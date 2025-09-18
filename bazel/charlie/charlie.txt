@@ -3132,6 +3132,7 @@ cachepots
 crosshatcher
 calibanism
 collagen
+compartition
 currish
 caperingly
 cribbiter
@@ -20556,7 +20557,6 @@ customhouse
 compartimenti
 chimley
 congreganist
-compartition
 chained
 chemically
 cocarboxylase
