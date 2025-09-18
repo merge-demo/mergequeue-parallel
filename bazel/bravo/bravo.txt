@@ -4357,6 +4357,7 @@ beplague
 bronchopneumonic
 bamalip
 baublery
+bests
 beldam
 bunyip
 byworks
@@ -12392,7 +12393,6 @@ basally
 bonav
 banquette
 bowling
-bests
 bonbo
 bowerlike
 bakeout
