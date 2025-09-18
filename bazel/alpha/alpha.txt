@@ -17294,6 +17294,7 @@ araucarian
 apothecal
 antidiphtherin
 anthraconecrosis
+alfaki
 apothecarcaries
 assemblee
 astrean
@@ -21629,7 +21630,6 @@ assert
 aesthesics
 asserted
 asserter
-alfaki
 automatics
 agrise
 archegonium
