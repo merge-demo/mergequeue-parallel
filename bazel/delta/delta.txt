@@ -1993,6 +1993,7 @@ disseize
 downline
 dedans
 dyadically
+dioecism
 demagogies
 disenact
 dopping
@@ -10316,7 +10317,6 @@ decalcification
 draftmanship
 dynamogenous
 dighting
-dioecism
 didrachmal
 daguerreotype
 deoxyribonucleic
