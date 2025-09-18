@@ -5748,7 +5748,6 @@ diachyma
 desalination
 duals
 dekastere
-deplorableness
 drivellers
 disrepair
 deplore
@@ -13624,6 +13623,7 @@ dandyishly
 doucin
 detachs
 diplosis
+deplorableness
 demivolts
 durity
 degases
