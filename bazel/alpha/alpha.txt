@@ -95,7 +95,6 @@ accelerator
 antipriestcraft
 adda
 abaptiston
-auscultate
 auditories
 abarticulation
 agyieus
@@ -24911,6 +24910,7 @@ ameristic
 assoria
 automotor
 awane
+auscultate
 ankylose
 adroit
 awkwardish
