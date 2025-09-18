@@ -11293,6 +11293,7 @@ chlorodizing
 corylopsis
 cradlers
 chloroethene
+charting
 chlorofluorocarbon
 chlorofluoromethane
 ceylanite
@@ -27737,7 +27738,6 @@ criticsm
 confides
 cox
 cohog
-charting
 coxa
 caryophylleous
 comephorous
