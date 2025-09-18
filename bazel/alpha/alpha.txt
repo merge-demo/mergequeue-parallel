@@ -3207,7 +3207,6 @@ adamsia
 adiathermanous
 adobes
 ardisia
-arhat
 adamsites
 androgynies
 anthracia
@@ -22128,6 +22127,7 @@ astragalotibial
 anomalism
 archaeolith
 adiamorphism
+arhat
 antimissile
 azoeosin
 aetheogamic
