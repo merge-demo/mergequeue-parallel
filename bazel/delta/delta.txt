@@ -3128,7 +3128,6 @@ deodorant
 diluviate
 disgout
 dissimulated
-defeatism
 drouths
 deinosaur
 defeature
@@ -16138,6 +16137,7 @@ doubloon
 doublures
 doaty
 dopinesses
+defeatism
 doubters
 depression
 droseraceae
