@@ -3323,7 +3323,6 @@ capotastos
 choicest
 celsius
 carrots
-capote
 cranium
 cyclohexene
 caudolateral
@@ -15747,6 +15746,7 @@ crossweed
 corin
 cleam
 chamicuro
+capote
 confectioneries
 clean
 cardiology
