@@ -3939,6 +3939,7 @@ bucktails
 beautification
 bodysurfer
 batrachospermum
+blattid
 bafflement
 barbeiro
 beaminess
@@ -10538,7 +10539,6 @@ bachelorship
 buduma
 begattal
 buns
-blattid
 burnewin
 ballahoo
 brockish
