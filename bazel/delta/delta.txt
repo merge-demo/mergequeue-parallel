@@ -6368,6 +6368,7 @@ dorsoapical
 dean
 disattune
 dermoidectomy
+depauperize
 dgag
 dermoneural
 drassid
@@ -14180,7 +14181,6 @@ diapnotic
 disaffiliate
 disunify
 dolesman
-depauperize
 diastatically
 dermatomic
 deleter
