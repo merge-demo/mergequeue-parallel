@@ -421,7 +421,6 @@ assistor
 aggressiveness
 agarose
 algores
-abigeat
 antihydropic
 aridness
 abying
@@ -3223,6 +3222,7 @@ adaptableness
 almocrebe
 anthraquinol
 adaptations
+abigeat
 anthrapyridine
 admonitionist
 allegorize
