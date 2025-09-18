@@ -24674,7 +24674,6 @@ cambrics
 chinoa
 corimelaena
 copperskin
-ciderist
 coppersmith
 citral
 coppersmithing
@@ -24866,6 +24865,7 @@ corallidomous
 chestful
 coralliform
 cobreathe
+ciderist
 coralligena
 coralligenous
 coralligerous
