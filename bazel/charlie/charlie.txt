@@ -3634,7 +3634,6 @@ coenaesthesis
 coleopterological
 carangin
 carangoid
-coemptive
 civilian
 chabutra
 ceil
@@ -19549,6 +19548,7 @@ compositous
 colostrous
 colostrum
 colotomy
+coemptive
 colotomies
 configurational
 colourable
