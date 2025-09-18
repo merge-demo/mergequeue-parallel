@@ -1059,6 +1059,7 @@ centesimos
 calcifugal
 calcigenous
 chamaesiphonaceous
+cookshop
 calcimined
 calcimines
 crudeness
@@ -24354,7 +24355,6 @@ concentrate
 caverning
 caritas
 cadmopone
-cookshop
 cookshops
 cards
 colligible
