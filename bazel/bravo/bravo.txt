@@ -8110,7 +8110,6 @@ bindweeds
 bidri
 brutelike
 barmaids
-bespreading
 blossomed
 bivalencies
 bornane
@@ -9465,6 +9464,7 @@ birthright
 baffeta
 births
 brontephobia
+bespreading
 bercelet
 bulliform
 birthstool
