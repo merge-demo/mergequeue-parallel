@@ -15502,6 +15502,7 @@ cowtail
 competitioner
 constrainable
 chirotonsor
+cheka
 cockalan
 caryota
 clarre
@@ -28485,7 +28486,6 @@ credences
 credencive
 conditioning
 credenda
-cheka
 confluently
 cassada
 credentialed
