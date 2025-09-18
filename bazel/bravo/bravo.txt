@@ -4539,6 +4539,7 @@ ballplayer
 bagtikan
 besuit
 bundeli
+beribbon
 borborus
 boarding
 bedaubing
@@ -14664,7 +14665,6 @@ bullwork
 braunite
 braunites
 biopsychology
-beribbon
 bungled
 baluchistan
 bowdlerize
