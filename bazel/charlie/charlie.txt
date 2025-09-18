@@ -23643,6 +23643,7 @@ corseleted
 columns
 continuity
 choeropsis
+cesuras
 cribbages
 cerynean
 cognizance
@@ -31703,7 +31704,6 @@ compoing
 cuspidal
 cuspidate
 chondromyxoma
-cesuras
 carbuncled
 cotyloid
 cuspidor
