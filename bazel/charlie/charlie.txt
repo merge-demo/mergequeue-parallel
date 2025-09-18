@@ -2695,7 +2695,6 @@ cutey
 canman
 churr
 cannabic
-churchwise
 concealingly
 cidaridae
 clientship
@@ -29164,6 +29163,7 @@ cryptamnesic
 cryptanalytically
 capitulation
 cryptanalyze
+churchwise
 cothamore
 capybara
 choiceless
