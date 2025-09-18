@@ -5887,7 +5887,6 @@ broadpiece
 brontothere
 buffaloes
 belauding
-bimetalic
 bejant
 belter
 baccillla
@@ -18204,6 +18203,7 @@ borated
 beshadowing
 brisken
 bajri
+bimetalic
 bandusia
 beyond
 bucranium
