@@ -4608,6 +4608,7 @@ drawtubes
 deoperculate
 delightless
 demilitarization
+diffarreation
 dibranchiate
 demilitarized
 defencelessly
@@ -9359,7 +9360,6 @@ dactylography
 diffame
 desalted
 dipso
-diffarreation
 depolarised
 destroyers
 diethylaminoethanol
