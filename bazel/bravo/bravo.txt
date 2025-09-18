@@ -1556,6 +1556,7 @@ ballas
 barbouillage
 baronetised
 beeherd
+boatsetter
 blastemata
 bersiamite
 branchiate
@@ -11651,7 +11652,6 @@ bringal
 bulldoggish
 beigy
 busied
-boatsetter
 bisymmetric
 boatsteerer
 beclogs
