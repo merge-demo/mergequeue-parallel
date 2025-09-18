@@ -11507,7 +11507,6 @@ coexertion
 carbonizer
 cummin
 chokies
-cordovans
 crossosoma
 catagenesis
 costoxiphoid
@@ -29997,6 +29996,7 @@ crouperbush
 cuggermugger
 clearstarch
 chromo
+cordovans
 challengeable
 casualties
 corrigibility
