@@ -8110,7 +8110,6 @@ crepuscule
 coraciae
 conceptions
 chainless
-counteractions
 craspedon
 chainlike
 clericalism
@@ -11320,6 +11319,7 @@ chlorometry
 coopted
 capman
 chloromycetin
+counteractions
 curbed
 chloronitrate
 colonizer
