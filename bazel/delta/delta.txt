@@ -570,6 +570,7 @@ damagers
 dumber
 duodecillionth
 dextrorotation
+distorter
 dieback
 delisk
 dialyzing
@@ -13981,7 +13982,6 @@ dinkies
 dildos
 dolabra
 disannul
-distorter
 distress
 dismount
 dactylioglyphy
