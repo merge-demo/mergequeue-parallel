@@ -112,6 +112,7 @@ chlorococcales
 capacitated
 cabinetted
 clitelline
+chiquest
 cabinetworker
 cabinlike
 crafter
@@ -14549,7 +14550,6 @@ cerilla
 cantillated
 counterscalloped
 catheads
-chiquest
 construes
 cyst
 cantara
