@@ -9115,6 +9115,7 @@ charterers
 charterhouse
 chartering
 charterism
+cyllenius
 calipers
 charterless
 chartermaster
@@ -13512,7 +13513,6 @@ chloroformize
 cylix
 coxcombhood
 cyllenian
-cyllenius
 cillosis
 conundrum
 compliance
