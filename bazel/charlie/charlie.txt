@@ -5243,7 +5243,6 @@ cistus
 cassiepeia
 cassimere
 caurus
-cassina
 corymbed
 cyathophylline
 cassinos
@@ -5906,6 +5905,7 @@ cathedratic
 cathedraticum
 couths
 cathepsin
+cassina
 cathern
 catties
 catheterise
