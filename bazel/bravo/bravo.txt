@@ -85,6 +85,7 @@ brownie
 beknottedness
 bulwarks
 baccarat
+barbwire
 bori
 barkened
 backstretch
@@ -13722,7 +13723,6 @@ bifidity
 bescurf
 burga
 bufflehorn
-barbwire
 banisher
 biperforate
 bicycled
