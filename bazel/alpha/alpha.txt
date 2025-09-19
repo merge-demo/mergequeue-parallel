@@ -20530,7 +20530,6 @@ arthroncus
 androidal
 arthropathic
 arthrophyma
-arthrophlogosis
 anencephaly
 abdaria
 afrikaner
@@ -22272,6 +22271,7 @@ advancers
 astromancer
 astromeda
 apophyges
+arthrophlogosis
 aliments
 anchistea
 astrometeorology
