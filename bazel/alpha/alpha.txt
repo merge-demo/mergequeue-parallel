@@ -2451,7 +2451,6 @@ artisan
 avoucher
 aconelline
 autoactive
-aconine
 afdecho
 amphicyrtic
 aconital
@@ -6176,6 +6175,7 @@ amoeba
 anamorphote
 ametrometer
 agriculturists
+aconine
 aftergood
 agrilus
 acidulates
