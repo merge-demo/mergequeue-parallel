@@ -1287,6 +1287,7 @@ drouthier
 dusted
 diazoic
 denari
+dezincification
 datives
 deplane
 desmids
@@ -8600,7 +8601,6 @@ diaphoretics
 diaphorite
 decating
 decasualisation
-dezincification
 duodenation
 disillusionising
 demonship
