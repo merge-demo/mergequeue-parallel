@@ -6661,6 +6661,7 @@ buffoons
 bayonet
 bionic
 berchemia
+bioacoustics
 brakesmen
 bentincks
 bandpass
@@ -6741,7 +6742,6 @@ bradylalia
 bertie
 bemaddens
 bertolonia
-bioacoustics
 broiders
 bertrum
 bullarium
