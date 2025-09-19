@@ -2815,7 +2815,6 @@ cuerpo
 carven
 canones
 canonicalization
-cultivable
 compte
 catheterising
 cinctures
@@ -20129,6 +20128,7 @@ commensurability
 commensurable
 commensurably
 cubla
+cultivable
 curatorial
 cloistral
 commensurating
