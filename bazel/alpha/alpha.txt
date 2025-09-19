@@ -14890,7 +14890,6 @@ airbus
 autocriticism
 auk
 achyrodes
-anticritic
 abranchialism
 anticlinorium
 anticritical
@@ -23040,6 +23039,7 @@ amphibology
 artel
 arsonvalization
 archiepiscopate
+anticritic
 affrighting
 appercipient
 akelas
