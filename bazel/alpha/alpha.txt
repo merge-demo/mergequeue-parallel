@@ -11055,6 +11055,7 @@ achtel
 amphiboly
 ablush
 argh
+apoikia
 aoristic
 aminase
 affliction
@@ -21607,7 +21608,6 @@ assentator
 anonyma
 asphyxied
 assentatory
-apoikia
 aventure
 assented
 assenter
