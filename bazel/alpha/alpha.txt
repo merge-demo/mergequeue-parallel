@@ -22330,6 +22330,7 @@ aswash
 abiotic
 adyton
 aristarchy
+assailant
 asweve
 ammoniacum
 alexiteric
@@ -23543,7 +23544,6 @@ apologetics
 auriculas
 aviate
 ambidexter
-assailant
 amioidei
 autoregulation
 auriculocranial
