@@ -10054,7 +10054,6 @@ cherubim
 cherubimic
 calculatory
 cherublike
-carpals
 calzone
 cherusci
 carrefour
@@ -14322,6 +14321,7 @@ catarrhinian
 coarse
 chanties
 cleanhandedness
+carpals
 conferring
 cevadilla
 conamed
