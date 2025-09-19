@@ -600,6 +600,7 @@ astigmatism
 alastrim
 astrologic
 acetoamidophenol
+anelastic
 airinesses
 affranchisement
 aslantwise
@@ -24481,7 +24482,6 @@ aerophile
 auxiliaries
 abiosis
 anthocephalous
-anelastic
 auxiliator
 auxilytic
 auxin
