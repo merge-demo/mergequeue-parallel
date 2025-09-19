@@ -532,7 +532,6 @@ autonomous
 absent
 arrestor
 abluent
-aventurine
 agla
 astatically
 amens
@@ -12096,6 +12095,7 @@ accentuating
 ancistrocladaceous
 ancistroid
 ancodont
+aventurine
 animalism
 ancoly
 acceptavit
