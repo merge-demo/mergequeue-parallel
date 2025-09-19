@@ -6864,7 +6864,6 @@ bagoong
 beshaming
 bibiri
 bootmaker
-beshivered
 bouffe
 browse
 bristlebird
@@ -15578,6 +15577,7 @@ botulismus
 blastomycetes
 blown
 beltis
+beshivered
 bewildered
 bepuzzlement
 broadish

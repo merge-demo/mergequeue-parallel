@@ -5951,7 +5951,6 @@ avouches
 airlock
 astrionics
 asquare
-aglipayano
 aglypha
 analogal
 articular
@@ -17868,6 +17867,7 @@ approximal
 athreptic
 apochromatic
 achromoderma
+aglipayano
 approximants
 avifaunae
 acridly
