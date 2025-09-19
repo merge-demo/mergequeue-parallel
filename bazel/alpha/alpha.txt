@@ -3691,6 +3691,7 @@ adin
 araneose
 adynamia
 arawakian
+antelopian
 adion
 amphitruo
 amphithuron
@@ -24733,7 +24734,6 @@ alternators
 avidin
 abacot
 angioasthenia
-antelopian
 alexines
 avidous
 avifaunas
