@@ -16012,7 +16012,6 @@ antisialagogue
 absorbance
 amphitryon
 antisideric
-antisilverite
 antisymmetry
 aethalioid
 africanization
@@ -18107,6 +18106,7 @@ aquifuge
 aquilaria
 aquilia
 aquilian
+antisilverite
 adverse
 aquilid
 autotheism
