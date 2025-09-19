@@ -8575,7 +8575,6 @@ duchy
 departmentally
 doughnut
 demiplate
-dethrone
 diaphanometric
 dystomous
 dampishness
@@ -13741,6 +13740,7 @@ dissour
 dissolves
 dreamboat
 disillusionize
+dethrone
 durance
 desugaring
 degression
