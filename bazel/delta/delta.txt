@@ -4595,7 +4595,6 @@ demihagbut
 demihaque
 demijambe
 discriminant
-dottled
 dishrags
 dukhobor
 destination
@@ -9376,6 +9375,7 @@ desalted
 dipso
 depolarised
 destroyers
+dottled
 diethylaminoethanol
 doited
 differed
