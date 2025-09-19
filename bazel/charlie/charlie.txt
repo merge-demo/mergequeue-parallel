@@ -14545,7 +14545,6 @@ chang
 castellans
 cissus
 cist
-cinuran
 cankerwort
 corsetry
 cutinizes
@@ -22559,6 +22558,7 @@ conjugality
 cv
 conjugatae
 cyprinine
+cinuran
 conjugated
 conduplicated
 cyanimide
