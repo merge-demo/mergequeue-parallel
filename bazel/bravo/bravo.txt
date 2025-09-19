@@ -11520,7 +11520,6 @@ birdwomen
 biotron
 biarcuate
 branular
-bastnasite
 barkery
 barbicel
 bestows
@@ -17492,6 +17491,7 @@ bricklay
 billycans
 bureaucratization
 blimpishness
+bastnasite
 breastpiece
 blindfish
 beccafico
