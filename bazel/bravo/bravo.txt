@@ -16841,7 +16841,6 @@ bugling
 buglosses
 bugong
 burrah
-balloonlike
 bituminous
 bugout
 bugs
@@ -17744,6 +17743,7 @@ burps
 burrbark
 burrers
 burrfish
+balloonlike
 bullwhipping
 biscot
 buzzle
