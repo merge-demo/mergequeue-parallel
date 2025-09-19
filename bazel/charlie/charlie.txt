@@ -1765,7 +1765,6 @@ contubernial
 camaca
 collochromate
 circularizing
-cambrian
 camaieu
 camailed
 calzada
@@ -26387,6 +26386,7 @@ collector
 consistible
 calycophoran
 crackpot
+cambrian
 cotised
 colegislator
 cotising
