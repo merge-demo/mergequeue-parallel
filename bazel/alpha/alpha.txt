@@ -7568,7 +7568,6 @@ alcoholometer
 apterygial
 alcoholometric
 antitaxation
-alcohols
 alconde
 anthema
 alcoothionic
@@ -8702,6 +8701,7 @@ allobroges
 allobrogical
 antiantitoxin
 allocatable
+alcohols
 absorption
 airmails
 allocate
