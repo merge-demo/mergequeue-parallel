@@ -1233,7 +1233,6 @@ doormat
 devilhood
 datana
 discounting
-dwell
 denasalizing
 datapac
 dictyonema
@@ -6218,6 +6217,7 @@ derivant
 deriding
 deringa
 diffuseness
+dwell
 did
 demidog
 dimerizes
