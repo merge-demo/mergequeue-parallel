@@ -2288,7 +2288,6 @@ deflex
 durian
 douser
 domineerer
-determinative
 demnition
 dowset
 dyewoods
@@ -11579,6 +11578,7 @@ dallyingly
 discommode
 discommoding
 discommodiously
+determinative
 degausses
 decapitating
 downton
