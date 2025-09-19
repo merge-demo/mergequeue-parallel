@@ -2594,7 +2594,6 @@ dita
 diadema
 distinguishing
 disinformation
-decoke
 duplicitas
 decoll
 deguelia
@@ -15602,6 +15601,7 @@ dehumanize
 disposers
 dondaine
 desertedly
+decoke
 drawly
 done
 dihydrocuprin

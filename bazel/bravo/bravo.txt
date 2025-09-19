@@ -3492,7 +3492,6 @@ boltonite
 bagworms
 blotlessness
 biennium
-berginize
 biotherapy
 boyla
 batamote
@@ -10915,6 +10914,7 @@ browpiece
 bottom
 blizzards
 bridleless
+berginize
 bacterium
 barth
 baroqueness
