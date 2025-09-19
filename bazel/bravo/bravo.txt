@@ -2024,6 +2024,7 @@ banjuke
 bathymetry
 beflecking
 bank
+barblet
 bankalachi
 bidactyl
 bankcard
@@ -15244,7 +15245,6 @@ brieflessly
 bracozzo
 bleeds
 bedstaves
-barblet
 bulgers
 backie
 bierstuben
