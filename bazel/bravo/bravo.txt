@@ -520,7 +520,6 @@ backstops
 backstrapped
 backstreet
 blastophoric
-bismuthiferous
 butomaceous
 backstroke
 blunger
@@ -11846,6 +11845,7 @@ believing
 brushlike
 brandishers
 bestowals
+bismuthiferous
 bodicemaking
 bodied
 becrowding
