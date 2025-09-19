@@ -19775,7 +19775,6 @@ comatosity
 carpitis
 caveatee
 comatula
-cloacitis
 combaron
 caraganas
 carper
@@ -22122,6 +22121,7 @@ confidant
 colyone
 conred
 canellaceae
+cloacitis
 catoptromancy
 calcinize
 cosuretyship
