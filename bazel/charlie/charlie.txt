@@ -4393,7 +4393,6 @@ carked
 champing
 canarin
 carl
-coprincipate
 caseates
 cert
 carli
@@ -22503,6 +22502,7 @@ cinnamonroot
 conite
 coniums
 conyza
+coprincipate
 chickies
 conj
 conjective
