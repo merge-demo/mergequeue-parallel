@@ -4553,6 +4553,7 @@ beats
 bedazement
 blared
 batan
+blowlamp
 banters
 bowsprit
 bilker
@@ -11303,7 +11304,6 @@ blenniiformes
 backsides
 biset
 bachelor
-blowlamp
 bananas
 blowoff
 blowouts
