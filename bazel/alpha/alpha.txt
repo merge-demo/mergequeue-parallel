@@ -1277,7 +1277,6 @@ arillated
 anesthetic
 acate
 adolescing
-adephagia
 acatery
 argentinize
 antinomianism
@@ -16904,6 +16903,7 @@ apocalypst
 adhocracy
 apocalypt
 ascetically
+adephagia
 agoraphobiac
 autohemolysin
 afrete
