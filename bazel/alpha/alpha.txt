@@ -18914,7 +18914,6 @@ archmonarch
 aristocraticalness
 anguish
 archmugwump
-archantiquary
 astaticism
 adhering
 astronautical
@@ -19898,6 +19897,7 @@ armrack
 azans
 afterclap
 arabesques
+archantiquary
 armscye
 armseye
 aals
