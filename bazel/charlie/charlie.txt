@@ -2761,7 +2761,6 @@ cannister
 cannoli
 cannonaded
 celioschisis
-cohorts
 cannonading
 cannonballed
 commercialistic
@@ -4582,6 +4581,7 @@ caoba
 carols
 carolus
 chemicocautery
+cohorts
 causeless
 cementite
 caroluses
