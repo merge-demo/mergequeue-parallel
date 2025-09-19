@@ -18924,7 +18924,6 @@ colymbriformes
 credent
 chequy
 colymbus
-choroid
 chelodina
 creches
 cabins
@@ -31126,6 +31125,7 @@ cunjer
 crystalliferous
 counternotice
 cunnilinctus
+choroid
 cunnilinguism
 cavalries
 cunninger
