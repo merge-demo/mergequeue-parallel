@@ -3194,7 +3194,6 @@ decorativeness
 defenestrating
 dayside
 defenseless
-defenselessly
 devitalising
 dyingness
 dolichostylous
@@ -10436,6 +10435,7 @@ discoursively
 dotards
 djibouti
 dioxime
+defenselessly
 diverges
 dagbane
 dioxindole
