@@ -8868,6 +8868,7 @@ cuniform
 characteristically
 characteristicalness
 cucaracha
+copepodous
 characterization
 characterizing
 courtier
@@ -21692,7 +21693,6 @@ cooly
 condiddlement
 condiddling
 circumscript
-copepodous
 consternated
 condignity
 condignly
