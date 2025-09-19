@@ -8693,7 +8693,6 @@ chanteur
 chanteuse
 cossacks
 codiales
-chanteuses
 chanticleers
 capreomycin
 chantilly
@@ -31035,6 +31034,7 @@ chry
 cotyttia
 cummer
 cummerbund
+chanteuses
 cummerbunds
 cummers
 cummingtonite
