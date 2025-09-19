@@ -3035,6 +3035,7 @@ cantrip
 cantuta
 cantwise
 canula
+clack
 canulae
 canulas
 canulates
@@ -15110,7 +15111,6 @@ clabularium
 convoking
 clach
 chlorogenine
-clack
 clackama
 cellblock
 chinsed
