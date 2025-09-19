@@ -10424,7 +10424,6 @@ defecate
 dustbin
 discourtship
 dioxid
-divergence
 drabler
 disfavors
 dioxides
@@ -13052,6 +13051,7 @@ dithecous
 denticule
 dispeed
 damlike
+divergence
 demigorge
 dairymaids
 dispark
