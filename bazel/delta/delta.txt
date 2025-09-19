@@ -1635,7 +1635,6 @@ digression
 deairing
 deflexionize
 defalcated
-discernableness
 deairs
 didascaly
 drupelet
@@ -18593,6 +18592,7 @@ destructions
 duskingtide
 duskishness
 dogtrotting
+discernableness
 dewool
 dust
 danseurs
