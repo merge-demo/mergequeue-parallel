@@ -11927,6 +11927,7 @@ capparid
 calculabilities
 crestfallenness
 cohanim
+cymbaline
 choreoid
 crocidolite
 cuittle
@@ -16461,7 +16462,6 @@ chaunt
 cloakmaker
 constrainer
 cloakmaking
-cymbaline
 correspondences
 cloakroom
 chlorophenothane
