@@ -9875,6 +9875,7 @@ discriminated
 dudder
 dilo
 differentially
+dirity
 disenamour
 descendant
 dinosaur
@@ -10910,7 +10911,6 @@ deindustrialize
 dirty
 daekon
 dirigo
-dirity
 domeykite
 dependantly
 daised
