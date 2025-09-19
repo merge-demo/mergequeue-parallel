@@ -6330,6 +6330,7 @@ crocodylidae
 car
 checklists
 cribbers
+chicaned
 cilantro
 cautery
 cauteries
@@ -31505,7 +31506,6 @@ curring
 currock
 capsuligerous
 collectivization
-chicaned
 cursa
 curse
 cursedly
