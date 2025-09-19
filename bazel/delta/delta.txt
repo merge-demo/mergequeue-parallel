@@ -3149,6 +3149,7 @@ dorsers
 dulciana
 deflagrable
 defectum
+diplostemony
 dummkopf
 dasyures
 daggle
@@ -16646,7 +16647,6 @@ deuteromycetes
 deepsome
 dissembly
 darwinian
-diplostemony
 dragman
 dragoman
 dognaper
