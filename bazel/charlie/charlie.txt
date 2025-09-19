@@ -6051,6 +6051,7 @@ catstitcher
 calcitreation
 cineraria
 countershafting
+cerate
 coassisting
 closeted
 catsups
@@ -7445,7 +7446,6 @@ conciliatory
 citadel
 cerasus
 cerata
-cerate
 commerced
 checkmates
 cerated
