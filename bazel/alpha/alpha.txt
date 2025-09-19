@@ -2865,6 +2865,7 @@ adnoun
 antozonite
 actinias
 actinic
+akmudar
 actinide
 akene
 axtree
@@ -13659,7 +13660,6 @@ anagallis
 assassin
 africanism
 anything
-akmudar
 anoretic
 adonidin
 anorn
