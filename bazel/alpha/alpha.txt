@@ -8174,7 +8174,6 @@ alikeness
 alternance
 alilonghi
 afterthrift
-arundinaceous
 alantol
 alimentariness
 adonizing
@@ -13138,6 +13137,7 @@ aurifex
 anisomeric
 autosome
 apoturmeric
+arundinaceous
 aurochses
 antimerger
 amphistyly
