@@ -1922,6 +1922,7 @@ advances
 antependia
 acetonylacetone
 acetamido
+affected
 amidoaldehyde
 acyls
 acrologically
@@ -22731,7 +22732,6 @@ atoms
 auras
 afb
 atonable
-affected
 atonalistic
 awacs
 atone
