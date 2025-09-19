@@ -12059,6 +12059,7 @@ brunellia
 brocading
 bulbilla
 boites
+badgeman
 bojo
 bokhara
 beanfield
@@ -14582,7 +14583,6 @@ beneficency
 breathers
 backspin
 brash
-badgeman
 bucklering
 buttyman
 brasher
