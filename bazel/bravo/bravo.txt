@@ -4335,7 +4335,6 @@ blackhearted
 befleaed
 bilingualism
 becircled
-botfly
 beck
 buoyance
 beatuti
@@ -13564,6 +13563,7 @@ bibliokleptomania
 baroco
 bismutosmaltite
 biomagnetic
+botfly
 bourout
 bivane
 bridehood
