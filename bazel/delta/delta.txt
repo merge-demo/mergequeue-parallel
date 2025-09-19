@@ -1336,6 +1336,7 @@ deludingly
 dozy
 deselecting
 dauke
+degrader
 dumba
 dorsigerous
 delegations
@@ -11629,7 +11630,6 @@ disconsent
 dithering
 discerpibility
 disconsideration
-degrader
 discoursers
 dispeopling
 digester
