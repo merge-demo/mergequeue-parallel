@@ -9368,6 +9368,7 @@ bathman
 burritos
 bobwood
 bird
+bucker
 boga
 birectangular
 bea
@@ -11296,7 +11297,6 @@ blenniiformes
 backsides
 biset
 bachelor
-bucker
 blowlamp
 bananas
 blowoff

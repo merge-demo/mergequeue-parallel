@@ -14551,6 +14551,7 @@ cantillated
 counterscalloped
 catheads
 chiquest
+construes
 cyst
 cantara
 consoler
@@ -24059,7 +24060,6 @@ convents
 chirr
 conventual
 converge
-construes
 cuspal
 concealment
 condalia
