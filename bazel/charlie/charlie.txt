@@ -4614,6 +4614,7 @@ comptoir
 consolan
 carotinemia
 cronying
+cholecystoduodenostomy
 carotinoid
 corespondency
 carotol
@@ -24243,7 +24244,6 @@ cosonant
 convolvulic
 convolvulinic
 certiorari
-cholecystoduodenostomy
 constraining
 curval
 comr
