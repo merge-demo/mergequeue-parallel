@@ -4954,7 +4954,6 @@ dovishness
 discompose
 demonstrated
 dehiscing
-demonstrates
 demonstrationist
 decolorizing
 devilwise
@@ -8598,6 +8597,7 @@ dignification
 diaphysial
 determinism
 diaphoreses
+demonstrates
 disarranging
 devoutlessness
 diaeresis
