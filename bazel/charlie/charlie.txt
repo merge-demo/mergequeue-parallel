@@ -6537,6 +6537,7 @@ calamitoid
 cdf
 cesspool
 celibates
+credulous
 ceanothus
 cearin
 ceaselessness
@@ -20136,7 +20137,6 @@ cragsmen
 commentative
 cisco
 chai
-credulous
 clee
 chokecherries
 charcutier
