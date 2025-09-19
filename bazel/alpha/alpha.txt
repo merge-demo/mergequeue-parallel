@@ -1564,6 +1564,7 @@ appomattoc
 apotype
 arterioloscleroses
 accoutered
+apostrophizing
 ablepsy
 anomalies
 anoxia
@@ -17287,7 +17288,6 @@ apostrophize
 armament
 apostrophizes
 acidophilus
-apostrophizing
 absterged
 autolyse
 apostrophus
