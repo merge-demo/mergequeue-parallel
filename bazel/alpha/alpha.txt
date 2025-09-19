@@ -11395,6 +11395,7 @@ amusette
 amusia
 amusias
 antinatural
+antiguan
 amusingness
 anaphorical
 amusive
@@ -17660,7 +17661,6 @@ antidora
 archbishops
 allianced
 applosive
-antiguan
 applotment
 asphyxiate
 artemia
