@@ -7966,7 +7966,6 @@ bancal
 bicentricity
 bardier
 bilineate
-bowpots
 bohemianism
 biceps
 bedlight
@@ -9706,6 +9705,7 @@ bedevil
 burdocks
 bescurvy
 bistipulate
+bowpots
 begumming
 bistred
 bindheimite
