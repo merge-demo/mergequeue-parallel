@@ -6513,7 +6513,6 @@ cawquaw
 cholecystorrhaphy
 clannish
 commissaries
-caxton
 campanula
 confluence
 caxtonian
@@ -26966,6 +26965,7 @@ chondromas
 counterpicture
 combretum
 counterplayer
+caxton
 copleased
 counterplan
 carassow
