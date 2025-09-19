@@ -714,6 +714,7 @@ aureoling
 abrahamidae
 angiospastic
 alazor
+amniotin
 anathemas
 aedicula
 angst
@@ -10814,7 +10815,6 @@ antipreparedness
 antherids
 algidness
 amniotic
-amniotin
 aberr
 acerae
 alcazar
