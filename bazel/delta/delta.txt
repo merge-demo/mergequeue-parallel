@@ -3870,7 +3870,6 @@ dressages
 dayglows
 discastle
 driftwood
-dissect
 dekagram
 damone
 denouncers
@@ -5286,6 +5285,7 @@ displosion
 doctrinairism
 disscepter
 debat
+dissect
 dissatisfied
 desistence
 deligated
