@@ -19433,7 +19433,6 @@ cordis
 craniotabes
 carousing
 cerotic
-checkstone
 castaways
 color
 creational
@@ -29015,6 +29014,7 @@ columbus
 chloryl
 crinatory
 cringeling
+checkstone
 cringes
 cubing
 cringing

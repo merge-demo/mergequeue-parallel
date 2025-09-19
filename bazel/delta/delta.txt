@@ -468,6 +468,7 @@ dentate
 dinted
 dairous
 dairt
+dosain
 dais
 dentel
 dramm
@@ -11196,7 +11197,6 @@ disastrous
 drippy
 doglegging
 dissipater
-dosain
 diaphanous
 deplaceable
 donating
