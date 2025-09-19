@@ -4738,6 +4738,7 @@ duties
 demiurgeous
 downswings
 decking
+diacaustic
 derealization
 dreadlessly
 declaration
@@ -6587,7 +6588,6 @@ dissolvative
 disfiguring
 dits
 diaspine
-diacaustic
 ditched
 diiamb
 defoliation
