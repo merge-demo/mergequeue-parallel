@@ -9833,7 +9833,6 @@ disrate
 decriminalizing
 dicastery
 dilettantism
-dilettantist
 diligence
 diligences
 divaporation
@@ -16103,6 +16102,7 @@ doubleyou
 doublelunged
 doits
 dedecorous
+dilettantist
 deceive
 disturn
 diapedesis
