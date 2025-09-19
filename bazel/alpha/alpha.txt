@@ -17070,6 +17070,7 @@ apolista
 alaunt
 agglomerating
 aproctia
+apertum
 almendro
 apollinarian
 antiblock
@@ -23106,7 +23107,6 @@ attollent
 amorousness
 attorn
 analepsis
-apertum
 attornare
 anisopleural
 allayer
