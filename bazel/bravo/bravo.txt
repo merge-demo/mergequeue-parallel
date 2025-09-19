@@ -1295,7 +1295,6 @@ bouchaleen
 bonze
 bedim
 bedstead
-behindhand
 bardie
 balanceable
 brewst
@@ -5673,6 +5672,7 @@ barring
 beamful
 basilical
 bureaucratese
+behindhand
 birdcage
 bloomery
 blankite
