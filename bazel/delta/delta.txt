@@ -1404,6 +1404,7 @@ deportability
 desma
 duotriode
 dayless
+donationes
 daviesite
 derogating
 deleted
@@ -8725,7 +8726,6 @@ dialectology
 diastasimetry
 desiderium
 devilfishes
-donationes
 desalinizing
 disappointments
 discoplacental
