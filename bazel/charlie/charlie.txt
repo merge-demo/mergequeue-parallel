@@ -6881,6 +6881,7 @@ circularizers
 cofaster
 celtiberian
 celticize
+creant
 celtidaceae
 celtiform
 celtillyrians
@@ -28411,7 +28412,6 @@ cindery
 contrepartie
 creance
 chabot
-creant
 copaene
 creased
 colorful
