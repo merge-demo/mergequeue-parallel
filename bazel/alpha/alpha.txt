@@ -9554,7 +9554,6 @@ acis
 aweek
 amelet
 adulteration
-auspicy
 absenting
 autecologic
 alurgite
@@ -22747,6 +22746,7 @@ amitie
 apathia
 aristarch
 arthrography
+auspicy
 annat
 amphidiscophora
 arioi
