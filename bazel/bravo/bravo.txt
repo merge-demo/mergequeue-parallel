@@ -3442,6 +3442,7 @@ blendure
 badgerly
 bastions
 bacilli
+batteryman
 barabbas
 biorgan
 bivoltine
@@ -3684,7 +3685,6 @@ bankrupted
 batterdock
 battered
 breck
-batteryman
 bowelless
 batterman
 bullockman

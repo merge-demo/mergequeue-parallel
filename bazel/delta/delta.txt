@@ -491,7 +491,6 @@ disthrall
 disinhabit
 daswen
 daytide
-daytimes
 daunder
 disburthen
 dakerhen
@@ -11267,6 +11266,7 @@ deprives
 discretiveness
 disconduce
 dispersoidology
+daytimes
 diphead
 distendedly
 disbenched
