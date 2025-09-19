@@ -8849,7 +8849,6 @@ diazomethane
 denunciant
 deposition
 dementedly
-diazonium
 diazotype
 disadvise
 dolefuller
@@ -15438,6 +15437,7 @@ domains
 daedalian
 dativogerundial
 deathcup
+diazonium
 dissimilatory
 decarboxylate
 devoutlessly
