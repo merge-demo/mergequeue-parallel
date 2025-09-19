@@ -805,7 +805,6 @@ batrachophobia
 braky
 benignness
 blake
-biaswise
 boltage
 baffies
 bacalao
@@ -5991,6 +5990,7 @@ bilabial
 bemocking
 bishopling
 bibliological
+biaswise
 brahmanical
 bedip
 bort
