@@ -4354,7 +4354,6 @@ amounting
 acrography
 amulets
 ariled
-adventual
 adventured
 aprocta
 anabaptist
@@ -8357,6 +8356,7 @@ alkalosis
 autochthonic
 alkalous
 alkalurops
+adventual
 abrader
 aliquant
 arguer
