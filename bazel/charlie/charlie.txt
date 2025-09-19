@@ -10101,6 +10101,7 @@ chestier
 carmagnoles
 collaudation
 corallorhiza
+conines
 chestnut
 chestnuts
 chet
@@ -22481,7 +22482,6 @@ craniol
 campbell
 cosmopolitic
 calends
-conines
 capacify
 circumduction
 coniogramme
