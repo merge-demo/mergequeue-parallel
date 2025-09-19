@@ -3144,6 +3144,7 @@ atterminal
 anapnometer
 alevins
 archibenthos
+apparitional
 amnioallantoic
 antinationally
 acutograve
@@ -17399,7 +17400,6 @@ apparentements
 animize
 airify
 anoxyscope
-apparitional
 appassionata
 adverbiality
 appd
