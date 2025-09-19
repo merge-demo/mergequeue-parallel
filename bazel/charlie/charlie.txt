@@ -3915,7 +3915,6 @@ carceag
 camanay
 carcel
 chiasmatic
-cheerfulness
 carcels
 cadastres
 cuna
@@ -30007,6 +30006,7 @@ cuggermugger
 clearstarch
 chromo
 cordovans
+cheerfulness
 challengeable
 casualties
 corrigibility
