@@ -6451,6 +6451,7 @@ bruges
 beaupere
 blooping
 bartramiaceae
+belga
 buckeyes
 beray
 buster
@@ -17910,7 +17911,6 @@ benignant
 bedsides
 buffo
 bowwows
-belga
 bushwack
 bonewood
 bathybic

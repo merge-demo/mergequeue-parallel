@@ -4775,6 +4775,7 @@ aerofoils
 algine
 amberfish
 aerogel
+albumoid
 antilogous
 ashochimi
 aion
@@ -7399,7 +7400,6 @@ albuminous
 albumins
 albuminurophobia
 actinomycosis
-albumoid
 albumose
 albums
 apnoeas
