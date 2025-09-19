@@ -17429,7 +17429,6 @@ accusations
 autonomic
 anhydrize
 appeasements
-antiprotease
 anacoluthically
 acerbest
 anthracaemia
@@ -21557,6 +21556,7 @@ antitragus
 antibromic
 assassinations
 assassinist
+antiprotease
 assate
 airstrips
 apophyeeal
