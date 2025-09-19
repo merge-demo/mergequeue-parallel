@@ -12232,6 +12232,7 @@ briefless
 byssiferous
 bolt
 boasters
+bregma
 brightness
 boltcutter
 brindles
@@ -14976,7 +14977,6 @@ bakatan
 breeziness
 biseptate
 blastophore
-bregma
 babasco
 bordel
 brokenheartedness
