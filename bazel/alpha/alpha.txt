@@ -5237,7 +5237,6 @@ affronte
 affronted
 anticonservative
 affrontedness
-affronter
 anidiomatic
 affrontive
 assassinative
@@ -13688,6 +13687,7 @@ anatomicosurgical
 adagissimo
 anospinal
 airing
+affronter
 arrythmical
 apollinarianism
 anostraca
