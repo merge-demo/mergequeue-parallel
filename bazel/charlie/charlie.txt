@@ -14568,6 +14568,7 @@ cerebrology
 cariocas
 capsuler
 calmly
+ceric
 ceratocystis
 cornier
 chauri
@@ -22472,7 +22473,6 @@ coniines
 cybister
 conrey
 conimene
-ceric
 counterpointe
 cottonian
 craniol
