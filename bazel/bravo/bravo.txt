@@ -5488,6 +5488,7 @@ briefly
 bracky
 boort
 babbled
+bilaminar
 boatswains
 beingness
 brandade
@@ -8402,7 +8403,6 @@ boastless
 bocage
 bleareye
 bittium
-bilaminar
 burblier
 bemusement
 babbage
