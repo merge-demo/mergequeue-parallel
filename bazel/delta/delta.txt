@@ -3722,6 +3722,7 @@ dixit
 disoccupied
 dehorn
 didepside
+dealbuminize
 dolcan
 desmose
 dreadful
@@ -9682,7 +9683,6 @@ dishonestly
 didacticity
 dactyliographer
 depass
-dealbuminize
 despot
 debruise
 doozy
