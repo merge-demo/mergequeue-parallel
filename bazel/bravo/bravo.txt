@@ -1695,7 +1695,6 @@ berm
 bastards
 benefits
 balmorals
-bedticks
 biforked
 buqsha
 bijugous
@@ -2231,6 +2230,7 @@ bronstrops
 bragless
 barbarities
 barbarization
+bedticks
 begladded
 broma
 blesboks
