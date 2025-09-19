@@ -4028,6 +4028,7 @@ beambird
 beeve
 bedrock
 boti
+burglarising
 beamers
 ballonet
 beamhouse
@@ -7817,7 +7818,6 @@ bibliographize
 bipyridine
 biblioklept
 buphthalmic
-burglarising
 benedicts
 brislings
 beauclerc
