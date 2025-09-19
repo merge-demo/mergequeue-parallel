@@ -13352,7 +13352,6 @@ dodecaphonist
 disputatiously
 disputatiousness
 dewatered
-disputator
 disputeful
 dacrydium
 diminutional
@@ -16111,6 +16110,7 @@ dumped
 drent
 duryodhana
 doublethink
+disputator
 drays
 disapprovals
 demipique
