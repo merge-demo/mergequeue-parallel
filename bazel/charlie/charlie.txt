@@ -14848,6 +14848,7 @@ cortinae
 corselette
 concitizen
 cytoid
+comparing
 citoyenne
 curwillet
 confiscated
@@ -20545,7 +20546,6 @@ conventionalism
 coapting
 comparcioner
 clatteringly
-comparing
 comparisons
 comparted
 coxcombs

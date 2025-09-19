@@ -2557,7 +2557,6 @@ dorsocephalic
 declensionally
 dript
 drinn
-declimatize
 driblets
 dromotropic
 declinational
@@ -12677,6 +12676,7 @@ dyskeratosis
 diskette
 diskography
 dvandva
+declimatize
 duckling
 dawing
 divining
