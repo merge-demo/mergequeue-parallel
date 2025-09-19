@@ -20008,6 +20008,7 @@ creamsacs
 contrabasso
 coml
 confessionals
+composited
 commandatory
 commanded
 collarino
@@ -20912,7 +20913,6 @@ canst
 composer
 corrals
 composite
-composited
 chalices
 composites
 compositing
