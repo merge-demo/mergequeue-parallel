@@ -4856,6 +4856,7 @@ camerieri
 carrotins
 carrotweed
 ciseleurs
+confiture
 corporation
 clerkship
 canonization
@@ -22110,7 +22111,6 @@ corticating
 confit
 caesalpiniaceous
 confiteor
-confiture
 coolidge
 comparts
 confixing

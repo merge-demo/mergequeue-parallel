@@ -4115,6 +4115,7 @@ armorer
 alchornea
 altoist
 adrad
+addedly
 astronautics
 abime
 abaka
@@ -17282,7 +17283,6 @@ armament
 apostrophizes
 acidophilus
 apostrophizing
-addedly
 absterged
 autolyse
 apostrophus
