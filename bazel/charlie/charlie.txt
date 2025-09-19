@@ -15999,7 +15999,6 @@ covado
 cleromancy
 canniness
 clerstory
-clansmen
 clingstones
 cyamelid
 coolheadedness
@@ -17082,6 +17081,7 @@ coachfellow
 cataloon
 coachy
 coaching
+clansmen
 coachmaker
 coachmaster
 canceling
