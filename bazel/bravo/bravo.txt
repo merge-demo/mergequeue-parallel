@@ -8340,7 +8340,6 @@ bygo
 bygone
 bist
 bigonial
-bigots
 bemeans
 bombyxes
 bastian
@@ -14667,6 +14666,7 @@ biopsychology
 bungled
 baluchistan
 bowdlerize
+bigots
 brauronian
 blepharocera
 brava
