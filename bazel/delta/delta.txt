@@ -2727,7 +2727,6 @@ defamous
 devonshire
 doublure
 distortable
-decore
 dudgeon
 docklands
 decorist
@@ -15331,6 +15330,7 @@ duopolistic
 dameworts
 deplethoric
 dittograph
+decore
 dracaenaceae
 dolichosauria
 dolioform
