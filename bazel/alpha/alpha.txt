@@ -14274,7 +14274,6 @@ annominate
 argentite
 arsons
 acuminulate
-anthrapurpurin
 achaemenidian
 anthraquinone
 adoptianist
@@ -14433,6 +14432,7 @@ anthropotheist
 answering
 anthropotheistic
 anthropotomical
+anthrapurpurin
 alhandal
 anisotropism
 anticline
