@@ -6171,7 +6171,6 @@ agricolous
 anticonventionalism
 amoeba
 anamorphote
-ametrometer
 agriculturists
 aconine
 aftergood
@@ -9577,6 +9576,7 @@ alveated
 alveolariform
 alongshore
 ararauna
+ametrometer
 auxotrophy
 alveolate
 alveolation
