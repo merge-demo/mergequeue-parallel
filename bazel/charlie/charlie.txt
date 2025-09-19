@@ -7385,7 +7385,6 @@ cephalonasal
 chiastoneurous
 christianomastix
 cephalopathy
-cephalophyma
 cephalophine
 cryostats
 cervisia
@@ -9175,6 +9174,7 @@ chasma
 chasmed
 caddy
 cameronians
+cephalophyma
 chondrigenous
 cyclocephaly
 clypeolate
