@@ -6685,7 +6685,6 @@ aphthartodocetic
 asyndesis
 alezan
 astomatous
-antimedievalism
 axons
 aphorises
 apanages
@@ -18404,6 +18403,7 @@ assassinating
 arborer
 apaestically
 arbores
+antimedievalism
 arborescently
 azofier
 admirer
