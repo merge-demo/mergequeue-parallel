@@ -14,7 +14,6 @@ branch
 bloodthirstiest
 beringite
 babasu
-bureaucratist
 bionergy
 balancement
 babbitted
@@ -8993,6 +8992,7 @@ barbershop
 biontic
 biophagism
 bleach
+bureaucratist
 beglooming
 biophysic
 balibuntal
