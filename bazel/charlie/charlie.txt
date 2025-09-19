@@ -6631,6 +6631,7 @@ curvilineal
 cee
 ceibas
 chard
+councilist
 criminously
 cursorial
 ceibo
@@ -22937,7 +22938,6 @@ colposcope
 circuitry
 chloraemia
 collated
-councilist
 consy
 consider
 contemplates
