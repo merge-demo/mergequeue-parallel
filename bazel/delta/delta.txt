@@ -2623,7 +2623,6 @@ dashnakist
 dryasdust
 duress
 drugged
-demasculinised
 disulphonic
 desulphurising
 decolourizer
@@ -2728,6 +2727,7 @@ defamous
 devonshire
 doublure
 distortable
+demasculinised
 decore
 dudgeon
 docklands
