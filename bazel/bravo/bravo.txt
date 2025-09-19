@@ -3322,7 +3322,6 @@ bothering
 basisphenoidal
 basitemporal
 biprong
-basommatophorous
 beguilers
 basked
 baggiest
@@ -14313,6 +14312,7 @@ blacklist
 brahmana
 balloonful
 bookboard
+basommatophorous
 bikini
 buffoonesque
 bilskirnir
