@@ -1352,7 +1352,6 @@ bibliophilist
 benzaldiphenyl
 balatte
 bernoullian
-bingy
 bedways
 bradycardia
 balaustine
@@ -15511,6 +15510,7 @@ bluebonnets
 blennophlogosis
 becollier
 blimy
+bingy
 british
 besotment
 barwood
