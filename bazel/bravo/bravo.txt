@@ -5391,6 +5391,7 @@ begummed
 butcher
 behallow
 bowldering
+bemedaled
 betwit
 behammer
 breads
@@ -9402,7 +9403,6 @@ bacteriorhodopsin
 blanket
 basaltine
 beglue
-bemedaled
 bernoo
 biggins
 blepharophryplasty
