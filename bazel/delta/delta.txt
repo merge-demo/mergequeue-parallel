@@ -9243,6 +9243,7 @@ ditriglyph
 dipleurula
 dusterman
 diebacks
+dovetailed
 definitise
 dictyopteran
 dead
@@ -17930,7 +17931,6 @@ deteriorations
 duenesses
 discandy
 disserted
-dovetailed
 datable
 droyl
 duer
