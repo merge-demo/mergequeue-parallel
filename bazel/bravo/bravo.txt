@@ -5795,7 +5795,6 @@ bs
 buildress
 bullsnake
 bondmaid
-banded
 barrener
 berseem
 bribeworthy
@@ -15735,6 +15734,7 @@ beamishly
 bromacetone
 bromamide
 barrows
+banded
 besomer
 blite
 beelol
