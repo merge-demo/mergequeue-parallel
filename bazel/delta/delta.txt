@@ -12613,7 +12613,6 @@ dimit
 disinter
 decennium
 disinterestedly
-disinterestedness
 disinterment
 doggereler
 disheaven
@@ -17096,6 +17095,7 @@ disintegrant
 diascia
 drengage
 drepania
+disinterestedness
 drepanidae
 ductibility
 defray
