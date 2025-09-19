@@ -5092,6 +5092,7 @@ bombable
 bromoaurate
 barbarized
 boxhaul
+bestirred
 belching
 brachiate
 blandishments
@@ -9352,7 +9353,6 @@ bouncily
 bekissing
 brattach
 betterments
-bestirred
 bathman
 burritos
 bobwood
