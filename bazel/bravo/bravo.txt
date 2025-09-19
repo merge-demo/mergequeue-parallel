@@ -2137,6 +2137,7 @@ barmie
 blueblood
 backup
 buxomness
+billa
 bonehead
 bricksetter
 barreled
@@ -3497,7 +3498,6 @@ boyla
 batamote
 biosis
 bitterworm
-billa
 benzoglyoxaline
 bullaces
 baiters
