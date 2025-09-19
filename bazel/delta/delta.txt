@@ -11130,7 +11130,6 @@ dialyser
 decernment
 divisor
 dobras
-dactyliology
 drouth
 disappreciate
 detergents
@@ -14722,6 +14721,7 @@ djave
 doubtfully
 divid
 drill
+dactyliology
 djebels
 decarburise
 discovenant
