@@ -1283,7 +1283,6 @@ barleys
 bottomer
 bruke
 bucketsful
-balaenidae
 bobbies
 blatch
 boracites
@@ -11550,6 +11549,7 @@ baronages
 brimfull
 blurredly
 beatifying
+balaenidae
 bobsleded
 belying
 burghermaster
