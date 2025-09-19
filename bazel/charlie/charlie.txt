@@ -3004,6 +3004,7 @@ crapelike
 cantoner
 cellocut
 compartment
+coccolith
 cantonize
 colectomy
 countergager
@@ -3792,7 +3793,6 @@ chlorate
 cincha
 coenotype
 carbonemia
-coccolith
 chemiphotic
 carse
 convalescent
