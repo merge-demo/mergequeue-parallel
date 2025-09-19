@@ -1088,7 +1088,6 @@ apollinian
 abused
 antilynching
 anagnost
-abuseful
 abusefully
 abusefulness
 abuser
@@ -13424,6 +13423,7 @@ antihierarchical
 augmentative
 algy
 annulary
+abuseful
 annularia
 arrowing
 annulately

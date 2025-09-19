@@ -4236,6 +4236,7 @@ caressively
 carest
 caret
 commerce
+casaba
 caretake
 caretaker
 caretaking
@@ -31242,7 +31243,6 @@ codders
 curaghs
 caulker
 curari
-casaba
 computable
 coenospecific
 curarines
