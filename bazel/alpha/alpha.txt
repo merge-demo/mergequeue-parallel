@@ -7777,7 +7777,6 @@ alerse
 alectoromachy
 agglutinates
 alerta
-anticrepuscule
 arillus
 alerters
 autotropically
@@ -14238,6 +14237,7 @@ achromasia
 ascertaining
 achromacyte
 anthracomarti
+anticrepuscule
 anthracometric
 attractable
 abecedarium
