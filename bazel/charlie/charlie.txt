@@ -697,6 +697,7 @@ cordylanthus
 circumspatial
 cageless
 cagelike
+contraclockwise
 cycloses
 cageman
 cager
@@ -30486,7 +30487,6 @@ corozos
 cubane
 cubangle
 cubanite
-contraclockwise
 conciliar
 cubby
 cronie
