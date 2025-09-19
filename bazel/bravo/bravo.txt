@@ -2942,7 +2942,6 @@ barren
 bryan
 barretor
 billowed
-bonus
 battalias
 bugdom
 binder
@@ -6160,6 +6159,7 @@ beni
 baldoquin
 buckjumper
 benic
+bonus
 benight
 bdellostomidae
 buzzed
