@@ -7151,7 +7151,6 @@ aeolharmonica
 adaptometer
 aphakic
 autophotometry
-alaudine
 adoptant
 aglauros
 antitropical
@@ -16480,6 +16479,7 @@ allotrylic
 apathaton
 amerciament
 apathetically
+alaudine
 agilities
 apathize
 apathogenic
