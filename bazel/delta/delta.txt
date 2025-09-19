@@ -2543,7 +2543,6 @@ disclaimers
 dweller
 declassification
 diaplasis
-declassifies
 diplophonic
 diarrhetic
 discus
@@ -18529,6 +18528,7 @@ dynasties
 dendrocoelan
 dustwoman
 diocesans
+declassifies
 deferentitis
 disproving
 disownable
