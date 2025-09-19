@@ -13207,6 +13207,7 @@ definitive
 danceable
 dyskinetic
 disleave
+downsitting
 dilly
 display
 displayable
@@ -16386,7 +16387,6 @@ delineates
 desirelessness
 dephlegmatize
 dibbler
-downsitting
 disunite
 disacknowledge
 dainteth
