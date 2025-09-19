@@ -14595,7 +14595,6 @@ damson
 divisorial
 diesinking
 divisural
-divorcee
 discrimination
 dihedrals
 disoxygenate
@@ -16735,6 +16734,7 @@ derangements
 digamists
 dragonism
 drainage
+divorcee
 dyotheletism
 drained
 doted
