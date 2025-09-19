@@ -26363,7 +26363,6 @@ conveners
 collide
 catatonics
 cytotrophy
-chlamydoselachus
 criminalist
 cotylosacral
 cotylosaur
@@ -29497,6 +29496,7 @@ criticising
 criticisingly
 corbiculae
 criticism
+chlamydoselachus
 cog
 criticizing
 criticship
