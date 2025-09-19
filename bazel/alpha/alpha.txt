@@ -3934,7 +3934,6 @@ admissibility
 asci
 admissive
 automan
-amaracus
 admissory
 acromion
 asarotum
@@ -18310,6 +18309,7 @@ arawa
 arhythmia
 ankh
 anthracomancy
+amaracus
 anteriority
 antlion
 assart
