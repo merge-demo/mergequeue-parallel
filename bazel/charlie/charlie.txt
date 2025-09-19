@@ -26425,6 +26425,7 @@ catocalid
 cotripper
 cotrustee
 commissionership
+chemoreception
 cottiform
 couther
 cots
@@ -26641,7 +26642,6 @@ conjugata
 counterintelligence
 counterexpostulation
 cointersecting
-chemoreception
 capparidaceae
 counteradvance
 colossuswise
