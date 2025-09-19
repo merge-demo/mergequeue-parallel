@@ -4290,7 +4290,6 @@ dunal
 deferent
 deutomalal
 deluges
-disgustful
 dikaryophase
 dependancy
 donar
@@ -11758,6 +11757,7 @@ dochmiac
 diswench
 discradle
 dockhands
+disgustful
 dyscrasic
 dunnages
 dimane
