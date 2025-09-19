@@ -1177,7 +1177,6 @@ acanthial
 anthropogenetic
 antisun
 amour
-acanthocephalous
 acanthocereus
 acanthocladous
 argenton
@@ -3617,6 +3616,7 @@ adduction
 apokatastatic
 arenicolite
 adhesion
+acanthocephalous
 architraved
 alberttype
 astrogeny

@@ -12593,6 +12593,7 @@ beatniks
 beggarwise
 beryline
 bagels
+broomstick
 busy
 bioherms
 baguets
@@ -15436,7 +15437,6 @@ bryonia
 bryophyllum
 bouncy
 babirusa
-broomstick
 blaubok
 boxes
 blackguardism
