@@ -8272,7 +8272,6 @@ allyic
 atypic
 apathistical
 alivincular
-alix
 alizarate
 anesthesiant
 afterloss
@@ -14480,6 +14479,7 @@ antianarchic
 angioplany
 antiannexationist
 acadian
+alix
 arsenophenylglycin
 antianopheline
 antianthropocentric
