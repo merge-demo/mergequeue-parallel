@@ -11021,7 +11021,6 @@ disaffirmation
 dills
 desorption
 disaffirming
-dayberry
 depigment
 decapoda
 dulcinea
@@ -11683,6 +11682,7 @@ divell
 dismemberer
 discordable
 diametrally
+dayberry
 discordancy
 deregulating
 daphnean
