@@ -8362,6 +8362,7 @@ aswing
 alkaloids
 alcoholism
 alkalosis
+autochthonic
 alkalous
 alkalurops
 abrader
@@ -18903,7 +18904,6 @@ actiniform
 archmocker
 anastomosed
 antidicomarian
-autochthonic
 algol
 antewar
 aluminoferric
