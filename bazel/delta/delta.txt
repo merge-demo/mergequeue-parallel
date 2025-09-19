@@ -10963,7 +10963,6 @@ defeasance
 disabuse
 disbursement
 diapir
-derives
 dazzlement
 deafens
 dannock
@@ -14117,6 +14116,7 @@ disturbance
 divestitive
 demipronation
 dentirostral
+derives
 dendroid
 discontinuation
 disturbingly
