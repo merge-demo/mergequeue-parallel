@@ -1534,6 +1534,7 @@ callop
 camphorate
 cancerwort
 cutcher
+cassowaries
 corrobboree
 callorhynchidae
 callosal
@@ -5280,7 +5281,6 @@ cassons
 cochleated
 chariotway
 cynodont
-cassowaries
 carotidean
 cellarers
 cast
