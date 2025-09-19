@@ -19603,7 +19603,6 @@ carvers
 cerolite
 colpoperineoplasty
 centrodesmus
-caledonian
 casimires
 carboloy
 croissants
@@ -26235,6 +26234,7 @@ colorimetric
 contuses
 collegianer
 conirostres
+caledonian
 cultured
 costoapical
 costocentral
