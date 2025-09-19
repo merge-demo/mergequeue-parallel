@@ -9798,7 +9798,6 @@ chelonian
 chondrolipoma
 cosmodrome
 cheloniidae
-cunit
 chemehuevi
 cab
 cavalierly
@@ -13491,6 +13490,7 @@ consumables
 changelessness
 cyanhidrosis
 cylindrodendrite
+cunit
 cylindrograph
 compilers
 chisel
