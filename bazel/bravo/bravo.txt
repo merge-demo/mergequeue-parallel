@@ -2246,7 +2246,6 @@ blastment
 belavendered
 bauhinia
 bewraying
-beleaping
 bona
 bespew
 brunets
@@ -10214,6 +10213,7 @@ bulldogs
 boehmites
 biborate
 bangladesh
+beleaping
 belly
 bleeding
 beaverkin
