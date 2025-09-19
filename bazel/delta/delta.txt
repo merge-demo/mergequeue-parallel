@@ -3480,6 +3480,7 @@ defrayable
 dismissable
 digitalizing
 dodginess
+dartsman
 delft
 defrayed
 dinghies
@@ -9647,7 +9648,6 @@ digressive
 digressory
 dastard
 disproved
-dartsman
 demonolatrously
 diddering
 diguanide
