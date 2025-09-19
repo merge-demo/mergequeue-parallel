@@ -3651,6 +3651,7 @@ climacterial
 coachable
 cineastes
 clawlike
+contrapuntal
 carapine
 canvasback
 cheneaux
@@ -23514,7 +23515,6 @@ contendress
 cornstalk
 civil
 contends
-contrapuntal
 chimble
 crosslap
 contentable
