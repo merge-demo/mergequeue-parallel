@@ -7553,6 +7553,7 @@ bugseed
 banning
 blue
 biographist
+beginners
 beworship
 bedare
 brimstony
@@ -14613,7 +14614,6 @@ bibliomancy
 balletically
 bogle
 buffets
-beginners
 buzzerphone
 blatjang
 bitted
