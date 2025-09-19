@@ -5183,7 +5183,6 @@ anophthalmia
 arales
 aquarian
 afflated
-ataxia
 afflatus
 afflicting
 autotherapy
@@ -14475,6 +14474,7 @@ antialcoholism
 anthropopathically
 antecoxal
 antistrophize
+ataxia
 antialcoholist
 antialdoxime
 anchorless
