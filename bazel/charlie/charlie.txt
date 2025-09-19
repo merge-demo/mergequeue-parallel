@@ -23972,7 +23972,6 @@ convalesces
 cooked
 convalescing
 convallaria
-chalazion
 consummately
 convect
 calcicole
@@ -29566,6 +29565,7 @@ croci
 crocidura
 craspedal
 crock
+chalazion
 clashy
 cantative
 crockard
