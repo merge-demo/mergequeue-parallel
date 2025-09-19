@@ -6055,6 +6055,7 @@ droop
 dulcarnon
 dicliny
 dynamogenously
+dehonestate
 depuratory
 depure
 deflocculator
@@ -10209,7 +10210,6 @@ drillability
 dispended
 dictamina
 declarable
-dehonestate
 diaene
 demirevetment
 deprecated
