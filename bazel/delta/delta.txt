@@ -8522,7 +8522,6 @@ downgrades
 diamondback
 drawl
 diplomatize
-dowsers
 debaucher
 declassify
 desiringly
@@ -18655,6 +18654,7 @@ delinquents
 dipnoans
 drowsily
 disubstitution
+dowsers
 discountenanced
 disseisor
 duvetynes
