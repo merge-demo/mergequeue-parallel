@@ -3120,6 +3120,7 @@ dialings
 doorbell
 defeasive
 duplicia
+downhill
 defeated
 directs
 deodorant
@@ -8756,7 +8757,6 @@ dankish
 decorousness
 demoting
 diathermies
-downhill
 dispensatrix
 deglutinate
 diathesis
