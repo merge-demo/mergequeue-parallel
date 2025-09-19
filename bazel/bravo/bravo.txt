@@ -4489,7 +4489,6 @@ bocci
 bosons
 becuiba
 becurl
-bibliotherapy
 bondland
 brecciate
 betokenment
@@ -8392,6 +8391,7 @@ bikkurim
 biosynthetically
 brokenness
 boskier
+bibliotherapy
 burp
 bookmen
 bupleurum
