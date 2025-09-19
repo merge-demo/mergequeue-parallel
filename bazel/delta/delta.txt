@@ -7831,7 +7831,6 @@ ductilizing
 daphnephoria
 devocalized
 desmoneme
-devocalizing
 dignation
 devoice
 duvet
@@ -18458,6 +18457,7 @@ duplication
 dogsbody
 duplicators
 duncehood
+devocalizing
 daidle
 ducatus
 discerningly
