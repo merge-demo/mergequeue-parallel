@@ -16211,6 +16211,7 @@ cline
 clines
 caudexes
 crankness
+champac
 clingfishes
 contravenes
 clingy
@@ -18536,7 +18537,6 @@ clericalize
 coracomorphic
 countermark
 capsulectomy
-champac
 coheirs
 coheirship
 cestraciont
