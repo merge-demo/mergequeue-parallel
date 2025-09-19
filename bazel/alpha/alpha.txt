@@ -18827,7 +18827,6 @@ austemper
 androginous
 archipin
 angelica
-amenorrheal
 aguada
 archiplasm
 absorber
@@ -24564,6 +24563,7 @@ avaricious
 acuaesthesia
 avariciousness
 astyllen
+amenorrheal
 arecolidin
 aramaicize
 acrux
