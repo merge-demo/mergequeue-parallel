@@ -4169,6 +4169,7 @@ doctrinization
 disherit
 drafty
 daguerreotyper
+downthrust
 delit
 damonico
 dob
@@ -15096,7 +15097,6 @@ dreamland
 dueler
 darabukka
 discernibly
-downthrust
 disproportion
 dogfights
 diagrammatically
