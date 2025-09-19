@@ -2954,6 +2954,7 @@ cakile
 cirrocumulus
 chare
 croupade
+crustalogical
 currane
 chamberlains
 cingular
@@ -30373,7 +30374,6 @@ charted
 cultriform
 cresotinic
 crustalogy
-crustalogical
 crustalogist
 cyrenaic
 crustated
