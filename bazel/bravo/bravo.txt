@@ -4359,6 +4359,7 @@ bamalip
 baublery
 bests
 beldam
+bespeak
 bunyip
 byworks
 brise
@@ -7013,7 +7014,6 @@ biaxillary
 bennetweed
 bannerette
 briquetting
-bespeak
 blustered
 baning
 bailiary
