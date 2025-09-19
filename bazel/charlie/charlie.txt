@@ -11614,7 +11614,6 @@ choler
 cholera
 chautauquan
 cephalospinal
-circumjacent
 curbable
 clockings
 civilising
@@ -27995,6 +27994,7 @@ caecocolic
 crimine
 conicine
 cigarets
+circumjacent
 cramasie
 coquilles
 chillo

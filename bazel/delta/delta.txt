@@ -1523,7 +1523,6 @@ dinkey
 doarium
 deked
 deaconate
-disponed
 demagnetize
 demiglace
 downer
@@ -5109,6 +5108,7 @@ discomfit
 debile
 downhearted
 disproof
+disponed
 disciplinarian
 devitrify
 dispone
