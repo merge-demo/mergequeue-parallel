@@ -5576,7 +5576,6 @@ deformational
 depasture
 desireable
 depatriate
-dispergation
 detrains
 dkm
 dyscrase
@@ -6469,6 +6468,7 @@ dictatrix
 daemonology
 deodara
 daddy
+dispergation
 dislluminate
 dragomanic
 desalinated
