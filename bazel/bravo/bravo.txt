@@ -3491,6 +3491,7 @@ bankruptlike
 besplash
 barbascoes
 barrages
+boltonite
 bagworms
 blotlessness
 biennium
@@ -10238,7 +10239,6 @@ brahmaness
 bluffly
 bayadeer
 briefs
-boltonite
 bliaut
 ballsy
 benda
