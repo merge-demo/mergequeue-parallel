@@ -560,7 +560,6 @@ dermaskeleton
 dama
 disodic
 damageably
-detonatable
 damaged
 dichroic
 deceivableness
@@ -15755,6 +15754,7 @@ determine
 dopchick
 dopebook
 diddled
+detonatable
 demonstrator
 discased
 distemperance
