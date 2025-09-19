@@ -8896,7 +8896,6 @@ cremains
 contentious
 classico
 charadrius
-charango
 chorioidal
 chlorobenzene
 colibacillosis
@@ -28642,6 +28641,7 @@ consequentially
 classific
 crenel
 chroococcus
+charango
 corvine
 coloniser
 contaminates
