@@ -17703,7 +17703,6 @@ dekapode
 deratizing
 dualize
 diaclase
-dvorak
 downlike
 desulphurating
 disapprovingly
@@ -18501,6 +18500,7 @@ dunked
 desagrement
 decare
 dyschronous
+dvorak
 dissolutionism
 dacryoma
 dupper
