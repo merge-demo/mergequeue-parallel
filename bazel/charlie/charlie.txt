@@ -4911,6 +4911,7 @@ cartilagines
 cartilaginoid
 cellarway
 cartilaginous
+churring
 carting
 coulometry
 cartist
@@ -12899,7 +12900,6 @@ churred
 conscriptionist
 cervix
 churrigueresco
-churring
 churrip
 castellanus
 churro
