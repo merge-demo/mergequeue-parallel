@@ -15711,7 +15711,6 @@ antipodist
 auriculo
 apennines
 adrenalectomies
-antipole
 atypically
 antimetabole
 afibrinogenemia
@@ -16608,6 +16607,7 @@ agog
 anterointerior
 accur
 aristulate
+antipole
 aphelian
 admitting
 anthophagy
