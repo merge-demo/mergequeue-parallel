@@ -3552,6 +3552,7 @@ brancher
 bathycolpic
 bathylithic
 bodybuilders
+bevel
 bathymetrical
 bathing
 bastinadoes
@@ -10618,7 +10619,6 @@ brunissure
 bhava
 belt
 bouleuteria
-bevel
 brotulid
 bleeze
 begarnish
