@@ -1654,7 +1654,6 @@ corybulbin
 calorigenic
 chromatophore
 calorimetry
-cleanlily
 calorimetrical
 calorimetrically
 calorist
@@ -28665,6 +28664,7 @@ chromidiogamy
 crenic
 comparable
 contin
+cleanlily
 cyrilla
 clung
 crenothrix
