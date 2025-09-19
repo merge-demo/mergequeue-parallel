@@ -10775,7 +10775,6 @@ ammos
 ammotherapy
 antipepsin
 amnesia
-amnesiac
 abstainer
 arangoes
 aulas
@@ -15978,6 +15977,7 @@ antiseptic
 actinomycese
 amaut
 asseverate
+amnesiac
 anisotropy
 adenomeningeal
 agateware
