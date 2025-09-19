@@ -1152,6 +1152,7 @@ brindled
 brewmaster
 boyg
 budgereegah
+bookies
 berne
 banquets
 bibliothecae
@@ -2761,7 +2762,6 @@ becapping
 buboed
 bratticed
 boatloading
-bookies
 bookit
 been
 baroneting
