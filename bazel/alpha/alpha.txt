@@ -19575,7 +19575,6 @@ arridge
 anticlea
 arisen
 ariser
-arises
 attercrop
 apl
 aristae
@@ -23685,6 +23684,7 @@ austrians
 annite
 austric
 austrine
+arises
 autarkical
 apast
 anticonstitutional
