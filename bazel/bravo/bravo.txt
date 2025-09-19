@@ -1352,7 +1352,6 @@ bibliophilist
 benzaldiphenyl
 balatte
 bernoullian
-bedways
 bradycardia
 balaustine
 bunks
@@ -10947,6 +10946,7 @@ bellhop
 byerlite
 batement
 balustered
+bedways
 backlasher
 batel
 bilharzic
