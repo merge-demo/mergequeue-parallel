@@ -9172,6 +9172,7 @@ betweenmaid
 butyrals
 bow
 betone
+boottop
 bipinnatisect
 battlegrounds
 burlesks
@@ -12941,7 +12942,6 @@ bootman
 boots
 bottoms
 blouson
-boottop
 besting
 bandelette
 bidarkees
