@@ -19725,7 +19725,6 @@ columnists
 callets
 calfling
 centref
-cinematographical
 columnized
 classier
 copernicia
@@ -28514,6 +28513,7 @@ creditably
 checkerwork
 creditive
 creditless
+cinematographical
 creditor
 curial
 creditress
