@@ -4684,6 +4684,7 @@ dogplate
 dived
 demisangue
 denarius
+dedolency
 dustproof
 demiscible
 demise
@@ -16391,7 +16392,6 @@ disunite
 disacknowledge
 dainteth
 deplored
-dedolency
 decanate
 dimmedness
 dromed
