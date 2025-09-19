@@ -3580,7 +3580,6 @@ caracol
 coauthoring
 curliest
 crustate
-caracolite
 caracolled
 charcuterie
 caracoller
@@ -29157,6 +29156,7 @@ creaser
 cooperating
 capillarity
 coxarthropathy
+caracolite
 cystomatous
 caridomorpha
 cripplingly
