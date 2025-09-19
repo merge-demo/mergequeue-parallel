@@ -9222,6 +9222,7 @@ chaster
 crombec
 chastest
 chasteweed
+coiffures
 censurers
 ceduous
 chasty
@@ -18628,7 +18629,6 @@ coiffeurs
 coiffeuses
 coolheaded
 coiffured
-coiffures
 coiffuring
 coifing
 conner
