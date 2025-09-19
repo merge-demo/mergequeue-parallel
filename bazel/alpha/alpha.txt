@@ -3871,6 +3871,7 @@ adminicle
 aruspicy
 acoin
 amphiprotic
+archit
 angulometer
 adminicula
 akolouthia
@@ -13129,7 +13130,6 @@ anisognathism
 anisoiconia
 anisoyl
 antifideism
-archit
 anisoin
 archiater
 anisoles
