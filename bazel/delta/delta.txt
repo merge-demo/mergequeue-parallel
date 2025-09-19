@@ -2997,7 +2997,6 @@ drageoir
 dies
 demyelination
 dismantling
-deepfreeze
 dadenhudd
 deodorized
 dawsoniaceous
@@ -4074,6 +4073,7 @@ dedications
 dilamination
 debouches
 delict
+deepfreeze
 deliquescence
 divertila
 disobeyed
