@@ -2907,7 +2907,6 @@ beaconed
 bebuttoned
 beglew
 beartongue
-bindwith
 bandcutter
 blennometritis
 bonair
@@ -13568,6 +13567,7 @@ bough
 barie
 belzebub
 buplever
+bindwith
 bending
 bibliokleptomania
 baroco
