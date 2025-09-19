@@ -8518,7 +8518,6 @@ billbug
 bungholes
 biller
 brantcorn
-barabora
 brawlis
 beglerbegship
 billeted
@@ -14321,6 +14320,7 @@ burstones
 braidism
 braidist
 braids
+barabora
 brushet
 bambocciade
 brayers
