@@ -11122,6 +11122,7 @@ amphictyony
 amphictyonian
 achaenodon
 amphictyons
+anschauung
 amphid
 amphophile
 amphidetic
@@ -18613,7 +18614,6 @@ altoun
 azido
 alginuresis
 appliqued
-anschauung
 ann
 arumin
 ancientry
