@@ -4414,7 +4414,6 @@ bafta
 bretonian
 bilabials
 bibliotist
-beclothe
 bonasus
 becalming
 bhili
@@ -11072,6 +11071,7 @@ bullit
 byssaceous
 bisaccate
 bloating
+beclothe
 burglarized
 bilk
 between
