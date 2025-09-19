@@ -6927,6 +6927,7 @@ desolator
 dryhouse
 discolors
 dahabiyeh
+deaves
 demulceate
 disarmature
 dollarleaf
@@ -17255,7 +17256,6 @@ dimensions
 dryops
 dryopteroid
 dysmerism
-deaves
 dribbing
 drippers
 draffish
