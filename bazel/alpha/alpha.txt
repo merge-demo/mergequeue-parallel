@@ -2996,7 +2996,6 @@ avowableness
 antispast
 airships
 amplidyne
-arthropody
 aramus
 agtbasic
 aspirating
@@ -17853,6 +17852,7 @@ approvedly
 antiempirical
 approvers
 authenticate
+arthropody
 approving
 aftershaves
 azoformic
