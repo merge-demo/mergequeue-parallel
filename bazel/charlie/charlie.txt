@@ -14298,7 +14298,6 @@ costal
 copplecrown
 creancer
 canephoros
-cannonarchy
 circumnutation
 capillary
 circumorbital
@@ -25233,6 +25232,7 @@ ciliola
 corklike
 covillea
 cruche
+cannonarchy
 crystallogy
 craterkin
 corkline

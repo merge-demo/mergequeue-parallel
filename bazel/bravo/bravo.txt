@@ -14815,7 +14815,6 @@ baja
 breakfast
 buffetings
 breakfasted
-bastard
 breakfronts
 butlerage
 baldachined
@@ -16046,6 +16045,7 @@ boeotic
 bedesmen
 bromoauric
 bioclean
+bastard
 balletomane
 borrowing
 bramblier
