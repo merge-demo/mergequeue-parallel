@@ -7685,7 +7685,6 @@ accusor
 aleatoric
 aquae
 analphabetical
-awm
 ancistrocladaceae
 aequipalpia
 alecithal
@@ -16441,6 +16440,7 @@ adazzle
 asonant
 apalit
 apanaged
+awm
 aquintocubital
 allozooid
 alouatta
