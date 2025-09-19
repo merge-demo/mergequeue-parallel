@@ -1422,7 +1422,6 @@ afterwrist
 amphoricity
 apex
 acclamator
-acclimatable
 autecologically
 annotative
 absinthian
@@ -3241,6 +3240,7 @@ adaptions
 adaptitude
 azurite
 adaptive
+acclimatable
 amortizement
 archpiece
 apostemation
