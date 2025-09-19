@@ -2289,7 +2289,6 @@ domineerer
 determinative
 demnition
 dowset
-durax
 dyewoods
 disburden
 decemfoliate
@@ -14564,6 +14563,7 @@ deleaded
 divinizing
 detribalization
 denomination
+durax
 dimmable
 diphaser
 divisibility
