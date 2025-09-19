@@ -872,7 +872,6 @@ delightful
 desists
 delegatory
 degauss
-defix
 deneb
 devoicing
 dowered
@@ -3016,6 +3015,7 @@ domestication
 deerfood
 digraphic
 deservings
+defix
 diphthongs
 diverberate
 deucedly
