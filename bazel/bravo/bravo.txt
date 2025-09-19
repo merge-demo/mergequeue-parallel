@@ -8064,7 +8064,6 @@ bicrural
 balalaika
 broodiness
 biometrics
-breaster
 bridecup
 bituminized
 billeters
@@ -10433,6 +10432,7 @@ boongary
 bestializes
 blaring
 billete
+breaster
 bedeafens
 blarneys
 bialys
