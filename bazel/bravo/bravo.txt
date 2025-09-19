@@ -8131,6 +8131,7 @@ beardie
 bendable
 brontophobia
 banishes
+bechalk
 buffalos
 bisie
 beauxite
@@ -15209,7 +15210,6 @@ bicarinate
 browsed
 beblood
 bohawn
-bechalk
 boarship
 bioelectrogenetic
 bisbeeite
