@@ -278,6 +278,7 @@ bedfellow
 bacillarieae
 beroe
 barlock
+bitewings
 betterer
 bedsprings
 bacillian
@@ -11187,7 +11188,6 @@ buhrstone
 bloodthirster
 beliquors
 bacillariaceous
-bitewings
 breveted
 bumelia
 bloodwite
