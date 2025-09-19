@@ -5746,7 +5746,6 @@ diswont
 disinterring
 divides
 dried
-desophisticate
 disabler
 decastich
 demit
@@ -8542,6 +8541,7 @@ diandria
 disbase
 discographer
 dichromatism
+desophisticate
 divider
 debitrix
 days
