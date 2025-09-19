@@ -6314,7 +6314,6 @@ benzofuryl
 bracted
 biozone
 belgium
-baldcrown
 bastioned
 beebees
 broken
@@ -7835,6 +7834,7 @@ buoyancies
 bepommel
 bewhiten
 brachiation
+baldcrown
 baldachinos
 blenchingly
 bibliomane
