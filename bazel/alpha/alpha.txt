@@ -13399,7 +13399,6 @@ anthropophagical
 announced
 announcing
 annualized
-apair
 annueller
 acrostolion
 animadversive
@@ -24180,6 +24179,7 @@ antepatriarchal
 automative
 antronasal
 awardee
+apair
 abstractedness
 acutenaculum
 automatize
