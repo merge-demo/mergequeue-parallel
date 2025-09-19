@@ -19798,7 +19798,6 @@ combaters
 combating
 combative
 combativeness
-citizenship
 comedos
 chrysanthemum
 crokinole
@@ -25446,6 +25445,7 @@ campagnols
 cinematically
 corodiary
 corodies
+citizenship
 cocowood
 corol
 condemns
