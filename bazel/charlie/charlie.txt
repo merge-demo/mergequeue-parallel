@@ -17794,7 +17794,6 @@ cocuyo
 commix
 chromogenous
 cissy
-cuproscheelite
 cocuswood
 catachthonic
 characterizers
@@ -22613,6 +22612,7 @@ conn
 cements
 connate
 connateness
+cuproscheelite
 crinate
 connatural
 connaturality
