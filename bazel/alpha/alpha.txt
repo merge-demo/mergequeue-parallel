@@ -6280,7 +6280,6 @@ axanthopsia
 acerbas
 antignostical
 archlute
-amphipneusta
 ameliorant
 agujon
 arnold
@@ -11598,6 +11597,7 @@ aldim
 armorbearer
 acacatechin
 ablator
+amphipneusta
 acnodes
 aurification
 anagogic
