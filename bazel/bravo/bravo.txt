@@ -2658,6 +2658,7 @@ branchiurous
 bimensal
 bellying
 barling
+balkline
 bortz
 bertholletia
 barghest
@@ -16756,7 +16757,6 @@ birdcalls
 battak
 butut
 betas
-balkline
 basename
 bowdlerizations
 beam
