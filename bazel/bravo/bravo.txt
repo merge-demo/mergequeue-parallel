@@ -9754,7 +9754,6 @@ bicetyl
 biteche
 barbicans
 bowdlerization
-barrels
 balawa
 beamy
 brassica
@@ -15943,6 +15942,7 @@ bollards
 burgessdom
 brontosauruses
 beryllium
+barrels
 bilateralities
 bemoaned
 byous
