@@ -2659,6 +2659,7 @@ canikins
 cephalocereus
 canille
 canines
+cliquishness
 caning
 counterreprisal
 caniniform
@@ -23978,7 +23979,6 @@ cooked
 convalescing
 convallaria
 chalazion
-cliquishness
 consummately
 convect
 calcicole
