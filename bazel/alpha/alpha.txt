@@ -2565,6 +2565,7 @@ acranial
 aethalia
 assignor
 advertizer
+alphabetiform
 albergo
 analytic
 apartment
@@ -9195,7 +9196,6 @@ alop
 alopecias
 alopecic
 antifermentative
-alphabetiform
 antrectomy
 alopeke
 alophas
