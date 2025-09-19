@@ -7190,7 +7190,6 @@ awmbrie
 ariole
 anglesite
 avenues
-anglomania
 adjuvant
 albedo
 arbalests
@@ -7403,6 +7402,7 @@ apnoeas
 anelectrotonic
 antepagmenta
 ahind
+anglomania
 arithmetizations
 arrestable
 adagietto
