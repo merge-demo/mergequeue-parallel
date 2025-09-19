@@ -9405,6 +9405,7 @@ chazans
 chazanut
 chimonanthus
 chazy
+chrysopidae
 chuting
 circularwise
 chazzans
@@ -12231,7 +12232,6 @@ crackup
 cavelike
 chromonemic
 chrysopid
-chrysopidae
 chrysoprase
 crookery
 chrysoprasus
