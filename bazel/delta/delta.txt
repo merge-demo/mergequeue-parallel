@@ -3419,7 +3419,6 @@ diacetylmorphine
 damozels
 desisting
 defoamer
-dryer
 dratchell
 doltishness
 dichlorohydrin
@@ -9506,6 +9505,7 @@ despondently
 dungbird
 digenite
 dereistically
+dryer
 demounting
 disheathing
 disembarrass
