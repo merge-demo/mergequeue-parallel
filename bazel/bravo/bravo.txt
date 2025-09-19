@@ -9945,6 +9945,7 @@ brimfullness
 bivalency
 brows
 blairmorite
+bagger
 bivalents
 batfowl
 biognosis
@@ -16591,7 +16592,6 @@ bloodspiller
 busker
 blarneying
 banalness
-bagger
 blocage
 banquetings
 busby
