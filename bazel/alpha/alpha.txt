@@ -7635,6 +7635,7 @@ atraumatic
 alumel
 aurae
 aphidicide
+amphigories
 aldazine
 aldoheptose
 airer
@@ -24715,7 +24716,6 @@ aviatrice
 amar
 avicennia
 avicenniaceae
-amphigories
 americanistic
 anthratetrol
 arayne
