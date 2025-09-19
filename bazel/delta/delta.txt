@@ -6303,6 +6303,7 @@ dechloridize
 dindon
 dermatoplasm
 diapositive
+dictyostelic
 dualities
 dermatoplastic
 deluminize
@@ -18223,7 +18224,6 @@ deedful
 depersonalize
 delights
 delinquently
-dictyostelic
 ditetragonal
 dentatocostate
 dermatorrhoea
