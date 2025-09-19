@@ -15173,6 +15173,7 @@ doggrel
 dogget
 dottrels
 dorlot
+drizzles
 dermaptera
 doghouse
 donning
@@ -17305,7 +17306,6 @@ degged
 drivewell
 dropping
 decretist
-drizzles
 deadlocks
 dressmake
 dureresque
