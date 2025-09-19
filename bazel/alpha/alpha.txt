@@ -84,6 +84,7 @@ archineuron
 aband
 abandon
 androecial
+apetalose
 autarch
 amphipods
 alispheno
@@ -6333,7 +6334,6 @@ atheological
 anthemed
 attar
 ahmed
-apetalose
 allotriodontia
 aeneas
 ahmedi
