@@ -924,7 +924,6 @@ danio
 dudman
 daphni
 dollyway
-daphnia
 diaclastic
 delible
 drumlier
@@ -7581,6 +7580,7 @@ dumfounding
 diazotize
 deuteranomaly
 deuteranope
+daphnia
 deuterate
 deuteration
 denucleate
