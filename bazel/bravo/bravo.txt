@@ -1144,7 +1144,6 @@ bairnly
 branky
 barkstone
 bedimmed
-boiseries
 boatload
 bracteolate
 bloodybones
@@ -14276,6 +14275,7 @@ braggle
 bandboxes
 brassicaceae
 blimps
+boiseries
 blindball
 backaches
 bluet
