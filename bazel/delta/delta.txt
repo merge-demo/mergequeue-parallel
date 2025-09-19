@@ -4573,6 +4573,7 @@ dosimetric
 demifigure
 demigardebras
 decentres
+dotlike
 dunbird
 detroiter
 desugarize
@@ -11857,7 +11858,6 @@ discure
 decentralism
 dispositor
 discurre
-dotlike
 dislikable
 discursify
 dewcup
