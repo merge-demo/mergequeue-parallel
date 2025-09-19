@@ -11953,7 +11953,6 @@ beraked
 bogyism
 backtracker
 broncobusters
-bandagers
 bookbind
 brothelry
 bogymen
@@ -13403,6 +13402,7 @@ bothrium
 batophobia
 bries
 bothrodendron
+bandagers
 brining
 blackcap
 bookdealer
