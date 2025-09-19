@@ -422,6 +422,7 @@ daintified
 desiccating
 ditchbank
 diverticula
+disconnects
 daintiness
 daiquiri
 dingle
@@ -11623,7 +11624,6 @@ disconnectedness
 disconnector
 dhurnas
 demicannon
-disconnects
 denotable
 devillike
 disconsent
