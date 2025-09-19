@@ -6613,6 +6613,7 @@ berytidae
 boblet
 bicultural
 bisulfate
+blatjang
 bortzes
 batteler
 bhaga
@@ -14618,7 +14619,6 @@ balletically
 bogle
 buffets
 buzzerphone
-blatjang
 bitted
 brasils
 bullwhack
