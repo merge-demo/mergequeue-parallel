@@ -1343,6 +1343,7 @@ dishy
 dolf
 daltonic
 deoxidizers
+demoted
 deludingly
 dozy
 deselecting
@@ -4999,7 +5000,6 @@ demospongiae
 demosthenean
 deckels
 demote
-demoted
 demotes
 disomus
 deutoxide
