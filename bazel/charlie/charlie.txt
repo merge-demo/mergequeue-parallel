@@ -18436,7 +18436,6 @@ chatties
 calpulli
 corporal
 coenosarcal
-cognisant
 cognises
 creepy
 chatchkas
@@ -23221,6 +23220,7 @@ coiffure
 capful
 constrainingly
 cokes
+cognisant
 cubbyhole
 constraints
 confervaceous
