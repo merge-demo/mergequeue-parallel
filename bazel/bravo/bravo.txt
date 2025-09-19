@@ -9502,7 +9502,6 @@ burnover
 barbal
 beltie
 braireau
-beechiest
 bedismal
 beneficently
 bracon
@@ -13424,6 +13423,7 @@ brannier
 botryomycoma
 backcomb
 biogenetically
+beechiest
 banqueters
 bokark
 botryomycosis
