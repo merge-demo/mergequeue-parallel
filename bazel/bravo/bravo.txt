@@ -663,7 +663,6 @@ bacteriotherapeutic
 bechances
 beletter
 bungles
-bacterized
 briguing
 battalions
 barefacedly
@@ -4259,6 +4258,7 @@ bargestone
 beneception
 blessing
 boggish
+bacterized
 brabbled
 blindish
 bacterious
