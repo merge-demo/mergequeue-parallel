@@ -3427,7 +3427,6 @@ bowstave
 bummers
 brigantines
 bastardry
-briny
 biotechnologicaly
 barker
 bleakly
@@ -14794,6 +14793,7 @@ becapped
 bedcovers
 breadmaker
 brogueneer
+briny
 bowieful
 baldrick
 breadroot
