@@ -279,7 +279,6 @@ bedsprings
 bacillian
 beflower
 bacillicidic
-bacilliform
 bigamic
 bacilligenic
 blurts
@@ -17621,6 +17620,7 @@ burgundy
 bonnetman
 brushbird
 belletrists
+bacilliform
 blithebread
 biliate
 buttgenbachite
