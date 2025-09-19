@@ -2263,7 +2263,6 @@ acidurias
 arteriole
 aulacodus
 acierate
-aneurismatic
 androcles
 acierated
 amphoriloquy
@@ -3864,6 +3863,7 @@ anaclete
 amimide
 afforced
 anthus
+aneurismatic
 ankuses
 attrist
 acronymize
