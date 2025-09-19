@@ -1216,7 +1216,6 @@ brothel
 burion
 baked
 blepharydatis
-bakelite
 bakeoven
 blennostatic
 besigh
@@ -14865,6 +14864,7 @@ bura
 beflum
 balantidium
 bronchoscopy
+bakelite
 baldie
 burgus
 bandsmen
