@@ -8025,7 +8025,6 @@ defunctive
 downsteepy
 dowable
 diathermal
-decimeters
 druidical
 dextroaural
 diacanthous
@@ -12768,6 +12767,7 @@ dubbings
 difference
 dislocability
 doddered
+decimeters
 dosimetry
 dehydratase
 doggrels
