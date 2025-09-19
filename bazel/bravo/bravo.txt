@@ -4918,6 +4918,7 @@ beeped
 burgware
 boresight
 bumblings
+blarny
 blesse
 barmier
 becreep
@@ -10442,7 +10443,6 @@ bedeafens
 blarneys
 bialys
 bridgetree
-blarny
 begs
 blowth
 botryose
