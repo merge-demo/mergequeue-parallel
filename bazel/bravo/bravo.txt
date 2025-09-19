@@ -2591,7 +2591,6 @@ bulletined
 bedevils
 barytocelestite
 barytone
-busing
 bergere
 bears
 brittlely
@@ -12123,6 +12122,7 @@ bolelike
 besmoked
 boxtops
 burthening
+busing
 bikukulla
 bowless
 brig
