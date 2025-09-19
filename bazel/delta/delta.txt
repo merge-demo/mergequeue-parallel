@@ -15534,7 +15534,6 @@ demurer
 denis
 dishwares
 dijudication
-demibarrel
 dadaist
 dines
 diclinic
@@ -16672,6 +16671,7 @@ dragonesque
 daphnis
 davach
 distr
+demibarrel
 darkhearted
 docketed
 dragonfishes
