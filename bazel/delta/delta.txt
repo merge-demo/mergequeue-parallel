@@ -5232,6 +5232,7 @@ dellenite
 dsp
 dryopes
 disseminated
+dioscorein
 distortedness
 distemperature
 diaphote
@@ -17697,7 +17698,6 @@ discrowned
 diclinism
 dioptograph
 disty
-dioscorein
 dekapode
 deratizing
 dualize
