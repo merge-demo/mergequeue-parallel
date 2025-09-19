@@ -4388,7 +4388,6 @@ antimythic
 arrogance
 amania
 amphiboliferous
-antinome
 axotomous
 advertence
 advertently
@@ -9864,6 +9863,7 @@ aperu
 agrufe
 albinuria
 amberoid
+antinome
 anomoeomery
 acinotubular
 acrodonts
