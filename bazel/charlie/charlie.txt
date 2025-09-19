@@ -17349,7 +17349,6 @@ contaminable
 chardock
 colloids
 casual
-coapprentice
 caraipe
 corporately
 coappriser
@@ -31851,6 +31850,7 @@ cutisector
 cutises
 cauliculi
 cutiterebra
+coapprentice
 crashes
 controverse
 cutlasses
