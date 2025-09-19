@@ -7475,7 +7475,6 @@ atrocity
 agau
 apio
 ambulation
-archduxe
 aspalax
 asylum
 alchemy
@@ -8186,6 +8185,7 @@ alabandite
 automatical
 alimony
 alymphia
+archduxe
 archdapifer
 antipapistic
 amacrine
