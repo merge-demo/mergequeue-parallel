@@ -19490,7 +19490,6 @@ colorfastness
 carcerating
 cybernetical
 cuffle
-colorful
 colorfulness
 coveralled
 censorate
@@ -28414,6 +28413,7 @@ chabot
 creant
 copaene
 creased
+colorful
 creaseless
 creashaks
 chevachie
