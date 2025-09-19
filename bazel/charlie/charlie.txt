@@ -13737,7 +13737,6 @@ cinclis
 clinah
 cinclus
 cephalocathartic
-cinct
 conquistadors
 cure
 chisels
@@ -27905,6 +27904,7 @@ californians
 cradlechild
 cradled
 cradlefellow
+cinct
 cradleland
 captivatrix
 counterselection
