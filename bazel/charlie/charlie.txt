@@ -23281,7 +23281,6 @@ cyamus
 cardiatomy
 coextending
 coalitionist
-ciceroning
 cephaletron
 cystocele
 constuctor
@@ -26957,6 +26956,7 @@ cerebroid
 culpa
 conjugable
 chartae
+ciceroning
 circumventer
 counterphobic
 chondromas
