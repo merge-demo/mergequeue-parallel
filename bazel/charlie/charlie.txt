@@ -5999,7 +5999,6 @@ cloudlike
 craftsperson
 cryptoporticus
 canephroi
-cameroonian
 casuistical
 catmints
 catnap
@@ -6161,6 +6160,7 @@ cassolette
 condoned
 climactery
 caudle
+cameroonian
 caudles
 caudocephalad
 clappering
