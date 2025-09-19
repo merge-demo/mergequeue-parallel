@@ -24600,6 +24600,7 @@ ckw
 chutzpahs
 centigrade
 carbonate
+covillea
 chiggak
 cypripedium
 copingstone
@@ -25224,7 +25225,6 @@ chytridiaceous
 cladoptosis
 ciliola
 corklike
-covillea
 cruche
 cannonarchy
 crystallogy
