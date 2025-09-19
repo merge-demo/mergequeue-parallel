@@ -1565,6 +1565,7 @@ deactivators
 distressedness
 dutifulness
 defleaed
+dyebeck
 deadlier
 deaden
 drippings
@@ -14151,7 +14152,6 @@ defective
 dithyrambic
 disacknowledgement
 decedent
-dyebeck
 disulfuric
 desulfurated
 drakefly
