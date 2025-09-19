@@ -8347,7 +8347,6 @@ batatilla
 belard
 bywords
 buzukis
-bulgingly
 beatster
 briquet
 bignoniaceous
@@ -15164,6 +15163,7 @@ beveler
 boardman
 bedclothes
 brizz
+bulgingly
 bridemaid
 blastomycetous
 bahur
