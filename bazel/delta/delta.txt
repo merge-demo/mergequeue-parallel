@@ -8938,6 +8938,7 @@ dicentras
 dipyramid
 dyads
 dentallia
+drysne
 denaturalise
 defiatory
 diceras
@@ -12323,7 +12324,6 @@ diplegias
 doublegear
 dissuade
 dogface
-drysne
 decipolar
 durbar
 druttle
