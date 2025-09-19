@@ -6945,7 +6945,6 @@ dottedness
 degerming
 doctrinism
 diplegia
-dotless
 disgruntling
 dosiology
 diarthroses
@@ -8151,6 +8150,7 @@ dhobee
 dhoby
 dealcoholist
 dysacusia
+dotless
 dysautonomia
 disciplines
 delhi
