@@ -8594,7 +8594,6 @@ disclosures
 dignification
 diaphysial
 determinism
-diaphonies
 diaphoreses
 disarranging
 devoutlessness
@@ -12346,6 +12345,7 @@ demigrate
 diazotizable
 deossify
 desynchronize
+diaphonies
 diphosphate
 diaconia
 dextrotropic
