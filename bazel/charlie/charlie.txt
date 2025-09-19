@@ -12852,6 +12852,7 @@ churchianity
 churchyard
 crawlways
 corrodible
+catallum
 churchyards
 churchier
 chuckholes
@@ -15583,7 +15584,6 @@ classificator
 culicidae
 capelline
 classificatory
-catallum
 cotwinned
 cair
 censive
