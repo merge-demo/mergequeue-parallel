@@ -8565,6 +8565,7 @@ chanciness
 calthrops
 chinks
 chancing
+coins
 chancito
 chanco
 clearing
@@ -18699,7 +18700,6 @@ cytozymase
 coining
 coinmate
 coinmates
-coins
 catallactics
 coinspire
 cyclopentene
