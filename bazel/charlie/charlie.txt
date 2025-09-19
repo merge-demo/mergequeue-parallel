@@ -8781,7 +8781,6 @@ chaperonage
 chaperone
 catesbeiana
 cirsium
-chints
 chapes
 clinicians
 chapiter
@@ -13415,6 +13414,7 @@ cymols
 cassida
 catchingly
 coequate
+chints
 courageously
 crossbolted
 ciderish
