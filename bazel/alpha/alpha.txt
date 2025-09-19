@@ -276,7 +276,6 @@ aplodontiidae
 abdominalian
 appurtenances
 accuracy
-autotropism
 arteriopathy
 aguamas
 abdominals
@@ -7706,6 +7705,7 @@ amphibiological
 alectoropodous
 apse
 alectryomachy
+autotropism
 arrentable
 aerotow
 animoseness
