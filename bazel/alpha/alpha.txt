@@ -2454,7 +2454,6 @@ autoactive
 afdecho
 amphicyrtic
 aconital
-antrotympanitis
 aconite
 adoptabilities
 antherid
@@ -9064,6 +9063,7 @@ antievolutionally
 assumpsit
 amphitokous
 almost
+antrotympanitis
 anapterygotous
 accentuality
 affixers
