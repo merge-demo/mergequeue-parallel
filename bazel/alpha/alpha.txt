@@ -7897,7 +7897,6 @@ alfaquis
 alfenide
 aefaldness
 abysm
-aqualunger
 arabizes
 amharic
 authentical
@@ -18384,6 +18383,7 @@ averish
 annexure
 aminity
 amorua
+aqualunger
 abacination
 amias
 arabinoside
