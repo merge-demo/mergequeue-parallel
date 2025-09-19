@@ -18676,7 +18676,6 @@ cervelliere
 coincided
 cobbler
 choicy
-coincidents
 coinciding
 cadillacs
 cystomata
@@ -23771,6 +23770,7 @@ crappers
 class
 contralto
 carisa
+coincidents
 conjunctural
 chessmen
 cothurned
