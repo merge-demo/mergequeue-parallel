@@ -5314,6 +5314,7 @@ casteisms
 cornices
 casteless
 chifforobes
+counteract
 clothesman
 chimerical
 citator
@@ -13330,7 +13331,6 @@ curfewing
 cyclophosphamide
 cyclopy
 crojack
-counteract
 coccomyces
 consolement
 crabbit
