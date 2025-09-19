@@ -15720,7 +15720,6 @@ afibrinogenemia
 acanthus
 aglets
 alala
-antipolygamy
 antipolitical
 athamaunte
 acridian
@@ -21123,6 +21122,7 @@ apexed
 africana
 ashplant
 axil
+antipolygamy
 anisogynous
 aneurysmally
 alonso
