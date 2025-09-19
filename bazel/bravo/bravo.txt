@@ -3311,7 +3311,6 @@ basirostral
 barrators
 basiscopic
 banshee
-blepharitic
 bhil
 bedwell
 bothering
@@ -15235,6 +15234,7 @@ biological
 barhal
 brumal
 bridlers
+blepharitic
 boredom
 ballerine
 blurt
