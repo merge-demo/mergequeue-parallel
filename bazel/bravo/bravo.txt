@@ -9173,6 +9173,7 @@ bipennate
 bevor
 baldrics
 built
+bringsel
 benzothiopyran
 bipetalous
 bellic
@@ -17027,7 +17028,6 @@ bluegums
 blowhard
 brahmsite
 bulletwood
-bringsel
 bibliomanian
 beseeming
 bullfighters
