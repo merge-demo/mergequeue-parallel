@@ -3061,6 +3061,7 @@ briery
 batlon
 blepharorrhaphy
 bellows
+bicameral
 biobibliographical
 bdellostomatidae
 baruria
@@ -5854,7 +5855,6 @@ belonging
 bailiffship
 belongs
 bakuba
-bicameral
 bombycina
 banderillero
 belonidae
