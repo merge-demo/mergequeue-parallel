@@ -9240,7 +9240,6 @@ diurnation
 decipherer
 dyeability
 denazification
-demilance
 devilman
 ditriglyph
 dipleurula
@@ -16021,6 +16020,7 @@ dotardism
 darned
 duddle
 dardanarius
+demilance
 drawlingly
 digraph
 drybeard
