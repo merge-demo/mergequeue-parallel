@@ -21653,6 +21653,7 @@ abattoirs
 ascogenous
 annunciator
 asserts
+authorcraft
 aphroditic
 assertum
 amynodont
@@ -24102,7 +24103,6 @@ allelocatalytic
 antiritualism
 autoinoculation
 autointellectual
-authorcraft
 athold
 anquera
 afterlifetime
