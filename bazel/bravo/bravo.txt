@@ -1174,7 +1174,6 @@ ballasting
 burlers
 balladized
 beseech
-bajardo
 belemnid
 bupleurol
 bile
@@ -11284,6 +11283,7 @@ bronchoesophagoscopy
 blancard
 beshackle
 blowholes
+bajardo
 blowie
 bibliographic
 backups
