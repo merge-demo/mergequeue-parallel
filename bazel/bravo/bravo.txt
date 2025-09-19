@@ -2944,7 +2944,6 @@ blocklayer
 barrets
 bimbo
 boundaries
-boreas
 boobishness
 blobby
 barricaded
@@ -7464,6 +7463,7 @@ besmoothing
 bevomiting
 booked
 bevomits
+boreas
 bread
 binge
 berets
