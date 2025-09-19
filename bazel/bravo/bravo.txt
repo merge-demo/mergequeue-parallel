@@ -6825,7 +6825,6 @@ bendel
 beastie
 bridelope
 bougainvillaeas
-beseemliness
 beseems
 borons
 burtree
@@ -11884,6 +11883,7 @@ barmybrained
 bended
 bodonid
 brickcroft
+beseemliness
 bromic
 barming
 bodrage
