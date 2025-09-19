@@ -1755,7 +1755,6 @@ amma
 astelic
 acephalina
 armpad
-abstractedly
 acensuador
 auroauric
 aluminum
@@ -8649,6 +8648,7 @@ alligatorfish
 aromatically
 alligatorfishes
 aphicide
+abstractedly
 arbinose
 allying
 abecedarius
