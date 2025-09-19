@@ -4474,7 +4474,6 @@ dreamlike
 disassembled
 depolish
 dementation
-dementedly
 demiatheism
 dementia
 dictionally
@@ -8847,6 +8846,7 @@ dipala
 diazomethane
 denunciant
 deposition
+dementedly
 diazonium
 diazotype
 disadvise
