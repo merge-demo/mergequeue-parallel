@@ -3355,7 +3355,6 @@ disadorn
 dramatization
 donet
 deflector
-devitrifying
 diabolic
 deflesh
 dialectician
@@ -8455,6 +8454,7 @@ dishonorably
 donsy
 daishikis
 diallings
+devitrifying
 deliracy
 dialog
 ditties
