@@ -5850,6 +5850,7 @@ catfalls
 catfight
 cilician
 creeled
+carvels
 catfish
 coalmonger
 catfoot
@@ -20125,7 +20126,6 @@ commensal
 chemurgies
 cadmus
 capybaras
-carvels
 commensurability
 commensurable
 commensurably
