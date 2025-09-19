@@ -5344,7 +5344,6 @@ castes
 collywobbles
 casteth
 crossbench
-castice
 confederates
 constatation
 cyclopism
@@ -9218,6 +9217,7 @@ collier
 chastity
 chastities
 chockstone
+castice
 cineast
 conducer
 chasubled
