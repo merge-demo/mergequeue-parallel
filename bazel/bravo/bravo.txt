@@ -7050,7 +7050,6 @@ birdsong
 briards
 basso
 bef
-bovey
 bespotting
 bespouse
 booties
@@ -17801,6 +17800,7 @@ berkowitz
 bunkerman
 beglerbegluc
 bursiculate
+bovey
 bursitis
 bestialise
 bumptiousness
