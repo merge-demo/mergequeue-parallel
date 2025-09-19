@@ -3211,7 +3211,6 @@ capitalistically
 capitalists
 capitalizable
 cubatures
-capitalized
 capitalizers
 catecheses
 creophagism
@@ -20631,6 +20630,7 @@ compendiums
 coremia
 cowhouse
 compensated
+capitalized
 compensates
 cerrero
 conglomerates
