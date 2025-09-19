@@ -10681,7 +10681,6 @@ discoveries
 dioc
 deathliness
 diplopod
-diplopoda
 discorrespondent
 delocalization
 dowly
@@ -14787,6 +14786,7 @@ domini
 detained
 deciduata
 decahedral
+diplopoda
 doctorbird
 doc
 drainerman
