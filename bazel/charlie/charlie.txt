@@ -22080,7 +22080,6 @@ colicin
 confirmed
 canonicals
 corticostriate
-confirmer
 cibarious
 caretakers
 confirmment
@@ -23353,6 +23352,7 @@ closets
 consultive
 consulto
 consultor
+confirmer
 consults
 consumated
 cosmopolitical
