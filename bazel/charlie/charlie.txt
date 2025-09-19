@@ -22342,7 +22342,6 @@ conglomeritic
 conglutinant
 codlings
 cheeps
-chirper
 conventionalise
 congolese
 carbazylic
@@ -28466,6 +28465,7 @@ caromed
 curiousest
 caecectomy
 creatureling
+chirper
 carapo
 creatureship
 conversibility
