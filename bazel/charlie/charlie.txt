@@ -1040,7 +1040,6 @@ circumcisions
 calceolaria
 commendably
 calceolate
-calceus
 coshes
 challengable
 costoclavicular
@@ -11567,6 +11566,7 @@ cholecystokinin
 cyclazocine
 cholecystolithiasis
 cholecystostomy
+calceus
 cholecystotomy
 cholecystotomies
 creatures
