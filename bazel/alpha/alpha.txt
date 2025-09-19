@@ -21401,7 +21401,6 @@ aceituna
 akund
 anonymousness
 arretine
-apotypic
 atherine
 asphyxias
 acetins
@@ -23063,6 +23062,7 @@ atticist
 atticize
 atticomastoid
 anosphrasia
+apotypic
 amandin
 attila
 attingency
