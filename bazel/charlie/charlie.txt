@@ -4930,7 +4930,6 @@ cartographically
 carton
 cartoner
 closers
-cartonful
 covinously
 cartons
 cartoonist
@@ -22259,6 +22258,7 @@ criticises
 counterrate
 cresotate
 connusable
+cartonful
 characterizer
 campanularian
 choicer
