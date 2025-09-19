@@ -2283,6 +2283,7 @@ defuzes
 disdain
 disthroning
 deflex
+deciares
 durian
 douser
 domineerer
@@ -4842,7 +4843,6 @@ detours
 dismisser
 demodulating
 designless
-deciares
 deciduoma
 deaconing
 dipsas
