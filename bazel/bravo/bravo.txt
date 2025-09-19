@@ -6254,7 +6254,6 @@ beneficential
 bandeaus
 beedom
 blawed
-benzalethylamine
 benzalphenylhydrazone
 babelism
 braw
@@ -12112,6 +12111,7 @@ boldnesses
 burbots
 bedamp
 boldo
+benzalethylamine
 benzofluorene
 bannets
 bannition
