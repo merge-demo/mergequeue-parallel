@@ -191,7 +191,6 @@ daemony
 debitumenize
 dealfish
 daemons
-drometer
 diapophyses
 daemonurgist
 devotement
@@ -14236,6 +14235,7 @@ degusting
 dogcart
 dressy
 drygoodsman
+drometer
 deflects
 dumbly
 debones
