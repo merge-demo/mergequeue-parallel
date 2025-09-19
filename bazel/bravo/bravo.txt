@@ -456,6 +456,7 @@ bangia
 butanal
 balilla
 bugbear
+ballistic
 benzolize
 backslaps
 bellonian
@@ -5894,7 +5895,6 @@ belter
 baccillla
 bogway
 billet
-ballistic
 bemadam
 bolter
 bestrowing
