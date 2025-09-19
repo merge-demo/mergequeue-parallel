@@ -15029,7 +15029,6 @@ crucificial
 carbonado
 civet
 civets
-coadjutrice
 cavorter
 citropten
 cydippian
@@ -24782,6 +24781,7 @@ costers
 courtney
 coquetry
 chiggerweed
+coadjutrice
 coquets
 clove
 chloragogen
