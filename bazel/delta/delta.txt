@@ -3069,7 +3069,6 @@ defade
 defaitiste
 dashes
 doleful
-diethyltryptamine
 digraphs
 depleting
 defalcating
@@ -11284,6 +11283,7 @@ divagating
 disbowel
 dichromate
 developpe
+diethyltryptamine
 divinity
 disbowelled
 disbranch

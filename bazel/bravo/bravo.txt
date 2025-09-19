@@ -3641,7 +3641,6 @@ blackball
 bumbleberry
 betacism
 brazenfacedly
-botchery
 bioplasm
 batoon
 barnbrack
@@ -15078,6 +15077,7 @@ bromins
 beanfest
 baxterianism
 briarean
+botchery
 budgerigar
 bejeling
 basophilic
