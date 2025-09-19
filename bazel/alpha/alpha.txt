@@ -5927,7 +5927,6 @@ anklets
 agleaf
 acetify
 antiperistasis
-aglee
 aromatophor
 antidotary
 aliases
@@ -8288,6 +8287,7 @@ architectures
 assistances
 adjusted
 aljamia
+aglee
 aljamiado
 attirail
 atfalati
