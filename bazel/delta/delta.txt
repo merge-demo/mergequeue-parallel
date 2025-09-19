@@ -5583,6 +5583,7 @@ dependabilities
 dustfall
 disally
 depended
+docious
 dolichopellic
 dependence
 desensitizes
@@ -14835,7 +14836,6 @@ docimastical
 decimation
 docimology
 dilker
-docious
 demivolt
 deflowering
 discords
