@@ -1359,7 +1359,6 @@ breadline
 bacteriophagous
 balboa
 bronchotyphus
-bethlehem
 bioplastic
 balboas
 barleymow
@@ -15656,6 +15655,7 @@ brochophony
 brocht
 brochure
 bathycentesis
+bethlehem
 babblishly
 buckers
 brock
