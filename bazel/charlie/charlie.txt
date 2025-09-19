@@ -5210,6 +5210,7 @@ crawthumper
 chirpiness
 cartman
 cokeman
+colpenchyma
 creatrix
 conditioners
 conspecifics
@@ -19595,7 +19596,6 @@ cisterna
 corposant
 colourless
 colourman
-colpenchyma
 colpindach
 canzonets
 consumership
