@@ -5145,7 +5145,6 @@ befoulment
 befreight
 bacula
 biocenosis
-baguette
 burbank
 blueball
 broiler
@@ -18203,6 +18202,7 @@ beshadowing
 brisken
 bajri
 bimetalic
+baguette
 bandusia
 beyond
 bucranium
