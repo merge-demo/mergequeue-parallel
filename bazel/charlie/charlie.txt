@@ -4168,6 +4168,7 @@ coerect
 coronated
 carecloth
 crustation
+cycloidean
 cadetcy
 cared
 conversant
@@ -13264,7 +13265,6 @@ cataloguer
 chemiatry
 cycloid
 coalternation
-cycloidean
 coalshed
 chinky
 causality
