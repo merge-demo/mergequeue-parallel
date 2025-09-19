@@ -8567,6 +8567,7 @@ chanciness
 calthrops
 chinks
 chancing
+cobbling
 coins
 chancito
 chanco
@@ -17483,7 +17484,6 @@ cobblestone
 coomb
 clepsydras
 chokeweed
-cobbling
 cobbs
 compressometer
 carabins
