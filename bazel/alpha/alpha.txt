@@ -9431,6 +9431,7 @@ althing
 althionic
 apholates
 ablution
+ascomycetous
 asterikos
 alticamelus
 altify
@@ -10408,7 +10409,6 @@ articled
 armourers
 atmiatrics
 allantoidea
-ascomycetous
 amidol
 amidophenol
 ausones
