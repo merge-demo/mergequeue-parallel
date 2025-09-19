@@ -2288,6 +2288,7 @@ artifact
 acylamino
 acylated
 awalt
+apeptic
 alizari
 archontate
 acylates
@@ -20556,7 +20557,6 @@ arthrostome
 arthrostomy
 ainu
 antiprohibition
-apeptic
 arthrotyphoid
 amninia
 amputative
