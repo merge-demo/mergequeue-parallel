@@ -8579,6 +8579,7 @@ acalephan
 aerocurve
 anapterygote
 aller
+agrise
 allergenic
 abouchement
 allergenicity
@@ -21630,7 +21631,6 @@ aesthesics
 asserted
 asserter
 automatics
-agrise
 archegonium
 assertingly
 anathematically
