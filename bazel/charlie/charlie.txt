@@ -18509,7 +18509,6 @@ coguarantor
 cynophobe
 chaotical
 cogway
-cuartino
 cerite
 cancrivorous
 cogweel
@@ -21570,6 +21569,7 @@ clinkstone
 coelastrum
 climacterical
 celestialize
+cuartino
 concresce
 concrescence
 cephalohumeral
