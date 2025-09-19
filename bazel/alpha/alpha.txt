@@ -4599,7 +4599,6 @@ aeonist
 aridly
 aide
 aeons
-animatist
 aphrodisia
 afterglide
 aisleless
@@ -18424,6 +18423,7 @@ arsmetrike
 arborizing
 abaca
 assai
+animatist
 aphrodisian
 asself
 arborolater
