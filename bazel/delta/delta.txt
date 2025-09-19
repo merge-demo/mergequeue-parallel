@@ -7543,7 +7543,6 @@ demurity
 declensional
 dopster
 downtowner
-denotations
 dopas
 dizenment
 dishabituating
@@ -11153,6 +11152,7 @@ drollness
 daturas
 drolls
 disarms
+denotations
 dishonouring
 demioctangular
 dictatorial

@@ -4817,7 +4817,6 @@ beebee
 bradystalsis
 beechen
 bejuggle
-benzoyl
 breakstone
 biscuitmaking
 bloomage
@@ -17334,6 +17333,7 @@ bradysphygmia
 bunk
 belinurus
 bipersonal
+benzoyl
 byerite
 bushbaby
 blindest
