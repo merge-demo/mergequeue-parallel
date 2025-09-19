@@ -1110,6 +1110,7 @@ asymptotic
 abutilon
 abbassi
 abutment
+architraves
 agenizing
 alice
 articulant
@@ -25323,7 +25324,6 @@ axer
 astrophobia
 azonaphthalene
 azons
-architraves
 acidy
 antisplitting
 antidotes
