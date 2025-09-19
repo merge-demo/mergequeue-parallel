@@ -12635,6 +12635,7 @@ bane
 brazilwood
 blattoid
 bellical
+bullwort
 buhrs
 bestraddling
 blancher
@@ -17128,7 +17129,6 @@ boucles
 bullterrier
 bullwhipped
 bromindigo
-bullwort
 bulrush
 boonies
 bumbailiffship
