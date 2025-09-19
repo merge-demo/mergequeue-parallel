@@ -7021,6 +7021,7 @@ coolies
 chock
 centaur
 centaurdom
+capers
 cuvette
 centaurea
 catnips
@@ -20077,7 +20078,6 @@ commeasured
 commeasuring
 commeddle
 commelina
-capers
 canon
 commem
 commemorate
