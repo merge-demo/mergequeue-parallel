@@ -5441,7 +5441,6 @@ discrownment
 dottel
 detd
 dauk
-denver
 disprover
 divagational
 detachable
@@ -8497,6 +8496,7 @@ dorsibranch
 diamat
 dambose
 dermochrome
+denver
 desmonosology
 diambic
 diamegnetism
