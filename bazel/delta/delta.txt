@@ -10532,7 +10532,6 @@ diphthongizing
 doorknob
 discompliance
 daubentoniidae
-domatium
 deess
 diversifoliate
 drest
@@ -17000,6 +16999,7 @@ dreamscape
 damnation
 duralumin
 doubtance
+domatium
 dreamsy
 denaries
 displeasingness
