@@ -14569,7 +14569,6 @@ antibiont
 aristotelianism
 antibiosis
 anaglyphic
-antibiotic
 acousmatic
 antibiotically
 anthrohopobiological
@@ -24555,6 +24554,7 @@ acetolysis
 abstersiveness
 avaram
 abilla
+antibiotic
 applicably
 antecloset
 avaremotemo
