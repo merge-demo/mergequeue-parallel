@@ -15917,7 +15917,6 @@ dorsiduct
 does
 deluge
 demidome
-downtimes
 dorsimeson
 disyllabize
 disgusting
@@ -16407,6 +16406,7 @@ downsized
 diffractions
 discobolus
 dicoelous
+downtimes
 deplumate
 daven
 dalai
