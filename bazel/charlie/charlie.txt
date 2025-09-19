@@ -1404,7 +1404,6 @@ covenantal
 calyptraea
 calyptranthes
 concinnous
-compresbyter
 crowstep
 calyptrata
 coheritor
@@ -16167,6 +16166,7 @@ climates
 corporatively
 cerenkov
 cestidae
+compresbyter
 climatographical
 climatological
 choryos
