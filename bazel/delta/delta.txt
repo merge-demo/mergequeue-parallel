@@ -3821,7 +3821,6 @@ dodecatheon
 dactylioglyphtic
 deliveror
 disleaved
-discanonized
 dimidiating
 dronishly
 diactinic
@@ -10614,6 +10613,7 @@ decoctible
 diegesis
 demounts
 diploidic
+discanonized
 dunderbolt
 dominus
 decancellate
