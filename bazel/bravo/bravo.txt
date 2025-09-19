@@ -2543,7 +2543,6 @@ burghalpenny
 bloodberry
 boilerless
 barylalia
-beleaped
 bluestockings
 bemoaned
 bactrian
@@ -3263,6 +3262,7 @@ babydom
 baboon
 bitting
 birder
+beleaped
 binormal
 basilweed
 broadsheet
