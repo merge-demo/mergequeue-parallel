@@ -5500,7 +5500,6 @@ boatswains
 beingness
 brandade
 beethovian
-blacksmiths
 beyondness
 borshts
 baryton
@@ -10630,6 +10629,7 @@ bleaks
 baldricks
 bichlorides
 brachygnathous
+blacksmiths
 baselevel
 bewash
 brunissure
