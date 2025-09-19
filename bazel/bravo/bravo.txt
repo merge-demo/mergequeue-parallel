@@ -10434,6 +10434,7 @@ begs
 blowth
 botryose
 blueweed
+boneset
 blarnid
 bhutan
 biacuru
@@ -12220,7 +12221,6 @@ bewield
 biophyte
 bridging
 bolshevized
-boneset
 benitoite
 bemud
 bolstered
