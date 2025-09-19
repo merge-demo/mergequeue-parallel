@@ -14418,6 +14418,7 @@ cyrillian
 concept
 cyrillianism
 caryatidean
+credences
 charquis
 cannot
 cyriologic
@@ -28487,7 +28488,6 @@ chihuahua
 circumtabular
 chevronel
 chavicine
-credences
 credencive
 conditioning
 credenda
