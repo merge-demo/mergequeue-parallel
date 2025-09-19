@@ -4959,6 +4959,7 @@ aesir
 almightiness
 aesop
 aesopian
+aprosopous
 astigmat
 aesthesodic
 allaeanthus
@@ -12223,7 +12224,6 @@ automelon
 androgamone
 animose
 addulce
-aprosopous
 apophony
 androgenous
 ammochryse
