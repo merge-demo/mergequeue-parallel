@@ -12179,6 +12179,7 @@ brevis
 bacchides
 begaze
 brimstone
+blindism
 bollock
 bema
 bastiment
@@ -15835,7 +15836,6 @@ bromus
 bonnyvis
 bereft
 bronchadenitis
-blindism
 bluebeard
 bullshot
 bimetallistic
