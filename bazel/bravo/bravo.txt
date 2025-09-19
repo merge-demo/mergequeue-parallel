@@ -8845,7 +8845,6 @@ bonedog
 buggeries
 biddings
 briner
-bandoras
 baisakh
 biocycle
 biocycles
@@ -9320,6 +9319,7 @@ birdies
 boondocker
 butterflying
 brimse
+bandoras
 bacule
 baronetship
 bullyrook
