@@ -9771,7 +9771,6 @@ areaways
 aquiculturist
 aftereffects
 astipulate
-aerogeography
 argean
 arietid
 alogism
@@ -16831,6 +16830,7 @@ anton
 amethystine
 angliae
 anchoic
+aerogeography
 autoregulatory
 amphorette
 aplanatic
