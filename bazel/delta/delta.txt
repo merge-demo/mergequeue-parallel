@@ -11581,7 +11581,6 @@ downton
 dunker
 diallist
 defeats
-dovekie
 discommodities
 discommoned
 dissyllabise
@@ -13530,6 +13529,7 @@ dungeoner
 datasets
 disperse
 demeritorious
+dovekie
 disquisitive
 disrelishable
 dissentment
