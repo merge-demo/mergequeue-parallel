@@ -14143,6 +14143,7 @@ aquosity
 aircrafts
 arrestment
 aftergrass
+armholes
 adrop
 anemograph
 athrepsia
@@ -14542,7 +14543,6 @@ antiatheistic
 apepsia
 avos
 archetypic
-armholes
 antiautolysin
 anchoresses
 abduce
