@@ -9607,7 +9607,6 @@ bourette
 bismite
 bismuth
 broomsticks
-badinaging
 bamboozling
 bromids
 burhinus
@@ -17902,6 +17901,7 @@ bottega
 bayogoula
 bushmaker
 bakuninism
+badinaging
 branial
 bibliopoly
 btise
