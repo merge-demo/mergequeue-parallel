@@ -4084,7 +4084,6 @@ cacuminate
 consubsistency
 cardiodilator
 clamative
-conformable
 chiropractor
 cardiodynia
 calfret
@@ -19167,6 +19166,7 @@ collimated
 collimates
 collimator
 considered
+conformable
 colline
 ceile
 collections
