@@ -9177,6 +9177,7 @@ bow
 betone
 bipinnatisect
 battlegrounds
+burlesks
 boil
 boree
 bosnisch
@@ -11401,7 +11402,6 @@ blennophthalmia
 bluelines
 biometer
 beeves
-burlesks
 bisaltae
 bedrail
 beetleweed
