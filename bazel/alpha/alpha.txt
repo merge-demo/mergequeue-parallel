@@ -7522,7 +7522,6 @@ anisil
 alcyonium
 asthenies
 alcippe
-axolemma
 actual
 alcmene
 alcogene
@@ -10574,6 +10573,7 @@ aminobenzaldehyde
 anthrachrysone
 antichrome
 astrophyllite
+axolemma
 aminobenzoic
 antidrag
 appetency
