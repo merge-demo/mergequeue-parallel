@@ -2910,6 +2910,7 @@ decompensated
 doggoner
 deaconry
 drawplate
+digitized
 detains
 divagation
 drossier
@@ -10217,7 +10218,6 @@ dinging
 dingled
 dreidl
 denuclearize
-digitized
 dingman
 doven
 dif
