@@ -13705,6 +13705,7 @@ boutique
 boches
 bouto
 barehanded
+bandages
 bandlet
 bedmaker
 butternose
@@ -18205,7 +18206,6 @@ bimetalic
 bandusia
 beyond
 bucranium
-bandages
 bushwhacks
 blackwort
 begnawed
