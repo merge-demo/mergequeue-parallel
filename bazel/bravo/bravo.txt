@@ -2309,6 +2309,7 @@ barbero
 benzoles
 bubaline
 braggers
+bavaroise
 bushwhack
 benefice
 bulldoze
@@ -15665,7 +15666,6 @@ balanopsidaceae
 bufotenine
 bylines
 brownian
-bavaroise
 brocolis
 bedman
 basicities
