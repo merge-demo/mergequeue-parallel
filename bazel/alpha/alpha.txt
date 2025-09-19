@@ -11388,6 +11388,7 @@ ascospore
 amusers
 attractors
 abbatical
+amulet
 aggravation
 authenticators
 astrologous
@@ -16862,7 +16863,6 @@ alveolars
 asap
 affreight
 aplites
-amulet
 amylopsase
 aplitic
 aplobasalt
