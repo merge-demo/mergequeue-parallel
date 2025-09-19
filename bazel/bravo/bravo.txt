@@ -3097,7 +3097,6 @@ basalts
 bombiccite
 basotho
 bedabbles
-bestness
 barbuts
 bignou
 bealach
@@ -15983,6 +15982,7 @@ bidery
 brim
 boskiest
 bigeminal
+bestness
 brookite
 ballade
 beneficient
