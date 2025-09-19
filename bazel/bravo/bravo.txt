@@ -1019,7 +1019,6 @@ baign
 barbarizes
 bewitchments
 baigneuses
-banterer
 bits
 brachycome
 boraces
@@ -5425,6 +5424,7 @@ basebred
 beheader
 beheira
 beachward
+banterer
 buffaloback
 bulletmaking
 boardmanship
