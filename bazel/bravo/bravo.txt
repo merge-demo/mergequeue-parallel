@@ -16542,7 +16542,6 @@ buccogingival
 boother
 brember
 balza
-buccolabial
 broomy
 bucconinae
 buccopharyngeal
@@ -17576,6 +17575,7 @@ burghmaster
 bowdlerized
 bequote
 banqueting
+buccolabial
 burring
 bearlet
 brenda
