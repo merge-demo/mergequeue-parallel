@@ -5471,7 +5471,6 @@ cataclysmatist
 cataclysmic
 crowboot
 cyanamide
-coopered
 cardinality
 calamumi
 clusterberry
@@ -5860,6 +5859,7 @@ catocala
 cribbage
 cathari
 catharina
+coopered
 coloplication
 catharist
 catharistic
