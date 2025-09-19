@@ -3333,7 +3333,6 @@ algology
 acetimeter
 algometer
 addle
-arthritic
 adenosis
 antonymic
 apposing
@@ -9613,6 +9612,7 @@ apterygotous
 alcoholemia
 arcked
 argentina
+arthritic
 amabel
 amabile
 afterheat
