@@ -8698,6 +8698,7 @@ chondroseptum
 chanters
 cutters
 chantership
+creedsman
 consortia
 chanteur
 chanteuse
@@ -28535,7 +28536,6 @@ chewers
 creeded
 calamistrum
 creeds
-creedsman
 criticizes
 creeker
 creekfish

@@ -7784,7 +7784,6 @@ arillus
 alerters
 autotropically
 alerting
-alertly
 ales
 anion
 alesan
@@ -13407,6 +13406,7 @@ annueller
 acrostolion
 animadversive
 albuca
+alertly
 anxiously
 aftertax
 audiences
