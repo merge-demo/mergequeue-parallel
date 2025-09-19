@@ -13737,6 +13737,7 @@ communiqu
 cinchophen
 chiropteran
 cretinoid
+cristate
 cartwhip
 cinchotine
 cullions
@@ -19175,7 +19176,6 @@ corbe
 collins
 collinses
 circumterraneous
-cristate
 chaptrel
 collinsite
 colliquate
