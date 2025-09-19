@@ -1477,7 +1477,6 @@ calling
 cirsotome
 consularity
 chiefly
-calamintha
 chuvashes
 callynteria
 callionymidae
@@ -12452,6 +12451,7 @@ circling
 chromocollotype
 chromocratic
 calculation
+calamintha
 chromoctye
 chromodermatosis
 chromogen
