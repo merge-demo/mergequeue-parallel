@@ -12034,7 +12034,6 @@ choromanic
 cajolers
 copaiva
 coprostasis
-cyclops
 catlin
 choroti
 chorous
@@ -15542,6 +15541,7 @@ convulsion
 claspers
 claspt
 coplanarity
+cyclops
 classbook
 classed
 cyclicism

@@ -4038,7 +4038,6 @@ bumperette
 bannerets
 benetnasch
 bovoid
-beatille
 beefeaters
 bearcats
 bottlefuls
@@ -14062,6 +14061,7 @@ beldames
 barytine
 brachyhieric
 berlinite
+beatille
 burkites
 behaviour
 backhooker
