@@ -2757,7 +2757,6 @@ acronic
 arcading
 adipose
 acronically
-autotherapy
 abarthrosis
 acronychal
 acronichally
@@ -5194,6 +5193,7 @@ afflated
 ataxia
 afflatus
 afflicting
+autotherapy
 afflictingly
 arviculture
 afflictionless

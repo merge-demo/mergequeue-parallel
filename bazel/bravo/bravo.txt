@@ -471,6 +471,7 @@ backswept
 backspaced
 backspacer
 bandwork
+brine
 brattles
 beforementioned
 battik
@@ -2057,7 +2058,6 @@ bobadilian
 batocrinus
 barreleye
 bumbaste
-brine
 banksmen
 betatter
 banlieu
