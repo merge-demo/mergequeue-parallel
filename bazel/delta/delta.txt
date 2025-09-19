@@ -10129,6 +10129,7 @@ dinanderie
 disfrocks
 dobrao
 dinantian
+diploid
 disquiets
 dieties
 drouthiness
@@ -11555,7 +11556,6 @@ dieticians
 diapauses
 derivationist
 deuteropathic
-diploid
 discomfortingly
 deafen
 discomycete
