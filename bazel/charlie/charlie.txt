@@ -1480,7 +1480,6 @@ calamintha
 chuvashes
 callynteria
 callionymidae
-clepe
 concertos
 celtomaniac
 calliopsis
@@ -4277,6 +4276,7 @@ concertstck
 cauterised
 calyphyomy
 crudest
+clepe
 corrupted
 canonicity
 cladophyll
