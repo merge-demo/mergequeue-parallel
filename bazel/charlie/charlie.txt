@@ -11160,6 +11160,7 @@ complexly
 commissioners
 chloralum
 chlorambucil
+chloroquine
 contrasting
 chloramin
 chloramphenicol
@@ -11370,7 +11371,6 @@ chiastic
 chloroplatinous
 creature
 cucullus
-chloroquine
 coronas
 commendam
 cyclamates
