@@ -21090,7 +21090,6 @@ cenotaph
 capitaldom
 clitelliferous
 crookle
-computations
 computatively
 clerkery
 computativeness
@@ -27307,6 +27306,7 @@ courap
 coix
 condiddled
 couratari
+computations
 courbaril
 courbe
 chemistries
