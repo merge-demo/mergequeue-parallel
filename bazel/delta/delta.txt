@@ -13932,7 +13932,6 @@ distinguishableness
 dobie
 disbosoming
 distinguishedly
-distinguishingly
 dentalising
 dodding
 deceptious
@@ -16698,6 +16697,7 @@ dragonroot
 deduce
 demesman
 diggings
+distinguishingly
 dilutant
 diffeomorphic
 diacids
