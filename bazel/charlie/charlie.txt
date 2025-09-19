@@ -7602,6 +7602,7 @@ chalk
 carduaceous
 cerebrometer
 cerebron
+chih
 cerebroparietal
 coassuming
 cannibalish
@@ -10450,7 +10451,6 @@ chiggers
 congession
 consorts
 chigoes
-chih
 conquered
 coryphaena
 courtiery
