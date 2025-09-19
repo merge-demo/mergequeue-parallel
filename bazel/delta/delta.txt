@@ -4183,7 +4183,6 @@ diothelism
 depthing
 discolour
 dunnock
-displeasant
 deaconess
 durneder
 dermatoconiosis
@@ -12227,6 +12226,7 @@ depurates
 displeasuring
 duply
 disambiguates
+displeasant
 dichocarpism
 drunk
 dermataneuria
