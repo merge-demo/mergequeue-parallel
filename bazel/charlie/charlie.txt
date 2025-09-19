@@ -15428,6 +15428,7 @@ coppas
 clary
 cumquat
 claribel
+chronanagram
 claribella
 cellifugal
 chuddar
@@ -25012,7 +25013,6 @@ crosscourt
 celotex
 chaetifera
 chinovnik
-chronanagram
 comports
 corduroys
 chiliadic
