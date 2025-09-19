@@ -9744,6 +9744,7 @@ begin
 bongo
 bibracteolate
 bawd
+besetter
 blain
 bicetyl
 biteche
@@ -11086,7 +11087,6 @@ beguines
 blotty
 baldacchino
 balaklava
-besetter
 beveto
 bilirubinic
 bioral
