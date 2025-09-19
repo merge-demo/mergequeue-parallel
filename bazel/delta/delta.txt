@@ -14302,6 +14302,7 @@ duds
 ditriglyphic
 distend
 delating
+discomposed
 disperses
 dragropes
 duotones
@@ -17332,7 +17333,6 @@ drighten
 didactic
 dehydrates
 discountenancing
-discomposed
 donnee
 droit
 drokpa
