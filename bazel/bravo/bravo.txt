@@ -3736,7 +3736,6 @@ beachwear
 battues
 broose
 burrowing
-bourdis
 batture
 bielded
 blackening
@@ -6453,6 +6452,7 @@ bequeathed
 barothermohygrogram
 bruges
 beaupere
+bourdis
 blooping
 bartramiaceae
 belga
