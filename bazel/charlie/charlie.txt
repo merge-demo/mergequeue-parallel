@@ -19690,7 +19690,6 @@ chromaticism
 columellar
 counteraffirmation
 columellia
-columelliaceae
 columels
 columna
 craved
@@ -28716,6 +28715,7 @@ crept
 canters
 circaetus
 compendiary
+columelliaceae
 crepuscular
 cavitate
 cornutine
