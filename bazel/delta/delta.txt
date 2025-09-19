@@ -9644,7 +9644,6 @@ digressed
 distiller
 dollie
 darn
-digressional
 digressive
 digressory
 dastard
@@ -17212,6 +17211,7 @@ dislocated
 dichotic
 disenvelop
 diffusibility
+digressional
 divagations
 distichlis
 debentureholder
