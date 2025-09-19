@@ -4724,7 +4724,6 @@ cowlings
 carpoidea
 chalcidid
 collarbone
-carpolith
 clitellus
 corrosibility
 compulsatively
@@ -11898,6 +11897,7 @@ chorditis
 circumferentor
 cecidomyian
 cableless
+carpolith
 coverside
 chordomesoderm
 chordotomy
