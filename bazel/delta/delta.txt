@@ -195,7 +195,6 @@ daemony
 debitumenize
 dealfish
 daemons
-diapophyses
 daemonurgist
 devotement
 dequeued
@@ -12499,6 +12498,7 @@ dishtowels
 detrital
 dishumanize
 deipnodiplomatic
+diapophyses
 dimethylmethane
 dux
 dulcianas
