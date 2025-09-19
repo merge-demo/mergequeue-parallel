@@ -6226,7 +6226,6 @@ discorder
 demising
 ditted
 decemvir
-doe
 derivativeness
 dacoit
 derivedness
@@ -7389,6 +7388,7 @@ didine
 duplification
 disgraceful
 detecters
+doe
 dunnest
 deputise
 daniglacial
