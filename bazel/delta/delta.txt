@@ -6730,7 +6730,6 @@ diascopy
 distributor
 deadhead
 desiderata
-disagreement
 dahabiyas
 demikindred
 diacoustics
@@ -12670,6 +12669,7 @@ diskelion
 discrepancries
 disker
 disgusted
+disagreement
 darraign
 definitized
 dermatropic
