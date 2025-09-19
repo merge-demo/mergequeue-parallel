@@ -2291,6 +2291,7 @@ batetela
 barbequed
 barber
 bordrag
+blancmanger
 blype
 bizet
 bauxites
@@ -11571,7 +11572,6 @@ beth
 blusterers
 bawdyhouse
 bemar
-blancmanger
 blustering
 basilicalike
 blusterously
