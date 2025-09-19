@@ -4466,6 +4466,7 @@ bloodmobile
 becrowded
 billeting
 bacchanalias
+bloomer
 bidi
 biogenous
 benzomorpholine
@@ -11677,7 +11678,6 @@ burette
 bronchocele
 birmingham
 bactericidally
-bloomer
 bronteum
 branchiostoma
 beknow
