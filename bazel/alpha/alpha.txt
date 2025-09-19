@@ -10794,6 +10794,7 @@ arumlike
 amerindic
 allegorical
 archdeaconship
+alkylogen
 amniocentesis
 amniochorial
 auxanology
@@ -24300,7 +24301,6 @@ aquaducts
 autoracemization
 autoradiogram
 autoradiograph
-alkylogen
 autoreflection
 allopurinol
 autoregulative
