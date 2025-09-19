@@ -8613,7 +8613,6 @@ basins
 brachiating
 becloud
 bilobe
-boatage
 bespawl
 besiegingly
 boomboat
@@ -11735,6 +11734,7 @@ brynza
 bajocian
 bangs
 bigarade
+boatage
 billon
 baroscopic
 bedecks
