@@ -15021,6 +15021,7 @@ bankrolls
 bretesse
 babylonize
 bebops
+biscot
 brett
 brachymetropic
 brettice
@@ -17747,7 +17748,6 @@ burrers
 burrfish
 balloonlike
 bullwhipping
-biscot
 buzzle
 bosniac
 burrhead
