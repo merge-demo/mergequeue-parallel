@@ -1932,7 +1932,6 @@ camerinidae
 camerist
 circummigrate
 comp
-crenelates
 choliambist
 crampbit
 camerlingos
@@ -17744,6 +17743,7 @@ cocoawood
 churchgoing
 cocobola
 cocobolas
+crenelates
 comeupance
 cocobolos
 coniothyrium
