@@ -4630,6 +4630,7 @@ carp
 carpathian
 careerist
 cytinaceous
+cyberneticist
 composograph
 carpenters
 crankle
@@ -13084,7 +13085,6 @@ cybernetic
 chimblies
 cybernetically
 cybernetician
-cyberneticist
 cybernetics
 culinarian
 calas
