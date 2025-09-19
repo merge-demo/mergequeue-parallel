@@ -2300,7 +2300,6 @@ blype
 bizet
 bauxites
 bestseller
-beanball
 brushier
 botryomyces
 budgerygah
@@ -9738,6 +9737,7 @@ brabanter
 boos
 brigandish
 barbarious
+beanball
 bisubstitution
 babblingly
 bubblebow
