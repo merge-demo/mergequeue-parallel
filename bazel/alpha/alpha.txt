@@ -18454,7 +18454,6 @@ arbuscular
 arbust
 arbusta
 analytics
-arbute
 arbutean
 autoagglutinin
 alarmisms
@@ -24739,6 +24738,7 @@ avidous
 avifaunas
 anciennete
 anhalonium
+arbute
 avifaunistic
 avigation
 acinetan
