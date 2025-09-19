@@ -939,6 +939,7 @@ cilioflagellate
 ceilometer
 calamars
 crinoidean
+cocoanut
 coastmen
 calambour
 castellar
@@ -17754,7 +17755,6 @@ cocksfoot
 coco
 cocoach
 campuses
-cocoanut
 chasing
 cocoas
 cocoawood
