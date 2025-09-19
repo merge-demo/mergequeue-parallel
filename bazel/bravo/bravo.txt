@@ -6753,6 +6753,7 @@ berwick
 boldness
 bummaree
 boophilus
+bowditch
 burley
 basophils
 braincraft
@@ -13767,7 +13768,6 @@ brisa
 blindstorey
 beme
 butterflyfishes
-bowditch
 bloodthirstily
 byelaws
 bromalbumin
