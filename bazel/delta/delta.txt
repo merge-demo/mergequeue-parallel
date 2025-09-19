@@ -10584,6 +10584,7 @@ dermatomycosis
 dashiki
 denote
 diamides
+deuteranopic
 disequilibrium
 diatomaceous
 dioxane
@@ -15354,7 +15355,6 @@ dehull
 doddering
 dosimeter
 dollia
-deuteranopic
 dissociate
 dingmaul
 dedolent
