@@ -454,7 +454,6 @@ didonia
 demonic
 dairywomen
 deaths
-descanting
 destituent
 dayrooms
 diazoma
@@ -6594,6 +6593,7 @@ dissolvative
 disfiguring
 dits
 diaspine
+descanting
 ditched
 diiamb
 defoliation

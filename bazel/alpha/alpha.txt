@@ -16864,7 +16864,6 @@ asap
 affreight
 aplites
 amylopsase
-aplitic
 aplobasalt
 anastrophia
 aplodontia
@@ -19550,6 +19549,7 @@ alphanumerically
 amphicome
 arils
 allethrin
+aplitic
 acmesthesia
 aryls
 ascaridole
