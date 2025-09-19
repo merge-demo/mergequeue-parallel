@@ -1463,7 +1463,6 @@ dawtit
 documentaries
 diatomic
 desipiency
-dawts
 damages
 disbarred
 dismembers
@@ -15865,6 +15864,7 @@ dornick
 dislade
 dornicks
 datival
+dawts
 dornock
 drover
 dornocks
