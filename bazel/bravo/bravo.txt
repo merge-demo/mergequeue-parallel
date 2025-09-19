@@ -10161,6 +10161,7 @@ bitreadle
 blackguard
 bos
 buckwasher
+biovular
 bezette
 bechalks
 babesiosis
@@ -16234,7 +16235,6 @@ burnweed
 backtrack
 brownwort
 bollworms
-biovular
 balistid
 broadswords
 bicarb
