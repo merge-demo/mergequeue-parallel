@@ -611,7 +611,6 @@ braiders
 beetroot
 bacterially
 bacterioblast
-buggyman
 boolean
 bactericide
 bacterin
@@ -5538,6 +5537,7 @@ byzant
 bunko
 belatedness
 bekah
+buggyman
 bedframe
 basilican
 bewreak
