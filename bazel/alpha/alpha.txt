@@ -8471,7 +8471,6 @@ allantoid
 admonishment
 aquameter
 allantoidean
-allantoides
 allantoin
 anticonvellent
 allantoinase
@@ -25130,6 +25129,7 @@ ambuscadoed
 alcoholuria
 aceologic
 axite
+allantoides
 axites
 ate
 axle

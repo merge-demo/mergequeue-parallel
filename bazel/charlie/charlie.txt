@@ -2320,7 +2320,6 @@ catapultier
 cranesbill
 chaetognathous
 cicer
-canap
 cephalotractor
 consummator
 corradiating
@@ -27522,6 +27521,7 @@ correlations
 covenantee
 complementizer
 counterretreat
+canap
 culminating
 covenanter
 covenants
