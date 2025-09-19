@@ -13099,7 +13099,6 @@ cycadaceae
 convulsional
 cicadas
 cycadeoidea
-cycadite
 cooner
 cotys
 catstone
@@ -27969,6 +27968,7 @@ colossi
 craik
 crayon
 champagnizing
+cycadite
 crayoning
 crayonist
 crayonists
