@@ -221,7 +221,6 @@ acoumeter
 astrobotany
 anacrotism
 alienages
-aguishly
 autodiagrammatic
 animadversions
 anhungered
@@ -5395,6 +5394,7 @@ antielectrons
 afterlight
 afterlives
 aerarian
+aguishly
 adrenalectomizing
 anoxybiotic
 afterlove
