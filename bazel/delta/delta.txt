@@ -9007,7 +9007,6 @@ doffs
 dom
 deedless
 desirably
-desponds
 demographic
 demonstrably
 dub
@@ -17974,6 +17973,7 @@ dufter
 deviative
 dosage
 devaluated
+desponds
 dreggiest
 distempering
 duftite
