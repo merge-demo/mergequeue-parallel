@@ -403,7 +403,6 @@ daimiel
 davallia
 dol
 diluvialist
-deadishly
 dawdlers
 drinkers
 defension
@@ -6902,6 +6901,7 @@ dipteraceae
 desoeuvre
 discoursing
 deceivingly
+deadishly
 doulce
 dewlight
 drailed
