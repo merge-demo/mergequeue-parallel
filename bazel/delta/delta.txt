@@ -5478,6 +5478,7 @@ deregister
 disenablement
 deorsum
 deorsumversion
+diffraction
 diesel
 damoisel
 disintegrate
@@ -17454,7 +17455,6 @@ dribblers
 destool
 droppage
 dressiness
-diffraction
 derogated
 decennia
 direction
