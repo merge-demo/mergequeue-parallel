@@ -7155,7 +7155,6 @@ destroy
 divisionally
 dietical
 dolthead
-diagnostic
 dicoccous
 distemonous
 discouple
@@ -13136,6 +13135,7 @@ decaffeinated
 dispensed
 dowry
 dukedom
+diagnostic
 dispensingly
 demobbed
 depurging
