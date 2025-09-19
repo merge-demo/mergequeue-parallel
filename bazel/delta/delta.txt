@@ -12297,7 +12297,6 @@ daystar
 dysgenical
 dobermans
 dermestoid
-dysgonic
 dotarie
 dismal
 dundavoe
@@ -15076,6 +15075,7 @@ defogs
 directness
 deprogram
 dissolving
+dysgonic
 detuned
 desobligeant
 dogears
