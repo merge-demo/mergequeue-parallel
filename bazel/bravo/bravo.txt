@@ -1007,7 +1007,6 @@ bourdon
 bayardly
 bordrage
 blinger
-brothellike
 baidarka
 baidarkas
 baiera
@@ -1347,6 +1346,7 @@ balanorrhagia
 bottine
 balantidic
 balaos
+brothellike
 barbed
 balases
 balat
