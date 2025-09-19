@@ -11156,6 +11156,7 @@ apothecaries
 antitrismus
 atchison
 arzrunite
+appendicular
 assemblages
 animized
 antired
@@ -11799,7 +11800,6 @@ autovaccination
 anaphyte
 antivaccinator
 alkoxide
-appendicular
 artisanry
 anthropozoic
 ampelite
