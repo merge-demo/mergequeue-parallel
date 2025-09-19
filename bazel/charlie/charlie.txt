@@ -7677,6 +7677,7 @@ cerialia
 chuet
 cerianthidae
 convolvulin
+curliness
 calculable
 ceriman
 cerimans
@@ -19131,7 +19132,6 @@ colly
 confineless
 collaborated
 colliculate
-curliness
 colonialise
 chastens
 colliculus
