@@ -1049,6 +1049,7 @@ borzoi
 botargos
 braata
 balneophysiology
+boothite
 boastive
 bailieship
 birches
@@ -12920,7 +12921,6 @@ bellite
 bitterblain
 boothes
 biforate
-boothite
 baseball
 bearfoot
 bialy
