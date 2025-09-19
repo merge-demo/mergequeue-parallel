@@ -6481,6 +6481,7 @@ browis
 berakah
 bushgoat
 breadstuff
+bagman
 bushels
 bundies
 benedick
@@ -17277,7 +17278,6 @@ benzantialdoxime
 bunga
 bicollateral
 blanketer
-bagman
 bounties
 breviary
 berloque
