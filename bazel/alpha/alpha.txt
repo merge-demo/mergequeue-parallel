@@ -4930,7 +4930,6 @@ abscound
 aerotherapeutics
 attainting
 apsidiole
-aerotherapy
 arridge
 abthanage
 agronomic
@@ -10653,6 +10652,7 @@ aground
 amities
 amitotic
 amitriptyline
+aerotherapy
 amitrole
 amitular
 aged
