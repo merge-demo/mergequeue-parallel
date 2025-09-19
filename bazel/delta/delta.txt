@@ -2241,6 +2241,7 @@ desray
 decasualise
 dysprosia
 decasualised
+disembower
 decasualized
 deadpanner
 didymous
@@ -17590,7 +17591,6 @@ dynamiter
 drumliest
 drumlinoid
 decelerated
-disembower
 dactylate
 drumlins
 dorsiferous
