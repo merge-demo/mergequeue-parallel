@@ -5911,7 +5911,6 @@ aminocaproic
 airproofed
 adoring
 axumite
-availment
 apogeny
 aromaticness
 amyous
@@ -25189,6 +25188,7 @@ axopodia
 assentatorily
 atomists
 axopodium
+availment
 athetosis
 acoupe
 aalii
