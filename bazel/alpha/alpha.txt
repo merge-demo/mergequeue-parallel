@@ -2752,6 +2752,7 @@ addaxes
 actuals
 acromyotonus
 acromphalus
+antithesize
 acronic
 arcading
 adipose
@@ -19493,7 +19494,6 @@ aquarians
 antitheses
 antemortem
 aryballoi
-antithesize
 abdominohysterotomy
 alliterativeness
 aryballus
