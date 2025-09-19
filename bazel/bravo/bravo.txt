@@ -5878,6 +5878,7 @@ broadpiece
 brontothere
 buffaloes
 belauding
+baseman
 bejant
 belter
 baccillla
@@ -16001,7 +16002,6 @@ brans
 blasphemers
 biologic
 broomiest
-baseman
 backflash
 broadwayite
 brailler
