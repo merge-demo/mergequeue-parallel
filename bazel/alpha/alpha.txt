@@ -6961,7 +6961,6 @@ apocryphon
 arthresthesia
 androides
 akkadist
-akmite
 aftershock
 avowal
 arthroderm
@@ -15566,6 +15565,7 @@ ascochyta
 acraniate
 addice
 antipasch
+akmite
 antipastic
 aureolin
 acromania
