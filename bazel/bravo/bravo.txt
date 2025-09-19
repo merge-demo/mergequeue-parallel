@@ -1289,7 +1289,6 @@ balaenidae
 bobbies
 blatch
 boracites
-benzothiazole
 ballyhack
 baldheaded
 birdberry
@@ -10590,6 +10589,7 @@ backlands
 both
 bradenhead
 bisti
+benzothiazole
 belemnite
 ballarag
 blazonment

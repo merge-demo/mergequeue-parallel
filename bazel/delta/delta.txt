@@ -4414,7 +4414,6 @@ dowse
 divelling
 dispersedness
 dinical
-diminishment
 demaree
 dying
 distends
@@ -13614,6 +13613,7 @@ dissyllable
 dialecticism
 dignitarial
 dullishly
+diminishment
 dissimilars
 dorize
 dequantitate
