@@ -11231,6 +11231,7 @@ chlorinated
 chlorinating
 curly
 chlorination
+copsole
 chlorinator
 chicote
 counterion
@@ -14890,7 +14891,6 @@ condominate
 cytopathologically
 complish
 circularity
-copsole
 cytopenia
 cytophagic
 cytophagous
