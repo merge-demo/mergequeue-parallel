@@ -14288,7 +14288,6 @@ dithyrambs
 dominicker
 dytiscid
 dytiscus
-ditokous
 dichrooscope
 dissociations
 draisene
@@ -15685,6 +15684,7 @@ drawcansir
 dap
 doomed
 declension
+ditokous
 defterdar
 dissentaneousness
 dridder
