@@ -6840,7 +6840,6 @@ ajari
 arcae
 ajava
 antipatharian
-airplane
 acumble
 ajax
 acouasm
@@ -20690,6 +20689,7 @@ aldimine
 amoskeag
 advisements
 alicant
+airplane
 aet
 anonymous
 antisophistry

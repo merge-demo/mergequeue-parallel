@@ -12138,7 +12138,6 @@ cotillage
 companionability
 cubans
 cripply
-cyclonoscope
 cackle
 crupper
 chresard
@@ -27804,6 +27803,7 @@ cozens
 cyclometers
 cozes
 cerebroside
+cyclonoscope
 cozie
 conspect
 civiliser
