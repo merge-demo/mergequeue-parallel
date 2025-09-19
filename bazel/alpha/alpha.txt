@@ -16850,7 +16850,6 @@ ately
 aluminography
 airways
 aplanogamete
-aplasia
 ablepharus
 appassionate
 awkwardly
@@ -21884,6 +21883,7 @@ assurer
 amreetas
 arabesque
 asterisking
+aplasia
 annotinous
 anticeremonial
 amphiuma
