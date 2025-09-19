@@ -9312,7 +9312,6 @@ civy
 carcoon
 cerris
 cystidean
-choreatic
 compendency
 custos
 catagmatic
@@ -10672,6 +10671,7 @@ coprolite
 chymify
 cinnabaric
 confide
+choreatic
 chiminage
 clamourer
 chimla
