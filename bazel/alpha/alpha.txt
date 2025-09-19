@@ -12349,7 +12349,6 @@ apologal
 anemometrographically
 alfilaria
 azoturia
-anemonal
 anemone
 anticreator
 avidities
@@ -18224,6 +18223,7 @@ ancones
 authoriser
 archicleistogamous
 aragonian
+anemonal
 archmagirist
 aragonitic
 aggie
