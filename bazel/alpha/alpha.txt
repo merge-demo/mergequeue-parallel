@@ -9984,6 +9984,7 @@ ablatives
 anisette
 amboceptoid
 adelpholite
+amidohexose
 aspirin
 aggadic
 adjutage
@@ -14816,7 +14817,6 @@ anticonfederative
 antiaristocracy
 arthropterous
 annulled
-amidohexose
 antilogy
 abwab
 asellidae
