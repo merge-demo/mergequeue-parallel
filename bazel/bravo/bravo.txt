@@ -7878,6 +7878,7 @@ bootlegs
 bibliopolist
 barrabora
 befall
+bearlike
 biggies
 bibliosoph
 bibliothecarian
@@ -18071,7 +18072,6 @@ bind
 budders
 bergander
 blitzkrieging
-bearlike
 benzenyl
 butcha
 bdelloida
