@@ -13099,7 +13099,6 @@ backfurrow
 baalath
 bodyguard
 bacterioscopist
-buckling
 brahui
 bregmatic
 bilging
@@ -17402,6 +17401,7 @@ bipinnatiparted
 blacknob
 buphthalmum
 buplever
+buckling
 buprestidae
 backspins
 berme
