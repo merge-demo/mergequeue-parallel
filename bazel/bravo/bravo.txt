@@ -12968,7 +12968,6 @@ bookstore
 blockheadishness
 boxer
 bopeep
-bopped
 bolshevize
 bathless
 bombastical
@@ -16987,6 +16986,7 @@ bigamistic
 bitake
 babylonite
 brooke
+bopped
 bifidate
 bulldoggedness
 bearder
