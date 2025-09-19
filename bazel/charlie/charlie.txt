@@ -11770,6 +11770,7 @@ chondropterygian
 coachlet
 colpohysterotomy
 chondrosin
+ceration
 conopid
 counterindoctrination
 chondrosis
@@ -13357,7 +13358,6 @@ crotchwood
 cyclostoma
 chasers
 cytinus
-ceration
 capon
 carnivores
 czarism
