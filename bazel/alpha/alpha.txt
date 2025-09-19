@@ -8684,7 +8684,6 @@ avens
 anfractuousness
 ascoma
 apterygote
-afforests
 acarida
 alodial
 antisensuously
@@ -20682,6 +20681,7 @@ acholias
 aspiculate
 acidheads
 aldimine
+afforests
 amoskeag
 advisements
 alicant
