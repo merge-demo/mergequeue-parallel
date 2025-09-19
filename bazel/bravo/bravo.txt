@@ -2038,6 +2038,7 @@ brasserie
 bedeguar
 bicollaterality
 bimana
+boozers
 bollandist
 bankrupt
 bosporan
@@ -14882,7 +14883,6 @@ buccina
 bankcards
 birthy
 breastpin
-boozers
 barleybreak
 basketing
 benzamido
