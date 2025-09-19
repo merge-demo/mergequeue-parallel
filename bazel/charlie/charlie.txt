@@ -5729,7 +5729,6 @@ catechizer
 choco
 cojoin
 catechizes
-cheveys
 coeldership
 corporalcy
 coyotillo
@@ -20902,6 +20901,7 @@ contentedness
 charivariing
 compos
 crotalus
+cheveys
 cloverleaf
 corpulence
 clams
