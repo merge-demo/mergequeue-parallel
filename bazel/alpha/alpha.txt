@@ -3593,7 +3593,6 @@ archness
 adhafera
 alphanumerics
 addlement
-adhara
 adharma
 ashstone
 aconitia
@@ -13715,6 +13714,7 @@ anoxemias
 ashrams
 allophane
 androgenetic
+adhara
 avicularium
 abdomina
 apocyneous
