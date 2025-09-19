@@ -11662,6 +11662,7 @@ birmingham
 bactericidally
 bloomer
 bronteum
+branchiostoma
 beknow
 bilsted
 blindfast
@@ -14499,7 +14500,6 @@ bonding
 belugite
 bedumbed
 branchiostegidae
-branchiostoma
 bounciest
 balbriggan
 brookable
