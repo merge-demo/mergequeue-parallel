@@ -15832,7 +15832,6 @@ canoes
 clears
 cerealian
 cribrosity
-clearsighted
 coprostasia
 clinohedral
 caranga
@@ -31315,6 +31314,7 @@ cottabus
 curdly
 curdoo
 cadbote
+clearsighted
 conceivably
 cured
 cornix
