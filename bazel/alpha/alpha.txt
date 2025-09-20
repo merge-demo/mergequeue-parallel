@@ -6529,6 +6529,7 @@ authorise
 aimlessly
 auroras
 aimore
+approximative
 architecturally
 aims
 aimworthiness
@@ -17896,7 +17897,6 @@ approximating
 alsophila
 approximation
 approximations
-approximative
 atomy
 allods
 approximator
