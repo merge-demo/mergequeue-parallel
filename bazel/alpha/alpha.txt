@@ -20533,7 +20533,6 @@ arthroncus
 androidal
 arthropathic
 arthrophyma
-anencephaly
 abdaria
 afrikaner
 alisphenoidal
@@ -21187,6 +21186,7 @@ asparaguses
 asilus
 aripple
 albuminizing
+anencephaly
 asymbolia
 ardency
 alfridary
