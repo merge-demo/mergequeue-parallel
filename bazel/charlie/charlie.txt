@@ -12846,6 +12846,7 @@ chirm
 championess
 correo
 churchgoers
+contest
 cholesteroluria
 calorifacient
 churchy
@@ -26825,7 +26826,6 @@ chinenses
 countergauge
 cassoon
 countergirded
-contest
 counterguard
 counterguerilla
 coosify
