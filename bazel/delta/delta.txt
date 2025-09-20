@@ -3636,7 +3636,6 @@ degravate
 demipike
 depurition
 dysrhythmia
-degreaser
 disarrange
 degreases
 dispassion
@@ -8532,6 +8531,7 @@ diandria
 disbase
 discographer
 dichromatism
+degreaser
 desophisticate
 divider
 debitrix
