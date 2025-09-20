@@ -6184,6 +6184,7 @@ britannic
 boohoo
 benjamins
 beakful
+byelaw
 benne
 bennes
 beveling
@@ -9915,7 +9916,6 @@ bridleman
 burbles
 bivalence
 binnite
-byelaw
 biland
 bedsteads
 besiegement
