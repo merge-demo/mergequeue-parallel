@@ -16287,6 +16287,7 @@ dominic
 draconic
 dialector
 downfield
+disconsonant
 dourest
 deerskins
 dizens
@@ -16881,7 +16882,6 @@ dourahs
 dissenters
 dreeing
 demilitarize
-disconsonant
 difficult
 duma
 derate
