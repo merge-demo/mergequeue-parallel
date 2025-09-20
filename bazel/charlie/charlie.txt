@@ -749,7 +749,6 @@ chalazas
 caginesses
 compote
 caesalpiniaceae
-cagot
 consensual
 cagoule
 cagui
@@ -21091,6 +21090,7 @@ cypsela
 compunct
 crassilingual
 compunction
+cagot
 curvedness
 cretonnes
 catenaries
