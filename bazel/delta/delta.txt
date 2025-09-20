@@ -5762,6 +5762,7 @@ deoxidiser
 detester
 demonland
 deconsider
+dimethoxy
 depoh
 decd
 depolarise
@@ -10219,7 +10220,6 @@ dings
 despises
 dzeron
 diecase
-dimethoxy
 dulcely
 dinitrate
 dink
