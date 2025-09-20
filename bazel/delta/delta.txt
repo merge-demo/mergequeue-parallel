@@ -2092,6 +2092,7 @@ diety
 degusted
 defoil
 dummy
+daffier
 destour
 dauntlessness
 defaced
@@ -9311,7 +9312,6 @@ deforester
 diesters
 diestrous
 drawbridge
-daffier
 diestrums
 daikering
 debruises
