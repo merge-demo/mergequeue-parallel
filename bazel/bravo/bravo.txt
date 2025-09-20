@@ -16833,7 +16833,6 @@ busti
 beglic
 bussu
 bibulosities
-beudanite
 bemeaned
 buginese
 bec
@@ -17944,6 +17943,7 @@ bulldust
 bedpan
 bracteate
 breakups
+beudanite
 bobachee
 bromometric
 barkeeper
