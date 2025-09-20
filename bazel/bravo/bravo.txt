@@ -10655,7 +10655,6 @@ biotics
 booger
 bronchorrhagia
 bleats
-bleaunt
 barbless
 brazenly
 bleb
@@ -18399,6 +18398,7 @@ brazing
 blubbered
 bibcocks
 brachials
+bleaunt
 bothlike
 bubber
 blirt
