@@ -3686,7 +3686,6 @@ adipinic
 adipocellulose
 adipoceriform
 adipoid
-angiology
 amati
 anthocyan
 airwaves
@@ -24540,6 +24539,7 @@ aahing
 avalanche
 avalanches
 avalanching
+angiology
 assortive
 avalent
 avalon
