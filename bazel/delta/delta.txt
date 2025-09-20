@@ -6527,7 +6527,6 @@ dynel
 descension
 disagreer
 descensive
-desmans
 dewdrops
 disharmonized
 donor
@@ -9984,6 +9983,7 @@ dette
 diminuendoes
 degu
 digitule
+desmans
 discursus
 denticulation
 daintily
