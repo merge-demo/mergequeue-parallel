@@ -8189,6 +8189,7 @@ backspliced
 bathyorographical
 battailous
 bluebuck
+brodequin
 biethnic
 baryes
 burden
@@ -13538,7 +13539,6 @@ boneyards
 botulisms
 bayonets
 brief
-brodequin
 briquette
 brachycephalism
 bouch

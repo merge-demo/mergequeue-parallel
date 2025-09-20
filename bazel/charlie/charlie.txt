@@ -6716,7 +6716,6 @@ cele
 celeb
 capicha
 cloamer
-caboclos
 cantrips
 chihuahuas
 celebrants
@@ -7438,6 +7437,7 @@ coastings
 cardionephric
 cephidae
 ceps
+caboclos
 corynebacterial
 cerago
 ceramal
