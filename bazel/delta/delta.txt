@@ -2500,7 +2500,6 @@ dilaters
 decibar
 dorsale
 decretively
-derivational
 dimming
 duplicipennate
 dove
@@ -12464,6 +12463,7 @@ diastereoisomer
 dishome
 deuniting
 dishonor
+derivational
 dishonorer
 disangularize
 decrescendo
