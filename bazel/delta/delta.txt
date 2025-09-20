@@ -6089,7 +6089,6 @@ dramaticism
 dognapper
 disaster
 dauntlessly
-deputizing
 delawn
 degraders
 debriefed
@@ -17231,6 +17230,7 @@ devarshi
 dermophytic
 drilling
 drillman
+deputizing
 discourser
 drylots
 dynamists

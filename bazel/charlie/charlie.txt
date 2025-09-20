@@ -6727,6 +6727,7 @@ ciscos
 clavecin
 commensality
 celebs
+chapelize
 celemin
 celemines
 celery
@@ -8769,7 +8770,6 @@ concion
 crotalism
 convalescency
 cockpits
-chapelize
 concubinal
 cryptovolcanic
 coccolithophorid
