@@ -4833,6 +4833,7 @@ comicocynical
 carriages
 carriagesmith
 cinchonicin
+confirmer
 carriageway
 carryall
 carrick
@@ -23360,7 +23361,6 @@ closets
 consultive
 consulto
 consultor
-confirmer
 consults
 consumated
 cosmopolitical
