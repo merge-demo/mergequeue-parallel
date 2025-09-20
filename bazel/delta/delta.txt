@@ -3673,7 +3673,6 @@ dehydrator
 diploidies
 depiedmontize
 demonstrating
-diam
 delapse
 dehydrochlorinase
 dulciloquy
@@ -9534,6 +9533,7 @@ discussable
 digestory
 digesture
 dinarzade
+diam
 digged
 deuterostome
 dighted
