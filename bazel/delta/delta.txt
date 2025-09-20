@@ -6343,7 +6343,6 @@ dermatrophia
 disgrade
 dephlegmatory
 dermenchysis
-delacrimation
 dermestid
 decoupage
 dextrogyration
@@ -14581,6 +14580,7 @@ depredator
 divisional
 durio
 dronkgrass
+delacrimation
 divisionary
 duplicately
 disposing
