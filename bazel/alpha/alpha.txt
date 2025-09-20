@@ -9805,6 +9805,7 @@ abandonee
 archaeology
 andoke
 abu
+aldermanry
 amaurosis
 amaze
 airlocks
@@ -10440,7 +10441,6 @@ amyelic
 aposematically
 amygdal
 aludels
-aldermanry
 anthropos
 amygdala
 amygdalaceous
