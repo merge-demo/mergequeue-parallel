@@ -3089,6 +3089,7 @@ attachments
 autospray
 acuductor
 acuities
+amplexuses
 antiendotoxin
 antizymic
 amblyomma
@@ -9138,7 +9139,6 @@ abhorrent
 actuarially
 arician
 actinidiaceae
-amplexuses
 axoplasm
 archcriminal
 armaries
