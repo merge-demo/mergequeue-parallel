@@ -880,7 +880,6 @@ bicolour
 baggagemaster
 baggager
 backings
-beffroy
 boccale
 bullyhuff
 borderlight
@@ -10217,6 +10216,7 @@ blackness
 bebump
 beggiatoaceous
 bilged
+beffroy
 broomwort
 blackpatch
 beavering
