@@ -9242,6 +9242,7 @@ denazification
 devilman
 ditriglyph
 dipleurula
+desectionalize
 dusterman
 diebacks
 dovetailed
@@ -17505,7 +17506,6 @@ deprehension
 deforcer
 delphacid
 determinacy
-desectionalize
 definitude
 dimidiate
 demonstrational
