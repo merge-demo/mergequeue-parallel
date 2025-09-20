@@ -2784,7 +2784,6 @@ acrophonetic
 avengingly
 astrol
 ascophorous
-acropodium
 acropoleis
 acriflavin
 acropora
@@ -15217,6 +15216,7 @@ anode
 antikenotoxin
 agathosma
 abwatt
+acropodium
 antiking
 aposematic
 araneology
