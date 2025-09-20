@@ -506,6 +506,7 @@ cadged
 cacao
 cadgers
 cadgily
+churn
 carboxylated
 cadge
 chorgi
@@ -4668,6 +4669,7 @@ commas
 contralateral
 choenix
 carpetbags
+circuit
 counterearth
 ciboria
 catchall
@@ -12911,7 +12913,6 @@ cassidoine
 churlier
 corrugations
 churlishness
-churn
 canvased
 cowbarn
 conducted
@@ -14134,7 +14135,6 @@ cochleas
 colloquialisms
 codecree
 chancily
-circuit
 circuital
 copperases
 circuiteer

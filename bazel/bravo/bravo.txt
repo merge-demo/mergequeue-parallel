@@ -239,7 +239,6 @@ bardism
 bumpy
 bestraw
 bowmaking
-baccilli
 bilateralism
 baccivorous
 bulbule
@@ -7055,6 +7054,7 @@ berger
 bulges
 bespill
 bathygraphic
+baccilli
 bepretty
 bastardies
 bicarbs
@@ -8301,7 +8301,6 @@ bourtrees
 bureaucratically
 benignity
 boatie
-bigg
 billie
 bowermaiden
 biotitic
@@ -9970,7 +9969,6 @@ bossism
 bombings
 befog
 bivoluminous
-bivouaced
 balaphon
 baining
 bushranger
@@ -14321,6 +14319,7 @@ brahmanize
 benched
 bimaculated
 bulrushes
+bivouaced
 borehole
 bumf
 baits
@@ -15805,6 +15804,7 @@ bromidrosis
 backtracking
 bene
 barbarism
+bigg
 bibbs
 bromination
 beswim
