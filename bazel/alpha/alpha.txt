@@ -176,7 +176,6 @@ anakes
 abbasi
 antimonarchic
 abbate
-afterword
 advertizable
 ashtray
 acidyl
@@ -20510,6 +20509,7 @@ arthrodirous
 atlantes
 anurous
 arthrodonteae
+afterword
 actinomere
 arthroempyema
 arthrogastran
