@@ -2041,6 +2041,7 @@ bankrupt
 bosporan
 brainstone
 burl
+bejelled
 balmy
 bankruptcy
 boltel
@@ -3076,7 +3077,6 @@ baleful
 brainwashing
 bimetal
 beeswings
-bejelled
 bakerite
 ballon
 brahman
