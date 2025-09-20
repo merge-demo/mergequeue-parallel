@@ -2855,6 +2855,7 @@ daedalist
 dishwatery
 devotions
 drail
+disorientate
 drepanis
 dronet
 didunculidae
@@ -13009,7 +13010,6 @@ dinning
 deconsecrating
 disgusts
 dreparnaudia
-disorientate
 dottrel
 disorients
 disown
