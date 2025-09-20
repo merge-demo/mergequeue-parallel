@@ -19719,6 +19719,7 @@ armarium
 armariumaria
 atli
 auxilium
+atour
 arette
 arsphenamine
 armband
@@ -22752,7 +22753,6 @@ ageusia
 alcelaphus
 accosting
 atorai
-atour
 amitie
 apathia
 aristarch
