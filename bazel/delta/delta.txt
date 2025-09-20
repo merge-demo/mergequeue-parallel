@@ -2471,7 +2471,6 @@ diplodocus
 docetae
 decision
 dnieper
-defeatists
 dozing
 decisional
 decisis
@@ -16703,6 +16702,7 @@ drips
 dirt
 denunciable
 disappeared
+defeatists
 duckstone
 deriders
 disburdening
