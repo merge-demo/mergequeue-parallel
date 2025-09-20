@@ -2956,6 +2956,7 @@ barricaded
 balatron
 bookable
 barricaders
+benthon
 boyism
 boondoggled
 breathing
@@ -11712,7 +11713,6 @@ bimbil
 bungstarter
 briseis
 bounders
-benthon
 bucket
 bartlett
 bobby
