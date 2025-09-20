@@ -7206,7 +7206,6 @@ basiliscine
 besully
 betrample
 beswarm
-beswelter
 bethuel
 balti
 bedraggle
@@ -7275,6 +7274,7 @@ boletaceous
 bannet
 bigly
 bugi
+beswelter
 beperiwigged
 bethesda
 babirussa
