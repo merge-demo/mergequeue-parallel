@@ -5449,6 +5449,7 @@ cyclopedia
 conductances
 cellar
 casuistries
+chondrogenous
 catan
 costumire
 cathodoluminescence
@@ -9258,7 +9259,6 @@ croziers
 coterminal
 chatchke
 chatchkes
-chondrogenous
 chateaugray
 chateaus
 chateaux
