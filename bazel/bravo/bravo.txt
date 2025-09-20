@@ -6057,7 +6057,6 @@ bushlet
 banished
 bend
 bester
-bub
 bendee
 bullwhips
 braza
@@ -16247,6 +16246,7 @@ bruits
 baddeleyite
 bacchius
 biacetylene
+bub
 brujeria
 botryolite
 barthian
