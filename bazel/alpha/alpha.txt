@@ -3124,6 +3124,7 @@ arborise
 aedine
 appendage
 axal
+actinomycestal
 acutilobate
 atterminal
 anapnometer
@@ -8307,7 +8308,6 @@ alden
 alem
 alkaline
 ankylostoma
-actinomycestal
 alkalinity
 abactor
 antiquer
