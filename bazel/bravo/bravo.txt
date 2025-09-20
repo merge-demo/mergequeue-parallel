@@ -10357,7 +10357,6 @@ blamefulness
 bespirit
 blamelessly
 barbados
-barbican
 behaviorally
 brachering
 bebait
@@ -13057,6 +13056,7 @@ bz
 bordering
 buckwheatlike
 balangay
+barbican
 bolster
 betted
 borders
