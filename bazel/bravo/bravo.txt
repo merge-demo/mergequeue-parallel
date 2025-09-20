@@ -991,7 +991,6 @@ bukidnon
 boshas
 burnous
 boyards
-bayamos
 buckraming
 brownier
 bromocresol
@@ -13719,6 +13718,7 @@ billetwood
 balneatory
 balun
 biles
+bayamos
 boutefeu
 blackings
 bet
