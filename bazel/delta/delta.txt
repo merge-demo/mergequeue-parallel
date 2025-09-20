@@ -11037,7 +11037,6 @@ dire
 discongruity
 durindana
 dacron
-deoxyribonuclease
 degranulation
 disagreements
 distally
@@ -18329,6 +18328,7 @@ decretory
 dunster
 discussants
 dematerialization
+deoxyribonuclease
 dunstone
 depository
 dasyproctidae
