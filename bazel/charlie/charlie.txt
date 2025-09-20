@@ -2117,7 +2117,6 @@ camphorated
 camphorates
 camphory
 camphoryl
-ceratothecae
 camphoroyl
 clerkliest
 camporee
@@ -6593,6 +6592,7 @@ ceratinous
 codifier
 cecum
 cecums
+ceratothecae
 cecutiency
 cedar
 cedary

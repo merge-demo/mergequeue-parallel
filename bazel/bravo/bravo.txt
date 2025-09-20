@@ -1655,7 +1655,6 @@ benzothiodiazole
 burletta
 butyrous
 biocellate
-bestrew
 bilobated
 balloted
 bibliothetic
@@ -11905,6 +11904,7 @@ bouillons
 boedromion
 bovovaccine
 bifurcation
+bestrew
 ballottine
 brevirostrate
 befouled
