@@ -18568,7 +18568,6 @@ cohesible
 cleidoscapular
 cohesively
 cutely
-collat
 conjunct
 cohibit
 cohibition
@@ -29283,6 +29282,7 @@ conchite
 clones
 coshering
 cryptonema
+collat
 cymatia
 concernedness
 cryptonemiales
