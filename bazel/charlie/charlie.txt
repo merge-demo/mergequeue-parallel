@@ -1097,7 +1097,6 @@ cabecera
 calciphilia
 centumvirate
 calciphilous
-calciphyre
 calciphobous
 cardiant
 calcispongiae
@@ -22189,6 +22188,7 @@ conformationally
 convictiveness
 cres
 conformations
+calciphyre
 conformator
 conformed
 conformer
