@@ -9971,7 +9971,6 @@ bossism
 bombings
 befog
 bivoluminous
-bivouaced
 balaphon
 baining
 bushranger
@@ -14320,6 +14319,7 @@ brahmanize
 benched
 bimaculated
 bulrushes
+bivouaced
 borehole
 bumf
 baits
