@@ -2856,7 +2856,6 @@ canopid
 cataclysm
 canopies
 caffoline
-clarigate
 corticated
 canopying
 covets
@@ -25755,6 +25754,7 @@ carhouse
 contemp
 corrode
 corrie
+clarigate
 copremic
 corroders
 cneoraceae
