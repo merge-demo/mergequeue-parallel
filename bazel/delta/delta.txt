@@ -4596,7 +4596,6 @@ demijambe
 discriminant
 dishrags
 dukhobor
-destination
 dynastically
 doegling
 demilitarise
@@ -10108,6 +10107,7 @@ dockmackie
 deranging
 disinfectant
 debilitation
+destination
 dynamogenesis
 defibrillator
 ditrochous
