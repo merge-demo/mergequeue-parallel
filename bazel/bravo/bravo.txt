@@ -7723,7 +7723,6 @@ blameableness
 boulangerite
 banca
 bumblingness
-bruyere
 bethwack
 bacchae
 bill
@@ -17703,6 +17702,7 @@ burnishers
 breakfasting
 burnishing
 bookbindery
+bruyere
 baneberries
 brulzies
 belibeled
