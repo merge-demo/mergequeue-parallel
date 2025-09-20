@@ -5226,7 +5226,6 @@ bicentenary
 bimastoid
 bullyragged
 bunkmate
-bewired
 bitless
 backmost
 bribability
@@ -5382,6 +5381,7 @@ bailed
 beguilement
 biunial
 banstickle
+bewired
 benthamite
 bloodripeness
 babelic
