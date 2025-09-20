@@ -7929,7 +7929,6 @@ cetanes
 cete
 cetera
 cetes
-cetic
 cocytus
 chitinization
 cariform
@@ -18853,6 +18852,7 @@ coleader
 cylindroconoidal
 colecannon
 chincherinchees
+cetic
 caddishly
 cryptal
 colectomies
