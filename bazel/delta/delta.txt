@@ -1177,7 +1177,6 @@ dasypod
 da
 demonstrative
 digitogenin
-defedation
 demurrer
 diparentum
 dasystephana
@@ -17918,6 +17917,7 @@ duelling
 derricks
 dullsome
 debromination
+defedation
 disburser
 deterministically
 deteriorations
