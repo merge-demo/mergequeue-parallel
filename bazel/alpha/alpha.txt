@@ -11018,7 +11018,6 @@ asswage
 ampersand
 ampersands
 archpontiff
-ascendancy
 appertained
 astromancy
 amphanthium
@@ -11943,6 +11942,7 @@ anticum
 appreciatively
 accepter
 anticonstitutionalism
+ascendancy
 aegeriid
 appels
 anasarcous

@@ -3744,6 +3744,7 @@ battues
 broose
 burrowing
 batture
+becoom
 bielded
 blackening
 borracha
@@ -13520,7 +13521,6 @@ becomes
 bottstick
 botuliform
 botulins
-becoom
 backpacks
 beadrolls
 breastful
