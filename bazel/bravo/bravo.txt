@@ -859,7 +859,6 @@ baga
 benzenoid
 bloman
 buttonhole
-biochron
 bakli
 bromodeoxyuridine
 billikin
@@ -11937,6 +11936,7 @@ bogach
 becrush
 betutor
 botonn
+biochron
 binitarian
 bisaxillary
 bogatyr
