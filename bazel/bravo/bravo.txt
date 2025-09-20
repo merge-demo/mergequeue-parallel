@@ -11616,7 +11616,6 @@ boardsmanship
 besieges
 boatloads
 boardly
-bedrapes
 buceros
 broodsac
 britzka
@@ -13005,6 +13004,7 @@ biolith
 brideless
 bituberculate
 bloomers
+bedrapes
 beadleism
 bombazine
 beliquored
