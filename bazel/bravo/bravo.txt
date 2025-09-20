@@ -9629,6 +9629,7 @@ bezzled
 battable
 busking
 brawniness
+burnishment
 balanoglossus
 barway
 beringed
@@ -12760,7 +12761,6 @@ beerish
 beclip
 burhmoot
 blurs
-burnishment
 becloaked
 bioelectric
 beshine
