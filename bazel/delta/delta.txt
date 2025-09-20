@@ -7979,6 +7979,7 @@ drenching
 dispels
 deeps
 deworming
+debellate
 deworms
 disponer
 dexiotropous
@@ -11801,7 +11802,6 @@ dexamethasone
 dogblow
 desmognathous
 disported
-debellate
 deoxidising
 diphosphoric
 dewily

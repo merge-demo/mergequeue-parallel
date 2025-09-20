@@ -25416,6 +25416,7 @@ cornubianite
 crowncapping
 chapelgoing
 chickened
+countenance
 chrome
 cornucopias
 cornule
@@ -29681,7 +29682,6 @@ crony
 compactify
 cuartillo
 cronian
-countenance
 colonizability
 currach
 cigaritos
