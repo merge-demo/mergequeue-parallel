@@ -12307,6 +12307,7 @@ bombarding
 bumblebomb
 bombardman
 bungfull
+buglet
 bacteriophagic
 bullwhacker
 betrayer
@@ -15448,7 +15449,6 @@ breathtakingly
 brachypyramid
 buzzing
 buildingless
-buglet
 bryonia
 bryophyllum
 bouncy
