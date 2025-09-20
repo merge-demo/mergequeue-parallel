@@ -7064,7 +7064,6 @@ birdsong
 briards
 basso
 bef
-bespotting
 bespouse
 booties
 backsets
@@ -7400,6 +7399,7 @@ balmier
 biternate
 bushbashing
 boilery
+bespotting
 buccocervical
 bereave
 briefest
