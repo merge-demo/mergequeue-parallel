@@ -602,7 +602,6 @@ baconize
 buckass
 bierkeller
 boidae
-biserrate
 bonjour
 barniest
 bibbery
@@ -16373,6 +16372,7 @@ bloodshotten
 bendys
 bewailing
 bejazz
+biserrate
 besmell
 broidery
 boigid
