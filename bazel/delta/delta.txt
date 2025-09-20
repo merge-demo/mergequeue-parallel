@@ -4145,7 +4145,6 @@ defibrillating
 dianthuses
 debye
 dunamis
-defeasibleness
 deguelin
 deliration
 delire
@@ -11463,6 +11462,7 @@ dialyzer
 dockyard
 determinoid
 debug
+defeasibleness
 dulcor
 discloser
 disponge
