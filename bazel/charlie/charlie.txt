@@ -9031,6 +9031,7 @@ charities
 condition
 charityless
 corporeality
+connaught
 caridoid
 cloaks
 comus
@@ -22639,7 +22640,6 @@ connaturalness
 connature
 calumniatory
 cholecystnephrostomy
-connaught
 chastiment
 connectable
 connectedly
