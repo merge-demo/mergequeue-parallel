@@ -10015,6 +10015,7 @@ antehuman
 acidimetry
 apolog
 ambreic
+autogamous
 arthroneuralgia
 augmentations
 ambrein
@@ -24016,7 +24017,6 @@ antigenicity
 autofrettage
 autogamic
 autogamies
-autogamous
 anagogy
 acquaintedness
 autotype
