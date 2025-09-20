@@ -2898,7 +2898,6 @@ chrysoidine
 calyptoblastic
 cantatas
 cantation
-cantatrice
 coverts
 chorioids
 cantdog
@@ -29538,6 +29537,7 @@ croaking
 croape
 croat
 carbogelatin
+cantatrice
 chimars
 croatan
 confrontational
