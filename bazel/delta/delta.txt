@@ -3253,7 +3253,6 @@ duet
 dolabre
 dolliness
 delaying
-deciduary
 decolored
 decapitalization
 diadoche
@@ -10312,6 +10311,7 @@ didrachmal
 daguerreotype
 deoxyribonucleic
 delphinius
+deciduary
 ditrochee
 draughting
 delta
