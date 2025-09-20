@@ -8394,7 +8394,6 @@ dialectologist
 dargue
 drive
 daemonies
-disruptable
 dioestrum
 duchies
 dialed
@@ -9350,6 +9349,7 @@ dominule
 decumary
 doubter
 dyeweeds
+disruptable
 depredable
 darwinist
 dorsonasal
