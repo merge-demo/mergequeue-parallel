@@ -4150,6 +4150,7 @@ adrenochrome
 adrenocorticotrophic
 ammonolysis
 anaspida
+acarocecidia
 albuminosis
 adrenocorticotropic
 anthracolithic
@@ -11652,7 +11653,6 @@ analgesics
 allargando
 accidency
 apportion
-acarocecidia
 anticephalalgic
 analgic
 anticeremonialism

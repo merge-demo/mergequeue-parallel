@@ -2671,6 +2671,7 @@ balkline
 bortz
 bertholletia
 barghest
+boychicks
 basiliscus
 barm
 begrimming
@@ -6552,7 +6553,6 @@ bursate
 bailment
 braziery
 bronchioles
-boychicks
 berenice
 betanglement
 bereshith
