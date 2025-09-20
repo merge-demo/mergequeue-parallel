@@ -9879,7 +9879,6 @@ descendant
 dinosaur
 dolphinfishes
 dilutedly
-duresses
 dilutely
 diagonality
 diluters
@@ -18438,6 +18437,7 @@ destroyer
 diphthongise
 dipsticks
 dupion
+duresses
 disendowing
 depressional
 dendrocalamus
