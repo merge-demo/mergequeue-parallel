@@ -7871,7 +7871,6 @@ cess
 cessantly
 cessative
 capataz
-cessavit
 caribed
 cessed
 cesses
@@ -18297,6 +18296,7 @@ cabree
 cervoid
 cheapskate
 carbonari
+cessavit
 cuss
 coala
 capelets
