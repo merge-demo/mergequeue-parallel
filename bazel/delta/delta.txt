@@ -1920,7 +1920,6 @@ declaimers
 denticulated
 delicateness
 debowel
-depravity
 debride
 debridement
 dodecylene
@@ -12193,6 +12192,7 @@ disproven
 dodrantal
 dinergate
 deucing
+depravity
 dehusk
 doom
 diacetine
