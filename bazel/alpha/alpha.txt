@@ -4936,7 +4936,6 @@ animikite
 aerugo
 aerugos
 aes
-amparo
 arenga
 autosepticemia
 abbreviates
@@ -14766,6 +14765,7 @@ anticlericalism
 anatifer
 acidophilous
 azygobranchia
+amparo
 ami
 antideflation
 anticly
