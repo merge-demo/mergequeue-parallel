@@ -3146,7 +3146,6 @@ citify
 caperers
 cheoplastic
 cachepots
-crosshatcher
 calibanism
 collagen
 compartition
@@ -12538,6 +12537,7 @@ caudal
 cassino
 chrysorin
 chromopsia
+crosshatcher
 chromoptometer
 chromoptometrical
 convalesced
