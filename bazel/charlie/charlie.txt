@@ -20490,7 +20490,6 @@ compactor
 compactors
 compacts
 comites
-chives
 compadre
 curstfully
 conjurison
@@ -21585,6 +21584,7 @@ coelastrum
 climacterical
 celestialize
 cuartino
+chives
 concresce
 concrescence
 cephalohumeral
