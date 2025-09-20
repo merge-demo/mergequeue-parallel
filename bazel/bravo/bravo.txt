@@ -4525,7 +4525,6 @@ batrachotoxin
 buttressless
 bunch
 bedad
-bedaggle
 berrybush
 beday
 barrack
@@ -9592,6 +9591,7 @@ bisyllabic
 benefactions
 braize
 bedlike
+bedaggle
 biggening
 breaches
 bisymmetry
