@@ -2473,7 +2473,6 @@ demonocracy
 debars
 dunghill
 destrudo
-diphase
 diplodocus
 docetae
 decision
@@ -8720,6 +8719,7 @@ diastasimetry
 desiderium
 devilfishes
 desalinizing
+diphase
 disappointments
 discoplacental
 dichastasis
