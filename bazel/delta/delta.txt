@@ -7926,6 +7926,7 @@ drassidae
 drammage
 dover
 dewani
+dipnoans
 depress
 disenshroud
 diffluence
@@ -18653,7 +18654,6 @@ deputable
 decasyllable
 disforest
 delinquents
-dipnoans
 drowsily
 disubstitution
 dowsers
