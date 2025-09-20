@@ -4656,6 +4656,7 @@ disavows
 disgust
 dackers
 disemburden
+divinistre
 dishtowel
 diazid
 dulcitol
@@ -11307,7 +11308,6 @@ disburse
 denominationalist
 deictic
 duckpins
-divinistre
 definability
 diminutival
 deposure
