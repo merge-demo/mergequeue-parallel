@@ -9776,7 +9776,6 @@ barbing
 brands
 begums
 bites
-birefringent
 bebat
 bitewing
 barmfel
@@ -13529,6 +13528,7 @@ bourre
 beseek
 boneyards
 botulisms
+birefringent
 brief
 brodequin
 briquette
