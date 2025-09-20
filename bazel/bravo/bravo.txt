@@ -12547,7 +12547,6 @@ bolshevik
 boser
 batsmanship
 bacubert
-bud
 badmash
 bitterwood
 brashness
@@ -13891,6 +13890,7 @@ breastworks
 bowline
 budbreak
 baptizee
+bud
 benchmarked
 barehead
 bowsman
