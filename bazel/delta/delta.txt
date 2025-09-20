@@ -3508,7 +3508,6 @@ drumlin
 dollface
 deul
 disfrock
-digestion
 dislimb
 disenchanter
 disinvest
@@ -5442,6 +5441,7 @@ divagational
 detachable
 deodorisation
 dividualism
+digestion
 deodorised
 deodoriser
 deodorization
