@@ -9522,7 +9522,6 @@ dinornithidae
 digesting
 dodecadrachm
 digestively
-dewormed
 distaff
 digestiveness
 dipteroi
@@ -11399,6 +11398,7 @@ deodands
 dowhacky
 devoter
 dehydrogenise
+dewormed
 disrupted
 defatigation
 diggable
