@@ -4248,6 +4248,7 @@ barretter
 bebang
 battologise
 bebathe
+barrels
 bryonin
 batteries
 beblooding
@@ -15957,7 +15958,6 @@ bollards
 burgessdom
 brontosauruses
 beryllium
-barrels
 bilateralities
 bemoaned
 byous
