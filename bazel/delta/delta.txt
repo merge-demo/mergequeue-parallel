@@ -6624,6 +6624,7 @@ decipherable
 digested
 deprecations
 denaturants
+denouement
 dysmerogenesis
 deadborn
 duddie
@@ -8356,7 +8357,6 @@ doryline
 diaguite
 dyak
 defensively
-denouement
 dapper
 declensions
 decomposed
