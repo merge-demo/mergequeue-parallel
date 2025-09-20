@@ -3497,6 +3497,7 @@ besplash
 barbascoes
 barrages
 boltonite
+boars
 bagworms
 blotlessness
 biennium
@@ -10173,7 +10174,6 @@ boastings
 bieennia
 badawi
 boatful
-boars
 bourns
 beaverlike
 bottomlessness
