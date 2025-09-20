@@ -7283,7 +7283,6 @@ detente
 demagoguism
 disjected
 dimetric
-detenue
 desulfurize
 dephlegmator
 dentilation
@@ -11471,6 +11470,7 @@ diluvial
 disclosive
 disclosure
 diplomaed
+detenue
 duplicitous
 discloud
 dingus
