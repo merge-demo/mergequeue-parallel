@@ -3821,7 +3821,6 @@ dimwit
 defoams
 diviningly
 dicellate
-deionizations
 dichroiscope
 doveling
 diatropic
@@ -14383,6 +14382,7 @@ divagated
 divagates
 diphthongal
 divagationally
+deionizations
 dropworm
 demagnetizes
 divan
