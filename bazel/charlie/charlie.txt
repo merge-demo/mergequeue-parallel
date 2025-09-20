@@ -3668,7 +3668,6 @@ caratch
 chevaline
 carates
 chantier
-candor
 campanularidae
 cephalosporium
 coventrize
@@ -8613,6 +8612,7 @@ commoners
 councilorship
 calais
 cavalieres
+candor
 chandlerly
 caecally
 chondrectomy
