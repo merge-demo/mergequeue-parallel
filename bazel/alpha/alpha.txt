@@ -16512,7 +16512,6 @@ akhund
 apercus
 aforegoing
 arterioplania
-autocratic
 ashkenazim
 aperea
 arcanal
@@ -22823,6 +22822,7 @@ atriums
 analepsy
 ablend
 antispace
+autocratic
 addy
 actuaries
 aeolism
