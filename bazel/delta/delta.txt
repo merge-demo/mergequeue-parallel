@@ -3398,7 +3398,6 @@ doigte
 defluvium
 demimark
 dang
-defoamed
 diacetylmorphine
 damozels
 desisting
@@ -9717,6 +9716,7 @@ destructuralize
 dichlorvos
 dubba
 dieter
+defoamed
 dispersedelement
 disturnpike
 desulphurization
