@@ -716,6 +716,7 @@ biajaiba
 botherer
 bushmanship
 baikie
+bearward
 bragas
 boral
 bade
@@ -4134,7 +4135,6 @@ butyrousness
 brit
 birdwatch
 bagwigs
-bearward
 bearwort
 beasthood
 bacons
