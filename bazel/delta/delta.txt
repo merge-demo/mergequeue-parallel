@@ -6663,6 +6663,7 @@ dilemma
 draughtswoman
 desertification
 deserting
+dennet
 desertism
 diastimeter
 disintensify
@@ -14855,7 +14856,6 @@ dominica
 dolors
 desmectasia
 dagos
-dennet
 docks
 demonologist
 docmac
