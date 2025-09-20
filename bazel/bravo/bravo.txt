@@ -7336,6 +7336,7 @@ baze
 braker
 busyworks
 bottlehead
+batted
 boomdas
 busky
 blankard
@@ -15438,7 +15439,6 @@ bromidic
 bionts
 brinksmanship
 bassorin
-batted
 beardlike
 bullseye
 bracteal
