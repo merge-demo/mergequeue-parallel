@@ -684,6 +684,7 @@ baculus
 badaga
 borsches
 bumbarge
+benzopinacone
 blamers
 barnstormed
 buccinal
@@ -8156,7 +8157,6 @@ ballistite
 bossa
 bathylite
 bielding
-benzopinacone
 blimpish
 busybodied
 beardie
