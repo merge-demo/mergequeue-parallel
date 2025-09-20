@@ -5407,7 +5407,6 @@ castoreum
 chilloes
 castorite
 castra
-covertical
 classic
 corollated
 cascaron
@@ -25469,6 +25468,7 @@ cochlitis
 coromandel
 coromell
 crociate
+covertical
 chronoscopv
 coronach
 coronachs
