@@ -6878,7 +6878,6 @@ cloze
 cousins
 cashbox
 celt
-celtiberi
 circularizers
 cofaster
 celtiberian
@@ -20017,6 +20016,7 @@ collarino
 cyclicalness
 commandedness
 cloys
+celtiberi
 courtesying
 convulsionism
 classicised
