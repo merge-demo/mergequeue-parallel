@@ -2220,7 +2220,6 @@ bithynian
 barbequing
 baalshem
 betrayers
-barbarise
 barbarised
 barbarising
 bronstrops
@@ -2305,6 +2304,7 @@ bulldoze
 bartholomite
 baobab
 babylonish
+barbarise
 biasways
 bilixanthin
 besliming
