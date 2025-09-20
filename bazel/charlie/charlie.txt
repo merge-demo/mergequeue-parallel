@@ -7197,7 +7197,6 @@ centre
 centreboard
 centred
 centreless
-centrepiece
 canephoroe
 centrer
 closely
@@ -29278,6 +29277,7 @@ chegoe
 concelebrated
 craggedly
 certiorating
+centrepiece
 cryptoheresy
 cryptoheretic
 cimicifugin
