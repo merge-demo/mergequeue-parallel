@@ -9894,6 +9894,7 @@ cicero
 chemolyze
 conquinamine
 carded
+clearance
 clamp
 caterwauling
 chemophysiology
@@ -29755,7 +29756,6 @@ carpellate
 caesural
 cytokinesis
 cropless
-clearance
 conjugately
 carlins
 cincinnatian
