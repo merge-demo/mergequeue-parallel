@@ -11300,7 +11300,6 @@ braver
 basketries
 blowguns
 bogtrotting
-beggaries
 blatchang
 bronchoesophagoscopy
 blancard
@@ -17209,6 +17208,7 @@ ballistocardiogram
 bedotted
 boniest
 bummel
+beggaries
 bummie
 burrowed
 blobber

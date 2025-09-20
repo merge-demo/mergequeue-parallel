@@ -2169,7 +2169,6 @@ dawdling
 dapedium
 diabolology
 downtime
-diosmosis
 decantist
 daza
 decapitation
@@ -11380,6 +11379,7 @@ discerner
 delegalize
 discerning
 doggrelize
+diosmosis
 diamorphine
 dingdonging
 diamminonitrate
