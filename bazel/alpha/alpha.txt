@@ -20294,7 +20294,6 @@ antistrike
 aistopod
 antiecclesiastical
 amphimacer
-allerion
 arsenobenzol
 arsenobismite
 antilogistically
@@ -21004,6 +21003,7 @@ amphodarch
 alkanna
 airparks
 anacoluthic
+allerion
 affectedness
 abuttal
 ascriptitious
