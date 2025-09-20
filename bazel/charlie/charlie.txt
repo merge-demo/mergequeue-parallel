@@ -24832,7 +24832,6 @@ coracle
 cathect
 clipeus
 calcimeter
-cosheries
 chompers
 coracocostal
 coracoid
@@ -26847,6 +26846,7 @@ cassoon
 countergirded
 counterguard
 counterguerilla
+cosheries
 coosify
 courtless
 coraciiformes
