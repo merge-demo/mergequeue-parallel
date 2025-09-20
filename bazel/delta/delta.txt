@@ -5067,6 +5067,7 @@ denaturalising
 dueller
 denaturing
 demonial
+discussional
 denaturalizing
 disfigures
 dextrogyrate
@@ -5355,7 +5356,6 @@ displaced
 denticle
 dentification
 dentil
-discussional
 deconcatenate
 delivery
 disappropriation
