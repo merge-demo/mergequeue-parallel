@@ -21054,7 +21054,6 @@ anagogical
 assiduate
 accipitrary
 appropriate
-autotomy
 atomicism
 amyotrophic
 alighted
@@ -22543,6 +22542,7 @@ acinus
 accelerant
 atheticize
 athymy
+autotomy
 athymia
 automonstration
 athymic
