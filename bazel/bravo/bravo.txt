@@ -7478,7 +7478,6 @@ bigeye
 bashaws
 bedote
 banes
-bevilled
 butterbill
 bromometrically
 blushet
@@ -8420,6 +8419,7 @@ burp
 bupleurum
 bacony
 beaverette
+bevilled
 boastless
 bocage
 bleareye
