@@ -2047,7 +2047,6 @@ achillize
 aerobically
 anthropophagy
 agave
-aptness
 acroteral
 achilous
 actinolitic
@@ -7653,6 +7652,7 @@ abiezer
 aldrins
 arba
 artize
+aptness
 acrolein
 adaptivity
 ausubos
