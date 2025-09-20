@@ -13522,6 +13522,7 @@ disgood
 diphyodont
 dismemberment
 donnism
+densitometric
 diving
 disassociated
 dicta
@@ -16459,7 +16460,6 @@ diethanolamine
 disparple
 domy
 daglocks
-densitometric
 depicter
 defrosted
 dispellable
