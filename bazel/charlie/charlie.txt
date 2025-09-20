@@ -15198,7 +15198,6 @@ commandries
 candiel
 contangos
 construal
-commanderies
 claye
 crossly
 clayey
@@ -19283,6 +19282,7 @@ conjunctives
 clitterclatter
 collotypic
 calcic
+commanderies
 clay
 classifier
 combind
