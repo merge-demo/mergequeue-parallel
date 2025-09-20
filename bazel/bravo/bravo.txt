@@ -667,6 +667,7 @@ beletter
 bungles
 briguing
 battalions
+blennostatic
 barefacedly
 batfowler
 brosot
@@ -1220,7 +1221,6 @@ burion
 baked
 blepharydatis
 bakeoven
-blennostatic
 besigh
 bootloader
 bakeries
