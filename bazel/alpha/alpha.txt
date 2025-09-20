@@ -14655,7 +14655,6 @@ anteroom
 algaeologist
 acceptancy
 affectioned
-archgomeral
 anticeremoniously
 anticeremoniousness
 antichamber
@@ -24619,6 +24618,7 @@ aegithognathism
 avenolith
 avenses
 areopagy
+archgomeral
 aventails
 axiom
 absumption
