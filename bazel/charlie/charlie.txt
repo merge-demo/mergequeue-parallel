@@ -5310,7 +5310,6 @@ creditabilities
 createdness
 criminol
 caseworker
-casteisms
 cornices
 casteless
 chifforobes
@@ -21990,6 +21989,7 @@ combe
 cavalero
 chinamania
 couhage
+casteisms
 creating
 chungking
 convexities
