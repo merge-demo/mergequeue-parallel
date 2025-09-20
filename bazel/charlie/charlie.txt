@@ -4065,7 +4065,6 @@ casuist
 capitate
 chughole
 cardinalis
-cichlids
 caddies
 coruscative
 cardiomegalia
@@ -10928,6 +10927,7 @@ chronometric
 contd
 cimmaron
 chirograph
+cichlids
 coastwaiter
 carburator
 crl
