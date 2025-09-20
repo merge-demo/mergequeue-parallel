@@ -13479,6 +13479,7 @@ ciliate
 ciliated
 ciliately
 cryptogramma
+coprosma
 chloroformist
 coolish
 corporational
@@ -19894,7 +19895,6 @@ comediant
 chaplin
 clinometer
 comedical
-coprosma
 comediette
 coagulate
 chelydridae
