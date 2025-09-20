@@ -19959,7 +19959,6 @@ affectations
 aroides
 anarcestes
 acuchi
-aroids
 affirmed
 acidulating
 apprehensively
@@ -20832,6 +20831,7 @@ aerodynamicist
 assuefaction
 anticlassicalness
 ascarid
+aroids
 amytal
 ascaridae
 ascarides
