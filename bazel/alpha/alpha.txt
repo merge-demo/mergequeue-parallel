@@ -4347,7 +4347,6 @@ adventitiousness
 adventively
 aciduria
 apaesthesia
-alimenter
 alboranite
 allegorism
 amounting
@@ -7757,6 +7756,7 @@ alenge
 alenu
 atonics
 assailableness
+alimenter
 alepole
 ashcans
 allomerized
