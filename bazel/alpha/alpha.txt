@@ -4742,6 +4742,7 @@ agadic
 aerodyne
 apastron
 astonisher
+ambisextrous
 aerodynes
 anthroposophist
 apostrophal
@@ -6034,7 +6035,6 @@ archduchess
 abluted
 arvicolinae
 annulettee
-ambisextrous
 apodosis
 allodian
 amassed
