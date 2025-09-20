@@ -4428,7 +4428,6 @@ affinitatively
 athletes
 angolar
 amphibious
-avidnesses
 advising
 accustom
 anaclasis
@@ -11347,6 +11346,7 @@ amtracks
 alephs
 adnexitis
 amtracs
+avidnesses
 amu
 analysts
 amuchco
