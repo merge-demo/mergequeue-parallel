@@ -798,6 +798,7 @@ abscission
 absconce
 arris
 abetments
+amort
 abscond
 anteport
 absconded
@@ -10933,7 +10934,6 @@ amorphously
 affirmatory
 artisanal
 amorphus
-amort
 amuguis
 algic
 anklong
