@@ -8941,7 +8941,6 @@ cyclosilicate
 circumocular
 counterattacking
 coyotero
-chrysophanus
 crenelet
 concyclic
 charco
@@ -29026,6 +29025,7 @@ cubing
 cringing
 compter
 cringingness
+chrysophanus
 congressionist
 chookie
 chlorophylliferous
