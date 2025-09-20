@@ -1546,7 +1546,6 @@ bedaubed
 balladizing
 bales
 belongings
-bichromated
 babbit
 bezel
 basted
@@ -6466,6 +6465,7 @@ bklr
 bequeathed
 barothermohygrogram
 bruges
+bichromated
 beaupere
 bourdis
 blooping
