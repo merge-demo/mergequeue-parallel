@@ -239,7 +239,6 @@ bardism
 bumpy
 bestraw
 bowmaking
-baccilli
 bilateralism
 baccivorous
 bulbule
@@ -7056,6 +7055,7 @@ berger
 bulges
 bespill
 bathygraphic
+baccilli
 bepretty
 bastardies
 bicarbs
