@@ -3300,6 +3300,7 @@ addictives
 abodah
 autofluorescence
 alinotum
+apulmonic
 adding
 alterum
 addisoniana
@@ -16354,7 +16355,6 @@ antidotical
 antemortal
 anusvara
 aesthesia
-apulmonic
 arle
 almightily
 autolysin

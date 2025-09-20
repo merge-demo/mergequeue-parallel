@@ -9821,7 +9821,6 @@ chapeless
 complexometric
 chalybean
 corrugates
-cowardliness
 clubroot
 combattants
 chucklesome
@@ -30941,6 +30940,7 @@ clinocephalic
 cultus
 chloroform
 clews
+cowardliness
 condensative
 culverhouse
 charmlessly
