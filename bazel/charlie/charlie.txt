@@ -2578,7 +2578,6 @@ candroys
 camphires
 censuses
 cyclotrons
-cane
 cd
 corneum
 cliffing
@@ -13973,6 +13972,7 @@ counterchange
 cynopithecoid
 chlorospinel
 cynorrhoda
+cane
 cynosures
 cynosurus
 cynotherapy
