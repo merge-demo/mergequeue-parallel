@@ -8928,6 +8928,7 @@ dilemi
 dicentras
 dipyramid
 dyads
+dermatographism
 dentallia
 drysne
 denaturalise
@@ -18552,7 +18553,6 @@ decolourize
 decimalise
 democratic
 durians
-dermatographism
 differ
 duricrust
 duridine
