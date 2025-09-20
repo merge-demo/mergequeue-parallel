@@ -16674,6 +16674,7 @@ clewed
 clos
 copromisor
 clodknocker
+conveniences
 closable
 closeable
 closed
@@ -30418,7 +30419,6 @@ culturization
 cantaloupe
 csch
 chaetopterin
-conveniences
 csect
 cannikins
 cpu
