@@ -2592,6 +2592,7 @@ barberry
 bucerotinae
 brandle
 bilbies
+brisks
 borides
 bulletined
 bedevils
@@ -17835,7 +17836,6 @@ boob
 bisetose
 burling
 beearn
-brisks
 brawns
 blowfly
 bush
