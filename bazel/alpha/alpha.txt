@@ -20277,7 +20277,6 @@ aphelia
 aftertime
 agnizes
 arseniferous
-arseniopleite
 armadas
 autolith
 arsenious
@@ -23167,6 +23166,7 @@ astheny
 abjunctive
 agoniadin
 attriteness
+arseniopleite
 acutilingual
 atrioporal
 adherescence
