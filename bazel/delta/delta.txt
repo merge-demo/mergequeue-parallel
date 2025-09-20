@@ -7394,6 +7394,7 @@ doe
 dunnest
 deputise
 daniglacial
+disaccharide
 dissolution
 downwarp
 dollbeer
@@ -16418,7 +16419,6 @@ decrease
 decibel
 deep
 disquisitional
-disaccharide
 devout
 douras
 deglutitive
