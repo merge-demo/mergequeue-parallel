@@ -8571,6 +8571,7 @@ bracioles
 bismuthine
 bonitoes
 bedrench
+badgeless
 billiard
 beepers
 bioactivity
@@ -13177,7 +13178,6 @@ borowolframic
 borrachio
 bachichi
 bauge
-badgeless
 belaboured
 bisulc
 bargello
