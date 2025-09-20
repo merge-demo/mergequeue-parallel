@@ -11705,7 +11705,6 @@ anaximandrian
 analogical
 amidomyelin
 anteroventral
-analogize
 acceptors
 analogon
 antihemorrheidal
@@ -13307,6 +13306,7 @@ anneslia
 annette
 aragonspath
 attitudist
+analogize
 agility
 annexational
 abluents
