@@ -4820,6 +4820,7 @@ angakoks
 aerological
 antepartum
 aeromancer
+armorbearer
 aeromechanic
 alphameric
 aeromedical
@@ -11594,7 +11595,6 @@ anaglyphs
 anaglypta
 anaglyptical
 aldim
-armorbearer
 acacatechin
 ablator
 amphipneusta
