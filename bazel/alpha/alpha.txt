@@ -4238,6 +4238,7 @@ adulator
 antireacting
 adullamite
 affrayer
+apodeictic
 abencerrages
 adulterated
 antiquary
@@ -16962,7 +16963,6 @@ agranulocyte
 apodal
 apodedeipna
 acrotarsium
-apodeictic
 anthologists
 aedoeology
 aboideaux
