@@ -7101,6 +7101,7 @@ centetid
 checkpoints
 coryphaenid
 centiares
+chemosmotic
 copita
 curvidentate
 coquetoon
@@ -9919,7 +9920,6 @@ chemoresistance
 chemoserotherapy
 chemosynthesis
 chemosynthetic
-chemosmotic
 consumptible
 clays
 calic
