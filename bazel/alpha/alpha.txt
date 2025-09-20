@@ -5820,7 +5820,6 @@ acool
 agible
 agiel
 affordable
-angor
 attain
 appomattox
 arioso
@@ -10241,6 +10240,7 @@ amphibolies
 amercing
 annihilators
 america
+angor
 arrayed
 americanese
 autographism
