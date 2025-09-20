@@ -12834,6 +12834,7 @@ barquest
 bedlamic
 bootes
 barnabite
+bradytrophic
 bioprecipitation
 boomslang
 bejelling
@@ -14216,7 +14217,6 @@ badrans
 bolsheviks
 bowels
 bestirring
-bradytrophic
 bestrewment
 bateman
 borstal
