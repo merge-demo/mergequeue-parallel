@@ -6229,7 +6229,6 @@ burghs
 bosomer
 betsey
 burelage
-burying
 benthamism
 burglarproof
 benthic
@@ -14356,6 +14355,7 @@ brabblers
 bleeping
 bonier
 busticate
+burying
 brayette
 borrower
 birdcraft
