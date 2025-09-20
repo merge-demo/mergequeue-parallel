@@ -16895,7 +16895,6 @@ clubland
 clubman
 chiliads
 cloveroot
-chiccory
 crucifyfying
 crosswort
 clubroom
@@ -28678,6 +28677,7 @@ creolite
 creolized
 creolizing
 cleanish
+chiccory
 currance
 creophagia
 caulkers

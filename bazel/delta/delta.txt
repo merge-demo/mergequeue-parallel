@@ -4427,7 +4427,6 @@ disfranchisement
 dagame
 disparkle
 discomposedly
-demasting
 denaturate
 dematerialisation
 disfavor
@@ -9364,6 +9363,7 @@ dottled
 diethylaminoethanol
 doited
 differed
+demasting
 dummerer
 duplexes
 demargarinate
