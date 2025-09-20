@@ -13832,7 +13832,6 @@ baggy
 bowelling
 bluebush
 bombardiers
-bower
 baggings
 bedplates
 bavaroy
@@ -14166,6 +14165,7 @@ bibliotheca
 bestowal
 bractlets
 bashlyks
+bower
 breton
 bryanite
 bawdily
