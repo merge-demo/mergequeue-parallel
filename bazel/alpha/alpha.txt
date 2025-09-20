@@ -16468,7 +16468,6 @@ agathodaemonic
 aporosa
 anadem
 alisanders
-apanthropia
 androphorum
 aparejos
 acestoma
@@ -23499,6 +23498,7 @@ aborters
 alleviates
 affiliation
 aureation
+apanthropia
 aurantia
 antinomian
 allogeneous
