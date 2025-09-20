@@ -15412,7 +15412,6 @@ disposedly
 dendrons
 dentirostres
 dolphinlike
-decoloration
 dolphins
 discountenance
 drop
@@ -17932,6 +17931,7 @@ duer
 downsome
 disjoins
 duessa
+decoloration
 delayingly
 duets
 demulce
