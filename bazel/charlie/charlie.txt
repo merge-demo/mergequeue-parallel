@@ -7460,6 +7460,7 @@ checkmates
 cerated
 cerates
 ceratiid
+coresidual
 ceratins
 ceratioid
 caffle
@@ -30331,7 +30332,6 @@ cynipid
 cataphysic
 crusaders
 coastways
-coresidual
 crusets
 crushed
 cowpokes
