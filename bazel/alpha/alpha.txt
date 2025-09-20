@@ -4276,7 +4276,6 @@ adultness
 adumbrated
 abductores
 aphototactic
-amphitoky
 adumbrating
 arbiters
 adumbrations
@@ -23733,6 +23732,7 @@ autarkist
 aute
 ade
 autechoscope
+amphitoky
 adenopathy
 autecy
 amended
