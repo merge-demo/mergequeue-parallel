@@ -1114,7 +1114,6 @@ bossies
 burel
 bundts
 bouteria
-bayonets
 batteuse
 benefactors
 backword
@@ -13534,6 +13533,7 @@ bourre
 beseek
 boneyards
 botulisms
+bayonets
 brief
 brodequin
 briquette
