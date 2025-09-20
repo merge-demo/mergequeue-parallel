@@ -12907,7 +12907,6 @@ babassus
 burdenable
 bdellatomy
 bungmaker
-babka
 birthing
 boosting
 bump
@@ -16649,6 +16648,7 @@ bombs
 brawner
 bemba
 betokened
+babka
 boget
 bobbishly
 byestreet
