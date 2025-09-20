@@ -1268,6 +1268,7 @@ birdlet
 barkers
 brachiopode
 balabos
+bate
 bayards
 bashfully
 barrabkie
@@ -1337,7 +1338,6 @@ bishophood
 becursing
 bumbaze
 benzoylated
-bate
 beflowered
 binational
 balanorrhagia
