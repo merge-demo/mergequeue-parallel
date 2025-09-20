@@ -3824,7 +3824,6 @@ bol
 bearfoots
 bulgur
 balsas
-bohireen
 bicker
 bucare
 bungwall
@@ -17020,6 +17019,7 @@ bulletless
 basecoat
 birchbark
 backwoodsman
+bohireen
 burghmote
 breadseller
 bacteric
