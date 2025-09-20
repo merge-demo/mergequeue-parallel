@@ -2141,7 +2141,6 @@ dissembles
 defter
 demoded
 doab
-disnest
 diagnostics
 dolomite
 despoilment
@@ -12833,6 +12832,7 @@ didelphia
 dismals
 dismantles
 donors
+disnest
 diademed
 debit
 dishevelment
