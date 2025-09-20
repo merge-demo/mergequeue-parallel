@@ -4146,7 +4146,6 @@ birdland
 blenched
 backbend
 beastlier
-boloroot
 biopsychic
 barkening
 brawled
@@ -8550,6 +8549,7 @@ bastinading
 billety
 billets
 besteads
+boloroot
 brainlike
 berylline
 brauneberger
