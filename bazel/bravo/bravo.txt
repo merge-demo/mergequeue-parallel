@@ -8376,7 +8376,6 @@ bigwigged
 barye
 beryllia
 babu
-brachygraphic
 bulgier
 bistoury
 bolshevizing
@@ -12795,6 +12794,7 @@ brutifying
 blandness
 baudekin
 brazilin
+brachygraphic
 belladonna
 bookstand
 blemisher
