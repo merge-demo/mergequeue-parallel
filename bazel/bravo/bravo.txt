@@ -12735,7 +12735,6 @@ becudgelling
 barging
 ballant
 busboys
-beclip
 booklear
 brandreth
 busters
@@ -12759,6 +12758,7 @@ blacklegging
 baronry
 begut
 beerish
+beclip
 burhmoot
 blurs
 burnishment
