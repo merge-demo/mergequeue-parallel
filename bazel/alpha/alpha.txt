@@ -15228,6 +15228,7 @@ antilacrosser
 antiserumsera
 antilactase
 acalypterae
+asmalte
 anet
 antilegomena
 antilemic
@@ -17338,7 +17339,6 @@ amercers
 anglicist
 aluminizes
 apotome
-asmalte
 asciferous
 apotropous
 apelles
