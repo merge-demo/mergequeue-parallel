@@ -6858,6 +6858,7 @@ degenerates
 dextrocardial
 diarrhoetic
 diffidence
+diegesis
 dimyaric
 dissention
 dendrograph
@@ -10603,7 +10604,6 @@ domestic
 distributions
 division
 decoctible
-diegesis
 demounts
 diploidic
 discanonized

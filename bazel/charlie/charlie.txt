@@ -28752,7 +28752,6 @@ crescively
 cantino
 cresegol
 cargo
-cresyl
 cresylate
 cresylic
 cresylite
@@ -31447,6 +31446,7 @@ catatonic
 curple
 calver
 catalin
+cresyl
 cushioncraft
 currachs
 connectionism
