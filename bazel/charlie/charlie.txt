@@ -11068,7 +11068,6 @@ coopers
 chitons
 chitosamine
 chitosan
-carcinomatoid
 caconymic
 committeeism
 chloridation
@@ -24880,6 +24879,7 @@ carminatives
 craniacromial
 cordately
 cephadia
+carcinomatoid
 codices
 continuousness
 conciliationist
