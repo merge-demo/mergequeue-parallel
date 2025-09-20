@@ -3980,7 +3980,6 @@ disubstituted
 dramatically
 discorporate
 delegate
-dhooras
 doorsill
 dextro
 disposal
@@ -10642,6 +10641,7 @@ diphthongized
 draconin
 discogastrula
 diplomatology
+dhooras
 deco
 diauli
 decompressing
