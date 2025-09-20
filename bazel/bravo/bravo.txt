@@ -13639,7 +13639,6 @@ bushel
 beamed
 baxter
 barry
-binucleate
 burladero
 beebreads
 botony
@@ -15004,6 +15003,7 @@ blastophore
 babasco
 bordel
 brokenheartedness
+binucleate
 brehonia
 brehonship
 butterflies
