@@ -11704,6 +11704,7 @@ bobbejaan
 buskined
 bimbil
 bungstarter
+baalish
 briseis
 bounders
 benthon
@@ -15675,7 +15676,6 @@ brod
 benchwarmer
 bractlet
 berberin
-baalish
 bilirubin
 brodyagi
 broeboe
