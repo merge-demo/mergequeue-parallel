@@ -7440,7 +7440,6 @@ bronzesmith
 booteries
 benamidar
 bevelled
-beveller
 bacteririum
 bardelle
 biathlon
@@ -12673,6 +12672,7 @@ bubblier
 baptized
 butylates
 backwashes
+beveller
 brotan
 bionomies
 behest
