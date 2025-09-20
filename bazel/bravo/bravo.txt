@@ -3210,7 +3210,6 @@ basically
 befriends
 basicerite
 basicity
-baloneys
 benzins
 booklores
 blastozooid
@@ -8094,6 +8093,7 @@ bidactylous
 beseam
 bkbndr
 belcher
+baloneys
 biddability
 biddably
 benedict
