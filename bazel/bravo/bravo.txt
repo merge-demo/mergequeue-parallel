@@ -13873,7 +13873,6 @@ bulnbuln
 bilious
 bedrite
 blad
-bowlder
 bluefishes
 bauno
 basibregmatic
@@ -14408,6 +14407,7 @@ brainstorms
 brainteaser
 biotin
 brainward
+bowlder
 ballistae
 brow
 brachygraphy
