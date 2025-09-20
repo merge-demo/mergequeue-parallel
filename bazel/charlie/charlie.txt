@@ -9244,6 +9244,7 @@ castice
 cineast
 conducer
 chasubled
+classificator
 categorize
 chatchka
 commutator
@@ -15587,7 +15588,6 @@ continentalist
 cicatrized
 curites
 crustaceous
-classificator
 culicidae
 capelline
 classificatory
