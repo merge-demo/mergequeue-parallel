@@ -10085,7 +10085,6 @@ articulators
 acetylacetonates
 astrachan
 antiscripturism
-artiad
 archive
 autophagous
 arrant
@@ -15419,6 +15418,7 @@ argiopoidea
 antiodont
 anthropophagi
 aquaplanes
+artiad
 antimonies
 advice
 armhoop
