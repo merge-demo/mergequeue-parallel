@@ -4272,6 +4272,7 @@ dawen
 dogvanes
 delubra
 deluce
+deform
 delude
 dishonored
 dipperful
@@ -14325,7 +14326,6 @@ dandified
 derogative
 documentations
 disadvantages
-deform
 destructory
 directorially
 damaskeening
