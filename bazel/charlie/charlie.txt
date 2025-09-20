@@ -2447,6 +2447,7 @@ culeus
 candelabras
 candelabrum
 corelatively
+caprylate
 candelilla
 cephaloclasia
 ciliary
@@ -30096,7 +30097,6 @@ crowkeeper
 consimile
 chasseur
 crowned
-caprylate
 cercariform
 chirogale
 counsels
