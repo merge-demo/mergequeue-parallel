@@ -1639,7 +1639,6 @@ brassards
 bewrays
 bacaba
 buddah
-bickering
 brattier
 bullshitted
 ballot
@@ -3417,6 +3416,7 @@ basswood
 burghership
 burgomaster
 brelaw
+bickering
 bedsores
 blaine
 bastardised
