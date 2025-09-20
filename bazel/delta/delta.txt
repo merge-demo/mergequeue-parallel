@@ -11548,7 +11548,6 @@ dismark
 dwarfy
 discomedusae
 dentiphone
-discomfiter
 discomfits
 discomfort
 dissective
@@ -12821,6 +12820,7 @@ deferral
 dismay
 diathermancy
 doubty
+discomfiter
 degame
 damner
 downhaul
