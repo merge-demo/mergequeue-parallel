@@ -11041,7 +11041,6 @@ chirurgery
 chiseled
 curuba
 chiseler
-cheapens
 calorify
 chiselled
 compartmentalized
@@ -28313,6 +28312,7 @@ cerebralist
 clod
 cloop
 craver
+cheapens
 campholytic
 carboxy
 counterdraft
