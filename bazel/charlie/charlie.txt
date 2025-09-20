@@ -2067,6 +2067,7 @@ chieftaincies
 captivator
 centenar
 campanular
+cypseliformes
 circumvolve
 campanulariae
 campanulatae
@@ -14084,7 +14085,6 @@ cypriots
 cyproterone
 cypseliform
 cerulescent
-cypseliformes
 chiriana
 chemical
 cryptostomate
