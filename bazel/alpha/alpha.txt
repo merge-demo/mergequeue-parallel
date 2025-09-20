@@ -10775,7 +10775,6 @@ ammonolyzing
 anchovy
 athwarthawse
 ammos
-ammotherapy
 antipepsin
 amnesia
 abstainer
@@ -22292,6 +22291,7 @@ astronomy
 aeschynomene
 actorship
 aphototropism
+ammotherapy
 astronomical
 ajenjo
 astronomize
