@@ -1412,7 +1412,6 @@ acclaimer
 almemar
 afterwrist
 amphoricity
-apex
 acclamator
 autecologically
 annotative
@@ -22150,6 +22149,7 @@ anastomoses
 abetted
 attestations
 agencies
+apex
 alecize
 astream
 adamically
