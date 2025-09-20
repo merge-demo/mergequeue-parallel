@@ -11341,7 +11341,6 @@ drainageway
 diane
 dragonet
 discards
-dentals
 digue
 discarnate
 duskier
@@ -15387,6 +15386,7 @@ discovery
 derries
 dolomitic
 descriptives
+dentals
 diatomiferous
 dorididae
 dryfarmer
