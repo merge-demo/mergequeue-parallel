@@ -16798,6 +16798,7 @@ apprehender
 apimanias
 apina
 aciculated
+assistantship
 averments
 aping
 ameliorative
@@ -23675,7 +23676,6 @@ acquit
 akroter
 australopithecinae
 aphidius
-assistantship
 allicit
 anticivism
 apostatic
