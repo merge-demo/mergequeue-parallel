@@ -2484,6 +2484,7 @@ candidates
 candidatures
 candide
 chancellorate
+chromatopsia
 churls
 candidiasis
 candids
@@ -17753,7 +17754,6 @@ cockpit
 couched
 chemosmoic
 chromochalcography
-chromatopsia
 confraternity
 circumundulate
 cockroaches
