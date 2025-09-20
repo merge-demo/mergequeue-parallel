@@ -14041,7 +14041,6 @@ dishorner
 detort
 decommissioning
 draughtman
-distributary
 desmodus
 distributaries
 durums
@@ -18457,6 +18456,7 @@ devocalizing
 daidle
 ducatus
 discerningly
+distributary
 dephysicalization
 dactylograph
 demichamfron
