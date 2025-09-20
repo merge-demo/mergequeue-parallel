@@ -5807,7 +5807,6 @@ botanizer
 boor
 beadier
 boldoine
-boozily
 bellyland
 bilateral
 bellyman
@@ -10516,6 +10515,7 @@ bigwigs
 blastulation
 bootstrapping
 blepharoatheroma
+boozily
 blasthole
 blurters
 bipectinate
