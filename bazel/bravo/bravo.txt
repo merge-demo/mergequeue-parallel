@@ -2632,7 +2632,6 @@ bantamweight
 birdhouses
 bilges
 barking
-bundle
 barkless
 battening
 barkometer
@@ -15113,6 +15112,7 @@ bribees
 bribegiver
 bronchorrhaphy
 bribers
+bundle
 bicentennials
 bedeaf
 brawly
