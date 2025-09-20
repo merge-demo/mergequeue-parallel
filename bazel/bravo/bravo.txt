@@ -4108,7 +4108,6 @@ bearding
 balminess
 beslimer
 birthroot
-behears
 bombazette
 beggarwoman
 bedrenched
@@ -13042,6 +13041,7 @@ babyishness
 bacilliculture
 bulblet
 bacteriophage
+behears
 bamangwato
 borboridae
 balaneutics
