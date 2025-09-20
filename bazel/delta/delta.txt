@@ -4528,7 +4528,6 @@ deradelphus
 delegatus
 denda
 deacidified
-dendrological
 dysprosium
 demicanon
 disjointedly
@@ -10496,6 +10495,7 @@ diphtheric
 diphtheritically
 diphtherotoxin
 diphthongally
+dendrological
 dipneust
 dismortgaged
 dispost
