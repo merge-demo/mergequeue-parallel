@@ -870,7 +870,6 @@ climaxes
 cajeputole
 cajolement
 cajolements
-coagulating
 caproic
 crimple
 chloroacetophenone
@@ -26908,6 +26907,7 @@ chocolate
 creedalist
 cembalo
 countermaneuver
+coagulating
 countermanifestoes
 countfish
 coffeegrowing
