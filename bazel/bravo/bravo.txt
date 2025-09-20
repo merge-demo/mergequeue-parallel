@@ -9497,7 +9497,6 @@ bercelet
 bulliform
 birthstool
 birthwort
-blatancies
 bitnet
 breviger
 bakerdom
@@ -10683,6 +10682,7 @@ brandies
 blemmatrope
 breakfront
 bylining
+blatancies
 brooches
 blandisher
 bedarken
