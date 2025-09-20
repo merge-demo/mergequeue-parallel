@@ -11788,7 +11788,6 @@ auntish
 apectomy
 autovaccination
 anaphyte
-antivaccinator
 alkoxide
 artisanry
 anthropozoic
@@ -15311,6 +15310,7 @@ antimediaevally
 amoyan
 antimedical
 antimedicine
+antivaccinator
 andaste
 acetylizable
 anguiform
