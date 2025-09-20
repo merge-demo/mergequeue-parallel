@@ -10635,6 +10635,7 @@ atwitter
 alvearium
 apositic
 amount
+aldolase
 albuginitis
 antiphthisical
 asterisked
@@ -12763,7 +12764,6 @@ audibly
 athetoids
 angsts
 anisospore
-aldolase
 ananite
 anguillaria
 autochthony
