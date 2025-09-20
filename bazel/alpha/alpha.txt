@@ -12709,7 +12709,6 @@ anticatalytic
 apolysin
 anthelices
 anatabine
-averroism
 annalize
 amarant
 allineate
@@ -12978,6 +12977,7 @@ anathematizing
 anthelions
 accessible
 androgynous
+averroism
 align
 animalivorous
 animalize
