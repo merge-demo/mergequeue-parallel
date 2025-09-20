@@ -8708,7 +8708,6 @@ afterdated
 attal
 amender
 adeptly
-adamastor
 allocator
 anticontagiously
 acadia
@@ -8884,6 +8883,7 @@ achillea
 allotriognathi
 accruing
 allotriophagy
+adamastor
 ambulomancy
 andrite
 allotriophagia
