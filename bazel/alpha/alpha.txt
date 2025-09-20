@@ -19655,7 +19655,6 @@ araeostyle
 anteprandial
 ascriptive
 arithmocratic
-ammonite
 arizonian
 arizonians
 achigan
@@ -22516,6 +22515,7 @@ atheriogaean
 atheris
 ambash
 athermancy
+ammonite
 assonances
 abeyances
 antihormone
