@@ -8598,6 +8598,7 @@ batteau
 botanies
 behind
 batchers
+braillewriter
 bethrall
 blackthorns
 bartram
@@ -14362,7 +14363,6 @@ brayette
 borrower
 birdcraft
 bursiform
-braillewriter
 boloman
 beastish
 braincap
