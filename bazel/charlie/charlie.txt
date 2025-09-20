@@ -10874,6 +10874,7 @@ chippy
 cobishop
 curtilage
 cometic
+cyclecar
 coolant
 chloralose
 canzoni
@@ -13214,7 +13215,6 @@ cyclases
 circlets
 capot
 chaenomeles
-cyclecar
 coralbells
 cyclecars
 causals
