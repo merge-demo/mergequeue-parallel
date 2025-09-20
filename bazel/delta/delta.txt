@@ -9632,7 +9632,6 @@ decollating
 drugger
 digoxins
 daimios
-downloadable
 digrediency
 devolatilization
 defining
@@ -18088,6 +18087,7 @@ desiccates
 dullity
 disgaveling
 deluster
+downloadable
 damnifying
 disgavelled
 deglaze
