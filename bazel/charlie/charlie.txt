@@ -6277,7 +6277,6 @@ catochus
 coheaded
 cumberlandite
 collective
-cestos
 cetiosauria
 clarinda
 caus
@@ -27721,6 +27720,7 @@ cowpen
 cowper
 complexively
 cosmotheism
+cestos
 cowperian
 crouchmas
 cyul
