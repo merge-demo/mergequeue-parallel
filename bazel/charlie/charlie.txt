@@ -7117,7 +7117,6 @@ coquetoon
 centiday
 centigrado
 cerebriformly
-compactest
 cannikin
 centigrams
 calcedony
@@ -22488,6 +22487,7 @@ coextensive
 carraran
 cormophyte
 coniines
+compactest
 cybister
 conrey
 conimene
