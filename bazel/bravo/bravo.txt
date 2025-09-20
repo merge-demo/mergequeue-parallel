@@ -1496,7 +1496,6 @@ belliferous
 bunrakus
 bigwiggedness
 bluestocking
-boarishly
 bices
 balkiest
 berskin
@@ -17017,6 +17016,7 @@ bat
 bulletless
 basecoat
 birchbark
+boarishly
 backwoodsman
 bohireen
 burghmote
