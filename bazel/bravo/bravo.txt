@@ -7341,6 +7341,7 @@ busky
 blankard
 buhlwork
 barrace
+bricklayers
 beton
 bise
 blepharism
@@ -15158,7 +15159,6 @@ brickish
 brewises
 bioluminescent
 branchiostegal
-bricklayers
 bummery
 birthless
 brickle
