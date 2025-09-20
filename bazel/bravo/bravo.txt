@@ -7600,7 +7600,6 @@ befreckle
 boundable
 blowtorches
 bewry
-bankroller
 barranca
 balanidae
 brasilins
@@ -8208,6 +8207,7 @@ bifilar
 bobbery
 brecciating
 bifilarly
+bankroller
 biflabellate
 bullheadedly
 bunkload
