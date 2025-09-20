@@ -396,6 +396,7 @@ daymares
 diarists
 discoloured
 daymark
+desirers
 doupion
 daimiel
 davallia
@@ -17394,7 +17395,6 @@ disincorporated
 deisidaimonia
 drawhead
 disquisition
-desirers
 drooly
 diencephala
 doorstep
