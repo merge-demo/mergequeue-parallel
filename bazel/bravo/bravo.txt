@@ -5489,7 +5489,6 @@ bewitchery
 billboard
 beige
 backers
-beylic
 bandaite
 baltic
 brechites
@@ -13570,6 +13569,7 @@ botulin
 breasting
 bumpiness
 bouffon
+beylic
 bremeness
 baizing
 bivocalized
