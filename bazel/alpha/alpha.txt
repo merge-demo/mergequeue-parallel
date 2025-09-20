@@ -5531,7 +5531,6 @@ awning
 agamemnon
 agamy
 ascigerous
-ardency
 agamian
 appendicitis
 angels
@@ -21189,6 +21188,7 @@ asilus
 aripple
 albuminizing
 asymbolia
+ardency
 alfridary
 autodecrements
 asymbolic
