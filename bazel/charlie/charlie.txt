@@ -3379,7 +3379,6 @@ capretto
 cote
 ceilidhe
 capri
-capric
 capriccetto
 capricci
 capriccio
@@ -23744,6 +23743,7 @@ ceratodontidae
 cerusite
 compass
 contradictedness
+capric
 chylocaulously
 cabezons
 colliquament
