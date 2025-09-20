@@ -6687,6 +6687,7 @@ diorite
 despisedness
 droiturel
 demoralizing
+dk
 dilatations
 dactylis
 dioptres
@@ -14735,7 +14736,6 @@ dendrologist
 djuka
 diaskeuast
 degradable
-dk
 diaguitas
 destroys
 dockland
