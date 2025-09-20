@@ -15306,7 +15306,6 @@ bandannaed
 blackneck
 bertha
 bechauffeur
-blas
 brigous
 bichir
 blousy
@@ -18165,6 +18164,7 @@ butlerlike
 butlers
 buhrmill
 bitheism
+blas
 bullyrock
 butlership
 bedebt
