@@ -337,7 +337,6 @@ dicast
 dayak
 dum
 dabba
-dayanim
 directories
 daybed
 disembowelment
@@ -401,6 +400,7 @@ doupion
 daimiel
 davallia
 dol
+dayanim
 diluvialist
 dawdlers
 drinkers
