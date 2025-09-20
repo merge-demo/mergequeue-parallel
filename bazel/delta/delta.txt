@@ -927,6 +927,7 @@ dipnoi
 densus
 dominating
 dodecanesian
+demisolde
 dereferences
 decapsulate
 dromiceius
@@ -4119,7 +4120,6 @@ delinter
 deliquescing
 deliquiate
 deliquium
-demisolde
 demagnetised
 dalliers
 defibrillating
