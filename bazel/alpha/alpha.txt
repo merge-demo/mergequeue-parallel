@@ -5305,6 +5305,7 @@ atharvan
 arrange
 angiokinesis
 afrit
+adeptship
 armary
 adored
 agaces
@@ -24318,7 +24319,6 @@ autoroute
 articulable
 anuses
 autorrhaphy
-adeptship
 alms
 anisocoria
 autos
