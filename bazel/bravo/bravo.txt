@@ -4259,6 +4259,7 @@ boustrophedon
 bebloods
 basurale
 bebog
+barratrous
 bhikshu
 bove
 bargestone
@@ -12293,7 +12294,6 @@ binately
 bolus
 bomb
 bedquilts
-barratrous
 bombace
 behang
 buckboard
