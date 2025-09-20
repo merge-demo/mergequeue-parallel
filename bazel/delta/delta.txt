@@ -10617,6 +10617,7 @@ decancellate
 diploidize
 dialectological
 doorman
+doraskean
 diploma
 dolorogenic
 disnaturing
@@ -13143,7 +13144,6 @@ deaned
 disapprover
 dyspeptically
 dispergate
-doraskean
 dispericraniate
 disloign
 diaphototropism
