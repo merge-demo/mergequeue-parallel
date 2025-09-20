@@ -2937,7 +2937,6 @@ deducibility
 dielectrically
 downcastness
 disimprison
-deducibly
 debunking
 deductible
 delinquent
@@ -3967,6 +3966,7 @@ dominant
 delightedly
 diarize
 delassement
+deducibly
 drugless
 dustman
 disquixote
