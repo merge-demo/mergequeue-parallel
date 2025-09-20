@@ -707,7 +707,6 @@ bowldery
 baddest
 bombardo
 breathable
-banjo
 botan
 betimber
 baddies
@@ -4130,6 +4129,7 @@ bullish
 belltopper
 broths
 bolder
+banjo
 beastishness
 bearishly
 butyrousness
