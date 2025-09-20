@@ -5036,7 +5036,6 @@ clamatorial
 chider
 conspired
 carzey
-casablanca
 casalty
 candy
 citywards
@@ -13637,6 +13636,7 @@ consenter
 cimmeria
 cimmerian
 cimmerianism
+casablanca
 conquassate
 cirrhosis
 coticular
