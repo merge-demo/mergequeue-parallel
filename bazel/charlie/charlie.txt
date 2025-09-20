@@ -6432,6 +6432,7 @@ cycadlike
 caveator
 choaty
 caveators
+cotemporanean
 cornulites
 complexes
 compares
@@ -26330,7 +26331,6 @@ coteen
 coteful
 cotele
 cultrate
-cotemporanean
 cannequin
 condylomas
 cotemporaneously
