@@ -4889,7 +4889,6 @@ benedictions
 beefsteak
 barberish
 bacteriostasis
-blackens
 beefwoods
 burgees
 bairnliness
@@ -15501,6 +15500,7 @@ banlieue
 bushpig
 bristlelike
 berycoidean
+blackens
 blindfoldedness
 bivector
 bisected
