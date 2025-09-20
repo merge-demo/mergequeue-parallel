@@ -9307,7 +9307,6 @@ dammer
 damfoolish
 deanathematize
 disemprison
-deforester
 diesters
 diestrous
 drawbridge
@@ -18154,6 +18153,7 @@ dardic
 duppa
 diaphonical
 descriptively
+deforester
 diapalma
 dumose
 diorthoses
