@@ -21456,7 +21456,6 @@ conciseness
 clocks
 cosponsor
 concision
-canoness
 corrugation
 concitation
 cominform
@@ -29897,6 +29896,7 @@ cuculidae
 chapt
 crosslight
 chromatographic
+canoness
 crosslike
 cinnamoyl
 crossline
