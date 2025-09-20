@@ -523,7 +523,6 @@ briming
 britannia
 broadway
 blackacre
-burbling
 baddish
 backstops
 backstrapped
@@ -13285,6 +13284,7 @@ blesser
 bokard
 bosh
 bossily
+burbling
 besmeared
 buckra
 bucketfuls
