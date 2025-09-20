@@ -2139,6 +2139,7 @@ diagnostics
 dolomite
 despoilment
 dissyllabize
+destroyable
 decamethonium
 dominator
 decancellated
@@ -9380,7 +9381,6 @@ diencephalon
 drawnness
 deepwater
 distraction
-destroyable
 deutoplasmic
 disavowable
 directionless
