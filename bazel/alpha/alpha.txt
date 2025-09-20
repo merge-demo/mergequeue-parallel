@@ -231,7 +231,6 @@ abbotric
 allokinesis
 abscision
 alchemistical
-assigners
 absorptiometric
 abbott
 adcon
@@ -17034,6 +17033,7 @@ aculeata
 apogeotropism
 autolaryngoscopy
 amethodical
+assigners
 abiogeny
 acoelomate
 afterfuture
