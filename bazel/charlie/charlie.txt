@@ -15587,6 +15587,7 @@ censive
 curriers
 churners
 classifying
+codeinas
 classiness
 citigrade
 clues
@@ -27534,7 +27535,6 @@ coverable
 cuselite
 curious
 coveralls
-codeinas
 coils
 coverchief
 cannulated
