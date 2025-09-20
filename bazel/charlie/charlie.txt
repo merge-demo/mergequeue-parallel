@@ -2764,6 +2764,7 @@ cannings
 cine
 cannister
 cannoli
+cypraeid
 cannonaded
 celioschisis
 cannonading
@@ -16007,7 +16008,6 @@ carryovers
 clerkdom
 confluxible
 clerkess
-cypraeid
 carcinosis
 clerkless
 cerecloths
