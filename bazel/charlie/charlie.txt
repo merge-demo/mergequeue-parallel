@@ -18348,7 +18348,6 @@ cofighter
 caprimulgi
 casearia
 coforeknown
-chondric
 clownishness
 cofounding
 cullied
@@ -26535,6 +26534,7 @@ couldn
 couldst
 coulee
 coulie
+chondric
 coulisses
 cystorrhea
 chave
