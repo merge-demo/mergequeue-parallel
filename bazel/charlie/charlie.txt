@@ -13264,6 +13264,7 @@ cholecystopexy
 cyclode
 cyclodiene
 club
+catepuce
 calendarian
 crossbencher
 climbable
@@ -17055,7 +17056,6 @@ critteria
 cnemidium
 cnemis
 cnicin
-catepuce
 coltoria
 cnidae
 cnidarian
