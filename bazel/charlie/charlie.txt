@@ -6706,7 +6706,6 @@ cloamer
 caboclos
 cantrips
 chihuahuas
-celebrant
 celebrants
 celebrate
 celebratedly
@@ -25520,6 +25519,7 @@ coronopus
 colcine
 coperception
 coroplasta
+celebrant
 camelias
 corotate
 corotates
