@@ -4748,7 +4748,6 @@ bondages
 bedside
 bedsonia
 braggish
-blottesque
 bedsonias
 blacktree
 basidorsal
@@ -18324,6 +18323,7 @@ boosy
 bescratch
 breviaries
 balanta
+blottesque
 biasness
 boilable
 baragouin
