@@ -6965,7 +6965,6 @@ boud
 baalist
 boninesses
 bedrugging
-bespouses
 blackfoot
 benzines
 besognier
@@ -15866,6 +15865,7 @@ bronchiolar
 bronchitic
 birota
 bronchoalveolar
+bespouses
 blackwood
 bronchoblennorrhea
 birdlike
