@@ -5853,7 +5853,6 @@ annexal
 aginner
 audacious
 anamnionic
-apoplectiform
 adlumidin
 almacantar
 autodecomposition
@@ -15400,6 +15399,7 @@ antimonarchism
 architis
 acquittance
 albin
+apoplectiform
 angiocarp
 anoxemic
 alumni

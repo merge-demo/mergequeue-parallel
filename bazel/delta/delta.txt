@@ -291,7 +291,6 @@ dodecahedron
 daguerreotyped
 daguerreotyping
 dioti
-druggery
 digitonin
 dodecatemory
 dreadnaught
@@ -9676,6 +9675,7 @@ dishonestly
 didacticity
 dactyliographer
 depass
+druggery
 despot
 debruise
 doozy
