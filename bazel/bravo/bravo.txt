@@ -1007,7 +1007,6 @@ bordrage
 blinger
 baidarka
 baidarkas
-baiera
 bioavailability
 butadiene
 baldness
@@ -1109,6 +1108,7 @@ beets
 baddishness
 baiocco
 berrylike
+baiera
 bethinks
 bossies
 burel
