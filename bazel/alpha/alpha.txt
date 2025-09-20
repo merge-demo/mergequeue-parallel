@@ -2001,6 +2001,7 @@ andantini
 acheron
 almach
 apostematous
+asclepiad
 acheronian
 achroous
 acherontical
@@ -20929,7 +20930,6 @@ accumulators
 ascite
 aceconitic
 ascitical
-asclepiad
 asclepiadaceae
 asclepiadae
 acerbating
