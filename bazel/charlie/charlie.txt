@@ -11268,6 +11268,7 @@ curly
 chlorination
 copsole
 chlorinator
+crampit
 chicote
 counterion
 cotch
@@ -16704,7 +16705,6 @@ checkerwise
 carbonizes
 closes
 closeting
-crampit
 chthonic
 cicoree
 cylindroma
