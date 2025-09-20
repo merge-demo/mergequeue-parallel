@@ -788,7 +788,6 @@ bunker
 beeline
 biometrical
 bethorn
-becker
 beryllosis
 building
 berserks
@@ -8155,6 +8154,7 @@ beardie
 bendable
 brontophobia
 banishes
+becker
 bechalk
 buffalos
 beauxite
