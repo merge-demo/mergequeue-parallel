@@ -6659,7 +6659,6 @@ bucketfull
 benzoiodohydrin
 buffoons
 bayonet
-bionic
 berchemia
 bioacoustics
 brakesmen
@@ -16890,6 +16889,7 @@ biophysicist
 bul
 brassworks
 babylonic
+bionic
 branchiobdella
 bicapsular
 boaedon
