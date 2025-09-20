@@ -9859,7 +9859,6 @@ amberjacks
 attachers
 antares
 absorptance
-antisepticise
 adirondack
 armatured
 aperu
@@ -11115,6 +11114,7 @@ amphictyons
 anschauung
 amphid
 amphophile
+antisepticise
 amphidetic
 autoclaved
 affecter
