@@ -9223,7 +9223,6 @@ antiegotistically
 aircraft
 alphabetarian
 almuredin
-acclimatizable
 amphibiontic
 acerose
 alphabetic
@@ -15486,6 +15485,7 @@ acoustics
 aneled
 antinormality
 antinormalness
+acclimatizable
 alembics
 anoxaemia
 asphyxiating
