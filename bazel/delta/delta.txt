@@ -1494,7 +1494,6 @@ decidual
 dc
 donmeh
 dcb
-disservice
 depressure
 demilitarizes
 drawbolt
@@ -15512,6 +15511,7 @@ despicability
 detoxify
 djebel
 dolichoprosopic
+disservice
 dealkylate
 diapophysial
 directing
