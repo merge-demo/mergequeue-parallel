@@ -1270,7 +1270,6 @@ compulsatory
 calibers
 colunar
 calibrated
-calibrater
 calibrates
 cloison
 calibrating
@@ -29875,6 +29874,7 @@ crossflower
 crossfoot
 crosshair
 crosshatches
+calibrater
 cogwheel
 cleistocarpous
 crosshaul
