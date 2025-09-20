@@ -2686,6 +2686,7 @@ dishwash
 devoured
 deconvolve
 dendrophile
+dustfall
 decor
 diplopic
 docilely
@@ -5573,7 +5574,6 @@ dkm
 dyscrase
 depeinct
 dependabilities
-dustfall
 defibrillative
 disally
 depended
