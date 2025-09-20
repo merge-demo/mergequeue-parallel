@@ -9546,7 +9546,6 @@ circumferences
 checkpoint
 cardamum
 cannetille
-checkpointed
 checkpointing
 cetoniides
 chahars
@@ -13698,6 +13697,7 @@ cereza
 crotonic
 ciliophora
 carlet
+checkpointed
 churchgoer
 corolline
 chagal
