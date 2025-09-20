@@ -3780,6 +3780,7 @@ bantay
 beworries
 brattish
 bootleg
+boloing
 bauch
 bondoc
 balancer
@@ -11742,7 +11743,6 @@ bobfloat
 birr
 barbut
 backwall
-boloing
 bobjerom
 bioelectricity
 behung
