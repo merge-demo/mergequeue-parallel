@@ -371,7 +371,6 @@ biblicoliterary
 buddha
 backer
 beehives
-backet
 bangala
 brocardic
 bigha
@@ -8138,6 +8137,7 @@ boathouses
 brusure
 bidree
 befuddled
+backet
 birdbander
 bloodroot
 bindweeds
