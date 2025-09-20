@@ -12477,6 +12477,7 @@ chromoctye
 chromodermatosis
 chromogen
 chromogene
+courser
 chromogenesis
 cingulate
 chamaecrista
@@ -24257,7 +24258,6 @@ craped
 convolvulaceae
 convolvulaceous
 convolvulad
-courser
 cosonant
 convolvulic
 convolvulinic
