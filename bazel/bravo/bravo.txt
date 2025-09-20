@@ -8198,7 +8198,6 @@ bootleger
 bedress
 befiddle
 blewits
-bigwiggery
 bifilar
 bobbery
 brecciating
@@ -11587,6 +11586,7 @@ beth
 blusterers
 bawdyhouse
 bemar
+bigwiggery
 blustering
 basilicalike
 blusterously
