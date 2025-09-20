@@ -6771,6 +6771,7 @@ dodecatyl
 dirtboard
 datatype
 delightsomeness
+diplanar
 discinoid
 detestably
 diathermic
@@ -12865,7 +12866,6 @@ dispatchful
 dichoree
 diacoele
 decalcify
-diplanar
 discolorization
 dubhe
 decalcifier
