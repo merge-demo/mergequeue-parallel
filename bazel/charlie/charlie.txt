@@ -13200,6 +13200,7 @@ clin
 craftsmanlike
 chetahs
 coelder
+cloche
 cyclanthus
 cyclases
 circlets
@@ -16491,7 +16492,6 @@ connarus
 cleeking
 clobbered
 clobbers
-cloche
 clochette
 clockbird
 cursiveness
