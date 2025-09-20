@@ -1254,6 +1254,7 @@ datebook
 drivehead
 disemplane
 disobligation
+defend
 datelessness
 disserve
 deflating
@@ -11454,7 +11455,6 @@ doctrinize
 dottler
 disclass
 dermorhynchous
-defend
 dialyzer
 dockyard
 determinoid
