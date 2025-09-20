@@ -1903,7 +1903,6 @@ bowlings
 bycoket
 brainsickly
 barometry
-bando
 besieger
 bell
 bodiced
@@ -7596,6 +7595,7 @@ bullary
 boutre
 belesprit
 bepride
+bando
 bewreck
 befreckle
 boundable
