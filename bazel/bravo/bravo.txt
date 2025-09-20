@@ -318,6 +318,7 @@ backbar
 bedright
 birkenhead
 bod
+bedene
 blurry
 bletherskate
 booter
@@ -839,7 +840,6 @@ burnsides
 bonelike
 bumpily
 betorcin
-bedene
 barmbrack
 barragon
 bouleversement
