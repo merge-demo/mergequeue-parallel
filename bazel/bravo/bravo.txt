@@ -9227,6 +9227,7 @@ biplane
 bobolink
 biplanes
 beclogging
+barathrum
 bonavist
 butler
 bantamweights
@@ -13667,7 +13668,6 @@ balkingly
 boys
 benzdioxdiazine
 baseliner
-barathrum
 bourdons
 bourg
 beckoned
