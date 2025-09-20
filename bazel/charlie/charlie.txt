@@ -19179,7 +19179,6 @@ collins
 collinses
 circumterraneous
 chaptrel
-collinsite
 colliquate
 collyria
 collyridian
@@ -20544,6 +20543,7 @@ coapting
 comparcioner
 clatteringly
 comparisons
+collinsite
 comparted
 coxcombs
 chimbley

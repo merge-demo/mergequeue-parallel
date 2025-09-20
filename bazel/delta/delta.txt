@@ -557,7 +557,6 @@ dama
 disodic
 damageably
 damaged
-dichroic
 deceivableness
 deaccessions
 deliber
@@ -18033,6 +18032,7 @@ deporture
 dyers
 dulcifluous
 dearn
+dichroic
 dulcigenic
 dulciloquent
 delouses
