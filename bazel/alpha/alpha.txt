@@ -1311,6 +1311,7 @@ adiaphanousness
 acephalite
 azote
 actinopoda
+aphorized
 ajitter
 aqueducts
 antiphilosophical
@@ -16683,7 +16684,6 @@ avatars
 aphorist
 aphoristically
 aphorize
-aphorized
 anecdotalism
 abos
 actuator
