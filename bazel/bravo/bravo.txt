@@ -2934,7 +2934,6 @@ bure
 blanco
 beslab
 brigantine
-bited
 boreiad
 broad
 barrelled
@@ -4164,6 +4163,7 @@ beclown
 barrow
 bradypus
 beastling
+bited
 bullswool
 bulgy
 beastman
