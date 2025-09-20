@@ -9602,6 +9602,7 @@ alvine
 avestan
 aam
 alvissmal
+adaptiveness
 alvite
 ambulant
 actinical
@@ -23753,7 +23754,6 @@ antitarnishing
 aegipan
 asepsis
 autecologist
-adaptiveness
 autem
 aaa
 auth
