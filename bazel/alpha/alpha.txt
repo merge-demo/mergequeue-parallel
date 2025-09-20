@@ -12802,7 +12802,6 @@ angulateness
 anticoagulating
 anthropomorphisms
 antilegalist
-assimilable
 apterygidae
 almose
 anguliferous
@@ -25200,6 +25199,7 @@ airgraph
 axwort
 acquirable
 alexic
+assimilable
 aroar
 az
 ascogonidium
