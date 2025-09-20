@@ -9061,6 +9061,7 @@ disruption
 dunlins
 dauerschlaf
 drowsiness
+dactylate
 diplomatism
 disowns
 drivable
@@ -17589,7 +17590,6 @@ dynamiter
 drumliest
 drumlinoid
 decelerated
-dactylate
 drumlins
 dorsiferous
 diciest
