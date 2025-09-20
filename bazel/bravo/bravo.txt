@@ -1622,7 +1622,6 @@ bestar
 bowshots
 blacklisting
 brahms
-beauties
 balloen
 brachycephalous
 ballone
@@ -13110,6 +13109,7 @@ beryls
 break
 bassarisk
 backfurrow
+beauties
 baalath
 bodyguard
 bacterioscopist
