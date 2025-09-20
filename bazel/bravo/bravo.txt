@@ -4363,7 +4363,6 @@ bests
 beldam
 bespeak
 bunyip
-byworks
 brise
 bagne
 breakwater
@@ -13751,6 +13750,7 @@ bufflehorn
 banisher
 biperforate
 bicycled
+byworks
 bovate
 besmirching
 biochemists
