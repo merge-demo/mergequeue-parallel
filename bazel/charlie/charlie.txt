@@ -2854,7 +2854,6 @@ canopy
 copesman
 calliope
 canopid
-canopied
 cataclysm
 canopies
 caffoline
@@ -17414,6 +17413,7 @@ cogons
 coastland
 couscouses
 coastlines
+canopied
 chawdron
 churchmaster
 coastward
