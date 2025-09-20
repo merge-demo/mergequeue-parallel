@@ -1159,6 +1159,7 @@ downbeats
 dashplate
 derms
 designer
+duckwife
 disacquaint
 dimmet
 dropflower
@@ -12350,7 +12351,6 @@ dyestuffs
 dissavage
 demagnetization
 dhauri
-duckwife
 degermed
 disgulf
 dionaeaceae
