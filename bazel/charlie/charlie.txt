@@ -7374,7 +7374,6 @@ cephalodiscid
 cephalodiscida
 cephalodiscus
 curtains
-chrysanthemin
 cephalodium
 cochairmanship
 conditionals
@@ -14721,6 +14720,7 @@ cistronic
 cistrons
 conventionality
 cists
+chrysanthemin
 cistudo
 citable
 cital
