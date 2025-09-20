@@ -26299,7 +26299,6 @@ costumer
 cooker
 costumes
 costumic
-cabstand
 costumiere
 costumiers
 cinematize
@@ -27423,6 +27422,7 @@ committees
 courtship
 cleach
 courtside
+cabstand
 couscous
 castilloa
 caddying
