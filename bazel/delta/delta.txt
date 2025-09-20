@@ -1077,7 +1077,6 @@ designfully
 doling
 darrein
 darshan
-dampening
 dorsomesal
 darsonval
 deontology
@@ -16963,6 +16962,7 @@ differentness
 douanes
 dreading
 descents
+dampening
 demonstrandum
 distemperment
 descriptory
