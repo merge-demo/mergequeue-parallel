@@ -4800,6 +4800,7 @@ carrat
 creeky
 carraway
 carrel
+congregation
 curveting
 carrells
 caffeinism
@@ -22370,7 +22371,6 @@ crooks
 congregant
 congregated
 congregating
-congregation
 courts
 coting
 congregational

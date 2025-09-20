@@ -1765,6 +1765,7 @@ acephalist
 adumbratively
 assembles
 acephalous
+abeyance
 adduct
 acephalus
 azotaemia
@@ -9543,7 +9544,6 @@ alniresinol
 accustomize
 alumniate
 aliners
-abeyance
 alumnol
 alumohydrocalcite
 alundum
