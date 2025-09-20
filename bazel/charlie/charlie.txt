@@ -5297,7 +5297,6 @@ cassons
 cochleated
 chariotway
 cynodont
-carotidean
 cellarers
 cast
 concordable
@@ -11964,6 +11963,7 @@ cymbaline
 choreoid
 crocidolite
 cuittle
+carotidean
 catheterize
 chyliferous
 canoodling

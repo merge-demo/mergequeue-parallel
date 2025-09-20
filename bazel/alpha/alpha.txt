@@ -17190,6 +17190,7 @@ astronomics
 aport
 afterthoughts
 aposaturnium
+anthropoidea
 aposiopesis
 alleviant
 aposiopetic
@@ -23848,7 +23849,6 @@ autobiographer
 apothec
 autobiographers
 autobiography
-anthropoidea
 antitypy
 autobiology
 autoboat
