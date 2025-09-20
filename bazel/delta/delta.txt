@@ -3182,6 +3182,7 @@ dkg
 dissentient
 distrainor
 decidability
+diaglyph
 deveining
 donne
 discocephalous
@@ -8651,7 +8652,6 @@ dinge
 debugging
 delimitations
 diary
-diaglyph
 disimprove
 dibbuk
 dogcarts
