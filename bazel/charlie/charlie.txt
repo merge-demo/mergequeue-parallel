@@ -3129,6 +3129,7 @@ capelins
 capella
 chelatable
 compacture
+channer
 coatimondie
 closemouth
 caper
@@ -30465,7 +30466,6 @@ calesero
 cuartel
 colicystopyelitis
 cuarteron
-channer
 collomia
 calcanea
 carfuffled
