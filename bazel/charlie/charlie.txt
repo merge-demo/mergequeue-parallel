@@ -4031,6 +4031,7 @@ considering
 caravel
 chincherinchee
 cardianeuria
+chromatoscopy
 calamiform
 choyaroot
 counterrevolution
@@ -12404,7 +12405,6 @@ chromatoptometry
 chromatoscope
 couch
 cobalticyanic
-chromatoscopy
 circumduct
 chromatosis
 chromaturia
