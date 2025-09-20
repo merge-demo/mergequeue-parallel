@@ -7350,7 +7350,6 @@ cephalaspis
 cocoonery
 condurrite
 cephalate
-coracovertebral
 cephalic
 chequering
 cephalina
@@ -10364,6 +10363,7 @@ choochoo
 coprosterol
 coheir
 chickories
+coracovertebral
 chickpea
 conspirator
 cherishingly
