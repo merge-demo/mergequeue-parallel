@@ -5836,6 +5836,7 @@ cardinal
 caterpillars
 caters
 caterva
+chemosurgery
 colporrhea
 cates
 cellepore
@@ -15082,7 +15083,6 @@ civism
 civisms
 civitan
 civitas
-chemosurgery
 civite
 chinchasuyu
 chattel
