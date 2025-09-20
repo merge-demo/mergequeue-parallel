@@ -9424,7 +9424,6 @@ cromwell
 chaws
 chawstick
 citoyen
-chazan
 chazans
 chazanut
 chimonanthus
@@ -13750,6 +13749,7 @@ cholesterate
 cinclides
 camphire
 cinclis
+chazan
 clinah
 cinclus
 cephalocathartic
