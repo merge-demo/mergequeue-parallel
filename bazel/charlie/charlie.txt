@@ -7754,6 +7754,7 @@ certificate
 certificated
 certificates
 ceraunia
+cotranspire
 commissurotomy
 certificative
 certificatory
@@ -26417,7 +26418,6 @@ cotransduction
 cotransfuse
 cleidotomy
 confinable
-cotranspire
 cystocarp
 careenage
 cotrine
