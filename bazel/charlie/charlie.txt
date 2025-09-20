@@ -4970,7 +4970,6 @@ conceptuality
 cartulary
 cartularies
 carapache
-collaring
 cartware
 cabossed
 confervoid
@@ -15624,6 +15623,7 @@ clathraria
 clathrate
 choose
 clathrinidae
+collaring
 clathroid
 creatable
 clathrose
