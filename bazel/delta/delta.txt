@@ -335,6 +335,7 @@ decursively
 depressors
 dicast
 dayak
+dissimilative
 dum
 dabba
 directories
@@ -13617,7 +13618,6 @@ diedral
 dissimilate
 diduction
 disacquaintance
-dissimilative
 deadeye
 decentralizationist
 doucin
