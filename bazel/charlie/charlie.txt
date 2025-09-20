@@ -9144,7 +9144,6 @@ charter
 charterer
 charterers
 charterhouse
-chartering
 charterism
 cyllenius
 calipers
@@ -31633,6 +31632,7 @@ chlorohydrocarbon
 curvilinead
 conoplain
 carpingly
+chartering
 curvimeter
 curviness
 curviserial
