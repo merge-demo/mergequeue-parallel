@@ -4934,6 +4934,7 @@ aerotonometric
 aeruginous
 animikite
 aerugo
+ariadne
 aerugos
 aes
 arenga
@@ -22233,7 +22234,6 @@ archae
 antiauthoritarianism
 ammu
 astrogeologist
-ariadne
 anniversaries
 actify
 arcturia
