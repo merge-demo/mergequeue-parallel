@@ -1201,7 +1201,6 @@ controvertibility
 calefactory
 candlewood
 calefactories
-calefy
 calelectric
 caprice
 cumulostratus
@@ -24095,6 +24094,7 @@ cosmonautic
 conversantly
 conversation
 classfellow
+calefy
 conversationable
 coactor
 crimpy

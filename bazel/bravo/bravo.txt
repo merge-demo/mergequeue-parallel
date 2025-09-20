@@ -10364,7 +10364,6 @@ bummest
 bowpin
 blanc
 bergomask
-buncher
 bumbler
 brays
 blanched
@@ -16796,6 +16795,7 @@ baret
 birostrated
 beyerite
 buffoonishness
+buncher
 benchwork
 bebotch
 blowfish
