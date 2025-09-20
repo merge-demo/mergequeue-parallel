@@ -13959,7 +13959,6 @@ distomatous
 daubed
 distomes
 desmosome
-distomiasis
 distomidae
 dubby
 deturb
@@ -14767,6 +14766,7 @@ dehydrogenising
 despumate
 dobby
 distender
+distomiasis
 dobos
 dobson
 defraudment
