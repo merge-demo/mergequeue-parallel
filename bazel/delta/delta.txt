@@ -6320,6 +6320,7 @@ downweighted
 detune
 dislaurel
 dingledangle
+disemic
 dishpanful
 demonstrableness
 doodad
@@ -9299,7 +9300,6 @@ dobroes
 dier
 deaminize
 dementis
-disemic
 decumbiture
 dissentious
 debite
