@@ -6328,7 +6328,6 @@ broken
 benzohydrol
 braggarts
 becuna
-batmen
 benzoylation
 boccias
 benzoinated
@@ -18023,6 +18022,7 @@ betimes
 beefwood
 bistro
 boast
+batmen
 bingle
 bourgs
 bustlers
