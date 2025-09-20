@@ -2299,7 +2299,6 @@ abator
 agrarianism
 acetoveratrone
 asseverates
-acinaciform
 alkaliferous
 amorism
 acinar
@@ -11341,6 +11340,7 @@ apiphobia
 abmhos
 amsath
 autolysis
+acinaciform
 aldosteronism
 atrabilious
 adverbs
