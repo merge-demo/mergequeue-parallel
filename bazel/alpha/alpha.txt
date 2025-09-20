@@ -14139,6 +14139,7 @@ affableness
 advertent
 anthicidae
 anthills
+aeroides
 acridinic
 anthinae
 anthine
@@ -23298,7 +23299,6 @@ artistdom
 aphaeretic
 audiometrically
 anicular
-aeroides
 audion
 airs
 anticreative
