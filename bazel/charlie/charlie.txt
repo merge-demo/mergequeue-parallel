@@ -27354,7 +27354,6 @@ congee
 chartographer
 courteousness
 courtepy
-cozily
 courters
 chilblain
 caracks
@@ -30273,6 +30272,7 @@ convoluted
 confused
 cepolidae
 codfishery
+cozily
 crunched
 cruncher
 catabiotic
