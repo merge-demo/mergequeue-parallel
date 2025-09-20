@@ -11183,7 +11183,6 @@ disassent
 disassimilate
 darin
 disassimilative
-disassociable
 disinherits
 downway
 disassociate
@@ -18224,6 +18223,7 @@ dentatocostate
 dermatorrhoea
 despatchers
 dode
+disassociable
 decurrent
 discommendation
 dunderfunk
