@@ -3847,6 +3847,7 @@ anaclete
 amimide
 afforced
 anthus
+aspirer
 aneurismatic
 ankuses
 attrist
@@ -21481,7 +21482,6 @@ ancylose
 aspirants
 accountancy
 aspiree
-aspirer
 aspirers
 alliterator
 abboccato
