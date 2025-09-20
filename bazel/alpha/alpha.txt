@@ -3664,6 +3664,7 @@ alcosol
 aclastic
 aprowl
 argufier
+asseveration
 alentours
 ariel
 asconia
@@ -21692,7 +21693,6 @@ alectryomancy
 anthophile
 apotheose
 affreightment
-asseveration
 anting
 asseverative
 acrogenous
