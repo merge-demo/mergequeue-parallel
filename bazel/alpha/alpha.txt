@@ -16602,7 +16602,6 @@ adenolipomatosis
 adverbless
 argillite
 antipooling
-allegiances
 apharsathacites
 aphasia
 atees
@@ -24099,6 +24098,7 @@ autoindexing
 atheists
 artificers
 autoinfusion
+allegiances
 allelocatalytic
 antiritualism
 autoinoculation
