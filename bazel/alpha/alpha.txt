@@ -9298,6 +9298,7 @@ alpid
 alpieu
 alpine
 appointive
+astigmometer
 alpinesque
 anachronistical
 alpinia
@@ -22049,7 +22050,6 @@ auxiliate
 asynapsis
 astigmatoscope
 astigmic
-astigmometer
 adaptably
 autosuggestive
 aglossa
