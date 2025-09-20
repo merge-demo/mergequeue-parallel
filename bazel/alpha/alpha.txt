@@ -9878,7 +9878,6 @@ assertiveness
 ambidexterity
 antimonide
 aquapuncture
-ambidexterities
 ambidextral
 andrenid
 avidya
@@ -14566,6 +14565,7 @@ anaglyphic
 acousmatic
 antibiotically
 anthrohopobiological
+ambidexterities
 acushla
 ambulacral
 antisex
