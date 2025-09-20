@@ -11845,7 +11845,6 @@ clarina
 chopins
 colory
 converter
-choplogic
 choplogical
 choregi
 comprehend
@@ -24720,6 +24719,7 @@ coprolaliac
 chernozemic
 carlage
 coprolith
+choplogic
 coprolitic
 coprophagy
 chyliform
