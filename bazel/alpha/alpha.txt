@@ -2537,7 +2537,6 @@ acquisited
 acquisitive
 archaeologian
 acetiam
-affixment
 assuaging
 alangine
 acquitter
@@ -12258,6 +12257,7 @@ androsporangium
 auriculoventricular
 androsterone
 ayens
+affixment
 anthracitous
 anuran
 azosulphine
