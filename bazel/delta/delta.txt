@@ -7939,6 +7939,7 @@ drysalter
 dihydrogen
 depone
 dicaryophyte
+dondia
 dewberries
 dudaim
 dolichosaur
@@ -13165,7 +13166,6 @@ dynastid
 dispersonate
 desalinator
 dysanagnosia
-dondia
 dysphasia
 diplophonia
 dreamery
