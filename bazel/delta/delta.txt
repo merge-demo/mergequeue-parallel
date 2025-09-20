@@ -3106,7 +3106,6 @@ deerstalkers
 dialings
 doorbell
 defeasive
-duplicia
 downhill
 defeated
 directs
@@ -12330,6 +12329,7 @@ drollingly
 doberman
 disgrading
 diploids
+duplicia
 duramatral
 dissuadable
 disgruntlement
