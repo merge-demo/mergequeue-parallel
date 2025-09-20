@@ -794,7 +794,6 @@ dkl
 daubers
 delusters
 dakhini
-dermatograph
 dovecote
 detn
 diuretical
@@ -4230,6 +4229,7 @@ delphinoidine
 distaffs
 dropforge
 deprecatoriness
+dermatograph
 deuteride
 damiana
 dermatopsy
