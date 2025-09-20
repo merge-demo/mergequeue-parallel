@@ -14456,7 +14456,6 @@ cirri
 cirribranch
 cirriferous
 choralist
-colonialism
 capitolian
 courtezan
 cirriped
@@ -25888,6 +25887,7 @@ corticotrophin
 curtsying
 corticous
 charka
+colonialism
 cortin
 cinerary
 cortina
