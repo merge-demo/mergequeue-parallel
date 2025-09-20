@@ -13132,6 +13132,7 @@ anisomeric
 autosome
 apoturmeric
 arundinaceous
+agitator
 aurochses
 antimerger
 amphistyly
@@ -16285,7 +16286,6 @@ aberrated
 anadidymus
 antoeci
 antoecians
-agitator
 ascogonia
 adramelech
 antonym
