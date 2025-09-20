@@ -863,6 +863,7 @@ decrudescence
 dank
 delightful
 desists
+demiditone
 delegatory
 degauss
 deneb
@@ -11691,7 +11692,6 @@ discordantness
 distributution
 discorded
 dotishness
-demiditone
 discost
 digitally
 discotheque
