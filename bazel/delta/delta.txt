@@ -701,7 +701,6 @@ doumaist
 distributes
 damselfishes
 disbody
-dropshots
 damsons
 doctorally
 ductule
@@ -16380,6 +16379,7 @@ disagreeable
 douche
 dotty
 downright
+dropshots
 diosmotic
 discredits
 denser
