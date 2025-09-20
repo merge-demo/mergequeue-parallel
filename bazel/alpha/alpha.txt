@@ -10200,7 +10200,6 @@ adeem
 amenorrhoeal
 aeronauts
 adiaphorous
-angulinerved
 arctic
 ament
 amental
@@ -20855,6 +20854,7 @@ ascarids
 aerophagia
 antasthmatic
 alpinist
+angulinerved
 ascelli
 atmometric
 ascellus
