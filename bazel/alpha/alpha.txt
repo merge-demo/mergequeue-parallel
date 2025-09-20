@@ -14627,6 +14627,7 @@ anticardiac
 anticarious
 anticatalase
 armorially
+asininity
 anseres
 aguey
 anticatalyst
@@ -21247,7 +21248,6 @@ armorproof
 asyngamy
 anconeous
 ages
-asininity
 asyntrophy
 anomalure
 asystole
