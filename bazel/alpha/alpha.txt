@@ -5760,6 +5760,7 @@ aggrandize
 anither
 azoxyphenetole
 amblystegite
+avowe
 adversary
 aerogeology
 arithmography
@@ -20867,7 +20868,6 @@ ascendance
 ascendantly
 autexousy
 ascendants
-avowe
 ascendence
 arbitrament
 ascending
