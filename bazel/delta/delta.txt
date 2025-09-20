@@ -3541,7 +3541,6 @@ disguise
 debunker
 desexualization
 degass
-degassed
 disappears
 dodecant
 degaussing
@@ -5870,6 +5869,7 @@ docetic
 dragonfly
 deadtongue
 dataries
+degassed
 dags
 dyophysitical
 dentaries
@@ -15412,7 +15412,6 @@ disposedly
 dendrons
 dentirostres
 dolphinlike
-decoloration
 dolphins
 discountenance
 drop
@@ -17932,6 +17931,7 @@ duer
 downsome
 disjoins
 duessa
+decoloration
 delayingly
 duets
 demulce
