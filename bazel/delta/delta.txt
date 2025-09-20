@@ -1534,6 +1534,7 @@ deactivate
 dishwashings
 discoglossid
 distractedly
+dipsy
 dallies
 dartman
 deactivates
@@ -5009,7 +5010,6 @@ demulsibility
 decimating
 diseasedly
 demulsified
-dipsy
 druze
 donnish
 dummies
