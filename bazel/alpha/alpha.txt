@@ -16985,7 +16985,6 @@ adverb
 apodyterium
 azotizing
 asphodelaceae
-antipriesthood
 apofenchene
 apogaeic
 antipopulism
@@ -25126,6 +25125,7 @@ austenitize
 archworker
 apesthesia
 axiomatizes
+antipriesthood
 axiomatizing
 alums
 axises
