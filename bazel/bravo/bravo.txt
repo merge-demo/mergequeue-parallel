@@ -5736,7 +5736,6 @@ brachycranial
 barefaced
 baggageman
 backblocks
-billabong
 boomlet
 bloused
 backlogging
@@ -6217,6 +6216,7 @@ brachycatalectic
 benthal
 boatside
 beys
+billabong
 basketballs
 burghs
 bosomer
