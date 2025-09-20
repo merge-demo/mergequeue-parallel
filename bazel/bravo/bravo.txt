@@ -4534,6 +4534,7 @@ baubee
 backjaw
 bedarkening
 bedaub
+bradyphrenia
 ballplayer
 besuit
 bundeli
@@ -14191,7 +14192,6 @@ biomechanics
 blanker
 balloonish
 bradyphrasia
-bradyphrenia
 bradypnea
 bodrag
 baggier
