@@ -884,7 +884,6 @@ culminates
 cajuput
 chemoses
 catharan
-chenar
 cradge
 crepitus
 colocates
@@ -2736,6 +2735,7 @@ coeno
 cannellate
 congruences
 cimbaloms
+chenar
 counterembowed
 cannelle
 caliche

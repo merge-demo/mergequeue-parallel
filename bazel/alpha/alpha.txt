@@ -4963,6 +4963,7 @@ arenicolor
 archibuteo
 archsacrificator
 almacen
+antefixes
 aestheticism
 aestheticist
 analyticity
@@ -13963,7 +13964,6 @@ antennariidae
 antennata
 antennate
 antennifer
-antefixes
 angolese
 acraturesis
 antennular
