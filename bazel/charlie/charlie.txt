@@ -23032,7 +23032,6 @@ compline
 consocies
 caustified
 consolations
-consolato
 consolator
 consolatory
 console
@@ -28016,6 +28015,7 @@ conjurer
 cygnus
 cramp
 cramped
+consolato
 canzos
 colonalgia
 cloriodid
