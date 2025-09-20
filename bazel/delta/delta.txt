@@ -13207,7 +13207,6 @@ dumaist
 depositive
 driftland
 demoralize
-daunt
 displat
 displeasance
 diverse
@@ -13704,6 +13703,7 @@ diva
 demivol
 disinclose
 deacidify
+daunt
 dissogeny
 departmentalize
 dissogony
