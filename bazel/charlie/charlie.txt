@@ -4753,6 +4753,7 @@ caddie
 cottonee
 carpometacarpal
 carpometacarpi
+celioscopy
 carpometacarpus
 carpompi
 counterorganization
@@ -11831,7 +11832,6 @@ chooser
 choosers
 choosiness
 chadar
-celioscopy
 chop
 chopa
 chalcids
