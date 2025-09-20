@@ -20737,7 +20737,6 @@ arum
 aligreek
 arundiferous
 avouter
-allurers
 arupa
 ampulate
 arusha
@@ -24425,6 +24424,7 @@ astragals
 autotoxic
 agromyzidae
 autotransformer
+allurers
 autotransplantation
 aurotellurite
 aetheric
