@@ -16750,7 +16750,6 @@ clothiers
 clothings
 catharpin
 chreotechnics
-crimpling
 clots
 comique
 chaconne
@@ -24922,6 +24921,7 @@ cellulolytic
 corbiculum
 clupeodei
 corbies
+crimpling
 consimilarity
 carpools
 celtist
