@@ -9560,6 +9560,7 @@ checkrope
 cumulant
 conoy
 checkrowed
+coercement
 checkrower
 collyrium
 checkrowing
@@ -31897,7 +31898,6 @@ cuttingly
 carioca
 controversialists
 charmfulness
-coercement
 clarifiable
 cuttled
 calamitous
