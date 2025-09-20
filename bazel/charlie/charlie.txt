@@ -4079,7 +4079,6 @@ cardinally
 citriculturist
 cardinalship
 cardioarterial
-chequerwork
 cardiocarpum
 cephalothorax
 cunningaire
@@ -23896,6 +23895,7 @@ contrivement
 cinchonology
 contriver
 conflictless
+chequerwork
 cookmaid
 caimitillo
 contrives
