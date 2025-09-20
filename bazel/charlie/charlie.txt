@@ -11975,7 +11975,6 @@ chorines
 covalency
 collunarium
 chicadee
-consol
 cachina
 chorioallantoic
 chorioallantois
@@ -30801,6 +30800,7 @@ calyptra
 crackerberries
 cullas
 carroty
+consol
 cytotechnology
 colonialization
 cochleary

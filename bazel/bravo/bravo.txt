@@ -2778,7 +2778,6 @@ bolivar
 bitonal
 baronetize
 benzeneazobenzene
-brachyurous
 backbencher
 barong
 blotchiest
@@ -10972,6 +10971,7 @@ benzyls
 baromacrometer
 benevolence
 bael
+brachyurous
 bellhop
 byerlite
 batement
