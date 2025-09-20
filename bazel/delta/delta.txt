@@ -966,7 +966,6 @@ detonational
 derriere
 departed
 dizzardly
-dodecastyle
 diastral
 doctors
 didymium
@@ -17184,6 +17183,7 @@ dryfoot
 dribber
 dysacousis
 disimpassioned
+dodecastyle
 dikaryophyte
 drift
 dyssystole
