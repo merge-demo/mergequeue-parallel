@@ -297,7 +297,6 @@ bondholders
 bacis
 boltuprightness
 benorth
-bespangled
 belar
 back
 burrknot
@@ -1221,6 +1220,7 @@ burion
 baked
 blepharydatis
 bakeoven
+bespangled
 besigh
 bootloader
 bakeries
