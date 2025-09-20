@@ -4327,6 +4327,7 @@ accumulate
 adrenomedullary
 agamobia
 assaut
+ambient
 advective
 altiloquent
 advects
@@ -9098,7 +9099,6 @@ almuces
 almud
 amides
 advocaat
-ambient
 arriviste
 antiknock
 almury
