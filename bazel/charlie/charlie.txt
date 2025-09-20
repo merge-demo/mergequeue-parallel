@@ -8348,6 +8348,7 @@ catechizable
 calycanthemous
 challah
 centriciput
+countable
 challahs
 challas
 contraponend
@@ -12637,7 +12638,6 @@ chronoscopically
 cyperaceous
 chronothermal
 chronotropic
-countable
 collocution
 cordy
 chilidium
