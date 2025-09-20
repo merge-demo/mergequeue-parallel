@@ -5524,7 +5524,6 @@ arborolater
 afunction
 agalma
 antipeptone
-antespring
 arctically
 angulatosinuous
 adiposes
@@ -12276,6 +12275,7 @@ armchairs
 autonomical
 atomiferous
 axisymmetry
+antespring
 ajowan
 anecdote
 anecdotes
