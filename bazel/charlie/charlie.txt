@@ -4068,6 +4068,7 @@ cardin
 croslet
 cancans
 capabilities
+clausal
 cardinalfishes
 cacorrhinia
 casuist
@@ -15668,7 +15669,6 @@ claughted
 chapitle
 claus
 catholically
-clausal
 clause
 clauses
 coattends
