@@ -3445,7 +3445,6 @@ capshore
 comd
 capsian
 ceruses
-capsicums
 coumarous
 chylosis
 capsizable
@@ -24654,6 +24653,7 @@ cerebrating
 copolymer
 copolymerize
 cossas
+capsicums
 copolymerized
 commemorators
 coley
