@@ -11704,6 +11704,7 @@ compeers
 chirrups
 creekstuff
 cholum
+climatotherapies
 clavicor
 cicatrisation
 cladistic
@@ -21859,7 +21860,6 @@ charkas
 conductional
 carnifices
 clambered
-climatotherapies
 couleur
 conductive
 conductometer
