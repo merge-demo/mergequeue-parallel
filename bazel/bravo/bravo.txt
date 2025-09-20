@@ -3202,6 +3202,7 @@ basiarachnitis
 bilharziosis
 bradyseism
 bailing
+benjoin
 bopster
 bauld
 burkes
@@ -5619,7 +5620,6 @@ botrycymose
 bocher
 buffa
 busks
-benjoin
 beldams
 bilify
 belderroot
