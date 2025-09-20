@@ -14731,6 +14731,7 @@ carpaine
 citers
 cites
 citess
+countertype
 citharas
 citharexylum
 citharist
@@ -28423,7 +28424,6 @@ childminder
 creasier
 curiegram
 consistory
-countertype
 creasot
 computing
 coffeebush
