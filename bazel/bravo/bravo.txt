@@ -2406,6 +2406,7 @@ barbion
 brince
 bestrow
 brotherhood
+brattling
 bards
 bardship
 bashlyk
@@ -14672,7 +14673,6 @@ betrothal
 brattled
 benumbment
 bulbophyllum
-brattling
 bratwurst
 banus
 brauna
