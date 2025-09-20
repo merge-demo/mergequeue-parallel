@@ -6516,7 +6516,6 @@ clannish
 commissaries
 campanula
 confluence
-caxtonian
 crestfallen
 caza
 cazimi
@@ -14697,6 +14696,7 @@ chemisorption
 cystospore
 cystostomies
 chamberlet
+caxtonian
 catilinarian
 cystotome
 castellan
