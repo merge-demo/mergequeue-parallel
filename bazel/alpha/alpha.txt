@@ -5107,7 +5107,6 @@ acosmic
 affidavit
 algometry
 aviso
-abjured
 angiocardiographies
 affies
 addio
@@ -9823,6 +9822,7 @@ abayah
 afferently
 abele
 ambarella
+abjured
 activator
 aglimmer
 ambari
