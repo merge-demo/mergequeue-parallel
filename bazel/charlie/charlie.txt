@@ -5909,6 +5909,7 @@ cathected
 cathects
 cathedralesque
 clasp
+catadioptric
 cathedras
 cathedratic
 cathedraticum
@@ -18813,7 +18814,6 @@ colchicin
 colchicum
 clavichords
 crispily
-catadioptric
 calorizing
 cochaired
 caesarists
