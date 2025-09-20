@@ -766,7 +766,6 @@ bechatter
 boric
 badinages
 bitstock
-bearcoot
 badiner
 badinerie
 bilo
@@ -17330,6 +17329,7 @@ bradysphygmia
 bunk
 belinurus
 bipersonal
+bearcoot
 benzoyl
 byerite
 bushbaby
