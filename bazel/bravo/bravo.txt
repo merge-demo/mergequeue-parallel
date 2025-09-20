@@ -4543,7 +4543,6 @@ backjaw
 bedarkening
 bedaub
 ballplayer
-bagtikan
 besuit
 bundeli
 beribbon
@@ -4879,6 +4878,7 @@ bract
 bilobular
 blackwash
 beefier
+bagtikan
 biased
 byes
 boose
