@@ -15008,7 +15008,6 @@ citril
 confabulates
 citrination
 citrine
-coqueluche
 congressmen
 cytopharynxes
 citrinin
@@ -31742,6 +31741,7 @@ custodian
 custodians
 coenurus
 custodianship
+coqueluche
 chemicobiologic
 circuited
 custodier
