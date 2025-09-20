@@ -19779,6 +19779,7 @@ allotropes
 astroite
 adpao
 acapsular
+acyrological
 adeptest
 acquereur
 armida
@@ -21930,7 +21931,6 @@ astartidae
 actings
 anaplasmosis
 afteryears
-acyrological
 astatines
 anaerobism
 astatize
