@@ -4971,7 +4971,6 @@ cartulary
 cartularies
 carapache
 collaring
-cartware
 cabossed
 confervoid
 claptrap
@@ -11695,6 +11694,7 @@ cholophein
 cotemporarily
 chatterer
 chervils
+cartware
 cushier
 cholos
 choloscopy
