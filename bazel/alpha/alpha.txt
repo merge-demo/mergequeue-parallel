@@ -19161,7 +19161,6 @@ ared
 airbuses
 arefact
 alodium
-areg
 allotter
 areic
 arena
@@ -20668,6 +20667,7 @@ artillerists
 artiodactyla
 aerocolpos
 artiodactylous
+areg
 aporobranchia
 appendixed
 anaphoria
