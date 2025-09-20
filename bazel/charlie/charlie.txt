@@ -17384,6 +17384,7 @@ coarsening
 cercomonas
 chetrum
 cotransubstantiate
+cagmag
 coarsens
 coarticulate
 coarticulation
@@ -23080,7 +23081,6 @@ consonantic
 corneal
 cavalcade
 cholestene
-cagmag
 consonantized
 cornfactor
 connivence
