@@ -12042,7 +12042,6 @@ adelphic
 anchisaurus
 aegirite
 asafoetida
-antitradition
 anchor
 adhesional
 alveolites
@@ -12291,6 +12290,7 @@ axisymmetry
 ajowan
 anecdote
 anecdotes
+antitradition
 anecdotic
 anova
 anecdotically
