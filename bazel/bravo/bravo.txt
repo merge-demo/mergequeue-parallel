@@ -1480,7 +1480,6 @@ bouncer
 bottlebrush
 belgians
 bloomier
-bobbiner
 balkanized
 balkanize
 betonies
@@ -1541,6 +1540,7 @@ bedaubed
 balladizing
 bales
 belongings
+bobbiner
 babbit
 bezel
 basted
