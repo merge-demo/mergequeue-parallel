@@ -6959,6 +6959,7 @@ akkadist
 aftershock
 avowal
 arthroderm
+aswing
 amidic
 apterygiformes
 attuned
@@ -8350,7 +8351,6 @@ alkalizer
 aerophysicist
 antifrost
 alkaloid
-aswing
 alkaloids
 alcoholism
 alkalosis
