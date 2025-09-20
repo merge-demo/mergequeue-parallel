@@ -6250,7 +6250,6 @@ dermas
 dedolomitizing
 delimited
 dippy
-dermasurgery
 denuclearization
 dermatagra
 dermatophagus
@@ -11294,6 +11293,7 @@ diazo
 detoxifies
 deckers
 devitrifiable
+dermasurgery
 despoliation
 dysbulic
 damnatory
