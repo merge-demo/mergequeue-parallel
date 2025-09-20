@@ -18423,7 +18423,6 @@ claypan
 candlesticks
 chenevixite
 channeled
-conterminant
 cognac
 curdier
 cinnamyls
@@ -18444,6 +18443,7 @@ cognatic
 concatenary
 calorize
 cutaway
+conterminant
 cementum
 cognisable
 catholicized
