@@ -2057,6 +2057,7 @@ dinornis
 divebomb
 daggered
 dearling
+diamonding
 denationalized
 diplococcal
 daucus
@@ -6403,7 +6404,6 @@ derogates
 diglyceride
 dreint
 derogatory
-diamonding
 disbursals
 deterrers
 deplorate
