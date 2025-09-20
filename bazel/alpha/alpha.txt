@@ -11573,6 +11573,7 @@ agitators
 anaesthesis
 abeltree
 anaesthetically
+alamoth
 abnormity
 anthropomantic
 anaesthetization
@@ -14892,7 +14893,6 @@ achyrodes
 abranchialism
 anticlinorium
 anticritical
-alamoth
 anticritically
 astrose
 apetalousness
