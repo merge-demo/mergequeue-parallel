@@ -15974,7 +15974,6 @@ belove
 bialis
 blash
 brooder
-binomial
 beardedness
 broodling
 broodmare
@@ -17442,6 +17441,7 @@ blockout
 backspeir
 bucketmaker
 bolling
+binomial
 branchiopulmonate
 burbolt
 beauseant
