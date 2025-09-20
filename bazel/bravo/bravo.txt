@@ -3912,7 +3912,6 @@ beliquor
 balaniferous
 banksia
 biassedly
-bch
 begins
 borsholder
 becoward
@@ -13006,6 +13005,7 @@ bloomers
 bedrapes
 beadleism
 bombazine
+bch
 beliquored
 balanid
 boracite
