@@ -12220,7 +12220,6 @@ depositure
 degausser
 depurates
 displeasuring
-duply
 disambiguates
 displeasant
 dichocarpism
@@ -14229,6 +14228,7 @@ debatable
 debriefings
 devourment
 dormer
+duply
 dahoman
 degusting
 dogcart
