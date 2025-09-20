@@ -18089,6 +18089,7 @@ anteinitial
 antlike
 anasarca
 ammonocarbonous
+affloof
 anapneic
 avouched
 aquiclude
@@ -21728,7 +21729,6 @@ aerophilous
 amphorophony
 amebas
 assigns
-affloof
 amacrinal
 angiohyalinosis
 amiced
