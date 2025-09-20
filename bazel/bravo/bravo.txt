@@ -10076,6 +10076,7 @@ bepity
 bowge
 blackballs
 byss
+bornites
 bielorouss
 brogh
 bicorne
@@ -13150,7 +13151,6 @@ beverse
 bornite
 brusquer
 baksheesh
-bornites
 bornitic
 berob
 bident

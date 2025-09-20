@@ -16583,7 +16583,6 @@ auricomous
 aerohydrodynamic
 aphacia
 alcaides
-aphacic
 aphaeresis
 accompaniment
 allowedly
@@ -25084,6 +25083,7 @@ axilemmas
 androphonomania
 adit
 aa
+aphacic
 affecters
 antiamylase
 alii
