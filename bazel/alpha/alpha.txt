@@ -11864,7 +11864,6 @@ antisepticizing
 aka
 agba
 armagnac
-anarthrosis
 airlike
 abrazite
 anarthrously
@@ -17931,6 +17930,7 @@ alcoholize
 aesculaceae
 antithetical
 april
+anarthrosis
 aquaria
 aprilesque
 antipodean
