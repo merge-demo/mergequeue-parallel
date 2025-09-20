@@ -13008,7 +13008,6 @@ christos
 coerces
 currencies
 characeous
-cyanoauric
 cyanobenzene
 columbite
 crepitating
@@ -17463,6 +17462,7 @@ coaxing
 coazervate
 contline
 cupbearer
+cyanoauric
 cobaea
 corbeil
 cotters
