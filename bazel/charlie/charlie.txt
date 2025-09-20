@@ -27035,7 +27035,6 @@ coccule
 counterremonstrant
 counterreplied
 clypeastroida
-cystelcosis
 cladocerous
 cuproammonium
 counterrevolutionary
@@ -28693,6 +28692,7 @@ coincides
 crepine
 colophonite
 creping
+cystelcosis
 crucis
 colons
 churled
