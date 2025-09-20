@@ -4323,7 +4323,6 @@ bawtie
 broilingly
 bibliotherapeutic
 befool
-bechic
 balzacian
 bemercy
 bely
@@ -17913,6 +17912,7 @@ buffo
 bowwows
 bushwack
 bonewood
+bechic
 bathybic
 blastoporic
 blockader
