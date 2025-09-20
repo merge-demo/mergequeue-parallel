@@ -5217,6 +5217,7 @@ agnosticism
 agglutinable
 applying
 affrightedly
+accur
 animally
 acarpellous
 affrightful
@@ -16613,7 +16614,6 @@ autotrophic
 averse
 agog
 anterointerior
-accur
 aristulate
 antipole
 aphelian
