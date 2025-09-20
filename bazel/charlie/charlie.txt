@@ -8994,6 +8994,7 @@ charybdis
 chestnutty
 charicleia
 castigates
+cariosity
 charier
 curdle
 charily
@@ -27635,7 +27636,6 @@ collided
 convive
 consomm
 cutworks
-cariosity
 corticate
 corticosteroid
 cowberry
