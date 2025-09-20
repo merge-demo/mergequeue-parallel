@@ -4104,7 +4104,6 @@ delineations
 disempower
 dodgasted
 died
-deaired
 decodes
 deboites
 disparish
@@ -11131,6 +11130,7 @@ detergents
 debrief
 disappreciation
 defalcates
+deaired
 drakonite
 derringer
 disillusioned
