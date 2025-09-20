@@ -3029,7 +3029,6 @@ bidirectionally
 boist
 bartenders
 banba
-bartending
 bumaloe
 butterflyer
 blechnoid
@@ -10765,6 +10764,7 @@ bowwort
 bundling
 bleo
 befuddlers
+bartending
 befrill
 blastings
 blin
