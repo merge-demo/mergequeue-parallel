@@ -4547,7 +4547,6 @@ comart
 carnivorousness
 cavalcading
 cyanea
-chutnee
 carnosine
 carnous
 carns
@@ -15258,6 +15257,7 @@ colours
 chlorphenol
 columbaries
 crassina
+chutnee
 clam
 cabriolet
 clamant
