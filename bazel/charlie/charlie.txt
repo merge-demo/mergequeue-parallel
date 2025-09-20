@@ -8849,7 +8849,6 @@ cymbalaria
 chapter
 canonries
 christianism
-chapterhouse
 cardinalates
 chapwoman
 chaqueta
@@ -24959,6 +24958,7 @@ celidographer
 corchat
 contenders
 corchorus
+chapterhouse
 chemotaxy
 corcyraean
 corcle
