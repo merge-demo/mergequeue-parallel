@@ -6814,7 +6814,6 @@ desirousness
 diaconate
 decompositional
 desklike
-diphrelatic
 dunks
 deskman
 desks
@@ -9022,6 +9021,7 @@ decollate
 dicyanin
 demilitarisation
 dehydrofroze
+diphrelatic
 dives
 draughtsman
 disobeyers

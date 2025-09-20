@@ -2567,6 +2567,7 @@ azoths
 anamirta
 acred
 acreman
+awat
 acremen
 aggravated
 antitheft
@@ -24928,7 +24929,6 @@ arrondissements
 ascula
 awareness
 antiatheistical
-awat
 awatch
 awater
 arachis
