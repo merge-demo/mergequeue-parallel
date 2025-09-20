@@ -12297,6 +12297,7 @@ anechoic
 amazed
 adar
 anelasticity
+antitetanic
 augurship
 afraidness
 anelectrode
@@ -16199,7 +16200,6 @@ acetanilide
 ariki
 abris
 akroasis
-antitetanic
 antiannexation
 accusive
 averin
