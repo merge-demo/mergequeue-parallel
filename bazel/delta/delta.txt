@@ -9458,6 +9458,7 @@ dejunkerize
 deuteromyosinose
 diffusions
 diffusors
+dentilabial
 diabolus
 diner
 diether
@@ -13154,7 +13155,6 @@ didactive
 detonates
 desynonymization
 dispersers
-dentilabial
 dassie
 daces
 dogsled
