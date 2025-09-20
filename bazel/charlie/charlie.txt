@@ -6033,7 +6033,6 @@ coroado
 catoblepas
 catocarthartic
 catoctin
-catogenic
 catonian
 cheesemongerly
 catonically
@@ -25416,6 +25415,7 @@ chickened
 chrome
 cornucopias
 cornule
+catogenic
 corporatism
 cornupete
 chloroleucite
