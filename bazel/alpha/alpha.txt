@@ -916,7 +916,6 @@ algific
 adulterately
 antichymosin
 apprehension
-alkalify
 armloads
 amygdalus
 ape
@@ -7488,6 +7487,7 @@ alchemized
 archership
 alchemizing
 alkalescence
+alkalify
 amphicarpic
 acrocephalous
 assument
