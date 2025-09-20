@@ -9293,7 +9293,6 @@ drys
 dehumidifying
 dossils
 dictynid
-diencephalon
 docibleness
 dienes
 dobroes
@@ -9380,6 +9379,7 @@ differenced
 differences
 dioxide
 dryad
+diencephalon
 drawnness
 deepwater
 distraction
