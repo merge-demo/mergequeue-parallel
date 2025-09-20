@@ -5463,7 +5463,6 @@ deistic
 deregister
 disenablement
 deorsum
-deorsumversion
 diffraction
 diesel
 damoisel
@@ -9076,6 +9075,7 @@ dicranaceous
 dextrinous
 diverter
 disseminule
+deorsumversion
 dichromism
 dicrotal
 dicrotous
