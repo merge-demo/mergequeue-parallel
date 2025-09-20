@@ -2661,7 +2661,6 @@ curatorship
 canidia
 canikin
 chargedness
-cardiatrophia
 canikins
 cephalocereus
 canille
@@ -22451,6 +22450,7 @@ calandrinae
 coniceine
 compressible
 contaminating
+cardiatrophia
 conicle
 conicopoly
 conidae
