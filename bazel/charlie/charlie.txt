@@ -15429,6 +15429,7 @@ claqueur
 conducement
 clarain
 convulsed
+ctenophoric
 clare
 clarence
 cohesions
@@ -30454,7 +30455,6 @@ ctenophore
 chepster
 codesigning
 casel
-ctenophoric
 certiorate
 ctenoplana
 corrigiolaceae
