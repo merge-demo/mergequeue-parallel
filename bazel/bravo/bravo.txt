@@ -1306,7 +1306,6 @@ bluejays
 barbated
 bandsawn
 begrutch
-boater
 balander
 boodle
 bleaberry
@@ -8634,6 +8633,7 @@ brochette
 balcone
 bretons
 billtong
+boater
 basins
 brachiating
 becloud
