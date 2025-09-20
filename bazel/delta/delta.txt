@@ -5560,6 +5560,7 @@ departmentalised
 demihague
 diversities
 diffusiometer
+dashboard
 deadlatch
 dimmock
 departmentalism
@@ -7726,7 +7727,6 @@ deray
 deducer
 drawers
 diffusional
-dashboard
 disheveling
 devenustate
 devexity
