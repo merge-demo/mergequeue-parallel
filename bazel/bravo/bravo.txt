@@ -1958,7 +1958,6 @@ bilinguist
 babesiasis
 bange
 biblically
-brachydactyl
 bulbous
 bombard
 bafaro
@@ -3524,6 +3523,7 @@ bitterhearted
 barbered
 bonaght
 bouchal
+brachydactyl
 blindfoldedly
 bubos
 batete
