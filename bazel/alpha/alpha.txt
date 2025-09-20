@@ -4552,7 +4552,6 @@ askile
 aegrotat
 acroterion
 abush
-aetheling
 antedawn
 aeluroid
 afghanistan
@@ -17756,6 +17755,7 @@ anchoritic
 apogonidae
 aerologies
 acetnaphthalide
+aetheling
 asterochiton
 antibrachial
 andamento
