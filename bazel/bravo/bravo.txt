@@ -5980,7 +5980,6 @@ bookie
 baccarats
 bowenite
 bradyphasia
-benchfellow
 blanquillos
 bilabial
 bemocking
@@ -11254,6 +11253,7 @@ barmskin
 bopyridae
 blottier
 bibliophilistic
+benchfellow
 bridgeable
 bescouring
 banefully
