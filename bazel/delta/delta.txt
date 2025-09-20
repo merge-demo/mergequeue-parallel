@@ -8577,7 +8577,6 @@ dampishness
 debateful
 daimonion
 dewfall
-diaphanously
 douglas
 diaphyseal
 discommodious
@@ -13193,6 +13192,7 @@ detonable
 didache
 drenchingly
 dummyism
+diaphanously
 dispiteousness
 deflectionize
 displaceability
