@@ -10418,6 +10418,7 @@ concludendi
 chylaqueous
 chirring
 chivalric
+componentry
 chieftains
 candlelighted
 cracknels
@@ -18472,7 +18473,6 @@ conclude
 canmaking
 camelopardus
 commutating
-componentry
 cognitional
 cobaltocyanic
 cognitive
