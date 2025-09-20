@@ -5761,6 +5761,7 @@ categorial
 chieftainship
 cylindrocephalic
 categoric
+chelate
 coliidae
 chondrified
 cessionary
@@ -9774,7 +9775,6 @@ chekist
 connaraceae
 chekker
 collegers
-chelate
 chelated
 cattish
 chelator
