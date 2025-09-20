@@ -15264,7 +15264,6 @@ colours
 chlorphenol
 columbaries
 crassina
-chutnee
 clam
 cabriolet
 clamant
@@ -29211,6 +29210,7 @@ concertedly
 cyclosporinae
 civilised
 cryptocarp
+chutnee
 cryptocephalous
 caliginousness
 cryptocerata
