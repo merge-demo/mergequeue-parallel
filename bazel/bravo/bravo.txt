@@ -8397,7 +8397,6 @@ bauchle
 biconvexity
 bikers
 brilliantine
-binal
 bisections
 bredi
 bemixing
@@ -13599,6 +13598,7 @@ boughpots
 bibliolatrist
 bougie
 benefaction
+binal
 bimodulus
 boulanger
 boulangism
