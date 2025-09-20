@@ -4767,6 +4767,7 @@ designingly
 daybreak
 dreidels
 dawnlight
+dispermy
 disbend
 defectionist
 dendrolene
@@ -10925,7 +10926,6 @@ dirtily
 disseizes
 diplograph
 disincrease
-dispermy
 dyslogia
 discontinuous
 demonologic
