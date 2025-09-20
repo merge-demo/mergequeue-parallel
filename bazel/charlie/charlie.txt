@@ -4554,6 +4554,7 @@ cyanea
 carnosine
 carnous
 carns
+conservatory
 chamaecistus
 caro
 cuarto
@@ -22931,7 +22932,6 @@ collapsable
 conservatoires
 conservator
 cassalty
-conservatory
 conservatorial
 carpetbagism
 carotic
