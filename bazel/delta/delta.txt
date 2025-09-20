@@ -3343,6 +3343,7 @@ dramatization
 donet
 deflector
 diabolic
+defocus
 deflesh
 dialectician
 deflexibility
@@ -8348,7 +8349,6 @@ db
 dispossess
 dimethyltryptamine
 dissimile
-defocus
 deprive
 diagraphs
 diagredium
