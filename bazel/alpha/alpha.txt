@@ -12224,7 +12224,6 @@ androgenous
 ammochryse
 anisylidene
 androgyn
-androgynal
 arillode
 androgyne
 atlantoaxial
@@ -19217,6 +19216,7 @@ abducting
 areopagite
 areopagitica
 astacus
+androgynal
 amplexation
 anodine
 areostyle
