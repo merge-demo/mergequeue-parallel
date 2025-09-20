@@ -14877,7 +14877,6 @@ decimeter
 dirham
 decomponible
 diethylenediamine
-daylight
 dispensating
 demo
 disadvantage
@@ -15715,6 +15714,7 @@ doorpiece
 dunites
 drivel
 detumescent
+daylight
 displacement
 derth
 distinguishable
