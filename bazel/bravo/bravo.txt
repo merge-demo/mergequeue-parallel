@@ -8218,7 +8218,6 @@ boddagh
 bakehouses
 bifocal
 bejumbles
-berith
 berrichonne
 bb
 boneache
@@ -10658,6 +10657,7 @@ barbless
 brazenly
 bleb
 blebby
+berith
 blinter
 backstretches
 blastematic
