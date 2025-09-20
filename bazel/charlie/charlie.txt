@@ -11340,6 +11340,7 @@ chlorometry
 coopted
 capman
 chloromycetin
+coregonid
 counteractions
 curbed
 chloronitrate
@@ -25034,7 +25035,6 @@ courtlet
 coregnancy
 cubicity
 counterbalancing
-coregonid
 coregonoid
 coreidae
 caeciform
