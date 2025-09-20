@@ -6902,7 +6902,6 @@ celtillyrians
 consortiums
 celtis
 cowal
-celtish
 celtism
 celtium
 cataphrenia
@@ -7524,6 +7523,7 @@ cypridinidae
 clergyman
 curiosi
 ceraunoscopy
+celtish
 crackable
 cephalodia
 cyathophyllidae

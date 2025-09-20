@@ -2485,7 +2485,6 @@ bedark
 barge
 bargelike
 breeks
-beet
 bravura
 bargellos
 barger
@@ -11474,6 +11473,7 @@ blicky
 birrs
 baraca
 burbled
+beet
 brere
 brunette
 bizzarro
