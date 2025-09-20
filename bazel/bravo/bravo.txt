@@ -4849,7 +4849,6 @@ basketweaving
 balistarius
 bloodedness
 bistered
-beefalos
 bedriveling
 bossship
 bilimbis
@@ -8180,6 +8179,7 @@ bier
 bairn
 broid
 balustrade
+beefalos
 begorrah
 baleens
 babysitting
