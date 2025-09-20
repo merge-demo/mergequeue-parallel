@@ -14486,7 +14486,6 @@ centiare
 carate
 citrul
 charades
-cirrocumulative
 chasmogamic
 cebatha
 coloslossi
@@ -20955,6 +20954,7 @@ compotor
 compounded
 colicine
 carbonyls
+cirrocumulative
 considerative
 compoundedness
 compounder
