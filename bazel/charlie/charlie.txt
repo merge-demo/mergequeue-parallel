@@ -3029,6 +3029,7 @@ curlyheads
 capitonidae
 cantrip
 cantuta
+cephaloid
 cantwise
 canula
 clack
@@ -7378,7 +7379,6 @@ cochairmanship
 conditionals
 cephalofacial
 coutil
-cephaloid
 cuticles
 crepuscle
 courtin
