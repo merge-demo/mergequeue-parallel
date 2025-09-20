@@ -4668,6 +4668,7 @@ commas
 contralateral
 choenix
 carpetbags
+circuit
 counterearth
 ciboria
 catchall
@@ -14134,7 +14135,6 @@ cochleas
 colloquialisms
 codecree
 chancily
-circuit
 circuital
 copperases
 circuiteer
