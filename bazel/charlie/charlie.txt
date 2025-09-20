@@ -14698,7 +14698,6 @@ cystoschisis
 cariole
 cystose
 conurbations
-clayman
 caroigne
 coliander
 cystospastic
@@ -20634,6 +20633,7 @@ compendious
 compendium
 compendiums
 coremia
+clayman
 cowhouse
 compensated
 capitalized
