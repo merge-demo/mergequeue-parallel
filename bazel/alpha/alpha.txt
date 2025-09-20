@@ -716,7 +716,6 @@ anathemas
 aedicula
 angst
 amidoacetal
-abramis
 abranchious
 abrase
 alphos
@@ -8932,6 +8931,7 @@ aftermarriage
 allower
 asteism
 acylamido
+abramis
 alcahest
 alloxan
 arsenicalism
