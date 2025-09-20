@@ -8962,6 +8962,7 @@ coasserter
 combmaker
 chargeable
 ciphertext
+cabalistically
 clements
 chargeably
 chargeant
@@ -10634,7 +10635,6 @@ crunchily
 chylophyllously
 comiakin
 catachresis
-cabalistically
 cashbook
 catogene
 chylopoiesis
