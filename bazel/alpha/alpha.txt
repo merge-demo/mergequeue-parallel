@@ -9686,7 +9686,6 @@ arteriectomy
 aeroplane
 aposthia
 arginases
-arterialise
 amante
 auscultation
 augurer
@@ -23264,6 +23263,7 @@ acetylic
 anorthosite
 aigrets
 asteriae
+arterialise
 audiencia
 adstipulating
 aerobacters
