@@ -12629,7 +12629,6 @@ chronotropic
 countable
 collocution
 cordy
-cheney
 chilidium
 chalybes
 chronotropism
@@ -22876,6 +22875,7 @@ chaldee
 consentive
 consentment
 consents
+cheney
 catchiness
 causticized
 consequency
