@@ -2065,6 +2065,7 @@ anemic
 arborized
 achiness
 apocryphalist
+apiary
 achinesses
 aching
 achiotes
@@ -11183,7 +11184,6 @@ aidant
 amphisarca
 administratorship
 argiopidae
-apiary
 amphisbaenas
 amphisbaenoid
 antimasks
