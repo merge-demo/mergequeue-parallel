@@ -789,7 +789,6 @@ daneball
 demitranslucence
 dialytic
 discussment
-dkl
 daubers
 delusters
 dakhini
@@ -1859,6 +1858,7 @@ dermatoglyphics
 devirginator
 dispoint
 debitum
+dkl
 dazes
 declaratory
 douvecot
