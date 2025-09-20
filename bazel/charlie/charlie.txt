@@ -7899,6 +7899,7 @@ castaway
 cessor
 caching
 cesspit
+checkstrap
 cesspits
 cesspools
 chytridiaceae
@@ -16839,7 +16840,6 @@ clover
 clovered
 cloverlay
 citizen
-checkstrap
 clupeidae
 cloverleaves
 cloverley
