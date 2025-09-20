@@ -5823,7 +5823,6 @@ angor
 attain
 appomattox
 arioso
-agility
 auxotrophic
 allegedly
 afresca
@@ -13309,6 +13308,7 @@ anneslia
 annette
 aragonspath
 attitudist
+agility
 annexational
 abluents
 alette
