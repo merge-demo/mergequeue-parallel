@@ -1105,7 +1105,6 @@ adenectomy
 aphanomyces
 asymptotic
 abutilon
-abbassi
 abutment
 architraves
 agenizing
@@ -7130,6 +7129,7 @@ anematize
 atropin
 antiparasitic
 antepaschel
+abbassi
 abominableness
 alaska
 artocarpeous
