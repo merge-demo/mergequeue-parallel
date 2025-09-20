@@ -3541,7 +3541,6 @@ disguise
 debunker
 desexualization
 degass
-degassed
 disappears
 dodecant
 degaussing
@@ -5870,6 +5869,7 @@ docetic
 dragonfly
 deadtongue
 dataries
+degassed
 dags
 dyophysitical
 dentaries
