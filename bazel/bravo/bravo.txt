@@ -7240,6 +7240,7 @@ brazera
 balloting
 bufidin
 buck
+brahminism
 betear
 betel
 buttwood
@@ -12713,7 +12714,6 @@ billion
 brachydactylic
 bailsmen
 bogbeans
-brahminism
 bookfold
 bacteria
 biometric
