@@ -3233,7 +3233,6 @@ crackbrain
 casques
 capitalizing
 capitalness
-capitan
 capitana
 coelenterata
 crenelle
@@ -27065,6 +27064,7 @@ counterrevolutionist
 counterriposte
 crotaphion
 counterroll
+capitan
 cincinnus
 counterround
 counters
