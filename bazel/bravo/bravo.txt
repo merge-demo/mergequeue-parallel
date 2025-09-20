@@ -3431,7 +3431,6 @@ bullfoot
 boatshop
 bleaching
 bagani
-brachycephalism
 bowstave
 bummers
 brigantines
@@ -13540,6 +13539,7 @@ botulisms
 brief
 brodequin
 briquette
+brachycephalism
 bouch
 boucharde
 branchiform
