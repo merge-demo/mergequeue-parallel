@@ -6555,7 +6555,6 @@ deity
 descriptivism
 decilitre
 doddies
-dungs
 descrive
 descure
 dendrophil
@@ -9115,6 +9114,7 @@ diction
 disguiser
 disparage
 drivebolt
+dungs
 defang
 dermatophobia
 defigure
