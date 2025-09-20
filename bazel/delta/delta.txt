@@ -1721,6 +1721,7 @@ dearness
 deaspirate
 deuterocone
 drecks
+duenesses
 debilitant
 druggister
 disseminations
@@ -17920,7 +17921,6 @@ defedation
 disburser
 deterministically
 deteriorations
-duenesses
 discandy
 disserted
 datable
