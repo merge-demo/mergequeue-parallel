@@ -14116,6 +14116,7 @@ capivi
 circean
 circensian
 cryostat
+calycophoran
 circinate
 chirinola
 circination
@@ -26398,7 +26399,6 @@ crewmen
 cotise
 cezannesque
 collector
-calycophoran
 crackpot
 cambrian
 cotised
