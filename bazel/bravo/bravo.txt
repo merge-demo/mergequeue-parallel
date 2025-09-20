@@ -10473,7 +10473,6 @@ boating
 benvenuto
 blaster
 blastid
-bespousing
 brickfielder
 beeflower
 blastochyle
@@ -12838,6 +12837,7 @@ boomslang
 bejelling
 boomslange
 busuuti
+bespousing
 buccula
 balers
 blastulae
