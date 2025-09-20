@@ -5220,7 +5220,6 @@ basification
 blotless
 breadboards
 bombyx
-bandeng
 bandos
 begarlanded
 basaltic
@@ -13214,6 +13213,7 @@ bedecking
 brachycephalize
 bourlaw
 bowtel
+bandeng
 borwort
 bloodthirst
 barbiturate
