@@ -12837,6 +12837,7 @@ canasta
 calorite
 commonplacer
 crackback
+confirmment
 camellias
 chuprassie
 church
@@ -22077,7 +22078,6 @@ canonicals
 corticostriate
 cibarious
 caretakers
-confirmment
 contrariness
 cinquedea
 congruistic
