@@ -6159,7 +6159,6 @@ bengola
 bicron
 bipartient
 beni
-baldoquin
 buckjumper
 benic
 bonus
@@ -8979,6 +8978,7 @@ biologist
 bedstands
 bioluminescence
 bewhite
+baldoquin
 biggest
 bacterioagglutinin
 biomathematics
