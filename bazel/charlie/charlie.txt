@@ -7840,7 +7840,6 @@ cichloid
 commensurately
 cerviciplex
 cervicispinal
-cervicitis
 cervicoauricular
 cervicobasilar
 cobitis
@@ -10611,6 +10610,7 @@ compartmentalize
 calculi
 chilliest
 camelopardid
+cervicitis
 characteriser
 chilling
 crewel

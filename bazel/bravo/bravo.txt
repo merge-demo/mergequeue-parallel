@@ -6380,6 +6380,7 @@ battercake
 bianca
 biostratigraphy
 borderings
+blooping
 bergmannite
 birsit
 beothukan
@@ -6458,7 +6459,6 @@ bruges
 bichromated
 beaupere
 bourdis
-blooping
 bartramiaceae
 belga
 buckeyes
