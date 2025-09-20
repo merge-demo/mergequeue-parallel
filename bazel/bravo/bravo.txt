@@ -1651,7 +1651,6 @@ bilobated
 balloted
 bibliothetic
 balibuntl
-ballotist
 batell
 borocaine
 ballots
@@ -13722,6 +13721,7 @@ braking
 boutique
 boches
 bouto
+ballotist
 barehanded
 bandages
 bandlet
