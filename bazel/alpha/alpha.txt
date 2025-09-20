@@ -3178,7 +3178,6 @@ amylenes
 adamantean
 antipolyneuritic
 adamantinoma
-adamantoblast
 aphoristic
 antidromy
 archery
@@ -21516,6 +21515,7 @@ asphyxiative
 aperient
 alkylize
 anthroponomical
+adamantoblast
 anlage
 approvable
 avoid
