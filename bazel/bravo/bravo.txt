@@ -6523,7 +6523,6 @@ betons
 bartsia
 bescreening
 bannerer
-butterbox
 beetlers
 bacharach
 bukh
@@ -15937,6 +15936,7 @@ bluffness
 ballotade
 bronk
 bromocyanogen
+butterbox
 botched
 burgullian
 brontides
