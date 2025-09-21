@@ -8670,7 +8670,6 @@ duvetyne
 demotions
 dias
 depertible
-dextroduction
 downstream
 diametrically
 desole
@@ -10435,6 +10434,7 @@ dipartition
 dominicks
 dachs
 dekkos
+dextroduction
 disindividualize
 demersion
 downless
