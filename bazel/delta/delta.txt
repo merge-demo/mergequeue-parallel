@@ -5986,7 +5986,6 @@ deprograms
 dopamine
 deuteron
 dropforged
-deprome
 distale
 drawling
 desertrice
@@ -12721,6 +12720,7 @@ dicotyles
 dislicense
 disperiwig
 diacromyodian
+deprome
 dooming
 discradle
 disliken
