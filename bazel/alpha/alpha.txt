@@ -330,6 +330,7 @@ anandria
 anthophyte
 anguis
 angelet
+abjoint
 appeals
 apagogue
 armomancy
@@ -22089,7 +22090,6 @@ adeption
 astonishment
 absurdism
 astoop
-abjoint
 anolympiad
 arnotto
 anticlassicist
