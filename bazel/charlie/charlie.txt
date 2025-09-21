@@ -15724,7 +15724,6 @@ clavicittern
 contraction
 clavicle
 cruised
-clavicles
 clavicorn
 clavicotomy
 clavicular
@@ -26857,6 +26856,7 @@ counterideal
 circumambience
 counterimagination
 counterimpulse
+clavicles
 cyclarthrodial
 counterindented
 counterindication
