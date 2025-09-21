@@ -11117,7 +11117,6 @@ disequilibrate
 doctordom
 deedy
 difluoride
-denumerability
 dialyser
 decernment
 divisor
@@ -15198,6 +15197,7 @@ dreamwise
 dogs
 desalter
 dogsbodies
+denumerability
 decalcifying
 diureses
 doudle
