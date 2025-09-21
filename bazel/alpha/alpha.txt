@@ -9612,7 +9612,6 @@ argentina
 arthritic
 amabel
 amabile
-afterheat
 allegatum
 amadan
 asterella
@@ -23386,6 +23385,7 @@ anaphe
 augure
 augured
 anteroposteriorly
+afterheat
 anarcotin
 algaeology
 applyingly
