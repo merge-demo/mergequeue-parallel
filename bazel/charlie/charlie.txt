@@ -3242,7 +3242,6 @@ crenelle
 capitasti
 cokers
 capitated
-cputime
 capitation
 casimere
 capitations
@@ -6663,6 +6662,7 @@ criminously
 cursorial
 ceibo
 counterthrust
+cputime
 clamoring
 celestine
 ceilers
