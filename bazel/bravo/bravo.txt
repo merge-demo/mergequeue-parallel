@@ -4493,7 +4493,6 @@ babesia
 becurses
 becurst
 becushioned
-befogged
 baidak
 batons
 beglamour
@@ -17798,6 +17797,7 @@ beglerbegluc
 bursiculate
 bovey
 bursitis
+befogged
 bestialise
 bumptiousness
 breards
