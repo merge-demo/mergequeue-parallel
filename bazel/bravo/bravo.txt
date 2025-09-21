@@ -2985,7 +2985,6 @@ bindis
 babouche
 bromophenol
 blennioidea
-broadcasters
 boulevard
 barrister
 banda
@@ -6187,6 +6186,7 @@ braceleted
 benni
 bennies
 benomyl
+broadcasters
 backspread
 bacillophobia
 beggared
