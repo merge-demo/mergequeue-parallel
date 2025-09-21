@@ -6268,7 +6268,6 @@ diplonephridia
 duchesnea
 dissipators
 deutobromide
-dermatomere
 despectant
 dermatomyces
 delocalizing
@@ -7572,6 +7571,7 @@ deuteranope
 daphnia
 deuterate
 deuteration
+dermatomere
 denucleate
 demarcator
 disenchain
