@@ -14794,6 +14794,7 @@ coenamor
 coccinellid
 cocinero
 chiarooscuros
+cartload
 cityness
 citynesses
 chinantecs
@@ -24808,7 +24809,6 @@ curlycue
 cholocyanine
 colourfast
 coquicken
-cartload
 contumax
 coquille
 crosiers
