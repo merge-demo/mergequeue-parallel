@@ -9855,7 +9855,6 @@ bewhisper
 bait
 besought
 broth
-bulgaric
 birred
 backswing
 bitterheartedness
@@ -16547,6 +16546,7 @@ brawls
 bucco
 butte
 beaned
+bulgaric
 bisques
 bactris
 bavius
