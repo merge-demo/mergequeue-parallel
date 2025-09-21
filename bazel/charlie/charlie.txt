@@ -2533,7 +2533,6 @@ collywest
 candlelight
 candlelighter
 chaloth
-confraternities
 choosable
 candlelighting
 candlelit
@@ -7566,6 +7565,7 @@ changeability
 cervices
 caliology
 centripetally
+confraternities
 cyclanthaceae
 chariotry
 cerebellifugal

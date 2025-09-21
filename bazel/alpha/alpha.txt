@@ -7848,7 +7848,6 @@ antiexpansionist
 anticynic
 addlepatedness
 amphiploid
-alexandrine
 alexandrite
 apexing
 acoelomi
@@ -20092,6 +20091,7 @@ aleck
 arrays
 advisors
 agdistis
+alexandrine
 ahir
 acylation
 accursedly
