@@ -12205,7 +12205,6 @@ confriar
 chemosensitivity
 cynodon
 calescent
-chrysippus
 chebulinic
 cottidae
 calmierer
@@ -15232,6 +15231,7 @@ croises
 catamneses
 centipede
 craniata
+chrysippus
 conforms
 cade
 curtailments
