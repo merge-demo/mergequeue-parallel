@@ -2032,6 +2032,7 @@ campaign
 clotheshorses
 campaigners
 campaigns
+cymballike
 carlylesque
 colostric
 campana
@@ -8092,7 +8093,6 @@ chimaeras
 chafeweed
 chaffed
 chaffer
-cymballike
 chafferer
 cursively
 cymbalist

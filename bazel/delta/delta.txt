@@ -2141,6 +2141,7 @@ dissyllabize
 destroyable
 decamethonium
 dominator
+damkjernite
 decancellated
 dermatalgia
 debaser
@@ -17083,7 +17084,6 @@ dreynt
 disordered
 defibrinate
 demagnetized
-damkjernite
 depolishes
 dollying
 demipesade
