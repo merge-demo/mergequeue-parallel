@@ -7113,7 +7113,6 @@ centiares
 chemosmotic
 copita
 curvidentate
-coquetoon
 centiday
 centigrado
 cerebriformly
@@ -10303,6 +10302,7 @@ coccidioidomycosis
 chicha
 chichevache
 cyperus
+coquetoon
 chichi
 cremating
 crankism
