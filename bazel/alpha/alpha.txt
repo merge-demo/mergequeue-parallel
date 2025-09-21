@@ -3780,6 +3780,7 @@ adjudicatory
 aerostats
 akinetic
 adjudicators
+actinopterygian
 amores
 adjument
 alarmed
@@ -6647,7 +6648,6 @@ arecales
 auriculoparietal
 anacamptometer
 airish
-actinopterygian
 acerbophobia
 antelabium
 ambulatorily
