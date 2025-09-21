@@ -1443,7 +1443,6 @@ cooks
 callais
 callants
 clausular
-chilenite
 cadginess
 conclusions
 cleavability
@@ -5629,6 +5628,7 @@ conges
 cataplastic
 casten
 catapleiite
+chilenite
 catapulted
 catapultic
 concreting
