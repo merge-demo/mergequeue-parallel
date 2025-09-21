@@ -17459,6 +17459,7 @@ coaxes
 coaxy
 clinoaxis
 cordigeri
+corrodentia
 coaxial
 coaxing
 coazervate
@@ -23699,7 +23700,6 @@ contrabandage
 chirpling
 causticiser
 contrabandista
-corrodentia
 carroccio
 constituted
 contrabassist

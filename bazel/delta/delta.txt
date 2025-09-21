@@ -8701,7 +8701,6 @@ dots
 droumy
 downweigh
 defeminised
-degenerationist
 diaspore
 denuders
 diastases
@@ -10676,6 +10675,7 @@ determiners
 dolomize
 doon
 discoveries
+degenerationist
 dioc
 deathliness
 diplopod
