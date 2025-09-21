@@ -5201,7 +5201,6 @@ birdikin
 bowla
 begad
 bedders
-blanky
 blinkering
 beworming
 boarcite
@@ -11092,6 +11091,7 @@ bopping
 bruet
 baals
 bituminization
+blanky
 bichromatize
 blockboard
 bergfall
