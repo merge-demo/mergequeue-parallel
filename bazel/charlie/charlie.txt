@@ -10640,7 +10640,6 @@ chilomastix
 chylopericardium
 chylophylly
 classics
-chylophyllous
 crunchily
 chylophyllously
 comiakin
@@ -17113,6 +17112,7 @@ contraplex
 chorobates
 countersway
 countertrench
+chylophyllous
 colpostat
 comptometer
 cater
