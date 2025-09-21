@@ -6362,7 +6362,6 @@ cilantro
 cautery
 cauteries
 cottagers
-cauterisation
 couche
 collision
 cauterising
@@ -13162,6 +13161,7 @@ corniculum
 chorda
 cortins
 crackability
+cauterisation
 cicatrising
 cystoflagellata
 cicatrizate
