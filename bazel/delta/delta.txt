@@ -4560,6 +4560,7 @@ dosimetric
 demifigure
 demigardebras
 decentres
+demonetised
 dotlike
 dunbird
 detroiter
@@ -9182,7 +9183,6 @@ despraise
 depressives
 dandering
 defensory
-demonetised
 discomycetous
 dendriform
 disculpation
