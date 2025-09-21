@@ -13490,7 +13490,6 @@ blizzardous
 beastlings
 bottlenose
 bottlers
-bottlestone
 bottling
 biunity
 blemishes
@@ -17275,6 +17274,7 @@ bundled
 bundler
 bivium
 bottleneck
+bottlestone
 badged
 belialist
 benzantialdoxime
