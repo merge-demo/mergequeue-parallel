@@ -10369,6 +10369,7 @@ chicness
 chantries
 chico
 coryneum
+counterion
 chicot
 chicqued
 circumrotation
@@ -11254,7 +11255,6 @@ copsole
 chlorinator
 crampit
 chicote
-counterion
 cotch
 chlorite
 canreply
