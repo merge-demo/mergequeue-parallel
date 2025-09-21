@@ -942,7 +942,6 @@ abstentionist
 animal
 absterge
 asparagus
-acuity
 archdeacon
 abstergent
 absterges
@@ -1826,6 +1825,7 @@ aslaver
 ablock
 assizing
 abulomania
+acuity
 acetic
 acetified
 attitudinarianism

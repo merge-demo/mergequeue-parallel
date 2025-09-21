@@ -15991,7 +15991,6 @@ crumbum
 clericals
 clericate
 chordaceous
-clericature
 clericism
 centares
 clerid
@@ -20015,6 +20014,7 @@ comity
 comitia
 colortype
 cuscuses
+clericature
 comitje
 chunters
 creamsacs
