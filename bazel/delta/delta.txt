@@ -3540,6 +3540,7 @@ drywall
 dawny
 dissoluble
 depending
+deline
 disguise
 debunker
 desexualization
@@ -4090,7 +4091,6 @@ delimiter
 deviational
 departments
 diplomyelia
-deline
 dishonourably
 disparpling
 dorsicolumn
