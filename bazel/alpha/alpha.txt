@@ -2897,7 +2897,6 @@ actinoids
 appriser
 alleviator
 aciculum
-antiphon
 antimeson
 aland
 actinomeric
@@ -8550,6 +8549,7 @@ almes
 allelomorphic
 allelotropic
 anatomization
+antiphon
 aquamanilia
 attendantly
 aldehydase
