@@ -6560,6 +6560,7 @@ blastoma
 bobcat
 bronchia
 beezers
+bini
 buchanite
 bimane
 begreen
@@ -8764,7 +8765,6 @@ beatnikism
 beholder
 binh
 bounden
-bini
 barycentric
 biniou
 binitarianism
