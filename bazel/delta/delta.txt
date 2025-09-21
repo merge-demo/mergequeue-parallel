@@ -3990,7 +3990,6 @@ dermatosis
 dermographism
 digressiveness
 diamb
-diabolical
 dibasicity
 dialing
 delegator
@@ -16382,6 +16381,7 @@ dotty
 downright
 dropshots
 diosmotic
+diabolical
 discredits
 denser
 defended
