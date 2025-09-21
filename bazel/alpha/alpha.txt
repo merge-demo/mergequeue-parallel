@@ -4926,6 +4926,7 @@ animalness
 aerotonometry
 adularescent
 albruna
+actinophore
 allantoidal
 aerotonometric
 aeruginous
@@ -24578,7 +24579,6 @@ avatar
 athyroid
 adenoncus
 antipharmic
-actinophore
 amyraldism
 abrahamite
 avellane
