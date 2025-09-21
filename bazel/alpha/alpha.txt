@@ -4926,7 +4926,6 @@ animalness
 aerotonometry
 adularescent
 albruna
-allantoidal
 aerotonometric
 aeruginous
 animikite
@@ -23726,6 +23725,7 @@ autarchies
 artie
 autarchist
 antipapalist
+allantoidal
 autarkies
 allosaurus
 autarkist

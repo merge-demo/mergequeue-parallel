@@ -4699,7 +4699,6 @@ backwinding
 bauds
 bedrails
 bedraped
-bedraping
 bedread
 bespout
 baldling
@@ -4816,6 +4815,7 @@ bradystalsis
 beechen
 bejuggle
 breakstone
+bedraping
 biscuitmaking
 bloomage
 bomarea
