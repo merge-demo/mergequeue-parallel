@@ -637,7 +637,6 @@ abominations
 arithmocracy
 asyngamic
 affably
-agorae
 abominators
 abomine
 attainer
@@ -24297,6 +24296,7 @@ anodendron
 aquaducts
 autoracemization
 autoradiogram
+agorae
 autoradiograph
 autoreflection
 allopurinol
