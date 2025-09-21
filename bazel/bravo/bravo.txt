@@ -7583,7 +7583,6 @@ bullary
 boutre
 belesprit
 bepride
-bando
 bewreck
 befreckle
 boundable
@@ -10943,6 +10942,7 @@ bourrees
 blinkard
 blesbuck
 blinkards
+bando
 bowses
 basta
 beanball
