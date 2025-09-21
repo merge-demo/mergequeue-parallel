@@ -2660,7 +2660,6 @@ dcollet
 deconcentrate
 dakoity
 dishonourer
-descants
 deposals
 delightedness
 diastrophism
@@ -14431,6 +14430,7 @@ deindividuate
 dyssynergia
 diversity
 datedness
+descants
 disgeneric
 dueness
 devisability
