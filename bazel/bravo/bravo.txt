@@ -10963,6 +10963,7 @@ bindlet
 benzyls
 baromacrometer
 benevolence
+bors
 bael
 brachyurous
 bellhop
@@ -13187,7 +13188,6 @@ bonanzas
 blastocyst
 barocyclonometer
 breakless
-bors
 basisphenoid
 butteriest
 barded
