@@ -10147,6 +10147,7 @@ chevachee
 chevage
 careened
 columnwise
+confluently
 cheval
 chevalet
 compactions
@@ -28493,7 +28494,6 @@ confuses
 chavicine
 credencive
 credenda
-confluently
 cassada
 credentialed
 carrot
