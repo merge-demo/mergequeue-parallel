@@ -22257,7 +22257,6 @@ confusability
 circummured
 confusedness
 confuser
-confuses
 chickee
 chaptered
 confusion
@@ -28496,6 +28495,7 @@ cavillingness
 countersecure
 chihuahua
 chevronel
+confuses
 chavicine
 credencive
 credenda
