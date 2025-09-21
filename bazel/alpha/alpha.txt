@@ -16944,6 +16944,7 @@ alcid
 arthrotropic
 apocopes
 antennula
+aldohexose
 archspy
 antigravitational
 antes
@@ -18783,7 +18784,6 @@ abridge
 acritical
 archigastrula
 archiheretical
-aldohexose
 archikaryon
 archilithic
 archimagus

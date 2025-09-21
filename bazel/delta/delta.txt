@@ -16934,7 +16934,6 @@ diameters
 diarrhoeic
 donnishness
 dribbet
-diphyletic
 deadlock
 durwan
 dsname
@@ -17701,6 +17700,7 @@ disanimal
 dimerisms
 dualizes
 dualmutef
+diphyletic
 disrespectability
 duan
 declamatoriness
