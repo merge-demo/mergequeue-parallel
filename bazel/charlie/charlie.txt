@@ -14258,6 +14258,7 @@ chumped
 coastguard
 circumesophageal
 capparis
+characin
 conventically
 circumfer
 circumferential
@@ -14649,7 +14650,6 @@ cystocarcinoma
 cystocolostomy
 cystodynia
 cystoelytroplasty
-characin
 carpophaga
 cystoepithelioma
 complemental
