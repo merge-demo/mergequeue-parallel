@@ -5616,7 +5616,6 @@ ashmen
 archaizes
 apickaback
 ancestor
-agata
 archisphere
 atonies
 anthophagous
@@ -23972,6 +23971,7 @@ autodials
 annection
 autodidactic
 albespine
+agata
 aversely
 autodidactically
 accoyed
