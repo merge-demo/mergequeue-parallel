@@ -4742,6 +4742,7 @@ clippingly
 crewels
 cariniform
 choanoflagellata
+counterprick
 clifflike
 cowlings
 carpoidea
@@ -27012,7 +27013,6 @@ caribi
 cartoning
 chestiest
 counterpreach
-counterprick
 cark
 combinatoric
 chalcedonian
