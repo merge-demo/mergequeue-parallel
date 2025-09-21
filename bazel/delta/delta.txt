@@ -3811,7 +3811,6 @@ demagnetizable
 deficiency
 dermalgia
 dubitative
-discreate
 dactylioglyph
 disencumbers
 dimwit
@@ -10709,6 +10708,7 @@ dreadlessness
 disendower
 drownproofing
 doyle
+discreate
 disorganizing
 dendrologous
 disguisedness
