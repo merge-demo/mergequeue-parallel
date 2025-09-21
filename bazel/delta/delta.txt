@@ -604,7 +604,6 @@ disjointedness
 dominated
 devotedly
 disintegrations
-damfool
 div
 depressively
 dwelled
@@ -5713,6 +5712,7 @@ danton
 depletive
 denutrition
 deke
+damfool
 devolutionist
 desulphurate
 debitor
