@@ -153,6 +153,7 @@ banister
 booboos
 bursati
 belick
+blearness
 basidiocarp
 bedumbing
 beeheaded
@@ -10635,7 +10636,6 @@ bleeze
 begarnish
 blearing
 boselaphus
-blearness
 bleated
 butcherdom
 bluejoint
