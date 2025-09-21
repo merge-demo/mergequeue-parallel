@@ -13324,6 +13324,7 @@ acrylyl
 artemisin
 annexion
 atrophic
+anisidino
 astigmatic
 azedarac
 archchemic
@@ -14649,7 +14650,6 @@ affectioned
 anticeremoniously
 anticeremoniousness
 antichamber
-anisidino
 avener
 abbreviations
 agaze
