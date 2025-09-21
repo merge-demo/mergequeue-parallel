@@ -12172,7 +12172,6 @@ chrysalid
 colophonium
 coronet
 chrysalida
-chrysalidal
 chrysaline
 chromophilous
 chrysalis
@@ -21622,6 +21621,7 @@ conchinine
 chasteningly
 concubines
 citrange
+chrysalidal
 cottonless
 concubitancy
 caprid
