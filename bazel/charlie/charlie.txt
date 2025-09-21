@@ -8251,6 +8251,7 @@ cercarias
 chalazoin
 charvet
 chalcanth
+castanets
 chalcedony
 cusconine
 calabrasella
@@ -13798,7 +13799,6 @@ cuffless
 congestus
 cineaste
 convoke
-castanets
 cacosplanchnia
 cynegild
 conspurcate
