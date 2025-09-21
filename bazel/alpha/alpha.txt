@@ -10470,7 +10470,6 @@ awin
 arride
 amylidene
 amylo
-amyloclastic
 acrasias
 aponogetonaceae
 antiredeposition
@@ -25137,6 +25136,7 @@ axites
 ate
 axle
 appendice
+amyloclastic
 aphanipterous
 acacin
 ambar
