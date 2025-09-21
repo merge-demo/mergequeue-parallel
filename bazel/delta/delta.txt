@@ -5026,7 +5026,6 @@ deurbanize
 dacoited
 directional
 deferable
-deposed
 dinamode
 delustered
 dovecotes
@@ -10313,6 +10312,7 @@ daguerreotype
 deoxyribonucleic
 delphinius
 deciduary
+deposed
 ditrochee
 draughting
 delta
