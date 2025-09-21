@@ -12981,6 +12981,7 @@ alethiologic
 atmidometer
 allergist
 animallike
+affectlessness
 alebush
 apozemical
 accouterments
@@ -22359,7 +22360,6 @@ aldols
 atrociousness
 ataraxia
 ancilia
-affectlessness
 atatschite
 angiospermous
 ataunt
