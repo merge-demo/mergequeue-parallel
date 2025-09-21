@@ -3267,6 +3267,7 @@ contrib
 capitolium
 capitula
 capitulant
+croupily
 centrists
 capitularies
 clathrus
@@ -27036,7 +27037,6 @@ contratulations
 conceptualization
 counterproposal
 cycads
-croupily
 clerking
 counterprotection
 counterpull

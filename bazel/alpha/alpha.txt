@@ -7399,6 +7399,7 @@ anywhither
 alca
 acetal
 acrasida
+arthropods
 autodermic
 aquamanale
 arianize
@@ -14682,7 +14683,6 @@ anisocytosis
 amphichrome
 alegars
 appendence
-arthropods
 accidentally
 antichronically
 amphibola
