@@ -16162,7 +16162,6 @@ cabarets
 climacteric
 chiropractic
 climacterically
-climactical
 contexture
 collotyping
 chymosinogen
@@ -21561,6 +21560,7 @@ catface
 concordant
 candlemaking
 classifically
+climactical
 crescent
 carpidium
 cankerworm

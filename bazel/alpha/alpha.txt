@@ -9900,7 +9900,6 @@ ambigu
 ambiguity
 arkansite
 ambilateralaterally
-amtrac
 antipatharia
 ambisexuality
 archilute
@@ -18558,6 +18557,7 @@ annexment
 adenyls
 aquascutum
 alcoholytic
+amtrac
 altitudinarian
 anatocism
 atturn
