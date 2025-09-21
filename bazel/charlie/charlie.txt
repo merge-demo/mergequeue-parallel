@@ -2618,7 +2618,6 @@ craftswoman
 carbylamine
 caneology
 cyanurine
-canephorae
 copsing
 canephore
 canepin
@@ -6151,6 +6150,7 @@ catwalk
 chancier
 catwise
 convictive
+canephorae
 crusta
 casehardened
 catzerie
