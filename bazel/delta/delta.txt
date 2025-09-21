@@ -9362,6 +9362,7 @@ dipso
 depolarised
 destroyers
 dottled
+dwindles
 diethylaminoethanol
 doited
 differed
@@ -13236,7 +13237,6 @@ dimity
 dodecastylos
 dyspnoeal
 dropkicks
-dwindles
 deserveless
 disemboguing
 didascalar
