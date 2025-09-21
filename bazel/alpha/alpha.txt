@@ -18373,7 +18373,6 @@ arbor
 abomasus
 acrocyst
 anisosepalous
-anthropoidal
 arboraceous
 anticorset
 antelation
@@ -23864,6 +23863,7 @@ antemetallic
 animatingly
 apostatised
 assurable
+anthropoidal
 aspout
 ambrosiaceous
 abrogable
