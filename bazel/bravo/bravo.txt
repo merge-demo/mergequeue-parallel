@@ -605,7 +605,6 @@ boidae
 bonjour
 barniest
 bibbery
-berstel
 billmen
 beclothed
 bacteremic
@@ -12914,6 +12913,7 @@ boatyard
 boot
 bifoliolate
 batoidei
+berstel
 bootees
 battlemented
 basilect
