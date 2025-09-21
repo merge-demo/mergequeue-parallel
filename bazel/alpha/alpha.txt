@@ -2264,6 +2264,7 @@ acieration
 appurtenance
 acyesis
 altometer
+aftereffect
 annelidan
 acanthopod
 amourist
@@ -5352,7 +5353,6 @@ aesculus
 aspersoria
 afterdeck
 adipomata
-aftereffect
 autologous
 afterform
 aevum
