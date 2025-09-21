@@ -555,7 +555,6 @@ costated
 cadres
 ciconiiform
 councilors
-colloque
 confort
 caduac
 cruiseway
@@ -20685,6 +20684,7 @@ curvilinearly
 coswearer
 cumara
 charge
+colloque
 comping
 clanjamfrie
 cyclized
