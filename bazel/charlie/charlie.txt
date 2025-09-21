@@ -15771,7 +15771,6 @@ claws
 crossweed
 corin
 cleam
-chamicuro
 capote
 confectioneries
 clean
@@ -22325,6 +22324,7 @@ coloratura
 congers
 chemigraphically
 cooeed
+chamicuro
 content
 congestedness
 cucujidae
