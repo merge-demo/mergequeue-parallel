@@ -9257,6 +9257,7 @@ biquintile
 burkite
 bacillariophyta
 boles
+bown
 bastaard
 bavenite
 blurredness
@@ -13889,7 +13890,6 @@ bud
 benchmarked
 barehead
 bowsman
-bown
 bows
 bootjack
 bowsaw
