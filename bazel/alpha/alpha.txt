@@ -1241,6 +1241,7 @@ anaglyptography
 antemask
 acarodermatitis
 autarchoglossa
+antirrhinum
 androlepsia
 asleep
 amay
@@ -15929,7 +15930,6 @@ absentees
 anaptyxes
 antiricin
 antiromantic
-antirrhinum
 arbitrages
 augustinian
 acinaceous
