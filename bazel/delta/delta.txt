@@ -2524,7 +2524,6 @@ doctorfish
 dermatomuscular
 dhotis
 declaredly
-dimaris
 diplococcus
 dwined
 dorn
@@ -16957,6 +16956,7 @@ desmosite
 disadventurous
 docudrama
 disentailment
+dimaris
 dicotylous
 digladiation
 disesteem
