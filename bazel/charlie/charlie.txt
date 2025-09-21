@@ -17476,6 +17476,7 @@ cistron
 cobalt
 cobaltamine
 contrude
+curiage
 crowdweed
 cephaloconic
 cobalticyanides
@@ -31359,7 +31360,6 @@ calxes
 clodpoles
 curiae
 cobwebbing
-curiage
 curialism
 calcisponge
 curialist
