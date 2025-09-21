@@ -1205,6 +1205,7 @@ calelectric
 caprice
 cumulostratus
 contender
+counterseal
 cauliferous
 calenda
 counterfaller
@@ -28148,7 +28149,6 @@ cullis
 crankily
 crankiness
 cranking
-counterseal
 convicting
 cima
 crankling
