@@ -3701,7 +3701,6 @@ caravanserial
 companeros
 confuse
 caravels
-cosen
 caraway
 caraways
 carbachol
@@ -16675,6 +16674,7 @@ closeable
 closed
 closefistedness
 concussant
+cosen
 clubbiest
 colleagueship
 cerebricity
