@@ -8807,7 +8807,6 @@ belowground
 battery
 bulkier
 bummalos
-benzol
 babbly
 balsamiferous
 bashless
@@ -9773,6 +9772,7 @@ brassica
 bromouracil
 biters
 bullyable
+benzol
 battiness
 bagmen
 backache
