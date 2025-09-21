@@ -17118,7 +17118,6 @@ comptometer
 cater
 crappy
 coachsmith
-caponisation
 coachsmithing
 cumacea
 confederationism
@@ -19751,6 +19750,7 @@ coma
 comprobate
 craniopharyngeal
 carillon
+caponisation
 comagmatic
 comake
 comaker
