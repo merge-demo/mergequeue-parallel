@@ -6951,7 +6951,6 @@ amidic
 apterygiformes
 attuned
 appreteur
-anointers
 airbrushed
 akmuddar
 aknow
@@ -18086,6 +18085,7 @@ anthraphenone
 ampelis
 athericerous
 allhallow
+anointers
 aquifer
 avanturine
 actifier
