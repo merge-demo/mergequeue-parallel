@@ -10781,7 +10781,6 @@ charleen
 chlor
 chinkapin
 clinospore
-callitriche
 consequents
 chinkara
 cornerways
@@ -23051,6 +23050,7 @@ conglobe
 consolidators
 consoling
 counteractivity
+callitriche
 consolingly
 consolitoriness
 catalepsies
