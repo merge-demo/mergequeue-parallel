@@ -9086,7 +9086,6 @@ dicrotous
 disoccluded
 deva
 dicruridae
-delia
 dehort
 deaminating
 dissembler
@@ -18458,6 +18457,7 @@ duplicators
 duncehood
 devocalizing
 daidle
+delia
 ducatus
 discerningly
 distributary
