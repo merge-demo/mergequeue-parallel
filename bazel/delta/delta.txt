@@ -10492,7 +10492,6 @@ dogberrydom
 diolefinic
 dislimns
 dynastes
-diphtheric
 diphtheritically
 diphtherotoxin
 diphthongally
@@ -12233,6 +12232,7 @@ diomedea
 doors
 democracy
 dormie
+diphtheric
 dodoisms
 drapes
 dottles
