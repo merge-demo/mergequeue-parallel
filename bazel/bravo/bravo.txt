@@ -7867,7 +7867,6 @@ buckthorn
 biltong
 bibbons
 barbitals
-browser
 btu
 bunkery
 boscages
@@ -18292,6 +18291,7 @@ button
 basaltoid
 buttonbush
 borealis
+browser
 bivalve
 brushy
 bassets
