@@ -8902,7 +8902,6 @@ characterizing
 courtier
 contratenor
 characterlessness
-characterology
 coffle
 crosshead
 confirming
@@ -24840,6 +24839,7 @@ curbash
 coracomorphae
 chrysopoeia
 chafer
+characterology
 coracoprocoracoid
 cholesterinic
 crepitation
