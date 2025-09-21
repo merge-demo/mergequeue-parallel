@@ -14849,7 +14849,6 @@ deringers
 dockyards
 deforms
 docking
-dominica
 dolors
 desmectasia
 dagos
@@ -18678,6 +18677,7 @@ dysenteries
 darwinically
 debe
 detersively
+dominica
 designation
 dwarfs
 deports
