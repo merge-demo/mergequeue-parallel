@@ -30172,7 +30172,6 @@ cerotype
 cornuses
 conspirational
 cliffs
-cavatina
 cornhouse
 christ
 chondroglossus
@@ -31825,6 +31824,7 @@ crapple
 cutest
 cutgrass
 cluther
+cavatina
 costophrenic
 cuticolor
 cuticula
