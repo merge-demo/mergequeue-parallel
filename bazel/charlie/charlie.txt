@@ -10407,7 +10407,6 @@ conveyorizer
 chiefish
 chiefling
 chieftaincy
-chieftainess
 chieftainry
 chukor
 complexify
@@ -24753,6 +24752,7 @@ cops
 catocathartic
 copses
 circs
+chieftainess
 copsy
 copter
 copters
