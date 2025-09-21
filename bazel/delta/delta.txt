@@ -2737,6 +2737,7 @@ darbies
 decortication
 decorticosis
 donas
+dissector
 diagrams
 decorum
 dirige
@@ -6155,7 +6156,6 @@ deratted
 dispond
 deratting
 draperies
-dissector
 derbend
 debauch
 deploringly
