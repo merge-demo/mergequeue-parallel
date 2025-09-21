@@ -3303,6 +3303,7 @@ chaufers
 coughweed
 capoc
 capoche
+commeasurable
 crouche
 chrysomelidae
 chitlins
@@ -20074,7 +20075,6 @@ commatic
 cryobiologist
 cubbish
 cheerily
-commeasurable
 commeasure
 commeasured
 commeasuring
