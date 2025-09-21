@@ -3900,6 +3900,7 @@ bazooka
 blunge
 balearica
 buckishly
+beastbane
 bamboos
 bbs
 backyarder
@@ -6890,7 +6891,6 @@ brachinus
 benefitting
 bleacherman
 bonbons
-beastbane
 bewildering
 bebrine
 beshrivel
