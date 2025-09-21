@@ -12478,7 +12478,6 @@ cingulate
 chamaecrista
 cranemanship
 chromoisomer
-chromoisomeric
 chamaenerion
 cerebralize
 cigarito
@@ -24006,6 +24005,7 @@ convey
 conveyed
 coonskins
 cerotin
+chromoisomeric
 chondrus
 conveyorization
 conjugation
