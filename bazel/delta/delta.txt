@@ -825,6 +825,7 @@ divergencies
 directivity
 dn
 defacto
+dubbeh
 dhanush
 danglingly
 dashwheel
@@ -15052,7 +15053,6 @@ domiciliate
 dogmatics
 domestics
 dogberry
-dubbeh
 dihydrostreptomycin
 debasing
 disbudding
