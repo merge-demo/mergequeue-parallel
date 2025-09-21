@@ -5141,7 +5141,6 @@ deterministic
 downgrading
 deletion
 drills
-dismayingly
 duras
 dependents
 dissensious
@@ -9497,6 +9496,7 @@ dubitante
 decartelization
 denoted
 despondently
+dismayingly
 dungbird
 digenite
 dereistically
