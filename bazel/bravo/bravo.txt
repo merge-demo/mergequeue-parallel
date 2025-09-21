@@ -9793,7 +9793,6 @@ boomeranged
 backswording
 bouffancy
 breach
-boopic
 beanier
 bolelia
 baluchi
@@ -9809,6 +9808,7 @@ baccated
 bromals
 bityite
 berlina
+boopic
 burnsian
 buccobranchial
 bilbo
