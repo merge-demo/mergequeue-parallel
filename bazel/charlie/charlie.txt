@@ -15432,7 +15432,6 @@ calipering
 claques
 claqueur
 conducement
-clarain
 convulsed
 ctenophoric
 clare
@@ -25422,6 +25421,7 @@ combos
 cornual
 conditionally
 cornuated
+clarain
 carnivora
 crested
 cornucopiae
