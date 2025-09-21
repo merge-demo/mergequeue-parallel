@@ -1825,6 +1825,7 @@ demology
 dextrotartaric
 deas
 deassimilation
+dyak
 diapensiaceous
 deme
 discovered
@@ -8344,7 +8345,6 @@ detestableness
 diadelphia
 doryline
 diaguite
-dyak
 defensively
 dapper
 declensions
