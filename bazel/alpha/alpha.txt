@@ -17298,7 +17298,6 @@ antidiphtherin
 anthraconecrosis
 alfaki
 apothecarcaries
-assemblee
 astrean
 ambiens
 archpatron
@@ -18514,6 +18513,7 @@ actinally
 apocynaceous
 altincar
 alkalescent
+assemblee
 archaeostoma
 angelinformal
 archaeostomata

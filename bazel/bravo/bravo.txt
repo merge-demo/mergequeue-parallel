@@ -6553,6 +6553,7 @@ billethead
 bergall
 becrimes
 bergamasche
+baser
 bergamask
 butsu
 bergamo
@@ -12581,7 +12582,6 @@ bezzant
 benzyl
 bonnwis
 bonorum
-baser
 bisector
 bagatelle
 bills
