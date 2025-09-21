@@ -1323,6 +1323,7 @@ bari
 boozer
 bt
 balanoid
+buttonholer
 beknown
 blottto
 betorcinol
@@ -14626,7 +14627,6 @@ buzzerphone
 bitted
 brasils
 bullwhack
-buttonholer
 brassard
 bearing
 brenthis

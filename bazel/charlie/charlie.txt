@@ -6007,6 +6007,7 @@ carryable
 craws
 chandeliers
 cathouses
+cancerdrops
 crownling
 coversine
 chemicovital
@@ -30715,7 +30716,6 @@ contorno
 conspue
 chlorins
 cuiejo
-cancerdrops
 collimation
 cirrigerous
 cuinage
