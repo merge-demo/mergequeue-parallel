@@ -2238,7 +2238,6 @@ acids
 agoras
 allenarly
 acidulant
-antemeridian
 acidulate
 alictisal
 alaunian
@@ -17953,6 +17952,7 @@ apterial
 arace
 apterygota
 arcanist
+antemeridian
 agentship
 apteroid
 aptest
