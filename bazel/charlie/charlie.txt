@@ -7392,6 +7392,7 @@ coutil
 crepuscle
 courtin
 cryolites
+comeddle
 coquettishness
 cephalomant
 cephalomeningitis
@@ -22144,7 +22145,6 @@ cloacitis
 catoptromancy
 calcinize
 cosuretyship
-comeddle
 conflexure
 circumlental
 conflicted
