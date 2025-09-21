@@ -1417,6 +1417,7 @@ dichotomized
 damnit
 dich
 demythify
+damnable
 dawk
 dogly
 dehydrogenates
@@ -3285,7 +3286,6 @@ discloister
 daemonurgy
 divisionistic
 dicot
-damnable
 distressfulness
 dismast
 denims
