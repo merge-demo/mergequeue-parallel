@@ -1242,6 +1242,7 @@ dermatoskeleton
 dreggier
 daystars
 dieb
+discerpibleness
 datebook
 drivehead
 disemplane
@@ -11384,7 +11385,6 @@ dissemble
 davens
 displeasurable
 discerpible
-discerpibleness
 distrainee
 discerption
 dislink
