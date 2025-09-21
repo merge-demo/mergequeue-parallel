@@ -17995,7 +17995,6 @@ aquanauts
 agerasia
 acapnia
 ableptically
-autoscience
 allegator
 aminate
 antidogmatic
@@ -24071,6 +24070,7 @@ apographal
 autoheader
 amblyopsidae
 axone
+autoscience
 autohemolytic
 autohemorrhage
 autohexaploid
