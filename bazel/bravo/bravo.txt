@@ -10457,6 +10457,7 @@ blasphemous
 bismarckian
 blastemal
 bemaster
+burroweed
 bopyrid
 boating
 benvenuto
@@ -17762,7 +17763,6 @@ bacalaos
 baldachini
 breakback
 bheesties
-burroweed
 barrelsful
 burrows
 burrstone
