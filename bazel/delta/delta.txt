@@ -3580,7 +3580,6 @@ deglamorizing
 disrespectfulness
 discernably
 deglazed
-diopters
 duckbills
 dubbing
 deglycerin
@@ -15038,6 +15037,7 @@ dollarfish
 demiracle
 diuron
 disreputed
+diopters
 dhikr
 dilemmic
 dirndl
