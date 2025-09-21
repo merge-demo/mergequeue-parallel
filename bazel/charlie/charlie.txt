@@ -8044,7 +8044,6 @@ chemin
 chaetal
 carromata
 chaetiferous
-cocytean
 chaetochloa
 chaetodon
 chaetodont
@@ -11139,6 +11138,7 @@ clavaria
 chivies
 chivvied
 chivvying
+cocytean
 collateralizing
 cyanophose
 chiwere
