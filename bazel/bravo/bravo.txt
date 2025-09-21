@@ -13516,7 +13516,6 @@ bargainable
 becomes
 bottstick
 botuliform
-botulins
 backpacks
 beadrolls
 breastful
@@ -17747,6 +17746,7 @@ bullwhipping
 buzzle
 bosniac
 burrhead
+botulins
 burrheaded
 baroneted
 blinkered

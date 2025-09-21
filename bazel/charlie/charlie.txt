@@ -888,7 +888,6 @@ chemoses
 catharan
 cradge
 crepitus
-colocates
 coquetting
 confided
 cakavci
@@ -22404,6 +22403,7 @@ circumpentagon
 canted
 calcaria
 cylindered
+colocates
 cutocellulose
 clatch
 clustery
