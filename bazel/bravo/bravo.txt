@@ -1568,6 +1568,7 @@ batterer
 bourignonism
 baller
 biweekly
+billowy
 balladry
 bagass
 bombastry
@@ -10981,7 +10982,6 @@ brassage
 brushless
 blintzes
 bravi
-billowy
 backstage
 brachygrapher
 batched
