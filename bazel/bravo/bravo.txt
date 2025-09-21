@@ -13030,7 +13030,6 @@ bruchus
 borassus
 brandy
 babyishness
-bacilliculture
 bulblet
 bacteriophage
 behears
@@ -17865,6 +17864,7 @@ belabour
 bushelling
 boopis
 busher
+bacilliculture
 bushfighting
 buna
 bushfires
