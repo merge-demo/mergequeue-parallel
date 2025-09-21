@@ -7055,7 +7055,6 @@ berger
 bulges
 bespill
 bathygraphic
-baccilli
 bepretty
 bastardies
 bicarbs
@@ -8451,6 +8450,7 @@ beglerbey
 boiled
 bilianic
 boreism
+baccilli
 blear
 bhunder
 biliferous
