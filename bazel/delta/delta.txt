@@ -6900,7 +6900,6 @@ differently
 door
 descamisados
 desolated
-disoxidate
 dealbation
 disinflated
 desolates
@@ -9565,6 +9564,7 @@ disinfestation
 digitising
 dosing
 desulphurise
+disoxidate
 digitizing
 desorbed
 dictionaries
