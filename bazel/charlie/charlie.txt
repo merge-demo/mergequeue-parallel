@@ -16715,7 +16715,6 @@ campoo
 crookedbacked
 criers
 closky
-clupeoid
 chilopods
 cinnamonwood
 coembody
@@ -31524,6 +31523,7 @@ cursen
 conoclinium
 curser
 cursers
+clupeoid
 curship
 cornutin
 cues
