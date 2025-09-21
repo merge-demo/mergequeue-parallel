@@ -7301,7 +7301,6 @@ disconcertedly
 decliner
 digestant
 dissolved
-detergers
 diamidogen
 divertimento
 discomycetes
@@ -12468,6 +12467,7 @@ derivational
 dishonorer
 disangularize
 decrescendo
+detergers
 deresinize
 detestability
 disciplined
