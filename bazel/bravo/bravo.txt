@@ -4610,6 +4610,7 @@ brothier
 brainwasher
 bustier
 bedframes
+bytalk
 broomed
 bowdlerizes
 basketwoman
@@ -11969,7 +11970,6 @@ bogland
 bittered
 budgerigah
 benzothiofuran
-bytalk
 bogled
 beckelite
 blastostylar
