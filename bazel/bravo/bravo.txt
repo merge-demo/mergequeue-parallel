@@ -10552,7 +10552,6 @@ buduma
 begattal
 buns
 burnewin
-ballahoo
 brockish
 basilard
 bajada
@@ -12605,6 +12604,7 @@ balate
 bonteboks
 beatniks
 beggarwise
+ballahoo
 beryline
 bagels
 broomstick
