@@ -2697,6 +2697,7 @@ cankery
 cannoneering
 cankerroot
 cauponize
+coalify
 cankers
 crannoge
 cultivators
@@ -17290,7 +17291,6 @@ chambrel
 curseder
 coaliest
 contextual
-coalify
 caperer
 cynophile
 coalification
