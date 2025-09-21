@@ -10980,7 +10980,6 @@ chiropodistry
 callan
 conductometric
 chiropodists
-chiropodous
 chiropompholyx
 chiropraxis
 contraposita
@@ -23269,6 +23268,7 @@ curtsey
 constructionist
 christened
 constructive
+chiropodous
 constructively
 coffinmaker
 capiturlary
