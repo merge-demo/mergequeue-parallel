@@ -2888,6 +2888,7 @@ appearances
 alteratively
 actinograph
 aporobranchiata
+acichlorid
 antipodes
 affrayers
 assamar
@@ -18921,7 +18922,6 @@ archon
 alarm
 archonship
 autorotation
-acichlorid
 archontia
 anonymuncule
 apocatharsis
