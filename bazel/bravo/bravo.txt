@@ -10864,6 +10864,7 @@ blighters
 belouke
 besmearer
 baltimorean
+brawls
 bestowing
 bribetaker
 bezazzes
@@ -16543,7 +16544,6 @@ becrampon
 blackarm
 battleship
 bejewelled
-brawls
 bucco
 butte
 beaned
