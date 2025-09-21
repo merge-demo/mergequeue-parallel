@@ -8748,7 +8748,6 @@ arbusterin
 allody
 allodia
 allodial
-attenuant
 anteroflexion
 allodiality
 asherim
@@ -19639,6 +19638,7 @@ aristotelism
 acicula
 aristotype
 aristotle
+attenuant
 arytenoepiglottic
 ambatch
 antinihilistic

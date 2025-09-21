@@ -3185,7 +3185,6 @@ balanopsidales
 baptisin
 bubba
 bataleur
-bashmuric
 branchiomerism
 bourbonist
 basial
@@ -12393,6 +12392,7 @@ brum
 brownest
 barrenness
 buckram
+bashmuric
 bowknot
 befingering
 blindless
