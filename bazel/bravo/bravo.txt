@@ -11493,7 +11493,6 @@ branchiostegan
 bluffs
 boastfully
 behaves
-barytophyllite
 bromthymol
 budder
 bluggy
@@ -14777,6 +14776,7 @@ blindling
 breachful
 breadbasket
 bearability
+barytophyllite
 braunschweiger
 barrancos
 budges
