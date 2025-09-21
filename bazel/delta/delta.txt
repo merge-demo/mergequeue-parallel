@@ -2758,7 +2758,6 @@ deltoideus
 didler
 decreer
 decurrently
-decreet
 dungyard
 dropsied
 dop
@@ -16909,6 +16908,7 @@ draconian
 drawgate
 dishonorary
 drawings
+decreet
 distempered
 diaceturia
 dissociable
