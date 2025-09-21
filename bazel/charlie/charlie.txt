@@ -8392,6 +8392,7 @@ capercailye
 completively
 chalumeaux
 chalutzim
+coinhere
 chama
 chondroplastic
 chamacea
@@ -20590,7 +20591,6 @@ compassionately
 candidateship
 compassionateness
 catalepsy
-coinhere
 compassivity
 cwrite
 compatibility
