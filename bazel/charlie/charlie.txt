@@ -1874,6 +1874,7 @@ cambuscan
 camel
 comforted
 cameleer
+condensity
 culverins
 camelia
 cauliflorous
@@ -22740,7 +22741,6 @@ conciser
 camletine
 cotinus
 circadian
-condensity
 crickey
 conominee
 concertiser
