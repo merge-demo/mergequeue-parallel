@@ -10961,7 +10961,6 @@ amounter
 anend
 amounters
 amices
-allocaffeine
 amouli
 anathematiser
 amovable
@@ -12049,6 +12048,7 @@ anchorite
 aguishness
 archinfamy
 anchoritess
+allocaffeine
 alignment
 anchorlike
 auriculae
