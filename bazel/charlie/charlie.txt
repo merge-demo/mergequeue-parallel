@@ -28755,7 +28755,6 @@ crescentoid
 crescents
 crescentwise
 crescively
-cantino
 cargo
 cresylate
 cresylic
@@ -31155,6 +31154,7 @@ congealment
 cupidon
 cupiuba
 cupless
+cantino
 commandable
 cavities
 cupman
