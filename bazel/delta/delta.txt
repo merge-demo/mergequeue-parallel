@@ -8980,7 +8980,6 @@ dichotomy
 drunkenwise
 deerflies
 detruck
-dwarfness
 disanchor
 daguerreotypic
 discursively
@@ -9822,6 +9821,7 @@ disrate
 decriminalizing
 dicastery
 dilettantism
+dwarfness
 diligence
 diligences
 divaporation
