@@ -1639,6 +1639,7 @@ didymia
 defilading
 deisin
 difficulty
+deuteragonist
 daylong
 dicers
 dimetrodon
@@ -17315,7 +17316,6 @@ decretist
 deadlocks
 dressmake
 dureresque
-deuteragonist
 drizzly
 drizzlier
 drizzliest
