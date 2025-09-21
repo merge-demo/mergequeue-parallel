@@ -279,6 +279,7 @@ buried
 beleaf
 brontosaur
 bedfellow
+binucleolate
 bacillarieae
 beroe
 barlock
@@ -16633,7 +16634,6 @@ bucko
 bickern
 buckoes
 baronetise
-binucleolate
 biguanide
 buckras
 bathroom
