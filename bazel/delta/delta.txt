@@ -12227,7 +12227,6 @@ downbye
 disherent
 dinero
 dolichocephalous
-dramatism
 damascenes
 diomedea
 doors
@@ -12387,6 +12386,7 @@ detracted
 digammate
 dactyl
 distrained
+dramatism
 dithyrambically
 dromaeognathous
 dielectrics
