@@ -2509,7 +2509,6 @@ bumblebees
 buzylene
 batarde
 beprank
-bodysuit
 butterflied
 baria
 berceau
@@ -16559,6 +16558,7 @@ broomy
 bucconinae
 buccopharyngeal
 brevet
+bodysuit
 bugproof
 bucculae
 butyr
