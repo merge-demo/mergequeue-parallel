@@ -6101,6 +6101,7 @@ bravo
 bluebonnet
 bonebinder
 bromvoel
+barotropy
 boxwood
 biophore
 beneficial
@@ -10238,7 +10239,6 @@ botargo
 buckboards
 biflorous
 beehead
-barotropy
 beforehandedness
 brandish
 bounding
