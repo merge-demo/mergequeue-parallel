@@ -539,7 +539,6 @@ demicadence
 dup
 denuclearizes
 discustom
-douse
 dallis
 dalmanites
 discocarpous
@@ -9463,6 +9462,7 @@ diether
 disenroll
 digamy
 diazoamino
+douse
 deterges
 deborah
 disobeyal
