@@ -2058,7 +2058,6 @@ azobenzol
 arabinose
 achinese
 amortissement
-anemic
 arborized
 aefald
 achiness
@@ -12756,6 +12755,7 @@ ascitb
 angoras
 angostura
 adosculation
+anemic
 angouleme
 appanages
 angraecum
