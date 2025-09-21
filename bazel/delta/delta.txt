@@ -2098,6 +2098,7 @@ defaced
 dasht
 datchas
 disproportionally
+decompresses
 decal
 dilatory
 drupes
@@ -2649,7 +2650,6 @@ dogwatches
 decompoundable
 decompoundly
 decompress
-decompresses
 depravers
 demiplacate
 decompressive
