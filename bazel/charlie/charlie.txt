@@ -1225,7 +1225,6 @@ cinquecentism
 calendas
 cribble
 celliferous
-calender
 compromissorial
 calendered
 calenderer
@@ -4835,6 +4834,7 @@ chars
 crucilly
 comicocynical
 carriages
+calender
 carriagesmith
 cinchonicin
 confirmer

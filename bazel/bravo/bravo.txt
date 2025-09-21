@@ -7269,7 +7269,6 @@ balaenoptera
 bocklogged
 bullidae
 barracan
-baculere
 beethoven
 becumber
 brasilia
@@ -13324,6 +13323,7 @@ botanica
 boweryish
 bandoleered
 bronchotomy
+baculere
 bacteriologically
 bazaar
 bhavan
