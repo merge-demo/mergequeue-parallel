@@ -5522,7 +5522,6 @@ agallochs
 arborolater
 afunction
 agalma
-antipeptone
 arctically
 angulatosinuous
 adiposes
@@ -23554,6 +23553,7 @@ apios
 anciens
 amphisile
 automen
+antipeptone
 auriculotemporal
 auriferous
 axlike
