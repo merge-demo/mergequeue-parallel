@@ -8709,7 +8709,6 @@ blightbird
 beagling
 behests
 basileis
-barycentre
 bibacity
 birchen
 brinston
@@ -17529,6 +17528,7 @@ blore
 bugle
 burgau
 bullyragging
+barycentre
 braconidae
 benzidins
 brandon
