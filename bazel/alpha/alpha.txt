@@ -4107,7 +4107,6 @@ aetosaur
 adposition
 armorer
 alchornea
-altoist
 adrad
 addedly
 astronautics
@@ -24475,6 +24474,7 @@ auxiliary
 arsacid
 aglobulia
 armsize
+altoist
 abhor
 aerophile
 auxiliaries
