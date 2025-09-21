@@ -3371,6 +3371,7 @@ drawler
 diffractive
 dumbwaiters
 deliberandum
+daises
 deuteroalbumose
 doddy
 dyscratic
@@ -17776,7 +17777,6 @@ ducdame
 defector
 dartboard
 donnick
-daises
 demiglobe
 dextrorotatory
 diagraph

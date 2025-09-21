@@ -4830,7 +4830,6 @@ bamboozle
 belaud
 bolderian
 bitumen
-biguttate
 backspace
 burrowstown
 beef
@@ -7265,6 +7264,7 @@ bethesda
 babirussa
 bethink
 boatswain
+biguttate
 balaenoptera
 bocklogged
 bullidae
