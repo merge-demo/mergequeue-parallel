@@ -11308,7 +11308,6 @@ chloroethene
 charting
 chlorofluorocarbon
 chlorofluoromethane
-ceylanite
 chloroformate
 capillarectasia
 chloroformic
@@ -23569,6 +23568,7 @@ constatations
 cumulose
 colombin
 contextive
+ceylanite
 contex
 context
 cherubimical
