@@ -2872,6 +2872,7 @@ brushland
 barraging
 boydekyn
 boobery
+banners
 beele
 battologist
 braca
@@ -6015,7 +6016,6 @@ becowarded
 benasty
 beholdable
 bedrift
-banners
 bataan
 boarskin
 binauricular
