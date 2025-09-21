@@ -5071,7 +5071,6 @@ acreages
 affectionateness
 affections
 affective
-advocacies
 autrefois
 affectivity
 affector
@@ -5811,6 +5810,7 @@ aghas
 aghori
 allottee
 autoantibody
+advocacies
 atropine
 anfeeld
 alcyonoid
