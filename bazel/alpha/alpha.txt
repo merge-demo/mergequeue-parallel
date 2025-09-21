@@ -8405,7 +8405,6 @@ alkylidene
 aborts
 aigrettes
 aphthae
-agastache
 aerograms
 apocryphally
 austrian
@@ -20125,6 +20124,7 @@ amoles
 alphabetise
 arrears
 arrendation
+agastache
 alleyite
 admonitory
 argentometric
