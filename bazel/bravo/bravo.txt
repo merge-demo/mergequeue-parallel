@@ -15129,6 +15129,7 @@ besmooth
 bedcase
 breastplough
 blunted
+butanoic
 brevets
 bactericidin
 brushman
@@ -18064,7 +18065,6 @@ beetfly
 beshout
 berthierite
 blazing
-butanoic
 bibliolatrous
 butanol
 bibliopegistical
