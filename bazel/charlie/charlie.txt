@@ -18979,6 +18979,7 @@ cataplasis
 capelin
 collaborating
 counterpressure
+consultable
 computerese
 collaborationists
 collaborative
@@ -23335,7 +23336,6 @@ consulta
 coarct
 captors
 carminate
-consultable
 crevalle
 carbora
 commote

@@ -6770,7 +6770,6 @@ anticyclone
 acetaldehydrase
 archegoniophore
 aissor
-aitch
 amazement
 aberrator
 aitchpiece
@@ -12155,6 +12154,7 @@ apophysial
 abruptly
 andirin
 andirine
+aitch
 aeromantic
 anopisthograph
 assassinate
