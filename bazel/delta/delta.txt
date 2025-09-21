@@ -3522,6 +3522,7 @@ displants
 dermatotome
 drawbeam
 defuze
+donec
 dolman
 dakoities
 dissociative
@@ -15838,7 +15839,6 @@ delays
 doggedly
 dogshore
 demeter
-donec
 daylilies
 deperm
 decries

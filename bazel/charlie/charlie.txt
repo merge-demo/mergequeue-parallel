@@ -3304,7 +3304,6 @@ coughweed
 capoc
 capoche
 crouche
-chrysomelidae
 chitlins
 chelates
 caponata
@@ -28662,6 +28661,7 @@ counterirritant
 copeck
 cryochore
 crenelles
+chrysomelidae
 crenels
 chromidiogamy
 crenic
