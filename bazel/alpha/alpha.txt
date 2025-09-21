@@ -4776,7 +4776,6 @@ aerogenes
 airplaning
 alomancy
 anticommercialness
-adenomatous
 acalephs
 aerogeologist
 aerogramme
@@ -7691,6 +7690,7 @@ arbors
 acyloins
 angiospermae
 amphibiological
+adenomatous
 alectoropodous
 apse
 alectryomachy
