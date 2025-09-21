@@ -2455,7 +2455,6 @@ decyne
 drydenian
 doughs
 dey
-dand
 diversifier
 decipherably
 deciphered
@@ -3824,6 +3823,7 @@ doveling
 diatropic
 dyspnoea
 degraduation
+dand
 decastyle
 dephlegm
 diomedeidae
