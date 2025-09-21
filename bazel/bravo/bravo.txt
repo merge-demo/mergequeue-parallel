@@ -9729,7 +9729,6 @@ brights
 brushers
 blateness
 bewitching
-bookish
 blockers
 bosses
 bistriate
@@ -18411,5 +18410,6 @@ bagwash
 bushelman
 buttonweed
 bxs
+bookish
 bourgeoise
 bewest
