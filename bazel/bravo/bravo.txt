@@ -16,7 +16,6 @@ beringite
 babasu
 bionergy
 balancement
-babbitted
 beneceptive
 bespeech
 baccies
@@ -15669,6 +15668,7 @@ bedman
 basicities
 brionine
 brodiaea
+babbitted
 brod
 benchwarmer
 bractlet
