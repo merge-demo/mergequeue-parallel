@@ -7591,6 +7591,7 @@ blowtorches
 bewry
 barranca
 balanidae
+barres
 brasilins
 bilabiate
 bezan
@@ -14742,7 +14743,6 @@ bargh
 biopoiesis
 brazens
 brazers
-barres
 ballooner
 bradypepsia
 buboes
