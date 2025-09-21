@@ -4398,6 +4398,7 @@ demarcations
 demarcatordemarcators
 disks
 demarchy
+djerib
 dowse
 divelling
 dispersedness
@@ -14720,7 +14721,6 @@ deferens
 djellabah
 dampest
 detectaphone
-djerib
 demonolatrous
 djersa
 directoral
