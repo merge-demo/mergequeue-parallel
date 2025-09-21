@@ -4053,7 +4053,6 @@ bedeafen
 brooked
 beancod
 bater
-beanery
 beanfeast
 besqueeze
 bachelry
@@ -5046,6 +5045,7 @@ beverage
 befilmed
 banqueter
 befire
+beanery
 burgherdom
 benzein
 bebopper

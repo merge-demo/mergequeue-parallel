@@ -3730,7 +3730,6 @@ captress
 cambibia
 ciconia
 carbazic
-chlorpikrin
 civilist
 carbazole
 carbeen
@@ -21537,6 +21536,7 @@ crowfoot
 congius
 coigned
 chilostomata
+chlorpikrin
 counterfeiting
 carpalia
 counterplotting
