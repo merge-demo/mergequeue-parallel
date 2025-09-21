@@ -6729,6 +6729,7 @@ berthed
 birdeye
 buprestidan
 bradylalia
+bystander
 bertie
 bemaddens
 bertolonia
@@ -15365,7 +15366,6 @@ babyish
 buccinum
 bereaved
 batonnier
-bystander
 brimly
 bifollicular
 beardtongue
