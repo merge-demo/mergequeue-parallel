@@ -1199,7 +1199,6 @@ acanthopodous
 aqueously
 acanthopomatous
 anesthesimeter
-acanthopterygian
 archbeacon
 acanthopterygii
 acanthoses
@@ -24634,6 +24633,7 @@ arterious
 annuli
 acinetarian
 aphlogistic
+acanthopterygian
 administration
 anopheline
 admove
