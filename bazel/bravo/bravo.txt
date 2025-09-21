@@ -3725,7 +3725,6 @@ batlan
 bukshi
 battologising
 battologize
-bronchiocele
 bookmaking
 britska
 blowpipe
@@ -4152,6 +4151,7 @@ brinsell
 beastlily
 beclown
 barrow
+bronchiocele
 bradypus
 beastling
 bited
