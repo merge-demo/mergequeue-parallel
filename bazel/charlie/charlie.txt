@@ -5794,7 +5794,6 @@ communicants
 cestoidean
 crawling
 cross
-chateau
 catel
 catelectrode
 clothesless
@@ -21536,6 +21535,7 @@ concoctive
 crowfoot
 congius
 coigned
+chateau
 chilostomata
 counterfeiting
 carpalia
