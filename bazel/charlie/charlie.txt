@@ -2827,7 +2827,6 @@ canonicalization
 compte
 catheterising
 cinctures
-canonicalized
 canonicalizes
 cremor
 cadesse
@@ -12003,6 +12002,7 @@ chiefdom
 chorioidocyclitis
 coffeewood
 chorioidoiritis
+canonicalized
 cashews
 catcalling
 choriomata
