@@ -3004,7 +3004,6 @@ berrugate
 bedumb
 bluewing
 bakeshops
-blasphemer
 backhatch
 becowarding
 brains
@@ -6762,6 +6761,7 @@ bitulithic
 binny
 brachiofacial
 besagne
+blasphemer
 bastille
 bisexually
 bishopless
