@@ -4403,7 +4403,6 @@ bendlet
 bludging
 bafta
 bretonian
-bilabials
 bibliotist
 bonasus
 becalming
@@ -9685,6 +9684,7 @@ blaffert
 buggering
 bakie
 brainache
+bilabials
 bagful
 brainwashed
 bacilliparous
