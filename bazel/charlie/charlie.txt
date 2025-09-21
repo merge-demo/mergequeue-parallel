@@ -12039,7 +12039,6 @@ catalanist
 cordleaf
 chorizont
 chorizontal
-comprehensible
 chaitya
 chorizos
 cribrately
@@ -17484,6 +17483,7 @@ circumaviation
 cobaltine
 counterclassification
 calimancos
+comprehensible
 cobalts
 carbineers
 chokeable
