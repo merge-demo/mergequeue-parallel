@@ -8439,7 +8439,6 @@ blighted
 bilection
 bavardage
 bogeyman
-bilgeway
 bilharzial
 basque
 beglerbey
@@ -12769,6 +12768,7 @@ broods
 bawly
 biyearly
 booksellerism
+bilgeway
 banderilleros
 bookselling
 bescreened

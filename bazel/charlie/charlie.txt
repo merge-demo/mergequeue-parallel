@@ -2768,7 +2768,6 @@ cannings
 cine
 cannister
 cannoli
-cypraeid
 cannonaded
 celioschisis
 cannonading
@@ -13717,6 +13716,7 @@ curarizing
 countercharging
 cigarillos
 contusing
+cypraeid
 counterthwarting
 cinchonaceae
 caules
