@@ -3957,7 +3957,6 @@ carcinoid
 compartmental
 crystalloluminescence
 carcinoma
-counterannouncement
 carbocyclic
 curtesy
 croisette
@@ -14575,6 +14574,7 @@ cystalgia
 commatism
 cysteamine
 cystectasia
+counterannouncement
 contestate
 campout
 credently
