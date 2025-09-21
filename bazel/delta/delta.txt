@@ -1174,6 +1174,7 @@ desoxalic
 dasypod
 da
 demonstrative
+deafened
 digitogenin
 demurrer
 diparentum
@@ -1609,7 +1610,6 @@ distrouble
 decimate
 decarburization
 destuffing
-deafened
 dummered
 dawe
 dismasted
