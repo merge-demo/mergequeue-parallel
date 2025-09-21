@@ -5882,6 +5882,7 @@ belauding
 baseman
 bejant
 belter
+bedivere
 baccillla
 bogway
 billet
@@ -9895,7 +9896,6 @@ bituminate
 bescoured
 bituminising
 burnbeat
-bedivere
 bedrivelling
 bere
 buro
