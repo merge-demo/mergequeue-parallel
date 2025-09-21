@@ -3657,6 +3657,7 @@ arcato
 adiel
 alcosol
 aclastic
+antherozoid
 aprowl
 argufier
 asseveration
@@ -14125,7 +14126,6 @@ antheraea
 antherogenous
 ammiolite
 angiotensin
-antherozoid
 antherozooidal
 antheses
 aquosity
