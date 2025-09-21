@@ -6473,7 +6473,6 @@ decalcomanias
 declericalize
 delignated
 discrepating
-descant
 diversional
 disencumber
 descanted
@@ -14636,6 +14635,7 @@ depths
 diemakers
 dicyandiamide
 divisions
+descant
 doorplate
 deconsecration
 dietarily
