@@ -11351,7 +11351,6 @@ capman
 chloromycetin
 coregonid
 counteractions
-curbed
 chloronitrate
 colonizer
 chloropalladates
@@ -11490,6 +11489,7 @@ caryatides
 cableway
 choil
 chymistry
+curbed
 choiler
 chicquing
 choired

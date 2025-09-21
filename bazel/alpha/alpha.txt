@@ -2894,7 +2894,6 @@ assamar
 antiextreme
 asbolin
 actinoids
-appriser
 alleviator
 aciculum
 antiphon
@@ -6242,6 +6241,7 @@ apneas
 aphodus
 angiotenosis
 agua
+appriser
 aguacateca
 auctioning
 aguavina
