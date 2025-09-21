@@ -4538,7 +4538,6 @@ bundeli
 beribbon
 borborus
 boarding
-bedaubing
 bridgeport
 belial
 beats
@@ -12536,6 +12535,7 @@ bibacious
 boni
 bony
 burtonize
+bedaubing
 bowlegged
 bigeminy
 bloodshot
