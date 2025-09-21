@@ -11695,7 +11695,6 @@ disjoin
 diagramed
 dermatographia
 discountenances
-distastes
 dendrolite
 denize
 disjointing
@@ -18188,6 +18187,7 @@ discreetest
 depositaries
 dumpoke
 deltohedra
+distastes
 dumps
 dumsola
 disdiaclastic
