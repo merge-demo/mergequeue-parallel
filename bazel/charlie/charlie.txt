@@ -4281,6 +4281,7 @@ contorted
 cary
 cleanout
 caryatid
+corroborate
 cigaresque
 caryatids
 conserving
@@ -16861,7 +16862,6 @@ cataclysms
 clubable
 charleston
 caprifoliaceous
-corroborate
 calciphylactically
 clofibrate
 chokey
