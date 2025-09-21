@@ -3865,7 +3865,6 @@ delighted
 dejection
 dumplings
 devested
-detick
 dejeration
 dejeuner
 dekagramme
@@ -5866,6 +5865,7 @@ docetic
 dragonfly
 deadtongue
 dataries
+detick
 degassed
 dags
 dyophysitical
