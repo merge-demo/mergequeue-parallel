@@ -3137,7 +3137,6 @@ anthropomorphist
 ancona
 autophotograph
 aldolases
-apx
 anacamptically
 adactylous
 automatograph
@@ -11884,6 +11883,7 @@ autocratical
 abduced
 admiral
 androeccia
+apx
 assentation
 anastasia
 autodestruction
