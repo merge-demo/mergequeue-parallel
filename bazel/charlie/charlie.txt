@@ -4443,7 +4443,6 @@ curie
 capitatim
 carloading
 combatants
-carlock
 carlos
 cannaled
 circumference
@@ -13085,6 +13084,7 @@ cyathiform
 culsdesac
 connivent
 cyathophyllum
+carlock
 cyathos
 cyathus
 covenantally
