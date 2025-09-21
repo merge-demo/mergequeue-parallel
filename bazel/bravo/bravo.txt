@@ -9660,7 +9660,6 @@ bluey
 barleduc
 brichette
 beefheaded
-bioflavonoid
 biophysiography
 brandisher
 breakages
@@ -10969,6 +10968,7 @@ bellhop
 byerlite
 batement
 balustered
+bioflavonoid
 bedways
 backlasher
 batel
