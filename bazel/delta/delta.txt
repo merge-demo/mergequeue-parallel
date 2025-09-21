@@ -1263,7 +1263,6 @@ doat
 dating
 datisca
 disaffirmative
-dihydroergotamine
 deoxidant
 dothienenteritis
 diarrheal
@@ -12784,6 +12783,7 @@ doily
 disloyal
 deliverance
 dronepipe
+dihydroergotamine
 dotardly
 drawfiling
 donative
