@@ -5892,7 +5892,6 @@ catharist
 catharistic
 catharization
 crumbcloth
-catharize
 condurangin
 chenilles
 coppernosed
@@ -28748,6 +28747,7 @@ crystallograph
 clocked
 chochos
 compensate
+catharize
 crescentiform
 chinking
 carpetmaker
