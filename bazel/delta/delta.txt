@@ -6594,6 +6594,7 @@ dactylics
 disordination
 decorums
 deuteroglobulose
+diazonium
 dephlegmated
 desegregated
 dictyota
@@ -15433,7 +15434,6 @@ domains
 daedalian
 dativogerundial
 deathcup
-diazonium
 dissimilatory
 decarboxylate
 devoutlessly
