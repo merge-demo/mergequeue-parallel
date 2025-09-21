@@ -8991,7 +8991,6 @@ besmuts
 bion
 beguard
 byon
-bilimbi
 brasqued
 bionditional
 backswordman
@@ -12933,6 +12932,7 @@ boothes
 biforate
 baseball
 bearfoot
+bilimbi
 bialy
 bootlessly
 balao
