@@ -3901,7 +3901,6 @@ beltian
 binode
 bigotedness
 bassly
-burn
 bedspreads
 beliquor
 balaniferous
@@ -7491,6 +7490,7 @@ beloam
 befringes
 begirding
 beweary
+burn
 bumblefoot
 botflies
 brainworker
