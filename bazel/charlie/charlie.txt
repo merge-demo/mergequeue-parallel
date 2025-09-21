@@ -12835,6 +12835,7 @@ chunks
 chunner
 chuntered
 chrysotherapy
+cordyceps
 chupatty
 cucumaria
 crases
@@ -24996,7 +24997,6 @@ crimini
 cnibophore
 cordycepin
 cordiceps
-cordyceps
 communicator
 cordicole
 cordilleran
