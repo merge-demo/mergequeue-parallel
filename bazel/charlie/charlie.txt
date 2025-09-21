@@ -10383,7 +10383,6 @@ circumrotation
 chawle
 cowwheat
 chicquer
-chicquest
 cooperite
 cystinuria
 chics
@@ -31197,6 +31196,7 @@ coaxation
 clarendon
 charlatan
 cryolite
+chicquest
 cytherella
 contradictional
 cuproiodargyrite
