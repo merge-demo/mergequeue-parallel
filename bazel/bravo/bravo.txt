@@ -2494,6 +2494,7 @@ borscht
 bontee
 beruffled
 barghests
+bismuthite
 boccia
 bunkie
 begrease
@@ -7841,7 +7842,6 @@ beauclerc
 bifold
 bonaught
 bibliologies
-bismuthite
 buoyancies
 bepommel
 bewhiten
