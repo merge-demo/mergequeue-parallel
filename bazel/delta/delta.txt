@@ -2768,6 +2768,7 @@ decremeter
 demarches
 duodecahedral
 drowsier
+derivative
 disintegrative
 dint
 diurnals
@@ -6871,7 +6872,6 @@ drevel
 dicotylidae
 deltic
 domesticative
-derivative
 desmopexia
 diaphanometry
 deheathenize
