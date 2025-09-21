@@ -3242,7 +3242,6 @@ capitasti
 cokers
 capitated
 cputime
-capitation
 casimere
 capitations
 cyclotomy
@@ -18266,6 +18265,7 @@ cryochoric
 coexecutor
 collectiveness
 coexerted
+capitation
 cheeked
 coexerting
 clomps
