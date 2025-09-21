@@ -6944,7 +6944,6 @@ arthresthesia
 androides
 akkadist
 aftershock
-avowal
 arthroderm
 aswing
 amidic
@@ -16274,6 +16273,7 @@ antlia
 accroached
 antlid
 archerfish
+avowal
 antre
 antling
 airdates
