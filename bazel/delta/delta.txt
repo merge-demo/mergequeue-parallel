@@ -2703,7 +2703,6 @@ discounsel
 diplopterous
 dassy
 diplodus
-domoid
 deductibility
 decoration
 disjune
@@ -16388,6 +16387,7 @@ downshore
 delineates
 desirelessness
 dephlegmatize
+domoid
 dibbler
 disunite
 disacknowledge
