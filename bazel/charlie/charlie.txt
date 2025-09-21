@@ -12569,7 +12569,6 @@ cajeputol
 collochemistry
 chromoxylograph
 chron
-caplets
 concurrences
 concubitus
 chronaxie
@@ -28192,6 +28191,7 @@ chantefable
 crantara
 consolation
 crants
+caplets
 cardiopathy
 crapehanger
 crapette
