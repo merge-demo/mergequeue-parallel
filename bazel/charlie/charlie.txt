@@ -11370,7 +11370,6 @@ cressweed
 cotemporary
 chlorophyllase
 chlorophyllian
-chlorophyllide
 choliamb
 catastrophical
 consence
@@ -13556,6 +13555,7 @@ cymagraph
 cimaise
 coendure
 centare
+chlorophyllide
 cafe
 caribous
 colament
