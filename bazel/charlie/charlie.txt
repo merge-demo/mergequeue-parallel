@@ -4906,7 +4906,6 @@ cowherbs
 carte
 curtalax
 cartel
-chondriosomes
 cesarean
 cakemaker
 circumambages
@@ -9898,6 +9897,7 @@ curiological
 chemokinesis
 chemolysis
 cicero
+chondriosomes
 chemolyze
 conquinamine
 carded

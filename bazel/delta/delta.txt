@@ -307,7 +307,6 @@ dispel
 dorsoposteriad
 dodoism
 dingies
-dolmenic
 daybooks
 dereistic
 dahabieh
@@ -3064,6 +3063,7 @@ doleful
 digraphs
 depleting
 defalcating
+dolmenic
 defalcation
 defalk
 defamation
