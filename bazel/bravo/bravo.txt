@@ -5267,7 +5267,6 @@ broadband
 boltonia
 biscuitmaker
 bezzants
-bootjacks
 brachiocubital
 bugbite
 beginning
@@ -7035,6 +7034,7 @@ benzoyls
 bespectacled
 beefless
 besped
+bootjacks
 becalmed
 bawdiness
 bacterioscopically
