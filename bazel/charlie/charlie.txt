@@ -9151,6 +9151,7 @@ charters
 cryptograms
 cindered
 caricatured
+captance
 chartographic
 crystalline
 crossfall
@@ -22688,7 +22689,6 @@ connive
 concertanti
 clinker
 connived
-captance
 caliper
 connivingly
 camerina
