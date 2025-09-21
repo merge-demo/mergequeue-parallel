@@ -17311,6 +17311,7 @@ cleans
 crumple
 closecross
 coalizer
+camerina
 coalless
 counterdrain
 cryptograph
@@ -22691,7 +22692,6 @@ connived
 captance
 caliper
 connivingly
-camerina
 connochaetes
 counterpleading
 chaenactis
