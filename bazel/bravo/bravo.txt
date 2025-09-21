@@ -3553,7 +3553,6 @@ bathylithic
 bodybuilders
 bevel
 bathymetrical
-bathing
 bastinadoes
 bathyplankton
 bairnteam
@@ -4932,6 +4931,7 @@ beermaker
 beermaking
 beermonger
 blackland
+bathing
 blends
 bumpoff
 beefers
