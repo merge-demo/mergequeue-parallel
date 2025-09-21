@@ -2473,7 +2473,6 @@ barrera
 bricky
 bultow
 blurriest
-bandelet
 barfish
 billbugs
 bathyhyperesthesia
@@ -17237,6 +17236,7 @@ bun
 bathochromatism
 benzotrifluoride
 bonduc
+bandelet
 buddling
 boutel
 bipolarize
