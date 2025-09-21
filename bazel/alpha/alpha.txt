@@ -1098,7 +1098,6 @@ aphanomyces
 asymptotic
 abutilon
 abutment
-architraves
 agenizing
 alice
 articulant
@@ -16251,6 +16250,7 @@ antiwarlike
 arghel
 antiwaste
 ameerate
+architraves
 adscription
 ameiurus
 avanti

@@ -1135,7 +1135,6 @@ cosing
 confabular
 calculatedly
 contango
-calculatedness
 congeners
 calculatingly
 cony
@@ -16839,6 +16838,7 @@ calchaqui
 carding
 criophoros
 clover
+calculatedness
 clovered
 cloverlay
 citizen
