@@ -7259,7 +7259,6 @@ detected
 disenchantingly
 direful
 dominations
-detecter
 discarding
 decentralist
 duffels
@@ -13763,6 +13762,7 @@ dissuaded
 delayed
 debunk
 disdodecahedroid
+detecter
 dissuades
 devitalized
 dehorning
