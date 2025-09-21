@@ -25297,7 +25297,6 @@ calapite
 cornea
 corneas
 chest
-cheddaring
 conject
 cappelenite
 cornein
@@ -26553,6 +26552,7 @@ cornbird
 cystectomies
 coulombmeter
 coulombs
+cheddaring
 coulterneb
 circumscription
 coulthard
