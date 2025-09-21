@@ -2846,6 +2846,7 @@ canonising
 canonized
 carboxyhemoglobin
 cetorhinoid
+catagenetic
 canonizer
 canonizes
 canonizing
@@ -5521,7 +5522,6 @@ catadrome
 catadupe
 catafalco
 civilisation
-catagenetic
 catakinetic
 catakinomeric
 catalatic

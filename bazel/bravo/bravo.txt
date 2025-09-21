@@ -3776,7 +3776,6 @@ brattish
 bootleg
 boloing
 bauch
-bondoc
 balancer
 bauckie
 balancedness
@@ -7238,6 +7237,7 @@ betel
 buttwood
 baseboards
 biolinguistics
+bondoc
 bali
 betelgeuse
 bioclimatologist
