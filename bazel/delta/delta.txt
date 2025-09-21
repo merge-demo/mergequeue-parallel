@@ -3867,7 +3867,6 @@ devon
 dielec
 damenization
 decussatively
-delighted
 dejection
 dumplings
 devested
@@ -17237,6 +17236,7 @@ drillman
 deputizing
 discourser
 drylots
+delighted
 dynamists
 drilvis
 dryness
