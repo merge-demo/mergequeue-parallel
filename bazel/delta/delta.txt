@@ -4852,7 +4852,6 @@ dismembrate
 distemperedness
 diathermance
 diffusively
-demolish
 demolishing
 daily
 discharge
@@ -13864,6 +13863,7 @@ dolichocephali
 deles
 demolitionist
 descenders
+demolish
 distending
 dermatopathophobia
 drowns

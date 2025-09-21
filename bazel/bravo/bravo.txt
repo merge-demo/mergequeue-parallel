@@ -4018,6 +4018,7 @@ barms
 beaks
 beala
 burglarproofing
+beglerbey
 buchu
 butled
 beambird
@@ -8442,7 +8443,6 @@ bogeyman
 bilgeway
 bilharzial
 basque
-beglerbey
 boiled
 bilianic
 boreism
