@@ -8012,7 +8012,6 @@ chabuk
 chac
 complainable
 chimin
-crush
 chaccon
 clout
 chachalakas
@@ -11775,6 +11774,7 @@ cognation
 chondrogenesis
 counterstroke
 copiously
+crush
 chondroglossal
 chondrography
 cytomegalic
