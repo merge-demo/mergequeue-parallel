@@ -10580,7 +10580,6 @@ cyclanthaceous
 chilla
 chillagite
 carcass
-cerebric
 contort
 conter
 carports
@@ -31031,6 +31030,7 @@ classes
 cuminseed
 cryoplankton
 chry
+cerebric
 cotyttia
 cummer
 cummerbund
