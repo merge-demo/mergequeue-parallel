@@ -7508,7 +7508,6 @@ bloodripe
 begiggle
 barnacle
 bleater
-burele
 brakeages
 battleground
 burrito
@@ -12534,6 +12533,7 @@ bloodshot
 balsamroot
 bourgeoning
 boniface
+burele
 birding
 burstwort
 bolshevik
