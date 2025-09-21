@@ -2636,7 +2636,6 @@ cutleress
 cobbers
 chimp
 calid
-canework
 chuckling
 compliably
 chapah
@@ -17716,6 +17715,7 @@ cruiser
 cocin
 colluders
 cocinera
+canework
 copesmate
 cocircular
 cycadeoid
