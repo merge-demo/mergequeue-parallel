@@ -4463,7 +4463,6 @@ ascomycetal
 aviary
 advowsons
 affectionless
-advt
 aurigal
 adward
 apogamy
@@ -15555,6 +15554,7 @@ ailuridae
 arylamine
 ablet
 ampullaria
+advt
 andian
 antheridiophore
 antiparliament
