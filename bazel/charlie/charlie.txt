@@ -602,7 +602,6 @@ chiropod
 caecotomy
 constrictors
 caedmonian
-cresson
 caenogenetic
 crimpers
 caenostyly
@@ -2003,6 +2002,7 @@ cruelize
 camoudie
 camouflage
 camouflageable
+cresson
 crossgrainedness
 chirimoya
 contradictorily
