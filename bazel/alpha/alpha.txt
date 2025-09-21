@@ -8410,6 +8410,7 @@ aerograms
 apocryphally
 austrian
 alkin
+argus
 avarish
 acatallactic
 aerosol
@@ -10152,7 +10153,6 @@ archaeologists
 acop
 agricolite
 amelanchier
-argus
 ameland
 amelcorn
 alchemister
