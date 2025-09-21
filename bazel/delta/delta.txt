@@ -3486,7 +3486,6 @@ desmomyaria
 dufoil
 drapery
 drowsiest
-defreeze
 defrocked
 dollishly
 dubbed
@@ -6847,6 +6846,7 @@ desmine
 degenerates
 dextrocardial
 diarrhoetic
+defreeze
 diffidence
 diegesis
 dimyaric
