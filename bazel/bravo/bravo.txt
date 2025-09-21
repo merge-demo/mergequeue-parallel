@@ -4901,7 +4901,6 @@ bosher
 bassos
 barbecue
 beelzebul
-beennut
 beent
 bradyphemia
 bonework
@@ -8082,6 +8081,7 @@ beseam
 bkbndr
 belcher
 baloneys
+beennut
 biddability
 biddably
 benedict
