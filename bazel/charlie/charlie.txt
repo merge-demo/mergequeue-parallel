@@ -16183,6 +16183,7 @@ cerenkov
 cestidae
 compresbyter
 climatographical
+cassoon
 climatological
 choryos
 climatometer
@@ -26841,7 +26842,6 @@ coccagee
 culpae
 chinenses
 countergauge
-cassoon
 countergirded
 counterguard
 counterguerilla
