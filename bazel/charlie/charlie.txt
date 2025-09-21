@@ -907,7 +907,6 @@ chalone
 consecration
 caking
 collagist
-chazzanut
 cakravartin
 cal
 calaba
@@ -11924,6 +11923,7 @@ contradictive
 chording
 chorditis
 circumferentor
+chazzanut
 cecidomyian
 cableless
 carpolith
