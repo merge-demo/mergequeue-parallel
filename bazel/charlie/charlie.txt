@@ -9794,6 +9794,7 @@ casule
 chelidonine
 carefox
 chelidonium
+cryptographic
 citolas
 chrysidella
 chelydre
@@ -13500,7 +13501,6 @@ ciliiform
 cylinder
 cylindrella
 cylindrelloid
-cryptographic
 cylindrenchyma
 cylindricity
 citrinous
