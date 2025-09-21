@@ -5670,7 +5670,6 @@ blemishing
 belies
 believability
 believer
-barring
 beamful
 basilical
 bureaucratese
@@ -10133,6 +10132,7 @@ bas
 birrettas
 bloodfins
 belonger
+barring
 bummle
 birdnester
 bsf
