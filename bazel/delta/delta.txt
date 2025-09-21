@@ -5431,6 +5431,7 @@ discrownment
 dottel
 detd
 dauk
+dryable
 disprover
 divagational
 detachable
@@ -14786,7 +14787,6 @@ demirep
 dictatorships
 dedolomitize
 diluvion
-dryable
 dyeware
 dermostosis
 dobbies
