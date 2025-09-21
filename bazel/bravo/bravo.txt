@@ -895,7 +895,6 @@ bagios
 bandogs
 bedrenching
 boasts
-babishness
 blundering
 bagnes
 bastnaesite
@@ -15428,6 +15427,7 @@ bromidic
 bionts
 brinksmanship
 bassorin
+babishness
 beardlike
 bullseye
 bracteal
