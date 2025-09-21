@@ -2845,6 +2845,7 @@ dys
 denticles
 dictyopteris
 decumbent
+definitional
 disfurnishment
 dugdug
 danais
@@ -5837,7 +5838,6 @@ dramatic
 disentrancing
 diamido
 dowel
-definitional
 dressings
 daeva
 dibbers

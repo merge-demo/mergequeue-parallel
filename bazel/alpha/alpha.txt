@@ -2691,6 +2691,7 @@ acrogamous
 acrogen
 aspirated
 ashthroat
+autoboat
 azures
 avoiding
 aminobenzine
@@ -23852,7 +23853,6 @@ autobiographers
 autobiography
 antitypy
 autobiology
-autoboat
 autoboating
 autobuses
 anglo
