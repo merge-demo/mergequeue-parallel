@@ -20297,6 +20297,7 @@ crassula
 chalcolite
 chicagoans
 copaiba
+compoundedness
 charivan
 commodiously
 chessboards
@@ -20956,7 +20957,6 @@ colicine
 carbonyls
 cirrocumulative
 considerative
-compoundedness
 compounder
 crumbliness
 comprachico
