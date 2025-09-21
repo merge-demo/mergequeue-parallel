@@ -11269,7 +11269,6 @@ canreply
 chloritic
 caterers
 carlie
-continuities
 chloritization
 culicid
 chlorize
@@ -17098,6 +17097,7 @@ coachfellow
 cataloon
 coachy
 coaching
+continuities
 clansmen
 coachmaker
 coachmaster
