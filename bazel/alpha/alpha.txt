@@ -11821,7 +11821,6 @@ anaptychus
 anaptyctic
 anaptotic
 anaesthetized
-allothigenetically
 auberges
 acanthosis
 aucan
@@ -21546,6 +21545,7 @@ alqueire
 anthill
 assayers
 assaying
+allothigenetically
 atoxyl
 amatorial
 antiexporting
