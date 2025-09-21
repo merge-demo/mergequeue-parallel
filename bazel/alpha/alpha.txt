@@ -4124,7 +4124,6 @@ appoint
 azophosphore
 adrenalcortical
 arillodium
-archesporium
 adrenalectomize
 apparent
 aumous
@@ -12546,6 +12545,7 @@ antimedicative
 angeluses
 agonizer
 anger
+archesporium
 angered
 alvan
 alkalinizing
