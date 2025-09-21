@@ -3596,7 +3596,6 @@ caracoa
 cumanagoto
 curtaxe
 caracol
-coauthoring
 curliest
 crustate
 caracolled
@@ -18864,6 +18863,7 @@ cryptal
 colectomies
 cacogenics
 cyesiology
+coauthoring
 coalfish
 carmanians
 consumptivity

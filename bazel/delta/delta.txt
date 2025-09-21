@@ -3026,7 +3026,6 @@ deemphasize
 diester
 dreadnoughts
 downward
-diuretic
 deewan
 decorement
 dispersonification
@@ -4952,6 +4951,7 @@ dynastic
 denned
 duel
 demonstrations
+diuretic
 dysbarism
 doctrinary
 demonstratory
