@@ -1763,6 +1763,7 @@ digamous
 diphyllobothrium
 droner
 dognap
+dagame
 deathtrap
 devocalization
 drof
@@ -4420,7 +4421,6 @@ deflagrate
 druggeting
 demasculinizing
 disfranchisement
-dagame
 disparkle
 discomposedly
 denaturate
