@@ -1089,7 +1089,6 @@ berkeleian
 busman
 bain
 boho
-bunns
 broadspread
 boogymen
 bainie
@@ -8928,6 +8927,7 @@ binman
 bombproof
 billy
 barberess
+bunns
 biogases
 bruises
 bleachground
