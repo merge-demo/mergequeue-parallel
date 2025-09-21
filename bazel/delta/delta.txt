@@ -174,7 +174,6 @@ desireful
 dressage
 detraque
 doweral
-daedalea
 dears
 drosophilas
 dysoxidizable
@@ -12807,6 +12806,7 @@ deviators
 duplicatus
 derepression
 dysluite
+daedalea
 delicto
 dislustered
 drollish
