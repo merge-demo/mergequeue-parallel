@@ -7105,7 +7105,6 @@ bestiarianism
 bacteriemia
 bernicles
 bierstube
-bestand
 brogues
 bacteriocyte
 bijous
@@ -8506,6 +8505,7 @@ blockhouse
 bumph
 bilking
 boglander
+bestand
 bubs
 bonny
 bateful
