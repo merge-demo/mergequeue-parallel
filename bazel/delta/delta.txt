@@ -16949,6 +16949,7 @@ dataria
 declination
 drona
 dumbs
+drunt
 diatonous
 dreadable
 daftnesses
@@ -17765,7 +17766,6 @@ drownings
 doctorially
 dispelling
 disposer
-drunt
 deinotherium
 ducaton
 damp
