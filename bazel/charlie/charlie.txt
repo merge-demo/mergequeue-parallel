@@ -17901,6 +17901,7 @@ cabook
 codette
 codfish
 childbed
+clarigate
 centers
 codewords
 codfisher
@@ -25751,7 +25752,6 @@ carhouse
 contemp
 corrode
 corrie
-clarigate
 copremic
 corroders
 cneoraceae
