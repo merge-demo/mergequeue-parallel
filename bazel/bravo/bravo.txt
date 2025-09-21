@@ -11819,7 +11819,6 @@ baron
 bluefish
 burdeners
 byrl
-behavioristic
 briony
 bardolphian
 bock
@@ -16460,6 +16459,7 @@ bloated
 blowzier
 baboo
 bemantle
+behavioristic
 borsht
 boringly
 butyrochloral
