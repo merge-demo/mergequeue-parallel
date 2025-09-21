@@ -2175,6 +2175,7 @@ downtime
 decantist
 daza
 decapitation
+dismarble
 dorm
 dwindlement
 decapitations
@@ -13403,7 +13404,6 @@ diarsenide
 deescalate
 disquisitor
 dianoetical
-dismarble
 disform
 dejerate
 dennstaedtia

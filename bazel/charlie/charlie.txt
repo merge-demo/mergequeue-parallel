@@ -21694,6 +21694,7 @@ crownation
 condescensive
 callout
 condescensively
+conformations
 condescensiveness
 clearwater
 celibataire
@@ -22180,7 +22181,6 @@ cataclasmic
 conformationally
 convictiveness
 cres
-conformations
 conformator
 conformed
 conformer
