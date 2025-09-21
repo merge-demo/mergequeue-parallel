@@ -784,6 +784,7 @@ caid
 cadaver
 caids
 cayenne
+curer
 cucurbits
 cycadales
 completes
@@ -31327,7 +31328,6 @@ cornix
 cureless
 corypha
 curelessness
-curer
 coadjument
 curers
 clubber

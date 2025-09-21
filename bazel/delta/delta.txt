@@ -6978,7 +6978,6 @@ disarticulate
 deers
 dikamalli
 dont
-digitron
 dartrous
 dignified
 desuetudes
@@ -16622,6 +16621,7 @@ dictyogen
 diamondbacks
 detergent
 denar
+digitron
 depicted
 disingenuity
 draft
