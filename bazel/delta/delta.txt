@@ -6758,7 +6758,6 @@ decontaminative
 dramming
 desucration
 desilicify
-desilicified
 desiliconization
 dribbed
 doubly
@@ -17170,6 +17169,7 @@ delineavit
 disciplinant
 depersonalization
 dong
+desilicified
 diphtheriaphor
 dingwall
 dashers
