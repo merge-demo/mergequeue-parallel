@@ -4712,7 +4712,6 @@ anacletica
 antidomestic
 angiocardiography
 aerocyst
-armlet
 adoptionism
 arthroclasia
 allomerous
@@ -22284,6 +22283,7 @@ allegorization
 adlegation
 astrometric
 astronavigator
+armlet
 astronomer
 arider
 astronomy
