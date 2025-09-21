@@ -8251,6 +8251,7 @@ cercarias
 chalazoin
 charvet
 chalcanth
+chevres
 chalcedony
 cusconine
 calabrasella
@@ -10173,7 +10174,6 @@ capitalistic
 copurchaser
 copped
 crined
-chevres
 courb
 centuplicated
 chevret
