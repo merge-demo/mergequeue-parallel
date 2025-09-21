@@ -119,6 +119,7 @@ degerm
 dactylotheca
 drudge
 deactivated
+duramens
 dactylozooid
 disponing
 dentolabial
@@ -18514,7 +18515,6 @@ durain
 dementi
 driftlet
 declamator
-duramens
 duffer
 durances
 downcast
