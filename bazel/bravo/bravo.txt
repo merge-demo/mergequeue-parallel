@@ -10406,7 +10406,6 @@ bhoot
 brisement
 beedged
 byrling
-blankish
 blankly
 baidya
 bullfinch
@@ -14034,6 +14033,7 @@ bragging
 berust
 brachycephalization
 browallia
+blankish
 brigandism
 bestudded
 bedravel
