@@ -3387,6 +3387,7 @@ adducts
 attern
 adead
 amniac
+alliant
 asitia
 alguacil
 agnation
@@ -8915,7 +8916,6 @@ alps
 astrictiveness
 abacas
 attached
-alliant
 antimilitaristic
 antemarital
 anthrax
