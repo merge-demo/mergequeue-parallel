@@ -17975,6 +17975,7 @@ channels
 cunye
 coedit
 chemotactically
+chevron
 cowweed
 coediting
 coeditors
@@ -24300,7 +24301,6 @@ creeks
 cowbird
 coseier
 countinghouse
-chevron
 cooboos
 chiogenes
 cysticarpium
