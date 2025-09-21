@@ -936,6 +936,7 @@ berryless
 benzoquinone
 batoneer
 belligerently
+betelnut
 bagsful
 bequirtle
 britannica
@@ -14692,7 +14693,6 @@ bronchophthisis
 bennet
 beanstalks
 brachia
-betelnut
 boughs
 blackmailing
 brazened
