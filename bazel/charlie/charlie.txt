@@ -4798,7 +4798,6 @@ cavalierish
 concaving
 chem
 chaldaei
-convexes
 crosspost
 cressida
 cultigen
@@ -16591,6 +16590,7 @@ cloyment
 coronale
 caffiso
 compensations
+convexes
 cloysome
 counterjudging
 cloisonless
