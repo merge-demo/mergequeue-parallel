@@ -1050,6 +1050,7 @@ bridges
 bogeys
 biogeographic
 beboppers
+brule
 busway
 bustiest
 boyaus
@@ -5425,7 +5426,6 @@ boardmanship
 boatable
 beetling
 behenic
-brule
 beans
 bribeable
 blusteringly
