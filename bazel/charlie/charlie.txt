@@ -2261,7 +2261,6 @@ canakins
 carvist
 canal
 cypseloid
-canalatura
 completer
 cerebbella
 charales
@@ -6361,6 +6360,7 @@ chicaned
 cilantro
 cautery
 cauteries
+canalatura
 cottagers
 cauterisation
 couche
