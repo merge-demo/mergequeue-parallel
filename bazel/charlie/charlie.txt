@@ -8060,7 +8060,6 @@ chaetophoraceous
 chamberletted
 cuvierian
 chaetopod
-cirrated
 carts
 chaetopodan
 chaetopterus
@@ -19881,6 +19880,7 @@ caricography
 combusts
 captained
 combwise
+cirrated
 carpings
 catapulting
 centurion
