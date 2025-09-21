@@ -8672,7 +8672,6 @@ avens
 anfractuousness
 ascoma
 apterygote
-acarida
 alodial
 antisensuously
 allium
@@ -20712,6 +20711,7 @@ abraid
 artophagous
 antiproteolysis
 artotype
+acarida
 antibodies
 asqueal
 alkylates
