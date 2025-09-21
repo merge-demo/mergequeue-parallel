@@ -6029,6 +6029,7 @@ diobols
 delimiting
 disapprove
 dermatonosus
+desulphurated
 disdaining
 drawarm
 depthways
@@ -17328,7 +17329,6 @@ disgown
 diapered
 deuteroprism
 disthrone
-desulphurated
 droghlin
 discrepant
 drighten
