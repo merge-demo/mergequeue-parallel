@@ -10875,6 +10875,7 @@ cyclecar
 coolant
 chloralose
 canzoni
+calicular
 chippie
 chippier
 chippies
@@ -17219,7 +17220,6 @@ creameryman
 campe
 coagonize
 coagriculturist
-calicular
 carryke
 connectibility
 chrononomy
