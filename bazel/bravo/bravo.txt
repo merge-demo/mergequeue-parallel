@@ -9589,7 +9589,6 @@ bisymmetrical
 bargainer
 benefactrix
 bermudian
-bandwagons
 borate
 bisync
 bicuspid
@@ -14796,6 +14795,7 @@ baconweed
 bietle
 boded
 bristler
+bandwagons
 brailing
 bluetops
 bronchopulmonary
