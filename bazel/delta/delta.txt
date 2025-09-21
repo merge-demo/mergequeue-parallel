@@ -427,7 +427,6 @@ disconnects
 daintiness
 daiquiri
 dingle
-disoperculate
 diriment
 dramatics
 densitometry
@@ -12777,6 +12776,7 @@ deer
 drawboy
 dysneuria
 dislodged
+disoperculate
 dislodgement
 dyslogistic
 discoverture

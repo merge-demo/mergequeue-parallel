@@ -9336,7 +9336,6 @@ antaimerina
 anesthetics
 adnex
 action
-astrologically
 amasty
 altamira
 altar
@@ -20226,6 +20225,7 @@ atonally
 airline
 apostolate
 apparently
+astrologically
 arenarious
 arrosive
 anglophilic
