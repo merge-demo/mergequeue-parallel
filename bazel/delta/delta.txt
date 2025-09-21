@@ -3704,7 +3704,6 @@ dehonestation
 dispositions
 dixit
 disoccupied
-dehorn
 didepside
 dealbuminize
 dolcan
@@ -9280,6 +9279,7 @@ debarkation
 disilluded
 disestablishmentarianism
 deterge
+dehorn
 divined
 dyeline
 dislegitimate
