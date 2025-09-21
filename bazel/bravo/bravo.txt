@@ -5548,6 +5548,7 @@ bouleuterion
 beknighted
 burrio
 bacchuslike
+beaverkill
 beedi
 beknottedly
 bobet
@@ -11437,7 +11438,6 @@ bluepoints
 blazingly
 blameably
 bromisms
-beaverkill
 bluesmen
 bluestems
 beguiles
