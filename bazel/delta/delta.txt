@@ -6845,6 +6845,7 @@ definition
 disfranchisers
 desmine
 degenerates
+dharani
 dextrocardial
 diarrhoetic
 diffidence
@@ -18204,7 +18205,6 @@ dasypeltis
 daniel
 dorsulum
 delamination
-dharani
 dispensary
 duncish
 delegatee
