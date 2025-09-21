@@ -1661,6 +1661,7 @@ bardesanism
 bloodfin
 ballplatz
 bedrabbled
+bondieuserie
 baggit
 braizes
 bambara
@@ -8983,7 +8984,6 @@ begrims
 brilliancy
 benzoxyacetic
 biomedicine
-bondieuserie
 bees
 biomes
 babelike
