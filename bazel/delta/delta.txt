@@ -2472,6 +2472,7 @@ dunghill
 destrudo
 diplodocus
 docetae
+dzerin
 decision
 dnieper
 dozing
@@ -2986,7 +2987,6 @@ dochmius
 deeper
 dealings
 dangleberries
-dzerin
 drageoir
 dies
 demyelination
