@@ -4446,6 +4446,7 @@ combatants
 carlock
 carlos
 cannaled
+chicha
 circumference
 carls
 cavorters
@@ -10304,7 +10305,6 @@ committer
 cantharidin
 chicest
 coccidioidomycosis
-chicha
 chichevache
 cyperus
 chichi
