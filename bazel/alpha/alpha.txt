@@ -8086,6 +8086,7 @@ agammaglobulinemic
 alidads
 anchored
 aposporous
+aristotype
 anonad
 asok
 autocoprophagous
@@ -19637,7 +19638,6 @@ aristotelean
 adolescents
 aristotelism
 acicula
-aristotype
 aristotle
 arytenoepiglottic
 ambatch
