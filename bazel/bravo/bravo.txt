@@ -11101,6 +11101,7 @@ blocked
 blocker
 brid
 beltman
+butteris
 bulgarian
 becudgels
 beguines
@@ -18224,7 +18225,6 @@ baburd
 bacteraemia
 bases
 butteryfingered
-butteris
 beekeeper
 bridestake
 blepharospasm
