@@ -3498,6 +3498,7 @@ biennium
 biotherapy
 boyla
 batamote
+bowwoman
 biosis
 bitterworm
 benzoglyoxaline
@@ -8866,7 +8867,6 @@ biocidal
 bichos
 biocide
 bioclimatic
-bowwoman
 bioclimatician
 bathwater
 blabber
