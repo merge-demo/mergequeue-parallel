@@ -9698,7 +9698,6 @@ bescurvy
 bistipulate
 bowpots
 begumming
-bistred
 bindheimite
 beknights
 bradylexia
@@ -16661,6 +16660,7 @@ buckwheats
 bugsha
 bucolically
 baduhenna
+bistred
 bucolicism
 belittlers
 bucolics
