@@ -11464,6 +11464,7 @@ dockyard
 determinoid
 debug
 defeasibleness
+devonport
 dulcor
 discloser
 disponge
@@ -11847,7 +11848,6 @@ defiler
 discruciate
 drupelets
 damascenine
-devonport
 detoxicate
 daimons
 disculpatory
