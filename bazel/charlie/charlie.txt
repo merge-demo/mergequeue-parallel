@@ -6243,6 +6243,7 @@ ceroplast
 caulis
 caulivorous
 colourful
+capelline
 caulks
 chymists
 conferrer
@@ -15599,7 +15600,6 @@ continentalist
 cicatrized
 curites
 crustaceous
-capelline
 classificatory
 cotwinned
 cair
