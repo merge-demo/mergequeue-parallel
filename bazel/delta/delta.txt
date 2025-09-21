@@ -7578,7 +7578,6 @@ disenchain
 datura
 dittos
 defenceable
-disrupting
 diplanetism
 dentiloquy
 deuterium
@@ -11257,6 +11256,7 @@ discretiveness
 disconduce
 dispersoidology
 daytimes
+disrupting
 diphead
 distendedly
 disbenched
