@@ -2817,6 +2817,7 @@ biquadrate
 bleaker
 baroswitch
 bloat
+bump
 barotaxy
 bluebutton
 baseburner
@@ -12903,7 +12904,6 @@ bdellatomy
 bungmaker
 birthing
 boosting
-bump
 bursectomy
 brachigerous
 blanketing
