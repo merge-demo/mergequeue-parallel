@@ -9212,7 +9212,6 @@ dye
 dogship
 drumloidal
 dalk
-duscle
 dermoneurosis
 disentwine
 desoxycinchonine
@@ -13435,6 +13434,7 @@ dihexagonal
 dardanium
 disreputableness
 dading
+duscle
 diphyesis
 darnix
 demisphere
