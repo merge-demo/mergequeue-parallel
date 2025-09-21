@@ -5834,6 +5834,7 @@ dujan
 dismarshall
 drukpa
 dramatic
+dionysiac
 disentrancing
 diamido
 dowel
@@ -10317,7 +10318,6 @@ ditrochee
 draughting
 delta
 dionysia
-dionysiac
 dionysus
 dirigibles
 disprince
