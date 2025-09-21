@@ -24601,7 +24601,6 @@ criminalese
 coalescence
 coyos
 copies
-comvia
 copyfitting
 contemporised
 cosmati
@@ -31876,6 +31875,7 @@ cutpurse
 cyclothyme
 casuality
 cochliodont
+comvia
 chronology
 carolitic
 cransier
