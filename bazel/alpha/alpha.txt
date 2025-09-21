@@ -3607,7 +3607,6 @@ apposes
 adhibition
 antidemocracies
 anthobiology
-adjustability
 alberta
 awol
 adiabat
@@ -23475,6 +23474,7 @@ auntie
 acroceratidae
 anama
 acrasin
+adjustability
 atmostea
 arsyversy
 apomictically
