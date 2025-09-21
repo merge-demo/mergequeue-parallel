@@ -4373,7 +4373,6 @@ adverbiation
 adversatively
 ambushed
 appellation
-anthropophysiography
 aphoristical
 adverseness
 adversifoliate
@@ -8006,6 +8005,7 @@ aiglette
 algonquin
 algophagous
 algophilia
+anthropophysiography
 agly
 algophilist
 algophobia
