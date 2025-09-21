@@ -7658,7 +7658,6 @@ aortosclerosis
 amphibia
 ale
 arctia
-abreuvoir
 alea
 aleak
 aleatory
@@ -16684,6 +16683,7 @@ aphoristically
 aphorize
 anecdotalism
 abos
+abreuvoir
 actuator
 aphorizes
 artifactually
