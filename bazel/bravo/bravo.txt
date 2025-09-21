@@ -8114,7 +8114,6 @@ beltmaker
 bloodhound
 bidiagonal
 bahnung
-befouls
 bidirectional
 biophagy
 beliefs
@@ -17474,6 +17473,7 @@ bobadilish
 burro
 benzotetrazine
 burdensome
+befouls
 bemuddy
 begats
 beslushed
