@@ -10564,6 +10564,7 @@ antichrome
 astrophyllite
 axolemma
 aminobenzoic
+anallagmatis
 antidrag
 appetency
 alinota
@@ -21523,7 +21524,6 @@ approvable
 avoid
 abstractive
 asquint
-anallagmatis
 asramas
 accompanied
 acheilous
