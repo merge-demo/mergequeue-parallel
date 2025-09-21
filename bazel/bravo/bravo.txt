@@ -1169,7 +1169,6 @@ ballasting
 burlers
 balladized
 beseech
-belemnid
 bupleurol
 bile
 bajarigar
@@ -13572,6 +13571,7 @@ baizing
 bivocalized
 biophysically
 bouge
+belemnid
 brogued
 brighella
 bioscopes
