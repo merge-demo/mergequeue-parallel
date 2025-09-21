@@ -13411,7 +13411,6 @@ billsticker
 ballhawks
 bothriocephalus
 brosimum
-bothrium
 batophobia
 bries
 bothrodendron
@@ -14772,6 +14771,7 @@ bottlemaking
 bowbells
 beanfeaster
 breachers
+bothrium
 belonite
 butterfingers
 bulborectal
