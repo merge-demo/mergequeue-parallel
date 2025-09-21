@@ -14723,7 +14723,6 @@ castellan
 cicatrisate
 cystotrachelotomy
 cadenza
-cystourethritis
 chirurgy
 calyxes
 cystourethrography
@@ -21624,6 +21623,7 @@ concubines
 citrange
 cottonless
 concubitancy
+cystourethritis
 caprid
 concubitous
 conculcate
