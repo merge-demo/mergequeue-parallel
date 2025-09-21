@@ -9588,7 +9588,6 @@ digladiating
 decken
 duellos
 diglots
-desmatippus
 dendritiform
 disenchantment
 diglottist
@@ -17285,6 +17284,7 @@ disorganic
 driveled
 deputator
 dolichocercic
+desmatippus
 derobe
 deutonymphal
 drivellingly

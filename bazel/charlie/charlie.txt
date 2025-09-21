@@ -6238,7 +6238,6 @@ cauliflory
 cauliform
 conche
 caulinar
-caulinary
 ceroplast
 caulis
 caulivorous
@@ -6695,6 +6694,7 @@ ciceronic
 celadon
 complexionally
 committing
+caulinary
 cutidure
 celadonite
 coleen
