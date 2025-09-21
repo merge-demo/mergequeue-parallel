@@ -8640,7 +8640,6 @@ dyarchies
 dd
 downwards
 drumline
-dinge
 debugging
 delimitations
 diary
@@ -10253,6 +10252,7 @@ dalmania
 donkeyish
 dinosauria
 dressing
+dinge
 dermoosseous
 dotish
 dinotherian
