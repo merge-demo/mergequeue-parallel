@@ -2696,7 +2696,6 @@ cankerfret
 cankery
 cannoneering
 cankerroot
-cauponize
 cankers
 crannoge
 cultivators
@@ -6888,6 +6887,7 @@ celoscope
 consultee
 chubascos
 clonks
+cauponize
 cloze
 cousins
 cashbox
