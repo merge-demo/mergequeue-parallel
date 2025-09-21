@@ -13793,6 +13793,7 @@ apronlike
 amortised
 allophanate
 antagonization
+areologic
 athletically
 aorta
 aclu
@@ -17319,7 +17320,6 @@ aesthetics
 aurichlorohydric
 apothecium
 antitrope
-areologic
 applot
 airship
 antiarchi
