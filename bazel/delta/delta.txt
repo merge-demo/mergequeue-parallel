@@ -4679,6 +4679,7 @@ dedolency
 dustproof
 demiscible
 demise
+dilating
 diopsides
 demised
 depas
@@ -5778,7 +5779,6 @@ depolarizers
 droves
 deliberating
 debater
-dilating
 disjoint
 decasualizing
 depolymerize
