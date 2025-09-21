@@ -6206,6 +6206,7 @@ bourse
 brandsolder
 bentgrass
 broilery
+ballerina
 beshames
 brachycatalectic
 benthal
@@ -7614,7 +7615,6 @@ biocenotic
 backlists
 babished
 baldricwise
-ballerina
 beziques
 breadmaking
 bordured
