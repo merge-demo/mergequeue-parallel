@@ -2312,7 +2312,6 @@ breloque
 bathyscape
 bemitred
 backfilling
-bolection
 balbutiate
 barbierite
 busyish
@@ -12993,6 +12992,7 @@ beelike
 befountained
 barmaid
 biolith
+bolection
 brideless
 bituberculate
 bloomers
