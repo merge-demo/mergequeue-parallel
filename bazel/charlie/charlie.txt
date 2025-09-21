@@ -2299,7 +2299,6 @@ crossley
 canalises
 canalising
 canalization
-conveyancer
 concelebrations
 cityscapes
 condoler
@@ -29864,6 +29863,7 @@ crosse
 crossed
 crossers
 cutcha
+conveyancer
 choca
 culets
 crossest
