@@ -4591,7 +4591,6 @@ doegling
 demilitarise
 diaxone
 demilitarised
-designing
 demilitarising
 diversipedate
 drawtubes
@@ -10212,6 +10211,7 @@ dzeron
 diecase
 dulcely
 dinitrate
+designing
 dink
 dinka
 decatizing
