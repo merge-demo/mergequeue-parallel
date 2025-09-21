@@ -10425,6 +10425,7 @@ bribetaking
 beachboy
 beneficium
 bastion
+banga
 boghole
 bimuscular
 barytostrontianite
@@ -11574,7 +11575,6 @@ byronism
 brogger
 blush
 blushed
-banga
 bandannas
 blushfully
 brierwood
