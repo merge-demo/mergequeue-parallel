@@ -2706,7 +2706,6 @@ acquirer
 acromastitis
 antiscience
 acromelalgia
-acrometer
 ambocoelia
 acromia
 audiophiles
@@ -16976,6 +16975,7 @@ absorbefacient
 apodidae
 albumenise
 apodyteria
+acrometer
 adverb
 apodyterium
 azotizing
