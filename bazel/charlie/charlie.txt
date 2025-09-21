@@ -17716,6 +17716,7 @@ conservationist
 coffeeleaf
 cochlospermum
 catatoniac
+criterion
 cochon
 cyrtolite
 cruiser
@@ -21509,7 +21510,6 @@ cohere
 compassionated
 cauldrife
 chays
-criterion
 chemicalize
 chairmaned
 cringingly
