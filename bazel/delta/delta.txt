@@ -11196,6 +11196,7 @@ donating
 diols
 disattaint
 diplomacy
+decimeter
 disavail
 dayroom
 dissaves
@@ -14870,7 +14871,6 @@ dims
 denty
 doctorfishes
 derust
-decimeter
 dirham
 decomponible
 diethylenediamine
