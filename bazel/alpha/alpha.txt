@@ -7585,7 +7585,6 @@ aldermancy
 aldermaness
 aldermanical
 aration
-aldermanlike
 acrosticheae
 antiparliamentarian
 aplustria
@@ -11366,6 +11365,7 @@ acaulose
 arteriolar
 amex
 accuses
+aldermanlike
 adenophore
 afer
 appetites
