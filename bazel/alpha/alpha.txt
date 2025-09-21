@@ -10036,7 +10036,6 @@ almogavar
 ambulacra
 aguroth
 acuation
-ambulacrum
 anyways
 ambulance
 alkalinised
@@ -25331,6 +25330,7 @@ antisplitting
 antidotes
 archplayer
 antireactionaries
+ambulacrum
 alp
 azophenine
 abanet
