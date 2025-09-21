@@ -7346,7 +7346,6 @@ depositum
 diphthongia
 diphthongization
 disaggregated
-diapausing
 determinately
 dirtiness
 darbs
@@ -17318,6 +17317,7 @@ dureresque
 deuteragonist
 drizzly
 drizzlier
+diapausing
 drizzliest
 delassation
 diablery
