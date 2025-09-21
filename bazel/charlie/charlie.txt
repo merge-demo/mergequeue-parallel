@@ -12,7 +12,6 @@ cabal
 condylarthrous
 cryptostoma
 chevance
-corkmaking
 caught
 cabaletta
 cestas
@@ -26418,6 +26417,7 @@ cotoros
 cellulase
 calligraph
 cotorture
+corkmaking
 corymbosely
 chorography
 crowbars
