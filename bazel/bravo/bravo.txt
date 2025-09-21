@@ -4093,7 +4093,6 @@ bardic
 beelbow
 benzoflavine
 brushproof
-beardfishes
 beswarms
 botulinum
 beardy
@@ -9648,6 +9647,7 @@ bedpad
 bestock
 bisquette
 betrothment
+beardfishes
 byssal
 bigam
 bissellia
