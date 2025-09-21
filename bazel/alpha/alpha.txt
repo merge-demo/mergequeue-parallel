@@ -1179,6 +1179,7 @@ aerostatical
 acanthodei
 associationism
 admissibly
+amsath
 asporous
 afforest
 autogravure
@@ -11328,7 +11329,6 @@ acrostical
 appertains
 apiphobia
 abmhos
-amsath
 autolysis
 acinaciform
 aldosteronism
