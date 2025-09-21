@@ -22300,7 +22300,6 @@ cynthian
 coeffluent
 coleseeds
 congenial
-commiserative
 capes
 calaber
 comonte
@@ -26594,6 +26593,7 @@ counsellor
 counsellors
 cellos
 corbels
+commiserative
 ciliolum
 collectable
 continuateness
