@@ -13054,7 +13054,6 @@ curies
 cyanophile
 cyanophoric
 colossean
-cookstove
 cyanoplastid
 cyanoplatinite
 cyanose
@@ -24906,6 +24905,7 @@ crassitude
 coruscations
 crabit
 coranto
+cookstove
 crazier
 caproate
 cynopodous

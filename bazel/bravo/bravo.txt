@@ -17432,6 +17432,7 @@ battlefields
 burbly
 bonnie
 boring
+blobbiest
 bantling
 bacitracin
 barbers
@@ -17948,7 +17949,6 @@ bobachee
 bromometric
 barkeeper
 brassbounder
-blobbiest
 bicuspidal
 busily
 busine
