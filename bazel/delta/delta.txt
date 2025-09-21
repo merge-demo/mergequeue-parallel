@@ -11980,7 +11980,6 @@ dismission
 debonairly
 disembowels
 deputizes
-descry
 dewater
 dilacerate
 deduced
@@ -12985,6 +12984,7 @@ dolite
 diathermometer
 daughterkin
 demieagle
+descry
 dullhead
 dactylitis
 disordering
