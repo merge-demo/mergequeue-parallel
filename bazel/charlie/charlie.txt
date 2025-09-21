@@ -354,7 +354,6 @@ cacogenic
 capsulate
 cacoglossia
 comitragedy
-cloudlets
 cacographic
 chlorals
 cacolet
@@ -8476,6 +8475,7 @@ coinheritor
 cumbers
 chamoisite
 campilan
+cloudlets
 chamoline
 chamorro
 copalcocote
