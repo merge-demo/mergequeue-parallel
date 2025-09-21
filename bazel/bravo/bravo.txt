@@ -504,6 +504,7 @@ battarismus
 balaenoidea
 brachioradial
 bromios
+bulbs
 bituminiferous
 bramblebush
 breakax
@@ -18333,7 +18334,6 @@ backgeared
 breviped
 buttresslike
 bromiodide
-bulbs
 bepaints
 backsliding
 blesbucks
