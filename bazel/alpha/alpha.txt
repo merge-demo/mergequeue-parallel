@@ -10431,7 +10431,6 @@ aposematically
 amygdal
 aludels
 anthropos
-amygdala
 amygdalaceous
 animated
 amygdalase
@@ -11787,6 +11786,7 @@ alkoxide
 artisanry
 anthropozoic
 ampelite
+amygdala
 admixes
 ajee
 anaplasia
