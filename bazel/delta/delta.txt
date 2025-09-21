@@ -1184,7 +1184,6 @@ declassicize
 dezinced
 defensiveness
 diploconical
-defs
 deblocked
 dimera
 dade
@@ -12217,6 +12216,7 @@ displeasant
 dichocarpism
 drunk
 dermataneuria
+defs
 dysphonic
 disflesh
 dargo
