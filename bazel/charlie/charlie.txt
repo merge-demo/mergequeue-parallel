@@ -2549,7 +2549,6 @@ candler
 concealed
 candlers
 casework
-candles
 chaucerism
 candleshrift
 capitalizations
@@ -21558,6 +21557,7 @@ cardiophobia
 concordances
 cantalas
 catface
+candles
 concordant
 candlemaking
 classifically
