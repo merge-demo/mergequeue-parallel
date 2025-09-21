@@ -10529,7 +10529,6 @@ benzalazine
 basters
 bugshas
 breadboxes
-blathered
 blathery
 blackprint
 baretta
@@ -14984,6 +14983,7 @@ breenger
 breezeway
 bimorphemic
 bulbocapnin
+blathered
 breezeways
 bowdlerise
 besanctify

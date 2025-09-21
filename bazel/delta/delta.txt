@@ -1438,6 +1438,7 @@ disfoliaged
 dispenditure
 daunomycin
 dawnward
+dictyosome
 dud
 drooliest
 dipropyl
@@ -17863,7 +17864,6 @@ ductor
 demonstrability
 ductules
 drawlatch
-dictyosome
 doorknobs
 decurve
 duddery
