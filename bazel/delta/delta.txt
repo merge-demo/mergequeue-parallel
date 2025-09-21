@@ -984,7 +984,6 @@ drosophila
 diaphonia
 dared
 denudes
-diversifies
 dargah
 dignitaries
 derequisition
@@ -4713,6 +4712,7 @@ demythologizations
 disman
 demythologizer
 duodecimal
+diversifies
 discretionally
 dees
 delectableness

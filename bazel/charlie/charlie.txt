@@ -3408,7 +3408,6 @@ capriform
 caprigenous
 caprylic
 cymene
-caprock
 coat
 caprylone
 chivarro
@@ -8977,6 +8976,7 @@ chemopause
 charged
 cutinised
 cupping
+caprock
 chargee
 cataphasia
 contingent
