@@ -6249,7 +6249,6 @@ denuclearization
 dermatagra
 dermatophagus
 dermatotropic
-desiccator
 dizaine
 decagon
 dirged
@@ -12375,6 +12374,7 @@ devilish
 dinomic
 decker
 dishabituate
+desiccator
 deductively
 deoxygenating
 dragomen
