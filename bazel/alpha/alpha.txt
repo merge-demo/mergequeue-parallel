@@ -13150,6 +13150,7 @@ annoyed
 anisophyllous
 atbash
 apace
+adendric
 ataraxias
 asseverated
 ancient
@@ -23341,7 +23342,6 @@ assimilatory
 arithmomania
 auftakt
 aug
-adendric
 apomict
 augend
 adversity

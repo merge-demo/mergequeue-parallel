@@ -6538,7 +6538,6 @@ berengaria
 bursate
 bailment
 braziery
-bronchioles
 berenice
 betanglement
 bereshith
@@ -14696,6 +14695,7 @@ betelnut
 boughs
 blackmailing
 brazened
+bronchioles
 braveness
 birsle
 balaclava
