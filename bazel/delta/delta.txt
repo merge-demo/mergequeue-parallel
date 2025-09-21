@@ -3404,6 +3404,7 @@ defluvium
 demimark
 dang
 defoamed
+drinkableness
 diacetylmorphine
 damozels
 desisting
@@ -4539,7 +4540,6 @@ divulsor
 drowningly
 doxologies
 defused
-drinkableness
 distinctions
 destruction
 dragading
