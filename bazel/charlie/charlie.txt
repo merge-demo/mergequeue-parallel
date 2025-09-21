@@ -11264,6 +11264,7 @@ crampit
 chicote
 cotch
 chlorite
+colliery
 canreply
 chloritic
 caterers
@@ -19147,7 +19148,6 @@ condensery
 cetacea
 cepous
 chariots
-colliery
 crises
 callable
 colliflower
