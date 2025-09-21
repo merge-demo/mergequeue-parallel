@@ -24374,7 +24374,6 @@ coolen
 cooler
 coolers
 crimpier
-chemosmosis
 cholinergic
 coolest
 cattleless
@@ -29336,6 +29335,7 @@ cymoidium
 cryptovolcanism
 cryptozygy
 cannele
+chemosmosis
 cryptozygosity
 caddised
 cryptozygous
