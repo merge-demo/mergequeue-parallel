@@ -10413,7 +10413,6 @@ dioxy
 defecate
 dustbin
 discourtship
-dioxid
 drabler
 disfavors
 dioxides
@@ -14507,6 +14506,7 @@ dieyerie
 doughty
 downswing
 dipleidoscope
+dioxid
 decolonised
 dewfalls
 divided
