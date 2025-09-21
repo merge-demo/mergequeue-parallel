@@ -9009,6 +9009,7 @@ activation
 almacigo
 anaspid
 amphiarthrosis
+augitite
 authenticatable
 afterchance
 arteriostosis
@@ -24758,7 +24759,6 @@ agromyza
 avis
 aflare
 ambagitory
-augitite
 annunciation
 atractaspis
 aerogenically
