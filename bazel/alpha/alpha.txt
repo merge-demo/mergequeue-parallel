@@ -217,6 +217,7 @@ attachable
 apteran
 agyrate
 acology
+anuria
 acoumeter
 astrobotany
 anacrotism
@@ -16345,7 +16346,6 @@ acrochordidae
 anuretic
 anury
 alose
-anuria
 acceptive
 anuric
 amoraic
