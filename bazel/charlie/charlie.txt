@@ -1503,6 +1503,7 @@ callipygous
 callippic
 callisaurus
 cosounding
+cuscohygrine
 callisteia
 capsize
 callistephus
@@ -31651,7 +31652,6 @@ conscripttion
 curvulate
 cuscohygrin
 counterdeputation
-cuscohygrine
 colures
 cruciferous
 carbolized
