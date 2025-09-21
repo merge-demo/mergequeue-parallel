@@ -11896,6 +11896,7 @@ carauna
 cleanskins
 chorale
 choraleon
+clifty
 chorales
 comradery
 concio
@@ -16148,7 +16149,6 @@ cousinries
 cytokinetic
 cliffweed
 clift
-clifty
 crystallitis
 clarify
 climaciaceae
