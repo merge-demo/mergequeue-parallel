@@ -1035,6 +1035,7 @@ draffsack
 distains
 darkmans
 dewy
+deraignment
 disannexation
 desuete
 dineutron
@@ -16431,7 +16432,6 @@ dispersal
 duckboard
 drainable
 downstate
-deraignment
 defrost
 downstrokes
 defensative
