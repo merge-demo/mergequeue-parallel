@@ -13666,7 +13666,6 @@ americanism
 arcanum
 arethusa
 atacamite
-anorthite
 antiparalytic
 anorthitic
 anorthographic
@@ -25089,6 +25088,7 @@ alii
 accredited
 axillar
 argyrite
+anorthite
 ascender
 antiketogen
 axillaries
