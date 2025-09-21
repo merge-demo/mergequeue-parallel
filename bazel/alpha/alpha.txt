@@ -1755,6 +1755,7 @@ acephalist
 adumbratively
 assembles
 acephalous
+argillic
 abeyance
 adduct
 acephalus
@@ -19361,7 +19362,6 @@ argillaceous
 affectively
 amphipodiform
 awarder
-argillic
 aspalathus
 argilliferous
 apperception

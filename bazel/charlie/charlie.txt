@@ -19828,7 +19828,6 @@ combinably
 combinate
 cabbagy
 combinational
-corrigent
 combinations
 combinative
 counterrotating
@@ -28211,6 +28210,7 @@ compoundness
 capreolus
 cyclometries
 crumlet
+corrigent
 cutchery
 colchyte
 crare
