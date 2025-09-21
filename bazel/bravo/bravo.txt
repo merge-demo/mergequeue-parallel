@@ -9037,6 +9037,7 @@ broadbill
 bedazzle
 bandagist
 buzzwords
+bacteriform
 biorhythm
 batwomen
 brainwashers
@@ -16783,7 +16784,6 @@ biotechnologies
 brocades
 blended
 burhead
-bacteriform
 bichromatic
 bathysophic
 buffoonish
