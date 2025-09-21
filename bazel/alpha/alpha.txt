@@ -13670,6 +13670,7 @@ anorthite
 antiparalytic
 anorthitic
 anorthographic
+additionally
 antecedaneously
 ala
 anorthophyre
@@ -23598,7 +23599,6 @@ aurorian
 aurorium
 algorithm
 acidulent
-additionally
 aleppine
 aurrescu
 anchtherium
