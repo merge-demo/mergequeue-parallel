@@ -2787,6 +2787,7 @@ cannoning
 cannonries
 cyrtandraceae
 curettage
+computerese
 ceterach
 cannons
 cigale
@@ -18976,7 +18977,6 @@ cataplasis
 capelin
 collaborating
 counterpressure
-computerese
 collaborationists
 collaborative
 circulatable
