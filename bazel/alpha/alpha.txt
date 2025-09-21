@@ -1695,7 +1695,6 @@ accusatorial
 accusatorially
 antrotympanic
 accusatrix
-archiereus
 accuse
 amakosa
 agonistic
@@ -16396,6 +16395,7 @@ athyridae
 axweed
 adiaphora
 achaenocarp
+archiereus
 agsam
 aegagri
 acupuncturation

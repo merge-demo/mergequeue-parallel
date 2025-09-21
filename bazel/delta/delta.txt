@@ -3769,7 +3769,6 @@ disaugment
 deifiers
 discind
 dawcock
-demonetise
 drabness
 deign
 dreamsiness
@@ -4389,6 +4388,7 @@ dishonourableness
 dispersonalize
 demandant
 deinos
+demonetise
 dacryon
 demarcation
 dolomites
