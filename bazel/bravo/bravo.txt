@@ -3411,7 +3411,6 @@ basswood
 burghership
 burgomaster
 brelaw
-bickering
 bedsores
 blaine
 bastardised
@@ -17605,6 +17604,7 @@ beslubber
 besit
 boff
 bemartyr
+bickering
 britchel
 bahay
 biennials

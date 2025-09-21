@@ -2473,7 +2473,6 @@ cirque
 conversive
 chrysanisic
 cyanemia
-candidacy
 candidacies
 contrair
 careeristic
@@ -18118,6 +18117,7 @@ chiromancy
 chrysopoetic
 condensational
 carats
+candidacy
 calisaya
 cheepily
 cellated
