@@ -826,7 +826,6 @@ bloated
 barnage
 biffed
 burrfishes
-bafflers
 baffling
 bafflingly
 bulbus
@@ -13008,6 +13007,7 @@ boracous
 bedur
 bruchidae
 bueno
+bafflers
 barbecued
 bombarde
 bibles
