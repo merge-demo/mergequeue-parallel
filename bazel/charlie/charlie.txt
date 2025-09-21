@@ -21187,7 +21187,6 @@ concause
 cyclist
 capitals
 concavity
-conceal
 concealable
 chaga
 cadger
@@ -26001,6 +26000,7 @@ contagionist
 cosenator
 consignor
 cosentient
+conceal
 coregence
 clavate
 cosettler

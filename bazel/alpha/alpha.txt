@@ -10107,6 +10107,7 @@ almacenista
 antipsychiatry
 amphisbaena
 attestors
+apogeotropism
 ame
 appendalgia
 amebean
@@ -17020,7 +17021,6 @@ avocets
 alliterated
 anisochromia
 aculeata
-apogeotropism
 autolaryngoscopy
 amethodical
 assigners
