@@ -3455,7 +3455,6 @@ berginization
 brushfire
 bankrolling
 brigade
-biserially
 basto
 baguios
 bucklandite
@@ -4139,6 +4138,7 @@ biomedical
 buddhists
 birdland
 blenched
+biserially
 backbend
 beastlier
 biopsychic
