@@ -12883,7 +12883,6 @@ cookers
 churchscot
 churchway
 churchward
-chairmanned
 cutling
 chilliwack
 crustless
@@ -29599,6 +29598,7 @@ crocodility
 cantref
 cattishly
 cognizer
+chairmanned
 convulsiveness
 confrontationism
 cruth
