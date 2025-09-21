@@ -25387,7 +25387,6 @@ corniculer
 corniferous
 centesimally
 corniform
-chaft
 cornigerous
 comby
 conies
@@ -27736,6 +27735,7 @@ cowries
 calina
 cowroid
 catbrier
+chaft
 connecters
 cowshed
 cowsheds

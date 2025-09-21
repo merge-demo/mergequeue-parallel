@@ -9682,7 +9682,6 @@ aposthia
 arginases
 amante
 auscultation
-augurer
 agst
 amanuensis
 ainsell
@@ -10117,6 +10116,7 @@ archpriest
 admortization
 araban
 anthropologically
+augurer
 asiarchate
 amebicide
 antiface
