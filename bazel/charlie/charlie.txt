@@ -2319,6 +2319,7 @@ calinda
 circumfuse
 convertors
 ccw
+carpolith
 canamo
 coredeem
 catapultier
@@ -11926,7 +11927,6 @@ chorditis
 circumferentor
 cecidomyian
 cableless
-carpolith
 coverside
 chordomesoderm
 chordotomy

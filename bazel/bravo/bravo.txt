@@ -6477,7 +6477,6 @@ bimong
 bettong
 blatherskite
 bewelcome
-bavarois
 backplanes
 bagel
 bookkeeping
@@ -17013,6 +17012,7 @@ bulleted
 bulletheadedness
 birdcall
 baptornis
+bavarois
 bayard
 battle
 bergman
