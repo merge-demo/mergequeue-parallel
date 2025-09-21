@@ -21217,7 +21217,6 @@ accompletive
 asymptotes
 asymptotically
 achromophilous
-asymtote
 asymtotic
 aldern
 agaricinic
@@ -25100,6 +25099,7 @@ axing
 anagenesis
 acrosarc
 axinite
+asymtote
 alimentiveness
 antiascetic
 alant
