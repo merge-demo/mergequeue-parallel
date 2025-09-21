@@ -3331,7 +3331,6 @@ bobberies
 beal
 bifocals
 bidential
-bromargyrite
 balaghaut
 basketwork
 baskish
@@ -14554,6 +14553,7 @@ blume
 burled
 buri
 boyar
+bromargyrite
 boardroom
 bansalague
 binomy
