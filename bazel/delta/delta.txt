@@ -13224,7 +13224,6 @@ desaurine
 dendrobe
 drosses
 dronte
-diastrophe
 drie
 dolphinfish
 dyspnea
@@ -18369,6 +18368,7 @@ dissever
 duodene
 dibucaine
 duodenitis
+diastrophe
 denominationalism
 decrew
 departmentalizes

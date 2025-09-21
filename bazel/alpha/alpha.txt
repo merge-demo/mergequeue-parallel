@@ -463,7 +463,6 @@ autosymbolical
 abysses
 autographed
 abyssolith
-aporrhais
 abyssopelagic
 abyssus
 agriculture
@@ -22418,6 +22417,7 @@ adonean
 atelestite
 andrena
 admittances
+aporrhais
 attractively
 atelier
 archetypical
