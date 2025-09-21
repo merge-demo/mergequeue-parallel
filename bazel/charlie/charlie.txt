@@ -10324,7 +10324,6 @@ calctuffs
 chichling
 chick
 chelidosaurus
-chickabiddy
 cruse
 cachoeira
 clactonian
@@ -16985,6 +16984,7 @@ clunter
 cystopus
 coutille
 clupanodonic
+chickabiddy
 clupeid
 cahot
 clupeids
