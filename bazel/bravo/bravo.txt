@@ -2451,7 +2451,6 @@ blacksmith
 besodden
 beseemingness
 brethrenism
-bargham
 balbutient
 brauneria
 batino
@@ -6535,6 +6534,7 @@ beant
 basioccipital
 berede
 berengaria
+bargham
 bursate
 bailment
 braziery
