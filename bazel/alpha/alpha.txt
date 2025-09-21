@@ -8208,6 +8208,7 @@ arbitrational
 alipteria
 aliptic
 acardiac
+analeptic
 aporia
 aorists
 amoebidae
@@ -11636,7 +11637,6 @@ aconitum
 analemmata
 analepses
 agrege
-analeptic
 analgesics
 allargando
 accidency
