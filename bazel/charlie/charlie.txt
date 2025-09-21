@@ -15407,6 +15407,7 @@ coran
 chested
 caulkings
 clapnest
+convalescing
 courtroll
 clapnet
 concentered
@@ -23987,7 +23988,6 @@ convalescently
 convalescents
 convalesces
 cooked
-convalescing
 convallaria
 consummately
 convect
