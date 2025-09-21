@@ -3489,6 +3489,7 @@ beadily
 bephrase
 bankruptlike
 besplash
+beode
 barbascoes
 barrages
 boltonite
@@ -8224,7 +8225,6 @@ biformity
 bavarian
 blanketflower
 bifurcated
-beode
 beetlestock
 bifurcately
 bergschrund
