@@ -3400,6 +3400,7 @@ ajivas
 adelantado
 adelante
 adelarthra
+awakened
 aircoaches
 alectryon
 apetalae
@@ -24894,7 +24895,6 @@ awake
 aquocarbonic
 awakeable
 assemblers
-awakened
 armets
 aralia
 awakeners
