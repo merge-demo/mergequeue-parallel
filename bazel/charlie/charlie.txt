@@ -28,7 +28,6 @@ caball
 chloride
 caballer
 cocurricular
-corrosiving
 cranebill
 caracter
 cineols
@@ -20522,6 +20521,7 @@ cupressineous
 coraled
 companionizing
 callousing
+corrosiving
 corycavine
 chemotaxonomist
 comparableness
