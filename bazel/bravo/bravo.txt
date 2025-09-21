@@ -3644,7 +3644,6 @@ bipinnately
 bassanello
 blackball
 bumbleberry
-betacism
 brazenfacedly
 bioplasm
 batoon
@@ -9860,6 +9859,7 @@ birred
 backswing
 bitterheartedness
 birdlife
+betacism
 bitterishness
 begulfs
 beggarly
