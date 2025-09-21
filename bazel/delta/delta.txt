@@ -4596,7 +4596,6 @@ diversipedate
 drawtubes
 deoperculate
 delightless
-demilitarization
 diffarreation
 dibranchiate
 demilitarized
@@ -9230,6 +9229,7 @@ decipherer
 dyeability
 denazification
 devilman
+demilitarization
 ditriglyph
 dipleurula
 desectionalize
