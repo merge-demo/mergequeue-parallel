@@ -4660,6 +4660,7 @@ disfunction
 decap
 dittoing
 dracaenas
+dummying
 dichelyma
 draggletail
 demirilievo
@@ -12936,7 +12937,6 @@ dognapping
 detruncate
 duff
 diligentness
-dummying
 disoccluding
 dairy
 dilatableness
