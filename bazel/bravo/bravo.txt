@@ -10693,7 +10693,6 @@ bistournage
 belap
 blennadenitis
 bullets
-blennenteria
 blout
 biglot
 bathymetric
@@ -12809,6 +12808,7 @@ braiding
 barrelhouse
 basigamy
 boomable
+blennenteria
 boo
 beggarman
 blastodisc
