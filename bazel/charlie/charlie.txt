@@ -2086,7 +2086,6 @@ commonance
 campbellites
 clairvoyances
 cixiid
-capriciousness
 campcraft
 cryal
 carver
@@ -27180,6 +27179,7 @@ caseharden
 coatee
 countertreason
 clattertrap
+capriciousness
 catholicus
 confessors
 chlamydomonadidae
