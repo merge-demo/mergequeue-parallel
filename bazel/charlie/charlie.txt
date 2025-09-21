@@ -19361,6 +19361,7 @@ chuchona
 colon
 colonaded
 cecidomyiidous
+collen
 colonate
 colonelcies
 colonels
@@ -22890,7 +22891,6 @@ causticized
 consequency
 consequent
 ciconian
-collen
 consequential
 communalist
 commorancies
