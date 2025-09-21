@@ -1529,7 +1529,6 @@ cartographer
 crawlway
 commonwealthism
 cuddle
-chrysotis
 callop
 camphorate
 cancerwort
@@ -26049,6 +26048,7 @@ culverineer
 cladogenous
 cosiness
 cosins
+chrysotis
 cosmetic
 cosmetically
 chasses

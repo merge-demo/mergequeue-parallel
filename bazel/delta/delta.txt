@@ -13476,7 +13476,6 @@ diplography
 dauting
 dairymaid
 dippable
-diatomite
 ducato
 dada
 diss
@@ -15475,6 +15474,7 @@ derah
 dislocatedly
 dikaryotic
 dedicators
+diatomite
 domett
 demicivilized
 detainer
