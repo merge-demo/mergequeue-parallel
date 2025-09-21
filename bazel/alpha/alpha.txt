@@ -13051,7 +13051,6 @@ anionic
 allice
 adaptional
 anisado
-alphecca
 alexandria
 askable
 artamus
@@ -18015,6 +18014,7 @@ avouch
 aquaplaning
 aquaregia
 actinocrinidae
+alphecca
 apoise
 aquarelle
 aquarial
