@@ -12526,7 +12526,6 @@ amb
 angelicalness
 angelicic
 angelicness
-ascan
 attestive
 angelico
 angelina
@@ -15374,6 +15373,7 @@ aspectual
 antimodel
 asparkle
 antimodern
+ascan
 antimodernist
 abstractiveness
 appendicularian
