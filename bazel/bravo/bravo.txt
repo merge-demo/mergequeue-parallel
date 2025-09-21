@@ -964,7 +964,6 @@ baker
 basiophthalmite
 bahaist
 baccalaureus
-bahamian
 bahamians
 boated
 blitheness
@@ -6400,6 +6399,7 @@ bailo
 biddy
 bulwand
 boxings
+bahamian
 bifariously
 boomah
 byrlawmen

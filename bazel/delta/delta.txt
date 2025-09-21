@@ -2681,7 +2681,6 @@ decontaminating
 diatessaron
 dejectly
 decontaminators
-dvornik
 diskless
 dressmakership
 dishwash
@@ -10377,6 +10376,7 @@ duplet
 demoses
 distraint
 disgregation
+dvornik
 diorthotic
 doughbellies
 dipotassic
