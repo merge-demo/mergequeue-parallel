@@ -11582,7 +11582,6 @@ arbalester
 alban
 amos
 appraisal
-anagyrine
 anagyris
 annulism
 anaglyphs
@@ -14616,6 +14615,7 @@ adversarial
 anticapitalistically
 anticardiac
 anticarious
+anagyrine
 anticatalase
 armorially
 asininity
