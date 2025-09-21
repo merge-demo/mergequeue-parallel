@@ -6454,6 +6454,7 @@ beaupere
 bourdis
 bartramiaceae
 belga
+bromyrite
 buckeyes
 beray
 buster
@@ -8912,7 +8913,6 @@ byliner
 bioengineering
 basidiomycetes
 bioethic
-bromyrite
 bullishly
 blueberries
 bioethics
