@@ -12466,7 +12466,6 @@ bonify
 birdieing
 bdls
 bondstone
-bowly
 basely
 bagpiped
 beckoning
@@ -17498,6 +17497,7 @@ bureaucratizes
 boletic
 bureaucratizing
 brisket
+bowly
 buret
 burets
 bedirtied
