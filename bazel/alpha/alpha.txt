@@ -9706,7 +9706,6 @@ ataraxy
 aforeward
 angioglioma
 amaranthus
-amarantine
 amarantus
 apprised
 advowsance
@@ -15940,6 +15939,7 @@ antisacerdotalist
 antisag
 aminoplastic
 affaire
+amarantine
 antisalooner
 antisavage
 anticlassicalism
