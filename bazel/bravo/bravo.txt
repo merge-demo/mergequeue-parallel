@@ -6750,6 +6750,7 @@ bummaree
 boophilus
 bowditch
 burley
+bisector
 basophils
 braincraft
 baroi
@@ -12585,7 +12586,6 @@ benzyl
 bonnwis
 bonorum
 baser
-bisector
 bagatelle
 bills
 brainchild
