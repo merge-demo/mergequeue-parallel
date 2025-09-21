@@ -3828,6 +3828,7 @@ doveling
 diatropic
 dyspnoea
 degraduation
+dermoid
 decastyle
 dephlegm
 diomedeidae
@@ -5698,7 +5699,6 @@ diploglossata
 deplant
 deozonize
 demigods
-dermoid
 desterilized
 daypeep
 dialysed
