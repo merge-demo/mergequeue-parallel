@@ -5101,6 +5101,7 @@ collectivity
 circumrenal
 casebox
 cisatlantic
+cupolas
 calumniative
 casefy
 corneter
@@ -6146,7 +6147,6 @@ correlativeness
 crosstied
 circumjacencies
 ceraunoscope
-cupolas
 catwalk
 chancier
 catwise

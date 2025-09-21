@@ -2194,6 +2194,7 @@ bostonite
 barter
 bracery
 barauna
+boltmaker
 boneheadedness
 bromizing
 blobs
@@ -12257,7 +12258,6 @@ bromopnea
 boltheading
 boltlike
 beaupers
-boltmaker
 blee
 bombaster
 berakoth
