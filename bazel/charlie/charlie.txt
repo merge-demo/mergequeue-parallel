@@ -3466,6 +3466,7 @@ capsula
 compage
 capsulation
 collegatary
+circuital
 chainomatic
 chawbone
 coccyges
@@ -14138,7 +14139,6 @@ cochleas
 colloquialisms
 codecree
 chancily
-circuital
 copperases
 circuiteer
 chullpa

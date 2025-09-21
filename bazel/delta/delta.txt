@@ -9167,7 +9167,6 @@ didelphidae
 dingdong
 didelphoid
 disinclines
-derisory
 detriment
 disdiaclasis
 disgracement
@@ -14576,6 +14575,7 @@ depredator
 divisional
 durio
 dronkgrass
+derisory
 delacrimation
 divisionary
 duplicately
