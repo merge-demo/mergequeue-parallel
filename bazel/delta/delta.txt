@@ -5583,6 +5583,7 @@ depends
 dallack
 decretals
 dispersed
+decemberly
 dukeship
 dowp
 disemplaned
@@ -11829,7 +11830,6 @@ disembrangle
 ditty
 deferrals
 dislodges
-decemberly
 diacodion
 doric
 docquet
