@@ -9994,6 +9994,7 @@ arnatto
 appressor
 ajangle
 azedarach
+animalised
 amboynas
 amboinese
 ambolic
@@ -13587,7 +13588,6 @@ adipoma
 ayegreen
 anomuran
 abhorrer
-animalised
 autovaccine
 assertrix
 acoria
