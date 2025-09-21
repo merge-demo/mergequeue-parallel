@@ -4534,7 +4534,6 @@ diaspora
 demicircular
 divulsor
 drowningly
-doxologies
 defused
 drinkableness
 distinctions
@@ -10223,6 +10222,7 @@ defatting
 dinkum
 dharmasutra
 detractory
+doxologies
 duroc
 displeasingly
 disple
