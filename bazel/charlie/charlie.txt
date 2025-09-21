@@ -14716,6 +14716,7 @@ chemisorption
 cystospore
 cystostomies
 chamberlet
+carouser
 caxtonian
 catilinarian
 cystotome
@@ -21096,7 +21097,6 @@ consolidate
 compunctionless
 cyanean
 crofterize
-carouser
 cembalon
 cyclian
 compunctiously

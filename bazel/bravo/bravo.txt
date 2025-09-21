@@ -6928,7 +6928,6 @@ bespread
 basilic
 besmile
 besmiled
-besmirch
 bobtailing
 bankshall
 betroth
@@ -13559,6 +13558,7 @@ brunel
 biennale
 barhop
 bouffant
+besmirch
 brontesque
 barristers
 bratina
