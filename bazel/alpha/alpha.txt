@@ -8979,7 +8979,6 @@ axisymmetrically
 achetidae
 allusions
 allusive
-awreak
 auburn
 allusiveness
 allutterly
@@ -13580,6 +13579,7 @@ adagy
 anticommercially
 aldermanity
 autoptic
+awreak
 astonying
 anomouran
 anomphalous
