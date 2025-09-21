@@ -6416,7 +6416,6 @@ bacteriotrypsin
 booley
 bielid
 boltropes
-brachiopodist
 bepicture
 banxring
 bepile
@@ -11127,6 +11126,7 @@ bashawship
 bernie
 balmiest
 beddings
+brachiopodist
 bedawn
 bathyal
 barra
