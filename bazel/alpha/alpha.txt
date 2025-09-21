@@ -4949,7 +4949,6 @@ aplacophora
 aesir
 almightiness
 aesop
-aesopian
 aprosopous
 astigmat
 aesthesodic
@@ -20073,6 +20072,7 @@ apodemata
 absently
 aeroelastic
 airliners
+aesopian
 arithmetization
 adverts
 amateurism
