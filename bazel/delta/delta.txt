@@ -1586,7 +1586,6 @@ decompiler
 diplomata
 diastrophy
 disposition
-deadlocking
 demodulation
 dipus
 duskily
@@ -3971,6 +3970,7 @@ dialoger
 distune
 damnously
 distributivity
+deadlocking
 distritbutes
 delectus
 domiculture
