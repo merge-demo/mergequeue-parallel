@@ -3663,6 +3663,7 @@ asseveration
 alentours
 ariel
 alive
+apostrophes
 asconia
 anchorwise
 ametabole
@@ -17268,7 +17269,6 @@ agoramania
 aliment
 acronych
 ampuls
-apostrophes
 affixed
 atomising
 aviculture
