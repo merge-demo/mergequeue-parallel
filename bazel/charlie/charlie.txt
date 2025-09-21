@@ -9562,7 +9562,6 @@ conoy
 checkrowed
 coercement
 checkrower
-collyrium
 checkrowing
 consummatively
 checkrows
@@ -9738,6 +9737,7 @@ cheyneys
 cabin
 cimex
 cheiranthus
+collyrium
 cheirogaleus
 cheirography
 cheirolin
