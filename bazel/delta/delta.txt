@@ -6004,6 +6004,7 @@ dissatisfiedness
 dragons
 diopside
 delictus
+dislimns
 disappoints
 deed
 diwata
@@ -10490,7 +10491,6 @@ deallocations
 diphtherian
 dogberrydom
 diolefinic
-dislimns
 dynastes
 diphtheric
 diphtheritically
