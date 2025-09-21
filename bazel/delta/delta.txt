@@ -1497,7 +1497,6 @@ dcb
 depressure
 demilitarizes
 drawbolt
-dingbats
 dowsets
 deformers
 diazines
@@ -3801,6 +3800,7 @@ despatch
 decolorate
 dishonorableness
 dodecatheon
+dingbats
 dactylioglyphtic
 deliveror
 disleaved
