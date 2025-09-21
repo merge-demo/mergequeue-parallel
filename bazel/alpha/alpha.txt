@@ -12365,6 +12365,7 @@ adiapneustia
 anemotactic
 augurers
 anemotaxis
+axofugal
 anemotropism
 amandus
 aggregatae
@@ -14951,7 +14952,6 @@ applied
 antiecclesiastic
 analcimes
 abaci
-axofugal
 administrator
 advential
 apastra
