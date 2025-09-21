@@ -11189,7 +11189,6 @@ curtation
 caperwort
 chilopodous
 cartilage
-counterrecoil
 chloranemic
 chuffs
 chloranhydride
@@ -18437,6 +18436,7 @@ channeled
 cognac
 curdier
 cinnamyls
+counterrecoil
 chuncho
 crookeries
 centime
