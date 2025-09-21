@@ -1538,7 +1538,6 @@ cassowaries
 corrobboree
 callosal
 chronographs
-callose
 crafts
 calloses
 callosities
@@ -16595,6 +16594,7 @@ caffiso
 compensations
 cloysome
 counterjudging
+callose
 cloisonless
 condylomata
 cloisonn
