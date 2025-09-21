@@ -4347,7 +4347,6 @@ constructs
 culvertage
 confidentiality
 carillonning
-carillons
 cynips
 carinal
 carinas
@@ -27214,6 +27213,7 @@ caecal
 cannery
 cardiosymphysis
 compounding
+carillons
 chlorhydrate
 catbird
 coetus
