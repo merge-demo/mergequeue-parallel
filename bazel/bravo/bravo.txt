@@ -8183,6 +8183,7 @@ bathyorographical
 battailous
 bluebuck
 brodequin
+besanctify
 biethnic
 baryes
 burden
@@ -14986,7 +14987,6 @@ bimorphemic
 bulbocapnin
 breezeways
 bowdlerise
-besanctify
 brazier
 birdlore
 breezily
