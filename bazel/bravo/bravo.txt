@@ -9260,6 +9260,7 @@ bullation
 biquintile
 burkite
 bacillariophyta
+bonebreaker
 boles
 bastaard
 bavenite
@@ -12479,7 +12480,6 @@ bigothero
 barnburner
 boydom
 boorish
-bonebreaker
 bonedry
 bonefish
 berrettino
