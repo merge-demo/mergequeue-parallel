@@ -3263,6 +3263,7 @@ baboon
 bitting
 birder
 beleaped
+bumpology
 binormal
 basilweed
 broadsheet
@@ -4391,7 +4392,6 @@ begloom
 befleas
 belchers
 brazenness
-bumpology
 becloaks
 blackfriars
 blowiness
