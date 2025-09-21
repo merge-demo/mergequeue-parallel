@@ -6129,7 +6129,6 @@ armenize
 agreeingly
 agreement
 agreements
-abrogate
 agregation
 aktivismus
 antinomic
@@ -8106,6 +8105,7 @@ alienee
 auctors
 antisiccative
 alienigenate
+abrogate
 acetannin
 apadana
 academicals
