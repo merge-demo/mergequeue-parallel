@@ -232,7 +232,6 @@ characterizes
 cachectic
 cachectical
 cached
-cluster
 codeposit
 commemorational
 corregidor
@@ -27205,6 +27204,7 @@ countervenom
 countervindication
 countervolley
 chymiferous
+cluster
 confederatio
 centrarchoid
 correlation
