@@ -17765,7 +17765,6 @@ cockscombs
 cocksfoot
 coco
 cocoach
-campuses
 chasing
 cocoas
 cocoawood
@@ -24195,6 +24194,7 @@ convinced
 claw
 collocutory
 cruddy
+campuses
 crepeiest
 cornichon
 comedial
