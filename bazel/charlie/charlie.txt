@@ -2184,6 +2184,7 @@ cretinizing
 comacine
 campstool
 camptonite
+cloghead
 camptosorus
 cabaan
 campus
@@ -16573,7 +16574,6 @@ cheddite
 cygneous
 cnidosac
 cloghaun
-cloghead
 carboxyl
 cowsharn
 cosmos

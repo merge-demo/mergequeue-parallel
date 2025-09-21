@@ -4744,6 +4744,7 @@ believableness
 baboons
 badmouth
 branchia
+bezzle
 bribe
 brazenface
 bikh
@@ -7631,7 +7632,6 @@ barged
 boatbuilder
 brummy
 bountiousness
-bezzle
 boucher
 brachydactylous
 becrawl
