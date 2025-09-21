@@ -13474,6 +13474,7 @@ dehepatize
 dynamotor
 diplography
 dauting
+diamonds
 dairymaid
 dippable
 diatomite
@@ -16971,7 +16972,6 @@ distemperment
 descriptory
 dreadly
 dreadlocks
-diamonds
 dingeing
 disinherit
 disport
