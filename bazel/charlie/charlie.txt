@@ -27349,6 +27349,7 @@ cosmology
 coursers
 courses
 churches
+curteous
 coursing
 court
 carriers
@@ -31576,7 +31577,6 @@ checkable
 coadunatively
 christianizing
 chaperonless
-curteous
 curter
 centillion
 cordaitales
