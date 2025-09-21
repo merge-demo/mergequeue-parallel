@@ -11489,7 +11489,6 @@ choiceness
 caryatides
 cableway
 choil
-chymistry
 choiler
 chicquing
 choired
@@ -21347,6 +21346,7 @@ cupronickel
 concertmeister
 concertment
 communally
+chymistry
 contempt
 concerts
 concessible
