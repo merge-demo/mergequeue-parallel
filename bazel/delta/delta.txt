@@ -5361,7 +5361,6 @@ drub
 demonio
 donnees
 dalapon
-dwines
 dawned
 denting
 demagogically
@@ -13594,6 +13593,7 @@ dracontine
 devilizing
 dissheathed
 deliciousness
+dwines
 disship
 disshiver
 deletory
