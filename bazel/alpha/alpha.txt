@@ -6147,7 +6147,6 @@ agricere
 alliteratively
 antisepsin
 aerage
-apolline
 anamorphoses
 anacoluttha
 anticlassicism
@@ -15910,6 +15909,7 @@ anoa
 antirennin
 archiepiscopally
 antirenter
+apolline
 ambitious
 agonise
 acinacious
