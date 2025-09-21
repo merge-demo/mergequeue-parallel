@@ -8251,7 +8251,6 @@ delinquency
 dauby
 dragooning
 dactylic
-downlie
 drabbets
 diacranterian
 dicyema
@@ -13384,6 +13383,7 @@ disquiparancy
 dibber
 dissentients
 divorced
+downlie
 diffidentness
 deliverymen
 disquisit
