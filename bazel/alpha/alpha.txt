@@ -5339,7 +5339,6 @@ aftercost
 anatine
 aftercrop
 amebicidal
-acanthodian
 altercating
 aftercure
 afterdays
@@ -5749,6 +5748,7 @@ auge
 aggrading
 arsenical
 aggrammatism
+acanthodian
 approachability
 aggrandised
 aphonics

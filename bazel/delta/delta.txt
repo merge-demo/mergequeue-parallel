@@ -503,7 +503,6 @@ dairying
 dilleniaceous
 dale
 dolichoglossus
-deerhound
 daledh
 dankali
 dafter
@@ -12665,6 +12664,7 @@ dawts
 darraign
 dermatropic
 dextroses
+deerhound
 didy
 daltonism
 dyskeratosis
