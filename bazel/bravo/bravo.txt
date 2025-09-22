@@ -12162,7 +12162,6 @@ blaff
 beaumontia
 broses
 borofluoride
-blarneyed
 boletes
 byrled
 brabbler
@@ -18092,6 +18091,7 @@ buskin
 brawlys
 butling
 butcherer
+blarneyed
 blobbier
 bureaucrats
 bereaves
