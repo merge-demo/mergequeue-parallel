@@ -8494,6 +8494,7 @@ champagning
 chockman
 champagnize
 charterage
+consumer
 cardiogenic
 cesurae
 champak
@@ -30140,7 +30141,6 @@ crubeen
 cruce
 crucethouse
 crucial
-consumer
 contraceptionist
 cruciality
 crucially
