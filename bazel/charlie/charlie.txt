@@ -3537,7 +3537,6 @@ catechized
 collator
 capture
 captures
-capturing
 capuan
 chammies
 capuched
@@ -31850,6 +31849,7 @@ cutireaction
 corymb
 cutisector
 cutises
+capturing
 cauliculi
 cutiterebra
 coapprentice
