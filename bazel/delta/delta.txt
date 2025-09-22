@@ -2061,7 +2061,6 @@ dinornis
 divebomb
 daggered
 dearling
-diamonding
 denationalized
 diplococcal
 daucus
@@ -13671,6 +13670,7 @@ diplasion
 demetrian
 debarbarization
 deadhand
+diamonding
 deadfall
 debeak
 dissite
