@@ -9762,7 +9762,6 @@ biteche
 barbicans
 bowdlerization
 balawa
-beamy
 brassica
 bromouracil
 biters
@@ -9828,6 +9827,7 @@ bewhisker
 barnacles
 beneficiaries
 biaxially
+beamy
 bitser
 birled
 brotherly

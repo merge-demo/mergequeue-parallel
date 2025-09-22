@@ -11215,6 +11215,7 @@ amphithura
 amphipnous
 ayuntamientos
 autoclasis
+apetalousness
 attaste
 assimilation
 anticodon
@@ -14889,7 +14890,6 @@ anticlinorium
 anticritical
 anticritically
 astrose
-apetalousness
 attestant
 anticrochet
 antics
