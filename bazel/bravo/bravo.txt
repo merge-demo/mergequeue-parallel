@@ -6593,7 +6593,6 @@ bemixes
 burlies
 berigora
 beryl
-balanite
 beryllonate
 berimed
 beseemly
@@ -14372,6 +14371,7 @@ braincap
 boletaceae
 brachiferous
 bensel
+balanite
 bestial
 baradari
 blastomycosis
