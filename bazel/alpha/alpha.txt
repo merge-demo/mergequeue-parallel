@@ -9687,7 +9687,6 @@ amanuensis
 ainsell
 arryish
 acusection
-astoned
 arrivederci
 aptal
 attornment
@@ -11550,6 +11549,7 @@ assuror
 anaemotropy
 allotropy
 astrometeorologist
+astoned
 adages
 anaerobation
 acrocentric
