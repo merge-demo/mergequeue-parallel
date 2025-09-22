@@ -10064,6 +10064,7 @@ avulsion
 ambulator
 ambulatory
 ambulatoria
+amoeboid
 affluent
 affectious
 analyzability
@@ -16369,7 +16370,6 @@ aoul
 antioxidant
 ampholyte
 anxiousness
-amoeboid
 antifogmatic
 agalactia
 aob
