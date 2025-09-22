@@ -280,7 +280,6 @@ cacidrosis
 coreopsis
 cacimbo
 cacimbos
-carrie
 caciques
 carriageable
 cosmolined
@@ -9305,6 +9304,7 @@ chattermag
 caprification
 chattermagging
 chatters
+carrie
 chatti
 cuspidors
 chairmending
