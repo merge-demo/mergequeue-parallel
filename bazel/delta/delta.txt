@@ -2238,7 +2238,6 @@ dreich
 derivedly
 diatomaceae
 descriptions
-diogenic
 desultoriness
 desray
 decasualise
@@ -10533,6 +10532,7 @@ decentest
 depressants
 derogator
 defected
+diogenic
 dimeric
 discourtesy
 danaan
