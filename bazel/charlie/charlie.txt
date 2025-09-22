@@ -13030,7 +13030,6 @@ cyanohermidin
 crystallographic
 cynghanedd
 cyanometer
-chosen
 cuneate
 camaile
 chiasmatypy
@@ -19687,6 +19686,7 @@ cornhole
 centimolar
 chromaticism
 columellar
+chosen
 counteraffirmation
 columellia
 columels
