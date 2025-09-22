@@ -6035,6 +6035,7 @@ chromamamin
 caddle
 catnaps
 catnep
+clr
 chilotomy
 catnip
 comical
@@ -24480,7 +24481,6 @@ claquer
 copaifera
 cupfuls
 cannular
-clr
 carafes
 courtliness
 copalite
