@@ -4580,7 +4580,6 @@ demihagbut
 demihaque
 demijambe
 discriminant
-dishrags
 dukhobor
 dynastically
 doegling
@@ -10844,6 +10843,7 @@ diluteness
 diseur
 directionalize
 directionally
+dishrags
 dottiness
 dhan
 directly
