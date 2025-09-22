@@ -12227,6 +12227,7 @@ andromache
 andromaque
 arborizes
 andromed
+abstracting
 andromeda
 andromedotoxin
 amalekite
@@ -20185,7 +20186,6 @@ argand
 arrivage
 arriet
 austerity
-abstracting
 antoniniani
 arrimby
 aphides
