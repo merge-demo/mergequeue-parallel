@@ -1974,6 +1974,7 @@ apperceptively
 achape
 achaque
 acharya
+arteriole
 autoimmune
 acharne
 afrikander
@@ -2253,7 +2254,6 @@ anticommercialist
 acidulously
 achete
 acidurias
-arteriole
 aulacodus
 acierate
 androcles
