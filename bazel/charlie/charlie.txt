@@ -10130,7 +10130,6 @@ carmagnoles
 collaudation
 corallorhiza
 conines
-chestnut
 chestnuts
 chet
 cheth
@@ -12557,6 +12556,7 @@ chromoptometer
 chromoptometrical
 convalesced
 coadjacency
+chestnut
 capacitances
 coobah
 condensate
