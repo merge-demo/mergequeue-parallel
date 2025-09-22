@@ -3284,7 +3284,6 @@ anthomyiid
 addicent
 addicted
 akroterion
-addictions
 ampassy
 addictives
 abodah
@@ -21603,6 +21602,7 @@ asseize
 assemblable
 assemblance
 aphthous
+addictions
 assemble
 added
 assembled
