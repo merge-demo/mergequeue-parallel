@@ -4398,6 +4398,7 @@ djerib
 dowse
 divelling
 dispersedness
+decree
 dinical
 demaree
 dying
@@ -17370,7 +17371,6 @@ dielike
 defoul
 ddname
 decrypts
-decree
 disrelated
 devolvement
 dysgeogenous
