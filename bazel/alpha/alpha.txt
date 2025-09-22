@@ -1242,6 +1242,7 @@ autarchoglossa
 antirrhinum
 androlepsia
 asleep
+anthradiol
 amay
 aftercome
 apochae
@@ -14250,7 +14251,6 @@ anthracothere
 anthracotherium
 acoustic
 anthracotic
-anthradiol
 anthraflavic
 autoecism
 abandonable
