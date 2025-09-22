@@ -5335,7 +5335,6 @@ chifforobes
 counteract
 clothesman
 chimerical
-citator
 censures
 crizzling
 castellanies
@@ -18145,6 +18144,7 @@ coenobe
 chaffered
 coenoby
 concludency
+citator
 coadjutement
 cissoid
 chylomicron
