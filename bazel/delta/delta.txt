@@ -13405,7 +13405,6 @@ disregarded
 drumskin
 disregardfulness
 dingbat
-deforests
 dramatise
 disreport
 daring
@@ -16889,6 +16888,7 @@ doucepere
 disallowances
 deti
 deemphasizing
+deforests
 dechlorinate
 dissuited
 draconian
