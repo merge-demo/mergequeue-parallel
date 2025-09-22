@@ -6884,6 +6884,7 @@ diabolically
 dishcross
 differently
 door
+declivate
 descamisados
 desolated
 dealbation
@@ -16767,7 +16768,6 @@ dynamitist
 detractor
 dramatisable
 dramatiser
-declivate
 duret
 dabble
 deliberalize
