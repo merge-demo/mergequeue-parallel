@@ -3727,6 +3727,7 @@ buhr
 bimestrial
 battlewagon
 bovver
+bayish
 bevoiled
 beautifully
 bibliothque
@@ -4272,7 +4273,6 @@ bacterized
 brabbled
 blindish
 bacterious
-bayish
 bootlessness
 bebreech
 bugfish
