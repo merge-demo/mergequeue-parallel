@@ -12549,7 +12549,6 @@ advocateship
 awed
 angerona
 angeronalia
-angers
 angevin
 automobilist
 anacatadidymus
@@ -16684,6 +16683,7 @@ abos
 abreuvoir
 actuator
 aphorizes
+angers
 artifactually
 ancienter
 approve
