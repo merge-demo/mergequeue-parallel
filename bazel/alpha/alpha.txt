@@ -5591,7 +5591,6 @@ agaricaceous
 armadillo
 agaricoid
 agarics
-agaricus
 anaesthesiology
 acknew
 auscultascope
@@ -5668,6 +5667,7 @@ ave
 agendas
 ankylosaur
 agene
+agaricus
 ageneses
 antimeter
 agenesis

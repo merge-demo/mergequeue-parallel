@@ -11595,6 +11595,7 @@ duppy
 dependableness
 disconnectedness
 disconnector
+digredient
 dhurnas
 demicannon
 denotable
@@ -13516,7 +13517,6 @@ dalmatians
 dendritically
 distributival
 darlings
-digredient
 depeopling
 disseminative
 dissension
