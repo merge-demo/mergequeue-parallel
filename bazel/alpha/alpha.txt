@@ -777,7 +777,6 @@ apptd
 algarot
 auguration
 additur
-assault
 abstruse
 antibank
 abs
@@ -17537,6 +17536,7 @@ appreciator
 almandite
 apperceptionism
 apperceptionist
+assault
 annihilatory
 appersonation
 appersonification
