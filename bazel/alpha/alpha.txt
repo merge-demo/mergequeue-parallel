@@ -6748,7 +6748,6 @@ aventine
 alferez
 anthraquinol
 adelphoi
-aleutic
 airview
 acanthodidae
 acrodromous
@@ -10738,6 +10737,7 @@ arctiidae
 acromegaly
 ammonitess
 ammonitic
+aleutic
 amphi
 alterer
 ammonitoid
