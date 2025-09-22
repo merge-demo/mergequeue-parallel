@@ -4300,7 +4300,6 @@ digallate
 delustering
 deceleration
 deceptible
-dragontail
 dermatopathology
 demimillionaire
 delver
@@ -11509,6 +11508,7 @@ daresay
 disaccharid
 discoideae
 debriding
+dragontail
 diaporthe
 devisings
 decencies
