@@ -12459,7 +12459,6 @@ dislocable
 diastematic
 demarcated
 decentred
-dishtowels
 detrital
 dishumanize
 deipnodiplomatic
@@ -15807,6 +15806,7 @@ deflectometer
 dolcissimo
 diphosphid
 dubs
+dishtowels
 denunciation
 denunciator
 dissoluteness
