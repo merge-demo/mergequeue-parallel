@@ -1933,7 +1933,6 @@ astigmatizer
 autosuggestions
 agynous
 anticipatory
-aurocyanide
 ambrosterol
 aswirl
 aerobiont
@@ -10733,6 +10732,7 @@ arctiidae
 acromegaly
 ammonitess
 ammonitic
+aurocyanide
 amphi
 alterer
 ammonitoid

@@ -16833,7 +16833,6 @@ divulsive
 delphinoidea
 decastylos
 darg
-dactylus
 dodecagon
 decrials
 douching
@@ -18450,6 +18449,7 @@ disharmonious
 deanthropomorphize
 downrush
 dukkha
+dactylus
 duplexers
 dietotherapy
 duplication
