@@ -11494,7 +11494,6 @@ bluish
 blumes
 buccellarius
 benighting
-blunderbuss
 bestare
 breme
 beachie
@@ -12380,6 +12379,7 @@ bonang
 bonapartism
 bigotries
 betterly
+blunderbuss
 brum
 brownest
 barrenness
