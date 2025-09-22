@@ -608,7 +608,6 @@ disfavouring
 disjointedness
 dominated
 devotedly
-disintegrations
 damfool
 div
 depressively
@@ -9084,6 +9083,7 @@ deary
 dictature
 dihexahedral
 dorsals
+disintegrations
 dictyoid
 diction
 diphyodont
