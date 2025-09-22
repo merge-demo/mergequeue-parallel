@@ -10855,6 +10855,7 @@ desugared
 deposable
 dissilience
 deificatory
+deflectional
 direfully
 deepener
 decagramme
@@ -15042,7 +15043,6 @@ dubbeh
 dihydrostreptomycin
 debasing
 disbudding
-deflectional
 dogboat
 diffusor
 diathermacy
