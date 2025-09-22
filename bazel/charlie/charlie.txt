@@ -16917,7 +16917,6 @@ cionocranian
 clubwomen
 corybantine
 cluck
-cyclas
 clawers
 chinches
 cypselae
@@ -31535,6 +31534,7 @@ cursives
 chromosomes
 cursorary
 cundite
+cyclas
 cursory
 cuproid
 cursorily
