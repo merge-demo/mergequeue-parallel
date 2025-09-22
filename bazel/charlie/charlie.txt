@@ -25412,7 +25412,6 @@ cornua
 cliency
 comdt
 combos
-cornual
 conditionally
 cornuated
 carnivora
@@ -27251,6 +27250,7 @@ countrify
 counterpoles
 crebrity
 cohoshes
+cornual
 complies
 cephalanthous
 chlorophane
