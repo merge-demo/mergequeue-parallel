@@ -13779,6 +13779,7 @@ dindle
 distain
 distance
 denumeration
+dermochelys
 drumroll
 descried
 doddard
@@ -18428,7 +18429,6 @@ dockization
 ditchbur
 dactylioglyphist
 downhauls
-dermochelys
 detectible
 delichon
 dialysepalous
