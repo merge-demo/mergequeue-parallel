@@ -4429,6 +4429,7 @@ amphibious
 advising
 accustom
 anaclasis
+achromatocyte
 antechapel
 aix
 adlumine
@@ -18642,7 +18643,6 @@ aerography
 albania
 archegonial
 amative
-achromatocyte
 archegosaurus
 anorak
 atavistically
