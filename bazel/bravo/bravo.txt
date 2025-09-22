@@ -3875,6 +3875,7 @@ bawl
 bevelment
 bawler
 brutalitarian
+bergamask
 biti
 bimorph
 bandor
@@ -6558,7 +6559,6 @@ billethead
 bergall
 becrimes
 bergamasche
-bergamask
 butsu
 bergamo
 blastoma
