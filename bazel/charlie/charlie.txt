@@ -5671,6 +5671,7 @@ catcaller
 carburising
 conceptus
 corey
+coralliform
 catched
 catcher
 coccidioides
@@ -24868,7 +24869,6 @@ corallic
 corallidae
 corallidomous
 chestful
-coralliform
 cobreathe
 ciderist
 coralligena
