@@ -6807,6 +6807,7 @@ diaconate
 decompositional
 desklike
 diphrelatic
+drawpoint
 dunks
 deskman
 desks
@@ -8008,7 +8009,6 @@ docetically
 disincorporation
 drowse
 diagnosticated
-drawpoint
 defease
 dextroglucose
 distensive

@@ -14990,7 +14990,6 @@ cinquain
 cycler
 cytozzoa
 curucanecan
-coelacanthoid
 chippable
 cambaye
 citramontane
@@ -25680,6 +25679,7 @@ coppiced
 circumrotating
 correspond
 charcutiers
+coelacanthoid
 correspondence
 correspondency
 congelation
