@@ -4450,7 +4450,6 @@ bronchiectatic
 bisulphite
 bluenose
 bornites
-becroak
 bedead
 becross
 bureaucratism
@@ -5604,6 +5603,7 @@ bardesanist
 bytime
 brasiers
 bong
+becroak
 botrycymose
 bocher
 buffa
