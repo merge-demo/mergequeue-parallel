@@ -3296,7 +3296,6 @@ alterum
 addisoniana
 addita
 abiliment
-anapleroses
 additiment
 amil
 amarillos
@@ -5041,6 +5040,7 @@ abelian
 affability
 arrisways
 affable
+anapleroses
 ambilaevous
 affaite
 affect
