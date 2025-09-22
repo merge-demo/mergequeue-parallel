@@ -8050,6 +8050,7 @@ adermia
 anthropogenist
 amishgo
 abyssal
+atbash
 alichino
 anarchial
 aluminise
@@ -13144,7 +13145,6 @@ anisopetalous
 abassin
 annoyed
 anisophyllous
-atbash
 apace
 ataraxias
 asseverated
