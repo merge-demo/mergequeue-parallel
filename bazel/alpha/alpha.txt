@@ -6630,7 +6630,6 @@ airglow
 agawam
 airglows
 airgraphics
-anisometropia
 airhead
 amorosa
 auricularly
@@ -10948,6 +10947,7 @@ amotions
 angiomatosis
 aubade
 anecdotical
+anisometropia
 appreciatorily
 attitudinized
 antiglare
