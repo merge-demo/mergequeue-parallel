@@ -5577,6 +5577,7 @@ beladying
 buzzwig
 bayz
 buccaneers
+bromisms
 belah
 belaying
 biconical
@@ -11433,7 +11434,6 @@ bluepoint
 bluepoints
 blazingly
 blameably
-bromisms
 bluesmen
 bluestems
 beguiles
