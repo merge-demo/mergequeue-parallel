@@ -4966,6 +4966,7 @@ cust
 costrel
 chiclero
 curcuma
+chasers
 canalman
 conceptuality
 cartulary
@@ -13365,7 +13366,6 @@ concurrent
 cyclostyle
 crotchwood
 cyclostoma
-chasers
 cytinus
 capon
 carnivores
