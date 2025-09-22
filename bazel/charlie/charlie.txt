@@ -9460,7 +9460,6 @@ chatteration
 commendatory
 cheapest
 cheapish
-cheaply
 cladoselachea
 cheare
 carpodacus
@@ -10025,6 +10024,7 @@ chermes
 cassidinae
 creamcake
 chemosorption
+cheaply
 chermish
 cocopans
 chernites
