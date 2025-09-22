@@ -14499,7 +14499,6 @@ bahan
 branchiomeric
 bombsights
 babroot
-beadle
 branchiae
 bradyglossia
 belittler
@@ -17452,6 +17451,7 @@ banjulele
 bullragged
 bucketshop
 burbot
+beadle
 bougar
 boat
 beata
