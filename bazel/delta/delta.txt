@@ -2793,7 +2793,6 @@ dictionary
 deprivers
 decretorian
 dithymol
-defi
 deferred
 declarator
 decried
@@ -16178,6 +16177,7 @@ dother
 doughiest
 drawlingness
 dolmen
+defi
 doughiness
 disorganised
 dwindle
