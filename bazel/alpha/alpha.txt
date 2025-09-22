@@ -6410,7 +6410,6 @@ aphroditeum
 affirms
 adambulacral
 ambrology
-aigret
 atramental
 axmanship
 aureately
@@ -23349,6 +23348,7 @@ agitable
 ancientism
 antihypochondriac
 auger
+aigret
 augerer
 anticontagion
 anointer
