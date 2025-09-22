@@ -1229,6 +1229,7 @@ boules
 brownstones
 bromobenzyl
 beanbag
+bistorts
 bakersfield
 bakes
 belis
@@ -17590,7 +17591,6 @@ brumes
 bovidae
 bunchflower
 burgomasters
-bistorts
 balladwise
 bhakta
 bickerers
