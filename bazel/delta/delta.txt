@@ -14067,6 +14067,7 @@ distringas
 dishonesty
 dir
 descendents
+detour
 decarhinus
 deflected
 distritbuting
@@ -16344,7 +16345,6 @@ drumsler
 dorsoventrality
 decangular
 dulc
-detour
 downiest
 downiness
 downingia
