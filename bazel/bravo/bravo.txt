@@ -1817,7 +1817,6 @@ bullose
 bialystoker
 bayed
 bandaging
-bilamellated
 bowlin
 benedictionale
 bathoses
@@ -4884,6 +4883,7 @@ beefwoods
 burgees
 bairnliness
 badchan
+bilamellated
 bouncing
 bandy
 barkantine
