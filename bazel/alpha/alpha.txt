@@ -5112,7 +5112,6 @@ apery
 aeoline
 ampitheater
 attackable
-arteria
 alingual
 antihierarchal
 anapophysial
@@ -13702,6 +13701,7 @@ apidae
 aslake
 anoxemia
 antistrophe
+arteria
 altiplanicie
 algarrobin
 anoxemias
