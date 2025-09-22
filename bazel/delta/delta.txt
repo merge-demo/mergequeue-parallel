@@ -2590,7 +2590,6 @@ deoxygenation
 decodon
 diswarrened
 decoherence
-draffy
 dacoitage
 dita
 diadema
@@ -5606,6 +5605,7 @@ diamine
 doctrinable
 disconvenience
 demonstratability
+draffy
 desmognathae
 deperdite
 domain
