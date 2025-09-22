@@ -6677,7 +6677,6 @@ dk
 dilatations
 dactylis
 dioptres
-dreche
 derision
 davenport
 diminutely
@@ -16782,6 +16781,7 @@ dramaturgically
 diphtheritic
 decreement
 dramme
+dreche
 discurrent
 designative
 definers
