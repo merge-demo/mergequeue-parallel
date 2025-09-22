@@ -6386,6 +6386,7 @@ carbarns
 cautiously
 coffeecakes
 cloister
+compatibly
 cav
 ceratites
 ciboules
@@ -26627,7 +26628,6 @@ compilation
 calcaneotibial
 chancefully
 chirre
-compatibly
 chilognatha
 churly
 cottonweed
