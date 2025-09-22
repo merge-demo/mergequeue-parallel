@@ -9105,7 +9105,6 @@ allophylic
 alnitak
 attry
 assassins
-alnitham
 aggro
 alniviridol
 auriphrygia
@@ -20258,6 +20257,7 @@ abortifacient
 adenectopic
 arrows
 arrowsmith
+alnitham
 arrowworm
 alcyon
 arroz
