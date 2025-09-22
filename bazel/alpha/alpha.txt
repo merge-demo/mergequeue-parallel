@@ -7367,7 +7367,6 @@ alloplasm
 albuminoscope
 anatole
 afterpiece
-acanthoma
 anonyms
 albuminous
 albumins
@@ -23389,6 +23388,7 @@ avianizing
 aerographics
 antiprelate
 achroma
+acanthoma
 amicus
 august
 augustal
