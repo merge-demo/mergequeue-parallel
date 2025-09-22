@@ -855,7 +855,6 @@ blubbing
 bushed
 baga
 benzenoid
-bloman
 buttonhole
 bakli
 bromodeoxyuridine
@@ -6329,6 +6328,7 @@ benedight
 benzophthalazine
 breakup
 bolimba
+bloman
 bembecidae
 benzil
 bibby
