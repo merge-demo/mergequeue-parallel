@@ -19896,6 +19896,7 @@ aryballos
 armplate
 armrack
 azans
+anargyros
 afterclap
 arabesques
 archantiquary
@@ -23083,7 +23084,6 @@ attingent
 acetimetric
 anisognathous
 apple
-anargyros
 adaptors
 accelerations
 attitudinise
