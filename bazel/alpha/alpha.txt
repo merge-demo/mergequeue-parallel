@@ -19453,6 +19453,7 @@ asynchronous
 acolyth
 aramayoite
 accede
+acroterium
 argumentator
 adjacency
 ariana
@@ -20511,7 +20512,6 @@ apronful
 aerogenous
 azrael
 anonymity
-acroterium
 arthrogryposis
 arthrolith
 aedegi
