@@ -1865,6 +1865,7 @@ cambridge
 catostomidae
 chaumer
 cajava
+crizzle
 cambuca
 cambuscan
 camel
@@ -21803,7 +21804,6 @@ colonic
 coleuses
 clumproot
 chimarikan
-crizzle
 condolers
 camden
 condoles
