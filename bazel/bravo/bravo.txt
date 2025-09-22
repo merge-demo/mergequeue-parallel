@@ -7278,7 +7278,6 @@ bassness
 bookmaker
 bethorning
 barranco
-buffcoat
 beckiron
 barly
 blanketmaking
@@ -7286,6 +7285,7 @@ basest
 blastodisk
 bicuspidate
 biorhythmicities
+buffcoat
 bethorns
 befogs
 blackbirds
