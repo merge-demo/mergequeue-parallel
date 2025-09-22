@@ -11419,7 +11419,6 @@ anabasin
 archaeopteryx
 ageists
 alfakis
-anabasine
 adenotomic
 anabasse
 aldermanly
@@ -23327,6 +23326,7 @@ attitudinarian
 alvina
 alleviaters
 auditorium
+anabasine
 addition
 anagrammatist
 alginate
