@@ -16665,7 +16665,6 @@ disassociates
 drosophilae
 dispromise
 dragonesque
-daphnis
 davach
 distr
 demibarrel
@@ -18246,6 +18245,7 @@ dunelike
 derivates
 doeglic
 deputative
+daphnis
 dasycladaceae
 dulling
 duramen
