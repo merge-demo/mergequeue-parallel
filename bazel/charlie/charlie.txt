@@ -3306,7 +3306,6 @@ cavilling
 cotyledon
 concavely
 calabash
-caponise
 captivate
 chrystocrene
 caltrap
@@ -25148,6 +25147,7 @@ counterbreastwork
 corybantish
 corycavidine
 crybaby
+caponise
 corydalin
 corydine
 consolate
