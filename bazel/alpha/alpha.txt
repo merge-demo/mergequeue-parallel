@@ -14085,7 +14085,6 @@ antesternal
 antesternum
 antesuperior
 arboretums
-antetemple
 antetypes
 avowance
 autovalet
@@ -25209,6 +25208,7 @@ aivers
 allelvia
 attentat
 anticlericalist
+antetemple
 azafran
 angiocyst
 acast
