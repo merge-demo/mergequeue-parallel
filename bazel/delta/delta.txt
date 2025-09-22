@@ -2284,6 +2284,7 @@ disthroning
 deflex
 deciares
 durian
+demerse
 douser
 domineerer
 demnition
@@ -14340,7 +14341,6 @@ densimeter
 desoxyribose
 dishallucination
 decimestrial
-demerse
 dimyary
 dissonant
 diuranate
