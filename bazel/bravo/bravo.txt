@@ -4561,7 +4561,6 @@ bedbugs
 bladelike
 birdclapper
 bedchairs
-bellowing
 bryophyte
 branchial
 brachelytrous
@@ -17862,6 +17861,7 @@ belabour
 bushelling
 boopis
 busher
+bellowing
 bacilliculture
 bushfighting
 buna
