@@ -12603,7 +12603,6 @@ chronologer
 circularize
 chronological
 caelometer
-chronologies
 coalternative
 coexchangeable
 chantecler
@@ -20407,6 +20406,7 @@ cuarta
 contumeliousness
 choruser
 coeloblastula
+chronologies
 chinniest
 couseranite
 croquette
