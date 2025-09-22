@@ -12251,6 +12251,7 @@ actinides
 androsphinx
 aplanospore
 androsporangium
+aminopropionic
 auriculoventricular
 androsterone
 ayens
@@ -16229,7 +16230,6 @@ antivenins
 antipathist
 amphilogism
 adorant
-aminopropionic
 antivibrating
 animalisation
 antivibrator
