@@ -9513,6 +9513,7 @@ chaetites
 checker
 checkerbelly
 checkerbellies
+cacoxene
 carthame
 checkerberry
 checkerberries
@@ -17610,7 +17611,6 @@ correctitude
 cognised
 coccidioidal
 corvina
-cacoxene
 coccidiosis
 coccidium
 coccidology
