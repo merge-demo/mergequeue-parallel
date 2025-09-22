@@ -10744,6 +10744,7 @@ callings
 chinaware
 chinawoman
 chagul
+coherer
 chinch
 chinche
 choise
@@ -18571,7 +18572,6 @@ containment
 cinenchyma
 coherent
 coggie
-coherer
 cecidomyiidae
 cohering
 chondrosarcomas
