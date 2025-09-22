@@ -9666,6 +9666,7 @@ aldoketene
 aspergillums
 antifungal
 arteriectomy
+autopneumatic
 aeroplane
 aposthia
 arginases
@@ -14594,7 +14595,6 @@ antibubonic
 antibug
 agglutinize
 amate
-autopneumatic
 archmilitarist
 antenoon
 anticachectic
