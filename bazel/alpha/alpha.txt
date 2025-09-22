@@ -1311,7 +1311,6 @@ acephalite
 azote
 actinopoda
 aphorized
-ajitter
 aqueducts
 antiphilosophical
 accelerators
@@ -22515,6 +22514,7 @@ atheris
 ambash
 athermancy
 ammonite
+ajitter
 assonances
 abeyances
 antihormone
