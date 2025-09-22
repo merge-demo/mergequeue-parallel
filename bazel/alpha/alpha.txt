@@ -11964,7 +11964,6 @@ acosmist
 anatripsis
 accoucheuse
 anatripsology
-antimagistratical
 aerotechnics
 aneretic
 assignable
@@ -22134,6 +22133,7 @@ anomalism
 archaeolith
 adiamorphism
 arhat
+antimagistratical
 antimissile
 azoeosin
 aetheogamic
