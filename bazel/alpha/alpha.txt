@@ -6896,7 +6896,6 @@ astrobiologies
 akhara
 andante
 acalypha
-astasia
 antigay
 akhissar
 agaricin
@@ -17612,6 +17611,7 @@ antidotism
 applewoman
 adopts
 apply
+astasia
 adjacencies
 appliance
 apocentre
