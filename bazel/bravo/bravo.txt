@@ -5813,7 +5813,6 @@ bunty
 beavery
 banquo
 backlashed
-bachel
 barbarianize
 basinerved
 buckbrush
@@ -8986,6 +8985,7 @@ besmuts
 bion
 beguard
 byon
+bachel
 bilimbi
 brasqued
 bionditional
