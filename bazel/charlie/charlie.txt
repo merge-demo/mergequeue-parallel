@@ -11480,7 +11480,6 @@ chogset
 counteractant
 cussed
 choy
-choiceful
 cantatrici
 consumers
 cyclitols
@@ -31566,6 +31565,7 @@ curtal
 cuddles
 cobdenism
 curtalaxes
+choiceful
 curtana
 coho
 curtate
