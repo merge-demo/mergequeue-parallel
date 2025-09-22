@@ -6837,7 +6837,6 @@ albumosuria
 akal
 akalimba
 akamai
-akan
 akania
 alikewise
 amicable
@@ -17821,6 +17820,7 @@ anachronist
 approbating
 approbations
 approbative
+akan
 approof
 augurous
 appropinquate
