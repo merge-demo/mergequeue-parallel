@@ -3697,7 +3697,6 @@ dispositions
 dixit
 disoccupied
 dehorn
-didepside
 dealbuminize
 dreadful
 distilment
@@ -6543,6 +6542,7 @@ described
 dolous
 divorce
 descries
+didepside
 dodgers
 descript
 descriptionless
