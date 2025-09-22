@@ -10424,7 +10424,6 @@ diphenylenimine
 driveller
 dahabiah
 diaphonic
-ditcher
 demivierge
 dogmatic
 decomposable
@@ -13323,6 +13322,7 @@ disputation
 disconnected
 disannulment
 dodecaphonist
+ditcher
 disputatiously
 disputatiousness
 dewatered
