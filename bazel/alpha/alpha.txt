@@ -4118,7 +4118,6 @@ adreamt
 adenalgia
 alabamian
 appoint
-azophosphore
 adrenalcortical
 arillodium
 adrenalectomize
@@ -17596,6 +17595,7 @@ applaudably
 alloxans
 ancyroid
 allicin
+azophosphore
 applauders
 arsine
 aporias
