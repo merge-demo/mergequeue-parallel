@@ -5682,7 +5682,6 @@ blankite
 budge
 bushongo
 brerd
-burgess
 belight
 budgers
 booklike
@@ -15240,6 +15239,7 @@ boanthropy
 bighead
 bordarius
 bursa
+burgess
 batrachidae
 brailled
 burds
