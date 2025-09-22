@@ -7881,6 +7881,7 @@ bepimpled
 beards
 bargains
 blueings
+baguets
 bibliopole
 birdieback
 biolytic
@@ -12603,7 +12604,6 @@ bagels
 broomstick
 busy
 bioherms
-baguets
 brasque
 beleaguerment
 bumming
