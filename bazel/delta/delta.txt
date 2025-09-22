@@ -7918,7 +7918,6 @@ dioestrus
 dewdropper
 dhaura
 drank
-distractile
 dogteeth
 drillet
 deweylite
@@ -11799,6 +11798,7 @@ dosserets
 diplosphene
 dorsoventrally
 deinodon
+distractile
 discriminating
 decarboxylation
 dacryuria
