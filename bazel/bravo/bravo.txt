@@ -15611,7 +15611,6 @@ brachypinacoid
 bilertinned
 butyric
 broadsider
-begroaned
 broadsides
 broadsword
 bejig
@@ -16588,6 +16587,7 @@ bailpiece
 bloodspiller
 busker
 blarneying
+begroaned
 banalness
 blocage
 banquetings

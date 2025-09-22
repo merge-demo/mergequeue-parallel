@@ -1185,7 +1185,6 @@ caledonite
 catalina
 clape
 commissarial
-calef
 calefacient
 caudad
 coterell
@@ -12777,6 +12776,7 @@ coaxed
 concelebrating
 chumashan
 chumawi
+calef
 chummage
 chummed
 congelifract
