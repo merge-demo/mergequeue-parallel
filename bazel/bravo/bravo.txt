@@ -10980,7 +10980,6 @@ bravi
 billowy
 backstage
 brachygrapher
-batched
 besoothes
 biolite
 blips
@@ -13860,6 +13859,7 @@ blindages
 bulbourethral
 besteading
 bottomrying
+batched
 barleybird
 bang
 blastier
