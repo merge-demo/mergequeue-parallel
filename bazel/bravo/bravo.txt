@@ -7754,6 +7754,7 @@ bottomchrome
 bezante
 biallyl
 bellum
+beliquoring
 birchman
 biangulate
 bronchus
@@ -15279,7 +15280,6 @@ burial
 bandurrias
 brigatry
 brigetty
-beliquoring
 burgensic
 barret
 bulletproofed
