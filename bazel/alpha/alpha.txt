@@ -9534,7 +9534,6 @@ agrobiologic
 anticonvulsant
 aftercourse
 alumnae
-abnormal
 arrythmic
 absorbers
 amplexus
@@ -16890,6 +16889,7 @@ apocalypse
 apocalypses
 apocalypst
 adhocracy
+abnormal
 apocalypt
 ascetically
 adephagia
