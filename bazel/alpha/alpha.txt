@@ -9372,7 +9372,6 @@ algebraization
 alterers
 anglicanum
 acupunctuate
-apses
 arm
 anomorhomboidal
 alterman
@@ -12357,6 +12356,7 @@ avera
 allecret
 affined
 abrocoma
+apses
 apaturia
 attask
 adiapneustia
