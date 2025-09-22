@@ -6160,7 +6160,6 @@ aconine
 aftergood
 agrilus
 acidulates
-aureola
 abohms
 agrimony
 anaphylaxis
@@ -13670,6 +13669,7 @@ arcticized
 americanism
 arcanum
 arethusa
+aureola
 atacamite
 anorthite
 antiparalytic
