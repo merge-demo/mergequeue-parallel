@@ -7063,6 +7063,7 @@ alani
 anchors
 alanin
 animando
+authorcraft
 alanines
 alannah
 alagau
@@ -21662,7 +21663,6 @@ abattoirs
 ascogenous
 annunciator
 asserts
-authorcraft
 aphroditic
 assertum
 amynodont
