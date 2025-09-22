@@ -3340,7 +3340,6 @@ baskish
 bunya
 brontolith
 beterschap
-boller
 bollix
 burgoos
 berimes
@@ -12735,6 +12734,7 @@ bootless
 biometrician
 basanite
 bunyoro
+boller
 bookmakers
 bidarka
 bastardisation
