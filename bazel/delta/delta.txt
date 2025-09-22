@@ -7249,7 +7249,6 @@ discriminates
 dolorous
 dandiacal
 damnified
-disinhumed
 detection
 diamantiferous
 drepanid
@@ -15302,6 +15301,7 @@ dogtooth
 desize
 disfigurement
 durzee
+disinhumed
 debutants
 diazine
 dendrobium
