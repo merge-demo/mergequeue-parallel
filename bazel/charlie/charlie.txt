@@ -11895,7 +11895,6 @@ choragion
 choristers
 calashes
 chorai
-comedowns
 cranker
 covolume
 cathexes
@@ -19298,6 +19297,7 @@ convincer
 calloo
 cormels
 committeewomen
+comedowns
 cheaters
 caprioled
 collusively
