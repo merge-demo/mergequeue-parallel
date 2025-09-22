@@ -16448,6 +16448,7 @@ cliv
 cliver
 clivis
 creosol
+clavis
 clivus
 coeffects
 conclaves
@@ -24483,7 +24484,6 @@ cannular
 clr
 carafes
 courtliness
-clavis
 copalite
 copalm
 camphoric
