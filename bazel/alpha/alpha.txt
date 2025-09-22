@@ -4631,7 +4631,6 @@ agora
 abbreviator
 authoritatively
 acroconidium
-anthologizing
 ansulate
 aftermath
 asterionella
@@ -15071,6 +15070,7 @@ atomies
 antifire
 annunciated
 antiflash
+anthologizing
 anserines
 abohm
 acephalocyst
