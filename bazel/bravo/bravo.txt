@@ -1628,6 +1628,7 @@ brahms
 beauties
 balloen
 brachycephalous
+battu
 ballone
 birdcatching
 bullbird
@@ -8743,7 +8744,6 @@ bindingness
 basoche
 brewer
 betrayals
-battu
 bynedestin
 bromos
 backrests
