@@ -2967,6 +2967,7 @@ ambling
 axonemal
 amsterdam
 atmosteon
+averager
 alphonso
 agrionia
 antifeudal
@@ -9457,7 +9458,6 @@ altos
 altostratus
 altrices
 antipart
-averager
 atheism
 aeroenterectasia
 autoionization
