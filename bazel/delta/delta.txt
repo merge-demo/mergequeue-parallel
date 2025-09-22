@@ -8852,6 +8852,7 @@ dialyzable
 deg
 dichotomal
 desilver
+dobos
 dissimilation
 dibenzopyrrole
 disproportionates
@@ -14773,7 +14774,6 @@ despumate
 dobby
 distender
 distomiasis
-dobos
 dobson
 defraudment
 domini
