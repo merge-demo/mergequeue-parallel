@@ -5606,6 +5606,7 @@ antagonistical
 antismog
 archways
 amplifier
+actinostereoscopy
 ashmen
 archaizes
 apickaback
@@ -13337,7 +13338,6 @@ antisnob
 annihilationistical
 altimetry
 autocremation
-actinostereoscopy
 annihilative
 arabic
 attice
