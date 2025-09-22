@@ -8021,6 +8021,7 @@ dookit
 daemonic
 delicatessens
 designee
+dyskeratosis
 donkeyback
 dulcet
 dionaea
@@ -12642,7 +12643,6 @@ dermatropic
 dextroses
 didy
 daltonism
-dyskeratosis
 diskette
 diskography
 dvandva
