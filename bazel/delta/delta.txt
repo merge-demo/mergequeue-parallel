@@ -1912,6 +1912,7 @@ dropline
 debordment
 deboss
 detractive
+downlinking
 dimly
 distortional
 disbench
@@ -10069,7 +10070,6 @@ dedal
 dogfought
 definitization
 digoneutic
-downlinking
 disqualify
 daunton
 duchess
