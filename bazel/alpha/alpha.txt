@@ -10695,6 +10695,7 @@ alloantibody
 antirent
 apparentement
 activizing
+anthicidae
 acierage
 assized
 acarpous
@@ -14141,7 +14142,6 @@ athrepsia
 augustinianism
 affableness
 advertent
-anthicidae
 anthills
 aeroides
 acridinic
