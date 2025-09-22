@@ -24341,7 +24341,6 @@ coagulation
 cook
 cookable
 crowl
-chapeau
 creation
 charette
 chuckram
@@ -25413,6 +25412,7 @@ cliency
 comdt
 combos
 conditionally
+chapeau
 cornuated
 carnivora
 crested

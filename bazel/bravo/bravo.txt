@@ -3167,7 +3167,6 @@ blurrer
 bleakest
 bonnes
 burghemot
-bubalis
 bleat
 briskly
 beturbaned
@@ -5984,6 +5983,7 @@ bishopling
 bibliological
 biaswise
 brahmanical
+bubalis
 bedip
 bort
 bablah
