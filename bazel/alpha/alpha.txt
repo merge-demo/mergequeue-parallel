@@ -2942,7 +2942,6 @@ autacoid
 ananym
 arculite
 antichorus
-amphibolia
 actinons
 archmessenger
 abidingly
@@ -8033,6 +8032,7 @@ allopsychic
 alhenna
 alia
 atavist
+amphibolia
 aln
 alterne
 aliamenta
