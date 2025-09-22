@@ -9188,7 +9188,6 @@ antifermentative
 antrectomy
 alopeke
 alophas
-alacreatine
 alorcinic
 alosa
 artophorion
@@ -20245,6 +20244,7 @@ auditual
 arrouse
 arrowbush
 autostethoscope
+alacreatine
 archipelagic
 ayin
 arrowlet
