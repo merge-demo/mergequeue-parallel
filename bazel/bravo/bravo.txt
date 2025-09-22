@@ -9695,6 +9695,7 @@ bistipulate
 bowpots
 begumming
 bistred
+berlinite
 bindheimite
 beknights
 bradylexia
@@ -14071,7 +14072,6 @@ blackberries
 beldames
 barytine
 brachyhieric
-berlinite
 beatille
 burkites
 behaviour
