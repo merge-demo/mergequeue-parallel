@@ -12259,7 +12259,6 @@ bhisti
 bunkoed
 bowfront
 biquartz
-boltrope
 basswoods
 begrave
 blindly
@@ -13545,6 +13544,7 @@ beatermen
 beggarlice
 brunel
 biennale
+boltrope
 barhop
 bouffant
 brontesque

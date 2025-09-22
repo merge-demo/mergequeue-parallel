@@ -12313,7 +12313,6 @@ adstringe
 academian
 adelarthrosomata
 anemically
-arccosine
 adipogenic
 anemobiagraph
 anemochord
@@ -20392,6 +20391,7 @@ assalto
 adusk
 anchorages
 arterioarctia
+arccosine
 ambushment
 asg
 anticorrosively
