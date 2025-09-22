@@ -6709,7 +6709,6 @@ desyatin
 desicate
 depopulative
 dubonnets
-deindividualize
 desman
 desiderable
 distilling
@@ -9423,6 +9422,7 @@ diamin
 diffusible
 diffusibleness
 diffusing
+deindividualize
 didric
 dari
 demembration
