@@ -1388,7 +1388,6 @@ calypsoes
 curricle
 cowheel
 calypsos
-charbon
 counselorship
 chinos
 calypters
@@ -5748,6 +5747,7 @@ concourses
 catechumens
 catechumenship
 codo
+charbon
 catechutannic
 conquest
 coumarate
