@@ -3004,7 +3004,6 @@ broadshare
 bloodletter
 bimillenary
 beforested
-burrel
 baleare
 barroom
 barruly
@@ -10193,6 +10192,7 @@ bootstraps
 bituminizing
 belshazzar
 blacklegged
+burrel
 betattering
 bepuff
 blacklisted
