@@ -3127,7 +3127,6 @@ cabotage
 cape
 chequerboard
 capeadores
-capel
 chiastoneury
 capelan
 capelans
@@ -17751,6 +17750,7 @@ couched
 chemosmoic
 chromochalcography
 chromatopsia
+capel
 confraternity
 circumundulate
 cockroaches
