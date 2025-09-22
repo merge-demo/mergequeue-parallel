@@ -12251,6 +12251,7 @@ androsphinx
 aplanospore
 androsporangium
 aminopropionic
+applier
 auriculoventricular
 androsterone
 ayens
@@ -17641,7 +17642,6 @@ appliedly
 akim
 afterdischarge
 auxographic
-applier
 adoxies
 alcibiadean
 acettoluide
