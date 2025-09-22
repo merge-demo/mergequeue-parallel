@@ -8664,6 +8664,7 @@ bimaxillary
 bimbisara
 bridgemen
 barbastel
+burfish
 bracketted
 basibranchial
 bahut
@@ -15722,7 +15723,6 @@ brisling
 broletti
 bi
 benzthiophen
-burfish
 blawing
 behavioristically
 biders
