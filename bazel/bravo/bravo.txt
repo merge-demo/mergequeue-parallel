@@ -3940,7 +3940,6 @@ brickbats
 bergamasca
 borghi
 birdbanding
-bdelloura
 bdellouridae
 bdellovibrio
 butanes
@@ -14432,6 +14431,7 @@ breeds
 bowralite
 bigamy
 beardlessness
+bdelloura
 brainwave
 baguet
 beglerbeg

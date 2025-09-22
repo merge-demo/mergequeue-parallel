@@ -16247,7 +16247,6 @@ antiwarlike
 arghel
 antiwaste
 ameerate
-adscription
 ameiurus
 avanti
 abhorson
@@ -19501,6 +19500,7 @@ aquarians
 antitheses
 antemortem
 abdominohysterotomy
+adscription
 alliterativeness
 aryballus
 arybballi
