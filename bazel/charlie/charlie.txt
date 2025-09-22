@@ -2617,6 +2617,7 @@ copsing
 canephore
 canepin
 cheeseflower
+caphar
 chevet
 caner
 camelopardel
@@ -3173,7 +3174,6 @@ coverlet
 craked
 citruses
 capework
-caphar
 cognately
 corsaint
 clistogastra

@@ -15031,7 +15031,6 @@ bucorvinae
 breastplate
 beautifier
 bloodthirstier
-bowllike
 bret
 bankrolls
 bretesse
@@ -17457,6 +17456,7 @@ burbot
 bougar
 boat
 beata
+bowllike
 bidenticulate
 bullaria
 bhang
