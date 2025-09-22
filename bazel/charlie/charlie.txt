@@ -9859,7 +9859,6 @@ chemiluminescence
 chemiotactic
 chemiotaxic
 chemiotaxis
-chemiotropic
 calombo
 crackrope
 cerebropsychosis
@@ -18948,6 +18947,7 @@ credent
 chequy
 colymbus
 chelodina
+chemiotropic
 creches
 cabins
 chiefess
