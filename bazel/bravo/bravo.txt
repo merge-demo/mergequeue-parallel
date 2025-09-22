@@ -6914,6 +6914,7 @@ bogyman
 beseemed
 bhandari
 blushwort
+bowsaw
 brutage
 braless
 bite
@@ -13899,7 +13900,6 @@ bowsman
 bown
 bows
 bootjack
-bowsaw
 bowsed
 baccalaurean
 bowshot
