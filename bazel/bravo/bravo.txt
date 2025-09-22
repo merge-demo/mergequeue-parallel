@@ -16351,7 +16351,6 @@ barque
 benzdioxtriazine
 benab
 brushback
-butt
 borities
 bladesmith
 bestick
@@ -17043,6 +17042,7 @@ beseeming
 bullfighters
 bullfinches
 brantails
+butt
 bullflower
 blende
 bullheaded
