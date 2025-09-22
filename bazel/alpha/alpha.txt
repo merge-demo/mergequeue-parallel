@@ -11455,7 +11455,6 @@ anacalypsis
 approbate
 ascribes
 anacamptic
-agentry
 archhead
 after
 airbrained
@@ -24651,6 +24650,7 @@ angiogenic
 antiracial
 averroist
 averroistic
+agentry
 autocytolysis
 abevacuation
 acalephe
