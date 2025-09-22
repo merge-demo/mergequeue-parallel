@@ -5215,6 +5215,7 @@ acarpellous
 affrightful
 appetitious
 anachronismatical
+altisonant
 affydavy
 affrightment
 affronte
@@ -5693,7 +5694,6 @@ absence
 anophyte
 agers
 amylom
-altisonant
 aspermic
 achroiocythemia
 asthenic
