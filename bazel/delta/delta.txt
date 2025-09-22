@@ -13918,7 +13918,6 @@ discreating
 dysnomy
 diagonal
 diplococci
-dictyoxylon
 depolymerization
 distn
 dystocia
@@ -16599,6 +16598,7 @@ dendrodont
 dacryops
 disarchbishop
 drupaceous
+dictyoxylon
 decamping
 debout
 dakoit
