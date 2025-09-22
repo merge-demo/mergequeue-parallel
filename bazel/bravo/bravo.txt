@@ -69,7 +69,6 @@ babelet
 bethwine
 bassa
 blinis
-balata
 boycotts
 bluestoner
 bayoneteer
@@ -12740,6 +12739,7 @@ beheld
 bootless
 biometrician
 basanite
+balata
 bunyoro
 boller
 bookmakers
