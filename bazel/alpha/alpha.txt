@@ -1251,7 +1251,6 @@ acarotoxic
 audrey
 aerognosy
 augitic
-acarus
 aeromedicine
 andantino
 acanthurus
@@ -15497,6 +15496,7 @@ antinucleons
 ayond
 aeolight
 acrocontracture
+acarus
 agomphosis
 aphorismic
 antiochian
