@@ -2067,7 +2067,6 @@ denationalized
 diplococcal
 daucus
 decagonally
-dothidella
 daimen
 dispraise
 decagrams
@@ -2837,6 +2836,7 @@ disposure
 diplodocuses
 disgenius
 dys
+dothidella
 denticles
 dictyopteris
 decumbent
