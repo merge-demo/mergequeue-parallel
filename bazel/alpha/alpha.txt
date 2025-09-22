@@ -6999,6 +6999,7 @@ alabastrites
 ascenders
 alabastrums
 alange
+arcticward
 aethrioscope
 alack
 amole
@@ -12497,7 +12498,6 @@ aeronomist
 arpeggiation
 alkahestical
 actinotrichium
-arcticward
 angel
 angela
 absolutist

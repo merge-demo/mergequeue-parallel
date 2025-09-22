@@ -601,7 +601,6 @@ constrictors
 caedmonian
 caenogenetic
 crimpers
-caenostyly
 caesalpinia
 commentarial
 clavicytherium
@@ -30994,6 +30993,7 @@ conferee
 chnuphis
 contraindicate
 cherkesser
+caenostyly
 counterflight
 cumbrous
 correctrice
