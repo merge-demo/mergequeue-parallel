@@ -5287,6 +5287,7 @@ begirds
 bionomically
 buddler
 bickered
+biometry
 bemolt
 begirt
 balaamitical
@@ -16527,7 +16528,6 @@ beltings
 blastogeny
 buccin
 baroni
-biometry
 berascals
 bousy
 botryogen
