@@ -9579,7 +9579,6 @@ alveoli
 arrojadite
 accidie
 alveoliform
-aduncated
 aquatints
 auditorially
 alveolite
@@ -13409,6 +13408,7 @@ amidoplastid
 annuitants
 authenticator
 antiabortion
+aduncated
 anemophily
 annuities
 affriended
