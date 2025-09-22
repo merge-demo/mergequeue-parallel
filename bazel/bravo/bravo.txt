@@ -2795,6 +2795,7 @@ brokers
 briggs
 baroque
 baconer
+bibliophilistic
 buonamani
 bowsprits
 beworries
@@ -11237,7 +11238,6 @@ blankest
 barmskin
 bopyridae
 blottier
-bibliophilistic
 benchfellow
 bridgeable
 bescouring
