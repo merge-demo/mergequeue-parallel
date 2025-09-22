@@ -792,7 +792,6 @@ demitranslucence
 dialytic
 discussment
 daubers
-delusters
 dakhini
 dovecote
 detn
@@ -2894,6 +2893,7 @@ digitized
 detains
 divagation
 drossier
+delusters
 dansk
 dedifferentiated
 dogmen
