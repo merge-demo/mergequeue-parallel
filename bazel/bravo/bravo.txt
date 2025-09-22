@@ -7263,7 +7263,6 @@ bugi
 beswelter
 beperiwigged
 bethesda
-babirussa
 bethink
 boatswain
 balaenoptera
@@ -11938,6 +11937,7 @@ broommaker
 bloomiest
 branchiopneustic
 brut
+babirussa
 bawke
 belfries
 betweens
