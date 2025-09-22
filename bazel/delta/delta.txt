@@ -355,7 +355,6 @@ disinteress
 deckman
 desand
 drawstring
-desquamative
 demobs
 dermopterous
 dichlorodiphenyltrichloroethane
@@ -6982,6 +6981,7 @@ duelled
 demonisms
 disshroud
 deerdrive
+desquamative
 despisingly
 deepens
 draco
