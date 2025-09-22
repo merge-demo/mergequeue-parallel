@@ -7365,7 +7365,6 @@ corslets
 cephalobranchiata
 componendo
 chervonetz
-chronometrical
 cerusites
 carks
 comnenian
@@ -20526,6 +20525,7 @@ callousing
 corrosiving
 corycavine
 chemotaxonomist
+chronometrical
 comparableness
 comparably
 cionotome

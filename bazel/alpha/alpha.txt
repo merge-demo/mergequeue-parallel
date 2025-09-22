@@ -2092,7 +2092,6 @@ ariste
 acholuric
 alguazil
 anourous
-achondritic
 archdevil
 achondroplasia
 agrostology
@@ -9665,6 +9664,7 @@ airwaybill
 amanitine
 aerifying
 amanitins
+achondritic
 amyxorrhoea
 aldoketene
 aspergillums
