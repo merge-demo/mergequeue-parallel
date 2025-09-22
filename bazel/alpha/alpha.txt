@@ -13234,7 +13234,6 @@ arraignableness
 assafetida
 ankylostomiasis
 attacolite
-amalgamization
 ankylotic
 amasta
 ankles
@@ -13774,6 +13773,7 @@ antiprestidigitation
 antiphysical
 anergic
 antagonism
+amalgamization
 arthrolite
 antagonistic
 anticrepuscular
