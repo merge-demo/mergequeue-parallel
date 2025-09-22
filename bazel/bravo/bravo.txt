@@ -1875,6 +1875,7 @@ bandied
 bilinear
 bandikai
 baggywrinkle
+bana
 batrachoplasty
 biparty
 bloodguiltless
@@ -3241,7 +3242,6 @@ banner
 basilary
 blossomless
 bankbooks
-bana
 basilateral
 balak
 backtrail
