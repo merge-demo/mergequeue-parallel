@@ -8492,7 +8492,6 @@ champak
 chordee
 crinum
 chamfering
-characterstring
 chaussees
 champaka
 conducts
@@ -25596,6 +25595,7 @@ crewman
 corpulencies
 clankum
 corsair
+characterstring
 cryesthesia
 compromises
 cheths
