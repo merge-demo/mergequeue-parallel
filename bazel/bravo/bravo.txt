@@ -15455,7 +15455,6 @@ brique
 brisances
 barometer
 benefactive
-beavers
 brewsterite
 barbacan
 brises
@@ -16695,6 +16694,7 @@ bethunder
 bisognio
 bead
 boswell
+beavers
 benzolate
 bunkhouses
 blockhole
