@@ -1216,7 +1216,6 @@ dreikanter
 dejeuners
 disestablishmentarian
 diaphragmal
-dastardly
 durbar
 demoiselles
 doeling
@@ -4280,6 +4279,7 @@ dependancy
 donar
 dialytically
 dampang
+dastardly
 decoagulated
 dizzies
 disedification

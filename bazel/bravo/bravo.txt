@@ -5784,7 +5784,6 @@ bellibone
 benevolences
 besieged
 bldg
-bricks
 beyonds
 blusterous
 bellicist
@@ -6434,6 +6433,7 @@ byeman
 bepart
 bepimpling
 bureaucratical
+bricks
 bepraiser
 bagge
 barangay
