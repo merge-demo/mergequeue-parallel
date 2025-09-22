@@ -19845,7 +19845,6 @@ armor
 akuammin
 adonises
 ampoules
-alastors
 armorials
 asphaltus
 armoric
@@ -23712,6 +23711,7 @@ abled
 antimonarchically
 arduinite
 augean
+alastors
 arborary
 aphetic
 antiphrastically
