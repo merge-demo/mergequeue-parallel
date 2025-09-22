@@ -13191,7 +13191,6 @@ broiling
 bridgemaker
 bathylith
 bullhorns
-brightened
 brat
 baronize
 bangtail
@@ -14508,6 +14507,7 @@ blackcurrant
 betrail
 bilboas
 branchiomere
+brightened
 biopsychologist
 bicycloheptane
 bibliogony
