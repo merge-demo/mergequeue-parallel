@@ -9367,6 +9367,7 @@ arm
 anomorhomboidal
 alterman
 altern
+algaroth
 asynchronously
 alternamente
 aclidian
@@ -17568,7 +17569,6 @@ appetiser
 atlantad
 alerted
 advertisements
-algaroth
 amercer
 autographist
 alphabetizes
