@@ -9016,7 +9016,6 @@ butterier
 brachycephalies
 biophotophone
 bemire
-brickmaking
 bethumps
 bolloxed
 botanics
@@ -17849,6 +17848,7 @@ blabbered
 bibliotics
 boodles
 boltstrake
+brickmaking
 biassed
 busheled
 bookman
