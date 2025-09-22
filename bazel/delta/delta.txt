@@ -586,7 +586,6 @@ dandydom
 devocate
 doesnt
 dopester
-disfranchiser
 deadpanning
 detractively
 damaskeen
@@ -12694,6 +12693,7 @@ dystomic
 dimorphous
 disli
 dec
+disfranchiser
 dross
 dicotyles
 dislicense

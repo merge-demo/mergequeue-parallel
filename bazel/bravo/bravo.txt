@@ -4041,7 +4041,6 @@ bedrock
 boti
 burglarising
 beamers
-ballonet
 beamhouse
 bibliophobe
 backbreaker
@@ -4726,6 +4725,7 @@ baragnosis
 bruins
 bedrizzle
 backpedaled
+ballonet
 bollen
 burriest
 bougee
