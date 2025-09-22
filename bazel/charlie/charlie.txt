@@ -7133,7 +7133,6 @@ centimetre
 correspondencies
 cullion
 centimo
-centimos
 commonplaceism
 crawly
 centipedes
@@ -23018,6 +23017,7 @@ contractured
 consistences
 crosshand
 consistency
+centimos
 catalytic
 compressedly
 companioning
