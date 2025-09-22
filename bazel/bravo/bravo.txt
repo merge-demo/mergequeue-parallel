@@ -2458,7 +2458,6 @@ bubbletop
 brendan
 biscuit
 bromelin
-barandos
 bibliophilism
 bigram
 busies
@@ -7863,6 +7862,7 @@ bloodthirsty
 buckthorn
 biltong
 bibbons
+barandos
 barbitals
 btu
 bunkery
