@@ -8739,7 +8739,6 @@ decorousness
 demoting
 diathermies
 dispensatrix
-deglutinate
 diathesis
 demean
 deliquesces
@@ -17618,6 +17617,7 @@ drunker
 dabbler
 dubitant
 duant
+deglutinate
 dentigerous
 depilation
 decentralizations
