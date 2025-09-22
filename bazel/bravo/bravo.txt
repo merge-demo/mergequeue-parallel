@@ -3088,7 +3088,6 @@ bating
 badminton
 barware
 boneblack
-barksome
 basale
 berascaling
 bathetic
@@ -5143,6 +5142,7 @@ bacula
 biocenosis
 burbank
 blueball
+barksome
 broiler
 bioxide
 bodyweight
