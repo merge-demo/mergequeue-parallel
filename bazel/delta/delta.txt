@@ -6798,7 +6798,6 @@ desires
 dyarchy
 demilustre
 dihedrons
-desirous
 droh
 desirousness
 diaconate
@@ -9866,6 +9865,7 @@ dissected
 deadlines
 dissertation
 displaying
+desirous
 dispapalize
 doorsills
 downside
