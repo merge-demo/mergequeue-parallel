@@ -3614,6 +3614,7 @@ babas
 bepray
 ballyragged
 blepharostat
+bullwhacker
 bridelace
 banilad
 bathukolpian
@@ -12291,7 +12292,6 @@ bombardman
 bungfull
 buglet
 bacteriophagic
-bullwhacker
 betrayer
 bramantesque
 bombline
