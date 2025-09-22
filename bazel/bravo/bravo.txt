@@ -5115,6 +5115,7 @@ bombshells
 beflour
 brahminist
 backhouse
+borize
 bogbean
 batoid
 bedless
@@ -6324,7 +6325,6 @@ becuna
 benzoylation
 boccias
 benzoinated
-borize
 booboisie
 burely
 barfy
