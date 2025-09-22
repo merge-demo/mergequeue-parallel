@@ -18697,6 +18697,7 @@ coing
 ceroma
 chain
 coinhabitor
+cryptoagnostic
 chausses
 coinhered
 coinherence
@@ -29176,7 +29177,6 @@ chromophile
 cryptical
 cryptically
 coupled
-cryptoagnostic
 countercharge
 clamored
 cynogenealogist
