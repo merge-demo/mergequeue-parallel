@@ -6279,6 +6279,7 @@ caup
 caupo
 candelas
 copalms
+cfs
 catochus
 coheaded
 cumberlandite
@@ -14391,7 +14392,6 @@ corniness
 cystorrhagia
 circumsphere
 catchpolled
-cfs
 circumstancing
 coelacanthid
 chronometry
