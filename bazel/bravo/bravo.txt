@@ -12408,7 +12408,6 @@ bobstay
 bicapitate
 blossom
 backcast
-belvederes
 bedlamp
 bedwarf
 bond
@@ -13720,6 +13719,7 @@ butternose
 biogeny
 blossomtime
 besmudging
+belvederes
 blonde
 bradbury
 barrelful

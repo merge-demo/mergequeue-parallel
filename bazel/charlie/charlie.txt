@@ -2320,7 +2320,6 @@ circumfuse
 convertors
 ccw
 canamo
-coredeem
 catapultier
 cranesbill
 cicer
@@ -13542,6 +13541,7 @@ chg
 civilized
 contours
 cyma
+coredeem
 companionable
 cymae
 cymagraph
