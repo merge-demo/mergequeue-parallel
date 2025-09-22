@@ -4958,6 +4958,7 @@ covinously
 cartons
 cartoonist
 chrysomonadina
+cloisonless
 cassettes
 cartouche
 castigable
@@ -16598,7 +16599,6 @@ compensations
 cloysome
 counterjudging
 callose
-cloisonless
 condylomata
 cloisonn
 cloisonne
