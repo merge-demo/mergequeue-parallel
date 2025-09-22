@@ -5483,6 +5483,7 @@ backers
 bandaite
 baltic
 brechites
+beezers
 briefly
 bracky
 boort
@@ -6562,7 +6563,6 @@ bergamo
 blastoma
 bobcat
 bronchia
-beezers
 buchanite
 bimane
 begreen
