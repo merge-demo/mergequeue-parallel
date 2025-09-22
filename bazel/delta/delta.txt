@@ -3284,7 +3284,6 @@ dreamtide
 definitor
 daisy
 deutschemark
-dorsosternal
 dentils
 doles
 dsect
@@ -3678,6 +3677,7 @@ dehydrogenisation
 dehydroretinol
 disciplinative
 demibeast
+dorsosternal
 dictyotaceous
 delustrant
 descanter
