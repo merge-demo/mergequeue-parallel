@@ -10622,6 +10622,7 @@ decompressing
 diplomats
 drawfile
 diplonema
+dentalising
 divergingly
 duennadom
 deuteric
@@ -13913,7 +13914,6 @@ distinguishableness
 dobie
 disbosoming
 distinguishedly
-dentalising
 dodding
 deceptious
 deutoplasm
