@@ -3043,6 +3043,7 @@ dentaria
 demivambrace
 dentiscalp
 daddock
+disimpassioned
 degradand
 defaces
 disennoble
@@ -17179,7 +17180,6 @@ deadeyes
 dryfoot
 dribber
 dysacousis
-disimpassioned
 dikaryophyte
 drift
 dyssystole
