@@ -4666,6 +4666,7 @@ dichelyma
 draggletail
 demirilievo
 degerminate
+desulphurised
 denunciative
 deflea
 demonastery
@@ -7183,7 +7184,6 @@ diamins
 desulfurs
 decline
 dentical
-desulphurised
 demonize
 dollyman
 decompose
