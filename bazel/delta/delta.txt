@@ -5540,7 +5540,6 @@ demihague
 diversities
 diffusiometer
 dashboard
-deadlatch
 dimmock
 departmentalism
 dorper
@@ -10914,6 +10913,7 @@ demonologic
 denaturise
 doddart
 disculpate
+deadlatch
 diruption
 draconically
 dereference

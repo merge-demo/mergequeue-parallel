@@ -12226,7 +12226,6 @@ bogwort
 biodyne
 boloism
 basics
-bovinity
 balladism
 barrandite
 bemoult
@@ -13858,6 +13857,7 @@ bookwise
 blenniid
 browman
 burettes
+bovinity
 besaiel
 borderies
 blindages
