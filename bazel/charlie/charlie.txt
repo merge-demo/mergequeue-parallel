@@ -10882,7 +10882,6 @@ chipproof
 coffles
 comforter
 crucifying
-clocher
 chypre
 chipwood
 chiquito
@@ -22303,6 +22302,7 @@ coppicing
 counterreaction
 congenital
 congeon
+clocher
 congeree
 congery
 coloratura
