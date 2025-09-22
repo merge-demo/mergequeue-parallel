@@ -7517,7 +7517,6 @@ battleground
 burrito
 bedrivel
 breed
-biaxial
 bewhore
 bewidow
 beclaw
@@ -10710,6 +10709,7 @@ bogijiab
 birthplace
 buzuki
 bettering
+biaxial
 brachistocephali
 boney
 bathycolpian
