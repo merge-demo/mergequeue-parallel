@@ -4528,7 +4528,6 @@ carnifexes
 chromogram
 cationic
 carnification
-carnificial
 carnifies
 colonel
 cnidocell
@@ -24159,6 +24158,7 @@ coenzymes
 conveth
 convex
 curvey
+carnificial
 cryptoanalytic
 cecropia
 copaivic
