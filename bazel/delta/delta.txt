@@ -4926,6 +4926,7 @@ densitometers
 devolutive
 demonomist
 demonopolize
+diplasion
 defervescence
 defaulted
 demonry
@@ -13655,7 +13656,6 @@ danegeld
 derelict
 donates
 dolomedes
-diplasion
 demetrian
 debarbarization
 deadhand
