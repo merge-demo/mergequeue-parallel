@@ -11101,6 +11101,7 @@ benegro
 ballyhooer
 blocked
 blocker
+branchicolous
 brid
 beltman
 bulgarian
@@ -14500,7 +14501,6 @@ beadle
 branchiae
 bradyglossia
 belittler
-branchicolous
 branchiest
 branchiferous
 birthrates
