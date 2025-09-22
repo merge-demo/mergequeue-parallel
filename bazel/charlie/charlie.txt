@@ -7403,6 +7403,7 @@ crusher
 cephalopterus
 chatot
 captivators
+confest
 cephaloridine
 cadus
 copecks
@@ -13076,7 +13077,6 @@ cyathophyllum
 cyathos
 cyathus
 covenantally
-confest
 ceroxyle
 champaca
 counterflashing
