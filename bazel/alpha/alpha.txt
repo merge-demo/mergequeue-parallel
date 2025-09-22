@@ -9394,6 +9394,7 @@ alternatives
 angioblast
 axolysis
 alternipetalous
+allegiant
 alen
 alternity
 antiluetin
@@ -15786,7 +15787,6 @@ asking
 agendums
 acciaccatura
 anagram
-allegiant
 antipsalmist
 acidimeter
 armill
