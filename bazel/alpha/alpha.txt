@@ -6540,6 +6540,7 @@ assessing
 apropos
 anthemene
 ainhum
+allow
 asiatically
 ascians
 arthropleure
@@ -22478,7 +22479,6 @@ antiseptics
 agronomies
 agrionidae
 atheisticness
-allow
 albicores
 abraham
 atheizer
