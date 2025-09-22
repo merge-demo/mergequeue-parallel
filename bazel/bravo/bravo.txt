@@ -11965,7 +11965,6 @@ bittered
 budgerigah
 benzothiofuran
 bytalk
-bogled
 beckelite
 blastostylar
 baggyrinkle
@@ -17343,6 +17342,7 @@ bacteriophagia
 bandbox
 boettner
 botchka
+bogled
 baldish
 borzicactus
 bunkering
