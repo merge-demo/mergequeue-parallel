@@ -24180,6 +24180,7 @@ convicts
 crosshatch
 convinced
 claw
+calamined
 collocutory
 cruddy
 crepeiest
@@ -25275,7 +25276,6 @@ crampy
 corncake
 corncakes
 coquettish
-calamined
 cams
 corncrake
 corncrib
