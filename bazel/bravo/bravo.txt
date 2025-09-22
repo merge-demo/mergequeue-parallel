@@ -827,7 +827,6 @@ broodier
 branchiopoo
 bibliophagist
 baffler
-barnage
 biffed
 burrfishes
 bafflers
@@ -11398,6 +11397,7 @@ bracherer
 borable
 bowlderhead
 berycoidei
+barnage
 bruno
 bluecurls
 boondoggles
