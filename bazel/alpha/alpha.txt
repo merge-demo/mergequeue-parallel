@@ -3273,7 +3273,6 @@ addend
 anaerobically
 avenine
 alcanna
-archigonic
 antedonin
 addendums
 addibility
@@ -11227,6 +11226,7 @@ apetalousness
 attaste
 assimilation
 anticodon
+archigonic
 alloquy
 anticreeper
 amphitrichate
