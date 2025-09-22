@@ -11193,6 +11193,7 @@ chloramin
 chloramphenicol
 curtation
 caperwort
+christening
 chilopodous
 chorographer
 cartilage
@@ -12304,7 +12305,6 @@ cubicly
 christener
 christeners
 costander
-christening
 christens
 christhood
 cryptography
