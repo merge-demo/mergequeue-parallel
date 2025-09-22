@@ -2294,7 +2294,6 @@ dyewoods
 disburden
 decemfoliate
 dogmas
-demotion
 dissocialize
 decempunctate
 decemstriate
@@ -15477,6 +15476,7 @@ derah
 dislocatedly
 dikaryotic
 dedicators
+demotion
 domett
 demicivilized
 detainer
