@@ -9428,6 +9428,7 @@ coying
 cromwell
 chaws
 chawstick
+characterizations
 citoyen
 chazans
 chazanut
@@ -16101,7 +16102,6 @@ collards
 clydesider
 clientage
 cliental
-characterizations
 cycloramas
 condylotomy
 conglutin
