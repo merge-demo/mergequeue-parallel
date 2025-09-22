@@ -1597,7 +1597,6 @@ arithmomancy
 arthuriana
 anonang
 assailers
-abnet
 accroaching
 affirm
 anaclitic
@@ -8611,6 +8610,7 @@ apemantus
 autogeny
 allhallows
 alliance
+abnet
 anschluss
 awink
 appet
