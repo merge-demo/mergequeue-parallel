@@ -5525,7 +5525,6 @@ backstamp
 bejezebel
 booky
 bontebucks
-basihyoid
 belait
 behaviored
 boxwallah
@@ -15800,6 +15799,7 @@ bibbs
 bromination
 beswim
 battlefronts
+basihyoid
 bibliophobia
 brionies
 beice
