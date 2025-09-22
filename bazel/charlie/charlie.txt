@@ -12810,7 +12810,6 @@ camuse
 checklist
 calcifies
 colicroot
-chunari
 congressman
 counterinsult
 chunder
@@ -23811,6 +23810,7 @@ contrapuntist
 contrapunto
 cohunes
 contraregularity
+chunari
 centrisciform
 conductimeter
 contraremonstrance
