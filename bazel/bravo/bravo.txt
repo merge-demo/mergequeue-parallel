@@ -5842,6 +5842,7 @@ bedaze
 bellweed
 brachiosaurus
 beggardom
+buckers
 balopticon
 bilboa
 butterbur
@@ -15658,7 +15659,6 @@ brochure
 bathycentesis
 bethlehem
 babblishly
-buckers
 brock
 bombsight
 bryonies
