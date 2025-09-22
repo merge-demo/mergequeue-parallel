@@ -5018,7 +5018,6 @@ aetiotropically
 aetites
 angetenar
 accentual
-aetobatidae
 ancien
 aphoria
 agrapha
@@ -12184,6 +12183,7 @@ aortolith
 andriana
 abnormally
 acquaintant
+aetobatidae
 astilbe
 awestrike
 acervuli
