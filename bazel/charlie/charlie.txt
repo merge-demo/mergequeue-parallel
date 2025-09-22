@@ -7994,6 +7994,7 @@ crystalliform
 clottedness
 chablis
 crannog
+cathay
 chowtimes
 chromotypographic
 caliches
@@ -14495,7 +14496,6 @@ centimetres
 cirrostomi
 cochylis
 cirrostrative
-cathay
 citharoedus
 charnel
 cuttanee
