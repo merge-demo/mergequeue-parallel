@@ -496,6 +496,7 @@ daswen
 daytide
 daunder
 dressily
+drover
 disburthen
 dakerhen
 disappointing
@@ -15853,7 +15854,6 @@ dornicks
 datival
 dornock
 daguerreotypist
-drover
 dornocks
 debuted
 desanded
