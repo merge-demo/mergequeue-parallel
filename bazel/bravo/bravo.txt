@@ -4758,7 +4758,6 @@ benames
 bedstraws
 bedstring
 boundedly
-bearnaise
 beautiless
 brownly
 bedswerver
@@ -17911,6 +17910,7 @@ bowwows
 bushwack
 bonewood
 bechic
+bearnaise
 bathybic
 blastoporic
 blockader
