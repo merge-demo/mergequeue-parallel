@@ -6770,6 +6770,7 @@ celestitude
 clivias
 celiadelphus
 celialgia
+convallarin
 celibacy
 contrivancy
 costard
@@ -10297,7 +10298,6 @@ columboid
 clitoritis
 chicanery
 calumnia
-convallarin
 chicanes
 chicano
 coimmense
