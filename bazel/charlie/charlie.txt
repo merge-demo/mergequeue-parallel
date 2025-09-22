@@ -14968,7 +14968,6 @@ cycadofilicale
 chilacavote
 characeae
 carboluria
-circumcrescent
 clavation
 cymbalers
 commixt
@@ -15876,6 +15875,7 @@ circumbulbar
 capacitance
 clechee
 constants
+circumcrescent
 contraregular
 clechy
 cleck
