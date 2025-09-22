@@ -12087,7 +12087,6 @@ ancoly
 acceptavit
 ancome
 antiblennorrhagic
-anagrammatize
 accumulated
 anconal
 artefacts
@@ -17307,6 +17306,7 @@ aliquot
 aestivated
 acceptably
 autotrophy
+anagrammatize
 alhambresque
 apothecaryship
 archosyrinx
