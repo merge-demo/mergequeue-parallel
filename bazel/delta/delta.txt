@@ -7487,7 +7487,6 @@ dowage
 deviate
 defecting
 dancer
-deepgoing
 disseised
 detrivorous
 dervish
@@ -12642,6 +12641,7 @@ disjunctively
 deseed
 dolefullest
 dibble
+deepgoing
 decompound
 dakota
 disembodying
