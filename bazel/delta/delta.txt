@@ -82,6 +82,7 @@ disputants
 deadheading
 danite
 darndests
+disilluminate
 dacoiting
 dactyliography
 debated
@@ -5515,7 +5516,6 @@ depictive
 depainted
 depancreatization
 dicer
-disilluminate
 downheaded
 depardieu
 dynamo
