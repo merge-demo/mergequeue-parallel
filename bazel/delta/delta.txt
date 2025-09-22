@@ -3487,7 +3487,6 @@ drowsiest
 defreeze
 defrocked
 dollishly
-dubbed
 disciform
 derogately
 dillis
@@ -11051,6 +11050,7 @@ disproportionable
 disprobabilization
 dobsonflies
 dumfound
+dubbed
 dodecasyllabic
 dobbers
 diaka
