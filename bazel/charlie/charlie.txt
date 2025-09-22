@@ -574,7 +574,6 @@ caryocaraceae
 chalkiness
 caduke
 cadwal
-chiromegaly
 cidaroida
 curatrices
 callaesthetic
@@ -26522,6 +26521,7 @@ choosiest
 calumniate
 cardiometry
 cougher
+chiromegaly
 coronillin
 commandeered
 concactenated
