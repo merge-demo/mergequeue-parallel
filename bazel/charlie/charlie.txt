@@ -4776,6 +4776,7 @@ carpoptosia
 completion
 carport
 carpos
+candied
 chibouk
 coursy
 catalase
@@ -31424,7 +31425,6 @@ curlews
 curlicue
 choriambize
 cosmogonist
-candied
 curlycues
 crouton
 cycladic
