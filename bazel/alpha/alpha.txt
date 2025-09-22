@@ -16396,7 +16396,6 @@ axweed
 adiaphora
 achaenocarp
 agsam
-aegagri
 acupuncturation
 agricultural
 averruncate
@@ -24914,6 +24913,7 @@ automotor
 awane
 auscultate
 ankylose
+aegagri
 adroit
 awkwardish
 antilogarithmic
