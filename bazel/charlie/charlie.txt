@@ -4660,6 +4660,7 @@ compatibles
 crazies
 cyathi
 chapmen
+copyfitter
 carpetbaggism
 commuter
 commas
@@ -21986,7 +21987,6 @@ camalig
 conferrers
 counterstain
 crotchet
-copyfitter
 corolliform
 chiasm
 catslide
