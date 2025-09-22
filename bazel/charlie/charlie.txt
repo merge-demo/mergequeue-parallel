@@ -1619,7 +1619,6 @@ calophyllum
 calopogon
 chettik
 chilopodan
-consuetitude
 caloreceptor
 cochairs
 calorescence
@@ -13939,6 +13938,7 @@ cynoclept
 cynocrambaceous
 cynodictis
 coreligionist
+consuetitude
 costive
 cinofoil
 canonistic
