@@ -6699,6 +6699,7 @@ blockheaded
 berries
 burnished
 brantness
+bef
 beaut
 bulletmaker
 buhls
@@ -7057,7 +7058,6 @@ bespoke
 birdsong
 briards
 basso
-bef
 bespouse
 booties
 backsets
