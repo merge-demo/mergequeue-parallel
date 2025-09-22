@@ -19479,7 +19479,6 @@ cere
 crossarms
 coloraturas
 crasher
-colorature
 canid
 celesta
 coelector
@@ -22908,6 +22907,7 @@ clype
 conservationists
 condensable
 cultureless
+colorature
 conservations
 checkbit
 cleated
