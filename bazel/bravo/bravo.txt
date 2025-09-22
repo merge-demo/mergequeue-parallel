@@ -10483,7 +10483,6 @@ bannerman
 belgian
 benignities
 blastoneuropore
-babingtonite
 bacteriopathology
 bogan
 blastophyllum
@@ -13494,6 +13493,7 @@ biunity
 blemishes
 borstall
 baronethood
+babingtonite
 bendaying
 bottomers
 biotelemetry
