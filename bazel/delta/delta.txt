@@ -9331,7 +9331,6 @@ dominule
 decumary
 doubter
 dyeweeds
-disruptable
 depredable
 darwinist
 dorsonasal
@@ -12805,6 +12804,7 @@ delicto
 dislustered
 drollish
 defame
+disruptable
 dismayedness
 demotics
 desertions
