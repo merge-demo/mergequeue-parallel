@@ -4286,6 +4286,7 @@ cleanout
 caryatid
 corroborate
 cigaresque
+consulates
 caryatids
 conserving
 cariban
@@ -23316,7 +23317,6 @@ cynaraceous
 consulate
 curiouser
 comparascope
-consulates
 consulship
 ceratoglossus
 consulships
