@@ -9100,6 +9100,7 @@ dihexahedral
 dorsals
 dictyoid
 diction
+diphyodont
 disguiser
 disparage
 drivebolt
@@ -13509,7 +13510,6 @@ denaturized
 disagio
 disseason
 disgood
-diphyodont
 dismemberment
 donnism
 densitometric
