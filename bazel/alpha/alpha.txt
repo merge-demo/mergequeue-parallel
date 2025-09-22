@@ -3109,7 +3109,6 @@ acupunctured
 antivenomous
 antimoniuretted
 acupuncturist
-acus
 army
 azimin
 ambassadeur
@@ -6621,6 +6620,7 @@ airfoil
 airfoils
 actualising
 adiate
+acus
 accretion
 alodially
 airglow
