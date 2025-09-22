@@ -5835,6 +5835,7 @@ dozenths
 disfranchising
 deposits
 doorsteps
+deicer
 deafforest
 diplomatized
 dorsonuchal
@@ -14729,7 +14730,6 @@ dockland
 describent
 deadener
 dankest
-deicer
 dlvy
 dorsalward
 detray
