@@ -7796,6 +7796,7 @@ cerulein
 cache
 ceruleite
 ceruleolactite
+campanularian
 clangour
 cravenette
 confesses
@@ -22276,7 +22277,6 @@ cresotate
 connusable
 cartonful
 characterizer
-campanularian
 choicer
 cursorius
 collarman

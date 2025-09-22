@@ -7779,7 +7779,6 @@ derater
 dormouse
 diastataxy
 devirginate
-deils
 discretionary
 dram
 digger
@@ -10425,6 +10424,7 @@ driveller
 dahabiah
 diaphonic
 demivierge
+deils
 dogmatic
 decomposable
 disinheritance
