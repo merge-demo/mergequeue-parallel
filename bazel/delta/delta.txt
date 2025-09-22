@@ -4563,7 +4563,6 @@ demifigure
 demigardebras
 decentres
 dotlike
-dunbird
 detroiter
 desugarize
 doting
@@ -16430,6 +16429,7 @@ deraignment
 defrost
 downstrokes
 defensative
+dunbird
 downtake
 duodecane
 discontinuing
