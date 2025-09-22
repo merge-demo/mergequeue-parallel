@@ -2936,7 +2936,6 @@ barrelled
 billfish
 barrelmaker
 brassavola
-bracketed
 burped
 barrelwise
 barren
@@ -5690,6 +5689,7 @@ belight
 budgers
 booklike
 baaed
+bracketed
 bulldozer
 belike
 bribes
