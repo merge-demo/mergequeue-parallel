@@ -3195,7 +3195,6 @@ cameleon
 capillitium
 caping
 curaras
-cauli
 citraconate
 cheet
 centrotus
@@ -30611,6 +30610,7 @@ chorook
 choregraphic
 cuculiformes
 coprology
+cauli
 cucullate
 contravened
 casey
