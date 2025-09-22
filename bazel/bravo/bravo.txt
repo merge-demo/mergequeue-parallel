@@ -6740,7 +6740,6 @@ bertrum
 bullarium
 butanone
 beachy
-birse
 ber
 beruffed
 brusqueness
@@ -10901,6 +10900,7 @@ beckett
 behovely
 benn
 biffing
+birse
 blooded
 blindfishes
 bluelegs
