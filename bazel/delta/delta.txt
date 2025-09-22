@@ -1457,7 +1457,6 @@ diminished
 dandruffy
 dawsonia
 dawt
-dictional
 detersion
 diseasefulness
 disinfect
@@ -7922,6 +7921,7 @@ drofland
 disard
 desmocyte
 dispenser
+dictional
 drysalter
 dihydrogen
 depone
