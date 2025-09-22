@@ -8855,7 +8855,6 @@ chapwoman
 chaqueta
 commanders
 cerosin
-char
 conveyability
 crouchingly
 caker
@@ -21447,6 +21446,7 @@ caryatidal
 cineasts
 concinnity
 closefistedly
+char
 concinnities
 centuria
 cystoenterocele
