@@ -1764,7 +1764,6 @@ bullet
 bitripinnatifid
 buses
 biretta
-bedraggling
 baldest
 balustrading
 bulbed
@@ -15945,6 +15944,7 @@ barrowist
 boucan
 bluffness
 ballotade
+bedraggling
 bronk
 bromocyanogen
 butterbox
