@@ -6489,7 +6489,6 @@ dromaeus
 disbark
 dandruffs
 dhourra
-dorsifixed
 desmotrope
 disencumberment
 dicynodontia
@@ -6664,6 +6663,7 @@ desertlessly
 dungaree
 deserts
 deserve
+dorsifixed
 divertissant
 dustrags
 distinctio
