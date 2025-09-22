@@ -8775,6 +8775,7 @@ convalescency
 cockpits
 concubinal
 cryptovolcanic
+crazy
 coccolithophorid
 chapelled
 cimnel
@@ -28351,7 +28352,6 @@ conversations
 craze
 crazed
 crazedly
-crazy
 crazycat
 cremocarp
 coendures
