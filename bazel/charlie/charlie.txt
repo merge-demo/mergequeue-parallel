@@ -10015,7 +10015,6 @@ cherimoyer
 cump
 cherish
 chordeiles
-counteractant
 contemporanean
 chymic
 cancrid
@@ -11479,6 +11478,7 @@ consecutives
 choga
 chogak
 chogset
+counteractant
 cussed
 choy
 choiceful
