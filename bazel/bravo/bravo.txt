@@ -1683,7 +1683,6 @@ breechcloths
 babblish
 balmarcodes
 balmawhapple
-betokens
 brunneous
 bradypode
 berm
@@ -12437,6 +12436,7 @@ barrettes
 biddulphia
 bechase
 b
+betokens
 bells
 biclavate
 boukit
