@@ -6535,6 +6535,7 @@ dosa
 describability
 diacritic
 dockman
+dissensualize
 degradedness
 disharmonise
 described
@@ -13522,7 +13523,6 @@ disseminative
 dissension
 drang
 daimioate
-dissensualize
 drowsihead
 dissentation
 dissented
