@@ -1709,7 +1709,6 @@ breechesless
 bradyteleokinesis
 balunda
 blesses
-balneotherapia
 berdaches
 benzalphthalide
 bacillariales
@@ -15468,6 +15467,7 @@ brewsterite
 barbacan
 brises
 brisker
+balneotherapia
 buttonmould
 bluehead
 bewilder
