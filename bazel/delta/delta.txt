@@ -14260,6 +14260,7 @@ disyokes
 deinocephalia
 dithecal
 dither
+detonatable
 deporter
 deisms
 defoliator
@@ -15752,7 +15753,6 @@ determine
 dopchick
 dopebook
 diddled
-detonatable
 demonstrator
 discased
 distemperance
