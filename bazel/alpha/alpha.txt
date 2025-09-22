@@ -1332,6 +1332,7 @@ accept
 acceptability
 agonist
 anthracometer
+aporose
 amintor
 acceptance
 aggressions
@@ -16720,7 +16721,6 @@ aspergilla
 acromonogrammatic
 aphthong
 areologist
-aporose
 admittedly
 aeration
 appeach
