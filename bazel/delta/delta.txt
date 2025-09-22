@@ -1492,7 +1492,6 @@ dandled
 dazzler
 deaminized
 diptychon
-damnification
 dismayful
 dbms
 decalcomania
@@ -5726,6 +5725,7 @@ danton
 depletive
 denutrition
 deke
+damnification
 devolutionist
 desulphurate
 debitor
