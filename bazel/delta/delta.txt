@@ -3986,6 +3986,7 @@ demonetisation
 delegates
 demeore
 dermatosis
+deontic
 dermographism
 digressiveness
 diamb
@@ -5916,7 +5917,6 @@ deleting
 droshky
 disarm
 depredatory
-deontic
 deodars
 diablene
 decryptions
