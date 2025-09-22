@@ -490,7 +490,6 @@ daysmen
 dayspring
 deuces
 deplorer
-disthrall
 disinhabit
 daswen
 daytide
@@ -15468,6 +15467,7 @@ demicivilized
 detainer
 demoralisation
 domiciled
+disthrall
 dissipator
 domiciles
 domiciliated
