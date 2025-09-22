@@ -4774,7 +4774,6 @@ antinaturalistic
 ammonion
 accessit
 aerogenes
-airplaning
 alomancy
 anticommercialness
 acalephs
@@ -14720,6 +14719,7 @@ azoxy
 authority
 anticipatingly
 andvari
+airplaning
 abe
 attendancy
 antibibliolatry
