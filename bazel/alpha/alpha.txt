@@ -1181,7 +1181,6 @@ acanthodei
 associationism
 admissibly
 amsath
-asporous
 afforest
 autogravure
 allograft
@@ -16364,6 +16363,7 @@ anxietude
 adipocele
 aoul
 antioxidant
+asporous
 ampholyte
 anxiousness
 antifogmatic
