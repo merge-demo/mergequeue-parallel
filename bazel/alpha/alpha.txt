@@ -951,7 +951,6 @@ archdeacon
 abstergent
 absterges
 angelican
-ambleocarpus
 antituberculin
 aggregable
 abstertion
@@ -6909,6 +6908,7 @@ abantes
 acrotarsial
 akia
 acetylene
+ambleocarpus
 akimbo
 anoxaemic
 andromonoecious
