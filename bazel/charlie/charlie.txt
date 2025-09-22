@@ -3630,7 +3630,6 @@ conveyorize
 caramelize
 caramelized
 clowring
-clangoring
 caramels
 cloned
 carancho
@@ -15961,6 +15960,7 @@ cleoid
 cleomes
 chimbs
 clep
+clangoring
 caners
 countertrippant
 cleanly
