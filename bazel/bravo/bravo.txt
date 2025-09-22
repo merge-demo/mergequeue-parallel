@@ -1855,6 +1855,7 @@ bandfiled
 bandh
 burdon
 brownism
+boatsman
 brython
 birken
 bandhook
@@ -18052,7 +18053,6 @@ belecture
 beroll
 booklet
 baignet
-boatsman
 bangy
 belive
 bebrave
