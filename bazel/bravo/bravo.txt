@@ -8408,6 +8408,7 @@ bibliotherapy
 burp
 bupleurum
 bacony
+belsire
 beaverette
 bevilled
 boastless
@@ -9891,7 +9892,6 @@ bedrivelling
 bere
 buro
 bituminoid
-belsire
 brogueful
 bipropellant
 bennettitaceae
