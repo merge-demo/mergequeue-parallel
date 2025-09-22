@@ -7833,7 +7833,6 @@ biblicopsychological
 biblike
 bibliofilm
 botaniser
-bibliographies
 bibliographize
 bipyridine
 biblioklept
@@ -16161,6 +16160,7 @@ bubo
 blockading
 bloodmonger
 bluenesses
+bibliographies
 brownouts
 boundure
 brachysclereid
