@@ -6339,7 +6339,6 @@ bibliothecaire
 bavoso
 benzopyrazolone
 barquentine
-bronchotetany
 benzopyrene
 bourignonist
 burgonet
@@ -18226,6 +18225,7 @@ butteryfingered
 butteris
 beekeeper
 bridestake
+bronchotetany
 blepharospasm
 bepat
 bivouacs

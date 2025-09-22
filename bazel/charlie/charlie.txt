@@ -11715,6 +11715,7 @@ chondral
 chondrarsenite
 cholesteric
 calcitrant
+cyano
 chondre
 chondrenchyma
 caramelin
@@ -13002,7 +13003,6 @@ clamation
 conspirer
 cyanmethemoglobin
 calenturish
-cyano
 cobenignity
 christos
 coerces
