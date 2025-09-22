@@ -2095,7 +2095,6 @@ dreidls
 dermatotomy
 daikered
 devotion
-dimedon
 decaying
 dopamines
 diety
@@ -10182,6 +10181,7 @@ dinoflagellida
 dinging
 dingled
 dreidl
+dimedon
 denuclearize
 dingman
 doven
