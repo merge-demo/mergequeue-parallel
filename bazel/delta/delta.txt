@@ -3501,7 +3501,6 @@ deul
 disfrock
 dislimb
 disenchanter
-disinvest
 defunctionalize
 defusion
 demidigested
@@ -5562,6 +5561,7 @@ disrepute
 deformational
 depasture
 desireable
+disinvest
 depatriate
 detrains
 dkm
