@@ -8251,7 +8251,6 @@ alivincular
 alizarate
 anesthesiant
 afterloss
-anthrathiophene
 antilipoid
 arguta
 atomically
@@ -16580,6 +16579,7 @@ albitophyre
 amidoazobenzol
 aphanes
 asphaltum
+anthrathiophene
 aphanisia
 atalanta
 anacanthous
