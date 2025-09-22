@@ -10054,7 +10054,6 @@ appendiculate
 appius
 anisogamy
 avulsion
-appropre
 ambulator
 ambulatory
 ambulatoria
@@ -14071,6 +14070,7 @@ anterointernal
 androphyll
 anterolateral
 andreaea
+appropre
 automorphically
 agiotages
 anterooms
