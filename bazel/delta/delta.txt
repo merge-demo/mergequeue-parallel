@@ -5294,6 +5294,7 @@ dissect
 dissatisfied
 desistence
 deligated
+dizzier
 dytiscidae
 disburdens
 defat
@@ -6925,7 +6926,6 @@ deaves
 demulceate
 disarmature
 dollarleaf
-dizzier
 drollist
 discomposes
 dichromasy
