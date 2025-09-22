@@ -2095,6 +2095,7 @@ dummy
 daffier
 destour
 dauntlessness
+dialdehyde
 defaced
 dasht
 datchas
@@ -15951,7 +15952,6 @@ dermatrophy
 diablotin
 droich
 dulcimer
-dialdehyde
 diastomatic
 dizzying
 depreciant
