@@ -395,7 +395,6 @@ asteriscuses
 auditions
 acapnial
 acetylsalicylic
-abd
 auxohormone
 abidances
 abider
@@ -819,6 +818,7 @@ absee
 abseils
 athermous
 arithmic
+abd
 amianthoid
 absentee
 absenters
