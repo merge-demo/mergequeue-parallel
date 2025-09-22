@@ -1200,6 +1200,7 @@ decrementing
 dasyuridae
 deckpipe
 diarchic
+draw
 dactylopatagium
 dentistic
 dicaeology
@@ -16846,7 +16847,6 @@ diplomate
 developed
 despecificate
 disillusions
-draw
 dongon
 dishonesties
 drawbar
