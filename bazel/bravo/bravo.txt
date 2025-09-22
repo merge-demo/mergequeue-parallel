@@ -13859,6 +13859,7 @@ blenniid
 browman
 burettes
 besaiel
+borderies
 blindages
 bulbourethral
 besteading
@@ -14981,7 +14982,6 @@ brucella
 bungle
 barraters
 breedable
-borderies
 breedy
 byzantian
 bengalic
