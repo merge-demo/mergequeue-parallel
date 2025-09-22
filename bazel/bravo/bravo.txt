@@ -7152,6 +7152,7 @@ beveled
 bustled
 bestraddled
 baptize
+broomsticks
 boogyman
 blitzkrieged
 bute
@@ -9612,7 +9613,6 @@ bourette
 bismite
 bluenoser
 bismuth
-broomsticks
 bamboozling
 bromids
 burhinus
