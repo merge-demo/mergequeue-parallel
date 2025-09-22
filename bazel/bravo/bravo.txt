@@ -2887,6 +2887,7 @@ battener
 bravoing
 bowle
 berrypicker
+brog
 blindingly
 blazonries
 bacchanalianism
@@ -5231,7 +5232,6 @@ badder
 bassette
 bastes
 bothsided
-brog
 buddleia
 begazing
 borderer
