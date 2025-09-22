@@ -2619,7 +2619,6 @@ dryasdust
 duress
 drugged
 demasculinised
-disulphonic
 desulphurising
 designates
 decolourizer
@@ -8268,6 +8267,7 @@ ductible
 damasked
 debouche
 dissectors
+disulphonic
 diadochic
 diadochite
 drawability
