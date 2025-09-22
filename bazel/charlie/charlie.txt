@@ -19669,7 +19669,6 @@ columbine
 covin
 climactic
 chamfrons
-cusp
 crocky
 copesetic
 columbotantalate
@@ -29449,6 +29448,7 @@ conjunctional
 continental
 crystallometric
 crystallose
+cusp
 checkerboard
 coevality
 crystallurgy
