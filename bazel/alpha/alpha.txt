@@ -8118,7 +8118,6 @@ aardwolves
 abulic
 alienists
 airscape
-alienize
 aliens
 acetanion
 axiologist
@@ -21736,6 +21735,7 @@ angularly
 agronomist
 amowt
 autometamorphosis
+alienize
 assyriologue
 antitubercular
 amphistylar
