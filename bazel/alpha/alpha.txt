@@ -18498,7 +18498,6 @@ aminoglutaric
 annuent
 acarophilous
 archaeographical
-academial
 atokous
 anemologic
 admedian
@@ -22946,6 +22945,7 @@ alluviation
 attars
 anarthropoda
 augurs
+academial
 ahungry
 alkahestica
 autorhythmic
