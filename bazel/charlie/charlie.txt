@@ -1109,7 +1109,6 @@ cupeller
 caryopsides
 calcivorous
 creambush
-chapmanship
 cyclothure
 calcographer
 calcography
@@ -28937,6 +28936,7 @@ choledography
 chatons
 cries
 crig
+chapmanship
 crying
 climatography
 crimeful
