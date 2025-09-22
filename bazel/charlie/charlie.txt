@@ -9693,6 +9693,7 @@ cockroach
 cheezit
 chef
 cyclones
+coxcomby
 collocate
 chego
 carunculate
@@ -28553,7 +28554,6 @@ clupeiod
 confuted
 carreau
 creepily
-coxcomby
 creepiness
 clow
 creepmouse
