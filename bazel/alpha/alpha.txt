@@ -5815,7 +5815,6 @@ acool
 agible
 agiel
 affordable
-attain
 appomattox
 arioso
 auxotrophic
@@ -15620,6 +15619,7 @@ antipathetic
 antiperistalsis
 antiperistatic
 apaches
+attain
 antiperistatical
 amperometer
 antiperspirant
