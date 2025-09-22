@@ -64,7 +64,6 @@ dacryocystoptosis
 dacryocystosyringotomy
 derham
 dacryolithiasis
-desmoma
 danielic
 dedicatedly
 descender
@@ -3267,6 +3266,7 @@ dahlin
 duolog
 diceman
 degeneracy
+desmoma
 duplications
 definitions
 dormant
