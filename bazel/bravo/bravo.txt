@@ -3883,6 +3883,7 @@ basil
 bawsint
 brontogram
 balldom
+boardly
 blamelessness
 brevetting
 bawties
@@ -11601,7 +11602,6 @@ boardings
 boardsmanship
 besieges
 boatloads
-boardly
 buceros
 broodsac
 britzka
