@@ -7705,7 +7705,6 @@ cerise
 combustively
 circumvolute
 cerithium
-ceriums
 corambis
 cyamid
 ciceros
@@ -22022,6 +22021,7 @@ cadrans
 confessionally
 chirographary
 confessor
+ceriums
 confessorship
 confetti
 conocephalus
