@@ -2050,7 +2050,6 @@ achymous
 aweigh
 agra
 aviculariidae
-autogamy
 apama
 azobenzol
 arabinose
@@ -5537,6 +5536,7 @@ ambilian
 agamically
 agamidae
 agapae
+autogamy
 aftertouch
 antimonarchist
 antiegoistical
