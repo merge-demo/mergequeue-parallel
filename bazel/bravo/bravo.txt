@@ -999,7 +999,6 @@ birlie
 bewitch
 blabberer
 bourdon
-bayardly
 bordrage
 blinger
 baidarka
@@ -5375,6 +5374,7 @@ bewired
 benthamite
 bloodripeness
 babelic
+bayardly
 boozier
 begummed
 butcher
