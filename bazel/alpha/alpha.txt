@@ -455,7 +455,6 @@ assets
 anthotropic
 alfalfa
 abirritating
-akvavit
 aquocellolitis
 agriotes
 abdominous
@@ -5027,6 +5026,7 @@ artistical
 aeviternal
 anatomicomedical
 anthospermum
+akvavit
 alf
 avernal
 afterpart
