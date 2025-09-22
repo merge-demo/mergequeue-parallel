@@ -3061,6 +3061,7 @@ acropathy
 actualistic
 actuality
 alcayde
+acanaceous
 actualness
 allochromatic
 aplomb
@@ -21664,7 +21665,6 @@ asserts
 aphroditic
 assertum
 amynodont
-acanaceous
 actus
 asak
 alloeotic
