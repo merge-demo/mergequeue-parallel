@@ -3547,7 +3547,6 @@ degass
 disappears
 dodecant
 degaussing
-destituting
 degener
 declaredness
 diereses
@@ -15572,6 +15571,7 @@ dicyanodiamide
 deduit
 dodecylphenol
 donatee
+destituting
 dentiloguy
 drag
 diapery
