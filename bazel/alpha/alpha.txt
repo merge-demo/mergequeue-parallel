@@ -9794,6 +9794,7 @@ abandonee
 archaeology
 andoke
 abu
+ambisinister
 aldermanry
 amaurosis
 amaze
@@ -9900,7 +9901,6 @@ antipatharia
 ambisexuality
 archilute
 acquaints
-ambisinister
 accessions
 antimetathesis
 amblypodous
