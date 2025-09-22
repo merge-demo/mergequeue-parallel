@@ -9939,6 +9939,7 @@ crouch
 chronobiology
 collateral
 cancers
+cevadilline
 convertibly
 chemotactic
 cresylene
@@ -30263,7 +30264,6 @@ crummiest
 crumming
 coinages
 calcarine
-cevadilline
 crumper
 cheerfullest
 crumpet
