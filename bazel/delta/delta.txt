@@ -7825,7 +7825,6 @@ detachability
 devolatilised
 decoyed
 dosimetries
-depeople
 devolatilizing
 dartingness
 devolved
@@ -11156,6 +11155,7 @@ downway
 disassociate
 disasters
 dimerize
+depeople
 dextrorotatary
 doupioni
 debonnaire
