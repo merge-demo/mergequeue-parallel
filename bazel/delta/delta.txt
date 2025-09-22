@@ -11138,7 +11138,6 @@ dendroctonus
 dulled
 depurator
 dorhawk
-dissertator
 disarticulating
 detruded
 disarticulator
@@ -17743,6 +17742,7 @@ disembodies
 derivate
 deportees
 dietotoxicity
+dissertator
 dichondra
 dietotoxic
 dubitably
