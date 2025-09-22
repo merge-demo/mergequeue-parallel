@@ -1352,6 +1352,7 @@ apishly
 admass
 aevia
 amenders
+admeasure
 acceptilation
 auspicated
 afterpast
@@ -3839,7 +3840,6 @@ agaonidae
 azilut
 adman
 affidavits
-admeasure
 antiquatedness
 admeasurer
 anaclete
