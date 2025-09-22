@@ -11313,7 +11313,6 @@ chlorococcaceae
 cologned
 coincider
 chlorococcus
-chlorocresol
 chlorodyne
 condyloid
 chlorodize
@@ -12256,6 +12255,7 @@ chrysochlorous
 chrysography
 conjointly
 cos
+chlorocresol
 chrysology
 chattelized
 cupbearers
