@@ -3935,6 +3935,7 @@ bombardier
 bocstaff
 brickbats
 bergamasca
+borghi
 birdbanding
 bdelloura
 bdellouridae
@@ -6840,7 +6841,6 @@ blessed
 besew
 bellicosities
 bittor
-borghi
 betrim
 bradyseismic
 bibliopolistic
