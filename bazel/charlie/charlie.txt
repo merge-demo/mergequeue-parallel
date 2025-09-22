@@ -1016,7 +1016,6 @@ competency
 calcaneoscaphoid
 calcannea
 calcannei
-channellers
 calcareous
 chironomidae
 calcareousness
@@ -28749,6 +28748,7 @@ cines
 charlatanry
 chirl
 crescentoid
+channellers
 crescents
 crescentwise
 crescively
