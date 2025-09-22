@@ -1539,6 +1539,7 @@ dittander
 deacons
 demobilizes
 deactivate
+diplograph
 dishwashings
 discoglossid
 distractedly
@@ -10916,7 +10917,6 @@ dirtied
 dirtying
 dirtily
 disseizes
-diplograph
 disincrease
 dyslogia
 discontinuous
