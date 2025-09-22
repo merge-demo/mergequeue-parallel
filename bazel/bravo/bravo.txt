@@ -8317,7 +8317,6 @@ barenecked
 bakepan
 barbarous
 beadlet
-biggy
 biggie
 beribboned
 bradyauxetic
@@ -15741,6 +15740,7 @@ bulled
 blart
 bovicide
 bankers
+biggy
 bitonality
 bromacetic
 beamishly
