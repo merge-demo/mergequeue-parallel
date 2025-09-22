@@ -17647,7 +17647,6 @@ caquetoire
 coccyzus
 cocco
 changar
-clallam
 capitoul
 cumins
 cyanomethaemoglobin
@@ -22930,6 +22929,7 @@ cebidae
 cubism
 conservatorship
 capriciously
+clallam
 coordinator
 conserve
 conserved
