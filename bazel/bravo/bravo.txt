@@ -8028,6 +8028,7 @@ biconic
 biconically
 boildown
 banyoro
+bengali
 barenesses
 bayberry
 butcherous
@@ -10681,7 +10682,6 @@ bemix
 benton
 balanophora
 blenching
-bengali
 blend
 bestill
 blendwater
