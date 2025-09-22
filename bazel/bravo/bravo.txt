@@ -927,6 +927,7 @@ bookland
 bdellotomy
 bowstaff
 boistously
+battologised
 ballplayers
 bergander
 beluchi
@@ -12241,7 +12242,6 @@ benitoite
 bemud
 bolstered
 bolsterer
-battologised
 birdbrained
 brake
 briefless
