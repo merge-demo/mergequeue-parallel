@@ -7452,6 +7452,7 @@ astronaut
 antislavery
 acned
 alcestis
+allophane
 atrocity
 agau
 apio
@@ -13715,7 +13716,6 @@ altiplanicie
 algarrobin
 anoxemias
 ashrams
-allophane
 androgenetic
 adhara
 avicularium
