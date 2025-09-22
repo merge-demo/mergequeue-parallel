@@ -15879,6 +15879,7 @@ constants
 circumcrescent
 contraregular
 clechy
+criteria
 cleck
 commune
 coassumes
@@ -29466,7 +29467,6 @@ cerebrums
 crystoleum
 crystolon
 crit
-criteria
 cryptogamous
 criteriia
 criteriology
