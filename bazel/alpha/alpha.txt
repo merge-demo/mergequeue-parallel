@@ -585,6 +585,7 @@ aboideaus
 aahed
 arn
 achaeta
+alea
 assumedly
 aboiteaux
 allegories
@@ -7654,7 +7655,6 @@ aortosclerosis
 amphibia
 ale
 arctia
-alea
 aleak
 aleatory
 accusor
