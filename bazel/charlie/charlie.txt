@@ -557,7 +557,6 @@ cruiseway
 commilitant
 catalineta
 caducean
-catechistic
 caducecei
 caducei
 cleptomania
@@ -11188,6 +11187,7 @@ crippler
 chloralize
 chloralized
 complexly
+catechistic
 commissioners
 chloralum
 chlorambucil
