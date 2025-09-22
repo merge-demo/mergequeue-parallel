@@ -11725,7 +11725,6 @@ anamorphoscope
 anamorphosis
 azocochineal
 auxoblast
-asiphonogama
 aspermatous
 aniridia
 antimoniated
@@ -17021,6 +17020,7 @@ amethodical
 assigners
 abiogeny
 acoelomate
+asiphonogama
 afterfuture
 apogonid
 apographic
