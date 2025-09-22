@@ -46,7 +46,6 @@ befrogged
 brushable
 bonspiel
 baton
-becrust
 botrytises
 bacteriophobia
 balked
@@ -12325,6 +12324,7 @@ beeregar
 bombycid
 bantered
 bombycine
+becrust
 bighearted
 bagpiper
 basihyal
