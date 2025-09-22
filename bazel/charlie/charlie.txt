@@ -15672,7 +15672,6 @@ claughted
 chapitle
 claus
 catholically
-clause
 clauses
 coattends
 craniotympanic
@@ -20279,6 +20278,7 @@ coft
 cunza
 coercends
 carosella
+clause
 commodatum
 commodes
 cheesemongering

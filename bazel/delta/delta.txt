@@ -1783,7 +1783,6 @@ deaving
 debacle
 decolorization
 disregardfully
-delegative
 doxastic
 dorsolum
 dissevers
@@ -10352,6 +10351,7 @@ dioptrical
 diopsidae
 daroo
 dioramas
+delegative
 diophantine
 driftpiece
 dowsing
