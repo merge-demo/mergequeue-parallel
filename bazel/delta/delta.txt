@@ -3699,7 +3699,6 @@ disoccupied
 dehorn
 didepside
 dealbuminize
-dolcan
 dreadful
 distilment
 delivers
@@ -8548,6 +8547,7 @@ dehydrofreeze
 diet
 dyschromatopsia
 duchy
+dolcan
 departmentally
 doughnut
 dendrophilous
