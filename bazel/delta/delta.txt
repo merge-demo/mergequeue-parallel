@@ -722,6 +722,7 @@ dancalite
 duro
 disject
 deadmelt
+dedenda
 defailment
 demoniacs
 dystopia
@@ -7849,7 +7850,6 @@ distentions
 devons
 desirability
 devoration
-dedenda
 drawsheet
 dairyings
 dogfishes

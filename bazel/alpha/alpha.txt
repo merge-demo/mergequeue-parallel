@@ -5667,6 +5667,7 @@ agendas
 ankylosaur
 agene
 ageneses
+antimeter
 agenesis
 agenetic
 agenized
@@ -6255,7 +6256,6 @@ antiweed
 aguirage
 aguise
 aholt
-antimeter
 amyluria
 altitonant
 axanthopsia
