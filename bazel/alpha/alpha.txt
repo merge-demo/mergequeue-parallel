@@ -17338,6 +17338,7 @@ anametadromous
 anteportico
 amercers
 anglicist
+automatics
 aluminizes
 apotome
 asciferous
@@ -21635,7 +21636,6 @@ assert
 aesthesics
 asserted
 asserter
-automatics
 archegonium
 assertingly
 anathematically
