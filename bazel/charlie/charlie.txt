@@ -7669,7 +7669,6 @@ contrabass
 ceremonies
 ceremonious
 ceremoniousness
-counterpoint
 congregates
 cereous
 cuddyhole
@@ -22394,6 +22393,7 @@ calcaria
 cylindered
 cutocellulose
 clatch
+counterpoint
 clustery
 congressing
 coffees
