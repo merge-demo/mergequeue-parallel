@@ -17542,7 +17542,6 @@ backwraps
 balladising
 buibui
 boma
-burgeoning
 bastillion
 barbel
 bonnive
@@ -18118,6 +18117,7 @@ bacillite
 beknit
 boyardom
 biffins
+burgeoning
 blacker
 braciola
 boweling
