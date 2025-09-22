@@ -3936,6 +3936,7 @@ awa
 aldrin
 admits
 admittance
+anlas
 angelocracy
 admittatur
 admitted
@@ -19163,7 +19164,6 @@ afterhand
 adynamy
 areng
 another
-anlas
 arenicola
 atechnic
 anagrammed
