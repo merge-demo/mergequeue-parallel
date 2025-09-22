@@ -4553,7 +4553,6 @@ bowsprit
 bilker
 beau
 bedazzles
-baptise
 bespray
 borrovian
 bedbugs
@@ -5185,6 +5184,7 @@ befuddler
 biglandular
 bacillosis
 boxberries
+baptise
 befuddling
 beautyship
 booted
