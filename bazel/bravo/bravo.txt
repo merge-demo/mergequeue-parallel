@@ -13200,6 +13200,7 @@ bridgemaker
 bathylith
 bullhorns
 brat
+battalions
 baronize
 bangtail
 bedecking
@@ -16778,7 +16779,6 @@ barricadoed
 buffoon
 ballads
 benzoxycamphor
-battalions
 burgwere
 biabo
 blastoderm
