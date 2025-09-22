@@ -8999,7 +8999,6 @@ applejack
 allwork
 arnut
 allworthy
-antdom
 anticaste
 antechambers
 activation
@@ -19875,6 +19874,7 @@ andrographolide
 armpiece
 astrolater
 agos
+antdom
 aquamaniles
 ananthropism
 allivalite
