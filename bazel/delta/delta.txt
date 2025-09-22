@@ -4562,7 +4562,6 @@ doting
 dicolic
 disclosing
 dendrite
-decern
 dorsilumbar
 damia
 dromicia
@@ -11010,6 +11009,7 @@ dithiobenzoic
 duoliteral
 dire
 discongruity
+decern
 durindana
 dacron
 degranulation
