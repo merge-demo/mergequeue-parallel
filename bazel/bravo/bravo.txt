@@ -987,7 +987,6 @@ bayadere
 bottomed
 bosser
 bukidnon
-boshas
 burnous
 boyards
 buckraming
@@ -2646,6 +2645,7 @@ beldame
 blackcods
 bodicemaker
 brahmsian
+boshas
 barlafummil
 broadener
 barleycorn
