@@ -3262,6 +3262,7 @@ basilidian
 brome
 babydom
 baboon
+befrill
 bitting
 birder
 beleaped
@@ -10765,7 +10766,6 @@ bundling
 bleo
 befuddlers
 bartending
-befrill
 blastings
 blin
 baillie
