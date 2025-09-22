@@ -14023,7 +14023,6 @@ bowerly
 brachialis
 blindstory
 bubas
-bedangled
 beachfront
 brachiator
 brachycephali
@@ -14514,6 +14513,7 @@ biopsychologist
 bicycloheptane
 bibliogony
 buglers
+bedangled
 brownistic
 breathier
 bookworms
