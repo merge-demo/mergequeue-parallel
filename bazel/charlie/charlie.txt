@@ -7470,6 +7470,7 @@ cerated
 cerates
 ceratiid
 coresidual
+cephalemia
 ceratins
 ceratioid
 caffle
@@ -17323,7 +17324,6 @@ conversion
 climatius
 chetif
 concretes
-cephalemia
 coannexed
 coannexes
 coannihilate
