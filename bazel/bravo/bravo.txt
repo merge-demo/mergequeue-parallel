@@ -15108,6 +15108,7 @@ bonelet
 bunsenite
 batwa
 biobibliography
+bombyciform
 beaverroot
 borborygmus
 bellowsmaker
@@ -17319,7 +17320,6 @@ bodega
 ballgames
 balldress
 bodies
-bombyciform
 bitterbump
 breadthen
 busser
