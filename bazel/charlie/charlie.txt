@@ -7979,6 +7979,7 @@ cevine
 choltry
 cevitamic
 cismontane
+curbstone
 contes
 cf
 cfd
@@ -31295,7 +31296,6 @@ curbline
 cashmerette
 cymous
 curbside
-curbstone
 curbstoner
 cadie
 criterium
