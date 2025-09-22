@@ -11079,6 +11079,7 @@ dissipativity
 diakinesis
 dicier
 disconnection
+disregarding
 disconcertedness
 dealates
 diamagnetically
@@ -13401,7 +13402,6 @@ defenceless
 disregarded
 drumskin
 disregardfulness
-disregarding
 dingbat
 deforests
 dramatise
