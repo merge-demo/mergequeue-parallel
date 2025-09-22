@@ -6778,7 +6778,6 @@ costard
 celibatic
 conducent
 celibatist
-carijona
 clobbering
 celibatory
 carboras
@@ -28931,6 +28930,7 @@ captains
 cochair
 cricotus
 cheek
+carijona
 criddle
 coracobrachialis
 criey
