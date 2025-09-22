@@ -7911,6 +7911,7 @@ cestodes
 copatron
 compete
 coronize
+cuneated
 capitulary
 carouses
 cestoids
@@ -28919,7 +28920,6 @@ cricopharyngeal
 choosey
 cojuror
 cricothyroidean
-cuneated
 compositions
 captains
 cochair
