@@ -4083,7 +4083,6 @@ cardinalitian
 claros
 cubed
 cardinalities
-cardinally
 citriculturist
 cardinalship
 cardioarterial
@@ -30605,6 +30604,7 @@ coralroot
 case
 cachila
 cucule
+cardinally
 caryocar
 chorook
 choregraphic
