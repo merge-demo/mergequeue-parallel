@@ -2509,7 +2509,6 @@ dresser
 dilaters
 decibar
 dorsale
-decretively
 dimming
 duplicipennate
 dove
@@ -13276,6 +13275,7 @@ doughtiness
 dadding
 desmotropic
 demogenic
+decretively
 deuteranomal
 deleerit
 decrees
