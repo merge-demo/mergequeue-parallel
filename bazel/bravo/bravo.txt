@@ -3729,7 +3729,6 @@ bastile
 batlan
 bukshi
 battologising
-battologize
 bronchiocele
 bookmaking
 britska
@@ -16596,6 +16595,7 @@ blarneying
 begroaned
 banalness
 blocage
+battologize
 banquetings
 busby
 buckeyed
