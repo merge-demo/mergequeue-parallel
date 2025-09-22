@@ -4157,7 +4157,6 @@ beastlily
 beclown
 barrow
 bradypus
-beastling
 bited
 bullswool
 bulgy
@@ -12120,6 +12119,7 @@ boldly
 blackmail
 brahminic
 boldnesses
+beastling
 burbots
 bedamp
 boldo
