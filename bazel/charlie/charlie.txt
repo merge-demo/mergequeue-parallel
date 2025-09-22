@@ -325,7 +325,6 @@ cacodemonia
 cowtongue
 citizendom
 cacodemonial
-chinook
 cacodemonize
 cacodyl
 cedrium
@@ -21347,6 +21346,7 @@ concessional
 chausseemeile
 concessions
 computerite
+chinook
 concessory
 concettism
 conch
