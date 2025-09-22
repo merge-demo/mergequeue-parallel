@@ -8255,6 +8255,7 @@ cercarias
 chalazoin
 charvet
 chalcanth
+countersurprise
 chalcedony
 cusconine
 calabrasella
@@ -27138,7 +27139,6 @@ cubehead
 cosmopolicy
 countersun
 carbonade
-countersurprise
 chrotta
 cynosarges
 countersworn
