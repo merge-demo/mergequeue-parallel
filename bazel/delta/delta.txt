@@ -3579,7 +3579,6 @@ depeculate
 demipremise
 disquantity
 deprint
-dermatoxerasia
 decurions
 deglut
 dognaps
@@ -16908,6 +16907,7 @@ drawloom
 demipriest
 determinativeness
 discharity
+dermatoxerasia
 dozes
 depreciations
 drawoff
