@@ -6774,7 +6774,6 @@ accouchements
 amphimixis
 adores
 anticosine
-appar
 aith
 aithochroi
 acceleratingly
@@ -9410,6 +9409,7 @@ alen
 alternity
 antiluetin
 arango
+appar
 absolved
 alterocentric
 atoxic
