@@ -4399,6 +4399,7 @@ befleas
 belchers
 brazenness
 bumpology
+burseed
 becloaks
 blackfriars
 blowiness
@@ -12562,7 +12563,6 @@ bonnet
 brachelytra
 bonnethead
 bedway
-burseed
 bonnetiere
 bonnetlike
 brandying
