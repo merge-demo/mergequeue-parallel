@@ -3058,6 +3058,7 @@ backswordsman
 bordermark
 bookbinderies
 bartramian
+battleships
 buxeous
 bartree
 beetmister
@@ -3718,7 +3719,6 @@ barnstorms
 buying
 basocyte
 bethanking
-battleships
 buhr
 bimestrial
 battlewagon
