@@ -3636,6 +3636,7 @@ baginda
 bedehouses
 boise
 britzkas
+blenny
 bolson
 birlinn
 batiks
@@ -14338,7 +14339,6 @@ brahmoism
 batocrinidae
 bray
 bivariant
-blenny
 braided
 binaurally
 binomen
