@@ -2805,6 +2805,7 @@ bolding
 betulaceous
 bibliopegy
 brazee
+bathoflore
 boomboxes
 body
 banting
@@ -3587,7 +3588,6 @@ blowfishes
 basion
 banker
 bratling
-bathoflore
 bibliomaniacal
 blackeye
 batholithic
