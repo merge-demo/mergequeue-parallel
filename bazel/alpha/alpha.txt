@@ -254,7 +254,6 @@ anthranoyl
 adcraft
 abashing
 admonition
-ataxonomic
 abdest
 abdicable
 archimycetes
@@ -13173,6 +13172,7 @@ abandonments
 antecedent
 anisostaminous
 anisosthenic
+ataxonomic
 anisostichous
 anisostomous
 acetosoluble
