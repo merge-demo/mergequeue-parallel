@@ -8921,7 +8921,6 @@ bombproof
 billy
 barberess
 bunns
-biogases
 bruises
 bleachground
 beautifiers
@@ -11587,6 +11586,7 @@ bombinate
 buteo
 buda
 bode
+biogases
 budgeted
 boanergism
 bisontine
