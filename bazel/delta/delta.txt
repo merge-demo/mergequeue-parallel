@@ -9970,7 +9970,6 @@ desmans
 discursus
 denticulation
 daintily
-delators
 diminuent
 drossiness
 dewlap
@@ -18277,6 +18276,7 @@ dorsimedian
 demonstrationists
 dunitic
 despotic
+delators
 disputant
 deanery
 decipher

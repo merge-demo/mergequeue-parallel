@@ -10495,6 +10495,7 @@ biteless
 balanus
 buttonhold
 belligerent
+bowdlerise
 badasses
 blastula
 boswellia
@@ -14977,7 +14978,6 @@ breezeway
 bimorphemic
 bulbocapnin
 breezeways
-bowdlerise
 besanctify
 brazier
 birdlore
