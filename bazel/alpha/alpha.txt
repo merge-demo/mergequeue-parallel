@@ -1688,7 +1688,6 @@ accusation
 abrazite
 aerical
 accusatives
-antheridial
 animadverting
 antediluvian
 accusatory
@@ -8185,6 +8184,7 @@ autoelectronic
 assisan
 alineation
 abridgment
+antheridial
 acraspedote
 accusably
 alined
