@@ -15558,6 +15558,7 @@ boner
 bawra
 bailage
 bauble
+bersim
 buskle
 brittleness
 belled
@@ -17208,7 +17209,6 @@ baboonroot
 bleachers
 bedegar
 benzinduline
-bersim
 ballistocardiogram
 bedotted
 boniest
