@@ -10105,7 +10105,6 @@ dynamogeny
 darlingtonia
 dauphins
 dynamograph
-dynamometamorphic
 diatonicism
 disseverance
 dynamometrical
@@ -14538,6 +14537,7 @@ demurest
 dismembrator
 damaging
 doorbells
+dynamometamorphic
 datelines
 dyeing
 disintegratory
