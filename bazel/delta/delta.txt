@@ -4484,7 +4484,6 @@ dependant
 delftware
 demerit
 dotonidae
-disreputable
 demiluster
 discourager
 damoetas
@@ -11391,6 +11390,7 @@ distrainee
 discerption
 dislink
 diggers
+disreputable
 dischargeable
 dispirited
 dilacerating
