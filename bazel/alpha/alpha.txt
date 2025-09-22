@@ -4931,6 +4931,7 @@ aeruginous
 animikite
 aerugo
 aerugos
+administrator
 aes
 arenga
 autosepticemia
@@ -14956,7 +14957,6 @@ antiecclesiastic
 analcimes
 abaci
 axofugal
-administrator
 apastra
 antherine
 aggrandisement
