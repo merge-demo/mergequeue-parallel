@@ -18001,7 +18001,6 @@ charbroiled
 copulable
 chololith
 captiving
-colpocele
 coelectron
 centrist
 ciborium
@@ -18217,6 +18216,7 @@ coercible
 coercionary
 coercitive
 coercive
+colpocele
 coerciveness
 centrolepidaceous
 coercivity
