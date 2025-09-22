@@ -4505,7 +4505,6 @@ beglamour
 besmooths
 baptismal
 bahiaite
-banally
 bienness
 biradiated
 bool
@@ -10665,6 +10664,7 @@ blellums
 blemishment
 brandies
 blemmatrope
+banally
 breakfront
 bylining
 blatancies
