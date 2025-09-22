@@ -7715,6 +7715,7 @@ drawers
 diffusional
 disheveling
 devenustate
+discoverer
 devexity
 dividedly
 dyspneic
@@ -8882,7 +8883,6 @@ dibstone
 deis
 degustation
 disapprobatory
-discoverer
 dibutyrin
 debituminize
 deflexure
