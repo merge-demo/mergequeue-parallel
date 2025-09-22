@@ -2492,7 +2492,6 @@ accommodations
 astr
 acpt
 acquaint
-acquisible
 acquaintanceships
 asymmetrocarpous
 acetochloral
@@ -16943,6 +16942,7 @@ alcid
 arthrotropic
 apocopes
 antennula
+acquisible
 archspy
 antigravitational
 aerier
