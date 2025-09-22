@@ -2622,7 +2622,6 @@ duress
 drugged
 demasculinised
 desulphurising
-designates
 decolourizer
 dumpcarts
 desmarestiaceae
@@ -4201,6 +4200,7 @@ dogmatising
 delphically
 dis
 doeskin
+designates
 despiritualization
 delphinia
 disperses
