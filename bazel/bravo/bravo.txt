@@ -6824,7 +6824,6 @@ burtree
 beseen
 burglariously
 bajan
-burgundian
 bousoukis
 barchan
 brazilite
@@ -10031,6 +10030,7 @@ biblos
 bizz
 bluecoats
 bielenite
+burgundian
 bellyache
 bjorne
 bestamp
