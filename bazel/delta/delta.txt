@@ -7131,7 +7131,6 @@ dhangar
 daitya
 destrer
 decalescent
-deputation
 degras
 diseasing
 dorsocaudal
@@ -10611,6 +10610,7 @@ dishes
 dataflow
 doleritic
 drudger
+deputation
 diplomates
 diplomatically
 diplomatique
