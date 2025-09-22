@@ -2526,7 +2526,6 @@ burmite
 barid
 bullyism
 bronchostenosis
-bleatingly
 bourride
 bereaving
 bestrewn
@@ -12952,6 +12951,7 @@ betulaceae
 bushelage
 basilisks
 bikhaconitine
+bleatingly
 bibliokelpt
 boozes
 booziest
