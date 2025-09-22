@@ -670,7 +670,6 @@ bechances
 beletter
 bungles
 briguing
-battalions
 blennostatic
 barefacedly
 batfowler
@@ -16775,6 +16774,7 @@ barricadoed
 buffoon
 ballads
 benzoxycamphor
+battalions
 burgwere
 biabo
 blastoderm
