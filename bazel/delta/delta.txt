@@ -2069,7 +2069,6 @@ decagonally
 dothidella
 daimen
 dispraise
-decagram
 decagrams
 declasse
 despised
@@ -2094,6 +2093,7 @@ decaying
 dopamines
 diety
 degusted
+decagram
 defoil
 dummy
 daffier

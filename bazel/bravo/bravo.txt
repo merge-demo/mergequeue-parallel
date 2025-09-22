@@ -9599,7 +9599,6 @@ bicuspid
 beadhouses
 birthland
 breeders
-boolies
 bisischiatic
 bauera
 bisk
@@ -13738,6 +13737,7 @@ banisher
 biperforate
 bicycled
 byworks
+boolies
 bovate
 besmirching
 biochemists
