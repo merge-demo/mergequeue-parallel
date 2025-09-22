@@ -12439,7 +12439,6 @@ amenableness
 achromotrichia
 anesthetizes
 anestrous
-anethene
 arab
 anethol
 anethols
@@ -14627,6 +14626,7 @@ anseres
 aguey
 anticatalyst
 anticatalytically
+anethene
 apodous
 anticatarrhal
 afernan

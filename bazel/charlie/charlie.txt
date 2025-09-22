@@ -14104,7 +14104,6 @@ cosmogonical
 cookwares
 cepe
 crocodile
-chloritoid
 corta
 cleruchial
 circassic
@@ -26970,6 +26969,7 @@ conjugable
 chartae
 ciceroning
 circumventer
+chloritoid
 counterphobic
 chondromas
 counterpicture
