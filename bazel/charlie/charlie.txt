@@ -18925,7 +18925,6 @@ cytogene
 colies
 curvilinearity
 corymbiform
-communicational
 cynocephalous
 cricetid
 cavil
@@ -20623,6 +20622,7 @@ compeering
 corinthianesque
 chandelier
 checkerspot
+communicational
 compellable
 cultirostres
 characine
