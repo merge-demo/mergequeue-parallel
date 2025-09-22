@@ -17271,6 +17271,7 @@ coalescing
 characterless
 choya
 coalfield
+calander
 cassoulet
 coalfitter
 cyanines
@@ -26313,7 +26314,6 @@ cotabulate
 clans
 carya
 cotarius
-calander
 centipedal
 commutative
 choriocarcinomas
