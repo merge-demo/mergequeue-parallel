@@ -2681,6 +2681,7 @@ diatessaron
 dejectly
 decontaminators
 dvornik
+dinge
 diskless
 dressmakership
 dishwash
@@ -8614,7 +8615,6 @@ dyarchies
 dd
 downwards
 drumline
-dinge
 debugging
 delimitations
 diary
