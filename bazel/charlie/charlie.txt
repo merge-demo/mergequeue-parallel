@@ -4384,7 +4384,6 @@ cannelons
 cheeks
 chowries
 cragwork
-concettist
 calicle
 calypterae
 caryopilite
@@ -12578,6 +12577,7 @@ concepts
 cycloidally
 capsular
 chromotropism
+concettist
 cajeputol
 collochemistry
 chromoxylograph
