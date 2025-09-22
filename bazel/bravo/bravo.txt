@@ -884,6 +884,7 @@ backings
 boccale
 bullyhuff
 borderlight
+boogaloo
 bijouterie
 bagganet
 bawcock
@@ -13619,7 +13620,6 @@ brassicaceous
 balklines
 bornyl
 boreades
-boogaloo
 bodying
 besand
 bowstrings
