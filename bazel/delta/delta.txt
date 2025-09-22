@@ -2684,7 +2684,6 @@ dvornik
 diskless
 dressmakership
 dishwash
-devoured
 deconvolve
 dendrophile
 dustfall
@@ -6017,6 +6016,7 @@ diagrammitically
 depthlessness
 disconfirm
 diobols
+devoured
 delimiting
 disapprove
 dermatonosus
