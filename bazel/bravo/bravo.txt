@@ -1838,7 +1838,6 @@ bancus
 bathonian
 backstabber
 banderma
-bannerline
 balr
 bowlike
 brainish
@@ -10469,6 +10468,7 @@ blastochyle
 bromochlorophenol
 blastocoele
 becharming
+bannerline
 bakestone
 bioscope
 biologistic
