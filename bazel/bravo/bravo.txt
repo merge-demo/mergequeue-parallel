@@ -6174,7 +6174,6 @@ benjamins
 beakful
 byelaw
 benne
-bennes
 beveling
 bennets
 bootlace
@@ -13640,6 +13639,7 @@ beebreads
 botony
 bartizaned
 bounds
+bennes
 baygall
 bonhomies
 barrancas
