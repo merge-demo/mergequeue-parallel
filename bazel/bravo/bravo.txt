@@ -573,7 +573,6 @@ bootboy
 blastema
 befriendment
 biggishness
-batrachium
 bandboxical
 bib
 backwind
@@ -14975,6 +14974,7 @@ barelegged
 biosatellite
 blowtorch
 brucella
+batrachium
 bungle
 barraters
 breedable
