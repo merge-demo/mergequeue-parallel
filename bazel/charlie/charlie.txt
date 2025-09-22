@@ -13767,6 +13767,7 @@ cinclus
 cephalocathartic
 conquistadors
 cure
+continuer
 chisels
 crevalles
 caupones
@@ -23636,7 +23637,6 @@ campagus
 continued
 continuedness
 comprovincial
-continuer
 claque
 caviling
 continuers
