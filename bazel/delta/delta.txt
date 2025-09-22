@@ -2869,7 +2869,6 @@ decurvature
 decus
 decarbonizing
 dispensing
-decussate
 dissensions
 desideratum
 duettino
@@ -14585,6 +14584,7 @@ discrimination
 dihedrals
 disoxygenate
 disseverment
+decussate
 dryfarm
 departmentization
 deeming
