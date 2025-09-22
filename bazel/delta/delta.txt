@@ -8864,7 +8864,6 @@ delitous
 diabolatry
 diborate
 dibothriocephalus
-daughterless
 demobilized
 declivities
 didelphid
@@ -15850,6 +15849,7 @@ deproceduring
 dormers
 doeg
 dormette
+daughterless
 dormeuse
 dormilona
 dormitories
