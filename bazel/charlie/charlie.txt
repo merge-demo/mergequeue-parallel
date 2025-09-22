@@ -2857,7 +2857,6 @@ caffoline
 corticated
 canopying
 covets
-cours
 canopus
 concatenation
 coercion
@@ -16393,6 +16392,7 @@ cribral
 curvette
 cacophonies
 cisele
+cours
 cocos
 cyanitic
 clyster
