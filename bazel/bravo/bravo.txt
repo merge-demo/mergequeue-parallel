@@ -3813,7 +3813,6 @@ baure
 bausond
 bautta
 bauxite
-budded
 basified
 binominal
 blistery
@@ -11229,6 +11228,7 @@ beestride
 bizonia
 bestrapped
 blote
+budded
 brillolette
 beaker
 bracts
