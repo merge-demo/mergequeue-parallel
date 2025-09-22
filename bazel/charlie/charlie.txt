@@ -10197,6 +10197,7 @@ clapmatch
 chevrotain
 chevvy
 capsa
+cuproid
 cabining
 censual
 cannulation
@@ -31535,7 +31536,6 @@ chromosomes
 cursorary
 cyclas
 cursory
-cuproid
 cursorily
 crystallizability
 cursoriness

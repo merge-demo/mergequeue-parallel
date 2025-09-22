@@ -14449,6 +14449,7 @@ audiogram
 animalities
 antiagglutinative
 androsphinges
+aday
 antiaggression
 antiaggressionist
 aridity
@@ -19321,7 +19322,6 @@ axonophorous
 argentometer
 antillean
 argentometry
-aday
 anchoritical
 aptotic
 afterstate
