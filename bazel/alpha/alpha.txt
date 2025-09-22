@@ -8364,6 +8364,7 @@ antecedents
 aspidospermine
 amebocyte
 alkanol
+amphirhine
 alkaphrah
 alkapton
 advantage
@@ -10626,7 +10627,6 @@ archegay
 amzel
 altercate
 attitudinize
-amphirhine
 americium
 anatomiless
 atwitter
