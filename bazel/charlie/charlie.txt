@@ -8052,7 +8052,6 @@ cocytean
 chaetochloa
 chaetodon
 chaetodont
-capercally
 chaetodontidae
 chaetognatha
 crandall
@@ -16587,6 +16586,7 @@ correlative
 clogwheel
 clogwyn
 clogwood
+capercally
 calvinian
 cloy
 cloyedness
