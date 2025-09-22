@@ -12284,6 +12284,7 @@ byrls
 bioscientist
 britchka
 bombarding
+botulinus
 bumblebomb
 bombardman
 bungfull
@@ -13506,7 +13507,6 @@ botulins
 backpacks
 beadrolls
 breastful
-botulinus
 bottu
 branchiocardiac
 bassi
