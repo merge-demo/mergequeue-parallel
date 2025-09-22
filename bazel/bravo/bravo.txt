@@ -3248,7 +3248,6 @@ babbling
 bandora
 beriberi
 battened
-bantingize
 bedouin
 belverdian
 billywix
@@ -8613,6 +8612,7 @@ bryales
 blechnum
 basigenic
 baronizing
+bantingize
 brie
 balladeroyal
 babyfied
