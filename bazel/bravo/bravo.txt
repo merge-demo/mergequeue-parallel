@@ -3570,6 +3570,7 @@ barricade
 berkeleyite
 bakula
 bien
+bijugular
 bitsy
 bigmouths
 boliviano
@@ -10266,7 +10267,6 @@ blacktopping
 beggiatoaceae
 blacktops
 blastoporphyritic
-bijugular
 berber
 biocatalytic
 basialveolar
