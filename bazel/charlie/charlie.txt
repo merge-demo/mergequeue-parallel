@@ -697,6 +697,7 @@ categorically
 cephalata
 cordylanthus
 circumspatial
+crescentade
 cageless
 cagelike
 contraclockwise
@@ -28726,7 +28727,6 @@ crescendo
 cogways
 crescendoing
 crescendos
-crescentade
 cussing
 cantalever
 crescentader
