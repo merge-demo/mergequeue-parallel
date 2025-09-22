@@ -4541,6 +4541,7 @@ dragading
 dogberryism
 decartelize
 degree
+doubler
 damsels
 disembody
 demidistance
@@ -16524,7 +16525,6 @@ datum
 dunnesses
 dacoities
 drabbling
-doubler
 dextropinene
 dublin
 duplicident

@@ -15683,7 +15683,6 @@ arthrodia
 assistants
 alloisomeric
 antiphrases
-antiphrastic
 amberiferous
 ascendant
 authorization
@@ -17628,6 +17627,7 @@ applicable
 applicableness
 asilid
 acuclosure
+antiphrastic
 ambilaterality
 archdespot
 applications
