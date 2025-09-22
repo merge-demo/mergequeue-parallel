@@ -9091,6 +9091,7 @@ dorsals
 dictyoid
 diction
 diphyodont
+delphinid
 disguiser
 disparage
 drivebolt
@@ -9443,7 +9444,6 @@ deborah
 disobeyal
 discoplacenta
 digamies
-delphinid
 displume
 destructively
 digamma
