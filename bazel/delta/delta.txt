@@ -6980,7 +6980,6 @@ dignified
 desuetudes
 downfalls
 disqualifying
-distills
 duelled
 demonisms
 disshroud
@@ -14895,6 +14894,7 @@ diffusibly
 dockmaster
 disfranchise
 doctress
+distills
 due
 discombobulation
 diffide
