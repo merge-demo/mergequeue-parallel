@@ -9093,7 +9093,6 @@ charophyta
 capewise
 courantes
 cannily
-charoses
 charoseth
 caconychia
 castellany
@@ -30306,6 +30305,7 @@ clifflet
 chelydroid
 chantors
 confrater
+charoses
 consonantizing
 chiragra
 cruorin

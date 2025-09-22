@@ -7428,6 +7428,7 @@ aywhere
 atresia
 aggrandized
 aegyrite
+allagite
 alcargen
 abedge
 ascophyllum
@@ -8426,7 +8427,6 @@ aspout
 anorexigenic
 antiphonal
 allachesthesia
-allagite
 ailuroid
 autocamp
 allagostemonous
