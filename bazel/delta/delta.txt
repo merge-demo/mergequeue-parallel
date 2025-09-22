@@ -8851,7 +8851,6 @@ dibothriocephalus
 demobilized
 declivities
 didelphid
-dibranch
 defiguration
 draglines
 dirten
@@ -13932,6 +13931,7 @@ discontent
 discohexaster
 doryphorus
 debits
+dibranch
 diactin
 diablo
 daubreelite
