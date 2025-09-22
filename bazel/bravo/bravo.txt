@@ -14842,7 +14842,6 @@ baja
 breakfast
 buffetings
 breakfasted
-breakfronts
 butlerage
 baldachined
 breaking
@@ -17148,6 +17147,7 @@ bulwarked
 blanketers
 balor
 bowboy
+breakfronts
 bleachhouse
 bulwarking
 brey
