@@ -7817,7 +7817,6 @@ binghi
 busses
 baniya
 bendways
-bibionid
 bewreath
 brad
 burials
@@ -17972,6 +17971,7 @@ berettas
 brutification
 bluehearts
 beerily
+bibionid
 barbotte
 babbitt
 busk
