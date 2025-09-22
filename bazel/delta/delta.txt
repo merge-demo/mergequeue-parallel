@@ -3763,7 +3763,6 @@ demonetise
 drabness
 deign
 dreamsiness
-disunities
 deigned
 distrainable
 driftless
@@ -15662,6 +15661,7 @@ doodlesack
 demeanors
 determinedly
 delaine
+disunities
 duumviri
 diphenhydramine
 drawcansir
