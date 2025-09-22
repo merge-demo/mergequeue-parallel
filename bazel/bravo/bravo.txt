@@ -5753,7 +5753,6 @@ bonhommie
 bradyseismal
 boxers
 bromocyanide
-boosies
 branular
 blueprinted
 brassworker
@@ -15693,6 +15692,7 @@ believingly
 blare
 beshame
 birthdays
+boosies
 burbs
 brokages
 begohm
