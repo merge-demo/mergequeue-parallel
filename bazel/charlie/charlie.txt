@@ -13296,7 +13296,6 @@ cyclometric
 contributes
 cyclomyaria
 causeway
-cyclonal
 contravention
 cyclone
 cyclonic
@@ -30431,6 +30430,7 @@ clinger
 chlorine
 ctenidial
 ctenidium
+cyclonal
 clownishly
 criniferous
 cellulifugally
