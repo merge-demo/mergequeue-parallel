@@ -9696,6 +9696,7 @@ decemcostate
 demicircle
 destructuralize
 dichlorvos
+duridine
 dubba
 dieter
 dispersedelement
@@ -18554,7 +18555,6 @@ democratic
 durians
 differ
 duricrust
-duridine
 desmidiaceae
 diphthonged
 dekalitre

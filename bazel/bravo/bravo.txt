@@ -17954,6 +17954,7 @@ bipods
 blastide
 beguiler
 businesses
+butteraceous
 bodo
 beadeyes
 battailant
@@ -18187,7 +18188,6 @@ bibliothecary
 bremely
 brigbote
 burgages
-butteraceous
 boredness
 blissless
 butterbird
