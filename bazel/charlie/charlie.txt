@@ -2663,7 +2663,6 @@ cliquishness
 caning
 counterreprisal
 caniniform
-choledochoenterostomy
 confidantes
 caninities
 companable
@@ -12383,6 +12382,7 @@ cenote
 claimless
 chromate
 conjunction
+choledochoenterostomy
 chromates
 cacciatora
 chrysomonadine
