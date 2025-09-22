@@ -3089,6 +3089,7 @@ antisyndicalism
 anagramming
 atolls
 acclimate
+archaeologic
 aready
 abram
 augen
@@ -18507,7 +18508,6 @@ archaeolithic
 archaeologer
 artemisic
 adoral
-archaeologic
 archaeological
 abyssa
 aroma
