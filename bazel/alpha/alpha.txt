@@ -5266,7 +5266,6 @@ authenticity
 autogenous
 afoul
 airable
-atomizing
 afray
 adherescent
 athrocytosis
@@ -9720,6 +9719,7 @@ amarity
 aplotomy
 amaritude
 amarthritis
+atomizing
 angiographic
 autosomatognosis
 albumean
