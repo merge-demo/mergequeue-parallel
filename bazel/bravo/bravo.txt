@@ -7465,6 +7465,7 @@ betaine
 bastonite
 businessman
 bevil
+biotical
 bevillain
 befell
 bigeye
@@ -9104,7 +9105,6 @@ botanists
 bubbles
 becalmment
 biotelemetries
-biotical
 bardiness
 beguilingness
 banksides
