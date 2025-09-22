@@ -5423,6 +5423,7 @@ bandura
 bandolier
 befriending
 basebred
+boro
 beheader
 beheira
 beachward
@@ -6990,7 +6991,6 @@ bitterly
 babeship
 baronet
 bridehouse
-boro
 blackberry
 bather
 boweled
