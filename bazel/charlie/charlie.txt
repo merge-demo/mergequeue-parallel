@@ -4244,6 +4244,7 @@ caretaker
 caretaking
 chastisers
 caretook
+carpopodite
 comfiest
 carets
 caretta
@@ -4765,7 +4766,6 @@ cressier
 companions
 covariables
 cleaning
-carpopodite
 carpopoditic
 commuters
 carved
