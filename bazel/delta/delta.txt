@@ -3525,7 +3525,6 @@ degasify
 dilatometric
 discontinued
 duco
-decussately
 detroit
 dermatocoptes
 drywall
@@ -11206,6 +11205,7 @@ devisee
 datolite
 disbands
 depopulate
+decussately
 decimally
 disbarring
 drivelled
