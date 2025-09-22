@@ -10507,7 +10507,6 @@ diphthongize
 diphthongizing
 doorknob
 discompliance
-daubentoniidae
 deess
 diversifoliate
 drest
@@ -15387,6 +15386,7 @@ diluviums
 dolmas
 desubstantiate
 dacryocystotomy
+daubentoniidae
 deprecate
 deallocated
 discovery
