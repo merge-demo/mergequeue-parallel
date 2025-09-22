@@ -2229,7 +2229,6 @@ duarch
 doggeries
 decartelizing
 dowries
-decasyllabon
 dreich
 derivedly
 diatomaceae
@@ -14274,6 +14273,7 @@ disorders
 deviances
 disclamatory
 dithion
+decasyllabon
 dephilosophize
 devotionate
 demarcature
