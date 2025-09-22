@@ -9377,6 +9377,7 @@ defacers
 dismembering
 depickle
 differentiate
+dorsopleural
 deescalates
 dioscoreaceous
 dsri
@@ -15937,7 +15938,6 @@ dolefuls
 detent
 dossman
 deputyship
-dorsopleural
 dirtplate
 doruck
 decatoic
