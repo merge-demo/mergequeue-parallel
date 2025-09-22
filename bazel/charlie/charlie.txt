@@ -10162,6 +10162,7 @@ chewinks
 cheveret
 cheveril
 cahoot
+cephalothoracic
 chevesaile
 chevetaine
 chevies
@@ -28257,7 +28258,6 @@ crossfiring
 copying
 cosher
 conine
-cephalothoracic
 chadors
 cran
 cabotages
