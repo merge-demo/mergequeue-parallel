@@ -8211,6 +8211,7 @@ daer
 discursativeness
 discarnation
 diachronically
+durances
 dicranum
 diacid
 dimeters
@@ -18516,7 +18517,6 @@ dementi
 driftlet
 declamator
 duffer
-durances
 downcast
 durani
 duraspinalis
