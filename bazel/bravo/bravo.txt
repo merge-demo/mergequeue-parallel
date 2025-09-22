@@ -9165,7 +9165,6 @@ bipennate
 bevor
 baldrics
 built
-bringsel
 benzothiopyran
 bipetalous
 bellic
@@ -16472,6 +16471,7 @@ busings
 bathychrome
 beefish
 bullweed
+bringsel
 bragget
 belling
 bubastid
