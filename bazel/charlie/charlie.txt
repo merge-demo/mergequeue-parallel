@@ -11996,7 +11996,6 @@ choriambus
 choric
 catlike
 chorines
-covalency
 collunarium
 chicadee
 cachina
@@ -19828,6 +19827,7 @@ cytozyme
 combinable
 combinably
 combinate
+covalency
 cabbagy
 combinational
 corrigent
