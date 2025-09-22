@@ -4562,7 +4562,6 @@ bladelike
 birdclapper
 bedchairs
 bellowing
-buntal
 bryophyte
 branchial
 brachelytrous
@@ -14725,6 +14724,7 @@ brailles
 brawnily
 bloodsuckers
 brune
+buntal
 bismarckianism
 babel
 brightener
