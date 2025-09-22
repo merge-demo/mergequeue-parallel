@@ -10264,6 +10264,7 @@ cleruchic
 chiasms
 cannas
 coset
+coenenchymatous
 chiasmus
 cochlidiidae
 coeline
@@ -20177,7 +20178,6 @@ commercial
 centgrave
 chequerwise
 commercialism
-coenenchymatous
 commercialists
 commerciality
 commercialize
