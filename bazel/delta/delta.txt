@@ -2658,7 +2658,6 @@ decompoundable
 decompoundly
 decompress
 decompresses
-depravers
 demiplacate
 decompressive
 dogies
@@ -3646,6 +3645,7 @@ dipsetic
 disentitling
 degust
 dasnt
+depravers
 divort
 dooja
 decorators
