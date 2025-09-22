@@ -8466,7 +8466,6 @@ dambose
 dermochrome
 denver
 desmonosology
-diambic
 diamegnetism
 disclike
 demioctagonal
@@ -8904,6 +8903,7 @@ defiatory
 diceras
 dmod
 deriving
+diambic
 deposited
 demiculverin
 downdraught
