@@ -5578,6 +5578,7 @@ auriscopy
 atoning
 abenteric
 alluvial
+anaptotic
 autocoder
 aphodian
 agaricaceae
@@ -11817,7 +11818,6 @@ ariettas
 awe
 anaptychus
 anaptyctic
-anaptotic
 anaesthetized
 allothigenetically
 auberges
