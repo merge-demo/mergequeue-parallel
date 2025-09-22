@@ -8916,7 +8916,6 @@ allowed
 asserters
 acquiescing
 aftermarriage
-allower
 asteism
 acylamido
 abramis
@@ -19911,6 +19910,7 @@ armures
 affright
 achromatinic
 ammonified
+allower
 arnaut
 arnberry
 address
