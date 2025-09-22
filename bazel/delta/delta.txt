@@ -2671,7 +2671,6 @@ dishonourer
 deposals
 delightedness
 diastrophism
-dialectics
 deltoidei
 deconsecrate
 doats
@@ -7728,6 +7727,7 @@ deviately
 dramatical
 divvying
 deviation
+dialectics
 dihydrazone
 dementias
 dolley
