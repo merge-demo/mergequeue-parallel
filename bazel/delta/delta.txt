@@ -1526,7 +1526,6 @@ demagnetize
 demiglace
 downer
 deaconesses
-divergingly
 dowsabel
 debased
 dismayfully
@@ -10623,6 +10622,7 @@ decompressing
 diplomats
 drawfile
 diplonema
+divergingly
 duennadom
 deuteric
 dunnaged
