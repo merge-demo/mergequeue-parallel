@@ -1744,6 +1744,7 @@ astelic
 acephalina
 armpad
 acensuador
+akonge
 auroauric
 aluminum
 auletai
@@ -15264,7 +15265,6 @@ antilocapra
 absolutize
 aerodermectasia
 appetitost
-akonge
 antilochus
 accessless
 anterevolutionary
