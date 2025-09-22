@@ -4739,6 +4739,7 @@ bondages
 bedside
 bedsonia
 braggish
+biffin
 bedsonias
 blacktree
 basidorsal
@@ -7958,7 +7959,6 @@ bohemianism
 biceps
 bedlight
 berhyming
-biffin
 beamingly
 bunemost
 bake
