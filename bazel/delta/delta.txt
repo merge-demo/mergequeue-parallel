@@ -1337,7 +1337,6 @@ directest
 dissaved
 diobolons
 dishy
-dolf
 daltonic
 deoxidizers
 demoted
@@ -8260,6 +8259,7 @@ diaeretic
 dubiocrystalline
 diaetetae
 deervetch
+dolf
 diageotropic
 diaglyphic
 dementing
