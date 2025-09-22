@@ -8054,6 +8054,7 @@ bicorned
 bv
 bochur
 bicornous
+baldacchino
 bagroom
 belligerents
 bicornuate
@@ -11101,7 +11102,6 @@ becudgels
 beguines
 blotty
 backbrand
-baldacchino
 balaklava
 beveto
 bashyle
