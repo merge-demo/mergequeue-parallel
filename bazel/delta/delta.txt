@@ -12004,7 +12004,6 @@ dimolecular
 dansy
 disenchantress
 duckwing
-depluming
 difforme
 disencharm
 drip
@@ -12077,6 +12076,7 @@ dicalcic
 denizened
 demerits
 demetallize
+depluming
 didelphine
 disentitlement
 dudishly
