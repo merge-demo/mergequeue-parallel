@@ -2053,7 +2053,6 @@ croaker
 campanological
 conjunctly
 campanologically
-coniology
 campanologist
 capillaceous
 campanologists
@@ -7438,6 +7437,7 @@ cephidae
 ceps
 caboclos
 corynebacterial
+coniology
 cerago
 ceramal
 crackling
