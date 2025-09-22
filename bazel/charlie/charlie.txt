@@ -9579,7 +9579,6 @@ checksumming
 coring
 castro
 catechize
-capacitively
 checkwork
 cosmologist
 checkwriter
@@ -31630,6 +31629,7 @@ curvilinead
 conoplain
 carpingly
 curvimeter
+capacitively
 curviness
 curviserial
 curvital
