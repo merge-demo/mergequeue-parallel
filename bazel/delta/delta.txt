@@ -6290,7 +6290,6 @@ deprecates
 diradiation
 didymolite
 detested
-diazenithal
 davoch
 dehydrators
 dedolence
@@ -9852,6 +9851,7 @@ dimetria
 discriminated
 dudder
 dilo
+diazenithal
 differentially
 dirity
 disenamour
