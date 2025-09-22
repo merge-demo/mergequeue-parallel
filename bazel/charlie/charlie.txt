@@ -4900,7 +4900,6 @@ candlestickward
 cowherbs
 carte
 curtalax
-cartel
 chondriosomes
 cesarean
 cakemaker
@@ -10179,6 +10178,7 @@ circumaxillary
 changed
 capitalistic
 copurchaser
+cartel
 copped
 crined
 chevres
