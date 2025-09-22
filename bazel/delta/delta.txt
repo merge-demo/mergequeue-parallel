@@ -3458,7 +3458,6 @@ deflections
 deformations
 dandily
 deformative
-dextrogyratory
 deuterostomata
 deforse
 dinitrotoluene
@@ -3855,6 +3854,7 @@ deityship
 diduce
 defenseman
 daphnite
+dextrogyratory
 dagoes
 deja
 devon
