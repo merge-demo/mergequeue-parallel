@@ -14955,7 +14955,6 @@ analcimes
 abaci
 axofugal
 administrator
-advential
 apastra
 antherine
 aggrandisement
@@ -24600,6 +24599,7 @@ actinomycin
 achromatic
 absurdness
 antisquatting
+advential
 avengeful
 ambage
 adventureship
