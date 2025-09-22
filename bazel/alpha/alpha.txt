@@ -8950,6 +8950,7 @@ afternight
 antisiphonal
 athapascan
 arval
+adoptable
 asyla
 allurement
 anisogamete
@@ -17734,7 +17735,6 @@ asteroid
 antibias
 appraises
 argentry
-adoptable
 appraising
 abacate
 appraisive
