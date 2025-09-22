@@ -1077,6 +1077,7 @@ apologs
 amphioxidae
 aleuromancy
 affile
+antitypic
 apollinian
 abused
 antilynching
@@ -7262,7 +7263,6 @@ atmid
 albinistic
 antivenin
 albinotic
-antitypic
 aesthesis
 albion
 aider
