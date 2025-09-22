@@ -605,7 +605,6 @@ baconize
 buckass
 bierkeller
 boidae
-bonjour
 barniest
 berstel
 billmen
@@ -10777,6 +10776,7 @@ borism
 bitstalk
 blepharocarcinoma
 bradawl
+bonjour
 balinger
 batyphone
 bienvenu

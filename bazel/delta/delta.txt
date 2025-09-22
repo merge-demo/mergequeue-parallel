@@ -3985,7 +3985,6 @@ disposal
 demonetisation
 delegates
 demeore
-dermatosis
 dermographism
 digressiveness
 diamb
@@ -10126,6 +10125,7 @@ dexiotropism
 disembocation
 dynastidan
 desertress
+dermatosis
 dilator
 dynastides
 dynastinae
