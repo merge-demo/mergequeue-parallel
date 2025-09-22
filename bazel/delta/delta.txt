@@ -792,6 +792,7 @@ delusters
 dakhini
 dovecote
 detn
+deionized
 diuretical
 drearly
 deprecatorily
@@ -3200,7 +3201,6 @@ designations
 domesticate
 defiber
 destructed
-deionized
 departs
 defibrillated
 dominants
