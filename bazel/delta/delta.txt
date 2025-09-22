@@ -3002,7 +3002,6 @@ deerfly
 domestication
 deerfood
 digraphic
-deservings
 defix
 diphthongs
 diverberate
@@ -8807,6 +8806,7 @@ diazoate
 dictations
 dehumidify
 diffident
+deservings
 diazoimide
 dyschroia
 daleman
