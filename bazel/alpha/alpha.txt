@@ -12442,6 +12442,7 @@ arab
 anethol
 anethols
 aneroids
+agnition
 avertible
 anetiological
 albertist
@@ -22497,7 +22498,6 @@ atheneum
 aerates
 annalism
 alpinisms
-agnition
 ambiopia
 atheologically
 alhagi
