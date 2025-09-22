@@ -16109,6 +16109,7 @@ clyde
 collards
 clydesider
 clientage
+carnies
 cliental
 cycloramas
 condylotomy
@@ -31056,7 +31057,6 @@ cumulately
 corkscrews
 cephalophus
 contemplatively
-carnies
 certainties
 cimeliarch
 cellulicidal
