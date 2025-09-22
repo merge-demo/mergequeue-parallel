@@ -12186,7 +12186,6 @@ depressible
 diabrotica
 donkeymen
 defencelessness
-disfigurer
 didactician
 diasper
 depositure
@@ -13460,6 +13459,7 @@ disruly
 dehepatize
 dynamotor
 diplography
+disfigurer
 dauting
 dairymaid
 dippable
