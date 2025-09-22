@@ -607,7 +607,6 @@ bierkeller
 boidae
 bonjour
 barniest
-bibbery
 berstel
 billmen
 beclothed
@@ -17105,6 +17104,7 @@ beduins
 baldricked
 bromization
 brisque
+bibbery
 bullpoll
 bemirror
 bullpup
