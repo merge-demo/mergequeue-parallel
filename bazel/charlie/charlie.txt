@@ -8440,7 +8440,6 @@ chamecephaly
 chamecephalous
 chamecephalus
 cannibals
-chameleon
 chameleonlike
 cantilena
 cckw
@@ -14073,6 +14072,7 @@ cyprididae
 cypridina
 caucasoid
 clostridium
+chameleon
 cremasteric
 cocainism
 cytoplasmically
