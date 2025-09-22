@@ -12389,6 +12389,7 @@ chromatin
 chromatype
 chromatist
 coracohyoid
+coot
 cholent
 crack
 chloroanaemia
@@ -24471,7 +24472,6 @@ coltskin
 coost
 curves
 curvinerved
-coot
 cootch
 cootfoot
 commoned
