@@ -10777,6 +10777,7 @@ bradford
 blacked
 borism
 bitstalk
+beacons
 blepharocarcinoma
 bradawl
 balinger
@@ -16021,7 +16022,6 @@ broomiest
 backflash
 broadwayite
 brailler
-beacons
 blotting
 bravadoed
 broomstraw
