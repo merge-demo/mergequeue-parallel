@@ -8540,7 +8540,6 @@ aquatint
 arborescent
 applyment
 anoxidative
-anemology
 alleleu
 allelic
 allelism
@@ -20299,6 +20298,7 @@ artocarpad
 arsenolite
 arsenophen
 aerobia
+anemology
 antesignani
 arsenophenol
 anotus
