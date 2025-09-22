@@ -4828,7 +4828,6 @@ crucilly
 comicocynical
 carriages
 carriagesmith
-cinchonicin
 confirmer
 carriageway
 carryall
@@ -6646,6 +6645,7 @@ codeia
 cedrin
 crenellation
 cedriret
+cinchonicin
 cedrol
 crochets
 corticiform
