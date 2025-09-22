@@ -8700,7 +8700,6 @@ celosias
 channelized
 cannaceae
 choroidal
-chibol
 channelled
 channelling
 channelure
@@ -26651,6 +26650,7 @@ cointersecting
 capparidaceae
 counteradvance
 colossuswise
+chibol
 catagories
 cheatingly
 counteragency
