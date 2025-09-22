@@ -6258,7 +6258,6 @@ antiweed
 aguirage
 aguise
 aholt
-amyluria
 altitonant
 axanthopsia
 acerbas
@@ -12130,6 +12129,7 @@ agmatine
 armillate
 axes
 anders
+amyluria
 adducible
 autoirrigation
 adipocerite
