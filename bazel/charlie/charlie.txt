@@ -1787,7 +1787,6 @@ cercelee
 camansi
 camaraderie
 camarasaurus
-champerator
 camarera
 camarin
 caama
@@ -20668,6 +20667,7 @@ cumulet
 congreve
 cinchonized
 competitiveness
+champerator
 competitor
 conjugal
 cascol
