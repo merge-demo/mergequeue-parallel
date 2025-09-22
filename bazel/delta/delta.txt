@@ -5900,6 +5900,7 @@ depreciation
 dredgings
 dacoity
 depreciative
+disbanding
 deoxygenization
 dryopians
 depredationist
@@ -16632,7 +16633,6 @@ diurnal
 draggers
 draggier
 diacritics
-disbanding
 dodecarchy
 deutoscolex
 dietic
