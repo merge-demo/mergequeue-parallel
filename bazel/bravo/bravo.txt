@@ -6158,6 +6158,7 @@ barked
 beleaguerer
 backhanding
 basidiolichenes
+barytostrontianite
 breedling
 benin
 bebop
@@ -10423,7 +10424,6 @@ beneficium
 bastion
 boghole
 bimuscular
-barytostrontianite
 blaoner
 besauce
 benedicite
