@@ -8360,7 +8360,6 @@ buzukis
 beatster
 briquet
 bignoniaceous
-bygo
 bygone
 bist
 bigonial
@@ -17770,6 +17769,7 @@ bibliograph
 bambini
 bursae
 bursary
+bygo
 botrydium
 backstroked
 bazzite
