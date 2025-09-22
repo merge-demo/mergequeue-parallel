@@ -4741,7 +4741,6 @@ ambisextrous
 aerodynes
 anthroposophist
 apostrophal
-apitpat
 auslaut
 airphobia
 abler
@@ -24429,6 +24428,7 @@ axlesmith
 autotropic
 autotruck
 asclepias
+apitpat
 ayless
 ample
 amphoras
