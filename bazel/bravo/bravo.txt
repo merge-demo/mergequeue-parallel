@@ -7410,7 +7410,6 @@ bescrape
 bettonga
 bitterest
 bettor
-bullfighter
 betulin
 blackmailer
 babushkas
@@ -12779,6 +12778,7 @@ botanic
 bobotee
 brutifying
 blandness
+bullfighter
 baudekin
 brazilin
 brachygraphic
