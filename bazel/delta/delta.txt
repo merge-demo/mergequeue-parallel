@@ -1527,7 +1527,6 @@ demagnetize
 demiglace
 downer
 deaconesses
-dowsabel
 debased
 dismayfully
 diglucoside
@@ -7536,6 +7535,7 @@ dipsadinae
 doorwise
 dur
 devachan
+dowsabel
 disdainful
 divergement
 degger
