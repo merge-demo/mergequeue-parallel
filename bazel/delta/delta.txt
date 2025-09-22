@@ -6764,6 +6764,7 @@ desilicify
 desiliconization
 dribbed
 doubly
+diophantine
 deceased
 duplicidentata
 disregular
@@ -10349,7 +10350,6 @@ diopsidae
 daroo
 dioramas
 delegative
-diophantine
 driftpiece
 dowsing
 dozened
