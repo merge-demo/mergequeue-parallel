@@ -8663,6 +8663,7 @@ allis
 arsenides
 aristocrat
 alliterate
+aureity
 acescence
 alcidae
 await
@@ -17970,7 +17971,6 @@ arcanist
 agentship
 apteroid
 aptest
-aureity
 amazonian
 amorphophyte
 ataentsic
