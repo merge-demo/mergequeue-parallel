@@ -5677,7 +5677,6 @@ ankylosaur
 agene
 agaricus
 ageneses
-antimeter
 agenesis
 agenetic
 agenized
@@ -7857,6 +7856,7 @@ alexandrine
 alexandrite
 apexing
 acoelomi
+antimeter
 anostosis
 accadian
 altruistically
