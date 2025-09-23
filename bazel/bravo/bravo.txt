@@ -2859,7 +2859,6 @@ beebread
 blow
 blowsiest
 bioscopies
-barbery
 ballers
 birders
 blanchi
@@ -16903,6 +16902,7 @@ bustic
 bearleap
 bitthead
 bulb
+barbery
 bartizans
 blandishers
 bonser
