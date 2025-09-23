@@ -10987,7 +10987,6 @@ ampelidae
 archespore
 ampelography
 apter
-agallochum
 acrocephalic
 ampelographist
 ascensional
@@ -11414,6 +11413,7 @@ aeneus
 affiche
 anabantidae
 anabaptistic
+agallochum
 audiometers
 alloy
 ajaja

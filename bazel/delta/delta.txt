@@ -5232,6 +5232,7 @@ denotatum
 deacidifying
 denotes
 denoting
+diselectrify
 deeping
 denouements
 discouragement
@@ -14241,7 +14242,6 @@ deliriate
 diter
 diluter
 ditertiary
-diselectrify
 disyokes
 deinocephalia
 dithecal
