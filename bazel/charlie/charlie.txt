@@ -6765,6 +6765,7 @@ celestina
 celestite
 celestitude
 clivias
+cirsium
 celiadelphus
 celialgia
 convallarin
@@ -8795,7 +8796,6 @@ custodia
 chaperonage
 chaperone
 catesbeiana
-cirsium
 cytoryctes
 chapes
 clinicians
