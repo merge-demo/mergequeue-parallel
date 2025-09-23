@@ -5534,7 +5534,6 @@ appendicitis
 angels
 antitemperance
 ascertainer
-afloat
 ambilian
 agamically
 agamidae
@@ -22473,6 +22472,7 @@ annexer
 aseitas
 acanthoid
 antiseptics
+afloat
 agronomies
 agrionidae
 atheisticness
