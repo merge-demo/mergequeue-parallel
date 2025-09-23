@@ -4994,6 +4994,7 @@ aseismatic
 allegorister
 ahrimanian
 affrication
+avalon
 apicad
 audition
 aethionema
@@ -24540,7 +24541,6 @@ avalanching
 angiology
 assortive
 avalent
-avalon
 affich
 avance
 adenoses
