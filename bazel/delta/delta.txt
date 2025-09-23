@@ -3534,6 +3534,7 @@ diereses
 dripping
 distater
 decasemic
+dignify
 dorsomedian
 desiderative
 dinornithiformes
@@ -16591,7 +16592,6 @@ decollation
 decorticating
 dodderer
 dithiol
-dignify
 distrix
 diagrammatic
 demoralise
