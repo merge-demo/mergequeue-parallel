@@ -10489,6 +10489,7 @@ diphthongize
 diphthongizing
 doorknob
 discompliance
+doloriferous
 deess
 diversifoliate
 drest
@@ -15609,7 +15610,6 @@ dement
 donk
 dolor
 dioxin
-doloriferous
 donkeyman
 decahedra
 deliliria
