@@ -8727,7 +8727,6 @@ demean
 danke
 dirl
 diatoma
-deems
 diastase
 din
 doorframe
@@ -18051,6 +18050,7 @@ duler
 dullard
 dipotassium
 dicarboxylate
+deems
 dorsi
 detrusor
 dullards
