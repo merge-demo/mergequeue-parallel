@@ -4747,6 +4747,7 @@ apostrophal
 auslaut
 airphobia
 abler
+antixerophthalmic
 aerodontalgia
 adenitises
 archhost
@@ -17408,7 +17409,6 @@ acrocera
 appanaging
 appanagist
 astrographic
-antixerophthalmic
 aerostatics
 arginase
 antineuralgic
