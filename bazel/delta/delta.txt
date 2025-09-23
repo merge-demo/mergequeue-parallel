@@ -986,6 +986,7 @@ dray
 disjoints
 doughmen
 directcarving
+detruncation
 drosophila
 diaphonia
 dared
@@ -7489,7 +7490,6 @@ dulbert
 distalia
 detruding
 disulphid
-detruncation
 damneder
 detrusion
 deposal
