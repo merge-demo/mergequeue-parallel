@@ -560,6 +560,7 @@ adenoidectomies
 abnormalcies
 antiscians
 andromede
+aflaunt
 ampheclexis
 asplenieae
 abnormalising
@@ -12387,7 +12388,6 @@ androseme
 apodoses
 affectability
 allesthesia
-aflaunt
 anepigraphous
 amollish
 algae
