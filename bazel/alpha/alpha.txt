@@ -501,7 +501,6 @@ abjurers
 abkari
 abortionists
 amerism
-abkhasian
 ashtrays
 abl
 asperities
@@ -19937,6 +19936,7 @@ athanasianist
 anthophoridae
 azophenyl
 anomer
+abkhasian
 archenemy
 awearied
 accoutring
