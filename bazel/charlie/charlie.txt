@@ -95,6 +95,7 @@ cabful
 cleuch
 cabiai
 canephorus
+ceraunophone
 cronish
 cabildo
 carwash
@@ -15269,7 +15270,6 @@ cowish
 circumnavigatory
 clamantly
 clamaroo
-ceraunophone
 cywydd
 cartooned
 clutterer
