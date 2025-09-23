@@ -3349,6 +3349,7 @@ duodecuple
 deflocculating
 disinclined
 digoneutism
+disrate
 decreasing
 demulcents
 drawler
@@ -9793,7 +9794,6 @@ discontentful
 disagree
 delimiters
 deviance
-disrate
 decriminalizing
 dicastery
 dilettantism
