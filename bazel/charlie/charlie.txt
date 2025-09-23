@@ -18779,7 +18779,6 @@ chaoush
 congreet
 canvasses
 cree
-couples
 coiture
 cojudge
 cabot
@@ -27403,6 +27402,7 @@ carap
 cabinetmaker
 cauldron
 chaperon
+couples
 courting
 courtly
 courtlier
