@@ -16130,6 +16130,7 @@ chainon
 cryptographical
 collada
 corosif
+clothworker
 croakiest
 cliffhanger
 cliffhangers
@@ -18985,7 +18986,6 @@ collaborative
 circulatable
 collaboratively
 clomping
-clothworker
 collaborator
 collaborators
 closehauled
