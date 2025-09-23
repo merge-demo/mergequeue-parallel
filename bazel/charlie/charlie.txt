@@ -10046,7 +10046,6 @@ celeries
 cherried
 canna
 cherries
-chirognomist
 creamer
 chailletiaceae
 capharnaism
@@ -17615,6 +17614,7 @@ cantiness
 coccydynia
 correctitude
 cognised
+chirognomist
 coccidioidal
 corvina
 coccidiosis
