@@ -3715,6 +3715,7 @@ cyclammonium
 captress
 cambibia
 ciconia
+crosslight
 carbazic
 chlorpikrin
 civilist
@@ -29901,7 +29902,6 @@ carcase
 citybuster
 cuculidae
 chapt
-crosslight
 chromatographic
 canoness
 crosslike
