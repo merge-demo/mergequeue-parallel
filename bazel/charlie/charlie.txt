@@ -4663,7 +4663,6 @@ cyathi
 chapmen
 copyfitter
 carpetbaggism
-commuter
 commas
 contralateral
 choenix
@@ -15368,6 +15367,7 @@ clangours
 clavola
 clangs
 cystathionine
+commuter
 critter
 contrastimulation
 calluses
