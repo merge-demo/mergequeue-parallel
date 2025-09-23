@@ -2074,7 +2074,6 @@ cowbells
 chewed
 combinant
 campbellisms
-cannonproof
 commonance
 campbellites
 clairvoyances
@@ -16592,6 +16591,7 @@ clogwood
 capercally
 calvinian
 cloy
+cannonproof
 cloyedness
 cloyer
 chloralization
