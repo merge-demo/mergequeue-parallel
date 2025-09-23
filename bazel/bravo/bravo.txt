@@ -1649,6 +1649,7 @@ ballot
 ballota
 burnies
 billbergia
+bam
 boyarism
 blier
 boc
@@ -1773,7 +1774,6 @@ bulbed
 balzarine
 blockhead
 buttocks
-bam
 bucklum
 bambino
 beauts
