@@ -10663,6 +10663,7 @@ chimaeroid
 classwise
 chimakum
 cephalomancy
+cowhorn
 chimakuan
 cantoning
 chimaphila
@@ -27689,7 +27690,6 @@ cancellability
 cowhiding
 claviole
 chromatophilia
-cowhorn
 camiscia
 copartnery
 ciconiae
