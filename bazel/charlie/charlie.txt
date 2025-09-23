@@ -2081,6 +2081,7 @@ campbellites
 clairvoyances
 cixiid
 campcraft
+cosecs
 cryal
 carver
 camped
@@ -25978,7 +25979,6 @@ coseat
 conducive
 collude
 curator
-cosecs
 chancelleries
 cosectarian
 cosectional
