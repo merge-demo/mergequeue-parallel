@@ -17174,6 +17174,7 @@ coadjutors
 carduus
 coadjutorship
 coadjutress
+creditive
 coadjutrix
 coadjuvate
 crasser
@@ -28520,7 +28521,6 @@ credibly
 creditable
 creditably
 checkerwork
-creditive
 creditless
 cinematographical
 creditor
