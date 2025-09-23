@@ -21359,7 +21359,6 @@ anthologise
 autosomally
 anosmatic
 aegagropiles
-aikido
 aspergillin
 amitoses
 aspergillosis
@@ -24311,6 +24310,7 @@ ariocarpus
 autorotational
 articulable
 anuses
+aikido
 autorrhaphy
 alms
 anisocoria

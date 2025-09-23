@@ -9153,7 +9153,6 @@ crossfall
 chartographical
 confluxibleness
 chartophylacia
-chartophylacium
 chartreux
 chartroom
 commonefaction
@@ -31943,6 +31942,7 @@ czarish
 chufa
 caseine
 creophagy
+chartophylacium
 czaritzas
 cubmaster
 czechization
