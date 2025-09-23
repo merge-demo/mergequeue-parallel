@@ -10762,7 +10762,6 @@ daguerrean
 dips
 dipsacaceous
 deipnosophist
-dipsaceae
 disavow
 dun
 dubiousness
@@ -18556,6 +18555,7 @@ decimalise
 democratic
 durians
 differ
+dipsaceae
 duricrust
 desmidiaceae
 diphthonged
