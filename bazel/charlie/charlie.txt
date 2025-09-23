@@ -18703,7 +18703,6 @@ canonisation
 coindicant
 coiner
 comparograph
-concoction
 chiropterous
 continentally
 coinfers
@@ -21067,6 +21066,7 @@ chintzes
 closedown
 comptness
 cabda
+concoction
 ciderlike
 comptroller
 chinampa
