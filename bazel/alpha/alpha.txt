@@ -13458,6 +13458,7 @@ amiles
 annunciations
 ansated
 airliner
+auditory
 aphthonite
 anoas
 acaulous
@@ -23309,7 +23310,6 @@ alkalescency
 abelmosks
 agnail
 accommodational
-auditory
 atrichosis
 adsessor
 androgonium
