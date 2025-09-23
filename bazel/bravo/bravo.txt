@@ -6121,7 +6121,6 @@ bulgarophil
 bocasine
 blackhead
 blushful
-blotchy
 bedclothing
 belabored
 brachydome
@@ -13719,6 +13718,7 @@ balija
 bouldery
 bouser
 bagio
+blotchy
 bousouki
 bousoukia
 bare
