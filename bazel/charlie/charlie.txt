@@ -11808,6 +11808,7 @@ confine
 cult
 chondropterygian
 coachlet
+compter
 colpohysterotomy
 chondrosin
 ceration
@@ -29020,7 +29021,6 @@ checkstone
 cringes
 cubing
 cringing
-compter
 cringingness
 chrysophanus
 congressionist
