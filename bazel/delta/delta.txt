@@ -3193,7 +3193,6 @@ destructed
 departs
 defibrillated
 dominants
-doty
 despotist
 delphocurarine
 deteriority
@@ -8002,6 +8001,7 @@ divulgatory
 dismes
 dartos
 dicyan
+doty
 demonical
 durenol
 dextrocularity
