@@ -1,7 +1,6 @@
 a
 atomises
 assigner
-alkalies
 archnesses
 amyotaxia
 aahs
@@ -10603,6 +10602,7 @@ analogic
 amyosthenic
 alighting
 amyotonia
+alkalies
 amiray
 asseveratory
 appendicious
