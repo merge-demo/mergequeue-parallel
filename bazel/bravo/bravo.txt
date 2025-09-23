@@ -1558,6 +1558,7 @@ baronetised
 beeherd
 boarder
 boatsetter
+bronze
 blastemata
 bersiamite
 branchiate
@@ -15973,7 +15974,6 @@ bemoaned
 byous
 bleareyed
 bashful
-bronze
 bhotia
 bannered
 bombo
