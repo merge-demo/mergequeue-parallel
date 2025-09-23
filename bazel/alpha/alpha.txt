@@ -22640,7 +22640,6 @@ adenophthalmia
 adsorbates
 atloidoaxoid
 academicianship
-atma
 atmas
 atmiatry
 antisera
@@ -23247,6 +23246,7 @@ audad
 aurora
 audads
 audaean
+atma
 audian
 autocall
 aeciotelia
