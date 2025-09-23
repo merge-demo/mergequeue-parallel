@@ -3658,7 +3658,6 @@ arcato
 adiel
 alcosol
 aclastic
-aprowl
 argufier
 asseveration
 alentours
@@ -8168,6 +8167,7 @@ alantol
 anality
 alimentariness
 adonizing
+aprowl
 alimentation
 agnate
 antaphroditic
