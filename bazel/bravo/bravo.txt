@@ -1198,6 +1198,7 @@ baized
 benzoline
 bajury
 blackbelly
+biconsonantal
 bonnaz
 bewails
 balusters
@@ -16946,7 +16947,6 @@ bulger
 belloot
 buggess
 bedcover
-biconsonantal
 bechuana
 bayman
 braces
