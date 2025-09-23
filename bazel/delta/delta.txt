@@ -2652,7 +2652,6 @@ decompress
 decompresses
 demiplacate
 decompressive
-dogies
 duckies
 dimidiation
 dcollet
@@ -7618,6 +7617,7 @@ dilute
 djellaba
 deuton
 demurral
+dogies
 deutonymph
 danli
 dancy
