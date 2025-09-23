@@ -18617,7 +18617,6 @@ appulse
 adinidan
 axioms
 arche
-aberdavine
 archeal
 archearl
 average
@@ -24799,6 +24798,7 @@ ammoniuret
 assail
 amphibolostylous
 azoch
+aberdavine
 achenial
 automysophobia
 astraea
