@@ -4566,7 +4566,6 @@ distraughted
 datums
 drabbled
 daedalus
-dactylioglyphic
 delegacy
 dotier
 demihagbut
@@ -7060,6 +7059,7 @@ destress
 devs
 definish
 dorje
+dactylioglyphic
 dysepulotical
 dearths
 degrees
