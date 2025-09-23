@@ -7853,7 +7853,6 @@ discriminativeness
 devotedness
 dialogistical
 demigauntlet
-defalcator
 deputatively
 dalecarlian
 disallowed
@@ -17880,6 +17879,7 @@ desubstantialize
 disfellowship
 despatcher
 discomedusoid
+defalcator
 dezincing
 dudism
 disreputability
