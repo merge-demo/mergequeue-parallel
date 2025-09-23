@@ -9230,6 +9230,7 @@ bipolarity
 bipolarization
 besmear
 biporose
+buttonmould
 bipotentiality
 bromoiodid
 biprism
@@ -15474,7 +15475,6 @@ barbacan
 brises
 brisker
 balneotherapia
-buttonmould
 bluehead
 bewilder
 bouget
