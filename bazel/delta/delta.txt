@@ -5131,6 +5131,7 @@ dekameters
 durrie
 dilleniaceae
 deterministic
+diazins
 downgrading
 deletion
 drills
@@ -8772,7 +8773,6 @@ dialoguer
 deuterodome
 deducted
 diapering
-diazins
 dinguses
 ditremid
 dorneck
