@@ -5802,7 +5802,6 @@ depoetize
 dovekeys
 decaliter
 deportations
-dissipatedly
 discant
 deerlike
 dainties
@@ -16365,6 +16364,7 @@ downpipe
 downplay
 demonstrant
 disagreeable
+dissipatedly
 douche
 dotty
 downright
