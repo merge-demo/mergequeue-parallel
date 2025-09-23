@@ -6585,7 +6585,6 @@ airbrushing
 airburst
 antimechanistically
 airbusses
-atenist
 aquas
 axometer
 aircraftsman
@@ -10860,6 +10859,7 @@ adrenals
 amoebicide
 alb
 audiencer
+atenist
 attabal
 alodia
 adipsia
