@@ -7034,7 +7034,6 @@ bootjacks
 becalmed
 bawdiness
 bacterioscopically
-bespell
 bespelled
 bespend
 biparietal
@@ -14479,6 +14478,7 @@ bitterful
 babying
 brakier
 brakeless
+bespell
 brakeload
 bemotto
 brakemaker
