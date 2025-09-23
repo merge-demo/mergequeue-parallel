@@ -1167,6 +1167,7 @@ baitfish
 buffeter
 ballard
 baiting
+becrawl
 baywoods
 bodhisat
 ballasting
@@ -7630,7 +7631,6 @@ bountiousness
 bezzle
 boucher
 brachydactylous
-becrawl
 bumblebee
 bereareft
 branchiostomidae
