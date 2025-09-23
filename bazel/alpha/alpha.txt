@@ -5072,6 +5072,7 @@ acreages
 affectionateness
 affections
 affective
+avoidless
 advocacies
 autrefois
 affectivity
@@ -10971,7 +10972,6 @@ appreciatorily
 attitudinized
 antiglare
 amounted
-avoidless
 amounter
 anend
 amounters
