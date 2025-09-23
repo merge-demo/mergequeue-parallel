@@ -5035,7 +5035,6 @@ dejectedness
 depr
 denasalize
 digital
-disconsolateness
 discide
 dictamen
 downdraft
@@ -8857,6 +8856,7 @@ diabolatry
 diborate
 dibothriocephalus
 demobilized
+disconsolateness
 declivities
 didelphid
 defiguration
