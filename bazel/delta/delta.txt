@@ -5328,6 +5328,7 @@ dysaphia
 disputable
 dentatosinuate
 diethylacetal
+distil
 diatomacean
 decimalized
 demibombard
@@ -13876,7 +13877,6 @@ deaf
 deckles
 dephased
 dod
-distil
 derisive
 decolonize
 distyle
