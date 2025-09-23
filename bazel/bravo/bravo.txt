@@ -2832,6 +2832,7 @@ bump
 barotaxy
 bluebutton
 baseburner
+blendure
 bld
 baroquely
 bedabble
@@ -3448,7 +3449,6 @@ biggah
 beechdrops
 bastinado
 bastings
-blendure
 badgerly
 bastions
 bacilli
