@@ -7911,6 +7911,7 @@ besmirchment
 balsamum
 biblists
 bowlders
+beadle
 bezoar
 bruised
 blockwood
@@ -17455,7 +17456,6 @@ banjulele
 bullragged
 bucketshop
 burbot
-beadle
 bougar
 boat
 beata
