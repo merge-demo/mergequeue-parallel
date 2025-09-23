@@ -6057,7 +6057,6 @@ bekick
 bendwise
 begay
 bartramia
-benedicta
 broughta
 bidental
 bairns
@@ -7286,6 +7285,7 @@ biorhythmicities
 buffcoat
 bethorns
 befogs
+benedicta
 blackbirds
 backsaw
 bamboche
