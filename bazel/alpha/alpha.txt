@@ -300,7 +300,6 @@ abridged
 abdominothoracic
 acquiescent
 acquitted
-abducentes
 abduces
 astricts
 articulate
@@ -22167,6 +22166,7 @@ astriferous
 autosoteric
 antibusing
 alternately
+abducentes
 alectorioid
 antitragi
 assorts
