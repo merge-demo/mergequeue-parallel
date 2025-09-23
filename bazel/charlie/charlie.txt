@@ -11859,6 +11859,7 @@ cornutos
 chopines
 carapato
 clarina
+calendarian
 chopins
 colory
 converter
@@ -13270,7 +13271,6 @@ cyclode
 cyclodiene
 club
 catepuce
-calendarian
 crossbencher
 climbable
 cycloganoidei
