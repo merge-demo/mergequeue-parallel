@@ -1555,6 +1555,7 @@ barbouillage
 baronetised
 beeherd
 boarder
+butylated
 boatsetter
 bronze
 blastemata
@@ -3510,7 +3511,6 @@ benzoglyoxaline
 bullaces
 baiters
 batavi
-butylated
 biscuiting
 batavian
 bugeye
