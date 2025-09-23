@@ -13399,7 +13399,6 @@ allusory
 anacardiaceae
 adjutor
 announce
-anthropophagical
 announced
 announcing
 annualized
@@ -18100,6 +18099,7 @@ ampelis
 athericerous
 allhallow
 aquifer
+anthropophagical
 avanturine
 actifier
 aquifoliaceous
