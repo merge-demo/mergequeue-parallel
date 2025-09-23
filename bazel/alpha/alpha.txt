@@ -11799,7 +11799,6 @@ anaplasma
 anaplasmoses
 acuminate
 aseptolin
-anaplasty
 anosmia
 anaplerosis
 anaplerotic
@@ -14722,6 +14721,7 @@ anodic
 anticipates
 azoxy
 authority
+anaplasty
 anticipatingly
 andvari
 airplaning
