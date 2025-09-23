@@ -6545,7 +6545,6 @@ distensile
 defeasibility
 deity
 descriptivism
-decilitre
 doddies
 descrive
 descure
@@ -8937,6 +8936,7 @@ dichloride
 dichloroacetic
 dichlorodifluoromethane
 densher
+decilitre
 domiciling
 discitis
 dumpishness
