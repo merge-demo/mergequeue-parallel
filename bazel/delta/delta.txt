@@ -9140,7 +9140,6 @@ dichoptic
 demission
 didelphidae
 dingdong
-didelphoid
 disinclines
 detriment
 disdiaclasis
@@ -11670,6 +11669,7 @@ dotishness
 discost
 digitally
 discotheque
+didelphoid
 disengirdle
 disjoin
 diagramed
