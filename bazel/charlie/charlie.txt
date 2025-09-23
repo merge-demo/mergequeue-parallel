@@ -5110,7 +5110,6 @@ candida
 caseic
 cholecyanin
 cyberneticists
-canonistical
 cherimolla
 caseinate
 chondroitic
@@ -8028,6 +8027,7 @@ chacma
 chacmas
 chaconnes
 caudatolenticular
+canonistical
 countermovement
 cytozoa
 codirectional
