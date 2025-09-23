@@ -1479,6 +1479,7 @@ bloodshedding
 bepuzzle
 balistidae
 bloodalley
+bienne
 bouncer
 bottlebrush
 belgians
@@ -2722,7 +2723,6 @@ bogomile
 branching
 barnumism
 branchiostege
-bienne
 blitum
 brainsick
 balanocele
