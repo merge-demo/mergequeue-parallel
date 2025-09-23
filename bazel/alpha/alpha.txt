@@ -11235,6 +11235,7 @@ attaste
 assimilation
 anticodon
 archigonic
+annite
 alloquy
 anticreeper
 amphitrichate
@@ -23683,7 +23684,6 @@ acaulescent
 amatories
 austrianize
 austrians
-annite
 austric
 arises
 autarkical
