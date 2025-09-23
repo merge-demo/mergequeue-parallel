@@ -4837,6 +4837,7 @@ bitumen
 biguttate
 bevy
 backspace
+beata
 burrowstown
 beef
 battled
@@ -17458,7 +17459,6 @@ burbot
 beadle
 bougar
 boat
-beata
 bowllike
 bidenticulate
 bullaria
