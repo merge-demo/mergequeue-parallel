@@ -8328,7 +8328,6 @@ coonskin
 carbro
 complexity
 carbure
-corallet
 choyroot
 chalinitis
 chalkboard
@@ -20150,6 +20149,7 @@ cisco
 chai
 clee
 chokecherries
+corallet
 charcutier
 commentators
 commentatorship
