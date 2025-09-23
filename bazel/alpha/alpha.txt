@@ -797,7 +797,6 @@ assertors
 acesodyne
 abscissas
 anam
-apachism
 alcohate
 amphicyrtous
 absconce
@@ -24879,6 +24878,7 @@ araneous
 antivaccination
 antiqued
 afforestable
+apachism
 aeolodicon
 awaiters
 accoladed
