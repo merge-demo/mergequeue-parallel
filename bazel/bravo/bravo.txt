@@ -9966,6 +9966,7 @@ befog
 bivoluminous
 balaphon
 baining
+bedegar
 bushranger
 bedeviled
 battuto
@@ -17206,7 +17207,6 @@ brechan
 backlighting
 baboonroot
 bleachers
-bedegar
 benzinduline
 basisidia
 ballistocardiogram
