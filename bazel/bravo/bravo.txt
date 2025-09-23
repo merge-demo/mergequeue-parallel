@@ -2483,6 +2483,7 @@ barfish
 billbugs
 bathyhyperesthesia
 beechwoods
+bandless
 balducta
 baiza
 bedark
@@ -15889,7 +15890,6 @@ blennorrhagic
 benjy
 bodements
 buoyage
-bandless
 bylaw
 biffy
 boudin
