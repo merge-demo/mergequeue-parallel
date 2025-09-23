@@ -1365,7 +1365,6 @@ confisk
 combust
 clochards
 carfuls
-calinut
 chrismatories
 caliologist
 calipashes
@@ -29783,6 +29782,7 @@ croppy
 clarty
 cropping
 crops
+calinut
 contineu
 cropsick
 crossbowman
