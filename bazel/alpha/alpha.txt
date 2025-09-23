@@ -6948,7 +6948,6 @@ apocryphon
 arthresthesia
 androides
 akkadist
-aftershock
 avowal
 arthroderm
 aswing
@@ -14167,6 +14166,7 @@ atherosclerotically
 anthoecologist
 application
 anthogenesis
+aftershock
 anthogenetic
 anisopogonous
 agelacrinites
