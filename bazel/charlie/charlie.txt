@@ -9230,7 +9230,6 @@ chastest
 chasteweed
 coiffures
 censurers
-ceduous
 chasty
 censurableness
 chastise
@@ -31909,6 +31908,7 @@ cizar
 chilkat
 cutups
 carcased
+ceduous
 cutwater
 cutweed
 cutwork
