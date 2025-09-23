@@ -19444,7 +19444,6 @@ colophenic
 colophony
 cropland
 cavillatory
-cosalite
 colophonic
 colophons
 coloppe
@@ -24052,6 +24051,7 @@ conventicle
 conventicular
 conventional
 cutlassfish
+cosalite
 conventionalised
 conoscope
 comatous
