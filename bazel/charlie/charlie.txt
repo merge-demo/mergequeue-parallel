@@ -10189,7 +10189,6 @@ cronied
 counterflory
 coseasonal
 chevronwise
-clapmatch
 chevrotain
 chevvy
 capsa
@@ -26177,6 +26176,7 @@ cementlike
 cossaean
 cicada
 cosse
+clapmatch
 cosset
 controled
 cosseting
