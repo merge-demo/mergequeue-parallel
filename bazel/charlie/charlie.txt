@@ -3842,6 +3842,7 @@ carbonizing
 carbonous
 carbons
 carbonuria
+conatus
 compilement
 calcined
 contradistinguish
@@ -21169,7 +21170,6 @@ conations
 conflab
 carnelian
 coercions
-conatus
 conaxial
 culminated
 concamerated
