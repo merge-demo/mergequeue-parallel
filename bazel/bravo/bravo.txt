@@ -1863,7 +1863,6 @@ boatsman
 brython
 birken
 bandhook
-boudoiresque
 barrico
 bingle
 balladromic
@@ -10643,6 +10642,7 @@ bleats
 barbless
 brazenly
 babyhoods
+boudoiresque
 bleb
 blebby
 berith
