@@ -3117,7 +3117,6 @@ capelan
 capelans
 cornette
 capelins
-capella
 chelatable
 compacture
 channer
@@ -15022,6 +15021,7 @@ citrine
 congressmen
 cytopharynxes
 citrinin
+capella
 citrinins
 citrins
 citrocola
