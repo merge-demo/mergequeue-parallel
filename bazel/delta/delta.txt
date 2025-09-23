@@ -9362,6 +9362,7 @@ dismembering
 depickle
 differentiate
 dorsopleural
+denotative
 deescalates
 dioscoreaceous
 dsri
@@ -16649,7 +16650,6 @@ dissimilated
 desmopathology
 denunciate
 demifusion
-denotative
 donjon
 dactylopius
 deperming
