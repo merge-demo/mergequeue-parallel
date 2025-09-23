@@ -8805,7 +8805,6 @@ allonymously
 allonyms
 accepts
 allonomous
-arithmetize
 apodan
 appreciate
 antenatal
@@ -8977,6 +8976,7 @@ abdicator
 acuminating
 adenalgy
 antiabrasion
+arithmetize
 alluringly
 alluringness
 axisymmetrically
