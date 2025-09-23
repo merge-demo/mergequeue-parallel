@@ -18626,7 +18626,6 @@ chibinite
 chronosemic
 clysis
 cohosted
-cohosts
 chevrons
 cohune
 choloidic
@@ -23442,6 +23441,7 @@ containerizing
 chemasthenia
 containerport
 copasetic
+cohosts
 calami
 cecidologist
 containership
