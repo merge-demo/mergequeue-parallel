@@ -6702,7 +6702,6 @@ conglomerative
 conspiratorial
 colorfast
 cibarium
-celastrus
 chieftain
 cuculla
 celation
@@ -24646,6 +24645,7 @@ charcoals
 cerebrating
 copolymer
 copolymerize
+celastrus
 cossas
 capsicums
 copolymerized
