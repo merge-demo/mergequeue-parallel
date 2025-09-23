@@ -4245,7 +4245,6 @@ asides
 acetyl
 antighostism
 aphotaxis
-asphaltene
 agalinis
 achieve
 advertisement
@@ -11463,6 +11462,7 @@ ascribes
 anacamptic
 archhead
 after
+asphaltene
 airbrained
 anacamptics
 anthropomorpha
