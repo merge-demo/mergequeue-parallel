@@ -767,7 +767,6 @@ abroach
 amphineura
 abrocome
 allergies
-anaglyphy
 accus
 abrogating
 abrogative
@@ -5562,6 +5561,7 @@ ascrive
 arrowwood
 alcoholometry
 antisacerdotal
+anaglyphy
 ao
 assisted
 agapai
