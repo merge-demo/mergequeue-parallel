@@ -1526,7 +1526,6 @@ cuddle
 chrysotis
 churchman
 callop
-camphorate
 cancerwort
 cutcher
 cassowaries
@@ -17621,6 +17620,7 @@ coccidioidal
 corvina
 coccidiosis
 coccidium
+camphorate
 coccidology
 chape
 clinking
