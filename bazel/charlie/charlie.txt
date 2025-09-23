@@ -16531,7 +16531,6 @@ clockmaker
 cryophorus
 crewer
 clocksmith
-carpospore
 clockwatcher
 clockwise
 clockworked
@@ -26763,6 +26762,7 @@ counterdistinct
 coolung
 coscinodiscus
 chutzpah
+carpospore
 cooer
 coenactor
 counterdistinguish
