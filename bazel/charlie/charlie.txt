@@ -2685,7 +2685,6 @@ catostomus
 cankerfret
 cankery
 cannoneering
-cankerroot
 cankers
 crannoge
 cultivators
@@ -13200,6 +13199,7 @@ clavellate
 ciceronianists
 ciceronianize
 clearskins
+cankerroot
 cichlid
 cichlidae
 colocynthin
