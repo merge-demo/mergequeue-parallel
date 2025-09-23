@@ -4855,7 +4855,6 @@ carped
 connivers
 carromatas
 carromed
-carroms
 carroon
 collied
 callosum
@@ -18125,6 +18124,7 @@ coenamors
 chiromancy
 chrysopoetic
 condensational
+carroms
 carats
 calisaya
 cellated
