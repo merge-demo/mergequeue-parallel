@@ -11209,6 +11209,7 @@ amplexifoliate
 amphitheaters
 amphitheatre
 arrivance
+arraigner
 allopelagic
 anilin
 amphitheatric
@@ -18183,7 +18184,6 @@ aracana
 antefebrile
 arach
 arachidic
-arraigner
 almoners
 arsenyl
 adularescence
