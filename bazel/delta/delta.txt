@@ -10703,7 +10703,6 @@ disbutton
 danelaw
 doublewords
 dipodic
-disacknowledgements
 dipodid
 diminuted
 debating
@@ -13568,6 +13567,7 @@ disserving
 depraved
 displacer
 dogfall
+disacknowledgements
 dissettle
 dissociality
 diagrydium

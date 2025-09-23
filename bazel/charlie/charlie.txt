@@ -6774,6 +6774,7 @@ conducent
 celibatist
 clobbering
 celibatory
+convictable
 carboras
 chatteringly
 celiectomy
@@ -21679,7 +21680,6 @@ codworm
 corbeled
 crateris
 condense
-convictable
 condensed
 condensers
 committeeman
