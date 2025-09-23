@@ -19981,7 +19981,6 @@ critical
 comicalness
 cubited
 comices
-cognominal
 completive
 commolition
 cofferdams
@@ -24861,6 +24860,7 @@ coosuc
 cashless
 contourne
 coraji
+cognominal
 coralberries
 coproduct
 coralbush
