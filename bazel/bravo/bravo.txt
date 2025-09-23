@@ -5682,6 +5682,7 @@ beamful
 basilical
 bureaucratese
 behindhand
+biasedly
 birdcage
 blackguards
 bloomery
@@ -7766,7 +7767,6 @@ bashmuric
 biarcuated
 bluings
 balladlike
-biasedly
 batteled
 brimmingly
 bezzling
