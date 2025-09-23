@@ -12006,6 +12006,7 @@ dansy
 disenchantress
 duckwing
 difforme
+disserviceable
 disencharm
 drip
 disenclose
@@ -16437,7 +16438,6 @@ douppioni
 downtown
 dicynodont
 dibblers
-disserviceable
 dewooling
 deutencephalon
 downturn
