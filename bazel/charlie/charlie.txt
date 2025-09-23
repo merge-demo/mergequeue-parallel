@@ -15365,6 +15365,7 @@ commuter
 critter
 contrastimulation
 calluses
+comprisal
 clanjamfrey
 calamondin
 chalcotript
@@ -21007,7 +21008,6 @@ compressors
 comprest
 compriest
 chambering
-comprisal
 controllability
 carbonatization
 catachresti
