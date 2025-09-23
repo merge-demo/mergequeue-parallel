@@ -1179,7 +1179,6 @@ causativeness
 copygraph
 cecily
 caledonite
-catalina
 clape
 commissarial
 calefacient
@@ -15387,6 +15386,7 @@ clankless
 chaldaic
 cuyas
 chloropia
+catalina
 clannishness
 cradlemen
 clansfolk
