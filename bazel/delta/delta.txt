@@ -4623,7 +4623,6 @@ demiorbit
 dendrolagus
 dustlike
 dolichocrany
-demiox
 dithematic
 disenthrall
 dysporomorph
@@ -8110,6 +8109,7 @@ dialleli
 didromies
 derfness
 deanimalize
+demiox
 daftardar
 dhyana
 deblaterate
