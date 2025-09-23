@@ -2749,7 +2749,6 @@ cannibalizing
 coelomes
 carmeloite
 cabasa
-cannibally
 cableman
 cannier
 cannings
@@ -17991,6 +17990,7 @@ coef
 chromosphere
 contractibility
 coeff
+cannibally
 coefficients
 coelacanth
 chew
