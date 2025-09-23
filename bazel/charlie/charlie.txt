@@ -11910,7 +11910,6 @@ comradery
 concio
 cassapanca
 cycloheptane
-chorals
 chomage
 chorasmian
 crispiness
@@ -30822,6 +30821,7 @@ commerciable
 cullies
 conveyance
 clarigold
+chorals
 cullionly
 cullisance
 cenatory
