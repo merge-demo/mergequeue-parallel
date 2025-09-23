@@ -6748,6 +6748,7 @@ astylospongia
 aventine
 alferez
 anthraquinol
+ampules
 adelphoi
 airview
 acanthodidae
@@ -23693,7 +23694,6 @@ austrium
 antipedobaptism
 appetit
 agin
-ampules
 airplays
 aphonic
 aphorising
