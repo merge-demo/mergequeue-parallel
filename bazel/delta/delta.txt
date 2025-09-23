@@ -6289,7 +6289,6 @@ dualities
 dermatoplastic
 deluminize
 despin
-delectible
 dodecylic
 dermatorrhagia
 diolefine
@@ -8882,6 +8881,7 @@ delectation
 dichotomist
 dicastic
 diccon
+delectible
 depolariser
 domines
 digitaria
