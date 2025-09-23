@@ -3281,7 +3281,6 @@ deutschemark
 dentils
 doles
 dsect
-defis
 deafness
 dialling
 decolor
@@ -9690,6 +9689,7 @@ desulphurization
 dikaryophytic
 disfiguration
 durwaun
+defis
 dikdik
 dialysate
 doorcase
