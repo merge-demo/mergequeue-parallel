@@ -1249,7 +1249,6 @@ dialyzers
 diapasonal
 dermatoskeleton
 dreggier
-daystars
 dieb
 discerpibleness
 datebook
@@ -8293,6 +8292,7 @@ diagnosticians
 denda
 dispopularize
 deserver
+daystars
 dizzy
 disputableness
 decursive
