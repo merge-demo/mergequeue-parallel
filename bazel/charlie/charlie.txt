@@ -2898,7 +2898,6 @@ cantatas
 cantation
 clinical
 coverts
-chorioids
 cantdog
 cantdogs
 compensatively
@@ -19516,6 +19515,7 @@ cuffle
 colorfulness
 coveralled
 censorate
+chorioids
 colorific
 colorifics
 colorimeter
