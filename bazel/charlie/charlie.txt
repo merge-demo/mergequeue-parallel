@@ -12311,6 +12311,7 @@ christener
 christeners
 costander
 christens
+crepitacula
 christhood
 cryptography
 chicks
@@ -21666,7 +21667,6 @@ concussions
 concussive
 cinchonicine
 concutient
-crepitacula
 condemn
 copremias
 condemnations
