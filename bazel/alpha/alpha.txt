@@ -10322,7 +10322,6 @@ ametoecious
 absurdum
 aurigid
 aculeolus
-ametrope
 antshrike
 antonymies
 ametropia
@@ -11941,6 +11940,7 @@ anathematizer
 alliances
 actuaryship
 anatidae
+ametrope
 amidstream
 archaises
 abandoned
