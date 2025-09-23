@@ -10334,7 +10334,6 @@ bewrought
 bamboozlers
 beshrouding
 bytes
-bensall
 binomenclature
 blame
 bromocyanid
@@ -13907,6 +13906,7 @@ barehead
 bowsman
 bown
 bows
+bensall
 bootjack
 bowsed
 baccalaurean
