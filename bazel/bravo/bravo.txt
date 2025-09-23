@@ -10768,6 +10768,7 @@ borism
 bitstalk
 beacons
 blepharocarcinoma
+bikes
 bradawl
 balinger
 batyphone
@@ -11839,7 +11840,6 @@ brigands
 brashes
 barriers
 bodhisattwa
-bikes
 bantus
 barlafumble
 bodybuilder
