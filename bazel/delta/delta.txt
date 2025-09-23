@@ -208,7 +208,6 @@ dechlorination
 diabolize
 defecant
 decessit
-dress
 dak
 dampens
 dysgenic
@@ -10890,6 +10889,7 @@ drogherman
 deindustrialize
 dirty
 daekon
+dress
 dirigo
 domeykite
 dependantly
