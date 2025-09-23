@@ -1282,6 +1282,7 @@ binit
 buckwashing
 blindedly
 barrowful
+boll
 bendy
 barleys
 bottomer
@@ -18097,7 +18098,6 @@ blarneyed
 blobbier
 bureaucrats
 bereaves
-boll
 bakerlike
 ballyrag
 balmonies
