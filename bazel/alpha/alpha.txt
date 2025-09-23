@@ -7446,7 +7446,6 @@ abedge
 ascophyllum
 anastomos
 astragal
-amidist
 alcazaba
 adamance
 adsorbents
@@ -20655,6 +20654,7 @@ angulation
 artificialism
 apotelesm
 artificiality
+amidist
 amesaces
 artificialities
 artilize
