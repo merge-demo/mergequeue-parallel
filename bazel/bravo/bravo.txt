@@ -1634,7 +1634,6 @@ balloen
 brachycephalous
 battu
 ballone
-birdcatching
 bullbird
 boiguacu
 brassards
@@ -14953,6 +14952,7 @@ breccial
 boatly
 breccias
 brecciated
+birdcatching
 bacteriohemolysin
 brechams
 baccharis
