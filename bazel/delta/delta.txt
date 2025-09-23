@@ -12870,7 +12870,6 @@ daren
 dismissal
 dismissals
 distemperate
-depredated
 dorsothoracic
 dispergating
 dogman
@@ -13687,6 +13686,7 @@ devolvements
 disacryl
 disappropriate
 dharmasmriti
+depredated
 devastatingly
 disproval
 discoidal
