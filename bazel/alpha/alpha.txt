@@ -16659,6 +16659,7 @@ aphylly
 averring
 abidi
 atune
+aware
 awarding
 aigrette
 arrivederla
@@ -24924,7 +24925,6 @@ autostage
 axonia
 ablaqueate
 awards
-aware
 acheilary
 arrondissements
 ascula
