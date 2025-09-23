@@ -810,7 +810,6 @@ dungeon
 dermititis
 deckhead
 detections
-dipodomyinae
 distention
 demarcates
 decimals
@@ -17340,6 +17339,7 @@ droller
 diademing
 dyslalia
 downgone
+dipodomyinae
 detailer
 drollery
 discoverably
