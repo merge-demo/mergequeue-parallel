@@ -8913,6 +8913,7 @@ deriving
 diambic
 deposited
 demiculverin
+dollia
 downdraught
 dioptidae
 dominancy
@@ -15337,7 +15338,6 @@ dolled
 dehull
 doddering
 dosimeter
-dollia
 dissociate
 dingmaul
 dedolent
