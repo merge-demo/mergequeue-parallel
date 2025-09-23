@@ -2014,6 +2014,7 @@ backlist
 banjuke
 bathymetry
 beflecking
+bimastoid
 bank
 barblet
 bankalachi
@@ -5215,7 +5216,6 @@ begarlanded
 basaltic
 boxwork
 bicentenary
-bimastoid
 bullyragged
 bunkmate
 bitless
