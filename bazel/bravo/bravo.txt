@@ -2287,6 +2287,7 @@ boozing
 bathysphere
 blossombill
 bicarbonates
+bited
 besoothed
 barbiturates
 batetela
@@ -4171,7 +4172,6 @@ beastlily
 beclown
 barrow
 bradypus
-bited
 bullswool
 bulgy
 beastman
