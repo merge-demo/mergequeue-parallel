@@ -8047,6 +8047,7 @@ bluntness
 bicornate
 brutal
 bicorned
+burgensic
 bv
 bochur
 bicornous
@@ -15300,7 +15301,6 @@ burial
 bandurrias
 brigatry
 brigetty
-burgensic
 bulletproofed
 brevete
 basicytoparaplastin
