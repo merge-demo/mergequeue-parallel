@@ -4274,7 +4274,6 @@ cary
 cleanout
 caryatid
 corroborate
-cigaresque
 consulates
 caryatids
 conserving
@@ -27442,6 +27441,7 @@ cousiness
 cudweeds
 cacesthesis
 chapeled
+cigaresque
 capillament
 choroidea
 chlorosulphonic
