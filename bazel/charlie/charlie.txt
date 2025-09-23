@@ -4690,6 +4690,7 @@ chowders
 clubability
 coded
 cenogenesis
+crystallology
 captivation
 concolorous
 carpetweb
@@ -18799,7 +18800,6 @@ cardiauxe
 clinocephalism
 coker
 cokewold
-crystallology
 cokuloris
 colaborer
 colacobioses
