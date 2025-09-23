@@ -5416,7 +5416,6 @@ chilloes
 castorite
 castra
 classic
-corollated
 cascaron
 capillitia
 cylindrenchema
@@ -29091,6 +29090,7 @@ crioceras
 cinefaction
 cinematheque
 companionably
+corollated
 chirruping
 conferree
 cotillons
