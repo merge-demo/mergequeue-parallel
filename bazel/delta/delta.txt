@@ -14856,6 +14856,7 @@ decidua
 docs
 dahlsten
 doctor
+dispensating
 dorp
 dumontite
 doctored
@@ -14867,7 +14868,6 @@ derust
 dirham
 decomponible
 diethylenediamine
-dispensating
 demo
 disadvantage
 disadjust
