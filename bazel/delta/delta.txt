@@ -7946,7 +7946,6 @@ diaphanoscopy
 dewlapped
 deiced
 demoniacal
-doormaker
 drenching
 dispels
 desmose
@@ -10429,6 +10428,7 @@ delace
 disglorify
 dispowder
 disfigurative
+doormaker
 deux
 dosimeters
 damask
