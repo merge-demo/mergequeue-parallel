@@ -13242,7 +13242,6 @@ bosjesman
 balneology
 backfire
 benefactress
-balneologist
 buggery
 bosniak
 brachypinacoidal
@@ -14464,6 +14463,7 @@ bimedial
 biometrist
 becivet
 butea
+balneologist
 barbarians
 bellicosely
 breezelike
