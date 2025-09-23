@@ -2912,6 +2912,7 @@ dotingness
 diplasiasmus
 droil
 deducibility
+decree
 dielectrically
 downcastness
 disimprison
@@ -4394,7 +4395,6 @@ djerib
 dowse
 divelling
 dispersedness
-decree
 dinical
 demaree
 dying
