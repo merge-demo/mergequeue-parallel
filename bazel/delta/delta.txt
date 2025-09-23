@@ -4620,7 +4620,6 @@ demineralizes
 demineralizing
 demiofficial
 demiorbit
-dendrolagus
 dustlike
 dolichocrany
 dithematic
@@ -14886,6 +14885,7 @@ due
 discombobulation
 diffide
 drafted
+dendrolagus
 duologs
 doctrinal
 dynametric
