@@ -9242,7 +9242,6 @@ byproducts
 bemata
 butacaine
 bleezy
-birring
 bobsled
 beglare
 bootyless
@@ -14335,6 +14334,7 @@ behedge
 brahmanize
 benched
 bimaculated
+birring
 bulrushes
 bivouaced
 borehole
