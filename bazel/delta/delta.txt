@@ -3611,7 +3611,6 @@ dewal
 disgracing
 discontinuable
 decimalisation
-degraduate
 degravate
 demipike
 depurition
@@ -13743,6 +13742,7 @@ dissonancy
 dacryolin
 dissoul
 desultor
+degraduate
 deradenoncus
 dysspermatism
 disstate
