@@ -1365,7 +1365,6 @@ damagement
 dart
 discerners
 doup
-decipium
 deuced
 duelli
 definer
@@ -1395,6 +1394,7 @@ dopper
 demitone
 dollars
 depositing
+decipium
 david
 definitised
 dulses
