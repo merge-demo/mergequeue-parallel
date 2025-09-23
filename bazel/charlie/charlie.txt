@@ -121,7 +121,6 @@ crafter
 cabio
 citatum
 chemisorptive
-costotransverse
 cabiria
 cabirian
 crystallize
@@ -1128,6 +1127,7 @@ calcspars
 cotwal
 chlamydophore
 chilopoda
+costotransverse
 calculability
 counterrampant
 calculableness
