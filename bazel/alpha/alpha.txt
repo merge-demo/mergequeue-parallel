@@ -10531,6 +10531,7 @@ appertaining
 amyloplastid
 amylopsin
 anteromedian
+asperity
 amylose
 achree
 amyloses
@@ -14907,7 +14908,6 @@ anticus
 antidactyl
 antidemocrat
 armstrong
-asperity
 antidemoniac
 asarums
 antidetonant
