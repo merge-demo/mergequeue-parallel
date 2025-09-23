@@ -14948,6 +14948,7 @@ dodecafid
 dodecahedral
 doctorate
 dodecahydrate
+dridder
 delomorphous
 duodenojejunostomy
 divata
@@ -15674,7 +15675,6 @@ declension
 ditokous
 defterdar
 dissentaneousness
-dridder
 dextrousness
 debag
 doomsayer
