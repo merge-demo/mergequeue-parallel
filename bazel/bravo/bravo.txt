@@ -13207,7 +13207,6 @@ brat
 battalions
 baronize
 bangtail
-bedecking
 brachycephalize
 bourlaw
 bowtel
@@ -16547,6 +16546,7 @@ brawls
 bucco
 butte
 beaned
+bedecking
 bisques
 bactris
 bavius
