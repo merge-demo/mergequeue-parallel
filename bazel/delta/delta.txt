@@ -3973,7 +3973,6 @@ doorsill
 dextro
 disposal
 demonetisation
-delegates
 demeore
 dermatosis
 deontic
@@ -11736,6 +11735,7 @@ dunnages
 dimane
 dopamelanin
 dhooly
+delegates
 discredit
 discreditability
 dahabiya
