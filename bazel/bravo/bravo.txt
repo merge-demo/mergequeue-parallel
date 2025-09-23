@@ -4105,7 +4105,6 @@ blackballed
 blamableness
 bicompact
 bodysurfs
-bardic
 beelbow
 benzoflavine
 brushproof
@@ -9325,6 +9324,7 @@ birded
 bahawder
 bodymaking
 bimah
+bardic
 bebless
 brachiotomy
 bromopikrin
