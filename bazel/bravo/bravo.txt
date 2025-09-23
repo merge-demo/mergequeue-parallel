@@ -8010,6 +8010,7 @@ boce
 bis
 bleakish
 betrumpet
+bejel
 bureau
 besplatter
 betrayal
@@ -13802,7 +13803,6 @@ byelaws
 bromalbumin
 bowdlerisation
 bezantee
-bejel
 ballproof
 branchiostomid
 bodach
