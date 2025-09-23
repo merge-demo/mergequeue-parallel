@@ -16941,7 +16941,6 @@ archpublican
 abnegator
 apocynthion
 apocyte
-apocopate
 apocopated
 apocopating
 artily
@@ -24249,6 +24248,7 @@ acclimatize
 asterioid
 autopolar
 autodiffusion
+apocopate
 acetous
 appendency
 autopolyploid
