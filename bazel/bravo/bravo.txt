@@ -4262,7 +4262,6 @@ barrels
 bryonin
 batteries
 beblooding
-bluestockingism
 boustrophedon
 bebloods
 basurale
@@ -6191,6 +6190,7 @@ backspread
 bacillophobia
 beggared
 barbigerous
+bluestockingism
 bioclimatology
 brimfully
 binnacles

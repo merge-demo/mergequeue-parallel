@@ -11820,6 +11820,7 @@ anapnoic
 annihilates
 anapsid
 alstonine
+atticize
 australopithecus
 anapterygota
 andes
@@ -23072,7 +23073,6 @@ antimonic
 anapaganize
 atticisms
 atticist
-atticize
 atticomastoid
 anosphrasia
 apotypic
