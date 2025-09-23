@@ -9840,6 +9840,7 @@ bitter
 besee
 bitterbloom
 bearcat
+barhop
 bitterbur
 bitterender
 biologically
@@ -13570,7 +13571,6 @@ britts
 brunel
 biennale
 boltrope
-barhop
 bouffant
 brontesque
 barristers
