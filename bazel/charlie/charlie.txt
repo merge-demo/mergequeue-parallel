@@ -1015,7 +1015,6 @@ cajeputs
 chorioallantoid
 calcaneoplantar
 competency
-calcaneoscaphoid
 calcannea
 calcannei
 calcareous
@@ -31635,6 +31634,7 @@ curviserial
 curvital
 curvities
 cracidae
+calcaneoscaphoid
 circumambulating
 curvle
 corytuberine
