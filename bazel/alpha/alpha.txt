@@ -12113,7 +12113,6 @@ alumina
 argufiers
 attackman
 antiblackism
-atmolyses
 accusative
 ancora
 ancress
@@ -14855,6 +14854,7 @@ aureoline
 amazon
 anagnostes
 anticontagionist
+atmolyses
 agrin
 anticontagious
 aubades
