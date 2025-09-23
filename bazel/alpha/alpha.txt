@@ -2193,7 +2193,6 @@ advisee
 azimech
 acetamid
 amamau
-alisos
 abatjours
 acidiferous
 atap
@@ -4383,6 +4382,7 @@ antimythic
 arrogance
 amania
 amphiboliferous
+alisos
 axotomous
 absolutes
 advertence
