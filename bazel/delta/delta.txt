@@ -5767,7 +5767,6 @@ dimpled
 depolarizers
 droves
 deliberating
-debater
 disjoint
 decasualizing
 depolymerize
@@ -6651,6 +6650,7 @@ diastimeter
 disintensify
 damndest
 desertlessly
+debater
 dungaree
 deserts
 deserve
