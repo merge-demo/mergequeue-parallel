@@ -6833,6 +6833,7 @@ chairmaker
 cathodofluorescence
 celloidin
 constative
+cabinda
 counterbalance
 chirographic
 cellose
@@ -10106,7 +10107,6 @@ collab
 chessdom
 chesser
 chipyard
-cabinda
 chesses
 cochlospermaceae
 chessylite
