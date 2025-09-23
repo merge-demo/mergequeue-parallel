@@ -8725,7 +8725,6 @@ diathermies
 dispensatrix
 diathesis
 demean
-deliquesces
 danke
 dirl
 diatoma
@@ -14261,6 +14260,7 @@ decasyllabon
 dephilosophize
 devotionate
 demarcature
+deliquesces
 diegueno
 dithyrambs
 dominicker
