@@ -14902,7 +14902,6 @@ bandsmen
 begulfing
 breasthook
 bumpee
-breastie
 breastless
 breastmark
 backspear
@@ -15474,6 +15473,7 @@ brisances
 barometer
 benefactive
 brewsterite
+breastie
 barbacan
 brises
 brisker
