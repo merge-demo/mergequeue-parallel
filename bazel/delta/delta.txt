@@ -15194,7 +15194,6 @@ decremental
 diumvirate
 dase
 descamisado
-degustate
 dogsleep
 defraud
 disorderly
@@ -18384,6 +18383,7 @@ drummock
 duodenocholedochotomy
 diaphanoscope
 duodenoenterostomy
+degustate
 disapprobation
 denudative
 duodenojejunostomies
