@@ -9518,6 +9518,7 @@ bracon
 biscuitroot
 burnets
 biscuits
+bakwiri
 bhutia
 bonfires
 bromides
@@ -16618,7 +16619,6 @@ biders
 bishopship
 basilisk
 bilaan
-bakwiri
 buckhounds
 backstair
 browns
