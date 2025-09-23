@@ -15774,7 +15774,6 @@ couldest
 clunch
 clawker
 clawless
-claws
 crossweed
 corin
 cleam
@@ -29235,6 +29234,7 @@ cunabula
 chousers
 consumating
 clericalist
+claws
 centroclinal
 camouflager
 conopholis
