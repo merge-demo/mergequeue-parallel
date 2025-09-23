@@ -15285,7 +15285,6 @@ antilope
 abscised
 antiloquy
 antimacassar
-archmockery
 anglemeter
 antimalaria
 antimalarial
@@ -18868,6 +18867,7 @@ asoka
 architypographer
 affiance
 adrenine
+archmockery
 actinine
 amiant
 alday
