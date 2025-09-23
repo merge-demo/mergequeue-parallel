@@ -2725,7 +2725,6 @@ coeno
 cannellate
 congruences
 cimbaloms
-chenar
 counterembowed
 cannelle
 caliche
@@ -25997,6 +25996,7 @@ cosenator
 consignor
 cosentient
 coregence
+chenar
 clavate
 cosettler
 chrysanilin
