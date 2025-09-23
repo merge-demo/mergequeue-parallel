@@ -140,7 +140,6 @@ dadaistic
 diddered
 debilitations
 dustcloth
-dyspathetic
 dewater
 demiurgus
 dalan
@@ -13720,6 +13719,7 @@ disillusionize
 dethrone
 durance
 desugaring
+dyspathetic
 degression
 dangering
 downlooker
