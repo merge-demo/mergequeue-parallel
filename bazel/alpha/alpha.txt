@@ -10157,7 +10157,6 @@ adj
 anhydrization
 asyllabia
 arcticize
-astroglia
 archaeologists
 acop
 agricolite
@@ -12915,6 +12914,7 @@ adenines
 atavists
 acetoin
 adullam
+astroglia
 abductors
 anidiomatical
 aromatized
