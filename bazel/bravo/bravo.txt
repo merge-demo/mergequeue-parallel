@@ -6102,6 +6102,7 @@ biophore
 beneficial
 beneficialness
 beneficiated
+bluebills
 boskiness
 bloodthirsting
 blueleg
@@ -9487,7 +9488,6 @@ birthwort
 bitnet
 breviger
 bakerdom
-bluebills
 bachelorize
 besputter
 boarfish
