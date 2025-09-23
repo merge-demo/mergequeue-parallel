@@ -5775,6 +5775,7 @@ dimpled
 depolarizers
 droves
 deliberating
+dysphasia
 disjoint
 decasualizing
 depolymerize
@@ -13142,7 +13143,6 @@ dynastid
 dispersonate
 desalinator
 dysanagnosia
-dysphasia
 diplophonia
 dreamery
 desulphuret
