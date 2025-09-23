@@ -12299,6 +12299,7 @@ buckboard
 byrls
 bioscientist
 britchka
+brink
 bombarding
 botulinus
 bumblebomb
@@ -18307,7 +18308,6 @@ bennis
 bowlegs
 buttony
 bluenosed
-brink
 brandyman
 buttoning
 banked

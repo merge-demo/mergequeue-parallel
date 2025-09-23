@@ -15778,7 +15778,6 @@ antiprime
 antiprinciple
 anureses
 adfiliate
-arrhizous
 adversive
 antiproductive
 antiproductivity
@@ -20174,6 +20173,7 @@ arricciato
 aspide
 applicator
 apetaly
+arrhizous
 areroscope
 asepticizing
 arriere
