@@ -3368,7 +3368,6 @@ ceilidhe
 capri
 capric
 capriccetto
-capricci
 capriccio
 cardias
 cloddy
@@ -23555,6 +23554,7 @@ cerebellar
 cosmozoan
 cheap
 centinormal
+capricci
 callorhynchus
 carbonarism
 conterminously
