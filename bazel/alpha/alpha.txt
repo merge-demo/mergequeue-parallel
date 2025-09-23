@@ -16819,7 +16819,6 @@ apyrotype
 anteverts
 aaronic
 arenig
-apishamore
 alfa
 anoure
 aphagia
@@ -23721,6 +23720,7 @@ aktistete
 arrowweed
 autarchically
 autarchies
+apishamore
 artie
 autarchist
 antipapalist
