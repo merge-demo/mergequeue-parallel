@@ -10629,7 +10629,6 @@ bleeze
 begarnish
 blearing
 boselaphus
-blearness
 bleated
 butcherdom
 bluejoint
@@ -13311,6 +13310,7 @@ blitzkriegs
 bounced
 boswelliana
 blackplate
+blearness
 boulders
 brownprint
 briquettes
