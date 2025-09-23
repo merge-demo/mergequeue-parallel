@@ -5329,6 +5329,7 @@ anele
 afterburning
 auripigment
 abigail
+anchusins
 aftercast
 aftercataract
 afterclause
@@ -19832,7 +19833,6 @@ anatto
 armyworms
 armlessness
 armlets
-anchusins
 arustle
 armlike
 armload
