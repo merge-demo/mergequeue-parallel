@@ -4642,6 +4642,7 @@ aeriest
 aerifaction
 aerification
 autarky
+alaternus
 acutifoliate
 aerifies
 antiparabemata
@@ -21813,7 +21814,6 @@ anisomyodi
 adsorb
 approachable
 alternat
-alaternus
 aminolipin
 assoils
 assonanced
