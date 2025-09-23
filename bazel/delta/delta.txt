@@ -2551,7 +2551,6 @@ declinational
 dimmed
 dynasty
 declinatory
-declines
 declining
 directrices
 derive
@@ -6066,6 +6065,7 @@ deliberatively
 disillusion
 difficilitate
 dammit
+declines
 deflates
 dicephalism
 doug
