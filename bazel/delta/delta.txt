@@ -5566,6 +5566,7 @@ deformational
 depasture
 desireable
 disinvest
+doricize
 depatriate
 detrains
 dkm
@@ -17263,7 +17264,6 @@ diathermotherapy
 damans
 dynamoneure
 deuteroscopy
-doricize
 duffers
 dition
 difformed
