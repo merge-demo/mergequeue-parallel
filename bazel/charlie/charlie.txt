@@ -1341,7 +1341,6 @@ california
 californian
 cheven
 chutneys
-chantages
 clopping
 caliga
 caligate
@@ -13652,6 +13651,7 @@ chapacura
 clapdish
 cornerstones
 complexionist
+chantages
 cenacles
 cantankerousness
 chaber
