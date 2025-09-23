@@ -1060,7 +1060,6 @@ bustiest
 boyaus
 beadeye
 bersil
-baulea
 boroughmaster
 bailiwick
 bridler
@@ -14329,6 +14328,7 @@ bookboard
 basommatophorous
 bikini
 buffoonesque
+baulea
 bilskirnir
 budapest
 bounciness
