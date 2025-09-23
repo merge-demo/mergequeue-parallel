@@ -8413,7 +8413,6 @@ dermococcus
 decked
 deflation
 draparnaldia
-doubledamn
 daemonelix
 dahabiyas
 detentes
@@ -18271,6 +18270,7 @@ debussed
 disauthentic
 disapprobative
 defoliant
+doubledamn
 dramaturgist
 draffs
 disporum
