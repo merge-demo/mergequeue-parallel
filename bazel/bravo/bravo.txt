@@ -2326,6 +2326,7 @@ barbierite
 busyish
 bronchoegophony
 bromite
+burgonets
 briber
 barbita
 barbital
@@ -5558,7 +5559,6 @@ bel
 bela
 brushwood
 brushmaking
-burgonets
 bruscus
 benzdifuran
 backsaws
