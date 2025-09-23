@@ -1865,7 +1865,6 @@ ametropic
 acetylfluoride
 awn
 appendix
-affirmance
 awaits
 acetylglycine
 apologetical
@@ -4832,6 +4831,7 @@ aerobranchiate
 astrobiologist
 aerometric
 aeronaut
+affirmance
 aeronautical
 aeronomer
 amyliferous
