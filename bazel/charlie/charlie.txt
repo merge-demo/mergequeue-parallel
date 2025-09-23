@@ -10764,7 +10764,6 @@ chindee
 chindi
 centraxonia
 chines
-cinched
 chromotrope
 coronadite
 chinfest
@@ -14936,6 +14935,7 @@ cytopharynx
 coldturkey
 cytophil
 cytophilic
+cinched
 cytula
 consulting
 clarified
