@@ -487,7 +487,6 @@ backspacer
 bandwork
 brine
 brattles
-beforementioned
 battik
 benzoates
 backspaces
@@ -6976,6 +6975,7 @@ boppers
 besoot
 burelle
 buccan
+beforementioned
 boyarisms
 bitterly
 babeship
