@@ -852,6 +852,7 @@ cs
 cayuca
 chinless
 commendador
+courante
 cosmothetic
 cayuga
 cayugan
@@ -14545,7 +14546,6 @@ cise
 comprisable
 ciseaux
 clonorchis
-courante
 cising
 cisjurane
 cisleithan
