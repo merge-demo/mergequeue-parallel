@@ -12307,7 +12307,6 @@ duplicia
 duramatral
 dissuadable
 disgruntlement
-driblet
 demigrate
 diazotizable
 deossify
@@ -18202,6 +18201,7 @@ dictyosiphon
 damozel
 dunch
 dasypeltis
+driblet
 daniel
 dorsulum
 delamination
