@@ -13029,7 +13029,6 @@ animist
 aecium
 animistic
 articulare
-accretionary
 anesthetize
 amaltas
 animo
@@ -17859,6 +17858,7 @@ azoerythrin
 approval
 am
 ampullulae
+accretionary
 armonica
 approvance
 arthrolithiasis
