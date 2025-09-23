@@ -6714,6 +6714,7 @@ diatribes
 desiderta
 designable
 dhutis
+dropsywort
 diandrian
 dissolutions
 dimedone
@@ -9099,7 +9100,6 @@ dictionarian
 dorsoabdominal
 dispensers
 didactylous
-dropsywort
 deputised
 dudish
 discommodity
