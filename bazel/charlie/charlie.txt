@@ -2540,6 +2540,7 @@ candler
 concealed
 candlers
 casework
+choriomata
 candles
 chaucerism
 candleshrift
@@ -12011,7 +12012,6 @@ coffeewood
 chorioidoiritis
 cashews
 catcalling
-choriomata
 chorions
 contemningly
 crete
