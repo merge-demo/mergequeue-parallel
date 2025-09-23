@@ -563,7 +563,6 @@ dama
 disodic
 damageably
 damaged
-deceivableness
 deaccessions
 deliber
 damagers
@@ -8773,6 +8772,7 @@ decorably
 diazepams
 diazeutic
 dittogram
+deceivableness
 dispace
 dismalities
 diazin
