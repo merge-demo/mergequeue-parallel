@@ -1295,6 +1295,7 @@ calices
 calyces
 calycifloral
 cascabels
+cupuliform
 cupolaing
 calyciflorate
 calycinal
@@ -21606,7 +21607,6 @@ cheerlessly
 comblike
 concretor
 climes
-cupuliform
 cupromanganese
 catwort
 concubinary
