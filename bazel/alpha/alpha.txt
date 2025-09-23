@@ -12990,7 +12990,6 @@ associatory
 approver
 allorrhythmic
 animatedly
-actionable
 animaters
 animating
 animation
@@ -18398,6 +18397,7 @@ amias
 arabinoside
 arborea
 arrhenoid
+actionable
 agitatorial
 amsterdamer
 arboreally
