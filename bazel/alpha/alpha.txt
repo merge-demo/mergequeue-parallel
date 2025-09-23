@@ -14714,6 +14714,7 @@ argyrocephalous
 antechamber
 anchoring
 anticyclolysis
+alcid
 anticyclones
 anticyclonically
 abaculi
@@ -16944,7 +16945,6 @@ apocopated
 apocopating
 artily
 assignments
-alcid
 arthrotropic
 apocopes
 antennula
