@@ -10510,7 +10510,6 @@ anapestically
 amyloid
 adossee
 aptly
-amyloidoses
 amyloidosis
 amyloleucite
 antivenine
@@ -24505,6 +24504,7 @@ aniba
 auxotonic
 avadana
 amplifiers
+amyloidoses
 autocade
 analogized
 armorist

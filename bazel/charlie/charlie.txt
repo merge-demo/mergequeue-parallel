@@ -426,7 +426,6 @@ cactoid
 cactus
 civilisable
 chancered
-cactuslike
 cassavas
 cacuminal
 cartages
@@ -3282,6 +3281,7 @@ capo
 chaufers
 coughweed
 capoc
+cactuslike
 capoche
 commeasurable
 crouche
