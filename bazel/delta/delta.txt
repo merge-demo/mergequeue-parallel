@@ -1991,7 +1991,6 @@ danger
 deerdog
 dawdle
 disseize
-downline
 dedans
 dyadically
 dioecism
@@ -5286,6 +5285,7 @@ diatomaceoid
 detestable
 detinue
 dentale
+downline
 dilettanteish
 degressively
 disher
