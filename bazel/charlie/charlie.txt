@@ -26707,7 +26707,6 @@ celandine
 counterborer
 counterboring
 counterboulle
-contestants
 counterbracing
 counterbranch
 countermen
@@ -31000,6 +30999,7 @@ caenostyly
 counterflight
 cumbrous
 correctrice
+contestants
 crashworthy
 currants
 caprioling
