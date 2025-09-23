@@ -7177,6 +7177,7 @@ depreciated
 dutcher
 desulphurize
 depullulation
+disproving
 doves
 dunnakin
 deedbox
@@ -18535,7 +18536,6 @@ dustwoman
 diocesans
 declassifies
 deferentitis
-disproving
 disownable
 durbars
 dissonate
