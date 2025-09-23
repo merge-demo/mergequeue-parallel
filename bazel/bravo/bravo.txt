@@ -12385,7 +12385,6 @@ bagie
 belfather
 blackgum
 beswarmed
-bombardelle
 beloveds
 bon
 backrope
@@ -13006,6 +13005,7 @@ bolshevize
 bathless
 bombastical
 bailli
+bombardelle
 brigadiers
 beelike
 befountained
