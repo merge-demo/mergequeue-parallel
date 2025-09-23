@@ -2703,6 +2703,7 @@ disjune
 duodecimo
 discursory
 decorator
+discriminational
 disclassify
 dichroite
 diducing
@@ -7579,7 +7580,6 @@ demipuppet
 disciferous
 disobstruct
 disorient
-discriminational
 dullhearted
 dextrality
 doncy
