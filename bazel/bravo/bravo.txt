@@ -4699,7 +4699,6 @@ bedraped
 bedraping
 bedread
 bespout
-baldling
 bunged
 blast
 bedribble
@@ -6904,6 +6903,7 @@ bouk
 beslimes
 banausic
 bactetiophage
+baldling
 besottedly
 backsheesh
 boanerges
