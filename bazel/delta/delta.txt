@@ -4038,6 +4038,7 @@ dynam
 deface
 dhava
 dustoor
+distortive
 disfeature
 dominance
 delice
@@ -9039,7 +9040,6 @@ diplomatism
 disowns
 drivable
 dern
-distortive
 desegmented
 debel
 deadpay
