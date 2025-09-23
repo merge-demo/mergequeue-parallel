@@ -3287,7 +3287,6 @@ bastardising
 buttercup
 benzols
 barklyite
-babbler
 bloodiest
 babbittian
 basions
@@ -8628,6 +8627,7 @@ bebization
 baun
 blackpot
 brochette
+babbler
 balcone
 bretons
 billtong
