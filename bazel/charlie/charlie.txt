@@ -6828,7 +6828,6 @@ cello
 chambermaid
 celloid
 cremometer
-colubrids
 chairmaker
 cathodofluorescence
 celloidin
@@ -26373,6 +26372,7 @@ cotyledons
 cypraea
 cotylophora
 celtologue
+colubrids
 conveners
 collide
 catatonics
