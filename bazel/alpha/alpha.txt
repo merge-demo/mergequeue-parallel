@@ -9884,7 +9884,6 @@ ambidexterity
 antimonide
 aquapuncture
 ambidexterities
-ambidextral
 andrenid
 avidya
 ambidextrously
@@ -22619,6 +22618,7 @@ accessively
 atlantic
 assists
 abask
+ambidextral
 asteroidean
 archeol
 atlantid
