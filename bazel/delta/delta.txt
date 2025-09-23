@@ -2058,7 +2058,6 @@ disregardable
 dogleg
 devance
 decagynous
-dinornis
 divebomb
 daggered
 dearling
@@ -11646,6 +11645,7 @@ disconventicle
 dermatorrhea
 devaluating
 dextromanual
+dinornis
 dinder
 discoplasm
 dostoevsky
