@@ -10370,7 +10370,6 @@ anatriptic
 aasvogels
 amyclaean
 alisonite
-apolarity
 amicrobic
 amicronucleate
 aubaine
@@ -17226,6 +17225,7 @@ alimentally
 autocollimator
 antiforeign
 apostate
+apolarity
 apostatically
 apostatise
 angiocarpy
