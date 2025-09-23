@@ -4814,6 +4814,7 @@ duodenogram
 dobbie
 descendental
 descriptor
+deadheaded
 dehorned
 dangs
 dpt
@@ -14340,7 +14341,6 @@ dermatologic
 dominial
 diaconicum
 dialyzed
-deadheaded
 diurn
 dhaman
 derri
