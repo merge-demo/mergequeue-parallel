@@ -10863,7 +10863,6 @@ debunkment
 diletant
 diadematoida
 desmidiaceous
-digit
 dynameter
 dimerized
 depthen
@@ -12773,6 +12772,7 @@ disloyal
 deliverance
 dronepipe
 dotardly
+digit
 drawfiling
 donative
 disloyalist
