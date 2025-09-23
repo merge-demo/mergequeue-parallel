@@ -5717,7 +5717,6 @@ bellbine
 budgeree
 bullous
 bysen
-barnyards
 bascology
 bunn
 bellbird
@@ -7212,6 +7211,7 @@ blanked
 betake
 buckshees
 betakes
+barnyards
 baluga
 betaking
 bontequagga
