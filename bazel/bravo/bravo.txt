@@ -5085,7 +5085,6 @@ bleating
 beflea
 brainier
 bombable
-bromoaurate
 barbarized
 boxhaul
 bestirred
@@ -14788,6 +14787,7 @@ bothrium
 belonite
 butterfingers
 bulborectal
+bromoaurate
 blindling
 breachful
 breadbasket
