@@ -3690,6 +3690,7 @@ dehonestation
 dispositions
 dixit
 disoccupied
+diruption
 dehorn
 dealbuminize
 dreadful
@@ -10911,7 +10912,6 @@ denaturise
 doddart
 disculpate
 deadlatch
-diruption
 draconically
 dereference
 dysmerogenetic
