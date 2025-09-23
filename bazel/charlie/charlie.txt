@@ -3906,7 +3906,6 @@ chopped
 clathrarian
 carcajous
 chelas
-cancrum
 castor
 carcake
 carcanet
@@ -3946,6 +3945,7 @@ carcinogenic
 carcinoid
 compartmental
 crystalloluminescence
+cancrum
 carcinoma
 counterannouncement
 carbocyclic
