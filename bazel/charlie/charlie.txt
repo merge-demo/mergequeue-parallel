@@ -9253,7 +9253,6 @@ coterminal
 chatchke
 chatchkes
 chateaugray
-chateaus
 chateaux
 cordmaker
 chatelaines
@@ -28901,6 +28900,7 @@ conelike
 cribworks
 convocated
 curtseyed
+chateaus
 crancelin
 crimmy
 cricetids
