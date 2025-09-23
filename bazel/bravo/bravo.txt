@@ -1575,6 +1575,7 @@ batterer
 bourignonism
 baller
 biweekly
+bedlike
 balladry
 bagass
 bombastry
@@ -9576,7 +9577,6 @@ batiste
 bisyllabic
 benefactions
 braize
-bedlike
 bedaggle
 biggening
 breaches
