@@ -3323,7 +3323,6 @@ breakable
 blatters
 beings
 bathflower
-bandurria
 basketmaking
 beriber
 bonnets
@@ -10761,6 +10760,7 @@ baillie
 boatsmen
 bangkoks
 blepharanthracosis
+bandurria
 boylike
 brutalise
 brosse
