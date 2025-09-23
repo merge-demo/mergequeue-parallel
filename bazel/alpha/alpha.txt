@@ -1449,7 +1449,6 @@ amidocyanogen
 acclivities
 acclivitous
 acroceraunian
-afoot
 acclivous
 accloy
 appointers
@@ -6751,6 +6750,7 @@ aglyphous
 aptian
 astylospongia
 aventine
+afoot
 alferez
 anthraquinol
 ampules
