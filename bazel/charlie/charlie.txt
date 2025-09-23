@@ -4907,7 +4907,6 @@ classical
 cartelistic
 cassava
 clown
-carters
 cartesian
 caber
 cartful
@@ -27311,6 +27310,7 @@ coups
 chemicking
 cardiologist
 comodo
+carters
 circumciser
 clerestoried
 coupure
