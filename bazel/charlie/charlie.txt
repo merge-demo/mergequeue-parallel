@@ -6440,7 +6440,6 @@ caveators
 cotemporanean
 cornulites
 complexes
-compares
 canell
 cavefish
 camelus
@@ -21956,6 +21955,7 @@ confection
 confectionary
 cognoscible
 confectioner
+compares
 continues
 confabbing
 confed
