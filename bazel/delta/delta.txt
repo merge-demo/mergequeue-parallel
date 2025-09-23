@@ -1360,7 +1360,6 @@ dipentine
 demissive
 depasturation
 dwarfing
-draftsperson
 dulcetness
 dompt
 dauntingly
@@ -11932,6 +11931,7 @@ domes
 derailleur
 disembarked
 demephitize
+draftsperson
 duskish
 disacidified
 dangered
