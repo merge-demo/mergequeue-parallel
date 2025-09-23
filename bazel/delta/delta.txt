@@ -4464,7 +4464,6 @@ delobranchiata
 dilapidated
 disordain
 desiccations
-decayers
 demythologised
 deboners
 drugstore
@@ -6943,6 +6942,7 @@ disembarrassed
 dropper
 delictual
 despecialize
+decayers
 dishcloths
 dunk
 despecification
