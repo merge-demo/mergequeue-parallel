@@ -6399,6 +6399,7 @@ deplorate
 destructing
 deinoceras
 deallocating
+disprovide
 disspread
 debuts
 desmology
@@ -13307,7 +13308,6 @@ dispropriate
 disproves
 divertissement
 delly
-disprovide
 distillate
 daintier
 datism
