@@ -1327,7 +1327,6 @@ bari
 boozer
 bt
 balanoid
-buttonholer
 beknown
 blottto
 betorcinol
@@ -8434,6 +8433,7 @@ blearyeyedness
 bravery
 bellehood
 bildar
+buttonholer
 bencite
 bilder
 barostat
