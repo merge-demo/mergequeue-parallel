@@ -6620,7 +6620,6 @@ cedars
 cochairman
 cedarwood
 ceded
-ceders
 copepods
 cummins
 cretinize
@@ -8208,6 +8207,7 @@ crematoririums
 chairway
 cyanephidrosis
 cryptogamian
+ceders
 conjunctivae
 chairwarmer
 chairwomen
