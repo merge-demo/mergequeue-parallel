@@ -1008,7 +1008,6 @@ blabberer
 bourdon
 bordrage
 blinger
-baidarka
 baidarkas
 bioavailability
 butadiene
@@ -7168,6 +7167,7 @@ blueberry
 bestrides
 boondock
 blubberous
+baidarka
 buxomest
 biradiate
 bathochromatic
