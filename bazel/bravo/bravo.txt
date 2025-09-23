@@ -636,7 +636,6 @@ boatels
 backen
 brilliants
 birdcages
-baraka
 boomslang
 barytosulphate
 bullated
@@ -13840,6 +13839,7 @@ bedplates
 bavaroy
 bowerlet
 bacteriolytic
+baraka
 bookshelves
 bagreef
 bedust
