@@ -7827,7 +7827,6 @@ benamed
 biblicopsychological
 biblike
 bibliofilm
-botaniser
 bibliographize
 bipyridine
 biblioklept
@@ -8336,6 +8335,7 @@ bronx
 babish
 bigheartedness
 bintangor
+botaniser
 bick
 byliny
 bights
