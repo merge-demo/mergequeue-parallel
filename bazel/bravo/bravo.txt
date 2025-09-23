@@ -5110,7 +5110,6 @@ busier
 bhangs
 bombshells
 beflour
-brahminist
 backhouse
 borize
 bogbean
@@ -10572,6 +10571,7 @@ besayle
 blawn
 bentonitic
 bailie
+brahminist
 bronchiole
 brigittine
 bhavani
