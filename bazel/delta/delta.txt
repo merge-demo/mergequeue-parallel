@@ -10544,6 +10544,7 @@ diplocarpon
 diplocephalus
 dadenhudd
 drearisomeness
+defensemen
 dbrn
 diatomean
 diacrisis
@@ -18167,7 +18168,6 @@ driveaway
 disherison
 desmidiales
 disappointed
-defensemen
 defines
 defends
 dalesman
