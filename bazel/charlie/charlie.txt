@@ -19619,7 +19619,6 @@ convenientness
 colpoplasty
 colpoptosis
 colporrhagia
-colporrhaphy
 camoufleurs
 colporrhexis
 cleistothecia
@@ -24862,6 +24861,7 @@ coralbush
 coralene
 coralist
 coralita
+colporrhaphy
 coralla
 clavodeltoid
 corallic
