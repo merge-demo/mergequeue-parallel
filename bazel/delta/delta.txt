@@ -9204,7 +9204,6 @@ diurnation
 decipherer
 dyeability
 denazification
-devilman
 demilitarization
 ditriglyph
 dipleurula
@@ -13411,6 +13410,7 @@ distriction
 decigram
 dihexagonal
 dardanium
+devilman
 disreputableness
 dading
 duscle
