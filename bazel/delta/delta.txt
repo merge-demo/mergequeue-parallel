@@ -9216,7 +9216,6 @@ demilitarization
 ditriglyph
 dipleurula
 desectionalize
-dusterman
 diebacks
 dovetailed
 definitise
@@ -11906,6 +11905,7 @@ diamondized
 dhunchi
 decollimate
 disequilibration
+dusterman
 disease
 dentalisation
 debarration
