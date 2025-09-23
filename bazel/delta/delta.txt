@@ -3976,7 +3976,6 @@ dermographism
 digressiveness
 diamb
 dibasicity
-dialing
 delegator
 deleing
 diagraphical
@@ -8254,6 +8253,7 @@ digitalization
 disabusing
 decouples
 dyadics
+dialing
 diaplasma
 diadkokinesia
 diadochi
