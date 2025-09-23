@@ -263,7 +263,6 @@ archimycetes
 abdicant
 abhorrence
 abdications
-anthropomorphizing
 abdicative
 adze
 abditory
@@ -14132,6 +14131,7 @@ amidocaffeine
 archcount
 anthelminthic
 anthemas
+anthropomorphizing
 anthemata
 agavose
 amugis
