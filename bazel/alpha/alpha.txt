@@ -636,7 +636,6 @@ abominate
 avifaunal
 adulates
 abbreviated
-autotomic
 azumbre
 azoted
 abominations
@@ -23864,6 +23863,7 @@ abrogable
 aerator
 autocar
 alumnal
+autotomic
 appreciated
 autocarist
 afterbay
