@@ -12801,7 +12801,6 @@ bullfice
 bookwards
 byronite
 booting
-basisidia
 booleans
 booly
 betatters
@@ -17207,6 +17206,7 @@ baboonroot
 bleachers
 bedegar
 benzinduline
+basisidia
 ballistocardiogram
 bedotted
 boniest
