@@ -12844,6 +12844,7 @@ bespousing
 buccula
 balers
 blastulae
+betallow
 bacterins
 becrawled
 brushoff
@@ -13702,7 +13703,6 @@ buchanan
 beknotted
 bleary
 bombination
-betallow
 bezonian
 boid
 bookplate
