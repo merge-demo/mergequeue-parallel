@@ -916,6 +916,7 @@ collared
 colpotomy
 canterburies
 calaboose
+chamfrons
 chanfrin
 canelle
 calabur
@@ -19683,7 +19684,6 @@ creophagist
 columbine
 covin
 climactic
-chamfrons
 crocky
 copesetic
 columbotantalate
