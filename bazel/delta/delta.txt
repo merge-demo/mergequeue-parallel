@@ -5176,6 +5176,7 @@ denied
 dens
 dramalogue
 downwith
+dovekie
 disguster
 denyer
 didromy
@@ -13504,7 +13505,6 @@ dungeoner
 datasets
 disperse
 demeritorious
-dovekie
 disquisitive
 disrelishable
 dissentment
