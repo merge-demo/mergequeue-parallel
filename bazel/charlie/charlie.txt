@@ -2384,6 +2384,7 @@ chimneys
 cancer
 cancerated
 corroborators
+coelacanthidae
 convenes
 cancerigenic
 catechol
@@ -3592,7 +3593,6 @@ caracolling
 caracora
 caracore
 caract
-coelacanthidae
 consistible
 caractacus
 caradoc
