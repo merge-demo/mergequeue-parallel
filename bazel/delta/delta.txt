@@ -3248,7 +3248,6 @@ definitely
 desecrate
 duramater
 distrait
-definiteness
 dahlin
 duolog
 diceman
@@ -16432,6 +16431,7 @@ downtrend
 downthrown
 duodecagon
 distractedness
+definiteness
 doubletree
 denaturation
 delimitizing
